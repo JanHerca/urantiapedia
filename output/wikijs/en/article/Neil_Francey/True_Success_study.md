@@ -68,10 +68,12 @@ Faith triumphs over all adversity and can dominate the way we live. It releases 
 
 God is a living friend and a loving father. There is an exhilaration in having such a true and reliable friend. Our service to humanity can be done as a friend for a friend. It is not a duty. The secret of all good relationships is love.
 
-[Click here to read _True Success_](http://anzura.urantia-association.org/wp-content/uploads/sites/3/2021/04/2021-True-Success.pdf)
-
-[Click here to read _True Success – the summary_](http://anzura.urantia-association.org/wp-content/uploads/sites/3/2021/04/2021-TRUE-SUCCESS-SUMMARY.pdf)
+[Click here to read _True Success_](/en/article/Neil_Francey/True_Success)
 
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/true-success
+
+- Original _True Success_ PDF: http://anzura.urantia-association.org/wp-content/uploads/sites/3/2021/04/2021-True-Success.pdf
+
+- Original _True Success – the summary_: http://anzura.urantia-association.org/wp-content/uploads/sites/3/2021/04/2021-TRUE-SUCCESS-SUMMARY.pdf

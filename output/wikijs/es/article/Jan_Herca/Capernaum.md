@@ -16,7 +16,7 @@ Pero, ¿cómo fue esta población en la época de Jesús?
 
 Por suerte, conocemos el exacto emplazamiento, y no porque esté poblado, sino porque unas estupendas ruinas han dejado patentes las huellas de la historia.
 
-Para mi resumen voy a utilizar dos fuentes. De una parte, la información de la página web del Studium Biblicum Franciscanum, los encargados de las excavaciones que se están efectuando en el emplazamiento. De otra parte, las opiniones vertidas en el recomendable libro _Jesús desenterrado_, por dos buenos expertos en arqueología y exégesis evangélica como son John D. Crossan y Jonathan L. Reed. Estos autores elaboran una lista de los diez hallazgos arqueológicos y exegéticos más importantes de los últimos años, y entre ellos sitúan el descubrimiento en Cafarnaúm de una supuesta «casa del apóstol Pedro».
+Para mi resumen voy a utilizar dos fuentes (ver [Referencias](#referencias)). De una parte, la información de la página web del Studium Biblicum Franciscanum , los encargados de las excavaciones que se están efectuando en el emplazamiento. De otra parte, las opiniones vertidas en el recomendable libro _Jesús desenterrado_, por dos buenos expertos en arqueología y exégesis evangélica como son John D. Crossan y Jonathan L. Reed. Estos autores elaboran una lista de los diez hallazgos arqueológicos y exegéticos más importantes de los últimos años, y entre ellos sitúan el descubrimiento en Cafarnaúm de una supuesta «casa del apóstol Pedro».
 
 En términos generales, y esto es lo importante, las dos fuentes describen la Cafarnaúm de tiempos de Jesús, al hilo de los hallazgos arqueológicos encontrados, como una pequeña aldehuela de pescadores con no más de mil habitantes.
 
@@ -70,7 +70,7 @@ El pasaje de la curación del paralítico ([Mc 2:4](/es/Bible/Mark/2#v4), [Lc 5:
 
 La vivienda, por tanto, se componía de un gran patio central al que desembocaban varias habitaciones. Vivían familias completas, con los suegros y los padres inclusive (véase por ejemplo la curación de la suegra de Pedro en [Mc 1:29](/es/Bible/Mark/1#v29)). Este patio hacía durante los largos meses estivales de sala de estar, comedor y cocina, así como de taller, garage y almacén. La cocina se componía de un sencillo horno de barro y una piedra para moler el grano y formar la harina para el pan. Se han desenterrado patios con aperos agrícolas, como grandes muelas y prensas de aceite movidas por mulas o bueyes. En invierno toda la familia dormía en el interior de las habitaciones, normalmente en el suelo, sobre sencillas esteras, o todo lo más en literas plegables.
 
-Como mobiliario los arqueólogos han desenterrado numerosas vasijas de piedra, pero no muy grandes: sencillas jarritas, tazas o cuencos hechos a mano o fabricados con ayuda de un pequeño torno. Las lámparas eran sencillas, carentes de decoración, o todo los más con sencillos motivos florales. La cerámica encontrada, al parecer, procedía de la aldea de Kefar Hananya, en la Alta Galilea, y constaba de cazuelas, pucheros, cántaras para el agua y jarras de diferentes tipos. No eran muy frecuentes objetos más refinados como platos, fuentes y tazas.
+Como mobiliario los arqueólogos han desenterrado numerosas vasijas de piedra, pero no muy grandes: sencillas jarritas, tazas o cuencos hechos a mano o fabricados con ayuda de un pequeño torno. Las lámparas eran sencillas, carentes de decoración, o todo lo más con sencillos motivos florales. La cerámica encontrada, al parecer, procedía de la aldea de Kefar Hananya, en la Alta Galilea, y constaba de cazuelas, pucheros, cántaras para el agua y jarras de diferentes tipos. No eran muy frecuentes objetos más refinados como platos, fuentes y tazas.
 
 ## La sinagoga
 
@@ -78,11 +78,11 @@ Actualmente, en las ruinas visibles, pueden admirarse los restos de una hermosa 
 
 Ésta, evidentemente, no es la sinagoga que conoció Jesús. Pero, ¿podría estar construida sobre los cimientos de la original que sí conoció el Maestro? Así lo afirman los arqueólogos franciscanos que han examinado la base del edificio, aunque esta opinión no es compartida por Reed.
 
-Las sinagogas del siglo I no solían ser edificios especiales. En muchos yacimientos se ha tenido que presuponer como sinagogas algunas viviendas que eran adaptadas para tal uso. En otros casos sí se realizaba alguna construcción, pero de gran sencillez. Crossan y Reed apuntan muy acertadamente que sinagoga, en la época de Jesús, no solía designar a un tipo de edificio concreto, sino a la asamblea o lugar de reunión habitual para celebrar los ritos religiosos. Este lugar no tenía porqué ser una construcción sancionada o sacralizada para tal fin.
+Las sinagogas del siglo I no solían ser edificios especiales. En muchos yacimientos se ha tenido que presuponer como sinagogas algunas viviendas que eran adaptadas para tal uso. En otros casos sí se realizaba alguna construcción, pero de gran sencillez. Crossan y Reed apuntan muy acertadamente que «sinagoga», en la época de Jesús, no solía designar a un tipo de edificio concreto, sino a la asamblea o lugar de reunión habitual para celebrar los ritos religiosos. Este lugar no tenía porqué ser una construcción sancionada o sacralizada para tal fin.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="../../../image/article/Jan_Herca/Capernaum/800px-Capernaum_synagogue_by_David_Shankbone.jpg">
-<figcaption><em>Sinagoga de Cafarnaúm construida sobre la de tiempos de Jesús. </em> <a href="http://es.wikipedia.org/wiki/Capernaum_synagogue_by_David_Shankbone.jpg">Wikipedia</a></figcaption>
+<figcaption><em>Sinagoga de Cafarnaúm supuestamente construida sobre la de tiempos de Jesús. </em> <a href="http://es.wikipedia.org/wiki/Capernaum_synagogue_by_David_Shankbone.jpg">Wikipedia</a></figcaption>
 </figure>
 
 Según el evangelio de Lucas la sinagoga como tal sí existió en el caso de Cafarnaúm ([Lc 7:1-10](/es/Bible/Luke/7#v1)), pues el evangelista incluso menciona al benefactor que la construyó. Está claro que no está hablando de una vivienda cualquiera o un lugar público, como una plaza. Habla de una construcción concreta. Esto me hace estar en desacuerdo con las sorprendentes interpretaciones de Crossan y Reed en esta cuestión. Para ellos la ausencia de unos restos claros y rotundos de una sinagoga del siglo I implican necesariamente que no hubo tal edificio, a pesar de que la sinagoga es mencionada incluso en otros pasajes de los evangelios ([Mc 1:21](/es/Bible/Mark/1#v21), [Jn 6:59](/es/Bible/John/6#v59)). 
@@ -94,7 +94,7 @@ Según el evangelio de Lucas la sinagoga como tal sí existió en el caso de Caf
 
 ## La guarnición romana
 
-Crossan llega a la conclusión de que el pasaje de Lucas en el que se menciona a un «centurión romano» como el benefactor, no es una buena traducción del griego _hekatonarchos_ o con el _basilikos_ de [Jn 4:43-54](/es/Bible/John/4#v43). Es decir, que todo el pasaje está mal traducido. El centurión no era centurión, los soldados a su cargo no podían ser romanos, y en modo alguno fue el constructor de una sinagoga. «Durante el reinado de Antipas no hubo nunca oficiales romanos estacionados con carácter permanente en Galilea», afirman los autores mencionados.
+Crossan llega a la conclusión de que el pasaje de Lucas en el que se menciona a un «centurión romano» como el benefactor, no es una buena traducción del griego _hekatonarchos_ o del _basilikos_ de [Jn 4:43-54](/es/Bible/John/4#v43). Es decir, que todo el pasaje está mal traducido. El centurión no era centurión, los soldados a su cargo no podían ser romanos, y en modo alguno fue el constructor de una sinagoga. «Durante el reinado de Antipas no hubo nunca oficiales romanos estacionados con carácter permanente en Galilea», afirman los autores mencionados.
 
 Sin embargo, discrepo de estas apreciaciones. Quizá no se trataba de un centurión, pero sí podría ser un cargo de rango inferior, y Lucas lo llama centurión por generalizar. La cuestión es que era un gentil que sentía cierta estima por Cafarnaúm por llevar allí sirviendo durante bastante tiempo, y donó dinero para la construcción de una nueva sinagoga.
 
@@ -131,7 +131,7 @@ Esto hace bastante plausible la idea de _El Libro de Urantia_ de que hubo un edi
 
 ## La casa de aduanas
 
-Otro edificio de singular interés es la casa de aduanas o peaje mencionado en los evangelios ([Mt 9:9](/es/Bible/Matthew/9#v9), [Mc 2:14](/es/Bible/Mark/2#v14), [Lc 5:27](/es/Bible/Luke/5#v27)). Es de suponer que se trataría de un edificio de escasa entidad, por lo que resulta fácil comprender que no se hayan encontrado restos que lo delaten, como un edificio junto a la calzada con un inusual número de monedas entre sus restos. Este edificio, como ya he indicado, resulta lógico imaginar que tuviera una garita adyacente para albergar a los soldados romanos encargados de proteger el dinero de las recaudaciones.
+Otro edificio de singular interés es la casa de aduanas o peaje mencionado en los evangelios ([Mt 9:9](/es/Bible/Matthew/9#v9), [Mc 2:14](/es/Bible/Mark/2#v14), [Lc 5:27](/es/Bible/Luke/5#v27)). Es de suponer que se trataría de un edificio de escasa entidad, por lo que resulta fácil comprender que no se hayan encontrado restos que lo delaten, como un edificio junto a la calzada con un inusual número de monedas bajo el suelo. Este edificio, como ya he indicado, resulta lógico imaginar que tuviera una garita adyacente para albergar a los soldados romanos encargados de proteger el dinero de las recaudaciones.
 
 ## Conclusiones
 
@@ -144,6 +144,8 @@ Las excavaciones arqueológicas y el análisis de los expertos están aclarando 
 ## Referencias
 
 - John D. Crossan y Jonathan L. Reed, _Jesús desenterrado_, Editorial Crítica, 2001.
+
+- Web de los santuarios custodiados por el Studium Biblicum Franciscanum: https://www.custodia.org/en/sanctuaries, que incluye Cafarnaúm
 
 - http://198.62.75.1/www1/ofm/sites/TScpmain.html, yacimientos arqueológicos de Cafarnaúm. (El enlace original está roto pero se puede acceder a una copia en [Internet Archive](https://web.archive.org/web/20120118210609/http://198.62.75.1/www1/ofm/sites/TScpmenu.html).)
 
