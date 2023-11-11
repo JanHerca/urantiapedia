@@ -3,12 +3,36 @@ title: "2022 Anzura Annual Conference"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Arena, article
+tags: Urantia Movement Event, The Arena, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Summer 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/2021 ANZURA_Virtual_Conference_Report">
+          <span class="pr-2">2021 ANZURA Virtual Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Conference Committee
 
@@ -28,7 +52,7 @@ The ‘ROPE’ in the theme title is an acronym for the **R**eligion **O**f 
 
 _The Urantia Book_ is replete with awe-inspiring quotes reminding us that personal, intimate fellowship with God is within reach of us all!
 
-> _It is high time that man had a religious experience so personal and so sublime that it could be realized and expressed only by “feelings that lie too deep for words.”_ [UB 99:5.9](/en/The_Urantia_Book/99#p5_9)
+> _It is high time that man had a religious experience so personal and so sublime that it could be realized and expressed only by “feelings that lie too deep for words.”_ <a id="a54_171"></a>[UB 99:5.9](/en/The_Urantia_Book/99#p5_9)
 
 ## Venue
 
@@ -104,3 +128,27 @@ Email: [anzura.urantia@gmail.com](mailto:anzura.urantia@gmail.com)
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2022/01/01/2022-anzura-annual-conference
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Summer 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/2021 ANZURA_Virtual_Conference_Report">
+          <span class="pr-2">2021 ANZURA Virtual Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

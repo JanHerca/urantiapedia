@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Nigel Nunn<br>© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/Application_of_Scientific_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Application of Scientific Thinking…</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marion_Steward/The_Challenges_of_Diversity">
+          <span class="pr-2">The Challenges of Diversity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Nigel Nunn, ACT
 
@@ -46,3 +70,27 @@ As I try to show in these videos, in 1934 _The Urantia Book_ appears to have giv
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/recent-developments-astrophysics-sector
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/Application_of_Scientific_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Application of Scientific Thinking…</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marion_Steward/The_Challenges_of_Diversity">
+          <span class="pr-2">The Challenges of Diversity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -47,39 +47,39 @@ Although these terms all fall within today's sphere of meditation with their obj
 
 The following quotes from _The Urantia Book_ shed light on the meaning of these terms:
 
-> _Prayer and its associated worship is a technique of detachment from the daily routine of life, from the monotonous grind of material existence_ [UB 144:4.5](/en/The_Urantia_Book/144#p4_5)
+> _Prayer and its associated worship is a technique of detachment from the daily routine of life, from the monotonous grind of material existence_ <a id="s49_147"></a>[UB 144:4.5](/en/The_Urantia_Book/144#p4_5)
 
-> _The contact of the mortal mind with its indwelling Adjuster, while often favoured by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one's fellow creatures._ [UB 91:7.1](/en/The_Urantia_Book/91#p7_1)
+> _The contact of the mortal mind with its indwelling Adjuster, while often favoured by devoted meditation, is more frequently facilitated by wholehearted and loving service in unselfish ministry to one's fellow creatures._ <a id="s51_224"></a>[UB 91:7.1](/en/The_Urantia_Book/91#p7_1)
 
 Paragraphs 91:7:2 and 125:4.4 show us that meditation is considered distinctly from prayer:
 
-> _Jesus often took his apostles away by themselves for short periods to engage in meditation and prayer, but for the most part he kept them in service-contact with the multitudes._ [UB 91:7.2](/en/The_Urantia_Book/91#p7_2)
+> _Jesus often took his apostles away by themselves for short periods to engage in meditation and prayer, but for the most part he kept them in service-contact with the multitudes._ <a id="s55_182"></a>[UB 91:7.2](/en/The_Urantia_Book/91#p7_2)
 
-> _When this, his second day in the temple, was finished, again he went to Bethany for the night. And again he went out in the garden to meditate and pray. It was apparent that his mind was concerned with the contemplation of weighty problems._ [UB 125:4.4](/en/The_Urantia_Book/125#p4_4)
+> _When this, his second day in the temple, was finished, again he went to Bethany for the night. And again he went out in the garden to meditate and pray. It was apparent that his mind was concerned with the contemplation of weighty problems._ <a id="s57_245"></a>[UB 125:4.4](/en/The_Urantia_Book/125#p4_4)
 
 The word, ‘pray’ or ‘prayer’ is used more frequently in The Urantia Book, appearing 107 times. It is used in the sense of asking for something, and it is used distinctly from the word ‘worship’
 
-> _When man learned that prayer could not coerce the gods, then it became more of a petition, favor seeking. But the truest prayer is in reality a communion between man and his Maker_ [UB 91:2.3](/en/The_Urantia_Book/91#p2_3)
+> _When man learned that prayer could not coerce the gods, then it became more of a petition, favor seeking. But the truest prayer is in reality a communion between man and his Maker_ <a id="s61_184"></a>[UB 91:2.3](/en/The_Urantia_Book/91#p2_3)
 
-> _When the prayer seeks nothing for the one who prays nor anything for his fellows, then such attitudes of the soul tend to the levels of true worship._ [UB 91:4.3](/en/The_Urantia_Book/91#p4_3)
+> _When the prayer seeks nothing for the one who prays nor anything for his fellows, then such attitudes of the soul tend to the levels of true worship._ <a id="s63_154"></a>[UB 91:4.3](/en/The_Urantia_Book/91#p4_3)
 
-> _...prayer is designed to make man less thinking but more realizing; it is not designed to increase knowledge but rather to expand insight._ [UB 143:7.4](/en/The_Urantia_Book/143#p7_4)
+> _...prayer is designed to make man less thinking but more realizing; it is not designed to increase knowledge but rather to expand insight._ <a id="s65_143"></a>[UB 143:7.4](/en/The_Urantia_Book/143#p7_4)
 
 Worship on the other hand is used 419 times in The Urantia Book. Worship is the highest note in the escalating musical scale of devotional activities beneficial to all individuals — beginning with rest and relaxation, then through reflection and meditation, then prayer, and finally worship, with worship being the ultimate act of devotion to the Father and the ‘ideal soul rest’.
 
-> _At all times and during all ages the true worship of any human being — as concerns individual spiritual progress — is recognized by the indwelling spirit as homage rendered to the Father in heaven._ [UB 142:3.8](/en/The_Urantia_Book/142#p3_8)
+> _At all times and during all ages the true worship of any human being — as concerns individual spiritual progress — is recognized by the indwelling spirit as homage rendered to the Father in heaven._ <a id="s69_202"></a>[UB 142:3.8](/en/The_Urantia_Book/142#p3_8)
 
 The distinction between prayer and worship is emphasised on numerous occasions.
 
-> _...prayer is spiritually sustaining, but worship is divinely creative._ [UB 143:7.5](/en/The_Urantia_Book/143#p7_5)
+> _...prayer is spiritually sustaining, but worship is divinely creative._ <a id="s73_75"></a>[UB 143:7.5](/en/The_Urantia_Book/143#p7_5)
 
-> _Prayer is self-reminding — sublime thinking; worship is self-forgetting-superthinking. Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion._ [UB 143:7.7](/en/The_Urantia_Book/143#p7_7)
+> _Prayer is self-reminding — sublime thinking; worship is self-forgetting-superthinking. Worship is effortless attention, true and ideal soul rest, a form of restful spiritual exertion._ <a id="s75_188"></a>[UB 143:7.7](/en/The_Urantia_Book/143#p7_7)
 
-> _As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father._ [UB 144:4.8](/en/The_Urantia_Book/144#p4_8)
+> _As prayer may be likened to recharging the spiritual batteries of the soul, so worship may be compared to the act of tuning in the soul to catch the universe broadcasts of the infinite spirit of the Universal Father._ <a id="s77_221"></a>[UB 144:4.8](/en/The_Urantia_Book/144#p4_8)
 
 And consider the extraordinary reach of worship over that of simple prayer in the following paragraph in Paper 5 — God's Relation to the Individual
 
-> _Prayers, all formal communications, everything except adoration and worship of the Universal Father, are matters that concern a local universe; they do not ordinarily proceed out of the realm of the jurisdiction of a Creator Son. But worship is undoubtedly encircuited and dispatched to the person of the Creator by the function of the Father's personality circuit._ [UB 5:3.2](/en/The_Urantia_Book/5#p3_2)
+> _Prayers, all formal communications, everything except adoration and worship of the Universal Father, are matters that concern a local universe; they do not ordinarily proceed out of the realm of the jurisdiction of a Creator Son. But worship is undoubtedly encircuited and dispatched to the person of the Creator by the function of the Father's personality circuit._ <a id="s81_370"></a>[UB 5:3.2](/en/The_Urantia_Book/5#p3_2)
 
 In the Bible [^2] meditation is also describes as a focus for keeping one whole steady and centred. It is referred to some 23 times, for example:
 
@@ -151,24 +151,24 @@ Now, with the mind still clear, we offer our unselfish, sincere and trusting pra
 
 Focus on the meaning and intent of the prayer and follow the words in your mind...
 
-- [UB 144:5.12](/en/The_Urantia_Book/144#p5_12) Our creative Parent, who is in the center of the universe... [^3]
-- [UB 144:5.13](/en/The_Urantia_Book/144#p5_13) Bestow upon us your nature and give to us your character...
-- [UB 144:5.14](/en/The_Urantia_Book/144#p5_14) Make us sons and daughters of yours by grace...
-- [UB 144:5.15](/en/The_Urantia_Book/144#p5_15) And glorify your name through our eternal achievement...
-- [UB 144:5.16](/en/The_Urantia_Book/144#p5_16) Your adjusting and controlling spirit give to live and dwell within us...
-- [UB 144:5.17](/en/The_Urantia_Book/144#p5_17) That we may do your will on this sphere as angels do your bidding in light...
-- [UB 144:5.18](/en/The_Urantia_Book/144#p5_18) Sustain us this day in our progress along the path of truth...
-- [UB 144:5.19](/en/The_Urantia_Book/144#p5_19) Deliver us from inertia, evil, and all sinful transgression...
-- [UB 144:5.20](/en/The_Urantia_Book/144#p5_20) Be patient with us as we show loving-kindness to our fellows...
-- [UB 144:5.21](/en/The_Urantia_Book/144#p5_21) Shed abroad the spirit of your mercy in our creature hearts...
-- [UB 144:5.22](/en/The_Urantia_Book/144#p5_22) Lead us by your own hand, step by step, through the uncertain maze of life...
-- [UB 144:5.23](/en/The_Urantia_Book/144#p5_23) And when our end shall come, receive into your own bosom our faithful spirits...
-- [UB 144:5.29](/en/The_Urantia_Book/144#p5_29) Ever lead us in the ways of eternal progress...
-- [UB 144:5.30](/en/The_Urantia_Book/144#p5_30) Fill us with wisdom to the fullness of power.
-- [UB 144:5.31](/en/The_Urantia_Book/144#p5_31) And vitalize us with your infinite energy...
-- [UB 144:5.34](/en/The_Urantia_Book/144#p5_34) Guide us ever upward in the pathway of light...
-- [UB 144:5.36](/en/The_Urantia_Book/144#p5_36) Make us like yourself in eternal glory...
-- [UB 144:5.37](/en/The_Urantia_Book/144#p5_37) And receive us into your endless service on high...
+- <a id="s153_2"></a>[UB 144:5.12](/en/The_Urantia_Book/144#p5_12) Our creative Parent, who is in the center of the universe... [^3]
+- <a id="s154_2"></a>[UB 144:5.13](/en/The_Urantia_Book/144#p5_13) Bestow upon us your nature and give to us your character...
+- <a id="s155_2"></a>[UB 144:5.14](/en/The_Urantia_Book/144#p5_14) Make us sons and daughters of yours by grace...
+- <a id="s156_2"></a>[UB 144:5.15](/en/The_Urantia_Book/144#p5_15) And glorify your name through our eternal achievement...
+- <a id="s157_2"></a>[UB 144:5.16](/en/The_Urantia_Book/144#p5_16) Your adjusting and controlling spirit give to live and dwell within us...
+- <a id="s158_2"></a>[UB 144:5.17](/en/The_Urantia_Book/144#p5_17) That we may do your will on this sphere as angels do your bidding in light...
+- <a id="s159_2"></a>[UB 144:5.18](/en/The_Urantia_Book/144#p5_18) Sustain us this day in our progress along the path of truth...
+- <a id="s160_2"></a>[UB 144:5.19](/en/The_Urantia_Book/144#p5_19) Deliver us from inertia, evil, and all sinful transgression...
+- <a id="s161_2"></a>[UB 144:5.20](/en/The_Urantia_Book/144#p5_20) Be patient with us as we show loving-kindness to our fellows...
+- <a id="s162_2"></a>[UB 144:5.21](/en/The_Urantia_Book/144#p5_21) Shed abroad the spirit of your mercy in our creature hearts...
+- <a id="s163_2"></a>[UB 144:5.22](/en/The_Urantia_Book/144#p5_22) Lead us by your own hand, step by step, through the uncertain maze of life...
+- <a id="s164_2"></a>[UB 144:5.23](/en/The_Urantia_Book/144#p5_23) And when our end shall come, receive into your own bosom our faithful spirits...
+- <a id="s165_2"></a>[UB 144:5.29](/en/The_Urantia_Book/144#p5_29) Ever lead us in the ways of eternal progress...
+- <a id="s166_2"></a>[UB 144:5.30](/en/The_Urantia_Book/144#p5_30) Fill us with wisdom to the fullness of power.
+- <a id="s167_2"></a>[UB 144:5.31](/en/The_Urantia_Book/144#p5_31) And vitalize us with your infinite energy...
+- <a id="s168_2"></a>[UB 144:5.34](/en/The_Urantia_Book/144#p5_34) Guide us ever upward in the pathway of light...
+- <a id="s169_2"></a>[UB 144:5.36](/en/The_Urantia_Book/144#p5_36) Make us like yourself in eternal glory...
+- <a id="s170_2"></a>[UB 144:5.37](/en/The_Urantia_Book/144#p5_37) And receive us into your endless service on high...
 
 
 ### Focused Meditation/ Visualisation
@@ -269,7 +269,7 @@ Spiritual meditation is a common base to the many seemingly-different religions 
 
 The reflective worship technique invites you to ask yourself a question: perhaps something such as, “What am I most grateful for?” Become aware of the feelings, not the thoughts, which arise when you focus on the question.
 
-> _Jesus taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer_ [^3]. [UB 144:3.14](/en/The_Urantia_Book/144#p3_14)
+> _Jesus taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer_ [^3]. <a id="s271_195"></a>[UB 144:3.14](/en/The_Urantia_Book/144#p3_14)
 
 > _Jesus taught that effective prayer must be:_
 > 
@@ -277,11 +277,11 @@ The reflective worship technique invites you to ask yourself a question: perhaps
 > _2. Believing-according to faith._
 > _3. Sincere-honest of heart._
 > _4. Intelligent-according to light._
-> _5. Trustful-in submission to the Father's all-wise will._ [UB 144:3.17-22](/en/The_Urantia_Book/144#p3_17)
+> _5. Trustful-in submission to the Father's all-wise will._ <a id="s279_61"></a>[UB 144:3.17-22](/en/The_Urantia_Book/144#p3_17)
 
-> _The more healthful attitude of spiritual meditation is to be found in reflective worship and in the prayer of thanksgiving._ [UB 100:5.10](/en/The_Urantia_Book/100#p5_10)
+> _The more healthful attitude of spiritual meditation is to be found in reflective worship and in the prayer of thanksgiving._ <a id="s281_128"></a>[UB 100:5.10](/en/The_Urantia_Book/100#p5_10)
 
-> _But the efficacy of prayer in the personal spiritual experience of the one who prays is in no way dependent on such a worshiper's intellectual understanding, philosophic acumen, social level, cultural status, or other mortal acquirements. The psychic and spiritual concomitants of the prayer of faith are immediate, personal, and experiential. There is no other technique whereby every man, regardless of all other mortal accomplishments, can so effectively and immediately approach the threshold of that realm wherein he can communicate with his Maker, where the creature contacts with the reality of the Creator, with the indwelling Thought Adjuster_ [^3]. [UB 91:6.7](/en/The_Urantia_Book/91#p6_7)
+> _But the efficacy of prayer in the personal spiritual experience of the one who prays is in no way dependent on such a worshiper's intellectual understanding, philosophic acumen, social level, cultural status, or other mortal acquirements. The psychic and spiritual concomitants of the prayer of faith are immediate, personal, and experiential. There is no other technique whereby every man, regardless of all other mortal accomplishments, can so effectively and immediately approach the threshold of that realm wherein he can communicate with his Maker, where the creature contacts with the reality of the Creator, with the indwelling Thought Adjuster_ [^3]. <a id="s283_662"></a>[UB 91:6.7](/en/The_Urantia_Book/91#p6_7)
 
 ### 6. Loving-Kindness Meditation
 
@@ -392,7 +392,7 @@ Take the human away from the embrace of the Mother Earth and there is not much l
 
 We function as the extremities, the living extension, of the immense creative power of our Gaia planet. We are at the cutting edge of the Earth's, indeed the Sun's and indeed the whole universe's powers of evolutionary growth. This essentially means that, given the elements of our planet — the Sun's fire, the atmosphere's oxygen, and life-giving water of the rivers, lakes and oceans-life spontaneously springs forth from the Earth — blooming over countless millennia from the first primitive cells to the abundance of life we see all around us. The important thing to realise is that Earth's creative power is yours, everyone's, to discover, tap into and wield. Your heart, mind, soul and body are the living extension of the powers that called them into existence. Your individual experiences combine with those of everyone else on this planet, because everyone, the whole Earth, was created to live and experience together with all of those lives and experiences summing together to make every imaginable living experience, with the most powerful and positive emotion of love dominating and overwhelming the rest, and with the whole of humanity — past, present and future — evolving the awareness to embrace that fact.
 
-> _Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are coordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty._ [[UB 2:7.12](/en/The_Urantia_Book/2#p7_12)] [^3]
+> _Truth is coherent, beauty attractive, goodness stabilizing. And when these values of that which is real are coordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty._ <a id="s394_234"></a>[[UB 2:7.12](/en/The_Urantia_Book/2#p7_12)] [^3]
 
 Well, that message may sound very familiar when couched in other terms. But if everybody would care to put aside their cultural or traditional religious beliefs, their dogma, terminology, rituals, fasts, traditions and prejudices, temples, architectural styles and uniforms and symbols, and focus on the key fundamental objective buried beneath the superfluous outer robes, one arrives at this key central tenant; that love and the oneness of humanity is the single most and only important coherent fact — we are all one and we are all of equal importance, no one has less value and no one has more, we are all part of and embraced by this central love. As the furthest extensions of this creative force we must embrace, wield or apply this love to all of our fellows. And this central message is at the heart of every other major religion I can think of. Following the same argument, the creative force behind all this, our planet and us, cannot be some random impersonal scientific force that happened just by chance to accidently create us; for then where would the love, central to very being, be arising from. The creative force itself, however you want to imagine it, or however it has been presented to you through your cultural traditions, must be love itself. We will obviously function at our best when we harness and apply this force at every moment of our lives. Despite this we are also personal individual beings. We are individuals and we have a personality therefore the creative force of love cannot be some non-personal force. This force must also manifest, or be the origins of, personality — it must be either an individual personality at the origins of personality, or the source or combination of all of the personalities at its extremities — or perhaps it might be the Supreme Self [^4] made up of all our unique individual selves.
 

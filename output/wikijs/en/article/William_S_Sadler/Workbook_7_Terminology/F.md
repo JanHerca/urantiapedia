@@ -68,7 +68,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > 
 > Faith acts to release the superhuman activities of the divine spark, the immortal germ, that lives within the mind of man, and which is the potential of eternal survival. <a id="s68_173"></a>[UB 132:3.5](/en/The_Urantia_Book/132#p3_5)
 
-> “Peace be upon you. You rejoice to know that I am the resurrection and the life, but this will avail you nothing unless you are first born of the eternal spirit, thereby coming to possess, by faith, the gift of eternal life. If you are the faith sons of my Father, you shall never die; you shall not perish.” <a id="s70_309"></a>[UB 193:1.2](/en/The_Urantia_Book/193#p1_2)
+> “Peace be upon you. You rejoice to know that I am the resurrection and the life, but this will avail you nothing unless you are first born of the eternal spirit, thereby coming to possess, by faith, the gift of eternal life. If you are the faith sons of my Father, you shall never die; you shall not perish.” <a id="s70_311"></a>[UB 193:1.2](/en/The_Urantia_Book/193#p1_2)
 
 ## Faithfuls of Days
 

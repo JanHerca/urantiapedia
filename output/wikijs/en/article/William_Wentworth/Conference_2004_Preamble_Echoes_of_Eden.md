@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 William Wentworth<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_New_Approach_to_Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Approach to Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand">
+          <span class="pr-2">Existentialism in Australia and New Zealand</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By William Wentworth, Australia
 
@@ -45,7 +69,7 @@ Nebadon, and maybe Orvonton and the entire Grand Universe, apply this principle.
 It is actually no use waiting until the mansion worlds, because the same efforts are likely required of us there. We don’t learn anything simply by being morontians. We still have to learn to do what we can’t do by doing it, learning from our mistakes and developing increased capacity to learn by having a go. We still will be struggling to comprehend what is beyond us as morontians, and probably also as spirits in the superuniverse, and maybe even as finaliters, and the method is always the same. Try to comprehend, and the effort of trying expands the capacity to comprehend. So, we might as well make a start now, not forgetting that…
 <br style="clear:both;"/>
 
-> _…in liaison with God, nothing—absolutely nothing—is impossible._ [[UB 26:5.3](/en/The_Urantia_Book/26#p5_3)]
+> _…in liaison with God, nothing—absolutely nothing—is impossible._ <a id="a71_68"></a>[[UB 26:5.3](/en/The_Urantia_Book/26#p5_3)]
 
 It seems clear that a shared planetary frame of reference is fundamental to future planetary progress. The conference theme Echoes of Eden—is intended to stimulate thought about Urantia’s existing cultures and their underlying assumptions. We invite conference attendees to attempt to imagine the implications of grafting a Jerusem perspective onto these existing cultures.
 
@@ -54,3 +78,27 @@ While we may not reach conclusions, we hope to establish that _The Urantia Book_
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/conference-2004-echoes-eden
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_New_Approach_to_Revelation_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A New Approach to Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand">
+          <span class="pr-2">Existentialism in Australia and New Zealand</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

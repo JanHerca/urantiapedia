@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Susan Hemmingsen<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fear Not</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ari_Majurinen/The_Apostle_Matthew">
+          <span class="pr-2">The Apostle Matthew</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Susan Hemmingsen, New Zealand
 
@@ -27,15 +51,15 @@ So here I am temporarily living by myself, in a small studio apartment, without 
 I have long had the benefit of knowing God is always with me and for me and loves me. Some years ago, over a period of several months, I had panic attacks and at a time when I felt I was only holding on by a thread and I thought my brain would explode; I heard an inner voice telling me that there was something inside me which would always stop me going over the edge. At the time, I was agnostic (pre-Urantia Book days) and didn’t believe in a personal God, but now I know that it was my loving Thought Adjuster, nudging me back to sanity.
 <br style="clear:both;"/>
 
-> _But no God-knowing mortal can ever be lonely in his journey through the cosmos, for he knows that the Father walks beside him each step of the way, while the very way that he is traversing is the presence of the Supreme._ [UB 117:6.27](/en/The_Urantia_Book/117#p6_27)
+> _But no God-knowing mortal can ever be lonely in his journey through the cosmos, for he knows that the Father walks beside him each step of the way, while the very way that he is traversing is the presence of the Supreme._ <a id="a53_225"></a>[UB 117:6.27](/en/The_Urantia_Book/117#p6_27)
 
 and
 
-> _Kingdom builders, the accredited citizens of the heavenly worlds, are not to be disturbed by temporal upheavals or perturbed by terrestrial cataclysms._ [UB 176:3.2](/en/The_Urantia_Book/176#p3_2)
+> _Kingdom builders, the accredited citizens of the heavenly worlds, are not to be disturbed by temporal upheavals or perturbed by terrestrial cataclysms._ <a id="a57_156"></a>[UB 176:3.2](/en/The_Urantia_Book/176#p3_2)
 
 Unfortunately, of course, this fact is not universally known as there are many who do not believe in God at all. Then, there are those who believe God is punishing the human race for past indiscretions and who don’t realise that God is living with them and is personally contactable, and may also believe that communication with God requires interpretation by a third party. I am grateful I can talk to God, my loving father, when I feel a bit lonely, and I’ve been doing quite a bit of this, plus praying more than usual.
 
-> _Personal, spiritual religious experience is an efficient solvent for most mortal difficulties; it is an effective sorter, evaluator, and adjuster of all human problems. Religion does not remove or destroy human troubles, but it does dissolve, absorb, illuminate, and transcend them. True religion unifies the personality for effective adjustment to all mortal requirements. Religious faith — the positive leading of the indwelling divine presence — unfailingly enables the God-knowing man to bridge that gulf existing between the intellectual logic which recognizes the Universal First Cause as_ **It** _and those positive affirmations of the soul which aver this First Cause is_ **He**_, the heavenly Father of Jesus’ gospel, the personal God of human salvation._ [UB 196:3.1](/en/The_Urantia_Book/196#p3_1)
+> _Personal, spiritual religious experience is an efficient solvent for most mortal difficulties; it is an effective sorter, evaluator, and adjuster of all human problems. Religion does not remove or destroy human troubles, but it does dissolve, absorb, illuminate, and transcend them. True religion unifies the personality for effective adjustment to all mortal requirements. Religious faith — the positive leading of the indwelling divine presence — unfailingly enables the God-knowing man to bridge that gulf existing between the intellectual logic which recognizes the Universal First Cause as_ **It** _and those positive affirmations of the soul which aver this First Cause is_ **He**_, the heavenly Father of Jesus’ gospel, the personal God of human salvation._ <a id="a61_768"></a>[UB 196:3.1](/en/The_Urantia_Book/196#p3_1)
 
 There is so much happening in the world to keep my mind fully occupied and one of the things I’m particularly interested in is the leadership in the different countries around the world and ways these different leaders are responding to the pandemic.
 
@@ -56,3 +80,27 @@ Susan Hemmingsen
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2020/05/10/new-zealand-corner
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fear Not</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ari_Majurinen/The_Apostle_Matthew">
+          <span class="pr-2">The Apostle Matthew</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Chris Moseley<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Think Alike – Necessary or Unnecessary?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Venosa/Amarantos">
+          <span class="pr-2">Amarantos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Chris Moseley, England
 
@@ -23,7 +47,7 @@ By Chris Moseley, England
 
 The concept of ‘Mind’ in itself, in the abstract, unlimited sense of the word, does not imply free will, but the individual mind, mortal mind, has freewill as an inseparable, defining component. In the passage on p.1216 entitled _The Mind Arena of Choice_, there is a striking sentence that almost expresses the kernel of the whole human condition:
 
-> _Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above_. [[UB 111:1.5](/en/The_Urantia_Book/111#p1_5)]
+> _Human consciousness rests gently upon the electrochemical mechanism below and delicately touches the spirit-morontia energy system above_. <a id="a49_142"></a>[[UB 111:1.5](/en/The_Urantia_Book/111#p1_5)]
 
 Viewed in these terms, what a finely-tuned creature a human being seems; what a mysterious fragility everyday existence has; and what grave responsibilities are implied for all the choices we make!
 
@@ -37,11 +61,11 @@ Material beings are most familiar with the workings of material gravity. It is t
 
 Our choices as mortals, then, are not as free as we might imagine, because of this invisible gravity pull, just as the tides are affected by the pull of the moon.
 
-We must remember that Adjusters have minds of their own ([UB 107:5.1](/en/The_Urantia_Book/107#p5_1)), but don’t exercise free will; this is the prerogative of the will creatures they indwell ([UB 107:7.2](/en/The_Urantia_Book/107#p7_2)).
+We must remember that Adjusters have minds of their own (<a id="a63_57"></a>[UB 107:5.1](/en/The_Urantia_Book/107#p5_1)), but don’t exercise free will; this is the prerogative of the will creatures they indwell (<a id="a63_193"></a>[UB 107:7.2](/en/The_Urantia_Book/107#p7_2)).
 
 They have indwelt us through an act of volition, but their own free will is sacrificed to ours. The prepersonal is at the disposal of the personal. And this is why it is so dangerous to automatically attribute our moral choices and decisions to adjuster guidance. The adjuster’s leading may be felt in the long term, and maybe seen with hindsight, but, the book tells us (p.1207), it is wiser and safer to attribute our thoughts, choices and decisions to purely mental activity.
 
-So we come to the crux of the problem. What I’ve been saying is just an attempt to prepare for reading _The Mind Arena of Choice. \*(See Appendix at the end of this article to read the entire section of [UB 111:1.1](/en/The_Urantia_Book/111#p1_1))  
+So we come to the crux of the problem. What I’ve been saying is just an attempt to prepare for reading _The Mind Arena of Choice. \*(See Appendix at the end of this article to read the entire section of <a id="a67_203"></a>[UB 111:1.1](/en/The_Urantia_Book/111#p1_1))  
 _
 
 Let’s try to comment on each paragraph.
@@ -56,7 +80,7 @@ The fourth paragraph reintroduces and re-emphasises the concept that this is a u
 
 I’ve already commented on the magnificent summary of the human condition that we find as the kernel of the fifth paragraph. Look again, though, at the reinforcing message:
 
-> _…it is not so much what mind comprehends as what mind desires to comprehend that insures survival._ [[UB 111:1.5](/en/The_Urantia_Book/111#p1_5)]
+> _…it is not so much what mind comprehends as what mind desires to comprehend that insures survival._ <a id="a82_103"></a>[[UB 111:1.5](/en/The_Urantia_Book/111#p1_5)]
 
 The sixth paragraph shows us the perils and responsibilities of having a borrowed mental vehicle. Freewill choices are routinely made with short-term gains for the self in mind. But the hard lesson, perhaps the hardest lesson to learn, is how to surrender that will to God’s.
 
@@ -66,7 +90,7 @@ The eighth paragraph restates the relationship of mind to the Adjuster. It is wh
 
 And the final paragraph contains magnificent truths that can’t be distilled into summaries:
 
-> _Mind is your ship, the Adjuster is your pilot, the human will is captain._ [[UB 111:1.9](/en/The_Urantia_Book/111#p1_9)]
+> _Mind is your ship, the Adjuster is your pilot, the human will is captain._ <a id="a92_78"></a>[[UB 111:1.9](/en/The_Urantia_Book/111#p1_9)]
 
 The imagery of shipwreck and peril at sea reminds us again of the heavy onus on mortal beings to make right, Adjuster guided choices.
 
@@ -96,9 +120,33 @@ _See the complete newsletter at:_
 > 
 > ^111:1.8^ But man does not passively, slavishly, surrender his will to the Adjuster. Rather does he actively, positively, and co-operatively choose to follow the Adjuster’s leading when and as such leading consciously differs from the desires and impulses of the natural mortal mind. The Adjusters manipulate but never dominate man’s mind against his will; to the Adjusters the human will is supreme. And they so regard and respect it while they strive to achieve the spiritual goals of thought adjustment and character transformation in the almost limitless arena of the evolving human intellect.
 > 
-> ^111:1.9^ Mind is your ship, the Adjuster is your pilot, the human will is captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to guide the ascending soul into the morontia harbors of eternal survival. Only by selfishness, slothfulness, and sinfulness can the will of man reject the guidance of such a loving pilot and eventually wreck the mortal career upon the evil shoals of rejected mercy and upon the rocks of embraced sin. With your consent, this faithful pilot will safely carry you across the barriers of time and the handicaps of space to the very source of the divine mind and on beyond, even to the Paradise Father of Adjusters. [UB 111:1.1-9](/en/The_Urantia_Book/111#p1_1)
+> ^111:1.9^ Mind is your ship, the Adjuster is your pilot, the human will is captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to guide the ascending soul into the morontia harbors of eternal survival. Only by selfishness, slothfulness, and sinfulness can the will of man reject the guidance of such a loving pilot and eventually wreck the mortal career upon the evil shoals of rejected mercy and upon the rocks of embraced sin. With your consent, this faithful pilot will safely carry you across the barriers of time and the handicaps of space to the very source of the divine mind and on beyond, even to the Paradise Father of Adjusters. <a id="a122_680"></a>[UB 111:1.1-9](/en/The_Urantia_Book/111#p1_1)
 
 
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/mining-archives-mind-arena
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Think Alike – Necessary or Unnecessary?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Venosa/Amarantos">
+          <span class="pr-2">Amarantos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Marion Steward<br>© 2022 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neville_Twist/The_Ultimate_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ultimate Human Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Marion Steward, Auckland NZ
 
@@ -32,3 +53,24 @@ Perhaps we could go back to the ‘pagan’ roots and explore the ancient tradit
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/new-zealand-corner-6
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Neville_Twist/The_Ultimate_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Ultimate Human Experience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="pr-2">President’s Report – December 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/ANZURA-email-header.jpg" alt="ANZURA">
@@ -171,7 +192,7 @@ Firstly, I would like to thank the Canberra group for this conference and its in
 It was an historic day when Jesus laid down his carpentry tools in the boat shed for the last time, after hearing that John the Baptist had been arrested, and went into the temple to begin his public teaching ministry and preached on the ‘kingdom within’ where he said:
 <br style="clear:both;"/>
 
-> _This kingdom is an everlasting dominion. Those who enter the kingdom shall ascend to my Father; they will certainly attain the right hand of his glory in Paradise. And all who enter the kingdom of heaven shall become the sons of God, and in the age to come so shall they ascend to the Father. And I have not come to call the would-be righteous but sinners and all who hunger and thirst for the righteousness of divine perfection._ [[UB 137:8.16](/en/The_Urantia_Book/137#p8_16)]
+> _This kingdom is an everlasting dominion. Those who enter the kingdom shall ascend to my Father; they will certainly attain the right hand of his glory in Paradise. And all who enter the kingdom of heaven shall become the sons of God, and in the age to come so shall they ascend to the Father. And I have not come to call the would-be righteous but sinners and all who hunger and thirst for the righteousness of divine perfection._ <a id="a194_434"></a>[[UB 137:8.16](/en/The_Urantia_Book/137#p8_16)]
 
 I’ll come back to this but first (since it’s the day for footy Grand Finals!) I want to talk a bit about goals.
 
@@ -219,7 +240,7 @@ _(Editor’s Note: **Mining the Archives** is a collection of articles that have
 
 **The Inner World of Mankind: Seeking a Description for the Fifth Epoch**
 
-_The advances of true civilization are all born in this inner world of mankind._ [[UB 111:4.3](/en/The_Urantia_Book/111#p4_3)]
+_The advances of true civilization are all born in this inner world of mankind._ <a id="a242_81"></a>[[UB 111:4.3](/en/The_Urantia_Book/111#p4_3)]
 
 Mankind has not yet shared an inner world. So far, the inner worlds of our tribes and nations have been fragmented and local. Instead of a rich tapestry of truth and fact, the backdrops to these partial inner worlds have been more or less crude collages, woven from dreams, fears and ambitions, sometimes sprinkled through with dislocated gems of revelation.
 
@@ -318,3 +339,24 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-summer-2019/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="pr-2">President’s Report – December 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

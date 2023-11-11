@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Daniel Swadling<br>© 2022 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Walking_the_R_O_P_E">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Walking the R.O.P.E – An Invitation to Intimacy with God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neville_Twist/The_Ultimate_Human_Experience">
+          <span class="pr-2">The Ultimate Human Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Daniel Swadling, Sydney NSW
 
@@ -18,15 +42,15 @@ By Daniel Swadling, Sydney NSW
 
 (Presented at the 2022 ANZURA Conference in Tasmania)
 
-> _The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within your mind._ [UB 110:3.4](/en/The_Urantia_Book/110#p3_4)
+> _The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within your mind._ <a id="a44_270"></a>[UB 110:3.4](/en/The_Urantia_Book/110#p3_4)
 
 We see this very attunement and consecration be demonstrated, actually occur, in the life of Jesus, which I’d like to explore with you today.
 
-> _Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._ [UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
+> _Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._ <a id="a48_120"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
 
-Religion is an experience. _‘Religion is an exclusively individual experience.’_ ([UB 196:2.11](/en/The_Urantia_Book/196#p2_11)) To understand the religion of Jesus, we have to see how it was revealed through his life and how he lived it, as it is a lived experience.
+Religion is an experience. _‘Religion is an exclusively individual experience.’_ (<a id="a50_82"></a>[UB 196:2.11](/en/The_Urantia_Book/196#p2_11)) To understand the religion of Jesus, we have to see how it was revealed through his life and how he lived it, as it is a lived experience.
 
-The creator of our universe bestowed himself on our planet with a _twofold mission_: to live the life of one of his human creatures, and to reveal God to us to help us understand him better. ([UB 128:0.2](/en/The_Urantia_Book/128#p0_2))
+The creator of our universe bestowed himself on our planet with a _twofold mission_: to live the life of one of his human creatures, and to reveal God to us to help us understand him better. (<a id="a52_192"></a>[UB 128:0.2](/en/The_Urantia_Book/128#p0_2))
 
 Jesus came to liberate us from stagnant nationalistic and spiritually impoverishing institutions, to remove the mediators between people and God, and demonstrate that religion is that relationship between the individual and God. Between you and God. He taught that “you are not alone,” you and every individual person on the planet is important, is valuable, can live on after death and potentially into eternity, in a universe that is full of other life, is friendly and supportive, and with unlimited opportunity and adventure.
 
@@ -42,27 +66,27 @@ Jesus grew from infancy into adulthood as every other person does, had an existe
 - He learned how to use, organise and become master of his mind, through his decisions. Gradually became aware of his dual nature as he matured, and eventually brought together his human and divine natures into one harmonious being.
 - He sought to bring high ideals into everything he did and showed others a better way of living and doing things; applied principles of truth, beauty and goodness into all his daily living.
 - He had an ability to recognise and embrace truth no matter the source.
-- From an early age he presented new ideas about who and what God was, and quickly rejected many of the prevailing notions of the time about God. Committed his life to “show forth his Father’s loving nature to all.” ([UB 126:3.10](/en/The_Urantia_Book/126#p3_10))
+- From an early age he presented new ideas about who and what God was, and quickly rejected many of the prevailing notions of the time about God. Committed his life to “show forth his Father’s loving nature to all.” (<a id="a68_217"></a>[UB 126:3.10](/en/The_Urantia_Book/126#p3_10))
 - From a young age his prayers were just like talking with his earthly father; he spent much time during his life in meditation and in communion with God; he always sought to discern and fully subject himself to the will of the Father.
 - He overcame all doubts about God and his divine nature through faith: certainty of the truth in the absence of direct proof.
 
 The book summarises the account of his younger years of how he’d lived his life, as follows:
 
-> _Jesus is rapidly becoming a man … He has learned well to bear responsibility. He knows how to carry on in the face of disappointment. He bears up bravely when his plans are thwarted and his purposes temporarily defeated. He has learned how to be fair and just even in the face of injustice. He is learning how to adjust his ideals of spiritual living to the practical demands of earthly existence. He is learning how to plan for the achievement of a higher and distant goal of idealism while he toils earnestly for the attainment of a nearer and immediate goal of necessity. He is steadily acquiring the art of adjusting his aspirations to the commonplace demands of the human occasion. He has very nearly mastered the technique of utilizing the energy of the spiritual drive to turn the mechanism of material achievement. He is slowly learning how to live the heavenly life while he continues on with the earthly existence. More and more he depends upon the ultimate guidance of his heavenly Father … He is becoming experienced in the skillful wresting of victory from the very jaws of defeat; he is learning how to transform the difficulties of time into the triumphs of eternity.’_ [UB 127:6.12](/en/The_Urantia_Book/127#p6_12)
+> _Jesus is rapidly becoming a man … He has learned well to bear responsibility. He knows how to carry on in the face of disappointment. He bears up bravely when his plans are thwarted and his purposes temporarily defeated. He has learned how to be fair and just even in the face of injustice. He is learning how to adjust his ideals of spiritual living to the practical demands of earthly existence. He is learning how to plan for the achievement of a higher and distant goal of idealism while he toils earnestly for the attainment of a nearer and immediate goal of necessity. He is steadily acquiring the art of adjusting his aspirations to the commonplace demands of the human occasion. He has very nearly mastered the technique of utilizing the energy of the spiritual drive to turn the mechanism of material achievement. He is slowly learning how to live the heavenly life while he continues on with the earthly existence. More and more he depends upon the ultimate guidance of his heavenly Father … He is becoming experienced in the skillful wresting of victory from the very jaws of defeat; he is learning how to transform the difficulties of time into the triumphs of eternity.’_ <a id="a74_1188"></a>[UB 127:6.12](/en/The_Urantia_Book/127#p6_12)
 
-> _Born into the world a babe of the realm, he has lived his childhood life and passed through the successive stages of youth and young manhood; he now stands on the threshold of full manhood, rich in the experience of human living, replete in the understanding of human nature, and full of sympathy for the frailties of human nature. He is becoming expert in the_ _divine art of revealing his Paradise Father to all ages and stages of mortal creatures._ [UB 127:6.15](/en/The_Urantia_Book/127#p6_15)
+> _Born into the world a babe of the realm, he has lived his childhood life and passed through the successive stages of youth and young manhood; he now stands on the threshold of full manhood, rich in the experience of human living, replete in the understanding of human nature, and full of sympathy for the frailties of human nature. He is becoming expert in the_ _divine art of revealing his Paradise Father to all ages and stages of mortal creatures._ <a id="a76_455"></a>[UB 127:6.15](/en/The_Urantia_Book/127#p6_15)
 
 ## The Human Jesus
 
 But Jesus was careful not to build up a self-aggrandized version of himself, or an over- attractive, spectacular and attention-consuming personal career, or to become venerated. He rejected many opportunities to become involved with or lead religious and teaching institutions. He chose rather to live as an ‘everyman,’ to demonstrate an approachable and relatable ideal that anyone could follow. He came here to live a life of a normal, average human and to _‘know men.’_
 
-> _He was dedicated to the work of revealing the heavenly Father to his fellow mortals and at the same time was consecrated to the sublime task of living his mortal earth life all the while subject to the will of the same Paradise Father._ [UB 129:3.5](/en/The_Urantia_Book/129#p3_5)
+> _He was dedicated to the work of revealing the heavenly Father to his fellow mortals and at the same time was consecrated to the sublime task of living his mortal earth life all the while subject to the will of the same Paradise Father._ <a id="a82_240"></a>[UB 129:3.5](/en/The_Urantia_Book/129#p3_5)
 
-> _The purely human religious experience — the personal spiritual growth — of the Son of Man well-nigh reached the apex of attainment during \[his\] twenty-ninth year. This experience of spiritual development was a consistently gradual growth from the moment of the arrival of his Thought Adjuster until the day of the completion … of that natural and normal human relationship between the material mind of man and the mind-endowment of the spirit — the phenomenon of the making of these two minds one, the experience which the Son of Man attained in completion … on the day of his baptism in the Jordan._ [UB 129:4.2](/en/The_Urantia_Book/129#p4_2)
+> _The purely human religious experience — the personal spiritual growth — of the Son of Man well-nigh reached the apex of attainment during \[his\] twenty-ninth year. This experience of spiritual development was a consistently gradual growth from the moment of the arrival of his Thought Adjuster until the day of the completion … of that natural and normal human relationship between the material mind of man and the mind-endowment of the spirit — the phenomenon of the making of these two minds one, the experience which the Son of Man attained in completion … on the day of his baptism in the Jordan._ <a id="a84_606"></a>[UB 129:4.2](/en/The_Urantia_Book/129#p4_2)
 
-He had become the perfection of man. He presents the perfected human personality to God, and to us, he demonstrates _‘the new and living way’_ from the human to the divine, the partial to the perfect, from time to eternity. However, importantly, he did not come to live a life for us to copy. He lived his life in his day, _as he was_, true to himself and he _thus_ sets the example for all of us to live _our_ unique lives, _as we are_, true to ourselves and to our nature. His life was inspiring because it was so genuinely human. ([UB 129:4.7](/en/The_Urantia_Book/129#p4_7)) Perhaps, to put this in modern phraseology, he is the ‘OG influencer.’ 😊
+He had become the perfection of man. He presents the perfected human personality to God, and to us, he demonstrates _‘the new and living way’_ from the human to the divine, the partial to the perfect, from time to eternity. However, importantly, he did not come to live a life for us to copy. He lived his life in his day, _as he was_, true to himself and he _thus_ sets the example for all of us to live _our_ unique lives, _as we are_, true to ourselves and to our nature. His life was inspiring because it was so genuinely human. (<a id="a86_534"></a>[UB 129:4.7](/en/The_Urantia_Book/129#p4_7)) Perhaps, to put this in modern phraseology, he is the ‘OG influencer.’ 😊
 
-> _Just as men must progress from the consciousness of the human to the realization of the divine, so did Jesus ascend from the nature of man to the consciousness of the nature of God. And the Master made this great ascent from the human to the divine by the conjoint achievement of the faith of his_ **mortal** _intellect and the_ **acts** _of his indwelling Adjuster._ [UB 196:1.6](/en/The_Urantia_Book/196#p1_6)
+> _Just as men must progress from the consciousness of the human to the realization of the divine, so did Jesus ascend from the nature of man to the consciousness of the nature of God. And the Master made this great ascent from the human to the divine by the conjoint achievement of the faith of his_ **mortal** _intellect and the_ **acts** _of his indwelling Adjuster._ <a id="a88_371"></a>[UB 196:1.6](/en/The_Urantia_Book/196#p1_6)
 
 ## Beliefs Decisions Behaviour
 
@@ -74,15 +98,15 @@ He’s dedicating himself to his life’s mission, to remain true to himself. He
 
 He makes these decisions and commitments wholeheartedly.
 
-> _He was a wholly consecrated mortal, unreservedly dedicated to doing his Father’s will… And it was this very singleness of purpose and unselfish devotion that enabled him to effect such extraordinary progress in the conquest of the human mind in one short life … In his devotion to the cause of the kingdom… he sacrificed all hindrances to the doing of his Father’s will._ [UB 196:2.7](/en/The_Urantia_Book/196#p2_7)
+> _He was a wholly consecrated mortal, unreservedly dedicated to doing his Father’s will… And it was this very singleness of purpose and unselfish devotion that enabled him to effect such extraordinary progress in the conquest of the human mind in one short life … In his devotion to the cause of the kingdom… he sacrificed all hindrances to the doing of his Father’s will._ <a id="a100_375"></a>[UB 196:2.7](/en/The_Urantia_Book/196#p2_7)
 
 Having thus consecrated his mind, he then lived, acted and behaved in the world consistently with these beliefs and decisions. This is his religious life. This is the way he became perfect.
 
-> _Jesus’ life in the flesh portrays a transcendent religious growth from the early ideas of primitive awe and human reverence up through years of personal spiritual communion until he finally arrived at that advanced and exalted status of the consciousness of his oneness with the Father. And thus, in one short life, did Jesus traverse that experience of religious spiritual progression which man begins on earth and ordinarily achieves only at the conclusion of his long sojourn in the spirit training schools … [after mortal death]. Jesus progressed from a purely human consciousness of the faith certainties of personal religious experience to the sublime spiritual heights of the positive realization of his divine nature and to the consciousness of his close association with the Universal Father … And this progressing ascent from the human to the divine was an exclusively mortal achievement. And when he had thus attained divinity, he was still the same **human** Jesus, the Son of Man as well as the Son of God._ [UB 196:2.2](/en/The_Urantia_Book/196#p2_2)
+> _Jesus’ life in the flesh portrays a transcendent religious growth from the early ideas of primitive awe and human reverence up through years of personal spiritual communion until he finally arrived at that advanced and exalted status of the consciousness of his oneness with the Father. And thus, in one short life, did Jesus traverse that experience of religious spiritual progression which man begins on earth and ordinarily achieves only at the conclusion of his long sojourn in the spirit training schools … [after mortal death]. Jesus progressed from a purely human consciousness of the faith certainties of personal religious experience to the sublime spiritual heights of the positive realization of his divine nature and to the consciousness of his close association with the Universal Father … And this progressing ascent from the human to the divine was an exclusively mortal achievement. And when he had thus attained divinity, he was still the same **human** Jesus, the Son of Man as well as the Son of God._ <a id="a104_1024"></a>[UB 196:2.2](/en/The_Urantia_Book/196#p2_2)
 
 ## What Does This Mean For Us?
 
-By the time of his public ministry, Jesus had really already practiced what he was about to preach. All the things he taught his followers he had already done himself. Much of what he said were recounts, reminders and admonitions to himself as much as they were guidance and instructions to his followers. Jesus _embodied_ both the revelation of God to us as our Father, and the presentation of us to God as his sons and daughters. This is the _religion_ of Jesus expressed in the very life he actually lived. For his whole life, up to his baptism, he lived this religious life that he then went on to teach others saying, _‘I am the way, the truth, and the life_….. _If you know me, you know the way to the Father,’_ ([UB 180:3.7](/en/The_Urantia_Book/180#p3_7)) so _‘follow me.’_
+By the time of his public ministry, Jesus had really already practiced what he was about to preach. All the things he taught his followers he had already done himself. Much of what he said were recounts, reminders and admonitions to himself as much as they were guidance and instructions to his followers. Jesus _embodied_ both the revelation of God to us as our Father, and the presentation of us to God as his sons and daughters. This is the _religion_ of Jesus expressed in the very life he actually lived. For his whole life, up to his baptism, he lived this religious life that he then went on to teach others saying, _‘I am the way, the truth, and the life_….. _If you know me, you know the way to the Father,’_ (<a id="a108_719"></a>[UB 180:3.7](/en/The_Urantia_Book/180#p3_7)) so _‘follow me.’_
 
 _‘I am the way,’_ he says, so _‘follow me.’_ It’s more than a click. It means actively integrating into our own lives the kinds of decisions and commitments of mind and behaviour that led to perfection in the life of Jesus; the path of light that leads out of uncertainty and darkness.
 
@@ -90,7 +114,7 @@ _‘I am the truth,’_ and _‘the truth shall set you free.’_ Following his 
 
 _‘I am the life.’_ Jesus sets the ideal model for how to live a good life in relation to God and our fellows, _if_ it is soul growth, personality survival, perfection and ongoing, eternal life that we seek.
 
-> _Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This enhanced symbol must arise out of religious living, spiritual experience. And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man [-the gospel of Jesus]._ [UB 87:7.6](/en/The_Urantia_Book/87#p7_6)
+> _Modern man must find some adequate symbolism for his new and expanding ideas, ideals, and loyalties. This enhanced symbol must arise out of religious living, spiritual experience. And this higher symbolism of a higher civilization must be predicated on the concept of the Fatherhood of God and be pregnant with the mighty ideal of the brotherhood of man [-the gospel of Jesus]._ <a id="a116_382"></a>[UB 87:7.6](/en/The_Urantia_Book/87#p7_6)
 
 Jesus revealed that God is our heavenly Father, and he loves and cherishes each and every one of us. We all matter. This is what makes it a _personal_ religion: that is, _you_ are a child of God, not just a child of a race or nation. This makes us _all_ sons and daughters of God. We can turn that sonship into a partnership by returning his outreach and forming a relationship. Jesus thus admonishes us to:
 
@@ -104,7 +128,7 @@ Jesus revealed that God is our heavenly Father, and he loves and cherishes each 
 - Let God’s spirit within you stimulate your mind, adjust your thinking Godward, and remind you of the spirit within others, your spiritual brothers and sisters.
 - Live a life of loving service to all the children of God.
 
-Jesus showed that the consequence of a Fatherhood of God is the Brotherhood of Man, since every individual person is a child of God. Jesus believes in men, has faith in men. ‘He taught men to place a high value upon themselves in time and in eternity. Because of this high estimate which Jesus placed upon men, he was willing to spend himself in the unremitting service of humankind. And it was this infinite worth of the finite that made the golden rule a vital factor in his religion.’ ([UB 196:2.10](/en/The_Urantia_Book/196#p2_10)) He taught us:
+Jesus showed that the consequence of a Fatherhood of God is the Brotherhood of Man, since every individual person is a child of God. Jesus believes in men, has faith in men. ‘He taught men to place a high value upon themselves in time and in eternity. Because of this high estimate which Jesus placed upon men, he was willing to spend himself in the unremitting service of humankind. And it was this infinite worth of the finite that made the golden rule a vital factor in his religion.’ (<a id="a130_489"></a>[UB 196:2.10](/en/The_Urantia_Book/196#p2_10)) He taught us:
 
 - To “love your fellows as you would love yourself.” “Do unto others as you would have them do unto you.” Love, respect and treat each other as we ourselves would be treated.
 - Even, “love your enemies,” for God loves both the wicked and the good.
@@ -115,7 +139,7 @@ Jesus showed that the consequence of a Fatherhood of God is the Brotherhood of M
 
 So what’s the reason for adhering to this gospel and conducting this religious way of living in your own life? _Personality survival_. This is the most important ‘game’ in town: _‘seek first the kingdom of heaven.’_ All else is secondary. You can take nothing material with you when you die: _‘don’t build up treasures on earth where they decay!’ You_ can continue to exist after death, if you want, in the surviving soul; by transferring your identity from the physical, which is temporary, to the spiritual which is eternal.
 
-> _John asked Jesus, “Master, what is the kingdom of heaven?” And Jesus answered: “The kingdom of heaven consists in these three essentials: first, recognition of the fact of the sovereignty of God; second, belief in the truth of sonship with God; and third, faith in the effectiveness of the supreme human desire to do the will of God — to be like God. And this is the good news of the gospel: that by faith every mortal may have all these essentials of salvation.”_ [UB 140:10.9](/en/The_Urantia_Book/140#p10_9)
+> _John asked Jesus, “Master, what is the kingdom of heaven?” And Jesus answered: “The kingdom of heaven consists in these three essentials: first, recognition of the fact of the sovereignty of God; second, belief in the truth of sonship with God; and third, faith in the effectiveness of the supreme human desire to do the will of God — to be like God. And this is the good news of the gospel: that by faith every mortal may have all these essentials of salvation.”_ <a id="a141_468"></a>[UB 140:10.9](/en/The_Urantia_Book/140#p10_9)
 
 The ‘Kingdom of Heaven’ is multi-levelled. First, within you. It has to start here, a personal conviction, put into practice and confirmed through experience. Then, it becomes the group of other like-minded people. Then global. Then universal.
 
@@ -129,15 +153,39 @@ Love others, treat them as you would want to be treated; look for opportunities 
 
 And finally,
 
-> _The living experience in the religion of Jesus thus becomes the sure and certain technique whereby the spiritually isolated and cosmically lonely mortals of earth are enabled to escape personality isolation, with all its consequences of fear and … helplessness. In the fraternal realities of the kingdom of heaven the faith sons of God find final deliverance from_ _the isolation of the self, both personal and planetary. The God-knowing believer increasingly experiences the ecstasy and grandeur of spiritual socialization on a universe scale — citizenship on high in association with the eternal realization of the divine destiny of perfection attainment._ [UB 184:4.6](/en/The_Urantia_Book/184#p4_6)
+> _The living experience in the religion of Jesus thus becomes the sure and certain technique whereby the spiritually isolated and cosmically lonely mortals of earth are enabled to escape personality isolation, with all its consequences of fear and … helplessness. In the fraternal realities of the kingdom of heaven the faith sons of God find final deliverance from_ _the isolation of the self, both personal and planetary. The God-knowing believer increasingly experiences the ecstasy and grandeur of spiritual socialization on a universe scale — citizenship on high in association with the eternal realization of the divine destiny of perfection attainment._ <a id="a155_662"></a>[UB 184:4.6](/en/The_Urantia_Book/184#p4_6)
 
 During one of the Master’s appearances after his death to the Jerusalem group of followers, he said:
 
 > _“And now you should give ear to my words lest you again make the mistake of hearing my teaching with the mind while in your hearts you fail to comprehend the meaning. From the beginning of my sojourn as one of you, I taught you that my one purpose was to reveal my Father in heaven to his children on earth. I have lived the God-revealing bestowal that you might experience the God-knowing career. I have revealed God as your Father in heaven; I have revealed you as the sons of God on earth. It is a fact that God loves you, his sons. By faith in my word this fact becomes an eternal and living truth in your hearts. When, by living faith, you become divinely God-conscious, you are then born of the spirit as children of light and life, even the eternal life wherewith you shall ascend the universe of universes and attain the experience of finding God the Father on Paradise._
 
-> _“That which the world needs most to know is: **Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth**. My bestowal should help all men to know that they are the children of God, but such knowledge will not suffice if they fail **personally** to faith-grasp the saving truth that they are the **living spirit sons** of the eternal Father.”_ [UB 193:0.3](/en/The_Urantia_Book/193#p0_3)
+> _“That which the world needs most to know is: **Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth**. My bestowal should help all men to know that they are the children of God, but such knowledge will not suffice if they fail **personally** to faith-grasp the saving truth that they are the **living spirit sons** of the eternal Father.”_ <a id="a161_403"></a>[UB 193:0.3](/en/The_Urantia_Book/193#p0_3)
 
 
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/the-religion-of-jesus
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Walking_the_R_O_P_E">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Walking the R.O.P.E – An Invitation to Intimacy with God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neville_Twist/The_Ultimate_Human_Experience">
+          <span class="pr-2">The Ultimate Human Experience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

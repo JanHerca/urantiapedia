@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Rita Schaad<br>© 2022 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2022_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Summer 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/2023_Annual_Conference_in_Sydney">
+          <span class="pr-2">2023 Annual Conference in Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Rita Schaad, Newcastle NSW
 
@@ -25,7 +49,7 @@ And Lord of lords’……… hallelujah ……
 And He shall reign forever and ever….
 <br style="clear:both;"/>
 
-> _Never on all the worlds of this universe, in the life of any one mortal, did God ever become such a living reality as in the human experience of Jesus of Nazareth._ [UB 196:0.3](/en/The_Urantia_Book/196#p0_3)
+> _Never on all the worlds of this universe, in the life of any one mortal, did God ever become such a living reality as in the human experience of Jesus of Nazareth._ <a id="a51_168"></a>[UB 196:0.3](/en/The_Urantia_Book/196#p0_3)
 
 Never on any other world among many systems and constellations – even the entire Universe of Nebadon – did transpire what happened on ours, the first and only lowly planet to have the honour of hosting Christ Michael bestowing himself in the flesh as Jesus. We are known as “the world of the cross” – the sentimental shrine of all Nebadon – we are known throughout the realm for its strife-torn past (and present) and its rebellious mortals. And this still, even after 2000 years of Adjuster indwelling in most inhabitants!
 
@@ -35,7 +59,7 @@ _Our world_ being host to such a high heavenly being. WOW!Other worlds must look
 
 We were host to the Creator on his noble quest to simply:
 
-> _….win all mankind to the recognition of the Father’s love and to the realization of their sonship with God._ [UB 98:7.1](/en/The_Urantia_Book/98#p7_1)
+> _….win all mankind to the recognition of the Father’s love and to the realization of their sonship with God._ <a id="a61_112"></a>[UB 98:7.1](/en/The_Urantia_Book/98#p7_1)
 
 When the magnitude of this gift sinks in deep enough, we are bound to be touched in such a way that stimulates us to _….go out in all the nations to proclaim the good news_! It urges us to seek for some kind of engagement in an attempt to answer the charge to spread the truth of this incredible statement.
 
@@ -49,7 +73,7 @@ As you might know, we are getting many reader inquiries during the year, even ap
 
 What is missing here?
 
-> _If the Christian church would only dare to espouse **the Master’s program**, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking, and they would not hesitate to go all the way through with this great adventure._ [UB 195:10.10](/en/The_Urantia_Book/195#p10_10)
+> _If the Christian church would only dare to espouse **the Master’s program**, thousands of apparently indifferent youths would rush forward to enlist in such a spiritual undertaking, and they would not hesitate to go all the way through with this great adventure._ <a id="a75_267"></a>[UB 195:10.10](/en/The_Urantia_Book/195#p10_10)
 
 Could we also read this as, “If **we** would only dare to espouse the Master’s program…”? What is that Program?
 
@@ -67,3 +91,27 @@ ANZURA President
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/presidents-report-3
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2022_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Summer 2022 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/2023_Annual_Conference_in_Sydney">
+          <span class="pr-2">2023 Annual Conference in Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

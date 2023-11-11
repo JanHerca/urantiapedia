@@ -38,11 +38,11 @@ Publication of the Urantia revelation occurred in 1955. But what transpired prio
 
 - From documented contact over 100 years ago in Chicago.
 - To a claimed reference to The Middle Ages by one of the revelators.
-- To a possible indication 2,000 years ago by Jesus. ([UB 132:6.3](/en/The_Urantia_Book/132#p6_3))
-- Upon the default of Adam and Eve and references in the Papers to a comment made some 40,000 years ago to Adam. ([UB 119:7.2](/en/The_Urantia_Book/119#p7_2)) There is also a reference at [UB 43:1.6](/en/The_Urantia_Book/43#p1_6).
+- To a possible indication 2,000 years ago by Jesus. (<a id="s40_54"></a>[UB 132:6.3](/en/The_Urantia_Book/132#p6_3))
+- Upon the default of Adam and Eve and references in the Papers to a comment made some 40,000 years ago to Adam. (<a id="s41_114"></a>[UB 119:7.2](/en/The_Urantia_Book/119#p7_2)) There is also a reference at <a id="s41_188"></a>[UB 43:1.6](/en/The_Urantia_Book/43#p1_6).
 - Upon the planet being placed in spiritual quarantine at the time of the Lucifer rebellion some 200,000 years ago.
 - A reference to our history commencing a billion years ago when Michael assumed sovereignty of his local universe.
-- Four hundred billion years ago when Michael started organizing this local universe. ([UB 57:3.7](/en/The_Urantia_Book/57#p3_7))
+- Four hundred billion years ago when Michael started organizing this local universe. (<a id="s44_87"></a>[UB 57:3.7](/en/The_Urantia_Book/57#p3_7))
 - And to God the Father who probably knew details eons prior to that, perhaps at the moment of the creation of the seven superuniverses.
 
 

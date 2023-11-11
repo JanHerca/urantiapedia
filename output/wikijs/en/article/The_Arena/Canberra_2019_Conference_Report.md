@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Annual Conference Auckland New Zealand 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Growing_the_Supreme">
+          <span class="pr-2">Growing the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Conference Participant
 
@@ -70,3 +94,27 @@ Enjoy this photo gallery of some shots taken at the conference:
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/canberra-2019-conference-report
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Annual Conference Auckland New Zealand 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Growing_the_Supreme">
+          <span class="pr-2">Growing the Supreme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

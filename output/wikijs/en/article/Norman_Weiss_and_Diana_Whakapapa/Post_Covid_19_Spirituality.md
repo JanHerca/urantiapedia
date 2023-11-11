@@ -3,12 +3,36 @@ title: "Post Covid 19 Spirituality"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Arena, article
+tags: Covid-19, The Arena, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Norman Weiss and Diana Whakapapa<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marion_Steward/Language_Matters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Language Matters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rita_Schaad/A_Bit_of_History">
+          <span class="pr-2">A Bit of History</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Norman Weiss and Diana Whakapapa, NZ
 
@@ -45,7 +69,7 @@ So I for one asked, “What can be done to create the spiritual balance that is 
 
 Paper 34 of _The Urantia Book_, in section 6 it tells us:
 
-> “_You are the temple of God and God dwells in you.” It is not enough that this spirit be poured out upon you; the divine Spirit must dominate and control every phase of human experience_. [[UB 34:6.7](/en/The_Urantia_Book/34#p6_7)]
+> “_You are the temple of God and God dwells in you.” It is not enough that this spirit be poured out upon you; the divine Spirit must dominate and control every phase of human experience_. <a id="a71_190"></a>[[UB 34:6.7](/en/The_Urantia_Book/34#p6_7)]
 
 Getting to that stage requires me to dip into the spiritual waters each day. Going inward allows me to more easily align with God’s will. We have an inner life and an outer life.
 
@@ -80,3 +104,27 @@ Thank you for participating in this connecting with Spirit experience.
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/post-covid-19-spirituality
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marion_Steward/Language_Matters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Language Matters</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rita_Schaad/A_Bit_of_History">
+          <span class="pr-2">A Bit of History</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/President_Report_Winter_2019">
+          <span class="pr-2">President Report – Winter 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/ANZURA-email-header.jpg" alt="ANZURA">
@@ -77,7 +98,7 @@ Our conference in Canberra is only a couple of months away—27 to 30 September�
 The theme of **Mind over Matter ~ Spirit over Mind** gives ample opportunity to reflect on the fact that
 
 
-> …_Universe causes cannot be lower than universe effects. The source of the streams of universe life and of the cosmic mind must be above the levels of their manifestation. The human mind cannot be consistently explained in terms of the lower orders of existence. Man’s mind can be truly comprehended only by recognizing the reality of higher orders of thought and purposive will._ [[UB 3:6.3](/en/The_Urantia_Book/3#p6_3)]
+> …_Universe causes cannot be lower than universe effects. The source of the streams of universe life and of the cosmic mind must be above the levels of their manifestation. The human mind cannot be consistently explained in terms of the lower orders of existence. Man’s mind can be truly comprehended only by recognizing the reality of higher orders of thought and purposive will._ <a id="a100_383"></a>[[UB 3:6.3](/en/The_Urantia_Book/3#p6_3)]
 
 We evolutionary mortals are prone to look upon mind as a cosmic mediation between spirit and matter, for that is indeed the principal ministry of mind as discernible by us. Yet the Thought Adjuster is pure spirit who is volitional and active in mind. Your Thought Adjuster is always waiting to act decisively in accordance with your human choice, and all these choices are highly volitional reactions. In all situations not concerned with the domain of the human will, this Divine Spirit unquestionably exhibits conduct which betokens the exercise of powers in every sense the equivalent of will, maximated decision.
 
@@ -120,15 +141,15 @@ As an aside, this is a link to an interview by Radio NZ re why people come to ho
 Some years ago, the original Auckland Study group learnt the Morontia Motas by heart and over the years they pop into my mind when they seem to fit the situation. While I watched the aftermath of this horrendous and cowardly attack, the following Morontia Motas came to mind.
 <br style="clear:both;"/>
 
-> _5. Difficulties may challenge mediocrity and defeat the fearful, but they only stimulate the true children of the Most Highs._ [[UB 48:7.7](/en/The_Urantia_Book/48#p7_7)]
+> _5. Difficulties may challenge mediocrity and defeat the fearful, but they only stimulate the true children of the Most Highs._ <a id="a143_130"></a>[[UB 48:7.7](/en/The_Urantia_Book/48#p7_7)]
 > 
-> _12. The greatest affliction of the cosmos is never to have been afflicted. Mortals only learn wisdom by experiencing tribulation._ [[UB 48:7.14](/en/The_Urantia_Book/48#p7_14)]
+> _12. The greatest affliction of the cosmos is never to have been afflicted. Mortals only learn wisdom by experiencing tribulation._ <a id="a145_134"></a>[[UB 48:7.14](/en/The_Urantia_Book/48#p7_14)]
 > 
-> _13. Stars are best discerned from the lonely isolation of experiential depths, not from the illuminated and ecstatic mountain tops._ [[UB 48:7.15](/en/The_Urantia_Book/48#p7_15)]
+> _13. Stars are best discerned from the lonely isolation of experiential depths, not from the illuminated and ecstatic mountain tops._ <a id="a147_136"></a>[[UB 48:7.15](/en/The_Urantia_Book/48#p7_15)]
 
 and particularly:
 
-> _16.  You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._ [[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)]
+> _16.  You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._ <a id="a151_137"></a>[[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)]
 
 Sadly, before the attack, the general view was that all Muslims were terrorists, and this community suffered by being shunned, discriminated against, and generally being totally misunderstood, and just as there are many aspects of Islam which need updating the same can be said for Christianity.
 
@@ -171,7 +192,7 @@ _(Editor’s note: This was presented at the **Urantia Book Seminar on Education
 The purpose of this essay is to offer for consideration a number of educational imperatives to guide us, as early recipients of the new truths revealed in _The Urantia Book_, in the implementation of an educational strategy designed to foster the transition in human consciousness from our fourth revelatory epoch to the fifth. One aspect of this educational strategy addresses how we choose to deal with the risk typically associated with the challenge of integrating new revelatory truth while minimizing its dilution and contamination by past religious beliefs, symbols, practices, and institutions. A Melchizedek observes:
 
 
-> _You who today enjoy the advantages of the art of printing little understand how difficult it was to perpetuate truth during these earlier times; how easy it was to lose sight of a new doctrine from one generation to another. There was always a tendency for the new doctrine to become absorbed into the older body of religious teaching and magical practice. A new revelation is always contaminated by the older evolutionary beliefs._ [[UB 93:7.4](/en/The_Urantia_Book/93#p7_4)] emphasis added
+> _You who today enjoy the advantages of the art of printing little understand how difficult it was to perpetuate truth during these earlier times; how easy it was to lose sight of a new doctrine from one generation to another. There was always a tendency for the new doctrine to become absorbed into the older body of religious teaching and magical practice. A new revelation is always contaminated by the older evolutionary beliefs._ <a id="a194_436"></a>[[UB 93:7.4](/en/The_Urantia_Book/93#p7_4)] emphasis added
 
 **Premise: An Educational Strategy for The Fifth Epoch**
 
@@ -387,3 +408,24 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-winter-2019/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/President_Report_Winter_2019">
+          <span class="pr-2">President Report – Winter 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

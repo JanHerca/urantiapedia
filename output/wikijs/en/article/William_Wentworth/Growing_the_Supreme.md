@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 William Wentworth<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Canberra_2019_Conference_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canberra 2019 Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="pr-2">Mind Over Matter – Spirit Over Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By William Wentworth, Canberra - Presented at Canberra Conference on September 28, 2019
 
@@ -26,17 +50,17 @@ It is, of course, a matter of everyday experience for us inhabitants of the Gran
 
 The exact quote is:
 
-> _“The goal of the evolutionary universes is the subjugation of energy-matter by mind, the co-ordination of mind with spirit, and all this by virtue of the creative and unifying presence of personality.”_ [[UB 116:6.1](/en/The_Urantia_Book/116#p6_1)]
+> _“The goal of the evolutionary universes is the subjugation of energy-matter by mind, the co-ordination of mind with spirit, and all this by virtue of the creative and unifying presence of personality.”_ <a id="a52_206"></a>[[UB 116:6.1](/en/The_Urantia_Book/116#p6_1)]
 
 This is stated directly a number of times; in fact eight by my count. Here they are:
-- [UB 0:6.8](/en/The_Urantia_Book/0#p6_8)
-- [UB 42:10.1](/en/The_Urantia_Book/42#p10_1)
-- [UB 42:12.15](/en/The_Urantia_Book/42#p12_15)
-- [UB 111:6.4](/en/The_Urantia_Book/111#p6_4)
-- [UB 116:5.15](/en/The_Urantia_Book/116#p5_15)
-- [UB 116:6.1](/en/The_Urantia_Book/116#p6_1)
-- [UB 117:3.2](/en/The_Urantia_Book/117#p3_2)
-- [UB 117:7.13](/en/The_Urantia_Book/117#p7_13)
+- <a id="a55_2"></a>[UB 0:6.8](/en/The_Urantia_Book/0#p6_8)
+- <a id="a56_2"></a>[UB 42:10.1](/en/The_Urantia_Book/42#p10_1)
+- <a id="a57_2"></a>[UB 42:12.15](/en/The_Urantia_Book/42#p12_15)
+- <a id="a58_2"></a>[UB 111:6.4](/en/The_Urantia_Book/111#p6_4)
+- <a id="a59_2"></a>[UB 116:5.15](/en/The_Urantia_Book/116#p5_15)
+- <a id="a60_2"></a>[UB 116:6.1](/en/The_Urantia_Book/116#p6_1)
+- <a id="a61_2"></a>[UB 117:3.2](/en/The_Urantia_Book/117#p3_2)
+- <a id="a62_2"></a>[UB 117:7.13](/en/The_Urantia_Book/117#p7_13)
 
 I might have missed some. But the same thing is implied numerous times without being explicitly stated. In fact, if any concise description is required of what is taking place in the Grand Universe, this is as good as any.
 
@@ -82,19 +106,19 @@ Of course this does not alter the fact that individual humans such as us here no
 
 But on a planetary scale we are a long way from contributing much. Urantia’s civilisations by and large are secular, and as the revelators say:
 
-> _“The inherent weakness of secularism is that it discards ethics and religion for politics and power. You simply cannot establish the brotherhood of men while ignoring or denying the fatherhood of God.”_ [[UB 195:8.11](/en/The_Urantia_Book/195#p8_11)]
+> _“The inherent weakness of secularism is that it discards ethics and religion for politics and power. You simply cannot establish the brotherhood of men while ignoring or denying the fatherhood of God.”_ <a id="a108_206"></a>[[UB 195:8.11](/en/The_Urantia_Book/195#p8_11)]
 
 They warn us about the problem of mind dominating energy-matter while failing to allow spirit to give direction to mind. That’s where we are today. Lots of clever people working in science, in education, in the humanities, in the arts, in finance, in government—all of the fields of human endeavour—working for mind to establish control over energy-matter, and often succeeding, but without interest in causing spirit to dominate mind. They are secular intellectuals without knowledge of or interest in spirit, regarding God as a primitive superstition which all sensible men should grow out of. Thus their efforts lack the purpose and direction that true spiritual values impart to their activities and are devoid of survival value. Tut-tut, I thought when I first started thinking about this (conveniently overlooking that I was, for a while, myself, in the same position!).
 
 But after thinking about it a bit more I began to realise that these secular mortals are all adjuster indwelt, or most of them are. Adjusters are trying to spiritualise their thinking just as they are with those of us who have the advantage of the Urantia book. They are not wicked, and they exhibit the normal range of concern for their fellow man. When they do something unselfish they feel good, and they learn sometimes to do good to others, enjoy doing it and would like to do it more. Remember:
 
->  _Love is the desire to do good to others._ [[UB 56:10.21](/en/The_Urantia_Book/56#p10_21)]
+>  _Love is the desire to do good to others._ <a id="a114_46"></a>[[UB 56:10.21](/en/The_Urantia_Book/56#p10_21)]
 
 And this constitutes spiritual experience. So even though many of these secularists reject the notion of spirit, they are nevertheless exhibiting some spirit leading without recognising it for what it is.
 
 Remember also:
 
->  _The great circuit of love is from the Father, through sons to brothers and hence to the Supreme_. [[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)]
+>  _The great circuit of love is from the Father, through sons to brothers and hence to the Supreme_. <a id="a120_102"></a>[[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)]
 
 So I have come to realise that many secularists are not as secular as they think they are, and some of their thinking is influenced by their indwelling adjuster
 
@@ -108,7 +132,7 @@ An aspect of the Supreme’s growth which interests me is that all the agencies 
 
 I realised that all the personalities involved must themselves grow as the Supreme grows when I read the message which a thought adjuster gave to his indwelt subject on P 1213.5 and I realised that adjusters are interested in our progress, not only because they love us, but also because they have something to gain from our progress. Altruism is there, but it is not the sole motive.
 
-> _“And I exhort him to survival, not to disappoint me, not to deprive me of the reward of my patient and intense struggle.  On the human will our achievement of personality depends.  Circle by circle I have patiently ascended this human mind, and I have testimony that I am meeting the approval of the chief of my kind.  Circle by circle I am passing on to judgement.  I await with pleasure and without apprehension the roll call of destiny; I am prepared to submit all to the tribunals of the Ancients of Days.”_  [[UB 110:7.10](/en/The_Urantia_Book/110#p7_10)]
+> _“And I exhort him to survival, not to disappoint me, not to deprive me of the reward of my patient and intense struggle.  On the human will our achievement of personality depends.  Circle by circle I have patiently ascended this human mind, and I have testimony that I am meeting the approval of the chief of my kind.  Circle by circle I am passing on to judgement.  I await with pleasure and without apprehension the roll call of destiny; I am prepared to submit all to the tribunals of the Ancients of Days.”_  <a id="a134_516"></a>[[UB 110:7.10](/en/The_Urantia_Book/110#p7_10)]
 
 So I reason that if thought adjusters—fragments of absolute deity—have skin in the game, then probably all evolving beings do to.
 
@@ -124,7 +148,7 @@ The progress of science and technology has transformed the material conditions o
 
 As the revelators say:
 
-> _The great circuit of love is from the Father, through sons to brothers, and hence to the Supreme._ [[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)]
+> _The great circuit of love is from the Father, through sons to brothers, and hence to the Supreme._ <a id="a150_102"></a>[[UB 117:6.10](/en/The_Urantia_Book/117#p6_10)]
 
 And that’s where we are today.
 
@@ -163,3 +187,27 @@ The stage is set for the invasion of the first outer space level and the inaugur
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/09/28/growing-the-supreme
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Canberra_2019_Conference_Report">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canberra 2019 Conference Report</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="pr-2">Mind Over Matter – Spirit Over Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

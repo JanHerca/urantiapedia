@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Neil Francey<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Ancient_Orvonton_and_a_Young_Cosmic_Web">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ancient Orvonton, and a Young Cosmic Web</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="pr-2">Think Alike – Necessary or Unnecessary?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Neil Francey, QLD
 
@@ -37,3 +61,27 @@ To view the entire work click on: [Universal Ethics](/en/article/Neil_Francey/Un
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/universal-ethics
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Ancient_Orvonton_and_a_Young_Cosmic_Web">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ancient Orvonton, and a Young Cosmic Web</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Think_Alike_Necessary_or_Unnecessary">
+          <span class="pr-2">Think Alike – Necessary or Unnecessary?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

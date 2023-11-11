@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Susan Hemmingsen<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Study_Day_2019_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Day 2019 – Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Farewell_Mark_Bloomfield_2">
+          <span class="pr-2">Farewell Mark Bloomfield</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Susan Hemmingsen, Auckland NZ
 
@@ -25,15 +49,15 @@ As an aside, this is a link to an interview by Radio NZ re why people come to ho
 Some years ago, the original Auckland Study group learnt the Morontia Motas by heart and over the years they pop into my mind when they seem to fit the situation. While I watched the aftermath of this horrendous and cowardly attack, the following Morontia Motas came to mind.
 <br style="clear:both;"/>
 
-> _5. Difficulties may challenge mediocrity and defeat the fearful, but they only stimulate the true children of the Most Highs._ [[UB 48:7.7](/en/The_Urantia_Book/48#p7_7)]
+> _5. Difficulties may challenge mediocrity and defeat the fearful, but they only stimulate the true children of the Most Highs._ <a id="a51_130"></a>[[UB 48:7.7](/en/The_Urantia_Book/48#p7_7)]
 > 
-> _12. The greatest affliction of the cosmos is never to have been afflicted. Mortals only learn wisdom by experiencing tribulation._ [[UB 48:7.14](/en/The_Urantia_Book/48#p7_14)]
+> _12. The greatest affliction of the cosmos is never to have been afflicted. Mortals only learn wisdom by experiencing tribulation._ <a id="a53_134"></a>[[UB 48:7.14](/en/The_Urantia_Book/48#p7_14)]
 > 
-> _13. Stars are best discerned from the lonely isolation of experiential depths, not from the illuminated and ecstatic mountain tops._ [[UB 48:7.15](/en/The_Urantia_Book/48#p7_15)]
+> _13. Stars are best discerned from the lonely isolation of experiential depths, not from the illuminated and ecstatic mountain tops._ <a id="a55_136"></a>[[UB 48:7.15](/en/The_Urantia_Book/48#p7_15)]
 
 and particularly:
 
-> _16.  You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._ [[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)]
+> _16.  You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._ <a id="a59_137"></a>[[UB 48:7.18](/en/The_Urantia_Book/48#p7_18)]
 
 Sadly, before the attack, the general view was that all Muslims were terrorists, and this community suffered by being shunned, discriminated against, and generally being totally misunderstood, and just as there are many aspects of Islam which need updating the same can be said for Christianity.
 
@@ -64,9 +88,9 @@ My prayer is that this outpouring of love, understanding and support is permanen
 
 And finally:
 
-> _″…In your lives overthrow error and overcome evil by the love of the living truth. In all your relations with men do good for evil….”_ [[UB 131:1.7](/en/The_Urantia_Book/131#p1_7)]
+> _″…In your lives overthrow error and overcome evil by the love of the living truth. In all your relations with men do good for evil….”_ <a id="a90_138"></a>[[UB 131:1.7](/en/The_Urantia_Book/131#p1_7)]
 > 
-> _…Fatherly love delights in returning good for evil–doing good in retaliation for injustice…._ [[UB 140:5.24](/en/The_Urantia_Book/140#p5_24)]
+> _…Fatherly love delights in returning good for evil–doing good in retaliation for injustice…._ <a id="a92_97"></a>[[UB 140:5.24](/en/The_Urantia_Book/140#p5_24)]
 
 ## New Zealand Get-Together–Taupo, Labour Weekend
 
@@ -84,3 +108,28 @@ Read more about [Arena - Winter 2019](https://anzura.urantia-association.org/cat
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/new-zealand-corner-winter-2019
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Study_Day_2019_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Day 2019 – Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Farewell_Mark_Bloomfield_2">
+          <span class="pr-2">Farewell Mark Bloomfield</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

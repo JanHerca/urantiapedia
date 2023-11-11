@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Julian McGarry<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2019_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Summer 2019 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="pr-2">Annual Conference Auckland New Zealand 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Julian McGarry, TAS
 
@@ -43,9 +67,9 @@ Of course, it would be very much amiss of me if I didn’t acknowledge and thank
 
 It is almost impossible to read _The Urantia Book_ without being challenged by its extraordinary messages. Here are a couple that I personally find compelling:
 
-> _Never forget there is only one adventure which is more satisfying and thrilling than the attempt to discover the will of the living God, and that is the supreme experience of honestly trying to do that divine will. And fail not to remember that the will of God can be done in any earthly occupation. Some callings are not holy and others secular. All things are sacred in the lives of those who are spirit led; that is, subordinated to truth, ennobled by love, dominated by mercy, and restrained by fairness — justice. The spirit which my Father and I shall send into the world is not only the Spirit of Truth but also the spirit of idealistic beauty._ [[UB 155:6.11](/en/The_Urantia_Book/155#p6_11)]
+> _Never forget there is only one adventure which is more satisfying and thrilling than the attempt to discover the will of the living God, and that is the supreme experience of honestly trying to do that divine will. And fail not to remember that the will of God can be done in any earthly occupation. Some callings are not holy and others secular. All things are sacred in the lives of those who are spirit led; that is, subordinated to truth, ennobled by love, dominated by mercy, and restrained by fairness — justice. The spirit which my Father and I shall send into the world is not only the Spirit of Truth but also the spirit of idealistic beauty._ <a id="a69_656"></a>[[UB 155:6.11](/en/The_Urantia_Book/155#p6_11)]
 > 
-> _Remember that you are commissioned to preach this gospel of the kingdom — the supreme desire to do the Father’s will coupled with the supreme joy of the faith realization of sonship with God — and you must not allow anything to divert your devotion to this one duty. Let all mankind benefit from the overflow of your loving spiritual ministry, enlightening intellectual communion, and uplifting social service; but none of these humanitarian labors, nor all of them, should be permitted to take the place of proclaiming the gospel. These mighty ministrations are the social by-products of the still more mighty and sublime ministrations and transformations wrought in the heart of the kingdom believer by the living Spirit of Truth and by the personal realization that the faith of a spirit-born man confers the assurance of living fellowship with the eternal God._ [[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)]
+> _Remember that you are commissioned to preach this gospel of the kingdom — the supreme desire to do the Father’s will coupled with the supreme joy of the faith realization of sonship with God — and you must not allow anything to divert your devotion to this one duty. Let all mankind benefit from the overflow of your loving spiritual ministry, enlightening intellectual communion, and uplifting social service; but none of these humanitarian labors, nor all of them, should be permitted to take the place of proclaiming the gospel. These mighty ministrations are the social by-products of the still more mighty and sublime ministrations and transformations wrought in the heart of the kingdom believer by the living Spirit of Truth and by the personal realization that the faith of a spirit-born man confers the assurance of living fellowship with the eternal God._ <a id="a71_869"></a>[[UB 178:1.11](/en/The_Urantia_Book/178#p1_11)]
 
 Finally, on behalf of the ANZURA board, I encourage you all to let us know if there is any way in which we might serve you better. Constructive criticism or comments are always welcome. It would be wonderful to hear from you!
 
@@ -59,3 +83,27 @@ President, ANZURA
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/presidents-report-december-2019
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2019_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Summer 2019 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Annual_Conference_Auckland_New_Zealand_2020">
+          <span class="pr-2">Annual Conference Auckland New Zealand 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

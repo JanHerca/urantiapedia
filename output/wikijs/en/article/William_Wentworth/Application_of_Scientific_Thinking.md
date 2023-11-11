@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 William Wentworth<br>© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Mining_the_Archives">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mining the Archives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Recent_Developments_in_the_Astrophysics_Sector">
+          <span class="pr-2">Recent Developments in the Astrophysics Sector</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By William Wentworth, Canberra on July 29, 2021July 30, 2021
 
@@ -33,11 +57,11 @@ They expect to be able to understand and generate life, and they see **purpose**
 
 Students of _The Urantia Book_ will see immediately that there are problems with this view. As regards life, the book states bluntly that science will never be able to create it, no matter how much more closely scientists think they approach it. As a Mighty Messenger says:
 
->  _Subsequent to even still greater progress and further discoveries, after Urantia has advanced immeasurably in comparison with present knowledge, though you should gain control of the energy revolutions of the electrical units of matter to the extent of modifying their physical manifestations — even after all such possible progress, forever will scientists be powerless to create one atom of matter or to originate one flash of energy or ever to add to matter that which we call life_. [UB 42:1.4](/en/The_Urantia_Book/42#p1_4)
+>  _Subsequent to even still greater progress and further discoveries, after Urantia has advanced immeasurably in comparison with present knowledge, though you should gain control of the energy revolutions of the electrical units of matter to the extent of modifying their physical manifestations — even after all such possible progress, forever will scientists be powerless to create one atom of matter or to originate one flash of energy or ever to add to matter that which we call life_. <a id="a59_491"></a>[UB 42:1.4](/en/The_Urantia_Book/42#p1_4)
 
 As regards purpose and destiny, the book has quite a bit to say. As a Divine Counsellor says:
 
-> _Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems. The true perspective of any reality problem — human or divine, terrestrial or cosmic — can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny._ [UB 19:1.6](/en/The_Urantia_Book/19#p1_6)
+> _Even in the study of man’s biologic evolution on Urantia, there are grave objections to the exclusive historic approach to his present-day status and his current problems. The true perspective of any reality problem — human or divine, terrestrial or cosmic — can be had only by the full and unprejudiced study and correlation of three phases of universe reality: origin, history, and destiny._ <a id="a63_397"></a>[UB 19:1.6](/en/The_Urantia_Book/19#p1_6)
 
 The proper understanding of these three experiential realities affords the basis for a wise estimate of the current status.
 
@@ -45,7 +69,7 @@ But before getting into that, it is important to remind readers that the book do
 
 Material science has had its successes in the depiction of matter/energy. This is the realm where rational thought and mathematics are supreme. Theology and superstition are no way to study the material cosmos. As the Midwayer Commission points out:
 
-> _Secularism can never bring peace to mankind. Nothing can take the place of God in human society. But mark you well! do not be quick to surrender the beneficent gains of the secular revolt from ecclesiastical totalitarianism. Western civilization today enjoys many liberties and satisfactions as a result of the secular revolt. The great mistake of secularism was this: In revolting against the almost total control of life by religious authority, and after attaining the liberation from such ecclesiastical tyranny, the secularists went on to institute a revolt against God himself, sometimes tacitly and sometimes openly_. [UB 198:8.6](/en/The_Urantia_Book/198#p8_6)
+> _Secularism can never bring peace to mankind. Nothing can take the place of God in human society. But mark you well! do not be quick to surrender the beneficent gains of the secular revolt from ecclesiastical totalitarianism. Western civilization today enjoys many liberties and satisfactions as a result of the secular revolt. The great mistake of secularism was this: In revolting against the almost total control of life by religious authority, and after attaining the liberation from such ecclesiastical tyranny, the secularists went on to institute a revolt against God himself, sometimes tacitly and sometimes openly_. <a id="a71_627"></a>[UB 195:8.6](/en/The_Urantia_Book/195#p8_6)
 
 That said, however, the ambition to develop a unified theory to explain the cosmos by means of the study of its material aspects remains an impossible dream. As _The Urantia Book_ explains, the reality which is assumed by science is actually only a portion of the whole, and even that portion has its origin in a supermaterial reality. The revelators explain that the original situation is one in which there is nothing but pre-God—an infinity which constitutes the potential of God. The revelators point out that this infinity, which they call the I AM, is all that exists. There is no void, or space, or anything at all except I AM, and I AM self-metamorphoses into everything which can be conceived of as real.
 
@@ -61,7 +85,7 @@ The non-deified potential of the material cosmos is activated by a further metam
 
 There are aspects of Deity which are not personal. These other realities are the properties of those metamorphoses of I AM which give rise to Deity, and as the revelators explain, Deity contains personality which manifests as God, the Universal Father. Deity propagates spirit through the Eternal Son, who is personalised by God, and also mind through the Infinite Spirit, likewise personalised by God, thus allowing spirit and matter to interact. The fact that these personalisations of Deity are unified in the Trinity in no way lessens the control of God. He could perform the functions of spirit and mind if he chose to but does not need to because the other persons of Deity do it so well that there is no need for him to interfere. As a Universal Censor points out:
 
-_The Universal Father, the Eternal Son, and the Infinite Spirit are unique persons; none is a duplicate; each is original; all are united_. [UB 10:2.6](/en/The_Urantia_Book/10#p2_6)
+_The Universal Father, the Eternal Son, and the Infinite Spirit are unique persons; none is a duplicate; each is original; all are united_. <a id="a87_140"></a>[UB 10:2.6](/en/The_Urantia_Book/10#p2_6)
 
 God is the personality of Deity, but there is still much of Deity which is not personal. There are such things as the presence circuits of the Eternal Son and the Infinite Spirit, spirit and mind gravity, the  circuits of the Reflective Spirits, the Cosmic Mind of the Master Spirits, and no doubt much more.  These phenomena are deity, but not personal, and thus not God.
 
@@ -74,3 +98,27 @@ It took many centuries for the reverse to happen—that is for revelatory techni
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/application-scientific-thinking
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Mining_the_Archives">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mining the Archives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Recent_Developments_in_the_Astrophysics_Sector">
+          <span class="pr-2">Recent Developments in the Astrophysics Sector</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

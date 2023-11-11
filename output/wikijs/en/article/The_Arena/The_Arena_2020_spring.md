@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_Spring_2020">
+          <span class="pr-2">President’s Report – Spring 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/ANZURA-email-header.jpg" alt="ANZURA">
@@ -81,11 +102,11 @@ Wednesday Evening Online Study Group
 In Paper 151, **Tarrying and Teaching by the Seaside**, Jesus started to change his teaching methods by using parables to transmit the truths he wanted to convey. The Apostles all had a go at interpreting the Parable of the Sower and ended up with very different interpretations. Then, at the end of Section 3 (More About Parables) Jesus said to the apostles:
 
 
-> _“Now will I tell you the last of the parable of the sower. I would test you to know how you will receive this: The kingdom of heaven is also like a man who cast good seed upon the earth; and while he slept by night and went about his business by day, the seed sprang up and grew, and although the man knew not how it came about, the plant came to fruit. First there was the blade, then the ear, then the full grain in the ear. And then when the grain was ripe, he put forth the sickle, and the harvest was finished. He who has an ear to hear, let him hear.”_ [[UB 151:3.15](/en/The_Urantia_Book/151#p3_15)]
+> _“Now will I tell you the last of the parable of the sower. I would test you to know how you will receive this: The kingdom of heaven is also like a man who cast good seed upon the earth; and while he slept by night and went about his business by day, the seed sprang up and grew, and although the man knew not how it came about, the plant came to fruit. First there was the blade, then the ear, then the full grain in the ear. And then when the grain was ripe, he put forth the sickle, and the harvest was finished. He who has an ear to hear, let him hear.”_ <a id="a104_562"></a>[[UB 151:3.15](/en/The_Urantia_Book/151#p3_15)]
 
 In the next paragraph we are told:
 
-> _Many times did the apostles turn this saying over in their minds, but the Master never made further mention of the addition to the parable of the sower._ [[UB 151:3.16](/en/The_Urantia_Book/151#p3_16)]
+> _Many times did the apostles turn this saying over in their minds, but the Master never made further mention of the addition to the parable of the sower._ <a id="a108_157"></a>[[UB 151:3.16](/en/The_Urantia_Book/151#p3_16)]
 
 In the study group we decided to experiment with this exercise of interpreting parables by attempting to find the meaning of what Jesus intended by this last parable of the sower. Each of us had a go at it and this is what we shared the following week:
 
@@ -153,9 +174,9 @@ George Park, USA
 <img src="/image/article/The_Arena/DIVINE-SPARK-By-Kim-S.-MacKenzie-223x300.jpg" alt="Divine Spark">
 </figure>
 
-_The manner in which the Universal Father sojourns with the creatures of time is the most profound of all universe mysteries; the divine presence in the mind of man is the mystery of mysteries._ [[UB 1:4.1](/en/The_Urantia_Book/1#p4_1)]
+_The manner in which the Universal Father sojourns with the creatures of time is the most profound of all universe mysteries; the divine presence in the mind of man is the mystery of mysteries._ <a id="a176_195"></a>[[UB 1:4.1](/en/The_Urantia_Book/1#p4_1)]
 
-The technique whereby the Thought Adjuster is able to make his eternal presence known to the material mind is a mystery. The method in which the spirit registers the reality of eternity in the material mind as an experience of “the everlasting now” is a philosophic miracle beyond our understanding. ([UB 118:1.1](/en/The_Urantia_Book/118#p1_1)) However, the technique used by the material mind in its reach upward and inward for the experience of the presence of God, the psychological behavior of the human mind in fostering its own spiritualization, is not completely beyond our grasp.
+The technique whereby the Thought Adjuster is able to make his eternal presence known to the material mind is a mystery. The method in which the spirit registers the reality of eternity in the material mind as an experience of “the everlasting now” is a philosophic miracle beyond our understanding. (<a id="a178_301"></a>[UB 118:1.1](/en/The_Urantia_Book/118#p1_1)) However, the technique used by the material mind in its reach upward and inward for the experience of the presence of God, the psychological behavior of the human mind in fostering its own spiritualization, is not completely beyond our grasp.
 
 [Read more](/en/article/George_Park/Creative_Imagination_in_Prayer_and_Worship)
 <br style="clear:both;"/>
@@ -348,3 +369,24 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-spring-2020/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_Spring_2020">
+          <span class="pr-2">President’s Report – Spring 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

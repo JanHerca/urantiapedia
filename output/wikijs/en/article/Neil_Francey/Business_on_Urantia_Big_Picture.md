@@ -25,19 +25,19 @@ dateCreated: 2023-11-05T01:11:28.972Z
 </svg>
 </div>
 
-> ...unreservedly dedicated to “the Father's business”._ [UB 100:7.12](/en/The_Urantia_Book/100#p7_12)
+> ...unreservedly dedicated to “the Father's business”._ <a id="s27_57"></a>[UB 100:7.12](/en/The_Urantia_Book/100#p7_12)
 
-> _If we know God, our real business on earth is so to live as to permit the Father to reveal himself in our lives ..._ [UB 132:7.2](/en/The_Urantia_Book/132#p7_2)
+> _If we know God, our real business on earth is so to live as to permit the Father to reveal himself in our lives ..._ <a id="s29_120"></a>[UB 132:7.2](/en/The_Urantia_Book/132#p7_2)
 
 > _... through the dark and uncertain mazes of your short earthly career ...
 > 
-> _... yield the fruit of loving service to your fellows ..._ [UB 110:1.2](/en/The_Urantia_Book/110#p1_2); [UB 180:1.4](/en/The_Urantia_Book/180#p1_4)
+> _... yield the fruit of loving service to your fellows ..._ <a id="s33_62"></a>[UB 110:1.2](/en/The_Urantia_Book/110#p1_2); <a id="s33_107"></a>[UB 180:1.4](/en/The_Urantia_Book/180#p1_4)
 
 > _You well know I must be about my Father's business ...
 > 
-> _... cosmic achievement essential to the spiritual economy of the planet._ [UB 158:1.6](/en/The_Urantia_Book/158#p1_6); [UB 109:2.7](/en/The_Urantia_Book/109#p2_7)
+> _... cosmic achievement essential to the spiritual economy of the planet._ <a id="s37_77"></a>[UB 158:1.6](/en/The_Urantia_Book/158#p1_6); <a id="s37_122"></a>[UB 109:2.7](/en/The_Urantia_Book/109#p2_7)
 
-> _... in the life journey of the mortal career of time be of good cheer ..._ [UB 40:5.2](/en/The_Urantia_Book/40#p5_2); [UB 181:1.6](/en/The_Urantia_Book/181#p1_6)
+> _... in the life journey of the mortal career of time be of good cheer ..._ <a id="s39_78"></a>[UB 40:5.2](/en/The_Urantia_Book/40#p5_2); <a id="s39_121"></a>[UB 181:1.6](/en/The_Urantia_Book/181#p1_6)
 
 Victorious under the banner of Michael
 

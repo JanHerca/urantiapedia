@@ -3,12 +3,36 @@ title: "Conference Reminder – Time to Register!"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Arena, article
+tags: Urantia Movement Event, The Arena, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Vern Verass<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/President_Report_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President Report – Winter 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Study_Day_2019_Reflections">
+          <span class="pr-2">Study Day 2019 – Reflections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Vern Verass, ACT
 
@@ -27,7 +51,7 @@ Our conference in Canberra is only a couple of months away—27 to 30 September�
 The theme of **Mind over Matter ~ Spirit over Mind** gives ample opportunity to reflect on the fact that
 
 
-> …_Universe causes cannot be lower than universe effects. The source of the streams of universe life and of the cosmic mind must be above the levels of their manifestation. The human mind cannot be consistently explained in terms of the lower orders of existence. Man’s mind can be truly comprehended only by recognizing the reality of higher orders of thought and purposive will._ [[UB 3:6.3](/en/The_Urantia_Book/3#p6_3)]
+> …_Universe causes cannot be lower than universe effects. The source of the streams of universe life and of the cosmic mind must be above the levels of their manifestation. The human mind cannot be consistently explained in terms of the lower orders of existence. Man’s mind can be truly comprehended only by recognizing the reality of higher orders of thought and purposive will._ <a id="a53_383"></a>[[UB 3:6.3](/en/The_Urantia_Book/3#p6_3)]
 
 We evolutionary mortals are prone to look upon mind as a cosmic mediation between spirit and matter, for that is indeed the principal ministry of mind as discernible by us. Yet the Thought Adjuster is pure spirit who is volitional and active in mind. Your Thought Adjuster is always waiting to act decisively in accordance with your human choice, and all these choices are highly volitional reactions. In all situations not concerned with the domain of the human will, this Divine Spirit unquestionably exhibits conduct which betokens the exercise of powers in every sense the equivalent of will, maximated decision.
 
@@ -52,3 +76,27 @@ For more information and registration details you can either:
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/conference-reminder-register
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/President_Report_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President Report – Winter 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Study_Day_2019_Reflections">
+          <span class="pr-2">Study Day 2019 – Reflections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

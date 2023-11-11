@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Nigel Nunn<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where are the Daughters of God?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Temple_Deep_Clean">
+          <span class="pr-2">The Temple Deep Clean</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Nigel Nunn, Canberra
 
@@ -31,3 +55,27 @@ In the _study group_, and by means of _The Urantia Book_, they have put in place
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/editors-notebook
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Where are the Daughters of God?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Temple_Deep_Clean">
+          <span class="pr-2">The Temple Deep Clean</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

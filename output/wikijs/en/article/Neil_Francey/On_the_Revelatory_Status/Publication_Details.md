@@ -41,7 +41,7 @@ Did any of the philosophies of people involved insert content into the revelatio
 
 Matthew Block has found this admission by Dr. Sadler, for he writes:
 
-> Also, I have discovered several source texts (seventeen, at last count) that were first published after 1935, despite statements in _The Urantia Book_ that Parts I, II and III were written in 1934 or 1935 ([UB 31:10.22](/en/The_Urantia_Book/31#p10_22), [UB 56:10.23](/en/The_Urantia_Book/56#p10_23), [UB 119:8.9](/en/The_Urantia_Book/119#p8_9)). This incongruity was resolved for me after reading William S. Sadler's privately published essay, ‘History of the Urantia Movement’ (1960), in which he acknowledged that new material was added to the Urantia manuscript between 1935 and 1942.
+> Also, I have discovered several source texts (seventeen, at last count) that were first published after 1935, despite statements in _The Urantia Book_ that Parts I, II and III were written in 1934 or 1935 (<a id="s43_208"></a>[UB 31:10.22](/en/The_Urantia_Book/31#p10_22), <a id="s43_255"></a>[UB 56:10.23](/en/The_Urantia_Book/56#p10_23), <a id="s43_302"></a>[UB 119:8.9](/en/The_Urantia_Book/119#p8_9)). This incongruity was resolved for me after reading William S. Sadler's privately published essay, ‘History of the Urantia Movement’ (1960), in which he acknowledged that new material was added to the Urantia manuscript between 1935 and 1942.
 
 The problem here is that while we know of such inclusions from source documents, we do not know what inclusions might also have come from nonpublished sources.
 

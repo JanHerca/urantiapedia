@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Dylan Roberts<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Virtual Study Groups and Conferences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Other_and_Higher_Frames">
+          <span class="pr-2">Other and Higher Frames</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Dylan Roberts, ACT
 
@@ -79,3 +103,27 @@ Canberra
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/11/21/workshop-summary-spirit-society-overcoming-resistance
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Virtual Study Groups and Conferences</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Other_and_Higher_Frames">
+          <span class="pr-2">Other and Higher Frames</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

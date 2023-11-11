@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Phillip Marriott<br>© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2021_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Summer 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/2022_Anzura_Annual_Conference">
+          <span class="pr-2">2022 Anzura Annual Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Phillip Marriott, Adelaide, SA
 
@@ -43,3 +67,27 @@ Phillip Marriott
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2022/01/01/presidents-report-summer-2021
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2021_summer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Summer 2021 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/2022_Anzura_Annual_Conference">
+          <span class="pr-2">2022 Anzura Annual Conference</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

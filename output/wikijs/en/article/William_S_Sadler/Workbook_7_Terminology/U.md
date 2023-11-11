@@ -26,7 +26,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Ultimata
 
-> _Gravity Stages ( Energy)_. This modification of the force-charge of space is produced by the action of the Paradise force organizers. It signalizes the appearance of energy systems responsive to the null of paradise gravity. This emergent energy is originally neutral but consequent upon further metamorphosis will exhibit the so-called negative and positive qualities. We designate these stages Ultimata. <a id="s28_407"></a>[UB 11:8.6](/en/The_Urantia_Book/11#p8_6)
+> _Gravity Stages ( Energy)_. This modification of the force-charge of space is produced by the action of the Paradise force organizers. It signalizes the appearance of energy systems responsive to the null of paradise gravity. This emergent energy is originally neutral but consequent upon further metamorphosis will exhibit the so-called negative and positive qualities. We designate these stages Ultimata. <a id="s28_409"></a>[UB 11:8.6](/en/The_Urantia_Book/11#p8_6)
 
 > Puissant and gravity energies, when regarded collectively are spoken of on Uversa as ULTIMATA. <a id="s30_97"></a>[UB 42:2.13](/en/The_Urantia_Book/42#p2_13)
 
@@ -75,7 +75,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Unpervaded space
 
-> “Unpervaded” space means: unpervaded by those forces, energies, powers, and presences known to exist in pervaded space. <a id="s77_120"></a>[UB 11:6.3](/en/The_Urantia_Book/11#p6_3)
+> “Unpervaded” space means: unpervaded by those forces, energies, powers, and presences known to exist in pervaded space. <a id="s77_122"></a>[UB 11:6.3](/en/The_Urantia_Book/11#p6_3)
 
 ## Unselfishness
 

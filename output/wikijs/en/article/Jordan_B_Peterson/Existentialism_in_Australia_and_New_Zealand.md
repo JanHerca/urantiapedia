@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Dr. Jordan B. Peterson<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conference 2004 Preamble – Echoes of Eden</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Padraig_O_Tuama/Shaking_Hands_a_Poem">
+          <span class="pr-2">Shaking Hands – a Poem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Dr. Jordan B Peterson, Canada
 
@@ -37,3 +61,27 @@ I talk directly to the audience. No notes. No scaffolding. I tell them, as indiv
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/08/06/existentialism-australia-new-zealand
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conference 2004 Preamble – Echoes of Eden</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Padraig_O_Tuama/Shaking_Hands_a_Poem">
+          <span class="pr-2">Shaking Hands – a Poem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

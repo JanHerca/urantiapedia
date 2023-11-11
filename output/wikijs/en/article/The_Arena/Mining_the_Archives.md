@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Day 2021 – Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Application_of_Scientific_Thinking">
+          <span class="pr-2">Application of Scientific Thinking…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _(Editor’s Note: **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share using modern-day technology. **This one is from Innerface Newsletter, September 2002.** Additional note: The next two articles in this issue of Arena-Winter 2021 by William Wentworth and Nigel Nunn are thoughts inspired by this 2002 article of Gen Glasziou’s.)_
 {.is-info}
@@ -17,7 +41,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 _The Late Ken Glasziou, Qld_
 
-> _In the mortal state, nothing can be absolutely proved; both science and religion are predicated on assumptions._ [[UB 103:7.10](/en/The_Urantia_Book/103#p7_10)]
+> _In the mortal state, nothing can be absolutely proved; both science and religion are predicated on assumptions._ <a id="a43_116"></a>[[UB 103:7.10](/en/The_Urantia_Book/103#p7_10)]
 > 
 > In 1935 that statement could only have been made with confidence by a handful of our most learned men.
 
@@ -48,3 +72,27 @@ _There is a theory which states if anyone discovers exactly what the universe is
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/mining-archives-glasziou
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Day 2021 – Reflections</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Application_of_Scientific_Thinking">
+          <span class="pr-2">Application of Scientific Thinking…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

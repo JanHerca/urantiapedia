@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Trevor Swadling<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/The_Inner_World_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Inner World of Mankind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Trevor Swadling
 
@@ -49,3 +70,24 @@ Says the high and holy one
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/river-of-life
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/The_Inner_World_of_Mankind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Inner World of Mankind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

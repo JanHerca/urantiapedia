@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Regina Williamson<br>© 2022 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Urantia_Book_Presentation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neil_Francey/Doing_According_to_the_Urantia_Papers">
+          <span class="pr-2">Doing According to the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Regina Williamson, VIC
 
@@ -41,3 +65,27 @@ We concluded that expos like this are a great idea, and we should certainly do m
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2022/07/26/reflections-body-mind-psychic-expo
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Urantia_Book_Presentation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia Book Presentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neil_Francey/Doing_According_to_the_Urantia_Papers">
+          <span class="pr-2">Doing According to the Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

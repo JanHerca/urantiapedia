@@ -68,7 +68,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 > The peace of Jesus is the joy and satisfaction of a God-knowing individual who has achieved the triumph of learning fully how to do the will of God while living the mortal life in the flesh. <a id="s68_193"></a>[UB 181:1.8](/en/The_Urantia_Book/181#p1_8)
 
-> The peace of Jesus is, then, the peace and assurance of a son who fully believes that his career for time and eternity is safely and wholly in the care and keeping of an all-wise, all-loving, and all-powerful spirit Father. And this is, indeed, a peace which passes the understanding of mortal mind, but which can be enjoyed to the full by the believing human heart. <a id="s70_367"></a>[UB 181:1.10](/en/The_Urantia_Book/181#p1_10)
+> The peace of Jesus is, then, the peace and assurance of a son who fully believes that his career for time and eternity is safely and wholly in the care and keeping of an all-wise, all-loving, and all-powerful spirit Father. And this is, indeed, a peace which passes the understanding of mortal mind, but which can be enjoyed to the full by the believing human heart. <a id="s70_369"></a>[UB 181:1.10](/en/The_Urantia_Book/181#p1_10)
 
 ## Peacemaking
 

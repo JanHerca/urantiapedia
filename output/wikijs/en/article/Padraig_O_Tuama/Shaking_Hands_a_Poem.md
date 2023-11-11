@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Pádraig Ó Tuama<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Existentialism in Australia and New Zealand</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Pádraig Ó Tuama
 
@@ -60,3 +81,24 @@ So lead.
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/shaking-hands-poem
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jordan_B_Peterson/Existentialism_in_Australia_and_New_Zealand">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Existentialism in Australia and New Zealand</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

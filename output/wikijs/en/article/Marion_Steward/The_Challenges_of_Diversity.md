@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Marion Steward<br>© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Recent_Developments_in_the_Astrophysics_Sector">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Recent Developments in the Astrophysics Sector</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neil_Francey/True_Success_study">
+          <span class="pr-2">True Success</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Marion Steward, Auckland, New Zealand
 
@@ -33,13 +57,13 @@ The article will first outline the scope and range of diversity in the Universe,
 
 In terms of appearance and form, diversity and uniqueness begin with Havona. In this central universe which surrounds the Isle of Paradise, there are one billion words, each of which is unique.
 
-> _The architecture, natural embellishment, morontial structures, and spirit creations are exclusive and **unique** on each sphere.  Every world is a place of everlasting beauty and is **wholly unlike** any other world in the central universe._ [UB 18:2.4](/en/The_Urantia_Book/18#p2_4)
+> _The architecture, natural embellishment, morontial structures, and spirit creations are exclusive and **unique** on each sphere.  Every world is a place of everlasting beauty and is **wholly unlike** any other world in the central universe._ <a id="a59_245"></a>[UB 18:2.4](/en/The_Urantia_Book/18#p2_4)
 
 A consideration of this fact highlights the incredible range of variation that is possible when it comes to the physical worlds.
 
 The Creator Sons and their local universes continue this theme.
 
-> _…each [Creator Son] is unique, diverse, exclusive, and original in nature as well as in personality. And since they are the architects and makers of the life plans of their respective realms, this very diversity insures that their domains will also be diverse in every form and phase of Michael-derived living existence which may be created or subsequently evolved therein._ [UB 21:2.9](/en/The_Urantia_Book/21#p2_9)
+> _…each [Creator Son] is unique, diverse, exclusive, and original in nature as well as in personality. And since they are the architects and makers of the life plans of their respective realms, this very diversity insures that their domains will also be diverse in every form and phase of Michael-derived living existence which may be created or subsequently evolved therein._ <a id="a65_378"></a>[UB 21:2.9](/en/The_Urantia_Book/21#p2_9)
 
 It is clear that all the spiritual beings created to run our universe, and every other living creature on every planet,  will be a bit different to each other, and different from equivalent beings in other local universes.
 
@@ -53,7 +77,7 @@ Then, when it comes to ascendant beings on the planets, the same approach of con
 
 _The Urantia Book_ tells us that there are basic life patterns, but lots of variation.
 
-> _[The Life Carriers] foster a generalized system type of mortal creature, but there are seven distinct physical types as well as thousands upon thousands o minor variants of these seven outstanding variations_ [UB 49:2.1](/en/The_Urantia_Book/49#p2_1).
+> _[The Life Carriers] foster a generalized system type of mortal creature, but there are seven distinct physical types as well as thousands upon thousands o minor variants of these seven outstanding variations_ <a id="a79_212"></a>[UB 49:2.1](/en/The_Urantia_Book/49#p2_1).
 
 These types vary in a number of ways, including atmospheric types, elemental types and gravity types.  This leads to such fascinating beings as non breathers, and mortals who can navigate the air or the water, as well as one, two and three brained people.
 
@@ -64,7 +88,7 @@ On top of all this, there are the racial variants, possible the most visible asp
 
 In addition to the wide scope of visible diversity, there is an even greater range when it comes to less visible aspects of intelligent beings in the universe.  The most powerful is personality.  Of all the things that add to the diversity of individual mortals across the Grand Universe, the most significant and influential is the uniqueness of each God-given gift of personality.
 
-> _[Personality] is unique, absolutely unique.  It is unique in time and space; it is unique in eternity and on Paradise;  it is unique when bestowed – there are no duplicates; it is unique during every moment of existence; it is unique in relation to God…_ [[UB 112:0.12](/en/The_Urantia_Book/112#p0_12)].
+> _[Personality] is unique, absolutely unique.  It is unique in time and space; it is unique in eternity and on Paradise;  it is unique when bestowed – there are no duplicates; it is unique during every moment of existence; it is unique in relation to God…_ <a id="a90_258"></a>[[UB 112:0.12](/en/The_Urantia_Book/112#p0_12)].
 
 So the point is emphatically made that each of has an utterly unique personality, which will affect everything about how we see and react to the world around us.
 
@@ -81,27 +105,27 @@ This is a fairly thorough overview of the main aspects of variation.  Most of t
 
 All of the above information and many other statements and descriptions in the Urantia Book show that diversity is very much a linchpin of the Divine plan of creation.  After all, the original act of Creation (acknowledging that this did not actually happen linearly) was one where the First Source and Centre decided to diversity him/herself.  This focus on individuality, uniqueness and constant diversification pervades the universe, and even when beings are created or eventuated as perfect beings for their function, they still manage to become individualised.
 
-Creature-trinitized sons are an extraordinary example of the constant diversification of creation.  This is where two mortal finaliters, who have ‘independently come up with an original concept, that has not been trinitized before”, are given permission to create a being who embodies this concept ([UB 22:7](/en/The_Urantia_Book/22#p7)).  So even a new, original thought can become an independent living being.
+Creature-trinitized sons are an extraordinary example of the constant diversification of creation.  This is where two mortal finaliters, who have ‘independently come up with an original concept, that has not been trinitized before”, are given permission to create a being who embodies this concept (<a id="a107_299"></a>[UB 22:7](/en/The_Urantia_Book/22#p7)).  So even a new, original thought can become an independent living being.
 
 And all of this diversification is a never-ending process.
 
-> _And it is altogether possible that the continued diversification of the original reality of the First Source and Center may proceed onward and outward throughout age upon age, on and one, into the faraway and inconceivable stretches of absolute infinity_ [UB 105:7.8](/en/The_Urantia_Book/105#p7_8).
+> _And it is altogether possible that the continued diversification of the original reality of the First Source and Center may proceed onward and outward throughout age upon age, on and one, into the faraway and inconceivable stretches of absolute infinity_ <a id="a111_258"></a>[UB 105:7.8](/en/The_Urantia_Book/105#p7_8).
 
 ## The Never-ending Adventure
 
 So God creates the universe to be richly and eternally diverse, and intentionally ensures that each living being of the uncountable and ever increasing number of beings in unique in some way, then also ensures that these beings, particularly the mortal ascendant ones, are required to learn how to work together to achieve group goals and tasks.
 
-> _One of the most important lessons to be learned during your mortal career is teamwork.  The spheres of perfection are manned by those who have mastered this art of working with other beings_ [UB 28:5.3](/en/The_Urantia_Book/28#p5_3).
+> _One of the most important lessons to be learned during your mortal career is teamwork.  The spheres of perfection are manned by those who have mastered this art of working with other beings_ <a id="a117_194"></a>[UB 28:5.3](/en/The_Urantia_Book/28#p5_3).
 
 Luckily, guides and teachers are also provided, as this is quite a daunting task.  On the planets and the mansion worlds, there are racial interpreters and race commissioners.
 
-> _On the worlds of time the seraphic racial interpreters further the efforts of the race commissioners to harmonise the varied viewpoints of the races, and they continue to function on the mansion worlds, where these same differences tend to persist in a measure_ [UB 48:6.2](/en/The_Urantia_Book/48#p6_2).
+> _On the worlds of time the seraphic racial interpreters further the efforts of the race commissioners to harmonise the varied viewpoints of the races, and they continue to function on the mansion worlds, where these same differences tend to persist in a measure_ <a id="a121_265"></a>[UB 48:6.2](/en/The_Urantia_Book/48#p6_2).
 
 Even after fusion with our Adjusters, this process of learning to work with others continues.  Post-fusion, an ascending mortal is described as “a candidate for further growth and development” (112:7.9, 123.4).
 
 A key part of this further growth appears to be the continuing training in working with other diverse beings.
 
-> _[On Jerusem] you achieved the willingness to submit the self to the disciplines of group activities and co-ordinated undertakings; but now on the constellation training worlds you are to achieve the real socialization of your evolving morontial personality_ [UB 43:8.4](/en/The_Urantia_Book/43#p8_4).
+> _[On Jerusem] you achieved the willingness to submit the self to the disciplines of group activities and co-ordinated undertakings; but now on the constellation training worlds you are to achieve the real socialization of your evolving morontial personality_ <a id="a127_261"></a>[UB 43:8.4](/en/The_Urantia_Book/43#p8_4).
 
 This paper gives a very detailed description of this training, which is conducted by the Univitatia, children of the Creator Son and the Creative Spirit.  There are, naturally, 70 diverse orders of personality of Univitatia, and their purpose is to preside over the special training and cultural schools on the Edentia training worlds. Our training consists of a series of placements among Univitatia. We must “live happily and work effectively” with 10 univitatia, at first, and then over time more of our fellow morontial mortals join us until there are finally 10 morontial mortals and 10 univitatia in the same group, who are all abiding joyfully and co-operating heartily! (43:8.1 and 494.1-7). This section refers quite realistically to the need to improve our ability to live with diverse beings with “ever-lessening irritability and ever-diminishing resentment”. It is not difficult to project this experience on to Havona and then our adventures as finaliters, bearing in mind that we are never sent back to the same superuniverse we came from, and each superuniverse is different from the others.
 
@@ -109,9 +133,9 @@ This paper gives a very detailed description of this training, which is conducte
 
 In the section on the different coloured races on Urantia, and on other planets, one of the stated reasons for doing it this way is “the development of human tolerance and altruism” (64:31, 726. 3&4).
 
-Elsewhere it is also stated that the material-comfort era in which we live is often characterized by intolerance ([UB 50:5.3](/en/The_Urantia_Book/50#p5_3)).
+Elsewhere it is also stated that the material-comfort era in which we live is often characterized by intolerance (<a id="a135_114"></a>[UB 50:5.3](/en/The_Urantia_Book/50#p5_3)).
 
-It would appear, then, that intolerance of diversity is the one of the greatest challenges we face in our career on Urantia. Intolerance is defined as “unwillingness to accept views, beliefs, or behaviour that differ from one’s own” [Google dictionary], and in _The Urantia Book_, it is described as “everlastingly inimical to human progress” ([UB 71:3.2](/en/The_Urantia_Book/71#p3_2)).  These are strong words indeed, and yet we live in a world where intolerance is as pervasive as diversity, as a quick scan of news articles on any day will highlight.
+It would appear, then, that intolerance of diversity is the one of the greatest challenges we face in our career on Urantia. Intolerance is defined as “unwillingness to accept views, beliefs, or behaviour that differ from one’s own” [Google dictionary], and in _The Urantia Book_, it is described as “everlastingly inimical to human progress” (<a id="a137_344"></a>[UB 71:3.2](/en/The_Urantia_Book/71#p3_2)).  These are strong words indeed, and yet we live in a world where intolerance is as pervasive as diversity, as a quick scan of news articles on any day will highlight.
 
 The jigsaw pieces of human variation shown above illustrate all the triggers of intolerance in our world.
 
@@ -121,9 +145,9 @@ This is currently being exacerbated by the increasing and more visible diversity
 
 How can these challenges be met successfully? How can intolerance be reduced so that the human race can make progress?  Jesus discussed this on a number of occasions with the apostles, who did not have the same views about many things.  His advice was that they did not have to have the same opinions in order to achieve shared goals.  Here are two of his comments to them:
 
-> _“The religion of the spirit requires only unity of experience – uniformity of destiny – making full allowance for diversity of belief”_ [UB 155:6.9](/en/The_Urantia_Book/155#p6_9).
+> _“The religion of the spirit requires only unity of experience – uniformity of destiny – making full allowance for diversity of belief”_ <a id="a147_139"></a>[UB 155:6.9](/en/The_Urantia_Book/155#p6_9).
 
-> _“You do not have to see alike or feel alike or even think alike in order spiritually to be alike”_ [UB 141:5.1](/en/The_Urantia_Book/141#p5_1).
+> _“You do not have to see alike or feel alike or even think alike in order spiritually to be alike”_ <a id="a149_102"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1).
 
 Having the same purpose and the same **_ideals_** seems to be one of the best ways to move forward – to aim for unity, not uniformity.
 
@@ -163,3 +187,27 @@ If we have **_faith_** in God’s eternal plan, and work steadfastly to overcome
 - Cross, L. W. (2019).  Fostering an inclusive classroom: A Practical Guide.  PECOP Blog.  [https://blog.lifescitrc.org/pecop/tag/diversity/](https://blog.lifescitrc.org/pecop/tag/diversity/)
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/challenges-of-diversity
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Recent_Developments_in_the_Astrophysics_Sector">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Recent Developments in the Astrophysics Sector</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neil_Francey/True_Success_study">
+          <span class="pr-2">True Success</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

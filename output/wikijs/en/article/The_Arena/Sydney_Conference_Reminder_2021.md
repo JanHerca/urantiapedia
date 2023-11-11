@@ -3,12 +3,36 @@ title: "Sydney Conference Reminder – 2021"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Arena, article
+tags: Urantia Movement Event, The Arena, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Winter 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="pr-2">Study Day 2021 – Reflections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/PCH-21-adj-570x259.jpg">
@@ -26,7 +50,7 @@ But what is a keystone? When building an archway, a keystone is the wedge-shape
 
 The folks on the conference planning team have endeavoured to produce a program that goes deep into subjects near and dear to our hearts, while allowing plenty of time for discussion. Our goal is to find and unpack the elements—or qualities—needed to make up our keystone to reality.
 
-> **_Truth is coherent, beauty attractive, goodness stabilizing_**_. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty._ [[UB 2:7.12](/en/The_Urantia_Book/2#p7_12) emphasis added]
+> **_Truth is coherent, beauty attractive, goodness stabilizing_**_. And when these values of that which is real are co-ordinated in personality experience, the result is a high order of love conditioned by wisdom and qualified by loyalty._ <a id="a52_241"></a>[[UB 2:7.12](/en/The_Urantia_Book/2#p7_12) emphasis added]
 
 As a preview, here is a list the presentations and presenters:
 
@@ -54,3 +78,27 @@ Phone: 0431 285 943
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/sydney-conference-reminder-2021
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Winter 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Study_Day_2021_Reflections">
+          <span class="pr-2">Study Day 2021 – Reflections</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

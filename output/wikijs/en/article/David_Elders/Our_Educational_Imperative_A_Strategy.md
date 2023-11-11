@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 David Elders<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Farewell_Mark_Bloomfield_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Farewell Mark Bloomfield</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Proclaiming_the_Gospel_with_Power">
+          <span class="pr-2">Proclaiming the Gospel with Power in the 21st Century</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By David Elders, USA
 
@@ -22,7 +46,7 @@ _(Editor’s note: This was presented at the **Urantia Book Seminar on Education
 
 The purpose of this essay is to offer for consideration a number of educational imperatives to guide us, as early recipients of the new truths revealed in _The Urantia Book_, in the implementation of an educational strategy designed to foster the transition in human consciousness from our fourth revelatory epoch to the fifth. One aspect of this educational strategy addresses how we choose to deal with the risk typically associated with the challenge of integrating new revelatory truth while minimizing its dilution and contamination by past religious beliefs, symbols, practices, and institutions. A Melchizedek observes:
 
-> _You who today enjoy the advantages of the art of printing little understand how difficult it was to perpetuate truth during these earlier times; how easy it was to lose sight of a new doctrine from one generation to another. There was always a tendency for the new doctrine to become absorbed into the older body of religious teaching and magical practice. A new revelation is always contaminated by the older evolutionary beliefs._ [[UB 93:7.4](/en/The_Urantia_Book/93#p7_4)] emphasis added
+> _You who today enjoy the advantages of the art of printing little understand how difficult it was to perpetuate truth during these earlier times; how easy it was to lose sight of a new doctrine from one generation to another. There was always a tendency for the new doctrine to become absorbed into the older body of religious teaching and magical practice. A new revelation is always contaminated by the older evolutionary beliefs._ <a id="a48_436"></a>[[UB 93:7.4](/en/The_Urantia_Book/93#p7_4)] emphasis added
 
 ## Premise: An Educational Strategy for The Fifth Epoch
 
@@ -36,11 +60,11 @@ For any of us feeling impatience due to the perception that our community has be
 
 Approximately one billion years ago, our Creator Michael undertook implementation of the charge given him by the Eternal Son on behalf of the Trinity to bestow himself seven times on the creatures of the universe he had created in the outer reaches of superuniverse seven. The pattern of such bestowals was first manifest by the Eternal Son who bestowed himself on the seven circuits of the Central Universe of Havona, as subsequently did the original Paradise Michael Son. The Creator Son’s acceptance of this solemn responsibility impacts reality in his local universe and ripples across the Grand Universe home of the Supreme, and perhaps beyond. On Urantia we have directly experienced and benefitted from this obligation as a consequence of our Creator Son’s choice to complete his bestowal service on our world in his incarnation as the human Jesus—a short, 2,000 years ago.
 
-> _When the Eternal Son bestows a Creator Son upon a projected local universe, that Creator Son assumes full responsibility for the completion, control, and composure of that new universe, including the solemn oath to the eternal Trinity not to assume full sovereignty of the new creation until his seven creature bestowals shall have been successfully completed and certified by the Ancients of Days of the superuniverse of jurisdiction. This obligation is assumed by every Michael Son who volunteers to go out from Paradise to engage in universe organization and creation._ [[UB 119:0.3](/en/The_Urantia_Book/119#p0_3)]
+> _When the Eternal Son bestows a Creator Son upon a projected local universe, that Creator Son assumes full responsibility for the completion, control, and composure of that new universe, including the solemn oath to the eternal Trinity not to assume full sovereignty of the new creation until his seven creature bestowals shall have been successfully completed and certified by the Ancients of Days of the superuniverse of jurisdiction. This obligation is assumed by every Michael Son who volunteers to go out from Paradise to engage in universe organization and creation._ <a id="a62_576"></a>[[UB 119:0.3](/en/The_Urantia_Book/119#p0_3)]
 
 The seven bestowals of a Creator Son of Paradise always end on the lowest, mortal bestowal level whereon the universe sovereign is born and dies as a mortal of the realm.
 
-> _Only once in his sevenfold career as a bestowal Son is a Paradise Michael born of woman as you have the record of the babe of Bethlehem. Only once does he live and die as a member of the lowest order of evolutionary will creatures._ [[UB 21:4.3](/en/The_Urantia_Book/21#p4_3)]
+> _Only once in his sevenfold career as a bestowal Son is a Paradise Michael born of woman as you have the record of the babe of Bethlehem. Only once does he live and die as a member of the lowest order of evolutionary will creatures._ <a id="a66_236"></a>[[UB 21:4.3](/en/The_Urantia_Book/21#p4_3)]
 
 A Paradise Creator Michael Son’s bestowal experiences augment his universe sovereignty, expands his experiential comprehension of the Supreme purposes of the Grand Universe, and reveals the various wills of the Paradise Deities as those wills are manifest in the persons of the Seven Master Spirits of the Grand Universe. Some 35,000 years ago, as the universes observed the default of Adam and Eve, it was announced that Michael’s seventh and final Creator Son bestowal incarnation would take place on our world some 33,000 years later in the form of a human child born to a human couple.
 
@@ -60,9 +84,9 @@ Fifth Bestowal | Uversa Mortal | Will of Conjoint Actor
 Sixth Bestowal | Morontia Mortal | Will of Eternal Son
 Seventh Bestowal | Human Mortal | Will of universal Father
 
-> _In completing his creature bestowals, Michael was not only establishing his own sovereignty but also was augmenting the evolving sovereignty of God the Supreme. In the course of these bestowals the Creator Son not only engaged in a descending exploration of the various natures of creature personality, but he also achieved the revelation of the variously diversified wills of the Paradise Deities, whose synthetic unity, as revealed by the Supreme Creators, is revelatory of the will of the Supreme Being._ [[UB 119:8.4](/en/The_Urantia_Book/119#p8_4)]
+> _In completing his creature bestowals, Michael was not only establishing his own sovereignty but also was augmenting the evolving sovereignty of God the Supreme. In the course of these bestowals the Creator Son not only engaged in a descending exploration of the various natures of creature personality, but he also achieved the revelation of the variously diversified wills of the Paradise Deities, whose synthetic unity, as revealed by the Supreme Creators, is revelatory of the will of the Supreme Being._ <a id="a86_511"></a>[[UB 119:8.4](/en/The_Urantia_Book/119#p8_4)]
 > 
-> _These various will aspects of the Deities are eternally personalized in the differing natures of the Seven Master Spirits, and each of Michael’s bestowals was peculiarly revelatory of one of these divinity manifestations._ [[UB 119:8.4](/en/The_Urantia_Book/119#p8_4)]
+> _These various will aspects of the Deities are eternally personalized in the differing natures of the Seven Master Spirits, and each of Michael’s bestowals was peculiarly revelatory of one of these divinity manifestations._ <a id="a88_226"></a>[[UB 119:8.4](/en/The_Urantia_Book/119#p8_4)]
 
 Michael’s required bestowal experience represents a pattern expression for the process of universe education designed to demonstrate that personal sovereignty, at least for a Paradise Son, is based on the experiential comprehension of the wills of the Paradise Deities as they impact and influence the expression of God’s diversity in the finite realm (time and space). Is our personal sovereignty as will creatures consequential as well to such divinity experience?
 
@@ -82,7 +106,7 @@ Speculatively, it seems likely that the sum of revealed epochal truth on the pla
 6 | Trinity Teacher Sons (Daynals) | &nbsp; | Will of Son/Spirit
 7 | Magisterial Son (Avonal) | &nbsp; | Will Of Eternal Son
 
-> \* _If Melchizedek, as an emergency mission, does not fit this pattern, the Daynals might express the united will of the Father/Son/Spirit and Light and Life would represent the seventh epoch since we are told that there are …at least seven epochs of human life._ [[UB 52:0.1](/en/The_Urantia_Book/52#p0_1)]
+> \* _If Melchizedek, as an emergency mission, does not fit this pattern, the Daynals might express the united will of the Father/Son/Spirit and Light and Life would represent the seventh epoch since we are told that there are …at least seven epochs of human life._ <a id="a108_266"></a>[[UB 52:0.1](/en/The_Urantia_Book/52#p0_1)]
 
 ## Detailed Discussion of Educational Imperatives
 
@@ -104,7 +128,7 @@ Our educational strategy must not sacrifice illumination of the revealed truths 
 
 Michael’s bestowal as the human Jesus on our planet connects our Creator Son’s completion of his bestowal promise to the Eternal Son with our planet’s fourth epoch of personal religious growth and progress. As part of our educational mission to facilitate the transition of human consciousness from the fourth to the fifth epoch, we must develop educational initiatives that both differentiate and blend the benefits of this revelatory progression from fourth to fifth. The dimensions of both revealed truth and fact can help define our educational strategy. In the words of a Melchizedek:
 
-> _As truth one may know God, but to understand – to explain – God, one must explore the fact of the universe of universes. The vast gulf between the experience of the truth of God and ignorance as to the fact of God can be bridged only by living faith._ [[UB 102:6.6](/en/The_Urantia_Book/102#p6_6)]
+> _As truth one may know God, but to understand – to explain – God, one must explore the fact of the universe of universes. The vast gulf between the experience of the truth of God and ignorance as to the fact of God can be bridged only by living faith._ <a id="a130_255"></a>[[UB 102:6.6](/en/The_Urantia_Book/102#p6_6)]
 
 **…and aided by wise education and study!** I believe that this statement offers a context in which to understand why the truths of Michael’s revelation as Jesus in the fourth epoch are expressive of the will of the Father **and** why the comprehension of God’s factual reality in the universe of universes as presented in the fifth epochal revelation might be expressive of the will of the God of Mind. If this expanded exploration of God’s factual reality as offered in _The Urantia Book_ revelation is obscured by the familiar appeal of Jesus’ revelation of the truth of sonship with God, the power of the fifth epochal revelation to transition consciousness to the next epochal level will be reduced.
 
@@ -112,11 +136,11 @@ Michael’s bestowal as the human Jesus on our planet connects our Creator Son�
 
 A Divine Counsellor tells us that:
 
-> _The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to spiritual wisdom. Such a procedure is the easiest path to a certain form of genetic knowledge, but at best it can only reveal man’s origin; it reveals little or nothing about his divine destiny._ [[UB 19:1.5](/en/The_Urantia_Book/19#p1_5)] The rest of this section of Paper 19 is worth studying.
+> _The human mind would ordinarily crave to approach the cosmic philosophy portrayed in these revelations by proceeding from the simple and the finite to the complex and the infinite, from human origins to divine destinies. But that path does not lead to spiritual wisdom. Such a procedure is the easiest path to a certain form of genetic knowledge, but at best it can only reveal man’s origin; it reveals little or nothing about his divine destiny._ <a id="a138_451"></a>[[UB 19:1.5](/en/The_Urantia_Book/19#p1_5)] The rest of this section of Paper 19 is worth studying.
 
 Informed by this teaching and indeed observant of the very construction of _The Urantia Book_, it is imperative that our educational pedagogy gives preference to a top-down educational approach. As most of us have experienced in various study settings, even students of _The Urantia Book_ tend to project onto the new truth they encounter beliefs and doctrines already in their consciousness. Though they may attempt to clothe their thinking and presentation in word symbols from the revelation, nonetheless their reach for new understanding is contaminated by what they already know and believe. A Melchizedek instructs:
 
-> _Rationalism is wrong when it assumes that religion is at first a primitive belief in something which is then followed by the pursuit of values. Religion is primarily a pursuit of values, and then there formulates a system of interpretative beliefs. It is much easier for men to agree on religious values—goals—than on beliefs—interpretations. And this explains how religion can agree on values and goals while exhibiting the confusing phenomenon of maintaining a belief in hundreds of conflicting beliefs—creeds. This also explains why a given person can maintain his religious experience in the face of giving up or changing many of his religious beliefs. Religion persists in spite of revolutionary changes in religious beliefs. **Theology does not produce religion; it is religion that produces theologic philosophy**._ [[UB 103:1.4](/en/The_Urantia_Book/103#p1_4)] emphasis added
+> _Rationalism is wrong when it assumes that religion is at first a primitive belief in something which is then followed by the pursuit of values. Religion is primarily a pursuit of values, and then there formulates a system of interpretative beliefs. It is much easier for men to agree on religious values—goals—than on beliefs—interpretations. And this explains how religion can agree on values and goals while exhibiting the confusing phenomenon of maintaining a belief in hundreds of conflicting beliefs—creeds. This also explains why a given person can maintain his religious experience in the face of giving up or changing many of his religious beliefs. Religion persists in spite of revolutionary changes in religious beliefs. **Theology does not produce religion; it is religion that produces theologic philosophy**._ <a id="a142_826"></a>[[UB 103:1.4](/en/The_Urantia_Book/103#p1_4)] emphasis added
 
 Educationally we have both an obligation and an opportunity to construct our educational strategy on the revelatory teaching that the spiritual truth of God’s reality is experienced first as a quest for values followed by the evolutionary interpretations and beliefs which serve temporarily to define our comprehension—until we experience growth. Educating from the bottom up fosters projections of existing belief that contaminate newly revealed truth thereby impeding that truth’s ability to fuel growth and illuminate destiny. Mota 16 asserts that truth is revealed when the sequence of its encounter flows from spirit experience to soul perception: _You cannot perceive truth until you feelingly experience it…_ Facilitating this shift in consciousness and identity from the mind to the soul as the doorway to truth illuminates a process by which our educational pedagogy can implement this imperative—educate from the top down not the bottom up.
 
@@ -142,7 +166,7 @@ Our educational strategic pedagogy should reflect the persistent, ongoing presen
 
 Our educational initiatives on behalf of the revealed fifth epochal truths delivered in Urantia Book represent an opportunity to instil into human consciousness a high standard for the courage and commitment necessary fearlessly and progressively to replace old beliefs and doctrines with newly revealed, fifth epochal truths encountered in the appropriate universe sequence from spirit experience to soul perception. If we do not model in our educational initiatives the fearless response to this fifth epochal challenge, who will?
 
-> _Seek the greater thing, and the lesser will be found therein; ask for the heavenly, and the earthly shall be included. The shadow is certain to follow the substance._ [[UB 165:5.3](/en/The_Urantia_Book/165#p5_3)]
+> _Seek the greater thing, and the lesser will be found therein; ask for the heavenly, and the earthly shall be included. The shadow is certain to follow the substance._ <a id="a168_170"></a>[[UB 165:5.3](/en/The_Urantia_Book/165#p5_3)]
 
 ## Appendix
 
@@ -159,3 +183,27 @@ The newly revealed truths in _The Urantia Book_ disclose the line of demarcation
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/educational-imperative-strategy-coming-decades
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Farewell_Mark_Bloomfield_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Farewell Mark Bloomfield</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Proclaiming_the_Gospel_with_Power">
+          <span class="pr-2">Proclaiming the Gospel with Power in the 21st Century</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

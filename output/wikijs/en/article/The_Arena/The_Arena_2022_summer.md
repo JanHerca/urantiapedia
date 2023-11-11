@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rita_Schaad/Presidents_Report_Summer_2022">
+          <span class="pr-2">President’s Report – Summer 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/Arena-Header-no-picture-1.jpg" alt="Arena">
@@ -47,7 +68,7 @@ The kingdom of our Lord – King of kings forever and ever…
 And Lord of lords’……… hallelujah ……
 And He shall reign forever and ever….
 
-_Never on all the worlds of this universe, in the life of any one mortal, did God ever become such a living reality as in the human experience of Jesus of Nazareth._ [[UB 196:0.3](/en/The_Urantia_Book/196#p0_3)]
+_Never on all the worlds of this universe, in the life of any one mortal, did God ever become such a living reality as in the human experience of Jesus of Nazareth._ <a id="a70_166"></a>[[UB 196:0.3](/en/The_Urantia_Book/196#p0_3)]
 
 Never on any other world among many systems and constellations – even the entire Universe of Nebadon – did transpire what happened on ours, the first and only lowly planet to have the honour of hosting Christ Michael bestowing himself in the flesh as Jesus. We are known as “the world of the cross” – the sentimental shrine of all Nebadon – we are known throughout the realm for its strife-torn past (and present) and its rebellious mortals. And this still, even after 2000 years of Adjuster indwelling in most inhabitants!
 
@@ -88,7 +109,7 @@ Julian McGarry, Hobart TAS
 <img src="/image/article/The_Arena/22-Conf.-logo.jpg" alt="2022 ANZURA Annual Conference">
 </figure>
 
-_It is high time that man had a religious experience so personal and so sublime that it could be realized and expressed only by "feelings that lie too deep for words."_ [[UB 99:5.9](/en/The_Urantia_Book/99#p5_9)]
+_It is high time that man had a religious experience so personal and so sublime that it could be realized and expressed only by "feelings that lie too deep for words."_ <a id="a111_169"></a>[[UB 99:5.9](/en/The_Urantia_Book/99#p5_9)]
 
 Annual conferences are always the highlight of the year for ANZURA members, but this year was particularly notable because it was the first time in three years that we’ve had a face-to-face conference due to the pandemic. Comfortably accommodated at the beautiful Stewarts Bay Lodge, which is only a short walk from the Port Arthur historic site, we gathered together to focus on the ultimate personal experience – a personal and intimate relationship with the First Source and Centre of the universe of universes, our Universal Father.
 
@@ -112,9 +133,9 @@ _Julian was the main organiser of_ _the 2022 ANZURA Conference in Tasmania_ _and
 
 I would like to begin by saying that I believe this theme, this topic, is the most important one in the entire universe. Perhaps this is an overstatement, but I hope that after reading the article, you will understand where I’m coming from, and maybe even agree with me. I believe it is the reason for the universe itself existing and ultimately, why we exist at all.
 
-_The Urantia Book_ tells us that billions of years ago, our Creator Son, Michael of Nebadon, who later incarnated on our planet as Jesus of Nazareth, was given his ‘patch of turf’ by the Universal Father on which to create his own personal universe. Moreover, he was given the mandate to bring forth millions upon millions of children for the Father, sentient mortal beings of evolutionary origin who would be capable of having a personal, intimate relationship with an indwelling  fragment of the Universal Father….our Thought Adjuster. These evolutionary, animal-origin children made from the dust of the earth would be created according to divine mandate “in the image of God” and would be required to be perfect as the Universal Father is perfect. ([UB 1:0.3](/en/The_Urantia_Book/1#p0_3))
+_The Urantia Book_ tells us that billions of years ago, our Creator Son, Michael of Nebadon, who later incarnated on our planet as Jesus of Nazareth, was given his ‘patch of turf’ by the Universal Father on which to create his own personal universe. Moreover, he was given the mandate to bring forth millions upon millions of children for the Father, sentient mortal beings of evolutionary origin who would be capable of having a personal, intimate relationship with an indwelling  fragment of the Universal Father….our Thought Adjuster. These evolutionary, animal-origin children made from the dust of the earth would be created according to divine mandate “in the image of God” and would be required to be perfect as the Universal Father is perfect. (<a id="a135_753"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3))
 
-An extraordinary challenge, to say the least! We are further told that Michael, together with his universe consort, the Divine Minister or Universe Mother Spirit, appointed power directors and energy controllers to build a physical universe consisting of constellations, solar systems, and individual planets. ([UB 32:2.2](/en/The_Urantia_Book/32#p2_2)) Once these planets developed conditions conducive to the formation of life, Life Carriers were dispatched with the task of initiating and overseeing the evolution of living, biological systems. ([UB 58:1.1](/en/The_Urantia_Book/58#p1_1)) In collaboration with the seven adjutant mind spirits, the Life Carriers worked tirelessly to bring about animal-origin creatures having minds that were capable of interacting with absolute deity, the indwelling Father fragment. But before this could happen, these first human creatures were immediately encircuited within the protective and nurturing embrace of the Holy Spirit, the personal spirit of the Divine Minister. Nevertheless, due to the deleterious effects of the Lucifer rebellion and the Adamic default, initially only exceptional humans were indwelt by Thought Adjusters. In general, humans were not capable of experiencing personal and intimate communion with Thought Adusters. ([UB 108:2.2-3](/en/The_Urantia_Book/108#p2_2))
+An extraordinary challenge, to say the least! We are further told that Michael, together with his universe consort, the Divine Minister or Universe Mother Spirit, appointed power directors and energy controllers to build a physical universe consisting of constellations, solar systems, and individual planets. (<a id="a137_311"></a>[UB 32:2.2](/en/The_Urantia_Book/32#p2_2)) Once these planets developed conditions conducive to the formation of life, Life Carriers were dispatched with the task of initiating and overseeing the evolution of living, biological systems. (<a id="a137_549"></a>[UB 58:1.1](/en/The_Urantia_Book/58#p1_1)) In collaboration with the seven adjutant mind spirits, the Life Carriers worked tirelessly to bring about animal-origin creatures having minds that were capable of interacting with absolute deity, the indwelling Father fragment. But before this could happen, these first human creatures were immediately encircuited within the protective and nurturing embrace of the Holy Spirit, the personal spirit of the Divine Minister. Nevertheless, due to the deleterious effects of the Lucifer rebellion and the Adamic default, initially only exceptional humans were indwelt by Thought Adjusters. In general, humans were not capable of experiencing personal and intimate communion with Thought Adusters. (<a id="a137_1287"></a>[UB 108:2.2-3](/en/The_Urantia_Book/108#p2_2))
 
 [Read more](/en/article/Julian_McGarry/Walking_the_R_O_P_E)
 <br style="clear:both;"/>
@@ -129,15 +150,15 @@ Daniel Swadling, Sydney NSW
 
 (Presented at the 2022 ANZURA Conference in Tasmania)
 
-_The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within your mind._ [UB 110:3.4](/en/The_Urantia_Book/110#p3_4)
+_The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within your mind._ <a id="a152_268"></a>[UB 110:3.4](/en/The_Urantia_Book/110#p3_4)
 
 We see this very attunement and consecration be demonstrated, actually occur, in the life of Jesus, which I’d like to explore with you today.
 
-_Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._ [UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
+_Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._ <a id="a156_118"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
 
-Religion is an experience. _‘Religion is an exclusively individual experience.’_ ([UB 196:2.11](/en/The_Urantia_Book/196#p2_11)) To understand the religion of Jesus, we have to see how it was revealed through his life and how he lived it, as it is a lived experience.
+Religion is an experience. _‘Religion is an exclusively individual experience.’_ (<a id="a158_82"></a>[UB 196:2.11](/en/The_Urantia_Book/196#p2_11)) To understand the religion of Jesus, we have to see how it was revealed through his life and how he lived it, as it is a lived experience.
 
-The creator of our universe bestowed himself on our planet with a _twofold mission_: to live the life of one of his human creatures, and to reveal God to us to help us understand him better. ([UB 128:0.2](/en/The_Urantia_Book/128#p0_2))
+The creator of our universe bestowed himself on our planet with a _twofold mission_: to live the life of one of his human creatures, and to reveal God to us to help us understand him better. (<a id="a160_192"></a>[UB 128:0.2](/en/The_Urantia_Book/128#p0_2))
 
 Jesus came to liberate us from stagnant nationalistic and spiritually impoverishing institutions, to remove the mediators between people and God, and demonstrate that religion is that relationship between the individual and God. Between you and God. He taught that “you are not alone,” you and every individual person on the planet is important, is valuable, can live on after death and potentially into eternity, in a universe that is full of other life, is friendly and supportive, and with unlimited opportunity and adventure.
 
@@ -192,7 +213,7 @@ Neil Francey, Burleigh Heads QLD
 
 The vastness of the master universe is almost beyond measure, yet the revelators describe it as within a boundary. Does infinity then extend beyond that dimension, out into a fathomless darkness? Could there be other master universes located beyond the power, communication, and travel capabilities of the one presented to us?
 
-Such musings are in good company, as on numerous occasions in the quotations below, the revelators say effectively (as on [UB 56:7.6](/en/The_Urantia_Book/56#p7_6)): ‘We do not know, but we speculate much concerning these and related matters.’
+Such musings are in good company, as on numerous occasions in the quotations below, the revelators say effectively (as on <a id="a215_122"></a>[UB 56:7.6](/en/The_Urantia_Book/56#p7_6)): ‘We do not know, but we speculate much concerning these and related matters.’
 
 The ideas expressed here are purely speculative. They have no basis in revelation and are merely a personal observation. These concepts in no way compare with the scholarly astronomical research and deductions being made by professional analysts of the Urantia revelation. \[My thanks to Nigel Nunn for his invaluable interest and comments about this article.\]
 
@@ -244,3 +265,24 @@ To view current and past issues of the _Arena_ [click here](https://anzura.urant
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-summer-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rita_Schaad/Presidents_Report_Summer_2022">
+          <span class="pr-2">President’s Report – Summer 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

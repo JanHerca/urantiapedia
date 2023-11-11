@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Rita Schaad<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Post Covid 19 Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Ancient_Orvonton_and_a_Young_Cosmic_Web">
+          <span class="pr-2">Ancient Orvonton, and a Young Cosmic Web</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Rita Schaad, NSW
 
@@ -147,3 +171,27 @@ Rita Schaad, Newcastle NSW
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/a-bit-of-history
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Post Covid 19 Spirituality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Nigel_Nunn/Ancient_Orvonton_and_a_Young_Cosmic_Web">
+          <span class="pr-2">Ancient Orvonton, and a Young Cosmic Web</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

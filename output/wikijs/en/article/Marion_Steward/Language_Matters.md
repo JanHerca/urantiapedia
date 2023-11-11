@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Marion Steward<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Summer 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="pr-2">Post Covid 19 Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Marion Steward, NZ
 
@@ -123,11 +147,11 @@ One approach could be to highlight the timeframe of the book, and to stress that
 
 In terms of the use of insensitive language, the book has this to say, from Paper 81, Development of Modern Civilization:
 
-> _Effectiveness of language. …Live and growing languages insure the expansion of civilised thinking and planning…Today there is great need for further linguistic development to facilitate the expression of evolving thought_. [[UB 81:6.16](/en/The_Urantia_Book/81#p6_16)]
+> _Effectiveness of language. …Live and growing languages insure the expansion of civilised thinking and planning…Today there is great need for further linguistic development to facilitate the expression of evolving thought_. <a id="a149_226"></a>[[UB 81:6.16](/en/The_Urantia_Book/81#p6_16)]
 
 I would add that the increase in the use of inclusive and non-discriminatory language are also improving the way differently abled people are viewed and treated. Jesus demonstrated his perspective on this in the cleansing of the Temple, as described below:
 
-> _As Jesus was about to begin his address, two things happened to arrest his attention. At the money table of a near-by exchanger a violent and heated argument had arisen over the alleged overcharging of a Jew from Alexandria, while at the same moment the air was rent by the bellowing of a drove of some one hundred bullocks which was being driven from one section of the animal pens to another. As Jesus paused, silently but thoughtfully contemplating this scene of commerce and confusion, **close by he beheld a simple-minded Galilean, a man he had once talked with in Iron, being ridiculed and jostled about by supercilious and would-be superior Judeans;** and all of this combined to produce one of those strange and periodic uprisings of indignant emotion in the soul of Jesus._ ([UB 173:1.6](/en/The_Urantia_Book/173#p1_6) emphasis added).
+> _As Jesus was about to begin his address, two things happened to arrest his attention. At the money table of a near-by exchanger a violent and heated argument had arisen over the alleged overcharging of a Jew from Alexandria, while at the same moment the air was rent by the bellowing of a drove of some one hundred bullocks which was being driven from one section of the animal pens to another. As Jesus paused, silently but thoughtfully contemplating this scene of commerce and confusion, **close by he beheld a simple-minded Galilean, a man he had once talked with in Iron, being ridiculed and jostled about by supercilious and would-be superior Judeans;** and all of this combined to produce one of those strange and periodic uprisings of indignant emotion in the soul of Jesus._ (<a id="a153_787"></a>[UB 173:1.6](/en/The_Urantia_Book/173#p1_6) emphasis added).
 
 In the end, communication is mostly between individuals, and I feel that here we simply need to pay heed to what Jesus felt when he observed how this person was treated, and make sure to treat every person, no matter what their level of ableness, as a spiritual sister or brother, and choose our words with care so that we do not cause any harm.
 
@@ -146,3 +170,27 @@ In the end, communication is mostly between individuals, and I feel that here we
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/02/10/language-matters
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Summer_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Summer 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Norman_Weiss_and_Diana_Whakapapa/Post_Covid_19_Spirituality">
+          <span class="pr-2">Post Covid 19 Spirituality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

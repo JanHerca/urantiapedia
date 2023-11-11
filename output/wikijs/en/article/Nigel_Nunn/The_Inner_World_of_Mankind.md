@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Nigel Nunn<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Susan_Hemmingsen/New_Zealand_Corner_Summer_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Zealand Corner – Summer 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Trevor_Swadling/River_of_Life">
+          <span class="pr-2">River of Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Nigel Nunn, VIC
 
@@ -18,7 +42,7 @@ _(Editor’s Note: **Mining the Archives** is a collection of articles that have
 
 ## The Inner World of Mankind: Seeking a Description for the Fifth Epoch
 
-_The advances of true civilization are all born in this inner world of mankind._ [[UB 111:4.3](/en/The_Urantia_Book/111#p4_3)]
+_The advances of true civilization are all born in this inner world of mankind._ <a id="a44_81"></a>[[UB 111:4.3](/en/The_Urantia_Book/111#p4_3)]
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Nigel-Myrn-238x300.jpg" alt="Nigel Nunn">
@@ -43,9 +67,9 @@ Of course, we are free to make a mess of this interior design. But remember, the
 
 Recently we have been exploring the idea that humanity needs an epic backdrop, a description of reality that is consistent, describable, sharable and arousing. In past epochs, cultures spun myths to act as their universe.
 
-> _When the spiritual tests of greatness are applied, the moral elements are not disregarded, but the quality of unselfishness revealed in disinterested labour for the welfare of one’s earthly fellows, particularly worthy beings in need and in distress, that is the real measure of planetary greatness…_[[UB 28:6.2](/en/The_Urantia_Book/28#p6_2)]
+> _When the spiritual tests of greatness are applied, the moral elements are not disregarded, but the quality of unselfishness revealed in disinterested labour for the welfare of one’s earthly fellows, particularly worthy beings in need and in distress, that is the real measure of planetary greatness…_<a id="a69_303"></a>[[UB 28:6.2](/en/The_Urantia_Book/28#p6_2)]
 
-> _Revelation is a technique whereby ages upon ages of time are saved in the necessary work of sorting and sifting the errors of evolution from…_ [[UB 101:5.1](/en/The_Urantia_Book/101#p5_1)]
+> _Revelation is a technique whereby ages upon ages of time are saved in the necessary work of sorting and sifting the errors of evolution from…_ <a id="a71_146"></a>[[UB 101:5.1](/en/The_Urantia_Book/101#p5_1)]
 
 These Papers are an ideal tool to help coordinate, integrate and elevate the myths and ideologies that currently sustain and restrain the cultures of our world. (And surely we will not make the mistake of merely swapping old myths and fables for a new credo. A valid concept can evoke truth, or be caged as dogma.)
 
@@ -65,14 +89,38 @@ As early recipients of this fresh description, after we first repair and redecor
 
 As readers, each of us have had this seed of revelation planted within. It is around this seed, upon this core of fundamental truth, that we have begun to build the first halting, evolutionary, versions of this fifth epoch frame. The difficult next step is to so extend our small understandings, our private “inner worlds”, that we can contribute to the establishment of this “inner world of mankind”. A worthy contribution to the advance of true civilization.
 
-> _The advances of true civilization are all born in this inner world of mankind._ [[UB 111:4.3](/en/The_Urantia_Book/111#p4_3)]
+> _The advances of true civilization are all born in this inner world of mankind._ <a id="a91_83"></a>[[UB 111:4.3](/en/The_Urantia_Book/111#p4_3)]
 
 Future generations will live within some paradigm. As readers dedicated to the Father and our Michael, we are powerfully equipped to help the Most Highs build it. But many early recipients seem to be clients, not servers. Many appear ready and keen to enjoy this future “inner world”, neglecting the fact that it is not yet in place. While all of us will enjoy drinking the wine, we cannot yet press the grapes we have just begun planting.
 
-> _Life is but a day’s work—do it well._ [[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)]
+> _Life is but a day’s work—do it well._ <a id="a95_41"></a>[[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)]
 
-> _And never is it necessary that any influence be brought to bear upon the Father to call forth his loving-kindness. The creature’s need is wholly sufficient to insure the full flow of the Father’s tender mercies and his saving grace._ [[UB 2:4.2](/en/The_Urantia_Book/2#p4_2)]
+> _And never is it necessary that any influence be brought to bear upon the Father to call forth his loving-kindness. The creature’s need is wholly sufficient to insure the full flow of the Father’s tender mercies and his saving grace._ <a id="a97_237"></a>[[UB 2:4.2](/en/The_Urantia_Book/2#p4_2)]
 
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/inner-world-of-mankind
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Susan_Hemmingsen/New_Zealand_Corner_Summer_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Zealand Corner – Summer 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Trevor_Swadling/River_of_Life">
+          <span class="pr-2">River of Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

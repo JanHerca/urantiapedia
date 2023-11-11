@@ -58,7 +58,7 @@ Dr. Sadler led a discussion on this topic. At the time, he was perhaps the leadi
 > 
 > It should be made clear that the antecedents of the Urantia Papers were in no way associated with so-called spiritualism — with its séances and supposed communication with the spirits of departed human beings.
 
-> _But it should be made clear that the midway creatures are not involved in the sordid performances taking place under the general designation of ‘spiritualism’. The midwayers at present on Urantia, all of whom are of honorable standing, are not connected with the phenomena of so-called “mediumship” ..._ ([UB 77:8.13](/en/The_Urantia_Book/77#p8_13))
+> _But it should be made clear that the midway creatures are not involved in the sordid performances taking place under the general designation of ‘spiritualism’. The midwayers at present on Urantia, all of whom are of honorable standing, are not connected with the phenomena of so-called “mediumship” ..._ (<a id="s60_308"></a>[UB 77:8.13](/en/The_Urantia_Book/77#p8_13))
 
 ## Is It A Compilation Of Other People's Work?
 
@@ -80,7 +80,7 @@ This project is the work of Matthew Block who writes:
 
 > This website has been created to share my parallel charts, which identify the sources for particular Urantia papers (or sections) and trace how they were used. These charts, and others to come, will be used in a series of works which analyze how _The Urantia Book_ was written.
 > 
-> Having read _The Urantia Book_'s two nebulous acknowledgments, which refer to the use of ‘more than one thousand human concepts ... assembled from the God-knowing mortals of the past and the present’ in the writing of Part I ([UB 0:12.12](/en/The_Urantia_Book/0#p12_12)), and the use of the thoughts and expressions of ‘more than two thousand human beings who have lived on earth from the days of Jesus down to the time of the inditing of these revelations’ in the writing of Part IV ([UB 121:8.13](/en/The_Urantia_Book/121#p8_13)), I was prepared to find sources.
+> Having read _The Urantia Book_'s two nebulous acknowledgments, which refer to the use of ‘more than one thousand human concepts ... assembled from the God-knowing mortals of the past and the present’ in the writing of Part I (<a id="s82_228"></a>[UB 0:12.12](/en/The_Urantia_Book/0#p12_12)), and the use of the thoughts and expressions of ‘more than two thousand human beings who have lived on earth from the days of Jesus down to the time of the inditing of these revelations’ in the writing of Part IV (<a id="s82_487"></a>[UB 121:8.13](/en/The_Urantia_Book/121#p8_13)), I was prepared to find sources.
 > 
 > At the time of this writing, I have identified about 125 books, which were used in the writing of some 150 Urantia papers. The source texts were all published in English and the source authors were, with few exceptions, Americans or Britons born in the 19^th^ or 20^th^ centuries.
 

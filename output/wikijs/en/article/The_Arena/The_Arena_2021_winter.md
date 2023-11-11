@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="pr-2">President’s Report – Winter 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/Arena-Header-no-picture-1.jpg" alt="Arena">
@@ -105,7 +126,7 @@ _(Editor’s Note: **Mining the Archives** is a collection of articles that ha
 _The Late Ken Glasziou, Qld_
 
 
-> _In the mortal state, nothing can be absolutely proved; both science and religion are predicated on assumptions._ [UB 103:7.10](/en/The_Urantia_Book/103#p7_10)
+> _In the mortal state, nothing can be absolutely proved; both science and religion are predicated on assumptions._ <a id="a128_116"></a>[UB 103:7.10](/en/The_Urantia_Book/103#p7_10)
 
 In 1935 that statement could only have been made with confidence by a handful of our most learned men.
 
@@ -206,7 +227,7 @@ Marion Steward, Auckland, NZ
 As I write this, our government has just announced a pause of the Trans-Tasman travel bubble for at least 8 weeks. This has caused quite some consternation and upheaval for thousands of New Zealanders who had gone to Australia to visit family and friends, reflecting the strong ties between our two countries. There will be some very difficult challenges ahead for those who cannot come back in time, but it is not the first time this has happened and will probably not be the last. We live in very uncertain times, but, according to _The Urantia Book_, part of our mission in life is to learn to:
 <br style="clear:both;"/>
 
->_…feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable”_ [UB 26:5.3](/en/The_Urantia_Book/26#p5_3).
+>_…feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable”_ <a id="a229_288"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3).
 
 From any perspective, the current global situation is presenting us with opportunities to do all of these things.
 
@@ -291,3 +312,24 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-winter-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Winter_2021">
+          <span class="pr-2">President’s Report – Winter 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

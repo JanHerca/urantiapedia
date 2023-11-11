@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Mariott/Presidents_Report_Winter_2022">
+          <span class="pr-2">Presidents Report – Winter 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/Arena-Header-no-picture-1.jpg" alt="Arena">
@@ -295,3 +316,24 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-winter-2022/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Mariott/Presidents_Report_Winter_2022">
+          <span class="pr-2">Presidents Report – Winter 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

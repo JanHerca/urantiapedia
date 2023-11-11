@@ -9,6 +9,30 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Julian McGarry<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2020_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Autumn 2020 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="pr-2">Virtual Study Groups and Conferences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Julian McGarry, Hobart
 
@@ -31,7 +55,7 @@ I hope you all enjoy the autumn Arena! A big thank you to all the contributors, 
 As winter approaches, I want to urge you all to stay safe and well! And may I close with this timely reminder:
 <br style="clear:both;"/>
 
-> _All the worlds of every universe are constantly within the consciousness of God. He also says: “I have surely seen the affliction of my people, I have heard their cry, and I know their sorrows.” For “the Lord looks from heaven; he beholds all the sons of men; from the place of his habitation he looks upon all the inhabitants of the earth.” Every creature child may truly say: “He knows the way I take, and when he has tried me, I shall come forth as gold.” “God knows our downsittings and our uprisings; he understands our thoughts afar off and is acquainted with all our ways.” “All things are naked and open to the eyes of him with whom we have to do.” And it should be a real comfort to every human being to understand that “he knows your frame; he remembers that you are dust.” Jesus, speaking of the living God, said, “Your Father knows what you have need of even before you ask him._ [[UB 3:3.2](/en/The_Urantia_Book/3#p3_2)]
+> _All the worlds of every universe are constantly within the consciousness of God. He also says: “I have surely seen the affliction of my people, I have heard their cry, and I know their sorrows.” For “the Lord looks from heaven; he beholds all the sons of men; from the place of his habitation he looks upon all the inhabitants of the earth.” Every creature child may truly say: “He knows the way I take, and when he has tried me, I shall come forth as gold.” “God knows our downsittings and our uprisings; he understands our thoughts afar off and is acquainted with all our ways.” “All things are naked and open to the eyes of him with whom we have to do.” And it should be a real comfort to every human being to understand that “he knows your frame; he remembers that you are dust.” Jesus, speaking of the living God, said, “Your Father knows what you have need of even before you ask him._ <a id="a57_895"></a>[[UB 3:3.2](/en/The_Urantia_Book/3#p3_2)]
 
 Peace and love!
 
@@ -41,3 +65,27 @@ President, ANZURA
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2020/05/10/presidents-report
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2020_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Autumn 2020 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Virtual_Study_Groups_and_Conferences">
+          <span class="pr-2">Virtual Study Groups and Conferences</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

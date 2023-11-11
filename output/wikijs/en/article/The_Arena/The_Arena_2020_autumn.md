@@ -9,6 +9,27 @@ dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="pr-2">President’s Report – Autumn 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/ANZURA-email-header.jpg" alt="ANZURA">
@@ -97,7 +118,7 @@ Nigel Nunn, VIC
 <img src="/image/article/The_Arena/Nigels-Video2-1-570x318.jpg" alt="Nigel Nunn">
 </figure>
 
-> _Faith most willingly carries_ **_reason_** _along as far as reason can go and then goes on with_ **_wisdom_** _to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH._ [[UB 103:9.7](/en/The_Urantia_Book/103#p9_7)]
+> _Faith most willingly carries_ **_reason_** _along as far as reason can go and then goes on with_ **_wisdom_** _to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH._ <a id="a120_261"></a>[[UB 103:9.7](/en/The_Urantia_Book/103#p9_7)]
 
 “Reason” has helped scientists to write some compelling tales about the history of the universe:  inflationary Big Bangs, colliding branes, a multiverse. Problem is, each of these histories involve assumptions that lie beyond our capacity to disprove. These stories do however all share one feature: an attempt to replace faith with facts in their assumptions.
 
@@ -129,7 +150,7 @@ Julian McGarry – Hobart, Tasmania
 
 (This is a presentation that was given at the 24-hour Online Urantia Event on 21 March, 2020)
 
-> _Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul._ [[UB 48:7.4](/en/The_Urantia_Book/48#p7_4)]
+> _Few persons live up to the faith which they really have. Unreasoned fear is a master intellectual fraud practiced upon the evolving mortal soul._ <a id="a152_149"></a>[[UB 48:7.4](/en/The_Urantia_Book/48#p7_4)]
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Julian-McGarry-ANZURA.jpg" alt="Julian McGarry">
@@ -279,3 +300,24 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-autumn-2020/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="pr-2">President’s Report – Autumn 2020</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Anne Bendall<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/George_Park/Creative_Imagination_in_Prayer_and_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creative Imagination in Prayer and Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neil_Francey/Business_on_Urantia">
+          <span class="pr-2">Business on Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Anne Bendall, QLD
 
@@ -26,7 +50,7 @@ There has never walked this earth, and there never will walk this planet another
 
 As a result we are released from all of the deleterious effects of being quarantined, all the damage done by the Caligastia rebellion, and the Adamic default. That is, providing we wish to take advantage of The Spirit of Truth. All of the revelators refer to The Spirit of Truth as an impersonal channel. It is carefully explained that it does not provide a one-to-one communication link, that is everyone, except Jesus. He refers to it as “he”. Note whenever he refers to the coming of the Spirit of Truth of “myself and my Father” he unfailingly says and “when he comes” and “he” will do this and that!
 
-Michael regards the Spirit of Truth in very personal terms. And in reading _The Urantia Book –_ which we are blessed to discover is a wondrous source of information – we discover our links to the Creator of this Universe, who has walked every inch of the pathway we will ever traverse, before us. Michael knows the power of fear, the danger of pride. He worked with people, trying to help them overcome these characteristics/traits. He knows all about lost dreams, the trauma of all plans being shattered in a split second of tragedy. He knows what it is like to plan to buy a little farm as an idyllic lifestyle in which to rear his family, and have the funds wrongfully refused by a “fox”. He also knows the pleasure of cuddling and playing with a puppy dog (as soon as finances permitted, the Nazareth family purchase a dog. [[UB 126:5.11](/en/The_Urantia_Book/126#p5_11)])
+Michael regards the Spirit of Truth in very personal terms. And in reading _The Urantia Book –_ which we are blessed to discover is a wondrous source of information – we discover our links to the Creator of this Universe, who has walked every inch of the pathway we will ever traverse, before us. Michael knows the power of fear, the danger of pride. He worked with people, trying to help them overcome these characteristics/traits. He knows all about lost dreams, the trauma of all plans being shattered in a split second of tragedy. He knows what it is like to plan to buy a little farm as an idyllic lifestyle in which to rear his family, and have the funds wrongfully refused by a “fox”. He also knows the pleasure of cuddling and playing with a puppy dog (as soon as finances permitted, the Nazareth family purchase a dog. <a id="a52_828"></a>[[UB 126:5.11](/en/The_Urantia_Book/126#p5_11)])
 
 He knows what duty and responsibilities are all about, and how, at times, we are confronted with conflict in being torn between two loves. He knows the power of persuasion of a human love, and the extreme battle in opting for God’s will, and the attendant sadness at the eventuation of the anticipated rejection. He knows the hurt of injustice plus incredible sadness, on the human level.
 
@@ -59,3 +83,27 @@ Next time you feel really lonely and have no one to talk to, remember that, alth
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/are-you-lonesome-tonight
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/George_Park/Creative_Imagination_in_Prayer_and_Worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creative Imagination in Prayer and Worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neil_Francey/Business_on_Urantia">
+          <span class="pr-2">Business on Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

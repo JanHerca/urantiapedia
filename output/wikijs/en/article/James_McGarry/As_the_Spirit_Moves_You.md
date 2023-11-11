@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 James McGarry<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind Over Matter – Spirit Over Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Daniel_Swadling/The_Ascension_Plan">
+          <span class="pr-2">The Ascension Plan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By James McGarry, Hobart - Presented at Canberra Conference on September 27, 2019
 
@@ -75,3 +99,27 @@ It helped me to integrate all the previous spiritual/religious teachings togethe
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/09/27/as-spirit-moves-you
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Mind_Over_Matter_Spirit_Over_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mind Over Matter – Spirit Over Mind</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Daniel_Swadling/The_Ascension_Plan">
+          <span class="pr-2">The Ascension Plan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Ken Glasziou<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Proclaiming_the_Gospel_with_Power">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclaiming the Gospel with Power in the 21st Century</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden">
+          <span class="pr-2">Conference 2004 Preamble – Echoes of Eden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Ken Glasziou, Sunshine Coast QLD
 
@@ -29,11 +53,11 @@ Some of us quickly learn that when introducing church members to _The Urantia Bo
 _The Urantia Book_ presents humankind with a new and eminently reasonable understanding of revelation. Even _epochal_ revelation is not infallible.
 <br style="clear:both;"/>
 
-> _But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia._ [[UB 92:4.9](/en/The_Urantia_Book/92#p4_9)]
+> _But no revelation short of the attainment of the Universal Father can ever be complete. All other celestial ministrations are no more than partial, transient, and practically adapted to local conditions in time and space. While such admissions as this may possibly detract from the immediate force and authority of all revelations, the time has arrived on Urantia when it is advisable to make such frank statements, even at the risk of weakening the future influence and authority of this, the most recent of the revelations of truth to the mortal races of Urantia._ <a id="a55_570"></a>[[UB 92:4.9](/en/The_Urantia_Book/92#p4_9)]
 
-Furthermore, a great deal of the textual material of _The Urantia Book_ already exists somewhere in the written records of our world. At the conclusion of the _Foreword_ ([UB 0:12.12](/en/The_Urantia_Book/0#p12_12)) we are told that more than one thousand of the highest human concepts have been collated in producing Part I of the book. The Midwayer (author) responsible for preparing Part IV, the narrative of the life and teachings of Jesus, utilized thought gems and superior concepts assembled from…
+Furthermore, a great deal of the textual material of _The Urantia Book_ already exists somewhere in the written records of our world. At the conclusion of the _Foreword_ (<a id="a57_171"></a>[UB 0:12.12](/en/The_Urantia_Book/0#p12_12)) we are told that more than one thousand of the highest human concepts have been collated in producing Part I of the book. The Midwayer (author) responsible for preparing Part IV, the narrative of the life and teachings of Jesus, utilized thought gems and superior concepts assembled from…
 
-> _“…more than two thousand human beings who have lived on earth from the days of Jesus down to the time of the indicting of these revelations, more correctly restatements…. In many ways I have served more as a collector and editor than as an original narrator.”_ [[UB 121:8.13](/en/The_Urantia_Book/121#p8_13)]
+> _“…more than two thousand human beings who have lived on earth from the days of Jesus down to the time of the indicting of these revelations, more correctly restatements…. In many ways I have served more as a collector and editor than as an original narrator.”_ <a id="a59_264"></a>[[UB 121:8.13](/en/The_Urantia_Book/121#p8_13)]
 
 Superhuman revelatory sources were used only when the United Midwayers could testify that they had failed to find the required conceptual expression in purely human sources.
 
@@ -42,3 +66,27 @@ As more and more people in our society understand the openness and non-authorita
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/new-approach-to-revelation
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/Proclaiming_the_Gospel_with_Power">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Proclaiming the Gospel with Power in the 21st Century</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden">
+          <span class="pr-2">Conference 2004 Preamble – Echoes of Eden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

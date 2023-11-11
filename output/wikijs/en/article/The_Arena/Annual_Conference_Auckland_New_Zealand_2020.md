@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – December 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Canberra_2019_Conference_Report">
+          <span class="pr-2">Canberra 2019 Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Conference Committee
 
@@ -60,3 +84,27 @@ Watch this space for more information as plans unfold or contact us at: [anzura.
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/annual-conference-auckland-new-zealand-2020
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_December_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – December 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Canberra_2019_Conference_Report">
+          <span class="pr-2">Canberra 2019 Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

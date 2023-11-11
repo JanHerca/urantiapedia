@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Julian McGarry<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2019_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Autumn 2019 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="pr-2">ANZURA’s Conference Canberra 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Julian McGarry, Tasmania
 
@@ -20,17 +44,17 @@ The recent tragic events in Christchurch underline how quickly our lives can cha
 
 <br style="clear:both;"/>
 
-> _And throughout every trial and in the presence of every hardship, spirit-born souls are sustained by that hope which transcends all fear because the love of God is shed abroad in all hearts by the presence of the divine Spirit._ [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
+> _And throughout every trial and in the presence of every hardship, spirit-born souls are sustained by that hope which transcends all fear because the love of God is shed abroad in all hearts by the presence of the divine Spirit._ <a id="a46_232"></a>[[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
 > 
-> _Modern culture must become spiritually baptized with a new revelation of Jesus’ life and illuminated with a new understanding of his gospel of eternal salvation. And when Jesus becomes thus lifted up, he will draw all men to himself. Jesus’ disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience._ [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
+> _Modern culture must become spiritually baptized with a new revelation of Jesus’ life and illuminated with a new understanding of his gospel of eternal salvation. And when Jesus becomes thus lifted up, he will draw all men to himself. Jesus’ disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience._ <a id="a48_499"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 
 What a magnificent Master we have! His good news, the gospel of Jesus, is the message our troubled world needs to hear!
 
 Back in late February, I organized an interfaith festival here in Hobart which was an amazing experience. I sent out invitations to state, federal and local government representatives, which more often than not, were received and answered by their personal assistants or secretaries. Only once or twice did I ever get direct access to the VIP. This is understandable of course but it made me appreciate how extraordinary it is that we can get access to our loving Father and our divine brother at any time of day or night without having to use a go-between or make an appointment. Moreover, isn’t it breathtaking that our Universal Father yearns to fellowship with us!
 
-> _Our Father is not in hiding; he is not in arbitrary seclusion. He has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains. There is an infinite grandeur and an inexpressible generosity connected with the majesty of his love which causes him to yearn for the association of every created being who can comprehend, love, or approach him._ [[UB 5:1.2](/en/The_Urantia_Book/5#p1_2)]
+> _Our Father is not in hiding; he is not in arbitrary seclusion. He has mobilized the resources of divine wisdom in a never-ending effort to reveal himself to the children of his universal domains. There is an infinite grandeur and an inexpressible generosity connected with the majesty of his love which causes him to yearn for the association of every created being who can comprehend, love, or approach him._ <a id="a54_413"></a>[[UB 5:1.2](/en/The_Urantia_Book/5#p1_2)]
 > 
-> _“I have come to show you that, while you are seeking to find God, God is likewise seeking to find you.”_ [[UB 169:1.2](/en/The_Urantia_Book/169#p1_2)]
+> _“I have come to show you that, while you are seeking to find God, God is likewise seeking to find you.”_ <a id="a56_108"></a>[[UB 169:1.2](/en/The_Urantia_Book/169#p1_2)]
 
 I sincerely hope that we at ANZURA can be more accessible and approachable to you members  in the Australasian and Oceanic region. ANZURA is a service organization. It is made up of volunteers who are here to serve members and readers. If there is anyway that we can do this better, if there’s anything that you need more of or less of, please let us know. We are always receptive to constructive feedback. I can be contacted at my email address: [julianmcgarry@gmail.com](mailto:julianmcgarry@gmail.com).
 
@@ -52,3 +76,27 @@ President, ANZURA
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/05/02/president-report
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/The_Arena_2019_autumn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Arena – Autumn 2019 — Newsletter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="pr-2">ANZURA’s Conference Canberra 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Study Day 2021 – Reflections"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Arena, article
+tags: Urantia Movement Event, The Arena, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Sydney_Conference_Reminder_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sydney Conference Reminder – 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Mining_the_Archives">
+          <span class="pr-2">Mining the Archives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/20180519_154825-300x169.jpg">
@@ -29,11 +53,11 @@ They call the material at hand ‘poorly’, although they agree that the olden 
 
 > _…“How pure and beautiful, how deep and unfathomable is the supernal Ancestor of all things!”_
 > 
-> _“The Infinite is most excellent in that he imparts himself to men….”_ [UB 2:1.2](/en/The_Urantia_Book/2#p1_2)
+> _“The Infinite is most excellent in that he imparts himself to men….”_ <a id="a55_73"></a>[UB 2:1.2](/en/The_Urantia_Book/2#p1_2)
 > 
-> _…The Universal Father does not repent of his original purposes of wisdom and perfection. His plans are steadfast, his counsel immutable, while his acts are divine and infallible_. [UB 2:2.2](/en/The_Urantia_Book/2#p2_2)
+> _…The Universal Father does not repent of his original purposes of wisdom and perfection. His plans are steadfast, his counsel immutable, while his acts are divine and infallible_. <a id="a57_183"></a>[UB 2:2.2](/en/The_Urantia_Book/2#p2_2)
 > 
-> _How futile to make puerile appeals to such a God to modify his changeless decrees so that we can avoid the just consequences of the operation of his wise natural laws and righteous spiritual mandates! “Be not deceived; God is not mocked, for whatsoever a man sows that shall he also reap.”_ [UB 2:3.2](/en/The_Urantia_Book/2#p3_2)
+> _How futile to make puerile appeals to such a God to modify his changeless decrees so that we can avoid the just consequences of the operation of his wise natural laws and righteous spiritual mandates! “Be not deceived; God is not mocked, for whatsoever a man sows that shall he also reap.”_ <a id="a59_294"></a>[UB 2:3.2](/en/The_Urantia_Book/2#p3_2)
 
 Over and over they say that their efforts to convey these high concepts are hampered by _the limited capacity_ of our mind, the inadequate language to portray divine values etc. The revelators should know that we are awestruck with what they have come up with. Their efforts are totally appreciated!
 
@@ -45,11 +69,11 @@ One of our small group – Andrew – reminded us that Jesus _did_ have – for 
 
 In any case, we applaud the cheerfulness of the Divine Counselor with which he executed his mandate, like his way of ‘pulling us up’ by saying:
 
-> **_How unreasonable_** _that you should not worship God because the limitations of human nature and the handicaps of your material creation make it impossible for you to see him……stop and ponder the solemn fact that God lives within you; he has in his own way already bridged the gulf. He has sent of himself, his spirit, to live in you and to toil with you as you pursue your eternal universe career._ [UB 2:5.6](/en/The_Urantia_Book/2#p5_6)
+> **_How unreasonable_** _that you should not worship God because the limitations of human nature and the handicaps of your material creation make it impossible for you to see him……stop and ponder the solemn fact that God lives within you; he has in his own way already bridged the gulf. He has sent of himself, his spirit, to live in you and to toil with you as you pursue your eternal universe career._ <a id="a71_405"></a>[UB 2:5.6](/en/The_Urantia_Book/2#p5_6)
 
 And pursue our eternal career we will, keeping in mind the utmost importance at this time, to portray to the world such a balance in our daily lives that in addition to our moral mandates would point out…
 
-> _….an equal consideration to the truths of science, philosophy, and spiritual experience, and to the beauties of the physical creation, the charm of intellectual art, and the grandeur of genuine character achievement_. [UB 2:7.9](/en/The_Urantia_Book/2#p7_9)
+> _….an equal consideration to the truths of science, philosophy, and spiritual experience, and to the beauties of the physical creation, the charm of intellectual art, and the grandeur of genuine character achievement_. <a id="a75_221"></a>[UB 2:7.9](/en/The_Urantia_Book/2#p7_9)
 
 Now wouldn’t that be fabulous!
 
@@ -101,43 +125,43 @@ The nature of God is stated in the first paragraph and established as the parent
 The most profound manifestation of God – when God becomes a man – that man is Jesus.
 <br style="clear:both;"/>
 
-> _…the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the comprehension of the religious life of Jesus of Nazareth…_ [UB 2:0.2](/en/The_Urantia_Book/2#p0_2)
+> _…the most enlightening and spiritually edifying of all revelations of the divine nature is to be found in the comprehension of the religious life of Jesus of Nazareth…_ <a id="a127_172"></a>[UB 2:0.2](/en/The_Urantia_Book/2#p0_2)
 
 Revelation teaches each of us that God has become one of us and has lived a mortal life as we all do, attained perfection to the exhaustion of the potentials of supremacy as is open to all who choose to live by faith in the Universal Father. Wholehearted consecration of will to the doing of the Father’s will – **consecration of choice**.
 
-> **_Faith most willingly carries_** _reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH._ [UB 103:9.7](/en/The_Urantia_Book/103#p9_7)
+> **_Faith most willingly carries_** _reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH._ <a id="a131_251"></a>[UB 103:9.7](/en/The_Urantia_Book/103#p9_7)
 
 This paper endeavors to enlarge the reader’s human concept of God by employing the crude mechanism of word symbols, _“…human word symbols certain ideas and ideals concerning the divine nature…”_ to gain registry in the reader’s mind. After all, the recognition response is dependent on lessening of resistance to the appeal of the indwelling spirit – an exercise of faith. The Divine Counselor acting by authority of the Ancients of Days on Uversa, who is the author of this paper is aware of mortal limitations – the attempt to impart truth to a creature of the **lowest** universe status with capacity to comprehend God – an animal-origin mortal – yet, still mostly animal in nature. The Divine Counselor frankly states,
 
-> _…efforts to enlarge the human concept of God would be well-nigh futile except for the fact that the mortal mind is indwelt by the bestowed Adjuster of the Universal Father and is pervaded by the Truth Spirit of the Creator Son…_ [UB 2:0.3](/en/The_Urantia_Book/2#p0_3)
+> _…efforts to enlarge the human concept of God would be well-nigh futile except for the fact that the mortal mind is indwelt by the bestowed Adjuster of the Universal Father and is pervaded by the Truth Spirit of the Creator Son…_ <a id="a135_232"></a>[UB 2:0.3](/en/The_Urantia_Book/2#p0_3)
 
-> **_… animal-origin_** _peoples. Only once in his sevenfold career as a bestowal Son is a Paradise Michael born of woman as you have the record of the babe of Bethlehem. Only once does he live and die as a member of the **lowest** order of evolutionary will creatures._ [UB 21:4.3](/en/The_Urantia_Book/21#p4_3)
+> **_… animal-origin_** _peoples. Only once in his sevenfold career as a bestowal Son is a Paradise Michael born of woman as you have the record of the babe of Bethlehem. Only once does he live and die as a member of the **lowest** order of evolutionary will creatures._ <a id="a137_271"></a>[UB 21:4.3](/en/The_Urantia_Book/21#p4_3)
 
 In effect, what the content of this paper is saying, humble acceptance of sonship is a prerequisite to enlightenment:
 
-> _“The kingdom of God is within you” was probably the **greatest pronouncement** Jesus ever made, next to the declaration that his Father is a living and loving spirit_. [UB 195:10.4](/en/The_Urantia_Book/195#p10_4)
+> _“The kingdom of God is within you” was probably the **greatest pronouncement** Jesus ever made, next to the declaration that his Father is a living and loving spirit_. <a id="a141_171"></a>[UB 195:10.4](/en/The_Urantia_Book/195#p10_4)
 
 Upon such a basis the Divine Counselor _cheerfully_ carries on with the attempt at enlightenment of the mind of the reader
 
-> _“…I cheerfully undertake the execution of my mandate to attempt the further portrayal of the nature of God to the mind of man…”_ [UB 2:0.3](/en/The_Urantia_Book/2#p0_3)
+> _“…I cheerfully undertake the execution of my mandate to attempt the further portrayal of the nature of God to the mind of man…”_ <a id="a145_132"></a>[UB 2:0.3](/en/The_Urantia_Book/2#p0_3)
 
 What follows is illuminative of the following characteristics of the Divine nature:
 
 **Infinity of God**
 
-> _“…He is the beginning and the end, the Father of every good and perfect purpose.”_ _“With God all things are possible; the eternal Creator is the cause of causes.”_ [UB 2:1.2](/en/The_Urantia_Book/2#p1_2)
+> _“…He is the beginning and the end, the Father of every good and perfect purpose.”_ _“With God all things are possible; the eternal Creator is the cause of causes.”_ <a id="a151_168"></a>[UB 2:1.2](/en/The_Urantia_Book/2#p1_2)
 
 **Perfection of God**
 
 > “…_God is literally and eternally present in his universe of universes. He inhabits the present moment with all his absolute majesty and eternal greatness_”. “_The Father has life in himself, and this life is eternal life.” Throughout the eternal ages it has been the Father who “gives to all life._” _“…The perfection of divinity and the magnitude of eternity are forever beyond the full grasp of the circumscribed mind of mortal man…_”
 > 
-> _This is the true meaning of that divine command, “**Be you perfect**, even as I am perfect,” which ever urges mortal man onward and beckons him inward in that long and fascinating struggle for the attainment of higher and higher levels of spiritual values and true universe meanings. This sublime search for the God of universes is the supreme adventure of the inhabitants of all the worlds of time and space._ [UB 1:0.6](/en/The_Urantia_Book/1#p0_6)
+> _This is the true meaning of that divine command, “**Be you perfect**, even as I am perfect,” which ever urges mortal man onward and beckons him inward in that long and fascinating struggle for the attainment of higher and higher levels of spiritual values and true universe meanings. This sublime search for the God of universes is the supreme adventure of the inhabitants of all the worlds of time and space._ <a id="a157_414"></a>[UB 1:0.6](/en/The_Urantia_Book/1#p0_6)
 
 **Justice and Righteousness of God**
 
 > _“…The justice of the Universal Father cannot be influenced by the acts and performances of his creatures, “for there is no iniquity with the Lord our God, no respect of persons, no taking of gifts.”_
 > 
-> _Supreme justice is dominated by a Father’s love; therefore will justice never destroy that **which mercy** can save. Time to accept salvation is vouchsafed every evildoer._ [UB 54:5.3](/en/The_Urantia_Book/54#p5_3)
+> _Supreme justice is dominated by a Father’s love; therefore will justice never destroy that **which mercy** can save. Time to accept salvation is vouchsafed every evildoer._ <a id="a163_176"></a>[UB 54:5.3](/en/The_Urantia_Book/54#p5_3)
 
 **God’s Mercy**
 
@@ -147,7 +171,7 @@ What follows is illuminative of the following characteristics of the Divine natu
 
 > _“…The experience of loving is very much a direct response to the experience of being loved. Knowing that God loves me…”_ _“…**God is love**, but love is not God._
 > 
-> _…The infinite **love** of God is not **secondary** to anything in the divine nature._ [UB 188:4.8](/en/The_Urantia_Book/188#p4_8)
+> _…The infinite **love** of God is not **secondary** to anything in the divine nature._ <a id="a173_89"></a>[UB 188:4.8](/en/The_Urantia_Book/188#p4_8)
 
 **God’s Goodness**
 
@@ -155,12 +179,36 @@ What follows is illuminative of the following characteristics of the Divine natu
 
 **Divine Truth and Beauty**
 
-> **_All truth_** _— material, philosophic, or spiritual — is both beautiful and good. **All real beauty** — material art or spiritual symmetry — is both true and good. **All genuine goodness** — whether personal morality, social equity, or divine ministry — is equally true and beautiful. Health, sanity, and happiness are integrations of truth, beauty, and goodness as they are blended in human experience. Such levels of efficient living come about through the unification of energy systems, idea systems, and spirit systems._ [UB 2:7.11](/en/The_Urantia_Book/2#p7_11)
+> **_All truth_** _— material, philosophic, or spiritual — is both beautiful and good. **All real beauty** — material art or spiritual symmetry — is both true and good. **All genuine goodness** — whether personal morality, social equity, or divine ministry — is equally true and beautiful. Health, sanity, and happiness are integrations of truth, beauty, and goodness as they are blended in human experience. Such levels of efficient living come about through the unification of energy systems, idea systems, and spirit systems._ <a id="a181_530"></a>[UB 2:7.11](/en/The_Urantia_Book/2#p7_11)
 
 Reading this paper has been an _education_
 
-> _The real purpose of all universe **education** is to effect the better co-ordination of the isolated child of the worlds with the larger realities of his expanding experience._ [UB 2:7.12](/en/The_Urantia_Book/2#p7_12)
+> _The real purpose of all universe **education** is to effect the better co-ordination of the isolated child of the worlds with the larger realities of his expanding experience._ <a id="a185_180"></a>[UB 2:7.12](/en/The_Urantia_Book/2#p7_12)
 
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2021/07/29/study-day-2021-reflections
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Sydney_Conference_Reminder_2021">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sydney Conference Reminder – 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Arena/Mining_the_Archives">
+          <span class="pr-2">Mining the Archives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

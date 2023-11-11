@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/President_Report_Autumn_2019">
+          <span class="pr-2">President Report – Autumn 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -51,9 +72,9 @@ The recent tragic events in Christchurch underline how quickly our lives can cha
 
 <br style="clear:both;"/>
 
-> _And throughout every trial and in the presence of every hardship, spirit-born souls are sustained by that hope which transcends all fear because the love of God is shed abroad in all hearts by the presence of the divine Spirit._ [[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
+> _And throughout every trial and in the presence of every hardship, spirit-born souls are sustained by that hope which transcends all fear because the love of God is shed abroad in all hearts by the presence of the divine Spirit._ <a id="a74_232"></a>[[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)]
 > 
-> _Modern culture must become spiritually baptized with a new revelation of Jesus’ life and illuminated with a new understanding of his gospel of eternal salvation. And when Jesus becomes thus lifted up, he will draw all men to himself. Jesus’ disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience._ [[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
+> _Modern culture must become spiritually baptized with a new revelation of Jesus’ life and illuminated with a new understanding of his gospel of eternal salvation. And when Jesus becomes thus lifted up, he will draw all men to himself. Jesus’ disciples should be more than conquerors, even overflowing sources of inspiration and enhanced living to all men. Religion is only an exalted humanism until it is made divine by the discovery of the reality of the presence of God in personal experience._ <a id="a76_499"></a>[[UB 195:10.1](/en/The_Urantia_Book/195#p10_1)]
 
 What a magnificent Master we have! His good news, the gospel of Jesus, is the message our troubled world needs to hear!
 
@@ -75,7 +96,7 @@ This year the ANZURA conference returns to the nation’s capital, this time in 
 
 ### Theme: Mind Over Matter—Spirit Over Mind
 
-> _In the evolutionary superuniverses energy-matter is dominant except in personality, where spirit through the mediation of mind is struggling for the mastery. The goal of the evolutionary universes is the subjugation of energy-matter by mind, the co-ordination of mind with spirit, and all of this by virtue of the creative and unifying presence of personality._ [[UB 116:6.1](/en/The_Urantia_Book/116#p6_1)]
+> _In the evolutionary superuniverses energy-matter is dominant except in personality, where spirit through the mediation of mind is struggling for the mastery. The goal of the evolutionary universes is the subjugation of energy-matter by mind, the co-ordination of mind with spirit, and all of this by virtue of the creative and unifying presence of personality._ <a id="a98_365"></a>[[UB 116:6.1](/en/The_Urantia_Book/116#p6_1)]
 
 It is pretty obvious that in the 21<sup>st</sup> Century there is considerable understanding of the ways in which the human mind has been subjugating matter. The industrial and technological advances of the previous couple of centuries have resulted in modern men becoming virtual worshipers of science, and many suggest that this will lead eventually to mankind’s complete understanding of the material world.
 
@@ -94,7 +115,7 @@ This year’s National Study Day, where you can participate in a study group in 
 
 <br style="clear:both;"/>
 
-> _The Infinite Spirit, the Conjoint Creator, is a universal and divine minister. The Spirit unceasingly ministers the_ _Son’s mercy and the Father’s love, even in harmony with the stable, unvarying, and righteous justice of the Paradise Trinity. His influence and personalities are ever near you; they really know and truly understand you._ [[UB 9:0.3](/en/The_Urantia_Book/9#p0_3)]
+> _The Infinite Spirit, the Conjoint Creator, is a universal and divine minister. The Spirit unceasingly ministers the_ _Son’s mercy and the Father’s love, even in harmony with the stable, unvarying, and righteous justice of the Paradise Trinity. His influence and personalities are ever near you; they really know and truly understand you._ <a id="a117_342"></a>[[UB 9:0.3](/en/The_Urantia_Book/9#p0_3)]
 
 We have once again invited the international readership to join us so that we may be united in Spirit with students of _The Urantia Book_ across the entire globe.
 
@@ -133,12 +154,12 @@ Neil Francey, Queensland
 _(Presented at Urantia Association’s International Conference in Dourdan, France, July 2002)_
 
 
-> _With your spiritual eyes anointed, you would see the heavens open and behold the angels of God ascending and descending.  And many of us, while functioning in the government of the Father and the universes of the Sons, are assigned to the service of the human races.  We have ministered on Urantia since the earliest times of human intelligence. We inform heaven about this remote part of the universe.  We are the angels of heaven. In the words of Jesus, we are ministering spirits._ [[UB 167:7.4](/en/The_Urantia_Book/167#p7_4)]
+> _With your spiritual eyes anointed, you would see the heavens open and behold the angels of God ascending and descending.  And many of us, while functioning in the government of the Father and the universes of the Sons, are assigned to the service of the human races.  We have ministered on Urantia since the earliest times of human intelligence. We inform heaven about this remote part of the universe.  We are the angels of heaven. In the words of Jesus, we are ministering spirits._ <a id="a156_488"></a>[[UB 167:7.4](/en/The_Urantia_Book/167#p7_4)]
 
 In recent days we have learnt of the brilliant plans of the Father and of the Son. Now we shall see the correlation of these plans with the plan of the Infinite Spirit.
 
 
-> _The Adjuster is the presence of the Father; the Spirit of Truth, the presence of the Sons._ [[UB 113:3.3](/en/The_Urantia_Book/113#p3_3)]
+> _The Adjuster is the presence of the Father; the Spirit of Truth, the presence of the Sons._ <a id="a161_95"></a>[[UB 113:3.3](/en/The_Urantia_Book/113#p3_3)]
 
 These divine endowments are coordinated on the levels of human spiritual experience by the Ministering Spirits, who combine the love of the Father and the mercy of the Son, in their ministry to you and to me. They do this on behalf of the Infinite Spirit. The three plans are in fact the one unified plan.
 
@@ -272,3 +293,24 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-autumn-2019/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/President_Report_Autumn_2019">
+          <span class="pr-2">President Report – Autumn 2019</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

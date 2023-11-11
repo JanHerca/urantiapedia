@@ -9,16 +9,40 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Virtual_ANZURA_Annual_Conference_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Virtual ANZURA Annual Conference 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="pr-2">Where are the Daughters of God?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Wednesday Evening Online Study Group
 
 In Paper 151, **Tarrying and Teaching by the Seaside**, Jesus started to change his teaching methods by using parables to transmit the truths he wanted to convey. The Apostles all had a go at interpreting the Parable of the Sower and ended up with very different interpretations. Then, at the end of Section 3 (More About Parables) Jesus said to the apostles:
 
-> _“Now will I tell you the last of the parable of the sower. I would test you to know how you will receive this: The kingdom of heaven is also like a man who cast good seed upon the earth; and while he slept by night and went about his business by day, the seed sprang up and grew, and although the man knew not how it came about, the plant came to fruit. First there was the blade, then the ear, then the full grain in the ear. And then when the grain was ripe, he put forth the sickle, and the harvest was finished. He who has an ear to hear, let him hear.”_ [[UB 151:3.15](/en/The_Urantia_Book/151#p3_15)]
+> _“Now will I tell you the last of the parable of the sower. I would test you to know how you will receive this: The kingdom of heaven is also like a man who cast good seed upon the earth; and while he slept by night and went about his business by day, the seed sprang up and grew, and although the man knew not how it came about, the plant came to fruit. First there was the blade, then the ear, then the full grain in the ear. And then when the grain was ripe, he put forth the sickle, and the harvest was finished. He who has an ear to hear, let him hear.”_ <a id="a40_562"></a>[[UB 151:3.15](/en/The_Urantia_Book/151#p3_15)]
 
 In the next paragraph we are told:
 
-> _Many times did the apostles turn this saying over in their minds, but the Master never made further mention of the addition to the parable of the sower._ [[UB 151:3.16](/en/The_Urantia_Book/151#p3_16)]
+> _Many times did the apostles turn this saying over in their minds, but the Master never made further mention of the addition to the parable of the sower._ <a id="a44_157"></a>[[UB 151:3.16](/en/The_Urantia_Book/151#p3_16)]
 
 In the study group we decided to experiment with this exercise of interpreting parables by attempting to find the meaning of what Jesus intended by this last parable of the sower. Each of us had a go at it and this is what we shared the following week:
 
@@ -61,7 +85,7 @@ To me the message of the parable is that the gospel Jesus had come to declare, w
 
 > _After Jesus had heard similar objections to the gospel of the kingdom presented by Thomas, Nathaniel, Simon Zelotes, and Matthew, he said to the twelve:_
 > 
-> _“I have come into this world to do the will of my Father and to reveal his loving character to all mankind. That, my brethren, is my mission. And this one thing I will do, regardless of the misunderstanding of my teachings by Jews or gentiles of this day or of another generation. But you should not overlook the fact that even divine love has its severe disciplines. A father’s love for his son oftentimes impels the father to restrain the unwise acts of his thoughtless offspring. The child does not always comprehend the wise and loving motives of the father’s restraining discipline. But I declare to you that my Father in Paradise does rule a universe of universes by the compelling power of his love. Love is the greatest of all spirit realities. Truth is a liberating revelation, but love is the supreme relationship. And no matter what blunders your fellow men make in their world management of today, in an age to come the gospel which I declare to you will rule this very world. The ultimate goal of human progress is the reverent recognition of the fatherhood of God and the loving materialization of the brotherhood of man.’_ [[UB 143:1.3-4](/en/The_Urantia_Book/143#p1_3)]
+> _“I have come into this world to do the will of my Father and to reveal his loving character to all mankind. That, my brethren, is my mission. And this one thing I will do, regardless of the misunderstanding of my teachings by Jews or gentiles of this day or of another generation. But you should not overlook the fact that even divine love has its severe disciplines. A father’s love for his son oftentimes impels the father to restrain the unwise acts of his thoughtless offspring. The child does not always comprehend the wise and loving motives of the father’s restraining discipline. But I declare to you that my Father in Paradise does rule a universe of universes by the compelling power of his love. Love is the greatest of all spirit realities. Truth is a liberating revelation, but love is the supreme relationship. And no matter what blunders your fellow men make in their world management of today, in an age to come the gospel which I declare to you will rule this very world. The ultimate goal of human progress is the reverent recognition of the fatherhood of God and the loving materialization of the brotherhood of man.’_ <a id="a87_1141"></a>[[UB 143:1.3-4](/en/The_Urantia_Book/143#p1_3)]
 
 ## William Wentworth, Canberra
 
@@ -92,3 +116,27 @@ I keep thinking it is about Jesus’ mission to sow the seeds – the Gospel –
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2020/09/07/parable-of-sower
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/Virtual_ANZURA_Annual_Conference_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Virtual ANZURA Annual Conference 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marion_Steward/Where_are_the_Daughters_of_God">
+          <span class="pr-2">Where are the Daughters of God?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

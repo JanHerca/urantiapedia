@@ -3,12 +3,36 @@ title: "2023 Annual Conference in Sydney"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Arena, article
+tags: Urantia Movement Event, The Arena, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rita_Schaad/Presidents_Report_Summer_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Summer 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/2022_ANZURA_Annual_Conference_Report">
+          <span class="pr-2">2022 ANZURA Annual Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Conference Committee
 
@@ -30,13 +54,13 @@ We have in our hands an updated version of revelations presented to our ancestor
 
 At this year’s ANZURA conference we hope to tap into and share that huge reservoir of knowledge, understanding and talent that exists within the readership community. Please join us as we workshop the core fundamentals of the books teachings and develop some practical tools and attractive ways of talking about this planet-saving revelation with the people we meet in our everyday lives.
 
-> “No man, when he lights a lamp, covers it up with a vessel or puts it under the bed; he puts his lamp on a stand where all can behold the light. Let me tell you that nothing is hid in the kingdom of heaven which shall not be made manifest; neither are there any secrets which shall not ultimately be made known. Eventually, all these things shall come to light.” [UB 151:3.1](/en/The_Urantia_Book/151#p3_1)
+> “No man, when he lights a lamp, covers it up with a vessel or puts it under the bed; he puts his lamp on a stand where all can behold the light. Let me tell you that nothing is hid in the kingdom of heaven which shall not be made manifest; neither are there any secrets which shall not ultimately be made known. Eventually, all these things shall come to light.” <a id="a56_365"></a>[UB 151:3.1](/en/The_Urantia_Book/151#p3_1)
 
-> “You cannot stand still in the affairs of the eternal kingdom. My Father requires all his children to grow in grace and in a knowledge of the truth. You who know these truths must yield the increase of the fruits of the spirit and manifest a growing devotion to the unselfish service of your fellow servants. And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me.” [UB 176:3.5](/en/The_Urantia_Book/176#p3_5) 
+> “You cannot stand still in the affairs of the eternal kingdom. My Father requires all his children to grow in grace and in a knowledge of the truth. You who know these truths must yield the increase of the fruits of the spirit and manifest a growing devotion to the unselfish service of your fellow servants. And remember that, inasmuch as you minister to one of the least of my brethren, you have done this service to me.” <a id="a58_426"></a>[UB 176:3.5](/en/The_Urantia_Book/176#p3_5) 
 
-> “Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it.” [UB 176:3.10](/en/The_Urantia_Book/176#p3_10)
+> “Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it.” <a id="a60_208"></a>[UB 176:3.10](/en/The_Urantia_Book/176#p3_10)
 
-> The act is ours, the consequences God’s. [UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
+> The act is ours, the consequences God’s. <a id="a62_43"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
 
 ## Venue
 
@@ -86,7 +110,7 @@ Mailing Address: PO Box 1581, Warriewood NSW 2102
 <img src="/image/article/The_Arena/PCH-15-e1618205259908.jpg" alt="Peter Canisius House">
 </figure>
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/PCH-12-e1618205210409.jpg" alt="Peter Canisius House">
+<img src="/image/article/The_Arena/PCH-12-300x200.jpg" alt="Peter Canisius House">
 </figure>
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/PCH-11-e1618205331752.jpg" alt="Peter Canisius House">
@@ -100,3 +124,27 @@ Mailing Address: PO Box 1581, Warriewood NSW 2102
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/2023-annual-conference-sydney
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rita_Schaad/Presidents_Report_Summer_2022">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Summer 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julian_McGarry/2022_ANZURA_Annual_Conference_Report">
+          <span class="pr-2">2022 ANZURA Annual Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

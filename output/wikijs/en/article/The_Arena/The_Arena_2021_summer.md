@@ -9,6 +9,27 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="pr-2">President’s Report – Summer 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Arena/Arena-Header-no-picture-1.jpg" alt="Arena">
@@ -129,7 +150,7 @@ In other words, “We are because I AM.”
 
 Of course, this is not at all straightforward, and requires something called “the Master Universe Age”. But for the Father, the end result is an almost infinite family of Ones like himself, and thus a guarantee that Eternity will be almost infinitely interesting. As to how our Father “makes it so”, the authors of _The Urantia Book_ reveal that this infinite eventuation, this beautification of eternity, is motivated and mediated by Love, the prime mover, the essential, compelling motivation.
 
-Notice, all this is very deeply personal. “**I AM**” is not only our “premier philosophic postulate” [[UB 105:1.3](/en/The_Urantia_Book/105#p1_3)], it’s also the most personal possible experience: I AM. We Are. From this perspective, the universe becomes _a Family Affair_. We’ll get back to this. But for now, I just want to set up this idea, that Love is the motivator, the mediator, quite literally the _Light & Life_ of all interactions unfolding in the Father’s personal domain.
+Notice, all this is very deeply personal. “**I AM**” is not only our “premier philosophic postulate” <a id="a152_101"></a>[[UB 105:1.3](/en/The_Urantia_Book/105#p1_3)], it’s also the most personal possible experience: I AM. We Are. From this perspective, the universe becomes _a Family Affair_. We’ll get back to this. But for now, I just want to set up this idea, that Love is the motivator, the mediator, quite literally the _Light & Life_ of all interactions unfolding in the Father’s personal domain.
 
 [Read more](/en/article/Nigel_Nunn/We_Are_Because_I_AM)
 <br style="clear:both;"/>
@@ -165,7 +186,7 @@ William Wentworth, Canberra ACT
 Recently, an article in Mighty Messenger, Spring 2021 attracted my attention. Written by Gary Tonge, an American reader, it was pointing out that the Lucifer Rebellion did not claim any of the ascendent personalities who were Jerusem citizens at the time. These numbered 187,432, 811.
 
 
-> _It was over two years of system time from the beginning of the “war in heaven” until the installation of Lucifer’s successor. But at last the new Sovereign came, landing on the sea of glass with his staff. I was among the reserves mobilized on Edentia by Gabriel, and I well remember the first message of Lanaforge to the Constellation Father of Norlatiadek. It read: “Not a single Jerusem citizen was lost. Every ascendant mortal survived the fiery trial and emerged from the crucial test triumphant and altogether victorious.” And on to Salvington, Uversa, and Paradise went this message of assurance that the survival experience of mortal ascension is the greatest security against rebellion and the surest safeguard against sin. This noble Jerusem band of faithful mortals numbered just 187,432,811._ [[UB 53:7.12](/en/The_Urantia_Book/53#p7_12)]
+> _It was over two years of system time from the beginning of the “war in heaven” until the installation of Lucifer’s successor. But at last the new Sovereign came, landing on the sea of glass with his staff. I was among the reserves mobilized on Edentia by Gabriel, and I well remember the first message of Lanaforge to the Constellation Father of Norlatiadek. It read: “Not a single Jerusem citizen was lost. Every ascendant mortal survived the fiery trial and emerged from the crucial test triumphant and altogether victorious.” And on to Salvington, Uversa, and Paradise went this message of assurance that the survival experience of mortal ascension is the greatest security against rebellion and the surest safeguard against sin. This noble Jerusem band of faithful mortals numbered just 187,432,811._ <a id="a188_808"></a>[[UB 53:7.12](/en/The_Urantia_Book/53#p7_12)]
 
 [Read more](/en/article/William_Wentworth/Where_Are_They_All)
 <br style="clear:both;"/>
@@ -185,7 +206,7 @@ Soul stirring indeed! A cosmology pervaded by meaning and value, eclipsing in it
 However, right after having thus stirred our souls, the authors pour cold water over our expectations.
 <br style="clear:both;"/>
 
-> _…within a few short years many of our statements regarding the physical sciences will stand in need of revision…_ [UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
+> _…within a few short years many of our statements regarding the physical sciences will stand in need of revision…_ <a id="a208_117"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
 
 “Will stand in need of revision.” When compared with current consensus cosmology of a young universe beginning with a hot Big Bang, the cosmology of _The Urantia Book_ is so unorthodox, and so apparently wrong, that some students of these papers now see this cosmology as little more than decoration for the book’s more important themes: its _spiritual_ and _philosophical_ revelations. But take another look at the “Limitations of Revelation” discussed in Paper 101. Immediately after stating that they were limited in what scientific facts they could reveal, they go on to list a number of things they were permitted to do. The first of these is especially interesting.
 
@@ -310,3 +331,24 @@ Some study groups include virtual participation via Zoom if you cannot meet face
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-summer-2021/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Summer_2021">
+          <span class="pr-2">President’s Report – Summer 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

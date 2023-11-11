@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Martin McBurney<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matt_Hall/New_Zealand_Corner_Autumn_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Zealand Corner – Autumn 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Leith_Luckett/Poem_by_Leith">
+          <span class="pr-2">Poem by Leith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Martin McBurney, VIC
 
@@ -56,3 +80,27 @@ Do I expect to see real progress during my lifetime? Yes I do! That song is from
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/05/05/urantia-towards-light-life
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matt_Hall/New_Zealand_Corner_Autumn_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Zealand Corner – Autumn 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Leith_Luckett/Poem_by_Leith">
+          <span class="pr-2">Poem by Leith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

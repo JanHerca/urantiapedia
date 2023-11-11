@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Neil Francey<br>© 2021 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marion_Steward/The_Challenges_of_Diversity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenges of Diversity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marion_Steward/New_Zealand_Corner">
+          <span class="pr-2">New Zealand Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Neil Francey, QLD
 
@@ -77,3 +101,27 @@ God is a living friend and a loving father. There is an exhilaration in having s
 - Original _True Success_ PDF: http://anzura.urantia-association.org/wp-content/uploads/sites/3/2021/04/2021-True-Success.pdf
 
 - Original _True Success – the summary_: http://anzura.urantia-association.org/wp-content/uploads/sites/3/2021/04/2021-TRUE-SUCCESS-SUMMARY.pdf
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marion_Steward/The_Challenges_of_Diversity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Challenges of Diversity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marion_Steward/New_Zealand_Corner">
+          <span class="pr-2">New Zealand Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

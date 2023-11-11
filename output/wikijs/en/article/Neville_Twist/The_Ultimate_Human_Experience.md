@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Neville Twist<br>© 2022 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Daniel_Swadling/The_Religion_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Religion of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marion_Steward/New_Zealand_Corner_2">
+          <span class="pr-2">New Zealand Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Neville Twist, Auckland NZ
 
@@ -30,7 +54,7 @@ When preparing this presentation “The Ultimate Human Experience!”, I quickly
 
 **Starting with PEACE** we read on UB 100:6.6:
 
-> “One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil” [UB 100:6.6](/en/The_Urantia_Book/100#p6_6)
+> “One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil” <a id="a56_211"></a>[UB 100:6.6](/en/The_Urantia_Book/100#p6_6)
 
 How reassuring is this? And yet we live in a world where peace is a rare commodity these days. Who would have thought that a major war would erupt in Europe again in 2022? There are conflicts all around the world. Brutal genocide in Rwanda has been going on for years. Eritrea and Ethiopia have been in a state of civil war for years. Tensions are high in many parts of the world and seem to be building. And it’s not just countries where peace has been shattered. Countless millions of people aren’t at peace with themselves. They have no faith in the living God.   
 
@@ -46,13 +70,13 @@ The crisis of Christianity is, by extension, the crisis of Western Civilization.
 
 Is this the end of Western civilisation or is there hope of a renaissance. To be honest, it’s not looking that good out there, especially on the spiritual front. We will probably have to wait for the “end of the current ideological struggle” before people are ready to accept the truths of Jesus found in _The Urantia Book_. But rest assured, the teachings of Jesus will not fail! Maybe it could be through a unique musician. “But be not discouraged; someday a real musician may appear on Urantia, and whole peoples will be enthralled by the magnificent strains of his melodies. … It is literally true, “melody has power a whole world to transform.” (p.500:6)
 
-Yet we can experience this sublime truth right here and now. Again, that wonderful quote from UB 100:6.6 “One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil” [UB 100:6.6](/en/The_Urantia_Book/100#p6_6)
+Yet we can experience this sublime truth right here and now. Again, that wonderful quote from UB 100:6.6 “One of the most amazing earmarks of religious living is that dynamic and sublime peace, that peace which passes all human understanding, that cosmic poise which betokens the absence of all doubt and turmoil” <a id="a72_314"></a>[UB 100:6.6](/en/The_Urantia_Book/100#p6_6)
 
 **JOY:** 
 
 In Peter DeCamp’s study aid “The Entities, Beings and Personalities of _The Urantia Book_“, we read on page 66, under the sub-heading “5 of Secondary Seconaphim”, (offspring of Reflective Spirits), about the “Joy of Existence” angels: 
 
-> …reflectively attuned to the superaphic harmony supervisors above and to certain of seraphim below, but it is difficult to explain just what the members of this interesting group really do; their principal activities are directed toward promoting reactions of joy among the various orders of the angelic hosts and the lower will creatures in a more general manner and in a collaboration with the reversion directors, they function as joy clearinghouses, seeking to up-step the pleasure reactions of the realms while trying to improve the humour taste, to develop a super-humour among mortals and angels; they endeavour to demonstrate that there is inherent joy in freewill existence, independent of all extraneous influences; and they are right, although they meet with great difficulty in inculcating this truth in the minds of primitive men. [UB 28:5.16](/en/The_Urantia_Book/28#p5_16) 
+> …reflectively attuned to the superaphic harmony supervisors above and to certain of seraphim below, but it is difficult to explain just what the members of this interesting group really do; their principal activities are directed toward promoting reactions of joy among the various orders of the angelic hosts and the lower will creatures in a more general manner and in a collaboration with the reversion directors, they function as joy clearinghouses, seeking to up-step the pleasure reactions of the realms while trying to improve the humour taste, to develop a super-humour among mortals and angels; they endeavour to demonstrate that there is inherent joy in freewill existence, independent of all extraneous influences; and they are right, although they meet with great difficulty in inculcating this truth in the minds of primitive men. <a id="a78_846"></a>[UB 28:5.16](/en/The_Urantia_Book/28#p5_16) 
 
 I believe the song writer got it right when they penned these beautiful lyrics: –
 
@@ -100,22 +124,46 @@ If we research the word enthusiasm, we will see it is derived from the Greek ‘
 
 One of my favourite quotes from _The Urantia Book_ is:
 
-> Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences. [UB 102:8.1](/en/The_Urantia_Book/102#p8_1) 
+> Of God, the most inescapable of all presences, the most real of all facts, the most living of all truths, the most loving of all friends, and the most divine of all values, we have the right to be the most certain of all universe experiences. <a id="a126_245"></a>[UB 102:8.1](/en/The_Urantia_Book/102#p8_1) 
 
 This to me really says it all. It tells me that if I truly believe these truths and seek to do the Father’s will, what is there to worry about? Our loving heavenly Father is truly taking care of me, of us all, all the time. He is in control. We have our faithful companion, our divine fragment with us the whole way.
 
 Paul taught the citizens of Rome nothing can separate us from the love of God. “Neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord”. Great words from Paul.
 
->  The consciousness of the spirit domination of a human life is presently attended by an increasing exhibition of the characteristics of the Spirit in the life reactions of such a spirit-led mortal, “for the fruits of the spirit are love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance.” Such spirit-guided and divinely illuminated mortals, while they yet tread the lowly paths of toil and in human faithfulness perform the duties of their earthly assignments, have already begun to discern the lights of eternal life as they glimmer on the faraway shores of another world; already have they begun to comprehend the reality of that inspiring and comforting truth, “The kingdom of God is not meat and drink but righteousness, peace, and joy in the Holy Spirit.” And throughout every trial and in the presence of every hardship, spirit-born souls are sustained by that hope which transcends all fear because the love of God is shed abroad in all hearts by the presence of the divine Spirit. [UB 34:6.13](/en/The_Urantia_Book/34#p6_13)
+>  The consciousness of the spirit domination of a human life is presently attended by an increasing exhibition of the characteristics of the Spirit in the life reactions of such a spirit-led mortal, “for the fruits of the spirit are love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance.” Such spirit-guided and divinely illuminated mortals, while they yet tread the lowly paths of toil and in human faithfulness perform the duties of their earthly assignments, have already begun to discern the lights of eternal life as they glimmer on the faraway shores of another world; already have they begun to comprehend the reality of that inspiring and comforting truth, “The kingdom of God is not meat and drink but righteousness, peace, and joy in the Holy Spirit.” And throughout every trial and in the presence of every hardship, spirit-born souls are sustained by that hope which transcends all fear because the love of God is shed abroad in all hearts by the presence of the divine Spirit. <a id="a132_1025"></a>[UB 34:6.13](/en/The_Urantia_Book/34#p6_13)
 
 As the conference brochure quotes “It is high time that man had a religious experience so personal and so sublime that it could be realized and expressed only by feelings that lie too deep for words.” (p.1091.8) The closest I have got to this is, is what I described before. It’s only a beginning and I know I am just approaching the first step. But it is a start. A start to make me aware of the divine presence in me. A juncture in life’s road that is clearly pointing me in the right direction. A signpost telling me, this is the way to go. We have just embarked on the most thrilling, joyful and exciting journey.
 
 Let’s not forget we are all Agondonters, which _The Urantia Book_ describes as such on UB 50:7.2:
 
-> Evolutionary will creatures who can believe without seeing, persevere when isolated, and triumph over insuperable difficulties even when alone; on Jerusem the ascenders from these isolated worlds occupy a residential sector by themselves; this functional grouping of the Agondonters persists throughout the ascension of the local universe and the transversal of the superuniverse; it disappears during the sojourn in Havona but promptly reappears upon the attainment of Paradise and definitely persists in the Corps of the Mortal Finality. [UB 50:7.2](/en/The_Urantia_Book/50#p7_2)
+> Evolutionary will creatures who can believe without seeing, persevere when isolated, and triumph over insuperable difficulties even when alone; on Jerusem the ascenders from these isolated worlds occupy a residential sector by themselves; this functional grouping of the Agondonters persists throughout the ascension of the local universe and the transversal of the superuniverse; it disappears during the sojourn in Havona but promptly reappears upon the attainment of Paradise and definitely persists in the Corps of the Mortal Finality. <a id="a138_542"></a>[UB 50:7.2](/en/The_Urantia_Book/50#p7_2)
 
 We are all going to be on the paradise journey together, even Queen Elizabeth II and Billy Graham. We are all going to be in the same group known as agondonters, whether like it or not. Best we learn to foster this sense of togetherness now. After all, we are all children of the eternal Father. We are all brothers and sisters and will remain so for eternity. Let’s all learn to share the love, joy, peace, long-suffering, gentleness, goodness, faith, meekness, and temperance right here and now. For these are the fruits of the spirit. I believe this is the essence of “The Ultimate Human Experience” and also of our conference theme, ROPE – The Religion of Personal Experience. God bless you all. May his love shine upon you all. And don’t forget, be of good cheer!
 
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2023/01/06/the-ultimate-experience
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Daniel_Swadling/The_Religion_of_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Religion of Jesus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Marion_Steward/New_Zealand_Corner_2">
+          <span class="pr-2">New Zealand Corner</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

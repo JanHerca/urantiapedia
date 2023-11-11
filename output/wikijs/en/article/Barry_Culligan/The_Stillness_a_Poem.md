@@ -3,12 +3,33 @@ title: "The Stillness – a Poem"
 description: 
 published: true
 date: 2023-11-04T14:02:03.086Z
-tags: The Arena, article
+tags: Poetry, The Arena, article
 editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2020 Barry Culligan<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Patrick_McNelly/August_21_a_Poem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">August 21 – a Poem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <p style="text-align: center;">
 Amid the chaotic cacophony of the flesh<br>
@@ -55,3 +76,24 @@ Blessed Stillness of your Presence.<br>
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/newsletter/arena-spring-2020/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Patrick_McNelly/August_21_a_Poem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">August 21 – a Poem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

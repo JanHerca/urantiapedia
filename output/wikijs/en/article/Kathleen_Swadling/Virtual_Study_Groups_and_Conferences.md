@@ -3,12 +3,36 @@ title: "Virtual Study Groups and Conferences"
 description: 
 published: true
 date: 2023-11-05T08:13:38.336Z
-tags: The Arena, article
+tags: Study Groups, The Arena, article
 editor: markdown
 dateCreated: 2023-11-05T01:11:28.972Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Kathleen Swadling<br>© 2020 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Autumn 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="pr-2">Workshop Summary: Spirit in Society, Overcoming Resistance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Kathleen Swadling, Sydney
 
@@ -39,10 +63,34 @@ The presentations were recorded and the ones from the first meeting have been up
 
 Several regular study groups around Australia and New Zealand have become virtual due to the isolation rules, so now more people are joining in who previously were unable to travel to a group. For information on study groups in our region see the [Study Group Contact List](https://anzura.urantia-association.org/find-study-groups/) on ANZURA’s website.
 
-> _Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true,_ “No man lives unto himself.” [[UB 112:1.16](/en/The_Urantia_Book/112#p1_16)]
+> _Personality cannot very well perform in isolation. Man is innately a social creature; he is dominated by the craving of belongingness. It is literally true,_ “No man lives unto himself.” <a id="a65_190"></a>[[UB 112:1.16](/en/The_Urantia_Book/112#p1_16)]
 
-> _Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable._ [[UB 100:5.8](/en/The_Urantia_Book/100#p5_8)]
+> _Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable._ <a id="a67_150"></a>[[UB 100:5.8](/en/The_Urantia_Book/100#p5_8)]
 
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2020/05/10/virtual-study-groups-conferences
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Julian_McGarry/Presidents_Report_Autumn_2020">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">President’s Report – Autumn 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dylan_Roberts/Workshop_Summary_Spirit_in_Society_Overcoming_Resistance">
+          <span class="pr-2">Workshop Summary: Spirit in Society, Overcoming Resistance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

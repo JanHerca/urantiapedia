@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA’s Conference Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Graeme_C/On_the_Cosmic_Background">
+          <span class="pr-2">On the Cosmic Background</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By ANZURA Board
 
@@ -20,7 +44,7 @@ This year’s National Study Day, where you can participate in a study group in 
 
 <br style="clear:both;"/>
 
-> _The Infinite Spirit, the Conjoint Creator, is a universal and divine minister. The Spirit unceasingly ministers the_ _Son’s mercy and the Father’s love, even in harmony with the stable, unvarying, and righteous justice of the Paradise Trinity. His influence and personalities are ever near you; they really know and truly understand you._ [[UB 9:0.3](/en/The_Urantia_Book/9#p0_3)]
+> _The Infinite Spirit, the Conjoint Creator, is a universal and divine minister. The Spirit unceasingly ministers the_ _Son’s mercy and the Father’s love, even in harmony with the stable, unvarying, and righteous justice of the Paradise Trinity. His influence and personalities are ever near you; they really know and truly understand you._ <a id="a46_342"></a>[[UB 9:0.3](/en/The_Urantia_Book/9#p0_3)]
 
 We have once again invited the international readership to join us so that we may be united in Spirit with students of _The Urantia Book_ across the entire globe.
 
@@ -37,3 +61,27 @@ For more information on virtual study groups contact ANZURA by either calling us
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/03/25/2019-national-study-day
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Arena/ANZURAs_Conference_Canberra_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">ANZURA’s Conference Canberra 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Graeme_C/On_the_Cosmic_Background">
+          <span class="pr-2">On the Cosmic Background</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -46,13 +46,13 @@ Admittedly, Jesus was saying things about who he was, where he was from, and the
 
 ## Compromises Were Tried
 
-Many efforts were made for acceptability. For example, Jesus tried to accommodate their beliefs with his teaching about the Kingdom of God which led to some degree of confusion among his followers. _Much of the early persecution of Christians in Rome was due solely to their unfortunate use of the term “kingdom” in their preaching._ ([UB 195:2.2](/en/The_Urantia_Book/195#p2_2))
+Many efforts were made for acceptability. For example, Jesus tried to accommodate their beliefs with his teaching about the Kingdom of God which led to some degree of confusion among his followers. _Much of the early persecution of Christians in Rome was due solely to their unfortunate use of the term “kingdom” in their preaching._ (<a id="s48_335"></a>[UB 195:2.2](/en/The_Urantia_Book/195#p2_2))
 
-Then along came Paul who watered down the teachings to win the approval of the Jews and of course all that has been a disaster. _Though these efforts failed as far as winning the Jews was concerned, they did not fail to confuse and alienate many honest souls in all subsequent generations._ ([UB 149:2.3](/en/The_Urantia_Book/149#p2_3)) And for good measure Paul also adapted it to suit the Greco-Roman mind set.
+Then along came Paul who watered down the teachings to win the approval of the Jews and of course all that has been a disaster. _Though these efforts failed as far as winning the Jews was concerned, they did not fail to confuse and alienate many honest souls in all subsequent generations._ (<a id="s50_292"></a>[UB 149:2.3](/en/The_Urantia_Book/149#p2_3)) And for good measure Paul also adapted it to suit the Greco-Roman mind set.
 
-Then there was the biggest calamity: _And so, under the vigorous leadership of Peter and ere the Master ascended to the Father, his well-meaning representatives began that subtle process of gradually and certainly changing the religion <ins>of</ins> Jesus into a new and modified form of religion <ins>about</ins> Jesus._ ([UB 192:4.8](/en/The_Urantia_Book/192#p4_8))
+Then there was the biggest calamity: _And so, under the vigorous leadership of Peter and ere the Master ascended to the Father, his well-meaning representatives began that subtle process of gradually and certainly changing the religion <ins>of</ins> Jesus into a new and modified form of religion <ins>about</ins> Jesus._ (<a id="s52_323"></a>[UB 192:4.8](/en/The_Urantia_Book/192#p4_8))
 
-> _This overemphasis of the personality of Jesus in the theology of Christianity has worked to obscure his teachings, and all of this has made it increasingly difficult for Jews, Mohammedans, Hindus, and other Eastern religionists to accept the teachings of Jesus._ ([UB 149:2.4](/en/The_Urantia_Book/149#p2_4))
+> _This overemphasis of the personality of Jesus in the theology of Christianity has worked to obscure his teachings, and all of this has made it increasingly difficult for Jews, Mohammedans, Hindus, and other Eastern religionists to accept the teachings of Jesus._ (<a id="s54_267"></a>[UB 149:2.4](/en/The_Urantia_Book/149#p2_4))
 
 ## Are We Better Placed To Accept The Fifth?
 
@@ -74,15 +74,15 @@ This development could be compared with the way Christianity has promoted the Bi
 
 It would be preferable and more accurate to say the Book is a revelation about God, the universe, universe personalities, various orders of celestial beings, the history of Urantia, and so on. It offers a pathway to finding God.
 
-> _... the revelation of God must always be partial, relative, and progressive until his power becomes experientially infinite in the space potency of the Unqualified Absolute ..._ ([UB 56:9.7](/en/The_Urantia_Book/56#p9_7))
+> _... the revelation of God must always be partial, relative, and progressive until his power becomes experientially infinite in the space potency of the Unqualified Absolute ..._ (<a id="s76_182"></a>[UB 56:9.7](/en/The_Urantia_Book/56#p9_7))
 
-> _You can know God, not by understanding what Jesus said, but by knowing what Jesus was. Jesus <ins>was</ins> a revelation of God._ ([UB 169:4.4](/en/The_Urantia_Book/169#p4_4))
+> _You can know God, not by understanding what Jesus said, but by knowing what Jesus was. Jesus <ins>was</ins> a revelation of God._ (<a id="s78_134"></a>[UB 169:4.4](/en/The_Urantia_Book/169#p4_4))
 
 ## The Custodians Of The Fourth
 
-> _Jesus saw a group of the Sadducees and Pharisees making their way through the crowd, and he paused for a moment until they drew near him, when he said: “You know how your fathers rejected the prophets, and you well know that you are set in your hearts to reject the Son of Man.” And then, looking with searching gaze upon those priests and elders who were standing near him, Jesus said: “Did you never read in the Scripture about the stone which the builders rejected, and which, when the people had discovered it, was made into the cornerstone? And so once more do I warn you that, if you continue to reject this gospel, presently will the kingdom of God be taken away from you and be given to a people willing to receive the good news and to bring forth the fruits of the spirit.”_ ([UB 173:4.4](/en/The_Urantia_Book/173#p4_4))
+> _Jesus saw a group of the Sadducees and Pharisees making their way through the crowd, and he paused for a moment until they drew near him, when he said: “You know how your fathers rejected the prophets, and you well know that you are set in your hearts to reject the Son of Man.” And then, looking with searching gaze upon those priests and elders who were standing near him, Jesus said: “Did you never read in the Scripture about the stone which the builders rejected, and which, when the people had discovered it, was made into the cornerstone? And so once more do I warn you that, if you continue to reject this gospel, presently will the kingdom of God be taken away from you and be given to a people willing to receive the good news and to bring forth the fruits of the spirit.”_ (<a id="s82_788"></a>[UB 173:4.4](/en/The_Urantia_Book/173#p4_4))
 
-> _When the Pharisees heard these words, they understood that Jesus referred to themselves and the other Jewish leaders._ ([UB 173:4.5](/en/The_Urantia_Book/173#p4_5))
+> _When the Pharisees heard these words, they understood that Jesus referred to themselves and the other Jewish leaders._ (<a id="s84_123"></a>[UB 173:4.5](/en/The_Urantia_Book/173#p4_5))
 
 There should be hundreds of questions that intrigue, such as:
 
@@ -102,7 +102,7 @@ The truth about such questions will give a better insight into the Christian rel
 
 Perhaps we can be comforted by this:
 
-> _Christianity exhibits a history of having originated out of the unintended transformation of the religion of Jesus into a religion about Jesus. It further presents the history of having experienced Hellenization, paganization, secularization, institutionalization, intellectual deterioration, spiritual decadence, moral hibernation, threatened extinction, later rejuvenation, fragmentation, and more recent relative rehabilitation. Such a pedigree is indicative of inherent vitality and the possession of vast recuperative resources. And this same Christianity is now present in the civilized world of Occidental peoples and stands face to face with a struggle for existence which is even more ominous than those eventful crises which have characterized its past battles for dominance._ ([UB 195:4.4](/en/The_Urantia_Book/195#p4_4))
+> _Christianity exhibits a history of having originated out of the unintended transformation of the religion of Jesus into a religion about Jesus. It further presents the history of having experienced Hellenization, paganization, secularization, institutionalization, intellectual deterioration, spiritual decadence, moral hibernation, threatened extinction, later rejuvenation, fragmentation, and more recent relative rehabilitation. Such a pedigree is indicative of inherent vitality and the possession of vast recuperative resources. And this same Christianity is now present in the civilized world of Occidental peoples and stands face to face with a struggle for existence which is even more ominous than those eventful crises which have characterized its past battles for dominance._ (<a id="s104_791"></a>[UB 195:4.4](/en/The_Urantia_Book/195#p4_4))
 
 The Urantia Papers have such recuperative powers. Their truths can win the struggle for existence that they in turn will face. At least they are here on the planet, and they are currently available for anyone to access and read.
 
@@ -118,7 +118,7 @@ The waiting celestial intelligences of the on-looking universes could well be as
 
 Or will the revelation be prevented from doing so by the default of a country, race, organization, or human group, that abrogates responsibility or invokes the revelation's inherent strength for their own agenda?
 
-Again will Jesus' words about the cornerstone ring true: “ _... on whomsoever this stone falls, he will be ground to dust and his ashes scattered to the four winds._” ([UB 173:4.4](/en/The_Urantia_Book/173#p4_4))
+Again will Jesus' words about the cornerstone ring true: “ _... on whomsoever this stone falls, he will be ground to dust and his ashes scattered to the four winds._” (<a id="s120_168"></a>[UB 173:4.4](/en/The_Urantia_Book/173#p4_4))
 
 Will there be the unintended (or intended) transformation of the revelation into an industry about the revelation?
 
@@ -128,9 +128,9 @@ Consider losing our freedom of speech, association, movement, and worship. And t
 
 And there are such historical events:
 
-> _The Dalamatia library, destroyed soon after the Caligastia disaffection, comprised more than two million separate records and was known as the ‘house of Fad’._ ([UB 66:5.9](/en/The_Urantia_Book/66#p5_9))
+> _The Dalamatia library, destroyed soon after the Caligastia disaffection, comprised more than two million separate records and was known as the ‘house of Fad’._ (<a id="s130_164"></a>[UB 66:5.9](/en/The_Urantia_Book/66#p5_9))
 
-> _The last of these few altered and amended copies [by Andrew] was destroyed by fire at Alexandria about one hundred years after the original was written by the first chosen of the twelve apostles._ ([UB 139:1.9](/en/The_Urantia_Book/139#p1_9))
+> _The last of these few altered and amended copies [by Andrew] was destroyed by fire at Alexandria about one hundred years after the original was written by the first chosen of the twelve apostles._ (<a id="s132_201"></a>[UB 139:1.9](/en/The_Urantia_Book/139#p1_9))
 
 Quite simply, the Book must remain freely and openly available. Otherwise the responsibility for publication and dissemination in English would become a private matter for those readers who believe in the Book and who have the necessary resources. The English version is in the public domain.
 
@@ -160,7 +160,7 @@ This will all change when the revelation gains acceptance to a level deemed worr
 
 ## What Can Each Of Us Do In Our Lifetime?
 
-> _You who have professed entrance into the kingdom of heaven are altogether too vacillating and indefinite in your teaching conduct. The heathen strike directly for their objectives; you are guilty of too much chronic yearning. If you desire to enter the kingdom, why do you not take it by spiritual assault even as the heathen take a city they lay siege to? You are hardly worthy of the kingdom when your service consists so largely in an attitude of regretting the past, whining over the present, and vainly hoping for the future._ ([UB 155:1.3](/en/The_Urantia_Book/155#p1_3))
+> _You who have professed entrance into the kingdom of heaven are altogether too vacillating and indefinite in your teaching conduct. The heathen strike directly for their objectives; you are guilty of too much chronic yearning. If you desire to enter the kingdom, why do you not take it by spiritual assault even as the heathen take a city they lay siege to? You are hardly worthy of the kingdom when your service consists so largely in an attitude of regretting the past, whining over the present, and vainly hoping for the future._ (<a id="s162_536"></a>[UB 155:1.3](/en/The_Urantia_Book/155#p1_3))
 
 ## Three Powerful Little Stories
 
@@ -168,17 +168,17 @@ There are simple ways to contemplate our concerns about the future of the fifth 
 
 **Story 1**
 
-> _From Edentia up through Salvington and even on to Uversa, for seven long years the first inquiry of all subordinate celestial life regarding the Satania rebellion, ever and always, was: “What of Amadon of Urantia, does he still stand unmoved?”_ ([UB 67:8.3](/en/The_Urantia_Book/67#p8_3))
+> _From Edentia up through Salvington and even on to Uversa, for seven long years the first inquiry of all subordinate celestial life regarding the Satania rebellion, ever and always, was: “What of Amadon of Urantia, does he still stand unmoved?”_ (<a id="s170_249"></a>[UB 67:8.3](/en/The_Urantia_Book/67#p8_3))
 
-> _If the Lucifer rebellion has handicapped the local system and its fallen worlds, if the loss of this Son and his misled associates has temporarily hampered the progress of the constellation of Norlatiadek, then weigh the effect of the farflung presentation of the inspiring performance of this one child of nature and his determined band of 143 comrades in standing steadfast for the higher concepts of universe management and administration in the face of such tremendous and adverse pressure exerted by his disloyal superiors. And let me assure you, this has already done more good in the universe of Nebadon and the superuniverse of Orvonton than can ever be outweighed by the sum total of all the evil and sorrow of the Lucifer rebellion._ ([UB 67:8.4](/en/The_Urantia_Book/67#p8_4))
+> _If the Lucifer rebellion has handicapped the local system and its fallen worlds, if the loss of this Son and his misled associates has temporarily hampered the progress of the constellation of Norlatiadek, then weigh the effect of the farflung presentation of the inspiring performance of this one child of nature and his determined band of 143 comrades in standing steadfast for the higher concepts of universe management and administration in the face of such tremendous and adverse pressure exerted by his disloyal superiors. And let me assure you, this has already done more good in the universe of Nebadon and the superuniverse of Orvonton than can ever be outweighed by the sum total of all the evil and sorrow of the Lucifer rebellion._ (<a id="s172_748"></a>[UB 67:8.4](/en/The_Urantia_Book/67#p8_4))
 
 **Story 2**
 
-> _This Jesus sect was growing rapidly, and once more the Sadducees took notice of them. The Pharisees were little bothered about the situation, seeing that none of the teachings in any way interfered with the observance of the Jewish laws. But the Sadducees began to put the leaders of the Jesus sect in jail until they were prevailed upon to accept the counsel of one of the leading rabbis, Gamaliel, who advised them: “Refrain from these men and let them alone, for if this counsel or this work is of men, it will be overthrown; but if it is of God, you will not be able to overthrow them, lest haply you be found even to be fighting against God.” They decided to follow Gamaliel's counsel, and there ensued a time of peace and quiet in Jerusalem, during which the new gospel about Jesus spread rapidly._ ([UB 194:4.10](/en/The_Urantia_Book/194#p4_10))
+> _This Jesus sect was growing rapidly, and once more the Sadducees took notice of them. The Pharisees were little bothered about the situation, seeing that none of the teachings in any way interfered with the observance of the Jewish laws. But the Sadducees began to put the leaders of the Jesus sect in jail until they were prevailed upon to accept the counsel of one of the leading rabbis, Gamaliel, who advised them: “Refrain from these men and let them alone, for if this counsel or this work is of men, it will be overthrown; but if it is of God, you will not be able to overthrow them, lest haply you be found even to be fighting against God.” They decided to follow Gamaliel's counsel, and there ensued a time of peace and quiet in Jerusalem, during which the new gospel about Jesus spread rapidly._ (<a id="s176_809"></a>[UB 194:4.10](/en/The_Urantia_Book/194#p4_10))
 
 **Story 3**
 
-> _John said to Jesus: “Master, yesterday I went over to Ashtaroth to see a man who was teaching in your name and even claiming to be able to cast out devils. Now this fellow had never been with us, neither does he follow after us; therefore I forbade him to do such things.” Then said Jesus: “Forbid him not. Do you not perceive that this gospel of the kingdom shall presently be proclaimed in all the world? How can you expect that all who will believe the gospel shall be subject to your direction? Rejoice that already our teaching has begun to manifest itself beyond the bounds of our personal influence. Do you not see, John, that those who profess to do great works in my name must eventually support our cause?”_ ([UB 159:2.1](/en/The_Urantia_Book/159#p2_1))
+> _John said to Jesus: “Master, yesterday I went over to Ashtaroth to see a man who was teaching in your name and even claiming to be able to cast out devils. Now this fellow had never been with us, neither does he follow after us; therefore I forbade him to do such things.” Then said Jesus: “Forbid him not. Do you not perceive that this gospel of the kingdom shall presently be proclaimed in all the world? How can you expect that all who will believe the gospel shall be subject to your direction? Rejoice that already our teaching has begun to manifest itself beyond the bounds of our personal influence. Do you not see, John, that those who profess to do great works in my name must eventually support our cause?”_ (<a id="s180_722"></a>[UB 159:2.1](/en/The_Urantia_Book/159#p2_1))
 
 We can apply the same reasoning to the fifth when we see it facing issues of ownership, control, misrepresentation, availability, and progress.
 

@@ -35,7 +35,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > Reality differentially actualizes on diverse universe levels; reality originates in and by the infinite volition of the Universal Father and is realizable in three primal phases on many different levels of universe actualization:
 > 1. Undeified reality
 > 2. Deified reality
-> 3. Interassociated reality <a id="s37_27"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1) <a id="s37_67"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1)
+> 3. Interassociated reality <a id="s37_29"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1) <a id="s37_69"></a>[UB 0:4.1](/en/The_Urantia_Book/0#p4_1)
 
 ## Reason
 

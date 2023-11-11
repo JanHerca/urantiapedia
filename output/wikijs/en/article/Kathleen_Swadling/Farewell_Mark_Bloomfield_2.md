@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Kathleen Swadling<br>© 2019 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Susan_Hemmingsen/New_Zealand_Corner_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Zealand Corner – Winter 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/Our_Educational_Imperative_A_Strategy">
+          <span class="pr-2">Our Educational Imperative – A Strategy for the Coming Decades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 By Kathleen Swadling, NSW
 
@@ -74,7 +98,7 @@ Ben Bowler, who took over Marks’ FreeSchools work in Thailand wrote:
 
 ## 2006 In Australia
 
-Some of us will remember Mark from the 2006 Urantia Association International Conference held at the Women’s College in Sydney. Our theme was titled “Rewards of Isolation—Small Teams in Deep Waters.” Mark gave a passionate and inspiring presentation about the nature and mission of the Urantia Revelation. One aspect of his talk made a big impression on me; he disputed the “small teams in deep waters” part of our theme title by thoroughly reversing the meaning by saying, with all the power of the universe behind us how can we call ourselves that. Rather he’d prefer to think of us as “large teams in little puddles”! By emphasising the magnitude of the mission of the fifth epochal revelation, the masses of unseen celestial friends barracking for our success, and the power of our Faith we should have more confidence and courage to dare to go forth _…in the sole company of TRUTH._ [[UB 103:9.7](/en/The_Urantia_Book/103#p9_7)]
+Some of us will remember Mark from the 2006 Urantia Association International Conference held at the Women’s College in Sydney. Our theme was titled “Rewards of Isolation—Small Teams in Deep Waters.” Mark gave a passionate and inspiring presentation about the nature and mission of the Urantia Revelation. One aspect of his talk made a big impression on me; he disputed the “small teams in deep waters” part of our theme title by thoroughly reversing the meaning by saying, with all the power of the universe behind us how can we call ourselves that. Rather he’d prefer to think of us as “large teams in little puddles”! By emphasising the magnitude of the mission of the fifth epochal revelation, the masses of unseen celestial friends barracking for our success, and the power of our Faith we should have more confidence and courage to dare to go forth _…in the sole company of TRUTH._ <a id="a100_888"></a>[[UB 103:9.7](/en/The_Urantia_Book/103#p9_7)]
 
 Our heart-felt sympathy and prayers go to Mark’s family and to all those who knew him well and called him “friend” and “brother.” May his resurrection on the Mansion Worlds be joyous and compensate for the tragic manner of his premature departure from this world.
 
@@ -87,3 +111,27 @@ _Here are some fond memories of Mark’s visit to Australia for the 2006 Urantia
 ## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/07/31/farewell-mark-bloomfield
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Susan_Hemmingsen/New_Zealand_Corner_Winter_2019">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Zealand Corner – Winter 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/Our_Educational_Imperative_A_Strategy">
+          <span class="pr-2">Our Educational Imperative – A Strategy for the Coming Decades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
