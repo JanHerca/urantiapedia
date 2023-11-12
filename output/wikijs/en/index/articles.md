@@ -87,13 +87,13 @@ The index of all available issues is here: [Index of Fellowship's The Study Grou
 Sources:
 - https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html
 
-### Urantian -- Journal of Urantia Brotherhood
+### Urantian — Journal of Urantia Brotherhood
 
 ![](/image/article/Group_banners/Urantian_Journal_Urantia_Brotherhood.jpg)
 
 The Urantian was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, from 1976 to 1994.
 
-The index of all available issues is here: [The Urantian -- Journal of Urantia BrotherHood](/en/index/articles_urantian_journal).
+The index of all available issues is here: [The Urantian — Journal of Urantia BrotherHood](/en/index/articles_urantian_journal).
 
 Sources: 
 - https://urantia-book.org/archive/newsletters/urantian_journal/
@@ -164,6 +164,19 @@ The index of all available issues is here: [“Luz y Vida” Articles Index](/en
 
 Sources: 
 - https://aue.urantia-association.org/luz-y-vida/
+
+## ANZURA — Australia & New Zealand Urantia Association
+
+### The Arena
+
+![](/image/article/Group_banners/ANZURA_Arena.jpg)
+
+_The Arena_ newsletter is published by ANZURA two to three times a year and keeps students of _The Urantia Book_ throughout Australia, New Zealand and the South Pacific in touch with Urantia related news, activities and events. It also provides interesting articles written by readers on a wide range of subjects from the book.
+
+The index of all available issues is here: [The Arena Articles Index](/en/index/articles_arena).
+
+Sources: 
+- https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/
 
 ## UB Annotaded & UBTheNews
 

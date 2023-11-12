@@ -43,7 +43,7 @@ DORKING
 
 1 May 1929 
 
-## Preface To Second Edition 
+## Preface To Second Edition
 
 In preparing a second edition, I have taken advantage of a great number of suggestions made by correspondents and reviewers, to whom I offer my sincerest thanks. I have also inserted discussions of the new planet Pluto, the rotation of the galaxy, the apparent expansion of the universe, and other subjects which have become important since the first edition was published, and in general have tried to bring the book up to date. 
 
