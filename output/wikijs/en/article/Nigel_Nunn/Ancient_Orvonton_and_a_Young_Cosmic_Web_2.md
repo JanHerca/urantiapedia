@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+        <a href="/en/index/articles_arena#the-arena-summer-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
         </a>
         </td>
@@ -61,9 +61,7 @@ Recall that the “apparent speed of recession” of distant galaxies forms the 
 
 Which opens the door to an opportunity for students of _The Urantia Book_ to present a model of the cosmos that can explain all the data and anomalies that (increasingly) confuse and contradict current mainstream assumptions. One attempt at sketching such a model can be found at this link:
 
-**Playlist – Urantia Book Cosmology**
-
-https://www.youtube.com/playlist?list=PLujf81__tQbQ_tAoVrvr6xOPm4XkZUStU
+**Playlist – Urantia Book Cosmology** https://www.youtube.com/playlist?list=PLujf81__tQbQ_tAoVrvr6xOPm4XkZUStU
 
 Regarding the final video in that series (Part 4D), the _James Webb Space Telescope_ was recently. Given what this infrared-optimized space telescope might reveal, video Part 4D was tuned to predict a few simple but game-changing facts about our home spiral of stars, the ancient Milky Way. Stay tuned!
 
@@ -82,7 +80,7 @@ Regarding the final video in that series (Part 4D), the _James Webb Space Telesc
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+        <a href="/en/index/articles_arena#the-arena-summer-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
         </a>
         </td>

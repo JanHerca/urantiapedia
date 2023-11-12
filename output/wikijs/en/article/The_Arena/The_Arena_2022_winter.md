@@ -16,12 +16,12 @@ dateCreated: 2023-11-04T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Phillip_Mariott/Presidents_Report_Winter_2022">
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Winter_2022">
           <span class="pr-2">Presidents Report – Winter 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -36,7 +36,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Arena/Port-Arthur-adj-scaled-e1659144921144.jpg" alt="Port Arthur">
+<img src="/image/article/The_Arena/Port-Arthur-adj-scaled-e1659144921144-570x294.jpg" alt="Port Arthur">
 </figure>
 
 ## In This Issue
@@ -96,7 +96,7 @@ Stewarts Bay Lodge is set in a stunning waterfront location and is nestled in a
 Study Group Hosts
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/The_Arena/Paper-155-crop-scaled-e1658986509376.jpg" alt="Paper 155">
+<img src="/image/article/The_Arena/Paper-155-crop-scaled-e1658986509376-570x323.jpg" alt="Paper 155">
 </figure>
 
 ANZURA’s 2022 National Study Day was held on Saturday 18<sup>th</sup> June. Various study groups came together to study Paper 155 – _Fleeing Through Northern Galilee_. Following are some reflections from those who participated:
@@ -127,7 +127,7 @@ I think each one of us derived something worthwhile from our reading and discuss
 Phillip Marriott, Adelaide, SA 
 
 <figure id="Figure_7" class="image urantiapedia">
-<img src="/image/article/The_Arena/Master-Universe-GT.jpg" alt="Master Universe">
+<img src="/image/article/The_Arena/Master-Universe-GT-570x383.jpg" alt="Master Universe">
 </figure>
 
 **Adelaide Body, Mind & Physic Expo**
@@ -143,7 +143,7 @@ That’s when I investigated the mind, body, psychic or spirit types of fairs an
 Regina Williamson, VIC
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/IMG-20220707-WA0005-e1658988774944.jpg" alt="Regina Williamson">
+<img src="/image/article/The_Arena/IMG-20220707-WA0005-e1658988774944-300x225.jpg" alt="Regina Williamson">
 </figure>
 
 First my feelings of anticipation: It’s this weekend! I am excited about the whole thing: travel and expo on Saturday and Sunday, a totally new adventure for me. And what will we be doing there? We, meaning Phillip, the project manager, and Bevan and myself as assistants. We will be presenting God’s revelation to the world by sowing seeds!! We will be promoting the Father’s business and spreading the good news of Jesus’ gospel. Thank you, Phillip, for giving us this opportunity.
@@ -192,7 +192,7 @@ There is an action that operates above and beyond these essential commitments. B
 Rita Schaad, Newcastle
 
 <figure id="Figure_11" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/Dreams-within-Orvonton.jpg" alt="Dreams within Orvonton">
+<img src="/image/article/The_Arena/Dreams-within-Orvonton-300x280.jpg" alt="Dreams within Orvonton">
 </figure>
 
 I discovered some beautifully inspirational music that I would like to share with you. I stumbled upon it while browsing the Urantia DACH website which services German-speaking Urantia Book readers in Germany, Austria, and Switzerland.
@@ -207,7 +207,7 @@ Thank you Urantia DACH. [https://dach.urantia-association.org/blog/](https://dac
 ## Poem from Amenemope
 
 <figure id="Figure_12" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/Psalms-scaled-e1659061833171.jpg" alt="Psalms">
+<img src="/image/article/The_Arena/Psalms-scaled-e1659061833171-300x225.jpg" alt="Psalms">
 </figure>
 
 _Explanation from Wikipedia:_
@@ -324,12 +324,12 @@ Some study groups include virtual participation via Zoom if you cannot meet face
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Phillip_Mariott/Presidents_Report_Winter_2022">
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Winter_2022">
           <span class="pr-2">Presidents Report – Winter 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

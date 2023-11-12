@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>
@@ -36,11 +36,11 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 By Susan Hemmingsen, Auckland NZ
 
+## The Christchurch Terror Attacks
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Susan-Hemmingsen-217x300.jpg" alt="Susan Hemmingsen">
 </figure>
-
-## The Christchurch Terror Attacks
 
 Living in New Zealand, we didn’t really think we’d be touched by terrorism, but touched we were. The despicable act of a lone extreme right-wing terrorist who took the lives of 51 Islamic New Zealanders had repercussions right around the country.
 
@@ -120,7 +120,7 @@ Read more about [Arena - Winter 2019](https://anzura.urantia-association.org/cat
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+        <a href="/en/index/articles_arena#the-arena-winter-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
         </a>
         </td>
@@ -56,6 +56,7 @@ The article will first outline the scope and range of diversity in the Universe,
 </figure>
 
 In terms of appearance and form, diversity and uniqueness begin with Havona. In this central universe which surrounds the Isle of Paradise, there are one billion words, each of which is unique.
+<br style="clear:both;"/>
 
 > _The architecture, natural embellishment, morontial structures, and spirit creations are exclusive and **unique** on each sphere.  Every world is a place of everlasting beauty and is **wholly unlike** any other world in the central universe._ <a id="a59_245"></a>[UB 18:2.4](/en/The_Urantia_Book/18#p2_4)
 
@@ -76,6 +77,7 @@ It is clear that all the spiritual beings created to run our universe, and every
 Then, when it comes to ascendant beings on the planets, the same approach of constant variety is very evident, and even more so on Urantia, due to our status as an ‘experimental’ planet.
 
 _The Urantia Book_ tells us that there are basic life patterns, but lots of variation.
+<br style="clear:both;"/>
 
 > _[The Life Carriers] foster a generalized system type of mortal creature, but there are seven distinct physical types as well as thousands upon thousands o minor variants of these seven outstanding variations_ <a id="a79_212"></a>[UB 49:2.1](/en/The_Urantia_Book/49#p2_1).
 
@@ -198,7 +200,7 @@ If we have **_faith_** in God’s eternal plan, and work steadfastly to overcome
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+        <a href="/en/index/articles_arena#the-arena-winter-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
         </a>
         </td>

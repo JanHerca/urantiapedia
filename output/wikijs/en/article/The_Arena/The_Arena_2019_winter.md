@@ -16,7 +16,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>
@@ -88,7 +88,7 @@ _If you’re planning on attending this year’s annual conference and haven’t
 _Here’s an update on the program from Vern Verass:_
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/The_Arena/Greenhills-Conference-Centre-300x76.jpg" alt="Greenhills Conference Centre">
+<img src="/image/article/The_Arena/Greenhills-Conference-Centre-570x144.jpg" alt="Greenhills Conference Centre">
 </figure>
 
 Dear Friends,
@@ -228,20 +228,20 @@ So my question for this talk is: _How shall we rise to the level of power where 
 
 Publications Service Group
 
-<figure id="Figure_10" class="image urantiapedia">
+<figure id="Figure_10" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Mining-the-Archives.jpg" alt="Mining the Archives">
 </figure>
 
 **Mining the Archives** is a collection of articles that have been published in various newsletters over the years and have been lying buried in the archives. A team of volunteers have been “mining the archives” for the gems, so now we can bring them into the light of day to share by publishing them on websites and newsletters.
 
 Each issue of the _Arena_ usually has one “gem” published but for this issue we have two: the first, by  the late Ken Glasziou was”mined” from the Fellowship’s Journal 1994,  and the second, by William Wentworth, is from the _Arena_ Newsletter, Autumn 2004 and was the preamble on the Canberra Conference theme—”Echoes of Eden.” Enjoy!
-
+<br style="clear:both;"/>
 
 ## A New Approach to Revelation
 
 Ken Glasziou, Sunshine Coast QLD
 
-<figure id="Figure_11" class="image urantiapedia">
+<figure id="Figure_11" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Ken-Glasziou-165x300.jpg" alt="Ken Glasziou">
 </figure>
 
@@ -256,13 +256,13 @@ Because of this cultural conditioning, many church members assume that all authe
 Some of us quickly learn that when introducing church members to _The Urantia Book_, one needs to alleviate fear by saying something to the effect that, “The book purports to be revelatory, but read it critically like any other book. You will find that it contains some excellent spiritual insights.” Interestingly, this is the method of evaluating revelation recommended by the authors of _The Urantia Book._ The only way revelation can be validated, they tell us, is through the truths we have acquired in personal experience.
 
 [Read more](/en/article/Ken_Glasziou/A_New_Approach_to_Revelation)
-
+<br style="clear:both;"/>
 
 ## Conference 2004 Preamble – Echoes of Eden
 
 William Wentworth, Australia
 
-<figure id="Figure_12" class="image urantiapedia">
+<figure id="Figure_12" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Will-1-260x300.jpg" alt="William Wentworth">
 </figure>
 
@@ -279,7 +279,7 @@ Well, to be brief, some of us don’t want to leave it “till then”. So, part
 On page 54 of _The Urantia Book_ a Divine Counselor points out that the watchword of the universe is **_progress._** We are not expected to remain stagnant. And on page 1105 a Melchizedek teaches that it is our thoughts, not our beliefs or feelings, that lead us Godward, by **the discovery of new meanings in known facts**.
 
 [Read more](/en/article/William_Wentworth/Conference_2004_Preamble_Echoes_of_Eden)
-
+<br style="clear:both;"/>
 
 ## Pearls of Wisdom from the Internet – Winter 2019
 
@@ -351,7 +351,7 @@ Because lives have been taken.
 
 Anzura Admin
 
-<figure id="Figure_15" class="image urantiapedia">
+<figure id="Figure_15" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Arena-Image-300x258.jpg" alt="The Arena">
 </figure>
 
@@ -364,7 +364,7 @@ If you would like to receive the _Arena_ or submit an article, please send us an
 To view current and past issues of the _Arena_ [click here](https://anzura.urantia-association.org/online-arenas/).
 
 [Read more](https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/#more-645)
-
+<br style="clear:both;"/>
 
 ## The UB Endeavour
 
@@ -416,7 +416,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>

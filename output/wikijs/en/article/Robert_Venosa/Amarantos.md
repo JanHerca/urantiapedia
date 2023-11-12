@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+        <a href="/en/index/articles_arena#the-arena-summer-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
         </a>
         </td>
@@ -94,7 +94,7 @@ That in love it return to the heart of its sire.
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+        <a href="/en/index/articles_arena#the-arena-summer-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
         </a>
         </td>

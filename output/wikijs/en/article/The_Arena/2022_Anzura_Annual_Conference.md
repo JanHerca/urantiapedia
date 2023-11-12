@@ -19,12 +19,12 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+        <a href="/en/index/articles_arena#the-arena-summer-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Kathleen_Swadling/2021 ANZURA_Virtual_Conference_Report">
+        <a href="/en/article/Kathleen_Swadling/ANZURA_Virtual_Conference_Report">
           <span class="pr-2">2021 ANZURA Virtual Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -65,6 +65,7 @@ Stewarts Bay Lodge, 6955 Arthur Highway, Port Arthur, Tasmania. Accommodation wi
 If you’re thinking of incorporating the conference with a family holiday Stewarts Bay Lodge is the ideal base from which to explore Tasmania’s famous Tasman Peninsula with its world-renowned historic site and its many natural wonders that delight families, tourists and nature lovers.
 
 (To book for dates outside of the conference times check out this venue at: [https://stewartsbaylodge.com.au/](https://stewartsbaylodge.com.au/).)
+<br style="clear:both;"/>
 
 ## Catering
 
@@ -124,6 +125,7 @@ Email: [anzura.urantia@gmail.com](mailto:anzura.urantia@gmail.com)
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Cabin1.jpg" alt="Anzura Annual Conference">
 </figure>
+<br style="clear:both;"/>
 
 ## References
 
@@ -139,12 +141,12 @@ Email: [anzura.urantia@gmail.com](mailto:anzura.urantia@gmail.com)
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+        <a href="/en/index/articles_arena#the-arena-summer-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Kathleen_Swadling/2021 ANZURA_Virtual_Conference_Report">
+        <a href="/en/article/Kathleen_Swadling/ANZURA_Virtual_Conference_Report">
           <span class="pr-2">2021 ANZURA Virtual Conference Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

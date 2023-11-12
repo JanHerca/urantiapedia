@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>
@@ -124,7 +124,7 @@ The book best sums it up with these final papers:
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>

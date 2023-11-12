@@ -19,7 +19,7 @@ dateCreated: 2023-11-05T01:11:28.972Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>
@@ -68,25 +68,17 @@ You find the whole series of ‘Introduction to _The Urantia Book’_ on ANZURA�
 
 Here are links to the videos (on YouTube), plus their (PDF) scripts:
 
-**Part 4A – Foundations (v2)**
-
-https://youtu.be/ZerrvI4dLTQ
+**Part 4A – Foundations (v2)** https://youtu.be/ZerrvI4dLTQ
 
 ( [Script for Part 4A](http://ubron.org/groupdocs/P4_A_Foundations1.pdf) )
 
-**Part 4B1 – Mass and Matter**
+**Part 4B1 – Mass and Matter** https://youtu.be/-ZurF1V81W8
 
-https://youtu.be/-ZurF1V81W8
-
-**Part 4B2 – Mass and Matter**
-
-https://youtu.be/AE0uUliBfis
+**Part 4B2 – Mass and Matter** https://youtu.be/AE0uUliBfis
 
 ( [Script for Part 4B](http://ubron.org/groupdocs/P4_B_Mass_Matter1.pdf) )
 
-**Part 4C – Exploding Dark Islands (v2)**
-
-https://youtu.be/q8nAUKE0-OM
+**Part 4C – Exploding Dark Islands (v2)** https://youtu.be/q8nAUKE0-OM
 
 ( [Script for Part 4C](http://ubron.org/groupdocs/P4_C_2018_Apr15.pdf) )
 
@@ -111,7 +103,7 @@ _**The Urantia Book**_ – a gift to those future souls who will dare to launch 
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>

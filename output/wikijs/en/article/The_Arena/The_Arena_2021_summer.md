@@ -16,7 +16,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+        <a href="/en/index/articles_arena#the-arena-summer-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
         </a>
         </td>
@@ -110,7 +110,7 @@ Julian Martin, Sydney NSW
 _(Summary of Julian Martin's opening presentation of ANZURA’s Virtual 2021 Annual Conference)_
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/The_Arena/Julian-Martin.jpg" alt="Julian Martin">
+<img src="/image/article/The_Arena/Julian-Martin-488x570.jpg" alt="Julian Martin">
 </figure>
 
 Julian opened his presentation by acknowledging that he felt privileged and humbled to be a part of this wonderful group of Urantia Book students. To set the tone of the conference theme he asked everyone to join him as he read a passage from _The Urantia Book_.
@@ -185,8 +185,7 @@ William Wentworth, Canberra ACT
 
 Recently, an article in Mighty Messenger, Spring 2021 attracted my attention. Written by Gary Tonge, an American reader, it was pointing out that the Lucifer Rebellion did not claim any of the ascendent personalities who were Jerusem citizens at the time. These numbered 187,432, 811.
 
-
-> _It was over two years of system time from the beginning of the “war in heaven” until the installation of Lucifer’s successor. But at last the new Sovereign came, landing on the sea of glass with his staff. I was among the reserves mobilized on Edentia by Gabriel, and I well remember the first message of Lanaforge to the Constellation Father of Norlatiadek. It read: “Not a single Jerusem citizen was lost. Every ascendant mortal survived the fiery trial and emerged from the crucial test triumphant and altogether victorious.” And on to Salvington, Uversa, and Paradise went this message of assurance that the survival experience of mortal ascension is the greatest security against rebellion and the surest safeguard against sin. This noble Jerusem band of faithful mortals numbered just 187,432,811._ <a id="a188_808"></a>[[UB 53:7.12](/en/The_Urantia_Book/53#p7_12)]
+_It was over two years of system time from the beginning of the “war in heaven” until the installation of Lucifer’s successor. But at last the new Sovereign came, landing on the sea of glass with his staff. I was among the reserves mobilized on Edentia by Gabriel, and I well remember the first message of Lanaforge to the Constellation Father of Norlatiadek. It read: “Not a single Jerusem citizen was lost. Every ascendant mortal survived the fiery trial and emerged from the crucial test triumphant and altogether victorious.” And on to Salvington, Uversa, and Paradise went this message of assurance that the survival experience of mortal ascension is the greatest security against rebellion and the surest safeguard against sin. This noble Jerusem band of faithful mortals numbered just 187,432,811._ <a id="a188_808"></a>[[UB 53:7.12](/en/The_Urantia_Book/53#p7_12)]
 
 [Read more](/en/article/William_Wentworth/Where_Are_They_All)
 <br style="clear:both;"/>
@@ -339,7 +338,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+        <a href="/en/index/articles_arena#the-arena-summer-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
         </a>
         </td>

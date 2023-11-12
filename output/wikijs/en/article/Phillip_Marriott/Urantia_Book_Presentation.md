@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>
@@ -37,7 +37,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 By Phillip Marriott, Adelaide, SA
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Arena/Master-Universe-GT.jpg" alt="Master Universe">
+<img src="/image/article/The_Arena/Master-Universe-GT-570x383.jpg" alt="Master Universe">
 </figure>
 
 ## Adelaide Body, Mind & Physic Expo
@@ -113,7 +113,7 @@ The Urantia Book – Urantia Foundation
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>

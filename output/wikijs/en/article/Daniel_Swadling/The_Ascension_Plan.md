@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+        <a href="/en/index/articles_arena#the-arena-summer-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
         </a>
         </td>
@@ -59,7 +59,7 @@ You are on a journey. You need to set some goals on what you want to achieve or 
 
 It has _long_ been wondered where we are going in this life, if there is any meaning to it and if there is any point. And we have been so kindly shown and reminded by the Urantia Papers that indeed there is a point, that in this life we are on a thrilling and essential journey that in actual fact goes beyond this earth, traverses the universe and has a destination at its centre.
 
-Paradise is _**the** _ Goal. _The Urantia Book_ states:
+Paradise is **the** Goal. _The Urantia Book_ states:
 
 > _…to mortals the most important thing about eternal Paradise is the fact that this perfect abode of the Universal Father is the **real** and far-distant destiny of the **immortal souls** of the mortal and material sons of God, the ascending creatures of the evolutionary worlds of time and space._ <a id="a63_300"></a>[[UB 11:9.8](/en/The_Urantia_Book/11#p9_8), emphasis added]
 
@@ -194,7 +194,7 @@ And finally:
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+        <a href="/en/index/articles_arena#the-arena-summer-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
         </a>
         </td>

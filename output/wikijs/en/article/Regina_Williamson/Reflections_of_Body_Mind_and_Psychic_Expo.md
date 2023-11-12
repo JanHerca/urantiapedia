@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>
@@ -37,7 +37,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 By Regina Williamson, VIC
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/IMG-20220707-WA0005-e1658988774944.jpg" alt="Regina Williamson">
+<img src="/image/article/The_Arena/IMG-20220707-WA0005-e1658988774944-300x225.jpg" alt="Regina Williamson">
 </figure>
 
 First my feelings of anticipation: It’s this weekend! I am excited about the whole thing: travel and expo on Saturday and Sunday, a totally new adventure for me. And what will we be doing there? We, meaning Phillip, the project manager, and Bevan and myself as assistants. We will be presenting God’s revelation to the world by sowing seeds!! We will be promoting the Father’s business and spreading the good news of Jesus’ gospel. Thank you, Phillip, for giving us this opportunity.
@@ -76,7 +76,7 @@ We concluded that expos like this are a great idea, and we should certainly do m
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>

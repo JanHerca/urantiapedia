@@ -19,7 +19,7 @@ dateCreated: 2023-11-05T01:11:28.972Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>
@@ -91,7 +91,7 @@ Susan Hemmingsen
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>

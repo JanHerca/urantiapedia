@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>
@@ -57,7 +57,7 @@ Our online study groups have been continuing every fortnight, which keeps us in 
 _From Neville Twist, Auckland, New Zealand_
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/Neville-22.jpg" alt="Neville Twist">
+<img src="/image/article/The_Arena/Neville-22-161x250.jpg" alt="Neville Twist">
 </figure>
 
 You must think that we kiwis are a hopeless lot, but not much has happened here for a while now – except rain, rain, rain! We still meet online (usually) every second week for our study group meeting. If all are in attendance, we number six. It is good to meet up and we enjoy each other’s company and contributions. If Trish and I are in Auckland, we try to hook up with Ian and Marion for a face-to-face meeting, which is always wonderful. Trish and I spent seven weeks in the lower North Island and the South Island earlier this year and managed to catch up in-person with Doug and Francis in Wellington. As we travelled around, we had some interesting conversations with random people we met ‘as we passed by’. There were two memorable ones – one about cosmology under a brilliant night sky – the other about life after death with two guys we met at a cafe. One never knows when a truth seeker will come your way, so seize the moment and share the good news of Jesus with as many people as you can. It is probably worth noting that five kiwis attended the ANZURA conference in Hobart – a record at one conference (with the possible exemption of Robertson), I will be attending this year’s conference in Sydney conference; hopefully more from New Zealand will be there too.
@@ -77,7 +77,7 @@ You must think that we kiwis are a hopeless lot, but not much has happened here 
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>

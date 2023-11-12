@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>
@@ -69,7 +69,7 @@ Another place to look up secondary works from our own ANZURA members and various
 
 These articles come about through long and deep thinking over issues that are very close to the hearts of the writers – mostly our ANZURA siblings – and we would do well to at least have a look at them and perhaps comment and have dialogue with their authors by emailing [anzura.urantia@gmail.com](mailto:anzura.urantia@gmail.com)
 
-The latest works uploaded to the site are from Neil Francey – [_On the Claim of Revelatory Status – Past, Present and Future_](/en/article/Neil_Francey/On_the_Claim_of_Revelatory_Status) ([ANZURE page](https://anzura.urantia-association.org/2023/05/19/on-the-revelatory-status-past-present-and-future/)), which we introduce in this _Arena_. Another is from Julian McGarry; [_The Unfinished Business of the Fourth Epochal Revelation_](/en/article/Julian_McGarry/The_Unfinished_Business_of_the_Fourth_Epochal_Revelation) ([ANZURA page](https://anzura.urantia-association.org/2023/05/19/the-unfinished-business-of-the-fourth-epochal-revelation/)), where Julian tackles the question that many readers ask themselves: Are we, as Urantia Book readers and organisations on the right track with what we are supposed to be doing while holding, or safe-keeping, such a treasured revelation in our hands? Some of us feel the need to become more active and engaged with such conundrums, while others choose to think and pray about what they can do in their personal lives ‘behind the scene’ as such. It’s a good topic that we can at least talk about together; to discuss and uplift one other.
+The latest works uploaded to the site are from Neil Francey – [_On the Claim of Revelatory Status – Past, Present and Future_](/en/article/Neil_Francey/On_the_Revelatory_Status) ([ANZURE page](https://anzura.urantia-association.org/2023/05/19/on-the-revelatory-status-past-present-and-future/)), which we introduce in this _Arena_. Another is from Julian McGarry; [_The Unfinished Business of the Fourth Epochal Revelation_](/en/article/Julian_McGarry/The_Unfinished_Business_of_the_Fourth_Epochal_Revelation) ([ANZURA page](https://anzura.urantia-association.org/2023/05/19/the-unfinished-business-of-the-fourth-epochal-revelation/)), where Julian tackles the question that many readers ask themselves: Are we, as Urantia Book readers and organisations on the right track with what we are supposed to be doing while holding, or safe-keeping, such a treasured revelation in our hands? Some of us feel the need to become more active and engaged with such conundrums, while others choose to think and pray about what they can do in their personal lives ‘behind the scene’ as such. It’s a good topic that we can at least talk about together; to discuss and uplift one other.
 
 At this year’s conference a detailed catalogue will be available of the secondary works we purchased last year. Some of these publications are artistically beautiful, while others are intellectually stimulating and spiritually uplifting, making some of the harder concepts in _The Urantia Book_ a bit clearer in our minds. The latest book that is a good example of this is _The God Experience_ written by Mark Bonair from Canada.
 
@@ -94,7 +94,7 @@ Rita
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>
@@ -135,7 +135,7 @@ Thank you for cooperating in the Spirit of Truth!
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>

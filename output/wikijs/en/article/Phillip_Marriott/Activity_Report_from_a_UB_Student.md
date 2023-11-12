@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>
@@ -41,6 +41,7 @@ By Phillip Marriott, SA
 </figure>
 
 Being a student of _The Urantia Book_ has inspired me to think of ways I can be of service to the revelation. I have found a few things that suit my skill levels, so I’d like to share with you some of my Urantia related activities in this neck of the woods namely, regular book promotions, weekly online Study Group, and my responsibilities and duties in Urantia Association International.
+<br style="clear:both;"/>
 
 ## 1\. Regular Book Promotion
 
@@ -94,7 +95,7 @@ So other than my own personal studies, I continue to run my business and sociali
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>

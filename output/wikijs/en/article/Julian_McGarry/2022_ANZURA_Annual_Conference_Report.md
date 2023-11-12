@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+        <a href="/en/index/articles_arena#the-arena-summer-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
         </a>
         </td>
@@ -88,7 +88,7 @@ Julian McGarry
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+        <a href="/en/index/articles_arena#the-arena-summer-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
         </a>
         </td>

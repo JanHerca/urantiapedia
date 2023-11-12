@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+        <a href="/en/index/articles_arena#the-arena-summer-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
         </a>
         </td>
@@ -36,15 +36,16 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 By Julian McGarry, Hobart - Presented at Canberra Conference on September 28, 2019
 
+## The Challenge of Choice
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Julian-McGarry-2016-253x300.jpg" alt="Julian McGarry">
 </figure>
 
-## The Challenge of Choice
-
 As a clinical psychologist, I often present my clients with the assertion: “Most of our life is spent in a _mindless_ state!” This is usually met with expressions of bemusement or puzzlement, or a knowing nod of the head. But what am I getting at when I make such a bold claim? The word “mindless” conjures up other words that add shade and texture to the underlying meaning: trance, automaton, mechanistic, and zombie. All these words aptly describe the human mind’s default condition. Even when we’re awake or “conscious”, we are in a perpetual state of ‘mind drift’; our minds seem to function independent of conscious choice. We have a sense that our minds just do their own thing, following their own agenda, while we as ‘personalities’ just go along for the ride!
 
 One of the big names in the mindfulness movement, Jon Kabat-Zinn, made the following statement: “When unattended, our thinking runs our lives without our even knowing it.” (Coming to Our Senses, p. 406) A moment’s reflection will undoubtedly attest to the disturbing truth embodied in this aphorism. The human mind or _ego_ seems to have a mind of its own which we often feel powerless to control. This has profound ramifications for life as we live it on this planet, Urantia. But what are its implications with regard to our prospects of future life beyond this mortal existence?
+<br style="clear:both;"/>
 
 _The Urantia Book_ presents us with this challenge:
 
@@ -191,8 +192,8 @@ In the microcosm of our personal mind experience, we can participate and coopera
 We have been blessed with the gift of personality from the Universal Father, which means that we have the ability and responsibilty to choose our destiny through the decisions we make within the mind arena in which we live as personalities. <a id="a190_241"></a>[[UB 111:1.3](/en/The_Urantia_Book/111#p1_3); page 1216.4\] Let us resolve to choose the divine life and forsake the ‘self’ life. Let us be determined like Jesus, to be self-forgetful and to make it our will to do the Father’s will. Let us aspire to God consciousness by being receptive to the leadings and urges of our Thought Adjusters in the realm of superconsciousness.
 
 > _The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. **Man’s greatest adventure in the flesh** consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness — contact with the divine presence. Such an experience constitutes God-consciousness, an experience mightily confirmative of the pre-existent truth of the religious experience of knowing God. Such spirit-consciousness is the equivalent of the knowledge of the actuality of sonship with God. Otherwise, the assurance of sonship is the experience of faith._ <a id="a192_752"></a>[[UB 196:3.34](/en/The_Urantia_Book/196#p3_34); emphasis added]
->
-> ## References
+
+## References
 
 - Article of the newsletter online: https://anzura.urantia-association.org/2019/09/28/mind-over-matter-spirit-over-mind
 
@@ -206,7 +207,7 @@ We have been blessed with the gift of personality from the Universal Father, whi
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2019">
+        <a href="/en/index/articles_arena#the-arena-summer-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2019 — Index</span>
         </a>
         </td>

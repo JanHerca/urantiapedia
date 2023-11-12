@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+        <a href="/en/index/articles_arena#the-arena-autumn-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
         </a>
         </td>
@@ -83,7 +83,7 @@ To grasp, enjoy and embrace all my ties
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2019">
+        <a href="/en/index/articles_arena#the-arena-autumn-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2019 — Index</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>
@@ -81,6 +81,7 @@ Here’s what Mark had to say about his **Burmese adventure**:
 </figure>
 
 Mark’s other “claim-to-fame” among many Urantia Book students was his pioneering work with the development of what is now known as “FreeSchools World Literacy.” Many readers who were associated with Mark came to know about his FreeSchools work in India and were inspired to support and become involved. Here’s a bit of history of the schools’ development in the early years (taken from the FreeSchools website, see [https://freeschools.org](https://freeschools.org/)):
+<br style="clear:both;"/>
 
 > _1997: In Motihari, Bihar, India, one of the poorest, most populated and backward parts of India, Sr. Mary Crescence, a Catholic nun of the order of the Sisters of the Sacred Heart, needed help to fund her dream of a free evening school, using borrowed space after hours, to educate those children too poor to access formal education. Following a chance meeting in Calcutta, Englishman Mark Bloomfield, a volunteer with Mother Teresa, provided Sr. Crescence funds to start the first school. For three years, both financial and moral support came from Mark. In 2000, Australian Dr. Robert Coenraads also became involved after visiting the school with Mark. Their joint help ensured the development of two schools and a very successful model. “School-on-a-shoestring” provided basic literacy skills to impoverished but bright and enthusiastic village children. Thanks to an introduction by Mark’s Australian friend Kathleen Swadling to Canadian Sue Tennant, Mark brought the challenge to Canada to replicate the model in both Bihar and among Hill Tribes in Northern Thailand._
 
@@ -122,7 +123,7 @@ _Here are some fond memories of Mark’s visit to Australia for the 2006 Urantia
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>

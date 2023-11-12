@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+        <a href="/en/index/articles_arena#the-arena-summer-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
         </a>
         </td>
@@ -37,7 +37,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 By Daniel Swadling, Sydney NSW
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Arena/Daniel-22.jpg" alt="Daniel Swadling">
+<img src="/image/article/The_Arena/Daniel-22-424x570.jpg" alt="Daniel Swadling">
 </figure>
 
 (Presented at the 2022 ANZURA Conference in Tasmania)
@@ -176,7 +176,7 @@ During one of the Master’s appearances after his death to the Jerusalem group 
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+        <a href="/en/index/articles_arena#the-arena-summer-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
         </a>
         </td>

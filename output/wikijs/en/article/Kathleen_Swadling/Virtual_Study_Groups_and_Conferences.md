@@ -19,7 +19,7 @@ dateCreated: 2023-11-05T01:11:28.972Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>
@@ -53,7 +53,9 @@ The era of virtual study groups and conferences is upon us! With the entire worl
 
 Those who were able to check in during their “awake” hours would have seen how they operate; 24 hourly presentations were scheduled where the presenter would share their material just as they would in a face-to-face meeting. They were able to present graphics, videos, and Power Point presentations just as they would in a physical meeting, as well as conducting interactive discussions. For those who chose to keep their videos turned on meant that people could see and talk with one an another. So many marvelled at being able to see and catch up with old friends they hadn’t seen in years.
 
-The presentations were recorded and the ones from the first meeting have been uploaded to [Urantia Association’s YouTube channel](https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA/) (the second batch are in the process of being prepared for uploading.) Check them out in the Play Lists!
+The presentations were recorded and the ones from the first meeting have been uploaded to _Urantia Association’s YouTube channel_ (see below) (the second batch are in the process of being prepared for uploading.) Check them out in the Play Lists!
+
+https://www.youtube.com/channel/UC_a2gwYGKpctnii4_nx8_vA/
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/The_Arena/Screenshot-2020-05-12-14.29.17-570x321.jpg" alt="Screenshot">
@@ -81,7 +83,7 @@ Several regular study groups around Australia and New Zealand have become virtua
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>

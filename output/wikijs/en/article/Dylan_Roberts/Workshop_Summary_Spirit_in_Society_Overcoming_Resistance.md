@@ -19,7 +19,7 @@ dateCreated: 2023-11-05T01:11:28.972Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>
@@ -43,6 +43,7 @@ By Dylan Roberts, ACT
 At the 2019 Canberra Urantia Conference, I facilitated a workshop titled _Spirit in Society – Overcoming Resistance_, where the intention was to look at some common atheistic objections (in the form of questions),  and see what we could come up with in terms of what _The Urantia Book_ teaches on these problems and what we could potentially say when facing such objections.
 
 The attendees were divided into three groups, and each group attempted to answer one of the common objections, given 30 minutes to do so. Afterwards, the group leaders were given an opportunity to report back to everybody.  I’ll now attempt to summarize the group answers produced during the workshop:
+<br style="clear:both;"/>
 
 ## Group A
 
@@ -114,7 +115,7 @@ Canberra
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>

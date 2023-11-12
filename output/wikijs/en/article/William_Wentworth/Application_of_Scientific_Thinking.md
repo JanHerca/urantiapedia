@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+        <a href="/en/index/articles_arena#the-arena-winter-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
         </a>
         </td>
@@ -109,7 +109,7 @@ It took many centuries for the reverse to happen—that is for revelatory techni
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+        <a href="/en/index/articles_arena#the-arena-winter-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
         </a>
         </td>

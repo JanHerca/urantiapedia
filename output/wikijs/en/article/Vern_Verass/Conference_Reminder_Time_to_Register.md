@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>
@@ -69,7 +69,7 @@ For more information and registration details you can either:
 
 <a href="http://anzura.urantia-association.org/wp-content/uploads/sites/3/2019/04/ANZURAConf2019-broch.pdf">
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Arena/Greenhills-Conference-Centre-570x144.jpg" alt="Greenhills Conference Centre">
+<img src="/image/article/The_Arena/Screenshot-front-brochure-279x570.jpg" alt="Screenshot">
 </figure>
 </a>
 
@@ -87,7 +87,7 @@ For more information and registration details you can either:
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2019">
+        <a href="/en/index/articles_arena#the-arena-winter-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2019 — Index</span>
         </a>
         </td>

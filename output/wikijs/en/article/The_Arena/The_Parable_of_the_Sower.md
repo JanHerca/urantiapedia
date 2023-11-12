@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+        <a href="/en/index/articles_arena#the-arena-spring-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
         </a>
         </td>
@@ -127,7 +127,7 @@ I keep thinking it is about Jesus’ mission to sow the seeds – the Gospel –
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-spring-2020">
+        <a href="/en/index/articles_arena#the-arena-spring-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Spring 2020 — Index</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+        <a href="/en/index/articles_arena#the-arena-winter-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
         </a>
         </td>
@@ -86,7 +86,7 @@ I hope you enjoy this issue of the _Arena_. Thank you all and go in peace, but a
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+        <a href="/en/index/articles_arena#the-arena-winter-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
         </a>
         </td>

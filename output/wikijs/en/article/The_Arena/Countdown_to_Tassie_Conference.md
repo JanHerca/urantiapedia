@@ -14,12 +14,12 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Phillip_Mariott/Presidents_Report_Winter_2022">
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Winter_2022">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presidents Report – Winter 2022</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>
@@ -178,6 +178,7 @@ Email: [anzura.urantia](mailto:anzura.urantia@gmail.com)@kathleen
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Surrounds-570x570.jpg">
 </figure>
+<br style="clear:both;"/>
 
 ## References
 
@@ -188,12 +189,12 @@ Email: [anzura.urantia](mailto:anzura.urantia@gmail.com)@kathleen
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Phillip_Mariott/Presidents_Report_Winter_2022">
+        <a href="/en/article/Phillip_Marriott/Presidents_Report_Winter_2022">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Presidents Report – Winter 2022</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>

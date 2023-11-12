@@ -14,12 +14,12 @@ dateCreated: 2023-11-04T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Kathleen_Swadling/2021 ANZURA_Virtual_Conference_Report">
+        <a href="/en/article/Kathleen_Swadling/ANZURA_Virtual_Conference_Report">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2021 ANZURA Virtual Conference Report</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+        <a href="/en/index/articles_arena#the-arena-summer-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
         </a>
         </td>
@@ -119,9 +119,7 @@ It had been half a year since Jesus ordained this group of twelve to be public p
 
 This episode of being taken lightly, and then getting a shot of fresh insight about the power and purpose of Love, effectively inoculated the apostles against the _virus of despair_. But getting back to this idea, of the Universal Father ruling a universe of universes by the compelling power of his Love, are we to take this literally? Does the Father’s technique – for ruling a universe of universes – actually depend… on _Love_ ?
 
-“A simple way to see what’s going on…” is to see this third clip, again from Part 3 of our video series, from time 7:28 \[ [https://www.youtube.com/watch?v=SB7GB\_isujM&t=448s](https://www.youtube.com/watch?v=SB7GB_isujM&t=448s) \]. Here we see how _The Urantia Book_ sets the stage. Our Father gives us this moment, this time and place in which to personalize his Adjuster, to choose to zip together our atom of **Personality** with the fragment of his **Love Incarnate** in our soul, …
-
-https://www.youtube.com/watch?v=SB7GB_isujM&t=448s
+“A simple way to see what’s going on…” is to see this third clip, again from Part 3 of our video series, from time 7:28 (see below). Here we see how _The Urantia Book_ sets the stage. Our Father gives us this moment, this time and place in which to personalize his Adjuster, to choose to zip together our atom of **Personality** with the fragment of his **Love Incarnate** in our soul, … https://www.youtube.com/watch?v=SB7GB_isujM&t=448s
 
 Assuming success, we emerge from this extraordinary womb of space and time, ready to engage a larger universe in a non-trivial way.
 
@@ -138,12 +136,12 @@ _Nigel Nunn, October 2021_
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Kathleen_Swadling/2021 ANZURA_Virtual_Conference_Report">
+        <a href="/en/article/Kathleen_Swadling/ANZURA_Virtual_Conference_Report">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">2021 ANZURA Virtual Conference Report</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2021">
+        <a href="/en/index/articles_arena#the-arena-summer-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2021 — Index</span>
         </a>
         </td>

@@ -16,7 +16,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>
@@ -36,7 +36,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Arena/Spring-Flowers-1-scaled-e1687741737348.jpg" alt="Spring Flowers">
+<img src="/image/article/The_Arena/Spring-Flowers-1-scaled-e1687741737348-570x380.jpg" alt="Spring Flowers">
 </figure>
 
 ## In This Issue
@@ -151,7 +151,7 @@ The question I asked myself over and over again is how do people – how do we �
 Jeff and Mahtab, USA
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/asia-cascade-clean-788200-scaled-e1687827176484.jpg" alt="cascade">
+<img src="/image/article/The_Arena/asia-cascade-clean-788200-scaled-e1687827176484-456x570.jpg" alt="cascade">
 </figure>
 
 _(This is a dialogue between Jeff and Mathab that was presented via Zoom at the 2022 ANZURA Conference in Tasmania.)_
@@ -329,7 +329,7 @@ To view current and past issues of the _Arena_ [click here](https://anzura.urant
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>

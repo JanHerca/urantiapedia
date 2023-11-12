@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+        <a href="/en/index/articles_arena#the-arena-summer-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
         </a>
         </td>
@@ -37,7 +37,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 Julian McGarry, Hobart TAS
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Arena/Fingers-Touching-e1673047656939.jpg" alt="Fingers Touching">
+<img src="/image/article/The_Arena/Fingers-Touching-e1673047656939-570x308.jpg" alt="Fingers Touching">
 </figure>
 
 _Julian was the main organiser of_ _the 2022 ANZURA Conference in Tasmania_ _and opened with this keynote address._
@@ -179,7 +179,7 @@ Jesus’ simple but profound message to the world was all about the ROPE. What a
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+        <a href="/en/index/articles_arena#the-arena-summer-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
         </a>
         </td>

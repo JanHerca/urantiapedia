@@ -16,7 +16,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+        <a href="/en/index/articles_arena#the-arena-summer-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
         </a>
         </td>
@@ -36,7 +36,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 </figure>
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/The_Arena/Waterdrop-e1673227449682.jpg" alt="Waterdrop">
+<img src="/image/article/The_Arena/Waterdrop-e1673227449682-570x318.jpg" alt="Waterdrop">
 </figure>
 
 ## In This Issue
@@ -122,7 +122,7 @@ Most of the conference was accessible via Zoom, which enabled visitors who were 
 Julian McGarry, Hobart TAS
 
 <figure id="Figure_6" class="image urantiapedia">
-<img src="/image/article/The_Arena/Fingers-Touching-e1673047656939.jpg" alt="Fingers Touching">
+<img src="/image/article/The_Arena/Fingers-Touching-e1673047656939-570x308.jpg" alt="Fingers Touching">
 </figure>
 
 _Julian was the main organiser of_ _the 2022 ANZURA Conference in Tasmania_ _and opened with this keynote address._
@@ -145,7 +145,7 @@ An extraordinary challenge, to say the least! We are further told that Michael, 
 Daniel Swadling, Sydney NSW
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/Daniel-22.jpg" alt="Daniel Swadling">
+<img src="/image/article/The_Arena/Daniel-22-424x570.jpg" alt="Daniel Swadling">
 </figure>
 
 (Presented at the 2022 ANZURA Conference in Tasmania)
@@ -170,7 +170,7 @@ Jesus came to liberate us from stagnant nationalistic and spiritually impoverish
 Neville Twist, Auckland NZ
 
 <figure id="Figure_9" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/Neville-22.jpg" alt="Neville Twist">
+<img src="/image/article/The_Arena/Neville-22-300x265.jpg" alt="Neville Twist">
 </figure>
 
 _(Presented at the 2022 ANZURA Conference in Tasmania)_
@@ -273,7 +273,7 @@ To view current and past issues of the _Arena_ [click here](https://anzura.urant
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2022">
+        <a href="/en/index/articles_arena#the-arena-summer-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2022 — Index</span>
         </a>
         </td>

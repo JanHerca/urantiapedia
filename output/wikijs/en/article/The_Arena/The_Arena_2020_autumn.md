@@ -16,7 +16,7 @@ dateCreated: 2023-11-05T01:11:28.972Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>
@@ -223,7 +223,7 @@ At its height, wisdom embraces truth, beauty and goodness as qualities anchored 
 Trevor Hughes, Nth QLD
 
 <figure id="Figure_12" class="image urantiapedia">
-<img src="/image/article/The_Arena/vANZURA-DIVINE-EARTH-PROJECT-by-Kim-S.-MacKenzie-300x222.jpg" alt="DIVINE EARTH PROJECT">
+<img src="/image/article/The_Arena/ANZURA-DIVINE-EARTH-PROJECT-by-Kim-S.-MacKenzie-300x222.jpg" alt="DIVINE EARTH PROJECT">
 </figure>
 
 Our souls adrift
@@ -289,6 +289,7 @@ Anzura Admin
 
 <figure id="Figure_15" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/Sydney-study-group-300x225.jpg" alt="Study Group Contacts">
+</figure>
 
 Not all of these hosts actually run a regular study group but all of them are willing to host one for anyone who would like to meet.
 
@@ -308,7 +309,7 @@ Some study groups include virtual participation via Zoom if you cannot meet face
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-autumn-2020">
+        <a href="/en/index/articles_arena#the-arena-autumn-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Autumn 2020 — Index</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>
@@ -37,7 +37,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 By Study Group Hosts on July 26, 2022July 29, 2022
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Arena/Paper-155-crop-scaled-e1658986509376.jpg" alt="Paper 155">
+<img src="/image/article/The_Arena/Paper-155-crop-scaled-e1658986509376-570x323.jpg" alt="Paper 155">
 </figure>
 
 ANZURA’s 2022 National Study Day was held on Saturday 18<sup>th</sup> June. Various study groups came together to study Paper 155 – _Fleeing Through Northern Galilee_. Following are some reflections from those who participated:
@@ -147,9 +147,6 @@ I have an old Urantia Book that I don’t use very often anymore as it started t
 
 Enjoy these photos from our day…
 
-<figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/20220618_114436-scaled.jpg">
-</figure>
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Arena/20220618_114445-scaled.jpg">
 </figure>
@@ -179,7 +176,7 @@ Enjoy these photos from our day…
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2022">
+        <a href="/en/index/articles_arena#the-arena-winter-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2022 — Index</span>
         </a>
         </td>

@@ -183,7 +183,7 @@ Again we see that mortals who sat in authority at the time of a revelation faile
 
 > _How these chief priests, scribes, Sadducees, and some of the Pharisees flattered themselves that Jesus, the disturber of their position and the challenger of their authority, was now securely in their hands! And they were resolved that he should never live to escape their vengeful clutches._ (<a id="s183_297"></a>[UB 184:3.3](/en/The_Urantia_Book/184#p3_3))
 
-## A Religion Has Misinterpreted A Revelation
+### A Religion Has Misinterpreted A Revelation
 
 The fact that the fifth revelation is in written form presents an interesting circumstance. It can be readily subjected to the conspiracies of a hostile world. The quotations above illustrate how that can be done. But in another way, it should prevent the many errors that are described in the quotes below.
 

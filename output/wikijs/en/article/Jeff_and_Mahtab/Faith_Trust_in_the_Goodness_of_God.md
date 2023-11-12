@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>
@@ -37,7 +37,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
 By Jeff and Mahtab, USA
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/asia-cascade-clean-788200-scaled-e1687827176484.jpg" alt="cascade">
+<img src="/image/article/The_Arena/asia-cascade-clean-788200-scaled-e1687827176484-456x570.jpg" alt="cascade">
 </figure>
 
 _(This is a dialogue between Jeff and Mathab that was presented via Zoom at the 2022 ANZURA Conference in Tasmania.)_
@@ -134,7 +134,7 @@ OK. That’s it. Next, we have a five-minute period of silence for you to allow 
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2023">
+        <a href="/en/index/articles_arena#the-arena-winter-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2023 — Index</span>
         </a>
         </td>

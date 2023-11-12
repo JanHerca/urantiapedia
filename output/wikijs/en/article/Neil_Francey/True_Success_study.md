@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+        <a href="/en/index/articles_arena#the-arena-winter-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
         </a>
         </td>
@@ -42,7 +42,7 @@ By Neil Francey, QLD
 ## The Harmonious Balance of Our Physical, Mental and Spiritual Energies
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/The_Arena/Neil-Francey-18-150x150.jpg" alt="Neil Francey">
+<img src="/image/article/The_Arena/Neil-Francey-18-243x300.jpg" alt="Neil Francey">
 </figure>
 
 The Papers in _The Urantia Book_ teach personal growth as the proportional expansion of the whole self. This creates the balance necessary to make progress towards self-mastery in all aspects of our living and being. That is, the harmonious balance of our physical, mental, and spiritual energies.
@@ -51,7 +51,7 @@ Books and courses which offer self-development are usually limited in their scop
 
 _True Success_ collates text in a study format by topic. This allows readers to gain an appreciation of some of the key concepts in the revelation. Preference is given to quotations that are relative to our everyday activities.
 
-_True Success_ completes the Trilogy of Topical Studies by Neil. The other two works are: [_Mota-vation_](https://anzura.urantia-association.org/2020/11/29/mota-vation/) and [_Universal Ethics_](https://anzura.urantia-association.org/2021/02/10/universal-ethics/).
+_True Success_ completes the Trilogy of Topical Studies by Neil. The other two works are: [_Mota-vation_](/en/article/Neil_Francey/Mota_vation) and [_Universal Ethics_](/en/article/Neil_Francey/Universal_Ethics).
 <br style="clear:both;"/>
 
 ## Excerpts from the Summary Part 1 of **True Success**
@@ -112,7 +112,7 @@ God is a living friend and a loving father. There is an exhilaration in having s
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-winter-2021">
+        <a href="/en/index/articles_arena#the-arena-winter-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Winter 2021 — Index</span>
         </a>
         </td>

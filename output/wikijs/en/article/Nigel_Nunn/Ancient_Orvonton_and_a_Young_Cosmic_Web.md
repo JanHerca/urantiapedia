@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+        <a href="/en/index/articles_arena#the-arena-summer-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
         </a>
         </td>
@@ -47,6 +47,7 @@ _The Urantia Book_ presents a cosmology that stirs the soul: a central and perfe
 Soul stirring indeed! A cosmology pervaded by meaning and value, eclipsing in its scope our finest Sci-fi. What a relief from the consensus materialist models that native science has managed to evolve.
 
 However, right after having thus stirred our souls, these authors pour cold water over our expectations. From Paper 101 section 4:
+<br style="clear:both;"/>
 
 > _…within a few short years many of our statements regarding the physical sciences will stand in need of revision…_ <a id="a50_117"></a>[[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)]
 
@@ -62,7 +63,9 @@ Recall that the “apparent speed of recession” of distant galaxies forms the 
 
 Which opens the door to an opportunity: that students of _The Urantia Book_ present a model of the cosmos that explains all the data and anomalies that (increasingly!) confuse and contradict current mainstream assumptions. One attempt to sketch the outlines of such a model is taking shape at this link:
 
-[Playlist – Urantia Book Cosmology](https://www.youtube.com/playlist?list=PLujf81__tQbQ_tAoVrvr6xOPm4XkZUStU)
+**Playlist – Urantia Book Cosmology**
+
+https://www.youtube.com/playlist?list=PLujf81__tQbQ_tAoVrvr6xOPm4XkZUStU
 
 Regarding the (missing) final video in this series, the _James Webb Space Telescope_ is due to be launched late this year (November 2021). Given what this (infrared-optimized) space telescope might reveal, video Part 4D is being tuned to predict a few simple but game-changing facts about our home spiral of stars, the ancient Milky Way. Stay tuned!
 
@@ -84,7 +87,7 @@ Nigel Nunn
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+        <a href="/en/index/articles_arena#the-arena-summer-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
         </a>
         </td>

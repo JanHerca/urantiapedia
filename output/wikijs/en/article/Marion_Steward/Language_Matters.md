@@ -19,7 +19,7 @@ dateCreated: 2023-11-04T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+        <a href="/en/index/articles_arena#the-arena-summer-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
         </a>
         </td>
@@ -104,7 +104,7 @@ Research into some of these words can reveal the drop in use over the past few d
 Definition: lacking the normal mental powers. Medicine/Medical. (no longer in technical use) mentally deficient, stupid or foolish; not sensible: **feeble**–**minded** remarks. (www.dictionary.com) [5 mentions in _The Urantia Book_]
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/The_Arena/Picture2-300x127.png" alt="Picture">
+<img src="/image/article/The_Arena/Picture2-570x242.png" alt="Picture">
 </figure>
 
 As this Ngram shows, ‘feeble-minded’ was used a lot in the 1920s, but then started decreasing and pretty much disappeared from use around 2005.
@@ -116,7 +116,7 @@ Definition: (from Google):
 1. imperfect or faulty. 2. dated offensive – having mental disabilities. [17 mentions in _The Urantia Book_]
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/The_Arena/Picture3-300x104.png" alt="Picture">
+<img src="/image/article/The_Arena/Picture3-570x198.png" alt="Picture">
 </figure>
 
 There is a slightly different pattern of use for this word, as it is used to describe machinery, as well as people, and thus took longer to become the apparently obsolete word it is today.
@@ -126,7 +126,7 @@ There is a slightly different pattern of use for this word, as it is used to des
 Definition: an immoral or corrupt person. (Google) [14 mentions in _The Urantia Book_]
 
 <figure id="Figure_5" class="image urantiapedia">
-<img src="/image/article/The_Arena/Picture4-300x125.png" alt="Picture">
+<img src="/image/article/The_Arena/Picture4-570x237.png" alt="Picture">
 </figure>
 
 As a noun, this word refers to an immoral person. As a verb it is still used in technology and health e.g. “her condition degenerated”.
@@ -181,7 +181,7 @@ In the end, communication is mostly between individuals, and I feel that here we
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_arena#the-arena-–-summer-2020">
+        <a href="/en/index/articles_arena#the-arena-summer-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">The Arena – Summer 2020 — Index</span>
         </a>
         </td>

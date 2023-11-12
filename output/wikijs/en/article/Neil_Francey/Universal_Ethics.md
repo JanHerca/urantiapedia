@@ -20,7 +20,8 @@ dateCreated: 2023-11-05T01:11:28.972Z
 		<rect style="display:inline;fill:#0e66a1;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="22">Neil Francey</text>
 		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="60">Universal Ethics</text>
-		<text style="font-size:7px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="70">Concepts from The Urantia Book</text>
+		<text style="font-size:7px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="70">Concepts from</text>
+		<text style="font-size:7px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="78">The Urantia Book</text>
 	</g>
 </svg>
 </div>
