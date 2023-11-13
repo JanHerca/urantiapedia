@@ -3,6 +3,7 @@
 This is a list of tags that can be used to annotate any page in Urantiapedia. Tags are in title case but they are stored in the system always in lowercase
 
 3D Model
+6-0-6
 Abortion
 Adjutant mind spirits
 Advanced Studies

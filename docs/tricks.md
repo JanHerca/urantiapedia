@@ -210,22 +210,28 @@ How to preview images in a Markdown: replace `src="/image` with `src="../../../o
 
 `!\[(.+)\]\((.+) "(.+)"\)` =>
 
-`<figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="$1">`
-`<img src="$2">`
-`<figcaption><em>$3</em></figcaption>`
-`</figure>`
+```html
+<figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="$1">
+<img src="$2">
+<figcaption><em>$3</em></figcaption>
+</figure>
+```
 
 `!\[(.+)\]\((.+)\)` => 
 
-`<figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="$1">`
-`<img src="$2">`
-`</figure>`
+```html
+<figure id="Figure_1" class="image urantiapedia image-style-align-left" alt="$1">
+<img src="$2">
+</figure>
+```
 
 `!\[\]\((.+)\)` =>
 
-`<figure id="Figure_1" class="image urantiapedia image-style-align-left">`
-`<img src="$1">`
-`</figure>`
+```html
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
+<img src="$1">
+</figure>
+```
 
 ## Google Translator common fails
 

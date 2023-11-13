@@ -304,7 +304,7 @@ class Articles {
 			"è": "e"
 		};
 		const correction2 = {
-			"[\\.,\\(\\)—\\-]": "",
+			"[\\.,–\\(\\)—\\-]": "",
 			"( +)": "-"
 		};
 		return new Promise((resolve, reject) => {
