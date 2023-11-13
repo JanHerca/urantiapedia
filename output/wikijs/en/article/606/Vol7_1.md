@@ -154,9 +154,9 @@ William Wentworth, Towamba, N.S.W.
 
 It has been suggested that Australia is the Western World's most secular nation. I leave it to you, to decide whether this is true or false. But another survey done a few years ago, came up with the conclusion that Australians are the happiest people in the world. Again is this true or false? We could start drawing all sorts of conclusions from these statements, if we took them seriously.
 
-If we compare ourselves with countries like India, Iran, Pakistan and $a$ few other ones, where religion plays such an important part in the lives of people, we could say that we are better off without it. It is perhaps true that we do not want to go back to the stage where the religions of fear held people in their grip.
+If we compare ourselves with countries like India, Iran, Pakistan and a few other ones, where religion plays such an important part in the lives of people, we could say that we are better off without it. It is perhaps true that we do not want to go back to the stage where the religions of fear held people in their grip.
 
-Are we going through that interim period, where we have let go of the evolutionary religion of fear, but stili haven ' $t$ grasped the revelatory religion of love?
+Are we going through that interim period, where we have let go of the evolutionary religion of fear, but stili haven ' t grasped the revelatory religion of love?
 
 You only have to look and listen to our daily news, that dishes up our social ailments to the point of saturation, to know that this is indeed the case.
 

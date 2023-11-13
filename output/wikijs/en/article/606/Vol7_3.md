@@ -136,7 +136,7 @@ To order your copy send your cheque or money order for $12.00 per copy plus $2.0
 
 ## A Rendezvous With Michael
 
-“The remembrance supper is the believer's symbolic rendezvous with Michael. Then you become thus spirit-conscious, the son is actually present, and his spirit fraternizes with the indwelling fragment of his Pather.” ([UB 179:5.6](/en/The_Urantia_Book/179#p5_6))
+“The remembrance supper is the believer's symbolic rendezvous with Michael. Then you become thus spirit-conscious, the son is actually present, and his spirit fraternizes with the indwelling fragment of his Father.” ([UB 179:5.6](/en/The_Urantia_Book/179#p5_6))
 
 On Sunday 6^th^ April the Melbourne Study Group members will hold a Remembrance Supper at 2 Salisbury Crt, Glen Waverley from 2.00 p.m. Everyone is welcome to attend. Please assist with catering by bringing a dish. Tel. 561 6089. for any other details.
 

@@ -110,7 +110,7 @@ So it is pleasing to announce a new study group in Atherton, Queensland. Geoff H
 
 There probably is an English proverb that means the equivalent of: ‘An ounce of experience is better than a pound of theory’, or shall we stay metric and say a gram is better than a kilo?
 
-The whole idea for this article came to me the day a very well-meaning friend rang me and suggested that I might like to listen to $a$ radio program about : ‘How to answer children's questions’.
+The whole idea for this article came to me the day a very well-meaning friend rang me and suggested that I might like to listen to a radio program about : ‘How to answer children's questions’.
 
 But it was when she added: ‘They probably mean questions about the facts of life’, that I became rather surprised and a little annoyed. For here was a person who never had any children, suggesting that I, a mother of three sons, the eldest one 25 , was in need of listening to such a program, or that's the way I took it. I finished up thinking what an invaluable thing experience is.
 
