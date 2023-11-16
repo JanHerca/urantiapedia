@@ -100,7 +100,7 @@ Curiously we recognize now that whereas once we wanted to invite the entire univ
 
 It is the abode of clearly knowing ourself, in the presence of God. It is the goal of the seeking heart, and its serenity and lucidity easily provokes simple and appropriate thought, kindly feelings, realistic aspirations, unhurried growth, a return to fundamentals and the realization that it is a supremely gentle heart and mind which discerns the presence and will of God. The needle has been threaded.
 
-Fron this vantage point truth observes others traversing similar steps that we ourselves covered. It sees many who energetically evangelize the gospel of threading the needle who are yet to give even a passing glance at the actual needle. It sees others who in faith have made a wild leap for the rope, hanging on by the skin of their teeth. With every passing mood or whin they shake their rope so violently as to almost dislodge themselves. And they do this in the name of their quest; thinking that the more they do the closer they'll cone to doing the will of God.
+From this vantage point truth observes others traversing similar steps that we ourselves covered. It sees many who energetically evangelize the gospel of threading the needle who are yet to give even a passing glance at the actual needle. It sees others who in faith have made a wild leap for the rope, hanging on by the skin of their teeth. With every passing mood or whin they shake their rope so violently as to almost dislodge themselves. And they do this in the name of their quest; thinking that the more they do the closer they'll cone to doing the will of God.
 
 It sees man's frustrations and fears and hostilities voicing “God told me to do it”, as some kind of feeble excuse, intended to justify confusion mixed with the divine desire. It sees so much erratic rope-thumping which could be wholly avoided if only we would wait for God. Wait and be imbued with wholesomeness and sound wisdom; personality lifted to the heights of spiritual sovereignty; and without separating ourselves from the God whose will we have so genuinely sought, love with such intelligence and care that which we are and shall be, and those we meet ... in the light of who they are and who they shall become.
 
@@ -136,15 +136,15 @@ To save the world just love the person next to you.
 
 ## Urantia — Towards Light And Life
 
-Easier Way
+### Easier Way
 
-Oftentines Australians like to find the easy way to do things. There is the story of the Australian fisherman who worked out an easy way to catch fish in a stream, using his horse and cart. He drove his horse and cart right into the stream. He poured honey onto the horse's tail. Flies came to feed on the honey. The fish came and jumped up to catch the flies. Then the horse kicked the fish onto the cart.
+Oftentimes Australians like to find the easy way to do things. There is the story of the Australian fisherman who worked out an easy way to catch fish in a stream, using his horse and cart. He drove his horse and cart right into the stream. He poured honey onto the horse's tail. Flies came to feed on the honey. The fish came and jumped up to catch the flies. Then the horse kicked the fish onto the cart.
 
 The history of Urantia reads like a comedy of errors. Frequently, much of the progress that was made has been lost, and has had to be achieved all over again. I have been wondering if there is an easier way for Urantia to progress, and if it is really possible to achieve it. And I have also been wondering whether I can help, and in a significant way.
 
 ### Will
 
-Michael's own comnitment, during his bestowal on Urantia, was to reveal the will of the Father. And his life on Urantia was an extraordinary demonstration of desire to attune to the will of the Father.
+Michael's own commitment, during his bestowal on Urantia, was to reveal the will of the Father. And his life on Urantia was an extraordinary demonstration of desire to attune to the will of the Father.
 
 Personal outcomes are linked to my own act of will. A Thought Adjuster was bestowed in response to my first moral personality decision. And the Thought Adjuster, who demonstrates such divine love and extraordinary resourcefulness, is always subservient to my will.
 
@@ -219,15 +219,15 @@ Just hold on to your planets for a moment, there is more to come.
 
 When the ANGONA system came closer to our solar mass, THREE of its outer planets were captured by our system. Using my vast knowledge of mathematics: 12 + 3 = 15. Fifteen planets that is.
 
-So who has been playing planetary billiards with our solar systcm?
+So who has been playing planetary billiards with our solar system?
 
-Reading on further in _The URANTIA Book_, we find that the fifth planct was captured by Jupiter when traversing an irregular orbit and was fragmentized.
+Reading on further in _The URANTIA Book_, we find that the fifth planet was captured by Jupiter when traversing an irregular orbit and was fragmentized.
 
 FOURTEEN planets are now left.
 
 NINE accounted for by astronomers on Earth to this day.
 
-So now we enter the realms of almost camplete hypothesis. Here goes:
+So now we enter the realms of almost complete hypothesis. Here goes:
 
 One other planet was fragmentized by tidal friction by either Saturn or Jupiter.
 
@@ -239,7 +239,7 @@ To continue the saga I'll point out some relevant knowledge from our own Earth s
 
 Jupiter has 14 (?) moons orbiting this enormous gaseous planet which is more than eleven times the diameter of Earth.
 
-> “they were in reality secondary suns for a short period after their formation as separate space bodies.” (Jupiter and Saturn) [UB 57:5.10](/en/The_Urantia_Book/57#p5_10)
+> “...they were in reality secondary suns for a short period after their formation as separate space bodies.” (Jupiter and Saturn) [UB 57:5.10](/en/The_Urantia_Book/57#p5_10)
 
 > “Many of these enormous spheres have satellites, sometimes a half dozen or more, and these moons are often in size very near that of Urantia, so that they are almost ideal for habitation.” [UB 49:0.4](/en/The_Urantia_Book/49#p0_4)
 
@@ -251,11 +251,11 @@ Uranus is tilted at about 90&deg; to the ecliptic and has retrograde rotation. I
 
 > “Retrograde motion in any astronomic system is always accidental and always appears as a result of the collisional impact of foreign space bodies. Such collisions may not always produce retrograde motion, but no retrograde ever appears except in a system containing masses which have diverse origins.” [UB 57:5.14](/en/The_Urantia_Book/57#p5_14)
 
-The most important aspect is of course the life on the plancts.
+The most important aspect is of course the life on the planets.
 
 > “Beings such as the Urantia races are classified as mid-breathers; you represent the average or typical breathing order of mortal existence. If intelligent creatures should exist on a planet with an atmosphere similar to that of your near neighbour, Venus, they would belong to the superbreather group, while those inhabiting a planet with an atmosphere as thin as that of your outer neighbour, Mars, would be denominated subbreathers.” 
 > 
-> If mortals should inhabit a planet devoid of air, like your moon, they would belong to the separate order of nonbreathers." ( 112% of inhabited Satania worlds) [UB 49:2.13-14](/en/The_Urantia_Book/49#p2_13)
+> “If mortals should inhabit a planet devoid of air, like your moon, they would belong to the separate order of nonbreathers.” ( 112% of inhabited Satania worlds) [UB 49:2.13-14](/en/The_Urantia_Book/49#p2_13)
 
 > “You would be more than interested in the planetary conduct of this type of mortal because such a race of beings inhabits a sphere in close proximity to Urantia.” [UB 49:3.6](/en/The_Urantia_Book/49#p3_6)
 
@@ -276,11 +276,12 @@ Rod McCourt, Cockatoo, Vic.
 On page 656 of _The URANTIA Book_, we are informed that five inner planets, Jupiter, Saturn, and five outer planets formed the material drawn out from our sun by the passing Angona system. This adds up to 12 planets, but we are only taught about nine in school. Where are the other three?
 
 One of the missing planets is easy to account for. On page 658 we read that the fifth planet from the sun was pulled apart when it passed too close to Jupiter. The debris from this planet forms the present astroid belt that lies between Mars and Jupiter. This leaves two planets unaccounted for.
+
 Within the past several years, astronomers studying Pluto and its companion Charon have decided that Charon may not be a satellite of Pluto; this system may be two planets orbiting about a common point. If this is true, then only one planet is left unaccounted for..
 
 To understand how the 12th planet may be found, it is desirable to look at how several other planets were discovered. As astronomers studied the orbit of Uranus around the sun, they noted perturbations in its orbit. From this fact, the existence of another planet was predicted. In 1846, the planet responsible for these perturbations was discovered and named Neptune. Similarly, the orbit of Neptune was found to be perturbed. This triggered the search for the so-called planet X. The search for this turned up Pluto in 1930. Study of Pluto has however revealed that it is much too small to be Planet X. Some astronomers feel that there is something out there causing the perturbations, but have been unable to find it.
 
-An article in the 1988 issue of ASTRONOMY entitled 'The Pull of Planet X" discusses the possibility of another planet beyond the orbit of Jupiter. The Planet X hypothesis is not accepted by all astronomers, but most agree that something is disturbing the orbit of Neptune, and possibly Uranus as well. It could be the 12th planet, or it could be one of the massive dark islands of space referred to by _The URANTIA Book_. It could even be both of these possibilities. If that is the case, the astronomers ought to have a great time trying to sort it all out. The astronomers are diligently seeking the 12 th planet; perhaps we will soon be able to put it on our astronomical charts.
+An article in the 1988 issue of ASTRONOMY entitled “The Pull of Planet X” discusses the possibility of another planet beyond the orbit of Jupiter. The Planet X hypothesis is not accepted by all astronomers, but most agree that something is disturbing the orbit of Neptune, and possibly Uranus as well. It could be the 12th planet, or it could be one of the massive dark islands of space referred to by _The URANTIA Book_. It could even be both of these possibilities. If that is the case, the astronomers ought to have a great time trying to sort it all out. The astronomers are diligently seeking the 12th planet; perhaps we will soon be able to put it on our astronomical charts.
 
 Dick Bain, St. Petersburg, FL. U.S.A.
 
@@ -320,13 +321,13 @@ The Spanish translation is still progressing, although at a slower pace than ant
 
 Library Placement
 
-The URANTIA Foundation has offered an almost limitless supply of _The URANTIA Book_ and _Le Livre d'URANTIA_ for the library placement program. It has also agreed to pay for mass mailings to libraries. For more information readers outside of the U.S. should contact the International Fellowship Cormittee. Readers in the U.S. contact the Domestic Extension Cormittee, both at 533 Diversey Parkway, Chicago, IL. 60614, USA.
+The URANTIA Foundation has offered an almost limitless supply of _The URANTIA Book_ and _Le Livre d'URANTIA_ for the library placement program. It has also agreed to pay for mass mailings to libraries. For more information readers outside of the U.S. should contact the International Fellowship Committee. Readers in the U.S. contact the Domestic Extension Committee, both at 533 Diversey Parkway, Chicago, IL. 60614, USA.
 
-More and more letters are received describing how a new reader found the book in a library. If you have placed a book in a library, go and check it at least once a year. If it has gone 'walkabouts' the Foundation is happy to replace it. Just talk to the librarian first to see if they would like another copy.
+More and more letters are received describing how a new reader found the book in a library. If you have placed a book in a library, go and check it at least once a year. If it has gone ‘walkabouts’ the Foundation is happy to replace it. Just talk to the librarian first to see if they would like another copy.
 
 Erroneous Library Cataloguing
 
-Some libraries still incorrectly list _The URANTIA Book_ under its old Dewey Decinal classification number of 133 Parapsychology and Occultism. 'In 1975 the Foundation persuaded the Library of Congress to change the number to 299 Other Religions. Please check your library to see if the book is correctly listed.
+Some libraries still incorrectly list _The URANTIA Book_ under its old Dewey Decimal classification number of 133 Parapsychology and Occultism. 'In 1975 the Foundation persuaded the Library of Congress to change the number to 299 Other Religions. Please check your library to see if the book is correctly listed.
 
 ## Interfaith Symposium
 
@@ -340,17 +341,17 @@ It was a special occasion, although their patience, tolerance and nerves were tr
 
 ## News From Canada
 
-The 8th Geneva Park Conference in Orillia was held last June near Lake Couchiching. Urantia Book readers in Ontario had drafted a constitution for the proposed Couchiching Urantia Society of Ontario, which was adopted at the June conference. Executive officers and Cormittee Chairmen were also elected. Theme for the conference was: “Service, our Highest Motive”.
+The 8th Geneva Park Conference in Orillia was held last June near Lake Couchiching. Urantia Book readers in Ontario had drafted a constitution for the proposed Couchiching Urantia Society of Ontario, which was adopted at the June conference. Executive officers and Committee Chairmen were also elected. Theme for the conference was: “Service, our Highest Motive”.
 
 The Québec Conference
 
-Members of different study groups from French Canada met at Lac Beauport on the outskirts of Québec. It had been 4 years since the last encounter. The thene for the conference was'_The URANTIA Book_ In Our Daily Lives'. The Canadian newsletter “Prints of Peace” reported: “The provincial meeting was indeed a memorable one, for it reached exceptional spiritual heights which translated into deep joy in our souls. All participants expressed the hope that another provincial meeting be held in 1989”.
+Members of different study groups from French Canada met at Lac Beauport on the outskirts of Québec. It had been 4 years since the last encounter. The theme for the conference was'_The URANTIA Book_ In Our Daily Lives'. The Canadian newsletter “Prints of Peace” reported: “The provincial meeting was indeed a memorable one, for it reached exceptional spiritual heights which translated into deep joy in our souls. All participants expressed the hope that another provincial meeting be held in 1989”.
 
-Last fall, during a special meeting aimed at looking for new ways to structure the URANTIA movement in Québec, 16 readers agreed to form a 'service tean' whose goal would be to answer the needs of the readers of the province. In many respects the objectives resemble the ones of a society, but in Quebec they are not yet ready to join in the Brotherhood's system of Societies.
+Last fall, during a special meeting aimed at looking for new ways to structure the URANTIA movement in Québec, 16 readers agreed to form a ‘service team’ whose goal would be to answer the needs of the readers of the province. In many respects the objectives resemble the ones of a society, but in Quebec they are not yet ready to join in the Brotherhood's system of Societies.
 
-Next October, the 11th Book Fair will take place in Montréal. For the first time a stand has been leased and will read 'Les Lecteurs du Livre d'URANTIA'.
+Next October, the 11th Book Fair will take place in Montréal. For the first time a stand has been leased and will read ‘Les Lecteurs du Livre d'URANTIA’.
 
-A Concordex of Articles (Répertoire des Oeurres) has been completed which has been in the making for more than a year, It consists of a listing of 206 articles in French, from 44 authors. It includes a surmary of each article as well as the coordinates of the respective author. Its cost is $10 in Canada, $11 in the U.S. and $12 overseas.
+A Concordex of Articles (Répertoire des Oeurres) has been completed which has been in the making for more than a year, It consists of a listing of 206 articles in French, from 44 authors. It includes a summary of each article as well as the coordinates of the respective author. Its cost is $10 in Canada, $11 in the U.S. and $12 overseas.
 
 c/o Eric Gagnon, 2921 Providence, Ste-foy, P.Q., GIW 2 Cl, Canada.
 
@@ -360,7 +361,7 @@ There is also a Spiritual Sharing Group (Groupe de Partage Spirituel). This new 
 
 _The URANTIA Book_ is not used during these meetings but up to now members have always been, or become, readers of the book.
 
-Reflectivite is the French Canadian newsletter. It is published once a month and is mostly informative in nature. It is a single $81_{2}^{2} \times 14$ sheet typed on both sides and folded. The mailing list is currently 250. Distribution is free although donations are welcome.
+Réflectivité is the French Canadian newsletter. It is published once a month and is mostly informative in nature. It is a single 8&frac12; x 14 sheet typed on both sides and folded. The mailing list is currently 250. Distribution is free although donations are welcome.
 
 c/o Pierre Routhier, 4071 Edna, Verdun, P.Q., H4G 1Y6, Canada.
 
@@ -372,27 +373,27 @@ The cost of publishing and mailing each pamphlet is approximately US $.75 for si
 
 New Pamphlets:
 
-Achieving Forgiveness suggests a step-by-step method for forgiving the injuries and insults of life. By Kaye Cooper Action stresses the importance of overcoming hesitances in order to take action. It gives some hints for getting. started. By Adrienne Jarnigan and Gen Joyce,
+<ins>Achieving Forgiveness</ins> suggests a step-by-step method for forgiving the injuries and insults of life. By Kaye Cooper 
 
-Asking for the Mind of Jesus describes a very effective way to cope when you have exhausted all of your own resources. By Jonathon Johnson.
+<ins>Action</ins> stresses the importance of overcoming hesitances in order to take action. It gives some hints for getting. started. By Adrienne Jarnigan and Gen Joyce,
 
-Faith in God clarifies the rather abstract concept of faith and offers methods of exercising and strengthening your personal faith. By Kaye Cooper.
+<ins>Asking for the Mind of Jesus</ins> describes a very effective way to cope when you have exhausted all of your own resources. By Jonathon Johnson.
 
-Forgiving God explores the somewhat startling idea that you may have hidden resentments against God and provides very usable exercises to dissolve those resentments. By Billie Cooper.
+<ins>Faith in God</ins> clarifies the rather abstract concept of faith and offers methods of exercising and strengthening your personal faith. By Kaye Cooper.
 
-God's in the Shower provides a delightful insight into those times when it seems that God just is not listening. By Joanna Cassetti.
+<ins>Forgiving God</ins> explores the somewhat startling idea that you may have hidden resentments against God and provides very usable exercises to dissolve those resentments. By Billie Cooper.
 
-Group Decision Making introduces a God-centered way to function together effectively in small groups. By Kaye Cooper
+<ins>God's in the Shower</ins> provides a delightful insight into those times when it seems that God just is not listening. By Joanna Cassetti.
+
+<ins>Group Decision Making</ins> introduces a God-centered way to function together effectively in small groups. By Kaye Cooper
 
 Pamphlets Still Available
 
-Living the Spiritual Life explores your individual relationship with God and the effects it can have in your daily life. By Kaye and Bill Cooper.
+<ins>Living the Spiritual Life</ins> explores your individual relationship with God and the effects it can have in your daily life. By Kaye and Bill Cooper.
 
-Communicating Feelings describes a successful way to enhance the marriage relationship through the honest and loving sharing of each partner's feelings. By Tonmie Clendening.
+<ins>Communicating Feelings</ins> describes a successful way to enhance the marriage relationship through the honest and loving sharing of each partner's feelings. By Tommie Clendening.
 
-Friendship in Marriage discusses techniques essential for
-
-a mature and successful marriage. By Kaye Cooper.
+<ins>Friendship in Marriage</ins> discusses techniques essential for a mature and successful marriage. By Kaye Cooper.
 
 Contact: The Circles, P.0. Box 1203, Arlington TX 76004,USA.
 
@@ -401,12 +402,15 @@ Contact: The Circles, P.0. Box 1203, Arlington TX 76004,USA.
 URANTIA Foundation has given its permission for the distribution of a 630-line, 45-verse poem which begins with the history of Urantia, and moves through its five epochal revelations, through the ages of light and life into the unending universe ages of the future. The poem is available for $4 US which includes non-profit reproduction, covering, and mailing expenses. Contact:
 
 David Glass, 4324 Hulen Circle East
-
 Fort Worth IX 76133, U.S.A.
+
+---
 
 No soul is so hopelessly lost in darkness as is that soul which feels it has all the light.
 
-From: 'Quiet Talks With The Master' by Eva Bell Werber
+From: ‘Quiet Talks With The Master’ by Eva Bell Werber
+
+---
 
 Make of your own house a house of peace and all the world shall be peace about you.
 
