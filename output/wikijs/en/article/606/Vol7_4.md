@@ -42,7 +42,7 @@ Neil Francey, Melbourne
 
 I wish to reply to the proposers of the URANTIA Association in Australia, as a zealot interested in spreading the good news of The Revelation.
 
-I feel that zeal in combination with wisdom is the necessary ingredient for the Revelation to progress. I cannot understand that the proposed organisation of readers would want to bar this quality. Did Jesus lack zeal, and did he refuse even the overzealous from working with him?
+I feel that zeal in combination with wisdom is the necessary ingredient for the Revelation to progress. I cannot understand that the proposed organization of readers would want to bar this quality. Did Jesus lack zeal, and did he refuse even the overzealous from working with him?
 
 We all must agree that _The URANTIA Book_ Revelation is beginning its public phase of ministry, and I do agree that “good” institutions must evolve from this. The one point that I would emphasize is that we do not become overburdened by centralized structures.
 

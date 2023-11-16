@@ -26,7 +26,7 @@ Because of everyone's input, Six-0-Six is becoming a dynamic newsletter. As a re
 
 Mike Taylor, Jo Hausler and Ken Glasziou asked for articles on the origin of _the URANTIA Book_. We got permission to publish: ‘_The URANTIA Book_: The question of origin’
 
-Since then we have written to Meredith Sprunger to allow us to publish his pamphlet: ‘The Origin of The URANTIA Bock.’ Not only did Meredith give us the o.k., but to sent we another article: 'God's Presence in Action'. Christopher Billington asked us for an article on how to run a study group. We were able to obtain a few articles on that subject. One by Henri Begemann and one by Peter Webb.
+Since then we have written to Meredith Sprunger to allow us to publish his pamphlet: ‘The Origin of The URANTIA Bock.’ Not only did Meredith give us the o.k., but to sent we another article: ‘God’s Presence in Action'. Christopher Billington asked us for an article on how to run a study group. We were able to obtain a few articles on that subject. One by Henri Begemann and one by Peter Webb.
 
 Stephen Theiler requested something on astrology and Mark Blackham responded to his request.
 

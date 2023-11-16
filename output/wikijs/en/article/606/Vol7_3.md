@@ -48,8 +48,8 @@ The long range purpose of our organization is to bring man to God and God to man
 
 ## Guidelines
 
-1. The spiritual foundation of our organisation is our belief in the Fatherhood of God and the brotherhood of man.
-2. We believe that God is the only true end. _The URANTIA Book_ is a means to the end. Our organisation is a means to the end.
+1. The spiritual foundation of our organization is our belief in the Fatherhood of God and the brotherhood of man.
+2. We believe that God is the only true end. _The URANTIA Book_ is a means to the end. Our organization is a means to the end.
 3. As a group, our primary purpose is to study and disseminate the teachings of _The URANTIA Book_. As individuals, our primary purpose is to begin the supreme adventure of actually attempting to live these teachings — to practice the presence of God in our daily lives through prayer and worship and through ministry and love.
 4. Members of our organization may continue to belong to an established religious faith or may be unaffiliated religionists seeking to know God. Our main requirement for membership is the desire to know God.
 5. We have created our organization to serve the people, and not the other way around. We respect the dignity of each individual. Our focus is on the growth of the individual. We cherish our differences, but we are always seeking the divine and perfect way to do things
