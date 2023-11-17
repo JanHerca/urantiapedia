@@ -20,7 +20,7 @@ P.0.Box 606, Brighton, Victoria, AUSTRALIA, 3186.
 
 Why did we give the conference theme this name? In a tapestry there are many different colours; There are light and dark colours, warm and cool colours, colours for shading and colours for highlighting. All these are necessary if we are to achieve a harmonious whole. For was it not for the shading in the background, how could the highlight stand out against the rest?
 
-Similarly in a group of people, there are many different personalities. They give the colour to the group. But sometimes it is difficult to blend different personelities into a hemonivus working unit.
+Similarly in a group of people, there are many different personalities. They give the colour to the group. But sometimes it is difficult to blend different personalities into a hemonivus working unit.
 
 I think all of us have the secret ambition to fuse with our Thought Adjuster one day. But what does fusion really mean? As far as I can see, it means that two entities, one pre-personal and the other one personal, become as one. They have taken on each other's identity. You can't tell them apart anymore. That's what we are aiming for. To identify ourselves with our Thought Adjuster.
 

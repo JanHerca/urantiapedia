@@ -146,7 +146,7 @@ On Sunday 6^th^ April the Melbourne Study Group members will hold a Remembrance 
 <img src="/image/article/606/crossword_solved.jpg">
 </figure>
 
-## Time for REflection: Fred
+## Time for Reflection: Fred
 
 Steven Shanahan, Melbourme
 
@@ -158,7 +158,7 @@ From the community which he established in Western Australia in the late sixties
 
 The cornerstone of Fred's philosophy was the “Brotherhood of Man”. Wherever people gathered to listen to this gentle man, they would invariably notice _the Urantia Book_ by his side.
 
-People were attracted to Fred. He radiated sincerety and extended the hand of friendship to all. His appearance complemented his sagacious nature; long, white, shoulder-length hair, beard, serene smile and sparkling eyes.
+People were attracted to Fred. He radiated sincerity and extended the hand of friendship to all. His appearance complemented his sagacious nature; long, white, shoulder-length hair, beard, serene smile and sparkling eyes.
 
 Fred was an integral part of the “New Age” cultural movement in Australia during the late sixties and seventies. His philosophy and example of “practicalizing the spiritual and spiritualizing the commercial” attracted many hundreds of people to his talks and to the community in Western Australia.
 
