@@ -140,7 +140,7 @@ Readers of _The URANTIA Book_ should find the calendar reform and methods of mea
 
 Using information obtained from the book ‘Astronamical Formulae for Calculators’ by Jean Meeus, a program was written to calculate dates and weekdays. The program takes into account the Gregorian calendar reform. All dates are first converted to Julian Day numbers and the results are divided by seven to obtain weekdays from the remainder. A calendar is then generated using this information. Even by computer standards, it is a rather tedious process.
 
-The results were reassuring. The odds of merely guessing the correct day would be one in seven for each day or the product of the separate probabilities for all of the dates listed. This calculates to one chance in $5,764,801$ for correctly guessing the eight days listed. (Now you know why bingo games are a great way of making money.) The following dates were sampled and showed correct dates with corresponding weekdays:
+The results were reassuring. The odds of merely guessing the correct day would be one in seven for each day or the product of the separate probabilities for all of the dates listed. This calculates to one chance in 5,764,801 for correctly guessing the eight days listed. (Now you know why bingo games are a great way of making money.) The following dates were sampled and showed correct dates with corresponding weekdays:
 
 April 14, AD 2 Friday
 June 24, AD 5 Wednesday
@@ -277,7 +277,7 @@ Ken Glasziou, Maleny, Qld.
 
 ## Solution To Crossword Puzzle
 
-As you probably by now have discovered no 29 clue down was missing. Our apologies. As my hubby John says: "You have to make an error so now and then, otherwise people might think you are beconing perfect and I know that is far from the truth! The Editor
+As you probably by now have discovered no 29 clue down was missing. Our apologies. As my hubby John says: "You have to make an error so now and then, otherwise people might think you are becoming perfect and I know that is far from the truth! The Editor
 
 <figure id="Figure_2" class="image urantiapedia" alt="crossword_solved2">
 <img src="/image/article/606/crossword_solved2.jpg">
