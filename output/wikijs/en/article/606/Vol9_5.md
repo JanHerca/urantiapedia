@@ -142,33 +142,7 @@ Oftentimes Australians like to find the easy way to do things. There is the stor
 
 The history of Urantia reads like a comedy of errors. Frequently, much of the progress that was made has been lost, and has had to be achieved all over again. I have been wondering if there is an easier way for Urantia to progress, and if it is really possible to achieve it. And I have also been wondering whether I can help, and in a significant way.
 
-### Will
-
-Michael's own commitment, during his bestowal on Urantia, was to reveal the will of the Father. And his life on Urantia was an extraordinary demonstration of desire to attune to the will of the Father.
-
-Personal outcomes are linked to my own act of will. A Thought Adjuster was bestowed in response to my first moral personality decision. And the Thought Adjuster, who demonstrates such divine love and extraordinary resourcefulness, is always subservient to my will.
-
-Planetary outcomes are linked to acts of will. The decision of Andon and Fonta to flee from home was observed by every celestial intelligence stationed on Urantia, and they were all greatly concerned with what Andon and Fonta were planning. The happy outcome was celebrated on the system and constellation and universe headquarters. It resulted in a new circuitry for Urantia, and it changed the nature of the supervision of the planet.
-
-I feel that an act of will is an important beginning in helping Urantia.
-
-### Love of Michael
-
-During Michael's bestowal on Urantia, his apostles and followers often failed to fully understand or appreciate his teaching. They were often bewildered and even demoralised. Yet most of his apostles and many of his followers went on to remarkable and productive careers.
-
-What was the key thing that supported their wills and carried them forward? Their love of Michael. And after Pentecost, Michael's Spirit of Truth. When they could not comprehend, their love of Michael was sufficient.
-
-### My First Step
-
-There is a song called “What are you doing the rest of your life”. Well, every day for the rest of my life, 1 intend to say this prayer:
-
-God my Father, it is my will that
-Urantia achieve progress (as You will) ever more effectively.
-Michael, I love you.
-
-Do I expect to see real progress during my lifetime? Yes I Do! That song is from a motion picture called 'The Happy Ending"
-
-Martin Mc Burney, Melbourne
+[Read more](/en/article/Martin_McBurney/Urantia_Towards_Light_Life_2)
 
 ---
 
@@ -205,71 +179,8 @@ Perhaps you could say the Sun has a lot to do with the price of bread on Urantia
 
 So how about if we take a closer look at our own back yard first — The Solar System.
 
-_The URANTIA Book_ tells us it is called: MONMATIA. What an incredible, breathtaking, beautiful and mysterious planetary system we live in. Big question marks still follow many of our statements about the Solar System; until of course our space probes reveal more.
+[Read more](/en/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System)
 
-The following is my own perspective, after reading the relative sections in _The URANTIA Book_, and our present day knowledge revealed from space exploration, ( not necessarily up to date, or indeed altogether correct; if anyone can throw more light on the subject, I would be grateful for the information.)
-
-Origin of Monmatia is [UB 57:5.1](/en/The_Urantia_Book/57#p5_1).
-
-Our Solar System of planets, moons, asteroids, meteors, space dust and all that stuff, was formed when the giant ANGONA system, the centre of which was a dark giant of space with tremendous gravity pull. Indeed, pull it did, drawing off enough Solar Mass to start the formation of a planetary system. Bulging in the centre and tapered at the ends, this enormous stream of gaseous matter transformed into the TWELVE PLANETS of the solar system.
-
-Jupiter and Saturn were formed from the large bulging centre of the solar extrusion. From these two planets, the others are referred to as the FIVE INNER and FIVE OUTER planets. Bear in mind today we officially only recognize NINE planets from Earth.
-
-Just hold on to your planets for a moment, there is more to come.
-
-When the ANGONA system came closer to our solar mass, THREE of its outer planets were captured by our system. Using my vast knowledge of mathematics: 12 + 3 = 15. Fifteen planets that is.
-
-So who has been playing planetary billiards with our solar system?
-
-Reading on further in _The URANTIA Book_, we find that the fifth planet was captured by Jupiter when traversing an irregular orbit and was fragmentized.
-
-FOURTEEN planets are now left.
-
-NINE accounted for by astronomers on Earth to this day.
-
-So now we enter the realms of almost complete hypothesis. Here goes:
-
-One other planet was fragmentized by tidal friction by either Saturn or Jupiter.
-
-One (or two) dark gravity spheres exist beyond the orbit of Pluto.
-
-One or more of the giant moons orbiting ( either/or Saturn, Jupiter or Neptune) are captured planets. Mystery Solved? (maybe not)
-
-To continue the saga I'll point out some relevant knowledge from our own Earth sources and interspace with statements from _The URANTIA Book_. (marked U.B.)
-
-Jupiter has 14 (?) moons orbiting this enormous gaseous planet which is more than eleven times the diameter of Earth.
-
-> “...they were in reality secondary suns for a short period after their formation as separate space bodies.” (Jupiter and Saturn) [UB 57:5.10](/en/The_Urantia_Book/57#p5_10)
-
-> “Many of these enormous spheres have satellites, sometimes a half dozen or more, and these moons are often in size very near that of Urantia, so that they are almost ideal for habitation.” [UB 49:0.4](/en/The_Urantia_Book/49#p0_4)
-
-Saturn has ten satellites, the largest being TITAN which is larger than Mercury and has an atmosphere thought to consist mainly of Nitrogen. (earlier accounts stated methane) Vigorous volcanic action has been photographed on one of Jupiter's moons called I-O.
-
-Other large moons of Jupiter called Ganymede, Callisto and Europa seem to have ice deposits on them. They also seem to absorb large amounts of radiation emitted by Jupiter. The electron bursts are said to reach Earth and even as far as Mercury.
-
-Uranus is tilted at about 90&deg; to the ecliptic and has retrograde rotation. Its outer neighbour Neptune has a large moon Triton, which has retrograde motion.
-
-> “Retrograde motion in any astronomic system is always accidental and always appears as a result of the collisional impact of foreign space bodies. Such collisions may not always produce retrograde motion, but no retrograde ever appears except in a system containing masses which have diverse origins.” [UB 57:5.14](/en/The_Urantia_Book/57#p5_14)
-
-The most important aspect is of course the life on the planets.
-
-> “Beings such as the Urantia races are classified as mid-breathers; you represent the average or typical breathing order of mortal existence. If intelligent creatures should exist on a planet with an atmosphere similar to that of your near neighbour, Venus, they would belong to the superbreather group, while those inhabiting a planet with an atmosphere as thin as that of your outer neighbour, Mars, would be denominated subbreathers.” 
-> 
-> “If mortals should inhabit a planet devoid of air, like your moon, they would belong to the separate order of nonbreathers.” ( 112% of inhabited Satania worlds) [UB 49:2.13-14](/en/The_Urantia_Book/49#p2_13)
-
-> “You would be more than interested in the planetary conduct of this type of mortal because such a race of beings inhabits a sphere in close proximity to Urantia.” [UB 49:3.6](/en/The_Urantia_Book/49#p3_6)
-
-I have tried to imagine what it would be like to be a nonbreather, by holding my breath for long periods, but eventually get very dizzy. How then do these beings cope with being dizzy all the time? If we encountered these mortals, would we accept them as they are, or try to convert them to breatherism?
-
-> SATANIA — “Its 619 inhabited worlds are located in over five hundred different physical systems. Only five have more than two inhabited worlds, and of these only one has four peopled planets, while there are forty-six having two inhabited worlds.” [UB 32:2.10](/en/The_Urantia_Book/32#p2_10)
-
-> “In your solar system only three planets are at present suited to harbor life.” [UB 15:6.15](/en/The_Urantia_Book/15#p6_15)
-
-I wonder how close we came to.having mortal neighbours in our planetary system. But of course our space probes have proven conclusively there is not even a basic living cell in the rest of our solar system.
-
-Personally, I feel uneasy about making such dogmatic statements; what do you think?
-
-Rod McCourt, Cockatoo, Vic.
 
 ## The Three Missing Planets
 

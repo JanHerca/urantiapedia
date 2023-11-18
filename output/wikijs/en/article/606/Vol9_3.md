@@ -123,6 +123,8 @@ Not long ago I had a conversation with a devout Roman Catholic who shared a hous
 
 It is not difficult to imagine some of the problems which could grow out of this kind of procedure. But nevertheless it has procedure may be summarized as:
 
+[Read more](/en/article/William_Wentworth/Doing_Gods_Will)
+
 I have a problem.
 
 What does God want me to do about it?
