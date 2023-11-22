@@ -64,17 +64,11 @@ Note: If you want to contact Uversa, be sure check this directory first for corr
 
 ## The Derivation of Values
 
-At a political seminar in Sydney recently it was clearly understood, that the quality of our political life grows out of the values we live by. The values we live by determine the essence and quality of our entire civilisation; and our system of social co-operation and control — our political life in general — is no exception. An understanding of this fact — that values lie behind all our social processes — is one of the keys to improving the level of our political life in Australia, but it is something which often seems to be overlooked beth by elected representatives and by the population at large.
+At a political seminar in Sydney recently it was clearly understood, that the quality of our political life grows out of the values we live by. The values we live by determine the essence and quality of our entire civilisation; and our system of social co-operation and control — our political life in general — is no exception. An understanding of this fact — that values lie behind all our social processes — is one of the keys to improving the level of our political life in Australia, but it is something which often seems to be overlooked both by elected representatives and by the population at large.
 
 When this same seminar came to consider the question of the derivation of values, however, there was much less understanding. Two capable and courageous women from Queensland, who have been struggling to influence education policy in that state, made out the case for the official inculcation of traditional Christian values, which are often attacked and derided by radical teachers. There seemed to be general agreement that any moral revival in Australia would be based on such values. And it was at this point that I found myself in disagreement with these sincere women.
 
-The difficulty, of course, is that “Christian Values” contain much that is non — Jesusonian, but the proponents of “Christian Values”do not accept this.They require that all “Christian Values” be adopted, and that none but those values are worthwhile. Thus they insist that the Bible is the infallible word of God, that the Church is the creation of Jesus, that only Christians experience salvation and so on. They fear that if any compromise is allowed on “Christian Values”, then the way is open for such values to be perverted or ignored, and that the authoritative power assumed for such values will be lost.
-
-Students of _The Urantia Book_ will be familiar with this problem. Those who wish to reinstate Christian Values as the cornerstone of our civilisation, do not understand that values must be constantly re-interpreted in the light of spiritual experience. They are insisting that we accept the dross with the gold, and that the gold itself must not be further refined. They want us to accept the values, without personally participating in the derivation of such values.
-
-It seems, therefore, a good time to remind ourselves that the teaching of Jeaus carries a completely different emphasis. He teaches that if we know God as our Father and men as our brothers, we will be moved to develop fluid and progressing values to live by, embodied in a morality which can be adapted to human progress without in any way diverting us from our overriding purpose, which is God-seeking. True values, for any generation, are thus to be discovered from living spiritual experience, from the struggle of the individual to find God and do His will. Crystallised values from the past cannot substitute for this process. Any attempt to inculcate values without allowing for the means of derivation of values is to orphan those values by cutting them off from their source. The souls of men will not respond to such orphans.
-
-> “But religious leaders are making a great mistake when they try to call modern men to spiritual battle with the trumpet blasts of the Middle Ages. Religion must provide itself with new and up-todate slogans. Neither democracy nor any other political panacea will take the place of spiritual progress.”([UB 195:6.10](/en/The_Urantia_Book/195#p6_10))
+[Read more](/en/article/William_Wentworth/The_Derivation_of_Values)
 
 William Wentworth, Towamba, N.S.W.
 
@@ -84,7 +78,7 @@ William Wentworth, Towamba, N.S.W.
 <img src="/image/article/606/crossword.jpg">
 </figure>
 
-**Aross**
+**Across**
 
 - 1\. When Joshua was 13 yrs. old he went to ... for his first Passover (9)
 - 2\. Joshua's mother was called ... (4)
@@ -99,13 +93,13 @@ William Wentworth, Towamba, N.S.W.
 - 22\. God's light of ... is stronger than the sun (4)
 - 26\. One of Joshua's brothers was called .... (4)
 - 27\. A group of traders with their bags and camels is called.... (7)
-- 28\. Joshua's uncle lived by the .... of Galileee (3)
+- 28\. Joshua's uncle lived by the .... of Galilee (3)
 - 29\. The potter in Nazareth was called .... (6)
 - 32\. Herod ruled over the land of ... (7)
 - 33\. How old you are is called your .... (3)
 - 34\. Joshua learned to weave on a... (4)
 - 35\. Can you .... a boat? (3)
-- 36\. When Joshua was borm all the .... of earth sang a song of glory
+- 36\. When Joshua was born all the .... of earth sang a song of glory
 - 38\. The Jewish .... said that you must not make idols or images (3)
 - 40\. A new thought in your mind is sometimes called an .... (4)
 - 42\. We call our planet ... (5)
@@ -121,7 +115,7 @@ William Wentworth, Towamba, N.S.W.
 **DOWN**
 
 - 1\. Joshua's Greek name is (5)
-- 2\. Then Joshus was borm the Hebrews were ruled by the ... (6)
+- 2\. Then Joshua was born the Hebrews were ruled by the ... (6)
 - 3\. Mary and Joseph had a table made out of ... (5)
 - 4\. Mary's cousin 's name was... (9)
 - 5\. Joshua's first sister was called .... (6)
@@ -135,16 +129,16 @@ William Wentworth, Towamba, N.S.W.
 - 19\. When Joshua is 5 yrs. old, he .... his Mum with the baby (5)
 - 23\. Before Joshua was born, he was the creator of our universe. He was...(7)
 - 24\. The people: that were not Jewish were called the .... (8)
-- 25\. After Joshue was born, Hary wrapped him up and put him in a ...
+- 25\. After Joshua was born, Hary wrapped him up and put him in a ...
 - 30\. There Joshua lived, they could see the snow on Mount.... (6)
 - 31\. The journey on a donkey is pretty ... (4)
 - 37\. The Bible that Joshua family possessed was written in .... (5)
 - 39\. Three .... men came to see baby Joshua (4)
-- 40\. The place where Joshua was borm was a grain storage under the ....(3)
+- 40\. The place where Joshua was born was a grain storage under the ....(3)
 - 41\. Name of Joshua"s brother was.... (4)
 - 43\. In July and August the weather was .... in Nazareth (3)
 - 44\. The Jewish Saturday was called the ....(7)
-- 45\. Joshua liked to go .... with his uncie on the sea of Galilee (7)
+- 45\. Joshua liked to go .... with his uncle on the sea of Galilee (7)
 - 48\. Joseph and Mary were .... (6)
 - 50\. Joshua .... many questions (5)
 - 53\. Another word for sick (3)
@@ -156,49 +150,11 @@ It has been suggested that Australia is the Western World's most secular nation.
 
 If we compare ourselves with countries like India, Iran, Pakistan and a few other ones, where religion plays such an important part in the lives of people, we could say that we are better off without it. It is perhaps true that we do not want to go back to the stage where the religions of fear held people in their grip.
 
-Are we going through that interim period, where we have let go of the evolutionary religion of fear, but stili haven ' t grasped the revelatory religion of love?
-
-You only have to look and listen to our daily news, that dishes up our social ailments to the point of saturation, to know that this is indeed the case.
-
-But remember: “As you view the world, remember that the black patches of evil which you see are shown against a white background of ultimate good. You do not view merely white patches of good which show up miserably against a black background of evil”. ([UB 195:5.12](/en/The_Urantia_Book/195#p5_12))
-
-To keep our sanity, we have to keep reminding ourselves of that. It is easy enough to join the queue of “knockers” and point out all the wrongs of our society.
-
-> “A lasting social system without a morality predicated on spiritual realities can no more be maintained than could the solar system wi thout gravity.” ([UB 195:5.9](/en/The_Urantia_Book/195#p5_9))
-
-What are these spiritual realities that _the Urantia Book_ talks about? The way I see it — and here pardon me for my limited human viewpoint — is that God is our Father, and that means my Father and your Father and the guy next door's Father. And if we all have one Father, then we must be brothers and sisters.
-
-But what is this: Father of ours really like? _The Urantia Book_ tells us that if we want to know the Father, we should look at His Son. The Son came to portray the loving nature of His Father. And when we study the life of this Son, we discover it was a life of _loving_ service.
-
-Is that what we haven't understood yet? That no civiligation can for very long survive if it does not augment the profit motive with the service motive?
-
-When we look at the word“service”, the dictionary defines it as: “an act of help or assistance”. And the origin of the word is the Latin word “servitium”, condition of a slave.
-
-And here is the crux of the matter. I have underlined “loving”, when I was talking about Jesus' life of service. Take out the love element and it lowers us to the level of slaves.
-
-If love is the coherent force that holds the universes together, then love lifts us up from slaves to children of the Father. It puts wings on our feet and lightens our load, no matter how menial the task.
-
-> “Service — purposeful service, not slavery — is productive of the highest satisfaction and is expressive of the divinest dignity. Service — more service, increased service, adventurous service, and at last divine and perfect service — is the goal of time and the: destination of space. But ever will the play cycles of time alternate with the service cycles of progress. And after the service of time there follows the superservice of eternity. During the play of time you should envision the work of eternity, even as you will, during the service of etermity, reminisce the play of time.” ([UB 28:6.17](/en/The_Urantia_Book/28#p6_17))
-
-“Have you got any suggestions as to how we can serve?”, asked a friend of mine after she read this article up to this point. I paused for a moment before I answered: “Let's start at home,” I said. “We can't all be like Mother Theresa and look after the starving children in India. Our society is built up of units of families. Happy families produce a happy nation.”
-
-The following line from the Master's teachings comes to my mind: “... and it is the divine will that men and women should find their highest service and consequent joy in the establishment of homes for the reception and training of children; in the creation of whom the se parents become copartners with the Makers of heaven and earth. And for this cause shall a man leave his father and mother and shall cleave to his wife, and they two shall become as one.” ([UB 167:5.7](/en/The_Urantia_Book/167#p5_7))
-
-We all know that it is one of the most diffleult “professions” to be a father or mother, but one for which we netive very little training. And to make us understand the importance of parenthood, on [UB 47:1.6](/en/The_Urantia_Book/47#p1_6) we. are reminded that: “No ascending mortal can escape the experience of rearing children — their own or others — either on the material worlds or subsequently on the finaliter world or on Jerusem.” ([UB 47:1.6](/en/The_Urantia_Book/47#p1_6))
-
-And the following sentence was written for all the Dads of this world. “Fathers must pass through this essential experience just as certainly as mothers. It is an unfortunate and mistaken notion of moderm peoples on Urantia that child culture is largely the task of mothers. Children need fathers as well as mothers, and fathers need this parental experience as much as do mothers.” ([UB 47:1.6](/en/The_Urantia_Book/47#p1_6))
-
-It is a service for which we won't get our name on the Queen's New Year's honours list.
-
-But if we are totally concerned about our inward and spiritual fellowship with our heavenly Father, if we want to do His will wholeheartedly, then loving service will be an unconscious manifestation of this inner experience, which the Master called the Kingdom of Heaven.
-
-I'm sure that you have plenty more suggestions for loving service in the Father's Kingdom.
-
-Madeline Noordzy, Melbourne
+[Read more](/en/article/Madeline_Noordzy/The_Service_Motive)
 
 ## Encyclopedia On A Disk
 
-In the beginning, there was the book. Now there is the compact disk. Grolier, a Connecticut-based publisher of enoyclopedias and other educational materials, last week announced, it would begin marketing a compact-disk version of its “Academic American Encyclopedia” in October. The CD encyclopedia, printed on a shiny platter 4.72 in. in diameter, will contain'all the information in Grolier's 21-volume, 9 million-word printed encyclopedia.
+In the beginning, there was the book. Now there is the compact disk. Grolier, a Connecticut-based publisher of encyclopedias and other educational materials, last week announced, it would begin marketing a compact-disk version of its “Academic American Encyclopedia” in October. The CD encyclopedia, printed on a shiny platter 4.72 in. in diameter, will contain all the information in Grolier's 21-volume, 9 million-word printed encyclopedia.
 
 The disk encyclopedia will work on a personal computer like the IBM PC, once it is equipped with a special compact-disk drive. This spins the CD platter and translates the digital information into words with a laser beam.
 
