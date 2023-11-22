@@ -41,9 +41,7 @@ Georg Sepp mentioned reincarnation. We found an article by Richard Bain: ‘The 
 
 With our departure from Melbourne we felt that indescribable mixture of foy and sorrow.
 
-We leave our wonderful times and friends and take with us the treasured memories. We look
-
-forward to our new adventures in Brisbane and trust many visitors from Melbourne (and elsewhere) will drop in.
+We leave our wonderful times and friends and take with us the treasured memories. We look forward to our new adventures in Brisbane and trust many visitors from Melbourne (and elsewhere) will drop in.
 
 Our very best wishes go to everyone involved with 6-0-6. I guess there is no-orfe who hasn't assisted in its creation. We've all shared a role.
 

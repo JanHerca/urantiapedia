@@ -33,6 +33,8 @@ dateCreated: 2023-01-25T11:12:37.284Z
   </table>
 </figure>
 
+> _Urantiapedia Note_: _This article appeared before in_ [_6-0-6 Newsletter September 1986_](/en/article/Henry_Begemann/Springtime_a_study_of_the_future_2)
+{.is-info}
 
 (From The URANTIAN, Journal of the URANTIA Brotherhood (now known as the Fellowship), Summer 1988) 
 
