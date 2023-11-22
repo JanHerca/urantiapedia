@@ -24,37 +24,7 @@ At 6.00 on Friday evening, people started arriving from far and wide. Needless t
 
 Saturday morning began with an introduction by Trevor Swadling, after which we split into two groups to study Paper 133 — The Return From Rome.
 
-As we studied this Paper, we were to be mindful of the theme for the weekend: “The Purpose of Revelation”. We discussed at great length how Jesus, as one man, did so much for his revelation as he spent this time preparing the soil and planting seeds for the later work of his apostles. We found Jesus' personal style an inspiration, which will hopefully give us all a little more of an understanding of how the fruits of the spirit work when one wholeheartedly desires to do the will of the Father. These two groups nominated a speaker each and after lunch each speaker reported on the points discussed and highlighted by their group.
-
-These discussions lead into a “brainstorming” exercise, which I conducted with the aid of a whiteboard, where everyone expressed opinions and ideas of what they felt the purpose of revelation was. Each point was jotted down on the board. We then created a “mind-map” where ideas were expanded upon and related to the Revelation of _The URANTIA Book_. A general goal as to the purpose of _The URANTIA Book_ was at the centre, and around, in satellite form, were various practical ideas relating to sharing and spreading the book. Each satellite had further ideas relating to that particular point. The purpose of this exercise was purely to get everyone thinking and to express their ideas which gave us all plenty of food for thought.
-
-We then disbanded and many of us went for a bush walk to a lovely waterfall, which was greatly appreciated after the intense mental exercises of the day. Upon return we listened to a tape by William Sadler Jnr. discussing the Mansion Worlds. After dinner most of us piled into the available vehicles and went to the Swadling's place not far away, for some more socializing around eats and drinks.
-
-Before I go on with Sunday's activities, I would like to mention more about the constituency of this company of readers. One of the highlights was the number of faces from Queensland. Enough of them cane to make up for the absence of Queenslanders for the past four years. Thanks to the efforts of Neil Francey and his ability to draw people together, he brought a car load of wonderful people with him, namely Ann Bendall, Howard Lowe and Jo Hausler. David Regal, a one time Sydney study group attender who now lives on the Cold Coast, arrived independently to the others. I think I can safely say that there will be a study group happening in Brisbane very soon, if not already.
-
-We also had representatives from all the other study groups around Australia; Peter Webb from Western Australia; Vern Verass and William Wentworth from Canberra; Christopher and Bridget Billington from W-Tree; Madeline Noordzy, Steve Shanahan and Ina, and Ian Esmore from Melbourne; Trevor, myself and Daniel (our son), Oswald Astor, Ray Frederikson, Michael and Tori King from Sydney. We were also fortunate to have visitors from outside Australia. Emmanuel Lou and Silvie from Tahiti were a great asset. A bond with our South Pacific neighbours is forming and strengthening as friendships grow. Larry Lando, a reader from the USA, who is holidaying in Australia, was a welcomed visitor. Larry is a member of the new URANTIA Society which recently has been formed in Washington State. Needless to say the diversity of people added much quality to this year's meeting.
-
-Sunday morning began with a silent worship and meditation period for those who wished to participate. After breakfast we sang a few songs with Oswald Astor accompanying on piano and Merindi, our daughter, on the flute. I personally find that this form of group worship moves me the most. Others were also very uplifted as we had requests to repeat some of the songs. After the singing we received reports from various study groups, some presentations and much discussion.
-
-Madeline Noordzy reported on the Melbourne study groups and the 6-0-6 newsletter. Contributions of articles are always welcomed. Financial support for the Library Books Postage Project are still required. Up till now $250 was received from 10 people. We still have a long way to go before all public libraries will have a book on their shelves. Steve Shanahan was happy to report that the original book float of 40 books has turned over three times within a year. Some of these have been sold through bookshops and others through personal recommendations. A special mention was made of the excellent work Robert Crickett is doing in introducing people to _The URANTIA Book_ through the psychic development courses Robert is conducting. This indicates that there is a healthy market for the sale of _The URANTIA Book_.
-
-Peter Webb reported on the Perth study group and the book booth held in January this year at the Matilda Festival. Instant results have not been apparent, but are also not expected. Many seeds were sown, which was the intention of the booth.
-
-I reported on the Library Placement Scheme and how smoothly it has been going since we have been more organized and united in our efforts. It was stressed in discussion that readers should borrow the books from time to time from their local library to keep the books in circulation. Trevor checked the book in a library near us and in the four years it has been there it had been borrowed 25 times and was out on loan. The borrowers were all different people (and they were not any of the study group members).
-
-Neil Francey gave a report on his trip to the USA in August and his experiences at the General Conference in Brunswick, Maine. It was a genuinely worthwhile experience and recommended to us for future General Conferences. The number of events needing to be organised and co-ordinated left quite an impression.
-
-Trevor Swadling informed on a few events taking place by a few of us concerned with trying to get the Trustees of the URANTIA Foundation to seek a wholesaler in Australia, who will carry the book, which is essential if the book is to get into the mainstream book trade. As it stands now, most bookstores will not make special orders for the book to an overseas supplier. This stimulated a lot of discussion and Emmanuel Lou shared with us some of the problems encountered in France on this matter of book distribution.
-
-David Regal shared same pointers which he has found helpful when talking to people about _The URANTIA Book_ and his own personal religious standing. He has written an article for 6-0-6 so you can read his ideas for yourself.
-
-William Wentworth presented some thoughts, feelings and ideas on personal prayer and group worship. William has thought about these matters deeply and his honesty and openness to these subjects were a credit to him. Much discussion was stimulated as this subject is close to everyone's heart. Perhaps we can encourage William to put these thoughts into an article for 6-0-6 to share with the readership, which may stimulate same deep felt response.
-
-The preparations for next year's South Pacific meeting of readers was discussed briefly. A few were concerned about how many and who were involved in the preparations. Basically the informal committee formed to organize the Library Placement Scheme are the ones organizing the South Pacific gathering. This group includes people from the Perth, Melbourne, Canberra, Brisbane and Sydney groups. Ideas for the content of the programme by anyone who would like to have an input are welcomed.
-
-After lunch all were busy with preparations to leave; cleaning up, packing, final exchanges of addresses and phone numbers, group photo's etc. and the inevitable reluctancy to say that last goodbye until next time.
-
-All in all the weekend was a marvellous success and a terrific “recharging” for our batteries, I thoroughly recommend to everyone this experience of these annual meetings as the social contact with other readers is so conducive to one's perspectives and inspirations. Next year's South Pacific meeting will be an unique experience as we unite with those readers so close to Australia and with others coming from around the world. It will surely give us a planetary perspective and expand our horizons as we contemplate the Brotherhood of Man under the Fatherhood of God.
+[Read more](/en/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_Readers)
 
 Kathleen Swadling, Sydney
 
@@ -76,80 +46,9 @@ Kathleen Swadling, Sydney
 
 Hsi Wang Mu, literally the Royal Lady of the West or the Queen of the Western Heaven is a legendary being supposed to dwell upon the K'un lung Mountains (1) in a large and beautiful palace, surrounded by extensive grounds. The walls of the palace constructed with pure gold are three hundred and thirty miles in circumference, with crenelations of precious stones (2). Her residence was remarkable for its beautiful gardens (3), marble and jasper buildings, a nine-storeyed tower and sparkling brooks.
 
-Hsi Wang Mt is said to have been at the head of troops of genii (4) and on occasion condescends to communicate with favoured members of the China Imperial family.
-
-She is generally accompanied by a crane which she uses as a charger and sometimes by azure-winged binds, who serve as her messengers (5). During the Han dynasty the dove or pigeon was supposed to be the messenger of Hsi Wang Mu.
-
-Her principal handmaidens, known as Jade  or Fairy maids 不中女 are five in number. She used to give a periodic banquet (6) known as the P'an T'ao Hui at which a feature is the Peach Feast which ensures longevity and good fortune (7).
-
-In the garden grew the fairy peaches 仙桃 which ripen but once every 3000 years and confer immortality (8) upon those who eat then. The Feast of Peaches took place on the borders of the Yao Ch'in (Lake of Gems). “The occasion being more festive than solemn, for there was music on invisible instruments, and singing not from mortal tongues!”
-
-The inhabitants of the K'un lung mountains are divided into seven categories according to the color (9) of their clothing: red, blue, black, violet, yellow, green and orange.
-
-Later tradition has assigned to her a consort in the person of Tung Wang Kung 东王公 the Royal Lord of the East.
-
-In Chinese paintings Hsi Wang is usually depicted as a beautiful female in the attire of a Chinese princess, mounted on a crane (10), attended by two young girls, one of whom holds a large fan, the other a basket of the peaches of Longevity.
-
-(1) “This Mediterranean peninsula had a salubrious climate and an equable temperature; this stabilized weather was due to the encircling mountains ...” ([UB 73:3.3](/en/The_Urantia_Book/73#p3_3))
-
-	“The coast line of this land mass was considerably elevated...” ([UB 73:3.4](/en/The_Urantia_Book/73#p3_4))
-
-(2) “The mountains surrounding the Garden abounded in precious stones and metals, though these received very little attention.” ([UB 73:3.5](/en/The_Urantia_Book/73#p3_5))
-
-(3) “Nowhere else was there a location which could have lent itself so perfectly to becoming such a paradise of botanic expression.” ([UB 73:3.6](/en/The_Urantia_Book/73#p3_6))
-
-	“Although the work of embellishment was hardly finished at the time of Adam's arrival, the place was already a gem of botanic beauty; and during the early days of his sojourn in Eden the whole Garden took on new form and assumed new proportions of beauty and grandeur.” ([UB 73:5.8](/en/The_Urantia_Book/73#p5_8))
-
-(4) “Their special senses were much more acute, and they were able to see the midwayers and the angelic hosts, the Melchizedeks ...” ([UB 76:4.5](/en/The_Urantia_Book/76#p4_5))
-
-	“ ... the midwayers, being able to do such things, transported Adan and Eve to the Father's temple.” ([UB 74:4.4](/en/The_Urantia_Book/74#p4_4))
-
-(5) “Hundreds of believer settlements had faithfully, year after year, kept up the supply of these home-reared pigeons for just such an occasion.” ([UB 74:2.3](/en/The_Urantia_Book/74#p2_3))
-
-(6) “And Adam and Eve periodically partook of its fruit (of the tree of life) for the maintenance of their dual form of physical life.” ([UB 73:6.6](/en/The_Urantia_Book/73#p6_6))
-
-(7) “ ... but the ‘tree of life’ was not a myth; it was real and for a long time was present on Urantia.” ([UB 73:6.3](/en/The_Urantia_Book/73#p6_3))
-
-(8) “This superplant stored up certain space-energies which were antidotal to the age producing elements of animal existence. The fruit of the tree of life was like a superchemical storage battery, mysteriously releasing the life-extension force of the universe when eaten.” ([UB 73:6.4](/en/The_Urantia_Book/73#p6_4))
-
-(9) “In this rendez-vous (in the Garden of Eden) the crean of the civilization of Urantia was forgathering.” ([UB 73:3.6](/en/The_Urantia_Book/73#p3_6)) Is this reminiscent of the six Sangik races of color plus the violet race? (See page [UB 64:5.2](/en/The_Urantia_Book/64#p5_2))
-
-	“Amadon was chairman of this committee, which consisted of twelve members embracing a representative of each of the six Sangik races; ...” ([UB 74:2.5](/en/The_Urantia_Book/74#p2_5))
-
-The Boat people in Hong Kong of ten treasure among their household gods a scroll of the Queen of the Western Heaven, and it is on her crane that daughters, who have died before reaching maturity, are mounted in effigy.
-
-Much research has been devoted to the origin of the “Royal Lady of the West”. Modern writers have drawn the conclusion that Hsi Wang $M u$ was the name either of a locality or of a Sovereign in the ancient West. She was the subject of much research on the part of the Taoist writers.
-
-The K'un Lung Mountains are not only identified with the Hindu Kush in Central Asia but also with Sumeru.
-
-The early Jesuit missionaries identified Hsi Wang Mu with the Queen of Sheba. Another Western writer has also connected her with the Roman goddess Juno (Hera) and the Golden apples.
-
-We know, thanks to _The URANTIA Book_, that the legend of the Queen of the Western Heaven (Hsi Wang Mu) is close to the history of Eve in Eden. There are too many coincidences. on page 886:2 we read that the Andites entered in considerable numbers into China about fifteen thousand years ago. Also: “But the Andite traditions of the beauty of Eden and Dalamatia did influence Chinese traditions; early Chinese legends place ”the land of the gods“ in the west.” (886:5)
-
-The first Taoists had done a great deal of research to identify Hsi Wang Mu. Lie Tseu, one of the founders of Taoism, placed the land of immortals in an island somewhere in a Western country ... there is one question I have tried to solve: why the Chinese legend has emphasized the story of Eve and remained silent on Adam.
-
-One hypothesis is the following: the traditions about Eve were introduced through the mother cult.
-
-> “It was during this age in Crete that the mother cult of the descendants of Cain attained its greatest vogue. This cult glorified Eve in the worship of the ”great mother“. Images of Eve were everywhere. Thousands of public shrines were erected throughout Crete and Asia Minor”. ([UB 80:7.7](/en/The_Urantia_Book/80#p7_7))
-
-<figure id="Figure_3" class="image urantiapedia" alt="Hsi Wang Mu">
-<img src="/image/article/606/Hsi_Wang_Mu.jpg">
-<figcaption><em>Hsi Wang Mu Mounted On A Crane</em></figcaption>
-</figure>
-
-
-(10) “The third day was devoted to an inspection of the Garden. From the large passenger birds — the fandors — Adam and Eve looked down upon the vast stretches of the Garden while being carried through the air over this, the most beautiful spot on earth.” ([UB 74:3.4](/en/The_Urantia_Book/74#p3_4))
-
-The URANTIA BOOK says that: “Chinese merchants traveled the overland routes through Turkestan to Mesopotamia even in the days of the Sumerians” ([UB 79:7.6](/en/The_Urantia_Book/79#p7_6))
-
-Either Andites or Chinese merchants may have introduced Eve's story into China under the description of the “Royal Lady of the Western Heaven.”
+[Read more](/en/article/Emmanuel_Lou/Hsi_Wang_Mu_The_Queen_of_the_Western_Heaven)
 
 Emmanuel Lou, Tahiti
-
-<figure id="Figure_4" class="image urantiapedia" alt="Tree life">
-<img src="/image/article/606/tree_life.jpg">
-<figcaption><em>The Tree Of Life And The Large Passenger Bird, Recurrent In Chinese Legends</em></figcaption>
-</figure>
 
 
 ## What Religion Are You?
@@ -189,22 +88,9 @@ The Big Bang concept seems to be an elegant solution to the facts observed by as
 
 There seem to be a few astronomers these days saying, “Yes, but....” about the Big Bang.
 
-Two articles this year in "SKY AND TELESCOPE' magazine described work that challenges the idea that greater redshift means greater distance. One of these articles indicated that perhaps it was the nature of the source of the light that gave some of the apparent red-shift. The other article gave the results of studies of red-shifts of various classes of galaxies. Strangely enough, it has been found that the red-shift of various classes of galaxies cluster about certain values. The concepts introduced in these two articles are hard to fit into the theory of a uniformly expanding universe. If the distance versus redshift value is placed in doubt, then the Big Bang likewise loses credibility.
-
-If the news about the red-shift is rocking the Big Bang boat, then the idea presented in the May issue of ‘SKY AND TELESCOPE’ threatens to capsize it. The article, by William Tifft and John Cocke, entitled “Where Are We Going?”, says that the authors have determined that most of the galaxies that we observe outside of our own appear to have a net southward movement. Presumably, the southward refers to the south galactic pole of our Milly Way galaxy. Furthermore, the controller of this motion appears to lie in an area behind our galaxy that can't be seen with optical telescopes. The authors feel that there must be an enormous congregation of massive galaxies to account for such gravity control. An article appearing in the September, 1987 issue of ‘SCIENIIFIC AMERICAN’ entitled “The Large-Scale Streaming of Galaxies” by Alan Dressler deals with the same subject in somewhat more detail. These ideas should be of great interest to students of _The URANTIA Book_ cosmology. The picture painted in these articles appears to closely describe the motion of the first outer space level and the Paradise Gravity that holds it in place. The author of the article in SCIENTIFIC AMERICAN calls the controlling mass the “Great Attractor”; isn't that an appropriate name for Paradise?
-
-The astronomers who found the composite motion of the galaxies hope that the source of the gravity can be located with radio telescopes. While light cannot penetrate through the dense centre portion of the galaxy, radio waves can, to some extent. Suppose that they search and can't find the great concentration of mass needed to account for the gravity, won't that be exciting? After all, according to the book, the central universe is surrounded by dark gravity bodies and indicates that these bodies don't radiate radio waves or any other form of energy.
-
-For those of us interested in cosmology, these are exciting times. It looks as though students of the book are about to see confirmation of some of the cosmology of _The URANTIA Book_. I wonder how long it will take those TV folks to catch on to the new picture of the universe? Well, whatever the astronomers come up with, you can be sure that it will be presented on some TV special with whiz-bang special effects and some fellow trying to persuade us once more that they really have found the secrets of the universe this time. No fooling.
+[Read more](/en/article/Dick_Bain/Cosmology_Corner)
 
 Richard Bain, St, Petersburg, FL,USA
-
-> This article first appeared in the Fall/Winter 1987 issue of The Messenger. Richard kindly gave us permission to publish it in the Six-0-Six Newsletter.
->
-> It is sad to hear that due to lack of financial support The Messenger is going into mothballs. Out of 320 people only 17 were willing to provide the funds that were needed to keep it afloat. Six-0-Six fared slightly better than that. After introducing subscriptions we still have approx. 91 people on our mailing list with new subscriptions still trickling in. Last year we had about 125 on our list. Compared to The Messenger that is not bad at all!
-{.is-info}
-
-I am interested to hear the reaction, if any, on your announcement in 6-0-6 of the study by mail. If this “could become the largest global study group” I wonder. Anyway if I can serve some dispersed student I'll be glad. The writer of that long and confused article about reincarnation should differentiate between reincarnation, which our book denies, and repersonalization, the latter being the process our book teaches. I could go deeper into that but for the moment I must wait.
 
 ## So What's The Connection?
 
@@ -216,11 +102,7 @@ Bessie was trying to work something out. She was one of the American tourists, w
 
 ‘Was it the same connection when we stopped in Fiji?"’ Bessie was getting rather curious. Duane and Lucilla Faw had seen Isi and Martha Racule when their plane had stopped in Fiji.
 
-_The URANTIA Book_ has a way of changing people's lives in more than one way. Apart from the inner change it brings about, it also has an effect on our social life. For example who could have expected that I would be driving with a coach full of American tourists on a guided tour around the city of Melbourne? Yet, that's what I was doing after Duane and Lucilla had so generously invited me to come with them as there was only precious little time left to be together before they would continue on their way to Phillip Island to see the penguin parade. I had a chance to sce Melbourne City through the eyes of the tourist, who seemed to be more impressed with the psychedelic colors of the shopfacades in Melbourne's inner city than with the architecture of St. Patricks Cathedral.
-
-I was really impressed with the way these tourists made me feel one of their group in the low hours I spent with then. No doubt Duane and Lucilla would have talked to more URANTIA Book readers in Canberra, Sydney and New Zealand.
-
-I have a feeling that before their tour is over, Bessie and a few more of their travel companions are going to find out a bit more about the book which is the connection.
+[Read more](/en/article/Madeline_Noordzy/So_Whats_The_Connection)
 
 Madeline Noordzy, Melbourne
 

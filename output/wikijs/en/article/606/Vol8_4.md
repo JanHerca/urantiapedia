@@ -115,53 +115,7 @@ Old-fashioned Chinese families especially in diaspora, possessed a set of statue
 
 It is believed that this stellar divinity of lang life descended to earth in human form. He is represented as a delightful old man with a high and done shaped forehead, armed with a rugged staff and bearing in the other hand a fruit from the tree of immortality.
 
-<figure id="Figure_4" class="image urantiapedia" alt="chinese God">
-<img src="/image/article/606/chinese_God.jpg">
-</figure>
-
-This fruit, a peach of immortality (P'ang T'ao or 仙桃) enjoys an enormous popularity in Chinese art. The peach is culled from a miraculous tree which blossoms every 3000 years and only yields its fruit 3000 years after.
-
-In every case SHOU HSING or SHOU LAO appears gentle and smiling, his venerable head, abnormally high on the upper part with white hair and eyebrows, mounted or leaning upon a stag.
-
-He wears a yellow robe and he will be recognized as the supreme disposer of earthly things and the eternal ruler of the seasons.
-
-The emperor Ch' in Shih Huang Ti (246 B.C.), after he had unified China, was induced by the Taoists to build a temple in his honour and the Tang dynasty introduced sacrifices to the Star God at the autumnal equinox.
-
-I have had several statues of the God of Longevity in my home for a long time. One day I suddenly rushed to my URANTIA Book to find this sentence:
-
-> “Upon the outbreak of the rebellion it (the tree of life) was regrown from the central core by Van and his associates in their temporary camp. This Edentia shrub was subsequently taken to their highland retreat, where it served both Van and Amadon for more than one hundred thousand years.” ([UB 73:6.5](/en/The_Urantia_Book/73#p6_5)).
-
-What I had realized so suddenly was, the stick held by the God of Longevity is the shrub of the tree of life to be regrown and the peach of immortality is the fruit of the tree of life. The Chinese legend says he is a stellar divinity from Canopus and descends to earth in human form. Did Canopus mean Jerusem?
-
-Who could better personify longevity than Van who stayed on our planet for more than 450,000 years. I am inclined to conclude that the God of Longevity is a representation of Van. If you pass in front of a Chinese gift shop, please ask the shopkeeper to show you the God of Longevity and remember the fabulous story of “VAN — THE STEADFAST”
-
-<figure id="Figure_5" class="image urantiapedia" alt="chinese God">
-<img src="/image/article/606/chinese_God2.jpg">
-</figure>
-
-It was the Taoists in the third century B.C. who had honoured the God of Longevity. URANTIA Book readers know how the Taoists and especially Lao-Tse had built his teachings directly upon the concepts of the Salem traditions. ([UB 94:6.3](/en/The_Urantia_Book/94#p6_3))
-
-One day flying in the plane to Europe, I was reading an advertisement on WANG computers, when suddenly I understood that I have to pronounce VAN like WANG 王 (say VON) The explanation came slowly after my mind was illuminated. WANG means in Chinese “King”. “Wang” is understood as a function, a mediator between Heaven and Earth, between God and mankind. We have the confirmation in the ideogram:
-
-<figure id="Figure_5" class="image urantiapedia" alt="chinese name">
-<img src="/image/article/606/wang.jpg">
-</figure>
-
-The first top horizontal line is the symbol of Heaven, the second line represents mankind, the third line is Earth. The vertical line is the junction line between Heaven, man and Earth. This is the symbol for “ King ”, the middleman who interprets Heaven's will to mankind and who rules Earth on behalf of Heaven.
-
-From the planetary rebellion to the arrival of Adam and Eve the affairs of Urantia were for a long time administered by a council of planetary receivers. “And thus was Urantia governed and administered until the arrival of Adam” ([UB 67:6.5](/en/The_Urantia_Book/67#p6_5))
-
-> “The twelve Melchizedek receivers of Urantia did heroic work. They preserved the remnants of civilization, and their planetary policies were faithfully executed by Van.” ([UB 67:6.6](/en/The_Urantia_Book/67#p6_6))
-
-Van's function on earth for several thousand years was the prototype of a king functioning as ideally understood in Chinese tradition: the king is “VAN” (or WANG) ! There is no better designation for ”King" than the name of the man who faithfully executed the planetary policies of Heaven.
-
-> “....Van, who thereby relinquished the titular authority which for over one hundred and fifty thousand years he had held by virtue of the action of the Melchizedek receivers.” ([UB 74:2.6](/en/The_Urantia_Book/74#p2_6))
-
-So how to pronounce VAN?
-
-I would like to suggest the pronunciation which may have a linguistic and historic basis.
-
-Now I say VAN like 王
+[Read more](/en/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity)
 
 Emmanuel Lou, Tahiti
 
@@ -211,50 +165,7 @@ The first one is the long, long road to Paradise, the very centre and the master
 
 The Creator Son is the first step in our sevenfold approach to the Universal Father. Jesus said to Thomas at the farewell discourse: “I am the way, the truth, and the life. No man goes to the Father except through me. All who find the Father, first find me. If you know me, you know the way to the Father.” ([UB 180:3.7](/en/The_Urantia_Book/180#p3_7))
 
-In the foreword of the book we are told by a Divine Counselor: “Such an experiential discovery-career of the realization of God begins with the recognition of the divinity of the Creator Son of the local universe and ascends through the superuniverse Ancients of Days and by way of the person of one of the Seven Master Spirits to the attainment of the discovery and recognition of the divine personality of the Universal Father on Paradise.” ([UB 0:8.9](/en/The_Urantia_Book/0#p8_9))
-
-Our Mighty Messenger points out some of the pitfalls for us or even for beings of a higher spiritual status: “The lower creatures — and sometimes even the higher personalities — find it difficult always to envisage the Universal Father in his Creator Sons. And so, pending the time of their spiritual exaltation, when perfection of development will enable them to see God in person, they grow weary in progression, entertain spiritual doubts, stumble into confusion, and thus isolate themselves from the progressive spiritual aims of their time and universe. In this way they lose the ability to see the Father when beholding the Creator Son.” ([UB 32:3.6](/en/The_Urantia_Book/32#p3_6)) Lucifer was a good example of this. In his “Declaration of Liberty” he stated that the Universal Father did not really exist, but that it was just a myth invented by the Paradise Sons. ([UB 53:3.2](/en/The_Urantia_Book/53#p3_2))
-
-It is so easy for us to become impatient with the long wait to see the Father personally. We are created in a time conscious universe. Sometimes we feel that things don't move fast enough and so we try and speed them up. An example of this was Eve. She became too impatient. She was not willing to settle down to the long endurance test. She thought to add her own little scheme of world saving to the larger and more far-reaching divine plan. ([UB 75:4.1](/en/The_Urantia_Book/75#p4_1)) “Even though this project of modifying the divine plan had been conceived and executed with entire sincerity and with only the highest motives concerning the welfare of the world, it constituted evil because it represented the wrong way to achieve righteous ends, because it departed from the right way, the divine plan”, Solonia, the seraphic voice in the garden of Eden, tells us on [UB 75:4.6](/en/The_Urantia_Book/75#p4_6).
-
-The Melchizedek missionaries in Mesopotamia suffered also defeat when they tried to move too fast. They raised the moral standard too high for the people of their time. “They had been commissioned to preach a definite gospel, to proclaim the truth of the reality of the Universal Father, but they became entangled in the apparently worthy cause of reforming the mores, and thus was their great mission sidetracked and virtually lost in frustration and oblivion”. ([UB 95:1.8](/en/The_Urantia_Book/95#p1_8))
-
-And now we've been given the Fifth Epochal Revelation. Will we become frustrated with the rate it is going to take roots? Will we entertain spiritual doubts or grow weary in progression? Or do we trust in the divine plan for our planet?
-
-The dictionary defines patience as the capacity for calmly enduring trying situations or accepting delay with equanimity, or tolerant and even-tempered perseverance.
-
-Jesus expressed this patience so beautifully, when he said to Ganid: ‘My son, everything must await the coming of its time. You are born into the world, but no amount of anxiety and no manifestation of impatience will help you to grow up. You must, in all such matters, wait upon time. Time alone will ripen the green fruit upon the tree. Season follows season and sundown follows sunrise only with the passing of time. I am now on the way to Rome with you and your father, and that is sufficient for today. My tomorrow is wholly in the hands of my Father in heaven’. ([UB 130:5.3](/en/The_Urantia_Book/130#p5_3)) Later on, during the forty days in the Perean hills, when he had to take the six great decisions about the problems he was facing in the remainder of his life on earth, he chose “... the natural, slow and sure way of accomplishing the divine purpose”. ([UB 136:8.5](/en/The_Urantia_Book/136#p8_5))
-
-The URANTIA movement in Australia and the Pacific area is still very much in its pioneering days. Most book readers are studying in isolation. The advice to form thousands of study groups was given by our very wise revelators. In the study group setting we find an ideal situation to learn and grow.
-
-‘Maybe a pint can never hold a quart, ([UB 48:7.5](/en/The_Urantia_Book/48#p7_5)) but two pints still make up a quart’, Emanuel Lou from Papeete, Tahiti, remarked with that delightful twinkle in his eye as he pointed to two people around our study group table. “Hence the need for study groups”.
-
-We can help each other so much in our understanding of the teachings in _the URANTIA Book_. Have you ever experienced the sheer joy and delight when somebody in the group reads one of those stunning statements, which almost leaves you speechless. One person exclaims: “Wow!” You look up from your book, and see the eyes of your friends light up in this mutual discovery of truth. beauty and goodness? But the natural process from wanting to read on one's own to the inner urge of wanting to share and learn with others takes time. Again it is the trust in some greater plan than ours, which carries us through the often shaky early years of our study groups, when attendance is often irregular. But as Jesus said: “Make progress. We shall be none too ready when the Father calls”. ([UB 137:7.3](/en/The_Urantia_Book/137#p7_3))
-
-The trust of the human Jesus was born out of the trust in his Father. And the greater part of his mortal life Jesus was human. Although he gradually became conscious of his divinity, he did not fully remember his prehuman divine existence as Michael of Nebadon until the day of his baptism by John in the Jordan river. On that day he must have remembered his long training as a virgin Creator Son on Paradise. The long apprenticeship, when he watched his elder brothers in their creations. The billion years he couldn't leave his headquarters, because his personal presence was needed for the stabilization of his universe. The billion years since he first set out to start his bestowal life as a Melchizedek Son, the first one of his seven bestowal lives. And when he finally won the unquestioned sovereignty of his universe on that afternoon in late summer A.D. 25, what did this Creator Son do the next morning after he came from Mount Hermon? Did he open a bottle of champagne and have a party to celebrate after all these billions of years waiting? He put on his apron and presented himself for work in Zebedee's workshop, saying: “It behooves me to keep busy while I wait for my hour to came”. How patient can you get!
-
-And that brings me to another meaning, as I saw it, of that journey inward: The becoming conscious of a divine presence within us, which is beyond time. Our Thought Adjuster is a fragment of the Universal Father, the First Source and Centre. He has no beginning and no end. Seen from our human point of view, the Adjuster patiently waits. But seen from the divine point of view, I wonder if an Adjuster really has any need to be patient.
-
-The reason why I an saying this is that on [UB 54:5.13](/en/The_Urantia_Book/54#p5_13) of _The URANTIA Book_ a Mighty Messenger mentions that the lapse of time needed to finish the adjudication of Lucifer, even if it takes a hundred thousand years of our Urantia time, would seem like two and a half seconds as seen from the viewpoint of Uversa, the capital of our superuniverse. From the paradise viewpoint the adjudication is simultaneous with the enactment.
-
-In other words, time does not exist on Paradise nor in the consciousness of our Adjuster who hails from Paradise.
-
-If I held a glass of cool water in front of you after you had been running on a hot day and said to you: “You just have to wait one second for this”, I'm sure you would not get impatient. After all, what's one second? But the ‘time’ that you will fuse with your Thought Adjuster is less than one second for the Adjuster. It is an event of fact ([UB 109:2.4](/en/The_Urantia_Book/109#p2_4)) “un fait accompli” as the French would say. Because as a Melchizedek of Nebadon points out on [UB 106:9.3](/en/The_Urantia_Book/106#p9_3): “On the absolute level there is neither time nor space, all potentials may be there perceived as actuals”.
-
-As we journey inward and our human mind becomes more and more one with the divine mind, we seem to transcend time and the need for patience. As we shift our consciousness to the innermost centre of our being, there is no need for anxiety or worry about tomorrow. We find peace there and security, we are safe in the palm of His hand.
-
-<figure id="Figure_7" class="image urantiapedia" alt="hand">
-<img src="/image/article/606/hand.jpg">
-<figcaption><em>We Are Safe In The Palm Of His Hand</em></figcaption>
-</figure>
-
-Of all the things that we try to achieve day by day, the most important is better communication with this Father fragment. We can run around in circles for as long as we like, but our greatest goal is still to try and “... advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness — contact with the divine presence”, ([UB 196:3.34](/en/The_Urantia_Book/196#p3_34)) we are reminded in one of the last paragraphs of the book.
-
-There is yet another journey inward — the seven psychic circles. Starting with the seventh, we move inward to the first. To successfully graduate for these it is not only necessary to become conscious of the divinity within us, but we have to add experience, and the necessary repetitions of certain experiences to the morontia ingredient of our being — our soul. Our personality has to unify our physical, mental and spiritual bodies into one harmonious whole. “It is to the mind of perfect poise, housed in a body of clean habits, stabilized neural energies, and balanced chemical function- when the physical, mental and spiritual powers are in triune harmony of development — that a maximum of light and truth can be imparted with a minimum of temporal danger or risk to the real welfare of such a being. By such a balanced growth does man ascend the circles of planetary progression one by one, from the seventh to the first”. ([UB 110:6.4](/en/The_Urantia_Book/110#p6_4))
-
-To some people it is a perilous journey. “True it is, you mortals are of earthly animal origin; your frame is indeed dust. But if you actually will, if you really desire, surely the heritage of the ages is yours, and you shall someday serve throughout the universes in your true characters — children of the Supreme God of experience and divine sons of the Paradise Father of all personalities”. ([UB 112:7.19](/en/The_Urantia_Book/112#p7_19))
-
-“The goal of eternity is ahead! the adventure of divinity attainment lies before you! The race for perfection is on! whosoever will may enter, and certain victory will crown the efforts of every human being who will run the race of faith and trust, depending every step of the way on the leading of the indwelling Adjuster and on the guidance of that good spirit of the Universe Son, which so freely has been poured out upon all flesh”. ([UB 32:5.8](/en/The_Urantia_Book/32#p5_8))
+[Read more](/en/article/Madeline_Noordzy/On_Our_Journey_Inward)
 
 Madeline Noordzy, Melbourne
 
