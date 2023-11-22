@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou, William Wentworth, Robert Crickett<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou, William Wentworth, Robert Crickett, Don Lee<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -74,42 +74,7 @@ In my view there are two commentaries that are quite outstanding in that their c
 
 Quoting from [UB 41:8.3](/en/The_Urantia_Book/41#p8_3) we read as follows: “In large suns when hydrogen is exhausted and gravity contraction ensures, and such a body is not sufficiently opaque to retain the internal pressure of support for the outer gas regions, then a sudden collapse occurs. The gravity-electric changes give origin to vast quantities of tiny particles devoid of electric potential, and such particles readily escape from the solar interior thus bringing about the collapse of a gigantic sun within a few days.”
 
-No tiny particles devoid of electric charge were known to exist in 1934, and certainly none that could escape readily from the star's interior under the conditions being considered In fact such particles were not shown to exist until 1956, one year after the publication of _The URANTIA Book_. The existence of particles that might have such properties had been put forward as a suggestion by Wolfgang Pauli in 1932, because studies on radioactive beta decay of atoms had indicated that a neutron could decay to a proton and an electron, but measurements had shown that the combined masses of the electron and proton did not add up to the mass of the neutron. To account for the missing mass, Pauli suggested a little neutral particle was emitted, and then, on the same day, while lunching with the eminent astrophysicist Walter Baade, Pauli commented that he had done the worst thing a theoretical physicist could possibly do, he had proposed a particle that could never be discovered because it had no properties. However, not long after, the great Enrico Fermi took up Pauli's idea and attempted to publish a paper on the subject in the journal Nature, which is where scientists like to make their spectacular suggestions. The editors rejected Fermi's paper on the grounds that it was too speculative. This was in 1933, the year before receipt of the relevant URANTIA document.
-
-Now an interesting thing to note is that the URANTIA Paper says that tiny particles devoid of electric charge would be released in vast quantities during the collapse of the star. If the author had in mind the formation of a neutron star, another wildly speculative proposal from Zwicky and Baade, then surely he was thinking about the reversal of beta decay in which a proton, an electron and Pauli's little neutral particle would be squeezed together to form a neutron. Radioactive beta decay can be written:
-
-neutron $\longrightarrow$ proton + electron + LNP
-
-where LNP stands for ‘little neutral particle’, Hence the reverse should be:
-
-LNP + electron + proton $\longrightarrow$ neutron
-
-For this to occur an electron and a proton have to be compressed to form a neutron but somehow they would have to add a little neutral particle in order to make up for the missing mass. Thus, in terms of available speculative knowledge in 1934, the URANTIA Paper appears to have put things back to front, it has predicted a vast release of LNP's, when it should have been mopping them up.
-
-The idea of a neutron star was classified along with other gee-whiz science fiction right up until 1967 Most astronomers believed that stars, from average size like our sun up to very massive stars, finished their lives as white dwarfs. The theoretical properties of neutrons stars were just too preposterous; for example, a thimble full would weigh 100 million tonnes; and so large stars were presumed to blow off their surplus mass a piece at a time until they got below the Chandrasekhar limit of 1.4 solar masses, when they could retire as respectable white dwarfs. This process did not entail the release of vast quantities of tiny particles devoid of electric charge as mentioned in _The URANTIA Book_.
-
-Let us move now to [UB 42:8.1](/en/The_Urantia_Book/42#p8_1) of _The URANTIA Book_, the section on sub-atomic physics. Firstly, note that the word mesotron is used to denote a carrier that shuffles backwards and forwards between neutrons and protons in the nucleus of the atom, carrying both energy and positive electric charge and serving to help bond the nucleus together. In 1934 there was no word to signify this carrier, but it was given the name ‘meson’ in 1935 by the Japanese physicist, Yukawa, who first proposed the theory. Further down the page, the word mesotron is used a second time in discussing the radioactive disintegration of the neutron in which it is stated that the neutron decays to a proton and a mesotron and that the latter subsequently decays to yield an electron and a small uncharged particle. This particle could be identified with Pauli's and Fermi's little neutral particles that later became known as neutrino's.
-
-_The URANTIA Book_ is obviously discussing two different mesotron energy carriers, one the carrier of positive charge between proton and neutron, the other the carrier of negative charge from neutron to electron. Many, many years passed, and many different theories became extinct before the characteristics of these two carriers were sorted out. The carrier of positive charge was detected and named the pion in 1946. The carrier of negative charge became known as W-, and remained a theoretical construct until 1983, when it was finally detected.
-
-The idea of anti-matter and negative energy was introduced by that great physicist, Paul Dirac in about 1930. and this also was thought by many to be science fiction material. Eventually the idea achieved respectability, and modern theories proclaim that every sub-atomic particle has an antiparticle, and that includes Pauli's little neutral particle, the neutrino. Its anti-particle is called the anti-neutrino, and both are tiny uncharged particles that to date have not been shown to have detectable mass. Modern quantum theory requires that the absorption of an anti-neutrino is effectively the same thing as the emission of a neutrino. Modem theory also tells that beta decay is really: 
-
-neutron $\longrightarrow$ proton + W-
-
-W- $\longrightarrow$ electron + anti-neutrino
-
-This is the reaction described in _The URANTIA Book_ as breakdown of the mesotron energy carrier to electron and small, uncharged particles, the theory for which was worked out in the late 1960s by Weinberg and Salam. The theory proposed a pair of charge carriers, W- + W+, and a neutral energy carrier, 2. The theory on which they were based (gauge theory) required that the particles be massless, which also meant they would act over infinite distance. This was wrong because the weak force of beta decay was known to act only over the extremely small distances within the atomic nucleus. Weinberg and Salam eventually got around the difficulty by introducing another field, the Higgs field, in which Higg's particles coalesced with W & Z and endowed them with mass. All of this remained gee-whiz theoretical physics until a Dutchan, Gerhardt Hooft, showed that the theory was renormalisable, which really is a neat mathematical trick to get rid of unwanted infinities. Hooft's' results were sufficiently exciting to set the experimental physicists searching for the $W \& Z$ particles, and these were duly found in 1983, perhaps the most significant discovery of physics in the last 50 yrs. The work resulted in the Nobel prize to Weinberg and Salam, also Glashow who was involved in the very early work.
-
-For the gravity contraction of large suns described in _The URANTIA Book_ as “giving origin to vast quantities of tiny particles devoid of electric potential which readily escape from the solar interior thus bringing about the collapse of a gigantic sun within a few days”, the sub-atonic reaction that comes about is the squeezing together of electrons and protons to form neutrons. Whereas anti-neutrinos are released in beta decay, during star collapse when a proton and an electron are squeezed together to form a neutron, it is a neutrino that is released. Both the anti-neutrino and the neutrino are tiny uncharged particles, just as described in _The URANTIA Book_.
-
-There is another remarkable statement on the remarkable page 479. At the end of the section on atomic cohesion we are told that whereas the mesotron explains certain cohesive properties of the atomic nucleus, it does not explain cohesion of proton to proton and neutron to neutron. It then tells us that the powerful force that does this is as yet undiscovered on Urantia.
-
-In 1934, the proton and the neutron were thought of as fundamental particles. There was no need for any other binding force than Yukawa's meson to account for the stability of the atomic nucleus, and _The URANTIA Book_'s powerful force was an enigma. This situation continued until, in the 1950's, a multitude of new particles called hadrons were discovered. Eventually physicists were forced to consider that all these particles, including the proton and neutron, were really made up from even smaller particles. In 1963, a theory was put forward giving these new particles the name quark, but it took another 10 to 15 years before a respectable theory had developed with adequate experimental support. By 1979, the powerful undiscovered force of [UB 42:8.6](/en/The_Urantia_Book/42#p8_6) of _The URANTIA Book_ was firmly established as a force mediated by particles called gluons that were responsible for the binding together of the quarks that made up the proton, neutron and other hadrons. So again _The URANTIA Book_ was correct in telling us of the existence of this undiscovered force that appeared to be totally unnecessary in 1934.
-
-It is probably difficult for the modern generation to realize what a remarkable thing it is for _The URANTIA Book_ to have accurately described these particles and forces in 1934, or for that matter, 1955. The basis of these discoveries is quantum theory, now having general acceptance, but in the 1930 's, it was vigorously opposed by such men as the great Albert Einstein, and even most of its founders regarded it as a makeshift mathematical invention that would soon be displaced by something more sensible. One of its most important founders was Edwin Schrodinger, who at a later stage in his life found the theory so bizarre that he stated that he wished he had never had anything to do with it. And even today, quantum theory reads more like something out of Alice in Wonderland than a serious scientific theory. The neutron 'star also was more of a science fiction scenario until, in 1967, the orbiting Einstein X-ray Observatory beamed back pictures of the neutron star at the centre of the Crab nebula, confirming observations made by radiotelescopes, and forcing astronomers to take seriously, that which previously had been regarded as science fiction.
-
-In describing correctly the release of the neutrino in neutron star formation and anti-neutrino in beta radioactive decay as well as inferring the reality of the neutron star, the authors of The URANIIA Papers stayed marginally within their instructions not to reveal anything that was not already conjectured by Earth scientists. As far as I am aware, the additional force to Yukawa's meson for maintaining the
-stability of the atomic nucleus was not proposed until at least the late 1950 's. However, in 1934, for any Earth scientist, posing as a revelator, to guess at the existence of anything as unlikely as neutrinos, anti-neutrinos, neutron stars, and the undiscovered nuclear force would have been sheer stupidity. But perhaps no more stupid than the next remarkable guess, the theory of continental drift.
+[Read more](/en/article/Ken_Glasziou/Two_Remarkable_Predictions)
 
 Ken Glasziou, Maleny, Q1d.
 
@@ -125,34 +90,6 @@ It is not difficult to imagine some of the problems which could grow out of this
 
 [Read more](/en/article/William_Wentworth/Doing_Gods_Will)
 
-I have a problem.
-
-What does God want me to do about it?
-
-Ask Him.
-
-Receive His answer.
-
-Put it into practice.
-
-This seems a reasonable way of substituting God's will for one's own selfish will. Furthermore, a great many people have had experiences where this procedure works.
-
-The difficulty with the procedure, however, is that there is no infallible way of distinguishing between di vine guidance on the one hand, and personal subconscious desires on the other. The discussion of “Erroneous Concepts of Adjuster Guidance” on p. 1207:7 makes clear the difficulties associated with interpreting divine guidance, and warns us to be extremely cautious of attributing impulses or opinions to that source. Guidance is rarely given in the precise terms in which it is sought, but rather in accordance with our “true needs” as assessed by our indwelling Adjuster, which in any case is limited by our inability to comprehend whatever message it may direct towards our conscious mind. To rely on divine guidance for specific solutions to specific problems is to run the risk of being greatly mistaken about God's will. This is NOT to deny that there are times when this procedure may be appropriate, but rather to remind ourselves that it is a procedure of last resort, for matters of great significance, when all other techniques have proved fruitless.
-
-Jesus taught that “The Spirit of the Father speaks best to man when the human mind is in an attribute of true worship” ([UB 146:2.17](/en/The_Urantia_Book/146#p2_17)) Worship, as opposed to prayer, implies the absence of any specific request for guidance. In other words, the divine influence is most effective when we are NOT seeking help for any specific decision.
-
-On [UB 37:6.3](/en/The_Urantia_Book/37#p6_3) a Brilliant Evening Star points out that the keynote of the education system of Nebadon is “character acquired by enlightened experience”. Having formed a definite desire to do God's will, we augment character by acting upon that desire, by making decisions that we imagine God wants us to. But prayer and worship are not directly connected to specific decisions. Prayer and worship take place regularly, and the habit of communing with God is maintained, but specific decisions are taken without seeking for particular guidance over that particular decision. The attempt to achieve this augments character. We gradually evolve into beings whose desire and habit is to do God's will. We gradually achieve that state where “It is my will that Your will be done”. ([UB 111:5.6](/en/The_Urantia_Book/111#p5_6))
-
-Our capacity for discovering God's will, and our ability. to put our discovery into practice, thus gradually grow as our characters evolve. We gradually become characters who are capable of finding God as we increasingly cultivate behaviour and make decisions which are compatible with His creation. As we do so, the need to obtain specific guidance for particular decisions will diminish, and there will be progressively less need to run the risks associated with that procedure.
-
-William Wentworth, Towamba, NSW
-
-> A smile is a curve that straightens out a lot of things.
-> 
-> We have two ears and one mouth so that we can listen twice as much as we speak.
-> 
-> Epictetus.
-
 ## Value For Money
 
 When you buy something you pay for it. You exchange your measure of worth for someone else's measure of worth. You make your living by generating something of worth to others. The product you generate has its value set by the worth you give to it; you alone give it its value.
@@ -161,21 +98,7 @@ If you value your product, be it time or labour, at $70 and it takes you two hou
 
 If you value your own product at $20, and it takes you the same two hours to produce it, obviously you are going to have to contribute a lot more hours of work before you can enjoy the same benefits.
 
-Most people generate the value they set on their product by having other people establish its worth. They are quite content on the one hand to take the security of a job which pays them $10 for every hour, and yet on the other hand they feel restless deep down because they sense that they are settling for second best. They genuinely feel that their product is worth more than the ten dollars an hour they are being offered for it. They cannot budge the situation though because their reality does not support a value beyond the $10. If they want to seriously take steps to increase their value for their product, and hence their quality of life, they have to change their very value system itself.
-
-Changing your value system is done authentically in two ways: you realize the value of your product from your spiritual dimensions of Truth and Value rather than from the denial and poverty consciousness of non-spiritual reality, from which any increase in value is merely greed unsubstantiated by your entire being and life itself. And secondly, if you evaluate your product from your authentic spiritual Truth your product is going to change so as to accord with the value you are now generating in life.
-
-Life is about value. Life is a continuous flux of change. Progress is the evolution in value, regression is the degradation of the present values. By nature God is an expansion in value and we experience this in our own spiritual development as we move into larger and more universally realistic and acceptable standards of behaviour. The dollar is not real. It is a token of the value we each place upon our reality.
-
-Someone with true poverty consciousness will have little value for the quality of life and for him value is wholly contained within the actual coin. Someone who lives in the spirit and knows their value system from their spiritually earned and supported self worth is of course far better equipped to support and upgrade the quality for everyone else. As s /he attains greater spiritually derived value and contributes that to others their own spiritually derived value also increases and is returned to him/her in cyclic motion, ever spiralling in an ascension of values. The value you place on life probably differs vastly from that placed on your life by your Guardian Angel ... because she has an enlarged view of your life and its meaning in the grand scheme of things. This enlarged view is available to each human as $s /$ he attains the reality which can live from real and enlarged views ... and that is a spiritual matter, a concern of your spirit.
-
-If someone comes to you and wants to benefit from your product, and the value you place on it is $70 but the value your client has set himself is $20 for his product, the client will perhaps think that there is an inequality in this exchange. But this thinking is merely the result of their value system and evidences the actual integrity of their value system. The reality is that when you have authentically valued your product at $70 — because spiritually you have no choice — then this client is going to have his own life augmented as well as his value system. If he genuinely cannot afford to meet your value in money then have him contribute the balance of the value to others. If he can pay $20 then the balance for your product is $ 50 ... or 2 of his hours. Let him agree to contribute 2&frac12; hours to the happiness of others. This keeps the cycle of values in healthy circulation.
-
-If in a week you generate 10 items of your product which net you your $700, consider contributing 108 of that to God. That means for every 10 items you market 1 of them is given away.
-
-Who do you give it to? Your own value system will let you know that. It's more than likely that your own spiritual value will select someone who will benefit by the bestowal of such a value. There's a difference between giving away, in this instance, $70 to a poverty conscious person who cannot circulate its value in anything other than monetary form (they have a good meal or get drunk and the buck stops there with a good burp!) and a person who can use it to uplift their own value and in turn recycle that value back into life for the further upliftment and support of others. Just as the rich get richer, so too do the valuable get more valuable... and this is good because the invaluable could not possibly be responsible for life's values, the valuable.
-
-The natural law of spirit is that what is given is received back in increased measure; a single acorn when planted returns a hundred acorns. As you increasingly agree with the will of God you will find that your self worth is vitally important to others. Likewise the value of your product is equally important to others. The coin in your pocket is entirely a secondary matter, it is only a token gesture of your actual worth. So, it is good and natural to give to God — to consciously return to spirit that which is from spirit in the conscious recognition that you are returning that which is of spirit ... value. Such practice is the direct expression of love ... outgoing and incoming.
+[Read more](/en/article/Rob_Crickett/Value_For_Money)
 
 Robert Crickett, Melbourne
 
@@ -201,50 +124,13 @@ From: That Monthly Message of Inspiration, Vol 4, № 8, May ' 88
 
 ---
 
-## The Remarkable Amenhotep Iv
+## The Remarkable Amenhotep IV
 
 I was fortunate to be in Cairo, Egypt two years ago. My first day there I was faced with having to spend the morning in the Cairo Museum when all I really wanted to do was see the Great Pyramids at Giza and the Sphinx which guarded them. But I was stuck for what was to be five hours in a cluttered, barely organized warehouse containing the pride of 3000 years of Ancient Egypt. “This is obnoxious”, I thought. Do I really want to spend my precious time in this dreary hall?" And yet, if one wants to learn anything at all about that captivating historic period, they simply must go there. What a remarkable window to the distant past! Go clockwise and one begins to get a sense of chronology; maybe someone didn't just throw all this stuff in here. Over there is a remarkable display of artifacts and statuary from the time of those pyramid builders Zoser, Chephren, and Mykerinos. They were the big boys a very long time ago when lower Egypt ruled the Nile. Keep on going and one will detect the power base of Egypt shifting to the south (or to Upper Egypt as the flow of the Nile is reckoned). It was in this middle period that Egypt reached perhaps the greatest of her several golden ages; when the temples of Luxor and Karnak grew in size and significance and pharaohs were laid to rest in the Valley of the Kings.
 
 In this room here — the remnants of the age of Thutmoses, who presided over an age of vast territorial expansion. This comer is devoted to Queen Hathepsut. How was she so clever to attain the hall of power? I was getting excited now. I thought, “Boy, I can't wait to get past pharaohs Amenhotep 1 through 4 because then there's Ramses, the great builder of monuments. After that it's upstairs to see the complete Tutankhamun. I'll bet there's more gold there than in all of Fort Knox!”
 
-Thank God for Mohammed, my guide, who tactfully ushered me into a relatively small room and began to explain what I was looking at, “This room is dedicated to Amenhotep IV”, he explained, “who temporarily changed the face of Egypt. He moved the capital city from Karnak to Tel El Amarna and proceeded to proclaim the Aton, the sun god, as the creator and sustainer of all. Notice the very liberalized art styles and how every time Amenhotep is depicted, it's in worshipful praise towards the Aton. All the other pharaohs were somehow themselves blessed, or sanctioned, by deity.”
-
-The man was a rebel, a delightful, humble rebel. I could not help but be attracted to him. His queen was the famous Nefertiti. Who wouldn't want to be married to her?
-
-As Einstein suggested, great men have always been besieged by Lilliputian minds. Mohammed went on to say that upon Amenhotep's death conservative forces allied against him destroyed his city and most of what it contained, The capital returned to Karnak, the powerful priests rejected Aton for the more familiar Amun and his pantheon of animistic deity buddies.
-
-“Oh, by the way, this man was so committed to the worship of Aton that he changed his name from Amenhotep IV to Ikhnaton.”
-
-Ikhnaton! That's the guy in _The URANTIA Book_! They talk about this religious giant of his age and I just saw the proof here in Room 27 !
-
-Indeed. _The URANTIA Book_ states that “never in all history did any king so methodically proceed to swing a whole nation from polytheism to monotheism as did this extraordinary Ikhnaton.” ([UB 95:5.4](/en/The_Urantia_Book/95#p5_4)) The Melchizedek author goes on to say that had he been more politically savvy, Ikhnaton may have founded a great monotheistic tradition in Egypt that possibly could have culminated in Michael's seventh bestowal taking place there. Oh well.
-
-There are two basic approaches to our understanding of _The URANTIA Book_ which, for the purpose of making this essay work, I'll call faith and fact.
-
-Faith, I suppose, can originate as a sort of wishful thinking. “I think that might be true, at least I hope it is.” However, faith evolved is knowing. There is so much of the book that speaks to the heart, no less than to the spirit within. It's as if the truth, borne by the celestial authors, meets that growing divinity of spirit within us. They fuse. We intuit, we somehow know that it's true. Which of us has not been thrilled by a passage such as this: “There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless-opportunity, unlimited progress and endless life. And the infinite treasures of such a matchless career are yours for the striving. The goal of eternity is ahead! The adventure of divinity attainment lies before you! The race for perfection is on! Whosoever will may enter, and certain victory will crown the efforts of every human being who will run the race of faith and trust...” ([UB 32:5.8](/en/The_Urantia_Book/32#p5_8)) Do we have proof of this? No. But many of us have faith-absorbed it and faith-grasped it.
-
-On the other hand, _The URANTIA Book_ is loaded with facts. We are, not to our discredit, creatures of time and space and we are mightily influenced by the logical, rational approach. “Prove it to me”, we say, “and if it meets these criteria, I'll accept it as true.” That's all right, Is not the universe predicated on the inevitable link between cause and effect?
-
-Wouldn't we love if on the six o'clock news Dan Rather said: “Scientists today discovered what they believe to be basic units of materialized energy more fundamental than even the atom or its components”? We'd revel, “Ah, they've found the -! Just like it says in _The URANTIA Book_.”
-
-Wouldn't we rejoice if the Voyager spacecraft, now pulling outwards toward Neptune and Pluto, radioed back irrefutable evidence of our solar system's eleventh and twelfth planets? Our confidence in the book would be strengthened. Indeed, this process of verification of what we've already been told is an ongoing one and is quickening.
-
-The restatement of the teachings of Jesus is made easier by the presence of the Biblical account. He was here a mere 2,000 years ago and we do have records that have survived. We, therefore, have a factual foundation upon which to build newer and grander interpretations.
-
-For the story of Adam and Eve, now 40,000 years past, we have considerably less to go on. A garbled allegory in Genesis is all. We have virtually nothing concrete upon which to place the book's elaborate story of celestial beings coming to earth, biological upliftment and a design for planetary education.
-
-Who can say what our science and discovery will prove to be true in the decades to come? I know I'I1 never forget that moment in the wonderfully cluttered Cairo Museum when I learned that Ikhnaton was actually and indeed the great religious reformer _The URANTIA Book_ says he was. There, the ongoing verification and correlation of human knowledge with divine revelation continued apace. I felt wonderful. I realized that the validation of fact is one building block towards construction of a greater faith.
-
-In Ancient Egypt, long before Ikhnaton, there was another great teacher named Amenope. He was the actual author of the First Psalm of the Bible which Ikhnaton embraced. It reads in part:
-
-“Blessed is the man...
-whose delight is in the law of
-the Lord.
-He is like a tree
-planted by streams of water
-that yields its fruit in its season...”
-
-Blessed is the remarkable Amenhotep IV, now thirty centuries gone, who, like a tree planted by streams of water, still yields his spiritual fruit for all seasons.
+[Read more](/en/article/Don_Lee/The_Remarkable_Amenhotep_IV)
 
 Don Lee, Seattle, WA, U.S.A.
 
