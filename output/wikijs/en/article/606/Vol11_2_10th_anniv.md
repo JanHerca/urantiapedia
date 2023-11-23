@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 xxxx<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Neil Francey, Madeline Noordzy, et al<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/special_front.jpg">
@@ -1028,7 +1028,7 @@ Read more in [Six-O-Six Newsletter July/August 1988](/en/article/606/Vol9_4)
 
 _And for the less scientifically minded, Rod McCourt, from Cockatoo in Victoria, in the ***September/October 1988*** issue, gave us the “Layman Astronomer's Point of View” in his article._
 
-## Exploring our Own Back Yard - The Solar System
+**Exploring our Own Back Yard - The Solar System**
 
 Sometimes, as a form of reversion from the deeper spiritual aspects of _The URANTIA Book_, it may not be a bad idea to reflect on some of the scientific or cosmic aspects which we would call astronomy.
 
