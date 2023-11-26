@@ -287,6 +287,7 @@ The Urantia Book—Russian
 The Urantia Book—Spanish
 The Urantia Book—Swedish
 The Urantia Book—Ukrainian
+The Urantian
 Theology
 Thought Adjusters
 Tidings
