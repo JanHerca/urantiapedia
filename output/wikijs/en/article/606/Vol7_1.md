@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 G. Harpur, William Wentworth, Madeline Noordzy<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-1-feb-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 1 Feb 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/The_Derivation_of_Values">
+          <span class="pr-2">The Derivation of Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -168,3 +189,25 @@ TIME July 1985
 <img src="/image/article/606/australia.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-1-feb-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 1 Feb 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/The_Derivation_of_Values">
+          <span class="pr-2">The Derivation of Values</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

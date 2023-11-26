@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Kathleen Swadling<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Black Boxes, Red Shifts And Big Bangs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-1-jan-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 Jan 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Reincarnation_Or_Repersonalization">
+          <span class="pr-2">Reincarnation Or Repersonalization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Do we ever stop to ponder as to just where _The URANTIA Book_ will be in the relatively not too distant future? Will there still be a URANTIA Brotherhood and will there still be study groups? Perhaps _The URANTIA Book_ will hold a place of honour in the average households of our society or perhaps it will be used as a text book in the public and state schools. Will it become an integrated part of society or will it be confined to a religious sect or cultish type of organization? I see that that there could be two alternative paths this revelation can take and our actions today could play a major role in determining which path it is to take.
 
@@ -31,3 +55,27 @@ I am very much in favour of having an organization to take care of the business 
 Let's channel our energies into keeping _The URANTIA Book_ a first hand experience and let the Adjusters lead their companions to the truth.
 
 Kathleen Swadling, Sydney
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Black Boxes, Red Shifts And Big Bangs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-1-jan-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 Jan 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Reincarnation_Or_Repersonalization">
+          <span class="pr-2">Reincarnation Or Repersonalization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

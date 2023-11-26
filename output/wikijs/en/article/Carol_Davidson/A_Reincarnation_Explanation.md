@@ -3,12 +3,36 @@ title: "A Reincarnation Explanation"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Buddhism, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Carol Davidson<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/Were_Talking_About_Attitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">We're Talking About Attitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-1-jan-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 Jan 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tony_Rudd/A_Tale_Of_Two_Ants">
+          <span class="pr-2">A Tale Of Two Ants</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **From: THE CIRCLES Winter 1990**
 
@@ -30,3 +54,27 @@ I have never read the explanation for reincarnation which I have just given you.
 
 **Carol Davidson**
 **Suitland, Maryland, USA**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/Were_Talking_About_Attitudes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">We're Talking About Attitudes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-1-jan-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 Jan 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Tony_Rudd/A_Tale_Of_Two_Ants">
+          <span class="pr-2">A Tale Of Two Ants</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

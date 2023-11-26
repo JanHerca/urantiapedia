@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Madeline Noordzy<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Find_the_Missing_Link">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Find the Missing Link</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-5-sept-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 5 Sept 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Since the publication of my article 'From E.T. to E-3' in the last 6-0-6, two months have elapsed and we all have had time to cool down from either indignation or excitement, depending on whether you are a believer or a disbeliever.
@@ -50,3 +71,24 @@ What more can I say?
 
 **Madeline Noordzy**
 **Melbourne**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Find_the_Missing_Link">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Find the Missing Link</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-5-sept-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 5 Sept 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

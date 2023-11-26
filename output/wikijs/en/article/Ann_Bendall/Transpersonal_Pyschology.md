@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Morality Is A Law Unto Itself</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_It_Important">
+          <span class="pr-2">Is It Important?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Ann Bendall, Nambour, Qld._
 
@@ -35,3 +59,27 @@ Transpersonal psychology has definite views on “mental health”, the capacity
 All great stuff to me, as a URANTIA Book student. My heart warms as I see science not only accepting the reality of God, but also discovering Him within. The transpersonal perspective makes very clear that it does not see itself as a substitute for traditional spiritual paths, but is confident that it might serve as a bridge to them, at the same time as providing a neutral meeting ground where practitioners of different self-knowledge disciplines could come together and work out common understandings of human development as a conscious process.
 
 Therapy at the psychological level is viewed as providing the integration necessary to achieve synthesis at the spiritual level. Theorists also postulate that one must experience the basic elements of love, faith, trust, and hope at the human level before one can experience them with God. They therefore believe that therapy can contribute to spiritual goals by providing fundamental emotional experiences that the person can subsequently use in her/his spiritual experiences, and it may also clarify distortions of one's relationship to God.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Morality Is A Law Unto Itself</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_It_Important">
+          <span class="pr-2">Is It Important?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Greetings From The Sydney Study Group"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Study Groups, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tony_Rudd/Old_coins_in_a_shoebox">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Old Coins in a Shoebox</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-4-july-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 July 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Psychic_Or_Spiritual">
+          <span class="pr-2">Psychic Or Spiritual?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I'd just like to send greetings to the readership around Australia and beyond on behalf of the members of the Sydney study group. The more we go through life and get involved with the many tasks it presents to us, the easier it is to lose touch with the relationships of our fellow human beings who aren't in our everyday vicinities. For those of us whose lives have been changed and transformed by _The URANTIA Book_ I believe there is a strong bond which joins us together in spiritual brotherhood and fellowship. This invisible brotherhood is a very powerful thing indeed as it has the potential to transform the lives of souls it comes into contact with, giving it a geometric capacity for growth. As it grows it gains momentum. This invisible brotherhood is alive and active only to the degree that its ‘members’ are alive and active. What's the point in knowing a truth if it isn't lived? Living the truth can be done by socializing your SELF — i.e. being real and truthful and sincere within your SELF and then socializing your SELF — it's the natural, unconscious, non-egotistical way of contributing to the unfolding of the Brotherhood of Man — which taken to cosmic levels is contributing to the emergence of the Supreme Being — it's the way of evolution assisted by revelation.
 
@@ -25,3 +49,27 @@ Sincerely with love and fellowship
 Kathleen Swadling, Sydney
 
 P.S. Please note that references made to the participation in the invisible brotherhood and the Brotherhood of Man are not to be confused with participation in the URANTIA Brotherhood. The former is spiritual, the latter social.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tony_Rudd/Old_coins_in_a_shoebox">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Old Coins in a Shoebox</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-4-july-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 July 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Psychic_Or_Spiritual">
+          <span class="pr-2">Psychic Or Spiritual?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

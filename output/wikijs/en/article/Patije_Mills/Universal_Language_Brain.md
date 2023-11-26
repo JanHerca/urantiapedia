@@ -3,12 +3,36 @@ title: "Linguistics — Universal Language Brain-Teasers"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Linguistics, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Patije Mills<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Extremes Of Believing As A Little Child</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="pr-2">What Does The Urantia Book Say About The Will Of God?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Patije Mills, Sarasota, Florida_
 
@@ -36,7 +60,7 @@ Monota = The living, non-spirit energy of Paradise; energy system of the Univers
 -Ta= Living, non-spirit energy
 -Monota = Living non-spiritual Energy System of the Son?
 
-Mota = High levels of cosmic insight/more than a superior philosophy — it has a stereoscopic effect on meanings and values ([UB 48:7](/en/The_Urantia_Book/48#p7)).
+Mota = High levels of cosmic insight/more than a superior philosophy — it has a stereoscopic effect on meanings and values (<a id="a62_124"></a>[UB 48:7](/en/The_Urantia_Book/48#p7)).
 - Mo = System, or philosophy?
 - Ta= Living non-spirit Energy
 - Mota = Living non-spiritual Energy Philosophy System?
@@ -87,3 +111,27 @@ Other ‘El’ syllables include: Ang-el, Immanu-el, Gabri-el, Archang-el-s, Eva
 Isn't this fascinating?
 
 Please write to me if your imagination is also stimulated and/or you have discovered some of the codes!!!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Extremes Of Believing As A Little Child</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="pr-2">What Does The Urantia Book Say About The Will Of God?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

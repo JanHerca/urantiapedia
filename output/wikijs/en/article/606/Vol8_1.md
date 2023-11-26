@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Henri Begemann, Meredith Sprunger<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-1-jan-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 1 Jan 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/A_Matter_Of_Priorities">
+          <span class="pr-2">A Matter Of Priorities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -35,7 +56,7 @@ Georg Sepp mentioned reincarnation. We found an article by Richard Bain: ‘The 
 
 ## Thought For The Month 
 
-> “Man can find the love of God without facts, and man can discover the laws of God without love, but man can never begin to appreciate the infinite symmetry, the supernal harmony, the exquisite repleteness of the all-inclusive nature of the first Source and Centre until he has found divine law and divine love and has experientially unified these in his own evolving cosmic philosophy.” (_The URANTIA Book_ [UB 111:6.6](/en/The_Urantia_Book/111#p6_6))
+> “Man can find the love of God without facts, and man can discover the laws of God without love, but man can never begin to appreciate the infinite symmetry, the supernal harmony, the exquisite repleteness of the all-inclusive nature of the first Source and Centre until he has found divine law and divine love and has experientially unified these in his own evolving cosmic philosophy.” (_The URANTIA Book_ <a id="a58_409"></a>[UB 111:6.6](/en/The_Urantia_Book/111#p6_6))
 
 ## Looking Forward To New Adventures
 
@@ -158,9 +179,9 @@ The following change in the Standards of Admission fOr URANTIA Societies es reco
 
 ## God's Presence In Action
 
-You recall Jesus' parable of the two sons, the first son when asked to work in the vineyard refused but later thought the better of it and went to work. The older son when asked to work replied, “Yes, father, I'll go,” but after his father left did not fulfill his promise. ([UB 173:3.1](/en/The_Urantia_Book/173#p3_1)) On another occasion Jesus said, “Not everyone who says to me, ‘Lord, Lord,’ shall enter the kingdom of heaven, but he who does the will of my Father in heaven.” ([Matt 7:21](/en/Bible/Matthew/7#v21)) The acid test of life is in our actions. The real nature of our faith is seen in our behaviour. “True religion must act... Always and ever religion does something; it is dynamic.” ([UB 102:2.8](/en/The_Urantia_Book/102#p2_8)) “There is no real religion apart from a highly active personality.” ([UB 102:2.7](/en/The_Urantia_Book/102#p2_7)) “The weak engage in resolutions, but the strong act.” ([UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
+You recall Jesus' parable of the two sons, the first son when asked to work in the vineyard refused but later thought the better of it and went to work. The older son when asked to work replied, “Yes, father, I'll go,” but after his father left did not fulfill his promise. (<a id="a181_275"></a>[UB 173:3.1](/en/The_Urantia_Book/173#p3_1)) On another occasion Jesus said, “Not everyone who says to me, ‘Lord, Lord,’ shall enter the kingdom of heaven, but he who does the will of my Father in heaven.” ([Matt 7:21](/en/Bible/Matthew/7#v21)) The acid test of life is in our actions. The real nature of our faith is seen in our behaviour. “True religion must act... Always and ever religion does something; it is dynamic.” (<a id="a181_701"></a>[UB 102:2.8](/en/The_Urantia_Book/102#p2_8)) “There is no real religion apart from a highly active personality.” (<a id="a181_815"></a>[UB 102:2.7](/en/The_Urantia_Book/102#p2_7)) “The weak engage in resolutions, but the strong act.” (<a id="a181_915"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
 
-Action is creative and effective when we are in touch with reality, when God is a partner in our life and work Jesus orients his universe sons and daughters saying, “Remember: I am the real vine, and you are the living branches. He who lives in me, and I in him, will bear much fruit of the spirit and experience the supreme joy of yielding this spiritual harvest... Herein is the Father glorified: that the vine has many living branches, and that every branch bears much fruit.” ([UB 180:2.1](/en/The_Urantia_Book/180#p2_1)) How does this come about; how do we become living branches which bear much nourishing and enriching fruit?
+Action is creative and effective when we are in touch with reality, when God is a partner in our life and work Jesus orients his universe sons and daughters saying, “Remember: I am the real vine, and you are the living branches. He who lives in me, and I in him, will bear much fruit of the spirit and experience the supreme joy of yielding this spiritual harvest... Herein is the Father glorified: that the vine has many living branches, and that every branch bears much fruit.” (<a id="a183_481"></a>[UB 180:2.1](/en/The_Urantia_Book/180#p2_1)) How does this come about; how do we become living branches which bear much nourishing and enriching fruit?
 
 [Read more](/en/article/Meredith_Sprunger/Gods_Presence_In_Action)
 
@@ -242,3 +263,24 @@ There will be room in the programme for presentations. Submissions will be requi
 K\&T Swadling, 7 Walsh St, Narrabeen, NSW, 2101. Ph. (02) 9137893
 
 Registration forms will be send out later in the year via 6-0-6.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-1-jan-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 1 Jan 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/A_Matter_Of_Priorities">
+          <span class="pr-2">A Matter Of Priorities</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

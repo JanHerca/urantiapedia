@@ -3,14 +3,38 @@ title: "Lao Shou Hsing, God of Longevity"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: China, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Emmanuel Lou<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 4 July 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-4-july-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 July 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/On_Our_Journey_Inward">
+          <span class="pr-2">On Our Journey Inward</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> “And Chinese tradition preserves the hazy record of the evolutionary past....” ([UB 79:8.15](/en/The_Urantia_Book/79#p8_15))
+
+> “And Chinese tradition preserves the hazy record of the evolutionary past....” (<a id="a36_82"></a>[UB 79:8.15](/en/The_Urantia_Book/79#p8_15))
 
 One of the gods of Chinese tradition is the god of longevity. The Chinese people have an ardent desire for longevity whose divinity SHOU LAO or SHOU HSING resides in the star Canopus in the constellation Argo.
 
@@ -32,7 +56,7 @@ The emperor Ch' in Shih Huang Ti (246 B.C.), after he had unified China, was ind
 
 I have had several statues of the God of Longevity in my home for a long time. One day I suddenly rushed to my URANTIA Book to find this sentence:
 
-> “Upon the outbreak of the rebellion it (the tree of life) was regrown from the central core by Van and his associates in their temporary camp. This Edentia shrub was subsequently taken to their highland retreat, where it served both Van and Amadon for more than one hundred thousand years.” ([UB 73:6.5](/en/The_Urantia_Book/73#p6_5)).
+> “Upon the outbreak of the rebellion it (the tree of life) was regrown from the central core by Van and his associates in their temporary camp. This Edentia shrub was subsequently taken to their highland retreat, where it served both Van and Amadon for more than one hundred thousand years.” (<a id="a58_294"></a>[UB 73:6.5](/en/The_Urantia_Book/73#p6_5)).
 
 What I had realized so suddenly was, the stick held by the God of Longevity is the shrub of the tree of life to be regrown and the peach of immortality is the fruit of the tree of life. The Chinese legend says he is a stellar divinity from Canopus and descends to earth in human form. Did Canopus mean Jerusem?
 
@@ -42,7 +66,7 @@ Who could better personify longevity than Van who stayed on our planet for more 
 <img src="/image/article/606/chinese_God2.jpg">
 </figure>
 
-It was the Taoists in the third century B.C. who had honoured the God of Longevity. URANTIA Book readers know how the Taoists and especially Lao-Tse had built his teachings directly upon the concepts of the Salem traditions. ([UB 94:6.3](/en/The_Urantia_Book/94#p6_3))
+It was the Taoists in the third century B.C. who had honoured the God of Longevity. URANTIA Book readers know how the Taoists and especially Lao-Tse had built his teachings directly upon the concepts of the Salem traditions. (<a id="a68_226"></a>[UB 94:6.3](/en/The_Urantia_Book/94#p6_3))
 
 One day flying in the plane to Europe, I was reading an advertisement on WANG computers, when suddenly I understood that I have to pronounce VAN like WANG 王 (say VON) The explanation came slowly after my mind was illuminated. WANG means in Chinese “King”. “Wang” is understood as a function, a mediator between Heaven and Earth, between God and mankind. We have the confirmation in the ideogram:
 
@@ -52,13 +76,13 @@ One day flying in the plane to Europe, I was reading an advertisement on WANG co
 
 The first top horizontal line is the symbol of Heaven, the second line represents mankind, the third line is Earth. The vertical line is the junction line between Heaven, man and Earth. This is the symbol for “ King ”, the middleman who interprets Heaven's will to mankind and who rules Earth on behalf of Heaven.
 
-From the planetary rebellion to the arrival of Adam and Eve the affairs of Urantia were for a long time administered by a council of planetary receivers. “And thus was Urantia governed and administered until the arrival of Adam” ([UB 67:6.5](/en/The_Urantia_Book/67#p6_5))
+From the planetary rebellion to the arrival of Adam and Eve the affairs of Urantia were for a long time administered by a council of planetary receivers. “And thus was Urantia governed and administered until the arrival of Adam” (<a id="a78_230"></a>[UB 67:6.5](/en/The_Urantia_Book/67#p6_5))
 
-> “The twelve Melchizedek receivers of Urantia did heroic work. They preserved the remnants of civilization, and their planetary policies were faithfully executed by Van.” ([UB 67:6.6](/en/The_Urantia_Book/67#p6_6))
+> “The twelve Melchizedek receivers of Urantia did heroic work. They preserved the remnants of civilization, and their planetary policies were faithfully executed by Van.” (<a id="a80_173"></a>[UB 67:6.6](/en/The_Urantia_Book/67#p6_6))
 
 Van's function on earth for several thousand years was the prototype of a king functioning as ideally understood in Chinese tradition: the king is “VAN” (or WANG) ! There is no better designation for ”King" than the name of the man who faithfully executed the planetary policies of Heaven.
 
-> “....Van, who thereby relinquished the titular authority which for over one hundred and fifty thousand years he had held by virtue of the action of the Melchizedek receivers.” ([UB 74:2.6](/en/The_Urantia_Book/74#p2_6))
+> “....Van, who thereby relinquished the titular authority which for over one hundred and fifty thousand years he had held by virtue of the action of the Melchizedek receivers.” (<a id="a84_179"></a>[UB 74:2.6](/en/The_Urantia_Book/74#p2_6))
 
 So how to pronounce VAN?
 
@@ -67,3 +91,27 @@ I would like to suggest the pronunciation which may have a linguistic and histor
 Now I say VAN like 王
 
 Emmanuel Lou, Tahiti
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 4 July 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-4-july-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 July 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/On_Our_Journey_Inward">
+          <span class="pr-2">On Our Journey Inward</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

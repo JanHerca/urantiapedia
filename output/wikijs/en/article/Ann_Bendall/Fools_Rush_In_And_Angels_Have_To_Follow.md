@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/An_Analysis_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Analysis Of The Kristen Maaherra Case</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/The_More_We_Give_The_More_Were_Given">
+          <span class="pr-2">The More We Give, The More We're Given</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Ann Bendall_
 
@@ -23,3 +47,27 @@ Even more disturbing to my growing awareness, is that if I somehow appear up on 
 Spare a little time for your seraphim. Give them a bit of fun today! Don't take unnecessary risks. My seraphim are very skilled at driving, but, boy do they get tired of having to do most of the steering and braking while I am creatively solving all of the problems of the world, overtaxing every other driver on the road.
 
 I want my seraphim to laugh with good humour at my jokes, with me, the initiator of light-hearted humour. I want my seraphim to visit new places every day and not steel themselves for another trip into hell, as a result of my refusal to learn. I want my seraphim to be rewarded on the scene of their creation. I want to synchronise with their celestial plans. Not arriving too late. Too early. Or not at all. And removing the rose-coloured glasses. My seraphim deserve a little consideration and love. Maybe tomorrow!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/An_Analysis_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Analysis Of The Kristen Maaherra Case</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/The_More_We_Give_The_More_Were_Given">
+          <span class="pr-2">The More We Give, The More We're Given</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

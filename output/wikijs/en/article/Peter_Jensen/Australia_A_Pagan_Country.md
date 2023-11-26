@@ -3,12 +3,33 @@ title: "Australia — A Pagan Country?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Christianity, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Dr. P. Jensen<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentary On Scientific Statements In The Urantia Book II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-5-june-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 June 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Can you call Australia a pagan country and get away with it ? Apparently not, as I discovered when I attempted this exercise through the media recently. People were both puzzled and offended.
 
@@ -59,3 +80,24 @@ Decency is the last and strongest refuge of unbelief. It holds God off by claimi
 The Gospels reveal that this was the same problem which dogged Jesus. It was the poor, the weak, the outcast, the fallen, who flocked to him. The righteous expressed their view of him in other ways leading to the cross. “Blessed are the poor in spirit”, said Jesus, “for theirs is the Kingdom of Heaven.”
 
 Dr. P. Jensen, Moore Theological College, Sydney
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentary On Scientific Statements In The Urantia Book II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-5-june-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 June 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

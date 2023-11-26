@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Kathleen Swadling, Emmanuel Lou, David Regal, Richard Bain, Madeline Noordzy<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-6-nov-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 Nov 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_Readers">
+          <span class="pr-2">Report On The 1987 Australian Meeting Of Urantia Book Readers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -30,7 +51,7 @@ Kathleen Swadling, Sydney
 
 ## “Thought For The Month” 
 
-> “I have come into this world to do the will of my Father and to reveal his loving character to all mankind. That, my brethren, is my mission. And this one thing I will do, regardless of the misunderstanding of my teachings by Jews or gentiles of this day or of another generation.” [UB 143:1.4](/en/The_Urantia_Book/143#p1_4)
+> “I have come into this world to do the will of my Father and to reveal his loving character to all mankind. That, my brethren, is my mission. And this one thing I will do, regardless of the misunderstanding of my teachings by Jews or gentiles of this day or of another generation.” <a id="a53_284"></a>[UB 143:1.4](/en/The_Urantia_Book/143#p1_4)
 
 ## Hsi Wang Mu — The Queen of the Western Heaven
 
@@ -38,11 +59,11 @@ Kathleen Swadling, Sydney
 <img src="/image/article/606/chinese2.jpg">
 </figure>
 
-> “... early Chinese legends place “the land of the Gods” in the west.” ([UB 79:7.4](/en/The_Urantia_Book/79#p7_4))
+> “... early Chinese legends place “the land of the Gods” in the west.” (<a id="a61_73"></a>[UB 79:7.4](/en/The_Urantia_Book/79#p7_4))
 
-> “They decided that Divinity had descended to earth in bodily form ...” ([UB 74:4.1](/en/The_Urantia_Book/74#p4_1))
+> “They decided that Divinity had descended to earth in bodily form ...” (<a id="a63_74"></a>[UB 74:4.1](/en/The_Urantia_Book/74#p4_1))
 
-> “ ... but the majority were about ready to fall down and worship them as gods” ([UB 74:3.10](/en/The_Urantia_Book/74#p3_10))
+> “ ... but the majority were about ready to fall down and worship them as gods” (<a id="a65_82"></a>[UB 74:3.10](/en/The_Urantia_Book/74#p3_10))
 
 Hsi Wang Mu, literally the Royal Lady of the West or the Queen of the Western Heaven is a legendary being supposed to dwell upon the K'un lung Mountains (1) in a large and beautiful palace, surrounded by extensive grounds. The walls of the palace constructed with pure gold are three hundred and thirty miles in circumference, with crenelations of precious stones (2). Her residence was remarkable for its beautiful gardens (3), marble and jasper buildings, a nine-storeyed tower and sparkling brooks.
 
@@ -182,3 +203,25 @@ Don't wait for the movie, act now. Make _The URANTIA Book_ part of your survival
 <img src="/image/article/606/space.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-6-nov-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 Nov 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_Readers">
+          <span class="pr-2">Report On The 1987 Australian Meeting Of Urantia Book Readers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

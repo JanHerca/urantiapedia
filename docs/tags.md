@@ -101,13 +101,16 @@ Bible—Zechariah
 Bible—Zephaniah
 Bill Sadler
 Biology
+Brotherhood of Man
 Book
 Buddhism
 Celestial beings
 Channeling
 Chemistry
 Children
+China
 Christianity
+Chronology
 Church
 Civilization & Society
 Civilizations past
@@ -185,6 +188,7 @@ Leadership
 Leadership Development
 LGBT
 Life after death
+Linguistics
 Logic
 Love and the Golden Rule
 Luz y Vida
@@ -295,6 +299,7 @@ UAI Journal
 UB annotated
 UBIS
 UFO
+Unity
 Universe Mother Spirit
 Urantia
 Urantia Foundation
@@ -305,7 +310,9 @@ Urantia Movement Event
 Urantian News
 Urantiapedia
 Urantian Journal
+Values
 Video
+Will of God
 William Sadler
 Women discrimination
 Worship

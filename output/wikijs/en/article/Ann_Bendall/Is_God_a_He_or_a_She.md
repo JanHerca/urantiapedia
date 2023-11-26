@@ -3,12 +3,36 @@ title: "Is God A He Or A She?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: God, Gender, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living With Our Cosmic Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paul_Michael_Waterman/An_Open_Letter">
+          <span class="pr-2">An Open Letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I had not realized that there was some discussion on God's sex until a few months ago, when I stumbled into a situation which I try very hard to avoid — getting into theological discussions on Our Father. From past experience I have discovered that the majority of folks who want to 'sort me out' on who God is, hold their views both strongly, blindly, irrationally and determinedly, so I switch the subject to a safer topic such as the weather.
 
@@ -34,7 +58,7 @@ The Trinity concept is a difficult one to grasp, and in theological college they
 
 But why do ladies want God to be a “She”? Surely the complement to ourselves, is our opposite. A little girl's first love is her Dad. The Blue Book tells us that there is no partnership as effective as members of the opposite sex.
 
-> “A man and a woman, co-operating, even aside from family and offspring, are vastly superior in most ways to either two men or two women.” ([UB 84:1.9](/en/The_Urantia_Book/84#p1_9))
+> “A man and a woman, co-operating, even aside from family and offspring, are vastly superior in most ways to either two men or two women.” (<a id="a60_141"></a>[UB 84:1.9](/en/The_Urantia_Book/84#p1_9))
 
 Why do ladies want Jesus and God to be female? I'm darned if I know.
 
@@ -43,3 +67,27 @@ And yet, as I think on this subject, I pose the question, would perhaps men, in 
 Maybe, if men could look at God more as a “She”, by Urantian definitions, they would be so much more spiritually responsive to mercy ministering, and be less factual and judgmental. (I love each and everyone of you, but boy, you can frustrate me at times!) I do not really know, as I am a woman and am really pleased that God and Jesus are male. But of this I am confident; the Eternal Son is described as our Mother; Michael of Nebadon is described as having a tinge more personality of the Eternal Son than of Our Father, and so perhaps they can be regarded as “She”, without too much mental discomfort. The reality, as I see it, is that once a man responds to the guidance of the spiritual influences within him, then as a by-product, any ideational confusion he may have on a material level of mind, due to the gender role requirements currently at play on Urantia, will be replaced by his Thought Adjuster and his personality's mastery of his mind; but, in the interim, it may be of value to dwell more on God's love, and Jesus' love and mercy.
 
 **Ann Bendall, Nambour, Queensland**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living With Our Cosmic Father</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Paul_Michael_Waterman/An_Open_Letter">
+          <span class="pr-2">An Open Letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

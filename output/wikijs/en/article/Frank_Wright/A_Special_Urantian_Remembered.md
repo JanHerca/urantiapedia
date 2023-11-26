@@ -9,8 +9,32 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Frank Wright<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 1 Jan 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-1-jan-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 Jan 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helen_Hutchinson/Having_The_Mind_Of_Christ">
+          <span class="pr-2">Having The Mind Of Christ</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-“When the more spiritually and cosmically advanced mortals die, they proceed immediately to the mansion worlds; in general this provision operates with those who have had assigned to them personal seraphic guardians.” ([UB 112:5.10](/en/The_Urantia_Book/112#p5_10))
+
+“When the more spiritually and cosmically advanced mortals die, they proceed immediately to the mansion worlds; in general this provision operates with those who have had assigned to them personal seraphic guardians.” (<a id="a36_219"></a>[UB 112:5.10](/en/The_Urantia_Book/112#p5_10))
 
 I promised myself I would not be sad when I went to a recent memorial service, but I could not stop the flow of tears. I try even now not to be sad as I recall the source of that memorial, but I find a place inside of me is now empty and dark. Strange how similar — joy and melancholia. Both bring tears and intense feelings close to the heart. I wonder about the benefit of each. But benefit there must be because each emotion, each sympathetic response, is spontaneous, non-evoked.
 
@@ -31,3 +55,27 @@ Goodbye Helen.
 Frank Wright, Frankfurt, West Germany
 
 > The soul would have no rainbows, had the eyes no tears.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 1 Jan 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-1-jan-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 Jan 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helen_Hutchinson/Having_The_Mind_Of_Christ">
+          <span class="pr-2">Having The Mind Of Christ</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

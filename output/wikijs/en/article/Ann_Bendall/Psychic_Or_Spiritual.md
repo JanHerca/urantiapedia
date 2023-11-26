@@ -3,12 +3,36 @@ title: "Psychic Or Spiritual?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Psychology, Spirituality, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Greetings_From_The_Sydney_Study_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Greetings From The Sydney Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-4-july-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 July 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="pr-2">You Can Never Watch Yourself Grow</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “Stabilize mind by subordination to spirit.” — I am convinced, for most of us, this is the essential prerequisite to the development of our relationship with our Paradise Father, one which allows His rule to truly rule every moment of our lives.
 
@@ -20,13 +44,13 @@ And then we were blessed with a beautiful blue book and the revealing of God's c
 
 The book supplies a wealth of information on our Father and ourselves as His children. We appreciate that many of the emotions we have felt in the past are natural, that we have a very basic material mind which can make communication by our Adjuster difficult. We also understand how our minds, conscious, subconscious are full of a lot of erroneous guff but know that in handing over all matters of mind to our Thought Adjuster, it will work to clear away all of this so that our ideals can be truly spiritualized.
 
-And we are further advised that “Religious living is devoted living, and devoted living is creative living, original and spontaneous. New religious insights arise out of conflicts which initiate the choosing of new and better reaction habits in the place of older and inferior reaction patterns. New meanings only emerge amid conflict; and conflict persists only in the face of refusal to espouse the higher values connoted in superior meanings.”" ([UB 100:4.1](/en/The_Urantia_Book/100#p4_1))
+And we are further advised that “Religious living is devoted living, and devoted living is creative living, original and spontaneous. New religious insights arise out of conflicts which initiate the choosing of new and better reaction habits in the place of older and inferior reaction patterns. New meanings only emerge amid conflict; and conflict persists only in the face of refusal to espouse the higher values connoted in superior meanings.”" (<a id="a46_449"></a>[UB 100:4.1](/en/The_Urantia_Book/100#p4_1))
 
 > “Religious perplexities are inevitable; there can be no growth without psychic conflict and spiritual agitation. The organization of a philosophic standard of living entails considerable commotion in the philosophic realms of the mind. Loyalties are not exercised on behalf of the great, the good, the true and the noble without a struggle. Effort is attendant upon clarification of spiritual vision and enhancement of cosmic insight. And the human intellect protests against being weaned from subsisting upon the nonspiritual energies of temporal existence. The slothful animal mind rebels at the effort required to wrestle with cosmic problem solving.” 
 > 
-> “But the great problem of religious living consists in the task of unifying the soul powers of the personality by the dominance of love.” ([UB 100:4.2-3](/en/The_Urantia_Book/100#p4_2))
+> “But the great problem of religious living consists in the task of unifying the soul powers of the personality by the dominance of love.” (<a id="a50_141"></a>[UB 100:4.2-3](/en/The_Urantia_Book/100#p4_2))
 
-> “Man cannot cause growth, but he can supply favourable conditions. Growth is always unconscious, be it physical, intellectual, or spiritual. Love thus grows; it cannot be created, manufactured or purchased; it must grow.”" ([UB 100:3.7](/en/The_Urantia_Book/100#p3_7))
+> “Man cannot cause growth, but he can supply favourable conditions. Growth is always unconscious, be it physical, intellectual, or spiritual. Love thus grows; it cannot be created, manufactured or purchased; it must grow.”" (<a id="a52_226"></a>[UB 100:3.7](/en/The_Urantia_Book/100#p3_7))
 
 Don't they write and express themselves so beautifully! I sit down and try to put something to paper, it takes me ten foolscap pages, and I open the blue book and there is one sentence that says the lot.
 
@@ -43,3 +67,27 @@ For a good number of us love had a price. — “Do that and I will love youl”
 A rather sobering thought helps me in my personal endeavours — ay Adjuster has to go through every base erroneous thought that 1ullow to flit through my mind. My Adjuster has worked so hard during my lifetime, it is about time I started to pull m weight — weed the garden of my mind so beauty, truth and goodness can be sown, nurtured by love and a spiritual viewpoint.
 
 Ann Bendall, Nambour, QLD
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Greetings_From_The_Sydney_Study_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Greetings From The Sydney Study Group</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-4-july-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 July 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="pr-2">You Can Never Watch Yourself Grow</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

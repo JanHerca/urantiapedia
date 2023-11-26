@@ -3,16 +3,40 @@ title: "Reflections on Mota, Language and Humour"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Philosophy, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Christopher Billington<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/A_URANTIA_Book_Fundamentalist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A URANTIA Book Fundamentalist?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-5-sept-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 5 Sept 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Find_the_Missing_Link">
+          <span class="pr-2">Find the Missing Link</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I have been re-reading the rather few remarks about 'mota'.
 
-> “Mota is more than a superior philosophy; it is to philosophy as two eyes are to one; it has a stereoscopic effect on meanings and values. Material man sees the universe, as it were, with but one eye — flat. Mansion world students achieve cosmic perspective — depth — by superimposing the perceptions of the morontia life upon the perceptions of the physical life.” ([UB 48:6.28](/en/The_Urantia_Book/48#p6_28))
+> “Mota is more than a superior philosophy; it is to philosophy as two eyes are to one; it has a stereoscopic effect on meanings and values. Material man sees the universe, as it were, with but one eye — flat. Mansion world students achieve cosmic perspective — depth — by superimposing the perceptions of the morontia life upon the perceptions of the physical life.” (<a id="a38_369"></a>[UB 48:6.28](/en/The_Urantia_Book/48#p6_28))
 
 I was later able to relate this to my interest in language and humour, and my unease about the poverty of the descriptions of humour in _The URANTIA Book_. I have always known that one of the prime sources of humour lies in the structure, the formalism, of language. Because of the symbolism a statement can have a variety of meanings. The context may show which is intended, and the hearer normally is unaware of any other meaning because of being tuned in to that context. However, the more lateral thinker (or language freak, like me) can often see more than the intended meaning. The surprise of the sudden realisation of another twist is one of the manifestations of humour, and for me a significant one. If the speaker has also seen it, then this may be a deliberate joke; if the speaker hasn't seen it then the hearer is well advised to let it pass, but maybe still enjoy the humour of it internally.
 
@@ -22,3 +46,27 @@ There are some snags to this train of thought also. Learning that languages were
 
 **Christopher Billington**
 **WTree via Buchan, Vic.**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/A_URANTIA_Book_Fundamentalist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A URANTIA Book Fundamentalist?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-5-sept-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 5 Sept 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Find_the_Missing_Link">
+          <span class="pr-2">Find the Missing Link</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

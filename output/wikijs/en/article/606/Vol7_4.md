@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Neil Francey, Peter Toy, Ken Glasziou, Madeline Noordzy, Kathleen Swadling<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-4-may-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 May 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neil_Francey/Going_International">
+          <span class="pr-2">Going International</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -38,7 +59,7 @@ As our local numbers increase, we should become less dependent on The URANTIA Br
 
 The Australian URANTIA Book communities should allow for making mistakes and pitfalls, from which they can grow their om experiential wisdom.
 
-I strongly suggest that The Association let go of timidness and experiment. As The Book says: “The act is ours, the consequences God's”. ([UB 117:5.5](/en/The_Urantia_Book/117#p5_5))
+I strongly suggest that The Association let go of timidness and experiment. As The Book says: “The act is ours, the consequences God's”. (<a id="a61_138"></a>[UB 117:5.5](/en/The_Urantia_Book/117#p5_5))
 
 Peter Toy, Perth, W.A.
 
@@ -54,7 +75,7 @@ Academy of Artistry \& Thought, 178 Marine Pde, Cottesloe, W.A. 6011.
 
 ## Thought for the Month
 
-“Progress demands development of individuality; mediocrity seeks perpetuation in standardization.” [UB 48:7.29](/en/The_Urantia_Book/48#p7_29)
+“Progress demands development of individuality; mediocrity seeks perpetuation in standardization.” <a id="a77_99"></a>[UB 48:7.29](/en/The_Urantia_Book/48#p7_29)
 
 ## Commentary On Scientific Statements In _The Urantia Book_
 
@@ -104,7 +125,7 @@ I had a minute glimpse of what the Brotherhood of Man could be like at a study g
 
 If we could only be open to one another in a spiritual sense, knowing that God is Father to us all and not get bogged down in differences of opinion or personality clashes, what a wonderful world it would be.
 
-On [UB 99:5.7](/en/The_Urantia_Book/99#p5_7), we read: “Just as certainly as men share their religious beliefs, they create a religious group of some sort which eventually creates common goals. Someday religionists will get together and actually effect co-operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. Goals rather than creeds should unify religionists”.
+On <a id="a127_3"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7), we read: “Just as certainly as men share their religious beliefs, they create a religious group of some sort which eventually creates common goals. Someday religionists will get together and actually effect co-operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. Goals rather than creeds should unify religionists”.
 
 It's not what you are, but what you strive to be, that's important and it's not what you think, but what you are, that determines your degree of spiritual unity with your fellows.
 
@@ -156,3 +177,25 @@ Avon Park Correc. Inst.
 PO BOX 1100
 Avon Park, PL 33825-1100
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-4-may-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 May 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Neil_Francey/Going_International">
+          <span class="pr-2">Going International</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

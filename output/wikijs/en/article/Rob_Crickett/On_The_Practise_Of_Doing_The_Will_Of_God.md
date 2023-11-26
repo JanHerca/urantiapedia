@@ -3,12 +3,36 @@ title: "On The Practise Of Doing The Will Of God"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Will of God, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Michael's Journey Around The Earth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-5-sept-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 Sept 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="pr-2">Urantia — Towards Light And Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Each of us who have in some degree digested and assimilated the teachings in _The URANTIA Book_, come to reach a clearing beyond our loftiness and bulk and the awesomeness of our lucidity and beauty; awesomeness which easily crushes our refusal of humility.
 
@@ -30,9 +54,9 @@ We might often speculate about how others are doing the will of God. The man who
 
 Perhaps our research takes us into the Bible's records. “(Enoch) walked with God; and he was no more, because God took him away.” ([Ge 5:24](/en/Bible/Genesis/5#v24)). “And Elijah went up to heaven in a whirlwind.” ([2Ki 2:11](/en/Bible/2_Kings/2#v11)). "He saw heaven being torn open and the Spirit descending on him like a dove. And a voice came from heaven: 'You are my Son, whom I love; with you I an well pleased. ([Mk 1:10,11](/en/Bible/Mark/1#v10)). And we reflect that these Sons at least, among others we have no record of, did O.K. Adjuster fusion, our perfection in the doing of the will of God, had been realized.
 
-And our doubts emerge. Daniel, for all his apparent doing of the will of God, was only destined to become a sleeping survivor ([Da 12:13](/en/Bible/Daniel/12#v13)), “As for you, go your way till the end. You will rest, and then at the end of the days you will rise to receive your allotted inheritance.” And what of Adam and Eve who were Adjuster indwelt ([UB 76:5.3](/en/The_Urantia_Book/76#p5_3)), and Seth who organized an entire religious movement ([UB 76:3.4-5](/en/The_Urantia_Book/76#p3_4)) for his people: “Altogether, Seth lived 912 years and then he died.” ([Ge 5:8](/en/Bible/Genesis/5#v8)). And what about the apostles and Abner and Rodan. They seemed to have absolutely everything going for them! But they weren't fused here.
+And our doubts emerge. Daniel, for all his apparent doing of the will of God, was only destined to become a sleeping survivor ([Da 12:13](/en/Bible/Daniel/12#v13)), “As for you, go your way till the end. You will rest, and then at the end of the days you will rise to receive your allotted inheritance.” And what of Adam and Eve who were Adjuster indwelt (<a id="a56_356"></a>[UB 76:5.3](/en/The_Urantia_Book/76#p5_3)), and Seth who organized an entire religious movement (<a id="a56_453"></a>[UB 76:3.4-5](/en/The_Urantia_Book/76#p3_4)) for his people: “Altogether, Seth lived 912 years and then he died.” ([Ge 5:8](/en/Bible/Genesis/5#v8)). And what about the apostles and Abner and Rodan. They seemed to have absolutely everything going for them! But they weren't fused here.
 
-With a mind which is not yet settled in the true God-knowing venue within, it appears, at first glimpse, that only the superhuman, the one in an epoch, that extra special, unique and rare anomaly of a person who is endowed with abnormal characteristics, is capable of effectively doing the will of God with any degree of recognized success — success being evinced by hearing those seldom uttered words (on earth at least), “This is a beloved son in whom I am well pleased.” ([UB 47:8.4](/en/The_Urantia_Book/47#p8_4))
+With a mind which is not yet settled in the true God-knowing venue within, it appears, at first glimpse, that only the superhuman, the one in an epoch, that extra special, unique and rare anomaly of a person who is endowed with abnormal characteristics, is capable of effectively doing the will of God with any degree of recognized success — success being evinced by hearing those seldom uttered words (on earth at least), “This is a beloved son in whom I am well pleased.” (<a id="a58_475"></a>[UB 47:8.4](/en/The_Urantia_Book/47#p8_4))
 
 Yet, the question eats away at us, Our mind is brought to its end's tether where it cries out in its struggle, “So what do I have to do to do the will of God?!!!” And daily, hourly, the question is revoiced and respondered. All the gathered data is reviewed until not a single stone is left unturned. But still the answer remains unfound, We don't realize it, but still we are busy chatting with the chef, shouting down the noise of our turny rumbles.
 
@@ -64,7 +88,7 @@ All too often we doubt ourselves and rush off to check on whether we're doing it
 
 “The Bible told me so” or “It's in _The URANTIA Book_” just doesn't cut it. It's not a real enough authority when it comes to doing the will of God. Only God is.
 
-“Go now apart by yourselves, each man alone with the Father, and there find the unemotional answer to my question, and having found such a true and sincere attitude of soul, speak that answer freely and boldly to my Father and your Father, whose infinite life of love is the very spirit of the religion we proclaim.” ([UB 155:5.14](/en/The_Urantia_Book/155#p5_14))
+“Go now apart by yourselves, each man alone with the Father, and there find the unemotional answer to my question, and having found such a true and sincere attitude of soul, speak that answer freely and boldly to my Father and your Father, whose infinite life of love is the very spirit of the religion we proclaim.” (<a id="a90_318"></a>[UB 155:5.14](/en/The_Urantia_Book/155#p5_14))
 
 Some of us 'spread the gospel' by introducing others to _The URANTIA Book_, thinking perhaps that it is the acme of spirit. And many times we witness the hungry soul who is in our presence depart, having received no spiritual nourishment at all ... and we are left with an open URANTIA Book and a longing in our heart for 'the right thing to have said'.
 
@@ -81,3 +105,27 @@ Or did we just ignore him? Did we just feel a lot safer with 'nothing ventured n
 Robert Crickett, Melbourne
 
 To save the world just love the person next to you.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Michael's Journey Around The Earth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-5-sept-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 Sept 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="pr-2">Urantia — Towards Light And Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Ian Esmore, Madeline Noordzy, Wolfgang Borutta, Steven Shanahan<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-3-april-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 3 April 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/The_relativity_of_Truth">
+          <span class="pr-2">The relativity of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -84,7 +105,7 @@ To order your copy send your cheque or money order for $12.00 per copy plus $2.0
 
 ## A Rendezvous With Michael
 
-“The remembrance supper is the believer's symbolic rendezvous with Michael. Then you become thus spirit-conscious, the son is actually present, and his spirit fraternizes with the indwelling fragment of his Father.” ([UB 179:5.6](/en/The_Urantia_Book/179#p5_6))
+“The remembrance supper is the believer's symbolic rendezvous with Michael. Then you become thus spirit-conscious, the son is actually present, and his spirit fraternizes with the indwelling fragment of his Father.” (<a id="a107_217"></a>[UB 179:5.6](/en/The_Urantia_Book/179#p5_6))
 
 On Sunday 6^th^ April the Melbourne Study Group members will hold a Remembrance Supper at 2 Salisbury Crt, Glen Waverley from 2.00 p.m. Everyone is welcome to attend. Please assist with catering by bringing a dish. Tel. 561 6089. for any other details.
 
@@ -124,7 +145,7 @@ The postal address of the community is: Universal Brotherhood P.0. Box 21, Balin
 
 ## Thought For The Month
 
-It is literally true, “Human things must be known in order to be loved, but divine things must be loved in order to be known”. ([UB 102:1.1](/en/The_Urantia_Book/102#p1_1))
+It is literally true, “Human things must be known in order to be loved, but divine things must be loved in order to be known”. (<a id="a147_128"></a>[UB 102:1.1](/en/The_Urantia_Book/102#p1_1))
 
 When Iris Eckersley rang one of the 6-0-6 team last month and suggested to include the beautiful quotation from _the Urantia Book_ on p. 383B about the Spirit of Truth in the March issue of our Newsletter, we were only too happy to oblige.
 
@@ -132,7 +153,7 @@ Not all of us feel confident enough to pick up our pen and write an article, but
 
 ## The Home At Nazareth
 
-“THE home of Joseph and Mary was a one-room stone structure with a flat roof and an adjoining building for housing the animals. The furniture consisted of a low stone table, earthenware and stone dishes and pots, a loom, a lampstand, several small stools, and mats for sleeping on the stone floor. In the back yard, near the animal annex, was the shelter which covered the oven and the mill, one to grind and another to feed the grain. As a small boy Jesus often fed grain to this mill while his mother turned the grinder.” ([UB 122:6.2](/en/The_Urantia_Book/122#p6_2))
+“THE home of Joseph and Mary was a one-room stone structure with a flat roof and an adjoining building for housing the animals. The furniture consisted of a low stone table, earthenware and stone dishes and pots, a loom, a lampstand, several small stools, and mats for sleeping on the stone floor. In the back yard, near the animal annex, was the shelter which covered the oven and the mill, one to grind and another to feed the grain. As a small boy Jesus often fed grain to this mill while his mother turned the grinder.” (<a id="a155_525"></a>[UB 122:6.2](/en/The_Urantia_Book/122#p6_2))
 
 A sketch by Vern Varass, based upon this description from _the Urantia Book_.
 
@@ -160,3 +181,25 @@ Every Wed. the Sydney Group meets at 7 Walsh St. Narrabeen, Tel 9137893
 
 Por the Atherton Tableland Growth Centre contact Geoff Harpur,P.0.Box 490
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-3-april-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 3 April 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/The_relativity_of_Truth">
+          <span class="pr-2">The relativity of Truth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

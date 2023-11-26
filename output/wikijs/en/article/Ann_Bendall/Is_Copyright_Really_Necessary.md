@@ -3,12 +3,36 @@ title: "“Is Copyright Really Necessary?”"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Foundation, Urantia Foundation—Copyright, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/More_On_Text_And_Copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More On Text And Copyright</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="pr-2">In The Real World, Inequality Is Only Natural</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Further Comments, By Ann Bendall, Nambour, Queensland_
 
@@ -29,4 +53,28 @@ A human creation which satisfies human needs by utilizing human laws is being pl
 <figure id="Figure_3" class="image urantiapedia" alt="books">
 <img src="/image/article/606/books.jpg">
 <figcaption>Poor Harold, Always said Those three books would take him to Heaven.</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/More_On_Text_And_Copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More On Text And Copyright</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="pr-2">In The Real World, Inequality Is Only Natural</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

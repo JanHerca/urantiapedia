@@ -9,6 +9,24 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Neil Francey, Madeline Noordzy, et al<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-2-10th-anniv">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 10th Anniv — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/special_front.jpg">
@@ -265,7 +283,7 @@ There is a festival of arts in Tahiti regrouping about 27 countries of the Pacif
 
 It is a unique opportunity to present _The URANTIA Book_ during these two weeks to people of the Pacific area. Mr. Racule from Fiji intends to come and help me. Is there any reader in Australia who is interested in coming to join us for this action?
 
-> “_If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a new system of intellectual philosophy._” ([UB 160:5.3](/en/The_Urantia_Book/160#p5_3))
+> “_If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call a religion is only a traditional belief or a new system of intellectual philosophy._” (<a id="a285_202"></a>[UB 160:5.3](/en/The_Urantia_Book/160#p5_3))
 
 I look forward to hearing from you very soon.
 
@@ -284,7 +302,7 @@ _In ***July / August 1987***, Emmanuel was again featured by the newsletter in a
 
 **Lao Shou Hsing God of Longevity**
 
-> “And Chinese tradition preserves the hazy record of the evolutionary past....” ([UB 79:8.15](/en/The_Urantia_Book/79#p8_15))
+> “And Chinese tradition preserves the hazy record of the evolutionary past....” (<a id="a304_82"></a>[UB 79:8.15](/en/The_Urantia_Book/79#p8_15))
 
 One of the gods of Chinese tradition is the god of longevity. The Chinese people have an ardent desire for longevity whose divinity SHOU LAO or SHOU HSING resides in the star Canopus in the constellation Argo.
 
@@ -333,7 +351,7 @@ _“Rencontre Internationale De Lecteurs Du Livre D'Grantia En France du 3 au 11
 
 _This announcement of an international meeting for Urantia Book readers was accompanied by the following quote:_
 
-> “_In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one's brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living._” ([UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
+> “_In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother? To become acquainted with one's brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living._” (<a id="a353_346"></a>[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
 
 _In the ***September / October 1986*** issue we announced:_
 
@@ -520,13 +538,13 @@ _This evoked a response from Stephen Carthew, who signed himself as the “Princ
 
 It seems to me that there are many worldly professions which are already departures into unreality. What the world regards as sanity is not necessarily sane. Although it is vital that we control our enthusiasm, we must also remember that Jesus was 
 
-> “_unreservedly dedicated to the ‘Father's Business’. This divine enthusiasm led his unspiritual brethren to think he was beside himself, but the onlooking universe appraised him as a model of sanity and the pattern of supreme devotion to the high standards of spiritual living_”. ([UB 100:7.12](/en/The_Urantia_Book/100#p7_12))
+> “_unreservedly dedicated to the ‘Father's Business’. This divine enthusiasm led his unspiritual brethren to think he was beside himself, but the onlooking universe appraised him as a model of sanity and the pattern of supreme devotion to the high standards of spiritual living_”. (<a id="a540_283"></a>[UB 100:7.12](/en/The_Urantia_Book/100#p7_12))
 
 Fred Robinson, the founder of the Universal Brotherhood in Western Australia imported the first box of URANTIA Books into this country and held the first study classes. The fruits of his work are more in the demonstration of a way of life than in the intellectual recognition of _The URANTIA Book_. To some our spiritual centre could be seen as a “departure into unreality”; to others, an expression of a “greater reality” (not that I think Will was referring to us). To “study” and carry on as usual, occupationally speaking, may be okay for some, even most, but it will not be enough for those who feel the inner calling of a “spiritual mission”. I would suggest to readers that they be slow to sit in smug judgment on those who are called forth by Spirit to do something that doesn't fit the general trend of study groups.
 
 Yes, Will, “seek ye first the kingdom of heaven” but in the seeking, don't be surprised if a “cult” is added on to thee, for
 
-> “_The cult is the skeletal structure around which grows the living and dynamic body of personal spiritual experience — true religion._” ([UB 87:7.10](/en/The_Urantia_Book/87#p7_10))
+> “_The cult is the skeletal structure around which grows the living and dynamic body of personal spiritual experience — true religion._” (<a id="a546_139"></a>[UB 87:7.10](/en/The_Urantia_Book/87#p7_10))
 
 It's a great section!
 
@@ -776,7 +794,7 @@ It has been revealed through the 7th. Bestowal Mission, as well as in other sect
 > 
 > _The kingdom of God is in the hearts of men, and when this kingdom becomes actual in the heart of every individual on a world, then God's rule has become actual on that planet; and this is the attained sovereignty of the Supreme Being._
 > 
-> Providence (care and protection of his creatures) becomes increasingly discernible as men reach upward from the material to _the spiritual. The attainment of completed spiritual insight enables the ascending personality to detect harmony in what was theretofore chaos. Even morontia mota represents a real advance in this direction. [UB 118:10.15-8](/en/The_Urantia_Book/118#p10_15) 
+> Providence (care and protection of his creatures) becomes increasingly discernible as men reach upward from the material to _the spiritual. The attainment of completed spiritual insight enables the ascending personality to detect harmony in what was theretofore chaos. Even morontia mota represents a real advance in this direction. <a id="a796_335"></a>[UB 118:10.15-8](/en/The_Urantia_Book/118#p10_15) 
 
 <figure id="Figure_12" class="image urantiapedia" alt="A TAPESTRY OF LOVING SERVICE">
 <img src="/image/article/606/spirit_of_love.jpg">
@@ -902,7 +920,7 @@ The conference was a stunning success and represented a major milestone in group
 
 _NOOSA, QUEENSLAND, OCTOBER 5- 8, 1989_
 
-Organised by the Sunshine Coast Study Group under the co-ordination of Anne Bendall, this was another live-in conference and was held at Halse Lodge, right in the heart of Noosa. The Queenslanders really did us proud, including a boat trip up the Noosa River as part of the programme, and the tropical atmosphere kept us relaxed and casual. An experiment with an all day workshop called “The Missing Link” tackled the problem of the measure of our truth involvement and righteousness from [UB 155:2.1](/en/The_Urantia_Book/155#p2_1) of _The URANTIA Book_, and gave us much food for thought.
+Organised by the Sunshine Coast Study Group under the co-ordination of Anne Bendall, this was another live-in conference and was held at Halse Lodge, right in the heart of Noosa. The Queenslanders really did us proud, including a boat trip up the Noosa River as part of the programme, and the tropical atmosphere kept us relaxed and casual. An experiment with an all day workshop called “The Missing Link” tackled the problem of the measure of our truth involvement and righteousness from <a id="a922_489"></a>[UB 155:2.1](/en/The_Urantia_Book/155#p2_1) of _The URANTIA Book_, and gave us much food for thought.
 
 We were fortunate to have the presence of Foundation Trustee Richard Keeler who contributed extensively to the conference and led our joyous song sessions during the evenings. A wonderful time was had by all.
 
@@ -1068,7 +1086,7 @@ If anyone finds their library doesn't have a copy, let us know and we can arrang
 
 _There is no official interpretation of The URANTIA Book._
 
-> “_The understandings of truth, beauty and goodness, morality, ethics, duty, love, divinity, origin, existence, purpose destiny, time, space, even Deity, are only relatively true._” ([UB 115:1.2](/en/The_Urantia_Book/115#p1_2))
+> “_The understandings of truth, beauty and goodness, morality, ethics, duty, love, divinity, origin, existence, purpose destiny, time, space, even Deity, are only relatively true._” (<a id="a1088_184"></a>[UB 115:1.2](/en/The_Urantia_Book/115#p1_2))
 
 _But over the last ten years we've published quite a few articles with people's personal interpretations. They are therefore all only “relatively true” but all are to a greater or lesser extent helpful for other readers. It is not our job to second guess the value to readers of any article, but to provide the forum within which a healthy exchange of views can be safely aired._
 
@@ -1100,25 +1118,25 @@ _The URANTIA Book_ does say what the world now needs - Jesus living in the lives
 
 _In an editorial to the ***March 1983*** issue, Neil drew some correlations between the beliefs of great humans, and references made to similar ideas in _The URANTLA Book_._
 
-_The URANTIA Book_ states that wherever possible the writers have used concepts already in existence in the literature of our world. Only when there was no equivalent expression to explain a truth did they introduce a new train of thought ([UB 0:12.11](/en/The_Urantia_Book/0#p12_11)). It is exciting to find ideas used by our greatest people duplicated in _The URANTIA Book_.
+_The URANTIA Book_ states that wherever possible the writers have used concepts already in existence in the literature of our world. Only when there was no equivalent expression to explain a truth did they introduce a new train of thought (<a id="a1120_240"></a>[UB 0:12.11](/en/The_Urantia_Book/0#p12_11)). It is exciting to find ideas used by our greatest people duplicated in _The URANTIA Book_.
 
 Goethe wrote: “The most insignificant man can be complete if he works within the limits of his own capacities, innate and acquired; but even fine talents can be obscured, neutralized and destroyed by lack of the indispensable requirement of symmetry.”
 
 Turning to UB 100:7.1 of the book, we read:
 
-> “_The unique feature of the Master's personality was not so much in its perfection, but in its symmetry..._” [UB 100:7.1](/en/The_Urantia_Book/100#p7_1)
+> “_The unique feature of the Master's personality was not so much in its perfection, but in its symmetry..._” <a id="a1126_111"></a>[UB 100:7.1](/en/The_Urantia_Book/100#p7_1)
 
 Other comparisons are to be found in the work of Emerson. He writes: “What are the best days in memory. Those in which we met a companion who was truly such. How sweet those hours when the day was not long enough...how the countenance of our friend still left some light after he had gone!”
 
 A parallel sentence in _The URANTIA Book_ states:
 
-> “_...build up for yourself and in yourself reserve galleries of beauty, goodness and artistic grandeur. But the noblest of all memories are the treasured recollections of the great moments of superb friendship._”([UB 160:4.12](/en/The_Urantia_Book/160#p4_12))
+> “_...build up for yourself and in yourself reserve galleries of beauty, goodness and artistic grandeur. But the noblest of all memories are the treasured recollections of the great moments of superb friendship._”(<a id="a1132_215"></a>[UB 160:4.12](/en/The_Urantia_Book/160#p4_12))
 
 Thomas Jefferson believed in a government that did not over-govern while providing for the real needs of the citizen.
 
 _The URANTIA Book_ on page 803 says:
 
-> “_The state is best which co-ordinates most while governing least._” ([UB 71:3.9](/en/The_Urantia_Book/71#p3_9))
+> “_The state is best which co-ordinates most while governing least._” (<a id="a1138_72"></a>[UB 71:3.9](/en/The_Urantia_Book/71#p3_9))
 
 **Neil Francey**
 
@@ -1130,9 +1148,9 @@ _In the ***August 1983*** issue, Douglas Grahame asked whether evangelization wa
 
 _Neil raised the interesting issue of women in the priesthood in the ***February 1985*** issue._
 
-> “_...the master countenanced only those teachings which accorded women equality with men._”([UB 167:5.4](/en/The_Urantia_Book/167#p5_4)) 
+> “_...the master countenanced only those teachings which accorded women equality with men._”(<a id="a1150_94"></a>[UB 167:5.4](/en/The_Urantia_Book/167#p5_4)) 
 
-> “_It was most astounding in that day when women were not even allowed on the main floor of the synagogue (being confined to the women's gallery) to behold them being recognised as authorized teachers of the gospel...And this liberation of women, giving them due recognition, was practised by the apostles immediately after the Master's departure, albeit they fell back to the olden customs in subsequent years._” ([UB 150:1.3](/en/The_Urantia_Book/150#p1_3))
+> “_It was most astounding in that day when women were not even allowed on the main floor of the synagogue (being confined to the women's gallery) to behold them being recognised as authorized teachers of the gospel...And this liberation of women, giving them due recognition, was practised by the apostles immediately after the Master's departure, albeit they fell back to the olden customs in subsequent years._” (<a id="a1152_416"></a>[UB 150:1.3](/en/The_Urantia_Book/150#p1_3))
 
 In an historic decision in London, the general synod of the Church of England opened the way for women to become priests. The vote, after a seven hour debate between bishops, clergy and laity was a clear victory of 307 votes to 183 . The Archbishop of Canterbury has warned that this could cause a serious effect on church unity.
 
@@ -1140,7 +1158,7 @@ It seems that the final ordination is a long way off. The decision making proces
 
 Religions need to expand their spiritual incentives to enlarge and enrich those who would give and those who would receive.
 
-> “_...in this brotherhood of Jesus there is no place for sectarian rivalry, group bitterness, nor assertions of moral superiority and spiritual infallibility._” ([UB 195:10.14](/en/The_Urantia_Book/195#p10_14))
+> “_...in this brotherhood of Jesus there is no place for sectarian rivalry, group bitterness, nor assertions of moral superiority and spiritual infallibility._” (<a id="a1160_163"></a>[UB 195:10.14](/en/The_Urantia_Book/195#p10_14))
 
 **Neil Francey**
 
@@ -1192,9 +1210,9 @@ _In the ***November 1986*** issue, Trevor Swadling addressed an issue on which h
 
 **John the Revelator**
 
-_The URANTLA Book_ refers to John Zebedee as John the Revelator (see [UB 47:10.2](/en/The_Urantia_Book/47#p10_2)). The Midwayers tell us:
+_The URANTLA Book_ refers to John Zebedee as John the Revelator (see <a id="a1212_69"></a>[UB 47:10.2](/en/The_Urantia_Book/47#p10_2)). The Midwayers tell us:
 
-> “_When in temporary exile in Patmos, John wrote the Book of Revelations, which you now have in greatly abridged and distorted form. This Book of Revelations contain the surviving fragments of a great revelation_.” ([UB 139:4.14](/en/The_Urantia_Book/139#p4_14))
+> “_When in temporary exile in Patmos, John wrote the Book of Revelations, which you now have in greatly abridged and distorted form. This Book of Revelations contain the surviving fragments of a great revelation_.” (<a id="a1214_217"></a>[UB 139:4.14](/en/The_Urantia_Book/139#p4_14))
 
 Certain Papers of _The URANTIA Book_ quote from the Book of Revelations, thus we may be able to piece together and understand something of the revelation that John received.
 
@@ -1299,7 +1317,7 @@ _Six-O-Six is a great place to share our insights with other readers, but it als
 
 **Why aren't they knocking on my door?**
 
-> “The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” ([UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
+> “The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” (<a id="a1319_180"></a>[UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
 
 Maybe people are knocking on your door, asking what you have got, or begging you to sell them your URANTIA Book, but they are giving my door a Wide berth. And out there in the big world I have had a few people observe a difference between me and themselves which they labelled “crazy”!
 
@@ -1338,3 +1356,22 @@ The Editor, Six-0-Six Newsletter, 2 Salisbury Court, Glen Waverley, Vic. 3150 AU
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-2-10th-anniv">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 10th Anniv — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

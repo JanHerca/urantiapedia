@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Edward_Kendrex/Some_Personal_Thoughts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Personal Thoughts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="pr-2">Living With Our Cosmic Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As a devotee to the teachings contained in _The URANTIA Book_, I am concerned about the degree of success this revelation will have in bringing about the spiritual regeneration of mankind. I am also very much aware that the degree of success is largely dependent on what the readership does with the revelation. We see the patterns of how the past epochal revelations fitted in with the evolutionary progress of mankind as we study the URANTIA Papers. Those patterns show that a portion of the existing population received a concentrated dose of the truth, then went into the world to live it, preach it or do whatever they felt inclined to do and these actions determined the flavour or the course for the new epochal era. Evolution eventually took over and truth fragmented into cultural interpretations and societies progressed accordingly. Once given, it was up to man to determine the course. When mankind was ready, another revelation was given to serve as an upstep, then evolution continued on. It is slow, subtle and gradual. We are the recipients of the fifth concentrated dose of truth. What are we to do with it?
 
@@ -16,7 +40,7 @@ As individuals, our lives may have been transformed to varying degrees, we attem
 
 As readers band together in groups, the situation takes on a different dimension. As soon as individuals get together you have the potential for a social problem. However that should be no reason to avoid getting together for on UB 28:5.14 of _The URANTIA Book_ it says:
 
-> “One of the most important lessons to be learned during your mortal career is **teamwork**.” (Emphasis U.B.'s [UB 28:5.14](/en/The_Urantia_Book/28#p5_14))
+> “One of the most important lessons to be learned during your mortal career is **teamwork**.” (Emphasis U.B.'s <a id="a42_112"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14))
 
 The spheres of perfection are manned by those who have mastered this art of working with other beings. Few are the duties in the universe for “the lone servant.”
 
@@ -24,7 +48,7 @@ So it's going to take us all the way to Paradise before we have mastered the art
 
 There are two prominent opposing points of view (with varying shades of grey in between) I see happening within the URANTIA movement around the globe which I would like to attempt to discuss and analyse in this article.
 
-The first one I like to refer to as the conservative approach. This approach would like to keep _The URANTIA Book_ low key and for it to be spread by slow personto-person contact and for many, many study groups to grow at the grass roots level as individuals grow in their commitment to the teachings. It is believed that the book is designed to be studied in its entirety for it to be of maximum benefit. This ensures slow, solid growth as people mature and their understanding grows through prolonged, consistent study and interaction with fellow readers. For this approach, any organizational activity should be concerned with the fostering of the study of the book and arranging for social interaction. The book should always be kept as a FIRST-HAND experience. Secondary works are promoted by individuals.
+The first one I like to refer to as the conservative approach. This approach would like to keep _The URANTIA Book_ low key and for it to be spread by slow person-to-person contact and for many, many study groups to grow at the grass roots level as individuals grow in their commitment to the teachings. It is believed that the book is designed to be studied in its entirety for it to be of maximum benefit. This ensures slow, solid growth as people mature and their understanding grows through prolonged, consistent study and interaction with fellow readers. For this approach, any organizational activity should be concerned with the fostering of the study of the book and arranging for social interaction. The book should always be kept as a FIRST-HAND experience. Secondary works are promoted by individuals.
 
 > Each individual unconsciously bears his own fruit according to his or her level of understanding, development, maturity and sincerity.
 
@@ -32,7 +56,7 @@ The other approach I will refer to as the more radical approach. This approach b
 
 If we understand the significance of what is taking place, we need to analyse the wisdom of the different schools of thought. The conservative approach is slow, you do not see instant results but the growth is qualitative rather than quantitative. UB 195:9.4 of _The URANTIA Book_ states:
 
-> “_Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus' religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._” [UB 195:9.4](/en/The_Urantia_Book/195#p9_4)
+> “_Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. If Christianity persists in neglecting its spiritual mission while it continues to busy itself with social and material problems, the spiritual renaissance must await the coming of these new teachers of Jesus' religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._” <a id="a58_593"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)
 
 The slow, qualitative growth and maturing of individuals does not happen overnight. If the devotion to the teachings of _The URANTIA Book_ is instrumental in developing new spiritual leaders, as I believe it is, then it takes time; it take years of study and commitment to understand the book fully, not to mention the attempting to live and degree of success in living the teachings in our daily lives. True leadership requires maturity and maturity requires growth and sincerity. An early mandate handed down by the revelators was that: "_The URANTIA Book_ is being given to those who are ready for it long before its worldwide mission. In the meantime thousands of study groups must be brought into existence. Thus will the book be in readiness to comfort and enlighten the peoples of the world when the battle for man's liberty is finally won and the world is once more made safe for the religion of Jesus and the freedom of mankind."
 
@@ -47,3 +71,27 @@ Personally I have come to the conclusion that _The URANTIA Book_ is not targeted
 One more point I would like to make about the nature of this revelation is that because it is in print it has the unique benefit of remaining a FIRST-HAND EXPERIENCE for many years to come. More people will be receiving the concentrated dose of truth for centuries to come, not just a handful in one generation as was the case with the past two revelations. So what's the hurry? It's not going to go away. People who find this book will be attracted to the fellowship of readers if that fellowship is concerning itself with the spiritual growth of the individual — nothing more, nothing less. What better way to assist the growth of the individual than by encouraging the study of _The URANTIA Book_ and the social interaction of readers and believers.
 
 **Kathleen Swadling, Sydney**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Edward_Kendrex/Some_Personal_Thoughts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Personal Thoughts</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="pr-2">Living With Our Cosmic Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

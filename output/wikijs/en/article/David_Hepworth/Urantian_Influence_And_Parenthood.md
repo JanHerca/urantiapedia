@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 David Hepworth<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">You Can Never Watch Yourself Grow</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-4-july-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 July 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## How We Fond The Book
 
@@ -37,3 +58,24 @@ As a result of both of us becoming more loving human beings we decided to have a
 Quite a lot of planning, personal difficulty, and ... baby Alexandra Elizabeth, number 3 child arrived.
 
 Our desire is to have her enter a loving family, in a positive environment, in which all of us learn from cumulative knowledge & experiences in our search for wisdom and truth. In short, striving to know God and be like him.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">You Can Never Watch Yourself Grow</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-4-july-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 4 July 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

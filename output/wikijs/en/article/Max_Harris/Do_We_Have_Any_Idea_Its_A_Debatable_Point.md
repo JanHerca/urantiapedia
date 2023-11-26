@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Max Harris<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Should_The_Original_Text_Have_Been_Altered">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Should The Original Text Have Been Altered?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-1-jan-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 Jan 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lee_Lester/Keep_The_Faith">
+          <span class="pr-2">Keep The Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Max Harris, South Australia_
 
@@ -55,3 +79,27 @@ So there I am. I read the serious thinkers on what's happening and what will hap
 It is frustrating that not even such questions are entertaining the consciousness of ordinary people. Until we know the questions we can't prepare the national psyche for the changes to be made within the national character and within ourselves.
 
 We will remain the dumb country, dedicated to the philosophy that this is the future that was. Whoosh!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Should_The_Original_Text_Have_Been_Altered">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Should The Original Text Have Been Altered?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-1-jan-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 Jan 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Lee_Lester/Keep_The_Faith">
+          <span class="pr-2">Keep The Faith</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

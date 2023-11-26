@@ -3,12 +3,36 @@ title: "Readers' Get-Together in the West"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Sue Webb<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol10_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 6 Nov 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-6-nov-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 Nov 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Webb/Towards_Specialization">
+          <span class="pr-2">Towards Specialization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As some readers would know we held a get-together over here in W.A. on the weekend of the 19th — 20th August. The venue was Fairbridge Village, a one hour drive south of Perth.
 
@@ -31,3 +55,27 @@ After lunch it was time to clean up and load the car. We then listened to Will g
 Reluctant farewells were bid with a promise to meet again in a few months. Everyone agreed that the weekend was a great success.
 
 Sue Webb, Yanchep, W.A.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol10_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 6 Nov 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-6-nov-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 Nov 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Webb/Towards_Specialization">
+          <span class="pr-2">Towards Specialization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

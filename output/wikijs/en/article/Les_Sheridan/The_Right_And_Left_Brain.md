@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Les Sheridan<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Martin_McBurney/Warburton_Conference_1990">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Warburton Conference 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Leith_Luckett/How_I_Feel">
+          <span class="pr-2">How I Feel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Talk given by Les Sheridan at the 1990 Australian Annual Conference for Readers of The URANTIA Book_.
 
@@ -47,3 +71,27 @@ Don't concern yourself with the things of the world. Seek first the kingdom of l
 The Spirit is a two-edged sword, rightly dividing material from spirit. Don't build on sand. Call upon me in your day of trouble and I will deliver you. Ask, seek, knock, where? The right mind. The chalice, the cup or container of your truth of life. Truth, life, passover corpus, the way words are used in this address. Do they resonate in your mind as they do in mine?
 
 **Les Sheridan, Warburton, Victoria**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Martin_McBurney/Warburton_Conference_1990">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Warburton Conference 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Leith_Luckett/How_I_Feel">
+          <span class="pr-2">How I Feel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

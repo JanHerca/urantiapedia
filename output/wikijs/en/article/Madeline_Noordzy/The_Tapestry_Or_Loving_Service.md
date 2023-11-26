@@ -3,12 +3,36 @@ title: "The Tapestry Or Loving Service"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Service, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol7_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 7 Sept 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-7-sept-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 Sept 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="pr-2">Springtime — A study of the Future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Why did we give the conference theme this name? In a tapestry there are many different colours; There are light and dark colours, warm and cool colours, colours for shading and colours for highlighting. All these are necessary if we are to achieve a harmonious whole. For was it not for the shading in the background, how could the highlight stand out against the rest?
 
@@ -27,3 +51,27 @@ We all have many different talents. Let us be patient win each other, for those 
 Loving service is the best antidote for the unbalanced state of fanaticism or overintellectualization of _The URANTIA Book_. I'm sure there will be plenty of good suggestions on how we can best serve. I think together we could weave a beautiful tapestry of loving service, which is the only gift we can offer to our heavenly Father.
 
 Madeline Noordzy
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol7_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 7 Sept 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-7-sept-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 Sept 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="pr-2">Springtime — A study of the Future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

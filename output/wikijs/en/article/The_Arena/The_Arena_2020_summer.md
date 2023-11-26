@@ -263,7 +263,7 @@ Soul stirring indeed! A cosmology pervaded by meaning and value, eclipsing in it
 However, right after having thus stirred our souls, these authors pour cold water over our expectations. From Paper 101 section 4:
 <br style="clear:both;"/>
 
-> _…within a few short years many of our statements regarding the physical sciences will stand in need of revision…_ <a id="a264_117"></a>[[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)]
+> _…within a few short years many of our statements regarding the physical sciences will stand in need of revision…_ <a id="a265_117"></a>[[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)]
 
 “Will stand in need of revision”. When compared with current consensus cosmology, of a young universe beginning with a hot Big Bang, the cosmology of _The Urantia Book_ is so unorthodox, and so apparently wrong, that some students of these papers now see this cosmology as little more than decoration for the book’s more important themes: its _spiritual_ and _philosophical_ revelations. But take another look at those “Limitations of Revelation” discussed in Paper 101. Immediately after stating that, with regard to scientific facts they were limited in what could reveal, they go on to list a number of things they were permitted to do. The first of these is especially interesting. Again, from Paper 101 section 4:
 
@@ -295,7 +295,7 @@ Cecilia Ann Bendall, TAS
 <img src="/image/article/The_Arena/Cecilia-Ann-Bendall-249x300.jpg" alt="Cecilia Ann Bendall">
 </figure>
 
-One of the few topics that we are told led to Jesus being _stirred within his spirit_ was the inference that we should all see alike. When asked by James Zebedee _Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?_ (<a id="a296_253"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)) Jesus replied: 
+One of the few topics that we are told led to Jesus being _stirred within his spirit_ was the inference that we should all see alike. When asked by James Zebedee _Master, how shall we learn to see alike and thereby enjoy more harmony among ourselves?_ (<a id="a297_253"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)) Jesus replied: 
 <br style="clear:both;"/>
 
 > _“James, James, when did I teach you that you should all see alike? I have come into the world to proclaim spiritual liberty to the end that mortals may be empowered to live individual lives of originality and_ **_freedom_** _before God. I do not desire that social harmony and fraternal_ **_peace_** _shall be purchased by the sacrifice of free personality and spiritual originality. What I require of you, my apostles, is spirit unity—and that you can experience in the joy of your united dedication to the wholehearted doing of the will of my Father in heaven. You do not have to see alike or feel alike or even think alike in order spiritually to be alike. Spiritual unity is derived from the consciousness that each of you is indwelt, and increasingly dominated, by the spirit gift of the heavenly Father. Your apostolic harmony must grow out of the fact that the spirit hope of each of you is identical in origin, nature, and destiny._
@@ -318,11 +318,11 @@ Chris Moseley, England
 The concept of ‘Mind’ in itself, in the abstract, unlimited sense of the word, does not imply free will, but the individual mind, mortal mind, has freewill as an inseparable, defining component. In the passage on p.1216 entitled _The Mind Arena of Choice_, there is a striking sentence that almost expresses the kernel of the whole human condition:
 <br style="clear:both;"/>
 
-> _Human consciousness rests gently upon the electrochemical mechanism below and delicately_ _touches the spirit-morontia energy system above_. <a id="a318_144"></a>[[UB 111:1.5](/en/The_Urantia_Book/111#p1_5)]
+> _Human consciousness rests gently upon the electrochemical mechanism below and delicately_ _touches the spirit-morontia energy system above_. <a id="a320_144"></a>[[UB 111:1.5](/en/The_Urantia_Book/111#p1_5)]
 
 Viewed in these terms, what a finely-tuned creature a human being seems; what a mysterious fragility everyday existence has; and what grave responsibilities are implied for all the choices we make!
 
-Whether undifferentiated, in the sense of infinite or absolute mind, or finite, acting through the ministry of the adjutant mind spirits, all Mind can be _‘superimposed upon energy.’_ (<a id="a322_185"></a>[UB 9:4.2](/en/The_Urantia_Book/9#p4_2)) in other words, mind can directionize energies through its own choices. Mind adds meaning to energy.
+Whether undifferentiated, in the sense of infinite or absolute mind, or finite, acting through the ministry of the adjutant mind spirits, all Mind can be _‘superimposed upon energy.’_ (<a id="a324_185"></a>[UB 9:4.2](/en/The_Urantia_Book/9#p4_2)) in other words, mind can directionize energies through its own choices. Mind adds meaning to energy.
 
 [Read more](/en/article/Chris_Moseley/The_Mind_Arena_of_Choice)
 <br style="clear:both;"/>

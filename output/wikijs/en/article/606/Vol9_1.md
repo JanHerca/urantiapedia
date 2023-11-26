@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Satu Sihvo, Ken Glasziou, Kathleen Swadling, Henry Begemann, David Glass<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-1-jan-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 Jan 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="pr-2">Black Boxes, Red Shifts And Big Bangs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -34,7 +55,7 @@ This year, 1988, is our ninth year of publication. We want to encourage everyone
 
 ## “Thought For The Month” 
 
-> “Spiritual development depends, first, on the maintenance of a living spiritual connection with true spiritual forces and, second, on the continuous bearing of spiritual fruit: yielding the ministry to one's fellows of that which has been received from one's spiritual benefactors. Spiritual progress is predicated on intellectual recognition of spiritual poverty coupled with the self-consciousness of perfection-hunger, the desire to know God and be like him, the wholehearted purpose to do the will of the Father in heaven”. _The URANTIA Book_ [UB 100:2.1](/en/The_Urantia_Book/100#p2_1)
+> “Spiritual development depends, first, on the maintenance of a living spiritual connection with true spiritual forces and, second, on the continuous bearing of spiritual fruit: yielding the ministry to one's fellows of that which has been received from one's spiritual benefactors. Spiritual progress is predicated on intellectual recognition of spiritual poverty coupled with the self-consciousness of perfection-hunger, the desire to know God and be like him, the wholehearted purpose to do the will of the Father in heaven”. _The URANTIA Book_ <a id="a57_549"></a>[UB 100:2.1](/en/The_Urantia_Book/100#p2_1)
 
 ## From Our Mailbag
 
@@ -210,4 +231,26 @@ May The Peace Of The Father Enfold Us All
 
 <figure id="Figure_3" class="image urantiapedia" alt="606">
 <img src="/image/article/606/606.jpg">
+</figure>
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-1-jan-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 Jan 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="pr-2">Black Boxes, Red Shifts And Big Bangs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

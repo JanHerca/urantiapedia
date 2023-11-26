@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 David Glass<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relief Associated With Being A Urantia Book Reader</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-2-march-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 March 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Why should E.T. be the only one to phone home across the light-years of the universe? We would probably be staggered by the amount of his phone bill. E.T.'s advanced technical knowledge enabled him to construct a cosmic telephone out of the odds and ends he found around his host's house. That requires quite a bit of ingenuity, but fortunately, we do not have to have the advanced capability to construct such an interplanetary communications system. If we ever try to communicate cosmically, we discover to our delight that to call the Designer of the entire universe conversational apparatus, the phone we need is already installed and ready for use. There is no installation charge, no need for repair with normal use, and no activation fee. Even the expense of the receiver and sender is abrogated by the prior preparation of the Master Communications Executive. Just as we discovered that we have the vocal apparatus to converse with as a child, so is it revealed to us that a far more intricate and critically designed cosmic phone system is already at our disposal.
 
@@ -59,3 +80,24 @@ it rings for us!
 David Glass, Fort Worth, TX, USA
 
 From: That Monthly Message of Inspiration, April 1988 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Relief Associated With Being A Urantia Book Reader</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-2-march-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 March 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

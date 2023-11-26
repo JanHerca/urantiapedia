@@ -3,12 +3,36 @@ title: "Six-0-Six Newsletter — Volume 12 No. 1 — February 1991"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Madeline Noordzy<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/A_Message_From_Gabriel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Message From Gabriel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-1-jan-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 Jan 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carol_Davidson/A_Reincarnation_Explanation">
+          <span class="pr-2">A Reincarnation Explanation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 What a 36 page Tenth Anniversary Issue wasn't able to do, my article “From E.T. to E-3” apparently was, and that is, evoke a response!
 
@@ -32,7 +56,7 @@ Kathleen's remark about life on Graceland “as a bed of roses”.
 
 When one listens to the tapes, one realizes that these are just the conditions on a normal planet, one that isn't as backward as Urantia. No wonder the book says:
 
-> “_If you could be transported from your backward and confused world to some normal planet now in the postbestowal Son age, you would think you had been transplanted to the heaven of your traditions._” ([UB 52:6.8](/en/The_Urantia_Book/52#p6_8))
+> “_If you could be transported from your backward and confused world to some normal planet now in the postbestowal Son age, you would think you had been transplanted to the heaven of your traditions._” (<a id="a58_204"></a>[UB 52:6.8](/en/The_Urantia_Book/52#p6_8))
 
 Her remark about being on guard with E-3's claim of being the fulfilment of the prophecy of another and greater John the Baptist.
 
@@ -42,11 +66,11 @@ I do not know whether E-3 is the promised prophet _The URANTIA Book_ and the Bib
 
 In the section that deals with the material handicaps of the Adjuster, the book tells us that the Adjuster's ministry is greatly retarded by our own “preconceived opinions, settled ideas, and long-standing prejudices”. And they advise us:
 
-> “_Therefore, in scrutinizing mental situations, safety lies only in the prompt recognition of each and every thought and experience for just what it actually and fundamentally is, disregarding entirely what it might have been_”. ([UB 109:5.3](/en/The_Urantia_Book/109#p5_3))
+> “_Therefore, in scrutinizing mental situations, safety lies only in the prompt recognition of each and every thought and experience for just what it actually and fundamentally is, disregarding entirely what it might have been_”. (<a id="a68_232"></a>[UB 109:5.3](/en/The_Urantia_Book/109#p5_3))
 
 Kathleen's remark about E-3's use of Jesus' saying “The harvest is plentiful, but the labourers are few”, it is interesting how different people react in different ways to the same situations. There is a group of people who took Jesus' saying “Happy are the pure in heart” and the comment about not being suspicious to heart. After the understandable initial scepticism they, despite those lousy pamphlets, slightly reluctantly at first, listened to the message. Not once, but several times. They also studied the book “The End of the World! And the Coming of the Bestowal Son”, which, as the author admits, has some errors in it, but still is an intensive study of quotations of _The URANTIA Book_ and the Bible on the subject. And after a period of vacillating between belief and disbelief they looked at the state of the world and started reasoning something like this — This possibly could happen. We don't know if it will happen, but if it does happen then it is also up to us to make something happen. And they offered their help in case it does happen to spread this message of faith in God and deliverance to a public who may not be aware of their spiritual security that we feel we've got. Not because they feel less loyal to the teachings of our beloved blue book, not because they see this message as a replacement for the teachings of _The URANTIA Book_, but more as an emergency measure meant for emergency times. With Jesus they say:
 
-> “_The downfall of nations, the crash of empires, the destruction of the unbelieving Jews, the end of an age, even the end of the world, what have these things to do with one who believes this gospel, and who has hid his life in the surety of the eternal kingdom?_” ([UB 176:3.2](/en/The_Urantia_Book/176#p3_2))
+> “_The downfall of nations, the crash of empires, the destruction of the unbelieving Jews, the end of an age, even the end of the world, what have these things to do with one who believes this gospel, and who has hid his life in the surety of the eternal kingdom?_” (<a id="a72_268"></a>[UB 176:3.2](/en/The_Urantia_Book/176#p3_2))
 
 If the world does come to a temporary end, we may not need to know about Graceland, but there will be a lot of frightened people out there who don't have _The URANTIA Book_, nor will be ready for it, but could very well be ready for the GRACELAND tapes, which reveal all those fundamental beliefs Kathleen writes about in her article, which could be a great help in alleviating their fears.
 
@@ -54,9 +78,33 @@ There are single supporting parents on a pension in this group, who cannot affor
 
 However they feel that we all have a responsibility to keep _The URANTIA Book_ untainted and free from any individual's personal interpretation and that's why this group has decided that it is wisest to keep the two separated. They are aware that the URANTIA Foundation could not endorse this message.
 
-But I would like to thank everyone for their responses. I admire you all for speaking up for your beliefs and your great loyalty towards the teachings of _The URANTIA Book_. As long as we keep discussing our viewpoints without anyone getting upset, we've got a healthy situation. And please remember that anything that I have said in this reply is not meant personally. I just feel that we should have a honest look at this whole situation and solve it as best we know how to before it gets out of hand and irreparable damage is done to the cause we all feel dedicated to and that is the spreading of The Fifth Epochal Revelation to a planet which more than ever needs it. Although we may not agree on this matter, spiritually WE ARE ONE. Didn't Jesus say: “When did I teach you that you should all see alike?” ([UB 141:5.1](/en/The_Urantia_Book/141#p5_1)) Let's hope we all can learn something from this.
+But I would like to thank everyone for their responses. I admire you all for speaking up for your beliefs and your great loyalty towards the teachings of _The URANTIA Book_. As long as we keep discussing our viewpoints without anyone getting upset, we've got a healthy situation. And please remember that anything that I have said in this reply is not meant personally. I just feel that we should have a honest look at this whole situation and solve it as best we know how to before it gets out of hand and irreparable damage is done to the cause we all feel dedicated to and that is the spreading of The Fifth Epochal Revelation to a planet which more than ever needs it. Although we may not agree on this matter, spiritually WE ARE ONE. Didn't Jesus say: “When did I teach you that you should all see alike?” (<a id="a80_812"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1)) Let's hope we all can learn something from this.
 
-By the way, did you know that even the finaliters love to speculate about the future and that even these glorified beings don't agree on the subject? ([UB 31:7.3](/en/The_Urantia_Book/31#p7_3))
+By the way, did you know that even the finaliters love to speculate about the future and that even these glorified beings don't agree on the subject? (<a id="a82_151"></a>[UB 31:7.3](/en/The_Urantia_Book/31#p7_3))
 
 **Madeline Noordzy**
 **Melbourne**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/A_Message_From_Gabriel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Message From Gabriel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-1-jan-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 Jan 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carol_Davidson/A_Reincarnation_Explanation">
+          <span class="pr-2">A Reincarnation Explanation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

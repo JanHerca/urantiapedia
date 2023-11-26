@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1993 Ron Cyr<br>© 1993 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_L_Blackstock/The_Teaching_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Teaching Mission. “If Not Actual Personalities, Then What?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/The_Australian_Conference_1993">
+          <span class="pr-2">The Australian Conference 1993</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Ron Cyr, Blaine, USA_
 
@@ -28,10 +52,11 @@ Naturally the question is “what is it to have a spiritual vision?” To be hon
 
 When the First Revelation arrived, since Caligastia and his entourage were spiritual beings, by the law of logic they had to have spiritual vision. When the rebellion struck Caligastia and his acolytes, they replaced in their minds the spiritual vision they had brought with them with the teachings of Lucifer. Their vision was now Lucifer's vision. By replacing spiritual vision with Lucifer's vision, the whole plan came to a screeching halt. But Van and Amadon kept the original spiritual vision alive until Adam and Eve arrived.
 
-The Second Revelation also came with a spiritual vision. Adam and Eve kept it alive even after they defaulted. But when they died that was the end of it. We are told that the default of Adam and Eve was more disastrous than the Caligastia upheaval (382). The Caligastia upheaval precipitated world-wide confusion and robbed all subsequent generations of the moral assistance which a well-ordered society would have provided. But even more disastrous was the Adamic default in that it deprived the races of that superior type of physical nature which would have been more consonant with spiritual aspirations.
+The Second Revelation also came with a spiritual vision. Adam and Eve kept it alive even after they defaulted. But when they died that was the end of it. We are told that the default of Adam and Eve was more disastrous than the Caligastia upheaval (<a id="a54_249"></a>[UB 34:7.6](/en/The_Urantia_Book/34#p7_6)). The Caligastia upheaval precipitated world-wide confusion and robbed all subsequent generations of the moral assistance which a well-ordered society would have provided. But even more disastrous was the Adamic default in that it deprived the races of that superior type of physical nature which would have been more consonant with spiritual aspirations.
 
 I believe that another reason that compounded the problems was that, for the first time, Urantia had nobody with a spiritual vision. So from then on it was all downhill.
-After the default the ‘light of life’ almost vanished. It was getting so serious that an emergency revelation appeared under the direction of Melchizedek (389). He volunteered to incarnate in the likeness of mortal flesh and did so with the approval of the Melchizedek receivers of the planet who feared that the ‘light of life’ would become extinguished during that period of increasing spiritual darkness. And he did foster the truth of his day and safely pass it on to Abraham and his associates.
+
+After the default the ‘light of life’ almost vanished. It was getting so serious that an emergency revelation appeared under the direction of Melchizedek (<a id="a58_155"></a>[UB 35:4.1](/en/The_Urantia_Book/35#p4_1)). He volunteered to incarnate in the likeness of mortal flesh and did so with the approval of the Melchizedek receivers of the planet who feared that the ‘light of life’ would become extinguished during that period of increasing spiritual darkness. And he did foster the truth of his day and safely pass it on to Abraham and his associates.
 
 For 94 years we were again blessed with spiritual vision and that was enough to carry the ball until the appearance of Jesus. But the Fourth Epochal Revelation did not come endowed with spiritual vision. It had to be attained by the way Jesus lived his life on Urantia.
 
@@ -46,3 +71,27 @@ The Movers and Shakers of this beautiful revelation will be the ones who are una
 I hope that I have been able to show that a spiritual revelation can only be led, run, or directed with a spiritual vision if it is to go anywhere. The lack of it will entail a lack of spiritual results. A company can be run with a human vision — but not a revelation.
 
 Be of good cheer and the Vision be with us all.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_L_Blackstock/The_Teaching_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Teaching Mission. “If Not Actual Personalities, Then What?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/The_Australian_Conference_1993">
+          <span class="pr-2">The Australian Conference 1993</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Report On Noosa '89"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peter_Webb/Towards_Specialization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Towards Specialization</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-6-nov-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 Nov 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matt_Neibaur/The_Star_Of_Bethlehem_Foretold_In_The_Urantia_Book">
+          <span class="pr-2">The Star Of Bethlehem Foretold In The Urantia Book?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The timing, weatherwise, was perfect — although the local community were hoping for well-overdue rain — but for us, attendees of the conference, the Sunshine Coast turned on its namesake.
 
@@ -24,7 +48,7 @@ Dinner at Halse Lodge was at 7 pm with entertainment thereafter by way of videos
 
 On Friday morning, after a hymn-sing-along, we divided into five groups for the “Missing Link” workshop which was based on the following quotation -
 
-> “Let me emphatically state this eternal truth: If you, by truth co-ordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired. The measure wherewith truth seekers are drawn to you represents the measure of your truth endowment, your righteousness. The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” (Jesus, [UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
+> “Let me emphatically state this eternal truth: If you, by truth co-ordination, learn to exemplify in your lives this beautiful wholeness of righteousness, your fellow men will then seek after you that they may gain what you have so acquired. The measure wherewith truth seekers are drawn to you represents the measure of your truth endowment, your righteousness. The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” (Jesus, <a id="a50_549"></a>[UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
 
 The following is a synopsis of the aims of the workshop prepared by Ken Glasziou.
 
@@ -67,3 +91,27 @@ At 1.30 pm we had our usual picture taking with Terry Hovaghimiam, draped with s
 For myself, and I believe all of the group, we give thanks to God for enabling us to attend what was an encounter of humour, companionship, kindred spirit fraternizing, and growth; and pray our next meeting will be bigger and better and may we become more spiritual as a result of NOOSA '89 .
 
 Cecilia A. Bendall, Nambour, Qld.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peter_Webb/Towards_Specialization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Towards Specialization</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-6-nov-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 Nov 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matt_Neibaur/The_Star_Of_Bethlehem_Foretold_In_The_Urantia_Book">
+          <span class="pr-2">The Star Of Bethlehem Foretold In The Urantia Book?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

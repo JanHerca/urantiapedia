@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Helen Hutchinson, Madeline Noordzy, Keith Bacon<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-2-march-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 2 March 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/The_Spirit_and_the_Flesh">
+          <span class="pr-2">The Spirit and the Flesh</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -44,11 +65,11 @@ In response to our article on “The importance of Language” in the September 
 
 ---
 
-> “Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, ”This is the way." ([UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
+> “Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, ”This is the way." (<a id="a67_451"></a>[UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
 
 ## We Are “Quivering On The Brink” !
 
-On [UB 195:9.2](/en/The_Urantia_Book/195#p9_2) we find some of the most exciting sentences in the whole book: “A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.”
+On <a id="a71_3"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2) we find some of the most exciting sentences in the whole book: “A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment.”
 
 It doesn't say the fuller revelation might conquer a materialistic empire — it says it IS DESTINED to do it. The re are no' if s' and 'maybe's' about it: It says Urantia IS NOT on the very brink.
 
@@ -56,11 +77,11 @@ And it calls it a new epoch. An epoch seems to be the time from one Son to anoth
 
 Does that mean that we're soon to have another Son? Maybe a Magisterial Son? Many things seem to point that way.
 
-On [UB 99:1.3](/en/The_Urantia_Book/99#p1_3) the Book states: “Urantia society can never hope to settle down as in ages past. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny.” And up above that it says: “Mankind is on the march toward a new and unrevealed planetary destiny.”
+On <a id="a79_3"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3) the Book states: “Urantia society can never hope to settle down as in ages past. The social ship has steamed out of the sheltered bays of established tradition and has begun its cruise upon the high seas of evolutionary destiny.” And up above that it says: “Mankind is on the march toward a new and unrevealed planetary destiny.”
 
-On [UB 114:4.4](/en/The_Urantia_Book/114#p4_4) we read: “A Most High observer is empowered, at his discretion, to seize the planetary government in times of grave planetary crises, and it is of record that this has happened thirty-three times in the history of Urantia.” (Pages [UB 43:5.17](/en/The_Urantia_Book/43#p5_17) and [UB 175:1.8](/en/The_Urantia_Book/175#p1_8) seem to tell us two of those times.)
+On <a id="a81_3"></a>[UB 114:4.4](/en/The_Urantia_Book/114#p4_4) we read: “A Most High observer is empowered, at his discretion, to seize the planetary government in times of grave planetary crises, and it is of record that this has happened thirty-three times in the history of Urantia.” (Pages <a id="a81_278"></a>[UB 43:5.17](/en/The_Urantia_Book/43#p5_17) and <a id="a81_326"></a>[UB 175:1.8](/en/The_Urantia_Book/175#p1_8) seem to tell us two of those times.)
 
-And then on [UB 134:5.1](/en/The_Urantia_Book/134#p5_1) it tells us that the evolution of our political sovereignty is NOW in a CRITICAL stage. And on page 1488 it reminds us that “Some day civil rulers will learn that the Most Highs rule in the kingdoms of men” — not the kingdom of GOD — but of MEN.
+And then on <a id="a83_12"></a>[UB 134:5.1](/en/The_Urantia_Book/134#p5_1) it tells us that the evolution of our political sovereignty is NOW in a CRITICAL stage. And on page 1488 it reminds us that “Some day civil rulers will learn that the Most Highs rule in the kingdoms of men” — not the kingdom of GOD — but of MEN.
 
 So it seems that exciting times are even now at our doorstep. We haven't yet had a Magisterial Son. On page 594 it tells us that when a Paradise Avonal comes on a first magisterial mission he ALWAYS is incarnated. He's not born as a babe like a Bestowal Son, but maybe just appears like Machiventa Melchizedek did.
 
@@ -82,7 +103,7 @@ Wed. 19th Mar. Glen Waverley: Seraphic Planetary Government, p. 1250
 
 Every Wed. the Sydney Group meets at 7 Walsh St. Narrabeen, Tel.913 7893
 
-On one of my many wondrous journeys through the Urantia Papers, I came across the name “Enoch” — “the first of the mortals of Urantia to fuse with the Thought Adjuster during the mortal life in the flesh.” [UB 45:4.13](/en/The_Urantia_Book/45#p4_13)
+On one of my many wondrous journeys through the Urantia Papers, I came across the name “Enoch” — “the first of the mortals of Urantia to fuse with the Thought Adjuster during the mortal life in the flesh.” <a id="a105_206"></a>[UB 45:4.13](/en/The_Urantia_Book/45#p4_13)
 
 In this chapter he is mentioned as one of the four and twenty counselors of the Urantia advisory council, which has its headquarters on Jerusem, the capital of our local system Satania.
 
@@ -171,7 +192,7 @@ FRANCE<br>
 
 > «Lier connaissance avec ses frères et sceurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie.» ([LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
 
-> «To become acquainted with one's brothers and sisters, to know their problems and to leam to love them, is the supreme experience of living.» ([UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
+> «To become acquainted with one's brothers and sisters, to know their problems and to leam to love them, is the supreme experience of living.» (<a id="a194_145"></a>[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
 
 \* C.E.R.D.H. : une association de type loi 1901, réunissant des lecteurs du Livre d'Urantia.
 \* C.E.R.D.H. : a non-profit society, setting together readers of The URANTIA Book.
@@ -186,7 +207,7 @@ In France<br>
 from the 3rd to the 11th of August 1986<br>
 </p>
 
-> «In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother ? To become acquainted with one's brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.» ([UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
+> «In the experience of finding the Father in heaven you discover that all men are your brothers, and does it seem strange that one should enjoy the exhilaration of meeting a newly discovered brother ? To become acquainted with one's brothers and sisters, to know their problems and to learn to love them, is the supreme experience of living.» (<a id="a209_345"></a>[UB 130:2.6](/en/The_Urantia_Book/130#p2_6))
 
 This answer of Jesus to Ganid sums up in itself the motive in his contacts with truth seekers. It definitely proves the importance Jesus attached to personal relationship qualities between men.
 
@@ -204,3 +225,25 @@ This meeting will take place in the castle of Montvillargenne, close by Chantill
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-2-march-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 2 March 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/The_Spirit_and_the_Flesh">
+          <span class="pr-2">The Spirit and the Flesh</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

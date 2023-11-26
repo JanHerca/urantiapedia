@@ -3,12 +3,36 @@ title: "An Analysis Of The Kristen Maaherra Case"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Foundation, Urantia Foundation—Copyright, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ken Glasziou<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does The Urantia Book Say About The Will Of God?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="pr-2">Fools Rush In — And Angels Have To Follow</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Ken Glasziou, Maleny, Queensland_
 
@@ -38,6 +62,30 @@ To be considered are the potential consequences of the loss of the copyright, ei
 
 This analysis may not be true in reality, though true in appearances. It gives rise to a speculation. There are approximately one quarter of a million books out there somewhere. The vast majority are gracing book shelves in an unread condition. They constitute a bottomless supply source for many years to come. Experience in Australia has demonstrated that we have no desperate need for organizations at all. Our annual general meetings arise from spontaneous offers by temporary state committees that disband after the meeting. Official organizations secularise a movement. Precedence for this discovery belongs to Alcoholics Anonymous whose lack of organization provides a useful example. Our Universe Ruler gave us this message:
 
-> “Do not strive with men — always be patient. It is not your kingdom; you are only ambassadors. Simply go forth proclaiming: This is the kingdom of heaven — God is your Father and you are his sons, and this good news, if you whole-heartedly believe it, is your eternal salvation.” ([UB 141:6.4](/en/The_Urantia_Book/141#p6_4))
+> “Do not strive with men — always be patient. It is not your kingdom; you are only ambassadors. Simply go forth proclaiming: This is the kingdom of heaven — God is your Father and you are his sons, and this good news, if you whole-heartedly believe it, is your eternal salvation.” (<a id="a64_283"></a>[UB 141:6.4](/en/The_Urantia_Book/141#p6_4))
 
 We really can simply ‘serve as we pass by’ and leave the overall directing of planetary affairs to our celestial supervisors. The Father needs us as individuals. Human organizations inevitably hinder his work.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does The Urantia Book Say About The Will Of God?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="pr-2">Fools Rush In — And Angels Have To Follow</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

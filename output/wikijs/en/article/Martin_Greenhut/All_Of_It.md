@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Agree_To_Disagree">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agree To Disagree</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-3-may-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 3 May 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patije_Mills/No_Spoon_Fed_Or_Censored_News">
+          <span class="pr-2">No Spoon-Fed Or Censored News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I have been enjoying Six-O-Six for quite a few years. The articles are so bright, intelligent, and stimulating that I often thought of writing to compliment Australians for publishing one of the more interesting and worthwhile journals in our movement. I was elated to read of the formation of AASUB and pray for your Australian Association of Readers and associated fellowship of students to grow “... in the Joy of the realization of sonship”.
 
@@ -19,3 +43,27 @@ URANTIA Book readers come from all walks of life, all races and cultures of the 
 Again let me thank you for your important publication. I pray for your continued production and a good solution to this adventure. I do not want to receive half of the next Six-O-Six, but all of it. Having it in two parts is like what is going on between the URANTIA Foundation and the Fifth Epochal Fellowship. What is going to happen in that situation is that one of them will die or they will go off in two opposing factions splitting the movement up.
 
 **Martin Greenhut, Monterey, Montana, USA**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Agree_To_Disagree">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Agree To Disagree</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-3-may-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 3 May 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patije_Mills/No_Spoon_Fed_Or_Censored_News">
+          <span class="pr-2">No Spoon-Fed Or Censored News</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

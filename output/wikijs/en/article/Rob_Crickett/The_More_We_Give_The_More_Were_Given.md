@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Robert Crickett<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fools Rush In — And Angels Have To Follow</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Robert Crickett_
 
@@ -23,3 +44,24 @@ So what went wrong? How born again must one become for a God- knowing life to re
 And that might just be the snag in the whole show, because the kingdom's about increasing the yield of the fruits of the spirit, and Suzie, like the rest of us, can only increase the yield by giving.
 
 And when the giving stops, or never really starts, what else can the branch do but wither and fade away until the husbandman has no choice but to prune it off the vine? And what can the husbandman say? ‘I showed you how to have life. I showed you the joy of loving others and drawing up living waters out of them that you and they both might have life. Did you do that?’ ‘No....but I really wanted to.’ ‘Are you sure?’ ‘Yes! Yes!’ ‘Are you really sure?’ ‘Well....er....no....I guess I’ve never really been sure about anything.' SNIP.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fools Rush In — And Angels Have To Follow</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

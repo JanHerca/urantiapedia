@@ -3,12 +3,36 @@ title: "Misinformation In The Urantia Book?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: The Urantia Book, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Willian_Wentworth/Group_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Group worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-2-march-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 March 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/The_Arrival_Of_God_Into_A_Human_Mind">
+          <span class="pr-2">The Arrival Of God Into A Human Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The possibility that _The URANTIA Book_ may contain serious misinformation came to me as I reflected on some of its statements about material aspects of matter and on historical events that may be shown to be untrue. Let me first affirm that I have total faith that _The URANTIA Book_ is what it claims to be, a revelation originating from divinely authorised sources.
 
@@ -25,3 +49,27 @@ If Lucifer had the free will to doubt the existence of God the Father, then sure
 In granting us uncertainty, God also gives us the opportunity to make the ultimate freewill decision, and that is to choose to believe in and to do the will of the God Jesus called Father, even though he may not exist. A God who loves us must give us that choice.
 
 Ken Glasziou, Maleny, Qld.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Willian_Wentworth/Group_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Group worship</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-2-march-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 March 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/The_Arrival_Of_God_Into_A_Human_Mind">
+          <span class="pr-2">The Arrival Of God Into A Human Mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Black Boxes, Red Shifts And Big Bangs"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Science, Cosmology, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol9_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 1 Jan 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-1-jan-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 Jan 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="pr-2">The URANTIA Book in 200 Years Time</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Most of us will have been confronted with television documentaries, popular science articles and even serious papers by professional scientists that tell us, without qualification, that our universe started with the Big Bang about 15 to 20 billion years ago. This information is usually presented as if it is proven fact.
 
@@ -46,4 +70,28 @@ Ken Glasziou, Maleny, Qld.
 
 <figure id="Figure_2" class="image urantiapedia" alt="end">
 <img src="/image/article/606/end.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol9_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 1 Jan 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-1-jan-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 Jan 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="pr-2">The URANTIA Book in 200 Years Time</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

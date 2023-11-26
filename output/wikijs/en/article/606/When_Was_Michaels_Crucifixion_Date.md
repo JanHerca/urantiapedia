@@ -3,12 +3,36 @@ title: "Six-0-Six Newsletter — Volume 8 No. 2 — March 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Jesus life, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 2 March 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-2-march-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 March 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Reno/Land_Of_The_Morning_Calm">
+          <span class="pr-2">Land Of The Morning Calm</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is sometimes interesting to see how close Science is getting to the truth. Take for instance the debate about the correct date of the crucifixion.
 
@@ -33,3 +57,27 @@ An eclipsed moon of ten looks red. Sunlight refracted through the earth's atmosp
 If you are sticking to the Midwayers' record of April 7, A.D. 30, I wonder if you can tell me where Humphreys and Waddington went wrong. Unless you are an historian or a theologian, perhaps the date of the crucifixion is not important, nor the fact that this planet was the only one throughout the grand universe where a creator son was treated in this manner, but rather the superb manner in which Jesus met his death.
 
 From: Science News, Vol. 125, January 1984
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 2 March 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-2-march-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 March 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Reno/Land_Of_The_Morning_Calm">
+          <span class="pr-2">Land Of The Morning Calm</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

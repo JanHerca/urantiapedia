@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Leith Luckett<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Right And Left Brain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Terry_Hovaghimian/A_Truth_Junkie">
+          <span class="pr-2">A “Truth Junkie”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This beautiful poem was written by Leith during the 1990 Australian Conference._
 
@@ -39,3 +63,27 @@ to grasp, enjoy, and embrace all my ties.
 
 
 **Leith Luckett, Melbourne**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Right And Left Brain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Terry_Hovaghimian/A_Truth_Junkie">
+          <span class="pr-2">A “Truth Junkie”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

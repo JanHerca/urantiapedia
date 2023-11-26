@@ -3,12 +3,33 @@ title: "Say Hello to a Fellow Urantian"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Trevor_Swadling/John_The_Revelator">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">John the Revelator</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-8-nov-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 Nov 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Since involvement with the publishing and mailing of the 6-0-6, I have become very aware of the great isolation of many readers in Australia. They have to cope with what Steve Shanahan named so aptly: “The tyranny of distance”.
 
@@ -30,11 +51,11 @@ And what a study group it was! Although we had made some sort of plan as to what
 <img src="/image/article/606/distance.jpg">
 </figure>
 
-After a short introduction from Leslie, we read the first page of the Foreword. Jim, an American, was very interested in the evolution of the different races. Somehow we arrived at the very sensitive topic: “The unwise perpetuation of racially degenerate stocks” ([UB 99:3.5](/en/The_Urantia_Book/99#p3_5)) This in turn led to Paper 72: “Government on a Neighbouring Planet” and the subject: “Dealing with Crime” ([UB 72:10.1](/en/The_Urantia_Book/72#p10_1))
+After a short introduction from Leslie, we read the first page of the Foreword. Jim, an American, was very interested in the evolution of the different races. Somehow we arrived at the very sensitive topic: “The unwise perpetuation of racially degenerate stocks” (<a id="a53_264"></a>[UB 99:3.5](/en/The_Urantia_Book/99#p3_5)) This in turn led to Paper 72: “Government on a Neighbouring Planet” and the subject: “Dealing with Crime” (<a id="a53_414"></a>[UB 72:10.1](/en/The_Urantia_Book/72#p10_1))
 
 Other questions came up: “What about extraterrestrials?” Rodney, a guy from Montana, USA, wanted to know. This was an introduction to the four previous epochal revelations: The Dalamatian teachings, Adam and Eve, Melchizedek and Jesus of Nazareth.
 
-“That about Jesus' second coming, what does _The URANIIA Book_ say about that?” was the question from Liam, a young chap from England. So we read “The return of Michael” ([UB 176:4.1](/en/The_Urantia_Book/176#p4_1)) and “The Yaster's second coming” ([UB 176:2.1](/en/The_Urantia_Book/176#p2_1)) “Why did Jesus call himself the Son of Man?” ([UB 126:3.6](/en/The_Urantia_Book/126#p3_6)) “Who are the Midwayers?” ([UB 77:0.1](/en/The_Urantia_Book/77#p0_1) & [UB 77:6.1](/en/The_Urantia_Book/77#p6_1)) We touched on Rodan of Alexandria. ( [UB 160:1.1](/en/The_Urantia_Book/160#p1_1) ) I introduced the subject of the Thought Adjuster, we covered the writing of the Gospels ([UB 121:8.1](/en/The_Urantia_Book/121#p8_1))
+“That about Jesus' second coming, what does _The URANIIA Book_ say about that?” was the question from Liam, a young chap from England. So we read “The return of Michael” (<a id="a57_171"></a>[UB 176:4.1](/en/The_Urantia_Book/176#p4_1)) and “The Yaster's second coming” (<a id="a57_250"></a>[UB 176:2.1](/en/The_Urantia_Book/176#p2_1)) “Why did Jesus call himself the Son of Man?” (<a id="a57_341"></a>[UB 126:3.6](/en/The_Urantia_Book/126#p3_6)) “Who are the Midwayers?” (<a id="a57_412"></a>[UB 77:0.1](/en/The_Urantia_Book/77#p0_1) & <a id="a57_456"></a>[UB 77:6.1](/en/The_Urantia_Book/77#p6_1)) We touched on Rodan of Alexandria. ( <a id="a57_536"></a>[UB 160:1.1](/en/The_Urantia_Book/160#p1_1) ) I introduced the subject of the Thought Adjuster, we covered the writing of the Gospels (<a id="a57_671"></a>[UB 121:8.1](/en/The_Urantia_Book/121#p8_1))
 
 We had a very interested audience. Three people intended to leave Australia in the near future and wanted to join study groups in the country they were returning to. Tanya wanted to visit the Boulder School. We advised them to get in touch with Chicago. The seeds were planted.
 
@@ -77,3 +98,24 @@ Next time you're touring around Australia, why not say
 Hello To A Fellow Urantian!
 
 Madeline Noordzy
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Trevor_Swadling/John_The_Revelator">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">John the Revelator</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-8-nov-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 Nov 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

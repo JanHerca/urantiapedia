@@ -3,12 +3,36 @@ title: "Six-0-Six Newsletter — Volume 8 No. 5 — September 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Buddhism, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Robert Crickett<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">General Conference Of Urantia Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-5-sept-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 Sept 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Friendship_Brotherhood_Sonship">
+          <span class="pr-2">Friendship, Brotherhood and Sonship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Reincarnation is a fact of life held by millions of people the world over. The people largely responsible for the philosophy's dissemination, and held in high regard for their knowledge on the subject, are Tibetan and Chinese Mahayana Buddhists, Thai Burmese and Sri Lankan Hinayana Buddhists, Chinese Taoists, Hindus, and a seemingly endless array of homegrown pantheistic Asian offshoots which vary from town to town. It is from these Asian sources that the idea of reincarnation filtered into Western religious arenas of thought. Some of the theory came to us in complete systems, such as with the growing-in-popularity Tibetan approach, while some of it came in dribs and drabs, snippets from religions neatly edited by the evangelist to suit the social climate and his or her spiritual capacity and conditioning.
 
@@ -108,3 +132,27 @@ The universe, whether URANTIA Book portrayed, Edgar Cayce portrayed, or Hinduism
 May God bless you and keep you. And may your Adjuster-fusion be swift and sure.
 
 Robert Crickett, Melbourne
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">General Conference Of Urantia Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-5-sept-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 Sept 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Friendship_Brotherhood_Sonship">
+          <span class="pr-2">Friendship, Brotherhood and Sonship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

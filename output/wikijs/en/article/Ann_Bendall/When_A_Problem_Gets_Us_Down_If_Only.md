@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/June_Wilson/Does_Anyone_Want_To_Go_Buy_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Does Anyone Want To Go Buy The Book?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-5-sept-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 Sept 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Ann Bendall, Sunshine Coast_
 
@@ -23,3 +44,24 @@ A self-help group is formed by one person having the courage to say to another: 
 And how do we find that someone? We are currently living in a very exciting period in time, where notice boards are available in neighbourhood centres; most church groups are into pure social service; newspapers abound, and there are local advisory centres and the good old Yellow Pages list an ever growing number of groups set up by folks just the same as us, not deeming themselves to be experts but simply to be friends.
 
 Trust is the price of admission, and the bonus is that you will learn so much about life, yourself and the uniqueness of each of the members of the group, whilst, at the same time imparting to the group the benefit of your experiences and the colour of your personal presence.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/June_Wilson/Does_Anyone_Want_To_Go_Buy_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Does Anyone Want To Go Buy The Book?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-5-sept-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 Sept 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

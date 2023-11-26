@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 June Wilson<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does The Urantia Book Say About Communication With The Spirit World?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-5-sept-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 Sept 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/When_A_Problem_Gets_Us_Down_If_Only">
+          <span class="pr-2">When A Problem Gets Us Down, If Only...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By June Wilson, Brisbane_
 
@@ -27,3 +51,27 @@ With so many authorities on salvation, self-esteem, self-realisation, discoverin
 Another example of changing times can be found in Melbourne. ‘The Advocate’, the newspaper of the Catholic archdiocese, has closed after 122 years.
 
 So whether it's the Bible, the Koran or _The URANTIA Book_, there are important social implications relating to religious teachings in book form. We need to take them into account when looking at ways of disseminating teachings.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Does The Urantia Book Say About Communication With The Spirit World?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-5-sept-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 Sept 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/When_A_Problem_Gets_Us_Down_If_Only">
+          <span class="pr-2">When A Problem Gets Us Down, If Only...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 William Wentworth<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol13_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 5 Sept 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-5-sept-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 Sept 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Character_Ennoblement">
+          <span class="pr-2">Character Ennoblement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _William Wentworth, Towamba, New South Wales_
 
@@ -32,6 +56,30 @@ Similarly, both strands exhibit the influence of the humanist revolt. Only a phi
 
 But whichever way we choose to look at it, Environmentalism promises to be with us for quite a while yet. As _The URANTIA Book_ (UB 85:0.4) points out,
 
-> “_mortal man has worshipped everything on the face of the earth, including himself._” [UB 85:0.4](/en/The_Urantia_Book/85#p0_4)
+> “_mortal man has worshipped everything on the face of the earth, including himself._” <a id="a58_88"></a>[UB 85:0.4](/en/The_Urantia_Book/85#p0_4)
 
 Nature worship is not new. The resurgence of such a philosophy in western civilization, if it is as extensive as I think it is, may well have quite wide effects. And unless Western youth chooses once again to worship God, Environmentalism may well continue to appeal to them as an alternative.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol13_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 5 Sept 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-5-sept-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 Sept 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Character_Ennoblement">
+          <span class="pr-2">Character Ennoblement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

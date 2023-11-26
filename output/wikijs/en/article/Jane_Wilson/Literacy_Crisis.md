@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Jane Wilson<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_It_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is It Important?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/What_Now">
+          <span class="pr-2">What Now?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Jane Wilson, Brisbane_
 
@@ -35,3 +59,27 @@ This is further evidenced in England where the literary magazines, ‘The Listen
 Quite obviously publications around the world will come and go through the 90's.In the many new books and magazines, it is to be hoped spiritual perspectives are addressed. Consumer demand will grow, and when a measurable trend is identified, commercial interests will gleefully claim ownership.
 
 In the meantime, enjoy our solitude. Few out there are reading this.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Is_It_Important">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is It Important?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/What_Now">
+          <span class="pr-2">What Now?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

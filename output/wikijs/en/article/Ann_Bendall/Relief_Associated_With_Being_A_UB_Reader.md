@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Ann Bendall<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/The_Purpose_Of_The_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose Of The 5th Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-2-march-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 March 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/We_Too_Can_Phone_Home">
+          <span class="pr-2">We Too Can “Phone Home”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “Know the truth and the truth will set you free”.
 
@@ -38,4 +62,28 @@ Ann Bendall, Nambour, QLD
 <figure id="Figure_3" class="image urantiapedia" alt="coin">
 <img src="/image/article/606/coin7.jpg">
 <figcaption>This coin is one of a series of 50 minted between 1879 and 1915 by E.W. Cole. They were designed as advertising tokens — to be used for a 3d. discount in any purchase from “Coles Book Arcade” in Bourke Street, Melbourne.</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/The_Purpose_Of_The_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Purpose Of The 5th Epochal Revelation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-2-march-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 March 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/We_Too_Can_Phone_Home">
+          <span class="pr-2">We Too Can “Phone Home”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

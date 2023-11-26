@@ -3,12 +3,33 @@ title: "On The Early Christians"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Christianity, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/A_Vision_For_The_Future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Vision For The Future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _from “The Religions of Man”, by Huston Smith_
 
@@ -32,4 +53,25 @@ This love of God is precisely what the first Christians did feel. They became co
 
 So astonishing did the first Christians find this love and the fact that it had actually entered their lives, they had to appeal for help in describing it. Paul, in closing one of the earliest recorded sermons on the Good News, turned back to the words of one of the prophets: “Look at this you scornful souls and lose yourselves in wonder, for in your days I do such a deed that, if men were to tell you this story, you would not believe it.”
 
-> “_True, a marvelous manifestation of brotherly love and unexampled goodwill did spring up in these early communities of believers... they were filled with joy and they lived such new and unique lives that all men were attracted to their teaching about Jesus._” ([UB 194:4.6](/en/The_Urantia_Book/194#p4_6))
+> “_True, a marvelous manifestation of brotherly love and unexampled goodwill did spring up in these early communities of believers... they were filled with joy and they lived such new and unique lives that all men were attracted to their teaching about Jesus._” (<a id="a55_264"></a>[UB 194:4.6](/en/The_Urantia_Book/194#p4_6))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/A_Vision_For_The_Future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Vision For The Future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

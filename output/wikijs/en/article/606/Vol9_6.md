@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Kathleen Swadling, David Elders, Ken T. Glasziou<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-6-nov-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 Nov 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="pr-2">Report On The South Pacific Regional Meeting Of Readers Of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -26,7 +47,7 @@ The 6-0-6 wishes all of you a safe and joyous Christmas and New Year. We like to
 
 ## “Thought For The Month” 
 
-> “Though you cannot find God by searching, if you will submit to the leading of the indwelling spirit, you will be unerringly guided, step by step, life by life, through universe upon universe, and age by age, until you finally stand in the presence of the Paradise personality of the Universal Father”. _The URANTIA Book_ [UB 2:5.5](/en/The_Urantia_Book/2#p5_5)
+> “Though you cannot find God by searching, if you will submit to the leading of the indwelling spirit, you will be unerringly guided, step by step, life by life, through universe upon universe, and age by age, until you finally stand in the presence of the Paradise personality of the Universal Father”. _The URANTIA Book_ <a id="a49_324"></a>[UB 2:5.5](/en/The_Urantia_Book/2#p5_5)
 
 ## A Psalm Of Life
 
@@ -139,7 +160,7 @@ A talk given by David Elders at the Pacific Regional Meeting of readers of _The 
 
 Ranelagh House, Robertson, Australia 13 October 1988
 
-> “Concerning insight, the recognition of moral values and the discernment of spiritual meanings, all that the human mind can do is to discover, recognize, interpret, and choose.” ([UB 196:3.10](/en/The_Urantia_Book/196#p3_10))
+> “Concerning insight, the recognition of moral values and the discernment of spiritual meanings, all that the human mind can do is to discover, recognize, interpret, and choose.” (<a id="a162_181"></a>[UB 196:3.10](/en/The_Urantia_Book/196#p3_10))
 
 > “To a man with a harmer, the whole world looks like a nail!” Anonymous.
 
@@ -201,3 +222,25 @@ Resentments, envies, fears,
 Then light the single flame of love 
 The darkness disappears!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-6-nov-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 Nov 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="pr-2">Report On The South Pacific Regional Meeting Of Readers Of The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

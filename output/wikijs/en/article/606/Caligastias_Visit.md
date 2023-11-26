@@ -3,12 +3,36 @@ title: "Caligastia's Visit!"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/New_Planetary_Prince">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Planetary Prince!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-1-jan-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 Jan 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/A_Message_From_Gabriel">
+          <span class="pr-2">A Message From Gabriel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 August 18, 1990
 PCL COMMUNIQUE
@@ -24,3 +48,27 @@ Caligastia did not make a commitment before he left the meeting so we cannot, at
 **Sananda Lao-tse Melchizedek**
 **Planetary Center of Light**
 **New Mexico**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/New_Planetary_Prince">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New Planetary Prince!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-1-jan-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 Jan 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/A_Message_From_Gabriel">
+          <span class="pr-2">A Message From Gabriel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

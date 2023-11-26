@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Ken Glasziou, William Wentworth, Tom Reynolds<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-6-july-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 July 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Conference_1986_Report">
+          <span class="pr-2">Conference 1986 Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -131,3 +152,25 @@ To help with the catering, please ring Pamela to see which dish you can bring. Y
 
 If you want to introduce a new friend to _the URANTIA Book_, then this could be a good occasion to bring one along.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-6-july-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 July 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Conference_1986_Report">
+          <span class="pr-2">Conference 1986 Report</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

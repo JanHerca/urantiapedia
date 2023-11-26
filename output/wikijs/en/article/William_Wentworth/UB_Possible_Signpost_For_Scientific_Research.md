@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 William Wentworth<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Brotherhood_Of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brotherhood Of Man</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-2-march-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 2 March 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In the paper he presented to the South Pacific meeting in October, Ken Glasziou argued that scientific theory is steadily converging on information revealed in _The URANTIA Book_. Over the last 50 years or so, opinion in many scientific fields has moved much closer to _The URANTIA Book_'s position. Ken's argument is very convincing.
 
@@ -43,3 +64,24 @@ William Wentworth, Towamba, NSW
 I prayed to God to give me all things, in order that I might enjoy life ... The Lord gave me life, in order that I might enjoy all things.
 
 Contributed by Merindy Swadling, Sydney
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Brotherhood_Of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Brotherhood Of Man</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-2-march-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 2 March 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

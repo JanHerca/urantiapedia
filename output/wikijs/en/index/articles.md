@@ -178,6 +178,18 @@ The index of all available issues is here: [The Arena Articles Index](/en/index/
 Sources: 
 - https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/
 
+### Sis-O-Six (6-0-6)
+
+![](/image/article/Group_banners/ANZURA_606.jpg)
+
+Six-O-Six is a bi-monthly publication dedicated to the promotion of International goodwill and understanding among readers of The URANTIA Book.
+
+The index of all available issues is here: [Six-O-Six Articles Index](/en/index/articles_606).
+
+Sources: 
+- https://anzura.urantia-association.org/2021/02/10/a-bit-of-history/
+
+
 ## UB Annotaded & UBTheNews
 
 ![](/image/article/Group_banners/UBtheNEWS.jpg)

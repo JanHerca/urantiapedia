@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Lee Lester<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Harris/Do_We_Have_Any_Idea_Its_A_Debatable_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Do We Have Any Idea? It's A Debatable Point</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-1-jan-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 Jan 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Lee Lester, Saratosa, Florida_
 
@@ -39,3 +60,24 @@ Each of us are the captains of our own ships. The indwelling fragments of Deity 
 Jesus also once said, “_if you have faith that your Paradise Father loves you with an infinite love, you are already in the kingdom of heaven_”. This faith can only be realized by trusting in God's infinite goodness.
 
 The religion of Jesus Christ will forever stand in contrast to complicated, intricate, and dictatorial forms of philosophical beliefs. So simple, that even the most wide-eyed child can understand: God loves you and we are all his children.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Max_Harris/Do_We_Have_Any_Idea_Its_A_Debatable_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Do We Have Any Idea? It's A Debatable Point</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-1-jan-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 Jan 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

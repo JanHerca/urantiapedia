@@ -3,12 +3,33 @@ title: "Commentary On Scientific Statements In The Urantia Book — Part IV"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Science, Biology, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Ken Glasziou<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Springtime — A study of the Future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-7-sept-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 Sept 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ### The Origins Of Life
 
@@ -57,8 +78,29 @@ What then is life, and what was it that the Life Carriers brought to Urantia 550
 
 _The URANTIA Book_ includes bacteria and simple plant cells in what it calls life. Also it states that the first primitive life forms introduced into our seas carried all the information necessary for the eventual evolution of all subsequent life forms, including man without any further interference from the Life Carriers.
 
-On [UB 65:5.2](/en/The_Urantia_Book/65#p5_2) of _The URANTIA Book_ it states that certain primitive plant life forms reverted to the prechlorophyll types of parasitic bacteria. This tells us that parasitic bacteria preceded the blossoming of plant life which in turn provided the primary food source for subsequent animal life. On what then were these parasitic bacteria parasitic? Certainly not plant or animal forms, for they preceded them. If parasitic bacteria were the first life forms released by the Life Carriers, there must have been a vast source of organic foodstuff which they could parasitise and which could sustain them until photosynthetic plant life evolved.
+On <a id="a80_3"></a>[UB 65:5.2](/en/The_Urantia_Book/65#p5_2) of _The URANTIA Book_ it states that certain primitive plant life forms reverted to the prechlorophyll types of parasitic bacteria. This tells us that parasitic bacteria preceded the blossoming of plant life which in turn provided the primary food source for subsequent animal life. On what then were these parasitic bacteria parasitic? Certainly not plant or animal forms, for they preceded them. If parasitic bacteria were the first life forms released by the Life Carriers, there must have been a vast source of organic foodstuff which they could parasitise and which could sustain them until photosynthetic plant life evolved.
 
 Perhaps the fossil forms found in acritarchs and stromatolites were part of the organic soup on which the parasitic bacteria fad, and these forms were not “living” in the sense of the word used in _The URANTIA Book_. Intuitively I conclude that such forms did not contain the self regulating, self replicating system based on DNA and protein synthesis found in all present day living cells, hence were neither prokaryotic nor eukaryotic life forms. However, if by some infinitely remote chance, DNA based, life forms did exist prior to 550 million years ago, we would have to ask what it was that the Life Carriers really did. Perhaps it could have been to re-arrange DNA and cellular organization and to confer upon such cells the necessary physical means, and the life force, to give them the potential to evolve eventually to the self-conscious, will-endowed creature we call man. If 30 , then perhaps the rearrangement of the DNA of eukaryotic cells into the system of exons and introns that know exists, was the work of the Life Carriers.
 
 Ken Glasziou, Clifton, Qld.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Springtime — A study of the Future</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-7-sept-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 Sept 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

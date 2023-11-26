@@ -3,12 +3,33 @@ title: "A Visit Home"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Poetry, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Elfie Knight<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tony_Rudd/A_Tale_Of_Two_Ants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Tale Of Two Ants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-1-jan-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 Jan 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Editor's Note_
 
@@ -42,3 +63,24 @@ Oh God, dare I return!
 
 **Elfie Knight**
 **Daylesford, Victoria**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Tony_Rudd/A_Tale_Of_Two_Ants">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Tale Of Two Ants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-1-jan-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 1 Jan 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

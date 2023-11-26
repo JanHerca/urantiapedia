@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Robert Reno, Helena Sprague<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-3-may-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 3 May 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Reno/Land_Of_The_Morning_Calm_2">
+          <span class="pr-2">Land Of The Morning Calm</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -31,7 +52,7 @@ Kathleen Swadling, 7 Walsh St. Narrabeen, NSW. 2101. PH. (02) 9137893
 > “Everything nonspiritual in human experience, excepting personality, is a
 means to an end. Every true relationship of mortal man with other persons
 -human or divine- is an end in itself. And such fellowship with the
-personality of Deity is the eternal goal of universe ascension.” (_The URANTIA Book_ [UB 112:2.8](/en/The_Urantia_Book/112#p2_8))
+personality of Deity is the eternal goal of universe ascension.” (_The URANTIA Book_ <a id="a54_85"></a>[UB 112:2.8](/en/The_Urantia_Book/112#p2_8))
 
 ## Dear friends of the URANTIA Movement:
 
@@ -214,3 +235,24 @@ ADDRESS: \_\_\_
 ENCLOSED IS PAYMENT OF ... FOR PERSONS SIGNED
 CHEQUES TO BE MADE OUT TO “U.B.FUND” AND SEND BY SEPTEMBER 1ST TO:
 C/- K \& T SWADLING, 7 WALSH ST, NARRABEEN, NSW,2101. PHONE (02) 9137893
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-3-may-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 3 May 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Reno/Land_Of_The_Morning_Calm_2">
+          <span class="pr-2">Land Of The Morning Calm</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

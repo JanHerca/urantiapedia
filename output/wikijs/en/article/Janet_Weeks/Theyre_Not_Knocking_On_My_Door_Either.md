@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Janet Weeks<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol10_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 5 Sept 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-5-sept-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 5 Sept 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Frank_Wright/Mediterranean_Basin">
+          <span class="pr-2">Mediterranean Basin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Some thoughts on Anne Bendall's article, 6-0-6 Newsletter May/June 1989.
 
@@ -20,7 +44,7 @@ As Jesus passed by, he always offered words of care and comfort, eased embarrass
 
 Recipients react in different ways to that which is given to them.
 
-We readers of _The URANTIA Book_ have different reactions to the unfolding of the words of the gift of the revelation which we have received. Do we become emotional crusaders, or do we re-adjust our own lives on a quiet, personal basis? We are told that the zeal of the crusader can be dangerous, but the realisation of the love within us cannot help but overflow to others. In our own small way, whatever we are capable of, we can share our gift with others. ‘The act is ours; the consequences, God's’. ([UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
+We readers of _The URANTIA Book_ have different reactions to the unfolding of the words of the gift of the revelation which we have received. Do we become emotional crusaders, or do we re-adjust our own lives on a quiet, personal basis? We are told that the zeal of the crusader can be dangerous, but the realisation of the love within us cannot help but overflow to others. In our own small way, whatever we are capable of, we can share our gift with others. ‘The act is ours; the consequences, God's’. (<a id="a46_505"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
 
 Some years ago, I admired and was envious of, the strength of the faith of a friend. I knew that this friend had “'something” which I did not. But I did not knock on that door, either. That friend showed me the way to knock on God's door, and I knocked on His instead. My needs were there — and they were met.
 
@@ -32,7 +56,7 @@ I reached out and I found.
 
 Maybe the only thing “wrong” with people like you and me, Anne, is that we are mere Urantian mortals with many, many handicaps. But that in itself can be a challenge!
 
-We are still growing, we are still seeking, and we are still learning. And while ever this progress continues, we can be certain that “Even if I cannot do this, there lives in me one who can and will do it.” ([UB 4:4.9](/en/The_Urantia_Book/4#p4_9)), and that we are ascending upwards and ever inwards, however slowly.
+We are still growing, we are still seeking, and we are still learning. And while ever this progress continues, we can be certain that “Even if I cannot do this, there lives in me one who can and will do it.” (<a id="a58_209"></a>[UB 4:4.9](/en/The_Urantia_Book/4#p4_9)), and that we are ascending upwards and ever inwards, however slowly.
 
 So as we pass by in our work and play, by the showing of our simple, every-day concern and love towards our brothers, we hope and pray that they may, in time, see that we have “something” that is missing in their own lives. When they realise the need, we can show them the way to go knocking on our Father's door. “Knock and it shall be opened to you, seek and you shall find”.
 
@@ -45,3 +69,27 @@ Let peace be in your heart and songs of praise upon your lips, that you are chos
 Eva Bell Werber
 
 From: “The Voice of The Master”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol10_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 5 Sept 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-5-sept-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 5 Sept 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Frank_Wright/Mediterranean_Basin">
+          <span class="pr-2">Mediterranean Basin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

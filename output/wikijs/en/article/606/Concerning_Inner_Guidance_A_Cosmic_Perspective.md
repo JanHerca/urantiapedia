@@ -3,12 +3,36 @@ title: "Concerning Inner Guidance — A Cosmic Perspective"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol12_2part2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 2 Part 2 Mar 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="pr-2">Seeing The World In A New Light</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 To the People of Urantia:
 
@@ -35,3 +59,27 @@ Ashtar, a Finaliter, in cooperation with the seraphic hosts of Nebadon and the M
 Arizona, USA. January 31, 1991
 
 Gabriel of Sedona
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol12_2part2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 2 Part 2 Mar 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="pr-2">Seeing The World In A New Light</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

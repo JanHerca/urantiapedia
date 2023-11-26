@@ -3,26 +3,50 @@ title: "What Language Did Jesus Speak"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Jesus, Jesus life, Jesus times, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Chris Moseley<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Spiritualised_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualised Thinking</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-1-jan-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 Jan 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Frank_Wright/Fandor_Passenger_Bird_Of_Urantia">
+          <span class="pr-2">Fandor — Passenger Bird Of Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-_The URANTIA Book_ gives us a privileged insight into Jesus' entire life, from birth to death, and when we read of Jesus' early life and education, we see that Jesus' childhood was not essentially different to that of millions of other children. But Jesus' earthly bestowal took place in a linguistically and culturally very diverse environment, which demanded of him the learning of at least two languages. Even at the tender age of five years, we read on [UB 123:2.14](/en/The_Urantia_Book/123#p2_14) that Jesus ...“did much of his early practice at writing Aramaic, Greek, and later on, Hebrew, for in time he learned to read, write, and speak, fluently, all three languages.”
 
-We know that Jesus was quite a gifted student, but he was not learning “foreign” languages for pleasure or intellectual exercise; they were a real requirement of everyday life in Jesus' environment. On [UB 123:3.1](/en/The_Urantia_Book/123#p3_1), when Jesus is 6 years old, we read:
+_The URANTIA Book_ gives us a privileged insight into Jesus' entire life, from birth to death, and when we read of Jesus' early life and education, we see that Jesus' childhood was not essentially different to that of millions of other children. But Jesus' earthly bestowal took place in a linguistically and culturally very diverse environment, which demanded of him the learning of at least two languages. Even at the tender age of five years, we read on <a id="a36_457"></a>[UB 123:2.14](/en/The_Urantia_Book/123#p2_14) that Jesus ...“did much of his early practice at writing Aramaic, Greek, and later on, Hebrew, for in time he learned to read, write, and speak, fluently, all three languages.”
+
+We know that Jesus was quite a gifted student, but he was not learning “foreign” languages for pleasure or intellectual exercise; they were a real requirement of everyday life in Jesus' environment. On <a id="a38_202"></a>[UB 123:3.1](/en/The_Urantia_Book/123#p3_1), when Jesus is 6 years old, we read:
 
 > “Already, with his mother's help, Jesus had mastered the Galilean dialect of the Aramaic tongue; and now his father began teaching him Greek. Mary spoke 1ittle Greek, but Joseph was a fluent speaker of both Aramaic and Greek. The textbook for the study of the Greek language was the copy of the Hebrew scriptures — a complete version of the law and the prophets, including the Psalms — which had been presented to them on leaving Egypt. ..... And in a very short time he could read it readily.”
 
-Jesus had more or less perfected his knowledge of the two main languages by the age of 7 , as we read in ‘School Days in Nazareth’ on [UB 123:5.1](/en/The_Urantia_Book/123#p5_1),
+Jesus had more or less perfected his knowledge of the two main languages by the age of 7 , as we read in ‘School Days in Nazareth’ on <a id="a42_134"></a>[UB 123:5.1](/en/The_Urantia_Book/123#p5_1),
 
 “Already this lad was a fluent reader, writer, and speaker of two languages, Aramaic and Greek. He was now to acquaint himself with the task of learning to read, write, and speak the Hebrew language.”
 
-The teaching of Hebrew was conducted even more by rote than that of Aramaic and Greek, as we learn that the chazan taught it from the Book of the Law. Furthermore, on [UB 123:5.11](/en/The_Urantia_Book/123#p5_11) ...“at this time the Jews had just inaugurated a compulsory education law” ....
+The teaching of Hebrew was conducted even more by rote than that of Aramaic and Greek, as we learn that the chazan taught it from the Book of the Law. Furthermore, on <a id="a46_167"></a>[UB 123:5.11](/en/The_Urantia_Book/123#p5_11) ...“at this time the Jews had just inaugurated a compulsory education law” ....
 
-We can infer from this that the Jews had a great deal of administrative freedom in this far-flung part of the Roman empire, in being able to legislate on educational matters and preserve the status of the Hebrew language even though the culture and religion it represented had nothing to do with Rome. From the many references to Greek culture (which the young Jesus openly admired, much to his father's disapproval) we can understand the importance of Greek among the Galileans — it was the prestige language of culture and trade. The fact that Jesus learned the “Galilean dialect” of Aramaic indicates that it was a fairly widely-spoken language, but we know very little of its use or literary heritage. Conspicuously absent from all this, of course, is Latin. It seems that the Romans made little or no attempt to impose their Latin language and culture on these people, who were already exposed to so many influences. Indeed, the Zealots, whom Jesus was urged to join in his teenage years, were not objecting to the imposition of Rome culture so much as to the humiliation of paying taxes to Rome. ([UB 127:2.1](/en/The_Urantia_Book/127#p2_1))
+We can infer from this that the Jews had a great deal of administrative freedom in this far-flung part of the Roman empire, in being able to legislate on educational matters and preserve the status of the Hebrew language even though the culture and religion it represented had nothing to do with Rome. From the many references to Greek culture (which the young Jesus openly admired, much to his father's disapproval) we can understand the importance of Greek among the Galileans — it was the prestige language of culture and trade. The fact that Jesus learned the “Galilean dialect” of Aramaic indicates that it was a fairly widely-spoken language, but we know very little of its use or literary heritage. Conspicuously absent from all this, of course, is Latin. It seems that the Romans made little or no attempt to impose their Latin language and culture on these people, who were already exposed to so many influences. Indeed, the Zealots, whom Jesus was urged to join in his teenage years, were not objecting to the imposition of Rome culture so much as to the humiliation of paying taxes to Rome. (<a id="a48_1103"></a>[UB 127:2.1](/en/The_Urantia_Book/127#p2_1))
 
 We know what Latin and Ancient Greek were like, and Biblical Hebrew has been preserved to the present day and even resurrected in this century, but what of Jesus' own mother tongue, his home language, Aramaic?
 
@@ -61,3 +85,27 @@ From: The ASCENDER, Autumn 1989
 > The giving of love is an education in itself.
 > 
 > Eleanor Roosevelt
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Spiritualised_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualised Thinking</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-1-jan-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 1 Jan 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Frank_Wright/Fandor_Passenger_Bird_Of_Urantia">
+          <span class="pr-2">Fandor — Passenger Bird Of Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

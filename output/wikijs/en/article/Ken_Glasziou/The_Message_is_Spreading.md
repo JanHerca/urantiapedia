@@ -3,12 +3,36 @@ title: "The Message is Spreading"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Dissemination, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Ken Glasziou<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Character_Ennoblement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Character Ennoblement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-5-sept-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 Sept 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/The_Adventures_Of_Jesus_Of_Nazareth">
+          <span class="pr-2">The Adventures Of Jesus Of Nazareth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Ken Glasziou, Maleny, Queensland_
 
@@ -40,6 +64,30 @@ Borg describes Jesus as a remarkably free person, free from fear and anxious pre
 
 Just how much _The URANTIA Book_ and its teachings have contributed either directly or indirectly to this “new vision of Jesus” is something we will never know. It is doubtful that this will bother the midwayers who wrote:
 
-> “_The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must no longer be sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!_” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “_The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries. Jesus of Nazareth must no longer be sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!_” (<a id="a66_516"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 It is unlikely that Borg's work will be read by significant numbers outside of the academic community, hence it will take a long, long time for this new vision to permeate down through the seminaries to the general congregations of the churches. However, as _The URANTIA Book_ tells us, patience is a virtue and slow evolution is more productive than disruptive revolution. But URANTIA Book readers might well consider giving Borg's book as a present to some of their non-reader, church-going friends.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Character_Ennoblement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Character Ennoblement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-5-sept-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 Sept 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/The_Adventures_Of_Jesus_Of_Nazareth">
+          <span class="pr-2">The Adventures Of Jesus Of Nazareth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

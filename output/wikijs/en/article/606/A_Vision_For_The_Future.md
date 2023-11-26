@@ -3,12 +3,36 @@ title: "A Vision For The Future"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Future, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Statistical Investigation Of Writing Styles In The Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/On_The_Early_Christians">
+          <span class="pr-2">On The Early Christians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by the Sunshine Coast Study Group_
 
@@ -26,7 +50,7 @@ The demise of the 3rd Epochal Revelation and the limited success of the 4th shou
 
 Jesus preached the gospel of the kingdom, the Fatherhood of God, our sonship with the Father, and the brotherhood of all men. He spoke of a spiritual kingdom in the hearts of men. However his disciples were quite unable to give up their concepts of an earthly messianic kingdom. They converted Jesus' death on the cross into a sacrificial act for the forgiveness of sins, a doctrine that brought enormous relief to the poor, the sick, and the unfortunate who believed that their lot was a punishment for sin. Later Christian doctrine failed to come to terms with an apparent contradiction between the perfect love and mercy of God and the perfect righteousness and justice of God; hence the atonement doctrine lives on to the present day. _The URANTIA Book_ teaches that:
 
-> “_The affectionate heavenly Father, whose spirit indwells his children on earth, is not a divided personality — one of justice and one of mercy — neither does it require a mediator to secure the Father's favor or forgiveness. Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge._” ([UB 2:6.6](/en/The_Urantia_Book/2#p6_6))
+> “_The affectionate heavenly Father, whose spirit indwells his children on earth, is not a divided personality — one of justice and one of mercy — neither does it require a mediator to secure the Father's favor or forgiveness. Divine righteousness is not dominated by strict retributive justice; God as a father transcends God as a judge._” (<a id="a52_343"></a>[UB 2:6.6](/en/The_Urantia_Book/2#p6_6))
 
 The concept of a Father-God who is love and our sonship with the Father not only predicates the brotherhood of all men, but also has the potential to displace the atonement doctrine. Both of these concepts have scriptural backing in the New Testament. The Lord's prayer begins with the words ‘Our Father’ and the concept that we are sons and children of the Father has backing in the gospels of Matthew, Luke, and John, in Paul's letters to the Romans, Galatians, and Philippians, and in 1 John. The latter also tells us that God is love.
 
@@ -36,7 +60,7 @@ On still other occasions, the gospel stories tell that Jesus readily forgave sin
 
 _The URANTIA Book_ has made little obvious headway in the churches over the past forty years. If its teachings are being incorporated into present day Christian teaching, it is being done without reference to the book itself. It is not consistent with the teachings of _The URANTIA Book_ that its revelators would demand credit for such incorporation. If that is the most effective way of fulfilling one of the aspirations mentioned among its teachings, then so be it:
 
-> “_The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological and religious dogmas of nineteen centuries. Jesus of Nazareth must no longer be sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!_” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “_The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological and religious dogmas of nineteen centuries. Jesus of Nazareth must no longer be sacrificed to even the splendid concept of the glorified Christ. What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions!_” (<a id="a62_501"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 How can URANTIA Book readers hasten the process? It should already be apparent that the clergy, even those who know of its existence, are not going to announce the 5th Epochal Revelation from the rooftops. Considered reflection may lead to the conclusion that not even the Pope himself could do this without splitting the church asunder. The same careful reflection may also indicate that a better course of action would be slow evolution rather than destructive revolution. So how do we get the primary teachings of the gospel of the kingdom at the forefront of the main body of church dogma? First let's consider what these teachings may be.
 
@@ -55,13 +79,13 @@ How can URANTIA Book readers hasten the process? It should already be apparent t
 
 The experience of church-going URANTIA Book readers has already revealed that seeking to draw the attention of fellow church-goers to the book is not very fruitful. It is not easy to alter in adults, those ingrained habits of thinking already acquired in childhood. So can we start with the children? The answer to that is Eyes', it can be done in normal religious instruction classes and Sunday Schools through the simple expedient of emphasizing the essential teachings of Jesus about the kingdom. Surely, though, the most rewarding way to promulgate these teachings throughout Christianity is by means of well written and illustrated children's books. For the immediate future that is surely the most urgent need. If you have the necessary talents, _The URANTIA Book_ bids you to use them.
 
-> “_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul._” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness. Such a new and righteous vision of morality will attract all that is good in the mind of man and challenge that which is best in the human soul._” (<a id="a81_451"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 Because Jesus is its central figure, _The URANTIA Book_ will be judged by its effect upon Christians; the behavior of Christians towards one another is likely to be the sole factor that can catalyse a transformation among non-Christians.
 
 Perhaps the reference in _The URANTIA Book_ to a second John the Baptist is figurative and really represents that group of individuals who will prepare the way for the book by first reviving the true gospel of the kingdom. The book itself sets us a very limited objective:
 
-> “_The ultimate goal of human progress is the reverent recognition of the Fatherhood of God and the loving materialization of the brotherhood of man._” ([UB 143:1.4](/en/The_Urantia_Book/143#p1_4))
+> “_The ultimate goal of human progress is the reverent recognition of the Fatherhood of God and the loving materialization of the brotherhood of man._” (<a id="a87_154"></a>[UB 143:1.4](/en/The_Urantia_Book/143#p1_4))
 
 ### References for ‘Our Mandate’
 
@@ -77,3 +101,27 @@ _Urantiapedia Note: see links on top of page._
 8. Matt 5:48; 2 Cor 13:11; UB 140:5.4; UB 140:10.9; UB 160:5.13; UB 170:2.19
 9. Eph 5:8-9; Gal 5:22; UB 3:5.5
 10. Matt 5:9; Lk 20:36; Jn 1:12-13; Rom 8:14-16; Phil 2:15; Gal 4:6; 1 Jn 3:2; UB 141:2.2; UB 163:6.7; UB 176:3.2
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Statistical Investigation Of Writing Styles In The Urantia Papers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/On_The_Early_Christians">
+          <span class="pr-2">On The Early Christians</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

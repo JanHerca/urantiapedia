@@ -3,12 +3,33 @@ title: "God's Limitations"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: God, Theology, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Neil Francey<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Spreading_The_Message_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spreading The Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-4-july-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 July 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Neil Francey_
 
@@ -55,3 +76,24 @@ We scoff with dismay at the Irish folly, we observe military forces fighting reb
 Then again, maybe such fragmentation is in accordance with the envisaged destiny of this planet. Again we return to the fact that the individual is supreme. Individuals can, and do, run this revelation. Not an organization.
 
 As an individual, I'd like to believe that although the ideologies of _The URANTIA Book_ are sacrosanct, should ever other matters related thereto come between me and a friend, I shall lay them to one side as having no real cosmic relevance, and embrace my friend.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Spreading_The_Message_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spreading The Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-4-july-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 July 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

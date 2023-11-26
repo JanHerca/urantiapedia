@@ -3,12 +3,33 @@ title: "Reincarnation Or Repersonalization"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Buddhism, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Henry Begemann<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The URANTIA Book in 200 Years Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-1-jan-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 Jan 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “Personalization” means in my opinion: making or being made personal or a person. This happens for the first time when the Father bestows personality on a living organism with mind. Personality is one of the fundamental mysteries of the universe, but having its origin in the First Source and Centre, and being able to function on the absolute level while always remaining unchanged, we may infer that this majestic personality does not know itself, at least not fully. Its universe career serves to realize itself.
 
@@ -35,3 +56,24 @@ Our book does not deal consecutively and extensively with this subject, and for 
 Of course there will remain questions, but living truth is expanding and deepening truth. The great teacher is within us.
 
 Henry Begemann, Wassenaar, The Netherlands
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The URANTIA Book in 200 Years Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-1-jan-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 1 Jan 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

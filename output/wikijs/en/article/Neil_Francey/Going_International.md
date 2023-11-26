@@ -3,12 +3,36 @@ title: "Going International"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Dissemination, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Neil Francey<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol7_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 4 May 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-4-may-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 May 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="pr-2">Commentary On Scientific Statements In The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Given the current rate of growth in book sales in Australia, it is reasonable to expect this increase world wide in English and French speaking countries. It is difficult to forecast a likely alternative. Numbers will demand significant measures to maintain the personal nature of URANTIA Book work.
 
@@ -26,6 +50,30 @@ As we require a more formal administrative structure to direct the progress of U
 
 Above all we shall see ourselves as fellow readers with a common goal and purpose.
 
-An intermational group, comprised of individual members, must be ever resourceful in its quest to promote truth and knowledge as it plays a unique role with an independent voice in all countries of the world.
+An international group, comprised of individual members, must be ever resourceful in its quest to promote truth and knowledge as it plays a unique role with an independent voice in all countries of the world.
 
 Neil Francey, Melbourne
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol7_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 4 May 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-4-may-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 May 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="pr-2">Commentary On Scientific Statements In The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

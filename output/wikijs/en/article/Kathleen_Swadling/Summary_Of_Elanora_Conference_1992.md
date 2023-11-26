@@ -3,12 +3,36 @@ title: "Summary Of Elanora Conference 1992"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Kathleen Swadling<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol13_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 6 Nov 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-6-nov-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 Nov 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matthew_Block/A_Bibliographic_Essay_On_Some_Human_Sources">
+          <span class="pr-2">A Bibliographic Essay On Some Human Sources Used In The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Kathleen Swadling, Sydney_
 
@@ -27,3 +51,27 @@ On Sunday afternoon, Seppo Kanerva presented an outline for the structure of the
 Saturday night saw us all at the Singaporean Restaurant for dinner where a good time was had in relaxation and socialization. On Sunday afternoon we took a stroll along some of the headlands of Sydney's northern beaches and walked around some rock pools and along the beach. The weather was kind and the scenery picturesque. The company was fantastic! Sunday night was quiz time hosted by Terry Hovaghimian and his lovely offsider, Maria (Jane King). We split up into teams and were asked questions from _The URANTIA Book_. Much debate, friendly arguing and stimulation resulted. Terry added much humour with his quick wit and showman abilities. Maria kept score as well as trying to keep the quiz master and the wild rabble under control!
 
 Monday morning rounded the conference off nicely with a study group. We read paper 100 — ‘Religion in Human Experience’ which was very appropriate to the theme. Naturally much stimulating and thought- provoking discussion took place. It was sad when it came time to break up the party and all go our separate ways. I'm sure I speak for almost all when I say that the weekend helped us to experience the richness in genuine sharing amongst God-loving fellow men and women. These experiences are to be treasured and I hope the memories stay with us all for a long time.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol13_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 6 Nov 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-6-nov-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 Nov 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Matthew_Block/A_Bibliographic_Essay_On_Some_Human_Sources">
+          <span class="pr-2">A Bibliographic Essay On Some Human Sources Used In The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

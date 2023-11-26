@@ -3,12 +3,36 @@ title: "Six-0-Six Newsletter — Volume 11 No. 6 — February 1990"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Truth, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Terry Hovaghimian<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Leith_Luckett/How_I_Feel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How I Feel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/Coming_To_A_Final_Decision">
+          <span class="pr-2">Coming To A “Final Decision”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As usual, since I began expanding my quest for truth with the aid of _The URANTIA Book_ and just attended my second conference, the time together has passed so fulfillingly quickly, with such a delight in events and people sharing a similar basic experience of truth, which we are embracing from all angles of our spiritual intuitive presence and states of America and Australia, that I am no longer surprised by the speed of reply to my questions, especially to questions that I have forgotten to ask whilst at the conference.
 
@@ -23,3 +47,27 @@ If this happens to you, count your blessings because this will be the best exper
 Having shared a four-day conference at Arrabri Lodge in East Warburton in Victoria with a group of over 50 people from all over Australia and from the USA who are such fascinatingly simple individuals of different ages and experiences who happen to have been brought together through a book called “_The URANTIA Book_”, I can honestly say that this has been the most rewarding time in my life on so many levels and with so many people in such a short period of time, that the friendships that have been experienced through the Fatherhood of God and in the Brotherhood of Man are everlastingly united in eternal love.
 
 **Terry Hovaghimian, Sydney**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Leith_Luckett/How_I_Feel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">How I Feel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/Coming_To_A_Final_Decision">
+          <span class="pr-2">Coming To A “Final Decision”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

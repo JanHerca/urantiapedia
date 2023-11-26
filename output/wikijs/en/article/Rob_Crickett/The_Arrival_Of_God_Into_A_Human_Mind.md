@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Misinformation_In_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misinformation In The Urantia Book?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-2-march-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 March 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Weeks/Ingredients_For_Problem_Solving">
+          <span class="pr-2">Ingredients For Problem Solving</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When I was five years old my six year old brother and I were taken to one of the churches in our small country town by our parents. Mum had been told by her careers advising father that I was to grow up to be a minister: “So expose him to the church, won't you!” ... and she did just that, rather zealously.
 
@@ -24,7 +48,7 @@ In a very real sense this evangelist spoke as if he was introducing our town to 
 
 During this speech I came to the conclusion that I wanted God, in a big way. For the first time in my brief life span I felt the difference between myself in my local reality — the sky was simply blue, the trees and fields simply green — and myself and God in the same reality there was a wholeness, the creator was IN the creation, there was a sense of completion inside me and an all-pervading orderliness in the world around me.At least that's how I thought about it at the time.
 
-After the church service the congregation was divided into discussion groups and one each of those people from the evangelical troupe attended each group. Just before our group for the littlest kids was about to begin I went to our evangelist to ask her what felt for me to be the most important question of $m y$ life, “Excuse me Miss ... what's God?”
+After the church service the congregation was divided into discussion groups and one each of those people from the evangelical troupe attended each group. Just before our group for the littlest kids was about to begin I went to our evangelist to ask her what felt for me to be the most important question of my life, “Excuse me Miss ... what's God?”
 
 I needed an answer that came from her actual God-Mind, in the same way one expects the seller of a product to vouch for it based on their own experience of having used it ... endorsing it because they have an intimate and inside knowledge of it from experience. But my question was met quite differently. She looked down at me like a stunned mullet and said, in a manner that was obviously sincere, “I don't know ...”.
 
@@ -77,3 +101,27 @@ It would be some eighteen years later that I would find a URANTIA Book and read 
 Robert Crickett, Melbourne
 
 > “There is a reality in religious experience that is proportional to the spiritual content, and such a reality is transcendent to reason, science, philosophy, wisdom, and all other human achievements. The convictions of such an experience are unassailable; the logic of religious living is incontrovertible; the certainty of such knowledge is superhuman; the satisfactions are superbly divine, the courage indomitable, the devotions unquestioning, the loyalties supreme, and the destinies final — eternal, ultimate, and universal.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Misinformation_In_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Misinformation In The Urantia Book?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-2-march-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 March 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Janet_Weeks/Ingredients_For_Problem_Solving">
+          <span class="pr-2">Ingredients For Problem Solving</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

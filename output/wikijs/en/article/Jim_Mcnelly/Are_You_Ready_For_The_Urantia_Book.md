@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Jim Mcnelly<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Spreading_The_Message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spreading The Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-3-may-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 May 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Importance_Of_The_Individual">
+          <span class="pr-2">The Importance Of The Individual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Jim Mcnelly (From An Article In The Brotherhood Of Man Library)_
 
@@ -35,3 +59,27 @@ The job of the Rangers is simple: Let people know that _The URANTIA Book_ exists
 Keep the message of the Rangers simple: The Book exists and this is how to get it. Introduce people to God and the teachings in your non-Ranger activities. The most simple action of a Ranger is to place posters in a public place that reads: “Are you ready for _The URANTIA Book_? Call 312-525-3319 or write: _The URANTIA Book_, 533 Diversey Parkway, Chicago Il. 60614.” If a local bookstore is able and willing to buy direct, support them by listing the store location as well as the Foundation.
 
 Join the Rangers in working on the demand side of the revelation. There is little point in getting _The URANTIA Book_ into bookstores if there is no curiosity and love of adventure stimulating people to come in and look for it! “Are you ready for _The URANTIA Book_?” is an effective campaign and technique for getting people to ask the most basic questions, “What is it? Am I ready for it? How can I get one?” Once the potential readers have asked these questions on their own, the work of the Ranger moves on. Remember, the authors of the book have already determined that the world is ready for it. We have been the ones holding back!
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Spreading_The_Message">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spreading The Message</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-3-may-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 May 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/The_Importance_Of_The_Individual">
+          <span class="pr-2">The Importance Of The Individual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

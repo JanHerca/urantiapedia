@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ken Glasziou<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transpersonal Pyschology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jane_Wilson/Literacy_Crisis">
+          <span class="pr-2">Literacy Crisis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Ken Glasziou, Maleny, Qld._
 
@@ -27,3 +51,27 @@ It is my view that no textual changes should ever have been made from the first 
 I would like to see the text of the first printing adhered to with no changes. Another possibility would be that textual changes revert to the original but that punctuation and spelling changes be permissible if indicated in a footnote and listed in an appendix. In any case, it would appear to be essential that a no-change first edition should always be available to those engaged in translation and scholarship.
 
 The Trustee who placed my low priority protest on the agenda for the Foundation meeting left Australia recently, remarking that I am the only person who is concerned about this matter. Am I? Are you?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transpersonal Pyschology</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jane_Wilson/Literacy_Crisis">
+          <span class="pr-2">Literacy Crisis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,14 +3,35 @@ title: "The Three Missing Planets"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Science, Astronomy, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Dick Bain<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploring Our Own Back Yard — The Solar System</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-5-sept-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 Sept 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-On [UB 57:5.9](/en/The_Urantia_Book/57#p5_9) of _The URANTIA Book_, we are informed that five inner planets, Jupiter, Saturn, and five outer planets formed the material drawn out from our sun by the passing Angona system. This adds up to 12 planets, but we are only taught about nine in school. Where are the other three?
+
+On <a id="a33_3"></a>[UB 57:5.9](/en/The_Urantia_Book/57#p5_9) of _The URANTIA Book_, we are informed that five inner planets, Jupiter, Saturn, and five outer planets formed the material drawn out from our sun by the passing Angona system. This adds up to 12 planets, but we are only taught about nine in school. Where are the other three?
 
 One of the missing planets is easy to account for. On page 658 we read that the fifth planet from the sun was pulled apart when it passed too close to Jupiter. The debris from this planet forms the present astroid belt that lies between Mars and Jupiter. This leaves two planets unaccounted for.
 
@@ -21,3 +42,24 @@ To understand how the 12th planet may be found, it is desirable to look at how s
 An article in the 1988 issue of ASTRONOMY entitled “The Pull of Planet X” discusses the possibility of another planet beyond the orbit of Jupiter. The Planet X hypothesis is not accepted by all astronomers, but most agree that something is disturbing the orbit of Neptune, and possibly Uranus as well. It could be the 12th planet, or it could be one of the massive dark islands of space referred to by _The URANTIA Book_. It could even be both of these possibilities. If that is the case, the astronomers ought to have a great time trying to sort it all out. The astronomers are diligently seeking the 12th planet; perhaps we will soon be able to put it on our astronomical charts.
 
 Dick Bain, St. Petersburg, FL. U.S.A.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Exploring Our Own Back Yard — The Solar System</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-5-sept-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 Sept 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1993 Allan Lane<br>© 1993 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/More_on_Channelling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More on Channelling</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-1-jan-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 Jan 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="pr-2">The Women's Corps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Allan Lane, Perth_
 
@@ -83,7 +107,7 @@ I am in awe of the ingenuity of this molecular coding system, which can punish s
 
 That accidental mutations could produce enough of the right instructions to counteract the virtually inestimable wrong instructions possible, in the right DNA positions at the right times, efficiently building upon previous advantageous accidental mutations, to produce the wonderful diversity of living things around us today, is beyond my capacity to seriously entertain. To my admittedly limited understanding the probability of such a long series of propitious events is surely so close to zero, as to be practically impossible.
 
-Let us assume that placental mammals sprang suddenly from reptile parents as described in _The URANTIA Book_ ([UB 61:0.1](/en/The_Urantia_Book/61#p0_1)). In order to produce a new and unique organism obviously new and unique cells have to be made. Simplistically, to make a new cell requires at least one new protein, and to make a new protein requires a new effective DNA code [not all changes in the code cause changes in the proteins produced], and a new DNA code requires at least one rearrangement of a base molecule on the DNA string [a mutation]. How likely is an accidental random to produce the exact code(s) needed for this enormous leap? Or, assuming the giraffe's neck lengthened in steps over a long period of time — refer to the neo-Darwinists — how likely is it that the necessary neck length altering mutations would have randomly kept occurring, in the chronologically correct order, in the right parts of the appropriate ‘neck stretching’ genes? [For _the URANTIA Book_'s version of the giraffe's neck episode, see ([UB 61:4.4](/en/The_Urantia_Book/61#p4_4)).]
+Let us assume that placental mammals sprang suddenly from reptile parents as described in _The URANTIA Book_ (<a id="a109_110"></a>[UB 61:0.1](/en/The_Urantia_Book/61#p0_1)). In order to produce a new and unique organism obviously new and unique cells have to be made. Simplistically, to make a new cell requires at least one new protein, and to make a new protein requires a new effective DNA code [not all changes in the code cause changes in the proteins produced], and a new DNA code requires at least one rearrangement of a base molecule on the DNA string [a mutation]. How likely is an accidental random to produce the exact code(s) needed for this enormous leap? Or, assuming the giraffe's neck lengthened in steps over a long period of time — refer to the neo-Darwinists — how likely is it that the necessary neck length altering mutations would have randomly kept occurring, in the chronologically correct order, in the right parts of the appropriate ‘neck stretching’ genes? <a id="a109_964"></a>[For _the URANTIA Book_'s version of the giraffe's neck episode, see ([UB 61:4.4](/en/The_Urantia_Book/61#p4_4)).]
 
 ## Higher Purpose?
 
@@ -93,11 +117,11 @@ If the myriad of living things on earth are the result of the work and planning 
 
 Imagine that I have built a roof, and I decide that I want to fill a rainwater tank for my drinking water needs. The falling of raindrops is a very random process in terms of what spots they will land on, and when the showers will come, and so on. It would be accidental if one tile received 2 extra drops during a shower than its neighbour. Yet if I place a gutter around the roof and lead a downpipe from it to the tank below, I achieve my objective. If I want to be ensured of the best results I will dutifully keep the gutter clear of leaves.
 
-Just such a purposeful procedure is described in _The URANTIA Book_. The Life Carriers laboured long in their laboratories to produce the necessary formulas to enable life on earth to be successful ([UB 65:4.4](/en/The_Urantia_Book/65#p4_4)), and to have the important and essential capacity for great diversification ([UB 65:4.10](/en/The_Urantia_Book/65#p4_10)).
+Just such a purposeful procedure is described in _The URANTIA Book_. The Life Carriers laboured long in their laboratories to produce the necessary formulas to enable life on earth to be successful (<a id="a119_199"></a>[UB 65:4.4](/en/The_Urantia_Book/65#p4_4)), and to have the important and essential capacity for great diversification (<a id="a119_319"></a>[UB 65:4.10](/en/The_Urantia_Book/65#p4_10)).
 
-> “_The manifold by-products of biologic evolution are all essential to the final and full function of the higher intelligent forms of life..._” ([UB 36:2.17](/en/The_Urantia_Book/36#p2_17)).
+> “_The manifold by-products of biologic evolution are all essential to the final and full function of the higher intelligent forms of life..._” (<a id="a121_146"></a>[UB 36:2.17](/en/The_Urantia_Book/36#p2_17)).
 
-The Divine Minister involves herself with the course of evolution through the agency of the adjutant mindspirits ([UB 36:5.1](/en/The_Urantia_Book/36#p5_1)). The original physical formulations of the Life Carriers can be likened to the roof, gutters, downpipe, and tank system described above, while the activities of the adjutant mind-spirits can be considered to be helping to keep the gutters clean.
+The Divine Minister involves herself with the course of evolution through the agency of the adjutant mindspirits (<a id="a123_114"></a>[UB 36:5.1](/en/The_Urantia_Book/36#p5_1)). The original physical formulations of the Life Carriers can be likened to the roof, gutters, downpipe, and tank system described above, while the activities of the adjutant mind-spirits can be considered to be helping to keep the gutters clean.
 
 If a being, who was ignorant of the meaning of the roof and tank system and the existence of me the designer and gutter cleaner, should come across it and start to study it through the seasons, that being may conclude that the wonderful periodic replenishment of the tank was an accidental eventuality of random events, and miss the careful planning that went into it. I could only marvel at the being's ingenuity in attempting to explain me away.
 
@@ -116,3 +140,27 @@ My definition of true science is: the honest attempt to understand objective rea
 > _The simple truth is that life is not explainable in terms of itself. This is the basis of the religious teachings which have accompanied man's progress through the ages...If we base our concepts of logical thinking on the belief that the universe can be explained by our normal mind, we limit ourselves to a universe having no greater intelligence than our own._
 > 
 > _From “The Universe of Relationships”, by J.H. Reyner_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/More_on_Channelling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">More on Channelling</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-1-jan-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 Jan 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="pr-2">The Women's Corps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Extremes Of Believing As A Little Child"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: The Urantia Book, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Matt Neibaur<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Trevor_Swadling/What_is_Spiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is Spiritual?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patije_Mills/Universal_Language_Brain">
+          <span class="pr-2">Universal Language Brain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Matt Neibaur_
 
@@ -24,12 +48,36 @@ There are two extremes of thought represented by the sceptic and the gullible be
 
 Perhaps the most exciting aspect of _The URANTIA Book_ is the integration of science and religion. At no point are we asked to accept any of it on blind faith. In fact, just the opposite is true:
 
-> “Faith has falsified its trust when it presumes to deny realities and to confer upon its devotees' assumed knowledge. Faith is a traitor when it fosters betrayal of intellectual integrity and belittles loyalty to supreme values and divine ideals.” ([UB 101:8.3](/en/The_Urantia_Book/101#p8_3))
+> “Faith has falsified its trust when it presumes to deny realities and to confer upon its devotees' assumed knowledge. Faith is a traitor when it fosters betrayal of intellectual integrity and belittles loyalty to supreme values and divine ideals.” (<a id="a50_251"></a>[UB 101:8.3](/en/The_Urantia_Book/101#p8_3))
 
-> “The materialistic scientist and the extreme idealist are destined always to be at loggerheads. This is not true of those scientists and idealists who are in possession of a common standard of high moral values and spiritual test levels. In every age, scientists and religionists must recognise that they are on trial before the bar of human need. They must eschew all welfare between themselves while they strive valiantly to justify their continued survival by enhanced devotion to the service of human progress. If the so-called science or religion of any age is false, then must it either purify its activities or pass away before the emergence of a material science or spiritual religion of a truer and more worthy order.” ([UB 132:1.4](/en/The_Urantia_Book/132#p1_4)).
+> “The materialistic scientist and the extreme idealist are destined always to be at loggerheads. This is not true of those scientists and idealists who are in possession of a common standard of high moral values and spiritual test levels. In every age, scientists and religionists must recognise that they are on trial before the bar of human need. They must eschew all welfare between themselves while they strive valiantly to justify their continued survival by enhanced devotion to the service of human progress. If the so-called science or religion of any age is false, then must it either purify its activities or pass away before the emergence of a material science or spiritual religion of a truer and more worthy order.” (<a id="a52_731"></a>[UB 132:1.4](/en/The_Urantia_Book/132#p1_4)).
 
-> “What both developing science and religion need is more searching and fearless self-criticism, a greater awareness of incompleteness in evolutionary status. The teachers of both science and religion are often too self-confident and dogmatic. Science and religion can only be self-critical of their facts. The moment departure is made from the stage of facts, reason abdicates or else rapidly degenerates into a consort of false logic.” ([UB 103:7.7](/en/The_Urantia_Book/103#p7_7))
+> “What both developing science and religion need is more searching and fearless self-criticism, a greater awareness of incompleteness in evolutionary status. The teachers of both science and religion are often too self-confident and dogmatic. Science and religion can only be self-critical of their facts. The moment departure is made from the stage of facts, reason abdicates or else rapidly degenerates into a consort of false logic.” (<a id="a54_439"></a>[UB 103:7.7](/en/The_Urantia_Book/103#p7_7))
 
 After my experience, I felt like Tolstoy, “I want to understand, so that any instance of the incomprehensible occurs as a necessity of reason and not as an obligation to believe.” I realised that at the centre of the experience was a mystery that I could not touch. But I wanted to know all else. Validate it in my own experience, accept on faith only that which can be known in no other way.
 
 _(Extract from a paper by Dr Matt Neibaur that presents scientific material supportive of the Book's claim to be revelatory.)_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Trevor_Swadling/What_is_Spiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What is Spiritual?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-4-july-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 4 July 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Patije_Mills/Universal_Language_Brain">
+          <span class="pr-2">Universal Language Brain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

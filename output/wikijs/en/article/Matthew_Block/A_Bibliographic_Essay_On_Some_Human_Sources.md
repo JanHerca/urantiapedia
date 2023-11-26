@@ -3,21 +3,45 @@ title: "A Bibliographic Essay On Some Human Sources Used In The Urantia Book"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: The Urantia Book, The Urantia Book—Authorship, Source authors, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Matthew Block<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Summary_Of_Elanora_Conference_1992">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summary Of Elanora Conference 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-6-nov-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 Nov 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/The_Purpose_Of_The_Fifth_Epochal_Revelation">
+          <span class="pr-2">The Purpose Of The Fifth Epochal Revelation?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Matthew Block, Chicago_
 
-> “_...in making these presentations about God and his universe associates, we have selected as the basis of these papers more than one thousand human concepts representing the highest and most advanced planetary knowledge of spiritual values and universe meanings._” ([UB 0:12.12](/en/The_Urantia_Book/0#p12_12))
+> “_...in making these presentations about God and his universe associates, we have selected as the basis of these papers more than one thousand human concepts representing the highest and most advanced planetary knowledge of spiritual values and universe meanings._” (<a id="a39_269"></a>[UB 0:12.12](/en/The_Urantia_Book/0#p12_12))
 
-> “_We may resort to pure revelation only when the concept of presentation has had no adequate previous expression by the human mind._” ([UB 0:12.11](/en/The_Urantia_Book/0#p12_11))
+> “_We may resort to pure revelation only when the concept of presentation has had no adequate previous expression by the human mind._” (<a id="a41_137"></a>[UB 0:12.11](/en/The_Urantia_Book/0#p12_11))
 
-> “_The memoranda which I have collected...embrace thought gems and superior concepts of Jesus' teachings assembled from more than two thousand human beings who have lived on earth from the days of Jesus down to the times of the inditing of these revelations, more correctly restatements...the majority of the ideas and even some of the effective expressions which I have thus utilised had their origin in the men of many races who have lived on earth during the intervening generations, right on down to those who are still alive at the time of this undertaking._” ([UB 121:8.13](/en/The_Urantia_Book/121#p8_13))
+> “_The memoranda which I have collected...embrace thought gems and superior concepts of Jesus' teachings assembled from more than two thousand human beings who have lived on earth from the days of Jesus down to the times of the inditing of these revelations, more correctly restatements...the majority of the ideas and even some of the effective expressions which I have thus utilised had their origin in the men of many races who have lived on earth during the intervening generations, right on down to those who are still alive at the time of this undertaking._” (<a id="a43_567"></a>[UB 121:8.13](/en/The_Urantia_Book/121#p8_13))
 
 Following these introductory remarks is a list of nineteen books which in all probability were used in the inditement of some of the Urantia Papers. Each of these books (with a few exceptions noted in the list) contains sentences, paragraphs or even whole chapters whose phrasings and organization of thoughts or information are so closely paralleled in _The URANTIA Book_ as to strongly suggest their use as source materials by the revelators. While a few of these have long been known to some URANTIA Book readers (e.g. the books by Breasted, Bundy, Jones), most were apparently first discovered in libraries and used book stores in the Chicago area during the spring, summer and fall of 1992 in the course of my research into _The URANTIA Book_'s human sources.
 
@@ -118,4 +142,28 @@ Paper 41, ‘Physical Aspects of the Local Universe’; Paper 42, ‘Energy — 
 
 <figure id="Figure_3" class="image urantiapedia" alt="cartoon">
 <img src="/image/article/606/cartoon12.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Swadling/Summary_Of_Elanora_Conference_1992">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Summary Of Elanora Conference 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-6-nov-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 6 Nov 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/The_Purpose_Of_The_Fifth_Epochal_Revelation">
+          <span class="pr-2">The Purpose Of The Fifth Epochal Revelation?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

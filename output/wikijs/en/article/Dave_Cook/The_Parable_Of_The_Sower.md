@@ -3,12 +3,36 @@ title: "The Parable Of The Sower"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Jesus teachings, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Dave Cook<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/To_Make_Fair_Evaluations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To Make Fair Evaluations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-1-jan-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 Jan 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Before_The_Cock_Crows">
+          <span class="pr-2">“Before The Cock Crows...”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Dave Cook, Jan Juc, Victoria_
 
@@ -34,5 +58,29 @@ Then this man in the boat, this man whom some have hailed as the Messiah, simply
 
 And with this comforting reassurance the farmer returns to his home carrying a new lease on life in his heart and joyfully greets his wife and children after having incurred their wrath for going off to seek out ‘that bloody Messiah character’. But now they see the farmer's joy and they all rejoice as he relates the words and warmth of Jesus to them.
 
-References: URANTIA Book [UB 151:1.1-5](/en/The_Urantia_Book/151#p1_1), 
+References: URANTIA Book <a id="a60_25"></a>[UB 151:1.1-5](/en/The_Urantia_Book/151#p1_1), 
 [Matthew 13:1-17, 18 — 23](/en/Bible/Matthew/13#v1), [Gal. 6:7 — 10](/en/Bible/Galatians/6#v7)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/To_Make_Fair_Evaluations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">To Make Fair Evaluations</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-1-jan-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 1 Jan 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Before_The_Cock_Crows">
+          <span class="pr-2">“Before The Cock Crows...”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

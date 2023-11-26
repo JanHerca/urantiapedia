@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ian Esmore, Willian Wentworth, David Regal, Ken Glasziou, Robert Crickett, Janet Weeks<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-2-march-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 March 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Willian_Wentworth/Group_worship">
+          <span class="pr-2">Group worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -30,7 +51,7 @@ Changing Urantia starts with first changing the attitudes in ourselves. A slight
 
 ## “Thought For The Month” 
 
-> “The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry, even in death, the death of the cross.” _The URANTIA Book_ [UB 188:5.9](/en/The_Urantia_Book/188#p5_9)
+> “The cross does stand as the token of the highest form of unselfish service, the supreme devotion of the full bestowal of a righteous life in the service of wholehearted ministry, even in death, the death of the cross.” _The URANTIA Book_ <a id="a53_241"></a>[UB 188:5.9](/en/The_Urantia_Book/188#p5_9)
 
 ## Group worship
 
@@ -144,3 +165,24 @@ The other day I received a phone call from a lady working at one of the bookstor
 </figure>
 
 Christopher Billington, W-Tree, VIC
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-2-march-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 2 March 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Willian_Wentworth/Group_worship">
+          <span class="pr-2">Group worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "A Statistical Investigation Of Writing Styles In The Urantia Papers"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: The Urantia Book, Linguistics, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Ken Glasziou<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In The Real World, Inequality Is Only Natural</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/A_Vision_For_The_Future">
+          <span class="pr-2">A Vision For The Future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Ken Glasziou, Maleny, Queensland_
 
@@ -91,3 +115,27 @@ _Table. A comparison of writing styles in different sections of The URANTIA Book
 | “ | $"$ | Foreword and Divine Counselor | 0.1 |
 
 [note: A 0.1% probability level indicates that there is less than one chance in 1000 that the two comparisons being made are drawn from the same sample. In other words, a 0.1% level of significance indicates that there is less than one chance in a thousand that the two samples had the same authors. The 5% level is usually accepted is indicating a significant difference.]
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In The Real World, Inequality Is Only Natural</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/A_Vision_For_The_Future">
+          <span class="pr-2">A Vision For The Future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

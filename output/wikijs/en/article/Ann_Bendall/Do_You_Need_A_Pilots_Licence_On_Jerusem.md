@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol12_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 3 May 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-3-may-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 3 May 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Doing_A_Service">
+          <span class="pr-2">Doing A Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I suspect it will not be necessary if we choose to fly by bird, but the mechanical devices are going to need operational instructions. Actually, as I read _The URANTIA Book_, I get the impression that they are little morontia helicopters, and suspect that there are limited seats on them. Goodness, I hope that they, at least, have room for a navigator, as I get a mental image of me trying to steer the contraption through space with a map upside down on my lap (maybe I will not be left-handed on the mansion worlds) trying to figure out where I am going.
 
@@ -29,3 +53,27 @@ When I go to school up there, I hope that my celestial advisers do not feel that
 Beyond a cursory glance of post-Urantia mansion world living, to date I have not started serious deliberations on Uversa daily lifestyle, but maybe, after being a reader for another ten years or so, I will give up trying to envisage the mansion worlds and see if the worlds beyond are any more clearly described!
 
 **Ann Bendall, Nambour, Queensland**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol12_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 12 No 3 May 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-3-may-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 3 May 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Doing_A_Service">
+          <span class="pr-2">Doing A Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

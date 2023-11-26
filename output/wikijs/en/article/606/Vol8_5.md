@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 William Wentworth, Leith Luckett, Robert Crickett, Henry Begemann<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-5-sept-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 Sept 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="pr-2">General Conference Of Urantia Brotherhood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -28,7 +49,7 @@ William Wentworth, Towamba,NSW
 
 ## “Thought For The Month” 
 
-> “Religion cannot be bestowed, received, loaned, learned, or lost. It is a personal experience which grows proportionally to the growing quest for final values.” _The URANTIA Book_ [UB 100:1.7](/en/The_Urantia_Book/100#p1_7)
+> “Religion cannot be bestowed, received, loaned, learned, or lost. It is a personal experience which grows proportionally to the growing quest for final values.” _The URANTIA Book_ <a id="a51_182"></a>[UB 100:1.7](/en/The_Urantia_Book/100#p1_7)
 
 
 ## Dear 6-0-6
@@ -88,7 +109,7 @@ Leith Luckett, Melbourne
 
 ## Announcement Of Symposium And Call For Papers
 
-The weekend of May 13-15, 1988 has been set for Scientific Symposium I, the first of three annual national (or perhaps international) Scientific Symposia. To be held in Nashville, Tennessee, it will offer presentations from both reader and non-reader scientists in an effort to clarify and better understand the descriptions and information in The URANTIA Book concerning the natural, biological and behavioural sciences. The theme will be: ‘Man's Augmenting Vision’ ([UB 118:10.13](/en/The_Urantia_Book/118#p10_13)) 
+The weekend of May 13-15, 1988 has been set for Scientific Symposium I, the first of three annual national (or perhaps international) Scientific Symposia. To be held in Nashville, Tennessee, it will offer presentations from both reader and non-reader scientists in an effort to clarify and better understand the descriptions and information in The URANTIA Book concerning the natural, biological and behavioural sciences. The theme will be: ‘Man's Augmenting Vision’ (<a id="a111_468"></a>[UB 118:10.13](/en/The_Urantia_Book/118#p10_13)) 
 
 Those interested in participating or attending should write: Scientific Symposium I, P.O. Box 23238, Nashville, TN 37202 ,USA. To be included on the mailing list, simply send your name and address to the above address. Those wishing to present papers should submit a title, a brief description, the approx. presentation time, and a biographical sketch of the author's scientific background.
 
@@ -101,7 +122,7 @@ Reincarnation is a fact of life held by millions of people the world over. The p
 
 ---
 
-> “Faith most willingly carries reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH ” _The URANTIA Book_ [UB 103:9.7](/en/The_Urantia_Book/103#p9_7)
+> “Faith most willingly carries reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of TRUTH ” _The URANTIA Book_ <a id="a124_264"></a>[UB 103:9.7](/en/The_Urantia_Book/103#p9_7)
 
 ## 10 Day Spiritual Retreat With The Urantia Book
 
@@ -129,7 +150,7 @@ SONSHIP can only be sonship WITH God. It is therefore primarily a personal relat
 
 ## Dear 6-0-6
 
-I was in communion with you when reading your article “On our Journey Inward”. Owing to the Book, we enjoy the experience of living an extraordinary adventure. With you, I say: let us improve our patience till we would wholeheartedly live our present, since “eternity is the everlasting now”. ([UB 118:1.1](/en/The_Urantia_Book/118#p1_1))
+I was in communion with you when reading your article “On our Journey Inward”. Owing to the Book, we enjoy the experience of living an extraordinary adventure. With you, I say: let us improve our patience till we would wholeheartedly live our present, since “eternity is the everlasting now”. (<a id="a152_294"></a>[UB 118:1.1](/en/The_Urantia_Book/118#p1_1))
 
 Jacques Dupont, Recloses, France
 
@@ -160,3 +181,25 @@ Thanks for those titbits of information Lou. For the past 15 years I have had th
 
 Ian Esmore, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-5-sept-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 Sept 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="pr-2">General Conference Of Urantia Brotherhood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

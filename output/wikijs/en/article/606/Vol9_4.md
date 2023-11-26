@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Robert Crickett, Ken \& Betty Glasziou, Matt Neibaur<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-4-july-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 July 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Second_Remarkable_Prediction">
+          <span class="pr-2">The Second Remarkable Prediction</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -30,11 +51,11 @@ Dana Poole from Griffin, Georgia, U.S. is the editor of the newsletter ‘Harmon
 
 ## “Thought For The Month” 
 
-> “The hope of modern Christianity is that it should cease to sponsor the social systems and industrial policies of Western civilization while it humbly bows itself before the cross it so valiantly extols, there to learn anew from Jesus of Nazareth the greatest truths mortal man can ever hear — the living gospel of the fatherhood of God and the brotherhood of man.” [UB 195:10.21](/en/The_Urantia_Book/195#p10_21)
+> “The hope of modern Christianity is that it should cease to sponsor the social systems and industrial policies of Western civilization while it humbly bows itself before the cross it so valiantly extols, there to learn anew from Jesus of Nazareth the greatest truths mortal man can ever hear — the living gospel of the fatherhood of God and the brotherhood of man.” <a id="a53_368"></a>[UB 195:10.21](/en/The_Urantia_Book/195#p10_21)
 
 ## The Second Remarkable Prediction
 
-CONTINENTAL DRIFT: _The URANTIA Book_ states quite categorically. that all land on earth was originally a single continent that subsequently broke up, commencing 750 million years ago ([UB 57:8.23](/en/The_Urantia_Book/57#p8_23)), followed by a long period of continental drifting during which land bridges were repeatedly. formed and broken.
+CONTINENTAL DRIFT: _The URANTIA Book_ states quite categorically. that all land on earth was originally a single continent that subsequently broke up, commencing 750 million years ago (<a id="a57_185"></a>[UB 57:8.23](/en/The_Urantia_Book/57#p8_23)), followed by a long period of continental drifting during which land bridges were repeatedly. formed and broken.
 
 The idea of continental drift was mooted in the 19th century and first put forward as a comprehensive theory by Wegener in 1912. It was not well accepted, being classified with gee-whiz science, and becoming more and more discredited until the 1960s. I can still remember attending a geology lecture at Sydney University in 1951 when the lecturer dismissed the concept of continental drift with the comment that there were no known forces that could wrench continents apart. The change in attitude was initiated by the discovery of long mountain ranges on the ocean floors, such as the Mid-Atlantic Ridge that stretches from Iceland to Antartica. During the 1960 's, careful examination of the ocean floor revealed that the rock from the Earth's mantle is being melted, then forced upwards resulting in sea floor spreading. This upwelling would be expected to push the continents apart, and thus provided the missing evidence for physical mechanism that could bring about continental drift. However, it was not called continental drift, and instead was given the more scientific name of plate tectonics.
 
@@ -100,7 +121,7 @@ Jean Claude continued with a talk, 'Study of _The URANTIA Book_', followed by a 
 
 The day was completed with a sacred dance guided by Kitty, and we enjoyed this very much. During the entire day spiritual waves were surrounding us, and truth beauty and goodness touched all of us.
 
-> “Melody of thought — the thinking of spiritual thoughts can be so perfected as to burst forth in the melodies of Havona.” ([UB 44:1.8](/en/The_Urantia_Book/44#p1_8))
+> “Melody of thought — the thinking of spiritual thoughts can be so perfected as to burst forth in the melodies of Havona.” (<a id="a123_125"></a>[UB 44:1.8](/en/The_Urantia_Book/44#p1_8))
 
 ### Desire for Increased Fruitfulness
 
@@ -207,3 +228,25 @@ As you probably by now have discovered no 29 clue down was missing. Our apologie
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-4-july-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 July 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Second_Remarkable_Prediction">
+          <span class="pr-2">The Second Remarkable Prediction</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "Report On The South Pacific Regional Meeting Of Readers Of The Urantia B
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Kathleen Swadling<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol9_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 6 Nov 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-6-nov-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 Nov 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="pr-2">A Service Perspective Of Individual And Organizational Relationships</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 October 10th-14th 1988
 
@@ -55,3 +79,27 @@ So ended a fantastic event, but one which will remain dear and true to us all fo
 “United we stand, divided we fall”. Let's stick together with this revelation so we can check or support one another as we attempt to live the truths we have gleaned from this amazing book.
 
 > It's Better To Light A Candle Than Curse The Darkness.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol9_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 9 No 6 Nov 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-6-nov-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 6 Nov 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="pr-2">A Service Perspective Of Individual And Organizational Relationships</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

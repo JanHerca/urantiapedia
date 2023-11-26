@@ -3,12 +3,33 @@ title: "Six-0-Six Newsletter — Volume 10 No. 6 — November 1989"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Jesus, Jesus life, Chronology, Astronomy, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Matt Neibaur<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Report_On_Noosa_89">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report On Noosa '89</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-6-nov-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 Nov 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Religion and science have long pondered the questions posed by the Star of Bethlehem. Theories abound. Supernovas comets, planetary conjunctions, and the miraculous have been invoked. Some even question if the event ever occurred, let alone how many wise men.
 
@@ -24,7 +45,7 @@ This insight is hardly dramatic for astronomers, but intriguing for readers of _
 
 “These priests from Mesopotamia had been told sometime before by a strange religious teacher of their country that he had had a dream in which he was informed that ”the light of life“ was about to appear on earth as a babe and among the Jews. And thither went these three teachers looking for this ”light of life". After many weeks of futile search in Jerusalem, they were about to return to Ur when Zacharias met them and disclosed his belief that Jesus was the object of their quest and sent them on to Bethlehem, where they found the babe and left their gifts with Mary, his earth mother. The babe was almost three weeks old at the time of their visit.
 
-These wise men saw no star to guide them to Bethlehem. The beautiful legend of the star of Bethlehem originated in this way: Jesus was born August 21 at noon, 7 B.C. On May 29, 7 B.C., there occurred an extraordinary conjunction of Jupiter and Saturn in the constellation of Pisces. And it is a remarkable astronomic fact that similar conjunctions occurred on September 29 and December 5 of the same year.Upon the basis of these extraordinary but wholly natural events the well-meaning zealots of the succeeding generation constructed the appealing legend of the star of Bethlehem and the adoring Magi... (_The URANTIA Book_ [UB 122:8.7](/en/The_Urantia_Book/122#p8_7))
+These wise men saw no star to guide them to Bethlehem. The beautiful legend of the star of Bethlehem originated in this way: Jesus was born August 21 at noon, 7 B.C. On May 29, 7 B.C., there occurred an extraordinary conjunction of Jupiter and Saturn in the constellation of Pisces. And it is a remarkable astronomic fact that similar conjunctions occurred on September 29 and December 5 of the same year.Upon the basis of these extraordinary but wholly natural events the well-meaning zealots of the succeeding generation constructed the appealing legend of the star of Bethlehem and the adoring Magi... (_The URANTIA Book_ <a id="a47_625"></a>[UB 122:8.7](/en/The_Urantia_Book/122#p8_7))
 
 The tabulated differences in dates follow:
 
@@ -66,3 +87,24 @@ Readers of this work by Dr. Neibaur must decide for themselves whether they will
 
 > _Editors note_: This is just one of the many interesting articles available through the Brotherhood of Man Library. For further information on this excellent service contact: Ken Glasziou, Stanley River Rd, Maleny, QLD. 4552.
 {.is-info}
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Report_On_Noosa_89">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Report On Noosa '89</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-6-nov-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 6 Nov 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

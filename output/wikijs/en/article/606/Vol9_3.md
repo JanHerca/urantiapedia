@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Ken Glasziou, William Wentworth, Robert Crickett, Don Lee<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-3-may-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 3 May 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Two_Remarkable_Predictions">
+          <span class="pr-2">Two Remarkable Predictions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -72,7 +93,7 @@ The URANTIA Papers contain accounts of the physical structure of the Universe, t
 
 In my view there are two commentaries that are quite outstanding in that their chances of being correct were infinitely small excepting that they were based upon a pre-existing bank of knowledge. One of these commentaries refers to atomic structure. The other concerns continental drift. There are, of course, many other remarkable comments, but, to me, these two, by themselves, tell me that I have to take seriously, the claims of _The URANTIA Book_ to be a new revelation.
 
-Quoting from [UB 41:8.3](/en/The_Urantia_Book/41#p8_3) we read as follows: “In large suns when hydrogen is exhausted and gravity contraction ensures, and such a body is not sufficiently opaque to retain the internal pressure of support for the outer gas regions, then a sudden collapse occurs. The gravity-electric changes give origin to vast quantities of tiny particles devoid of electric potential, and such particles readily escape from the solar interior thus bringing about the collapse of a gigantic sun within a few days.”
+Quoting from <a id="a95_13"></a>[UB 41:8.3](/en/The_Urantia_Book/41#p8_3) we read as follows: “In large suns when hydrogen is exhausted and gravity contraction ensures, and such a body is not sufficiently opaque to retain the internal pressure of support for the outer gas regions, then a sudden collapse occurs. The gravity-electric changes give origin to vast quantities of tiny particles devoid of electric potential, and such particles readily escape from the solar interior thus bringing about the collapse of a gigantic sun within a few days.”
 
 [Read more](/en/article/Ken_Glasziou/Two_Remarkable_Predictions)
 
@@ -269,3 +290,25 @@ DOWN
 43\. Most people's mind is almost ... to spiritual pleas of Adjuster (4)
 45\. Captain of animal advisory group in Caligastia's staff (3)
 48\. Abbreviation for Thought Adjuster (2)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-3-may-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 3 May 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Two_Remarkable_Predictions">
+          <span class="pr-2">Two Remarkable Predictions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

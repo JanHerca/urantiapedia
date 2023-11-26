@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Peter Toy, Robert Reno<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-2-march-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 March 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="pr-2">When Was Michael's Crucifixion Date?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -31,7 +52,7 @@ As we look to the future we are asking ourselves if big conferences are what we 
 
 > “What a travesty upon the infinite character of God! this teaching that his fatherly heart in all its austere coldness and hardness was so untouched by the misfortunes and sorrows of his creatures that his tender mercies were not forthcoming until he saw his blameless Son bleeding and dying upon the cross of Cavalry!”
 > 
-> “But the inhabitants of Urantia are to find deliverance from these ancient errors and pagan superstitions respecting the nature of the Universal father. The revelation of the truth about God is appearing, and the human race is destined to know the Universal father in all that beauty of character and loveliness of attributes so magnificently portrayed by the Creator Son who sojourned on Urantia as the Son of Man and the Son of God.” (The URANTIA BOOK [UB 4:5.6-7](/en/The_Urantia_Book/4#p5_6))
+> “But the inhabitants of Urantia are to find deliverance from these ancient errors and pagan superstitions respecting the nature of the Universal father. The revelation of the truth about God is appearing, and the human race is destined to know the Universal father in all that beauty of character and loveliness of attributes so magnificently portrayed by the Creator Son who sojourned on Urantia as the Son of Man and the Son of God.” (The URANTIA BOOK <a id="a54_456"></a>[UB 4:5.6-7](/en/The_Urantia_Book/4#p5_6))
 
 ## The First Australian Urantia Book Booth
 
@@ -45,7 +66,7 @@ Over 300 pamphlets were taken by interested passersby, many who engaged in discu
 
 The greatest thing which emerged from the booth experience was that of group identity. Dur once private study group was exposed to public attention. and we were very well received. There also developed an excellent camaraderie between us and the other participating booths; which reminded me a bit of Cymboyton's school of religions at Urmia.
 
-The Urmia religionists lived together in comparative peace and tranquility because they had fully surrendered all their notions of religious sovereignty. Spiritually, they all believed in a sovereign God; socially, full and unchallengeable authority rested in their presiding head — Cymboyton. They well knew what would happen to any teacher who assumed to lord it over his fellow teachers. “There can be no lasting religious peace on Urantia until all religious groups freely surrender all their notions of divine favour, chosen people, and religious sovereignty. Only when God the Father becomes supreme, will men become religious brothers and live together in religious peace on earth.” ([UB 134:4.10](/en/The_Urantia_Book/134#p4_10))
+The Urmia religionists lived together in comparative peace and tranquility because they had fully surrendered all their notions of religious sovereignty. Spiritually, they all believed in a sovereign God; socially, full and unchallengeable authority rested in their presiding head — Cymboyton. They well knew what would happen to any teacher who assumed to lord it over his fellow teachers. “There can be no lasting religious peace on Urantia until all religious groups freely surrender all their notions of divine favour, chosen people, and religious sovereignty. Only when God the Father becomes supreme, will men become religious brothers and live together in religious peace on earth.” (<a id="a68_691"></a>[UB 134:4.10](/en/The_Urantia_Book/134#p4_10))
 
 I recommend all study groups throughout Australia to organize an URANTIA book booth. It is a great service to the community, not only to let them know that you are a believer in _The URANTIA Book_, but to sow seeds that will eventually enrich and enlighten all humanity.
 
@@ -221,3 +242,25 @@ PROGRAM
 4.00-5.30 P.M.   | STUDY AIDS
 5.30-            | SOCIALIZING
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-2-march-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 March 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="pr-2">When Was Michael's Crucifixion Date?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

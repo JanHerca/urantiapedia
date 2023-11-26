@@ -3,12 +3,36 @@ title: "Cosmology Corner"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Science, Cosmology, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Richard Bain<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Regal/What_Religion_Are_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Religion Are You?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-6-nov-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 Nov 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/So_Whats_The_Connection">
+          <span class="pr-2">So What's The Connection?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 When I first started writing the “Cosmology Corner” section about a year and a half ago, it seemed that the Big Bang theory was so firmly entrenched that it would be around for decades. It's fascinating how a structure can seem so solid just before it collapses from termite damage. There now appear to be a few termite cosmologists nibbling inside the structure of the theory.
 
@@ -32,3 +56,27 @@ Richard Bain, St, Petersburg, FL,USA
 {.is-info}
 
 I am interested to hear the reaction, if any, on your announcement in 6-0-6 of the study by mail. If this “could become the largest global study group” I wonder. Anyway if I can serve some dispersed student I'll be glad. The writer of that long and confused article about reincarnation should differentiate between reincarnation, which our book denies, and repersonalization, the latter being the process our book teaches. I could go deeper into that but for the moment I must wait.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Regal/What_Religion_Are_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Religion Are You?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-6-nov-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 Nov 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/So_Whats_The_Connection">
+          <span class="pr-2">So What's The Connection?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

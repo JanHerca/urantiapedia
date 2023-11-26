@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Cosmology_Corner">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosmology Corner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-6-nov-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 Nov 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bessie was trying to work something out. She was one of the American tourists, who were on a guided tour of Fiji, Australia and New Zealand.
 
@@ -18,10 +39,31 @@ Bessie was trying to work something out. She was one of the American tourists, w
 
 ‘Was it the same connection when we stopped in Fiji?"’ Bessie was getting rather curious. Duane and Lucilla Faw had seen Isi and Martha Racule when their plane had stopped in Fiji.
 
-_The URANTIA Book_ has a way of changing people's lives in more than one way. Apart from the inner change it brings about, it also has an effect on our social life. For example who could have expected that I would be driving with a coach full of American tourists on a guided tour around the city of Melbourne? Yet, that's what I was doing after Duane and Lucilla had so generously invited me to come with them as there was only precious little time left to be together before they would continue on their way to Phillip Island to see the penguin parade. I had a chance to sce Melbourne City through the eyes of the tourist, who seemed to be more impressed with the psychedelic colors of the shopfacades in Melbourne's inner city than with the architecture of St. Patricks Cathedral.
+_The URANTIA Book_ has a way of changing people's lives in more than one way. Apart from the inner change it brings about, it also has an effect on our social life. For example who could have expected that I would be driving with a coach full of American tourists on a guided tour around the city of Melbourne? Yet, that's what I was doing after Duane and Lucilla had so generously invited me to come with them as there was only precious little time left to be together before they would continue on their way to Phillip Island to see the penguin parade. I had a chance to see Melbourne City through the eyes of the tourist, who seemed to be more impressed with the psychedelic colors of the shop facades in Melbourne's inner city than with the architecture of St. Patricks Cathedral.
 
 I was really impressed with the way these tourists made me feel one of their group in the low hours I spent with then. No doubt Duane and Lucilla would have talked to more URANTIA Book readers in Canberra, Sydney and New Zealand.
 
 I have a feeling that before their tour is over, Bessie and a few more of their travel companions are going to find out a bit more about the book which is the connection.
 
 Madeline Noordzy, Melbourne
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Cosmology_Corner">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cosmology Corner</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-6-nov-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 Nov 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Ken Glasziou<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/International_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-4-july-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 4 July 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Are_You_Lonesome_Tonight_2">
+          <span class="pr-2">Are You Lonesome Tonight?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 In an interesting letter in the May/June 6-0-6, Tony Rudd brought up the question of proof, giving an example in which he compared the racialism of Hitler and the Nazis with apparent racialism in _The URANTIA Book_ and concluding that Hitler was on the right track in his efforts to breed a super race of Aryans along the lines of the Adamic program to promote the violet race. I was glad to see Tony's acknowledgement that his conclusions were clearly ridiculous, but this impasse does bring up the vexing question of the precise nature of proof.
@@ -23,7 +47,7 @@ After the initial shock, academia settled down to sweep Godel under the carpet b
 
 Undoubtedly this exposition is boring to many, probably most, readers. However it is not necessary to digest its content other than to recognize that even the finest mathematical and logical brains among us have not been able to provide rigorous proof of even the axioms of simple arithmetic. Hence the lesson for all of us is that we are exceedingly naive about what constitutes proof, and we very much need to hone our critical faculties in regard to what we accept as fact, or the opinions we promote to others as conclusively proven facts — a point which Tony's letter has made a compelling appeal. _The URANTIA Book_ has provided us with much wisdom on this topic. The papers arrived at a time when our mathematicians considered that their discipline was the most rigorous of all, but Paper 103 gave scant heed to their pride by referring to ‘the approximations of mathematics’. The same Paper tells us that,
 
-> “_In the mortal state, ***nothing*** can be absolutely proved, both science and religion are predicated on assumptions. On the morontia level, the postulates of both science and religion are capable of partial proof by mota logic (elsewhere we are told that mota logic is beyond comprehension). On the spiritual level of maximum status, the need for finite proof gradually vanishes before the actual experience of and with reality; but even then there is much beyond the finite that remains unproved_”. [UB 103:7.10](/en/The_Urantia_Book/103#p7_10)
+> “_In the mortal state, ***nothing*** can be absolutely proved, both science and religion are predicated on assumptions. On the morontia level, the postulates of both science and religion are capable of partial proof by mota logic (elsewhere we are told that mota logic is beyond comprehension). On the spiritual level of maximum status, the need for finite proof gradually vanishes before the actual experience of and with reality; but even then there is much beyond the finite that remains unproved_”. <a id="a49_505"></a>[UB 103:7.10](/en/The_Urantia_Book/103#p7_10)
 
 This Paper also reminds us of our need for searching and fearless self-criticism, and a greater awareness of the incompleteness and evolutionary status of our knowledge. It also makes the comment that we are often too self-confident and dogmatic.
 
@@ -39,9 +63,33 @@ _The URANTIA Book_ informs us that we all have the necessary gifts to lift us ab
 
 1. “Reason is valid — the universe can be comprehended.”
 2. “Wisdom is valid — the material universe can be coordinated with the spiritual.” And from the Thought Adjuster, we receive the inherent knowledge that:
-3. “Faith is valid — God can be known and attained” ([UB 103:9.8](/en/The_Urantia_Book/103#p9_8)).
+3. “Faith is valid — God can be known and attained” (<a id="a65_53"></a>[UB 103:9.8](/en/The_Urantia_Book/103#p9_8)).
 
-Again this is revelation, proof is irrelevant. Our willingness to accept these gifts and to believe them has the direct result that we live lives motivated by truth and dominated by love ([UB 103:9.9](/en/The_Urantia_Book/103#p9_9)). And this is the personal journey that Tony has referred to at the conclusion of his absorbing letter.
+Again this is revelation, proof is irrelevant. Our willingness to accept these gifts and to believe them has the direct result that we live lives motivated by truth and dominated by love (<a id="a67_188"></a>[UB 103:9.9](/en/The_Urantia_Book/103#p9_9)). And this is the personal journey that Tony has referred to at the conclusion of his absorbing letter.
 
 **Ken Glasziou**
 **Maleny, Queensland**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/International_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">International Conference</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-4-july-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 4 July 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Are_You_Lonesome_Tonight_2">
+          <span class="pr-2">Are You Lonesome Tonight?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

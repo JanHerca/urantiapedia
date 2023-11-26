@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 11 No. 6 — February 1990"
+title: "Coming To A “Final Decision”"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,10 +9,34 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Robert Crickett<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Terry_Hovaghimian/A_Truth_Junkie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A “Truth Junkie”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carl_Sarelius/BackPacking_From_Melbourne_To_Sydney">
+          <span class="pr-2">Back-Packing From Melbourne To Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The URANTIA Book_ states:
 
-> “_In the early days of the struggle Lucifer held forth continuously in the planetary amphitheatre. Gabriel conducted an unceasing exposure of the rebel sophistries from his headquarters taken up near at hand. The various personalities present on the sphere who were in doubt as to their attitude would journey back and forth between these discussions until they arrived at a final decision._” ([UB 53:5.6](/en/The_Urantia_Book/53#p5_6))
+> “_In the early days of the struggle Lucifer held forth continuously in the planetary amphitheatre. Gabriel conducted an unceasing exposure of the rebel sophistries from his headquarters taken up near at hand. The various personalities present on the sphere who were in doubt as to their attitude would journey back and forth between these discussions until they arrived at a final decision._” (<a id="a38_396"></a>[UB 53:5.6](/en/The_Urantia_Book/53#p5_6))
 
 It is apparent that URANTIA Book readers and prospective URANTIA Book readers are being divided into two camps: those who believe in the gospel of Mr. Pope and those who through some understanding or contrary evidence of their own refute it outright.
 
@@ -36,8 +60,7 @@ In the process of anyone acquainted with this 'message of good news' coming to a
 
 [1] believe it is true and doing so ultimately because they don't have first hand and direct insight into the truth or fallacy of the matter; such lack of first hand insight forcing them into a position of having to believe in the authority they invest in Mr. Pope; or,
 
-[2] believe it is false and doing so ultimately because they do have first hand and direct insight into the proposition put forward (which means they would have secured some form of genuine prophet-like adeptness themselves), or doing so because they clearly recognize that the structure of the whole proposition simply lacks reasonableness and logic (which means they would have a clear understanding of _The URANTIA Book_, Biblical
-and relevant scriptures from which Mr. Pope has drawn his own deductions which amount to the nature of his mission and gospel), or doing so because they clearly recognize that Mr. Pope's vantage point is lacking in genuine spiritual perspective (which means that they recognize in Mr. Pope psychological and fledgling spiritual thinking which they themselves have long since encountered, spiritized and outgrown ... a process which would enable them to see his proposition from a greater sense of realness and God-knowing than he himself).
+[2] believe it is false and doing so ultimately because they do have first hand and direct insight into the proposition put forward (which means they would have secured some form of genuine prophet-like adeptness themselves), or doing so because they clearly recognize that the structure of the whole proposition simply lacks reasonableness and logic (which means they would have a clear understanding of _The URANTIA Book_, Biblical and relevant scriptures from which Mr. Pope has drawn his own deductions which amount to the nature of his mission and gospel), or doing so because they clearly recognize that Mr. Pope's vantage point is lacking in genuine spiritual perspective (which means that they recognize in Mr. Pope psychological and fledgling spiritual thinking which they themselves have long since encountered, spiritized and outgrown ... a process which would enable them to see his proposition from a greater sense of realness and God-knowing than he himself).
 
 Obviously there are a tremendous number of people in the first camp: those who will believe in Mr. Pope and his authority, those whose spiritual lives are sufficiently empty of genuine nourishment that they must believe him lest they find nothing in life from which to draw their 'daily bread', those for whom spiritual life must somehow engage them in extraordinary and cosmic adventures above and beyond the natural and normal quietly proceeding growth of their morontia values within their earthy and humble surrounds, those who are new to _The URANTIA Book_ and find themselves hanging on every word of their elders without any practical means to discriminate wisely ... especially since few newcomers would ever suspect wolves among the flock.
 
@@ -80,3 +103,27 @@ It is only in the spiritual perspectives of such people that the error and fooli
 This author believes he does not stand alone in this refuting of Mr. Pope and his pseudo-prophetic claims. He doubts that this present document shall stand alone in this quest. He also doubts that others of like mind shall be slow in forthcoming with their own individual perspective to reinforce the support of “good news to a distracted world”. If this author can be of any assistance with your questions as you bring yourself to your own 'final decision' please address them to 88 Alma Road St Kilda, Vic. 3182 including a stamped, self-addressed envelope.
 
 **Robert Crickett, Melbourne**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Terry_Hovaghimian/A_Truth_Junkie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A “Truth Junkie”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Carl_Sarelius/BackPacking_From_Melbourne_To_Sydney">
+          <span class="pr-2">Back-Packing From Melbourne To Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

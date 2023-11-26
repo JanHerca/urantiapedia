@@ -3,12 +3,36 @@ title: "International Conference"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 William Wentworth<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/From_ET_To_E3_Keeping_An_Open_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">From E.T. To E-3 Keeping An Open Mind On The Matter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-4-july-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 4 July 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Vagaries_Of_Proof_A_Reply_To_Tony_Rudd">
+          <span class="pr-2">The Vagaries Of Proof — A Reply To Tony Rudd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The International Conference of the Fifth Epochal Fellowship (formerly URANTIA Brotherhood) was held at Snowmass, Colorado, USA, from 30th June to 5th July. Five Australians and one New Zealander were among more than 1,000 attendees of a well organised and stimulating five days of presentations, workshops, entertainment and socialising. This was the second conference at Snowmass, the first being in 1981, and the facilities were superb.
 
@@ -32,3 +56,27 @@ On the whole, I have had an instructive, and at times astonishing, visit with Am
 
 **William Wentworth**
 **Towamba, NSW**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/From_ET_To_E3_Keeping_An_Open_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">From E.T. To E-3 Keeping An Open Mind On The Matter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-4-july-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 4 July 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Vagaries_Of_Proof_A_Reply_To_Tony_Rudd">
+          <span class="pr-2">The Vagaries Of Proof — A Reply To Tony Rudd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

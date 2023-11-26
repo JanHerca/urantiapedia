@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Neil Francey, Ken Glasziou, Trevor Swadling, Madeline Noordzy<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-8-nov-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 Nov 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin">
+          <span class="pr-2">_The Urantia Book_: The Question Of Origin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -67,7 +88,7 @@ At this point in time there is no similar tradition of acceptance to give a “s
 
 ## John The Revelator
 
-On [UB 47:10.2](/en/The_Urantia_Book/47#p10_2) _The URANTIA Book_ refers to John as “John the Revelator”. When we read the paper on the twelve apostles, on [UB 139:4.14](/en/The_Urantia_Book/139#p4_14) the Midwayers tell us about John: “When in temporary exile on Patmos, John wrote the Book of Revelation, which you now have in greatly abridged and distorted form. This Book of Revelation contains the surviving fragments of a great revelation, large portions of which were lost, other portions of which were removed, subsequent to John's writing. It is preserved in only fragmentary and adulterated form.”
+On <a id="a90_3"></a>[UB 47:10.2](/en/The_Urantia_Book/47#p10_2) _The URANTIA Book_ refers to John as “John the Revelator”. When we read the paper on the twelve apostles, on <a id="a90_156"></a>[UB 139:4.14](/en/The_Urantia_Book/139#p4_14) the Midwayers tell us about John: “When in temporary exile on Patmos, John wrote the Book of Revelation, which you now have in greatly abridged and distorted form. This Book of Revelation contains the surviving fragments of a great revelation, large portions of which were lost, other portions of which were removed, subsequent to John's writing. It is preserved in only fragmentary and adulterated form.”
 
 On this topic I would like to attempt to shed some light. In certain papers of _The URANTIA Book_ they quote from the Book of Revelation and this we may be able to piece together and understand something of the revelations that John had. When we read the Book of Revelation it becomes clear that in the visions John was having, he himself did not fully understand what he was beholding.
 
@@ -144,3 +165,25 @@ No, I no longer require a copy of your Newsletter.
 Name: \_\_\_\_
 Address: \_\_\_\_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-8-nov-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 8 Nov 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin">
+          <span class="pr-2">_The Urantia Book_: The Question Of Origin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

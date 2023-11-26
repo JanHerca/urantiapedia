@@ -3,12 +3,36 @@ title: "Conference 1986 Report"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol7_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 6 July 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-6-july-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 July 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_3">
+          <span class="pr-2">Commentary On Scientific Statements In The Urantia Book III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 If there was lack of sunshine outside, there certainly was plenty of it inside. Although the conference was on Saturday and Sunday, for a lot of people who had come from interstate and from overseas, the “getting to know you” had already started on the Thursday and Friday before. Our American visitors still looked bright and cheerful when we picked them up from the airport after their eleven hour flight from Tahiti, where they had visited our good friend Emanuel Iou and his lovely wife Jeannette.
 
@@ -63,3 +87,27 @@ This conference was living proof that when we are guided by the spirit within us
 I want to say thank you on behalf of all of us here in Melbourne to all the people, who have helped to make this conference a success, including all those quiet workers in the background.
 
 Conferences are about people. People who had come from far and near. And if some of them were new to us before the conference, we all departed like old friends with promises to see each other again.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol7_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 7 No 6 July 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-6-july-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 July 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_3">
+          <span class="pr-2">Commentary On Scientific Statements In The Urantia Book III</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

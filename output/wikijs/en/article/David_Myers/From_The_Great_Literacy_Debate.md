@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1993 David Myers<br>© 1993 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Does The End Ever Justify Unworthy Means?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Edited By David Myers, Australian Scholarly Publishing._
 
@@ -29,3 +50,24 @@ Let us start again in a more dignified, tolerant fashion. Perhaps the complaints
 The search for a convenient scapegoat on whom to blame this alleged drop in grammatical standards inflames the passions as the buck is passed from schoolteachers to parents and finally to the indifference of a whole society which has allegedly been seduced into electronic communications at the cost of sophistication in written communication.
 
 There is a much wider problem today with the achieving of literacy in Australia and the western world generally. This problem is one of values and priorities. Love of language for its own sake and respect for literacy are low down on people's priority lists. The majority of our population seems not particularly concerned that after the lapse of a thousand years the greatness of a civilization is not commonly measured by its industrial production or its balance of payments. It is measured by its contribution to philosophy, art, architecture, education and literature.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Does The End Ever Justify Unworthy Means?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

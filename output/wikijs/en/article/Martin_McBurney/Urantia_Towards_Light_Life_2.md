@@ -9,6 +9,30 @@ dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1988 Martin McBurney<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/On_The_Practise_Of_Doing_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On The Practise Of Doing The Will Of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-5-sept-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 Sept 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="pr-2">Exploring Our Own Back Yard — The Solar System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 By Martin McBurney, VIC
@@ -44,3 +68,28 @@ There is a song called “What Are You Doing the Test of Your Life.” Well, eve
 > _God my Father, it is my will that Urantia achieves progress (as you will) ever more effectively. Michael, I love you._
 
 Do I expect to see real progress during my lifetime? Yes I do! That song is from a motion picture called _“The Happy Ending”!_
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/On_The_Practise_Of_Doing_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">On The Practise Of Doing The Will Of God</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-5-sept-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 Sept 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="pr-2">Exploring Our Own Back Yard — The Solar System</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

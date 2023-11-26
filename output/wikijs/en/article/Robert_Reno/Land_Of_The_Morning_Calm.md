@@ -3,12 +3,33 @@ title: "Land Of The Morning Calm"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Dissemination, Korea, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Robert Reno<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Was Michael's Crucifixion Date?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-2-march-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 March 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In this article Robert Reno tells us of his experiences as an army chaplain in South Korea.
 
@@ -71,8 +92,29 @@ Yoo song Tae is even now studying _The URANTIA Book_ as I am studying the Won Bu
 Over the last few years I have had the growing conviction that there are two great commissions for those who choose to serve the revelation:
 
 1) That of the revelators themselves, the placing of the revelation as "_The URANTIA Book_" into mortal hands, and the commission to disseminate it throughout the world.
-2) The commission of Christ Michael himself. The commission to take the message of the gospel to all the world. “That which the world needs most to know is men are the sons of God and, through faith, they can actually realize and daily experience this ennobling truth.” ([UB 193:0.4](/en/The_Urantia_Book/193#p0_4))
+2) The commission of Christ Michael himself. The commission to take the message of the gospel to all the world. “That which the world needs most to know is men are the sons of God and, through faith, they can actually realize and daily experience this ennobling truth.” (<a id="a94_271"></a>[UB 193:0.4](/en/The_Urantia_Book/193#p0_4))
 
 For the latter, we have the superb example of Jesus own life, as revealed in the story of his life and teachings, but alas, for the former, by and large we have only challenge, opportunity, and uncertainty. I have pondered this issue, this question, this challenge for most of my years of reading _The URANTIA Book_. For myself, I have found two areas of thought to shed valuable light upon this issue. These two areas of thought are, the religious challenge of this age, and the solutions thereto as revealed in _The URANTIA Book_.
 
 The reason I have found so much insight in this concept of the religious challenge of the age, is simply that the religious challenge of the age, “is” the religious challenge of the world today. If we look around we will find within the world today many "forward looking groups" striving to solve the religious challenge of our age.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">When Was Michael's Crucifixion Date?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-2-march-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 2 March 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

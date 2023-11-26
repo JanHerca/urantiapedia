@@ -9,12 +9,36 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol13_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 4 July 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-4-july-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 July 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="pr-2">Religious Publishing Bears Fruit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Ann Bendall, Nambour, Queensland_
 
-We are given a great deal of information in _The URANTIA Book_ — suggestions, techniques, benefits etc., on the topic of prayer. It appears that there is a fine dividing line between prayer and worship and hence, in referring to Jesus — “The Master prayed very little for himself, although he engaged in much worship of the nature of understanding communion with his Paradise Father” ([UB 144:3.23](/en/The_Urantia_Book/144#p3_23)).
+We are given a great deal of information in _The URANTIA Book_ — suggestions, techniques, benefits etc., on the topic of prayer. It appears that there is a fine dividing line between prayer and worship and hence, in referring to Jesus — “The Master prayed very little for himself, although he engaged in much worship of the nature of understanding communion with his Paradise Father” (<a id="a38_385"></a>[UB 144:3.23](/en/The_Urantia_Book/144#p3_23)).
 
-In giving his apostles instructions in response to their queries on prayer -“this all-important and worshipful practice” — he described prayer as “the sincere and longing look of the child to its spirit Father; it is a psychologic process of exchanging the human will for the divine will. Prayer is a part of the divine plan for making over that which is into that which ought to be” ([UB 144:4.9](/en/The_Urantia_Book/144#p4_9)). Now what does this mean? I read on and discover that “Practically all of Jesus' praying was done in the spirit and in the heart — silently” and that the “Master so rarely uttered his prayers as spoken words”. I get the impression that not only did he not utter the words, he did not pray mentally in words. I suspect that Jesus' praying was in the form encouraged by the Catholic religion called ‘contemplative prayer’. If my suspicion is correct, another cheer for Jesus Michael's Spirit of Truth as it has again broken through the traditional barriers of formalized religion by building on what was, so as to make it what it ought to be.
+In giving his apostles instructions in response to their queries on prayer -“this all-important and worshipful practice” — he described prayer as “the sincere and longing look of the child to its spirit Father; it is a psychologic process of exchanging the human will for the divine will. Prayer is a part of the divine plan for making over that which is into that which ought to be” (<a id="a40_385"></a>[UB 144:4.9](/en/The_Urantia_Book/144#p4_9)). Now what does this mean? I read on and discover that “Practically all of Jesus' praying was done in the spirit and in the heart — silently” and that the “Master so rarely uttered his prayers as spoken words”. I get the impression that not only did he not utter the words, he did not pray mentally in words. I suspect that Jesus' praying was in the form encouraged by the Catholic religion called ‘contemplative prayer’. If my suspicion is correct, another cheer for Jesus Michael's Spirit of Truth as it has again broken through the traditional barriers of formalized religion by building on what was, so as to make it what it ought to be.
 
 Oh how I would love to pray as Jesus prays. All I know is that, with every shred of what limited intellect I possess, I wish my will to be attuned to God's will. I want to learn all interesting new prayers as mine are so repetitive. I start to pray and then burst into laughter. God knows what I need, before I ask Him and I want what He wants for me — simple as that.
 
@@ -27,3 +51,27 @@ Prior to _The URANTIA Book_, praying was all so easy. I would burden God with my
 I am to get off my pedestal of illusion, roll up my mental sleeves, pick up the blue book and read and understand and integrate its teachings into my being. _The URANTIA Book_ gives in excess of 100 character portrayals (I have not counted, but for the mathematically inclined, it would be of interest to see just how many). These descriptions of the various personalities — ranging from Lucifer, to the apostles, Jesus' family and the many people Jesus met — give a detailed explanation of their weaknesses and their attempts to rectify either themselves or the world around them. I verily believe that practically every imperfect and undesirable human characteristic is exemplified in this book, as well as the way to overcome them. I may not have them all, but as sure as I am that I am imperfect, I recognize some glaring examples of myself in descriptions of others. Before the blue book my desire to ‘be perfect’ was all in God's hands. These days I am expected to pull my weight. If I want to be ‘perfect’ then I am given all the information in regard to my imperfection, plus a foolproof technique to overcome them.
 
 I believe I can understand the philosophy of those who say that _The URANTIA Book_ is the work of the devil. Did not Jesus say to ask whatever you wish of the Father, and he would go up and twist His arm and guarantee that you got it? Jesus was like a religious Aladdin's lamp. All we had to do was pray and we would be perfect. When taken literally, disappointment met many good folks' endeavours, when the Mercedes was not in the family garage with a ‘Love from God’ card. A goodly number of charismatics finally became more mature and started to realize that perhaps the more appropriate request was for ‘perfection’, and the spiritual tools to do “greater works than these”. Imagine their shock if they read _The URANTIA Book_ after which the pathway to perfection requires an inordinate amount of effort, and a precise map is provided which states exactly the direction. The road is not formed, we are required to build it as we go.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol13_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 13 No 4 July 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-4-july-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 July 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="pr-2">Religious Publishing Bears Fruit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

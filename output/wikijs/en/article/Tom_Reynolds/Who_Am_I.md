@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Tom Reynolds<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/Australia_A_Pagan_Country_A_Rejoinder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Australia — A Pagan Country? A Rejoinder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-6-july-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 July 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 At one pole of my being, I am at one with the physical world of reality. The other pole of my being is separate from all. I stand alone. I am “I”! I am incomparable — unique!
 
@@ -31,3 +52,24 @@ It is not so much the possessions we have, be they material, mental or spiritual
 What has this to do with service? The path of love — service and individual progression is the same path, for it leads on to individual health, more full and deeper relationships with others, self forgetfulness, self development and better Adjuster guidance. To share ourselves with others and not to stand above and dispense as one who is better than them is the key, the golden key to success and security, here, now and in all future times.
 
 Tom Reynolds, Melbourne
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/Australia_A_Pagan_Country_A_Rejoinder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Australia — A Pagan Country? A Rejoinder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-6-july-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 6 July 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

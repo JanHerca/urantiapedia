@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Patije Mills<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Martin_Greenhut/All_Of_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All Of It</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-3-may-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 3 May 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Irene_and_Wolfgang_Borutta/Epochal_Revolt">
+          <span class="pr-2">“Epochal Revolt”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Six-O-Six is a quality newspaper! (I like the idea of the Part I and Part II so that Part II can be skipped by those who are sensitive to the information.)
 
@@ -26,7 +50,7 @@ _The URANTIA Book_ teaches us to learn about others' religion. By understanding,
 
 This can be applied to the news in your Part II of Six-O-Six. Let's at least know about and discern the truth, not hide our heads and intellects in URANTIA Fundamentalism which might make us blind to a new revelation. At this time, I personally have little interest in what is going on in Sedona, Arizona — even feel there is a great deal of “tares planted with the wheat” (Jesus' parable of Truth and untruth growing together until known by its fruit) — however, I have no problem with keeping up with developments until I can make a decision based on intelligence and spiritual knowing.
 
-A few years ago I was impressed by a combination of truth from _The URANTIA Book_ ([UB 117:1.1](/en/The_Urantia_Book/117#p1_1) and [UB 126:2.5](/en/The_Urantia_Book/126#p2_5)) and having shared it (in a personal way) one artist in my study groups drew it out and framed it which now hangs above us when we study and discuss many points of truth and opinion. May I share them with you?
+A few years ago I was impressed by a combination of truth from _The URANTIA Book_ (<a id="a52_83"></a>[UB 117:1.1](/en/The_Urantia_Book/117#p1_1) and <a id="a52_131"></a>[UB 126:2.5](/en/The_Urantia_Book/126#p2_5)) and having shared it (in a personal way) one artist in my study groups drew it out and framed it which now hangs above us when we study and discuss many points of truth and opinion. May I share them with you?
 
 <figure id="Figure_2" class="image urantiapedia" alt="Balanced life">
 <img src="/image/article/606/balanced.jpg">
@@ -36,3 +60,27 @@ A few years ago I was impressed by a combination of truth from _The URANTIA Book
 Six-O-Six is a quality newsletter. Keep up the openminded good work in reporting all of the news!
 
 **Patije Mills, Sarasota, Florida, USA**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Martin_Greenhut/All_Of_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All Of It</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-3-may-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 3 May 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Irene_and_Wolfgang_Borutta/Epochal_Revolt">
+          <span class="pr-2">“Epochal Revolt”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

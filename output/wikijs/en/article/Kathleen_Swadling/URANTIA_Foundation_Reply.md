@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/What_Do_You_Think">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Do You Think?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-5-sept-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 Sept 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="pr-2">What Does The Urantia Book Say About Communication With The Spirit World?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _summarised by Kathleen Swadling, Sydney_
 
@@ -68,3 +92,27 @@ Mo claims that the Foundation have allegedly assigned human authorship to parts 
 “During a hearing associated with the Maaherra case, Mr Craig Fochler (one of URANTIA Foundation's copyright and trademark lawyers) recently stated in federal court in Phoenix, Arizona, that William S. Sadler Jr. had written certain portions of _The URANTIA Book_. This referred to the fact that Mr Sadler, on behalf of URANTIA Foundation (as work for hire), wrote certain of the introductory portions of _The URANTIA Book_ identified as The Titles of the Papers and Contents of _The URANTIA Book_. Mr Fochler did not say that Mr Sadler wrote any of the Foreword or any of the papers contained in _The URANTIA Book_.”
 
 “Mr Siegel's general comments about federal copyright law appear to be based on his misinterpretation of the facts of law in relation to the three topics discussed above.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/What_Do_You_Think">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What Do You Think?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-5-sept-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 5 Sept 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="pr-2">What Does The Urantia Book Say About Communication With The Spirit World?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

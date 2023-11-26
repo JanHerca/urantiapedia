@@ -3,12 +3,36 @@ title: "General Conference Of Urantia Brotherhood"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 William Wentworth<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 5 Sept 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-5-sept-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 Sept 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/On_the_matter_of_Reincarnation">
+          <span class="pr-2">On the matter of Reincarnation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Three Australians attended the Conference, held in Brunswick, Maine, at the beginning of August. These notes derive from my own experience. Neil Francey and Hannah De Vries will have to speak for themselves.
 
@@ -31,3 +55,27 @@ Finally, the Conference made it very clear to me that the U.S. readership is sti
 We Australians have a small but important part to play.
 
 William Wentworth, Towamba,NSW
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 5 Sept 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-5-sept-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 5 Sept 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rob_Crickett/On_the_matter_of_Reincarnation">
+          <span class="pr-2">On the matter of Reincarnation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

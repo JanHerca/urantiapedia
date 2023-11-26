@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Anna Dollard<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Contemplative_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contemplative Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-4-july-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 July 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="pr-2">Science And The Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Anna Dollard_
 _(Courtesy Of ‘Australian Bookseller \& Publisher’)_
@@ -30,3 +54,27 @@ E J Dwyer continues to publish traditional Catholic works, including texts used 
 E J Dwyer has benefitted from the ‘blossoming phenomenon’ of general readers seeking scripture writings that once would have been published with only a traditional Bible study group in mind. One of its recent releases, ‘Introducing Contemporary Theologies’, by Neil Omerod, a lecturer in theology at St. Paul's seminary, is one title to have attracted both general readers and serious students of theology. On the flip side, religious publishing is also seeing respected theologians tackling issues in a way that is accessible to lay people. Dwyer's ‘Making Australia’, by Marist priest John Thornhill, is another such book. His writings on the spiritual aspects of Australian life and where religion fits in explores Australian attitudes in general, including the tall-poppy syndrome and why Australians hesitate to be overtly religious.
 
 Perhaps the biggest religious title to cross over into mainstream literature this year will be ‘Jesus The Man’ by Dr Barbara Thiering, published by Transworld who has already sold the rights to the book in the US, UK and Canada. The controversial book based on the Dead Sea Scrolls, will also be serialised in a major newspaper and national colour magazine.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Contemplative_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Contemplative Prayer</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-4-july-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 July 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="pr-2">Science And The Spirit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

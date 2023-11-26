@@ -43,7 +43,9 @@ class Articles {
 		'Tidings',
 		'Journal',
 		'Spiritual Fellowship',
-		'Study Group Herald'
+		'Study Group Herald',
+		'The Arena',
+		'6-0-6'
 	];
 
 	createIndexFn = pug.compileFile(path.join(app.getAppPath(), 'app', 'templates', 'articleindex.pug'), {pretty: true});

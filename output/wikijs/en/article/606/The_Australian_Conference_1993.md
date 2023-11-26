@@ -3,12 +3,36 @@ title: "The Australian Conference 1993"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1993 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ron_Cyr/Spiritual_Vision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Vision</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="pr-2">Does The End Ever Justify Unworthy Means?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is with great pleasure that we announce the 1993 Australian Conference for readers of _The URANTIA Book_
 
@@ -34,7 +58,7 @@ In this and no doubt many other ways, Jesus resolved ordinary conflicts of livin
 
 We are bid to do likewise.
 
-> “_If you sincerely nun the race of time and gain the final goal of faith, the reward of the ages shall be yours._” ([UB 112:0.1](/en/The_Urantia_Book/112#p0_1))
+> “_If you sincerely nun the race of time and gain the final goal of faith, the reward of the ages shall be yours._” (<a id="a60_118"></a>[UB 112:0.1](/en/The_Urantia_Book/112#p0_1))
 
 ## The Time
 
@@ -68,4 +92,28 @@ Sunnybank, 4109, Queensland, Australia.
 
 <figure id="Figure_3" class="image urantiapedia" alt="maps">
 <img src="/image/article/606/maps.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ron_Cyr/Spiritual_Vision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Vision</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="pr-2">Does The End Ever Justify Unworthy Means?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

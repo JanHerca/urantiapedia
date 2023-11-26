@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/The_Australian_Conference_1993">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Australian Conference 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Myers/From_The_Great_Literacy_Debate">
+          <span class="pr-2">From The Great Literacy Debate</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Ken Glasziou, Maleny, Queensland_
 
@@ -16,19 +40,19 @@ According to _The URANTIA Book_, the Adamic default was more disastrous for us t
 
 The book tells us that this loss can be at least partially negated:
 
-> “_Jesus showed mankind the new way of mortal living whereby human beings may very largely escape the dire consequences of the Caligastia rebellion and most effectively compensate for the deprivations resulting from the Adamic default._” ([UB 34:7.6](/en/The_Urantia_Book/34#p7_6))
+> “_Jesus showed mankind the new way of mortal living whereby human beings may very largely escape the dire consequences of the Caligastia rebellion and most effectively compensate for the deprivations resulting from the Adamic default._” (<a id="a42_240"></a>[UB 34:7.6](/en/The_Urantia_Book/34#p7_6))
 
 The ‘way’ that Jesus showed us was, of course, his life and the way he lived. The book tells us:
 
-> “_To follow Jesus means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._” ([UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
+> “_To follow Jesus means to personally share his religious faith and to enter into the spirit of the Master's life of unselfish service for man. One of the most important things in human living is to find out what Jesus believed, to discover his ideals, and to strive for the achievement of his exalted life purpose. Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it._” (<a id="a46_437"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3))
 
 Apparently the apostle Philip was especially lacking in spirituality and needed some extra instruction. After the resurrected Jesus had told Philip that eventually he would be blessed with spiritual vision and do great work, he gave Philip this admonition:
 
-> “_In the meantime, become as a little child in the kingdom of the spirit and permit me, as the spirit of the new teacher, to lead you forward in the spiritual kingdom. And in this way will I be able to do much for you which I was not able to accomplish when I sojourned with you as a mortal of the realm._” ([UB 181:2.20](/en/The_Urantia_Book/181#p2_20))
+> “_In the meantime, become as a little child in the kingdom of the spirit and permit me, as the spirit of the new teacher, to lead you forward in the spiritual kingdom. And in this way will I be able to do much for you which I was not able to accomplish when I sojourned with you as a mortal of the realm._” (<a id="a50_310"></a>[UB 181:2.20](/en/The_Urantia_Book/181#p2_20))
 
 Philip's spiritual vision would come only after he received the Spirit of Truth.
 
-Since Pentecost, the bringing of the gift of spiritual vision has been a major function of the Spirit of Truth. But the book reminds us that the Spirit of Truth does not make us conscious of himself. Rather, he increases our consciousness of Jesus ([UB 194:2.4](/en/The_Urantia_Book/194#p2_4)). How can we enhance that consciousness?
+Since Pentecost, the bringing of the gift of spiritual vision has been a major function of the Spirit of Truth. But the book reminds us that the Spirit of Truth does not make us conscious of himself. Rather, he increases our consciousness of Jesus (<a id="a54_249"></a>[UB 194:2.4](/en/The_Urantia_Book/194#p2_4)). How can we enhance that consciousness?
 
 An insight into the answer to this question is provided by Charles M. Sheldon in a book entitled ‘In His Steps’ that has a place on the list of the top ten best selling books for all time.
 
@@ -62,8 +86,32 @@ Then I see Jesus as he is led away. “Oh, my God! Why did Jesus look at me like
 
 The book says:
 
-> “_It requires a great and noble character, having started out wrong, to turn about and go right. All too often one's own mind tends to justify continuance in the path of error when once it is entered upon._” ([UB 184:2.12](/en/The_Urantia_Book/184#p2_12))
+> “_It requires a great and noble character, having started out wrong, to turn about and go right. All too often one's own mind tends to justify continuance in the path of error when once it is entered upon._” (<a id="a88_211"></a>[UB 184:2.12](/en/The_Urantia_Book/184#p2_12))
 
 It is inconceivable that the Spirit of Truth would guide us to deliberately embrace unworthy means to attain a goal. Eve tried it and reaped both rebuke and genetic disaster for the rest of us. Because of that, our inherent potential for spiritual growth and spiritual vision is extremely limited.
 
 If we are to overcome our genetic deficiencies it seems that we have two things to do. We need to know the life of Jesus. We can get that from the book. At the same time we need to get in closer touch with the Spirit of Truth. Having realized these objectives, is there a better way to put them into effect than that recommended in Sheldon's book? That is to ask: “What would Jesus have done?” Then doing it.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/The_Australian_Conference_1993">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Australian Conference 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Myers/From_The_Great_Literacy_Debate">
+          <span class="pr-2">From The Great Literacy Debate</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

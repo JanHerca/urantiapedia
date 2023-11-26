@@ -3,12 +3,33 @@ title: "What Now?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Jesus, Jesus teachings, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jane_Wilson/Literacy_Crisis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Literacy Crisis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Ann Bendall, Nambour, Qld._
 
@@ -26,6 +47,27 @@ I base my belief on the following facts:-
 2) He never succeeded in swaying the populace away from the kingdom idea of their forebears.
 3) Michael was given a mandate to leave no writings.
 
-But when he was so “bold” (p. 1593) that the apostles felt he may be beside himself, he saw the effect of his incarnation on Urantia. The benefit to all of his creation. And perhaps he saw the days of social brotherhood of man on Urantia. The days of _The URANTIA Book_.
+But when he was so “bold” (<a id="a49_27"></a>[UB 141:7.8](/en/The_Urantia_Book/141#p7_8)) that the apostles felt he may be beside himself, he saw the effect of his incarnation on Urantia. The benefit to all of his creation. And perhaps he saw the days of social brotherhood of man on Urantia. The days of _The URANTIA Book_.
 
 Jesus was before his time and so his words, his life, perhaps had to await the time on URANTIA when people had learnt to appreciate that his way was the right way and the only way. I believe that Urantia has reached that stage as a consequence of which we are given Jesus' life on Urantia in all its, beauty, at a time when we can understand its meaning, should we so choose. I believe _The URANTIA Book_ was planned for us during the time of Jesus' life on Urantia, and that Uversa awaited the midwayers petition that the planet was now ready.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jane_Wilson/Literacy_Crisis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Literacy Crisis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

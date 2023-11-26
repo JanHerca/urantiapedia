@@ -3,12 +3,36 @@ title: "The Teaching Mission. “If Not Actual Personalities, Then What?”"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1993 Robert L. Blackstock<br>© 1993 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Question_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Question Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ron_Cyr/Spiritual_Vision">
+          <span class="pr-2">Spiritual Vision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Robert L. Blackstock, Concord, California, USA_
 
@@ -20,7 +44,7 @@ For us, with our material minds, spiritual experience and psychological experien
 
 ## I
 
-It is fairly well known that Jung postulates two areas of the unconscious, a personal unconscious and the collective unconscious. (His hypothesis or model of the collective unconscious has aspects in common with _The URANTIA Book_'s “_functional existence of the superconscious_” ([UB 100:1.9](/en/The_Urantia_Book/100#p1_9)) and the “cosmic mind”, in the sense expressed at [UB 111:1.2](/en/The_Urantia_Book/111#p1_2), “_Intellectual selves have their origin in the cosmic mind much as nebulae take origin in the cosmic energies of universe space._”) As implied by the term “collective unconscious”, one of its main characteristics is that it is common to us all, like the air we breathe; all of our minds are connected with or in this collective unconscious and thereby share common material.
+It is fairly well known that Jung postulates two areas of the unconscious, a personal unconscious and the collective unconscious. (His hypothesis or model of the collective unconscious has aspects in common with _The URANTIA Book_'s “_functional existence of the superconscious_” (<a id="a46_281"></a>[UB 100:1.9](/en/The_Urantia_Book/100#p1_9)) and the “cosmic mind”, in the sense expressed at <a id="a46_375"></a>[UB 111:1.2](/en/The_Urantia_Book/111#p1_2), “_Intellectual selves have their origin in the cosmic mind much as nebulae take origin in the cosmic energies of universe space._”) As implied by the term “collective unconscious”, one of its main characteristics is that it is common to us all, like the air we breathe; all of our minds are connected with or in this collective unconscious and thereby share common material.
 
 This idea of a common substratum underlying our individual consciousnesses is the key to understanding how something like “the Teaching Mission” can occur. As discussed below, the concept of a limited collective unconscious which is unique to the Urantia movement subculture can account for the otherwise perplexing phenomena of manifestations of similar or related material by channellers in different geographical locations.
 
@@ -56,10 +80,34 @@ I have heard arguments in support of the “Teaching Mission” to the effect th
 
 _The URANTIA Book_ mentions at UB 34:4.13 that:
 
-> “_The four points of the compass are universal and inherent in the life of Nebadon. All living creatures (including mankind on Urantia) possess bodily units which are sensitive and responsive to these directional currents._” [UB 34:4.13](/en/The_Urantia_Book/34#p4_13)
+> “_The four points of the compass are universal and inherent in the life of Nebadon. All living creatures (including mankind on Urantia) possess bodily units which are sensitive and responsive to these directional currents._” <a id="a82_227"></a>[UB 34:4.13](/en/The_Urantia_Book/34#p4_13)
 
 As we do not hesitate, when we are traveling unfamiliar roads, to get out the roadmap to supplement our inherent magnetic compass, we should likewise not fail to utilize the psychological viewpoint as a supplement to our personal inner experience.
 
 ## Conclusion
 
 The foregoing is an effort to address the question, “Channeling, if not actual personalities, then what?” It is difficult material and impossible to write anything very meaningful in such short space, and my intention was to refer the reader to Jung's essay mentioned above. This psychological viewpoint is not inconsistent with the teachings of _The URANTIA Book_. On the contrary, they have much in common and to a great extent are mutually confirming, and the study of each in light of the other proves very interesting. Such an approach can be a fascinating undertaking, and at the same time provide that necessary grounding, without which the material in _The URANTIA Book_ can be disruptive to the human psyche, in both the individual and the group.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Question_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Question Time</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-2-march-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 2 March 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ron_Cyr/Spiritual_Vision">
+          <span class="pr-2">Spiritual Vision</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

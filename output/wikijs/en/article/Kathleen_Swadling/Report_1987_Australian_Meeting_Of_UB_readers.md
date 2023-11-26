@@ -3,12 +3,36 @@ title: "Report On The 1987 Australian Meeting Of Urantia Book Readers"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Kathleen Swadling<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 6 Nov 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-6-nov-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 Nov 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emmanuel_Lou/Hsi_Wang_Mu_The_Queen_of_the_Western_Heaven">
+          <span class="pr-2">Hsi Wang Mu — The Queen of the Western Heaven</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I an happy to report that once again we had a most successful meeting of URANTIA Book readers. I am sure that I speak for all who attended when I say that the benefits gained by this experience were of a positive and high quality nature. This year's meeting was unique to any other annual meeting of readers due to the “live-in” situation, which allowed for a more relaxed and intimate atmosphere where new friendships could be made and develop.
 
@@ -49,3 +73,27 @@ After lunch all were busy with preparations to leave; cleaning up, packing, fina
 All in all the weekend was a marvellous success and a terrific “recharging” for our batteries, I thoroughly recommend to everyone this experience of these annual meetings as the social contact with other readers is so conducive to one's perspectives and inspirations. Next year's South Pacific meeting will be an unique experience as we unite with those readers so close to Australia and with others coming from around the world. It will surely give us a planetary perspective and expand our horizons as we contemplate the Brotherhood of Man under the Fatherhood of God.
 
 Kathleen Swadling, Sydney
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 6 Nov 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-6-nov-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 6 Nov 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emmanuel_Lou/Hsi_Wang_Mu_The_Queen_of_the_Western_Heaven">
+          <span class="pr-2">Hsi Wang Mu — The Queen of the Western Heaven</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

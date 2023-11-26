@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy, Ken Glasziou, Dr. P. Jensen<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-5-june-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 June 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/The_Remembrance_Supper">
+          <span class="pr-2">The Remembrance Supper</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -18,7 +39,7 @@ P.0.Box 606, Brighton, Victoria, AUSTRALIA, 3186.
 
 ## The Remembrance Supper
 
-> “Mind knows quantity, reality, meanings. But quality — values — is felt. That which feels is the mutual creation of mind, which knows, and the associated spirit, which reality-izes.” ([UB 111:3.6](/en/The_Urantia_Book/111#p3_6))
+> “Mind knows quantity, reality, meanings. But quality — values — is felt. That which feels is the mutual creation of mind, which knows, and the associated spirit, which reality-izes.” (<a id="a41_186"></a>[UB 111:3.6](/en/The_Urantia_Book/111#p3_6))
 
 This quotation from _the URANTIA Book_ came to my mind the morning after the Remembrance Supper, which the Melbourne Study Groups held on Sunday 6 th April. Jesus established the Remembrance Supper on the 6th April, 30 A.D.
 
@@ -42,13 +63,13 @@ Flat 2/ 2-6 Edlington St. Hawthorn, Tel. 8186970 Home, 2408021 Work.
 
 > “Organic evolution on the inhabited worlds is physically limited by the potentials of the original physical-life implantations of the Life Carriers.”
 > 
-> “Mortal man is a machine, a living mechanism; his roots are truly in the physical world of energy. Many human reactions are mechanical in nature; much of life is machinelike. But man, a mechanism, is much more than a machine; he is mind endowed and spirit indwelt; and though he can never throughout his material life escape the chemical and electrical mechanics of his existence, he can increasingly learn how to subordinate this physical-life machine to the directive wisdom of experience by the process of consecrating the human mind to the execution of the spiritual urges of the indwelling Thought Adjuster.” [UB 118:8.1-2](/en/The_Urantia_Book/118#p8_1)
+> “Mortal man is a machine, a living mechanism; his roots are truly in the physical world of energy. Many human reactions are mechanical in nature; much of life is machinelike. But man, a mechanism, is much more than a machine; he is mind endowed and spirit indwelt; and though he can never throughout his material life escape the chemical and electrical mechanics of his existence, he can increasingly learn how to subordinate this physical-life machine to the directive wisdom of experience by the process of consecrating the human mind to the execution of the spiritual urges of the indwelling Thought Adjuster.” <a id="a65_616"></a>[UB 118:8.1-2](/en/The_Urantia_Book/118#p8_1)
 
 ## Commentary on Scientific Statements in The Urantia Book, Part II
 
 **Planetary Atmospheres**
 
-_The Urantia Book_ ([UB 49:2.1](/en/The_Urantia_Book/49#p2_1)) discusses varying kinds of life which inhabit planets with atmospheres different from our own. Our type of life form is called “mid-breather”, and constitutes 91% of all life types in the universe. Those which inhabit planets with high density atmospheres are termed “superbreathers”, and those inhabiting planets with low density atmospheres are termed “sub-breathers”. _The Urantia Book_ then states that if there is life on Venus it would be of the superbreather class, whilst if life existed on Mars it would be the sub-breather class. We had no knowledge of the atmospheric densities of these two planets when _the Urantia Book_ was written.
+_The Urantia Book_ (<a id="a71_20"></a>[UB 49:2.1](/en/The_Urantia_Book/49#p2_1)) discusses varying kinds of life which inhabit planets with atmospheres different from our own. Our type of life form is called “mid-breather”, and constitutes 91% of all life types in the universe. Those which inhabit planets with high density atmospheres are termed “superbreathers”, and those inhabiting planets with low density atmospheres are termed “sub-breathers”. _The Urantia Book_ then states that if there is life on Venus it would be of the superbreather class, whilst if life existed on Mars it would be the sub-breather class. We had no knowledge of the atmospheric densities of these two planets when _the Urantia Book_ was written.
 
 The Mariner 5 probe to Venus in 1967 sent back data on the atmosphere and later probes gave data for Mars. These measurements showed that the atmospheric pressure at the surface of Venus is 90 times that of the Earth, thus high density, whilst that of Mars is 1/100th that of Earth, hence low density.
 
@@ -123,3 +144,25 @@ RELATIVITY OF TRUTH IN THE
 
 ...LEVEL of EXISTENCE!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-5-june-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 5 June 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/The_Remembrance_Supper">
+          <span class="pr-2">The Remembrance Supper</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

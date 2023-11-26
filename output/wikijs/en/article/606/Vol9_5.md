@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Madeline Noordzy, Robert Crickett, Martin Mc Burney, Rod McCourt, Dick Bain<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-5-sept-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 Sept 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="pr-2">Michael's Journey Around The Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -28,7 +49,7 @@ Bill or Ali MacLean on (03) 8013366
 
 ## “Thought For The Month” 
 
-> “Do not become discouraged by the discovery that you are human. Human nature may tend toward evil, but it is not inherently sinful. Be not downcast by your failure wholly to forget some of your regrettable experiences. The mistakes which you fail to forget in time will be forgotten in eternity. Lighten your burdens of soul by speedily acquiring a long-distance view of your destiny, a universe expansion of your career.” _The URANTIA Book_ [UB 156:5.8](/en/The_Urantia_Book/156#p5_8)
+> “Do not become discouraged by the discovery that you are human. Human nature may tend toward evil, but it is not inherently sinful. Be not downcast by your failure wholly to forget some of your regrettable experiences. The mistakes which you fail to forget in time will be forgotten in eternity. Lighten your burdens of soul by speedily acquiring a long-distance view of your destiny, a universe expansion of your career.” _The URANTIA Book_ <a id="a51_444"></a>[UB 156:5.8](/en/The_Urantia_Book/156#p5_8)
 
 ## Michael's Journey Around The Earth
 
@@ -112,7 +133,7 @@ Rod McCourt, Cockatoo, Vic.
 
 ## The Three Missing Planets
 
-On [UB 57:5.9](/en/The_Urantia_Book/57#p5_9) of _The URANTIA Book_, we are informed that five inner planets, Jupiter, Saturn, and five outer planets formed the material drawn out from our sun by the passing Angona system. This adds up to 12 planets, but we are only taught about nine in school. Where are the other three?
+On <a id="a135_3"></a>[UB 57:5.9](/en/The_Urantia_Book/57#p5_9) of _The URANTIA Book_, we are informed that five inner planets, Jupiter, Saturn, and five outer planets formed the material drawn out from our sun by the passing Angona system. This adds up to 12 planets, but we are only taught about nine in school. Where are the other three?
 
 One of the missing planets is easy to account for. On page 658 we read that the fifth planet from the sun was pulled apart when it passed too close to Jupiter. The debris from this planet forms the present astroid belt that lies between Mars and Jupiter. This leaves two planets unaccounted for.
 
@@ -253,3 +274,25 @@ Make of your own house a house of peace and all the world shall be peace about y
 
 From: 'In His Presence' by Eva Bell Werber
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-5-sept-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 5 Sept 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="pr-2">Michael's Journey Around The Earth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

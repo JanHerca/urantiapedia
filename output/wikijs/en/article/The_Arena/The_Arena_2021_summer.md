@@ -185,7 +185,7 @@ William Wentworth, Canberra ACT
 
 Recently, an article in Mighty Messenger, Spring 2021 attracted my attention. Written by Gary Tonge, an American reader, it was pointing out that the Lucifer Rebellion did not claim any of the ascendent personalities who were Jerusem citizens at the time. These numbered 187,432, 811.
 
-_It was over two years of system time from the beginning of the “war in heaven” until the installation of Lucifer’s successor. But at last the new Sovereign came, landing on the sea of glass with his staff. I was among the reserves mobilized on Edentia by Gabriel, and I well remember the first message of Lanaforge to the Constellation Father of Norlatiadek. It read: “Not a single Jerusem citizen was lost. Every ascendant mortal survived the fiery trial and emerged from the crucial test triumphant and altogether victorious.” And on to Salvington, Uversa, and Paradise went this message of assurance that the survival experience of mortal ascension is the greatest security against rebellion and the surest safeguard against sin. This noble Jerusem band of faithful mortals numbered just 187,432,811._ <a id="a188_808"></a>[[UB 53:7.12](/en/The_Urantia_Book/53#p7_12)]
+_It was over two years of system time from the beginning of the “war in heaven” until the installation of Lucifer’s successor. But at last the new Sovereign came, landing on the sea of glass with his staff. I was among the reserves mobilized on Edentia by Gabriel, and I well remember the first message of Lanaforge to the Constellation Father of Norlatiadek. It read: “Not a single Jerusem citizen was lost. Every ascendant mortal survived the fiery trial and emerged from the crucial test triumphant and altogether victorious.” And on to Salvington, Uversa, and Paradise went this message of assurance that the survival experience of mortal ascension is the greatest security against rebellion and the surest safeguard against sin. This noble Jerusem band of faithful mortals numbered just 187,432,811._ <a id="a187_806"></a>[[UB 53:7.12](/en/The_Urantia_Book/53#p7_12)]
 
 [Read more](/en/article/William_Wentworth/Where_Are_They_All)
 <br style="clear:both;"/>
@@ -205,7 +205,7 @@ Soul stirring indeed! A cosmology pervaded by meaning and value, eclipsing in it
 However, right after having thus stirred our souls, the authors pour cold water over our expectations.
 <br style="clear:both;"/>
 
-> _…within a few short years many of our statements regarding the physical sciences will stand in need of revision…_ <a id="a208_117"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
+> _…within a few short years many of our statements regarding the physical sciences will stand in need of revision…_ <a id="a207_117"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
 
 “Will stand in need of revision.” When compared with current consensus cosmology of a young universe beginning with a hot Big Bang, the cosmology of _The Urantia Book_ is so unorthodox, and so apparently wrong, that some students of these papers now see this cosmology as little more than decoration for the book’s more important themes: its _spiritual_ and _philosophical_ revelations. But take another look at the “Limitations of Revelation” discussed in Paper 101. Immediately after stating that they were limited in what scientific facts they could reveal, they go on to list a number of things they were permitted to do. The first of these is especially interesting.
 

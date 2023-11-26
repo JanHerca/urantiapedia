@@ -3,12 +3,36 @@ title: "Six-0-Six Newsletter — Volume 10 No. 1 — January 1989"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Unity, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol10_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 1 Jan 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-1-jan-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 Jan 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Trevor_Swadling/How_Many_Mortals_Survive">
+          <span class="pr-2">How Many Mortals Survive</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ### Introduction Talk
 
@@ -26,4 +50,28 @@ I see that those of us here representing Australia, New Zealand, Tahiti, Fiji, H
 
 I would like to close with this thought. It is a quote from _The URANTIA Book_ on UB 54:6.3:
 
-“Families, groups, nations, races, worlds, systems, constellations, and universes are relationships of association which possess individuality; and therefore does every member of any such group, large or small, reap the benefits and suffer the consequences of the right doing and the wrongdoing of all other members of the group concerned.” [UB 54:6.3](/en/The_Urantia_Book/54#p6_3)
+“Families, groups, nations, races, worlds, systems, constellations, and universes are relationships of association which possess individuality; and therefore does every member of any such group, large or small, reap the benefits and suffer the consequences of the right doing and the wrongdoing of all other members of the group concerned.” <a id="a52_341"></a>[UB 54:6.3](/en/The_Urantia_Book/54#p6_3)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol10_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 10 No 1 Jan 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-10-no-1-jan-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 10 No 1 Jan 1989 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Trevor_Swadling/How_Many_Mortals_Survive">
+          <span class="pr-2">How Many Mortals Survive</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "The Purpose Of The 5th Epochal Revelation"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Epochal Revelations, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 2 March 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-2-march-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 March 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="pr-2">Relief Associated With Being A Urantia Book Reader</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Is It The Recruitment of Genuine Apostles?
 
@@ -18,9 +42,9 @@ Perhaps the simplest conclusion is that it has been given to us in order that we
 
 To try to answer this question, let us take a look at URANTIA Paper 99, “The Social Problems of Religion”, written by a Melchizedek of Nebadon and addressed specifically to problems currently confronting our planet. In the past, religion did not have to adjust its attitude to extensive changes in economic and political systems; today the rapidity of changes in living conditions are such that institutional modifications must be greatly accelerated, and religion must quicken its adaptation to an ever-changing social order. We are told that this period of gross instability will endure for 1000 years; that the human race must become reconciled to a procession of changes, adjustments, and readjustments, and that mankind is on the march toward a new and unrevealed destiny.
 
-If we believe in the validity of the 5th Epochal Revelation, we have no option other to than to take these prophetic statements into account. Many of us may feel an urgency about getting on with changing and saving the world right now. But this prophecy is telling us that as fast as we remedy a world problem, new changes will be occurring that will require different adjustments and this situation will be with us for at least 1000 years. What is the role of religion to be? [Paragraph 2 of Section 1](/en/The_Urantia_Book/99#p1_2) states:
+If we believe in the validity of the 5th Epochal Revelation, we have no option other to than to take these prophetic statements into account. Many of us may feel an urgency about getting on with changing and saving the world right now. But this prophecy is telling us that as fast as we remedy a world problem, new changes will be occurring that will require different adjustments and this situation will be with us for at least 1000 years. What is the role of religion to be? <a id="a44_477"></a>[Paragraph 2 of Section 1](/en/The_Urantia_Book/99#p1_2) states:
 
-“Religion must become a forceful influence for moral stability and spiritual progression,” and in [paragraph 3](/en/The_Urantia_Book/99#p1_3), “The paramount mission of religion as a social influence is to stabilize the ideals of mankind during these dangerous times of transition from one phase of civilization to another, from one level of culture to another.” Paragraph 4 tells us there are no new religious duties to perform, that the role of religion is to be a wise guide and experienced counselor. But the leaders of our best religious institutions know all that, and there is certainly plenty of wisdom and experience to draw upon in the churches, seminaries, theological colleges, university departments of religion and so on. So why was the 5th Epochal Revelation necessary?
+“Religion must become a forceful influence for moral stability and spiritual progression,” and in <a id="a46_98"></a>[paragraph 3](/en/The_Urantia_Book/99#p1_3), “The paramount mission of religion as a social influence is to stabilize the ideals of mankind during these dangerous times of transition from one phase of civilization to another, from one level of culture to another.” Paragraph 4 tells us there are no new religious duties to perform, that the role of religion is to be a wise guide and experienced counselor. But the leaders of our best religious institutions know all that, and there is certainly plenty of wisdom and experience to draw upon in the churches, seminaries, theological colleges, university departments of religion and so on. So why was the 5th Epochal Revelation necessary?
 
 Perhaps Section 2 of the Paper supplies an answer to this question. We are told that institutional religion is unable to provide the necessary leadership and inspiration because it is in a catch 22 situation. It cannot reconstruct itself until society has been radically reconstructed. Section 2 then goes on to tell us that religionists must function in society, industry, and politics as individuals, not as groups or institutions.
 
@@ -39,3 +63,27 @@ Apostleship is a demanding but enormously spiritually rewarding undertaking. Man
 In conclusion we offer one final thought. There has been a considerable division of opinion about how the teachings of _The URANTIA Book_ should be spread to the general community. Just as the answer to the problem of what our role should be in our daily lives is to be found in the Book, so the answer to that question of how the teachings are to be spread is also in the Book. It was given to us by a Divine Counselor acting by the authority of the Ancient of Days on Uversa and appears in the third paragraph of p. 43 of _The URANTIA Book_. There is only one work on this planet that can fit the description given there of “enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness,” and that is _The URANTIA Book_ itself. Just as Paper 99 addressed the current problems of this age, so too this direction is for right now and is to farsighted men and women of spiritual insight and with the necessary skills and abilities, using _The URANTIA Book_ as source material, to conduct those secondary works that will permit the teachings of the Book to penetrate to all segments of all societies and thus “attract all that is good in the mind of man and challenge that which is best in the human soul.” Who would dare argue with such authority?
 
 Sunshine Coast Study Group, QLD.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 2 March 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-2-march-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 2 March 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="pr-2">Relief Associated With Being A Urantia Book Reader</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

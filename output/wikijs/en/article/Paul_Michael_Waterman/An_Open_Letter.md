@@ -3,12 +3,36 @@ title: "An Open Letter To The Community Of Urantia Book Readers"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Paul Michael Waterman<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Is_God_a_He_or_a_She">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is God a He or a She</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Vol12_2part2">
+          <span class="pr-2">Vol 12 No 2 Part 2 Mar 1991</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 August 1990
 
@@ -26,7 +50,7 @@ In 1981, my wife and I discovered that we had conceived a child. Initially, we h
 
 The contact with the angels was so beautiful, so gracious, that we were intent upon pursuing it, if only to remain in communication with such delightful society. What ensued was a growing document that portrayed for us how the celestials so near us take intimate concern for our lives and are dedicated beyond human understanding to helping us through the maze of mortal experiences.
 
-In the spring of 1982, events took another surprising turn. What had developed as personal guidance and healing advice for troubled friends changed suddenly as the angels, who had come to be like old friends, asked us to consider taking a message from the Melchizedek Brotherhood to an individual who was then a memberat-large in the URANTIA Brotherhood. Up until that time, our experience had been personal, cultivated privately and shared cautiously with only a few close friends. For reasons outlined within the pages of the book itself, and which you all can appreciate, one would approach communication with the orders of being who sponsored _The URANTIA Book_ with some reserve. Nevertheless, the contact persisted and on March 24, 1982, an important message was received in the presence of a long-standing member of the Brotherhood. It is my understanding that copies of this message were later circulated, against my advice at the time. It is not my intention to reproduce the whole text within the body of this letter but to relate to you in context the essentials which remain germane to date.
+In the spring of 1982, events took another surprising turn. What had developed as personal guidance and healing advice for troubled friends changed suddenly as the angels, who had come to be like old friends, asked us to consider taking a message from the Melchizedek Brotherhood to an individual who was then a member-at-large in the URANTIA Brotherhood. Up until that time, our experience had been personal, cultivated privately and shared cautiously with only a few close friends. For reasons outlined within the pages of the book itself, and which you all can appreciate, one would approach communication with the orders of being who sponsored _The URANTIA Book_ with some reserve. Nevertheless, the contact persisted and on March 24, 1982, an important message was received in the presence of a long-standing member of the Brotherhood. It is my understanding that copies of this message were later circulated, against my advice at the time. It is not my intention to reproduce the whole text within the body of this letter but to relate to you in context the essentials which remain germane to date.
 
 The Melchizedek identified himself as one of the revelatory commission who remains charged with the responsibility of administering the revelation to this world. We were told that the subject of his dissertation was the URANTIA Foundation and the changes needed within it that it might function more fully in the service of the planet and the service of Christ Michael. He noted 1985 as a significant anniversary in the revelation's history and intimated that changes would begin to accelerate at that time. The changes required within the Foundation centred around its mindset. Individuals drawn to the revelation initially were selected from a mind and personality pattern that would act as good and faithful conservators of the text. Half a century later, this same mindset has become not an advantage, but rather an obstacle to the further dissemination of the revelation to the planet, not because changes are called for to the text, but rather that the same attitude that would preserve the document also has restrained freedom of expression of the Spirit in response to the revelation. The hand of God, having written, moves on to the greater, as should we all.
 
@@ -91,3 +115,27 @@ I give thanks that beings such as these have evolved on worlds such as this, tha
 ... And so say I, remaining Yours in the service of the Prince of Peace,
 
 **Paul Michael Waterman, Toronto, Ontario, Canada**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Is_God_a_He_or_a_She">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Is God a He or a She</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Vol12_2part2">
+          <span class="pr-2">Vol 12 No 2 Part 2 Mar 1991</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

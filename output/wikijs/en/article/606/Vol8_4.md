@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Kathleen Swadling, William Wentworth, Emmanuel Lou, Madeline Noordzy<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-4-july-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 July 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity">
+          <span class="pr-2">Lao Shou Hsing, God of Longevity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -47,7 +68,7 @@ Later on in the afternoon we approached the following subjects:
 
 ## “Thought For The Month” 
 
-> “The consciousness of a victorious human life on earth is born of that creature faith which dares to challenge each recurring episode of existence when confronted with the awful spectacle of human limitations, by the unfailing declaration: Even if I cannot do this, there lives in me one who can and will do it, a part of the Father-Absolute of the universe of universes. And that is ”the victory which overcomes the world, even your faith."<br>(_The URANTIA Book_ [UB 4:4.9](/en/The_Urantia_Book/4#p4_9))
+> “The consciousness of a victorious human life on earth is born of that creature faith which dares to challenge each recurring episode of existence when confronted with the awful spectacle of human limitations, by the unfailing declaration: Even if I cannot do this, there lives in me one who can and will do it, a part of the Father-Absolute of the universe of universes. And that is ”the victory which overcomes the world, even your faith."<br>(_The URANTIA Book_ <a id="a70_467"></a>[UB 4:4.9](/en/The_Urantia_Book/4#p4_9))
 
 ## From Library Placement Committee
 
@@ -107,7 +128,7 @@ If you can't be present personally, join us in spirit. For details on venue and 
 
 ## Lao Shou Hsing, God of Longevity
 
-> “And Chinese tradition preserves the hazy record of the evolutionary past....” ([UB 79:8.15](/en/The_Urantia_Book/79#p8_15))
+> “And Chinese tradition preserves the hazy record of the evolutionary past....” (<a id="a130_82"></a>[UB 79:8.15](/en/The_Urantia_Book/79#p8_15))
 
 One of the gods of Chinese tradition is the god of longevity. The Chinese people have an ardent desire for longevity whose divinity SHOU LAO or SHOU HSING resides in the star Canopus in the constellation Argo.
 
@@ -157,13 +178,13 @@ At the Melbourne Conference last year, Australian URANTIA Book readers decided t
 
 ## On Our Journey Inward
 
-_The URANTIA Book_ of ten speaks about our universe career as an ascent or upward climb, but adds as a clarification that in reality it is a journey inward. ([UB 32:3.11](/en/The_Urantia_Book/32#p3_11))
+_The URANTIA Book_ of ten speaks about our universe career as an ascent or upward climb, but adds as a clarification that in reality it is a journey inward. (<a id="a180_158"></a>[UB 32:3.11](/en/The_Urantia_Book/32#p3_11))
 
 As I stood pondering about this one day while washing the dishes, which is a good time for such reflections, I could see several meanings of this inward movement.
 
-The first one is the long, long road to Paradise, the very centre and the master pattern of all universal material reality, the personal residence of the Universal Father. Geographically seen, that certainly is a journey inward and something to really look forward to. However Paradise is a long way into the future and as a Mighty Messenger points out on [UB 32:3.6](/en/The_Urantia_Book/32#p3_6) of _The URANTIA Book_: “The farther down the scale of life we go, the more difficult it becomes to locate, with the eye of faith, the invisible Father.” To compensate for their limited concept of Him, the Father has established a sevenfold approach to Deity for His evolutionary creatures.
+The first one is the long, long road to Paradise, the very centre and the master pattern of all universal material reality, the personal residence of the Universal Father. Geographically seen, that certainly is a journey inward and something to really look forward to. However Paradise is a long way into the future and as a Mighty Messenger points out on <a id="a184_356"></a>[UB 32:3.6](/en/The_Urantia_Book/32#p3_6) of _The URANTIA Book_: “The farther down the scale of life we go, the more difficult it becomes to locate, with the eye of faith, the invisible Father.” To compensate for their limited concept of Him, the Father has established a sevenfold approach to Deity for His evolutionary creatures.
 
-The Creator Son is the first step in our sevenfold approach to the Universal Father. Jesus said to Thomas at the farewell discourse: “I am the way, the truth, and the life. No man goes to the Father except through me. All who find the Father, first find me. If you know me, you know the way to the Father.” ([UB 180:3.7](/en/The_Urantia_Book/180#p3_7))
+The Creator Son is the first step in our sevenfold approach to the Universal Father. Jesus said to Thomas at the farewell discourse: “I am the way, the truth, and the life. No man goes to the Father except through me. All who find the Father, first find me. If you know me, you know the way to the Father.” (<a id="a186_308"></a>[UB 180:3.7](/en/The_Urantia_Book/180#p3_7))
 
 [Read more](/en/article/Madeline_Noordzy/On_Our_Journey_Inward)
 
@@ -262,4 +283,25 @@ Christopher had rang me that morning and asked for two books. I had been unable 
 
 <figure id="Figure_9" class="image urantiapedia" alt="giving">
 <img src="/image/article/606/giving.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-4-july-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 4 July 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity">
+          <span class="pr-2">Lao Shou Hsing, God of Longevity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

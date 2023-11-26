@@ -3,12 +3,36 @@ title: "Warburton Conference 1990"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Movement Event, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Martin Mc Burney<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 6 Nov 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="pr-2">The Right And Left Brain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 An Australian meeting of URANTIA Book readers was held on Melbourne Cup weekend, Saturday November 3 to Tuesday November 6 . We journeyed to Warburton East, about 80 ~km east of Melbourne, at the foot of the Great Dividing Range.
 
@@ -22,7 +46,7 @@ We opened with Saturday lunch together, followed by a reporting session where th
 
 For the conference theme of “Living as we are meant to live”, we used the focus offered in _The URANTIA Book_ on UB 46:5.29
 
-> “The activities of such a world are of three distinct varieties: work, progress, and play. Stated otherwise, they are: service, study, and relaxation. The composite activities consist of social intercourse, group entertainment, and divine worship.” [UB 46:5.29](/en/The_Urantia_Book/46#p5_29)
+> “The activities of such a world are of three distinct varieties: work, progress, and play. Stated otherwise, they are: service, study, and relaxation. The composite activities consist of social intercourse, group entertainment, and divine worship.” <a id="a48_251"></a>[UB 46:5.29](/en/The_Urantia_Book/46#p5_29)
 
 For “work/service”, there was a forum discussion on URANTIA Book distribution in Australia. Of the many issues, consensus emerged on two points (both of which require agreement from URANTIA Foundation):
 
@@ -54,3 +78,27 @@ Ian Esmore prepared and chaired an open forum discussion on world government, ti
 _Editors note:_
 
 _Many people have asked me to again pass on their heartelt gratitude to Martin for the splendid way in which he organised the conference._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 6 Nov 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-6-nov-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 6 Nov 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="pr-2">The Right And Left Brain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

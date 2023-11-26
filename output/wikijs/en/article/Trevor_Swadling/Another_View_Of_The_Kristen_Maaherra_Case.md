@@ -3,12 +3,36 @@ title: "Another View Of The Kristen Maaherra Case"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Urantia Foundation, Urantia Foundation—Copyright, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Trevor Swadling<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Consistency_In_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consistency In The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="pr-2">Morality Is A Law Unto Itself</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Trevor Swadling, Sydney_
 
@@ -45,3 +69,27 @@ My closing comments on this issue are that if those who are plotting the downfal
 > Only The Guy Who Isn't Rowing Has Time To Rock The Boat.
 > 
 > Saunders
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Consistency_In_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Consistency In The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-6-nov-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 6 Nov 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="pr-2">Morality Is A Law Unto Itself</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

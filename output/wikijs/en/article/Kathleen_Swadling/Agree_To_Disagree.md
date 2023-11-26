@@ -3,12 +3,36 @@ title: "Listening"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Blue_Corn/Listening">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Listening</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-3-may-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 3 May 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Martin_Greenhut/All_Of_It">
+          <span class="pr-2">All Of It</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 To get away from all the personal tit-for-tat that has been going on lately I would like to start by being a bit more philosophical about the role Six-O-Six has played in the past for readers of _The URANTIA Book_. It started up as a valuable tool to keep students of _The URANTIA Book_ in touch with one another. People who find _The URANTIA Book_ have a tendency to crave for the company of other readers as there are so many changes they go through and so much for them to understand as they study the book. As many readers are spread out over this vast country, the newsletter has played a vital role in keeping readers in touch with one another, sharing ideas and points of view and announcements of study group and conference activities etc. It was a newsletter which was set up for readers of _The URANTIA Book_. Now many of those readers have come from incredibly diverse backgrounds. Many have been searching for years for something which satisfies their spiritual yearnings. Many have found that satisfaction through _The URANTIA Book_ — others are still seeking and _The URANTIA Book_ is one of many wonderful works they have stumbled upon. Whatever the current status of each reader, Six-OSix has been a newsletter which services _The URANTIA Book_ component of people's spiritual quest. The form it was in satisfied all. Anyone wishing to investigate _The URANTIA Book_ found Six-O-Six an assistant to their investigation. However by changing the direction of the newsletter you are catering for anyone and everyone on a spiritual quest of some kind. I have no problem with a newsletter which services this need but I do not feel it is relevant that Six-O-Six becomes a newsletter to service this need without first consulting the entire readership which is made up of people who have been contributing and supporting financially and morally since it first began. The personal attacks which have resulted from this scenario is indicative that a change was imposed rather than discussed.
 
@@ -28,3 +52,27 @@ Whatever happens I do not think we should be too worried about differing points 
 Let's not kid ourselves that we're spiritually advanced yet. It doesn't mean we stop loving one another. Some of my most cherished friends and I are often at loggerheads with one another over differing points of view. I may be at loggerheads with Madeline over the newsletter issue but it does not mean that I love her any less than before. So why don't we agree to disagree and get on with serving in the areas we feel drawn toward and let's stop accusing each other publicly of being spiritually retarded.
 
 **Kathleen Swadling, Sydney**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Kathleen_Blue_Corn/Listening">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Listening</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-3-may-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 3 May 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Martin_Greenhut/All_Of_It">
+          <span class="pr-2">All Of It</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

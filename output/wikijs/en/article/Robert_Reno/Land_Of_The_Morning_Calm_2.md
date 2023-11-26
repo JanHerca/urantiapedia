@@ -3,12 +3,33 @@ title: "Six-0-Six Newsletter — Volume 8 No. 2 — March 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Dissemination, Korea, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1987 Robert Reno<br>© 1987 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 3 May 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-3-may-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 3 May 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Robert Reno
 
@@ -118,3 +139,24 @@ I have great hopes for the future unfolding of the revelation here in South Kore
 > Tagore (great Indian poet)
 
 People who like to respond to this article can write to: Robert Reno, 620 s. 12th Street, Boulder, Co. 80302, USA.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol8_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 8 No 3 May 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-8-no-3-may-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 8 No 3 May 1987 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

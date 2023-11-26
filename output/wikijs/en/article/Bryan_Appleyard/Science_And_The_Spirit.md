@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Bryan Appleyard<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religious Publishing Bears Fruit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-4-july-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 July 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Spreading_The_Message_2">
+          <span class="pr-2">Spreading The Message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Bryan Appleyard,_
 _Author Of ‘Understanding The Present: Science And the Soul of Modern Man’ (Picador, 1992)_
@@ -112,3 +136,27 @@ The answer is not easily understood because it needs to be realised. It certainl
 The answer lies in finding a belief in all of what we are, or perhaps in simply admitting what we are. Nothing about our lived experience ever corresponded to Newton's laws of motion, and nothing in Hawking's equations will ever resemble what our natures demand of the mind of God.
 
 Our experience and history are more real than either. We know this to be true, but science has done terrible damage to our faith. It is time to start making repairs.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religious Publishing Bears Fruit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-4-july-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 4 July 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Spreading_The_Message_2">
+          <span class="pr-2">Spreading The Message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

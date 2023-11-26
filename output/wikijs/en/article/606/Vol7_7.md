@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy, Neil Francey, Henry Begemann, Ken Glasziou<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-7-sept-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 Sept 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/The_Tapestry_Or_Loving_Service">
+          <span class="pr-2">The Tapestry Or Loving Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
 <img src="/image/article/606/606_Banner.jpg">
@@ -114,7 +135,7 @@ Ian Esmore, Melbourne.
 
 ## The Thought for the Month
 
-> The religion of Jesus transcends all our former concepts of the idea of worship in that he not only portrays his Father as the ideal of infinite reality but positively declares that this divine source of values and eternal center of the universe is truly and personally attainable by every mortal creature who chooses to enter the kingdom of heaven on earth, there by acknowledging the acceptance of sonship with God and brotherhood with man. That, I submit, is the highest concept of religion the world has ever known, and I pronounce that there can never be a higher since this gospel embraces the infinity of realities, the divinity of values, and the eternity of universal attainments. ([UB 160:5.7](/en/The_Urantia_Book/160#p5_7))
+> The religion of Jesus transcends all our former concepts of the idea of worship in that he not only portrays his Father as the ideal of infinite reality but positively declares that this divine source of values and eternal center of the universe is truly and personally attainable by every mortal creature who chooses to enter the kingdom of heaven on earth, there by acknowledging the acceptance of sonship with God and brotherhood with man. That, I submit, is the highest concept of religion the world has ever known, and I pronounce that there can never be a higher since this gospel embraces the infinity of realities, the divinity of values, and the eternity of universal attainments. (<a id="a137_693"></a>[UB 160:5.7](/en/The_Urantia_Book/160#p5_7))
 
 ## Springtime
 
@@ -122,7 +143,7 @@ A study of the Future
 
 Now ‘prophesies’ are appearing among believers in _The URANTIA Book_, it may be opportune and helpful to study more deeply what our book says about the relatively near future.
 
-The most significant things Jesus said about it are to be found in section 2 of paper 176 . On [UB 176:2.3](/en/The_Urantia_Book/176#p2_3) he said: “The things which you now look down upon are coming to an end, but this will be a new be ginning out of which the gospel of the kingdom will go to all the world and this salvation will spread to all peoples. And when the kingdom shall have come to its full fruition, be assured that the Father in heaven will not fail to visit you with an _enlarged revelation of truth_ ...”
+The most significant things Jesus said about it are to be found in section 2 of paper 176 . On <a id="a145_95"></a>[UB 176:2.3](/en/The_Urantia_Book/176#p2_3) he said: “The things which you now look down upon are coming to an end, but this will be a new be ginning out of which the gospel of the kingdom will go to all the world and this salvation will spread to all peoples. And when the kingdom shall have come to its full fruition, be assured that the Father in heaven will not fail to visit you with an _enlarged revelation of truth_ ...”
 
 This ‘enlarged revelation of truth’ has already appeared, The URANTIA PAPERS. The Master makes it clear that he indeed means our book, because he continues: “... even as he has already bestowed upon this world him, who became the prince of darkness (Caligastia, first epochal revelation), and then Adam (second epochal revelation), who was followed by Melchizedek (third revelation of epochal significance), and in these days, the Son of Man (fourth epochal revelation).”
 
@@ -250,3 +271,25 @@ LAKE MURRAY, OKLAHOMA
 Six miles south of Ardmore, OK
 OCTOBER 24,25 , and 26 1986
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-7-sept-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 7 Sept 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Madeline_Noordzy/The_Tapestry_Or_Loving_Service">
+          <span class="pr-2">The Tapestry Or Loving Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

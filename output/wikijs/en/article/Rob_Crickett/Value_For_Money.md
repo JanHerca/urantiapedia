@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/Doing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doing God's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-3-may-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 3 May 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Don_Lee/The_Remarkable_Amenhotep_IV">
+          <span class="pr-2">The Remarkable Amenhotep IV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 When you buy something you pay for it. You exchange your measure of worth for someone else's measure of worth. You make your living by generating something of worth to others. The product you generate has its value set by the worth you give to it; you alone give it its value.
@@ -34,3 +58,27 @@ Who do you give it to? Your own value system will let you know that. It's more t
 The natural law of spirit is that what is given is received back in increased measure; a single acorn when planted returns a hundred acorns. As you increasingly agree with the will of God you will find that your self worth is vitally important to others. Likewise the value of your product is equally important to others. The coin in your pocket is entirely a secondary matter, it is only a token gesture of your actual worth. So, it is good and natural to give to God — to consciously return to spirit that which is from spirit in the conscious recognition that you are returning that which is of spirit ... value. Such practice is the direct expression of love ... outgoing and incoming.
 
 Robert Crickett, Melbourne
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/William_Wentworth/Doing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doing God's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-3-may-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 3 May 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Don_Lee/The_Remarkable_Amenhotep_IV">
+          <span class="pr-2">The Remarkable Amenhotep IV</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

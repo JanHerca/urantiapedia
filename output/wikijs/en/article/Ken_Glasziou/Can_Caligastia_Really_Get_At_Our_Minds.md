@@ -9,12 +9,33 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Women's Corps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-1-jan-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 Jan 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Ken Glasziou, Maleny, Queensland_
 
-Firstly, let me state unequivocally that I don't know. Until recently my reaction to this question has been, “No, not likely”. After all, _The URANTIA Book_ tells us that since the cross of Christ, Caligastia has been comparatively impotent ([UB 53:8.9](/en/The_Urantia_Book/53#p8_9)). Besides that we are assured of survival providing we do not deliberately and knowingly reject it, and even then we have to agree to our own annihilation. Then we have another statement that says:
+Firstly, let me state unequivocally that I don't know. Until recently my reaction to this question has been, “No, not likely”. After all, _The URANTIA Book_ tells us that since the cross of Christ, Caligastia has been comparatively impotent (<a id="a35_242"></a>[UB 53:8.9](/en/The_Urantia_Book/53#p8_9)). Besides that we are assured of survival providing we do not deliberately and knowingly reject it, and even then we have to agree to our own annihilation. Then we have another statement that says:
 
-> “_The only means of communion with the spiritual world is embraced in the spirit endowment of mankind, the indwelling Spirit of the Father, together with the outpoured spirit of the Son and the omnipresent influence of the Infinite Spirit._” ([UB 150:3.7](/en/The_Urantia_Book/150#p3_7))
+> “_The only means of communion with the spiritual world is embraced in the spirit endowment of mankind, the indwelling Spirit of the Father, together with the outpoured spirit of the Son and the omnipresent influence of the Infinite Spirit._” (<a id="a37_245"></a>[UB 150:3.7](/en/The_Urantia_Book/150#p3_7))
 
 That word ‘only’ is tremendously important. It implies that if Caligastia, who presumably is a spirit, wants to get at us, it must be indirectly through our indwelling Spirit endowment — in reality, our first line of defence against him.
 
@@ -26,13 +47,13 @@ Ernest Moyer in his Urantia Newsletter No.2, stressed the possibility that many 
 
 If we face the facts, the Urantia movement is a dismal failure. Could Ernest be right — does Caligastia have the movement by the throat, and if so, how did it happen? I do not know of any readers who would knowingly invite Caligastia into their lives, not even some whose actions (in my view), have been enormously disruptive and harmful. So how could it have happened? That question took me back to the section in _The URANTIA Book_ on how Caligastia managed to get at Eve.
 
-There, we are reminded that neither Caligastia or Dalagastia had any power to influence an individual against his will ([UB 75:2.1](/en/The_Urantia_Book/75#p2_1)). All their direct attempts to beguile Adam, Eve, or their children, failed. So Caligastia concluded that his only hope of success was in the adroit employment of suitable persons belonging to the upper strata of the Nodite group. How could he do it? He was visible to and could communicate directly with Adam and Eve — but not to these Nodites. The two Nodites who brought about Eve's downfall were Serapatatia and Cano. The first is described as deeply impressed with the righteousness of Adam's cause, entirely honest and thoroughly sincere in all of his activities and “_never conscious, even later on, that he was being used as a circumstantial tool of the wily Caligastia_”. ([UB 75:3.3](/en/The_Urantia_Book/75#p3_3))
+There, we are reminded that neither Caligastia or Dalagastia had any power to influence an individual against his will (<a id="a49_120"></a>[UB 75:2.1](/en/The_Urantia_Book/75#p2_1)). All their direct attempts to beguile Adam, Eve, or their children, failed. So Caligastia concluded that his only hope of success was in the adroit employment of suitable persons belonging to the upper strata of the Nodite group. How could he do it? He was visible to and could communicate directly with Adam and Eve — but not to these Nodites. The two Nodites who brought about Eve's downfall were Serapatatia and Cano. The first is described as deeply impressed with the righteousness of Adam's cause, entirely honest and thoroughly sincere in all of his activities and “_never conscious, even later on, that he was being used as a circumstantial tool of the wily Caligastia_”. (<a id="a49_844"></a>[UB 75:3.3](/en/The_Urantia_Book/75#p3_3))
 
 Cano was the other Nodite involved with Eve. He is described as of brilliant mind, sympathetic with the Adamic regime, the sincere spiritual leader of the Nodites who favoured friendly relations with the Garden. Neither look to be ready-made agents for Caligastia.
 
 The rot set in when:
 
-> “...one day, during a talk with Eve, it occurred to Serapatatia that it would be very helpful if, while awaiting the recruiting of large numbers of the violet race, something could be done in the meantime immediately to advance the needy waiting tribes”.([UB 75:3.5](/en/The_Urantia_Book/75#p3_5))
+> “...one day, during a talk with Eve, it occurred to Serapatatia that it would be very helpful if, while awaiting the recruiting of large numbers of the violet race, something could be done in the meantime immediately to advance the needy waiting tribes”.(<a id="a55_257"></a>[UB 75:3.5](/en/The_Urantia_Book/75#p3_5))
 
 A hybrid leader of Nodite and violet stock was proposed as the solution. Cano, the Nodite, and Eve, of the violet race, got themselves nominated as parents.
 
@@ -44,9 +65,9 @@ Among we mortals, leaders are usually drawn from one of two groups. One group co
 
 Is it possible that a longing to be important, a longing for recognition among our peers, to be a teacher or a leader, or to be someone special (in reality ego-tripping no matter how we disguise our motives from ourselves), can be enough to open our minds to Caligastia?
 
-The deep-seated craving to be somehow outstanding — is this not Lucifer's disease of self-exaltation ([UB 67:1.2](/en/The_Urantia_Book/67#p1_2)) that may subsequently lead to unbridled self-will, unregulated self-expression, and unmitigated selfishness ([UB 54:1.5](/en/The_Urantia_Book/54#p1_5))? How often have we seen this disease run its full course in political leaders? Did such ego-tripping aspirations in Serapatatia and Cano result in them unconsciously opening up their minds to manipulation by Caligastia? No other conclusion is obvious from the written evidence in _The URANTIA Book_. If so, selfish pride may be the only key required for us to become vulnerable to the wiles of Caligastia. The book has a warning for us. It says:
+The deep-seated craving to be somehow outstanding — is this not Lucifer's disease of self-exaltation (<a id="a67_102"></a>[UB 67:1.2](/en/The_Urantia_Book/67#p1_2)) that may subsequently lead to unbridled self-will, unregulated self-expression, and unmitigated selfishness (<a id="a67_254"></a>[UB 54:1.5](/en/The_Urantia_Book/54#p1_5))? How often have we seen this disease run its full course in political leaders? Did such ego-tripping aspirations in Serapatatia and Cano result in them unconsciously opening up their minds to manipulation by Caligastia? No other conclusion is obvious from the written evidence in _The URANTIA Book_. If so, selfish pride may be the only key required for us to become vulnerable to the wiles of Caligastia. The book has a warning for us. It says:
 
-> “_Of all the dangers which beset man's mortal nature and jeopardize his spiritual integrity, pride is the greatest._” ([UB 111:6.9](/en/The_Urantia_Book/111#p6_9))
+> “_Of all the dangers which beset man's mortal nature and jeopardize his spiritual integrity, pride is the greatest._” (<a id="a69_121"></a>[UB 111:6.9](/en/The_Urantia_Book/111#p6_9))
 
 Could there be a point where our self-will becomes so dominant that our Thought Adjuster can no longer influence us and we then become open to the wiles of Caligastia? It is entirely conceivable that such could be the case without us having the slightest awareness of what had happened.
 
@@ -62,8 +83,29 @@ We need to have a serious re-think about how it might be possible for us to fall
 
 In _The URANTIA Book_ we have a detailed account of the life and teachings of Jesus to light the pathway for us. We are told that Jesus was a revelation of God. We are told that when Ganid tempted Jesus to put himself forward as teacher and leader, he responded:
 
-> “_I am now on the way to Rome with you and your father, and that is sufficient for today. My tomorrow is wholly in the hands of my Father in heaven._” [UB 130:5.3](/en/The_Urantia_Book/130#p5_3)
+> “_I am now on the way to Rome with you and your father, and that is sufficient for today. My tomorrow is wholly in the hands of my Father in heaven._” <a id="a85_153"></a>[UB 130:5.3](/en/The_Urantia_Book/130#p5_3)
 
 Jesus was never in a hurry. He always had time to comfort men “as he passed by.” He was a charming listener. He comforted hungry minds and ministered to thirsty souls. Surely such a personal, loving, unselfish service is the real task that we have each been given by the Fifth Epochal Revelation. When Christianity swept through the Roman Empire, one of the major catalysts became enshrined in this remark from an unknown observer, “See how those Christians love one another.”
 
-Can the same be said of the Urantia movement? I think not. How many have pondered upon the depth of meaning for themselves of those strange words in the beatitudes that are so contrary to the natural aspirations of humans to be prominent: “Happy are the poor is spirit — the humble — for theirs are the treasures of the kingdom of heaven. Happy are the meek, for they shall inherit the earth. Happy are the peacemakers, for they shall be called the sons of God.” Considered in this light, how many URANTIA Book readers truly believe that they qualify? The secret of Jesus' unparalleled religious life was his consciousness of the presence of God — not some esoteric, out-of-this-world spirit entity. Jesus attained this consciousness by intelligent prayer and sincere worship — unbroken communion with God — and not by leadings, voices, visions, or extraordinary religious practices ([UB 196:0.10](/en/The_Urantia_Book/196#p0_10)). His advice to us today might well be that recorded in the bible — “Go thou and do likewise.”
+Can the same be said of the Urantia movement? I think not. How many have pondered upon the depth of meaning for themselves of those strange words in the beatitudes that are so contrary to the natural aspirations of humans to be prominent: “Happy are the poor is spirit — the humble — for theirs are the treasures of the kingdom of heaven. Happy are the meek, for they shall inherit the earth. Happy are the peacemakers, for they shall be called the sons of God.” Considered in this light, how many URANTIA Book readers truly believe that they qualify? The secret of Jesus' unparalleled religious life was his consciousness of the presence of God — not some esoteric, out-of-this-world spirit entity. Jesus attained this consciousness by intelligent prayer and sincere worship — unbroken communion with God — and not by leadings, voices, visions, or extraordinary religious practices (<a id="a89_884"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10)). His advice to us today might well be that recorded in the bible — “Go thou and do likewise.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Women's Corps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-1-jan-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 Jan 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

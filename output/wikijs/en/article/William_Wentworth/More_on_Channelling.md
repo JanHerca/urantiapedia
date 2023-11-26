@@ -3,12 +3,36 @@ title: "More on Channelling"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1993 William Wentworth<br>© 1993 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol14_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 1 Jan 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-1-jan-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 Jan 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Allan_Lane/Variety_The_Dice_Of_Life">
+          <span class="pr-2">Variety — The Dice Of Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _William Wentworth, Towamba, NSW_
 
@@ -23,3 +47,27 @@ If ‘channellers’, or others involved in abnormal methods of communication ha
 The second point I wish to make is that, considered in its entirety, _The URANTIA Book_ really constitutes a warning against indulgence in the paranormal, the strange or the unusual. The thrust of the book is a complete de-emphasis of the strange and unusual, and an affirmation that most of the truth in us, and of us, is derived from ordinary humdrum existence. The book makes the point in dozens of different ways, that God's will is done primarily in everyday life, in a universe of rational order, largely devoid of peculiar psychic manifestations. Both the growth of the Supreme and the growth of the individual ascender depend on commonplace daily life, glorified by the way in which that daily life is lived. The knowledge of God and the desire to do his will inspires the individual to live the ordinary in such a way as to make it extraordinary. The humdrum is thus elevated to the sublime, and this is what is so astonishing and exhilarating about life.
 
 Preoccupation with the dramatic aspects of the unusual and exceptional can be stimulating and exciting, but it is not the message of _The URANTIA Book_. I support the editor of Six-O-Six in his comments, and urge students of _The URANTIA Book_ to ignore those glamorous distractions which only serve to undermine its fundamental message to humanity.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol14_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 14 No 1 Jan 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-14-no-1-jan-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 14 No 1 Jan 1993 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Allan_Lane/Variety_The_Dice_Of_Life">
+          <span class="pr-2">Variety — The Dice Of Life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

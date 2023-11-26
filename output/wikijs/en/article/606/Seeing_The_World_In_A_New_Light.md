@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Concerning_Inner_Guidance_A_Cosmic_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concerning Inner Guidance — A Cosmic Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Ascension">
+          <span class="pr-2">Ascension</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **From: TRIANGLES Bulletin 88, June 1989**
 
@@ -37,3 +61,27 @@ Our normal vision is but a narrow window on a vast and awesome universe, a unive
 _This article reminded me of the ‘camera of past events’ that Baird T. Spalding was talking about in Volume V of “The Life and Teachings of the Masters of the Far East” in which he describes how they actually took pictures of The Sermon on the Mount and saw the little boy with the five loaves and fishes and how Jesus just said: “Sit down and prepare for the feast”, and there was an abundance for all._
 
 _Editor_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Concerning_Inner_Guidance_A_Cosmic_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Concerning Inner Guidance — A Cosmic Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Ascension">
+          <span class="pr-2">Ascension</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

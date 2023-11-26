@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Seeing The World In A New Light</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kirsten_McFadden/Every_Now_Zen">
+          <span class="pr-2">Every Now & Zen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Repersonalisation, Ascension, Fusion, Rematerialisation, Reconstruction, The Light Body and the Morontia Body are All Part of the Same Process.**
 
@@ -18,41 +42,41 @@ Keeping in mind _The URANTIA Book_ states that it is an incomplete and partial r
 
 Or further still, why doesn't it state that if you pursue a really in-depth study of this Revelation to the point of understanding the Thought Adjuster, the Spirit of Truth, the Holy Spirit and Her Adjutant Mind Spirits, the Seven Psychic Circles, etc., that it is possible to arrive at a **WORKABLE** understanding of how you may become conscious of ‘other lives’ which may or may not become other facets of your personality. It is possible not only to become conscious of other personalities within the mind system you are involved with, it is possible for certain evolutionary humans, through their own spirituality, to raise the frequency of their physical bodies (in varying degrees) to the point where they can dematerialize enough to allow those of a higher dimension to come in and share the vessel and **APPEAR** — **MANIFEST** — **DEMONSTRATE** to those who have begun to develop **SPIRITUAL VISION**. It is vital to understand spiritual vision which is the ability to SEE in multiple dimensions. Jesus repeatedly referred to SPIRITUAL VISION and it is often mentioned in _The URANTIA Book_:
 
-> “_On a material world you think of a body as having a spirit, but we regard the spirit as having a body. The material eyes are truly the windows of the spirit-born soul._” ([UB 42:12.12](/en/The_Urantia_Book/42#p12_12))
+> “_On a material world you think of a body as having a spirit, but we regard the spirit as having a body. The material eyes are truly the windows of the spirit-born soul._” (<a id="a44_175"></a>[UB 42:12.12](/en/The_Urantia_Book/42#p12_12))
 
-> “_The lamp of the body is the eye; if, therefore, your eye is generous, your whole body will be full of light. But if your eye is selfish, the whole body will be filled with darkness._” ([UB 140:6.12](/en/The_Urantia_Book/140#p6_12))
+> “_The lamp of the body is the eye; if, therefore, your eye is generous, your whole body will be full of light. But if your eye is selfish, the whole body will be filled with darkness._” (<a id="a46_189"></a>[UB 140:6.12](/en/The_Urantia_Book/140#p6_12))
 
-> “_The material manifestations of divinity appear defective to the evolutionary mind of man only because mortal man persists in viewing the phenomena of nature through natural eyes, human vision unaided by morontia mota or by revelation, its compensatory substitute on the worlds of time._” ([UB 4:2.7](/en/The_Urantia_Book/4#p2_7))
+> “_The material manifestations of divinity appear defective to the evolutionary mind of man only because mortal man persists in viewing the phenomena of nature through natural eyes, human vision unaided by morontia mota or by revelation, its compensatory substitute on the worlds of time._” (<a id="a48_293"></a>[UB 4:2.7](/en/The_Urantia_Book/4#p2_7))
 
-> “_But it is not necessary to see God with the eyes of the flesh in order to discern him by the faith-vision of the spiritualized mind._” ([UB 1:3.3](/en/The_Urantia_Book/1#p3_3))
+> “_But it is not necessary to see God with the eyes of the flesh in order to discern him by the faith-vision of the spiritualized mind._” (<a id="a50_140"></a>[UB 1:3.3](/en/The_Urantia_Book/1#p3_3))
 
-> “_With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit._” ([UB 142:6.5](/en/The_Urantia_Book/142#p6_5))
+> “_With the eyes of the flesh you can behold the manifestations of the spirit, but you cannot actually discern the spirit._” (<a id="a52_127"></a>[UB 142:6.5](/en/The_Urantia_Book/142#p6_5))
 
-> “_If you so fully conform to the Adjuster's mind that you see eye to eye, then your minds become one, and you receive the reinforcement of the Adjuster's mind._” ([UB 110:2.5](/en/The_Urantia_Book/110#p2_5))
+> “_If you so fully conform to the Adjuster's mind that you see eye to eye, then your minds become one, and you receive the reinforcement of the Adjuster's mind._” (<a id="a54_165"></a>[UB 110:2.5](/en/The_Urantia_Book/110#p2_5))
 
-> “_... the Adjuster is increasingly enabled to register his picturizations of destiny with augmenting vividness and conviction upon the evolving consciousness of this God-seeking mind-soul._” ([UB 110:6.5](/en/The_Urantia_Book/110#p6_5))
+> “_... the Adjuster is increasingly enabled to register his picturizations of destiny with augmenting vividness and conviction upon the evolving consciousness of this God-seeking mind-soul._” (<a id="a56_194"></a>[UB 110:6.5](/en/The_Urantia_Book/110#p6_5))
 
-> “_The eye of the material mind perceives a world of factual knowledge; the eye of the spiritualized intellect discerns a world of true values. These two views, synchronized and harmonized, reveal the world of reality, wherein wisdom interprets the phenomena of the universe in terms of progressive personal experience._” ([UB 130:4.10](/en/The_Urantia_Book/130#p4_10))
+> “_The eye of the material mind perceives a world of factual knowledge; the eye of the spiritualized intellect discerns a world of true values. These two views, synchronized and harmonized, reveal the world of reality, wherein wisdom interprets the phenomena of the universe in terms of progressive personal experience._” (<a id="a58_324"></a>[UB 130:4.10](/en/The_Urantia_Book/130#p4_10))
 
-> “_These realities are actually there, notwithstanding that the Adjuster is seldom able to exalt these duplicate creations sufficiently to exhibit them to the light of consciousness._” ([UB 108:6.5](/en/The_Urantia_Book/108#p6_5))
+> “_These realities are actually there, notwithstanding that the Adjuster is seldom able to exalt these duplicate creations sufficiently to exhibit them to the light of consciousness._” (<a id="a60_187"></a>[UB 108:6.5](/en/The_Urantia_Book/108#p6_5))
 
-> “_And how they do enjoy communicating with their subjects in more or less direct channels! How they rejoice when they can dispense with symbols and other methods of indirection and flash their messages straight to the intellects of their human partners!_” ([UB 108:6.7](/en/The_Urantia_Book/108#p6_7))
+> “_And how they do enjoy communicating with their subjects in more or less direct channels! How they rejoice when they can dispense with symbols and other methods of indirection and flash their messages straight to the intellects of their human partners!_” (<a id="a62_259"></a>[UB 108:6.7](/en/The_Urantia_Book/108#p6_7))
 
-> “_They gave him the bread to bless, and as he began to break and hand to them, their eyes were opened ..._” ([UB 190:5.5](/en/The_Urantia_Book/190#p5_5))
+> “_They gave him the bread to bless, and as he began to break and hand to them, their eyes were opened ..._” (<a id="a64_111"></a>[UB 190:5.5](/en/The_Urantia_Book/190#p5_5))
 
-> “_On one occasion he intimated that, whereas the eye of flesh had beheld him when he lived here in the flesh, on his return (at least on one of his possible visits) he would be discerned only by the eye of spiritual faith._” ([UB 176:4.3](/en/The_Urantia_Book/176#p4_3))
+> “_On one occasion he intimated that, whereas the eye of flesh had beheld him when he lived here in the flesh, on his return (at least on one of his possible visits) he would be discerned only by the eye of spiritual faith._” (<a id="a66_228"></a>[UB 176:4.3](/en/The_Urantia_Book/176#p4_3))
 
-> “_The eye of flesh beholds the Son of Man in the flesh, but only the eye of the spirit will behold the Son of Man glorified by the Father and appearing on earth in his own name._” ([UB 176:2.4](/en/The_Urantia_Book/176#p2_4))
+> “_The eye of flesh beholds the Son of Man in the flesh, but only the eye of the spirit will behold the Son of Man glorified by the Father and appearing on earth in his own name._” (<a id="a68_183"></a>[UB 176:2.4](/en/The_Urantia_Book/176#p2_4))
 
-> “_I pray that you may discern the meaning of my teaching with the eyes of the spirit._” ([UB 181:2.14](/en/The_Urantia_Book/181#p2_14))
+> “_I pray that you may discern the meaning of my teaching with the eyes of the spirit._” (<a id="a70_91"></a>[UB 181:2.14](/en/The_Urantia_Book/181#p2_14))
 
-> “_And then, when you are blessed with spiritual vision, go forth to your work, dedicating your life to the cause of leading mankind to search for God and to seek eternal realities with the eye of spiritual faith and not with the eyes of the material mind._” ([UB 181:2.20](/en/The_Urantia_Book/181#p2_20))
+> “_And then, when you are blessed with spiritual vision, go forth to your work, dedicating your life to the cause of leading mankind to search for God and to seek eternal realities with the eye of spiritual faith and not with the eyes of the material mind._” (<a id="a72_261"></a>[UB 181:2.20](/en/The_Urantia_Book/181#p2_20))
 
-(Other relative quotations from _The URANTIA Book_: [UB 29:4.11](/en/The_Urantia_Book/29#p4_11), [UB 76:2.8](/en/The_Urantia_Book/76#p2_8), [UB 132:7.3](/en/The_Urantia_Book/132#p7_3), [UB 142:7.3](/en/The_Urantia_Book/142#p7_3), [UB 167:7.4](/en/The_Urantia_Book/167#p7_4), [UB 181:2.12](/en/The_Urantia_Book/181#p2_12), [UB 189:4.11](/en/The_Urantia_Book/189#p4_11), [UB 191:3.3](/en/The_Urantia_Book/191#p3_3), etc.)
+(Other relative quotations from _The URANTIA Book_: <a id="a74_52"></a>[UB 29:4.11](/en/The_Urantia_Book/29#p4_11), <a id="a74_97"></a>[UB 76:2.8](/en/The_Urantia_Book/76#p2_8), <a id="a74_140"></a>[UB 132:7.3](/en/The_Urantia_Book/132#p7_3), <a id="a74_185"></a>[UB 142:7.3](/en/The_Urantia_Book/142#p7_3), <a id="a74_230"></a>[UB 167:7.4](/en/The_Urantia_Book/167#p7_4), <a id="a74_275"></a>[UB 181:2.12](/en/The_Urantia_Book/181#p2_12), <a id="a74_322"></a>[UB 189:4.11](/en/The_Urantia_Book/189#p4_11), <a id="a74_369"></a>[UB 191:3.3](/en/The_Urantia_Book/191#p3_3), etc.)
 
-> “_If you so fully conform to the Thought Adjuster's mind that you see eye to eye, then your minds become one, and you receive the reinforcement of the Adjuster's mind_” ([UB 110:2.5](/en/The_Urantia_Book/110#p2_5))
+> “_If you so fully conform to the Thought Adjuster's mind that you see eye to eye, then your minds become one, and you receive the reinforcement of the Adjuster's mind_” (<a id="a76_172"></a>[UB 110:2.5](/en/The_Urantia_Book/110#p2_5))
 
-This also applies to the physical depending on the ‘mission/assignment’ of the individual and their level of spiritual attainment. For example, when Lao-tze wishes to use this vehicle I am presently incarnated in (using), I raise the frequency of this vessel to the point of mutual compatibility and Lao-tze may visibly manifest through my *LIGHT BODY* which is the same as the **MORONTIA BODY**. When this occurs, Lao-tze and I become ONE as I am enjoying the reinforcement of Lao-tze's **MIND**, **LIGHT BODY AND PERSONALITY**. He is repersonalising through me. I am the material complement of a spirit personality (Lao-tze and others) entrusted with the enactment of some cosmic achievement essential to the spiritual economy of the planet. (See [2. SELF-ACTING ADJUSTERS](/en/The_Urantia_Book/109#p2_7))
+This also applies to the physical depending on the ‘mission/assignment’ of the individual and their level of spiritual attainment. For example, when Lao-tze wishes to use this vehicle I am presently incarnated in (using), I raise the frequency of this vessel to the point of mutual compatibility and Lao-tze may visibly manifest through my *LIGHT BODY* which is the same as the **MORONTIA BODY**. When this occurs, Lao-tze and I become ONE as I am enjoying the reinforcement of Lao-tze's **MIND**, **LIGHT BODY AND PERSONALITY**. He is repersonalising through me. I am the material complement of a spirit personality (Lao-tze and others) entrusted with the enactment of some cosmic achievement essential to the spiritual economy of the planet. (See <a id="a78_749"></a>[2. SELF-ACTING ADJUSTERS](/en/The_Urantia_Book/109#p2_7))
 
 One deep thinking person, Carol Davidson of Suitland, Maryland, USA, wrote an interesting perspective in her article “A Reincarnation Explanation” reprinted from THE CIRCLES, Winter 1990 in the last Six-O-Six when she speaks of the “mind intellect systems”. This is PART of the explanation but as previously mentioned there are many things one must be aware of to obtain a full understanding of this so-called “reincarnation” phenomenon including PERSONAL SPIRITUAL EXPERIENCE. One such thing which must be understood, and of course accepted, is the reality of the LIGHT BODY — THE MORONTIA BODY.
 
@@ -80,7 +104,7 @@ THE DIFFERENCE BETWEEN A ‘CHANNEL’ OF MERELY COMMUNICATIONS AND TEACHING AND
 
 So you have these examples to guide you as to WHO is WHO and as to what is what in discerning and determining what areas are being opened in the latter days as you go into a fourth, from a third, dimensional frequency form. **DEMONSTRATION** is the key. MANIFESTATION OF THE PROMISES OF SPIRIT is the key. This MUST be your equalizing and set example by which you determine **WHO** is bringing forth the light information and uplifting this planet and the transforming of these latter days. I ask you then to re-examine the works and to taste of the fruits. By their fruits then you will know WHO are the Christed Beings — those working through and **IN THE CHRISTED FORM** ... **THE LIGHT BODY**. The Repersonalised Ascenders of this planet and of this entire system and beyond who have **returned** and who are **returning** — REPERSONALISING — in these latter days to Urantia **through channels** are to perform and to show and to give concrete examples unto mankind. Those who are ready and who have passed those steps or initiations will comprehend this — what it is to have an Repersonalised Ascender overshadow and RE-DESCEND into the earth plane matter. A REPERSONALISED ASCENDER, THEREFORE, USES THE BODY OF A DISCIPLE OR A **MATERIAL COMPLEMENT (HUMAN AGENT) WHO IS CONNECTED WITH HIS VARIOUS FUNCTIONS AND PURPOSES**. HOWEVER, A REPERSONALISED ASCENDER CAN INDEPENDENTLY APPEAR UPON THE EARTH. WHEN THE LIGHT BODY IS DEMONSTRATING, YOU WILL SEE THESE SO CALLED PHENOMENON ON THE EARTH PLANE. As this is done the LIGHT BODY then so completely overshadows the physical form that it **ABSORBS THE PHYSICAL FORM AND THE PHYSICAL FORM AND THE LIGHT BODY BECOME ONE**. In this process it is possible to become one with a Repersonalised Ascender who has functioned with/through you and you may, therefore, become a FACET of each others personality.
 
-> “_That he will open the eyes of the spiritually blind and bring the prisoners of despair out into full liberty and light; that all who sit in darkness shall see the great light of eternal salvation._” ([UB 190:5.4](/en/The_Urantia_Book/190#p5_4))
+> “_That he will open the eyes of the spiritually blind and bring the prisoners of despair out into full liberty and light; that all who sit in darkness shall see the great light of eternal salvation._” (<a id="a106_204"></a>[UB 190:5.4](/en/The_Urantia_Book/190#p5_4))
 
 With LOVE and BLESSINGS,
 
@@ -91,3 +115,27 @@ Planetary Center of Light, New Mexico, USA.
 _A cassette on which Sananda more fully explains the Light Body is available from the Glen Waverley Study Group library._
 
 _Editor_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Seeing The World In A New Light</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-12-no-2-mar-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 12 No 2 Mar 1991 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Kirsten_McFadden/Every_Now_Zen">
+          <span class="pr-2">Every Now & Zen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

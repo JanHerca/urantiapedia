@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentary On Scientific Statements In The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-4-may-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 May 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There probably is an English proverb that means the equivalent of: ‘An ounce of experience is better than a pound of theory’, or shall we stay metric and say a gram is better than a kilo?
 
@@ -30,13 +51,13 @@ Or the time you sat in the police station when they had got themselves into a sp
 
 And I also thought of the ‘would-be’ hobbyist, who keeps on going to courses, buys magazines regularly and has spent a fortune on tools, but he doesn't produce anything. He just reads and listens and admires or criticizes other people's work. And that way he can avoid having to face the real problems of the unavoidable mishaps, which are a natural part of the learning process.
 
-It is the same in religion. “Evolutionary man does not naturally relish hard work. To keep pace in his life experience with the impelling demands and the compelling urges of a growing religious experience means incessant activity in spiritual growth, intellectual expansion, factual enlargement, and social service. There is no real religion apart from a highly active personality. Therefore do the more indolent of men often keep to escape the rigors of truly religious activities by a species of ingerious self-deception through resorting to a retreat to the false shelter of stereotyped religious doctrines and dogmas. But true religion is alive. Intellectual crystallization of religious concepts is the equivalent of spiritual death. You cannot conceive of religion without ideas, but when religion once becomes reduced only to lan idea, it is no longer religion; it has become merely a species of human philosophy.” ([UB 102:2.7](/en/The_Urantia_Book/102#p2_7)) “True religion must act”. ([UB 102:2.8](/en/The_Urantia_Book/102#p2_8))
+It is the same in religion. “Evolutionary man does not naturally relish hard work. To keep pace in his life experience with the impelling demands and the compelling urges of a growing religious experience means incessant activity in spiritual growth, intellectual expansion, factual enlargement, and social service. There is no real religion apart from a highly active personality. Therefore do the more indolent of men often keep to escape the rigors of truly religious activities by a species of ingerious self-deception through resorting to a retreat to the false shelter of stereotyped religious doctrines and dogmas. But true religion is alive. Intellectual crystallization of religious concepts is the equivalent of spiritual death. You cannot conceive of religion without ideas, but when religion once becomes reduced only to lan idea, it is no longer religion; it has become merely a species of human philosophy.” (<a id="a53_923"></a>[UB 102:2.7](/en/The_Urantia_Book/102#p2_7)) “True religion must act”. (<a id="a53_995"></a>[UB 102:2.8](/en/The_Urantia_Book/102#p2_8))
 
-Although experience is indeed invaluable in our lives, no amount of experience can give us universe insight unless we have some way of evaluating it in order to recognize the meaning and feel the value of it. “There is a spirit nucleus in the mind of man — the Adjuster of the divine presence”. ([UB 196:3.6](/en/The_Urantia_Book/196#p3_6)) “... this evaluator is the child of the Center and Source of all absolute values of divine and eternal reality” ([UB 196:3.16](/en/The_Urantia_Book/196#p3_16)). It just depends on us how much we want to go along with this “spirit-value sorter”. He leaves the choosing to us. And as we come to accept more and more this divine leading, we have the greatest experience in human existence: God. When we find God, we have found everything. The only limitation to this experience of receiving the love of the Father is the extent of our love for our fellow men.
+Although experience is indeed invaluable in our lives, no amount of experience can give us universe insight unless we have some way of evaluating it in order to recognize the meaning and feel the value of it. “There is a spirit nucleus in the mind of man — the Adjuster of the divine presence”. (<a id="a55_296"></a>[UB 196:3.6](/en/The_Urantia_Book/196#p3_6)) “... this evaluator is the child of the Center and Source of all absolute values of divine and eternal reality” (<a id="a55_454"></a>[UB 196:3.16](/en/The_Urantia_Book/196#p3_16)). It just depends on us how much we want to go along with this “spirit-value sorter”. He leaves the choosing to us. And as we come to accept more and more this divine leading, we have the greatest experience in human existence: God. When we find God, we have found everything. The only limitation to this experience of receiving the love of the Father is the extent of our love for our fellow men.
 
-> “Man can never take the love of the Father and imprison it within his heart. The Father's love can become real to mortal man only by passing through that man's personality as he in turn bestows this love upon his fellows”. ([UB 117:6.10](/en/The_Urantia_Book/117#p6_10))
+> “Man can never take the love of the Father and imprison it within his heart. The Father's love can become real to mortal man only by passing through that man's personality as he in turn bestows this love upon his fellows”. (<a id="a57_226"></a>[UB 117:6.10](/en/The_Urantia_Book/117#p6_10))
 
-> “And when a human being does find God, there is experienced within the soul of that being such an indescribable restlessness of triumph in discovery that he is impelled to seek loving service-contact with his less illuminated fellows, not to disclose that he has found God, but rather to allow the overflow of the welling-up of eternal goodness within his ow soul to refresh and ennoble his fellows. Real religion leads to increased social service”. ([UB 102:3.4](/en/The_Urantia_Book/102#p3_4))
+> “And when a human being does find God, there is experienced within the soul of that being such an indescribable restlessness of triumph in discovery that he is impelled to seek loving service-contact with his less illuminated fellows, not to disclose that he has found God, but rather to allow the overflow of the welling-up of eternal goodness within his ow soul to refresh and ennoble his fellows. Real religion leads to increased social service”. (<a id="a59_453"></a>[UB 102:3.4](/en/The_Urantia_Book/102#p3_4))
 
 Unless the water whel gives freely of the water it has received so abundantly, it cannot keep on turning to receive more.
 
@@ -46,6 +67,27 @@ What happens to these experiences, once we have recognized their meaning and fel
 
 Once this transaction between the human and the divine mind takes place, something new is born. Something that has sometimes been denominated the mid mind, since it is neither material nor cosmic mind.
 
-“This mid-mind is really a morontia phenomenon since it exists in the realm between the material and the spiritual. The potential of such a morontia evolution is inherent in the two universal urges of mind: the impulse of the finite mind of the creature to know God and attain the divinity of the Creator, and the impulse of the infinite mind of the Creator to know man and attain the experience of the creature”. ([UB 111:2.8](/en/The_Urantia_Book/111#p2_8)) This new child of the interaction between the divine and the human mind is the evolving and potentially immortal soul of man. “In so far as man's evolving morontia soul becomes permeated by truth, beauty, and goodness as the value-realization of God-consciousness, such a resultant being becomes indestructable. If there is no survival of eternal values in the evolving soul of man, then mortal existence is without meaning, and life itself is a tragic illusion. But it is forever true: What you begin in time you will assuredly finish in eternity — if it is worth finishing”. ([UB 111:3.7](/en/The_Urantia_Book/111#p3_7))
+“This mid-mind is really a morontia phenomenon since it exists in the realm between the material and the spiritual. The potential of such a morontia evolution is inherent in the two universal urges of mind: the impulse of the finite mind of the creature to know God and attain the divinity of the Creator, and the impulse of the infinite mind of the Creator to know man and attain the experience of the creature”. (<a id="a69_415"></a>[UB 111:2.8](/en/The_Urantia_Book/111#p2_8)) This new child of the interaction between the divine and the human mind is the evolving and potentially immortal soul of man. “In so far as man's evolving morontia soul becomes permeated by truth, beauty, and goodness as the value-realization of God-consciousness, such a resultant being becomes indestructable. If there is no survival of eternal values in the evolving soul of man, then mortal existence is without meaning, and life itself is a tragic illusion. But it is forever true: What you begin in time you will assuredly finish in eternity — if it is worth finishing”. (<a id="a69_1038"></a>[UB 111:3.7](/en/The_Urantia_Book/111#p3_7))
 
 Madeline Noordzy, Melbourne
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commentary On Scientific Statements In The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-7-no-4-may-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 7 No 4 May 1986 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,36 @@ title: "A URANTIA Book Fundamentalist?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: The Urantia Book, Urantia Movement, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Kathleen Swadling<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 5 Sept 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-5-sept-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 5 Sept 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christopher_Billington/Reflections_on_Mota_Language_and_Humour">
+          <span class="pr-2">Reflections on Mota, Language and Humour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I would like to make some comments on the article written in the July/August issue of 6-0-6 by Madeline Noordzy in relation to Elijah the Third. First up I'd like to say that I have not heard the tapes but the material enclosed on them in 6-0-6 was enough to make me have no intention of listening to them. This then immediately dumps me into the category of those people Madeline mentioned in her article when she said: “It has been interesting to observe that other readers in Australia had pre-conceived ideas about the tapes as soon as they knew what the subject was and chose to condemn them as ”utter rubbish“ before even listening to them.” And then: “So often I have in the past witnessed the frustration of URANTIA Book readers with the attitude of fundamentalists of certain Christian denominations, who, because the Bible says that nothing is to be added, close their minds to the light of new truths. I certainly don't want to turn into a URANTIA Book fundamentalist.”
 
@@ -39,3 +63,27 @@ So Label me a URANTIA Book Fundamentalist if you will. I can't see how any other
 
 **Kathleen Swadling**
 **Sydney**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 5 Sept 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-5-sept-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 5 Sept 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Christopher_Billington/Reflections_on_Mota_Language_and_Humour">
+          <span class="pr-2">Reflections on Mota, Language and Humour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

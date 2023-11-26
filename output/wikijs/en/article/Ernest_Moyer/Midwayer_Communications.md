@@ -3,16 +3,40 @@ title: "Midwayer Communications"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Ernest Moyer<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Channeling_And_Mental_Disorder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Channeling And Mental Disorder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-3-may-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 May 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Spreading_The_Message">
+          <span class="pr-2">Spreading The Message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Excerpts from “ A Report on Channeling in the Urantia Community” by Ernest Moyer_
 
-> “_But it should be made clear that the midway creatures are not involved in the sordid performances taking place under the general designation of ‘spiritualism’_”. ([UB 77:8.13](/en/The_Urantia_Book/77#p8_13))
+> “_But it should be made clear that the midway creatures are not involved in the sordid performances taking place under the general designation of ‘spiritualism’_”. (<a id="a38_167"></a>[UB 77:8.13](/en/The_Urantia_Book/77#p8_13))
 
 There it is! A concrete and specific statement about spiritualism, about mediumship, and about channeling. Midway creatures are not involved in such sordid performances. They do not invade the sanctity of the human mind; they do not offer spirit communications; they do not mislead poor misguided human mortals; they do not desecrate the dignity of human personality. They do not provide channelings, or any other form of mediumship falling under the general designation of Spiritualism.
 
@@ -30,7 +54,7 @@ Here it is evident that he distinguishes that “manuscript which was authorized
 
 >“_I can testify that the URANTIA Papers were not the product of automatic writing or any other technique of psychic legerdemain known to me._” (p.13)
 
-Here Sadler is explicit that _The URANTIA Book_ did not come through automatic writing or automatic speaking. After listing all the automatic methods by which _The URANTIA Book_ did not come, he states explicitly that the reception of the Book had no parallels with any of the phenomena of marginal consciousness. Nor did the technique of reception impinge upon any of the phenomena of marginal concsciousness. This eliminates the sleeping subject as the source of _The URANTIA Book_.
+Here Sadler is explicit that _The URANTIA Book_ did not come through automatic writing or automatic speaking. After listing all the automatic methods by which _The URANTIA Book_ did not come, he states explicitly that the reception of the Book had no parallels with any of the phenomena of marginal consciousness. Nor did the technique of reception impinge upon any of the phenomena of marginal consciousness. This eliminates the sleeping subject as the source of _The URANTIA Book_.
 
 But there are other factors to midwayer communications and activities which have served to confuse the general readership and more serious students of _The URANTIA Book_.
 
@@ -45,4 +69,28 @@ From a review of passages from _The URANTIA Book_, we can reach a deeper appreci
 <figure id="Figure_2" class="image urantiapedia" alt="cartoon">
 <img src="/image/article/606/cartoon9.jpg">
 <figcaption>An then, for a two million-year-old gibbon named Gus.</figcaption>
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Channeling_And_Mental_Disorder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Channeling And Mental Disorder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-3-may-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 3 May 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/606/Spreading_The_Message">
+          <span class="pr-2">Spreading The Message</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

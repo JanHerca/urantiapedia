@@ -3,12 +3,36 @@ title: "In The Real World, Inequality Is Only Natural"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Sociology, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Ronald Conway<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Is_Copyright_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Is Copyright Really Necessary?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="pr-2">A Statistical Investigation Of Writing Styles In The Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _by Ronald Conway, Melbourne_
 
@@ -26,7 +50,7 @@ We are certainly not “created equal” but to a wide variety of inherited and 
 
 The late B.F. Skinner, doyen of American behavioural psychologists, even went so far as to dismiss the whole idea that we are socially free as a romantic political delusion.
 
-With the classless society, all conventional inequalities could be erased. Even the Catholic church then contributed its portion by spreading the now familiar catchcry of “social justice”, which was ironically often at variance with its own authoritarian ecclesiastical structure.
+With the classless society, all conventional inequalities could be erased. Even the Catholic church then contributed its portion by spreading the now familiar catchery of “social justice”, which was ironically often at variance with its own authoritarian ecclesiastical structure.
 
 Strangely corresponding with the recent collapse of socialism has come an increasing body of research evidence in psychology and biology that nature — via natural selection and genetics — is usually more important in the human development than the shaping factors of later environment.
 
@@ -57,4 +81,28 @@ The most that modern “democracy” can hope to bring about is to provide decen
 
 It is also dangerous cant because out of it the bloodiest revolutions of our century have been hatched. It is not essential to human happiness that we all enjoy the same status and possessions as our neighbours, but to use what we have wisely and well.
 
-> “_While a good environment cannot contribute much toward realty overcoming the character handicaps. of a base heredity, a bad environment can very effectively spoil an excellent inheritance, at least during the younger years of life._” ([UB 76:2.6](/en/The_Urantia_Book/76#p2_6))
+> “_While a good environment cannot contribute much toward realty overcoming the character handicaps. of a base heredity, a bad environment can very effectively spoil an excellent inheritance, at least during the younger years of life._” (<a id="a83_239"></a>[UB 76:2.6](/en/The_Urantia_Book/76#p2_6))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ann_Bendall/Is_Copyright_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Is Copyright Really Necessary?”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-2-100th-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 2 100th Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="pr-2">A Statistical Investigation Of Writing Styles In The Urantia Papers</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -3,12 +3,33 @@ title: "The Adventures Of Jesus Of Nazareth"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Jesus, Jesus life, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Message_is_Spreading">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Message is Spreading</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-5-sept-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 Sept 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _[In the previous issue of Six-O-Six, it was announced that our editorial panel is attempting to put together a work having the aim of bringing the teachings of Jesus, as revealed in _The URANTIA Book_, to non-readers. Contributions were solicited, perhaps a chapter, but even a plot to go along with your favorite teaching could be a help. The story should be “fictional” but the teachings are expected to have a firm foundation in the book itself._
 
@@ -62,4 +83,25 @@ During this discussion which lasted well into the night, Sardri had noted that J
 
 <figure id="Figure_3" class="image urantiapedia" alt="boat">
 <img src="/image/article/606/boat.jpg">
+</figure>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ken_Glasziou/The_Message_is_Spreading">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Message is Spreading</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-13-no-5-sept-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 13 No 5 Sept 1992 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </figure>

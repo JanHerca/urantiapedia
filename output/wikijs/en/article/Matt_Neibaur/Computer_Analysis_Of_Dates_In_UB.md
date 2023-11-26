@@ -3,12 +3,33 @@ title: "Computer Analysis Of Dates In The Urantia Book"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Jesus life, Chronology, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1988 Matt Neibaur<br>© 1988 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/Baptism_Of_The_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Baptism Of The Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-4-july-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 July 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In 1572 a former professor of law from Bologna named Ugo Buoncompagni became Pope Gregory XIII; ten years later the Gregorian calendar was introduced. The Julian calendar, founded sixteen centuries earlier by Julius Caesar, was inaccurate and the need for reform was widely recognized. Its principal failure was the discrepancy between the mean length of its year, 365.25 days, and the tropical year, then averaging 365.24232 days. This is nearly eleven minutes and four seconds shorter than the Julian year. This small discrepancy had continued to accumulate until it was no longer a matter of minutes but days. By the time of the Gregorian reform, this error had grown to eleven days. Understandably, this was of concern to the Pope; if the calendar had continued unchanged, Easter would eventually have been celebrated in the summer.
 
@@ -34,3 +55,24 @@ There are more dates in _The URANTIA Book_. Perhaps other readers would like to 
 If anyone is interested in such a project, they can contact me at the address below. The program was originally written in Microsoft Basic. Later, program enhancements were made and it was rewritten in Hypertalk to run on a Macintosh computer. A “talking” demonstration and presentation of this paper was given at the Scientific Symposium in May at Nashville. For further information contact:
 
 Matt Neibaur, 211 North Roscoe, Ponte Verda Beach, FL, 32082, USA
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Rob_Crickett/Baptism_Of_The_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Baptism Of The Spirit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-9-no-4-july-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 9 No 4 July 1988 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

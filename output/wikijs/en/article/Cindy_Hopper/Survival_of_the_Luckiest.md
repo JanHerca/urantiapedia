@@ -3,12 +3,33 @@ title: "Six-0-Six Newsletter — Volume 11 No. 3 — February 1990"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: 6-0-6, article
+tags: Life after death, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Cindy Hopper<br>© 1990 ANZURA, Australia & New Zealand Urantia Association</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 3 May 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-3-may-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 3 May 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Reprinted with permission from PRINTS OF PEACE, Vol IV, No 3, February 1990.**
 
@@ -38,9 +59,30 @@ It boggles the mind to think that if any of these creatures had survived this ca
 
 In _The URANTIA Book_, a Life-Carrier says:
 
-> “_It will hardly be possible to explain to the present-day human mind many of the queer and apparently grotesque occurrences of early evolutionary progress. A purposeful plan was functioning throughout all of these seemingly strange evolution of living things, but we are not allowed arbitrarily to interfere with the development of the life patterns after they have once been set in operation._” ([UB 65:3.1](/en/The_Urantia_Book/65#p3_1))
+> “_It will hardly be possible to explain to the present-day human mind many of the queer and apparently grotesque occurrences of early evolutionary progress. A purposeful plan was functioning throughout all of these seemingly strange evolution of living things, but we are not allowed arbitrarily to interfere with the development of the life patterns after they have once been set in operation._” (<a id="a61_400"></a>[UB 65:3.1](/en/The_Urantia_Book/65#p3_1))
 
 It also states that the eastern and central implantation groups were initially developing human potentialities, but the region suffered irretrievable losses of the highest types of germ plasm so the higher mammals subsequently developed from the western implantation of life. These and many other statements seem to confirm that Gould's model of survival of the luckiest is, at least to some extent, in harmony with _The URANTIA Book_'s account of how life evolved on earth.
 
 **Cindy Hopper**
 **Toronto, Canada**
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/606/Vol11_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol 11 No 3 May 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_606#vol-11-no-3-may-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol 11 No 3 May 1990 — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
