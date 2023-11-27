@@ -114,7 +114,7 @@ Jesus was very consistent. Eternal things are more real than temporal things. Th
 
 There is so much we can do now for the fourth phase of the kingdom. Our invisible brothers of the kingdom are waiting for us. Let us put our spiritual imagination into action, in sonship with God. Peace-movements on the whole are active in the negative: anti-nuclear warfare, and so on. Our book shows us, in the Urmia lectures, for instance, how we could be positively active in promoting worldgovernment. Such a thing must always first become real in the minds of the few, and the more real it becomes for them, the more it will contaminate other people, because it is sound and positive. In this way and in many others we could prepare ourselves for “the next age.” And thus we co-operate with our superiors. If we sincerely try to realize what changes will occur, this will bring ample opportunity for constructive thinking. What is needed is spiritual insight and universe-consciousness, (which only comes after God-consciousness). But we could begin with universe-mindedness, willingness to overcome prejudice
 
-## Journal Of Uranta _{\Circledast} Brotherhood
+## Journal Of Urantia _{\Circledast} Brotherhood
 
 The Teacher Sons come to initiate a spiritual age, “a millennium of cosmic enlightenment.” Future dispensations are not going to last tens of thousands of years; they become much shorter as evolution advances. In this light should be seen the “thousand years,” mentioned above.
 
@@ -153,7 +153,7 @@ Jesus was very consistent. Eternal things are more real than temporal things. Th
 
 There is so much we can do now for the fourth phase of the kingdom. Our invisible brothers of the kingdom are waiting for us. Let us put our spiritual imagination into action, in sonship with God. Peace-movements on the whole are active in the negative: anti-nuclear warfare, and so on. Our book shows us, in the Urmia lectures, for instance, how we could be positively active in promoting worldgovernment. Such a thing must always first become real in the minds of the few, and the more real it becomes for them, the more it will contaminate other people, because it is sound and positive. In this way and in many others we could prepare ourselves for “the next age.” And thus we co-operate with our superiors. If we sincerely try to realize what changes will occur, this will bring ample opportunity for constructive thinking. What is needed is spiritual insight and universe-consciousness, (which only comes after God-consciousness). But we could begin with universe-mindedness, willingness to overcome prejudice
 
-## Journal Of Uranta _{\Circledast} Brotherhood
+## Journal Of Urantia _{\Circledast} Brotherhood
 
 from inertia and lack of imagination. And lack of belief in what has already been revealed of the plans of our Master. God and men need each other.
 

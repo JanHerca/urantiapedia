@@ -14,7 +14,7 @@ Volume 6, Number 1
 
 SPRING, 1981
 
-## Journal Of Uranta _{\Circledast} Brotherhood
+## Journal Of Urantia _{\Circledast} Brotherhood
 
 ## Self-Realization
 
@@ -88,7 +88,7 @@ Further guidance from the book tells us that “The old cults were too egocentri
 
 There is more here from which we can learn. “No cult can endure and contribute to the progress of social civilization and individual spiritual attainment unless it is based on the biologic, sociologic, and religious significance of the home.” (966.4) That's strong language. The call for the commitment is crystal clear. No cult can endure and contribute unless it is based on the home.
 
-Webster tells us that a base is “the fundamental part of something, the groundwork, the point from which a start is made in an action or undertaking, the bottom of something considered as its main support.” The URANTlA Book devotes so much attention to the importance of the home that it can't be emphasized enough. In the future, URANTIA Societies must maintain vigilance in their recognition of this reality. When it becomes difficult for the family to feel a part of any society then that society will stagnate. When the home becomes separated from the activitics of the society then will the society fail in its ultimate task.
+Webster tells us that a base is “the fundamental part of something, the groundwork, the point from which a start is made in an action or undertaking, the bottom of something considered as its main support.” The URANTIA Book devotes so much attention to the importance of the home that it can't be emphasized enough. In the future, URANTIA Societies must maintain vigilance in their recognition of this reality. When it becomes difficult for the family to feel a part of any society then that society will stagnate. When the home becomes separated from the activitics of the society then will the society fail in its ultimate task.
 
 If we are to move forward, if we are to evolve in meaningful ways, then we must heed these warnings as though they are guiding lights on a darkened shore. “Family life,” we're told, “next to personal religious experience, suffers most from the decadence consequent upon the transition from old religious loyalties to the emerging new meanings and values.” (1089.10)
 

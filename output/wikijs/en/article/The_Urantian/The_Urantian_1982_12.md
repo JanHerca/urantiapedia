@@ -14,7 +14,7 @@ Volume 7, Number 4
 
 Winter, 1983
 
-## Journal Of Uranta _{8} Brotherhood
+## Journal Of Urantia _{8} Brotherhood
 
 ## Actualizing The Supreme In Your Life
 
@@ -62,7 +62,7 @@ The triodities must govern this constant growth, as infinity's embrace of the fi
 
 In eternity, potential and actual are already unified but in the finite realm of time and space, they must be experienced and synthesized to be unified. And so these divinity tensions of actual and potential come into being. The motion of Supremacy toward actualization and toward the realization of the limitless potential of God thus becomes the intention and potential of a God-knowing creature,
 
-## The <Br> Urantlan <Br> Journal Of Ubanta Brotherhood ^{2}
+## The <Br> Urantian <Br> Journal Of Ubanta Brotherhood ^{2}
 
 Published Quarterly by
 

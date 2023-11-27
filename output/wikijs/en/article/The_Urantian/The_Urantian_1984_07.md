@@ -84,7 +84,7 @@ Traditions, after all, can be accepted passively; they require relatively little
 
 "Thinking man has always feared to be held by a religion. When a strong and moving religion threatens
 
-## Journal Of Uranta A_{\Odot} Brotherhood
+## Journal Of Urantia A_{\Odot} Brotherhood
 
 Of the overall population, how large a portion is that?
 

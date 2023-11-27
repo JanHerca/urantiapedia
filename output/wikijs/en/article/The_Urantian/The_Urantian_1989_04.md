@@ -28,7 +28,7 @@ An example for me of taking things for granted in this way came from a televisio
 
 Life is not self-evident. It is an inconceivable miracle. It is an immense creation of higher mind. Even in these matters, we must become childlike; we must start believing in miracles again.
 
-The revelation of The LIRANTIA Book teaches that “...the universe is neither mechanical nor magical; it is a creation of mind and a mechanism of law,” (481.5) “The wise philosopher will always look for the creative design which is behind, and pre-existent to, all universe phenomena. The creator thought invariably precedes creative action.” (42.6)
+The revelation of The URANTIA Book teaches that “...the universe is neither mechanical nor magical; it is a creation of mind and a mechanism of law,” (481.5) “The wise philosopher will always look for the creative design which is behind, and pre-existent to, all universe phenomena. The creator thought invariably precedes creative action.” (42.6)
 
 Albert Einstein understood this amazing fact that “the most inconceivable thing in the universe is that it can be conceived.” With this statement, Einstein beautifully verified the words of the revelation: “The ability to discern and discover mind in universe mechanisms depends entirely on the ability, scope, and capacity of the investigating mind engaged in such a task of observation.” (482.2)
 
@@ -44,7 +44,7 @@ We don't see the Spirit, we only see some of its consequences in the forms we do
 
 llkka Koivisto, Zoology Professor, says that the human central nervous system is the most unique system which has been born during evolution so far.
 
-## The <Br> Urantlan <Br> Journal Of Uzanta Brotherhood ^{2}
+## The <Br> Urantian <Br> Journal Of Uzanta Brotherhood ^{2}
 
 Published Quarterly by
 
@@ -62,7 +62,7 @@ Subscription Price: $5.00 a year
 
 Inasmuch as there is no official URANTIA Brotherhood or Fourdation interpretation of the teachings of _The URANTIA Book_, the views expressed herein are based Wholly upon each author's understanding and personal religious experience.
 
-Copyright (2) 1989 by URANTLA Brotherhood Corporation. All rights reserved. Printed in U.S.A.
+Copyright (2) 1989 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A.
 It is a biological machine which can apparently observe itself, knows it is working, and at least to some extent, understands itself. In a lecture, Philosopher Seppo Pietila talked about brains, the creations of the mind, and pointed out that: there are 12-14 \times 10^{9} brain cells; there are about 7 \times 10^{11} RNA molecules in each cell. Thus, the total capacity of the brain is 10 trillion memory locations according to present knowledge. To make that clearer, it could be said that all the knowledge that has been uncovered on earth during the past 10,000 years could find space in the brain of a single human being, which brain was created by mind. “He has decreed the time and manner of the manifestation of all forms of energymatter.” (47.2) The central nervous system is an inconceivable computer; I understand that you can't buy a computer today which “no one” has designed or made!
 
 How about a single cell? There are about 100 quadrillion or 100 million billion cells in a human being. A cell is the smallest single particle holding all the characteristics of life (metabolism, growth ability, etc.). The number of genes in a cell is astronomical. The length of one human being's gene strip is 40 times the distance to the sun and back again.

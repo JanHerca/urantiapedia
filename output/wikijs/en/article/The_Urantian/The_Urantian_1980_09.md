@@ -142,7 +142,7 @@ ALL FINITE VISION
 
 Every planetary body is measurable in relation to its reflective light, its “albedo.” Earth (Urantia) has an albedo of 0.39 , which is to say 39 \% of the light it receives from the sun is reflected back into space, with 61 \% received and absorbed. Planets differ greatly in their albedo ratings. Our moon has an albedo of only 7 \%, bright in the night sky though it may appear. The volcanic Jovian moon, lo, is seven times brighter than our lunar orb! The metaphor is compelling. A revelation is meant to reveal, to illuminate, to make visible and clearer that which is obscure. But revelation of ANY kind is communicated only through an evolutionary “carrier wave.” The PRIMARY PROCESS in a revelation derives from a person (usually) — Jesus the archetypal example, and in his case with a high (the highest possible?) albedo factor that reflected, therefore, not upon himself (in any egoistic sense) but back upon others to illuminate their lives in the light of the Father's Way lives immersed in the totality of existence, Revelation may be a prophet or a child — or even an event in nature pointing beyond itself. If persons or events lead to a book, such as Bible or URANTIA Book despite differences of transmission and actualization, a SECONDARY PROCESS (at best) takes place, and the albedo will tend to drop. The “carrier wave” (book, now) tends even more than in the case of a visible person to be revered for its own sake — absorbing (to human perception) rather than reflecting light. Of course, this is partly a function of the perceiving person, but also an inherent function of the limitations of the nature of the "carrier wave. "Can we believe for a minute that Jesus-as-living-
 
-## The Urantlan Journal Of Ubanta ^{*} Brotherhood
+## The Urantian Journal Of Ubanta ^{*} Brotherhood
 
 Published Quarterly by URANTIA Brotherhood 533 Diversey Parkway Chicago Illinois 60614
 
@@ -150,7 +150,7 @@ Subscription Price: $4.00 a year
 
 International Subscribers — add $1.00 for postage
 
--All quotations within this Journal, unless otherwise indicated, are from The LRANTIA Book and are used with the permission of the URANTIA Foundation, the copyright owner.
+-All quotations within this Journal, unless otherwise indicated, are from The URANTIA Book and are used with the permission of the URANTIA Foundation, the copyright owner.
 
 Copyright @1981 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A. person was a lesser “carrier wave” than _The URANTIA Book_? Hardly! Yet how difficult it was for people to look and walk with him in his reflective light. To look AT him, revere him, was relatively easy — but that was not the purpose of his illumination. His “reflecting” light for our benefit (in spite of his efforts to orient us correctly) was and is easily ignored.
 

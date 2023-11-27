@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 xxxx<br>© 1986 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 
-## Journal Of Uranta ^{*} Brotherhood
+## Journal Of Urantia ^{*} Brotherhood
 
 ## The Inner Conversation: Unbroken Communion With God
 
@@ -53,7 +53,7 @@ or Foundation interpretation of the teachings of The
 URANTIA Book, the views expressed herein are based
 wholly upon each author's understanding and personal
 religious experience.
-Copyrighe (9) 1986 by URANTLA Brotherhood Corpora-
+Copyrighe (9) 1986 by URANTIA Brotherhood Corpora-
 tion, All rights reserved, Printed in U.S.A.
 
 adoration; sometimes to pray for His grace, sometimes to offer Him your sufferings, and sometimes to return Him thanks for the favors He has given you, and still gives you, in the midst of your troubles, and to console yourself with Him the oftenest you can. Lift up your heart to Him, sometimes even at your meals, and when you are in company; the least little remembrance will always be acceptable to Him. You need not cry very loud; He is nearer to us than we are aware of ... Accustom yourself, then, by degrees thus to worship Him, to beg His grace, to offer Him your heart from time to time in the midst of your business, even every moment, if you can."

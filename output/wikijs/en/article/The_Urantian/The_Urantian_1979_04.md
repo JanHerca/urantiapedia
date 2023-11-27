@@ -14,7 +14,7 @@ Volume 4, Number 1
 
 SPRING, 1979
 
-## Journal Of Uranta _{\Circledast} Brotherhood
+## Journal Of Urantia _{\Circledast} Brotherhood
 
 ## The Identification Process
 
@@ -59,7 +59,7 @@ Subscription P'rice: $3,00 a year
 
 #### Abstract
 
-"All quotations within this Journal, uniess otherwise indicated, are from The LIRANTIA Book and are used with the permission of the URANTIA Foundation, the copyright owner.
+"All quotations within this Journal, uniess otherwise indicated, are from The URANTIA Book and are used with the permission of the URANTIA Foundation, the copyright owner.
 
 
 Copyright 81978 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A.

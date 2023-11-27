@@ -14,7 +14,7 @@ Volume 12, Number 1
 
 Spring, 1987
 
-## Journal Of Uranta Brotherhood ^{\Text {Un }}
+## Journal Of Urantia Brotherhood ^{\Text {Un }}
 
 ## Jesus, The Great Economist
 
@@ -58,7 +58,7 @@ International Subscribers — add $1.00 for postage
 
 - All quotations within this Journal, unless otherwise indicated, are from _The URANTIA Book_, 1955 , and are used with the permission of the URANTIA Foundation, the copyright owner.
 
-lnasmuch as there is no official URANTLA Brotherhood or Foundation interpretation of the teachings of _The URANTIA Book_, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
+lnasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of _The URANTIA Book_, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
 
 Copyright (E) 1937 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A. course, but they all consist of energy expended, energy given towards some object. Most of these elements of Care are self-evident; but you may not normally think of Comforting in the manner in which we use it, In the System of Love, Comforting means any direct physical contact with an object. We couldn't find a better word, but it applies to the way in which we deal with one another on any occasion, as well as the way a workman, for example, deals with his woodwork and tools. Any object is capable of being Comforted in the System of Love. It means contact with Love intended. This is how love gets out of the kitchen onto the table; via the food served, It is how quality gets into products. There can be no Love possible without the energy expenditures of Care. A close study of Jesus will show that, when he says give, he means give the energy of care, which has a so much broader meaning than the contribution of money and the sharing of material resources to which it has so often been reduced.
 

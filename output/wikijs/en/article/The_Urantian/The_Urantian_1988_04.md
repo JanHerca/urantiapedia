@@ -32,13 +32,13 @@ Espoo, Finland
 
 ## Asking For The Spiritand Other Good Stuff!
 
-This is a combination of an eleven-day prayer cycle and a sharing of my insights into the relationship between the teaching of the Catholic Church regarding the seven gifts of the Holy Spirit (listed in Isaiah, chapter 11), the teaching of The URANTLA Book about the seven adjutant mind spirits (PP 401-403), and the Pentecostal teaching on charismatic gifts of the Spirit (I Corinthians(12.8-12). Of course the possible relationship between the seven gifts and the seven adjutants leaps to mind since the names are so close. Adding the charismatic gifts was a last minute bonus. I didn't think it possible, though I wanted it to be, Suddenly, they categorized themselves, as it were, and slipped into unexpected places. They took me by surprise!
+This is a combination of an eleven-day prayer cycle and a sharing of my insights into the relationship between the teaching of the Catholic Church regarding the seven gifts of the Holy Spirit (listed in Isaiah, chapter 11), the teaching of The URANTIA Book about the seven adjutant mind spirits (PP 401-403), and the Pentecostal teaching on charismatic gifts of the Spirit (I Corinthians(12.8-12). Of course the possible relationship between the seven gifts and the seven adjutants leaps to mind since the names are so close. Adding the charismatic gifts was a last minute bonus. I didn't think it possible, though I wanted it to be, Suddenly, they categorized themselves, as it were, and slipped into unexpected places. They took me by surprise!
 
 The prayer cycle begins with Ascension Thursday and ends with Pentecost. The nine days between are the “novena”- nine days asking for the release of the Spirit. In the traditional novena, seven of the nine days are dewoted to asking for a greater measure of each of the seven gifts. Here I have explained each gift, each ministry, and a little of each charism in hopes you will find ways to act to open yourself more fully to the Holy Spirit. We must always act. Faith like a mustard seed can do great things only if it is planted!
 
 My reflections are based on a joyful and appreciative growing-up experience within Catholicism, years of encouragement within the social fellowship of readers of _The URANTIA Book_, and a recently renewed association with the worship of Catholic Pentecostals.
 
-I should add that I left the worship of the Church for a number of years. When I returned, I had to re-examine The URANTLA Book in the light of what God began to do in my life as a renewed Catholic. Such re-examinations are both painful and demanding. Yet it has been a joy, too. The breadth and philosophical acuity of Catholicism are admirably suited to meet the intellectual challenge of The URANTLA Book, while the well-researched biographies of the saints provide truly excellent illustrations of the principles of spiritual and cosmic growth as described in this revelation. I am more delighted than I can say.
+I should add that I left the worship of the Church for a number of years. When I returned, I had to re-examine The URANTIA Book in the light of what God began to do in my life as a renewed Catholic. Such re-examinations are both painful and demanding. Yet it has been a joy, too. The breadth and philosophical acuity of Catholicism are admirably suited to meet the intellectual challenge of The URANTIA Book, while the well-researched biographies of the saints provide truly excellent illustrations of the principles of spiritual and cosmic growth as described in this revelation. I am more delighted than I can say.
 
 But I had to laugh one day when a friend commented after listening to my thoughts, “Well, then, I guess you would say this book is basically an extension of Catholicism.” I!?
 
@@ -46,7 +46,7 @@ Yet there is only one God, and if he has worked in your heart through Catholicis
 
 Rejoice in the Lord always!
 
-## Journal Of Uranta S Brotherhood
+## Journal Of Urantia S Brotherhood
 
 ## I. Ascension Thursday-Asking For What?
 
@@ -169,7 +169,7 @@ After Jesus lived among us in the flesh, he received from our Father the privile
 
 Every normal mind is prepared for this ministry of truth by the local universe Mother Spirit. But there is this difference between her ministry and his: hers is given almost automatically, but the ministry of the truth-spirit depends directly on our knowledge of Jesus, our love for him, and our personal commitment to his way. For those who do not
 
-## Journal Of Uranta S Brotherhood
+## Journal Of Urantia S Brotherhood
 
 know the name of Jesus, or for whom his name is associated with confused and darkened teachings, acceptance of the substance of his revelation, to whatever extent it is presented in their situation, is sufficient for spiritual growth. But the profound experience of the baptism in the spirit and its startling endowments of charismatic power are usually reserved for those who have made conscious personal contact with Jesus, who have made a heartfelt commitment to his explicit teaching and who bear lasting spiritual fruit by acting on the gifts received.
 
@@ -192,7 +192,7 @@ Garretson, South Dakota
 ## “Belief Has Attained The Level Of Faith When It Motivates Life And Shapes the mode of living.” (1114.6)
 
 
-[^0]:    THE URANTLAN Journal of URANTA ^{*} Brotherhood
+[^0]:    THE URANTIAN Journal of URANTA ^{*} Brotherhood
 
     Published Quarterly by
 
@@ -210,5 +210,5 @@ Garretson, South Dakota
 
     Inasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of The URANTIA Borok, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
 
-    Copyright 91988 by URANTLA Brotherhood Corpora-
+    Copyright 91988 by URANTIA Brotherhood Corpora-
 

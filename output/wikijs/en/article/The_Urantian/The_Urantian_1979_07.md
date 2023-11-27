@@ -14,7 +14,7 @@ Volume 4, Number 2
 
 SUMMER, 1979
 
-## Journal Of Urantla Brotherhood
+## Journal Of URANTIA Brotherhood
 
 ## Ganid Of India
 
@@ -46,13 +46,13 @@ Sacramento, Califomia
 
 While Ikhnaton was remarkable, Moses was matchless. "Despite the enticements of the culture of the Nile kingdom, Moses elected to cast his lot with the people of his father... No leader ever undertook to reform and uplift a more forlorn, downcast, dejected, and ignorant group of human beings," (1055.6,7) This magnificent world teacher dreamed and realized an impossible dream. Moses chose the low road of forty years of watchful waiting that resulted in the glorious, dramatic rescue of an apparently hopeless people and in the savings of their
 
-## The <Br> Urantlan . Journal Of Upanta S Brotherhood <Br> Published Quarterly by <br> URANTIA Brotherhood <br> 533 Diversey Parkway <br> Chicago Illinois 60614
+## The <Br> Urantian . Journal Of Upanta S Brotherhood <Br> Published Quarterly by <br> URANTIA Brotherhood <br> 533 Diversey Parkway <br> Chicago Illinois 60614
 
 Subscription Price: $4.00 a year
 
 International Subscribers — add $1.00 for postage
 
--All quotations withen this Journal, unless othenwice indicated, are from The LIRANTIA Bovk and are used with the permisston of the URANTIA Foundation, the copyright owner.
+-All quotations withen this Journal, unless othenwice indicated, are from The URANTIA Bovk and are used with the permisston of the URANTIA Foundation, the copyright owner.
 
 Copyright 91979 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A. priceless spiritual heritage, His life will forever serve as a demonstration of how the first will be last and the last will be first.
 

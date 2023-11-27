@@ -14,7 +14,7 @@ Volume 11, Number 2
 
 Summer, 1986
 
-## Journal Of Uranta ^{*} Brotherhood
+## Journal Of Urantia ^{*} Brotherhood
 
 ## A Theocentric Model Of The Universe
 
@@ -53,7 +53,7 @@ International Subscribers — add $1.00 for postage
 
 - All quotations within this Journal, unless otherwise inclicated, are from _The URANTIA Book_, e1955, and are used with the permission of the URANTIA Foundation, the copyright owner.
 
-lnasmuch as there is no official URANTLA Brotherhood or Foundation interpretation of the teachings of _The URANTIA Book_, the views expressed herein are based wholly upon each author's understanding and personal religious experience,
+lnasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of _The URANTIA Book_, the views expressed herein are based wholly upon each author's understanding and personal religious experience,
 
 Copyright 1986 by URANTIA Brotherhood Corporition. All rights reserved, Printed in U.S.A. preference and a sense of “reality” to this new Godcentered model of the universe.
 
@@ -88,7 +88,7 @@ It may not be directly analogous, but it appears to me that the ongoing tendency
 
 This proclivity is very understandable and seems proper on the surface, but if it is left unchecked, it may make the spread of the fifth epochal revelation more difficult in the years to come. Some guidance relating to the future spread of revelation is found in paper(185.“These various groupings of Christians may serve to accommodate numerous different types of would-be believers among the various peoples of Western civilization, but such division of Christendom presents a grave weakness when it attempts to carry the gospel of Jesus to Oriental peoples. These races do not yet understand that there is a religion of lesus separate, and somewhat apart, from Christianity, which has more and more become a religion about lesus.” (2086.1)
 
-## Journal Of Uranta _{\Text {S }} Brotherhood
+## Journal Of Urantia _{\Text {S }} Brotherhood
 
 For non-Western religionists, former agnostics, and the numerous disillusioned former churchgoers who are among the ranks of book readers, a forum for religious egotists will not serve their new united purpose of fostering a living and selfless world faith which is centered in each individual's inner life. Perhaps sufficient wisdom will develop and evolve among all readers to shun the ambitious institution-makers enabling the democratic assemblies to weed out the egoistic tendencies as they appear.
 

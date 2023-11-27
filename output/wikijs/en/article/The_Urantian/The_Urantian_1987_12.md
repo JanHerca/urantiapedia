@@ -24,7 +24,7 @@ The theme of this conference is “Personal Transformation and its Power to Tran
 
 One only need look at the life of Jesus in both his personal and public ministry, to see the influence of one spiritually transformed individual in the world. His apostles and followers, by virtue of his transforming life in this world, virtually “...turned the whole Roman Empire upside down,” (2077.5) During his one visit to Rome, Jesus had an influence on the spiritual awakening of more people than most of us will have an influence on
 
-## The Urantlan Journal Of Upanta Brotherhood
+## The Urantian Journal Of Upanta Brotherhood
 
 Published Quarterly by
 
@@ -38,11 +38,11 @@ Subscription Price: $5.00 a year
 
 International Subscribers — add $1,00 for postage
 
-- All quotations within this Journal, unless otherwise indicated, are from _The URANTIA Book_, (81955, and are used with the permission of the URANTlA Foundation, the copyright owner.
+- All quotations within this Journal, unless otherwise indicated, are from _The URANTIA Book_, (81955, and are used with the permission of the URANTIA Foundation, the copyright owner.
 
 Inasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of _The URANTIA Book_, the views expresset herein are based wholly upon each author's understanding and personal religious experience.
 
-Copyright 91988 by URANTLA Brotherhood Corporation. All rights reserved. Printed in U.S.A. in a lifetime. The power of his mere presence was so profound that he merely had to smile upon people for them to experience renewed faith and encouragement.
+Copyright 91988 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A. in a lifetime. The power of his mere presence was so profound that he merely had to smile upon people for them to experience renewed faith and encouragement.
 
 As Aristotle said to his young pupil, Alexander The Great, in answer to Alexander's question “How many is one?”: “In the arena of human affairs, one can be a very great number.”
 

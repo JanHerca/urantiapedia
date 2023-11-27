@@ -39,7 +39,7 @@ Mind is a vast and fascinating domain. Unfortunately it can be too fascinating f
 
 _The URANTIA Book_ states there is a third energy system, the spirit-energy system. If the reader should be asked to give a definition of spirit, he could hardly succeed. Definition belongs to the mind-level. The higher spirit system we cannot know like the mind system, let alone discern it with our material eyes. But because our book calls it a system, it must have a form. This spirit form we'll see at least and at last when we have left the local universe behind us, when we are classified as
 
-## The Urantlan Journal Of Upanta Brotherhood ^{2}
+## The Urantian Journal Of Upanta Brotherhood ^{2}
 
 Published Quarterly by
 
@@ -55,7 +55,7 @@ International Subscribers — add $1.00 for postage
 
 - All quotations within this Journal, unless otherwise indicated, are from _The URANTIA Book_, (8)1955, and are used with the permission of the URANTIA Foundation, the copyright owner.
 
-Inasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of The URANTLA Book. the views expressed herein are based wholly upon each author's understanding and personal religious experience.
+Inasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of The URANTIA Book. the views expressed herein are based wholly upon each author's understanding and personal religious experience.
 
 Copyright \circledast 1983 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A. spirits. If we cannot see nor intellectually know this spirit energy system, how can we know about it? Only through revelation. Our book speaks about spirit, though its words cannot really depict it, And there is continual personal revelation, which transforms words into living experience.
 

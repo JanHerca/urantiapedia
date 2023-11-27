@@ -16,7 +16,7 @@ Editors' Note:
 
 Many readers of _The URANTIA Book_ have had their lives transfomed by rading, studying and applying its teachings. Having received the gift of epochal revelation, their love for others impels them to serve by making its knowledge and insight available to all who will receive it. This narratioe suggests some ways in which readers may find effective outlets for this loving impulse. As a compilation of the ideas and experiences of many people, it is in no way an official statement, but sinply represents the authors' and editors' personal opinions.
 
-[Reprints of this issue of The URANTIAN, Joumal of URANTLA Brotherhood, are available at cost. Please contact URANTIA Brotherhood at 533 Diversey Parkway, Chicago, IL 60614.]
+[Reprints of this issue of The URANTIAN, Joumal of URANTIA Brotherhood, are available at cost. Please contact URANTIA Brotherhood at 533 Diversey Parkway, Chicago, IL 60614.]
 
 ## Introduction
 
@@ -46,7 +46,7 @@ We all want to help others know the Father, but many of us are reluctant to talk
 
 Jesus said, “Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it.” (1918.4)
 
-## The <Br> Urantlan.
+## The <Br> Urantian.
 
 Published Quarterly by
 
@@ -62,7 +62,7 @@ Subscription Price: $5.00 a year
 
 - All quotations within this Journal, unless otherwise indicated, are from _The URANTIA Book_, \otimes 1955, and are used with the permission of the URANTIA Foundation, the copyright owner.
 
-Inasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of The URANTLA Book, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
+Inasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of The URANTIA Book, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
 
 Copyright \circledast 1989 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A.
 In this short sentence, Jesus sums up the unselfish attitude to which believers should aspire. Nothing should give us greater joy than to help a sister or brother learn of the Father. The example of our lives and the truth of _The URANTIA Book_ are tools of the spirit to help accomplish this. We must remember that the riverbed is not the river; that for the truth in _The URANTIA Book_ to exercise its life-changing power, it must be incorporated into a person's life. While we, by our efforts, are not able to transform another person, we can surely introduce them to one who is.
@@ -87,14 +87,14 @@ Once we honestly overcome such concerns, the spiritual life and personal service
 Although personal sharing is the most desirable way to serve individuals, this does not rule out the effectiveness of some less personal methods for disseminating the book and its teachings. Many forms of sincere dissemination have a place in our efforts to help our spiritually hungry world hear a new message about God. To get an idea of the range of possibilities, consider the following five avenues of approach, beginning with the most impersonal:
 
 - public meetings
-- placement of The LIRANTIA BCok
+- placement of The URANTIA BCok
 - spiritual attraction
 - inclusion
 - personal sharing
 
 Public Meetings
 
-In public meetings, the speaker spreads the message before an assembled group. At the present stage in the development of the revelation, however, few public meetings are likely to be good places to present The URANTLA Book and its teachings.
+In public meetings, the speaker spreads the message before an assembled group. At the present stage in the development of the revelation, however, few public meetings are likely to be good places to present The URANTIA Book and its teachings.
 
 Experiences of readers show that, to be successful, the approach used must be low-key and specific in its targeting of a selected audience. This means doing research to determine the likelihood that at least a few members of the group to be addressed will find something of interest in the book. It also requires careful preparation. One can use modern communication tools such as video or sound/slide programs, but success with these materials will be strongly affected by the extent of one's mastery of media techniques. A high degree of quality and coherence in the presentation is required if it is to be appealing to what may be a relatively unsympathetic audience.
 
@@ -106,9 +106,9 @@ Other public meeting opportunities may become available as requests are made for
 
 The Fraternal Relations Committee of URANTIA Brotheriood is in the process of developing programs concerning public presentations, particularly to religious and academic groups. This includes sponsoring sessions at conferences and seminars to explore the advantages and disadvantages of public presentations, and to acquaint readers with the skills and understandings related to effective methods of group selection and presentation of material. These programs are under continuing review and revision by URANTIA Brotherhood. If you wish more information about these programs, you should write to the Fratemal Relations Committee at URANTIA Brotherhood's Chicago address.
 
-Before using material from The URANTLA Book, you should obtain and carefully review a copy of the policy statement from URANTIA Foundation entitled, “_The URANTIA Book_; Copyright Permission Guidelines.” Copies of this policy statement may be obtained from the Foundation.
+Before using material from The URANTIA Book, you should obtain and carefully review a copy of the policy statement from URANTIA Foundation entitled, “_The URANTIA Book_; Copyright Permission Guidelines.” Copies of this policy statement may be obtained from the Foundation.
 
-## Placement Of The Urantla Book
+## Placement Of The URANTIA Book
 
 Placement is done by putting the book, or pamphlets designed to interest neople in the book, where people are likely to find them. A good example of this approach is the program whereby URANTIA Foundation provides URANTIA Brotherhood with books for library placement.
 
@@ -151,9 +151,9 @@ We cannot control whether or not any particular individual will be receptive to 
 
 It has become apparent since the publication of _The URANTIA Book_ that, at the present phase in the development of spiritual consciousness on this planet, there are relatively few people in any particular group who are likely to be interested in the contents of the book, much less find them agreeable. Even with the most careful selection of likely candidates and the best imaginable presentation, it should not surprise us when we encounter long periods of approaching “good”s people who reject our approach.
 
-Since the experience of rejection is so common among readers of The LIRANTIA Bcok, a great many seem to tire of this demanding exercise and before long cease or greatly scale down their activities. The reader who measures her or his accomplishment by the number of converts recruited to the cause concludes that there is no satisfaction if there are none who accept the message, and that without satisfaction it may be better to give up. For some, persistence is only inspired by “success.” For most of us it seems necessary to develop an attitude, grounded in faith, that thrives on apparent adversity while learning to value the quality of the few rather than the quantity of the many. Only in this way will most readers come to recognize the necessity for persistence, and to grow spiritually from the experience of service without immediate gratification.
+Since the experience of rejection is so common among readers of The URANTIA Bcok, a great many seem to tire of this demanding exercise and before long cease or greatly scale down their activities. The reader who measures her or his accomplishment by the number of converts recruited to the cause concludes that there is no satisfaction if there are none who accept the message, and that without satisfaction it may be better to give up. For some, persistence is only inspired by “success.” For most of us it seems necessary to develop an attitude, grounded in faith, that thrives on apparent adversity while learning to value the quality of the few rather than the quantity of the many. Only in this way will most readers come to recognize the necessity for persistence, and to grow spiritually from the experience of service without immediate gratification.
 
-In discussing experiences of sharing the book with others, people mostly hear about what has not worked. The typical new reader, flush with excitement about finding The URANTLA Book, goes out and tells everyone he or she knows about it, and such enthusiasm is often successful in enticing others into looking at the book. However, with the inevitable percentage of rejection
+In discussing experiences of sharing the book with others, people mostly hear about what has not worked. The typical new reader, flush with excitement about finding The URANTIA Book, goes out and tells everyone he or she knows about it, and such enthusiasm is often successful in enticing others into looking at the book. However, with the inevitable percentage of rejection
 
 ![](https://cdn.mathpix.com/cropped/2023_11_26_0b29bc50c201db57b3f5g-5.jpg?height=175&width=825&top_left_y=1745&top_left_x=1091)
 
@@ -195,7 +195,7 @@ There are at least three approaches which readers of _The URANTIA Book_ may ethi
 
 The testimony of your faith, when humbly rendered in a thoughtful, wise, loving, considerate, tasteful and timely manner, can help the spirit touch the heart of another, particularly if that other is truly your friend.
 
-By comparison, the factual theology, philosophy, and cosmology of _The URANTIA Book_ will strike many people as strange and unacceptable. Yet, it is in this one special area that readers of The URANTLA Book provide an otherwise unavailable service with important spiritual implications for those who will listen.
+By comparison, the factual theology, philosophy, and cosmology of _The URANTIA Book_ will strike many people as strange and unacceptable. Yet, it is in this one special area that readers of The URANTIA Book provide an otherwise unavailable service with important spiritual implications for those who will listen.
 
 ## Introducing The Book To Others
 
@@ -205,7 +205,7 @@ Some of these people will be receptive to the augmented insights provided by _Th
 
 When we determine to tell others about _The URANTIA Book_, our primary motive must be to help them know the Father better.
 
-attracted to the unique knowledge embodied in the book. Some such seekers will discover the deep truth of The URANTLA Book and be thereby led, at last, to find their Father. Still others may know God as a personal experience, but may not be interested in _The URANTIA Book_.
+attracted to the unique knowledge embodied in the book. Some such seekers will discover the deep truth of The URANTIA Book and be thereby led, at last, to find their Father. Still others may know God as a personal experience, but may not be interested in _The URANTIA Book_.
 
 When we determine to tell others about _The URANTIA Book_, our primary motive must be to help them know the Father better. Some will find him for the first time through the book, and others will grow in their knowledge of him under the influence of its clarifying perspective. If one of us does not give someone the book, or provide a way for it to be found, there is no other group working to do 50. But if, when the occasion arises, we give someone the book in a manner which violates the standards of friendship, love and service we espouse, we may nullify much of the initial benefit of our testimony.
 
@@ -232,14 +232,14 @@ In summary, let us restate the basic principles of sharing which many of us have
 - Attraction. We must come to understand that the ideas and experiences which we share will only be
 
 
-## Journal Of Uranta E Brotherhood ^{2}
+## Journal Of Urantia E Brotherhood ^{2}
 
 accepted by those who are hungry for them and ready to receive them with an honest heart and an open mind.
 
 - Perseverance. Lacking wisdom and perspective, we will undoubtedly experience many rejections. The recognition of the spiritual value of our efforts will help overcome the natural feelings of disappointment.
 - Commitment. Each reader who interests another in the book will want to accept the responsibility and privilege of continuing a personal relationship with that individual. The book is a means, not an end. Personality relationships are ends in themselves.
 
-If you have read The LIRANTIA Book and have recognized its truth, you have certainly experienced a strong desire to share this experience with others. Begin to apply the principles suggested here, and do not turn from the work. Reach out to people. Share the book and/or its teachings with them. With the power of truth and the insight of wisdom you will surely succeed.
+If you have read The URANTIA Book and have recognized its truth, you have certainly experienced a strong desire to share this experience with others. Begin to apply the principles suggested here, and do not turn from the work. Reach out to people. Share the book and/or its teachings with them. With the power of truth and the insight of wisdom you will surely succeed.
 
 “Never should a righteous cause be promoted by force; spiritual victories can be won only by spiritual power. This injunction against the employment of material influences refers to psychic force as well as to physical force. Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. Man's mind is not to be crushed by the mere weight of logic or overawed by shrewd eloquence. While emotion as a factor in human decisions cannot be wholly eliminated, it should not be directly appealed to in the teachings of those who would advance the cause of the kingdom. Make your appeals directly to the divine spirit that dwells within the minds of men.” (1765.4)
 

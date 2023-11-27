@@ -14,11 +14,11 @@ Volume 11, Number 4
 
 Winter, 1986-87
 
-## Journal Of Uranta Brotherhood ^{\Text {U }}
+## Journal Of Urantia Brotherhood ^{\Text {U }}
 
 ## The Spirit Level Of Reality
 
-This little essay is written in the hope that I may take advantage of the notion expressed in The URANTLA Book which suggests somewhat gently that universe romancing in the search for truth is often characterized more by insight than fact.
+This little essay is written in the hope that I may take advantage of the notion expressed in The URANTIA Book which suggests somewhat gently that universe romancing in the search for truth is often characterized more by insight than fact.
 
 Probably, you have heard of the idea (however phrased) that, although “love” is real, it is impossible to “hold” it as it is possible to hold a baseball or fountain pen in your hand. Since our life vehicle is a material body, we can relate easily to physical reality. The superuniverse of Orvonton in which we live contains both physical and spiritual realities, but these dimensions do not contact each other anywhere in this time-space segment of the grand universe. Even though our body and brain consists of energy-matter, we humans possess mind capacities that enable us to bridge the reality difference between physical and spiritual realities. This is the creature function of human mind.
 
@@ -37,7 +37,7 @@ aspects of spirit existence. Truth, beauty, and goodness are no doubt literally 
 
 In conclusion, let me say that I now conceive of love, truth, beauty, and goodness on the spirit level of reality as literally living phenomena, which are analogous in function to physical objects on the
 
-## The Urantlan Journal Of Uranta A Brotherhood
+## The Urantian Journal Of Urantia A Brotherhood
 
  Published Quarterly by URANTIA Brotherhood 533 Diversey Parkway Chicago Illinois 60614
 ## Subscription Price:   5,00 A Year <Br> International Subscribers — Add \ 1.00 for postage
@@ -46,7 +46,7 @@ In conclusion, let me say that I now conceive of love, truth, beauty, and goodne
 
 Inasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of _The URANTIA Book_, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
 
-Copyright 91987 by URANTLA Brotherhood Corporation. All rights reserved, Printed in U.S.A. energy-matter level. Furthermore, spirit personalities are constitutively capable of interacting with realities-such as spirit-values, spirit-ideas, and spirit-emotions-that are actual, living entities, But, most important, let us always remember what was said by the apostle, John Zebedee, about the greatest of spirit realitites,
+Copyright 91987 by URANTIA Brotherhood Corporation. All rights reserved, Printed in U.S.A. energy-matter level. Furthermore, spirit personalities are constitutively capable of interacting with realities-such as spirit-values, spirit-ideas, and spirit-emotions-that are actual, living entities, But, most important, let us always remember what was said by the apostle, John Zebedee, about the greatest of spirit realitites,
 
 Dear friends, let us love one another, because love comes from God. Whoever loves is a child of God and knows God, Whoever does not love does not know God, for God is love. We are sure that we live in union with God and that he lives in union with us, because he has given us his Spirit. And we ourselves know and believe the love which God has for us. God is love, and whoever lives in love lives in union with God and God lives in union with him. There is no fear in love, perfect love drives out all fear. The command that Christ has given us is this: whoever loves God must love his brother also.
 

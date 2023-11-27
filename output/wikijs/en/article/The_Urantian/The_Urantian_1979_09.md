@@ -33,7 +33,7 @@ In trying to make an assessment of what kind of organization URANTIA Brotherhood
 
 "As the self matures, it reaches further and further back into the past for experience, while its wisdom forecasts seek to penetrate deeper and deeper into the unknown future. And as the conceiving self extends this reach ever further into both past and future, so does judgment become less and less dependent on the momentary present. In this way does decision-action begin to escape from the fetters of the moving present, while it begins to take on the aspects of past-future significance." (1295.5)
 
-Let us now look into the immediate past to those events and the philosophy which suggested and guided the formation of URANTLA Brotherhood. Then let us look into the deeper past in preparation for our making a "wisdom forecast" as to the future of URANTIA Brotherhood thus escaping "...the fetters of the moving present ..." in order better to gain a broader, surer perspective "...on the aspects of past-future significance." (‘1295:5)
+Let us now look into the immediate past to those events and the philosophy which suggested and guided the formation of URANTIA Brotherhood. Then let us look into the deeper past in preparation for our making a "wisdom forecast" as to the future of URANTIA Brotherhood thus escaping "...the fetters of the moving present ..." in order better to gain a broader, surer perspective "...on the aspects of past-future significance." (‘1295:5)
 
 In considering the desirability — even the necessity of an organization such as URANTIA Brotherhood, the original leaders saw that while institutionalization, if carried to extremes, could crystallize a religion into mere dead forms — a skeleton of its once dynamic self they also saw that without some organization no religion could survive.
 
@@ -51,7 +51,7 @@ Therefore, a plan was adopted to assist in and encourage salutary group function
 
 The minimal organization provided in the Constitution of URANTIA Brotherhood provides a simple and effective plan for group association and co-operation. We have a simple structure within which readers of _The URANTIA Book_ can work with one another towards the common goal of the wise dissemination of the teachings of _The URANTIA Book_ and the ultimate spiritualization of mankind. Without such a formal organization, albeit a simple and benign one, there would be no structure in which, or method by which, it would be possible for all the diverse types of human beings who become interested in the teachings of _The URANTIA Book_ to function together effectively. There would be no way in which the foundations could be laid which would eventually lead to the realization of a true, even
 
-## The Urantlan Journal Of Uranta ^{\Infty} Brotherhood <Br> Published Quarterly by <br> URANTIA Brotherhood <br> 533 Diversey Parkway <br> Chicago Illinois 60614
+## The Urantian Journal Of Urantia ^{\Infty} Brotherhood <Br> Published Quarterly by <br> URANTIA Brotherhood <br> 533 Diversey Parkway <br> Chicago Illinois 60614
 
 Subscription Price: $4.00 a year
 
@@ -61,7 +61,7 @@ International Subscribers — add $1.00 for postage
 
 Copyright 21979 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A. living, organismal, world-wide spiritual brotherhood of mankind.
 
-(1) Quotations and paraphrases from Unity, not Uniformity, copyright@1973, URANTLA Foundation — used by permission.
+(1) Quotations and paraphrases from Unity, not Uniformity, copyright@1973, URANTIA Foundation — used by permission.
 
 The broad, guiding principles which informally govern our evolutionary, material structure are set forth in a speech given in the early days of our URANTIA movement. In this speech, William S, Sadler, Jr., first president of URANTIA Brotherhood, in his first President's Triennial Report to the General Council of URANTIA Brotherhood, set forth what has now become the classic exposition of the broad range mission of URANTIA Brotherhood.
 
@@ -81,9 +81,9 @@ But first let us establish thousands of study groups. Then, when these groups ma
 
 As URANTIA Societies, they may serve under our banner of the Concentric-Circles Symbol as readily identifiable bearers of truth to Mankind. These URANTIA Societies as constituent parts of URANTIA Brotherhood will serve as lighthouses of truth giving light and direction to a world languishing in spiritual darkness and suffering racial and governmental disarray.
 
-Let us follow the broad outlines of the function of the Adamic regime. Let us not disappoint our planetary Father and Mother who suffered the degradation of reduction to human status, but who now, as two of the Four and Twenty Counselors, stand as watchful sentinels anxiously waiting to see how successfully and efficently our human URANTLA Brotherhood will co-operate with the Planetary Government in compensating for the aborted Adamic Mission to Mankind. URANTIA Brotherhood cannot hope to fulfill all of the responsibilities of the Adamic bestowal, but it can mightily assist in compensating for the loss of the Adamic regime.
+Let us follow the broad outlines of the function of the Adamic regime. Let us not disappoint our planetary Father and Mother who suffered the degradation of reduction to human status, but who now, as two of the Four and Twenty Counselors, stand as watchful sentinels anxiously waiting to see how successfully and efficently our human URANTIA Brotherhood will co-operate with the Planetary Government in compensating for the aborted Adamic Mission to Mankind. URANTIA Brotherhood cannot hope to fulfill all of the responsibilities of the Adamic bestowal, but it can mightily assist in compensating for the loss of the Adamic regime.
 
-But let us take caution in carrying out our spiritual mission. Let us let others know that we do not pretend to be the Spiritual Brotherhood of Mankind, though we hope to participate in the realization of that Spiritual Brotherhood. Furthermore, we can avoid the deviltry which comes with considering ourselves a chosen people, remembering that The URANTlA Book tells us on page 1488 that "There is no such thing as a 'chosen people,'" And, further:
+But let us take caution in carrying out our spiritual mission. Let us let others know that we do not pretend to be the Spiritual Brotherhood of Mankind, though we hope to participate in the realization of that Spiritual Brotherhood. Furthermore, we can avoid the deviltry which comes with considering ourselves a chosen people, remembering that The URANTIA Book tells us on page 1488 that "There is no such thing as a 'chosen people,'" And, further:
 
 "A new and fuller revelation of the religion of Jesus is destined to conquer an empire of materialistic secularism and to overthrow a world sway of mechanistic naturalism. Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment." (2082.8)
 
@@ -179,7 +179,7 @@ Jesus taught this Fatherhood so as to lead us into that sonship that he had disc
 
 But even so romanticism could not be made to clear the way for reality. The apostles persisted in desiring another kind of reality and truth outside themselves. The kingdom, the fellowship with the indwelling spirit, as the promised land within themselves, was still too shrouded (See Paper 157, sections 3-7, pgs, 1745-1751). Therefore, Jesus met them half-way and revealed his divinity, but only after the spirit in them had revealed this to them. This was not a mere concession to the desires of the apostles for a truth outside themselves and a deliverer outside themselves. This acknowledgement of his divinity did not change anything of what he had taught before as the Son of Man. For this divine sonship
 
-## Journal Of Urantla Brotherhood
+## Journal Of URANTIA Brotherhood
 
 is also the perspective for the process of transformation taking place in us. When this process finds its preliminary consummation in the fusion between Thought Adjuster and man, then we also have become divine sons, god-men. The Master reveals himself so that the disciple may know himself.
 

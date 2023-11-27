@@ -140,7 +140,7 @@ Almost all long-lived groups arrange for the moderator's duties to be rotated am
 
 ## Group Participation
 
-Anyone can read The Lrantia Book alone; the task of the study group moderator is to encourage as many members as possible to contribute their thoughts, so that all members grow by verbalizing their own views and hearing those of others.
+Anyone can read The URANTIA Book alone; the task of the study group moderator is to encourage as many members as possible to contribute their thoughts, so that all members grow by verbalizing their own views and hearing those of others.
 
 The normal role of the moderator is as a leader, not a teacher. If at all possible, it is best to avoid direct criticism of the views of others. Explicit criticism, for example, can cause a member to remain silent for an extended period, or even to leave the group. If the group is fairly large (say, more than six participants), or if it consists of people who do not know each other very well, it is probably better for the moderator to concentrate on facilitating the discussion. In these cases, strive to limit your personal comments.
 

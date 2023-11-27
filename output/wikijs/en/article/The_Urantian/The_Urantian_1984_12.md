@@ -18,7 +18,7 @@ Winter, 1984-85
 
 ## The Privilege Of <Br> Individual Ministry
 
-The following was adapted from an address givert at the 7984 URANTLA Brotherhood General Conference, Green Lake, Wisconsin
+The following was adapted from an address givert at the 7984 URANTIA Brotherhood General Conference, Green Lake, Wisconsin
 
 This article is about “other people.” Specifically, l'd like to talk about closing the gap between “self” and “other.” In order to begin, let's back up a little to the “beginning of time” as we know it personally. Gail Sheehy, in her well-known book, Passages, describes the early experiences of childhood.
 

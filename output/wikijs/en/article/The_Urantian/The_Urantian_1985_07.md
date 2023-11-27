@@ -14,7 +14,7 @@ Volume 10, Number 2
 
 Summer, 1985
 
-## Journal Of Uranta ^{*} Brotherhood
+## Journal Of Urantia ^{*} Brotherhood
 
 The following wrs given as a talk at a Conference in Atianta in the spring of 1983. The editors.
 

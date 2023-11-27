@@ -14,7 +14,7 @@ Volume 10, Number 4
 
 Winter, 1985-86
 
-## Journal Of Uranta ^{2} Brotherhood
+## Journal Of Urantia ^{2} Brotherhood
 
 While it is not the practice of The JOURNAL to print letters, the article which follows is written in that form to convey its meaning in a personally powerful way. Thanks from all of us for a very important reminder. The Editors.
 

@@ -51,7 +51,7 @@ lumeati. Alaska
 We are sometimes faced with the ultimate paradox. Just when we're explaining the loving nature of God to an agnostic, he ruins our day by asking, “How can this lov. ing God stand by while innocent children suffer?” Mankind has struggled with this question since the beginning of recorded history. The early Jews believed that we suffer because we have sinned; God punishes us
 
 THE
-URANTLAN 8
+URANTIAN 8
 Journal of URANTIA Brotherhood
 Published Quarterly by
 URANTIA Brotherhood
@@ -63,9 +63,9 @@ A.ll quotations within this Journal, unless otherwise
 indicated, are from _The URANTIA Book_, B1955,
 and are used with the permission of the URANTIA
 Foundation, the copyright owner.
-lnasmuch as there is no official URANTLA Brotherhood
+lnasmuch as there is no official URANTIA Brotherhood
 or Foundation interpretation of the teachings of The
-URANTLA Book, the vicws expressed herein are based
+URANTIA Book, the vicws expressed herein are based
 wholly upon each author's understanding and personal
 religious experience.
 Copyright 91986 by URANTIA Brotherhood Corpora-

@@ -36,13 +36,13 @@ It is in our time and through our lives that the revelation of truth is being tr
 
 The foundation of Urantia is the religious experience of Jesus. His demonstration that ordinary men can know and find God will be the pattern and destiny of our revelation of this planet. I might say that his experience in us will be a revelation to the universe itself. We are called, and I believe that is why we are here, to show that man can, through faith, find God and that this God will transform us — if we will let him — into sons of justice and ambassadors of his kingdom. The men and women of Urantia can and will rise to the occasion and, like Ellanora on the planet Panoptia, seize the spiritual reins of this rebellious sphere and transform our world of sorrow and ignorance into a paradise of love and light. The torch is passed on. We, the living men and women, can
 
-## The Urantlan。 Journal Of Uzanta, Brotherhood <Br> Published Quarterly By <br> URANTIA Brotherhood <br> 533 Diversey Parkway <br> Chicago Illinois 60614
+## The Urantian。 Journal Of Uzanta, Brotherhood <Br> Published Quarterly By <br> URANTIA Brotherhood <br> 533 Diversey Parkway <br> Chicago Illinois 60614
 
 Subscription Price: $4.00 a year
 
 International Subscribers — add $1.00 for postage
 
--All quotations within this Journal, unless otherwise indicated, are from The URANTLA Book and are used with the permission of the URANTIA Foundation, the copyright owner.
+-All quotations within this Journal, unless otherwise indicated, are from The URANTIA Book and are used with the permission of the URANTIA Foundation, the copyright owner.
 
 Copyright 1980 by URANTIA Brotherhood Corporation. All riphts reserved. Printed in U.S.A. turn from this day and reveal to all the reality of the living God.
 

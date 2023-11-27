@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 xxxx<br>© 1983 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 
-## Journal Of Uranta Brotherhood
+## Journal Of Urantia Brotherhood
 
 The following was the Keynote Address given at the 1983 Intensive Study Seminar.
 
@@ -51,7 +51,7 @@ All quotations within this Journal, unless otherwise
 indicated, are from _The URANTIA Book_, e1955,
 and are used with the permission of the URANTIA
 Foundation, the copyright owner.
-Inasmuch as there is no official URANTLA Brotherhood
+Inasmuch as there is no official URANTIA Brotherhood
 or Foundation interpretation of the teachings of The
 URANTIA Book, the views expressed herein are based
 wholly upon each author's understanding and personal

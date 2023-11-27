@@ -39,7 +39,7 @@ We all do this in our own realms as our life styles, environments, talents, and 
 
 In order to progress with these desires it would seem useful to look toward truth, beauty, and goodness to provide a philosophical framework for further thinking and action. If we base educational philosophy on these three concepts we will be integrating the principles of education with divine reality. “Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love,” (43.4) We, as parents and educators, cannot provide the actual unification of truth,
 
-## Journal Of Uranta* Brotherhood
+## Journal Of Urantia* Brotherhood
 
 beauty, and goodness — “The unity of truth, beauty, and goodness can only be realized in the spiritual experience of the God-knowing personality.” (2096.1) but we can be clear in our minds as to the purpose of all universe education so that we can arrange and incorporate methods, techniques, attitudes, and curriculum into environments which are conducive to this unification. Particularly helpful are the following statements.
 

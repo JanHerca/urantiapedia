@@ -32,13 +32,13 @@ To be a peacemaker in this chaos of ideologies one must appreciate the values th
 
 A philosophy of living can express cosmic, universal, and divine values without taking positions on social, economic, and political issues. Much of the ideological battle today has to do with totalitarianism and democracy, capitalism and socialism, nationalism and communism. Ideological struggles over these matters form part of the backdrop for the new construction. Philosophy is capable of becoming directly involved in these controversies; but the religious challenge is not to produce a new political theory, an attractive economic vi-
 
-## Journal Of Uranta Brotherhood
+## Journal Of Urantia Brotherhood
 
 sion, or an exquisite blueprint for interracial peace and progress. The project assigned by the Divine Counselor comes down on the personal and spiritual side of life, rather than the material and social side. The care with which this fronticr is understood and respected will greatly affect the serviceableness of what we construct. It must be possible to speak of certain helpful essentials that will indirectly illuminate these issues-but without entering the same battleground. Can we manage it?
 
 Farseeing and forward-looking. A farseeing planetary perspective ranges back to the stone age and forward to the advanced culture of destiny. It is not overwhelmed by the immediate problems of its own generation. A new age is under construction. A forward-looking perspective is not chained to philosophic tradition. The more accurately we can discern planetary developments, the more strategically we can emphasize timely facets of truth, even as Jesus did in teaching the gospel! "By this process of gradually changing man's will and thus affecting human decisions, Michacl and his associates are likewise
 
-## The Urantlan Journal Of Uantia \Oplus Brotherhood
+## The Urantian Journal Of Uantia \Oplus Brotherhood
 
 Published Quarterly by
 
@@ -150,7 +150,7 @@ Similarly Immanuel explains that Jesus' mission was to reveal the Father:
 
 " 'Your great mission to be realized and experienced
 
-## Journal Of Uranta Urotherhood \Circledast
+## Journal Of Urantia Urotherhood \Circledast
 
 in the mortal incarnation is embraced in your decision to live a life wholeheartedly motivated to do the will of your Paradise Father, thus to reveal God, your Father, in the flesh and especially to the creatures of the flesh,'" (1328.5)
 

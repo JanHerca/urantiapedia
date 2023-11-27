@@ -32,7 +32,7 @@ These are only two of thousands of examples of history where results have far ex
 
 In writing recently about God the Supreme, my mother once said the important thing seemed to be to “keep on keeping on,” in other words, to hang in there, to continue our best efforts or ideas as we see them. There is something in the universe, the seraphic connection, that, if you will, will intensify these efforts and bring about the best results for all concerned. We may not recognize the results as such, or even live to see them: but faith assures that, with help from our unseen friends, things work out for good. This is the meaning of the morontia mota, “The act is ours; the consequences God's.” (556.13)
 
-In the early days of the dissemination of The URANTlA Book and its teachings, its spread has been slow but increasingly certain. I'm sure the seraphim are assisting the true efforts of all the individuals concerned with the movement. With such help we are assured of success. I'm also convinced that the long-term result of the URANTIA revelation, when viewed as history sometime in the future, will be greater than any involved with the movement in these very early days can foresee. I believe the seraphic connection will continue and will add to our efforts. As people become more willing to follow their higher ideas, religiously, politically, and socially, there is nothing that can't be attempted and eventually accomplished.
+In the early days of the dissemination of The URANTIA Book and its teachings, its spread has been slow but increasingly certain. I'm sure the seraphim are assisting the true efforts of all the individuals concerned with the movement. With such help we are assured of success. I'm also convinced that the long-term result of the URANTIA revelation, when viewed as history sometime in the future, will be greater than any involved with the movement in these very early days can foresee. I believe the seraphic connection will continue and will add to our efforts. As people become more willing to follow their higher ideas, religiously, politically, and socially, there is nothing that can't be attempted and eventually accomplished.
 
 ## Lindbergh The Angelic Influence
 
@@ -50,10 +50,10 @@ Chicago Illinois 60614
 Subscription Price: $4.00 a year
 International Subscribers — add $1.00 for postage
 -All quotations within this Journal, unless otherwise
-indicated, are from The LIRANTIA Bask and are used
+indicated, are from The URANTIA Bask and are used
 with the permission of the URANTIA Foundation, the
 copyright owner.
-Copyright (E1980 by URANTLA Brotherhood Corpo-
+Copyright (E1980 by URANTIA Brotherhood Corpo-
 ration. All rights reserved. Printed in U.S.A.
 
 ploration, and writing. He also served for long periods as an advisor to various industries and governments.
@@ -108,7 +108,7 @@ Marilyn Ferguson, in “The Aquarian Conspiracy.” a book you must read, says a
 
 “This phenomenon sounds mystical only because we do not understand it. But there are innumerable clues available given the right frame of mind — openness the availability to synthesize the clues into the whole.”
 
-1 have never forgotten the moon shot when I heard a countdown that went from 10 to 3 and then ended with the words, “guidance is internal.”
+I have never forgotten the moon shot when I heard a countdown that went from 10 to 3 and then ended with the words, “guidance is internal.”
 
 Indeed it is. A 1978 Gallup poll reported that ten million Americans were engaged in some aspect of Eastern religion and nine million in spiritual healing. Probably the main aspect that most were engaged in was some form of meditation — even as I was. With me, it was an idea l'd gleaned from _The URANTIA Book_, not any Eastern discipline.
 
@@ -128,7 +128,7 @@ which this belief is so stubbornly attached, must have real survival value, and 
 
 This sense of wonder fills me as I tead the Tribune articles on brain research; as I hear how a six-year-old hemopheliac can be taught self-hypnosis in order to direct blood flow away from a site of injury in order to prevent injury to his joints; and I read about biofeedback and see people beginning to take responsibility for themselves as they realize the power of self-control and self-regulation that is within them. I am excited by the use of imagery techniques in treating disease. People are beginning to realize that they are not powerless, but they are also realizing that their power is somehow tied up with goodness and proper use.
 
-The URANTLA Book says, “Within the bounds of that which is consistent with the divine nature, it is literally true that with God all things are possible.' The long-drawn-out evolutionary processes of peoples. planets, and universes are under the perfect control of the universe creators and administrators and unfold in accordance with the eternal purpose of the Universal Father, proceeding in harmony and order and in keeping with the all-wise plan of God. There is only one lawgiver,” (46.6) Well, I think God wants me to try very hard to understand quantum physics and to figure out just as much as I can about his laws and how things work and to try to stay in tune with the Divine Nature so that I don't run amok.
+The URANTIA Book says, “Within the bounds of that which is consistent with the divine nature, it is literally true that with God all things are possible.' The long-drawn-out evolutionary processes of peoples. planets, and universes are under the perfect control of the universe creators and administrators and unfold in accordance with the eternal purpose of the Universal Father, proceeding in harmony and order and in keeping with the all-wise plan of God. There is only one lawgiver,” (46.6) Well, I think God wants me to try very hard to understand quantum physics and to figure out just as much as I can about his laws and how things work and to try to stay in tune with the Divine Nature so that I don't run amok.
 
 It's what we want for our children. We want them to exercise their divine curiosity, to keep fresh their sense of wonder, and to develop their precious and wonderful brains in a way we never have with our brains. A lovely Hebrew proverb says: “Do not confine your children to your own learning, for they were born in another time,” We want to teach our children in such a way that we increase their capacity for self-transcendance and evolutionary leaps. But to reach the children, you must first reach their parents and teachers so that crippling techniques of child-rearing are not practiced and the teachings of Jesus are. _The URANTIA Book_ says: “In this work of passing on the cultural torch to the next generation, the home will ever be the basic institution. The play and social life comes next, with the school last but equally indispensable in a complex and highly organized society.” (909.5)
 
@@ -138,7 +138,7 @@ The big new word in science is “paradigm,” which just means “the way thing
 
 And today the Theosophical Library has two copies of _The URANTIA Book_ and a waiting list a mile long to get it out. Not only do all of m y best friends know about it; some have even read it. And many acquaintances have seen it and heard about it.
 
-I must stop. I think that after all this time l've only said two things about renewing and revitalizing society. First, that as an individual, you must never stop trying to enlarge your capacity for love and loving service by any and all means that are possible to you, and second. that it is of prime importance to keep in touch with what is going on in the world so that we will know when our time comes, so that we can sense the increasing readiness that exists, even now, for the fact and teachings of _The URANTIA Book_.
+I must stop. I think that after all this time I've only said two things about renewing and revitalizing society. First, that as an individual, you must never stop trying to enlarge your capacity for love and loving service by any and all means that are possible to you, and second. that it is of prime importance to keep in touch with what is going on in the world so that we will know when our time comes, so that we can sense the increasing readiness that exists, even now, for the fact and teachings of _The URANTIA Book_.
 
 —Annis M. Warsh
 
@@ -150,7 +150,7 @@ The following article was writfen by an Episcapalian minister who has NOT read _
 
 A Christian, no matter how modern in viewpoint, should be open to the fact that God's creation extends beyond his comprehension or experience, Because of this, and because angels have been part of scripture and teaching throughout the years, a Christian is open to the possibility that angels exist and that they serve a special function in creation.
 
-## Journal Of Uranta * Brotherhood
+## Journal Of Urantia * Brotherhood
 
 For the most part, Christians under modern influence tend to view angels as Protestants do praying to the saints. That is, they “eliminate the middle man.” Most people experience God interceding directly into their lives rather than through some celestial being.
 
@@ -165,7 +165,7 @@ A Christian's goal in life is to become what God means him to be. Any person or 
 
 ## The Seraphim
 
-1 have elected myself and have been given a share of participation in our Universal Plan; spiritually I know that my guardian angel beckons me in a manner that is. delightful, but persuasive.
+I have elected myself and have been given a share of participation in our Universal Plan; spiritually I know that my guardian angel beckons me in a manner that is. delightful, but persuasive.
 
 A body of 144 seraphim serves on an evolutionary sphere of creature habitation: “These angels preside over all seraphic assemblies pertaining to the line of duty or call to worship.” (429.3)
 

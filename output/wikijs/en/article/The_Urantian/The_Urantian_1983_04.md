@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 xxxx<br>© 1983 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 
-## Journal Of Uranta _{\Circledast} Brotherhood
+## Journal Of Urantia _{\Circledast} Brotherhood
 
 ## How Do Science And Technology Contribute To Spiritual Growth?
 
@@ -50,7 +50,7 @@ Predicting is difficult, if not impossible, but when does it seem as if life wil
 
 “This new and oncoming social order will not settle down ... for a millenium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny.” (1086.4)
 
-## The Urantian Journal Of Uranta B Brotherhood ^{2}
+## The Urantian Journal Of Urantia B Brotherhood ^{2}
 
 Published Quarterly by
 
@@ -66,9 +66,9 @@ International Subscribers — add $1.00 for postage
 
 - All quotations within this Journal, unless otherwise indicated, are from _The URANTIA Book_, 91955 , and are used with the permission of the URANTIA Foundation, the copyright owner.
 
-lnasmuch as there is no official URANTLA Brotherhood or Foundation interpretation of the teachings of The URANTLA Book, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
+lnasmuch as there is no official URANTIA Brotherhood or Foundation interpretation of the teachings of The URANTIA Book, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
 
-Copyright 1983 by URANTLA Brotherhood Corporation. All rights reserved. Printed in U.S.A.
+Copyright 1983 by URANTIA Brotherhood Corporation. All rights reserved. Printed in U.S.A.
 “Urantia society can never hope to settle down as in past ages.” ((1086.6) “The violent swing from an age of miracles to an age of machines,” says _The URANTIA Book_, “has proved altogether upsetting to man,” (*(2077.2) We can expect to be dislodged from our environment of familiarity on a very regular basis. Rapid change will be far more constant than constancy. Amidst this turmoil of change, the progeny of technological progress, lies a huge spiritual challenge to find real constancy and real stability in the experience of knowing God.
 
 “During the psychologically unsettled times of the twentieth century, amid the economic upheavals, the moral crosscurrents, and the sociologic rip tides of the cyclonic transitions of a scientific era, thousands upon thousands of men and women have become humanly dislocated; they are anxious, restless, fearful, uncertain, and unsettled; as never before in the world's history they need the consolation and stabilization of sound religion. In the face of uprecendented scientific achievement and mechanical development there is spiritual stagnation and philosophic chaos.” (1090.2)
@@ -176,7 +176,7 @@ But technology is now playing a large part in what appears to be a trend toward 
 
 As home and business computers become more popular, we will likely see an increase in the percentage of time that people in our service-based economy will spend working out of their homes. The increase in time spent at home is a coming opportunity for family culture, the building block of civilization and our most important character-building institution,
 
-## Journal Of Uranta ॥ Brotherhood \Diamond
+## Journal Of Urantia ॥ Brotherhood \Diamond
 
 If you sum up all of these challenges and opportunities, what would be the overall long distance view of science and technology's contribution to spiritual growth? I believe that, if we could see this century from 1000 years hence, we would say that technology catapaulted civilization into a more advanced spiritual age. If we make it out of the current age of nationalism alive, it seems clear that we will see the birth of a new age of spiritual growth, and science and technology will have built the physical and social context for that age.
 
@@ -185,7 +185,7 @@ From various sources, we get glimmerings of the transformation that is afoot. Ma
 “Broader than reform, deeper than revolution, this benign conspiracy for a human agenda has triggered the most rapid cultural alignment in history.”
 
 Lewis Murnford talks about the age of “The New Person,” the age that he says will make the renaissance look like a still birth.
-The URANTLA Book tells us that we are quivering on the brink of the greatest spiritual renaissance that the world has ever known. Our social ship has just left the sheltered bays of established tradition and begun its voyage to a new age on the high seas of planetary destiny, and says _The URANTIA Book_:
+The URANTIA Book tells us that we are quivering on the brink of the greatest spiritual renaissance that the world has ever known. Our social ship has just left the sheltered bays of established tradition and begun its voyage to a new age on the high seas of planetary destiny, and says _The URANTIA Book_:
 
 “ ... the soul of man, as never before in the world's history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance,” (1086.6)
 

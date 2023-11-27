@@ -14,7 +14,7 @@ Volume 12, Number 2
 
 Summer, 1987
 
-## Journal Of Uranta ^{*} Brotherhood
+## Journal Of Urantia ^{*} Brotherhood
 
 ## Sexism And The Urantia Book
 
@@ -94,7 +94,7 @@ In these early days of the revelation, many readers of _The URANTIA Book_ find o
 
 _The URANTIA Book_ has this light to offer us: “Short seasons of retreat from the busy scenes of life may not be seriously dangerous, but prolonged isolation of personality is most undesirable.” (1099.7) Rodan of Alexandria tells us that “Fear, envy, and conceit can be prevented only by intimate contact with other minds.” (1776.2) Finally, with Jesus talking to Nathaniel we find this admonishment: ^{-}... in that event dedicate your life to proving that the God-knowing disciple can become a kingdom builder even when alone in the world and wholly isolated from his fellow believers." (1961.2)
 
-Clearly we can see from all of this that personality isolation is to be avoided. Although I think that efforts should be made to travel to attend meetings and con- ventions when possible as well as trying to get a study group going in your own area, I think there are some alternatives the isolated URANTLA Book reader might try along with these other forms of interaction.
+Clearly we can see from all of this that personality isolation is to be avoided. Although I think that efforts should be made to travel to attend meetings and con- ventions when possible as well as trying to get a study group going in your own area, I think there are some alternatives the isolated URANTIA Book reader might try along with these other forms of interaction.
 
 In each community there are many civic and religious institutions. Many of us are part of these already, and by using information from the book and the discernment of the Spirit of Truth, we can select the groups closest to the high concepts to which we are loyal. Having found a group with whom we can be somewhat comfortable, we can begin participating, bring to it ourselves and what we have learned and are learning from _The URANTIA Book_. Not all are ready for _The URANTIA Book_; most of us have found this out already, so judgement will have to play a part in our spiritual dealings with folks in the community.
 
