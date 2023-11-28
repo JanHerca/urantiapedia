@@ -32,7 +32,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
-<img src="/image/article/606/606_Banner.jpg">
+<img src="/image/article/606/606_banner.jpg">
 </figure>
 
 P.0.Box 606, Brighton, Victoria, AUSTRALIA, 3186.
