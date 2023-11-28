@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Helena Sprague<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Rubbing Pebbles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Hill/The_Atlanta_Approach">
+          <span class="pr-2">The Atlanta Approach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 There are as many different ways for study groups to conduct their meetings as there are groups. A survey in some sections of the East resulted in these brief profiles:
 
@@ -31,3 +55,27 @@ There are as many different ways for study groups to conduct their meetings as t
 **Group 9** is composed of four families, and meets Friday evenings, twice a month. They are reading from the beginning, with occasional digression to a requested paper. Each member reads a section; discussion is frequent, and the paper is not always completed.
 
 —_Helena Sprague_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Rubbing Pebbles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_Hill/The_Atlanta_Approach">
+          <span class="pr-2">The Atlanta Approach</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

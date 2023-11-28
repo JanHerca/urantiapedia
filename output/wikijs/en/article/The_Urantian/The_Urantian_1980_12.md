@@ -10,12 +10,6 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 xxxx<br>© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 
-Volume 4, Number 4
-
-WINTER, 1980
-
-Journal of UZANTA \approx Brotherhood
-
 ## The Revelation Of Man
 
 This speech was given by lin McNeily, mesident of the Rocky Mt. URANTIA Society of Denver, at this new Society's instalJation on Febraary 16 , J9so.

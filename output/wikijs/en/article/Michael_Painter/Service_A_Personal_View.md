@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Michael Painter<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mary_Snider/One_To_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">One To One</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="pr-2">The Rubbing Pebbles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Service? Seemingly a common word; yet what does it really mean? Pause and reflect a moment on what service means to you and then read on as I attempt to share some thoughts with you.
 
@@ -28,6 +52,30 @@ If Jesus loved to do little things for people, then surely it must be worth the 
 
 —_Michael Painter_
 
-> “_...Love is the outworking of the divine and inner urge of life. It is founded on understanding, nurtured by unselfish service, and perfected in wisdom._” ([UB 174:1.5](/en/The_Urantia_Book/174#p1_5)).
+> “_...Love is the outworking of the divine and inner urge of life. It is founded on understanding, nurtured by unselfish service, and perfected in wisdom._” (<a id="a54_159"></a>[UB 174:1.5](/en/The_Urantia_Book/174#p1_5)).
 
-> “_...brotherhood and service are the cornerstones of the gospel of the kingdom._” ([UB 178:1.4](/en/The_Urantia_Book/178#p1_4))
+> “_...brotherhood and service are the cornerstones of the gospel of the kingdom._” (<a id="a56_85"></a>[UB 178:1.4](/en/The_Urantia_Book/178#p1_4))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Mary_Snider/One_To_One">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">One To One</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bernard_Burton/The_Rubbing_Pebbles">
+          <span class="pr-2">The Rubbing Pebbles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

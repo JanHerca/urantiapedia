@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 David Schlundt<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus On The Individual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#march-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">March 1976 issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julia_Fenderson/FUSLA_Study_Group_Guidelines">
+          <span class="pr-2">FUSLA Study Group Guidelines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The central uniqueness of the URANTIA Book orientation lies, in the last analysis, on its focus upon singular individual guidance by means of the indwelling Thought Adjuster. The everyday behavioral consequences of this “giant leap forward for mankind” are immediate and profound, ranging from here through eternity, and for every individual of will capacity regardless of any other qualifications. It is a revolutionary transformation in the meaning of the authentic personhood, and from it follows the promise of a new community.
 
@@ -21,3 +45,27 @@ Herein eventuates a fresh level of community majestic individuals even in life's
 At last the supreme and loving patience of Jesus with his wayward children on all levels makes sense, for time itself is re-valued from the Omega perspective. Each of us as humans, no more, no les5, is equal on the highest level of being — through direct contact with God-internal, an internal fragment of the Father Himself. And that can only lead to the deepest, highest regard for the individual ever manifested on this planet Urantia.
 
 —_David Schlundt_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Focus On The Individual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#march-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">March 1976 issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Julia_Fenderson/FUSLA_Study_Group_Guidelines">
+          <span class="pr-2">FUSLA Study Group Guidelines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

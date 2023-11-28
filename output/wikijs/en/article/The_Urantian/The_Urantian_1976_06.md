@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Stan and Ruth Hartman, Charles Laurence Olivea, Richard F. Prince, Mario C.J. Harrington, Ruth E. Renn, David and Sue Kantor and Heather Christine<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#june-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">June 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="pr-2">A Philosophy Of Brotherhood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## A Philosophy Of Brotherhood
 
@@ -48,7 +69,7 @@ I think it is important to remember that we are told over and over again in the 
 
 ## Guidance Of The Most Highs
 
-Forty years have elapsed since the Fifth Epochal Revelation was given to our world. Step by step a new generation is taking over the helmsmanship of our nations. Consider that during that period we have seen another world war and several other major military engagements. This should prompt us to remember that “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2)).
+Forty years have elapsed since the Fifth Epochal Revelation was given to our world. Step by step a new generation is taking over the helmsmanship of our nations. Consider that during that period we have seen another world war and several other major military engagements. This should prompt us to remember that “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” (<a id="a71_480"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)).
 
 We should reflect therefore on the special role the Most High Assistant is playing on our planet in leading the twelve corps of the master seraphim of planetary supervision. The task of co-ordinating the multifarious talents of the different groups in times such as these deserves our greatest admiration and appreciation as well nigh all the institutions we have come to accept are undergoing deep transformations that will lead us in due time to a world settled in light and life.
 
@@ -85,5 +106,27 @@ Now address ourselves as a family.
 
 > “When men search for God, they are searching for everything. When they find God, they have found everything. The search for God is the unstinted bestowal of love attended by amazing discoveries of new and greater love to be bestowed... 
 > 
-> All true love is from God, and man receives the divine affection as he himself bestows this love upon his fellows.” ([UB 117:6.9-10](/en/The_Urantia_Book/117#p6_9)).
+> All true love is from God, and man receives the divine affection as he himself bestows this love upon his fellows.” (<a id="a108_119"></a>[UB 117:6.9-10](/en/The_Urantia_Book/117#p6_9)).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#june-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">June 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="pr-2">A Philosophy Of Brotherhood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

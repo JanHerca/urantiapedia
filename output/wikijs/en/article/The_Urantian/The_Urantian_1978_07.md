@@ -8,27 +8,38 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 David Glass, Mark Kulieke, Irene Sprunger, Virginia Varnum, Frances Huttington<br>© 1978 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 David Glass, Mark Kulieke, Irene Sprunger, Virginia Varnum, Frances Huttington, Thomas Wicks<br>© 1978 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1978-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1978 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Contacting_The_Kingdom_Within">
+          <span class="pr-2">Contacting The Kingdom Within</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Contacting The Kingdom Within
 
-> “_‘The kingdom of God is within you’ was probably the greatest pronouncement Jesus ever made, next to the declaration that his Father is a living and loving spirit._” ([UB 195:10.4](/en/The_Urantia_Book/195#p10_4))
+> “_‘The kingdom of God is within you’ was probably the greatest pronouncement Jesus ever made, next to the declaration that his Father is a living and loving spirit._” (<a id="a35_170"></a>[UB 195:10.4](/en/The_Urantia_Book/195#p10_4))
 
 In Jesus' teachings about the “kingdom of God within,” he imparted a great deal of truth and wisdom respecting this inner realm of spirit reality, contactable by our minds, which the Father has bestowed upon each of us. And our knowledge about the Father's inner spirit presence has been greatly augmented by our fifth epochal revelation. At the center of the inner kingdom, there dwells an actual, perfect spirit fragment of the living God. The inner spirit kingdom is the source of the inspiration and the ideals by which our planetary civilizations are advanced, and the spirit fragments of God within us are the indispensable sources upon which we draw for the evolution of our human wisdom.
 
 There are four realms of spiritual life relevant to the human attempt to contact the Father's indwelling kingdom. These are the exercise of faith, the consecration of will, the experience of love, and the ministry of service.
 
-Machiventa taught that faith in God is all that is necessary to establish a direct and favorable relationship with God...simple faith in the goodness of God is sufficient to insure the post-mortal survival of man's ascending soul. Faith is man's first and indispensable gateway to the personal and experiential discovery of God. Jesus taught, “_Revealed truth, personally discovered truth, is the supreme delight of the human soul;... But truth can never become man's possession without the exercise of faith._” ([UB 132:3.4-5](/en/The_Urantia_Book/132#p3_4)) By faith man achieves spiritual freedom through the personal discovery of the reality of God and of his divine presence within.
-
-Freedom of choice and liberty of will is one of the Father's greatest gifts to his mortal children. And man's highest personal use of his freewill liberty consists in the decision to seek and to do the perfect will of his Paradise Father. Jesus says, “_Never forget there is only one adventure which is more satisfying and thrilling than the attempt to discover the will of the living God, and that is the supreme experience of honestly trying to do that divine will._” ([UB 155:6.11](/en/The_Urantia_Book/155#p6_11)) In exercising his free will, man discovers his capacity for both correct and erroneous judgment. But through his decision to align the functionings of his mortal will with the Father's all-wise will, man causes the creative lines of the thought world of his inner life gradually to draw into concordant unison with the perfect thinking of his individualized fragment of divinity. And this progressive unification of man's will and God's will is initially consummated in the fusion of man's surviving soul with its associated Thought Adjuster, which is the will of God. The consecration of man's will to the pursuit of the Father's will makes possible man's finding of God in the inner spirit kingdom, in his ascension of the universe, on the Isle of Paradise and in eternity.
-
-The love of God for man and for all of his universe children is unlimited, spontaneous, and inherent in the Father's perfect goodness. The love of man for God makes it possible for man to achieve communion with the Father on the highest level of selfhood, personality. Love is the only experiential realm wherein man has immediate access to the infinite Father. The sharing of love between man and his heavenly Father serves to stabilize, balance, and unify the individual selfhood of man. “_All true love is from God, and man receives the divine affection as he himself bestows this love upon his fellows, Love is dynamic. It can never be captured; it is alive, free, thrilling, and always moving._” ([UB 117:6.10](/en/The_Urantia_Book/117#p6_10))
-
-It is the divine Thought Adjuster that provides the channel through which the love of God emerges into human consciousness, whereafter it may then be expressed to human brothers. Brotherly love has sufficient power in and of itself to effect the spiritual awakening of all Urantia! Service of one's brothers represents the act of the creature's stepping into willing partnership with the Creator.
-
-Loving and serving one's brother releases in him the vast spirit potentials of his inner kingdom and thereby improves the likelihood of his being able to fulfill his own latent spiritual endowments. Through service, man's endowment of spiritual power multiplies through distribution like blessed loaves and fishes.
-
-Contacting the kingdom within must result in the realization of the kingdom without. Through faith and willful effort, through the reception of divine love and its sharing in brotherly service, progressively shall the Father's will be done and his kingdom come on earth as it is in heaven!
+[Read more](/en/article/David_Glass/Contacting_The_Kingdom_Within)
 
 _David Glass_
 _Bradenton, Florida_
@@ -37,15 +48,11 @@ _The above material excerpted from a speech prepared for the Third State Confere
 
 ## Learning Tolerance
 
-The process of spiritualizing our personalities unfolds in our relationships among men. “_If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love._” ([UB 100:4.4](/en/The_Urantia_Book/100#p4_4)) And, said Jesus: “_Love is the ancestor of all spiritual goodness, the essence of the true and the beautiful._” ([UB 192:2.1](/en/The_Urantia_Book/192#p2_1))
+The process of spiritualizing our personalities unfolds in our relationships among men. “_If once you understand your neighbor, you will become tolerant, and this tolerance will grow into friendship and ripen into love._” (<a id="a50_223"></a>[UB 100:4.4](/en/The_Urantia_Book/100#p4_4)) And, said Jesus: “_Love is the ancestor of all spiritual goodness, the essence of the true and the beautiful._” (<a id="a50_381"></a>[UB 192:2.1](/en/The_Urantia_Book/192#p2_1))
 
-We are further told that “_It is not so important to love all men today as it is that each day you learn to love one more human being._” ([UB 100:4.6](/en/The_Urantia_Book/100#p4_6)) To keep up production on love implies that we must be learning to tolerate one more person each day, and this in turn implies that we are learning to understand one more person each day. The key to tolerance, love, and spiritual goodness is _understanding_ — a function of mind.
+We are further told that “_It is not so important to love all men today as it is that each day you learn to love one more human being._” (<a id="a52_138"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)) To keep up production on love implies that we must be learning to tolerate one more person each day, and this in turn implies that we are learning to understand one more person each day. The key to tolerance, love, and spiritual goodness is _understanding_ — a function of mind.
 
-The use of the word ‘learning’ in association with love and tolerance also implies intelligent effort, not a “_...mere act of will_” ([UB 100:4.6](/en/The_Urantia_Book/100#p4_6)) Kahlil Gibran has indicated that he learned “_...toleration from the intolerant..._” perhaps one useful approach. However, as always, the positive way of learning is found to be most effective the way exemplified by Jesus.
-
-We witness in his life that Jesus was broadminded and fair, that he truly understood men and was generous in his sympathy, that he trusted men and was revered for his tolerance. If Jesus could find good in so many men, surely it is there to be found by us, too, if we undertake an energetic search.
-
-At the most fundamental level, we learn from Jesus that love and tolerance are predicated upon faith, for he says in reference to the Spirit of Truth: “_When the new teacher comes, let him teach you the poise of compassion and that sympathetic tolerance which is born of sublime confidence in me and of perfect submission to the Father's will._” ([UB 181:2.15](/en/The_Urantia_Book/181#p2_15))
+[Read more]()
 
 _Mark Kulieke_
 _Evanston, Illinois_
@@ -54,32 +61,22 @@ _Evanston, Illinois_
 
 Truth has its origin in reality relationships. Truth is an attempt to understand the greatest relationship in the universe: divine love. The most significant revelation of love and truth to man on our world is Jesus of Nazareth. His Spirit of Truth unerringly guides us to all truth.
 
-From an experiential point of view, we often empathize with Pilot's observation, “_Truth, what is truth — who knows?_” ([UB 185:3.5](/en/The_Urantia_Book/185#p3_5)) In our experience we proceed from facts (knowledge) to truth, to wisdom in the progressive realization of reality — God. Truth is a universe value perceived by the spirit-stimulated mind, and is an experience of the soul. The discovery of truth is a supreme delight of evolving man. Experience leads man to hunger for truth.
+From an experiential point of view, we often empathize with Pilot's observation, “_Truth, what is truth — who knows?_” (<a id="a63_120"></a>[UB 185:3.5](/en/The_Urantia_Book/185#p3_5)) In our experience we proceed from facts (knowledge) to truth, to wisdom in the progressive realization of reality — God. Truth is a universe value perceived by the spirit-stimulated mind, and is an experience of the soul. The discovery of truth is a supreme delight of evolving man. Experience leads man to hunger for truth.
 
 Truth is basic to both science and philosophy, the intellectual foundation of religion. Truth is coherent and consistent and, therefore, a reliable criterion for action. It is lived with highly beneficial results. When truth, beauty, and goodness are integrated in human experience they tend to produce health and happiness. Truth achieves its highest expression in living. Truth is a living universe reality which cannot be imprisoned in dogma, creed, or philosophic expression.
 
-The truths of experience can be confusing and even misleading when seen in isolation. We should strive to see every truth in its relational wholeness. Truth is beautiful and good. Spirit guidance is always essential in the discovery of truth. “_God answers man's prayers by giving him an increased revelation of truth, an enhanced appreciation of beauty, and an augmented concept of goodness._” ([UB 91:8.11](/en/The_Urantia_Book/91#p8_11))
-
-Larger insights and revelations of truth lead to new visions of reality, along with new freedoms and potentials for living. Truth in man's experience is always relative and expanding. We should ever remember that one of the central purposes of group religious activity is to magnify the lures of truth, beauty, and goodness.
+[Read more](/en/article/Irene_L_Sprunger/What_Is_Truth)
 
 _Irene Sprunger_
 _Fort Wayne, Indiana_
 
 ## Quest For Goodness
 
-God-wardness is a kind of goodness: “the pursuit of the ideal.” It uses different muscles, it thrives on love. “_Until you attain Paradise levels, goodness will always be more of a quest than a possession..._” ([UB 132:2.8](/en/The_Urantia_Book/132#p2_8)) God-wardness is a “_thirst for divine perfection_” ([UB 150:5.5](/en/The_Urantia_Book/150#p5_5)) accomplished with God's own help together with the whole hierarchy of spirit beings and the God-expression from within you.
+God-wardness is a kind of goodness: “the pursuit of the ideal.” It uses different muscles, it thrives on love. “_Until you attain Paradise levels, goodness will always be more of a quest than a possession..._” (<a id="a74_211"></a>[UB 132:2.8](/en/The_Urantia_Book/132#p2_8)) God-wardness is a “_thirst for divine perfection_” (<a id="a74_308"></a>[UB 150:5.5](/en/The_Urantia_Book/150#p5_5)) accomplished with God's own help together with the whole hierarchy of spirit beings and the God-expression from within you.
 
 God-wardness is the total, forever, onward, growth with room for you and for me. An all-together growth finding God's purposes small and large, acting on them with trust, and thirsting for God. My purposes may seem to conflict with others sometimes, but we come with certainty, clarity of purpose, love for God as the over-ride and grace the result.
 
-“_Graciousness is the aroma of friendliness which emanates from a love-saturated soul. Goodness always compels respect, but when it is devoid of grace, it often repels affection. Goodness is universally attractive only when it is gracious. Goodness is effective only when it is attractive._” ([UB 171:7.1-2](/en/The_Urantia_Book/171#p7_1))
-
-“_But even as you hunger and thirst for righteousness, you experience increasing satisfaction in the partial attainment of goodness._” ([UB 132:2.8](/en/The_Urantia_Book/132#p2_8)) This partial attainment of goodness gives a delightfully joyous lift. Watch the ripples widening as a well-taken choice affects first one person then another, then many with a touch of benefit and subtle change.
-
-With this change of direction, are my decisions more easily taken? Some are so easy now that they don't even feel like decisions. Then there are others where once I would have drifted; perhaps now I have a keener recognition of a decision situation now, one of importance to religious growth. Prayer and the relaxed awareness of meditation help the decision making process, Sometimes I have a poignant moment of self-pity "if only this ... if only that"-but that's unreal and passes with the first implementation of the new choice.
-
-The action for God, once taken, becomes a new source of gladnes5, and the joyous ripples begin again.
-
-> “_The discernment of the divine goodness in the eternal truth, that is ultimate beauty._” ([UB 2:7.8](/en/The_Urantia_Book/2#p7_8))
+[Read more](/en/article/Virginia_Varnum/Quest_For_Goodness)
 
 _Virginia Varnum_
 _Staten Island, New York_
@@ -94,17 +91,7 @@ What sights — miles of blue sky, clouds and more clouds, rainbows, varieties o
 
 There are many school years in this defining. In these growth years, there are hints of spiritual awakening, a desire for more than random sense experience. Hopefully, we all have memories of teachers, loved ones, and friends who were adequately attentive to our curiosities, who were perceptive of our yearning — the yearning for expression, for creating.
 
-There are years of marriage and parenthood in this defining. Beauty has now experienced contrast and it is growing ever inward and it sometimes hurts! And there is a turning to God for help.
-
-When _The URANTIA Book_ came into my life, strange and overwhelming things began to happen. There were times when I could define anything clearly and accurately, particularly beauty with companions truth and goodness. There were eight of these years and I now call them my years of turbulence. “_Many spiritual births are accompanied by much anguish of spirit and marked psychological perturbations..._” ([UB 103:2.1](/en/The_Urantia_Book/103#p2_1))
-
-After these intense years I looked at the quality of simplicity with sincere longing. With Jesus, beauty was an adjunct in teaching children to worship. He had said, “_Beauty is most religious when it is most simple and naturelike._” ([UB 167:6.6](/en/The_Urantia_Book/167#p6_6))
-
-Now beauty has incorporated God hunger, the desire to be like him.
-
-> “_No matter how much you may grow in Father comprehension, your mind will always be staggered by the unrevealed infinity of the Father — I AM, the unexplored vastness of which will always remain unfathomable and incomprehensible throughout all the cycles of eternity. No matter how much of God you may attain, there will always remain much more of him, the existence of which you will not even suspect. And we believe that this is just as true on transcendental levels as it is in the domains of finite existence. The quest for God is endless!_” ([UB 106:7.5](/en/The_Urantia_Book/106#p7_5))
-
-This is beauty.
+[Read more](/en/article/Frances_Huttington/And_What_Of_Beauty)
 
 _Frances Huttington_
 Portland, Oregon
@@ -115,11 +102,32 @@ Sophistication is not just an echo from the past, a place marker in history rese
 
 In this sophistry drunk world, we all see the need for a Foundation to protect the purity and life of _The URANTIA Book_ text. I declare that we all are ‘foundations,’ in and of ourselves. Our responsibility lies not only with what is written but also with what will be written and said.
 
-The value of this Journal or any other medium of expression is its capacity to share thought, experiences, etc. “Sharing” is a key to perfection. Yet, what we sometimes spout with an all-wise smile, is the very subject matter that undoubtedly has had many a Divine Counselor working overtime. The purpose of _The URANTIA Book_ and all Spirit-led beings is to bring man closer to God, not sophistication. Rhetorical or verbal heroism is not achieved by baroque exuberance or imaginative speculation. The weeds of sophistication are ever choking the flowers of simplicity. We often cannot be heard for our words. Our message of salvation is soon to be consumed by the fires of overmuch verbal flag waving. The key to communication is simplicity.
+[Read more](/en/article/Thomas_Wicks/Sophistication_Versus_Wisdom)
 
-Simplicity is shunned by the sophists and latter day word-prophets but consider this: the New York Philharmonic once recorded eight minutes under the title “480 seconds of silence.” The natural windsong dancing over the instruments on the open air stage, was indeed, a million seller. If the sounds of silence can literally penetrate the music world, think of the concert a few simple words can perform on one's vocal chords. We can share the most with as many people by not allowing our words to interfere with our ministry and service.
+_Thomas Wicks_
+_Florence, Arizona_
 
-> “_Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love._” ([UB 48:7.28](/en/The_Urantia_Book/48#p7_28))
+> “_God is the first truth and the last fact; therefore does all truth take origin in him... God is absolute truth._” (<a id="a109_119"></a>[UB 102:6.6](/en/The_Urantia_Book/102#p6_6))
 
-> “_God is the first truth and the last fact; therefore does all truth take origin in him... God is absolute truth._” ([UB 102:6.6](/en/The_Urantia_Book/102#p6_6))
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1978-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1978 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Contacting_The_Kingdom_Within">
+          <span class="pr-2">Contacting The Kingdom Within</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

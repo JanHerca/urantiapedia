@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Charles Laurence Olivea<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Philosophy Of Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#june-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">June 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_F_Prince/Education_And_Love">
+          <span class="pr-2">Education And Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Dear Friends, I would like to share with you my thoughts about the future growth of URANTIA Brotherhood. These ideas reflect my interpretation of certain experiential and revelationary insights, I call them “principles of growth” for spiritual organizations:
 
@@ -20,3 +44,27 @@ Dear Friends, I would like to share with you my thoughts about the future growth
 6. **Work to restore the self-respect of others**. This world has many emotional refugees-men, women, and children whose psychic handicap undercuts the progressive realization of their soul potential. Help some of them. Touch their lives. Pray for the power and wisdom to do this. However, as a friend to us all once remarked, the good we would do to others should be tempered by graciousness. In order to respect one's fellows and to respect God, a person needs first to have a sense of dignity and to have some measure of self-confidence, the key elements in self-respect.
 
 — _Charles Laurence Olivea_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Stan_and_Ruth_Hartman/A_Philosophy_Of_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A Philosophy Of Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#june-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">June 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Richard_F_Prince/Education_And_Love">
+          <span class="pr-2">Education And Love</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

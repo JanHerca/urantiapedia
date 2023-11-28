@@ -9,12 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 William S. Sadler, Jr., Steve Dreier, Christy, David Schlundt, V.B.G.2, Julia Fenderson<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#march-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">March 1976 issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/A_Brotherhood_Not_A_Church_Or_A_Sect">
+          <span class="pr-2">A Brotherhood — Not A Church Or A Sect</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## A Brotherhood — Not A Church Or A Sect
 
 “What is the URANTIA Brotherhood? Another sect?” This question has been put to the writer of this report more than once. To this question, a negative answer has always been given, “No, the URANTIA Brotherhood is neither a church nor a sect. It is simply a social group which has a religious objective.”
 
-There is a real place in modern civilization for a group of religious people who are “_... willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. God alone is spirit sovereign._” ([UB 134:4.4](/en/The_Urantia_Book/134#p4_4)). The modern world hardly needs another church, another sect. At the present time, we suffer from a plethora of churches and multiplication of sects.
+There is a real place in modern civilization for a group of religious people who are “_... willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. God alone is spirit sovereign._” (<a id="a37_255"></a>[UB 134:4.4](/en/The_Urantia_Book/134#p4_4)). The modern world hardly needs another church, another sect. At the present time, we suffer from a plethora of churches and multiplication of sects.
 
 But, if we are not a church, how then do we differ from a church? If we can clearly see how we differ, then perchance we can maintain such differences. And, if we can maintain these differences, then we may be able to preserve our organization as a distinctive Brotherhood; we may be able to avoid a possible evolution in the direction of a church.
 
@@ -71,7 +92,7 @@ I do not know of any human organization which has, in reality, placed the indivi
 
 It is a joyful experience to learn from statements in _The URANTIA Book_ that God is interested in each one of us personally, individually. His antenna reaches out to each and every one of us. We should be aware of this fact in our daily existence, living each moment as though in His presence. How thrilling to know that our relationship with one another has survival value. One of my favorite quotations from _The URANTIA Book_ is on UB 112:5.22
 
-“... Personality and the relationships between personalities are never scaffolding; mortal memory of personality relationships has cosmic value and will persist. On the mansion worlds you will know and be known, and more, you will remember, and be remembered by, your onetime associates in the short but intriguing life on Urantia.” [UB 112:5.22](/en/The_Urantia_Book/112#p5_22)
+“... Personality and the relationships between personalities are never scaffolding; mortal memory of personality relationships has cosmic value and will persist. On the mansion worlds you will know and be known, and more, you will remember, and be remembered by, your onetime associates in the short but intriguing life on Urantia.” <a id="a94_333"></a>[UB 112:5.22](/en/The_Urantia_Book/112#p5_22)
 
 —_Christy_
 
@@ -117,5 +138,27 @@ Thank you for all the love you have given, and the strength that runs through ou
 
 Love...
 
-> “_All men are my brothers. My Father in heaven does not despise any creature of our making. The kingdom of heaven is open to all men and women. No man may close the door of mercy in the face of any hungry soul who may seek to gain an entrance thereto. We will sit at meat with all who desire to hear of the kingdom. . . The door of the kingdom is wide open for all who desire to know the truth and to find God._” Jesus to the Apostles ([UB 138:4.2](/en/The_Urantia_Book/138#p4_2)).
+> “_All men are my brothers. My Father in heaven does not despise any creature of our making. The kingdom of heaven is open to all men and women. No man may close the door of mercy in the face of any hungry soul who may seek to gain an entrance thereto. We will sit at meat with all who desire to hear of the kingdom. . . The door of the kingdom is wide open for all who desire to know the truth and to find God._” Jesus to the Apostles (<a id="a140_438"></a>[UB 138:4.2](/en/The_Urantia_Book/138#p4_2)).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#march-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">March 1976 issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_S_Sadler_Jr/A_Brotherhood_Not_A_Church_Or_A_Sect">
+          <span class="pr-2">A Brotherhood — Not A Church Or A Sect</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

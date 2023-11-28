@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Bernard Burton<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Painter/Service_A_Personal_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Service — A Personal View</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="pr-2">Study Groups — A Sampling</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 For growth and development, personalities need contact with other personalities, much like sharp-edged rock fragments ground smooth by rubbing against one another. Such a parallel suggests the divine intent that our progress towards spiritual levels is closely allied with sociability and co-operative endeavor. Our increased awareness of mutual dependence, personal worth, and altruistic service goals needs a behavior vehicle for expression with others similarly inspired .... thus, the logical motivation for the formation of study groups. This assembling together of believers could well be referred to as the “inevitable eventuality” of widespread dissemination of _The URANTIA Book_.
 
@@ -21,3 +45,27 @@ Appreciation of the true goodness in study group activity can prove an adhesive 
 Like pebbles on the beach, washed back and forth by the breaking waves, we can be worn more agreeably smooth and pliably co-operative by reoccurring personal contact.
 
 —_Bernard Burton_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Michael_Painter/Service_A_Personal_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Service — A Personal View</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="pr-2">Study Groups — A Sampling</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -36,6 +36,7 @@ class Articles {
 		'Innerface International',
 		'Fellowship Herald', 
 		'Mighty Messenger', 
+		'The Urantian',
 		'Luz y Vida',
 		'Urantian News',
 		'Urantia Foundation News Online',

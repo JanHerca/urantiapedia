@@ -9,8 +9,32 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1976_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1976 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Wesley_James/Come_With_Me_And_See">
+          <span class="pr-2">Come With Me And See</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-“_Let your light so shine before men that they may see your good works and be led to glorify your Father who is in heaven._” ([UB 140:3.13](/en/The_Urantia_Book/140#p3_13)) So spoke Jesus to the apostles in the ordination sermon; and for over 1900 years since then, men have carried out this injunction according to their own enlightenment and conceptual capacity.
+
+“_Let your light so shine before men that they may see your good works and be led to glorify your Father who is in heaven._” (<a id="a36_126"></a>[UB 140:3.13](/en/The_Urantia_Book/140#p3_13)) So spoke Jesus to the apostles in the ordination sermon; and for over 1900 years since then, men have carried out this injunction according to their own enlightenment and conceptual capacity.
 
 We, as Urantians, are individually faced with the challenge of how do we let our “light so shine” that others, on seeing it, may be tempted to follow suit, each according to his own understanding.
 
@@ -41,3 +65,27 @@ He is very, very slowly learning the basics of self-control, that he alone can c
 He accepts the uncertainties and vicissitudes of existence as part of an imperfect world which is full of opportunities. He revels in the fact that evolution, his own development, is but creativity in time; and he is deeply grateful to a beneficent God, who, by establishing this technique for growth, has made man a co-creator of a new entity, with God, the Thought Adjuster, and man fused into a new being of ever eternal potential. Man thus actively participates in his own destiny as a co-creator. What more can we ask for?
 
 —_A rambling, itinerant Urantian_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1976_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1976 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Wesley_James/Come_With_Me_And_See">
+          <span class="pr-2">Come With Me And See</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

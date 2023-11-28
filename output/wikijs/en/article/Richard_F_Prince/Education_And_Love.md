@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Richard F. Prince<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Principles Of Growth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#june-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">June 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mario_C_J_Harrington/Guidance_Of_The_Most_Highs">
+          <span class="pr-2">Guidance Of The Most Highs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is not clear to me that the entire concept of URANTIA Brotherhood school has as its genesis an externally expressed need to which we, the Brotherhood, are responding. Rather, it seems to me that we are starting with the proposition that since there is so much to learn in _The URANTIA Book_ we must therefore need a school. The thrust of the workshop on education (which I confess I have received only second-handed) was to find out what, if any, needs there were which could be defined by those present, and then respond to them. That approach may not be the most fruitful in the long run, for several reasons.
 
@@ -23,3 +47,27 @@ Alternatively, we could decide that a URANTIA Brotherhood school would exist whe
 Events are moving fast in our world, and none of us can visualize how things will be three, five, or ten decades hence. Let us not, in our haste to spread the message of the book today, make a mistake which will be regretted for generations to come. If our goal ultimately is to love one another, it seems imperative that we begin with a structure which will bring us together, rather than keep us apart. I am sure that such an approach will be more difficult in the short term for those of us involved, particularly with groups whose lifestyles and values, save for _The URANTIA Book_, are widely divergent from our own. Nonetheless, such an approach is, as I interpret the teachings, the one we are called upon to take. Anything less seems to be both a source for divisiveness in the future and a failure now to live and act as we have been taught.
 
 —_Richard F. Prince_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/Some_Principles_Of_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Principles Of Growth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#june-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">June 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mario_C_J_Harrington/Guidance_Of_The_Most_Highs">
+          <span class="pr-2">Guidance Of The Most Highs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Richard Hill<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups — A Sampling</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introductory Study Group
 
@@ -23,3 +44,24 @@ Anyone is invited to attend a meeting of the regular URANTIA Book study group. H
 The work group is made up of people performing free social service for those in need of physical help. Our approach is not one of witnessing or even announcing our common bond. The work group is simply people helping people. We have several options of service if you feel compelled to help your fellow man. Some of us work at these projects on Saturday; however, other days of service can be provided.
 
 —_Richard Hill_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/Study_Groups_A_Sampling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Study Groups — A Sampling</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

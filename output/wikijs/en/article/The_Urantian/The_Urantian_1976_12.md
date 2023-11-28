@@ -9,12 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Wesley James, Matthew Rapaport, Meredith Sprunger<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Urantian/An_Inner_Radiance">
+          <span class="pr-2">An Inner Radiance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-“_Your revelation of truth must be so enhanced by passing through your personal experience that new beauty and actual spiritual gains will be disclosed to all who behold your spiritual fruits and in consequence thereof are led to glorify the Father who is in heaven._” ([UB 176:3.7](/en/The_Urantia_Book/176#p3_7))
+
+“_Your revelation of truth must be so enhanced by passing through your personal experience that new beauty and actual spiritual gains will be disclosed to all who behold your spiritual fruits and in consequence thereof are led to glorify the Father who is in heaven._” (<a id="a33_270"></a>[UB 176:3.7](/en/The_Urantia_Book/176#p3_7))
 
 ## An Inner Radiance
 
-“_Let your light so shine before men that they may see your good works and be led to glorify your Father who is in heaven._” ([UB 140:3.13](/en/The_Urantia_Book/140#p3_13)) So spoke Jesus to the apostles in the ordination sermon; and for over 1900 years since then, men have carried out this injunction according to their own enlightenment and conceptual capacity.
+“_Let your light so shine before men that they may see your good works and be led to glorify your Father who is in heaven._” (<a id="a37_126"></a>[UB 140:3.13](/en/The_Urantia_Book/140#p3_13)) So spoke Jesus to the apostles in the ordination sermon; and for over 1900 years since then, men have carried out this injunction according to their own enlightenment and conceptual capacity.
 
 We, as Urantians, are individually faced with the challenge of how do we let our “light so shine” that others, on seeing it, may be tempted to follow suit, each according to his own understanding.
 
@@ -34,7 +55,7 @@ Of course we all have our own 'devils' to blame for our everyday problems; the t
 
 —_Wesley James_
 
-> “_...the revelations of God flush upon earth in the lives of the men who reveal God to their fellows._” ([UB 132:7.6](/en/The_Urantia_Book/132#p7_6))
+> “_...the revelations of God flush upon earth in the lives of the men who reveal God to their fellows._” (<a id="a57_107"></a>[UB 132:7.6](/en/The_Urantia_Book/132#p7_6))
 
 ## Living In Reality
 
@@ -48,13 +69,13 @@ God has a plan for the Universe of Universes. “He knows the end from the begin
 
 —_Matthew Rapaport_
 
-> “_Carry on until I come,_” ([UB 176:3.6](/en/The_Urantia_Book/176#p3_6))
+> “_Carry on until I come,_” (<a id="a71_30"></a>[UB 176:3.6](/en/The_Urantia_Book/176#p3_6))
 
 ## Sowing Seeds
 
-In the 21 years since its publication, _The URANTIA Book_ has found its way into the hands of over 60,000 people who are searching for God. The growth of sales of the book can be compared to the parable of the sower, who “_... cast good seed upon the earth;... and although he knew not how it came about, the plant came to fruit._” ([UB 151:3.15](/en/The_Urantia_Book/151#p3_15)) From very humble beginnings, sales have increased until they now average almost 10,000 books a year. By continuing to make _The URANTIA Book_ as widely available as possible, through libraries, retail book stores, and by giving it as a gift, we can help to encourage a plentiful harvest.
+In the 21 years since its publication, _The URANTIA Book_ has found its way into the hands of over 60,000 people who are searching for God. The growth of sales of the book can be compared to the parable of the sower, who “_... cast good seed upon the earth;... and although he knew not how it came about, the plant came to fruit._” (<a id="a75_333"></a>[UB 151:3.15](/en/The_Urantia_Book/151#p3_15)) From very humble beginnings, sales have increased until they now average almost 10,000 books a year. By continuing to make _The URANTIA Book_ as widely available as possible, through libraries, retail book stores, and by giving it as a gift, we can help to encourage a plentiful harvest.
 
-> “_Do not forget that you are commissioned to go forth preaching only the good news. You are not to attack the old ways; you are skillfully to put the leaven of new truth in the midst of the old beliefs._” ([UB 178:1.16](/en/The_Urantia_Book/178#p1_16))
+> “_Do not forget that you are commissioned to go forth preaching only the good news. You are not to attack the old ways; you are skillfully to put the leaven of new truth in the midst of the old beliefs._” (<a id="a77_208"></a>[UB 178:1.16](/en/The_Urantia_Book/178#p1_16))
 
 ## The Brotherhood School
 
@@ -70,5 +91,27 @@ The URANTIA Brotherhood during the first twenty years of its existence has dedic
 
 Has _The URANTIA Book_ changed your concept of prayer? What is the value of prayer to you? Is it a regular part of your life? If so, why? If not, what are your reasons? Send us your thoughts and feelings on this subject, as “Prayer” is being considered as a possible future topic of The URANTIAN Journal.
 
-> “_Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it._” ([UB 176:3.10](/en/The_Urantia_Book/176#p3_10))
+> “_Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it._” (<a id="a93_211"></a>[UB 176:3.10](/en/The_Urantia_Book/176#p3_10))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Urantian/An_Inner_Radiance">
+          <span class="pr-2">An Inner Radiance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

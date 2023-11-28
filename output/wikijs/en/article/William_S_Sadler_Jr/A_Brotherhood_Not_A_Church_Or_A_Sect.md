@@ -9,10 +9,34 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 William S. Sadler, Jr.<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1976_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">March 1976 issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#march-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">March 1976 issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="pr-2">Focus On The Individual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 “What is the URANTIA Brotherhood? Another sect?” This question has been put to the writer of this report more than once. To this question, a negative answer has always been given, “No, the URANTIA Brotherhood is neither a church nor a sect. It is simply a social group which has a religious objective.”
 
-There is a real place in modern civilization for a group of religious people who are “_... willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. God alone is spirit sovereign._” ([UB 134:4.4](/en/The_Urantia_Book/134#p4_4)). The modern world hardly needs another church, another sect. At the present time, we suffer from a plethora of churches and multiplication of sects.
+There is a real place in modern civilization for a group of religious people who are “_... willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. God alone is spirit sovereign._” (<a id="a38_255"></a>[UB 134:4.4](/en/The_Urantia_Book/134#p4_4)). The modern world hardly needs another church, another sect. At the present time, we suffer from a plethora of churches and multiplication of sects.
 
 But, if we are not a church, how then do we differ from a church? If we can clearly see how we differ, then perchance we can maintain such differences. And, if we can maintain these differences, then we may be able to preserve our organization as a distinctive Brotherhood; we may be able to avoid a possible evolution in the direction of a church.
 
@@ -31,3 +55,27 @@ If we can clearly separate means and ends, if we can always subordinate means to
 —_William S. Sadler, Jr._
 
 _(Note: William S. Sadler, Jr, was President of the URANTIA Brotherhood the first thee years of its existence, 1955 — 1957. This is an excerpt from his first report to the Triennial Delegate Assembly.)_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1976_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">March 1976 issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#march-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">March 1976 issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="pr-2">Focus On The Individual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

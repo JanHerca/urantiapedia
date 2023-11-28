@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Julia Fenderson<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Schlundt/The_Omega_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Omega Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#march-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">March 1976 issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _(The First URANTIA Society of Los Angeles (FUSLA) is the oldest non-Chicago URANTIA Society. For more than 20 years it has fostered study group activities on the West Coast. The following article is based on the FLISLA experience.)_
 
@@ -22,6 +43,27 @@ Remember that _The URANTIA Book_ is the reason for meeting, so keep to this subj
 
 It has been found helpful, but not essential, to have a chalkboard where certain notes or special information can be listed, such as the assignment and leader for the day and for the next time. Or, extra research or cross-references on the paper being read can be noted...
 
-One of the purposes of our study groups, besides actually learning _The URANTIA Book_, is expressed on [UB 103:1.3](/en/The_Urantia_Book/103#p1_3): “_While your religion is a matter of personal experience, it is most important that you should be exposed to the knowledge of a vast number of other religious experiences (the diverse interpretations of other and diverse mortals) to the end that you may prevent your religious life from becoming egocentric — circumscribed, selfish, and unsocial._”
+One of the purposes of our study groups, besides actually learning _The URANTIA Book_, is expressed on <a id="a45_103"></a>[UB 103:1.3](/en/The_Urantia_Book/103#p1_3): “_While your religion is a matter of personal experience, it is most important that you should be exposed to the knowledge of a vast number of other religious experiences (the diverse interpretations of other and diverse mortals) to the end that you may prevent your religious life from becoming egocentric — circumscribed, selfish, and unsocial._”
 
 —_Julia Fenderson_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Schlundt/The_Omega_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Omega Perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#march-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">March 1976 issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

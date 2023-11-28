@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Meredith Sprunger<br>© 1976 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matthew_Rapaport/Living_In_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living In Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The purpose and function of the Brotherhood School is determined by the nature and goals of the URANTIA Brotherhood. The URANTIA Brotherhood was organized to promote the study and dissemination of the teachings of _The URANTIA Book_ among the peoples of the world. This purpose is being actualized primarily through the instrumentalities of individuals, study groups, and societies.
 
@@ -21,3 +42,24 @@ In the light of this picture of the URANTIA Brotherhood, we regard “URANTIA Br
 We shall strive to serve individuals and groups by making educational materials and resource leaders available. The Committee on Education plans to research and define standards of excellence for teachers and educational activities which will help teachers in self-evaluation and growth as well as furnish criteria for evaluating educational effectiveness in groups and institutions. In time we hope to present suggested curricula which might facilitate competence in religious education at various levels. In co-operation with the Fraternal Relations and Domestic Extension Committees, the Committee on Education hopes to promote the development of educational material and activities designed to introduce insights of _The URANTIA Book_ to the basic institutions of our society.
 
 —_Meredith Sprunger_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Matthew_Rapaport/Living_In_Reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Living In Reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1976-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1976 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
