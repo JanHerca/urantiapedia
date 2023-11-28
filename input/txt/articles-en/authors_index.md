@@ -2828,9 +2828,9 @@
 - [Remembering Carolyn Kendall](/en/article/Marilynn_Kulieke/Remembering_Carolyn_Kendall), Urantia Foundation News Online, Volume 14, Issue 4, Dec. 2020
 - [Quality TranslationsA 40—Year Process!](/en/article/Marilynn_Kulieke/Quality_TranslationsA_40_Year_Process), Urantia Foundation News Online, Volume 16, Issue 4, Oct. 2022
 
-/en/article/Marilyn_Kulieke
+/en/article/Marilynn_Kulieke
 
-- [The Concepts of Trust and Hope in The Urantia Book](/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book), Fellowship Herald, Volume 1, Number 1, 1998 (Fall)
+- [The Concepts of Trust and Hope in The Urantia Book](/en/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book), Fellowship Herald, Volume 1, Number 1, 1998 (Fall)
 
 /en/article/Marion_Steward
 

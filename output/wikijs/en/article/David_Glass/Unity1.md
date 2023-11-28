@@ -14,7 +14,7 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+        <a href="/en/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Concepts of Trust and Hope in The Urantia Book</span>
         </a>
         </td>
@@ -62,7 +62,7 @@ A universal family of friendship.<br>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+        <a href="/en/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Concepts of Trust and Hope in The Urantia Book</span>
         </a>
         </td>

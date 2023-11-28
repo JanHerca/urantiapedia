@@ -24,7 +24,7 @@ dateCreated: 2023-01-25T11:12:37.284Z
         </a>
         </td>
         <td>
-        <a href="/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+        <a href="/es/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
           <span class="pr-2">Los conceptos de confianza y esperanza en _El Libro de Urantia_</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -69,7 +69,7 @@ La revelación del amor de Dios en la vida humana del Hijo del Hombre seguirá e
         </a>
         </td>
         <td>
-        <a href="/es/article/Marilyn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
+        <a href="/es/article/Marilynn_Kulieke/Trust_and_Hope_in_The_Urantia_Book">
           <span class="pr-2">Los conceptos de confianza y esperanza en _El Libro de Urantia_</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
