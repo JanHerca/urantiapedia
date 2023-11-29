@@ -737,7 +737,7 @@ many more workers in this field of endeavor. When the world settles down and beg
 
 ## Spiritual Initiative
 
-1 recently surveyed the teachings of Jesus and counted 134 separate discourses recorded in the Jesus papers. Of the 134 talks, only 24 were delivered to large groups of people. All the rest -110 out of 134 sermons, lectures, speeches, and parables — were spoken to single apostles or to very small clusters of people. As a rule, the most explicit sermons were delivered to the smallest number, usually no more than one or two at a time. When appearing before a large audience of non-URANTIA Book readers, one might wish to keep this in mind: To the multitudes, Jesus said the simplest things. To the large gathering he simply built upon already familiar scriptural passages. He never tried to awe the masses with descriptions of the hosts of unseen beings or tales of the mansion worlds.
+I recently surveyed the teachings of Jesus and counted 134 separate discourses recorded in the Jesus papers. Of the 134 talks, only 24 were delivered to large groups of people. All the rest -110 out of 134 sermons, lectures, speeches, and parables — were spoken to single apostles or to very small clusters of people. As a rule, the most explicit sermons were delivered to the smallest number, usually no more than one or two at a time. When appearing before a large audience of non-URANTIA Book readers, one might wish to keep this in mind: To the multitudes, Jesus said the simplest things. To the large gathering he simply built upon already familiar scriptural passages. He never tried to awe the masses with descriptions of the hosts of unseen beings or tales of the mansion worlds.
 
 He sent the apostles out two and two. They were instructed to knock on doors, to talk to people personally, to minister to them, to comfort the sick and dying. They were to proclaim the love of the Father and the joys of sonship with God.
 
@@ -830,7 +830,7 @@ These three great spiritual truth responses are augmented by the seven principle
 
 Now may living faith, the one all-encompassing requirement of sonship, inspire us to actualize the three great truths of service, guided and enhanced by the seven-fold principle of ministry. I wish you Godspeed in your adventure in service.
 
-1 should like to close with three verses of a prayer hymn written by Washington Gladden in 1879 .
+I should like to close with three verses of a prayer hymn written by Washington Gladden in 1879 .
 
 O Master, let me walk with Thee
 

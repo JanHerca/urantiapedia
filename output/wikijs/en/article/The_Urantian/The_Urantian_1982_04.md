@@ -20,7 +20,7 @@ GREETINGS TO YOU — the delegates, alternates, councilors, and all Urantians �
 
 It has been an honor to have had the privilege of serving as President of URANTIA Brotherhood for the past one and one-half years. And I wish to extend my sincere thanks to the other officers and administrators who have served with me during this period. I must here make special mention of the splendid work performed by the Program Committee for this Assembly — Alvin Kulteke, Marian Rowley, and Edith Cook — as well as the services of our fine secretary, Mrs. Anna Rawson. They have given unstintingly of their time in the preparation of the many details incident to this Assembly.
 
-1 am thrilled by the opportunity to preside on this auspicious occasion. The Delegates and Alternates pre- sent in this room today are also thrilled, I am sure, to have been selected to represent their various Societies at the first meeting of the Assembly. Upon you rests a solemn responsibility.
+I am thrilled by the opportunity to preside on this auspicious occasion. The Delegates and Alternates pre- sent in this room today are also thrilled, I am sure, to have been selected to represent their various Societies at the first meeting of the Assembly. Upon you rests a solemn responsibility.
 
 It is our burden to bring life on this planet up to a new level, which we can and will do when we sincerely become imbued with the idea that we are ambassadors of a heavenly kingdom just as surely as were the twelve apostles who followed Jesus. Those twelve men were so inspired by Jesus' life and teachings that they went forth and turned the whole world upside down. I pray we will do likewise.
 
@@ -71,13 +71,13 @@ I believe that I am his son.
 
 I believe that all men are my brothers and that I am to serve them.
 
-1 believe that this world is but a vestibule, a shakedown cruise, a testing, for my eternal adventure.
+I believe that this world is but a vestibule, a shakedown cruise, a testing, for my eternal adventure.
 
-1 believe in the progressive advancement of my soul within the divine kingdom.
+I believe in the progressive advancement of my soul within the divine kingdom.
 
 I believe that Jesus came to show us the way to the Father, for he said: “ I am the way, the truth, and the life.”
 
-1 believe that I am an ambassador in my Father's kingdom.
+I believe that I am an ambassador in my Father's kingdom.
 
 I believe that some day I will attain Paradise and stand face to face with my Father in heaven.
 

@@ -134,7 +134,7 @@ The UB discusses the crucial facts about Mithraism: its role as the leading myst
 
 To flesh out the story of Mithraism, one needs to read the available literature, but Massey seems to have read only one book: David Ulansey's eccentric work. Ulansey's thesis is narrow and “pat,” like the quick ending of pot-boiler. He excludes large areas of evidence. He is alone in denying that the cult is traceable to Persia at all (contradicting UB 1082). He ignores the evidence of Mithraism throughout Asia Minor in the Hellenistic period. No, it all started in 128 BC: thought up by Stoic astrologer/astronomers in Tarsus — a religion manufactured by intellectuals! People so much smarter than “a generation of totem worshipers” (14,2) who can be tricked into accepting a religion made for them.
 
-The Stoics may really have incorporated a recent astronomic discovery into Mithraic symbols, but this is just one of many local developments of a widespread cult. In other locales Mithraism assimilated other myths: in Commagene Mithras was identified with Olympian gods; in Rome, he took on some of the mythology of Attis; astrological accretions began 600 years earlier, when the Persians conquered Babylon. I know of no scholar who supports Ulansey's theory that the secret of Mithraism was its symbolization of the precession of the equinoxes, and that we need look no further than Tarsus, or earlier than 128 \mathrm{BC}.
+The Stoics may really have incorporated a recent astronomic discovery into Mithraic symbols, but this is just one of many local developments of a widespread cult. In other locales Mithraism assimilated other myths: in Commagene Mithras was identified with Olympian gods; in Rome, he took on some of the mythology of Attis; astrological accretions began 600 years earlier, when the Persians conquered Babylon. I know of no scholar who supports Ulansey's theory that the secret of Mithraism was its symbolization of the precession of the equinoxes, and that we need look no further than Tarsus, or earlier than 128 BC.
 
 When this notion is added to Massey's anti-Biblical feelings, we get the ridiculous idea that 128 years of manufactured cult yielded more truth than 19 centuries of ethical monotheism. This misrepresents Mithraism as well as Judaism. Most of all, it cheapens the significance of religious development, of the hard-won advances in religious thought.
 
@@ -582,7 +582,7 @@ Utuder Thy protecting wings.
 There is a special place where none can go but me;
 
 ![](https://cdn.mathpix.com/cropped/2023_11_26_7f5c62cc0d9e3c63b583g-16.jpg?height=47&width=493&top_left_y=1270&top_left_x=233)
-or ever sfiall 6 \mathrm{e};
+or ever sfiall 6 e;
 
 A sacred place only Good is allowed to see.
 

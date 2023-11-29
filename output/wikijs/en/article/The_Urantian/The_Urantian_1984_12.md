@@ -64,7 +64,7 @@ In the early church at Corinth, there was great dissention about the relative me
 
 In our consideration of spirit endowment, let's reflect upon the Spirit of Truth. “Pentecost endowed mortal man with the power to forgive personal injuries, to keep sweet in the midst of the gravest injustice, to remain unmoved in the face of appalling danger, and to challenge the evils of hate and anger by the fearless acts of love and forbearance.” (2064.5) So, the Father provides the raw materials — the seed, the soil, and the elements. The Son sows the seed-uses the power provided by the Father to set the stage in time and space, And the Spirit in us can make something of it. He activates us. We are empowered by the Spirit for God's work-God's willGod's cause, The Spirit yields the fruit, From the harvest comes “bread,” the staff of the life eternal.
 
-1 am supposed to be telling you “how-to-go-do” but I am not telling you how. I have tried to tell you “why” and “what,” but I will not tell you “how.” The “why”because if we are all sons of God then we must be brothers. And, if God had chosen to differentiate in time and space, then we must synthesize toward eternity unity reality. (That's a high fallutin' philosophical way of saying that we must get along together, we must help each other, we must coordinate our differences.) The “what” — actualize the potential. We must socialize our religion to make it happen. We do not learn by merely studying, hearing, being told, observing. We learn by doing, by teaching, by putting into practice what we have studied. Learning, living, and sharing the teachings — we are evolutionary creatures, It is philosophically required that we experience in order to become real.
+I am supposed to be telling you “how-to-go-do” but I am not telling you how. I have tried to tell you “why” and “what,” but I will not tell you “how.” The “why”because if we are all sons of God then we must be brothers. And, if God had chosen to differentiate in time and space, then we must synthesize toward eternity unity reality. (That's a high fallutin' philosophical way of saying that we must get along together, we must help each other, we must coordinate our differences.) The “what” — actualize the potential. We must socialize our religion to make it happen. We do not learn by merely studying, hearing, being told, observing. We learn by doing, by teaching, by putting into practice what we have studied. Learning, living, and sharing the teachings — we are evolutionary creatures, It is philosophically required that we experience in order to become real.
 
 The “how”-I would not tell you how you should actualize your faith within the context of your own individuality. We will have social content. We will not see or feel or think or act alike. Our relation to God is the determinant as concerns the realify of our actions, I do not want to focus on technique by relation-our relation to God and to each other.
 
@@ -121,7 +121,7 @@ They look at one another in disbelief, gasping and sputtering,
 
 If only l'd known this...'
 
-1 just can't get over it!'
+I just can't get over it!'
 
 Exasperated, they work themselves into a fury and start cursing God;
 

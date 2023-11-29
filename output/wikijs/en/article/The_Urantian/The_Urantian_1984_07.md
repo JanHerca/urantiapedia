@@ -94,7 +94,7 @@ No. In isolation, study groups are clearly insufficient.
 
 I am not saying that study groups should be discontinued. Quite to the contrary, for I believe that study groups should be reinforced, and that study group members should strengthen, deepen, and expand their personal relationships.
 
-But I \mathrm{am} saying that study groups, whatever their type, are not enough to bring about “... the more general acceptance of the real religion of Jesus” (2086.4), and that other kinds of spiritual observances need to be evolved — gradually, over an extended period of time.
+But I am saying that study groups, whatever their type, are not enough to bring about “... the more general acceptance of the real religion of Jesus” (2086.4), and that other kinds of spiritual observances need to be evolved — gradually, over an extended period of time.
 
 I have no set formulas or pat answers, but a Brilliant Evening Star offers us some intriguing comments. For example, he declares that “Regardless of the drawbacks and handicaps, every new revelation of truth has given rise to a new cult, and even the restatement of the religion of Jesus must develop a new and appropriate symbolism.” (966.2)
 

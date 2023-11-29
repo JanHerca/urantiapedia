@@ -75,7 +75,7 @@ Copyright 1983 by URANTIA Brotherhood Corporation. All rights reserved. Printed 
 
 The challenge of change has provided a tremendous stimulus to spiritual growth — a stimulus to find God and the stability of knowing God in an environment that's constantly changing.
 
-In addition to that challenge, there are also clear opportunities. Our ability to communicate with one another has blossomed since the industrial revolution, We have truly become a global village. Events in any part of the world can be immediately known and have an immediate impact on any other part of the world, The opportunities for the cross fertilization of ideas and cultures is overwhelming. If you were to plot the growth in velocity of human modes of travel for example, you would see it begin to skyrocket at about the turn of the century. We've gone from traveling by camel at 12 \mathrm{mph}, to traveling at 100 \mathrm{mph} by steam locomotive in the 19 th century, to traveling at speeds exceeding the speed of sound by supersonic commercial jet, to traveling at speeds of 18,000 \mathrm{mph} in space, You would see the same sort of graph if you plotted communication increases, starting with Gutenberg's press in the 1400's (though the Chinese had one earlier), to 1500 when Europe was producing 1000 book titles per year, to the 1970 's when the world was producing 1000 book titles per day (and this in an age when telecommunications and the computer are dominating modes of communication).
+In addition to that challenge, there are also clear opportunities. Our ability to communicate with one another has blossomed since the industrial revolution, We have truly become a global village. Events in any part of the world can be immediately known and have an immediate impact on any other part of the world, The opportunities for the cross fertilization of ideas and cultures is overwhelming. If you were to plot the growth in velocity of human modes of travel for example, you would see it begin to skyrocket at about the turn of the century. We've gone from traveling by camel at 12 mph, to traveling at 100 mph by steam locomotive in the 19 th century, to traveling at speeds exceeding the speed of sound by supersonic commercial jet, to traveling at speeds of 18,000 mph in space, You would see the same sort of graph if you plotted communication increases, starting with Gutenberg's press in the 1400's (though the Chinese had one earlier), to 1500 when Europe was producing 1000 book titles per year, to the 1970 's when the world was producing 1000 book titles per day (and this in an age when telecommunications and the computer are dominating modes of communication).
 
 New ideas are assimilated gluttonously. So many new developments seem to get popularized in postindustrial society. We are the most well informed civilization that ever existed. Someone once said that if Jesus were alive today, he wouldn't be crucified, he would be asked to appear on the Phil Donahue show.
 
@@ -113,7 +113,7 @@ Can we look to the governments of sovereign nations to develop the peace-creatin
 
 Despite the dire consequences of secularism, its challenge delivers a tremendous opportunity to the soul of mankind for spiritual growth.
 
-## Journal Of \Mathrm{Uzanta}_{\Circledast} Brotherhood
+## Journal Of Uzanta_{\Circledast} Brotherhood
 
 And _The URANTIA Book_ is not entirely doom and gloom about the results of nationalistic secularism:
 

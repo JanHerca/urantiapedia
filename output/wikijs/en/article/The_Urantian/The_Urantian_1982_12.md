@@ -190,7 +190,7 @@ brothers are drooling over the prospect of devastation and rapture, we know that
 
 The newspapers and magazines and newscasts all broadcast reasons for despair and paranoia. But we read that our planet is “quivering on the brink of a spiritual age,” and we hold the evidence of a new dispensation in our hands. What a tremendous potential for service we have in front of us.
 
-1 mentioned before that the development of a functional viewpoint is helpful in working effectively and fearlessly to actualize the Supreme. It is good to understand our possibilities with the Supreme and interpret them within the framework of a viewpoint which embraces:
+I mentioned before that the development of a functional viewpoint is helpful in working effectively and fearlessly to actualize the Supreme. It is good to understand our possibilities with the Supreme and interpret them within the framework of a viewpoint which embraces:
 
 1) An appreciation of the fact that our planet was made as a consequence of the actions of a divine but finite creator — Christ Michael. We should look at the problems which have resulted from our origin in the finite as containing tremendous poten- tials for experience, decision-making, and contribution to the actualization of the Supreme.
 2) We should have an understanding of the fact that Christ is our first revelation of the Supreme. His life and teachings are our text for actualizing the Supreme on this mortal level and especially on this planet. The study of his life is a sure way to organize and enjoin our thoughts — to engender the most beneficial behavior patterns for the Supreme.

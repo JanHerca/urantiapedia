@@ -77,11 +77,11 @@ Instead, in reality, it seems to be the other way around, If you want to do some
 
 The supreme goal of eternity is perfection. Jesus said to “Be...perfect, even as your Father in heaven is perfect.” (1584.4) I've always wondered about that statement. It has always bothered me that perfection seems so unattainable in this lifetime. Yet he said “Be perfect” just as he said “Be of Good Cheer” and “Fear not.” He didn't say “Try to be perfect,” or “Aim for perfection.”
 
-1 think that part of his message was at least this: Be perfect now in your mind's eye. Know that you are a child of God, that you have the seed of perfection within you, and act as though you have already attained that perfection.
+I think that part of his message was at least this: Be perfect now in your mind's eye. Know that you are a child of God, that you have the seed of perfection within you, and act as though you have already attained that perfection.
 
 On the way to Rome in a conversation with a Mithraic priest, Jesus said this about time: “... even to man, because of his sectional and circumscribed view, time appears as a succession of events; but as man ascends, as he progresses inward, the enlarging view of this event procession is such that it is discerned more and more in its wholeness. That which formerly appeared as a succession of events then will be viewed as a whole and perfectly related cycle; in this way will circular simultaneity increasingly displace the onetime consciousness of the linear sequence of events,” (1439.4)
 
-1 don't pretend to understand the full meaning of the concept of circular simultaneity. Part of it though, I think is this: In our attitude of mind, we can hold perfection as real right now, even though many sunsets must follow many sunrises before perfection has fully blossomed in our lives in eternity.
+I don't pretend to understand the full meaning of the concept of circular simultaneity. Part of it though, I think is this: In our attitude of mind, we can hold perfection as real right now, even though many sunsets must follow many sunrises before perfection has fully blossomed in our lives in eternity.
 
 When you see yourself by faith to be a perfect son or daughter of God, then envy, jealousy, anger, and resentment all tend to evaporate — they become virtually unreal and useless. Truly, life becomes an almost effortless adventure. No longer do you see growth as a series of arduous hurdles that must be traversed in order to attain a state of perfection that seems virtually unattainable. Rather, it becomes the obvious condition of continuous germination in which “Trouble will invigorate you; disappointment will spur you on; difficulties will challenge you; and obstacles will stimulate you.” (“1438:2)
 

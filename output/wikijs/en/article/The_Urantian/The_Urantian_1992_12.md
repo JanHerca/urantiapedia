@@ -436,7 +436,7 @@ punctuating desp Glue C Rocky sky-Linss.
 
 Such an essay God wrought to my perspectius that day the world snded!
 
-\mathrm{O}_{\mathrm{r}} was it the day the world Gegan?
+O_{r} was it the day the world Gegan?
 
 The turnings have been so long
 
@@ -529,7 +529,7 @@ If we consider the reality of identity as it is described to us, we discover tha
 
 One possible approach to this question is to try to discover the pure reality of our own personality; that is, to attempt to differentiate the reality of personality from all the other things in our experience. To do this we need a hypothesis of what we think personality is.
 
-Let us assume, on the basis of revealed authority and personal insight, that personality is the unity of “I.” I know intuitively that “ \mathrm{I} \mathrm{am}^{\prime} ” and that I am One, even if I do not understand how I know this. I also know that I have free will, the power to initiate a chain of events. Let us make this, then, our hypothesis of personality: I am a unity of personal will. We can now examine experience to see what falls within this hypothetical domain of personality and what lies without.
+Let us assume, on the basis of revealed authority and personal insight, that personality is the unity of “I.” I know intuitively that “ I am^{\prime} ” and that I am One, even if I do not understand how I know this. I also know that I have free will, the power to initiate a chain of events. Let us make this, then, our hypothesis of personality: I am a unity of personal will. We can now examine experience to see what falls within this hypothetical domain of personality and what lies without.
 
 The body, although personal, obviously falls outside this domain. It is apparent that the perceptions and sensations, the urges and hungers, the instincts and impulses of the body frequently proceed in directions contrary to my personal will.
 
