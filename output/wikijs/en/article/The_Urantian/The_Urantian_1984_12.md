@@ -209,7 +209,7 @@ Over the last eight years of publication of The URANTIAN Journal of URANTIA Brot
 Question
 
 Why is this consecration the only gift of true value?
-While our intent is to stimulate the submittal of finished articles for publication, we will also welcome, edit (if necessary), and publish in summary form any responses to this question you care to send us. In fact, if this approach generates the level of interest we hope it will, we plan to use it on a regular basis to provide a way for our readers to share their thoughts, observations, and responses to questions many of us struggle with on a regular basis, alone, or in our study groups, as we seck to understand our Father better through the mechanism of _The URANTIA Book_. Thanks in advance for your willingness to participate with us in a more active way of using The URANTIAN Journal to crossfertilize our thinking.
+While our intent is to stimulate the submittal of finished articles for publication, we will also welcome, edit (if necessary), and publish in summary form any responses to this question you care to send us. In fact, if this approach generates the level of interest we hope it will, we plan to use it on a regular basis to provide a way for our readers to share their thoughts, observations, and responses to questions many of us struggle with on a regular basis, alone, or in our study groups, as we seek to understand our Father better through the mechanism of _The URANTIA Book_. Thanks in advance for your willingness to participate with us in a more active way of using The URANTIAN Journal to crossfertilize our thinking.
 
 Warmly, -The Editors
 
