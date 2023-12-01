@@ -16,7 +16,7 @@ Summer, 1985
 
 ## Journal Of Urantia ^{*} Brotherhood
 
-The following wrs given as a talk at a Conference in Atianta in the spring of 1983. The editors.
+The following wrs given as a talk at a Conference in Atlanta in the spring of 1983. The editors.
 
 ## The Urantian Religionist
 
