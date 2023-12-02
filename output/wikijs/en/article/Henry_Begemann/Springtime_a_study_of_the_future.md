@@ -34,9 +34,9 @@ dateCreated: 2023-01-25T11:12:37.284Z
 </figure>
 
 > _Urantiapedia Note_: _This article appeared before in_ [_6-0-6 Newsletter September 1986_](/en/article/Henry_Begemann/Springtime_a_study_of_the_future_2)
+>
+> (From [The URANTIAN, Journal of the URANTIA Brotherhood (now known as the Fellowship), Summer 1988](/en/article/Henry_Begemann/Springtime_A_study_of_the_future_3)) 
 {.is-info}
-
-(From The URANTIAN, Journal of the URANTIA Brotherhood (now known as the Fellowship), Summer 1988) 
 
 Since readers of _The Urantia Book_ are surely interested in the subject of prophesy, it may be opportune and helpful to study more deeply what our book says about the relatively near future. 
 

@@ -1,6 +1,6 @@
 ---
-title: "The Urantian — Winter 1989 Issue"
-description: "Journal of Urantia Brotherhood"
+title: "“The Journal of Fifth Epochal Fellowship” — Winter 1989 Issue — Study Groups For The Urantia Book — Ideas And Suggestions"
+description: "(formerly known as “The Urantian”)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, The Urantian, article
@@ -8,17 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 xxxx<br>© 1989 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
-
-Winter/Spring 1990
-
-OF
-
-# FIFTH EPOCHAL FELLOWSHIP <br> for readers of _The Urantia Book_ 
-
-## Study Groups For _The Urantia Book_
-
-## Ideas And Suggestions
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 
 ## Preface
 
@@ -29,11 +19,8 @@ This booklet offers ideas and suggestions which may enhance your study group exp
 Fifth Epochal Fellowship is the new name of the fraternal association of readers of _The Urantia Book_ which was organized in 1955 to serve the broader reader community. Please feel free to get in touch with us to find the location of study groups in your area, to learn how to obtain study aids which may be of help to you, or in relation to anything which involves the welfare of your study group. You may write us at the address below, call (312) 327-0424, or tax (312) 327-6159.
 
 FIFTH EPOCHAL FELLOWSHIP
-
 529 Wrightwood Avenue
-
 Chicago, Illinois 60614
-
 United States of America
 
 ## Why Are Study Groups Important?
