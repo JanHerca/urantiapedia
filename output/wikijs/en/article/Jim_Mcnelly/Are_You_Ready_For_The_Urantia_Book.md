@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Jim Mcnelly<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1992 Jim McNelly<br>© 1992 ANZURA, Australia & New Zealand Urantia Association</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -34,7 +34,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 </figure>
 
 
-_Jim Mcnelly (From An Article In The Brotherhood Of Man Library)_
+_Jim McNelly (From An Article In The Brotherhood Of Man Library)_
 
 During periods of darkness when tyrants cast a pall of authoritarianism over the world, it never fails that dedicated bands of volunteers appear unexpectedly to pick up the banner of light when truth and righteousness might otherwise flicker or fade.
 

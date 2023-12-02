@@ -28,7 +28,7 @@ Since readers of _The URANTIA Book_ are surely interested in the subject of prop
 
 The most significant things Jesus said about it are to be found in section 2 of Paper 176, wherein he said: “The things which you now look down upon are coming to an end, but this will be a new beginning out of which the gospel of the kingdom will go to all the world and this salvation will spread to all peoples. And when the kingdom shall have come to its full fruition, be assured that the Father in heaven will not fail to visit you with an enlarged revelation of truth...” ( ^{*(1914.5)}
 
-This “enlarged revelation of truth” has already appeared: _The URANTIA Book_. The Master makes it clear that he indeed means our book, because he continues: “...even as he has already bestowed upon this world him who became the prince of darkness [Caligastia, first epochal revelation], and then Adam [second epochal revelation], who was followed by Melchizedek [third revelation of epochal significance], and in these days, the Son of Man.” [fourth epochal revelation]. ( .^{*}(1914.5)
+This “enlarged revelation of truth” has already appeared: _The URANTIA Book_. The Master makes it clear that he indeed means our book, because he continues: “...even as he has already bestowed upon this world him who became the prince of darkness [Caligastia, first epochal revelation], and then Adam [second epochal revelation], who was followed by Melchizedek [third revelation of epochal significance], and in these days, the Son of Man.” [fourth epochal revelation]. (1914.5)
 
 On page(1007.4 it is stated: “There have been many events of religious revelation but only five of epochal significance.” The first four are the same as mentioned above by Jesus. The fifth is mentioned as The URANTIA Papers, the Melchizedek author's name for our book. It is evident that Jesus already 2000 years ago foretold the coming of our book, a book of epochal significance and even more, because it heralds a new dispensation.
 
@@ -173,5 +173,5 @@ Bill Keeler
 
 Bartlesville, Oklahoma
 
-“The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development.” ( .^{*}(1866.4)
+“The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development.” (1866.4)
 

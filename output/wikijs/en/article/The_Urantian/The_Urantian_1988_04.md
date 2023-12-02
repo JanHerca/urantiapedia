@@ -10,7 +10,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 xxxx<br>© 1988 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 
-The following taik was presented at the General Conference in Maine, August, 1987.
+The following talk was presented at the General Conference in Maine, August, 1987.
 
 ## "Everyday-Proof" Communion
 

@@ -386,7 +386,7 @@ Another place to read about this process of making yourself nutty by iniquity is
 
 And if there can really be sin, there needs to be repentance, surely. In my own thinking about this, I have recently begun to make a distinction that has helped me to clarify a confusion about repentance. Let me explain:
 
-On page 1609 John the Baptist and Jesus are distinguished in their gospel presentation in simple terms: John taught his followers to repent and believe while Jesus taught his to believe and rejoice. So there is a tendency to think Jesus wasn't into repentance-it's not really part of his gospel. Yet he did assert (1736) that “if you confess your sins they are forgiven” and this “if” is confirmed at the end of the paper on \sin (\ 89, “Sin, Sacrifice, and Atonement”) when it asserts that confession (leading to the sincere recognition of the nature of \sin$ ) is “essential to religious growth and spiritual progress.”
+On page 1609 John the Baptist and Jesus are distinguished in their gospel presentation in simple terms: John taught his followers to repent and believe while Jesus taught his to believe and rejoice. So there is a tendency to think Jesus wasn't into repentance-it's not really part of his gospel. Yet he did assert (1736) that “if you confess your sins they are forgiven” and this “if” is confirmed at the end of the paper on sin (\ 89, “Sin, Sacrifice, and Atonement”) when it asserts that confession (leading to the sincere recognition of the nature of sin$ ) is “essential to religious growth and spiritual progress.”
 
 I'm inclined to resolve the apparent contradiction between these two passages — one implying that repentance is not a big issue and one calling it essential-by making a distinction of my own between two kinds of sins which I call “monkey sins” and sins of spiritual rebellion. Actually, I'm not sure this is too different from the distinction between evil and sin as given in the book, but it helped me, anyway, so I share it.
 
@@ -397,7 +397,7 @@ I think that if we recognize these two dimensions of sins, we can see why there 
 
 What is sin, then?
 
-Iguess at this point we're about overdue to ask exactly what \sin is. Presumption means disregarding the possibility of sin or the likely consequences of \sin. But what is \sin ? The Urantia revelation is so cheerful and friendly — it does not dwell much on this topic-but neither is it silent.
+Iguess at this point we're about overdue to ask exactly what sin is. Presumption means disregarding the possibility of sin or the likely consequences of sin. But what is sin ? The Urantia revelation is so cheerful and friendly — it does not dwell much on this topic-but neither is it silent.
 
 We have a definition on page(984.“Sin must be redefined as deliberate disloyalty to Deity.” We have already considered how there can be such disloyalty.
 
@@ -501,7 +501,7 @@ The revelators told us they were handicapped by the necessity of describing spir
 
 A Course in Miracles tells us to wake up from our dream and remember who we are-that we're not who we think we are. As far as they had permission to, I believe the revelators of _The Urantia Book_ tried to tell us the same thing. In Paper 1 a Divine Counselor says:
 
-Human personality is the time-space imageshadow cast by the divine Creator personality. And no actuality can ever be adequately comprehended by an examination of its shadow. Shadows should be interpreted in terms of the true substance. ( .^{*} 1 /(29.7)
+Human personality is the time-space imageshadow cast by the divine Creator personality. And no actuality can ever be adequately comprehended by an examination of its shadow. Shadows should be interpreted in terms of the true substance.  1 /(29.7)
 
 In Paper 5 he describes a little more:
 

@@ -178,7 +178,7 @@ _The Urantia Book_ presents a picture of salvation that is compatible with ratio
 
 > _The Urantia Book presents a picture of salvation that is compatible with rational and balanced minds: each person is loved by God and their survival is not dependent on subscribing to the right dogmas or performing proper religious rituals._
 
-Our contemporary world needs a redefinition of the nature of $\sin$ if it is to evolve to the next phase of human achievement. Sin is the result of the choices of a mortal being in relation to the will of the Universal Father. Sin is the responsibility of the individual, and must be actively eradicated through personal will decision, growth, and maturation.
+Our contemporary world needs a redefinition of the nature of sin if it is to evolve to the next phase of human achievement. Sin is the result of the choices of a mortal being in relation to the will of the Universal Father. Sin is the responsibility of the individual, and must be actively eradicated through personal will decision, growth, and maturation.
 
 > The consciousness of sin persists in the mortal mind, but the thought patterns of salvation there from have become outworn and antiquated. The reality of the spiritual need persists, but intellectual progress has destroyed the olden ways of securing peace and consolation for mind and soul. (<a id="a182_294"></a>[UB 89:10.1](/en/The_Urantia_Book/89#p10_1))
 
