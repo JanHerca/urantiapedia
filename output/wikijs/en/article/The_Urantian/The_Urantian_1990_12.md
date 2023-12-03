@@ -1,6 +1,6 @@
 ---
-title: "The Urantian — Summer 1990 Issue"
-description: "Journal of Urantia Brotherhood"
+title: "“The Journal of Fifth Epochal Fellowship” — Summer 1990 —  Special Conference Issue II"
+description: "(formerly known as “The Urantian”)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, The Urantian, article
@@ -10,36 +10,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 xxxx<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 
-FIFTH EPOCHAL FELLOWSHIP for readers of _The Urantia Book_
+<p style="text-align:center;">
+<b>FIFTH EPOCHAL FELLOWSHIP for readers of _The Urantia Book_</b><br>
+<br>
+<b>SPECIAL CONFERENCE ISSUE II</b><br>
+<br>
+<b>1990 GENERAL CONFERENCE</b><br>
+<br>
+<b style="font-size: 2em;">WALKING WITH GOD</b><br>
+<br>
+<b>SNOWMASS/ASPEN, COLORADO U.S.A.</b><br>
+<br>
+<b>JUNE 30-JULY 5, 1990</b><br>
+</p>
 
-![](https://cdn.mathpix.com/cropped/2023_11_26_a965a30544384000e0dbg-01.jpg?height=75&width=1773&top_left_y=645&top_left_x=155)
-![](https://cdn.mathpix.com/cropped/2023_11_26_a965a30544384000e0dbg-01.jpg?height=324&width=888&top_left_y=1346&top_left_x=608)
-
-SNOWMASS/ASPEN, COLORADO U.S.A.
-
-JUNE 30-JULY 5, 1990
-
-## The <Br> Journal <Br> Published Quarterly By <Br> Fifth Epochal Felllowship <br> 529 Wrightwood Avenue Chicago, Illinois 60614 <br> Special Issue Price: \$5.00 per copy <br> (includes postage)
-
-- All quotations within this Journal, unless otherwise indicated, are from _The Urantia Book_, 1955 by URANTIA Foundation, all rights reserved,
-
-Inasmuch as there is no official interpretation of the tcachings of _The Urantia Book_, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
-
-Copyright \odot 1991 by Fith Epochal Fellowship Corporation. All rights reserved. Printed in U.S.A.
-
-![](https://cdn.mathpix.com/cropped/2023_11_26_a965a30544384000e0dbg-03.jpg?height=2041&width=1129&top_left_y=317&top_left_x=455)
+<figure id="Figure_1" class="image urantiapedia">
+<img src="/image/article/The_Urantian/dfdsfsfsdfsdfsfdsfsdfsfsdfsfsdfsdfsdfsdfs">
+</figure>
 
 ## About This Issue...
 
-This is the second of two planned special conference editions of The Joumal to include some of the talks presented in the second half of the 1990 International Conference held at Snowmass/Aspen, Colorado from June 30 -July 5,1990.
-
-The opinions, views, and/or conclusions presented in these talks are based wholly upon each author's understanding and personal religious experience. Therefore, the Fellowship is unable to respond to questions or comments received from readers on any of the talks presented. However, upon written request, the Fellowship will forward invitations for exchange of information or further dialogue on any of the topics contained in this issue of The Joumal directly to the author(s) concerned.
+> This is the second of two planned special conference editions of _The Journal_ to include some of the talks presented in the second half of the 1990 International Conference held at Snowmass/Aspen, Colorado from June 30 -July 5, 1990. The next issue of _The Journal_ will include talks from the second half of the conference.
+> 
+> The opinions, views, and/or conclusions presented in these talks are based wholly upon each author's understanding and personal religious experience. Therefore, the Fellowship is unable to respond to questions or comments received from readers on any of the talks presented. However, upon written request, the Fellowship will forward invitations for exchange of information or further dialogue on any of the topics contained in this issue of _The Journal_ directly to the author(s) concerned.
 
 ## 1990 International Conference “Walking With God” Table Of Contents
 
-## Sunday
-
-Plenary Session
+## Sunday — Plenary Session
 
 Opening Address
 
@@ -49,7 +46,6 @@ John Hay
 
 Theme: “Reflective Meditation on Cosmic Meanings”
 
-![](https://cdn.mathpix.com/cropped/2023_11_26_a965a30544384000e0dbg-05.jpg?height=647&width=1793&top_left_y=847&top_left_x=167)
 
 ## Wednesday
 
