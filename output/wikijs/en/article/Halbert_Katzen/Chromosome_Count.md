@@ -23,7 +23,7 @@ This recording addresses the section in _The Urantia Book_ that is the basis for
 ## Chromosome Count Report
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Halbert_Katzen/Chromosome_Count/chromosome.jpg">
+<img src="/image/article/Halbert_Katzen/Chromosome_Count/chromosome.jpg">
 </figure>
 
 Prepared by Kermit O. Anderson, M.Ed., MA, Chris Halvorson, Ph.D., and Halbert Katzen, J.D. [Updated 10/30/08]

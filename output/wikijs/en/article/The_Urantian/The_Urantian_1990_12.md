@@ -59,7 +59,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 {.is-info}
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/The_Urantian/Snowmass_1990_logo.jpg">
+<img src="/image/article/The_Urantian/Snowmass_1990_logo.jpg">
 </figure>
 
 ## About This Issue...
