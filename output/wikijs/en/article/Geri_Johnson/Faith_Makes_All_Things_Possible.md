@@ -88,7 +88,7 @@ Go back to that moment I asked you earlier to visualize. Bring it into focus. Wh
 
 With Aziz we continually strove to give up all beliefs that interfered with loving him. We looked for the best in him, identified with it and built upon it. These were not new concepts. It was the clarity of our goal and the intensity of our persistence, the dayby-day and moment-to-moment commitments, that added a deeper meaning. It was the personal willingness to go wherever the spirit led, which for me was to peel off layers of negative beliefs, judgments and self-doubts until 1 looked into my core and found only goodness.
 
-Learning to love unreservedly is simply striving to find the goodness that underlies the actions of others. Then we can look upon each other with understanding and kindness, we can hear each other with openness and acceptance, and we can touch each other with faimess and love.
+Learning to love unreservedly is simply striving to find the goodness that underlies the actions of others. Then we can look upon each other with understanding and kindness, we can hear each other with openness and acceptance, and we can touch each other with fairness and love.
 
 You know the sentence about Jesus: “When he smiled on a man, that mortal experienced increased capacity for solving his manifold problems.” (<a id="a92_141"></a>[UB 171:8.6](/en/The_Urantia_Book/171#p8_6)) Can you imagine a look so loving that it would alter your beliefs about yourself and inspire you to positive action? Try. Close your eyes. Recall a time when you felt totally and profoundly loved. May you be so wealthy as to have many of those moments in your memory.
 

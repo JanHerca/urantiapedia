@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 xxxx<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay, David Elders, Robert J. Schuer, David Glass, Francyl Streano Gawryn, Beth Bartley, Meredith Sprunger, Carolyn Kendall, Lynne Kulieke, Eileen Laurence, Patrick Yesh, James G. Johnston, Marilynn Kulieke, Brent St. Denis, William Wentworth, Arlene & Buck Weimer, Larry Mullins<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
 
 <p style="text-align:center;">
 <b>FIFTH EPOCHAL FELLOWSHIP for readers of _The Urantia Book_</b><br>
@@ -24,68 +24,71 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <b>JUNE 30-JULY 5, 1990</b><br>
 </p>
 
+> **The JOURNAL**
+> 
+> Published Quarterly by
+> FIFTH EPOCHAL FELLOWSHIP
+> 529 Wrightwood Avenue
+> Chicago, Illinois 60614
+> 
+> Special Issue Price; $5.00 per copy (includes postage)
+> 
+> \* All quotations within this Journal, unless otherwise indicated, are from _The Urantia Book_, &copy; 1955 by URANTIIA Foundation, all rights reserved.
+> 
+> Inasmuch as there is no official interpretation of the teachings of _The Urantia Book_, the views expressed herein are based wholly upon each author's understanding and personal religious experience.
+> 
+> Copyright &copy; 1990 by Fifth Epochal Fellowship Corporation. All rights reserved. Printed in U.S.A.
+{.is-info}
+
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/The_Urantian/dfdsfsfsdfsdfsfdsfsdfsfsdfsfsdfsdfsdfsdfs">
+<img src="../../../image/article/The_Urantian/Snowmass_1990_logo.jpg">
 </figure>
 
 ## About This Issue...
 
-> This is the second of two planned special conference editions of _The Journal_ to include some of the talks presented in the second half of the 1990 International Conference held at Snowmass/Aspen, Colorado from June 30 -July 5, 1990. The next issue of _The Journal_ will include talks from the second half of the conference.
+> This is the second of two planned special conference editions of _The Journal_ to include some of the talks presented in the second half of the 1990 International Conference held at Snowmass/Aspen, Colorado from June 30 -July 5, 1990.
 > 
 > The opinions, views, and/or conclusions presented in these talks are based wholly upon each author's understanding and personal religious experience. Therefore, the Fellowship is unable to respond to questions or comments received from readers on any of the talks presented. However, upon written request, the Fellowship will forward invitations for exchange of information or further dialogue on any of the topics contained in this issue of _The Journal_ directly to the author(s) concerned.
 
-## 1990 International Conference “Walking With God” Table Of Contents
+## 1990 International Conference “Walking With God” — Table Of Contents
 
-## Sunday — Plenary Session
+**SUNDAY**
 
-Opening Address
+- **Plenary Session**
+	- Opening Address, John Hay
 
-John Hay
+**TUESDAY**
 
-## Tuesday
+- **Theme: “Reflective Meditation on Cosmic Meanings”**
+	- “Experiencing the God in Ourselves and in Others”, David Elders
+	- “An Eye to the Keyhole of Eternity”, Robert J. Schuer
+	- “Reflective Meditation on Cosmic Meanings”, David Glass
+	- “Discovering Cosmic Meanings through Personal Story and Song”, Francyl Streano Gawryn
+- **Theme: “Worshipful Problem Solving”**
+	- “An Offer TOO Good to Refuse”, Beth Bartley
+	- “Prayerful Problem Solving”, Meredith Sprunger
+	- “Worshipful Problem Solving”, Carolyn Kendall
+	- “Worshipful Problem Solving”, Lynne Kulieke
+	- “Everyday Ethics", Eileen Laurence
 
-Theme: “Reflective Meditation on Cosmic Meanings”
+**WEDNESDAY**
 
+- **Plenary Session**
+	- “The Avoidance of Selfishness: Living as if in the Presence of God”, Patrick Yesh
+- **Theme: “Avoidance of Selfishness”**
+	- “Avoidance of Selfishness”, James G. Johnston
+	- "Working to Resolve the Dynamic Tension between Selfishness and Selflessness, Marilynn Kulieke
+- **Theme: “Living as if in the Presence of God”**
+	- “C.H.A.N.G.E.S.-Practice Makes Perfect”, Brent St. Denis
+	- “Living as in the Presence of God: Making the Effort”, William Wentworth
+	- “Everything You Always Wanted to Know about Family Peace (Ha, Ha)”, Arlene & Buck Weimer
 
-## Wednesday
+**THURSDAY**
 
-Plenary Session
+- **Plenary Session**
+	- “Walking with Humankind”, Larry Mullins
 
-“The Avoidance of Selfishness: Living as if in the Presence of God” Patrick Yesh
-
-Theme: “Avoidance of Selfishness”
-
-“Avoidance of Selfishness”
-
-James G. Johnston
-
-"Working to Resolve the Dynamic Tension between Selfishness and Selflessness
-
-Marilynn Kulieke
-
-Theme: “Living as if in the Presence of God”
-
-“C.H.A.N.G.E.S.-Practice Makes Perfect”
-
-Brent St. Denis
-
-“Living as in the Presence of God: Making the Effort”
-
-William Wentworth 48
-
-“Everything You Always Wanted to Know about Family Peace (Ha, Ha )”
-
-Arlene \& Buck Weimer
-
-## Thursday
-
-Plenary Session
-
-“Walking with Humankind”
-
-Larry Mullins
-
-# Opening Address 
+## Opening Address
 
 by John Hay
 
@@ -93,133 +96,38 @@ What I am about to say, I believe, for I speak not from text books nor theologic
 
 All that I do is for God, with the accolades going one way, to him. In whatever I do, my goal is simply to be his servant in conveying the message of Christ, which is rooted in love. I accept Christ as the way, the truth, and the life. However, I support, acknowledge, and encourage the spiritual truths found among all people, because we all share a common destiny, unity in God.
 
-I believe in the message of Christ, with its foundation of love being the conduit through which God works. And how he works in each of our lives is found in our own personal relationship with him. I believe in the power of God, and not of man, and only through God can we achieve a world more human and more divine. The only thing I can do is speak his truth, and then rely on him.
+[Read more](/en/article/John_Hay/Opening_Address)
 
-The sun shines and the rain falls on all people. God doesn't have any favorites, nor is there any exclusivity with him. He works in the freedom of personhood, and I won't judge or undercut or ridicule the faith of any person-that's not my concern. Where that person is in his or her relationship to God is only between that person and God. What s critical in today's society is that the dignity of all people be preserved. We have to respect where a person is at his or her time in life. How can we accept God as our Father, from whom we all come, and then discriminate against others, and look upon our personhood differently, and not acknowledge the equality of all people?
-
-My belief is in the divinity and doctrine of Christ. If I can, in my small way, spread his word of love, then to me, that's enough. I trust and know my God, and I believe in his power, and his promises to us, and in his ability to fulfill them. I believe that when all people of all nations accept and adopt the simple message of Christ, which can be summed up in one word-love-then, and only then, can this earth have the total joy and peace that he promised.
-
-Why are we sometimes deaf, dumb, and blind when we search for God in this world of ours? What was said thousands of years ago is applicable today. When the Holy Spirit spoke, she told our ancestors through the prophet Isaiah, “Go to this nation and say, You will hear and hear again, but not understand. See and see again, but not perceive, for the heart of this nation has grown coarse, their ears are dull of hearing, and they have shut their eyes for fear they should see with their eyes, hear with their ears, understand with their heart, and be converted and healed by me.”'
-
-What's interesting is that man is always on some type of quest, crusade or campaign as she or he searches for God and tries to make this world more livable. We have gone the way of the peace march and the walk for desegregation. We have tried sit-ins, protests, civil disobedience, and we have even resorted to wars, or whatever the “in” thing of the day happened to be. You name it, man has tried it. We have tried it all, and what has it gained us? We see temporary relief in some cases, total failure in others, and hollow victories in still others. Doesn't it seem odd that even though our quality of life has improved greatly in most of the world, that anxieties, fears, mistrust and threats have grown right along with it?
-
-What happens to us? Do we get our priorities turned around as we become involved in this world of ours, or do we get confused with all the slogans, movements, and every conceivable structure known to mankind? And to what, and to whom, do we relate? The structure or the simple command of Jesus Christ, to serve and love God and one another? Why do we thrive on competition? I'm not referring to individual creativity and competition in the world of sports and business. No. I am referring to the small thinking and pettiness of “oneupsmanship” in our everyday encounters. At times, it seems that without conflict and competition among people in one form or another, we would be lost. What is it that drives us in that direction? Don't we think we're deserving of peace and love and self-respect? Are we not children of God?
-
-Our heavenly Father, through Christ, is calling all people to himself, and enlisting them in this ongoing and love-inspired adventure. He is always there, ready to guide us on this incredible journey with the same enthusiasm that we have in pursuing it. His children, doing his work on earth.
-
-I ask you, if God is for us, who is against us? We have got to believe, believe in ourselves, believe in all people, no exceptions. Believe that the power of Christ can transform people, who will in turn radiate this earth of ours with love.
-
-Love is in us, and is always straining to be released. The power of love based on Christ is a force so powerful that it is incomprehensible. We all know it, and all we have to do is accept and bring it to our conscious mind.
-
-Enthusiasm, generosity and love, these are the things that ignite us. We need to accept our human responsibility out of love and not fear.
-
-So, we may or may not choose to print signs or join activist groups or have long mental dissertations to arrive at some exotic plan of action, for activity without love has no permanent impact on life. Nor do we have to wait until Sunday, or some other day. Today is the day.
-
-We can begin now. And it's simple and it's exciting, and all we have to do is put on Christ, live life to the fullest and love one another.
-
-Lip service takes us just so far. It's not just a matter of practicing what we preach, but it goes beyond that into our normal, everyday encounters. And if we don't follow through in promises to one another and commitments to one another, how can we build the trust relationship that's needed to install love in our lives? People like to get involved when they feel they can benefit. However, whether or not we interact with one another, each of us affects the other person's life. That's a plain and simple fact. There's a natural impulse and mutual advantage to helping one another, for we are all one in God. The common denominator is not religion, but it is God, who is love. God is a 24-hour commitment every day of our lives. Religion is a means, and God is an end.
-
-Love is contagious, and so is happiness. Our love, and the love and power of Christ, is a force so strong that nothing on this earth can resist it.
-
-Instead of competition and fragmentation, we need to encourage cooperation among the various religions and service organizations by simply acknowledging to all people that the underlying purpose is to spread the kingdom of God. The message of Christ has always been love, and it hasn't changed. Although we may use different methods and take different roads to accomplish our goals, they all lead to the kingdom of the one God, a kingdom that is universal, a kingdom of truth and life, a kingdom of justice, love and peace.
-
-When we as a people, one by one, put on Christ, and live and love one another, then the answers to the problems that beset this world of ours will become apparent through the process of love. And therein lies the basis for peace and the renewal of the family, the answer to injustice, drug addiction and abuse, and therein lies the basis and answer to solve the hunger and poverty problems that exist in this world. The solutions are there. With faith we can do it. As our minds and hearts accept the love of God and then, planted in love and built in love, we become more like Christ, we will know what to do as the words turn into deeds, enabling us to live life to the fullest as we love one another.
-
-Isn't it about time that all the words and pledges of all institutions and structures have a common goal: a goal to create a world more human and more divine? Or, once again, will the words of the prophet Isaiah ring true, as he says, “You will hear, and hear again, but not understand, see and see again, but not perceive.”
-
-# Experiencing the God in Ourselves and in Others 
+## Experiencing the God in Ourselves and in Others 
 
 by David Elders
 
 What follows is a summary of a participatory meditation and experiential talk presented at the Fifth Epochal Fellowship's International Conference on July 3, 1990, in Snowmass/Aspen, Colorado.
 
-You are each responsible for whatever you learn here today. Listen to the words spoken inwardly as well as outwardly. Open the words as windows to higher meaning and value. Penetrate the mystery of your very existence via this process of self-awareness and Godawareness,
+---
 
-Try to experience, not just understand, the meaning and value behind the words. Use each as a window, a means, to truth — truth which is both known and experiencerd. Allow the Thought Adjuster to adjust your thinking ABOUT the words into the direct experience OF the reality symbolized by the words.
+You are each responsible for whatever you learn here today. Listen to the words spoken inwardly as well as outwardly. Open the words as windows to higher meaning and value. Penetrate the mystery of your very existence via this process of self-awareness and Godawareness.
+
+Try to experience, not just understand, the meaning and value behind the words. Use each as a window, a means, to truth — truth which is both u_ and _experienced_. Allow the Thought Adjuster to adjust your thinking ABOUT the words into the direct experience OF the reality symbolized by the words.
 
 What is the meaning of “reflective” thinking or meditation? Is it that it is “reflective” of higher truth, rather than just expressing the time spent thinking? If we looked at words in a different way, would we allow their reflective power to be released? Example: “Why does it matter? Because God cares!” If, in responding to the question, we only understood “matter” to signify material reality, we might have responded with intellectual reasons for the existence of matter. But, in looking at the word in a slightly different light, our answer is “reflective” of new meaning and value.
 
-## Reflective Meditation:
+[Read more](/en/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others)
 
-Let's together meditate on a single phrase. Remember the instructions given at the beginning...let the words reflect truth to you, rather than using your mind to attach your opinion of their meaning to each word.
-
-## I Am The Son Of The Living God.
-
-Now let's consider the reflective meaning of some other words given us in _The Urantia Book_. First: “The universe fact of God's becoming man has forever changed all meanings and altered all values of human personality.” (“1228) ”The Eternal Son is the perfect and final expression of the “first” personal and absolute concept of the Universal Father. Accordingly, whenever and however the Father personally expresses himself, he does so through his Eternal Son, who ever has been, now is, and ever will be, the living and divine Word.“ (73) In reflecting on these statements, could we begin to see the word ”person" in a different light? That is, in expressing himself personally through the Eternal Son, is our understanding of PER-SON enhanced? PERSON, meaning the Father's expression by or through the Son? And, further, is Word used in this context to suggest SON? And, finally, closing the circle temporarily, does SON suggest not gender but rather personality? Per-SON, per-SON-ally, per-SON-ality?
-On page 28 it is stated: “God is personality.” Could we understand that to mean that God IS each personalityeven though each personality is not God? For example, could our “own” self-conscious existence be expressive of God's declaring: I AM David, I AM John, I AM Marta, I AM Barbara, I AM Judy, etc? Might we conclude that our self-conscious experience of the relationship between unique personality and the Indwelling Adjuster IS the living mechanism by virtue of which we participate in God's self-experience? Could each of us declare that “I am the only begotten Son of God,” phraseology reflective of personality uniqueness? If the “word” of God suggests personality, is each of us a “word” of God?
-
-## Reflective Meditations:
-
-## I Am The Son Of The Living God.
-
-## I Am The Only Begotten Son Of The Living God.
-
-On page 1232 of _The Urantia Book_ a Solitary Messenger tells us that “Man's personality is eternal but with regard to identity a conditioned eternal reality. Having appeared in response to the Father's will, personality will attain Deity destiny, but man must choose whether or not he will be present at the attainment of such destiny.” Steve Dreier mentioned in his talk that both personality and the Thought Adjuster are bestowed by God. Who, then, are we? If personality and the Adjuster come from God and will return to him, and if “we” must choose whether or not to be there when such returning takes place, who are we? Do we exist somehow in the living relationship between God as a perSON-ality (bestowed and qualified as unique) and God as a preperSON-ality (bestowed and not qualified)? Are we conscious participants in the relationship between God qualified as personal and God not qualified at all? Do we exist at the focal point (in time/space) of God as unity and God as diversity? Is our job somehow to unify this relationship through experience, our experience? Do we in this way become a part, literally, of God's eternal self-exploration? Are we an expression of unity in diversity and the diversity of unity?
-
-## Reflective Meditations:
-
-I AM THE SON OF THE LIVING GOD.
-
-I WILL TRY TO UNIFY MY EXPERIENCE OF THE LIVING GOD.
-
-Now this experience is not just a singular or solitary one because, while it may be true for each of us individually, it is just as true for all of us together, simultaneously, In addition, this experience provides for another level of unity which we may experience- the unity of relationships...the Supreme. On page 1228 we are told: "Every true relationship of mortal man with
-other persons-human or divine-is an end in itself. And such fellowship with the personality of Deity is the eternal goal of universe ascension.“ In another way, Jesus taught us the same truth: ”I am the vine and you are the branches. And the Father requires of me only that you shall bear much fruit...You must abide in me and I in you; the branch will die if it is separated from the vine. I am the real vine and you are the living branches. He who lives in me, and I in him, will bear much fruit of the spirit and experience the supreme joy of yielding this spiritual harvest.“ (”1945)
-
-## Reflective Meditations:
-
-IAM THE SON OF THE LIVING GOD.
-
-YOU ARE THE SON OF THE LIVING GOD. WE ARE SONS OF THE LIVING GOD.
-
-## Summary
-
-The simple acts of seeing, knowing, and loving another perSON is the act of experiencing God, as revealed in his sons, perSONally. As we engage in this process, we are creating a living being which has as much or more life and vitality as each of us does. This being is God, expressed in time and space and called by the word symbol SUPREME.
-
-And, through our consciousness of the inner relationship between our personality and the Thought Adjuster-both bestowed by God...both of God-we are able to participate in God's eternal experience of himself. At the same time, by virtue of our coexistence with other personal selves, we are able to experience God as Supreme, through and in our relationships with other beloved personalities. God is personality.
-
-# An Eye to the Keyhole of Eternity 
+## An Eye to the Keyhole of Eternity
 
 by Robert J. Schuer
 
 It is with great pleasure that I stand here on Urantia and speak to a special group of Andon and Fonta's descendants. Your “Walk with God” has brought you here from many states and even distant countries. You are interested in ways in which spiritual life is promoted and in particular the habits which cause your spiritual life to progress. The habit of meditating on cosmic meanings is the one with which we are concerned right now.
 
-To meditate means to perceive truth and how you fit into it-how your being, your person, your spirit, your life, your family, your country, your world fit into it. Meanings have to do with the identification which you make with true values and purposes so that they become a structure and guide for your life now and for eternity. We all seek to find “meaning” for life and existence. Those who have found no “meaning” for their lives are in danger of wasting them.
+To meditate means to perceive truth and how you fit into it — how your being, your person, your spirit, your life, your family, your country, your world fit into it. Meanings have to do with the identification which you make with true values and purposes so that they become a structure and guide for your life now and for eternity. We all seek to find “meaning” for life and existence. Those who have found no “meaning” for their lives are in danger of wasting them.
 
 When the word “cosmic” is applied to meanings it is to denote that they are far reaching and include the whole cosmos. This has to be because all truth is one and is centered in the one true God. Since you are interested in God, you find that you are interested in the entire cosmos, your place in it, and your function in it.
 
-As I stand here on Urantia I see a great light. It is shining from each one of you. Its source is the Spirit of God within you-the Spirit of God the Father within you, the Thought Adjuster. He came when you made your first moral decision and began your life as a child of God being reborn in the Spirit. He teamed up with your mind to develop your soul by making more good decisions, gaining high values and true ideals. The light that I now see coming from you indicates to me the presence of the real you-your spirit-with whom you are learning to identify. It is distinct from your body and especially from your ego. It gives you identity as a Child of God and you give it your personality. So it is the real you which has come from God and will be returning to God. Whether your personality will be present or not on this return to Cod is entirely up to you. If you continue to acknowledge your true relationship with the Father and with all of his other children your safe return is practically assured. Your relationship with the Father and with all of his children is one of love: your desire and decision to do good for him and for all of them.
-
-As you identify with your Spirit you begin to realize that your main purpose in this life is healing. As you refuse to identify with your ego or with your body you accept healing for yourself. As you see and acknowledge the Spirit of God within other people you bring healing to them. As you give them acceptance, respect and help-because of the Spirit of God within themthey learn to accept themselves as children of God because of this same Spirit. They learn to identify with their Spirit rather than with their bodies or with their egos. They learn to get rid of their false illusions caused by their egos. They learn to perceive truth as through God's eyes.
-
-As you know, everyone's life is pretty well governed by the way in which they perceive reality. If your perceptions are false, then you are living life under an illusion. One of the reasons why God has given us the Fifth Epochal Revelation is that it is time for us to see truth through his eyes. If we were not ready for it, he would not have given it.
-
-Let's take a look now and see what we can see.
-
-Putting an eye of faith to the keyhole of eternity we sce ourselves and every other human being on the planet as a child of God who is destined to acknowledge his relationship with God and thereby gain the benefits of that relationship. This act of acknowledgement is called faith and reminds us of the truth of the revelation which states, “without faith no one can be saved.” This act of acknowledgment also leads us to acknowledge our relationship with all the rest of God's childrenliving on this planet and elsewhere — and reminds us of our privilege and duty of giving them acceptance, respect and help. So we find ourselves in agreement with Jesus' great commandment of love: to love everyone regardless of their race, creed or the mistakes that they may have made in life. We feel no compulsion to like everyone or everything that everyone says or does, but we have sincerely desired and decided to do good for them.
-
-Keeping our eye at the keyhole of eternity we now look at our material body. We have already seen our Spirit and our mind, and we see our soul which these two are developing. Now we see the body clearly and realize that it was given to us in time, to be used for communication. It came to us indirectly from our first parents, Andon and Fonta, unlike our personality which came to us from God the Father; unlike our Spirit which came to us from the Son; and unlike our mind which came to us from the Spirit. We now see our bodies as aggregations of organized energy: material, electrical, mental and psychological. With the psalmist we realize that we are “wondrously made.” But we also realize that these bodies are only temporary and that on graduation we will receive a new morontia body. So we do not consider the loss of parts of it or of all of it to be any kind of catastrophe. In the meantime we take reasonably good care of it and avoid poisons, acids and drugs which could harm it. If for some reason we decide to use alcohol, nicotine or caffeine, we do so with moderation, knowing that these substances are extremely addictive and could make it difficult for the Thought Adjuster to communicate with us. The more deadly substances such as marijuana, crack, cocaine and heroin can easily make it impossible for the Thought Adjuster to communicate with a human being. So if a human being wishes to bury
-himself in materiality and forever lose all contact with divinity and the possibility of a future happy life, these are the deadly chains with which to bind himself. The sad thing is that such persons have not only tried to throw away peace, joy and happiness for all eternity but that they have evidently succeeded in throwing away whatever peace, joy and happiness that they could have had right now, in this life. They could have lived in communication with a loving Father, a loyal Brother, Jesus, and an enlightening Spirit. Those who accept God into their lives live on a perpetual high of faith and love and do not need devilish substitutes or imitations of God. “I am the Lord thy God and thou shalt have no strange gods before me.”
-
-Next we turn our eye of faith to the next sphere we will wake up on after we graduate from this life. We see mansion world number one to which our guardian seraphim takes our soul upon graduation. Our Thought Adjuster, with our mortal mind transcripts and active creature memory patterns, has returned to the Father but comes to this first mansion world for our resurrection. It is the reuniting of the morontia-soul trust of the seraphim and the spirit-mind trust of the Adjuster that reassembles creature personality and constitutes resurrection of the sleeping survivor. Throughout all eternity you will recall the profound memory impressions of your first witnessing of these resurrection mornings. On mansion world number one (or another in case of advanced status) you will resume your intellectual training and spiritual development at the exact level whereon they were interrupted by death. Between the time of planetary death or translation and resurrection on the mansion world mortal man gains absolutely nothing aside from experiencing the fact of survival. You begin over there right where you left off down here. So, descendants of Andon and Fonta, continue to love and serve your heavenly Father and all of his children. Accept whatever environmental or social situation you find yourself in today and ask yourself, “What would Jesus do today if he were wearing my shoes and my flesh?” All you have to do in any situation that you find yourself in is to react to it the best you can in a God-like way. Then whenever and however you graduate from this life, you will find yourself well prepared. If you feel that you have had unusual trials, tests and difficulties in this life, know that this was only permitted because of your great physical, mental and spiritual potentials which needed opportunities for fruition. With Lacordaire you can now exclaim, “What a life on what a planet!”
-
-Now if your eye of faith is not too tired looking through the keyhole of eternity we will take a look at the heaven of your culture and dreams. We see a real place called Jerusem. It is the capital of the system of 619 inhabited planets of which Urantia — our earth-is one. This is a beautiful sphere-an architectural sphere created perfect, it is the place where our Adam and Eve were employed in the trial-and-testing physical laboratories before they volunteered to come to Urantia to upgrade the human race. Looking on Jerusem you see beauteous highlands and other unique variations of topography and landscape. You see thousands upon thousands of small lakes shimmering in the light of several nearby suns, not too bright but something like brilliant starlight, as Jerusem is not dependent on them for light or heat. You see transports arriving on the crystal field, the so-called sea of glass. Around this area are the receiving stations for the various orders of beings who traverse space by seraphic transport. Near the polar crystal station you see student visitors ascending to the pearly observatory to view the immense relief map of the entire headquarters planet. You see all types of beings present in the central broadcast amphitheater listening in and discerning the never-ending stream of universe space reports. All is peace, joy and harmony among all types of material, morontial and spiritual beings. There are no forms of conflicting life, no struggle for existence, no survival of the fittest. Rather there is a creative adaptation which foreshadows the beauty, harmony and the perfection of the eternal worlds of the central and divine universe. What a heaven!
-
-Now we take a look through our keyhole at our constellation capital, Edentia; at our local universe capital, Salvington; at the capital of our minor sector called Uminor the third; at the capital of our major sector called Umajor the fifth; and at the capital of our superuniverse, Uversa. We could look at the one billion Havona worlds in linear procession in seven concentric circles about the capital of capitals called Paradise, but we won't. We have to save something for you to see for yourself.
-
-Finally, can you imagine Christ Michael coming from his Father on Paradise past all these wonderful places to:
-
-- A little-known star system on the outer edge of the seventh superuniverse?
-- The third planet circling around a comparatively small sun and known to its inhabitants as Earth?
-- A planet listed as number 606 of its system?
-- One of the 35 planets that joined in the Lucifer rebellion?
-- A planet whose grand universe number was 5,342,482,337,666 ?
-- A planet whose Adam and Eve defaulted in their mission?
-- The planet on which you are now living?
-- The planet to which was sent an incredible fifth epochal revelation?
-- And the planet from which you are now gazing through the keyhole of eternity because of that revelation?
+[Read more](/en/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity)
 
 
-# Reflective Meditation on Cosmic Meanings 
+## Reflective Meditation on Cosmic Meanings
 
 by David Glass
 
@@ -229,83 +137,9 @@ It takes eight minutes for sunlight to reach our eyes. The sun is 93 million mil
 
 William Sadler, Jr., described the size of the master universe in this way: If the size of the grand universe were that of a tennis ball, the first outer space zone would be the size of a living room. The second would be the size of a cubic city block. The third outer space zone would be the size of a large cubic city. And the fourth zone would be the size of the moon.
 
-The revelators said that there are as many stars in the master universe as there are glasses of water in all the occans of our world.
+[Read more](/en/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings)
 
-There will eventually exist approximately seven trillion (7,000,000,000,000) inhabited planets in the grand universe. We humans can grasp somewhat the sense of the number “one trillion.” America's national budget has reached two trillion dollars this year. MacDonald's restaurant has probably served more than seven trillion hamburgers by this time. Perhaps you remember when they used to keep track of how many were served in their advertising.
-
-Our registered planetary number in the grand universe is over five trillion, explicitly: 5,342,482,337,666. There seems to be an upper limit of trillions in the specific numerical values cited in _The Urantia Book_, since, to my recollection, no number larger than those in the trillions is mentioned. Sudna, a onetime Graduate Guide who is now a Havona Servital, was the 842,842,682,846,782 nd graduate guide so to be transformed.
-
-However, in dealing numerically with reality, with values upwards of trillions, the revelators give no precise numbers. For example, while they reveal the number of our planet in the registry of the grand universe, over five trillion, as cited above, a Universal Censor from Uversa states: “I know the physical-sphere registry number [of Urantia], but it is of such an exiraordinary size that it is of little practical significance to the mortal mind.” (182.7)
-
-Technically, numbers are usually regarded as factual, rather than meaningful. But the human psyche has a faculty which seems to sense a kind of “meaning” conveyed by normal, as well as by extraordinarily large or small numbers. Numbers are relative given various measuring units, but numbers in the trillions seem to be on the horizon of the meaningfulness of numbers. For example, the numerical figure referred to as Planck's constant is a dimensional measurement which, when expressed in ordinary numbers, is quite meaningless. Indeed, scientists themselves are of the opinion that at such large or small physical dimensions even the basic laws of physics cannot apply.
-
-To get a sense of the approximate number of inhabited worlds in the grand universe-seven trillionimagine a football field covered with Urantia Books to the depth of four books; the number “seven trillion” would refer roughly to the number of individual letters and punctuation marks in all those books.
-
-Enough! We have a sense of the truth that the cosmos is BIG and that certain measurements of the universe are practically valuable and some are humanly incomprehensible except in the relativity of the values of numbers under consideration. We should not think that it is only we lowly mortals who find such gigantic dimensions and numerical values nonunderstandable. A Divine Counselor of Uversa, one of the highest ranking personalities of those who collaborated in the composition of _The Urantia Book_, states: “...the enormousness of the master universe staggers the concept of even my order of being.” (128.1)
-
-We have established the fact that the master universe, the revealed cosmos, is BIG! There is another three-letter word which describes the universe and which gives us an insight into the “meaning” of the cosmos. That word is “OLD”!
-
-Perhaps an even more emphatic word, “Ancient,” might better characterize the age of the universe. When I was in school, we employed the term “ancient” to refer to the civilizations of pre-Christian times -those of Sumer, Egypt, and Greece. If we wish to use the words “old” or “ancient” to describe the age of the universe, we will have to stretch the meanings of those words to the extremities of human comprehension.
-
-The first event associated with the history of Nebadon took place about a trillion years ago: “ 987,000,000,000 years ago associate force organizer and then acting inspector number 811,307 of the Orvonton series, traveling out from Uversa, reported to the Ancients of Days that space conditions were favorable for the initiation of materialization phenomena in a certain sector of the, then, easterly segment of Orvonton.” (651.5) It is interesting to me that the revelators employed that other word for old, “ancient,” when referring to the oldest beings in the superuniyerses, the Ancients of Days, deriving that term from Christianity.
-
-Nebadon is about one third actualized at this point
-with more than three million out of an eventual ten million inhabited planets in existence. Allow for another one or two trillion years, and then the entire local universe might be in light and life. For convenience, let's say that it takes about three trillion years for a local universe to complete its evolution, from the time of the beginning of the amassing of the energy which will form the physical foundation of the local universe to that distant day when the entirety of a local universe swings into the stable circuits of cosmic light and life.
-
-At the time of the inditing of the Urantia Papers, there were 611,121 local universes in existence. We cannot simply multiply the number of local universes, say, 600,000 , times the time it may approximately take for a local universe to complete its evolution, say, three trillion years, because local universes are developing simultaneously. In a very conservative estimation, let's suppose that local universes are initiated in thousandyear intervals. That is, local universe A begins in year zero, universe B begins in year 1000, and C in 2000, etc. Adopting this scheme, I arrive at the figure 1.8 quintillion, that is, 1.8 \times 1018, for the minimum age of the grand universe. Again we arrive at a quantity which is, humanly speaking, meaningless. Like visible light, there is a band of quantities which are “visible” or meaningful for people.
-
-It always strikes me as humorous that we estimate universe time in terms of the revolution of a somewhat small planet around a star on the outskirts of the Milky Way.
-
-With true respect for today's theoretical cosmologists, I would like to point out that the currently going estimate for the age of the universe is fifteen to twenty billion years. To acquire insight into contemporary astrophysics and cosmology, A Brief History of Time is an overview both interesting and engaging. Millions of hardbacks of this book kept it on the best seller list for over two years, and it is now a best seller in the paperback. I mention this because I think that these millions of copies of the book sold indicates that there is a tremendous amount of interest in cosmology and in the origin and destiny of the universe. Such a situation signifies the advent of a “scientific springtime” in which large sectors of humanity are questing after reliable facts about the universe, such as those which are discoverable in _The Urantia Book_. Only the basis of such facts can adequately enable man to begin the reflective meditation on cosmic meanings.
-
-The origination of meanings in and of the cosmos must be derived from God's revelation of himself in the creation of the universe. Meanings are appreciations of the thoughts of the Deities which always precede cosmic actualization. Comprehending the preactualized thought of God is the equivalent of approaching him. The revered British cosmologist, the late Sir James Jeans, once commented that the universe is coming to look more like a great thought than a great thing. And thoughts only become meaningful when they are revealed, in evolutionary evolution, to be purposeful, Goals or purposes are the preferred unifying factors among religionists. The purposes of the future can reveal the highest and truest meaning of the present.
-
-Final meanings and ultimate purposes-the will of God-are known in their entirety probably only by the Eternal Son and the Infinite Spirit. But the step-by-step purposes of time disclose the deepening meanings of the progress of the present toward the future, revealed in finite increments which mortals can comprehend and take. Some of these time purposes are: teamwork, scientific discovery, loving God and one's fellows, service, and the effort to transcend the finite and to transform one's personality.
-
-The prior and eternal purpose of the Father is initially a thought and the progressive comprehension of the Father's thoughts reveals that the master universe is a concept within his mind. A Mighty Messenger writes, “There is in the mind of God a plan which embraces every creature of all his vast domains, and this plan is an eternal purpose of boundless opportunity, unlimited progress, and endless life,” ( +365: 3, italics mine)
-
-In such a universe, the crolution of meanings and of language is progressively becoming relevant to higher and higher verbal significance and valuable concepts and vocabulary, such as the revelators provide, eg., Divinington, morontia, absonity, etc.
-
-But even at the highest level of the scrutiny of cosmic meanings and eternal purposes, the Masters of Philosophy on Paradise hold numerous and diverse opinions. The quest for meanings must be as endless as the eternal purpose of God.
-
-Each step is like a foothold on the perpendicular face of el capitans on the climb to perfection and each foothold is an idea or ideal which reveals each progressive meaning of the ascent.
-
-When thoughts change, meanings change, and “behold, all things have become new”; they have each acquired a new and higher significance. When masses of meanings change, completely new contexts appear in the continuum of meaning evolution.
-
-Revelation is indispensable to universal evolution, because certain concepts and meanings do not appear spontaneously within the human psyche. Just as babies are not expected to evolve into teenagers without almost continuous care and supervision, so is thoughtful and uninformed evolving mankind not expected to progress independent of the ministry of revelation.
-
-For me, one of the most towering autorevelations of humankind was Lao Tse's intuition of the existence of the triad of Deities — the First, Second, and Third Sources and Centers.
-
-Progress can occur independent of a standstill in the discovery of new facts because intuitive perception can discern new meanings in facts already well known by mankind.
-
-God could have created us with great inherent knowledge, but it appears he is interested in providing us, his children, with the exhilaration of discovery and the sweetness of achievement. And this very process vastly increases our love for God and our zeal to perform his will.
-
-Jesus was essential in the transforming of many
-realities: footwashing, Passover, forcefully imposed death as a revelation of unconditional love. And thereby he introduced eternal meanings into temporal human life and showed that we could also enact that ministry.
-
-It is stated in the book that scientific facts are not in themselves meaningful because, just as the physical sensory sensations of man register and are experienced in the mind, so, “even the discoveries of science are not truly ral in the consciousness of human experience ....until their relevant facts actually become meaningful through encircuitment in the thought streams of mind.”
-
-Possibly, the phenomenon of fusion will most radically change for us the meanings which we now have regarding God and reality and our relationship with and within them. We will no longer be faith sons of the Father, we shall be ascending sons of God.
-
-Four of the most significant changes are listed in one brief paragraph. (1237.3) Fusion with this fragment [of God means that we immediately become the beneficiaries of these incomparable treasures: (1) “fixation of divinity quality.” After fusion we are the Adjuster, a Solitary Messenger states, and Adjusters are of the purest divinity. No longer will we fluctuate between our mortal and immortal components, for we will no longer be “mort-als” — beings subject to physical [mort] death. We become and shall forever remain divine in quality; (2) “past-eternal experience and memory” -think of that! The Adjuster is eternal and has had an existence prior to the personalization of the 21 Ancients of Days and indeed was individuated from the I AM “before” the personification of the Universal Father-Thought Adjusters are prepersonal; (3) immortality-another aspect of our Godlikeness; and (4) a phase of qualified potential absoluteness. What is the meaning of such a statement? This absoluteness is potential now. Since all absoluteness is eternal, that potential will ever be actualizing in our endless future universe careers. This absoluteness is all we will ever need throughout the ages of Supremacy and Ultimacy and on to the infinite absoluteness of the Cosmos Infinite itself. This means that through fusion we have become one with the absolute foundations of the universe; with the Absolute willful Cause of the universe.
-
-The deep well of the meaning of ourselves and of reality will never run dry because we shall have penetrated the bottom of the well of our finite potential and discovered the ever-fresh subterranean streams of life and love — of the subliminal God.
-
-Jesus' most profound revelation of his divinity was the resurrection of Lazarus. And our planet is awaiting its own resurrection and spiritual springtime. Jesus will command, “Urantia, come forth.” Our distraught planet will awaken again to spiritual realities and stir with new life. Jesus will call out, “Loose her and let her go.” We will shed the graveclothes of divisiveness and conflict and sit up, never to be religiously comatose again.
-
-The eyes of all orders of beings in Orvonton are trained on Urantia, attentively anticipating Urantia's spiritual resurrection. Our sky is crowded with student visitors, seraphim, recorders, superangels, observers, and archangels. What a celestial jubilation will accompany the universal broadcast message that some of the highest spiritual principles and truths are demonstrated to be valid even on erratic Urantia! The scattered and scrambled alphabet of Urantia's ideas will one day spell out again the highest meanings of the universe. And we are called to participate in this great transformation.
-
-“Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. The spiritual renaissance [may have to] await the coming of these new teachers of Jesus' religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world.” (2082.9) Let us not conceive of ourselves as functioning apart from the mainstreams of progress in our day because the Master's cause will one day “rule this very world,” and we are already actualizing that supreme goal!
-
-Jesus overthrew Lucifer as a mere human being relying only on his inner Thought Adjuster. Such a spiritual endowment has been provided for every mortal on Urantia. Even more amazing, virtually all Urantians have experienced Adjusters. What potentials for planetary transformation may be ours?
-
-The achievement of brotherhood on Urantia will be an adventure characterized by unbelievable transformations and astounding personal, individual liberations. The meanings of life in the cosmos and progress based on partnership with God will reach ever-heightening levels of Godlikeness and increasing perfection. Social and economic terms shall be applied to higher levels of human civilization as their meanings are altered and exalted. The meanings of such words as “God,” “sonship,” “brotherhood,” “personality,” and “progress” shall increasingly refer to higher spiritual ideals.
-
-Personal isolation gives way to universal brotherhood as higher meanings are perceived. “At last all creatures become conscious of the fact that God and all the divine hosts of a well-nigh limitless universe are on their side in the supernal struggle to attain eternity of life and divinity of status. Such faith-liberated sons have certainly enlisted in the struggles of time on the side of the supreme forces and divine personalities of eternity; even the stars in their courses are now doing battle for them; at last they gaze upon the universe from within, from God's viewpoint, and all is transformed from the uncertainties of material isolation to the sureties of eternal spiritual progression.” (1117.3)
-
-One meaning of universal creation is, it can lead to insight into the Father's eternal purposes, one of which is, in my opinion, the maximization of the experientialization of love, for God is LOVE.
-
-# Discovering Cosmic Meanings through Personal Story and Song 
+## Discovering Cosmic Meanings through Personal Story and Song 
 
 by Francyl Streano Gawryn
 
@@ -425,7 +259,7 @@ For more information on this topic, please refer to the following books:
 5. The Uses of Enchantment, by Bruno Bettelheim, Vintage Press
 6. Dreamuork, by Jeremy Taylor
 
-# An Offer Too Good to Refuse 
+## An Offer Too Good to Refuse 
 
 by Beth Bartley
 
@@ -508,7 +342,7 @@ There is one last word I want to mention: joy. Our lives are to be joyful. Did y
 
 So go forth with your circles; circles of progress, and love, and joy and as David Elders said, of unity. These circles will help you as you develop and grow on your Walk with God.
 
-# Prayerful Problem Solving 
+## Prayerful Problem Solving 
 
 by Meredith J. Sprunger
 
@@ -549,7 +383,7 @@ Regardless of its effect, we spontaneously pray for those we love. There is grea
 
 In concluding our thinking about prayerful problem solving, we should remember that the stimulus of problems is basic to personal and spiritual growth. Problems are really opportunities for development and service. There are inherent limits to problem solving in the evolutionary universe. These limitations are germane to our glorious destiny and the quality of spiritual perfection which we are forging out between the hammers of anguish and the anvils of necessity here on planet earth.
 
-# Worshipful Problem Solving 
+## Worshipful Problem Solving 
 
 by Carolyn Kendall
 
@@ -639,7 +473,7 @@ his name. (1952)
 energy for solutions of higher problems of the moral and spiritual nature. (1774) Prayer digs deeper channels so that divine bestowals may flow to the heart and soul. (2066) Prayer enriches life. (\$1123)
 7. Effect of worship on the indioidual. Worship illuminates destiny. (1123) It brings salvation for pleasureseeking mortals. (1621) Worship brings relaxation which renews, illumination that inspires the soul, gives courage to face problems, self-understanding that obliterates debilitating fear, conscious union with divinity — assurance of becoming Godlike. Communion relieves tension, removes conflicts. (1774) Inward effect of worship — one becomes illuminated; the outward effect-one engages in more service. (1175) Worship helps identify with the whole; the son with the Father; time striking step with eternity. (1616) Tuning in the soul to catch universe broadcasts of the Universal Father. (1621)
 
-# Worshipful Problem Solving 
+## Worshipful Problem Solving 
 
 by Lynne Kulieke
 
@@ -754,7 +588,7 @@ There were, inevitably, some perplexities for a young
 
 My father was wont to quote Cullen Bryant, saying, “The groves were God's first temple,” and take me for walks among the trees, but my grandparents were rather adamant about a church with four walls and a steeple, to be entered preferably on a Sunday morning. Nevertheless, I was given to understand that it was always proper to seek out the Almighty. In our lives, God was first, and God was last, not to mention all that came in between. God even began every day and ended every day. At(9.00 every morning and evening in Zion, the carilion from the old college building only two blocks away would sound out, and everyone and everything would stop. It was God's moment. I don't believe I comprehended the full significance, but I stopped too, because it was clearly the thing to do. My most enduring memory is of the warm, summer twilights when I would be at play with my friends. At the first sound of the chimes, I would scamper towards the house with its lights, through the trees, just pinpoints like the first stars in the violet sky, and I would know that I could enter the front door or the back door or any one of the many side doors of my home to be enfolded in loving arms. All would be safe and secure and lovely as we listened to the carillon play “Sweet Hour of Prayer.”
 
-# Everyday Ethics 
+## Everyday Ethics 
 
 by Eileen Laurence
 
@@ -889,7 +723,7 @@ _The Urantia Book_ generally uses the word “self” in two ways: the human ego
 
 What are some methods which can help us to change the selfish behaviors of our “belligerent selves”? Webster defines “belligerent” as “warring, combative, hostile, quarrelsome, contentious, assertive, aggressive, and truculent.” One wonders why God would create us human will creatures with such an incredible monster of an ego, that we have to fight through it to get to spiritual illumination. Not only do we have to do battle with the external world, we are created so that we have to temper our mind, will, and soul by conquering our own inner, human mind and creating a link-up with our premorontia soul mind.
 
-According to the above quotes, one method of changing our behavior is to first brifle our “self-will” and then regulate our self-expression. We must exercise an “everincreasing conquest of self” to attain true liberty, which the revelators and Jesus equate with the conquering of selfishness. We must have self-respect and self-control which lead to our desire for altruistic service. One writer (a Mighty Messenger of experiential survival of a system rebellion) encourages us to think hard about the meanings of true liberty and selfishness and their relationships. Liberty and unselfishness are wedded to social equality, cosmic faimess, universe fraternity, divine obligations, material justice, intellectual faimess, social forbearance, moral duty, and spiritual values.
+According to the above quotes, one method of changing our behavior is to first brifle our “self-will” and then regulate our self-expression. We must exercise an “everincreasing conquest of self” to attain true liberty, which the revelators and Jesus equate with the conquering of selfishness. We must have self-respect and self-control which lead to our desire for altruistic service. One writer (a Mighty Messenger of experiential survival of a system rebellion) encourages us to think hard about the meanings of true liberty and selfishness and their relationships. Liberty and unselfishness are wedded to social equality, cosmic fairness, universe fraternity, divine obligations, material justice, intellectual fairness, social forbearance, moral duty, and spiritual values.
 
 Rodan said that prejudice is inseparably linked to selfishness. Prejudice can be eliminated only by the abandonment of self-seeking and by substituting, therefor, the quest of the satisfaction of the service of a cause that is not only greater than self, but one that is even greater than all humanity- the search for God, the attainment of divinity (see p. 1774).
 
@@ -1037,7 +871,7 @@ What is that part of the self-image that we are to take seriously? I think it is
 5. Get into an intimate relationship with someone fast, get a partner, get married, be around lots of children, join a service club, become a doer of love. Do not be alone in your thinking or your living. Intimate association with your fellows and family and community helps you to avoid selfish pursuits. Solitary life is fatal to happiness; even families and nations will enjoy life more if they share it with others. (1776)
 6. And Jesus said, “Your secret of the mastery of self is bound up with your faith in the indwelling spirit, which ever works by love. Even this saving faith you have not of yourselves; it also is the gift of God. And if you are the children of this living faith, you are no longer the bond slaves of self but rather the triumphant masters of yourselves, the liberated sons [and daughters] of God.” (1610)
 
-# Avoidance of Selfishness 
+## Avoidance of Selfishness 
 
 by James G. Johnston
 
@@ -1114,7 +948,7 @@ Self-mastery is a matter of mastering a belligerent addiction to selfishness. On
 
 “I want to be thoroughly used up when I die, for the harder I work the more I live. I rejoice in life for its own sake. Life is no 'brief candle' to me. It is a sort of splendid torch which I have got hold of for the moment, and I want to make it burn as brightly as possible before handing it on to future generations.” — George Bernard Shaw
 
-# Working to Resolve the Dynamic Tension between Selfishness and Selflessness 
+## Working to Resolve the Dynamic Tension between Selfishness and Selflessness 
 
 by Marilynn Kulieke
 
@@ -1290,7 +1124,7 @@ TO OTHERS
 
 Doing Good to the God in Others
 
-# C.H.A.N.G.E.S.-Practice Makes Perfect 
+## C.H.A.N.G.E.S.-Practice Makes Perfect 
 
 by Brent St. Denis
 
@@ -1413,7 +1247,7 @@ In my sharing with you today, I wanted to emphasize a few practical things which
 
 Then we'll likely not have too many regrets when we awaken on the mansion worlds.
 
-# Living as in the Presence of God: Making the Effort 
+## Living as in the Presence of God: Making the Effort 
 
 by William Wentworth
 
@@ -1469,7 +1303,7 @@ I thought I'd finish up with this story. At a conference at Noosa, Queensland, A
 
 And I suppose that says in a nutshell what it is like to “live as in the presence of God.” It is simply to live as we are meant to live.
 
-# Everything You Always Wanted to Know about Family Peace! (Ha, Ha) 
+## Everything You Always Wanted to Know about Family Peace! (Ha, Ha) 
 
 by Arlene \& Buck Weimer
 
@@ -1530,7 +1364,7 @@ our Universal Father.
 
 Family peace is a humorous affair, of course, because it is something happening between the periods of conflict. Parents will serve this peace best by being an example of fatherly love while negotiating differences.
 
-# Walking with Humankind 
+## Walking with Humankind 
 
 by Larry Mullins
 
