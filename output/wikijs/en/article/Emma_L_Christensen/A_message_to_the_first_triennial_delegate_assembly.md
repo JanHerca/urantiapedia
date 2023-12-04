@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1964 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1982_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">April 1982 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="pr-2">A message to the triennial delegate assembly</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 GREETINGS TO YOU — the delegates, alternates, councilors, and all Urantians — who are privileged to attend this first meeting of the Triennial Delegate Assembly. This is an historical occasion. What we do and say here will long be a matter of record in the archives of URANTIA Brotherhood, and I doubt not that future generations will look back with longing to this year 1964 and wish they could have been with us, just as we sometimes look back to the times of Jesus on earth and wish we could have walked with him through Galilee, could have sat under the trees with him, listening first-hand to his supernal teachings. Our coming together here today will be an experience we will long cherish, and I hope we will meet the challenges which it presents with courage, devotion, and above all, with unity of purpose.
 
@@ -20,7 +44,7 @@ It is our burden to bring life on this planet up to a new level, which we can an
 
 During my short tenure as President of URANTIA Brotherhood I have expounded on two theses: first, that we become living prophets of the Fatherhood of God and the brotherhood of man, and second, that we remember to subordinate _The URANTIA Book_ to the service of God.
 
-Perhaps we should take a moment now to listen once again to Jesus' admonition to his apostles during one of his profound discussions on religion: “_I admonish you to give up the practice of always quoting the prophets of old .... and instead aspire to become living prophets ... and spiritual heroes of the coming kingdom._” ([UB 155:6.7](/en/The_Urantia_Book/155#p6_7))
+Perhaps we should take a moment now to listen once again to Jesus' admonition to his apostles during one of his profound discussions on religion: “_I admonish you to give up the practice of always quoting the prophets of old .... and instead aspire to become living prophets ... and spiritual heroes of the coming kingdom._” (<a id="a46_326"></a>[UB 155:6.7](/en/The_Urantia_Book/155#p6_7))
 
 What is a prophet? Webster says a prophet is:
 
@@ -35,7 +59,7 @@ I am not too much interested in the number of URANTIA Books you dispense, but I 
 
 To emphasize my point I want to paraphrase a statement made by our first President in his report to the Brotherhood at the end of his three-year tenure. We must be careful not to confuse primary and secondary loyalties. Our primary spiritual loyalty is to the Universal Father, and to him alone. When we encounter some spiritually hungry brother our first objective is to bring him closer to his heavenly Father. This we may attempt to do with or without the book. All things are secondary and subordinate to the acquisition of this one prize: the realization of sonship with God. The book itself is not an end; it is a most important means to an end. If _The URANTIA Book_ becomes mandatory in our ministry. then we have truly subordinated to it our first and primary objective and purpose, as Urantians, which is: the service of God.
 
-> “_You cannot reveal God to those who do not seek for him ... Man must become hungry for truth as a result of the experiences of living, or he must desire to know God as the result of contact with the lives of those who are acquainted with the divine Father before another human being can act as the means of leading such a fellow mortal to the Father in heaven. If we know God, our real business on earth is so to live as to permit the Father to reveal himself in our lives, and thus will all God-seeking persons see the Father and ask for our help in finding out more about the God who in this manner finds expression in our lives._” ([UB 132:7.2](/en/The_Urantia_Book/132#p7_2))
+> “_You cannot reveal God to those who do not seek for him ... Man must become hungry for truth as a result of the experiences of living, or he must desire to know God as the result of contact with the lives of those who are acquainted with the divine Father before another human being can act as the means of leading such a fellow mortal to the Father in heaven. If we know God, our real business on earth is so to live as to permit the Father to reveal himself in our lives, and thus will all God-seeking persons see the Father and ask for our help in finding out more about the God who in this manner finds expression in our lives._” (<a id="a61_638"></a>[UB 132:7.2](/en/The_Urantia_Book/132#p7_2))
 
 When someone asks us, as the apostles asked Jesus, what is your religion? What do you believe? We will joyfully respond:
 
@@ -66,3 +90,27 @@ My dear friends, please bear in mind that good humor and the smile of happiness 
 Let us, therefore, be happy and valiant soldiers of the circles.
 
 August 20, 1964
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1982_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">April 1982 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="pr-2">A message to the triennial delegate assembly</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

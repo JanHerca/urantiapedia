@@ -9,12 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Jim McNelly<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doing The Father's Will and human motivation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Thank you all for being here. I've titled this talk, “Evolving a Personal Religious Experience; from Belief to Faith to Truth.” I've chosen this theme because I feel that the most important message of _The URANTIA Book_, our fifth epochal revelation, is “how to know God,” as contrasted with “how to know _The URANTIA Book_.”
 
 When I began reading the book in 1970 , I was in the midst of a deep quest for truth, nearly a matter of life and death. With the social tumult and crisis of the late 1960 's, I had chosen to do things that would be of service to mankind, to seek for an end to wars and for ideals that would improve the planetary condition. Determined not to rest until I had found answers to my questions, I recognized _The URANTIA Book_ for what it was and literally devoured it within a three month period. On page 17391 found a quote that changed my life:
 
-> “_You are destined to live a narrow and mean life if you learn to love only those who love you. Human love may indeed be reciprocal, but divine love is outgoing in all its satisfaction-seeking. The less of love in any creature's nature, the greater the love need, and the more does divine love seek to satisfy such need. Love is never self-seeking, and it cannot be self-bestowed. Divine love cannot be self-contained; it must be unselfishly bestowed._” ([UB 156:5.11](/en/The_Urantia_Book/156#p5_11))
+> “_You are destined to live a narrow and mean life if you learn to love only those who love you. Human love may indeed be reciprocal, but divine love is outgoing in all its satisfaction-seeking. The less of love in any creature's nature, the greater the love need, and the more does divine love seek to satisfy such need. Love is never self-seeking, and it cannot be self-bestowed. Divine love cannot be self-contained; it must be unselfishly bestowed._” (<a id="a37_457"></a>[UB 156:5.11](/en/The_Urantia_Book/156#p5_11))
 
 After meditating on the nature of love for a few days, I realized that the questions of truth, the nature of reality, and the issue of revelation was this: "Can we love, can we be loved, and from where comes this power of love? Since I was not overly satisfied with myself and was willing to change, I called God's bluff. I decided to make myself receptive to his love and see what happened.
 
@@ -76,7 +97,7 @@ It is supposed to be a natural fact of life that men are the sons of God, It is 
 
 There are religions today that are teaching that men are the children of the devil and that they become _adopted_ children of God when they accept a particular belief system. Those outside their cult are therefore going to a fictitious hell and the cult members live in a world of “us and them.” We have to break the back of this false teaching and be unafraid once and for all to proclaim that all men are the children of God and that we can actually feel and experience our sonship as a personal reality.
 
-There is a remarkable quote which says, “_When the mental mobilization is absolutely total on any level of the psychic upreach toward spirit attainment, when there exists perfection of the human motivation of loyalties to the divine idea, then there very often occurs a sudden downgrasp of the indwelling spirit to synchronize with the concentrated and consecrated purpose of the superconscious mind of the believing mortal._” ([UB 100:5.4](/en/The_Urantia_Book/100#p5_4)) And there is a similar quote on page 1130, “_But the ‘birth’ of religion is not sudden; it is rather a gradual emergence. Nevertheless, sooner or later there is ‘a birth day.’ You do not enter the kingdom of heaven unless you have been ‘born again’ — born of the Spirit._” ([UB 103:2.1](/en/The_Urantia_Book/103#p2_1))
+There is a remarkable quote which says, “_When the mental mobilization is absolutely total on any level of the psychic upreach toward spirit attainment, when there exists perfection of the human motivation of loyalties to the divine idea, then there very often occurs a sudden downgrasp of the indwelling spirit to synchronize with the concentrated and consecrated purpose of the superconscious mind of the believing mortal._” (<a id="a99_428"></a>[UB 100:5.4](/en/The_Urantia_Book/100#p5_4)) And there is a similar quote on page 1130, “_But the ‘birth’ of religion is not sudden; it is rather a gradual emergence. Nevertheless, sooner or later there is ‘a birth day.’ You do not enter the kingdom of heaven unless you have been ‘born again’ — born of the Spirit._” (<a id="a99_747"></a>[UB 103:2.1](/en/The_Urantia_Book/103#p2_1))
 
 There comes a time when there must be a transformation of the consciousness, a new mobilization of the personality, and a new orientation of the spiritual forces within. You don't just happen across such an experience. No one on the street will hand it to you. It won't arrive in the mail. You must go out looking for it. You have to want it. Your desire must be so great that you enter into a new level of “totality of motivation.”
 
@@ -88,9 +109,9 @@ In a sense, we are addicted to our problems and shortcomings. We have our 'spiri
 
 We need to meet God half way. Although God is an absolute being, we are told that he delights in communicating with us, that he wants to share his life with us. He needs us as much as we need him and wants to see with our eyes, to feel with our hands, and to be us. Even Jesus can live again through our lives. We can open our life now, to tell doubt to be gone. “Get the heck out of here, I'm tired of this uncertainty. I want to have a higher experience. I don't want to keep living with these recurring problems. I want to know God. I'm ready to be reborn.”
 
-You have to want it so bad that you reach an absolute decision where your mind is dominated with the Spirit, and then God can share the common ground with you. When your decisions become absolute, the absolute God can communicate with you. He can share himself with you, he can become one with you. Jesus thaws “_... the frozen forms of religion into the liquid liberties of enlightened sonship._” ([UB 155:3.8](/en/The_Urantia_Book/155#p3_8)) Ultimately truth replaces the assurance of faith just as faith transcended our belief.
+You have to want it so bad that you reach an absolute decision where your mind is dominated with the Spirit, and then God can share the common ground with you. When your decisions become absolute, the absolute God can communicate with you. He can share himself with you, he can become one with you. Jesus thaws “_... the frozen forms of religion into the liquid liberties of enlightened sonship._” (<a id="a111_399"></a>[UB 155:3.8](/en/The_Urantia_Book/155#p3_8)) Ultimately truth replaces the assurance of faith just as faith transcended our belief.
 
-Mota number 16 states, “_You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._” ([UB 48:7.18](/en/The_Urantia_Book/48#p7_18))
+Mota number 16 states, “_You cannot perceive spiritual truth until you feelingly experience it, and many truths are not really felt except in adversity._” (<a id="a113_156"></a>[UB 48:7.18](/en/The_Urantia_Book/48#p7_18))
 
 Sometimes you may not have an instant response after reaching a total decision, but you can be sure that your angel and the Adjuster will start testing the sincerity of the decision. They want to know if you really mean it and are going to challenge it through experience, You will find yourself in a crisis where your new decision will be mobilized and you will have to experience for yourself the reality of your choice. If the decision is sincere, the Spirit of Truth will speak to you, sustain you in the conflict, and reveal the Father's love to you.
 
@@ -108,7 +129,28 @@ How can there be anything more important than finding God and sharing his love? 
 
 The reality of the presence of God is not just an idea. I know that it is a reality. It is not a fantasy of the imagina- tion. It can be attained and had as our own personal experience. If you set your mind to it, there is no reason why you can't have a new experience of God this moment.
 
-In conclusion, I wish to share a prayer about the final rest that we will enjoy upon finding Paradise, “_‘And there shall be no more sleep. The presence of God and his Son are before you, and you are eternally his servants; you have seen his face, and his name is your spirit. There shall be no night there; and they need no light of the sun, for the great Source and Center gives them light; they shall live forever and ever. And God shall wipe away all tears from their eyes; there shall be no more death, neither sorrow nor crying, neither shall there be any more pain, for the former things have passed away.’_” ([UB 27:1.5](/en/The_Urantia_Book/27#p1_5))
+In conclusion, I wish to share a prayer about the final rest that we will enjoy upon finding Paradise, “_‘And there shall be no more sleep. The presence of God and his Son are before you, and you are eternally his servants; you have seen his face, and his name is your spirit. There shall be no night there; and they need no light of the sun, for the great Source and Center gives them light; they shall live forever and ever. And God shall wipe away all tears from their eyes; there shall be no more death, neither sorrow nor crying, neither shall there be any more pain, for the former things have passed away.’_” (<a id="a131_617"></a>[UB 27:1.5](/en/The_Urantia_Book/27#p1_5))
 
 — _Jim McNelly_
 _Denver, Colorado_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Doing The Father's Will and human motivation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

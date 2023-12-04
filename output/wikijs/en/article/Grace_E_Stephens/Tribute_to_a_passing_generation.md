@@ -9,10 +9,34 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Grace E. Stephens<br>© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1980_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1980 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Urantian/UNITY_One_view">
+          <span class="pr-2">UNITY — One view</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Youth seeks recognition. Maturity tends to change the individual's perspective with a leavening of the importance of self.
 
-_The URANTIA Book_ honors those who serve quietly behind the scenes. We are told that a reservist is chosen because of his “_... willingness to serve without human recognition and rewards._” ([UB 114:7.5](/en/The_Urantia_Book/114#p7_5))
+_The URANTIA Book_ honors those who serve quietly behind the scenes. We are told that a reservist is chosen because of his “_... willingness to serve without human recognition and rewards._” (<a id="a38_192"></a>[UB 114:7.5](/en/The_Urantia_Book/114#p7_5))
 
 URANTIA Brotherhood seems to be entering a transition period when the old is giving way to the new. Let me admonish those to whom we are entrusting the safekeeping of our revelation not to reject the historic leadership of the many dedicated men and women of the past who have done so much in contributing to the organization of the Brotherhood and have given their lives to the dissemination of these teachings.
 
@@ -33,3 +57,27 @@ The names of the greatest among us are not emblazoned in lights. The world tends
 _Downer's Grove, Illinois_
 
 _Editors note: Grace Stephens graduated to the Mansion Worlds in January, this year._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1980_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1980 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Urantian/UNITY_One_view">
+          <span class="pr-2">UNITY — One view</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

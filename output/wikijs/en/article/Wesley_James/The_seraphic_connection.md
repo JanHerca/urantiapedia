@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Wesley James<br>© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1980_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">July 1980 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="pr-2">Lindbergh — The angelic influence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 One function of revelation is to sort out, clarify, and emphasize the truths which have evolved over the years as men seek to harmonize what they know and what they can believe. Angels have been a part of religious revelation, evolution, tradition, myth, and legend for thousands of years. Some of the most interesting narratives in _The URANTIA Book_ deal with the relationship or connection between mortals and angels.
 
@@ -26,9 +50,33 @@ These are only two of thousands of examples of history where results have far ex
 
 ## “Keep on keeping on”
 
-In writing recently about God the Supreme, my mother once said the important thing seemed to be to “keep on keeping on,” in other words, to hang in there, to continue our best efforts or ideas as we see them. There is something in the universe, the seraphic connection, that, if you will, will intensify these efforts and bring about the best results for all concerned. We may not recognize the results as such, or even live to see them: but faith assures that, with help from our unseen friends, things work out for good. This is the meaning of the morontia mota, “_The act is ours; the consequences God's._” ([UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
+In writing recently about God the Supreme, my mother once said the important thing seemed to be to “keep on keeping on,” in other words, to hang in there, to continue our best efforts or ideas as we see them. There is something in the universe, the seraphic connection, that, if you will, will intensify these efforts and bring about the best results for all concerned. We may not recognize the results as such, or even live to see them: but faith assures that, with help from our unseen friends, things work out for good. This is the meaning of the morontia mota, “_The act is ours; the consequences God's._” (<a id="a52_611"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
 
 In the early days of the dissemination of The URANTIA Book and its teachings, its spread has been slow but increasingly certain. I'm sure the seraphim are assisting the true efforts of all the individuals concerned with the movement. With such help we are assured of success. I'm also convinced that the long-term result of the URANTIA revelation, when viewed as history sometime in the future, will be greater than any involved with the movement in these very early days can foresee. I believe the seraphic connection will continue and will add to our efforts. As people become more willing to follow their higher ideas, religiously, politically, and socially, there is nothing that can't be attempted and eventually accomplished.
 
 — _Wesley R. James_
 _Forest Park, Illinois_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1980_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">July 1980 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="pr-2">Lindbergh — The angelic influence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

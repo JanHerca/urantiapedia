@@ -9,18 +9,42 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Lange<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Art of Sharing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="pr-2">Walking with Children Walking with God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by John Lange
 
 ## Introduction
 
-As devotees of the Urantia revelation we have chosen to explore new spiritual realities. As we each pursue our own spiritual growth through religious experience, _The Urantia Book_ on [UB 100:1.8](/en/The_Urantia_Book/100#p1_8) lists habits to discipline this process. The discipline I shall focus upon is “_the recognition of religious living in others._” What is religious living and how do we recognize it? On page 66 we are given a simple and inspiring answer: “_...it [religion] is a living and dynamic experience of divinity attainment predicated on humanity service._” Therefore the recognition of religious living is an appreciation of this service dynamic as manifested in others.
+As devotees of the Urantia revelation we have chosen to explore new spiritual realities. As we each pursue our own spiritual growth through religious experience, _The Urantia Book_ on <a id="a40_184"></a>[UB 100:1.8](/en/The_Urantia_Book/100#p1_8) lists habits to discipline this process. The discipline I shall focus upon is “_the recognition of religious living in others._” What is religious living and how do we recognize it? On page 66 we are given a simple and inspiring answer: “_...it [religion] is a living and dynamic experience of divinity attainment predicated on humanity service._” Therefore the recognition of religious living is an appreciation of this service dynamic as manifested in others.
 
-Through service we gain status as universe citizens, and this is emphasized in every section of _The Urantia Book_. In our universe career we are told on [UB 28:6.17](/en/The_Urantia_Book/28#p6_17), “_Service...is the goal of time and the destiny of space._” In the Thought Adjuster papers at the bottom of [UB 110:3.8](/en/The_Urantia_Book/110#p3_8) we are instructed that we can consciously augment Adjuster harmony by “_loving God and desiring to be like him_” and by “_loving man and sincerely desiring to serve him._”
+Through service we gain status as universe citizens, and this is emphasized in every section of _The Urantia Book_. In our universe career we are told on <a id="a42_154"></a>[UB 28:6.17](/en/The_Urantia_Book/28#p6_17), “_Service...is the goal of time and the destiny of space._” In the Thought Adjuster papers at the bottom of <a id="a42_307"></a>[UB 110:3.8](/en/The_Urantia_Book/110#p3_8) we are instructed that we can consciously augment Adjuster harmony by “_loving God and desiring to be like him_” and by “_loving man and sincerely desiring to serve him._”
 
 In our instruction on human government we are taught “Modern society is largely held together by the industrial market. The gain motive is a mighty civilizer when augmented by the desire to serve.” Likewise, service and participation is the essence of the Supreme adventure. In our introduction to the Supreme papers we are told, “With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status — one must do something as well as be something.”
 
-During his sojourn on Urantia, Jesus repeatedly encouraged his followers in the service of their planetary brothers and sisters. In his teaching at Tyre he instructs us, “_Self-respect is always co-ordinate with the love and service of one's fellows. It is not possible to respect yourself more than you love your neighbor; the one is the measure of the capacity for the other._” In his discourse on sonship and citizenship he states, “_Sonship in the kingdom, from the standpoint of advancing civilization, should assist you in becoming ideal citizens of the kingdoms of this world since brotherhood and service are the cornerstones of the gospel of the kingdom._” Likewise on [UB 188:4.9](/en/The_Urantia_Book/188#p4_9) we are told, “_Jesus taught that service to one's fellows is the highest concept of the brotherhood of spirit believers... The believer's chief concern should not be the selfish desire for personal salvation but rather the unselfish urge to love and, therefore, serve one's fellows even as Jesus loved and served mortal men._” Thus he replaced this ego concern with a higher transpersonal mission.
+During his sojourn on Urantia, Jesus repeatedly encouraged his followers in the service of their planetary brothers and sisters. In his teaching at Tyre he instructs us, “_Self-respect is always co-ordinate with the love and service of one's fellows. It is not possible to respect yourself more than you love your neighbor; the one is the measure of the capacity for the other._” In his discourse on sonship and citizenship he states, “_Sonship in the kingdom, from the standpoint of advancing civilization, should assist you in becoming ideal citizens of the kingdoms of this world since brotherhood and service are the cornerstones of the gospel of the kingdom._” Likewise on <a id="a46_678"></a>[UB 188:4.9](/en/The_Urantia_Book/188#p4_9) we are told, “_Jesus taught that service to one's fellows is the highest concept of the brotherhood of spirit believers... The believer's chief concern should not be the selfish desire for personal salvation but rather the unselfish urge to love and, therefore, serve one's fellows even as Jesus loved and served mortal men._” Thus he replaced this ego concern with a higher transpersonal mission.
 
 Throughout _The Urantia Book_ religion is described as this dual experience of loving God and serving man. Vertically upward and inward through prayer and worship the ascending mortal finds the Father and communes with the Adjuster. Horizontally the mortal is broadened and expanded through service and experience to discover the Supreme. In combination the edifice of a spiritual life is fashioned. (_See Figure 1 below._)
 
@@ -127,3 +151,27 @@ These four communities were chosen because of their unique formation under adver
 ### The Future
 
 What can we learn from this study as we struggle toward spiritual community in the Urantia Movement? Are we ready to make the sacrifice necessary and surrender to the larger spiritual pattern? It is interesting that events on the world stage should coincide with the metamorphosis in the Urantia Movement. In a recently publicized article entitled “The End of History?” the author claimed history has reached an end point with the success of democratic society. The goals of past human adventurism are now provided for by the global economy. Society will soon be reduced to the role of perpetual caretaking. An ardent critic observed little consideration had been given to the higher needs of society now crying for expression, namely the longing for spirituality and community. It seems a spiritual awakening has called upon nations to discard the shackles of repression and for us to evolve a langer sense of spiritual community. Through struggle and conflict we are being prepared to stand at the vanguard and offer this revelation of truth to a world made ready for its reception.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Art of Sharing</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="pr-2">Walking with Children Walking with God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

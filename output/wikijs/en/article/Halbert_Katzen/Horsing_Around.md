@@ -22,17 +22,17 @@ When _The Urantia Book_ was published in 1955, archaeological evidence did not e
 
 The authors of _The Urantia Book_ go into a certain degree of detail regarding the domestication of the horse, asserting that this started in Mesopotamia and spread to the world from this region. This information is presented as part of a comprehensive review of human history. In _The Urantia Book_ the people that initially domesticated the horse are referred to as the “Andite” race. The following quotes provide some highlights of _The Urantia Book_'s depiction of horse domestication that relate to recent discoveries:
 
-> “The last three waves of Andites poured out of Mesopotamia between 8000 and 6000 B.C. These three great waves of culture were forced out of Mesopotamia by the pressure of the hill tribes to the east and the harassment of the plainsmen of the west.” [UB 78:6.1](/en/The_Urantia_Book/78#p6_1)
+> “The last three waves of Andites poured out of Mesopotamia between 8000 and 6000 B.C. These three great waves of culture were forced out of Mesopotamia by the pressure of the hill tribes to the east and the harassment of the plainsmen of the west.” <a id="a24_251"></a>[UB 78:6.1](/en/The_Urantia_Book/78#p6_1)
 > 
-> “The horse gave the dispersing Andites the hitherto nonexistent advantage of mobility, enabling the last groups of Andite cavalrymen to progress quickly ...” [UB 80:4.4](/en/The_Urantia_Book/80#p4_4)
+> “The horse gave the dispersing Andites the hitherto nonexistent advantage of mobility, enabling the last groups of Andite cavalrymen to progress quickly ...” <a id="a26_160"></a>[UB 80:4.4](/en/The_Urantia_Book/80#p4_4)
 > 
-> “Ten per cent of these fleeing Andites made their way across Arabia and entered Egypt.” [UB 78:6.5](/en/The_Urantia_Book/78#p6_5)
+> “Ten per cent of these fleeing Andites made their way across Arabia and entered Egypt.” <a id="a28_90"></a>[UB 78:6.5](/en/The_Urantia_Book/78#p6_5)
 > 
-> “Sixty-five per cent entered Europe by the Caspian Sea route ...” [UB 78:6.2](/en/The_Urantia_Book/78#p6_2)
+> “Sixty-five per cent entered Europe by the Caspian Sea route ...” <a id="a30_68"></a>[UB 78:6.2](/en/The_Urantia_Book/78#p6_2)
 > 
-> “Ten per cent . . . moved eastward through the Elamite highlands to the Iranian plateau and Turkestan.” [UB 78:6.3](/en/The_Urantia_Book/78#p6_3)
+> “Ten per cent . . . moved eastward through the Elamite highlands to the Iranian plateau and Turkestan.” <a id="a32_106"></a>[UB 78:6.3](/en/The_Urantia_Book/78#p6_3)
 > 
-> “The civilization of Turkestan was constantly being revived and refreshed by the newcomers from Mesopotamia, especially by the later Andite cavalrymen.” [UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
+> “The civilization of Turkestan was constantly being revived and refreshed by the newcomers from Mesopotamia, especially by the later Andite cavalrymen.” <a id="a34_155"></a>[UB 78:5.3](/en/The_Urantia_Book/78#p5_3)
 
 A 2011 Reuters story, covering an archaeological discovery made in Saudi Arabia, reported, “The Maqar Civilization is a very advanced civilization of the Neolithic period. This site shows us clearly, the roots of the domestication of horses 9,000 years ago.”
 
@@ -203,18 +203,18 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 
 ## Footnotes:
 
-[^1]: Urantia Book [UB 80:4.1](/en/The_Urantia_Book/80#p4_1)
-[^2]: Urantia Book [UB 80:4.3,4](/en/The_Urantia_Book/80#p4_3)
-[^3]: Urantia Book [UB 78:6.1-3,5](/en/The_Urantia_Book/78#p6_1)
+[^1]: Urantia Book <a id="a205_19"></a>[UB 80:4.1](/en/The_Urantia_Book/80#p4_1)
+[^2]: Urantia Book <a id="a206_19"></a>[UB 80:4.3,4](/en/The_Urantia_Book/80#p4_3)
+[^3]: Urantia Book <a id="a207_19"></a>[UB 78:6.1-3,5](/en/The_Urantia_Book/78#p6_1)
 [^4]: http://www.reuters.com/article/2011/08/25/uk-saudi-archaeology-idUSLNE77001R20110825
 [^5]: http://www.bbc.co.uk/news/world-middle-east-14658678
 [^6]: http://www.middle-east-online.com/english/?id=47796
-[^7]: Urantia Book [UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
-[^8]: Urantia Book [UB 76:3.6](/en/The_Urantia_Book/76#p3_6)
-[^9]: Urantia Book [UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
-[10^]: Urantia Book  [UB 78:5.2,3](/en/The_Urantia_Book/78#p5_2)
-[11^]: Urantia Book [UB 80:4.5](/en/The_Urantia_Book/80#p4_5)
-[12^]: Urantia Book [UB 81:2.8](/en/The_Urantia_Book/81#p2_8)
+[^7]: Urantia Book <a id="a211_19"></a>[UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
+[^8]: Urantia Book <a id="a212_19"></a>[UB 76:3.6](/en/The_Urantia_Book/76#p3_6)
+[^9]: Urantia Book <a id="a213_19"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
+[10^]: Urantia Book  <a id="a214_21"></a>[UB 78:5.2,3](/en/The_Urantia_Book/78#p5_2)
+[11^]: Urantia Book <a id="a215_20"></a>[UB 80:4.5](/en/The_Urantia_Book/80#p4_5)
+[12^]: Urantia Book <a id="a216_20"></a>[UB 81:2.8](/en/The_Urantia_Book/81#p2_8)
 [13^]: http://www.sciencemag.org/content/323/5919/1332
 [14^]: http://www.reuters.com/article/2009/03/05/us-horses-history-idUSTRE5246HI20090305
 [15^]: http://arstechnica.com/science/news/2009/03/domesticating-the-horse.ars

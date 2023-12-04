@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Rosey Lieske<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1982_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1982 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The Supreme is described in many ways. But in my mind I keep seeing him as the mysterious, all-seeing fetus, alive and forming in space at the conclusion of 2001. A God striving and active and, yet, restlessly incomplete. He is literally 'our God' — our simultaneously evolving Creator/creature. In him we have our origins and real significance, and in us he finds access to another facet of realizable experience — another avenue to the source of his being — the Paradise Father.
 
@@ -38,7 +59,7 @@ Past hypothesis and reason, one simply runs into the nature of the Father himsel
 
 We find this statement in Paper 115.
 
-> “_The realms of the finite exist by virtue of the eternal purpose of God. Finite creatures, high and low, may propound theories, and have done so, as to the necessity of the finite in the cosmic economy, but in the last analysis it exists because God so willed._” ([UB 115:1.4](/en/The_Urantia_Book/115#p1_4))
+> “_The realms of the finite exist by virtue of the eternal purpose of God. Finite creatures, high and low, may propound theories, and have done so, as to the necessity of the finite in the cosmic economy, but in the last analysis it exists because God so willed._” (<a id="a61_267"></a>[UB 115:1.4](/en/The_Urantia_Book/115#p1_4))
 
 Of course when God wills and acts, tremendous and replete reactions occur in the formation and shifting of reality. In the course of study we become aware of spirit/ non-spirit relationships — as with the Spirit Father “I am” and “the material fulcrum of infinity” Paradise — eternity/ non-eternity relationships, which become existential/ experiential reality; and we read of personal/non-personal realities. Within God, and resultant of his will, these functional and replete separations occur; separations which at first look so simple and, upon thought, reveal an infinite beauty of purpose reflective of God's nature.
 
@@ -64,7 +85,7 @@ This reality of experience — organized, synthesized, and unified in the Suprem
 
 These relationships are beautifully summarized:
 
-> “_The Supreme is symmetrically inclusive. The First Source and Center is potential in the three great Absolutes, is actual in Paradise, in the Son, and in the Spirit; but the Supreme is both actual and potential, a being of personal supremacy and of almighty power, responsive alike to creature effort and Creator purpose; self-acting upon the universe and self-reactive to the sum total of the universe; and at one and the same time the supreme creator and the supreme creature. The Deity of Supremacy is thus expressive of the sum total of the entire finite._” ([UB 117:1.9](/en/The_Urantia_Book/117#p1_9))
+> “_The Supreme is symmetrically inclusive. The First Source and Center is potential in the three great Absolutes, is actual in Paradise, in the Son, and in the Spirit; but the Supreme is both actual and potential, a being of personal supremacy and of almighty power, responsive alike to creature effort and Creator purpose; self-acting upon the universe and self-reactive to the sum total of the universe; and at one and the same time the supreme creator and the supreme creature. The Deity of Supremacy is thus expressive of the sum total of the entire finite._” (<a id="a87_566"></a>[UB 117:1.9](/en/The_Urantia_Book/117#p1_9))
 
 The Supreme is in the business of synthesizing and mobilizing all this effort and purpose, striving for his own realization and gaining sovereignty step by step. He immediately functions in our lives as the unifier of our experience in God the Sevenfold. He is the very depth of deity we will ever understand. We may attain the Father, but we will _comprehend_ the Supreme. And he is ultimately our only approach to those processes and mentalities which transcend time and space and to those who are perfect and/or eternal in nature. When we step back and witness our innate processes of thought — constantly co-relating, sorting, and unifying our experience — it's easy to see that the functions of Supremacy in our lives are so elemental as to be almost unnoticeable. Like water to fish — a reaction reliability as cosmically supportive and all-embracing as sunshine and air.
 
@@ -76,7 +97,7 @@ But how do we stimulate the greatest capacities in ourselves for the recognition
 
 Taking into consideration the uniqueness of individual ability and the constructions of circumstance that tell us each, “This is the way,” the variables of such a functional viewpoint are insights leading to actions based on faith, love, and service, supreme spiritual values reflective of God's will.
 
-> “_The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them — advance in spirit status — by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always in any sphere, in all of them — this is to choose to do the will of God._” ([UB 39:4.14](/en/The_Urantia_Book/39#p4_14))
+> “_The keys of the kingdom of heaven are: sincerity, more sincerity, and more sincerity. All men have these keys. Men use them — advance in spirit status — by decisions, by more decisions, and by more decisions. The highest moral choice is the choice of the highest possible value, and always in any sphere, in all of them — this is to choose to do the will of God._” (<a id="a99_370"></a>[UB 39:4.14](/en/The_Urantia_Book/39#p4_14))
 
 Our business is to perfect our intention within the motion of the Supreme. To create an alignment of will by decisions based on the desire for alignment. The experiential realization of God's will in our lives is based on decision-making and this all has greater significance when we consider our place in the Supreme.
 
@@ -104,7 +125,7 @@ As spirit embryos we simply can't hope to be immediately conscious of all the wo
 
 Thoughts and experiences eventually comprise a compendium of spirit value — the substance from which the Adjuster weaves the living threads of our present and future souls.
 
-> “_The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward._” ([UB 101:1.3](/en/The_Urantia_Book/101#p1_3))
+> “_The divine spirit makes contact with mortal man, not by feelings or emotions, but in the realm of the highest and most spiritualized thinking. It is your thoughts, not your feelings, that lead you Godward._” (<a id="a127_213"></a>[UB 101:1.3](/en/The_Urantia_Book/101#p1_3))
 
 They say it is through the medium of thought that we engage in our destiny making. Thoughts forge a path from matter to spirit — from potential to actual. Thoughts develop, color, and change the world and the soul. The one realm which we have clear access to in our embryonic state is mind.
 
@@ -128,7 +149,7 @@ Faith becomes the technique of engaging the infinite in the struggles of the fin
 
 Now lef's look at their relationship to the Supreme in the Triodity of Actuality. We find that:
 
-> “_Universal beauty is the recognition of the reflection of the Isle of Paradise in the material creation, while eternal truth is the special ministry of the Paradise Sons who not only bestow themselves upon the mortal races but even pour out their Spirit of Truth upon all peoples. Divine goodness is more fully shown forth in the loving ministry of the manifold personalities of the Infinite Spirit. But love, the sum total of these three qualities, is man's perception of God as his spirit Father._” ([UB 56:10.17](/en/The_Urantia_Book/56#p10_17))
+> “_Universal beauty is the recognition of the reflection of the Isle of Paradise in the material creation, while eternal truth is the special ministry of the Paradise Sons who not only bestow themselves upon the mortal races but even pour out their Spirit of Truth upon all peoples. Divine goodness is more fully shown forth in the loving ministry of the manifold personalities of the Infinite Spirit. But love, the sum total of these three qualities, is man's perception of God as his spirit Father._” (<a id="a151_505"></a>[UB 56:10.17](/en/The_Urantia_Book/56#p10_17))
 
 Then we're back to man again — recognizing God as love, mobilizing God's potential through faith, and manifesting it through service.
 
@@ -178,3 +199,24 @@ He would close his fingers to a glint of space and say, “That's where He lives
 
 —_Rose Lieske_
 _Phoenix, Arizona_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1982_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1982 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

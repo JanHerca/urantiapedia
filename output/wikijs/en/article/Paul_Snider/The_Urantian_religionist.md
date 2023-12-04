@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Paul Snider<br>© 1985 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1985_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">July 1985 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Friends, fellow adventurers ... I salute the God within you,
 
@@ -41,24 +62,24 @@ To get at this question I think we first have to come to an understanding of wha
 What the URANTIA movement is not — what we are not — is a separate religion. And if we remain faithful to the teachings of _The URANTIA Book_, _we will never attempt to form a separate religion or a church_. And there are three very powerful reasons for this:
 
 - The first comes from something the very early members of the URANTIA movement were told during the time of the presentation of the revelation. The early members were told that “We are in association with a revelation of truth which is part of the natural evolution of religion on this world.”
-- The second comes from [Paper 120](/en/The_Urantia_Book/120) of _The URANTIA Book_, from Immanuel's pre-bestowal instructions to Michael of Nebadon. Included in Immanuel's instructions was this statement: “_As you may see fit, you are to identify yourself with existing religious and spiritual movements as they may be found on Urantia but in every possible manner seek to avoid the formal establishment of an organized cult, a crystallized religion, or a segregated ethical grouping of mortal beings. Your life and teachings are to become the common heritage of all religions and all peoples._” ([UB 120:3.6](/en/The_Urantia_Book/120#p3_6)) Certainly Jesus lived up to this instruction. He did not come to supplant, but to uplift, to expand, to disencumber, to free us forever from the enslavement of ignorance and fear. And as followers of Jesus let us always remember Immanuel's instructions as a guide to our own decisions.
-- The third reason is this: We know for a certainty that “_If religion is to promote supreme loyalties, it must not be formalized._” ([UB 99:4.3](/en/The_Urantia_Book/99#p4_3)) And what is the purpose of the URANTIA movement if it is not to promote supreme loyalties?
+- The second comes from [Paper 120](/en/The_Urantia_Book/120) of _The URANTIA Book_, from Immanuel's pre-bestowal instructions to Michael of Nebadon. Included in Immanuel's instructions was this statement: “_As you may see fit, you are to identify yourself with existing religious and spiritual movements as they may be found on Urantia but in every possible manner seek to avoid the formal establishment of an organized cult, a crystallized religion, or a segregated ethical grouping of mortal beings. Your life and teachings are to become the common heritage of all religions and all peoples._” (<a id="a64_598"></a>[UB 120:3.6](/en/The_Urantia_Book/120#p3_6)) Certainly Jesus lived up to this instruction. He did not come to supplant, but to uplift, to expand, to disencumber, to free us forever from the enslavement of ignorance and fear. And as followers of Jesus let us always remember Immanuel's instructions as a guide to our own decisions.
+- The third reason is this: We know for a certainty that “_If religion is to promote supreme loyalties, it must not be formalized._” (<a id="a65_134"></a>[UB 99:4.3](/en/The_Urantia_Book/99#p4_3)) And what is the purpose of the URANTIA movement if it is not to promote supreme loyalties?
 
-If anyone seriously believes we should become a religion or form a church, I would urge him to read [UB 99:6.1-4](/en/The_Urantia_Book/99#p6_1) of _The URANTIA Book_, which lists sixteen very real dangers that all religions face to the extent to which they become institutionalized, any one of which should be enough to make students of _The URANTIA Book_ shudder in their bones.
+If anyone seriously believes we should become a religion or form a church, I would urge him to read <a id="a67_100"></a>[UB 99:6.1-4](/en/The_Urantia_Book/99#p6_1) of _The URANTIA Book_, which lists sixteen very real dangers that all religions face to the extent to which they become institutionalized, any one of which should be enough to make students of _The URANTIA Book_ shudder in their bones.
 
-What page 1092 teaches us is that “_...as religion becomes institutionalized, its power for good is curtailed, while the possibilities for evil are greatly multiplied._” ([UB 99:6.3](/en/The_Urantia_Book/99#p6_3)) The warning fairly bristles with words like “petrification,” “fossilization,” “chosen-people attitudes,” “fixation,” “vested interests,” and so forth. ([UB 99:6.3](/en/The_Urantia_Book/99#p6_3))
+What page 1092 teaches us is that “_...as religion becomes institutionalized, its power for good is curtailed, while the possibilities for evil are greatly multiplied._” (<a id="a69_171"></a>[UB 99:6.3](/en/The_Urantia_Book/99#p6_3)) The warning fairly bristles with words like “petrification,” “fossilization,” “chosen-people attitudes,” “fixation,” “vested interests,” and so forth. (<a id="a69_366"></a>[UB 99:6.3](/en/The_Urantia_Book/99#p6_3))
 
-There is a suggestion that movement in the direction of an organized religion that would begin to focus our attention away from the service of God and more toward the service of our organization. There is a strong implication that we might gradually lose “_...the saving message of the gospel of eternal salvation._” ([UB 99:6.3](/en/The_Urantia_Book/99#p6_3))
+There is a suggestion that movement in the direction of an organized religion that would begin to focus our attention away from the service of God and more toward the service of our organization. There is a strong implication that we might gradually lose “_...the saving message of the gospel of eternal salvation._” (<a id="a71_318"></a>[UB 99:6.3](/en/The_Urantia_Book/99#p6_3))
 
-The moment we begin to think of ourselves as a new religion separate and apart, we enter into a fundamental change in our relationship with all religions. Instead of a cooperative relationship, we become competitors. “_Religion is the most rigid and unyielding of all human institutions. ..._” ([UB 92:2.1](/en/The_Urantia_Book/92#p2_1)) very slow to change, very slow ”... to accept advanced revealed truth." (1012.1) And in the face of this major fact, as a competitor, we would simply be just one more religious group among some 200 conventional Christian and Jewish Denominations and about 1,300 other religious groups in the United States alone.
+The moment we begin to think of ourselves as a new religion separate and apart, we enter into a fundamental change in our relationship with all religions. Instead of a cooperative relationship, we become competitors. “_Religion is the most rigid and unyielding of all human institutions. ..._” (<a id="a73_295"></a>[UB 92:2.1](/en/The_Urantia_Book/92#p2_1)) very slow to change, very slow ”... to accept advanced revealed truth." (1012.1) And in the face of this major fact, as a competitor, we would simply be just one more religious group among some 200 conventional Christian and Jewish Denominations and about 1,300 other religious groups in the United States alone.
 
 ## Leavening Essential
 
 It begins to become very clear that unless we adopt an unmistakable policy of becoming a leavening influence within all of the world's religions — which is exactly the opposite of remaining separate and apart — we may gradually lose all further hope of playing an important role in the spiritual transformation of mankind.
 
-Now all of this does not mean we should be afraid of becoming too social in our practice of religion. Just the opposite. We know that “_spiritual growth is mutually stimulated by intimate association with other religionists. Love supplies the soil for religious growth ..._” ([UB 100:0.2](/en/The_Urantia_Book/100#p0_2)) _The URANTIA Book_ also says that “_While religion is exclusively a personal spiritual experience — knowing God as a Father-the corollary of this experience-knowing man as a brother-entails the adjustment of the self to other selves, and that involves the social or group aspect of religious life._” ([UB 99:5.1](/en/The_Urantia_Book/99#p5_1))
+Now all of this does not mean we should be afraid of becoming too social in our practice of religion. Just the opposite. We know that “_spiritual growth is mutually stimulated by intimate association with other religionists. Love supplies the soil for religious growth ..._” (<a id="a79_276"></a>[UB 100:0.2](/en/The_Urantia_Book/100#p0_2)) _The URANTIA Book_ also says that “_While religion is exclusively a personal spiritual experience — knowing God as a Father-the corollary of this experience-knowing man as a brother-entails the adjustment of the self to other selves, and that involves the social or group aspect of religious life._” (<a id="a79_622"></a>[UB 99:5.1](/en/The_Urantia_Book/99#p5_1))
 
-To make this point even more dramatic, _The URANTIA Book_ also tells us that “_... it is most important that you should be exposed to the knowledge of a vast number [ — a vast number — ] of other religious ex- periences...to the end that you may prevent your religious life from becoming egocentric-circumscribed, selfish, and unsocial._” ([UB 103:1.3](/en/The_Urantia_Book/103#p1_3))
+To make this point even more dramatic, _The URANTIA Book_ also tells us that “_... it is most important that you should be exposed to the knowledge of a vast number [ — a vast number — ] of other religious ex- periences...to the end that you may prevent your religious life from becoming egocentric-circumscribed, selfish, and unsocial._” (<a id="a81_340"></a>[UB 103:1.3](/en/The_Urantia_Book/103#p1_3))
 
 The dilemma appears to be that if _The URANTIA Book_ is encouraging us to be social while at the same time warning us not to form a separate religion, that leaves us with another big question: How do we attempt to socialize our religious experiences in a way that is fully consistent with the URANTIA teachings?
 
@@ -74,7 +95,7 @@ This is where the two words come in: _Get involved!_ It doesn't matter where we 
 
 For anyone who is already a member of an organized religion, there are many ways of becoming a more active religionist. Once the commitment is made, the opportunities for service begin to unfold everywhere we turn. Every person has some special gift that is useful to the purpose of God. For some it may only be that we can be a true and faithful friend or a warm and sympathetic listener.
 
-For religionists who are not members of an organized religion, but would like to be — or for those who are in a formal religion but are uncomfortable and searching for something more satisfying, the question of how to get involved becomes more intriguing. There are at least “_... five hundred different definitions of religion._” ([UB 103:1.1](/en/The_Urantia_Book/103#p1_1)). Which one do we choose?
+For religionists who are not members of an organized religion, but would like to be — or for those who are in a formal religion but are uncomfortable and searching for something more satisfying, the question of how to get involved becomes more intriguing. There are at least “_... five hundred different definitions of religion._” (<a id="a97_332"></a>[UB 103:1.1](/en/The_Urantia_Book/103#p1_1)). Which one do we choose?
 
 When Mary and I faced this question back in the mid-60's, we had between us already experienced long periods of religious training in Protestantism, Catholicism, and Judaism. But we had not been comfortable with any of our prior religious experiences, and we were searching for something more closely attuned to the teachings of _The URANTIA Book_.
 
@@ -82,15 +103,15 @@ Our approach may sound a bit unusual to you, but we literally looked through the
 
 And all of this was within the framework of a formal religious denomination that had never heard of _The URANTIA Book_.
 
-For those who are searching for a better way than they have yet found, _The URANTIA Book_ provides numerous important clues. The world's definition of a major religion is one that attracts very large numbers of followers. But the URANTIA Papers help us to see this in a different way. They help us to understand that a major religion is one that is greatest in its Cod perception, one that most effectively leads its followers to become progressively more Godlike. _The URANTIA Book_ explains that “_The truth and maturity of any religion is directly proportional to its concept of the infinite personality of God and to its grasp of the absolute unity of Deity._” ([UB 1:5.10](/en/The_Urantia_Book/1#p5_10))
+For those who are searching for a better way than they have yet found, _The URANTIA Book_ provides numerous important clues. The world's definition of a major religion is one that attracts very large numbers of followers. But the URANTIA Papers help us to see this in a different way. They help us to understand that a major religion is one that is greatest in its Cod perception, one that most effectively leads its followers to become progressively more Godlike. _The URANTIA Book_ explains that “_The truth and maturity of any religion is directly proportional to its concept of the infinite personality of God and to its grasp of the absolute unity of Deity._” (<a id="a105_666"></a>[UB 1:5.10](/en/The_Urantia_Book/1#p5_10))
 
-There are also any number of passages that illuminate various dimensions of true religion. The essence of these definitions is that “_True religion is to know God as your Father and man as your brother_” ([UB 99:5.2](/en/The_Urantia_Book/99#p5_2)) “_... a living love, a life of [wholehearted] service._” ([UB 100:6.5](/en/The_Urantia_Book/100#p6_5))
+There are also any number of passages that illuminate various dimensions of true religion. The essence of these definitions is that “_True religion is to know God as your Father and man as your brother_” (<a id="a107_205"></a>[UB 99:5.2](/en/The_Urantia_Book/99#p5_2)) “_... a living love, a life of [wholehearted] service._” (<a id="a107_306"></a>[UB 100:6.5](/en/The_Urantia_Book/100#p6_5))
 
-In contrast, “_...organized religion is man's attempt to socialize the worship of individual religionists._” ([UB 143:7.3](/en/The_Urantia_Book/143#p7_3))
+In contrast, “_...organized religion is man's attempt to socialize the worship of individual religionists._” (<a id="a109_110"></a>[UB 143:7.3](/en/The_Urantia_Book/143#p7_3))
 
-But whether we function inside the church or outside, we should always be learning. Truth did not stop with _The URANTIA Book_. The fifth epochal revelation does not claim to be the end of revelation. The love and uplifting inspiration of God is flashing all the time into the lives of sincere and truth-seeking religionists throughout the world. Because we have _The URANTIA Book_ does not for a moment mean that we alone are in possession of Capital “T” Truth. The book we study would call this “...theological arrogance...” and would tell us that “_There is not a Urantia religion that could not profitably study and assimilate the best of the truths contained in every other faith, for all contain truth._” ([UB 92:7.3](/en/The_Urantia_Book/92#p7_3))
+But whether we function inside the church or outside, we should always be learning. Truth did not stop with _The URANTIA Book_. The fifth epochal revelation does not claim to be the end of revelation. The love and uplifting inspiration of God is flashing all the time into the lives of sincere and truth-seeking religionists throughout the world. Because we have _The URANTIA Book_ does not for a moment mean that we alone are in possession of Capital “T” Truth. The book we study would call this “...theological arrogance...” and would tell us that “_There is not a Urantia religion that could not profitably study and assimilate the best of the truths contained in every other faith, for all contain truth._” (<a id="a111_712"></a>[UB 92:7.3](/en/The_Urantia_Book/92#p7_3))
 
-The important thing to remember when we consider our individual relationship with organized religion Capital “R” Religion — is this: All religions are limited, but man is unlimited. I have observed that in every religion sincere religionists seem to rise above the limitations of their religion. Outwardly they may go through the “_...rites, rituals, ... ceremonies..._” ([UB 92:3.3](/en/The_Urantia_Book/92#p3_3)), but inwardly they have grasped and attempt to live at levels of truth comprehension that transcend the limitations of their religion. For those who are sincere, really sincere, the indwelling spirit of the Father lifts them up step by step to become great beacons of light for the rest of us. The point of this is that in every religion there are brilliant spiritual leaders who can teach us much. We can learn from them at the same time we are sharing with them the brilliant things we have found, But let us share with a warm and open heart, a sincere and humble heart.
+The important thing to remember when we consider our individual relationship with organized religion Capital “R” Religion — is this: All religions are limited, but man is unlimited. I have observed that in every religion sincere religionists seem to rise above the limitations of their religion. Outwardly they may go through the “_...rites, rituals, ... ceremonies..._” (<a id="a113_372"></a>[UB 92:3.3](/en/The_Urantia_Book/92#p3_3)), but inwardly they have grasped and attempt to live at levels of truth comprehension that transcend the limitations of their religion. For those who are sincere, really sincere, the indwelling spirit of the Father lifts them up step by step to become great beacons of light for the rest of us. The point of this is that in every religion there are brilliant spiritual leaders who can teach us much. We can learn from them at the same time we are sharing with them the brilliant things we have found, But let us share with a warm and open heart, a sincere and humble heart.
 
 ## Building Bridges
 
@@ -166,7 +187,7 @@ But let us not ever confuse sharing at the intellectual level with the deeper an
 
 At the spiritual level, the first thing we can share is the actual experience of encountering and believing a major revelation of truth. The second thing we can share at the level of truth is our willingness to base our entire life plan on these teachings, and if it should ever become necessary, to defend them to the death. The third thing we can share is our faith. A faith that has driven all fear out of our being. A faith that shows by our actions, not merely by our words, that we really trust God. The fourth thing we can share is our determination to practice the presence of God in our life during every waking hour — not as an external authority looking down in judgment, but rather as a partner in destiny who at every single moment is capable of connecting us with infinity, if we will but let him.
 
-As religionists we know that at every waking moment in our lives we can enter into the second greatest adventure of all time by seeking the will of the living God. And if we are brave enough we can go beyond that, into the most satisfying and thrilling adventure of all time and that is “_... the supreme experience of honestly trying to do that divine will... [and we know that] the will of God can be done in any earthly occupation. Some callings are not holy and others secular. All things are sacred in the lives of those who are spirit led..._” ([UB 155:6.11](/en/The_Urantia_Book/155#p6_11))
+As religionists we know that at every waking moment in our lives we can enter into the second greatest adventure of all time by seeking the will of the living God. And if we are brave enough we can go beyond that, into the most satisfying and thrilling adventure of all time and that is “_... the supreme experience of honestly trying to do that divine will... [and we know that] the will of God can be done in any earthly occupation. Some callings are not holy and others secular. All things are sacred in the lives of those who are spirit led..._” (<a id="a189_551"></a>[UB 155:6.11](/en/The_Urantia_Book/155#p6_11))
 
 As religionists we know that God is not in hiding from us somewhere in the far-off skies or distant universes. His immediate presence is with us at every moment, loving us with a power and beauty and infinite tenderness beyond anything we have ever imagined. And we can practice his immediate presence simply by deciding to do it in the wholeness and sincerity of our hearts. Only when the actual love of God is flowing through us, reaching out, touching the lives of others, are we sharing the living reality of the great truths we have come to comprehend.
 
@@ -176,11 +197,11 @@ As religionists we can share the active and positive and joyful nature of Jesus'
 
 And let us never forget that leavening means uplifting, not arguing. Jesus never argued. And like Jesus let us always focus on the best and ignore the rest. And by this means, by following Jesus' example, we will never compromise our beliefs. We will never have to. Jesus was no compromiser. Truth must never be compromised.
 
-As religionists, what we can share is our daring. We “_...dare to depend solely on Jesus and his incomparable teachings._” ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
+As religionists, what we can share is our daring. We “_...dare to depend solely on Jesus and his incomparable teachings._” (<a id="a199_124"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4))
 
-As religionists, what we can share is not a religion about Jesus, but the actual religion of Jesus, “_...the most dynamic influence ever to activate the human race._” ([UB 99:5.3](/en/The_Urantia_Book/99#p5_3)). And we will ever proclaim that the very spirit of our religion is the Father's infinite life of living love. ([UB 155:5.15](/en/The_Urantia_Book/155#p5_15)).
+As religionists, what we can share is not a religion about Jesus, but the actual religion of Jesus, “_...the most dynamic influence ever to activate the human race._” (<a id="a201_168"></a>[UB 99:5.3](/en/The_Urantia_Book/99#p5_3)). And we will ever proclaim that the very spirit of our religion is the Father's infinite life of living love. (<a id="a201_322"></a>[UB 155:5.15](/en/The_Urantia_Book/155#p5_15)).
 
-The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.“ (2084.1) As religionists we have volunteered for this mission. What we have to offer is not a religion that leads to a blissful life of ease, What we have to offer instead is “_...effort, struggle, conflict, faith, determination, love, loyalty, and progress._” ([UB 155:5.11](/en/The_Urantia_Book/155#p5_11)). This is the meaning of the religion of the spirit.
+The world needs to see Jesus living again on earth in the experience of spirit-born mortals who effectively reveal the Master to all men.“ (2084.1) As religionists we have volunteered for this mission. What we have to offer is not a religion that leads to a blissful life of ease, What we have to offer instead is “_...effort, struggle, conflict, faith, determination, love, loyalty, and progress._” (<a id="a203_401"></a>[UB 155:5.11](/en/The_Urantia_Book/155#p5_11)). This is the meaning of the religion of the spirit.
 
 The religious vision that we offer does not require a wooden pulpit — not for a moment. You and I don't need a wooden pulpit. Our hearts will become the living pulpits of the love of the Universal Father, the mercy of the Eternal Son, and the ministry of the Infinite Spirit.
 
@@ -194,3 +215,24 @@ God bless you, my friends, and keep you in his love forever.
 
 — _Paul Snider_
 _Wilmette, Illinois_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1985_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">July 1985 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

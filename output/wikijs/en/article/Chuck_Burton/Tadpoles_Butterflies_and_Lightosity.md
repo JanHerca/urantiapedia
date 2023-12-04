@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Chuck Burton<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Returning to Family-Council Practices</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Chuck Burton
 
@@ -20,7 +41,7 @@ Hope none of you were waiting to see it the second time around!
 
 Shortly after I saw this movie, I came across this quotation on UB 52:6.5 of _The Urantia Book_:
 
-> “_Only ethical consciousness can unmask the immorality of human intolerance and the sinfulness of fratricidal strife. Only a moral conscience can condemn the evils of national envy and racial jealousy. Only moral beings will ever seek for that spiritual insight which is essential to living the golden rule._” [UB 52:6.5](/en/The_Urantia_Book/52#p6_5)
+> “_Only ethical consciousness can unmask the immorality of human intolerance and the sinfulness of fratricidal strife. Only a moral conscience can condemn the evils of national envy and racial jealousy. Only moral beings will ever seek for that spiritual insight which is essential to living the golden rule._” <a id="a43_312"></a>[UB 52:6.5](/en/The_Urantia_Book/52#p6_5)
 
 I don't want to dwell on a discussion of either ethical or moral consciousness, but I do want to focus on the subjects of human intolerance and spiritual insight, because I feel that they relate to the subject of this afternoon's segment, “Sharing One's Spiritual Life with One's Fellows.”
 
@@ -78,7 +99,7 @@ _The Urantia Book_ on page 2059 lists eleven ways to gauge spirituality — “B
 
 There once was a charismatic, ecumenical teacher shortly after the turn of the century, who had an interest in science — specifically the speed of electricity. So he asked twenty-five of his students, representing most of the religions of the world, to line up on a damp cellar floor and join hands. He then proceeded to wire the first and turn the switch releasing the current. There were three lessons which could be drawn from the experiment: (1) the teacher obviously was either very persuasive or very powerful; (2) electricity did indeed travel quickly; and (3) the unity exhibited by the diversity of those religionists at that particular moment in time has never before or since been seen on this planet.
 
-One thing _The Urantia Book_ does as a tool is to expand the concepts about the nature of God the Father and the functioning of Deity. Said Jesus at Jotapata, “_Worship makes one increasingly like the being who is worshiped._” ([UB 146:2.17](/en/The_Urantia_Book/146#p2_17)) Thus the better one's understanding and knowledge about the Creator, the First Source and Center, the Heavenly Father, the better will one be able to discern his will and become more God-like and hence more spiritual. C.S. Lewis has a story about this which I will share in my closing.
+One thing _The Urantia Book_ does as a tool is to expand the concepts about the nature of God the Father and the functioning of Deity. Said Jesus at Jotapata, “_Worship makes one increasingly like the being who is worshiped._” (<a id="a101_228"></a>[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)) Thus the better one's understanding and knowledge about the Creator, the First Source and Center, the Heavenly Father, the better will one be able to discern his will and become more God-like and hence more spiritual. C.S. Lewis has a story about this which I will share in my closing.
 
 And where better than an epochal revelation presented in this century does one find a more unified, comprehensive or a more authoritative presentation about the nature of God? If we indeed believe this, that we possess the highest truth about Deity, how are we to avoid the chosen people syndrome and its accompanying intolerance and arrogance? Have you ever observed a child after he gets his hands on a flashlight for the first time? I think that his first act, and this is universal, is to point the flashlight directly into your eyes so that you become temporarily blinded by the light.
 
@@ -96,7 +117,7 @@ Jesus spoke to Nathaniel (UB 159:4.6) regarding the authority of the Scriptures,
 > 
 > “_Mark you well my words, Nathaniel, nothing which human nature has touched can be regarded as infallible. Through the mind of man divine truth may indeed shine forth, but always of relative purity and partial divinity. The creature may crave infallibility, but only the Creators possess it._”
 > 
-> “_But the greatest error of the teaching about the Scriptures is the doctrine of their being sealed books of mystery and wisdom which only the wise minds of the nation dare to interpret. The revelations of divine truth are not sealed except by human ignorance, bigotry, and narrow-minded intolerance._” [UB 159:4.6-9](/en/The_Urantia_Book/159#p4_6)
+> “_But the greatest error of the teaching about the Scriptures is the doctrine of their being sealed books of mystery and wisdom which only the wise minds of the nation dare to interpret. The revelations of divine truth are not sealed except by human ignorance, bigotry, and narrow-minded intolerance._” <a id="a119_305"></a>[UB 159:4.6-9](/en/The_Urantia_Book/159#p4_6)
 
 I believe that often ignorance is a cause of intolerance. Sometimes the desire for power is the culprit. But why do intelligent, unselfish and sincere people desirous for the greatest good become intolerant? I believe that this often stems from elevating one truth to an absolute- or to a level higher than it merits. I believe that in the human desire to simplify life, to make sense out of it, man tends to embrace easy and simple formulas for living. “Actions speak louder than words” was and still is one of my formulas I use to determine if someone is being sincere and genuine. But this adage was taught to me before I was ten. Sometimes words and actions are one and the same. Obviously, the tool is simplistic and has its limitations.
 
@@ -114,10 +135,31 @@ I found it interesting to recently read Winston Churchill's physician biographer
 
 “He was not, I think, a sage. He does not seem to have been a soldier of genius. He was not, perhaps, a born administrator. What is the ultimate secret of Winston Churchill's mastery over men?...Sincerity is the one quality I would have chosen as most typical of him. He was indeed the most truthful of politicians.”
 
-At Ramah, Jesus spoke to an old Greek philosopher ([UB 146:3.1](/en/The_Urantia_Book/146#p3_1)): “_For more than an hour Jesus taught this Greek the saving truths of the gospel of the kingdom. The old philosopher was susceptible to the Master's mode of approach, and being sincerely honest of heart, he quickly believed this gospel of salvation._”
+At Ramah, Jesus spoke to an old Greek philosopher (<a id="a137_51"></a>[UB 146:3.1](/en/The_Urantia_Book/146#p3_1)): “_For more than an hour Jesus taught this Greek the saving truths of the gospel of the kingdom. The old philosopher was susceptible to the Master's mode of approach, and being sincerely honest of heart, he quickly believed this gospel of salvation._”
 
 Jesus response to the apostles after this teaching episode was:
 
-> “_My children, marvel not that I was tolerant of the Greek's philosophy. True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. You should never forget that intolerance is the mask covering up the entertainment of secret doubts as to the trueness of one's belief. No man is at any time disturbed by his neighbor's attitude when he has perfect confidence in the truth of that which he wholeheartedly believes. Courage is the confidence of thoroughgoing honesty about those things which one professes to believe. Sincere men are unafraid of the critical examination of their true conviction and noble ideals._” [UB 146:3.2](/en/The_Urantia_Book/146#p3_2)
+> “_My children, marvel not that I was tolerant of the Greek's philosophy. True and genuine inward certainty does not in the least fear outward analysis, nor does truth resent honest criticism. You should never forget that intolerance is the mask covering up the entertainment of secret doubts as to the trueness of one's belief. No man is at any time disturbed by his neighbor's attitude when he has perfect confidence in the truth of that which he wholeheartedly believes. Courage is the confidence of thoroughgoing honesty about those things which one professes to believe. Sincere men are unafraid of the critical examination of their true conviction and noble ideals._” <a id="a141_675"></a>[UB 146:3.2](/en/The_Urantia_Book/146#p3_2)
 
 I would like to close with one last tale borrowed from C.S. Lewis, author and theologian. And you probably guessed it...it's about masks and becoming spiritual. There once was a man with few friends who, at a certain stage in his life, took a long hard look in the mirror and realized he was quite ugly. He made a conscious decision to wear a mask that made him look much nicer than he really was. He had to wear this mask for years and when he finally took it off, his face had almost magically transformed itself to fit the mask to a tee. He had become truly beautiful. What had begun as a disguise had become a reality. C.S. Lewis utilizes this story to embellish a concept which he terms “dressing up as Christ” in order to join him as a son of God. To me, this tale is just about achieving lightosity.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Returning to Family-Council Practices</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 David Elders<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Dreier/Walking_with_God">
+          <span class="pr-2">“Walking with God”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Aspen, Colorado — June 30, 1990
 by David Elders, President
@@ -28,3 +49,24 @@ It is true that this conference was facilitated by Fifth Epochal Fellowship and 
 Thank you for being a part of this historic gathering and for bringing with you the God who dwells within.
 
 _\* In this context, the word “Urantia” refers to our planet and to _The Urantia Book_._
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Dreier/Walking_with_God">
+          <span class="pr-2">“Walking with God”</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

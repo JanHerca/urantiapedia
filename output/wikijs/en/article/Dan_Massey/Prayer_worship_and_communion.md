@@ -9,14 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Dan Massey<br>© 1983 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1983_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">September 1983 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1983-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1983 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> “_Jesus did not require of his followers that they should periodically assemble and recite a form of words indicative of their common beliefs. He only ordained that they should gather together to actually do something — partake of the communal supper of the remembrance of his bestowal life on Urantia._” ([UB 99:5.10](/en/The_Urantia_Book/99#p5_10))
 
-> “_The characteristic difference between a social occasion and a religious gathering is that in contrast with the secular the religious is pervaded by the atmosphere of communion. In this way human association generates a feeling of fellowship with the divine, and this is the beginning of group worship.. The atmosphere of the communion provides a refreshing and comforting period of truce in the conflict of the self-seeking ego with the altruistic urge of the indwelling spirit Monitor. And this is the prelude of true worship — the practice of the presence of God which eventuates in the emergence of the brotherhood of man._” ([UB 103:4.1](/en/The_Urantia_Book/103#p4_1))
+> “_Jesus did not require of his followers that they should periodically assemble and recite a form of words indicative of their common beliefs. He only ordained that they should gather together to actually do something — partake of the communal supper of the remembrance of his bestowal life on Urantia._” (<a id="a33_308"></a>[UB 99:5.10](/en/The_Urantia_Book/99#p5_10))
 
-> “_Worship is the highest privilege and the first duty of all created intelligences. Worship is the conscious and joyous act of recognizing and acknowledging the truth and fact of the intimate and personal relationships of the Creators with their creatures._” ([UB 27:7.1](/en/The_Urantia_Book/27#p7_1))
+> “_The characteristic difference between a social occasion and a religious gathering is that in contrast with the secular the religious is pervaded by the atmosphere of communion. In this way human association generates a feeling of fellowship with the divine, and this is the beginning of group worship.. The atmosphere of the communion provides a refreshing and comforting period of truce in the conflict of the self-seeking ego with the altruistic urge of the indwelling spirit Monitor. And this is the prelude of true worship — the practice of the presence of God which eventuates in the emergence of the brotherhood of man._” (<a id="a35_633"></a>[UB 103:4.1](/en/The_Urantia_Book/103#p4_1))
 
-> “_But prayer need not always be individual, Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; they are all made better because of participation. Even a whole city or an entire nation can be helped by such prayer devotions. Confession, repentance, and prayer have led individuals, cities, nations, and whole races to mighty efforts of reform and courageous deeds of valorous achievement._” ([UB 91:5.2](/en/The_Urantia_Book/91#p5_2))
+> “_Worship is the highest privilege and the first duty of all created intelligences. Worship is the conscious and joyous act of recognizing and acknowledging the truth and fact of the intimate and personal relationships of the Creators with their creatures._” (<a id="a37_262"></a>[UB 27:7.1](/en/The_Urantia_Book/27#p7_1))
+
+> “_But prayer need not always be individual, Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; they are all made better because of participation. Even a whole city or an entire nation can be helped by such prayer devotions. Confession, repentance, and prayer have led individuals, cities, nations, and whole races to mighty efforts of reform and courageous deeds of valorous achievement._” (<a id="a39_602"></a>[UB 91:5.2](/en/The_Urantia_Book/91#p5_2))
 
 The experience of worship is a very basic part of the human religious life. Private and individual worship is an essential part of our lives. Public and group worship has often been a part of our experiences at conferences and in study groups. In this process, all of us have occasionally encountered controversy and mutual misunderstanding about the nature, quality, and significance of the group experience.
 
@@ -40,7 +61,7 @@ As our group grows in its understanding of the significance of spiritual experie
 
 We are given less specific information about the role of group worship and its overall cosmic significance. True group worship, we are told, is the practice of the presence of God. It is an actual spiritual experience. It grows out of the spirit fraternization of the group with the Father-Son. We are further told that spiritual communion is the prelude to true worship, and this sense of fellowship with the divine grows out of the experience of human association for a religious purpose.
 
-All religions have recognized the significance of the common meal as a form of social communion and as a symbol of the fellowship of the group. Jesus adopted this custom himself when he established the remembrance supper, which we know is the only sacrament or ceremony associated with his life on Urantia. The authenticity of the remembrance supper as a form of communion with the Creator by the group is unquestioned. “_...upon all such occasions the Master is really present._” ([UB 179:5.6](/en/The_Urantia_Book/179#p5_6))
+All religions have recognized the significance of the common meal as a form of social communion and as a symbol of the fellowship of the group. Jesus adopted this custom himself when he established the remembrance supper, which we know is the only sacrament or ceremony associated with his life on Urantia. The authenticity of the remembrance supper as a form of communion with the Creator by the group is unquestioned. “_...upon all such occasions the Master is really present._” (<a id="a63_482"></a>[UB 179:5.6](/en/The_Urantia_Book/179#p5_6))
 
 The reality of communion is fully understood by those who are Son-believing and God-knowing. The spirit-conscious person perceives the presence of the Son through the ministry of the Spirit of Truth and the Thought Adjuster. To the believer, the remembrance supper is symbolic of his rendezvous with Michael.
 
@@ -58,7 +79,7 @@ When we truly worship we seek nothing for ourselves. We worship the Father becau
 
 ### Love One Another
 
-The greatest fruit that we may derive from that experience is surely to be able to fulfill Jesus' commandment to his disciples that they should love one another even as he has loved them. And he promised that this love, this harmony in the group, would relate to their ministry — that by this will “_...all men know that you are my disciples._” ([UB 180:1.1](/en/The_Urantia_Book/180#p1_1)) And then Jesus said, “_If you will only love one another as I am loving you, you shall be my friends, and I will ever speak to you of that which the Father reveals to me._” ([UB 180:1.3](/en/The_Urantia_Book/180#p1_3))
+The greatest fruit that we may derive from that experience is surely to be able to fulfill Jesus' commandment to his disciples that they should love one another even as he has loved them. And he promised that this love, this harmony in the group, would relate to their ministry — that by this will “_...all men know that you are my disciples._” (<a id="a81_346"></a>[UB 180:1.1](/en/The_Urantia_Book/180#p1_1)) And then Jesus said, “_If you will only love one another as I am loving you, you shall be my friends, and I will ever speak to you of that which the Father reveals to me._” (<a id="a81_565"></a>[UB 180:1.3](/en/The_Urantia_Book/180#p1_3))
 
 The practice of group worship is an effective way by which a group of Son-believing and God-knowing mortals eventually will grow to exhibit the fullness of love, harmony, and unity of true friendship with Michael.
 
@@ -76,3 +97,24 @@ For this second initiative, let us begin to share our experience of spiritual co
 
 — _Dan Massey_
 _Sherborn, Massachusetts_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1983_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">September 1983 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1983-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1983 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Rosey Lieske<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rosey_Lieske/Actualizing_The_Supreme_in_your_life">
+          <span class="pr-2">Actualizing The Supreme in your life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Actualizing The Supreme In Your Life
 
@@ -27,5 +48,27 @@ _Phoenix, Arizona_
 
 ---
 
-> “_The hungry soul of man refuses to be satisfied with anything less than the personal realization of the living God. Whatever more God may be than a high and perfect moral personality, he cannot, in our hungry and finite concept, be anything less._” ([UB 102:1.6](/en/The_Urantia_Book/102#p1_6))
+> “_The hungry soul of man refuses to be satisfied with anything less than the personal realization of the living God. Whatever more God may be than a high and perfect moral personality, he cannot, in our hungry and finite concept, be anything less._” (<a id="a50_253"></a>[UB 102:1.6](/en/The_Urantia_Book/102#p1_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Rosey_Lieske/Actualizing_The_Supreme_in_your_life">
+          <span class="pr-2">Actualizing The Supreme in your life</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,12 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Daniel Love Glazer<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Second_guessing_the_spiritual_renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Second guessing the spiritual renaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-Revelation. The Book tells us, is designed to bridge the gap in human experience between the material and the spiritual, Through our reason we ascertain facts, the knowledge of science. Through our faith we apprehend values, spirit realities presented to our super- conscious mind by the divine Thought Adjuster within. And through the logic of philosophy we try to coordinate and integrate the material knowledge of science and the spiritual truths of religious experience. But this philosophic effort of integration is doomed to fall short. Between the spiritual and the material is a reality level which do not know, a reality level which _The URANTIA Book_ calls “morontia.” During his life in the flesh man lacks the mola of morontia with which he will later be able to apprehend morontia realities. The URANTIA Book says, “_Revelation authoritatively clarifies the muddle of reason-developed metaphysics on an evolutionary sphere._” ([UB 103:6.8](/en/The_Urantia_Book/103#p6_8)) Further, “_Revelation is evolutionary man's only hope of bridging the morontia gulf._” ([UB 103:6.13](/en/The_Urantia_Book/103#p6_13)) And “_Revelation is a compensation for the frailties of evolving philosophy._” ([UB 103:8.6](/en/The_Urantia_Book/103#p8_6))
 
-We are also told that “_It is the mission of revelation to sort and censor the successive religions of evolution. But if revelation is to exalt and upstep the religions of evolution, then must such divine visitations portray teachings which are not too far removed from the thought and reactions of the age in which they are presented. Thus must and does revelation always keep in touch with evolution._” ([UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
+Revelation. The Book tells us, is designed to bridge the gap in human experience between the material and the spiritual, Through our reason we ascertain facts, the knowledge of science. Through our faith we apprehend values, spirit realities presented to our super- conscious mind by the divine Thought Adjuster within. And through the logic of philosophy we try to coordinate and integrate the material knowledge of science and the spiritual truths of religious experience. But this philosophic effort of integration is doomed to fall short. Between the spiritual and the material is a reality level which do not know, a reality level which _The URANTIA Book_ calls “morontia.” During his life in the flesh man lacks the mola of morontia with which he will later be able to apprehend morontia realities. The URANTIA Book says, “_Revelation authoritatively clarifies the muddle of reason-developed metaphysics on an evolutionary sphere._” (<a id="a33_940"></a>[UB 103:6.8](/en/The_Urantia_Book/103#p6_8)) Further, “_Revelation is evolutionary man's only hope of bridging the morontia gulf._” (<a id="a33_1073"></a>[UB 103:6.13](/en/The_Urantia_Book/103#p6_13)) And “_Revelation is a compensation for the frailties of evolving philosophy._” (<a id="a33_1200"></a>[UB 103:8.6](/en/The_Urantia_Book/103#p8_6))
 
-The Foreword of _The URANTIA Book_ says that “_Successive planetary revelations of divine truth invariably embrace the highest existing concepts of spiritual values as a part of the new and enhanced co-ordination of planetary knowledge._” ([UB 0:12.12](/en/The_Urantia_Book/0#p12_12)) In this article I will discuss some noteworthy examples of contemporary thought and philosophy. In our examination we can expect to find some of the frailties and fallacies of evolutionary thought which require illumination from revelation. At the same time we can hope to find, in man's noblest expressions, sublime thoughts which, like _The URANTIA Book_ itself, point the way to our spiritual transformation.
+We are also told that “_It is the mission of revelation to sort and censor the successive religions of evolution. But if revelation is to exalt and upstep the religions of evolution, then must such divine visitations portray teachings which are not too far removed from the thought and reactions of the age in which they are presented. Thus must and does revelation always keep in touch with evolution._” (<a id="a35_406"></a>[UB 92:4.1](/en/The_Urantia_Book/92#p4_1))
+
+The Foreword of _The URANTIA Book_ says that “_Successive planetary revelations of divine truth invariably embrace the highest existing concepts of spiritual values as a part of the new and enhanced co-ordination of planetary knowledge._” (<a id="a37_240"></a>[UB 0:12.12](/en/The_Urantia_Book/0#p12_12)) In this article I will discuss some noteworthy examples of contemporary thought and philosophy. In our examination we can expect to find some of the frailties and fallacies of evolutionary thought which require illumination from revelation. At the same time we can hope to find, in man's noblest expressions, sublime thoughts which, like _The URANTIA Book_ itself, point the way to our spiritual transformation.
 
 ## Religion And Science
 
@@ -32,11 +53,11 @@ Science, Smart asserts, is “omnicompetent as a cognitive activity.” It follo
 
 How is a student of _The URANTIA Book_ to react to Smart's philosophy? Regarding his attack on religion's anthropocentrism in contrast with science's large worldview, one can't help wondering what Smart would think of the cosmology of _The URANTIA Book_: the giant central universe of Havona encircled by 700,000 local universes, each containing, or destined to contain, 10 million planets inhabited by evolving freewill creatures, not even to mention the incredibly vaster outer space levels, And at the same time, of course, _The URANTIA Book_ gloriously affirms that each moral will creature on all these 7 trillion planets is indeed made in the image of God-that is, indwelt by a Thought Adjuster-and is loved by God with an infinite love, and that all of these planets will be blessed by the incarnation of a Paradise Son of God, Interesting, too, would be Smart's reaction to _The URANTIA Book_'s portrayal of purposeful evolution, which harmonizes the discoveries of science with the truths of spiritual overcontrol and the spiritual origin of all life.
 
-I will not comment specifically on Smart's arguments regarding immortality and prayer. I only wonder why he failed to report science's verdict on the question of the existence of God, I suppose that research project hasn't been completed yet. According to _The URANTIA Book_, “_When the philosophy of man leans heavily toward the world of matter, it becomes rationalistic or naturalistic. When philosophy inclines particularly toward the spiritual level, it becomes idealistic or even mystical, When philosophy is so unfortunate as to lean upon metaphysics, it unfailingly becomes skeptical, confused. In past ages most of man's knowledge and intellectual evaluations have fallen into one of these three distortions of perception._” ([UB 103:6.14](/en/The_Urantia_Book/103#p6_14)) Smart's error is clearly naturalism, in accordance with the prevailing bias of the times. He assumes that the scientific viewpoint is the only valid one, and like someone who always wears red glasses, all his perceptions are colored by that monochromatic lens.
+I will not comment specifically on Smart's arguments regarding immortality and prayer. I only wonder why he failed to report science's verdict on the question of the existence of God, I suppose that research project hasn't been completed yet. According to _The URANTIA Book_, “_When the philosophy of man leans heavily toward the world of matter, it becomes rationalistic or naturalistic. When philosophy inclines particularly toward the spiritual level, it becomes idealistic or even mystical, When philosophy is so unfortunate as to lean upon metaphysics, it unfailingly becomes skeptical, confused. In past ages most of man's knowledge and intellectual evaluations have fallen into one of these three distortions of perception._” (<a id="a55_734"></a>[UB 103:6.14](/en/The_Urantia_Book/103#p6_14)) Smart's error is clearly naturalism, in accordance with the prevailing bias of the times. He assumes that the scientific viewpoint is the only valid one, and like someone who always wears red glasses, all his perceptions are colored by that monochromatic lens.
 
 As for the spiritual transformation of mankind, for Smart, apparently, there is no spirit, only matter, and the only transformation to be expected is the dropping of man's silly religious superstitions in the face of the all-encompassing march of science.
 
-It is useful to be reminded, as _The URANTIA Book_ says, that “_In reality, true religion cannot become involved in any controversy with science; it is in no way concerned with material things. Religion is simply indifferent to, but sympathetic with, science, while it supremely concerns itself with the scientist._” ([UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
+It is useful to be reminded, as _The URANTIA Book_ says, that “_In reality, true religion cannot become involved in any controversy with science; it is in no way concerned with material things. Religion is simply indifferent to, but sympathetic with, science, while it supremely concerns itself with the scientist._” (<a id="a59_318"></a>[UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
 
 ## Man vs. Machine
 
@@ -93,7 +114,7 @@ And so the novel ends. There is no need for me to characterize the level of spir
 
 ## And Now The Good News...
 
-If the picture of contemporary thought I have painted so far is a black one, let me hasten to add some brighter colors. We read in _The URANTIA Book_ that “_...the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn._” ([UB 195:6.4](/en/The_Urantia_Book/195#p6_4)) And surely we can all see this dawn as we look about us. People are searching for spiritual values and spiritual experiences. There is an enthusiasm for the religious thought of all cultures, old and new, East and West. A bewildering variety of groups has sprung up with spiritual orientations. There is much that one could criticize in many of these groups. Fallacies of pantheism, exaltation of the authority of the guru, beliefs that religion means practicing some esoteric technique to induce a mystical transcendence of self, an arrogance about the spiritual superiority of my group and my teacher-these impure tendencies may often be observed in the wave of new groups that call themselves “spiritual,” But the wave also contains some pure water, and, in general, I think the tide is shifting in a positive direction. At least people are seeking, and we know that Jesus taught that sincere faith and truth hunger will surely lead to the kingdom of heaven.
+If the picture of contemporary thought I have painted so far is a black one, let me hasten to add some brighter colors. We read in _The URANTIA Book_ that “_...the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn._” (<a id="a116_271"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4)) And surely we can all see this dawn as we look about us. People are searching for spiritual values and spiritual experiences. There is an enthusiasm for the religious thought of all cultures, old and new, East and West. A bewildering variety of groups has sprung up with spiritual orientations. There is much that one could criticize in many of these groups. Fallacies of pantheism, exaltation of the authority of the guru, beliefs that religion means practicing some esoteric technique to induce a mystical transcendence of self, an arrogance about the spiritual superiority of my group and my teacher-these impure tendencies may often be observed in the wave of new groups that call themselves “spiritual,” But the wave also contains some pure water, and, in general, I think the tide is shifting in a positive direction. At least people are seeking, and we know that Jesus taught that sincere faith and truth hunger will surely lead to the kingdom of heaven.
 
 There are contemporary thinkers with sublime thoughts, people who can be inspiring and even prophetic. I would like to talk about one of these, Martin Buber. Buber has had a profound influence on 20 th century philosophers, on theologians of different religions, and on thousands of students and readers from all walks of life. Reading Buber, one feels oneself not simply presented with a series of intellectual ideas, but also feels addressed by a deeply caring person. One somehow feels, not merely that here is an argument about certain issues which I have various agreements, disagreements, and questions about, but that here is a real person, addressing me and at the same time listening for my response, not simply my intellectual response but my response as a person. The qualities of authenticity and caring shine through Buber's writing, and induce the reader to ask himself, “How can I be authentic and caring too?”
 
@@ -123,3 +144,25 @@ The next word in the dialogue is up to us. And the letters of that word are the 
 
 — _Daniel Love Glazer_ 
 _Philadelphia, Pennsylvania_
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Second_guessing_the_spiritual_renaissance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Second guessing the spiritual renaissance</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

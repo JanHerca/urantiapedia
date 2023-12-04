@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Maureen Cragg<br>© 1985 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1985_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1985 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Debra_York/A_blunder_to_humanize_God">
+          <span class="pr-2">A blunder to humanize God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _While it is not the practice of The JOURNAL to print letters, the article which follows is written in that form to convey its meaning in a personally powerful way. Thanks from all of us for a very important reminder. The Editors._
 
@@ -36,3 +60,27 @@ Well, I do have to get on to some other tasks. Please write again soon, and I pr
 
 — _Maureen Cragg_
 _Arlington, Virginia_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1985_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1985 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Debra_York/A_blunder_to_humanize_God">
+          <span class="pr-2">A blunder to humanize God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

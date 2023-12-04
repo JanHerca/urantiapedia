@@ -9,10 +9,34 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Annis M. Warsh<br>© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lindbergh — The angelic influence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Urantian/Angels_A_modern_theologic_view">
+          <span class="pr-2">Angels — A modern theologic view</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 On UB 195:9.2 of _The URANTIA Book_ it says:
 
-> “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” [UB 195:9.2](/en/The_Urantia_Book/195#p9_2)
+> “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” <a id="a38_170"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)
 
 I believe it. And this is quite a challenge, being asked to talk about renewing and revitalizing society — even with _The URANTIA Book_ as a point of reference.
 
@@ -42,9 +66,9 @@ I have never forgotten the moon shot when I heard a countdown that went from 10 
 
 Indeed it is. A 1978 Gallup poll reported that ten million Americans were engaged in some aspect of Eastern religion and nine million in spiritual healing. Probably the main aspect that most were engaged in was some form of meditation — even as I was. With me, it was an idea I'd gleaned from _The URANTIA Book_, not any Eastern discipline.
 
-> “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness — contact with the divine presence. Such an experience constitutes God-consciousness..._” ([UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
+> “_The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. Man's greatest adventure in the flesh consists in the well-balanced and sane effort to advance the borders of self-consciousness out through the dim realms of embryonic soul-consciousness in a wholehearted effort to reach the borderland of spirit-consciousness — contact with the divine presence. Such an experience constitutes God-consciousness..._” (<a id="a68_484"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
 
-And this: “_Unselfish social consciousness must be, at bottom, a religious consciousness; that is, if it is objective; otherwise it is a purely subjective philosophic abstraction and therefore devoid of love. Only a God-knowing individual can love another person as he loves himself._” ([UB 16:9.8](/en/The_Urantia_Book/16#p9_8))
+And this: “_Unselfish social consciousness must be, at bottom, a religious consciousness; that is, if it is objective; otherwise it is a purely subjective philosophic abstraction and therefore devoid of love. Only a God-knowing individual can love another person as he loves himself._” (<a id="a70_287"></a>[UB 16:9.8](/en/The_Urantia_Book/16#p9_8))
 
 I hope I'm making sense to you. I think we have begun to renew and revitalize society in a really different way and that my path has been the path many others have taken — through a time of personality integration, into meditation. Laboratory investigation shows that these methods actually integrate the brain's activity, making it less random, provoking it into higher organization. Brains undergo a quite literal transformation. The proven plasticity of the human brain and human awareness offers the possibility that individual evolution may lead to collective evolution. When one person has unlocked a new capacity its existence is suddenly evident to others, who may then develop the same capacity.
 
@@ -60,7 +84,7 @@ This sense of wonder fills me as I read the Tribune articles on brain research; 
 
 The URANTIA Book says, “Within the bounds of that which is consistent with the divine nature, it is literally true that with God all things are possible.' The long-drawn-out evolutionary processes of peoples. planets, and universes are under the perfect control of the universe creators and administrators and unfold in accordance with the eternal purpose of the Universal Father, proceeding in harmony and order and in keeping with the all-wise plan of God. There is only one lawgiver,” (46.6) Well, I think God wants me to try very hard to understand quantum physics and to figure out just as much as I can about his laws and how things work and to try to stay in tune with the Divine Nature so that I don't run amok.
 
-It's what we want for _our_ children. We want them to exercise their divine curiosity, to keep fresh their sense of wonder, and to develop their precious and wonderful brains in a way we never have with our brains. A lovely Hebrew proverb says: “Do not confine your children to your own learning, for they were born in another time,” We want to teach our children in such a way that we increase their capacity for self-transcendance and evolutionary leaps. But to reach the children, you must first reach their parents and teachers so that crippling techniques of child-rearing are not practiced and the teachings of Jesus are. _The URANTIA Book_ says: “_In this work of passing on the cultural torch to the next generation, the home will ever be the basic institution. The play and social life comes next, with the school last but equally indispensable in a complex and highly organized society._” ([UB 81:6.23](/en/The_Urantia_Book/81#p6_23))
+It's what we want for _our_ children. We want them to exercise their divine curiosity, to keep fresh their sense of wonder, and to develop their precious and wonderful brains in a way we never have with our brains. A lovely Hebrew proverb says: “Do not confine your children to your own learning, for they were born in another time,” We want to teach our children in such a way that we increase their capacity for self-transcendance and evolutionary leaps. But to reach the children, you must first reach their parents and teachers so that crippling techniques of child-rearing are not practiced and the teachings of Jesus are. _The URANTIA Book_ says: “_In this work of passing on the cultural torch to the next generation, the home will ever be the basic institution. The play and social life comes next, with the school last but equally indispensable in a complex and highly organized society._” (<a id="a86_900"></a>[UB 81:6.23](/en/The_Urantia_Book/81#p6_23))
 
 Books such as those on transactional analysis and parent effectiveness training are helpful, Both books are based on the assumption that most maladaptive, antisocial behavior stems from faulty training and that the only practical solution is to greatly increase the psychological understanding of the citizenry, particularly parents and teachers. I think Jesus was an Adlerian.
 
@@ -72,3 +96,27 @@ I must stop. I think that after all this time I've only said two things about re
 
 —_Annis M. Warsh_
 _Western Springs, Illinois_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lindbergh — The angelic influence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/The_Urantian/Angels_A_modern_theologic_view">
+          <span class="pr-2">Angels — A modern theologic view</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

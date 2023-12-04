@@ -77,7 +77,7 @@ The degree to which current science corroborates the existence of ionic activity
 
 The issue of human sources in the creation of _The Urantia Book_ comes up because _The Urantia Book_ claims to have been written by angels. _The Urantia Book_ explains the wisdom guiding the permissions and limitations placed on the angelic authors with regard to the presentation of information. The following quotes are germane to this aspect of _The Urantia Book_:
 
-> We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning." ([Urantia Book: Forward, paragraph 2](/en/The_Urantia_Book/0#p2))
+> We have been instructed to introduce new terms only when the concept to be portrayed finds no terminology in English which can be employed to convey such a new concept partially or even with more or less distortion of meaning." (<a id="a79_231"></a>[Urantia Book: Forward, paragraph 2](/en/The_Urantia_Book/0#p2))
 > 
 > Because your world is generally ignorant of origins, even of physical origins, it has appeared to be wise from time to time to provide instruction in cosmology. And always has this made trouble for the future. The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. Any cosmology presented as a part of revealed religion is destined to be outgrown in a very short time. Accordingly, future students of such a revelation are tempted to discard any element of genuine religious truth it may contain because they discover errors on the face of the associated cosmologies therein presented.
 > 
@@ -89,7 +89,7 @@ The issue of human sources in the creation of _The Urantia Book_ comes up becaus
 > 2. The co-ordination of known or about-to-be-known facts and observations.
 > 3. The restoration of important bits of lost knowledge concerning epochal transactions in the distant past.
 > 4. The supplying of information which will fill in vital missing gaps in otherwise earned knowledge.
-> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation." ([Urantia Book 101:4](/en/The_Urantia_Book/101#p4))[^1]
+> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation." (<a id="a91_130"></a>[Urantia Book 101:4](/en/The_Urantia_Book/101#p4))[^1]
 
 The statements quoted above inspired Matthew Block to search for scientific source material that existed prior to publication of _The Urantia Book_ that would have shaped the boundaries for what information could permissibly be imparted, given the claim of angelic authorship. His underlying belief being that, if such proscriptions are to be taken seriously, then a person ought to be able to discover the writings that existed during the time period in which _The Urantia Book_ was created that formed the parameters of such revelatory limitations. Or, if _The Urantia Book_ is not what it claims to be regarding its authorship, even still such human sources of the then current understandings of scientific issues ought to be discoverable. He maintains a website where he posts his research on this subject. [^2]
 
@@ -97,7 +97,7 @@ With regard to the section in _The Urantia Book_ that asserts the existence of a
 
 Stetson's article states, “If we look at a cross-section of the earth's atmosphere, it may for convenience be divided into three zones or layers in which the stratosphere occupies the middle ground. The region below the stratosphere is that which contacts our immediate surroundings and provides the winds and atmospheric currents, giving rise to all our weather. We call this lower region comprising perhaps the first 5 or 6 miles the troposphere. The region above the stratosphere is the ionosphere.”
 
-_The Urantia Book_ says, "The lower five or six miles of the earth's atmosphere is the troposphere. ([UB 58:2.6](/en/The_Urantia_Book/58#p2_6))
+_The Urantia Book_ says, "The lower five or six miles of the earth's atmosphere is the troposphere. (<a id="a99_101"></a>[UB 58:2.6](/en/The_Urantia_Book/58#p2_6))
 
 Because _The Urantia Book_'s section on the atmosphere so closely parallels the Stetson article, it is generally accepted as source material for establishing the parameters of _The Urantia Book_'s discussion of this issue. Naturally, for those who accept _The Urantia Book_'s claim regarding angelic authorship, this source material is generally referred to as “human source” material. Due to the difference between Stetson's article and _The Urantia Book_ regarding the inner ionosphere, there has been a spectrum of opinion about this difference based upon a person's belief system. For those who do not believe _The Urantia Book_ is what it purports to be, this has been used as evidence not only of human authorship, but also human fallibility. For those who do believe _The Urantia Book_ is what it purports to be, until more recently, this issue has given rise to various types of “apologetic” and defensive responses, ranging from “_The Urantia Book_ does not claim to be a perfect document” to “maybe someday it will be discovered to be accurate.”
 
@@ -146,7 +146,7 @@ This large blue jet, shooting upwards from a thunderstorm's top, reached an uppe
 
 ## Inner lonosphere Additional Links
 
-- [Urantia Book 58:2](/en/The_Urantia_Book/58#p2)
+- <a id="a148_2"></a>[Urantia Book 58:2](/en/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html
 - http://adsabs.harvard.edu/abs/2000PhDT29H

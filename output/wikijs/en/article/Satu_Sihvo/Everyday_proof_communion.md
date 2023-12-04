@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Satu Sihvo<br>© 1988 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1988_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">April 1988 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1988-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1988 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mary_Daly/Asking_for_the_spirit_and_other_good_stuff">
+          <span class="pr-2">Asking for the spirit-and other good stuff</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Good morning, brothers and sisters:
 
@@ -24,3 +48,27 @@ Plants get their water through their roots. Prayer and worshipful meditation is 
 
 _Satu Sihvo_
 _Espoo, Finland_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1988_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">April 1988 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1988-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1988 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mary_Daly/Asking_for_the_spirit_and_other_good_stuff">
+          <span class="pr-2">Asking for the spirit-and other good stuff</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

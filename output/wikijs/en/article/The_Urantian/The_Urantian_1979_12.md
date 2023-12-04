@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Jim McNelly, Paul Knott, Bob Bruyn, Robert Walker, Ethel Zanoni, C. L. Van Sant<br>© 1979 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1979-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1979 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="pr-2">The Revelation Of Man</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Revelation of Man
 
@@ -23,7 +44,7 @@ _Denver, Colorado_
 
 ## The Greatest Human Achievement
 
-_The URANTIA Book_ often discusses the importance of the family in human society. For example, we find such statements as, “_The family is man's greatest purely human achievement..._” and “_As are the families of the race or nation, so is its society. If the families are good, the society is likewise good._” ([UB 84:6.8](/en/The_Urantia_Book/84#p6_8); [UB 84:7.1](/en/The_Urantia_Book/84#p7_1))
+_The URANTIA Book_ often discusses the importance of the family in human society. For example, we find such statements as, “_The family is man's greatest purely human achievement..._” and “_As are the families of the race or nation, so is its society. If the families are good, the society is likewise good._” (<a id="a46_311"></a>[UB 84:6.8](/en/The_Urantia_Book/84#p6_8); <a id="a46_354"></a>[UB 84:7.1](/en/The_Urantia_Book/84#p7_1))
 
 It is clear, however, that in most modern Urantia societies, the family as an institution is experiencing difficult times. In the United States, for example, the divorce rate continues to soar, engendering such statistics as the recent projection by the Census Bureau that one-half of all children born this year in the U.S. will spend a substantial portion of their childhood in a home with a single parent. The more one delves into current data on the state of the family, the more negative the overall picture becomes.
 
@@ -63,7 +84,7 @@ _Palo Alto, California_
 
 ## Worship
 
-> “_The worship experience consists in the sublime attempt of the betrothed Adjuster to communicate to the divine Father the inexpressible longings and the unutterable aspirations of the human soul..._” ([UB 5:3.8](/en/The_Urantia_Book/5#p3_8))
+> “_The worship experience consists in the sublime attempt of the betrothed Adjuster to communicate to the divine Father the inexpressible longings and the unutterable aspirations of the human soul..._” (<a id="a86_204"></a>[UB 5:3.8](/en/The_Urantia_Book/5#p3_8))
 
 There is no human love as satisfying as that of the human child for the human parent, particularly the God-knowing child for the God-knowing parent. There is something in the manner-something in the eyes-in the face-in the voice.
 
@@ -74,5 +95,27 @@ If we become as a little child and if we are capable of that kind of uncondition
 — _C. L. Van Sant_
 _Bartlesville, Oklahoma_
 
-> “_Throughout this glorious age the chief pursuit of the ever-advancing mortals is the quest for a better understanding and a fuller realization of the comprehensible elements of Deity — truth, beauty, and goodness. This represents man's effort to discern God in mind, matter, and spirit._” ([UB 56:10.2](/en/The_Urantia_Book/56#p10_2))
+> “_Throughout this glorious age the chief pursuit of the ever-advancing mortals is the quest for a better understanding and a fuller realization of the comprehensible elements of Deity — truth, beauty, and goodness. This represents man's effort to discern God in mind, matter, and spirit._” (<a id="a97_293"></a>[UB 56:10.2](/en/The_Urantia_Book/56#p10_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1979-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1979 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="pr-2">The Revelation Of Man</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

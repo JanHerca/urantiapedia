@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Francyl Streano Gawryn<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflective Meditation on Cosmic Meanings</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="pr-2">An Offer TOO Good to Refuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Francyl Streano Gawryn
 
@@ -86,21 +110,21 @@ I knew not, but on that day the sunset of His eyes slew the dragon in me, and I 
 
 Salvation is spoken of in many, many terms and from many contexts. John Sanford, in his book, _Healing and Wholeness_, speaks of spiritual growth and its goal in terms of wholeness. He says, “It is impossible to summarize the way a person becomes whole. It is an individual matter, differing with each person. But it can be said that to become whole we must be involved with life. This earthly existence appears to be a crucible in which the forging of the whole person is to take place. Our life must have a story to it if we are to become whole, and this means we must come up against something; otherwise a story can't take place. Some people seem destined to become whole by combating outer life circumstances, some through encountering the inner forces of the unconscious, some through involvement with both. But if we stand on the sidelines of life, wholeness cannot emerge. If we are to become whole, we will have led a life in which darkness has been faced, and an encounter with evil has been risked.”
 
-On [UB 148:6.3](/en/The_Urantia_Book/148#p6_3) of _The Urantia Book_, Jesus, in talking with John, makes reference to the story of Job, who, having been blessed with money, a beautiful home, lovely family, good health, etc., suddenly finds himself stricken, his family dead, his lands and home ruined. Said Jesus, “_...While Job did not, through suffering, find the resolution of his intellectual troubles or the solution of his philosophical difficulties, he did achieve great victories; even in the very face of the breakdown of his theological defenses he ascended to those spiritual heights where he could sincerely say, I abhor myself;; then was there granted him the salvation of a vision of God. So even through misunderstood suffering, Job ascended to the superhuman plane of moral understanding and spiritual insight. When the suffering servant obtains a vision of God, there follows a soul peace which passes all human understanding._”
+On <a id="a112_3"></a>[UB 148:6.3](/en/The_Urantia_Book/148#p6_3) of _The Urantia Book_, Jesus, in talking with John, makes reference to the story of Job, who, having been blessed with money, a beautiful home, lovely family, good health, etc., suddenly finds himself stricken, his family dead, his lands and home ruined. Said Jesus, “_...While Job did not, through suffering, find the resolution of his intellectual troubles or the solution of his philosophical difficulties, he did achieve great victories; even in the very face of the breakdown of his theological defenses he ascended to those spiritual heights where he could sincerely say, I abhor myself;; then was there granted him the salvation of a vision of God. So even through misunderstood suffering, Job ascended to the superhuman plane of moral understanding and spiritual insight. When the suffering servant obtains a vision of God, there follows a soul peace which passes all human understanding._”
 
-On [UB 147:5.3](/en/The_Urantia_Book/147#p5_3), Jesus, in the company of Simon the Pharisee and others, is reclining to eat when a wellknown woman of “_unsavory reputation_” who had recently become a believer in Jesus' gospel and changed her mode of living came in from the street.
+On <a id="a114_3"></a>[UB 147:5.3](/en/The_Urantia_Book/147#p5_3), Jesus, in the company of Simon the Pharisee and others, is reclining to eat when a wellknown woman of “_unsavory reputation_” who had recently become a believer in Jesus' gospel and changed her mode of living came in from the street.
 
 > ...This unnamed woman had brought with her a large flask of perfumed anointing lotion and, standing behind Jesus as he reclined at meat, began to anoint his feet while she also wet his feet with her tears of gratitude, wiping them with the hair of her head. And when she had finished this anointing, she continued weeping and kissing his feet.
 > 
-> When Simon saw all this, he said to himself: “This man, if he were a prophet, would have perceived who and what manner of woman this is who thus touches him; that she is a notorious sinner.” And Jesus, knowing what was going on in Simon's mind, spoke up, saying: “Simon, I have something which I would like to say to you.” Simon answered, “Teacher, say on.” Then said Jesus: “A certain wealthy moneylender had two debtors. The one owed him five hundred denarii and the other fifty. Now, when neither of them had wherewith to pay, he forgave them both. Which of them do you think, Simon, would love him most?” Simon answered, “ He, I suppose, whom he for- gave the most.” And Jesus said, “You have rightly judged,” and pointing to the woman, he continued: “Simon, take a good look at this woman. I entered your house as an invited guest, yet you gave me no water for my feet. This grateful woman has washed my feet with tears and wiped them with the hair of her head. You gave me no kiss of friendly greeting, but this woman, ever since she came in, has not ceased to kiss my feet. My head with oil you neglected to anoint, but she has anointed my feet with precious lotions, And what is the meaning of all this? Simply that her many sins have been forgiven, and this has led her to love much. But those who have received but little forgiveness sometimes love but little.” [UB 147:5.3-4](/en/The_Urantia_Book/147#p5_3)
+> When Simon saw all this, he said to himself: “This man, if he were a prophet, would have perceived who and what manner of woman this is who thus touches him; that she is a notorious sinner.” And Jesus, knowing what was going on in Simon's mind, spoke up, saying: “Simon, I have something which I would like to say to you.” Simon answered, “Teacher, say on.” Then said Jesus: “A certain wealthy moneylender had two debtors. The one owed him five hundred denarii and the other fifty. Now, when neither of them had wherewith to pay, he forgave them both. Which of them do you think, Simon, would love him most?” Simon answered, “ He, I suppose, whom he for- gave the most.” And Jesus said, “You have rightly judged,” and pointing to the woman, he continued: “Simon, take a good look at this woman. I entered your house as an invited guest, yet you gave me no water for my feet. This grateful woman has washed my feet with tears and wiped them with the hair of her head. You gave me no kiss of friendly greeting, but this woman, ever since she came in, has not ceased to kiss my feet. My head with oil you neglected to anoint, but she has anointed my feet with precious lotions, And what is the meaning of all this? Simply that her many sins have been forgiven, and this has led her to love much. But those who have received but little forgiveness sometimes love but little.” <a id="a118_1374"></a>[UB 147:5.3-4](/en/The_Urantia_Book/147#p5_3)
 
 And on UB 167:5.1 Jesus tells the parable of the Pharisee and the Publican:
 
-> ... Said Jesus: “You see, then, that the Father gives salvation to the children of men, and this salvation is a free gift to all who have the faith to receive sonship in the divine family. There is nothing man can do to earn this salvation. Works of self-righteousness cannot buy the favor of God, and much praying in public will not atone for lack of living faith in the heart. Men you may deceive by your outward service, but God looks into your souls. What I am telling you is well illustrated by two men who went into the temple to pray, the one a Pharisee and the other a publican. The Pharisee stood and prayed to himself: 'O God, I thank you that I am not like the rest of men, extortioners, unlearned, unjust, adulterers, or even like this publican. I fast twice a week; I give tithes of all that I get.' But the publican, standing afar off, would not so much as lift his eyes to heaven but smote his breast, saying, 'God be merciful to me a sinner.' I tell you that the publican went home with God's approval rather than the Pharisee, for every one who exalts himself shall be humbled, but he who humbles himself shall be exalted.” [UB 167:5.1](/en/The_Urantia_Book/167#p5_1)
+> ... Said Jesus: “You see, then, that the Father gives salvation to the children of men, and this salvation is a free gift to all who have the faith to receive sonship in the divine family. There is nothing man can do to earn this salvation. Works of self-righteousness cannot buy the favor of God, and much praying in public will not atone for lack of living faith in the heart. Men you may deceive by your outward service, but God looks into your souls. What I am telling you is well illustrated by two men who went into the temple to pray, the one a Pharisee and the other a publican. The Pharisee stood and prayed to himself: 'O God, I thank you that I am not like the rest of men, extortioners, unlearned, unjust, adulterers, or even like this publican. I fast twice a week; I give tithes of all that I get.' But the publican, standing afar off, would not so much as lift his eyes to heaven but smote his breast, saying, 'God be merciful to me a sinner.' I tell you that the publican went home with God's approval rather than the Pharisee, for every one who exalts himself shall be humbled, but he who humbles himself shall be exalted.” <a id="a122_1143"></a>[UB 167:5.1](/en/The_Urantia_Book/167#p5_1)
 
 The common bond here is the recognition of one's own personal limitations, one's own capacity for evil, one's own fragile and vulnerable state of being, and what the spiritual repercussions are consequent upon the recognition and acknowledgement of those limitations, capacity for evil and fragile and vulnerable state of being. In these stories, the darkness has been faced, the evil has been encountered.
 
-From the section, “Trips about Rome,” we read on [UB 132:7.2](/en/The_Urantia_Book/132#p7_2) of _The Urantia Book_ that Jesus has just passed by a person and has not engaged that man in a conversation which would naturally lead to questions regarding spirituality. In part, Jesus explains to Ganid, “_That man was not ripe for the harvest of salvation; he must be allowed more time for the trials and difficulties of life to prepare him for the reception of wisdom and higher learning, Or, if we could have him live with us, we might by our lives show him the Father in heaven, and thus would he become so attracted by our lives as sons of God that he would be constrained to inquire about your Father._”
+From the section, “Trips about Rome,” we read on <a id="a126_49"></a>[UB 132:7.2](/en/The_Urantia_Book/132#p7_2) of _The Urantia Book_ that Jesus has just passed by a person and has not engaged that man in a conversation which would naturally lead to questions regarding spirituality. In part, Jesus explains to Ganid, “_That man was not ripe for the harvest of salvation; he must be allowed more time for the trials and difficulties of life to prepare him for the reception of wisdom and higher learning, Or, if we could have him live with us, we might by our lives show him the Father in heaven, and thus would he become so attracted by our lives as sons of God that he would be constrained to inquire about your Father._”
 
 John Bradshaw uses a term which I personally like — that of _healthy shame_. Healthy shame brings us to a correct recognition of our human limitations. It gives us the permission to be human. It gives us permission to act and to make mistakes when we act. Reading again from John Sanford's _Healing and Wholeness_: “This means, of course, that life must be lived with risk...The safe life is not the whole life, and the whole life will have its share of mistakes. Not only will we learn through these mistakes and errors, but they themselves become a part of our mysterious totality. We are our mistakes, as well as our successes. A life without mistakes is impoverished, although, of course, our mistakes and errors must be redeemed by our becoming conscious through them.”
 
@@ -127,3 +151,27 @@ For more information on this topic, please refer to the following books:
 4. _Necessary Losses_, by Judith Viorst, Ballantine
 5. _The Uses of Enchantment_, by Bruno Bettelheim, Vintage Press
 6. _Dreamwork_, by Jeremy Taylor
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reflective Meditation on Cosmic Meanings</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Beth_Bartley/An_Offer_TOO_Good_to_Refuse">
+          <span class="pr-2">An Offer TOO Good to Refuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

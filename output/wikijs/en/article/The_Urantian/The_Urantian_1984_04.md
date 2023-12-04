@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Mario C. J. Harrington<br>© 1984 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1984-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1984 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mario_C_J_Harrington/The_religions_of_China">
+          <span class="pr-2">The religions of China</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Religions of China
 
@@ -23,5 +44,27 @@ _Oakland Park, Florida_
 
 ---
 
-> “_We cannot judge religion by the status of its accompanying civilization; we had better estimate the real nature of a civilization by the purity and nobility of its religion. Many of the world's most notable religious teachers have been virtually unlettered. The wisdom of the world is not necessary to an exercise of saving faith in eternal realities._” ([UB 102:8.2](/en/The_Urantia_Book/102#p8_2))
+> “_We cannot judge religion by the status of its accompanying civilization; we had better estimate the real nature of a civilization by the purity and nobility of its religion. Many of the world's most notable religious teachers have been virtually unlettered. The wisdom of the world is not necessary to an exercise of saving faith in eternal realities._” (<a id="a46_359"></a>[UB 102:8.2](/en/The_Urantia_Book/102#p8_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1984-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1984 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mario_C_J_Harrington/The_religions_of_China">
+          <span class="pr-2">The religions of China</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

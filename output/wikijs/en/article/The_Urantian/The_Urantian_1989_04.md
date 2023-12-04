@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Hannu Jarvinen, Mario C.J. Harrington<br>© 1989 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1989-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1989 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Hannu_Jarvinen/The_creations_of_mind">
+          <span class="pr-2">The creations of mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following article was given by the author as a speech at last year's conference, “Summer Days in Pieksamaki, Finland,” on June 4, 1988._
 
@@ -38,5 +59,27 @@ Many who had been comforted by the extrinsic religions of intellectual conformit
 _Mario C.J. Harrington_
 _Pompano Beach, Florida_
 
-> “_To assume that the universe can be known, that it is intelligible, is to assume that the universe is mind made and personality managed. Man's mind can only perceive the mind phenomena of other minds, be they human or superhuman. If man's personality can experience the universe, there is a divine mind and an actual personality somewhere concealed in that universe._” ([UB 1:6.7](/en/The_Urantia_Book/1#p6_7))
+> “_To assume that the universe can be known, that it is intelligible, is to assume that the universe is mind made and personality managed. Man's mind can only perceive the mind phenomena of other minds, be they human or superhuman. If man's personality can experience the universe, there is a divine mind and an actual personality somewhere concealed in that universe._” (<a id="a61_373"></a>[UB 1:6.7](/en/The_Urantia_Book/1#p6_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1989-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1989 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Hannu_Jarvinen/The_creations_of_mind">
+          <span class="pr-2">The creations of mind</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

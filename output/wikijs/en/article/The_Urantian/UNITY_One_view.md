@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Grace_E_Stephens/Tribute_to_a_passing_generation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tribute to a passing generation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_concept_of_race_in_The_Urantia_Book">
+          <span class="pr-2">The concept of race in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 At some unimaginable level of reality totality, God exists alone — undifferentiated and beyond the need to conceive of unity. This is the static level wherein God is wholly self-contained and self-existent. However, within this static totality, there also must be present — and identical in fact and truth — absolute, infinite diversity, and absolute, eternal unity. Always, at this level of God's unfathomable existence, must infinite diversity be eternally unified, And yet, somehow, such lowly will creatures as Urantian mortals have become a conscious part of God's majestic exploration of his infinity.
 
@@ -19,3 +43,27 @@ The sonship experience makes our participation in this process — God's self-ex
 The quest for God is the endless experience of his infinity. That which God is existentially he has given us the awareness to appreciate experientially, In the bestowal of unique, creature personality, God has willfully asked each creature to experience his peerless existence from an absolutely unique point of view, a view which we can only describe to one another, yet which we can share intimately only with God. And this is the sharing of the son with the Father, as the Father gently urges the son to perfect the ability to unify the mortal's sphere of infinity with the divine glue of the universe love.
 
 —_Anonymous_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Grace_E_Stephens/Tribute_to_a_passing_generation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Tribute to a passing generation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_concept_of_race_in_The_Urantia_Book">
+          <span class="pr-2">The concept of race in The Urantia Book</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

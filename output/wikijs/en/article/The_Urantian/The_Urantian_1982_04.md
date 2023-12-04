@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="pr-2">A message to the first triennial delegate assembly</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This issue of The URANTIAN Journal of URANTIA Brotherhood is dedicated to the memory of Emma L. Christensen. As our way of remembering Christy, we have included many of the speeches and talks she gave during her many years of unselfish service and devotion to the work of this fifth epochal revelation of our Father to this planet. Her words speak with clarity and resonance of her hope that each student of The URANTIA Book would rise to the fullness of commitment to God, and the experience of sonship, is a “Soldier of the Circles.” Christy graduated to the mansion worlds on May 2. 1982._
 
@@ -34,7 +55,7 @@ We know we are amateurs and we all feel very inadequate for the task of propagan
 
 We Urantians, as we traverse life day by day, may often have been concerned with our progress in bringing the Kingdom of God into our hearts and into the hearts of our fellow man. We may have been concerned with whether we are promoting the living gospel of the Fatherhood of God and the brotherhood of man wisely, and well. But if we do question our service, then we must, in fact, be questioning the roots of that service which are loyalty and love. We must learn to make necessary daily adjustment between our personal convictions and our duty toward family and associates. We must achieve the satisfaction of effecting an increasingly harmonious blending of personal convictions and family obligations into a masterful concept of group solidarity based upon loyalty, fairness, tolerance, and love as Jesus did so magnificently.
 
-“_What is loyalty? It is the fruit of an intelligent appreciation of universe brotherhood; one could not take so much and give nothing. As you ascend the personality scale, first you learn to be loyal, then to love, then to be filial, and then may you be free; but not until you are a finaliter, not until you have attained perfection of loyalty, can you self-realize finality of liberty._” ([UB 39:4.11](/en/The_Urantia_Book/39#p4_11)) And this perfection of loyalty is the first manner in which we attain perfection, indeed the only way we have gained perfection at the time we are mustered into the Corps of Finality.
+“_What is loyalty? It is the fruit of an intelligent appreciation of universe brotherhood; one could not take so much and give nothing. As you ascend the personality scale, first you learn to be loyal, then to love, then to be filial, and then may you be free; but not until you are a finaliter, not until you have attained perfection of loyalty, can you self-realize finality of liberty._” (<a id="a57_392"></a>[UB 39:4.11](/en/The_Urantia_Book/39#p4_11)) And this perfection of loyalty is the first manner in which we attain perfection, indeed the only way we have gained perfection at the time we are mustered into the Corps of Finality.
 
 [Read more](/en/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service)
 
@@ -48,6 +69,28 @@ But we are not soldiers bearing arms. We bear the good news of man's sonship wit
 
 ---
 
-> “_If you will only love one another as I am loving you, you shall be my friends, and I will ever speak to you of that which the Father reveals to me._” ([UB 180:1.3](/en/The_Urantia_Book/180#p1_3)) 
+> “_If you will only love one another as I am loving you, you shall be my friends, and I will ever speak to you of that which the Father reveals to me._” (<a id="a71_155"></a>[UB 180:1.3](/en/The_Urantia_Book/180#p1_3)) 
 > 
 > Jesus to the apostles in the Farewell Discourse
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="pr-2">A message to the first triennial delegate assembly</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

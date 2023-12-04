@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Marilynn Kulieke<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avoidance of Selfishness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Brent_St_Dents/CHANGES_Practice_Makes_Perfect">
+          <span class="pr-2">C.H.A.N.G.E.S.—Practice Makes Perfect</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Marilynn Kulieke
 
@@ -183,3 +207,27 @@ TO OTHERS
 ![](https://cdn.mathpix.com/cropped/2023_11_26_a965a30544384000e0dbg-47.jpg?height=742&width=742&top_left_y=1408&top_left_x=1186)
 
 Doing Good to the God in Others
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Avoidance of Selfishness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Brent_St_Dents/CHANGES_Practice_Makes_Perfect">
+          <span class="pr-2">C.H.A.N.G.E.S.—Practice Makes Perfect</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

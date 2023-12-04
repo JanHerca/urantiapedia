@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Henry Begemann, Roxane Prouix<br>© 1983 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1983-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1983 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="pr-2">The complex personality of man</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Complex Personality Of Man
 
@@ -32,5 +53,27 @@ _Montreal Canada_
 
 ---
 
-> “_Without God and except for his great and central person, there would be no personality throughout all the vast universe of universes. God is personality._” ([UB 1:5.7](/en/The_Urantia_Book/1#p5_7))
+> “_Without God and except for his great and central person, there would be no personality throughout all the vast universe of universes. God is personality._” (<a id="a55_161"></a>[UB 1:5.7](/en/The_Urantia_Book/1#p5_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1983-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1983 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/The_complex_personality_of_man">
+          <span class="pr-2">The complex personality of man</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

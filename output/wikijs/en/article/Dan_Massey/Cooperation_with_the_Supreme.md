@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Dan Massey<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steve_Dreier/Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Walking with God”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="pr-2">Reconciliation and Growth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Dan Massey
 
@@ -18,7 +42,7 @@ There are several reasons for this omission. I know that sincere statements of p
 
 Although I have often spoken of such matters as the physics and the astronomy of _The Urantia Book_, I am relatively disinterested in these matters of interpretation of the cosmology of the book. I am an armchair hobbyist in both these fields. My actual, personal interest- the interest through which the book has profoundly affected my life-lies in deductive logic, the formal reasoning by which man seeks a direct knowledge of the Absolute (without the apparent benefit of revelation). There are a few parts of _The Urantia Book_ in which mathematical methods and results are discussed, but it is not my purpose today to examine these. Rather, I invite you to explore, with me, the further reaches of spiritual understanding and faith which may be reached by inference from the teachings of the book.
 
-God the Father has given a mandate to all finite creation, “Be you perfect, even as I am perfect.” _The Urantia Book_ holds out to us the example of human perfection in the mortal life of Jesus of Nazareth. The procedures to achieve such dynamic perfection are clearly expressed many times. Jesus lived his entire life as if in the presence of the Father. Jesus' life was wholly dedicated to doing his Father's will. And this is surely a most desirable state of being, for we are told that “_... what a son desires and the Father wills will certainly come to pass._” ([UB 118:6.5](/en/The_Urantia_Book/118#p6_5)) How liberating from the partiality of human existence to know with certainty that one can contribute, even in this life, something of eternal value in the Supreme!
+God the Father has given a mandate to all finite creation, “Be you perfect, even as I am perfect.” _The Urantia Book_ holds out to us the example of human perfection in the mortal life of Jesus of Nazareth. The procedures to achieve such dynamic perfection are clearly expressed many times. Jesus lived his entire life as if in the presence of the Father. Jesus' life was wholly dedicated to doing his Father's will. And this is surely a most desirable state of being, for we are told that “_... what a son desires and the Father wills will certainly come to pass._” (<a id="a44_568"></a>[UB 118:6.5](/en/The_Urantia_Book/118#p6_5)) How liberating from the partiality of human existence to know with certainty that one can contribute, even in this life, something of eternal value in the Supreme!
 
 Between the thought and the deed falls the shadow... How is the wholehearted commitment of faith to be motivated? Here is paradox. How can I know that I am doing God's will? How can I know that my wholehearted commitment of faith will not engage my energies in some delusion of desire from which I would have been protected by a more reserved approach? Or would my prudent reservation condemn my supreme effort to fruitless dissipation? Shall I fail through unwise overcommitment or through overly cautious undercommitment? And will not the potential failure, which now seems increasingly inevitable, further disprove my belief and weaken my will to act upon it?
 
@@ -50,7 +74,7 @@ For the person who is sincere of heart, in no case can a materially bad outcome 
 
 As I said before, there is more to this process than simply doing the Father's will. Having accepted the premises that lead to understanding the inevitability of a perfecting moral choice, I find these same principles extend to the domain of effective prayer, of cocreative communion. Let me explain.
 
-“_What the true son desires and the infinite Father wills IS._” ([UB 146:2.7](/en/The_Urantia_Book/146#p2_7)) What an exhilarating statement! What an amazing promise of freedom from the apparent limitations of a finite material being! What a wonderful opportunity to join with the Father in the creation of permanent universe realities! What an incredible liberation from the relativity of values of finite existence! Through this single principle, I, a mere mortal, can change not only myself but also the universe! My desires, when aligned with the divine will, engrave the tablets of universe history! My contribution, no matter how small, becomes both _real_ and _permanent_!
+“_What the true son desires and the infinite Father wills IS._” (<a id="a76_65"></a>[UB 146:2.7](/en/The_Urantia_Book/146#p2_7)) What an exhilarating statement! What an amazing promise of freedom from the apparent limitations of a finite material being! What a wonderful opportunity to join with the Father in the creation of permanent universe realities! What an incredible liberation from the relativity of values of finite existence! Through this single principle, I, a mere mortal, can change not only myself but also the universe! My desires, when aligned with the divine will, engrave the tablets of universe history! My contribution, no matter how small, becomes both _real_ and _permanent_!
 
 To perform this purest, most spiritual work, I begin with prayer, the expression of my desire to God. If I am now to consciously formulate this desire within the scope of my spiritual intention, I must conceive of a thing which accords with the scope of the Father's will. Id not know this scope, although I may rely on revelation to disclose some possibilities. While auto-revelation may be so effective, it is usually peculiar to the individual. _The Urantia Book_, on the other hand, discloses a range of possibilities for my desire which must accord with the divine will. Anyone can work in total confidence within this range and be assured of the effectiveness and power of their work.
 
@@ -95,3 +119,27 @@ For the soul of man, the human spirit, grows from near-complete imperfection tow
 And it is in the post-finite age of absonities eventuating in perfection that the errors of past imperfection of the individual are harmonized with the perfect realities of infinity. For in this new and broadened arena of spiritual and literal action the time-space transcendence of Supremacy is revealed as the eventuator of the will of the Ultimate. In this new universe, the errors of time and the evils of space are seen in true perspective as parts of a greater, ultimately good and harmonious whole. More remarkably, this eventually perfected whole exists in potential today and is absonitized by each occasion in which the finite will chooses the Father's will. The finite choice of the divine will today is an eternal reality join, ing man and God in joint commitment to make this choice the first step of an ultimately perfected universe reality. If man will have faith and persist in this relationship, the ministry of the Spirit will assure that the ultimate responsibilities thus incurred are in and of the nature of the perfected Finaliter. The human mind, spirit, and soul have nothing to fear in eternity. The frog is the tadpole's destiny as surely as the Finaliter of uniquely transcendent service is the destiny of the mortal personality.
 
 So here is a complete, lengthy, somewhat detailed analysis of my personal experience of the ordinary events of being and doing the Father's will. It is unusual in only one respect- that it admits conscious choosing of events in a cooperative but nonpassive way. The same experience also admits unconscious participation, and it is here that the idea of “loving in the presence of God” seems most descriptive. Upon attaining and acknowledging co-Supremacy throughout Nebadon with the Universe Mother Spirit, Michael of Nebadon became volitionally ubiquitous throughout finite time and space. As the human Jesus of Nazareth he had anticipated this occasion, and had committed this ubiquity, in part, to the service of his mortal associates. In establishing the Remembrance Supper as the only true sacrament, Michael determined that he would use this new power to provide true worship in his divine presence for any and all faith-conscious persons throughout the time and space of Nebadon. Whoever so _wills_ shall be in the presence of the Creator Son. Whoever so _chooses_ shall live in the light of the Master. Whoever so _intends_ shall serve his fellows in love. Whoever so _desires_ shall Walk with God.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steve_Dreier/Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">“Walking with God”</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="pr-2">Reconciliation and Growth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

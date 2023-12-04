@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Gloriann Harris<br>© 1984 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1984-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1984 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gloriann_Harris/The_privilege_of_individual_ministry">
+          <span class="pr-2">The privilege of individual ministry</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Privilege of Individual Ministry
 
@@ -29,7 +50,7 @@ _Chicago, Illinois_
 
 Over the last eight years of publication of The URANTIAN Journal of URANTIA Brotherhood, we have from time to time suggested topics for future issues to stimulate the writers in our community to offer their work for publication. Once again we would like to tickle your imaginations and word-processors with a request for your active participation in The Journal in the coming months. Here's our question, based upon the following quote from Paper I of _The URANTIA Book_:
 
-> “_The affectionate dedication of the human will to the doing of the Father's will is man's choicest gift to God; in fact, such a consecration of creature will constitutes man's only possible gift of true value to the Paradise Father._” ([UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
+> “_The affectionate dedication of the human will to the doing of the Father's will is man's choicest gift to God; in fact, such a consecration of creature will constitutes man's only possible gift of true value to the Paradise Father._” (<a id="a52_239"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
 
 **Question**
 
@@ -42,5 +63,27 @@ Warmly,
 
 ---
 
-“_A personality who knows God and desires to do his will, who has spirit insight, is divinely stable and eternally existent. Man's great universe adventure consists in the transit of his mortal mind from the stability of mechanical statics to the divinity of spiritual dynamics, and he achieves this transformation by the force and constancy of his own personality decisions, in each of life's situations declaring. ‘It is my will that your will be done.’_” ([UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
+“_A personality who knows God and desires to do his will, who has spirit insight, is divinely stable and eternally existent. Man's great universe adventure consists in the transit of his mortal mind from the stability of mechanical statics to the divinity of spiritual dynamics, and he achieves this transformation by the force and constancy of his own personality decisions, in each of life's situations declaring. ‘It is my will that your will be done.’_” (<a id="a65_459"></a>[UB 1:1.2](/en/The_Urantia_Book/1#p1_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1984-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1984 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gloriann_Harris/The_privilege_of_individual_ministry">
+          <span class="pr-2">The privilege of individual ministry</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

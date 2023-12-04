@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 James Johnston<br>© 1983 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1983-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1983 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Johnston/How_do_science_and_technology_contribute_to_spiritual_growth">
+          <span class="pr-2">How do science and technology contribute to spiritual growth?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## How Do Science And Technology Contribute To Spiritual Growth?
 
@@ -23,5 +44,27 @@ There seem to be two primary ways that science and technology make their contrib
 — _James Johnston_ 
 _Toledo, Ohio_
 
-> “_No matter what the apparent conflict between materialism and the teachings of Jesus may be, you can rest assured that, in the ages to come, the teachings of the Master will fully triumph._” ([UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
+> “_No matter what the apparent conflict between materialism and the teachings of Jesus may be, you can rest assured that, in the ages to come, the teachings of the Master will fully triumph._” (<a id="a46_195"></a>[UB 195:6.2](/en/The_Urantia_Book/195#p6_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1983-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1983 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Johnston/How_do_science_and_technology_contribute_to_spiritual_growth">
+          <span class="pr-2">How do science and technology contribute to spiritual growth?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

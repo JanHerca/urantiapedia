@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Gloriann Harris<br>© 1984 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1984_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1984 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1984-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1984 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following was adapted from an address given at the 1984 URANTIA Brotherhood General Conference, Green Lake, Wisconsin_
 
@@ -55,7 +76,7 @@ In the early church at Corinth, there was great dissention about the relative me
 - Many persons, one family.
 - Many members, one body.
 
-In our consideration of spirit endowment, let's reflect upon the Spirit of Truth. “_Pentecost endowed mortal man with the power to forgive personal injuries, to keep sweet in the midst of the gravest injustice, to remain unmoved in the face of appalling danger, and to challenge the evils of hate and anger by the fearless acts of love and forbearance._” ([UB 194:3.12](/en/The_Urantia_Book/194#p3_12)) So, the Father provides the raw materials — the seed, the soil, and the elements. The Son sows the seed-uses the power provided by the Father to set the stage in time and space, And the Spirit in us can make something of it. He activates us. We are empowered by the Spirit for God's _work_ — God's will — God's cause, The Spirit yields the fruit, From the harvest comes “bread,” the staff of the life eternal.
+In our consideration of spirit endowment, let's reflect upon the Spirit of Truth. “_Pentecost endowed mortal man with the power to forgive personal injuries, to keep sweet in the midst of the gravest injustice, to remain unmoved in the face of appalling danger, and to challenge the evils of hate and anger by the fearless acts of love and forbearance._” (<a id="a78_356"></a>[UB 194:3.12](/en/The_Urantia_Book/194#p3_12)) So, the Father provides the raw materials — the seed, the soil, and the elements. The Son sows the seed-uses the power provided by the Father to set the stage in time and space, And the Spirit in us can make something of it. He activates us. We are empowered by the Spirit for God's _work_ — God's will — God's cause, The Spirit yields the fruit, From the harvest comes “bread,” the staff of the life eternal.
 
 I am supposed to be telling you “how-to-go-do” but I am not telling you how. I have tried to tell you “why” and “what,” but I will not tell you “how.” The “why” — because if we are all sons of God then we must be brothers. And, if God had chosen to differentiate in time and space, then we must synthesize toward eternity unity reality. (That's a high fallutin' philosophical way of saying that we must get along together, we must help each other, we must coordinate our differences.) The “what” — actualize the potential. We must _socialize our religion_ to make it happen. We do not learn by merely studying, hearing, being told, observing. We learn by doing, by teaching, by putting into practice what we have studied. Learning, living, and sharing the teachings — we are evolutionary creatures, It is philosophically required that we experience in order to become real.
 
@@ -73,7 +94,7 @@ Let's move to considering personal spiritual progress and then come back to this
 
 Spiritual transformation is the key. We are born again in the spirit and all things are new. First you must be spiritually transformed for the magic (as it were) to work.
 
-Spiritual transformation: Be you therefore perfect, not do you therefore perfect and wonderful things. Jesus would reiterate: In the kingdom you must _be_ righteous in order to do righteous. In the kingdom _being_ righteous by faith must precede _doing_ righteous in the _daily lives_ of the mortals of the earth. Starting study groups, placing books in libraries, visiting the sick, telling people about _The URANTIA Book_, raising money to translate the book, helping a person in distress, hosting conferences, even the intellectual interpretation shared at study group meetings — these things are _doing_ righteous. We must _be_ righteous _in order to do_ righteous. _Being_ righteous by faith must _precede doing_ righteous in _daily life_. Please not though, “doing righteous in daily life,” _daily_ life. We should not fail to make note of the fact that we are told, “_[Jesus] not only meant well, but he went about actually doing good._” ([UB 141:3.6](/en/The_Urantia_Book/141#p3_6)) We also read, “_...one must do something as well as be something._” ([UB 115:1.1](/en/The_Urantia_Book/115#p1_1)) [Italics mine].
+Spiritual transformation: Be you therefore perfect, not do you therefore perfect and wonderful things. Jesus would reiterate: In the kingdom you must _be_ righteous in order to do righteous. In the kingdom _being_ righteous by faith must precede _doing_ righteous in the _daily lives_ of the mortals of the earth. Starting study groups, placing books in libraries, visiting the sick, telling people about _The URANTIA Book_, raising money to translate the book, helping a person in distress, hosting conferences, even the intellectual interpretation shared at study group meetings — these things are _doing_ righteous. We must _be_ righteous _in order to do_ righteous. _Being_ righteous by faith must _precede doing_ righteous in _daily life_. Please not though, “doing righteous in daily life,” _daily_ life. We should not fail to make note of the fact that we are told, “_[Jesus] not only meant well, but he went about actually doing good._” (<a id="a96_946"></a>[UB 141:3.6](/en/The_Urantia_Book/141#p3_6)) We also read, “_...one must do something as well as be something._” (<a id="a96_1060"></a>[UB 115:1.1](/en/The_Urantia_Book/115#p1_1)) [Italics mine].
 
 So, let us assume that we have a group of spiritually transformed individuals all ready to go about actually doing good — diverse personalities with radically different intellectual attitudes each striving to do good with his own original endowments of mind, body, and soul... and experiencing a threat to social harmony and fraternal peace, What is our unifier? How do we achieve harmony — while we lead individual lives of originality and freedom before God?
 
@@ -89,9 +110,9 @@ In an address called _The Weight of Glory_ C.S. Lewis states this concern somewh
 
 Paul of Tarsus said it simply, “I am the glory of God. You are the glory of God.”
 
-Let's just talk about the here and now. Our immediate neighbors, the people in our families, at work, in our study group, our friends, strangers in the street — the people in our daily lives. Today — not tomorrow now — here. “_As the Father sent me into the world, so send I you, As I have revealed the Father, so shall you reveal the divine love, not merely with words, but in your daily living. I send you forth, not to love the souls of men, but rather to love men... Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men — the actual and living experience of loving men and serving them, even as I have loved and served you._” ([UB 191:5.3](/en/The_Urantia_Book/191#p5_3)) Your mission shall consist in the life which you will live among men. Here — now. The religion of Jesus was based wholly on living his life. He left no books, laws, or organizations affecting the religious life of the individual. The religion of Jesus was based wholly on _living his life_.
+Let's just talk about the here and now. Our immediate neighbors, the people in our families, at work, in our study group, our friends, strangers in the street — the people in our daily lives. Today — not tomorrow now — here. “_As the Father sent me into the world, so send I you, As I have revealed the Father, so shall you reveal the divine love, not merely with words, but in your daily living. I send you forth, not to love the souls of men, but rather to love men... Your mission to the world is founded on the fact that I lived a God-revealing life among you; on the truth that you and all other men are the sons of God; and it shall consist in the life which you will live among men — the actual and living experience of loving men and serving them, even as I have loved and served you._” (<a id="a112_796"></a>[UB 191:5.3](/en/The_Urantia_Book/191#p5_3)) Your mission shall consist in the life which you will live among men. Here — now. The religion of Jesus was based wholly on living his life. He left no books, laws, or organizations affecting the religious life of the individual. The religion of Jesus was based wholly on _living his life_.
 
-We can't just talk about it. We must live it to make it happen. We must be interested in the members of our own study group, not just because they increase its size, but because we truly love them — we are interested in _them_. “_The privilege of service immediately follows the discovery of trustworthiness. Nothing can stand between you and opportunity for increased service except your own untrustworthiness, your lack of capacity for appreciation of the solemnity of trust._” ([UB 28:6.16](/en/The_Urantia_Book/28#p6_16)) “_Trust is the crucial test of will crcatures. Trustworthiness is the true measure of self-mastery, character._” ([UB 28:6.13](/en/The_Urantia_Book/28#p6_13)) _“What is loyalty? It is the fruit of an intelligent appreciation of universe brotherhood; one could not take so much and give nothing._” ([UB 39:4.11](/en/The_Urantia_Book/39#p4_11))
+We can't just talk about it. We must live it to make it happen. We must be interested in the members of our own study group, not just because they increase its size, but because we truly love them — we are interested in _them_. “_The privilege of service immediately follows the discovery of trustworthiness. Nothing can stand between you and opportunity for increased service except your own untrustworthiness, your lack of capacity for appreciation of the solemnity of trust._” (<a id="a114_481"></a>[UB 28:6.16](/en/The_Urantia_Book/28#p6_16)) “_Trust is the crucial test of will crcatures. Trustworthiness is the true measure of self-mastery, character._” (<a id="a114_640"></a>[UB 28:6.13](/en/The_Urantia_Book/28#p6_13)) _“What is loyalty? It is the fruit of an intelligent appreciation of universe brotherhood; one could not take so much and give nothing._” (<a id="a114_824"></a>[UB 39:4.11](/en/The_Urantia_Book/39#p4_11))
 
 In John's epistle we read, “Beloved! Let us love one another, because love comes from God. Whoever loves is a child of God and knows God. Whoever does not love does not know God, because God is love. We love because God first loved us. If someone says, ‘I love God,’ but hates his brother, he is a liar. For he cannot love God, whom he has not seen, if he does not love his brother, whom he has seen. This, then, is the command that Christ gave us: he who loves God must love his brother also.”
 
@@ -148,11 +169,11 @@ who can put up with God.”
 
 If someone says, “I love God,” but hates his brother, he is a liar. For he cannot love God, whom he has not seen, if he does not love his brother, whom he has seen.
 
-“_The Master has taught the apostles that they are the sons of God. He has called them brethren, and now, before he leaves, he calls them his friends._” ([UB 180:1.6](/en/The_Urantia_Book/180#p1_6)) In the gospel that we call John: “No longer do I call you servants, for the servant does not know what his master is doing: instead I call you friends.”
+“_The Master has taught the apostles that they are the sons of God. He has called them brethren, and now, before he leaves, he calls them his friends._” (<a id="a171_154"></a>[UB 180:1.6](/en/The_Urantia_Book/180#p1_6)) In the gospel that we call John: “No longer do I call you servants, for the servant does not know what his master is doing: instead I call you friends.”
 
 Fr. George Ninteman, a Dominican Preacher, writes, “Every meeting of persons is the exchange of gifts, But a gift without a giver is not a gift, it is a thing devoid of relationship. Friendship is a relationship between persons who see themselves as they truly are; gifts of the Father to each other for others... brothers. A friend is a gift not just to me, but to others through me... When I keep my friend, possess him, I destroy him ‘giftness.’ If I save his life for me, I lose it for others. Persons are gifts, gifts received and gifts given, like the Son, like the Spirit, gifts _from_ the Father. Friendship is the response of persons...”
 
-Remember our father/brother's last words on earth: “_Love men with the love wherewith I have loved you and serve your fellow mortals even as I have served you. By the spirit fruits of your lives impel souls to believe the truth that man is a son of God, and that all men are brethren. Remember all I have taught you and the life I have lived among you. My love overshadows you, my spirit will dwell with you, and my peace shall abide upon you, Farewell._” ([UB 193:5.2](/en/The_Urantia_Book/193#p5_2))
+Remember our father/brother's last words on earth: “_Love men with the love wherewith I have loved you and serve your fellow mortals even as I have served you. By the spirit fruits of your lives impel souls to believe the truth that man is a son of God, and that all men are brethren. Remember all I have taught you and the life I have lived among you. My love overshadows you, my spirit will dwell with you, and my peace shall abide upon you, Farewell._” (<a id="a175_457"></a>[UB 193:5.2](/en/The_Urantia_Book/193#p5_2))
 
 Do well.
 
@@ -173,3 +194,24 @@ will of God.
 
 —_Glorian Harris_
 _Chicago, Illinois_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1984_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1984 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1984-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1984 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

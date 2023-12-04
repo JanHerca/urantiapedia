@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Sally Schlundt<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thoughts on the dissemination of the teachings of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In introducing _The URANTIA Book_ to other people, other cultures, and other faiths, the quality of our interface will be largely determined by how we see ourselves, and that in turn will determine how we will appear to others and therefore how they will respond to us. All else — our motives, our techniques, and our goals fall secondary to this one factor, because how we see ourselves in association with this new revelation determines those motives, techniques, and goals.
 
@@ -50,3 +71,24 @@ I1l reiterate what I had to say in the beginning boundaries need to exist but no
 
 _Sally Schlundt_ 
 _Fort Wayne, Indiana_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Thoughts on the dissemination of the teachings of The Urantia Book</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

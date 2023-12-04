@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Larry Mullins<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Everything You Always Wanted to Know about Family Peace (Ha, Ha)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Larry Mullins
 
@@ -239,3 +260,24 @@ Above all, let us learn to serve, to do ordinary things with great love. Dear Go
 God bless all of you. I love all of you.
 
 Via con Dios-walk with God.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Everything You Always Wanted to Know about Family Peace (Ha, Ha)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

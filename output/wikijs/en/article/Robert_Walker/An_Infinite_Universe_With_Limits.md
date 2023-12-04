@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Robert Walker<br>© 1979 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beauty And Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1979-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1979 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ethel_Zanoni/Meditations">
+          <span class="pr-2">Meditations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 As I read _The URANTIA Book_, there is great indication that the Father enjoys and desires unique individuals who think for themselves. Diversity of opinion and creative thinking are often what lead to higher truths. Hence, conformity to the will of the Father and conformity to blind thinking are recognized as distinctly different.
 
@@ -18,3 +42,27 @@ Since there is infinity within each of us in the gift of the nature of the Fathe
 
 — _Robert Walker_
 _Rio del Mar, California_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_F_Bruyn/Beauty_and_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Beauty And Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1979-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1979 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Ethel_Zanoni/Meditations">
+          <span class="pr-2">Meditations</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

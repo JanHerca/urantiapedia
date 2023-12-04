@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Probal Dasgupta<br>© 1985 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peter_Laurence/Editors_Note">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editor's Note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/Revelation_and_receptivity">
+          <span class="pr-2">Revelation and receptivity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _I am thou: meditations on the truth of India._ By Ramchandra Gandhi. Pune: Indian Philosophical Quarterly Publications (Department of Philosophy, University of Poona). 1984. xii s 311 pages. $15.
 
@@ -30,3 +54,27 @@ Such a reader will also be familiar with the point (123) that the “coercivenes
 
 —_Probal Dasgupta_ 
 _Pune, India_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Peter_Laurence/Editors_Note">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editor's Note</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Helena_E_Sprague/Revelation_and_receptivity">
+          <span class="pr-2">Revelation and receptivity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

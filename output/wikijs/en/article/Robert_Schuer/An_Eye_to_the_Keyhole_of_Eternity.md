@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Robert Schuer<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Experiencing the God in Ourselves and in Others</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="pr-2">Reflective Meditation on Cosmic Meanings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Robert J. Schuer
 
@@ -47,3 +71,27 @@ Finally, can you imagine Christ Michael coming from his Father on Paradise past 
 - The planet on which you are now living?
 - The planet to which was sent an incredible fifth epochal revelation?
 - And the planet from which you are now gazing through the keyhole of eternity because of that revelation?
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Experiencing the God in Ourselves and in Others</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Glass/Reflective_Meditation_on_Cosmic_Meanings">
+          <span class="pr-2">Reflective Meditation on Cosmic Meanings</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

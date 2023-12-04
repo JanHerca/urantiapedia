@@ -9,12 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Grace E. Stephens, Charles Laurence Olivea<br>© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Grace_E_Stephens/Tribute_to_a_passing_generation">
+          <span class="pr-2">Tribute to a passing generation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Tribute To A Passing Generation
 
 Youth seeks recognition. Maturity tends to change the individual's perspective with a leavening of the importance of self.
 
-_The URANTIA Book_ honors those who serve quietly behind the scenes. We are told that a reservist is chosen because of his “_... willingness to serve without human recognition and rewards._” ([UB 114:7.5](/en/The_Urantia_Book/114#p7_5))
+_The URANTIA Book_ honors those who serve quietly behind the scenes. We are told that a reservist is chosen because of his “_... willingness to serve without human recognition and rewards._” (<a id="a37_192"></a>[UB 114:7.5](/en/The_Urantia_Book/114#p7_5))
 
 URANTIA Brotherhood seems to be entering a transition period when the old is giving way to the new. Let me admonish those to whom we are entrusting the safekeeping of our revelation not to reject the historic leadership of the many dedicated men and women of the past who have done so much in contributing to the organization of the Brotherhood and have given their lives to the dissemination of these teachings.
 
@@ -45,12 +66,34 @@ This essay has a two-fold purpose: to suggest an explanation why Deity chooses t
 
 **Part 1**
 
-In attempting to understand the concept of race in _The URANTIA Book_, I found it necessary to adopt the view that “_Finite origins are helpful, but only divine causes reveal final effects. Eternal ends are not shown in time beginnings._” ([UB 19:1.11](/en/The_Urantia_Book/19#p1_11)) It is helpful to have a Life Carrier's listing of some of the reasons for racial differences: variety for natural selection; interbreeding of diverse, but superior inheritance factors; competitive interracial development; variation in racial status provides the opportunity for developing tolerance; and, encouraging individual races to first grow in numbers and come to maturity before worldwide homogeneous racial mixing. ([UB 64:6.31-35](/en/The_Urantia_Book/64#p6_31)) While these reasons do describe something important about the process of racial evolution in the human condition, they do not explain how the plan for multiple evolutionary races of color relates to God and his cosmic design of the universe.
+In attempting to understand the concept of race in _The URANTIA Book_, I found it necessary to adopt the view that “_Finite origins are helpful, but only divine causes reveal final effects. Eternal ends are not shown in time beginnings._” (<a id="a68_240"></a>[UB 19:1.11](/en/The_Urantia_Book/19#p1_11)) It is helpful to have a Life Carrier's listing of some of the reasons for racial differences: variety for natural selection; interbreeding of diverse, but superior inheritance factors; competitive interracial development; variation in racial status provides the opportunity for developing tolerance; and, encouraging individual races to first grow in numbers and come to maturity before worldwide homogeneous racial mixing. (<a id="a68_710"></a>[UB 64:6.31-35](/en/The_Urantia_Book/64#p6_31)) While these reasons do describe something important about the process of racial evolution in the human condition, they do not explain how the plan for multiple evolutionary races of color relates to God and his cosmic design of the universe.
 
 [Read more](/en/article/Charles_Laurence_Olivea/The_concept_of_race_in_The_Urantia_Book)
 
 — _Charles Laurence Olivea_ 
 _Watertown, Connecticut_
 
-> “_Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love._” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “_Truth, beauty, and goodness are divine realities, and as man ascends the scale of spiritual living, these supreme qualities of the Eternal become increasingly co-ordinated and unified in God, who is love._” (<a id="a75_212"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Grace_E_Stephens/Tribute_to_a_passing_generation">
+          <span class="pr-2">Tribute to a passing generation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

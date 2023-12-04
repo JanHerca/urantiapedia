@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Charles E. Hansen<br>© 1987 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1987_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">April 1987 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1987-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1987 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Economics is basically the study of our individual actions and our interactions with each other that are necessary to draw forth and shape resources from nature; to provide for their distribution among us; and to employ them to some purpose that, in one way or another, satisfies us or increases our happiness. These activities were going on a long time before there was a “science” of economics; and, as the intent of any science is to help us improve, the science of economics actually gets down to the search for understandings and principles that can help us do these activities more efficiently.
 
@@ -98,3 +119,24 @@ And the real problem that we have in economics today is that so few take the tim
 
 _Charles E. Hansen_ 
 _Silver Spring, Maryland_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1987_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">April 1987 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1987-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1987 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

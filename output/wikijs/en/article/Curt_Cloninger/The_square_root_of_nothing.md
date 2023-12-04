@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Curt Cloninger<br>© 1987 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All I ever really needed to know I learned in kindergarden</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1987-issue-special-conference-double-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1987 Issue. Special Conference Double Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Transformation_and_here_is_mistery">
+          <span class="pr-2">Transformation: and here is mistery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _By Curt Cloninger, 17, April, 1986_
 
@@ -53,3 +77,27 @@ and what I know and can tell of him is still only the square root of nothing.
 
 Jesus Christ is risen,
 May the sky forever move.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Faughum/All_I_ever_really_needed_to_know_I_learned_in_kindergarden">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">All I ever really needed to know I learned in kindergarden</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1987-issue-special-conference-double-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1987 Issue. Special Conference Double Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Stephen_Zendt/Transformation_and_here_is_mistery">
+          <span class="pr-2">Transformation: and here is mistery</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

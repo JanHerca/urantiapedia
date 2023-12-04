@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Meredith J. Sprunger<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Revolution</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation">
+          <span class="pr-2">Doing The Father's Will and human motivation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I can think of no better way of learning how to relate to the Father than through the guidelines given to us by Jesus and our own personal experience. Jesus demonstrates and teaches us to seek a first hand, personal relationship with our Heavenly Father.
 
@@ -16,17 +40,17 @@ Both Jesus and the authors of _The URANTIA Book_ point out that anyone who has e
 
 Jesus constantly emphasizes the centrality of service and fruit-bearing in our relationship with the Father. Religionists have often side-stepped the demanding discipline of spiritual ministry by engaging in religious substitutes such as theologizing, cult cultivation, rulemaking, legalism, dogmatic proclamation, and mystic contemplation. The basic teachings of Jesus can be summarized by three words: attitude, action, and outreach. We are to love God with all of our heart, soul, and mind and our neighbor as ourself. We actualize this love in the concrete action of creative service; and this ministry is to be directed in an outreach to the ends of the earth.
 
-Let us recall in more detail what Jesus has to say about this life of ministering to our fellows. In the parable of the sower he illustrates the importance of sowing the seed of truth. This seed will obviously fall on different types of ground. The sowing is our responsibility: but the results, to a large extent, are in greater hands. We are reminded on [UB 48:7.24](/en/The_Urantia_Book/48#p7_24) of _The URANTIA Book_, “_The evolving soul is not made divine by what it does, but by what it strives to do._” We ought to strive to whet the appetites of our associates for truth (556) but not be overly concerned about results.
+Let us recall in more detail what Jesus has to say about this life of ministering to our fellows. In the parable of the sower he illustrates the importance of sowing the seed of truth. This seed will obviously fall on different types of ground. The sowing is our responsibility: but the results, to a large extent, are in greater hands. We are reminded on <a id="a42_356"></a>[UB 48:7.24](/en/The_Urantia_Book/48#p7_24) of _The URANTIA Book_, “_The evolving soul is not made divine by what it does, but by what it strives to do._” We ought to strive to whet the appetites of our associates for truth (556) but not be overly concerned about results.
 
-The parable of the two sons points out that good intentions are not enough; actually doing the Father's will is required of all true sons and daughters. Or, as Matthew phrases it, “Not everyone that saith unto me ‘Lord, Lord’ shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.” ([Matt. 7:22](/en/Bible/Matthew/7#v22)) To Peter he said, “_Feed my sheep._” ([UB 192:2.5](/en/The_Urantia_Book/192#p2_5))
+The parable of the two sons points out that good intentions are not enough; actually doing the Father's will is required of all true sons and daughters. Or, as Matthew phrases it, “Not everyone that saith unto me ‘Lord, Lord’ shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.” ([Matt. 7:22](/en/Bible/Matthew/7#v22)) To Peter he said, “_Feed my sheep._” (<a id="a44_405"></a>[UB 192:2.5](/en/The_Urantia_Book/192#p2_5))
 
 ## Be Outgoing
 
 The parables of the good Samaritan, the lost sheep, and the lost coin all emphasize the importance of reaching out to others. Cults tend to be centripetal, inward; their primary relationships and focus is with insiders. Knowledge is shared only with cult members and special guidance is usually claimed by the select few. A mature religion or religionist is open and outgoing and seeks to bring ministry to all mankind. When we turn from our in-group preoccupations, we see that, indeed, the fields are white for the harvest but the laborers are few. The world hungers for a vision of a larger understanding of the universe and God.
 
-Jesus admonishes us that one of the vital ways in which we relate with the Father is through the talents and treasure given to us. In _The URANTIA Book_ we read, “_Truth is living: the Spirit of Truth is ever leading the children of light into new realms of spiritual reality and divine service. You are not given truth to crystallize into settled, safe, and honored forms. Your revelation of truth must be so enhanced by passing through your personal experience that new beauty and actual spiritual gains will be disclosed to all who behold your spiritual fruits and in consequence thereof are led to glorify the Father who is in heaven. Only those faithful servants who thus grow in the knowledge of truth, and who thereby develop the capacity for divine appreciation of spiritual realities, can ever hope to ‘enter fully into the joy of their Lord.’ What a sorry sight for successive generations of the professed followers of Jesus to say, regarding their stewardship of divine truth: ‘Here, Master, is the truth you committed to us a hundred or a thousand years ago. We have lost nothing: we have faithfully preserved all you gave us; we have allowed no changes to be made in that which you taught us; here is the truth you gave us.’ But such a plea concerning spiritual indolence will not justify the barren steward of truth in the presence of the Master. In accordance with the truth committed to your hands will the Master of truth require reckoning._” ([UB 176:3.7](/en/The_Urantia_Book/176#p3_7))
+Jesus admonishes us that one of the vital ways in which we relate with the Father is through the talents and treasure given to us. In _The URANTIA Book_ we read, “_Truth is living: the Spirit of Truth is ever leading the children of light into new realms of spiritual reality and divine service. You are not given truth to crystallize into settled, safe, and honored forms. Your revelation of truth must be so enhanced by passing through your personal experience that new beauty and actual spiritual gains will be disclosed to all who behold your spiritual fruits and in consequence thereof are led to glorify the Father who is in heaven. Only those faithful servants who thus grow in the knowledge of truth, and who thereby develop the capacity for divine appreciation of spiritual realities, can ever hope to ‘enter fully into the joy of their Lord.’ What a sorry sight for successive generations of the professed followers of Jesus to say, regarding their stewardship of divine truth: ‘Here, Master, is the truth you committed to us a hundred or a thousand years ago. We have lost nothing: we have faithfully preserved all you gave us; we have allowed no changes to be made in that which you taught us; here is the truth you gave us.’ But such a plea concerning spiritual indolence will not justify the barren steward of truth in the presence of the Master. In accordance with the truth committed to your hands will the Master of truth require reckoning._” (<a id="a50_1461"></a>[UB 176:3.7](/en/The_Urantia_Book/176#p3_7))
 
-These ringing words of the authors of _The URANTIA Book_ are a clarion call to action. We further read on [UB 160:5.3](/en/The_Urantia_Book/160#p5_3), “_If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call religion is only a traditional belief or a mere system of intellectual philosophy._” We are also told, “_In the universal regime you are not reckoned as having possessed yourself of knowledge and truth until you have demonstrated your ability and your willingness to impart this knowledge and truth to others._” ([UB 25:4.12](/en/The_Urantia_Book/25#p4_12))
+These ringing words of the authors of _The URANTIA Book_ are a clarion call to action. We further read on <a id="a52_106"></a>[UB 160:5.3](/en/The_Urantia_Book/160#p5_3), “_If you are not a positive and missionary evangel of your religion, you are self-deceived in that what you call religion is only a traditional belief or a mere system of intellectual philosophy._” We are also told, “_In the universal regime you are not reckoned as having possessed yourself of knowledge and truth until you have demonstrated your ability and your willingness to impart this knowledge and truth to others._” (<a id="a52_577"></a>[UB 25:4.12](/en/The_Urantia_Book/25#p4_12))
 
 ## Show Forth Fruits
 
@@ -48,7 +72,7 @@ As this service relates to the fifth epochal revelation. probably the most criti
 
 Most of the concepts of _The URANTIA Book_ are already in the thought patterns of Western Civilization. It is the unique integration of these ideas in _The URANTIA Book_ which makes them effective. Many theologians, ministers, and educators are currently presenting the essential truths of _The URANTIA Book_ in their teaching. This is doing much good but it lacks the integrative spiritual vision and faith power of a revelatory breakthrough. Only the coherent message of _The URANTIA Book_ itself has the dynamic to bring about a transformation of the contemporary human condition.
 
-I recognize that such an open ministry is not for timid souls. It is difficult for people who are balanced, solid citizens in their communities to risk being viewed as “different” or belonging to some strange cult or movement. Let us not forget that pioneers always face difficulty and hardship. Pioneering is a rigorous and lonely path of service. Do not imagine that opposition and oppression are only aberrations of the past. New and enlarged truth will be attacked in every era of historical development. Nevertheless, for those who have courage guided by wisdom, bringing a knowledge of the fifth epochal revelation to the individuals and institutions of our world is one of the most important ministries of modern times. An archangel of Nebadon reminds us, “The weak indulge in resolutions, but the strong act. Life is but a day's work — do it well. The act is ours; the consequences God's.” ([UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
+I recognize that such an open ministry is not for timid souls. It is difficult for people who are balanced, solid citizens in their communities to risk being viewed as “different” or belonging to some strange cult or movement. Let us not forget that pioneers always face difficulty and hardship. Pioneering is a rigorous and lonely path of service. Do not imagine that opposition and oppression are only aberrations of the past. New and enlarged truth will be attacked in every era of historical development. Nevertheless, for those who have courage guided by wisdom, bringing a knowledge of the fifth epochal revelation to the individuals and institutions of our world is one of the most important ministries of modern times. An archangel of Nebadon reminds us, “The weak indulge in resolutions, but the strong act. Life is but a day's work — do it well. The act is ours; the consequences God's.” (<a id="a74_899"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13))
 
 Whatever form of outreach ministry you should choose to engage in, let me share some principles which may help to guide this service. I would invite you to adapt, internalize, and live by the following seven principles of ministry,
 
@@ -100,3 +124,27 @@ I should like to close with three verses of a prayer hymn written by Washington 
 
 — _Meredith J. Sprunger_
 _Ft. Wayne, Indiana_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritual Revolution</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation">
+          <span class="pr-2">Doing The Father's Will and human motivation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

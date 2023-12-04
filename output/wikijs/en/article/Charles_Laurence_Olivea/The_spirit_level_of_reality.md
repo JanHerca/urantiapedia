@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Charles Laurence Olivea<br>© 1986 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1986_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1986 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Lange/The_evolution_of_the_soul">
+          <span class="pr-2">The evolution of the soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 This little essay is written in the hope that I may take advantage of the notion expressed in The URANTIA Book which suggests somewhat gently that universe romancing in the search for truth is often characterized more by insight than fact.
 
@@ -34,3 +58,27 @@ Dear friends, let us love one another, because love comes from God. Whoever love
 
 _Charles Laurence Olivea_
 _Watertown, Connecticut_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1986_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1986 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Lange/The_evolution_of_the_soul">
+          <span class="pr-2">The evolution of the soul</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

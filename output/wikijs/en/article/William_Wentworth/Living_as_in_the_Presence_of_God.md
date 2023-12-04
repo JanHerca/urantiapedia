@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 William Wentworth<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Brent_St_Dents/CHANGES_Practice_Makes_Perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">C.H.A.N.G.E.S.—Practice Makes Perfect</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
+          <span class="pr-2">Everything You Always Wanted to Know about Family Peace (Ha, Ha)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by William Wentworth
 
@@ -63,3 +87,27 @@ And this is appropriate when we consider the fundamental message of the gospel o
 I thought I'd finish up with this story. At a conference at Noosa, Queensland, Australia in 1989, the final speaker pointed out that we had spent three or four very fruitful and enjoyable days together, studying, discussing, socialising and generally pooling knowledge and experience. For three of four days we had been very co-operative and fraternal, and this final speaker pointed out that what we had in fact done was to spend a few days together living as we are meant to live.
 
 And I suppose that says in a nutshell what it is like to “live as in the presence of God.” It is simply to live as we are meant to live.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Brent_St_Dents/CHANGES_Practice_Makes_Perfect">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">C.H.A.N.G.E.S.—Practice Makes Perfect</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Arlene_and_Buck_Weimer/Everything_You_Always_Wanted_to_Know">
+          <span class="pr-2">Everything You Always Wanted to Know about Family Peace (Ha, Ha)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

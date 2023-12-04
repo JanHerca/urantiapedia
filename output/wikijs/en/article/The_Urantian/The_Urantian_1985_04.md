@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Peter Laurence, Probal Dasgupta, Helena E. Sprague, Jeff Wattles<br>© 1985 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Laurence/Editors_Note">
+          <span class="pr-2">Editor's Note</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Editor's Note
 
@@ -32,9 +53,9 @@ _Pune, India_
 
 ## Revelation And Receptivity
 
-Revelation is as old as man. In fact, it defines him. When the adjutants of worship and wisdom became fully active in the minds of Andon and Fonta, the Life Carrier tells us that “_mind of will dignity_” ([UB 62:7.4](/en/The_Urantia_Book/62#p7_4)) had arrived on Urantia. Aborigines had become men. And here we have the clear message that revelation is not necessarily an experience of the conscious mind.
+Revelation is as old as man. In fact, it defines him. When the adjutants of worship and wisdom became fully active in the minds of Andon and Fonta, the Life Carrier tells us that “_mind of will dignity_” (<a id="a55_205"></a>[UB 62:7.4](/en/The_Urantia_Book/62#p7_4)) had arrived on Urantia. Aborigines had become men. And here we have the clear message that revelation is not necessarily an experience of the conscious mind.
 
-In _The URANTIA Book_, we are told a great deal about revelation, its nature and function. There are two forms, epochal and auto. ([UB 101:4.4](/en/The_Urantia_Book/101#p4_4)) So far on Urantia, there have been five epochal revelations: the Planetary Prince, Caligastia; the Material Son and Daughter, Adam and Eve; the Emergency Son, Machiventa Melchizedek; the Creator Son, Jesus of Nazareth; and the URANTIA Papers, Epochal revelation is the function of a celestial agency, personality, or group. The second form is auto revelation; this is the conscious and unconscious communication between supermortal and mortal. Auto revelation comes from the Thought Adjuster and other spirit beings or circuits to the individual mortal mind. 
+In _The URANTIA Book_, we are told a great deal about revelation, its nature and function. There are two forms, epochal and auto. (<a id="a57_131"></a>[UB 101:4.4](/en/The_Urantia_Book/101#p4_4)) So far on Urantia, there have been five epochal revelations: the Planetary Prince, Caligastia; the Material Son and Daughter, Adam and Eve; the Emergency Son, Machiventa Melchizedek; the Creator Son, Jesus of Nazareth; and the URANTIA Papers, Epochal revelation is the function of a celestial agency, personality, or group. The second form is auto revelation; this is the conscious and unconscious communication between supermortal and mortal. Auto revelation comes from the Thought Adjuster and other spirit beings or circuits to the individual mortal mind. 
 
 [Read more](/en/article/Helena_E_Sprague/Revelation_and_receptivity)
 
@@ -54,7 +75,7 @@ _Concord, California_
 
 Our editorial timetable is such that this issue of _The Journal_ has been in the works far too early to include any responses to the first question we submitted to our readers. Hopefully that question will have inspired some thinking which we can share with you in forthcoming issues. Meanwhile we'll try to help keep the mental juices flowing with another question, based on the following quote from Paper 2 of _The URANTIA Book_:
 
-> “_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness._” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness._” (<a id="a77_306"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 **Question**
 
@@ -66,5 +87,27 @@ As we stated in our last issue, while our intent is to stimulate the submittal o
 
 ---
 
-> “_A philosophy of religion evolves out of a basic growth of ideas plus experimental living as both are modified by the tendency to imitate associates. The soundness of philosophic conclusions depends on keen, honest, and discriminating thinking in connection with sensitivity to meanings and accuracy of evaluation. Moral cowards never achieve high planes of philosophic thinking; it requires courage to invade new levels of experience and to attempt the exploration of unknown realms of intellectual living._” ([UB 101:7.2](/en/The_Urantia_Book/101#p7_2))
+> “_A philosophy of religion evolves out of a basic growth of ideas plus experimental living as both are modified by the tendency to imitate associates. The soundness of philosophic conclusions depends on keen, honest, and discriminating thinking in connection with sensitivity to meanings and accuracy of evaluation. Moral cowards never achieve high planes of philosophic thinking; it requires courage to invade new levels of experience and to attempt the exploration of unknown realms of intellectual living._” (<a id="a89_514"></a>[UB 101:7.2](/en/The_Urantia_Book/101#p7_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Laurence/Editors_Note">
+          <span class="pr-2">Editor's Note</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

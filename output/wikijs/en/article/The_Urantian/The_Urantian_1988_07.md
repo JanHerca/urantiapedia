@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1988 Henry Begemann<br>© 1988 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1988-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1988 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_A_study_of_the_future_3">
+          <span class="pr-2">Springtime: A study of the future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _Editors note: This article has appeared in other publications written by readers of The URANTIA Book. It is reprinted here by permission of the author._
 
@@ -16,7 +37,7 @@ _Editors note: This article has appeared in other publications written by reader
 
 Since readers of _The URANTIA Book_ are surely interested in the subject of prophesy, it may be opportune and helpful to study more deeply what our book says about the relatively near future.
 
-The most significant things Jesus said about it are to be found in section 2 of Paper 176, wherein he said: “_The things which you now look down upon are coming to an end, but this will be a new beginning out of which the gospel of the kingdom will go to all the world and this salvation will spread to all peoples. And when the kingdom shall have come to its full fruition, be assured that the Father in heaven will not fail to visit you with an enlarged revelation of truth..._” ([UB 176:2.3](/en/The_Urantia_Book/176#p2_3))
+The most significant things Jesus said about it are to be found in section 2 of Paper 176, wherein he said: “_The things which you now look down upon are coming to an end, but this will be a new beginning out of which the gospel of the kingdom will go to all the world and this salvation will spread to all peoples. And when the kingdom shall have come to its full fruition, be assured that the Father in heaven will not fail to visit you with an enlarged revelation of truth..._” (<a id="a39_482"></a>[UB 176:2.3](/en/The_Urantia_Book/176#p2_3))
 
 [Read more](/en/article/Henry_Begemann/Springtime_A_study_of_the_future_3)
 
@@ -34,5 +55,27 @@ _Bartlesville, Oklahoma_
 
 ---
 
-> “_The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development._” ([UB 170:5.21](/en/The_Urantia_Book/170#p5_21))
+> “_The kingdom of the divine brotherhood is still alive and will eventually and certainly come forth from this long submergence, just as surely as the butterfly eventually emerges as the beautiful unfolding of its less attractive creature of metamorphic development._” (<a id="a57_271"></a>[UB 170:5.21](/en/The_Urantia_Book/170#p5_21))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1988-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1988 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Springtime_A_study_of_the_future_3">
+          <span class="pr-2">Springtime: A study of the future</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

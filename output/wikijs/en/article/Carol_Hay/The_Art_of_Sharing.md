@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Carol Hay<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Error So Great...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Lange/Individual_Ministry_Community_Service">
+          <span class="pr-2">Individual Ministry. Community Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Carol Hay
 
@@ -34,15 +58,15 @@ I think there's a good reason for this. It's human nature to put off doing thing
 
 Everyone has to work on things in order to become good at them. For example, do you think Nobel Prize heart surgeon Michael Debakey was born with heart surgeon genes? Did he graduate from high school and go straight to the operating room for his first surgery without the benefit of med school? Of course not. Did Itzhak Perlman take his first violin out of the case at age five and play an incredible sonata without the benefit of music lessons? Of course not.
 
-You see, everything requires skill. If you want to be really good at something, you have to develop the skills that it takes to do that something well. Even Jesus took the time and spent the effort to acquire the skills that he needed to be effective in sharing his spiritual life with others. From _The Urantia Book_, [UB 129:3.7](/en/The_Urantia_Book/129#p3_7), we are told: “_The Son of Man, during the time and through the experiences of this tour of the Roman world, practically completed his educational contact-training with the diversified peoples of the world of his day and generation. By the time of his return to Nazareth, through the medium of this travel-training he had just about learned how man lived and wrought out his existence on Urantia._”
+You see, everything requires skill. If you want to be really good at something, you have to develop the skills that it takes to do that something well. Even Jesus took the time and spent the effort to acquire the skills that he needed to be effective in sharing his spiritual life with others. From _The Urantia Book_, <a id="a60_319"></a>[UB 129:3.7](/en/The_Urantia_Book/129#p3_7), we are told: “_The Son of Man, during the time and through the experiences of this tour of the Roman world, practically completed his educational contact-training with the diversified peoples of the world of his day and generation. By the time of his return to Nazareth, through the medium of this travel-training he had just about learned how man lived and wrought out his existence on Urantia._”
 
-Then on [UB 130:0.5](/en/The_Urantia_Book/130#p0_5) it says: “_On this Mediterranean tour Jesus spent about half of each day teaching Ganid and acting as interpreter during Gonod's business conferences and social contacts. The remainder of each day, which was at his disposal, he devoted to making those close personal contacts with his fellow men, those intimate associations with the mortals of the realm, which so characterized his activities during these years that just preceded his public ministry._” He didn't go shopping. He didn't take tours of art museums. He got out there and learned about people. Another quote from [UB 132:4.1](/en/The_Urantia_Book/132#p4_1) says: “_He spent much time gaining an intimate knowledge of all races and classes of men who lived in this, the largest and most cosmopolitan city of the world._”
+Then on <a id="a62_8"></a>[UB 130:0.5](/en/The_Urantia_Book/130#p0_5) it says: “_On this Mediterranean tour Jesus spent about half of each day teaching Ganid and acting as interpreter during Gonod's business conferences and social contacts. The remainder of each day, which was at his disposal, he devoted to making those close personal contacts with his fellow men, those intimate associations with the mortals of the realm, which so characterized his activities during these years that just preceded his public ministry._” He didn't go shopping. He didn't take tours of art museums. He got out there and learned about people. Another quote from <a id="a62_629"></a>[UB 132:4.1](/en/The_Urantia_Book/132#p4_1) says: “_He spent much time gaining an intimate knowledge of all races and classes of men who lived in this, the largest and most cosmopolitan city of the world._”
 
 Even Jesus spent many years acquiring skills for sharing his spiritual life. So let's identify those skills which will be useful in sharing our spiritual lives with others.
 
 When I am working on improving my ability to share my spiritual life with others, I try to remember three words. Listen, Love and Leap. These three words make up the foundation of the skills that you can use in spiritual sharing to make the experience a good one for both you and the person with whom you're sharing, and, of course, let's not forget the Supreme. Let's talk about these three “L's” now.
 
-The first L is Listen. A lot of people might be surprised that listening is a skill, because all of us listen; we're all listening now. Most of us have two ears that work reasonably well, but the reality is that few people listen effectively. And being a good listener is necessary if you want to share God's love. Because you have to find out what people need before you can love them. You know how Jesus always hit the nail on the head when he shared God's love with people? That wasn't just his divine nature coming through; he knew what people needed because he paid attention to what they were saying to him. On [UB 171:7.1](/en/The_Urantia_Book/171#p7_1) in the book is the section entitled “As Jesus Passed By,” that says, among other things, that Jesus was a charming listener.
+The first L is Listen. A lot of people might be surprised that listening is a skill, because all of us listen; we're all listening now. Most of us have two ears that work reasonably well, but the reality is that few people listen effectively. And being a good listener is necessary if you want to share God's love. Because you have to find out what people need before you can love them. You know how Jesus always hit the nail on the head when he shared God's love with people? That wasn't just his divine nature coming through; he knew what people needed because he paid attention to what they were saying to him. On <a id="a68_617"></a>[UB 171:7.1](/en/The_Urantia_Book/171#p7_1) in the book is the section entitled “As Jesus Passed By,” that says, among other things, that Jesus was a charming listener.
 
 I want to identify two skills that will help you be a more effective listener. And the best technique of listening that I know of to help us become more effective listeners is a technique called “Active Listening.” The two skills from this technique are feeding back and responding to feelings and meanings rather than just the words.
 
@@ -79,3 +103,27 @@ Forever will these little opportunities to love
 That daily drop into our hands
 Abundantly satisfy the question
 “Lord, what will you have me do?”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Nancy_Johnson/In_Search_of_the_Error_So_Great">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">In Search of the Error So Great...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_Lange/Individual_Ministry_Community_Service">
+          <span class="pr-2">Individual Ministry. Community Service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

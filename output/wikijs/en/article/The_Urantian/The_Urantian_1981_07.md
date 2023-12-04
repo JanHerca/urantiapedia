@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="pr-2">Some Thoughts About The Father's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _This Special Conference Issue of The URANTIAN Journal of URANTIA Brotherhood is made possible by the sincere, honest, and thoughtful efforts of many of the participants in this past summer's General Conference in Colorado. Unfortunately, time and budget restraints precluded the inclusion of all of the highly worthy talks and presentations given at Snowmass. However, we hope that those articles which follow will fully represent the spirit of the conference theme of “The Individual's Relationship With The Universal Father.”_
 
@@ -31,17 +52,17 @@ _The Editors_
 
 Future issues of The URANTIAN Journal will contain more of the presentations given at the Snowmass General Conference.
 
-> “_Bit you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit._” ([UB 155:6.17](/en/The_Urantia_Book/155#p6_17))
+> “_Bit you who have been called out of darkness into the light are expected to believe with a whole heart; your faith shall dominate the combined attitudes of body, mind, and spirit._” (<a id="a54_187"></a>[UB 155:6.17](/en/The_Urantia_Book/155#p6_17))
 > 
 > — _Jesus_
 
-> “_This is my beloved Son; give heed to him._” ([UB 158:3.4](/en/The_Urantia_Book/158#p3_4))
+> “_This is my beloved Son; give heed to him._” (<a id="a58_49"></a>[UB 158:3.4](/en/The_Urantia_Book/158#p3_4))
 > 
 > — _The Universal Father_
 
 ## Some Thoughts About The Father's Will
 
-We are taught that “_One is free to choose and act only within the realm of one's consciousness._” ([UB 34:3.8](/en/The_Urantia_Book/34#p3_8)) The sincere study of _The URANTIA Book_ has produced, for many of us, a genuine expansion of consciousness, introducing new possibilities for choice and action, particularly with respect to God. The concepts we have about the Universal Father must necessarily condition our experience of relationship with him. When God is small and far removed it is difficult to rely upon him to any great extent. But the Universal Father of _The URANTIA Book_ is found to be infinitely loving, infinitely powerful, and the closest and dearest friend any of us shall ever know. We are given a philosophic foundation upon which we may exercise a level of childlike trust in God which far exceeds what was previously possible for us, But philosophy is not faith. This expanded life with the Father is not automatic; we must each choose to have it. Each of us is a freewill being, at least with respect to that which is spiritual. We are not compelled to either seek or do the Father's will; it must be a matter of voluntary, genuine, and wholehearted personal choice. We are obliged to confront and answer the question: Do we really want to do the Father's will?
+We are taught that “_One is free to choose and act only within the realm of one's consciousness._” (<a id="a64_100"></a>[UB 34:3.8](/en/The_Urantia_Book/34#p3_8)) The sincere study of _The URANTIA Book_ has produced, for many of us, a genuine expansion of consciousness, introducing new possibilities for choice and action, particularly with respect to God. The concepts we have about the Universal Father must necessarily condition our experience of relationship with him. When God is small and far removed it is difficult to rely upon him to any great extent. But the Universal Father of _The URANTIA Book_ is found to be infinitely loving, infinitely powerful, and the closest and dearest friend any of us shall ever know. We are given a philosophic foundation upon which we may exercise a level of childlike trust in God which far exceeds what was previously possible for us, But philosophy is not faith. This expanded life with the Father is not automatic; we must each choose to have it. Each of us is a freewill being, at least with respect to that which is spiritual. We are not compelled to either seek or do the Father's will; it must be a matter of voluntary, genuine, and wholehearted personal choice. We are obliged to confront and answer the question: Do we really want to do the Father's will?
 
 [Read more](/en/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will)
 
@@ -95,7 +116,7 @@ _Armonk, New York_
 
 Good morning. Let's start with a moment of quiet to thank the Father for all that he has given us, and to get in touch with his presence within us.
 
-This quote is from [UB 110:3.4](/en/The_Urantia_Book/110#p3_4): “_I cannot but observe that so many of you spend so much time and thought on mere trifles of living, while you almost wholly overlook the more essential realities of everlasting import, those very accomplishments which are concerned with the development of a more harmonious working agreement between you and your Adjusters. The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within your mind._”
+This quote is from <a id="a118_19"></a>[UB 110:3.4](/en/The_Urantia_Book/110#p3_4): “_I cannot but observe that so many of you spend so much time and thought on mere trifles of living, while you almost wholly overlook the more essential realities of everlasting import, those very accomplishments which are concerned with the development of a more harmonious working agreement between you and your Adjusters. The great goal of human existence is to attune to the divinity of the indwelling Adjuster; the great achievement of mortal life is the attainment of a true and understanding consecration to the eternal aims of the divine spirit who waits and works within your mind._”
 
 That's the topic for this morning: developing a “working agreement,” “attuning” to the Adjuster. The format I'd like to use is to present a series of quotes on a theme, then present my own thoughts and reactions to these quotes, and then pose some questions and ask for your thoughts and experiences.
 
@@ -142,9 +163,9 @@ _Ft. Wayne, Indiana_
 
 ## Doing The Father's Will And Human Motivation
 
-There may be a great difference between acting from good human motives and doing the Father's will. Morality, and its correlated motivation, is in the first place an evolutionary phenomenon. Then it is “super-animal, but sub-spiritual.” Morality derived from this level is not spiritual activity, but an activity derived from a sense of duty. Morality as Jesus taught is more than evolutionary, it is revelationary, because its origin is in the Father-child relationship. This experienced relationship has as a consequence an enhanced morality that transcends duty. “_The one characteristic of Jesus' teaching was that the morality of his philosophy originated in the personal relation of the individual to God — this very child-father relationship._” ([UB 140:10.5](/en/The_Urantia_Book/140#p10_5))
+There may be a great difference between acting from good human motives and doing the Father's will. Morality, and its correlated motivation, is in the first place an evolutionary phenomenon. Then it is “super-animal, but sub-spiritual.” Morality derived from this level is not spiritual activity, but an activity derived from a sense of duty. Morality as Jesus taught is more than evolutionary, it is revelationary, because its origin is in the Father-child relationship. This experienced relationship has as a consequence an enhanced morality that transcends duty. “_The one characteristic of Jesus' teaching was that the morality of his philosophy originated in the personal relation of the individual to God — this very child-father relationship._” (<a id="a165_753"></a>[UB 140:10.5](/en/The_Urantia_Book/140#p10_5))
 
-We may intellectually accept this, believe it, but this is not sufficient, not the real thing. _The URANTIA Book_ continually and consistently places the accent on the point that such a relationship should be an actuality for us. The first phase of the kingdom is described as: “_The personal and inward experience of the spiritual life of the fellowship of the individual believer with God the Father._” ([UB 170:4.2](/en/The_Urantia_Book/170#p4_2)) Then the second phase of the kingdom results as “_The enlarging brotherhood of gospel believers, the social aspects of the enhanced morals and quickened ethics resulting from the reign of God's spirit in the hearts of individual believers._” ([UB 170:4.3](/en/The_Urantia_Book/170#p4_3))
+We may intellectually accept this, believe it, but this is not sufficient, not the real thing. _The URANTIA Book_ continually and consistently places the accent on the point that such a relationship should be an actuality for us. The first phase of the kingdom is described as: “_The personal and inward experience of the spiritual life of the fellowship of the individual believer with God the Father._” (<a id="a167_406"></a>[UB 170:4.2](/en/The_Urantia_Book/170#p4_2)) Then the second phase of the kingdom results as “_The enlarging brotherhood of gospel believers, the social aspects of the enhanced morals and quickened ethics resulting from the reign of God's spirit in the hearts of individual believers._” (<a id="a167_694"></a>[UB 170:4.3](/en/The_Urantia_Book/170#p4_3))
 
 [Read more](/en/article/Henry_Begemann/Doing_The_Fathers_Will_and_human_motivation)
 
@@ -162,6 +183,28 @@ When I began reading the book in 1970 , I was in the midst of a deep quest for t
 — _Jim McNelly_
 _Denver, Colorado_
 
-> “_Be not deceived by those who come saying here is the kingdom or there is the kingdom, for my Father's kingdom concerns not things visible and material. And this kingdom is even now among you, for where the spirit of God teaches and leads the soul of man, there in reality is the kingdom of heaven. And this kingdom of God is righteousness, peace, and joy in the Holy Spirit._” ([UB 137:8.9](/en/The_Urantia_Book/137#p8_9))
+> “_Be not deceived by those who come saying here is the kingdom or there is the kingdom, for my Father's kingdom concerns not things visible and material. And this kingdom is even now among you, for where the spirit of God teaches and leads the soul of man, there in reality is the kingdom of heaven. And this kingdom of God is righteousness, peace, and joy in the Holy Spirit._” (<a id="a185_382"></a>[UB 137:8.9](/en/The_Urantia_Book/137#p8_9))
 > 
 > Jesus' sermon on “The Kingdom” — Capernaum
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="pr-2">Some Thoughts About The Father's Will</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 David Elders, Steve Dreier, Dan Massey, Mary Daly, Nancy Johnson, Carol Hay, John Lange, Jeffrey Wattles, Melissa Wells, Gard Jameson & Florence Jameson, Satu Sihvo, Bob Slagle, Chuck Burton<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1990-issue-special-conference-issue-i">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1990 Issue — Special Conference Issue I — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <p style="text-align:center;">
 <b>FIFTH EPOCHAL FELLOWSHIP for readers of _The Urantia Book_</b><br>
@@ -130,7 +148,7 @@ I'd like to begin with a delightful story from a nun named Sister Briege McKenna
 
 by Nancy Johnson
 
-> _...Forms are valueless when lessons are learned. No chick may be had without the shell, and no shell is of any worth after the chick is hatched. <ins>But sometimes error is so great that its rectification by revelation would be fatal to those slowly emerging truths which are essential to its experiential overthrow.</ins>..._ ([UB 48:6.32](/en/The_Urantia_Book/48#p6_32))
+> _...Forms are valueless when lessons are learned. No chick may be had without the shell, and no shell is of any worth after the chick is hatched. <ins>But sometimes error is so great that its rectification by revelation would be fatal to those slowly emerging truths which are essential to its experiential overthrow.</ins>..._ (<a id="a150_331"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_32))
 
 No doubt we have all paid attention service to this provocative statement by an archangel from Nebadon, and surely this archangel intended to pique our curiosity and stimulate us to examine our conceptual environment — our belief system — to recognize an error that's so out of sync with true reality that they couldn't tell us what it was. What truth could have had such a traumatic impact on us at that time? Did they give us any clues?
 
@@ -154,9 +172,9 @@ by John Lange
 
 **Introduction**
 
-As devotees of the Urantia revelation we have chosen to explore new spiritual realities. As we each pursue our own spiritual growth through religious experience, _The Urantia Book_ on [UB 100:1.8](/en/The_Urantia_Book/100#p1_8) lists habits to discipline this process. The discipline I shall focus upon is “_the recognition of religious living in others._” What is religious living and how do we recognize it? On page 66 we are given a simple and inspiring answer: “_...it [religion] is a living and dynamic experience of divinity attainment predicated on humanity service._” Therefore the recognition of religious living is an appreciation of this service dynamic as manifested in others.
+As devotees of the Urantia revelation we have chosen to explore new spiritual realities. As we each pursue our own spiritual growth through religious experience, _The Urantia Book_ on <a id="a174_184"></a>[UB 100:1.8](/en/The_Urantia_Book/100#p1_8) lists habits to discipline this process. The discipline I shall focus upon is “_the recognition of religious living in others._” What is religious living and how do we recognize it? On page 66 we are given a simple and inspiring answer: “_...it [religion] is a living and dynamic experience of divinity attainment predicated on humanity service._” Therefore the recognition of religious living is an appreciation of this service dynamic as manifested in others.
 
-Through service we gain status as universe citizens, and this is emphasized in every section of _The Urantia Book_. In our universe career we are told on [UB 28:6.17](/en/The_Urantia_Book/28#p6_17), “_Service...is the goal of time and the destiny of space._” In the Thought Adjuster papers at the bottom of [UB 110:3.8](/en/The_Urantia_Book/110#p3_8) we are instructed that we can consciously augment Adjuster harmony by “_loving God and desiring to be like him_” and by “_loving man and sincerely desiring to serve him._”
+Through service we gain status as universe citizens, and this is emphasized in every section of _The Urantia Book_. In our universe career we are told on <a id="a176_154"></a>[UB 28:6.17](/en/The_Urantia_Book/28#p6_17), “_Service...is the goal of time and the destiny of space._” In the Thought Adjuster papers at the bottom of <a id="a176_307"></a>[UB 110:3.8](/en/The_Urantia_Book/110#p3_8) we are instructed that we can consciously augment Adjuster harmony by “_loving God and desiring to be like him_” and by “_loving man and sincerely desiring to serve him._”
 
 [Read more](/en/article/John_Lange/Individual_Ministry_Community_Service)
 
@@ -174,7 +192,7 @@ Even though I am an accredited California teacher with about 25 years of teachin
 
 by Jeffrey Wattles
 
-Let us listen again to the Divine Counselor of Uversa, whose account of “True Worship” may be found in _The Urantia Book_ in section 3 of Paper 5, “Cod's Relation to the Individual.” Our commentary cannot properly be a monologue, but I have not marked, in the present text, the pauses for discussion that punctuated it. This discussion follows one on the prayer process ([Paper 91 \#9](/en/The_Urantia_Book/91#p9_1)) and anticipates one on service. The commentary here is a step toward holographic study — finding the whole of the book in the part.
+Let us listen again to the Divine Counselor of Uversa, whose account of “True Worship” may be found in _The Urantia Book_ in section 3 of Paper 5, “Cod's Relation to the Individual.” Our commentary cannot properly be a monologue, but I have not marked, in the present text, the pauses for discussion that punctuated it. This discussion follows one on the prayer process (<a id="a194_371"></a>[Paper 91 \#9](/en/The_Urantia_Book/91#p9_1)) and anticipates one on service. The commentary here is a step toward holographic study — finding the whole of the book in the part.
 
 Worship is both simple and complex. The simplicity of worship is reflected in the fun of the word for worship among the Quicatec Indians of Mexico; it means, etymologically, “to wag one's tail before God.” One of the wisest teachings I ever heard on worship was Vern Grimsley's remark, “The secret of worship is to do it.” One great message of _The Urantia Book_ is that WE CAN worship. We are in the Father's personality circuit. Our minds enjoy the adjutant mind-spirit of worship. We are built to worship. However complex or mysterious worship may seem when discussed, and however elusive it may be at times in our practice, we can and do worship the Universal Father. The section on True Worship articulates the concept of worship. When we read this highly articulated account, we may be led to remark, “Easier said than done.” But if we keep in tune with the worship experience itself, then we may say, “Easier done than said.” Let us take a moment to do just that before proceeding....
 
@@ -208,7 +226,7 @@ In telling his followers the essence of his message to the planet, Jesus stated 
 4. The supreme satisfactions of the loving service of man.
 5. The transcendency of the spiritual over the material in human personality.
 
-The midwayer author goes on to say that “_this world has never seriously or sincerely or honestly tried out these dynamic ideas and divine ideals...._” ([UB 170:4.14](/en/The_Urantia_Book/170#p4_14)) Why not? Why do we resist fellowship with God? To a group of Greek believers in Jerusalem, Jesus said, “_My Father sent me to the world to reveal his loving-kindness to the children of men, but those to whom I first came have refused to receive me...I have told them of sonship with joy, liberty, and life more abundant in the spirit...the leaders of my people deliberately blinded their eyes that they see not, and hardened their hearts...All these years have I sought to heal them of their unbelief that they might be recipients of the Father's eternal salvation._” ([UB 174:5.3](/en/The_Urantia_Book/174#p5_3))
+The midwayer author goes on to say that “_this world has never seriously or sincerely or honestly tried out these dynamic ideas and divine ideals...._” (<a id="a228_153"></a>[UB 170:4.14](/en/The_Urantia_Book/170#p4_14)) Why not? Why do we resist fellowship with God? To a group of Greek believers in Jerusalem, Jesus said, “_My Father sent me to the world to reveal his loving-kindness to the children of men, but those to whom I first came have refused to receive me...I have told them of sonship with joy, liberty, and life more abundant in the spirit...the leaders of my people deliberately blinded their eyes that they see not, and hardened their hearts...All these years have I sought to heal them of their unbelief that they might be recipients of the Father's eternal salvation._” (<a id="a228_769"></a>[UB 174:5.3](/en/The_Urantia_Book/174#p5_3))
 
 [Read more](/en/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever)
 
@@ -232,7 +250,7 @@ One example is the group started in Finland in August, 1989. The guidelines and 
 
 by Bob Slagle, Ph.D.
 
-> “_...[T]He family is the master civilizer._” ([UB 82:0.2](/en/The_Urantia_Book/82#p0_2))
+> “_...[T]He family is the master civilizer._” (<a id="a252_48"></a>[UB 82:0.2](/en/The_Urantia_Book/82#p0_2))
 
 It was a joy to have about seventy people attend our workshop on Family Meetings. A fair number of parents represented families which had attempted family meetings in years past but had faltered for one reason or another, temporarily given them up, then returned to family-council practices with subsequent success. To me this is often the story of family meeting experiments and one strong reason for my claim that family meetings are never a failure, although some families may give them up for a shorter or longer duration. From my experience as a family counselor, even holding just one family meeting is worthwhile and much better than having none at all.
 
@@ -250,3 +268,22 @@ But, all in all, the Phantom possessed many noble human qualities. In fact, the 
 
 [Read more](/en/article/Chuck_Burton/Tadpoles_Butterflies_and_Lightosity)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1990-issue-special-conference-issue-i">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1990 Issue — Special Conference Issue I — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

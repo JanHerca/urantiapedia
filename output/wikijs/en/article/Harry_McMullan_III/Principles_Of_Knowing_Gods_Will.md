@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Harry McMullan III<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Thoughts About The Father's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="pr-2">The Individual's Relation to the Thought Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Ships and airplanes that move across continents and oceans have highly sophisticated guidance systems to assist them in arriving at their destinations. These systems allow the pilot to make course corrections totally without reference to land objects. Most of them work off of gyroscopes; there are inertial guidance systems, doppler guidance systems, and stellar guidance systems. Whatever their design the purpose of these systems is to keep the ship on course.
 
@@ -16,7 +40,7 @@ The first principle of divine guidance is to make sure that we are inwardly cert
 
 God wants to lead his children. Being led is not an extraordinary event, reserved for mystics and ascetics; rather, it is the normal order of things. It is abnormal not to be led by God. The subject is so confused that most people look upon guidance, if one is ever to receive it, as an intermittent, periodic, or even spasmodic affair. Well, if a human parent wants his child to do something, he tells him so; and, if that's a fair principle in human relations, it is also fair in divine relations.
 
-There is a perfect will which God has for each of us. _The URANTIA Book_ teaches that the Adjusters come to indwell us, bringing with them, “_...the model careers, the ideal lives, as determined and foreordained by themselves and the Personalized Adjusters of Divinington... Thus they begin work with a definite and predetermined plan for the intellectual and spiritual development of their human subjects..._” ([UB 110:2.1](/en/The_Urantia_Book/110#p2_1))
+There is a perfect will which God has for each of us. _The URANTIA Book_ teaches that the Adjusters come to indwell us, bringing with them, “_...the model careers, the ideal lives, as determined and foreordained by themselves and the Personalized Adjusters of Divinington... Thus they begin work with a definite and predetermined plan for the intellectual and spiritual development of their human subjects..._” (<a id="a42_412"></a>[UB 110:2.1](/en/The_Urantia_Book/110#p2_1))
 
 Things run well when they are run in accordance with the designer's original intent. If I had a Corvette, and hitched an eight row plow behind it, and took it out to the fields to cultivate, I shouldn't expect it to perform as well as it does where it was intended to be operated. namely, on the highway. If I tried to use water instead of gasoline to fuel it, it wouldn't get far. Likewise, we are happiest and most successful when we operate according to our Designer's original plan. Therefore, we search for God's perfect will for us, knowing that his will is our place of ultimate success and pleasure. Similarly, if we live contrary to God's design, we heap onto ourselves unhappiness, guilt, and frustration.
 
@@ -30,7 +54,7 @@ God's will is always best for us, but it often isn't the easiest or most comfort
 
 We shouldn't think that God is holding something back from us. That was what Lucifer told his associates, namely, that God was depriving them of total liberty and self-rule NOW. If anything is being withheld from us by God, it is for our own good.
 
-God causes all things to work together for good, and not just for those who love him and who are called according to his purposes, as the Bible says. He causes circumstances to work together for good for all of his children, regardless of whether they love or serve him. This doesn't mean that the circumstances are necessarily good in themselves, but that he can make them into good. We allow him to make circumstances good by submitting to his will, which is our best possible alternative in any given situation. We must recognize that God is active and alive in our lives and seeking to help us to the maximum extent. Situations arise which require choice: we come to a fork in the road, which way do we got Now there isn't any teaching of _The URANTIA Book_ that tells us it would be better to work for IBM rather than Xerox or that we should move to Des Moines rather than Dubuque. Let's say that God has something for me to do in Des Moines, but I go to Dubuque instead. If I have sincerely sought the Father's will in the matter, and honestly chosen what I believe his will to be, he will make my errors right. He will create in Dubuque the opportunity which will work to my highest good, and capitalize to the maximum extent on my being there even though according to his perfect will, I should have been in Des Moines, and mistook what I believed his will to be. If our decision was made in sincere faith, we grow regardless of whether the decision itself is right or wrong. We can learn as much from our mistakes as we can from our successes, if we approach them in faith. In fact, deep wisdom seems to be more effectively learned in failure, rather than success. _The URANTIA Book_ teaches that “_Defeat is the true mirror in which you may honestly view your real self._” ([UB 156:5.17](/en/The_Urantia_Book/156#p5_17))
+God causes all things to work together for good, and not just for those who love him and who are called according to his purposes, as the Bible says. He causes circumstances to work together for good for all of his children, regardless of whether they love or serve him. This doesn't mean that the circumstances are necessarily good in themselves, but that he can make them into good. We allow him to make circumstances good by submitting to his will, which is our best possible alternative in any given situation. We must recognize that God is active and alive in our lives and seeking to help us to the maximum extent. Situations arise which require choice: we come to a fork in the road, which way do we got Now there isn't any teaching of _The URANTIA Book_ that tells us it would be better to work for IBM rather than Xerox or that we should move to Des Moines rather than Dubuque. Let's say that God has something for me to do in Des Moines, but I go to Dubuque instead. If I have sincerely sought the Father's will in the matter, and honestly chosen what I believe his will to be, he will make my errors right. He will create in Dubuque the opportunity which will work to my highest good, and capitalize to the maximum extent on my being there even though according to his perfect will, I should have been in Des Moines, and mistook what I believed his will to be. If our decision was made in sincere faith, we grow regardless of whether the decision itself is right or wrong. We can learn as much from our mistakes as we can from our successes, if we approach them in faith. In fact, deep wisdom seems to be more effectively learned in failure, rather than success. _The URANTIA Book_ teaches that “_Defeat is the true mirror in which you may honestly view your real self._” (<a id="a56_1784"></a>[UB 156:5.17](/en/The_Urantia_Book/156#p5_17))
 
 When we truly know in our innermost being that God is good, we offer him our lives; we become willing to go anywhere, do anything, be anything in his service. Knowing that God shapes every circumstance for good gives us enormous confidence, for whatever happens, we know that God will make it good for us. In his will, we can't lose. We cease trying to fight life or to engineer some particular personal result by our activities, rather saying, “Father, what pleases you?”
 
@@ -48,7 +72,7 @@ Neither should we worry that God is unable to get through to us. The one who cre
 
 For that reason, in searching for a knowledge of God's will, we should all have a systematic program of URANTIA Book study, If we were studying a technical course such as mathematics, we would obviously not want to concentrate on multiplication to the exclusion of subtraction, Likewise, if we believe that _The URANTIA Book_ is the word of God to us, we should spend a lot of time learning what it says about things. We must make sure that as the years pass, we make definite progress in our spiritual understanding. _The URANTIA Book_ will never disappoint us. What it tells us to do won't necessarily be the easy way, but it will always be the right way, which ensures, in turn, that it will be the most pleasant and profitable way for us in the long run. It will always be the way of wisdom and success when seen from the downstream side of the situation. And what is wisdom but being able to see the long-term perspective of events, thus being empowered with fore-knowledge as to how to act so as to bring about the desired result?
 
-Jesus gave us a Law of Use, namely, that to those who have, more shall be given, but from those who have not, even that which they have shall be taken away ([UB 171:8.8](/en/The_Urantia_Book/171#p8_8)). What we don't exercise, we lose, By the end of my high school years, I was fluent in French and German, but guess what has happened to them after 15 years of disuse? We gain our spiritual growth by practice, just as we gain our mastery of a foreign language, and that practice is the practice of the presence of God; sharing our inner life with God and making him a part of all that we do.
+Jesus gave us a Law of Use, namely, that to those who have, more shall be given, but from those who have not, even that which they have shall be taken away (<a id="a74_157"></a>[UB 171:8.8](/en/The_Urantia_Book/171#p8_8)). What we don't exercise, we lose, By the end of my high school years, I was fluent in French and German, but guess what has happened to them after 15 years of disuse? We gain our spiritual growth by practice, just as we gain our mastery of a foreign language, and that practice is the practice of the presence of God; sharing our inner life with God and making him a part of all that we do.
 
 All of us have been given the ability to know the will of God because God himself lives within us. The kingdom of heaven is within. There is no possible deprivation of environment which will impede the success of a soul dedicated to the doing of the Father's will. It is the desire of our heavenly Parent to guide us, and the possibility of receiving that guidance is our birthright.
 
@@ -58,7 +82,7 @@ Our decision-making should not be skewed on the basis of what our minds think of
 
 There is a general guidance available to all of us, which is, and ever will be, true; such as is found in the spiritual teachings of The URANTIA Book. It will never be right to steal, and if our supposed divine inspiration tells us to do so, we deceive ourselves. In addition to that general guidance, there is a specific guidance which God has for each of us, uniquely intended for the person concerned. Honesty, mercy, and love, for example, are not normally guides to whether we should move to Des Moines or Dubuque. Specific guidance gives us course changes on a very intimate basis. The steps to receiving this guidance are: first, that we believe that God is actively involved in our lives; second, that he has a will for us; third, that his will is the best thing that could happen to us; fourth, that he is capable, in the manner of his choosing, of making his wishes known to us; and fifth, that he has endowed us with the ability to do his will. Ordinarily, the measure of the refinement of our guidance will be the measure of the refinement of our walk with God. If we are coarse towards him, our leading will be coarse; but, if we are refined in our attempts to follow his ways, if we are tender toward God and compassionate toward our brothers and sisters, our leading will likewise be refined,
 
-One of our best inner guides to knowing God's will as it relates to a particular situation is whether his peace is resting with us, that peace which Jesus described as the peace that passes all understanding. This is peace that doesn't depend on whether the sun is shining, or whether we got the raise, or whether the landlord raised the rent, or on whether we seem to be successful or not. His peace is inner; we are being led, motivated, and guided from within. One of the main characteristics of this peace, once we have experienced it, is that we are highly uncomfortable when we lose it, It functions like physical pain. Individuals born without the ability to feel pain stay in jeopardy of fatal injuries, because they don't know when their bodies are being hurt. God's peace is our gyroscope, telling us when we get off course. When we walk in the light as he is in the light, we experience his peace, but if we sin, the peace at least temporarily leaves us. When we return to the Father, when we renew a right relationship with the universe, his peace returns. To continually experience this inner peace, we must maintain a conscience void of offense. Is there anything worth disrupting our relationship with God? _The URANTIA Book_ teaches that Jesus made such extraordinary progress in the conquest of his mind in one short life because of his singleness of purpose and unselfish devotion. He was wholly consecrated, unreservedly dedicated to the doing of his Father's will. “_In his devotion to the cause of the kingdom, Jesus burned all bridges behind him; he sacrificed all hindrances to the doing of his Father's will._” ([UB 196:2.7](/en/The_Urantia_Book/196#p2_7))
+One of our best inner guides to knowing God's will as it relates to a particular situation is whether his peace is resting with us, that peace which Jesus described as the peace that passes all understanding. This is peace that doesn't depend on whether the sun is shining, or whether we got the raise, or whether the landlord raised the rent, or on whether we seem to be successful or not. His peace is inner; we are being led, motivated, and guided from within. One of the main characteristics of this peace, once we have experienced it, is that we are highly uncomfortable when we lose it, It functions like physical pain. Individuals born without the ability to feel pain stay in jeopardy of fatal injuries, because they don't know when their bodies are being hurt. God's peace is our gyroscope, telling us when we get off course. When we walk in the light as he is in the light, we experience his peace, but if we sin, the peace at least temporarily leaves us. When we return to the Father, when we renew a right relationship with the universe, his peace returns. To continually experience this inner peace, we must maintain a conscience void of offense. Is there anything worth disrupting our relationship with God? _The URANTIA Book_ teaches that Jesus made such extraordinary progress in the conquest of his mind in one short life because of his singleness of purpose and unselfish devotion. He was wholly consecrated, unreservedly dedicated to the doing of his Father's will. “_In his devotion to the cause of the kingdom, Jesus burned all bridges behind him; he sacrificed all hindrances to the doing of his Father's will._” (<a id="a84_1636"></a>[UB 196:2.7](/en/The_Urantia_Book/196#p2_7))
 
 Jesus taught that all we have to do is live loyally today, and tomorrow will take care of itself. The things he leads us to do today will turn out to have been right somewhere down the pike, even if it takes years or generations. We don't have to have the reason for a particular course of action spelled out; all we have to do is make sure that we live loyally and abide in his peace.
 
@@ -84,7 +108,31 @@ The most all-embracing principle of receiving God's guidance is to know the Guid
 
 When we know the way God acts and who he is, he guides us subtly and unconsciously, because we are responding to his nature. On the other hand, if we don't know God, we stand an excellent chance of misunderstanding whatever guidance he might give us, because we won't be capable of interpreting what we hear. As we practice the presence of God, his nature becomes grafted onto ours. We become more like him, and following his will becomes more of an outflowing of what we have become. The deepest part of each one of us must become wrapped up in God himself: there must be implicit trust of the Father, without even a shadow of suspicion that he isn't there, or that he doesn't care, or that he's not able to help.
 
-Finally, we must remember that guidance, and the ability to follow it, is a gift of God, which we cannot psych ourselves into on our own. We receive these gifts, we don't generate them on our own. The ability to hear and follow God is an endowment. As _The URANTIA Book_ teaches, “_By the old way you seek to suppress, obey, and conform to the rules of living; by the new way you are first transformed by the Spirit of Truth and thereby strengthened in your inner soul by the constant spiritual renewing of your mind, and so are you endowed with the power of the certain and joyous performance of the gracious, acceptable, and perfect will of God._” ([UB 143:2.4](/en/The_Urantia_Book/143#p2_4))
+Finally, we must remember that guidance, and the ability to follow it, is a gift of God, which we cannot psych ourselves into on our own. We receive these gifts, we don't generate them on our own. The ability to hear and follow God is an endowment. As _The URANTIA Book_ teaches, “_By the old way you seek to suppress, obey, and conform to the rules of living; by the new way you are first transformed by the Spirit of Truth and thereby strengthened in your inner soul by the constant spiritual renewing of your mind, and so are you endowed with the power of the certain and joyous performance of the gracious, acceptable, and perfect will of God._” (<a id="a110_651"></a>[UB 143:2.4](/en/The_Urantia_Book/143#p2_4))
 
 — _Harry McMullan III_ 
 _Oklahoma City. Oklahoma_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Steve_Dreier/Some_Thoughts_About_The_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Some Thoughts About The Father's Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Robert_Schuer/The_Individuals_Relation_to_the_Thought_Adjuster">
+          <span class="pr-2">The Individual's Relation to the Thought Adjuster</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,10 +9,31 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Jeff Wattles, Kathleen A. Friedel<br>© 1985 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="pr-2">What is the new philosophy of living project?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## What Is The New Philosophy Of Living Project?
 
-“_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness._” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10)) What implications does this passage carry? What questions does it raise?
+“_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness._” (<a id="a35_304"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)) What implications does this passage carry? What questions does it raise?
 
 The religious challenge. What a surprise to propose this one as primary! What would you have said if you had been asked what the main religious challenge of this age is? Most religionists would come up with very different answers, Let us not hurridly nod our agreement with the text and quickly pass on to the next edifying line. In order to discover whether we agree with the author, we must investigate.
 
@@ -44,7 +65,7 @@ Many thanks to everyone who wrote in response to the questions we've posed in th
 
 This by no means concludes our intention to publish work that focuses on the questions we've raised. If you've been taking your time to carefully consider your response, please go ahead and put it in writing and send it to _The Journal_. Just to give you something else to think about, here's one more question, this time from the following quote in Paper 4.
 
-> “_The infinite goodness of the Father is beyond the comprehension of the finite mind of time; hence must there always be afforded a contrast with comparative evil (not sin ) for the effective exhibition of all phases of relative goodness. Perfection of divine goodness can be discerned by mortal imperfection of insight only because it stands in contrastive association with relative imperfection in the relationships of time and matter in the motions of space._” ([UB 4:3.6](/en/The_Urantia_Book/4#p3_6))
+> “_The infinite goodness of the Father is beyond the comprehension of the finite mind of time; hence must there always be afforded a contrast with comparative evil (not sin ) for the effective exhibition of all phases of relative goodness. Perfection of divine goodness can be discerned by mortal imperfection of insight only because it stands in contrastive association with relative imperfection in the relationships of time and matter in the motions of space._” (<a id="a67_467"></a>[UB 4:3.6](/en/The_Urantia_Book/4#p3_6))
 
 _Question_
 
@@ -52,5 +73,27 @@ The nature of evil and the concern about its reality is a major theological ques
 
 ---
 
-> “_The characteristic difference between evolved and revealed religion is a new quality of divine wisdom which is added to purely experiential human wisdom._” ([UB 100:6.9](/en/The_Urantia_Book/100#p6_9))
+> “_The characteristic difference between evolved and revealed religion is a new quality of divine wisdom which is added to purely experiential human wisdom._” (<a id="a75_161"></a>[UB 100:6.9](/en/The_Urantia_Book/100#p6_9))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jeff_Wattles/What_is_the_new_philosophy_of_living_project">
+          <span class="pr-2">What is the new philosophy of living project?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

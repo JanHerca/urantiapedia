@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Henry Begemann, David Renn<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1981-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1981 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Self_realization">
+          <span class="pr-2">Self-realization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Self-Realization
 
@@ -45,5 +66,27 @@ In future issues we would like to examine two subjects of interest, and would li
 - Does the current level of cultural expression (from art and music to family life) on the planet suggest that we are making progress toward the eventual achievement of light and life?
 - Given the level of evolutionary achievement (politics, economics, social, etc.) at which we find ourselves, how can we best interject the relevant teachings of _The URANTIA Book_ in each area or discipline?
 
-> “_When man loses sight of the love of a personal God, the kingdom of God becomes merely the kingdom of good. Notwithstanding the infinite unity of the divine nature, love is the dominant characteristic of all God's personal dealings with his creatures._” ([UB 2:5.12](/en/The_Urantia_Book/2#p5_12))
+> “_When man loses sight of the love of a personal God, the kingdom of God becomes merely the kingdom of good. Notwithstanding the infinite unity of the divine nature, love is the dominant characteristic of all God's personal dealings with his creatures._” (<a id="a68_258"></a>[UB 2:5.12](/en/The_Urantia_Book/2#p5_12))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1981-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1981 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Henry_Begemann/Self_realization">
+          <span class="pr-2">Self-realization</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Satu Sihvo<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fellowship with God, Now & Forever</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="pr-2">Returning to Family-Council Practices</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Summing Up
 
@@ -58,4 +82,28 @@ The following is a modification from the guidelines of the Center for Attitudina
 9. All information shared in group is confidential.
 10. We agree to keep in mind that we always have a possibility to aim at peace rather than conflict, support love rather than fear.
 
-> “_The idealization and attempted service of truth, beauty, and goodness is not a substitute for genuine religious experience—spiritual reality._” ([UB 196:3.23](/en/The_Urantia_Book/196#p3_23))
+> “_The idealization and attempted service of truth, beauty, and goodness is not a substitute for genuine religious experience—spiritual reality._” (<a id="a84_149"></a>[UB 196:3.23](/en/The_Urantia_Book/196#p3_23))
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fellowship with God, Now & Forever</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Slagle/Returning_to_Family_Council_Practices">
+          <span class="pr-2">Returning to Family-Council Practices</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

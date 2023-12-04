@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1989-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1989 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Suggestions For Sharing The Urantia Book
 
@@ -31,13 +49,13 @@ The premise of this document is that sharing _The URANTIA Book_ and its teaching
 
 We easily forget the wonders of things we have been given and begin to take them for granted. How inspiring it would be if we could recover the sense of awe we felt upon first reading _The URANTIA Book_ — awe in contemplating such a complete harmonization and unification of science, philosophy and religion — awe in the joy and inspiration we drew from reading “The Life and Teachings of Jesus” — awe that we live on earth in the days of this great revelation!
 
-“_The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus._” ([UB 195:9.5](/en/The_Urantia_Book/195#p9_5)) Where is the world to rediscover these foundations if not in _The URANTIA Book_ and in the testimony of its students?
+“_The hour is striking for a rediscovery of the true and original foundations of present-day distorted and compromised Christianity — the real life and teachings of Jesus._” (<a id="a51_175"></a>[UB 195:9.5](/en/The_Urantia_Book/195#p9_5)) Where is the world to rediscover these foundations if not in _The URANTIA Book_ and in the testimony of its students?
 
-“_The common people heard Jesus gladly, and they will again respond to the presentation of his sincere human life...._” ([UB 196:1.4](/en/The_Urantia_Book/196#p1_4)) Where will people find this presentation if not in _The URANTIA Book_ and in the lives and testimony of its readers?
+“_The common people heard Jesus gladly, and they will again respond to the presentation of his sincere human life...._” (<a id="a53_121"></a>[UB 196:1.4](/en/The_Urantia_Book/196#p1_4)) Where will people find this presentation if not in _The URANTIA Book_ and in the lives and testimony of its readers?
 
 > We easily forget the wonders of things we have been given and begin to take them for granted.
 
-> “_The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries.... What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions._” ([UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
+> “_The time is ripe to witness the figurative resurrection of the human Jesus from his burial tomb amidst the theological traditions and the religious dogmas of nineteen centuries.... What a transcendent service if, through this revelation, the Son of Man should be recovered from the tomb of traditional theology and be presented as the living Jesus to the church that bears his name, and to all other religions._” (<a id="a57_418"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2))
 
 Through ages past, truth-seekers have struggled to discern the spiritual realities we find described on every page of _The URANTIA Book_. One way we can show our appreciation of what we have been given is by devoting ourselves to helping others find it. The presentation of this revelation to the world requires effort by those privileged to have found it — effort on _our_ part.
 
@@ -45,7 +63,7 @@ Through ages past, truth-seekers have struggled to discern the spiritual realiti
 
 We all want to help others know the Father, but many of us are reluctant to talk to others about God. We know that it is important — we want to do it — and when the situation arises, when someone asks us directly about God or about _The URANTIA Book_, there is nothing we enjoy more. But experience has taught us that it is not always helpful to talk about our own experiences without initially being asked. If we have not first taken time to show them our friendship and trustworthiness, we should not be surprised by the many who then ignore our spoken message.
 
-Jesus said, “_Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it._” ([UB 176:3.10](/en/The_Urantia_Book/176#p3_10))
+Jesus said, “_Freely have you received; therefore freely should you give of the truth of heaven, and in the giving will this truth multiply and show forth the increasing light of saving grace, even as you minister it._” (<a id="a65_221"></a>[UB 176:3.10](/en/The_Urantia_Book/176#p3_10))
 
 In this short sentence, Jesus sums up the unselfish attitude to which believers should aspire. Nothing should give us greater joy than to help a sister or brother learn of the Father. The example of our lives and the truth of _The URANTIA Book_ are tools of the spirit to help accomplish this. We must remember that the riverbed is not the river; that for the truth in _The URANTIA Book_ to exercise its life-changing power, it must be incorporated into a person's life. While we, by our efforts, are not able to transform another person, we can surely introduce them to one who is.
 
@@ -55,7 +73,7 @@ In this short sentence, Jesus sums up the unselfish attitude to which believers 
 
 A traditional view of spiritual service to others holds that one must assure the salvation of their souls. We cannot really know the status of another's soul, but we can help those who are troubled to put their faith in God and to seek to do his will. We may be able to do this by teaching and explaining. More often we will be a friend, a living example, an encouragement to someone in need. Even if we live an average life we will have some opportunity to serve others in this way.
 
-Many opportunities arise for assisting others in their spiritual growth. We can help someone grow closer to God. We can inspire them to act on their knowledge of God's will. We can enlist them in the service of humanity. Jesus took it for granted that those to whom he was talking believed in God ([UB 169:4.2](/en/The_Urantia_Book/169#p4_2)), and he used his efforts to encourage people to more fully enter into the divine inheritance that God had prepared for them. This is a large part of our task as well.
+Many opportunities arise for assisting others in their spiritual growth. We can help someone grow closer to God. We can inspire them to act on their knowledge of God's will. We can enlist them in the service of humanity. Jesus took it for granted that those to whom he was talking believed in God (<a id="a75_298"></a>[UB 169:4.2](/en/The_Urantia_Book/169#p4_2)), and he used his efforts to encourage people to more fully enter into the divine inheritance that God had prepared for them. This is a large part of our task as well.
 
 ### Mass And Personal Appeals
 
@@ -115,11 +133,11 @@ Our list of suggestions now turns from the more impersonal and large-scale metho
 
 This type of ministry may seem somewhat passive, but it is unquestionably one of the most effective forms. The idea that being spiritually attractive is passive may stem from a lack of appreciation for the level of commitment and energy required to seek personal transformation for oneself, thereby becoming an inspiration to others.
 
-Productive contact with others results from the natural spiritual fragrance of a God-directed life which leads others to adopt similar values. Such attractiveness is the product of a life saturated with love. “_Most of the really important things which Jesus said or did seemed to happen casually, ‘as he passed by.’_” ([UB 171:7.9](/en/The_Urantia_Book/171#p7_9)) Regardless of how else we might try to advance the message of _The URANTIA Book_, we should all aspire to live lives of such exemplary beauty.
+Productive contact with others results from the natural spiritual fragrance of a God-directed life which leads others to adopt similar values. Such attractiveness is the product of a life saturated with love. “_Most of the really important things which Jesus said or did seemed to happen casually, ‘as he passed by.’_” (<a id="a135_320"></a>[UB 171:7.9](/en/The_Urantia_Book/171#p7_9)) Regardless of how else we might try to advance the message of _The URANTIA Book_, we should all aspire to live lives of such exemplary beauty.
 
 ### Inclusion
 
-Inclusion occurs when we invite others to our study group or to a conference. As in the process of spiritual attraction, we do not necessarily engage them in direct discussion or presentation of ideas from the book. Rather, we may use the social avenue of inviting them to come with us to a place where they may hear presentations about the book. Since non-readers may not be fully aware of the social setting into which they are being drawn, it is very important to use good judgment in choosing those likely to become interested and in presenting them with an opportunity free of compulsion. This is what Philip did when he invited Nathaniel to “_Come and see._” ([UB 137:2.6](/en/The_Urantia_Book/137#p2_6))
+Inclusion occurs when we invite others to our study group or to a conference. As in the process of spiritual attraction, we do not necessarily engage them in direct discussion or presentation of ideas from the book. Rather, we may use the social avenue of inviting them to come with us to a place where they may hear presentations about the book. Since non-readers may not be fully aware of the social setting into which they are being drawn, it is very important to use good judgment in choosing those likely to become interested and in presenting them with an opportunity free of compulsion. This is what Philip did when he invited Nathaniel to “_Come and see._” (<a id="a139_666"></a>[UB 137:2.6](/en/The_Urantia_Book/137#p2_6))
 
 ### Personal Sharing
 
@@ -141,7 +159,7 @@ If you have not experienced success in sharing the book with others, do not give
 
 ## Occasions For Service
 
-Jesus and his disciples were totally committed to sharing the good news, and he called all believers to join him in that work. ([UB 191:6.3](/en/The_Urantia_Book/191#p6_3)) They used a variety of methods to reach the people of their generation, and, while public preaching was often used, personal sharing was always practiced. Most important, Jesus and his followers provided a means of mutually reinforcing personal ministry to, and support of, those they attracted to the gospel. They shared their message with individuals and groups in three basic settings. We can learn to take advantage of similar opportunities in our own experience.
+Jesus and his disciples were totally committed to sharing the good news, and he called all believers to join him in that work. (<a id="a161_128"></a>[UB 191:6.3](/en/The_Urantia_Book/191#p6_3)) They used a variety of methods to reach the people of their generation, and, while public preaching was often used, personal sharing was always practiced. Most important, Jesus and his followers provided a means of mutually reinforcing personal ministry to, and support of, those they attracted to the gospel. They shared their message with individuals and groups in three basic settings. We can learn to take advantage of similar opportunities in our own experience.
 
 ### As We Pass By
 
@@ -157,7 +175,7 @@ A more pretentious type of sharing cecurred in conjunction with a public event, 
 
 ## What Message Do We Bring?
 
-At this time, relatively few people seem to want to study _The URANTIA Book_ diligently, but we are told that everyone is capable of knowing God as our Father. We must seek to maintain an awareness of this simple truth while, depending upon the interest of the person(s) with whom we are in dialogue, we either impart or withhold the factual or theological portions of the teachings. We must always remember to depend on God's spirit. It is his kingdom we are trying to help build, not our own, and spiritual work cannot be done without spiritual power. ([UB 158:6.4](/en/The_Urantia_Book/158#p6_4))
+At this time, relatively few people seem to want to study _The URANTIA Book_ diligently, but we are told that everyone is capable of knowing God as our Father. We must seek to maintain an awareness of this simple truth while, depending upon the interest of the person(s) with whom we are in dialogue, we either impart or withhold the factual or theological portions of the teachings. We must always remember to depend on God's spirit. It is his kingdom we are trying to help build, not our own, and spiritual work cannot be done without spiritual power. (<a id="a177_555"></a>[UB 158:6.4](/en/The_Urantia_Book/158#p6_4))
 
 > The testimony of your faith, when humbly rendered in a thoughtful, wise, loving, considerate, tasteful and timely manner, can help the spirit touch the heart of another, particularly if that other is truly your friend.
 
@@ -210,5 +228,24 @@ If you have read _The URANTIA Book_ and have recognized its truth, you have cert
 
 ---
 
-> “_Never should a righteous cause be promoted by force; spiritual victories can be won only by spiritual power. This injunction against the employment of material influences refers to psychic force as well as to physical force. Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. Man's mind is not to be crushed by the mere weight of logic or overawed by shrewd eloquence. While emotion as a factor in human decisions cannot be wholly eliminated, it should not be directly appealed to in the teachings of those who would advance the cause of the kingdom. Make your appeals directly to the divine spirit that dwells within the minds of men._” ([UB 159:3.2](/en/The_Urantia_Book/159#p3_2))
+> “_Never should a righteous cause be promoted by force; spiritual victories can be won only by spiritual power. This injunction against the employment of material influences refers to psychic force as well as to physical force. Overpowering arguments and mental superiority are not to be employed to coerce men and women into the kingdom. Man's mind is not to be crushed by the mere weight of logic or overawed by shrewd eloquence. While emotion as a factor in human decisions cannot be wholly eliminated, it should not be directly appealed to in the teachings of those who would advance the cause of the kingdom. Make your appeals directly to the divine spirit that dwells within the minds of men._” (<a id="a230_703"></a>[UB 159:3.2](/en/The_Urantia_Book/159#p3_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1989-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1989 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

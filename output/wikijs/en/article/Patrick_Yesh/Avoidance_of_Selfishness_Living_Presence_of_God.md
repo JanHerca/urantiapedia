@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Patrick Yesh<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Everyday Ethics</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="pr-2">Avoidance of Selfishness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Introduction
 
@@ -207,3 +231,27 @@ What is that part of the self-image that we are to take seriously? I think it is
 4. When you worship and bond with God, do it at the feeling level to make quality changes in your personality. Become a feeling child of God-feel his love-feel your loove for him ever increasing.
 5. Get into an intimate relationship with someone fast, get a partner, get married, be around lots of children, join a service club, become a doer of love. Do not be alone in your thinking or your living. Intimate association with your fellows and family and community helps you to avoid selfish pursuits. Solitary life is fatal to happiness; even families and nations will enjoy life more if they share it with others. (1776)
 6. And Jesus said, “Your secret of the mastery of self is bound up with your faith in the indwelling spirit, which ever works by love. Even this saving faith you have not of yourselves; it also is the gift of God. And if you are the children of this living faith, you are no longer the bond slaves of self but rather the triumphant masters of yourselves, the liberated sons [and daughters] of God.” (1610)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Everyday Ethics</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/James_Johnston/Avoidance_of_Selfishness">
+          <span class="pr-2">Avoidance of Selfishness</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

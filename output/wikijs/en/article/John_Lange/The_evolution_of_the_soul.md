@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 John Lange<br>© 1986 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The spirit level of reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Through the ages mortal man has sensed something vital growing within him destined to endure beyond the short span of his earthly life. Thus the concept of the soul has found its way into many of the planetary systems of religious thought. Early man associated the soul with blood, breath, shadows, and reflections in the water; and later it was thought to indwell various physical organs — the eye, kidney, liver, heart, and finally the brain.
 
@@ -54,3 +75,24 @@ I do not seek to make man more than he is, but to bring into focus the nature of
 
 _John Lange, M.D._
 _Fort Smith, Arkansas_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The spirit level of reality</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

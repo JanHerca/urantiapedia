@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay, David Elders, Robert J. Schuer, David Glass, Francyl Streano Gawryn, Beth Bartley, Meredith Sprunger, Carolyn Kendall, Lynne Kulieke, Eileen Laurence, Patrick Yesh, James G. Johnston, Marilynn Kulieke, Brent St. Denis, William Wentworth, Arlene & Buck Weimer, Larry Mullins<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1990-issue-special-conference-issue-ii">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1990 Issue — Special Conference Issue II — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <p style="text-align:center;">
 <b>FIFTH EPOCHAL FELLOWSHIP for readers of _The Urantia Book_</b><br>
@@ -203,7 +221,7 @@ by Eileen Laurence
 
 Like most of us here in this room, I lead a varied and busy professional life. I interact with a lot of people, most of whom are not Urantia Book readers, but many of whom are actively participating in a religious life both professionally and privately. As I go about my daily chores trying to live the concepts of the book, I have begun to ask myself some basic questions:
 
-1. Is there a difference between morality and ethics? They are often used in the same sentence such as “_the mores (religious, moral, and ethical) together with property, pride, and chivalry, stabilize the institution of marriage and family._” ([UB 84:7.3](/en/The_Urantia_Book/84#p7_3))
+1. Is there a difference between morality and ethics? They are often used in the same sentence such as “_the mores (religious, moral, and ethical) together with property, pride, and chivalry, stabilize the institution of marriage and family._” (<a id="a223_245"></a>[UB 84:7.3](/en/The_Urantia_Book/84#p7_3))
 2. If there is a difference between moral and ethical, what is it?
 3. How has our conception of morality and ethics changed since the appearance of this fifth epochal revelation, _The Urantia Book_?
 4. What is being done in our present American society to address moral and ethical questions about our evolving business organizations, the connection between government and the media, ethics and chronic illness, ethics and neonatal care? Is anyone taking the time to share thoughts on ethics in the global community?
@@ -298,3 +316,22 @@ The kids are picking up this attitude, too. One little girl was drawing in the n
 
 [Read more](/en/article/Larry_Mullins/Walking_with_Humankind)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1990-issue-special-conference-issue-ii">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1990 Issue — Special Conference Issue II — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

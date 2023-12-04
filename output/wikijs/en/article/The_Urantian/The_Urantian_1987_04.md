@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Charles E. Hansen<br>© 1987 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1987-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1987 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_E_Hansen/Jesus_the_great_economist">
+          <span class="pr-2">Jesus, the great economist</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Jesus, The Great Economist
 
@@ -23,5 +44,27 @@ _Silver Spring, Maryland_
 
 ---
 
-> “_Political science must effect the reconstruction of economics and industry by the techniques it learns from the social sciences and by the insights and motives supplied by religious living. In all social reconstruction religion provides a stabilizing loyalty to a transcendent object, a steadying goal beyond and above the immediate and temporal objective. In the midst of the confusions of a rapidly changing environment mortal man needs the sustenance of a far-flung cosmic perspective._” ([UB 99:7.2](/en/The_Urantia_Book/99#p7_2))
+> “_Political science must effect the reconstruction of economics and industry by the techniques it learns from the social sciences and by the insights and motives supplied by religious living. In all social reconstruction religion provides a stabilizing loyalty to a transcendent object, a steadying goal beyond and above the immediate and temporal objective. In the midst of the confusions of a rapidly changing environment mortal man needs the sustenance of a far-flung cosmic perspective._” (<a id="a46_496"></a>[UB 99:7.2](/en/The_Urantia_Book/99#p7_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1987-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1987 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_E_Hansen/Jesus_the_great_economist">
+          <span class="pr-2">Jesus, the great economist</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Maureen Cragg, Debra York, David Glass, James Johnson<br>© 1985 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Maureen_Cragg/A_letter">
+          <span class="pr-2">A letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _While it is not the practice of The JOURNAL to print letters, the article which follows is written in that form to convey its meaning in a personally powerful way. Thanks from all of us for a very important reminder. The Editors._
 
@@ -55,7 +76,7 @@ _Fort Worth. Texas_
 
 ## Meet Religious Challenge
 
-To meet the religious challenge of this age it would first seem appropriate to distinguish between a religious and non-religious philosophy of living — the difference being in the nature of level of recognized values and in the object of loyalties, as pointed out by a Melchizedek: “_There are four phases in the evolution of religious philosophy: Such as experience may become merely conformative, resigned to submission to tradition and authority. Or it may be satisfied with slight attainments, just enough to stabilize the daily living, and therefore becomes early arrested on such an adventitious level. Such mortals believe in letting well enough alone. A third group progress to the level of logical intellectuality but there stagnate in consequence of cultural slavery. It is indeed pitiful to behold giant intellects held so securely within the cruel grasp of cultural bondage. It is equally pathetic to observe those who trade their cultural bondage for the materialistic fetters of a science, falsely so called. The fourth level of philosophy attains freedom from all conventional and traditional handicaps and dares to think, act, and live honestly, loyally, fearlessly, and truthfully._” ([UB 101:7.4](/en/The_Urantia_Book/101#p7_4)) The last sentence of this quote directly relates to the original question with regard to the construction of a “_...new and appealing philosophy of living..._” ([UB 2:7.10](/en/The_Urantia_Book/2#p7_10)). Both quotes use the verb dare which implies that the religous teachers of this age must have sufficient. courage to implement this fourth level of philosophy.
+To meet the religious challenge of this age it would first seem appropriate to distinguish between a religious and non-religious philosophy of living — the difference being in the nature of level of recognized values and in the object of loyalties, as pointed out by a Melchizedek: “_There are four phases in the evolution of religious philosophy: Such as experience may become merely conformative, resigned to submission to tradition and authority. Or it may be satisfied with slight attainments, just enough to stabilize the daily living, and therefore becomes early arrested on such an adventitious level. Such mortals believe in letting well enough alone. A third group progress to the level of logical intellectuality but there stagnate in consequence of cultural slavery. It is indeed pitiful to behold giant intellects held so securely within the cruel grasp of cultural bondage. It is equally pathetic to observe those who trade their cultural bondage for the materialistic fetters of a science, falsely so called. The fourth level of philosophy attains freedom from all conventional and traditional handicaps and dares to think, act, and live honestly, loyally, fearlessly, and truthfully._” (<a id="a78_1202"></a>[UB 101:7.4](/en/The_Urantia_Book/101#p7_4)) The last sentence of this quote directly relates to the original question with regard to the construction of a “_...new and appealing philosophy of living..._” (<a id="a78_1408"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10)). Both quotes use the verb dare which implies that the religous teachers of this age must have sufficient. courage to implement this fourth level of philosophy.
 
 [Read more](/en/article/James_Johnson/Meet_religious_challenge)
 
@@ -66,7 +87,7 @@ _Saudi Arabia_
 
 Your responses to the questions posed in past issues have been wonderful — thoughtful, insightful — and we hope they have been of use to Journal readers, While we will keep publishing writings generated from past questions, here's another one to keep your mental energies stimulated. A Divine Counselor, writing in Paper 5 about God's relation to the individual, says:
 
-> “_The material self has personality and identity, temporal identity; the pre-personal spirit Adjuster also has identity, eternal identity, This material personality and this spirit prepersonality are capable of so uniting their creative attributes as to bring into existence the surviving identity of the immortal soul._” ([UB 5:6.7](/en/The_Urantia_Book/5#p6_7))
+> “_The material self has personality and identity, temporal identity; the pre-personal spirit Adjuster also has identity, eternal identity, This material personality and this spirit prepersonality are capable of so uniting their creative attributes as to bring into existence the surviving identity of the immortal soul._” (<a id="a89_325"></a>[UB 5:6.7](/en/The_Urantia_Book/5#p6_7))
 
 **Question**
 
@@ -75,5 +96,27 @@ How are these creative attributes actually united?
 ---
 
 
-> “_When we are tempted to magnify our self-importance, if we stop to contemplate the infinity of the greatness and grandeur of our Makers, our own self-glorification becomes sublimely ridiculous, even verging on the humorous. One of the functions of humor is to help all of us take ourselves less seriously. Humor is the divine antidote for exaltation of ego._” ([UB 48:4.15](/en/The_Urantia_Book/48#p4_15))
+> “_When we are tempted to magnify our self-importance, if we stop to contemplate the infinity of the greatness and grandeur of our Makers, our own self-glorification becomes sublimely ridiculous, even verging on the humorous. One of the functions of humor is to help all of us take ourselves less seriously. Humor is the divine antidote for exaltation of ego._” (<a id="a98_364"></a>[UB 48:4.15](/en/The_Urantia_Book/48#p4_15))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1985-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1985 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Maureen_Cragg/A_letter">
+          <span class="pr-2">A letter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

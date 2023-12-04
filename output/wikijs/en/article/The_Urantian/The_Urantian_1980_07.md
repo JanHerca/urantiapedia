@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Wesley James, Gene Joyce, Annis M. Warsh, Victoria Urban<br>© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Wesley_James/The_seraphic_connection">
+          <span class="pr-2">The seraphic connection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Seraphic Connection
 
@@ -38,7 +59,7 @@ _The following article was presented at the Midwest Regional Conference, June 6 
 
 On UB 195:9.2 of _The URANTIA Book_ it says:
 
-> “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” [UB 195:9.2](/en/The_Urantia_Book/195#p9_2)
+> “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” <a id="a61_170"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2)
 
 I believe it. And this is quite a challenge, being asked to talk about renewing and revitalizing society — even with _The URANTIA Book_ as a point of reference.
 
@@ -70,14 +91,36 @@ Many people who believe in the world of spiritualism and parapsychology believe 
 
 I have elected myself and have been given a share of participation in our Universal Plan; spiritually I know that my guardian angel beckons me in a manner that is. delightful, but persuasive.
 
-A body of 144 seraphim serves on an evolutionary sphere of creature habitation: “_These angels preside over all seraphic assemblies pertaining to the line of duty or call to worship._” ([UB 39:1.16](/en/The_Urantia_Book/39#p1_16))
+A body of 144 seraphim serves on an evolutionary sphere of creature habitation: “_These angels preside over all seraphic assemblies pertaining to the line of duty or call to worship._” (<a id="a93_186"></a>[UB 39:1.16](/en/The_Urantia_Book/39#p1_16))
 
-The spirit of brotherhood survives on Urantia because of the seraphims' work of achieving racial harmony and social cooperation among our diverse races. “_Without the work of these seraphim the efforts of the Material Sons to harmonize and advance the races of an evolving world would be greatly delayed. And had your Adam adhered to the original plan for the advancement of Urantia, by this time these spirits of brotherhood would have worked unbelievable transformations in the human race. In view of the Adamic default, it is indeed remarkable that these seraphic orders have been able to foster ... even as much of brotherhood as you now have on Urantia_.” ([UB 39:5.4](/en/The_Urantia_Book/39#p5_4))
+The spirit of brotherhood survives on Urantia because of the seraphims' work of achieving racial harmony and social cooperation among our diverse races. “_Without the work of these seraphim the efforts of the Material Sons to harmonize and advance the races of an evolving world would be greatly delayed. And had your Adam adhered to the original plan for the advancement of Urantia, by this time these spirits of brotherhood would have worked unbelievable transformations in the human race. In view of the Adamic default, it is indeed remarkable that these seraphic orders have been able to foster ... even as much of brotherhood as you now have on Urantia_.” (<a id="a95_662"></a>[UB 39:5.4](/en/The_Urantia_Book/39#p5_4))
 
 [Read more](/en/article/Victoria_Urban/The_seraphim)
 
 — _Victoria Urban_
 _Santa Rosa, California_
 
-> “_Seraphim function as teachers of men by guiding the footsteps of the human personality into paths of new and progressive experiences. To accept the guidance of a seraphim rarely means attaining a life of ease. In following this leading you are sure to encounter, and if you have the courage, to traverse, the rugged hills of moral choosing and spiritual progress._” ([UB 113:4.3](/en/The_Urantia_Book/113#p4_3))
+> “_Seraphim function as teachers of men by guiding the footsteps of the human personality into paths of new and progressive experiences. To accept the guidance of a seraphim rarely means attaining a life of ease. In following this leading you are sure to encounter, and if you have the courage, to traverse, the rugged hills of moral choosing and spiritual progress._” (<a id="a102_371"></a>[UB 113:4.3](/en/The_Urantia_Book/113#p4_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Wesley_James/The_seraphic_connection">
+          <span class="pr-2">The seraphic connection</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

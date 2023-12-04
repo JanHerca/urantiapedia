@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Melissa Wells<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">True Worship: A Commentary on Paper 5, Section 3</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever">
+          <span class="pr-2">Fellowship with God, Now & Forever</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Melissa Wells
 
@@ -24,7 +48,7 @@ I am not here to sell AA; but I have elected to talk about a technique faithfull
 
 Sharing in an AA meeting is something akin to becoming an oracle for those who have learned how to humble the ego and let their Higher Power speak through them. At each meeting, we read from the Big Book of Alcoholics Anonymous: “Remember that we deal with alcohol — cunning, baffling, powerfull Without help it is too much for us. But there is One who has all power — that One is God. May you find Him now! Half measures availed us nothing. We stood at the turning point. We asked His protection and care with complete abandon.”
 
-And from the Big Book of Urantia, Jesus said: “_Salvation is not for those who are unwilling to pay the price of wholehearted dedication to doing my Father's will ...every one who sincerely desires to find eternal life by entrance into the kingdom of God shall certainly find such everlasting salvation...And they who shall thus take the kingdom in spiritual power and by the persistent assaults of living faith...to all who are honest of heart and sincere in faith, it remains eternally true: ‘Behold, I stand at the doors of men's hearts and knock, and if any man will open to me, I will come in and sup with him and will feed him with the bread of life; we shall be one in spirit and purpose, and so shall we ever be brethren’...._” ([UB 166:3.4-7](/en/The_Urantia_Book/166#p3_4))
+And from the Big Book of Urantia, Jesus said: “_Salvation is not for those who are unwilling to pay the price of wholehearted dedication to doing my Father's will ...every one who sincerely desires to find eternal life by entrance into the kingdom of God shall certainly find such everlasting salvation...And they who shall thus take the kingdom in spiritual power and by the persistent assaults of living faith...to all who are honest of heart and sincere in faith, it remains eternally true: ‘Behold, I stand at the doors of men's hearts and knock, and if any man will open to me, I will come in and sup with him and will feed him with the bread of life; we shall be one in spirit and purpose, and so shall we ever be brethren’...._” (<a id="a50_737"></a>[UB 166:3.4-7](/en/The_Urantia_Book/166#p3_4))
 
 Many times have I gone into a meeting feeling at odds with myself and the world, and by the end of it, I walked away with joy and serenity. All I had to do was go to the meeting, listen, and partake of the bread of life that awaits anyone who is honest, open, and willing to change.
 
@@ -42,7 +66,7 @@ Since that time, I have an option as to whether or not I am happy. Many, many op
 
 Before I ventured into the meeting rooms of AA, I presumed that God's will for me was something along the lines that if I wanted some person, place, or thing in my life, then automatically it was not God's will for me. For those who understand transactional analysis — with terms such as child, adult, and critical parent representing aspects of the human temperament — I had relegated to God the role of critical parent in my life. Now mind you, this was quite unconscious until I heard Bill W. enthusiastically say at a meeting that God's will is for us to be happy, joyous, and free. He convinced me by the consistent peace and joy which he carries. I learned from him the power of the spoken word, for now that I have accepted happiness as my choice for living life, I see the message laden in the gospel which Jesus gave his followers. It's written in the text of _The Urantia Book_ to such an extent that I'm amazed at how blind I was before this experience. But it's true — I did not allow myself to see the joy of Jesus' life until I chose joy for myself. I was rooted in his sorrow, but now that is a thing of the past.
 
-How could I miss these words from _The Urantia Book_ all these years: “_You shall not portray your teacher as a man of sorrows. Future generations shall know also the radiance of our joy, the buoyance of our good will, and the inspiration of our good humor. We proclaim a message of good news which is infectious in its transforming power. Our religion is throbbing with new life and new meanings. Those who accept this teaching are filled with joy and in their hearts are constrained to rejoice evermore. Increasing happiness is always the experience of all who are certain about Cod._” ([UB 159:3.10](/en/The_Urantia_Book/159#p3_10))
+How could I miss these words from _The Urantia Book_ all these years: “_You shall not portray your teacher as a man of sorrows. Future generations shall know also the radiance of our joy, the buoyance of our good will, and the inspiration of our good humor. We proclaim a message of good news which is infectious in its transforming power. Our religion is throbbing with new life and new meanings. Those who accept this teaching are filled with joy and in their hearts are constrained to rejoice evermore. Increasing happiness is always the experience of all who are certain about Cod._” (<a id="a68_589"></a>[UB 159:3.10](/en/The_Urantia_Book/159#p3_10))
 
 And even this happiness is a gift from God-he helped me make the choice by directing me to the right place to hear a winner talk about happiness and freedom, and then helped me to actually apply it to my own way of living when the moment of truth came.
 
@@ -54,7 +78,7 @@ One of Al's more thought-provoking comments is how thoroughly he has turned his 
 
 This goes against our human nature. But if we trust God with absolute abandon, then we enable God to work for us. The way Al puts it is: It's just like the story of Chicken Little, who tried to keep the sky from falling. Today, it's not my sky. If it's God's will for the sky to fall, let the mother fall. And if that sounds far fetched, let me present it in the context of teachings from _The Urantia Book_.
 
-Jesus portrayed the profound surety of the God-knowing mortal when he said: “_To a God-knowing kingdom believer, what does it matter if all things earthly crash?' Temporal securities are vulnerable, but spiritual sureties are impregnable. When the flood tides of human adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable; at least this is true of every human being who has dedicated the keeping of his soul to the indwelling spirit of the eternal God ... Such spirit-born individuals are so remotivated in life that they can calmly stand by while their fondest ambitions perish and their keenest hopes crash; they positively know that such catastrophes are but the redirecting cataclysms which wreck one's temporal creations preliminary to the rearing of the more noble and enduring realities of a new and more sublime level of universe attainment._” ([UB 100:2.7-8](/en/The_Urantia_Book/100#p2_7))
+Jesus portrayed the profound surety of the God-knowing mortal when he said: “_To a God-knowing kingdom believer, what does it matter if all things earthly crash?' Temporal securities are vulnerable, but spiritual sureties are impregnable. When the flood tides of human adversity, selfishness, cruelty, hate, malice, and jealousy beat about the mortal soul, you may rest in the assurance that there is one inner bastion, the citadel of the spirit, which is absolutely unassailable; at least this is true of every human being who has dedicated the keeping of his soul to the indwelling spirit of the eternal God ... Such spirit-born individuals are so remotivated in life that they can calmly stand by while their fondest ambitions perish and their keenest hopes crash; they positively know that such catastrophes are but the redirecting cataclysms which wreck one's temporal creations preliminary to the rearing of the more noble and enduring realities of a new and more sublime level of universe attainment._” (<a id="a80_1011"></a>[UB 100:2.7-8](/en/The_Urantia_Book/100#p2_7))
 
 That may sound likea far cry from “letting the mother fall,” but the spirit in which they are spoken is the same.
 
@@ -62,7 +86,7 @@ It is God's reality, and ours to accept, adjust to, and enjoy. And the individua
 
 Another delightful sort of spiritual sharing is the intimacy shared by two individuals. While I have been fortunate to have brief exchanges of spiritual sharing, I must admit that my disease of alcoholism has hampered me in the area of personal relationships. What I'm saying here is that I'm not much of an expert on this topicunless you want me to talk about what NOT to do. So, I find it helpful to go to the fount of wisdom available to us in _The Urantia Book_. And I love to contemplate the beautiful outlook found in the philosophy of Rodan of Alexandria.
 
-Rodan's lessons on spiritual friendships — which are worth any sacrifice requisite for their possession, in his opinion — include the notable statements: “_Many noble human impulses die because there is no one to hear their expression. Truly, it is not good for man to be alone ...Fear, envy, and conceit can be prevented only by intimate contact with other minds...Friendship enhances the joys and glorifies the triumphs of life. Loving and intimate human associations tend to rob suffering of its sorrow and hardship of much of its bitterness. The presence of a friend enhances all beauty and exalts every goodness._” ([UB 160:2.6](/en/The_Urantia_Book/160#p2_6))
+Rodan's lessons on spiritual friendships — which are worth any sacrifice requisite for their possession, in his opinion — include the notable statements: “_Many noble human impulses die because there is no one to hear their expression. Truly, it is not good for man to be alone ...Fear, envy, and conceit can be prevented only by intimate contact with other minds...Friendship enhances the joys and glorifies the triumphs of life. Loving and intimate human associations tend to rob suffering of its sorrow and hardship of much of its bitterness. The presence of a friend enhances all beauty and exalts every goodness._” (<a id="a88_621"></a>[UB 160:2.6](/en/The_Urantia_Book/160#p2_6))
 
 Rodan goes on to speak of how we can “enrich the soul by pooling our respective spiritual possessions ...the mind of one augments its spiritual values by gaining much of the insight of the other.”
 
@@ -100,6 +124,30 @@ Finally, I wish to speak of one of my very favorite persons and his approach to 
 
 > “_Jesus was never in a hurry. He had time to comfort his fellow men ‘as he passed by.’ And he always made his friends feel at ease. He was a charming listener. He never engaged in the meddlesome probing of the souls of his associates. As he comforted hungry minds and ministered to thirsty souls, the recipients of his mercy did not so much feel that they were confessing to him as that they were conferring with him. They had unbounded confidence in him because they saw he had so much faith in them._”
 
-> “_He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘he went about doing good.’ And it behooves the Master's followers in all ages to learn to minister as ‘they pass by’ — to do unselfish good as they go about their daily duties._” ([UB 171:7.1-10](/en/The_Urantia_Book/171#p7_1))
+> “_He dispensed health and scattered happiness naturally and gracefully as he journeyed through life. It was literally true, ‘he went about doing good.’ And it behooves the Master's followers in all ages to learn to minister as ‘they pass by’ — to do unselfish good as they go about their daily duties._” (<a id="a126_307"></a>[UB 171:7.1-10](/en/The_Urantia_Book/171#p7_1))
 
 When it comes to spiritual sharing, remember: It's so simple; just let go and let God.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Jeff_Wattles/True_Worship_A_Commentary_on_Paper_5_Section_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">True Worship: A Commentary on Paper 5, Section 3</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever">
+          <span class="pr-2">Fellowship with God, Now & Forever</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

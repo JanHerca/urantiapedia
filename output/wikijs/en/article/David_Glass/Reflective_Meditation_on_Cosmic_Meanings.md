@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 David Glass<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Eye to the Keyhole of Eternity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francyl_Streano_Gawryn/Discovering_Cosmic_Meanings_through_Personal_Story_and_Song">
+          <span class="pr-2">Discovering Cosmic Meanings through Personal Story and Song</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by David Glass
 
@@ -24,19 +48,19 @@ There will eventually exist approximately seven trillion (7,000,000,000,000) inh
 
 Our registered planetary number in the grand universe is over five trillion, explicitly: 5,342,482,337,666. There seems to be an upper limit of trillions in the specific numerical values cited in _The Urantia Book_, since, to my recollection, no number larger than those in the trillions is mentioned. Sudna, a onetime Graduate Guide who is now a Havona Servital, was the 842,842,682,846,782 nd graduate guide so to be transformed.
 
-However, in dealing numerically with reality, with values upwards of trillions, the revelators give no precise numbers. For example, while they reveal the number of our planet in the registry of the grand universe, over five trillion, as cited above, a Universal Censor from Uversa states: “_I know the physical-sphere registry number [of Urantia], but it is of such an exiraordinary size that it is of little practical significance to the mortal mind._” ([UB 15:14.8](/en/The_Urantia_Book/15#p14_8))
+However, in dealing numerically with reality, with values upwards of trillions, the revelators give no precise numbers. For example, while they reveal the number of our planet in the registry of the grand universe, over five trillion, as cited above, a Universal Censor from Uversa states: “_I know the physical-sphere registry number [of Urantia], but it is of such an exiraordinary size that it is of little practical significance to the mortal mind._” (<a id="a50_456"></a>[UB 15:14.8](/en/The_Urantia_Book/15#p14_8))
 
 Technically, numbers are usually regarded as factual, rather than meaningful. But the human psyche has a faculty which seems to sense a kind of “meaning” conveyed by normal, as well as by extraordinarily large or small numbers. Numbers are relative given various measuring units, but numbers in the trillions seem to be on the horizon of the meaningfulness of numbers. For example, the numerical figure referred to as Planck's constant is a dimensional measurement which, when expressed in ordinary numbers, is quite meaningless. Indeed, scientists themselves are of the opinion that at such large or small physical dimensions even the basic laws of physics cannot apply.
 
 To get a sense of the approximate number of inhabited worlds in the grand universe-seven trillionimagine a football field covered with Urantia Books to the depth of four books; the number “seven trillion” would refer roughly to the number of individual letters and punctuation marks in all those books.
 
-Enough! We have a sense of the truth that the cosmos is BIG and that certain measurements of the universe are practically valuable and some are humanly incomprehensible except in the relativity of the values of numbers under consideration. We should not think that it is only we lowly mortals who find such gigantic dimensions and numerical values nonunderstandable. A Divine Counselor of Uversa, one of the highest ranking personalities of those who collaborated in the composition of _The Urantia Book_, states: “_...the enormousness of the master universe staggers the concept of even my order of being._” ([UB 12:0.1](/en/The_Urantia_Book/12#p0_1))
+Enough! We have a sense of the truth that the cosmos is BIG and that certain measurements of the universe are practically valuable and some are humanly incomprehensible except in the relativity of the values of numbers under consideration. We should not think that it is only we lowly mortals who find such gigantic dimensions and numerical values nonunderstandable. A Divine Counselor of Uversa, one of the highest ranking personalities of those who collaborated in the composition of _The Urantia Book_, states: “_...the enormousness of the master universe staggers the concept of even my order of being._” (<a id="a56_610"></a>[UB 12:0.1](/en/The_Urantia_Book/12#p0_1))
 
 We have established the fact that the master universe, the revealed cosmos, is BIG! There is another three-letter word which describes the universe and which gives us an insight into the “meaning” of the cosmos. That word is “OLD”!
 
 Perhaps an even more emphatic word, “Ancient,” might better characterize the age of the universe. When I was in school, we employed the term “ancient” to refer to the civilizations of pre-Christian times — those of Sumer, Egypt, and Greece. If we wish to use the words “old” or “ancient” to describe the age of the universe, we will have to stretch the _meanings_ of those words to the extremities of human comprehension.
 
-The first event associated with the history of Nebadon took place about a trillion years ago: “_987,000,000,000 years ago associate force organizer and then acting inspector number 811,307 of the Orvonton series, traveling out from Uversa, reported to the Ancients of Days that space conditions were favorable for the initiation of materialization phenomena in a certain sector of the, then, easterly segment of Orvonton._” ([UB 57:1.3](/en/The_Urantia_Book/57#p1_3)) It is interesting to me that the revelators employed that other word for old, “ancient,” when referring to the oldest beings in the superuniyerses, the Ancients of Days, deriving that term from Christianity.
+The first event associated with the history of Nebadon took place about a trillion years ago: “_987,000,000,000 years ago associate force organizer and then acting inspector number 811,307 of the Orvonton series, traveling out from Uversa, reported to the Ancients of Days that space conditions were favorable for the initiation of materialization phenomena in a certain sector of the, then, easterly segment of Orvonton._” (<a id="a62_425"></a>[UB 57:1.3](/en/The_Urantia_Book/57#p1_3)) It is interesting to me that the revelators employed that other word for old, “ancient,” when referring to the oldest beings in the superuniyerses, the Ancients of Days, deriving that term from Christianity.
 
 Nebadon is about one third actualized at this point with more than three million out of an eventual ten million inhabited planets in existence. Allow for another one or two trillion years, and then the entire local universe might be in light and life. For convenience, let's say that it takes about three trillion years for a local universe to complete its evolution, from the time of the beginning of the amassing of the energy which will form the physical foundation of the local universe to that distant day when the entirety of a local universe swings into the stable circuits of cosmic light and life.
 
@@ -50,7 +74,7 @@ The origination of meanings in and of the cosmos must be derived from God's reve
 
 Final meanings and ultimate purposes — the will of God — are known in their entirety probably only by the Eternal Son and the Infinite Spirit. But the step-by-step purposes of time disclose the deepening _meanings_ of the progress of the present toward the future, revealed in finite increments which mortals can comprehend and take. Some of these time purposes are: teamwork, scientific discovery, loving God and one's fellows, service, and the effort to transcend the finite and to transform one's personality.
 
-The prior and eternal purpose of the Father is initially a thought and the progressive comprehension of the Father's thoughts reveals that the master universe is a _concept_ within his mind. A Mighty Messenger writes, “There is _in the mind of God_ a plan which embraces every creature of all his vast domains, and this plan is an eternal _purpose_ of boundless opportunity, unlimited progress, and endless life,” ([UB 32:5.7](/en/The_Urantia_Book/32#p5_7), italics mine)
+The prior and eternal purpose of the Father is initially a thought and the progressive comprehension of the Father's thoughts reveals that the master universe is a _concept_ within his mind. A Mighty Messenger writes, “There is _in the mind of God_ a plan which embraces every creature of all his vast domains, and this plan is an eternal _purpose_ of boundless opportunity, unlimited progress, and endless life,” (<a id="a76_415"></a>[UB 32:5.7](/en/The_Urantia_Book/32#p5_7), italics mine)
 
 In such a universe, the _evolution of meanings_ and of language is progressively becoming relevant to higher and higher verbal significance and valuable concepts and vocabulary, such as the revelators provide, eg., Divinington, morontia, absonity, etc.
 
@@ -74,7 +98,7 @@ It is stated in the book that scientific facts are not in themselves meaningful 
 
 Possibly, the phenomenon of fusion will most radically change for us the meanings which we now have regarding God and reality and our relationship with and within them. We will no longer be faith sons of the Father, we shall be ascending sons of God.
 
-Four of the most significant changes are listed in one brief paragraph. ([UB 112:7.1](/en/The_Urantia_Book/112#p7_1)) Fusion with this fragment [of God means that we immediately become the beneficiaries of these incomparable treasures: (1) “fixation of divinity quality.” After fusion we are the Adjuster, a Solitary Messenger states, and Adjusters are of the purest divinity. No longer will we fluctuate between our mortal and immortal components, for we will no longer be “mort-als” — beings subject to physical [mort] death. We become and shall forever remain divine in quality; (2) “past-eternal experience and memory” — think of that! The Adjuster is eternal and has had an existence prior to the personalization of the 21 Ancients of Days and indeed was individuated from the I AM “before” the personification of the Universal Father-Thought Adjusters are prepersonal; (3) immortality-another aspect of our Godlikeness; and (4) a phase of qualified potential absoluteness. What is the _meaning_ of such a statement? This absoluteness is potential now. Since all absoluteness is eternal, that potential will ever be actualizing in our endless future universe careers. This absoluteness is all we will ever need throughout the ages of Supremacy and Ultimacy and on to the infinite absoluteness of the Cosmos Infinite itself. This _means_ that through fusion we have become one with the absolute foundations of the universe; with the Absolute willful Cause of the universe.
+Four of the most significant changes are listed in one brief paragraph. (<a id="a100_73"></a>[UB 112:7.1](/en/The_Urantia_Book/112#p7_1)) Fusion with this fragment [of God means that we immediately become the beneficiaries of these incomparable treasures: (1) “fixation of divinity quality.” After fusion we are the Adjuster, a Solitary Messenger states, and Adjusters are of the purest divinity. No longer will we fluctuate between our mortal and immortal components, for we will no longer be “mort-als” — beings subject to physical [mort] death. We become and shall forever remain divine in quality; (2) “past-eternal experience and memory” — think of that! The Adjuster is eternal and has had an existence prior to the personalization of the 21 Ancients of Days and indeed was individuated from the I AM “before” the personification of the Universal Father-Thought Adjusters are prepersonal; (3) immortality-another aspect of our Godlikeness; and (4) a phase of qualified potential absoluteness. What is the _meaning_ of such a statement? This absoluteness is potential now. Since all absoluteness is eternal, that potential will ever be actualizing in our endless future universe careers. This absoluteness is all we will ever need throughout the ages of Supremacy and Ultimacy and on to the infinite absoluteness of the Cosmos Infinite itself. This _means_ that through fusion we have become one with the absolute foundations of the universe; with the Absolute willful Cause of the universe.
 
 The deep well of the _meaning_ of ourselves and of reality will never run dry because we shall have penetrated the bottom of the well of our finite potential and discovered the ever-fresh subterranean streams of life and love — of the subliminal God.
 
@@ -82,12 +106,36 @@ Jesus' most profound revelation of his divinity was the resurrection of Lazarus.
 
 The eyes of all orders of beings in Orvonton are trained on Urantia, attentively anticipating Urantia's spiritual resurrection. Our sky is crowded with student visitors, seraphim, recorders, superangels, observers, and archangels. What a celestial jubilation will accompany the universal broadcast message that some of the highest spiritual principles and truths are demonstrated to be valid even on erratic Urantia! The scattered and scrambled alphabet of Urantia's ideas will one day spell out again the highest meanings of the universe. And we are called to participate in this great transformation.
 
-“_Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. The spiritual renaissance [may have to] await the coming of these new teachers of Jesus' religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._” ([UB 195:9.4](/en/The_Urantia_Book/195#p9_4)) Let us not conceive of ourselves as functioning apart from the mainstreams of progress in our day because the Master's cause will one day “rule this very world,” and we are already actualizing that supreme goal!
+“_Religion does need new leaders, spiritual men and women who will dare to depend solely on Jesus and his incomparable teachings. The spiritual renaissance [may have to] await the coming of these new teachers of Jesus' religion who will be exclusively devoted to the spiritual regeneration of men. And then will these spirit-born souls quickly supply the leadership and inspiration requisite for the social, moral, economic, and political reorganization of the world._” (<a id="a108_471"></a>[UB 195:9.4](/en/The_Urantia_Book/195#p9_4)) Let us not conceive of ourselves as functioning apart from the mainstreams of progress in our day because the Master's cause will one day “rule this very world,” and we are already actualizing that supreme goal!
 
 Jesus overthrew Lucifer as a mere human being relying only on his inner Thought Adjuster. Such a spiritual endowment has been provided for every mortal on Urantia. Even more amazing, virtually all Urantians have _experienced_ Adjusters. What potentials for planetary transformation may be ours?
 
 The achievement of brotherhood on Urantia will be an adventure characterized by unbelievable transformations and astounding personal, individual liberations. The _meanings_ of life in the cosmos and progress based on partnership with God will reach ever-heightening levels of Godlikeness and increasing perfection. Social and economic terms shall be applied to higher levels of human civilization as their _meanings_ are altered and exalted. The meanings of such words as “God,” “sonship,” “brotherhood,” “personality,” and “progress” shall increasingly refer to higher spiritual ideals.
 
-Personal isolation gives way to universal brotherhood as higher meanings are perceived. “_At last all creatures become conscious of the fact that God and all the divine hosts of a well-nigh limitless universe are on their side in the supernal struggle to attain eternity of life and divinity of status. Such faith-liberated sons have certainly enlisted in the struggles of time on the side of the supreme forces and divine personalities of eternity; even the stars in their courses are now doing battle for them; at last they gaze upon the universe from within, from God's viewpoint, and all is transformed from the uncertainties of material isolation to the sureties of eternal spiritual progression._” ([UB 101:10.9](/en/The_Urantia_Book/101#p10_9))
+Personal isolation gives way to universal brotherhood as higher meanings are perceived. “_At last all creatures become conscious of the fact that God and all the divine hosts of a well-nigh limitless universe are on their side in the supernal struggle to attain eternity of life and divinity of status. Such faith-liberated sons have certainly enlisted in the struggles of time on the side of the supreme forces and divine personalities of eternity; even the stars in their courses are now doing battle for them; at last they gaze upon the universe from within, from God's viewpoint, and all is transformed from the uncertainties of material isolation to the sureties of eternal spiritual progression._” (<a id="a114_705"></a>[UB 101:10.9](/en/The_Urantia_Book/101#p10_9))
 
 One meaning of universal creation is, it can lead to insight into the Father's eternal purposes, one of which is, in my opinion, the maximization of the experientialization of love, for God _is_ LOVE.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Robert_Schuer/An_Eye_to_the_Keyhole_of_Eternity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">An Eye to the Keyhole of Eternity</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Francyl_Streano_Gawryn/Discovering_Cosmic_Meanings_through_Personal_Story_and_Song">
+          <span class="pr-2">Discovering Cosmic Meanings through Personal Story and Song</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

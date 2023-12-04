@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Jeff Wattles<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/A_framework_and_philosophy_for_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A framework and philosophy for education</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1981-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1981 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The spiritual renaissance on our planet is like a series of four waves on a lake, emanating from a common center, expanding to realize the brotherhood of man. A freshened quest for truth, beauty, and goodness ripples through the experience of many a humanist. Strong currents of monotheistic devotion stir the souls of countless spiritual descendants of Melchizedek's gospel. Many Christians are seeking and finding the water of life, the true spirit of the Master's gift to us. And the movement of students of _The URANTIA Book_ carries the potential to integrate these concentric circles of realization. The purpose of this essay is to enhance our understanding and our brotherhood with Muslims.
 
@@ -58,3 +79,24 @@ Finally, let us refresh our sense of brotherhood with sincere Muslims with some 
 
 — _Jeffrey Wattles_
 _Berkeley, California_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sara_Blackstock/A_framework_and_philosophy_for_education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A framework and philosophy for education</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1981-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1981 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Renewing and revitalizing society</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Victoria_Urban/The_seraphim">
+          <span class="pr-2">The seraphim</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 A Christian, no matter how modern in viewpoint, should be open to the fact that God's creation extends beyond his comprehension or experience, Because of this, and because angels have been part of scripture and teaching throughout the years, a Christian is open to the possibility that angels exist and that they serve a special function in creation.
 
@@ -21,3 +45,27 @@ The basic meaning of angel is a messenger of God. Most modern Christians experie
 A Christian's goal in life is to become what God means him to be. Any person or experience that helps us on our way can be an “angel” of God.
 
 — _Anonymous_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Renewing and revitalizing society</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Victoria_Urban/The_seraphim">
+          <span class="pr-2">The seraphim</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

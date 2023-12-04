@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 John M. Andrews<br>© 1986 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1986_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">September 1986 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Why">
+          <span class="pr-2">Why?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It seems to me that we all construct a philosophy of living of one sort or another. It's part of the natural mental function of integrating our expanding consciousness. The great _challenge_ is to construct one with certain characteristics and based upon certain concepts. And the great promise is that such a philosophy of living will mightily help in furthering the religious evolution of all mankind, and in a way that the book cannot do by itself and that we cannot do without the book.
 
@@ -38,3 +62,27 @@ So let us love to learn of God, and let us learn to love each other. And out of 
 
 — _John Andrews_
 _Juneau, Alaska_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1986_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">September 1986 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Dick_Bain/Why">
+          <span class="pr-2">Why?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

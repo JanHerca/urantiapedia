@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Charles Laurence Olivea, John Lange<br>© 1986 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="pr-2">The spirit level of reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Spirit Level Of Reality
 
@@ -34,5 +55,27 @@ _Fort Smith, Arkansas_
 
 ---
 
-> “_Truth is a spiritual reality value experienced only by spirit-endowed beings who function upon supermaterial levels of universe consciousness, and who, after the realization of truth, permit its spirit of activation to live and reign within their souls._” ([UB 180:5.3](/en/The_Urantia_Book/180#p5_3))
+> “_Truth is a spiritual reality value experienced only by spirit-endowed beings who function upon supermaterial levels of universe consciousness, and who, after the realization of truth, permit its spirit of activation to live and reign within their souls._” (<a id="a57_261"></a>[UB 180:5.3](/en/The_Urantia_Book/180#p5_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Charles_Laurence_Olivea/The_spirit_level_of_reality">
+          <span class="pr-2">The spirit level of reality</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

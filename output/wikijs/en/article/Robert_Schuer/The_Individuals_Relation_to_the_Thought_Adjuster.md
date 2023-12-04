@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Robert Schuer<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principles Of Knowing Gods Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Hunt/Spiritual_Mind_Receptivity">
+          <span class="pr-2">Spiritual Mind Receptivity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 I see before me today a rather representative group of Andon and Fonta's descendants. You have come from practically every state of these United States and from several foreign countries. Each one of you is indwelt by a Thought Adjuster and each one of you has the gift of Jesus' Spirit of Truth. Each one of you is engaged in the tremendous adventure of knowing and doing the Father's will. Each one of you has traversed part of the course or life plan prepared for you by your Adjuster and continually illuminated by him for you. With your consent and by your decisions he is gradually unraveling it before your eyes of faith. Already, by loving service, you are adjusting the ancestral tendencies of living to the demands of the spiritual urges initiated by the divine presence of the Mystery Monitor.
 
@@ -37,3 +61,27 @@ Finally, before leaving. I have to tell you in the words of _The URANTIA Book_ t
 
 — _Robert Schuer_
 _New Lexington, Ohio_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Harry_McMullan_III/Principles_Of_Knowing_Gods_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Principles Of Knowing Gods Will</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Bob_Hunt/Spiritual_Mind_Receptivity">
+          <span class="pr-2">Spiritual Mind Receptivity</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

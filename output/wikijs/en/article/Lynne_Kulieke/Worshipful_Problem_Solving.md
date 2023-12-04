@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Lynne Kulieke<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worshipful Problem Solving</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="pr-2">Everyday Ethics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Lynne Kulieke
 
@@ -18,29 +42,29 @@ I choose to begin today's examination of the topic with some selected passages f
 
 Let's commence with a study of the nature of worship. We are informed:
 
-> Worship is a personal communion with that which is divinely real, with that which is the very source of reality. ([UB 196:3.22](/en/The_Urantia_Book/196#p3_22))
+> Worship is a personal communion with that which is divinely real, with that which is the very source of reality. (<a id="a44_116"></a>[UB 196:3.22](/en/The_Urantia_Book/196#p3_22))
 
-> Worship [is] the sincere pursuit of divine values and the wholehearted love of the divine ValueGiver. ([UB 16:8.14](/en/The_Urantia_Book/16#p8_14))
+> Worship [is] the sincere pursuit of divine values and the wholehearted love of the divine ValueGiver. (<a id="a46_105"></a>[UB 16:8.14](/en/The_Urantia_Book/16#p8_14))
 
-> Worship is the conscious and joyous act of recognizing and acknowledging the truth and fact of the intimate and personal relationships of the Creators with their creatures. ([UB 27:7.1](/en/The_Urantia_Book/27#p7_1))
+> Worship is the conscious and joyous act of recognizing and acknowledging the truth and fact of the intimate and personal relationships of the Creators with their creatures. (<a id="a48_176"></a>[UB 27:7.1](/en/The_Urantia_Book/27#p7_1))
 
-> Only personalities can commune with each other, albeit this personal communion may be greatly facilitated by the presence of just such an impersonal entity as the Thought Adjuster...[and]only a person can love and be loved. ([UB 1:7.1](/en/The_Urantia_Book/1#p7_1))
+> Only personalities can commune with each other, albeit this personal communion may be greatly facilitated by the presence of just such an impersonal entity as the Thought Adjuster...[and]only a person can love and be loved. (<a id="a50_227"></a>[UB 1:7.1](/en/The_Urantia_Book/1#p7_1))
 
-> Worship is...the act of the material mind's assenting to the attempt of its spiritualizing self, under the guidance of the associated spirit, to com municate with God as a faith son of the Universal Father. ([UB 5:3.8](/en/The_Urantia_Book/5#p3_8))
+> Worship is...the act of the material mind's assenting to the attempt of its spiritualizing self, under the guidance of the associated spirit, to com municate with God as a faith son of the Universal Father. (<a id="a52_210"></a>[UB 5:3.8](/en/The_Urantia_Book/5#p3_8))
 
 There is a dynamic here which I have chosen to emphasize through the arrangement of the citations. Notice we begin with a rather general statement about the worship of God as the source of reality, but it becomes readily apparent that with the choice of the word “communion” as an alternative for “worship,” the activity takes on meaning and reality for us as time-space mortals only inasmuch as it is personal, and most significantly, as it makes forever clear that personal relationship illuminated by Michael's bestowal on earth, the loving relationship of Father and child.
 
-> The Father desires all his creatures to be in personal communion with him...Therefore settle in your philosophy now and forever: To each of you and all of us, God is approachable, the Father is attainable, the way is open.... ([UB 5:1.8](/en/The_Urantia_Book/5#p1_8))
+> The Father desires all his creatures to be in personal communion with him...Therefore settle in your philosophy now and forever: To each of you and all of us, God is approachable, the Father is attainable, the way is open.... (<a id="a56_229"></a>[UB 5:1.8](/en/The_Urantia_Book/5#p1_8))
 
-> Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the everpresent possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self. ([UB 5:1.3](/en/The_Urantia_Book/5#p1_3))
+> Although the approach to the Paradise presence of the Father must await your attainment of the highest finite levels of spirit progression, you should rejoice in the recognition of the everpresent possibility of immediate communion with the bestowal spirit of the Father so intimately associated with your inner soul and your spiritualizing self. (<a id="a58_350"></a>[UB 5:1.3](/en/The_Urantia_Book/5#p1_3))
 
-> The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. ([UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
+> The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind. (<a id="a60_131"></a>[UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
 
-> But there are other universe difficulties [which] must be met and planetary obstacles [which] must be encountered as a part of the experience training provided for the growth and development, the progressive perfection, of the evolving souls of mortal creatures. ([UB 154:2.5](/en/The_Urantia_Book/154#p2_5))
+> But there are other universe difficulties [which] must be met and planetary obstacles [which] must be encountered as a part of the experience training provided for the growth and development, the progressive perfection, of the evolving souls of mortal creatures. (<a id="a62_266"></a>[UB 154:2.5](/en/The_Urantia_Book/154#p2_5))
 
-> Of all the problems in the universe requiring an exercise of consummate wisdom of experience and adaptability, none are more important than those arising out of the relationships and associations of intelligent beings. ([UB 28:5.13](/en/The_Urantia_Book/28#p5_13))
+> Of all the problems in the universe requiring an exercise of consummate wisdom of experience and adaptability, none are more important than those arising out of the relationships and associations of intelligent beings. (<a id="a64_222"></a>[UB 28:5.13](/en/The_Urantia_Book/28#p5_13))
 
-Still, we are reminded that worship is, as I remarked at the beginning, for its own sake; prayer embodies a self- or creature-interest element; that is the great difference between worship and prayer. There is absolutely no self-request or other element of personal interest in true worship; we simply worship God for what we comprehend him to be. Worship asks nothing and expects nothing for the worshiper. We do not worship the Father because of anything we may derive from such veneration (such as solutions to our problems); we render such devotion and engage in such worship as a natural and spontaneous reaction to the recognition of the Father's matchless personality and because of his lovable nature and adorable attributes. ([UB 5:3.3](/en/The_Urantia_Book/5#p3_3))
+Still, we are reminded that worship is, as I remarked at the beginning, for its own sake; prayer embodies a self- or creature-interest element; that is the great difference between worship and prayer. There is absolutely no self-request or other element of personal interest in true worship; we simply worship God for what we comprehend him to be. Worship asks nothing and expects nothing for the worshiper. We do not worship the Father because of anything we may derive from such veneration (such as solutions to our problems); we render such devotion and engage in such worship as a natural and spontaneous reaction to the recognition of the Father's matchless personality and because of his lovable nature and adorable attributes. (<a id="a66_735"></a>[UB 5:3.3](/en/The_Urantia_Book/5#p3_3))
 
 These remarks may be definitive, but more is required to understand why the authors dare, then, in another paper to use the word “worship” in combination with the words “problem solving,” Clearly the phrase suggests benefits, though unsought in moments of true worship, to be derived from communion with the Father. Rodan provides some enlightenment.
 
@@ -48,57 +72,57 @@ These remarks may be definitive, but more is required to understand why the auth
 > 
 > “I am deeply impressed with the custom of Jesus in going apart by himself to engage in these seasons of solitary survey of the problems of living; to seek for new stores of wisdom and energy for meeting the manifold demands of social service; to quicken and deepen the supreme purpose of living by actually subjecting the total personality to the consciousness of contacting with divinity; to grasp for possession of new and better methods of adjusting oneself to the ever-changing situation of living existence; to effect those vital reconstructions and readjustments of one's personal attitudes which are so essential to enhanced insight into everything worth while and real; and to do all of this with an eye single to the glory of God — to breathe in sincerity your Master's favorite prayer, ‘Not my will, but yours, be done.’”
 > 
-> “The worshipful practice of your Master brings that relaxation which renews the mind; that illumination which inspires the soul; that courage which enables one bravely to face one's problems; that self-understanding which obliterates debilitating fear; and that consciousness of union with divinity which equips man with the assurance that enables him to dare to be Godlike. The relaxation of worship, or spiritual communion as practiced by the Master, relieves tension, removes conflicts, and mightily augments the total resources of the personality.” ([UB 160:1.7-9](/en/The_Urantia_Book/160#p1_7))
+> “The worshipful practice of your Master brings that relaxation which renews the mind; that illumination which inspires the soul; that courage which enables one bravely to face one's problems; that self-understanding which obliterates debilitating fear; and that consciousness of union with divinity which equips man with the assurance that enables him to dare to be Godlike. The relaxation of worship, or spiritual communion as practiced by the Master, relieves tension, removes conflicts, and mightily augments the total resources of the personality.” (<a id="a74_556"></a>[UB 160:1.7-9](/en/The_Urantia_Book/160#p1_7))
 
-> The secret of [Jesus'] unparalleled religious life was this consciousness of the presence of God; and he attained it by intelligent prayer and sincere worship — unbroken communion with God — and not by leadings, voices, visions, or extraordinary religious practices. ([UB 196:0.10](/en/The_Urantia_Book/196#p0_10))
+> The secret of [Jesus'] unparalleled religious life was this consciousness of the presence of God; and he attained it by intelligent prayer and sincere worship — unbroken communion with God — and not by leadings, voices, visions, or extraordinary religious practices. (<a id="a76_270"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10))
 
-> Personal, spiritual religious experience is an efficient solvent for most mortal difficulties; it is an effective sorter, evaluator, and adjuster of all human problems. Religion does not remove or destroy human troubles, but it does dissolve, absorb, illuminate, and transcend them. ([UB 196:3.1](/en/The_Urantia_Book/196#p3_1))
+> Personal, spiritual religious experience is an efficient solvent for most mortal difficulties; it is an effective sorter, evaluator, and adjuster of all human problems. Religion does not remove or destroy human troubles, but it does dissolve, absorb, illuminate, and transcend them. (<a id="a78_286"></a>[UB 196:3.1](/en/The_Urantia_Book/196#p3_1))
 
-> Sincere worship connotes the mobilization of all the powers of the human personality under the dominance of the evolving soul and subject to the divine directionization of the associated Thought Adjuster. ([UB 5:3.7](/en/The_Urantia_Book/5#p3_7))
+> Sincere worship connotes the mobilization of all the powers of the human personality under the dominance of the evolving soul and subject to the divine directionization of the associated Thought Adjuster. (<a id="a80_208"></a>[UB 5:3.7](/en/The_Urantia_Book/5#p3_7))
 
 It appears, after thoughtful contemplation of these passages that problems can be viewed altruistically as well as selfishly; they can even be viewed, on the highest level, with “an eye single to the glory of God.” I submit, then, that the soul's attitude in identifying and confronting problems is pivotal to our understanding of the role of worship in their solution. If our God is occasionally too small (meaning our understanding of him, as J.B. Phillips contends), then our comprehension of the nature of our problems may be just a trifle small, also. They may merely be petty and largely fictitious grievances, hardly worthy of consideration.
 
 Let us now turn our attention to the contribution of the Thought Adjuster in our development, specifically to the role he plays in the cultivation of the habit under discussion today. I think here we begin to find how worshipful problem solving is initiated, enhanced, and ultimately made a firm part of our being and also exactly how important it is that we assent to and cooperate in this process.
 
-> Religious experience, being essentially spiritual, can never be fully understood by the material mind; hence the function of theology, the psychology of religion. The essential doctrine of the human realization of God creates a paradox in finite comprehension. It is well-nigh impossible for human logic and finite reason to harmonize the concept of divine immanence, God within and a part of every individual, with the idea of God's transcendence, the divine domination of the universe of universes. These two essential concepts of Deity must be unified in the faith-grasp of the concept of the transcendence of a personal God and in the realization of the indwelling presence of a fragment of that God in order to justify intelligent worship and validate the hope of personality survival. ([UB 5:5.6](/en/The_Urantia_Book/5#p5_6))
+> Religious experience, being essentially spiritual, can never be fully understood by the material mind; hence the function of theology, the psychology of religion. The essential doctrine of the human realization of God creates a paradox in finite comprehension. It is well-nigh impossible for human logic and finite reason to harmonize the concept of divine immanence, God within and a part of every individual, with the idea of God's transcendence, the divine domination of the universe of universes. These two essential concepts of Deity must be unified in the faith-grasp of the concept of the transcendence of a personal God and in the realization of the indwelling presence of a fragment of that God in order to justify intelligent worship and validate the hope of personality survival. (<a id="a86_794"></a>[UB 5:5.6](/en/The_Urantia_Book/5#p5_6))
 
-> However Urantia mortals may differ in their intellectual, social, economic, and even moral opportunities and endowments, forget not that their spiritual endowment is uniform and unique. They all enjoy the same divine presence of the gift from the Father, and they are all equally privileged to seek intimate personal communion with this indwelling spirit of divine origin, while they may all equally choose to accept the uniform spiritual leading of these Mystery Monitors. ([UB 5:1.5](/en/The_Urantia_Book/5#p1_5))
+> However Urantia mortals may differ in their intellectual, social, economic, and even moral opportunities and endowments, forget not that their spiritual endowment is uniform and unique. They all enjoy the same divine presence of the gift from the Father, and they are all equally privileged to seek intimate personal communion with this indwelling spirit of divine origin, while they may all equally choose to accept the uniform spiritual leading of these Mystery Monitors. (<a id="a88_477"></a>[UB 5:1.5](/en/The_Urantia_Book/5#p1_5))
 
-> Adjusters are interested in, and concerned with, your daily doings and the manifold details of your life just to the extent that these are influential in the determination of your significant temporal choices and vital spiritual decisions and, hence, are factors in the solution of your problem of soul survival and eternal progress. ([UB 110:1.4](/en/The_Urantia_Book/110#p1_4))
+> Adjusters are interested in, and concerned with, your daily doings and the manifold details of your life just to the extent that these are influential in the determination of your significant temporal choices and vital spiritual decisions and, hence, are factors in the solution of your problem of soul survival and eternal progress. (<a id="a90_337"></a>[UB 110:1.4](/en/The_Urantia_Book/110#p1_4))
 
 Now, that's a problem that merits attention, but it is still, in a manner of speaking, selfish. After all, religion is not a technique for attaining a static and blissful peace of mind; it is an impulse for organizing the soul for dynamic service. We can include now a consideration of the noblest ends accomplished by true worship.
 
-> Worship is the technique of looking to the One for the inspiration of service to the many. ([UB 143:7.6](/en/The_Urantia_Book/143#p7_6))
+> Worship is the technique of looking to the One for the inspiration of service to the many. (<a id="a94_94"></a>[UB 143:7.6](/en/The_Urantia_Book/143#p7_6))
 
-> The spirit of the Father speaks best to man when the human mind is in an attitude of true worship. ([UB 146:2.17](/en/The_Urantia_Book/146#p2_17))
+> The spirit of the Father speaks best to man when the human mind is in an attitude of true worship. (<a id="a96_102"></a>[UB 146:2.17](/en/The_Urantia_Book/146#p2_17))
 
-> By opening the human end of the channel of the God-man communication, mortals make immediately available the ever-flowing stream of divine ministry to the creatures of the worlds. ([UB 146:2.4](/en/The_Urantia_Book/146#p2_4))
+> By opening the human end of the channel of the God-man communication, mortals make immediately available the ever-flowing stream of divine ministry to the creatures of the worlds. (<a id="a98_183"></a>[UB 146:2.4](/en/The_Urantia_Book/146#p2_4))
 
-> Prayer may enrich the life, but worship illuminates destiny. ([UB 102:4.5](/en/The_Urantia_Book/102#p4_5))
+> Prayer may enrich the life, but worship illuminates destiny. (<a id="a100_64"></a>[UB 102:4.5](/en/The_Urantia_Book/102#p4_5))
 
-> Worship is intended to anticipate the better life ahead and then to reflect these new spiritual significances back onto the life which now is. ([UB 143:7.5](/en/The_Urantia_Book/143#p7_5))
+> Worship is intended to anticipate the better life ahead and then to reflect these new spiritual significances back onto the life which now is. (<a id="a102_146"></a>[UB 143:7.5](/en/The_Urantia_Book/143#p7_5))
 
-It appears that worship of the Father, under the guidance of the Thought Adjuster, can enhance the altruistic urge in God-knowing mortals. As they adore the Father, they cannot fail to become impressed by the beauty and goodness of his loving nature and (as a result), as Jesus taught, become increasingly like the being who is worshiped. It follows then that the children of the Universal Father will attempt to emulate his perfection in their own sphere and serve others as generously as he bestows himself on them. ([UB 146:2.17](/en/The_Urantia_Book/146#p2_17)) How often do we hear Jesus exhort his followers, “Be you perfect even as your Father in heaven is perfect”? ([UB 161:1.10](/en/The_Urantia_Book/161#p1_10))
+It appears that worship of the Father, under the guidance of the Thought Adjuster, can enhance the altruistic urge in God-knowing mortals. As they adore the Father, they cannot fail to become impressed by the beauty and goodness of his loving nature and (as a result), as Jesus taught, become increasingly like the being who is worshiped. It follows then that the children of the Universal Father will attempt to emulate his perfection in their own sphere and serve others as generously as he bestows himself on them. (<a id="a104_519"></a>[UB 146:2.17](/en/The_Urantia_Book/146#p2_17)) How often do we hear Jesus exhort his followers, “Be you perfect even as your Father in heaven is perfect”? (<a id="a104_675"></a>[UB 161:1.10](/en/The_Urantia_Book/161#p1_10))
 
-> The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the will of the Father in heaven. His second greatest exhortation was ever to seek to do the will of the Father. ([UB 196:0.2](/en/The_Urantia_Book/196#p0_2))
+> The human Jesus saw God as being holy, just, and great, as well as being true, beautiful, and good. All these attributes of divinity he focused in his mind as the will of the Father in heaven. His second greatest exhortation was ever to seek to do the will of the Father. (<a id="a106_275"></a>[UB 196:0.2](/en/The_Urantia_Book/196#p0_2))
 
-> “The will of God is the way of God,” he said. “To do the will of God, therefore, is the progressive experience of becoming more and more like God.” ([UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
+> “The will of God is the way of God,” he said. “To do the will of God, therefore, is the progressive experience of becoming more and more like God.” (<a id="a108_151"></a>[UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
 
 The demonstration that believers are moved by the supreme human desire is to be found in the lives they live.
 
-> Spiritual development depends, first, on the maintenance of a living spiritual connection with true spiritual forces and, second, on the continuous bearing of spiritual fruit. ([UB 100:2.1](/en/The_Urantia_Book/100#p2_1))
+> Spiritual development depends, first, on the maintenance of a living spiritual connection with true spiritual forces and, second, on the continuous bearing of spiritual fruit. (<a id="a112_179"></a>[UB 100:2.1](/en/The_Urantia_Book/100#p2_1))
 
-> The proof of fraternity with the divine Adjuster consists wholly in the nature and extent of the fruits of the spirit which are yielded in the life experience of the individual believer. ([UB 5:2.4](/en/The_Urantia_Book/5#p2_4))
+> The proof of fraternity with the divine Adjuster consists wholly in the nature and extent of the fruits of the spirit which are yielded in the life experience of the individual believer. (<a id="a114_190"></a>[UB 5:2.4](/en/The_Urantia_Book/5#p2_4))
 
-> The evidence of true spiritual development consists in the exhibition of a human personality motivated by love, activated by unselfish ministry, and dominated by the wholehearted worship of the perfection ideals of divinity. ([UB 100:2.2](/en/The_Urantia_Book/100#p2_2))
+> The evidence of true spiritual development consists in the exhibition of a human personality motivated by love, activated by unselfish ministry, and dominated by the wholehearted worship of the perfection ideals of divinity. (<a id="a116_228"></a>[UB 100:2.2](/en/The_Urantia_Book/100#p2_2))
 
-> The fruits of the spirit are worthy of enumeration. They are loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. ([UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
+> The fruits of the spirit are worthy of enumeration. They are loving service, unselfish devotion, courageous loyalty, sincere fairness, enlightened honesty, undying hope, confiding trust, merciful ministry, unfailing goodness, forgiving tolerance, and enduring peace. (<a id="a118_270"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2))
 
 The results of so living one's life as to bear these fruits is happiness, of which the book says we humans know relatively little:
 
-> Human happiness is achieved only when the ego desire of the self and the altruistic urge of the higher self [divine spirit] are co-ordinated and reconciled by the unified will of the integrating and supervising personality. ([UB 103:5.5](/en/The_Urantia_Book/103#p5_5))
+> Human happiness is achieved only when the ego desire of the self and the altruistic urge of the higher self [divine spirit] are co-ordinated and reconciled by the unified will of the integrating and supervising personality. (<a id="a122_227"></a>[UB 103:5.5](/en/The_Urantia_Book/103#p5_5))
 
-In this endeavor we have a magnificent partner: “_God has embarked upon the eternal adventure with man. If you yield to the leadings of the spiritual forces in you and around you, you cannot fail to attain the high destiny established by a loving God as the universe goal of his ascendant creatures from the evolutionary worlds of space._” ([UB 5:1.12](/en/The_Urantia_Book/5#p1_12))
+In this endeavor we have a magnificent partner: “_God has embarked upon the eternal adventure with man. If you yield to the leadings of the spiritual forces in you and around you, you cannot fail to attain the high destiny established by a loving God as the universe goal of his ascendant creatures from the evolutionary worlds of space._” (<a id="a124_341"></a>[UB 5:1.12](/en/The_Urantia_Book/5#p1_12))
 
 These selections from the book are powerful, they are definitive, they serve as pointers towards the truth; but until they are confirmed in and by experience, until they are lived, they cannot be truth for us. Faith must ever be active. Yet inasmuch as we have responded, if only to the extent signified by our presence here today, I hold that as an indication that we have already experienced in some small way the realities reported in the Urantia papers. The chord has been struck and it resounds with endless reverberations — we shall hear it through eternity.
 
@@ -119,3 +143,27 @@ I loved stories of all kinds and in all forms; I read voraciously even before I 
 There were, inevitably, some perplexities for a young child.
 
 My father was wont to quote Cullen Bryant, saying, “The groves were God's first temple,” and take me for walks among the trees, but my grandparents were rather adamant about a church with four walls and a steeple, to be entered preferably on a Sunday morning. Nevertheless, I was given to understand that it was always proper to seek out the Almighty. In our lives, God was first, and God was last, not to mention all that came in between. God even began every day and ended every day. At 9.00 every morning and evening in Zion, the carilion from the old college building only two blocks away would sound out, and everyone and everything would stop. It was God's moment. I don't believe I comprehended the full significance, but I stopped too, because it was clearly the thing to do. My most enduring memory is of the warm, summer twilights when I would be at play with my friends. At the first sound of the chimes, I would scamper towards the house with its lights, through the trees, just pinpoints like the first stars in the violet sky, and I would know that I could enter the front door or the back door or any one of the many side doors of my home to be enfolded in loving arms. All would be safe and secure and lovely as we listened to the carillon play “Sweet Hour of Prayer.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Carolyn_Kendall/Worshipful_Problem_Solving">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Worshipful Problem Solving</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Eileen_Laurence/Everyday_Ethics">
+          <span class="pr-2">Everyday Ethics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

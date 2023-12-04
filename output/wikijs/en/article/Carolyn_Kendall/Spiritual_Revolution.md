@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Carolyn Kendall<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sally_Schlundt/Revitalization_and_transformation_within_the_family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revitalization and transformation within the family</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
+          <span class="pr-2">The Commission to Minister — The way Jesus Taught us to relate to The Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 In an uncommonly eventful century, the advent of _The URANTIA Book_ will be recognized a thousand years from today as the most wonderful event of all. But here we are, twenty-six years into the greatest happening of the Twentieth Century and many of us are still uncertain about what the URANTIA movement is supposed to be, and further, what we, as believers in this new epochal revelation, are commissioned to do. Whether because of cultural habit or lack of spiritual courage, I think we sometimes confuse our secondary priorities with those that should be in first place.
 
@@ -34,11 +58,11 @@ Many URANTIA Book readers are convinced that every time they approach another re
 
 We should learn to tell the difference between the exterral displays, and the internal truth content of any religion. It would be wise, in my view, to acquire a sense of respect and tolerance for the pageants, the temples, and the sacred music of world religions. We must always assume that the forms used in religious services were designed and dedicated to the glory of God. The majority of the world's people seem to require material stimulants to spiritual growth.
 
-It isn't fair to evaluate a religion by its outward rituals and trappings, but you can use this yardstick: “_The truth and maturity of any religion is directly proportional to its concept of the infinite personality of God..._”" ([UB 1:5.10](/en/The_Urantia_Book/1#p5_10)) The best way to measure — not judge — but measure spirituality in an individual is by the fruits of the divine spirit that are demonstrated in his daily life.
+It isn't fair to evaluate a religion by its outward rituals and trappings, but you can use this yardstick: “_The truth and maturity of any religion is directly proportional to its concept of the infinite personality of God..._”" (<a id="a60_230"></a>[UB 1:5.10](/en/The_Urantia_Book/1#p5_10)) The best way to measure — not judge — but measure spirituality in an individual is by the fruits of the divine spirit that are demonstrated in his daily life.
 
-Consider these two examples: First, many sects and cults claim to have their origin in a divine revelation to an individual. Some of these visitations later prove to have been hoaxes or self-deceived frauds. Nevertheless, the believers are still spiritually uplifted, and exude an aura of goodness and love. The Thought Adjuster is able to counter-part the spiritual values that are acquired for permanent registration in the soul. Another example is Buddhism. Buddhism at this time has not quite evolved a personal God concept, but yet, the book says that “_Those who believe this philosophy live better lives than many who do not._” ([UB 94:9.6](/en/The_Urantia_Book/94#p9_6))
+Consider these two examples: First, many sects and cults claim to have their origin in a divine revelation to an individual. Some of these visitations later prove to have been hoaxes or self-deceived frauds. Nevertheless, the believers are still spiritually uplifted, and exude an aura of goodness and love. The Thought Adjuster is able to counter-part the spiritual values that are acquired for permanent registration in the soul. Another example is Buddhism. Buddhism at this time has not quite evolved a personal God concept, but yet, the book says that “_Those who believe this philosophy live better lives than many who do not._” (<a id="a62_636"></a>[UB 94:9.6](/en/The_Urantia_Book/94#p9_6))
 
-One way to enhance personal relationships with other religionists is to remember that revelation has often brought “_...autocratic and intolerant theologic egotism..._” ([UB 94:9.6](/en/The_Urantia_Book/94#p9_6)) There are millions of spiritual souls out in the world who do very well without the aid of an up-to-date revelation. In Ravensbruk Concentration Camp, Betsie, the sister of Corrie Ten Boom, prayed constantly. She even thanked God for the lice and the fleas that infested their wretched hellhole. Later the women learned the reason the guards never intruded in their barracks was because of the lice and the fleas. The women prisoners were therefore free to read their Bibles and to pray without interference.
+One way to enhance personal relationships with other religionists is to remember that revelation has often brought “_...autocratic and intolerant theologic egotism..._” (<a id="a64_170"></a>[UB 94:9.6](/en/The_Urantia_Book/94#p9_6)) There are millions of spiritual souls out in the world who do very well without the aid of an up-to-date revelation. In Ravensbruk Concentration Camp, Betsie, the sister of Corrie Ten Boom, prayed constantly. She even thanked God for the lice and the fleas that infested their wretched hellhole. Later the women learned the reason the guards never intruded in their barracks was because of the lice and the fleas. The women prisoners were therefore free to read their Bibles and to pray without interference.
 
 Perhaps you do have more facts and truth than the other person; but perhaps she has more faith than you. You can become a borrower of someone else's living faith.
 
@@ -56,21 +80,21 @@ To a greater or lesser degree, all religions are striving for the betterment of 
 
 Most URANTIA Book readers have ideas about how the book could be presented to religions, Christianity, in particular. First, let's review a little history:
 
-The fourth epochal revelation — the coming of Christ Michael — was bestowed directly upon the group that had the most advanced concept of the One God. They were the Jews of 2000 years ago. For a while after Pentecost the believers in Jesus continued “_...as a sect within the Jewish faith._” ([UB 194:4.12](/en/The_Urantia_Book/194#p4_12)) Then the apostles began receiving a flood of converts from among the Greeks. The apostles, who were Jewish, were faced with the question of how to deal with these non-Jewish proselytes. _The URANTIA Book_ says that “_...the apostles at first endeavored to impose the requirements of Judaism upon their converts._” (2064.2) Converts were forced to observe dietary laws and hygienic practices until Paul put an end to it.
+The fourth epochal revelation — the coming of Christ Michael — was bestowed directly upon the group that had the most advanced concept of the One God. They were the Jews of 2000 years ago. For a while after Pentecost the believers in Jesus continued “_...as a sect within the Jewish faith._” (<a id="a82_293"></a>[UB 194:4.12](/en/The_Urantia_Book/194#p4_12)) Then the apostles began receiving a flood of converts from among the Greeks. The apostles, who were Jewish, were faced with the question of how to deal with these non-Jewish proselytes. _The URANTIA Book_ says that “_...the apostles at first endeavored to impose the requirements of Judaism upon their converts._” (2064.2) Converts were forced to observe dietary laws and hygienic practices until Paul put an end to it.
 
 The fifth epochal revelation — The URANTIA Papers — originally found lodgement among a group of people who not only carried on the One God tradition, but who also had the best version of the life and teachings of Jesus — the Christians. Most of the current readers of _The URANTIA Book_ are Christian, or come from Christian backgrounds. Just as the apostles grew up in Jewish homes, so did many of us grow up surrounded by Christian customs. What would be more natural than to transfer familiar usages into URANTIA Brotherhood and URANTIA Society activities? “Why not,” you ask, “let the movement conform to the pattern of the Christian churches? Why shouldn't it become a branch of the Christian family of religions? After all, doesn't one third of the book consist of the life of Jesus? If we conducted ourselves more like a Christian organization,” you reason, “wouldn't we be more appealing to ‘other’ Christians?”
 
-Was Jesus' message of faith and salvation intended to remain exclusively in the possession of the Jewish people? Of course it wasn't! Here's a lesson from the past we can apply to today: The Greeks and Romans of the first century were ready for the One God concept. Judaism had the One God. But Judaism was not appealing to the gentiles because it consisted of a complex system of laws and customs. The simple message of the loving heavenly Father came along, carried by the early Christians. It was much more acceptable, and was quickly adopted by the Greeks and Romans. ([UB 195:3.1](/en/The_Urantia_Book/195#p3_1))
+Was Jesus' message of faith and salvation intended to remain exclusively in the possession of the Jewish people? Of course it wasn't! Here's a lesson from the past we can apply to today: The Greeks and Romans of the first century were ready for the One God concept. Judaism had the One God. But Judaism was not appealing to the gentiles because it consisted of a complex system of laws and customs. The simple message of the loving heavenly Father came along, carried by the early Christians. It was much more acceptable, and was quickly adopted by the Greeks and Romans. (<a id="a86_573"></a>[UB 195:3.1](/en/The_Urantia_Book/195#p3_1))
 
-Modern Christianity is described in three places in the book ([UB 92:6.18](/en/The_Urantia_Book/92#p6_18), [UB 195:0.3](/en/The_Urantia_Book/195#p0_3), and [UB 98:7.2](/en/The_Urantia_Book/98#p7_2)) as having become so Occidentalized with the cultural patterns of the white races that the Christianized version of Jesus' teachings is virtually unacceptable to the other races and religions of today.
+Modern Christianity is described in three places in the book (<a id="a88_62"></a>[UB 92:6.18](/en/The_Urantia_Book/92#p6_18), <a id="a88_107"></a>[UB 195:0.3](/en/The_Urantia_Book/195#p0_3), and <a id="a88_156"></a>[UB 98:7.2](/en/The_Urantia_Book/98#p7_2)) as having become so Occidentalized with the cultural patterns of the white races that the Christianized version of Jesus' teachings is virtually unacceptable to the other races and religions of today.
 
-We are commissioned ([UB 94:12.7](/en/The_Urantia_Book/94#p12_7) and 2090) to present this newly revealed vision of the life and teachings of Jesus to Christianity, and we must applaud any prudent efforts to bring further enlightenment to Christianity. However, this imperative also includes the injunction to take the message of Michael to Buddhism, to Hinduism, and to peoples of all faiths.
+We are commissioned (<a id="a90_21"></a>[UB 94:12.7](/en/The_Urantia_Book/94#p12_7) and 2090) to present this newly revealed vision of the life and teachings of Jesus to Christianity, and we must applaud any prudent efforts to bring further enlightenment to Christianity. However, this imperative also includes the injunction to take the message of Michael to Buddhism, to Hinduism, and to peoples of all faiths.
 
-Whether we go to them, or whether they come to us, I believe that the Jews, the Muslims, or the Buddhists of today should not have to take on the coloration of neoChristianity to join the fellowship of URANTIA Book readers. They should not have to hurdle our ingrained cultural patterns. The book warns that: “_No revealed religion can spread to all the world when it makes the serious mistake of becoming permeated with some national culture or associated with established racial, social, or economic practices._” ([UB 194:3.9](/en/The_Urantia_Book/194#p3_9)) The best hope of spreading the teachings to the greatest number of people is to keep them free of any connection with any religious group. To identify _The URANTIA Book_ with one system of thought will close the doors of acceptance to all others.
+Whether we go to them, or whether they come to us, I believe that the Jews, the Muslims, or the Buddhists of today should not have to take on the coloration of neoChristianity to join the fellowship of URANTIA Book readers. They should not have to hurdle our ingrained cultural patterns. The book warns that: “_No revealed religion can spread to all the world when it makes the serious mistake of becoming permeated with some national culture or associated with established racial, social, or economic practices._” (<a id="a92_516"></a>[UB 194:3.9](/en/The_Urantia_Book/194#p3_9)) The best hope of spreading the teachings to the greatest number of people is to keep them free of any connection with any religious group. To identify _The URANTIA Book_ with one system of thought will close the doors of acceptance to all others.
 
 Possibly the most vital question we should be asking is this: What is it we should actually be introducing, or “mainstreaming” to other cultures and to world religions?
 
-Note carefully: when they write about carrying the message of Jesus to the religions of Christianity, Hinduism, Buddhism, and all others, they never, anywhere, imply that the entire revelation — the complete system of thought that is _The URANTIA Book_ — should necessarily be introduced to those religions. They emphasize the message of Jesus; the gospel of Jesus. ([UB 195:10.18](/en/The_Urantia_Book/195#p10_18), [UB 94:12.5](/en/The_Urantia_Book/94#p12_5), [UB 196:1.2](/en/The_Urantia_Book/196#p1_2), and [UB 170:5.20](/en/The_Urantia_Book/170#p5_20)) Too often, I think we confuse the _book_ with the _gospel_.
+Note carefully: when they write about carrying the message of Jesus to the religions of Christianity, Hinduism, Buddhism, and all others, they never, anywhere, imply that the entire revelation — the complete system of thought that is _The URANTIA Book_ — should necessarily be introduced to those religions. They emphasize the message of Jesus; the gospel of Jesus. (<a id="a96_367"></a>[UB 195:10.18](/en/The_Urantia_Book/195#p10_18), <a id="a96_416"></a>[UB 94:12.5](/en/The_Urantia_Book/94#p12_5), <a id="a96_461"></a>[UB 196:1.2](/en/The_Urantia_Book/196#p1_2), and <a id="a96_510"></a>[UB 170:5.20](/en/The_Urantia_Book/170#p5_20)) Too often, I think we confuse the _book_ with the _gospel_.
 
 ## Readiness For The Revelation
 
@@ -78,7 +102,7 @@ A few individuals are aggressively searching for new answers to age-old question
 
 ## Spiritual Revolutionaries
 
-The fifth epochal revelation has arrived during one of the most unstable periods in human history. There needs to be a new force on this planet. The forces of evil have usually been better organized than the agencies of good. The organizations of disunity are more direct than the movements of amity. There is no reason at all why this has to be. We know we must not “_... make the mistake of fighting evil with its own weapons._” ([UB 140:8.7](/en/The_Urantia_Book/140#p8_7)) But spiritual power can be as invincible as the forces of corruption. Conspiracies exist to carry out assignments of anarchy. Why can't there be conspiracies to incite a spiritual revolution? Progressive spiritual reformation can be just as well planned as the designs of destruction.
+The fifth epochal revelation has arrived during one of the most unstable periods in human history. There needs to be a new force on this planet. The forces of evil have usually been better organized than the agencies of good. The organizations of disunity are more direct than the movements of amity. There is no reason at all why this has to be. We know we must not “_... make the mistake of fighting evil with its own weapons._” (<a id="a104_432"></a>[UB 140:8.7](/en/The_Urantia_Book/140#p8_7)) But spiritual power can be as invincible as the forces of corruption. Conspiracies exist to carry out assignments of anarchy. Why can't there be conspiracies to incite a spiritual revolution? Progressive spiritual reformation can be just as well planned as the designs of destruction.
 
 A number of _URANTIA Book_ readers are conducting programs in which the teachings of the book are presented in an intriguing format. The book is not mentioned as the source of inspiration. Quotations or paraphrasings are not used. Aperitifs of truth are metered out in bite-sized portions. These spiritual revolutionaries are, in effect, assuming a combined role: They are multiple Melchizedeks, patterned on the forerunner of Michael's bestowal; they are a battalion of John the Baptists, performing as did the herald of Jesus mission. On his trip to Rome, Jesus, himself, prepared the religious leaders to receive the later-appearing fuller gospel. We are still in our trip-to-Rome stage. Those just mentioned individuals and groups that are detached from the official URANTIA organizations are performing wonders that the Brotherhood and societies would not dare to attempt today. They are laying the groundwork for the later appearing fuller revelation. There is room for many more workers in this field of endeavor. When the world settles down and begins the search for higher values, it will surely recognize the revelation, if we all do our work today.
 
@@ -92,11 +116,35 @@ The key to the spread of the revelation rests primarily with you. The world has 
 
 Beyond every other consideration, your mission is to introduce the Father to those who do not know him. Your imperative is to comfort them with the assurance of his watchcare and his desire to have them succeed in every worthwhile goal throughout eternity. In fact, if you don't make these courageous efforts to minister to your fellow men and women, history will look back and call you GOD'S FROZEN PEOPLE!
 
-Heed Jesus' advice to “_...ever be wise in your choice of methods for presenting the good news to the different races and tribes of mankind._” ([UB 191:4.4](/en/The_Urantia_Book/191#p4_4)) Tailor your ministry, Individualize your approach. Become sensitive to spiritual cravings. When you encounter someone in personal difficulty, don't simply give him a list of quotations, or even _The URANTIA Book_, without another word of cheer. Seize every opportunity for personal service.
+Heed Jesus' advice to “_...ever be wise in your choice of methods for presenting the good news to the different races and tribes of mankind._” (<a id="a118_144"></a>[UB 191:4.4](/en/The_Urantia_Book/191#p4_4)) Tailor your ministry, Individualize your approach. Become sensitive to spiritual cravings. When you encounter someone in personal difficulty, don't simply give him a list of quotations, or even _The URANTIA Book_, without another word of cheer. Seize every opportunity for personal service.
 
-Handing someone a brochure is not the same as preaching the gospel. _The URANTIA Book_ is very important; it is here to save souls. Read and study and learn the book, but the “gospel” is not a 2000 page book. The “gospel” is not that the book has arrived. In Jesus' own words: “_The fact that the dead rise is not the gospel of the kingdom._” ([UB 193:2.2](/en/The_Urantia_Book/193#p2_2)) The “gospel” is not that the universe is a gigantic ellipse, with Paradise at the center. The “gospel of truth” is not that the planet Urantia evolved through the vegetable and animal stages, had nine races, etc., etc., etc.
+Handing someone a brochure is not the same as preaching the gospel. _The URANTIA Book_ is very important; it is here to save souls. Read and study and learn the book, but the “gospel” is not a 2000 page book. The “gospel” is not that the book has arrived. In Jesus' own words: “_The fact that the dead rise is not the gospel of the kingdom._” (<a id="a120_344"></a>[UB 193:2.2](/en/The_Urantia_Book/193#p2_2)) The “gospel” is not that the universe is a gigantic ellipse, with Paradise at the center. The “gospel of truth” is not that the planet Urantia evolved through the vegetable and animal stages, had nine races, etc., etc., etc.
 
 The world will be ready for all of these facts in due time, but meanwhile, mankind still cries out to hear these truths: The “gospel” is that God is the Father of all mankind; that all men and women are the sons and daughters of the Father in heaven. They need have no more anxicty about their eternal future, because the “good news” is that right here on earth they are really beginning their ascent through the universe toward the goal of the Father on Paradise.
 
 — _Carolyn Kendall_
 _Wheeling, Illinois_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Sally_Schlundt/Revitalization_and_transformation_within_the_family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revitalization and transformation within the family</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1981-issue-special-conference-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1981 Issue - Special Conference Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Meredith_Sprunger/The_Commission_to_Minister_The_way_Jesus_Taught_us">
+          <span class="pr-2">The Commission to Minister — The way Jesus Taught us to relate to The Father</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Jim Johnston, Robert Faughum, Curt Cloninger, Stephen Zendt, Eileen Laurence<br>© 1987 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1987-issue-special-conference-double-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1987 Issue. Special Conference Double Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jim_Johnson/Be_you_perfect">
+          <span class="pr-2">Be you perfect</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 **Special Conference Double Issue**
 
@@ -21,7 +42,7 @@ The secret of transformation of the individual as well as the world is the visio
 
 The theme of this conference is “Personal Transformation and its Power to Transform the World.” The theme wasn't posed as a question, but rather as a statement. Can personal transformation, even the spiritual transformation of one individual, actually transform the world? I think that it can.
 
-One only need look at the life of Jesus in both his personal and public ministry, to see the influence of one spiritually transformed individual in the world. His apostles and followers, by virtue of his transforming life in this world, virtually “_...turned the whole Roman Empire upside down._” ([UB 195:6.9](/en/The_Urantia_Book/195#p6_9)) During his one visit to Rome, Jesus had an influence on the spiritual awakening of more people than most of us will have an influence on in a lifetime. The power of his mere presence was so profound that he merely had to smile upon people for them to experience renewed faith and encouragement.
+One only need look at the life of Jesus in both his personal and public ministry, to see the influence of one spiritually transformed individual in the world. His apostles and followers, by virtue of his transforming life in this world, virtually “_...turned the whole Roman Empire upside down._” (<a id="a44_298"></a>[UB 195:6.9](/en/The_Urantia_Book/195#p6_9)) During his one visit to Rome, Jesus had an influence on the spiritual awakening of more people than most of us will have an influence on in a lifetime. The power of his mere presence was so profound that he merely had to smile upon people for them to experience renewed faith and encouragement.
 
 [Read more](/en/article/Jim_Johnson/Be_you_perfect)
 
@@ -99,5 +120,27 @@ Just as we seem to lose faith in the awesome power of personal transformation to
 
 ---
 
-> “_The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh._” ([UB 195:10.6](/en/The_Urantia_Book/195#p10_6))
+> “_The call to the adventure of building a new and transformed human society by means of the spiritual rebirth of Jesus' brotherhood of the kingdom should thrill all who believe in him as men have not been stirred since the days when they walked about on earth as his companions in the flesh._” (<a id="a122_297"></a>[UB 195:10.6](/en/The_Urantia_Book/195#p10_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1987-issue-special-conference-double-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1987 Issue. Special Conference Double Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Jim_Johnson/Be_you_perfect">
+          <span class="pr-2">Be you perfect</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Probal Dasgupta<br>© 1989 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1989-issue-the-urantian-journal-is-renamed-here-as-“the-journal-of-the-fifth-epochal-fellowship”">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1989 Issue (The Urantian Journal is renamed here as “The Journal of the Fifth Epochal Fellowship”.) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Probal_Dasgupta/Beyond_Nondispute">
+          <span class="pr-2">Beyond Nondispute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 > _From the editors:_ Due to the termination by URANTIA Foundation of our license to use the words “URANTIA” and “URANTIAN” and the Concentric Circles symbol in our organizational activities and literature, we are publishing _The JOURNAL_ in this modified design. Inasmuch as this is a name change only and our publishing activities are ongoing, we will continue on with the Volume, Number, and Seasonal designations as before to insure that your subscription is uninterrupted. We apologize for any inconvenience this may cause you. Thank you.
 {.is-info}
@@ -24,5 +45,27 @@ _Hyderabad, India_
 
 ---
 
-> “_True religion is an insight into reality, the faith-child of the moral consciousness, and not a mere intellectual assent to any body of dogmatic doctrines. True religion consists in the experience that ‘the Spirit itself bears witness with our spirit that we are the children of God.’_” ([UB 101:2.13](/en/The_Urantia_Book/101#p2_13))
+> “_True religion is an insight into reality, the faith-child of the moral consciousness, and not a mere intellectual assent to any body of dogmatic doctrines. True religion consists in the experience that ‘the Spirit itself bears witness with our spirit that we are the children of God.’_” (<a id="a47_292"></a>[UB 101:2.13](/en/The_Urantia_Book/101#p2_13))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1989-issue-the-urantian-journal-is-renamed-here-as-“the-journal-of-the-fifth-epochal-fellowship”">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1989 Issue (The Urantian Journal is renamed here as “The Journal of the Fifth Epochal Fellowship”.) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Probal_Dasgupta/Beyond_Nondispute">
+          <span class="pr-2">Beyond Nondispute</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

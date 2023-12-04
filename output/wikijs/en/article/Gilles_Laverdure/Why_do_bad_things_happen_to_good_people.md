@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 Gilles Laverdure<br>© 1986 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Why does God let so many people suffer, and why does he allow sin to occur?
 
@@ -24,3 +45,24 @@ In conclusion, I would like to suggest that we can profit right now, during our 
 
 — _Gilles Laverdure_ 
 _Greenfield Park. Quêbec_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Dick_Bain/Why">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Why?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

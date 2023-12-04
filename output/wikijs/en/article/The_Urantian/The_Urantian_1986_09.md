@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1986 John M. Andrews, Dick Bain, Gilles Laverdure<br>© 1986 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_M_Andrews/The_religious_challenge_of_this_age">
+          <span class="pr-2">The religious challenge of this age</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## The Religious Challenge Of This Age
 
@@ -50,5 +71,27 @@ _Greenfield Park. Quêbec_
 
 ---
 
-> “_Physical status may handicap mind, and mental perversity may delay spiritual attainment, but none of these obstacles can defeat the whole-souled choice of will._” ([UB 65:8.5](/en/The_Urantia_Book/65#p8_5))
+> “_Physical status may handicap mind, and mental perversity may delay spiritual attainment, but none of these obstacles can defeat the whole-souled choice of will._” (<a id="a73_168"></a>[UB 65:8.5](/en/The_Urantia_Book/65#p8_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1986-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1986 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/John_M_Andrews/The_religious_challenge_of_this_age">
+          <span class="pr-2">The religious challenge of this age</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

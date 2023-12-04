@@ -9,12 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1975 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A message to the summer stuy session on loyalty and service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Greetings to the Soldiers of the Circles! This designation has been applied to us because we are the men and women who have been called to take the first steps in offering a new light to a frustrated church and a distracted world. We are the first light in nearly 2,000 years to illuminate the path of deliverance from the chaos, confusion, and darkness of the present planetary dilemma.
 
 But we are not soldiers bearing arms. We bear the good news of man's sonship with God — our Heavenly Father. W are entrusted with a great and unique responsibility — the custody, safeguarding, and dissemination of _The URANTIA Book_. The carrying out of this responsibility will require of all those who would take it up: self-discipline, dedication, and extraordinary efforts at co-operation. So may we all be valiant Soldiers of the Circles, wholeheartedly enlisted in the ranks of those mortals who shall go forward in the battle for truth against error under the unfaltering leadership of the mighty seraphic corps,
 
-> “_... (Our) mission among men is to proclaim the gospel of the kingdom — the reality of the fatherhood of God and the truth of the sonship of man. (We are to) proclaim the whole truth of the good news, not just a part of the saving gospel ... Sonship with God, by faith, is still the saving truth of the gospel of the kingdom. (We) are to go forth preaching the love of God and the service of man. That which the world needs most to know is: Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth. (Michael's) ... bestowal should help all men to know that they are the children of God, but such knowledge will not suffice if (we) fail personally to faith-grasp the saving truth that (we) are the living spirit sons of the eternal Father. The gospel of the kingdom is concerned with the love of the Father and the service of his children on earth._” ([UB 193:0.4](/en/The_Urantia_Book/193#p0_4))
+> “_... (Our) mission among men is to proclaim the gospel of the kingdom — the reality of the fatherhood of God and the truth of the sonship of man. (We are to) proclaim the whole truth of the good news, not just a part of the saving gospel ... Sonship with God, by faith, is still the saving truth of the gospel of the kingdom. (We) are to go forth preaching the love of God and the service of man. That which the world needs most to know is: Men are the sons of God, and through faith they can actually realize, and daily experience, this ennobling truth. (Michael's) ... bestowal should help all men to know that they are the children of God, but such knowledge will not suffice if (we) fail personally to faith-grasp the saving truth that (we) are the living spirit sons of the eternal Father. The gospel of the kingdom is concerned with the love of the Father and the service of his children on earth._” (<a id="a37_910"></a>[UB 193:0.4](/en/The_Urantia_Book/193#p0_4))
 
 Let all mankind benefit from the overflow of our loving spiritual ministry, enlightening intellectual communion, and uplifting social service; but none of these humanitarian labors, nor all of them, should be permitted to take the place of proclaiming the gospel. These mighty ministrations are the social by-products of the still more mighty and sublime ministrations and transformations wrought in the heart of the kingdom believer by the Spirit of Truth and by the personal realization that the faith of a spirit-born soul confers the assurance of living fellowship with the eternal God.
 
@@ -26,7 +47,7 @@ We are afforded the opportunity of playing a significant part in helping Urantia
 
 We are in the business of making this a better world. Why not strive to make this the best world in all Satania? Jesus lived here. What a pleasure it would be for him to know that this is the goal we have chosen for ourselves.
 
-Picture just a moment the whole panorama of the planetary stage whereon we are now to play our part. To begin with, our planet is an experimental one, certain experiments having succeeded, others having failed. It had been assumed that certain of these failures would be offset by the normal epochal revelations of a planet. However, the Caligastia upheaval and the Adamic default further complicated and compounded what were already unusual problems. Ours is a long history of planetary savagery and retardation. The accumulated mortal propensities were even sufficient to thwart, dilute, and submerge beneath the evolutionary wave the teaching: of a Melchizedek Emergency Son and the Sovereign Creator of our universe. In this spiritually confused environment, “_... the aims of the best overshadowed by the drift of the worst ..._” "a fortuitous set of circumstances made possible the launching of the fifth epochal revelation. ([UB 111:7.5](/en/The_Urantia_Book/111#p7_5))
+Picture just a moment the whole panorama of the planetary stage whereon we are now to play our part. To begin with, our planet is an experimental one, certain experiments having succeeded, others having failed. It had been assumed that certain of these failures would be offset by the normal epochal revelations of a planet. However, the Caligastia upheaval and the Adamic default further complicated and compounded what were already unusual problems. Ours is a long history of planetary savagery and retardation. The accumulated mortal propensities were even sufficient to thwart, dilute, and submerge beneath the evolutionary wave the teaching: of a Melchizedek Emergency Son and the Sovereign Creator of our universe. In this spiritually confused environment, “_... the aims of the best overshadowed by the drift of the worst ..._” "a fortuitous set of circumstances made possible the launching of the fifth epochal revelation. (<a id="a49_932"></a>[UB 111:7.5](/en/The_Urantia_Book/111#p7_5))
 
 This has been our past. What is the future? It lies in our hands. _The URANTIA Book_, containing a restatement of the life and teachings of the greatest revelation of God to man possible, can eventually direct civilization from its present low status to the very threshold of the unimaginable ages of light and life.
 
@@ -77,8 +98,29 @@ We have our marching orders. We must go to work in our respective spheres. Let u
 
 We may be few in number now. Some of us may even feel isolated in our respective spheres. “ ... (But) those who would see wonderful things must often be ready to travel alone.” And “while he who walks in love may wander far,” in truth, we always know the real end of our quest.
 
-In the words of Jesus, “_You see for yourselves that the harvest is plenteous, but the laborers are few. Let us all, therefore, pray the Lord of the harvest that he send forth still more laborers into his fields._” ([UB 150:4.1](/en/The_Urantia_Book/150#p4_1))
+In the words of Jesus, “_You see for yourselves that the harvest is plenteous, but the laborers are few. Let us all, therefore, pray the Lord of the harvest that he send forth still more laborers into his fields._” (<a id="a100_216"></a>[UB 150:4.1](/en/The_Urantia_Book/150#p4_1))
 
-> “_Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, ‘This is the way.’_” ([UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
+> “_Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, ‘This is the way.’_” (<a id="a102_454"></a>[UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
 
 August 1, 1975
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A message to the summer stuy session on loyalty and service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

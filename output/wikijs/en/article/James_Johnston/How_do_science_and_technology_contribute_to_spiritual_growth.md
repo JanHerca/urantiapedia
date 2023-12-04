@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 James Johnston<br>© 1983 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1983_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">April 1983 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1983-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1983 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 The title of this talk seemed like a very short topic to me when I was first asked to speak about it. I didn't see any contribution at all that science and technology had made to spiritual growth. There didn't appear to be a shred of a connection.
 
@@ -16,7 +37,7 @@ Having done some reading and thinking since that time, slowly I've come to the r
 
 There seem to be two primary ways that science and technology make their contributions: first in the form of challenges that they pose to religious living, and second in the opportunities that they create.
 
-_The URANTIA Book_ says that “_New religious insights arise out of conflicts..._” ([UB 100:4.1](/en/The_Urantia_Book/100#p4_1)) and that “_... there can be no growth without psychic conflict and spiritual agitation._” ([UB 100:4.2](/en/The_Urantia_Book/100#p4_2)). Well, tremendous conflicts and challenges have certainly have created for the soul of man in our scientific age.
+_The URANTIA Book_ says that “_New religious insights arise out of conflicts..._” (<a id="a39_83"></a>[UB 100:4.1](/en/The_Urantia_Book/100#p4_1)) and that “_... there can be no growth without psychic conflict and spiritual agitation._” (<a id="a39_219"></a>[UB 100:4.2](/en/The_Urantia_Book/100#p4_2)). Well, tremendous conflicts and challenges have certainly have created for the soul of man in our scientific age.
 
 But also, science and technology have constructed clear, abundant, accessible opportunities for empowering spiritual living — opportunities that have never before existed on our world.
 
@@ -44,11 +65,11 @@ But this is my favorite, from Science Digest, of all places, in 1948.
 
 Predicting is difficult, if not impossible, but when does it seem as if life will slow down again? If you're like me, you usually think to yourself: “If I can just hang on for another couple of weeks, I know this whole thing will blow over and things will get back to normal again.” Dorothy was probably quite a bit more accurate when she said: “Toto, I've a feeling that we're not in Kansas any more!” A Melchizedek of Nebadon is characteristically just as blunt:
 
-> “_This new and oncoming social order will not settle down ... for a millenium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._” ([UB 99:1.1](/en/The_Urantia_Book/99#p1_1))
+> “_This new and oncoming social order will not settle down ... for a millenium. The human race must become reconciled to a procession of changes, adjustments, and readjustments. Mankind is on the march toward a new and unrevealed planetary destiny._” (<a id="a67_253"></a>[UB 99:1.1](/en/The_Urantia_Book/99#p1_1))
 
-“_Urantia society can never hope to settle down as in past ages._” ([UB 99:1.3](/en/The_Urantia_Book/99#p1_3)) “_The violent swing from an age of miracles to an age of machines,_” says _The URANTIA Book_, “_has proved altogether upsetting to man._” ([UB 195:6.6](/en/The_Urantia_Book/195#p6_6)) We can expect to be dislodged from our environment of familiarity on a very regular basis. Rapid change will be far more constant than constancy. Amidst this turmoil of change, the progeny of technological progress, lies a huge spiritual challenge to find real constancy and real stability in the experience of knowing God.
+“_Urantia society can never hope to settle down as in past ages._” (<a id="a69_68"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3)) “_The violent swing from an age of miracles to an age of machines,_” says _The URANTIA Book_, “_has proved altogether upsetting to man._” (<a id="a69_250"></a>[UB 195:6.6](/en/The_Urantia_Book/195#p6_6)) We can expect to be dislodged from our environment of familiarity on a very regular basis. Rapid change will be far more constant than constancy. Amidst this turmoil of change, the progeny of technological progress, lies a huge spiritual challenge to find real constancy and real stability in the experience of knowing God.
 
-> “_During the psychologically unsettled times of the twentieth century, amid the economic upheavals, the moral crosscurrents, and the sociologic rip tides of the cyclonic transitions of a scientific era, thousands upon thousands of men and women have become humanly dislocated; they are anxious, restless, fearful, uncertain, and unsettled; as never before in the world's history they need the consolation and stabilization of sound religion. In the face of unprecedented scientific achievement and mechanical development there is spiritual stagnation and philosophic chaos._” ([UB 99:4.6](/en/The_Urantia_Book/99#p4_6))
+> “_During the psychologically unsettled times of the twentieth century, amid the economic upheavals, the moral crosscurrents, and the sociologic rip tides of the cyclonic transitions of a scientific era, thousands upon thousands of men and women have become humanly dislocated; they are anxious, restless, fearful, uncertain, and unsettled; as never before in the world's history they need the consolation and stabilization of sound religion. In the face of unprecedented scientific achievement and mechanical development there is spiritual stagnation and philosophic chaos._” (<a id="a71_579"></a>[UB 99:4.6](/en/The_Urantia_Book/99#p4_6))
 
 The challenge of change has provided a tremendous stimulus to spiritual growth — a stimulus to find God and the stability of knowing God in an environment that's constantly changing.
 
@@ -74,17 +95,17 @@ Change in the techniques of travel and communication have amplified, to an extra
 
 One of the outgrowths of scientific investigation has been secularism, the idea that the more that we learn about the universe the less God becomes, and the less that we need religion. According to _The URANTIA Book_, secularism poses a perilous challenge to civilization. Some of the harshest warnings that I have read in _The URANTIA Book_ have pertained directly to the prevailing secularist power structures and what is called the chief barrier to world peace: Nationalism. Making matters worse, science has delivered to the world the capacity for total world annihilation. _The URANTIA Book_ has what appear to be mixed forecasts regarding the challenge of secularism. We read for example:
 
-> “_The complete secularization of science, education, industry, and society can lead only to disaster. During the first third of the twentieth century Urantians killed more human beings than were killed during the whole of the Christian dispensation up to that time. And this is only the beginning of the dire harvest of materialism and secularism; still more terrible destruction is yet to come._” ([UB 195:8.13](/en/The_Urantia_Book/195#p8_13))
+> “_The complete secularization of science, education, industry, and society can lead only to disaster. During the first third of the twentieth century Urantians killed more human beings than were killed during the whole of the Christian dispensation up to that time. And this is only the beginning of the dire harvest of materialism and secularism; still more terrible destruction is yet to come._” (<a id="a97_401"></a>[UB 195:8.13](/en/The_Urantia_Book/195#p8_13))
 
-> “_Materialism denies God, secularism simply ignores him; at least that was the earlier attitude. More recently, secularism has assumed a more militant attitude, assuming to take the place of the religion whose totalitarian bondage it onetime resisted. Twentieth century secularism tends to affirm that man does not need God. But beware! this godless philosophy of human society will lead only to unrest, animosity, unhappiness, war, and world-wide disaster._”" ([UB 195:8.5](/en/The_Urantia_Book/195#p8_5))
+> “_Materialism denies God, secularism simply ignores him; at least that was the earlier attitude. More recently, secularism has assumed a more militant attitude, assuming to take the place of the religion whose totalitarian bondage it onetime resisted. Twentieth century secularism tends to affirm that man does not need God. But beware! this godless philosophy of human society will lead only to unrest, animosity, unhappiness, war, and world-wide disaster._”" (<a id="a99_464"></a>[UB 195:8.5](/en/The_Urantia_Book/195#p8_5))
 
 The midwayers' summary of the Urmia lectures include these statements;
 
-> “_With scientific progress, wars are going to become more and more devastating until they become almost racially suicidal._” ([UB 134:5.17](/en/The_Urantia_Book/134#p5_17))
+> “_With scientific progress, wars are going to become more and more devastating until they become almost racially suicidal._” (<a id="a103_128"></a>[UB 134:5.17](/en/The_Urantia_Book/134#p5_17))
 
-> “_There shall be wars and rumors of wars — nation will rise against nation — just as long as the world's political sovereignty is divided up and unjustly held by a group of nation-states._” ([UB 134:6.3](/en/The_Urantia_Book/134#p6_3))
+> “_There shall be wars and rumors of wars — nation will rise against nation — just as long as the world's political sovereignty is divided up and unjustly held by a group of nation-states._” (<a id="a105_193"></a>[UB 134:6.3](/en/The_Urantia_Book/134#p6_3))
 
-> “_... global wars will go on until the government of mankind is created, Global sovereignty will prevent global wars — nothing else can._” ([UB 134:6.4](/en/The_Urantia_Book/134#p6_4))
+> “_... global wars will go on until the government of mankind is created, Global sovereignty will prevent global wars — nothing else can._” (<a id="a107_142"></a>[UB 134:6.4](/en/The_Urantia_Book/134#p6_4))
 
 Can we look to the governments of sovereign nations to develop the peace-creating world government? I don't know. Someone once said that it is just as unlikely to find a department of peace in a sovereign nation as it would be to find a department of life in a funeral home.
 
@@ -94,7 +115,7 @@ And _The URANTIA Book_ is not entirely doom and gloom about the results of natio
 
 > “_... Christianity .... stands face to face with a struggle for existence which is even more ominous than those eventful crises which have characterized its past battles for dominance._”
 > 
-> “_Religion is now confronted by the challenge of a new age of scientific minds and materialistic tendencies. In this gigantic struggle between the secular and spiritual, the religion of Jesus will eventually triumph._” ([UB 195:4.4](/en/The_Urantia_Book/195#p4_4))
+> “_Religion is now confronted by the challenge of a new age of scientific minds and materialistic tendencies. In this gigantic struggle between the secular and spiritual, the religion of Jesus will eventually triumph._” (<a id="a117_222"></a>[UB 195:4.4](/en/The_Urantia_Book/195#p4_4))
 
 We should also acknowledge the fact that secularism has delivered many blessings to civilization — industrial creativity, democratic government and civil liberties to name a few.
 
@@ -106,9 +127,9 @@ Physicist Gary Zukav, in his book The Dancing Wu Li Masters, said, “There is n
 
 Science has not been without its own dogmatism. For example, the French academy announced at one point that it would not accept any further reports of meteorites, since it was ridiculous to think that rocks could fall out of the sky. Shortly thereafter a rain of meteorites came close to breaking the windows of the Academy. But science now seems more generously receptive to unusual ideas. Nihls Bohr, the eminent physicist, once remarked of an idea put forth by a colleague: 'It isn't crazy enough to be true." Science is continually generating new paradigms for understanding the universe. One of them is offered by a scientist by the name of Pribram be but rather is actually a holographic projection — a three dimensional projected image. How similar this sounds to the midwayers' description:
 
-> “_Mankind is slow to perceive that, in all that is personal, matter is the skeleton of morontia, and that both are the reflected shadow of enduring spirit reality. How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities?_” ([UB 189:1.3](/en/The_Urantia_Book/189#p1_3))
+> “_Mankind is slow to perceive that, in all that is personal, matter is the skeleton of morontia, and that both are the reflected shadow of enduring spirit reality. How long before you will regard time as the moving image of eternity and space as the fleeting shadow of Paradise realities?_” (<a id="a129_294"></a>[UB 189:1.3](/en/The_Urantia_Book/189#p1_3))
 
-Increasingly, scientific investigation seems to be uncovering the reality that “_The universe is not like the laws, mechanisms, and the uniformities which the scientist discovers, ... but rather like the curious, thinking, choosing, creative, combining, and discriminating scientist...._” ([UB 195:7.22](/en/The_Urantia_Book/195#p7_22))
+Increasingly, scientific investigation seems to be uncovering the reality that “_The universe is not like the laws, mechanisms, and the uniformities which the scientist discovers, ... but rather like the curious, thinking, choosing, creative, combining, and discriminating scientist...._” (<a id="a131_290"></a>[UB 195:7.22](/en/The_Urantia_Book/195#p7_22))
 
 There is no real conflict between science and religion and science now seems to be building a solid infrastructure for the support of the reality of religious experience.
 
@@ -161,9 +182,30 @@ From various sources, we get glimmerings of the transformation that is afoot. Ma
 Lewis Murnford talks about the age of “The New Person,” the age that he says will make the renaissance look like a still birth.
 The URANTIA Book tells us that we are quivering on the brink of the greatest spiritual renaissance that the world has ever known. Our social ship has just left the sheltered bays of established tradition and begun its voyage to a new age on the high seas of planetary destiny, and says _The URANTIA Book_:
 
-> “_... the soul of man, as never before in the world's history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance._” ([UB 99:1.3](/en/The_Urantia_Book/99#p1_3))
+> “_... the soul of man, as never before in the world's history, needs carefully to scrutinize its charts of morality and painstakingly to observe the compass of religious guidance._” (<a id="a184_185"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3))
 
 Science and technology have provided the stimulus and the opportunity for a new spiritual age, and the world, as never before, needs the response and guidance of spirit-led individuals during this difficult and dangerous time of transition.
 
 — _James Johnston_ 
 _Toledo, Ohio_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1983_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">April 1983 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1983-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1983 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

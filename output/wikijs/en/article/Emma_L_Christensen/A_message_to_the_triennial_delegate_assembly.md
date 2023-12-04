@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1967 Emma L. Christensen<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A message to the first triennial delegate assembly</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="pr-2">A message to the summer stuy session on loyalty and service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 It is my pleasure to greet the delegates, alternates, councilors, and all the good Urantia friends who are privileged to attend the second Triennial Delegate Assembly. Three years ago, on August 20, 1964, we held the first meeting of the Assembly. That was an historical occasion. This is none the less auspicious and I hope that we have grown in grace and wisdom these past three years.
 
@@ -20,15 +44,15 @@ Few of us realize the grand and solemn significance of the times in which we are
 
 Never lose sight of the fact that the supreme spiritual purpose of the Michael bestowal on Urantia was to enhance the revelation of God. But to us, of greater import, is that he also came here to reveal man to God. Through the scriptures we have been taught that he came here to reveal God to man, but not until _The URANTIA Book_ was given to us was I consciously aware that he came also to reveal man to God. Since Jesus is truly human as well as truly divine, it seems to me it is tremendously important and very comforting to know that he is in a way a revelation of man as well as a revelation of God.
 
-You will recall that Immanuel, in imparting his bestowal counsel to Michael, said: “_Equally with this ministry of new revelation and augmented interpretation of the Paradise Father to the human and superhuman type of mind, you will also so function as to make a new revelation of man to God. Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence._” ([UB 120:2.8](/en/The_Urantia_Book/120#p2_8))
+You will recall that Immanuel, in imparting his bestowal counsel to Michael, said: “_Equally with this ministry of new revelation and augmented interpretation of the Paradise Father to the human and superhuman type of mind, you will also so function as to make a new revelation of man to God. Exhibit in your one short life in the flesh, as it has never before been seen in all Nebadon, the transcendent possibilities attainable by a God-knowing human during the short career of mortal existence._” (<a id="a46_500"></a>[UB 120:2.8](/en/The_Urantia_Book/120#p2_8))
 
 We see in Jesus what man was meant to be. We see the divine possibilities of the human nature we bear. What we see today in our fellowmen makes us very solemn, but some wise man once said: “Man is rising, slowly with many setbacks. He is an unfinished product, slowly growing in stature, for he is born for eternity.”
 
 Jesus knew the dark depths that there are in men. But it is just as certain that he knew the divine heights to which man can rise. He saw the glory that is man, as well as the low, sad aspects of human nature when it is spoiled. To the very end, he kept his hope and his faith that God and man belonged together.
 
-> “_In his matchless life he never failed to reveal God to man. Now, in these final episodes of his mortal career and in his subsequent death, he made a new and touching revelation of man to God._” ([UB 186:2.11](/en/The_Urantia_Book/186#p2_11))
+> “_In his matchless life he never failed to reveal God to man. Now, in these final episodes of his mortal career and in his subsequent death, he made a new and touching revelation of man to God._” (<a id="a52_199"></a>[UB 186:2.11](/en/The_Urantia_Book/186#p2_11))
 
-> “_While the Father in heaven loves us no more because of this bestowal of Michael, all other celestial intelligences do. And this is because Jesus not only made a revelation of God to man, but he also likewise made a new revelation of man to the Gods and to the celestial inteligences of the universe of universes._”" ([UB 186:5.6](/en/The_Urantia_Book/186#p5_6))
+> “_While the Father in heaven loves us no more because of this bestowal of Michael, all other celestial intelligences do. And this is because Jesus not only made a revelation of God to man, but he also likewise made a new revelation of man to the Gods and to the celestial inteligences of the universe of universes._”" (<a id="a54_321"></a>[UB 186:5.6](/en/The_Urantia_Book/186#p5_6))
 
 The amazing fact of Jesus' gospel, as I see it, is that truth, and light, and love, and the reality of God can break through the life of a person who was genuinely and truly a human person. Both God and man were here in him. Love of the most divine order was revealed in him, and in him the kingdom of God came into reality on earth as it is in heaven. Seeing him we see what God is like. The thing we primarily need is an enlarged capacity to appreciate the range and quality of Jesus' personality. We need to really _see_ him. Labored explanations of the miraculous element in the story of his life have bulked so large that they have often obscured the real life. We have largely missed, I think, the glory and wonder of his life among us and have been too absorbed in the stories about him and about his work to feel the thrill and the power of his revelation.
 
@@ -55,3 +79,27 @@ Third, we need to be willing to be used for the fulfillment of the vision.
 Let us pray that we may all become valiant soldiers of the circles, wholeheartedly enlisted in the solid ranks of those mortals who shall go forth in the coming battle for truth against error under the unfaltering leadership of the mighty seraphim of progress.
 
 August 4, 1967
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_first_triennial_delegate_assembly">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">A message to the first triennial delegate assembly</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#april-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">April 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Emma_L_Christensen/A_message_to_the_summer_stuy_session_on_loyalty_and_service">
+          <span class="pr-2">A message to the summer stuy session on loyalty and service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,10 +9,34 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Ronald D. Louie<br>© 1982 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1982_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">July 1982 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sally_Schlundt/The_quality_of_our_interface">
+          <span class="pr-2">The quality of our interface</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
-> “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
 
-These words herald a new age to come and underscore the anticipation that civilization is due for major changes of all-encompassing scope. We are also told that the “_... social, moral, economic, and political reorganization of the world_” ([UB 99:3.3](/en/The_Urantia_Book/99#p3_3)) can take place only under the leadership and inspiration of the spirit-born souls who will have been transformed by the coming spiritual renaissance.
+> “_Urantia is now quivering on the very brink of one of its most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment._” (<a id="a36_171"></a>[UB 195:9.2](/en/The_Urantia_Book/195#p9_2))
+
+These words herald a new age to come and underscore the anticipation that civilization is due for major changes of all-encompassing scope. We are also told that the “_... social, moral, economic, and political reorganization of the world_” (<a id="a38_241"></a>[UB 99:3.3](/en/The_Urantia_Book/99#p3_3)) can take place only under the leadership and inspiration of the spirit-born souls who will have been transformed by the coming spiritual renaissance.
 
 Undoubtedly, the teachings of _The URANTIA Book_, the fifth epochal revelation on this planet, will play a critical role in augmenting the progressive evolutionary development which is taking place. By examining some of the problems currently facing evolutionary societal development, we may gain some insight into the role of the teachings in effectively bringing about civilization's transformation.
 
@@ -36,7 +60,7 @@ _The URANTIA Book_ is that timely revelation of truth that will expand mankind's
 
 Great advances can be expected in the realm of the world's pool of accretionary knowledge. The function of the URANTIA teachings would be to augment, correlate, and integrate the existing body of knowledge through the interaction of those who share in this new insight. We are told:
 
-> “_Intellectually, socially, and spiritually two moral creatures do not merely double their personal potentials of universe achievement by partnership technique; they more nearly quadruple their attainment and accomplishment possibilities._” ([UB 43:8.11](/en/The_Urantia_Book/43#p8_11))
+> “_Intellectually, socially, and spiritually two moral creatures do not merely double their personal potentials of universe achievement by partnership technique; they more nearly quadruple their attainment and accomplishment possibilities._” (<a id="a62_244"></a>[UB 43:8.11](/en/The_Urantia_Book/43#p8_11))
 
 This same synergetic principle would also apply to the enhancement and growth of world knowledge as a direct result of the educational interchange which would occur when spirit led individuals from a cross section of a culture gather in the common quest to search for the unified whole.
 
@@ -74,3 +98,27 @@ The following are words of admonition which Christy had occasion to share with m
 
 — _Ronald D. Louie_
 _West Vancouver, Canada_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1982_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">July 1982 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#july-1982-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">July 1982 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sally_Schlundt/The_quality_of_our_interface">
+          <span class="pr-2">The quality of our interface</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

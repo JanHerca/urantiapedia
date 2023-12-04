@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Brent St. Denis<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Working to Resolve the Dynamic Tension between and Seltlessness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Living_as_in_the_Presence_of_God">
+          <span class="pr-2">Living as in the Presence of God: Making the Effort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by Brent St. Denis
 
@@ -130,3 +154,27 @@ In my sharing with you today, I wanted to emphasize a few practical things which
 - that we can be alert to spiritual events.
 
 Then we'll likely not have too many regrets when we awaken on the mansion worlds.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/Marilynn_Kulieke/Working_to_Resolve_the_Dynamic_Tension">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Working to Resolve the Dynamic Tension between and Seltlessness</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/William_Wentworth/Living_as_in_the_Presence_of_God">
+          <span class="pr-2">Living as in the Presence of God: Making the Effort</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

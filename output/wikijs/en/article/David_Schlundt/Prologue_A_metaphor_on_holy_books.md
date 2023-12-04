@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 David Schlundt<br>© 1980 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1980_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">September 1980 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="pr-2">The creative imagination in prayer and worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 _The following speech was given by David Schlundt at the URANTIA Brotherhood Workshops in Lake Forest, Illinois on August 4, 1980._
 
@@ -110,3 +134,27 @@ There is a Sufi tale of the wise and venerated teacher who always kept a very la
 
 — _K. David Schlundt_
 _Urbana, Indiana_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1980_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">September 1980 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#september-1980-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">September 1980 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/George_Park/The_creative_imagination_in_prayer_and_worship">
+          <span class="pr-2">The creative imagination in prayer and worship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

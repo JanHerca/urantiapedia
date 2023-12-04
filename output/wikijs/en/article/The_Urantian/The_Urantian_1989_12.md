@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1989-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1989 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Preface
 
@@ -31,11 +49,11 @@ On a personal basis, the importance of _Urantia Book_ study groups derives from 
 
 Since _The Urantia Book_ is so extraordinarily replete, some feel that they can study it adequately in the privacy of their homes, and that group study is superfluous. This viewpoint overlooks the balancing and corrective influence of the group on individual opinions, and the nurturing and spiritually reinforcing effect of group participation. We find God and grow spiritually not only by means of what the Father teaches us directly, but also through close association with our fellows.
 
-Rodan of Alexandria spoke at length about the benefits of group association, noting that “_Many noble human impulses die because there is no one to hear their expression. Truly, it is not good for man to be alone._” ([UB 160:2.6](/en/The_Urantia_Book/160#p2_6))
+Rodan of Alexandria spoke at length about the benefits of group association, noting that “_Many noble human impulses die because there is no one to hear their expression. Truly, it is not good for man to be alone._” (<a id="a51_217"></a>[UB 160:2.6](/en/The_Urantia_Book/160#p2_6))
 
-Rodan added that, through association, men enrich their souls by pooling their respective spiritual possessions, avoiding the ever-present tendency to fall victim to distortion of vision, prejudice of viewpoint, and narrowness of judgment; that fear, envy, and conceit are prevented by intimate contact with other minds. Further, Rodan declared, “_Personality association and mutual affection is an efficient insurance against evil... There is positive strength in the knowledge that you live for the welfare of others, and that these others likewise live for your welfare and advancement. Man languishes in isolation._” ([UB 160:2.9](/en/The_Urantia_Book/160#p2_9))
+Rodan added that, through association, men enrich their souls by pooling their respective spiritual possessions, avoiding the ever-present tendency to fall victim to distortion of vision, prejudice of viewpoint, and narrowness of judgment; that fear, envy, and conceit are prevented by intimate contact with other minds. Further, Rodan declared, “_Personality association and mutual affection is an efficient insurance against evil... There is positive strength in the knowledge that you live for the welfare of others, and that these others likewise live for your welfare and advancement. Man languishes in isolation._” (<a id="a53_622"></a>[UB 160:2.9](/en/The_Urantia_Book/160#p2_9))
 
-During Jesus' last appearance in Jerusalem, he said to the apostles, “_...I wish that you would love and trust one another. Judas is no more with you because his love grew cold, and because he refused to trust you, his loyal brethren. Have you not read in the Scripture where it is written: It is not good for man to be alone. No man lives to himself?”...And did I not even send you out to teach two and two that you might not become lonely and fall into the mischief and miseries of isolation? ...Trust, therefore, and confide in one another._” ([UB 193:3.2](/en/The_Urantia_Book/193#p3_2)). There may also be a Supreme purpose in study group activity. As a Mighty Messenger wrote when describing the Supreme, “_Man can discover the Father in his heart, but he will have to search for the Supreme in the hearts of other men..._” ([UB 117:6.23](/en/The_Urantia_Book/117#p6_23))
+During Jesus' last appearance in Jerusalem, he said to the apostles, “_...I wish that you would love and trust one another. Judas is no more with you because his love grew cold, and because he refused to trust you, his loyal brethren. Have you not read in the Scripture where it is written: It is not good for man to be alone. No man lives to himself?”...And did I not even send you out to teach two and two that you might not become lonely and fall into the mischief and miseries of isolation? ...Trust, therefore, and confide in one another._” (<a id="a55_547"></a>[UB 193:3.2](/en/The_Urantia_Book/193#p3_2)). There may also be a Supreme purpose in study group activity. As a Mighty Messenger wrote when describing the Supreme, “_Man can discover the Father in his heart, but he will have to search for the Supreme in the hearts of other men..._” (<a id="a55_831"></a>[UB 117:6.23](/en/The_Urantia_Book/117#p6_23))
 
 ### Building Blocks Of The Kingdom
 
@@ -81,9 +99,9 @@ Serving beverages such as coffee or tea often contributes to a relaxed, congenia
 
 ### Group Prayer, Worship And Song
 
-In discussing personal prayers of the heart, _The Urantia Book_ tells us that “_Jesus was particularly averse to praying in public,_” and that he “_...taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer._” ([UB 144:3.14](/en/The_Urantia_Book/144#p3_14))
+In discussing personal prayers of the heart, _The Urantia Book_ tells us that “_Jesus was particularly averse to praying in public,_” and that he “_...taught the twelve always to pray in secret; to go off by themselves amidst the quiet surroundings of nature or to go in their rooms and shut the doors when they engaged in prayer._” (<a id="a101_334"></a>[UB 144:3.14](/en/The_Urantia_Book/144#p3_14))
 
-However, in discussing the social repercussions of prayer, the Chief of Midwayers writes, “_...prayer need not always be individual. Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; they are all made better because of participation._” ([UB 91:5.2](/en/The_Urantia_Book/91#p5_2))
+However, in discussing the social repercussions of prayer, the Chief of Midwayers writes, “_...prayer need not always be individual. Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the group; they are all made better because of participation._” (<a id="a103_447"></a>[UB 91:5.2](/en/The_Urantia_Book/91#p5_2))
 
 These two aspects of prayer leave ample room for your group members to seek to understand these practices better and to follow their own preferences. Many groups have found that, to remind them of their spiritual purpose, meetings should be opened and closed with a short period of silence and/or a prayer for God's guidance. Such a prayer, when phrased in terms which reflect faith and love, can greatly contribute to a group's sense of spiritual unity.
 
@@ -91,11 +109,11 @@ In some religious traditions it is customary for individuals to pray aloud as pa
 
 It is highly unwise to let the practice of group prayer intimidate members who do not care to pray aloud but feel that the group expects it of them. There are many ways to organize group prayer to meet the varying needs of different groups. For example, some groups establish a circle, with each person praying in turn. When all members of such a group share a common appreciation of public prayer, such a setting can provide the foundation for a powerful, shared spiritual experience. There are, however, many other possibilities.
 
-A different method of group prayer is for the moderator to pray first, and to indicate that anyone else who wishes to say something may do so. After a period of silence, the moderator might conclude by reading a written prayer familiar to everyone, such as the believer's prayer from [UB 144:3.3](/en/The_Urantia_Book/144#p3_3) of _The Urantia Book_. In conducting group prayer in your group, it is important to encourage experimentation, to respond to individual concerns and needs, and to be tolerant of the many varieties of personal religious expression.
+A different method of group prayer is for the moderator to pray first, and to indicate that anyone else who wishes to say something may do so. After a period of silence, the moderator might conclude by reading a written prayer familiar to everyone, such as the believer's prayer from <a id="a111_284"></a>[UB 144:3.3](/en/The_Urantia_Book/144#p3_3) of _The Urantia Book_. In conducting group prayer in your group, it is important to encourage experimentation, to respond to individual concerns and needs, and to be tolerant of the many varieties of personal religious expression.
 
 If some of the people in your group are musically inclined, the inclusion of spiritual songs in the program can be especially satisfying.
 
-Some study groups thrive on group worship but others do not. Your group should address the issue forthrightly and arrive at a consensus. In examining the concept of group worship expressed in _The Urantia Book_, your group may wish to reflect on Jesus' establishment of the remembrance supper as the sole sacrament of divine communion for his followers, on the associated fact of the divine presence, and on _The Urantia Book_'s explanation of the relationship between communion and worship. “_...communion...is the prelude to true worship — the practice of the presence of God which eventuates in the emergence of the brotherhood of man._” ([UB 103:4.1](/en/The_Urantia_Book/103#p4_1))
+Some study groups thrive on group worship but others do not. Your group should address the issue forthrightly and arrive at a consensus. In examining the concept of group worship expressed in _The Urantia Book_, your group may wish to reflect on Jesus' establishment of the remembrance supper as the sole sacrament of divine communion for his followers, on the associated fact of the divine presence, and on _The Urantia Book_'s explanation of the relationship between communion and worship. “_...communion...is the prelude to true worship — the practice of the presence of God which eventuates in the emergence of the brotherhood of man._” (<a id="a115_642"></a>[UB 103:4.1](/en/The_Urantia_Book/103#p4_1))
 
 ### The Moderator
 
@@ -168,11 +186,11 @@ Occasionally a disruptive person may try to dominate a meeting by turning the di
 
 ### Controversy And Dissension
 
-The meeting should cultivate a spirit of tolerance and respect for differing opinions. This can be challenging when difficult or controversial subjects are discussed. The objective study of these kinds of subjects is often enhanced if readers take time privately to broadly study the subject matter before engaging in group discussion, especially on subjects highly controversial in contemporary society. It is usually easier to avoid such topics in newly formed study groups and with groups of new readers. If dissension does arise, the moderator can remind everyone that we are all trying to serve the same creator and that none of us has a monopoly on truth, thus giving value and perspective to differences of opinion which may arise. As a general practice, the moderator should encourage the group to look for commonalities and themes in what has been read, but not try to force a consensus in interpretation. “_...When did I teach you that you should all see alike?_” ([UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
+The meeting should cultivate a spirit of tolerance and respect for differing opinions. This can be challenging when difficult or controversial subjects are discussed. The objective study of these kinds of subjects is often enhanced if readers take time privately to broadly study the subject matter before engaging in group discussion, especially on subjects highly controversial in contemporary society. It is usually easier to avoid such topics in newly formed study groups and with groups of new readers. If dissension does arise, the moderator can remind everyone that we are all trying to serve the same creator and that none of us has a monopoly on truth, thus giving value and perspective to differences of opinion which may arise. As a general practice, the moderator should encourage the group to look for commonalities and themes in what has been read, but not try to force a consensus in interpretation. “_...When did I teach you that you should all see alike?_” (<a id="a188_975"></a>[UB 141:5.1](/en/The_Urantia_Book/141#p5_1))
 
 ### Spiritual Unity
 
-The search for God is what is important; we need not always agree on the details of how we go about it. Most feel that to be consistent with the teachings, _Urantia Book_ study groups should value diversity of opinion. We find spiritual unity in our mutual love of God, not in intellectual uniformity. Nothing is more important than for us to be as one, spiritually. “_...Love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another._” ([UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
+The search for God is what is important; we need not always agree on the details of how we go about it. Most feel that to be consistent with the teachings, _Urantia Book_ study groups should value diversity of opinion. We find spiritual unity in our mutual love of God, not in intellectual uniformity. Nothing is more important than for us to be as one, spiritually. “_...Love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another._” (<a id="a192_504"></a>[UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
 
 ### Maintaining Attendance
 
@@ -243,5 +261,24 @@ Above all, we aspire to live lives of faith and dedicated service in the spirit 
 
 ---
 
->  “_With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status — one must do something as well as be something._” ([UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
+>  “_With God the Father, sonship is the great relationship. With God the Supreme, achievement is the prerequisite to status — one must do something as well as be something._” (<a id="a263_177"></a>[UB 115:0.1](/en/The_Urantia_Book/115#p0_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1989-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1989 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

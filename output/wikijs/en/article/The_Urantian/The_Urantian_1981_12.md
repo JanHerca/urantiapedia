@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Peter Laurence, Sara Blackstock, Jeff Wattles<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1981-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1981 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Laurence/Towards_human_understanding">
+          <span class="pr-2">Towards human understanding</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Towards Human Understanding
 
@@ -52,5 +73,27 @@ The first associations that come to mind include holy wars, polygamy, the subjug
 — _Jeffrey Wattles_
 _Berkeley, California_
 
-> “_The brotherhood of man is, after all, predicated on the recognition of the fatherhood of God. The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above, thus augmenting moral insight while enhancing the soul capacity of every mortal to understand and love every other mortal. Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man._” ([UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
+> “_The brotherhood of man is, after all, predicated on the recognition of the fatherhood of God. The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above, thus augmenting moral insight while enhancing the soul capacity of every mortal to understand and love every other mortal. Mutual understanding and fraternal love are transcendent civilizers and mighty factors in the world-wide realization of the brotherhood of man._” (<a id="a75_622"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1981-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1981 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Peter_Laurence/Towards_human_understanding">
+          <span class="pr-2">Towards human understanding</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay<br>© 1990 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="pr-2">Experiencing the God in Ourselves and in Others</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 by John Hay
 
@@ -47,3 +68,24 @@ Instead of competition and fragmentation, we need to encourage cooperation among
 When we as a people, one by one, put on Christ, and live and love one another, then the answers to the problems that beset this world of ours will become apparent through the process of love. And therein lies the basis for peace and the renewal of the family, the answer to injustice, drug addiction and abuse, and therein lies the basis and answer to solve the hunger and poverty problems that exist in this world. The solutions are there. With faith we can do it. As our minds and hearts accept the love of God and then, planted in love and built in love, we become more like Christ, we will know what to do as the words turn into deeds, enabling us to live life to the fullest as we love one another.
 
 Isn't it about time that all the words and pledges of all institutions and structures have a common goal: a goal to create a world more human and more divine? Or, once again, will the words of the prophet Isaiah ring true, as he says, “You will hear, and hear again, but not understand, see and see again, but not perceive.”
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#winter/spring-1991-issue-special-conference-issue-ii-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Winter/Spring 1991 Issue. Special Conference Issue II (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/David_Elders/Experiencing_the_God_in_Ourselves_and_in_Others">
+          <span class="pr-2">Experiencing the God in Ourselves and in Others</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

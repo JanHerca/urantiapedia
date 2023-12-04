@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Peter Laurence<br>© 1981 The Urantia Book Fellowship (formerly Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1981_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1981 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1981-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1981 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/A_framework_and_philosophy_for_education">
+          <span class="pr-2">A framework and philosophy for education</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Editorial Viewpoint
 
@@ -22,3 +46,27 @@ Hopefully, our realization of the legitimate diversity of religious expression w
 
 — _Peter Laurence_
 _Armonk, New York_
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/en/article/The_Urantian/The_Urantian_1981_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">December 1981 Issue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/index/articles_the_urantian#december-1981-issue">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">December 1981 Issue — Index</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/Sara_Blackstock/A_framework_and_philosophy_for_education">
+          <span class="pr-2">A framework and philosophy for education</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
