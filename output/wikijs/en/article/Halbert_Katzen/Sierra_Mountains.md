@@ -63,9 +63,9 @@ A longstanding controversy has existed over when the Sierra Mountains were forme
 
 _The Urantia Book_ states:
 
-> 40,000,000 years ago the land areas of the Northern Hemisphere began to elevate, and this was followed by new extensive land deposits and other terrestrial activities, including lava flows, warping, lake formation, and erosion. [UB 61:1.11](/en/The_Urantia_Book/61#p1_11) [^1]
+> 40,000,000 years ago the land areas of the Northern Hemisphere began to elevate, and this was followed by new extensive land deposits and other terrestrial activities, including lava flows, warping, lake formation, and erosion. <a id="a65_230"></a>[UB 61:1.11](/en/The_Urantia_Book/61#p1_11) [^1]
 
-> 25,000,000 years ago there was a slight land submergence following the long epoch of land elevation. The Rocky Mountain region remained highly elevated so that the deposition of erosion material continued throughout the lowlands to the east. The Sierras were well re-elevated; in fact, they have been rising ever since. [UB 61:3.3](/en/The_Urantia_Book/61#p3_3) [^2]
+> 25,000,000 years ago there was a slight land submergence following the long epoch of land elevation. The Rocky Mountain region remained highly elevated so that the deposition of erosion material continued throughout the lowlands to the east. The Sierras were well re-elevated; in fact, they have been rising ever since. <a id="a67_322"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3) [^2]
 
 _The Urantia Book_'s assertion that these mountains originated 40 million years ago and have been rising for the last 25 million years conflicts with the New Sierras theory. Obviously, if they have been rising for the last 25 million years, then the theory that they have been rising for the last five million years is not completely off base; the evidence that supports that they have been rising for the last five million years has a limited degree of consistency with what _The Urantia Book_ says about them “rising ever since” 25 million years ago. In fact, even this new research technique indicates the mountains were rising slightly five million years ago. But the theory that these mountains were fundamentally formed about five million years ago is fundamentally in conflict with _The Urantia Book_. _The Urantia Book_ asserts, and the new study published in 2006 supports, the view that this mountain range was in existence, and has maintained its stature since, much earlier than five million years ago.
 
@@ -212,9 +212,9 @@ Approached from this perspective, the 2006 report prepared by Mulch, Graham, and
 <img src="/image/article/Halbert_Katzen/Sierra_Mountains/timetable.jpg">
 </figure>
 
-> 40,000,000 years ago the land areas of the Northern Hemisphere began to elevate, and this was followed by new extensive land deposits and other terrestrial activities, including lava flows, warping, lake formation, and erosion. [UB 61:1.6](/en/The_Urantia_Book/61#p1_6)
+> 40,000,000 years ago the land areas of the Northern Hemisphere began to elevate, and this was followed by new extensive land deposits and other terrestrial activities, including lava flows, warping, lake formation, and erosion. <a id="a214_230"></a>[UB 61:1.6](/en/The_Urantia_Book/61#p1_6)
 
-> 25,000,000 years ago there was a slight land submergence following the long epoch of land elevation. The Rocky Mountain region remained highly elevated so that the deposition of erosion material continued throughout the lowlands to the east. The Sierras were well re-elevated; in fact, they have been rising ever since. [UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
+> 25,000,000 years ago there was a slight land submergence following the long epoch of land elevation. The Rocky Mountain region remained highly elevated so that the deposition of erosion material continued throughout the lowlands to the east. The Sierras were well re-elevated; in fact, they have been rising ever since. <a id="a216_322"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
 
 - http://www.sciencemag.org/cgi/content/full/313/5783/87 primary research article Science 7 July 2006: Vol. 313. no. 5783, pp. 87 - 89 DOI: 10.1126/science.1125986
 - http://scicom.ucsc.edu/SciNotes/0701/sierra/index.html The Sierra Nevada Enigma, heavily quoted article for Sierra Report
@@ -253,17 +253,17 @@ Had the authors of the 1955 Urantia Book known no more than most geologists livi
 
 ## Footnotes
 
-[^1]: [UB 61:1.6](/en/The_Urantia_Book/61#p1_6) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number.
+[^1]: <a id="a255_6"></a>[UB 61:1.6](/en/The_Urantia_Book/61#p1_6) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number.
 
-[^2]: [UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
+[^2]: <a id="a257_6"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
 
 [^3]: http://www.sciencemag.org/cgi/content/full/313/5783/87
 
 [^4]: http://scicom.ucsc.edu/SciNotes/0701/sierra/index.html
 
-[^5]: [UB 60:4.3](/en/The_Urantia_Book/60#p4_3)
+[^5]: <a id="a263_6"></a>[UB 60:4.3](/en/The_Urantia_Book/60#p4_3)
 
-[^6]: [UB 61:1.4](/en/The_Urantia_Book/61#p1_4)
+[^6]: <a id="a265_6"></a>[UB 61:1.4](/en/The_Urantia_Book/61#p1_4)
 
 [^7]: Science 7 July 2006: Vol. 313. no. 5783, pp. 87 - 89, http://www.sciencemag.org/cgi/content/full/313/5783/87
 
@@ -271,13 +271,13 @@ Had the authors of the 1955 Urantia Book known no more than most geologists livi
 
 [10]: “Ancient Rain Settles Sierra's Age”, Kathy A. Svitil, Discover Magazine, Jan. 2007, p.53
 
-[11]: [UB 60:3](/en/The_Urantia_Book/60#p3_par); [UB 60:4](/en/The_Urantia_Book/60#p4); [UB 59:5.20](/en/The_Urantia_Book/59#p5_20)
+[11]: [UB 60:3](/en/The_Urantia_Book/60#p3_par); <a id="a273_49"></a>[UB 60:4](/en/The_Urantia_Book/60#p4); <a id="a273_88"></a>[UB 59:5.20](/en/The_Urantia_Book/59#p5_20)
 
 [12]: http://www.ucmp.berkeley.edu/mesozoic/cretaceous/cretaceous.html
 
-[13]: [UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
+[13]: <a id="a277_6"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
 
-[14]: [UB 61:7.11](/en/The_Urantia_Book/61#p7_11)
+[14]: <a id="a279_6"></a>[UB 61:7.11](/en/The_Urantia_Book/61#p7_11)
 
 
 

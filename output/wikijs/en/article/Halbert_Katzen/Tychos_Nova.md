@@ -73,7 +73,7 @@ Most of the reports at UBtheNEWS involve corroborations of information found in 
 > 
 > When less than one tenth the size of your sun, these fiery spheres rapidly contract, condense, and cool. When upwards of thirty times its size-rather thirty times the gross content of actual material-suns readily split into two separate bodies, either becoming the centers of new systems or else remaining in each other's gravity grasp and revolving about a common center as one type of double star.
 > 
-> The most recent of the major cosmic eruptions in Orvonton [a part of the universe described in _The Urantia Book_ that is much larger than our local universe and in which our local universe is located] was the extraordinary double star explosion, the light of which reached Urantia in A.D. 1572. This conflagration was so intense that the explosion was clearly visible in broad daylight. ([UB 41:3.3-5](/en/The_Urantia_Book/41#p3_3)) [^1]
+> The most recent of the major cosmic eruptions in Orvonton [a part of the universe described in _The Urantia Book_ that is much larger than our local universe and in which our local universe is located] was the extraordinary double star explosion, the light of which reached Urantia in A.D. 1572. This conflagration was so intense that the explosion was clearly visible in broad daylight. (<a id="a75_391"></a>[UB 41:3.3-5](/en/The_Urantia_Book/41#p3_3)) [^1]
 
 In order to appreciate how this statement, published in _The Urantia Book_ in 1955, was ahead of science, one needs to acquire both a general understanding of how the science has developed regarding supernovae and a specific understanding of how this history of science relates to Tycho's Nova, the supernova explosion of 1572 to which _The Urantia Book_ refers. But, before learning about the history of supernovae in general and Tycho's Nova in particular, we will start with defining what a double star is. The following quotes from Wikipedia provide a basic description of a double star and indicate how “double” and “binary” are used interchangeably in reference to this occurrence:
 
@@ -200,7 +200,7 @@ Urantia Book quotes:
 > 
 > When less than one tenth the size of your sun, these fiery spheres rapidly contract, condense, and cool. When upwards of thirty times its size-rather thirty times the gross content of actual materialsuns readily split into two separate bodies, either becoming the centers of new systems or else remaining in each other's gravity grasp and revolving about a common center as one type of double star.
 > 
-> The most recent of the major cosmic eruptions in Orvonton was the extraordinary double star explosion, the light of which reached Urantia in A.D. 1572. This conflagration was so intense that the explosion was clearly visible in broad daylight. ([UB 41:3.3-5](/en/The_Urantia_Book/41#p3_3)) 
+> The most recent of the major cosmic eruptions in Orvonton was the extraordinary double star explosion, the light of which reached Urantia in A.D. 1572. This conflagration was so intense that the explosion was clearly visible in broad daylight. (<a id="a202_247"></a>[UB 41:3.3-5](/en/The_Urantia_Book/41#p3_3)) 
 
 - http://www.nature.com/nature/journal/v431/n7012/abs/nature03006.html (Brief summary)
 - http://www.solstation.com/x-objects/tycho-s.htm (best summary and link resource)

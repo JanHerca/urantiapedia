@@ -84,7 +84,7 @@ The name Michael is used to designate Jesus in his status before incarnating on 
 
 That being said, people unfamiliar with _The Urantia Book_ should be more or less prepared to reasonably understand the following selections related to Jesus' burial and the fate of his physical body:
 
-> In the meantime, Joseph of Arimathea, accompanied by Nicodemus, had gone to Pilate and asked that the body of Jesus be turned over to them for proper burial. It was not uncommon for friends of crucified persons to offer bribes to the Roman authorities for the privilege of gaining possession of such bodies. Joseph went before Pilate with a large sum of money, in case it became necessary to pay for permission to remove Jesus' body to a private burial tomb. But Pilate would not take money for this. When he heard the request, he quickly signed the order which authorized Joseph to proceed to Golgotha and take immediate and full possession of the Master's body. [UB 188:0.3](/en/The_Urantia_Book/188#p0_3) [^4]
+> In the meantime, Joseph of Arimathea, accompanied by Nicodemus, had gone to Pilate and asked that the body of Jesus be turned over to them for proper burial. It was not uncommon for friends of crucified persons to offer bribes to the Roman authorities for the privilege of gaining possession of such bodies. Joseph went before Pilate with a large sum of money, in case it became necessary to pay for permission to remove Jesus' body to a private burial tomb. But Pilate would not take money for this. When he heard the request, he quickly signed the order which authorized Joseph to proceed to Golgotha and take immediate and full possession of the Master's body. <a id="a86_666"></a>[UB 188:0.3](/en/The_Urantia_Book/188#p0_3) [^4]
 
 > A crucified person could not be buried in a Jewish cemetery; there was a strict law against such a procedure. Joseph and Nicodemus knew this law, and on the way out to Golgotha they had decided to bury Jesus in Joseph's new family tomb, hewn out of solid rock, located a short distance north of Golgotha and across the road leading to Samaria. No one had ever lain in this tomb, and they thought it appropriate that the Master should rest there....
 > 
@@ -94,11 +94,11 @@ That being said, people unfamiliar with _The Urantia Book_ should be more or les
 > 
 > After placing the body in the tomb, the centurion signaled for his soldiers to help roll the doorstone up before the entrance to the tomb....
 > 
-> While all this was going on, the women were hiding near at hand so that they saw it all and observed where the Master had been laid. They thus secreted themselves because it was not permissible for women to associate with men at such a time. These women did not think Jesus had been properly prepared for burial, and they agreed among themselves to go back to the home of Joseph, rest over the Sabbath, make ready spices and ointments, and return on Sunday morning properly to prepare the Master's body for the death rest. The women who thus tarried by the tomb on this Friday evening were: Mary Magdalene, Mary the wife of Clopas, Martha another sister of Jesus' mother, and Rebecca of Sepphoris. [UB 188:1.2-7](/en/The_Urantia_Book/188#p1_2) [^5]
+> While all this was going on, the women were hiding near at hand so that they saw it all and observed where the Master had been laid. They thus secreted themselves because it was not permissible for women to associate with men at such a time. These women did not think Jesus had been properly prepared for burial, and they agreed among themselves to go back to the home of Joseph, rest over the Sabbath, make ready spices and ointments, and return on Sunday morning properly to prepare the Master's body for the death rest. The women who thus tarried by the tomb on this Friday evening were: Mary Magdalene, Mary the wife of Clopas, Martha another sister of Jesus' mother, and Rebecca of Sepphoris. <a id="a96_700"></a>[UB 188:1.2-7](/en/The_Urantia_Book/188#p1_2) [^5]
 
-> After the resurrected Jesus emerged from his burial tomb, the body of flesh in which he had lived and wrought on earth for almost thirty-six years was still lying there in the sepulchre niche, undisturbed and wrapped in the linen sheet, just as it had been laid to rest by Joseph and his associates on Friday afternoon. Neither was the stone before the entrance of the tomb in any way disturbed; the seal of Pilate was still unbroken; the soldiers were still on guard. The temple guards had been on continuous duty; the Roman guard had been changed at midnight. None of these watchers suspected that the object of their vigil had risen to a new and higher form of existence, and that the body which they were guarding was now a discarded outer covering which had no further connection with the delivered and resurrected morontia [^6] personality of Jesus. [UB 189:1.2](/en/The_Urantia_Book/189#p1_2) [^7]
+> After the resurrected Jesus emerged from his burial tomb, the body of flesh in which he had lived and wrought on earth for almost thirty-six years was still lying there in the sepulchre niche, undisturbed and wrapped in the linen sheet, just as it had been laid to rest by Joseph and his associates on Friday afternoon. Neither was the stone before the entrance of the tomb in any way disturbed; the seal of Pilate was still unbroken; the soldiers were still on guard. The temple guards had been on continuous duty; the Roman guard had been changed at midnight. None of these watchers suspected that the object of their vigil had risen to a new and higher form of existence, and that the body which they were guarding was now a discarded outer covering which had no further connection with the delivered and resurrected morontia [^6] personality of Jesus. <a id="a98_858"></a>[UB 189:1.2](/en/The_Urantia_Book/189#p1_2) [^7]
 
-> His material or physical body was not a part of the resurrected personality. When Jesus came forth from the tomb, his body of flesh remained undisturbed in the sepulchre. He emerged from the burial tomb without moving the stones before the entrance and without disturbing the seals of Pilate. [UB 189:1.7](/en/The_Urantia_Book/189#p1_7) [^8]
+> His material or physical body was not a part of the resurrected personality. When Jesus came forth from the tomb, his body of flesh remained undisturbed in the sepulchre. He emerged from the burial tomb without moving the stones before the entrance and without disturbing the seals of Pilate. <a id="a100_295"></a>[UB 189:1.7](/en/The_Urantia_Book/189#p1_7) [^8]
 
 > **THE MATERIAL BODY OF JESUS**
 > 
@@ -116,9 +116,9 @@ That being said, people unfamiliar with _The Urantia Book_ should be more or les
 > 
 > The tomb of Joseph was empty, not because the body of Jesus had been rehabilitated or resurrected, but because the celestial hosts had been granted their request to afford it a special and unique dissolution, a return of the “dust to dust,” without the intervention of the delays of time and without the operation of the ordinary and visible processes of mortal decay and material corruption.
 > 
-> The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous. [UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1) [^9]
+> The mortal remains of Jesus underwent the same natural process of elemental disintegration as characterizes all human bodies on earth except that, in point of time, this natural mode of dissolution was greatly accelerated, hastened to that point where it became well-nigh instantaneous. <a id="a118_289"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1) [^9]
 
-> A little before three o'clock this Sunday morning, when the first signs of day began to appear in the east, five of the women started out for the tomb of Jesus. They had prepared an abundance of special embalming lotions, and they carried many linen bandages with them. It was their purpose more thoroughly to give the body of Jesus its death anointing and more carefully to wrap it up with the new bandages.  [UB 189:3.1](/en/The_Urantia_Book/189#p3_1)
+> A little before three o'clock this Sunday morning, when the first signs of day began to appear in the east, five of the women started out for the tomb of Jesus. They had prepared an abundance of special embalming lotions, and they carried many linen bandages with them. It was their purpose more thoroughly to give the body of Jesus its death anointing and more carefully to wrap it up with the new bandages.  <a id="a120_412"></a>[UB 189:3.1](/en/The_Urantia_Book/189#p3_1)
 
 > The women who went on this mission of anointing Jesus' body were: Mary Magdalene, Mary the mother of the Alpheus twins, Salome the mother of the Zebedee brothers, Joanna the wife of Chuza, and Susanna the daughter of Ezra of Alexandria.
 > 
@@ -132,13 +132,13 @@ That being said, people unfamiliar with _The Urantia Book_ should be more or les
 > 
 > All five of the women then sat down on the stone near the entrance and talked over the situation. It had not yet occurred to them that Jesus had been resurrected. They had been by themselves over the Sabbath, and they conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths; how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf?
 > 
-> As these women sat there in the early hours of the dawn of this new day, they looked to one side and observed a silent and motionless stranger. For a moment they were again frightened, but Mary Magdalene, rushing toward him and addressing him as if she thought he might be the caretaker of the garden, said, “Where have you taken the Master? Where have they laid him? Tell us that we may go and get him.” When the stranger did not answer Mary, she began to weep. Then spoke Jesus to them, saying, “Whom do you seek?” Mary said: “We seek for Jesus who was laid to rest in Joseph's tomb, but he is gone. Do you know where they have taken him?” Then said Jesus: “Did not this Jesus tell you, even in Galilee, that he would die, but that he would rise again?” These words startled the women, but the Master was so changed that they did not yet recognize him with his back turned to the dim light. And as they pondered his words, he addressed the Magdalene with a familiar voice, saying, “Mary.” And when she heard that word of well-known sympathy and affectionate greeting, she knew it was the voice of the Master, and she rushed to kneel at his feet while she exclaimed, “My Lord, and my Master!” And all of the other women recognized that it was the Master who stood before them in glorified form, and they quickly knelt before him. [UB 189:4.4-10](/en/The_Urantia_Book/189#p4_4)
+> As these women sat there in the early hours of the dawn of this new day, they looked to one side and observed a silent and motionless stranger. For a moment they were again frightened, but Mary Magdalene, rushing toward him and addressing him as if she thought he might be the caretaker of the garden, said, “Where have you taken the Master? Where have they laid him? Tell us that we may go and get him.” When the stranger did not answer Mary, she began to weep. Then spoke Jesus to them, saying, “Whom do you seek?” Mary said: “We seek for Jesus who was laid to rest in Joseph's tomb, but he is gone. Do you know where they have taken him?” Then said Jesus: “Did not this Jesus tell you, even in Galilee, that he would die, but that he would rise again?” These words startled the women, but the Master was so changed that they did not yet recognize him with his back turned to the dim light. And as they pondered his words, he addressed the Magdalene with a familiar voice, saying, “Mary.” And when she heard that word of well-known sympathy and affectionate greeting, she knew it was the voice of the Master, and she rushed to kneel at his feet while she exclaimed, “My Lord, and my Master!” And all of the other women recognized that it was the Master who stood before them in glorified form, and they quickly knelt before him. <a id="a134_1333"></a>[UB 189:4.4-10](/en/The_Urantia_Book/189#p4_4)
 
 > As Mary sought to embrace his feet, Jesus said: “Touch me not, Mary, for I am not as you knew me in the flesh. In this form will I tarry with you for a season before I ascend to the Father. But go, all of you, now and tell my apostles-and Peter-that I have risen, and that you have talked with me.” 
 > 
 > After these women had recovered from the shock of their amazement, they hastened back to the City and to the home of Elijah Mark, where they related to the ten apostles all that had happened to them; but the apostles were not inclined to believe them. They thought at first that the women had seen a vision, but when Mary Magdalene repeated the words which Jesus had spoken to them, and when Peter heard his name, he rushed out of the upper chamber, followed closely by John, in great haste to reach the tomb and see these things for himself.
 > 
-> The women repeated the story of talking with Jesus to the other apostles, but they would not believe; and they would not go to find out for themselves as had Peter and John. [UB 189:4.12-14](/en/The_Urantia_Book/189#p4_12)
+> The women repeated the story of talking with Jesus to the other apostles, but they would not believe; and they would not go to find out for themselves as had Peter and John. <a id="a140_176"></a>[UB 189:4.12-14](/en/The_Urantia_Book/189#p4_12)
 
 > **PETER AND JOHN AT THE TOMB**
 > 
@@ -150,11 +150,11 @@ That being said, people unfamiliar with _The Urantia Book_ should be more or les
 > 
 > As Mary lingered after Peter and John had gone, the Master again appeared to her, saying: “Be not doubting; have the courage to believe what you have seen and heard. Go back to my apostles and again tell them that I have risen, that I will appear to them, and that presently I will go before them into Galilee as I promised.”
 > 
-> Mary hurried back to the Mark home and told the apostles she had again talked with Jesus, but they would not believe her. But when Peter and John returned, they ceased to ridicule and became filled with fear and apprehension. [UB 189:5.1-5](/en/The_Urantia_Book/189#p5_1) [^10]
+> Mary hurried back to the Mark home and told the apostles she had again talked with Jesus, but they would not believe her. But when Peter and John returned, they ceased to ridicule and became filled with fear and apprehension. <a id="a152_228"></a>[UB 189:5.1-5](/en/The_Urantia_Book/189#p5_1) [^10]
 
-> All this day Peter characteristically vacillated emotionally between faith and doubt concerning the Master's resurrection. Peter could not get away from the sight of the grave cloths resting there in the tomb as if the body of Jesus had just evaporated from within. [UB 191:0.4](/en/The_Urantia_Book/191#p0_4) [^11]
+> All this day Peter characteristically vacillated emotionally between faith and doubt concerning the Master's resurrection. Peter could not get away from the sight of the grave cloths resting there in the tomb as if the body of Jesus had just evaporated from within. <a id="a154_268"></a>[UB 191:0.4](/en/The_Urantia_Book/191#p0_4) [^11]
 
-> When the apostles refused to believe the report of the five women who represented that they had seen Jesus and talked with him, Mary Magdalene returned to the tomb, and the others went back to Joseph's house, where they related their experiences to his daughter and the other women. And the women believed their report. Shortly after six o'clock the daughter of Joseph of Arimathea and the four women who had seen Jesus went over to the home of Nicodemus, where they related all these happenings to Joseph, Nicodemus, David Zebedee, and the other men there assembled. Nicodemus and the others doubted their story, doubted that Jesus had risen from the dead; they conjectured that the Jews had removed the body. Joseph and David were disposed to believe the report, so much so that they hurried out to inspect the tomb, and they found everything just as the women had described. And they were the last to so view the sepulchre, for the high priest sent the captain of the temple guards to the tomb at half past seven o'clock to remove the grave cloths. The captain wrapped them all up in the linen sheet and threw them over a near-by cliff. [UB 190:1.2](/en/The_Urantia_Book/190#p1_2) [^12]
+> When the apostles refused to believe the report of the five women who represented that they had seen Jesus and talked with him, Mary Magdalene returned to the tomb, and the others went back to Joseph's house, where they related their experiences to his daughter and the other women. And the women believed their report. Shortly after six o'clock the daughter of Joseph of Arimathea and the four women who had seen Jesus went over to the home of Nicodemus, where they related all these happenings to Joseph, Nicodemus, David Zebedee, and the other men there assembled. Nicodemus and the others doubted their story, doubted that Jesus had risen from the dead; they conjectured that the Jews had removed the body. Joseph and David were disposed to believe the report, so much so that they hurried out to inspect the tomb, and they found everything just as the women had described. And they were the last to so view the sepulchre, for the high priest sent the captain of the temple guards to the tomb at half past seven o'clock to remove the grave cloths. The captain wrapped them all up in the linen sheet and threw them over a near-by cliff. <a id="a156_1142"></a>[UB 190:1.2](/en/The_Urantia_Book/190#p1_2) [^12]
 
 ## Dating the Shroud of Turin
 
@@ -486,13 +486,13 @@ If this was an intentional departure from the original plan, it would not be the
 
 The question needs to be asked, “Why would the angels leave these relics behind?” And not just leave them behind. They folded and placed them. And _apparently_ the angels did something mysterious in relationship to the bandages because _The Urantia Book_, a book known for being both precise with language and internally consistent, twice refers to the bandages as “apparently intact” and also refers to them once as simply “intact.”
 
-> Mary saw only the folded napkin where his head had rested and the bandages wherewith he had been wrapped lying intact and as they had rested on the stone before the celestial hosts removed the body. The covering sheet lay at the foot of the burial niche. [UB 189:4.6](/en/The_Urantia_Book/189#p4_6) [^50]
+> Mary saw only the folded napkin where his head had rested and the bandages wherewith he had been wrapped lying intact and as they had rested on the stone before the celestial hosts removed the body. The covering sheet lay at the foot of the burial niche. <a id="a488_257"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6) [^50]
 
-> [T]hey [the women] conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths; how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf? [UB 189:4.6](/en/The_Urantia_Book/189#p4_6) [^51]
+> [T]hey [the women] conjectured that the body had been moved to another resting place. But when they pondered such a solution of their dilemma, they were at a loss to account for the orderly arrangement of the grave cloths; how could the body have been removed since the very bandages in which it was wrapped were left in position and apparently intact on the burial shelf? <a id="a490_375"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6) [^51]
 
-> Very soon Simon Peter rushed up and, entering, saw the same empty tomb with the grave cloths so peculiarly arranged. [UB 189:5.2](/en/The_Urantia_Book/189#p5_2) [^52]
+> Very soon Simon Peter rushed up and, entering, saw the same empty tomb with the grave cloths so peculiarly arranged. <a id="a492_119"></a>[UB 189:5.2](/en/The_Urantia_Book/189#p5_2) [^52]
 
-> Peter at first suggested that the grave had been rifled, that enemies had stolen the body, perhaps bribed the guards. But John reasoned that the grave would hardly have been left so orderly if the body had been stolen, and he also raised the question as to how the bandages happened to be left behind, and so apparently intact. And again they both went back into the tomb more closely to examine the grave cloths. [UB 189:5.3](/en/The_Urantia_Book/189#p5_3) [^53]
+> Peter at first suggested that the grave had been rifled, that enemies had stolen the body, perhaps bribed the guards. But John reasoned that the grave would hardly have been left so orderly if the body had been stolen, and he also raised the question as to how the bandages happened to be left behind, and so apparently intact. And again they both went back into the tomb more closely to examine the grave cloths. <a id="a494_416"></a>[UB 189:5.3](/en/The_Urantia_Book/189#p5_3) [^53]
 
 Perhaps all of these mysteries are part of the plan. Perhaps the bandages were left apparently intact to make the whole scene impossible to explain. Perhaps the face napkin and burial cloth were folded and separated from each other to help make sure that the various pieces of cloth were distinguishable and more easily noticed so that 2000 years later we arouse our curiosity, to encourage interest and intrigue.
 
@@ -553,23 +553,23 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 	4) Drawing correlations between scientific issues related the TS and statements made in _The Urantia Book_ regarding the pieces of cloth related to Jesus' burial.
 	It must be emphasized that the type of correlations being made in this report between what _The Urantia Book_ says and various scientific studies that have developed in relation to the TS do not meet the standards that are used for any of the other UBtheNEWS reports. The standard for this report is much more speculative. Material presented in this report is offered because it is intriguing. Unlike other UBtheNEWS reports where correlations need to be corroborative, correlations here are drawn based on things being reasonably associated.
 
-[^4]: [UB 188:0.3](/en/The_Urantia_Book/188#p0_3) References to material from _The Urantia Book_ are provided in the form just given. The first number indicates the chapter (referred to in _The Urantia Book_ as “Papers”); the section number is given second; and the third number(s) reference(s) paragraph(s). A zero in the chapter position indicates the quote comes from the Forward. A zero in the section position indicates it comes from that chapter's introductory remarks.
+[^4]: <a id="a555_6"></a>[UB 188:0.3](/en/The_Urantia_Book/188#p0_3) References to material from _The Urantia Book_ are provided in the form just given. The first number indicates the chapter (referred to in _The Urantia Book_ as “Papers”); the section number is given second; and the third number(s) reference(s) paragraph(s). A zero in the chapter position indicates the quote comes from the Forward. A zero in the section position indicates it comes from that chapter's introductory remarks.
 
-[^5]: [UB 188:1.2-5,7](/en/The_Urantia_Book/188#p1_2)
+[^5]: <a id="a557_6"></a>[UB 188:1.2-5,7](/en/The_Urantia_Book/188#p1_2)
 
-[^6]: “Morontia is a term designating a vast level intervening between the material and the spiritual. It may designate personal or impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical.” [UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
+[^6]: “Morontia is a term designating a vast level intervening between the material and the spiritual. It may designate personal or impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical.” <a id="a559_242"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
 
-[^7]: [UB 189:1.2](/en/The_Urantia_Book/189#p1_2)
+[^7]: <a id="a561_6"></a>[UB 189:1.2](/en/The_Urantia_Book/189#p1_2)
 
-[^8]: [UB 189:1.7](/en/The_Urantia_Book/189#p1_7)
+[^8]: <a id="a563_6"></a>[UB 189:1.7](/en/The_Urantia_Book/189#p1_7)
 
-[^9]: [UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1)
+[^9]: <a id="a565_6"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1)
 
-[^10]: [UB 189:4.3-10,12-14](/en/The_Urantia_Book/189#p4_3); [UB 189:5.1-5](/en/The_Urantia_Book/189#p5_1)
+[^10]: <a id="a567_7"></a>[UB 189:4.3-10,12-14](/en/The_Urantia_Book/189#p4_3); <a id="a567_61"></a>[UB 189:5.1-5](/en/The_Urantia_Book/189#p5_1)
 
-[^11]: [UB 191:0.4](/en/The_Urantia_Book/191#p0_4)
+[^11]: <a id="a569_7"></a>[UB 191:0.4](/en/The_Urantia_Book/191#p0_4)
 
-[^12]: [UB 190:1.2](/en/The_Urantia_Book/190#p1_2)
+[^12]: <a id="a571_7"></a>[UB 190:1.2](/en/The_Urantia_Book/190#p1_2)
 
 [^13]: http://en.wikipedia.org/wiki/Shroud_of_turin\#cite_note-rogers-3
 
@@ -581,25 +581,25 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^17]: http://www.Shroud.com/guscin.htm
 
-[^18]: [UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^18]: <a id="a583_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
 [^19]: http://www.Shroud.com/guscin.htm
 
-[^20]: [UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^20]: <a id="a587_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
 [^21]: http://www.Shroud.com/guscin.htm
 
-[^22]: [UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^22]: <a id="a591_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
-[^23]: [UB 189:2.1](/en/The_Urantia_Book/189#p2_1)
+[^23]: <a id="a593_7"></a>[UB 189:2.1](/en/The_Urantia_Book/189#p2_1)
 
-[^24]: [UB 189:2.4](/en/The_Urantia_Book/189#p2_4)
+[^24]: <a id="a595_7"></a>[UB 189:2.4](/en/The_Urantia_Book/189#p2_4)
 
-[^25]: [UB 189:2.7,8](/en/The_Urantia_Book/189#p2_7)
+[^25]: <a id="a597_7"></a>[UB 189:2.7,8](/en/The_Urantia_Book/189#p2_7)
 
-[^26]: [UB 189:4.6](/en/The_Urantia_Book/189#p4_6)
+[^26]: <a id="a599_7"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6)
 
-[^27]: [UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
+[^27]: <a id="a601_7"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
 
 [^28]: http://www.Shroudofturin.com/Science1.html
 
@@ -617,9 +617,9 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^35]: http://www.dim.unipd.it/fanti/corona.pdf
 
-[^36]: UB [UB 189:2.7](/en/The_Urantia_Book/189#p2_7)
+[^36]: UB <a id="a619_10"></a>[UB 189:2.7](/en/The_Urantia_Book/189#p2_7)
 
-[^37]: UB [UB 189:2.8](/en/The_Urantia_Book/189#p2_8)
+[^37]: UB <a id="a621_10"></a>[UB 189:2.8](/en/The_Urantia_Book/189#p2_8)
 
 [^38]: http://www.shroud.com/pdfs/accett2.pdf
 
@@ -641,17 +641,17 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^47]: http://Shroud.com/pdfs/doclist.pdf
 
-[^48]: UB [UB 120:3.7](/en/The_Urantia_Book/120#p3_7)
+[^48]: UB <a id="a643_10"></a>[UB 120:3.7](/en/The_Urantia_Book/120#p3_7)
 
-[^51]: Urantia Book [UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
+[^51]: Urantia Book <a id="a645_20"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
 
-[^52]: Urantia Book [UB 189:5.2](/en/The_Urantia_Book/189#p5_2)
+[^52]: Urantia Book <a id="a647_20"></a>[UB 189:5.2](/en/The_Urantia_Book/189#p5_2)
 
-[^53]: Urantia Book [UB 189:5.3](/en/The_Urantia_Book/189#p5_3)
+[^53]: Urantia Book <a id="a649_20"></a>[UB 189:5.3](/en/The_Urantia_Book/189#p5_3)
 
-[^54]: Urantia Book [UB 196:3.30](/en/The_Urantia_Book/196#p3_30)
+[^54]: Urantia Book <a id="a651_20"></a>[UB 196:3.30](/en/The_Urantia_Book/196#p3_30)
 
-[^55]: Urantia Book [UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
+[^55]: Urantia Book <a id="a653_20"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
 
 
 

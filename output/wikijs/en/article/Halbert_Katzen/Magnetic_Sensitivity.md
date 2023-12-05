@@ -57,7 +57,7 @@ Before addressing the particular scientific advances that having been catching u
 
 > The laws of revelation hamper us greatly by their proscription of the impartation of unearned or premature knowledge. . .
 > 
-> Mankind should understand that we who participate in the revelation of truth are very rigorously limited by the instructions of our superiors. We are not at liberty to anticipate the scientific discoveries of a thousand years. ([UB 101:4.1-2](/en/The_Urantia_Book/101#p4_1))
+> Mankind should understand that we who participate in the revelation of truth are very rigorously limited by the instructions of our superiors. We are not at liberty to anticipate the scientific discoveries of a thousand years. (<a id="a59_230"></a>[UB 101:4.1-2](/en/The_Urantia_Book/101#p4_1))
 
 On the other hand, _The Urantia Book_ says,
 
@@ -66,7 +66,7 @@ On the other hand, _The Urantia Book_ says,
 > While statements with reference to cosmology are never inspired, such revelations are of immense value in that they at least transiently clarify knowledge by:
 > 
 > 1) The reduction of confusion by the authoritative elimination of error.
-> 2) The co-ordination of known or about-to-be-known facts and observations. ([UB 101:4.2-5](/en/The_Urantia_Book/101#p4_2))
+> 2) The co-ordination of known or about-to-be-known facts and observations. (<a id="a68_78"></a>[UB 101:4.2-5](/en/The_Urantia_Book/101#p4_2))
 
 Striking a balance between not “anticipating the discoveries of a thousand years” and “the coordination of known or about-to-be-known facts and observations” is something that would have had to have been done regarding the issue of biological sensitivity to the earth's magnetic field. The initial phases of scientific study on this issue certainly began before _The Urantia Book_ was published, and today scientific opinion on the subject still lacks a broad consensus. Nonetheless, the pattern of emerging science is well aligned with _The Urantia Book_'s assertions on this topic. The early research that was done prior to _The Urantia Book_'s publication has advanced significantly in the last several decades.
 
@@ -76,7 +76,7 @@ Wikipedia's provides a brief encapsulation of the subject and a quick appreciati
 
 > Magnetoception (or “magnetoreception”) is the ability to detect changes in a magnetic field to perceive direction or altitude and has even been postulated as a method for animals to develop regional maps. It is most commonly observed in birds, though it has also been observed in many other animals including honeybees and turtles. Researchers have identified a probable sensor in pigeons: a small (dwarf), heavily innervated region of the skull, which contains biological magnetite. Humans have a similar magnetite deposit in the ethmoid bone of the nose. Although there is no dispute that a magnetic sense exists in many avians (it is essential to the navigational abilities of migratory birds), it is a controversial and not well-understood phenomenon. . . In bees, it has been observed that magnetite is embedded across the cellular membrane of a small group of neurons; the theory is that when the magnetite aligns with the Earth's magnetic field, induction causes a current to cross the membrane which depolarizes the cell. [^1]
 
-> The four points of the compass are universal and inherent in the life of Nebadon [the section of the cosmos where Earth exists]. All living creatures possess bodily units which are sensitive and responsive to these directional currents. These creature creations are duplicated on down through the universe to the individual planets and, in conjunction with the magnetic forces of the worlds, so activate the hosts of microscopic bodies in the animal organism that these direction cells ever point north and south. Thus is the sense of orientation forever fixed in the living beings of the universe. This sense is not wholly wanting as a conscious possession by mankind. These bodies were first observed on Urantia [Earth] about the time of this narration. ([UB 34:4.10](/en/The_Urantia_Book/34#p4_10))
+> The four points of the compass are universal and inherent in the life of Nebadon [the section of the cosmos where Earth exists]. All living creatures possess bodily units which are sensitive and responsive to these directional currents. These creature creations are duplicated on down through the universe to the individual planets and, in conjunction with the magnetic forces of the worlds, so activate the hosts of microscopic bodies in the animal organism that these direction cells ever point north and south. Thus is the sense of orientation forever fixed in the living beings of the universe. This sense is not wholly wanting as a conscious possession by mankind. These bodies were first observed on Urantia [Earth] about the time of this narration. (<a id="a78_759"></a>[UB 34:4.10](/en/The_Urantia_Book/34#p4_10))
 
 _The Urantia Book_ claims that its content was provided in the mid 1930's; however, it was not published until 1955. Though the publication date is a universally uncontenscious issue, it's claim that the content of _The Urantia Book_ was provided in the mid 1930's is an issue that attracts a broader range of opinion and is not so easily verified as the book's publication date.
 
@@ -212,7 +212,7 @@ http://icb.oxfordjournals.org/cgi/content/abstract/31/1/169
 > 
 > We are handicapped for words adequately to designate these seven adjutant mindspirits. They are ministers of the lower levels of experiential mind, and they may be described, in the order of evolutionary attainment, as follows:
 > 
-> 1\. The spirit of intuition-quick perception, the primitive physical and inherent reflex instincts, the directional and other self-preservative endowments of all mind creations; the only one of the adjutants to function so largely in the lower orders of animal life and the only one to make extensive functional contact with the nonteachable levels of mechanical mind. [UB 36:5.2,5](/en/The_Urantia_Book/36#p5_2)
+> 1\. The spirit of intuition-quick perception, the primitive physical and inherent reflex instincts, the directional and other self-preservative endowments of all mind creations; the only one of the adjutants to function so largely in the lower orders of animal life and the only one to make extensive functional contact with the nonteachable levels of mechanical mind. <a id="a214_371"></a>[UB 36:5.2,5](/en/The_Urantia_Book/36#p5_2)
 
 ### Additional Resources
 
@@ -333,11 +333,11 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 [^1]: http://en.wikipedia.org/wiki/Magnetoception
 [^2]: http://en.wikipedia.org/wiki/Electromagnetism
 [^3]: http://wrt-intertext.syr.edu/ll2/samie.html
-[^4]: Urantia Book [UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
+[^4]: Urantia Book <a id="a335_19"></a>[UB 101:4.2](/en/The_Urantia_Book/101#p4_2)
 [^5]: http://www.admissions.caltech.edu/about/milestones
 [^6]: http://www.affs.org/html/biomagnetism.html
 [^7]: http://www.abc.net.au/science/news/stories/s154625.htm
 [^8]: Howard C. Hughes: Sensory Exotica: a world beyond human experience; 1999, Ch. 10
 [^9]: http://www.abc.net.au/science/news/stories/s154625.htm
-[^10]: Urantia Book 101:4.5 [UB 101:4.5](/en/The_Urantia_Book/101#p4_5)
+[^10]: Urantia Book 101:4.5 <a id="a341_28"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)
 
