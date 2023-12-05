@@ -35,21 +35,14 @@ Os produtos deste marco são:
 - :sound: _A versão em áudio do Livro de Urântia_
 - :sunrise_over_mountains: ilustrações para _O Livro de Urântia_, _A Bíblia_ e o _Índice de tópicos_
 
-### Tarefas de desenvolvimento de software
+### Tarefas
 
-Nesta fase os desenvolvimentos a realizar são:
+Nesta fase as tarefas a realizar são:
 
 Tarefa                                                                                                        | Estado             |
 ------------------------------------------------------------------------------------------------------------- | ------------------ |
 Desenvolvimento de conversores de arquivos para Wiki.js                                                       | :heavy_check_mark: |
 Desenvolvimento do _Topic Index Editor_, um assistente que permite agilizar o trabalho com o Índice de Termos | :clock2:           |
-
-### Tarefas de adição de conteúdo
-
-Para cada idioma suportado, a lista de tarefas para completar o marco I é esta:
-
-Tarefa                                                                                                        | Estado             |
-------------------------------------------------------------------------------------------------------------- | ------------------ |
 Tradução de _Paramony_ :ledger: do inglês para o idioma de destino. | :heavy_check_mark:
 Tradução e revisão de _Topic index_ :card_index: do inglês para o idioma de destino. | :clock2:
 Obtenha uma tradução de domínio público de _The Bible_ :closed_book: no idioma de destino. | :heavy_check_mark:
@@ -65,7 +58,7 @@ Conversão de _The Bible_ :closed_book: de LaTeX para Wiki.js com _Paramony_ :le
 
 A próxima tabela resume o progresso atual:
 
-| Idioma      | :ledger:           | :card_index:        | :closed_book:        | :blue_book:        | :sound:            | :sunrise_over_mountains: |
+| Idioma      | :ledger:&nbsp;     | :card_index:&nbsp; | :closed_book:&nbsp; | :blue_book:&nbsp; | :sound:&nbsp;   | :sunrise_over_mountains:&nbsp; |
 | ----------- | :----------------: | :-----------------: | :------------------: | :----------------: | :----------------: | :----------------------: |
 | Búlgaro     | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
 | Checo       | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
@@ -112,20 +105,13 @@ Para cada idioma o conteúdo esperado neste marco é:
 - :memo: Diagramas e esquemas dos leitores
 - :capital_abcd: Índices
 
-### Tarefas de desenvolvimento de software
+### Tarefas
 
-Nesta fase os desenvolvimentos a realizar são:
+Nesta fase as tarefas a realizar são:
 
 Tarefa                                                          | Estado             |
 ----------------------------------------------------------------| ------------------ |
 Desenvolvimento para conversão de livros e artigos para Wiki.js | :clock2:           |
-
-### Tarefas de adição de conteúdo
-
-Para cada idioma, o conteúdo esperado neste marco é:
-
-Tarefa                                                          | Estado             |
-----------------------------------------------------------------| ------------------ |
 Importe livros extra-bíblicos :green_book: de páginas da web existentes para Urântiapédia, traduza se necessário, e linke para _Livro de Urântia_ se possível | :clock2:
 Importe livros de todas as religiões atuais do mundo :orange_book: de páginas da web existentes para a Urântiapédia, traduza se necessário, e linke para _Urantia Book_ se possível | :clock2:
 Digitalize ou baixe outros livros :books: sobre filosofia, teologia e ciência que supostamente são fontes de _O Livro de Urântia_ e importe-os para a Urântiapedia, traduzindo se necessário, e vinculando a _O Livro de Urântia_ usando as obras de Matthew Block e outros | :clock2:
@@ -137,7 +123,7 @@ Crie índices :capital_abcd: com diferentes critérios para busca rápida no sit
 
 ### Progresso
 
-| Idioma      | :green_book: | :orange_book: | :books:    | :notebook_with_decorative_cover:    | :page_with_curl:   | :notebook:            | :memo:   | :capital_abcd:   |
+| Idioma      | :green_book:&nbsp; | :orange_book:&nbsp; | :books:&nbsp; | :notebook_with_decorative_cover:&nbsp; | :page_with_curl:&nbsp; | :notebook:&nbsp; | :memo:&nbsp; | :capital_abcd:&nbsp; |
 | ----------- | :----------- | :-----------  | :--------: | :---------------------------------: | :----------------: | :-------------------: | :------: | :--------------: |
 | Inglês      | :clock2:     |               | :clock2:   | :clock2:                            | :heavy_check_mark: | :heavy_check_mark:    |          | :clock2:         |
 | Espanhol    | :clock2:     |               | :clock2:   | :clock2:                            | :clock2:           | :clock2:              |          | :clock2:         |
@@ -149,7 +135,7 @@ Esta é uma informação detalhada sobre o progresso com a adição de artigos. 
 
 A tabela abaixo não está completa. Existem mais sites que estamos considerando adicionar à Urântiapedia. Esta tabela será atualizada à medida que houver progresso nos meses seguintes.
 
-| Editora <br>/ Publicação         | Núm.  | Ing.               | Esp.               | Fr.       |
+| Editora /<br>Publicação      | Núm.      | Ing.               | Esp.               | Fr.       |
 | ---------------------------- | --------: | :----------------: | :----------------: | :-------: |
 | The Urantia Foundation       |           |                    |                    |           |
 | - News Online                | 614       | :heavy_check_mark: |                    |           |
@@ -159,7 +145,7 @@ A tabela abaixo não está completa. Existem mais sites que estamos considerando
 | - Fellowship Herald          | 232       | :heavy_check_mark: | :heavy_check_mark: |           |
 | - Mighty Messenger           | 218       | :heavy_check_mark: | :heavy_check_mark: |           |
 | - Study Group Herald         | 129       | :heavy_check_mark: |                    |           |
-| - The Urantian               |   ?       | :clock2:           |                    |           |
+| - The Urantian               | 264       | :heavy_check_mark: |                    |           |
 | IUA                          |           |                    |                    |           |
 | - Journal                    |  99       | :heavy_check_mark: |                    |           |
 | - Tidings                    | 364       | :heavy_check_mark: |                    |           |
@@ -169,17 +155,17 @@ A tabela abaixo não está completa. Existem mais sites que estamos considerando
 | - Luz y Vida                 | 337       | :heavy_check_mark: | :heavy_check_mark: |           |
 | - Website                    |   ?       |                    |                    |           |
 | ANZURA Association           |           |                    |                    |           |
-| - 6-0-6                      |   ?       | :clock2:           |                    |           |
-| - The Arena                  |   ?       | :clock2:           |                    |           |
+| - 6-0-6                      | 257       | :heavy_check_mark: |                    |           |
+| - The Arena                  | 108       | :heavy_check_mark: |                    |           |
 | French Association           |           |                    |                    |           |
 | - CERDH - The Letter         |   ?       |                    |                    |           |
 | - Le Lien                    |   ?       |                    |                    |           |
 | Quebec Association           |           |                    |                    |           |
 | - Reflectivite               |   ?       |                    |                    |           |
 | - Website                    | 116       |                    |                    |           |
-| UB Annotated                 |   ?       | :clock2:           | :clock2:           |           |
+| UB Annotated                 |  20       | :heavy_check_mark: | :clock2:           |           |
 | Jan Herca articles           |  41       | :clock2:           | :clock2:           |           |
-| **TOTAL**                    | **3205**  |                    |                    |           |
+| **TOTAL**                    | **3854**  |                    |                    |           |
 
 
 ## Marco III - Tradutor
@@ -226,33 +212,33 @@ Este marco inclui algum desenvolvimento que atualmente não está planejado. Tam
 
 ## Tarefas planejadas
 
-Aqui você pode encontrar uma lista de tarefas que não estão ativas no momento. Se você é um colaborador ou deseja ser um, verifique esta lista com frequência para ver onde você pode fazer suas melhores adições. Se uma tarefa estiver recuada acima, isso significa que a tarefa depende de anterior para iniciar.
+Esta é a lista de todas as tarefas que consideramos até agora para cada tipo de conteúdo. Se você é um contribuidor ou deseja se tornar um, verifique esta lista com frequência para ver onde você pode fazer suas melhores contribuições.
 
-|          Ícone           | Conteúdo              | Tarefas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| :----------------------: | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       :blue_book:        | O Livro de Urântia    | Revisão da tradução automática feita para notas de rodapé _Paramony_ exceto `es` e `en`.                                                                                                                                                                                                                                                                                                                                                                                                           |
-|         :sound:          | Áudio                 | Teste as soluções de conversão de texto em fala mais adequadas: todos os idiomas.<br> Geração de áudio do Livro de Urântia: atualmente disponível em `en` e em processo com `es`.                                                                                                                                                                                                                                                                                                                  |
-| :sunrise_over_mountains: | Imagens               | Crie um catálogo de imagens para ilustrar O Livro de Urântia, a Bíblia e o Índice de Tópicos. Atualmente é feito com a parte IV do Livro de Urântia.                                                                                                                                                                                                                                                                                                                                               |
-|       :card_index:       | O Índice do Tópico    | Produza a primeira versão para `en` e `es`. Esta é uma tarefa pesada que foi dividida por letras do alfabeto. As letras `A` a `G` já estão finalizadas e permanecem as letras `H` a `Z`.<br> Tradução automática do Índice de Tópicos: não é recomendado iniciar esta tarefa até que a anterior seja concluída porque algum processo automático ajudará aqui .<br> Revisão da tradução anterior: como acima não é recomendado iniciar esta tarefa até produzir a primeira versão para `en` e `es`. |
-|      :closed_book:       | A Bíblia              | Revisão da tradução automática das notas de rodapé _Paramony_: todos os idiomas exceto `en` e `es`.                                                                                                                                                                                                                                                                                                                                                                                                |
-|       :green_book:       | Livros extra-bíblicos | Obtenha livros extra-bíblicos de domínio público: todas as línguas.                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|         :books:          | Outros livros         | Obtenha as supostas fontes dos livros (baixando da web ou digitalizando): os livros geralmente estão em `en`.<br> Tradução automática de livros anteriores: todos os idiomas exceto `en`.<br> Revisão da tradução anterior: todos os idiomas exceto ` en`.                                                                                                                                                                                                                                         |
-|     :page_with_curl:     | Artigos               | Adição de artigos em `en` e revisão do estilo.<br>Tradução automática de artigos: todos os idiomas exceto `en`.<br> Revisão da tradução anterior: todos os idiomas exceto `en`.                                                                                                                                                                                                                                                                                                                    |
-|        :notebook:        | Auxílios de estudo    | Tradução automática de auxiliares de estudo: todos os idiomas, exceto `en`.<br> Revisão da tradução anterior: todos os idiomas, exceto `en`                                                                                                                                                                                                                                                                                                                                                        |
-|          :memo:          | Diagramas             | Planeje uma lista de diagramas para incluir e crie um para teste.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|      :capital_abcd:      | Índices               | Planeje uma lista de índices a serem incluídos.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|  :globe_with_meridians:  | Mapas estáticos       | Planeje uma lista de mapas estáticos (imagens) para incluir e crie uma para teste                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|     :earth_americas:     | Mapas interativos     | Crie um geodatabase e projetos QGIS para geração automática de mapas<br>Teste a exportação de mapas para SVG, mapas de imagem HTML e KML (isso requer uma plataforma de mapas como Google My Maps ou nossa própria)<br> Tradução automática de textos em mapas: todas as línguas.                                                                                                                                                                                                                  |
-|       :bar_chart:        | Apresentações         | Planeje uma lista de apresentações para incluir e crie uma para teste usando o Google Drive.                                                                                                                                                                                                                                                                                                                                                                                                       |
-|       :milky_way:        | Modelos 3D            | Planeje uma lista de cenas 3D para incluir e crie uma para teste usando o Sketchfab.                                                                                                                                                                                                                                                                                                                                                                                                               |
-|      :movie_camera:      | Vídeo                 | Crie uma introdução estendida ao Urantiapedia (canal do YouTube).<br> Crie um tutorial avançado para contribuidores do Urantiapedia (canal do YouTube).                                                                                                                                                                                                                                                                                                                                            |
+| Conteúdo              | Tarefas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :blue_book: O Livro de Urântia | Revisão da tradução automática feita para notas de rodapé _Paramony_ exceto `es` e `en`.                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :sound: Áudio | Teste as soluções de conversão de texto em fala mais adequadas: todos os idiomas.<br> Geração de áudio do Livro de Urântia: atualmente disponível em `en` e em processo com `es`.                                                                                                                                                                                                                                                                                                                  |
+| :sunrise_over_mountains: Imagens | Crie um catálogo de imagens para ilustrar O Livro de Urântia, a Bíblia e o Índice de Tópicos. Atualmente é feito com a parte IV do Livro de Urântia.                                                                                                                                                                                                                                                                                                                                               |
+| :card_index: O Índice do Tópico | Produza a primeira versão para `en` e `es`. Esta é uma tarefa pesada que foi dividida por letras do alfabeto. As letras `A` a `G` já estão finalizadas e permanecem as letras `H` a `Z`.<br> Tradução automática do Índice de Tópicos: não é recomendado iniciar esta tarefa até que a anterior seja concluída porque algum processo automático ajudará aqui .<br> Revisão da tradução anterior: como acima não é recomendado iniciar esta tarefa até produzir a primeira versão para `en` e `es`. |
+| :closed_book: A Bíblia | Revisão da tradução automática das notas de rodapé _Paramony_: todos os idiomas exceto `en` e `es`.                                                                                                                                                                                                                                                                                                                                                                                                |
+| :green_book: Livros extra-bíblicos | Obtenha livros extra-bíblicos de domínio público: todas as línguas.                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :books: Outros livros | Obtenha as supostas fontes dos livros (baixando da web ou digitalizando): os livros geralmente estão em `en`.<br> Tradução automática de livros anteriores: todos os idiomas exceto `en`.<br> Revisão da tradução anterior: todos os idiomas exceto ` en`.                                                                                                                                                                                                                                         |
+| :page_with_curl: Artigos | Adição de artigos em `en` e revisão do estilo.<br>Tradução automática de artigos: todos os idiomas exceto `en`.<br> Revisão da tradução anterior: todos os idiomas exceto `en`.                                                                                                                                                                                                                                                                                                                    |
+| :notebook: Auxílios de estudo | Tradução automática de auxiliares de estudo: todos os idiomas, exceto `en`.<br> Revisão da tradução anterior: todos os idiomas, exceto `en`                                                                                                                                                                                                                                                                                                                                                        |
+| :memo: Diagramas | Planeje uma lista de diagramas para incluir e crie um para teste.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :capital_abcd: Índices | Planeje uma lista de índices a serem incluídos.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :globe_with_meridians: Mapas estáticos | Planeje uma lista de mapas estáticos (imagens) para incluir e crie uma para teste                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :earth_americas: Mapas interativos | Crie um geodatabase e projetos QGIS para geração automática de mapas<br>Teste a exportação de mapas para SVG, mapas de imagem HTML e KML (isso requer uma plataforma de mapas como Google My Maps ou nossa própria)<br> Tradução automática de textos em mapas: todas as línguas.                                                                                                                                                                                                                  |
+| :bar_chart: Apresentações | Planeje uma lista de apresentações para incluir e crie uma para teste usando o Google Drive.                                                                                                                                                                                                                                                                                                                                                                                                       |
+| :milky_way: Modelos 3D | Planeje uma lista de cenas 3D para incluir e crie uma para teste usando o Sketchfab.                                                                                                                                                                                                                                                                                                                                                                                                               |
+| :movie_camera: Vídeo | Crie uma introdução estendida ao Urantiapedia (canal do YouTube).<br> Crie um tutorial avançado para contribuidores do Urantiapedia (canal do YouTube).                                                                                                                                                                                                                                                                                                                                            |
 
 
 ## Resumo
 
-A tabela a seguir resume todo o progresso com cada tipo de conteúdo:
+A tabela a seguir resume todo o progresso com cada tipo de conteúdo ([1](#note1)):
 
-| Idioma      |  :blue_book:       | :sound:            | :sunrise_over_mountains:  |  :card_index:  | :closed_book:      | :green_book:       |  :books:        | :page_with_curl:  | :notebook:           | :memo:  | :globe_with_meridians:   | :earth_americas: | :bar_chart: | :milky_way: |
+| Idioma      |  :blue_book:&nbsp; | :sound:&nbsp;      | :sunrise_over_mountains:&nbsp; | :card_index:&nbsp; | :closed_book:&nbsp; | :green_book:&nbsp; |  :books:&nbsp; | :page_with_curl:&nbsp; | :notebook:&nbsp; | :memo:&nbsp; | :globe_with_meridians:&nbsp; | :earth_americas:&nbsp; | :bar_chart:&nbsp; | :milky_way:&nbsp; |
 | ----------- | :----------------: | :----------------: | :-----------------------: | :------------: | :----------------: | :------------:     | :-------------: | :---------------: | :------------------: | :-----: | :----------------------: | :--------------: | :---------: | :---------: |
 | Búlgaro     | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
 | Checo       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
@@ -281,7 +267,7 @@ A tabela a seguir resume todo o progresso com cada tipo de conteúdo:
 | Turco       | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
 
 
-(1) Livro de Urântia :blue_book: e Bíblia :closed_book: com o _Paramony_ incluído.
+(<a id="note1">1</a>) Livro de Urântia :blue_book: e Bíblia :closed_book: com o _Paramony_ incluído.
 
 ## Links externos
 

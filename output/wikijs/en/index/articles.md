@@ -93,7 +93,7 @@ Sources:
 
 The Urantian was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, from 1976 to 1994.
 
-The index of all available issues is here: [The Urantian — Journal of Urantia BrotherHood](/en/index/articles_urantian_journal).
+The index of all available issues is here: [The Urantian — Journal of Urantia BrotherHood](/en/index/articles_the_urantian).
 
 Sources: 
 - https://urantia-book.org/archive/newsletters/urantian_journal/

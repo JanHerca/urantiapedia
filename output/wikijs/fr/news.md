@@ -12,6 +12,8 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 
 ## 2023
 
+- [Nouvelles Novembre 2023](/fr/news/2023/11)
+- [Nouvelles Octobre 2023](/fr/news/2023/10)
 - [Nouvelles Septembre 2023](/fr/news/2023/09)
 - [Nouvelles Août 2023](/fr/news/2023/08)
 - [Nouvelles Juillet 2023](/fr/news/2023/07)
@@ -25,7 +27,7 @@ dateCreated: 2022 News-07-03T14:02:03.086Z
 ## 2022
 
 - [Un an de recul — 2022](/fr/news/2022/12)
-- [Nouvelles novembre 2022](/fr/news/2022/11)
+- [Nouvelles Novembre 2022](/fr/news/2022/11)
 - [Nouvelles Octobre 2022](/fr/news/2022/10)
 - [Nouvelles Septembre 2022](/fr/news/2022/09)
 - [Nouvelles Août 2022](/fr/news/2022/08)

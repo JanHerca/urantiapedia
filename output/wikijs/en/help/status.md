@@ -35,21 +35,14 @@ The products of this milestone are:
 - :sound: _The Urantia Book audio version_
 - :sunrise_over_mountains: illustrations for _The Urantia Book_, _The Bible_ and the _Topic index_
 
-### Software development tasks
+### Tasks
 
-In this phase the developments to be carried out are:
+In this phase the tasks to be carried out are:
 
 Task                                                                                                           | State              |
 -------------------------------------------------------------------------------------------------------------- | ------------------ |
 Development of file converters to Wiki.js                                                                      | :heavy_check_mark: |
 Development of the _Topic Index Editor_, an assistant that allows to speed up the work with the Index of Terms | :clock2:           |
-
-### Content addition tasks
-
-For each language supported the list of tasks to complete milestone I is this:
-
-Task                                                                                                           | State              |
--------------------------------------------------------------------------------------------------------------- | ------------------ |
 Translation of _Paramony_ :ledger: from English to the target language. | :heavy_check_mark:
 Translation and review of _Topic index_ :card_index: from English to the target language. | :clock2:
 Obtain a public-domain translation of _The Bible_ :closed_book: in the target language. | :heavy_check_mark:
@@ -65,7 +58,7 @@ Conversion of _The Bible_ :closed_book: from LaTeX to Wiki.js with _Paramony_ :l
 
 Next table summarizes current progress:
 
-| Language   | :ledger:           | :card_index:        | :closed_book:        | :blue_book:        | :sound:            | :sunrise_over_mountains: |
+| Language   | :ledger:&nbsp;     | :card_index:&nbsp; | :closed_book:&nbsp; | :blue_book:&nbsp; | :sound:&nbsp;   | :sunrise_over_mountains:&nbsp; |
 | ---------- | :----------------: | :-----------------: | :------------------: | :----------------: | :----------------: | :----------------------: |
 | Bulgarian  | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
 | Czech      | :heavy_check_mark: |                     | :heavy_check_mark:   | :heavy_check_mark: |                    | :clock2:                 |
@@ -111,20 +104,13 @@ For each language the content expected in this milestone is:
 - :memo: Diagrams and schematics from readers
 - :capital_abcd: Indexes
 
-### Software development tasks
+### Tasks
 
-In this phase the developments to be carried out are:
+In this phase the tasks to be carried out are:
 
 Task                                                            | State              |
 ----------------------------------------------------------------| ------------------ |
 Development for the conversion of books and articles to Wiki.js | :clock2:           |
-
-### Content addition tasks
-
-For each language the content expected in this milestone is:
-
-Task                                                            | State              |
-----------------------------------------------------------------| ------------------ |
 Import extra-biblical books :green_book: from existing web pages to Urantiapedia, translate if required, and link to _Urantia Book_ if possible | :clock2:
 Import books from all current world religions :orange_book: from existing web pages to Urantiapedia, translate if required, and link to _Urantia Book_ if possible | :clock2:
 Scan or download other books :books: about philosophy, theology and science that are supposed to be sources of _The Urantia Book_ and import them to Urantiapedia, translating if needed, and linking to _The Urantia Book_ using the works from Matthew Block and others | :clock2:
@@ -136,7 +122,7 @@ Create indexes :capital_abcd: with different criteria for fast search in the web
 
 ### Progress
 
-| Language   | :green_book: | :orange_book: | :books:    | :notebook_with_decorative_cover:    | :page_with_curl:   | :notebook:            | :memo:   | :capital_abcd:   |
+| Language   | :green_book:&nbsp; | :orange_book:&nbsp; | :books:&nbsp; | :notebook_with_decorative_cover:&nbsp; | :page_with_curl:&nbsp; | :notebook:&nbsp; | :memo:&nbsp; | :capital_abcd:&nbsp; |
 | ---------- | :----------- | :-----------  | :--------: | :---------------------------------: | :----------------: | :-------------------: | :------: | :--------------: |
 | English    | :clock2:     |               | :clock2:   | :clock2:                            | :heavy_check_mark: | :heavy_check_mark:    |          | :clock2:         |
 | Spanish    | :clock2:     |               | :clock2:   | :clock2:                            | :clock2:           | :clock2:              |          | :clock2:         |
@@ -149,7 +135,7 @@ This is a detailed information on the progress with the addition of articles. Ur
 
 The table below is not completed. There are more websites that we are considering to add to Urantiapedia. This table will be updated as progress is made in following months.
 
-| Publisher <br>/ Publication  | Num.       | Eng.               | Spa.               | Fr.       |
+| Publisher /<br>Publication   | Num.       | Eng.               | Spa.               | Fr.       |
 | ---------------------------- | ---------: | :----------------: | :----------------: | :-------: |
 | The Urantia Foundation       |            |                    |                    |           |
 | - News Online                | 614        | :heavy_check_mark: |                    |           |
@@ -159,7 +145,7 @@ The table below is not completed. There are more websites that we are considerin
 | - Fellowship Herald          | 232        | :heavy_check_mark: | :heavy_check_mark: |           |
 | - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: |           |
 | - Study Group Herald         | 129        | :heavy_check_mark: |                    |           |
-| - The Urantian               |   ?        | :clock2:           |                    |           |
+| - The Urantian               | 264        | :heavy_check_mark: |                    |           |
 | IUA                          |            |                    |                    |           |
 | - Journal                    |  99        | :heavy_check_mark: |                    |           |
 | - Tidings                    | 364        | :heavy_check_mark: |                    |           |
@@ -169,17 +155,17 @@ The table below is not completed. There are more websites that we are considerin
 | - Luz y Vida                 | 337        | :heavy_check_mark: | :heavy_check_mark: |           |
 | - Website                    |   ?        |                    |                    |           |
 | ANZURA Association           |            |                    |                    |           |
-| - 6-0-6                      |   ?        | :clock2:           |                    |           |
-| - The Arena                  |   ?        | :clock2:           |                    |           |
+| - 6-0-6                      | 257        | :heavy_check_mark: |                    |           |
+| - The Arena                  | 108        | :heavy_check_mark: |                    |           |
 | French Association           |            |                    |                    |           |
 | - CERDH - The Letter         |   ?        |                    |                    |           |
 | - Le Lien                    |   ?        |                    |                    |           |
 | Quebec Association           |            |                    |                    |           |
 | - Reflectivite               |   ?        |                    |                    |           |
 | - Website                    | 116        |                    |                    |           |
-| UB Annotated                 |   ?        | :clock2:           | :clock2:           |           |
+| UB Annotated                 |  20        | :heavy_check_mark: | :clock2:           |           |
 | Jan Herca articles           |  41        | :clock2:           | :clock2:           |           |
-| **TOTAL**                    | **3205**   |                    |                    |           |
+| **TOTAL**                    | **3854**   |                    |                    |           |
 
 
 ## Milestone III - Translator
@@ -225,32 +211,32 @@ This milestone include some development that currently is not planned. It is als
 
 ## Planned tasks
 
-Here you can find a list of tasks that currently are not active. If you are a contributor or want to be one check this list frequently to see where you can do your best additions. If a task is indented under above that means that the task depends on previous to start.
+This is the list of all the tasks we have considered to date for each type of content. If you are a contributor or want to become one, check this list frequently to see where you can make your best contributions.
 
-| Icon   | Content | Tasks |
-| :----: | ------- | ----- |
-| :blue_book: | The Urantia Book | Review of automatic translation made for _Paramony_ footnotes except `es` and `en`. |
-| :sound: | Audio | Test best suitable text-to-speech solutions: all languages.<br> Generation of audio of The Urantia Book: currently available in `en` and in process with `es`. |
-| :sunrise_over_mountains: | Images | Create an image catalog for illustrating The Urantia Book, the Bible and the Topic Index. Currently is done with part IV of Urantia Book. |
-| :card_index: | The Topic Index | Produce the first version for `en` and `es`. This is a heavy task that has been divided by letters of the alphabet. Letters `A` to `G` are already finished and remain letters `H` to `Z`.<br> Automatic translation of Topic Index: it is not recommended to start this tasks until previous is completed because some automatic process will help here.<br> Review of previous translation: as above it is not recommended to start this task until produce first version for `en` and `es`. |
-| :closed_book: | The Bible | Review of automatic translation of _Paramony_ footnotes: all languages except `en` and `es`. |
-| :green_book: | Extra-Biblical books | Obtain public domain Extra-Biblical books : all languages. |
-| :books: | Other books | Obtain books supposed sources (downloading from web or scanning): books are usually in `en`.<br> Automatic translation of previous books: all languages apart from `en`.<br> Review of previous translation: all languages apart from `en`. |
-| :page_with_curl: | Articles | Addition of articles in `en` and set style.<br>Automatic translation of articles: all languages apart from `en`.<br> Review of previous translation: all languages apart from `en`. |
-| :notebook: | Study aids | Plan a list of study aids to include and create one for testing. |
-| :memo: | Diagrams | Plan a list of diagrams to include and create one for testing. |
-| :capital_abcd: | Indexes | Plan a list of indexes to include. |
-| :globe_with_meridians: | Static maps | Plan a list of static maps (images) to include and create one for testing |
-| :earth_americas: | Interactive maps | Create a geodatabase and QGIS projects for auto generation of maps<br>Test exporting maps to SVG, HTML image maps, and KML (this requires a map platform as Google My Maps or our own)<br> Automatic translation of texts in maps: all languages. |
-| :bar_chart: | Slides | Plan a list of presentations to include and create one for testing using Google Drive. |
-| :milky_way: | 3D models | Plan a list of 3D scenes to include and create one for testing using Sketchfab. |
-| :movie_camera: | Video | Create a extended introduction to Urantiapedia (Youtube channel).<br> Create an advanced tutorial for Urantiapedia contributors (Youtube channel). |
+| Icon Content | Tasks |
+| ------- | ----- |
+| :blue_book: The Urantia Book | Review of automatic translation made for _Paramony_ footnotes except `es` and `en`. |
+| :sound: Audio | Test best suitable text-to-speech solutions: all languages.<br> Generation of audio of The Urantia Book: currently available in `en` and in process with `es`. |
+| :sunrise_over_mountains: Images | Create an image catalog for illustrating The Urantia Book, the Bible and the Topic Index. Currently is done with part IV of Urantia Book. |
+| :card_index: The Topic Index | Produce the first version for `en` and `es`. This is a heavy task that has been divided by letters of the alphabet. Letters `A` to `G` are already finished and remain letters `H` to `Z`.<br> Automatic translation of Topic Index: it is not recommended to start this tasks until previous is completed because some automatic process will help here.<br> Review of previous translation: as above it is not recommended to start this task until produce first version for `en` and `es`. |
+| :closed_book: The Bible | Review of automatic translation of _Paramony_ footnotes: all languages except `en` and `es`. |
+| :green_book: Extra-Biblical books | Obtain public domain Extra-Biblical books : all languages. |
+| :books: Other books | Obtain books supposed sources (downloading from web or scanning): books are usually in `en`.<br> Automatic translation of previous books: all languages apart from `en`.<br> Review of previous translation: all languages apart from `en`. |
+| :page_with_curl: Articles | Addition of articles in `en` and set style.<br>Automatic translation of articles: all languages apart from `en`.<br> Review of previous translation: all languages apart from `en`. |
+| :notebook: Study aids | Plan a list of study aids to include and create one for testing. |
+| :memo: Diagrams | Plan a list of diagrams to include and create one for testing. |
+| :capital_abcd: Indexes | Plan a list of indexes to include. |
+| :globe_with_meridians: Static maps | Plan a list of static maps (images) to include and create one for testing |
+| :earth_americas: Interactive maps | Create a geodatabase and QGIS projects for auto generation of maps<br>Test exporting maps to SVG, HTML image maps, and KML (this requires a map platform as Google My Maps or our own)<br> Automatic translation of texts in maps: all languages. |
+| :bar_chart: Slides | Plan a list of presentations to include and create one for testing using Google Drive. |
+| :milky_way: 3D models | Plan a list of 3D scenes to include and create one for testing using Sketchfab. |
+| :movie_camera: Video | Create a extended introduction to Urantiapedia (Youtube channel).<br> Create an advanced tutorial for Urantiapedia contributors (Youtube channel). |
 
 ## Summary
 
-The next table summarizes all the progress with each type of content:
+The next table summarizes all the progress with each type of content ([1](#note1)):
 
-| Language   |  :blue_book:       | :sound:            | :sunrise_over_mountains:  |  :card_index:  | :closed_book:      | :green_book:       |  :books:        | :page_with_curl:  | :notebook:           | :memo:  | :globe_with_meridians:   | :earth_americas: | :bar_chart: | :milky_way: |
+| Language   |  :blue_book:&nbsp; | :sound:&nbsp;      | :sunrise_over_mountains:&nbsp; | :card_index:&nbsp; | :closed_book:&nbsp; | :green_book:&nbsp; |  :books:&nbsp; | :page_with_curl:&nbsp; | :notebook:&nbsp; | :memo:&nbsp; | :globe_with_meridians:&nbsp; | :earth_americas:&nbsp; | :bar_chart:&nbsp; | :milky_way:&nbsp; |
 | ---------- | :----------------: | :----------------: | :-----------------------: | :------------: | :----------------: | :----------------: | :-------------: | :---------------: | :------------------: | :-----: | :----------------------: | :--------------: | :---------: | :---------: |
 | Bulgarian  | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
 | Czech      | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
@@ -278,7 +264,7 @@ The next table summarizes all the progress with each type of content:
 | Swedish    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
 | Turkish    | :heavy_check_mark: |                    | :clock2:                  |                | :heavy_check_mark: |                    |                 |                   |                      |         |                          |                  |             |             |
 
-(1) Urantia Book :blue_book: and Bible :closed_book: with the _Paramony_ included.
+(<a id="note1">1</a>) Urantia Book :blue_book: and Bible :closed_book: with the _Paramony_ included.
 
 ## External links
 
