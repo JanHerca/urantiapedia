@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+        <a href="/en/index/articles_the_urantian#summer-fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
         </a>
         </td>
@@ -153,7 +153,7 @@ I would like to close with one last tale borrowed from C.S. Lewis, author and th
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_the_urantian#summer/fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
+        <a href="/en/index/articles_the_urantian#summer-fall-1990-issue-special-conference-issue-i-1990-general-conference-walking-with-god-snowmass-aspen-colorado">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Summer/Fall 1990 Issue. Special Conference Issue I (1990 General Conference. Walking with God. Snowmass, Aspen, Colorado) — Index</span>
         </a>
         </td>
