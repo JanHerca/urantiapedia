@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _By Halbert Katzen J.D._
 
@@ -318,6 +333,22 @@ For an excellent understanding of how this topic relates to the development Jude
 * Andrew Curry, *Gobekli Tepe: The World’s First Temple?*, *Smithsonian Magazine*, noviembre 2008. https://www.smithsonianmag.com/history/gobekli-tepe-the-worlds-first-temple-83613665/, article from Smithsonian.
 
 * *Göbekli Tepe in Turkey: A 12,000-year-old Temple Complex*, Red Ice.TV, http://www.redicecreations.com/article.php?id=3487, with some good images.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

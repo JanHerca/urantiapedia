@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Halbert Katzen, JD</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Prepared by Halbert Katzen, J.D. with special thanks to Chris Halvorson, Ph.D., Chris Riggio, and Matthew Block [Updated 8/15/09]
 
 ## Inner lonosphere Summary
@@ -165,6 +181,22 @@ This large blue jet, shooting upwards from a thunderstorm's top, reached an uppe
 - http://www.mysteriousuniverse.org/?p=1023
 - (nice image) http://mysteriousuniverse.org//uploads/2007/06/lightning_sprites.jpg
 - (good images) http://umbra.nascom.nasa.gov/spd/sprites.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Footnotes
 

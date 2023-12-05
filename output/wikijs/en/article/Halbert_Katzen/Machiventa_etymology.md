@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 The direct route to approaching this etymology is circular. Of course, we need to start at the beginning, but only for the purpose of explaining why we need to start at the end. If we do not start with an understanding of where this is going, then the ride at the beginning is not going to be nearly as much fun. I want inspire fun questions, not questions like “Are we having fun yet?” or “When are we going to get there? I’m hungry!”
 
@@ -85,3 +100,19 @@ When it takes more than a man-made effort, when the team needs to use all the to
 ## External Links
 
 * This report in UBTheNews webpage: https://ubannotated.com/main-menu/animated/topical-studies/machiventa-melchizedek/machiventa-etymology/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

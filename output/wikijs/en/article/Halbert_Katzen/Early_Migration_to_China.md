@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Prepared by Halbert Katzen, J.D. [10/25/11]
 
@@ -174,6 +189,22 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
 - http://www.uiowa.edu/bioanth/courses/Peking1.htm
 - http://www.archaeologydaily.com/news/201104306509/Did-Peking-Man-wield-a-spear.htmlhttp://www.unreportedheritagenews.com/2011/04/did-peking-man-wield-spear-newresearch.html
 - http://www.archaeologydaily.com/news/200912032771/Mystery-Still-Shrouds-Peking-Man-80-Years-after-Discovery.html
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Footnotes
 

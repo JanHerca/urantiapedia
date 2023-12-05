@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 The authors of _The Urantia Book_ assert “there are forty-eight units of pattern control-trait determiners-in the sex cells of human reproduction.” In 1955, when the book was first published, the general scientific community believed that human beings have forty-eight chromosomes; in 1956 researchers determined that there are, in fact, forty-six chromosomes. The sex cells are distinct from other (somatic) cells. This distinction, taken in light of the reference to the total number of “units of pattern control,” supports an interpretation of _The Urantia Book_ that is consistent with the now universal acceptance of forty-six as the correct number of human chromosomes.
 
@@ -79,6 +94,22 @@ Therefore, when it was published in 1955, the authors of _The Urantia Book_ made
 - http://papa.indstate.edu/amcbt/volume_22/v22-2p3-9.pdf extensive history about human chromosome research
 
 - http://www.ubfellowship.org/archive/science/kanders1.htm this is a 1988 article by Kermit Anderson on the subject
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Footnotes:
 

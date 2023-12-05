@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _By Halbert Katzen J.D._
 
@@ -589,6 +604,22 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 	Abstract: The defining process in the evolution of primates and particularly humans is the dramatic expansion of the brain. While many types of genes could potentially contribute to this process, genes that specifically regulate brain size during development may be especially relevant. Here, we examine the evolution of the microcephalin gene, whose null mutation in humans causes primary microcephaly, a congenital defect characterized by severe reductions in brain size without other gross abnormalities. We show that the evolution of microcephalin's protein sequence is highly accelerated throughout the lineage from simian ancestors to humans and chimpanzees, with the most pronounced acceleration seen in the early periods of this lineage. We further demonstrate that this accelerated evolution is coupled with signatures of positive selection. Statistical analysis suggests that about 45 advantageous amino acid changes in microcephalin might have fixed during the 25–30 million years of evolution from early simian progenitors to modern humans. These observations support the notion that the molecular evolution of microcephalin may have contributed to brain expansion in the simian lineage leading to humans. We have recently shown that ASPM, another gene linked to primary microcephaly, experienced strong positive selection in the ape lineage leading to humans. We therefore propose that genes regulating brain size during development may have the general propensity to contribute to brain evolution in primates and particularly humans.
 	
 	http://hmg.oxfordjournals.org/cgi/content/full/13/11/1139
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

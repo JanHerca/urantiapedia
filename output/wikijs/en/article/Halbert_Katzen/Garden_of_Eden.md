@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _By Halbert Katzen J.D._[^1]
 
@@ -159,6 +174,22 @@ For now, at least advances in sonar technology allow us to see a topography betw
 * Mart, Y.; Ryan, W., *The tectonics of Cyprus Arc: a model of complex continental collision*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....2282M/abstract
 
 * Ergün, M.; Okay, S.; Sari, C.; Oral, E. Z., *Gravity and magnetic anomalies of the Cyprus arc and tectonic implications*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....1663E/abstract
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## References
 

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 This article, published on August 6, 2022, is an addition to the [UBtheNEWS: Shroud of Turin Report](/en/article/Halbert_Katzen/Shroud_of_Turin). Think of it as a conversation starter, a place holder. It led to a wonderful conversation with Barrie Schwortz, the STURP photographer, which pointed me in the direction of additional research, of course. Already, this had led to some new questions and new images (artistic renderings) from five hundred years ago.
 
@@ -134,3 +149,19 @@ Along with opening Christian minds to considering a broader spectrum of possibil
 ## External links
 
 * This report in UBTheNews webpage: https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

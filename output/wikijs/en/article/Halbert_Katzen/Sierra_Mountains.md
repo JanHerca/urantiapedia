@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Prepared by Halbert Katzen, J.D. with assistance fromChris Halvorson, Ph.D. [Updated 07/11/2009]
 
@@ -219,6 +234,22 @@ By contrast, the 1955 Urantia Book [11] fully explains, and in great detail, the
 Had the authors of the 1955 Urantia Book known no more than most geologists living in 2006, they would likely have given an erroneous account of how the Sierra Nevada's were formed less than 5 million years ago.
 
 **Comment regarding Phil's article**: He states: “the Sierra's [sic] were initially formed at the end of the Crustaceous [sic] period (144 to 65 million years ago)”. According to _The Urantia Book_, the Cretaceous period is from 100 to 50 million years ago, and the Sierras began to form near the start of this geologic period. Phil's dates reflect radiometric dating.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Footnotes
 
