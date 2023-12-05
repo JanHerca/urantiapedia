@@ -37,6 +37,8 @@ When _The Urantia Book_ was published in 1955, archaeological evidence did not e
 
 The authors of _The Urantia Book_ go into a certain degree of detail regarding the domestication of the horse, asserting that this started in Mesopotamia and spread to the world from this region. This information is presented as part of a comprehensive review of human history. In _The Urantia Book_ the people that initially domesticated the horse are referred to as the “Andite” race. The following quotes provide some highlights of _The Urantia Book_'s depiction of horse domestication that relate to recent discoveries:
 
+<br style="clear:both;"/>
+
 > “The last three waves of Andites poured out of Mesopotamia between 8000 and 6000 B.C. These three great waves of culture were forced out of Mesopotamia by the pressure of the hill tribes to the east and the harassment of the plainsmen of the west.” <a id="a39_251"></a>[UB 78:6.1](/en/The_Urantia_Book/78#p6_1)
 > 
 > “The horse gave the dispersing Andites the hitherto nonexistent advantage of mobility, enabling the last groups of Andite cavalrymen to progress quickly ...” <a id="a41_160"></a>[UB 80:4.4](/en/The_Urantia_Book/80#p4_4)
@@ -175,9 +177,9 @@ In covering the _Science_ report, a Reuters article contextualized the research 
 > 
 > The horse is no different, but in this case, the changes are not so radical that we cannot trace the horse lineage. In fact, one key way to distinguish early domesticated horses from paleolithic wild horses is the width of the leg bones: humans have decided that they like their horses with long, thin legs. The researchers have used this to show that horse remains that were concurrent with the Botai culture (located in modern-day northern Kazakhstan) were more like modern horses than the concurrent wild horses from nearby Siberia.
 > 
-> The authors then went on to strengthen their case by examining the wear marks on the teeth. Modern horses have distinctive wear patterns due to the fact that they have bits in their mouths. Five of the 15 mandibles from the site exhibited wear marks that could be unambiguously attributed to spending a lot of their lives wearing a bridle. Of the remaining 10 mandibles, several had marks on the teeth that could be attributed to wearing a bridle, but were either not clear enough or didn't have corresponding bone growth or wear on a related part of the jaw. Nevertheless, this confirms that the Botai at least had partly domesticated herds of horses by $3521 \mathrm{BCE}$.
+> The authors then went on to strengthen their case by examining the wear marks on the teeth. Modern horses have distinctive wear patterns due to the fact that they have bits in their mouths. Five of the 15 mandibles from the site exhibited wear marks that could be unambiguously attributed to spending a lot of their lives wearing a bridle. Of the remaining 10 mandibles, several had marks on the teeth that could be attributed to wearing a bridle, but were either not clear enough or didn't have corresponding bone growth or wear on a related part of the jaw. Nevertheless, this confirms that the Botai at least had partly domesticated herds of horses by 3521 BCE.
 > 
-> Adding to these two lines of evidence are the residual fatty acids found in pottery shards found at Botai archaeological sites. In this case, the scientists infer the animal products that went into the pot by looking at the amount of $\mathrm{C} 13$ contained in specific fatty acids. This method can distinguish between milk fats and animal fats that originate from cows, sheep, and goats, which is important in terms of domestication because undomesticated animals are unlikely to let your average hunter-gatherer milk them. Unfortunately, C13 analysis doesn't work as well for horses as it does for other animals. As a result, the researchers could clearly distinguish horse contributions from other animals, but not horse milk from horse meat.
+> Adding to these two lines of evidence are the residual fatty acids found in pottery shards found at Botai archaeological sites. In this case, the scientists infer the animal products that went into the pot by looking at the amount of C13 contained in specific fatty acids. This method can distinguish between milk fats and animal fats that originate from cows, sheep, and goats, which is important in terms of domestication because undomesticated animals are unlikely to let your average hunter-gatherer milk them. Unfortunately, C13 analysis doesn't work as well for horses as it does for other animals. As a result, the researchers could clearly distinguish horse contributions from other animals, but not horse milk from horse meat.
 > 
 > To overcome this particular problem, the amount of deuterium in the fat was analyzed. The amount of deuterium varies annually between summer and winter values. Animal fats, which are obtained all year, reflect this variation in the pottery shards. Milk, on the other hand, is a summer food, and should only have the summer values of deuterium. Indeed, the researchers found this signature in certain fats, allowing them to classify those as horse-milk fats.
 > 
@@ -192,6 +194,22 @@ The close succession of the Saudi Arabia and Kazakhstan discoveries points to th
 For a relatively quick Urantia Book perspective on the development of civilization, consider reading [Chapter 81: “Development of Modern Civilization.”](/en/The_Urantia_Book/81) For a Urantia Book-based taxonomy of human evolution, see [Eugenics, Race, and _The Urantia Book_: Appendix 1](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Appendix_1).
 
 <br style="clear:both;"/>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Horsing Around Additional Links
 
@@ -216,22 +234,6 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 
 * This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td></td>
-        <td>
-        <a href="/en/index/articles_ubannotated">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
-        </a>
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
-
 ## Footnotes:
 
 [^1]: Urantia Book <a id="a236_19"></a>[UB 80:4.1](/en/The_Urantia_Book/80#p4_1)
@@ -243,12 +245,12 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 [^7]: Urantia Book <a id="a242_19"></a>[UB 78:5.2](/en/The_Urantia_Book/78#p5_2)
 [^8]: Urantia Book <a id="a243_19"></a>[UB 76:3.6](/en/The_Urantia_Book/76#p3_6)
 [^9]: Urantia Book <a id="a244_19"></a>[UB 76:3.8](/en/The_Urantia_Book/76#p3_8)
-[10^]: Urantia Book  <a id="a245_21"></a>[UB 78:5.2,3](/en/The_Urantia_Book/78#p5_2)
-[11^]: Urantia Book <a id="a246_20"></a>[UB 80:4.5](/en/The_Urantia_Book/80#p4_5)
-[12^]: Urantia Book <a id="a247_20"></a>[UB 81:2.8](/en/The_Urantia_Book/81#p2_8)
-[13^]: http://www.sciencemag.org/content/323/5919/1332
-[14^]: http://www.reuters.com/article/2009/03/05/us-horses-history-idUSTRE5246HI20090305
-[15^]: http://arstechnica.com/science/news/2009/03/domesticating-the-horse.ars
+[^10]: Urantia Book  <a id="a245_21"></a>[UB 78:5.2,3](/en/The_Urantia_Book/78#p5_2)
+[^11]: Urantia Book <a id="a246_20"></a>[UB 80:4.5](/en/The_Urantia_Book/80#p4_5)
+[^12]: Urantia Book <a id="a247_20"></a>[UB 81:2.8](/en/The_Urantia_Book/81#p2_8)
+[^13]: http://www.sciencemag.org/content/323/5919/1332
+[^14]: http://www.reuters.com/article/2009/03/05/us-horses-history-idUSTRE5246HI20090305
+[^15]: http://arstechnica.com/science/news/2009/03/domesticating-the-horse.ars
 
 
 
