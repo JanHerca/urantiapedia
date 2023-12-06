@@ -257,17 +257,17 @@ Had the authors of the 1955 Urantia Book known no more than most geologists livi
 
 ## Footnotes
 
-[^1]: <a id="a255_6"></a>[UB 61:1.6](/en/The_Urantia_Book/61#p1_6) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number.
+[^1]: <a id="a259_6"></a>[UB 61:1.6](/en/The_Urantia_Book/61#p1_6) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number.
 
-[^2]: <a id="a257_6"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
+[^2]: <a id="a261_6"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
 
 [^3]: http://www.sciencemag.org/cgi/content/full/313/5783/87
 
 [^4]: http://scicom.ucsc.edu/SciNotes/0701/sierra/index.html
 
-[^5]: <a id="a263_6"></a>[UB 60:4.3](/en/The_Urantia_Book/60#p4_3)
+[^5]: <a id="a267_6"></a>[UB 60:4.3](/en/The_Urantia_Book/60#p4_3)
 
-[^6]: <a id="a265_6"></a>[UB 61:1.4](/en/The_Urantia_Book/61#p1_4)
+[^6]: <a id="a269_6"></a>[UB 61:1.4](/en/The_Urantia_Book/61#p1_4)
 
 [^7]: Science 7 July 2006: Vol. 313. no. 5783, pp. 87 - 89, http://www.sciencemag.org/cgi/content/full/313/5783/87
 
@@ -277,13 +277,13 @@ Had the authors of the 1955 Urantia Book known no more than most geologists livi
 
 [^10]: “Ancient Rain Settles Sierra's Age”, Kathy A. Svitil, Discover Magazine, Jan. 2007, p.53
 
-[^11]: [UB 60:3](/en/The_Urantia_Book/60#p3_par); <a id="a273_49"></a>[UB 60:4](/en/The_Urantia_Book/60#p4); <a id="a273_88"></a>[UB 59:5.20](/en/The_Urantia_Book/59#p5_20)
+[^11]: [UB 60:3](/en/The_Urantia_Book/60#p3_par); <a id="a279_50"></a>[UB 60:4](/en/The_Urantia_Book/60#p4); <a id="a279_89"></a>[UB 59:5.20](/en/The_Urantia_Book/59#p5_20)
 
 [^12]: http://www.ucmp.berkeley.edu/mesozoic/cretaceous/cretaceous.html
 
-[^13]: <a id="a277_6"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
+[^13]: <a id="a283_7"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
 
-[^14]: <a id="a279_6"></a>[UB 61:7.11](/en/The_Urantia_Book/61#p7_11)
+[^14]: <a id="a285_7"></a>[UB 61:7.11](/en/The_Urantia_Book/61#p7_11)
 
 
 

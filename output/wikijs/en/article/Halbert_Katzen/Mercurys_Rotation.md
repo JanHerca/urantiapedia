@@ -142,7 +142,7 @@ Still, even though opinions among astronomers on this subject today are about as
 
 ## Footnotes:
 
-[^1]: <a id="a140_6"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number. “Urantia” is a coined word with the etymological meaning “(y)our place in heaven.”
+[^1]: <a id="a144_6"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number. “Urantia” is a coined word with the etymological meaning “(y)our place in heaven.”
 
 [^2]: Physics conventions regarding the use of the terms “rotation” and “revolution” have gravitated toward using the word “rotate” to reference what a sphere may do with respect to its own axis, while “revolution” is used to reference what such a body may do by way of orbiting around another body. Using the terms synonymously, _The Urantia Book_ clearly does not follow this convention. This makes no difference to the issues at hand and has never been a point of contention no matter what position people have had on this topic.
 

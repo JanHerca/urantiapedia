@@ -557,23 +557,23 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 	4) Drawing correlations between scientific issues related the TS and statements made in _The Urantia Book_ regarding the pieces of cloth related to Jesus' burial.
 	It must be emphasized that the type of correlations being made in this report between what _The Urantia Book_ says and various scientific studies that have developed in relation to the TS do not meet the standards that are used for any of the other UBtheNEWS reports. The standard for this report is much more speculative. Material presented in this report is offered because it is intriguing. Unlike other UBtheNEWS reports where correlations need to be corroborative, correlations here are drawn based on things being reasonably associated.
 
-[^4]: <a id="a555_6"></a>[UB 188:0.3](/en/The_Urantia_Book/188#p0_3) References to material from _The Urantia Book_ are provided in the form just given. The first number indicates the chapter (referred to in _The Urantia Book_ as “Papers”); the section number is given second; and the third number(s) reference(s) paragraph(s). A zero in the chapter position indicates the quote comes from the Forward. A zero in the section position indicates it comes from that chapter's introductory remarks.
+[^4]: <a id="a559_6"></a>[UB 188:0.3](/en/The_Urantia_Book/188#p0_3) References to material from _The Urantia Book_ are provided in the form just given. The first number indicates the chapter (referred to in _The Urantia Book_ as “Papers”); the section number is given second; and the third number(s) reference(s) paragraph(s). A zero in the chapter position indicates the quote comes from the Forward. A zero in the section position indicates it comes from that chapter's introductory remarks.
 
-[^5]: <a id="a557_6"></a>[UB 188:1.2-5,7](/en/The_Urantia_Book/188#p1_2)
+[^5]: <a id="a561_6"></a>[UB 188:1.2-5,7](/en/The_Urantia_Book/188#p1_2)
 
-[^6]: “Morontia is a term designating a vast level intervening between the material and the spiritual. It may designate personal or impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical.” <a id="a559_242"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
+[^6]: “Morontia is a term designating a vast level intervening between the material and the spiritual. It may designate personal or impersonal realities, living or nonliving energies. The warp of morontia is spiritual; its woof is physical.” <a id="a563_242"></a>[UB 0:5.12](/en/The_Urantia_Book/0#p5_12)
 
-[^7]: <a id="a561_6"></a>[UB 189:1.2](/en/The_Urantia_Book/189#p1_2)
+[^7]: <a id="a565_6"></a>[UB 189:1.2](/en/The_Urantia_Book/189#p1_2)
 
-[^8]: <a id="a563_6"></a>[UB 189:1.7](/en/The_Urantia_Book/189#p1_7)
+[^8]: <a id="a567_6"></a>[UB 189:1.7](/en/The_Urantia_Book/189#p1_7)
 
-[^9]: <a id="a565_6"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1)
+[^9]: <a id="a569_6"></a>[UB 189:2.1-8](/en/The_Urantia_Book/189#p2_1)
 
-[^10]: <a id="a567_7"></a>[UB 189:4.3-10,12-14](/en/The_Urantia_Book/189#p4_3); <a id="a567_61"></a>[UB 189:5.1-5](/en/The_Urantia_Book/189#p5_1)
+[^10]: <a id="a571_7"></a>[UB 189:4.3-10,12-14](/en/The_Urantia_Book/189#p4_3); <a id="a571_61"></a>[UB 189:5.1-5](/en/The_Urantia_Book/189#p5_1)
 
-[^11]: <a id="a569_7"></a>[UB 191:0.4](/en/The_Urantia_Book/191#p0_4)
+[^11]: <a id="a573_7"></a>[UB 191:0.4](/en/The_Urantia_Book/191#p0_4)
 
-[^12]: <a id="a571_7"></a>[UB 190:1.2](/en/The_Urantia_Book/190#p1_2)
+[^12]: <a id="a575_7"></a>[UB 190:1.2](/en/The_Urantia_Book/190#p1_2)
 
 [^13]: http://en.wikipedia.org/wiki/Shroud_of_turin\#cite_note-rogers-3
 
@@ -585,25 +585,25 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^17]: http://www.Shroud.com/guscin.htm
 
-[^18]: <a id="a583_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^18]: <a id="a587_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
 [^19]: http://www.Shroud.com/guscin.htm
 
-[^20]: <a id="a587_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^20]: <a id="a591_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
 [^21]: http://www.Shroud.com/guscin.htm
 
-[^22]: <a id="a591_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
+[^22]: <a id="a595_7"></a>[UB 188:1.4](/en/The_Urantia_Book/188#p1_4)
 
-[^23]: <a id="a593_7"></a>[UB 189:2.1](/en/The_Urantia_Book/189#p2_1)
+[^23]: <a id="a597_7"></a>[UB 189:2.1](/en/The_Urantia_Book/189#p2_1)
 
-[^24]: <a id="a595_7"></a>[UB 189:2.4](/en/The_Urantia_Book/189#p2_4)
+[^24]: <a id="a599_7"></a>[UB 189:2.4](/en/The_Urantia_Book/189#p2_4)
 
-[^25]: <a id="a597_7"></a>[UB 189:2.7,8](/en/The_Urantia_Book/189#p2_7)
+[^25]: <a id="a601_7"></a>[UB 189:2.7,8](/en/The_Urantia_Book/189#p2_7)
 
-[^26]: <a id="a599_7"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6)
+[^26]: <a id="a603_7"></a>[UB 189:4.6](/en/The_Urantia_Book/189#p4_6)
 
-[^27]: <a id="a601_7"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
+[^27]: <a id="a605_7"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
 
 [^28]: http://www.Shroudofturin.com/Science1.html
 
@@ -621,9 +621,9 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^35]: http://www.dim.unipd.it/fanti/corona.pdf
 
-[^36]: UB <a id="a619_10"></a>[UB 189:2.7](/en/The_Urantia_Book/189#p2_7)
+[^36]: UB <a id="a623_10"></a>[UB 189:2.7](/en/The_Urantia_Book/189#p2_7)
 
-[^37]: UB <a id="a621_10"></a>[UB 189:2.8](/en/The_Urantia_Book/189#p2_8)
+[^37]: UB <a id="a625_10"></a>[UB 189:2.8](/en/The_Urantia_Book/189#p2_8)
 
 [^38]: http://www.shroud.com/pdfs/accett2.pdf
 
@@ -645,17 +645,17 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 [^47]: http://Shroud.com/pdfs/doclist.pdf
 
-[^48]: UB <a id="a643_10"></a>[UB 120:3.7](/en/The_Urantia_Book/120#p3_7)
+[^48]: UB <a id="a647_10"></a>[UB 120:3.7](/en/The_Urantia_Book/120#p3_7)
 
-[^51]: Urantia Book <a id="a645_20"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
+[^51]: Urantia Book <a id="a649_20"></a>[UB 189:4.9](/en/The_Urantia_Book/189#p4_9)
 
-[^52]: Urantia Book <a id="a647_20"></a>[UB 189:5.2](/en/The_Urantia_Book/189#p5_2)
+[^52]: Urantia Book <a id="a651_20"></a>[UB 189:5.2](/en/The_Urantia_Book/189#p5_2)
 
-[^53]: Urantia Book <a id="a649_20"></a>[UB 189:5.3](/en/The_Urantia_Book/189#p5_3)
+[^53]: Urantia Book <a id="a653_20"></a>[UB 189:5.3](/en/The_Urantia_Book/189#p5_3)
 
-[^54]: Urantia Book <a id="a651_20"></a>[UB 196:3.30](/en/The_Urantia_Book/196#p3_30)
+[^54]: Urantia Book <a id="a655_20"></a>[UB 196:3.30](/en/The_Urantia_Book/196#p3_30)
 
-[^55]: Urantia Book <a id="a653_20"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
+[^55]: Urantia Book <a id="a657_20"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
 
 
 
