@@ -57,7 +57,7 @@ Theories about the history of human civilization are based on evidence that stro
 
 *The Urantia Book* provides a history of humanity that harmonizes perfectly well with the discoveries being made at Gobekli Tepe. It presents an explanation of the Gobekli Tepe mysteries in terms of an Adam and Eve story that varies significantly from the Old Testament record, but, which the authors assert, is nonetheless the basis for many of our myths and religious traditions about the origins of humanity. Not surprisingly, because of the unusual nature and age of this archaeological site, scholars quickly began speculating on how it may relate to the religious traditions about Adam and Eve. So, in one sense, *The Urantia Book*’s explanation fits well with scholarly speculations about the significance of Gobekli Tepe. Even still, while demonstrating clear parallels, the unique aspects of the Adam and Eve story found in *The Urantia Book*, no doubt, will also raise a lot of questions.
 
-This report will not attempt to provide all the answers. Some explanations can be found by reading the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_Eve) and the [Garden of Eden Report](/en/article/Halbert_Katzen/Garden_of_Eden). For a more complete understanding, read Chapters 73 through 80 in *The Urantia Book*. Additionally, you may want to review the [Eugenics, Race, and The Urantia Book](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book/Index) paper. In January 2011, UBtheNEWS prepared and published the first and only comprehensive review of this topic.
+This report will not attempt to provide all the answers. Some explanations can be found by reading the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_Eve) and the [Garden of Eden Report](/en/article/Halbert_Katzen/Garden_of_Eden). For a more complete understanding, read Chapters 73 through 80 in *The Urantia Book*. Additionally, you may want to review the [Eugenics, Race, and The Urantia Book](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) paper. In January 2011, UBtheNEWS prepared and published the first and only comprehensive review of this topic.
 
 <figure id="Gobekli_Tepe_fig_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/gobeklitepe03.jpg" width="700" heigth="410">
@@ -131,8 +131,8 @@ Scholars are straining to come up with interpretations for Gobekli Tepe for a ve
 
 <figure id="Gobekli_Tepe_fig_7" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Gobekli_Tepe/GobekliTepe_siteB.jpg" width="858" heigth="700">
+<figcaption><em>T-shaped Structures in Gobekli Tepe</em></figcaption>
 </figure>
-<em>T-shaped Structures in Gobekli Tepe</em>
 
 > Schmidt . . . continues: “The really strange thing is that in 8,000 BC, during the shift to agriculture, Gobekli Tepe was buried. I mean deliberately – not in a mudslide. For some reason the hunters, or the ex-hunters, decided to entomb the entire site in soil. The earth we are removing from the stones was put here by man himself: all these hills are artificial.” [^13]
 
@@ -334,6 +334,8 @@ For an excellent understanding of how this topic relates to the development Jude
 
 * *Göbekli Tepe in Turkey: A 12,000-year-old Temple Complex*, Red Ice.TV, http://www.redicecreations.com/article.php?id=3487, with some good images.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -349,6 +351,8 @@ For an excellent understanding of how this topic relates to the development Jude
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## References
 

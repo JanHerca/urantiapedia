@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>t
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -73,7 +73,7 @@ This report focuses on several statements made in *The Urantia Book* about the e
 
 The general model for preparing UBtheNEWS reports is to quote sparingly from *The Urantia Book*, staying narrowly focused on the specific statements that are being corroborated by advances and science and scholarship since its publication. This report departs somewhat from that approach. Because this topic is regularly being advanced with new discoveries and scientific methodologies that provide insights into ancient human history and because *The Urantia Book* provides a selection of specific statements and general commentary relevant to the new discoveries that are being made in this field, this report will provide several pages of material from *The Urantia Book* in order to give readers an appreciation for of both the details and general account that it provides regarding this extensive period of human history that covers hundreds of thousands of years. Given the ongoing nature and progressive development of the AHOB project, there is a reasonable expectation that this report will soon need to be updated with additional evidence of *The Urantia Book*’s accuracy regarding the ancient occupation of Britain by some of the earliest human beings. The broader selection of material offered in this report will also serves as a foreshadowing of the types of discoveries that are being anticipated. 
 
-Readers who are particularly interested in this subject are encouraged to read all of [Chapter 64](/The_Urantia_Book/64) in *The Urantia Book* (about ten pages). Also, the last several sections of [Chapter 62](/The_Urantia_Book/62) and [Chapter 63](/The_Urantia_Book/63) recount the story of the first human beings and provide additional insights about the origins of human life. According to *The Urantia Book*, humanity began nearly 1,000,000 years ago and was marked by the evolution of a species possessing sufficient mental capacity and intellectual sophistication to engage in spiritual thinking and make spiritual choices, to recognize wisdom and strive for ideals. Naturally, such a definition of being human does not lend itself well to scientific investigation. Additionally, as this report demonstrates, archaeologists continue to be surprised by new discoveries; early human history is hardly a settled field of science. So, not surprisingly, there are still many areas of this subject where scholarly opinions and theories are not aligned with *The Urantia Book*. Nonetheless, this report, along with the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_eve), [Vikings Report](/en/article/Halbert_Katzen/Vikings) and the [Early Migration to the Americas Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas), are part of an emerging pattern of increased support for *The Urantia Book*’s statements regarding human history. 
+Readers who are particularly interested in this subject are encouraged to read all of [Chapter 64](/The_Urantia_Book/64) in *The Urantia Book* (about ten pages). Also, the last several sections of [Chapter 62](/The_Urantia_Book/62) and [Chapter 63](/The_Urantia_Book/63) recount the story of the first human beings and provide additional insights about the origins of human life. According to *The Urantia Book*, humanity began nearly 1,000,000 years ago and was marked by the evolution of a species possessing sufficient mental capacity and intellectual sophistication to engage in spiritual thinking and make spiritual choices, to recognize wisdom and strive for ideals. Naturally, such a definition of being human does not lend itself well to scientific investigation. Additionally, as this report demonstrates, archaeologists continue to be surprised by new discoveries; early human history is hardly a settled field of science. So, not surprisingly, there are still many areas of this subject where scholarly opinions and theories are not aligned with *The Urantia Book*. Nonetheless, this report, along with the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_Eve), [Vikings Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas) and the [Early Migration to the Americas Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas), are part of an emerging pattern of increased support for *The Urantia Book*’s statements regarding human history. 
 
 Some of the challenges associated with reconciling anthropological discoveries with *The Urantia Book* are attributable to its assertion that varying degrees of mating occurred in the early periods of human history between humans and their immediate prehuman predecessors. Aside from not being a “politically correct” topic of discussion, this also makes it extremely difficult for anthropologists to interpret their findings. Even the use of flint and other rudimentary tools is said to have developed among our prehuman ancestors, making it all the more difficult for scholars to correlate the use of tools with the emergence of human beings. 
 
@@ -193,7 +193,7 @@ The peer reviewed 2005 announcement in *Nature* makes clear that *The Urantia Bo
 
 There is abundant literature regarding these new discoveries by AHOB and others. For the sake of brevity and to avoid redundancies, these will not be included in this report. As well, because it is anticipated that this report will need to be updated numerous times in the years to come, an exhaustive review of the relevant material is not timely. However, numerous links to this material can be easily accessed in the *External Links* section of this topic. Some of these links pertain to issues related to the land bridge that used to connect England and France. 
 
-The selections from *The Urantia Book* provided in this report provide a basis for beginning to appreciate the comprehensive, yet condensed and detailed, recounting of early human history. The facts of early human existence are a matter of history; but our knowledge of what occurred is still very limited. New archaeological discoveries, as well as advances in the field of genetics and other sciences, increasingly reveal a clearer picture. Along with the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_eve), [Vikings Report](/en/article/Halbert_Katzen/Vikings) and the [Early Migration to the Americas Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas), this report further develops *The Urantia Book*’s emerging pattern of making assertions about human history in advance of their verification. 
+The selections from *The Urantia Book* provided in this report provide a basis for beginning to appreciate the comprehensive, yet condensed and detailed, recounting of early human history. The facts of early human existence are a matter of history; but our knowledge of what occurred is still very limited. New archaeological discoveries, as well as advances in the field of genetics and other sciences, increasingly reveal a clearer picture. Along with the [Adam and Eve Report](/en/article/Halbert_Katzen/Adam_and_Eve), [Vikings Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas) and the [Early Migration to the Americas Report](/en/article/Halbert_Katzen/Early_migration_to_the_Americas), this report further develops *The Urantia Book*’s emerging pattern of making assertions about human history in advance of their verification. 
 
 ## Links
 
@@ -309,6 +309,8 @@ The selections from *The Urantia Book* provided in this report provide a basis f
 	https://web.archive.org/web/20061006165154/http://www.waspress.co.uk/publications/layard.html [Original link broken]
 * Wikipedia about Nina Frances Layard: http://en.wikipedia.org/wiki/Nina_Frances_Layard
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -324,6 +326,8 @@ The selections from *The Urantia Book* provided in this report provide a basis f
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## References
 

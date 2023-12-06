@@ -51,6 +51,8 @@ _The Urantia Book_ asserts that the “bodies” responsible for this sensitivit
 
 Additionally, “In the 1960s, Caltech paleoecologist Heinz Lowenstam startled biologists and geologists alike with the discovery that many animals do what conventional science had considered impossible: they manufacture substances such as the iron-containing mineral magnetite [the most magnetically sensitive mineral on earth] within their bodies. Out of Lowenstam's work came the more recent finding that many migratory animals, including birds, bees, and whales, generate magnetite within their bodies and may owe their uncanny homing instincts to the presence of this “internal compass” that allows them to navigate by means of Earth's magnetic field.” Today, various biological mechanism have been discovered that play a role in allowing many different types of animals to be sensitive to the earth's magnetic field.
 
+<br style="clear:both;"/>
+
 ## Magnetic Sensitivity Review
 
 Before addressing the particular scientific advances that having been catching up to _The Urantia Book_'s statements about the sensitivity of humans and other organisms to the earth's magnetic field, some context needs to be provided regarding the assertions made by the authors of _The Urantia Book_ about the limitations and permissions that were placed upon them in preparing scientific material for the book. On the one hand, _The Urantia Book_ says:
@@ -312,6 +314,8 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 
 * This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Magnetic.pdf
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -327,6 +331,8 @@ http://www.biophysics.uwa.edu.au/magnetite.html
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## Footnotes:
 

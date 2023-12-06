@@ -87,13 +87,11 @@ Therefore, when it was published in 1955, the authors of _The Urantia Book_ made
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Chromosome.pdf
-
-## Raw Data
-
+- This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Chromosome.pdf
 - http://papa.indstate.edu/amcbt/volume_22/v22-2p3-9.pdf extensive history about human chromosome research
-
 - http://www.ubfellowship.org/archive/science/kanders1.htm this is a 1988 article by Kermit Anderson on the subject
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>
@@ -110,6 +108,8 @@ Therefore, when it was published in 1955, the authors of _The Urantia Book_ made
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## Footnotes:
 

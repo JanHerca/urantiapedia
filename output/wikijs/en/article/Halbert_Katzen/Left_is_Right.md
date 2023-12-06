@@ -150,6 +150,8 @@ Along with opening Christian minds to considering a broader spectrum of possibil
 
 * This report in UBTheNews webpage: https://ubannotated.com/ubthenews/topics/shroudturin/left-is-right/
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

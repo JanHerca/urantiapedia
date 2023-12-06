@@ -195,24 +195,9 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 
 <br style="clear:both;"/>
 
-<figure class="table chapter-navigator">
-  <table>
-    <tbody>
-      <tr>
-        <td></td>
-        <td>
-        <a href="/en/index/articles_ubannotated">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
-        </a>
-        </td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-</figure>
+## External Links
 
-## Horsing Around Additional Links
-
+- This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf
 - http://www.sciencedaily.com/releases/2009/03/090305141627.htm
 - http://www.geosociety.org/news/pr/06-49.htm
 - http://en.wikipedia.org/wiki/Domestication_of_the_horse
@@ -230,9 +215,25 @@ For a relatively quick Urantia Book perspective on the development of civilizati
 - http://www.horsetalk.co.nz/news/2009/03/041.shtml
 - http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2052.2010.02038.x/full
 
-## External Links
+<br>
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Horsing_Around.pdf
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<br>
 
 ## Footnotes:
 

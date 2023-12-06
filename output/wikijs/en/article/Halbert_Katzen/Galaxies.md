@@ -105,7 +105,7 @@ Covering from the late 1700 's until present, this site lists who created the ca
 **Cornell University, November 2000**
 **How many known galaxies are there?**
 
-The site provides a brief answer to the question and links to additional information. http://curious.astro.cornell.edu/question.php?number $=40$
+The site provides a brief answer to the question and links to additional information. http://curious.astro.cornell.edu/question.php?number=40
 
 **HubbleSite, 1996: Hubble's Deepest View of the Universe Unveils Bewildering Galaxies across Billions of Years**
 
@@ -114,6 +114,8 @@ Mankind's deepest, most detailed optical view of the universe - provided courtes
 ## External Links
 
 * This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Galaxies.pdf
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>
@@ -130,6 +132,8 @@ Mankind's deepest, most detailed optical view of the universe - provided courtes
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## Footnotes:
 

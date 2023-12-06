@@ -150,7 +150,7 @@ These are Old Testament references to Melchizedek, along with a selection of ass
 
 **[Psalm 110](/en/Bible/Psalms/110):**
 
-**<sup>1</sup>**The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+**<sup>1</sup>** The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 
 **<sup>2</sup>** The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
 
@@ -261,10 +261,10 @@ and will not change his mind,
 
 The translation below of Dead Sea Scroll 11Q13 comes from [virtualreligion.net](https://virtualreligion.net/iho/11QMelch.html). The explanatory note reads in part, “Wording that is decipherable, printed in boldface, though often lacking coherence, offers important points of comparison with messianic passages in the NT. So it is presented here, despite the difficult reading caused by the frequent sizeable lacunae (?…?), which prevent a complete and exact reconstruction. The conjectural portions of the translation (text in parentheses), follow the readings suggested by M. deJonge and A.S. vander Woude (NTS 12, 1965-66) or G. Martinez and E.J.C. Tigchelaar (_Dead Sea Scrolls_, 2008)”:
 
-(And con)**cerning his saying** (Lev 25:13): 
+(And con)**cerning his saying** ([Lev 25:13](/en/Bible/Leviticus/25#v13)): 
 —_**“In this year of ju**_(_bilee you shall restore a man to his inheritance”_): 
 (Unraveled, this is…?) 
-(And concerning his saying (Deut 15:2):) 
+(And concerning his saying ([Deut 15:2](/en/Bible/Deuteronomy/15#v2))) :
 —_**“Every master**_ \[_ba’al_\] (_shall relea_)_**se his hand concerning his claim**_ (_upon his neighbor; he shall not exact it of his neighbor and his brother, because he has declared the_) _**release for G(od.**__“)_ 
 (Unraveled, this is for the en)**d of days**. 
 (It is) **about the captives which** (?…Belial) **bound** 
@@ -278,13 +278,13 @@ in which to atone for all the sons** (of light)(and the) **men of the** (l)**ot 
 (**?…?) **over** (th)**em** (?…?) **because that is the end** \[_qe<sup>t</sup>z_\]**\*\*** 
 **to the acceptable year of Melchize**(dek…?) 
 (?…?) **and the holy ones of God to the realm of judgment; 
-as it is written about him in the Songs of David, who says** (Ps 82:1): 
+as it is written about him in the Songs of David, who says** ([Ps 82:1](/en/Bible/Psalms/82#v1)): 
 **–“**_**God**_ \[_Elohim_\] (_stand_)_**s in the coun**_(_cil of God_ \[_El_\]); 
 _**in the midst of the gods**_ \[_elohim_\] _**he judges.**_**” 
-And** (David) **says about him** (Ps 7:7f): 
+And** (David) **says about him** ([Ps 7:7f](/en/Bible/Psalms/7#v7)): 
 — _**“Return to the height**_ (_a_)_**bove them. 
 God**_ \[_El_\]**\*\*\*** _**will judge the peoples.” 
-**_**And as he sa**(ys; Ps 82:2): 
+**_**And as he sa**(ys; [Ps 82:2](/en/Bible/Psalms/82#v2)): 
 —_**“**_(_How long will_) _**you judge falsely**__**and li**_(_ft up_) _**the face of the wick**_(_ed? Se_)_**lah**_**.” 
 Unraveled** \[_pishru_\]**, this is about Belial and his lot of spir**(it)**s, 
 who** (?…?). **And Melchizedek will exact** 
@@ -294,7 +294,7 @@ who** (?…?). **And Melchizedek will exact**
 **He** (?…al)**l the sons of Mi**(gh)**t and the** (?…?) **this. 
 That is the day of** (destruction). 
 (And wh)**at is written** (for the end of days by Isai)**ah the prophet, 
-who say**(s) (Isa 52:7): 
+who say**(s) ([Isa 52:7](/en/Bible/Isaiah/52#v7)): 
 —_**“**_(_How_) _**beautiful upon the mountains 
 are the feet of him who bears good n**_(_ews_), 
 (_he who_) _**proclaims peace, who be**_(_ars good news of good_), 
@@ -303,28 +303,28 @@ who says to Zion: Your God**_ (_is king_ \[_melek_\])**\*\*\*\*****”
 This is unraveled: 
 —**_**“the mountain**_(_s_“: these are…?) **for all** (?…?). 
 —_**“he who bears good news”**_**: h**(e is the one an)**ointed by the Spir**(it); 
-**of him Dan**(iel) **says** (Dan 9:25):(_“Until an anointed prince, it is seven weeks.”_)** 
+**of him Dan**(iel) **says** ([Dan 9:25](/en/Bible/Daniel/9#v25)): (_“Until an anointed prince, it is seven weeks.”_)** 
 —**_**“**_(_…who bears good news of_) _**good, he who proclai**_(_ms salvation_).**” 
 That is what is** **w**(ritt)**en about him, where he** (says): 
-**–“**(?…?) _**to com**_(f_ort all who mourn”_ Isa 61:2)._**\*\*\*\*\***_ 
+**–“**(?…?) _**to com**_(f_ort all who mourn”_ [Isa 61:2](/en/Bible/Isaiah/61#v2))._**\*\*\*\*\***_ 
 (?…?) **he will make them wise in all the times** (of wrath) 
 (?…in) **truth** (?…?) 
 (?…she) **turns away from Belial and** (?…?) 
 (?…?) **by the judgment**(s) **of God, 
-as it is written about him** (Isa 52:7): 
+as it is written about him** ([Isa 52:7](/en/Bible/Isaiah/52#v7)): 
 —**“**(_He who says to Zi)_**on: Your God is king!” 
 **(_“Zi_)_**on”**_**: th**(at is…?) 
 (?…those) **who establish the covenant, 
 those who turned away from walking** (in the w)**ay of the peoples. 
 **_**“Your G**_(_o)**d”**_**: that is** (?…from) **Belial. 
-And where he says** (Lev 25:9)**: 
+And where he says** ([Lev 25:9](/en/Bible/Leviticus/25#v9))**: 
 —**_**“You shall direct the trump**_(_et to sound_ _in_) _**all**_ (_the la_)**_nd…”_**
 
 \* _deror_: or “pardon.” 
 \*\* _qe<sup>t</sup>z_: or “time.” Hebrew word has same connotations of English “term.” 
 \*\*\* _El_: ms. varies from Massoretic text, which has here: YHWH (“Lord”). 
 \*\*\*\* lit: _“Melek_ is your God.” While this verse is clearly the source of the author’s identification of Melchizedek with passages in the Psalms referring to “God,” it is unclear whether he read it as a proclamation that God is king or that Melchizedek is divine. 
-\*\*\*\*\* Isa 61:2: _**com**_(f_ort all who mourn_) is this translator’s tentative reconstruction, made likely by the fact that the author has just identified the herald of Isa 52:7 was “anointed by the Spirit,” a characteristic not mentioned in that passage but invoked in Isa 61:1.
+\*\*\*\*\* [Isa 61:2](/en/Bible/Isaiah/61#v2): _**com**_(f_ort all who mourn_) is this translator’s tentative reconstruction, made likely by the fact that the author has just identified the herald of Isa 52:7 was “anointed by the Spirit,” a characteristic not mentioned in that passage but invoked in Isa 61:1.
 
 ### Discussion section
 
@@ -392,6 +392,8 @@ As intriguing as those questions might be, perhaps, they are not nearly so timel
 ## External Links
 
 * This report in UBTheNews webpage: https://ubannotated.com/ubthenews/topics/melchizedek-and-the-dead-sea-scrolls-report/
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>

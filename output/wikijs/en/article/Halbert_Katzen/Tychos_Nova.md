@@ -231,6 +231,8 @@ Urantia Book quotes:
 
 * This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -246,6 +248,8 @@ Urantia Book quotes:
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## Footnotes
 

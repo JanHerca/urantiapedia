@@ -35,7 +35,7 @@ According to *The Urantia Book*, which was published in 1955, the first human be
 
 Starting in 2004 numerous reports started to be published relating to portions of the Y chromosome and the Microcephalin gene[^1]. The Microcephalin gene play a critical role in the growth of the brain. The research results closely correlate with what *The Urantia Book* says about the spread of the genetic and cultural contributions of Adam and Eve. The research into Microcephalin indicates that new genetic material was introduced into the Microcephalin gene about 37,000 years ago and that the rest of the Microcephalin gene was approximately 990,000 years old. None of the obvious explanations for how new material might have been introduced fit well with the results of the research. It then spread into most of the human population quite rapidly, excepting sub-Saharan Africa. Similarly, Y chromosome related studies also document how some types of mutations or other changes occurred around 40,000 years ago, originating in the Mesopotamia region, and spreading quickly into most of humanity, excepting sub-Saharan Africa.
 
-Follow up research comparing the spread of the introduction of new addition to the Microcephalin gene with the use of nontonal languages[^2] also showed a strong positive correlation. These correlations also track well with the migrations of Adam and Eve’s descendants. Bruce Lahn, from the Howard Hughes Medical Institute at the University of Chicago and the lead researcher responsible for the studies on the Microcephalin gene, is no longer working in this area, having become discouraged because the research results and their interpretation further enflamed what is already such a controversial issue. See [Eugenics, Race, and The Urantia Book](/en/article/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) for a comprehensive review of *The Urantia Book*’s statements on this subject. Support for *The Urantia Book*’s story about Adam and Eve is also documented in the [Garden of Eden Report](/en/article/Halbert_Katzen/Garden_of_Eden) and the [Gobekli Tepe Report](/en/article/Halbert_Katzen/Gobekli_Tepe).
+Follow up research comparing the spread of the introduction of new addition to the Microcephalin gene with the use of nontonal languages[^2] also showed a strong positive correlation. These correlations also track well with the migrations of Adam and Eve’s descendants. Bruce Lahn, from the Howard Hughes Medical Institute at the University of Chicago and the lead researcher responsible for the studies on the Microcephalin gene, is no longer working in this area, having become discouraged because the research results and their interpretation further enflamed what is already such a controversial issue. See [Eugenics, Race, and The Urantia Book](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book) for a comprehensive review of *The Urantia Book*’s statements on this subject. Support for *The Urantia Book*’s story about Adam and Eve is also documented in the [Garden of Eden Report](/en/article/Halbert_Katzen/Garden_of_Eden) and the [Gobekli Tepe Report](/en/article/Halbert_Katzen/Gobekli_Tepe).
 
 ## Overview
 
@@ -605,6 +605,8 @@ Naturally, based on the overall trend toward corroborations of historical and sc
 	
 	http://hmg.oxfordjournals.org/cgi/content/full/13/11/1139
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -620,6 +622,8 @@ Naturally, based on the overall trend toward corroborations of historical and sc
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## References
 

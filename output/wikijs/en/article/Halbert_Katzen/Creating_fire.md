@@ -223,6 +223,8 @@ The discoveries made at the Gesher Benot Ya'aqov in Israel during this millenniu
 
 * George W. Rohrer, *The First Settlers in France*, 1983, http://www.boneandstone.com/articles/rohrer_09.pdf, extensive article on early man in France.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -238,6 +240,8 @@ The discoveries made at the Gesher Benot Ya'aqov in Israel during this millenniu
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## References
 

@@ -510,6 +510,8 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
 
 * This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Shroud.pdf
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -526,7 +528,9 @@ According to _The Urantia Book_, “Of all human knowledge, that which is of gre
   </table>
 </figure>
 
-## Footnotes:
+<br>
+
+## Footnotes
 
 [^1]: The word “Urantia,” denoting Earth, is a coined word in _The Urantia Book_, with the etymological meaning “(y)our place in the heavens.”
 

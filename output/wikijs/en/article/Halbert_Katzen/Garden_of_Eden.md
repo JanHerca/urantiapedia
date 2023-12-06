@@ -175,6 +175,8 @@ For now, at least advances in sonar technology allow us to see a topography betw
 
 * Ergün, M.; Okay, S.; Sari, C.; Oral, E. Z., *Gravity and magnetic anomalies of the Cyprus arc and tectonic implications*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....1663E/abstract
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -190,6 +192,8 @@ For now, at least advances in sonar technology allow us to see a topography betw
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## References
 

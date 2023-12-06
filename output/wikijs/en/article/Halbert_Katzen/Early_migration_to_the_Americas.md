@@ -231,7 +231,7 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 
 ## Links
 
-* [Red race](en/topic/red_race)
+* [Red race](/en/topic/red_race)
 * [North America](/en/topic/North_America)
 * [Central America](/en/topic/Central_America)
 * [South America](/en/topic/South_America)
@@ -273,6 +273,8 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 	 
 	http://www.jqjacobs.net/anthro/paleoamericans.html
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -288,6 +290,8 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## References
 

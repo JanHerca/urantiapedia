@@ -160,8 +160,9 @@ Blue jets are one of many types of upper-atmosphere electrical discharges, or â€
 
 This large blue jet, shooting upwards from a thunderstorm's top, reached an upper altitude of about 130,00O feet (40 km). These jets have been reported in anecdotal accounts over the last century. This image and other images of jets captured on the evening of June 30 are the first ever recorded. The jets appear to move at speeds of 45,000 to 223,000 miles per hour (20 to 100 km per sec). This example was captured with a very wide angle low-light, black-and-white television camera flying over eastern Arkansas at 10:03 PM CDT (03:03 UT on UT date July 1). Universal Time is shown in the upper left; other flight data is shown at the bottom. Image credit: Geophysical Institute, University of Alaska Fairbanks. [^16]
 
-## Inner lonosphere Additional Links
+## External Links
 
+- This report in UBTheNews: https://ubannotated.com/ubthenews/topics/ionosphere/
 - <a id="a164_2"></a>[Urantia Book 58:2](/en/The_Urantia_Book/58#p2)
 - http://physicsweb.org/articles/news/6/3/9
 - http://news.nationalgeographic.com/news/2003/06/0625_030625_atmospherethunder.html
@@ -182,6 +183,8 @@ This large blue jet, shooting upwards from a thunderstorm's top, reached an uppe
 - (nice image) http://mysteriousuniverse.org//uploads/2007/06/lightning_sprites.jpg
 - (good images) http://umbra.nascom.nasa.gov/spd/sprites.html
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -197,6 +200,8 @@ This large blue jet, shooting upwards from a thunderstorm's top, reached an uppe
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## Footnotes
 

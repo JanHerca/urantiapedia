@@ -190,7 +190,7 @@ Now going back again to _The Sierra Nevada Enigma_:
 > 
 > Geologist Craig Jones of the University of Colorado in Boulder does disagree. “My gut feeling is that there's something about the isotopic work we don't understand yet,” Jones says. "Obviously there's a tendency to throw out the idea that the newest results are the correct ones.
 > 
-> Jones cannot find anything wrong with the Stanford results, except they contradict other geological evidence he feels supports a younger mountain range. Rainfall chemistry, or its signatures at different elevations, might have been dramatically different in an ancient climate, Jones says; he is sure some error lurks in the method. "It's very new. It has a lot of promise. It just seems right now that it's butting heads with a lot of other observations. A lot of times that's how you kind of work out the kinks.
+> Jones cannot find anything wrong with the Stanford results, except they contradict other geological evidence he feels supports a younger mountain range. Rainfall chemistry, or its signatures at different elevations, might have been dramatically different in an ancient climate, Jones says; he is sure some error lurks in the method. "It's very new. It has a lot of promise. It just seems right now that it's butting heads with a lot of other observations. A lot of times that's how you kind of work out the kinks.[^9]
 
 Brittany Grayson reasonably sought out and found commentary from someone aligned with the “Young Sierras” camp to criticize the work. This criticism, by its own admission is based on “gut feeling” and speculation, not science. The bias of Craig Jones is also reflected by his comment regarding the “tendency to throw out the idea that the newest results are the correct ones.” Indeed, this is precisely how science moves forward. Even Grayson felt the need to comment that, “Jones cannot find anything wrong with the Stanford results, except they contradict other geological evidence he feels supports a younger mountain range.”mountain range."
 
@@ -235,6 +235,8 @@ Had the authors of the 1955 Urantia Book known no more than most geologists livi
 
 **Comment regarding Phil's article**: He states: “the Sierra's [sic] were initially formed at the end of the Crustaceous [sic] period (144 to 65 million years ago)”. According to _The Urantia Book_, the Cretaceous period is from 100 to 50 million years ago, and the Sierras began to form near the start of this geologic period. Phil's dates reflect radiometric dating.
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -250,6 +252,8 @@ Had the authors of the 1955 Urantia Book known no more than most geologists livi
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## Footnotes
 
@@ -269,15 +273,17 @@ Had the authors of the 1955 Urantia Book known no more than most geologists livi
 
 [^8]: Science 7 July 2006: Vol. 313. no. 5783, pp. 87 - 89, http://www.sciencemag.org/cgi/content/full/313/5783/87
 
-[10]: “Ancient Rain Settles Sierra's Age”, Kathy A. Svitil, Discover Magazine, Jan. 2007, p.53
+[^9]: https://sciencenotes.ucsc.edu/0701/sierra/index.html
 
-[11]: [UB 60:3](/en/The_Urantia_Book/60#p3_par); <a id="a273_49"></a>[UB 60:4](/en/The_Urantia_Book/60#p4); <a id="a273_88"></a>[UB 59:5.20](/en/The_Urantia_Book/59#p5_20)
+[^10]: “Ancient Rain Settles Sierra's Age”, Kathy A. Svitil, Discover Magazine, Jan. 2007, p.53
 
-[12]: http://www.ucmp.berkeley.edu/mesozoic/cretaceous/cretaceous.html
+[^11]: [UB 60:3](/en/The_Urantia_Book/60#p3_par); <a id="a273_49"></a>[UB 60:4](/en/The_Urantia_Book/60#p4); <a id="a273_88"></a>[UB 59:5.20](/en/The_Urantia_Book/59#p5_20)
 
-[13]: <a id="a277_6"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
+[^12]: http://www.ucmp.berkeley.edu/mesozoic/cretaceous/cretaceous.html
 
-[14]: <a id="a279_6"></a>[UB 61:7.11](/en/The_Urantia_Book/61#p7_11)
+[^13]: <a id="a277_6"></a>[UB 61:3.3](/en/The_Urantia_Book/61#p3_3)
+
+[^14]: <a id="a279_6"></a>[UB 61:7.11](/en/The_Urantia_Book/61#p7_11)
 
 
 

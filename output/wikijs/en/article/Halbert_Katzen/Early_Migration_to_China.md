@@ -55,6 +55,8 @@ The Early Migration to China Report is the third UBtheNEWS report on primitive m
 
 On March 11, 2009 Paul Rincon, a science reporter for BBC News, published an article that reviews the research results from the Zhoukoudian site completed in 2008 and provides some history on the subject. His article states:
 
+<br style="clear:both;"/>
+
 > Iconic ancient human fossils from China are 200,000 years older than had previously been thought, a study shows.
 > 
 > The new dating analysis suggests the “Peking Man” fossils, unearthed in the caves of Zhoukoudian, are some 750,000 years old.
@@ -171,10 +173,7 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
 
 ## External links
 
-* This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf
-
-## Peking Man Additional Links
-
+- This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf
 - http://www.greatarchaeology.com/java_man.htm
 - http://en.wikipedia.org/wiki/Homo_erectus_pekinensis
 - http://www.newworldencyclopedia.org/entry/Java_man
@@ -189,6 +188,8 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
 - http://www.uiowa.edu/bioanth/courses/Peking1.htm
 - http://www.archaeologydaily.com/news/201104306509/Did-Peking-Man-wield-a-spear.htmlhttp://www.unreportedheritagenews.com/2011/04/did-peking-man-wield-spear-newresearch.html
 - http://www.archaeologydaily.com/news/200912032771/Mystery-Still-Shrouds-Peking-Man-80-Years-after-Discovery.html
+
+<br>
 
 <figure class="table chapter-navigator">
   <table>
@@ -205,6 +206,8 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
     </tbody>
   </table>
 </figure>
+
+<br>
 
 ## Footnotes
 
