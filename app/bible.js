@@ -4,7 +4,7 @@ const LaTeXSeparator = require('./enums').LaTeXSeparator;
 const BibleAbbs = require('./abb');
 const {extractStr, reflectPromise, extendArray, readFrom, getWikijsHeader, 
 	getWikijsLinks, getWikijsNavLinks, getWikijsBookRefLink, getError, 
-	writeFile, writeHTMLToWikijs} = require('./utils');
+	writeFile, writeHTMLToWikijs, replaceTags} = require('./utils');
 const fs = require('fs');
 const path = require('path');
 const Strings = require('./strings');
@@ -98,6 +98,7 @@ class Bible {
 		const bookabbs = Object.keys(BibleAbbs[this.language]);
 
 		lines.forEach((line, i) => {
+			const replaceErr = [];
 			if (line.startsWith(LaTeXSeparator.TITLE_START)) {
 				extract = extractStr(line, LaTeXSeparator.TITLE_START,
 					LaTeXSeparator.END);
@@ -148,6 +149,12 @@ class Bible {
 			} else if (line.startsWith(LaTeXSeparator.PAR_START) &&
 				!line.startsWith(LaTeXSeparator.PART_START)) {
 				extract = line.substring(5).trim();
+				extract = replaceTags(extract, LaTeXSeparator.ITALIC_START, 
+					LaTeXSeparator.END, '<i>', '</i>', replaceErr);
+				if (replaceErr.length > 0) {
+					errors.push(this.getError('bible_chapter_wrong_italics',
+						baseName, book.chapters.length, extract));
+				}
 				currentVer = extract.substring(0, extract.indexOf(' '));
 				currentVer = (!isNaN(parseInt(currentVer)) ? 
 					parseInt(currentVer) : null);
@@ -235,12 +242,12 @@ class Bible {
 				.find(c=>c.title === (chIndex - 1).toString());
 			const nextChapter = book.chapters
 				.find(c=>c.title === (chIndex + 1).toString());
-			const title = `${book.title} - ${chapterText} ${chapter.title}`;
+			const title = `"${book.title} - ${chapterText} ${chapter.title}"`;
 			const bookPath = book.path.startsWith('/' + this.language) ?
 				book.path : '/' + this.language + book.path;
+			const extraTag = (book_bibleref ? ['bible—' + book.titleEN.toLowerCase()] : []);
 
-			header += getWikijsHeader(title, 
-				['bible', 'bible—' + book.titleEN.toLowerCase()]);
+			header += getWikijsHeader(title, ['bible', ...extraTag]);
 			header += '\r\n';
 			const navigation = getWikijsNavLinks({
 				prevTitle: prevChapter ? 

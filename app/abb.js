@@ -510,7 +510,9 @@ const BibleAbbreviations = {
 		'1 Enoch': ['Book of Enoch', '/Bible/Book_of_Enoch', 'APO'],
 		'As. Mos.': ['Assumption of Moses', '/Bible/Assumption_of_Moses', 'APO'],
 		'1 Esdras': ['1 Esdras', '/Bible/1_Esdras', 'APO'],
-		'2 Esdras': ['2 Esdras', '/Bible/2_Esdras', 'APO']
+		'2 Esdras': ['2 Esdras', '/Bible/2_Esdras', 'APO'],
+		'1 Adam': ['First book of Adam and Eve', '/Bible/First_book_of_Adam_and_Eve', 'APO'],
+		'2 Adam': ['Second book of Adam and Eve', '/Bible/Second_book_of_Adam_and_Eve', 'APO']
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],
