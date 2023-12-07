@@ -11,6 +11,8 @@ Adversity
 Africa
 Angels and midwayers
 Anthropology
+Apocrypha OT
+Apocrypha NT
 Archaeology
 Art
 Article

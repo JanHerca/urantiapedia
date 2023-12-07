@@ -3,7 +3,7 @@ title: "First book of Adam and Eve"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
-tags: 
+tags: Bible, Apocrypha OT
 editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
@@ -99,7 +99,7 @@ Book IL The history of the patriarchs who lived before the Flood; the dwelling o
 - [Chapter XXXIV](/en/Bible/First_book_of_Adam_and_Eve/34)
 - [Chapter XXXV](/en/Bible/First_book_of_Adam_and_Eve/35)
 - [Chapter XXXVI](/en/Bible/First_book_of_Adam_and_Eve/36)
-- [Chapter XXXVII.](/en/Bible/First_book_of_Adam_and_Eve/37)
+- [Chapter XXXVII](/en/Bible/First_book_of_Adam_and_Eve/37)
 - [Chapter XXXVIII](/en/Bible/First_book_of_Adam_and_Eve/38)
 - [Chapter XXXIX](/en/Bible/First_book_of_Adam_and_Eve/39)
 - [Chapter XL](/en/Bible/First_book_of_Adam_and_Eve/40)
@@ -126,8 +126,8 @@ Book IL The history of the patriarchs who lived before the Flood; the dwelling o
 - [Chapter LXI](/en/Bible/First_book_of_Adam_and_Eve/61)
 - [Chapter LXII](/en/Bible/First_book_of_Adam_and_Eve/62)
 - [Chapter LXIII](/en/Bible/First_book_of_Adam_and_Eve/63)
-- [Chapter LXIV.](/en/Bible/First_book_of_Adam_and_Eve/64)
-- [Chapter LXV.](/en/Bible/First_book_of_Adam_and_Eve/65)
+- [Chapter LXIV](/en/Bible/First_book_of_Adam_and_Eve/64)
+- [Chapter LXV](/en/Bible/First_book_of_Adam_and_Eve/65)
 - [Chapter LXVI](/en/Bible/First_book_of_Adam_and_Eve/66)
 - [Chapter LXVII](/en/Bible/First_book_of_Adam_and_Eve/67)
 - [Chapter LXVIII](/en/Bible/First_book_of_Adam_and_Eve/68)
@@ -144,9 +144,9 @@ Book IL The history of the patriarchs who lived before the Flood; the dwelling o
 - [Chapter LXXIX](/en/Bible/First_book_of_Adam_and_Eve/79)
 
 
-[Full Index of The Bible](/en/index/bible)
-
-
 ## External links
 
 - Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_000
+- Wikipedia: https://en.wikipedia.org/wiki/Conflict_of_Adam_and_Eve_with_Satan
+- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- Internet Archive: https://archive.org/details/bookofadameveals00malaiala/page/n5/mode/2up

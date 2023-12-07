@@ -3,7 +3,7 @@ title: "Second book of Enoch (or The Book of the Secrets of Enoch)"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
-tags: 
+tags: Bible, Apocrypha OT
 editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
@@ -26,6 +26,10 @@ dateCreated: 2023-12-05T13:55:38.362Z
 </div>
 
 ## Description
+
+The “Second Book of Enoch”, abbreviated as “2 Enoch” and also known as “Slavonic Enoch”, “Slavic Enoch”, or “The Book of the Secrets of Enoch”
+
+_From The Forgotten Books of Eden, by Rutherford H. Platt, Jr. [1926]_
 
 THIS new fragment of early literature came to light through certain manuscripts which were recently found in Russia and Servia and so far as is yet known has been preserved only in Slavonic. Little is known of its origin except that in its present form it was written somewhere about the beginning of the Christian era. Its final editor was a Greek and the place of its composition Egypt. Its value lies in the unquestioned influence which it has exerted on the writers of the New Testament. Some of the dark passages of the latter being all but inexplicable without its aid.
 
@@ -108,3 +112,5 @@ The writing appeals to the reader who thrills to lend wings to his thoughts and 
 ## External links
 
 - Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_002
+- Wikipedia: https://en.wikipedia.org/wiki/2_Enoch
+- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden

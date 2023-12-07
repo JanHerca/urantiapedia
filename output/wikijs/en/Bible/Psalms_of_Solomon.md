@@ -3,7 +3,7 @@ title: "Psalms of Solomon"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
-tags: 
+tags: Bible, Apocrypha OT
 editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
@@ -26,6 +26,10 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Description
 
+“Psalms of Solomon”
+
+_From The Forgotten Books of Eden, by Rutherford H. Platt, Jr. [1926]_
+
 THIS collection of eighteen war songs are the gift of an ancient Semitic writer. The original manuscript has perished but fortunately Greek translations have been preserved, and recently a Syriac version of the same songs has turned up and was published in English for the first time in 1909 by Dr. Rendel Harris.
 
 The date of the writing may be established at the middle of the First Century B. C. because the theme of these songs is that of Pompey's actions in Palestine and his death in Egypt in 48 B. C.
@@ -34,7 +38,7 @@ These psalms had an important position and were widely circulated in the early C
 
 Later, they became lost through inexplicable reasons; and have only been recovered for our use after the lapse of many centuries.
 
-Besides the literary value of the trumpet-like rhythm of these verses, we have here a chapter of stirring ancient history written by an eyewitness. Pompey comes out of the West. He uses battering-rams on the fortifications. His soldiers defile the altar. He is slain in Egypt after a fearful career. In the "righteous" of these psalms we see the Pharisees; in the "sinners" we see the Sadducees. It is an epic of a great people in the throes of a great crisis.
+Besides the literary value of the trumpet-like rhythm of these verses, we have here a chapter of stirring ancient history written by an eyewitness. Pompey comes out of the West. He uses battering-rams on the fortifications. His soldiers defile the altar. He is slain in Egypt after a fearful career. In the “righteous” of these psalms we see the Pharisees; in the “sinners” we see the Sadducees. It is an epic of a great people in the throes of a great crisis.
 
 ## Index
 
@@ -61,3 +65,5 @@ Besides the literary value of the trumpet-like rhythm of these verses, we have h
 ## External links
 
 - Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_003
+- Wikipedia: https://en.wikipedia.org/wiki/Psalms_of_Solomon
+- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden

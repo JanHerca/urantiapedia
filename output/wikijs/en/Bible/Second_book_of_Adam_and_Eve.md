@@ -3,7 +3,7 @@ title: "Second book of Adam and Eve"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
-tags: 
+tags: Bible, Apocrypha OT
 editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
@@ -24,6 +24,14 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	</g>
 </svg>
 </div>
+
+## Description
+
+“The Second Book of Adam and Eve”
+
+_From The Forgotten Books of Eden, by Rutherford H. Platt, Jr. [1926]_
+
+This is the second part of the “Book of Adam and Eve” also known as “The Conflict of Adam and Eve with Satan”. See the [First part](/en/Bible/First_book_of_Adam_and_Eve) for commentary.
 
 ## Index
 
@@ -51,9 +59,9 @@ dateCreated: 2023-12-05T13:55:38.362Z
 - [Chapter XXII](/en/Bible/Second_book_of_Adam_and_Eve/22)
 
 
-[Full Index of The Bible](/en/index/bible)
-
-
 ## External links
 
 - Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_001
+- Wikipedia: https://en.wikipedia.org/wiki/Conflict_of_Adam_and_Eve_with_Satan
+- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- Internet Archive: https://archive.org/details/bookofadameveals00malaiala/page/n5/mode/2up

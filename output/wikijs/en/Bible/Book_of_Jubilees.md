@@ -3,7 +3,7 @@ title: "Book of Jubilees"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
-tags: 
+tags: Bible, Apocrypha OT
 editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
