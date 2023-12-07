@@ -94,68 +94,68 @@ La letra «C» (para convergencia, éxito) o la letra «D» (para divergencia, f
 
 ## Declaraciones de inversión de la ciencia física contemporánea
 
-1. La existencia, pero un papel restringido, del mesotroni de Hideki Yukawa (ahora llamado mesón) para mantener unido el núcleo cambiando rápidamente la carga entre protones y neutrones, y la existencia de una fuerza entonces desconocida, distinta del mesón de Yukawa, que mantiene al protón en protón y neutrón a neutrón y cuya existencia se esclareció entre 1950 y 1970. (C)
-2. Las pequeñas partículas sin carga (neutrinos) de desintegración radiactiva propuestas en 1932 e identificadas en 1956. El mesotrón de desintegración beta radiactiva de un neutrón en un electrón, un protón y un neutrino que se conoció como el bosón W (descubierto en 1981 ).[^i] (C)
-3. Los mesotrones se encuentran abundantemente en los rayos espaciales, que tan incesantemente inciden sobre la Tierra.[^iii] (C)
-4. Los neutrinos provienen de las supernovas [^iv] y tienen masa. (C)
-5. Tamaños del electrón [^v] y del protón (y quark). (C)
-6. La ubicuidad del calcio 19 relativamente pesado en la porción exterior del sol y el espacio.[^ii] (C)
-7. La existencia de materiales que no absorben ni reflejan la luz.[^ii] (C)
+1. La existencia, pero un papel restringido, del mesotroni de Hideki Yukawa (ahora llamado mesón) para mantener unido el núcleo cambiando rápidamente la carga entre protones y neutrones, y la existencia de una fuerza entonces desconocida, distinta del mesón de Yukawa, que mantiene al protón en protón y neutrón a neutrón y cuya existencia se esclareció entre 1950 y 1970. ( C )
+2. Las pequeñas partículas sin carga (neutrinos) de desintegración radiactiva propuestas en 1932 e identificadas en 1956. El mesotrón de desintegración beta radiactiva de un neutrón en un electrón, un protón y un neutrino que se conoció como el bosón W (descubierto en 1981 ).[^i] ( C )
+3. Los mesotrones se encuentran abundantemente en los rayos espaciales, que tan incesantemente inciden sobre la Tierra.[^iii] ( C )
+4. Los neutrinos provienen de las supernovas [^iv] y tienen masa. ( C )
+5. Tamaños del electrón [^v] y del protón (y quark). ( C )
+6. La ubicuidad del calcio 19 relativamente pesado en la porción exterior del sol y el espacio.[^ii] ( C )
+7. La existencia de materiales que no absorben ni reflejan la luz.[^ii] ( C )
 
 **Astronomía**
 
-8. Existencia, influencia y porcentaje de materia oscura en el cosmos.[^ii] (C)
-9. Estructuras a gran escala en el espacio exterior lejano: ≥ 375 millones de universos islas en el espacio exterior lejano separados por enormes vacíos que abarcan millones de años luz.[^iii](C)
-10. Las explosiones de supernova observadas por Tycho Brahe en 1572 se describen como una explosión de estrella doble.[^iv] (C)
-11. La Nebulosa del Cangrejo se debió a una nova observada hace 900 años con una estrella central restante después del colapso ahora conocida como púlsar (estrella de neutrones). Existencia de estrellas de neutrones.[^v] (C)
-12. Los rayos cósmicos (muy alta energía [^vi]), desde el espacio exterior lejano, escapan de los agujeros negros, caen en cascada en la atmósfera superior. (C)
-13. Los meteoritos más rápidos son extragalácticos y viajan a 200 mi/s en relación con la Tierra.[^vii] (C)
-14. Los agujeros negros (cuerpos oscuros sin luz ni calor) pueden estar muy cargados. [^viii] (C)
-15. Los telescopios verán enormes desplazamientos hacia el rojo que harán parecer que la velocidad de recesión de los universos del espacio exterior lejano es ≥ 30,000 mi/seg[^ix] (C)  
-16. Existe expansión espacial y aceleración[^x] (C)
-17. El Big Bang (comienzo del universo del espacio y la materia en el espacio) ocurrió hace unos 13.700 millones de años[^xi]. La radiación de fondo de 4 grados por encima del cero absoluto se acepta como evidencia del Big Bang. (D)
-18. El espacio no está vacío. Su temperatura está por encima del cero absoluto.[^xii] (C)
-19. La distancia a la galaxia de Andrómeda es de más de 2 millones de años luz (frente a casi un millón de años luz). [^ xiii] (D)
-20. La lenta rotación de Mercurio[^xiv] (C)
-21. Nacimiento del Sistema Solar (¿un origen tipo condensación?); Origen del Movimiento Retrógrado en el Sistema Solar; (D)
-22. Explicación del gran porcentaje del momento angular del sistema solar en los planetas y lunas - sol originalmente variable; degüelle; Ciclo de manchas solares de 11 años como remanente. (D)
-23. El origen de la Tierra y la Luna, incluida la evolución hasta los tamaños y masas actuales y el futuro proyectado; Separación del Quinto Planeta del Sol[^xvii] y los anillos de Saturno, debido a que los cuerpos más pequeños se acercan más que el límite de Roche a los cuerpos más grandes. (D)
-24. Temperatura en la superficie y en el centro del sol[^xviii] (?)
-25. Atmósferas planetarias de Marte y Venus[^xix] (C)
+8. Existencia, influencia y porcentaje de materia oscura en el cosmos.[^ii] ( C )
+9. Estructuras a gran escala en el espacio exterior lejano: ≥ 375 millones de universos islas en el espacio exterior lejano separados por enormes vacíos que abarcan millones de años luz.[^iii] ( C )
+10. Las explosiones de supernova observadas por Tycho Brahe en 1572 se describen como una explosión de estrella doble.[^iv] ( C )
+11. La Nebulosa del Cangrejo se debió a una nova observada hace 900 años con una estrella central restante después del colapso ahora conocida como púlsar (estrella de neutrones). Existencia de estrellas de neutrones.[^v] ( C )
+12. Los rayos cósmicos (muy alta energía [^vi]), desde el espacio exterior lejano, escapan de los agujeros negros, caen en cascada en la atmósfera superior. ( C )
+13. Los meteoritos más rápidos son extragalácticos y viajan a 200 mi/s en relación con la Tierra.[^vii] ( C )
+14. Los agujeros negros (cuerpos oscuros sin luz ni calor) pueden estar muy cargados. [^viii] ( C )
+15. Los telescopios verán enormes desplazamientos hacia el rojo que harán parecer que la velocidad de recesión de los universos del espacio exterior lejano es ≥ 30,000 mi/seg[^ix] ( C )  
+16. Existe expansión espacial y aceleración[^x] ( C )
+17. El Big Bang (comienzo del universo del espacio y la materia en el espacio) ocurrió hace unos 13.700 millones de años[^xi]. La radiación de fondo de 4 grados por encima del cero absoluto se acepta como evidencia del Big Bang. ( D )
+18. El espacio no está vacío. Su temperatura está por encima del cero absoluto.[^xii] ( C )
+19. La distancia a la galaxia de Andrómeda es de más de 2 millones de años luz (frente a casi un millón de años luz). [^ xiii] ( D )
+20. La lenta rotación de Mercurio[^xiv] ( C )
+21. Nacimiento del Sistema Solar (¿un origen tipo condensación?); Origen del Movimiento Retrógrado en el Sistema Solar; ( D )
+22. Explicación del gran porcentaje del momento angular del sistema solar en los planetas y lunas - sol originalmente variable; degüelle; Ciclo de manchas solares de 11 años como remanente. ( D )
+23. El origen de la Tierra y la Luna, incluida la evolución hasta los tamaños y masas actuales y el futuro proyectado; Separación del Quinto Planeta del Sol[^xvii] y los anillos de Saturno, debido a que los cuerpos más pequeños se acercan más que el límite de Roche a los cuerpos más grandes. ( D )
+24. Temperatura en la superficie y en el centro del sol[^xviii] ( ? )
+25. Atmósferas planetarias de Marte y Venus[^xix] ( C )
 
 **Biología**
 
-26. Vida inicial en la Tierra (hace 550 millones de años)[^xx] (D)
-27. Trilobites comedores de lodo. Evidencia reciente de que estos trilobites fueron capaces de hacer lo que las bacterias que comen azufre pueden hacer, no solo comerse las bacterias.[^xxi] (C)
-28. Fin del Cretácico y los dinosaurios por actividad volcánica, cambio de clima.[^xxii] (?)
-29. Aparición de mamíferos placentarios (hace 50 millones de años)[^xxiii] (C)
-30. Cuarenta y ocho determinantes de rasgos en los cromosomas humanos[^xxiv] (C)
-31. Equilibrios puntuados (Evolución — gradual vs. episódica)[^xxv] (C)
-32. Una mutación genética muy exitosa hace unos 37 000 años debido a 1 o 2 personas[^xxvi] (C)
-33. Sensibilidad magnética de toda vida[^xvii] (C)
-34. Reparación de lesiones y proliferación celular[^xxviii] (C)
+26. Vida inicial en la Tierra (hace 550 millones de años)[^xx] ( D )
+27. Trilobites comedores de lodo. Evidencia reciente de que estos trilobites fueron capaces de hacer lo que las bacterias que comen azufre pueden hacer, no solo comerse las bacterias.[^xxi] ( C )
+28. Fin del Cretácico y los dinosaurios por actividad volcánica, cambio de clima.[^xxii] ( ? )
+29. Aparición de mamíferos placentarios (hace 50 millones de años)[^xxiii] ( C )
+30. Cuarenta y ocho determinantes de rasgos en los cromosomas humanos[^xxiv] ( C )
+31. Equilibrios puntuados (Evolución — gradual vs. episódica)[^xxv] ( C )
+32. Una mutación genética muy exitosa hace unos 37 000 años debido a 1 o 2 personas[^xxvi] ( C )
+33. Sensibilidad magnética de toda vida[^xvii] ( C )
+34. Reparación de lesiones y proliferación celular[^xxviii] ( C )
 
 **Paleontología**
 
-35. Los lémures son los antepasados ​​evolutivos humanos vivos más cercanos. [^xxix] (C)
-36. El doble fraude fósil del «Hombre de Piltdown»[^xxx] (C)
-37. Fecha del uso humano del pedernal para hacer fuego mucho antes de lo que se pensaba.[^xxxi] (C)  
-38. Fecha del Hombre de Pekín en China.[^xxxii] (C)     
-39. Fecha de la migración humana a Gran Bretaña.[^xxxiii] (C)     
-40. Los humanos se aparearon con los neandertales.[^xxxiv] (C)
-41. Fecha más temprana de la migración del Hombre Rojo a América.[^xxxv] (D)
-42. Lugar y época de la domesticación de los caballos.[^xxxvi] (C)
+35. Los lémures son los antepasados ​​evolutivos humanos vivos más cercanos. [^xxix] ( C )
+36. El doble fraude fósil del «Hombre de Piltdown»[^xxx] ( C )
+37. Fecha del uso humano del pedernal para hacer fuego mucho antes de lo que se pensaba.[^xxxi] ( C )  
+38. Fecha del Hombre de Pekín en China.[^xxxii] ( C )     
+39. Fecha de la migración humana a Gran Bretaña.[^xxxiii] ( C )     
+40. Los humanos se aparearon con los neandertales.[^xxxiv] ( C )
+41. Fecha más temprana de la migración del Hombre Rojo a América.[^xxxv] ( D )
+42. Lugar y época de la domesticación de los caballos.[^xxxvi] ( C )
 
 **Geología**
 
-43. La Edad de la Tierra.[^xxxvii] (C)
-44. Existencia y tiempo de Pangea, su ruptura y posterior deriva continental.[^xxxviii] (C)
-45. Los movimientos geológicos de las placas (tectónica) Las colisiones causan montañas y terremotos.[^xxxix] (C)
-46. ​​Hace 330 millones de años ocurrió una erupción volcánica en el Gran Este de Kentucky. Una vez que se pensó que su origen era tectónico, actualmente (24 de mayo de 2013) se cree que es el resultado del impacto de un meteorito de 5,5 km[^xl], pero el frágil levantamiento del cráter central aún no se ha explicado. (D)
-47. Topografía submarina del Mediterráneo oriental[^xli] e historia de la cuenca del Mediterráneo. (C)
-48. Edad de las montañas de la Cordillera de Sierra Nevada.[^xlii] (C)
-49. La rotura de Gibraltar y la consiguiente inundación de la cuenca del Mediterráneo por las aguas del Atlántico[^xliii] (D)
-50. Existencia interna de la ionosfera (Tenga en cuenta los hallazgos recientes que revierten un supuesto «error» del LU) [^xliv] (C)
+43. La Edad de la Tierra.[^xxxvii] ( C )
+44. Existencia y tiempo de Pangea, su ruptura y posterior deriva continental.[^xxxviii] ( C )
+45. Los movimientos geológicos de las placas (tectónica) Las colisiones causan montañas y terremotos.[^xxxix] ( C )
+46. ​​Hace 330 millones de años ocurrió una erupción volcánica en el Gran Este de Kentucky. Una vez que se pensó que su origen era tectónico, actualmente (24 de mayo de 2013) se cree que es el resultado del impacto de un meteorito de 5,5 km[^xl], pero el frágil levantamiento del cráter central aún no se ha explicado. ( D )
+47. Topografía submarina del Mediterráneo oriental[^xli] e historia de la cuenca del Mediterráneo. ( C )
+48. Edad de las montañas de la Cordillera de Sierra Nevada.[^xlii] ( C )
+49. La rotura de Gibraltar y la consiguiente inundación de la cuenca del Mediterráneo por las aguas del Atlántico[^xliii] ( D )
+50. Existencia interna de la ionosfera (Tenga en cuenta los hallazgos recientes que revierten un supuesto «error» del LU) [^xliv] ( C )
 
 **La prueba.** Hay 39 C, 9 D y 2 signos de interrogación de un total de 50 elementos.
 
@@ -216,7 +216,7 @@ En ese sentido, deben saber que _El Libro de Urantia_ predica el Evangelio de Je
 
 [^xvii]: <a id="a216_9"></a>[LU 57:6.5](/es/The_Urantia_Book/57#p6_5). Consulte también http://www.pbs.org/wgbh/nova/tothemoon/origins.html
 
-[^xviii]: <a id="a218_10"></a>[LU 41:7.2](/es/The_Urantia_Book/41#p7_2) _«La temperatura superficial de vuestro Sol es de unos 3.300 grados (C), pero a medida que se penetra en el interior, aumenta rápidamente hasta que llega a alcanzar la cifra increíble de unos 19.400.000 grados (C) en las regiones centrales. (Todas estas temperaturas están expresadas en grados Celsius)»_ Ahora estimado en 29 millones de grados F, Microsoft Encarta '95. Redmond, WA: Microsoft, 1995. «La temperatura aproximada en el centro del sol es de 16 000 000 K (29 000 000 °F)» http://www.hypertextbook.com/facts/1997/DedraForbes.shtml
+[^xviii]: <a id="a218_10"></a>[LU 41:7.2](/es/The_Urantia_Book/41#p7_2) _«La temperatura superficial de vuestro Sol es de unos 3.300 grados ( C ), pero a medida que se penetra en el interior, aumenta rápidamente hasta que llega a alcanzar la cifra increíble de unos 19.400.000 grados ( C ) en las regiones centrales. (Todas estas temperaturas están expresadas en grados Celsius)»_ Ahora estimado en 29 millones de grados F, Microsoft Encarta '95. Redmond, WA: Microsoft, 1995. «La temperatura aproximada en el centro del sol es de 16 000 000 K (29 000 000 °F)» http://www.hypertextbook.com/facts/1997/DedraForbes.shtml
 
 [^xix]: <a id="a220_8"></a>[LU 49:2.13](/es/The_Urantia_Book/49#p2_13) _«Los seres tales como las razas de Urantia están clasificados como respiradores medios; representáis la orden respiradora media o típica de existencia mortal. Si existieran criaturas inteligentes en un planeta con una atmósfera similar a la de Venus, vuestro vecino más cercano, pertenecerían al grupo de los superrespiradores, mientras que los habitantes de un planeta con una atmósfera tan enrarecida como la de Marte, vuestro vecino exterior, serían denominados subrespiradores.»_ Ver también http://www.en.wikipedia.org/wiki/Atmosphere_of_Venus y http://www.cmex.ihmc.us/voviews/eartmars.htm.
 
@@ -226,7 +226,7 @@ En ese sentido, deben saber que _El Libro de Urantia_ predica el Evangelio de Je
 
 [^xxii]: <a id="a226_9"></a>[LU 60:2.14](/es/The_Urantia_Book/60#p2_14) _«Hace cien millones de años, la época de los reptiles se acercaba a su fin. Los dinosaurios, a pesar de su enorme masa, eran unos animales casi sin cerebro, y carecían de la inteligencia suficiente para conseguir la comida necesaria a fin de alimentar unos cuerpos tan colosales.»_
 
-[^xxiii]: [61:0.1](/es/The_Urantia_Book/61p#0_1); [61:7.19](/es/The_Urantia_Book/61) «Los mamíferos placentarios se originaron en la Tierra hace 65 millones de años, afirman los investigadores», Science Daily (21 de junio de 2007) — Un fósil de mamífero primitivo descubierto en Mongolia llevó a los investigadores a afirmar que el Los orígenes de los mamíferos placentarios, que incluyen a los humanos, se remontan a hace aproximadamente 65 millones de años en el hemisferio norte”. Ver también http://www.sciencedaily.com/releaes/2007/06/070621135213.htm
+[^xxiii]: [61:0.1](/es/The_Urantia_Book/61#p0_1); [61:7.19](/es/The_Urantia_Book/61) «Los mamíferos placentarios se originaron en la Tierra hace 65 millones de años, afirman los investigadores», Science Daily (21 de junio de 2007) — Un fósil de mamífero primitivo descubierto en Mongolia llevó a los investigadores a afirmar que el Los orígenes de los mamíferos placentarios, que incluyen a los humanos, se remontan a hace aproximadamente 65 millones de años en el hemisferio norte”. Ver también http://www.sciencedaily.com/releaes/2007/06/070621135213.htm
 
 [^xxiv]: <a id="a230_9"></a>[LU 36:2.11](/es/The_Urantia_Book/36#p2_11) «_En Urantia hay cuarenta y ocho unidades de control arquetípico —de determinadores de las características— en las células sexuales de la reproducción humana_». Consulte también «Cromosoma 2 (humano)» http://www.en.wikipedia.org/wiki/Chromosome_2_%28human%29 que dice «Los humanos tienen solo 23 pares de cromosomas. Se acepta ampliamente que el cromosoma 2 humano es el resultado de una fusión de extremo a extremo de dos cromosomas ancestrales».
 

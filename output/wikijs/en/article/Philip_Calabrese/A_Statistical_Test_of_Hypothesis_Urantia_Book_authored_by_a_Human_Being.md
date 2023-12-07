@@ -94,68 +94,68 @@ The letter “C” (for convergence, success), or the letter “D” (for diverg
 
 ## Reversal Statements of Contemporary Science Physics 
 
-1. The existence but restricted role of the Hideki Yukawa mesotroni (now called a meson) in holding the nucleus together by rapidly shifting charge between protons and neutrons, and the existence of a then unknown force, other than Yukawa’s meson, that holds proton to proton and neutron to neutron and whose existence was clarified between 1950 and 1970. (C) 
-2. The small, uncharged particles (neutrinos) of radioactive decay proposed in 1932 and identified in 1956. The mesotron of radioactive beta decay of a neutron into an electron, proton, and a neutrino that became known as the W-boson (discovered 1981).[^i] (C) 
-3. Mesotrons are found abundantly in the space rays, which so incessantly impinge on Earth.[^iii] (C) 
-4. Neutrinos come from supernovas [^iv], and have mass. (C) 
-5. Sizes of the electron [^v] and of the proton (and quark). (C) 
-6. The ubiquity of relatively heavy calcium 19 in the outer portion of the sun and space.[^ii] (C) 
-7. The existence of materials that neither absorb nor reflect light.[^ii] (C) 
+1. The existence but restricted role of the Hideki Yukawa mesotroni (now called a meson) in holding the nucleus together by rapidly shifting charge between protons and neutrons, and the existence of a then unknown force, other than Yukawa’s meson, that holds proton to proton and neutron to neutron and whose existence was clarified between 1950 and 1970. ( C ) 
+2. The small, uncharged particles (neutrinos) of radioactive decay proposed in 1932 and identified in 1956. The mesotron of radioactive beta decay of a neutron into an electron, proton, and a neutrino that became known as the W-boson (discovered 1981).[^i] ( C ) 
+3. Mesotrons are found abundantly in the space rays, which so incessantly impinge on Earth.[^iii] ( C ) 
+4. Neutrinos come from supernovas [^iv], and have mass. ( C ) 
+5. Sizes of the electron [^v] and of the proton (and quark). ( C ) 
+6. The ubiquity of relatively heavy calcium 19 in the outer portion of the sun and space.[^ii] ( C ) 
+7. The existence of materials that neither absorb nor reflect light.[^ii] ( C ) 
 
 **Astronomy**
 
-8. Existence, influence, and percentage of dark matter in the cosmos.[^ii] (C) 
-9. Large scale structures in far outer space: ≥ 375 million island universes in far outer space separated by huge voids spanning millions of light years.[^iii](C) 
-10. Supernova explosions observed by Tycho Brahe in 1572 are described as a double star explosion.[^iv] (C) 
-11. Crab Nebula was due to a nova observed 900 years ago with a remaining central star after collapse now known as pulsar (neutron star). Existence of Neutron Stars.[^v] (C) 
-12. Cosmic Rays (very high energy[^vi]), from far outer space, escape from black holes, cascade in upper atmosphere. (C) 
-13. The fastest meteorites are extragalactic and travel at 200 mi/sec relative to earth.[^vii] (C) 
-14. Black Holes (dark bodies with no light or heat) can be highly charged. [^viii] (C) 
-15. Telescopes will see huge red shifts that will make it seem that the speed of recession of far outer space universes is ≥ 30,000 mi/sec[^ix] (C)  
-16. Space expansion and acceleration exists[^x] (C) 
-17. Big Bang (beginning of the universe of space, and matter in space) happened about 13.7 billion years ago[^xi]. Background radiation of 4 degrees above absolute zero is accepted as evidence of Big Bang. (D) 
-18. Space is not empty. Its temperature is above absolute zero.[^xii] (C) 
-19. The Distance to the Andromeda Galaxy is over 2 mil lion light years (versus almost one million light years). [^xiii](D) 
-20. The Slow Rotation of Mercury[^xiv] (C) 
-21. Birth of the Solar System (a condensation type origin?); Origin of Retrograde Motion in the Solar System; (D) 
-22. Explanation of the large percentage of the angular momentum of the solar system in the planets and moons - sun originally variable ; disgorgement; 11-yr sunspot cycle as remnant. (D) 
-23. Earth – moon origin including evolution to present sizes and masses and projected future; Breakup of the Fifth Planet from the Sun[^xvii], and Saturn’s rings, due to smaller bodies getting closer than Roche’s limit to larger bodies. (D) 
-24. Temperature on the surface, and at center of the sun[^xviii] (?) 
-25. Planetary Atmospheres of Mars and Venus[^xix] (C) 
+8. Existence, influence, and percentage of dark matter in the cosmos.[^ii] ( C ) 
+9. Large scale structures in far outer space: ≥ 375 million island universes in far outer space separated by huge voids spanning millions of light years.[^iii]( C ) 
+10. Supernova explosions observed by Tycho Brahe in 1572 are described as a double star explosion.[^iv] ( C ) 
+11. Crab Nebula was due to a nova observed 900 years ago with a remaining central star after collapse now known as pulsar (neutron star). Existence of Neutron Stars.[^v] ( C ) 
+12. Cosmic Rays (very high energy[^vi]), from far outer space, escape from black holes, cascade in upper atmosphere. ( C ) 
+13. The fastest meteorites are extragalactic and travel at 200 mi/sec relative to earth.[^vii] ( C ) 
+14. Black Holes (dark bodies with no light or heat) can be highly charged. [^viii] ( C ) 
+15. Telescopes will see huge red shifts that will make it seem that the speed of recession of far outer space universes is ≥ 30,000 mi/sec[^ix] ( C )  
+16. Space expansion and acceleration exists[^x] ( C ) 
+17. Big Bang (beginning of the universe of space, and matter in space) happened about 13.7 billion years ago[^xi]. Background radiation of 4 degrees above absolute zero is accepted as evidence of Big Bang. ( D ) 
+18. Space is not empty. Its temperature is above absolute zero.[^xii] ( C ) 
+19. The Distance to the Andromeda Galaxy is over 2 mil lion light years (versus almost one million light years). [^xiii] ( D ) 
+20. The Slow Rotation of Mercury[^xiv] ( C ) 
+21. Birth of the Solar System (a condensation type origin?); Origin of Retrograde Motion in the Solar System; ( D ) 
+22. Explanation of the large percentage of the angular momentum of the solar system in the planets and moons - sun originally variable ; disgorgement; 11-yr sunspot cycle as remnant. ( D ) 
+23. Earth – moon origin including evolution to present sizes and masses and projected future; Breakup of the Fifth Planet from the Sun[^xvii], and Saturn’s rings, due to smaller bodies getting closer than Roche’s limit to larger bodies. ( D ) 
+24. Temperature on the surface, and at center of the sun[^xviii] ( ? ) 
+25. Planetary Atmospheres of Mars and Venus[^xix] ( C ) 
 
 **Biology** 
 
-26. Initial Life on Earth (550 million yrs ago)[^xx] (D) 
-27. Mud-eating trilobites. Recent evidence that these trilobites were indeed able to do what sulfur-eating bacteria can do, not just eat the bacteria.[^xxi] (C) 
-28. End of Cretaceous Age and the dinosaurs due to volcanic activity, change of climate.[^xxii] (?) 
-29. Placental mammals emergence (50 million years ago)[^xxiii] (C) 
-30. Forty-eight Trait Determiners in Human Chromosomes[^xxiv] (C) 
-31. Punctuated equilibria (Evolution — gradual vs. episodic)[^xxv] (C) 
-32. A very Successful Genetic Mutation about 37,000 years ago due to 1 or 2 people[^xxvi] (C) 
-33. Magnetic Sensitivity of all Life[^xvii] (C) 
-34. Injury Repair and Cell Proliferation[^xxviii] (C) 
+26. Initial Life on Earth (550 million yrs ago)[^xx] ( D ) 
+27. Mud-eating trilobites. Recent evidence that these trilobites were indeed able to do what sulfur-eating bacteria can do, not just eat the bacteria.[^xxi] ( C ) 
+28. End of Cretaceous Age and the dinosaurs due to volcanic activity, change of climate.[^xxii] ( ? ) 
+29. Placental mammals emergence (50 million years ago)[^xxiii] ( C ) 
+30. Forty-eight Trait Determiners in Human Chromosomes[^xxiv] ( C ) 
+31. Punctuated equilibria (Evolution — gradual vs. episodic)[^xxv] ( C ) 
+32. A very Successful Genetic Mutation about 37,000 years ago due to 1 or 2 people[^xxvi] ( C ) 
+33. Magnetic Sensitivity of all Life[^xvii] ( C ) 
+34. Injury Repair and Cell Proliferation[^xxviii] ( C ) 
 
 **Paleontology** 
 
-35. Lemurs are the closest living Human Evolutionary Ancestors. [^xxix] (C) 
-36. The “Piltdown Man” double fossil fraud[^xxx] (C) 
-37. Date of human use of flint to make fires much earlier than previously thought.[^xxxi] (C)  
-38. Date of Peking Man in China.[^xxxii] (C)     
-39. Date of human migration to Britain.[^xxxiii] (C)     
-40. Humans mated with Neanderthals.[^xxxiv] (C) 
-41. Earliest date of Red Man migration to America.[^xxxv] (D) 
-42. Place and time of the domestication of horses.[^xxxvi] (C) 
+35. Lemurs are the closest living Human Evolutionary Ancestors. [^xxix] ( C ) 
+36. The “Piltdown Man” double fossil fraud[^xxx] ( C ) 
+37. Date of human use of flint to make fires much earlier than previously thought.[^xxxi] ( C )  
+38. Date of Peking Man in China.[^xxxii] ( C )     
+39. Date of human migration to Britain.[^xxxiii] ( C )     
+40. Humans mated with Neanderthals.[^xxxiv] ( C ) 
+41. Earliest date of Red Man migration to America.[^xxxv] ( D ) 
+42. Place and time of the domestication of horses.[^xxxvi] ( C ) 
 
 **Geology**
 
-43. The Age of the Earth.[^xxxvii] (C) 
-44. Existence & Time of Pangaea, its Breakup and Subsequent Continental Drift.[^xxxviii] (C) 
-45. Geologic Plate Movements (tectonics) Collisions Cause Mountains and Earth Quakes.[^xxxix] (C) 
-46. A Great Eastern Kentucky volcanic eruption occurred 330 million years ago. Once thought tectonic in origin is presently (24 May 2013) thought to be the result of a 5.5 km meteor impact[^xl], but the brittle central crater uplift is still unexplained. (D) 
-47. Eastern Mediterranean underwater topography[^xli] and Mediterranean basin history. (C) 
-48. Age of the Sierra Nevada Range Mountains.[^xlii] (C) 
-49. Gibraltar Break and the Ensuing Flooding of the Mediterranean Basin by the Atlantic Waters[^xliii] (D) 
-50. Inner Ionosphere Existence (Note the recent findings that reverse a supposed UB “error”)[^xliv] (C) 
+43. The Age of the Earth.[^xxxvii] ( C ) 
+44. Existence & Time of Pangaea, its Breakup and Subsequent Continental Drift.[^xxxviii] ( C ) 
+45. Geologic Plate Movements (tectonics) Collisions Cause Mountains and Earth Quakes.[^xxxix] ( C ) 
+46. A Great Eastern Kentucky volcanic eruption occurred 330 million years ago. Once thought tectonic in origin is presently (24 May 2013) thought to be the result of a 5.5 km meteor impact[^xl], but the brittle central crater uplift is still unexplained. ( D ) 
+47. Eastern Mediterranean underwater topography[^xli] and Mediterranean basin history. ( C ) 
+48. Age of the Sierra Nevada Range Mountains.[^xlii] ( C ) 
+49. Gibraltar Break and the Ensuing Flooding of the Mediterranean Basin by the Atlantic Waters[^xliii] ( D ) 
+50. Inner Ionosphere Existence (Note the recent findings that reverse a supposed UB “error”)[^xliv] ( C ) 
 
 **The Test.** There are 39 C’s, 9 D’s and 2 question marks out of a total of 50 items. 
 
@@ -226,7 +226,7 @@ In that regard, they should know that _The Urantia Book_ preaches the Gospel of 
 
 [^xxii]: <a id="a226_9"></a>[UB 60:2.14](/en/The_Urantia_Book/60#p2_14) _“One hundred million years ago the reptilian age was drawing to a close. The dinosaurs, for all their enormous mass, were all but brainless animals, lacking the intelligence to provide sufficient food to nourish such enormous bodies. And so did these sluggish land reptiles perish in ever-increasing numbers.”_ 
 
-[^xxiii]: [61:0.1](/en/The_Urantia_Book/61p#0_1); [61:7.19](/en/The_Urantia_Book/61) “Placental Mammals Originated On Earth 65 Million Years Ago, Researchers Assert”, Science Daily (June 21, 2007) — An early mammal fossil discovered in Mongolia led to researchers asserting that the origins of placental mammals, which include humans, can be dated to approximately 65 million years ago in the Northern Hemisphere.” See also http://www.sciencedaily.com/releaes/2007/06/070621135213.htm 
+[^xxiii]: [61:0.1](/en/The_Urantia_Book/61#p0_1); [61:7.19](/en/The_Urantia_Book/61) “Placental Mammals Originated On Earth 65 Million Years Ago, Researchers Assert”, Science Daily (June 21, 2007) — An early mammal fossil discovered in Mongolia led to researchers asserting that the origins of placental mammals, which include humans, can be dated to approximately 65 million years ago in the Northern Hemisphere.” See also http://www.sciencedaily.com/releaes/2007/06/070621135213.htm 
 
 [^xxiv]: <a id="a230_9"></a>[UB 36:2.11](/en/The_Urantia_Book/36#p2_11) “_On Urantia there are forty-eight units of pattern control — trait determiners — in the sex cells of human reproduction._” Also see “Chromosome 2 (human)” http://www.en.wikipedia.org/wiki/Chromosome_2_%28human%29 that says “Humans have only 23 pairs of chromosomes. Human chromosome 2 is widely accepted to be a result of an end-to-end fusion of two ancestral chromosomes.” 
 
