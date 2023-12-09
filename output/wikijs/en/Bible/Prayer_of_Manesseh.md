@@ -1,9 +1,9 @@
 ---
-title: Prayer of Manesseh
+title: "Prayer of Manesseh"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible, Deuterocanon OT
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -16,8 +16,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect style="fill:#42ca7d;"
 			width="9.6" height="136.8" x="7" y="5" />
 		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRYPHA</text>
-		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">Revised Standard Version, 1952</text>
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DEUTEROCANON</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">King James Version</text>
 		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Prayer of Manesseh</text>
 	</g>
 </svg>
@@ -25,7 +25,11 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## Description
 
-The Prayer of Manasses, also known as the Prayer of Manasseh is a short work of 15 verses recording a penitential prayer attributed to king Manasseh of Judah. The majority of scholars believe that the Prayer of Manasseh was written in Greek (while a minority argues for a Semitic original) in the second or first century BC. It is recognised that it could also have been written in the first half of the 1st century AD, but in any case before the Destruction of the Second Temple in 70 AD. Another work by the same title, written in Hebrew, was found among the Dead Sea Scrolls (4Q381:17).
+“Prayer of Manesseh”
+
+_From King James Version_
+
+“The Prayer of Manasses”, also known as “the Prayer of Manasseh” is a short work of 15 verses recording a penitential prayer attributed to king Manasseh of Judah. The majority of scholars believe that the Prayer of Manasseh was written in Greek (while a minority argues for a Semitic original) in the second or first century BC. It is recognised that it could also have been written in the first half of the 1st century AD, but in any case before the Destruction of the Second Temple in 70 AD. Another work by the same title, written in Hebrew, was found among the Dead Sea Scrolls (4Q381:17).
 
 Manasseh is recorded in the Bible as one of the most idolatrous kings of Judah ([2 Kings 21:1–18](/en/Bible/2_Kings/21#v1); [2 Chronicles 33:1–9](/en/Bible/2_Chronicles/33#v1)). The second Book of Chronicles, but not the second Book of Kings, records that Manasseh was taken captive by the Assyrians ([2 Chronicles 33:11–13](/en/Bible/2_Chronicles/33#v11)). While a prisoner, Manasseh prayed for mercy, and upon being freed and restored to the throne turned from his idolatrous ways ([2 Chronicles 33:15–17](/en/Bible/2_Chronicles/33#v15)). A reference to the prayer, but not the prayer itself, is made in 2 Chronicles 33:19, which says that the prayer is written in “the annals of the kings of Israel”.
 
@@ -46,4 +50,6 @@ The prayer appears in ancient Syriac, Old Slavonic, Ethiopic, and Armenian trans
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Prayer_of_Manasseh
+- Early Jewish Writings: https://www.earlyjewishwritings.com/manasseh.html
+- Wikipedia: https://en.wikipedia.org/wiki/Prayer_of_Manasseh
+- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books

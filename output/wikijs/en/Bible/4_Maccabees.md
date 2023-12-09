@@ -1,5 +1,5 @@
 ---
-title: "Letter of Aristeas"
+title: "4 Maccabees"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
@@ -16,7 +16,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<rect style="fill:#42ca7d;"
 			width="9.6" height="136.8" x="7" y="5" />
 		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">APOCRYPHA</text>
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DEUTEROCANON</text>
 		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="130">Rutherford H. Platt, Jr.</text>
 		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Fourth Book</text>
@@ -58,3 +58,4 @@ The ancient Fathers of the Christian Church carefully preserved this book (we ha
 - Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_006
 - Wikipedia: https://en.wikipedia.org/wiki/4_Maccabees
 - Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books

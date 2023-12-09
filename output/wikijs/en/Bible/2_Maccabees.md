@@ -1,9 +1,9 @@
 ---
-title: 2 Maccabees
+title: "2 Maccabees"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible, Deuterocanon OT
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -13,11 +13,11 @@ dateCreated: 2021-11-28T13:55:38.362Z
 	width="102.6mm" height="136.8mm"
 	viewBox="0 0 102.6 136.8" version="1.1">
 	<g transform="translate(-7,-5)" style="display:inline">
-		<rect style="fill:#e06464;"
+		<rect style="fill:#42ca7d;"
 			width="9.6" height="136.8" x="7" y="5" />
-		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">THE BIBLE</text>
-		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">American Standard Version, 1901</text>
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DEUTEROCANON</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">King James Version</text>
 		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">2 Maccabees</text>
 	</g>
 </svg>
@@ -25,7 +25,11 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## Description
 
-2 Maccabees, also known as the Second Book of Maccabees, Second Maccabees, and abbreviated as 2 Macc., is a deuterocanonical book which recounts the persecution of Jews under King Antiochus IV Epiphanes and the Maccabean Revolt against him. It concludes with the defeat of the Seleucid Empire general Nicanor in 161 BC by Judas Maccabeus, the leader of the Maccabees.
+“2 Maccabees”
+
+_From King James Version_
+
+“2 Maccabees”, also known as the “Second Book of Maccabees”, “Second Maccabees”, and abbreviated as “2 Macc.”, is a deuterocanonical book which recounts the persecution of Jews under King Antiochus IV Epiphanes and the Maccabean Revolt against him. It concludes with the defeat of the Seleucid Empire general Nicanor in 161 BC by Judas Maccabeus, the leader of the Maccabees.
 
 2 Maccabees was originally written in Koine Greek by an unknown diaspora Jew living in Hellenistic Egypt. It was likely written some time between 150 and 120 BC. Together with the book 1 Maccabees, it is one of the most important sources on the Maccabean Revolt. The work is not a sequel to 1 Maccabees but rather its own independent rendition of the historical events of the Maccabean Revolt. It both starts and ends its history earlier than 1 Maccabees, starting with an incident with the Seleucid official Heliodorus attempting to tax the Second Temple in 178 BC, and ending with the Battle of Adasa in 161 BC. Some scholars believe the book to be influenced by the Pharisaic tradition, with sections that include an endorsement of prayer for the dead and a resurrection of the dead.
 
@@ -56,4 +60,6 @@ The book, like the other Books of the Maccabees, was included in the Septuagint,
 
 ## External links
 
-- https://en.wikipedia.org/wiki/2_Maccabees
+- Early Jewish Writings: https://www.earlyjewishwritings.com/1maccabees.html
+- Wikipedia: https://www.earlyjewishwritings.com/2maccabees.html
+- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books

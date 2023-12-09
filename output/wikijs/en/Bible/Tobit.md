@@ -3,7 +3,7 @@ title: Tobit
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible, Deuterocanon OT
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -13,11 +13,11 @@ dateCreated: 2021-11-28T13:55:38.362Z
 	width="102.6mm" height="136.8mm"
 	viewBox="0 0 102.6 136.8" version="1.1">
 	<g transform="translate(-7,-5)" style="display:inline">
-		<rect style="fill:#e06464;"
+		<rect style="fill:#42ca7d;"
 			width="9.6" height="136.8" x="7" y="5" />
-		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">THE BIBLE</text>
-		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">American Standard Version, 1901</text>
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DEUTEROCANON</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">King James Version</text>
 		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Tobit</text>
 	</g>
 </svg>
@@ -25,7 +25,11 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## Description
 
-The Book of Tobit (/ˈtoʊbɪt/), also known as the Book of Tobias or the Book of Tobi, is a 3rd or early 2nd century BC Jewish work describing how God tests the faithful, responds to prayers, and protects the covenant community (i.e., the Israelites). It tells the story of two Israelite families, that of the blind Tobit in Nineveh and of the abandoned Sarah in Ecbatana. Tobit's son Tobias is sent to retrieve ten silver talents that Tobit once left in Rages, a town in Media; guided and aided by the angel Raphael he arrives in Ecbatana, where he meets Sarah. A demon named Asmodeus has fallen in love with her and kills anyone she intends to marry, but with the aid of Raphael the demon is exorcised and Tobias and Sarah marry, after which they return to Nineveh where Tobit is cured of his blindness.
+“Tobit”
+
+_From King James Version_
+
+“The Book of Tobit” (/ˈtoʊbɪt/), also known as the “Book of Tobias” or the “Book of Tobi”, is a 3rd or early 2nd century BC Jewish work describing how God tests the faithful, responds to prayers, and protects the covenant community (i.e., the Israelites). It tells the story of two Israelite families, that of the blind Tobit in Nineveh and of the abandoned Sarah in Ecbatana. Tobit's son Tobias is sent to retrieve ten silver talents that Tobit once left in Rages, a town in Media; guided and aided by the angel Raphael he arrives in Ecbatana, where he meets Sarah. A demon named Asmodeus has fallen in love with her and kills anyone she intends to marry, but with the aid of Raphael the demon is exorcised and Tobias and Sarah marry, after which they return to Nineveh where Tobit is cured of his blindness.
 
 The book is included in the Catholic and Orthodox canons but not in the Jewish; the Protestant tradition places it in the Apocrypha, with Anabaptists, Lutherans, Anglicans and Methodists recognising it as useful for purposes of edification and liturgy, albeit non-canonical in status. The vast majority of scholars recognize it as a work of fiction with some historical references.
 
@@ -53,4 +57,6 @@ The book is included in the Catholic and Orthodox canons but not in the Jewish; 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Tobit
+- Early Jewish Writings: https://www.earlyjewishwritings.com/text/tobit.html
+- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Tobit
+- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books

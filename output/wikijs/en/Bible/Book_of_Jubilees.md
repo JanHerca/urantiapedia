@@ -27,7 +27,15 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Description
 
+“Book of Jubilees”
+
 _From “The Apocrypha and Pseudepigrapha of the Old Testament”, R. H. Charles (1913)_
+
+“The Book of Jubilees”, sometimes called “Lesser Genesis” (“Leptogenesis”), is an ancient Jewish apocryphal text of 50 chapters (1,341 verses), considered canonical by the Ethiopian Orthodox Tewahedo Church as well as Ethiopian Jews, where it is known as the Book of Division (Geʽez: መጽሐፈ ኩፋሌ Mets'hafe Kufale). Jubilees is considered one of the pseudepigrapha by the Catholic, Eastern Orthodox, and Protestant Churches. It is also not considered canonical within Judaism outside of Beta Israel.
+
+It was well known to Early Christians, as evidenced by the writings of Epiphanius, Justin Martyr, Origen, Diodorus of Tarsus, Isidore of Alexandria, Isidore of Seville, Eutychius of Alexandria, John Malalas, George Syncellus, and George Kedrenos. The text was also utilized by the community that collected the Dead Sea Scrolls. No complete Greek or Latin version is known to have survived, but the Geʽez version has been shown to be an accurate translation of the versions—written in Biblical Hebrew—found in the Dead Sea Scrolls.
+
+The Book of Jubilees claims to present “the history of the division of the days of the Law, of the events of the years, the year-weeks, and the jubilees of the world” as revealed to Moses (in addition to the Torah or “Instruction”) by angels while he was on Mount Sinai for forty days and forty nights. The chronology given in Jubilees is based on multiples of seven; the jubilees are periods of 49 years (seven “year-weeks”), into which all of time has been divided.
 
 James C. VanderKam writes: “Ancient writers used several titles for Jubilees, the most frequently attested of which are the following three. (1) _The Book of the Divisions of the Times_: this name derives from the opening words of the text and aptly captures the author's penchant for dating events according to his peculiar chronological system. The title is found in one of the Qumran Scrolls (the Damascus Document (CD) XVI.3) and, in the abbreviated form _The Book of the Divisions_ (or just _Divisions_), remains the standard designation for it in Ethiopic. (2) _The Book of Jubilees_: the familiar English title is a transcription of a name which, with minor variations in spelling, appears in some Greek, Syriac, and Mediaeval Hebrew references to the book. A jubilee, which the author understood as a 49-year period, serves as the major chronological unit in his calculation of dates. (3) _The Little Genesis_: a number of early Christian writers and, later, some Byzantine chronographers referred to Jubilees under this title. It highlights the obvious relationship of the book to Genesis but why the adjective _little_ was added is not clear. It has been suggested that it points to Jubilees' detailed treatment of various topics which are simply mentioned or even ignored in Genesis, but, as there are instances in which Genesis offers greater detail, the hypothesis is unconvincing. It is possible that _little_ was used pejoratively, though Jubilees enjoyed high esteem in some Christian areas; but it is at least certain that the adjective does not refer to size, since Jubilees and Genesis are approximately the same length.” (_Outside the Old Testament_, p. 111)
 
@@ -102,3 +110,5 @@ Emil Schürer writes: “Notwithstanding its many salient features of a characte
 
 - Early Jewish Writings: https://www.earlyjewishwritings.com/jubilees.html
 - Translation of R. H. Charles at _Wesley Center Online_: http://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-book-of-jubilees/
+- Translation of R. H. Charles at Pseudepigrapha: http://www.pseudepigrapha.com/jubilees/1.htm
+- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Jubilees

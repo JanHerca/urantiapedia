@@ -11,8 +11,8 @@ Adversity
 Africa
 Angels and midwayers
 Anthropology
-Apocrypha OT
 Apocrypha NT
+Apocrypha OT
 Archaeology
 Art
 Article
@@ -125,6 +125,8 @@ Cosmology
 Course
 Covid-19
 Derivative Works
+Deuterocanon NT
+Deuterocanon OT
 Devil
 Diagram
 Dissemination

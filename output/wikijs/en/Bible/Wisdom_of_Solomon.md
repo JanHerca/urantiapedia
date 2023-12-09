@@ -1,5 +1,5 @@
 ---
-title: Wisdom of Solomon
+title: "Wisdom of Solomon"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -13,11 +13,11 @@ dateCreated: 2021-11-28T13:55:38.362Z
 	width="102.6mm" height="136.8mm"
 	viewBox="0 0 102.6 136.8" version="1.1">
 	<g transform="translate(-7,-5)" style="display:inline">
-		<rect style="fill:#e06464;"
+		<rect style="fill:#42ca7d;"
 			width="9.6" height="136.8" x="7" y="5" />
-		<rect style="display:inline;fill:#690404;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">THE BIBLE</text>
-		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">American Standard Version, 1901</text>
+		<rect style="display:inline;fill:#2a4a16;" width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="22">DEUTEROCANON</text>
+		<text style="font-size:4px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="125">King James Version</text>
 		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#fff;stroke-width:0.2" x="61" y="60">Wisdom of Solomon</text>
 	</g>
 </svg>
@@ -25,7 +25,11 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## Description
 
-The Book of Wisdom, or the Wisdom of Solomon, is a Jewish work written in Greek and most likely composed in Alexandria, Egypt. Generally dated to the mid-first century BC, the central theme of the work is “wisdom” itself, appearing under two principal aspects. The first aspect is, in its relation to humankind, wisdom is the perfection of knowledge of the righteous as a gift from God showing itself in action. The second aspect is, in direct relation to God, wisdom is with God from all eternity. It is one of the seven Sapiential or wisdom books in the Septuagint, the others being Psalms, Proverbs, Ecclesiastes, Song of Songs (Song of Solomon), Job, and Sirach. It is included in the canons of the Catholic Church and the Eastern Orthodox Church. Most Protestants consider it part of the Apocrypha.
+“Wisdom of Solomon”
+
+_From King James Version_
+
+“The Book of Wisdom”, or the “Wisdom of Solomon”, is a Jewish work written in Greek and most likely composed in Alexandria, Egypt. Generally dated to the mid-first century BC, the central theme of the work is “wisdom” itself, appearing under two principal aspects. The first aspect is, in its relation to humankind, wisdom is the perfection of knowledge of the righteous as a gift from God showing itself in action. The second aspect is, in direct relation to God, wisdom is with God from all eternity. It is one of the seven Sapiential or wisdom books in the Septuagint, the others being Psalms, Proverbs, Ecclesiastes, Song of Songs (Song of Solomon), Job, and Sirach. It is included in the canons of the Catholic Church and the Eastern Orthodox Church. Most Protestants consider it part of the Apocrypha.
 
 ## Index
 
@@ -56,4 +60,6 @@ The Book of Wisdom, or the Wisdom of Solomon, is a Jewish work written in Greek 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Wisdom
+- Early Jewish Writings: https://www.earlyjewishwritings.com/text/wisdom.html
+- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Wisdom
+- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
