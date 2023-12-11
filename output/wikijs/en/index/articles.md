@@ -10,208 +10,392 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## The Urantia Foundation
 
-### Urantia Foundation's News Online
-
-![](/image/article/Group_banners/Foundation_News_Online.jpg)
-
-A quaterly publication from Urantia Foundation since 2007.
-
-The index of all available issues is here: [Index of _Urantia Foundation_'s News Online articles](/en/index/articles_uf_news_online).
-
-Sources: 
-- https://www.urantia.org/news
-- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html
-
-### NewsFlash!
-
-![](/image/article/Group_banners/Foundation_NewsFlash.jpg)
-
-A quaterly publication from Urantia Foundation with internal organization news.
-
-The index of all available issues is here: [Index of _Urantia Foundation_'s NewsFlash! articles](/en/index/articles_uf_newsflash).
-
-Sources: 
-- https://www.urantia.org/news
-- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html
-
-### Urantian News
-
-![](/image/article/Group_banners/Foundation_Urantian.jpg)
-
-An old quaterly publication from Urantia Foundation from 1973 to 1998, when it was replaced by the Online version.
-
-The index of all available issues is here: [Index of _Urantia Foundation_'s Urantian News articles](/en/index/articles_uf_urantian).
-
-Sources: 
-- https://www.urantia.org/news
-- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html
+<!-- Urantia Foundation -->
+<div class="layout row wrap">
+	<!-- Urantia Foundation's News Online -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_News_Online.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Urantia Foundation's News Online</div>
+			<div class="urantiapedia-card-text">
+				<div>A quaterly publication from Urantia Foundation since 2007.</div>
+				<div><small>Sources: <a href="https://www.urantia.org/news">Urantia Foundation news online</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_uf_news_online" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/urantia%20foundation%20news%20online" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- NewsFlash! -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_NewsFlash.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">NewsFlash!</div>
+			<div class="urantiapedia-card-text">
+				<div>A quaterly publication from Urantia Foundation with internal organization news.</div>
+				<div><small>Sources: <a href="https://www.urantia.org/news">Urantia Foundation news online</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_uf_newsflash" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/newsflash" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Urantian News -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_Urantian.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Urantian News</div>
+			<div class="urantiapedia-card-text">
+				<div>An old quaterly publication from Urantia Foundation from 1973 to 1998, when it was replaced by the Online version.</div>
+				<div><small>Sources: <a href="https://www.urantia.org/news">Urantia Foundation online news</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_uf_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/urantian%20news" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## The Urantia Book Fellowship
 
-### Fellowship Herald
+<!-- Urantia Book Fellowship -->
+<div class="layout row wrap">
+	<!-- Fellowship Herald -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Fellowship_Herald.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Fellowship Herald</div>
+			<div class="urantiapedia-card-text">
+				<div>The Fellowship Herald is an annual or bi-annual publication edited by <em>The Urantia Book</em> Fellowship in English.</div>
+				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/herald/">Fellowship Herald archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/fellowship%20herald" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Mighty Messenger -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Mighty_Messenger.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Mighty Messenger</div>
+			<div class="urantiapedia-card-text">
+				<div>Mighty Messenger is a annual or bi-annual publication edited by <em>The Urantia Book Fellowship</em> with news and opinions for Readers of <em>The Urantia Book</em>.</div>
+				<div><small>Sources: <a href="https://archive.urantiabook.org/archive/newsletters">Fellowship archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_mighty_messenger" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/mighty%20messenger" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- The Study Group Herald -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Study_Group_Herald.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">The Study Group Herald</div>
+			<div class="urantiapedia-card-text">
+				<div>The Study Group Herald was an old publication by The Fellowship, former The Urantia Book Fellowship, published during a few years in the 90's.</div>
+				<div><small>Sources: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_study_group_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/study%20group%20herald" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Urantian — Journal of Urantia Brotherhood -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Urantian_Journal_Urantia_Brotherhood.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Urantian — Journal of Urantia Brotherhood</div>
+			<div class="urantiapedia-card-text">
+				<div>The Urantian was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, from 1976 to 1994.</div>
+				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/urantian_journal/">Fellowship archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_the_urantian" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/the%20urantian" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
-![](/image/article/Group_banners/Fellowship_Herald.jpg)
-
-The Fellowship Herald is an annual or bi-annual publication edited by _The Urantia Book_ Fellowship in English.
-
-The index of all available issues is here: [Index of _The Urantia Book Fellowship_ Herald articles](/en/index/articles_herald).
-
-Sources:
-- https://urantia-book.org/archive/newsletters/herald/
-- https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
-
-### Mighty Messenger
-
-![](/image/article/Group_banners/Mighty_Messenger.jpg)
-
-Mighty Messenger is a annual or bi-annual publication edited by _The Urantia Book Fellowship_ with news and opinions for Readers of _The Urantia Book_.
-
-The index of all available issues is here: [Index of _The Urantia Book_ Fellowship Mighty Messenger](/en/index/articles_mighty_messenger).
-
-Sources:
-- https://archive.urantiabook.org/archive/newsletters
-- https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
-
-### The Study Group Herald
-
-![](/image/article/Group_banners/Study_Group_Herald.jpg)
-
-The Study Group Herald was an old publication by The Fellowship, former The Urantia Book Fellowship, published during a few years in the 90's.
-
-The index of all available issues is here: [Index of Fellowship's The Study Group Herald](/en/index/articles_study_group_herald).
-
-Sources:
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html
-
-### Urantian — Journal of Urantia Brotherhood
-
-![](/image/article/Group_banners/Urantian_Journal_Urantia_Brotherhood.jpg)
-
-The Urantian was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, from 1976 to 1994.
-
-The index of all available issues is here: [The Urantian — Journal of Urantia BrotherHood](/en/index/articles_the_urantian).
-
-Sources: 
-- https://urantia-book.org/archive/newsletters/urantian_journal/
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html
 
 ## Urantia Association International
 
-### International Association Journal
-
-![](/image/article/Group_banners/UAI_Journal.jpg)
-
-The International Association _Journal_ is a quarterly magazine of articles and study aids created by readers and for readers of _The Urantia Book_.
-
-The index of all available issues is here: [International Association Journal Articles Index](/en/index/articles_iua_journal).
-
-Sources: 
-- https://urantia-association.org/journal-online/
-- https://urantia-association.org/topical-index-of-articles/
-
-### Tidings
-
-![](/image/article/Group_banners/Tidings.jpg)
-
-The _Tidings_ newsletter is a quarterly on-line publication that serves as Urantia Association International’s primary communication tool.
-
-The index of all available issues is here: [International Association Tidings](/en/index/articles_iua_tidings).
-
-Sources: 
-- https://urantia-association.org/about-tidings-newsletter/
-- https://urantia-association.org/tidings-online-archives/
-- https://urantia-association.org/topical-index-of-articles/
+<!-- Urantia Association International -->
+<div class="layout row wrap">
+	<!-- International Association Journal -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/UAI_Journal.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">International Association Journal</div>
+			<div class="urantiapedia-card-text">
+				<div>The International Association _Journal_ is a quarterly magazine of articles and study aids created by readers and for readers of <em>The Urantia Book</em>.</div>
+				<div><small>Sources: <a href="https://urantia-association.org/journal-online/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_iua_journal" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/journal" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Tidings -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Tidings.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Tidings</div>
+			<div class="urantiapedia-card-text">
+				<div>The _Tidings_ newsletter is a quarterly on-line publication that serves as Urantia Association International’s primary communication tool.</div>
+				<div><small>Sources: <a href="https://urantia-association.org/about-tidings-newsletter/">UAI info</a>, <a href="https://urantia-association.org/tidings-online-archives/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_iua_tidings" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/tidings" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Brotherhood of Man Library
 
-### Innerface International
-
-![](/image/article/Group_banners/Innerface.jpg)
-
-The _Innerface International_ is an old bi-monthly publication that came to an end a few years ago.
-
-The index of all available issues is here: [Innerface International Articles Index](/en/index/articles_innerface).
-
-Sources: 
-- https://urantia-book.org/archive/newsletters/innerface/index.html
+<!-- Brotherhood of Man Library -->
+<div class="layout row wrap">
+	<!-- Innerface International -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Innerface.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Innerface International</div>
+			<div class="urantiapedia-card-text">
+				<div>The <em>Innerface International</em> is an old bi-monthly publication that came to an end a few years ago.</div>
+				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/innerface/index.html">Innerface archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_innerface" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/innerface%20international" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## The Christian Fellowship of Students of The Urantia Book
 
-### The Spiritual Fellowship Journal
-
-![](/image/article/Group_banners/Spiritual_Fellowship_Journal.jpg)
-
-The _Spiritual Fellowship Journal_ is an ecumenical publication published twice yearly between 1991 and 2006 by The Spiritual Fellowship. Its purpose was to support the larger Urantia Community, especially interfacing with the cultures and religious institutions of our world, as well as addressing issues of special concern in the establishment of new religious institutions with roots in the Fifth Epochal Revelation.
-
-The index of all available issues is here: [The Urantian Journal of Urantia BrotherHood](/en/index/articles_spiritual_fellowship_journal).
-
-Sources: 
-- https://urantia-book.org/index_spiritual_fellowship_journal.html
+<!-- The Christian Fellowship of Students of The Urantia Book -->
+<div class="layout row wrap">
+	<!-- The Spiritual Fellowship Journal -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Spiritual_Fellowship_Journal.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">The Spiritual Fellowship Journal</div>
+			<div class="urantiapedia-card-text">
+				<div>The <em>Spiritual Fellowship Journal</em> is an ecumenical publication published twice yearly between 1991 and 2006 by The Spiritual Fellowship. Its purpose was to support the larger Urantia Community, especially interfacing with the cultures and religious institutions of our world, as well as addressing issues of special concern in the establishment of new religious institutions with roots in the Fifth Epochal Revelation.</div>
+				<div><small>Sources: <a href="https://urantia-book.org/index_spiritual_fellowship_journal.html">Journal archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_spiritual_fellowship_journal" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/the%20spiritual%20fellowship%20journal" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Urantia Association of Spain
 
-### Luz y Vida
-
-![](/image/article/Group_banners/Luz_y_Vida.jpg)
-
-_Luz y Vida_ (_Light and Life_) is a quarterly, now monthly, publication of the Urantia Association of Spain, active since 2005. It contains news and articles that are useful for all Spanish-language speakers.
-
-The index of all available issues is here: [“Luz y Vida” Articles Index](/en/index/articles_luz_y_vida).
-
-Sources: 
-- https://aue.urantia-association.org/luz-y-vida/
+<!-- Urantia Association of Spain -->
+<div class="layout row wrap">
+	<!-- Luz y Vida -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Luz_y_Vida.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
+			<div class="urantiapedia-card-text">
+				<div><em>Luz y Vida</em> (<em>Light and Life</em>) is a quarterly, now monthly, publication of the Urantia Association of Spain, active since 2005. It contains news and articles that are useful for all Spanish-language speakers.</div>
+				<div><small>Sources: <a href="https://aue.urantia-association.org/luz-y-vida/"><em>Luz y Vida</em> archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_luz_y_vida" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/luz%20y%20vida" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## ANZURA — Australia & New Zealand Urantia Association
 
-### The Arena
-
-![](/image/article/Group_banners/ANZURA_Arena.jpg)
-
-_The Arena_ newsletter is published by ANZURA two to three times a year and keeps students of _The Urantia Book_ throughout Australia, New Zealand and the South Pacific in touch with Urantia related news, activities and events. It also provides interesting articles written by readers on a wide range of subjects from the book.
-
-The index of all available issues is here: [The Arena Articles Index](/en/index/articles_arena).
-
-Sources: 
-- https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/
-
-### Six-O-Six (6-0-6)
-
-![](/image/article/Group_banners/ANZURA_606.jpg)
-
-Six-O-Six is a bi-monthly publication dedicated to the promotion of International goodwill and understanding among readers of The URANTIA Book.
-
-The index of all available issues is here: [Six-O-Six Articles Index](/en/index/articles_606).
-
-Sources: 
-- https://anzura.urantia-association.org/2021/02/10/a-bit-of-history/
+<!-- ANZURA — Australia & New Zealand Urantia Association -->
+<div class="layout row wrap">
+	<!-- The Arena -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/ANZURA_Arena.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">The Arena</div>
+			<div class="urantiapedia-card-text">
+				<div><em>The Arena</em> newsletter is published by ANZURA two to three times a year and keeps students of _The Urantia Book_ throughout Australia, New Zealand and the South Pacific in touch with Urantia related news, activities and events. It also provides interesting articles written by readers on a wide range of subjects from the book.</div>
+				<div><small>Sources: <a href="https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/">Arena archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_arena" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/the%20arena" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Six-O-Six (6-0-6) -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/ANZURA_606.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Six-O-Six (6-0-6)</div>
+			<div class="urantiapedia-card-text">
+				<div><em>Six-O-Six</em> is a bi-monthly publication dedicated to the promotion of International goodwill and understanding among readers of <em>The URANTIA Book</em>.</div>
+				<div><small>Sources: <a href="https://anzura.urantia-association.org/2021/02/10/a-bit-of-history/">ANZURA archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_606" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/6-0-6" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 
 ## UB Annotaded & UBTheNews
 
-![](/image/article/Group_banners/UBtheNEWS.jpg)
-
-_UB Annotated_ and _UB The News_ are two projects created by Halbert Katzen, a long-time reader of _The Urantia Book_, with the objective of offering studies on _The Urantia Book_ under the focus of scholarship research.
-
-The index of all available issues is here: [Index of UB Annotaded & UBTheNews studies](/en/index/articles_ubannotated).
-
-Sources:
-- https://ubannotated.com/main-menu/animated/Topical%20Studies/
-- https://ubannotated.com/ubthenews/reports_list/
+<!-- UB Annotaded & UBTheNews -->
+<div class="layout row wrap">
+	<!-- UB Annotaded & UBTheNews -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/UBtheNEWS.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
+			<div class="urantiapedia-card-text">
+				<div><em>UB Annotated</em> and <em>UB The News</em> are two projects created by Halbert Katzen, a long-time reader of <em>The Urantia Book</em>, with the objective of offering studies on <em>The Urantia Book</em> under the focus of scholarship research.</div>
+				<div><small>Sources: <a href="https://ubannotated.com/main-menu/animated/Topical%20Studies/"><em>UB Annotated</em> topical studies</a>, <a href="https://ubannotated.com/ubthenews/reports_list/"><em>UBTheNews</em> archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_ubannotated" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+				<a href="/t/ub%20annotated" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Search</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Articles from Jan Herca
 
-![](/image/article/Group_banners/Jan_Herca.jpg)
-
-Jan Herca is a reader of _The Urantia Book_ who has a website where he shares progress on a novel about the life of Jesus based on _The Urantia Book_ as well as his research on Jesus' time and teachings.
-
-The index of all available articles is here: [Jan Herca's Articles Index](/en/index/articles_jan_herca).
-
-Sources: 
-- https://buscandoajesus.wordpress.com/descargas/
+<!-- Articles from Jan Herca -->
+<div class="layout row wrap">
+	<!-- Articles from Jan Herca -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Jan_Herca.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
+			<div class="urantiapedia-card-text">
+				<div>Jan Herca is a reader of <em>The Urantia Book</em> who has a website where he shares progress on a novel about the life of Jesus based on <em>The Urantia Book</em> as well as his research on Jesus' time and teachings.</div>
+				<div><small>Sources: <a href="https://buscandoajesus.wordpress.com/descargas/"><em>Jan Herca's</em> website</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/en/index/articles_jan_herca" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Other articles
 
