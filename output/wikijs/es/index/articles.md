@@ -10,183 +10,358 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## La Fundación Urantia
 
-### Noticias en línea de la Fundación Urantia
-
-![](/image/article/Group_banners/Foundation_News_Online.jpg)
-
-Una publicación trimestral de la Fundación Urantia desde 2007.
-
-Pronto disponible en Urantiapedia.
-
-Fuentes: 
-- https://www.urantia.org/news
-- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html
-
-### NewsFlash!
-
-![](/image/article/Group_banners/Foundation_NewsFlash.jpg)
-
-Una publicación trimestral de la Fundación Urantia con noticias internas de la organización.
-
-Pronto disponible en Urantiapedia.
-
-Fuentes: 
-- https://www.urantia.org/news
-- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html
-
-### Urantian News
-
-![](/image/article/Group_banners/Foundation_Urantian.jpg)
-
-Una antigua publicación trimestral de la Fundación Urantia desde 1973 a 1998, cuando fue reemplazada por la versión en línea.
-
-Pronto disponible en Urantiapedia.
-
-Fuentes: 
-- https://www.urantia.org/news
-- https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html
+<!-- Urantia Foundation -->
+<div class="layout row wrap">
+	<!-- Urantia Foundation's News Online -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_News_Online.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Noticias en línea de la Fundación Urantia</div>
+			<div class="urantiapedia-card-text">
+				<div>Una publicación trimestral de la Fundación Urantia desde 2007.</div>
+				<div><small>Originales: <a href="https://www.urantia.org/news">Urantia Foundation news online</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- NewsFlash! -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_NewsFlash.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">NewsFlash!</div>
+			<div class="urantiapedia-card-text">
+				<div>Una publicación trimestral de la Fundación Urantia con noticias internas de la organización.</div>
+				<div><small>Originales: <a href="https://www.urantia.org/news">Urantia Foundation news online</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUN.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Urantian News -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_Urantian.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Urantian News</div>
+			<div class="urantiapedia-card-text">
+				<div>Una antigua publicación trimestral de la Fundación Urantia desde 1973 a 1998, cuando fue reemplazada por la versión en línea.</div>
+				<div><small>Originales: <a href="https://www.urantia.org/news">Urantia Foundation online news</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUM.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## The Urantia Book Fellowship
 
-### Fellowship Herald
+<!-- Urantia Book Fellowship -->
+<div class="layout row wrap">
+	<!-- Fellowship Herald -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Fellowship_Herald.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Fellowship Herald</div>
+			<div class="urantiapedia-card-text">
+				<div>El Fellowship Herald es una publicación anual o semestral editada por la Fellowship de <em>El Libro de Urantia</em> en inglés.</div>
+				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/herald/">Fellowship Herald archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/es/index/articles_herald" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/fellowship%20herald" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Mighty Messenger -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Mighty_Messenger.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Mighty Messenger</div>
+			<div class="urantiapedia-card-text">
+				<div>Mighty Messenger es una publicación anual o semestral editada por la Fellowship de <em>El Libro de Urantia</em> con noticias y opiniones para los lectores de <em>El Libro de Urantia</em>.</div>
+				<div><small>Sources: <a href="https://archive.urantiabook.org/archive/newsletters">Fellowship archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/es/index/articles_mighty_messenger" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/mighty%20messenger" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- The Study Group Herald -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Study_Group_Herald.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">The Study Group Herald</div>
+			<div class="urantiapedia-card-text">
+				<div><em>The Study Group Herald</em> es una vieja publicación de la <em>Fellowship</em>, actualmente llamada la Fellowship de <em>El Libro de Urantia</em>, publicada durante los años 90.</div>
+				<div><small>Sources: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Urantian — Journal of Urantia Brotherhood -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Urantian_Journal_Urantia_Brotherhood.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Urantian — Journal de la Urantia Brotherhood</div>
+			<div class="urantiapedia-card-text">
+				<div><em>The Urantian</em> fue un boletín trimestral de la Urantia Brotherhood, antiguo nombre de la Fellowship de <em>El Libro de Urantia</em>, desde 1976 a 1994.</div>
+				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/urantian_journal/">Fellowship archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html">UBHS archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
-![](/image/article/Group_banners/Fellowship_Herald.jpg)
-
-El Fellowship Herald es una publicación anual o semestral editada por la Fellowship de _El Libro de Urantia_ en inglés.
-
-El índice de todos los números disponibles está aquí: [Índice de los artículos del Fellowship Herald](/es/index/articles_herald).
-
-Fuentes:
-- https://urantia-book.org/archive/newsletters/herald/
-- https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#
-
-### Mighty Messenger
-
-![](/image/article/Group_banners/Mighty_Messenger.jpg)
-
-Mighty Messenger es una publicación anual o semestral editada por la Fellowship de _El Libro de Urantia_ con noticias y opiniones para los lectores de _El Libro de Urantia_.
-
-El índice de todos los números disponibles está aquí: [Índice de los artículos del Mighty Messenger](/es/index/articles_mighty_messenger).
-
-Fuentes:
-- https://archive.urantiabook.org/archive/newsletters
-- https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
-
-### The Study Group Herald
-
-![](/image/article/Group_banners/Study_Group_Herald.jpg)
-
-_The Study Group Herald_ es una vieja publicación de la _Fellowship_, actualmente llamada la Fellowship de _El Libro de Urantia_, publicada durante los años 90.
-
-Pronto disponible en Urantiapedia.
-
-Fuentes:
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html
-
-### Urantian -- Journal de la Urantia Brotherhood
-
-![](/image/article/Group_banners/Urantian_Journal_Urantia_Brotherhood.jpg)
-
-_The Urantian_ fue un boletín trimestral de la Urantia Brotherhood, antiguo nombre de la Fellowship de _El Libro de Urantia_, desde 1976 a 1994.
-
-Pronto disponible en Urantiapedia.
-
-Fuentes: 
-- https://urantia-book.org/archive/newsletters/urantian_journal/
-- https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html
 
 ## Asociación Internacional Urantia
 
-### International Association Journal
-
-![](/image/article/Group_banners/UAI_Journal.jpg)
-
-Revista cuatrimestral de artículos y ayudas de estudio creados por los lectores y para los lectores de _El libro de Urantia_. 
-
-Pronto disponible en Urantiapedia.
-
-Fuentes:
-- https://urantia-association.org/journal-online/
-- https://urantia-association.org/topical-index-of-articles/
-
-### Tidings
-
-![](/image/article/Group_banners/Tidings.jpg)
-
-La revista _Tidings_ es un publicación en línea trimestral the sirve de vehículo primario de comunicación de la Asociación Internacional.
-
-Pronto disponible en Urantiapedia.
-
-Fuentes: 
-- https://urantia-association.org/about-tidings-newsletter/
-- https://urantia-association.org/tidings-online-archives/
-- https://urantia-association.org/topical-index-of-articles/
+<!-- Urantia Association International -->
+<div class="layout row wrap">
+	<!-- International Association Journal -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/UAI_Journal.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">International Association Journal</div>
+			<div class="urantiapedia-card-text">
+				<div>Revista cuatrimestral de artículos y ayudas de estudio creados por los lectores y para los lectores de <em>El libro de Urantia</em>. </div>
+				<div><small>Sources: <a href="https://urantia-association.org/journal-online/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Tidings -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Tidings.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Tidings</div>
+			<div class="urantiapedia-card-text">
+				<div>La revista <em>Tidings</em> es un publicación en línea trimestral the sirve de vehículo primario de comunicación de la Asociación Internacional.</div>
+				<div><small>Sources: <a href="https://urantia-association.org/about-tidings-newsletter/">UAI info</a>, <a href="https://urantia-association.org/tidings-online-archives/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Biblioteca de la Hermandad Humana (Brotherhood of Man Library)
 
-### Innerface International
-
-![](/image/article/Group_banners/Innerface.jpg)
-
-El _Innerface International_ es una antigua publicación bimensual que finalizó hace unos años.
-
-El índice de todos los números disponibles está aquí: [Índice de los artículos del Innerface International](/es/index/articles_innerface).
-
-Fuentes: 
-- https://urantia-book.org/archive/newsletters/innerface/index.html
+<!-- Brotherhood of Man Library -->
+<div class="layout row wrap">
+	<!-- Innerface International -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Innerface.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Innerface International</div>
+			<div class="urantiapedia-card-text">
+				<div>El <em>Innerface International</em> es una antigua publicación bimensual que finalizó hace unos años.</div>
+				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/innerface/index.html">Innerface archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/es/index/articles_innerface" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/innerface%20international" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## La Christian Fellowship de los estudiantes de El Libro de Urantia
 
-### El Spiritual Fellowship Journal
-
-![](/image/article/Group_banners/Spiritual_Fellowship_Journal.jpg)
-
-El _Spiritual Fellowship Journal_ es una publicación ecuménica publicada dos veces al año entre 1991 y 2006 por La Spiritual Fellowship. Su propósito era apoyar a la Comunidad Urantia en general, especialmente en la interacción con las culturas y las instituciones religiosas de nuestro mundo, así como abordar temas de especial preocupación en el establecimiento de nuevas instituciones religiosas con raíces en la Quinta Revelación de Época.
-
-Pronto disponible en Urantiapedia.
-
-Fuentes: 
-- https://urantia-book.org/index_spiritual_fellowship_journal.html
+<!-- The Christian Fellowship of Students of The Urantia Book -->
+<div class="layout row wrap">
+	<!-- The Spiritual Fellowship Journal -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Spiritual_Fellowship_Journal.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">The Spiritual Fellowship Journal</div>
+			<div class="urantiapedia-card-text">
+				<div>El <em>Spiritual Fellowship Journal</em> es una publicación ecuménica publicada dos veces al año entre 1991 y 2006 por La Spiritual Fellowship. Su propósito era apoyar a la Comunidad Urantia en general, especialmente en la interacción con las culturas y las instituciones religiosas de nuestro mundo, así como abordar temas de especial preocupación en el establecimiento de nuevas instituciones religiosas con raíces en la Quinta Revelación de Época.</div>
+				<div><small>Sources: <a href="https://urantia-book.org/index_spiritual_fellowship_journal.html">Journal archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Asociación Urantia de España
 
-### Luz y Vida
+<!-- Urantia Association of Spain -->
+<div class="layout row wrap">
+	<!-- Luz y Vida -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Luz_y_Vida.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
+			<div class="urantiapedia-card-text">
+				<div><em>Luz y Vida</em> es una publicación trimestral (ahora mensual) de la Asociación Urantia de España en activo desde 2005. Contiene noticias y artículos que resultan de utilidad para todos los hablantes de lengua hispana.</div>
+				<div><small>Sources: <a href="https://aue.urantia-association.org/luz-y-vida/"><em>Luz y Vida</em> archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
-![](/image/article/Group_banners/Luz_y_Vida.jpg)
+## ANZURA — Asociación Urantia de Australia y New Zealand
 
-Luz y Vida es una publicación trimestral (ahora mensual) de la Asociación Urantia de España en activo desde 2005. Contiene noticias y artículos que resultan de utilidad para todos los hablantes de lengua hispana.
-
-El índice de todos los números disponibles está aquí: [Índice de los artículos de «Luz y Vida»](/es/index/articles_luz_y_vida).
-
-Fuentes: 
-- https://aue.urantia-association.org/luz-y-vida/
+<!-- ANZURA — Australia & New Zealand Urantia Association -->
+<div class="layout row wrap">
+	<!-- The Arena -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/ANZURA_Arena.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">The Arena</div>
+			<div class="urantiapedia-card-text">
+				<div>El boletín <em>Arena</em> lo publica ANZURA dos o tres veces al año y mantiene en contacto a los estudiantes de <em>El libro de Urantia</em> de Australia, Nueva Zelanda y el Pacífico Sur con noticias, actividades y eventos relacionados con Urantia. También proporciona artículos interesantes escritos por lectores sobre una amplia gama de temas del libro.</div>
+				<div><small>Sources: <a href="https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/">Arena archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Six-O-Six (6-0-6) -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/ANZURA_606.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Six-O-Six (6-0-6)</div>
+			<div class="urantiapedia-card-text">
+				<div><em>Six-O-Six</em> es una publicación bimensual dedicada a la promoción de la buena voluntad y el entendimiento internacional entre los lectores de <em>El Libro de URANTIA</em>.</div>
+				<div><small>Sources: <a href="https://anzura.urantia-association.org/2021/02/10/a-bit-of-history/">ANZURA archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## UB Annotaded & UBTheNews
 
-![](/image/article/Group_banners/UBtheNEWS.jpg)
-
-_UB Annotated_ y _UB The News_ son dos proyectos creados por Halbert Katzen, un lector avezado de _El Libro de Urantia_, con el objetivo de ofrecer estudios sobre _El Libro de Urantia_ bajo el enfoque de una investigación académica.
-
-El índice de todos los estudios disponibles está aquí: [Índice de estudios de UB Annotated & UBTheNews](/es/index/articles_ubannotated).
-
-Fuentes:
-- https://ubannotated.com/main-menu/animated/Topical%20Studies/
-- https://ubannotated.com/ubthenews/reports_list/
+<!-- UB Annotaded & UBTheNews -->
+<div class="layout row wrap">
+	<!-- UB Annotaded & UBTheNews -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/UBtheNEWS.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
+			<div class="urantiapedia-card-text">
+				<div><em>UB Annotated</em> y <em>UB The News</em> son dos proyectos creados por Halbert Katzen, un lector avezado de <em>El Libro de Urantia</em>, con el objetivo de ofrecer estudios sobre <em>El Libro de Urantia</em> bajo el enfoque de una investigación académica.</div>
+				<div><small>Sources: <a href="https://ubannotated.com/main-menu/animated/Topical%20Studies/"><em>UB Annotated</em> topical studies</a>, <a href="https://ubannotated.com/ubthenews/reports_list/"><em>UBTheNews</em> archive</a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/es/index/articles_ubannotated" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/ub%20annotated" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Artículos de Jan Herca
 
-![](/image/article/Group_banners/Jan_Herca.jpg)
-
-Jan Herca es un lector de _El Libro de Urantia_ que tiene un sitio web donde comparte el progreso en una novela sobre la vida de Jesús basada en _El Libro de Urantia_ así como sus investigaciones sobre la época de Jesús y sobre sus enseñanzas.
-
-El índice de todos los artículos disponibles está aquí: [Índice de artículos de Jan Herca](/es/index/articles_jan_herca).
-
-Fuentes: 
-- https://buscandoajesus.wordpress.com/descargas/
+<!-- Articles from Jan Herca -->
+<div class="layout row wrap">
+	<!-- Articles from Jan Herca -->
+	<div class="flex xs12 md6 lg6 xl6 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
+				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Jan_Herca.jpg">
+			</div>
+			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
+			<div class="urantiapedia-card-text">
+				<div>Jan Herca es un lector de <em>El Libro de Urantia</em> que tiene un sitio web donde comparte el progreso en una novela sobre la vida de Jesús basada en <em>El Libro de Urantia</em> así como sus investigaciones sobre la época de Jesús y sobre sus enseñanzas.</div>
+				<div><small>Sources: <a href="https://buscandoajesus.wordpress.com/descargas/">Sitio web de <em>Jan Herca</em></a></small></div>
+			</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/es/index/articles_jan_herca" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Otros artículos
 

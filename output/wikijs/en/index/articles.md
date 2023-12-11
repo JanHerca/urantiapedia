@@ -15,7 +15,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Urantia Foundation's News Online -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_News_Online.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Urantia Foundation's News Online</div>
@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- NewsFlash! -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_NewsFlash.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">NewsFlash!</div>
@@ -57,7 +57,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Urantian News -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Foundation_Urantian.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Urantian News</div>
@@ -84,7 +84,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Fellowship Herald -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Fellowship_Herald.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Fellowship Herald</div>
@@ -105,7 +105,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Mighty Messenger -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Mighty_Messenger.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Mighty Messenger</div>
@@ -126,7 +126,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- The Study Group Herald -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Study_Group_Herald.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">The Study Group Herald</div>
@@ -147,7 +147,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Urantian — Journal of Urantia Brotherhood -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Urantian_Journal_Urantia_Brotherhood.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Urantian — Journal of Urantia Brotherhood</div>
@@ -175,12 +175,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- International Association Journal -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/UAI_Journal.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">International Association Journal</div>
 			<div class="urantiapedia-card-text">
-				<div>The International Association _Journal_ is a quarterly magazine of articles and study aids created by readers and for readers of <em>The Urantia Book</em>.</div>
+				<div>The International Association <em>Journal</em> is a quarterly magazine of articles and study aids created by readers and for readers of <em>The Urantia Book</em>.</div>
 				<div><small>Sources: <a href="https://urantia-association.org/journal-online/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -196,12 +196,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Tidings -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Tidings.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Tidings</div>
 			<div class="urantiapedia-card-text">
-				<div>The _Tidings_ newsletter is a quarterly on-line publication that serves as Urantia Association International’s primary communication tool.</div>
+				<div>The <em>Tidings</em> newsletter is a quarterly on-line publication that serves as Urantia Association International’s primary communication tool.</div>
 				<div><small>Sources: <a href="https://urantia-association.org/about-tidings-newsletter/">UAI info</a>, <a href="https://urantia-association.org/tidings-online-archives/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -223,7 +223,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Innerface International -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Innerface.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Innerface International</div>
@@ -250,7 +250,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- The Spiritual Fellowship Journal -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Spiritual_Fellowship_Journal.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">The Spiritual Fellowship Journal</div>
@@ -277,7 +277,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Luz y Vida -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Luz_y_Vida.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
@@ -304,12 +304,12 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- The Arena -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/ANZURA_Arena.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">The Arena</div>
 			<div class="urantiapedia-card-text">
-				<div><em>The Arena</em> newsletter is published by ANZURA two to three times a year and keeps students of _The Urantia Book_ throughout Australia, New Zealand and the South Pacific in touch with Urantia related news, activities and events. It also provides interesting articles written by readers on a wide range of subjects from the book.</div>
+				<div><em>The Arena</em> newsletter is published by ANZURA two to three times a year and keeps students of <em>The Urantia Book</em> throughout Australia, New Zealand and the South Pacific in touch with Urantia related news, activities and events. It also provides interesting articles written by readers on a wide range of subjects from the book.</div>
 				<div><small>Sources: <a href="https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/">Arena archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -325,7 +325,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Six-O-Six (6-0-6) -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/ANZURA_606.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Six-O-Six (6-0-6)</div>
@@ -353,7 +353,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- UB Annotaded & UBTheNews -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/UBtheNEWS.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
@@ -380,7 +380,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	<!-- Articles from Jan Herca -->
 	<div class="flex xs12 md6 lg6 xl6 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card">
-			<div class="v-responsive v-img align-end text-white urantiapedia-card">
+			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Jan_Herca.jpg">
 			</div>
 			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>

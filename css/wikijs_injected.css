@@ -100,7 +100,6 @@ CSS will automatically be minified. */
     left: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;
 }
 .v-main .contents .v-card .urantiapedia-card-title {
     display: block;
@@ -115,7 +114,6 @@ CSS will automatically be minified. */
     padding: 0.5rem 1rem;
     text-overflow: ellipsis;
     text-transform: none;
-    white-space: nowrap;
     word-break: normal;
     word-wrap: break-word;
     line-height: 2rem;
@@ -131,7 +129,6 @@ CSS will automatically be minified. */
     padding: 0 1rem;
     text-overflow: ellipsis;
     text-transform: none;
-    white-space: nowrap;
     line-height: 1.25rem;
 }
 .v-main .contents .v-card .urantiapedia-card-text {
