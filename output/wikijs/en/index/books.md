@@ -16,7 +16,7 @@ dateCreated: 2022-09-27T13:55:38.362Z
 			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/book/Group_cards/Urantia_book_400x200.jpg">
 			</div>
-			<div class="urantiapedia-card-title pt-4"><em>The Urantia Book<em> and books from readers</div>
+			<div class="urantiapedia-card-title pt-4"><em>The Urantia Book</em> and books from readers</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/en/index/books_ub_readers" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Index</strong></div></span>
