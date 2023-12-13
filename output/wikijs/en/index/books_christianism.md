@@ -1,0 +1,108 @@
+---
+title: "Religious books of Christianity"
+description:
+published: true
+date: 2023-12-12T14:02:03.086Z
+tags: index, book
+editor: markdown
+dateCreated: 2023-12-12T14:02:03.086Z
+---
+
+<!-- TO BE REPLACED BY BOOK CARDS-->
+
+- Bible Commentary
+	- _The Complete Sayings of Jesus_, by Arthur Hinds, int. by Norman Vincent Peale [1927]
+- Gnosticism
+	- _Fragments of a Faith Forgotten_ by G.R.S. Mead [1900]
+	- _The Gnostics and Their Remains_ by Charles William King [1887]
+	- _Pistis Sophia_, Translated by G.R.S. Mead [1921]
+	- _Early Church Fathers_
+- Hermetica
+	- _Thrice-Greatest Hermes, Vol. 1_ by G.R.S. Mead [1906]
+	- _Thrice-Greatest Hermes, Vol. 2_ by G.R.S. Mead [1906]
+	- _Thrice-Greatest Hermes, Vol. 3_ by G.R.S. Mead [1906]
+	- _The Divine Pymander_ of Hermes Mercurius Trismegistus, translated by John Everard [1650]
+	- _The Virgin of the World_ of Hermes Mercurius Trismegistus, translated by Anna Kingsford and Edward Maitland [1885]
+- Gnostic Related Texts
+	- _The Hymn of Jesus, Echoes from the Gnosis_, tr. by G.R.S. Mead [1907].
+	- _Gnostic John the Baptizer Selections from the Mandæan John-Book_, tr. by G.R.S. Mead [1924].
+	- _The Book of Giants_
+	- _The Gospel of Thomas_ [ca. 200 A.D.]
+	- _Excerpts from the Gospel of Mary_
+- Early Christian
+	- _The Gospel of Thomas_ [ca. 200 C.E.]
+	- _The Lord's Prayer_
+	- _Hail Mary (Ave Maria)_
+	- _The Apostles' Creed_
+	- _Nicene Creed_
+	- _The Athanasian Creed_
+	- _Works of St. Augustine_
+	- _The Confessions of Saint Augustine_ (401 C.E.), by St. Augustine, tr. by Edward Bouverie Pusey [1909-14]
+	- _Writings of the Early Church Fathers_
+	- _The Works of Dionysius the Areopagite_ (ca. 400 C.E.), by Dionysius the Areopagite, tr. by John Parker [1897]
+- Eastern Churches
+	- The Book of the Bee, Edited and translated by E. A. Wallis Budge [1886]
+	- The Book of the Cave of Treasures, translated from the Syriac by E. A. Wallis Budge [1927]
+	- The Kebra Nagast, tr. by E. A. Wallis Budge [1922]
+- Mediaeval, Renaissance and Reformation
+	- _Bede's Ecclesiastical History of England_ (731), by Bede, ed. by A.M. Sellar [1907]
+	- _Works of St. Anselm_ (b. 1033 d. 1109), by St. Anselm of Canterbury, tr. by Sidney Norton Deane [1903]
+	- _The Love Letters of Abelard and Heloise_ (1128), Tr. by Anonymous, edited by Israel Gollancz and Honnor Morten [1901]
+	- _The Story of My Misfortunes: The Autobiography of Peter Abelard_, Tr. by Henry Adams Bellows [1922]
+	- _The Writings of St. Francis of Assisi_ (b. 1181 d. 1226), by Paschal Robinson [1905]
+	- _The Little Flowers of St. Francis_, Trans. by W. Heywood [1906]
+	- _Summa Theologica_ (1265-1274), by St. Thomas Aquinas, tr. by The Fathers of the English Dominican Province [1948]
+	- _The Adornment of the Spiritual Marriage_, by Jan van Ruysbroeck, (b. 1293 d. 1381) tr. by C. A. Wynschenk Dom, ed. by Evelyn Underhill [1916]
+	- _The Divine Comedy_ (1306-21), by Dante Alighieri, tr. by Henry F. Cary, [1888]
+	- _The Cloud of Unknowing_ (ca. 1400), by Anonymous, ed. by Evelyn Underhill [1922]
+	- _Imitation of Christ_ (ca. 1418), by Thomas a Kempis, tr. by William Benham [1886]
+	- _The Spiritual Exercises of St. Ignatius of Loyola_ (composed 1522-1524, published 1548), by St. Ignatius of Loyola, tr. by Elder Mullan [1909]
+	- _Texts of Martin Luther_ (b. 1483 d. 1546)
+	- _Texts of John Calvin_ (b. 1509 d. 1564)
+	- _Foxe's Book of Martyrs by John Foxe_ [ca. 1560]
+	- _Synod of Dordrecht_ [1618-9]
+	- _Heidelberg Catechism_
+	- _The Second Helvetic Confession_
+	- _Church Order_ (Reformed Churches of the Netherlands) [1618-9]
+	- _Liturgy of the Reformed Churches of the Netherlands_
+	- _Westminster Shorter Catechism_ [1674]
+	- _The Westminster Confession of Faith_
+	- _Westminster Larger Catechism_
+	- _The Works of Stephen Charnock_, by Stephen Charnock [1629-1690]
+	- _Paradise Lost, Paradise Regained_, by John Milton [1667 and 1671]
+	- _Pilgrim's Progress_, by John Bunyan [1678]
+	- _Bunyan_, by James Anthony Froude [1901]
+	- _Selections from The Cherubinic Wanderer_, Angelus Silesius, trans. with intro. by J. E. Crawford Flitch [1932]
+	- _Alexandrines: translated from the "Cherubinischer Wandersmann"_, Angelus Silesius, Julia Bilger [1944]
+	- _The Interior Castle_, or, The Mansions, by St. Teresa of Avila [1921]
+	- _Ordinary of the Mass_ [1921] [Latin and English]
+- Modern
+	- _Unitarian Christianity_, By William Ellery Channing [1819]
+	- _New England Primer_ [1843]
+	- _Evidence from Scripture and History of the Second Coming of Christ_, by William Miller [1842]
+	- _The Dolorous Passion of Our Lord Jesus Christ_, by Anne Catherine Emmerich [1843]
+	- _The Great Controversy_, by Ellen G. White [1858]
+	- _Notes on the Book of the Revelation_, by John Nelson Darby [1876] (2nd ed.)
+	- _The Man of Sorrows_, by John Nelson Darby [no date (pre-1882)]
+	- _Hymns of the Eastern Church_, by J. Neale [1884] (5th ed.)
+	- _Shaker documents_
+	- _The Unknown Life of Jesus Christ_, by Nicolas Notovitch, trans. by J. H. Connelly and L. Landsberg [1890]
+	- _The Baltimore (Catholic) Catechism_ [1891]
+	- _Lives of the Saints_, by Alban Butler, John Gilmary Shea (Benziger Bros. ed.) [1894]
+	- _The Didache_, by Charles H. Hoole [1894]
+	- _Jesus An Essene_, by Edward Planta Nesbit [1895]
+	- _The Doctrine of the Last Things_, by W.O.E. Oesterley [1908]
+	- _The Seeming Unreality of the Spiritual Life_, by Henry Churchill King [1908]
+	- _Jesus, the Last Great Initiate_, by Edouard Schuré, tr. by F. Rothwell [1908]
+	- _Folk-lore of the Holy Land_, by J. E. Hanauer [1909]
+	- _Science and Health with Key to the Scriptures_, by Mary Baker Eddy [1910]
+	- _John Wesley's Place in History_, by Woodrow Wilson [1915]
+	- _The Book of Revelation_, by Clarence Larkin [1919]
+	- _The Aquarian Gospel of Jesus the Christ_, by Levi H. Dowling [1920]
+	- _The Gist of Swedenborg_, by Julian K. Smyth and William F. Wunsch [1920]
+	- _The Political Aspects of S. Augustine's ‘City of God’_, by John Neville Figgis [1921]
+	- _Human Nature in the Bible_ by William Lyon Phelps [1922]
+	- _Pageant of the Popes_, by John Farrow [1942]
+	- _The Trial of Christ_, by David K. Breed [1948]
+	- _The Theological Declaration of Barmen_ [1934]
+	- _The (Episcopal) Book of Common Prayer_ [1979]
