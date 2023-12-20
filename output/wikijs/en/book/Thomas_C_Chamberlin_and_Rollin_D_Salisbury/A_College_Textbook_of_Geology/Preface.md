@@ -22,8 +22,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/2">
-          <span class="pr-2">Chapter I — bfgfdgfd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/book/Thomas_C_Chamberlin_and_Rollin_D_Salisbury/A_College_Textbook_of_Geology/Index_Plates">
+          <span class="pr-2">Index of Plates</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

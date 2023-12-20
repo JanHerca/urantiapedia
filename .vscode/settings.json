@@ -25,6 +25,7 @@
       "en"
     ],
     "spellright.documentTypes": [
-      "plaintext"
+      "plaintext",
+      "markdown"
     ]
 }
