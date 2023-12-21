@@ -16,7 +16,9 @@
     "prettier.proseWrap": "always",
     "svg.preview.background": "editor",
     "markdown.styles": [
-      "css\\markdown.css"
+      "css\\markdown.css",
+      "css\\markdown_theme.css",
+      "css\\markdown_app.css"
     ],
     "editor.fontSize": 12,
     "markdown.preview.fontSize": 14,

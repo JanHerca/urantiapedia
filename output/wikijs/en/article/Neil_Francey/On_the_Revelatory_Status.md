@@ -10,18 +10,17 @@ dateCreated: 2023-11-04T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Neil Francey</p>
 <br>
-<div class="urantiapedia-book-front">
+<div class="urantiapedia-book-front urantiapedia-book-studyaid">
 <svg xmlns="http://www.w3.org/2000/svg"
 	width="102.6mm" height="136.8mm"
 	viewBox="0 0 102.6 136.8" version="1.1">
-	<g transform="translate(-7,-5)" style="display:inline">
-		<rect style="fill:#4999D2;"
-			width="9.6" height="136.8" x="7" y="5" />
-		<rect style="display:inline;fill:#0e66a1;fill-opacity:1;" width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px;line-height:1.25;font-family: 'Chivo', sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="22">Neil Francey</text>
-		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="60">On the Claim</text>
-		<text style="font-size:9px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="70">of Revelatory Status</text>
-		<text style="font-size:8px;line-height:1.25;font-family: 'Merriweather', serif;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.2" x="61" y="90">Past, Present, and Future</text>
+	<g transform="translate(-7,-5)">
+		<rect width="9.6" height="136.8" x="7" y="5" />
+		<rect width="96.9" height="136.8" x="17" y="5" />
+		<text style="font-size:5px;" x="61" y="22">Neil Francey</text>
+		<text style="font-size:9px;text-align:center;" x="61" y="60">On the Claim</text>
+		<text style="font-size:9px;text-align:center;" x="61" y="70">of Revelatory Status</text>
+		<text style="font-size:8px;text-align:center;" x="61" y="90">Past, Present, and Future</text>
 	</g>
 </svg>
 </div>

@@ -16,8 +16,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Thomas C. Chamberlin</text>
 							<text style="font-size:5px" x="61" y="28">and Rollin D. Salisbury</text>
 							<text style="font-size:4px" x="61" y="125">Henry Holt and Company, New York, 1909</text>
@@ -43,8 +43,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Louis V. Pirsson</text>
 							<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1920</text>
 							<text style="font-size:9px" x="61" y="60">A Text-book</text>
@@ -70,8 +70,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Schuchert</text>
 							<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1924</text>
 							<text style="font-size:9px" x="61" y="60">A Text-book</text>
@@ -97,8 +97,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Schuchert and Carl O. Dunbar</text>
 							<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1933</text>
 							<text style="font-size:9px" x="61" y="60">A Text-book</text>
@@ -124,8 +124,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert Andrews Millikan</text>
 							<text style="font-size:4px" x="61" y="125">The University of Chicago Press, 1935</text>
 							<text style="font-size:9px" x="61" y="60">Electrons + and -,</text>
@@ -151,8 +151,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Andras Angyal</text>
 							<text style="font-size:4px" x="61" y="125">M.D., Ph.D., New York: The Viking Press, 1941</text>
 							<text style="font-size:9px" x="61" y="60">Foundations for</text>
@@ -177,8 +177,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
 							<text style="font-size:4px" x="61" y="125">M.D., Chicago: A. C. McClurg & Co., 1918</text>
 							<text style="font-size:9px" x="61" y="60">Long Heads</text>
@@ -202,8 +202,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">M. F. Ashley Montagu</text>
 							<text style="font-size:4px" x="61" y="125">New York: Columbia University Press, 1942</text>
 							<text style="font-size:9px" x="61" y="60">Man’s Most</text>
@@ -228,8 +228,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Fairfield Osborn</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1915</text>
 							<text style="font-size:9px" x="61" y="60">Men of the</text>
@@ -253,8 +253,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Oliver Huckel</text>
 							<text style="font-size:4px" x="61" y="125">New York: Thomas Y. Crowell Company, 1909</text>
 							<text style="font-size:9px" x="61" y="60">Mental Medicine:</text>
@@ -280,8 +280,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Nelson Wieman</text>
 							<text style="font-size:5px" x="61" y="28">Regina Westcott-Wieman</text>
 							<text style="font-size:4px" x="61" y="125">New York: Thomas Y. Crowell Company, 1935</text>
@@ -307,8 +307,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Reginald Aldworth Daly</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1926</text>
 							<text style="font-size:9px" x="61" y="60">Our Mobile Earth</text>
@@ -331,8 +331,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Frank Howard Richardson</text>
 							<text style="font-size:4px" x="61" y="125">New York: G. P. Putnam’s Sons, 1926</text>
 							<text style="font-size:9px" x="61" y="60">Parenthood</text>
@@ -357,8 +357,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G. F. Scott Elliot</text>
 							<text style="font-size:4px" x="61" y="125">London: Seeley, Service & Co. Limited, 1915</text>
 							<text style="font-size:9px" x="61" y="60">Prehistoric Man</text>
@@ -382,8 +382,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">C. W. Sheppard</text>
 							<text style="font-size:4px" x="61" y="125">Scientific American, October 1940</text>
 							<text style="font-size:9px" x="61" y="60">The Evanescent</text>
@@ -408,8 +408,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ernest William Barnes</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1933</text>
 							<text style="font-size:9px" x="61" y="50">Scientific Theory</text>
@@ -437,8 +437,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sir Arthur S. Eddington</text>
 							<text style="font-size:4px" x="61" y="125">Oxford: Clarendon Press, 1927</text>
 							<text style="font-size:9px" x="61" y="60">Stars and Atoms</text>
@@ -461,8 +461,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W. F. G. Swann</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1934</text>
 							<text style="font-size:9px" x="61" y="60">The Architecture</text>
@@ -486,8 +486,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
 							<text style="font-size:4px" x="61" y="125">F.A.C.S., 1922</text>
 							<text style="font-size:9px" x="61" y="60">The Cause and</text>
@@ -511,8 +511,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Harold Peake & Herbert John Fleure</text>
 							<text style="font-size:4px" x="61" y="125">New Haven: Yale University Press, 1927</text>
 							<text style="font-size:9px" x="61" y="60">The Corridors</text>
@@ -536,8 +536,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">James Henry Breasted</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1933</text>
 							<text style="font-size:9px" x="61" y="60">The Dawn</text>
@@ -561,8 +561,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sir A. Houtum-Schindler</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Encyclopædia Britannica, 1926</text>
 							<text style="font-size:9px" x="61" y="50">The Encyclopædia</text>
@@ -589,8 +589,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">H. G. Wells</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1921</text>
 							<text style="font-size:9px" x="61" y="50">The Outline</text>
@@ -617,8 +617,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Fairfield Osborn</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1916, 1917</text>
 							<text style="font-size:9px" x="61" y="60">The Origin and</text>
@@ -642,8 +642,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
 							<text style="font-size:4px" x="61" y="125">St. Louis: The C. V. Mosby Company, 1936</text>
 							<text style="font-size:9px" x="61" y="60">Theory and</text>
@@ -668,8 +668,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Frederick Tracy</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1920</text>
 							<text style="font-size:9px" x="61" y="60">The Psychology</text>
@@ -693,8 +693,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ernest M. Ligon</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1935</text>
 							<text style="font-size:9px" x="61" y="60">The Psychology</text>
@@ -719,8 +719,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: A. C. McClurg, 1912</text>
 							<text style="font-size:9px" x="61" y="60">The Physiology</text>
@@ -746,8 +746,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Graham Sumner</text>
 							<text style="font-size:5px" x="61" y="28">Albert Galloway Keller</text>
 							<text style="font-size:4px" x="61" y="125">New Haven: Yale University Press, 1927</text>
@@ -772,8 +772,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dr. Max Schoen</text>
 							<text style="font-size:4px" x="61" y="125">The Scientific Monthly, Vol. 48, No. 3, 1939</text>
 							<text style="font-size:9px" x="61" y="60">A Scientific</text>
@@ -799,8 +799,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dr. Harlan True Stetson</text>
 							<text style="font-size:4px" x="61" y="125">The Scientific Monthly, Vol. 54, No. 6, 1942</text>
 							<text style="font-size:9px" x="61" y="60">Solar Radiation</text>
@@ -826,8 +826,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dr. G. Gamow</text>
 							<text style="font-size:4px" x="61" y="125">The Scientific Monthly, January 1942</text>
 							<text style="font-size:9px" x="61" y="60">Neutrinos vs.</text>
@@ -852,8 +852,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Canon Frederic Lewis Donaldson</text>
 							<text style="font-size:4px" x="61" y="125">March 1925, delivered at Westminster Abbey</text>
 							<text style="font-size:9px" x="61" y="60">The Seven</text>
@@ -877,8 +877,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Leon C. Marshall</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1923-1928</text>
 							<text style="font-size:9px" x="61" y="60">The Story of</text>
@@ -902,8 +902,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sir James Jeans</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1929</text>
 							<text style="font-size:9px" x="61" y="60">The Universe</text>
@@ -927,8 +927,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert H. Baker</text>
 							<text style="font-size:4px" x="61" y="125">Baltimore: The Williams & Wilkins Company, 1932</text>
 							<text style="font-size:9px" x="61" y="40">The</text>
@@ -957,8 +957,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sir James Jeans</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1934</text>
 							<text style="font-size:9px" x="61" y="60">Through Space</text>
@@ -982,8 +982,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: A. C. McClurg & Co., 1914</text>
 							<text style="font-size:9px" x="61" y="60">Worry and</text>

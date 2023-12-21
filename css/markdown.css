@@ -60,6 +60,171 @@ figure.chapter-navigator table tbody tr td:nth-child(2) {
 figure.chapter-navigator table tbody tr td:nth-child(3) {
   text-align: right;
 }
+pre.prismjs.language-wrap {
+  word-wrap: break-word;
+  white-space: normal;
+}
+blockquote.is-map {
+  display: flex;
+}
+blockquote.is-map:before {
+  content: "\F034D"
+}
+blockquote.is-map a {
+  color: #fff;
+  text-decoration: none;
+}
+blockquote.is-map img {
+  width: 400px;
+  padding-top: 16px
+}
+.responsive-embed {
+  position: relative;
+  padding-bottom: 56.2%;
+  height: 0;
+  margin: 10px 0;
+  overflow: hidden;
+}
+.responsive-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+}
+.v-card.urantiapedia-card {
+  width: 400px;
+}
+.v-card.urantiapedia-card.urantiapedia-book {
+  width: 205px;
+}
+.v-card .v-responsive.urantiapedia-card {
+  height: 200px;
+  color: #FFFFFF !important;
+  --v-theme-overlay-multiplier: 3;
+  z-index: 0;
+}
+.v-card .v-responsive.urantiapedia-card.urantiapedia-book {
+  height: 274px;
+}
+.v-card .urantiapedia-card-top-image {
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.v-card .urantiapedia-card-title {
+  display: block;
+  flex: none;
+  font-size: 1.25rem;
+  font-weight: 500;
+  hyphens: auto;
+  letter-spacing: 0.0125em;
+  min-width: 0;
+  overflow-wrap: normal;
+  overflow: hidden;
+  padding: 0.5rem 1rem;
+  text-overflow: ellipsis;
+  text-transform: none;
+  word-break: normal;
+  word-wrap: break-word;
+  line-height: 2rem;
+}
+.v-card .urantiapedia-card-title.urantiapedia-book {
+  font-size: 1rem;
+  line-height: 1.2rem;
+}
+.v-card .urantiapedia-card-subtitle {
+  display: block;
+  flex: none;
+  font-size: 0.875rem;
+  font-weight: 400;
+  letter-spacing: 0.0178571429em;
+  opacity: var(--v-medium-emphasis-opacity);
+  overflow: hidden;
+  padding: 0 1rem;
+  text-overflow: ellipsis;
+  text-transform: none;
+  line-height: 1.25rem;
+}
+.v-card .urantiapedia-card-subtitle.urantiapedia-book {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+.v-card .urantiapedia-card-text {
+  flex: 1 1 auto;
+  font-size: 0.875rem;
+  font-weight: 400;
+  letter-spacing: 0.0178571429em;
+  padding: 1rem;
+  text-transform: none;
+}
+.v-card .urantiapedia-card-actions {
+  align-items: center;
+  display: flex;
+  flex: none;
+  min-height: 52px;
+  padding: 0.5rem;
+}
+.urantiapedia-book-front {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.urantiapedia-book-front svg g {
+  line-height:1.25;
+  text-align:center;
+  text-anchor:middle;
+}
+.urantiapedia-book-front.urantiapedia-book-science svg g rect:first-child {
+  fill:#301602;
+}
+.urantiapedia-book-front.urantiapedia-book-science svg g rect:nth-child(2) {
+  fill:#F9F1D2;
+}
+.urantiapedia-book-front.urantiapedia-book-science svg g {
+  fill:#301602;
+}
+.urantiapedia-book-front.urantiapedia-book-bible svg g rect:first-child {
+  fill:#e06464;
+}
+.urantiapedia-book-front.urantiapedia-book-bible svg g rect:nth-child(2) {
+  fill:#690404;
+}
+.urantiapedia-book-front.urantiapedia-book-bible svg g text {
+  fill:#fff;
+}
+.urantiapedia-book-front.urantiapedia-book-apocrypha svg g rect:first-child {
+  fill:#42ca7d;
+}
+.urantiapedia-book-front.urantiapedia-book-apocrypha svg g rect:nth-child(2) {
+  fill:#2a4a16;
+}
+.urantiapedia-book-front.urantiapedia-book-apocrypha svg g text {
+  fill:#fff;
+}
+.urantiapedia-book-front.urantiapedia-book-readers svg g rect:first-child {
+  fill:#223355;
+}
+.urantiapedia-book-front.urantiapedia-book-readers svg g rect:nth-child(2) {
+  fill:#eeddcc;
+}
+.urantiapedia-book-front.urantiapedia-book-readers svg g {
+  fill:#223355;
+}
+.urantiapedia-book-front.urantiapedia-book-studyaid svg g rect:first-child {
+  fill:#4999D2;
+}
+.urantiapedia-book-front.urantiapedia-book-studyaid svg g rect:nth-child(2) {
+  fill:#0e66a1;
+}
+.urantiapedia-book-front.urantiapedia-book-studyaid svg g {
+  fill:#fff;
+}
 @media (max-width:500px) {
   figure.image-style-align-right,
   figure.image-style-align-left {
