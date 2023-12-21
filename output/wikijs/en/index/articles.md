@@ -356,7 +356,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/UBtheNEWS.jpg">
 			</div>
-			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
+			<div class="urantiapedia-card-title pt-4">UB Annotaded & UBTheNews</div>
 			<div class="urantiapedia-card-text">
 				<div><em>UB Annotated</em> and <em>UB The News</em> are two projects created by Halbert Katzen, a long-time reader of <em>The Urantia Book</em>, with the objective of offering studies on <em>The Urantia Book</em> under the focus of scholarship research.</div>
 				<div><small>Sources: <a href="https://ubannotated.com/main-menu/animated/Topical%20Studies/"><em>UB Annotated</em> topical studies</a>, <a href="https://ubannotated.com/ubthenews/reports_list/"><em>UBTheNews</em> archive</a></small></div>
@@ -383,7 +383,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/Jan_Herca.jpg">
 			</div>
-			<div class="urantiapedia-card-title pt-4">Luz y Vida</div>
+			<div class="urantiapedia-card-title pt-4">Articles from Jan Herca</div>
 			<div class="urantiapedia-card-text">
 				<div>Jan Herca is a reader of <em>The Urantia Book</em> who has a website where he shares progress on a novel about the life of Jesus based on <em>The Urantia Book</em> as well as his research on Jesus' time and teachings.</div>
 				<div><small>Sources: <a href="https://buscandoajesus.wordpress.com/descargas/"><em>Jan Herca's</em> website</a></small></div>
