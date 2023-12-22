@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
-<!-- TO BE REPLACED BY BOOK CARDS-->
-
 - _The I Ching_, James Legge, tr., Sacred Books of the East, vol. 16 [1899]
 - _Tao-Te Ching_, traducido por James Legge [1891]
 - _Textos Taoístas, Parte I_ (SBE 39), Lao Tzu, Chuang Tzu, tr. por Jame Legge [1891]

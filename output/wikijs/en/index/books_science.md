@@ -154,7 +154,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Andras Angyal</text>
-							<text style="font-size:4px" x="61" y="125">M.D., Ph.D., New York: The Viking Press, 1941</text>
+							<text style="font-size:4px" x="61" y="125">New York: The Viking Press, 1941</text>
 							<text style="font-size:9px" x="61" y="60">Foundations for</text>
 							<text style="font-size:9px" x="61" y="70">a Science</text>
 							<text style="font-size:9px" x="61" y="80">of Personality</text>
@@ -180,7 +180,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
-							<text style="font-size:4px" x="61" y="125">M.D., Chicago: A. C. McClurg & Co., 1918</text>
+							<text style="font-size:4px" x="61" y="125">Chicago: A. C. McClurg & Co., 1918</text>
 							<text style="font-size:9px" x="61" y="60">Long Heads</text>
 							<text style="font-size:9px" x="61" y="70">and Round Heads</text>
 						</g>
@@ -489,7 +489,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler</text>
-							<text style="font-size:4px" x="61" y="125">F.A.C.S., 1922</text>
+							<text style="font-size:4px" x="61" y="125">1922</text>
 							<text style="font-size:9px" x="61" y="60">The Cause and</text>
 							<text style="font-size:9px" x="61" y="70">Cure of Colds</text>
 						</g>
