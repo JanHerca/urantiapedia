@@ -8,10 +8,8 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
-Those books for which a digital version is available are indicated with a mark.
-
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -30,13 +28,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Democratic Manifesto </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Emery Reves </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -56,13 +54,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Realistic Philosophy of Religion </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">A. Campbell Garnett </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -82,13 +80,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Student’s Philosophy of Religion </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William Kelley Wright, Ph.D. </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -107,13 +105,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">“As a Woman Thinketh” </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Penelope Penn </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -121,7 +119,7 @@ Those books for which a digital version is available are indicated with a mark.
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George P. Adams (ed.) and Wm. Pepperell Montague</text>
+							<text style="font-size:5px" x="61" y="22">G. P. Adams & Wm. Pepperell Montague</text>
 							<text style="font-size:4px" x="61" y="125">New York: Russell & Russell, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Contemporary</text>
 							<text style="font-size:9px" x="61" y="70">American Philosophy:</text>
@@ -134,13 +132,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Contemporary American Philosophy: Personal Statements, Vol. II </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George P. Adams (ed.) and Wm. Pepperell Montague </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -161,13 +159,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Creative Personality: A Study in Philosophical Reconciliation </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ralph Tyler Flewelling </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -186,13 +184,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">How You Can Keep Happy </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.C.S. </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -201,7 +199,7 @@ Those books for which a digital version is available are indicated with a mark.
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Fairfield Osborn</text>
-							<text style="font-size:4px" x="61" y="125">Princeton, New Jersey: Princeton University Press, 1927</text>
+							<text style="font-size:4px" x="61" y="125">Princeton, N. J.: Princeton University Press, 1927</text>
 							<text style="font-size:9px" x="61" y="60">Man Rises</text>
 							<text style="font-size:9px" x="61" y="70">to Parnassus</text>
 						</g>
@@ -211,13 +209,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Man Rises to Parnassus </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Fairfield Osborn </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -237,13 +235,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">New Gateways to Creative Living </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Hornell Hart </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -264,13 +262,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Personal Achievement: Principles and Methods </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. C. Roberts </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -293,13 +291,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Personality and Reality: A Proof of the Real Existence of a Supreme Self in the Universe </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. E. Turner, M.A., Ph.D. </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -307,7 +305,8 @@ Those books for which a digital version is available are indicated with a mark.
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D., F.A.C.S., with the collaboration of Lena K. Sadler, M.D., F.A.C.S.</text>
+							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D., F.A.C.S.</text>
+							<text style="font-size:5px" x="61" y="28">Lena K. Sadler, M.D., F.A.C.S.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Funk & Wagnalls Company, 1931</text>
 							<text style="font-size:9px" x="61" y="50">Piloting Modern</text>
 							<text style="font-size:9px" x="61" y="60">Youth: A Guide</text>
@@ -322,13 +321,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Piloting Modern Youth: A Guide for Parents, Teachers, and Others Dealing with Adolescents </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.C.S., with the collaboration of Lena K. Sadler, M.D., F.A.C.S. </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -347,13 +346,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Prescription for Permanent Peace </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.P.A. </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -372,13 +371,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Anatomy of Peace </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Emery Reves </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -399,13 +398,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Comparative Study of Religions: A Systematic Study </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Alban G. Widgery, M.A. </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -426,13 +425,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Enduring Quest: A Search for a Philosophy of Life </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">H. A. Overstreet </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -453,13 +452,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Foundations of Human Nature: The Study of the Person </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Morris Dorsey, M.S., M.D. </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -478,13 +477,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Issues of Life </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -503,13 +502,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The New Dictionary of Thoughts </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Tryon Edwards </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -517,7 +516,8 @@ Those books for which a digital version is available are indicated with a mark.
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D. and Lena K. Sadler, M.D.</text>
+							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D.</text>
+							<text style="font-size:5px" x="61" y="28">and Lena K. Sadler, M.D.</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: The Health Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">The Woman</text>
 							<text style="font-size:9px" x="61" y="70">and the Home</text>
@@ -528,13 +528,13 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Woman and the Home </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D. and Lena K. Sadler, M.D. </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -545,7 +545,7 @@ Those books for which a digital version is available are indicated with a mark.
 							<text style="font-size:5px" x="61" y="22">H. A. Overstreet</text>
 							<text style="font-size:4px" x="61" y="125">New York: W. W. Norton & Company, Inc., 1933</text>
 							<text style="font-size:9px" x="61" y="60">We Move in</text>
-							<text style="font-size:9px" x="61" y="60">New Directions</text>
+							<text style="font-size:9px" x="61" y="70">New Directions</text>
 						</g>
 					</svg>
 				</div>
@@ -553,7 +553,7 @@ Those books for which a digital version is available are indicated with a mark.
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">We Move in New Directions </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">H. A. Overstreet </div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>

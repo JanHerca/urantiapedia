@@ -180,50 +180,166 @@ blockquote.is-map img {
   text-align:center;
   text-anchor:middle;
 }
-.urantiapedia-book-front.urantiapedia-book-science svg g rect:first-child {
+/* Science books */
+.urantiapedia-book-science svg g rect:first-child {
   fill:#301602;
 }
-.urantiapedia-book-front.urantiapedia-book-science svg g rect:nth-child(2) {
+.urantiapedia-book-science svg g rect:nth-child(2) {
   fill:#F9F1D2;
 }
-.urantiapedia-book-front.urantiapedia-book-science svg g {
+.urantiapedia-book-science svg g {
   fill:#301602;
 }
-.urantiapedia-book-front.urantiapedia-book-bible svg g rect:first-child {
+/* Bible books */
+.urantiapedia-book-bible svg g rect:first-child {
   fill:#e06464;
 }
-.urantiapedia-book-front.urantiapedia-book-bible svg g rect:nth-child(2) {
+.urantiapedia-book-bible svg g rect:nth-child(2) {
   fill:#690404;
 }
-.urantiapedia-book-front.urantiapedia-book-bible svg g text {
+.urantiapedia-book-bible svg g text {
   fill:#fff;
 }
-.urantiapedia-book-front.urantiapedia-book-apocrypha svg g rect:first-child {
+/* Bible apocrypha books */
+.urantiapedia-book-apocrypha svg g rect:first-child {
   fill:#42ca7d;
 }
-.urantiapedia-book-front.urantiapedia-book-apocrypha svg g rect:nth-child(2) {
+.urantiapedia-book-apocrypha svg g rect:nth-child(2) {
   fill:#2a4a16;
 }
-.urantiapedia-book-front.urantiapedia-book-apocrypha svg g text {
+.urantiapedia-book-apocrypha svg g text {
   fill:#fff;
 }
-.urantiapedia-book-front.urantiapedia-book-readers svg g rect:first-child {
+/* Readers books */
+.urantiapedia-book-readers svg g rect:first-child {
   fill:#223355;
 }
-.urantiapedia-book-front.urantiapedia-book-readers svg g rect:nth-child(2) {
+.urantiapedia-book-readers svg g rect:nth-child(2) {
   fill:#eeddcc;
 }
-.urantiapedia-book-front.urantiapedia-book-readers svg g {
+.urantiapedia-book-readers svg g {
   fill:#223355;
-}
-.urantiapedia-book-front.urantiapedia-book-studyaid svg g rect:first-child {
+}ç
+/* Study aids */
+.urantiapedia-book-studyaid svg g rect:first-child {
   fill:#4999D2;
 }
-.urantiapedia-book-front.urantiapedia-book-studyaid svg g rect:nth-child(2) {
+.urantiapedia-book-studyaid svg g rect:nth-child(2) {
   fill:#0e66a1;
 }
-.urantiapedia-book-front.urantiapedia-book-studyaid svg g {
+.urantiapedia-book-studyaid svg g {
   fill:#fff;
+}
+/* Bahaism books */
+.urantiapedia-book-bahai svg g rect:first-child {
+  fill:#1a3155;
+}
+.urantiapedia-book-bahai svg g rect:nth-child(2) {
+  fill:#eed6bd;
+}
+.urantiapedia-book-bahai svg g {
+  fill:#1a3155;
+}
+/* Buddhism books */
+.urantiapedia-book-buddha svg g rect:first-child {
+  fill:#471909;
+}
+.urantiapedia-book-buddha svg g rect:nth-child(2) {
+  fill:#f5c586;
+}
+.urantiapedia-book-buddha svg g {
+  fill:#471909;
+}
+/* Christian books */
+.urantiapedia-book-christian svg g rect:first-child {
+  fill:#19737e;
+}
+.urantiapedia-book-christian svg g rect:nth-child(2) {
+  fill:#d0c6bd;
+}
+.urantiapedia-book-christian svg g {
+  fill:#19737e;
+}
+/* Hinduism books */
+.urantiapedia-book-hindu svg g rect:first-child {
+  fill:#6a2015;
+}
+.urantiapedia-book-hindu svg g rect:nth-child(2) {
+  fill:#fe9663;
+}
+.urantiapedia-book-hindu svg g {
+  fill:#6a2015;
+}
+/* Islam books */
+.urantiapedia-book-islam svg g rect:first-child {
+  fill:#781915;
+}
+.urantiapedia-book-islam svg g rect:nth-child(2) {
+  fill:#adc9b2;
+}
+.urantiapedia-book-islam svg g {
+  fill:#781915;
+}
+/* Jainism books */
+.urantiapedia-book-jain svg g rect:first-child {
+  fill:#7a5542;
+}
+.urantiapedia-book-jain svg g rect:nth-child(2) {
+  fill:#ffc683;
+}
+.urantiapedia-book-jain svg g {
+  fill:#7a5542;
+}
+/* Judaism books */
+.urantiapedia-book-judean svg g rect:first-child {
+  fill:#932322;
+}
+.urantiapedia-book-judean svg g rect:nth-child(2) {
+  fill:#bababa;
+}
+.urantiapedia-book-judean svg g {
+  fill:#932322;
+}
+/* Shikhism books */
+.urantiapedia-book-shikh svg g rect:first-child {
+  fill:#60357a;
+}
+.urantiapedia-book-shikh svg g rect:nth-child(2) {
+  fill:#d3884f;
+}
+.urantiapedia-book-shikh svg g {
+  fill:#60357a;
+}
+/* Shintoism books */
+.urantiapedia-book-shinto svg g rect:first-child {
+  fill:#d50500;
+}
+.urantiapedia-book-shinto svg g rect:nth-child(2) {
+  fill:#f0ebe8;
+  stroke: #000;
+}
+.urantiapedia-book-shinto svg g {
+  fill:#000;
+}
+/* Taoism books */
+.urantiapedia-book-tao svg g rect:first-child {
+  fill:#38373d;
+}
+.urantiapedia-book-tao svg g rect:nth-child(2) {
+  fill:#b1bfc2;
+}
+.urantiapedia-book-tao svg g {
+  fill:#38373d;
+}
+/* Zoroastrianism books */
+.urantiapedia-book-zoroaster svg g rect:first-child {
+  fill:#bc8e53;
+}
+.urantiapedia-book-zoroaster svg g rect:nth-child(2) {
+  fill:#9dbfae;
+}
+.urantiapedia-book-zoroaster svg g {
+  fill:#371c00;
 }
 @media (max-width:500px) {
   figure.image-style-align-right,

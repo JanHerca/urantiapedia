@@ -223,20 +223,20 @@ CSS will automatically be minified. */
 }
 /* Bahaism books */
 .v-main .contents .urantiapedia-book-bahai svg g rect:first-child {
-    fill:#032e72;
+    fill:#1a3155;
 }
 .v-main .contents .urantiapedia-book-bahai svg g rect:nth-child(2) {
-    fill:#ceb8a1;
+    fill:#eed6bd;
 }
 .v-main .contents .urantiapedia-book-bahai svg g {
-    fill:#032e72;
+    fill:#1a3155;
 }
 /* Buddhism books */
 .v-main .contents .urantiapedia-book-buddha svg g rect:first-child {
     fill:#471909;
 }
 .v-main .contents .urantiapedia-book-buddha svg g rect:nth-child(2) {
-    fill:#cd9751;
+    fill:#f5c586;
 }
 .v-main .contents .urantiapedia-book-buddha svg g {
     fill:#471909;

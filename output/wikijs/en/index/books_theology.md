@@ -8,8 +8,10 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
+## Religions
+
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -29,13 +31,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Preface to Christian Faith in a New Age</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rufus M. Jones</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -55,13 +57,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Adventurous Religion and Other Essays</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Harry Emerson Fosdick</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -82,13 +84,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Comparative Religion and the Religion of the Future</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Alfred E. Martin, A.M., S.T.B.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -109,13 +111,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Encyclopædia of Religion and Ethics, Vol. II</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Hastings (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -138,13 +140,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">God and Ourselves: A Plea for the Reality, Adequacy and Availability of God</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Edwin Lewis</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -164,13 +166,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">God in Christian Thought and Experience</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W. R. Matthews, K.C.V.O., D.D., D.Lit.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -193,13 +195,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">God in Idea and Experience, or, The A Priori Elements of the Religious Consciousness</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rees Griffiths, M.A., B.D., Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -219,13 +221,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Origin and Evolution of Religion</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Washburn Hopkins, Ph.D., LL.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -234,7 +236,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. R. Illingworth, M.A.</text>
-							<text style="font-size:4px" x="61" y="125">London and New York: The Macmillan Company, 1894</text>
+							<text style="font-size:4px" x="61" y="125">London & N.Y.: The Macmillan Company, 1894</text>
 							<text style="font-size:9px" x="61" y="60">Personality</text>
 							<text style="font-size:9px" x="61" y="70">Human and Divine</text>
 						</g>
@@ -244,13 +246,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Personality Human and Divine</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. R. Illingworth, M.A.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -272,13 +274,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psychology and God: A Study of the Implications of Recent Psychology for Religious Belief and Practice</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rev. L.W. Grensted, M.A., D.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -289,9 +291,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Religion</text>
-							<text style="font-size:9px" x="61" y="60">and Conduct:</text>
-							<text style="font-size:9px" x="61" y="60">The Report of</text>
-							<text style="font-size:9px" x="61" y="60">a Conference</text>
+							<text style="font-size:9px" x="61" y="70">and Conduct:</text>
+							<text style="font-size:9px" x="61" y="80">The Report of</text>
+							<text style="font-size:9px" x="61" y="90">a Conference</text>
 						</g>
 					</svg>
 				</div>
@@ -299,13 +301,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Religion and Conduct: The Report of a Conference Held at Northwestern University, November 15-16, 1929</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -326,13 +328,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Religion as a Remedy for Personal and Social Maladjustments</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -352,13 +354,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sin and the New Psychology</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Clifford E. Barbour, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -367,7 +369,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dr. William S. Sadler</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: The Central Bible Supply Company, 1909</text>
+							<text style="font-size:4px" x="61" y="125">Chicago: The Central Bible Supply Co., 1909</text>
 							<text style="font-size:9px" x="61" y="60">Soul Winning</text>
 							<text style="font-size:9px" x="61" y="70">Texts, or</text>
 							<text style="font-size:9px" x="61" y="80">Bible Helps</text>
@@ -379,13 +381,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Soul Winning Texts, or Bible Helps for Personal Work</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Dr. William S. Sadler</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -394,7 +396,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ellen G. White</text>
-							<text style="font-size:4px" x="61" y="125">Battle Creek, Mich.: 7th-Day Adventist Pub. Assoc., 1864</text>
+							<text style="font-size:4px" x="61" y="125">Battle Creek, Mich.:</text>
+							<text style="font-size:4px" x="61" y="130">7th-Day Adventist Pub. Assoc., 1864</text>
 							<text style="font-size:9px" x="61" y="60">Spiritual Gifts</text>
 							<text style="font-size:9px" x="61" y="70">Vol. 4a</text>
 						</g>
@@ -404,13 +407,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Spiritual Gifts, Vol. 4a</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ellen G. White</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -434,7 +437,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -445,7 +448,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">John Laird, LL.D., F.B.A.</text>
 							<text style="font-size:4px" x="61" y="125">London: George Allen and Unwin Ltd, 1940</text>
 							<text style="font-size:9px" x="61" y="60">Theism</text>
-							<text style="font-size:9px" x="61" y="60">and Cosmology</text>
+							<text style="font-size:9px" x="61" y="70">and Cosmology</text>
 						</g>
 					</svg>
 				</div>
@@ -453,13 +456,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Theism and Cosmology</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Laird, LL.D., F.B.A.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -471,7 +474,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1928</text>
 							<text style="font-size:9px" x="61" y="50">The Interpretation</text>
 							<text style="font-size:9px" x="61" y="60">of Religion:</text>
-							<text style="font-size:9px" x="61" y="i70">An Introductory</text>
+							<text style="font-size:9px" x="61" y="70">An Introductory</text>
 							<text style="font-size:9px" x="61" y="80">Study of</text>
 							<text style="font-size:9px" x="61" y="90">Theological</text>
 							<text style="font-size:9px" x="61" y="100">Principles</text>
@@ -482,13 +485,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Interpretation of Religion: An Introductory Study of Theological Principles</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Baillie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -496,7 +499,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Henry Nelson Wieman and Walter Marshall Horton</text>
+							<text style="font-size:5px" x="61" y="22">H. N. Wieman & W. Marshall Horton</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: Willett, Clark & Company, 1938</text>
 							<text style="font-size:9px" x="61" y="60">The Growth</text>
 							<text style="font-size:9px" x="61" y="70">of Religion</text>
@@ -507,13 +510,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Growth of Religion</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman and Walter Marshall Horton</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -535,13 +538,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Meaning of God in Human Experience: A Philosophy Study of Religion</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William Ernest Hocking, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -563,13 +566,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Nature and Destiny of Man: A Christian Interpretation. Volume I: Human Nature</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Reinhold Niebuhr</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -588,13 +591,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The New World-Religion</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rev. Josiah Strong, D.D., Garden City</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -607,7 +610,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">The Perfect</text>
 							<text style="font-size:9px" x="61" y="70">Calendar for</text>
 							<text style="font-size:9px" x="61" y="80">Every Year of the</text>
-							<text style="font-size:9px" x="61" y="60">Christian Era</text>
+							<text style="font-size:9px" x="61" y="90">Christian Era</text>
 						</g>
 					</svg>
 				</div>
@@ -615,13 +618,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Perfect Calendar for Every Year of the Christian Era</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Fitch</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -642,13 +645,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Pilgrimage of Buddhism, and A Buddhist Pilgrimage</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Bissett Pratt</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -669,13 +672,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Religion of the Spirit: Studies in Faith and Life</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Fremont Tittle</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -694,13 +697,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sayings of Lao Tzß</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -721,13 +724,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The World’s Living Religions: An Historical Sketch</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Ernest Hume, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -749,13 +752,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">This Believing World: A Simple Account of the Great Religions of Mankind</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lewis Browne</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -778,7 +781,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Treasure-House of the Living Religions: Selections from Their Sacred Scriptures</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Ernest Hume, M.A., Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -786,10 +789,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	</div>
 </div>
 
-### Jesus Studies
+## Jesus Studies
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -797,7 +800,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Arthur S. Peake, James Hastings, D.D. (ed.)</text>
+							<text style="font-size:5px" x="61" y="22">A. S. Peake, James Hastings</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1908</text>
 							<text style="font-size:9px" x="61" y="60">A Dictionary</text>
 							<text style="font-size:9px" x="61" y="70">of Christ and</text>
@@ -810,13 +813,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Dictionary of Christ and the Gospels, Two Volumes</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur S. Peake, James Hastings, D.D. (ed.)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -824,7 +827,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Arnold Stevens y Ernest DeWitt Burton</text>
+							<text style="font-size:5px" x="61" y="22">A. Stevens & E. DeWitt Burton</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1904, 1932</text>
 							<text style="font-size:9px" x="61" y="60">A Harmony</text>
 							<text style="font-size:9px" x="61" y="70">of the Gospels</text>
@@ -835,15 +838,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Harmony of the Gospels for Historical Study</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Arnold Stevens y Ernest DeWitt Burton</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Arnold Stevens & Ernest DeWitt Burton</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -852,7 +855,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Daniel A. Poling</text>
-							<text style="font-size:4px" x="61" y="125">ew York: Harper & Brothers Publishers, 1931</text>
+							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1931</text>
 							<text style="font-size:9px" x="61" y="60">Between</text>
 							<text style="font-size:9px" x="61" y="70">Two Worlds:</text>
 							<text style="font-size:9px" x="61" y="80">The Romance</text>
@@ -864,13 +867,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Between Two Worlds: The Romance of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Daniel A. Poling</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -878,7 +881,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Ernest Dewitt Burton and Shailer Mathews</text>
+							<text style="font-size:5px" x="61" y="22">E. Dewitt Burton and S. Mathews</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: University of Chicago Press, 1900</text>
 							<text style="font-size:9px" x="61" y="60">Constructive</text>
 							<text style="font-size:9px" x="61" y="70">Studies in the</text>
@@ -890,13 +893,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Constructive Studies in the Life of Christ</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Dewitt Burton and Shailer Mathews</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -917,13 +920,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Atlas of the Historical Geography of the Holy Land</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George Adam Smith</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -942,13 +945,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">How Jesus Dealt with Men</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Raymond Calkins</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -967,13 +970,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus and Ourselves</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Leslie D. Weatherhead</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -995,13 +998,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus and Ourselves: A sequel to ‘The Transforming Friendship’</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Leslie D. Weatherhead, M.A.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1020,13 +1023,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus—Man of Genius</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. Middleton Murry</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1046,13 +1049,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus of Nazareth: A Biography</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George A. Barton, Ph.D., LL.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1079,7 +1082,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1100,13 +1103,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">New Testament History: A Study of the Beginnings of Christianity</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Harris- Franklin Rall, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1125,13 +1128,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Our Lord’s Earthly Life</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">David Smith, M.A., D.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1150,13 +1153,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Our Recovery of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter E. Bundy</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1175,13 +1178,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pen-Portraits of the Twelve</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Bernard C. Clausen, D.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1201,13 +1204,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Studies of the Man Christ Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert E. Speer,</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1226,13 +1229,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Character of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Edward Jefferson</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1253,13 +1256,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ of Every Road: A Study in Pentecost</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Stanley Jones</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1279,13 +1282,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ of the Indian Road</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Stanley Jones</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1306,13 +1309,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ We Forget: A Life of Our Lord for Men of To-day</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">P. Whitwell Wilson</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1334,13 +1337,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Days of His Flesh: The Earthly Life of Our Lord and Saviour Jesus Christ, Eighth Edition, Revised</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">David Smith, M.A., D.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1360,13 +1363,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Environment of Early Christianity</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Angus, M.A., Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1385,13 +1388,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Ethical Teaching of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest F. Scott, D.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1411,13 +1414,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Kingdom of God in the New Testament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest F. Scott</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1426,7 +1429,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Alfred Edersheim</text>
-							<text style="font-size:4px" x="61" y="125">New York: Longman, Green, & Co., Eighth Edition, Revised, 1899</text>
+							<text style="font-size:4px" x="61" y="125">N.Y.: Longman, Green, & Co., 1899</text>
 							<text style="font-size:9px" x="61" y="60">The Life and Times</text>
 							<text style="font-size:9px" x="61" y="70">of Jesus</text>
 							<text style="font-size:9px" x="61" y="80">the Messiah</text>
@@ -1434,16 +1437,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Life and Times of Jesus the Messiah, Two volumes</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Life and Times of Jesus the Messiah, Two volumes (Eighth Edition, Revised)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Alfred Edersheim</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1463,13 +1466,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Man Who Dared to Be God: A Story of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Norwood</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1489,13 +1492,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Master: A Life of Jesus Christ</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter Russell Bowie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1516,13 +1519,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Place of Jesus Christ in Modern Christianity</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Baillie, M.A., D.Litt.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1530,8 +1533,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Charles Fiske and Burton Scott Easton</text>
-							<text style="font-size:4px" x="61" y="125">New York and London, Harper & Brothers Publishers, 1929</text>
+							<text style="font-size:5px" x="61" y="22">Charles Fiske & Burton Scott Easton</text>
+							<text style="font-size:4px" x="61" y="125">N.Y. & London, Harper & Brothers Publishers, 1929</text>
 							<text style="font-size:9px" x="61" y="60">The Real Jesus</text>
 							<text style="font-size:9px" x="61" y="70">What He Taught</text>
 							<text style="font-size:9px" x="61" y="80">What He Did:</text>
@@ -1543,13 +1546,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Real Jesus: What He Taught: What He Did: Who He Was</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Fiske and Burton Scott Easton</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1568,13 +1571,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Religion of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter E. Bundy</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1595,13 +1598,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sayings of Jesus: Their Background and Interpretation</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Benjamin Willard Robinson, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1621,13 +1624,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">These Twelve: A Study in Temperament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Reynolds Brown</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1646,13 +1649,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Teaching of Christ</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">G. Campbell Morgan, D.D., Old Tappan</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1671,13 +1674,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Teachings of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Harris Franklin Rall</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1697,13 +1700,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Twelve: Apostolic Types of Christian Men</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Edward Augustus George</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1723,13 +1726,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The World of the New Testament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">T. R. Glover</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1748,7 +1751,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">We Would Know Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John A. Scott</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -1759,7 +1762,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## Biblical Studies
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1778,13 +1781,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Dictionary of The Bible, several volumes</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William Smith</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1803,13 +1806,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dictionary of The Bible</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Hastings</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1818,7 +1821,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Orville J. Nave, A.M., D.D., LL.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Topical Bible Publishing Company, 1897</text>
+							<text style="font-size:4px" x="61" y="125">N.Y.: Topical Bible Publishing Company, 1897</text>
 							<text style="font-size:9px" x="61" y="60">Nave’s Topical</text>
 							<text style="font-size:9px" x="61" y="70">Bible: A Digest of</text>
 							<text style="font-size:9px" x="61" y="80">the Holy Scriptures</text>
@@ -1829,13 +1832,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Nave’s Topical Bible: A Digest of the Holy Scriptures</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Orville J. Nave, A.M., D.D., LL.D.</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1843,7 +1846,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Herbert Edward Ryle, M.A., and Montague Rhodes James, M.A., editors</text>
+							<text style="font-size:5px" x="61" y="22">H. E. Ryle, M.A., & M. Rhodes James, M.A.</text>
 							<text style="font-size:4px" x="61" y="125">Cambridge: At the University Press, 1891</text>
 							<text style="font-size:9px" x="61" y="60">Psalms of</text>
 							<text style="font-size:9px" x="61" y="70">the Pharisees,</text>
@@ -1856,13 +1859,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalms of the Pharisees, Commonly Called the Psalms of Solomon</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Herbert Edward Ryle, M.A., and Montague Rhodes James, M.A., editors</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1883,13 +1886,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Background of the Bible: A Handbook of Biblical Introduction</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Kendall Booth</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1909,13 +1912,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Bible Is Human: A Study in Secular History</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Louis Wallis</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1924,7 +1927,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Julius A. Bewer</text>
-							<text style="font-size:4px" x="61" y="125">New York: Columbia University Press, 1922, 1935</text>
+							<text style="font-size:4px" x="61" y="125">N.Y.: Columbia University Press, 1922, 1935</text>
 							<text style="font-size:9px" x="61" y="60">The Literature of</text>
 							<text style="font-size:9px" x="61" y="70">the Old Testament</text>
 						</g>
@@ -1934,13 +1937,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Literature of the Old Testament, Revised Edition</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Julius A. Bewer</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-science urantiapedia-card-top-image">
@@ -1949,7 +1952,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ernest Findlay Scott</text>
-							<text style="font-size:4px" x="61" y="125">New York: Columbia Univeristy Press, 1932, 1936</text>
+							<text style="font-size:4px" x="61" y="125">N.Y.: Columbia Univeristy Press, 1932, 1936</text>
 							<text style="font-size:9px" x="61" y="60">The Literature of</text>
 							<text style="font-size:9px" x="61" y="70">the Old Testament</text>
 						</g>
@@ -1959,7 +1962,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Literature of the Old Testament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Findlay Scott</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
