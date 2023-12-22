@@ -13,12 +13,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book">
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur Hinds, int. N. V. Peale</text>
 							<text style="font-size:4px" x="61" y="125">1927</text>
 							<text style="font-size:9px" x="61" y="60">The Complete</text>
@@ -47,8 +47,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
 							<text style="font-size:9px" x="61" y="60">Fragments of</text>
@@ -72,8 +72,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles William King</text>
 							<text style="font-size:4px" x="61" y="125">1887</text>
 							<text style="font-size:9px" x="61" y="60">The Gnostics</text>
@@ -98,8 +98,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">Pistis Sophia</text>
@@ -122,8 +122,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Early Church</text>
 							<text style="font-size:9px" x="61" y="70">Fathers</text>
 						</g>
@@ -149,8 +149,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">Thrice-</text>
@@ -175,8 +175,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">Thrice-</text>
@@ -201,8 +201,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G.R.S. Mead</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">Thrice-</text>
@@ -227,8 +227,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Everard (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1650</text>
 							<text style="font-size:9px" x="61" y="60">The Divine</text>
@@ -254,8 +254,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Anna Kingsford and Edward Maitland (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1885</text>
 							<text style="font-size:9px" x="61" y="50">The Virgin</text>
@@ -287,8 +287,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G.R.S. Mead (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1907</text>
 							<text style="font-size:9px" x="61" y="60">The Hymn of Jesus,</text>
@@ -306,15 +306,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</a>
 			</div>
 		</div>
-	</div>.
+	</div>
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G.R.S. Mead (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1924</text>
 							<text style="font-size:9px" x="61" y="60">Gnostic John</text>
@@ -333,15 +333,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</a>
 			</div>
 		</div>
-	</div>.
+	</div>
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125"> </text>
 							<text style="font-size:9px" x="61" y="60">The Book of Giants</text>
@@ -364,8 +364,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125">ca. 200 A.D.</text>
 							<text style="font-size:9px" x="61" y="60">The Gospel of Thomas</text>
@@ -388,8 +388,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125"> </text>
 							<text style="font-size:9px" x="61" y="60">Excerpts from</text>
@@ -418,9 +418,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:4px" x="61" y="125"ca. 200 C.E.></text>
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:4px" x="61" y="125">ca. 200 C.E.</text>
 							<text style="font-size:9px" x="61" y="60">The Gospel of Thomas</text>
 						</g>
 					</svg>
@@ -440,8 +440,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Christian Prayers</text>
 						</g>
 					</svg>
@@ -461,8 +461,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">St. Augustine</text>
 							<text style="font-size:9px" x="61" y="60">Works of</text>
 							<text style="font-size:9px" x="61" y="70">St. Augustine</text>
@@ -485,8 +485,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">St. Augustine (401 C.E.), Edward Bouverie Pusey (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1909-14</text>
 							<text style="font-size:9px" x="61" y="60">The Confessions</text>
@@ -510,8 +510,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Writings</text>
 							<text style="font-size:9px" x="61" y="70">of the Early</text>
 							<text style="font-size:9px" x="61" y="80">Church Fathers</text>
@@ -533,8 +533,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"> Dionysius the Areopagite (ca. 400 C.E.), John Parker (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
 							<text style="font-size:9px" x="61" y="60">The Works</text>
@@ -564,8 +564,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E. A. Wallis Budge (ed. & tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1886</text>
 							<text style="font-size:9px" x="61" y="60">The Book of the Bee</text>
@@ -588,8 +588,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E. A. Wallis Budge</text>
 							<text style="font-size:4px" x="61" y="125">1927</text>
 							<text style="font-size:9px" x="61" y="60">The Book of</text>
@@ -613,8 +613,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E. A. Wallis Budge (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1922</text>
 							<text style="font-size:9px" x="61" y="60">The Kebra Nagast</text>
@@ -633,6 +633,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	</div>
 </div>
 
+
 ## Mediaeval, Renaissance and Reformation
 
 <div class="layout row wrap">
@@ -642,8 +643,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Bede</text>
 							<text style="font-size:4px" x="61" y="125">1907</text>
 							<text style="font-size:9px" x="61" y="60">Bede's</text>
@@ -668,8 +669,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"> St. Anselm of Canterbury</text>
 							<text style="font-size:4px" x="61" y="125">1903</text>
 							<text style="font-size:9px" x="61" y="60">Works of St. Anselm</text>
@@ -692,8 +693,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Anonymous</text>
 							<text style="font-size:4px" x="61" y="125">1901</text>
 							<text style="font-size:9px" x="61" y="60">The Love Letters</text>
@@ -718,8 +719,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Adams Bellows (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1922</text>
 							<text style="font-size:9px" x="61" y="60">The Story of</text>
@@ -745,8 +746,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>
 							<text style="font-size:4px" x="61" y="125">1905</text>
 							<text style="font-size:9px" x="61" y="60">The Writings of</text>
@@ -770,8 +771,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W. Heywood (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">The Little Flowers</text>
@@ -795,8 +796,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">St. Thomas Aquinas</text>
 							<text style="font-size:4px" x="61" y="125">1948</text>
 							<text style="font-size:9px" x="61" y="60">Summa Theologica</text>
@@ -819,8 +820,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Jan van Ruysbroeck</text>
 							<text style="font-size:4px" x="61" y="125">1916</text>
 							<text style="font-size:9px" x="61" y="60">The Adornment</text>
@@ -845,8 +846,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dante Alighieri</text>
 							<text style="font-size:4px" x="61" y="125">1888</text>
 							<text style="font-size:9px" x="61" y="60">The Divine Comedy</text>
@@ -869,8 +870,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Anonymous</text>
 							<text style="font-size:4px" x="61" y="125">1922</text>
 							<text style="font-size:9px" x="61" y="60">The Cloud</text>
@@ -894,8 +895,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Thomas a Kempis</text>
 							<text style="font-size:4px" x="61" y="125">1886</text>
 							<text style="font-size:9px" x="61" y="60">Imitation of Christ</text>
@@ -918,8 +919,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">St. Ignatius of Loyola</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
 							<text style="font-size:9px" x="61" y="60">The Spiritual</text>
@@ -943,8 +944,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Martin Luther</text>
 							<text style="font-size:9px" x="61" y="60">Texts</text>
 						</g>
@@ -966,8 +967,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Calvin</text>
 							<text style="font-size:9px" x="61" y="60">Texts</text>
 						</g>
@@ -989,8 +990,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Foxe</text>
 							<text style="font-size:4px" x="61" y="125">ca. 1560</text>
 							<text style="font-size:9px" x="61" y="60">Foxe's Book</text>
@@ -1014,8 +1015,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1618-9</text>
 							<text style="font-size:9px" x="61" y="60">Synod of Dordrecht</text>
 						</g>
@@ -1036,8 +1037,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Heidelberg</text>
 							<text style="font-size:9px" x="61" y="70">Catechism</text>
 						</g>
@@ -1058,8 +1059,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">The Second</text>
 							<text style="font-size:9px" x="61" y="70">Helvetic</text>
 							<text style="font-size:9px" x="61" y="80">Confession</text>
@@ -1081,8 +1082,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Reformed Churches of the Netherlands</text>
 							<text style="font-size:4px" x="61" y="125">1618-9</text>
 							<text style="font-size:9px" x="61" y="60">Church Order</text>
@@ -1105,8 +1106,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Reformed Churches of the Netherlands</text>
 							<text style="font-size:9px" x="61" y="60">Liturgy</text>
 						</g>
@@ -1128,8 +1129,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1674</text>
 							<text style="font-size:9px" x="61" y="60">Westminster</text>
 							<text style="font-size:9px" x="61" y="70">Shorter</text>
@@ -1139,7 +1140,6 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Westminster Shorter Catechism</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -1153,8 +1153,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">The Westminster</text>
 							<text style="font-size:9px" x="61" y="70">Confession</text>
 							<text style="font-size:9px" x="61" y="80">of Faith</text>
@@ -1176,8 +1176,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Westminster</text>
 							<text style="font-size:9px" x="61" y="70">Larger</text>
 							<text style="font-size:9px" x="61" y="80">Catechism</text>
@@ -1199,8 +1199,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Stephen Charnock</text>
 							<text style="font-size:4px" x="61" y="125">1629-1690</text>
 							<text style="font-size:9px" x="61" y="60">The Works of</text>
@@ -1224,8 +1224,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Milton</text>
 							<text style="font-size:4px" x="61" y="125">1667 and 1671</text>
 							<text style="font-size:9px" x="61" y="60">Paradise Lost,</text>
@@ -1249,8 +1249,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Bunyan</text>
 							<text style="font-size:4px" x="61" y="125">1678</text>
 							<text style="font-size:9px" x="61" y="60">Pilgrim's Progress</text>
@@ -1273,8 +1273,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">James Anthony Froude</text>
 							<text style="font-size:4px" x="61" y="125">1901</text>
 							<text style="font-size:9px" x="61" y="60">Bunyan</text>
@@ -1297,8 +1297,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Angelus Silesius</text>
 							<text style="font-size:4px" x="61" y="125">1932</text>
 							<text style="font-size:9px" x="61" y="60">Selections from</text>
@@ -1323,8 +1323,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Angelus Silesius</text>
 							<text style="font-size:4px" x="61" y="125">1944</text>
 							<text style="font-size:9px" x="61" y="60">Alexandrines</text>
@@ -1350,8 +1350,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">St. Teresa of Avila</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">The Interior Castle</text>
@@ -1376,8 +1376,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">Ordinary</text>
 							<text style="font-size:9px" x="61" y="70">of the Mass</text>
@@ -1396,6 +1396,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	</div>
 </div>
 
+
+
+
 ## Modern
 
 <div class="layout row wrap">
@@ -1405,8 +1408,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Ellery Channing</text>
 							<text style="font-size:4px" x="61" y="125">1819</text>
 							<text style="font-size:9px" x="61" y="60">Unitarian </text>
@@ -1430,8 +1433,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1843</text>
 							<text style="font-size:9px" x="61" y="60">New England</text>
 							<text style="font-size:9px" x="61" y="70">Primer</text>
@@ -1453,8 +1456,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Miller</text>
 							<text style="font-size:4px" x="61" y="125">1842</text>
 							<text style="font-size:9px" x="61" y="50">Evidence from</text>
@@ -1481,8 +1484,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Anne Catherine Emmerich</text>
 							<text style="font-size:4px" x="61" y="125">1843</text>
 							<text style="font-size:9px" x="61" y="60">The Dolorous</text>
@@ -1507,8 +1510,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ellen G. White</text>
 							<text style="font-size:4px" x="61" y="125">1858</text>
 							<text style="font-size:9px" x="61" y="60">The Great</text>
@@ -1532,8 +1535,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Nelson Dar</text>
 							<text style="font-size:4px" x="61" y="125">1876</text>
 							<text style="font-size:9px" x="61" y="60">Notes on</text>
@@ -1558,8 +1561,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Nelson Dar</text>
 							<text style="font-size:4px" x="61" y="125">no date (pre-1882)</text>
 							<text style="font-size:9px" x="61" y="60">The Man of Sorrows</text>
@@ -1582,8 +1585,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. Neale</text>
 							<text style="font-size:4px" x="61" y="125">1884</text>
 							<text style="font-size:9px" x="61" y="60">Hymns of the</text>
@@ -1607,8 +1610,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Shaker documents</text>
 						</g>
 					</svg>
@@ -1628,8 +1631,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Nicolas Notovitch et al. (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1890</text>
 							<text style="font-size:9px" x="61" y="60">The Unknown Life</text>
@@ -1653,8 +1656,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1891</text>
 							<text style="font-size:9px" x="61" y="60">The Baltimore</text>
 							<text style="font-size:9px" x="61" y="70">(Catholic)</text>
@@ -1678,8 +1681,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Alban Butler, John Gilmary Shea</text>
 							<text style="font-size:4px" x="61" y="125">1894</text>
 							<text style="font-size:9px" x="61" y="60">Lives of the Saints</text>
@@ -1702,8 +1705,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles H. Hoole</text>
 							<text style="font-size:4px" x="61" y="125">1894</text>
 							<text style="font-size:9px" x="61" y="60">The Didache</text>
@@ -1726,8 +1729,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Edward Planta Nesbit</text>
 							<text style="font-size:4px" x="61" y="125">1895</text>
 							<text style="font-size:9px" x="61" y="60">Jesus An Essene</text>
@@ -1750,8 +1753,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W.O.E. Oesterley</text>
 							<text style="font-size:4px" x="61" y="125">1908</text>
 							<text style="font-size:9px" x="61" y="60">The Doctrine of </text>
@@ -1775,8 +1778,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Churchill King</text>
 							<text style="font-size:4px" x="61" y="125">1908</text>
 							<text style="font-size:9px" x="61" y="60">The Seeming</text>
@@ -1801,8 +1804,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Edouard Schuré; F. Rothwell (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1908</text>
 							<text style="font-size:9px" x="61" y="60">Jesus, the Last</text>
@@ -1826,8 +1829,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. E. Hanauer</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
 							<text style="font-size:9px" x="61" y="60">Folk-lore of</text>
@@ -1851,8 +1854,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Mary Baker Eddy</text>
 							<text style="font-size:4px" x="61" y="125">1910</text>
 							<text style="font-size:9px" x="61" y="60">Science and</text>
@@ -1877,8 +1880,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Woodrow Wilson</text>
 							<text style="font-size:4px" x="61" y="125">1915</text>
 							<text style="font-size:9px" x="61" y="60">John Wesley's</text>
@@ -1902,8 +1905,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Clarence Larkin</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
 							<text style="font-size:9px" x="61" y="60">The Book</text>
@@ -1927,8 +1930,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Levi H. Dowling</text>
 							<text style="font-size:4px" x="61" y="125">1920</text>
 							<text style="font-size:9px" x="61" y="60">The Aquarian</text>
@@ -1953,8 +1956,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Julian K. Smyth and William F. Wunsch</text>
 							<text style="font-size:4px" x="61" y="125">1920</text>
 							<text style="font-size:9px" x="61" y="60">The Gist</text>
@@ -1978,8 +1981,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Neville Figgis</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">The Political Aspects</text>
@@ -2004,8 +2007,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Lyon Phelps</text>
 							<text style="font-size:4px" x="61" y="125">1922</text>
 							<text style="font-size:9px" x="61" y="60">Human Nature</text>
@@ -2029,8 +2032,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Farrow</text>
 							<text style="font-size:4px" x="61" y="125">1942</text>
 							<text style="font-size:9px" x="61" y="60">Pageant</text>
@@ -2054,8 +2057,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">David K. Breed</text>
 							<text style="font-size:4px" x="61" y="125">1948</text>
 							<text style="font-size:9px" x="61" y="60">The Trial</text>
@@ -2079,8 +2082,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125">1934</text>
 							<text style="font-size:9px" x="61" y="60">The Theological</text>
@@ -2091,7 +2094,6 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Theological Declaration of Barmen</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -2105,8 +2107,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-christian urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1979</text>
 							<text style="font-size:9px" x="61" y="60">The (Episcopal)</text>
 							<text style="font-size:9px" x="61" y="70">Book of</text>
