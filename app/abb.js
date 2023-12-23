@@ -514,6 +514,7 @@ const BibleAbbreviations = {
 		'1 Adam': ['First book of Adam and Eve', '/Bible/First_book_of_Adam_and_Eve', 'APO'],
 		'2 Adam': ['Second book of Adam and Eve', '/Bible/Second_book_of_Adam_and_Eve', 'APO'],
 		'2 Enoch': ['Second Book of Enoch', '/Bible/Second_Book_of_Enoch', 'APO'],
+		'3 Enoch': ['Third Book of Enoch', '/Bible/Third_Book_of_Enoch', 'APO'],
 		'PsSol': ['Psalms of Solomon', '/Bible/Psalms_of_Solomon', 'APO'],
 		'OdesSol': ['The Odes of Solomon', '/Bible/The_Odes_of_Solomon', 'APO'],
 		'Aris': ['Letter of Aristeas', '/Bible/Letter_of_Aristeas', 'APO'],

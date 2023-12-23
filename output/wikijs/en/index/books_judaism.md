@@ -617,7 +617,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">The Central Conference of American Rabbis (ed.), Isidore Lipton (illus.)</text>
+							<text style="font-size:5px" x="61" y="22">The Central Conf. of American Rabbis (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">1923</text>
 							<text style="font-size:9px" x="61" y="60">The Union Haggadah</text>
 						</g>
@@ -795,7 +795,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Moses Maimonides; M. Freidländer (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Moses Maimonides</text>
 							<text style="font-size:4px" x="61" y="125">1904</text>
 							<text style="font-size:9px" x="61" y="60">The Guide for</text>
 							<text style="font-size:9px" x="61" y="70">the Perplexed</text>
@@ -820,7 +820,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Solomon ibn Gabirol; Israel Zangwill (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Solomon ibn Gabirol</text>
 							<text style="font-size:4px" x="61" y="125">1923</text>
 							<text style="font-size:9px" x="61" y="60">Selected Religious</text>
 							<text style="font-size:9px" x="61" y="70">Poems</text>
@@ -845,10 +845,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Solomon ibn Gabirol; Harry E. Wedeck (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Solomon ibn Gabirol</text>
 							<text style="font-size:4px" x="61" y="125">1962</text>
 							<text style="font-size:9px" x="61" y="60">The Fountain</text>
-							<text style="font-size:9px" x="61" y="60">of Life</text>
+							<text style="font-size:9px" x="61" y="70">of Life</text>
 						</g>
 					</svg>
 				</div>
@@ -1154,7 +1154,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1937</text>
-							<text style="font-size:9px" x="61" y="60">The Columbus Platform:</text>
+							<text style="font-size:9px" x="61" y="50">The</text>
+							<text style="font-size:9px" x="61" y="60">Columbus Platform:</text>
 							<text style="font-size:9px" x="61" y="70">The Guiding Principles</text>
 							<text style="font-size:9px" x="61" y="80">Of Reform Judaism</text>
 						</g>
@@ -1231,7 +1232,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Solomon Schechter</text>
 							<text style="font-size:4px" x="61" y="125">1896</text>
 							<text style="font-size:9px" x="61" y="60">Studies in Judaism -</text>
-							<text style="font-size:9px" x="61" y="70">The Dogmas of Judaism</text>
+							<text style="font-size:9px" x="61" y="70">The Dogmas</text>
+							<text style="font-size:9px" x="61" y="80">of Judaism</text>
 						</g>
 					</svg>
 				</div>

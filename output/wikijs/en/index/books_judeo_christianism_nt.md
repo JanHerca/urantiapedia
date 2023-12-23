@@ -596,12 +596,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Judas</text>
+							<text style="font-size:9px" x="61" y="60">Jude</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Judas</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jude</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/en/Bible/Jude" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>

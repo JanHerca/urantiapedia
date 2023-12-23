@@ -383,7 +383,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Ernest Wood and S.V. Subrahmanyam (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">E. Wood & S.V. Subrahmanyam (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
 							<text style="font-size:9px" x="61" y="60">The Garuda</text>
 							<text style="font-size:9px" x="61" y="70">Purana</text>
@@ -408,7 +408,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Swami Vijnanananda (Hari Prasanna Chatterji) (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Swami Vijnanananda</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">The S'rimad Devî</text>
 							<text style="font-size:9px" x="61" y="70">Bhâgawatam</text>
@@ -433,7 +433,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Swami Vijnanananda (Hari Prasanna Chatterji) (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Swami Vijnanananda</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">The Devî Gita</text>
 						</g>
@@ -793,7 +793,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George Thibaut (tr.); Râmânuja (comm.)</text>
+							<text style="font-size:5px" x="61" y="22">G. Thibaut (tr.); Râmânuja (comm.)</text>
 							<text style="font-size:4px" x="61" y="125">1904</text>
 							<text style="font-size:9px" x="61" y="60">The</text>
 							<text style="font-size:9px" x="61" y="70">Vedântâ-Sûtras</text>
@@ -819,7 +819,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George Thibaut (tr.); with commentary Sankarâkârya</text>
+							<text style="font-size:5px" x="61" y="22">G. Thibaut (tr.); Sankarâkârya (comm.)</text>
 							<text style="font-size:4px" x="61" y="125">1890</text>
 							<text style="font-size:9px" x="61" y="60">The</text>
 							<text style="font-size:9px" x="61" y="70">Vedântâ-Sûtras</text>
@@ -846,7 +846,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George Thibaut (tr.); with commentary Sankarâkârya</text>
+							<text style="font-size:5px" x="61" y="22">G. Thibaut (tr.); Sankarâkârya (comm.)</text>
 							<text style="font-size:4px" x="61" y="125">1896</text>
 							<text style="font-size:9px" x="61" y="60">The</text>
 							<text style="font-size:9px" x="61" y="70">Vedântâ-Sûtras</text>
@@ -873,7 +873,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Charles Johnston, translation and commentaries</text>
+							<text style="font-size:5px" x="61" y="22">Charles Johnston</text>
 							<text style="font-size:4px" x="61" y="125">1946</text>
 							<text style="font-size:9px" x="61" y="60">The Crest-Jewel</text>
 							<text style="font-size:9px" x="61" y="70">of Wisdom and</text>
@@ -1008,7 +1008,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Alladi Mahadeva Sastri (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1920</text>
 							<text style="font-size:9px" x="61" y="60">Dakshinamurti</text>
-							<text style="font-size:9px" x="61" y="60">Stotra</text>
+							<text style="font-size:9px" x="61" y="70">Stotra</text>
 						</g>
 					</svg>
 				</div>
@@ -1056,7 +1056,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Kalidasa, (fifth century C.E.); Arthur W. Ryder (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Kalidasa; Arthur W. Ryder (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1914</text>
 							<text style="font-size:9px" x="61" y="60">Kalidasa:</text>
 							<text style="font-size:9px" x="61" y="70">Translations of</text>
@@ -1108,7 +1108,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Vemana (17th century), from the Telugu C.P. Brown (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Vemana; C.P. Brown (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1829</text>
 							<text style="font-size:9px" x="61" y="60">Verses of Vemana</text>
 						</g>
@@ -1116,7 +1116,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Verses of Vemana</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Vemana (17th century), from the Telugu C.P. Brown (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Vemana (17th century); C.P. Brown (tr. from the Telugu)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -1132,15 +1132,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">(Caurapañcāśikā) Bilhana, Edward Powys Mathers (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Bilhana; E. Powys Mathers (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
 							<text style="font-size:9px" x="61" y="60">Black Marigolds</text>
+							<text style="font-size:9px" x="61" y="70">(Caurapañcāśikā)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Black Marigolds</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">(Caurapañcāśikā) Bilhana, Edward Powys Mathers (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Bilhana; Edward Powys Mathers (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -1361,7 +1362,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Mahendra Nath Gupta, Swami Abhedananda (ed.)</text>
+							<text style="font-size:5px" x="61" y="22">M. Nath Gupta, S. Abhedananda (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">1907</text>
 							<text style="font-size:9px" x="61" y="60">The Gospel</text>
 							<text style="font-size:9px" x="61" y="70">of Ramakrishna</text>
