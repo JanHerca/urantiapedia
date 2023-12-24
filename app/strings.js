@@ -1552,13 +1552,13 @@ const Strings = {
 		en: "{0}, line {1}: Cannot extract section",
 		es: "{0}, línea {1}: No se pudo extraer la sección"
 	},
-	"bible_section_not_number": {
-		en: "{0}, chapter {1}: Chapter is not a number",
-		es: "{0}, capítulo {1}: El capítulo no es un número"
-	},
 	"bible_section_order": {
 		en: "{0}, line {1}: Section before chapter?",
 		es: "{0}, línea {1}: Sección antes de capítulo?"
+	},
+	"bible_chapter_not_found": {
+		en: "{0}, chapter {1}: Chapter title is not found",
+		es: "{0}, capítulo {1}: El capítulo no se encuentra"
 	},
 	"bible_chapter_missing_verses": {
 		en: "{0}, chapter {1}: Chapter has some missing verses: {2}",

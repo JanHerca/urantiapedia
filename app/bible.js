@@ -220,29 +220,34 @@ class Bible {
 	 */
 	writeFileToWikijs = (filePath, book, chapter, book_bibleref) => {
 		return new Promise((resolve, reject) => {
-			const chIndex = parseInt(chapter.title);
-			const refs = (book_bibleref && !isNaN(chIndex) ? 
-				book_bibleref.refs.filter(r=> r.bible_chapter === chIndex) : []);
+			const chIndex = book.chapters
+				.findIndex(c => c.title === chapter.title);
+			if (chIndex === -1) {
+				reject(this.getError('bible_chapter_not_found', filePath, 
+					chapter.title));
+				return;
+			}
+			const refs = book_bibleref ? 
+				book_bibleref.refs.filter(r=> r.bible_chapter === chIndex + 1) 
+				: [];
 			const wfootnotes = this.footnotesToWikijs(refs);
 			const fnStyle = (wfootnotes.length > 10 ? 
 				' style="column-width: 30em;"' : '');
 			const foundVers = [];
 			const missingVers = [];
-			if (isNaN(chIndex)) {
-				reject(this.getError('bible_section_not_number', filePath, 
-					chapter.title));
-				return;
-			}
 
 			//Header
 			let body = '';
 			let header = '';
 			const chapterText = Strings['bookChapter'][this.language];
-			const prevChapter = book.chapters
-				.find(c=>c.title === (chIndex - 1).toString());
-			const nextChapter = book.chapters
-				.find(c=>c.title === (chIndex + 1).toString());
-			const title = `"${book.title} - ${chapterText} ${chapter.title}"`;
+			const navText = `${book.title} - ${chapterText}`;
+			// const prevChapter = book.chapters
+			// 	.find(c=>c.title === (chIndex - 1).toString());
+			// const nextChapter = book.chapters
+			// 	.find(c=>c.title === (chIndex + 1).toString());
+			const prevChapter = book.chapters[chIndex - 1];
+			const nextChapter = book.chapters[chIndex + 1];
+			const title = `"${navText} ${chapter.title}"`;
 			const bookPath = book.path.startsWith('/' + this.language) ?
 				book.path : '/' + this.language + book.path;
 			const extraTag = (book_bibleref ? ['bible—' + book.titleEN.toLowerCase()] : []);
@@ -251,11 +256,13 @@ class Bible {
 			header += '\r\n';
 			const navigation = getWikijsNavLinks({
 				prevTitle: prevChapter ? 
-					`${book.title} - ${chapterText} ${chIndex - 1}` : null, 
-				prevPath: prevChapter ? `${book.path}/${chIndex - 1}` : null, 
+					`${navText} ${prevChapter.title}` : null, 
+				prevPath: prevChapter ? 
+					`${book.path}/${prevChapter.title}` : null, 
 				nextTitle: nextChapter ?
-					`${book.title} - ${chapterText} ${chIndex + 1}` : null, 
-				nextPath: nextChapter ? `${book.path}/${chIndex + 1}` : null, 
+					`${navText} ${nextChapter.title}` : null, 
+				nextPath: nextChapter ? 
+					`${book.path}/${nextChapter.title}` : null, 
 				indexPath: `${bookPath}/${Strings['bookIndexName'].en}`
 			});
 			body += navigation;
@@ -426,13 +433,15 @@ class Bible {
 							`Index.html`);
 						let header = '';
 						let body = '';
-						header += getWikijsHeader(title);
+						header += getWikijsHeader(title, ['Bible', 'index']);
 						header += '\r\n';
 						body += `<ul>\r\n`;
 						body += book.chapters
-							.map((c, i) => {
-								const path = `${book.path}/${i+1}`;
-								const text = `${chapterName} ${i+1}`;
+							.map(c => {
+								const bookpath = this.language === 'en'?
+									`/en${book.path}` : `${book.path}`;
+								const path = `${bookpath}/${c.title}`;
+								const text = `${chapterName} ${c.title}`;
 								return `\t<li><a href="${path}">${text}</a></li>\r\n`;
 							})
 							.join(' ');
@@ -777,7 +786,7 @@ class Bible {
 						const filePathWiki = path.join(dirPath, 
 							`${bookName}_${chapter.title}.${format}`);
 						const filePathHTML = path.join(dirPath,
-							bookNameEN, `${(n + 1).toString()}.${format}`);
+							bookNameEN, `${chapter.title}.${format}`);
 
 						let p, book_bibleref;
 						if (bibleref) {
