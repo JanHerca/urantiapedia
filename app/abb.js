@@ -543,6 +543,7 @@ const BibleAbbreviations = {
 		'TesAbr': ['Testament of Abraham', '/Bible/Testament_of_Abraham'], 
 		'ApAdam': ['Apocalypse of Adam', '/Bible/Apocalypse_of_Adam'], 
 		'TesAdam': ['Testament of Adam', '/Bible/Testament_of_Adam'], 
+		'2 Bar': ['2 Baruch', '/Bible/2_Baruch'], 
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],

@@ -34,7 +34,7 @@ The Eastern Orthodox, Coptic Orthodox, Armenian Apostolic, and Syrian Orthodox c
 
 ## Index
 
-- [Chapter 1](/Bible/Psalm_151/1)
+- [Chapter 1](/en/Bible/Psalm_151/1)
 
 
 
