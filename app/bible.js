@@ -415,6 +415,8 @@ class Bible {
 			const indexName = Strings['bookIndexName'][this.language];
 			const chapterName = Strings['bookChapter'][this.language];
 			const bibleIndex = Strings['bibleFullIndex'][this.language];
+			const frontPage = 
+				(Strings['frontpage'][this.language]).toUpperCase();
 			const bibleIndexPath = `/${this.language}/index/bible`;
 			const indexPath = dirPath.replace('Bible', 'index');
 
@@ -427,6 +429,8 @@ class Bible {
 					return new Promise((resolve2, reject2) => {
 						const book = this.biblebooks
 							.find(book => book.title === name);
+						const bookpath = this.language === 'en'?
+								`/en${book.path}` : `${book.path}`;
 						const bookNameEN = book.titleEN.replace(/ /g, '_');
 						const title = `${book.title} - ${indexName}`;
 						const filePath = path.join(dirPath, bookNameEN, 
@@ -436,13 +440,12 @@ class Bible {
 						header += getWikijsHeader(title, ['Bible', 'index']);
 						header += '\r\n';
 						body += `<ul>\r\n`;
+						body += `\t<li><a href="${bookpath}">${frontPage}</a></li>\r\n`;
 						body += book.chapters
 							.map(c => {
-								const bookpath = this.language === 'en'?
-									`/en${book.path}` : `${book.path}`;
-								const path = `${bookpath}/${c.title}`;
+								const p = `${bookpath}/${c.title}`;
 								const text = `${chapterName} ${c.title}`;
-								return `\t<li><a href="${path}">${text}</a></li>\r\n`;
+								return `\t<li><a href="${p}">${text}</a></li>\r\n`;
 							})
 							.join(' ');
 						body += '</ul>\r\n';
