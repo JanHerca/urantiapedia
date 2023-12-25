@@ -545,6 +545,8 @@ const BibleAbbreviations = {
 		'TesAdam': ['Testament of Adam', '/Bible/Testament_of_Adam'], 
 		'2 Bar': ['2 Baruch', '/Bible/2_Baruch'], 
 		'3 Bar': ['3 Baruch', '/Bible/3_Baruch'], 
+		'4 Bar': ['4 Baruch', '/Bible/4_Baruch'], 
+		'MarIsa': ['Martyrdom of Isaiah', '/Bible/Martyrdom_of_Isaiah'], 
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],

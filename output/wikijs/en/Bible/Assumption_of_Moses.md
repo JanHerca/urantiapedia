@@ -19,7 +19,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 		<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
 		<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-		<text style="font-size:9px" x="61" y="60">Assumption of Moses</text>
+		<text style="font-size:9px" x="61" y="60">Assumption</text>
+		<text style="font-size:9px" x="61" y="70">of Moses</text>
 	</g>
 </svg>
 </div>

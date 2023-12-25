@@ -107,7 +107,8 @@ Emil Schürer writes: “Notwithstanding its many salient features of a characte
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/jubilees.html
-- Translation of R. H. Charles at _Wesley Center Online_: http://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-book-of-jubilees/
-- Translation of R. H. Charles at Pseudepigrapha: http://www.pseudepigrapha.com/jubilees/1.htm
-- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Jubilees
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/jubilees.html)
+- [Internet Archive](https://archive.org/details/Charles_The-Apocrypha-of-the-Old-Testament-vol-2_1913)
+- [Translation of R. H. Charles at _Wesley Center Online_](http://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-book-of-jubilees/)
+- [Translation of R. H. Charles at Pseudepigrapha](http://www.pseudepigrapha.com/jubilees/1.htm)
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Jubilees)

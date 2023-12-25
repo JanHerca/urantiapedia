@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
-## Old Testament (Canon)
+## Old Testament Canon
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -987,7 +987,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-bible urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
@@ -1195,7 +1195,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-bible urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
@@ -1218,7 +1218,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-bible urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
@@ -1422,7 +1422,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
 							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-							<text style="font-size:9px" x="61" y="60">Assumption of Moses</text>
+							<text style="font-size:9px" x="61" y="60">Assumption</text>
+							<text style="font-size:9px" x="61" y="70">of Moses</text>
 						</g>
 					</svg>
 				</div>
@@ -1438,7 +1439,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-bible urantiapedia-card-top-image">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
@@ -2033,7 +2034,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Baruch (or The Book of the Apocalypse of Baruch)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Baruch (or The Syriac Apocalypse of Baruch)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/en/Bible/2_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -2075,7 +2076,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="125">University of Pennsylvania, 1987</text>
+							<text style="font-size:4px" x="61" y="130">Robert A. Kraft (ed.)</text>
 							<text style="font-size:9px" x="61" y="60">4 Baruch</text>
 						</g>
 					</svg>
@@ -2083,7 +2085,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Baruch</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/4_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2098,15 +2100,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Cleodemus Malchus</text>
+							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
+							<text style="font-size:9px" x="61" y="60">Martyrdom</text>
+							<text style="font-size:9px" x="61" y="70">and Ascension</text>
+							<text style="font-size:9px" x="61" y="80">of Isaiah</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Cleodemus Malchus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Martyrdom and Ascension of Isaiah</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Martyrdom_of_Isaiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2496,29 +2502,6 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Isaac</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Martyrdom and Ascension of Isaiah</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Martyrdom and Ascension of Isaiah</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
