@@ -2153,7 +2153,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalms of David</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Psalms_of_David" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Psalms_of_David" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2178,7 +2178,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse of Elijah</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Apocalypse_of_Elijah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2193,107 +2193,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Eupolemus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Eupolemus</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Pseudo-Eupolemus</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Eupolemus</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocryphon of Ezekiel</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocryphon of Ezekiel</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Ezekiel the Tragedian</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ezekiel the Tragedian</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Greek Apocalypse of Ezra</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
+							<text style="font-size:9px" x="61" y="60">Greek</text>
+							<text style="font-size:9px" x="61" y="70">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="80">of Ezra</text>
 						</g>
 					</svg>
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Greek Apocalypse of Ezra</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Greek_Apocalypse_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2308,7 +2219,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
 							<text style="font-size:9px" x="61" y="60">Questions of Ezra</text>
 						</g>
 					</svg>
@@ -2316,7 +2228,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Questions of Ezra</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Questions_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2331,7 +2243,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
 							<text style="font-size:9px" x="61" y="60">Revelation of Ezra</text>
 						</g>
 					</svg>
@@ -2339,7 +2252,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Revelation of Ezra</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Revelation_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2354,7 +2267,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
 							<text style="font-size:9px" x="61" y="60">Vision of Ezra</text>
 						</g>
 					</svg>
@@ -2362,7 +2276,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vision of Ezra</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Vision_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>

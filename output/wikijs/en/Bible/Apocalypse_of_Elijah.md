@@ -52,7 +52,13 @@ Emil Schürer writes: “The prophet Elijah has this in common with Enoch, that 
 
 ## Index
 
+- [Chapter 1](/en/Bible/Apocalypse_of_Elijah/1)
+- [Chapter 2](/en/Bible/Apocalypse_of_Elijah/2)
+- [Chapter 3](/en/Bible/Apocalypse_of_Elijah/3)
+- [Chapter 4](/en/Bible/Apocalypse_of_Elijah/4)
+- [Chapter 5](/en/Bible/Apocalypse_of_Elijah/5)
 
+[Full Index of The Bible](/en/index/bible)
 
 ## External links
 

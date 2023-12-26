@@ -549,6 +549,10 @@ const BibleAbbreviations = {
 		'MarIsa': ['Martyrdom of Isaiah', '/Bible/Martyrdom_of_Isaiah', 'APO'], 
 		'PsDav': ['Psalms of David', '/Bible/Psalms_of_David', 'APO'], 
 		'ApEli': ['Apocalypse of Elijah', '/Bible/Apocalypse_of_Elijah', 'APO'], 
+		'ApEz': ['Greek Apocalypse of Ezra', '/Bible/Greek_Apocalypse_of_Ezra', 'APO'], 
+		'QuEz': ['Questions of Ezra', '/Bible/Questions_of_Ezra', 'APO'], 
+		'RevEz': ['Revelation of Ezra', '/Bible/Revelation_of_Ezra', 'APO'], 
+		'ViEz': ['Vision of Ezra', '/Bible/Vision_of_Ezra', 'APO'], 
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],
