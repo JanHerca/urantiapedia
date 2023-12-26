@@ -553,6 +553,7 @@ const BibleAbbreviations = {
 		'QuEz': ['Questions of Ezra', '/Bible/Questions_of_Ezra', 'APO'], 
 		'RevEz': ['Revelation of Ezra', '/Bible/Revelation_of_Ezra', 'APO'], 
 		'ViEz': ['Vision of Ezra', '/Bible/Vision_of_Ezra', 'APO'], 
+		'SiOr': ['Sibylline oracles', '/Bible/Sibylline_Oracles', 'APO'], 
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],
