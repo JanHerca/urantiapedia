@@ -1546,7 +1546,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">The Odes of Solomon</text>
+							<text style="font-size:9px" x="61" y="60">The Odes</text>
+							<text style="font-size:9px" x="61" y="70">of Solomon</text>
 						</g>
 					</svg>
 				</div>
@@ -1594,7 +1595,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">The Story of Ahikar</text>
+							<text style="font-size:9px" x="61" y="60">The Story</text>
+							<text style="font-size:9px" x="61" y="70">of Ahikar</text>
 						</g>
 					</svg>
 				</div>
@@ -1618,7 +1620,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Reuben</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Reuben</text>
 						</g>
 					</svg>
 				</div>
@@ -1642,7 +1645,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Simeon</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Simeon</text>
 						</g>
 					</svg>
 				</div>
@@ -1666,7 +1670,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Levi</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Levi</text>
 						</g>
 					</svg>
 				</div>
@@ -1690,7 +1695,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Judah</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Judah</text>
 						</g>
 					</svg>
 				</div>
@@ -1714,7 +1720,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Issachar</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Issachar</text>
 						</g>
 					</svg>
 				</div>
@@ -1738,7 +1745,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Zebulun</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Zebulun</text>
 						</g>
 					</svg>
 				</div>
@@ -1762,7 +1770,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Dan</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Dan</text>
 						</g>
 					</svg>
 				</div>
@@ -1786,7 +1795,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Naphtali</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Naphtali</text>
 						</g>
 					</svg>
 				</div>
@@ -1810,7 +1820,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Gad</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Gad</text>
 						</g>
 					</svg>
 				</div>
@@ -1834,7 +1845,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Asher</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Asher</text>
 						</g>
 					</svg>
 				</div>
@@ -1858,7 +1870,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Joseph</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Joseph</text>
 						</g>
 					</svg>
 				</div>
@@ -1882,7 +1895,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Benjamin</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Benjamin</text>
 						</g>
 					</svg>
 				</div>
@@ -1931,7 +1945,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Ante-Nicene Fathers, 1885-1903</text>
 							<text style="font-size:4px" x="61" y="130">Arthur Cleveland Coxe & Allan Menzies</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Abraham</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Abraham</text>
 						</g>
 					</svg>
 				</div>
@@ -1955,7 +1970,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">Nag Hammadi Library, 1981</text>
 							<text style="font-size:4px" x="61" y="130">George W. MacRae</text>
-							<text style="font-size:9px" x="61" y="60">Apocalypse of Adam</text>
+							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="70">of Adam</text>
 						</g>
 					</svg>
 				</div>
@@ -1979,7 +1995,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Book of the Cave of Treasures, 1927</text>
 							<text style="font-size:4px" x="61" y="130">E. A. Wallis Budge</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Adam</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Adam</text>
 						</g>
 					</svg>
 				</div>
@@ -2004,7 +2021,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
 							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-							<text style="font-size:9px" x="61" y="60">Life of Adam and Eve</text>
+							<text style="font-size:9px" x="61" y="60">Life of</text>
+							<text style="font-size:9px" x="61" y="70">Adam and Eve</text>
 						</g>
 					</svg>
 				</div>
@@ -2104,13 +2122,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
 							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
 							<text style="font-size:9px" x="61" y="60">Martyrdom</text>
-							<text style="font-size:9px" x="61" y="70">and Ascension</text>
 							<text style="font-size:9px" x="61" y="80">of Isaiah</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Martyrdom and Ascension of Isaiah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Martyrdom of Isaiah</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/en/Bible/Martyrdom_of_Isaiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -2127,15 +2144,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocalypse of Daniel</text>
+							<text style="font-size:4px" x="61" y="130">W. Wright</text>
+							<text style="font-size:3px" x="61" y="135">Some Apocryphal Psalms in Syriac, 1886-7</text>
+							<text style="font-size:9px" x="61" y="60">Psalms of David</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse of Daniel</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalms of David</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Psalms_of_David" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2150,77 +2168,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">More Psalms of David</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">More Psalms of David</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Demetrius the Chronographer</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Demetrius the Chronographer</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Eldad and Modad</text>
-						</g>
-					</svg>
-				</div>
-			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Eldad and Modad</div>
-			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
-				</a>
-			</div>
-		</div>
-	</div>
-	<div class="flex xs6 md4 lg3 xl3 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
-					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
-						<g transform="translate(-7,-5)">
-							<rect width="9.6" height="136.8" x="7" y="5" />
-							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocalypse of Elijah</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
+							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="70">of Elijah</text>
 						</g>
 					</svg>
 				</div>
