@@ -554,6 +554,8 @@ const BibleAbbreviations = {
 		'RevEz': ['Revelation of Ezra', '/Bible/Revelation_of_Ezra', 'APO'], 
 		'ViEz': ['Vision of Ezra', '/Bible/Vision_of_Ezra', 'APO'], 
 		'SiOr': ['Sibylline oracles', '/Bible/Sibylline_Oracles', 'APO'], 
+		'HePr': ['Hellenistic Synagogal Prayers', '/Bible/Hellenistic_Synagogal_Prayers', 'APO'], 
+		'TesIs': ['Testament of Isaac', '/Bible/Testament_of_Isaac', 'APO'], 
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],
