@@ -557,6 +557,8 @@ const BibleAbbreviations = {
 		'HePr': ['Hellenistic Synagogal Prayers', '/Bible/Hellenistic_Synagogal_Prayers', 'APO'], 
 		'TesIs': ['Testament of Isaac', '/Bible/Testament_of_Isaac', 'APO'], 
 		'LadJac': ['Ladder of Jacob', '/Bible/Ladder_of_Jacob', 'APO'], 
+		'TesJac': ['Testament of Jacob', '/Bible/Testament_of_Jacob', 'APO'], 
+		'TesJob': ['Testament of Job', '/Bible/Testament_of_Job', 'APO'], 
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],
