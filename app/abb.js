@@ -560,6 +560,7 @@ const BibleAbbreviations = {
 		'TesJac': ['Testament of Jacob', '/Bible/Testament_of_Jacob', 'APO'], 
 		'TesJob': ['Testament of Job', '/Bible/Testament_of_Job', 'APO'], 
 		'JosAsen': ['Joseph and Aseneth', '/Bible/Joseph_and_Aseneth', 'APO'], 
+		'5 Macc': ['5 Maccabees', '/Bible/5_Maccabees', 'APO'], 
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],

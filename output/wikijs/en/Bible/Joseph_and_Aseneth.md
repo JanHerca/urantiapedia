@@ -37,7 +37,35 @@ James Charlesworth writes: “That Joseph and Asenath is a fifth-century Christi
 
 ## Index
 
-- [Chapter 1](/en/Bible/Prayer_of_Jacob/1)
+- [Chapter 1](/en/Bible/Joseph_and_Aseneth/1)
+- [Chapter 2](/en/Bible/Joseph_and_Aseneth/2)
+- [Chapter 3](/en/Bible/Joseph_and_Aseneth/3)
+- [Chapter 4](/en/Bible/Joseph_and_Aseneth/4)
+- [Chapter 5](/en/Bible/Joseph_and_Aseneth/5)
+- [Chapter 6](/en/Bible/Joseph_and_Aseneth/6)
+- [Chapter 7](/en/Bible/Joseph_and_Aseneth/7)
+- [Chapter 8](/en/Bible/Joseph_and_Aseneth/8)
+- [Chapter 9](/en/Bible/Joseph_and_Aseneth/9)
+- [Chapter 10](/en/Bible/Joseph_and_Aseneth/10)
+- [Chapter 11](/en/Bible/Joseph_and_Aseneth/11)
+- [Chapter 12](/en/Bible/Joseph_and_Aseneth/12)
+- [Chapter 13](/en/Bible/Joseph_and_Aseneth/13)
+- [Chapter 14](/en/Bible/Joseph_and_Aseneth/14)
+- [Chapter 15](/en/Bible/Joseph_and_Aseneth/15)
+- [Chapter 16](/en/Bible/Joseph_and_Aseneth/16)
+- [Chapter 17](/en/Bible/Joseph_and_Aseneth/17)
+- [Chapter 18](/en/Bible/Joseph_and_Aseneth/18)
+- [Chapter 19](/en/Bible/Joseph_and_Aseneth/19)
+- [Chapter 20](/en/Bible/Joseph_and_Aseneth/20)
+- [Chapter 21](/en/Bible/Joseph_and_Aseneth/21)
+- [Chapter 22](/en/Bible/Joseph_and_Aseneth/22)
+- [Chapter 23](/en/Bible/Joseph_and_Aseneth/23)
+- [Chapter 24](/en/Bible/Joseph_and_Aseneth/24)
+- [Chapter 25](/en/Bible/Joseph_and_Aseneth/25)
+- [Chapter 26](/en/Bible/Joseph_and_Aseneth/26)
+- [Chapter 27](/en/Bible/Joseph_and_Aseneth/27)
+- [Chapter 28](/en/Bible/Joseph_and_Aseneth/28)
+- [Chapter 29](/en/Bible/Joseph_and_Aseneth/29)
 
 
 
