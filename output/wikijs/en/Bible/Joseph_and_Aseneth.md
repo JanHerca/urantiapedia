@@ -47,6 +47,5 @@ James Charlesworth writes: “That Joseph and Asenath is a fifth-century Christi
 ## External links
 
 - [Early Jewish Writings](https://www.earlyjewishwritings.com/aseneth.html)
-- [Internet Archive](https://archive.org/details/the-old-testament-pseudepigrapha-vol.-2-expansions-of-the-old-testament-and-lege/page/715/mode/2up?view=theater)
-- [The Aseneth Home Page](https://markgoodacre.org/aseneth/)
+- [Internet Archive](https://archive.org/details/josephasenathcon00broo/page/n3/mode/2up?view=theater)
 - [Wikipedia](https://en.wikipedia.org/wiki/Joseph_and_Aseneth)
