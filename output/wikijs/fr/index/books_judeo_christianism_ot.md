@@ -2319,7 +2319,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 2, 1985</text>
 							<text style="font-size:9px" x="61" y="60">Hellenistic</text>
 							<text style="font-size:9px" x="61" y="70">Synagogal</text>
-							<text style="font-size:9px" x="61" y="80">Prayers</text>
+							<text style="font-size:9px" x="61" y="80">Hellenistic</text>
 						</g>
 					</svg>
 				</div>

@@ -1,5 +1,5 @@
 ---
-title: "Religious books of Hinduism"
+title: "Libros religiosos del hinduismo"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -9,7 +9,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
 
-## Vedas: Rig Veda, Sama Veda, Yajur Veda and Atharva Veda
+## Vedas: Rig Veda, Sama Veda, Yajur Veda y Atharva Veda
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -22,16 +22,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ralph Griffith (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1896</text>
-							<text style="font-size:9px" x="61" y="60">The Rig-Veda</text>
+							<text style="font-size:9px" x="61" y="60">El Rig-Veda</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Rig-Veda</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Rig-Veda</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ralph Griffith (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -46,19 +46,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">F. Max Müller (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1891</text>
-							<text style="font-size:9px" x="61" y="60">Vedic Hymns,</text>
-							<text style="font-size:9px" x="61" y="70">Part I (SBE 32),</text>
-							<text style="font-size:9px" x="61" y="80">Hymns to the Maruts,</text>
-							<text style="font-size:9px" x="61" y="90">Rudra, Vâyu and Vâta</text>
+							<text style="font-size:9px" x="61" y="60">Himnos védicos,</text>
+							<text style="font-size:9px" x="61" y="70">Parte I (SBE 32),</text>
+							<text style="font-size:9px" x="61" y="80">Himnos a los Maruts,</text>
+							<text style="font-size:9px" x="61" y="90">Rudra, Vâyu y Vâta</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vedic Hymns, Part I (SBE 32), Hymns to the Maruts, Rudra, Vâyu and Vâta</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Himnos védicos, Parte I (SBE 32), Himnos a los Maruts, Rudra, Vâyu y Vâta</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">F. Max Müller (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -73,18 +73,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Hermann Oldenberg (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
-							<text style="font-size:9px" x="61" y="60">Vedic Hymns,</text>
-							<text style="font-size:9px" x="61" y="70">Part II (SBE 46),</text>
-							<text style="font-size:9px" x="61" y="80">Hymns to Agni</text>
+							<text style="font-size:9px" x="61" y="60">Himnos védicos,</text>
+							<text style="font-size:9px" x="61" y="70">Parte II (SBE 46),</text>
+							<text style="font-size:9px" x="61" y="80">Himnos a Agni</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vedic Hymns, Part II (SBE 46), Hymns to Agni</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Himnos védicos, Parte II (SBE 46), Himnos a Agni</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Hermann Oldenberg (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -99,18 +99,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">A.A. Macdonell</text>
 							<text style="font-size:4px" x="61" y="125">1917</text>
-							<text style="font-size:9px" x="61" y="60">A Vedic Reader</text>
-							<text style="font-size:9px" x="61" y="70">for Students</text>
-							<text style="font-size:9px" x="61" y="80">(excerpts)</text>
+							<text style="font-size:9px" x="61" y="60">Un lector védico</text>
+							<text style="font-size:9px" x="61" y="70">para estudiantes</text>
+							<text style="font-size:9px" x="61" y="80">(extractos)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Vedic Reader for Students (excerpts)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Un lector védico para estudiantes (extractos)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">A.A. Macdonell</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -125,16 +125,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ralph Griffith (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1895</text>
-							<text style="font-size:9px" x="61" y="60">The Sama-Veda</text>
+							<text style="font-size:9px" x="61" y="60">El Sama-Veda</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sama-Veda</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Sama-Veda</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ralph Griffith (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -149,18 +149,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur Berriedale Keith (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1914</text>
-							<text style="font-size:9px" x="61" y="60">The Yajur Veda</text>
+							<text style="font-size:9px" x="61" y="60">El Yajur Veda</text>
 							<text style="font-size:9px" x="61" y="70">(Taittiriya</text>
 							<text style="font-size:9px" x="61" y="80">Sanhita)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Yajur Veda (Taittiriya Sanhita)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Yajur Veda (Taittiriya Sanhita)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Berriedale Keith (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -175,18 +175,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ralph T.H. Griffith (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1899</text>
-							<text style="font-size:9px" x="61" y="60">The Texts of</text>
-							<text style="font-size:9px" x="61" y="70">the White</text>
-							<text style="font-size:9px" x="61" y="80">Yajurveda</text>
+							<text style="font-size:9px" x="61" y="60">Los Textos del</text>
+							<text style="font-size:9px" x="61" y="70">Yajurveda</text>
+							<text style="font-size:9px" x="61" y="80">Blanco</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Texts of the White Yajurveda</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los Textos del Yajurveda Blanco</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ralph T.H. Griffith (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -201,17 +201,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ralph T.H. Griffith (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1895-6</text>
-							<text style="font-size:9px" x="61" y="60">The Hymns of</text>
-							<text style="font-size:9px" x="61" y="70">the Atharvaveda</text>
+							<text style="font-size:9px" x="61" y="60">Los Himnos del</text>
+							<text style="font-size:9px" x="61" y="70">Atharvaveda</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Hymns of the Atharvaveda</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los Himnos del Atharvaveda</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ralph T.H. Griffith (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -226,16 +226,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Maurice Bloomfield (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
-							<text style="font-size:9px" x="61" y="60">The Atharva-Veda</text>
+							<text style="font-size:9px" x="61" y="60">El Atharva-Veda</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Atharva-Veda</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Atharva-Veda</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Maurice Bloomfield (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -255,17 +255,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1879</text>
-							<text style="font-size:9px" x="61" y="60">The Upanishads,</text>
-							<text style="font-size:9px" x="61" y="70">Part I (SBE 1)</text>
+							<text style="font-size:9px" x="61" y="60">Los Upanishads,</text>
+							<text style="font-size:9px" x="61" y="70">Parte I (SBE 1)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Upanishads, Part I (SBE 1)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los Upanishads, Parte I (SBE 1)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Max Müller (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -280,17 +280,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Max Müller (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1884</text>
-							<text style="font-size:9px" x="61" y="60">The Upanishads,</text>
-							<text style="font-size:9px" x="61" y="70">Part II (SBE 15)</text>
+							<text style="font-size:9px" x="61" y="60">Los Upanishads,</text>
+							<text style="font-size:9px" x="61" y="70">Parte II (SBE 15)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Upanishads, Part II (SBE 15)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los Upanishads, Parte II (SBE 15)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Max Müller (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -305,17 +305,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">K. Narayanasvami Aiyar</text>
 							<text style="font-size:4px" x="61" y="125">1914</text>
-							<text style="font-size:9px" x="61" y="60">Thirty Minor</text>
-							<text style="font-size:9px" x="61" y="70">Upanishads</text>
+							<text style="font-size:9px" x="61" y="60">Treinta Upanishads</text>
+							<text style="font-size:9px" x="61" y="70">menores</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Thirty Minor Upanishads</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Treinta Upanishads menores</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">K. Narayanasvami Aiyar</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -330,17 +330,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Johnston (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1889</text>
-							<text style="font-size:9px" x="61" y="60">From the</text>
+							<text style="font-size:9px" x="61" y="60">De los</text>
 							<text style="font-size:9px" x="61" y="70">Upanishads</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">From the Upanishads</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">De los Upanishads</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Johnston (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -360,17 +360,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">H.H. Wilson</text>
 							<text style="font-size:4px" x="61" y="125">1840</text>
-							<text style="font-size:9px" x="61" y="60">The Vishnu</text>
+							<text style="font-size:9px" x="61" y="60">El Vishnu</text>
 							<text style="font-size:9px" x="61" y="70">Purana</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Vishnu Purana</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Vishnu Purana</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">H.H. Wilson</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -385,17 +385,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E. Wood & S.V. Subrahmanyam (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
-							<text style="font-size:9px" x="61" y="60">The Garuda</text>
+							<text style="font-size:9px" x="61" y="60">El Garuda</text>
 							<text style="font-size:9px" x="61" y="70">Purana</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Garuda Purana</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Wood and S.V. Subrahmanyam (tr.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Garuda Purana</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Wood y S.V. Subrahmanyam (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -410,17 +410,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Swami Vijnanananda</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
-							<text style="font-size:9px" x="61" y="60">The S'rimad Devî</text>
+							<text style="font-size:9px" x="61" y="60">El S'rimad Devî</text>
 							<text style="font-size:9px" x="61" y="70">Bhâgawatam</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The S'rimad Devî Bhâgawatam</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El S'rimad Devî Bhâgawatam</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Swami Vijnanananda (Hari Prasanna Chatterji) (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -444,7 +444,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Swami Vijnanananda (Hari Prasanna Chatterji) (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -459,18 +459,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W. Hollings (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1848</text>
-							<text style="font-size:9px" x="61" y="60">The Prem Sagur</text>
+							<text style="font-size:9px" x="61" y="60">El Prem Sagur</text>
 							<text style="font-size:9px" x="61" y="70">(Prem Sagar)</text>
 							<text style="font-size:9px" x="61" y="80">Lallu Lal</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Prem Sagur (Prem Sagar) Lallu Lal</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Prem Sagur (Prem Sagar) Lallu Lal</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W. Hollings (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -485,18 +485,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry David Thoreau (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1931</text>
-							<text style="font-size:9px" x="61" y="60">The Transmigration</text>
-							<text style="font-size:9px" x="61" y="70">of the</text>
-							<text style="font-size:9px" x="61" y="80">Seven Brahmans</text>
+							<text style="font-size:9px" x="61" y="60">La transmigración</text>
+							<text style="font-size:9px" x="61" y="70">de los</text>
+							<text style="font-size:9px" x="61" y="80">siete brahmanes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Transmigration of the Seven Brahmans</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La transmigración de los siete brahmanes</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry David Thoreau (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -512,24 +512,24 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Rishi Singh Gherwal</text>
 							<text style="font-size:4px" x="61" y="125">1930</text>
 							<text style="font-size:9px" x="61" y="60">Kundalini:</text>
-							<text style="font-size:9px" x="61" y="70">The Mother</text>
-							<text style="font-size:9px" x="61" y="80">of the Universe</text>
+							<text style="font-size:9px" x="61" y="70">La Madre</text>
+							<text style="font-size:9px" x="61" y="80">del Universo</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kundalini: The Mother of the Universe</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kundalini: La Madre del Universo</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rishi Singh Gherwal</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
 </div>
 
-## Other Primary Texts
+## Otros textos primarios
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -542,17 +542,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">George Bühler (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1886</text>
-							<text style="font-size:9px" x="61" y="60">The Laws of Manu</text>
+							<text style="font-size:9px" x="61" y="60">Las Leyes de Manu</text>
 							<text style="font-size:9px" x="61" y="70">(SBE, vol. 25)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Laws of Manu (Sacred Books of the East, vol. 25)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Las Leyes de Manu (Libros Sagrados de Oriente, vol. 25)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George Bühler (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -567,18 +567,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">George Bühler (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1879</text>
-							<text style="font-size:9px" x="61" y="60">The Sacred Laws</text>
-							<text style="font-size:9px" x="61" y="70">of the Âryas</text>
-							<text style="font-size:9px" x="61" y="80">Part I (SBE 2)</text>
+							<text style="font-size:9px" x="61" y="60">Las Leyes Sagradas</text>
+							<text style="font-size:9px" x="61" y="70">de los Âryas</text>
+							<text style="font-size:9px" x="61" y="80">Parte I (SBE 2)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sacred Laws of the Âryas Part I (SBE 2) (Sacred Books of the East, Vol. 2)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Las Leyes Sagradas de los Âryas Parte I (SBE 2) (Libros Sagrados de Oriente, Vol. 2)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George Bühler (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -593,18 +593,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">George Bühler (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1879</text>
-							<text style="font-size:9px" x="61" y="60">The Sacred Laws</text>
-							<text style="font-size:9px" x="61" y="70">of the Âryas</text>
-							<text style="font-size:9px" x="61" y="80">Part II (SBE 14)</text>
+							<text style="font-size:9px" x="61" y="60">Las Leyes Sagradas</text>
+							<text style="font-size:9px" x="61" y="70">de los Âryas</text>
+							<text style="font-size:9px" x="61" y="80">Parte II (SBE 14)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sacred Laws of the Âryas Part II (SBE 14) (Sacred Books of the East, Vol. 14)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Las Leyes Sagradas de los Âryas Parte II (SBE 14) (Libros Sagrados de Oriente, Vol. 14)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George Bühler (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -619,18 +619,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Julius Jolly (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1880</text>
-							<text style="font-size:9px" x="61" y="60">The Institutes</text>
-							<text style="font-size:9px" x="61" y="70">of Vishnu</text>
+							<text style="font-size:9px" x="61" y="60">Los Institutos</text>
+							<text style="font-size:9px" x="61" y="70">de Vishnu</text>
 							<text style="font-size:9px" x="61" y="80">(SBE 7)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Institutes of Vishnu (SBE 7) (Sacred Books of the East, Vol. 7)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los Institutos de Vishnu (SBE 7) (Libros Sagrados de Oriente, Vol. 7)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Julius Jolly (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -645,18 +645,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Julius Jolly (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1880</text>
-							<text style="font-size:9px" x="61" y="60">The Minor</text>
-							<text style="font-size:9px" x="61" y="70">Law Books</text>
+							<text style="font-size:9px" x="61" y="60">Los Libros de</text>
+							<text style="font-size:9px" x="61" y="70">Leyes Menores</text>
 							<text style="font-size:9px" x="61" y="80">(SBE 33)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Minor Law Books (SBE 33) (Sacred Books of the East, Vol. 33)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los Libros de Leyes Menores (SBE 33) (Libros Sagrados de Oriente, Vol. 33)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Julius Jolly (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -673,16 +673,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125"> </text>
 							<text style="font-size:9px" x="61" y="60">Satapatha</text>
 							<text style="font-size:9px" x="61" y="70">Brahmana</text>
-							<text style="font-size:9px" x="61" y="80">(5 parts)</text>
+							<text style="font-size:9px" x="61" y="80">(5 partes)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Satapatha Brahmana, (5 parts)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Satapatha Brahmana, (5 partes)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book"> </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -697,17 +697,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Hermann Oldenberg (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1886-1892</text>
-							<text style="font-size:9px" x="61" y="60">The Grihya Sutras</text>
-							<text style="font-size:9px" x="61" y="70">(2 parts)</text>
+							<text style="font-size:9px" x="61" y="60">El Grihya Sutras</text>
+							<text style="font-size:9px" x="61" y="70">(2 partes)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Grihya Sutras, (2 parts)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Grihya Sutras, (2 partes)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Hermann Oldenberg (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -733,7 +733,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Mahabharata</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -754,7 +754,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ramayana</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -775,7 +775,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bhagavad Gita</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -795,18 +795,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G. Thibaut (tr.); Râmânuja (comm.)</text>
 							<text style="font-size:4px" x="61" y="125">1904</text>
-							<text style="font-size:9px" x="61" y="60">The</text>
+							<text style="font-size:9px" x="61" y="60">El</text>
 							<text style="font-size:9px" x="61" y="70">Vedântâ-Sûtras</text>
 							<text style="font-size:9px" x="61" y="80">(SBE 48)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Vedântâ-Sûtras (SBE 48) (Sacred Books of the East, Vol. 48)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Vedântâ-Sûtras (SBE 48) (Libros Sagrados de Oriente, Vol. 48)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George Thibaut (tr.); with commentary Râmânuja</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -821,19 +821,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G. Thibaut (tr.); Sankarâkârya (comm.)</text>
 							<text style="font-size:4px" x="61" y="125">1890</text>
-							<text style="font-size:9px" x="61" y="60">The</text>
+							<text style="font-size:9px" x="61" y="60">El</text>
 							<text style="font-size:9px" x="61" y="70">Vedântâ-Sûtras</text>
-							<text style="font-size:9px" x="61" y="80">Part I</text>
+							<text style="font-size:9px" x="61" y="80">Parte I</text>
 							<text style="font-size:9px" x="61" y="90">(SBE 34)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Vedântâ-Sûtras Part I (SBE 34) (Sacred Books of the East, Vol. 34)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Vedântâ-Sûtras Parte I (SBE 34) (Libros Sagrados de Oriente, Vol. 34)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George Thibaut (tr.); with commentary Sankarâkârya</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -848,19 +848,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G. Thibaut (tr.); Sankarâkârya (comm.)</text>
 							<text style="font-size:4px" x="61" y="125">1896</text>
-							<text style="font-size:9px" x="61" y="60">The</text>
+							<text style="font-size:9px" x="61" y="60">El</text>
 							<text style="font-size:9px" x="61" y="70">Vedântâ-Sûtras</text>
-							<text style="font-size:9px" x="61" y="80">Part II</text>
+							<text style="font-size:9px" x="61" y="80">Parte II</text>
 							<text style="font-size:9px" x="61" y="90">(SBE 38)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Vedântâ-Sûtras Part II (SBE 38) (Sacred Books of the East, Vol. 38)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Vedântâ-Sûtras Parte II (SBE 38) (Libros Sagrados de Oriente, Vol. 38)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George Thibaut (tr.); with commentary Sankarâkârya</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -875,19 +875,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Johnston</text>
 							<text style="font-size:4px" x="61" y="125">1946</text>
-							<text style="font-size:9px" x="61" y="60">The Crest-Jewel</text>
-							<text style="font-size:9px" x="61" y="70">of Wisdom and</text>
-							<text style="font-size:9px" x="61" y="80">other writings</text>
-							<text style="font-size:9px" x="61" y="90">of Śankarâchârya</text>
+							<text style="font-size:9px" x="61" y="60">La Cresta-Joya</text>
+							<text style="font-size:9px" x="61" y="70">de la Sabiduría</text>
+							<text style="font-size:9px" x="61" y="80">y otros escritos</text>
+							<text style="font-size:9px" x="61" y="90">de Śankarâchârya</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Crest-Jewel of Wisdom and other writings of Śankarâchârya</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Johnston, translation and commentaries</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Cresta-Joya de la Sabiduría y otros escritos de Śankarâchârya</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Johnston, translation y commentaries</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -902,16 +902,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">L.D. Barnett</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
-							<text style="font-size:9px" x="61" y="60">Brahma-Knowledge</text>
+							<text style="font-size:9px" x="61" y="60">Brahma-</text>
+							<text style="font-size:9px" x="61" y="70">Conocimiento</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Brahma-Knowledge</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Brahma-Conocimiento</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">L.D. Barnett</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -926,25 +927,25 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">S. Venkataramanan (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
-							<text style="font-size:9px" x="61" y="60">Select Works</text>
-							<text style="font-size:9px" x="61" y="70">of Sri</text>
+							<text style="font-size:9px" x="61" y="60">Obras seleccionadas</text>
+							<text style="font-size:9px" x="61" y="70">de Sri</text>
 							<text style="font-size:9px" x="61" y="80">Sankaracharya</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Select Works of Sri Sankaracharya</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Obras seleccionadas de Sri Sankaracharya,</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Venkataramanan (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
 </div>
 
-## Later Texts
+## Textos posteriores
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -957,17 +958,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Johnston</text>
 							<text style="font-size:4px" x="61" y="125">1912</text>
-							<text style="font-size:9px" x="61" y="60">The Yoga Sutras</text>
-							<text style="font-size:9px" x="61" y="70">of Patanjali</text>
+							<text style="font-size:9px" x="61" y="60">Los Yoga Sutras</text>
+							<text style="font-size:9px" x="61" y="70">de Patanjali</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Yoga Sutras of Patanjali</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los Yoga Sutras de Patanjali</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Johnston</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -982,17 +983,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Pancham Sinh (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1914</text>
-							<text style="font-size:9px" x="61" y="60">The Hatha Yoga</text>
+							<text style="font-size:9px" x="61" y="60">El Hatha Yoga</text>
 							<text style="font-size:9px" x="61" y="70">Pradipika</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Hatha Yoga Pradipika</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Hatha Yoga Pradipika</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Pancham Sinh (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1017,7 +1018,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Alladi Mahadeva Sastri (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1032,18 +1033,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">James R. Ballantyne (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1885</text>
-							<text style="font-size:9px" x="61" y="60">The Sánkhya</text>
-							<text style="font-size:9px" x="61" y="70">Aphorisms</text>
-							<text style="font-size:9px" x="61" y="80">of Kapila</text>
+							<text style="font-size:9px" x="61" y="60">Los aforismos</text>
+							<text style="font-size:9px" x="61" y="70">Sánkhya</text>
+							<text style="font-size:9px" x="61" y="80">de Kapila</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sánkhya Aphorisms of Kapila</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los aforismos Sánkhya de Kapila</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James R. Ballantyne (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1059,18 +1060,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Kalidasa; Arthur W. Ryder (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1914</text>
 							<text style="font-size:9px" x="61" y="60">Kalidasa:</text>
-							<text style="font-size:9px" x="61" y="70">Translations of</text>
-							<text style="font-size:9px" x="61" y="80">Shakuntala and</text>
-							<text style="font-size:9px" x="61" y="90">Other Works</text>
+							<text style="font-size:9px" x="61" y="70">Traducciones</text>
+							<text style="font-size:9px" x="61" y="80">de Shakuntala</text>
+							<text style="font-size:9px" x="61" y="90">y otras obras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kalidasa: Translations of Shakuntala and Other Works</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kalidasa: Traducciones de Shakuntala y otras obras</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Kalidasa, (fifth century C.E.); Arthur W. Ryder (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1085,17 +1086,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Shudraka, Arthur W. Ryder (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1905</text>
-							<text style="font-size:9px" x="61" y="60">The Little</text>
-							<text style="font-size:9px" x="61" y="70">Clay Cart</text>
+							<text style="font-size:9px" x="61" y="60">El carrito</text>
+							<text style="font-size:9px" x="61" y="70">de barro</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Little Clay Cart</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El carrito de barro</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Shudraka, Arthur W. Ryder (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1110,16 +1111,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Vemana; C.P. Brown (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1829</text>
-							<text style="font-size:9px" x="61" y="60">Verses of Vemana</text>
+							<text style="font-size:9px" x="61" y="60">Versos de Vemana</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Verses of Vemana</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Vemana (17th century); C.P. Brown (tr. from the Telugu)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Versos de Vemana</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Vemana (siglo XVII); C.P. Brown (tr. from the Telugu)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1134,17 +1135,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Bilhana; E. Powys Mathers (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
-							<text style="font-size:9px" x="61" y="60">Black Marigolds</text>
+							<text style="font-size:9px" x="61" y="60">Caléndulas Negras</text>
 							<text style="font-size:9px" x="61" y="70">(Caurapañcāśikā)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Black Marigolds</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Caléndulas Negras</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Bilhana; Edward Powys Mathers (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1159,17 +1160,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sir Richard Burton (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1870</text>
-							<text style="font-size:9px" x="61" y="60">Vikram and</text>
-							<text style="font-size:9px" x="61" y="70">the Vampire</text>
+							<text style="font-size:9px" x="61" y="60">Vikram y</text>
+							<text style="font-size:9px" x="61" y="70">el Vampiro</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vikram and the Vampire</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vikram y el Vampiro</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Sir Richard Burton (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1182,20 +1183,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">F. Kingsbury and G.P. Phillips (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">F. Kingsbury y G.P. Phillips (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1829</text>
-							<text style="font-size:9px" x="61" y="60">Hymns of</text>
-							<text style="font-size:9px" x="61" y="70">the Tamil</text>
-							<text style="font-size:9px" x="61" y="80">Saivite Saints</text>
+							<text style="font-size:9px" x="61" y="60">Himnos de los</text>
+							<text style="font-size:9px" x="61" y="70">santos saivitas</text>
+							<text style="font-size:9px" x="61" y="80">tamiles</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hymns of the Tamil Saivite Saints</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">F. Kingsbury and G.P. Phillips (tr.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Himnos de los santos saivitas tamiles</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">F. Kingsbury y G.P. Phillips (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1210,16 +1211,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Kabir; R. Tagore (tr.); E. Underhill (intro.)</text>
 							<text style="font-size:4px" x="61" y="125">New York, The Macmillan Company 1915</text>
-							<text style="font-size:9px" x="61" y="60">Songs of Kabîr</text>
+							<text style="font-size:9px" x="61" y="60">Canciones de Kabîr</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Songs of Kabîr</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Kabir; Rabindranath Tagore (tr.); Evelyn Underhill (Introduction)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Canciones de Kabîr</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Kabir; Rabindranath Tagore (tr.); Evelyn Underhill (introducción)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1235,24 +1236,24 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Rishi Singh Gherwal</text>
 							<text style="font-size:4px" x="61" y="125">1930</text>
 							<text style="font-size:9px" x="61" y="60">Yoga Vashisht</text>
-							<text style="font-size:9px" x="61" y="70">or</text>
-							<text style="font-size:9px" x="61" y="80">Heaven Found</text>
+							<text style="font-size:9px" x="61" y="70">o</text>
+							<text style="font-size:9px" x="61" y="80">Cielo Hallado</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Yoga Vashisht or Heaven Found</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Yoga Vashisht o Cielo Hallado</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rishi Singh Gherwal</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
 </div>
 
-## Modern Books
+## Libros modernos
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -1265,16 +1266,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur Liebers</text>
 							<text style="font-size:4px" x="61" y="125">1960</text>
-							<text style="font-size:9px" x="61" y="60">Relax with Yoga</text>
+							<text style="font-size:9px" x="61" y="60">Relájate con Yoga</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Relax with Yoga</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Relájate con Yoga</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Liebers</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1295,11 +1296,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Great Systems of Yoga</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Grandes Sistemas de Yoga</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Wood</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1314,16 +1315,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Mary Frere</text>
 							<text style="font-size:4px" x="61" y="125">1868</text>
-							<text style="font-size:9px" x="61" y="60">Old Deccan Days</text>
+							<text style="font-size:9px" x="61" y="60">Días del</text>
+							<text style="font-size:9px" x="61" y="70">Antiguo Decán</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Old Deccan Days</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Días del Antiguo Decán</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Mary Frere</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1339,17 +1341,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">F. Max Müller</text>
 							<text style="font-size:4px" x="61" y="125">1898</text>
 							<text style="font-size:9px" x="61" y="60">Ramakrishna,</text>
-							<text style="font-size:9px" x="61" y="70">His Life</text>
-							<text style="font-size:9px" x="61" y="80">and Sayings</text>
+							<text style="font-size:9px" x="61" y="70">Su vida</text>
+							<text style="font-size:9px" x="61" y="80">y dichos</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ramakrishna, His Life and Sayings</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ramakrishna, Su vida y dichos</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">F. Max Müller</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1364,17 +1366,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">M. Nath Gupta, S. Abhedananda (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">1907</text>
-							<text style="font-size:9px" x="61" y="60">The Gospel</text>
-							<text style="font-size:9px" x="61" y="70">of Ramakrishna</text>
+							<text style="font-size:9px" x="61" y="60">El Evangelio</text>
+							<text style="font-size:9px" x="61" y="70">de Ramakrishna</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Gospel of Ramakrishna</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Evangelio de Ramakrishna</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Mahendra Nath Gupta, Swami Abhedananda (ed.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1389,17 +1391,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W.J. Wilkins</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
-							<text style="font-size:9px" x="61" y="60">Hindu Mythology</text>
-							<text style="font-size:9px" x="61" y="60">Vedic and Puranic</text>
+							<text style="font-size:9px" x="61" y="60">Mitología hindú,</text>
+							<text style="font-size:9px" x="61" y="70">védica y puránica</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hindu Mythology Vedic and Puranic</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Mitología hindú, védica y puránica</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W.J. Wilkins</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1414,16 +1416,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Swâmi Abhedânanda</text>
 							<text style="font-size:4px" x="61" y="125">1902</text>
-							<text style="font-size:9px" x="61" y="60">How To Be A Yogi</text>
+							<text style="font-size:9px" x="61" y="60">Cómo ser un yogui</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">How To Be A Yogi</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Cómo ser un yogui</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Swâmi Abhedânanda</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1438,16 +1440,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur W. Ryder</text>
 							<text style="font-size:4px" x="61" y="125">1912</text>
-							<text style="font-size:9px" x="61" y="60">Twenty-two Goblins</text>
+							<text style="font-size:9px" x="61" y="60">Veintidós duendes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Twenty-two Goblins</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Veintidós duendes</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur W. Ryder</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1462,16 +1464,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Joseph Jacobs</text>
 							<text style="font-size:4px" x="61" y="125">1912</text>
-							<text style="font-size:9px" x="61" y="60">Indian Fairy Tales</text>
+							<text style="font-size:9px" x="61" y="60">Cuentos indios</text>
+							<text style="font-size:9px" x="61" y="70">tradicionales</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Indian Fairy Tales</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Cuentos indios tradicionales</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Joseph Jacobs</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1486,17 +1489,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Donald A. Mackenzie</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
-							<text style="font-size:9px" x="61" y="60">Indian Myth</text>
-							<text style="font-size:9px" x="61" y="70">and Legend</text>
+							<text style="font-size:9px" x="61" y="60">Mitos y leyendas</text>
+							<text style="font-size:9px" x="61" y="70">indios</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Indian Myth and Legend</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Mitos y leyendas indios</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Donald A. Mackenzie</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1520,7 +1523,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Swami Vivekananda</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1535,16 +1538,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">S.N. Dasgupta</text>
 							<text style="font-size:4px" x="61" y="125">1927</text>
-							<text style="font-size:9px" x="61" y="60">Hindu Mysticism</text>
+							<text style="font-size:9px" x="61" y="60">Misticismo hindú</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hindu Mysticism</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Misticismo hindú</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">S.N. Dasgupta</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1559,16 +1562,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sister Nivedita (Margaret E. Noble)</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
-							<text style="font-size:9px" x="61" y="60">Kali the Mother</text>
+							<text style="font-size:9px" x="61" y="60">Kali la Madre</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kali the Mother</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kali la Madre</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Sister Nivedita (Margaret E. Noble)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1583,17 +1586,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sister Nivedita (Margaret E. Noble)</text>
 							<text style="font-size:4px" x="61" y="125">1904</text>
-							<text style="font-size:9px" x="61" y="60">The Web of</text>
-							<text style="font-size:9px" x="61" y="70">Indian Life</text>
+							<text style="font-size:9px" x="61" y="60">La red de</text>
+							<text style="font-size:9px" x="61" y="70">la vida india</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Web of Indian Life</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La red de la vida india</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Sister Nivedita (Margaret E. Noble)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1608,17 +1611,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sister Nivedita (Margaret E. Noble)</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
-							<text style="font-size:9px" x="61" y="60">Studies from</text>
-							<text style="font-size:9px" x="61" y="70">an Eastern Home</text>
+							<text style="font-size:9px" x="61" y="60">Estudios de</text>
+							<text style="font-size:9px" x="61" y="70">un hogar oriental</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Studies from an Eastern Home</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Estudios de un hogar oriental</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Sister Nivedita (Margaret E. Noble)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1642,7 +1645,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rabindranath Tagore</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1658,17 +1661,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Rabindranath Tagore</text>
 							<text style="font-size:4px" x="61" y="125">1915</text>
 							<text style="font-size:9px" x="61" y="60">Saddhana,</text>
-							<text style="font-size:9px" x="61" y="70">The Realisation</text>
-							<text style="font-size:9px" x="61" y="80">of Life</text>
+							<text style="font-size:9px" x="61" y="70">La realización</text>
+							<text style="font-size:9px" x="61" y="80">de la vida</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Saddhana, The Realisation of Life</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Saddhana, La realización de la vida</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rabindranath Tagore</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1683,16 +1686,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rabindranath Tagore</text>
 							<text style="font-size:4px" x="61" y="125">1916</text>
-							<text style="font-size:9px" x="61" y="60">The Crescent Moon</text>
+							<text style="font-size:9px" x="61" y="60">La luna creciente</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Crescent Moon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La luna creciente</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rabindranath Tagore</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1707,16 +1710,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rabindranath Tagore</text>
 							<text style="font-size:4px" x="61" y="125">1916</text>
-							<text style="font-size:9px" x="61" y="60">Fruit-Gathering</text>
+							<text style="font-size:9px" x="61" y="60">Recolección de frutas</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Fruit-Gathering</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Recolección de frutas</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rabindranath Tagore</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1731,16 +1734,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rabindranath Tagore</text>
 							<text style="font-size:4px" x="61" y="125">1916</text>
-							<text style="font-size:9px" x="61" y="60">Stray Birds</text>
+							<text style="font-size:9px" x="61" y="60">Pájaros callejeros</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Stray Birds</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pájaros callejeros</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rabindranath Tagore</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1755,17 +1758,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rabindranath Tagore</text>
 							<text style="font-size:4px" x="61" y="125">1915</text>
-							<text style="font-size:9px" x="61" y="60">The Home</text>
-							<text style="font-size:9px" x="61" y="70">and the World</text>
+							<text style="font-size:9px" x="61" y="60">El hogar</text>
+							<text style="font-size:9px" x="61" y="70">y el mundo</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Home and the World</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El hogar y el mundo</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rabindranath Tagore</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1780,16 +1783,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rabindranath Tagore</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
-							<text style="font-size:9px" x="61" y="60">Thought Relics</text>
+							<text style="font-size:9px" x="61" y="60">Reliquias</text>
+							<text style="font-size:9px" x="61" y="60">del pensamiento</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Thought Relics</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Reliquias del pensamiento</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rabindranath Tagore</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1804,16 +1808,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rabindranath Tagore</text>
 							<text style="font-size:4px" x="61" y="125">1915</text>
-							<text style="font-size:9px" x="61" y="60">Songs of Kabîr</text>
+							<text style="font-size:9px" x="61" y="60">Canciones de Kabîr</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Songs of Kabîr</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Canciones de Kabîr</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rabindranath Tagore</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>

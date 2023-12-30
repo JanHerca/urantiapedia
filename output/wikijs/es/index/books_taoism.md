@@ -25,11 +25,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The I Ching, Sacred Books of the East, vol. 16 (SBE 16)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The I Ching, Libros Sagrados de Oriente, vol. 16 (SBE 16)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Legge, (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -53,7 +53,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Legge (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -78,7 +78,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lao Tzu, Chuang Tzu; Jame Legge (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -103,7 +103,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Chuang Tzu; por Jame Legge (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -129,7 +129,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">C. Spurgeon Medhurst (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -142,21 +142,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">D.T. Suzuki and Paul Carus (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">D.T. Suzuki y Paul Carus (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
 							<text style="font-size:9px" x="61" y="60">The Canon of</text>
-							<text style="font-size:9px" x="61" y="70">Reason and Virtue</text>
+							<text style="font-size:9px" x="61" y="70">Reason y Virtue</text>
 							<text style="font-size:9px" x="61" y="80">(Lao-tze's</text>
 							<text style="font-size:9px" x="61" y="90">Tao Teh King)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Canon of Reason and Virtue (Lao-tze's Tao Teh King) Chinese and English</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">D.T. Suzuki and Paul Carus (tr.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Canon of Reason y Virtue (Lao-tze's Tao Teh King) Chinese y English</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">D.T. Suzuki y Paul Carus (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -182,7 +182,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -207,7 +207,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Anton Forke (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -220,7 +220,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki and Paul Carus</text>
+							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki y Paul Carus</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">T'ai Shang</text>
 							<text style="font-size:9px" x="61" y="70">Kan-Ying P'ien</text>
@@ -229,10 +229,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">T'ai Shang Kan-Ying P'ien</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki and Paul Carus</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki y Paul Carus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -245,7 +245,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki and Paul Carus</text>
+							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki y Paul Carus</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">Yin Chih Wen,</text>
 							<text style="font-size:9px" x="61" y="70">The Tract of</text>
@@ -255,10 +255,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Yin Chih Wen, The Tract of the Quiet Way</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki and Paul Carus</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki y Paul Carus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -282,7 +282,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Frederic Henry Balfour</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -309,7 +309,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Evan S. Morgan</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -322,7 +322,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Dwight Goddard and Henri Borel</text>
+							<text style="font-size:5px" x="61" y="22">Dwight Goddard y Henri Borel</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
 							<text style="font-size:9px" x="61" y="60">Laotzu's Tao</text>
 							<text style="font-size:9px" x="61" y="70">and Wu Wei</text>
@@ -330,11 +330,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Laotzu's Tao and Wu Wei</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard and Henri Borel</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Laotzu's Tao y Wu Wei</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard y Henri Borel</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -347,7 +347,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Dwight Goddard and Henri Borel</text>
+							<text style="font-size:5px" x="61" y="22">Dwight Goddard y Henri Borel</text>
 							<text style="font-size:4px" x="61" y="125">1939</text>
 							<text style="font-size:9px" x="61" y="60">Laotzu's Tao</text>
 							<text style="font-size:9px" x="61" y="70">and Wu Wei</text>
@@ -356,11 +356,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Laotzu's Tao and Wu Wei (2nd ed.)</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard and Henri Borel</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Laotzu's Tao y Wu Wei (2nd ed.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard y Henri Borel</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -385,7 +385,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -410,7 +410,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -436,7 +436,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -462,7 +462,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Dudgeon</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -487,7 +487,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Carl F. Kupfer</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>

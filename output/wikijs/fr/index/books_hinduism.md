@@ -9,7 +9,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
 
-## Vedas: Rig Veda, Sama Veda, Yajur Veda and Atharva Veda
+## Vedas: Rig Veda, Sama Veda, Yajur Veda y Atharva Veda
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -1387,16 +1387,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">W.J. Wilkins</text>
+							<text style="font-size:5px" x="61" y="22">Vedic and Puranic, W.J. Wilkins</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
 							<text style="font-size:9px" x="61" y="60">Hindu Mythology</text>
-							<text style="font-size:9px" x="61" y="60">Vedic and Puranic</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hindu Mythology Vedic and Puranic</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">W.J. Wilkins</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hindu Mythology</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Vedic and Puranic, W.J. Wilkins</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
