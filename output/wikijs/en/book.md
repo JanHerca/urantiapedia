@@ -33,19 +33,22 @@ When adding these books into Urantiapedia we are going to proceed in the same wa
 
 ## References
 
-- Copyright-free books: https://archive.org/
-- Studies on books supposedly used by revelators: https://urantiabooksources.com/
-- Judeo-Christian apocryphal books: https://archive.sacred-texts.com/chr/apo/index.htm
-- Religious books of Judaism: https://archive.sacred-texts.com/jud/index.htm
-- Religious books of Christianity: https://archive.sacred-texts.com/chr/index.htm
-- Gnostic religious books: https://archive.sacred-texts.com/gno/index.htm
-- Islamic religious books: https://archive.sacred-texts.com/isl/index.htm
-- Religious books of Buddhism: https://archive.sacred-texts.com/bud/index.htm
-- Religious books of Hinduism: https://archive.sacred-texts.com/hin/index.htm
-- Religious books of Taoism: https://archive.sacred-texts.com/tao/index.htm
-- The I Ching: https://archive.sacred-texts.com/ich/index.htm
-- Shinto religious books: https://archive.sacred-texts.com/shi/index.htm
-- Religious books of Bahaism: https://archive.sacred-texts.com/bhi/index.htm
-- Religious books of Zoroastrianism: https://archive.sacred-texts.com/zor/index.htm
-- Jain religious books: https://archive.sacred-texts.com/jai/index.htm
-- Religious books of Sikhism: https://archive.sacred-texts.com/skh/index.htm
+- [Copyright-free books](https://archive.org/)
+- [Studies on books supposedly used by revelators](https://urantiabooksources.com/)
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/)
+- [Early Christian Writings](https://www.earlychristianwritings.com/)
+- [Pseudepigrapha.com](http://www.pseudepigrapha.com/)
+- [Judeo-Christian apocryphal books](https://archive.sacred-texts.com/chr/apo/index.htm)
+- [Religious books of Judaism](https://archive.sacred-texts.com/jud/index.htm)
+- [Religious books of Christianity](https://archive.sacred-texts.com/chr/index.htm)
+- [Gnostic religious books](https://archive.sacred-texts.com/gno/index.htm)
+- [Islamic religious books](https://archive.sacred-texts.com/isl/index.htm)
+- [Religious books of Buddhism](https://archive.sacred-texts.com/bud/index.htm)
+- [Religious books of Hinduism](https://archive.sacred-texts.com/hin/index.htm)
+- [Religious books of Taoism](https://archive.sacred-texts.com/tao/index.htm)
+- [The I Ching](https://archive.sacred-texts.com/ich/index.htm)
+- [Shinto religious books](https://archive.sacred-texts.com/shi/index.htm)
+- [Religious books of Bahaism](https://archive.sacred-texts.com/bhi/index.htm)
+- [Religious books of Zoroastrianism](https://archive.sacred-texts.com/zor/index.htm)
+- [Jain religious books](https://archive.sacred-texts.com/jai/index.htm)
+- [Religious books of Sikhism](https://archive.sacred-texts.com/skh/index.htm)

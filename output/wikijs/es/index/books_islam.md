@@ -1,5 +1,5 @@
 ---
-title: "Islamic religious books"
+title: "Libros religiosos islámicos"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z

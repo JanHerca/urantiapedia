@@ -1,5 +1,5 @@
 ---
-title: "Taoism religious books"
+title: "Libros religiosos taoístas"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -19,13 +19,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">James Legge, (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1899</text>
-							<text style="font-size:9px" x="61" y="60">The I Ching</text>
+							<text style="font-size:9px" x="61" y="60">El I Ching</text>
 							<text style="font-size:9px" x="61" y="70">(SBE 16)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The I Ching, Libros Sagrados de Oriente, vol. 16 (SBE 16)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El I Ching, Libros Sagrados de Oriente, vol. 16 (SBE 16)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Legge, (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -68,13 +68,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lao Tzu, Chuang Tzu; Jame Legge (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1891</text>
-							<text style="font-size:9px" x="61" y="60">Taoists Texts,</text>
-							<text style="font-size:9px" x="61" y="70">Part I (SBE 39)</text>
+							<text style="font-size:9px" x="61" y="60">Textos Taoístas,</text>
+							<text style="font-size:9px" x="61" y="70">Parte I (SBE 39)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Taoists Texts, Part I (SBE 39)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textos Taoístas, Parte I (SBE 39)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lao Tzu, Chuang Tzu; Jame Legge (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -93,13 +93,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Chuang Tzu; por Jame Legge (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1891</text>
-							<text style="font-size:9px" x="61" y="60">Taoists Texts</text>
-							<text style="font-size:9px" x="61" y="70">Part II (SBE40)</text>
+							<text style="font-size:9px" x="61" y="60">Textos Taoístas</text>
+							<text style="font-size:9px" x="61" y="70">Parte II (SBE40)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Taoists Texts, Part II (SBE40)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textos Taoístas, Parte II (SBE40)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Chuang Tzu; por Jame Legge (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -118,14 +118,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">C. Spurgeon Medhurst (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1905</text>
-							<text style="font-size:9px" x="61" y="60">The Tao Teh King:</text>
-							<text style="font-size:9px" x="61" y="70">A Short Study in</text>
-							<text style="font-size:9px" x="61" y="80">Comparative Religion</text>
+							<text style="font-size:9px" x="61" y="60">El Tao Teh King:</text>
+							<text style="font-size:9px" x="61" y="70">Un breve estudio</text>
+							<text style="font-size:9px" x="61" y="80">sobre religión</text>
+							<text style="font-size:9px" x="61" y="90">comparada</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Tao Teh King: A Short Study in Comparative Religion</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Tao Teh King: Un breve estudio sobre religión comparada</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">C. Spurgeon Medhurst (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -144,15 +145,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">D.T. Suzuki y Paul Carus (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
-							<text style="font-size:9px" x="61" y="60">The Canon of</text>
-							<text style="font-size:9px" x="61" y="70">Reason y Virtue</text>
+							<text style="font-size:9px" x="61" y="60">El Canon de</text>
+							<text style="font-size:9px" x="61" y="70">la Razón y la Virtud</text>
 							<text style="font-size:9px" x="61" y="80">(Lao-tze's</text>
 							<text style="font-size:9px" x="61" y="90">Tao Teh King)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Canon of Reason y Virtue (Lao-tze's Tao Teh King) Chinese y English</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Canon de la Razón y la Virtud (Lao-tze's Tao Teh King) Chino e Inglés</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">D.T. Suzuki y Paul Carus (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -171,14 +172,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lionel Giles (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1912</text>
-							<text style="font-size:9px" x="61" y="60">Taoist Teachings,ü</text>
-							<text style="font-size:9px" x="61" y="70">from</text>
-							<text style="font-size:9px" x="61" y="80">the Book of Lieh-Tzü</text>
+							<text style="font-size:9px" x="61" y="60">Enseñanzas</text>
+							<text style="font-size:9px" x="61" y="70">taoístas</text>
+							<text style="font-size:9px" x="61" y="80">traducidas del</text>
+							<text style="font-size:9px" x="61" y="90">Libro de Lieh-Tzü</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Taoist Teachings, from the Book of Lieh-Tzü</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Enseñanzas taoístas traducidas del Libro de Lieh-Tzü</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -197,13 +199,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Anton Forke (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1912</text>
-							<text style="font-size:9px" x="61" y="60">Yang Chu's</text>
-							<text style="font-size:9px" x="61" y="70">Garden of Pleasure</text>
+							<text style="font-size:9px" x="61" y="60">El jardín del</text>
+							<text style="font-size:9px" x="61" y="70">placer de Yang Chu</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Yang Chu's Garden of Pleasure</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El jardín del placer de Yang Chu</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Anton Forke (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -248,13 +250,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki y Paul Carus</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">Yin Chih Wen,</text>
-							<text style="font-size:9px" x="61" y="70">The Tract of</text>
-							<text style="font-size:9px" x="61" y="80">the Quiet Way</text>
+							<text style="font-size:9px" x="61" y="70">El Tratado del</text>
+							<text style="font-size:9px" x="61" y="80">Camino Silencioso</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Yin Chih Wen, The Tract of the Quiet Way</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Yin Chih Wen, El Tratado del Camino Silencioso</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki y Paul Carus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -273,12 +275,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Frederic Henry Balfour</text>
 							<text style="font-size:4px" x="61" y="125">1884</text>
-							<text style="font-size:9px" x="61" y="60">Taoist Texts</text>
+							<text style="font-size:9px" x="61" y="60">Textos taoístas</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Taoist Texts</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textos taoístas</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Frederic Henry Balfour</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -298,14 +300,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Evan S. Morgan</text>
 							<text style="font-size:4px" x="61" y="125">1933</text>
 							<text style="font-size:9px" x="61" y="60">Tao,</text>
-							<text style="font-size:9px" x="61" y="70">The Great Luminant</text>
-							<text style="font-size:9px" x="61" y="80">Essays from</text>
+							<text style="font-size:9px" x="61" y="70">Los grandes ensayos</text>
+							<text style="font-size:9px" x="61" y="80">luminosos del</text>
 							<text style="font-size:9px" x="61" y="90">the Huai Nan Tzu</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tao, The Great Luminant Essays from the Huai Nan Tzu</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tao, Los grandes ensayos luminosos del Huai Nan Tzu</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Evan S. Morgan</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -324,13 +326,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dwight Goddard y Henri Borel</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
-							<text style="font-size:9px" x="61" y="60">Laotzu's Tao</text>
-							<text style="font-size:9px" x="61" y="70">and Wu Wei</text>
+							<text style="font-size:9px" x="61" y="60">Tao y Wu Wei</text>
+							<text style="font-size:9px" x="61" y="70">de Laotzu</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Laotzu's Tao y Wu Wei</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tao y Wu Wei de Laotzu</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard y Henri Borel</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -349,14 +351,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dwight Goddard y Henri Borel</text>
 							<text style="font-size:4px" x="61" y="125">1939</text>
-							<text style="font-size:9px" x="61" y="60">Laotzu's Tao</text>
-							<text style="font-size:9px" x="61" y="70">and Wu Wei</text>
-							<text style="font-size:9px" x="61" y="80">(2nd ed.)</text>
+							<text style="font-size:9px" x="61" y="60">Tao y Wu Wei</text>
+							<text style="font-size:9px" x="61" y="70">de Laotzu</text>
+							<text style="font-size:9px" x="61" y="80">(2a. ed.)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Laotzu's Tao y Wu Wei (2nd ed.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tao y Wu Wei de Laotzu (2nd ed.)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard y Henri Borel</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -375,13 +377,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lionel Giles (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1905</text>
-							<text style="font-size:9px" x="61" y="60">The Sayings</text>
-							<text style="font-size:9px" x="61" y="70">of Lao Tzu</text>
+							<text style="font-size:9px" x="61" y="60">Los dichos</text>
+							<text style="font-size:9px" x="61" y="70">de Lao Tse</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sayings of Lao Tzu</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Los dichos de Lao Tse</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -400,13 +402,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lionel Giles (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1910</text>
-							<text style="font-size:9px" x="61" y="60">The Art of War,</text>
+							<text style="font-size:9px" x="61" y="60">El arte de la guerra,</text>
 							<text style="font-size:9px" x="61" y="70">Sun Tzu</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Art of War, Sun Tzu</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">El arte de la guerra, Sun Tzu</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -425,14 +427,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lionel Giles (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
-							<text style="font-size:9px" x="61" y="60">Musings of</text>
-							<text style="font-size:9px" x="61" y="70">a Chinese Mystic,</text>
+							<text style="font-size:9px" x="61" y="60">Reflexiones de</text>
+							<text style="font-size:9px" x="61" y="70">un místico chino,</text>
 							<text style="font-size:9px" x="61" y="80">MChuang Tzu</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Musings of a Chinese Mystic, Chuang Tzu</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Reflexiones de un místico chino, Chuang Tzu</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -452,13 +454,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">John Dudgeon</text>
 							<text style="font-size:4px" x="61" y="125">1895</text>
 							<text style="font-size:9px" x="61" y="60">Kung-Fu,</text>
-							<text style="font-size:9px" x="61" y="70">or Tauist Medical</text>
-							<text style="font-size:9px" x="61" y="80">Gymnastics</text>
+							<text style="font-size:9px" x="61" y="70">o Gimnasia Médica</text>
+							<text style="font-size:9px" x="61" y="80">Taoísta</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kung-Fu, or Tauist Medical Gymnastics</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kung-Fu, o Gimnasia Médica Taoísta</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Dudgeon</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -477,13 +479,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Carl F. Kupfer</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
-							<text style="font-size:9px" x="61" y="60">Sacred Places</text>
-							<text style="font-size:9px" x="61" y="70">in China</text>
+							<text style="font-size:9px" x="61" y="60">Lugares sagrados</text>
+							<text style="font-size:9px" x="61" y="70">en China</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sacred Places in China</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Lugares sagrados en China</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Carl F. Kupfer</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">

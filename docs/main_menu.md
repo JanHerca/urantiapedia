@@ -9,7 +9,8 @@ Index              | mdi-book-open-blank-variant | /en/index/bible
 Search             | mdi-magnify                 | https://urantiapedia.org/t/bible?lang=en&sort=title
 ---
 OTHER BOOKS
-Index              | mdi-book-open-blank-variant | /en/book
+About other books  | mdi-information-outline     | /en/book
+Index              | mdi-book-open-blank-variant | /en/index/books
 Search             | mdi-magnify                 | https://urantiapedia.org/t/source%20book?lang=en&sort=title
 ---
 TOPIC INDEX

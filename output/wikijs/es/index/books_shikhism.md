@@ -1,5 +1,5 @@
 ---
-title: "Religious books of Sikhism"
+title: "Libros religiosos del sijismo"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z

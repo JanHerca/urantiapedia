@@ -1,5 +1,5 @@
 ---
-title: "The Urantia Book y books from readers"
+title: "El Libro de Urantia y libros de los lectores"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -18,7 +18,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">El Libro de Urantia</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/The_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/The_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -44,7 +44,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ciencia, antropología y arqueología en El Libro de Urantia</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ken Glasziou</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -69,7 +69,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Eugenesia, razas y El Libro de Urantia</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Halbert Katzen</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>

@@ -1,5 +1,5 @@
 ---
-title: "Judeo-Christian religious books (Old Testament)"
+title: "Libros religiosos judeo-cristianos (Antiguo Testamento)"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
-## Old Testament Canon
+## Canon del Viejo Testamento
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -912,7 +912,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 </div>
 
 
-## Old Testament Deuterocanon
+## Libros Deuterocanónicos del Antiguo Testamento
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">

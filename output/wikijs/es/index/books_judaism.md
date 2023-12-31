@@ -1,5 +1,5 @@
 ---
-title: "Religious books of Judaism"
+title: "Libros religiosos del judaísmo"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
