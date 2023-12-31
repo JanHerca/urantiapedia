@@ -76,9 +76,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles William King</text>
 							<text style="font-size:4px" x="61" y="125">1887</text>
-							<text style="font-size:9px" x="61" y="60">Los gnósticos y sus restos</text>
-							<text style="font-size:9px" x="61" y="70">y</text>
-							<text style="font-size:9px" x="61" y="80">su herencia</text>
+							<text style="font-size:9px" x="61" y="60">Los gnósticos</text>
+							<text style="font-size:9px" x="61" y="70">y su herencia</text>
 						</g>
 					</svg>
 				</div>
@@ -232,8 +231,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">John Everard (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1650</text>
 							<text style="font-size:9px" x="61" y="60">El Divino</text>
-							<text style="font-size:9px" x="61" y="70">Pymander de Hermes</text>
-							<text style="font-size:9px" x="61" y="80">Mercurius</text>
+							<text style="font-size:9px" x="61" y="70">Pymander de</text>
+							<text style="font-size:9px" x="61" y="80">Hermes Mercurius</text>
 							<text style="font-size:9px" x="61" y="90">Trismegistus</text>
 						</g>
 					</svg>
@@ -317,8 +316,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G.R.S. Mead (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1924</text>
-							<text style="font-size:9px" x="61" y="60">Selecciones gnósticas</text>
-							<text style="font-size:9px" x="61" y="70">de Juan el Bautista</text>
+							<text style="font-size:9px" x="61" y="50">Selecciones</text>
+							<text style="font-size:9px" x="61" y="60">gnósticas de</text>
+							<text style="font-size:9px" x="61" y="70">Juan el Bautista</text>
 							<text style="font-size:9px" x="61" y="80">del Libro de</text>
 							<text style="font-size:9px" x="61" y="90">Juan Mandeo</text>
 						</g>
@@ -465,8 +465,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Obras de</text>
-							<text style="font-size:9px" x="61" y="60">San Agustín</text>
+							<text style="font-size:5px" x="61" y="22">San Agustín</text>
+							<text style="font-size:9px" x="61" y="60">Obras de</text>
 							<text style="font-size:9px" x="61" y="70">San Agustín</text>
 						</g>
 					</svg>
@@ -489,8 +489,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">San Agustín (401 C.E.), Edward Bouverie Pusey (tr.)</text>
-							<text style="font-size:4px" x="61" y="125">1909-14</text>
+							<text style="font-size:5px" x="61" y="22">San Agustín</text>
 							<text style="font-size:9px" x="61" y="60">Las Confesiones</text>
 							<text style="font-size:9px" x="61" y="70">de San Agustín</text>
 						</g>
@@ -514,8 +513,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Escritos</text>
-							<text style="font-size:9px" x="61" y="70">de los primeros Padres</text>
+							<text style="font-size:9px" x="61" y="60">Escritos de</text>
+							<text style="font-size:9px" x="61" y="70">los primeros Padres</text>
 							<text style="font-size:9px" x="61" y="80">de la Iglesia</text>
 						</g>
 					</svg>
@@ -537,8 +536,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22"> Dionysius the Areopagite (ca. 400 C.E.), John Parker (tr.)</text>
-							<text style="font-size:4px" x="61" y="125">1897</text>
+							<text style="font-size:5px" x="61" y="22"> Dionysius the Areopagite</text>
 							<text style="font-size:9px" x="61" y="60">Las obras</text>
 							<text style="font-size:9px" x="61" y="70">de Dionisio</text>
 							<text style="font-size:9px" x="61" y="80">el Areopagita</text>
@@ -595,7 +593,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">E. A. Wallis Budge</text>
 							<text style="font-size:4px" x="61" y="125">1927</text>
 							<text style="font-size:9px" x="61" y="60">El Libro de la</text>
-							<text style="font-size:9px" x="61" y="70">Cueva de los Tesoros</text>
+							<text style="font-size:9px" x="61" y="70">Cueva de</text>
+							<text style="font-size:9px" x="61" y="80">los Tesoros</text>
 						</g>
 					</svg>
 				</div>
@@ -675,7 +674,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">San Anselmo de Canterbury</text>
 							<text style="font-size:4px" x="61" y="125">1903</text>
-							<text style="font-size:9px" x="61" y="60">Obras de San Anselmo</text>
+							<text style="font-size:9px" x="61" y="60">Obras de</text>
+							<text style="font-size:9px" x="61" y="70">San Anselmo</text>
 						</g>
 					</svg>
 				</div>
@@ -753,7 +753,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Paschal Robinson</text>
 							<text style="font-size:4px" x="61" y="125">1905</text>
 							<text style="font-size:9px" x="61" y="60">Los escritos de</text>
-							<text style="font-size:9px" x="61" y="70">San Francisco de Asís</text>
+							<text style="font-size:9px" x="61" y="70">San Francisco</text>
+							<text style="font-size:9px" x="61" y="80">de Asís</text>
 						</g>
 					</svg>
 				</div>
@@ -972,7 +973,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Juan Calvino</text>
-							<text style="font-size:9px" x="61" y="60">Texts</text>
+							<text style="font-size:9px" x="61" y="60">Textos</text>
 						</g>
 					</svg>
 				</div>
@@ -1087,7 +1088,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Iglesias Reformadas de los Países Bajos</text>
+							<text style="font-size:5px" x="61" y="22">Iglesias Reformadas de los PP.BB.</text>
 							<text style="font-size:4px" x="61" y="125">1618-9</text>
 							<text style="font-size:9px" x="61" y="60">Orden de la Iglesia</text>
 						</g>
@@ -1111,7 +1112,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Iglesias Reformadas de los Países Bajos</text>
+							<text style="font-size:5px" x="61" y="22">Iglesias Reformadas de los PP.BB.</text>
 							<text style="font-size:9px" x="61" y="60">Liturgia</text>
 						</g>
 					</svg>
@@ -1232,7 +1233,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">John Milton</text>
 							<text style="font-size:4px" x="61" y="125">1667 y 1671</text>
 							<text style="font-size:9px" x="61" y="60">Paraíso perdido,</text>
-							<text style="font-size:9px" x="61" y="60">paraíso recobrado</text>
+							<text style="font-size:9px" x="61" y="70">paraíso recobrado</text>
 						</g>
 					</svg>
 				</div>
@@ -1570,7 +1571,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">John Nelson Dar</text>
 							<text style="font-size:4px" x="61" y="125">sin fecha (pre-1882)</text>
 							<text style="font-size:9px" x="61" y="60">El Varón</text>
-							<text style="font-size:9px" x="61" y="60">de los Dolores</text>
+							<text style="font-size:9px" x="61" y="70">de los Dolores</text>
 						</g>
 					</svg>
 				</div>
@@ -1600,7 +1601,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Himnos de la Iglesia Oriental (5th ed.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Himnos de la Iglesia Oriental (5a. ed.)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. Neale</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -1889,8 +1890,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Woodrow Wilson</text>
 							<text style="font-size:4px" x="61" y="125">1915</text>
-							<text style="font-size:9px" x="61" y="60">El lugar de John Wesley </text>
-							<text style="font-size:9px" x="61" y="70">en la historia</text>
+							<text style="font-size:9px" x="61" y="60">El lugar de</text>
+							<text style="font-size:9px" x="61" y="70">John Wesley</text>
+							<text style="font-size:9px" x="61" y="80">en la historia</text>
 						</g>
 					</svg>
 				</div>
@@ -1990,9 +1992,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Neville Figgis</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
-							<text style="font-size:9px" x="61" y="60">Los aspectos políticos</text>
-							<text style="font-size:9px" x="61" y="70">de la ‘Ciudad de Dios’</text>
-							<text style="font-size:9px" x="61" y="80">de San Agustín</text>
+							<text style="font-size:9px" x="61" y="60">Los aspectos</text>
+							<text style="font-size:9px" x="61" y="70">políticos de</text>
+							<text style="font-size:9px" x="61" y="80">la ‘Ciudad de Dios’</text>
+							<text style="font-size:9px" x="61" y="90">de San Agustín</text>
 						</g>
 					</svg>
 				</div>
@@ -2016,8 +2019,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Lyon Phelps</text>
 							<text style="font-size:4px" x="61" y="125">1922</text>
-							<text style="font-size:9px" x="61" y="60">La naturaleza humana</text>
-							<text style="font-size:9px" x="61" y="70">en la Biblia</text>
+							<text style="font-size:9px" x="61" y="60">La naturaleza</text>
+							<text style="font-size:9px" x="61" y="70">humana en</text>
+							<text style="font-size:9px" x="61" y="80">la Biblia</text>
 						</g>
 					</svg>
 				</div>
@@ -2067,7 +2071,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">David K. Breed</text>
 							<text style="font-size:4px" x="61" y="125">1948</text>
 							<text style="font-size:9px" x="61" y="60">El juicio</text>
-							<text style="font-size:9px" x="61" y="60">de Cristo</text>
+							<text style="font-size:9px" x="61" y="70">de Cristo</text>
 						</g>
 					</svg>
 				</div>

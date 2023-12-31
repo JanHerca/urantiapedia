@@ -706,7 +706,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
 							<text style="font-size:9px" x="61" y="50">Discurso</text>
-							<text style="font-size:9px" x="61" y="60">8de Açvaghosha</text>
+							<text style="font-size:9px" x="61" y="60">de Açvaghosha</text>
 							<text style="font-size:9px" x="61" y="70">sobre el despertar</text>
 							<text style="font-size:9px" x="61" y="80">de la fe en</text>
 							<text style="font-size:9px" x="61" y="90">el Mahâyâna</text>
@@ -784,7 +784,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Nyogen Senzaki y Paul Reps</text>
 							<text style="font-size:4px" x="61" y="125">1934</text>
-							<text style="font-size:9px" x="61" y="60">La Puerta sin puertas,</text>
+							<text style="font-size:9px" x="61" y="50">La Puerta</text>
+							<text style="font-size:9px" x="61" y="60">sin puertas,</text>
 							<text style="font-size:9px" x="61" y="70">Ekai [Huikai],</text>
 							<text style="font-size:9px" x="61" y="80">llamado Mu-mon</text>
 						</g>

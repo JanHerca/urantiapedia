@@ -127,10 +127,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Kyuso (Muro Naokiyo), George William Knox (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Kyuso (Muro Naokiyo), G. W. Knox (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1892</text>
 							<text style="font-size:9px" x="61" y="60">El Shundai Zatsuwa</text>
-							<text style="font-size:9px" x="61" y="70">(Un filósof</text>
+							<text style="font-size:9px" x="61" y="70">(Un filósofo</text>
 							<text style="font-size:9px" x="61" y="80">japonés)</text>
 						</g>
 					</svg>
@@ -302,7 +302,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Lady Murasaki Shikibu; Suematsu Kencho (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Lady Murasaki Shikibu; S. Kencho (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
 							<text style="font-size:9px" x="61" y="60">Genji Monogatari</text>
 						</g>
@@ -453,7 +453,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Teresa Peirce Williston, Sanchi Ogawa (il.)</text>
+							<text style="font-size:5px" x="61" y="22">T. Peirce Williston, S. Ogawa (il.)</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
 							<text style="font-size:9px" x="61" y="60">Cuentos</text>
 							<text style="font-size:9px" x="61" y="70">japoneses</text>

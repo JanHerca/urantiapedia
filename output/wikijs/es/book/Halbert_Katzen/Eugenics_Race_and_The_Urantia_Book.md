@@ -20,8 +20,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<rect width="9.6" height="136.8" x="7" y="5" />
 			<rect width="96.9" height="136.8" x="17" y="5" />
 			<text style="font-size:5px" x="61" y="22">Halbert Katzen</text>
-			<text style="font-size:9px" x="61" y="60">Eugenesia, razas,</text>
-			<text style="font-size:9px" x="61" y="70">y El Libro de Urantia</text>
+			<text style="font-size:9px" x="61" y="60">Eugenesia,</text>
+			<text style="font-size:9px" x="61" y="70">razas y</text>
+			<text style="font-size:9px" x="61" y="80">El Libro de Urantia</text>
 		</g>
 	</svg>
 </div>

@@ -1390,7 +1390,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">W.J. Wilkins</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
 							<text style="font-size:9px" x="61" y="60">Hindu Mythology</text>
-							<text style="font-size:9px" x="61" y="60">Vedic and Puranic</text>
+							<text style="font-size:9px" x="61" y="70">Vedic and Puranic</text>
 						</g>
 					</svg>
 				</div>

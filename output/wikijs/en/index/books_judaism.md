@@ -617,7 +617,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">The Central Conf. of American Rabbis (ed.)</text>
+							<text style="font-size:5px" x="61" y="22">The Central Conf. of Am. Rabbis (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">1923</text>
 							<text style="font-size:9px" x="61" y="60">The Union Haggadah</text>
 						</g>
@@ -1154,10 +1154,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1937</text>
-							<text style="font-size:9px" x="61" y="50">The</text>
-							<text style="font-size:9px" x="61" y="60">Columbus Platform:</text>
-							<text style="font-size:9px" x="61" y="70">The Guiding Principles</text>
-							<text style="font-size:9px" x="61" y="80">Of Reform Judaism</text>
+							<text style="font-size:9px" x="61" y="50">The Columbus</text>
+							<text style="font-size:9px" x="61" y="60">Platform:</text>
+							<text style="font-size:9px" x="61" y="70">The Guiding</text>
+							<text style="font-size:9px" x="61" y="80">Principles Of</text>
+							<text style="font-size:9px" x="61" y="90">Reform Judaism</text>
 						</g>
 					</svg>
 				</div>

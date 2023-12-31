@@ -573,7 +573,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Lamentations of Jeremiah</text>
+							<text style="font-size:9px" x="61" y="60">Lamentations</text>
+							<text style="font-size:9px" x="61" y="70">of Jeremiah</text>
 						</g>
 					</svg>
 				</div>
@@ -2583,7 +2584,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">The Lives of the Prophets</text>
+							<text style="font-size:9px" x="61" y="60">The Lives</text>
+							<text style="font-size:9px" x="61" y="70">of the Prophets</text>
 						</g>
 					</svg>
 				</div>
@@ -2606,7 +2608,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">History of the Rechabites</text>
+							<text style="font-size:9px" x="61" y="60">History of</text>
+							<text style="font-size:9px" x="61" y="70">the Rechabites</text>
 						</g>
 					</svg>
 				</div>
@@ -2629,7 +2632,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocalypse of Sedrach</text>
+							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="70">of Sedrach</text>
 						</g>
 					</svg>
 				</div>
@@ -2675,7 +2679,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Solomon</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="60">of Solomon</text>
 						</g>
 					</svg>
 				</div>
@@ -2698,7 +2703,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocalypse of Zephaniah</text>
+							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="60">of Zephaniah</text>
 						</g>
 					</svg>
 				</div>

@@ -256,7 +256,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Anna Kingsford and Edward Maitland (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">A. Kingsford and E. Maitland (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1885</text>
 							<text style="font-size:9px" x="61" y="50">The Virgin</text>
 							<text style="font-size:9px" x="61" y="60">of the World</text>
@@ -320,7 +320,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Gnostic John</text>
 							<text style="font-size:9px" x="61" y="70">the Baptizer</text>
 							<text style="font-size:9px" x="61" y="80">Selections from</text>
-							<text style="font-size:9px" x="61" y="90">the Mandæan John-Book</text>
+							<text style="font-size:9px" x="61" y="90">the Mandæan</text>
+							<text style="font-size:9px" x="61" y="100">John-Book</text>
 						</g>
 					</svg>
 				</div>
@@ -368,7 +369,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125">ca. 200 A.D.</text>
-							<text style="font-size:9px" x="61" y="60">The Gospel of Thomas</text>
+							<text style="font-size:9px" x="61" y="60">The Gospel</text>
+							<text style="font-size:9px" x="61" y="70">of Thomas</text>
 						</g>
 					</svg>
 				</div>
@@ -421,7 +423,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">ca. 200 C.E.</text>
-							<text style="font-size:9px" x="61" y="60">The Gospel of Thomas</text>
+							<text style="font-size:9px" x="61" y="60">The Gospel</text>
+							<text style="font-size:9px" x="61" y="70">of Thomas</text>
 						</g>
 					</svg>
 				</div>
@@ -487,8 +490,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">St. Augustine (401 C.E.), Edward Bouverie Pusey (tr.)</text>
-							<text style="font-size:4px" x="61" y="125">1909-14</text>
+							<text style="font-size:5px" x="61" y="22">St. Augustine</text>
 							<text style="font-size:9px" x="61" y="60">The Confessions</text>
 							<text style="font-size:9px" x="61" y="70">of Saint Augustine</text>
 						</g>
@@ -535,8 +537,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22"> Dionysius the Areopagite (ca. 400 C.E.), John Parker (tr.)</text>
-							<text style="font-size:4px" x="61" y="125">1897</text>
+							<text style="font-size:5px" x="61" y="22"> Dionysius the Areopagite</text>
 							<text style="font-size:9px" x="61" y="60">The Works</text>
 							<text style="font-size:9px" x="61" y="70">of Dionysius</text>
 							<text style="font-size:9px" x="61" y="80">the Areopagite</text>
@@ -592,8 +593,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E. A. Wallis Budge</text>
 							<text style="font-size:4px" x="61" y="125">1927</text>
-							<text style="font-size:9px" x="61" y="60">The Book of</text>
-							<text style="font-size:9px" x="61" y="70">the Cave of Treasures</text>
+							<text style="font-size:9px" x="61" y="60">The Book of the</text>
+							<text style="font-size:9px" x="61" y="70">Cave of Treasures</text>
 						</g>
 					</svg>
 				</div>
@@ -1229,7 +1230,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">John Milton</text>
 							<text style="font-size:4px" x="61" y="125">1667 and 1671</text>
 							<text style="font-size:9px" x="61" y="60">Paradise Lost,</text>
-							<text style="font-size:9px" x="61" y="60">Paradise Regained</text>
+							<text style="font-size:9px" x="61" y="70">Paradise Regained</text>
 						</g>
 					</svg>
 				</div>

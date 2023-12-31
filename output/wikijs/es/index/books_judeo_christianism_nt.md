@@ -113,7 +113,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-							<text style="font-size:9px" x="61" y="60">Hechos de los apóstoles</text>
+							<text style="font-size:9px" x="61" y="60">Hechos de</text>
+							<text style="font-size:9px" x="61" y="70">los apóstoles</text>
 						</g>
 					</svg>
 				</div>
@@ -136,7 +137,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-							<text style="font-size:9px" x="61" y="60">Epístola a los romanos</text>
+							<text style="font-size:9px" x="61" y="60">Epístola a</text>
+							<text style="font-size:9px" x="61" y="70">los romanos</text>
 						</g>
 					</svg>
 				</div>
@@ -1017,7 +1019,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Libro de</text>
 							<text style="font-size:9px" x="61" y="70">san Juan</text>
 							<text style="font-size:9px" x="61" y="80">Evangelista</text>
-							<text style="font-size:9px" x="61" y="80">(el Teólogo)</text>
+							<text style="font-size:9px" x="61" y="90">(el Teólogo)</text>
 						</g>
 					</svg>
 				</div>

@@ -620,7 +620,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Conferencia Central de Rabinos Americanos (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">1923</text>
-							<text style="font-size:9px" x="61" y="60">La Hagadá de la Unión</text>
+							<text style="font-size:9px" x="61" y="60">La Hagadá de</text>
+							<text style="font-size:9px" x="61" y="70">la Unión</text>
 						</g>
 					</svg>
 				</div>
@@ -703,7 +704,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Flavio Josefo</text>
 							<text style="font-size:9px" x="61" y="60">Antigüedades</text>
-							<text style="font-size:9px" x="61" y="60">Judías</text>
+							<text style="font-size:9px" x="61" y="70">Judías</text>
 						</g>
 					</svg>
 				</div>
@@ -1158,10 +1159,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1937</text>
-							<text style="font-size:9px" x="61" y="50">The</text>
-							<text style="font-size:9px" x="61" y="60">La Plataforma de Colón:</text>
-							<text style="font-size:9px" x="61" y="70">Los principios rectores</text>
-							<text style="font-size:9px" x="61" y="80">del judaísmo reformista</text>
+							<text style="font-size:9px" x="61" y="50">La Plataforma</text>
+							<text style="font-size:9px" x="61" y="60">de Colón:</text>
+							<text style="font-size:9px" x="61" y="70">Los principios</text>
+							<text style="font-size:9px" x="61" y="80">rectores del</text>
+							<text style="font-size:9px" x="61" y="90">judaísmo reformista</text>
 						</g>
 					</svg>
 				</div>
@@ -1185,7 +1187,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"> </text>
 							<text style="font-size:4px" x="61" y="125"> </text>
-							<text style="font-size:9px" x="61" y="60">Reforma del judaísmo</text>
+							<text style="font-size:9px" x="61" y="50">Reforma del</text>
+							<text style="font-size:9px" x="61" y="60">judaísmo</text>
 							<text style="font-size:9px" x="61" y="70">Una perspectiva</text>
 							<text style="font-size:9px" x="61" y="80">del centenario</text>
 						</g>
@@ -1235,14 +1238,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Solomon Schechter</text>
 							<text style="font-size:4px" x="61" y="125">1896</text>
-							<text style="font-size:9px" x="61" y="60">Estudios de judaísmo</text>
+							<text style="font-size:9px" x="61" y="50">Estudios del</text>
+							<text style="font-size:9px" x="61" y="60">judaísmo</text>
 							<text style="font-size:9px" x="61" y="70">Los dogmas</text>
 							<text style="font-size:9px" x="61" y="80">del judaísmo</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Estudios de judaísmo - Los dogmas del judaísmo</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Estudios del judaísmo - Los dogmas del judaísmo</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Solomon Schechter</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">

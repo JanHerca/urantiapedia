@@ -18,8 +18,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<rect width="9.6" height="136.8" x="7" y="5" />
 			<rect width="96.9" height="136.8" x="17" y="5" />
 			<text style="font-size:5px;" x="61" y="22">Halbert Katzen</text>
-			<text style="font-size:9px;" x="61" y="60">Eugenics, Race,</text>
-			<text style="font-size:9px;" x="61" y="70">and The Urantia Book</text>
+			<text style="font-size:9px;" x="61" y="60">Eugenics,</text>
+			<text style="font-size:9px;" x="61" y="70">Race and</text>
+			<text style="font-size:9px;" x="61" y="80">The Urantia Book</text>
 		</g>
 	</svg>
 </div>

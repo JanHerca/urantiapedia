@@ -937,7 +937,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert H. Baker</text>
-							<text style="font-size:4px" x="61" y="125">Baltimore: The Williams & Wilkins Company, 1932</text>
+							<text style="font-size:4px" x="61" y="125">Balt.: The Williams & Wilkins Company, 1932</text>
 							<text style="font-size:9px" x="61" y="40">El desarrollo</text>
 							<text style="font-size:9px" x="61" y="50">del universo:</text>
 							<text style="font-size:9px" x="61" y="60">la historia de</text>

@@ -219,7 +219,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar; Edward Fitzgerald (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar; E. Fitzgerald (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1889</text>
 							<text style="font-size:9px" x="61" y="60">Bird Parliament</text>
 						</g>
@@ -318,8 +318,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Nur ad-Din Abd ar-Rahman Jami; Edward Fitzgerald (tr.)</text>
-							<text style="font-size:4px" x="61" y="125">1904</text>
+							<text style="font-size:5px" x="61" y="22">Nur ad-Din Abd ar-Rahman Jami</text>
 							<text style="font-size:9px" x="61" y="60">Salaman</text>
 							<text style="font-size:9px" x="61" y="70">y Absal</text>
 						</g>
@@ -907,7 +906,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Robert Hammond</text>
 							<text style="font-size:4px" x="61" y="125">1947</text>
 							<text style="font-size:9px" x="61" y="60">La Filosofía</text>
-							<text style="font-size:9px" x="61" y="60">lde Alfarabi</text>
+							<text style="font-size:9px" x="61" y="70">lde Alfarabi</text>
 						</g>
 					</svg>
 				</div>
@@ -985,9 +984,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">F.E. Johnson y Sheikh Faiz-ullah-bhai (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">F.E. Johnson y S. Faiz-ullah-bhai (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1917</text>
-							<text style="font-size:9px" x="61" y="60">Los poemas colgados</text>
+							<text style="font-size:9px" x="61" y="60">Los poemas</text>
+							<text style="font-size:9px" x="61" y="70">colgados</text>
 						</g>
 					</svg>
 				</div>
@@ -1011,7 +1011,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. E. Hanauer</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
-							<text style="font-size:9px" x="61" y="60">Folklore de Tierra Santa</text>
+							<text style="font-size:9px" x="61" y="60">Folklore</text>
 							<text style="font-size:9px" x="61" y="70">de Tierra Santa</text>
 						</g>
 					</svg>

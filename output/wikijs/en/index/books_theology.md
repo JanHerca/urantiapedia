@@ -1851,7 +1851,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Psalms of</text>
 							<text style="font-size:9px" x="61" y="70">the Pharisees,</text>
 							<text style="font-size:9px" x="61" y="80">Commonly Called</text>
-							<text style="font-size:9px" x="61" y="90">the Psalms of Solomon</text>
+							<text style="font-size:9px" x="61" y="90">the Psalms</text>
+							<text style="font-size:9px" x="61" y="100">of Solomon</text>
 						</g>
 					</svg>
 				</div>

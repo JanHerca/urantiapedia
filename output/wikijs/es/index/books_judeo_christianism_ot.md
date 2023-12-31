@@ -504,7 +504,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-							<text style="font-size:9px" x="61" y="60">Cantar de los Cantares</text>
+							<text style="font-size:9px" x="61" y="60">Cantar de</text>
+							<text style="font-size:9px" x="61" y="70">los Cantares</text>
 						</g>
 					</svg>
 				</div>
@@ -1209,7 +1210,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bel y el Dragón</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Bel_and_the_Dragon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1232,7 +1233,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Oración de Manasés</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Prayer_of_Manesseh" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2245,7 +2246,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:3px" x="61" y="135">??</text>
-							<text style="font-size:9px" x="61" y="60">Apocalipsis de Esdras</text>
+							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
+							<text style="font-size:9px" x="61" y="70">de Esdras</text>
 						</g>
 					</svg>
 				</div>
@@ -2514,7 +2516,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Testamento de Moisés</text>
+							<text style="font-size:9px" x="61" y="60">Testamento</text>
+							<text style="font-size:9px" x="61" y="70">de Moisés</text>
 						</g>
 					</svg>
 				</div>
@@ -2583,7 +2586,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Las vidas de los profetas</text>
+							<text style="font-size:9px" x="61" y="60">Las vidas de</text>
+							<text style="font-size:9px" x="61" y="70">los profetas</text>
 						</g>
 					</svg>
 				</div>
@@ -2606,7 +2610,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Historia de los Recabitas</text>
+							<text style="font-size:9px" x="61" y="60">Historia de</text>
+							<text style="font-size:9px" x="61" y="70">los Recabitas</text>
 						</g>
 					</svg>
 				</div>
@@ -2629,7 +2634,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocalipsis de Sedrac</text>
+							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
+							<text style="font-size:9px" x="61" y="70">de Sedrac</text>
 						</g>
 					</svg>
 				</div>
@@ -2675,7 +2681,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Testamento de Salomón</text>
+							<text style="font-size:9px" x="61" y="60">Testamento</text>
+							<text style="font-size:9px" x="61" y="70">de Salomón</text>
 						</g>
 					</svg>
 				</div>
@@ -2698,7 +2705,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocalipsis de Sofonías</text>
+							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
+							<text style="font-size:9px" x="61" y="70">de Sofonías</text>
 						</g>
 					</svg>
 				</div>

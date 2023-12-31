@@ -290,7 +290,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</text>
+							<text style="font-size:5px" x="61" y="22">G. H. Betts, F. C. Eiselen, G. A. Coe. (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Religión</text>
 							<text style="font-size:9px" x="61" y="70">y conducta:</text>
@@ -561,8 +561,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Reinhold Niebuhr</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1941</text>
-							<text style="font-size:9px" x="61" y="50">La naturaleza y</text>
-							<text style="font-size:9px" x="61" y="60">el destino del hombre:</text>
+							<text style="font-size:9px" x="61" y="50">La naturaleza y el</text>
+							<text style="font-size:9px" x="61" y="60">destino del hombre:</text>
 							<text style="font-size:9px" x="61" y="70">una interpretación</text>
 							<text style="font-size:9px" x="61" y="80">cristiana</text>
 							<text style="font-size:9px" x="61" y="90">Volumen I</text>
@@ -1867,12 +1867,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">H. E. Ryle, M.A., & M. Rhodes James, M.A.</text>
+							<text style="font-size:5px" x="61" y="22">H. E. Ryle, M.A. & M. R. James, M.A.</text>
 							<text style="font-size:4px" x="61" y="125">Cambridge: At the University Press, 1891</text>
 							<text style="font-size:9px" x="61" y="60">Salmos de</text>
 							<text style="font-size:9px" x="61" y="70">los fariseos,</text>
-							<text style="font-size:9px" x="61" y="80">comúnmente llamados</text>
-							<text style="font-size:9px" x="61" y="90">Salmos de Salomón</text>
+							<text style="font-size:9px" x="61" y="80">comúnmente</text>
+							<text style="font-size:9px" x="61" y="90">llamados</text>
+							<text style="font-size:9px" x="61" y="100">Salmos de Salomón</text>
 						</g>
 					</svg>
 				</div>

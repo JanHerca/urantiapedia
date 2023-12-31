@@ -219,7 +219,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar; Edward Fitzgerald (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar; E. Fitzgerald (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1889</text>
 							<text style="font-size:9px" x="61" y="60">Bird Parliament</text>
 						</g>
@@ -318,8 +318,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Nur ad-Din Abd ar-Rahman Jami; Edward Fitzgerald (tr.)</text>
-							<text style="font-size:4px" x="61" y="125">1904</text>
+							<text style="font-size:5px" x="61" y="22">Nur ad-Din Abd ar-Rahman Jami</text>
 							<text style="font-size:9px" x="61" y="60">Salaman</text>
 							<text style="font-size:9px" x="61" y="70">and Absal</text>
 						</g>
@@ -753,7 +752,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">P. M. Sykes and Khan Bhadur Ahmad din Khan</text>
+							<text style="font-size:5px" x="61" y="22">P. M. Sykes and K. B. Ahmad din Khan</text>
 							<text style="font-size:4px" x="61" y="125">1910</text>
 							<text style="font-size:9px" x="61" y="60">The Glory of</text>
 							<text style="font-size:9px" x="61" y="70">the Shia World</text>
@@ -906,7 +905,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Robert Hammond</text>
 							<text style="font-size:4px" x="61" y="125">1947</text>
 							<text style="font-size:9px" x="61" y="60">The Philosophy</text>
-							<text style="font-size:9px" x="61" y="60">of Alfarabi</text>
+							<text style="font-size:9px" x="61" y="70">of Alfarabi</text>
 						</g>
 					</svg>
 				</div>
@@ -984,7 +983,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">F.E. Johnson and Sheikh Faiz-ullah-bhai (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">F.E. Johnson and S. Faiz-ullah-bhai (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1917</text>
 							<text style="font-size:9px" x="61" y="60">The Hanged Poems</text>
 						</g>

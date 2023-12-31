@@ -119,7 +119,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">G. P. Adams & Wm. Pepperell Montague</text>
+							<text style="font-size:5px" x="61" y="22">G. P. Adams & Wm. P. Montague</text>
 							<text style="font-size:4px" x="61" y="125">New York: Russell & Russell, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Filosofía americana</text>
 							<text style="font-size:9px" x="61" y="70">contemporánea:</text>
@@ -149,7 +149,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ralph Tyler Flewelling</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1926</text>
-							<text style="font-size:9px" x="61" y="60">Personalidad creativa:</text>
+							<text style="font-size:9px" x="61" y="50">Personalidad</text>
+							<text style="font-size:9px" x="61" y="60">creativa:</text>
 							<text style="font-size:9px" x="61" y="70">un estudio sobre</text>
 							<text style="font-size:9px" x="61" y="80">la reconciliación</text>
 							<text style="font-size:9px" x="61" y="90">filosófica</text>
@@ -309,8 +310,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D., F.A.C.S.</text>
 							<text style="font-size:5px" x="61" y="28">Lena K. Sadler, M.D., F.A.C.S.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Funk & Wagnalls Company, 1931</text>
-							<text style="font-size:9px" x="61" y="50">Pilotando</text>
-							<text style="font-size:9px" x="61" y="60">la juventud moderna:</text>
+							<text style="font-size:9px" x="61" y="50">Pilotando la</text>
+							<text style="font-size:9px" x="61" y="60">juventud moderna:</text>
 							<text style="font-size:9px" x="61" y="70">guía para padres,</text>
 							<text style="font-size:9px" x="61" y="80">maestros y</text>
 							<text style="font-size:9px" x="61" y="90">otras personas...</text>
