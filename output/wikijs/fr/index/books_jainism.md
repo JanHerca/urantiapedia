@@ -1,5 +1,5 @@
 ---
-title: "Jain religious books"
+title: "Livres religieux jaïns"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -18,17 +18,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1884</text>
-							<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>
+							<text style="font-size:9px" x="61" y="60">Sutras Jaina</text>
 							<text style="font-size:9px" x="61" y="70">Part I</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jaina Sutras, Part I, (Sacred Books of the East vol. 22)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sutras Jaina, Partie I, (Livres sacrés de l'Est vol. 22)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Prakrit by Hermann Jacobi (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -42,17 +42,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1884</text>
-							<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>
+							<text style="font-size:9px" x="61" y="60">Sutras Jaina</text>
 							<text style="font-size:9px" x="61" y="70">Part II</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jaina Sutras, Part I, (Sacred Books of the East vol. 45)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sutras Jaina, Partie I, (Livres sacrés de l'Est vol. 45)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Prakrit by Hermann Jacobi (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -65,16 +65,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">A Treatise</text>
-							<text style="font-size:9px" x="61" y="70">on Jainism</text>
+							<text style="font-size:9px" x="61" y="60">Un traité sur</text>
+							<text style="font-size:9px" x="61" y="70">le jaïnisme</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Treatise on Jainism</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Un traité sur le jaïnisme</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -87,16 +87,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Ten Virtues </text>
-							<text style="font-size:9px" x="61" y="70">Of Monks</text>
+							<text style="font-size:9px" x="61" y="60">Dix vertus</text>
+							<text style="font-size:9px" x="61" y="70">des moines</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ten Virtues Of Monks</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dix vertus des moines</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -109,16 +109,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Twelve Reflections</text>
-							<text style="font-size:9px" x="61" y="70">or Bhavnas</text>
+							<text style="font-size:9px" x="61" y="60">Douze réflexions</text>
+							<text style="font-size:9px" x="61" y="70">ou Bhavnas</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Twelve Reflections or Bhavnas</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Douze réflexions ou Bhavnas</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -131,16 +131,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Twelve Vows</text>
-							<text style="font-size:9px" x="61" y="70">Of Layperson</text>
+							<text style="font-size:9px" x="61" y="60">Douze vœux</text>
+							<text style="font-size:9px" x="61" y="70">de laïc</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Twelve Vows Of Layperson</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Douze vœux de laïc</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -153,17 +153,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Fourteen</text>
-							<text style="font-size:9px" x="61" y="70">Auspicious</text>
-							<text style="font-size:9px" x="61" y="80">Dreams</text>
+							<text style="font-size:9px" x="61" y="60">Quatorze</text>
+							<text style="font-size:9px" x="61" y="70">rêves de bon</text>
+							<text style="font-size:9px" x="61" y="80">augure</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Fourteen Auspicious Dreams</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Quatorze rêves de bon augure</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -176,16 +176,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Five Bodies</text>
-							<text style="font-size:9px" x="61" y="70">and Eight Vargnas</text>
+							<text style="font-size:9px" x="61" y="60">Cinq corps</text>
+							<text style="font-size:9px" x="61" y="70">et huit Vargnas</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Five Bodies and Eight Vargnas</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Cinq corps et huit Vargnas</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -198,16 +198,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Five Great Vows</text>
+							<text style="font-size:9px" x="61" y="60">Cinq grands vœux</text>
 							<text style="font-size:9px" x="61" y="70">(Maha-vratas)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Five Great Vows (Maha-vratas)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Cinq grands vœux (Maha-vratas)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -220,17 +220,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Six Universal</text>
+							<text style="font-size:9px" x="61" y="60">Six universels</text>
 							<text style="font-size:9px" x="61" y="70">Substances</text>
 							<text style="font-size:9px" x="61" y="80">(Dravyas)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Six Universal Substances (Dravyas)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Six universels Substances (Dravyas)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -243,17 +243,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Meaning Of</text>
+							<text style="font-size:9px" x="61" y="60">Signification de</text>
 							<text style="font-size:9px" x="61" y="70">Ashta Prakari</text>
 							<text style="font-size:9px" x="61" y="80">Puja</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Meaning Of Ashta Prakari Puja</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Signification de Ashta Prakari Puja</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -266,16 +266,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Nine Tattvas</text>
-							<text style="font-size:9px" x="61" y="70">(Principles)</text>
+							<text style="font-size:9px" x="61" y="60">Neuf Tattvas</text>
+							<text style="font-size:9px" x="61" y="70">(Principes)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Nine Tattvas (Principles)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Neuf Tattvas (Principes)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>

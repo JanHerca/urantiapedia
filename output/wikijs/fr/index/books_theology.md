@@ -1,5 +1,5 @@
 ---
-title: "Theology books"
+title: "Leology books"
 description: "Supposedly used by the revealers of the Fifth Epochal Revelation"
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -20,7 +20,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rufus M. Jones</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1932</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Macmillan Company, 1932</text>
 							<text style="font-size:9px" x="61" y="60">A Preface to</text>
 							<text style="font-size:9px" x="61" y="70">Christian Faith</text>
 							<text style="font-size:9px" x="61" y="80">in a New Age</text>
@@ -32,7 +32,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rufus M. Jones</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -58,7 +58,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Harry Emerson Fosdick</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -85,7 +85,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Alfred E. Martin, A.M., S.T.B.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -112,7 +112,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Hastings (ed.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -126,7 +126,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Edwin Lewis</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1931</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1931</text>
 							<text style="font-size:9px" x="61" y="50">God and</text>
 							<text style="font-size:9px" x="61" y="60">Ourselves:</text>
 							<text style="font-size:9px" x="61" y="70">A Plea for the</text>
@@ -141,7 +141,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Edwin Lewis</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -167,7 +167,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W. R. Matthews, K.C.V.O., D.D., D.Lit.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -185,18 +185,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="50">God in Idea</text>
 							<text style="font-size:9px" x="61" y="60">and Experience</text>
 							<text style="font-size:9px" x="61" y="70">or,</text>
-							<text style="font-size:9px" x="61" y="80">The A Priori Elements</text>
+							<text style="font-size:9px" x="61" y="80">Le A Priori Elements</text>
 							<text style="font-size:9px" x="61" y="90">of the Religious</text>
 							<text style="font-size:9px" x="61" y="100">Consciousness</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">God in Idea and Experience, or, The A Priori Elements of the Religious Consciousness</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">God in Idea and Experience, or, Le A Priori Elements of the Religious Consciousness</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rees Griffiths, M.A., B.D., Ph.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -222,7 +222,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Washburn Hopkins, Ph.D., LL.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -236,7 +236,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. R. Illingworth, M.A.</text>
-							<text style="font-size:4px" x="61" y="125">London & N.Y.: The Macmillan Company, 1894</text>
+							<text style="font-size:4px" x="61" y="125">London & N.Y.: Le Macmillan Company, 1894</text>
 							<text style="font-size:9px" x="61" y="60">Personality</text>
 							<text style="font-size:9px" x="61" y="70">Human and Divine</text>
 						</g>
@@ -247,7 +247,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. R. Illingworth, M.A.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -275,7 +275,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rev. L.W. Grensted, M.A., D.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -289,20 +289,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1930</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Religion</text>
 							<text style="font-size:9px" x="61" y="70">and Conduct:</text>
-							<text style="font-size:9px" x="61" y="80">The Report of</text>
+							<text style="font-size:9px" x="61" y="80">Le Report of</text>
 							<text style="font-size:9px" x="61" y="90">a Conference</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Religion and Conduct: The Report of a Conference Held at Northwestern University, November 15-16, 1929</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Religion and Conduct: Le Report of a Conference Held at Northwestern University, November 15-16, 1929</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -329,7 +329,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -343,7 +343,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Clifford E. Barbour, Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">The Abingdon Press, 1930</text>
+							<text style="font-size:4px" x="61" y="125">Le Abingdon Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Sin</text>
 							<text style="font-size:9px" x="61" y="70">and the</text>
 							<text style="font-size:9px" x="61" y="80">New Psychology</text>
@@ -355,7 +355,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Clifford E. Barbour, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -369,7 +369,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dr. William S. Sadler</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: The Central Bible Supply Co., 1909</text>
+							<text style="font-size:4px" x="61" y="125">Chicago: Le Central Bible Supply Co., 1909</text>
 							<text style="font-size:9px" x="61" y="60">Soul Winning</text>
 							<text style="font-size:9px" x="61" y="70">Texts, or</text>
 							<text style="font-size:9px" x="61" y="80">Bible Helps</text>
@@ -382,7 +382,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Dr. William S. Sadler</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -408,7 +408,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ellen G. White</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -423,16 +423,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Albert C. Knudson</text>
 							<text style="font-size:4px" x="61" y="125">New York: Abingdon-Cokesbury Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Doctrine of God</text>
+							<text style="font-size:9px" x="61" y="60">Le Doctrine of God</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Doctrine of God</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Doctrine of God</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Albert C. Knudson</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Albert_C_Knudson/The_Doctrine_of_God" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/book/Albert_C_Knudson/Le_Doctrine_of_God" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -447,17 +447,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Laird, LL.D., F.B.A.</text>
 							<text style="font-size:4px" x="61" y="125">London: George Allen and Unwin Ltd, 1940</text>
-							<text style="font-size:9px" x="61" y="60">Theism</text>
+							<text style="font-size:9px" x="61" y="60">Leism</text>
 							<text style="font-size:9px" x="61" y="70">and Cosmology</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Theism and Cosmology</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Leism and Cosmology</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Laird, LL.D., F.B.A.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -472,21 +472,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Baillie</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1928</text>
-							<text style="font-size:9px" x="61" y="50">The Interpretation</text>
+							<text style="font-size:9px" x="61" y="50">Le Interpretation</text>
 							<text style="font-size:9px" x="61" y="60">of Religion:</text>
 							<text style="font-size:9px" x="61" y="70">An Introductory</text>
 							<text style="font-size:9px" x="61" y="80">Study of</text>
-							<text style="font-size:9px" x="61" y="90">Theological</text>
+							<text style="font-size:9px" x="61" y="90">Leological</text>
 							<text style="font-size:9px" x="61" y="100">Principles</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Interpretation of Religion: An Introductory Study of Theological Principles</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Interpretation of Religion: An Introductory Study of Leological Principles</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Baillie</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -501,17 +501,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">H. N. Wieman & W. Marshall Horton</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: Willett, Clark & Company, 1938</text>
-							<text style="font-size:9px" x="61" y="60">The Growth</text>
+							<text style="font-size:9px" x="61" y="60">Le Growth</text>
 							<text style="font-size:9px" x="61" y="70">of Religion</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Growth of Religion</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Growth of Religion</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman and Walter Marshall Horton</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -526,7 +526,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Ernest Hocking, Ph.D.</text>
 							<text style="font-size:4px" x="61" y="125">New Haven: Yale University Press, 1912</text>
-							<text style="font-size:9px" x="61" y="50">The Meaning</text>
+							<text style="font-size:9px" x="61" y="50">Le Meaning</text>
 							<text style="font-size:9px" x="61" y="60">of God in</text>
 							<text style="font-size:9px" x="61" y="70">Human Experience:</text>
 							<text style="font-size:9px" x="61" y="80">A Philosophy Study</text>
@@ -535,11 +535,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Meaning of God in Human Experience: A Philosophy Study of Religion</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Meaning of God in Human Experience: A Philosophy Study of Religion</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William Ernest Hocking, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -554,7 +554,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Reinhold Niebuhr</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1941</text>
-							<text style="font-size:9px" x="61" y="50">The Nature and</text>
+							<text style="font-size:9px" x="61" y="50">Le Nature and</text>
 							<text style="font-size:9px" x="61" y="60">Destiny of Man:</text>
 							<text style="font-size:9px" x="61" y="70">A Christian</text>
 							<text style="font-size:9px" x="61" y="80">Interpretation</text>
@@ -563,11 +563,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Nature and Destiny of Man: A Christian Interpretation. Volume I: Human Nature</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Nature and Destiny of Man: A Christian Interpretation. Volume I: Human Nature</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Reinhold Niebuhr</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -582,17 +582,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rev. Josiah Strong, D.D., Garden City</text>
 							<text style="font-size:4px" x="61" y="125">New York: Doubleday, Page & Company, 1915</text>
-							<text style="font-size:9px" x="61" y="60">The New</text>
+							<text style="font-size:9px" x="61" y="60">Le New</text>
 							<text style="font-size:9px" x="61" y="70">World-Religion</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The New World-Religion</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le New World-Religion</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Rev. Josiah Strong, D.D., Garden City</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -607,7 +607,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Fitch</text>
 							<text style="font-size:4px" x="61" y="125">1926, 1927</text>
-							<text style="font-size:9px" x="61" y="60">The Perfect</text>
+							<text style="font-size:9px" x="61" y="60">Le Perfect</text>
 							<text style="font-size:9px" x="61" y="70">Calendar for</text>
 							<text style="font-size:9px" x="61" y="80">Every Year of the</text>
 							<text style="font-size:9px" x="61" y="90">Christian Era</text>
@@ -615,11 +615,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Perfect Calendar for Every Year of the Christian Era</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Perfect Calendar for Every Year of the Christian Era</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Fitch</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -633,8 +633,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">James Bissett Pratt</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Pilgrimage</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Macmillan Company, 1928</text>
+							<text style="font-size:9px" x="61" y="60">Le Pilgrimage</text>
 							<text style="font-size:9px" x="61" y="70">of Buddhism,</text>
 							<text style="font-size:9px" x="61" y="80">and A Buddhist</text>
 							<text style="font-size:9px" x="61" y="90">Pilgrimage</text>
@@ -642,11 +642,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Pilgrimage of Buddhism, and A Buddhist Pilgrimage</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Pilgrimage of Buddhism, and A Buddhist Pilgrimage</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Bissett Pratt</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -660,8 +660,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ernest Fremont Tittle</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Religion</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1928</text>
+							<text style="font-size:9px" x="61" y="60">Le Religion</text>
 							<text style="font-size:9px" x="61" y="70">of the Spirit:</text>
 							<text style="font-size:9px" x="61" y="80">Studies in</text>
 							<text style="font-size:9px" x="61" y="90">Faith and Life</text>
@@ -669,11 +669,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Religion of the Spirit: Studies in Faith and Life</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Religion of the Spirit: Studies in Faith and Life</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Fremont Tittle</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -688,17 +688,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lionel Giles</text>
 							<text style="font-size:4px" x="61" y="125">London: John Murray, 1905</text>
-							<text style="font-size:9px" x="61" y="60">The Sayings</text>
+							<text style="font-size:9px" x="61" y="60">Le Sayings</text>
 							<text style="font-size:9px" x="61" y="70">of Lao Tzß</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sayings of Lao Tzß</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Sayings of Lao Tzß</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lionel Giles</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -713,7 +713,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert Ernest Hume, Ph.D.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1924</text>
-							<text style="font-size:9px" x="61" y="60">The World’s</text>
+							<text style="font-size:9px" x="61" y="60">Le World’s</text>
 							<text style="font-size:9px" x="61" y="70">Living Religions:</text>
 							<text style="font-size:9px" x="61" y="80">An Historical</text>
 							<text style="font-size:9px" x="61" y="90">Sketch</text>
@@ -721,11 +721,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The World’s Living Religions: An Historical Sketch</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le World’s Living Religions: An Historical Sketch</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Ernest Hume, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -739,7 +739,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lewis Browne</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1926</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Macmillan Company, 1926</text>
 							<text style="font-size:9px" x="61" y="50">This Believing</text>
 							<text style="font-size:9px" x="61" y="60">World: A Simple</text>
 							<text style="font-size:9px" x="61" y="70">Account of the</text>
@@ -753,7 +753,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lewis Browne</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -772,17 +772,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">of the Living</text>
 							<text style="font-size:9px" x="61" y="70">Religions:</text>
 							<text style="font-size:9px" x="61" y="80">Selections from</text>
-							<text style="font-size:9px" x="61" y="90">Their Sacred</text>
+							<text style="font-size:9px" x="61" y="90">Leir Sacred</text>
 							<text style="font-size:9px" x="61" y="100">Scriptures</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Treasure-House of the Living Religions: Selections from Their Sacred Scriptures</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Treasure-House of the Living Religions: Selections from Leir Sacred Scriptures</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Ernest Hume, M.A., Ph.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -814,7 +814,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur S. Peake, James Hastings, D.D. (ed.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -841,7 +841,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arnold Stevens & Ernest DeWitt Burton</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -858,17 +858,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1931</text>
 							<text style="font-size:9px" x="61" y="60">Between</text>
 							<text style="font-size:9px" x="61" y="70">Two Worlds:</text>
-							<text style="font-size:9px" x="61" y="80">The Romance</text>
+							<text style="font-size:9px" x="61" y="80">Le Romance</text>
 							<text style="font-size:9px" x="61" y="90">of Jesus</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Between Two Worlds: The Romance of Jesus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Between Two Worlds: Le Romance of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Daniel A. Poling</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -894,7 +894,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Dewitt Burton and Shailer Mathews</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -921,7 +921,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George Adam Smith</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -946,7 +946,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Raymond Calkins</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -960,7 +960,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Leslie D. Weatherhead</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1931</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1931</text>
 							<text style="font-size:9px" x="61" y="60">Jesus and</text>
 							<text style="font-size:9px" x="61" y="70">Ourselves</text>
 						</g>
@@ -971,7 +971,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Leslie D. Weatherhead</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -985,21 +985,21 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Leslie D. Weatherhead, M.A.</text>
-							<text style="font-size:4px" x="61" y="125">London: The Epworth Press, 1930</text>
+							<text style="font-size:4px" x="61" y="125">London: Le Epworth Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Jesus and</text>
 							<text style="font-size:9px" x="61" y="70">Ourselves:</text>
-							<text style="font-size:9px" x="61" y="80">A sequel to ‘The</text>
+							<text style="font-size:9px" x="61" y="80">A sequel to ‘Le</text>
 							<text style="font-size:9px" x="61" y="90">Transforming</text>
 							<text style="font-size:9px" x="61" y="100">Friendship’</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus and Ourselves: A sequel to ‘The Transforming Friendship’</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jesus and Ourselves: A sequel to ‘Le Transforming Friendship’</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Leslie D. Weatherhead, M.A.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1024,7 +1024,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. Middleton Murry</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1038,7 +1038,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">George A. Barton, Ph.D., LL.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York, The Macmillan Company, 1922</text>
+							<text style="font-size:4px" x="61" y="125">New York, Le Macmillan Company, 1922</text>
 							<text style="font-size:9px" x="61" y="60">Jesus</text>
 							<text style="font-size:9px" x="61" y="70">of Nazareth:</text>
 							<text style="font-size:9px" x="61" y="80">A Biography</text>
@@ -1050,7 +1050,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George A. Barton, Ph.D., LL.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1068,16 +1068,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Man’s Vision</text>
 							<text style="font-size:9px" x="61" y="70">of God and</text>
 							<text style="font-size:9px" x="61" y="80">the Logic of</text>
-							<text style="font-size:9px" x="61" y="90">Theism</text>
+							<text style="font-size:9px" x="61" y="90">Leism</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Man’s Vision of God and the Logic of Theism</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Man’s Vision of God and the Logic of Leism</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Hartshorne</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/book/Charles_Hartshorne/Mans_Vision_of_God" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/book/Charles_Hartshorne/Mans_Vision_of_God" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1104,7 +1104,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Harris- Franklin Rall, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1129,7 +1129,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">David Smith, M.A., D.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1143,7 +1143,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Walter E. Bundy</text>
-							<text style="font-size:4px" x="61" y="125">Indianapolis: The Bobbs-Merrill Company, 1929</text>
+							<text style="font-size:4px" x="61" y="125">Indianapolis: Le Bobbs-Merrill Company, 1929</text>
 							<text style="font-size:9px" x="61" y="60">Our Recovery</text>
 							<text style="font-size:9px" x="61" y="70">of Jesus</text>
 						</g>
@@ -1154,7 +1154,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter E. Bundy</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1179,7 +1179,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Bernard C. Clausen, D.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1205,7 +1205,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert E. Speer,</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1220,17 +1220,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Edward Jefferson</text>
 							<text style="font-size:4px" x="61" y="125">New York: Thomas Y. Crowell & Co., 1908</text>
-							<text style="font-size:9px" x="61" y="60">The Character</text>
+							<text style="font-size:9px" x="61" y="60">Le Character</text>
 							<text style="font-size:9px" x="61" y="70">of Jesus</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Character of Jesus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Character of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Edward Jefferson</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1244,8 +1244,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E. Stanley Jones</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Christ</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1930</text>
+							<text style="font-size:9px" x="61" y="60">Le Christ</text>
 							<text style="font-size:9px" x="61" y="70">of Every Road:</text>
 							<text style="font-size:9px" x="61" y="80">A Study in</text>
 							<text style="font-size:9px" x="61" y="90">Pentecost</text>
@@ -1253,11 +1253,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ of Every Road: A Study in Pentecost</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Christ of Every Road: A Study in Pentecost</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Stanley Jones</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1271,19 +1271,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E. Stanley Jones</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1925</text>
-							<text style="font-size:9px" x="61" y="60">The Christ</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1925</text>
+							<text style="font-size:9px" x="61" y="60">Le Christ</text>
 							<text style="font-size:9px" x="61" y="70">of the</text>
 							<text style="font-size:9px" x="61" y="80">Indian Road</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ of the Indian Road</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Christ of the Indian Road</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E. Stanley Jones</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1298,7 +1298,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">P. Whitwell Wilson</text>
 							<text style="font-size:4px" x="61" y="125">New York: Fleming H. Revell Company, 1917</text>
-							<text style="font-size:9px" x="61" y="60">The Christ</text>
+							<text style="font-size:9px" x="61" y="60">Le Christ</text>
 							<text style="font-size:9px" x="61" y="70">We Forget:</text>
 							<text style="font-size:9px" x="61" y="80">A Life of Our Lord</text>
 							<text style="font-size:9px" x="61" y="90">for Men of To-day</text>
@@ -1306,11 +1306,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Christ We Forget: A Life of Our Lord for Men of To-day</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Christ We Forget: A Life of Our Lord for Men of To-day</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">P. Whitwell Wilson</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1325,20 +1325,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">David Smith, M.A., D.D.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers, 1910</text>
-							<text style="font-size:9px" x="61" y="50">The Days of</text>
+							<text style="font-size:9px" x="61" y="50">Le Days of</text>
 							<text style="font-size:9px" x="61" y="60">His Flesh:</text>
-							<text style="font-size:9px" x="61" y="70">The Earthly Life</text>
+							<text style="font-size:9px" x="61" y="70">Le Earthly Life</text>
 							<text style="font-size:9px" x="61" y="80">of Our Lord and</text>
 							<text style="font-size:9px" x="61" y="90">Saviour Jesus Christ</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Days of His Flesh: The Earthly Life of Our Lord and Saviour Jesus Christ, Eighth Edition, Revised</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Days of His Flesh: Le Earthly Life of Our Lord and Saviour Jesus Christ, Eighth Edition, Revised</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">David Smith, M.A., D.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1353,18 +1353,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">S. Angus, M.A., Ph.D.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1915</text>
-							<text style="font-size:9px" x="61" y="60">The Environment</text>
+							<text style="font-size:9px" x="61" y="60">Le Environment</text>
 							<text style="font-size:9px" x="61" y="70">of Early</text>
 							<text style="font-size:9px" x="61" y="80">Christianity</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Environment of Early Christianity</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Environment of Early Christianity</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Angus, M.A., Ph.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1378,18 +1378,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ernest F. Scott, D.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1924</text>
-							<text style="font-size:9px" x="61" y="60">The Ethical</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Macmillan Company, 1924</text>
+							<text style="font-size:9px" x="61" y="60">Le Ethical</text>
 							<text style="font-size:9px" x="61" y="70">Teaching of Jesus</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Ethical Teaching of Jesus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Ethical Teaching of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest F. Scott, D.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1403,19 +1403,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ernest F. Scott</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1931</text>
-							<text style="font-size:9px" x="61" y="60">The Kingdom of God</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Macmillan Company, 1931</text>
+							<text style="font-size:9px" x="61" y="60">Le Kingdom of God</text>
 							<text style="font-size:9px" x="61" y="70">in the</text>
 							<text style="font-size:9px" x="61" y="80">New Testament</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Kingdom of God in the New Testament</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Kingdom of God in the New Testament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest F. Scott</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1430,18 +1430,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Alfred Edersheim</text>
 							<text style="font-size:4px" x="61" y="125">N.Y.: Longman, Green, & Co., 1899</text>
-							<text style="font-size:9px" x="61" y="60">The Life and Times</text>
+							<text style="font-size:9px" x="61" y="60">Le Life and Times</text>
 							<text style="font-size:9px" x="61" y="70">of Jesus</text>
 							<text style="font-size:9px" x="61" y="80">the Messiah</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Life and Times of Jesus the Messiah, Two volumes (Eighth Edition, Revised)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Life and Times of Jesus the Messiah, Two volumes (Eighth Edition, Revised)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Alfred Edersheim</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1456,18 +1456,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert Norwood</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1929</text>
-							<text style="font-size:9px" x="61" y="60">The Man Who</text>
+							<text style="font-size:9px" x="61" y="60">Le Man Who</text>
 							<text style="font-size:9px" x="61" y="70">Dared to Be God:</text>
 							<text style="font-size:9px" x="61" y="80">A Story of Jesus</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Man Who Dared to Be God: A Story of Jesus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Man Who Dared to Be God: A Story of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Norwood</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1482,18 +1482,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Walter Russell Bowie</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Master:</text>
+							<text style="font-size:9px" x="61" y="60">Le Master:</text>
 							<text style="font-size:9px" x="61" y="70">A Life of </text>
 							<text style="font-size:9px" x="61" y="80">Jesus Christ</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Master: A Life of Jesus Christ</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Master: A Life of Jesus Christ</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter Russell Bowie</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1508,7 +1508,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Baillie, M.A., D.Litt.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1929</text>
-							<text style="font-size:9px" x="61" y="60">The Place of</text>
+							<text style="font-size:9px" x="61" y="60">Le Place of</text>
 							<text style="font-size:9px" x="61" y="70">Jesus Christ</text>
 							<text style="font-size:9px" x="61" y="80">in Modern</text>
 							<text style="font-size:9px" x="61" y="90">Christianity</text>
@@ -1516,11 +1516,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Place of Jesus Christ in Modern Christianity</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Place of Jesus Christ in Modern Christianity</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Baillie, M.A., D.Litt.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1535,7 +1535,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Fiske & Burton Scott Easton</text>
 							<text style="font-size:4px" x="61" y="125">N.Y. & London, Harper & Brothers Publishers, 1929</text>
-							<text style="font-size:9px" x="61" y="60">The Real Jesus</text>
+							<text style="font-size:9px" x="61" y="60">Le Real Jesus</text>
 							<text style="font-size:9px" x="61" y="70">What He Taught</text>
 							<text style="font-size:9px" x="61" y="80">What He Did:</text>
 							<text style="font-size:9px" x="61" y="90">Who He Was</text>
@@ -1543,11 +1543,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Real Jesus: What He Taught: What He Did: Who He Was</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Real Jesus: What He Taught: What He Did: Who He Was</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Fiske and Burton Scott Easton</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1561,18 +1561,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Walter E. Bundy</text>
-							<text style="font-size:4px" x="61" y="125">Indianapolis: The Bobbs-Merrill Company, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Religion</text>
+							<text style="font-size:4px" x="61" y="125">Indianapolis: Le Bobbs-Merrill Company, 1928</text>
+							<text style="font-size:9px" x="61" y="60">Le Religion</text>
 							<text style="font-size:9px" x="61" y="70">of Jesus</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Religion of Jesus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Religion of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Walter E. Bundy</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1587,19 +1587,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Benjamin Willard Robinson, Ph.D.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Sayings</text>
+							<text style="font-size:9px" x="61" y="60">Le Sayings</text>
 							<text style="font-size:9px" x="61" y="70">of Jesus:</text>
-							<text style="font-size:9px" x="61" y="80">Their Background</text>
+							<text style="font-size:9px" x="61" y="80">Leir Background</text>
 							<text style="font-size:9px" x="61" y="90">and Interpretation</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Sayings of Jesus: Their Background and Interpretation</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Sayings of Jesus: Leir Background and Interpretation</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Benjamin Willard Robinson, Ph.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1613,19 +1613,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Charles Reynolds Brown</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Century Co., 1926</text>
-							<text style="font-size:9px" x="61" y="60">These Twelve:</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Century Co., 1926</text>
+							<text style="font-size:9px" x="61" y="60">Lese Twelve:</text>
 							<text style="font-size:9px" x="61" y="70">A Study in</text>
 							<text style="font-size:9px" x="61" y="80">Temperament</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">These Twelve: A Study in Temperament</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Lese Twelve: A Study in Temperament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Reynolds Brown</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1640,17 +1640,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">G. Campbell Morgan, D.D., Old Tappan</text>
 							<text style="font-size:4px" x="61" y="125">N.J.: Fleming H. Revell Company, 1913</text>
-							<text style="font-size:9px" x="61" y="60">The Teaching</text>
+							<text style="font-size:9px" x="61" y="60">Le Teaching</text>
 							<text style="font-size:9px" x="61" y="70">of Christ</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Teaching of Christ</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Teaching of Christ</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">G. Campbell Morgan, D.D., Old Tappan</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1665,17 +1665,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Harris Franklin Rall</text>
 							<text style="font-size:4px" x="61" y="125">New York: Abingdon Press, 1918, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Teachings</text>
+							<text style="font-size:9px" x="61" y="60">Le Teachings</text>
 							<text style="font-size:9px" x="61" y="70">of Jesus</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Teachings of Jesus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Teachings of Jesus</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Harris Franklin Rall</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1690,18 +1690,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Edward Augustus George</text>
 							<text style="font-size:4px" x="61" y="125">New York: Fleming H. Revell Company, 1916</text>
-							<text style="font-size:9px" x="61" y="60">The Twelve:</text>
+							<text style="font-size:9px" x="61" y="60">Le Twelve:</text>
 							<text style="font-size:9px" x="61" y="70">Apostolic Types</text>
 							<text style="font-size:9px" x="61" y="80">of Christian Men</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Twelve: Apostolic Types of Christian Men</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Twelve: Apostolic Types of Christian Men</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Edward Augustus George</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1716,18 +1716,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">T. R. Glover</text>
 							<text style="font-size:4px" x="61" y="125">Cambridge at the University Press, 1931</text>
-							<text style="font-size:9px" x="61" y="60">The Worldt</text>
+							<text style="font-size:9px" x="61" y="60">Le Worldt</text>
 							<text style="font-size:9px" x="61" y="70">of the</text>
 							<text style="font-size:9px" x="61" y="80">New Testament</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The World of the New Testament</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le World of the New Testament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">T. R. Glover</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1741,7 +1741,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John A. Scott</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1936</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1936</text>
 							<text style="font-size:9px" x="61" y="60">We Would</text>
 							<text style="font-size:9px" x="61" y="70">Know Jesus</text>
 						</g>
@@ -1752,7 +1752,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John A. Scott</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1773,16 +1773,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">William Smith</text>
 							<text style="font-size:4px" x="61" y="125">Boston: Houghlin, Mifflin and Co., 1870</text>
 							<text style="font-size:9px" x="61" y="60">A Dictionary</text>
-							<text style="font-size:9px" x="61" y="70">of The Bible</text>
+							<text style="font-size:9px" x="61" y="70">of Le Bible</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Dictionary of The Bible, several volumes</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Dictionary of Le Bible, several volumes</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William Smith</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1798,16 +1798,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">James Hastings</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1909</text>
 							<text style="font-size:9px" x="61" y="60">Dictionary</text>
-							<text style="font-size:9px" x="61" y="70">of The Bible</text>
+							<text style="font-size:9px" x="61" y="70">of Le Bible</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dictionary of The Bible</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dictionary of Le Bible</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">James Hastings</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1833,7 +1833,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Orville J. Nave, A.M., D.D., LL.D.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1860,7 +1860,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Herbert Edward Ryle, M.A., and Montague Rhodes James, M.A., editors</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1875,7 +1875,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Kendall Booth</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1928</text>
-							<text style="font-size:9px" x="61" y="60">The Background of</text>
+							<text style="font-size:9px" x="61" y="60">Le Background of</text>
 							<text style="font-size:9px" x="61" y="70">the Bible:</text>
 							<text style="font-size:9px" x="61" y="80">A Handbook of</text>
 							<text style="font-size:9px" x="61" y="90">Biblical Introduction</text>
@@ -1883,11 +1883,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Background of the Bible: A Handbook of Biblical Introduction</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Background of the Bible: A Handbook of Biblical Introduction</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Kendall Booth</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1902,18 +1902,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Louis Wallis</text>
 							<text style="font-size:4px" x="61" y="125">New York: Columbia University Press, 1942</text>
-							<text style="font-size:9px" x="61" y="60">The Bible Is Human:</text>
+							<text style="font-size:9px" x="61" y="60">Le Bible Is Human:</text>
 							<text style="font-size:9px" x="61" y="70">A Study in</text>
 							<text style="font-size:9px" x="61" y="80">Secular History</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Bible Is Human: A Study in Secular History</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Bible Is Human: A Study in Secular History</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Louis Wallis</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1928,17 +1928,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Julius A. Bewer</text>
 							<text style="font-size:4px" x="61" y="125">N.Y.: Columbia University Press, 1922, 1935</text>
-							<text style="font-size:9px" x="61" y="60">The Literature of</text>
+							<text style="font-size:9px" x="61" y="60">Le Literature of</text>
 							<text style="font-size:9px" x="61" y="70">the Old Testament</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Literature of the Old Testament, Revised Edition</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Literature of the Old Testament, Revised Edition</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Julius A. Bewer</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1953,17 +1953,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ernest Findlay Scott</text>
 							<text style="font-size:4px" x="61" y="125">N.Y.: Columbia Univeristy Press, 1932, 1936</text>
-							<text style="font-size:9px" x="61" y="60">The Literature of</text>
+							<text style="font-size:9px" x="61" y="60">Le Literature of</text>
 							<text style="font-size:9px" x="61" y="70">the Old Testament</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Literature of the Old Testament</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Literature of the Old Testament</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Findlay Scott</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>

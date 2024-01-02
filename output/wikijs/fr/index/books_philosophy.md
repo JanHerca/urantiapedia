@@ -29,7 +29,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Emery Reves </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -55,7 +55,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">A. Campbell Garnett </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -69,7 +69,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Kelley Wright, Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1922, 1935</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Macmillan Company, 1922, 1935</text>
 							<text style="font-size:9px" x="61" y="60">A Student’s</text>
 							<text style="font-size:9px" x="61" y="70">Philosophy</text>
 							<text style="font-size:9px" x="61" y="80">of Religion</text>
@@ -81,7 +81,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William Kelley Wright, Ph.D. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -95,7 +95,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Penelope Penn</text>
-							<text style="font-size:4px" x="61" y="125">The Indianapolis Star, Sept. 7, 1930, pp. 25, 29</text>
+							<text style="font-size:4px" x="61" y="125">Le Indianapolis Star, Sept. 7, 1930, pp. 25, 29</text>
 							<text style="font-size:9px" x="61" y="60">“As a Woman</text>
 							<text style="font-size:9px" x="61" y="70">Thinketh”</text>
 						</g>
@@ -106,7 +106,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Penelope Penn </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -133,7 +133,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">George P. Adams (ed.) and Wm. Pepperell Montague </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -147,7 +147,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ralph Tyler Flewelling</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1926</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Macmillan Company, 1926</text>
 							<text style="font-size:9px" x="61" y="60">Creative Personality:</text>
 							<text style="font-size:9px" x="61" y="70">A Study in</text>
 							<text style="font-size:9px" x="61" y="80">Philosophical</text>
@@ -160,7 +160,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ralph Tyler Flewelling </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -185,7 +185,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.C.S. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -210,7 +210,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Fairfield Osborn </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -236,7 +236,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Hornell Hart </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -263,7 +263,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. C. Roberts </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -277,7 +277,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. E. Turner, M.A., Ph.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Macmillan Company, 1926</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Macmillan Company, 1926</text>
 							<text style="font-size:9px" x="61" y="50">Personality</text>
 							<text style="font-size:9px" x="61" y="60">and Reality:</text>
 							<text style="font-size:9px" x="61" y="70">A Proof of the</text>
@@ -292,7 +292,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">J. E. Turner, M.A., Ph.D. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -322,7 +322,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.C.S., with the collaboration of Lena K. Sadler, M.D., F.A.C.S. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -347,7 +347,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D., F.A.P.A. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -362,17 +362,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Emery Reves</text>
 							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1945</text>
-							<text style="font-size:9px" x="61" y="60">The Anatomy</text>
+							<text style="font-size:9px" x="61" y="60">Le Anatomy</text>
 							<text style="font-size:9px" x="61" y="70">of Peace</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Anatomy of Peace </div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Anatomy of Peace </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Emery Reves </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -387,7 +387,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Alban G. Widgery, M.A.</text>
 							<text style="font-size:4px" x="61" y="125">London: Williams & Norgate, 1923</text>
-							<text style="font-size:9px" x="61" y="60">The</text>
+							<text style="font-size:9px" x="61" y="60">Le</text>
 							<text style="font-size:9px" x="61" y="70">Comparative Study</text>
 							<text style="font-size:9px" x="61" y="80">of Religions:</text>
 							<text style="font-size:9px" x="61" y="90">A Systematic Study</text>
@@ -395,11 +395,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Comparative Study of Religions: A Systematic Study </div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Comparative Study of Religions: A Systematic Study </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Alban G. Widgery, M.A. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -414,7 +414,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">H. A. Overstreet</text>
 							<text style="font-size:4px" x="61" y="125">New York: W. W. Norton & Company, Inc., 1931</text>
-							<text style="font-size:9px" x="61" y="60">The</text>
+							<text style="font-size:9px" x="61" y="60">Le</text>
 							<text style="font-size:9px" x="61" y="70">Enduring Quest:</text>
 							<text style="font-size:9px" x="61" y="80">A Search for a</text>
 							<text style="font-size:9px" x="61" y="90">Philosophy of Life</text>
@@ -422,11 +422,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Enduring Quest: A Search for a Philosophy of Life </div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Enduring Quest: A Search for a Philosophy of Life </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">H. A. Overstreet </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -441,19 +441,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Morris Dorsey, M.S., M.D.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Longmans, Green and Co., 1935</text>
-							<text style="font-size:9px" x="61" y="60">The Foundations</text>
+							<text style="font-size:9px" x="61" y="60">Le Foundations</text>
 							<text style="font-size:9px" x="61" y="70">of Human Nature:</text>
-							<text style="font-size:9px" x="61" y="80">The Study of</text>
+							<text style="font-size:9px" x="61" y="80">Le Study of</text>
 							<text style="font-size:9px" x="61" y="90">the Person</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Foundations of Human Nature: The Study of the Person </div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Foundations of Human Nature: Le Study of the Person </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">John Morris Dorsey, M.S., M.D. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -467,18 +467,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Nelson Wieman</text>
-							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Issues</text>
+							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1930</text>
+							<text style="font-size:9px" x="61" y="60">Le Issues</text>
 							<text style="font-size:9px" x="61" y="70">of Life</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Issues of Life </div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Issues of Life </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -493,17 +493,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Tryon Edwards</text>
 							<text style="font-size:4px" x="61" y="125">1891</text>
-							<text style="font-size:9px" x="61" y="60">The New Dictionary</text>
+							<text style="font-size:9px" x="61" y="60">Le New Dictionary</text>
 							<text style="font-size:9px" x="61" y="70">of Thoughts</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The New Dictionary of Thoughts </div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le New Dictionary of Thoughts </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Tryon Edwards </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -518,18 +518,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D.</text>
 							<text style="font-size:5px" x="61" y="28">and Lena K. Sadler, M.D.</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: The Health Press, 1930</text>
-							<text style="font-size:9px" x="61" y="60">The Woman</text>
+							<text style="font-size:4px" x="61" y="125">Chicago: Le Health Press, 1930</text>
+							<text style="font-size:9px" x="61" y="60">Le Woman</text>
 							<text style="font-size:9px" x="61" y="70">and the Home</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Woman and the Home </div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Woman and the Home </div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D. and Lena K. Sadler, M.D. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -554,7 +554,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">H. A. Overstreet </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>

@@ -1,5 +1,5 @@
 ---
-title: "Religious books of Buddhism"
+title: "Livres religieux du bouddhisme"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -9,7 +9,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
 
-## Modern works
+## Œuvres modernes
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -22,19 +22,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Paul Carus</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
-							<text style="font-size:9px" x="61" y="60">The</text>
-							<text style="font-size:9px" x="61" y="70">Gospel of Buddha:</text>
-							<text style="font-size:9px" x="61" y="80">Compiled from</text>
-							<text style="font-size:9px" x="61" y="90">Ancient Records</text>
+							<text style="font-size:9px" x="61" y="60">L'Évangile</text>
+							<text style="font-size:9px" x="61" y="70">de Bouddha :</text>
+							<text style="font-size:9px" x="61" y="80">compilé à partir</text>
+							<text style="font-size:9px" x="61" y="90">de documents anciens</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Gospel of Buddha: Compiled from Ancient Records</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'Évangile de Bouddha : compilé à partir de documents anciens</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Paul Carus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -48,16 +48,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Paul Carus</text>
-							<text style="font-size:9px" x="61" y="60">Buddha, the Word</text>
+							<text style="font-size:9px" x="61" y="60">Bouddha, la Parole</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddha, the Word</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bouddha, la Parole</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Paul Carus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -81,7 +81,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Paul Carus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -96,17 +96,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry S. Olcott </text>
 							<text style="font-size:4px" x="61" y="125">1908</text>
-							<text style="font-size:9px" x="61" y="60">The Buddhist</text>
-							<text style="font-size:9px" x="61" y="70">Catechism</text>
+							<text style="font-size:9px" x="61" y="60">Le Catéchisme</text>
+							<text style="font-size:9px" x="61" y="70">bouddhiste</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Buddhist Catechism (42nd. ed.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Catéchisme bouddhiste (42e éd.)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry S. Olcott</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -121,17 +121,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Edmond Holmes </text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
-							<text style="font-size:9px" x="61" y="60">The Creed</text>
-							<text style="font-size:9px" x="61" y="70">of Buddha</text>
+							<text style="font-size:9px" x="61" y="60">Le Credo</text>
+							<text style="font-size:9px" x="61" y="70">de Bouddha</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Creed of Buddha (2nd. ed.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Credo de Bouddha (2e éd.)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Edmond Holmes</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -146,17 +146,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Andre Ferdinand Herold, Paul C. Blum</text>
 							<text style="font-size:4px" x="61" y="125">1922-1927</text>
-							<text style="font-size:9px" x="61" y="60">The Life</text>
-							<text style="font-size:9px" x="61" y="70">of Buddha</text>
+							<text style="font-size:9px" x="61" y="60">La vie</text>
+							<text style="font-size:9px" x="61" y="70">de Bouddha</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Life of Buddha</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La vie de Bouddha</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Andre Ferdinand Herold, Paul C. Blum (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -171,16 +171,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dwight Goddard </text>
 							<text style="font-size:4px" x="61" y="125">1932</text>
-							<text style="font-size:9px" x="61" y="60">A Buddhist Bible</text>
+							<text style="font-size:9px" x="61" y="60">Une Bible</text>
+							<text style="font-size:9px" x="61" y="70">bouddhiste</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Buddhist Bible (1st ed.)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Une Bible bouddhiste (1ère éd.)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -194,17 +195,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Gary Snyder</text>
-							<text style="font-size:9px" x="61" y="60">The Smokey</text>
-							<text style="font-size:9px" x="61" y="70">the Bear Sutra</text>
+							<text style="font-size:9px" x="61" y="60">Le Smokey</text>
+							<text style="font-size:9px" x="61" y="70">Sutra de l'ours</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Smokey the Bear Sutra</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Smokey Sutra de l'ours</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Gary Snyder</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -217,17 +218,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Southern</text>
-							<text style="font-size:9px" x="61" y="70">Buddhism</text>
+							<text style="font-size:9px" x="61" y="60">Bouddhisme</text>
+							<text style="font-size:9px" x="61" y="70">du Sud</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Southern Buddhism</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bouddhisme du Sud</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -242,18 +243,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Max Müller; V. Fausböll</text>
 							<text style="font-size:4px" x="61" y="125">1881</text>
-							<text style="font-size:9px" x="61" y="60">The Dhammapada</text>
-							<text style="font-size:9px" x="61" y="70">and</text>
-							<text style="font-size:9px" x="61" y="80">The Sutta Nipâta</text>
+							<text style="font-size:9px" x="61" y="60">Le Dhammapada</text>
+							<text style="font-size:9px" x="61" y="70">et</text>
+							<text style="font-size:9px" x="61" y="80">le Sutta Nipâta</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Dhammapada and The Sutta Nipâta (SBE10)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Dhammapada et le Sutta Nipâta (SBE10)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Max Müller (tr., Dhammapada); V. Fausböll (tr., Sutta-Nipâta)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -268,16 +269,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">T.W. Rhys Davids</text>
 							<text style="font-size:4px" x="61" y="125">1881</text>
-							<text style="font-size:9px" x="61" y="60">Buddhist Suttas</text>
+							<text style="font-size:9px" x="61" y="60">Suttas bouddhistes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddhist Suttas (SBE11)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Suttas bouddhistes (SBE11)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">T.W. Rhys Davids (tr., from Pâli)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -292,20 +293,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">T.W. Rhys Davids & H. Oldenberg</text>
 							<text style="font-size:4px" x="61" y="125">1881</text>
-							<text style="font-size:9px" x="61" y="50">Vinaya Texts</text>
-							<text style="font-size:9px" x="61" y="60">(3 parts),</text>
-							<text style="font-size:9px" x="61" y="70">The Pâtimokkha,</text>
-							<text style="font-size:9px" x="61" y="80">The Mahâvagga,</text>
-							<text style="font-size:9px" x="61" y="90">The Kullavagga</text>
+							<text style="font-size:9px" x="61" y="50">Textes Vinaya</text>
+							<text style="font-size:9px" x="61" y="60">(3 parties),</text>
+							<text style="font-size:9px" x="61" y="70">Le Pâtimokkha,</text>
+							<text style="font-size:9px" x="61" y="80">Le Mahâvagga,</text>
+							<text style="font-size:9px" x="61" y="90">Le Kullavagga</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vinaya Texts (3 parts), The Pâtimokkha, The Mahâvagga, The Kullavagga (SBE13)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textes Vinaya (3 parties), Le Pâtimokkha, Le Mahâvagga, Le Kullavagga (SBE13)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">T.W. Rhys Davids and Herman Oldenberg (tr., from the Pâli)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -320,17 +321,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">T. W. Rhys Davids</text>
 							<text style="font-size:4px" x="61" y="125">1890-94</text>
-							<text style="font-size:9px" x="61" y="60">The Questions</text>
-							<text style="font-size:9px" x="61" y="70">of King Milinda</text>
+							<text style="font-size:9px" x="61" y="60">Les Questions</text>
+							<text style="font-size:9px" x="61" y="70">du roi Milinda</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Questions of King Milinda (2 parts)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les questions du roi Milinda (2 parties)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">T. W. Rhys Davids (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -346,17 +347,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">T.W. Rhys Davids</text>
 							<text style="font-size:4px" x="61" y="125">London, H. Frowde, Oxford University Press, 1899</text>
 							<text style="font-size:9px" x="61" y="60">Dialogues</text>
-							<text style="font-size:9px" x="61" y="70">of the Buddha,</text>
-							<text style="font-size:9px" x="61" y="80">(The Dîgha-Nikâya)</text>
+							<text style="font-size:9px" x="61" y="70">du Bouddha,</text>
+							<text style="font-size:9px" x="61" y="80">(Le Dîgha-Nikâya)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dialogues of the Buddha, (The Dîgha-Nikâya)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dialogues du Bouddha, (Le Dîgha-Nikâya)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">T.W. Rhys Davids (tr., from the Pâli) | London, H. Frowde, Oxford University Press</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -371,17 +372,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Clarke Warren</text>
 							<text style="font-size:4px" x="61" y="125">1896</text>
-							<text style="font-size:9px" x="61" y="60">Buddhism</text>
-							<text style="font-size:9px" x="61" y="70">in Translations</text>
+							<text style="font-size:9px" x="61" y="60">Le bouddhisme</text>
+							<text style="font-size:9px" x="61" y="70">dans les traductions</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddhism in Translations</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le bouddhisme dans les traductions</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Clarke Warren</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -396,16 +397,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dawsonne Melanchthon Strong</text>
 							<text style="font-size:4px" x="61" y="125">1902</text>
-							<text style="font-size:9px" x="61" y="60">The Udâna</text>
+							<text style="font-size:9px" x="61" y="60">L'Udâna</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Udâna</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'Udâna</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Dawsonne Melanchthon Strong (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -420,17 +421,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Caroline A. F. Rhys Davids</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
-							<text style="font-size:9px" x="61" y="60">Psalms of</text>
-							<text style="font-size:9px" x="61" y="70">the Sisters</text>
+							<text style="font-size:9px" x="61" y="60">Psaumes</text>
+							<text style="font-size:9px" x="61" y="70">des Sœurs</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalms of the Sisters</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaumes des Sœurs</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Caroline A. F. Rhys Davids</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -445,17 +446,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W.D.C. Wagiswara and K.J. Saunders</text>
 							<text style="font-size:4px" x="61" y="125">1920</text>
-							<text style="font-size:9px" x="61" y="60">The Buddha's</text>
-							<text style="font-size:9px" x="61" y="70">Way of Virtue</text>
+							<text style="font-size:9px" x="61" y="60">La Voie de la</text>
+							<text style="font-size:9px" x="61" y="70">Vertu du Bouddha</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Buddha's Way of Virtue</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Voie de la Vertu du Bouddha</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W.D.C. Wagiswara and K.J. Saunders (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -470,16 +471,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert Chalmers; E.B. Cowell</text>
 							<text style="font-size:4px" x="61" y="125">1895-1907</text>
-							<text style="font-size:9px" x="61" y="60">The Jataka</text>
+							<text style="font-size:9px" x="61" y="60">Le Jataka</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Jataka (6 volumes)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Jataka (6 volumes)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Robert Chalmers (tr.) E.B. Cowell (ed.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -494,18 +495,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Joseph Jacobs</text>
 							<text style="font-size:4px" x="61" y="125">1912</text>
-							<text style="font-size:9px" x="61" y="60">Indian</text>
-							<text style="font-size:9px" x="61" y="70">Fairy</text>
-							<text style="font-size:9px" x="61" y="80">Tales</text>
+							<text style="font-size:9px" x="61" y="60">Contes</text>
+							<text style="font-size:9px" x="61" y="70">indies</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Indian Fairy Tales</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Contes indiens</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Joseph Jacobs</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -520,16 +520,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ellen C. Babbit</text>
 							<text style="font-size:4px" x="61" y="125">1912</text>
-							<text style="font-size:9px" x="61" y="60">Jataka Tales</text>
+							<text style="font-size:9px" x="61" y="60">Contes Jataka</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jataka Tales</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Contes Jataka</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ellen C. Babbit</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -544,24 +544,24 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E. J. Thomas</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
-							<text style="font-size:9px" x="61" y="60">Buddhist</text>
-							<text style="font-size:9px" x="61" y="70">Scriptures</text>
+							<text style="font-size:9px" x="61" y="60">Écritures</text>
+							<text style="font-size:9px" x="61" y="70">bouddhistes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddhist Scriptures</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Écritures bouddhistes</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E. J. Thomas</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
 </div>
 
-## Northern Buddhism
+## Bouddhisme du Nord
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -574,17 +574,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125">1883</text>
-							<text style="font-size:9px" x="61" y="60">The Fo-Sho-Hing-</text>
+							<text style="font-size:9px" x="61" y="60">Le Fo-Sho-Hing-</text>
 							<text style="font-size:9px" x="61" y="70">Tsan-King</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Fo-Sho-Hing-Tsan-King (SBE19)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Fo-Sho-Hing-Tsan-King (SBE19)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -600,17 +600,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">E.B. Cowell, F. Max Müller</text>
 							<text style="font-size:5px" x="61" y="28">& J. Kakakusu</text>
 							<text style="font-size:4px" x="61" y="125">1894</text>
-							<text style="font-size:9px" x="61" y="60">Buddhist</text>
-							<text style="font-size:9px" x="61" y="70">Mahâyâna Texts</text>
+							<text style="font-size:9px" x="61" y="60">Textes</text>
+							<text style="font-size:9px" x="61" y="70">bouddhistes</text>
+							<text style="font-size:9px" x="61" y="80">du Mahâyâna</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddhist Mahâyâna Texts (SBE 49)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textes bouddhistes du Mahâyâna (SBE 49)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">E.B. Cowell, F. Max Müller, and J. Kakakusu (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -627,16 +628,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">1884</text>
 							<text style="font-size:9px" x="61" y="60">Saddharma-</text>
 							<text style="font-size:9px" x="61" y="70">pundarîka</text>
-							<text style="font-size:9px" x="61" y="80">(The Lotus Sutra)</text>
+							<text style="font-size:9px" x="61" y="80">(Le Sutra du Lotus)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Saddharma-pundarîka (The Lotus Sutra) (SBE 21)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Saddharma-pundarîka (Le Sutra du Lotus) (SBE 21)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">H. Kern (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -652,18 +653,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">W. L. Cambell</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
 							<text style="font-size:9px" x="61" y="60">She-rab Dong-bu</text>
-							<text style="font-size:9px" x="61" y="70">(The Tree</text>
-							<text style="font-size:9px" x="61" y="80">of Wisdom)</text>
+							<text style="font-size:9px" x="61" y="70">(L'Arbre</text>
+							<text style="font-size:9px" x="61" y="80">de la Sagesse)</text>
 							<text style="font-size:9px" x="61" y="90">Nagarjuna</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">She-rab Dong-bu (The Tree of Wisdom) Nagarjuna</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">She-rab Dong-bu (L'Arbre de la Sagesse) Nagarjuna</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W. L. Cambell (ed. & tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -678,19 +679,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">C.A. Musés</text>
 							<text style="font-size:4px" x="61" y="125">1961</text>
-							<text style="font-size:9px" x="61" y="60">Esoteric</text>
-							<text style="font-size:9px" x="61" y="70">Teachings</text>
-							<text style="font-size:9px" x="61" y="80">of the</text>
-							<text style="font-size:9px" x="61" y="90">Tibetan Tantra</text>
+							<text style="font-size:9px" x="61" y="60">Enseignements</text>
+							<text style="font-size:9px" x="61" y="70">ésotériques</text>
+							<text style="font-size:9px" x="61" y="80">du tantra</text>
+							<text style="font-size:9px" x="61" y="90">tibétain</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Esoteric Teachings of the Tibetan Tantra</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Enseignements ésotériques du tantra tibétain</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">C.A. Musés (ed. & tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -706,19 +707,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
 							<text style="font-size:9px" x="61" y="50">Açvaghosha's</text>
-							<text style="font-size:9px" x="61" y="60">Discourse</text>
-							<text style="font-size:9px" x="61" y="70">on the Awakening</text>
-							<text style="font-size:9px" x="61" y="80">of Faith in</text>
-							<text style="font-size:9px" x="61" y="90">the Mahâyâna</text>
+							<text style="font-size:9px" x="61" y="60">Discours</text>
+							<text style="font-size:9px" x="61" y="70">d'Açvaghosha sur</text>
+							<text style="font-size:9px" x="61" y="80">l'éveil de la foi</text>
+							<text style="font-size:9px" x="61" y="90">dans le Mahâyâna</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Açvaghosha's Discourse on the Awakening of Faith in the Mahâyâna</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Discours d'Açvaghosha sur l'éveil de la foi dans le Mahâyâna</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -733,18 +734,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Timothy Richard</text>
 							<text style="font-size:4px" x="61" y="125">1907</text>
-							<text style="font-size:9px" x="61" y="60">The Awakening</text>
-							<text style="font-size:9px" x="61" y="70">of Faith of</text>
-							<text style="font-size:9px" x="61" y="80">Ashvagosha</text>
+							<text style="font-size:9px" x="61" y="60">L'éveil</text>
+							<text style="font-size:9px" x="61" y="70">de la foi</text>
+							<text style="font-size:9px" x="61" y="80">d'Ashvagosha</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Awakening of Faith of Ashvagosha</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'éveil de la foi d'Ashvagosha</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Timothy Richard (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -759,17 +760,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">L.D. Barnett</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
-							<text style="font-size:9px" x="61" y="60">The Path</text>
-							<text style="font-size:9px" x="61" y="70">of Light</text>
+							<text style="font-size:9px" x="61" y="60">Le chemin</text>
+							<text style="font-size:9px" x="61" y="70">de la lumière</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Path of Light</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le chemin de la lumière</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">L.D. Barnett (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -784,18 +785,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Nyogen Senzaki and Paul Reps</text>
 							<text style="font-size:4px" x="61" y="125">1934</text>
-							<text style="font-size:9px" x="61" y="60">The Gateless Gate,</text>
+							<text style="font-size:9px" x="61" y="60">La porte sans porte,</text>
 							<text style="font-size:9px" x="61" y="70">Ekai [Huikai],</text>
-							<text style="font-size:9px" x="61" y="80">called Mu-mon</text>
+							<text style="font-size:9px" x="61" y="80">appelée Mu-mon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Gateless Gate, Ekai [Huikai], called Mu-mon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La porte sans porte, Ekai [Huikai], appelée Mu-mon</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Nyogen Senzaki and Paul Reps (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -810,17 +811,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Joseph Edkins</text>
 							<text style="font-size:4px" x="61" y="125">1893</text>
-							<text style="font-size:9px" x="61" y="60">Chinese</text>
-							<text style="font-size:9px" x="61" y="70">Buddhism</text>
+							<text style="font-size:9px" x="61" y="60">Bouddhisme</text>
+							<text style="font-size:9px" x="61" y="70">chinois</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Chinese Buddhism</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bouddhisme chinois</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Joseph Edkins</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -835,17 +836,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Emil Schlaginteweit</text>
 							<text style="font-size:4px" x="61" y="125">1863</text>
-							<text style="font-size:9px" x="61" y="60">Buddhism</text>
-							<text style="font-size:9px" x="61" y="70">In Tibet</text>
+							<text style="font-size:9px" x="61" y="60">Le bouddhisme</text>
+							<text style="font-size:9px" x="61" y="70">au Tibet</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddhism In Tibet</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le bouddhisme au Tibet</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Emil Schlaginteweit</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -860,18 +861,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Kaiten Nukariya</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
-							<text style="font-size:9px" x="61" y="60">The Religion</text>
-							<text style="font-size:9px" x="61" y="70">of the</text>
-							<text style="font-size:9px" x="61" y="80">Samurai</text>
+							<text style="font-size:9px" x="61" y="60">La religion</text>
+							<text style="font-size:9px" x="61" y="70">des samouraïs</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Religion of the Samurai</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La religion des samouraïs</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Kaiten Nukariya</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -887,18 +887,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Arthur Lloyd</text>
 							<text style="font-size:4px" x="61" y="125">1910</text>
 							<text style="font-size:9px" x="61" y="60">Shinran</text>
-							<text style="font-size:9px" x="61" y="70">and His Work:</text>
-							<text style="font-size:9px" x="61" y="80">Studies in</text>
-							<text style="font-size:9px" x="61" y="90">Shinshu Theology</text>
+							<text style="font-size:9px" x="61" y="70">et son œuvre :</text>
+							<text style="font-size:9px" x="61" y="80">études en</text>
+							<text style="font-size:9px" x="61" y="90">théologie Shinshu</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Shinran and His Work: Studies in Shinshu Theology</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Shinran et son œuvre : études en théologie Shinshu</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Lloyd</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -913,17 +913,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur Lloyd</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
-							<text style="font-size:9px" x="61" y="60">The Creed of</text>
-							<text style="font-size:9px" x="61" y="70">Half Japan</text>
+							<text style="font-size:9px" x="61" y="60">Le credo de</text>
+							<text style="font-size:9px" x="61" y="70">la moitié du Japon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Creed of Half Japan</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le credo de la moitié du Japon</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Lloyd</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -938,20 +938,20 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Yejitsu Okusa</text>
 							<text style="font-size:4px" x="61" y="125">1915</text>
-							<text style="font-size:9px" x="61" y="50">Principal</text>
-							<text style="font-size:9px" x="61" y="60">Teachings</text>
-							<text style="font-size:9px" x="61" y="70">of the</text>
-							<text style="font-size:9px" x="61" y="80">True Sect</text>
-							<text style="font-size:9px" x="61" y="90">of Pure Land</text>
+							<text style="font-size:9px" x="61" y="50">Principaux</text>
+							<text style="font-size:9px" x="61" y="60">enseignements</text>
+							<text style="font-size:9px" x="61" y="70">de la Vraie</text>
+							<text style="font-size:9px" x="61" y="80">Secte de la</text>
+							<text style="font-size:9px" x="61" y="90">Terre Pure</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Principal Teachings of the True Sect of Pure Land</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Principaux enseignements de la Vraie Secte de la Terre Pure</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Yejitsu Okusa</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -966,16 +966,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">S. Yamabe and L. Adams Beck</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
-							<text style="font-size:9px" x="61" y="60">Buddhist Psalms</text>
+							<text style="font-size:9px" x="61" y="60">Psaumes bouddhistes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddhist Psalms</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaumes bouddhistes</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Yamabe and L. Adams Beck</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -990,17 +990,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Daisetz Teitaro Suzuki.</text>
 							<text style="font-size:4px" x="61" y="125">1935</text>
-							<text style="font-size:9px" x="61" y="60">Manual of Zen</text>
-							<text style="font-size:9px" x="61" y="70">Buddhism</text>
+							<text style="font-size:9px" x="61" y="60">Manuel du</text>
+							<text style="font-size:9px" x="61" y="70">bouddhisme zen</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Manual of Zen Buddhism</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Manuel du bouddhisme zen</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Daisetz Teitaro Suzuki.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1016,17 +1016,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">translated by Daisetz Teitaro Suzuki.</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">Zen</text>
-							<text style="font-size:9px" x="61" y="70">for Americans,</text>
+							<text style="font-size:9px" x="61" y="70">pour les Américains,</text>
 							<text style="font-size:9px" x="61" y="80">Soyen Shaku</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Zen for Americans, Soyen Shaku</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Zen pour les Américains, Soyen Shaku</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">translated by Daisetz Teitaro Suzuki.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1041,18 +1041,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Daisetz Teitaro Suzuki.</text>
 							<text style="font-size:4px" x="61" y="125">1957</text>
-							<text style="font-size:9px" x="61" y="60">Mysticism,</text>
-							<text style="font-size:9px" x="61" y="70">Christian</text>
-							<text style="font-size:9px" x="61" y="80">and Buddhist</text>
+							<text style="font-size:9px" x="61" y="60">Mysticisme,</text>
+							<text style="font-size:9px" x="61" y="70">chrétien</text>
+							<text style="font-size:9px" x="61" y="80">et bouddhiste</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Mysticism, Christian and Buddhist</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Mysticisme, chrétien et bouddhiste</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Daisetz Teitaro Suzuki.</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1067,17 +1067,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lafcadio Hearn</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
-							<text style="font-size:9px" x="61" y="60">Gleanings In</text>
-							<text style="font-size:9px" x="61" y="70">Buddha-Fields</text>
+							<text style="font-size:9px" x="61" y="60">Glanures dans</text>
+							<text style="font-size:9px" x="61" y="70">les champs de Bouddha</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Gleanings In Buddha-Fields</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Glanures dans les champs de Bouddha</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lafcadio Hearn</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1092,17 +1092,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur Waley</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
-							<text style="font-size:9px" x="61" y="60">The Nō Plays</text>
-							<text style="font-size:9px" x="61" y="70">of Japan</text>
+							<text style="font-size:9px" x="61" y="60">Les jeux Nō</text>
+							<text style="font-size:9px" x="61" y="70">du Japon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Nō Plays of Japan</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les jeux Nō du Japon</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Waley</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1117,17 +1117,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Sturgis Bigelow</text>
 							<text style="font-size:4px" x="61" y="125">1908</text>
-							<text style="font-size:9px" x="61" y="60">Buddhism and</text>
-							<text style="font-size:9px" x="61" y="70">Immortality</text>
+							<text style="font-size:9px" x="61" y="60">Bouddhisme et</text>
+							<text style="font-size:9px" x="61" y="70">Immortalité</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Buddhism and Immortality</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bouddhisme et Immortalité</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William Sturgis Bigelow</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1142,18 +1142,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur Lillie</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
-							<text style="font-size:9px" x="61" y="60">India in</text>
-							<text style="font-size:9px" x="61" y="70">Primitive</text>
-							<text style="font-size:9px" x="61" y="80">Christianity</text>
+							<text style="font-size:9px" x="61" y="60">L'Inde dans</text>
+							<text style="font-size:9px" x="61" y="70">le christianisme</text>
+							<text style="font-size:9px" x="61" y="80">primitif</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">India in Primitive Christianity</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'Inde dans le christianisme primitif</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Lillie</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1168,17 +1168,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">L. de la Vallée Poussin</text>
 							<text style="font-size:4px" x="61" y="125">1917</text>
-							<text style="font-size:9px" x="61" y="60">The Way</text>
-							<text style="font-size:9px" x="61" y="70">to Nirvana</text>
+							<text style="font-size:9px" x="61" y="60">Le chemin vers</text>
+							<text style="font-size:9px" x="61" y="70">le Nirvana</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Way to Nirvana</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le chemin vers le Nirvana</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">L. de la Vallée Poussin</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1193,16 +1193,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Kakuzo Okakura</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
-							<text style="font-size:9px" x="61" y="60">The Book of Tea</text>
+							<text style="font-size:9px" x="61" y="60">Le Livre du Thé</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Book of Tea</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Livre du Thé</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Kakuzo Okakura</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1217,17 +1217,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Kakuzo Okakura</text>
 							<text style="font-size:4px" x="61" y="125">1904</text>
-							<text style="font-size:9px" x="61" y="60">The Ideals</text>
-							<text style="font-size:9px" x="61" y="70">of the East</text>
+							<text style="font-size:9px" x="61" y="60">Les idéaux</text>
+							<text style="font-size:9px" x="61" y="70">de l'Orient</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Ideals of the East</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les idéaux de l'Orient</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Kakuzo Okakura</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1242,18 +1242,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125"></text>
-							<text style="font-size:9px" x="61" y="60">Journal</text>
-							<text style="font-size:9px" x="61" y="70">Articles</text>
-							<text style="font-size:9px" x="61" y="80">about Buddhism</text>
+							<text style="font-size:9px" x="61" y="60">Articles</text>
+							<text style="font-size:9px" x="61" y="70">de revues sur</text>
+							<text style="font-size:9px" x="61" y="80">le bouddhisme</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Journal Articles about Buddhism</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Articles de revues sur le bouddhisme</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>

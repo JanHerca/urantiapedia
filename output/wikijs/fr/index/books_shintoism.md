@@ -21,16 +21,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Basil Hall Chamberlain (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
-							<text style="font-size:9px" x="61" y="60">The Kojiki</text>
+							<text style="font-size:9px" x="61" y="60">Le Kojiki</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Kojiki</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Kojiki</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Basil Hall Chamberlain (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -45,18 +45,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W.G. Ashton (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1896</text>
-							<text style="font-size:9px" x="61" y="60">The Nihongi</text>
+							<text style="font-size:9px" x="61" y="60">Le Nihongi</text>
 							<text style="font-size:9px" x="61" y="70">(excerpts)</text>
 							<text style="font-size:9px" x="61" y="80">4 Parts</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Nihongi (excerpts), 4 Parts</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Nihongi (excerpts), 4 Parts</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">W.G. Ashton (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -71,17 +71,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125"></text>
-							<text style="font-size:9px" x="61" y="60">The Yengishiki</text>
+							<text style="font-size:9px" x="61" y="60">Le Yengishiki</text>
 							<text style="font-size:9px" x="61" y="70">or Shinto Rituals</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Yengishiki or Shinto Rituals</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Yengishiki or Shinto Rituals</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -107,7 +107,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Genchi Katō and Hikoshirō Hoshino (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -127,18 +127,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Kyuso (Muro Naokiyo), George William Knox (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1892</text>
-							<text style="font-size:9px" x="61" y="60">The Shundai Zatsuwa</text>
+							<text style="font-size:9px" x="61" y="60">Le Shundai Zatsuwa</text>
 							<text style="font-size:9px" x="61" y="70">(A Japanese</text>
 							<text style="font-size:9px" x="61" y="80">Philosopher)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Shundai Zatsuwa (A Japanese Philosopher)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Shundai Zatsuwa (A Japanese Philosopher)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Kyuso (Muro Naokiyo), George William Knox (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -163,7 +163,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lafcadio Hearn</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -187,7 +187,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lafcadio Hearn</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -211,7 +211,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lafcadio Hearn</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -237,7 +237,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lafcadio Hearn</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -252,17 +252,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Kakuzo Okakura</text>
 							<text style="font-size:4px" x="61" y="125">1904</text>
-							<text style="font-size:9px" x="61" y="60">The Ideals</text>
+							<text style="font-size:9px" x="61" y="60">Le Ideals</text>
 							<text style="font-size:9px" x="61" y="70">of the East</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Ideals of the East</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Ideals of the East</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Kakuzo Okakura</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -277,16 +277,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Kakuzo Okakura</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
-							<text style="font-size:9px" x="61" y="60">The Book of Tea</text>
+							<text style="font-size:9px" x="61" y="60">Le Book of Tea</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Book of Tea</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Book of Tea</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Kakuzo Okakura</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -310,7 +310,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Lady Murasaki Shikibu; Suematsu Kencho (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -326,16 +326,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Inazo Nitobe</text>
 							<text style="font-size:4px" x="61" y="125">1905</text>
 							<text style="font-size:9px" x="61" y="60">Bushido,</text>
-							<text style="font-size:9px" x="61" y="70">The Soul of Japan</text>
+							<text style="font-size:9px" x="61" y="70">Le Soul of Japan</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bushido, The Soul of Japan</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bushido, Le Soul of Japan</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Inazo Nitobe</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -361,7 +361,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">William N. Porter (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -379,16 +379,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Shinran</text>
 							<text style="font-size:9px" x="61" y="70">and His Work:</text>
 							<text style="font-size:9px" x="61" y="80">Studies in</text>
-							<text style="font-size:9px" x="61" y="90">Shinshu Theology</text>
+							<text style="font-size:9px" x="61" y="90">Shinshu Leology</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Shinran and His Work: Studies in Shinshu Theology</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Shinran and His Work: Studies in Shinshu Leology</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Lloyd</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -403,17 +403,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur Lloyd</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
-							<text style="font-size:9px" x="61" y="60">The Creed</text>
+							<text style="font-size:9px" x="61" y="60">Le Creed</text>
 							<text style="font-size:9px" x="61" y="70">of Half Japan</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Creed of Half Japan</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Creed of Half Japan</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Lloyd</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -437,7 +437,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Yamabe and L. Adams Beck</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -463,7 +463,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Teresa Peirce Williston, Sanchi Ogawa (il.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -489,7 +489,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Yejitsu Okusa</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -515,7 +515,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Richard Gordon Smith</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -530,17 +530,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur Waley</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
-							<text style="font-size:9px" x="61" y="60">The Nō Plays</text>
+							<text style="font-size:9px" x="61" y="60">Le Nō Plays</text>
 							<text style="font-size:9px" x="61" y="70">of Japan</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Nō Plays of Japan</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Nō Plays of Japan</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Arthur Waley</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -555,18 +555,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ridgely Torrence</text>
 							<text style="font-size:4px" x="61" y="125">1935</text>
-							<text style="font-size:9px" x="61" y="60">The Story of Gio</text>
+							<text style="font-size:9px" x="61" y="60">Le Story of Gio</text>
 							<text style="font-size:9px" x="61" y="70">from the</text>
 							<text style="font-size:9px" x="61" y="80">Heike Monogatari</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Story of Gio from the Heike Monogatari</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Story of Gio from the Heike Monogatari</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ridgely Torrence</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -590,7 +590,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Peter Beilenson (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -614,7 +614,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-subtitle urantiapedia-book"></div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>

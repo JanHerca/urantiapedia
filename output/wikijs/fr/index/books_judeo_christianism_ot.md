@@ -1,5 +1,5 @@
 ---
-title: "Judeo-Christian religious books (Old Testament)"
+title: "Livres religieux judéo-chrétiens (Ancien Testament)"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
-## Old Testament Canon
+## Canon de l'Ancien Testament
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -19,17 +19,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Genesis</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Genèse</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Genesis</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Genèse</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Genesis" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Genesis" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -42,17 +42,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Exodus</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Exode</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Exodus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Exode</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Exodus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Exodus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -65,17 +65,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Leviticus</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Lévitique</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Leviticus</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Lévitique</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Leviticus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Leviticus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -88,17 +88,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Numbers</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Nombres</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Numbers</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Nombres</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Numbers" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Numbers" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -111,17 +111,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Deuteronomy</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Deutéronome</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Deuteronomy</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Deutéronome</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Deuteronomy" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Deuteronomy" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -134,17 +134,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Joshua</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Josué</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Joshua</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Josué</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Joshua" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Joshua" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -157,17 +157,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Judges</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Juges</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Judges</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Juges</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Judges" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Judges" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -180,8 +180,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Ruth</text>
 						</g>
 					</svg>
@@ -189,8 +189,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ruth</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Ruth" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Ruth" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -203,8 +203,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">I Samuel</text>
 						</g>
 					</svg>
@@ -212,8 +212,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Samuel</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/1_Samuel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/1_Samuel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -226,8 +226,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">II Samuel</text>
 						</g>
 					</svg>
@@ -235,8 +235,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Samuel</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_Samuel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/2_Samuel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -249,17 +249,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">I Kings</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">I Rois</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Kings</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Rois</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/1_Kings" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/1_Kings" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -272,17 +272,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">II Kings</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">II Rois</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Kings</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Rois</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_Kings" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/2_Kings" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -295,17 +295,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">I Chronicles</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">I Chroniques</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Chronicles</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Chroniques</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/1_Chronicles" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/1_Chronicles" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -318,17 +318,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">II Chronicles</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">II Chroniques</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Chronicles</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Chroniques</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_Chronicles" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/2_Chronicles" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -341,17 +341,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Ezra</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Esdras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ezra</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Esdras</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -364,17 +364,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Nehemiah</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Néhémie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Nehemiah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Néhémie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Nehemiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Nehemiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -387,8 +387,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Esther</text>
 						</g>
 					</svg>
@@ -396,8 +396,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Esther</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Esther" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Esther" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -410,8 +410,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Job</text>
 						</g>
 					</svg>
@@ -419,8 +419,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Job</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Job" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Job" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -433,17 +433,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Psalms</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Psaumes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalms</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaumes</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Psalms" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Psalms" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -456,17 +456,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Proverbs</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Proverbes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Proverbs</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Proverbes</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Proverbs" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Proverbs" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -479,17 +479,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Ecclesiastes</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Ecclésiaste</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ecclesiastes</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ecclésiaste</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Ecclesiastes" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Ecclesiastes" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -502,17 +502,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Song of Solomon</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Cantique des cantiques</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Song of Solomon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Cantique des cantiques</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Song_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Song_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -525,17 +525,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Isaiah</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Ésaïe</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Isaiah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ésaïe</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Isaiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Isaiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -548,17 +548,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Jeremiah</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Jérémie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jeremiah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jérémie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Jeremiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Jeremiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -571,17 +571,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Lamentations of Jeremiah</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Lamentations</text>
+							<text style="font-size:9px" x="61" y="70">de Jérémie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Lamentations of Jeremiah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Lamentations de Jérémie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Lamentations" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Lamentations" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -594,17 +595,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Ezekiel</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Ézéchiel</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ezekiel</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ézéchiel</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Ezekiel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Ezekiel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -617,8 +618,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Daniel</text>
 						</g>
 					</svg>
@@ -626,8 +627,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Daniel</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Daniel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Daniel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -640,17 +641,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Hosea</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Osée</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hosea</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Osée</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Hosea" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Hosea" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -663,17 +664,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Joel</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Joël</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Joel</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Joël</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Joel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Joel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -686,8 +687,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Amos</text>
 						</g>
 					</svg>
@@ -695,8 +696,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Amos</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Amos" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Amos" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -709,17 +710,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Obadiah</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Abdias</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Obadiah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Abdias</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Obadiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Obadiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -732,8 +733,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Jonah</text>
 						</g>
 					</svg>
@@ -741,8 +742,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Jonah</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Jonah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Jonah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -755,17 +756,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Micah</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Michée</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Micah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Michée</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Micah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Micah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -778,8 +779,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Nahum</text>
 						</g>
 					</svg>
@@ -787,8 +788,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Nahum</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Nahum" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Nahum" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -801,17 +802,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Habakkuk</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Habacuc</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Habakkuk</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Habacuc</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Habakkuk" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Habakkuk" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -824,17 +825,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Zephaniah</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Sophonie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Zephaniah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sophonie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Zephaniah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Zephaniah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -847,17 +848,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Haggai</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Aggée</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Haggai</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Aggée</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Haggai" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Haggai" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -870,17 +871,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Zechariah</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Zacharie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Zechariah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Zacharie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Zechariah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Zechariah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -893,17 +894,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">THE BIBLE</text>
-							<text style="font-size:4px" x="61" y="125">American Standard Version, 1901</text>
-							<text style="font-size:9px" x="61" y="60">Malachi</text>
+							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Malachie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Malachi</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Malachie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Malachi" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Malachi" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -923,16 +924,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">1 Maccabees</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">1 Macchabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Maccabees</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Macchabées</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/1_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/1_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -946,16 +947,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">2 Maccabees</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">2 Macchabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Maccabees</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Macchabées</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/2_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -969,17 +970,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">Sirach</text>
-							<text style="font-size:9px" x="61" y="70">(Ecclesiasticus)</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Siracide</text>
+							<text style="font-size:9px" x="61" y="70">(Ecclésiastique)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sirach (Ecclesiasticus)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Siracide (Ecclésiastique)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Sirach" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Sirach" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -993,16 +994,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">Wisdom of Solomon</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Sagesse</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Wisdom of Solomon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sagesse</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Wisdom_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Wisdom_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1016,7 +1017,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Baruch</text>
 						</g>
 					</svg>
@@ -1024,8 +1025,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Baruch</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1039,16 +1040,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">Tobit</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+							<text style="font-size:9px" x="61" y="60">Tobie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tobit</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tobie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Tobit" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Tobit" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1062,7 +1063,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
+							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
 							<text style="font-size:9px" x="61" y="60">Judith</text>
 						</g>
 					</svg>
@@ -1070,8 +1071,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Judith</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Judith" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Judith" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1085,16 +1086,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
 							<text style="font-size:9px" x="61" y="60">1 Esdras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Esdras (also called “Greek Ezra” or “3 Esdras”)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Esdras (également appelé « Ezra grec » ou « 3 Esdras »)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/1_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/1_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1108,16 +1109,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
 							<text style="font-size:9px" x="61" y="60">2 Esdras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Esdras (also called “Revelation of Ezra” or “4 Esdras”)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Esdras (également appelé « Révélation d'Esdras » ou « 4 Esdras »)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/2_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1131,16 +1132,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">From Revised Standard Version w/ Apocrypha</text>
-							<text style="font-size:9px" x="61" y="60">3 Maccabees</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:9px" x="61" y="60">3 Maccabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Maccabees</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Maccabées</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1154,17 +1155,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">4 Maccabees</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">4 Maccabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Maccabees</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Maccabées</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1178,7 +1179,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
 							<text style="font-size:9px" x="61" y="60">Susanna</text>
 						</g>
 					</svg>
@@ -1186,8 +1187,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Susanna</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1201,16 +1202,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">Bel and the Dragon</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:9px" x="61" y="60">Bel et le Dragon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bel and the Dragon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bel et le Dragon</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Bel_and_the_Dragon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Bel_and_the_Dragon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1224,16 +1225,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">Prayer of Manasseh</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:9px" x="61" y="60">Prière de Manassé</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Prayer of Manasseh</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Prière de Manassé</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Prayer_of_Manesseh" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Prayer_of_Manesseh" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1247,16 +1248,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">Letter of Jeremiah</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:9px" x="61" y="60">Lettre de Jérémie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Letter of Jeremiah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Lettre de Jérémie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Letter_of_Jeremiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Letter_of_Jeremiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1270,16 +1271,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">Additions to Esther</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:9px" x="61" y="60">Ajouts à Esther</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Additions to Esther</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ajouts à Esther</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Additions_to_Esther" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Additions_to_Esther" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1293,16 +1294,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version</text>
-							<text style="font-size:9px" x="61" y="60">Prayer of Azariah</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:9px" x="61" y="60">Prière d'Azariah</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Prayer of Azariah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Prière d'Azariah</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Prayer_of_Azariah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Prayer_of_Azariah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1316,23 +1317,23 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">From Revised Standard Version w/ Apocrypha</text>
-							<text style="font-size:9px" x="61" y="60">Psalm 151</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:9px" x="61" y="60">Psaume 151</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalm 151</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaume 151</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Psalm_151" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Psalm_151" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
 	</div>
 </div>
 
-## Old Testament Apocrypha (Pseudepigrapha)
+## Apocryphes de l'Ancien Testament (Pseudépigraphes)
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -1344,18 +1345,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">First book</text>
-							<text style="font-size:9px" x="61" y="70">of Adam and Eve</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">Premier livre</text>
+							<text style="font-size:9px" x="61" y="70">d'Adam et Ève</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">First book of Adam and Eve</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Premier livre d'Adam et Ève</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/First_book_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/First_book_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1369,18 +1370,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Second book</text>
-							<text style="font-size:9px" x="61" y="70">of Adam and Eve</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">Deuxième livre</text>
+							<text style="font-size:9px" x="61" y="70">d'Adam et Ève</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Second book of Adam and Eve</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Deuxième livre d'Adam et Ève</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Second_book_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Second_book_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1394,18 +1395,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
-							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-							<text style="font-size:9px" x="61" y="60">Book of Jubilees</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Livre des Jubilés</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Book of Jubilees</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Livre des Jubilés</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Book_of_Jubilees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Book_of_Jubilees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1419,19 +1420,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
-							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-							<text style="font-size:9px" x="61" y="60">Assumption</text>
-							<text style="font-size:9px" x="61" y="70">of Moses</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Assomption</text>
+							<text style="font-size:9px" x="61" y="70">de Moïse</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Assumption of Moses</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Assomption de Moïse</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Assumption_of_Moses" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Assumption_of_Moses" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1445,18 +1446,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
-							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-							<text style="font-size:9px" x="61" y="60">Book of Enoch</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Livre d'Enoch</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">First Book of Enoch</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Premier livre d'Enoch</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1470,18 +1471,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Second book</text>
-							<text style="font-size:9px" x="61" y="70">of Enoch</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">Deuxième livre</text>
+							<text style="font-size:9px" x="61" y="70">d'Enoch</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Second book of Enoch</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Deuxième livre d'Enoch</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Second_Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Second_Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1495,18 +1496,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Third book of Enoch, 1928</text>
-							<text style="font-size:4px" x="61" y="130">Hugo Odeberg</text>
-							<text style="font-size:9px" x="61" y="60">Third book</text>
-							<text style="font-size:9px" x="61" y="70">of Enoch</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">Troisième livre</text>
+							<text style="font-size:9px" x="61" y="70">d'Énoch</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Enoch</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Hénoch</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Third_Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Third_Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1520,17 +1521,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Psalms of Solomon</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">Psaumes de Salomon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalms of Solomon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaumes de Salomon</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Psalms_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Psalms_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1544,18 +1545,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">The Odes</text>
-							<text style="font-size:9px" x="61" y="70">of Solomon</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">Les Odes</text>
+							<text style="font-size:9px" x="61" y="70">de Salomon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Odes of Solomon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les Odes de Salomon</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/The_Odes_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/The_Odes_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1569,17 +1570,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Letter of Aristeas</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">Lettre d'Aristeas</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Letter of Aristeas</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Lettre d'Aristeas</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Letter_of_Aristeas" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Letter_of_Aristeas" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1593,18 +1594,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">The Story</text>
-							<text style="font-size:9px" x="61" y="70">of Ahikar</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:9px" x="61" y="60">L'histoire</text>
+							<text style="font-size:9px" x="61" y="70">d'Ahikar</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Story of Ahikar</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'histoire d'Ahikar</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Story_of_Ahikar" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Story_of_Ahikar" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1618,18 +1619,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Reuben</text>
+							<text style="font-size:9px" x="61" y="70">de Ruben</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Reuben</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Ruben</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Reuben" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Reuben" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1643,18 +1644,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Simeon</text>
+							<text style="font-size:9px" x="61" y="70">de Siméon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Simeon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Siméon</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Simeon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Simeon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1668,18 +1669,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Levi</text>
+							<text style="font-size:9px" x="61" y="70">de Lévi</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Levi</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Lévi</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Levi" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Levi" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1693,18 +1694,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Judah</text>
+							<text style="font-size:9px" x="61" y="70">de Juda</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Judah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Juda</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Judah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Judah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1718,18 +1719,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Issachar</text>
+							<text style="font-size:9px" x="61" y="70">d'Issachar</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Issachar</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament d'Issachar</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Issachar" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Issachar" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1743,18 +1744,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Zebulun</text>
+							<text style="font-size:9px" x="61" y="70">de Zabulon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Zebulun</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Zabulon</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Zebulun" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Zebulun" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1768,18 +1769,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Dan</text>
+							<text style="font-size:9px" x="61" y="70">de Dan</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Dan</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Dan</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Dan" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Dan" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1793,18 +1794,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Naphtali</text>
+							<text style="font-size:9px" x="61" y="70">de Naphtali</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Naphtali</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Naphtali</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Naphtali" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Naphtali" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1818,18 +1819,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Gad</text>
+							<text style="font-size:9px" x="61" y="70">de Gad</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Gad</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Gad</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Gad" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Gad" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1843,18 +1844,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Asher</text>
+							<text style="font-size:9px" x="61" y="70">d'Asher</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Asher</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament d'Asher</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Asher" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Asher" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1868,18 +1869,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Joseph</text>
+							<text style="font-size:9px" x="61" y="70">de Joseph</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Joseph</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Joseph</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Joseph" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Joseph" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1893,18 +1894,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
-							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Benjamin</text>
+							<text style="font-size:9px" x="61" y="70">de Benjamin</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Benjamin</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Benjamin</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Benjamin" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Benjamin" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1918,18 +1919,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Apocalypse of Abraham, 1919</text>
-							<text style="font-size:4px" x="61" y="130">G. H. Box</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
-							<text style="font-size:9px" x="61" y="70">of Abraham</text>
+							<text style="font-size:9px" x="61" y="70">d'Abraham</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse of Abraham</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse d'Abraham</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Apocalypse_of_Abraham" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Apocalypse_of_Abraham" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1943,18 +1944,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Ante-Nicene Fathers, 1885-1903</text>
-							<text style="font-size:4px" x="61" y="130">Arthur Cleveland Coxe & Allan Menzies</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Abraham</text>
+							<text style="font-size:9px" x="61" y="70">d'Abraham</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Abraham</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament d'Abraham</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Abraham" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Abraham" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1968,18 +1969,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Nag Hammadi Library, 1981</text>
-							<text style="font-size:4px" x="61" y="130">George W. MacRae</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
-							<text style="font-size:9px" x="61" y="70">of Adam</text>
+							<text style="font-size:9px" x="61" y="70">d'Adam</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse of Adam</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse d'Adam</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Apocalypse_of_Adam" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Apocalypse_of_Adam" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -1993,18 +1994,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">The Book of the Cave of Treasures, 1927</text>
-							<text style="font-size:4px" x="61" y="130">E. A. Wallis Budge</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Adam</text>
+							<text style="font-size:9px" x="61" y="70">d'Adam</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Adam</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament d'Adam</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Adam" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Adam" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2018,19 +2019,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
-							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-							<text style="font-size:9px" x="61" y="60">Life of</text>
-							<text style="font-size:9px" x="61" y="70">Adam and Eve</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Vie de</text>
+							<text style="font-size:9px" x="61" y="70">Adam et Ève</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Life of Adam and Eve</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vie de Adam et Ève</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Life_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Life_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2044,18 +2045,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
-							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
 							<text style="font-size:9px" x="61" y="60">2 Baruch</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Baruch (or The Syriac Apocalypse of Baruch)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Baruch (ou L'Apocalypse syriaque de Baruch)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/2_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2069,18 +2070,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
-							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
 							<text style="font-size:9px" x="61" y="60">3 Baruch</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Baruch (or The Greek Apocalypse of Baruch)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Baruch (ou L'Apocalypse grecque de Baruch)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/3_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/3_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2094,8 +2095,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">University of Pennsylvania, 1987</text>
-							<text style="font-size:4px" x="61" y="130">Robert A. Kraft (ed.)</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
 							<text style="font-size:9px" x="61" y="60">4 Baruch</text>
 						</g>
 					</svg>
@@ -2103,8 +2104,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Baruch</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/4_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/4_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2118,19 +2119,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
-							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-							<text style="font-size:9px" x="61" y="60">Martyrdom</text>
-							<text style="font-size:9px" x="61" y="70">of Isaiah</text>
+							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Martyre</text>
+							<text style="font-size:9px" x="61" y="70">d'Isaïe</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Martyrdom of Isaiah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Martyre d'Isaïe</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Martyrdom_of_Isaiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Martyrdom_of_Isaiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2144,17 +2145,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">W. Wright</text>
-							<text style="font-size:3px" x="61" y="135">Some Apocryphal Psalms in Syriac, 1886-7</text>
-							<text style="font-size:9px" x="61" y="60">Psalms of David</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Psaumes de David</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psalms of David</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaumes de David</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Psalms_of_David" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Psalms_of_David" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2168,18 +2169,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
-							<text style="font-size:9px" x="61" y="70">of Elijah</text>
+							<text style="font-size:9px" x="61" y="70">d'Élie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse of Elijah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse d'Élie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Apocalypse_of_Elijah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Apocalypse_of_Elijah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2193,19 +2194,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
-							<text style="font-size:9px" x="61" y="60">Greek</text>
-							<text style="font-size:9px" x="61" y="70">Apocalypse</text>
-							<text style="font-size:9px" x="61" y="80">of Ezra</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="70">grecque</text>
+							<text style="font-size:9px" x="61" y="80">d'Esdras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Greek Apocalypse of Ezra</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse grecque d'Esdras</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Greek_Apocalypse_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Greek_Apocalypse_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2219,17 +2220,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
-							<text style="font-size:9px" x="61" y="60">Questions of Ezra</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Questions d'Ezra</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Questions of Ezra</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Questions d'Ezra</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Questions_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Questions_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2243,17 +2244,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
-							<text style="font-size:9px" x="61" y="60">Revelation of Ezra</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Révélation d'Esdras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Revelation of Ezra</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Révélation d'Esdras</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Revelation_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Revelation_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2267,17 +2268,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
-							<text style="font-size:9px" x="61" y="60">Vision of Ezra</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Vision d'Ezra</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vision of Ezra</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vision d'Ezra</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Vision_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Vision_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2291,17 +2292,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">Milton S. Terry</text>
-							<text style="font-size:3px" x="61" y="135">New York: Eaton & Mains, 1899</text>
-							<text style="font-size:9px" x="61" y="60">Sibylline Oracles</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Oracles sibyllins</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Sibylline Oracles</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Oracles sibyllins</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Sibylline_Oracles" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Sibylline_Oracles" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2315,19 +2316,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 2, 1985</text>
-							<text style="font-size:9px" x="61" y="60">Hellenistic</text>
-							<text style="font-size:9px" x="61" y="70">Synagogal</text>
-							<text style="font-size:9px" x="61" y="80">Hellenistic</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Prières</text>
+							<text style="font-size:9px" x="61" y="70">synagogales</text>
+							<text style="font-size:9px" x="61" y="80">hellénistiques</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hellenistic Synagogal Prayers</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Prières synagogales hellénistiques</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Hellenistic_Synagogal_Prayers" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Hellenistic_Synagogal_Prayers" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2341,18 +2342,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Isaac</text>
+							<text style="font-size:9px" x="61" y="70">d'Isaac</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Isaac</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament d'Isaac</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Isaac" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Isaac" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2366,18 +2367,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 2, 1985</text>
-							<text style="font-size:9px" x="61" y="60">The Ladder</text>
-							<text style="font-size:9px" x="61" y="70">of Jacob</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">L'échelle</text>
+							<text style="font-size:9px" x="61" y="70">de Jacob</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Ladder of Jacob</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'échelle de Jacob</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Ladder_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Ladder_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2391,17 +2392,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 2, 1985</text>
-							<text style="font-size:9px" x="61" y="60">Prayer of Jacob</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Prière de Jacob</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Prayer of Jacob</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Prière de Jacob</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Prayer_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Prayer_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2415,18 +2416,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Jacob</text>
+							<text style="font-size:9px" x="61" y="70">de Jacob</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Jacob</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Jacob</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2443,15 +2444,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="130">M. R. James</text>
 							<text style="font-size:3px" x="61" y="135">Apocrypha anecdota 2. Texts and Studies, 1897</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="70">of Job</text>
+							<text style="font-size:9px" x="61" y="70">de Job</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Job</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Job</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Testament_of_Job" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Testament_of_Job" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2465,17 +2466,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 2, 1985</text>
-							<text style="font-size:9px" x="61" y="60">Joseph and Aseneth</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">Joseph et Aseneth</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Joseph and Aseneth</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Joseph et Aseneth</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/Joseph_and_Aseneth" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/Joseph_and_Aseneth" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2489,17 +2490,17 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">Henry Cotton</text>
-							<text style="font-size:3px" x="61" y="135">The Five Books of Maccabees, 1832</text>
-							<text style="font-size:9px" x="61" y="60">5 Maccabees</text>
+							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:9px" x="61" y="60">5 Maccabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">5 Maccabees</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">5 Maccabées</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/5_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				<a href="/fr/Bible/5_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2514,15 +2515,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Moses</text>
+							<text style="font-size:9px" x="61" y="60">Testament de Moïse</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Moses</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Moïse</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2545,7 +2546,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Philo</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2568,7 +2569,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Phocylides</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2583,15 +2584,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">The Lives of the Prophets</text>
+							<text style="font-size:9px" x="61" y="60">Les vies</text>
+							<text style="font-size:9px" x="61" y="70">des prophètes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Lives of the Prophets</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les vies des prophètes</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2606,15 +2608,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">History of the Rechabites</text>
+							<text style="font-size:9px" x="61" y="60">Histoire des</text>
+							<text style="font-size:9px" x="61" y="70">Réhabites</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">History of the Rechabites</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Histoire des Réhabites</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2629,15 +2632,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocalypse of Sedrach</text>
+							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="70">de Sédrach</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse of Sedrach</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse de Sédrach</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2652,15 +2656,15 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Treatise of Shem</text>
+							<text style="font-size:9px" x="61" y="60">Traité de Sem</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Treatise of Shem</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Traité de Sem</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2675,15 +2679,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Solomon</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="60">de Salomon</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament of Solomon</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Salomon</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
@@ -2698,15 +2703,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Apocalypse of Zephaniah</text>
+							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="60">de Sophonie</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse of Zephaniah</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse de Sophonie</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
-					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
 		</div>
