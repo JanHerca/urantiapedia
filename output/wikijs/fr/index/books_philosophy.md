@@ -131,7 +131,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Philosophie américaine contemporaine : déclarations personnelles, Vol. II </div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">George P. Adams (ed.) and Wm. Pepperell Montague </div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">George P. Adams (ed.) et Wm. Pepperell Montague </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -338,7 +338,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D., F.A.P.A.</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: Wilcox and Follett Co., 1944</text>
+							<text style="font-size:4px" x="61" y="125">Chicago: Wilcox et Follett Co., 1944</text>
 							<text style="font-size:9px" x="61" y="60">Prescription pour</text>
 							<text style="font-size:9px" x="61" y="70">une paix permanente</text>
 						</g>
@@ -442,7 +442,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Morris Dorsey, M.S., M.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Longmans, Green and Co., 1935</text>
+							<text style="font-size:4px" x="61" y="125">New York: Longmans, Green et Co., 1935</text>
 							<text style="font-size:9px" x="61" y="60">Les Fondements de</text>
 							<text style="font-size:9px" x="61" y="70">la nature humaine :</text>
 							<text style="font-size:9px" x="61" y="80">L'étude de</text>
@@ -528,7 +528,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Femme et le foyer</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D. and Lena K. Sadler, M.D. </div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">William S. Sadler, M.D. et Lena K. Sadler, M.D. </div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

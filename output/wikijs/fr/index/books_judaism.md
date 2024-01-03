@@ -69,7 +69,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">D. A. Sola and M. J. Raphall</text>
+							<text style="font-size:5px" x="61" y="22">D. A. Sola et M. J. Raphall</text>
 							<text style="font-size:4px" x="61" y="125">1843</text>
 							<text style="font-size:9px" x="61" y="60">Dix-huit traités</text>
 							<text style="font-size:9px" x="61" y="70">de la Mishna</text>
@@ -78,7 +78,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Dix-huit traités de la Mishna</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">D. A. Sola and M. J. Raphall</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">D. A. Sola et M. J. Raphall</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -642,8 +642,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:9px" x="61" y="60">Haggada pour Pesach</text>
-							<text style="font-size:9px" x="61" y="70">selon</text>
+							<text style="font-size:9px" x="61" y="60">Haggada pour</text>
+							<text style="font-size:9px" x="61" y="70">Pesach selon</text>
 							<text style="font-size:9px" x="61" y="80">Chabad-Lubavitch</text>
 							<text style="font-size:9px" x="61" y="90">Custom</text>
 						</g>
@@ -871,7 +871,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">A.E. Cowley and A. Neubauer</text>
+							<text style="font-size:5px" x="61" y="22">A.E. Cowley et A. Neubauer</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
 							<text style="font-size:9px" x="61" y="60">Hébreu original</text>
 							<text style="font-size:9px" x="61" y="70">d'une partie de</text>
@@ -881,7 +881,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hébreu original d'une partie de l'Ecclésiastique</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">A.E. Cowley and A. Neubauer</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">A.E. Cowley et A. Neubauer</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -959,7 +959,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="80">juives :</text>
 							<text style="font-size:9px" x="61" y="90">une étude sur</text>
 							<text style="font-size:9px" x="61" y="100">la religion</text>
-							<text style="font-size:9px" x="61" y="110">la religion</text>
+							<text style="font-size:9px" x="61" y="110">populaire</text>
 						</g>
 					</svg>
 				</div>
@@ -1012,8 +1012,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">1907</text>
 							<text style="font-size:9px" x="61" y="60">Folklore de</text>
 							<text style="font-size:9px" x="61" y="70">Terre Sainte ;</text>
-							<text style="font-size:9px" x="61" y="80">Musulmans, chrétiens</text>
-							<text style="font-size:9px" x="61" y="90">et juifs</text>
+							<text style="font-size:9px" x="61" y="80">Musulmans,</text>
+							<text style="font-size:9px" x="61" y="90">chrétiens</text>
+							<text style="font-size:9px" x="61" y="100">et juifs</text>
 						</g>
 					</svg>
 				</div>
@@ -1157,10 +1158,11 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1937</text>
-							<text style="font-size:9px" x="61" y="50">Le</text>
-							<text style="font-size:9px" x="61" y="60">La plateforme de Colomb :</text>
-							<text style="font-size:9px" x="61" y="70">les principes directeurs</text>
-							<text style="font-size:9px" x="61" y="80">du judaïsme réformé</text>
+							<text style="font-size:9px" x="61" y="50">La plateforme</text>
+							<text style="font-size:9px" x="61" y="60">de Colomb :</text>
+							<text style="font-size:9px" x="61" y="70">les principes</text>
+							<text style="font-size:9px" x="61" y="80">directeurs du</text>
+							<text style="font-size:9px" x="61" y="90">judaïsme réformé</text>
 						</g>
 					</svg>
 				</div>
@@ -1234,9 +1236,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Solomon Schechter</text>
 							<text style="font-size:4px" x="61" y="125">1896</text>
-							<text style="font-size:9px" x="61" y="60">Études sur le judaïsme -</text>
-							<text style="font-size:9px" x="61" y="70">Les dogmes</text>
-							<text style="font-size:9px" x="61" y="80">du judaïsme</text>
+							<text style="font-size:9px" x="61" y="60">Études sur </text>
+							<text style="font-size:9px" x="61" y="70">le judaïsme -</text>
+							<text style="font-size:9px" x="61" y="80">Les dogmes</text>
+							<text style="font-size:9px" x="61" y="90">du judaïsme</text>
 						</g>
 					</svg>
 				</div>

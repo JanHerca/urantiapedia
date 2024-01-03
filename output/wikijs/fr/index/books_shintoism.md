@@ -94,7 +94,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">G. Katō and H. Hoshino (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">G. Katō et H. Hoshino (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1926</text>
 							<text style="font-size:9px" x="61" y="60">Kogoshui:</text>
 							<text style="font-size:9px" x="61" y="70">Glanages d'histoires</text>
@@ -104,7 +104,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Kogoshui: Glanages d'histoires anciennes</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Genchi Katō and Hikoshirō Hoshino (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Genchi Katō et Hikoshirō Hoshino (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -125,7 +125,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Kyuso (Muro Naokiyo), George William Knox (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Kyuso (Muro Naokiyo), G. W. Knox (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1892</text>
 							<text style="font-size:9px" x="61" y="60">Le Shundai Zatsuwa</text>
 							<text style="font-size:9px" x="61" y="70">(Un philosophe</text>
@@ -300,7 +300,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Lady Murasaki Shikibu; Suematsu Kencho (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Lady Murasaki Shikibu; S. Kencho (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
 							<text style="font-size:9px" x="61" y="60">Genji Monogatari</text>
 						</g>
@@ -427,7 +427,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">S. Yamabe and L. Adams Beck</text>
+							<text style="font-size:5px" x="61" y="22">S. Yamabe et L. Adams Beck</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">Psaumes bouddhistes</text>
 						</g>
@@ -435,7 +435,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaumes bouddhistes</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Yamabe and L. Adams Beck</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Yamabe et L. Adams Beck</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -451,7 +451,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Teresa Peirce Williston, Sanchi Ogawa (il.)</text>
+							<text style="font-size:5px" x="61" y="22">T. Peirce Williston, S. Ogawa (il.)</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
 							<text style="font-size:9px" x="61" y="60">Contes japonais</text>
 							<text style="font-size:9px" x="61" y="70">Deuxième série</text>
@@ -532,7 +532,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">Les pièces</text>
 							<text style="font-size:9px" x="61" y="70">de théâtre Le Nō</text>
-							<text style="font-size:9px" x="61" y="70">du Japon</text>
+							<text style="font-size:9px" x="61" y="80">du Japon</text>
 						</g>
 					</svg>
 				</div>

@@ -20,7 +20,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Thomas C. Chamberlin</text>
 							<text style="font-size:5px" x="61" y="28">and Rollin D. Salisbury</text>
-							<text style="font-size:4px" x="61" y="125">Henry Holt and Company, New York, 1909</text>
+							<text style="font-size:4px" x="61" y="125">Henry Holt et Company, New York, 1909</text>
 							<text style="font-size:9px" x="61" y="60">Un manuel</text>
 							<text style="font-size:9px" x="61" y="70">universitaire</text>
 							<text style="font-size:9px" x="61" y="80">de géologie</text>
@@ -29,7 +29,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Un manuel universitaire de géologie</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Thomas C. Chamberlin and Rollin D. Salisbury</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Thomas C. Chamberlin et Rollin D. Salisbury</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -97,7 +97,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Charles Schuchert and Carl O. Dunbar</text>
+							<text style="font-size:5px" x="61" y="22">Charles Schuchert et Carl O. Dunbar</text>
 							<text style="font-size:4px" x="61" y="125">New York: John Wiley & Sons, Inc., 1933</text>
 							<text style="font-size:9px" x="61" y="60">Un manuel de géologie</text>
 							<text style="font-size:9px" x="61" y="80">partie II</text>
@@ -107,7 +107,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Un manuel de géologie, partie II – Géologie historique, troisième édition, largement réécrit</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Schuchert and Carl O. Dunbar</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Schuchert et Carl O. Dunbar</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -292,7 +292,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psychologie normative de la religion</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman and Regina Westcott-Wieman</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman et Regina Westcott-Wieman</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

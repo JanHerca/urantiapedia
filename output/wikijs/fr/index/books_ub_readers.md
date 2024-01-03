@@ -13,7 +13,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-card-top-image">
-					<img class="urantiapedia-card-top-image" src="/image/Le_Urantia_Book/UBcover/en_cover.jpg">
+					<img class="urantiapedia-card-top-image" src="/image/The_Urantia_Book/UBcover/fr_cover.jpg">
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Livre d'Urantia</div>

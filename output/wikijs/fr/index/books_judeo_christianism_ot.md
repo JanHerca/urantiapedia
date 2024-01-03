@@ -504,7 +504,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">Cantique des cantiques</text>
+							<text style="font-size:9px" x="61" y="60">Cantique des</text>
+							<text style="font-size:9px" x="61" y="70">cantiques</text>
 						</g>
 					</svg>
 				</div>
@@ -912,7 +913,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 </div>
 
 
-## Old Testament Deuterocanon
+## Deutérocanon de l’Ancien Testament
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -1523,7 +1524,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">??</text>
 							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:9px" x="61" y="60">Psaumes de Salomon</text>
+							<text style="font-size:9px" x="61" y="60">Psaumes de</text>
+							<text style="font-size:9px" x="61" y="70">Salomon</text>
 						</g>
 					</svg>
 				</div>
@@ -2442,7 +2444,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="130">M. R. James</text>
-							<text style="font-size:3px" x="61" y="135">Apocrypha anecdota 2. Texts and Studies, 1897</text>
+							<text style="font-size:3px" x="61" y="135">Apocrypha anecdota 2. Texts et Studies, 1897</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
 							<text style="font-size:9px" x="61" y="70">de Job</text>
 						</g>
@@ -2680,7 +2682,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="60">de Salomon</text>
+							<text style="font-size:9px" x="61" y="70">de Salomon</text>
 						</g>
 					</svg>
 				</div>
@@ -2704,7 +2706,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">xxxxx</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
-							<text style="font-size:9px" x="61" y="60">de Sophonie</text>
+							<text style="font-size:9px" x="61" y="70">de Sophonie</text>
 						</g>
 					</svg>
 				</div>

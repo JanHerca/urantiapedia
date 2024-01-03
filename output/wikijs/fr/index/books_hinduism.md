@@ -391,7 +391,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Garuda Purana</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Wood and S.V. Subrahmanyam (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Wood et S.V. Subrahmanyam (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -883,7 +883,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le joyau de la crête de la sagesse et autres écrits de Śankarâchârya</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Johnston, translation and commentaries</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Johnston, translation et commentaries</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -901,7 +901,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">L.D. Barnett</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
-							<text style="font-size:9px" x="61" y="60">Connaissance de Brahma</text>
+							<text style="font-size:9px" x="61" y="60">Connaissance </text>
+							<text style="font-size:9px" x="61" y="70">de Brahma</text>
 						</g>
 					</svg>
 				</div>
@@ -1181,7 +1182,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">F. Kingsbury and G.P. Phillips (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">F. Kingsbury et G.P. Phillips (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1829</text>
 							<text style="font-size:9px" x="61" y="60">Hymnes des</text>
 							<text style="font-size:9px" x="61" y="70">saints tamouls</text>
@@ -1191,7 +1192,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hymnes des saints tamouls saivites</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">F. Kingsbury and G.P. Phillips (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">F. Kingsbury et G.P. Phillips (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1388,7 +1389,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Vedic and Puranic, W.J. Wilkins</text>
+							<text style="font-size:5px" x="61" y="22">Vedic et Puranic, W.J. Wilkins</text>
 							<text style="font-size:4px" x="61" y="125">1900</text>
 							<text style="font-size:9px" x="61" y="60">Mythologie hindoue</text>
 							<text style="font-size:9px" x="61" y="70">védique et</text>
@@ -1416,7 +1417,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Swâmi Abhedânanda</text>
 							<text style="font-size:4px" x="61" y="125">1902</text>
-							<text style="font-size:9px" x="61" y="60">Comment être un Yogi</text>
+							<text style="font-size:9px" x="61" y="60">Comment être</text>
+							<text style="font-size:9px" x="61" y="70">un Yogi</text>
 						</g>
 					</svg>
 				</div>

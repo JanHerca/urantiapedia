@@ -25,7 +25,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">L'Évangile</text>
 							<text style="font-size:9px" x="61" y="70">de Bouddha :</text>
 							<text style="font-size:9px" x="61" y="80">compilé à partir</text>
-							<text style="font-size:9px" x="61" y="90">de documents anciens</text>
+							<text style="font-size:9px" x="61" y="90">de documents</text>
+							<text style="font-size:9px" x="61" y="100">anciens</text>
 						</g>
 					</svg>
 				</div>
@@ -303,7 +304,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textes Vinaya (3 parties), Le Pâtimokkha, Le Mahâvagga, Le Kullavagga (SBE13)</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">T.W. Rhys Davids and Herman Oldenberg (tr., from the Pâli)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">T.W. Rhys Davids et Herman Oldenberg (tr., from the Pâli)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -444,7 +445,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">W.D.C. Wagiswara and K.J. Saunders</text>
+							<text style="font-size:5px" x="61" y="22">W.D.C. Wagiswara et K.J. Saunders</text>
 							<text style="font-size:4px" x="61" y="125">1920</text>
 							<text style="font-size:9px" x="61" y="60">La Voie de la</text>
 							<text style="font-size:9px" x="61" y="70">Vertu du Bouddha</text>
@@ -453,7 +454,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Voie de la Vertu du Bouddha</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">W.D.C. Wagiswara and K.J. Saunders (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">W.D.C. Wagiswara et K.J. Saunders (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -608,7 +609,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Textes bouddhistes du Mahâyâna (SBE 49)</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">E.B. Cowell, F. Max Müller, and J. Kakakusu (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">E.B. Cowell, F. Max Müller, et J. Kakakusu (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -783,7 +784,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Nyogen Senzaki and Paul Reps</text>
+							<text style="font-size:5px" x="61" y="22">Nyogen Senzaki et Paul Reps</text>
 							<text style="font-size:4px" x="61" y="125">1934</text>
 							<text style="font-size:9px" x="61" y="60">La porte sans porte,</text>
 							<text style="font-size:9px" x="61" y="70">Ekai [Huikai],</text>
@@ -793,7 +794,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">La porte sans porte, Ekai [Huikai], appelée Mu-mon</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Nyogen Senzaki and Paul Reps (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Nyogen Senzaki et Paul Reps (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -964,15 +965,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">S. Yamabe and L. Adams Beck</text>
+							<text style="font-size:5px" x="61" y="22">S. Yamabe et L. Adams Beck</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
-							<text style="font-size:9px" x="61" y="60">Psaumes bouddhistes</text>
+							<text style="font-size:9px" x="61" y="60">Psaumes</text>
+							<text style="font-size:9px" x="61" y="70">bouddhistes</text>
 						</g>
 					</svg>
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaumes bouddhistes</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Yamabe and L. Adams Beck</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">S. Yamabe et L. Adams Beck</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1068,7 +1070,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Lafcadio Hearn</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
 							<text style="font-size:9px" x="61" y="60">Glanures dans</text>
-							<text style="font-size:9px" x="61" y="70">les champs de Bouddha</text>
+							<text style="font-size:9px" x="61" y="70">les champs</text>
+							<text style="font-size:9px" x="61" y="80">de Bouddha</text>
 						</g>
 					</svg>
 				</div>

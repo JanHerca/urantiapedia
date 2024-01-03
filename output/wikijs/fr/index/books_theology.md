@@ -72,7 +72,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Alfred E. Martin, A.M., S.T.B.</text>
-							<text style="font-size:4px" x="61" y="125">New York: D. Appleton and Company, 1926</text>
+							<text style="font-size:4px" x="61" y="125">New York: D. Appleton et Company, 1926</text>
 							<text style="font-size:9px" x="61" y="60">La religion</text>
 							<text style="font-size:9px" x="61" y="70">comparée et</text>
 							<text style="font-size:9px" x="61" y="80">la religion</text>
@@ -262,7 +262,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rev. L.W. Grensted, M.A., D.D.</text>
-							<text style="font-size:4px" x="61" y="125">London: Longmans, Green and Co., 1931</text>
+							<text style="font-size:4px" x="61" y="125">London: Longmans, Green et Co., 1931</text>
 							<text style="font-size:9px" x="61" y="50">La psychologie</text>
 							<text style="font-size:9px" x="61" y="60">et Dieu : une étude</text>
 							<text style="font-size:9px" x="61" y="70">des implications de</text>
@@ -289,7 +289,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</text>
+							<text style="font-size:5px" x="61" y="22">G. H. Betts, F. C. Eiselen, G. A. Coe. (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">New York: Le Abingdon Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Religion</text>
 							<text style="font-size:9px" x="61" y="70">et conduite :</text>
@@ -449,7 +449,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Laird, LL.D., F.B.A.</text>
-							<text style="font-size:4px" x="61" y="125">London: George Allen and Unwin Ltd, 1940</text>
+							<text style="font-size:4px" x="61" y="125">London: George Allen et Unwin Ltd, 1940</text>
 							<text style="font-size:9px" x="61" y="60">Théisme</text>
 							<text style="font-size:9px" x="61" y="70">et cosmologie</text>
 						</g>
@@ -511,7 +511,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Croissance de la Religion</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman and Walter Marshall Horton</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Henry Nelson Wieman et Walter Marshall Horton</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -883,7 +883,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">E. Dewitt Burton and S. Mathews</text>
+							<text style="font-size:5px" x="61" y="22">E. Dewitt Burton et S. Mathews</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: University of Chicago Press, 1900</text>
 							<text style="font-size:9px" x="61" y="60">Études constructives</text>
 							<text style="font-size:9px" x="61" y="70">sur la vie</text>
@@ -893,7 +893,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Études constructives sur la vie du Christ</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Dewitt Burton and Shailer Mathews</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Ernest Dewitt Burton et Shailer Mathews</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -910,7 +910,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">George Adam Smith</text>
-							<text style="font-size:4px" x="61" y="125">London: Hodder and Stoughton, 1915</text>
+							<text style="font-size:4px" x="61" y="125">London: Hodder et Stoughton, 1915</text>
 							<text style="font-size:9px" x="61" y="60">Atlas de la</text>
 							<text style="font-size:9px" x="61" y="70">géographie </text>
 							<text style="font-size:9px" x="61" y="80">historique de</text>
@@ -1551,7 +1551,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Vrai Jésus : Ce qu'il a enseigné : Ce qu'il a fait : Qui il était</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Fiske and Burton Scott Easton</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Charles Fiske et Burton Scott Easton</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1778,7 +1778,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">William Smith</text>
-							<text style="font-size:4px" x="61" y="125">Boston: Houghlin, Mifflin and Co., 1870</text>
+							<text style="font-size:4px" x="61" y="125">Boston: Houghlin, Mifflin et Co., 1870</text>
 							<text style="font-size:9px" x="61" y="60">Un dictionnaire</text>
 							<text style="font-size:9px" x="61" y="70">de la Bible</text>
 						</g>
@@ -1865,7 +1865,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Psaumes des Pharisiens, communément appelés les Psaumes de Salomon</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Herbert Edward Ryle, M.A., and Montague Rhodes James, M.A., editors</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Herbert Edward Ryle, M.A., et Montague Rhodes James, M.A., editors</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

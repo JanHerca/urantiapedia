@@ -219,7 +219,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar; Edward Fitzgerald (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar; E. Fitzgerald (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1889</text>
 							<text style="font-size:9px" x="61" y="60">Parlement </text>
 							<text style="font-size:9px" x="61" y="70">des oiseaux</text>
@@ -319,8 +319,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Nur ad-Din Abd ar-Rahman Jami; Edward Fitzgerald (tr.)</text>
-							<text style="font-size:4px" x="61" y="125">1904</text>
+							<text style="font-size:5px" x="61" y="22">Nur ad-Din Abd ar-Rahman Jami</text>
 							<text style="font-size:9px" x="61" y="60">Salaman</text>
 							<text style="font-size:9px" x="61" y="70">et Absal</text>
 						</g>
@@ -480,7 +479,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Diwan de Zeb-un-Nissa</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Zeb-un-Nissa; Magan Lal and Duncan Westbrook (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Zeb-un-Nissa; Magan Lal et Duncan Westbrook (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -754,7 +753,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">P. M. Sykes and Khan Bhadur Ahmad din Khan</text>
+							<text style="font-size:5px" x="61" y="22">P. M. Sykes et K. A. din Khan</text>
 							<text style="font-size:4px" x="61" y="125">1910</text>
 							<text style="font-size:9px" x="61" y="60">La gloire du</text>
 							<text style="font-size:9px" x="61" y="70">monde chiite</text>
@@ -763,7 +762,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">La gloire du monde chiite</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">P. M. Sykes and Khan Bhadur Ahmad din Khan</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">P. M. Sykes et Khan Bhadur Ahmad din Khan</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -907,7 +906,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Robert Hammond</text>
 							<text style="font-size:4px" x="61" y="125">1947</text>
 							<text style="font-size:9px" x="61" y="60">Le philosophie</text>
-							<text style="font-size:9px" x="61" y="60">d'Alfarabi</text>
+							<text style="font-size:9px" x="61" y="70">d'Alfarabi</text>
 						</g>
 					</svg>
 				</div>
@@ -987,7 +986,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">F.E. Johnson and Sheikh Faiz-ullah-bhai (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">F.E. Johnson et S. Faiz-ullah-bhai (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1917</text>
 							<text style="font-size:9px" x="61" y="60">Les poèmes pendus</text>
 						</g>
@@ -995,7 +994,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les poèmes pendus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">F.E. Johnson and Sheikh Faiz-ullah-bhai (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">F.E. Johnson et Sheikh Faiz-ullah-bhai (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1013,7 +1012,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. E. Hanauer</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
-							<text style="font-size:9px" x="61" y="60">Folklore de Terre Sainte</text>
+							<text style="font-size:9px" x="61" y="60">Folklore</text>
 							<text style="font-size:9px" x="61" y="70">de Terre Sainte</text>
 						</g>
 					</svg>
@@ -1060,7 +1059,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Lonsdale and Laura Ragg (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Lonsdale et Laura Ragg (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1907</text>
 							<text style="font-size:9px" x="61" y="60">L'Évangile</text>
 							<text style="font-size:9px" x="61" y="70">de Barnabas</text>
@@ -1069,7 +1068,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'Évangile de Barnabas</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Lonsdale and Laura Ragg (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Lonsdale et Laura Ragg (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

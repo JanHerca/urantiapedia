@@ -255,7 +255,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Anna Kingsford and Edward Maitland (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">A. Kingsford et E. Maitland (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1885</text>
 							<text style="font-size:9px" x="61" y="50">Le Virgin</text>
 							<text style="font-size:9px" x="61" y="60">of the World</text>
@@ -267,7 +267,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Virgin of the World of Hermes Mercurius Trismegistus</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Anna Kingsford and Edward Maitland (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Anna Kingsford et Edward Maitland (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -319,7 +319,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Jean gnostique</text>
 							<text style="font-size:9px" x="61" y="70">le baptiseur</text>
 							<text style="font-size:9px" x="61" y="80">Sélections du</text>
-							<text style="font-size:9px" x="61" y="90">livre de Jean mandéen</text>
+							<text style="font-size:9px" x="61" y="90">livre de Jean</text>
+							<text style="font-size:9px" x="61" y="100">mandéen</text>
 						</g>
 					</svg>
 				</div>
@@ -367,7 +368,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125">ca. 200 A.D.</text>
-							<text style="font-size:9px" x="61" y="60">L'Évangile de Thomas</text>
+							<text style="font-size:9px" x="61" y="60">L'Évangile</text>
+							<text style="font-size:9px" x="61" y="70">de Thomas</text>
 						</g>
 					</svg>
 				</div>
@@ -420,7 +422,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">ca. 200 C.E.</text>
-							<text style="font-size:9px" x="61" y="60">L'Évangile de Thomas</text>
+							<text style="font-size:9px" x="61" y="60">L'Évangile</text>
+							<text style="font-size:9px" x="61" y="70">de Thomas</text>
 						</g>
 					</svg>
 				</div>
@@ -486,7 +489,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">St. Augustine (401 C.E.), Edward Bouverie Pusey (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">St. Augustine</text>
 							<text style="font-size:4px" x="61" y="125">1909-14</text>
 							<text style="font-size:9px" x="61" y="60">Les Confessions</text>
 							<text style="font-size:9px" x="61" y="70">de saint Augustin</text>
@@ -534,7 +537,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22"> Dionysius the Areopagite (ca. 400 C.E.), John Parker (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">Dionysius the Areopagite</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
 							<text style="font-size:9px" x="61" y="60">Les œuvres</text>
 							<text style="font-size:9px" x="61" y="70">de Denys</text>
@@ -708,7 +711,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les lettres d'amour d'Abélard et d'Héloïse</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Anonymous (1128); Israel Gollancz and Honnor Morten (ed.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Anonymous (1128); Israel Gollancz et Honnor Morten (ed.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1234,7 +1237,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">John Milton</text>
 							<text style="font-size:4px" x="61" y="125">1667 et 1671</text>
 							<text style="font-size:9px" x="61" y="60">Paradis perdu,</text>
-							<text style="font-size:9px" x="61" y="60">paradis retrouvé</text>
+							<text style="font-size:9px" x="61" y="70">paradis retrouvé</text>
 						</g>
 					</svg>
 				</div>
@@ -1571,7 +1574,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Nelson Dar</text>
 							<text style="font-size:4px" x="61" y="125">pas de date (avant 1882)</text>
-							<text style="font-size:9px" x="61" y="60">L'Homme des Douleurs</text>
+							<text style="font-size:9px" x="61" y="60">L'Homme</text>
+							<text style="font-size:9px" x="61" y="60">des Douleurs</text>
 						</g>
 					</svg>
 				</div>
@@ -1649,7 +1653,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">La vie inconnue de Jésus-Christ</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Nicolas Notovitch; J. H. Connelly and L. Landsberg (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Nicolas Notovitch; J. H. Connelly et L. Landsberg (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1891,8 +1895,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Woodrow Wilson</text>
 							<text style="font-size:4px" x="61" y="125">1915</text>
-							<text style="font-size:9px" x="61" y="60">La place de John Wesley</text>
-							<text style="font-size:9px" x="61" y="70">dans l'histoire</text>
+							<text style="font-size:9px" x="61" y="60">La place de</text>
+							<text style="font-size:9px" x="61" y="70">John Wesley</text>
+							<text style="font-size:9px" x="61" y="80">dans l'histoire</text>
 						</g>
 					</svg>
 				</div>
@@ -1965,7 +1970,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Julian K. Smyth and William F. Wunsch</text>
+							<text style="font-size:5px" x="61" y="22">Julian K. Smyth et William F. Wunsch</text>
 							<text style="font-size:4px" x="61" y="125">1920</text>
 							<text style="font-size:9px" x="61" y="60">L'essentiel</text>
 							<text style="font-size:9px" x="61" y="70">de Swedishborg</text>
@@ -1974,7 +1979,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'essentiel de Swedishborg</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Julian K. Smyth and William F. Wunsch</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Julian K. Smyth et William F. Wunsch</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -2069,7 +2074,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">David K. Breed</text>
 							<text style="font-size:4px" x="61" y="125">1948</text>
 							<text style="font-size:9px" x="61" y="60">Le procès</text>
-							<text style="font-size:9px" x="61" y="60">du Christ</text>
+							<text style="font-size:9px" x="61" y="70">du Christ</text>
 						</g>
 					</svg>
 				</div>

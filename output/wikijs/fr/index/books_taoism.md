@@ -142,18 +142,19 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">D.T. Suzuki and Paul Carus (tr.)</text>
+							<text style="font-size:5px" x="61" y="22">D.T. Suzuki et Paul Carus (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
-							<text style="font-size:9px" x="61" y="60">Le Canon de la Raison</text>
-							<text style="font-size:9px" x="61" y="70">et de la Vertu</text>
-							<text style="font-size:9px" x="61" y="80">(Tao Teh King</text>
-							<text style="font-size:9px" x="61" y="90">de Lao-tsé)</text>
+							<text style="font-size:9px" x="61" y="60">Le Canon de</text>
+							<text style="font-size:9px" x="61" y="70">la Raison et</text>
+							<text style="font-size:9px" x="61" y="80">de la Vertu</text>
+							<text style="font-size:9px" x="61" y="90">(Tao Teh King</text>
+							<text style="font-size:9px" x="61" y="100">de Lao-tsé)</text>
 						</g>
 					</svg>
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Canon de la Raison et de la Vertu (Tao Teh King de Lao-tsé) chinois et anglais</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">D.T. Suzuki and Paul Carus (tr.)</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">D.T. Suzuki et Paul Carus (tr.)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -171,9 +172,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lionel Giles (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1912</text>
-							<text style="font-size:9px" x="61" y="60">Enseignements taoïstes,</text>
-							<text style="font-size:9px" x="61" y="70">tirés du Livre</text>
-							<text style="font-size:9px" x="61" y="80">de Lieh-Tzü</text>
+							<text style="font-size:9px" x="61" y="60">Enseignements</text>
+							<text style="font-size:9px" x="61" y="70">taoïstes,</text>
+							<text style="font-size:9px" x="61" y="80">tirés du Livre</text>
+							<text style="font-size:9px" x="61" y="90">de Lieh-Tzü</text>
 						</g>
 					</svg>
 				</div>
@@ -220,7 +222,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki and Paul Carus</text>
+							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki et Paul Carus</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">T'ai Shang</text>
 							<text style="font-size:9px" x="61" y="70">Kan-Ying P'ien</text>
@@ -229,7 +231,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">T'ai Shang Kan-Ying P'ien</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki and Paul Carus</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki et Paul Carus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -245,7 +247,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki and Paul Carus</text>
+							<text style="font-size:5px" x="61" y="22">Teitaro Suzuki et Paul Carus</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">Yin Chih Wen,</text>
 							<text style="font-size:9px" x="61" y="70">Le Tract de la </text>
@@ -255,7 +257,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Yin Chih Wen, Le Tract de la Voie Tranquille</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki and Paul Carus</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Teitaro Suzuki et Paul Carus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -322,7 +324,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Dwight Goddard and Henri Borel</text>
+							<text style="font-size:5px" x="61" y="22">Dwight Goddard et Henri Borel</text>
 							<text style="font-size:4px" x="61" y="125">1919</text>
 							<text style="font-size:9px" x="61" y="60">Le Tao et Wu Wei</text>
 							<text style="font-size:9px" x="61" y="70">de Laotzu</text>
@@ -331,7 +333,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Tao et Wu Wei de Laotzu</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard and Henri Borel</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard et Henri Borel</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -347,7 +349,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Dwight Goddard and Henri Borel</text>
+							<text style="font-size:5px" x="61" y="22">Dwight Goddard et Henri Borel</text>
 							<text style="font-size:4px" x="61" y="125">1939</text>
 							<text style="font-size:9px" x="61" y="60">Tao et Wu Wei</text>
 							<text style="font-size:9px" x="61" y="70">de Laotzu</text>
@@ -357,7 +359,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tao et Wu Wei de Laotzu (2e éd.)</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard and Henri Borel</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Dwight Goddard et Henri Borel</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
