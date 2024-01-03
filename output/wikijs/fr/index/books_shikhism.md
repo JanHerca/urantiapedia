@@ -1,5 +1,5 @@
 ---
-title: "Religious books of Sikhism"
+title: "Livres religieux du sikhisme"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -19,13 +19,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Max Arthur MacAuliffe</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
-							<text style="font-size:9px" x="61" y="60">Le Sikh Religion</text>
+							<text style="font-size:9px" x="61" y="60">La Religion Sikh</text>
 							<text style="font-size:9px" x="61" y="70">Volume 1</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Sikh Religion, Volume 1</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Religion Sikh, Volume 1</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Max Arthur MacAuliffe</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -44,13 +44,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dorothy Field</text>
 							<text style="font-size:4px" x="61" y="125">1914</text>
-							<text style="font-size:9px" x="61" y="60">Le Religion</text>
-							<text style="font-size:9px" x="61" y="70">of the Sikhs</text>
+							<text style="font-size:9px" x="61" y="60">La Religion</text>
+							<text style="font-size:9px" x="61" y="70">des Sikhs</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Religion of the Sikhs</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">La Religion des Sikhs</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Dorothy Field</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -73,7 +73,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Shri Guru Granth Sahib, Le sacred text of the Sikhs</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Shri Guru Granth Sahib, Le texte sacré des Sikhs</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

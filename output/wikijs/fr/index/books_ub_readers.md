@@ -1,5 +1,5 @@
 ---
-title: "Le Urantia Book and books from readers"
+title: "Le Livre d'Urantia et les livres des lecteurs"
 description:
 published: true
 date: 2023-12-12T14:02:03.086Z
@@ -16,7 +16,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					<img class="urantiapedia-card-top-image" src="/image/Le_Urantia_Book/UBcover/en_cover.jpg">
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Urantia Book</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Le Livre d'Urantia</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Le_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -34,14 +34,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ken Glasziou</text>
 							<text style="font-size:9px" x="61" y="60">Science,</text>
-							<text style="font-size:9px" x="61" y="70">Anthropology</text>
-							<text style="font-size:9px" x="61" y="80">and Archaeology in</text>
-							<text style="font-size:9px" x="61" y="90">Le Urantia Book</text>
+							<text style="font-size:9px" x="61" y="70">anthropologie</text>
+							<text style="font-size:9px" x="61" y="80">et archéologie dans</text>
+							<text style="font-size:9px" x="61" y="90">le Livre d'Urantia</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Science, Anthropology and Archaeology in Le Urantia Book</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Science, anthropologie et archéologie dans le Livre d'Urantia</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Ken Glasziou</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_Le_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
@@ -59,14 +59,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Halbert Katzen</text>
-							<text style="font-size:9px" x="61" y="60">Eugenics,</text>
-							<text style="font-size:9px" x="61" y="70">Race and</text>
-							<text style="font-size:9px" x="61" y="80">Le Urantia Book</text>
+							<text style="font-size:9px" x="61" y="60">L'Eugénisme,</text>
+							<text style="font-size:9px" x="61" y="70">la Race et</text>
+							<text style="font-size:9px" x="61" y="80">le Livre d'Urantia</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Eugenics, Race and Le Urantia Book</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">L'Eugénisme, la Race et le Livre d'Urantia</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Halbert Katzen</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/book/Halbert_Katzen/Eugenics_Race_and_Le_Urantia_Book" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
