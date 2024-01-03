@@ -113,7 +113,7 @@ const BibleAbbreviations = {
 		'Tb': ['Tobit', '/bg/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/bg/Bible/Judith', 'APO'],
 		'1 Enoch': ['Първа книга Енох', '/bg/Bible/Book_of_Enoch', 'APO'],
-		'As. Mos.': ['Assumption of Moses', '/bg/Bible/Assumption_of_Moses', 'APO']
+		'TesMos': ['Assumption of Moses', '/bg/Bible/Assumption_of_Moses', 'APO']
 	},
 	cs: {
 		'Gn': ['Genesis', '/cs/Bible/Genesis', 'OT'],
@@ -508,7 +508,7 @@ const BibleAbbreviations = {
 		'Tb': ['Tobit', '/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/Bible/Judith', 'APO'],
 		'1 Enoch': ['Book of Enoch', '/Bible/Book_of_Enoch', 'APO'],
-		'As. Mos.': ['Assumption of Moses', '/Bible/Assumption_of_Moses', 'APO'],
+		'TesMos': ['Assumption of Moses', '/Bible/Assumption_of_Moses', 'APO'],
 		'1 Esdras': ['1 Esdras', '/Bible/1_Esdras', 'APO'],
 		'2 Esdras': ['2 Esdras', '/Bible/2_Esdras', 'APO'],
 		'1 Adam': ['First book of Adam and Eve', '/Bible/First_book_of_Adam_and_Eve', 'APO'],
@@ -639,7 +639,7 @@ const BibleAbbreviations = {
 		'Tb': ['Tobit', '/es/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/es/Bible/Judith', 'APO'],
 		'1 Enoc': ['Libro de Enoc', '/es/Bible/Book_of_Enoch', 'APO'],
-		'As. Mos.': ['Asunción de Moisés', '/es/Bible/Assumption_of_Moses', 'APO']
+		'TesMos': ['Asunción de Moisés', '/es/Bible/Assumption_of_Moses', 'APO']
 	},
 	et: {
 		'1Ms': ['Esimene Moosese raamat', '/et/Bible/Genesis', 'OT'],
@@ -797,7 +797,7 @@ const BibleAbbreviations = {
 		'Tb': ['توبیت', '/fa/Bible/Tobit', 'APO'],
 		'Jdt': ['جودیت', '/fa/Bible/Judith', 'APO'],
 		'1 Enoc': ['کتاب خنوخ', '/fa/Bible/Book_of_Enoch', 'APO'],
-		'As. Mos.': ['فرض موسی', '/fa/Bible/Assumption_of_Moses', 'APO']
+		'TesMos': ['فرض موسی', '/fa/Bible/Assumption_of_Moses', 'APO']
 	},
 	fi: {
 		'1 Moos': ['Ensimmäinen Mooseksen kirja', '/fi/Bible/Genesis', 'OT'],
@@ -955,7 +955,7 @@ const BibleAbbreviations = {
 		'Tb': ['Tobie', '/fr/Bible/Tobit', 'APO'],
 		'Jdt': ['Judith', '/fr/Bible/Judith', 'APO'],
 		'1 Hénoch': ['Livre d\'Hénoch', '/fr/Bible/Book_of_Enoch', 'APO'],
-		'As. Mo.': ['Assomption de Moïse', '/fr/Bible/Assumption_of_Moses', 'APO']
+		'TesMos': ['Assomption de Moïse', '/fr/Bible/Assumption_of_Moses', 'APO']
 	},
 	he: {
 		'בר': ['בראשית', '/he/Bible/Genesis', 'OT'],
@@ -1271,7 +1271,7 @@ const BibleAbbreviations = {
 		'Tb': ['Tobia', '/it/Bible/Tobit', 'APO'],
 		'Gdt': ['Giuditta', '/it/Bible/Judith', 'APO'],
 		'1 Enoc': ['Libro di Enoch', '/it/Bible/Book_of_Enoch', 'APO'],
-		'As. Mos.': ['Assunzione di Mosè', '/it/Bible/Assumption_of_Moses', 'APO']
+		'TesMos': ['Assunzione di Mosè', '/it/Bible/Assumption_of_Moses', 'APO']
 	},
 	ja: {
 		'創': ['創世記', '/ja/Bible/Genesis', 'OT'],
@@ -1745,7 +1745,7 @@ const BibleAbbreviations = {
 		'Tb': ['Tobias', '/pt/Bible/Tobit', 'APO'],
 		'Jdt': ['Judite', '/pt/Bible/Judith', 'APO'],
 		'1 Enoque': ['Primeiro Livro de Enoque', '/pt/Bible/Book_of_Enoch', 'APO'],
-		'As. Mo.': ['Assunção de Moisés', '/pt/Bible/Assumption_of_Moses', 'APO']
+		'TesMos': ['Assunção de Moisés', '/pt/Bible/Assumption_of_Moses', 'APO']
 	},
 	ro: {
 		'Gen': ['Geneza', '/ro/Bible/Genesis', 'OT'],
