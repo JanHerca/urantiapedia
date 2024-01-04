@@ -2514,7 +2514,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">M. R. James</text>
+							<text style="font-size:3px" x="61" y="135">Biblical Antiquities of Philo, 1917</text>
 							<text style="font-size:9px" x="61" y="60">Pseudo-Philo</text>
 						</g>
 					</svg>
