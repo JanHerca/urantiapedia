@@ -44,6 +44,6 @@ James Charlesworth writes: “The original text was probably composed from diver
 
 ## External links
 
-- [Early Jewish Writings](https://www.earlyjewishwritings.com/pseudophocylides.html)
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/livesprophets.html)
 - [Internet Archive - Charlesworth](https://archive.org/details/the-old-testament-pseudepigrapha-vol.-2-expansions-of-the-old-testament-and-lege/page/379/mode/2up?view=theater)
 - [Wikipedia](https://en.wikipedia.org/wiki/Lives_of_the_Prophets)
