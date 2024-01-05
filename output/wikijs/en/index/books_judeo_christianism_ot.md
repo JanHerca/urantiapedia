@@ -2612,7 +2612,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
 							<text style="font-size:9px" x="61" y="70">of Sedrach</text>
 						</g>
@@ -2621,7 +2622,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse of Sedrach</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Apocalypse_of_Sedrach" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>

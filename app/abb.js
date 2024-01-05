@@ -562,6 +562,10 @@ const BibleAbbreviations = {
 		'JosAsen': ['Joseph and Aseneth', '/Bible/Joseph_and_Aseneth', 'APO'], 
 		'5 Macc': ['5 Maccabees', '/Bible/5_Maccabees', 'APO'], 
 		'PdPhilo': ['Pseudo-Philo', '/Bible/Pseudo_Philo', 'APO'], 
+		'PdPho': ['Pseudo-Phocylides', '/Bible/Pseudo_Phocylides', 'APO'],
+		'LiPro': ['The Lives of the Prophets', '/Bible/The_Lives_of_the_Prophets', 'APO'],
+		'Recab': ['History of the Rechabites', '/Bible/History_of_the_Rechabites', 'APO'],
+		'ApSed': ['Apocalypse of Sedrach', '/Bible/Apocalypse_of_Sedrach', 'APO'],
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],
