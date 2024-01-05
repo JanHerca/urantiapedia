@@ -566,6 +566,9 @@ const BibleAbbreviations = {
 		'LiPro': ['The Lives of the Prophets', '/Bible/The_Lives_of_the_Prophets', 'APO'],
 		'Recab': ['History of the Rechabites', '/Bible/History_of_the_Rechabites', 'APO'],
 		'ApSed': ['Apocalypse of Sedrach', '/Bible/Apocalypse_of_Sedrach', 'APO'],
+		'TreShem': ['Treatise of Shem', '/Bible/Treatise_of_Shem', 'APO'],
+		'TesSol': ['Testament of Solomon', '/Bible/Testament_of_Solomon', 'APO'],
+		'ApZep': ['Apocalypse of Zephaniah', '/Bible/Apocalypse_of_Zephaniah', 'APO'],
 	},
 	es: {
 		'Gn': ['Génesis', '/es/Bible/Genesis', 'OT'],
