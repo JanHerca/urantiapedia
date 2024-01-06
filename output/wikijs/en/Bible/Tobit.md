@@ -56,6 +56,6 @@ The book is included in the Catholic and Orthodox canons but not in the Jewish; 
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/text/tobit.html
-- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Tobit
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/text/tobit.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Tobit)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

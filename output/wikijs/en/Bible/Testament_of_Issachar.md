@@ -39,6 +39,6 @@ See commentary in the [first testament book](/en/Bible/Testament_of_Reuben)
 
 ## External links
 
-- Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_013
-- Wikipedia: https://en.wikipedia.org/wiki/Testaments_of_the_Twelve_Patriarchs
-- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_013)
+- [Wikipedia](https://en.wikipedia.org/wiki/Testaments_of_the_Twelve_Patriarchs)
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)

@@ -78,6 +78,6 @@ The structure of this absorbing work is as follows:
 
 ## External links
 
-- Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_005
-- Wikipedia: https://en.wikipedia.org/wiki/Letter_of_Aristeas
-- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_005)
+- [Wikipedia](https://en.wikipedia.org/wiki/Letter_of_Aristeas)
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)

@@ -63,6 +63,6 @@ Besides the literary value of the trumpet-like rhythm of these verses, we have h
 
 ## External links
 
-- Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_003
-- Wikipedia: https://en.wikipedia.org/wiki/Psalms_of_Solomon
-- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_003)
+- [Wikipedia](https://en.wikipedia.org/wiki/Psalms_of_Solomon)
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)

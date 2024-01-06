@@ -51,6 +51,6 @@ Although not in the Hebrew Bible, it is found in the Septuagint, in the Eritrean
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/baruch.html
-- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Baruch
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/baruch.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Baruch)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

@@ -110,6 +110,6 @@ The writing appeals to the reader who thrills to lend wings to his thoughts and 
 
 ## External links
 
-- Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_002
-- Wikipedia: https://en.wikipedia.org/wiki/2_Enoch
-- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_002)
+- [Wikipedia](https://en.wikipedia.org/wiki/2_Enoch)
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)

@@ -43,6 +43,6 @@ This chapter, along with chapter 13, is considered deuterocanonical: it was unkn
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/bel.html
-- Wikipedia: https://en.wikipedia.org/wiki/Bel_and_the_Dragon
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/bel.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Bel_and_the_Dragon)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

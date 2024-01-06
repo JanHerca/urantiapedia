@@ -76,6 +76,6 @@ David A. deSilva writes: “Determining the date of 1 Esdras is difficult, since
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/1esdras.html
-- Wikipedia: https://en.wikipedia.org/wiki/1_Esdras
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/1esdras.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/1_Esdras)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

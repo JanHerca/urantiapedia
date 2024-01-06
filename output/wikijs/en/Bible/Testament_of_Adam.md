@@ -42,6 +42,6 @@ The work was likely originally written in Syriac. Manuscripts are extant in Syri
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/testadam.html
-- Sacred texts: https://sacred-texts.com/chr/bct/index.htm
-- Wikipedia: https://en.wikipedia.org/wiki/Testament_of_Adam
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/testadam.html)
+- [Sacred texts](https://sacred-texts.com/chr/bct/index.htm)
+- [Wikipedia](https://en.wikipedia.org/wiki/Testament_of_Adam)

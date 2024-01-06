@@ -145,7 +145,7 @@ Book IL The history of the patriarchs who lived before the Flood; the dwelling o
 
 ## External links
 
-- Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_000
-- Wikipedia: https://en.wikipedia.org/wiki/Conflict_of_Adam_and_Eve_with_Satan
-- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
-- Internet Archive: https://archive.org/details/bookofadameveals00malaiala/page/n5/mode/2up
+- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_000)
+- [Wikipedia](https://en.wikipedia.org/wiki/Conflict_of_Adam_and_Eve_with_Satan)
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
+- [Internet Archive](https://archive.org/details/bookofadameveals00malaiala/page/n5/mode/2up)

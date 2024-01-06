@@ -55,6 +55,6 @@ David A. deSilva writes: “It is difficult to determine the date of this story.
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/susanna.html
-- Wikipedia: https://en.wikipedia.org/wiki/Susanna_(Book_of_Daniel)
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/susanna.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Susanna_(Book_of_Daniel))
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

@@ -52,6 +52,6 @@ The writing divides itself into four phases: (1) The Narrative; (2) The Teaching
 
 ## External links
 
-- Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_007
-- Wikipedia: https://en.wikipedia.org/wiki/Story_of_Ahikar
-- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_007)
+- [Wikipedia](https://en.wikipedia.org/wiki/Story_of_Ahikar)
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)

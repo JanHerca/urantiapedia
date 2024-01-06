@@ -93,6 +93,6 @@ In Egypt, it was translated into Greek by the author's unnamed grandson, who add
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/sirach.html
-- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Sirach
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/sirach.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Sirach)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

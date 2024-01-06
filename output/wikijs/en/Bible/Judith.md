@@ -56,6 +56,6 @@ _From King James Version_
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/judith.html
-- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Judith
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/judith.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Judith)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

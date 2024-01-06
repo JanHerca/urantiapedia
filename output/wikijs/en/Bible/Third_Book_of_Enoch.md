@@ -96,6 +96,6 @@ The name “3 Enoch” was coined by Hugo Odeberg for his first critical edition
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/3enoch.html
-- Internet Archive: https://archive.org/details/pdfy-lFh2SRV-tLJq15wg/
-- Wikipedia: https://en.wikipedia.org/wiki/3_Enoch
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/3enoch.html)
+- [Internet Archive](https://archive.org/details/pdfy-lFh2SRV-tLJq15wg/)
+- [Wikipedia](https://en.wikipedia.org/wiki/3_Enoch)

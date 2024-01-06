@@ -85,6 +85,6 @@ For these dazzling mystery odes, we owe our translation to J. Rendel Harris, MA.
 
 ## External links
 
-- Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_004
-- Wikipedia: https://en.wikipedia.org/wiki/Odes_of_Solomon
-- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
+- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_004)
+- [Wikipedia](https://en.wikipedia.org/wiki/Odes_of_Solomon)
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)

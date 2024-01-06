@@ -43,5 +43,5 @@ The Eastern Orthodox, Coptic Orthodox, Armenian Apostolic, and Syrian Orthodox c
 
 ## External links
 
-- Wikipedia: https://en.wikipedia.org/wiki/Psalm_151
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Wikipedia](https://en.wikipedia.org/wiki/Psalm_151)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

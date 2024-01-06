@@ -57,6 +57,6 @@ Daniel J. Harrington writes: “The Hebrew Esther is canonical for Jews and Prot
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/addesther.html
-- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Esther#Additions_to_Esther
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/addesther.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Esther#Additions_to_Esther)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

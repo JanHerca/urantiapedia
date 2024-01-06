@@ -39,6 +39,6 @@ The Apocalypse of Adam is a Sethian Gnostic apocalyptic writing. It is the fifth
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/apocadam.html
-- Wikipedia: https://en.wikipedia.org/wiki/Apocalypse_of_Adam
-- Internet Archive: https://archive.org/details/naghammadilibrar00jame
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/apocadam.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Apocalypse_of_Adam)
+- [Internet Archive](https://archive.org/details/naghammadilibrar00jame)

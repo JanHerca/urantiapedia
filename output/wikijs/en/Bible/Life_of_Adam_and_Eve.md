@@ -49,5 +49,5 @@ While the surviving versions were composed from the early 3rd to the 5th century
 
 ## External links
 
-- Wikipedia: https://en.wikipedia.org/wiki/Life_of_Adam_and_Eve
-- Internet Archive: https://archive.org/details/TheApocryphaAndPseudepigraphaOfTheOldTestamentInEnglishWith_439/mode/2up
+- [Wikipedia](https://en.wikipedia.org/wiki/Life_of_Adam_and_Eve)
+- [Internet Archive](https://archive.org/details/TheApocryphaAndPseudepigraphaOfTheOldTestamentInEnglishWith_439/mode/2up)

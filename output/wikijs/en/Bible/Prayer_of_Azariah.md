@@ -57,6 +57,6 @@ David A. deSilva writes: “The anonymous author or authors clearly were quite s
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/azariah.html
-- Wikipedia: https://en.wikipedia.org/wiki/Prayer_of_Azariah_and_Song_of_the_Three_Holy_Children
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/azariah.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Prayer_of_Azariah_and_Song_of_the_Three_Holy_Children)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

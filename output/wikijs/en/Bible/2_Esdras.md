@@ -84,6 +84,6 @@ David A. deSilva writes: “One important textual problem concerns the omision o
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/2esdras.html
-- Wikipedia: https://en.wikipedia.org/wiki/2_Esdras
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/2esdras.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/2_Esdras)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

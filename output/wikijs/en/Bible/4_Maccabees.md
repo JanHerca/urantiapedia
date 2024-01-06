@@ -53,7 +53,7 @@ The ancient Fathers of the Christian Church carefully preserved this book (we ha
 
 ## External links
 
-- Sacred texts: https://archive.sacred-texts.com/bib/fbe/index.htm#section_006
-- Wikipedia: https://en.wikipedia.org/wiki/4_Maccabees
-- Wikipedia: https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_006)
+- [Wikipedia](https://en.wikipedia.org/wiki/4_Maccabees)
+- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

@@ -49,6 +49,6 @@ The prayer appears in ancient Syriac, Old Slavonic, Ethiopic, and Armenian trans
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/manasseh.html
-- Wikipedia: https://en.wikipedia.org/wiki/Prayer_of_Manasseh
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/manasseh.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Prayer_of_Manasseh)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

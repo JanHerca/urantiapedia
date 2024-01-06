@@ -59,6 +59,6 @@ _From King James Version_
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/text/wisdom.html
-- Wikipedia: https://en.wikipedia.org/wiki/Book_of_Wisdom
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/text/wisdom.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Wisdom)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

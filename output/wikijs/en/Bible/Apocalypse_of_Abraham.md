@@ -70,12 +70,12 @@ _From “The Apocalypse of Abraham”, by G. H. Box [1919]_
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/apocabraham.html
-- Pseudepigrapha: http://www.pseudepigrapha.com/pseudepigrapha/Apocalypse_of_Abraham.html
-- Marquette University: http://www.marquette.edu/maqom/box.pdf
-- Internet Archive: https://archive.org/details/apocalypseofabra00boxg
-- Wikipedia: https://en.wikipedia.org/wiki/Apocalypse_of_Abraham
-- Wikipedia: https://en.wikipedia.org/wiki/Biblical_apocrypha
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/apocabraham.html)
+- [Pseudepigrapha](http://www.pseudepigrapha.com/pseudepigrapha/Apocalypse_of_Abraham.html)
+- [Marquette University](http://www.marquette.edu/maqom/box.pdf)
+- [Internet Archive](https://archive.org/details/apocalypseofabra00boxg)
+- [Wikipedia](https://en.wikipedia.org/wiki/Apocalypse_of_Abraham)
+- [Wikipedia](https://en.wikipedia.org/wiki/Biblical_apocrypha)
 
 
 

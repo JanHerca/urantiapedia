@@ -76,9 +76,9 @@ The Testament of Abraham was likely written originally in Koine Greek, by someon
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/testabraham.html
-- Wikipedia: https://en.wikipedia.org/wiki/Testament_of_Abraham
-- Internet Archive (_The Ante-Nicene Fathers: translations of the writings of the Fathers down to A.D. 325_): https://archive.org/details/antenicenefather09robeuoft
-- New Advent: https://www.newadvent.org/fathers/1007.htm
-- Pseudepigrapha: http://www.pseudepigrapha.com/pseudepigrapha/1007.htm
-- Online Library of Liberty: https://oll.libertyfund.org/title/coxe-ante-nicene-fathers-the-writings-of-the-fathers-down-to-a-d-325-10-vols
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/testabraham.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Testament_of_Abraham)
+- [Internet Archive (_The Ante-Nicene Fathers: translations of the writings of the Fathers down to A.D. 325_)](https://archive.org/details/antenicenefather09robeuoft)
+- [New Advent](https://www.newadvent.org/fathers/1007.htm)
+- [Pseudepigrapha](http://www.pseudepigrapha.com/pseudepigrapha/1007.htm)
+- [Online Library of Liberty](https://oll.libertyfund.org/title/coxe-ante-nicene-fathers-the-writings-of-the-fathers-down-to-a-d-325-10-vols)

@@ -59,6 +59,6 @@ The book, like the other Books of the Maccabees, was included in the Septuagint,
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/1maccabees.html
-- Wikipedia: https://www.earlyjewishwritings.com/2maccabees.html
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/1maccabees.html)
+- [Wikipedia](https://www.earlyjewishwritings.com/2maccabees.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)

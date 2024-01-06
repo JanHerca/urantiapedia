@@ -51,6 +51,6 @@ In 3 Maccabees, King Ptolemy IV Philopator attempts to enter the Second Temple i
 
 ## External links
 
-- Early Jewish Writings: https://www.earlyjewishwritings.com/3maccabees.html
-- Wikipedia: https://en.wikipedia.org/wiki/3_Maccabees
-- Wikipedia: https://en.wikipedia.org/wiki/Deuterocanonical_books
+- [Early Jewish Writings](https://www.earlyjewishwritings.com/3maccabees.html)
+- [Wikipedia](https://en.wikipedia.org/wiki/3_Maccabees)
+- [Wikipedia](https://en.wikipedia.org/wiki/Deuterocanonical_books)
