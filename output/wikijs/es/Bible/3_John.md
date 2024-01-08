@@ -29,7 +29,7 @@ La Tercera Epístola de Juan es el penúltimo libro del Nuevo Testamento y la Bi
 
 La literatura de la iglesia primitiva no menciona la epístola, y la primera referencia a ella aparece a mediados del siglo III. Esta falta de documentación, aunque probablemente se deba a la extrema brevedad de la epístola, hizo que los primeros escritores de la iglesia dudaran de su autenticidad hasta principios del siglo V, cuando fue aceptada en el canon junto con las otras dos epístolas de Juan. El lenguaje de 3 Juan se hace eco del Evangelio de Juan, que se fecha convencionalmente alrededor del año 90 d. C., por lo que la epístola probablemente se escribió cerca del final del primer siglo. Otros cuestionan este punto de vista, como el erudito John A. T. Robinson, quien fecha 3 Juan hasta c. 60-65 d.C. Se desconoce la ubicación de la escritura, pero la tradición la sitúa en Éfeso. La epístola se encuentra en muchos de los manuscritos más antiguos del Nuevo Testamento, y su texto está libre de discrepancias importantes o variantes textuales.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/3_John/1)
 
@@ -37,6 +37,6 @@ La literatura de la iglesia primitiva no menciona la epístola, y la primera ref
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Third_Epistle_of_John
+- [Wikipedia](https://es.wikipedia.org/wiki/Tercera_ep%C3%ADstola_de_Juan)

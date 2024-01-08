@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Segunda epístola a los corintios</text>
+		<text style="font-size:9px" x="61" y="60">Segunda epístola</text>
+		<text style="font-size:9px" x="61" y="70">a los corintios</text>
 	</g>
 </svg>
 </div>
@@ -27,7 +28,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La Segunda Epístola a los Corintios es una epístola paulina del Nuevo Testamento de la Biblia cristiana. La epístola se atribuye al apóstol Pablo y a un coautor llamado Timoteo, y está dirigida a la iglesia de Corinto y a los cristianos de la provincia circundante de Acaya, en la actual Grecia. Según Jerónimo, Tito fue el amanuense de esta epístola.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/2_Corinthians/1)
 - [Capítulo 2](/es/Bible/2_Corinthians/2)
@@ -48,6 +49,6 @@ La Segunda Epístola a los Corintios es una epístola paulina del Nuevo Testamen
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians
+- [Wikipedia](https://es.wikipedia.org/wiki/Segunda_ep%C3%ADstola_a_los_corintios)

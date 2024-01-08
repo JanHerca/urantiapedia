@@ -39,4 +39,4 @@ The Second Epistle of Peter is a book of the New Testament of the Bible, traditi
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_of_Peter
+- [Wikipedia](https://en.wikipedia.org/wiki/Second_Epistle_of_Peter)

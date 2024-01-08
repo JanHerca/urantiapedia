@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Segunda epístola a los tesalonicenses</text>
+		<text style="font-size:9px" x="61" y="60">Segunda epístola</text>
+		<text style="font-size:9px" x="61" y="70">a los tesalonicenses</text>
 	</g>
 </svg>
 </div>
@@ -29,7 +30,7 @@ La Segunda Epístola a los Tesalonicenses es un libro del Nuevo Testamento de la
 
 Los eruditos que respaldan su autenticidad consideran que se escribió alrededor del 51-52 d. C., poco después de la Primera Epístola. Quienes lo ven como una composición posterior le asignan una fecha alrededor del 80-115 d.C.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/2_Thessalonians/1)
 - [Capítulo 2](/es/Bible/2_Thessalonians/2)
@@ -40,6 +41,6 @@ Los eruditos que respaldan su autenticidad consideran que se escribió alrededor
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians
+- [Wikipedia](https://es.wikipedia.org/wiki/Segunda_ep%C3%ADstola_a_los_tesalonicenses)

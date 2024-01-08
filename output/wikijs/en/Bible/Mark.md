@@ -56,4 +56,4 @@ In the 19th century, Mark came to be seen as the earliest of the four gospels, a
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Gospel_of_Mark
+- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Mark)

@@ -48,4 +48,4 @@ The Book of Nehemiah in the Hebrew Bible, largely takes the form of a first-pers
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Nehemiah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Nehemiah)

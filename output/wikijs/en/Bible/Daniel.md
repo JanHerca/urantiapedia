@@ -52,4 +52,4 @@ The book's influence has resonated through later ages, from the community of the
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Daniel
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Daniel)

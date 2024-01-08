@@ -65,4 +65,4 @@ The instructions of Leviticus emphasize ritual, legal and moral practices rather
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Leviticus
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Leviticus)

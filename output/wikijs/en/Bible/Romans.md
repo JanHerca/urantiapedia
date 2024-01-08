@@ -52,4 +52,4 @@ The Epistle to the Romans is the sixth book in the New Testament, and the longes
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Romans
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Romans)

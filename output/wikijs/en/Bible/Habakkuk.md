@@ -40,4 +40,4 @@ Of the three chapters in the book, the first two are a dialogue between Yahweh a
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Habakkuk
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Habakkuk)

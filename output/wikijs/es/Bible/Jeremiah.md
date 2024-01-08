@@ -31,7 +31,7 @@ Su libro pretende ser un mensaje a los judíos en el exilio en Babilonia, explic
 
 Se ha presentado en dos versiones distintas aunque relacionadas, una en hebreo, la otra conocida por una traducción griega. La fecha de los dos (griego y hebreo) puede sugerirse por el hecho de que el griego muestra preocupaciones típicas del período persa temprano, mientras que el masorético (es decir, el hebreo) muestra perspectivas que, aunque conocidas en el período persa, no alcanzaron. su realización hasta el siglo II a.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Jeremiah/1)
 - [Capítulo 2](/es/Bible/Jeremiah/2)
@@ -89,6 +89,6 @@ Se ha presentado en dos versiones distintas aunque relacionadas, una en hebreo, 
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Jeremiah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Jeremiah)

@@ -104,4 +104,4 @@ Isaiah was one of the most popular works among Jews in the Second Temple period 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Isaiah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Isaiah)

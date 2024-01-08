@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Segunda epístola de Juan</text>
+		<text style="font-size:9px" x="61" y="60">Segunda epístola</text>
+		<text style="font-size:9px" x="61" y="70">de Juan</text>
 	</g>
 </svg>
 </div>
@@ -29,7 +30,7 @@ La Segunda Epístola de Juan es un libro del Nuevo Testamento atribuido a Juan e
 
 Second John y Third John son los dos libros más cortos de la Biblia. El libro más corto en inglés es diferente según la traducción (versión) que se lea. Por ejemplo, en la Nueva Versión Internacional 2 Juan es el libro más breve con solo 302 palabras, pero en la Versión King James (Versión Autorizada) 3 Juan es el más breve con solo 295 palabras. Sin embargo, Segunda de Juan tiene la menor cantidad de versículos en la Biblia con solo 1 capítulo compuesto por solo 13 versículos. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/2_John/1)
 
@@ -37,6 +38,6 @@ Second John y Third John son los dos libros más cortos de la Biblia. El libro m
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Second_Epistle_of_John
+- [Wikipedia](https://es.wikipedia.org/wiki/Segunda_ep%C3%ADstola_de_Juan)

@@ -85,4 +85,4 @@ The visions, and the book, are structured around three themes: (1) Judgment on I
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Ezekiel
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Ezekiel)

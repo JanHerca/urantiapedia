@@ -74,4 +74,4 @@ Numbers is the culmination of the story of Israel's exodus from oppression in Eg
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Numbers
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Numbers)

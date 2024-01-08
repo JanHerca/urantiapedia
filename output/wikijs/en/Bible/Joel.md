@@ -38,4 +38,4 @@ The Book of Joel is collected as one of the twelve minor prophets of the Nevi'im
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Joel
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Joel)

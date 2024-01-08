@@ -43,4 +43,4 @@ Some scholars note affinities between Zechariah 9–14 and the Book of Malachi. 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Malachi
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Malachi)

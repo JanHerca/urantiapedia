@@ -38,4 +38,4 @@ The Epistle to Titus is one of the three pastoral epistles (along with 1 Timothy
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_Titus
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_Titus)

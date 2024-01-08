@@ -63,4 +63,4 @@ The obscure and extravagant imagery has led to a wide variety of Christian inter
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Revelation
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Revelation)

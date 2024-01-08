@@ -90,4 +90,4 @@ It has come down in two distinct though related versions, one in Hebrew, the oth
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Jeremiah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Jeremiah)

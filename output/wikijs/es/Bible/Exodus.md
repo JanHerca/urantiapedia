@@ -32,7 +32,7 @@ Tradicionalmente atribuido al mismo Moisés, los eruditos modernos ven su compos
 
 [Índice completo de la Biblia](/es/index/bible)
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Exodus/1)
 - [Capítulo 2](/es/Bible/Exodus/2)
@@ -75,6 +75,6 @@ Tradicionalmente atribuido al mismo Moisés, los eruditos modernos ven su compos
 - [Capítulo 39](/es/Bible/Exodus/39)
 - [Capítulo 40](/es/Bible/Exodus/40)
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Exodus
+- [Wikipedia](https://es.wikipedia.org/wiki/%C3%89xodo)

@@ -29,7 +29,7 @@ La Epístola a Filemón es uno de los libros del Nuevo Testamento cristiano. Es 
 
 Filemón era un cristiano rico, posiblemente obispo de la iglesia doméstica que se reunía en su casa (Filemón 1:1-2) en Colosas. Esta carta ahora se considera generalmente como una de las obras indiscutibles de Pablo. Es la más corta de las cartas existentes de Pablo, que consta de solo 335 palabras en el texto griego. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Philemon/1)
 
@@ -38,6 +38,6 @@ Filemón era un cristiano rico, posiblemente obispo de la iglesia doméstica que
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Epistle_to_Philemon
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_Philemon)

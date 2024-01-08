@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La Epístola a Tito es una de las tres epístolas pastorales (junto con 1 Timoteo y 2 Timoteo) en el Nuevo Testamento, históricamente atribuidas al Apóstol Pablo. Está dirigida a San Tito y describe los requisitos y deberes de los ancianos y obispos. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Titus/1)
 - [Capítulo 2](/es/Bible/Titus/2)
@@ -37,6 +37,6 @@ La Epístola a Tito es una de las tres epístolas pastorales (junto con 1 Timote
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Epistle_to_Titus
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_Titus)

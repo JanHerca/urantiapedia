@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 El Libro de Zacarías, atribuido al profeta hebreo Zacarías, está incluido en los Doce Profetas Menores de la Biblia hebrea.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Zechariah/1)
 - [Capítulo 2](/es/Bible/Zechariah/2)
@@ -48,6 +48,6 @@ El Libro de Zacarías, atribuido al profeta hebreo Zacarías, está incluido en 
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Zechariah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Zechariah)

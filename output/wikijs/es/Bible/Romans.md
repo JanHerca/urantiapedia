@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La Epístola a los Romanos es el sexto libro del Nuevo Testamento y la más larga de las trece epístolas paulinas. Los eruditos bíblicos están de acuerdo en que fue compuesto por el apóstol Pablo para explicar que la salvación se ofrece a través del evangelio de Jesucristo. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Romans/1)
 - [Capítulo 2](/es/Bible/Romans/2)
@@ -51,6 +51,6 @@ La Epístola a los Romanos es el sexto libro del Nuevo Testamento y la más larg
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Romans
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Romans)

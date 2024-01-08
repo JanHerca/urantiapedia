@@ -76,4 +76,4 @@ Traditionally ascribed to Moses himself, modern scholars see its initial composi
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Exodus
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Exodus)

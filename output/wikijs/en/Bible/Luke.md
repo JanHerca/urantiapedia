@@ -62,4 +62,4 @@ Most modern scholars agree that the main sources used for Luke were a), the Gosp
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Gospel_of_Luke
+- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Luke)

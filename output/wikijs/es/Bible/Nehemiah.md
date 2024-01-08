@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 El Libro de Nehemías en la Biblia hebrea, toma en gran medida la forma de una memoria en primera persona sobre la reconstrucción de los muros de Jerusalén después del exilio en Babilonia por parte de Nehemías, un judío que es un alto funcionario en la corte persa, y la dedicación de la ciudad y su gente a las leyes de Dios (Torá). Desde el siglo XVI, generalmente se lo ha tratado como un libro separado dentro de la Biblia. Antes de esa fecha, se había incluido en el Libro de Ezra; pero en las Biblias cristianas latinas desde el siglo XIII en adelante, el Libro Vulgata de Esdras se dividió en dos textos, llamados respectivamente Libro Primero y Segundo de Esdras; una separación que se canonizó con las primeras biblias impresas en hebreo y latín. Las traducciones de la Biblia protestante reformada de mediados del siglo XVI producidas en Ginebra fueron las primeras en introducir el nombre 'Libro de Nehemías' para el texto anteriormente llamado 'Segundo Libro de Esdras'.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Nehemiah/1)
 - [Capítulo 2](/es/Bible/Nehemiah/2)
@@ -47,6 +47,6 @@ El Libro de Nehemías en la Biblia hebrea, toma en gran medida la forma de una m
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Nehemiah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Nehemiah)

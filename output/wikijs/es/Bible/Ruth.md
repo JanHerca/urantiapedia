@@ -31,7 +31,7 @@ El libro, escrito en hebreo entre los siglos VI y IV a. C., habla de la mujer mo
 
 El libro es apreciado por judíos que entran en la categoría de judíos por elección, como lo demuestra la considerable presencia de Booz en la literatura rabínica. El Libro de Rut también funciona litúrgicamente, ya que se lee durante la festividad judía de Shavuot ("Semanas"). 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Ruth/1)
 - [Capítulo 2](/es/Bible/Ruth/2)
@@ -43,6 +43,6 @@ El libro es apreciado por judíos que entran en la categoría de judíos por ele
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Ruth
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Ruth)

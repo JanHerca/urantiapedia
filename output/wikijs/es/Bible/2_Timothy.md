@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Segunda epístola a Timoteo</text>
+		<text style="font-size:9px" x="61" y="60">Segunda epístola</text>
+		<text style="font-size:9px" x="61" y="70">a Timoteo</text>
 	</g>
 </svg>
 </div>
@@ -31,7 +32,7 @@ Aunque las pastorales están escritas bajo el nombre de Pablo, son diferentes de
 
 No obstante, varios eruditos importantes han defendido la autoría tradicional de 2 Timoteo. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/2_Timothy/1)
 - [Capítulo 2](/es/Bible/2_Timothy/2)
@@ -43,6 +44,6 @@ No obstante, varios eruditos importantes han defendido la autoría tradicional d
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Second_Epistle_to_Timothy
+- [Wikipedia](https://es.wikipedia.org/wiki/Segunda_ep%C3%ADstola_a_Timoteo)

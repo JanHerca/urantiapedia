@@ -33,7 +33,7 @@ El libro comienza con el nacimiento de Samuel y el llamado de Yahvé cuando era 
 
 En la Septuaginta, base de los cánones bíblicos cristianos, el texto se divide en dos libros, ahora llamados Primer y Segundo Libro de Samuel. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/1_Samuel/1)
 - [Capítulo 2](/es/Bible/1_Samuel/2)
@@ -71,6 +71,6 @@ En la Septuaginta, base de los cánones bíblicos cristianos, el texto se divide
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Books_of_Samuel
+- [Wikipedia](https://es.wikipedia.org/wiki/Libros_de_Samuel)

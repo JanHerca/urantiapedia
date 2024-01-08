@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 El Libro de Nahum es el séptimo libro de los 12 profetas menores de la Biblia hebrea. Se atribuye al profeta Nahum y probablemente fue escrito en Jerusalén en el siglo VII a.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Nahum/1)
 - [Capítulo 2](/es/Bible/Nahum/2)
@@ -37,6 +37,6 @@ El Libro de Nahum es el séptimo libro de los 12 profetas menores de la Biblia h
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Nahum
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Nahum)

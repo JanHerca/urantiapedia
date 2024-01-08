@@ -1,5 +1,5 @@
 ---
-title: Historia de Bel y el Dragón
+title: "Historia de Bel y el Dragón"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -15,8 +15,9 @@ dateCreated: 2021-11-28T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>Bel y el Dragón</text>
+		<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+		<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+		<text style="font-size:9px" x="61" y="60">Bel y el Dragón</text>
 	</g>
 </svg>
 </div>
@@ -28,7 +29,7 @@ La narración de Bel y el Dragón se incorpora como capítulo 14 del Libro ampli
 
 Este capítulo, junto con el capítulo 13, se considera deuterocanónico: era desconocido para el judaísmo rabínico primitivo, y aunque la mayoría de los protestantes lo considera no canónico, es canónico tanto para los cristianos católicos como para los ortodoxos orientales, y se encuentra en la sección apócrifa. de 80 Biblias protestantes. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Bel_and_the_Dragon/1)
 
@@ -37,6 +38,6 @@ Este capítulo, junto con el capítulo 13, se considera deuterocanónico: era de
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Bel_and_the_Dragon
+- [Wikipedia](https://es.wikipedia.org/wiki/Historia_de_Bel_y_el_Drag%C3%B3n)

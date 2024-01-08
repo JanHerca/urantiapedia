@@ -42,4 +42,4 @@ There is a general consensus that Philippians consists of authentically Pauline 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Philippians
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Philippians)

@@ -31,7 +31,7 @@ Kohelet proclama (1:2) “¡Vanidad de vanidades! ¡Todo es inútil!”; la pala
 
 Según la tradición rabínica, el libro fue escrito por el rey Salomón en su vejez, pero la presencia de préstamos persas y arameísmos apunta a una fecha no anterior al 450 a. C., mientras que la fecha más tardía posible para su composición es el 180 a. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Ecclesiastes/1)
 - [Capítulo 2](/es/Bible/Ecclesiastes/2)
@@ -51,6 +51,6 @@ Según la tradición rabínica, el libro fue escrito por el rey Salomón en su v
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Ecclesiastes
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_del_Eclesiast%C3%A9s)

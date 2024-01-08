@@ -29,7 +29,7 @@ El Libro de las Crónicas (en hebreo: דִּבְרֵי־הַיָּמִים Dīvr
 
 El libro se dividió en dos libros en la Septuaginta y se tradujo a mediados del siglo III a. En contextos cristianos, se hace referencia a las Crónicas en plural como los Libros de las Crónicas, por el nombre en latín crónico que Jerónimo le dio al texto, pero también rara vez se les conoce por su nombre griego como los Libros de Paralipomenon. En las Biblias cristianas, por lo general siguen a los dos Libros de los Reyes y preceden a Esdras-Nehemías, el último libro orientado a la historia del Antiguo Testamento protestante. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/1_Chronicles/1)
 - [Capítulo 2](/es/Bible/1_Chronicles/2)
@@ -65,6 +65,6 @@ El libro se dividió en dos libros en la Septuaginta y se tradujo a mediados del
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Books_of_Chronicles
+- [Wikipedia](https://es.wikipedia.org/wiki/Libros_de_Cr%C3%B3nicas)

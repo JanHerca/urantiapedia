@@ -92,4 +92,4 @@ In Judaism, the theological importance of Genesis centres on the covenants linki
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Genesis
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Genesis)

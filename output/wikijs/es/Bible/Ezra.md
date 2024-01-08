@@ -29,7 +29,7 @@ El Libro de Esdras es un libro de la Biblia hebrea; que anteriormente incluía e
 
 Ezra está escrito para ajustarse a un patrón esquemático en el que el Dios de Israel inspira a un rey de Persia a encargar a un líder de la comunidad judía que lleve a cabo una misión; tres líderes sucesivos llevan a cabo tres de esas misiones, la primera reconstruyendo el Templo, la segunda purificando a la comunidad judía y la tercera sellando la ciudad santa detrás de un muro. (Esta última misión, la de Nehemías, no forma parte del Libro de Esdras.) El programa teológico del libro explica los muchos problemas que presenta su estructura cronológica. Probablemente apareció en su primera versión alrededor del 399 a. C., y continuó siendo revisado y editado durante varios siglos antes de ser aceptado como escritura en la era cristiana primitiva.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Ezra/1)
 - [Capítulo 2](/es/Bible/Ezra/2)
@@ -46,6 +46,6 @@ Ezra está escrito para ajustarse a un patrón esquemático en el que el Dios de
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Ezra
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Esdras)

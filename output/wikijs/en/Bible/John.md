@@ -59,4 +59,4 @@ John reached its final form around AD 90–110, although it contains signs of or
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Gospel_of_John
+- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_John)

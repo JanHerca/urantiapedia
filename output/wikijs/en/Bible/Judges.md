@@ -55,4 +55,4 @@ The Book of Judges (ספר שופטים, Sefer Shoftim) is the seventh book of t
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Judges
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Judges)

@@ -29,7 +29,7 @@ El Libro de los Reyes (en hebreo: ספר מלכים, sefer melakhim) es un libro
 
 Los comentaristas bíblicos creen que los Libros de los Reyes se escribieron para proporcionar una explicación teológica de la destrucción del Reino de Judá por Babilonia en c. 586 a. C. y para proporcionar una base para el regreso del exilio en Babilonia. Los dos libros de Reyes presentan una historia del antiguo Israel y Judá, desde la muerte del rey David hasta la liberación de Joaquín del encarcelamiento en Babilonia, un período de unos 400 años (c. 960 - c. 560 a. C.). Los eruditos tienden a tratar los libros como si consistieran en una primera edición de finales del siglo VII a. C. y una segunda y última edición de mediados del siglo VI a. C. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/2_Kings/1)
 - [Capítulo 2](/es/Bible/2_Kings/2)
@@ -60,6 +60,6 @@ Los comentaristas bíblicos creen que los Libros de los Reyes se escribieron par
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Books_of_Kings
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_los_Reyes_(Antiguo_Testamento))

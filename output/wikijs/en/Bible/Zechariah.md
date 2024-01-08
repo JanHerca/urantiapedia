@@ -49,4 +49,4 @@ The Book of Zechariah, attributed to the Hebrew prophet Zechariah, is included i
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Zechariah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Zechariah)

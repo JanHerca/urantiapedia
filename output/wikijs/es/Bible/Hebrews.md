@@ -33,7 +33,7 @@ Los eruditos del griego consideran que su escritura es más pulida y elocuente q
 
 Según la erudición tradicional, el autor de la Epístola a los Hebreos, siguiendo los pasos de Pablo, argumentó que la Ley judía, la piedra angular de las creencias y tradiciones de los descendientes de los padres fundadores, [aclaración necesaria] había jugado un papel legítimo en el pasado, pero fue reemplazado por un Nuevo Pacto para los gentiles (cf. Romanos 7:1–6; Gálatas 3:23–25; Hebreos 8, 10). Sin embargo, un número creciente de eruditos señalan que los términos gentil, cristiano y cristianismo no están presentes en el texto y postulan que Hebreos fue escrito para una audiencia judía, y se ve mejor como un debate entre los seguidores judíos de Jesús y la corriente principal del judaísmo. En tono y detalle, Hebreos va más allá de Pablo e intenta una definición más compleja, matizada y abiertamente contradictoria de la relación. La epístola comienza con una exaltación de Jesús como “el resplandor de la gloria de Dios, la imagen misma de su ser, y el que sustenta todas las cosas con su poderosa palabra” (Hebreos 1:1–3). La epístola presenta a Jesús con los títulos de “pionero” o “precursor”, “Hijo” e “Hijo de Dios”, “sacerdote” y “sumo sacerdote”. La epístola presenta a Jesús como Hijo exaltado y Sumo Sacerdote, una cristología dual única.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Hebrews/1)
 - [Capítulo 2](/es/Bible/Hebrews/2)
@@ -53,6 +53,6 @@ Según la erudición tradicional, el autor de la Epístola a los Hebreos, siguie
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Hebrews
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Hebrews)

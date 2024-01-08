@@ -1,9 +1,9 @@
 ---
-title: Libro de Enoc
+title: "Libro de Enoc"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible, Apocrypha OT
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -16,7 +16,9 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+		<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+		<text style="font-size:3px" x="61" y="135">Los apócrifos y pseudoepígrafos del Antiguo Testamento (tr.)</text>
 		<text style="font-size:9px" x="61" y="60">Libro de Enoc</text>
 	</g>
 </svg>
@@ -24,6 +26,9 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## Descripción
 
+«Libro de Enoc»
+
+_Traducido de «Los apócrifos y pseudoepígrafos del Antiguo Testamento», por R.H. Charles [1913]_
 
 El Libro de Enoc (también 1 Enoc; [nota 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) es un antiguo texto religioso apocalíptico hebreo, atribuido por tradición a Enoc, el bisabuelo de Noé. Enoc contiene material único sobre los orígenes de los demonios y Nephilim, por qué algunos ángeles cayeron del cielo, una explicación de por qué el diluvio de Génesis fue moralmente necesario y una exposición profética del reinado de mil años del Mesías.
 
@@ -37,7 +42,7 @@ Hoy existe en su totalidad solo en el idioma ge'ez etíope, con fragmentos arame
 
 El Libro de Enoc más completo proviene de los manuscritos etíopes, maṣḥafa hēnok (መጽሐፈ ሄኖክ), escritos en ge'ez, que fueron traídos a Europa por James Bruce a finales del siglo XVIII y traducidos al inglés en el siglo XIX.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Book_of_Enoch/1)
 - [Capítulo 2](/es/Bible/Book_of_Enoch/2)
@@ -152,6 +157,6 @@ El Libro de Enoc más completo proviene de los manuscritos etíopes, maṣḥafa
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Enoch
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Enoc)

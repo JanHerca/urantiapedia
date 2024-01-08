@@ -45,4 +45,4 @@ The two are in harmony, each desiring the other and rejoicing in sexual intimacy
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Song_of_Songs
+- [Wikipedia](https://en.wikipedia.org/wiki/Song_of_Songs)

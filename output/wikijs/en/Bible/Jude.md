@@ -38,4 +38,4 @@ Jude is a short epistle written in Koine Greek. It condemns in fierce terms cert
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_of_Jude
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_of_Jude)

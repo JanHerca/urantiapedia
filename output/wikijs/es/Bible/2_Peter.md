@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Segunda epístola de Pedro</text>
+		<text style="font-size:9px" x="61" y="60">Segunda epístola</text>
+		<text style="font-size:9px" x="61" y="60">de Pedro</text>
 	</g>
 </svg>
 </div>
@@ -27,7 +28,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La Segunda Epístola de Pedro es un libro del Nuevo Testamento de la Biblia, tradicionalmente considerado como escrito por el Apóstol Pedro. La mayoría de los eruditos bíblicos críticos consideran que la epístola es pseudoepigráfica (es decir, escrita por alguien que no es Pedro, usando a Pedro como seudónimo).
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/2_Peter/1)
 - [Capítulo 2](/es/Bible/2_Peter/2)
@@ -38,6 +39,6 @@ La Segunda Epístola de Pedro es un libro del Nuevo Testamento de la Biblia, tra
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Second_Epistle_of_Peter
+- [Wikipedia](https://es.wikipedia.org/wiki/Segunda_ep%C3%ADstola_de_Pedro)

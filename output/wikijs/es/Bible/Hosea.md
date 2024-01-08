@@ -31,7 +31,7 @@ Ambientado alrededor de la caída del Reino del Norte de Israel, el Libro de Ose
 
 Fechado en c. 760–720 a. C., es uno de los libros más antiguos de la Biblia hebrea, anterior a las recensiones finales de la Torá completa (Pentateuco). Oseas es la fuente de la frase "cosechar el torbellino", que ha pasado a ser de uso común en inglés y otros idiomas.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Hosea/1)
 - [Capítulo 2](/es/Bible/Hosea/2)
@@ -52,6 +52,6 @@ Fechado en c. 760–720 a. C., es uno de los libros más antiguos de la Biblia h
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Hosea
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Hosea)

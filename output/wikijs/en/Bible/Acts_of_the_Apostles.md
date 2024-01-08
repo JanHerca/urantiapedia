@@ -68,4 +68,4 @@ Luke–Acts is an attempt to answer a theological problem, namely how the Messia
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Acts_of_the_Apostles
+- [Wikipedia](https://en.wikipedia.org/wiki/Acts_of_the_Apostles)

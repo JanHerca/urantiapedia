@@ -31,7 +31,7 @@ Números comienza en el Monte Sinaí, donde los israelitas han recibido sus leye
 
 Números es la culminación de la historia del éxodo de Israel de la opresión en Egipto y su viaje para tomar posesión de la tierra que Dios prometió a sus padres. Como tal, lleva a una conclusión los temas introducidos en Génesis y desarrollados en Éxodo y Levítico: Dios ha prometido a los israelitas que se convertirán en una nación grande (es decir, numerosa), que tendrán una relación especial con Yahvé su dios, y que tomarán posesión de la tierra de Canaán. Números también demuestra la importancia de la santidad, la fidelidad y la confianza: a pesar de la presencia de Dios y de sus sacerdotes, Israel carece de fe y la posesión de la tierra se deja a una nueva generación. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Numbers/1)
 - [Capítulo 2](/es/Bible/Numbers/2)
@@ -73,6 +73,6 @@ Números es la culminación de la historia del éxodo de Israel de la opresión 
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Numbers
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Numbers)

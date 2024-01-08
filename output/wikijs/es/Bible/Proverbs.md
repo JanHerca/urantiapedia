@@ -29,7 +29,7 @@ El Libro de los Proverbios (en hebreo: מִשְלֵי, Mīšlē, “Proverbios (
 
 Proverbios no es simplemente una antología, sino una “colección de colecciones” relacionadas con un patrón de vida que duró más de un milenio. Es un ejemplo de la literatura sapiencial bíblica y plantea cuestiones de valores, comportamiento moral, el significado de la vida humana y la conducta correcta, y su fundamento teológico es que “el temor de Dios (es decir, la sumisión a la voluntad de Dios) es el principio de la sabiduría”. Se alaba a la sabiduría por su papel en la creación; Dios la adquirió ante todo, ya través de ella ordenó el caos; y dado que los humanos tienen vida y prosperidad al ajustarse al orden de la creación, la búsqueda de la sabiduría es la esencia y la meta de la vida. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Proverbs/1)
 - [Capítulo 2](/es/Bible/Proverbs/2)
@@ -68,6 +68,6 @@ Proverbios no es simplemente una antología, sino una “colección de coleccion
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Proverbs
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Proverbs)

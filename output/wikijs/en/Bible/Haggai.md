@@ -37,4 +37,4 @@ The Book of Haggai (/ˈhæɡaɪ/; Hebrew: ספר חגי, romanized: Sefer Ḥagg
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Haggai
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Haggai)

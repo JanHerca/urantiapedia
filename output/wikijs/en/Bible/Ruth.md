@@ -44,4 +44,4 @@ The book is held in esteem by Jews who fall under the category of Jews-by-choice
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Ruth
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Ruth)

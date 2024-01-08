@@ -31,7 +31,7 @@ El libro se atribuye comúnmente a un profeta llamado Malaquías, ya que su tít
 
 Algunos eruditos notan afinidades entre Zacarías 9–14 y el Libro de Malaquías. Zacarías 9, Zacarías 12 y Malaquías 1 se presentan como La palabra de Elohim. Algunos eruditos argumentan que esta colección originalmente constaba de tres profecías independientes y anónimas, dos de las cuales se agregaron posteriormente al Libro de Zacarías como lo que ellos llaman Deutero-Zacarías, y la tercera se convirtió en el Libro de Malaquías. Como resultado, la mayoría de los eruditos consideran que el Libro de Malaquías es obra de un solo autor que puede o no haber sido identificado por el título Malaquías. La actual división de los oráculos da como resultado un total de 12 libros de profetas menores, un número paralelo a los hijos de Jacob que llegaron a ser los jefes de las 12 tribus israelitas. La Enciclopedia Católica afirma: "Sin duda estamos en presencia de una abreviatura del nombre Mál'akhîyah, que es Mensajero de Elohim".
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Malachi/1)
 - [Capítulo 2](/es/Bible/Malachi/2)
@@ -42,6 +42,6 @@ Algunos eruditos notan afinidades entre Zacarías 9–14 y el Libro de Malaquía
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Malachi
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Malachi)

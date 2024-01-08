@@ -44,4 +44,4 @@ The Book of Amos is the third of the Twelve Minor Prophets in the Old Testament 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Amos
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Amos)

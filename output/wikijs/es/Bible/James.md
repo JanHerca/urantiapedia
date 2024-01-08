@@ -35,7 +35,7 @@ En su mayor parte, hasta finales del siglo XX, la epístola de Santiago fue rele
 
 La epístola tiene como objetivo llegar a una amplia audiencia judía. Durante las últimas décadas, la epístola de Santiago ha atraído un creciente interés académico debido a un aumento en la búsqueda del Santiago histórico, su papel dentro del movimiento de Jesús, sus creencias y sus relaciones y puntos de vista. Este avivamiento de Santiago también está asociado con un nivel creciente de conciencia de la base judía tanto de la epístola como del movimiento de Jesús temprano. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/James/1)
 - [Capítulo 2](/es/Bible/James/2)
@@ -48,6 +48,6 @@ La epístola tiene como objetivo llegar a una amplia audiencia judía. Durante l
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Epistle_of_James
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_of_James)

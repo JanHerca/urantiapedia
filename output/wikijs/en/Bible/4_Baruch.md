@@ -55,7 +55,7 @@ J. Riaud writes: “The author of this consolatory writing, which was probably d
 - [Long version](/en/Bible/4_Baruch/Long_version)
 - [Short version](/en/Bible/4_Baruch/Short_version)
 
-# External links
+## External links links
 
 - [Early Jewish Writings](https://www.earlyjewishwritings.com/4baruch.html)
 - [Edition of Robert A. Kraft at _University of Pennsylvania_](https://ccat.sas.upenn.edu/rak//publics/pseudepig/ParJer-Eng.html)

@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 El Libro de los Salmos (/sɑːmz/ SAHMZ o /sɔː(l)mz/ SAW(L)MZ; hebreo: תְּהִלִּים, Tehillim, lit. “alabanzas”), también conocido como los Salmos, o el Salterio, es el primer libro de los Ketuvim ("Escritos"), la tercera sección del Tanaj y un libro del Antiguo Testamento. El título se deriva de la traducción griega, ψαλμοί (psalmoi), que significa “música instrumental” y, por extensión, “las palabras que acompañan a la música”. El libro es una antología de himnos religiosos hebreos individuales, con 150 en la tradición judía y cristiana occidental y más en las iglesias cristianas orientales. Muchos están vinculados al nombre de David, pero la erudición moderna rechaza su autoría y, en cambio, atribuye la composición de los salmos a varios autores que escribieron entre los siglos IX y V a. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Psalms/1)
 - [Capítulo 2](/es/Bible/Psalms/2)
@@ -184,6 +184,6 @@ El Libro de los Salmos (/sɑːmz/ SAHMZ o /sɔː(l)mz/ SAW(L)MZ; hebreo: תְּ�
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Psalms
+- [Wikipedia](https://en.wikipedia.org/wiki/Psalms)

@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Hechos de los apóstoles</text>
+		<text style="font-size:9px" x="61" y="60">Hechos de</text>
+		<text style="font-size:9px" x="61" y="70">los apóstoles</text>
 	</g>
 </svg>
 </div>
@@ -31,7 +32,7 @@ Hechos y el Evangelio de Lucas forman una obra en dos partes, Lucas-Hechos, del 
 
 Lucas-Hechos es un intento de responder a un problema teológico, a saber, cómo el Mesías de los judíos llegó a tener una iglesia abrumadoramente no judía; la respuesta que proporciona es que el mensaje de Cristo fue enviado a los gentiles porque los judíos en general lo rechazaron. Lucas-Hechos también puede verse como una defensa (o "apología" de) el movimiento de Jesús dirigido a los judíos: la mayor parte de los discursos y sermones de Hechos están dirigidos a audiencias judías, y los romanos actúan como árbitros externos en las disputas. sobre las costumbres y leyes judías. Por un lado, Lucas retrata a los seguidores de Jesús como una secta de los judíos, y por tanto con derecho a protección legal como religión reconocida; por el otro, Lucas parece poco claro en cuanto al futuro que Dios tiene para los judíos y los cristianos, celebrando el judaísmo de Jesús y sus seguidores inmediatos, al mismo tiempo que enfatiza cómo los judíos habían rechazado al Mesías prometido por Dios.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Acts_of_the_Apostles/1)
 - [Capítulo 2](/es/Bible/Acts_of_the_Apostles/2)
@@ -67,6 +68,6 @@ Lucas-Hechos es un intento de responder a un problema teológico, a saber, cómo
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Acts_of_the_Apostles
+- [Wikipedia](https://es.wikipedia.org/wiki/Hechos_de_los_Ap%C3%B3stoles)

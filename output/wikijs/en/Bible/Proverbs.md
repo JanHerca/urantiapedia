@@ -69,4 +69,4 @@ Proverbs is not merely an anthology but a “collection of collections” relati
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Proverbs
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Proverbs)

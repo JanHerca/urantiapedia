@@ -68,4 +68,4 @@ Most scholars believe the gospel was composed between AD 80 and 90, with a range
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Gospel_of_Matthew
+- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Matthew)

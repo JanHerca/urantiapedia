@@ -46,4 +46,4 @@ The central dispute in the letter concerns the question of how Gentiles could co
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Galatians
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Galatians)

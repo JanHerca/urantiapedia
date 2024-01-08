@@ -36,4 +36,4 @@ The book of Obadiah is a book of the Bible whose authorship is attributed to Oba
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Obadiah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Obadiah)

@@ -31,7 +31,7 @@ El libro se puede leer como una meditación extendida sobre el destino de Jerusa
 
 Isaías fue una de las obras más populares entre los judíos del período del Segundo Templo (c. 515 a. C. - 70 d. C.). En los círculos cristianos, se le tuvo en tan alta estima que se le llamó “el Quinto Evangelio”, y su influencia se extiende más allá del cristianismo a la literatura inglesa y a la cultura occidental en general, desde el libreto del Mesías de Haendel hasta una gran cantidad de frases cotidianas. como “espadas en rejas de arado” y “voz en el desierto”.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Isaiah/1)
 - [Capítulo 2](/es/Bible/Isaiah/2)
@@ -103,6 +103,6 @@ Isaías fue una de las obras más populares entre los judíos del período del S
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Isaiah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Isaiah)

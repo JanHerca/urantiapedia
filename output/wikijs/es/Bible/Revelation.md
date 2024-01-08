@@ -33,7 +33,7 @@ El libro abarca tres géneros literarios: el epistolar, el apocalíptico y el pr
 
 Las imágenes oscuras y extravagantes han dado lugar a una amplia variedad de interpretaciones cristianas. Las interpretaciones historicistas consideran que Apocalipsis contiene una visión amplia de la historia, mientras que las interpretaciones preteristas consideran que Apocalipsis se refiere principalmente a los acontecimientos de la Era Apostólica (siglo I) o, a más tardar, a la caída del Imperio Romano de Occidente en el siglo V. Mientras tanto, los futuristas creen que Apocalipsis describe eventos futuros con las siete iglesias creciendo en el cuerpo de creyentes a lo largo de la era, y un resurgimiento o gobierno continuo de un sistema grecorromano con capacidades modernas descritas por Juan en formas familiares para él; y las interpretaciones idealistas o simbólicas consideran que Apocalipsis no se refiere a personas o eventos reales, sino que es una alegoría del camino espiritual y la lucha constante entre el bien y el mal.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Revelation/1)
 - [Capítulo 2](/es/Bible/Revelation/2)
@@ -62,6 +62,6 @@ Las imágenes oscuras y extravagantes han dado lugar a una amplia variedad de in
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Revelation
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Revelation)

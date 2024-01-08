@@ -44,4 +44,4 @@ Nonetheless, a number of major scholars have defended the traditional authorship
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_to_Timothy
+- [Wikipedia](https://en.wikipedia.org/wiki/Second_Epistle_to_Timothy)

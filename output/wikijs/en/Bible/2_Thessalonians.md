@@ -41,4 +41,4 @@ Scholars who support its authenticity view it as having been written around 51â€
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians
+- [Wikipedia](https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians)

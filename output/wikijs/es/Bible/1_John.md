@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Primera epístola de Juan</text>
+		<text style="font-size:9px" x="61" y="60">Primera epístola</text>
+		<text style="font-size:9px" x="61" y="70">de Juan</text>
 	</g>
 </svg>
 </div>
@@ -29,7 +30,7 @@ La Primera Epístola de Juan es la primera de las epístolas joánicas del Nuevo
 
 Esta epístola probablemente fue escrita en Éfeso entre el 95 y el 110 d.C. El autor aconseja a los cristianos cómo discernir a los verdaderos maestros: por su ética, por su anuncio de Jesús en la carne y por su amor. El texto original fue escrito en griego koiné. La epístola se divide en cinco capítulos. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/1_John/1)
 - [Capítulo 2](/es/Bible/1_John/2)
@@ -42,6 +43,6 @@ Esta epístola probablemente fue escrita en Éfeso entre el 95 y el 110 d.C. El 
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/First_Epistle_of_John
+- [Wikipedia](https://es.wikipedia.org/wiki/Primera_ep%C3%ADstola_de_Juan)

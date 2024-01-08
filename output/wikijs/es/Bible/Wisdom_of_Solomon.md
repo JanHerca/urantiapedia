@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 El Libro de la Sabiduría, o la Sabiduría de Salomón, es una obra judía escrita en griego y probablemente compuesta en Alejandría, Egipto. Fechada generalmente a mediados del siglo I a. C., el tema central de la obra es la “sabiduría” misma, que aparece bajo dos aspectos principales. El primer aspecto es que, en su relación con la humanidad, la sabiduría es la perfección del conocimiento de los justos como un don de Dios que se manifiesta en la acción. El segundo aspecto es que, en relación directa con Dios, la sabiduría está con Dios desde toda la eternidad. Es uno de los siete libros Sapienciales o sapienciales de la Septuaginta, siendo los otros Salmos, Proverbios, Eclesiastés, Cantar de los Cantares (Cantar de los Cantares), Job y Eclesiástico. Está incluido en los cánones de la Iglesia Católica y la Iglesia Ortodoxa Oriental. La mayoría de los protestantes lo consideran parte de los apócrifos.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Wisdom_of_Solomon/1)
 - [Capítulo 2](/es/Bible/Wisdom_of_Solomon/2)
@@ -54,6 +54,6 @@ El Libro de la Sabiduría, o la Sabiduría de Salomón, es una obra judía escri
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Wisdom
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Wisdom)

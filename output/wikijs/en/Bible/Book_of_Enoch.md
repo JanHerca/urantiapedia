@@ -3,7 +3,7 @@ title: Book of Enoch
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible, Apocrypha OT
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -155,4 +155,4 @@ The most complete Book of Enoch comes from Ethiopic manuscripts, maṣḥafa hē
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Enoch
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Enoch)

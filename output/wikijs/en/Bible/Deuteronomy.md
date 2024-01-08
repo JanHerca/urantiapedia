@@ -74,4 +74,4 @@ One of its most significant verses is [Deuteronomy 6:4](/Bible/Deuteronomy/6#v4)
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Deuteronomy
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Deuteronomy)

@@ -931,13 +931,13 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-							<text style="font-size:9px" x="61" y="60">1 Macabeos</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">I Macabeos</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Macabeos</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Macabeos</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/Bible/1_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -954,13 +954,13 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-							<text style="font-size:9px" x="61" y="60">2 Macabeos</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">II Macabeos</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Macabeos</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Macabeos</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/Bible/2_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -977,7 +977,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Eclesiástico</text>
 						</g>
 					</svg>
@@ -1000,7 +1000,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Sabiduría</text>
 						</g>
 					</svg>
@@ -1023,7 +1023,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Baruc</text>
 						</g>
 					</svg>
@@ -1046,7 +1046,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Tobit</text>
 						</g>
 					</svg>
@@ -1069,7 +1069,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Judith</text>
 						</g>
 					</svg>
@@ -1092,13 +1092,13 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:9px" x="61" y="60">1 Esdras</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">I Esdras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Esdras (también llamado “Esdras en griego” o “3 Esdras”)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Esdras (también llamado “Esdras en griego” o “III Esdras”)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -1115,13 +1115,13 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:9px" x="61" y="60">2 Esdras</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">II Esdras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Esdras (también llamado “Apocalipsis de Esdras” o “4 Esdras”)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Esdras (también llamado “Apocalipsis de Esdras” o “IV Esdras”)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -1138,7 +1138,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Susana</text>
 						</g>
 					</svg>
@@ -1161,7 +1161,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Bel y el Dragón</text>
 						</g>
 					</svg>
@@ -1184,7 +1184,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oración de Manasés</text>
 						</g>
 					</svg>
@@ -1207,7 +1207,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Carta de Jeremías</text>
 						</g>
 					</svg>
@@ -1230,7 +1230,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Adiciones a Ester</text>
 						</g>
 					</svg>
@@ -1253,7 +1253,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oración de Azarías</text>
 						</g>
 					</svg>
@@ -1276,7 +1276,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
+							<text style="font-size:4px" x="61" y="125">De la versión Reviseda Estándar con Apócrifos (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Salmo 151</text>
 						</g>
 					</svg>
@@ -1308,9 +1308,9 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+							<text style="font-size:3px" x="61" y="135">Los apócrifos y pseudoepígrafos del Antiguo Testamento</text>
 							<text style="font-size:9px" x="61" y="60">Libro de Enoc</text>
 						</g>
 					</svg>
@@ -1430,7 +1430,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
 							<text style="font-size:9px" x="61" y="70">de Sofonías</text>
 						</g>
@@ -1454,8 +1455,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
 							<text style="font-size:9px" x="61" y="70">Griego</text>
 							<text style="font-size:9px" x="61" y="80">de Esdras</text>
@@ -1553,7 +1554,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983</text>
 							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
 							<text style="font-size:9px" x="61" y="70">de Sedrac</text>
 						</g>
@@ -1577,15 +1579,15 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
-							<text style="font-size:9px" x="61" y="60">2 Baruc</text>
+							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+							<text style="font-size:3px" x="61" y="135">Los apócrifos y pseudoepígrafos del Antiguo Testamento (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">II Baruc</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Baruc (o Apocalipsis Siríaco de Baruc)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Baruc (o Apocalipsis Siríaco de Baruc)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -1602,15 +1604,15 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
-							<text style="font-size:9px" x="61" y="60">3 Baruc</text>
+							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+							<text style="font-size:3px" x="61" y="135">Los apócrifos y pseudoepígrafos del Antiguo Testamento (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">III Baruc</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Baruch (o Apocalipsis Griego de Baruc)</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">III Baruc (o Apocalipsis Griego de Baruc)</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -1627,8 +1629,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Apocalipsis de Abraham, 1919 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">G. H. Box</text>
 							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
 							<text style="font-size:9px" x="61" y="70">de Abraham</text>
 						</g>
@@ -1652,8 +1654,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Nag Hammadi Library, 1981 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">George W. MacRae</text>
 							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
 							<text style="font-size:9px" x="61" y="70">de Adán</text>
 						</g>
@@ -1677,8 +1679,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
 							<text style="font-size:9px" x="61" y="70">de Elías</text>
 						</g>
@@ -2107,9 +2109,9 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+							<text style="font-size:3px" x="61" y="135">Los apócrifos y pseudoepígrafos del Antiguo Testamento (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Asunción</text>
 							<text style="font-size:9px" x="61" y="70">de Moisés</text>
 						</g>
@@ -2211,9 +2213,9 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+							<text style="font-size:3px" x="61" y="135">Los apócrifos y pseudoepígrafos del Antiguo Testamento (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Libro de los Jubileos</text>
 						</g>
 					</svg>
@@ -2312,8 +2314,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Primer libro</text>
 							<text style="font-size:9px" x="61" y="70">de Adán y Eva</text>
 						</g>
@@ -2435,14 +2437,14 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:9px" x="61" y="60">4 Baruc</text>
+							<text style="font-size:4px" x="61" y="125">University of Pennsylvania, 1987 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Robert A. Kraft (ed.)</text>
+							<text style="font-size:9px" x="61" y="60">IV Baruc</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Baruc</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">IV Baruc</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -2513,13 +2515,13 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:9px" x="61" y="60">3 Macabeos</text>
+							<text style="font-size:3px" x="61" y="135">De la versión Revisada Estándar con Apócrifos (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">III Macabeos</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Macabeos</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">III Macabeos</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -2536,14 +2538,14 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:9px" x="61" y="60">4 Macabeos</text>
+							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
+							<text style="font-size:9px" x="61" y="60">IV Macabeos</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Maccabees</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">IV Macabeos</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>

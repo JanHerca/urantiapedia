@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Epístola a los efesios</text>
+		<text style="font-size:9px" x="61" y="60">Epístola a</text>
+		<text style="font-size:9px" x="61" y="70">los efesios</text>
 	</g>
 </svg>
 </div>
@@ -27,7 +28,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La Epístola a los Efesios es el décimo libro del Nuevo Testamento. Su autoría se ha atribuido tradicionalmente al Apóstol Pablo pero a partir de 1792 ha sido cuestionada como Deutero-Paulina, es decir, pseudoepígrafa escrita en nombre de Pablo por un autor posterior fuertemente influenciado por el pensamiento de Pablo, probablemente “por un discípulo leal para resumir retomar la enseñanza de Pablo y aplicarla a una nueva situación de quince a veinticinco años después de la muerte del Apóstol”.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Ephesians/1)
 - [Capítulo 2](/es/Bible/Ephesians/2)
@@ -41,6 +42,6 @@ La Epístola a los Efesios es el décimo libro del Nuevo Testamento. Su autoría
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_a_los_efesios)

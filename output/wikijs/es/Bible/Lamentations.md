@@ -30,7 +30,7 @@ El Libro de las Lamentaciones (en hebreo: אֵיכָה, ʾĒḵā, de su incipit
 
 En este libro son evidentes algunos motivos de un “lamento de la ciudad” mesopotámico tradicional, como el duelo por el abandono de la ciudad por parte de Dios, su destrucción y el regreso final de la divinidad; otros “son paralelos al canto fúnebre en el que los dolientes lloran... y... se dirigen a los [muertos]”. El tono es desolador: Dios no habla, el grado de sufrimiento se presenta abrumador y las expectativas de redención futura son mínimas. No obstante, el autor aclara repetidamente que la ciudad (e incluso el propio autor) había pecado profusamente contra Dios, a lo que Dios había respondido con fuerza. Al hacerlo, el autor no culpa a Dios, sino que lo presenta como recto, justo y, a veces, incluso misericordioso. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Lamentations/1)
 - [Capítulo 2](/es/Bible/Lamentations/2)
@@ -43,6 +43,6 @@ En este libro son evidentes algunos motivos de un “lamento de la ciudad” mes
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Lamentations
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Lamentations)

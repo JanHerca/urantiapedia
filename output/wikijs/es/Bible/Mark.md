@@ -31,7 +31,7 @@ La mayoría de los eruditos fechan a Mark en c. 66-74 d.C., ya sea poco antes o 
 
 En el siglo XIX, Marcos llegó a ser visto como el primero de los cuatro evangelios y como una fuente utilizada tanto por Mateo como por Lucas. La hipótesis de la prioridad de Marcan continúa siendo sostenida por la mayoría de los estudiosos de hoy, y hay un nuevo reconocimiento del autor como artista y teólogo que utiliza una variedad de recursos literarios para transmitir su concepción de Jesús como el Hijo de Dios autoritario pero sufriente.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Mark/1)
 - [Capítulo 2](/es/Bible/Mark/2)
@@ -55,6 +55,6 @@ En el siglo XIX, Marcos llegó a ser visto como el primero de los cuatro evangel
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Gospel_of_Mark
+- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Mark)

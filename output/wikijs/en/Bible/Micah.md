@@ -46,4 +46,4 @@ While the book is relatively short, it includes lament (1.8–16; 7.8–10), the
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Micah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Micah)

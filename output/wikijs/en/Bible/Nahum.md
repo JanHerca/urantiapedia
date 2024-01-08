@@ -38,4 +38,4 @@ The Book of Nahum is the seventh book of the 12 minor prophets of the Hebrew Bib
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Nahum
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Nahum)

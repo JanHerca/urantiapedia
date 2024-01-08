@@ -39,4 +39,4 @@ Philemon was a wealthy Christian, possibly a bishop of the house church that met
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_Philemon
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_Philemon)

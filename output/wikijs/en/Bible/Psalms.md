@@ -185,4 +185,4 @@ The Book of Psalms (/sɑːmz/ SAHMZ or /sɔː(l)mz/ SAW(L)MZ; Hebrew: תְּהִ
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Psalms
+- [Wikipedia](https://en.wikipedia.org/wiki/Psalms)

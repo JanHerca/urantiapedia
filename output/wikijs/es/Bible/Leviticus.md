@@ -32,7 +32,7 @@ La mayoría de sus capítulos (1–7, 11–27) consisten en los discursos de Yah
 Las instrucciones de Levítico enfatizan las prácticas rituales, legales y morales más que las creencias. Sin embargo, reflejan la visión del mundo de la historia de la creación en Génesis 1 de que Dios desea vivir con los humanos. El libro enseña que la realización fiel de los rituales del santuario puede hacerlo posible, siempre que la gente evite el pecado y la impureza siempre que sea posible. Los rituales, especialmente las ofrendas por el pecado y la culpa, brindan los medios para obtener el perdón de los pecados ([Levítico 4–5](/es/Bible/Leviticus/4)) y la purificación de las impurezas ([Levítico 11–16](/es/Bible/Leviticus/11)) para que Dios pueda seguir viviendo en el Sagrario en medio del pueblo.
 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Leviticus/1)
 - [Capítulo 2](/es/Bible/Leviticus/2)
@@ -65,6 +65,6 @@ Las instrucciones de Levítico enfatizan las prácticas rituales, legales y mora
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Leviticus
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Leviticus)

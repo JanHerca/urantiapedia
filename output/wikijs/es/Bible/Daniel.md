@@ -31,7 +31,7 @@ La Biblia hebrea incluye a Daniel en los Ketuvim (escritos), mientras que los c�
 
 La influencia del libro ha resonado a lo largo de épocas posteriores, desde la comunidad de los Rollos del Mar Muerto y los autores de los evangelios canónicos y el Libro de Apocalipsis, hasta varios movimientos desde el siglo II hasta la Reforma protestante y los movimientos milenaristas modernos, en los que continúa. tener una profunda influencia.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Daniel/1)
 - [Capítulo 2](/es/Bible/Daniel/2)
@@ -51,6 +51,6 @@ La influencia del libro ha resonado a lo largo de épocas posteriores, desde la 
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Daniel
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Daniel)

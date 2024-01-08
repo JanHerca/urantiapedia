@@ -27,7 +27,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 El Libro de los Jueces (ספר שופטים, Sefer Shoftim) es el séptimo libro de la Biblia hebrea y del Antiguo Testamento cristiano. En la narrativa de la Biblia hebrea, cubre el tiempo entre la conquista descrita en el Libro de Josué y el establecimiento de un reino en los Libros de Samuel, durante el cual los jueces bíblicos sirvieron como líderes temporales. Las historias siguen un patrón consistente: el pueblo es infiel a Yahvé; por eso los entrega en manos de sus enemigos; el pueblo se arrepiente y suplica misericordia a Yahvé, que él envía en la forma de un líder o campeón (un “juez”; véase shophet); el juez libra a los israelitas de la opresión y prosperan, pero pronto vuelven a caer en la infidelidad y el ciclo se repite. Los eruditos consideran que muchas de las historias de Jueces son las más antiguas de la historia deuteronomista.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Judges/1)
 - [Capítulo 2](/es/Bible/Judges/2)
@@ -54,6 +54,6 @@ El Libro de los Jueces (ספר שופטים, Sefer Shoftim) es el séptimo libro
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Judges
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Judges)

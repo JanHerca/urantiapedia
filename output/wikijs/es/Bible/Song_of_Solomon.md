@@ -30,7 +30,7 @@ La canción de las canciones (hebreo: שִׁיר erior poema erótico que es uno
 
 Los dos están en armonía, cada uno deseando al otro y regocijándose en la intimidad sexual. Las mujeres de Jerusalén forman un coro de amantes, funcionando como un público cuya participación en los encuentros eróticos de los amantes facilita la participación del lector. Los eruditos difieren en cuanto a cuándo fue escrito, con estimaciones que van desde el siglo X al II a. C., con un análisis del lenguaje utilizado que sugiere el siglo III. En el judaísmo moderno, la Canción se lee en sábado durante la Pascua, que marca el comienzo de la cosecha de granos y conmemora el Éxodo del Egipto bíblico. la tradición judía lo lee como una alegoría de la relación entre Dios e Israel; El cristianismo, como alegoría de Cristo y su novia, la Iglesia.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Song_of_Solomon/1)
 - [Capítulo 2](/es/Bible/Song_of_Solomon/2)
@@ -45,6 +45,6 @@ Los dos están en armonía, cada uno deseando al otro y regocijándose en la int
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Song_of_Songs
+- [Wikipedia](https://en.wikipedia.org/wiki/Song_of_Songs)

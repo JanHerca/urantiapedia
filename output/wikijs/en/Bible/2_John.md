@@ -38,4 +38,4 @@ Second John and Third John are the two shortest books in the Bible. The shortest
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_of_John
+- [Wikipedia](https://en.wikipedia.org/wiki/Second_Epistle_of_John)

@@ -29,7 +29,7 @@ El Libro de Job (/dʒoʊb/; hebreo bíblico: אִיּוֹב, romanizado: ʾIyyō
 
 El libro se encuentra en la sección Ketuvim ("Escritos") de la Biblia hebrea (Tanakh), y es el primero de los Libros poéticos en el Antiguo Testamento de la Biblia cristiana. Los eruditos generalmente están de acuerdo en que fue escrito entre los siglos VII y IV a. C. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Job/1)
 - [Capítulo 2](/es/Bible/Job/2)
@@ -78,6 +78,6 @@ El libro se encuentra en la sección Ketuvim ("Escritos") de la Biblia hebrea (T
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Job
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Job)

@@ -61,4 +61,4 @@ Biblical commentators believe the Books of Kings were written to provide a theol
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Books_of_Kings
+- [Wikipedia](https://en.wikipedia.org/wiki/Books_of_Kings)

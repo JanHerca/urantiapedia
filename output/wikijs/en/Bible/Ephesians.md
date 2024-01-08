@@ -42,4 +42,4 @@ The Epistle to the Ephesians is the tenth book of the New Testament. Its authors
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians)

@@ -29,7 +29,7 @@ El Libro de Tobías (/ˈtoʊbɪt/), también conocido como el Libro de Tobías o
 
 El libro está incluido en los cánones católico y ortodoxo pero no en el judío; la tradición protestante lo ubica en los apócrifos, y los anabaptistas, luteranos, anglicanos y metodistas lo reconocen como útil para fines de edificación y liturgia, aunque no tiene un estatus canónico. La gran mayoría de estudiosos la reconocen como una obra de ficción con algunas referencias históricas. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Tobit/1)
 - [Capítulo 2](/es/Bible/Tobit/2)
@@ -51,6 +51,6 @@ El libro está incluido en los cánones católico y ortodoxo pero no en el judí
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Tobit
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Tobit)

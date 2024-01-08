@@ -29,7 +29,7 @@ El Libro de Jonás se recopila como uno de los doce profetas menores de los Nevi
 
 La historia tiene una larga historia interpretativa y se ha vuelto muy conocida a través de cuentos populares para niños. En el judaísmo, es la porción de Haftarah que se lee durante la tarde de Yom Kippur para inculcar la reflexión sobre la voluntad de Dios de perdonar a los que se arrepienten, y sigue siendo una historia popular entre los cristianos. La historia también se vuelve a contar en el Corán. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Jonah/1)
 - [Capítulo 2](/es/Bible/Jonah/2)
@@ -40,6 +40,6 @@ La historia tiene una larga historia interpretativa y se ha vuelto muy conocida 
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Jonah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Jonah)

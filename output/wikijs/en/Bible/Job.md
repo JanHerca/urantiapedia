@@ -79,4 +79,4 @@ The book is found in the Ketuvim (“Writings”) section of the Hebrew Bible (T
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Job
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Job)

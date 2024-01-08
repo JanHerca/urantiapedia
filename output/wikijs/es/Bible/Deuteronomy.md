@@ -34,7 +34,7 @@ Los últimos cuatro capítulos (31–34) contienen el Cántico de Moisés, la Be
 Uno de sus versos más significativos es [Deuteronomio 6:4](/es/Bible/Deuteronomy/6#v4), el Shema Yisrael, que se ha convertido en la declaración definitiva de la identidad judía: “Oye, Israel: el SEÑOR nuestro Dios, el Jehová es uno.” Jesús también citó los versículos 6:4–5 en [Marcos 12:28–34](/es/Bible/Mark/12#v28) como el Gran Mandamiento.
 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Deuteronomy/1)
 - [Capítulo 2](/es/Bible/Deuteronomy/2)
@@ -74,6 +74,6 @@ Uno de sus versos más significativos es [Deuteronomio 6:4](/es/Bible/Deuteronom
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Deuteronomy
+- [Wikipedia](https://es.wikipedia.org/wiki/Deuteronomio)

@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Primera epístola a los tesalonicenses</text>
+		<text style="font-size:9px" x="61" y="60">Primera epístola</text>
+		<text style="font-size:9px" x="61" y="70">a los tesalonicenses</text>
 	</g>
 </svg>
 </div>
@@ -27,7 +28,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La Primera Epístola a los Tesalonicenses es una epístola paulina del Nuevo Testamento de la Biblia cristiana. La epístola se atribuye al apóstol Pablo y está dirigida a la iglesia de Tesalónica, en la Grecia actual. Es probable que se encuentre entre las primeras cartas de Pablo, probablemente escritas a fines del año 52 d. C., aunque algunos eruditos creen que la Epístola a los Gálatas pudo haber sido escrita alrededor del año 48 d. C. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/1_Thessalonians/1)
 - [Capítulo 2](/es/Bible/1_Thessalonians/2)
@@ -40,6 +41,6 @@ La Primera Epístola a los Tesalonicenses es una epístola paulina del Nuevo Tes
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians
+- [Wikipedia](https://es.wikipedia.org/wiki/Primera_ep%C3%ADstola_a_los_tesalonicenses)

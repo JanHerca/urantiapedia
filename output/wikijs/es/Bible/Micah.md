@@ -31,7 +31,7 @@ El libro tiene tres divisiones principales, los capítulos 1–2, 3–5 y 6–7,
 
 Si bien el libro es relativamente breve, incluye lamento (1.8–16; 7.8–10), teofanía (1.3–4), oración himnaria de petición y confianza (7.14–20) y el “juicio del pacto” (6.1–8) , un género distinto en el que Yahvé (Dios) demanda a Israel por incumplimiento del contrato del pacto mosaico. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Micah/1)
 - [Capítulo 2](/es/Bible/Micah/2)
@@ -45,6 +45,6 @@ Si bien el libro es relativamente breve, incluye lamento (1.8–16; 7.8–10), t
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Micah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Micah)

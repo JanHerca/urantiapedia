@@ -29,7 +29,7 @@ El Libro de Ester (en hebreo: מְגִלַּת אֶסְתֵּר, romanizado: Meg
 
 El libro relata la historia de una mujer hebrea en Persia, nacida como Hadassah pero conocida como Ester, que se convierte en reina de Persia y frustra un genocidio de su pueblo. La historia forma el núcleo de la festividad judía de Purim, durante la cual se lee en voz alta dos veces: una al atardecer y otra a la mañana siguiente. Los libros de Ester y Cantar de los Cantares son los únicos libros de la Biblia hebrea que no mencionan a Dios.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Esther/1)
 - [Capítulo 2](/es/Bible/Esther/2)
@@ -46,6 +46,6 @@ El libro relata la historia de una mujer hebrea en Persia, nacida como Hadassah 
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Esther
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Ester)

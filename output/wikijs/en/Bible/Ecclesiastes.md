@@ -52,4 +52,4 @@ According to rabbinic tradition the book was written by King Solomon in his old 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Ecclesiastes
+- [Wikipedia](https://en.wikipedia.org/wiki/Ecclesiastes)

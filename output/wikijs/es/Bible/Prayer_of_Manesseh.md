@@ -35,7 +35,7 @@ La oración está incluida en algunas ediciones de la Septuaginta griega. Por ej
 
 La oración aparece en traducciones antiguas siríacas, eslavas antiguas, etíopes y armenias. En la Biblia etíope, la oración se encuentra en 2 Crónicas.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Prayer_of_Manesseh/1)
 
@@ -44,6 +44,6 @@ La oración aparece en traducciones antiguas siríacas, eslavas antiguas, etíop
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Prayer_of_Manasseh
+- [Wikipedia](https://en.wikipedia.org/wiki/Prayer_of_Manasseh)

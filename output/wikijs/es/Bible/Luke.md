@@ -29,7 +29,7 @@ El Evangelio de Lucas habla de los orígenes, nacimiento, ministerio, muerte, re
 
 La mayoría de los eruditos modernos están de acuerdo en que las principales fuentes utilizadas para Lucas fueron a), el Evangelio de Marcos, b), una colección de dichos hipotéticos llamada fuente Q, y c), material que no se encuentra en otros evangelios, a menudo denominado L ( para Lucas) fuente. El autor es anónimo; la opinión tradicional de que fue Lucas el evangelista, el compañero de Pablo, todavía se presenta ocasionalmente, pero el consenso de los eruditos enfatiza las muchas contradicciones entre Hechos y las auténticas cartas paulinas. La fecha más probable para su composición es alrededor del 80 al 110 d. C., y hay evidencia de que todavía se estaba revisando hasta bien entrado el siglo II. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Luke/1)
 - [Capítulo 2](/es/Bible/Luke/2)
@@ -61,6 +61,6 @@ La mayoría de los eruditos modernos están de acuerdo en que las principales fu
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Gospel_of_Luke
+- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Luke)

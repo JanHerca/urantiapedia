@@ -41,4 +41,4 @@ The First Epistle of Peter is a book of the New Testament. The author presents h
 
 ## External links
 
-- https://en.wikipedia.org/wiki/First_Epistle_of_Peter
+- [Wikipedia](https://en.wikipedia.org/wiki/First_Epistle_of_Peter)

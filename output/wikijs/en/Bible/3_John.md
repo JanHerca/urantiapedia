@@ -38,4 +38,4 @@ Early church literature contains no mention of the epistle, with the first refer
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Third_Epistle_of_John
+- [Wikipedia](https://en.wikipedia.org/wiki/Third_Epistle_of_John)

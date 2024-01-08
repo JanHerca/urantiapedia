@@ -54,4 +54,4 @@ According to traditional scholarship, the author of the Epistle to the Hebrews, 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Hebrews
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Hebrews)

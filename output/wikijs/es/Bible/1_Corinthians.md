@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Primera epístola a los corintios</text>
+		<text style="font-size:9px" x="61" y="60">Primera epístola</text>
+		<text style="font-size:9px" x="61" y="70">a los corintios</text>
 	</g>
 </svg>
 </div>
@@ -27,7 +28,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La Primera Epístola a los Corintios (griego antiguo: Α΄ ᾽Επιστολὴ πρὸς Κορινθίους) es una de las epístolas paulinas, parte del Nuevo Testamento de la Biblia cristiana. La epístola se atribuye al apóstol Pablo y a un coautor, Sóstenes, y está dirigida a la iglesia cristiana de Corinto. Los eruditos creen que Sóstenes fue el amanuense que escribió el texto de la carta por indicación de Pablo. Aborda varios temas que habían surgido en la comunidad cristiana de Corinto y está compuesto en una forma de griego koiné. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/1_Corinthians/1)
 - [Capítulo 2](/es/Bible/1_Corinthians/2)
@@ -51,6 +52,6 @@ La Primera Epístola a los Corintios (griego antiguo: Α΄ ᾽Επιστολὴ 
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians
+- [Wikipedia](https://es.wikipedia.org/wiki/Primera_ep%C3%ADstola_a_los_corintios)

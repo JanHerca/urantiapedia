@@ -41,4 +41,4 @@ The First Epistle to the Thessalonians is a Pauline epistle of the New Testament
 
 ## External links
 
-- https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians
+- [Wikipedia](https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians)

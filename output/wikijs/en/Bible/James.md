@@ -49,4 +49,4 @@ The epistle aims to reach a wide Jewish audience. During the last decades, the e
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_of_James
+- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_of_James)

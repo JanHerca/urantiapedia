@@ -52,4 +52,4 @@ The First Epistle to the Corinthians (Ancient Greek: Α΄ ᾽Επιστολὴ �
 
 ## External links
 
-- https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians
+- [Wikipedia](https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians)

@@ -31,7 +31,7 @@ Mateo parece enfatizar que la tradición judía no debe perderse en una iglesia 
 
 La mayoría de los eruditos creen que el evangelio se compuso entre el 80 y el 90 d. C., con un rango de posibilidades entre el 70 y el 110 d. C.; una fecha anterior a los 70 sigue siendo una opinión minoritaria. La obra no identifica a su autor, y los eruditos modernos rechazan la antigua tradición que la atribuye al apóstol Mateo. Probablemente era un hombre judío, que se encontraba en el margen entre los valores judíos tradicionales y no tradicionales, y estaba familiarizado con los aspectos legales técnicos de las Escrituras que se debatían en su época. Escribiendo en un pulido "griego de sinagoga" semítico, se basó en el Evangelio de Marcos como fuente, además de la colección hipotética de dichos conocida como la fuente Q (material compartido con Lucas pero no con Marcos) y material exclusivo de su propia comunidad, llamado la fuente M o "Mateo especial".
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Matthew/1)
 - [Capítulo 2](/es/Bible/Matthew/2)
@@ -67,6 +67,6 @@ La mayoría de los eruditos creen que el evangelio se compuso entre el 80 y el 9
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Gospel_of_Matthew
+- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Matthew)

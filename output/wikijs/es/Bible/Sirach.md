@@ -29,7 +29,7 @@ El Libro de Eclesiástico (/ˈsaɪræk/) o Eclesiástico (/ɪˌkliːziˈæstɪk�
 
 En Egipto, fue traducido al griego por el nieto anónimo del autor, quien agregó un prólogo. Este prólogo generalmente se considera el testimonio más antiguo de un canon [se necesita aclaración] de los libros de los profetas y, por lo tanto, la fecha del texto es objeto de un intenso escrutinio. El libro en sí es el libro de sabiduría más grande de la antigüedad que ha sobrevivido. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Sirach/1)
 - [Capítulo 2](/es/Bible/Sirach/2)
@@ -88,6 +88,6 @@ En Egipto, fue traducido al griego por el nieto anónimo del autor, quien agreg�
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Sirach
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Sirach)

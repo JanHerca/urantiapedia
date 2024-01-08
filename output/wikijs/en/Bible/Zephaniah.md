@@ -38,4 +38,4 @@ The Book of Zephaniah /ˌzɛfəˈnaɪ.ə/ (Hebrew: צְפַנְיָה, Ṣəfany
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Zephaniah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Zephaniah)

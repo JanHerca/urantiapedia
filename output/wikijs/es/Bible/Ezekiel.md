@@ -29,7 +29,7 @@ El Libro de Ezequiel es el tercero de los Últimos Profetas del Tanakh y uno de 
 
 Las visiones y el libro están estructurados en torno a tres temas: (1) Juicio sobre Israel (capítulos 1–24); (2) Juicio sobre las naciones (capítulos 25–32); y (3) Bendiciones futuras para Israel (capítulos 33–48). Sus temas incluyen los conceptos de la presencia de Dios, la pureza, Israel como comunidad divina y la responsabilidad individual ante Dios. Su influencia posterior ha incluido el desarrollo de tradiciones místicas y apocalípticas en el Segundo Templo y el judaísmo y el cristianismo rabínicos.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Ezekiel/1)
 - [Capítulo 2](/es/Bible/Ezekiel/2)
@@ -84,6 +84,6 @@ Las visiones y el libro están estructurados en torno a tres temas: (1) Juicio s
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Book_of_Ezekiel
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Ezequiel)

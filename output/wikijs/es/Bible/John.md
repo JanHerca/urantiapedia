@@ -29,7 +29,7 @@ El Evangelio de Juan (griego antiguo: Εὐαγγέλιον κατὰ Ἰωάν�
 
 John alcanzó su forma final alrededor del 90 al 110 d. C., aunque contiene signos de orígenes que datan del 70 d. C. y posiblemente incluso antes. Al igual que los otros tres evangelios, es anónimo, aunque identifica a un "discípulo a quien Jesús amaba" sin nombre como la fuente de sus tradiciones. Lo más probable es que surgiera dentro de una “comunidad juanina” y, dado que está estrechamente relacionado en estilo y contenido con las tres epístolas juaninas, la mayoría de los eruditos tratan los cuatro libros, junto con el Libro de Apocalipsis, como un solo corpus de literatura juanina. aunque no del mismo autor. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/John/1)
 - [Capítulo 2](/es/Bible/John/2)
@@ -58,6 +58,6 @@ John alcanzó su forma final alrededor del 90 al 110 d. C., aunque contiene sign
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Gospel_of_John
+- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_John)

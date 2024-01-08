@@ -73,4 +73,4 @@ The book was divided into two books in the Septuagint and translated mid 3rd cen
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Books_of_Chronicles
+- [Wikipedia](https://en.wikipedia.org/wiki/Books_of_Chronicles)

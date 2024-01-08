@@ -53,4 +53,4 @@ Dated to c. 760–720 BC, it is one of the oldest books of the Hebrew Bible, pre
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Hosea
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Hosea)

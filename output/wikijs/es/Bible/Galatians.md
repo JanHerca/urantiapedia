@@ -31,7 +31,7 @@ En esta carta, Pablo se ocupa principalmente de la controversia que rodea a los 
 
 La disputa central en la carta se refiere a la cuestión de cómo los gentiles podían convertirse al cristianismo, lo que demuestra que esta carta fue escrita en una etapa muy temprana de la historia de la iglesia, cuando la gran mayoría de los cristianos eran judíos o prosélitos judíos, a lo que los historiadores se refieren como los judíos cristianos. Otro indicador de que la carta es temprana es que no hay indicios en la carta de una organización desarrollada dentro de la comunidad cristiana en general. Esto lo pone durante la vida del mismo Pablo.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/Galatians/1)
 - [Capítulo 2](/es/Bible/Galatians/2)
@@ -45,6 +45,6 @@ La disputa central en la carta se refiere a la cuestión de cómo los gentiles p
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Galatians
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_a_los_g%C3%A1latas)

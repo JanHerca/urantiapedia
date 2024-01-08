@@ -49,4 +49,4 @@ The Second Epistle to the Corinthians is a Pauline epistle of the New Testament 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians
+- [Wikipedia](https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians)

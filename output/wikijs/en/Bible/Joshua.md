@@ -60,4 +60,4 @@ Almost all scholars agree that the Book of Joshua holds little historical value 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Joshua
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Joshua)

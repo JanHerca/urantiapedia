@@ -47,4 +47,4 @@ The book relates the story of a Hebrew woman in Persia, born as Hadassah but kno
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Esther
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Esther)

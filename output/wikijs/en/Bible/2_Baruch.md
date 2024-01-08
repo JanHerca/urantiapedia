@@ -138,7 +138,7 @@ A. F. J. Klijn writes: “The work appears to have been written after the fall o
 
 
 
-# External links
+## External links links
 
 - [Early Jewish Writings](https://www.earlyjewishwritings.com/2baruch.html)
 - [Internet Archive](https://archive.org/details/Charles_The-Apocrypha-of-the-Old-Testament-vol-2_1913)

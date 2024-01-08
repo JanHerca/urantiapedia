@@ -41,4 +41,4 @@ The story has a long interpretive history and has become well known through popu
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Jonah
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Jonah)

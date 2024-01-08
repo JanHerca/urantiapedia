@@ -43,4 +43,4 @@ This epistle was probably written in Ephesus between 95 and 110 AD. The author a
 
 ## External links
 
-- https://en.wikipedia.org/wiki/First_Epistle_of_John
+- [Wikipedia](https://en.wikipedia.org/wiki/First_Epistle_of_John)

@@ -42,4 +42,4 @@ The First Epistle to Timothy is one of three letters in the New Testament of the
 
 ## External links
 
-- https://en.wikipedia.org/wiki/First_Epistle_to_Timothy
+- [Wikipedia](https://en.wikipedia.org/wiki/First_Epistle_to_Timothy)

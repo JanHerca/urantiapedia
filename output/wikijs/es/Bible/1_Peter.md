@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Primera epístola de Pedro</text>
+		<text style="font-size:9px" x="61" y="60">Primera epístola</text>
+		<text style="font-size:9px" x="61" y="70">de Pedro</text>
 	</g>
 </svg>
 </div>
@@ -27,7 +28,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 La Primera Epístola de Pedro es un libro del Nuevo Testamento. El autor se presenta como Pedro el Apóstol. El final de la carta incluye una declaración que implica que fue escrita desde “Babilonia”, lo que posiblemente sea una referencia a Roma. La carta está dirigida a los “peregrinos elegidos de la diáspora” en Asia Menor que sufren persecución religiosa.
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/1_Peter/1)
 - [Capítulo 2](/es/Bible/1_Peter/2)
@@ -40,6 +41,6 @@ La Primera Epístola de Pedro es un libro del Nuevo Testamento. El autor se pres
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/First_Epistle_of_Peter
+- [Wikipedia](https://es.wikipedia.org/wiki/Primera_ep%C3%ADstola_de_Pedro)

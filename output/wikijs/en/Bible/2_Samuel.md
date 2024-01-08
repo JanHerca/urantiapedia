@@ -65,4 +65,4 @@ In the Septuagint, a basis of the Christian biblical canons, the text is divided
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Books_of_Samuel
+- [Wikipedia](https://en.wikipedia.org/wiki/Books_of_Samuel)

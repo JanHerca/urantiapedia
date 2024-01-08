@@ -47,4 +47,4 @@ Ezra is written to fit a schematic pattern in which the God of Israel inspires a
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Ezra
+- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Ezra)
