@@ -64,4 +64,4 @@ Las imágenes oscuras y extravagantes han dado lugar a una amplia variedad de in
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Revelation)
+- [Wikipedia](https://es.wikipedia.org/wiki/Apocalipsis)

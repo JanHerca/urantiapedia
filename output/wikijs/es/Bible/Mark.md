@@ -57,4 +57,4 @@ En el siglo XIX, Marcos llegó a ser visto como el primero de los cuatro evangel
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Mark)
+- [Wikipedia](https://es.wikipedia.org/wiki/Evangelio_de_Marcos)

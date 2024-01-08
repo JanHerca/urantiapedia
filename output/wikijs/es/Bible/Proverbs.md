@@ -70,4 +70,4 @@ Proverbios no es simplemente una antología, sino una “colección de coleccion
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Proverbs)
+- [Wikipedia](https://es.wikipedia.org/wiki/Proverbios)

@@ -53,4 +53,4 @@ El libro está incluido en los cánones católico y ortodoxo pero no en el judí
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Tobit)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Tobit)

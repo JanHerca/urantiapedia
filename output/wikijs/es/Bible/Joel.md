@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 ## Descripción
 
 
-El Libro de Joel se recopila como uno de los doce profetas menores de los Nevi'im ("Profetas") en la Biblia hebrea, y como un libro por derecho propio en el Antiguo Testamento cristiano. 
+El Libro de Joel se recopila como uno de los doce profetas menores de los Nevi'im («Profetas») en la Biblia hebrea, y como un libro por derecho propio en el Antiguo Testamento cristiano. 
 
 ## Índice
 
@@ -39,4 +39,4 @@ El Libro de Joel se recopila como uno de los doce profetas menores de los Nevi'i
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Joel)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Joel)

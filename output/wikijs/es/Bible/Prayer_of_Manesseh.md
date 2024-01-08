@@ -46,4 +46,4 @@ La oración aparece en traducciones antiguas siríacas, eslavas antiguas, etíop
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Prayer_of_Manasseh)
+- [Wikipedia](https://es.wikipedia.org/wiki/Oraci%C3%B3n_de_Manas%C3%A9s)

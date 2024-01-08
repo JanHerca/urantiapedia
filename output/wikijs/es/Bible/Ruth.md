@@ -45,4 +45,4 @@ El libro es apreciado por judíos que entran en la categoría de judíos por ele
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Ruth)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Rut)

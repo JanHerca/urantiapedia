@@ -75,4 +75,4 @@ Números es la culminación de la historia del éxodo de Israel de la opresión 
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Numbers)
+- [Wikipedia](https://es.wikipedia.org/wiki/N%C3%BAmeros)

@@ -39,4 +39,4 @@ El Libro de Nahum es el séptimo libro de los 12 profetas menores de la Biblia h
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Nahum)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Nahum)

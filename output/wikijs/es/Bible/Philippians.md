@@ -43,4 +43,4 @@ Existe un consenso general de que Filipenses consiste en material auténticament
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Philippians)
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_a_los_filipenses)

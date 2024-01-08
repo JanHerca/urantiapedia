@@ -67,4 +67,4 @@ Las instrucciones de Levítico enfatizan las prácticas rituales, legales y mora
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Leviticus)
+- [Wikipedia](https://es.wikipedia.org/wiki/Lev%C3%ADtico)

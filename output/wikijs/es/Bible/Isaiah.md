@@ -29,7 +29,7 @@ El Libro de Isaías (en hebreo: ספר ישעיהו, [ˈsɛ.fɛr jə.ʃaʕ.ˈja�
 
 El libro se puede leer como una meditación extendida sobre el destino de Jerusalén durante y después del exilio. La parte de Deutero-Isaian del libro describe cómo Dios hará de Jerusalén el centro de su gobierno mundial a través de un salvador real (un mesías) que destruirá al opresor (Babilonia); este mesías es el rey persa Ciro el Grande, quien es simplemente el agente que trae el reinado de Yahweh. Isaías habla en contra de los líderes corruptos ya favor de los desfavorecidos, y arraiga la justicia en la santidad de Dios más que en el pacto de Israel.
 
-Isaías fue una de las obras más populares entre los judíos del período del Segundo Templo (c. 515 a. C. - 70 d. C.). En los círculos cristianos, se le tuvo en tan alta estima que se le llamó “el Quinto Evangelio”, y su influencia se extiende más allá del cristianismo a la literatura inglesa y a la cultura occidental en general, desde el libreto del Mesías de Haendel hasta una gran cantidad de frases cotidianas. como “espadas en rejas de arado” y “voz en el desierto”.
+Isaías fue una de las obras más populares entre los judíos del período del Segundo Templo (c. 515 a. C. - 70 d. C.). En los círculos cristianos, se le tuvo en tan alta estima que se le llamó «el Quinto Evangelio», y su influencia se extiende más allá del cristianismo a la literatura inglesa y a la cultura occidental en general, desde el libreto del Mesías de Haendel hasta una gran cantidad de frases cotidianas. como «espadas en rejas de arado» y «voz en el desierto».
 
 ## Índice
 
@@ -105,4 +105,4 @@ Isaías fue una de las obras más populares entre los judíos del período del S
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Isaiah)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Isa%C3%ADas)

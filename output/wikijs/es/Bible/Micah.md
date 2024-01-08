@@ -47,4 +47,4 @@ Si bien el libro es relativamente breve, incluye lamento (1.8–16; 7.8–10), t
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Micah)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Miqueas)

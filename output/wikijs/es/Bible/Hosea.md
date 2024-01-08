@@ -54,4 +54,4 @@ Fechado en c. 760–720 a. C., es uno de los libros más antiguos de la Biblia h
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Hosea)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Oseas)

@@ -40,4 +40,4 @@ Filemón era un cristiano rico, posiblemente obispo de la iglesia doméstica que
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_Philemon)
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_a_Filem%C3%B3n)

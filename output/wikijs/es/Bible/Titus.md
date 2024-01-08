@@ -39,4 +39,4 @@ La Epístola a Tito es una de las tres epístolas pastorales (junto con 1 Timote
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_Titus)
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_a_Tito)

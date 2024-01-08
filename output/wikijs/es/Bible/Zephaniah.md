@@ -39,4 +39,4 @@ El Libro de Sofonías /ˌzɛfəˈnaɪ.ə/ (hebreo: צְפַנְיָה, Ṣəfany
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Zephaniah)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Sofon%C3%ADas)

@@ -56,4 +56,4 @@ El Libro de los Jueces (ספר שופטים, Sefer Shoftim) es el séptimo libro
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Judges)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_los_Jueces)

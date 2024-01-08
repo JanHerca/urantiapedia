@@ -645,7 +645,7 @@ const BibleAbbreviations = {
 		'Bel': ['Historia de Bel y el Dragón', '/es/Bible/Bel_and_the_Dragon', 'APO'],
 		'Man': ['Oración de Manasés', '/es/Bible/Prayer_of_Manesseh', 'APO'],
 		'Tb': ['Tobit', '/es/Bible/Tobit', 'APO'],
-		'Jdt': ['Judith', '/es/Bible/Judith', 'APO'],
+		'Jdt': ['Judit', '/es/Bible/Judith', 'APO'],
 		'1 Enoc': ['Libro de Enoc', '/es/Bible/Book_of_Enoch', 'APO'],
 		'TesMos': ['Asunción de Moisés', '/es/Bible/Assumption_of_Moses', 'APO'],
 		'1 Esdras': ['I Esdras', '/Bible/1_Esdras', 'APO'],

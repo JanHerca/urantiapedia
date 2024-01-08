@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Epístola de Santiago</text>
+		<text style="font-size:9px" x="61" y="60">Epístola</text>
+		<text style="font-size:9px" x="61" y="70">de Santiago</text>
 	</g>
 </svg>
 </div>
@@ -50,4 +51,4 @@ La epístola tiene como objetivo llegar a una amplia audiencia judía. Durante l
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_of_James)
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_de_Santiago)

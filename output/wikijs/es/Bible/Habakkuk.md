@@ -41,4 +41,4 @@ De los tres capítulos del libro, los dos primeros son un diálogo entre Yahvé 
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Habakkuk)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Habacuc)

@@ -56,4 +56,4 @@ El Libro de la Sabiduría, o la Sabiduría de Salomón, es una obra judía escri
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Wisdom)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_la_Sabidur%C3%ADa_de_Salom%C3%B3n)

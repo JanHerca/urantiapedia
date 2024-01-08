@@ -69,4 +69,4 @@ La mayoría de los eruditos creen que el evangelio se compuso entre el 80 y el 9
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Matthew)
+- [Wikipedia](https://es.wikipedia.org/wiki/Evangelio_de_Mateo)

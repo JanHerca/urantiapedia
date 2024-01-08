@@ -44,4 +44,4 @@ Algunos eruditos notan afinidades entre Zacarías 9–14 y el Libro de Malaquía
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Malachi)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Malaqu%C3%ADas)

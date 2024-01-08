@@ -90,4 +90,4 @@ En Egipto, fue traducido al griego por el nieto an√≥nimo del autor, quien agreg√
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Sirach)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_la_Sabidur%C3%ADa_de_Jes%C3%BAs_ben_Sir%C3%A1)

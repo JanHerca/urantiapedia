@@ -61,4 +61,4 @@ Casi todos los eruditos están de acuerdo en que el Libro de Josué tiene poco v
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Joshua)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Josu%C3%A9)

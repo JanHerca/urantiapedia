@@ -37,4 +37,4 @@ El libro de Abdías es un libro de la Biblia cuya autoría se atribuye a Abdías
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Obadiah)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Abd%C3%ADas)

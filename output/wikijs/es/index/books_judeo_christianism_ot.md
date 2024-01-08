@@ -1070,12 +1070,12 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
 							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
-							<text style="font-size:9px" x="61" y="60">Judith</text>
+							<text style="font-size:9px" x="61" y="60">Judit</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Judith</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Judit</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/Bible/Judith" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -2189,8 +2189,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Carta de Aristeas</text>
 						</g>
 					</svg>
@@ -2264,8 +2264,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">E. W. Brooks</text>
+							<text style="font-size:3px" x="61" y="135">Joseph and Aseneth, 1918 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">José y Asenet</text>
 						</g>
 					</svg>
@@ -2412,8 +2412,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">La escalera</text>
 							<text style="font-size:9px" x="61" y="70">de Jacob</text>
 						</g>
@@ -2461,7 +2461,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Historia de</text>
 							<text style="font-size:9px" x="61" y="70">los Recabitas</text>
 						</g>
@@ -2686,9 +2687,9 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oraciones</text>
 							<text style="font-size:9px" x="61" y="70">Helenísticas</text>
 							<text style="font-size:9px" x="61" y="80">Sinagogales</text>

@@ -38,4 +38,4 @@ El Libro de Hageo (/ˈhæɡaɪ/; hebreo: ספר חגי, romanizado: Sefer Ḥagg
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Haggai)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Hageo)

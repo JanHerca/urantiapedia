@@ -45,4 +45,4 @@ En este libro son evidentes algunos motivos de un “lamento de la ciudad” mes
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Lamentations)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_las_Lamentaciones)

@@ -63,4 +63,4 @@ La mayoría de los eruditos modernos están de acuerdo en que las principales fu
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Gospel_of_Luke)
+- [Wikipedia](https://es.wikipedia.org/wiki/Evangelio_de_Lucas)

@@ -2264,8 +2264,8 @@ The list included here includes books that are considered _apocryphal pseudepigr
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 2, 1985</text>
+							<text style="font-size:4px" x="61" y="130">E. W. Brooks</text>
+							<text style="font-size:3px" x="61" y="135">Joseph and Aseneth, 1918</text>
 							<text style="font-size:9px" x="61" y="60">Joseph and Aseneth</text>
 						</g>
 					</svg>

@@ -53,4 +53,4 @@ La Epístola a los Romanos es el sexto libro del Nuevo Testamento y la más larg
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_to_the_Romans)
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_a_los_romanos)

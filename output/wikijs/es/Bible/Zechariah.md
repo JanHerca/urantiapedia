@@ -50,4 +50,4 @@ El Libro de Zacarías, atribuido al profeta hebreo Zacarías, está incluido en 
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Zechariah)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Zacar%C3%ADas)

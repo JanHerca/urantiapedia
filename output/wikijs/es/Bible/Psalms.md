@@ -186,4 +186,4 @@ El Libro de los Salmos (/sɑːmz/ SAHMZ o /sɔː(l)mz/ SAW(L)MZ; hebreo: תְּ�
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Psalms)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_los_salmos)

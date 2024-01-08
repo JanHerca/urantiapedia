@@ -39,4 +39,4 @@ Judas es una epístola breve escrita en griego koiné. Condena en términos fero
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Epistle_of_Jude)
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_de_Judas)

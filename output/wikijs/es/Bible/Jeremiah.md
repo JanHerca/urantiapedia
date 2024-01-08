@@ -91,4 +91,4 @@ Se ha presentado en dos versiones distintas aunque relacionadas, una en hebreo, 
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Jeremiah)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Jerem%C3%ADas)

@@ -49,4 +49,4 @@ El Libro de Nehemías en la Biblia hebrea, toma en gran medida la forma de una m
 
 ## Enlaces externos
 
-- [Wikipedia](https://en.wikipedia.org/wiki/Book_of_Nehemiah)
+- [Wikipedia](https://es.wikipedia.org/wiki/Libro_de_Nehem%C3%ADas)
