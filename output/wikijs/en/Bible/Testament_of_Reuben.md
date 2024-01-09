@@ -25,7 +25,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Description
 
-“Testament of Reuben”
+«Testament of Reuben»
 
 _From The Forgotten Books of Eden, by Rutherford H. Platt, Jr. [1926]_
 
@@ -39,14 +39,14 @@ THE following twelve books are biographies written between 107 and 137 B.C. They
 - [Testament of Zebulun](/en/Bible/Testament_of_Zebulun)
 - [Testament of Dan](/en/Bible/Testament_of_Dan)
 - [Testament of Naphtali](/en/Bible/Testament_of_Naphtali)
-- [Testament Of Gad](/en/Bible/Testament_Of_Gad)
+- [Testament of Gad](/en/Bible/Testament_of_Gad)
 - [Testament of Asher](/en/Bible/Testament_of_Asher)
 - [Testament of Joseph](/en/Bible/Testament_of_Joseph)
 - [Testament of Benjamin](/en/Bible/Testament_of_Benjamin)
 
 Each is here made to tell his life story. When he is on his deathbed he calls all his children and grandchildren and great-grandchildren about him, and proceeds without reservation to lay bare his experiences for the moral guidance of his hearers. If he fell into sin he tells all about it and then counsels them not to err as he did. If he was virtuous, he shows what rewards were his.
 
-When you look beyond the unvarnished—almost brutally frank—passages of the text, you will discern a remarkable attestation of the expectations of the Messiah which existed a hundred years before Christ. And there is another element of rare value in this strange series. As Dr. R. H. Charles says in his scholarly work on the Pseudepigrapha: its ethical teaching “has achieved a real immortality by influencing the thought and diction of the writers of the New Testament, and even those of our Lord. This ethical teaching, which is very much higher and purer than that of the Old Testament, is yet its true spiritual child and helps to bridge the chasm that divides the ethics of the Old and New Testaments.”
+When you look beyond the unvarnished—almost brutally frank—passages of the text, you will discern a remarkable attestation of the expectations of the Messiah which existed a hundred years before Christ. And there is another element of rare value in this strange series. As Dr. R. H. Charles says in his scholarly work on the Pseudepigrapha: its ethical teaching «has achieved a real immortality by influencing the thought and diction of the writers of the New Testament, and even those of our Lord. This ethical teaching, which is very much higher and purer than that of the Old Testament, is yet its true spiritual child and helps to bridge the chasm that divides the ethics of the Old and New Testaments.»
 
 The instances of the influence of these writings on the New Testament are notable in the Sermon on the Mount which reflects the spirit and even uses phrases from these Testaments. St. Paul appears to have borrowed so freely that it seems as though he must have carried a copy of the Testaments with him on his travels.
 

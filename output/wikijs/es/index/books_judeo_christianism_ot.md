@@ -1276,7 +1276,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">De la versión Reviseda Estándar con Apócrifos (tr.)</text>
+							<text style="font-size:3px" x="61" y="135">De la versión Revisada Estándar con Apócrifos (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Salmo 151</text>
 						</g>
 					</svg>
@@ -1333,8 +1333,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Segundo libro</text>
 							<text style="font-size:9px" x="61" y="70">de Enoc</text>
 						</g>
@@ -1358,8 +1358,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125"></text>
-							<text style="font-size:4px" x="61" y="130"></text>
+							<text style="font-size:4px" x="61" y="125">Tercer libro de Enoc, 1928 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Hugo Odeberg</text>
 							<text style="font-size:9px" x="61" y="60">Tercer libro</text>
 							<text style="font-size:9px" x="61" y="70">de Enoc</text>
 						</g>
@@ -1383,8 +1383,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">Milton S. Terry</text>
+							<text style="font-size:3px" x="61" y="135">New York: Eaton & Mains, 1899 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oráculos Sibilinos</text>
 						</g>
 					</svg>
@@ -1407,13 +1407,14 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
-							<text style="font-size:9px" x="61" y="60">Tratado de Shem</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">Tratado de Sem</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tratado de Shem</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tratado de Sem</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -1481,8 +1482,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Preguntas de Esdras</text>
 						</g>
 					</svg>
@@ -1505,8 +1506,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
 							<text style="font-size:9px" x="61" y="70">de Esdras</text>
 						</g>
@@ -1530,8 +1531,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Visión de Esdras</text>
 						</g>
 					</svg>
@@ -1680,7 +1681,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 1, 1983 (tr.)</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Apocalipsis</text>
 							<text style="font-size:9px" x="61" y="70">de Elías</text>
 						</g>
@@ -1709,8 +1710,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Rubén</text>
 						</g>
@@ -1734,8 +1735,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Simeón</text>
 						</g>
@@ -1759,8 +1760,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Leví</text>
 						</g>
@@ -1784,8 +1785,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Judá</text>
 						</g>
@@ -1809,8 +1810,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Isacar</text>
 						</g>
@@ -1834,8 +1835,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Zebulón</text>
 						</g>
@@ -1859,8 +1860,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Dan</text>
 						</g>
@@ -1884,8 +1885,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Neftalí</text>
 						</g>
@@ -1909,8 +1910,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Gad</text>
 						</g>
@@ -1934,8 +1935,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Aser</text>
 						</g>
@@ -1959,8 +1960,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de José</text>
 						</g>
@@ -1984,8 +1985,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Benjamín</text>
 						</g>
@@ -2009,8 +2010,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">M. R. James</text>
+							<text style="font-size:3px" x="61" y="135">Apocrypha anecdota 2. Textos y estudios, 1897 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Job</text>
 						</g>
@@ -2034,8 +2035,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los Padres Ante-Nicenos, 1885-1903 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Arthur Cleveland Coxe & Allan Menzies</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Abraham</text>
 						</g>
@@ -2059,8 +2060,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Isaac</text>
 						</g>
@@ -2084,8 +2085,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Jacob</text>
 						</g>
@@ -2135,7 +2136,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">F. C. Conybeare</text>
+							<text style="font-size:3px" x="61" y="135">Jewish Quarterly Review, 1898 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Salomón</text>
 						</g>
@@ -2159,8 +2161,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">El libro de la cueva de los tesoros, 1927 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">E. A. Wallis Budge</text>
 							<text style="font-size:9px" x="61" y="60">Testamento</text>
 							<text style="font-size:9px" x="61" y="70">de Adán</text>
 						</g>
@@ -2238,9 +2240,9 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+							<text style="font-size:3px" x="61" y="135">Los apócrifos y pseudoepígrafos del Antiguo Testamento (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Martirio</text>
 							<text style="font-size:9px" x="61" y="70">de Isaías</text>
 						</g>
@@ -2288,9 +2290,9 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+							<text style="font-size:3px" x="61" y="135">Los apócrifos y pseudoepígrafos del Antiguo Testamento (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Vida de</text>
 							<text style="font-size:9px" x="61" y="70">Adán y Eva</text>
 						</g>
@@ -2339,8 +2341,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Segundo libro</text>
 							<text style="font-size:9px" x="61" y="70">de Adán y Eva</text>
 						</g>
@@ -2364,7 +2366,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">M. R. James</text>
+							<text style="font-size:3px" x="61" y="135">Antigüedades bíblicas de Filón, 1917 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Pseudo-Filón</text>
 						</g>
 					</svg>
@@ -2386,9 +2389,9 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
-							<text style="font-size:3px" x="61" y="135">The Old Testament Pseudepigrapha, Vol. 2, 1985</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Las vidas</text>
 							<text style="font-size:9px" x="61" y="70">de los profetas</text>
 						</g>
@@ -2491,8 +2494,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Historia</text>
 							<text style="font-size:9px" x="61" y="70">de Ajicar</text>
 						</g>
@@ -2539,7 +2542,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">IV Macabeos</text>
 						</g>
@@ -2563,14 +2566,14 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
-							<text style="font-size:9px" x="61" y="60">5 Macabeos</text>
+							<text style="font-size:4px" x="61" y="130">Henry Cotton</text>
+							<text style="font-size:3px" x="61" y="135">The Five Books of Maccabees, 1832 (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">V Macabeos</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">5 Macabeos</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">V Macabeos</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -2587,7 +2590,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">xxxxx</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Pseudo-Focílides</text>
 						</g>
 					</svg>
@@ -2615,8 +2619,6 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
 							<text style="font-size:9px" x="61" y="60">Salmos de David</text>
 						</g>
 					</svg>
@@ -2639,8 +2641,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Salmos de Salomón</text>
 						</g>
 					</svg>
@@ -2663,8 +2665,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="125">??</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
+							<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Odas</text>
 							<text style="font-size:9px" x="61" y="70">de Salomón</text>
 						</g>
@@ -2687,7 +2689,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oraciones</text>
@@ -2714,8 +2716,8 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-							<text style="font-size:4px" x="61" y="130">??</text>
-							<text style="font-size:3px" x="61" y="135">??</text>
+							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
+							<text style="font-size:3px" x="61" y="135">Los pseudoepígrafos del Antiguo Testamento, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oración de Jacob</text>
 						</g>
 					</svg>

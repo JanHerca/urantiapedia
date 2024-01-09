@@ -15,8 +15,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
+		<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+		<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
 		<text style="font-size:9px" x="61" y="60">Oración de Manasés</text>
 	</g>
 </svg>
@@ -24,10 +24,14 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## Descripción
 
+«Oración de Manasés»
+
+_Traducido de la versión King James_
+
 
 La Oración de Manasés, también conocida como la Oración de Manasés, es una obra corta de 15 versos que registra una oración penitencial atribuida al rey Manasés de Judá. La mayoría de los eruditos cree que la Oración de Manasés fue escrita en griego (mientras que una minoría aboga por un original semítico) en el segundo o primer siglo a. Se reconoce que también pudo haber sido escrito en la primera mitad del siglo I d.C., pero en todo caso antes de la Destrucción del Segundo Templo en el 70 d.C. Otra obra con el mismo título, escrita en hebreo, se encontró entre los Rollos del Mar Muerto (4Q381:17).
 
-Manasés está registrado en la Biblia como uno de los reyes más idólatras de Judá (2 Reyes 21:1–18; 2 Crónicas 33:1–9). El segundo Libro de Crónicas, pero no el segundo Libro de Reyes, registra que los asirios tomaron cautivo a Manasés (2 Crónicas 33:11–13). Mientras estaba preso, Manasés oró por misericordia, y al ser liberado y restaurado al trono se apartó de sus caminos idólatras (2 Crónicas 33:15–17). Se hace una referencia a la oración, pero no a la oración misma, en 2 Crónicas 33:19, que dice que la oración está escrita en “las crónicas de los reyes de Israel”.
+Manasés está registrado en la Biblia como uno de los reyes más idólatras de Judá (2 Reyes 21:1–18; 2 Crónicas 33:1–9). El segundo Libro de Crónicas, pero no el segundo Libro de Reyes, registra que los asirios tomaron cautivo a Manasés (2 Crónicas 33:11–13). Mientras estaba preso, Manasés oró por misericordia, y al ser liberado y restaurado al trono se apartó de sus caminos idólatras (2 Crónicas 33:15–17). Se hace una referencia a la oración, pero no a la oración misma, en 2 Crónicas 33:19, que dice que la oración está escrita en «las crónicas de los reyes de Israel».
 
 La oración es considerada apócrifa por judíos, católicos y protestantes. Se colocó al final de 2 Crónicas en la Vulgata de finales del siglo IV. Más de un milenio después, Martín Lutero incluyó la oración en su traducción de 74 libros de la Biblia al alemán. Formaba parte de la Biblia de Mateo de 1537 y de la Biblia de Ginebra de 1599. También aparece en los apócrifos de la Biblia King James y de la Biblia Douai-Rheims original de 1609/1610. El Papa Clemente VIII incluyó la oración en un apéndice de la Vulgata.
 

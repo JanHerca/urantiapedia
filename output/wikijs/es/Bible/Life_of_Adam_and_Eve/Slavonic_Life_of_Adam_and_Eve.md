@@ -13,17 +13,17 @@ dateCreated: 2023-12-05T13:55:38.362Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/Bible/Life_of_Adam_and_Eve/Latin_Life_of_Adam_and_Eve">
+        <a href="/es/Bible/Life_of_Adam_and_Eve/Latin_Life_of_Adam_and_Eve">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vida de Adán y Eva en latín</span>
         </a>
         </td>
         <td>
-        <a href="/en/Bible/Life_of_Adam_and_Eve#índice">
+        <a href="/es/Bible/Life_of_Adam_and_Eve#índice">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
         </a>
         </td>
         <td>
-        <a href="/en/Bible/Life_of_Adam_and_Eve/The_Georgian_Book_of_Adam">
+        <a href="/es/Bible/Life_of_Adam_and_Eve/The_Georgian_Book_of_Adam">
           <span class="pr-2">El libro de Adán georgiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -141,17 +141,17 @@ Pero Adán dijo: «Eva, ya que te arrepientes de
     <tbody>
       <tr>
         <td>
-        <a href="/en/Bible/Life_of_Adam_and_Eve/Latin_Life_of_Adam_and_Eve">
+        <a href="/es/Bible/Life_of_Adam_and_Eve/Latin_Life_of_Adam_and_Eve">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vida de Adán y Eva en latín</span>
         </a>
         </td>
         <td>
-        <a href="/en/Bible/Life_of_Adam_and_Eve#índice">
+        <a href="/es/Bible/Life_of_Adam_and_Eve#índice">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
         </a>
         </td>
         <td>
-        <a href="/en/Bible/Life_of_Adam_and_Eve/The_Georgian_Book_of_Adam">
+        <a href="/es/Bible/Life_of_Adam_and_Eve/The_Georgian_Book_of_Adam">
           <span class="pr-2">El libro de Adán georgiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

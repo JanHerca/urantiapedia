@@ -16,7 +16,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
-		<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926 (tr.)</text>
+		<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
 		<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 		<text style="font-size:9px" x="61" y="60">IV Macabeos</text>
 	</g>
