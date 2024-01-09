@@ -1100,7 +1100,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Esdras (también llamado “Esdras en griego” o “III Esdras”)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/xxx" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1123,7 +1123,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Esdras (también llamado “Apocalipsis de Esdras” o “IV Esdras”)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/xxx" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1146,7 +1146,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Susana</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/xxx" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1215,7 +1215,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Carta de Jeremías</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Letter_of_Jeremiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1238,7 +1238,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Adiciones a Ester</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Additions_to_Esther" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1261,7 +1261,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Oración de Azarías</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Prayer_of_Azariah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1284,7 +1284,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Salmo 151</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Psalm_151" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1318,7 +1318,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Libro de Enoc</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1343,7 +1343,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Segundo libro de Enoc</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Second_Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1368,7 +1368,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tercer libro de Enoc</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Third_Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1392,7 +1392,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Oráculos Sibilinos</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Sibylline_Oracles" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1416,7 +1416,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Tratado de Sem</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Treatise_of_Shem" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1441,7 +1441,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalipsis de Sofonías</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Apocalypse_of_Zephaniah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1467,7 +1467,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalipsis Griego de Esdras</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Greek_Apocalypse_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1491,7 +1491,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Preguntas de Esdras</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Questions_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1516,7 +1516,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalipsis de Esdras</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Revelation_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1540,7 +1540,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Visión de Esdras</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Vision_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1565,7 +1565,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalipsis de Sedrac</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Apocalypse_of_Sedrach" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1590,7 +1590,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Baruc (o Apocalipsis Siríaco de Baruc)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/2_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1615,7 +1615,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">III Baruc (o Apocalipsis Griego de Baruc)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/3_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1640,7 +1640,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalipsis de Abraham</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Apocalypse_of_Abraham" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1665,7 +1665,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalipsis de Adán</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Apocalypse_of_Adam" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1690,7 +1690,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalipsis de Elías</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Apocalypse_of_Elijah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1720,7 +1720,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Rubén</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Reuben" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1745,7 +1745,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Simeón</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Simeon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1770,7 +1770,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Leví</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Levi" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1795,7 +1795,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Judá</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Judah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1820,7 +1820,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Isacar</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Issachar" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1845,7 +1845,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Zebulón</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Zebulun" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1870,7 +1870,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Dan</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Dan" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1895,7 +1895,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Neftalí</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Naphtali" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1920,7 +1920,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Gad</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Gad" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1945,7 +1945,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Aser</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Asher" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1970,7 +1970,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de José</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Joseph" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1995,7 +1995,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Benjamín</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Benjamin" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2020,7 +2020,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Job</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Job" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2045,7 +2045,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Abraham</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Abraham" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2070,7 +2070,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Isaac</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Isaac" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2095,7 +2095,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Jacob</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2121,7 +2121,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Asunción de Moisés, también llamado «Testamento de Moisés»</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Assumption_of_Moses" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2146,7 +2146,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Salomón</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2171,7 +2171,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Adán</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Testament_of_Adam" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2200,7 +2200,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Carta de Aristeas</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Letter_of_Aristeas" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2225,7 +2225,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Libro de los Jubileos</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Book_of_Jubilees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2251,7 +2251,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Martirio de Isaías</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Martyrdom_of_Isaiah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2275,7 +2275,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">José y Asenet</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Joseph_and_Aseneth" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2301,7 +2301,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vida de Adán y Eva</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Life_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2326,7 +2326,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Primer libro de Adán y Eva</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/First_book_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2351,7 +2351,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Segundo libro de Adán y Eva</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Second_book_of_Adam_and_Eve" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2375,7 +2375,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Filón</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Pseudo_Philo" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2425,7 +2425,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">La escalera de Jacob</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Ladder_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2449,7 +2449,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">IV Baruc</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/4_Baruch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2474,7 +2474,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Historia de los Recabitas</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/History_of_the_Rechabites" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2504,7 +2504,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Historia de Ajicar</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Story_of_Ahikar" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2527,7 +2527,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">III Macabeos</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/3_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2551,7 +2551,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">IV Macabeos</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/4_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2575,7 +2575,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">V Macabeos</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/5_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2599,7 +2599,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Focílides</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Pseudo_Phocylides" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2626,7 +2626,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Salmos de David</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Psalms_of_David" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2650,7 +2650,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Salmos de Salomón</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Psalms_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2675,7 +2675,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Odas de Salomón</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/The_Odes_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2701,7 +2701,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Oraciones Helenísticas Sinagogales</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Hellenistic_Synagogal_Prayers" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2725,7 +2725,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Oración de Jacob</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/es/Bible/Prayer_of_Jacob" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>

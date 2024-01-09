@@ -1275,7 +1275,7 @@ The list included here includes books that are considered _deuterocanonical apoc
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">From Revised Standard Version w/ Apocrypha</text>
+							<text style="font-size:3px" x="61" y="135">From Revised Standard Version w/ Apocrypha</text>
 							<text style="font-size:9px" x="61" y="60">Psalm 151</text>
 						</g>
 					</svg>
@@ -2525,7 +2525,7 @@ The list included here includes books that are considered _apocryphal pseudepigr
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Maccabees</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/en/Bible/3_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2549,7 +2549,7 @@ The list included here includes books that are considered _apocryphal pseudepigr
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Maccabees</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/2_esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/en/Bible/4_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
