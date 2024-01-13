@@ -18,7 +18,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 		<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
 		<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
-		<text style="font-size:9px" x="61" y="60">Hechos de Pilatos</text>
+		<text style="font-size:9px" x="61" y="60">Actas de Pilato</text>
 		<text style="font-size:9px" x="61" y="70">o Evangelio</text>
 		<text style="font-size:9px" x="61" y="80">de Nicodemo</text>
 	</g>
@@ -27,7 +27,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Descripción
 
-«Evangelio de Pedro [fragm. de Akhmîm]»
+«Evangelio de Nicodemo»
 
 _De «Evangelios Apócrifos», Edmundo González-Blanco (1934)_
 
@@ -37,7 +37,7 @@ La sección sobre Pilato es un texto más antiguo que se encuentra en el griego 
 
 ## Índice
 
-- [I. Hechos de Pilatos (Acta Pilati)](/es/Bible/Gospel_of_Nicodemus/1)
+- [I. Actas de Pilato (Acta Pilati)](/es/Bible/Gospel_of_Nicodemus/1)
 - [II. Descenso de Cristo al Infierno (Descensus Christi ad Inferos)](/es/Bible/Gospel_of_Nicodemus/2)
 - [III. Primera carta de Pilatos a Tiberio](/es/Bible/Gospel_of_Nicodemus/3)
 

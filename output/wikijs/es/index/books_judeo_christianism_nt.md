@@ -935,14 +935,14 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
 							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
-							<text style="font-size:9px" x="61" y="60">Hechos de Pilatos</text>
+							<text style="font-size:9px" x="61" y="60">Actas de Pilato</text>
 							<text style="font-size:9px" x="61" y="70">o Evangelio</text>
 							<text style="font-size:9px" x="61" y="80">de Nicodemo</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Hechos de Pilatos o Evangelio de Nicodemo</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Actas de Pilato o Evangelio de Nicodemo</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/Bible/Gospel_of_Nicodemus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
@@ -971,7 +971,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Escritos complementarios a las «Actas de Pilato»</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/Bible/Gospel_of_Nicodemus_B" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
