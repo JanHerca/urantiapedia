@@ -1074,6 +1074,22 @@ const handle_exeButtonClick = () => {
 			})
 			.then(() => onSuccess(okMsgs))
 			.catch(onFail);
+	} else if (process === 'ARTICLE_COPY_TO_FOLDER') {
+		//Reads a Articles Index File (TSV)
+		//Copy the articles to an existing folder
+		if (lan === 'en') {
+			articles.readIndexFileFromTSV(txtFile)
+				.then(() => articles.copyArticles(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		} else {
+			const txtFileEN = txtFile.replace('articles-' + lan, 'articles-en');
+			articles.readIndexFileFromTSV(txtFileEN)
+				.then(() => articles.readIndexFileFromTSV(txtFile))
+				.then(() => articles.copyArticles(htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		}
 	} else if (process === 'ALL_INDEXES') {
 		// Creates a page of all indexes
 		getListOfAllIndexes(htmlDir)

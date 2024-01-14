@@ -6,9 +6,10 @@ const markdownIt = require('markdown-it')({
 	linkify: true,
 	typographer: true
 });
-const {readFrom, readFile, reflectPromise, extendArray, getError, getAllIndexes,
-	writeFile, getWikijsHeader, sentenceSimilarity, replaceTags, strformat,
-	fixWikijsHeader, getWikijsNavLinks, getFiles, getFolders, autoCorrect
+const {readFrom, readFile, copyFile, reflectPromise, extendArray, getError, 
+	getAllIndexes, writeFile, getWikijsHeader, sentenceSimilarity, replaceTags, 
+	strformat, fixWikijsHeader, getWikijsNavLinks, getFiles, getFolders, 
+	autoCorrect
 } = require('./utils');
 const fs = require('fs');
 const path = require('path');
@@ -1283,6 +1284,49 @@ class Articles {
 						}
 						resolve(null);
 					});
+			});
+		});
+	};
+
+	/**
+	 * Copies articles using current index to the given output folder.
+	 * This is useful for example to create a copy in which test translations.
+	 * @param {string} dirPath Output folder.
+	 * @return {Promise}
+	 */
+	copyArticles = (dirPath) => {
+		const baseName = path.basename(dirPath);
+		return new Promise((resolve, reject) => {
+			fs.access(dirPath, fs.constants.W_OK, (err) => {
+				if (err) {
+					reject([this.getError('folder_no_access', baseName)]);
+					return;
+				}
+				const issues = [];
+				const promises = [];
+				this.index.volumes.forEach(volume => {
+					volume.issues.forEach(issue => issues.push(issue));
+				});
+				this.index.issues.forEach(issue => issues.push(issue));
+
+				issues.forEach(issue => {
+					issue.articles.forEach(article => {
+						const m = `/${this.language}/article/`;
+						const subpath = article.path.replace(m, '');
+						const authorFolder = (subpath.split('/').length === 2 ?
+							path.join(dirPath, subpath.split('/')[0]) : null);
+						const sourcePath = path.join(app.getAppPath(), 
+							'output', 'wikijs', article.path + '.md');
+						const targetPath = path.join(dirPath, subpath + '.md');
+						//Articles are only in one level structure so ensure
+						// that folder exists and if not create
+						if (authorFolder && !fs.existsSync(authorFolder)) {
+							fs.mkdirSync(authorFolder);
+						}
+						promises.push(copyFile(sourcePath, targetPath));
+					});
+				});
+				Promise.all(promises).then(resolve, reject);
 			});
 		});
 	};

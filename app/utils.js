@@ -298,6 +298,24 @@ exports.readFile = (filePath) => {
 };
 
 /**
+ * Copies a file.
+ * @param {string} sourcePath Source path.
+ * @param {string} targetPath Target path.
+ * @return {Promise}
+ */
+exports.copyFile = (sourcePath, targetPath) =>  {
+	return new Promise((resolve, reject) => {
+		fs.copyFile(sourcePath, targetPath, (err) => {
+			if (err) {
+				reject(err);
+			} else {
+				resolve(null);
+			}
+		});
+	});
+};
+
+/**
  * Get files recursively in a folder and inmediate subfolders.
  * @param {string} dirPath Folder.
  * @return {Promise}

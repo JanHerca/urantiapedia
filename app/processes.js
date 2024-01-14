@@ -446,6 +446,16 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}'],
 			['output', 'wikijs', '{0}', 'article']]
 	},
+	"ARTICLE_COPY_TO_FOLDER": {
+		active: true,
+		desc: {
+			en: "ARTICLES: Copy files to folder from an index",
+			es: "ARTICULOS: Copiar archivos a carpeta a partir de un índice"
+		},
+		controls: ['fnTTextbox', 'dirHTextbox'],
+		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
+			['tests', 'article']]
+	},
 	"ALL_INDEXES": {
 		active: true,
 		desc: {
