@@ -5,7 +5,7 @@
 // const { TranslationServiceClient } = require('@google-cloud/translate');
 const { Translate } = require('@google-cloud/translate').v2;
 
-const { strformat, readFile, writeFile, getFiles, extendArray,
+const { strformat, readFile, writeFile, getFiles, extendArray, createFolders,
 	reflectPromise } = require('./utils');
 const Strings = require('./strings');
 
@@ -191,12 +191,12 @@ class GoogleTranslate {
 			return Promise.reject('Client configuration required.');
 		}
 
-		return getFiles(sourcePath)
+		return createFolders(sourcePath, targetPath)
+			.then(folders => getFiles(sourcePath))
 			.then(files => {
 				const promises = files.map(file => {
 					const target = file.replace(sourcePath, targetPath);
 					const issues = [file];
-					//TODO: create folder structure when multiple folder levels
 					return reflectPromise(this.translateFile(file, target, 
 						sourceLan, targetLan, issues));
 				});
@@ -240,7 +240,6 @@ class GoogleTranslate {
 			.then(files => {
 				const promises = files.map(file => {
 					const issues = [file];
-					//TODO: create folder structure when multiple folder levels
 					return reflectPromise(this.estimateFile(file, 
 						sourceLan, targetLan, issues));
 				});

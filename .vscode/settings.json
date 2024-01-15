@@ -26,7 +26,5 @@
     "spellright.language": [
       "es"
     ],
-    "spellright.documentTypes": [
-      "plaintext"
-    ]
+    "spellright.documentTypes": []
 }

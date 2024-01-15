@@ -19,7 +19,7 @@ const Processes = require('./processes');
 const Strings = require('./strings');
 const BibleAbbs = require('./abb');
 const {strformat, extendArray, replaceWords, getMostSimilarSentence, 
-	getWikijsHeader, writeHTMLToWikijs, getError, 
+	getWikijsHeader, writeHTMLToWikijs, getError, createFolders,
 	readFile, writeFile, readBooksFromJSON, getFiles} = require('./utils');
 const DialogEditAlias = require('./dialog_editalias');
 const DialogEditRefs = require('./dialog_editrefs');
@@ -2207,7 +2207,7 @@ const handle_translateButton = (evt) => {
 		.then(() => {
 			translator.configureBooks(bookTranslate, bookTranslate2);
 			return translator.translateFolder(originFolder, targetFolder, 
-				sourceLan, 	targetLan);
+				sourceLan, targetLan);
 		})
 		.then(issues => showTranslateLog(issues))
 		.catch(err => showTranslateError([err]));

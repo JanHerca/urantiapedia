@@ -303,7 +303,7 @@ exports.readFile = (filePath) => {
  * @param {string} targetPath Target path.
  * @return {Promise}
  */
-exports.copyFile = (sourcePath, targetPath) =>  {
+exports.copyFile = (sourcePath, targetPath) => {
 	return new Promise((resolve, reject) => {
 		fs.copyFile(sourcePath, targetPath, (err) => {
 			if (err) {
@@ -312,6 +312,38 @@ exports.copyFile = (sourcePath, targetPath) =>  {
 				resolve(null);
 			}
 		});
+	});
+};
+
+/**
+ * Creates the same folders from source into target (only folders, not files).
+ * @param {string} sourcePath Source path.
+ * @param {string} targetPath Target path.
+ * @return {Promise}
+ */
+exports.createFolders = (sourcePath, targetPath) => {
+	return new Promise((resolve, reject) => {
+		const folders = [];
+		const readDir = (dir, output) => {
+			fs.readdirSync(dir).forEach(file => {
+				const filepath = path.join(dir, file);
+				const outputpath = path.join(output, file);
+				if (fs.statSync(filepath).isDirectory()) {
+					folders.push(filepath);
+					if (!fs.existsSync(outputpath)) {
+						fs.mkdirSync(outputpath);
+					}
+					readDir(filepath, outputpath);
+				}
+			});
+		};
+		try {
+			readDir(sourcePath, targetPath);
+		} catch (err) {
+			reject(err);
+			return;
+		}
+		resolve(folders);
 	});
 };
 
@@ -329,7 +361,7 @@ exports.getFiles = (dirPath) => {
 				if (fs.statSync(filepath).isDirectory()) {
 					readDir(filepath);
 				} else {
-					files.push(filepath)
+					files.push(filepath);
 				}
 			});
 		};
