@@ -58,7 +58,7 @@ In this and no doubt many other ways, Jesus resolved ordinary conflicts of livin
 
 We are bid to do likewise.
 
-> “_If you sincerely nun the race of time and gain the final goal of faith, the reward of the ages shall be yours._” (<a id="a60_118"></a>[UB 112:0.1](/en/The_Urantia_Book/112#p0_1))
+> “_If you sincerely run the race of time and gain the final goal of faith, the reward of the ages shall be yours._” (<a id="a60_118"></a>[UB 112:0.1](/en/The_Urantia_Book/112#p0_1))
 
 ## The Time
 

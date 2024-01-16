@@ -166,7 +166,7 @@ _In April 1985, we went international. The editorial reported:_
 
 _We were after reader feedback in our ***July/August 1986*** issue. We conducted a survey to find out what sort of articles people were really looking for and how often readers would like it published._
 
-_The response, as often happens with surveys like this, was low, but we found out from those that did respond that they wanted it to be a monthly event. Most people were looking for a variety of articles including news about the movement, national and international, articles on scientific evidence, the teachings of _The URANTLA Book_, personal experiences, how to rin a study group and the origin of the book._
+_The response, as often happens with surveys like this, was low, but we found out from those that did respond that they wanted it to be a monthly event. Most people were looking for a variety of articles including news about the movement, national and international, articles on scientific evidence, the teachings of _The URANTIA Book_, personal experiences, how to rin a study group and the origin of the book._
 
 _Cost and time-prevented us from responding to the request for a monthly newsletter, but we have tried to give you a mixed bag as far as the articles are concerned._
 
@@ -198,7 +198,7 @@ _Our numbers rose from 66 in 1981 to 168 in 1985. When subscriptions were introd
 > 
 > Some people have asked us if it was possible to have a copy of the game. We made inquiries about that but regret to tell you they are not available.
 > 
-> Since that day Robert Crickett has introduced _The URANTLA Book_ to literally dozen of people, not so much through his Ascension Career game but through his personal development courses he has given, which in turn have led to study groups.
+> Since that day Robert Crickett has introduced _The URANTIA Book_ to literally dozen of people, not so much through his Ascension Career game but through his personal development courses he has given, which in turn have led to study groups.
 > 
 > **Madeline**
 {.is-info}
@@ -207,13 +207,13 @@ _Our numbers rose from 66 in 1981 to 168 in 1985. When subscriptions were introd
 
 _In ***February 1982*** the editorial mentioned that book translations were making steady progress (French, Finnish and Spanish). $7,000 had been provided for translations in general and $3,000 for the Spanish version._
 
-_We were pleased to report in ***March 1982*** that _The URANTLA Book_ had joined the best-seller list! The seventh printing of some 23,000 copies was completed in August 1981. This brought the total number of copies in print (in English) to 135,000. The seventh printing went on sale in November 1981 when stocks of the sixth printing were sold out._
+_We were pleased to report in ***March 1982*** that_ The URANTIA Book _had joined the best-seller list! The seventh printing of some 23,000 copies was completed in August 1981. This brought the total number of copies in print (in English) to 135,000. The seventh printing went on sale in November 1981 when stocks of the sixth printing were sold out._
 
 _Sales to the end of 1981 had exceeded 112,000 in total. And with the increasing demand for the book, sales for that year were expected to be 10% up on the preceding year._
 
-_Increasing sales over a period of 26 years make _The URANTLA Book_ a confirmed best-seller._
+_Increasing sales over a period of 26 years make_ The URANTIA Book _a confirmed best-seller._
 
-***October 1982*** _was the issue where we reported that the URANTLA Foundation was pleased to announce that the French translation of _The URANTLA Book_ was again available. It was now titled “Le Livre d'URANTLA”. The Foundation also advised on new guidelines for quoting from the book._
+***October 1982*** _was the issue where we reported that the URANTIA Foundation was pleased to announce that the French translation of_ The URANTIA Book _was again available. It was now titled “Le Livre d'URANTIA”. The Foundation also advised on new guidelines for quoting from the book._
 
 _A historic achievement was reported in our ***February 1986*** issue:_
 
@@ -235,7 +235,7 @@ _We look forward to bringing you many more reports in the future about how the g
 
 ### Reprinted from Six-O-Six Newsletter April 1986
 
-_One of the first to introduce people to _The URANTLA Book_ in Australia was Fred Robinson. In ***April 1986*** Steve Shanahan, who knew Fred personally, wrote the following article._
+_One of the first to introduce people to_ The URANTIA Book _in Australia was Fred Robinson. In ***April 1986*** Steve Shanahan, who knew Fred personally, wrote the following article._
 
 **Time for Reflection: Fred**
 
@@ -267,7 +267,7 @@ Tom Reynolds Melbourne
 
 ---
 
-_One other person who possessed the very first edition of _The URANTLA Book_ was Leith Luckett. In June 1986 Leith presented some artwork at the Melbourne conference. It was on the theme “The Tapestry of Loving Service”. We have never before published this work, but we feel this is a good opportunity to do so. (The drawing takes 2 full pages, see pages 18 & 19)_
+_One other person who possessed the very first edition of_ The URANTIA Book _was Leith Luckett. In June 1986 Leith presented some artwork at the Melbourne conference. It was on the theme “The Tapestry of Loving Service”. We have never before published this work, but we feel this is a good opportunity to do so. (The drawing takes 2 full pages, see pages 18 & 19)_
 
 ## Our Pacific Neighbours
 
@@ -296,7 +296,7 @@ Emmanuel Lou Papeete, Tahiti
 > The August 1981 issue of Six-O-Six told of an ancient vase in an American museum that was found near Hebron, in Palestine. What made this vase interesting and unique is that it is emblazoned with three blue concentric circles, the banner of Michael and the emblem worn by Machiventa Melchizedek. Hebron was where Abraham maintained his headquarters during the time of Melchizedek.
 {.is-info}
 
-_In ***July / August 1987***, Emmanuel was again featured by the newsletter in an article where he compared Chinese legends with information from _The URANTLA Book_._
+_In ***July / August 1987***, Emmanuel was again featured by the newsletter in an article where he compared Chinese legends with information from_ The URANTIA Book.
 
 ### Reprinted from Six-O-Six Newsletter July/August 1987
 
@@ -431,9 +431,9 @@ This is the great adventure story of all time. Don't wait for the movie - act no
 
 _Study groups in Australia existed before February 1980, the month in which the first Six-O-Six was published, but the first mention of them was made in March 1980 under the heading “Study Groups”. Two groups were mentioned, one at Tom Reynolds' and one at Neil Francey's. Both were in Melbourne._
 
-_Tom Reynolds, who is believed to be one of the first URANTLA Book readers in Australia, together with Fred Robinson, had been holding study groups for a number of years with emphasis on personal development._
+_Tom Reynolds, who is believed to be one of the first URANTIA Book readers in Australia, together with Fred Robinson, had been holding study groups for a number of years with emphasis on personal development._
 
-_I joined him in April 1980, about six months after finding _The URANTIA Book_ myself, through one of the members of Tom's group. I stayed with this group which met weekly on a Tuesday night, for about five years. We would discuss such things as “What am I”, “Who am I”, and “Why am I”. Tom, who had been a yoga teacher, took readings from various books. Emmet Fox was one of his favourites. I also remember a little book called “Why I am afraid to tell you who I am” by John Powell, and sometimes we took readings from _The URANTLA Book_._
+_I joined him in April 1980, about six months after finding _The URANTIA Book_ myself, through one of the members of Tom's group. I stayed with this group which met weekly on a Tuesday night, for about five years. We would discuss such things as “What am I”, “Who am I”, and “Why am I”. Tom, who had been a yoga teacher, took readings from various books. Emmet Fox was one of his favourites. I also remember a little book called “Why I am afraid to tell you who I am” by John Powell, and sometimes we took readings from _The URANTIA Book_._
 
 _In those five years I saw many people come and go. Some came out of sheer curiosity, responding to an advertisement that Tom would put in some local newspapers._
 
@@ -447,7 +447,7 @@ _After the first mention of two groups in Melbourne in March 1980, the Sydney St
 
 _In ***July 1982***, Kathleen Burns, who later became Trevor's wife, wrote her first article encouraging readers to start more study groups. She invited people who came to Sydney to come and join their group, which at that time had six regular attendants._
 
-_In the ***February 1983*** issue, this same Sydney group announced their intention to hold the first conference in Australia for readers of _The URANTLA Book_ in June of that year. We have had one national conference every year since then, with an international meeting in October 1988, which was also organised by Kathleen and Trevor Swadling with a little help from their friends._
+_In the ***February 1983*** issue, this same Sydney group announced their intention to hold the first conference in Australia for readers of _The URANTIA Book_ in June of that year. We have had one national conference every year since then, with an international meeting in October 1988, which was also organised by Kathleen and Trevor Swadling with a little help from their friends._
 
 _THE NEED FOR STUDY GROUPS_
 
@@ -459,7 +459,7 @@ The early members of the Urantia movement were told that “the Book” is being
 
 In early days we were advised to form thousands of study groups and further, avoid publicity. In this way, people from all walks of life would become knowledgable about the book and ready to defend it from any possible attack from unenlightened individuals. Most of all, individuals' lives would be upstepped and thus, in their various walks of life, be able to grow wisely and upstep the lives of others.
 
-My concern is that of keeping a balance between the modest small study group's growth and the ever-growing big conferences. I love the joy, fellowship and presentations of these conferences and $I$ have always been right in there working for them. However, now I am beginning to foresee some real dangers in the emphasis and fast growth of big conferences. They appear to be growing at a faster rate than the small in-the-home, grass-roots study groups. For example, we could easily anticipate a thousand people attending a national conference in the next two or three years. On the other hand, at the moment we cannot count more than 300 study groups in the whole world.
+My concern is that of keeping a balance between the modest small study group's growth and the ever-growing big conferences. I love the joy, fellowship and presentations of these conferences and I have always been right in there working for them. However, now I am beginning to foresee some real dangers in the emphasis and fast growth of big conferences. They appear to be growing at a faster rate than the small in-the-home, grass-roots study groups. For example, we could easily anticipate a thousand people attending a national conference in the next two or three years. On the other hand, at the moment we cannot count more than 300 study groups in the whole world.
 
 We cannot force study groups but we can help organise the existing enthusiastic individuals into small study groups attracting other readers and students and we can improve and upstep present small groups with sparks of new ideas and helps for improved study.
 
@@ -487,7 +487,7 @@ The scene in New Zealand, as far as readers of _The URANTIA Book_ goes, is still
 
 _In December last year, I received a little footnote from Mark, asking if I could put the First .Urantia Book Study Group of Auckland on our mailing list again. It was good to hear they are still alive and kicking!_
 
-_There was an invitation from another Pacific neighbour, Emmanuel Lou from Papeete in Tahiti, in the May 1985 issue, to come and join him for the First International URANTLA Book Booth, which would be put up at the Festival of Arts in Tahiti from June 29 to July 15 that year._
+_There was an invitation from another Pacific neighbour, Emmanuel Lou from Papeete in Tahiti, in the May 1985 issue, to come and join him for the First International URANTIA Book Booth, which would be put up at the Festival of Arts in Tahiti from June 29 to July 15 that year._
 
 _Steve Shanahan responded by going there, which was the beginning of a warm friendship between Tahitian and Australian readers. I remember how Emmanuel told me once that for the first fourteen years after finding _The URANTIA Book_ he had a study group of two — his Thought Adjuster and himself — not a bad partner!_
 
@@ -495,7 +495,7 @@ _One other Pacific neighbour who responded to Emmanuel's call was Isi Racule fro
 
 _READERS IN THE SUNSHINE STATE_
 
-_In ***April 1982***, an introductory greeting appeared on the front page of Six-O-Six from a group in Gladstone, North Queensland consisting of a housewife, a ship's engineer and a bookseller. Their approach to the study of _The URANTLA Book_ was “very low key”. The bookseller in that group was, you've guessed it, Kevin Meyrick, who still regularly attends our annual conferences._
+_In ***April 1982***, an introductory greeting appeared on the front page of Six-O-Six from a group in Gladstone, North Queensland consisting of a housewife, a ship's engineer and a bookseller. Their approach to the study of _The URANTIA Book_ was “very low key”. The bookseller in that group was, you've guessed it, Kevin Meyrick, who still regularly attends our annual conferences._
 
 _In ***July 1985*** there was a news item about the North Queensland Tableland Growth Centre in Atherton. They had placed an advertisement in their newsletter._
 
@@ -507,7 +507,7 @@ _In the ***May 1986*** issue Geoff Harper reported the formation of a study grou
 
 _In August of that same year I visited Geoff while on a holiday with the family. He reported then that he was studying on his own._
 
-_In ***November/December 1986*** I wrote a short story about this holiday with the family, which we spent travelling through Queensland and calling in on as many URANTLA Book readers as my very patient hubby was willing to put up with. I called it: “Say Hello To A Fellow Urantian”. My general impression was that people in Queensland felt pretty isolated._
+_In ***November/December 1986*** I wrote a short story about this holiday with the family, which we spent travelling through Queensland and calling in on as many URANTIA Book readers as my very patient hubby was willing to put up with. I called it: “Say Hello To A Fellow Urantian”. My general impression was that people in Queensland felt pretty isolated._
 
 
 ### Reprinted from Six-O-Six Newsletter November/December 1986
@@ -583,7 +583,7 @@ We should all remember that we are to work together as a fellowship of believers
 
 _The healthy dialogue prompted Ian Elsmore to write, as we reported in the June 1985 edition, adopting somewhat of a mediator's role._
 
-The number of gurus and cults seems to be increasing in the West as some of the more secret esoteric schools are externalizing their studies and new groups are being formed. In the eyes of the ordinary person, the URANTLA readers are just another such group. The potential to be obsessed with a spiritual mission is always there. The other end of the spectrum is behaving in a “luke warm” manner towards your spiritual aspirations. This may be due to fear of being classified as a religious eccentric, or fear of being criticised by family and friends. The URANTIA readership will always have some lefts and rights, extravert, introvert, bold and meek - an understanding of balance is the keynote. The fruits of our life are externalised and materialized not by speaking words but by aspirations and motives being acted upon with a sincerity that shows an understanding of the words.
+The number of gurus and cults seems to be increasing in the West as some of the more secret esoteric schools are externalizing their studies and new groups are being formed. In the eyes of the ordinary person, the URANTIA readers are just another such group. The potential to be obsessed with a spiritual mission is always there. The other end of the spectrum is behaving in a “luke warm” manner towards your spiritual aspirations. This may be due to fear of being classified as a religious eccentric, or fear of being criticised by family and friends. The URANTIA readership will always have some lefts and rights, extravert, introvert, bold and meek - an understanding of balance is the keynote. The fruits of our life are externalised and materialized not by speaking words but by aspirations and motives being acted upon with a sincerity that shows an understanding of the words.
 
 A perceived understanding of truth from _The URANTIA Book_ is portrayed by our quality of “beingness” in the world we create around us.
 
@@ -660,17 +660,17 @@ A leader is someone who tries to conquer ego and serve:
 
 _OUR OVERSEAS CONNECTION_
 
-_In ***June 1982*** a short report appeared on a visit by Lynne Kulieke, acting on behalf of the Executive Committee of URANTLA Brotherhood, to an isolated group in Seville, Spain, in the previous year. The group relied on a multilingual member to translate from the French edition into Spanish. Lynne, who speaks Spanish fluently took back a tape to the U.S. on which four of the Spanish readers spoke and expressed their deep sense of isolation, their great desire for contact with other URANTLA Book readers, and their need for a translation into their own language. As we now know, the Spanish translation is now nearing its completion._
+_In ***June 1982*** a short report appeared on a visit by Lynne Kulieke, acting on behalf of the Executive Committee of URANTIA Brotherhood, to an isolated group in Seville, Spain, in the previous year. The group relied on a multilingual member to translate from the French edition into Spanish. Lynne, who speaks Spanish fluently took back a tape to the U.S. on which four of the Spanish readers spoke and expressed their deep sense of isolation, their great desire for contact with other URANTIA Book readers, and their need for a translation into their own language. As we now know, the Spanish translation is now nearing its completion._
 
-_In ***March 1983*** an invitation from URANTLA BOOK Study Groups in Santa Barbara, California, appeared on the back page. This group is now better known as C.U.B.S._
+_In ***March 1983*** an invitation from URANTIA BOOK Study Groups in Santa Barbara, California, appeared on the back page. This group is now better known as C.U.B.S._
 
 _They were planning a weekend celebration for Michael's birthday on August 19-21, 1983._
 
-_The theme was “The Art Of Living — Applying _The URANTLA Book_ Teachings in our Daily Lives”._
+_The theme was “The Art Of Living — Applying _The URANTIA Book_ Teachings in our Daily Lives”._
 
 _It is interesting that this group, who have ben quite a bit in the news of late, were the first international organization to reach out to us internationally._
 
-_In ***June 1983*** a little news item appeared that a book student in Phoenix, Arizona, had compiled a list of study group meetings across the U.S. Over 50 groups had responded with details of meeting times and telephone numbers for contacting. At that stage only nine states were represented with the majority of meetings taking place_in Arizona, California, Colorado and Texas. It was expected that at some time in the future the Domestic Extension Committee of the URANTLA Brotherhood would publish a more complete guide._
+_In ***June 1983*** a little news item appeared that a book student in Phoenix, Arizona, had compiled a list of study group meetings across the U.S. Over 50 groups had responded with details of meeting times and telephone numbers for contacting. At that stage only nine states were represented with the majority of meetings taking place_in Arizona, California, Colorado and Texas. It was expected that at some time in the future the Domestic Extension Committee of the URANTIA Brotherhood would publish a more complete guide._
 
 _We received our first contact from Montreal, Canada in ***August 1983***. Roxane and Leopold Proulx told of their study group which had been meeting for about five years each Wednesday evening in their home. In addition they met on every third Sunday with friends in La Plaine, about twenty miles from Montreal. They promised to send their newsletter, “Réflèctivité” in the future._
 
@@ -680,7 +680,7 @@ _C.U.B.S. expressed for the first time in April 1984 their displeasure with URAN
 
 _Six-O-Six went international in ***April 1985*** and welcomed readers from New Zealand, South Africa and Tahiti for the first time. Since that date the overseas readership has steadily grown and we now have readers from thirteen different countries on our mailing list. The same issue mentioned a couple from Cape Province in South Africa. They reported very little interest in the Book in that country._
 
-_In ***September/October 1987*** William Wentworth, in his report on the General Conference of URANTLA Brotherhood, mentioned:_
+_In ***September/October 1987*** William Wentworth, in his report on the General Conference of URANTIA Brotherhood, mentioned:_
 
 “It was particularly interesting to talk to the lone South African, a businessman from Durban...”
 
@@ -771,7 +771,7 @@ Congratulations Loui! You landed on target after all. You came across circles of
 
 ---
 
-_With this story came a delightful cartoon, which Wolfgang Borutta had drawn, using as a model the miniature master universe which he had created for the July 1986 Melbourne Conference. This model, which really represented a quarter of the Master Universe, was built into a black box. Through the use of mirrors the illusion was created of a whole Master Universe, which slowly lit up, starting in the centre and moving out to the periphery. Wolfgang had, with the help of his friend Sean, recorded passages from The URANTLA Book, with beautiful music in the background. Anyone who watches this spectacle unfold before their eyes will marvel at the grandeur of it all._
+_With this story came a delightful cartoon, which Wolfgang Borutta had drawn, using as a model the miniature master universe which he had created for the July 1986 Melbourne Conference. This model, which really represented a quarter of the Master Universe, was built into a black box. Through the use of mirrors the illusion was created of a whole Master Universe, which slowly lit up, starting in the centre and moving out to the periphery. Wolfgang had, with the help of his friend Sean, recorded passages from The URANTIA Book, with beautiful music in the background. Anyone who watches this spectacle unfold before their eyes will marvel at the grandeur of it all._
 
 _I would like to add a little note to this story. Loui was one of the people who suggested to start a lunchtime study group here in Glen Waverley and he is still a regular member of that group._
 
@@ -862,13 +862,13 @@ _Here is William's report._
 
 _SYDNEY, JUNE 11- 131983_
 
-As far as we can tell, except for a social gathering in 1982, this was the first conference of Australian students of _The URANTIA Book_. About 10 people gathered at the Swadling's home in Narrabeen, N.S.W., to discuss outreach. It was agreed to participate in the URANTLA Foundation's program of library placement and a fund was set up to obtain 20 books.
+As far as we can tell, except for a social gathering in 1982, this was the first conference of Australian students of _The URANTIA Book_. About 10 people gathered at the Swadling's home in Narrabeen, N.S.W., to discuss outreach. It was agreed to participate in the URANTIA Foundation's program of library placement and a fund was set up to obtain 20 books.
 
 <figure id="Figure_14" class="image urantiapedia" alt="conference">
 <img src="/image/article/606/conf1.jpg">
 </figure>
 
-_MELBOURNE, SEPTEMBER 29 - 301984_
+_MELBOURNE, SEPTEMBER 29-30 1984_
 
 Thirty two people met to discuss the conference theme “Introducing the Urantia Book: The Discovery of a Lifetime”. This was the first of several conferences held at Victoria College. Readers travelled from Sydney, southern N.S.W. and northern Victoria and represented most of the Australian readership at the time, the majority coming from Melbourne which then had more readers than any other part of Australia.
 
@@ -878,7 +878,7 @@ Thirty two people met to discuss the conference theme “Introducing the Urantia
 
 The desirability of setting up some kind of organisation was first mooted at this conference.
 
-_MELBOURNE, JULY 201985_
+_MELBOURNE, JULY 20 1985_
 
 A regional conference was convened at Victoria College and the question of forming a URANTIA Society in Australia was discussed. An exploratory letter was written to the URANTIA Foundation.
 
@@ -890,7 +890,7 @@ _SYDNEY, OCTOBER 19-20 1985_
 
 Held at Narrabeen School, the theme at this conference was “The Study Group and its Outreach”. Many new faces appeared, some from Queensland, others from the U.S.A. Detailed consideration was given to book distribution and library placement.
 
-_MELBOURNE, JUNE 7- 81986_
+_MELBOURNE, JUNE 7-8 1986_
 
 The conference theme was “The Tapestry of Loving Service” and Madeline Noordzy's presentation is well remembered to this day. The conference was enhanced by the presence of John Hales, Berkeley Elliott and Tom Allen from the U.S.A. who were able to give us considerable help and encouragement. This was the largest and most diverse conference held up to that time and included readers from Western Australia and Tasmania as well as Queensland, New South Wales and Victoria.
 
@@ -902,7 +902,7 @@ The library placement programme moved into high gear when John Hales offered hel
 
 At this conference, the idea of a South Pacific Regional Conference was conceived.
 
-_SYDNEY, OCTOBER 9- 111987_
+_SYDNEY, OCTOBER 9-11 1987_
 
 This was the first live-in conference in Australia and was held at the William Arnott Lodge at Elanora near Narrabeen. The theme was “The Purpose of Revelation”. Besides participants from Western Australia, Victoria, New South Wales and Queensland, Emmanuel Lou came all the way from Tahiti.
 
@@ -926,7 +926,7 @@ We were fortunate to have the presence of Foundation Trustee Richard Keeler who 
 
 ## NEWS FROM CHICAGO
 
-_To cater for readers who were not on the mailing list of either URANTLA Foundation or URANTLA Brotherhood, Six-a-Six brought the most important happenings from the headquarters at 533 Diversey Parkway. Here are some highlights._
+_To cater for readers who were not on the mailing list of either URANTIA Foundation or URANTIA Brotherhood, Six-a-Six brought the most important happenings from the headquarters at 533 Diversey Parkway. Here are some highlights._
 
 <figure id="Figure_19" class="image urantiapedia" alt="Chicago">
 <img src="/image/article/606/chicago.jpg">
@@ -934,11 +934,11 @@ _To cater for readers who were not on the mailing list of either URANTLA Foundat
 
 _JUNE 1980_
 
-_Apart from the news mentioned in the very first Six-OSix (which is reproduced on the inside front cover of this Tenth Anniversary Issue), the editorial in June 1980 mentioned the 25th Anniversary of the signing of the URANTLA Brotherhood Constitution, which brought into force the first General Council of URANTLA Brotherhood. Also in February 1955, the Foundation Trustees announced their “Declaration of Intention” to print the book. On October 12th of that year the first printing was completed._
+_Apart from the news mentioned in the very first Six-OSix (which is reproduced on the inside front cover of this Tenth Anniversary Issue), the editorial in June 1980 mentioned the 25th Anniversary of the signing of the URANTIA Brotherhood Constitution, which brought into force the first General Council of URANTIA Brotherhood. Also in February 1955, the Foundation Trustees announced their “Declaration of Intention” to print the book. On October 12th of that year the first printing was completed._
 
 _OCTOBER 1980_
 
-_Six-0-Six was advised by the URANTLA Foundation of certain copyright requirements that have particular relevance for newsletter publication._
+_Six-0-Six was advised by the URANTIA Foundation of certain copyright requirements that have particular relevance for newsletter publication._
 
 _FEBRUARY 1981_
 
@@ -950,7 +950,7 @@ _We think that matter has been rectified since then._
 
 _MAY 1982_
 
-_Thomas Kendall, the then President of the URANTLA Foundation wrote in an article on copyright:_
+_Thomas Kendall, the then President of the URANTIA Foundation wrote in an article on copyright:_
 
 _“Copyright and mark protection are vital to the future spread of the revelation. Taking steps in advance to educate our fellows and forestall problems strengthens our rights and in the end benefits all”._
 
@@ -972,23 +972,23 @@ _Six-O-Six published a letter from URANTIA Foundation containing some news, and 
 
 _MARCH / APRIL 1989_
 
-_We reported on a Roundtable Discussion held on Saturday February 11, 1989 by the General Council of the URANTLA Brotherhood between members of the Council and representatives of various groups established to perform some service or work on behalf of and lor related to _The URANTLA Book_. Six-0-Six Newsletter also received an invitation, but was unable to attend._
+_We reported on a Roundtable Discussion held on Saturday February 11, 1989 by the General Council of the URANTIA Brotherhood between members of the Council and representatives of various groups established to perform some service or work on behalf of and lor related to _The URANTIA Book_. Six-0-Six Newsletter also received an invitation, but was unable to attend._
 
 _The purpose of the meeting was to improve communication and coordination among all individuals and groups associated with this endeavour to which we are all committed._
 
 _MAY / JUNE 1989_
 
-_William Wentworth explained to our readers about the Area Coordination Programme nun by the URANTLA Brotherhood, created to assist study groups._
+_William Wentworth explained to our readers about the Area Coordination Programme nun by the URANTIA Brotherhood, created to assist study groups._
 
 _SEPTEMBER/OCTOBER 1989_
 
-_It was announced in this issue that summaries of the URANTLA Bulletin were being made available in French, Spanish and Finnish._
+_It was announced in this issue that summaries of the URANTIA Bulletin were being made available in French, Spanish and Finnish._
 
 ## SCIENTIFIC EVIDENCE
 
 _Over the years we have published quite a number of articles on the cross-referencing of newly found scientific evidence against specific references in _The URANTIA Book_, to see how they “stack up”. It is always our intention to present a balanced point of view in Six-O-Six, as some readers find them very interesting, while others do not._
 
-_Ken Glasziou has played a major role in the area of scientific evidence. In ***May 1986***. Six-O-Six published the first of a series of four articles by Ken, who had been collecting odds and ends concerning the scientific content of _The URANTLA Book_ for many years. He had been doing this more or less in isolation and invited other readers with some scientific background to join him in an effort to produce a better commentary and also to update more continuously._
+_Ken Glasziou has played a major role in the area of scientific evidence. In ***May 1986***. Six-O-Six published the first of a series of four articles by Ken, who had been collecting odds and ends concerning the scientific content of _The URANTIA Book_ for many years. He had been doing this more or less in isolation and invited other readers with some scientific background to join him in an effort to produce a better commentary and also to update more continuously._
 
 _Since then, Ken attended the Scientific Symposium in Nashville, Tennessee between May 13-15, 1988 and was fortunate enough to make new friends among a group of interested scientists._
 
@@ -1004,7 +1004,7 @@ Ken Glasziou
 Stanley River Road
 Maleny Qld. 4552
 
-_Readers other than Ken are also interested in this topic and in the July 1983 issue we published an article from Stefan Zallquist, a research worker in the radio laboratory at Technical College, Helsinki, Finland. Chris Moseley translated the article which was originally published in “Helsingin Sanomat”. Stefan's article said that _The URANTLA Book_ provided a mass of information about space research, nuclear physics and physics that nobody could have known about in those times (1934). As an example, he mentioned the book's claim that the temperature in deep space is slightly above absolute zero, a fact only proven by measurement in the 1960's. The book assumes existence of neutrinos (tiny neutral particles) which were encountered for the first time in 1956. The book contains a magnificent description of “dark gravity bodies” about which science has only become clear in the last ten years or so._
+_Readers other than Ken are also interested in this topic and in the July 1983 issue we published an article from Stefan Zallquist, a research worker in the radio laboratory at Technical College, Helsinki, Finland. Chris Moseley translated the article which was originally published in “Helsingin Sanomat”. Stefan's article said that_ The URANTIA Book _provided a mass of information about space research, nuclear physics and physics that nobody could have known about in those times (1934). As an example, he mentioned the book's claim that the temperature in deep space is slightly above absolute zero, a fact only proven by measurement in the 1960's. The book assumes existence of neutrinos (tiny neutral particles) which were encountered for the first time in 1956. The book contains a magnificent description of “dark gravity bodies” about which science has only become clear in the last ten years or so._
 
 _Michael's crucifixion date came under scrutiny in an article published in the March/April 1987 issue. It in tum reported on an article written by Humphreys and Waddington of Oxford University. Two possible dates were selected as the most likely, April 7, A.D. 30 and April 3, A.D. 33. The Oxford dons opted for the later.date, based on a biblical reference in Acts 2:20 “the sun shall be turned to darkness, and the moon to blood”, a reference to an eclipse which they calculated to have occurred on April 3, A.D. 33. The Midwayers, tell us the date was the first one. Were they wrong? More recent evidence supports the midwayers. Using more accurate measurements, suggestions are that this eclipse could not have been seen from Jerusalem, certainly not in any phase where it could redden the moon._
 
@@ -1012,7 +1012,7 @@ _Michael's crucifixion date came under scrutiny in an article published in the M
 
 ### Reprinted from Six-O-Six Newsletter July/August 1988
 
-_Matt Neibaur's article on computer analysis of dates in _The URANTLA Book_ was published in ***July/August 1988***._
+_Matt Neibaur's article on computer analysis of dates in _The URANTIA Book_ was published in ***July/August 1988***._
 
 In 1572 a former professor from Bologna named Ugo Buoncompagni became Pope Gregory XIII, ten years later the Gregorian calendar was introduced. The Julian calendar, founded 16 centuries earlier by Julius Caesar, was inaccurate and the need for reform was widely recognised. Its-principal failure was the discrepancy between the mean length of its year, 365.25 days, and the tropical year, then averaging 365.24232 days. This is nearly eleven minutes and four seconds shorter than the Julian year. This small discrepancy has continued to accumulate until it was no longer a matter of minutes but days. By the time of the Gregorian reform, this error had grown to eleven days. Understandably this was of concern to the Pope. If the calendar had continued unchanged, Easter would eventually have to be celebrated in the summer.
 
@@ -1065,7 +1065,7 @@ Read more in [Six-0-Six Newsletter September/October 1988](/en/article/Rod_McCou
 
 ## The Library Placement Programme
 
-_The placement of _The URANTIA Book_ in libraries has become a very important cog in the wheel of the dissemination of _The URANTLA Book_, and has become very successful. Kathleen Swadling prepared the following report especially for our Tenth Anniversary issue._
+_The placement of_ The URANTIA Book _in libraries has become a very important cog in the wheel of the dissemination of_ The URANTIA Book, _and has become very successful. Kathleen Swadling prepared the following report especially for our Tenth Anniversary issue._
 
 The idea of donating URANTIA Books into libraries originated in Chicago when the Foundation decided to donate a book into any library that agreed to have one. Julia Fenderson, who was a field rep in the early 80 's, was sending out forms for readers to hand out to libraries, which told them briefly about the book and the fact that they could receive one free if they cared to write to the Chicago address and request one.
 
@@ -1094,7 +1094,7 @@ _Neil Francey in the ***March 1981*** issue, shared his views on the “Rapidity
 
 _In a letter to the editor, Les Sheridan presented his view in the ***May 1981*** edition that the abject cruelty and inhumanity of the crucifixion was transcended by the patience, tolerance, quiet heroism and complete faith through which Jesus demonstrated the eternal truth that the life with in man is God and therefore cannot be lost, because as all things come from God, so all things must return to God._
 
-_Charles Lamar in the ***July 1982*** issue expressed his views on going public with _The URANTLA Book_ with some warning bells that he believes are being rung._
+_Charles Lamar in the ***July 1982*** issue expressed his views on going public with _The URANTIA Book_ with some warning bells that he believes are being rung._
 
 ### Reprinted from Six-O-Six Newsletter July 1982
 
@@ -1104,7 +1104,7 @@ Recently, the trend of opinion in the URANTIA movement has been toward more open
 
 _The URANTIA Book_ contains much more than the teachings of Jesus. Because of this, we are far away from the time when the Book should be openly proclaimed. The Gospel itself is always appropriate for all people, but the Book contains much that may not always be appropriate. It is highly undesirable that the Gospel teachings become publicly associated with material that many are not yet ready to absorb, and thereby be innocently prejudiced against truth.
 
-Jesus very clearly told those who were to teach his gospel that the message was to be completely dissociated from all political and moral precepts. In the book we have the spiritual teachings of Jesus often associated with many other necessary but advanced moral, political and scientific matters. If we follow what the Book itself says, we will teach Jesus' teachings mixed with nothing else. If the social and political entanglement of the Gospel is to be avoided in the case of _The URANTLA Book_, we must not allow the book to come to public attention before there is religious and secular peace.
+Jesus very clearly told those who were to teach his gospel that the message was to be completely dissociated from all political and moral precepts. In the book we have the spiritual teachings of Jesus often associated with many other necessary but advanced moral, political and scientific matters. If we follow what the Book itself says, we will teach Jesus' teachings mixed with nothing else. If the social and political entanglement of the Gospel is to be avoided in the case of _The URANTIA Book_, we must not allow the book to come to public attention before there is religious and secular peace.
 
 There is a criterion by which we may gauge who is and who may not be ready for the book, the acid test of religious philosophy, and that is the ability to distinguish between material things and spiritual values, along with an understanding of the way in which the two relate in life. To appreciate the book, an individual must be sensitive to both science and religion, and relatively flexible in philosophic approach.
 
@@ -1116,7 +1116,7 @@ _The URANTIA Book_ does say what the world now needs - Jesus living in the lives
 
 ### Reprinted from Six-O-Six Newsletter March 1983
 
-_In an editorial to the ***March 1983*** issue, Neil drew some correlations between the beliefs of great humans, and references made to similar ideas in _The URANTLA Book_._
+_In an editorial to the ***March 1983*** issue, Neil drew some correlations between the beliefs of great humans, and references made to similar ideas in_ The URANTIA Book.
 
 _The URANTIA Book_ states that wherever possible the writers have used concepts already in existence in the literature of our world. Only when there was no equivalent expression to explain a truth did they introduce a new train of thought (<a id="a1120_240"></a>[UB 0:12.11](/en/The_Urantia_Book/0#p12_11)). It is exciting to find ideas used by our greatest people duplicated in _The URANTIA Book_.
 
@@ -1166,7 +1166,7 @@ Religions need to expand their spiritual incentives to enlarge and enrich those 
 
 ### Reprinted from Six-O-Six Newsletter October 1985
 
-_Keith Bacon from Melbourne had this to say in the ***October 1985*** issue on the role of _The URANTLA Book_._
+_Keith Bacon from Melbourne had this to say in the ***October 1985*** issue on the role of _The URANTIA Book_._
 
 From a weak start in the seventies, Urantian families and study groups are springing up in every capital city. Today it seems the waiting is the hardest part.
 
@@ -1210,7 +1210,7 @@ _In the ***November 1986*** issue, Trevor Swadling addressed an issue on which h
 
 **John the Revelator**
 
-_The URANTLA Book_ refers to John Zebedee as John the Revelator (see <a id="a1212_69"></a>[UB 47:10.2](/en/The_Urantia_Book/47#p10_2)). The Midwayers tell us:
+_The URANTIA Book_ refers to John Zebedee as John the Revelator (see <a id="a1212_69"></a>[UB 47:10.2](/en/The_Urantia_Book/47#p10_2)). The Midwayers tell us:
 
 > “_When in temporary exile in Patmos, John wrote the Book of Revelations, which you now have in greatly abridged and distorted form. This Book of Revelations contain the surviving fragments of a great revelation_.” (<a id="a1214_217"></a>[UB 139:4.14](/en/The_Urantia_Book/139#p4_14))
 
@@ -1224,7 +1224,7 @@ Read more in [Six-O-Six Newsletter November 1986](/en/article/Trevor_Swadling/Jo
 
 ### Reprinted from Six-O-Six Newsletter May/June 1987
 
-_It was in the ***May/June 1987*** issue, Michael Wilson expressed his opinions regarding the integration of points of view from the Baha'i Faith and _The URANTLA Book_ as far as the topic of reincarnation was concerned._
+_It was in the ***May/June 1987*** issue, Michael Wilson expressed his opinions regarding the integration of points of view from the Baha'i Faith and _The URANTIA Book_ as far as the topic of reincarnation was concerned._
 
 As a member and teacher of the Baha'i Faith and a reader of _The URANTIA Book_, I am often in a situation where I am asked to justify my beliefs on reincarnation. The Baha'i Faith and _The URANTIA Book_ coincide in many areas. The return of the spirit to this planet or to another human body or the evolution of animal spirits to human spirits is NOT taught.
 
@@ -1232,8 +1232,7 @@ However it will not do for us to proclaim the falsity of this doctrine because i
 
 On the subject of various experiences people have that seem to prove reincarnation, know that the abilities of the human mind and psyche are little understood. When one observes certain experiences of the psyche, many things that seem to be proof of reincarnation may be understood in terms of distant viewing, cross-temporal telepathy, genetic memory, ancestral memory or even the reading of the ethereal record. If you do not know of these things you will interpret them as evidence of reincarnation.
 
-With the rise of Eastern philosophies and the common belief forms about reincarnation growing, particularly in the alternative societies, people will observe the evidence in terms of what they want to believe. That is, unless they are true searchers after knowledge and not merely looking for a satisfying philosophy and belief system, otherwise it will all point to reincarnation, or, if
-they are spiritualists, they will see it as proof of spirit communication.
+With the rise of Eastern philosophies and the common belief forms about reincarnation growing, particularly in the alternative societies, people will observe the evidence in terms of what they want to believe. That is, unless they are true searchers after knowledge and not merely looking for a satisfying philosophy and belief system, otherwise it will all point to reincarnation, or, if they are spiritualists, they will see it as proof of spirit communication.
 
 But how secure, satisfying and wonderful to know the message of the most recent revelation of our spiritual future. Not a blissful static existence in some conceived heaven or a succession of death and rebirth on this planet in these bodies, only to be absorbed into some type of cosmic nirvanic void, but a real adventure of continuous advancement through the innumerable spiritual worlds of God's vast universe and the granting of progressively spiritual bodies, bodies adapted to the worlds and the tasks at hand!
 
@@ -1271,7 +1270,7 @@ Read more in [Six-O-Six Newsletter November/December 1987](/en/article/David_Reg
 
 ### Reprinted from Six-O-Six Newsletter January/February 1988
 
-_Kathleen Swadling gave us all some food for thought in the way _The URANTLA Book_ should be used in her thought-provoking article that was published in the ***January/February 1988*** issue._
+_Kathleen Swadling gave us all some food for thought in the way _The URANTIA Book_ should be used in her thought-provoking article that was published in the ***January/February 1988*** issue._
 
 **_The URANTIA Book_ in 200 Years Time**
 

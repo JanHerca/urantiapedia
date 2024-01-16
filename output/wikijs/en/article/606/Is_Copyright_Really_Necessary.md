@@ -63,6 +63,7 @@ To the apostle, Philip, Jesus said:
 > “_There is but one law to obey — that is the command to go forth proclaiming the gospel of the kingdom. Cease to fear men; be unafraid to preach the good news of eternal life to your fellows who languish in darkness and hunger for the light of truth._” (<a id="a62_256"></a>[UB 192:2.11](/en/The_Urantia_Book/192#p2_11))
 
 Can you imagine Jesus telling an apostle that, if they should write an article for one of their congregations, they must only quote 500 words from his gospel, else they would infringe copyright? And be subject to legal action!
+
 A man named Aden was teaching in Jesus' name in the village of Ashtaroth. The apostle John did not like it, so he forbade the man to do so. On relating this to Jesus, the Master said:
 
 > “_Forbid him not. Do you not perceive that this gospel of the kingdom shall presently be proclaimed in all the world? How can you expect that all who will believe the gospel shall be subject to your direction?_” (<a id="a67_215"></a>[UB 159:2.1](/en/The_Urantia_Book/159#p2_1))
@@ -75,7 +76,7 @@ The URANTIA Foundation was set up as a nonprofit organization. We see its main t
 
 Some say we must protect the book. Protect it from what? This divine revelation is safe, it has no need of human defenders. What if another publisher chose to print and distribute the book? Perhaps the text would be altered! There are many publishers of the Bible. All aim to sell as many copies as possible. So they want the most authentic text that they can get. This opinion was put forward strongly by French readers at the 2nd International Conference near Paris in 1989. Many French readers eagerly await their new translation because they believe it will be more authentic than the Weiss translation, which, with 7 out of 10 for merit, has already served them well.
 
-> “Be Willing To Suffer Injustice Rather Than To Go To Law Among Yourselves.” (UB 140:3.14)
+> “Be Willing To Suffer Injustice Rather Than To Go To Law Among Yourselves.” ([UB 140:3.14](/en/The_Urantia_Book/140#p3_14))
 
 Some may say that perhaps the book would be published in comic book form. If it is done well, many may get the message of the gospel of the kingdom who would otherwise have missed out. Some of these would eventually want the real thing. And if it is done badly, it wont sell. An illustrated book is another possibility. If that is done well, then it too will introduce new readers. Eventually the serious ones will want the real thing.
 

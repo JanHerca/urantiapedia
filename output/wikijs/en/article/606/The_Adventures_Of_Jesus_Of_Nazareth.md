@@ -31,7 +31,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 </figure>
 
 
-_[In the previous issue of Six-O-Six, it was announced that our editorial panel is attempting to put together a work having the aim of bringing the teachings of Jesus, as revealed in _The URANTIA Book_, to non-readers. Contributions were solicited, perhaps a chapter, but even a plot to go along with your favorite teaching could be a help. The story should be “fictional” but the teachings are expected to have a firm foundation in the book itself._
+_[In the previous issue of Six-O-Six, it was announced that our editorial panel is attempting to put together a work having the aim of bringing the teachings of Jesus, as revealed in_ The URANTIA Book, _to non-readers. Contributions were solicited, perhaps a chapter, but even a plot to go along with your favorite teaching could be a help. The story should be “fictional” but the teachings are expected to have a firm foundation in the book itself._
 
 _In the review of Borg's book, “Jesus: A New Vision” in the previous article, you will appreciate that the Christian laity is in desperate need of the true teachings of Jesus. Although Borg has done a marvelous job in presenting the human Jesus in a persuasive but non-confrontational manner, his book is unlikely to reach many of the laity. The purpose of our “Adventures” is gap-filling — to bring _The URANTIA Book_ teachings of and about Jesus to the Christian laity now._
 

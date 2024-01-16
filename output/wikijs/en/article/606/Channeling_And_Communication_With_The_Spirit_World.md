@@ -68,7 +68,7 @@ Unless studied carefully, references in _The URANTIA Book_ to the role of contac
 
 Please note that contact is with the Adjuster, the statement does not include the reservist. What comes into our quarantined planet from the outside requires a special and somewhat fortuitous triad combination of a contact human of the reserve corps, an unusual secondary midwayer with special skills (<a id="a68_302"></a>[UB 114:7.9](/en/The_Urantia_Book/114#p7_9)), and a supreme and self-acting adjuster. Given this combination, the superhuman planetary administration of our isolated planet is enabled to receive a dribble of information and perhaps some instructions from extra-planetary sources.
 
-> The Book Is Quite Adamant That The Only Channel To The Spiritual World Is via our Thought Adjusters.
+> The Book is quite adamant that the only channel to the spiritual world is via our Thought Adjusters.
 
 The reserve corps of destiny is an emergency group who, for the most part, are unconscious of their preparation for any task in which they become involved. Contact personalities may have some awareness of their training (<a id="a72_221"></a>[UB 114:7.2](/en/The_Urantia_Book/114#p7_2)). Details about their role in information transfer is largely limited to a few clues from the book and a few particulars about the individual through whom the URANTIA Papers were received. The latter was said to have been a passive participant in the transfer process. Of the other members of the triad, the secondary midwayer appears to play an important role while the Adjuster has the ability to travel and communicate virtually anywhere and everywhere.
 
