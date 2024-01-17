@@ -153,7 +153,7 @@ Not all of us feel confident enough to pick up our pen and write an article, but
 
 ## The Home At Nazareth
 
-“THE home of Joseph and Mary was a one-room stone structure with a flat roof and an adjoining building for housing the animals. The furniture consisted of a low stone table, earthenware and stone dishes and pots, a loom, a lampstand, several small stools, and mats for sleeping on the stone floor. In the back yard, near the animal annex, was the shelter which covered the oven and the mill, one to grind and another to feed the grain. As a small boy Jesus often fed grain to this mill while his mother turned the grinder.” (<a id="a155_525"></a>[UB 122:6.2](/en/The_Urantia_Book/122#p6_2))
+> “THE home of Joseph and Mary was a one-room stone structure with a flat roof and an adjoining building for housing the animals. The furniture consisted of a low stone table, earthenware and stone dishes and pots, a loom, a lampstand, several small stools, and mats for sleeping on the stone floor. In the back yard, near the animal annex, was the shelter which covered the oven and the mill, one to grind and another to feed the grain. As a small boy Jesus often fed grain to this mill while his mother turned the grinder.” (<a id="a155_525"></a>[UB 122:6.2](/en/The_Urantia_Book/122#p6_2))
 
 A sketch by Vern Varass, based upon this description from _the Urantia Book_.
 

@@ -164,7 +164,7 @@ I think many concepts in our world should be looked at on a 50-50 basis, then th
 Richard Braley,
 Innisfail, Nth Qld.
 
-_Editors Note: ‘God’ or 'the entire matter, energy and thought of the Superuniverses... Doesn't that sound a bit like a supercomputer? Jesus always taught that we can trust God, because in our personal expertence we can learn to know Him as a very loving, wise and caring Father of all personalities!_
+_Editors Note: ‘God’ or the entire matter, energy and thought of the Superuniverses... Doesn't that sound a bit like a supercomputer? Jesus always taught that we can trust God, because in our personal expertence we can learn to know Him as a very loving, wise and caring Father of all personalities!_
 
 ## Compass and Square
 
@@ -233,7 +233,7 @@ Madeline Noordzy
 
 _The URANTIA Book_ tells us that the first life implantations were made on this earth 550 million years ago, and that all subsequent living forms have evolved from these original implantations.
 
-More and more one reads or hears on the television that life has existed on earth for as much as 3 billion years, which could set URANIIA Book readers wondering.
+More and more one reads or hears on the television that life has existed on earth for as much as 3 billion years, which could set URANTIA Book readers wondering.
 
 The fossil record shows us that life forms existed in the order of 500 to 600 million years ago, and that these forms were relatively advanced at least in respect to their biochemical cellular organization. The intricacy of their skeletal remains implies that they must have possessed the same highly complex system of information storage and the equally complex system for its translation into a living organism that we know about today. This system consists of the nucleic acids, RNA and DNA plus the enzymes, ribosomes etc.
 

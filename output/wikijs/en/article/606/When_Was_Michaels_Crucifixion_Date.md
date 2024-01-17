@@ -36,7 +36,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 It is sometimes interesting to see how close Science is getting to the truth. Take for instance the debate about the correct date of the crucifixion.
 
-Colin J. Humphreys and W.G. Waddington of Oxford University in England have come to the conclusion that it must have been on Friday, April 3, A.0.33. If you know your URANTIA Book dates, you might say: “But that is wrong.”
+Colin J. Humphreys and W.G. Waddington of Oxford University in England have come to the conclusion that it must have been on Friday, April 3, A.D.33. If you know your URANTIA Book dates, you might say: “But that is wrong.”
 
 I know, but if you follow their reasoning, you will see how close to the truth they came.
 

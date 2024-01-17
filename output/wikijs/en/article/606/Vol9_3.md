@@ -41,7 +41,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 Programmes for the South Pacific Regional Meeting of URANTIA Book Readers, which will be held at Ranelagh House, Robertson, N.S.W. on 10th — 14th October 1988 have been sent out. It promises to be a great event. Kathleen Swadling reports that there are still vacancies for people who have not as yet registered, but would like to do so. Contact:
 
-K & T Swadling, 7 Walsh St, Narrabeen, N.S.W. 2101, Australia.' Ph. (02)913 7893
+K & T Swadling, 7 Walsh St, Narrabeen, N.S.W. 2101, Australia. Ph. (02)913 7893
 
 Ken and Betty Glasziou from Maleny, Qld, attended the first Scientific Symposium for students of _The URANTIA Book_, which was held at Nashville, Tennessee, USA, on May 13-15. We hope to bring you their report in our next issue.
 
@@ -57,7 +57,7 @@ Sydney has a few new members in its group and your editor visited our friends Pe
 
 ## “Thought For The Month” 
 
-> “Ever bear in mind—God and men need each other. They are mutually necessary to the full and final attainment of eternal personality experience in the divine destiny of universe finality.” _The URANTIA Book_ 2084:3
+> “Ever bear in mind—God and men need each other. They are mutually necessary to the full and final attainment of eternal personality experience in the divine destiny of universe finality.” _The URANTIA Book_ [LU 195:10.3](/es/The_Urantia_Book/195#p10_3)
 
 ## Evidence of Things Unseen
 
@@ -81,9 +81,9 @@ Triangles Bulletin 83 — March 1988
 
 ---
 
-Loving means to love that which is unlovable, or it is no virtue at all; forgiving means to pardon the unpardonable, or it is no virtue at all; faith means believing the unbelievable, or it is no virtue at all. And to hope means hoping when things are hopeless, or it is no virtue at all.
-
-G.K. Chesterton
+> Loving means to love that which is unlovable, or it is no virtue at all; forgiving means to pardon the unpardonable, or it is no virtue at all; faith means believing the unbelievable, or it is no virtue at all. And to hope means hoping when things are hopeless, or it is no virtue at all.
+> 
+> G.K. Chesterton
 
 The Reader's Digest, July 1963
 
@@ -167,9 +167,11 @@ Consider, for instance:
 
 * Since 1950 child death rates have been halved in almost every region of the developing world.
 * In the same period the average human lifespan has increased by more than 30 per cent ( 46 years to 61 years) and most of that increase has happened in the poorer parts of the Third World.
-* Also since 1950 the proportion of the world's adults who can read and write has risen from 55 per cent to 72 per cent. * Since 1946 the percentage of the developing world's 6-to11 -year olds who at least start school has risen from just over 50 per cent to almost 95 per cent. And the.proportion going on to secondary school is up from about 10 per cent to about 40 per cent.
+* Also since 1950 the proportion of the world's adults who can read and write has risen from 55 per cent to 72 per cent. 
+* Since 1946 the percentage of the developing world's 6-to11 -year olds who at least start school has risen from just over 50 per cent to almost 95 per cent. And the.proportion going on to secondary school is up from about 10 per cent to about 40 per cent.
 * The population explosion is being defused as birth rates have begun to fall steeply in every region of the world except sub-Saharan Africa.
-* While the world's population has doubled in the past 40 years, food production has trebled, so that at least threequarters of the world's people are now reasonably well fed. * Between 1970 and 1986, the percentage of the world's population with safe water supply has gone up from 65 per cent to 86 per cent in towns and cities and from 13 to 44 per cent in the countryside.
+* While the world's population has doubled in the past 40 years, food production has trebled, so that at least threequarters of the world's people are now reasonably well fed. 
+* Between 1970 and 1986, the percentage of the world's population with safe water supply has gone up from 65 per cent to 86 per cent in towns and cities and from 13 to 44 per cent in the countryside.
 
 All this and more has occurred despite the gloomy facts of stagnating trade, failing commodity prices, declining aid, mounting debt repayments, and a steep decline in private lending that have stalled economic development in many countries during this decade.
 

@@ -68,7 +68,7 @@ Later on in the afternoon we approached the following subjects:
 
 ## “Thought For The Month” 
 
-> “The consciousness of a victorious human life on earth is born of that creature faith which dares to challenge each recurring episode of existence when confronted with the awful spectacle of human limitations, by the unfailing declaration: Even if I cannot do this, there lives in me one who can and will do it, a part of the Father-Absolute of the universe of universes. And that is ”the victory which overcomes the world, even your faith."<br>(_The URANTIA Book_ <a id="a70_467"></a>[UB 4:4.9](/en/The_Urantia_Book/4#p4_9))
+> “The consciousness of a victorious human life on earth is born of that creature faith which dares to challenge each recurring episode of existence when confronted with the awful spectacle of human limitations, by the unfailing declaration: Even if I cannot do this, there lives in me one who can and will do it, a part of the Father-Absolute of the universe of universes. And that is ‘the victory which overcomes the world, even your faith’.” (_The URANTIA Book_ <a id="a70_467"></a>[UB 4:4.9](/en/The_Urantia_Book/4#p4_9))
 
 ## From Library Placement Committee
 

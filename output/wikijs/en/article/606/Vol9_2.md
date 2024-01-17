@@ -63,7 +63,7 @@ Willian Wentworth, Towamba, NSW.
 
 ## Ever Stuck For An Answer?
 
-Can you remember how you attempted to explain to someone just “who” wrote The URANIIA Book? Do you remember the reaction to such a revelation or did it contribute to a rejection of the book?
+Can you remember how you attempted to explain to someone just “who” wrote The URANTIA Book? Do you remember the reaction to such a revelation or did it contribute to a rejection of the book?
 
 I have always found this to be one of the first questions asked by a new reader, and in the past, one of the most difficult to answer. Very few people, in my experience, are ready to accept that a multitude of celestial beings could write a book and have it published here.
 
@@ -158,7 +158,7 @@ Helen Hutchinson, Knoxville, TN. USA
 
 The other day I received a phone call from a lady working at one of the bookstores in Melbourne which sells URANTIA Books.
 
-“I just wanted to check with you,” she said. “A customer came in yesterday and told me that there is a follow-up to _The URANTIA Book_. Is there any truth in that?” was her question. I couldn't help smiling to myself as I answered: 'No, there isn't. There is a Concordex and a Paramony,“ and I explained what they were, how to use them and how to obtain them. ”But there certainly is no follow-up to _The URANTIA Book_."
+“I just wanted to check with you,” she said. “A customer came in yesterday and told me that there is a follow-up to _The URANTIA Book_. Is there any truth in that?” was her question. I couldn't help smiling to myself as I answered: 'No, there isn't. There is a Concordex and a Paramony, “and I explained what they were, how to use them and how to obtain them. ”But there certainly is no follow-up to _The URANTIA Book_.”
 
 <figure id="Figure_1" class="image urantiapedia" alt="U 2">
 <img src="/image/article/606/u2.jpg">
