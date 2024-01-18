@@ -3,7 +3,7 @@ title: "“Epochal Revolt”"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
-tags: Channeling, 6-0-6, article
+tags: Future, Channeling, 6-0-6, article
 editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---

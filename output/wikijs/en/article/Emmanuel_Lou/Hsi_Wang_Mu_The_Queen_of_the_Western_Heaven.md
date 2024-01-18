@@ -88,13 +88,13 @@ In Chinese paintings Hsi Wang is usually depicted as a beautiful female in the a
 
 The Boat people in Hong Kong of ten treasure among their household gods a scroll of the Queen of the Western Heaven, and it is on her crane that daughters, who have died before reaching maturity, are mounted in effigy.
 
-Much research has been devoted to the origin of the “Royal Lady of the West”. Modern writers have drawn the conclusion that Hsi Wang $M u$ was the name either of a locality or of a Sovereign in the ancient West. She was the subject of much research on the part of the Taoist writers.
+Much research has been devoted to the origin of the “Royal Lady of the West”. Modern writers have drawn the conclusion that Hsi Wang Mu was the name either of a locality or of a Sovereign in the ancient West. She was the subject of much research on the part of the Taoist writers.
 
 The K'un Lung Mountains are not only identified with the Hindu Kush in Central Asia but also with Sumeru.
 
 The early Jesuit missionaries identified Hsi Wang Mu with the Queen of Sheba. Another Western writer has also connected her with the Roman goddess Juno (Hera) and the Golden apples.
 
-We know, thanks to _The URANTIA Book_, that the legend of the Queen of the Western Heaven (Hsi Wang Mu) is close to the history of Eve in Eden. There are too many coincidences. on page 886:2 we read that the Andites entered in considerable numbers into China about fifteen thousand years ago. Also: “But the Andite traditions of the beauty of Eden and Dalamatia did influence Chinese traditions; early Chinese legends place ”the land of the gods“ in the west.” (886:5)
+We know, thanks to _The URANTIA Book_, that the legend of the Queen of the Western Heaven (Hsi Wang Mu) is close to the history of Eve in Eden. There are too many coincidences. On [UB 79:7.1](/en/The_Urantia_Book/79#p7_1) we read that the Andites entered in considerable numbers into China about fifteen thousand years ago. Also: “But the Andite traditions of the beauty of Eden and Dalamatia did influence Chinese traditions; early Chinese legends place ”the land of the gods“ in the west.” ([UB 79:7.4](/en/The_Urantia_Book/79#p7_4))
 
 The first Taoists had done a great deal of research to identify Hsi Wang Mu. Lie Tseu, one of the founders of Taoism, placed the land of immortals in an island somewhere in a Western country ... there is one question I have tried to solve: why the Chinese legend has emphasized the story of Eve and remained silent on Adam.
 

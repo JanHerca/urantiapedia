@@ -42,7 +42,7 @@ _The URANTIA Book_ says: “You cannot truly love your fellows be a mere act of 
 
 Wow! Not the beginning of the brotherhood, but the actual realization!
 
-'There are lots of people on this planet who can “play dumb”. We readers are denied this role. There are lots of Christians who can sit down and pour over their Bible, clasp hands together and kneel in prayerful stance, seeking guidance from our Father as to what to do, how to “be perfect as our heavenly Father is”. We URANTIA Book readers have had all the guesswork removed, we are the spoilt children, it has been placed into our laps what we have got to do, with no opportunity to plead ignorance.
+There are lots of people on this planet who can “play dumb”. We readers are denied this role. There are lots of Christians who can sit down and pour over their Bible, clasp hands together and kneel in prayerful stance, seeking guidance from our Father as to what to do, how to “be perfect as our heavenly Father is”. We URANTIA Book readers have had all the guesswork removed, we are the spoilt children, it has been placed into our laps what we have got to do, with no opportunity to plead ignorance.
 
 The Brotherhood of Man is a possibility now, in our lifetime, if we can devote all our efforts into loving with intelligence and wisdom. We must take our thoughts and emotions to task, and ensure that they become such as would please our Father. Look at our thoughts — they are so petty, so judgmental. Instead of thinking what our loved ones should do, learn to love then as they really are. Their life path is different, the hurdles, the mountains, to you may be mole hills, but they are not yours.
 

@@ -31,7 +31,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 </figure>
 
 
-## How We Fond The Book
+## How We Found The Book
 
 Dianne, my wife, had been fascinated with the concepts and reportings surrounding death. As such she was intuitively searching for a better explanation. This search had resulted in the study of Astrology in which she reflected the comparisons or patterns of human behaviour between the study and he personal experience. In the course of her many sojourns to th Malvern Library she picked a variety of books relating to Astrology and Astronomy, one of which was (mistakenly) _The URANTIA Book_.
 

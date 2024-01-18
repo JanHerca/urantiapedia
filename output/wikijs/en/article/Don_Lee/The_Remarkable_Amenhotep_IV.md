@@ -76,7 +76,7 @@ Blessed is the remarkable Amenhotep IV, now thirty centuries gone, who, like a t
 
 Don Lee, Seattle, WA, U.S.A.
 
-From the inaugural edition of 'ILLMINATIONS' Spring 1987.
+From the inaugural edition of 'ILUMINATIONS' Spring 1987.
 
 <figure class="table chapter-navigator">
   <table>

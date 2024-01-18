@@ -43,7 +43,7 @@ Excuse me, but at the risk of appearing inquisitive, may I ask you:
 - Are your ideals sufficiently high to ensure your eternal salvation while your ideas are so practical as to render you a useful citizen to function on Urantia in association with your mortal fellows?
 - As you grow older in and more experienced in the affairs of the kingdom, are you becoming more tactful in dealing with troublesome mortals and more tolerant in living with stubborn associates?
 
-Alright, I will come clean. Jesus at Tyre (1737-1741) suggested to his apostles that they ask themselves these questions (among others), and to my mind this really presupposes that we really consciously appraise what we think, feel and do. Jesus wants us to take note of where we are and how we are progressing.
+Alright, I will come clean. Jesus at Tyre ([UB 156:3.2](/en/The_Urantia_Book/156#p3_2)) suggested to his apostles that they ask themselves these questions (among others), and to my mind this really presupposes that we really consciously appraise what we think, feel and do. Jesus wants us to take note of where we are and how we are progressing.
 
 He also respectfully suggests a few desirable characteristics which we should strive towards acquiring. In typical fashion, he defines what he means and points to the benefits of the concept.
 

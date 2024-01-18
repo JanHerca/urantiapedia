@@ -52,7 +52,7 @@ On Friday morning, after a hymn-sing-along, we divided into five groups for the 
 
 The following is a synopsis of the aims of the workshop prepared by Ken Glasziou.
 
-'The theme of the ‘Missing Link’ workshop centres around the statement from page 1726 of _The URANTIA Book_ telling us that if we absorb the message revealed by the life of Jesus and reflect that message fully in our lives, then truth seekers will be drawn to us. The next part of the statement seems to be telling us that if we find it necessary to public1y announce the message in order to find new readers, then we can be certain that we have yet to attain that stage of spiritual growth when we start to be personal advertisements for the way of Jesus.
+The theme of the ‘Missing Link’ workshop centres around the statement from page 1726 of _The URANTIA Book_ telling us that if we absorb the message revealed by the life of Jesus and reflect that message fully in our lives, then truth seekers will be drawn to us. The next part of the statement seems to be telling us that if we find it necessary to public1y announce the message in order to find new readers, then we can be certain that we have yet to attain that stage of spiritual growth when we start to be personal advertisements for the way of Jesus.
 
 Many URANTIA Book readers at times express the opinion that we do not find the Book but rather that it finds us.
 

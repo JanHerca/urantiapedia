@@ -52,7 +52,7 @@ Sadler's rejection of channeling as the mechanism for the transfer of _The URANT
 
 Here it is evident that he distinguishes that “manuscript which was authorized for publication.” This was different from the papers previously given to the Forum.
 
->“_I can testify that the URANTIA Papers were not the product of automatic writing or any other technique of psychic legerdemain known to me._” (p.13)
+> “_I can testify that the URANTIA Papers were not the product of automatic writing or any other technique of psychic legerdemain known to me._” (p.13)
 
 Here Sadler is explicit that _The URANTIA Book_ did not come through automatic writing or automatic speaking. After listing all the automatic methods by which _The URANTIA Book_ did not come, he states explicitly that the reception of the Book had no parallels with any of the phenomena of marginal consciousness. Nor did the technique of reception impinge upon any of the phenomena of marginal consciousness. This eliminates the sleeping subject as the source of _The URANTIA Book_.
 

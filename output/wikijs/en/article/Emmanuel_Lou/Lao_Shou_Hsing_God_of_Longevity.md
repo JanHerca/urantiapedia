@@ -42,7 +42,7 @@ Old-fashioned Chinese families especially in diaspora, possessed a set of statue
 
 It is believed that this stellar divinity of lang life descended to earth in human form. He is represented as a delightful old man with a high and done shaped forehead, armed with a rugged staff and bearing in the other hand a fruit from the tree of immortality.
 
-<figure id="Figure_4" class="image urantiapedia" alt="chinese God">
+<figure id="Figure_1" class="image urantiapedia" alt="chinese God">
 <img src="/image/article/606/chinese_God.jpg">
 </figure>
 
@@ -62,7 +62,7 @@ What I had realized so suddenly was, the stick held by the God of Longevity is t
 
 Who could better personify longevity than Van who stayed on our planet for more than 450,000 years. I am inclined to conclude that the God of Longevity is a representation of Van. If you pass in front of a Chinese gift shop, please ask the shopkeeper to show you the God of Longevity and remember the fabulous story of “VAN — THE STEADFAST”
 
-<figure id="Figure_5" class="image urantiapedia" alt="chinese God">
+<figure id="Figure_2" class="image urantiapedia" alt="chinese God">
 <img src="/image/article/606/chinese_God2.jpg">
 </figure>
 
@@ -70,7 +70,7 @@ It was the Taoists in the third century B.C. who had honoured the God of Longevi
 
 One day flying in the plane to Europe, I was reading an advertisement on WANG computers, when suddenly I understood that I have to pronounce VAN like WANG 王 (say VON) The explanation came slowly after my mind was illuminated. WANG means in Chinese “King”. “Wang” is understood as a function, a mediator between Heaven and Earth, between God and mankind. We have the confirmation in the ideogram:
 
-<figure id="Figure_5" class="image urantiapedia" alt="chinese name">
+<figure id="Figure_3" class="image urantiapedia" alt="chinese name">
 <img src="/image/article/606/wang.jpg">
 </figure>
 

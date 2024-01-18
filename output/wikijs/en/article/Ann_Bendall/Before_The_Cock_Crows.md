@@ -54,7 +54,7 @@ After describing the above, the midwayers add a “pearl”.
 > 
 > What can religion actually give the people? When a person is actually religious, he knows what he is doing, he knows the meaning of his life and his work, of suffering and of death. He knows what ethical standards and basic norms he needs to follow. And he also knows which community he is spiritually at home. These are the foundation of human life and religion can help provide them.
 > 
-> Hans Kung Theologian
+> Hans Kung, Theologian
 
 > “_Having taken the first step along the path of compromise and least resistance, there was nothing apparent to Peter but to go on with the course of conduct decided upon. It requires a great and noble character, having started out wrong, to turn about and go right. All too often one's own mind tends to justify continuance in the path of error when once it is entered upon._” (<a id="a58_380"></a>[UB 184:2.12](/en/The_Urantia_Book/184#p2_12))
 

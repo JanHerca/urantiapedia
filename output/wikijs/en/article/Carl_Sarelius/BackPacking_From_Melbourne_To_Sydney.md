@@ -43,7 +43,7 @@ So my idea was born; to walk back packing, from Melbourne to Sydney, a distance 
 
 I took the train from Sydney to Melbourne, with my pack, all keen to start the walk. I was lucky to have a son in Melbourne, who gave me lodging for a couple of days and help with the final preparations.
 
-The weather and the pack were going to be my greatest problems. Many people asked "What do you carry in your pack? So, before proceeding — let's take a look.
+The weather and the pack were going to be my greatest problems. Many people asked “What do you carry in your pack?” So, before proceeding — let's take a look.
 
 A tent, (my home for the next 64 days). Sleeping bag and blow-up pillow; clothing for hot weather plus additional warm clothing for the mountains including underwear, socks, singlets, etc. raincoat and rain trousers, towel and washing gear. Everything for preparation of food, such as camping stove, liquid fuel, cooking pots, as well as basic food for at least two days, with plates and cutlery to suit. Then a mixture of items such as: water bottle, first aid kit, fly repellant, sun screen lotion, torch, note book, small radio, a book to read, plus a number of minor items.
 
