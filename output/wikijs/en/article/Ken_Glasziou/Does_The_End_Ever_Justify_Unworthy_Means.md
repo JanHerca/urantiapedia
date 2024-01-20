@@ -36,7 +36,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Ken Glasziou, Maleny, Queensland_
 
-According to _The URANTIA Book_, the Adamic default was more disastrous for us than the Lucifer rebellion. The reason — we missed out on having our genes upgraded, we have a gross deficiency of the violet race genes. These would have made us taller and increased the duration of our lives, but neither attribute has any obvious deleterious repercussions. The big loss seems to have been our potential for spiritual growth (382:4).
+According to _The URANTIA Book_, the Adamic default was more disastrous for us than the Lucifer rebellion. The reason — we missed out on having our genes upgraded, we have a gross deficiency of the violet race genes. These would have made us taller and increased the duration of our lives, but neither attribute has any obvious deleterious repercussions. The big loss seems to have been our potential for spiritual growth ([UB 34:7.4](/en/The_Urantia_Book/34#p7_4)).
 
 The book tells us that this loss can be at least partially negated:
 
@@ -76,13 +76,13 @@ Then there was the deceit concerning the obtaining and maintaining of the copyri
 
 What would Jesus have done? Quite frankly, if such acts were really authorized by celestial authority then I personally would have no desire to proceed to the mansion worlds and beyond. But I do not believe that my soul is in the slightest danger. I simply refuse to believe that any kind of improper action could have had divine authorization — regardless of the supposed worthiness of the motive.
 
-“What would Jesus have done?” Let's take another look in _The URANTIA Book_ for guidance. When the soldiers came to arrest Jesus at Gethsemene, all the disciples except John ran for cover. Hiding among the olive trees as Jesus is led away, I can imagine myself being in Peter's position and thinking to myself: "How can I help my beloved Master — what can I do? Nothing — except to follow at a distance that ensures I am not observed. But better get rid of this sword — incriminating evidence.
+“What would Jesus have done?” Let's take another look in _The URANTIA Book_ for guidance. When the soldiers came to arrest Jesus at Gethsemene, all the disciples except John ran for cover. Hiding among the olive trees as Jesus is led away, I can imagine myself being in Peter's position and thinking to myself: “How can I help my beloved Master — what can I do? Nothing — except to follow at a distance that ensures I am not observed. But better get rid of this sword — incriminating evidence.”
 
-I follow to the gate of the palace of Annas. John sees me at the entrance. He knows the girl at the gate and tells her to let me into the courtyard. She does so but then she comes and asks me if I am one of Jesus' disciples when she knows full well that I am. What could I do? So I deny it. Then she wants to torment me and asks again so everyone can hear. I deny it with much swearing and cursing to emphasize my point. Later another servant puts it to me and again I have to pretend not to know Jesus, to deny him. I couldn't do anything else, could I? But I wish I had not been forced to use that bad language in denying him."
+“I follow to the gate of the palace of Annas. John sees me at the entrance. He knows the girl at the gate and tells her to let me into the courtyard. She does so but then she comes and asks me if I am one of Jesus' disciples when she knows full well that I am. What could I do? So I deny it. Then she wants to torment me and asks again so everyone can hear. I deny it with much swearing and cursing to emphasize my point. Later another servant puts it to me and again I have to pretend not to know Jesus, to deny him. I couldn't do anything else, could I? But I wish I had not been forced to use that bad language in denying him.”
 
 I have often given serious thought to what I really would have done in Peter's place. To be honest, I think if I had been Peter, I would have done much the same. I probably would have convinced myself that my motive was the highest — to help Jesus. I could not have done that by hiding like a coward among the olive trees. And if I had declared myself in that courtyard, I would have been arrested. What good would that have achieved? So I did what was expedient — nothing wrong with that.
 
-Then I see Jesus as he is led away. “Oh, my God! Why did Jesus look at me like that? Doesn't the end sometimes justify the means?” (1981:2)
+Then I see Jesus as he is led away. “Oh, my God! Why did Jesus look at me like that? Doesn't the end sometimes justify the means?” ([UB 184:2.8](/en/The_Urantia_Book/184#p2_8))
 
 The book says:
 

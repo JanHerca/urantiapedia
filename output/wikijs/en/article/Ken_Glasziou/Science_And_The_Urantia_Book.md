@@ -87,7 +87,7 @@ _The URANTIA Book_ tells us that atoms with more than 100 orbital electrons are 
 
 Reference: _The URANTIA Book_, <a id="a87_31"></a>[UB 42:7.7](/en/The_Urantia_Book/42#p7_7).
 
-## Planetary Atmospheres.
+## Planetary Atmospheres
 
 _The URANTIA Book_ tells us that Venus has a dense atmosphere and that the atmosphere of Mars is of low density. The Russian Venera 7 space probe measured the atmospheric pressure of Venus in 1970 at about 90 times the Earth's atmosphere, and the U.S. Mariner probe gave the atmosphere of Mars as 1/100 of the Earth's atmosphere. There was no way to predict or to measure atmospheric pressure on these planets before the advent of the space probes.
 
@@ -173,7 +173,6 @@ Scientific American 1985, January issue, p. 60.
 
 ## The Red Man To The Americas
 
-
 _The URANTIA Book_ tells us that the red man crossed from Asia to America 85,000 years ago. Until recently, most anthropologists believed that the Americas had been inhabited by humans for no more than 12,000 years. This date has been pushed back to 30-40,000 years.
 
 Reference: Scientific American, 249,(6), 1985, Ibid, 258(6), 22. 1988
@@ -184,7 +183,7 @@ _The URANTIA Book_ account of the geological history of our planet tells us that
 
 Changes in sea level have often been attributed to advance and retreat of the polar ice caps, but this would not appear to account for the movements described in _The URANTIA Book_. More recently a mechanism has been proposed involving the accumulation of heat beneath the great land masses that is thought to cause the elevation, doming, and breakup of continents, and their subsequent rejoining. Although the concept has been put forward dominantly to account for transverse movement, it also provides a physical mechanism that could explain the vertical movement described in _The URANTIA Book_ account.
 
-The mechanism proposed indicates a relatively slow build up of heat, but the subsequent blow off can occur in a number of ways, hence considerable deviation from sine wave periodicity would be expected. This new theory will be of interest to URANTIA Book readers who have been puzzled by its account of the alternate elevation and depression of continents on such a large scale. (the million year cycles referred to on p. 691 may refer only to the Cretaceous. There were up to 75 inundations during the Carboniferous. Alternatively, it may be a transcriptional error) 
+The mechanism proposed indicates a relatively slow build up of heat, but the subsequent blow off can occur in a number of ways, hence considerable deviation from sine wave periodicity would be expected. This new theory will be of interest to URANTIA Book readers who have been puzzled by its account of the alternate elevation and depression of continents on such a large scale. (the million year cycles referred to on [UB 60:4.1](/en/The_Urantia_Book/60#p4_1) may refer only to the Cretaceous. There were up to 75 inundations during the Carboniferous. Alternatively, it may be a transcriptional error) 
 
 Reference: “The Supercontinent cycle”. R.D. Nance et al. Scientific American 259(1), 44-51 (1988).
 

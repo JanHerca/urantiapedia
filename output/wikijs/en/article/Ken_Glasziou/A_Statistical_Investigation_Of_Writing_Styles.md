@@ -68,8 +68,7 @@ When tested by use of the Chi Square distribution, the hypothesis that the Forew
 
 Parts of the book attributed to Divine Counselors, Life Carriers, Melchizedeks, and a Solitary Messenger were also found to be distinguishable. The results presented in the Table indicate that there may have been in excess of nine authors of _The URANTIA Book_.
 
-The second study showed that Papers 57-62 differ from Papers 99-107 (P = 0.01)
-; Papers 57-62 differ from Part 4 (P = 0.001); Papers 99-107 differ from Part 1 (P = 0.01); and Papers 99-107 differ from Part 4 (P = 0.001). Hence the postulate of single authorship for combinations of this material is not supported.
+The second study showed that Papers 57-62 differ from Papers 99-107 (P = 0.01); Papers 57-62 differ from Part 4 (P = 0.001); Papers 99-107 differ from Part 1 (P = 0.01); and Papers 99-107 differ from Part 4 (P = 0.001). Hence the postulate of single authorship for combinations of this material is not supported.
 
 <figure id="Figure_4" class="image urantiapedia" alt="right">
 <img src="/image/article/606/right.jpg">
@@ -84,35 +83,35 @@ Reference: Anthony Kenny (1982), “The Computation of Style.” (Pergamon Press
 
 _Table. A comparison of writing styles in different sections of The URANTIA Book_
 
-| First wo <br> of sentence | To <br> occurrences | Comparison made <br> aces | Signicance <br> (\%) |
+| First word <br> of sentence | Total <br> occurrences | Comparison <br>made | Level of <br>Signicance (\%) |
 | :---: | :---: | :--- | :---: |
 | How | 29 | Part 4 and Parts 1,2,30. | 0.1 |
 | When | 537 | Part 4 and Parts 1,2,3 | 0.1 |
-| “ | $"$ | Divine Counselor and whole book | 0.1 |
-| “ | $"$ | Life carrier and whole book | 1.0 |
-| “ | $"$ | Melchizedek and whole book | 0.1 |
+| “ | “ | Divine Counselor and whole book | 0.1 |
+| “ | “ | Life carrier and whole book | 1.0 |
+| “ | “ | Melchizedek and whole book | 0.1 |
 | And | 1959 | Foreword and Divine Counselor | 0.1 |
-| “ | $"$ | Foreword and whole book | 0.1 |
-| “ | $"$ | Foreword and Part | 1.0 |
-| “ | $"$ | Part 1 and whole book | 0.1 |
-| “ | $"$ | Part 2 and whole book | 0.1 |
-| “ | $"$ | Solitary Messenger and whole book | 5.0 |
-| “ | $"$ | Solitary Messenger and Part 3 | 5.0 |
-| “ | $"$ | Part 4 and whole book | 0.1 |
-| “ | $"$ | Part 4 and Parts 1,2,3 | 0.1 |
+| “ | “ | Foreword and whole book | 0.1 |
+| “ | “ | Foreword and Part | 1.0 |
+| “ | “ | Part 1 and whole book | 0.1 |
+| “ | “ | Part 2 and whole book | 0.1 |
+| “ | “ | Solitary Messenger and whole book | 5.0 |
+| “ | “ | Solitary Messenger and Part 3 | 5.0 |
+| “ | “ | Part 4 and whole book | 0.1 |
+| “ | “ | Part 4 and Parts 1,2,3 | 0.1 |
 | For | 157 | Part 4 and Parts 1,2,3 | 0.1 |
-| “ | $"$ | Life carrier and Part 3 | 1.0 |
+| “ | “ | Life carrier and Part 3 | 1.0 |
 | But | 1398 | Part 3 and Parts 1,2,4 | 0.1 |
-| “ | $"$ | Life Carrier and parts 1,2,4 | 1.0 |
-| “ | $"$ | Melchizedek and Parts 1,2,4 | 0.1 |
-| “ | $"$ | Solitary Messenger and Parts 1,2,4 | 5.0 |
-| “ | $”$ | Part 4 and Parts 1,2 | 0.1 |
-| “ | $"$ | Part 4 and Part 1 | 0.1 |
-| “ | $"$ | Part 4 and Part 2 | 0.1 |
-| “ | $"$ | Part 4 and Part 3 | 0.1 |
+| “ | “ | Life Carrier and parts 1,2,4 | 1.0 |
+| “ | “ | Melchizedek and Parts 1,2,4 | 0.1 |
+| “ | “ | Solitary Messenger and Parts 1,2,4 | 5.0 |
+| “ | “ | Part 4 and Parts 1,2 | 0.1 |
+| “ | “ | Part 4 and Part 1 | 0.1 |
+| “ | “ | Part 4 and Part 2 | 0.1 |
+| “ | “ | Part 4 and Part 3 | 0.1 |
 | This | 1079 | Foreword and whole book | 1.0 |
-| “ | $”$ | Life Carrier and whole book | 0.1 |
-| “ | $"$ | Foreword and Divine Counselor | 0.1 |
+| “ | “ | Life Carrier and whole book | 0.1 |
+| “ | “ | Foreword and Divine Counselor | 0.1 |
 
 [note: A 0.1% probability level indicates that there is less than one chance in 1000 that the two comparisons being made are drawn from the same sample. In other words, a 0.1% level of significance indicates that there is less than one chance in a thousand that the two samples had the same authors. The 5% level is usually accepted is indicating a significant difference.]
 

@@ -48,8 +48,7 @@ E-3 does not claim any paranormal happenings in the way he has received this mes
 
 E-3's message uses the concepts of _The URANTIA Book_ without referring to the book, but it is still his personal interpretation which will be presented to the public for which it is primarily meant. Will not sooner or later this message be publicly connected to _The URANTIA Book_?
 
-These are just some of the aspects which I would like to see more openly discussed among us.
-I personally feel and I know from the feedback so far there is a lot of spiritual content in his message and if we take it through the test _The URANTIA Book_ suggests on page 1000:6 it would pass. But I still feel we have to tread carefully.
+These are just some of the aspects which I would like to see more openly discussed among us. I personally feel and I know from the feedback so far there is a lot of spiritual content in his message and if we take it through the test _The URANTIA Book_ suggests on page 1000:6 it would pass. But I still feel we have to tread carefully.
 
 If indeed this mass evacuation is to take place (and it is not an impossibility, otherwise the revelators would not have mentioned it) then we have a responsibility towards out fellowmen to pass the message on.
 
@@ -63,7 +62,7 @@ Some people have suggested that this could bring dissension within the URANTIA m
 
 It is not the purpose of this article to evaluate the spiritual content of this message. I'll leave it up to readers to either do that for themselves or not do it at all if that is what they wish.
 
-I would like to say a few words about my co-editor Neil Francey, who, although he personally did not feel inclined to listen to this 'message' has been very patient and loyal in his support of my editorship. In his last letter to me Neil wrote: "This entire issue is very healthy for all and I welcome and encourage lots more comment and discussion. Emphasises the one reality and the many 'issues'.
+I would like to say a few words about my co-editor Neil Francey, who, although he personally did not feel inclined to listen to this ‘message’ has been very patient and loyal in his support of my editorship. In his last letter to me Neil wrote: “This entire issue is very healthy for all and I welcome and encourage lots more comment and discussion. Emphasises the one reality and the many 'issues'”.
 
 I do think UB readers have set new parameters in these matters. Opinions may differ, but love and respect for the person and their sonship is always undiminished."
 

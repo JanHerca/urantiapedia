@@ -73,7 +73,7 @@ In that extremely brief review, we have covered the primary requirements of what
 > 
 > “***Love your enemies*** _—remember the moral claims of human brotherhood._”
 > 
-> “_***The futility of evil***: A wrong is not righted by vengeance. Do not make the mistake of fighting evil with its own weapons._”
+> “***The futility of evil***: _A wrong is not righted by vengeance. Do not make the mistake of fighting evil with its own weapons._”
 > 
 > “***Have faith*** —_confidence in the eventual triumph of divine justice and eternal goodness._” <a id="a77_99"></a>[UB 140:8.4-8](/en/The_Urantia_Book/140#p8_4)
 
@@ -109,7 +109,7 @@ The fourth and fifth epochal revelations have prepared us for Adjuster indwellin
 
 First, Jesus showed us a new way, and then he made his Spirit of Truth available to us. The enormous transforming power of that gift of the spirit is illustrated by what happened to the apostles:
 
-> “_***in less than a month*** after the bestowal of the Spirit of Truth, the apostles made more individual progress than during their ***almost four years*** of personal and loving association with the Master._” (<a id="a111_214"></a>[UB 194:2.9](/en/The_Urantia_Book/194#p2_9))
+> “***in less than a month*** _after the bestowal of the Spirit of Truth, the apostles made more individual progress than during their ***almost four years*** of personal and loving association with the Master._” (<a id="a111_214"></a>[UB 194:2.9](/en/The_Urantia_Book/194#p2_9))
 
 That is power indeed — and it is available to all of us, just for the asking. The book tells us...
 
@@ -117,7 +117,7 @@ That is power indeed — and it is available to all of us, just for the asking. 
 
 Since we have been told that “_all spirit influences are one in function_”(<a id="a117_75"></a>[UB 34:6.2](/en/The_Urantia_Book/34#p6_2)), it is not hard to put two and two together to arrive at the conclusion that we genetically and spiritually deficient Urantians have been given a very special pathway to compensate for our disadvantages by means of a virtually miraculous transformation that can bring us into much closer communion with our Thought Adjusters. That pathway is through Jesus and his Spirit of Truth.
 
-The book says: “_***Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it***._” (<a id="a119_142"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)) It is a fact that a phrase such as “doing the will of God”, is empty of real meaning to many Urantians. Neither does the idea of communicating or cooperating with our Thought Adjuster convey anything concrete. How do we achieve these things? If we know the religious life of Jesus and how he lived it, we can substitute real ideas, real concepts, and real images for what otherwise might be nebulous, abstract, or unreal.
+The book says: “***Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it***.” (<a id="a119_142"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)) It is a fact that a phrase such as “doing the will of God”, is empty of real meaning to many Urantians. Neither does the idea of communicating or cooperating with our Thought Adjuster convey anything concrete. How do we achieve these things? If we know the religious life of Jesus and how he lived it, we can substitute real ideas, real concepts, and real images for what otherwise might be nebulous, abstract, or unreal.
 
 The life and teachings of Jesus revealed to us in _The URANTIA Book_ is the vital knowledge that can provide us with the means of really knowing the mind of Jesus. In turn, knowing the mind of Jesus enables the Spirit of Truth to make us more and more conscious of Jesus, which, in its turn, enables our superconscious awareness to be in much closer communication with the guiding hand of our Thought Adjuster. Knowing the mind of Jesus provides us with another real advantage. In any situation confronting us, we can ask ourselves: “Now what would Jesus do?” — and seek the answer both from our stored memories of what Jesus taught or did in similar circumstances, as well as by seeking guidance from the spirit forces within. In this way, we backward and disadvantaged Urantians have been endowed with a transforming power by which we can overcome the greatest handicap to our spiritual growth, our innate, inherent, genetic inability to communicate adequately with our Thought Adjusters. The book tells us:
 
@@ -129,7 +129,7 @@ Getting down to some practical details of what Jesus did during his bestowal mis
 
 So our next task will be to try to discover what Jesus meant by his injunction to love one another as he, representing God, loved us. But since the reality of loving our neighbour is such a complex thing, we can only hope to do this inadequately and in part. We must really know the mind of Jesus in order to fully understand what Jesus meant by loving as he loved us. The book tells us:
 
-> “_***Love, unselfishness***, must undergo a constant and living re-adaptative interpretation of relationships in accordance with the leading of ***the Spirit of Truth***. Love must thereby grasp the ever-changing and enlarging concepts of the ***highest cosmic good*** of the individual who is loved._” (<a id="a131_306"></a>[UB 180:5.10](/en/The_Urantia_Book/180#p5_10))
+> “***Love, unselfishness***, _must undergo a constant and living re-adaptative interpretation of relationships in accordance with the leading of ***the Spirit of Truth***. Love must thereby grasp the ever-changing and enlarging concepts of the ***highest cosmic good*** of the individual who is loved._” (<a id="a131_306"></a>[UB 180:5.10](/en/The_Urantia_Book/180#p5_10))
 
 Let us not miss these several important facts. It is the Spirit of Truth that does the leading. Note, too, that love and unselfishness (selflessness) are equated. Last but not least, to love another, we need to want for them not whatever appears best for the present moment, nor even whatever might seem best for their life on this planet. To love our neighbour, we have to want for that person their highest cosmic good, their highest eternal good. Only God can know that. God's knowledge is not limited by the dimension of time. The human Jesus could achieve such love because he had fully complied with Immanuel's injunction to “_be concerned with but one thing, the unbroken communion between you and your Paradise Father_”. Thus the time factor was overcome. To love as Jesus loved us, we too, must cultivate unbroken communion with the spirit forces available to us, which I believe, for us Urantians, means through Jesus and the Spirit of Truth. Only Spirit can transcend time and guide us into love-action that can result in the “highest cosmic good” for the one who is loved.
 

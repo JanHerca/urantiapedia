@@ -44,7 +44,7 @@ However experience has shown me what the attitude of the fundamentalist can lead
 
 It is an attitude that Jesus repeatedly warned us about. It is an attitude that can lead to prejudice or making hasty judgments before we've properly studied all the facts. You probably know that the book mentions
 
-“The chief inhibitors of growth are prejudice and ignorance”. (1094)
+> “The chief inhibitors of growth are prejudice and ignorance”. ([UB 100:1.2](/en/The_Urantia_Book/100#p1_2))
 
 It is an attitude that can also lead to the crystallization of truth. It can lead to feelings of self-righteousness, religious arrogance and intolerance. These are the attitudes that have led to every religious war. Because one party believes to be one cut above the other party. And when I see these attitudes creeping into the URANTIA movement then I feel it is time to take an honest look at ourselves and hopefully grow a bit in the process.
 

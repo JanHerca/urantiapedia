@@ -44,7 +44,7 @@ One thing I've came to realize as a result of this kind of dilemma is that you c
 
 I think faith plays a big part. We may think our efforts aren't bearing fruits but remember the parable of the mustard seed. How small and insignificant some of our actions, deeds and words may be now — in fact so small and insignificant they may go by without you even being conscious of what you may have done. However if we are living up to the highest within us, as best as we can, these actions, words or deeds may be falling on fertile soil and may not bear fruit for years — even decades. you may be long gone, but our faith keeps us going knowing that someday, somewhere, somehow fruits will be born as a result of your desire to LIVE the truth.
 
-I think Jesus' basic message in this passage is to LIV: TRUIH rather than trying to ram it down peoples' throat.
+I think Jesus' basic message in this passage is to LIVE TRUTH rather than trying to ram it down peoples' throat.
 
 I guess what I'm trying to say is that there's nothing to worry about if there is a sincere desire to know God. Give it time — all good things take time to mature and ripen.
 

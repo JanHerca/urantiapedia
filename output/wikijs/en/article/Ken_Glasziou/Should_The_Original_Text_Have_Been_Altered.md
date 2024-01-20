@@ -46,7 +46,7 @@ For example, on page 477 , para 1 , the first printing stated:
 
 In the second and subsequent printings the wording was changed to “_an electron weighs a little more than 1/2000th..._” and “_weighs almost two thousand times more._”
 
-> In My Opinion There Can Only Be One Edition Of The U.B.
+> In my opinion there can only be one edition of the U.B.
 
 Nobody could make a proofing error such as that. My correspondence with a former trustee contains these words, “I had only one experience with a textual change being made between printings. This was due to the diligence of a high school science teacher who had a B.S. in science and had read in a scientific journal that a specific figure given in _The URANTIA Book_ expressing the relationship between the mass of the nucleus and the planetary electron had changed by one digit. He was able to persuade the people at 533 to change it in the second printing... I raised quite a ruckus about the matter and it was returned to its original status in the very next printing...In my opinion there can only be one edition of the U.B., the first..” It appears that the change back demanded by this ex-trustee was never made.
 

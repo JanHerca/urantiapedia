@@ -61,7 +61,7 @@ Table 1. The probabilities that pairs of authors of URANTIA Book Papers are diff
 
 <figure id="Figure_4" class="image urantiapedia" alt="graph">
 <img src="/image/article/606/graph.jpg">
-<figcaption>Fig. 1. The frequency per 1000 words of sentences commencing with “The” or “And” in multiple Papers by single authors in _The URANTIA Book_. For sentences starting with “The”, the probability for the Papers being written by three or more authors is $P=0001$. For “And”, $P=.0003$ for four or more authors.</figcaption>
+<figcaption>Fig. 1. The frequency per 1000 words of sentences commencing with “The” or “And” in multiple Papers by single authors in The URANTIA Book. For sentences starting with “The”, the probability for the Papers being written by three or more authors is $P=0001$. For “And”, P=.0003 for four or more authors.</figcaption>
 </figure>
 
 Together, these results indicate that each of the five sets of papers from _The URANTIA Book_ were written by five different individuals as nominated in the book itself.
