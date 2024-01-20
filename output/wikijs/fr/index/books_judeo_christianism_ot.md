@@ -1310,12 +1310,12 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
 							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament</text>
-							<text style="font-size:9px" x="61" y="60">Livre d'Enoch</text>
+							<text style="font-size:9px" x="61" y="60">Livre d'Hénoch</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Premier livre d'Enoch</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Premier livre d'Hénoch</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1335,12 +1335,12 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Deuxième livre</text>
-							<text style="font-size:9px" x="61" y="70">d'Enoch</text>
+							<text style="font-size:9px" x="61" y="70">d'Hénoch</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Deuxième livre d'Enoch</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Deuxième livre d'Hénoch</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Second_Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1360,12 +1360,12 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 							<text style="font-size:4px" x="61" y="125">Troisième livre d'Enoch, 1928 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Hugo Odeberg</text>
 							<text style="font-size:9px" x="61" y="60">Troisième livre</text>
-							<text style="font-size:9px" x="61" y="70">d'Énoch</text>
+							<text style="font-size:9px" x="61" y="70">d'Hénoch</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Hénoch</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Troisième livre d'Hénoch</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Third_Book_of_Enoch" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -1531,12 +1531,12 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
-							<text style="font-size:9px" x="61" y="60">Vision d'Ezra</text>
+							<text style="font-size:9px" x="61" y="60">Vision d'Esdras</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vision d'Ezra</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Vision d'Esdras</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/Vision_of_Ezra" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
