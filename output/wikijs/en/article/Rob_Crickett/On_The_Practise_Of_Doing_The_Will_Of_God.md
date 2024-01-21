@@ -88,9 +88,9 @@ All too often we doubt ourselves and rush off to check on whether we're doing it
 
 “The Bible told me so” or “It's in _The URANTIA Book_” just doesn't cut it. It's not a real enough authority when it comes to doing the will of God. Only God is.
 
-“Go now apart by yourselves, each man alone with the Father, and there find the unemotional answer to my question, and having found such a true and sincere attitude of soul, speak that answer freely and boldly to my Father and your Father, whose infinite life of love is the very spirit of the religion we proclaim.” (<a id="a90_318"></a>[UB 155:5.14](/en/The_Urantia_Book/155#p5_14))
+> “Go now apart by yourselves, each man alone with the Father, and there find the unemotional answer to my question, and having found such a true and sincere attitude of soul, speak that answer freely and boldly to my Father and your Father, whose infinite life of love is the very spirit of the religion we proclaim.” (<a id="a90_318"></a>[UB 155:5.14](/en/The_Urantia_Book/155#p5_14))
 
-Some of us 'spread the gospel' by introducing others to _The URANTIA Book_, thinking perhaps that it is the acme of spirit. And many times we witness the hungry soul who is in our presence depart, having received no spiritual nourishment at all ... and we are left with an open URANTIA Book and a longing in our heart for 'the right thing to have said'.
+Some of us “spread the gospel” by introducing others to _The URANTIA Book_, thinking perhaps that it is the acme of spirit. And many times we witness the hungry soul who is in our presence depart, having received no spiritual nourishment at all ... and we are left with an open _URANTIA Book_ and a longing in our heart for “the right thing to have said”.
 
 But did we introduce our visitor to the utter simplicity of doing the will of God? Did we liberate him from his religious shackles? Did we disentangle him from his fruitless spiritual practices and clearly point out to him the simplicity of the matter, and the close proximity of his goal, and the effortlessness of the attainment? Or did we confound his beliefs, test his capacity to believe in a cosmology overnight which for us took years? Did we greet him, or did we greet him as someone whom we thought lacked something fundamental in his capacity to attain God?
 
@@ -98,7 +98,7 @@ Did we flood him with words and fantastic concepts, made more personal by the in
 
 Did we spend our time pointing out the flaws in the world's myriad religions and so bolster in his mind an unqualified authority in _The URANTIA Book_? Did we endeavour to convince him that the authors have a greater authority and a special wisdom about these matters of the spirit than his own relationship with God? Did we haggle over spiritual fine print? Did we welcome him into yet another club? Did we try to get him to take a book home for his sister too? And his mother? And his boss? And his local minister?
 
-Or perhaps we hoped to number him as one among the flock we will lead into the wilderness on sone URANTIA commune or settlement ... and that under our 'gifted' guidance and 'special' link with the authors he would realize his Adjuster fusion and be counted as among one of the chosen?
+Or perhaps we hoped to number him as one among the flock we will lead into the wilderness on sone URANTIA commune or settlement ... and that under our ‘gifted’ guidance and ‘special’ link with the authors he would realize his Adjuster fusion and be counted as among one of the chosen?
 
 Or did we just ignore him? Did we just feel a lot safer with 'nothing ventured nothing lost'? Did we do this? Did we forget that we are a child of God first, and a URANTIA Book reader second? Did we forget that Michael is a son of God first, just like us? And he's a Michael and a Son of Man second. Did we perhaps try to sell our visitor into selling his soul out to a saviour ... be it a person like Jesus, or a book? Did we do this? Any of this? Or did we give him his own dear Father?
 

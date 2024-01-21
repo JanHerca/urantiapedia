@@ -41,7 +41,7 @@ Similarly, they would query some of the information about ice ages, the movement
 
 In astronomy, human scientists have not yet discovered the shape and structure of the material cosmos, the relative motions of the space levels or even the full extent of our solar system. And the notion that the Earth did not reach its present size until about 1 billion years ago would not be considered a respectable theory.
 
-Same other sciences are probably in closer agreement with The URANTIA Book's information, but scientists of most persuasions would reject any suggestion that the mechanism of cause and effect is at times influenced by intelligent manipulation.
+Same other sciences are probably in closer agreement with _The URANTIA Book_'s information, but scientists of most persuasions would reject any suggestion that the mechanism of cause and effect is at times influenced by intelligent manipulation.
 
 Briefly then, the position is that science is gradually coming round to The URANTIA Book's point of view, but it still has a long way to go.
 

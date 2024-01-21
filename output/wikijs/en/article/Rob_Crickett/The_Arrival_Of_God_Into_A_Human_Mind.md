@@ -100,7 +100,7 @@ It would be some eighteen years later that I would find a URANTIA Book and read 
 
 Robert Crickett, Melbourne
 
-> “There is a reality in religious experience that is proportional to the spiritual content, and such a reality is transcendent to reason, science, philosophy, wisdom, and all other human achievements. The convictions of such an experience are unassailable; the logic of religious living is incontrovertible; the certainty of such knowledge is superhuman; the satisfactions are superbly divine, the courage indomitable, the devotions unquestioning, the loyalties supreme, and the destinies final — eternal, ultimate, and universal.”
+> “There is a reality in religious experience that is proportional to the spiritual content, and such a reality is transcendent to reason, science, philosophy, wisdom, and all other human achievements. The convictions of such an experience are unassailable; the logic of religious living is incontrovertible; the certainty of such knowledge is superhuman; the satisfactions are superbly divine, the courage indomitable, the devotions unquestioning, the loyalties supreme, and the destinies final — eternal, ultimate, and universal.” [UB 103:9.12](/en/The_Urantia_Book/103#p9_12)
 
 <figure class="table chapter-navigator">
   <table>

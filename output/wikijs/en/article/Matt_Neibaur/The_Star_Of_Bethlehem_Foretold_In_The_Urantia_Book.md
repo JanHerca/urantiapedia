@@ -49,7 +49,7 @@ These wise men saw no star to guide them to Bethlehem. The beautiful legend of t
 
 The tabulated differences in dates follow:
 
-| URANTIA Book(1955) | Tuckerman (1962) | Difference (days) |
+| URANTIA Book (1955) | Tuckerman (1962) | Difference (days) |
 | :--- | :--- | :--- |
 | May 29 | May 27 | 2 |
 | Sept 29 | Oct 6 | 7 |

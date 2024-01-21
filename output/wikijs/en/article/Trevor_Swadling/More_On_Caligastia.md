@@ -46,7 +46,7 @@ Then on UB 183:0.4:
 
 Then on UB 66:8.6:
 
-“_...neither Caligastia nor Daligastia was ever able to oppress mortals or coerce any normal individual into doing anything against the human will._” <a id="a48_150"></a>[UB 66:8.6](/en/The_Urantia_Book/66#p8_6)
+> “_...neither Caligastia nor Daligastia was ever able to oppress mortals or coerce any normal individual into doing anything against the human will._” <a id="a48_150"></a>[UB 66:8.6](/en/The_Urantia_Book/66#p8_6)
 
 From these and other statements throughout the book we could assume that even well-intentioned but misguided thoughts, evil thoughts or even sinful thoughts at first originate in people's own human minds. It is the implementation of these thoughts into action that cause the problems. Once these kind of thoughts are put into train, Caligastia might use situations to his own ends, but we are not in a position to be absolutely sure, we just don't know. In so doing we may be giving Caligastia credit where credit is not due. Therefore under these circumstances I think it is wise to err on the side of caution rather than to suggest or accuse people of being under the direct influences of Caligastia. On UB 110:5.5, _The URANTIA Book_ warns us about adjuster guidance:
 
@@ -60,7 +60,7 @@ In looking at ‘The Doctrines of Lucifer’ one of the detestable things we com
 
 We of today now stand amidst the shreds and lingering embers of Lucifer's dying document of “the sophistry of spurious personal liberty-rejection of universe allegiance and disregard of fraternal obligations, blindness to cosmic relationships”. The surest safeguard against Caligastia's Godless and ‘self philosophy’ and it's repercussions for us is presented on UB 34:7.6:
 
-“_Jesus showed mankind the new way of moral living whereby human beings may very largely escape the dire consequences of the Caligastia rebellion and most effectively compensate for the deprivations resulting from the Adamic default. ‘The spirit of the life of Christ Jesus has made us free from the law of animal living and the temptations of evil and sin._’” <a id="a62_361"></a>[UB 34:7.6](/en/The_Urantia_Book/34#p7_6)
+> “_Jesus showed mankind the new way of moral living whereby human beings may very largely escape the dire consequences of the Caligastia rebellion and most effectively compensate for the deprivations resulting from the Adamic default. ‘The spirit of the life of Christ Jesus has made us free from the law of animal living and the temptations of evil and sin._’” <a id="a62_361"></a>[UB 34:7.6](/en/The_Urantia_Book/34#p7_6)
 
 It is this we need to thirst for and build on, and in the process _The URANTIA Book_ tells us that one of the most important things we need to learn as humans is teamwork.
 

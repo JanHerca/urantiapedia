@@ -38,7 +38,7 @@ Reincarnation is a fact of life held by millions of people the world over. The p
 
 I have spent time as a monk in Asia and was led through the training steps provided to such a person who is clearly devoted to experientially exploring spiritual realities for the sake of Enlightement and its freedom from the whole reincarnation package, as well as for the sake of awakening others to the fact of reincarnation, its consequences, philosophy and transcendence. 
 
-I also am fully committed to the teachings within The URANTIA Book. It be of some interest to readers of the 6-0-6 Newsletter if I outline some of my own experience with reincarnation and The URANTIA Book during the course Of my spiritual development... hence this article.
+I also am fully committed to the teachings within _The URANTIA Book_. It be of some interest to readers of the 6-0-6 Newsletter if I outline some of my own experience with reincarnation and _The URANTIA Book_ during the course Of my spiritual development... hence this article.
 
 Like thousands of Westerners, first serving of the reincarnation idea come to me from the author of a number of books on Tibetan Buddhism, one Lobsang Rampa. Lobsang, about whom neither the Dalai Lama nor any others in Tibetan Buddhist ranks know anything at all, claims to have been a Tibetan Buddhist Lama early this century. He died and transferred himself into the body of a Canadian man who was himself about to die. Lobsang still is alive well in Canada.
 

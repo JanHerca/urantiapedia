@@ -92,7 +92,7 @@ The most important aspect is of course the life on the planets.
 
 > “Beings such as the Urantia races are classified as mid-breathers; you represent the average or typical breathing order of mortal existence. If intelligent creatures should exist on a planet with an atmosphere similar to that of your near neighbour, Venus, they would belong to the superbreather group, while those inhabiting a planet with an atmosphere as thin as that of your outer neighbour, Mars, would be denominated subbreathers.” 
 > 
-> “If mortals should inhabit a planet devoid of air, like your moon, they would belong to the separate order of nonbreathers.” ( 112% of inhabited Satania worlds) <a id="a94_163"></a>[UB 49:2.13-14](/en/The_Urantia_Book/49#p2_13)
+> “If mortals should inhabit a planet devoid of air, like your moon, they would belong to the separate order of nonbreathers.” ( 11.2% of inhabited Satania worlds) <a id="a94_163"></a>[UB 49:2.13-14](/en/The_Urantia_Book/49#p2_13)
 
 > “You would be more than interested in the planetary conduct of this type of mortal because such a race of beings inhabits a sphere in close proximity to Urantia.” <a id="a96_165"></a>[UB 49:3.6](/en/The_Urantia_Book/49#p3_6)
 
