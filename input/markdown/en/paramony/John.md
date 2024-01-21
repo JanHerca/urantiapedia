@@ -1558,7 +1558,7 @@ type = See _readme
 | John | 15:12,17       | 2055:18-19  | 193:3.2/18-19  | Love one another as Jesus did        | S    |
 | John | 15:12,17       | 1932:19     | 178:1.17/2     | Love one another                     | S    |
 | John | 15:12,17       | 2042:6-7    | 191:4.3/30-31  | Love one another                     | S    |
-| John | 15:12,17       | 1206:40-42  | 110:3.9/all    | By loving fellows as Jesus did)      | C    |
+| John | 15:12,17       | 1206:40-42  | 110:3.9/all    | By loving fellows as Jesus did      | C    |
 | John | 15:12,17       | 1955:41-42  | 181:2.4/8-11   | Love one another                     | S    |
 | John | 15:12-15       | 1944:38-44  | 180:1.3/all    | No greater love                      | S    |
 | John | 15:13          | 2018:49-51  | 188:5.7/4-6    | No greater love                      | S    |

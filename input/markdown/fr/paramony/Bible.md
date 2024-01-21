@@ -2,10 +2,10 @@
 | ------------------------------------------------------ | ----------------------------------------------------------- |
 | “By what authority do you do these things?”            | « Par quelle autorité faites-vous ces choses ?              |
 | “Gods” Ashtoreth and Chemosh                           | « Dieux » Ashtoreth et Chemosh                              |
-| “Gods” Ashtoreth and Milcom                            | "Dieux" Ashtoreth et Milcom                                 |
+| “Gods” Ashtoreth and Milcom                            | «Dieux» Ashtoreth et Milcom                                 |
 | “Lazarus will rise.”                                   | « Lazare ressuscitera.                                      |
 | “Meat” to do will of Father, “work”                    | « Viande » pour faire la volonté du Père, « travail »       |
-| “Temptation” of Jesus                                  | "Tentation" de Jésus                                        |
+| “Temptation” of Jesus                                  | «Tentation» de Jésus                                        |
 | # 1 God is faithful                                    | # 1 Dieu est fidèle                                         |
 | # 1 Perfect in knowledge                               | # 1 Parfait en connaissance                                 |
 | # 1 Pilot light                                        | # 1 Veilleuse                                               |
@@ -14,7 +14,8 @@
 | # 1 Takes a city                                       | # 1 Prend une ville                                         |
 | # 2 Eyes of Lord every place                           | # 2 Yeux du Seigneur partout                                |
 | # 2 God's laws are just                                | # 2 Les lois de Dieu sont justes                            |
-| # 2 Light of life                                      | #2 Lumière de la vie                                        |
+| # 2 Light of life                                      | # 2 Lumière de la vie                                       |
+| # 2 Son of Man                                         | # 2 Fils de l'homme                                         |
 | # 2 The Son of Man                                     | # 2 Le fils de l'homme                                      |
 | 10 Taboos                                              | 10 tabous                                                   |
 | 10th Woe                                               | 10e malheur                                                 |
@@ -36,7 +37,7 @@
 | Amos' threat & warning                                 | Menace et avertissement d'Amos                              |
 | Angels going up & down                                 | Les anges montent et descendent                             |
 | Another Warning                                        | Un autre avertissement                                      |
-| Answer: “various prophets”                             | Réponse : "divers prophètes"                                |
+| Answer: “various prophets”                             | Réponse : «divers prophètes»                                |
 | Apostles see Jesus for third time                      | Les apôtres voient Jésus pour la troisième fois             |
 | Aquila & Priscilla                                     | Aquila et Priscille                                         |
 | Are you greater than Abraham                           | Es-tu plus grand qu'Abraham                                 |
@@ -67,10 +68,10 @@
 | Breath of life                                         | Souffle de vie                                              |
 | Bring in first fruits                                  | Apportez les premiers fruits                                |
 | Broad & narrow ways                                    | Chemins larges et étroits                                   |
-| By loving fellows as Jesus did)                        | En aimant les autres comme Jésus l'a fait)                  |
+| By loving fellows as Jesus did                         | En aimant les autres comme Jésus l'a fait                   |
 | By word of the Lord: creation                          | Par la parole du Seigneur : création                        |
 | Cain slays Able                                        | Caïn tue Able                                               |
-| Call no man “father”                                   | N'appelez personne "père"                                   |
+| Call no man “father”                                   | N'appelez personne «père»                                   |
 | Came to bring abundant life                            | Venu apporter une vie abondante                             |
 | Came to bring gladness                                 | Est venu apporter la joie                                   |
 | Came to bring joy                                      | Venu apporter de la joie                                    |
@@ -106,10 +107,12 @@
 | Coming down from heaven                                | Descendant du ciel                                          |
 | Commingle good & evil, die                             | Mélanger le bien et le mal, mourir                          |
 | Commit to Him keeping of souls                         | Confiez-lui la garde des âmes                               |
-| Competing “gods” Ashtaroth                             | "Dieux" concurrents Ashtaroth                               |
-| Competing “gods” Baal                                  | "Dieux" concurrents Baal                                    |
-| Competing “gods” Baal, Ashtaroth                       | "Dieux" concurrents Baal, Ashtaroth                         |
-| Competing “gods” Molech                                | "Dieux" concurrents Molech                                  |
+| Competing “gods” Ashtaroth                             | «Dieux» concurrents Ashtaroth                               |
+| Competing “gods” Baal                                  | «Dieux» concurrents Baal                                    |
+| Competing “gods” Baal, Ashtaroth                       | «Dieux» concurrents Baal, Ashtaroth                         |
+| Competing “gods” Bel                                   | «Dieux» concurrents Bel                                     |
+| Competing “gods” Molech                                | «Dieux» concurrents Molech                                  |
+| Concept of “father” exalted                            | Concept de « Père » exalté                                  |
 | Contrite mind & humble spirit                          | Esprit contrit et esprit humble                             |
 | Correcting views of God                                | Corriger les vues de Dieu                                   |
 | Created male & female                                  | Créé masculin et féminin                                    |
@@ -131,11 +134,14 @@
 | Do same spiritually                                    | Faites de même spirituellement                              |
 | Don't prolong childhood                                | Ne prolonge pas l'enfance                                   |
 | Don't seethe kid in mother's milk                      | Ne fais pas bouillir l'enfant dans le lait maternel         |
+| Do to others as God does                               | Faites aux autres ce que Dieu fait                          |
 | Drink pleasures, see light                             | Boire des plaisirs, voir la lumière                         |
 | Dwell in high, holy place                              | Demeurez dans un lieu élevé et saint                        |
+| Earth will yield fruits                                | La Terre donnera des fruits                                 |
 | Easy way out                                           | La solution facile                                          |
 | Education of parents                                   | L'éducation des parents                                     |
 | Eighth Woe                                             | Huitième malheur                                            |
+| El Elyon, Most High God                                | El Elyon, Dieu Très Haut                                    |
 | Eliphaz, the first friend                              | Eliphaz, le premier ami                                     |
 | Embalming, burial                                      | Embaumement, enterrement                                    |
 | End, 23d Psalm                                         | Fin, Psaume 23d                                             |
@@ -145,6 +151,7 @@
 | Eyes:are the windows of soul                           | Yeux : sont les fenêtres de l'âme                           |
 | Ezekiel: service / devotion                            | Ézéchiel : service / dévotion                               |
 | Faith, hope, & charity                                 | Foi, espérance et charité                                   |
+| Faithful and Divine Creator                            | Créateur fidèle et divin                                    |
 | Faithful in little / faithful in much                  | Fidèle en peu / fidèle en beaucoup                          |
 | Fate of hearers & believers                            | Sort des auditeurs et des croyants                          |
 | Father & Jesus work                                    | Le travail du père et de Jésus                              |
@@ -180,8 +187,11 @@
 | Gethsemane prayer                                      | Prière de Gethsémané                                        |
 | Gnats and camels                                       | moucherons et chameaux                                      |
 | Go tell apostles & Peter                               | Allez dire aux apôtres et à Pierre                          |
+| God as creator of wisdom                               | Dieu, créateur de sagesse                                   |
 | God created                                            | Dieu a créé                                                 |
 | God created man                                        | Dieu créa l'homme                                           |
+| God created wisdom                                     | Dieu a créé la sagesse                                      |
+| God created world and all in it                        | Dieu a créé le monde et tout ce qu'il contient              |
 | God does not hear iniquitous                           | Dieu n'entend pas les iniques                               |
 | God gracious, compassionate                            | Dieu miséricordieux, compatissant                           |
 | God is Father, redeemer                                | Dieu est Père, rédempteur                                   |
@@ -189,6 +199,8 @@
 | God is MY Father                                       | Dieu est MON Père                                           |
 | God judges secrets                                     | Dieu juge les secrets                                       |
 | God looks at both inner & outer                        | Dieu regarde à la fois l'intérieur et l'extérieur           |
+| God made everything                                    | Dieu a tout fait                                            |
+| God made all things and beings                         | Dieu a créé toutes choses et tous les êtres                 |
 | God not far                                            | Dieu pas loin                                               |
 | God not for Hebrews in war                             | Dieu pas pour les Hébreux en guerre                         |
 | God of power, judgment,                                | Dieu de pouvoir, de jugement,                               |
@@ -198,6 +210,8 @@
 | God's spirit in you (T/A)                              | L'esprit de Dieu en vous (T/A)                              |
 | God's Spirit in you (T/A)                              | L'Esprit de Dieu en vous (T/A)                              |
 | God/Son no respecter of persons                        | Dieu/Fils ne fait pas acception de personnes                |
+| Golden rule (negative)                                 | Règle d'or (négatif)                                        |
+| Golden rule (old negative)                             | Règle d'or (ancien négatif)                                 |
 | Good man satisfied w/in self                           | Bon homme satisfait de soi                                  |
 | Good to give thanks                                    | Bon à remercier                                             |
 | Goodness of God / repentance                           | Bonté de Dieu / repentance                                  |
@@ -247,7 +261,7 @@
 | Is near the brokenhearted                              | Est proche des cœurs brisés                                 |
 | Isaac's birth                                          | Naissance d'Isaac                                           |
 | Jairus' request: heal daughter                         | Requête de Jairus : guérir sa fille                         |
-| James “drinks cup”                                     | James "gobelet"                                             |
+| James “drinks cup”                                     | James «gobelet»                                             |
 | James & John selected                                  | James et John sélectionnés                                  |
 | Jealous for                                            | Jaloux de                                                   |
 | Jealous of                                             | Jaloux de                                                   |
@@ -271,7 +285,7 @@
 | Jesus hanged with 2 malefactors                        | Jésus pendu avec 2 malfaiteurs                              |
 | Jesus hears: John imprisoned                           | Jésus entend : Jean emprisonné                              |
 | Jesus leaves                                           | Jésus part                                                  |
-| Jesus quotes “scripture”                               | Jésus cite "l'écriture"                                     |
+| Jesus quotes “scripture”                               | Jésus cite «l'écriture»                                     |
 | Jesus reads selected verses                            | Jésus lit des versets choisis                               |
 | Jesus refused to show sign                             | Jésus a refusé de montrer un signe                          |
 | Jesus reputation: a healer                             | Réputation de Jésus : un guérisseur                         |
@@ -299,7 +313,7 @@
 | Joseph sold                                            | Joseph a vendu                                              |
 | Joseph weds Mary                                       | Joseph épouse Marie                                         |
 | Judas leads armed band                                 | Judas dirige une bande armée                                |
-| Judas; “How much?”                                     | Judas; "Combien?"                                           |
+| Judas; “How much?”                                     | Judas; «Combien?»                                           |
 | Judge motive, not acts                                 | Jugez le motif, pas les actes                               |
 | Justice, fairness, & mercy                             | Justice, équité et miséricorde                              |
 | Ketura not wife                                        | Ketura pas épouse                                           |
@@ -383,13 +397,17 @@
 | Minister to man, minister to me                        | Ministre de l'homme, ministre de moi                        |
 | money damages                                          | dommages-intérêts                                           |
 | More blessed to give More blessed to give              | Plus béni de donner Plus béni de donner                     |
+| Moses' resurrection                                    | La résurrection de Moïse                                    |
 | Moses' teaching about sex                              | L'enseignement de Moïse sur le sexe                         |
+| Most High                                              | Le Plus Haut                                                |
+| Most Highs                                             | Le Plus Haut                                                |
 | Mt. Sinai                                              | Mont Sinaï                                                  |
 | My God, why forsake me                                 | Mon Dieu, pourquoi m'abandonner                             |
 | Name fetish                                            | Nom fétiche                                                 |
+| Negative Golden rule                                   | Règle d'or négative                                         |
 | New birth societies                                    | Nouvelles sociétés de naissance                             |
 | Ninth Woe                                              | Neuvième malheur                                            |
-| No “atonement for sin” Contra:                         | Pas d'"expiation pour le péché"                             |
+| No “atonement for sin” Contra:                         | Pas d'«expiation pour le péché»                             |
 | No “miracles”                                          | Pas de miracles"                                            |
 | No adultery                                            | Pas d'adultère                                              |
 | No fasting, sad faces                                  | Pas de jeûne, visages tristes                               |
@@ -520,6 +538,7 @@
 | Passover near                                          | Pâque proche                                                |
 | Pastoral preferred                                     | Pastorale préférée                                          |
 | Paul would all men be as he                            | Paul voudrait que tous les hommes soient comme lui          |
+| Peaceful Society                                       | Société pacifique                                           |
 | Pentecost, many there                                  | Pentecôte, nombreux là-bas                                  |
 | Persecution & danger                                   | Persécution et danger                                       |
 | Peter & John run to tomb                               | Pierre et Jean courent au tombeau                           |
@@ -533,7 +552,7 @@
 | Pour out spirit on all flesh                           | Déverse l'esprit sur toute chair                            |
 | Power great, understanding                             | Grande puissance, compréhension                             |
 | Power to lay down, pick up. life                       | Pouvoir déposer, ramasser. la vie                           |
-| Pray “Our Father —”                                    | Priez "Notre Père -"                                        |
+| Pray “Our Father —”                                    | Priez «Notre Père -»                                        |
 | Pray in spirit & truth                                 | Priez en esprit et en vérité                                |
 | Prayer, “come forth”                                   | Prière, « sors »                                            |
 | Prayer, part 2                                         | Prière, partie 2                                            |
@@ -542,7 +561,7 @@
 | Prayer, part 5                                         | Prière, partie 5                                            |
 | Preached peace, good will                              | Prêché la paix, la bonne volonté                            |
 | Prepare the way                                        | Préparez le chemin                                          |
-| Proclaimed “gospel”                                    | Proclamé "évangile"                                         |
+| Proclaimed “gospel”                                    | Proclamé «évangile»                                         |
 | Promised to send Spirit of Truth                       | Promis d'envoyer l'Esprit de Vérité                         |
 | Prophet not without honor                              | Prophète non sans honneur                                   |
 | Punishment spelled out                                 | Punition précisée                                           |
@@ -558,9 +577,9 @@
 | Rainbow                                                | Arc-en-ciel                                                 |
 | Raise children of 12 Stones                            | Élevez les enfants de 12 Stones                             |
 | Reap what you sow                                      | Récoltez ce que vous semez                                  |
-| Reason for “40 days”                                   | Raison de "40 jours"                                        |
+| Reason for “40 days”                                   | Raison de «40 jours»                                        |
 | Receive Jesus: sons of God                             | Recevez Jésus : fils de Dieu                                |
-| Recorded as: “God calling..”                           | Enregistré comme : "Dieu appelle .."                        |
+| Recorded as: “God calling..”                           | Enregistré comme : «Dieu appelle ..»                        |
 | Religion of LOVE                                       | Religion d'AMOUR                                            |
 | Render unto Caesar & God                               | Rendez à César et à Dieu                                    |
 | Render unto Caesar what is Caesar's, God what is God's | Rendez à César ce qui est à César, à Dieu ce qui est à Dieu |
@@ -609,6 +628,8 @@
 | Seen me, seen Father                                   | M'a vu, vu Père                                             |
 | Sending 12 to ministry                                 | Envoi de 12 au ministère                                    |
 | Sequence of rank                                       | Séquence de rang                                            |
+| Serpent reverence (Da 14:23-27)                        | Vénération du Serpent (Dn 14:23-27)                         |
+| Serpent worship (Da 14:23)                             | Culte du serpent (Dn 14:23)                                 |
 | Seven master spirits                                   | Sept maîtres esprits                                        |
 | Seven Spirits of God                                   | Sept Esprits de Dieu                                        |
 | Seven spirits of God — like lamps                      | Sept esprits de Dieu — comme des lampes                     |
@@ -626,10 +647,12 @@
 | Smitten by enemies                                     | Frappé par les ennemis                                      |
 | Snake: voice of evil spirits                           | Serpent : voix des mauvais esprits                          |
 | So-called “temptation” to get food                     | Soi-disant « tentation » d'obtenir de la nourriture         |
-| So-called “temptation” to jump                         | Soi-disant "tentation" de sauter                            |
+| So-called “temptation” to jump                         | Soi-disant «tentation» de sauter                            |
 | Soft answer vs. wrath                                  | Réponse douce contre colère                                 |
 | Soldiers settle & watch                                | Les soldats s'installent et regardent                       |
 | Solomon & Pharaoh's daughter                           | Fille de Salomon et Pharaon                                 |
+| Son of Man                                             | Fils de l'homme                                             |
+| Son of Man of Enoch                                    | Fils de l'homme selon Enoch                                 |
 | Sons / daughters held captive                          | Fils / filles retenus captifs                               |
 | SoT becomes well of living water                       | SoT devient puits d'eau vive                                |
 | Sparrows fall / hairs numbered                         | Les moineaux tombent / poils numérotés                      |
@@ -640,6 +663,7 @@
 | Stone falls, breaks, etc.                              | Chutes de pierres, cassures, etc.                           |
 | Stories of Esther & Susa                               | Histoires d'Esther et de Suse                               |
 | Supreme commander                                      | Commandant suprême                                          |
+| Survival of Jewish religion                            | Survie de la religion juive                                 |
 | Syrian woman                                           | femme syrienne                                              |
 | Take up responsibilities, follow me                    | Prends des responsabilités, suis-moi                        |
 | Taste & see that God is good                           | Goûtez et voyez que Dieu est bon                            |
@@ -648,6 +672,8 @@
 | Thanks for mercies                                     | Merci pour la miséricorde                                   |
 | That fox (Herod)                                       | Ce renard (Hérode)                                          |
 | The agreement                                          | L'accord                                                    |
+| The judge rebuke you                                   | Le juge vous réprimande                                     |
+| The Creator                                            | Le créateur                                                 |
 | The resurrection & the life                            | La résurrection et la vie                                   |
 | Third denial                                           | Troisième refus                                             |
 | Third parable of sower                                 | Troisième parabole du semeur                                |
@@ -655,7 +681,7 @@
 | Thomas Didymus                                         | Thomas Didyme                                               |
 | Those with spirit, sons of God                         | Ceux qui ont de l'esprit, fils de Dieu                      |
 | Thousand years but a day                               | Mille ans mais un jour                                      |
-| Three “Holy” Spirits                                   | Trois "Saints" Esprits                                      |
+| Three “Holy” Spirits                                   | Trois «Saints» Esprits                                      |
 | Three celestials: real                                 | Trois célestes : réels                                      |
 | To be first, minister                                  | Être premier, ministre                                      |
 | To Bethany                                             | À Béthanie                                                  |
