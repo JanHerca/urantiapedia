@@ -24,7 +24,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-Les fascicules nous disent que le temps et l’espace s’associent pour former un mécanisme du maitre univers ( [LU 118:9.1](/fr/The_Urantia_Book/118#p9_1)) . Les principales divisions spatiales de la maitresse création sont les six niveaux d’espace ([appendice III](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3)). Les principales divisions temporelles du maitre univers sont les six âges d’univers: l’âge de Havona, l’âge des superunivers et les quatre âges des niveaux d’espace extérieurs [LU 15:3.18](/fr/The_Urantia_Book/15#p3_18). Nous vivons, présentement, dans le deuxième âge de l’univers, l’âge des superunivers.
+Les fascicules nous disent que le temps et l’espace s’associent pour former un mécanisme du maitre univers ( [LU 118:9.1](/fr/The_Urantia_Book/118#p9_1)) . Les principales divisions spatiales de la maitresse création sont les six niveaux d’espace ([appendice III](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3)). Les principales divisions temporelles du maitre univers sont les six âges d’univers: l’âge de Havona, l’âge des superunivers et les quatre âges des niveaux d’espace extérieurs [LU 115:3.18](/fr/The_Urantia_Book/115#p3_18). Nous vivons, présentement, dans le deuxième âge de l’univers, l’âge des superunivers.
 
 Chacun des six âges d’univers semble être associé avec l’ouverture et le développement d’un nouveau niveau d’espace. Cette relation entre les âges d’univers et les niveaux d’espace peut s’exprimer sous la forme du tableau suivant:
 1. Le premier âge de l’univers - Le niveau d’espace de Havona
@@ -162,7 +162,7 @@ _La deuxième Trinité expérientielle_
 
 _Dieu l'Absolu_
 
-> [LU 118:2.6](/fr/The_Urantia_Book/118#p2_6). L'émergence de Dieu l’Ultime sera-t-elle associée à une plus grande révélation de Dieu l'Absolu ?
+> [LU 118:2.5](/fr/The_Urantia_Book/118#p2_5). L'émergence de Dieu l’Ultime sera-t-elle associée à une plus grande révélation de Dieu l'Absolu ?
 
 ## § 3. Dieu Le Sep Tuple dans les âges successifs
 
@@ -173,7 +173,7 @@ Les développements expérientiels dans les univers ne modifient pas les relatio
 
 Pour traiter des fonctions de Dieu le Septuple, et de l'expansion de ces fonctions, les fascicules apportent les commentaires généraux suivants:
 
-> [LU 0:10.12](/fr/The_Urantia_Book/0#p10_12). Dieu le Septuple commença à fonctionner lorsque les superunivers furent organisés. Quand les univers de l'espace extérieur seront organisés, cette fonction s'étendra probablement.
+> [LU 0:8.12](/fr/The_Urantia_Book/0#p8_12). Dieu le Septuple commença à fonctionner lorsque les superunivers furent organisés. Quand les univers de l'espace extérieur seront organisés, cette fonction s'étendra probablement.
 > 
 > [LU 56:7.6](/fr/The_Urantia_Book/56#p7_6). Les âges de lumière et de vie entraineront une fonction accrue de l’Être Suprême avec une diminution correspondante des activités des Créateurs Suprêmes.
 > 
@@ -388,7 +388,7 @@ Déduction: Des activités d'énergies avaient lieu sur les niveaux d’espace d
   > 
   > [LU 29:0.10](/fr/The_Urantia_Book/29#p0_10). Ceci eut lieu en des " temps proches de l’éternité".
   > 
-  > [LU 0:3.12](/fr/The_Urantia_Book/0#p3_12). «La fonction de Dieu le Septuple date de l'organisa tion des sept superunivers.»
+  > [LU 0:8.12](/fr/The_Urantia_Book/0#p8_12). «La fonction de Dieu le Septuple date de l'organisa tion des sept superunivers.»
 
 ### § 5. B. Les Superunivers dans la Lumière et la Vie
 
@@ -396,7 +396,7 @@ Dans cette partie, nous allons considérer l’état des choses à l’époque o
 
 > [LU 18:3.9](/fr/The_Urantia_Book/18#p3_9). L’Être Suprême sera le souverain expérientiel des sept superunivers.
 > 
-> [LU 117:5.15](/fr/The_Urantia_Book/117#p5_15). L’Être Suprême résidera peutêtre sur Uversa – les frontières entre les superunivers seront peutêtre supprimées et le grand univers commencera à fonctionner comme un ensemble intégré et devenu parfait.
+> [LU 117:7.15](/fr/The_Urantia_Book/117#p7_15). L’Être Suprême résidera peutêtre sur Uversa – les frontières entre les superunivers seront peutêtre supprimées et le grand univers commencera à fonctionner comme un ensemble intégré et devenu parfait.
 
 Observation: C’est un parallèle cosmique avec ce qui se passe sur une planète quand les races évolutionnaires sont d’abord séparées (afin d'individualiser les développements culturels) puis mélangées sous le régime Adamique [LU 64:6.30](/fr/The_Urantia_Book/64#p6_30).
 
@@ -481,7 +481,7 @@ Il serait pratique de grouper les citations relatives à l’étude des Fils tri
 
 ### § 7. A. Les fils embrassés par la Trinité
 
-> [LU 22:4.8](/fr/The_Urantia_Book/22#p4_8). L'embrassement de la Trinité précipite hors du flot du temps beaucoup de potentiels non réalisés des créatures, mais ceci ne s'applique qu’au présent âge de l’univers.
+> [LU 22:4.5](/fr/The_Urantia_Book/22#p4_5). L'embrassement de la Trinité précipite hors du flot du temps beaucoup de potentiels non réalisés des créatures, mais ceci ne s'applique qu’au présent âge de l’univers.
 > 
 > [LU 17:2.4](/fr/The_Urantia_Book/17#p2_4). Les Puissants Messagers, étant embrassés par la Trinité, ne croissent pas. En statut, ils sont comme s’ils étaient du premier âge ; ils sont comme les Fils Stationnaires de la Trinité.
 > 

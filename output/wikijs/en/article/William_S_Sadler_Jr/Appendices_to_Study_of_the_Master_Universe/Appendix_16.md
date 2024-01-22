@@ -35,7 +35,7 @@ Then the transverse diameter of Orvonton (the horizontal distance from the outer
 
 > <a id="s35_2"></a>[UB 12:1.14](/en/The_Urantia_Book/12#p1_14) Between the superuniverses and the Primary Space Level there is a quiet zone that averages around 400,000 light-years in width.
 > 
-> (ibid) Around one-half million light-years from the periphery of the superuniverses, there is a zone of energy activity that grows in ". . . intensity for over 25 million light years." This is all in the first outer space level.
+> (ibid) Around one-half million light-years from the periphery of the superuniverses, there is a zone of energy activity that grows in “. . . intensity for over 25 million light years.” This is all in the first outer space level.
 
 If this zone _increases_ in intensity for over 25 million light-years, then it is logical to deduce that it decreases in intensity for another 25 million light-years. This means that the transverse diameter of the first outer space level is on the order of 50 million light-years.
 
@@ -53,7 +53,7 @@ Furthermore, the mass of the grand universe is much more of a finished physical 
 
 > <a id="s53_2"></a>[UB 31:10.19](/en/The_Urantia_Book/31#p10_19) There are at least 70,000 physical aggregations in outer space and each one is larger than a superuniverse.
 > 
-> <a id="s55_2"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3) Someday our astronomers will see ". . . no less than 375 million new galaxies in the remote stretches of outer space."
+> <a id="s55_2"></a>[UB 12:2.3](/en/The_Urantia_Book/12#p2_3) Someday our astronomers will see “. . . no less than 375 million new galaxies in the remote stretches of outer space.”
 
 There is a question as to whether these two statements refer to the same masses, or to different physical creations. In this study, we will assume that the 70,000 aggregations are all in the Primary Space Level and that these are the major groupings which embrace the 375 million galaxies. A superficial consideration of this data might suggest that the 375 million galaxies could be in the Secondary Space Level; but if they were, then we could never see them. Our telescopes cannot see across Orvonton, because of the dust in space, and this is only one-half million light-years. How could we ever hope to see across the Primary Space Level; it is 50 million light-years across.
 
@@ -62,7 +62,7 @@ There is a question as to whether these two statements refer to the same masses,
 It appears that the transverse (horizontal) diameter of the superuniverse space level is on the order of one-half million light-years. If we want to determine the radius of the grand universe we should increase this figure by an amount equal to the radius of Havona. (The radius of Havona, plus the transverse diameter of a superuniverse, should equal the radius of the grand universe — the distance from the center of all things to the periphery of the superuniverses.)
 
 There are two problems that seriously hamper our calculations at this point:
-- (a) If we attempt to go all the way in to the "center of all thing" we will be going inside the inner margins of space itself. The Isle of Paradise is at the center of all things, and Paradise is not in space.
+- (a) If we attempt to go all the way in to the “center of all thing” we will be going inside the inner margins of space itself. The Isle of Paradise is at the center of all things, and Paradise is not in space.
 - (b) The Papers give no information whatsoever concerning the size of the central universe.
 
 What would happen if we chose to ignore Havona in these calculations? How does the space area of Havona compare with that of a superuniverse — say, Orvonton? We know that Havona contains one billion worlds and that Orvonton will eventually contain 1,000 billion inhabited worlds — and this takes to account none of the myriads of uninhabited space bodies: blazing suns, cold and airless satellites, dark islands, and so on. And then again, the Havona worlds follow each other in an orderly linear progression in seven circuits; such a systematic processional could be arranged rather compactly in space as compared with the more ample room required in Orvonton to accommodate the sometimes wild gyrations of the disintegrating nebulae. Orvonton must be much more than 1,000 times the size (or space volume) of Havona; but if it were only 1,000 times the size, then the radius of Havona would be only one-tenth of one-percent of the transverse diameter of Orvonton.
@@ -93,7 +93,7 @@ _The mass magnitudes_ in outer space level will support these estimates. Here th
 
 In attempting to calculate the magnitude of the second outer space level we encounter an unknown factor. We have established a ratio of one-to-one-hundred in comparing the radius of the grand universe to the transverse diameter of the first outer space level. The Papers give no dimensions concerning the Secondary Space Level, they merely state that still greater energy activities are going on around 50 million light-years beyond the first outer space level. This lack of information necessitates our making some assumptions: We know the space levels increase in size as we proceed outward, but, what is the rate of increase? Is it a _constant rate_, or is it an _accelerating rate_ of increase? We elect to choose the more conservative assumption, we will _assume_ that the rate of increase is a constant one.
 
-If the rate of increase is constant, then we can set down a double ratio: the ratio of the radius of the grand universe to the transverse diameter of the first outer space level, and the ratio of the latter to the transverse diameter of the second outer space level. This ratio is: 1 is to 100, as 100 is to 10,000. In terms of our "scale inches" we can illustrate this as follows: If the grand universe extends out from the center a distance of one inch, and, if the Primary Space Level extends beyond for one hundred inches, then the Secondary Space Level goes out for an additional 10,000 inches. This is about the relationship of one inch to eight feet, and of eight feet to 800 feet.
+If the rate of increase is constant, then we can set down a double ratio: the ratio of the radius of the grand universe to the transverse diameter of the first outer space level, and the ratio of the latter to the transverse diameter of the second outer space level. This ratio is: 1 is to 100, as 100 is to 10,000. In terms of our “scale inches” we can illustrate this as follows: If the grand universe extends out from the center a distance of one inch, and, if the Primary Space Level extends beyond for one hundred inches, then the Secondary Space Level goes out for an additional 10,000 inches. This is about the relationship of one inch to eight feet, and of eight feet to 800 feet.
 
 If the transverse diameter of the second outer space level is 800 feet, then the radius of the total universe, from the center to the periphery of the Secondary Space Level would be symbolized by 800 feet, plus eight feet and one inch. If we choose to ignore the two smaller distances we may say that the diameter of the total universe, considered thus far, is on the order of twice 800 feet; this would be 1,600 feet.
 
@@ -101,7 +101,7 @@ To what object of familiar size may we compare this distance of 1,600 feet? Well
 
 ## § 4. Magnitude of the Tertiary Space Level
 
-If we supply the fourth number of our one-to-one-hundred expanding space ratio, we will have, in terms of "scale inches," the following: one inch is to eight feet, as eight feet is to 800 feet, and as 800 feet is to 80,000 feet. Suppose we make this last number a little more manageable by converting it to miles. We can keep it conveniently even by dividing by 5,000 feet (instead of 5,280 feet) and this will give us a distance of 16 miles. This means that the transverse diameter of the Tertiary Space Level is symbolized by a distance of 16 miles.
+If we supply the fourth number of our one-to-one-hundred expanding space ratio, we will have, in terms of “scale inches,” the following: one inch is to eight feet, as eight feet is to 800 feet, and as 800 feet is to 80,000 feet. Suppose we make this last number a little more manageable by converting it to miles. We can keep it conveniently even by dividing by 5,000 feet (instead of 5,280 feet) and this will give us a distance of 16 miles. This means that the transverse diameter of the Tertiary Space Level is symbolized by a distance of 16 miles.
 
 If this is the case, then the diameter of the total universe we have considered up to this point is approximately twice 16 miles, or 32 miles. How can we attempt to visualize a 32-mile cube? Well, we might try to think of a rather large city that had a surface area measuring 32 miles by 32 miles, and then try to project this surface 32 miles high. This cubic city is to the 1,600-foot city block, as the Tertiary Space Level is to the Secondary. And inside the block we still have the living room (the Primary Space Level), and inside the living room we still have the tennis ball (the grand universe).
 
@@ -109,7 +109,7 @@ If this is the case, then the diameter of the total universe we have considered 
 
 We have finally come to the estimation of the size of the outermost space level. Again we may apply the relationship of one-to-one-hundred and continue the ratio to the fourth comparison: one inch is to eight feet, as eight feet is to 800 feet, as 800 feet is to 16 miles, and as 16 miles is to 1,600 miles.
 
-If, in terms of our "scale inches," the traverse diameter of the fourth outer space level is 1,600 miles and, if we entirely ignore the diameters of the smaller and inner space levels, then we may say that the total diameter of the entire master universe must be on the order of twice 1,600 miles, or 3,200 miles.
+If, in terms of our “scale inches,” the traverse diameter of the fourth outer space level is 1,600 miles and, if we entirely ignore the diameters of the smaller and inner space levels, then we may say that the total diameter of the entire master universe must be on the order of twice 1,600 miles, or 3,200 miles.
 
 (Just to check, let us see what has been ignored when we did not consider the distances relative to the smaller and inner space levels. We start with one inch, add it to eight feet and have a distance of eight feet and one inch. Then add 800 feet, and we have 808 feet and one inch; this is something less than one-fifth of a mile. To this added 16 miles and we have 16-1/5 miles. To derive the diameter, we double the number and come up with something less than 33 miles. This is only a trifle more than one percent of 3,200 miles. Our estimates are on the order of 99 percent accurate, even when we ignore the smaller dimensions.)
 

@@ -38,15 +38,15 @@ We do conceive of an age after the Sixth Universe Age, but such an era would hav
 
 ## § 1. Succession and Relationships of Universe Ages
 
-In our study of the antecedents of the master universe ([Appendix I](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)), we went as far back in past eternity as we could – back to, and within, a hypothetical Zero Age. There never was such an age; it is not a factual reality, although it is a very valid concept. The Papers speak of this hypothetical era as "the dawn of eternity." <a id="s40_419"></a>[UB 31:9.3](/en/The_Urantia_Book/31#p9_3) It provides a conceptual starting point for a consideration of the beginnings of cosmic history. As we understand the usage of the term, "the dawn of eternity" designates the hypothetical beginning of a universe age that had no beginning – the age of Havona.
+In our study of the antecedents of the master universe ([Appendix I](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1)), we went as far back in past eternity as we could – back to, and within, a hypothetical Zero Age. There never was such an age; it is not a factual reality, although it is a very valid concept. The Papers speak of this hypothetical era as “the dawn of eternity.” <a id="s40_419"></a>[UB 31:9.3](/en/The_Urantia_Book/31#p9_3) It provides a conceptual starting point for a consideration of the beginnings of cosmic history. As we understand the usage of the term, “the dawn of eternity” designates the hypothetical beginning of a universe age that had no beginning – the age of Havona.
 
 - (a) _The First Universe Age._ This is the age of Havona. The First Age, like the central universe, is a past eternal; it has no beginning in time. This age is unique in other respects: It is pre-supreme and pre-ultimate, hence, pre-experiential. <a id="s42_248"></a>[UB 0:9.5](/en/The_Urantia_Book/0#p9_5) Being pre-experiential, the First Age is wholly existential. <a id="s42_349"></a>[UB 0:7.2](/en/The_Urantia_Book/0#p7_2) It is the only such age.
-  The First Universe Age would also appear to be pre-creative and pre-evolutional. For example: the Havona natives are spoken of as "the offspring of the Paradise Trinity." But, in the same paragraph, they are designated as "beings who never were created." <a id="s43_257"></a>[UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Since the affairs of First-Age Havona were entirely existential, they would have to be pre-evolutional. (See also, [Appendix I § 1, The First Universe Age](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-the-first-universe-age); [Appendix VI § 3, Paradoxes in the Status of Havona](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-in-the-status-of-havona), and [§ 4, The Existential Mechanism](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-the-existential-mechanism).)
+  The First Universe Age would also appear to be pre-creative and pre-evolutional. For example: the Havona natives are spoken of as “the offspring of the Paradise Trinity.” But, in the same paragraph, they are designated as “beings who never were created.” <a id="s43_257"></a>[UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Since the affairs of First-Age Havona were entirely existential, they would have to be pre-evolutional. (See also, [Appendix I § 1, The First Universe Age](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_1#h-1-the-first-universe-age); [Appendix VI § 3, Paradoxes in the Status of Havona](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-3-paradoxes-in-the-status-of-havona), and [§ 4, The Existential Mechanism](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_6#h-4-the-existential-mechanism).)
   The First Universe Age had no beginning, but it does have an ending. It ended when the present universe age began. Perhaps this was at the time of the creation of the Ancients of Days <a id="s44_186"></a>[UB 18:3.4](/en/The_Urantia_Book/18#p3_4), or the time of the Trinity mandate directing the organization of the seven superuniverses. <a id="s44_320"></a>[UB 19:7.1](/en/The_Urantia_Book/19#p7_1)
 - (b) _The post-Havona ages._ This term is often used to designate the five ages that follow the age of Havona. It is used because these five ages have much in common. All five have beginnings and endings in time; only the First Age is a past eternal.
   All post-Havona ages are experiential. Experiential deity is actualizing in the post-Havona epochs of the master universe. <a id="s46_125"></a>[UB 0:7.1](/en/The_Urantia_Book/0#p7_1) These ages appear to be characterized by a two-way procession of ascenders and descenders. In the present universe age, the Supreme Creators and their associates are descending from Paradise to the time-space creations and the evolutionary creatures are ascending from these same creations in the Paradise ascent. <a id="s46_479"></a>[UB 115:6.5](/en/The_Urantia_Book/115#p6_5) In the next age, the finaliters will be associated with others who will serve in outer space <a id="s46_616"></a>[UB 31:10.11](/en/The_Urantia_Book/31#p10_11) and it is anticipated that outer-spacers will be ascending to Paradise through the perfected superuniverses. <a id="s46_771"></a>[UB 56:7.9](/en/The_Urantia_Book/56#p7_9)
 - (c) _The Second Universe age._ This is the present age, the age of the evolutionary superuniverses. This age is also unique – it is the age of the evolutionary growth of the Supreme Being. When he has completed his growth, this age will come to its end and the opportunity to participate in this wonderful experience will be forever gone. <a id="s47_341"></a>[UB 31:10.12](/en/The_Urantia_Book/31#p10_12) In the Second Age it is possible to have finite experience and grow by the evolutionary process; subsequent ages will not be able to participate in these adventures. <a id="s47_553"></a>[UB 31:10.11](/en/The_Urantia_Book/31#p10_11)
-- (d) _The expansion of destiny._ The successive ages expand destiny; they provide the techniques for overriding previous growth limits. For example: First-Age Havona is a perfect universe and is a "perfection-limited" universe. In the Second Age, the present age, Havona perfection expands outward into the imperfect superuniverses to achieve new experiential destiny.
+- (d) _The expansion of destiny._ The successive ages expand destiny; they provide the techniques for overriding previous growth limits. For example: First-Age Havona is a perfect universe and is a “perfection-limited” universe. In the Second Age, the present age, Havona perfection expands outward into the imperfect superuniverses to achieve new experiential destiny.
 
 ## § 2. Experiential Deity in successive ages
 
@@ -95,7 +95,7 @@ _The Experiential Trinities_
 
 _God the Ultimate_
 
-> <a id="s97_2"></a>[UB 106:4.3](/en/The_Urantia_Book/106#p4_3) The Ultimate is present in Havona but "in the absonite and superpersonal sense."
+> <a id="s97_2"></a>[UB 106:4.3](/en/The_Urantia_Book/106#p4_3) The Ultimate is present in Havona but “in the absonite and superpersonal sense.”
 > 
 > <a id="s99_2"></a>[UB 27:7.10](/en/The_Urantia_Book/27#p7_10) When mortals enter the finaliter corps they face the challenge of God the Ultimate.
 
@@ -131,7 +131,7 @@ _The Supreme Being_
 > 
 > <a id="s131_2"></a>[UB 116:0.5](/en/The_Urantia_Book/116#p0_5) The tertiary function of the Supreme is master-universe in scope, and three speculations are offered in the Papers concerning this future function:
 > 
-> (ibid) (a) The tertiary phase of Supremacy will have something to do with the "third level of Deity manifestation."
+> (ibid) (a) The tertiary phase of Supremacy will have something to do with the “third level of Deity manifestation.”
 > 
 > <a id="s135_2"></a>[UB 0:2.18](/en/The_Urantia_Book/0#p2_18) Note: The third level of Deity manifestation has something to do with God the Absolute.
 > 
@@ -180,7 +180,7 @@ The Papers have the following general comments to make with reference to the fun
 > 
 > <a id="s180_2"></a>[UB 56:7.6](/en/The_Urantia_Book/56#p7_6) The ages of light and life will bring an enlarged function of the Supreme Being, with a corresponding lessening of the activities of the Supreme Creators.
 > 
-> <a id="s182_2"></a>[UB 56:7.6](/en/The_Urantia_Book/56#p7_6) Are the Supreme Creators to be displaced ". . . if God the Supreme assumes direct control . . ." of the grand universe?
+> <a id="s182_2"></a>[UB 56:7.6](/en/The_Urantia_Book/56#p7_6) Are the Supreme Creators to be displaced “. . . if God the Supreme assumes direct control . . .” of the grand universe?
 > 
 > (ibid) If so, are the Supreme Creators destined to service in the outer space universes?
 
@@ -207,13 +207,13 @@ Deduction: This may change in future ages.
 
 > <a id="s207_2"></a>[UB 16:0.11](/en/The_Urantia_Book/16#p0_11) The diverse natures of the Master Spirits have conditioned the organizations of the superuniverses. The segments of outer space that are correlated with the superuniverses will also be conditioned by the diverse natures of the Master Spirits.
 > 
-> <a id="s209_2"></a>[UB 13:4.6](/en/The_Urantia_Book/13#p4_6) The seven worlds of the Spirit are ". . . head­quarters of the seven superuniverses and their correlated segments in outer space."
+> <a id="s209_2"></a>[UB 13:4.6](/en/The_Urantia_Book/13#p4_6) The seven worlds of the Spirit are “. . . head­quarters of the seven superuniverses and their correlated segments in outer space.”
 
 Deduction: These seven worlds are the headquarters worlds of the Master Spirits <a id="s211_80"></a>[UB 13:4.2](/en/The_Urantia_Book/13#p4_2), and are the residential spheres for the Seven Supreme Executives. <a id="s211_189"></a>[UB 17:1.1](/en/The_Urantia_Book/17#p1_1) The Master Spirits are concerned with, and will be functional in, the outer space universes; and so, in all likelihood, will their administrative lieutenants, the Supreme Executives.
 
 ### § 3. B. The Ancients Of Days in successive ages
 
-> <a id="s215_2"></a>[UB 18:3.9](/en/The_Urantia_Book/18#p3_9) During the present age of the incomplete emergence of the Supreme, the Ancients of Days provide a "perfect administrative overcontrol" of the evolutionary local creations.
+> <a id="s215_2"></a>[UB 18:3.9](/en/The_Urantia_Book/18#p3_9) During the present age of the incomplete emergence of the Supreme, the Ancients of Days provide a “perfect administrative overcontrol” of the evolutionary local creations.
 > 
 > <a id="s217_2"></a>[UB 0:8.11](/en/The_Urantia_Book/0#p8_11) The Ancients of Days are probably going to remain in the grand universe as permanent administrators.
 > 
@@ -233,7 +233,7 @@ Deduction: This relationship is being consummated in the local universes by the 
 > 
 > <a id="s233_2"></a>[UB 13:1.7](/en/The_Urantia_Book/13#p1_7) Creator Sons, of origin in the Father and Son, have residential status on Sonarington (the world of the Son) in the present universe age.
 > 
-> <a id="s235_2"></a>[UB 22:7.10](/en/The_Urantia_Book/22#p7_10) The corps of the Creator Sons have their "secret colleges" on Vicegerington, the world of the Father and the Son.
+> <a id="s235_2"></a>[UB 22:7.10](/en/The_Urantia_Book/22#p7_10) The corps of the Creator Sons have their “secret colleges” on Vicegerington, the world of the Father and the Son.
 
 Deduction: Creator Sons (of origin in the Father-Son), at least the Master Michaels, may possibly change their status sphere from Sonarington (the world of the Son) to Vicegerington (the world of the Father-Son) in some future age.
 
@@ -259,7 +259,7 @@ We will, accordingly, examine the central universe from these four perspectives:
 
 > <a id="s259_2"></a>[UB 106:0.8](/en/The_Urantia_Book/106#p0_8) There were no evolutionary changes in Havona during the first universe age.
 > 
-> <a id="s261_2"></a>[UB 118:0.13](/en/The_Urantia_Book/118#p0_13) Havona was a "perfect but perfection-limited creation."
+> <a id="s261_2"></a>[UB 118:0.13](/en/The_Urantia_Book/118#p0_13) Havona was a “perfect but perfection-limited creation.”
 > 
 > <a id="s263_2"></a>[UB 117:2.3](/en/The_Urantia_Book/117#p2_3) Concerning the growth status of creatures: a contrast is made between non-growing (stationary) beings whose growth status is as of the First Age, and others, who do grow and whose status is as of the Second Age.
 > 
@@ -315,13 +315,13 @@ Deduction: Havona will be functioning as an absonite training universe in the po
 
 This is a post master-universe age. This is the Final Age, the age of the conjectured Cosmos Infinite. What will be the relation of the central creation to the developments of this far-distant era?
 
-> <a id="s317_2"></a>[UB 14:6.4](/en/The_Urantia_Book/14#p6_4) Certain activities in Havona are described as "Supreme-Ultimate evolutional."
+> <a id="s317_2"></a>[UB 14:6.4](/en/The_Urantia_Book/14#p6_4) Certain activities in Havona are described as “Supreme-Ultimate evolutional.”
 
 Deduction: Havona will still be a pattern universe of divine perfection in, and to, the master universe in the Final Age. We have deduced the Supreme-Ultimate is an association of Dual-Deity that is post-ultimate, and one which will function in the master universe. <a id="s319_266"></a>[UB 22:7.14](/en/The_Urantia_Book/22#p7_14)
 
 > <a id="s321_2"></a>[UB 14:4.7](/en/The_Urantia_Book/14#p4_7) Besides finite and absonite creatures, Havona harbors beings that are classified as co-absolute and absolute.
 > 
-> <a id="s323_2"></a>[UB 14:6.41](/en/The_Urantia_Book/14#p6_41) (last) The opinion is expressed that the ". . . potentials of eternal Havona are really unlimited . . ." and this divine creation has the capacity to serve as a graduate school for any type of being that may ever appear.
+> <a id="s323_2"></a>[UB 14:6.41](/en/The_Urantia_Book/14#p6_41) (last) The opinion is expressed that the “. . . potentials of eternal Havona are really unlimited . . .” and this divine creation has the capacity to serve as a graduate school for any type of being that may ever appear.
 
 ## § 5. The Superuniverses in successive ages
 
@@ -340,13 +340,13 @@ It may prove helpful to analyze the sequence of events that marked the transitio
 
   > <a id="s340_4"></a>[UB 8:1.9](/en/The_Urantia_Book/8#p1_9) The Third Person eternalized simultaneously with Havona, and since he is eternal, so also is the central universe.
   > 
-  > <a id="s342_4"></a>[UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Like Havona, the Havona natives "never were created."
+  > <a id="s342_4"></a>[UB 14:4.10](/en/The_Urantia_Book/14#p4_10) Like Havona, the Havona natives “never were created.”
 
   Deduction: The original inhabitants of the central universe are without origin — eternal.
 
-- (b) _Terminus of the First Age — before the "near times of eternity"_
+- (b) _Terminus of the First Age — before the “near times of eternity”_
 
-  > <a id="s348_4"></a>[UB 10:2.7](/en/The_Urantia_Book/10#p2_7) When the Infinite Spirit personalized this completed "the existential cycle of Deity personalization," and the next Deity personalizations were not co-ordinate but were subordinate (subabsolute) — the Seven Master Spirits.
+  > <a id="s348_4"></a>[UB 10:2.7](/en/The_Urantia_Book/10#p2_7) When the Infinite Spirit personalized this completed “the existential cycle of Deity personalization,” and the next Deity personalizations were not co-ordinate but were subordinate (subabsolute) — the Seven Master Spirits.
 
   Deduction: The appearance of experientials probably marks the beginning of the end of the First Age. The First Age is existential.
 
@@ -354,25 +354,25 @@ It may prove helpful to analyze the sequence of events that marked the transitio
   > 
   > <a id="s354_4"></a>[UB 17:5.3](/en/The_Urantia_Book/17#p5_3) The Seven Spirits of the Havona Circuits are co-existent with the Seven Master Spirits.
   > 
-  > <a id="s356_4"></a>[UB 26:2.6](/en/The_Urantia_Book/26#p2_6) They are not a part of the original Havona creation. They were created by the Master Spirits, probably in response ". . . to the emerging purpose of the Supreme Being."
+  > <a id="s356_4"></a>[UB 26:2.6](/en/The_Urantia_Book/26#p2_6) They are not a part of the original Havona creation. They were created by the Master Spirits, probably in response “. . . to the emerging purpose of the Supreme Being.”
   > 
-  > <a id="s358_4"></a>[UB 29:0.10](/en/The_Urantia_Book/29#p0_10) Prior to the "near times of eternity" (and the creation of the Power Directors), the Force Organizers had jurisdiction over the energy circuits outside of Havona.
+  > <a id="s358_4"></a>[UB 29:0.10](/en/The_Urantia_Book/29#p0_10) Prior to the “near times of eternity” (and the creation of the Power Directors), the Force Organizers had jurisdiction over the energy circuits outside of Havona.
 
   Deduction: Energy activities were taking place in the superuniverse space level long before the organization of the seven superuniverses.
 
-- (c) _The "near times of eternity" and the "dawn of time"_
+- (c) _The “near times of eternity” and the “dawn of time”_
 
-  > <a id="s364_4"></a>[UB 23:1.1](/en/The_Urantia_Book/23#p1_1) Following the creation of the Spirits of the Circuits in Havona, the Conjoint Actor created the Solitary Messengers. They have existed since the "near times of eternity." They are the first of the creations of the Infinite Spirit to be ". . . conscious of time . . . to be personalized in time and spiritualized in space."
+  > <a id="s364_4"></a>[UB 23:1.1](/en/The_Urantia_Book/23#p1_1) Following the creation of the Spirits of the Circuits in Havona, the Conjoint Actor created the Solitary Messengers. They have existed since the “near times of eternity.” They are the first of the creations of the Infinite Spirit to be “. . . conscious of time . . . to be personalized in time and spiritualized in space.”
   > 
-  > <a id="s366_4"></a>[UB 23:1.3](/en/The_Urantia_Book/23#p1_3) Solitary Messengers appeared "in the dawn of time."
+  > <a id="s366_4"></a>[UB 23:1.3](/en/The_Urantia_Book/23#p1_3) Solitary Messengers appeared “in the dawn of time.”
 
-  Deduction: The "dawn of time" is synonymous with the "near times of eternity."
+  Deduction: The “dawn of time” is synonymous with the “near times of eternity.”
 
-  > <a id="s370_4"></a>[UB 29:0.10](/en/The_Urantia_Book/29#p0_10) The Power Directors (created by the Master Spirits) and the Power Centers have existed since the "near times of eternity."
+  > <a id="s370_4"></a>[UB 29:0.10](/en/The_Urantia_Book/29#p0_10) The Power Directors (created by the Master Spirits) and the Power Centers have existed since the “near times of eternity.”
   > 
   > <a id="s372_4"></a>[UB 17:1.1](/en/The_Urantia_Book/17#p1_1) Probably, at about this point, the Supreme Executives were trinitized by the Paradise Trinity in accordance with the specifications of the Master Spirits.
   > 
-  > <a id="s374_4"></a>[UB 17:2.1](/en/The_Urantia_Book/17#p2_1) The fifty Reflective Spirits (including Majeston) were created "in the dawn of time." The Master Spirits and the Supreme Being participated in this episode.
+  > <a id="s374_4"></a>[UB 17:2.1](/en/The_Urantia_Book/17#p2_1) The fifty Reflective Spirits (including Majeston) were created “in the dawn of time.” The Master Spirits and the Supreme Being participated in this episode.
   > 
   > <a id="s376_4"></a>[UB 19:7.1](/en/The_Urantia_Book/19#p7_1) The last order of Paradise Citizens was created at the time of the Trinity mandate which set forth the plan for the seven superuniverses.
 
@@ -380,17 +380,17 @@ It may prove helpful to analyze the sequence of events that marked the transitio
 
   > <a id="s380_4"></a>[UB 18:3.4](/en/The_Urantia_Book/18#p3_4) The first entry in recorded history on Paradise is the record of the trinitization of the Ancients of Days.
 
-  Deduction: Any creation prior to the Ancients of Days is pre-history and pertains to the "near times of eternity," or to the "dawn of time," or to the First Age.
+  Deduction: Any creation prior to the Ancients of Days is pre-history and pertains to the “near times of eternity,” or to the “dawn of time,” or to the First Age.
 
   > <a id="s384_4"></a>[UB 26:2.6](/en/The_Urantia_Book/26#p2_6) / <a id="s384_48"></a>[UB 17:5.2](/en/The_Urantia_Book/17#p5_2) The Seven Spirits of Havona Circuits were discovered to be in function when the grand universe was organized. They are in liaison with the Supreme Executives and synchronize with the Supreme Being.
   > 
-  > <a id="s386_4"></a>[UB 15:0.2](/en/The_Urantia_Book/15#p0_2) Early in the materialization of the post-Havona creations, they were divided into seven segments and the headquarters world of each superuniverse were constructed. The Ancients of Days have ruled the supercreations from "near eternity."
+  > <a id="s386_4"></a>[UB 15:0.2](/en/The_Urantia_Book/15#p0_2) Early in the materialization of the post-Havona creations, they were divided into seven segments and the headquarters world of each superuniverse were constructed. The Ancients of Days have ruled the supercreations from “near eternity.”
   > 
-  > <a id="s388_4"></a>[UB 116:5.10](/en/The_Urantia_Book/116#p5_10) The first act of collective creation by the Master Spirits resulted in the Seven Supreme Power Directors. Thereupon the spirit circuits of the Master Spirits "differentiated from the physical activities" of the Power Directors. And it was at this point that the cosmic mind appeared ". . . as a new factor co-ordinating matter and spirit."
+  > <a id="s388_4"></a>[UB 116:5.10](/en/The_Urantia_Book/116#p5_10) The first act of collective creation by the Master Spirits resulted in the Seven Supreme Power Directors. Thereupon the spirit circuits of the Master Spirits “differentiated from the physical activities” of the Power Directors. And it was at this point that the cosmic mind appeared “. . . as a new factor co-ordinating matter and spirit.”
   > 
-  > <a id="s390_4"></a>[UB 29:0.10](/en/The_Urantia_Book/29#p0_10) This happened in "the near times of eternity."
+  > <a id="s390_4"></a>[UB 29:0.10](/en/The_Urantia_Book/29#p0_10) This happened in “the near times of eternity.”
   > 
-  > <a id="s392_4"></a>[UB 0:8.12](/en/The_Urantia_Book/0#p8_12) "The function of God the Sevenfold dates from the organization of the seven superuniverses."
+  > <a id="s392_4"></a>[UB 0:8.12](/en/The_Urantia_Book/0#p8_12) “The function of God the Sevenfold dates from the organization of the seven superuniverses.”
 
 ### § 5. B. The Superuniverses in Light And Life
 
@@ -459,7 +459,7 @@ These local creations will, of course, persist when the entire master universe h
 > 
 > <a id="s459_2"></a>[UB 55:3.11](/en/The_Urantia_Book/55#p3_11) Mortals from a world in the third age of light and life have to work on a less advanced world to compensate for their unearned advanced status.
 
-Question: What is done when there are no "less advanced worlds" left?
+Question: What is done when there are no “less advanced worlds” left?
 
 ### § 6. B. Local Universes in the post-Supreme ages
 
@@ -467,7 +467,7 @@ Question: What is done when there are no "less advanced worlds" left?
 > 
 > <a id="s467_2"></a>[UB 36:4.8](/en/The_Urantia_Book/36#p4_8) The Melchizedek Life Carriers teach that their midsonite progeny will sometime be endowed with the spirit of absonity by God the Ultimate.
 > 
-> <a id="s469_2"></a>[UB 65:1.9](/en/The_Urantia_Book/65#p1_9) Life Carriers may attain a "fourth stage being" in which they will be completely spiritual.
+> <a id="s469_2"></a>[UB 65:1.9](/en/The_Urantia_Book/65#p1_9) Life Carriers may attain a “fourth stage being” in which they will be completely spiritual.
 > 
 > <a id="s471_2"></a>[UB 55:6.10](/en/The_Urantia_Book/55#p6_10) Will Third-Age mortals still enter the finaliter corps?
 > 
@@ -492,7 +492,7 @@ It will be convenient to group the citations relative to the study of the trinit
 
 Before considering the sons of this order, we might look at a statement that applies to all trinitizing parents:
 
-> <a id="s494_2"></a>[UB 22:7.7](/en/The_Urantia_Book/22#p7_7) The trinitizing beings become as one spiritually. This is described as a kind of ". . . biunification of certain spiritual phases of personality." This unification will dissolve when the Supreme Being has completed his growth.
+> <a id="s494_2"></a>[UB 22:7.7](/en/The_Urantia_Book/22#p7_7) The trinitizing beings become as one spiritually. This is described as a kind of “. . . biunification of certain spiritual phases of personality.” This unification will dissolve when the Supreme Being has completed his growth.
 
 Now, we may give consideration to the creature-trinitized sons:
 
@@ -502,7 +502,7 @@ Now, we may give consideration to the creature-trinitized sons:
 
 > <a id="s502_2"></a>[UB 22:7.14](/en/The_Urantia_Book/22#p7_14) These sons personify concepts that transcend the creational limits of the present age.
 > 
-> <a id="s504_2"></a>[UB 22:7.10](/en/The_Urantia_Book/22#p7_10) They embody "ideas, ideals, and experience" which have to do with the post-supreme ages and are therefore of no value in the present age.
+> <a id="s504_2"></a>[UB 22:7.10](/en/The_Urantia_Book/22#p7_10) They embody “ideas, ideals, and experience” which have to do with the post-supreme ages and are therefore of no value in the present age.
 > 
 > (ibid) They are all being held on Vicegerington.
 > 
@@ -517,7 +517,7 @@ We will group our citations relative to the study of finaliters in the successiv
 
 ### § 8. A. Finaliters in the Second Age
 
-> <a id="s519_2"></a>[UB 117:5.3](/en/The_Urantia_Book/117#p5_3) When ascenders enter the Corps of the Finality, they achieve a new relationship to the spirit-gravity circuit of the Eternal Son. This process is known as "finaliter transcendation." There is something in this transaction that qualifies the finaliters for ". . . experiential recognition as personalities of God the Supreme."
+> <a id="s519_2"></a>[UB 117:5.3](/en/The_Urantia_Book/117#p5_3) When ascenders enter the Corps of the Finality, they achieve a new relationship to the spirit-gravity circuit of the Eternal Son. This process is known as “finaliter transcendation.” There is something in this transaction that qualifies the finaliters for “. . . experiential recognition as personalities of God the Supreme.”
 > 
 > <a id="s521_2"></a>[UB 107:5.6](/en/The_Urantia_Book/107#p5_6) When mortals become sixth-stage spirits (enter the finaliter corps), they transmute some liaison factor of mind, which becomes a part of Supreme Mind.
 
@@ -533,7 +533,7 @@ Speculation: These two transactions are related in some manner.
 > 
 > <a id="s533_2"></a>[UB 55:10.9](/en/The_Urantia_Book/55#p10_9) They are developing a close relationship with Creator Sons, Creative Spirits, Evening Stars, and Teacher Sons.
 > 
-> <a id="s535_2"></a>[UB 112:1.9](/en/The_Urantia_Book/112#p1_9) Urantia mortals have a type of personality bestowed upon them that contains three dimensions of "self-expression or person-realization" that can be realized on the finite level.
+> <a id="s535_2"></a>[UB 112:1.9](/en/The_Urantia_Book/112#p1_9) Urantia mortals have a type of personality bestowed upon them that contains three dimensions of “self-expression or person-realization” that can be realized on the finite level.
 > 
 > <a id="s537_2"></a>[UB 112:7.1](/en/The_Urantia_Book/112#p7_1) Fusion with the Thought Adjuster adds:
 > - (a) Fixation of divinity quality
@@ -561,7 +561,7 @@ Speculation: These two transactions are related in some manner.
 > 
 > <a id="s561_2"></a>[UB 117:5.4](/en/The_Urantia_Book/117#p5_4) Seventh-stage spirit finaliters will portray God the Supreme in their experiential natures just as Jesus portrayed the Universal Father in his final bestowal.
 > 
-> <a id="s563_2"></a>[UB 112:1.9](/en/The_Urantia_Book/112#p1_9) Urantia mortals have a type of personality bestowed upon them that contains three dimensions of "self-expression or person-realization" that can be realized on the absonite level.
+> <a id="s563_2"></a>[UB 112:1.9](/en/The_Urantia_Book/112#p1_9) Urantia mortals have a type of personality bestowed upon them that contains three dimensions of “self-expression or person-realization” that can be realized on the absonite level.
 
 Deduction: Much of our future growth potential is completely hidden at the present time.
 
@@ -569,13 +569,13 @@ Deduction: Much of our future growth potential is completely hidden at the prese
 
 The post-ultimate age is the Final Age, the age that follows the completion of the entire master universe and the final emergence of God the Ultimate. This is the unending age of the Cosmos Infinite, the age of post-absonite (absolute) growth.
 
-> <a id="s571_2"></a>[UB 112:1.9](/en/The_Urantia_Book/112#p1_9) Mortals have a type of personality bestowed upon them that contains a (seventh and) supreme dimension that is an "associable absolute" and, though it is not infinite, still it has the potential "for subinfinite penetration of the absolute."
+> <a id="s571_2"></a>[UB 112:1.9](/en/The_Urantia_Book/112#p1_9) Mortals have a type of personality bestowed upon them that contains a (seventh and) supreme dimension that is an “associable absolute” and, though it is not infinite, still it has the potential “for subinfinite penetration of the absolute.”
 > 
-> <a id="s573_2"></a>[UB 112:7.1](/en/The_Urantia_Book/112#p7_1) Fusion with a Thought Adjuster adds "a phase of qualified potential absoluteness."
+> <a id="s573_2"></a>[UB 112:7.1](/en/The_Urantia_Book/112#p7_1) Fusion with a Thought Adjuster adds “a phase of qualified potential absoluteness.”
 
 Deduction: Finaliters have the capacity to continue to grow in the post-ultimate age of the Cosmos Infinite. There is nothing that can stop their continuing growth.
 
-> <a id="s577_2"></a>[UB 106:0.8](/en/The_Urantia_Book/106#p0_8) Absolute existences may ". . . involve some degree of associative experiential attainment . . ." — perhaps through the contact potential of personality.
+> <a id="s577_2"></a>[UB 106:0.8](/en/The_Urantia_Book/106#p0_8) Absolute existences may “. . . involve some degree of associative experiential attainment . . .” — perhaps through the contact potential of personality.
 > 
 > <a id="s579_2"></a>[UB 107:1.6](/en/The_Urantia_Book/107#p1_6) Adjusters are the gift of the Absolute God to those who may possibly find God the Absolute.
 > 

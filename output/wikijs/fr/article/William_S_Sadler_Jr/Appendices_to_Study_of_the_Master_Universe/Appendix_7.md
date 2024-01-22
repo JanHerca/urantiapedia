@@ -39,33 +39,33 @@ Dans l’appendice suivant, «Techniques Transformatrices» , nous examinerons c
 
 En dernière analyse, tout ce qui est réel (au moins toute réalité expérientielle) vient des sept Absolus d’Infinité [LU 0:3.1)](/fr/The_Urantia_Book/0#p3_1).
 
-Il y a différentes façons de classer ces Absolus. L’une d’entre elles est de les classer dans trois catégories: l’Originel, l’Actuel et le Potentiel [LU 115:5.8](/fr/The_Urantia_Book/115#p5_8). On nous dit [LU 115:5.9](/fr/The_Urantia_Book/115#p5_9) que l’interaction de l’Originel, de l’Actuel et du Potentiel rend compte de la croissance sur tous les niveaux – Septuple, Suprême et Ultime. Nous considérerons donc ces Absolus comme suit:
+Il y a différentes façons de classer ces Absolus. L’une d’entre elles est de les classer dans trois catégories: l’Originel, l’Actuel et le Potentiel [LU 115:3.5](/fr/The_Urantia_Book/115#p3_5). On nous dit [LU 115:3.9](/fr/The_Urantia_Book/115#p3_9) que l’interaction de l’Originel, de l’Actuel et du Potentiel rend compte de la croissance sur tous les niveaux – Septuple, Suprême et Ultime. Nous considérerons donc ces Absolus comme suit:
 
 (a) _L’Originel_
 
 > [LU 115:5.6](/fr/The_Urantia_Book/115#p5_6). La Source-Centre Première, la source d’où toute réalité prend origine.
 > 
-> [LU 115:5.11](/fr/The_Urantia_Book/115#p5_11). Ce qui est (un concept temporel de l’Originel).
+> [LU 115:3.11](/fr/The_Urantia_Book/115#p3_11). Ce qui est (un concept temporel de l’Originel).
 > 
-> [LU 115:5.12](/fr/The_Urantia_Book/115#p5_12). Ce qui équilibre tous les mouvements de croissance centrifuges et centripètes.
+> [LU 115:3.12](/fr/The_Urantia_Book/115#p3_12). Ce qui équilibre tous les mouvements de croissance centrifuges et centripètes.
 
 L’Originel est quelque chose qui n’est vraiment classé ni comme Actuel ni comme Potentiel. L’Originel est à la fois la source de l’Actuel et du Potentiel. L’Originel est, en lui-même et de lui-même, à la fois actuel et potentiel – bien que n’étant ni l’un ni l’autre, il est l’Originel !
 
 (b) _L’Actuel_
 
-> [LU 115:5.7](/fr/The_Urantia_Book/115#p5_7). Les trois Absolus d’Actualité:Le Fils Éternel, l’Esprit Infini et l’Ile du Paradis.
+> [LU 115:3.7](/fr/The_Urantia_Book/115#p3_7). Les trois Absolus d’Actualité:Le Fils Éternel, l’Esprit Infini et l’Ile du Paradis.
 > 
 > [LU 104:5.2](/fr/The_Urantia_Book/104#p5_2). La triodité d’Actualité: Le Fils, l’Esprit et l’Ile du Paradis.
 > 
 > (ibid) La totalité de toute réalité actualisée: la matière, le mental et l’esprit.
 > 
-> [LU 115:5.10](/fr/The_Urantia_Book/115#p5_10). La triodité dans laquelle l’actualité est absolue ; tous les potentiels sont émergents.
+> [LU 115:3.10](/fr/The_Urantia_Book/115#p3_10). La triodité dans laquelle l’actualité est absolue ; tous les potentiels sont émergents.
 > 
 > [LU 12:3.1](/fr/The_Urantia_Book/12#p3_1). Le contrôle de gravité sur l’esprit, le mental et la matière convergeant respectivement dans le Fils, dans l’Esprit et dans l’Ile du Paradis.
 > 
-> [LU 115:5.11](/fr/The_Urantia_Book/115#p5_11). _Les actuels sont définis en tant que_: comme ce qui fut et ce qui est (c’est le concept temporel des actuels).
+> [LU 115:3.11](/fr/The_Urantia_Book/115#p3_11). _Les actuels sont définis en tant que_: comme ce qui fut et ce qui est (c’est le concept temporel des actuels).
 > 
-> [LU 115:5.12](/fr/The_Urantia_Book/115#p5_12). L’actualité est substance – elle existe au centre et s’étend à la périphérie vers l’extérieur dans l’infinité.
+> [LU 115:3.12](/fr/The_Urantia_Book/115#p3_12). L’actualité est substance – elle existe au centre et s’étend à la périphérie vers l’extérieur dans l’infinité.
 
 L’Actuel contient le Fils Éternel, l’Esprit Infini et l’Ile du Paradis. Ce sont les Centres respectifs de tout esprit, de tout mental et de toute énergie physique. Tout actuel et toute réalité s’actualisant sont liés à ces trois Centres de gravité et sont maintenus en sécurité dans l’étreinte d’un (ou de plusieurs) des trois circuits de gravité – spirituel, mental ou matériel. Ces trois Sources-Centres, quand elles sont associées en fonction, sont appelées la triodité d’Actualité.
 
@@ -94,11 +94,11 @@ Le Potentiel est composé des trois Absolus: l’Absolu de Déité, l’Absolu U
 
 La croissance dans le maitre univers est un processus subabsolu ; elle a lieu sur le niveau fini (dans le temps et l’espace) et sur le niveau absonite (dans l’espace-temps transcendé). Cela signifie que quelque chose, ou quelqu’un, doit opérer sur les potentiels des Absolus de façon à les amener au point où ils répondront aux actions des êtres subabsolus fonctionnant sur les niveaux subabsolus. Les affirmations suivantes, concernant ce processus, se trouvent dans les fascicules:
 
-> [LU 115:5.13](/fr/The_Urantia_Book/115#p5_13). Le Potentiel (les trois Absolus) ne fonctionne jamais comme tel sur les niveaux subabsolus.
+> [LU 115:3.13](/fr/The_Urantia_Book/115#p3_13). Le Potentiel (les trois Absolus) ne fonctionne jamais comme tel sur les niveaux subabsolus.
 > 
 > [LU 12:6.6](/fr/The_Urantia_Book/12#p6_6). Les accomplissements de la présence des Absolus et les activités de l’Ultime précèdent toujours le travail des créateurs spatio-temporels.
 > 
-> [LU 12:6.14](/fr/The_Urantia_Book/12#p6_14). Dans le maitre univers, l’Ultime élabore «l’organisation créatrice» des absolus de Potentialité.
+> [LU 12:6.13](/fr/The_Urantia_Book/12#p6_13). Dans le maitre univers, l’Ultime élabore «l’organisation créatrice» des absolus de Potentialité.
 > 
 > [LU 117:3.2](/fr/The_Urantia_Book/117#p3_2). L’Être Suprême est le canal qui conduit le potentiel créatif des triodités jusqu’au niveau fini, et c’est la source à partir de laquelle les superunivers et leurs habitants sont créés.
 > 
@@ -163,7 +163,7 @@ La croissance évolutionnaire, telle que nous la connaissons, est une condition 
 Le modèle de croissance du Suprême évolutionnaire pénètre-t-il tout le grand univers du présent âge ? La réponse générale à cette question pourrait être «oui». Mais, si nous demandons: «Y a-t-il des exceptions ?» La réponse sera aussi «oui».
 
 Les habitants du grand univers présent semblent être classés en quatre divisions majeures par rapport à la croissance évolutionnaire typique caractéristique du deuxième âge – la croissance avec l’Être Suprême et dans l’Être Suprême.
-- (a) _Statut du précédent âge de l’univers._ Les êtres classés dans cette catégorie incluent de nombreux êtres d’origine trinitaire – tels les Fils Stationnaires de la Trinité — et leurs associés embrassés par la Trinité. Ces êtres sont en dehors de la sphère de croissance évolutionnaire ; ni les Conseillers Divins ni les Puissants Messagers ne croissent [LU 117:12.4](/fr/The_Urantia_Book/117#p12_4).
+- (a) _Statut du précédent âge de l’univers._ Les êtres classés dans cette catégorie incluent de nombreux êtres d’origine trinitaire – tels les Fils Stationnaires de la Trinité — et leurs associés embrassés par la Trinité. Ces êtres sont en dehors de la sphère de croissance évolutionnaire ; ni les Conseillers Divins ni les Puissants Messagers ne croissent [LU 117:2.4](/fr/The_Urantia_Book/117#p2_4).
 - (b) _Statut du présent âge de l’univers._ Cette catégorie inclut évidemment la plupart des personnalités des sept superunivers – des créatures telles que les êtres humains, les médians, les séraphins et d’autres encore – des êtres qui sont dans le présent âge et du présent âge, et qui participent pleinement à la croissance évolutionnaire de l’Être Suprême [LU 117:2.5](/fr/The_Urantia_Book/117#p2_5). Cette classification comprend aussi des créateurs, tels que les Fils et les Esprits des Univers locaux [LU 116:4.8](/fr/The_Urantia_Book/116#p4_8). Et, finalement, ce groupe comprend même des êtres venant de l’univers central, tels que les natifs de Havona, qui sont devenus des participants au cycle de croissance du deuxième âge de l’univers [LU 14:4.15](/fr/The_Urantia_Book/14#p4_15) et [LU 31:1.2](/fr/The_Urantia_Book/31#p1_2).
 - (c\) _Statut des âges post-suprême._ Les êtres de cette catégorie comprennent les fils trinitisés par des créatures ; ils sont dans le présent âge de l’univers, mais ils ne sont pas du présent âge de l’univers. Ils ne croissent pas dans le présent âge, étant tenus en réserve pour une croissance d’une nature post-suprême dans les âges futurs [LU 22:7.11](/fr/The_Urantia_Book/22#p7_11) ; [LU 22:8.6](/fr/The_Urantia_Book/22#p8_6) ; [LU 117:2.3](/fr/The_Urantia_Book/117#p2_3).
 - (d) _Statut de l’âge post-ultime._ Les seuls êtres que nous connaissons dans cette catégorie sont les Fils de la Destinée Trinitisés. Ce sont des supercréatures (donc post-ultime) et représentent un niveau de valeurs dans le maitre univers, ayant un lien avec la fonction future du Suprême-Ultime dans la maitresse création [LU 22:7.14](/fr/The_Urantia_Book/22#p7_14). La nature de ces Fils de la Destinée est tellement éloignée des affaires présentes du grand univers qu’ils sont exclus de toutes les activités y afférentes et qu’ils sont tenus en réserve sur Vicegerington [LU 22:7.10](/fr/The_Urantia_Book/22#p7_10).
@@ -198,9 +198,9 @@ Nous pouvons récapituler notre étude des fonctions de l’actuel et du potenti
 
 > [LU 115:3.13](/fr/The_Urantia_Book/115#p3_13). Le Potentiel (les trois Absolus) ne fonctionne jamais comme tel sur les niveaux subabsolus.
 > 
-> [LU 112:6.6](/fr/The_Urantia_Book/112#p6_6). Les accomplissements de la présence des Absolus et les activités de l’Ultime précèdent toujours le travail des créateurs de l’espace-temps.
+> [LU 12:6.6](/fr/The_Urantia_Book/12#p6_6). Les accomplissements de la présence des Absolus et les activités de l’Ultime précèdent toujours le travail des créateurs de l’espace-temps.
 > 
-> [LU 112:6.13](/fr/The_Urantia_Book/112#p6_13). Dans le maitre univers, l’Ultime élabore «l’organisation créatrice» des Absolus de Potentialité.
+> [LU 12:6.13](/fr/The_Urantia_Book/12#p6_13). Dans le maitre univers, l’Ultime élabore «l’organisation créatrice» des Absolus de Potentialité.
 
 Tant de choses sont caractéristiques du présent âge de l’univers et semblent rester inchangées par l’émergence du Suprême, mais –
 

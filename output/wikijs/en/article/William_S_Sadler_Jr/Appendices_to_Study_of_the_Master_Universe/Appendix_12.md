@@ -24,7 +24,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
   </table>
 </figure>
 
-God the Sevenfold began to function when the seven superuniverses were organized. This function "will probably expand" with the opening of the outer space levels and the inauguration of the absonite quest for deity. <a id="s26_216"></a>[UB 0:8.12](/en/The_Urantia_Book/0#p8_12) What meaning should we attach to the phrase, "will probably expand?" Certainly, this must mean a functional expansion from the grand universe into the outer space creations. This is a quantitative expansion. Does it also mean qualitative expansion? If the seven levels of God the Sevenfold now provide for the finite approach to deity, will additional levels to be required for the absonite approach?
+God the Sevenfold began to function when the seven superuniverses were organized. This function “will probably expand” with the opening of the outer space levels and the inauguration of the absonite quest for deity. <a id="s26_216"></a>[UB 0:8.12](/en/The_Urantia_Book/0#p8_12) What meaning should we attach to the phrase, “will probably expand?” Certainly, this must mean a functional expansion from the grand universe into the outer space creations. This is a quantitative expansion. Does it also mean qualitative expansion? If the seven levels of God the Sevenfold now provide for the finite approach to deity, will additional levels to be required for the absonite approach?
 
 ## § 1. Present constitution of God The Sevenfold
 
@@ -44,7 +44,7 @@ This dual relationship of spiritual ministry and physical control is unified exi
 
 ## § 2. Is there a mind aspect of God The Sevenfold?
 
-The Papers tell us that man's relationship to the Sevenfold is a matter of making contact with the "personal and spiritual divinity" of God the Sevenfold. <a id="s46_155"></a>[UB 106:1.4](/en/The_Urantia_Book/106#p1_4) We are also informed there are other aspects of the Sevenfold that are not concerned with our universe progression, and all of these phases of the Sevenfold are going to be integrated in the Supreme. The Sevenfold Controllers must represent one such non-spiritual phase of the Sevenfold. Is it possible that there is a third phase, a mind phase, of the Sevenfold? Consider the following:
+The Papers tell us that man's relationship to the Sevenfold is a matter of making contact with the “personal and spiritual divinity” of God the Sevenfold. <a id="s46_155"></a>[UB 106:1.4](/en/The_Urantia_Book/106#p1_4) We are also informed there are other aspects of the Sevenfold that are not concerned with our universe progression, and all of these phases of the Sevenfold are going to be integrated in the Supreme. The Sevenfold Controllers must represent one such non-spiritual phase of the Sevenfold. Is it possible that there is a third phase, a mind phase, of the Sevenfold? Consider the following:
 
 > <a id="s48_2"></a>[UB 42:10.3](/en/The_Urantia_Book/42#p10_3) 1. The Master Physical Controllers, pre-Adjutant Mind.
 > 

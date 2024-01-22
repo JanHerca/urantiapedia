@@ -58,7 +58,7 @@ Les natures diverses des Sept Maitres Esprits déterminent la division du niveau
 
 Au temps présent, les sept superunivers sont entièrement «isolés les uns des autres» [LU 15:10.23](/fr/The_Urantia_Book/15#p10_23). Quand ils seront ancrés dans la lumière et la vie, on prévoit qu’ils seront dirigés comme une seule unité par l’Être Suprême, et que leurs frontières seront entièrement supprimées [LU 117:7.16](/fr/The_Urantia_Book/117#p7_16). Il en résultera le mélange des sept cultures. Nous avons ici une autre application du principe de Divergence-Convergence. (Les fascicules nous donnent aussi [LU 64:6.31](/fr/The_Urantia_Book/64#p6_31) un autre exemple de ce même principe: sur les mondes habités, les six cultures des races évolutionnaires sont d’abord séparées et elles se fondent ensuite avec la septième – la culture Adamique.)
 
-On croit que, dans le futur, après l’émergence de l’Être Suprême, les Maitres Esprits continueront à résider dans le grand univers [LU 0:10.11](/fr/The_Urantia_Book/0#p10_11), mais il n’est pas certain qu’ils continueront à diriger les superunivers [LU 56:7.9](/fr/The_Urantia_Book/56#p7_9).
+On croit que, dans le futur, après l’émergence de l’Être Suprême, les Maitres Esprits continueront à résider dans le grand univers [LU 0:8.11](/fr/The_Urantia_Book/0#p8_11), mais il n’est pas certain qu’ils continueront à diriger les superunivers [LU 56:7.9](/fr/The_Urantia_Book/56#p7_9).
 
 ## § 4. Administration du Niveau d’Espace Primaire
 
