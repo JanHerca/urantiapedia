@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 7 No. 7 - Septiembre de 1986"
+título: "Boletín Six-0-Six - Volumen 7 Núm. 7 - Septiembre de 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1986 Madeline Noordzy, Neil Francey, Henry Begemann, Ken Glasziou<br>© 1986 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-7-septiembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 7 Septiembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/The_Tapestry_Or_Loving_Service">
+          <span class="pr-2">El tapiz o servicio amoroso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -115,7 +136,7 @@ Ian Esmore, Melbourne.
 
 ## El pensamiento del mes
 
-> La religión de Jesús trasciende todos nuestros conceptos anteriores sobre la idea de la adoración, en el sentido de que no solamente describe a su Padre como el ideal de la realidad infinita, sino que declara categóricamente que esta fuente divina de los valores y el centro eterno del universo es verdadera y personalmente accesible para toda criatura mortal que elija entrar en el reino de los cielos en la Tierra, reconociendo así que acepta la filiación con Dios y la fraternidad con el hombre. Sugiero que éste es el concepto más elevado de la religión que el mundo haya conocido jamás, y declaro que nunca puede haber uno superior puesto que este evangelio abarca la infinidad de las realidades, la divinidad de los valores y la eternidad de los logros universales. Un concepto así constituye la realización de la experiencia del idealismo de lo supremo y de lo último. ([LU 160:5.7](/es/The_Urantia_Book/160#p5_7))
+> La religión de Jesús trasciende todos nuestros conceptos anteriores sobre la idea de la adoración, en el sentido de que no solamente describe a su Padre como el ideal de la realidad infinita, sino que declara categóricamente que esta fuente divina de los valores y el centro eterno del universo es verdadera y personalmente accesible para toda criatura mortal que elija entrar en el reino de los cielos en la Tierra, reconociendo así que acepta la filiación con Dios y la fraternidad con el hombre. Sugiero que éste es el concepto más elevado de la religión que el mundo haya conocido jamás, y declaro que nunca puede haber uno superior puesto que este evangelio abarca la infinidad de las realidades, la divinidad de los valores y la eternidad de los logros universales. Un concepto así constituye la realización de la experiencia del idealismo de lo supremo y de lo último. (<a id="a138_879"></a>[LU 160:5.7](/es/The_Urantia_Book/160#p5_7))
 
 ## Primavera
 
@@ -123,7 +144,7 @@ Un estudio del futuro
 
 Ahora que están apareciendo «profecías» entre los creyentes en _El Libro de URANTIA_, puede ser oportuno y útil estudiar más profundamente lo que nuestro libro dice sobre el futuro relativamente cercano.
 
-Las cosas más significativas que Jesús dijo al respecto se encuentran en la sección 2 del documento 176. El [LU 176:2.3](/es/The_Urantia_Book/176#p2_3) dijo: «Las cosas que ahora despreciáis están llegando a su fin, pero este será un nuevo comienzo, a partir del cual el evangelio del reino irá a todo el mundo y esta salvación extenderse a todos los pueblos. Y cuando el reino haya llegado a su plenitud, tened por seguro que el Padre que está en el cielo no dejará de visitaros con una revelación ampliada de la verdad...»
+Las cosas más significativas que Jesús dijo al respecto se encuentran en la sección 2 del documento 176. El <a id="a146_108"></a>[LU 176:2.3](/es/The_Urantia_Book/176#p2_3) dijo: «Las cosas que ahora despreciáis están llegando a su fin, pero este será un nuevo comienzo, a partir del cual el evangelio del reino irá a todo el mundo y esta salvación extenderse a todos los pueblos. Y cuando el reino haya llegado a su plenitud, tened por seguro que el Padre que está en el cielo no dejará de visitaros con una revelación ampliada de la verdad...»
 
 Esta «revelación ampliada de la verdad» ya ha aparecido, Los DOCUMENTOS DE URANTIA. El Maestro deja claro que efectivamente se refiere a nuestro libro, porque continúa: «... así como ya ha otorgado a este mundo a aquel que se convirtió en el príncipe de las tinieblas (Caligastia, primera revelación de época), y luego Adán (segunda revelación de época), a quien siguió Melquisedec (tercera revelación de importancia de época), y en estos días, el Hijo del Hombre (cuarta revelación de época)».
 
@@ -253,3 +274,25 @@ Seis millas al sur de Ardmore, OK
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-7-septiembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 7 Septiembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/The_Tapestry_Or_Loving_Service">
+          <span class="pr-2">El tapiz o servicio amoroso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

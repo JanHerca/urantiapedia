@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/More_On_Text_And_Copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre el texto y los derechos de autor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="pr-2">En el mundo real, la desigualdad es natural</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Más comentarios, por Ann Bendall, Nambour, Queensland_
@@ -32,3 +56,28 @@ Una creación humana que satisface las necesidades humanas mediante la utilizaci
 <figcaption>Pobre Harold, siempre dije que esos tres libros lo llevarían al cielo.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/More_On_Text_And_Copyright">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre el texto y los derechos de autor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="pr-2">En el mundo real, la desigualdad es natural</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

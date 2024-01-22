@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Sue Webb<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol10_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 10 Núm. 6 noviembre de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-6-noviembre-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 6 noviembre de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Webb/Towards_Specialization">
+          <span class="pr-2">Hacia la especialización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Como algunos lectores sabrán, celebramos una reunión aquí en Washington el fin de semana del 19 al 20 de agosto. El lugar fue Fairbridge Village, a una hora en coche al sur de Perth.
@@ -33,3 +57,28 @@ Se despidieron a regañadientes con la promesa de volver a encontrarse dentro de
 
 Sue Webb, Yanchep, W.A.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol10_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 10 Núm. 6 noviembre de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-6-noviembre-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 6 noviembre de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Peter_Webb/Towards_Specialization">
+          <span class="pr-2">Hacia la especialización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

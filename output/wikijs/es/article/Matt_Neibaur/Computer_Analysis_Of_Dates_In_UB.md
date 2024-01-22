@@ -1,5 +1,5 @@
 ---
-título: "Análisis informático de las fechas del libro de Urantia"
+título: "Análisis informático de las fechas en el libro de Urantia"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Matt Neibaur<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rob_Crickett/Baptism_Of_The_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bautismo del Espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-4-julio-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 4 Julio de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En 1572, un antiguo profesor de derecho de Bolonia llamado Ugo Buoncompagni se convirtió en Papa Gregorio XIII; diez años después se introdujo el calendario gregoriano. El calendario juliano, fundado dieciséis siglos antes por Julio César, era inexacto y se reconocía ampliamente la necesidad de una reforma. Su principal fallo fue la discrepancia entre la duración media de su año, 365,25 días, y el año tropical, que entonces promediaba 365,24232 días. Esto es casi once minutos y cuatro segundos menos que el año juliano. Esta pequeña discrepancia había seguido acumulándose hasta que ya no era cuestión de minutos sino de días. En el momento de la reforma gregoriana, este error había aumentado a once días. Es comprensible que esto preocupara al Papa; Si el calendario hubiera seguido sin cambios, la Pascua se habría celebrado finalmente en verano.
@@ -36,3 +57,25 @@ Si alguien está interesado en un proyecto de este tipo, puede ponerse en contac
 
 Matt Neibaur, 211 North Roscoe, Ponte Verda Beach, FL, 32082, EE. UU.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rob_Crickett/Baptism_Of_The_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bautismo del Espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-4-julio-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 4 Julio de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

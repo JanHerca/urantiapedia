@@ -1,5 +1,5 @@
 ---
-título: "¿Desinformación en El libro de Urantia?"
+título: "¿Información errónea en El libro de Urantia?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken Glasziou<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Group_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoración en grupo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-2-marzo-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 2 Marzo 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/The_Arrival_Of_God_Into_A_Human_Mind">
+          <span class="pr-2">La llegada de Dios a la mente humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La posibilidad de que _El Libro de URANTIA_ pueda contener información errónea grave se me ocurrió mientras reflexionaba sobre algunas de sus declaraciones sobre aspectos materiales de la materia y sobre acontecimientos históricos que se puede demostrar que son falsos. Permítanme primero afirmar que tengo fe total en que _El Libro de URANTIA_ es lo que dice ser, una revelación que se origina en fuentes divinamente autorizadas.
@@ -27,3 +51,28 @@ Al concedernos incertidumbre, Dios también nos da la oportunidad de tomar la de
 
 Ken Glasziou, Maleny, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Group_worship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Adoración en grupo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-2-marzo-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 2 Marzo 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/The_Arrival_Of_God_Into_A_Human_Mind">
+          <span class="pr-2">La llegada de Dios a la mente humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

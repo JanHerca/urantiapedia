@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Robert Crickett<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los tontos se apresuran y los ángeles tienen que seguirlos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Robert Crickett_
@@ -25,3 +46,25 @@ Y ese podría ser el problema de todo el espectáculo, porque el reino se trata 
 
 Y cuando la donación cesa, o nunca comienza realmente, ¿qué más puede hacer la rama sino marchitarse y marchitarse hasta que el labrador no tenga más remedio que podarla de la vid? ¿Y qué puede decir el labrador? 'Te mostré cómo tener vida. Te mostré la alegría de amar a los demás y de sacar de ellos agua viva para que tú y ambos tengáis vida. ¿Hiciste eso?’ ‘No... pero realmente quería hacerlo.’ ‘¿Estás seguro?’ ‘¡Sí! ¡Sí!’ ‘¿Estás realmente seguro?’ ‘Bueno… er… no… Supongo que nunca he estado seguro de nada. RECORTE.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los tontos se apresuran y los ángeles tienen que seguirlos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

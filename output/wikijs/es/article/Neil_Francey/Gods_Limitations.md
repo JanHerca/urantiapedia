@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Neil Francey<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Spreading_The_Message_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Difundiendo el mensaje</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-4-julio-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Neil Francey_
@@ -57,3 +78,25 @@ Por otra parte, tal vez tal fragmentación esté de acuerdo con el destino previ
 
 Como individuo, me gustaría creer que aunque las ideologías del _Libro de URANTIA_ son sacrosantas, si alguna vez otros asuntos relacionados con ellas se interpusieran entre un amigo y yo, los dejaré a un lado por no tener relevancia cósmica real y abrazaré mi amigo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Spreading_The_Message_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Difundiendo el mensaje</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-4-julio-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

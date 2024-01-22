@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Dr. P. Jensen<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comentario sobre las declaraciones científicas del Libro de Urantia, Parte II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-5-junio-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 5 Junio 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Se puede llamar a Australia un país pagano y salirse con la suya? Aparentemente no, como descubrí cuando intenté este ejercicio a través de los medios recientemente. La gente estaba desconcertada y ofendida.
@@ -61,3 +82,25 @@ Los Evangelios revelan que éste era el mismo problema que perseguía a Jesús. 
 
 Dr. P. Jensen, Moore Theological College, Sydney
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comentario sobre las declaraciones científicas del Libro de Urantia, Parte II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-5-junio-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 5 Junio 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Henry Begemann<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia dentro de 200 años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-1-de-enero-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 1 de enero de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «Personalización» significa en mi opinión: hacer o hacerse personal o una persona. Esto sucede por primera vez cuando el Padre otorga personalidad a un organismo vivo con mente. La personalidad es uno de los misterios fundamentales del universo, pero teniendo su origen en la Primera Fuente y Centro, y siendo capaz de funcionar en el nivel absoluto permaneciendo siempre sin cambios, podemos inferir que esta majestuosa personalidad no se conoce a sí misma, al menos. no completamente. Su carrera universal sirve para realizarse.
@@ -37,3 +58,25 @@ Por supuesto, quedarán preguntas, pero la verdad viva está expandiendo y profu
 
 Henry Begemann, Wassenaar, Países Bajos
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia dentro de 200 años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-1-de-enero-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 1 de enero de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

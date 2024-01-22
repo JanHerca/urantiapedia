@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Dick Bain<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Do_You_Need_A_Pilots_Licence_On_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Necesitas una licencia de piloto en Jerusem?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Blue_Corn/Listening">
+          <span class="pr-2">Escuchando</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bueno, ¿quién hubiera pensado que mi artículo en _Cosmic Reflections_ habría provocado tal alboroto? El hecho es que creo que estás haciendo un servicio a la gente del movimiento URANTIA al airear las ideas de personas como Joe Pope, Sananda, etc., para que la gente esté consciente de estas personas inusuales y sus enseñanzas. Entonces cada persona puede decidir cómo quiere reaccionar.
@@ -25,9 +49,34 @@ Otro problema que veo es la imagen del movimiento. Las impresiones iniciales de 
 
 Pero no sería tan honesto si no mirara la otra cara de la moneda. Algunas personas han llegado a _El Libro de URANTIA_ por caminos poco convencionales, tales como _Un Curso de Milagros_, la Meditación Trascendental, las enseñanzas de Edgar Casey o Yogananda, el estudio y la práctica de las religiones orientales, etc. Debido a que la psicología de las personas difiere, diferentes caminos atraen a a ellos. Las enseñanzas de algunos de los autoproclamados profetas pueden abrir una puerta para algunas personas que los lleve al estudio de _El Libro de URANTIA_. Si el autoproclamado profeta o canalizador no es un explotador, si no utiliza tácticas de miedo, si no intenta construir un culto basado en la personalidad, entonces a veces puede prestar un valioso servicio al movimiento. Recuerdo que Jesús dijo,
 
-> «_En las generaciones por venir, muchos hombres no enteramente dignos harán muchas cosas extrañas en mi nombre, pero no se lo prohibiré._» ([LU 159:2.1](/es/The_Urantia_Book/159#p2_1))
+> «_En las generaciones por venir, muchos hombres no enteramente dignos harán muchas cosas extrañas en mi nombre, pero no se lo prohibiré._» (<a id="a51_142"></a>[LU 159:2.1](/es/The_Urantia_Book/159#p2_1))
 
 Algunas personas en el movimiento pueden hacer cosas extrañas que nos hagan sentir incómodos, pero siempre que estén dando frutos espirituales, debemos darles la bienvenida como hermanos y hermanas espirituales. No tenemos que estar de acuerdo con ellos, pero podemos aceptar estar en desacuerdo agradablemente. Después de todo, ¡no nos gustaría vernos atrapados con piedras en las manos cuando finalmente aparezca un verdadero profeta!
 
 **Dick Bain, San Petersburgo, Florida, EE.UU.**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Do_You_Need_A_Pilots_Licence_On_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Necesitas una licencia de piloto en Jerusem?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Blue_Corn/Listening">
+          <span class="pr-2">Escuchando</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

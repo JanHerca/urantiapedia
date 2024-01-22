@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 No. 2 - Marzo de 1987"
+título: "¿Cuándo fue la fecha de la crucifixión de Miguel?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol8_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 8 Núm. 2 Marzo 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-2-marzo-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 2 Marzo 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Reno/Land_Of_The_Morning_Calm">
+          <span class="pr-2">Tierra de la calma matutina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A veces es interesante ver qué tan cerca está la ciencia de la verdad. Tomemos, por ejemplo, el debate sobre la fecha correcta de la crucifixión.
@@ -35,3 +59,28 @@ Si te atienes al registro de los Intermedios del 7 de abril del año 30 d.C., me
 
 De: Noticias científicas, vol. 125, enero de 1984
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol8_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 8 Núm. 2 Marzo 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-2-marzo-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 2 Marzo 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Reno/Land_Of_The_Morning_Calm">
+          <span class="pr-2">Tierra de la calma matutina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

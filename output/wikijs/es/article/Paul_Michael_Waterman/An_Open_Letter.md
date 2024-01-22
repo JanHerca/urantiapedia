@@ -1,5 +1,5 @@
 ---
-título: "Una carta abierta a la comunidad de lectores del libro de Urantia"
+título: "Una carta abierta"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Paul Michael Waterman<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Is_God_a_He_or_a_She">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Dios es él o ella?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Vol12_2part2">
+          <span class="pr-2">Vol. 12 Núm. 2 Parte 2 Marzo de 1991</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 agosto de 1990
@@ -93,3 +117,28 @@ Doy gracias porque seres como estos han evolucionado en mundos como este, para q
 
 **Paul Michael Waterman, Toronto, Ontario, Canadá**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Is_God_a_He_or_a_She">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Dios es él o ella?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Vol12_2part2">
+          <span class="pr-2">Vol. 12 Núm. 2 Parte 2 Marzo de 1991</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

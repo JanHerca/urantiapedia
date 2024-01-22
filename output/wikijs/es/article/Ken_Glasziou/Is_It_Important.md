@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ken Glasziou<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psicología Transpersonal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jane_Wilson/Literacy_Crisis">
+          <span class="pr-2">Crisis de alfabetización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ken Glasziou, Maleny, Qld._
@@ -29,3 +53,28 @@ Me gustaría que se mantuviera el texto de la primera impresión sin cambios. Ot
 
 El administrador que colocó mi protesta de baja prioridad en la agenda de la reunión de la Fundación abandonó Australia recientemente y comentó que soy la única persona preocupada por este asunto. ¿Lo soy? ¿Eres?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Psicología Transpersonal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jane_Wilson/Literacy_Crisis">
+          <span class="pr-2">Crisis de alfabetización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

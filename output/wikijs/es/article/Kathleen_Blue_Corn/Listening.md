@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Blue Corn<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Doing_A_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Haciendo un servicio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Agree_To_Disagree">
+          <span class="pr-2">Acordar estar en desacuerdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Recientemente estuve expuesto a Six-O-Six a través de mis amigos Sananda y White Cloud. Quiero expresar mi agradecimiento por sus esfuerzos por promover la buena voluntad y el entendimiento internacional entre los lectores de _El Libro de URANTIA_.
@@ -25,3 +49,28 @@ Tengo absoluta fe en sus apasionantes avances con nuestro Príncipe Planetario y
 
 **Kathleen Blue Corn, Camptonville, California, EE.UU.**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Doing_A_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Haciendo un servicio</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Agree_To_Disagree">
+          <span class="pr-2">Acordar estar en desacuerdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 7 No. 5 - Junio de 1986"
+título: "Boletín Six-0-Six - Volumen 7 Núm. 5 - Junio de 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1986 Madeline Noordzy, Ken Glasziou, Dr. P. Jensen<br>© 1986 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-5-junio-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 5 Junio 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/The_Remembrance_Supper">
+          <span class="pr-2">La Cena del Recuerdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -19,7 +40,7 @@ P.0.Box 606, Brighton, Victoria, AUSTRALIA, 3186.
 
 ## La Cena del Recuerdo
 
-> «La mente conoce la cantidad, la realidad, los significados. Pero la calidad —los valores— se *siente*. Aquello que siente es la creación conjunta de la mente que conoce y del espíritu asociado que lo convierte en una realidad.» ([LU 111:3.6](/es/The_Urantia_Book/111#p3_6))
+> «La mente conoce la cantidad, la realidad, los significados. Pero la calidad —los valores— se *siente*. Aquello que siente es la creación conjunta de la mente que conoce y del espíritu asociado que lo convierte en una realidad.» (<a id="a42_232"></a>[LU 111:3.6](/es/The_Urantia_Book/111#p3_6))
 
 Esta cita del Libro de URANTIA me vino a la mente la mañana después de la Cena del Recuerdo, que los Grupos de Estudio de Melbourne celebraron el domingo 6 de abril. Jesús estableció la Cena del Recuerdo el 6 de abril del año 30 d.C.
 
@@ -43,13 +64,13 @@ Piso 2/ 2-6 Edlington St. Hawthorn, tel. 8186970 Vivienda, 2408021 Trabajo.
 
 > «En los mundos habitados, los potenciales de las implantaciones originales de vida física de los Portadores de Vida limitan físicamente la evolución orgánica.»
 > 
-> «El hombre mortal es una máquina, un mecanismo viviente; sus raíces se encuentran realmente en el mundo físico de la energía. Muchas reacciones humanas son de naturaleza maquinal; una gran parte de la vida se parece a una máquina. Pero el hombre, un mecanismo, es mucho más que una máquina; está dotado de una mente y habitado por un espíritu; y aunque durante toda su vida material no pueda librarse nunca del mecanismo electroquímico de su existencia, puede aprender a subordinar cada vez más esta máquina de vida física a la sabiduría directriz de la experiencia, mediante el proceso de consagrar la mente humana a ejecutar los impulsos espirituales del Ajustador del Pensamiento interior.» ([LU 118:8.1-2](/es/The_Urantia_Book/118#p8_1))
+> «El hombre mortal es una máquina, un mecanismo viviente; sus raíces se encuentran realmente en el mundo físico de la energía. Muchas reacciones humanas son de naturaleza maquinal; una gran parte de la vida se parece a una máquina. Pero el hombre, un mecanismo, es mucho más que una máquina; está dotado de una mente y habitado por un espíritu; y aunque durante toda su vida material no pueda librarse nunca del mecanismo electroquímico de su existencia, puede aprender a subordinar cada vez más esta máquina de vida física a la sabiduría directriz de la experiencia, mediante el proceso de consagrar la mente humana a ejecutar los impulsos espirituales del Ajustador del Pensamiento interior.» (<a id="a66_697"></a>[LU 118:8.1-2](/es/The_Urantia_Book/118#p8_1))
 
 ## Comentario sobre declaraciones científicas en El libro de Urantia, Parte II
 
 **Atmósferas planetarias**
 
-_El Libro de Urantia_ ([LU 49:2.1](/es/The_Urantia_Book/49#p2_1)) analiza distintos tipos de vida que habitan planetas con atmósferas diferentes a la nuestra. Nuestro tipo de forma de vida se llama «respiración media» y constituye el 91% de todos los tipos de vida en el universo. Los que habitan en planetas con atmósferas de alta densidad se denominan «superrespiradores», y los que habitan en planetas con atmósferas de baja densidad se denominan «sub-respiradores». El Libro de Urantia afirma luego que si hay vida en Venus sería de la clase de superrespirador, mientras que si existiera vida en Marte sería de la clase de subrespirador. No teníamos conocimiento de las densidades atmosféricas de estos dos planetas cuando se escribió el Libro de Urantia.
+_El Libro de Urantia_ (<a id="a72_23"></a>[LU 49:2.1](/es/The_Urantia_Book/49#p2_1)) analiza distintos tipos de vida que habitan planetas con atmósferas diferentes a la nuestra. Nuestro tipo de forma de vida se llama «respiración media» y constituye el 91% de todos los tipos de vida en el universo. Los que habitan en planetas con atmósferas de alta densidad se denominan «superrespiradores», y los que habitan en planetas con atmósferas de baja densidad se denominan «sub-respiradores». El Libro de Urantia afirma luego que si hay vida en Venus sería de la clase de superrespirador, mientras que si existiera vida en Marte sería de la clase de subrespirador. No teníamos conocimiento de las densidades atmosféricas de estos dos planetas cuando se escribió el Libro de Urantia.
 
 La sonda Mariner 5 enviada a Venus en 1967 envió datos sobre la atmósfera y sondas posteriores proporcionaron datos sobre Marte. Estas mediciones mostraron que la presión atmosférica en la superficie de Venus es 90 veces mayor que la de la Tierra, por lo tanto de alta densidad, mientras que la de Marte es 1/100 de la de la Tierra, por lo tanto de baja densidad.
 
@@ -126,3 +147,25 @@ RELATIVIDAD DE LA VERDAD EN EL
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-5-junio-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 5 Junio 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/The_Remembrance_Supper">
+          <span class="pr-2">La Cena del Recuerdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

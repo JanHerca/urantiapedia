@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 7 No. 6 - Julio de 1986"
+título: "Boletín Six-0-Six - Volumen 7 Núm. 6 - Julio de 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Ken Glasziou, William Wentworth, Tom Reynolds<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-6-julio-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 6 Julio de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Conference_1986_Report">
+          <span class="pr-2">Informe de la Conferencia de 1986</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -134,3 +155,25 @@ Si desea presentarle el _Libro de URANTIA_ a un nuevo amigo, entonces esta podr�
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-6-julio-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 6 Julio de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Conference_1986_Report">
+          <span class="pr-2">Informe de la Conferencia de 1986</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

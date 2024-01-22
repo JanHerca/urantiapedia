@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/June_Wilson/Does_Anyone_Want_To_Go_Buy_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Alguien quiere ir a comprar el libro?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-5-septiembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 5 Septiembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ann Bendall, Sunshine Coast_
@@ -25,3 +46,25 @@ Un grupo de autoayuda está formado por una persona que tiene el coraje de decir
 
 La confianza es el precio de la entrada, y la ventaja es que aprenderás mucho sobre la vida, sobre ti mismo y la singularidad de cada uno de los miembros del grupo, mientras que, al mismo tiempo, impartirás al grupo el beneficio de tus experiencias y el color de tu presencia personal.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/June_Wilson/Does_Anyone_Want_To_Go_Buy_The_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Alguien quiere ir a comprar el libro?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-5-septiembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 5 Septiembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

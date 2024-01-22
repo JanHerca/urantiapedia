@@ -1,5 +1,5 @@
 ---
-título: "Todo esto"
+título: "Todo ello"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Agree_To_Disagree">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acordar estar en desacuerdo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patije_Mills/No_Spoon_Fed_Or_Censored_News">
+          <span class="pr-2">Sin noticias censuradas o maquilladas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Llevo bastantes años disfrutando de Six-O-Six. Los artículos son tan brillantes, inteligentes y estimulantes que a menudo pensé en escribir para felicitar a los australianos por publicar una de las revistas más interesantes y valiosas de nuestro movimiento. Me sentí eufórico al leer sobre la formación de AASLU y orar para que su Asociación Australiana de Lectores y el compañerismo asociado de estudiantes crezcan «... en el gozo de la realización de la filiación».
@@ -21,3 +45,28 @@ Nuevamente déjame agradecerte por tu importante publicación. Rezo por su conti
 
 **Martin Greenhut, Monterey, Montana, EE.UU.**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Agree_To_Disagree">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Acordar estar en desacuerdo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patije_Mills/No_Spoon_Fed_Or_Censored_News">
+          <span class="pr-2">Sin noticias censuradas o maquilladas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

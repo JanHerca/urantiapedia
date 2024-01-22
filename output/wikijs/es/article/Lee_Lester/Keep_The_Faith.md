@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Lee Lester<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Harris/Do_We_Have_Any_Idea_Its_A_Debatable_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tenemos alguna idea? Es un punto discutible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-1-de-enero-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 1 de enero de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Lee Lester, Saratosa, Florida_
@@ -41,3 +62,25 @@ Jesús también dijo una vez: «_si tenéis fe en que vuestro Padre Paradisíaco
 
 La religión de Jesucristo siempre contrastará con las formas complicadas, intrincadas y dictatoriales de creencias filosóficas. Tan simple, que hasta el niño más con los ojos muy abiertos podrá entender: Dios te ama y todos somos sus hijos.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Max_Harris/Do_We_Have_Any_Idea_Its_A_Debatable_Point">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Tenemos alguna idea? Es un punto discutible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-1-de-enero-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 1 de enero de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

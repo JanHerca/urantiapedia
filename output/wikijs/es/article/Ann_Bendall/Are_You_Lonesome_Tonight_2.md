@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Ann Bendall<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Vagaries_Of_Proof_A_Reply_To_Tony_Rudd">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los caprichos de la prueba: una respuesta a Tony Rudd</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-4-julio-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 4 Julio de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -18,7 +39,7 @@ Nunca ha caminado sobre esta tierra, y nunca caminará sobre este planeta, otro 
 
 Como resultado, somos liberados de todos los efectos nocivos de la cuarentena, de todo el daño causado por la rebelión de Caligastia y el incumplimiento adámico. Es decir, siempre que deseemos aprovechar el Espíritu de la Verdad. Todos los reveladores se refieren al Espíritu de la Verdad como un canal impersonal. Se explica cuidadosamente que no proporciona un vínculo de comunicación uno a uno, es decir, todos, excepto Jesús. Se refiere a él como «él». Tenga en cuenta que cada vez que se refiere a la venida del Espíritu de Verdad de «mío y de mi Padre», infaliblemente dice y «cuando venga» y «él» hará esto y aquello.
 
-Michael considera el Espíritu de la Verdad en términos muy personales. Y al leer El Libro de Urantia, que tenemos la suerte de descubrir que es una maravillosa fuente de información, descubrimos nuestros vínculos con el Creador de este Universo, quien ha recorrido cada centímetro del camino que recorreremos antes que nosotros. Michael conoce el poder del miedo, el peligro del orgullo. Trabajó con personas, tratando de ayudarlas a superar estas características/rasgos. Él sabe todo sobre los sueños perdidos, el trauma de que todos los planes se hagan añicos en una fracción de segundo de tragedia. Él sabe lo que es planear comprar una pequeña granja como un estilo de vida idílico para criar a su familia, y que un «zorro» le rechace injustamente los fondos. También conoce el placer de abrazar y jugar con un cachorro (en cuanto las finanzas lo permitieron, la familia Nazareth compra un perro. [[LU 126:5.11](/es/The_Urantia_Book/126#p5_11)])
+Michael considera el Espíritu de la Verdad en términos muy personales. Y al leer El Libro de Urantia, que tenemos la suerte de descubrir que es una maravillosa fuente de información, descubrimos nuestros vínculos con el Creador de este Universo, quien ha recorrido cada centímetro del camino que recorreremos antes que nosotros. Michael conoce el poder del miedo, el peligro del orgullo. Trabajó con personas, tratando de ayudarlas a superar estas características/rasgos. Él sabe todo sobre los sueños perdidos, el trauma de que todos los planes se hagan añicos en una fracción de segundo de tragedia. Él sabe lo que es planear comprar una pequeña granja como un estilo de vida idílico para criar a su familia, y que un «zorro» le rechace injustamente los fondos. También conoce el placer de abrazar y jugar con un cachorro (en cuanto las finanzas lo permitieron, la familia Nazareth compra un perro. <a id="a41_901"></a>[[LU 126:5.11](/es/The_Urantia_Book/126#p5_11)])
 
 Él sabe de qué se trata el deber y las responsabilidades y cómo, a veces, nos enfrentamos al conflicto al estar divididos entre dos amores. Conoce el poder de persuasión del amor humano, y la batalla extrema al optar por la voluntad de Dios, y la tristeza que la acompaña ante el acontecimiento del rechazo anticipado. Conoce el dolor de la injusticia y la increíble tristeza, a nivel humano.
 
@@ -50,3 +71,25 @@ La próxima vez que te sientas realmente solo y no tengas con quién hablar, rec
 
 **Ann Bendall, Nambour, Queensland**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Vagaries_Of_Proof_A_Reply_To_Tony_Rudd">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los caprichos de la prueba: una respuesta a Tony Rudd</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-4-julio-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 4 Julio de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/What_Do_You_Think">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué opinas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-5-septiembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 5 Septiembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="pr-2">¿Qué dice el libro de Urantia sobre la comunicación con el mundo de los espíritus?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _resumido por Kathleen Swadling, Sydney_
@@ -70,3 +94,28 @@ Mo afirma que la Fundación supuestamente ha asignado autoría humana a partes d
 
 «Los comentarios generales del señor Siegel sobre la ley federal de derechos de autor parecen estar basados en su mala interpretación de los hechos legales en relación con los tres temas discutidos anteriormente».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/What_Do_You_Think">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué opinas?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-5-septiembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 5 Septiembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="pr-2">¿Qué dice el libro de Urantia sobre la comunicación con el mundo de los espíritus?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

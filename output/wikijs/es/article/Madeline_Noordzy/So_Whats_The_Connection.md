@@ -1,5 +1,5 @@
 ---
-título: "¿Cuál es la conexión?"
+título: "Entonces, ¿cuál es la conexión?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Madeline Noordzy<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Cosmology_Corner">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rincón de la cosmología</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-6-noviembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bessie estaba intentando resolver algo. Ella era una de los turistas estadounidenses que realizaban una visita guiada por Fiji, Australia y Nueva Zelanda.
@@ -27,3 +48,25 @@ Tengo la sensación de que antes de que termine su gira, Bessie y algunos de sus
 
 Madeline Noordzy, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dick_Bain/Cosmology_Corner">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rincón de la cosmología</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-6-noviembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

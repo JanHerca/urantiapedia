@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ken Glasziou<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué dice el libro de Urantia sobre la voluntad de Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="pr-2">Los tontos se apresuran y los ángeles tienen que seguirlos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ken Glasziou, Maleny, Queensland_
@@ -39,7 +63,32 @@ Se deben considerar las posibles consecuencias de la pérdida de los derechos de
 
 Este análisis puede no ser cierto en la realidad, aunque sí en las apariencias. Da lugar a una especulación. Hay aproximadamente un cuarto de millón de libros en algún lugar. La gran mayoría adornan los estantes de libros sin leer. Constituyen una fuente de suministro inagotable durante muchos años. La experiencia en Australia ha demostrado que no tenemos ninguna necesidad desesperada de organizaciones. Nuestras asambleas generales anuales surgen de ofertas espontáneas de comités estatales temporales que se disuelven después de la asamblea. Las organizaciones oficiales secularizan un movimiento. El precedente de este descubrimiento pertenece a Alcohólicos Anónimos, cuya falta de organización proporciona un ejemplo útil. Nuestro Gobernante del Universo nos dio este mensaje:
 
-> «No rivalicéis con los hombres —sed siempre pacientes. El reino no es vuestro, sólo sois sus embajadores. Salid simplemente a proclamar: He aquí el reino de los cielos —Dios es vuestro Padre y vosotros sois sus hijos, y si creéis de todo corazón, esta buena nueva *es* vuestra salvación eterna». ([LU 141:6.4](/es/The_Urantia_Book/141#p6_4))
+> «No rivalicéis con los hombres —sed siempre pacientes. El reino no es vuestro, sólo sois sus embajadores. Salid simplemente a proclamar: He aquí el reino de los cielos —Dios es vuestro Padre y vosotros sois sus hijos, y si creéis de todo corazón, esta buena nueva *es* vuestra salvación eterna». (<a id="a65_299"></a>[LU 141:6.4](/es/The_Urantia_Book/141#p6_4))
 
 Realmente podemos simplemente «servir mientras pasamos» y dejar la dirección general de los asuntos planetarios a nuestros supervisores celestiales. El Padre nos necesita como individuos. Las organizaciones humanas obstaculizan inevitablemente su trabajo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué dice el libro de Urantia sobre la voluntad de Dios?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Fools_Rush_In_And_Angels_Have_To_Follow">
+          <span class="pr-2">Los tontos se apresuran y los ángeles tienen que seguirlos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

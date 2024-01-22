@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Message_is_Spreading">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El mensaje se está difundiendo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-5-septiembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 5 Septiembre 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _[En el número anterior de Six-O-Six, se anunció que nuestro panel editorial está intentando elaborar un trabajo que tenga como objetivo llevar las enseñanzas de Jesús, tal como se revelan en_ El Libro de URANTIA, _a los no lectores. Se solicitaron contribuciones, tal vez un capítulo, pero incluso un argumento que acompañe su enseñanza favorita podría ser de ayuda. La historia debe ser «ficticia», pero se espera que las enseñanzas tengan una base firme en el libro mismo._
@@ -65,3 +86,25 @@ Durante esta discusión que duró hasta bien entrada la noche, Sardri había not
 <img src="/image/article/606/boat.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Message_is_Spreading">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El mensaje se está difundiendo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-5-septiembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 5 Septiembre 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

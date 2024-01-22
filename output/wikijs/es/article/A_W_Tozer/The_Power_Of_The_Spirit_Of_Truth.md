@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Dr. A. W. Tozer<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/I_Salute_The_God_Within_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Saludo al Dios que está dentro de ti»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-5-septiembre-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 5 Septiembre de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Betty_Glasziou/The_1993_International_Conference_Montreal">
+          <span class="pr-2">Conferencia internacional para lectores del libro de Urantia de 1993, Montreal, Canadá</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Dr. A. W. Tozer_
@@ -61,3 +85,28 @@ Querer la voluntad de Dios es más que simplemente consentirla sin protestar; es
 
 Quiero afirmar aquí que mi feliz creencia es que cada cristiano puede tener un abundante derramamiento del Espíritu de la Verdad en una medida más allá de lo que la mayoría de nosotros creemos posible. Pero debemos aclarar esto: hasta que no se eliminen todas las dudas, la fe es imposible, y el derramamiento no se producirá.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/I_Salute_The_God_Within_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Saludo al Dios que está dentro de ti»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-5-septiembre-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 5 Septiembre de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Betty_Glasziou/The_1993_International_Conference_Montreal">
+          <span class="pr-2">Conferencia internacional para lectores del libro de Urantia de 1993, Montreal, Canadá</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

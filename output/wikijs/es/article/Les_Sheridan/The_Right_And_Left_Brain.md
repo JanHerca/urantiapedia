@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Les Sheridan<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Martin_McBurney/Warburton_Conference_1990">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de Warburton 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-6-noviembre-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Leith_Luckett/How_I_Feel">
+          <span class="pr-2">Cómo me siento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Charla pronunciada por Les Sheridan en la Conferencia Anual Australiana de 1990 para lectores del Libro de URANTIA_.
@@ -49,3 +73,28 @@ El Espíritu es una espada de dos filos que divide correctamente la materia del 
 
 **Les Sheridan, Warburton, Victoria**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Martin_McBurney/Warburton_Conference_1990">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia de Warburton 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-6-noviembre-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Leith_Luckett/How_I_Feel">
+          <span class="pr-2">Cómo me siento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,15 +9,39 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia y el espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-4-julio-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Gods_Limitations">
+          <span class="pr-2">Las limitaciones de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-_El Libro de URANTIA_ nos ha instruido sobre la importancia de los trabajos secundarios para lograr que sus enseñanzas básicas lleguen a la circulación general ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10)). Incluso en los países occidentales que tienen una tasa de alfabetización muy superior al 90% de la población, las encuestas han indicado que menos de uno de cada diez adultos leyó alguna vez un libro serio. Lo que seguramente significa que es poco probable que _El Libro de URANTIA_ sea leído ampliamente en el futuro previsible.
+
+_El Libro de URANTIA_ nos ha instruido sobre la importancia de los trabajos secundarios para lograr que sus enseñanzas básicas lleguen a la circulación general (<a id="a37_161"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)). Incluso en los países occidentales que tienen una tasa de alfabetización muy superior al 90% de la población, las encuestas han indicado que menos de uno de cada diez adultos leyó alguna vez un libro serio. Lo que seguramente significa que es poco probable que _El Libro de URANTIA_ sea leído ampliamente en el futuro previsible.
 
 Parece una pena tener sus maravillosas enseñanzas embotelladas entre sus cubiertas azules sin leerlas. ¿Qué podemos hacer al respecto?
 
 Para el futuro inmediato, algunos de nosotros creemos que puede haber potencial en resumir las enseñanzas del libro en historias de aventuras y hemos comenzado un proyecto titulado «Las aventuras de Jesús de Nazaret», aunque es posible que cambiemos el nombre más adelante. La idea es escribir un relato apasionante pero «ficticio» de la vida de Jesús que, no obstante, transmita sus enseñanzas. En la medida de lo posible, cada capítulo contendrá al menos un episodio de suspenso en la tradición de las antiguas series de películas del oeste o las modernas telenovelas. El enfoque es simple: simplemente colocas a tus personajes en situaciones imposibles y luego los sacas de nuevo.
 
-Para dar un ejemplo, tomemos el incidente relatado en _El Libro de URANTIA_ del «Joven que tenía miedo» ([LU 130:6.1](/es/The_Urantia_Book/130#p6_1)). Jesús tenía varias lecciones que impartir a este joven. Intentó un método que falló, así que intentó otro pidiendo la ayuda del joven. Recuerde que el joven estaba temeroso, deprimido y abatido. El productor de telenovelas moderno sabe que tiene que dramatizar situaciones para retener a la audiencia. No hay problema: reubicamos al joven al borde de un acantilado, preparándonos para saltar hacia la muerte.
+Para dar un ejemplo, tomemos el incidente relatado en _El Libro de URANTIA_ del «Joven que tenía miedo» (<a id="a43_105"></a>[LU 130:6.1](/es/The_Urantia_Book/130#p6_1)). Jesús tenía varias lecciones que impartir a este joven. Intentó un método que falló, así que intentó otro pidiendo la ayuda del joven. Recuerde que el joven estaba temeroso, deprimido y abatido. El productor de telenovelas moderno sabe que tiene que dramatizar situaciones para retener a la audiencia. No hay problema: reubicamos al joven al borde de un acantilado, preparándonos para saltar hacia la muerte.
 
 El autor emprendedor podría colocar a su víctima en una colina alta con una caída de mil pies a cada lado y hacer que Jesús se acerque hablando con el joven mientras él mismo avanza hacia la colina; depende de usted inventar su propio escenario.
 
@@ -38,3 +62,28 @@ Por favor envíe las contribuciones como copia mecanografiada, o mejor, en el di
 <figcaption>‘¡Perfectamente podrían haber dado la vuelta por Quarry Hill!’</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La ciencia y el espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-4-julio-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Gods_Limitations">
+          <span class="pr-2">Las limitaciones de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

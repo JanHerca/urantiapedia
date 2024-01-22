@@ -9,11 +9,32 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Dick Bain<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorando nuestro propio patio trasero: el sistema solar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-En [LU 57:5.9](/es/The_Urantia_Book/57#p5_9) de _El Libro de URANTIA_, se nos informa que cinco planetas interiores, Júpiter, Saturno y cinco planetas exteriores formaron el material extraído de nuestro sol por el sistema Angona que pasa. Esto suma 12 planetas, pero en la escuela sólo nos enseñan unos nueve. ¿Dónde están los otros tres?
 
-Es fácil dar cuenta de uno de los planetas desaparecidos. En [LU 57:6.5](/es/The_Urantia_Book/57#p6_5) leemos que el quinto planeta desde el sol se separó cuando pasó demasiado cerca de Júpiter. Los restos de este planeta forman el actual cinturón de astroides que se encuentra entre Marte y Júpiter. Esto deja dos planetas desaparecidos.
+En <a id="a34_3"></a>[LU 57:5.9](/es/The_Urantia_Book/57#p5_9) de _El Libro de URANTIA_, se nos informa que cinco planetas interiores, Júpiter, Saturno y cinco planetas exteriores formaron el material extraído de nuestro sol por el sistema Angona que pasa. Esto suma 12 planetas, pero en la escuela sólo nos enseñan unos nueve. ¿Dónde están los otros tres?
+
+Es fácil dar cuenta de uno de los planetas desaparecidos. En <a id="a36_61"></a>[LU 57:6.5](/es/The_Urantia_Book/57#p6_5) leemos que el quinto planeta desde el sol se separó cuando pasó demasiado cerca de Júpiter. Los restos de este planeta forman el actual cinturón de astroides que se encuentra entre Marte y Júpiter. Esto deja dos planetas desaparecidos.
 
 En los últimos años, los astrónomos que estudian a Plutón y su compañero Caronte han decidido que Caronte puede no ser un satélite de Plutón; Este sistema puede ser dos planetas orbitando alrededor de un punto común. Si esto es cierto, entonces sólo queda un planeta sin contabilizar.
 
@@ -23,3 +44,25 @@ Un artículo publicado en la edición de 1988 de ASTRONOMÍA titulado «La atrac
 
 Dick Bain, San Petersburgo, Florida. EE.UU.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rod_McCourt/Exploring_Our_Own_Back_Yard_The_Solar_System">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Explorando nuestro propio patio trasero: el sistema solar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

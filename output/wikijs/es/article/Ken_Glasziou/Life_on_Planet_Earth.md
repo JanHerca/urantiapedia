@@ -80,9 +80,9 @@ Inicialmente, se declaró que estos ediacaranos eran un grupo de organismos comp
 
 Entonces, ¿cómo explicamos la afirmación de _El Libro de Urantia_ de que los Portadores de vida trajeron vida a este planeta por primera vez hace sólo 550 millones de años?
 
-Una posibilidad es que esto fuera parte de la cosmología de los reveladores declarada comoque puede consistir en unpor el cual ayudar a nuestra comprensión de nuestro lugar en el esquema universal de las cosas. (<a id="a82_247"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
+Una posibilidad es que esto fuera parte de la cosmología de los reveladores declarada comoque puede consistir en unpor el cual ayudar a nuestra comprensión de nuestro lugar en el esquema universal de las cosas. (<a id="a82_212"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
-Alternativamente, puede estar cubierto por las siguientes declaraciones: (<a id="a84_272"></a>[LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
+Alternativamente, puede estar cubierto por las siguientes declaraciones: (<a id="a84_74"></a>[LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
 
 > «El yo material, la entidad-ego de la identidad humana, depende del funcionamiento continuo del vehículo vital material, de la existencia continua del equilibrio inestable entre las energías y el intelecto, a lo que se le ha dado el nombre de vida en Urantia.» (<a id="a86_264"></a>[LU 112:2.20](/es/The_Urantia_Book/112#p2_20))
 

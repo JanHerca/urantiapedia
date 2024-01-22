@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 No. 4 - Julio de 1987"
+título: "Boletín Six-0-Six - Volumen 8 Núm. 4 - Julio de 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1987 Kathleen Swadling, William Wentworth, Emmanuel Lou, Madeline Noordzy<br>© 1987 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-4-julio-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 4 Julio de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity">
+          <span class="pr-2">Lao Shou Hsing, dios de la longevidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -48,7 +69,7 @@ Más tarde en la tarde abordamos los siguientes temas:
 
 ## «Pensamiento del mes»
 
-> «La conciencia de llevar una vida humana victoriosa en la Tierra nace de esa fe de la criatura que, cuando se enfrenta con el terrible espectáculo de las limitaciones humanas, se atreve a desafiar cada episodio recurrente de la existencia, declarando infaliblemente: Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará, una parte del Absoluto-Padre del universo de universos. Ésta es «la victoria que triunfa sobre el mundo, vuestra fe misma».» ([LU 4:4.9](/es/The_Urantia_Book/4#p4_9))
+> «La conciencia de llevar una vida humana victoriosa en la Tierra nace de esa fe de la criatura que, cuando se enfrenta con el terrible espectáculo de las limitaciones humanas, se atreve a desafiar cada episodio recurrente de la existencia, declarando infaliblemente: Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará, una parte del Absoluto-Padre del universo de universos. Ésta es «la victoria que triunfa sobre el mundo, vuestra fe misma».» (<a id="a71_474"></a>[LU 4:4.9](/es/The_Urantia_Book/4#p4_9))
 
 ## Del Comité de Colocación de la Biblioteca
 
@@ -108,7 +129,7 @@ Si no puede estar presente personalmente, únase a nosotros en espíritu. Para o
 
 ## Lao Shou Hsing, dios de la longevidad
 
-> «Y la tradición china conserva la información nebulosa del pasado evolutivo; ...» ([LU 79:8.15](/es/The_Urantia_Book/79#p8_15))
+> «Y la tradición china conserva la información nebulosa del pasado evolutivo; ...» (<a id="a131_85"></a>[LU 79:8.15](/es/The_Urantia_Book/79#p8_15))
 
 Uno de los dioses de la tradición china es el dios de la longevidad. El pueblo chino tiene un ardiente deseo de longevidad cuya divinidad SHOU LAO o SHOU HSING reside en la estrella Canopus en la constelación de Argo.
 
@@ -158,13 +179,13 @@ En la Conferencia de Melbourne del año pasado, los lectores australianos del Li
 
 ## En nuestro viaje hacia adentro
 
-_El Libro de URANTIA_ del diez habla de nuestra carrera universal como un ascenso o subida hacia arriba, pero añade como aclaración que en realidad es un viaje hacia adentro. ([LU 32:3.11](/es/The_Urantia_Book/32#p3_11))
+_El Libro de URANTIA_ del diez habla de nuestra carrera universal como un ascenso o subida hacia arriba, pero añade como aclaración que en realidad es un viaje hacia adentro. (<a id="a181_176"></a>[LU 32:3.11](/es/The_Urantia_Book/32#p3_11))
 
 Mientras estaba reflexionando sobre esto un día mientras lavaba los platos, que es un buen momento para tales reflexiones, pude ver varios significados de este movimiento hacia adentro.
 
-El primero es el muy, muy largo camino hacia el Paraíso, el centro mismo y el patrón maestro de toda la realidad material universal, la residencia personal del Padre Universal. Visto geográficamente, esto ciertamente es un viaje hacia adentro y algo que realmente esperamos. Sin embargo, el Paraíso está a un largo camino hacia el futuro y, como señala un Poderoso Mensajero en [LU 32:3.6](/es/The_Urantia_Book/32#p3_6) de _El Libro de URANTIA_: «Cuanto más descendemos en la escala de la vida, más difícil se vuelve localizarlo, con el ojo de fe, el Padre invisible». Para compensar su concepto limitado de Él, el Padre ha establecido siete enfoques hacia la Deidad para Sus criaturas evolutivas.
+El primero es el muy, muy largo camino hacia el Paraíso, el centro mismo y el patrón maestro de toda la realidad material universal, la residencia personal del Padre Universal. Visto geográficamente, esto ciertamente es un viaje hacia adentro y algo que realmente esperamos. Sin embargo, el Paraíso está a un largo camino hacia el futuro y, como señala un Poderoso Mensajero en <a id="a185_378"></a>[LU 32:3.6](/es/The_Urantia_Book/32#p3_6) de _El Libro de URANTIA_: «Cuanto más descendemos en la escala de la vida, más difícil se vuelve localizarlo, con el ojo de fe, el Padre invisible». Para compensar su concepto limitado de Él, el Padre ha establecido siete enfoques hacia la Deidad para Sus criaturas evolutivas.
 
-El Hijo Creador es el primer paso en nuestro séptuple acercamiento al Padre Universal. Jesús le dijo a Tomás en el discurso de despedida: «Yo soy el camino, la verdad y la vida. Nadie va al Padre sino por mí. Todo el que encuentra al Padre, primero me encuentra a mí. Si me conocéis, conocéis el camino al Padre». ([LU 180:3.7](/es/The_Urantia_Book/180#p3_7))
+El Hijo Creador es el primer paso en nuestro séptuple acercamiento al Padre Universal. Jesús le dijo a Tomás en el discurso de despedida: «Yo soy el camino, la verdad y la vida. Nadie va al Padre sino por mí. Todo el que encuentra al Padre, primero me encuentra a mí. Si me conocéis, conocéis el camino al Padre». (<a id="a187_315"></a>[LU 180:3.7](/es/The_Urantia_Book/180#p3_7))
 
 [Leer más](/es/article/Madeline_Noordzy/On_Our_Journey_Inward)
 
@@ -265,3 +286,25 @@ Christopher me llamó esa mañana y me pidió dos libros. Ese día no pude poner
 <img src="/image/article/606/giving.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-4-julio-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 4 Julio de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emmanuel_Lou/Lao_Shou_Hsing_God_of_Longevity">
+          <span class="pr-2">Lao Shou Hsing, dios de la longevidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

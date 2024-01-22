@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/An_Analysis_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un análisis del caso Kristen Maaherra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/The_More_We_Give_The_More_Were_Given">
+          <span class="pr-2">Cuanto más damos, más nos dan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ann Bendall_
@@ -25,3 +49,28 @@ Dedique un poco de tiempo a sus serafines. ¡Dales un poco de diversión hoy! No
 
 Quiero que mis serafines se rían con buen humor de mis chistes, conmigo, el iniciador del humor alegre. Quiero que mis serafines visiten lugares nuevos todos los días y no se preparen para otro viaje al infierno, como resultado de mi negativa a aprender. Quiero que mis serafines sean recompensados en el lugar de su creación. Quiero sincronizarme con sus planes celestiales. No llegar demasiado tarde. Demasiado temprano. O nada en absoluto. Y quitándose las gafas color de rosa. Mis serafines merecen un poco de consideración y amor. ¡Quizas mañana!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/An_Analysis_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un análisis del caso Kristen Maaherra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/The_More_We_Give_The_More_Were_Given">
+          <span class="pr-2">Cuanto más damos, más nos dan</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

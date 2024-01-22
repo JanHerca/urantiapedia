@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Greetings_From_The_Sydney_Study_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Saludos del grupo de estudio de Sydney</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-4-julio-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="pr-2">Nunca podrás verte crecer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «Estabilizar la mente subordinando al espíritu». — Estoy convencido de que, para la mayoría de nosotros, este es el prerrequisito esencial para el desarrollo de nuestra relación con nuestro Padre Paradisíaco, una relación que permite que Su gobierno gobierne verdaderamente cada momento de nuestras vidas.
@@ -21,13 +45,13 @@ Y luego fuimos bendecidos con un hermoso libro azul y la revelación de la creac
 
 El libro proporciona una gran cantidad de información sobre nuestro Padre y sobre nosotros mismos como Sus hijos. Apreciamos que muchas de las emociones que hemos sentido en el pasado son naturales, que tenemos una mente material muy básica que puede dificultar la comunicación con nuestro Ajustador. También entendemos cómo nuestras mentes, conscientes y subconscientes, están llenas de muchas tonterías erróneas, pero sabemos que al entregar todos los asuntos mentales a nuestro Ajustador del Pensamiento, éste trabajará para eliminar todo esto para que nuestros ideales puedan ser verdaderamente espiritualizados. .
 
-Y se nos aconseja además que «la vida religiosa es una vida devota, y la vida devota es una vida creativa, original y espontánea. Nuevas ideas religiosas surgen de conflictos que inician la elección de nuevos y mejores hábitos de reacción en lugar de patrones de reacción más antiguos e inferiores. Nuevos significados sólo surgen en medio del conflicto; y el conflicto persiste sólo ante la negativa a abrazar los valores más elevados connotados en significados superiores.»" ([LU 100:4.1](/es/The_Urantia_Book/100#p4_1))
+Y se nos aconseja además que «la vida religiosa es una vida devota, y la vida devota es una vida creativa, original y espontánea. Nuevas ideas religiosas surgen de conflictos que inician la elección de nuevos y mejores hábitos de reacción en lugar de patrones de reacción más antiguos e inferiores. Nuevos significados sólo surgen en medio del conflicto; y el conflicto persiste sólo ante la negativa a abrazar los valores más elevados connotados en significados superiores.»" (<a id="a47_478"></a>[LU 100:4.1](/es/The_Urantia_Book/100#p4_1))
 
 > «Las perplejidades religiosas son inevitables; no puede existir ningún crecimiento sin conflicto psíquico y sin agitación espiritual. La organización de un modelo filosófico de vida ocasiona una conmoción considerable en el terreno filosófico de la mente. La lealtad hacia lo grande, lo bueno, lo verdadero y lo noble no se ejerce sin lucha. La clarificación de la visión espiritual y el realce de la perspicacia cósmica van acompañados de esfuerzo. Y el intelecto humano protesta cuando se le quita el sustento de las energías no espirituales de la existencia temporal. La mente indolente animal se rebela ante el esfuerzo que exige la lucha para resolver los problemas cósmicos.»
 > 
-> «Pero el gran problema de la vida religiosa consiste en la tarea de unificar los poderes del alma, inherentes a la personalidad, mediante el dominio del AMOR.» ([LU 100:4.2-3](/es/The_Urantia_Book/100#p4_2))
+> «Pero el gran problema de la vida religiosa consiste en la tarea de unificar los poderes del alma, inherentes a la personalidad, mediante el dominio del AMOR.» (<a id="a51_163"></a>[LU 100:4.2-3](/es/The_Urantia_Book/100#p4_2))
 
-> «El hombre no puede provocar el crecimiento, pero puede suministrar las condiciones favorables. El crecimiento siempre es inconsciente, ya sea físico, intelectual o espiritual. El amor crece así; no se puede crear, ni fabricar ni comprar; debe crecer.» ([LU 100:3.7](/es/The_Urantia_Book/100#p3_7))
+> «El hombre no puede provocar el crecimiento, pero puede suministrar las condiciones favorables. El crecimiento siempre es inconsciente, ya sea físico, intelectual o espiritual. El amor crece así; no se puede crear, ni fabricar ni comprar; debe crecer.» (<a id="a53_256"></a>[LU 100:3.7](/es/The_Urantia_Book/100#p3_7))
 
 ¡No escriben y se expresan tan bellamente! Me siento y trato de poner algo por escrito, me lleva diez páginas en tamaño folio, abro el libro azul y hay una frase que lo dice todo.
 
@@ -45,3 +69,28 @@ Un pensamiento bastante aleccionador me ayuda en mis esfuerzos personales: un Aj
 
 Ann Bendall, Nambour, QLD
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Greetings_From_The_Sydney_Study_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Saludos del grupo de estudio de Sydney</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-4-julio-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/You_Can_Never_Watch_Yourself_Grow">
+          <span class="pr-2">Nunca podrás verte crecer</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

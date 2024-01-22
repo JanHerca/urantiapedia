@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 9 No. 1 - Enero de 1988"
+título: "Boletín Six-0-Six - Volumen 9 Núm. 1 - Enero de 1988"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1988 Satu Sihvo, Ken Glasziou, Kathleen Swadling, Henry Begemann, David Glass<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-1-de-enero-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 1 de enero de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="pr-2">Cajas negras, desplazamientos al rojo y big bangs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -35,7 +56,7 @@ Este año, 1988, es el noveno año de publicación. Queremos animar a todos a qu
 
 ## «Pensamiento del mes»
 
-> «El desarrollo espiritual depende, en primer lugar, del mantenimiento de una conexión espiritual viviente con las verdaderas fuerzas espirituales y, en segundo lugar, de la producción continua de los frutos espirituales, ofreciendo a vuestros semejantes la ayuda que habéis recibido de vuestros benefactores espirituales. El progreso espiritual está basado en el reconocimiento intelectual de nuestra pobreza espiritual, unido a la conciencia personal del hambre de perfección, el deseo de conocer a Dios y de parecerse a él, la intención sincera de hacer la voluntad del Padre que está en los cielos.» ([LU 100:2.1](/es/The_Urantia_Book/100#p2_1))
+> «El desarrollo espiritual depende, en primer lugar, del mantenimiento de una conexión espiritual viviente con las verdaderas fuerzas espirituales y, en segundo lugar, de la producción continua de los frutos espirituales, ofreciendo a vuestros semejantes la ayuda que habéis recibido de vuestros benefactores espirituales. El progreso espiritual está basado en el reconocimiento intelectual de nuestra pobreza espiritual, unido a la conciencia personal del hambre de perfección, el deseo de conocer a Dios y de parecerse a él, la intención sincera de hacer la voluntad del Padre que está en los cielos.» (<a id="a58_606"></a>[LU 100:2.1](/es/The_Urantia_Book/100#p2_1))
 
 ## De nuestra bolsa de correo
 
@@ -214,3 +235,25 @@ Que la paz del Padre nos envuelva a todos
 </figure>
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-1-de-enero-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 1 de enero de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="pr-2">Cajas negras, desplazamientos al rojo y big bangs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 John Hyde<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Trevor_Swadling/Another_View_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otra visión del caso Kristen Maaherra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="pr-2">Psicología Transpersonal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por John Hyde, Instituto de Asuntos Públicos_
@@ -27,3 +51,28 @@ Al igual que los directores y los inversores, los gabinetes, las oposiciones y e
 
 Sin embargo, se trata de un hilo no codificado que recorre la sociedad y que une a los directores de empresas, a los gabinetes y al resto de nosotros por igual. A pesar de algún que otro dilema, a diferencia de la ley, ésta goza de amplio reconocimiento y es, y no la regulación, el verdadero cemento social. No es necesario pretender ser más santo que tú para defenderlo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Trevor_Swadling/Another_View_Of_The_Kristen_Maaherra_Case">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Otra visión del caso Kristen Maaherra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Transpersonal_Pyschology">
+          <span class="pr-2">Psicología Transpersonal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

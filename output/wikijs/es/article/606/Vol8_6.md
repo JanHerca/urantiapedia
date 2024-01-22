@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 No. 6 - Noviembre de 1987"
+título: "Boletín Six-0-Six - Volumen 8 Núm. 6 - Noviembre de 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1987 Kathleen Swadling, Emmanuel Lou, David Regal, Richard Bain, Madeline Noordzy<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-6-noviembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers">
+          <span class="pr-2">Informe sobre la reunión australiana de lectores del libro de Urantia de 1987</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -31,7 +52,7 @@ Kathleen Swadling, Sídney
 
 ## «Pensamiento del mes»
 
-> «He venido a este mundo para hacer la voluntad de mi Padre y para revelar su carácter afectuoso a toda la humanidad. Ésta es, hermanos míos, mi misión. Y ésta es la única cosa que haré, independientemente de que mis enseñanzas sean mal comprendidas por los judíos o los gentiles de esta época o de otra generación.» ([LU 143:1.4](/es/The_Urantia_Book/143#p1_4))
+> «He venido a este mundo para hacer la voluntad de mi Padre y para revelar su carácter afectuoso a toda la humanidad. Ésta es, hermanos míos, mi misión. Y ésta es la única cosa que haré, independientemente de que mis enseñanzas sean mal comprendidas por los judíos o los gentiles de esta época o de otra generación.» (<a id="a54_319"></a>[LU 143:1.4](/es/The_Urantia_Book/143#p1_4))
 
 ## Hsi Wang Mu - La Reina del Cielo Occidental
 
@@ -39,11 +60,11 @@ Kathleen Swadling, Sídney
 <img src="/image/article/606/chinese2.jpg">
 </figure>
 
-> «...Las primeras leyendas chinas sitúan «la tierra de los dioses» en el oeste.» ([LU 79:7.4](/es/The_Urantia_Book/79#p7_4))
+> «...Las primeras leyendas chinas sitúan «la tierra de los dioses» en el oeste.» (<a id="a62_83"></a>[LU 79:7.4](/es/The_Urantia_Book/79#p7_4))
 
-> «Determinaron que la Divinidad había descendido a la Tierra en forma corporal, ...» ([LU 74:4.1](/es/The_Urantia_Book/74#p4_1))
+> «Determinaron que la Divinidad había descendido a la Tierra en forma corporal, ...» (<a id="a64_87"></a>[LU 74:4.1](/es/The_Urantia_Book/74#p4_1))
 
-> «...sino que la mayoría estaba casi dispuesta a postrarse y adorarlos como si fueran dioses.» ([LU 74:3.10](/es/The_Urantia_Book/74#p3_10))
+> «...sino que la mayoría estaba casi dispuesta a postrarse y adorarlos como si fueran dioses.» (<a id="a66_97"></a>[LU 74:3.10](/es/The_Urantia_Book/74#p3_10))
 
 Hsi Wang Mu, literalmente la Dama Real de Occidente o la Reina del Cielo Occidental, es un ser legendario que se supone habita en las montañas K'un Lung (1) en un palacio grande y hermoso, rodeado de extensos terrenos. Los muros del palacio construidos con oro puro tienen trescientas treinta millas de circunferencia, con almenas de piedras preciosas (2). Su residencia se destacó por sus hermosos jardines (3), edificios de mármol y jaspe, una torre de nueve pisos y arroyos resplandecientes.
 
@@ -185,3 +206,25 @@ No esperes a ver la película, actúa ahora. Haga que _El Libro de URANTIA_ form
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-6-noviembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Report_1987_Australian_Meeting_Of_UB_readers">
+          <span class="pr-2">Informe sobre la reunión australiana de lectores del libro de Urantia de 1987</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

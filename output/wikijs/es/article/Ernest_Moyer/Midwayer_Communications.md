@@ -9,11 +9,35 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ernest Moyer<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Channeling_And_Mental_Disorder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalización y trastorno mental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-3-mayo-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 3 Mayo de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Spreading_The_Message">
+          <span class="pr-2">Difundiendo el mensaje</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Extractos de «Un informe sobre la canalización en la comunidad Urantia» de Ernest Moyer_
 
-> «_Pero debemos indicar claramente que las criaturas intermedias no están implicadas en los sórdidos espectáculos que tienen lugar bajo la denominación general de «espiritismo»._» ([LU 77:8.13](/es/The_Urantia_Book/77#p8_13))
+> «_Pero debemos indicar claramente que las criaturas intermedias no están implicadas en los sórdidos espectáculos que tienen lugar bajo la denominación general de «espiritismo»._» (<a id="a39_182"></a>[LU 77:8.13](/es/The_Urantia_Book/77#p8_13))
 
 ¡Ahí está! Una declaración concreta y específica sobre el espiritismo, la mediumnidad y la canalización. Las criaturas intermedias no participan en actuaciones tan sórdidas. No invaden la santidad de la mente humana; no ofrecen comunicaciones espirituales; no engañan a los pobres humanos mortales descarriados; no profanan la dignidad de la personalidad humana. No proporcionan canalizaciones ni ninguna otra forma de mediumnidad que caiga bajo la designación general de espiritismo.
 
@@ -48,3 +72,28 @@ A partir de una revisión de pasajes del _El Libro de URANTIA_, podemos llegar a
 <figcaption>Y entonces, para un gibón de dos millones de años llamado Gus.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Channeling_And_Mental_Disorder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalización y trastorno mental</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-3-mayo-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 3 Mayo de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Spreading_The_Message">
+          <span class="pr-2">Difundiendo el mensaje</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Trevor Swadling<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consistency_In_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coherencia en el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="pr-2">La moralidad es una ley en sí misma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Trevor Swadling, Sídney_
@@ -47,3 +71,28 @@ Mis comentarios finales sobre este tema son que si aquellos que están planeando
 > 
 > Saunders
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Consistency_In_The_Urantia_Book_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Coherencia en el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="pr-2">La moralidad es una ley en sí misma</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Neil Francey<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol7_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 7 Núm. 4 Mayo de 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-4-mayo-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 4 Mayo de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="pr-2">Comentario sobre declaraciones científicas en El libro de Urantia: Física subatómica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dada la actual tasa de crecimiento de las ventas de libros en Australia, es razonable esperar este aumento en todo el mundo en los países de habla inglesa y francesa. Es difícil pronosticar una alternativa probable. Los números exigirán medidas significativas para mantener la naturaleza personal del trabajo de El Libro de Urantia.
@@ -31,3 +55,28 @@ Un grupo internacional, compuesto por miembros individuales, debe ser siempre in
 
 Neil Francey, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol7_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 7 Núm. 4 Mayo de 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-4-mayo-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 4 Mayo de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Commentary_On_Scientific_Statements_In_UB">
+          <span class="pr-2">Comentario sobre declaraciones científicas en El libro de Urantia: Física subatómica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 11 No. 3 - Febrero de 1990"
+título: "¿La supervivencia de los más afortunados?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Cindy Hopper<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 3 Mayo de 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-3-mayo-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 3 Mayo de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Reimpreso con autorización de PRINTS OF PEACE, Vol IV, No 3, febrero de 1990.**
@@ -39,10 +60,32 @@ Aturde la mente al pensar que si alguna de estas criaturas hubiera sobrevivido a
 
 En _El Libro de URANTIA_, un Portador de Vida dice:
 
-> «_Será muy difícil explicarle a la mente humana actual muchos sucesos extraños y aparentemente grotescos del progreso evolutivo inicial. A lo largo de todas estas evoluciones aparentemente extrañas de seres vivientes estaba funcionando un plan intencional, pero no nos está permitido intervenir arbitrariamente en el desarrollo de los modelos de vida una vez que se han activado._» ([LU 65:3.1](/es/The_Urantia_Book/65#p3_1))
+> «_Será muy difícil explicarle a la mente humana actual muchos sucesos extraños y aparentemente grotescos del progreso evolutivo inicial. A lo largo de todas estas evoluciones aparentemente extrañas de seres vivientes estaba funcionando un plan intencional, pero no nos está permitido intervenir arbitrariamente en el desarrollo de los modelos de vida una vez que se han activado._» (<a id="a62_385"></a>[LU 65:3.1](/es/The_Urantia_Book/65#p3_1))
 
 También afirma que los grupos de implantación oriental y central inicialmente estaban desarrollando potencialidades humanas, pero la región sufrió pérdidas irreparables de los tipos más elevados de plasma germinal, por lo que los mamíferos superiores se desarrollaron posteriormente a partir de la implantación occidental de la vida. Estas y muchas otras afirmaciones parecen confirmar que el modelo de supervivencia de los más afortunados de Gould está, al menos hasta cierto punto, en armonía con el relato del Libro de URANTIA sobre cómo evolucionó la vida en la Tierra.
 
 **Cindy Hopper**
 **Toronto Canada**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 3 Mayo de 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-3-mayo-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 3 Mayo de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

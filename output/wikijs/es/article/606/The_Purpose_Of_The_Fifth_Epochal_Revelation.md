@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/A_Bibliographic_Essay_On_Some_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un ensayo bibliográfico sobre algunas fuentes humanas utilizadas en el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-6-noviembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 6 noviembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Why_Do_We_Need_Leaders">
+          <span class="pr-2">¿Por qué necesitamos líderes?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Adaptado de un archivo (SOS1 OYR.NLA) en la Biblioteca de la Hermandad del Hombre.**
@@ -23,13 +47,13 @@ Habiendo ajustado nuestro pensamiento al cambio dinámico y de largo plazo en el
 
 De estas afirmaciones se pueden sacar varias inferencias. No tenemos ninguna exhortación específica a prepararnos para una situación similar a un holocausto, por lo que tal vez nuestra actitud debería ser la de no pensar ansiosamente y seguir viviendo hoy, dejando que el mañana «se cuide solo». Tal como se nos indicó, deberíamos preocuparnos de estabilizar la moral y los ideales de la humanidad. El documento nos dice que no hay nuevos deberes religiosos que desempeñar, siendo el papel de la religión el de guía sabia y consejera experimentada. Pero los líderes de nuestras mejores instituciones religiosas saben todo eso, y ciertamente hay mucha sabiduría y experiencia a la que recurrir en las iglesias, seminarios, facultades de teología, departamentos universitarios de religión, etc. Entonces, ¿por qué fue necesaria la Quinta Revelación de Época?
 
-Quizás [la sección 2 de este documento](/es/The_Urantia_Book/99#p2) proporcione una respuesta a esta pregunta. Se nos dice que la religión institucional es incapaz de proporcionar el liderazgo y la inspiración necesarios porque se encuentra en una situación de «Trampa 22». No puede reconstruir la sociedad sin antes reconstruirse a sí misma y no puede reconstruirse hasta que la sociedad haya sido reconstruida radicalmente. Cualquiera que haya tenido algo que ver con el cambio de alguna parte de la liturgia o costumbre de la iglesia sabrá cuán cierta es esa afirmación. Luego, la sección 2 continúa diciéndonos que los religiosos deben funcionar en la sociedad, la industria y la política como individuos, no como grupos o instituciones. Se afirma que el papel apropiado de la iglesia institucionalizada en los cambios que ya se avecinan es la enseñanza de la no violencia, la doctrina de la evolución pacífica en lugar de la revolución violenta, la paz en la tierra y la buena voluntad entre todos los hombres. Pasando a la Sección 4 leemos:
+Quizás <a id="a49_7"></a>[la sección 2 de este documento](/es/The_Urantia_Book/99#p2) proporcione una respuesta a esta pregunta. Se nos dice que la religión institucional es incapaz de proporcionar el liderazgo y la inspiración necesarios porque se encuentra en una situación de «Trampa 22». No puede reconstruir la sociedad sin antes reconstruirse a sí misma y no puede reconstruirse hasta que la sociedad haya sido reconstruida radicalmente. Cualquiera que haya tenido algo que ver con el cambio de alguna parte de la liturgia o costumbre de la iglesia sabrá cuán cierta es esa afirmación. Luego, la sección 2 continúa diciéndonos que los religiosos deben funcionar en la sociedad, la industria y la política como individuos, no como grupos o instituciones. Se afirma que el papel apropiado de la iglesia institucionalizada en los cambios que ya se avecinan es la enseñanza de la no violencia, la doctrina de la evolución pacífica en lugar de la revolución violenta, la paz en la tierra y la buena voluntad entre todos los hombres. Pasando a la Sección 4 leemos:
 
-> «_Cualesquiera que sean los trastornos que puedan acompañar al crecimiento social y económico de la civilización, la religión es auténtica y valiosa si fomenta en el individuo una experiencia en la que prevalece la soberanía de la verdad, la belleza y la bondad, porque éste es el verdadero concepto espiritual de la realidad suprema. Y a través del amor y de la adoración, todo esto adquiere significado bajo la forma de la hermandad con los hombres y la filiación con Dios._» ([LU 99:4.4](/es/The_Urantia_Book/99#p4_4))
+> «_Cualesquiera que sean los trastornos que puedan acompañar al crecimiento social y económico de la civilización, la religión es auténtica y valiosa si fomenta en el individuo una experiencia en la que prevalece la soberanía de la verdad, la belleza y la bondad, porque éste es el verdadero concepto espiritual de la realidad suprema. Y a través del amor y de la adoración, todo esto adquiere significado bajo la forma de la hermandad con los hombres y la filiación con Dios._» (<a id="a51_481"></a>[LU 99:4.4](/es/The_Urantia_Book/99#p4_4))
 
 De estas afirmaciones podemos deducir que, durante mucho tiempo, el papel principal de la religión en el avance de nuestra civilización no dependerá tanto de las instituciones sino del comportamiento del individuo. Esta opinión se confirma en la Sección 3:
 
-> «_Para conseguir una civilización cultural elevada se necesita, en primer lugar, el tipo ideal de ciudadano, y a continuación unos mecanismos sociales ideales y adecuados con los que estos ciudadanos puedan controlar las instituciones económicas y políticas de esa sociedad humana avanzada._» ([LU 99:3.4](/es/The_Urantia_Book/99#p3_4))
+> «_Para conseguir una civilización cultural elevada se necesita, en primer lugar, el tipo ideal de ciudadano, y a continuación unos mecanismos sociales ideales y adecuados con los que estos ciudadanos puedan controlar las instituciones económicas y políticas de esa sociedad humana avanzada._» (<a id="a55_296"></a>[LU 99:3.4](/es/The_Urantia_Book/99#p3_4))
 
 Pero, ¿qué nos dice todo esto acerca de las razones por las que tenemos esta Quinta Revelación de Época ahora mismo? Parece que nos dicen que tenemos por delante una tarea de mil años que, al menos al principio, debería limitarse casi por completo a la producción de ciudadanos ideales que, como individuos, sirvan para estabilizar el nivel moral y espiritual. Progresión de la sociedad durante períodos rápidos de cambio. Pero el mensaje del Libro de URANTIA relevante para la producción de una ciudadanía ideal se puede discernir a partir de las enseñanzas de Jesús y particularmente de sus parábolas tal como están registradas en los cuatro Evangelios del Nuevo Testamento, y han sido conocidas por millones y millones de cristianos durante mucho tiempo. ¡casi 2000 años! Entonces, ¿dónde es deficiente el cristianismo y cómo nos dice el Libro de URANTIA que compensemos esa deficiencia?
 
@@ -39,7 +63,7 @@ Sin duda, una proporción muy grande de cristianos practicantes son discípulos 
 
 Los requisitos para el apostolado se establecen en el Documento 140 del Libro de URANTIA. Es muy posible leer este documento y concluir que estaba destinado únicamente a los doce originales. Pero esto no es así. En la Sección 1, párrafo 4, se ofrece el apostolado a todos los que quieran seguir el camino de los doce. Esa oferta se reitera en la Sección 3, párrafo 20 donde Jesús dice:
 
-> _«Pero todo el que escuche esta instrucción y ejecute sinceramente su misión de representarme ante los hombres, como yo he representado a mi Padre ante vosotros, encontrará una entrada abundante a mi servicio y en el reino del Padre celestial»._ ([LU 140:3.20](/es/The_Urantia_Book/140#p3_20))
+> _«Pero todo el que escuche esta instrucción y ejecute sinceramente su misión de representarme ante los hombres, como yo he representado a mi Padre ante vosotros, encontrará una entrada abundante a mi servicio y en el reino del Padre celestial»._ (<a id="a65_249"></a>[LU 140:3.20](/es/The_Urantia_Book/140#p3_20))
 
 Necesitamos considerar si las demandas reales de la Quinta Revelación de Época pueden ser primero para cientos, luego para miles, seguidos por millones y millones de estudiantes del Libro de URANTIA, todos dispuestos a emprender el camino más difícil del apostolado. Quizás sea el papel de estos apóstoles modernos ejemplificar en sus vidas el significado del «tipo ideal de ciudadano» al que se hace referencia en el Documento 99, que catalizará el eventual logro de la alta civilización cultural que, según se profetiza, se producirá dentro de aproximadamente 1.000 años. .
 
@@ -47,3 +71,28 @@ Una diferencia entre el discipulado y el apostolado anunciado por Jesús es que,
 
 En el pasado, muchos cristianos han entrado plenamente en el apostolado, pero el cristianismo no ha logrado guiar al mundo por el camino requerido simplemente porque la mayoría de los cristianos eligen, en el mejor de los casos, el discipulado. Quizás entonces el propósito principal de la Quinta Revelación de Época sea el reclutamiento progresivo de grandes multitudes de apóstoles genuinos y totalmente comprometidos. Seguramente vale la pena pensarlo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matthew_Block/A_Bibliographic_Essay_On_Some_Human_Sources">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un ensayo bibliográfico sobre algunas fuentes humanas utilizadas en el libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-6-noviembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 6 noviembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Why_Do_We_Need_Leaders">
+          <span class="pr-2">¿Por qué necesitamos líderes?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

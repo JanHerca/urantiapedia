@@ -39,7 +39,7 @@ dateCreated: 2023-02-08T14:02:03.086Z
 
 ## El patrón
 
-El Hijo Creador y el Espíritu Madre del Universo de Nebadon emitieron su «Proclamación de Igualdad» <a id="a41_106"></a>[[LU 33:3.5,6](/es/The_Urantia_Book/33#p3_5)] después de que Ella reconoció su subordinación a Él, y Él reconoció la dependencia eterna de Ella. Tienen igualdad en todas las dotes de personalidad, atributos de carácter divino y autoridad, y son co-creadores, co-gobernantes, cooperadores, coordinados y co-directores. Este es el patrón universal para el matrimonio: para tener igualdad, cada uno debe «dar» algo para lograrlo. De lo contrario, existe alguna forma de relación dominante/sumiso.
+El Hijo Creador y el Espíritu Madre del Universo de Nebadon emitieron su «Proclamación de Igualdad» <a id="a41_100"></a>[[LU 33:3.5,6](/es/The_Urantia_Book/33#p3_5)] después de que Ella reconoció su subordinación a Él, y Él reconoció la dependencia eterna de Ella. Tienen igualdad en todas las dotes de personalidad, atributos de carácter divino y autoridad, y son co-creadores, co-gobernantes, cooperadores, coordinados y co-directores. Este es el patrón universal para el matrimonio: para tener igualdad, cada uno debe «dar» algo para lograrlo. De lo contrario, existe alguna forma de relación dominante/sumiso.
 
 ## Masculino/Feminidad
 

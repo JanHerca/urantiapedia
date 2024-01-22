@@ -1,5 +1,5 @@
 ---
-título: "La necesidad de sabiduría grupal"
+título: "La necesidad de sabiduría de grupo"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Madeline Noordzy<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Find_the_Missing_Link">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentra el eslabón perdido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-5-septiembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 5 Septiembre 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -51,3 +72,25 @@ Creo que los lectores de la LU han establecido nuevos parámetros en estos asunt
 **Madeline Noordzy**
 **Melbourne**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Find_the_Missing_Link">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Encuentra el eslabón perdido</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-5-septiembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 5 Septiembre 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

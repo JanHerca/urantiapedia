@@ -1,5 +1,5 @@
 ---
-título: "¿El libro de Urantia, posible señal para la investigación científica?"
+título: "El Libro de Urantia ¿Posible señal para la investigación científica?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 William Wentworth<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Brotherhood_Of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Hermandad de los hombres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-2-marzo-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 2 Marzo 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En el documento que presentó en la reunión del Pacífico Sur en octubre, Ken Glasziou argumentó que la teoría científica está convergiendo constantemente en la información revelada en _El Libro de URANTIA_. Durante los últimos 50 años aproximadamente, la opinión en muchos campos científicos se ha acercado mucho más a la posición del _Libro de URANTIA_. El argumento de Ken es muy convincente.
@@ -45,3 +66,25 @@ Rogué a Dios que me diera todas las cosas, para poder disfrutar de la vida... E
 
 Contribuido por Merindy Swadling, Sídney
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Brotherhood_Of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Hermandad de los hombres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-2-marzo-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 2 Marzo 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

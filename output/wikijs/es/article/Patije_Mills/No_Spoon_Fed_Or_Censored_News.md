@@ -1,5 +1,5 @@
 ---
-título: "Sin noticias censuradas ni con cuchara"
+título: "Sin noticias censuradas o maquilladas"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Patije Mills<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Martin_Greenhut/All_Of_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Todo ello</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irene_and_Wolfgang_Borutta/Epochal_Revolt">
+          <span class="pr-2">«Revuelta de época»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¡Six-O-Six es un periódico de calidad! (Me gusta la idea de la Parte I y la Parte II para que quienes sean sensibles a la información puedan omitir la Parte II).
@@ -27,7 +51,7 @@ _El Libro de URANTIA_ nos enseña a aprender sobre la religión de los demás. A
 
 Esto se puede aplicar a las noticias de la Parte II de Six-O-Six. Al menos conozcamos y disciernamos la verdad, no escondamos nuestras cabezas e intelectos en el Fundamentalismo de URANTIA que podría volvernos ciegos a una nueva revelación. En este momento, personalmente tengo poco interés en lo que está sucediendo en Sedona, Arizona; incluso siento que hay una gran cantidad de «cizaña plantada con el trigo» (la parábola de Jesús sobre la verdad y la mentira creciendo juntas hasta que se conocen por su fruto). — sin embargo, no tengo ningún problema en mantenerme al día con los acontecimientos hasta que pueda tomar una decisión basada en la inteligencia y el conocimiento espiritual.
 
-Hace unos años me impresionó una combinación de verdades de _El Libro de URANTIA_ ([LU 117:1.1](/es/The_Urantia_Book/117#p1_1) y [LU 126:2.5](/es/The_Urantia_Book/126#p2_5)) y, habiéndolas compartido (de manera personal), un artista de mis grupos de estudio las dibujó y enmarcó. lo que ahora cuelga sobre nosotros cuando estudiamos y discutimos muchos puntos de verdad y opinión. ¿Puedo compartirlos contigo?
+Hace unos años me impresionó una combinación de verdades de _El Libro de URANTIA_ (<a id="a53_83"></a>[LU 117:1.1](/es/The_Urantia_Book/117#p1_1) y <a id="a53_129"></a>[LU 126:2.5](/es/The_Urantia_Book/126#p2_5)) y, habiéndolas compartido (de manera personal), un artista de mis grupos de estudio las dibujó y enmarcó. lo que ahora cuelga sobre nosotros cuando estudiamos y discutimos muchos puntos de verdad y opinión. ¿Puedo compartirlos contigo?
 
 <figure id="Figure_2" class="image urantiapedia" alt="Balanced life">
 <img src="/image/article/606/balanced.jpg">
@@ -38,3 +62,28 @@ Six-O-Six es un boletín informativo de calidad. ¡Sigan con el buen trabajo y l
 
 **Patije Mills, Sarasota, Florida, EE.UU.**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Martin_Greenhut/All_Of_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Todo ello</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irene_and_Wolfgang_Borutta/Epochal_Revolt">
+          <span class="pr-2">«Revuelta de época»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

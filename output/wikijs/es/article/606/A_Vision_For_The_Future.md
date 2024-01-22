@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una investigación estadística de los estilos de escritura en los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/On_The_Early_Christians">
+          <span class="pr-2">Sobre los primeros cristianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por el Grupo de Estudio de Sunshine Coast_
@@ -27,7 +51,7 @@ La desaparición de la Tercera Revelación de Época y el éxito limitado de la 
 
 Jesús predicó el evangelio del reino, la paternidad de Dios, nuestra filiación con el Padre y la hermandad de todos los hombres. Habló de un reino espiritual en los corazones de los hombres. Sin embargo, sus discípulos no pudieron abandonar sus conceptos de un reino mesiánico terrenal. Convirtieron la muerte de Jesús en la cruz en un acto de sacrificio por el perdón de los pecados, una doctrina que trajo un enorme alivio a los pobres, los enfermos y los desafortunados que creían que su suerte era un castigo por el pecado. La doctrina cristiana posterior no logró aceptar una aparente contradicción entre el perfecto amor y la misericordia de Dios y la perfecta rectitud y justicia de Dios; de ahí que la doctrina de la expiación perdure hasta el día de hoy. _El Libro de URANTIA_ enseña que:
 
-> «_El afectuoso Padre celestial, cuyo espíritu reside en sus hijos de la Tierra, no es una personalidad dividida —una de justicia y otra de misericordia— ni tampoco se necesita un mediador para conseguir el favor o el perdón del Padre. La rectitud divina no está dominada por una estricta justicia retributiva; Dios como padre trasciende a Dios como juez._» ([LU 2:6.6](/es/The_Urantia_Book/2#p6_6))
+> «_El afectuoso Padre celestial, cuyo espíritu reside en sus hijos de la Tierra, no es una personalidad dividida —una de justicia y otra de misericordia— ni tampoco se necesita un mediador para conseguir el favor o el perdón del Padre. La rectitud divina no está dominada por una estricta justicia retributiva; Dios como padre trasciende a Dios como juez._» (<a id="a53_360"></a>[LU 2:6.6](/es/The_Urantia_Book/2#p6_6))
 
 El concepto de un Padre-Dios que es amor y nuestra filiación con el Padre no sólo predica la hermandad de todos los hombres, sino que también tiene el potencial de desplazar la doctrina de la expiación. Ambos conceptos tienen respaldo bíblico en el Nuevo Testamento. La oración del Señor comienza con las palabras «Padre nuestro» y el concepto de que somos hijos del Padre tiene respaldo en los evangelios de Mateo, Lucas y Juan, en las cartas de Pablo a los romanos, gálatas y filipenses, y en 1 Juan. Este último también nos dice que Dios es amor.
 
@@ -37,7 +61,7 @@ En otras ocasiones, las historias de los evangelios cuentan que Jesús fácilmen
 
 El Libro de URANTIA ha logrado pocos avances evidentes en las iglesias durante los últimos cuarenta años. Si sus enseñanzas se incorporan a la enseñanza cristiana actual, se hace sin referencia al libro mismo. No es consistente con las enseñanzas del Libro de URANTIA que sus reveladores exijan crédito por tal incorporación. Si esa es la forma más efectiva de cumplir una de las aspiraciones mencionadas entre sus enseñanzas, que así sea:
 
-> «_Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!_» ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
+> «_Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!_» (<a id="a63_561"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
 ¿Cómo pueden los lectores del Libro de URANTIA acelerar el proceso? Ya debería ser evidente que el clero, incluso aquellos que conocen su existencia, no van a anunciar la quinta Revelación de época a los cuatro vientos. Una reflexión reflexiva puede llevar a la conclusión de que ni siquiera el propio Papa podría hacer esto sin dividir a la Iglesia. La misma reflexión cuidadosa también puede indicar que un mejor curso de acción sería una evolución lenta en lugar de una revolución destructiva. Entonces, ¿cómo logramos que las enseñanzas primarias del evangelio del reino estén al frente del cuerpo principal del dogma de la iglesia? Primero consideremos cuáles pueden ser estas enseñanzas.
 
@@ -56,13 +80,13 @@ El Libro de URANTIA ha logrado pocos avances evidentes en las iglesias durante l
 
 La experiencia de los lectores del Libro de Urantia que asisten a la iglesia ya ha revelado que tratar de llamar la atención de otros asistentes a la iglesia sobre el libro no es muy fructífero. No es fácil alterar en los adultos esos hábitos de pensamiento arraigados que ya se adquirieron en la infancia. Entonces, ¿podemos empezar con los niños? La respuesta a eso es Eyes, se puede hacer en clases normales de instrucción religiosa y escuelas dominicales mediante el simple recurso de enfatizar las enseñanzas esenciales de Jesús sobre el reino. Sin embargo, seguramente la forma más gratificante de promulgar estas enseñanzas en todo el cristianismo es mediante libros infantiles bien escritos e ilustrados. Para el futuro inmediato ésta es sin duda la necesidad más urgente. Si tienes los talentos necesarios, el _Libro de URANTIA_ te pide que los utilices.
 
-> «_El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana._» ([LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
+> «_El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina. Una visión así nueva y justa de la moralidad atraerá todo lo que hay de bueno en la mente del hombre y desafiará lo que hay de mejor en el alma humana._» (<a id="a82_503"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10))
 
 Debido a que Jesús es su figura central, el _Libro de URANTIA_ será juzgado por su efecto sobre los cristianos; Es probable que el comportamiento de los cristianos entre sí sea el único factor que pueda catalizar una transformación entre los no cristianos.
 
 Quizás la referencia en _El Libro de URANTIA_ a un segundo Juan Bautista sea figurativa y realmente represente a ese grupo de individuos que prepararán el camino para el libro reviviendo primero el verdadero evangelio del reino. El propio libro nos marca un objetivo muy limitado:
 
-> «_La meta última del progreso humano consiste en reconocer respetuosamente la paternidad de Dios y en materializar con amor la fraternidad de los hombres._» ([LU 143:1.4](/es/The_Urantia_Book/143#p1_4))
+> «_La meta última del progreso humano consiste en reconocer respetuosamente la paternidad de Dios y en materializar con amor la fraternidad de los hombres._» (<a id="a88_160"></a>[LU 143:1.4](/es/The_Urantia_Book/143#p1_4))
 
 ### Referencias para 'Nuestro Mandato'
 
@@ -79,3 +103,28 @@ _Nota de Urantiapedia: consulte los enlaces en la parte superior de la página._
 9. Efesios 5:8-9; Gálatas 5:22; VUC 3:5.5
 10. Mateo 5:9; Lc 20:36; Juan 1:12-13; Romanos 8:14-16; Fil 2:15; Gálatas 4:6; 1 Juan 3:2; LU 141:2.2; 163:6.7; 176:3.2
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una investigación estadística de los estilos de escritura en los documentos de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/On_The_Early_Christians">
+          <span class="pr-2">Sobre los primeros cristianos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

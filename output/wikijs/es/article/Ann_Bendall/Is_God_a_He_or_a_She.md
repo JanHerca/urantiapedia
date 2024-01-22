@@ -1,5 +1,5 @@
 ---
-título: "¿Es Dios un él o una ella?"
+título: "¿Dios es él o ella?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viviendo con nuestro padre cósmico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Michael_Waterman/An_Open_Letter">
+          <span class="pr-2">Una carta abierta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 No me había dado cuenta de que había alguna discusión sobre el sexo de Dios hasta hace unos meses, cuando me topé con una situación que trato de evitar con todas mis fuerzas: entrar en discusiones teológicas sobre el Padre Nuestro. Por experiencias pasadas he descubierto que la mayoría de las personas que quieren 'descifrarme' sobre quién es Dios, mantienen sus puntos de vista de manera fuerte, ciega, irracional y determinada, así que cambio el tema a un tema más seguro como el clima.
@@ -35,7 +59,7 @@ El concepto de la Trinidad es difícil de entender, y en la facultad de teologí
 
 Pero ¿por qué las mujeres quieren que Dios sea «Ella»? Seguramente el complemento de nosotros mismos, es nuestro opuesto. El primer amor de una niña es su papá. El Libro Azul nos dice que no existe una asociación tan eficaz como la de los miembros del sexo opuesto.
 
-> «Un hombre y una mujer que cooperan, incluso aparte de la familia y de los hijos, son muy superiores en casi todos los aspectos a dos hombres o dos mujeres.» ([LU 84:1.9](/es/The_Urantia_Book/84#p1_9))
+> «Un hombre y una mujer que cooperan, incluso aparte de la familia y de los hijos, son muy superiores en casi todos los aspectos a dos hombres o dos mujeres.» (<a id="a61_161"></a>[LU 84:1.9](/es/The_Urantia_Book/84#p1_9))
 
 ¿Por qué las mujeres quieren que Jesús y Dios sean mujeres? Que me jodan si lo sé.
 
@@ -45,3 +69,28 @@ Tal vez, si los hombres pudieran mirar a Dios más como «Ella», según las def
 
 **Ann Bendall, Nambour, Queensland**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Glass/Living_With_Our_Cosmic_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Viviendo con nuestro padre cósmico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Paul_Michael_Waterman/An_Open_Letter">
+          <span class="pr-2">Una carta abierta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

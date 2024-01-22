@@ -9,11 +9,35 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Christopher Billington<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/A_URANTIA_Book_Fundamentalist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Un fundamentalista del Libro de URANTIA?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-5-septiembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 5 Septiembre 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Find_the_Missing_Link">
+          <span class="pr-2">Encuentra el eslabón perdido</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 He estado releyendo los pocos comentarios sobre 'mota'.
 
-> «La mota es más que una filosofía superior; es con respecto a la filosofía lo que dos ojos lo son con respecto a uno solo; posee un efecto estereoscópico sobre los significados y los valores. El hombre material ve el universo, por así decirlo, con un solo ojo —plano. Los estudiantes de los mundos de las mansiones consiguen la perspectiva cósmica —la profundidad— superponiendo las percepciones de la vida morontial a las percepciones de la vida física.» ([LU 48:6.28](/es/The_Urantia_Book/48#p6_28))
+> «La mota es más que una filosofía superior; es con respecto a la filosofía lo que dos ojos lo son con respecto a uno solo; posee un efecto estereoscópico sobre los significados y los valores. El hombre material ve el universo, por así decirlo, con un solo ojo —plano. Los estudiantes de los mundos de las mansiones consiguen la perspectiva cósmica —la profundidad— superponiendo las percepciones de la vida morontial a las percepciones de la vida física.» (<a id="a39_459"></a>[LU 48:6.28](/es/The_Urantia_Book/48#p6_28))
 
 Más tarde pude relacionar esto con mi interés por el lenguaje y el humor, y mi inquietud por la pobreza de las descripciones del humor en _El Libro de URANTIA_. Siempre he sabido que una de las principales fuentes del humor reside en la estructura, el formalismo del lenguaje. Debido al simbolismo, una declaración puede tener una variedad de significados. El contexto puede mostrar cuál es la intención y el oyente normalmente no es consciente de ningún otro significado debido a que está sintonizado con ese contexto. Sin embargo, el pensador más lateral (o el fanático del lenguaje, como yo) a menudo puede ver más que el significado pretendido. La sorpresa de la repentina comprensión de otro giro es una de las manifestaciones del humor, y para mí una manifestación significativa. Si el hablante también lo ha visto, entonces puede ser una broma deliberada; si el hablante no lo ha visto, entonces el oyente hará bien en dejarlo pasar, pero tal vez aún disfrute internamente de su humor.
 
@@ -24,3 +48,28 @@ También hay algunos inconvenientes en esta línea de pensamiento. Aprender que 
 **Christopher Billington**
 **WTree vía Buchan, Vic.**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/A_URANTIA_Book_Fundamentalist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Un fundamentalista del Libro de URANTIA?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-5-septiembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 5 Septiembre 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Find_the_Missing_Link">
+          <span class="pr-2">Encuentra el eslabón perdido</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

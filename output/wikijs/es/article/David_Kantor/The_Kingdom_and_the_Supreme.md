@@ -77,7 +77,7 @@ _Las dispensaciones son herramientas para administrar los servicios de apoyo pla
 
 _Las dispensaciones son herramientas para sincronizar los asuntos administrativos de los diferentes mundos asociados con el esquema de ascensión._ Los programas de rehabilitación, los mecanismos sociales, los programas educativos, los procedimientos de administración del sistema local y planetario deben planificarse, crearse y ponerse en marcha para que estén listos para los nuevos grupos de peregrinos que llegan de los planetas evolutivos en conjunción con las transiciones de una dispensación a la siguiente.
 
-En Urantia, Miguel inauguró la dispensación del Espíritu de la Verdad otorgado, una «..._nueva dispensación en la que el individuo esclavizado emerge del cautiverio del ceremonialismo y del egoísmo, y pasa a la alegría espiritual de la fraternidad y la comunidad de los hijos por la fe, liberados, que pertenecen al Dios vivo._» <a id="a79_328"></a>[[LU 179:5.2](/es/The_Urantia_Book/179#p5_2)] _El Libro de Urantia_ es una característica de esta dispensación del Espíritu de la Verdad, «..._una dispensación de misericordia y de salvación nueva y mejor para todas las naciones,_» <a id="a79_560"></a>[[LU 136:1.3](/es/The_Urantia_Book/136#p1_3)] la llamada «_dispensación cristiana.» <a id="a79_644"></a>[[LU 195:8.13](/es/The_Urantia_Book/195#p8_13)]
+En Urantia, Miguel inauguró la dispensación del Espíritu de la Verdad otorgado, una «..._nueva dispensación en la que el individuo esclavizado emerge del cautiverio del ceremonialismo y del egoísmo, y pasa a la alegría espiritual de la fraternidad y la comunidad de los hijos por la fe, liberados, que pertenecen al Dios vivo._» <a id="a79_329"></a>[[LU 179:5.2](/es/The_Urantia_Book/179#p5_2)] _El Libro de Urantia_ es una característica de esta dispensación del Espíritu de la Verdad, «..._una dispensación de misericordia y de salvación nueva y mejor para todas las naciones,_» <a id="a79_561"></a>[[LU 136:1.3](/es/The_Urantia_Book/136#p1_3)] la llamada «_dispensación cristiana.» <a id="a79_645"></a>[[LU 195:8.13](/es/The_Urantia_Book/195#p8_13)]
 
 Considere algunas de las fuerzas espirituales que influyen en nuestro mundo y su relación con la presente dispensación.
 
@@ -101,7 +101,7 @@ _Los Ajustadores del Pensamiento_: «Estos Monitores de Misterio ayudan continua
 
 Los Ajustadores del Pensamiento son el «reino de los cielos dentro de ti». <a id="a101_75"></a>[[LU 108:6.2](/es/The_Urantia_Book/108#p6_2)]
 
-_El Espíritu Santo del Espíritu Materno Universal_: Este circuito espiritual prepara la mente ayudante para la recepción del Ajustador. <a id="a103_133"></a>[[LU 108:2.2](/es/The_Urantia_Book/108#p2_2)]
+_El Espíritu Santo del Espíritu Materno Universal_: Este circuito espiritual prepara la mente ayudante para la recepción del Ajustador. <a id="a103_136"></a>[[LU 108:2.2](/es/The_Urantia_Book/108#p2_2)]
 
 Estas fuerzas espirituales primarias están enfocadas en reforzar e iluminar los significados y valores que emergen como resultado del otorgamiento de Jesús—los elementos fundamentales de la dispensación actual. _El Libro de Urantia_ es una característica de esta dispensación. Sirve a los objetivos principales que persigue el ministerio espiritual en el planeta: el establecimiento del reino, la revelación de la naturaleza de la deidad evolutiva experiencial y el intento de movilizar la participación mortal en esta gran aventura cósmica.
 
@@ -131,7 +131,7 @@ Si bien estos propósitos del otorgamiento de Miguel parecen muy sencillos, el p
 
 > Jesús explicó muy claramente que el reino de los cielos era una experiencia evolutiva que empezaba aquí, en la Tierra, y progresaba por medio de etapas sucesivas de vida hasta el Paraíso. <a id="a131_190"></a>[[LU 142:7.3](/es/The_Urantia_Book/142#p7_3)]
 
-> El Ser Supremo «_es el coordinador que sintetiza todas las actividades universales de la criatura y del Creador._» <a id="a133_115"></a>[[LU 0:7.9](/es/The_Urantia_Book/0#p7_9)]
+> El Ser Supremo «_es el coordinador que sintetiza todas las actividades universales de la criatura y del Creador._» <a id="a133_117"></a>[[LU 0:7.9](/es/The_Urantia_Book/0#p7_9)]
 
 > La fe de Jesús [proveyó]... de la liberación del yo, escapando a las limitaciones de la conciencia de sí mismo mediante el hecho de alcanzar los niveles cósmicos de la mente Suprema y gracias a la coordinación con los logros de todos los demás seres conscientes de sí mismos... la unión perfeccionada con la Deidad en el Supremo y a través de él... <a id="a135_351"></a>[[LU 101:6.13,15](/es/The_Urantia_Book/101#p6_13)]
 
@@ -176,7 +176,7 @@ Considere las siguientes enseñanzas sobre el reino y el Supremo.
 
 > Jesús... proclamó que el reino es la voluntad de su Padre celestial dominante y trascendente en el corazón del creyente... <a id="a176_125"></a>[[LU 170:5.19](/es/The_Urantia_Book/170#p5_19)]
 
-> El evangelio del reino es «... _el deseo supremo de hacer la voluntad del Padre, unido a la alegría suprema de comprender, por la fe, que sois hijos de Dios_...» <a id="a178_162"></a>[[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]
+> El evangelio del reino es «... _el deseo supremo de hacer la voluntad del Padre, unido a la alegría suprema de comprender, por la fe, que sois hijos de Dios_...» <a id="a178_164"></a>[[LU 178:1.11](/es/The_Urantia_Book/178#p1_11)]
 
 > El reino de Dios en este mundo [es]... el deseo supremo de hacer la voluntad de Dios. <a id="a180_88"></a>[[LU 170:2.16](/es/The_Urantia_Book/170#p2_16)]
 
@@ -252,7 +252,7 @@ Jesús describió la segunda fase del reino como «... _el reino de Dios en el c
 
 > Recordad que todo lo que Dios Padre y sus Hijos Paradisiacos hacen por nosotros, nosotros a nuestra vez y en espíritu tenemos la oportunidad de hacerlo por el Ser Supremo emergente, y en él. La experiencia del amor, de la alegría y del servicio en el universo es mutua. <a id="a252_272"></a>[[LU 56:8.3](/es/The_Urantia_Book/56#p8_3)]
 
-> El reino es «_una vida de rectitud progresiva y de alegría creciente en el servicio cada vez más perfecto de mi Padre que está en los cielos._» <a id="a254_144"></a>[[LU 137:8.13](/es/The_Urantia_Book/137#p8_13)]
+> El reino es «_una vida de rectitud progresiva y de alegría creciente en el servicio cada vez más perfecto de mi Padre que está en los cielos._» <a id="a254_146"></a>[[LU 137:8.13](/es/The_Urantia_Book/137#p8_13)]
 
 > ... la verdadera religión interior del reino tiende a manifestarse infaliblemente, y cada vez más, en las vías prácticas del servicio social. <a id="a256_144"></a>[[LU 170:3.8](/es/The_Urantia_Book/170#p3_8)]
 

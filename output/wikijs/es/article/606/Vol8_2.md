@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 No. 2 - Marzo de 1987"
+título: "Boletín Six-0-Six - Volumen 8 Núm. 2 - Marzo de 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Peter Toy, Robert Reno<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-2-marzo-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 2 Marzo 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="pr-2">¿Cuándo fue la fecha de la crucifixión de Miguel?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -32,7 +53,7 @@ Al mirar hacia el futuro, nos preguntamos si lo que asistimos y necesitamos son 
 
 > «La enseñanza de que el corazón paternal de Dios, en toda su frialdad y dureza austeras, era tan insensible a las desgracias y tristezas de sus criaturas que su tierna misericordia no podía manifestarse hasta que viera a su Hijo irreprochable sangrar y morir en la cruz del Calvario, ¡qué parodia del carácter infinito de Dios!»
 > 
-> «Pero los habitantes de Urantia han de encontrar la manera de liberarse de estos antiguos errores y de estas supersticiones paganas respecto a la naturaleza del Padre Universal. La revelación de la verdad sobre Dios está empezando a aparecer, y la raza humana está destinada a conocer al Padre Universal en toda esa belleza de carácter y ese encanto de atributos que fueron tan magníficamente presentados por el Hijo Creador que residió en Urantia como Hijo del Hombre e Hijo de Dios.» ([LU 4:5.6-7](/es/The_Urantia_Book/4#p5_6))
+> «Pero los habitantes de Urantia han de encontrar la manera de liberarse de estos antiguos errores y de estas supersticiones paganas respecto a la naturaleza del Padre Universal. La revelación de la verdad sobre Dios está empezando a aparecer, y la raza humana está destinada a conocer al Padre Universal en toda esa belleza de carácter y ese encanto de atributos que fueron tan magníficamente presentados por el Hijo Creador que residió en Urantia como Hijo del Hombre e Hijo de Dios.» (<a id="a55_489"></a>[LU 4:5.6-7](/es/The_Urantia_Book/4#p5_6))
 
 ## El primer stand australiano del Libro de Urantia
 
@@ -46,7 +67,7 @@ Los transeúntes interesados se llevaron más de 300 folletos, muchos de los cua
 
 Lo más importante que surgió de la experiencia del stand fue la identidad del grupo. Una vez, el grupo de estudio privado estuvo expuesto a la atención del público. y fuimos muy bien recibidos. También se desarrolló una excelente camaradería entre nosotros y los demás stands participantes; lo que me recordó un poco a la escuela de religiones de Cymboyton en Urmia.
 
-Los religiosos de Urmia vivían juntos en relativa paz y tranquilidad porque habían renunciado por completo a todas sus nociones de soberanía religiosa. Espiritualmente, todos creían en un Dios soberano; socialmente, la autoridad plena e indiscutible residía en su líder: Cymboyton. Sabían muy bien lo que le pasaría a cualquier profesor que asumiera enseñorearse de sus compañeros profesores. «Ninguna paz religiosa duradera puede existir en Urantia hasta que todos los grupos religiosos no renuncien libremente a todas sus nociones de favor divino, de pueblo elegido y de soberanía religiosa. Sólo cuando Dios Padre se vuelva supremo, los hombres se volverán hermanos en religión y vivirán juntos en paz religiosa en la Tierra». ([LU 134:4.10](/es/The_Urantia_Book/134#p4_10))
+Los religiosos de Urmia vivían juntos en relativa paz y tranquilidad porque habían renunciado por completo a todas sus nociones de soberanía religiosa. Espiritualmente, todos creían en un Dios soberano; socialmente, la autoridad plena e indiscutible residía en su líder: Cymboyton. Sabían muy bien lo que le pasaría a cualquier profesor que asumiera enseñorearse de sus compañeros profesores. «Ninguna paz religiosa duradera puede existir en Urantia hasta que todos los grupos religiosos no renuncien libremente a todas sus nociones de favor divino, de pueblo elegido y de soberanía religiosa. Sólo cuando Dios Padre se vuelva supremo, los hombres se volverán hermanos en religión y vivirán juntos en paz religiosa en la Tierra». (<a id="a69_731"></a>[LU 134:4.10](/es/The_Urantia_Book/134#p4_10))
 
 Recomiendo a todos los grupos de estudio de toda Australia que organicen un stand de libros de URANTIA. Es un gran servicio para la comunidad, no sólo hacerles saber que eres un creyente en _El Libro de URANTIA_, sino también sembrar semillas que eventualmente enriquecerán e iluminarán a toda la humanidad.
 
@@ -183,7 +204,7 @@ Durante el «Encuentro Internacional» en el Castillo de Montvillargenne, tuvimo
 
 Vivíamos no como estudiantes y maestros, sino sólo como individuos en busca de otros individuos para comprendernos y amarnos unos a otros. Todos eran muy diferentes, pero unidos con un denominador común: la conciencia de ser hijos de un Padre único y amoroso y el deseo de vivir esta filiación y la consiguiente fraternidad que sigue. Cada persona aportó su propio aporte único, actuando siempre con sinceridad.
 
-De hecho, fue fácil para nosotros vivir así. Los participantes, algunos de los cuales habían viajado muy lejos, aportaron una extraordinaria voluntad de conocer, aprender y compartir. La oración/meditación de la mañana acercó nuestras almas. Éramos como semillas en una vaina, protegidos y apiñados unos contra otros. «La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso...» ([LU 100:0.2](/es/The_Urantia_Book/100#p0_2)) Cada uno de nosotros, Al regresar a casa, sentimos una plenitud, un anhelo de prolongar este estado de gracia. Para la mayoría de nosotros, después de este cálido baño de hermandad, regresaremos y nos sumergiremos en las frías aguas de la vida cotidiana y nos encontraremos en nuestra propia vida. entorno social ordinario.
+De hecho, fue fácil para nosotros vivir así. Los participantes, algunos de los cuales habían viajado muy lejos, aportaron una extraordinaria voluntad de conocer, aprender y compartir. La oración/meditación de la mañana acercó nuestras almas. Éramos como semillas en una vaina, protegidos y apiñados unos contra otros. «La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso...» (<a id="a206_482"></a>[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)) Cada uno de nosotros, Al regresar a casa, sentimos una plenitud, un anhelo de prolongar este estado de gracia. Para la mayoría de nosotros, después de este cálido baño de hermandad, regresaremos y nos sumergiremos en las frías aguas de la vida cotidiana y nos encontraremos en nuestra propia vida. entorno social ordinario.
 
 Lo que hemos podido realizar entre nosotros, ¿por qué no intentar realizarlo a nuestro alrededor? Nos corresponde a cada uno de nosotros, en nuestro entorno cotidiano, participar en este proceso. Abre de par en par las vainas de las semillas y esparce la levadura del amor a nuestro alrededor. Si somos conscientes de ser hijas e hijos amados del Padre Universal del amor, entonces somos conscientes de que todos los hombres y mujeres son nuestros hermanos y hermanas, no sólo aquellos que leen _El libro de URANTIA_.
 
@@ -224,3 +245,25 @@ PROGRAMA
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-2-marzo-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 2 Marzo 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="pr-2">¿Cuándo fue la fecha de la crucifixión de Miguel?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Trevor Swadling<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol12_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="pr-2">Los extremos de creer como un niño pequeño</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aunque entre nuestros semejantes hay mucha confusión sobre lo que es espiritual, el camino hacia la conciencia de Dios, la iluminación, el camino o la técnica, me parece que Dios como personalidad es conocible y, por lo tanto, las personas que buscan a Dios deberían tener algo en común con sus experiencias. A lo largo de los años, el contacto con mis semejantes me ha confirmado personalmente que esto es cierto; después de todo, si tuviéramos un amigo querido que ambos conociéramos, de acuerdo con el grado y la duración de nuestra relación con él, seguramente habría aspectos de su naturaleza y carácter que ambos hubiéramos llegado a reconocer y admirar.
@@ -19,3 +43,28 @@ La definición de espiritual del diccionario es: «relacionada con el espíritu 
 
 _El Libro de URANTIA_ es uno de esos medios (desde mi punto de vista, el más grande) para este fin, pero de ninguna manera debemos verlo como un fin en sí mismo. Hay una afirmación en la Biblia que dice: «hay un camino que al hombre le parece derecho pero al final es muerte». _El Libro de URANTIA_ expone esto desde su sinfonía de cosmología, filosofía y religión, afirmando que existe un camino aventurero ordenado por Dios mediante el cual el hombre asciende eventualmente para volverse semejante a Dios y esta técnica para desarrollar una relación personal con Dios se retrata final y exquisitamente en la vida y enseñanzas de Jesús. Por eso siento que, en lo que respecta a nuestro crecimiento, se puede decir con verdad: «Él es el camino, la verdad y la vida». A mis compañeros lectores del _Libro de URANTIA_ y a todos los demás, me quito el sombrero ante todos ustedes y les deseo todo lo mejor en su intento de buscar y compartir realidades espirituales.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol12_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="pr-2">Los extremos de creer como un niño pequeño</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

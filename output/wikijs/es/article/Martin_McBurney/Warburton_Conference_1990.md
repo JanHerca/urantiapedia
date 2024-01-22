@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Martin Mc Burney<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-6-noviembre-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="pr-2">El cerebro derecho e izquierdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El fin de semana de la Copa de Melbourne, del sábado 3 al martes 6 de noviembre, se celebró una reunión australiana de lectores del Libro de URANTIA. Viajamos a Warburton East, a unos 80 km al este de Melbourne, al pie de la Gran Cordillera Divisoria.
@@ -23,7 +47,7 @@ Abrimos con un almuerzo juntos el sábado, seguido de una sesión de informes en
 
 Para el tema de la conferencia «Vivir como estamos destinados a vivir», utilizamos el enfoque ofrecido en _El Libro de URANTIA_ sobre LU 46:5.29.
 
-> «Las actividades de un mundo como éste son de tres tipos distintos: trabajo, progreso y entretenimiento. Dicho de otra manera: servicio, estudio y distracción. Las actividades compuestas consisten en relaciones sociales, diversiones colectivas y adoración divina.» ([LU 46:5.29](/es/The_Urantia_Book/46#p5_29))
+> «Las actividades de un mundo como éste son de tres tipos distintos: trabajo, progreso y entretenimiento. Dicho de otra manera: servicio, estudio y distracción. Las actividades compuestas consisten en relaciones sociales, diversiones colectivas y adoración divina.» (<a id="a49_268"></a>[LU 46:5.29](/es/The_Urantia_Book/46#p5_29))
 
 Para «trabajo/servicio», hubo un foro de discusión sobre la distribución del Libro de URANTIA en Australia. De las muchas cuestiones, surgió consenso en dos puntos (los cuales requieren el acuerdo de la Fundación URANTIA):
 
@@ -56,3 +80,28 @@ _Nota del editor:_
 
 _Muchas personas me han pedido que transmita nuevamente su más sincero agradecimiento a Martin por la espléndida forma en que organizó la conferencia._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-6-noviembre-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Les_Sheridan/The_Right_And_Left_Brain">
+          <span class="pr-2">El cerebro derecho e izquierdo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

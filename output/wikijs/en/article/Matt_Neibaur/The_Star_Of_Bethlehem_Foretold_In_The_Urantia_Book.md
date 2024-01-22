@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 10 No. 6 — November 1989"
+title: "The Star Of Bethlehem Foretold In The Urantia Book?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

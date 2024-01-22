@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Richard Bain<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Regal/What_Religion_Are_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿De qué religión eres?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-6-noviembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/So_Whats_The_Connection">
+          <span class="pr-2">Entonces, ¿cuál es la conexión?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando comencé a escribir la sección «Rincón de la cosmología» hace aproximadamente un año y medio, parecía que la teoría del Big Bang estaba tan firmemente arraigada que seguiría existiendo durante décadas. Es fascinante cómo una estructura puede parecer tan sólida justo antes de colapsar por el daño de las termitas. Ahora parece haber algunos cosmólogos de termitas mordisqueando la estructura de la teoría.
@@ -34,3 +58,28 @@ Richard Bain, San Petersburgo, Florida, EE. UU.
 
 Me interesa conocer la reacción, si la hubiera, a su anuncio en el 6-0-6 del estudio por correo. Me pregunto si este «podría convertirse en el grupo de estudio mundial más grande». De todos modos si puedo servirle a algún estudiante disperso estaré encantado. El autor de ese largo y confuso artículo sobre la reencarnación debería diferenciar entre la reencarnación, que nuestro libro niega, y la repersonalización, siendo este último el proceso que nuestro libro enseña. Podría profundizar más en eso pero por el momento debo esperar.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Regal/What_Religion_Are_You">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿De qué religión eres?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-6-noviembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/So_Whats_The_Connection">
+          <span class="pr-2">Entonces, ¿cuál es la conexión?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

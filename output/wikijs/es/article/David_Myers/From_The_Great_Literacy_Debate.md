@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 David Myers<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿El fin justifica alguna vez medios indignos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Editado por David Myers, Australian Scholarly Publishing._
@@ -31,3 +52,25 @@ La búsqueda de un chivo expiatorio conveniente a quien echarle la culpa de esta
 
 Hoy en día existe un problema mucho más amplio con el logro de la alfabetización en Australia y el mundo occidental en general. Este problema es de valores y prioridades. El amor por el lenguaje por sí mismo y el respeto por la alfabetización ocupan un lugar bajo en las listas de prioridades de la gente. A la mayoría de nuestra población no parece preocuparle especialmente que, después de un lapso de mil años, la grandeza de una civilización no se mida comúnmente por su producción industrial o su balanza de pagos. Se mide por su contribución a la filosofía, el arte, la arquitectura, la educación y la literatura.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿El fin justifica alguna vez medios indignos?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

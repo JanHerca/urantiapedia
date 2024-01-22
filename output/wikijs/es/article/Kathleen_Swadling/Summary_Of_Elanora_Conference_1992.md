@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Kathleen Swadling<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol13_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 13 Núm. 6 noviembre de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-6-noviembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 6 noviembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matthew_Block/A_Bibliographic_Essay_On_Some_Human_Sources">
+          <span class="pr-2">Un ensayo bibliográfico sobre algunas fuentes humanas utilizadas en el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Kathleen Swadling, Sídney_
@@ -29,3 +53,28 @@ El sábado por la noche nos encontramos a todos en el restaurante Singaporean pa
 
 El lunes por la mañana cerró muy bien la conferencia con un grupo de estudio. Leímos el documento 100: «La religión en la experiencia humana», que era muy apropiado para el tema. Naturalmente, se produjeron muchos debates estimulantes y que invitaron a la reflexión. Fue triste cuando llegó el momento de romper la fiesta y tomar caminos separados. Estoy seguro de que hablo por casi todos cuando digo que el fin de semana nos ayudó a experimentar la riqueza del intercambio genuino entre hombres y mujeres amantes de Dios. Estas experiencias deben ser atesoradas y espero que los recuerdos permanezcan con todos nosotros durante mucho tiempo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol13_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 13 Núm. 6 noviembre de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-6-noviembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 6 noviembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matthew_Block/A_Bibliographic_Essay_On_Some_Human_Sources">
+          <span class="pr-2">Un ensayo bibliográfico sobre algunas fuentes humanas utilizadas en el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

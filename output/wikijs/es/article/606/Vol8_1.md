@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 No. 1 - Enero de 1987"
+título: "Boletín Six-0-Six - Volumen 8 Núm. 1 - Enero de 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Henri Begemann, Meredith Sprunger<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-1-de-enero-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 1 de enero de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/A_Matter_Of_Priorities">
+          <span class="pr-2">Una cuestión de prioridades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -36,7 +57,7 @@ Georg Sepp mencionó la reencarnación. Encontramos un artículo de Richard Bain
 
 ## Pensamiento del mes
 
-> «El hombre puede encontrar el amor de Dios sin los hechos, y el hombre puede descubrir las leyes de Dios sin el amor, pero el hombre nunca puede empezar a apreciar la simetría infinita, la armonía celestial, la exquisita plenitud de la naturaleza inclusiva de la Fuente-Centro Primera, hasta que no ha encontrado la ley divina y el amor divino y los ha unificado experiencialmente en su propia filosofía cósmica en evolución.» ([LU 111:6.6](/es/The_Urantia_Book/111#p6_6))
+> «El hombre puede encontrar el amor de Dios sin los hechos, y el hombre puede descubrir las leyes de Dios sin el amor, pero el hombre nunca puede empezar a apreciar la simetría infinita, la armonía celestial, la exquisita plenitud de la naturaleza inclusiva de la Fuente-Centro Primera, hasta que no ha encontrado la ley divina y el amor divino y los ha unificado experiencialmente en su propia filosofía cósmica en evolución.» (<a id="a59_430"></a>[LU 111:6.6](/es/The_Urantia_Book/111#p6_6))
 
 ## Esperando nuevas aventuras
 
@@ -159,9 +180,9 @@ Se aprobó el siguiente cambio en los Estándares de Admisión para las Sociedad
 
 ## La presencia de Dios en acción
 
-Recordarás la parábola de Jesús sobre los dos hijos: el primer hijo, cuando se le pidió que trabajara en la viña, se negó, pero luego lo pensó mejor y se puso a trabajar. El hijo mayor, cuando le pidieron que trabajara, respondió: «Sí, padre, iré», pero después de que su padre se fue no cumplió su promesa. ([LU 173:3.1](/es/The_Urantia_Book/173#p3_1)) En otra ocasión Jesús dijo: «No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos». ([Mateo 7:21](/es/Bible/Matthew/7#v21)) La prueba de fuego de la vida está en nuestras acciones. La verdadera naturaleza de nuestra fe se ve en nuestro comportamiento. «La verdadera religión debe actuar... Siempre y para siempre la religión hace algo; es dinámico». ([LU 102:2.8](/es/The_Urantia_Book/102#p2_8)) «No existe religión real aparte de una personalidad muy activa». ([LU 102:2.7](/es/The_Urantia_Book/102#p2_7)) «Los débiles adoptan resoluciones, pero los fuertes actúan». ([LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
+Recordarás la parábola de Jesús sobre los dos hijos: el primer hijo, cuando se le pidió que trabajara en la viña, se negó, pero luego lo pensó mejor y se puso a trabajar. El hijo mayor, cuando le pidieron que trabajara, respondió: «Sí, padre, iré», pero después de que su padre se fue no cumplió su promesa. (<a id="a182_309"></a>[LU 173:3.1](/es/The_Urantia_Book/173#p3_1)) En otra ocasión Jesús dijo: «No todo el que me dice: Señor, Señor, entrará en el reino de los cielos, sino el que hace la voluntad de mi Padre que está en los cielos». ([Mateo 7:21](/es/Bible/Matthew/7#v21)) La prueba de fuego de la vida está en nuestras acciones. La verdadera naturaleza de nuestra fe se ve en nuestro comportamiento. «La verdadera religión debe actuar... Siempre y para siempre la religión hace algo; es dinámico». (<a id="a182_789"></a>[LU 102:2.8](/es/The_Urantia_Book/102#p2_8)) «No existe religión real aparte de una personalidad muy activa». (<a id="a182_900"></a>[LU 102:2.7](/es/The_Urantia_Book/102#p2_7)) «Los débiles adoptan resoluciones, pero los fuertes actúan». (<a id="a182_1007"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
 
-La acción es creativa y eficaz cuando estamos en contacto con la realidad, cuando Dios es socio en nuestra vida y obra. Jesús orienta a sus hijos e hijas del universo diciendo: «Recordad: yo soy la vid verdadera, y vosotros sois los sarmientos vivientes. El que vive en mí, y yo en él, dará mucho fruto del espíritu y experimentará el gozo supremo de dar esta cosecha espiritual... En esto es glorificado el Padre: en que la vid tiene muchos pámpanos vivos, y en que cada pámpano da mucho fruto». ([LU 180:2.1](/es/The_Urantia_Book/180#p2_1)) ¿Cómo sucede esto? ¿Cómo podemos llegar a ser ramas vivas que den muchos frutos nutritivos y enriquecedores?
+La acción es creativa y eficaz cuando estamos en contacto con la realidad, cuando Dios es socio en nuestra vida y obra. Jesús orienta a sus hijos e hijas del universo diciendo: «Recordad: yo soy la vid verdadera, y vosotros sois los sarmientos vivientes. El que vive en mí, y yo en él, dará mucho fruto del espíritu y experimentará el gozo supremo de dar esta cosecha espiritual... En esto es glorificado el Padre: en que la vid tiene muchos pámpanos vivos, y en que cada pámpano da mucho fruto». (<a id="a184_498"></a>[LU 180:2.1](/es/The_Urantia_Book/180#p2_1)) ¿Cómo sucede esto? ¿Cómo podemos llegar a ser ramas vivas que den muchos frutos nutritivos y enriquecedores?
 
 [Leer más](/es/article/Meredith_Sprunger/Gods_Presence_In_Action)
 
@@ -244,3 +265,25 @@ K\&T Swadling, 7 Walsh St, Narrabeen, NSW, 2101. Tel. (02) 9137893
 
 Los formularios de inscripción se enviarán más adelante este año a través del 6-0-6.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-1-de-enero-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 1 de enero de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/A_Matter_Of_Priorities">
+          <span class="pr-2">Una cuestión de prioridades</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

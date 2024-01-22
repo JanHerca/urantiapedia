@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Ken T. Glasziou<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una perspectiva de servicio de las relaciones individuales y organizativas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-6-noviembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Resumen de material científico e histórico que parece haber requerido acceso a ciertos conocimientos
@@ -33,7 +54,7 @@ Referencias: «Por qué creo en _El Libro de URANTIA_», H. McMullen, (1986), (P
 
 ## Partículas físicas
 
-En un artículo recibido en 1934, _El Libro de URANTIA_ ([LU 42:8.6](/es/The_Urantia_Book/42#p8_6)) ha descrito el portador de fuerza débil, la liberación de diminutas partículas neutras (antineutrinos) en la desintegración beta radiactiva, la liberación de más diminutas partículas neutras durante el colapso gravitacional de masas masivas. estrellas (neutrinos) y la existencia de una fuerza nuclear fuerte entonces desconocida.
+En un artículo recibido en 1934, _El Libro de URANTIA_ (<a id="a56_56"></a>[LU 42:8.6](/es/The_Urantia_Book/42#p8_6)) ha descrito el portador de fuerza débil, la liberación de diminutas partículas neutras (antineutrinos) en la desintegración beta radiactiva, la liberación de más diminutas partículas neutras durante el colapso gravitacional de masas masivas. estrellas (neutrinos) y la existencia de una fuerza nuclear fuerte entonces desconocida.
 
 La existencia del portador de fuerza débil se demostró en 1983, la existencia de neutrinos se confirmó en 1956, la existencia de estrellas de neutrones cuya formación da lugar a la liberación de grandes cantidades de neutrinos fue confirmada por el telescopio de rayos X en 1967, y la teoría La teoría de la fuerza nuclear fuerte que involucra quarks y gluones se convirtió en una teoría aceptada a finales de los años 1970.
 
@@ -47,7 +68,7 @@ El concepto de deriva continental fue rechazado por la mayoría de los geólogos
 
 Hasta hace poco, la fecha del comienzo de la desintegración del gran continente se situaba hace unos 200 millones de años. Actualmente esta fecha ha sido revisada y retrasada hasta hace aproximadamente 600 y 800 millones de años, como se indica en _El Libro de URANTIA_.
 
-Referencias: _El Libro de URANTIA_, [LU 57:8.23](/es/The_Urantia_Book/57#p8_23).
+Referencias: _El Libro de URANTIA_, <a id="a70_36"></a>[LU 57:8.23](/es/The_Urantia_Book/57#p8_23).
 
 K.T. Glasziou, [«Continental Drift»](/es/article/606/Vol9_4), 6-0-6 Newsletter, vol 9 (nº 4), 1988.
 
@@ -65,19 +86,19 @@ Referencia: _El Libro de URANTIA_, [artículo LU:60.3](/es/The_Urantia_Book/pape
 
 _El Libro de URANTIA_ nos dice que los átomos con más de 100 electrones orbitales son inestables y se desintegran rápidamente. El elemento 101 (Mendelio) se descubrió en los productos de la fisión nuclear en 1952 y se descubrió que tenía una vida media de unos 30 minutos. Desde entonces se ha descubierto que todos los elementos superiores a 100 son muy inestables. No había una base teórica adecuada para hacer tal predicción en el momento de la recepción o publicación de Los Documentos URANTIA.
 
-Referencia: _El Libro de URANTIA_, [LU 42:7.7](/es/The_Urantia_Book/42#p7_7).
+Referencia: _El Libro de URANTIA_, <a id="a88_35"></a>[LU 42:7.7](/es/The_Urantia_Book/42#p7_7).
 
 ## Atmósferas planetarias
 
 _El Libro de URANTIA_ nos dice que Venus tiene una atmósfera densa y que la atmósfera de Marte es de baja densidad. La sonda espacial rusa Venera 7 midió la presión atmosférica de Venus en 1970 en aproximadamente 90 veces la atmósfera de la Tierra, y la sonda estadounidense Mariner dio la atmósfera de Marte como 1/100 de la atmósfera de la Tierra. Antes de la llegada de las sondas espaciales no había forma de predecir o medir la presión atmosférica en estos planetas.
 
-Referencia: _El Libro de URANTIA_, [LU 49:2.10-16](/es/The_Urantia_Book/49#p2_10).
+Referencia: _El Libro de URANTIA_, <a id="a94_35"></a>[LU 49:2.10-16](/es/The_Urantia_Book/49#p2_10).
 
 ## Movimiento de la luna
 
 _El Libro de URANTIA_ nos dice que la Luna se está alejando actualmente de la Tierra. Esto ha sido confirmado por mediciones de radar de alta precisión. La tasa de movimiento es de aproximadamente 1 pulgada por año.
 
-Referencias: _El Libro de URANTIA_, [LU 57:6.2](/es/The_Urantia_Book/57#p6_2).
+Referencias: _El Libro de URANTIA_, <a id="a100_36"></a>[LU 57:6.2](/es/The_Urantia_Book/57#p6_2).
 
 Scientific American 249 (6). 71.
 
@@ -87,7 +108,7 @@ La explosión de una supernova en 1572 fue un espectáculo brillante visible a p
 
 La primera descripción teórica seria de las novas y supernovas fue presentada a principios de la década de 1950 por Hoyle y sus asociados. Esta teoría todavía está siendo modificada y ampliada. Las nuevas y supernovas se producen debido a la explosión de estrellas simples y dobles. El remanente de la supernova de Tycho Brahe fue redescubierto en 1952 mediante el uso del radiotelescopio recientemente inventado, pero no se pudo demostrar que se debiera a una explosión de doble estrella hasta que fue mapeado extensamente por el observatorio orbital de rayos X Einstein en 1967.
 
-Referencias: _El Libro de URANTIA_, [LU 41:3.5](/es/The_Urantia_Book/41#p3_5).
+Referencias: _El Libro de URANTIA_, <a id="a110_36"></a>[LU 41:3.5](/es/The_Urantia_Book/41#p3_5).
 
 Boletín de la Hermandad URANTIA; «Explicación de la Nova de 1572»
 
@@ -95,7 +116,7 @@ Boletín de la Hermandad URANTIA; «Explicación de la Nova de 1572»
 
 _El Libro de URANTIA_ nos dice que hay una estrella solitaria en el centro de la Nebulosa del Cangrejo que es la esfera madre, y que tuvo su origen en una explosión de nova que ocurrió hace 900 años. La existencia de una esfera madre para esta nebulosa se demostró en 1967 con la detección de un púlsar que ahora se sabe que es una estrella de neutrones.
 
-Referencias: _El Libro de URANTIA_, [LU 41:8.4](/es/The_Urantia_Book/41#p8_4).
+Referencias: _El Libro de URANTIA_, <a id="a118_36"></a>[LU 41:8.4](/es/The_Urantia_Book/41#p8_4).
 
 Kaufmann, «El Universo».
 
@@ -105,7 +126,7 @@ El documento de URANTIA que comenta este tema se recibió en 1934. Afirma que la
 
 La teoría que propone que la energía se puede generar de esta manera fue elaborada de forma independiente por Hans Bethe y von Weizsacker en 1938, y publicada por Bethe en 1939, y ahora es una teoría aceptada.
 
-Referencias: _El Libro de URANTIA_, [LU 41:7.14](/es/The_Urantia_Book/41#p7_14).
+Referencias: _El Libro de URANTIA_, <a id="a128_36"></a>[LU 41:7.14](/es/The_Urantia_Book/41#p7_14).
 
 Kaufmann, «El Universo».
 
@@ -115,7 +136,7 @@ Hoyle y Norliker «La frontera de la astronomía física»
 
 _El Libro de URANTIA_ nos dice que los acontecimientos que desencadenaron la formación del sistema solar ocurrieron hace 4.500 millones de años. Hasta la década de 1950, y basándose en el trabajo de Edwin Hubble, la edad generalmente aceptada del universo era de sólo 2 mil millones de años. Luego, el trabajo de Baade en Mt. Wilson reveló un error en la metodología de Hubble que efectivamente duplicó la edad del universo y causó gran hilaridad en la prensa estadounidense en la década de 1950. La mayoría de los astrónomos calculan actualmente la edad del universo entre 15 y 18 mil millones de años, y la datación por radioisótopos del material meteórico sitúa la edad del sistema solar en aproximadamente 4,6 mil millones de años, que es prácticamente la misma edad que se cuenta en _El Libro de URANTIA_.
 
-Referencias: _El Libro de URANTIA_, [LU 57:4.5](/es/The_Urantia_Book/57#p4_5).
+Referencias: _El Libro de URANTIA_, <a id="a138_36"></a>[LU 57:4.5](/es/The_Urantia_Book/57#p4_5).
 
 Kaufmann «El Universo»
 
@@ -123,11 +144,11 @@ Kaufmann «El Universo»
 
 Un dedal lleno de materia procedente de una estrella de neutrones pesaría unos 100 millones de toneladas. Para un agujero negro, el peso sería infinitamente mayor. No es sorprendente que los astrónomos consideraran estos objetos como juguetes de los físicos teóricos. Luego, a mediados de la década de 1960, el descubrimiento de los púlsares y los quásares cambió por completo el panorama. El nombre de agujeros negros se acuñó en 1968. Antes de eso, estos objetos teóricos se conocían simplemente como cuerpos oscuros de los que la luz no podía escapar. La teoría actual sostiene que la fuente de las novas y supernovas es el colapso gravitacional de estrellas gastadas. Para estrellas cercanas a la masa de nuestro sol, el resultado final es la formación de una enana blanca. Para estrellas de más de cinco veces la masa del Sol, el resultado es una estrella de neutrones. Para estrellas con una masa 25 veces mayor que la del Sol, el resultado es un agujero negro. En la explosión final que inicia la formación de estrellas de neutrones, se liberan grandes cantidades de diminutas partículas sin carga, los neutrinos.
 
-La formación de una estrella de neutrones se describe claramente en _El Libro de URANTIA_ ([LU 42:4.11](/es/The_Urantia_Book/42#p4_11)) donde se afirma que el colapso gravitacional de estrellas masivas va acompañado de la liberación de grandes cantidades de diminutas partículas sin carga. Estas partículas no se liberan durante la formación de enanas blancas o agujeros negros. La existencia de estas partículas (los neutrinos) no se demostró hasta 1956. La primera identificación de una estrella de neutrones se realizó en 1967.
+La formación de una estrella de neutrones se describe claramente en _El Libro de URANTIA_ (<a id="a146_91"></a>[LU 42:4.11](/es/The_Urantia_Book/42#p4_11)) donde se afirma que el colapso gravitacional de estrellas masivas va acompañado de la liberación de grandes cantidades de diminutas partículas sin carga. Estas partículas no se liberan durante la formación de enanas blancas o agujeros negros. La existencia de estas partículas (los neutrinos) no se demostró hasta 1956. La primera identificación de una estrella de neutrones se realizó en 1967.
 
-_El Libro de URANTIA_ ([LU 15:6.11](/es/The_Urantia_Book/15#p6_11)) también nos dice que algunas «islas oscuras del espacio» son restos de soles muertos, desprovistos de luz y calor, y que su densidad es «casi increíble». Esta es una descripción de un agujero negro. Hay muchas referencias a los agujeros negros en _El Libro de URANTIA_, ya que los Directores de Poder los utilizan para garantizar la estabilidad gravitacional de muchos sistemas diferentes y en el control del flujo de energía. En una referencia interesante sobre la formación de nuestro sistema solar, el Libro ([LU 57:5.4](/es/The_Urantia_Book/57#p5_4)) describe el centro del sistema Angona como un «gigante oscuro del espacio, sólido, altamente cargado y que posee una enorme atracción gravitacional», claramente un agujero negro «cargado». La teoría de los agujeros negros cargados fue desarrollada en los años 1960 por Kerr y Newman. El concepto de agujeros negros altamente cargados (de 10 a 20 voltios) ha alcanzado recientemente la mayoría de edad en un intento de explicar la producción de energía de los quásares. (ver referencia de Scientific American)
+_El Libro de URANTIA_ (<a id="a148_23"></a>[LU 15:6.11](/es/The_Urantia_Book/15#p6_11)) también nos dice que algunas «islas oscuras del espacio» son restos de soles muertos, desprovistos de luz y calor, y que su densidad es «casi increíble». Esta es una descripción de un agujero negro. Hay muchas referencias a los agujeros negros en _El Libro de URANTIA_, ya que los Directores de Poder los utilizan para garantizar la estabilidad gravitacional de muchos sistemas diferentes y en el control del flujo de energía. En una referencia interesante sobre la formación de nuestro sistema solar, el Libro (<a id="a148_580"></a>[LU 57:5.4](/es/The_Urantia_Book/57#p5_4)) describe el centro del sistema Angona como un «gigante oscuro del espacio, sólido, altamente cargado y que posee una enorme atracción gravitacional», claramente un agujero negro «cargado». La teoría de los agujeros negros cargados fue desarrollada en los años 1960 por Kerr y Newman. El concepto de agujeros negros altamente cargados (de 10 a 20 voltios) ha alcanzado recientemente la mayoría de edad en un intento de explicar la producción de energía de los quásares. (ver referencia de Scientific American)
 
-Referencias: _El Libro de URANTIA_, [LU 15:6.11](/es/The_Urantia_Book/15#p6_11), [LU 42:4.11](/es/The_Urantia_Book/42#p4_11), [LU 57:5.4](/es/The_Urantia_Book/57#p5_4).
+Referencias: _El Libro de URANTIA_, <a id="a150_36"></a>[LU 15:6.11](/es/The_Urantia_Book/15#p6_11), <a id="a150_81"></a>[LU 42:4.11](/es/The_Urantia_Book/42#p4_11), <a id="a150_126"></a>[LU 57:5.4](/es/The_Urantia_Book/57#p5_4).
 
 Hoyle y Norliker, «La frontera entre la física y la astronomía» (1980), pág. 205 (Freeman \& Co.)
 
@@ -139,7 +160,7 @@ K.T. Glasziou, que se publicará en el boletín 6-0-6.
 
 _El Libro de URANTIA_ afirma que los restos del dinosaurio monstruo más grande están enterrados en América del Norte, Europa, África y la India, pero no en Australia. Aunque se han encontrado fósiles de dinosaurios en Australia, hasta la fecha (1988) todavía no se han encontrado fósiles de dinosaurios monstruosos.
 
-Referencia: _El Libro de URANTIA_, p. [LU 60:2.1](/es/The_Urantia_Book/60#p2_1).
+Referencia: _El Libro de URANTIA_, p. <a id="a162_38"></a>[LU 60:2.1](/es/The_Urantia_Book/60#p2_1).
 
 ## Marsupiales
 
@@ -147,7 +168,7 @@ La edición de enero de Scientific American (1985) p. 60 analiza si los marsupia
 
 Recientemente se han encontrado fósiles de marsupiales en la isla Seymour en la Antártida. Nada de esto es demasiado sorprendente en 1988, pero recordemos que cuando se publicó _El Libro de URANTIA_, prácticamente nadie creía en el concepto de deriva continental.
 
-Referencias: _El Libro de URANTIA_, [LU 61:1.12](/es/The_Urantia_Book/61#p1_12), [LU 61:2.3](/es/The_Urantia_Book/61#p2_3).
+Referencias: _El Libro de URANTIA_, <a id="a170_36"></a>[LU 61:1.12](/es/The_Urantia_Book/61#p1_12), <a id="a170_81"></a>[LU 61:2.3](/es/The_Urantia_Book/61#p2_3).
 
 Scientific American 1985, número de enero, pág. 60.
 
@@ -163,7 +184,29 @@ _El Libro de URANTIA_, relato de la historia geológica de nuestro planeta, nos 
 
 Los cambios en el nivel del mar a menudo se han atribuido al avance y retroceso de los casquetes polares, pero esto no parece explicar los movimientos descritos en _El Libro de URANTIA_. Más recientemente se ha propuesto un mecanismo que implica la acumulación de calor debajo de las grandes masas de tierra y que se cree que causa la elevación, la formación de cúpulas y la ruptura de los continentes, y su posterior unión. Aunque el concepto se ha propuesto predominantemente para explicar el movimiento transversal, también proporciona un mecanismo físico que podría explicar el movimiento vertical descrito en _El Libro de URANTIA_.
 
-El mecanismo propuesto indica una acumulación relativamente lenta de calor, pero la posterior liberación puede ocurrir de varias maneras, por lo que se esperaría una desviación considerable de la periodicidad de la onda sinusoidal. Esta nueva teoría será de interés para los lectores del Libro de URANTIA que han quedado desconcertados por su explicación de la elevación y depresión alternas de los continentes a tan gran escala. (Los ciclos de millones de años mencionados en la [LU 60:4.1](/es/The_Urantia_Book/60#p4_1) pueden referirse sólo al Cretácico. Hubo hasta 75 inundaciones durante el Carbonífero. Alternativamente, puede ser un error de transcripción)
+El mecanismo propuesto indica una acumulación relativamente lenta de calor, pero la posterior liberación puede ocurrir de varias maneras, por lo que se esperaría una desviación considerable de la periodicidad de la onda sinusoidal. Esta nueva teoría será de interés para los lectores del Libro de URANTIA que han quedado desconcertados por su explicación de la elevación y depresión alternas de los continentes a tan gran escala. (Los ciclos de millones de años mencionados en la <a id="a186_480"></a>[LU 60:4.1](/es/The_Urantia_Book/60#p4_1) pueden referirse sólo al Cretácico. Hubo hasta 75 inundaciones durante el Carbonífero. Alternativamente, puede ser un error de transcripción)
 
 Referencia: «El ciclo del Supercontinente». R.D. Nance et al. Scientific American 259(1), 44-51 (1988).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una perspectiva de servicio de las relaciones individuales y organizativas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-6-noviembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Tony Rudd<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol10_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-4-julio-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Greetings_From_The_Sydney_Study_Group">
+          <span class="pr-2">Saludos del grupo de estudio de Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left" alt="coin">
@@ -51,3 +75,28 @@ Si _El Libro de URANTIA_ hubiera estado disponible 50 años antes, ¡creo que se
 <img src="/image/article/606/coin6.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol10_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-4-julio-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Greetings_From_The_Sydney_Study_Group">
+          <span class="pr-2">Saludos del grupo de estudio de Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 11 No. 3 — February 1990"
+title: "Survival of the Luckiest?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

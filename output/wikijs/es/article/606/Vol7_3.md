@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 7 No. 3 - Abril de 1986"
+título: "Boletín Six-0-Six - Volumen 7 Núm. 3 - Abril de 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1986 Ian Esmore, Madeline Noordzy, Wolfgang Borutta, Steven Shanahan<br>© 1986 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-3-abril-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 3 Abril 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/The_relativity_of_Truth">
+          <span class="pr-2">La relatividad de la verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -85,7 +106,7 @@ Para solicitar su copia, envíe su cheque o giro postal por $12.00 per copy plus
 
 ## Una cita con Miguel
 
-«La cena del recuerdo es el encuentro simbólico del creyente con Miguel. Cuando os volvéis así conscientes del espíritu, el Hijo está realmente presente, y su espíritu fraterniza con el fragmento interior de su Padre». ([LU 179:5.6](/es/The_Urantia_Book/179#p5_6))
+«La cena del recuerdo es el encuentro simbólico del creyente con Miguel. Cuando os volvéis así conscientes del espíritu, el Hijo está realmente presente, y su espíritu fraterniza con el fragmento interior de su Padre». (<a id="a108_220"></a>[LU 179:5.6](/es/The_Urantia_Book/179#p5_6))
 
 El domingo 6 de abril, los miembros del Grupo de Estudio de Melbourne celebrarán una Cena del Recuerdo en 2 Salisbury Crt, Glen Waverley de 2:00 p.m. Todos son bienvenidos a asistir. Por favor ayude con el catering trayendo un plato. Telf. 561 6089. para cualquier otro detalle.
 
@@ -125,7 +146,7 @@ La dirección postal de la comunidad es: Hermandad Universal P.0. Box 21, Baling
 
 ## Pensamiento del mes
 
-Es literalmente cierto: «Las cosas humanas deben ser conocidas para ser amadas, pero las divinas deben ser amadas para ser conocidas». ([LU 102:1.1](/es/The_Urantia_Book/102#p1_1))
+Es literalmente cierto: «Las cosas humanas deben ser conocidas para ser amadas, pero las divinas deben ser amadas para ser conocidas». (<a id="a148_136"></a>[LU 102:1.1](/es/The_Urantia_Book/102#p1_1))
 
 Cuando Iris Eckersley llamó a uno de los miembros del equipo 6-0-6 el mes pasado y sugirió incluir la hermosa cita del Libro de Urantia en la p. 383B sobre el Espíritu de la Verdad en la edición de marzo de nuestro Boletín, estuvimos encantados de poder hacerlo.
 
@@ -133,7 +154,7 @@ No todos nos sentimos lo suficientemente seguros como para tomar nuestro bolígr
 
 ## El Hogar de Nazaret
 
-> «La casa de José y María era una construcción de piedra compuesta por una habitación con un techo plano, más un edificio adyacente para alojar a los animales. Los muebles consistían en una mesa baja de piedra, platos y ollas de barro y de piedra, un telar, una lámpara, varios taburetes pequeños y alfombras para dormir sobre el piso de piedra. En el patio trasero, cerca del anexo para los animales, había un cobertizo que protegía el horno y el molino para moler el grano. Se necesitaban dos personas para utilizar este tipo de molino, una para moler y otra para echar el grano. Cuando Jesús era pequeño, echaba grano con frecuencia en este molino mientras que su madre hacía girar la muela.» ([LU 122:6.2](/es/The_Urantia_Book/122#p6_2))
+> «La casa de José y María era una construcción de piedra compuesta por una habitación con un techo plano, más un edificio adyacente para alojar a los animales. Los muebles consistían en una mesa baja de piedra, platos y ollas de barro y de piedra, un telar, una lámpara, varios taburetes pequeños y alfombras para dormir sobre el piso de piedra. En el patio trasero, cerca del anexo para los animales, había un cobertizo que protegía el horno y el molino para moler el grano. Se necesitaban dos personas para utilizar este tipo de molino, una para moler y otra para echar el grano. Cuando Jesús era pequeño, echaba grano con frecuencia en este molino mientras que su madre hacía girar la muela.» (<a id="a156_698"></a>[LU 122:6.2](/es/The_Urantia_Book/122#p6_2))
 
 Un boceto de Vern Varass, basado en esta descripción del _Libro de Urantia_.
 
@@ -163,3 +184,25 @@ Por el Centro de Crecimiento de Atherton Tableland contacte a Geoff Harpur,P.0.B
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-3-abril-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 3 Abril 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/The_relativity_of_Truth">
+          <span class="pr-2">La relatividad de la verdad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

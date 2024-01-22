@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 7 No. 4 - Mayo de 1986"
+título: "Boletín Six-0-Six - Volumen 7 Núm. 4 - Mayo de 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1986 Neil Francey, Peter Toy, Ken Glasziou, Madeline Noordzy, Kathleen Swadling<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-4-mayo-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 4 Mayo de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Going_International">
+          <span class="pr-2">Hacerse internacional</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -39,7 +60,7 @@ A medida que nuestro número local aumenta, deberíamos volvernos menos dependie
 
 Las comunidades australianas del Libro de URANTIA deberían permitirse cometer errores y trampas, a partir de las cuales puedan desarrollar su sabiduría experiencial.
 
-Sugiero encarecidamente que la Asociación deje de lado la timidez y experimente. Como dice El Libro: «El acto es nuestro, las consecuencias de Dios». ([LU 117:5.5](/es/The_Urantia_Book/117#p5_5))
+Sugiero encarecidamente que la Asociación deje de lado la timidez y experimente. Como dice El Libro: «El acto es nuestro, las consecuencias de Dios». (<a id="a62_151"></a>[LU 117:5.5](/es/The_Urantia_Book/117#p5_5))
 
 Peter Toy, Perth, W.A.
 
@@ -55,7 +76,7 @@ Academia de Arte y Pensamiento, 178 Marine Pde, Cottesloe, WA 6011.
 
 ## Pensamiento del mes
 
-«El progreso exige el desarrollo de la individualidad; la mediocridad busca la perpetuación en la estandarización». [LU 48:7.29](/es/The_Urantia_Book/48#p7_29)
+«El progreso exige el desarrollo de la individualidad; la mediocridad busca la perpetuación en la estandarización». <a id="a78_116"></a>[LU 48:7.29](/es/The_Urantia_Book/48#p7_29)
 
 ## Comentario sobre declaraciones científicas en _El libro de Urantia_
 
@@ -105,7 +126,7 @@ Hace unos meses tuve una pequeña visión de cómo podría ser la Hermandad del 
 
 Si tan sólo pudiéramos estar abiertos unos a otros en un sentido espiritual, sabiendo que Dios es Padre para todos nosotros y no quedarnos estancados en diferencias de opinión o choques de personalidad, qué mundo tan maravilloso sería.
 
-En [LU 99:5.7](/es/The_Urantia_Book/99#p5_7) leemos: «Con la misma seguridad con que los hombres comparten sus creencias religiosas, crean también un grupo religioso de algún tipo que acaba creando unas metas comunes. Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas».
+En <a id="a128_3"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7) leemos: «Con la misma seguridad con que los hombres comparten sus creencias religiosas, crean también un grupo religioso de algún tipo que acaba creando unas metas comunes. Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas».
 
 No es lo que eres, sino lo que te esfuerzas por ser, lo que es importante y no es lo que piensas, sino lo que eres, lo que determina tu grado de unidad espiritual con tus semejantes.
 
@@ -159,3 +180,25 @@ Parque Avon, PL 33825-1100
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-4-mayo-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 4 Mayo de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neil_Francey/Going_International">
+          <span class="pr-2">Hacerse internacional</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

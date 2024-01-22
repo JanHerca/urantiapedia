@@ -9,13 +9,37 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/On_Group_Conformity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la conformidad grupal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-4-julio-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 4 Julio de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Trevor_Swadling/The_Crossroads_Of_Epochal_Revelation">
+          <span class="pr-2">La encrucijada de la revelación de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Queensland_
 
-En primer lugar, permítanme afirmar que estoy escribiendo sobre mi camino, el de nadie más. Jesús dijo: «_¿Cuándo os enseñé que todos debéis ver igual... lo que os pido es unidad espiritual_». ([LU 141:5.1](/es/The_Urantia_Book/141#p5_1)) Así que no voy a afirmar que la «misión de enseñanza», la canalización o cualquier otro fenómeno sea falso. Lo que realmente quiero decir es que incluso si se pudiera demostrar que tal vía es válida, todavía no querría tomarla. Meredith Sprunger dio una buena razón en un artículo anterior de Six-O-Six, quien cuestionó por qué las personas sentirían la necesidad de canalizar orientación cuando ya tienen contacto personal directo con fuentes de verdad mucho más elevadas: su Ajustador del Pensamiento, el Espíritu de la Verdad. y el Espíritu Santo.
+En primer lugar, permítanme afirmar que estoy escribiendo sobre mi camino, el de nadie más. Jesús dijo: «_¿Cuándo os enseñé que todos debéis ver igual... lo que os pido es unidad espiritual_». (<a id="a39_194"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)) Así que no voy a afirmar que la «misión de enseñanza», la canalización o cualquier otro fenómeno sea falso. Lo que realmente quiero decir es que incluso si se pudiera demostrar que tal vía es válida, todavía no querría tomarla. Meredith Sprunger dio una buena razón en un artículo anterior de Six-O-Six, quien cuestionó por qué las personas sentirían la necesidad de canalizar orientación cuando ya tienen contacto personal directo con fuentes de verdad mucho más elevadas: su Ajustador del Pensamiento, el Espíritu de la Verdad. y el Espíritu Santo.
 
-Al considerar este asunto, me pareció que tendría que volver a lo básico y preguntarme primero por qué Dios nos creó a los mortales. ¿Por qué estamos sujetos a esta extraña introducción inicial a nuestras carreras universales en un entorno a menudo hostil en un planeta material? Después de todo, _El Libro de URANTIA_ nos dice que nuestro objetivo final es permanecer como un ser espiritual perfeccionado en la presencia del Padre Universal. El libro también nos dice que: «_los errores que no olvides en el tiempo serán olvidados en la eternidad_». ([LU 156:5.8](/es/The_Urantia_Book/156#p5_8)) Entonces, ¿por qué tenemos que pasar por esta experiencia material? ¿Por qué nuestra carrera en el universo no comienza en algún entorno mucho más avanzado, incluso quizás en Havona?
+Al considerar este asunto, me pareció que tendría que volver a lo básico y preguntarme primero por qué Dios nos creó a los mortales. ¿Por qué estamos sujetos a esta extraña introducción inicial a nuestras carreras universales en un entorno a menudo hostil en un planeta material? Después de todo, _El Libro de URANTIA_ nos dice que nuestro objetivo final es permanecer como un ser espiritual perfeccionado en la presencia del Padre Universal. El libro también nos dice que: «_los errores que no olvides en el tiempo serán olvidados en la eternidad_». (<a id="a41_552"></a>[LU 156:5.8](/es/The_Urantia_Book/156#p5_8)) Entonces, ¿por qué tenemos que pasar por esta experiencia material? ¿Por qué nuestra carrera en el universo no comienza en algún entorno mucho más avanzado, incluso quizás en Havona?
 
 Intentemos revisar nuestros hechos. Nosotros, los humanos, llegamos a este mundo inhóspito como bebés indefensos y totalmente dependientes, con mentes no mucho más avanzadas que algunos de los otros animales de Urantia, y con cuerpos aparentemente inferiores que parecen excesivamente inadecuados para competir con éxito en un mundo de supervivencia del más apto. A excepción de ciertos tipos de conocimiento instintivo esenciales para nuestra supervivencia temprana, al nacer nuestros bancos de memoria están completamente en blanco. Si tenemos mucha suerte, podríamos nacer en un ambiente familiar amoroso y seguro donde nuestras mentes vacías serían cuidadosamente nutridas y equipadas con un conjunto de valores que tienen verdadero valor espiritual. Sin embargo, esto no es así para la mayoría de nosotros. Idealmente, los valores que nos presenta la sociedad en la que maduramos hasta la edad adulta deberían lograr un compromiso razonable entre nuestros intereses propios legítimos y aquellos intereses que inciden en el bienestar de esa sociedad. Pero para la mayoría de los nativos de Urantia la realidad es competir o perecer. Y así la vida tiende a degenerar en un conflicto de supervivencia.
 
@@ -35,29 +59,29 @@ El detonante que inició estas reflexiones confusas provino de un libro titulado
 
 _El Libro de URANTIA_ tiene mucho que decir sobre la necesidad de entrar al reino por la fe.
 
-> «_Juan ha venido a predicar el arrepentimiento para prepararos para el reino; ahora vengo yo para proclamar que la fe, el regalo de Dios,_» ([LU 137:8.17](/es/The_Urantia_Book/137#p8_17))
+> «_Juan ha venido a predicar el arrepentimiento para prepararos para el reino; ahora vengo yo para proclamar que la fe, el regalo de Dios,_» (<a id="a61_143"></a>[LU 137:8.17](/es/The_Urantia_Book/137#p8_17))
 
-> «_El derecho a entrar en el reino está condicionado por la fe, por la creencia personal._» ([LU 140:8.28](/es/The_Urantia_Book/140#p8_28))
+> «_El derecho a entrar en el reino está condicionado por la fe, por la creencia personal._» (<a id="a63_94"></a>[LU 140:8.28](/es/The_Urantia_Book/140#p8_28))
 
-> «_Reconoced, por la fe, al espíritu interno de Dios, cuya aceptación os convierte en hijos de Dios._» ([LU 150:5.2](/es/The_Urantia_Book/150#p5_2))
+> «_Reconoced, por la fe, al espíritu interno de Dios, cuya aceptación os convierte en hijos de Dios._» (<a id="a65_105"></a>[LU 150:5.2](/es/The_Urantia_Book/150#p5_2))
 
-> «_La salvación es por la regeneración del espíritu y no por obras de justicia propia de la carne. Sois justificados por la fe y hermanos por la gracia._» ([LU 143:2.6](/es/The_Urantia_Book/143#p2_6))
+> «_La salvación es por la regeneración del espíritu y no por obras de justicia propia de la carne. Sois justificados por la fe y hermanos por la gracia._» (<a id="a67_157"></a>[LU 143:2.6](/es/The_Urantia_Book/143#p2_6))
 
 > «_La salvación es el don del Padre y es revelada por sus Hijos. Su aceptación, por la fe, os convierte en partícipes de la naturaleza divina, en hijos o hijas de Dios. Por la fe, estáis justificadas; por la fe, sois salvadas; y por esta misma fe, avanzaréis eternamente en el camino de la perfección progresiva y divina. Abraham fue justificado por la fe y tomó conciencia de la salvación gracias a las enseñanzas de Melquisedek. A lo largo de todos los tiempos, esta misma fe ha salvado a los hijos de los hombres, pero ahora un Hijo ha venido del Padre para hacer más real y aceptable la salvación._» ([UB 150:5.3](/en/The_Urantia_Book/150#p5_3))
 
 Hay muchísimo más sobre la fe en el libro, pero me gusta este:
 
-> «_Sólo hay una lucha que tienen que sostener los que entran en el reino, y es el buen combate de la fe. El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad{18}._» ([LU 159:3.8](/es/The_Urantia_Book/159#p3_8))
+> «_Sólo hay una lucha que tienen que sostener los que entran en el reino, y es el buen combate de la fe. El creyente sólo tiene que librar una batalla, y es contra la duda —contra la incredulidad{18}._» (<a id="a73_205"></a>[LU 159:3.8](/es/The_Urantia_Book/159#p3_8))
 
 Otros dos que no puedo omitir son:
 
-> «_Ahora, no te equivoques, mi Padre jamás responderá al más mínimo destello de fe._» ([LU 155:6.17](/es/The_Urantia_Book/155#p6_17)) ....y uno que sucedió durante la crucifixión: «_Al ver el rostro de Jesús vuelto hacia él, el malhechor reunió su valor, avivó la llama vacilante de su fe, y dijo: «Señor, acuérdate de mí cuando entres en tu reino»_» ([LU 187:4.1](/es/The_Urantia_Book/187#p4_1))
+> «_Ahora, no te equivoques, mi Padre jamás responderá al más mínimo destello de fe._» (<a id="a77_88"></a>[LU 155:6.17](/es/The_Urantia_Book/155#p6_17)) ....y uno que sucedió durante la crucifixión: «_Al ver el rostro de Jesús vuelto hacia él, el malhechor reunió su valor, avivó la llama vacilante de su fe, y dijo: «Señor, acuérdate de mí cuando entres en tu reino»_» (<a id="a77_353"></a>[LU 187:4.1](/es/The_Urantia_Book/187#p4_1))
 
 ¡Y lo logró! ¿Podemos tener alguna duda de que nuestro Padre celestial realmente quiere que tomemos una decisión de fe ciega para adoptar su bondad como la meta de nuestra misión en la vida?
 
 Después de la crucifixión, Jesús resucitado hizo un comentario interesante a una reunión de creyentes en Tiro. Él dijo:
 
-> «_Os alegráis de saber que el Hijo del Hombre ha resucitado de entre los muertos porque sabéis así que vosotros y vuestros hermanos sobreviviréis también a la muerte física. Pero esta supervivencia depende de que hayáis nacido previamente del espíritu que busca la verdad y encuentra a Dios._» ([LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
+> «_Os alegráis de saber que el Hijo del Hombre ha resucitado de entre los muertos porque sabéis así que vosotros y vuestros hermanos sobreviviréis también a la muerte física. Pero esta supervivencia depende de que hayáis nacido previamente del espíritu que busca la verdad y encuentra a Dios._» (<a id="a83_297"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
 
 ...que es, por supuesto, el resultado de una decisión de fe. Entonces, estar presente para presenciar la aparición del cuerpo resucitado de Jesús y escuchar (y conocer) su voz no tenía ningún valor de supervivencia a menos que ya se hubiera tomado una decisión de fe. Entonces me pregunto ¿qué valor puede tener escuchar las voces de los maestros celestiales en circunstancias en las que ni siquiera la aparición del propio Jesús tendría ninguno?
 
@@ -67,5 +91,30 @@ También escuché cintas y escuché a participantes pedir a los maestros que tom
 
 Os dejo con esta reflexión:
 
-> «_Os he llamado para que nazcáis de nuevo, para que nazcáis del espíritu. Os he llamado para que salgáis de las tinieblas de la autoridad y del letargo de la tradición, y entréis en la luz trascendente donde obtendréis la posibilidad de hacer por vosotros mismos el mayor descubrimiento posible que el alma humana puede hacer —la experiencia celestial de encontrar a Dios por vosotros mismos, en vosotros mismos y para vosotros mismos, y efectuar todo esto como un hecho en vuestra propia experiencia personal._» ([LU 155:6.3](/es/The_Urantia_Book/155#p6_3))
+> «_Os he llamado para que nazcáis de nuevo, para que nazcáis del espíritu. Os he llamado para que salgáis de las tinieblas de la autoridad y del letargo de la tradición, y entréis en la luz trascendente donde obtendréis la posibilidad de hacer por vosotros mismos el mayor descubrimiento posible que el alma humana puede hacer —la experiencia celestial de encontrar a Dios por vosotros mismos, en vosotros mismos y para vosotros mismos, y efectuar todo esto como un hecho en vuestra propia experiencia personal._» (<a id="a93_516"></a>[LU 155:6.3](/es/The_Urantia_Book/155#p6_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/On_Group_Conformity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la conformidad grupal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-4-julio-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 4 Julio de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Trevor_Swadling/The_Crossroads_Of_Epochal_Revelation">
+          <span class="pr-2">La encrucijada de la revelación de época</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

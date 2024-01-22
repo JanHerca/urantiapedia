@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Patije Mills<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los extremos de creer como un niño pequeño</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="pr-2">¿Qué dice el libro de Urantia sobre la voluntad de Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Patije Mills, Sarasota, Florida_
@@ -37,7 +61,7 @@ Monota = La energía viva, no espiritual del Paraíso; sistema energético del P
 -Ta= Energía viva, no espiritual
 -Monota = ¿Sistema Energético Viviente no espiritual del Hijo?
 
-Mota = Altos niveles de percepción cósmica/más que una filosofía superior: tiene un efecto estereoscópico sobre significados y valores ([LU 48:7](/es/The_Urantia_Book/48#p7)).
+Mota = Altos niveles de percepción cósmica/más que una filosofía superior: tiene un efecto estereoscópico sobre significados y valores (<a id="a63_136"></a>[LU 48:7](/es/The_Urantia_Book/48#p7)).
 - Mo = ¿Sistema o filosofía?
 - Ta = Energía viva no espiritual
 - Mota = ¿Sistema de filosofía energética viviente no espiritual?
@@ -89,3 +113,28 @@ Otras sílabas «El» incluyen: Ang-el, Immanu-el, Gabri-el, Archang-el-s, Evan-
 
 ¡¡¡Por favor escríbeme si tu imaginación también se estimula y/o has descubierto algunos de los códigos!!!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Matt_Neibaur/Extremes_Of_Believing_As_A_Little_Child">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Los extremos de creer como un niño pequeño</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-4-julio-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 4 Julio de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/What_Does_UB_Say_About_The_Will_Of_God">
+          <span class="pr-2">¿Qué dice el libro de Urantia sobre la voluntad de Dios?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

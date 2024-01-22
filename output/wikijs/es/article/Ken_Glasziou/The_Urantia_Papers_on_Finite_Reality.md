@@ -78,7 +78,7 @@ La máxima progresión alcanzable por las criaturas humanas culmina con:
 - Nuestro conocimiento del Supremo
 - Nuestro logro de la perfección, armonía y unanimidad de nuestras voluntades de tal manera que el deseo de hacer la voluntad del Padre sea supremo en nuestras almas y domine nuestras mentes.
 
-Habiendo alcanzado ese estado deseable, calificamos para convertirnos en «uno» con el Padre-Espíritu interior, y así avanzar desde nuestras limitaciones mortales hacia los potenciales de una existencia espiritual trascendente. A partir de ese momento, se puede esperar que nuestros conceptos de finita o trascendente, experimenten avances que están más allá de nuestra capacidad actual de comprensión. (ver <a id="a80_419"></a>[LU 130:4.3](/es/The_Urantia_Book/130#p4_3))
+Habiendo alcanzado ese estado deseable, calificamos para convertirnos en «uno» con el Padre-Espíritu interior, y así avanzar desde nuestras limitaciones mortales hacia los potenciales de una existencia espiritual trascendente. A partir de ese momento, se puede esperar que nuestros conceptos de finita o trascendente, experimenten avances que están más allá de nuestra capacidad actual de comprensión. (ver <a id="a80_407"></a>[LU 130:4.3](/es/The_Urantia_Book/130#p4_3))
 
 ## Enlaces externos
 

@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 9 No. 4 - Julio de 1988"
+título: "Boletín Six-0-Six - Volumen 9 Núm. 4 - Julio de 1988"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1988 Robert Crickett, Ken \& Betty Glasziou, Matt Neibaur<br>© 1988 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-4-julio-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 4 Julio de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Second_Remarkable_Prediction">
+          <span class="pr-2">La segunda predicción notable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -31,11 +52,11 @@ Dana Poole de Griffin, Georgia, EE. UU. es la editora del boletín «Harmony», 
 
 ## «Pensamiento del mes»
 
-> «La esperanza del cristianismo moderno consiste en dejar de patrocinar los sistemas sociales y las políticas industriales de la civilización occidental, e inclinarse humildemente ante la cruz que ensalza tan valientemente, para aprender allí otra vez de Jesús de Nazaret las verdades más grandes que el hombre mortal pueda escuchar jamás —el evangelio viviente de la paternidad de Dios y de la fraternidad de los hombres.» ([LU 195:10.21](/es/The_Urantia_Book/195#p10_21))
+> «La esperanza del cristianismo moderno consiste en dejar de patrocinar los sistemas sociales y las políticas industriales de la civilización occidental, e inclinarse humildemente ante la cruz que ensalza tan valientemente, para aprender allí otra vez de Jesús de Nazaret las verdades más grandes que el hombre mortal pueda escuchar jamás —el evangelio viviente de la paternidad de Dios y de la fraternidad de los hombres.» (<a id="a54_426"></a>[LU 195:10.21](/es/The_Urantia_Book/195#p10_21))
 
 ## La segunda predicción notable
 
-DERIVA CONTINENTAL: _El Libro de URANTIA_ afirma de manera bastante categórica. que toda la tierra de la Tierra era originalmente un solo continente que posteriormente se dividió, comenzando hace 750 millones de años ([LU 57:8.23](/es/The_Urantia_Book/57#p8_23)), seguido de un largo período de deriva continental durante el cual se formaron puentes terrestres repetidamente. formado y roto.
+DERIVA CONTINENTAL: _El Libro de URANTIA_ afirma de manera bastante categórica. que toda la tierra de la Tierra era originalmente un solo continente que posteriormente se dividió, comenzando hace 750 millones de años (<a id="a58_218"></a>[LU 57:8.23](/es/The_Urantia_Book/57#p8_23)), seguido de un largo período de deriva continental durante el cual se formaron puentes terrestres repetidamente. formado y roto.
 
 La idea de la deriva continental fue debatida en el siglo XIX y Wegener la propuso por primera vez como una teoría integral en 1912. No fue bien aceptada, fue clasificada como una ciencia increíble y quedó cada vez más desacreditada hasta la década de 1960. Todavía recuerdo haber asistido a una conferencia de geología en la Universidad de Sydney en 1951, cuando el conferenciante descartó el concepto de deriva continental con el comentario de que no se conocían fuerzas que pudieran separar los continentes. El cambio de actitud se inició con el descubrimiento de largas cadenas montañosas en el fondo del océano, como la Cordillera del Atlántico Medio que se extiende desde Islandia hasta la Antártida. Durante la década de 1960, un examen cuidadoso del fondo del océano reveló que la roca del manto de la Tierra se estaba derritiendo y luego empujada hacia arriba, lo que provocaba que el fondo del mar se expandiera. Se esperaría que este afloramiento separara los continentes y, por lo tanto, proporcionara la evidencia faltante del mecanismo físico que podría provocar la deriva continental. Sin embargo, no se le llamó deriva continental, sino que se le dio el nombre más científico de tectónica de placas.
 
@@ -101,7 +122,7 @@ Jean Claude continuó con una charla, 'Estudio de _El Libro de URANTIA_', seguid
 
 El día se completó con un baile sagrado guiado por Kitty, y lo disfrutamos muchísimo. Durante todo el día nos rodearon olas espirituales y la verdad, la belleza y la bondad nos tocaron a todos.
 
-> «*La melodía del pensamiento* —el hecho de tener pensamientos espirituales se puede perfeccionar hasta el punto de estallar en las melodías de Havona.» ([LU 44:1.8](/es/The_Urantia_Book/44#p1_8))
+> «*La melodía del pensamiento* —el hecho de tener pensamientos espirituales se puede perfeccionar hasta el punto de estallar en las melodías de Havona.» (<a id="a124_155"></a>[LU 44:1.8](/es/The_Urantia_Book/44#p1_8))
 
 ### Deseo de mayor fecundidad
 
@@ -210,3 +231,25 @@ Como probablemente ya habrás descubierto, no faltaba ninguna pista 29. Nuestras
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-4-julio-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 4 Julio de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Second_Remarkable_Prediction">
+          <span class="pr-2">La segunda predicción notable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

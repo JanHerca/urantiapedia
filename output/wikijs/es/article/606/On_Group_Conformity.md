@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol14_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 14 Núm. 4 Julio de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-4-julio-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 4 Julio de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Faith_And_The_Channelling_Pathway">
+          <span class="pr-2">La fe y el camino de la canalización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Grupo de Estudio de la Costa del Sol_
@@ -23,7 +47,7 @@ Los grupos son un componente fundamental de nuestra vida social. Durante la mayo
 
 Un grupo puede lograr mucho más que la suma de los esfuerzos de sus miembros individuales. _El Libro de URANTIA_ afirma:
 
-> «_Un grupo social de seres humanos que trabaja en armonía coordinada representa una fuerza mucho más grande que la simple suma de sus componentes._» ([LU 133:5.6](/es/The_Urantia_Book/133#p5_6))
+> «_Un grupo social de seres humanos que trabaja en armonía coordinada representa una fuerza mucho más grande que la simple suma de sus componentes._» (<a id="a49_152"></a>[LU 133:5.6](/es/The_Urantia_Book/133#p5_6))
 
 Ésa es la buena noticia sobre los grupos. La mala noticia es que los grupos suelen cobrar un precio por ser miembro que puede incluir la supresión de la contribución individual, la conformidad, el lavado de cerebro, la obediencia irreflexiva a la mayoría, la dominación total por parte de un líder, etc.
 
@@ -37,7 +61,7 @@ Cientos de estudios de conformidad que utilizan diversos métodos indican que lo
 
 La obediencia a la autoridad o a un líder concebido es una tendencia tan enormemente poderosa en nosotros los humanos que es esencial reconocerla y considerarla objetivamente si queremos tomar decisiones correctas. Cuán poderosa es esta necesidad de ser guiados o de que se les diga qué hacer quedó ilustrada por el hasta ahora inconcebible cambio masivo de bando que se produjo cuando las tropas de la ONU fueron tomadas prisioneras durante la guerra de Corea. La técnica utilizada contra los prisioneros era patéticamente simple, y nada tenía que ver con un arduo y continuo lavado de cerebro. De hecho, el cambio se logró simplemente observando el comportamiento grupal de los prisioneros y trasladando a otro campo a todos aquellos individuos que mostraran algún signo de liderazgo. Para derrumbar la moral del resto y hacerlos muy susceptibles al adoctrinamiento, se expulsó a menos del 5% de los prisioneros. Pero no nos apresuremos a convencernos de nuestra propia superioridad. Escuche lo que dijo un serafín (Guardián del Destino) sobre su cargo humano (que debe haber alcanzado al menos el estado del tercer círculo):
 
-> _«Una gran parte de mis dificultades se debían al conflicto interminable entre las dos naturalezas de mi sujeto: la indolencia animal oponiéndose al impulso de la ambición; los ideales de un pueblo superior contrariados por los instintos de una raza inferior; los objetivos elevados de una gran mente neutralizados por el impulso de una herencia primitiva;»._ ([LU 111:7.5](/es/The_Urantia_Book/111#p7_5))
+> _«Una gran parte de mis dificultades se debían al conflicto interminable entre las dos naturalezas de mi sujeto: la indolencia animal oponiéndose al impulso de la ambición; los ideales de un pueblo superior contrariados por los instintos de una raza inferior; los objetivos elevados de una gran mente neutralizados por el impulso de una herencia primitiva;»._ (<a id="a63_363"></a>[LU 111:7.5](/es/The_Urantia_Book/111#p7_5))
 
 ## Estudios realizados
 
@@ -53,29 +77,29 @@ Es probable que estos cambios de comportamiento estén relacionados con las expe
 
 En tales situaciones, incluso un lector sincero del Libro de URANTIA que busca genuinamente conformarse a la voluntad de Dios puede inconscientemente torcer lo que concibe como la voluntad de Dios para alinearla con la voluntad del grupo. La cura es seguir las instrucciones del libro:
 
-> «_«Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió._» ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> «_«Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió._» (<a id="a79_489"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
-Habiendo asumido «la mente de Jesús» ([LU 47:3.3](/es/The_Urantia_Book/47#p3_3)), es posible hacer lo que uno esperaría que Jesús hubiera hecho en circunstancias similares.
+Habiendo asumido «la mente de Jesús» (<a id="a81_38"></a>[LU 47:3.3](/es/The_Urantia_Book/47#p3_3)), es posible hacer lo que uno esperaría que Jesús hubiera hecho en circunstancias similares.
 
 Refiriéndose al liderazgo de Jesús, _El Libro de URANTIA_ afirma:
 
-> «_De todos los hombres que recibieron su llamamiento personal, sólo tres rehusaron aceptar esta invitación a convertirse en sus discípulos. Ejercía un poder de atracción particular sobre los hombres, pero no era dictatorial. Inspiraba confianza, y nadie se sintió nunca ofendido por recibir una orden suya. Poseía una autoridad absoluta sobre sus discípulos, pero ninguno puso nunca objeciones. Permitía que sus seguidores le llamaran Maestro._» ([LU 149:2.12](/es/The_Urantia_Book/149#p2_12))
+> «_De todos los hombres que recibieron su llamamiento personal, sólo tres rehusaron aceptar esta invitación a convertirse en sus discípulos. Ejercía un poder de atracción particular sobre los hombres, pero no era dictatorial. Inspiraba confianza, y nadie se sintió nunca ofendido por recibir una orden suya. Poseía una autoridad absoluta sobre sus discípulos, pero ninguno puso nunca objeciones. Permitía que sus seguidores le llamaran Maestro._» (<a id="a85_449"></a>[LU 149:2.12](/es/The_Urantia_Book/149#p2_12))
 
 Pero la diferencia crítica fue que:
 
-> «_Jesús obtenía la obediencia de sus seguidores sin exigirla._» ([LU 149:2.12](/es/The_Urantia_Book/149#p2_12))
+> «_Jesús obtenía la obediencia de sus seguidores sin exigirla._» (<a id="a89_67"></a>[LU 149:2.12](/es/The_Urantia_Book/149#p2_12))
 
 La conciencia de nuestras debilidades inherentes es un imperativo si queremos cumplir al menos parcialmente el plan y la dirección de nuestros Ajustadores del Pensamiento durante nuestra vida mortal. Un Mensajero Solitario nos informa:
 
-> «_Las razas de Urantia están tan ampliamente controladas eléctrica y químicamente, su comportamiento común se parece tanto al de los animales, sus reacciones habituales son tan emotivas, que a los Monitores les resulta extremadamente difícil guiarlas y dirigirlas. Estáis tan desprovistos de decisiones valientes y de una cooperación consagrada, que a vuestros Ajustadores interiores les resulta casi imposible comunicarse directamente con la mente humana. Incluso cuando les es posible transmitir un destello de verdad nueva al alma mortal evolutiva, a menudo esta revelación espiritual ciega tanto a la criatura que provoca una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso. Muchas religiones nuevas y extraños «ismos» han nacido como consecuencia de las comunicaciones abortadas, imperfectas, mal comprendidas y confusas de los Ajustadores del Pensamiento._» ([LU 110:4.5](/es/The_Urantia_Book/110#p4_5))
+> «_Las razas de Urantia están tan ampliamente controladas eléctrica y químicamente, su comportamiento común se parece tanto al de los animales, sus reacciones habituales son tan emotivas, que a los Monitores les resulta extremadamente difícil guiarlas y dirigirlas. Estáis tan desprovistos de decisiones valientes y de una cooperación consagrada, que a vuestros Ajustadores interiores les resulta casi imposible comunicarse directamente con la mente humana. Incluso cuando les es posible transmitir un destello de verdad nueva al alma mortal evolutiva, a menudo esta revelación espiritual ciega tanto a la criatura que provoca una conmoción de fanatismo o desencadena algún otro trastorno intelectual que resulta desastroso. Muchas religiones nuevas y extraños «ismos» han nacido como consecuencia de las comunicaciones abortadas, imperfectas, mal comprendidas y confusas de los Ajustadores del Pensamiento._» (<a id="a93_912"></a>[LU 110:4.5](/es/The_Urantia_Book/110#p4_5))
 
 Además de llamar la atención sobre nuestras deficiencias genéticas resultantes del defecto adámico, este pasaje nos informa que, en nuestro estado actual de desarrollo, ¡es casi imposible para nuestros Ajustadores del Pensamiento comunicarse con nuestras mentes humanas!
 
 ## Reclamaciones sobre canalización
 
-_El Libro de URANTIA_ nos dice que «_sólo el Ajustador del Pensamiento contacta directamente con la mente humana_». ([LU 34:5.3](/es/The_Urantia_Book/34#p5_3)) Esto seguramente debería ser una advertencia para todos los lectores del Libro de URANTIA al considerar las afirmaciones asociadas con las actividades grupales que implican canalización. La literatura de la «Misión de Enseñanza» que se originó en Woods Cross, Utah, afirma que el contacto con los «maestros» celestiales debe solicitarse a través de nuestros Ajustadores del Pensamiento y la comunicación posterior debe realizarse a través del Ajustador del Pensamiento con la ayuda de un Intermedio. ¿Qué tan probable es esto si es casi imposible para nuestros Ajustadores del Pensamiento comunicarse con nuestras mentes?
+_El Libro de URANTIA_ nos dice que «_sólo el Ajustador del Pensamiento contacta directamente con la mente humana_». (<a id="a99_117"></a>[LU 34:5.3](/es/The_Urantia_Book/34#p5_3)) Esto seguramente debería ser una advertencia para todos los lectores del Libro de URANTIA al considerar las afirmaciones asociadas con las actividades grupales que implican canalización. La literatura de la «Misión de Enseñanza» que se originó en Woods Cross, Utah, afirma que el contacto con los «maestros» celestiales debe solicitarse a través de nuestros Ajustadores del Pensamiento y la comunicación posterior debe realizarse a través del Ajustador del Pensamiento con la ayuda de un Intermedio. ¿Qué tan probable es esto si es casi imposible para nuestros Ajustadores del Pensamiento comunicarse con nuestras mentes?
 
-Recientemente, la «Misión de Enseñanza» ha ampliado sus horizontes más allá de los lectores del Libro de URANTIA. Ahora lo es para todas las naciones, razas y religiones. También se ha dicho que todo aquel que lo desee puede tener su propio maestro celestial. Pero dado que un maestro debe contactar la mente humana a través del Ajustador del Pensamiento con la ayuda de un intermedio secundario ([LU 114:7.9](/es/The_Urantia_Book/114#p7_9)), y dado que el número de intermedios secundarios que permanecieron en Urantia después de la rebelión fue 1.111, ¿no habrá una logística? ¿problema? Con una población mundial del orden de 4 a 5 mil millones, ¡sólo puede haber un intermediario secundario por cada 4 a 5 millones de nosotros! Saca tus propias conclusiones.
+Recientemente, la «Misión de Enseñanza» ha ampliado sus horizontes más allá de los lectores del Libro de URANTIA. Ahora lo es para todas las naciones, razas y religiones. También se ha dicho que todo aquel que lo desee puede tener su propio maestro celestial. Pero dado que un maestro debe contactar la mente humana a través del Ajustador del Pensamiento con la ayuda de un intermedio secundario (<a id="a101_397"></a>[LU 114:7.9](/es/The_Urantia_Book/114#p7_9)), y dado que el número de intermedios secundarios que permanecieron en Urantia después de la rebelión fue 1.111, ¿no habrá una logística? ¿problema? Con una población mundial del orden de 4 a 5 mil millones, ¡sólo puede haber un intermediario secundario por cada 4 a 5 millones de nosotros! Saca tus propias conclusiones.
 
 Siempre debemos recordar que nuestra credulidad tiende a amplificarse en una situación grupal y cuando ya estamos en un estado mental de querer una experiencia sobrenatural antes de unirnos a un grupo, nuestras instalaciones críticas se verán gravemente obstaculizadas. Ya se han citado pruebas de que así somos los humanos, y no sólo una minoría, ¡es así para prácticamente todos nosotros!
 
@@ -120,11 +144,11 @@ Si bien es cierto que nosotros, los urantianos, tenemos grandes dificultades par
 
 Desde Pentecostés, otra gran influencia espiritual ha operado en las vidas de todos los urantianos que buscan su presencia: el Espíritu de la Verdad, el don de Jesús resucitado. La notable eficacia del Espíritu de la Verdad queda indicada por estas palabras:
 
-> «_En menos de un mes, después de la donación del Espíritu de la Verdad, los apóstoles hicieron individualmente más progresos espirituales que durante sus casi cuatro años de asociación personal y afectuosa con el Maestro._» ([LU 194:2.9](/es/The_Urantia_Book/194#p2_9))
+> «_En menos de un mes, después de la donación del Espíritu de la Verdad, los apóstoles hicieron individualmente más progresos espirituales que durante sus casi cuatro años de asociación personal y afectuosa con el Maestro._» (<a id="a146_227"></a>[LU 194:2.9](/es/The_Urantia_Book/194#p2_9))
 
 Podemos saber cuándo el Espíritu de la Verdad está siendo eficaz en nuestras propias vidas porque:
 
-> «_El espíritu nunca crea una conciencia de sí mismo, sino sólo una conciencia de Miguel, el Hijo._» ([LU 194:2.4](/es/The_Urantia_Book/194#p2_4))
+> «_El espíritu nunca crea una conciencia de sí mismo, sino sólo una conciencia de Miguel, el Hijo._» (<a id="a150_103"></a>[LU 194:2.4](/es/The_Urantia_Book/194#p2_4))
 
 La conciencia de Jesús surge a través de la oración y de la familiaridad con su vida y sus enseñanzas. Muchos de nosotros encontramos que nuestra conciencia de Jesús es proporcional a esa familiaridad, y cuando la tenemos, siempre podemos hacernos la pregunta en cualquier situación: «¿Qué habría hecho Jesús?»
 
@@ -140,11 +164,11 @@ La interacción grupal puede ser de enorme beneficio personal y comunitario cuan
 
 ¿Quién no se emocionará con estas palabras?
 
-> «_La adoración es el privilegio más elevado y el deber primero de todas las inteligencias creadas. La adoración es el acto consciente y gozoso de reconocer y de admitir la verdad y el hecho de las relaciones íntimas y personales entre los Creadores y sus criaturas._» ([LU 27:7.1](/es/The_Urantia_Book/27#p7_1))
+> «_La adoración es el privilegio más elevado y el deber primero de todas las inteligencias creadas. La adoración es el acto consciente y gozoso de reconocer y de admitir la verdad y el hecho de las relaciones íntimas y personales entre los Creadores y sus criaturas._» (<a id="a166_271"></a>[LU 27:7.1](/es/The_Urantia_Book/27#p7_1))
 
 Y:
 
-> «_A veces todo el Paraíso se sumerge en una marea dominante de expresión espiritual y adoradora. A menudo los conductores de la adoración no pueden controlar estos fenómenos, hasta que aparece la triple fluctuación de luz de la morada de la Deidad, indicando que el corazón divino de los Dioses está plena y completamente satisfecho con la adoración sincera de los residentes del Paraíso, los ciudadanos perfectos de la gloria y las criaturas ascendentes del tiempo._» ([LU 27:7.7](/es/The_Urantia_Book/27#p7_7))
+> «_A veces todo el Paraíso se sumerge en una marea dominante de expresión espiritual y adoradora. A menudo los conductores de la adoración no pueden controlar estos fenómenos, hasta que aparece la triple fluctuación de luz de la morada de la Deidad, indicando que el corazón divino de los Dioses está plena y completamente satisfecho con la adoración sincera de los residentes del Paraíso, los ciudadanos perfectos de la gloria y las criaturas ascendentes del tiempo._» (<a id="a170_472"></a>[LU 27:7.7](/es/The_Urantia_Book/27#p7_7))
 
 Un día en un futuro lejano, tal ocasión de adoración en grupo marcará nuestra calificación para la admisión al Cuerpo de Finalidad. Gracias a Dios porque no hay errores que podamos cometer que impidan que ese día suceda si ese es nuestro deseo genuino.
 
@@ -154,3 +178,28 @@ Milgram, S. Obediencia a la autoridad (Harper, Nueva York, 1974)
 
 Zimbarbo, P., Haney, C., Banks, W. \& Jaffe, D. La psicología del encarcelamiento: privación, poder y patología Universidad de Stanford (1972)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol14_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 14 Núm. 4 Julio de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-4-julio-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 4 Julio de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Faith_And_The_Channelling_Pathway">
+          <span class="pr-2">La fe y el camino de la canalización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La moralidad es una ley en sí misma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_It_Important">
+          <span class="pr-2">¿Es importante?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ann Bendall, Nambour, Qld._
@@ -37,3 +61,28 @@ Todo ello es fantástico para mí, como estudiante de El libro de URANTIA. Mi co
 
 Se considera que la terapia a nivel psicológico proporciona la integración necesaria para lograr la síntesis a nivel espiritual. Los teóricos también postulan que uno debe experimentar los elementos básicos del amor, la fe, la confianza y la esperanza a nivel humano antes de poder experimentarlos con Dios. Por lo tanto, creen que la terapia puede contribuir a los objetivos espirituales proporcionando experiencias emocionales fundamentales que la persona puede utilizar posteriormente en sus experiencias espirituales, y también puede aclarar las distorsiones de la relación con Dios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/John_Hyde/Morality_Is_A_Law_Unto_Itself">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La moralidad es una ley en sí misma</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Is_It_Important">
+          <span class="pr-2">¿Es importante?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

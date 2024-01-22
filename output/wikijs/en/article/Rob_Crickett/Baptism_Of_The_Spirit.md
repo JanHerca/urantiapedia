@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 9 No. 4 — July 1988"
+title: "Baptism Of The Spirit"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

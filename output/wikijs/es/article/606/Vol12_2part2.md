@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 12 No. 2 Parte 2 - Febrero de 1991"
+título: "Boletín Six-0-Six - Volumen 12 Núm. 2 Parte 2 - Febrero de 1991"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kirsten McFadden<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Michael_Waterman/An_Open_Letter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una carta abierta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Concerning_Inner_Guidance_A_Cosmic_Perspective">
+          <span class="pr-2">Sobre la guía interior: una perspectiva cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -170,3 +194,28 @@ Para un espíritu que es divino
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Paul_Michael_Waterman/An_Open_Letter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una carta abierta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/Concerning_Inner_Guidance_A_Cosmic_Perspective">
+          <span class="pr-2">Sobre la guía interior: una perspectiva cósmica</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

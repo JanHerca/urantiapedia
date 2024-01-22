@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Anna Dollard<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Contemplative_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración contemplativa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-4-julio-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="pr-2">La ciencia y el espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Anna Dollard_
@@ -32,3 +56,28 @@ E. J. Dwyer se ha beneficiado del «fenómeno floreciente» de lectores en gener
 
 Quizás el título religioso más importante que se incorporará a la literatura convencional este año sea «Jesus The Man» de la Dra. Barbara Thiering, publicado por Transworld, que ya vendió los derechos del libro en Estados Unidos, Reino Unido y Canadá. El controvertido libro basado en los Rollos del Mar Muerto también se publicará por entregas en un importante periódico y en una revista nacional en color.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Contemplative_Prayer">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Oración contemplativa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-4-julio-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bryan_Appleyard/Science_And_The_Spirit">
+          <span class="pr-2">La ciencia y el espíritu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

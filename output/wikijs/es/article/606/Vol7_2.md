@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 7 No. 2 - Marzo de 1986"
+título: "Boletín Six-0-Six - Volumen 7 Núm. 2 - Marzo de 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Helen Hutchinson, Madeline Noordzy, Keith Bacon<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-2-marzo-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 2 Marzo 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/The_Spirit_and_the_Flesh">
+          <span class="pr-2">El Espíritu y la Carne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -45,11 +66,11 @@ En respuesta a nuestro artículo sobre «La importancia del lenguaje» en la edi
 
 ---
 
-> «Después de emprender el camino de la vida eterna, después de aceptar vuestra tarea y de recibir vuestras órdenes para progresar, no temáis los peligros de la falta de memoria de los hombres ni la inconstancia de los mortales, no os inquietéis por el miedo al fracaso o por las confusiones que causan perplejidad, no vaciléis ni pongáis en duda vuestro estado ni vuestra posición, porque en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino».» ([LU 34:7.8](/es/The_Urantia_Book/34#p7_8))
+> «Después de emprender el camino de la vida eterna, después de aceptar vuestra tarea y de recibir vuestras órdenes para progresar, no temáis los peligros de la falta de memoria de los hombres ni la inconstancia de los mortales, no os inquietéis por el miedo al fracaso o por las confusiones que causan perplejidad, no vaciléis ni pongáis en duda vuestro estado ni vuestra posición, porque en todas las horas sombrías, en todas las encrucijadas de la lucha por el progreso, el Espíritu de la Verdad siempre hablará, diciendo: «Éste es el camino».» (<a id="a68_549"></a>[LU 34:7.8](/es/The_Urantia_Book/34#p7_8))
 
 ## ¡Estamos «temblando al borde del abismo»!
 
-En [LU 195:9.2](/es/The_Urantia_Book/195#p9_2) encontramos algunas de las frases más emocionantes de todo el libro: «Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual».
+En <a id="a72_3"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2) encontramos algunas de las frases más emocionantes de todo el libro: «Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual».
 
 No dice que la revelación más completa podría conquistar un imperio materialista; dice que ESTÁ DESTINADA a hacerlo. No hay «si» y «tal vez» al respecto: dice que Urantia NO ESTÁ al borde del abismo.
 
@@ -57,11 +78,11 @@ Y lo llama una nueva época. Una época parece ser el tiempo de un Hijo a otro: 
 
 ¿Eso significa que pronto tendremos otro Hijo? ¿Quizás un Hijo Magisterial? Muchas cosas parecen apuntar en esa dirección.
 
-El [LU 99:1.3](/es/The_Urantia_Book/99#p1_3) el Libro afirma: «La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas. El navío social ha zarpado de las bahías abrigadas de la tradición establecida, y ha empezado a navegar en el alta mar del destino evolutivo». Y encima dice: «La humanidad está en marcha hacia un nuevo destino planetario no revelado». [LU 99:1.1](/es/The_Urantia_Book/99#p1_1)
+El <a id="a80_3"></a>[LU 99:1.3](/es/The_Urantia_Book/99#p1_3) el Libro afirma: «La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas. El navío social ha zarpado de las bahías abrigadas de la tradición establecida, y ha empezado a navegar en el alta mar del destino evolutivo». Y encima dice: «La humanidad está en marcha hacia un nuevo destino planetario no revelado». <a id="a80_383"></a>[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)
 
-En [LU 114:4.4](/es/The_Urantia_Book/114#p4_4) leemos: «Un observador Altísimo está facultado para hacerse cargo, a su juicio, del gobierno planetario en tiempos de grave crisis planetaria, y los archivos indican que esto ha sucedido treinta y tres veces en la historia de Urantia». (Las páginas [LU 43:5.17](/es/The_Urantia_Book/43#p5_17) y [LU 175:1.8](/es/The_Urantia_Book/175#p1_8) parecen contarnos dos de esos momentos).
+En <a id="a82_3"></a>[LU 114:4.4](/es/The_Urantia_Book/114#p4_4) leemos: «Un observador Altísimo está facultado para hacerse cargo, a su juicio, del gobierno planetario en tiempos de grave crisis planetaria, y los archivos indican que esto ha sucedido treinta y tres veces en la historia de Urantia». (Las páginas <a id="a82_296"></a>[LU 43:5.17](/es/The_Urantia_Book/43#p5_17) y <a id="a82_342"></a>[LU 175:1.8](/es/The_Urantia_Book/175#p1_8) parecen contarnos dos de esos momentos).
 
-Y luego en [LU 134:5.1](/es/The_Urantia_Book/134#p5_1) nos dice que la evolución de nuestra soberanía política se encuentra AHORA en una etapa CRÍTICA. Y en [LU 134:5.3](/es/The_Urantia_Book/134#p5_3) nos recuerda que «Los gobernantes civiles aprenderán algún día que los Altísimos gobiernan en los reinos de los hombres» – no el reino de DIOS – sino de los HOMBRES.
+Y luego en <a id="a84_11"></a>[LU 134:5.1](/es/The_Urantia_Book/134#p5_1) nos dice que la evolución de nuestra soberanía política se encuentra AHORA en una etapa CRÍTICA. Y en <a id="a84_157"></a>[LU 134:5.3](/es/The_Urantia_Book/134#p5_3) nos recuerda que «Los gobernantes civiles aprenderán algún día que los Altísimos gobiernan en los reinos de los hombres» – no el reino de DIOS – sino de los HOMBRES.
 
 Así pues, parece que ahora estamos a la vuelta de la esquina de tiempos apasionantes. Aún no hemos tenido un Hijo Magisterial. En la página 594 nos dice que cuando un Avonal del Paraíso viene en una primera misión magistral SIEMPRE está encarnado. No nace como un bebé como un Hijo Autootorgador, pero tal vez simplemente aparece como lo hizo Maquiventa Melquisedec.
 
@@ -83,7 +104,7 @@ Miércoles. 19 de marzo. Glen Waverley: Gobierno planetario seráfico, p. 1250
 
 Todos los miércoles. el Grupo de Sydney se reúne en 7 Walsh St. Narrabeen, Tel.913 7893
 
-En uno de mis muchos viajes maravillosos a través de los Documentos de Urantia, me encontré con el nombre «Enoc»: «el primero de los mortales de Urantia en fusionarse con el Ajustador del Pensamiento durante la vida mortal en la carne». [LU 45:4.13](/es/The_Urantia_Book/45#p4_13)
+En uno de mis muchos viajes maravillosos a través de los Documentos de Urantia, me encontré con el nombre «Enoc»: «el primero de los mortales de Urantia en fusionarse con el Ajustador del Pensamiento durante la vida mortal en la carne». <a id="a106_237"></a>[LU 45:4.13](/es/The_Urantia_Book/45#p4_13)
 
 En este capítulo se le menciona como uno de los veinticuatro consejeros del consejo asesor de Urantia, que tiene su sede en Jerusem, la capital de nuestro sistema local, Satania.
 
@@ -172,7 +193,7 @@ FRANCIA<br>
 
 > «Lier connaissance avec ses frères et sceurs, connaitre leurs problèmes et apprendre à les aimer, c'est l'expérience suprême de la vie.» ([LU 130:2.6](/fr/El_Libro_de_Urantia/130#p2_6))
 
-> Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida». ([LU 130:2.6](/es/The_Urantia_Book/130#p2_6))
+> Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida». (<a id="a195_129"></a>[LU 130:2.6](/es/The_Urantia_Book/130#p2_6))
 
 \* C.E.R.D.H. : una asociación de tipo ley 1901, réunissant des lecteurs du Livre d'Urantia.
 \* C.E.R.D.H. : una sociedad sin fines de lucro que reúne a lectores de El Libro de URANTIA.
@@ -187,7 +208,7 @@ En Francia<br>
 del 3 al 11 de agosto de 1986<br>
 </p>
 
-> «En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto?. Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida». ([LU 130:2.6](/es/The_Urantia_Book/130#p2_6))
+> «En la experiencia de encontrar al Padre que está en los cielos, descubres que todos los hombres son tus hermanos, y ¿no es normal que uno sienta alegría al encontrarse con un hermano recién descubierto?. Conocer a nuestros hermanos y hermanas, comprender sus problemas y aprender a amarlos, es la experiencia suprema de la vida». (<a id="a210_334"></a>[LU 130:2.6](/es/The_Urantia_Book/130#p2_6))
 
 Esta respuesta de Jesús a Ganid resume en sí misma el motivo de sus contactos con los buscadores de la verdad. Definitivamente prueba la importancia que Jesús daba a las cualidades de las relaciones personales entre los hombres.
 
@@ -207,3 +228,25 @@ Este encuentro tendrá lugar en el castillo de Montvillargenne, cerca de Chantil
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-2-marzo-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 2 Marzo 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/The_Spirit_and_the_Flesh">
+          <span class="pr-2">El Espíritu y la Carne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

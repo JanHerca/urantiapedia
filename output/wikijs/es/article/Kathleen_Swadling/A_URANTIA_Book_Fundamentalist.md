@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Kathleen Swadling<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 5 Septiembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-5-septiembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 5 Septiembre 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christopher_Billington/Reflections_on_Mota_Language_and_Humour">
+          <span class="pr-2">Reflexiones sobre la mota, el lenguaje y el humor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Me gustaría hacer algunos comentarios sobre el artículo escrito en la edición de julio/agosto del 6-0-6 por Madeline Noordzy en relación con Elías Tercero. Primero me gustaría decir que no he escuchado las cintas pero el material adjunto en ellas en 6-0-6 fue suficiente para que no tuviera intención de escucharlas. Esto me coloca inmediatamente en la categoría de aquellas personas que Madeline mencionó en su artículo cuando dijo: «Ha sido interesante observar que otros lectores en Australia tenían ideas preconcebidas sobre las cintas tan pronto como supieron cuál era el tema y decidió condenarlos como “basura total» antes incluso de escucharlos”. Y luego: «Muchas veces en el pasado he sido testigo de la frustración de los lectores del Libro de URANTIA con la actitud de los fundamentalistas de ciertas denominaciones cristianas, quienes, porque la Biblia dice que no se debe agregar nada, cierran sus mentes a la luz de nuevas verdades. . Ciertamente no quiero convertirme en un fundamentalista del Libro de URANTIA».
@@ -41,3 +65,28 @@ Así que etiquétenme como Fundamentalista del Libro de URANTIA, si así lo dese
 **Kathleen Swadling**
 **Sídney**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 5 Septiembre 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-5-septiembre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 5 Septiembre 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Christopher_Billington/Reflections_on_Mota_Language_and_Humour">
+          <span class="pr-2">Reflexiones sobre la mota, el lenguaje y el humor</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

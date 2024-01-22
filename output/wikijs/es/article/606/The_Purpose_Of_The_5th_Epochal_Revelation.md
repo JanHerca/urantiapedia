@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 2 Marzo 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-2-marzo-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 2 Marzo 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="pr-2">Alivio asociado con ser lector del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Es el reclutamiento de apóstoles genuinos?
@@ -19,9 +43,9 @@ Quizás la conclusión más simple es que nos ha sido dada para que reconozcamos
 
 Para intentar responder a esta pregunta, echemos un vistazo al Documento 99 de URANTIA, «Los problemas sociales de la religión», escrito por un Melquisedec de Nebadon y dirigido específicamente a los problemas que enfrenta actualmente nuestro planeta. En el pasado, la religión no tuvo que adaptar su actitud a grandes cambios en los sistemas económicos y políticos; Hoy en día, la rapidez de los cambios en las condiciones de vida es tal que las modificaciones institucionales deben acelerarse enormemente y la religión debe acelerar su adaptación a un orden social en constante cambio. Se nos dice que este período de gran inestabilidad durará 1.000 años; que la raza humana debe reconciliarse con una procesión de cambios, ajustes y reajustes, y que la humanidad está en marcha hacia un destino nuevo y no revelado.
 
-Si creemos en la validez de la Quinta Revelación de Época, no nos queda otra opción que tomar en cuenta estas declaraciones proféticas. Muchos de nosotros podemos sentir la urgencia de seguir cambiando y salvando el mundo ahora mismo. Pero esta profecía nos está diciendo que tan rápido como remedimos un problema mundial, estarán ocurriendo nuevos cambios que requerirán diferentes ajustes y esta situación nos acompañará durante al menos 1000 años. ¿Cuál debe ser el papel de la religión? El [párrafo 2 de la sección 1](/es/The_Urantia_Book/99#p1_2) establece:
+Si creemos en la validez de la Quinta Revelación de Época, no nos queda otra opción que tomar en cuenta estas declaraciones proféticas. Muchos de nosotros podemos sentir la urgencia de seguir cambiando y salvando el mundo ahora mismo. Pero esta profecía nos está diciendo que tan rápido como remedimos un problema mundial, estarán ocurriendo nuevos cambios que requerirán diferentes ajustes y esta situación nos acompañará durante al menos 1000 años. ¿Cuál debe ser el papel de la religión? El <a id="a45_494"></a>[párrafo 2 de la sección 1](/es/The_Urantia_Book/99#p1_2) establece:
 
-«La religión debe ejercer una poderosa influencia a favor de la estabilidad moral y del progreso espiritual», y en [el párrafo 3](/es/The_Urantia_Book/99#p1_3), «La misión suprema de la religión, como influencia social, consiste en estabilizar los ideales de la humanidad durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente». El párrafo 4 nos dice que no hay nuevos deberes religiosos que desempeñar, que el papel de la religión es ser una guía sabia y una consejera experimentada. Pero los líderes de nuestras mejores instituciones religiosas saben todo eso, y ciertamente hay mucha sabiduría y experiencia a la que recurrir en las iglesias, seminarios, facultades de teología, departamentos universitarios de religión, etc. Entonces, ¿por qué fue necesaria la Quinta Revelación de Época?
+«La religión debe ejercer una poderosa influencia a favor de la estabilidad moral y del progreso espiritual», y en <a id="a47_115"></a>[el párrafo 3](/es/The_Urantia_Book/99#p1_3), «La misión suprema de la religión, como influencia social, consiste en estabilizar los ideales de la humanidad durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente». El párrafo 4 nos dice que no hay nuevos deberes religiosos que desempeñar, que el papel de la religión es ser una guía sabia y una consejera experimentada. Pero los líderes de nuestras mejores instituciones religiosas saben todo eso, y ciertamente hay mucha sabiduría y experiencia a la que recurrir en las iglesias, seminarios, facultades de teología, departamentos universitarios de religión, etc. Entonces, ¿por qué fue necesaria la Quinta Revelación de Época?
 
 Quizás la Sección 2 del documento proporcione una respuesta a esta pregunta. Se nos dice que la religión institucional no puede proporcionar el liderazgo y la inspiración necesarios porque se encuentra en una situación sin salida. No puede reconstruirse hasta que la sociedad haya sido radicalmente reconstruida. Luego, la sección 2 continúa diciéndonos que los religiosos deben funcionar en la sociedad, la industria y la política como individuos, no como grupos o instituciones.
 
@@ -41,3 +65,28 @@ Para concluir ofrecemos una última reflexión. Ha habido una considerable divis
 
 Grupo de estudio de Sunshine Coast, QLD.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 2 Marzo 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-2-marzo-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 2 Marzo 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="pr-2">Alivio asociado con ser lector del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

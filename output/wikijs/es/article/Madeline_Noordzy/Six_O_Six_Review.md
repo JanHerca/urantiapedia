@@ -1,5 +1,5 @@
 ---
-título: "Revisión Six-O-Six"
+título: "Revisión de Six-O-Six"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Madeline Noordzy<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol12_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Edward_Kendrex/Some_Personal_Thoughts">
+          <span class="pr-2">Algunos pensamientos personales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Como habrán notado los lectores de Six-O-Six, en los últimos números la variedad de artículos ha cubierto un alcance más amplio que antes. Algunos están de acuerdo con esto y otros no. Mi coeditor, Neil Francey, no está de acuerdo y escribió sus pensamientos de la siguiente manera:
@@ -43,3 +67,28 @@ _Nos gustaría que todos nuestros lectores, incluidos nuestros amigos en el extr
 
 **Madeline Noordzy**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol12_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Edward_Kendrex/Some_Personal_Thoughts">
+          <span class="pr-2">Algunos pensamientos personales</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

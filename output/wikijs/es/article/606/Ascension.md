@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ver el mundo bajo una nueva luz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kirsten_McFadden/Every_Now_Zen">
+          <span class="pr-2">Cada Ahora y Zen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **La Repersonalización, la Ascensión, la Fusión, la Rematerialización, la Reconstrucción, el Cuerpo de Luz y el Cuerpo Morontial son todos parte del mismo proceso.**
@@ -19,41 +43,41 @@ Teniendo en cuenta que _El Libro de URANTIA_ afirma que es una revelación incom
 
 O más aún, ¿por qué no dice que si usted realiza un estudio realmente profundo de esta Revelación hasta el punto de comprender al Ajustador del Pensamiento, el Espíritu de la Verdad, el Espíritu Santo y Sus Espíritus Ayudantes de la Mente, los Siete Círculos Psíquicos? , etc., que es posible llegar a una comprensión **VIABLE** de cómo puedes volverte consciente de 'otras vidas' que pueden convertirse o no en otras facetas de tu personalidad. Es posible no sólo volverse consciente de otras personalidades dentro del sistema mental en el que estás involucrado, sino que es posible que ciertos humanos evolutivos, a través de su propia espiritualidad, eleven la frecuencia de sus cuerpos físicos (en diversos grados) hasta el punto en que pueden desmaterializarse lo suficiente como para permitir que aquellos de una dimensión superior entren y compartan el recipiente y **APARECER** - **MANIFESTAR** - **DEMOSTRAR** a aquellos que han comenzado a desarrollar **VISIÓN ESPIRITUAL**. Es vital comprender la visión espiritual, que es la capacidad de VER en múltiples dimensiones. Jesús se refirió repetidamente a la VISIÓN ESPIRITUAL y a menudo se menciona en _El Libro de URANTIA_:
 
-> «_En un mundo material pensáis que un cuerpo tiene un espíritu, pero nosotros consideramos que el espíritu tiene un cuerpo. Los ojos materiales son en verdad las ventanas del alma nacida del espíritu. El espíritu es el arquitecto, la mente es el constructor, el cuerpo es el edificio material._» ([LU 42:12.12](/es/The_Urantia_Book/42#p12_12))
+> «_En un mundo material pensáis que un cuerpo tiene un espíritu, pero nosotros consideramos que el espíritu tiene un cuerpo. Los ojos materiales son en verdad las ventanas del alma nacida del espíritu. El espíritu es el arquitecto, la mente es el constructor, el cuerpo es el edificio material._» (<a id="a45_299"></a>[LU 42:12.12](/es/The_Urantia_Book/42#p12_12))
 
-> «_El ojo es la lámpara del cuerpo; por lo tanto, si vuestro ojo es generoso, todo vuestro cuerpo estará lleno de luz. Pero si vuestro ojo es egoísta, todo vuestro cuerpo estará lleno de tinieblas. Si la luz misma que está en vosotros se convierte en tinieblas, ¡cuán profundas serán esas tinieblas!_» ([LU 140:6.12](/es/The_Urantia_Book/140#p6_12))
+> «_El ojo es la lámpara del cuerpo; por lo tanto, si vuestro ojo es generoso, todo vuestro cuerpo estará lleno de luz. Pero si vuestro ojo es egoísta, todo vuestro cuerpo estará lleno de tinieblas. Si la luz misma que está en vosotros se convierte en tinieblas, ¡cuán profundas serán esas tinieblas!_» (<a id="a47_304"></a>[LU 140:6.12](/es/The_Urantia_Book/140#p6_12))
 
-> «_Las manifestaciones materiales de la divinidad sólo parecen defectuosas para la mente evolutiva del hombre porque el hombre mortal insiste en mirar los fenómenos de la naturaleza con los ojos físicos, con la visión humana sin la ayuda de la mota morontial o de la revelación, que son sus sustitutos compensatorios en los mundos del tiempo._» ([LU 4:2.7](/es/The_Urantia_Book/4#p2_7))
+> «_Las manifestaciones materiales de la divinidad sólo parecen defectuosas para la mente evolutiva del hombre porque el hombre mortal insiste en mirar los fenómenos de la naturaleza con los ojos físicos, con la visión humana sin la ayuda de la mota morontial o de la revelación, que son sus sustitutos compensatorios en los mundos del tiempo._» (<a id="a49_347"></a>[LU 4:2.7](/es/The_Urantia_Book/4#p2_7))
 
-> «_Pero no es necesario ver a Dios con los ojos de la carne, para percibirlo con la visión de la fe de la mente espiritualizada._» ([LU 1:3.3](/es/The_Urantia_Book/1#p3_3))
+> «_Pero no es necesario ver a Dios con los ojos de la carne, para percibirlo con la visión de la fe de la mente espiritualizada._» (<a id="a51_133"></a>[LU 1:3.3](/es/The_Urantia_Book/1#p3_3))
 
-> «_Con los ojos de la carne puedes contemplar las manifestaciones del espíritu, pero no puedes discernir realmente al espíritu._» ([LU 142:6.5](/es/The_Urantia_Book/142#p6_5))
+> «_Con los ojos de la carne puedes contemplar las manifestaciones del espíritu, pero no puedes discernir realmente al espíritu._» (<a id="a53_132"></a>[LU 142:6.5](/es/The_Urantia_Book/142#p6_5))
 
-> «_Si os ajustáis tan plenamente con la mente del Ajustador como para ver con los mismos ojos, entonces vuestras mentes se volverán una sola, y recibiréis el refuerzo de la mente del Ajustador._» ([LU 110:2.5](/es/The_Urantia_Book/110#p2_5))
+> «_Si os ajustáis tan plenamente con la mente del Ajustador como para ver con los mismos ojos, entonces vuestras mentes se volverán una sola, y recibiréis el refuerzo de la mente del Ajustador._» (<a id="a55_198"></a>[LU 110:2.5](/es/The_Urantia_Book/110#p2_5))
 
-> «_...el Ajustador, de manera que éste se encuentra cada vez más capacitado para registrar sus imágenes del destino, con una intensidad y una convicción crecientes, en la conciencia evolutiva de esta mente-alma que busca a Dios._» ([LU 110:6.5](/es/The_Urantia_Book/110#p6_5))
+> «_...el Ajustador, de manera que éste se encuentra cada vez más capacitado para registrar sus imágenes del destino, con una intensidad y una convicción crecientes, en la conciencia evolutiva de esta mente-alma que busca a Dios._» (<a id="a57_233"></a>[LU 110:6.5](/es/The_Urantia_Book/110#p6_5))
 
-> «_La visión de la mente material percibe un mundo de conocimiento basado en hechos; la visión del intelecto espiritualizado discierne un mundo de valores verdaderos. Estos dos puntos de vista, sincronizados y armonizados, revelan el mundo de la realidad, en el cual la sabiduría interpreta los fenómenos del universo en términos de experiencia personal progresiva._» ([LU 130:4.10](/es/The_Urantia_Book/130#p4_10))
+> «_La visión de la mente material percibe un mundo de conocimiento basado en hechos; la visión del intelecto espiritualizado discierne un mundo de valores verdaderos. Estos dos puntos de vista, sincronizados y armonizados, revelan el mundo de la realidad, en el cual la sabiduría interpreta los fenómenos del universo en términos de experiencia personal progresiva._» (<a id="a59_370"></a>[LU 130:4.10](/es/The_Urantia_Book/130#p4_10))
 
-> «_Estas realidades están efectivamente ahí, a pesar de que el Ajustador raras veces puede ensalzar lo suficiente estas creaciones duplicadas como para mostrarlas a la luz de la conciencia._» ([LU 108:6.5](/es/The_Urantia_Book/108#p6_5))
+> «_Estas realidades están efectivamente ahí, a pesar de que el Ajustador raras veces puede ensalzar lo suficiente estas creaciones duplicadas como para mostrarlas a la luz de la conciencia._» (<a id="a61_194"></a>[LU 108:6.5](/es/The_Urantia_Book/108#p6_5))
 
-> «_¡Y cuánto disfrutan comunicándose con sus sujetos a través de unos canales más o menos directos! ¡Cuánto se regocijan cuando pueden prescindir de los símbolos y de otros métodos indirectos, y transmitir sus mensajes directamente al intelecto de sus asociados humanos!_» ([LU 108:6.7](/es/The_Urantia_Book/108#p6_7))
+> «_¡Y cuánto disfrutan comunicándose con sus sujetos a través de unos canales más o menos directos! ¡Cuánto se regocijan cuando pueden prescindir de los símbolos y de otros métodos indirectos, y transmitir sus mensajes directamente al intelecto de sus asociados humanos!_» (<a id="a63_275"></a>[LU 108:6.7](/es/The_Urantia_Book/108#p6_7))
 
-> «_Dieron el pan a Jesús para que lo bendijera, y cuando empezó a partirlo y a darlo a los hermanos, los ojos de éstos se abrieron, ...._» ([LU 190:5.5](/es/The_Urantia_Book/190#p5_5))
+> «_Dieron el pan a Jesús para que lo bendijera, y cuando empezó a partirlo y a darlo a los hermanos, los ojos de éstos se abrieron, ...._» (<a id="a65_141"></a>[LU 190:5.5](/es/The_Urantia_Book/190#p5_5))
 
-> «_En una ocasión insinuó que, como los ojos de la carne lo habían contemplado mientras vivía aquí, a su regreso (al menos en una de sus posibles visitas) sólo sería percibido por el ojo de la fe espiritual._» ([LU 176:4.3](/es/The_Urantia_Book/176#p4_3))
+> «_En una ocasión insinuó que, como los ojos de la carne lo habían contemplado mientras vivía aquí, a su regreso (al menos en una de sus posibles visitas) sólo sería percibido por el ojo de la fe espiritual._» (<a id="a67_212"></a>[LU 176:4.3](/es/The_Urantia_Book/176#p4_3))
 
-> «_Los ojos de la carne contemplan al Hijo del Hombre en la carne, pero sólo los ojos del espíritu contemplarán al Hijo del Hombre glorificado por el Padre y apareciendo en la Tierra en su propio nombre._» ([LU 176:2.4](/es/The_Urantia_Book/176#p2_4))
+> «_Los ojos de la carne contemplan al Hijo del Hombre en la carne, pero sólo los ojos del espíritu contemplarán al Hijo del Hombre glorificado por el Padre y apareciendo en la Tierra en su propio nombre._» (<a id="a69_208"></a>[LU 176:2.4](/es/The_Urantia_Book/176#p2_4))
 
-> «_Ruego para que puedas discernir el significado de mi enseñanza con los ojos del espíritu._» ([LU 181:2.14](/es/The_Urantia_Book/181#p2_14))
+> «_Ruego para que puedas discernir el significado de mi enseñanza con los ojos del espíritu._» (<a id="a71_97"></a>[LU 181:2.14](/es/The_Urantia_Book/181#p2_14))
 
-> «_Después, cuando tengas la bendición de la visión espiritual, sal a hacer tu trabajo dedicando tu vida a la causa de guiar a la humanidad en la búsqueda de Dios, y a perseguir las realidades eternas con el ojo de la fe espiritual y no con los ojos de la mente material._» ([LU 181:2.20](/es/The_Urantia_Book/181#p2_20))
+> «_Después, cuando tengas la bendición de la visión espiritual, sal a hacer tu trabajo dedicando tu vida a la causa de guiar a la humanidad en la búsqueda de Dios, y a perseguir las realidades eternas con el ojo de la fe espiritual y no con los ojos de la mente material._» (<a id="a73_276"></a>[LU 181:2.20](/es/The_Urantia_Book/181#p2_20))
 
-(Otras citas relativas de _El Libro de URANTIA_: [LU 29:4.11](/es/The_Urantia_Book/29#p4_11), [LU 76:2.8](/es/The_Urantia_Book/76#p2_8), [LU 132:7.3](/es/The_Urantia_Book/132#p7_3), [LU 142:7.3](/es/The_Urantia_Book/142#p7_3), [LU 167:7.4](/es/The_Urantia_Book/167#p7_4), [LU 181:2.12](/es/The_Urantia_Book/181#p2_12), [LU 189:4.11](/es/The_Urantia_Book/189#p4_11) , [LU 191:3.3](/es/The_Urantia_Book/191#p3_3), etc.)
+(Otras citas relativas de _El Libro de URANTIA_: <a id="a75_49"></a>[LU 29:4.11](/es/The_Urantia_Book/29#p4_11), <a id="a75_94"></a>[LU 76:2.8](/es/The_Urantia_Book/76#p2_8), <a id="a75_137"></a>[LU 132:7.3](/es/The_Urantia_Book/132#p7_3), <a id="a75_182"></a>[LU 142:7.3](/es/The_Urantia_Book/142#p7_3), <a id="a75_227"></a>[LU 167:7.4](/es/The_Urantia_Book/167#p7_4), <a id="a75_272"></a>[LU 181:2.12](/es/The_Urantia_Book/181#p2_12), <a id="a75_319"></a>[LU 189:4.11](/es/The_Urantia_Book/189#p4_11) , <a id="a75_367"></a>[LU 191:3.3](/es/The_Urantia_Book/191#p3_3), etc.)
 
-> «_Si os ajustáis tan plenamente con la mente del Ajustador como para ver con los mismos ojos, entonces vuestras mentes se volverán una sola, y recibiréis el refuerzo de la mente del Ajustador._» ([LU 110:2.5](/es/The_Urantia_Book/110#p2_5))
+> «_Si os ajustáis tan plenamente con la mente del Ajustador como para ver con los mismos ojos, entonces vuestras mentes se volverán una sola, y recibiréis el refuerzo de la mente del Ajustador._» (<a id="a77_198"></a>[LU 110:2.5](/es/The_Urantia_Book/110#p2_5))
 
-Esto también se aplica a lo físico dependiendo de la «misión/asignación» del individuo y su nivel de logro espiritual. Por ejemplo, cuando Lao-tze desea usar este vehículo en el que estoy actualmente encarnado (usando), elevo la frecuencia de este recipiente hasta el punto de compatibilidad mutua y Lao-tze puede manifestarse visiblemente a través de mi *CUERPO DE LUZ* que es el Igual que el **CUERPO MORONTIA**. Cuando esto ocurre, Lao-tze y yo nos volvemos UNO mientras disfruto del refuerzo de la **MENTE**, el **CUERPO DE LUZ Y LA PERSONALIDAD** de Lao-tze. Él se está repersonalizando a través de mí. Soy el complemento material de una personalidad espiritual (Lao-tze y otros) a la que se ha confiado la realización de algún logro cósmico esencial para la economía espiritual del planeta. (Ver [2. LOS AJUSTADORES AUTÓNOMOS](/es/The_Urantia_Book/109#p2_7))
+Esto también se aplica a lo físico dependiendo de la «misión/asignación» del individuo y su nivel de logro espiritual. Por ejemplo, cuando Lao-tze desea usar este vehículo en el que estoy actualmente encarnado (usando), elevo la frecuencia de este recipiente hasta el punto de compatibilidad mutua y Lao-tze puede manifestarse visiblemente a través de mi *CUERPO DE LUZ* que es el Igual que el **CUERPO MORONTIA**. Cuando esto ocurre, Lao-tze y yo nos volvemos UNO mientras disfruto del refuerzo de la **MENTE**, el **CUERPO DE LUZ Y LA PERSONALIDAD** de Lao-tze. Él se está repersonalizando a través de mí. Soy el complemento material de una personalidad espiritual (Lao-tze y otros) a la que se ha confiado la realización de algún logro cósmico esencial para la economía espiritual del planeta. (Ver <a id="a79_802"></a>[2. LOS AJUSTADORES AUTÓNOMOS](/es/The_Urantia_Book/109#p2_7))
 
 Una persona de pensamiento profundo, Carol Davidson de Suitland, Maryland, EE.UU., escribió una perspectiva interesante en su artículo «A Reincarnation Explanation» reimpreso de THE CIRCLES, invierno de 1990 en el último Six-O-Six cuando habla de los «sistemas de intelecto mental». ”. Esto es PARTE de la explicación, pero como se mencionó anteriormente, hay muchas cosas que uno debe tener en cuenta para obtener una comprensión completa de este fenómeno llamado «reencarnación», incluida la EXPERIENCIA ESPIRITUAL PERSONAL. Una de esas cosas que debe entenderse y, por supuesto, aceptarse es la realidad del CUERPO DE LUZ: EL CUERPO MORONTIAL.
 
@@ -81,7 +105,7 @@ LA DIFERENCIA ENTRE UN 'CANAL' DE MERA COMUNICACIÓN Y ENSEÑANZA Y DONDE LA CON
 
 Así que tienen estos ejemplos para guiarlos en cuanto a QUIÉN es QUIÉN y en cuanto a qué es qué al discernir y determinar qué áreas se están abriendo en los últimos días a medida que ingresan a una forma de frecuencia de cuarta dimensión, desde una tercera dimensión. **DEMOSTRACIÓN** es la clave. LA MANIFESTACIÓN DE LAS PROMESAS DEL ESPÍRITU es la clave. Este DEBE ser su ejemplo igualador y establecido mediante el cual determinan **QUIÉN** está trayendo la información de luz y elevando este planeta y transformando estos últimos días. Os pido, pues, que reexaminen las obras y prueben los frutos. Entonces, por sus frutos sabrás QUIÉNES son los Seres Crísticos, aquellos que trabajan a través de y **EN LA FORMA CRISTICA**... **EL CUERPO DE LUZ**. Los Ascendentes Repersonalizados de este planeta y de todo este sistema y más allá que han **retornado** y que están **regresando** —REPERSONALIZANDO— en estos últimos días a Urantia **a través de canales** deben actuar, mostrar y para dar ejemplos concretos a la humanidad. Aquellos que estén listos y hayan superado esos pasos o iniciaciones comprenderán esto: lo que es tener un Ascendente Repersonalizado que eclipsa y REDESCENDE a la materia del plano terrestre. UN ASCENDENTE REPERSONALIZADO, POR LO TANTO, UTILIZA EL CUERPO DE UN DISCÍPULO O UN **COMPLEMENTO MATERIAL (AGENTE HUMANO) QUE ESTÁ CONECTADO CON SUS DIVERSAS FUNCIONES Y FINES**. SIN EMBARGO, UN ASCENSOR REPERSONALIZADO PUEDE APARECER INDEPENDIENTEMENTE SOBRE LA TIERRA. CUANDO EL CUERPO DE LUZ SE DEMUESTRE, VERÁN ESTOS LLAMADOS FENÓMENOS EN EL PLANO TERRESTRE. Al hacer esto, el CUERPO DE LUZ eclipsa tan completamente la forma física que **ABSOBRE LA FORMA FÍSICA Y LA FORMA FÍSICA Y EL CUERPO DE LUZ SE CONVIERTE EN UNO**. En este proceso es posible volverse uno con un Ascendente Repersonalizado que ha funcionado con/a través de ustedes y, por lo tanto, pueden convertirse en una FACETA de la personalidad de cada uno.
 
-> «_Que abrirá los ojos de los ciegos espirituales y sacará a los presos de la desesperación a la plena luz y libertad; que todos los que están en las tinieblas verán la gran luz de la salvación eterna._» ([LU 190:5.4](/es/The_Urantia_Book/190#p5_4))
+> «_Que abrirá los ojos de los ciegos espirituales y sacará a los presos de la desesperación a la plena luz y libertad; que todos los que están en las tinieblas verán la gran luz de la salvación eterna._» (<a id="a107_206"></a>[LU 190:5.4](/es/The_Urantia_Book/190#p5_4))
 
 Con AMOR y BENDICIONES,
 
@@ -93,3 +117,28 @@ _Un casete en el que Sananda explica más completamente el Cuerpo de Luz está d
 
 _Editor_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Seeing_The_World_In_A_New_Light">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ver el mundo bajo una nueva luz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kirsten_McFadden/Every_Now_Zen">
+          <span class="pr-2">Cada Ahora y Zen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

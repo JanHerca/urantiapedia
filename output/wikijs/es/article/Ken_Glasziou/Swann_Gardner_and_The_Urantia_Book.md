@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:38Z
 
 En el número anterior de Innerface, presentamos un relato de la revelación alucinante de Stefan Tallqvist de dosbastante asombrosas que han permanecido sin descubrir en _El Libro de Urantia_ hasta que Stefan las sacó a la luz.
 
-Manifestamos nuestra creencia de que esta nueva información es inexplicable en términos de la autoría humana del libro, que seguramente debe atribuirse a un origen sobrehumano. Ahora examinamos en detalle el material de origen humano real que se modificó para revelar lo que el libro denomina información de (<a id="a38_328"></a>[LU 101:4.9](/es/The_Urantia_Book/101#p4_9)) Primero comparamos la afirmación de _El Libro de Urantia_ relacionada con el radio del electrón con el trabajo original del físico W.F.G. Swann.
+Manifestamos nuestra creencia de que esta nueva información es inexplicable en términos de la autoría humana del libro, que seguramente debe atribuirse a un origen sobrehumano. Ahora examinamos en detalle el material de origen humano real que se modificó para revelar lo que el libro denomina información de (<a id="a38_309"></a>[LU 101:4.9](/es/The_Urantia_Book/101#p4_9)) Primero comparamos la afirmación de _El Libro de Urantia_ relacionada con el radio del electrón con el trabajo original del físico W.F.G. Swann.
 
 De Swann en _La Arquitectura del Universo_. (1934): «_La masa del electrón es tan pequeña que si magnificas todas las masas de modo que el electrón alcance una masa de un décimo de onza, ese décimo de onza se convertiría, en la misma escala de aumento, en tan pesado como la tierra._»
 

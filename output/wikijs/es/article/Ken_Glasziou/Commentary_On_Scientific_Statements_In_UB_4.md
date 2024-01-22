@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Ken Glasziou<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera: un estudio del futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-7-septiembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 7 Septiembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ### Los orígenes de la vida
@@ -58,9 +79,31 @@ Es difícil para quienes no son científicos apreciar la diferencia entre las pr
 
 _El Libro de URANTIA_ incluye bacterias y células vegetales simples en lo que llama vida. También afirma que las primeras formas de vida primitivas introducidas en nuestros mares llevaban toda la información necesaria para la eventual evolución de todas las formas de vida posteriores, incluido el hombre, sin ninguna interferencia adicional de los Portadores de Vida.
 
-En [LU 65:5.2](/es/The_Urantia_Book/65#p5_2) de _El Libro de URANTIA_ se afirma que ciertas formas de vida vegetal primitivas volvieron a los tipos de bacterias parásitas preclorofila. Esto nos dice que las bacterias parásitas precedieron al florecimiento de la vida vegetal, que a su vez proporcionó la principal fuente de alimento para la vida animal posterior. ¿De qué entonces parasitaban estas bacterias parásitas? Ciertamente no las formas vegetales o animales, porque las precedieron. Si las bacterias parásitas fueron las primeras formas de vida liberadas por los Portadores de Vida, debe haber habido una vasta fuente de alimentos orgánicos que podían parasitar y sustentarlos hasta que evolucionó la vida vegetal fotosintética.
+En <a id="a81_3"></a>[LU 65:5.2](/es/The_Urantia_Book/65#p5_2) de _El Libro de URANTIA_ se afirma que ciertas formas de vida vegetal primitivas volvieron a los tipos de bacterias parásitas preclorofila. Esto nos dice que las bacterias parásitas precedieron al florecimiento de la vida vegetal, que a su vez proporcionó la principal fuente de alimento para la vida animal posterior. ¿De qué entonces parasitaban estas bacterias parásitas? Ciertamente no las formas vegetales o animales, porque las precedieron. Si las bacterias parásitas fueron las primeras formas de vida liberadas por los Portadores de Vida, debe haber habido una vasta fuente de alimentos orgánicos que podían parasitar y sustentarlos hasta que evolucionó la vida vegetal fotosintética.
 
 Quizás las formas fósiles encontradas en acritarcos y estromatolitos eran parte de la sopa orgánica en la que se alimentan las bacterias parásitas, y estas formas no estaban «vivas» en el sentido de la palabra utilizada en _El Libro de URANTIA_. Intuitivamente, concluyo que tales formas no contenían el sistema autorregulador y autorreplicante basado en el ADN y la síntesis de proteínas que se encuentra en todas las células vivas actuales, por lo tanto, no eran formas de vida procarióticas ni eucariotas. Sin embargo, si por alguna casualidad infinitamente remota, basadas en el ADN, existieran formas de vida antes de hace 550 millones de años, tendríamos que preguntarnos qué fue lo que realmente hicieron los Portadores de Vida. Quizás podría haber sido reorganizar el ADN y la organización celular y conferir a dichas células los medios físicos necesarios y la fuerza vital para darles el potencial de evolucionar eventualmente hasta convertirse en la criatura autoconsciente y dotada de voluntad que llamamos hombre. Si 30, entonces quizás la reordenación del ADN de las células eucariotas en el sistema de exones e intrones que sabemos que existe, fue obra de los Portadores de Vida.
 
 Ken Glasziou, Clifton, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera: un estudio del futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-7-septiembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 7 Septiembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

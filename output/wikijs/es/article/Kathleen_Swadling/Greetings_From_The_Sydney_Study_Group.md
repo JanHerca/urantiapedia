@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tony_Rudd/Old_coins_in_a_shoebox">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Monedas antiguas en una caja de zapatos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-4-julio-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Psychic_Or_Spiritual">
+          <span class="pr-2">¿Psíquico o espiritual?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sólo me gustaría enviar saludos a los lectores de Australia y más allá en nombre de los miembros del grupo de estudio de Sydney. Cuanto más pasamos por la vida y nos involucramos en las muchas tareas que nos presenta, más fácil es perder el contacto con las relaciones de nuestros semejantes que no están en nuestras proximidades cotidianas. Para aquellos de nosotros cuyas vidas han sido cambiadas y transformadas por _El Libro de URANTIA_ creo que existe un fuerte vínculo que nos une en hermandad y compañerismo espiritual. Esta hermandad invisible es algo muy poderoso, ya que tiene el potencial de transformar las vidas de las almas con las que entra en contacto, dándole una capacidad geométrica de crecimiento. A medida que crece gana impulso. Esta hermandad invisible está viva y activa sólo en la medida en que sus «miembros» estén vivos y activos. ¿De qué sirve conocer una verdad si no se vive? Se puede vivir la verdad socializando tu SER - es decir, siendo real, veraz y sincero dentro de tu SER y luego socializando tu SER - es la forma natural, inconsciente y no egoísta de contribuir al desarrollo de la Hermandad del Hombre - que tomado a niveles cósmicos está contribuyendo al surgimiento del Ser Supremo; es el camino de la evolución asistida por la revelación.
@@ -27,3 +51,28 @@ Kathleen Swadling, Sídney
 
 P.D. Tenga en cuenta que las referencias hechas a la participación en la hermandad invisible y la Hermandad del Hombre no deben confundirse con la participación en la Hermandad URANTIA. El primero es espiritual, el segundo social.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Tony_Rudd/Old_coins_in_a_shoebox">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Monedas antiguas en una caja de zapatos</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-4-julio-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Psychic_Or_Spiritual">
+          <span class="pr-2">¿Psíquico o espiritual?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

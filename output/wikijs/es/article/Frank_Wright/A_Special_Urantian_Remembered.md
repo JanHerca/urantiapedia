@@ -9,9 +9,33 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Frank Wright<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 1 de enero de 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-1-de-enero-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 1 de enero de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helen_Hutchinson/Having_The_Mind_Of_Christ">
+          <span class="pr-2">Tener la mente de Cristo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-«Cuando los mortales cósmica y espiritualmente más avanzados mueren, pasan inmediatamente a los mundos de las mansiones; esta disposición funciona generalmente para aquellos que han tenido asignado un guardián seráfico personal». ([LU 112:5.10](/es/The_Urantia_Book/112#p5_10))
+
+«Cuando los mortales cósmica y espiritualmente más avanzados mueren, pasan inmediatamente a los mundos de las mansiones; esta disposición funciona generalmente para aquellos que han tenido asignado un guardián seráfico personal». (<a id="a37_231"></a>[LU 112:5.10](/es/The_Urantia_Book/112#p5_10))
 
 Me prometí a mí mismo que no estaría triste cuando asistiera a un servicio conmemorativo reciente, pero no pude detener el flujo de lágrimas. Intento incluso ahora no estar triste al recordar el origen de ese monumento, pero encuentro que un lugar dentro de mí ahora está vacío y oscuro. Es extraño cuán similares son: alegría y melancolía. Ambos traen lágrimas y sentimientos intensos cerca del corazón. Me pregunto sobre el beneficio de cada uno. Pero debe haber beneficio porque cada emoción, cada respuesta simpática, es espontánea, no evocada.
 
@@ -33,3 +57,28 @@ Frank Wright, Frankfurt, Alemania Occidental
 
 > El alma no tendría arco iris, si los ojos no tuvieran lágrimas.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol11_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 11 Núm. 1 de enero de 1990</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-1-de-enero-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 1 de enero de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Helen_Hutchinson/Having_The_Mind_Of_Christ">
+          <span class="pr-2">Tener la mente de Cristo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

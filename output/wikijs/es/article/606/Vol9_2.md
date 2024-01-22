@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 9 No. 2 - Marzo de 1988"
+título: "Boletín Six-0-Six - Volumen 9 Núm. 2 - Marzo de 1988"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1988 Ian Esmore, Willian Wentworth, David Regal, Ken Glasziou, Robert Crickett, Janet Weeks<br>© 1988 Asociación Urantia de ANZURA, Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-2-marzo-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 2 Marzo 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/Group_worship">
+          <span class="pr-2">Adoración en grupo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -31,7 +52,7 @@ Cambiar Urantia comienza con cambiar primero las actitudes en nosotros mismos. U
 
 ## «Pensamiento del mes»
 
-> «La cruz sí se alza como la prueba de la forma más elevada de servicio desinteresado, la devoción suprema de la plena donación de una vida recta al servicio de un ministerio incondicional, incluso en la muerte, la muerte en la cruz.» ([LU 188:5.9](/es/The_Urantia_Book/188#p5_9))
+> «La cruz sí se alza como la prueba de la forma más elevada de servicio desinteresado, la devoción suprema de la plena donación de una vida recta al servicio de un ministerio incondicional, incluso en la muerte, la muerte en la cruz.» (<a id="a54_237"></a>[LU 188:5.9](/es/The_Urantia_Book/188#p5_9))
 
 ## Adoración en grupo
 
@@ -146,3 +167,25 @@ El otro día recibí una llamada telefónica de una señora que trabaja en una d
 
 Christopher Billington, W-Tree, VIC
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-2-marzo-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 2 Marzo 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/Group_worship">
+          <span class="pr-2">Adoración en grupo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

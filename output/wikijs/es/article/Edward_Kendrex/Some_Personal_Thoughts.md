@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Edward Kendrex<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/Six_O_Six_Review">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revisión de Six-O-Six</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Discussion_on_the_Progress_of_the_Revelation">
+          <span class="pr-2">Discusión sobre el progreso del Apocalipsis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Descubrí _El Libro de URANTIA_ en 1977 mientras visitaba a un amigo en Phoenix, Arizona. El Libro cambió mi vida. Hasta entonces Dios no podía contactarme a través de ningún canal que yo conociera. _El Libro de URANTIA_ se convirtió en el canal para que yo comprendiera mi relación (filiación) con Él.
@@ -53,3 +77,28 @@ Dios lo es todo. Él es todo lo que está dentro del 'globo'. Dios da dirección
 
 **Edward Kendrex, Perth**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/Six_O_Six_Review">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revisión de Six-O-Six</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-2-de-marzo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 2 de marzo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Discussion_on_the_Progress_of_the_Revelation">
+          <span class="pr-2">Discusión sobre el progreso del Apocalipsis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

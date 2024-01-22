@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 William Wentworth<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol13_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 13 Núm. 5 Septiembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-5-septiembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 5 Septiembre 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Character_Ennoblement">
+          <span class="pr-2">Ennoblecimiento del carácter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _William Wentworth, Towamba, Nueva Gales del Sur_
@@ -33,7 +57,32 @@ De manera similar, ambas corrientes exhiben la influencia de la revuelta humanis
 
 Pero sea cual sea la forma en que lo miremos, el ecologismo promete estar con nosotros durante bastante tiempo todavía. Como señala el Libro de URANTIA (LU 85:0.4),
 
-> «_El hombre mortal ha adorado, en uno u otro momento, todo lo que se encuentra sobre la faz de la Tierra, incluyéndose a sí mismo._» ([LU 85:0.4](/es/The_Urantia_Book/85#p0_4))
+> «_El hombre mortal ha adorado, en uno u otro momento, todo lo que se encuentra sobre la faz de la Tierra, incluyéndose a sí mismo._» (<a id="a59_136"></a>[LU 85:0.4](/es/The_Urantia_Book/85#p0_4))
 
 El culto a la naturaleza no es nuevo. El resurgimiento de tal filosofía en la civilización occidental, si es tan extenso como creo, puede tener efectos bastante amplios. Y a menos que la juventud occidental elija una vez más adorar a Dios, el ambientalismo bien puede seguir atrayendo a ellos como una alternativa.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol13_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 13 Núm. 5 Septiembre 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-5-septiembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 5 Septiembre 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Character_Ennoblement">
+          <span class="pr-2">Ennoblecimiento del carácter</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

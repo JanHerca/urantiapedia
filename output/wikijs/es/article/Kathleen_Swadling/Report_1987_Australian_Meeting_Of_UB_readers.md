@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Kathleen Swadling<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol8_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-6-noviembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emmanuel_Lou/Hsi_Wang_Mu_The_Queen_of_the_Western_Heaven">
+          <span class="pr-2">Hsi Wang Mu - La reina del cielo occidental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Me complace informarles que una vez más tuvimos una reunión muy exitosa de lectores del Libro de URANTIA. Estoy seguro de que hablo en nombre de todos los que asistieron cuando digo que los beneficios obtenidos con esta experiencia fueron de naturaleza positiva y de alta calidad. La reunión de este año fue única entre otras reuniones anuales de lectores debido a la situación de «convivencia», que permitió una atmósfera más relajada e íntima donde se podían hacer y desarrollar nuevas amistades.
@@ -51,3 +75,28 @@ En general, el fin de semana fue un éxito maravilloso y una excelente «recarga
 
 Kathleen Swadling, Sídney
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol8_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-6-noviembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 6 noviembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Emmanuel_Lou/Hsi_Wang_Mu_The_Queen_of_the_Western_Heaven">
+          <span class="pr-2">Hsi Wang Mu - La reina del cielo occidental</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

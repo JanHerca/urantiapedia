@@ -9,11 +9,35 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Robert Crickett<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Terry_Hovaghimian/A_Truth_Junkie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un «adicto a la verdad»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-6-noviembre-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carl_Sarelius/BackPacking_From_Melbourne_To_Sydney">
+          <span class="pr-2">De mochilero de Melbourne a Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de URANTIA_ afirma:
 
-> «_En los primeros días de la lucha, Lucifer pronunció continuos discursos en el anfiteatro planetario. Gabriel dirigió una exposición incesante de los sofismas rebeldes desde su sede situada en las cercanías. Las diversas personalidades presentes en la esfera que tenían dudas sobre la actitud a tomar iban de acá para allá entre estas discusiones hasta que llegaron a una decisión final._» ([LU 53:5.6](/es/The_Urantia_Book/53#p5_6))
+> «_En los primeros días de la lucha, Lucifer pronunció continuos discursos en el anfiteatro planetario. Gabriel dirigió una exposición incesante de los sofismas rebeldes desde su sede situada en las cercanías. Las diversas personalidades presentes en la esfera que tenían dudas sobre la actitud a tomar iban de acá para allá entre estas discusiones hasta que llegaron a una decisión final._» (<a id="a39_394"></a>[LU 53:5.6](/es/The_Urantia_Book/53#p5_6))
 
 Es evidente que los lectores del Libro de URANTIA y los lectores potenciales del Libro de URANTIA se están dividiendo en dos bandos: aquellos que creen en el evangelio del Sr. Pope y aquellos que a través de algún entendimiento o evidencia contraria propia lo refutan rotundamente.
 
@@ -81,3 +105,28 @@ Este autor cree que no está solo en esta refutación del Sr. Pope y sus afirmac
 
 **Robert Crickett, Melbourne**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Terry_Hovaghimian/A_Truth_Junkie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un «adicto a la verdad»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-6-noviembre-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carl_Sarelius/BackPacking_From_Melbourne_To_Sydney">
+          <span class="pr-2">De mochilero de Melbourne a Sydney</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Webb/Towards_Specialization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacia la especialización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-6-noviembre-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 6 noviembre de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/The_Star_Of_Bethlehem_Foretold_In_The_Urantia_Book">
+          <span class="pr-2">¿La estrella de Belén predicha en el libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El momento, desde el punto de vista meteorológico, era perfecto (aunque la comunidad local esperaba que lloviera muy tarde), pero para nosotros, los asistentes a la conferencia, Sunshine Coast se volvió contra su homónimo.
@@ -25,7 +49,7 @@ La cena en Halse Lodge fue a las 7 pm y luego hubo entretenimiento a través de 
 
 El viernes por la mañana, después de cantar un himno, nos dividimos en cinco grupos para el taller «El eslabón perdido», que se basó en la siguiente cita:
 
-> ««Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad».» ([LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
+> ««Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad».» (<a id="a51_597"></a>[LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
 
 La siguiente es una sinopsis de los objetivos del taller preparado por Ken Glasziou.
 
@@ -69,3 +93,28 @@ Por mi parte, y creo que por todo el grupo, damos gracias a Dios por permitirnos
 
 Cecilia A. Bendall, Nambour, Queensland.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Peter_Webb/Towards_Specialization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hacia la especialización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-6-noviembre-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 6 noviembre de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Matt_Neibaur/The_Star_Of_Bethlehem_Foretold_In_The_Urantia_Book">
+          <span class="pr-2">¿La estrella de Belén predicha en el libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

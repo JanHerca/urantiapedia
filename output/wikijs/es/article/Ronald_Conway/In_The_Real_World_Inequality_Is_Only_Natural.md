@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ronald Conway<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Is_Copyright_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«¿Son realmente necesarios los derechos de autor?»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="pr-2">Una investigación estadística de los estilos de escritura en los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ronald Conway, Melbourne_
@@ -58,5 +82,30 @@ Lo máximo que la «democracia» moderna puede esperar lograr es brindar oportun
 
 También es una hipocresía peligrosa porque a partir de ella se han gestado las revoluciones más sangrientas de nuestro siglo. No es esencial para la felicidad humana que todos disfrutemos del mismo estatus y posesiones que nuestros vecinos, sino utilizar lo que tenemos sabiamente y bien.
 
-> «_Aunque un buen entorno no puede contribuir mucho a vencer realmente las desventajas que una herencia inferior tiene para el carácter, un ambiente malo puede estropear de manera muy eficaz una herencia excelente, al menos durante los primeros años de la vida._» ([LU 76:2.6](/es/The_Urantia_Book/76#p2_6))
+> «_Aunque un buen entorno no puede contribuir mucho a vencer realmente las desventajas que una herencia inferior tiene para el carácter, un ambiente malo puede estropear de manera muy eficaz una herencia excelente, al menos durante los primeros años de la vida._» (<a id="a84_266"></a>[LU 76:2.6](/es/The_Urantia_Book/76#p2_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Is_Copyright_Really_Necessary">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«¿Son realmente necesarios los derechos de autor?»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Statistical_Investigation_Of_Writing_Styles">
+          <span class="pr-2">Una investigación estadística de los estilos de escritura en los documentos de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

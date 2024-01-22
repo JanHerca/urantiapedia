@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 10 No. 1 — January 1989"
+title: "Cultural Diversity And Spiritual Unity"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

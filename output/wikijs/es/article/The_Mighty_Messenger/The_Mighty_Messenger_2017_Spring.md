@@ -257,7 +257,7 @@ Por favor, considera apoyar nuestros esfuerzos. ¡Gracias!
 
 Envíe un cheque o giro postal a la Fellowship de _El Libro de Urantia_, PO Box 6631, Broomfield, CO 80021, o visite www.urantiabook.org y haga clic en la palabra «Donar» en la barra del menú principal.
 
-> _Cuando el hombre se asocia con Dios, grandes cosas pueden suceder y suceden._ <a id="a258_81"></a>[[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)]
+> _Cuando el hombre se asocia con Dios, grandes cosas pueden suceder y suceden._ <a id="a259_81"></a>[[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)]
 
 ## Notas de aquí y allá
 
@@ -311,7 +311,7 @@ La reunión cerró el domingo por la mañana con una discusión de los principio
 
 Este seminario fue uno de los muchos esfuerzos educativos colaborativos durante los últimos años de diferentes combinaciones de comités de la Fellowship, la Fundación y la UAI. Otro será este verano en Denver en el IC17 de la Fellowship. Habrá un foro de varias organizaciones educativas para el estudio de _El Libro de Urantia_, incluido un informe de este seminario. El fin de semana contó con la excelente presentación de Joanne Strobel y deliciosas comidas de Ashley Hayes.
 
-> «...los que conducen los hombres a Dios experimentan la satisfacción suprema del servicio humano.» <a id="a312_101"></a>[[LU 132:6.1](/es/The_Urantia_Book/132#p6_1)]
+> «...los que conducen los hombres a Dios experimentan la satisfacción suprema del servicio humano.» <a id="a313_101"></a>[[LU 132:6.1](/es/The_Urantia_Book/132#p6_1)]
 
 ## Eventos
 

@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 9 No. 3 - Mayo de 1988"
+título: "Boletín Six-0-Six - Volumen 9 Núm. 3 - Mayo de 1988"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1988 Ken Glasziou, William Wentworth, Robert Crickett, Don Lee<br>© 1988 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-3-mayo-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 3 Mayo de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Two_Remarkable_Predictions">
+          <span class="pr-2">Dos predicciones notables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -37,7 +58,7 @@ Sydney tiene algunos miembros nuevos en su grupo y su editor visitó recientemen
 
 ## «Pensamiento del mes»
 
-> «Tened siempre presente que Dios y el hombre se necesitan el uno al otro. Son mutuamente necesarios para alcanzar de manera plena y final la experiencia de la personalidad eterna en el destino divino de la finalidad del universo.». _El Libro de URANTIA_ [LU 195:10.3](/es/The_Urantia_Book/195#p10_3)
+> «Tened siempre presente que Dios y el hombre se necesitan el uno al otro. Son mutuamente necesarios para alcanzar de manera plena y final la experiencia de la personalidad eterna en el destino divino de la finalidad del universo.». _El Libro de URANTIA_ <a id="a60_256"></a>[LU 195:10.3](/es/The_Urantia_Book/195#p10_3)
 
 ## Evidencia de cosas invisibles
 
@@ -73,7 +94,7 @@ Los Documentos URANTIA contienen relatos de la estructura física del Universo, 
 
 En mi opinión, hay dos comentarios que son bastante destacados porque sus posibilidades de ser correctos eran infinitamente pequeñas, excepto que se basaban en un banco de conocimientos preexistente. Uno de estos comentarios se refiere a la estructura atómica. El otro se refiere a la deriva continental. Hay, por supuesto, muchos otros comentarios notables, pero, para mí, estos dos, por sí solos, me dicen que tengo que tomar en serio las afirmaciones del _Libro de URANTIA_ de ser una nueva revelación.
 
-Citando a [LU 41:8.3](/es/The_Urantia_Book/41#p8_3) leemos lo siguiente: «En los soles grandes —en las pequeñas nebulosas circulares—, cuando el hidrógeno está agotado y la contracción gravitatoria tiene lugar a continuación, si dicho cuerpo no es lo suficientemente opaco como para retener la presión interna que apoya las regiones gaseosas exteriores, entonces se produce un colapso repentino. Los cambios eléctrico-gravitatorios dan origen a inmensas cantidades de minúsculas partículas desprovistas de potencial eléctrico, y estas partículas se escapan rápidamente del interior solar, ocasionando así en pocos días el desmoronamiento de un sol gigantesco».
+Citando a <a id="a96_10"></a>[LU 41:8.3](/es/The_Urantia_Book/41#p8_3) leemos lo siguiente: «En los soles grandes —en las pequeñas nebulosas circulares—, cuando el hidrógeno está agotado y la contracción gravitatoria tiene lugar a continuación, si dicho cuerpo no es lo suficientemente opaco como para retener la presión interna que apoya las regiones gaseosas exteriores, entonces se produce un colapso repentino. Los cambios eléctrico-gravitatorios dan origen a inmensas cantidades de minúsculas partículas desprovistas de potencial eléctrico, y estas partículas se escapan rápidamente del interior solar, ocasionando así en pocos días el desmoronamiento de un sol gigantesco».
 
 [Leer más](/es/article/Ken_Glasziou/Two_Remarkable_Predictions)
 
@@ -276,3 +297,25 @@ VERTICAL
 48\. Abreviatura de Ajustador del Pensamiento (2)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-3-mayo-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 3 Mayo de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Two_Remarkable_Predictions">
+          <span class="pr-2">Dos predicciones notables</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -100,7 +100,7 @@ Sin embargo, discrepo de estas apreciaciones. Quizá no se trataba de un centuri
 
 LU 147:1 resulta bastante clarificador:
 
-> El día anterior a la partida del grupo apostólico para la fiesta de la Pascua en Jerusalén, Mangus, un centurión, o capitán, de la guardia romana estacionada en Cafarnaúm, fue a ver a los rectores de la sinagoga, [...]. [LU 147:1.1](/es/The_Urantia_Book/147#p1_1)
+> El día anterior a la partida del grupo apostólico para la fiesta de la Pascua en Jerusalén, Mangus, un centurión, o capitán, de la guardia romana estacionada en Cafarnaúm, fue a ver a los rectores de la sinagoga, [...]. <a id="a102_222"></a>[LU 147:1.1](/es/The_Urantia_Book/147#p1_1)
 
 Aquí se utiliza indistintamente la expresión «centurión» o «capitán». Es decir, que seguramente no se trataba de un comandante de legiones, que era lo que realmente representaba centurión en terminología latina, sino simplemente un jefe de un reducido destacamento romano.
 
@@ -112,7 +112,7 @@ Este papel de protectores de los publicanos podía resultar más cercano al pueb
 
 _El Libro de Urantia_ realiza una mención clara sobre esta guarnición en el documento 129, sección 1:
 
-> Jesús construyó barcas durante todo este año y continuó observando cómo vivían los hombres en la tierra. Iba a visitar con frecuencia la parada de las caravanas, pues la ruta directa de Damasco hacia el sur pasaba por Cafarnaúm. Cafarnaúm era un importante puesto militar romano, y el oficial que mandaba la guarnición era un gentil que creía en Yavé, «un hombre piadoso», como los judíos solían designar a estos prosélitos. Este oficial pertenecía a una rica familia romana, y se había echado la obligación de construir una hermosa sinagoga en Cafarnaúm, que había donado a los judíos poco antes de que Jesús viniera a vivir con Zebedeo. Jesús dirigió los oficios en esta nueva sinagoga más de la mitad de las veces de ese año, y algunos de los viajeros de las caravanas que asistieron por casualidad, le recordaban como el carpintero de Nazaret. [LU 129:1.7](/es/The_Urantia_Book/129#p1_7)
+> Jesús construyó barcas durante todo este año y continuó observando cómo vivían los hombres en la tierra. Iba a visitar con frecuencia la parada de las caravanas, pues la ruta directa de Damasco hacia el sur pasaba por Cafarnaúm. Cafarnaúm era un importante puesto militar romano, y el oficial que mandaba la guarnición era un gentil que creía en Yavé, «un hombre piadoso», como los judíos solían designar a estos prosélitos. Este oficial pertenecía a una rica familia romana, y se había echado la obligación de construir una hermosa sinagoga en Cafarnaúm, que había donado a los judíos poco antes de que Jesús viniera a vivir con Zebedeo. Jesús dirigió los oficios en esta nueva sinagoga más de la mitad de las veces de ese año, y algunos de los viajeros de las caravanas que asistieron por casualidad, le recordaban como el carpintero de Nazaret. <a id="a114_850"></a>[LU 129:1.7](/es/The_Urantia_Book/129#p1_7)
 
 Si era un «importante puesto militar romano», ¿cómo es que no se han encontrado restos de fortificaciones o campamentos romanos de la época de Jesús? Sí se han encontrado restos de unas termas y de fortificaciones, pero parece que datan siglo II. Sin embargo, ¿qué hacen unas termas junto a una localidad tan poco importante como Cafarnaúm? Existen evidencias de que sí hubo tropas acantonadas permanentemente después de la segunda revuelta judía (132-135 d.C.). En mi opinión estas tropas no hacían más que reforzar a otras que probablemente ya existieron con anterioridad.
 

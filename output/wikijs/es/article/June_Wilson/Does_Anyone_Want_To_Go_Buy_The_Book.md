@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 June Wilson<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué dice el libro de Urantia sobre la comunicación con el mundo de los espíritus?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-5-septiembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 5 Septiembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/When_A_Problem_Gets_Us_Down_If_Only">
+          <span class="pr-2">Cuando un problema nos deprime, aunque sólo sea...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por June Wilson, Brisbane_
@@ -29,3 +53,28 @@ Otro ejemplo de cambio de tiempos lo podemos encontrar en Melbourne. «The Advoc
 
 Entonces, ya sea la Biblia, el Corán o el _Libro de URANTIA_, existen importantes implicaciones sociales relacionadas con las enseñanzas religiosas en forma de libro. Necesitamos tenerlos en cuenta al buscar formas de difundir las enseñanzas.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/What_Does_UB_Say_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Qué dice el libro de Urantia sobre la comunicación con el mundo de los espíritus?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-5-septiembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 5 Septiembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/When_A_Problem_Gets_Us_Down_If_Only">
+          <span class="pr-2">Cuando un problema nos deprime, aunque sólo sea...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

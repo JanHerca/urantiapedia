@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 10 No. 2 - Marzo de 1989"
+título: "La Hermandad de los hombres"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,13 +9,37 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Ann Bendall<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/Prospects_For_A_World_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectivas de una religión mundial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-2-marzo-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 2 Marzo 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/UB_Possible_Signpost_For_Scientific_Research">
+          <span class="pr-2">El Libro de Urantia ¿Posible señal para la investigación científica?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En _El Libro de URANTIA_ se nos advierte que hay fuentes de energía que aún no hemos descubierto y que una de ellas, creo, es la fuerza energética del amor. El poder de la oración potente, generado en un verdadero deseo altruista por el progreso de nuestro planeta hacia «la luz y la Vida», tiene la capacidad de generar un campo de poder mucho más allá de nuestra esfera influyente del pensamiento mental material.
 
 El amor es la fuerza a la que responde el universo. La ciencia está empezando a reconocer la potencia de la «conciencia colectiva» y la Hermandad del Hombre surgirá sobre la base de los mismos principios.
 
-_El Libro de URANTIA_ dice: «No podéis amar realmente a vuestros compañeros con un simple acto de voluntad. El amor sólo nace de una comprensión completa de los móviles y sentimientos de vuestros semejantes. Amar hoy a todos los hombres no es tan importante como aprender cada día a amar a un ser humano más. Si cada día o cada semana lográis comprender a uno más de vuestros compañeros, y si éste es el límite de vuestra capacidad, entonces estáis sin duda haciendo sociable y espiritualizando realmente vuestra personalidad. El amor es contagioso, y cuando la devoción humana es inteligente y sabia, el amor es más contagioso que el odio. Pero sólo el amor auténtico y desinteresado es verdaderamente contagioso. Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres.» ([LU 100:4.6](/es/The_Urantia_Book/100#p4_6))
+_El Libro de URANTIA_ dice: «No podéis amar realmente a vuestros compañeros con un simple acto de voluntad. El amor sólo nace de una comprensión completa de los móviles y sentimientos de vuestros semejantes. Amar hoy a todos los hombres no es tan importante como aprender cada día a amar a un ser humano más. Si cada día o cada semana lográis comprender a uno más de vuestros compañeros, y si éste es el límite de vuestra capacidad, entonces estáis sin duda haciendo sociable y espiritualizando realmente vuestra personalidad. El amor es contagioso, y cuando la devoción humana es inteligente y sabia, el amor es más contagioso que el odio. Pero sólo el amor auténtico y desinteresado es verdaderamente contagioso. Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres.» (<a id="a41_1024"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6))
 
 ¡Guau! ¡No el comienzo de la hermandad, sino la realización real!
 
@@ -47,3 +71,28 @@ Ann Bendall, Nambour, Queensland.
 > 
 > Paramahansa Yogananda
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Moseley/Prospects_For_A_World_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectivas de una religión mundial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-2-marzo-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 2 Marzo 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/UB_Possible_Signpost_For_Scientific_Research">
+          <span class="pr-2">El Libro de Urantia ¿Posible señal para la investigación científica?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

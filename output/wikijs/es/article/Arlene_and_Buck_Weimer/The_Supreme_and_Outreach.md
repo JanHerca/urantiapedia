@@ -40,9 +40,9 @@ A primera vista, puede parecer que El Supremo y su alcance pueden ser una combin
 
 ## Entendiendo al Supremo
 
-Es necesaria cierta comprensión básica del Supremo. Muchos lectores de la revelación tienden a rehuir el estudio y la discusión sobre el Supremo. Y sin embargo: «_...él es lo máximo que las criaturas finitas pueden comprender realmente sobre la Deidad_» <a id="a42_253"></a>[[LU 56:8.1](/es/The_Urantia_Book/56#p8_1)]
+Es necesaria cierta comprensión básica del Supremo. Muchos lectores de la revelación tienden a rehuir el estudio y la discusión sobre el Supremo. Y sin embargo: «_...él es lo máximo que las criaturas finitas pueden comprender realmente sobre la Deidad_» <a id="a42_254"></a>[[LU 56:8.1](/es/The_Urantia_Book/56#p8_1)]
 
-**Fuente**: El Ser Supremo es una creación de la Trinidad del Paraíso y Dios el Séptuplo (también llamados los Creadores Supremos) <a id="a44_128"></a>[[LU 17:2.2](/es/The_Urantia_Book/17#p2_2)] En realidad, solo son los tres primeros del septeto (Los Hijos y Espíritus Creadores, los Ancianos de los Días y los Siete Espíritus Maestros) los que participaron en esta creación. <a id="a44_350"></a>[[LU 116:2.5](/es/The_Urantia_Book/116#p2_5)]
+**Fuente**: El Ser Supremo es una creación de la Trinidad del Paraíso y Dios el Séptuplo (también llamados los Creadores Supremos) <a id="a44_131"></a>[[LU 17:2.2](/es/The_Urantia_Book/17#p2_2)] En realidad, solo son los tres primeros del septeto (Los Hijos y Espíritus Creadores, los Ancianos de los Días y los Siete Espíritus Maestros) los que participaron en esta creación. <a id="a44_357"></a>[[LU 116:2.5](/es/The_Urantia_Book/116#p2_5)]
 
 **Función**: Hay demasiadas funciones del Supremo para mencionarlas en este artículo, sin embargo, algunas son: permite al Padre lograr la liberación libre de las terribles limitaciones del absoluto, como un Dios _experiencial_ incompleto del tiempo y el espacio, la avenida por donde pasan hacia adentro las criaturas finitas, un catalizador de todo crecimiento del universo, como madre de nuestra alma morontial, como conducto por donde pasa el amor del Padre a todo el cosmos, y suma total de todo crecimiento finito.
 
@@ -52,7 +52,7 @@ Cuando el Supremo alcance la plena madurez en el momento de la perfección del G
 
 Por supuesto que existe unidad y triunidad en diferentes reinos de la realidad, pero dentro de los siete superuniversos somos seres de origen dual (Supremo y Padre). Hay infinitas formas de ver la dualidad: masculino/femenino, perfecto/imperfecto, ser/hacer, espiritual/material; existencial/experiencial; el yin y el yang de prácticamente todo.
 
-Con esto en mente, veamos algunos de los fundamentos del Supremo. _El Libro de Urantia_ ofrece tres documentos sobre el Supremo: El Ser Supremo (Documento 115), El Todopoderoso Supremo (Documento 116) y Dios el Supremo (Documento 117). Como la mayor parte de la revelación, estos documentos parecen estar presentados en orden inverso; pero teniendo en cuenta el pensamiento humano. En el Prólogo dice: «_El Todopoderoso Supremo, que evoluciona en el nivel de valor de las actividades no personales, y la persona espiritual de Dios Supremo, son una sola realidad —el Ser Supremo._» <a id="a54_572"></a>[[LU 0:8.10](/es/The_Urantia_Book/0#p8_10)]
+Con esto en mente, veamos algunos de los fundamentos del Supremo. _El Libro de Urantia_ ofrece tres documentos sobre el Supremo: El Ser Supremo (Documento 115), El Todopoderoso Supremo (Documento 116) y Dios el Supremo (Documento 117). Como la mayor parte de la revelación, estos documentos parecen estar presentados en orden inverso; pero teniendo en cuenta el pensamiento humano. En el Prólogo dice: «_El Todopoderoso Supremo, que evoluciona en el nivel de valor de las actividades no personales, y la persona espiritual de Dios Supremo, son una sola realidad —el Ser Supremo._» <a id="a54_581"></a>[[LU 0:8.10](/es/The_Urantia_Book/0#p8_10)]
 
 ## Los basicos
 

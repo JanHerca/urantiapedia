@@ -1,5 +1,5 @@
 ---
-título: "Conferencia General de la Hermandad Urantia"
+título: "Conferencia General de la Urantia Brotherhood"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 William Wentworth<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol8_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 8 Núm. 5 Septiembre de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-5-septiembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 5 Septiembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/On_the_matter_of_Reincarnation">
+          <span class="pr-2">Sobre la cuestión de la reencarnación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tres australianos asistieron a la Conferencia, celebrada en Brunswick, Maine, a principios de agosto. Estas notas derivan de mi propia experiencia. Neil Francey y Hannah De Vries tendrán que hablar por sí mismos.
@@ -33,3 +57,28 @@ Los australianos tenemos un papel pequeño pero importante que desempeñar.
 
 William Wentworth, Towamba, Nueva Gales del Sur
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol8_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 8 Núm. 5 Septiembre de 1987</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-5-septiembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 5 Septiembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/On_the_matter_of_Reincarnation">
+          <span class="pr-2">Sobre la cuestión de la reencarnación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,17 +9,41 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Channeling_And_Communication_With_The_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalización y comunicación con el mundo de los espíritus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-3-mayo-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 3 Mayo de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ernest_Moyer/Midwayer_Communications">
+          <span class="pr-2">Comunicaciones Intermedias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ann Bendall y Ken Glasziou, Queensland [La experiencia de Ann es en psicología; Ken está en bioquímica]_
 
 El profesor A.C.P. Sims es una reconocida autoridad en el tema de los trastornos mentales, incluida la esquizofrenia. En su libro, «Síntomas en la mente del hombre», escribe: «La naturaleza religiosa del delirio se ve como un desorden del contenido... Así que los delirios religiosos no son causados por una creencia religiosa excesiva... sino que simplemente acentúan eso cuando una persona sufre una enfermedad mental y sus delirios reflejan, en su contenido, sus intereses y preocupaciones predominantes».
 
-M. V. Dunlop es un conocido autor cristiano que ha escrito extensamente sobre el tema de la meditación contemplativa como medio para entrenar nuestra mente para vivir continuamente en la presencia de Jesús. Hace estas dos afirmaciones: «Tarde o temprano nuestros estados mentales están obligados a reflejar aquello en lo que mantenemos nuestra atención» y «nuestras mentes toman su calidad de aquello en lo que nos concentramos». Su sistema de meditación tiene como objetivo ayudarnos en nuestro camino hacia la obediencia del mandato de Jesús: «Sed, pues, vosotros perfectos como vuestro Padre que está en los cielos es perfecto». ([Mat. 5:48](/es/Bible/Matthew/5#v48); [LU 140:5.11](/es/The_Urantia_Book/140#p5_11))
+M. V. Dunlop es un conocido autor cristiano que ha escrito extensamente sobre el tema de la meditación contemplativa como medio para entrenar nuestra mente para vivir continuamente en la presencia de Jesús. Hace estas dos afirmaciones: «Tarde o temprano nuestros estados mentales están obligados a reflejar aquello en lo que mantenemos nuestra atención» y «nuestras mentes toman su calidad de aquello en lo que nos concentramos». Su sistema de meditación tiene como objetivo ayudarnos en nuestro camino hacia la obediencia del mandato de Jesús: «Sed, pues, vosotros perfectos como vuestro Padre que está en los cielos es perfecto». ([Mat. 5:48](/es/Bible/Matthew/5#v48); <a id="a41_671"></a>[LU 140:5.11](/es/The_Urantia_Book/140#p5_11))
 
 A la luz de las observaciones del profesor Sim, conviene tener cuidado con el posible daño que puede surgir de una preocupación excesiva u obsesiva por un conjunto limitado de intereses. Recuerde que _El Libro de URANTIA_ describe a Jesús de esta manera:
 
-> «_La fe espiritual de Jesús, arrolladora e indomable, nunca se volvió fanática porque nunca intentó dejarse llevar por sus juicios intelectuales bien equilibrados sobre los valores proporcionales de las situaciones sociales, económicas y morales, prácticas y corrientes, de la vida. El Hijo del Hombre era una personalidad humana espléndidamente unificada; era un ser divino perfectamente dotado; también estaba magníficamente coordinado como ser humano y divino combinados, ejerciendo su actividad en la Tierra como una sola personalidad. El Maestro siempre coordinaba la fe del alma con las sabias evaluaciones de una experiencia madurada. La fe personal, la esperanza espiritual y la devoción moral siempre estaban correlacionadas en una unidad religiosa incomparable de asociación armoniosa con la comprensión penetrante de la realidad y el carácter sagrado de todas las lealtades humanas —honor personal, amor familiar, obligaciones religiosas, deberes sociales y necesidades económicas._» ([LU 196:0.7](/es/The_Urantia_Book/196#p0_7))
+> «_La fe espiritual de Jesús, arrolladora e indomable, nunca se volvió fanática porque nunca intentó dejarse llevar por sus juicios intelectuales bien equilibrados sobre los valores proporcionales de las situaciones sociales, económicas y morales, prácticas y corrientes, de la vida. El Hijo del Hombre era una personalidad humana espléndidamente unificada; era un ser divino perfectamente dotado; también estaba magníficamente coordinado como ser humano y divino combinados, ejerciendo su actividad en la Tierra como una sola personalidad. El Maestro siempre coordinaba la fe del alma con las sabias evaluaciones de una experiencia madurada. La fe personal, la esperanza espiritual y la devoción moral siempre estaban correlacionadas en una unidad religiosa incomparable de asociación armoniosa con la comprensión penetrante de la realidad y el carácter sagrado de todas las lealtades humanas —honor personal, amor familiar, obligaciones religiosas, deberes sociales y necesidades económicas._» (<a id="a45_998"></a>[LU 196:0.7](/es/The_Urantia_Book/196#p0_7))
 
 La gradación entre el estado mental «normal» y los estados más extremos como la esquizofrenia es continua. Probablemente nadie sea completamente «normal» y pocos estén totalmente locos.
 
@@ -39,3 +63,28 @@ Un gran peligro asociado con la «canalización» es cuando el canal tiene una p
 
 Un ejemplo bien conocido es el caso del reverendo Jones quien, afirmando haber sido instruido por Dios, indujo a cientos de asociados a cometer asesinatos y suicidios. Debido a los peligros involucrados, y dado que _El Libro de URANTIA_ aboga por una relación uno a uno tanto con nuestro Ajustador del Pensamiento como con el Espíritu de la Verdad de Jesús, es muy cuestionable que uno deba alguna vez desviar la atención hacia seres inferiores para nuestra guía.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Channeling_And_Communication_With_The_Spirit_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canalización y comunicación con el mundo de los espíritus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-3-mayo-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 3 Mayo de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ernest_Moyer/Midwayer_Communications">
+          <span class="pr-2">Comunicaciones Intermedias</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

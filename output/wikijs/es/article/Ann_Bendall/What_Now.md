@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jane_Wilson/Literacy_Crisis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crisis de alfabetización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ann Bendall, Nambour, Qld._
@@ -27,7 +48,29 @@ Baso mi creencia en los siguientes hechos: -
 2) Nunca logró desviar a la población de la idea del reino de sus antepasados.
 3) A Michael se le dio el mandato de no dejar escritos.
 
-Pero cuando fue tan «audaz» ([LU 141:7.8](/es/The_Urantia_Book/141#p7_8)) que los apóstoles sintieron que podía estar fuera de sí, vio el efecto de su encarnación en Urantia. El beneficio para toda su creación. Y tal vez vio los días de hermandad social del hombre en Urantia. Los días del _El Libro de URANTIA_.
+Pero cuando fue tan «audaz» (<a id="a50_29"></a>[LU 141:7.8](/es/The_Urantia_Book/141#p7_8)) que los apóstoles sintieron que podía estar fuera de sí, vio el efecto de su encarnación en Urantia. El beneficio para toda su creación. Y tal vez vio los días de hermandad social del hombre en Urantia. Los días del _El Libro de URANTIA_.
 
 Jesús se adelantó a su tiempo y por eso sus palabras, su vida, tal vez tuvieron que esperar el momento en URANTIA cuando la gente había aprendido a apreciar que su camino era el correcto y el único. Creo que Urantia ha llegado a esa etapa como consecuencia de la cual se nos da la vida de Jesús en Urantia en toda su belleza, en un momento en el que podemos comprender su significado, si así lo deseamos. Creo que _El Libro de URANTIA_ fue planeado para nosotros durante la época de la vida de Jesús en Urantia, y que Uversa esperó la petición de los intermedios de que el planeta ya estaba listo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jane_Wilson/Literacy_Crisis">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crisis de alfabetización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-6-noviembre-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 6 noviembre de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

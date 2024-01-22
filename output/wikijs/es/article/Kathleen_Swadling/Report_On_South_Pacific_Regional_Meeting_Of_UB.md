@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Kathleen Swadling<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol9_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-6-noviembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="pr-2">Una perspectiva de servicio de las relaciones individuales y organizativas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 10 al 14 de octubre de 1988
@@ -57,3 +81,28 @@ Así terminó un evento fantástico, pero que seguirá siendo querido y fiel par
 
 > Es mejor encender una vela que maldecir la oscuridad.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol9_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-6-noviembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Individual_And_Organizational_Relationships">
+          <span class="pr-2">Una perspectiva de servicio de las relaciones individuales y organizativas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

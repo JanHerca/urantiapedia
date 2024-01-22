@@ -9,21 +9,45 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Chris Moseley<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Spiritualised_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensamiento espiritualizado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-1-de-enero-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 1 de enero de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Frank_Wright/Fandor_Passenger_Bird_Of_Urantia">
+          <span class="pr-2">Fandor: ave de pasajeros de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-_El Libro de URANTIA_ nos brinda una visión privilegiada de toda la vida de Jesús, desde su nacimiento hasta su muerte, y cuando leemos sobre los primeros años de vida y educación de Jesús, vemos que la infancia de Jesús no fue esencialmente diferente a la de millones de otros niños. Pero el otorgamiento terrenal de Jesús tuvo lugar en un entorno lingüística y culturalmente muy diverso, que le exigía el aprendizaje de al menos dos idiomas. Incluso a la tierna edad de cinco años, leemos en [LU 123:2.14](/es/The_Urantia_Book/123#p2_14) que Jesús...«hizo gran parte de su práctica temprana escribiendo en arameo, griego y más tarde hebreo, porque con el tiempo aprendió a leer, escribir y hablar con fluidez los tres idiomas».
 
-Sabemos que Jesús era un estudiante bastante talentoso, pero no aprendía idiomas «extranjeros» por placer o ejercicio intelectual; eran una exigencia real de la vida cotidiana en el ambiente de Jesús. El [LU 123:3.1](/es/The_Urantia_Book/123#p3_1), cuando Jesús tiene 6 años, leemos:
+_El Libro de URANTIA_ nos brinda una visión privilegiada de toda la vida de Jesús, desde su nacimiento hasta su muerte, y cuando leemos sobre los primeros años de vida y educación de Jesús, vemos que la infancia de Jesús no fue esencialmente diferente a la de millones de otros niños. Pero el otorgamiento terrenal de Jesús tuvo lugar en un entorno lingüística y culturalmente muy diverso, que le exigía el aprendizaje de al menos dos idiomas. Incluso a la tierna edad de cinco años, leemos en <a id="a37_494"></a>[LU 123:2.14](/es/The_Urantia_Book/123#p2_14) que Jesús...«hizo gran parte de su práctica temprana escribiendo en arameo, griego y más tarde hebreo, porque con el tiempo aprendió a leer, escribir y hablar con fluidez los tres idiomas».
+
+Sabemos que Jesús era un estudiante bastante talentoso, pero no aprendía idiomas «extranjeros» por placer o ejercicio intelectual; eran una exigencia real de la vida cotidiana en el ambiente de Jesús. El <a id="a39_204"></a>[LU 123:3.1](/es/The_Urantia_Book/123#p3_1), cuando Jesús tiene 6 años, leemos:
 
 > «Ya Jesús, con la ayuda de su madre, dominaba el dialecto galileo de la lengua aramea; y ahora su padre empezó a enseñarle griego. María hablaba poco griego, pero José hablaba con fluidez tanto el arameo como el griego. El libro de texto para el estudio de la lengua griega era la copia de las Escrituras hebreas (una versión completa de la ley y los profetas, incluidos los Salmos) que les habían regalado al salir de Egipto. ..... Y en muy poco tiempo pudo leerlo fácilmente.»
 
-Jesús había perfeccionado más o menos su conocimiento de los dos idiomas principales a la edad de 7 años, como leemos en «Días escolares en Nazaret» el [LU 123:5.1](/es/The_Urantia_Book/123#p5_1),
+Jesús había perfeccionado más o menos su conocimiento de los dos idiomas principales a la edad de 7 años, como leemos en «Días escolares en Nazaret» el <a id="a43_152"></a>[LU 123:5.1](/es/The_Urantia_Book/123#p5_1),
 
 «Este muchacho ya leía, escribía y hablaba con fluidez dos idiomas, arameo y griego. Ahora debía familiarizarse con la tarea de aprender a leer, escribir y hablar el idioma hebreo».
 
-La enseñanza del hebreo se llevaba a cabo incluso más de memoria que la del arameo y el griego, como aprendemos que el jazán lo enseñaba en el Libro de la Ley. Además, el [LU 123:5.11](/es/The_Urantia_Book/123#p5_11)...«en ese momento los judíos acababan de inaugurar una ley de educación obligatoria»....
+La enseñanza del hebreo se llevaba a cabo incluso más de memoria que la del arameo y el griego, como aprendemos que el jazán lo enseñaba en el Libro de la Ley. Además, el <a id="a47_171"></a>[LU 123:5.11](/es/The_Urantia_Book/123#p5_11)...«en ese momento los judíos acababan de inaugurar una ley de educación obligatoria»....
 
-Podemos inferir de esto que los judíos tenían una gran libertad administrativa en esta remota parte del imperio romano, al poder legislar en materia educativa y preservar el estatus de la lengua hebrea a pesar de que la cultura y la religión que representaba No tuvo nada que ver con Roma. De las muchas referencias a la cultura griega (que el joven Jesús admiraba abiertamente, para gran desaprobación de su padre) podemos entender la importancia del griego entre los galileos: era el idioma de prestigio de la cultura y el comercio. El hecho de que Jesús aprendiera el «dialecto galileo» del arameo indica que era un idioma bastante hablado, pero sabemos muy poco de su uso o herencia literaria. Por supuesto, notablemente ausente de todo esto está el latín. Parece que los romanos hicieron poco o ningún intento de imponer su lengua y cultura latinas a este pueblo, que ya estaba expuesto a tantas influencias. De hecho, los zelotes, a quienes se instó a Jesús a unirse en su adolescencia, no se oponían tanto a la imposición de la cultura romana como a la humillación de pagar impuestos a Roma. ([LU 127:2.1](/es/The_Urantia_Book/127#p2_1))
+Podemos inferir de esto que los judíos tenían una gran libertad administrativa en esta remota parte del imperio romano, al poder legislar en materia educativa y preservar el estatus de la lengua hebrea a pesar de que la cultura y la religión que representaba No tuvo nada que ver con Roma. De las muchas referencias a la cultura griega (que el joven Jesús admiraba abiertamente, para gran desaprobación de su padre) podemos entender la importancia del griego entre los galileos: era el idioma de prestigio de la cultura y el comercio. El hecho de que Jesús aprendiera el «dialecto galileo» del arameo indica que era un idioma bastante hablado, pero sabemos muy poco de su uso o herencia literaria. Por supuesto, notablemente ausente de todo esto está el latín. Parece que los romanos hicieron poco o ningún intento de imponer su lengua y cultura latinas a este pueblo, que ya estaba expuesto a tantas influencias. De hecho, los zelotes, a quienes se instó a Jesús a unirse en su adolescencia, no se oponían tanto a la imposición de la cultura romana como a la humillación de pagar impuestos a Roma. (<a id="a49_1100"></a>[LU 127:2.1](/es/The_Urantia_Book/127#p2_1))
 
 Sabemos cómo eran el latín y el griego antiguo, y el hebreo bíblico se ha conservado hasta el día de hoy e incluso ha resucitado en este siglo, pero ¿qué pasa con la lengua materna de Jesús, su lengua materna, el arameo?
 
@@ -63,3 +87,28 @@ De: The ASCENDER, otoño de 1989
 > 
 > Leonor Roosevelt
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Spiritualised_Thinking">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pensamiento espiritualizado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-1-de-enero-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 1 de enero de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Frank_Wright/Fandor_Passenger_Bird_Of_Urantia">
+          <span class="pr-2">Fandor: ave de pasajeros de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

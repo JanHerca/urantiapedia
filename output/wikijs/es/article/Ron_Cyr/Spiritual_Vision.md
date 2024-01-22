@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ron Cyr<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_L_Blackstock/The_Teaching_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La misión docente. «Si no son personalidades reales, ¿entonces qué?»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/The_Australian_Conference_1993">
+          <span class="pr-2">La Conferencia Australiana de 1993</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ron Cyr, Blaine, EE.UU._
@@ -29,11 +53,11 @@ Naturalmente la pregunta es «¿qué es tener una visión espiritual?» Para ser
 
 Cuando llegó la Primera Revelación, como Caligastia y su séquito eran seres espirituales, por ley de la lógica debían tener visión espiritual. Cuando la rebelión golpeó a Caligastia y sus acólitos, reemplazaron en sus mentes la visión espiritual que habían traído consigo con las enseñanzas de Lucifer. Su visión era ahora la visión de Lucifer. Al reemplazar la visión espiritual con la visión de Lucifer, todo el plan se detuvo bruscamente. Pero Van y Amadon mantuvieron viva la visión espiritual original hasta que llegaron Adán y Eva.
 
-La Segunda Revelación también vino con una visión espiritual. Adán y Eva lo mantuvieron vivo incluso después de que incumplieron. Pero cuando murieron, ese fue el final. Se nos dice que el incumplimiento de Adán y Eva fue más desastroso que el levantamiento de Caligastia ([LU 34:7.6](/es/The_Urantia_Book/34#p7_6)). El levantamiento de Caligastia precipitó la confusión mundial y privó a todas las generaciones posteriores de la asistencia moral que una sociedad bien ordenada habría proporcionado. Pero aún más desastroso fue el defecto adámico en el sentido de que privó a las razas de ese tipo superior de naturaleza física que habría estado más en consonancia con las aspiraciones espirituales.
+La Segunda Revelación también vino con una visión espiritual. Adán y Eva lo mantuvieron vivo incluso después de que incumplieron. Pero cuando murieron, ese fue el final. Se nos dice que el incumplimiento de Adán y Eva fue más desastroso que el levantamiento de Caligastia (<a id="a55_273"></a>[LU 34:7.6](/es/The_Urantia_Book/34#p7_6)). El levantamiento de Caligastia precipitó la confusión mundial y privó a todas las generaciones posteriores de la asistencia moral que una sociedad bien ordenada habría proporcionado. Pero aún más desastroso fue el defecto adámico en el sentido de que privó a las razas de ese tipo superior de naturaleza física que habría estado más en consonancia con las aspiraciones espirituales.
 
 Creo que otra razón que agravó los problemas fue que, por primera vez, Urantia no tenía a nadie con una visión espiritual. Así que a partir de ahí todo fue cuesta abajo.
 
-Después del default, la «luz de la vida» casi se desvaneció. Se estaba poniendo tan serio que apareció una revelación de emergencia bajo la dirección de Melquisedec ([LU 35:4.1](/es/The_Urantia_Book/35#p4_1)). Se ofreció voluntariamente a encarnar en semejanza de carne mortal y lo hizo con la aprobación de los receptores Melquisedec del planeta que temían que la «luz de la vida» se extinguiera durante ese período de creciente oscuridad espiritual. Y fomentó la verdad de su época y la transmitió con seguridad a Abraham y sus asociados.
+Después del default, la «luz de la vida» casi se desvaneció. Se estaba poniendo tan serio que apareció una revelación de emergencia bajo la dirección de Melquisedec (<a id="a59_166"></a>[LU 35:4.1](/es/The_Urantia_Book/35#p4_1)). Se ofreció voluntariamente a encarnar en semejanza de carne mortal y lo hizo con la aprobación de los receptores Melquisedec del planeta que temían que la «luz de la vida» se extinguiera durante ese período de creciente oscuridad espiritual. Y fomentó la verdad de su época y la transmitió con seguridad a Abraham y sus asociados.
 
 Durante 94 años fuimos nuevamente bendecidos con visión espiritual y eso fue suficiente para llevar la pelota hasta la aparición de Jesús. Pero la Cuarta Revelación de Época no vino dotada de visión espiritual. Tenía que lograrse por la forma en que Jesús vivió su vida en Urantia.
 
@@ -49,3 +73,28 @@ Espero haber podido demostrar que una revelación espiritual sólo puede ser gui
 
 Tengan buen ánimo y la Visión esté con todos nosotros.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_L_Blackstock/The_Teaching_Mission">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La misión docente. «Si no son personalidades reales, ¿entonces qué?»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/The_Australian_Conference_1993">
+          <span class="pr-2">La Conferencia Australiana de 1993</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

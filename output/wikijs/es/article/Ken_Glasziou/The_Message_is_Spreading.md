@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ken Glasziou<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Character_Ennoblement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ennoblecimiento del carácter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-5-septiembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 5 Septiembre 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/The_Adventures_Of_Jesus_Of_Nazareth">
+          <span class="pr-2">Las aventuras de Jesús de Nazaret</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Maleny, Queensland_
@@ -41,7 +65,32 @@ Borg describe a Jesús como una persona notablemente libre, libre de miedo y pre
 
 Cuánto han contribuido el _Libro de URANTIA_ y sus enseñanzas, directa o indirectamente, a esta «nueva visión de Jesús» es algo que nunca sabremos. Es dudoso que esto moleste a los intermedios que escribieron:
 
-> «_Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!_» ([LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
+> «_Los tiempos están maduros para presenciar la resurrección simbólica del Jesús humano, saliendo de la tumba de las tradiciones teológicas y de los dogmas religiosos de diecinueve siglos. Jesús de Nazaret ya no debe ser sacrificado, ni siquiera por el espléndido concepto del Cristo glorificado. ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones!_» (<a id="a67_561"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
 Es poco probable que la obra de Borg sea leída por un número significativo fuera de la comunidad académica, por lo que tomará mucho, mucho tiempo para que esta nueva visión impregne los seminarios y llegue a las congregaciones generales de las iglesias. Sin embargo, como nos dice _El Libro de URANTIA_, la paciencia es una virtud y la evolución lenta es más productiva que la revolución disruptiva. Pero los lectores del Libro de URANTIA bien podrían considerar regalar el libro de Borg a algunos de sus amigos no lectores y que van a la iglesia.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Character_Ennoblement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ennoblecimiento del carácter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-5-septiembre-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 5 Septiembre 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/The_Adventures_Of_Jesus_Of_Nazareth">
+          <span class="pr-2">Las aventuras de Jesús de Nazaret</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

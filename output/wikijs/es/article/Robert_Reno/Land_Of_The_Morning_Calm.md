@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Robert Reno<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo fue la fecha de la crucifixión de Miguel?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-2-marzo-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 2 Marzo 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En este artículo, Robert Reno nos cuenta sus experiencias como capellán del ejército en Corea del Sur.
@@ -72,9 +93,31 @@ Yoo Song Tae está incluso ahora estudiando _El Libro de URANTIA_ mientras yo es
 En los últimos años he tenido la creciente convicción de que hay dos grandes comisiones para quienes eligen servir a la revelación:
 
 1) La de los propios reveladores, la colocación de la revelación como «_El Libro de URANTIA_» en manos mortales, y la comisión de difundirla por todo el mundo.
-2) La comisión del mismo Cristo Miguel. La comisión de llevar el mensaje del evangelio a todo el mundo. «Lo que el mundo más necesita saber es que los hombres son hijos de Dios y, a través de la fe, pueden realizar y experimentar diariamente esta verdad ennoblecedora». ([LU 193:0.4](/es/The_Urantia_Book/193#p0_4))
+2) La comisión del mismo Cristo Miguel. La comisión de llevar el mensaje del evangelio a todo el mundo. «Lo que el mundo más necesita saber es que los hombres son hijos de Dios y, a través de la fe, pueden realizar y experimentar diariamente esta verdad ennoblecedora». (<a id="a95_271"></a>[LU 193:0.4](/es/The_Urantia_Book/193#p0_4))
 
 Para los segundos, tenemos el magnífico ejemplo de la propia vida de Jesús, tal como se revela en la historia de su vida y sus enseñanzas, pero, por desgracia, para los primeros, en general sólo tenemos desafíos, oportunidades e incertidumbre. He reflexionado sobre este tema, esta pregunta, este desafío durante la mayor parte de mis años de lectura del Libro de URANTIA. Por mi parte, he encontrado dos áreas de pensamiento que arrojan luz valiosa sobre esta cuestión. Estas dos áreas de pensamiento son el desafío religioso de esta época y las soluciones al mismo, tal como se revelan en _El Libro de URANTIA_.
 
 La razón por la que he encontrado tanta comprensión en este concepto del desafío religioso de la época es simplemente que el desafío religioso de la época «es» el desafío religioso del mundo de hoy. Si miramos a nuestro alrededor encontraremos en el mundo de hoy muchos «grupos con visión de futuro» que se esfuerzan por resolver el desafío religioso de nuestra época.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/When_Was_Michaels_Crucifixion_Date">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo fue la fecha de la crucifixión de Miguel?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-2-marzo-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 2 Marzo 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

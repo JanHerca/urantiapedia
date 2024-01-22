@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/A_Vision_For_The_Future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una visión para el futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _de «Las religiones del hombre», de Huston Smith_
@@ -33,5 +54,27 @@ Este amor de Dios es precisamente lo que sintieron los primeros cristianos. Se c
 
 Los primeros cristianos encontraron tan sorprendente este amor y el hecho de que realmente hubiera entrado en sus vidas, que tuvieron que pedir ayuda para describirlo. Pablo, al cerrar uno de los primeros sermones registrados sobre las Buenas Nuevas, volvió a las palabras de uno de los profetas: «Mirad esto, almas desdeñosas, y quedaos maravillados, porque en vuestros días hago tal acto que, Si los hombres te contaran esta historia, no la creerías».
 
-> «_Es verdad que una maravillosa manifestación de amor fraternal y de buena voluntad inigualable nació en estas primeras comunidades de creyentes. ... estaban llenos de alegría y vivían unas vidas tan nuevas y excepcionales, que todos los hombres se sentían atraídos hacia sus enseñanzas acerca de Jesús._» ([LU 194:4.6](/es/The_Urantia_Book/194#p4_6))
+> «_Es verdad que una maravillosa manifestación de amor fraternal y de buena voluntad inigualable nació en estas primeras comunidades de creyentes. ... estaban llenos de alegría y vivían unas vidas tan nuevas y excepcionales, que todos los hombres se sentían atraídos hacia sus enseñanzas acerca de Jesús._» (<a id="a56_309"></a>[LU 194:4.6](/es/The_Urantia_Book/194#p4_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/A_Vision_For_The_Future">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una visión para el futuro</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

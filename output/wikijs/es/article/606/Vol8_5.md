@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 No. 5 - Septiembre de 1987"
+título: "Boletín Six-0-Six - Volumen 8 Núm. 5 - Septiembre de 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1987 William Wentworth, Leith Luckett, Robert Crickett, Henry Begemann<br>© 1987 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-5-septiembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 5 Septiembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="pr-2">Conferencia General de la Urantia Brotherhood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -29,7 +50,7 @@ William Wentworth, Towamba, Nueva Gales del Sur
 
 ## «Pensamiento del mes»
 
-> «La religión no se puede dar, recibir, prestar, aprender o perder. Es una experiencia personal que crece en proporción a la búsqueda creciente de los valores finales.» ([LU 100:1.7](/es/The_Urantia_Book/100#p1_7))
+> «La religión no se puede dar, recibir, prestar, aprender o perder. Es una experiencia personal que crece en proporción a la búsqueda creciente de los valores finales.» (<a id="a52_171"></a>[LU 100:1.7](/es/The_Urantia_Book/100#p1_7))
 
 
 ## Estimado 6-0-6
@@ -89,7 +110,7 @@ Leith Luckett, Melbourne
 
 ## Anuncio del simposio y convocatoria de ponencias
 
-Se ha fijado el fin de semana del 13 al 15 de mayo de 1988 para el Simposio Científico I, el primero de tres Simposios Científicos nacionales (o quizás internacionales) anuales. Se llevará a cabo en Nashville, Tennessee, y ofrecerá presentaciones de científicos lectores y no lectores en un esfuerzo por aclarar y comprender mejor las descripciones y la información de El Libro de URANTIA sobre las ciencias naturales, biológicas y del comportamiento. El tema será: ‘La visión aumentada del hombre’ ([LU 118:10.13](/es/The_Urantia_Book/118#p10_13))
+Se ha fijado el fin de semana del 13 al 15 de mayo de 1988 para el Simposio Científico I, el primero de tres Simposios Científicos nacionales (o quizás internacionales) anuales. Se llevará a cabo en Nashville, Tennessee, y ofrecerá presentaciones de científicos lectores y no lectores en un esfuerzo por aclarar y comprender mejor las descripciones y la información de El Libro de URANTIA sobre las ciencias naturales, biológicas y del comportamiento. El tema será: ‘La visión aumentada del hombre’ (<a id="a112_500"></a>[LU 118:10.13](/es/The_Urantia_Book/118#p10_13))
 
 Los interesados en participar o asistir deberán escribir a: Simposio Científico I, P.O. Box 23238, Nashville, TN 37202, EE. UU. Para ser incluido en la lista de correo, simplemente envíe su nombre y dirección a la dirección anterior. Quienes deseen presentar trabajos deberán enviar un título, una breve descripción, aprox. tiempo de presentación y una reseña biográfica de la trayectoria científica del autor.
 
@@ -102,7 +123,7 @@ La reencarnación es una realidad de la vida que poseen millones de personas en 
 
 ---
 
-> «La fe arrastra con mucho gusto a la razón hasta donde la razón puede llegar; luego la fe continúa con la sabiduría hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad.» ([LU 103:9.7](/es/The_Urantia_Book/103#p9_7))
+> «La fe arrastra con mucho gusto a la razón hasta donde la razón puede llegar; luego la fe continúa con la sabiduría hasta el máximo límite filosófico; y después se atreve a lanzarse a un viaje sin límites y sin fin por el universo en compañía únicamente de la verdad.» (<a id="a125_272"></a>[LU 103:9.7](/es/The_Urantia_Book/103#p9_7))
 
 ## Retiro espiritual de 10 días con El libro de Urantia
 
@@ -130,7 +151,7 @@ La FILIACIÓN sólo puede ser filiación CON Dios. Por tanto, se trata principal
 
 ## Estimado 6-0-6
 
-Estuve en comunión contigo cuando leí tu artículo «En nuestro viaje hacia adentro». Gracias al Libro disfrutamos la experiencia de vivir una aventura extraordinaria. Contigo digo: mejoremos nuestra paciencia hasta vivir con todo el corazón nuestro presente, ya que «la eternidad es el ahora eterno». ([LU 118:1.1](/es/The_Urantia_Book/118#p1_1))
+Estuve en comunión contigo cuando leí tu artículo «En nuestro viaje hacia adentro». Gracias al Libro disfrutamos la experiencia de vivir una aventura extraordinaria. Contigo digo: mejoremos nuestra paciencia hasta vivir con todo el corazón nuestro presente, ya que «la eternidad es el ahora eterno». (<a id="a153_301"></a>[LU 118:1.1](/es/The_Urantia_Book/118#p1_1))
 
 Jacques Dupont, Recloses, Francia
 
@@ -163,3 +184,25 @@ Ian Esmore, Melbourne
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-5-septiembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 5 Septiembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="pr-2">Conferencia General de la Urantia Brotherhood</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

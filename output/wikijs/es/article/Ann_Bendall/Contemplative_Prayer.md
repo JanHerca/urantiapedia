@@ -9,13 +9,37 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ann Bendall<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol13_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-4-julio-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="pr-2">Las publicaciones religiosas dan frutos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland_
 
-En _El Libro de URANTIA_ se nos proporciona una gran cantidad de información: sugerencias, técnicas, beneficios, etc., sobre el tema de la oración. Parece que hay una fina línea divisoria entre la oración y la adoración y, por lo tanto, al referirse a Jesús: «El Maestro oraba muy poco para sí mismo, aunque practicaba mucho la adoración, cuya naturaleza era una comunión comprensiva con su Padre Paradisiaco.» ([LU 144:3.23](/es/The_Urantia_Book/144#p3_23)).
+En _El Libro de URANTIA_ se nos proporciona una gran cantidad de información: sugerencias, técnicas, beneficios, etc., sobre el tema de la oración. Parece que hay una fina línea divisoria entre la oración y la adoración y, por lo tanto, al referirse a Jesús: «El Maestro oraba muy poco para sí mismo, aunque practicaba mucho la adoración, cuya naturaleza era una comunión comprensiva con su Padre Paradisiaco.» (<a id="a39_412"></a>[LU 144:3.23](/es/The_Urantia_Book/144#p3_23)).
 
-Al dar instrucciones a sus apóstoles en respuesta a sus preguntas sobre la oración -«esta práctica tan importante y de adoración»- describió la oración como «la mirada sincera y anhelante que el hijo dirige a su Padre espiritual; es un proceso psicológico que consiste en intercambiar la voluntad humana por la voluntad divina. La oración es una parte del plan divino para transformar lo que es en lo que debería ser» ([LU 144:4.9](/es/The_Urantia_Book/144#p4_9)). Ahora, que significa esto? Sigo leyendo y descubro que «Prácticamente toda la oración de Jesús fue hecha en el espíritu y en el corazón, en silencio» y que «el Maestro rara vez pronunciaba sus oraciones en forma de palabras habladas». Tengo la impresión de que no sólo no pronunció las palabras, sino que no oró mentalmente con palabras. Sospecho que la oración de Jesús fue en la forma fomentada por la religión católica llamada «oración contemplativa». Si mi sospecha es correcta, otro aplauso para el Espíritu de la Verdad de Jesús Miguel, que nuevamente ha roto las barreras tradicionales de la religión formalizada al construir sobre lo que era, para convertirlo en lo que debería ser.
+Al dar instrucciones a sus apóstoles en respuesta a sus preguntas sobre la oración -«esta práctica tan importante y de adoración»- describió la oración como «la mirada sincera y anhelante que el hijo dirige a su Padre espiritual; es un proceso psicológico que consiste en intercambiar la voluntad humana por la voluntad divina. La oración es una parte del plan divino para transformar lo que es en lo que debería ser» (<a id="a41_419"></a>[LU 144:4.9](/es/The_Urantia_Book/144#p4_9)). Ahora, que significa esto? Sigo leyendo y descubro que «Prácticamente toda la oración de Jesús fue hecha en el espíritu y en el corazón, en silencio» y que «el Maestro rara vez pronunciaba sus oraciones en forma de palabras habladas». Tengo la impresión de que no sólo no pronunció las palabras, sino que no oró mentalmente con palabras. Sospecho que la oración de Jesús fue en la forma fomentada por la religión católica llamada «oración contemplativa». Si mi sospecha es correcta, otro aplauso para el Espíritu de la Verdad de Jesús Miguel, que nuevamente ha roto las barreras tradicionales de la religión formalizada al construir sobre lo que era, para convertirlo en lo que debería ser.
 
 Oh, cómo me encantaría orar como ora Jesús. Todo lo que sé es que, con cada fragmento del intelecto limitado que poseo, deseo que mi voluntad esté en sintonía con la voluntad de Dios. Quiero aprender todas las oraciones nuevas e interesantes porque las mías son muy repetitivas. Empiezo a orar y luego me eché a reír. Dios sabe lo que necesito, antes de que se lo pida y quiero lo que Él quiere para mí, así de simple.
 
@@ -29,3 +53,28 @@ Debo bajarme de mi pedestal de ilusión, arremangarme mentalmente, tomar el libr
 
 Creo que puedo entender la filosofía de quienes dicen que _El Libro de URANTIA_ es obra del diablo. ¿No dijo Jesús que pidieras lo que quisieras al Padre, y él subiría y torcería Su brazo y te garantizaría que lo obtendrías? Jesús era como la lámpara de un Aladino religioso. Todo lo que teníamos que hacer era orar y seríamos perfectos. Cuando se toma literalmente, la decepción se topó con los esfuerzos de muchas buenas personas, cuando el Mercedes no estaba en el garaje familiar con una tarjeta «Amor de Dios». Un buen número de carismáticos finalmente maduraron y comenzaron a darse cuenta de que quizás el pedido más apropiado era la «perfección» y las herramientas espirituales para hacer «obras mayores que éstas». Imagínese su sorpresa si leyeran _El Libro de URANTIA_, después de lo cual el camino hacia la perfección requiere una cantidad desmesurada de esfuerzo y se les proporciona un mapa preciso que indica exactamente la dirección. El camino no está formado, estamos obligados a construirlo sobre la marcha.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol13_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-4-julio-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 4 Julio de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Anna_Dollard/Religious_Publishing_Bears_Fruit">
+          <span class="pr-2">Las publicaciones religiosas dan frutos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

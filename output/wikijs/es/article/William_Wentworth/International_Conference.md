@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 William Wentworth<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/From_ET_To_E3_Keeping_An_Open_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De ET a E-3 manteniendo la mente abierta al respecto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-4-julio-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 4 Julio de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Vagaries_Of_Proof_A_Reply_To_Tony_Rudd">
+          <span class="pr-2">Los caprichos de la prueba: una respuesta a Tony Rudd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Conferencia Internacional de la Fifth Epochal Fellowship (anteriormente URANTIA Brotherhood) se celebró en Snowmass, Colorado, EE.UU., del 30 de junio al 5 de julio. Cinco australianos y un neozelandés estuvieron entre los más de 1.000 asistentes a cinco días bien organizados y estimulantes de presentaciones, talleres, entretenimiento y socialización. Esta fue la segunda conferencia en Snowmass, la primera en 1981, y las instalaciones eran magníficas.
@@ -34,3 +58,28 @@ En general, he tenido una visita instructiva y a veces sorprendente a lectores e
 **William Wentworth**
 **Towamba, Nueva Gales del Sur**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/From_ET_To_E3_Keeping_An_Open_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De ET a E-3 manteniendo la mente abierta al respecto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-4-julio-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 4 Julio de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Vagaries_Of_Proof_A_Reply_To_Tony_Rudd">
+          <span class="pr-2">Los caprichos de la prueba: una respuesta a Tony Rudd</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

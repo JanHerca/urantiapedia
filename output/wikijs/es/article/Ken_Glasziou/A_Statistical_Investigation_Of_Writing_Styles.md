@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ken Glasziou<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En el mundo real, la desigualdad es natural</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/A_Vision_For_The_Future">
+          <span class="pr-2">Una visión para el futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ken Glasziou, Maleny, Queensland_
@@ -92,3 +116,28 @@ _Mesa. Una comparación de estilos de escritura en diferentes secciones de El Li
 
 [nota: un nivel de probabilidad del 0,1% indica que hay menos de una posibilidad entre 1000 de que las dos comparaciones que se realizan provengan de la misma muestra. En otras palabras, un nivel de significancia del 0,1% indica que hay menos de una probabilidad entre mil de que las dos muestras tengan los mismos autores. El nivel del 5% generalmente aceptado indica una diferencia significativa.]
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ronald_Conway/In_The_Real_World_Inequality_Is_Only_Natural">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En el mundo real, la desigualdad es natural</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/A_Vision_For_The_Future">
+          <span class="pr-2">Una visión para el futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

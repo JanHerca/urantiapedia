@@ -9,16 +9,40 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Matthew Block<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Summary_Of_Elanora_Conference_1992">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resumen de la Conferencia de Elanora 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-6-noviembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 6 noviembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/The_Purpose_Of_The_Fifth_Epochal_Revelation">
+          <span class="pr-2">¿El propósito de la quinta revelación de época?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
 _Matthew Block, Chicago_
 
-> «_...para poder presentar a Dios y a sus asociados del universo, hemos seleccionado como base de estos documentos más de mil conceptos humanos que representan el conocimiento planetario más elevado y avanzado sobre los valores espirituales y los significados universales._» ([LU 0:12.12](/es/The_Urantia_Book/0#p12_12))
+> «_...para poder presentar a Dios y a sus asociados del universo, hemos seleccionado como base de estos documentos más de mil conceptos humanos que representan el conocimiento planetario más elevado y avanzado sobre los valores espirituales y los significados universales._» (<a id="a40_277"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12))
 
-> «_Sólo podemos recurrir a la revelación pura cuando el concepto a presentar no haya sido expresado anteriormente de manera adecuada por la mente humana._» ([LU 0:12.11](/es/The_Urantia_Book/0#p12_11))
+> «_Sólo podemos recurrir a la revelación pura cuando el concepto a presentar no haya sido expresado anteriormente de manera adecuada por la mente humana._» (<a id="a42_158"></a>[LU 0:12.11](/es/The_Urantia_Book/0#p12_11))
 
-> «_Los memorando que he reunido, ... contienen joyas del pensamiento y conceptos muy elevados de las enseñanzas de Jesús, procedentes de más de dos mil seres humanos que han vivido en la Tierra desde la época de Jesús hasta el día en que fueron redactadas las presentes revelaciones, o más exactamente estas reexposiciones. ... la mayoría de las ideas e incluso algunas de las expresiones efectivas que he utilizado así tuvieron su origen en la mente de los hombres de numerosas razas que han vivido en la Tierra durante las generaciones intermedias, incluídos aquellos que viven todavía en el momento de efectuar esta tarea_» ([LU 121:8.13-14](/es/The_Urantia_Book/121#p8_13))
+> «_Los memorando que he reunido, ... contienen joyas del pensamiento y conceptos muy elevados de las enseñanzas de Jesús, procedentes de más de dos mil seres humanos que han vivido en la Tierra desde la época de Jesús hasta el día en que fueron redactadas las presentes revelaciones, o más exactamente estas reexposiciones. ... la mayoría de las ideas e incluso algunas de las expresiones efectivas que he utilizado así tuvieron su origen en la mente de los hombres de numerosas razas que han vivido en la Tierra durante las generaciones intermedias, incluídos aquellos que viven todavía en el momento de efectuar esta tarea_» (<a id="a44_629"></a>[LU 121:8.13-14](/es/The_Urantia_Book/121#p8_13))
 
 Después de estas observaciones introductorias hay una lista de diecinueve libros que con toda probabilidad se utilizaron para redactar algunos de los Documentos de Urantia. Cada uno de estos libros (con algunas excepciones señaladas en la lista) contiene oraciones, párrafos o incluso capítulos completos cuyas frases y organización de pensamientos o información tienen un paralelo tan cercano en _El Libro de URANTIA_ que sugiere fuertemente su uso como material fuente por parte de los reveladores. Aunque algunos de ellos son conocidos desde hace mucho tiempo por algunos lectores del _Libro de URANTIA_ (por ejemplo, los libros de Breasted, Bundy, Jones), la mayoría aparentemente fueron descubiertos por primera vez en bibliotecas y librerías usadas en el área de Chicago durante la primavera, el verano y el otoño de 1992. en el curso de mi investigación sobre las fuentes humanas del _Libro de URANTIA_.
 
@@ -32,7 +56,7 @@ Mi propia experiencia me ha enseñado que, como resultado de mi ignorancia y sub
 
 Estos hallazgos iniciales ya me han convencido de dos cosas. Primero, aunque ya no equiparo la «revelación» con una originalidad sobrehumana completa, no tengo ninguna duda de que Los Documentos de Urantia fueron «editados» sobrehumanamente. Cada uno de los libros a continuación se utilizó de manera hábil y creativa, para integrar perfectamente las observaciones humanas con complementos o correcciones reveladoras. Así, para dar sólo un ejemplo, los espíritus mentales auxiliares de adoración y sabiduría están incorporados en el artículo «Los orígenes de la adoración», un artículo que se deriva en gran medida de «Origen y evolución de la religión» (ver más abajo), cuyo autor aferrado a una motivación completamente natural del impulso de adoración.
 
-En segundo lugar, en lugar de ser una vergüenza para la credibilidad del _Libro de URANTIA_ como revelación, estos libros son de gran ayuda para una mayor comprensión de los artículos que los utilizan. A menudo los reveladores se ven obligados a presentar un tratamiento abreviado de un concepto o de una historia que la fuente humana discute con mayor detalle. Por ejemplo, mi comprensión de la desconcertante referencia del libro al «automantenimiento cósmico» ([LU 42:11.7](/es/The_Urantia_Book/42#p11_7)) mejoró enormemente cuando encontré este concepto presentado detalladamente en el libro de Noble (ver más abajo). A la luz de estos beneficios para la comprensión, tanto de contenido como de contexto, creo que sería útil que los lectores conocieran estas fuentes, y tal vez algunos de estos libros con derechos de autor vencidos podrían volver a publicarse. Además, como organización dedicada a promover el estudio de _El Libro de URANTIA_, La Comunidad haría bien en reconocer abiertamente la existencia de estas obras de alguna manera, tal vez incluso en nuestra literatura informativa sobre _El Libro de URANTIA_. También debemos ser conscientes de que un reconocimiento confiado y bien razonado desarmaría a los detractores que sostienen la noción de que la revelación significa siempre y necesariamente, para sus creyentes engañados, completa inspiración sobrehumana.
+En segundo lugar, en lugar de ser una vergüenza para la credibilidad del _Libro de URANTIA_ como revelación, estos libros son de gran ayuda para una mayor comprensión de los artículos que los utilizan. A menudo los reveladores se ven obligados a presentar un tratamiento abreviado de un concepto o de una historia que la fuente humana discute con mayor detalle. Por ejemplo, mi comprensión de la desconcertante referencia del libro al «automantenimiento cósmico» (<a id="a58_464"></a>[LU 42:11.7](/es/The_Urantia_Book/42#p11_7)) mejoró enormemente cuando encontré este concepto presentado detalladamente en el libro de Noble (ver más abajo). A la luz de estos beneficios para la comprensión, tanto de contenido como de contexto, creo que sería útil que los lectores conocieran estas fuentes, y tal vez algunos de estos libros con derechos de autor vencidos podrían volver a publicarse. Además, como organización dedicada a promover el estudio de _El Libro de URANTIA_, La Comunidad haría bien en reconocer abiertamente la existencia de estas obras de alguna manera, tal vez incluso en nuestra literatura informativa sobre _El Libro de URANTIA_. También debemos ser conscientes de que un reconocimiento confiado y bien razonado desarmaría a los detractores que sostienen la noción de que la revelación significa siempre y necesariamente, para sus creyentes engañados, completa inspiración sobrehumana.
 
 > ...Aunque ya no equiparo la «revelación» con una originalidad sobrehumana completa, no tengo ninguna duda de que los Documentos de URANTIA fueron «editados» sobrehumanamente.
 
@@ -121,3 +145,28 @@ El documento 41, «Aspectos físicos del universo local»; Documento 42, «Energ
 <img src="/image/article/606/cartoon12.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Summary_Of_Elanora_Conference_1992">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Resumen de la Conferencia de Elanora 1992</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-6-noviembre-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 6 noviembre de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/The_Purpose_Of_The_Fifth_Epochal_Revelation">
+          <span class="pr-2">¿El propósito de la quinta revelación de época?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

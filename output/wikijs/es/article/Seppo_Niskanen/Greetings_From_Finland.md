@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Seppo Niskanen<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Betty_Glasziou/The_1993_International_Conference_Montreal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia internacional para lectores del libro de Urantia de 1993, Montreal, Canadá</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-5-septiembre-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 5 Septiembre de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/The_Revelations_Of_Divine_Truth_Are_Not_Sealed">
+          <span class="pr-2">Las revelaciones de la verdad divina no están selladas...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Seppo Niskanen, Mannerheimintie_
@@ -19,7 +43,7 @@ La Conferencia de Verano de 1993, que fue la novena conferencia consecutiva, tuv
 
 En su discurso ante la Conferencia, afirmó: «Disfrutamos mucho leyendo el artículo principal de 'Reflexión' que describe los años y años de trabajo y la cantidad de personas involucradas en dar origen a la traducción al finlandés. Tu dedicación y constancia junto con tu hermoso trabajo en equipo han hecho que esto suceda».
 
-Seppo Kanerva, traductor del finlandés _URANTIA-kirja_, dijo en su discurso: «Se han dado dos pasos importantes simultáneamente, y así unos cinco millones y medio de personas de habla finlandesa y unos 350 millones de hablantes de castellano tienen ahora acceso a la quinta revelación de época, en sus lenguas nativas». El traductor también recordó a la Conferencia la necesidad de realizar cada vez más y nuevas traducciones, y también la necesidad de traducir _El Libro de URANTIA_ a idiomas no europeos: «Se nos enseña que nada de lo que la naturaleza humana ha tocado puede considerarse infalible. En el mismo momento en que la cuarta revelación de época fue confiada a manos humanas, existía el potencial de hacer de la donación vital de Miguel una religión del hombre blanco» ([LU 94:4.10](/es/The_Urantia_Book/94#p4_10)).
+Seppo Kanerva, traductor del finlandés _URANTIA-kirja_, dijo en su discurso: «Se han dado dos pasos importantes simultáneamente, y así unos cinco millones y medio de personas de habla finlandesa y unos 350 millones de hablantes de castellano tienen ahora acceso a la quinta revelación de época, en sus lenguas nativas». El traductor también recordó a la Conferencia la necesidad de realizar cada vez más y nuevas traducciones, y también la necesidad de traducir _El Libro de URANTIA_ a idiomas no europeos: «Se nos enseña que nada de lo que la naturaleza humana ha tocado puede considerarse infalible. En el mismo momento en que la cuarta revelación de época fue confiada a manos humanas, existía el potencial de hacer de la donación vital de Miguel una religión del hombre blanco» (<a id="a45_783"></a>[LU 94:4.10](/es/The_Urantia_Book/94#p4_10)).
 
 Al decirnos esto, los reveladores quieren decir: «No repitan estos mismos errores en su gestión humana de la quinta revelación de época. No dejes que se convierta en algo de disfrute privado únicamente, no dejes que se convierta en el tesoro de una raza, una nación o un grupo. Que no se transforme de un evangelio de y en _El Libro de URANTIA_ a una religión institucionalizada en torno a _El Libro de URANTIA_, fuera de la cual no hay salvación».
 
@@ -35,3 +59,28 @@ Además de la celebración de las traducciones, la conferencia se dividió en un
 
 El lugar de la Conferencia en Järvenpää, casi al lado de la antigua casa y museo del compositor finlandés Jean Sibelius, fue considerado unánimemente excelente y, en consecuencia, se llegó a la decisión de que la Conferencia de Verano de 1994 se celebraría en las mismas instalaciones. Por lo tanto, habrá otra Conferencia Internacional durante el segundo fin de semana de junio de 1994 en el mismo lugar. Bienvenidos todos.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Betty_Glasziou/The_1993_International_Conference_Montreal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia internacional para lectores del libro de Urantia de 1993, Montreal, Canadá</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-5-septiembre-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 5 Septiembre de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/606/The_Revelations_Of_Divine_Truth_Are_Not_Sealed">
+          <span class="pr-2">Las revelaciones de la verdad divina no están selladas...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

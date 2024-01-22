@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 10 No. 2 — March 1989"
+title: "Prospects For A World Religion"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

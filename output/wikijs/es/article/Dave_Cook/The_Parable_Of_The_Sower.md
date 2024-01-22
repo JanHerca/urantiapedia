@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Dave Cook<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/To_Make_Fair_Evaluations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Para hacer evaluaciones justas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-1-de-enero-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 1 de enero de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Before_The_Cock_Crows">
+          <span class="pr-2">«Antes que el gallo cante...»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Dave Cook, Jan Juc, Victoria_
@@ -35,6 +59,31 @@ Luego, este hombre en la barca, este hombre a quien algunos han aclamado como el
 
 Y con esta reconfortante seguridad, el granjero regresa a su casa llevando en su corazón una nueva oportunidad de vida y saluda con alegría a su esposa e hijos después de haber incurrido en su ira por ir en busca de «ese maldito personaje del Mesías». Pero ahora ven la alegría del granjero y todos se regocijan cuando les relata las palabras y la calidez de Jesús.
 
-Referencias: Libro de URANTIA [LU 151:1.1-5](/es/The_Urantia_Book/151#p1_1),
+Referencias: Libro de URANTIA <a id="a61_30"></a>[LU 151:1.1-5](/es/The_Urantia_Book/151#p1_1),
 [Mateo 13:1-17, 18 — 23](/es/Bible/Matthew/13#v1), [Gál. 6:7 — 10](/es/Bible/Galatians/6#v7)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/To_Make_Fair_Evaluations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Para hacer evaluaciones justas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-1-de-enero-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 1 de enero de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Before_The_Cock_Crows">
+          <span class="pr-2">«Antes que el gallo cante...»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-título: "Lavado de pies"
+título: "El lavado de los pies"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ann Bendall<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Trevor_Swadling/The_Crossroads_Of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La encrucijada de la revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-4-julio-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 4 Julio de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Destined_For_The_Skies">
+          <span class="pr-2">Destinado a los cielos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ann Bendall, Nambour, Queensland_
@@ -23,3 +47,28 @@ Y entonces miramos los mandamientos. Los mandamientos de la época de Moisés ha
 
 Ahora, en caso de que nos confundamos en nuestra definición operativa de «amor», simplemente nos referimos al libro azul y vemos cómo Jesús mostró su amor en más situaciones de las que cualquiera de nosotros experimentará en nuestra vida aquí. Es todo tan fácil. De hecho, somos hijos de Dios mimados.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Trevor_Swadling/The_Crossroads_Of_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La encrucijada de la revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-4-julio-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 4 Julio de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/Destined_For_The_Skies">
+          <span class="pr-2">Destinado a los cielos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

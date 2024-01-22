@@ -1,5 +1,5 @@
 ---
-título: "El viaje de Michael alrededor de la Tierra"
+título: "El viaje de Miguel alrededor de la Tierra"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Madeline Noordzy<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol9_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/On_The_Practise_Of_Doing_The_Will_Of_God">
+          <span class="pr-2">Sobre la práctica de hacer la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Era de esperar que, al igual que las grandes obras literarias de Homero y Shakespeare, tarde o temprano, _El Libro de URANTIA_ se convirtiera en la inspiración para una composición musical importante.
@@ -41,3 +65,28 @@ Espero ver esta ópera algún día. Mientras tanto... me pregunto si deberíamos
 
 Madeline Noordzy, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol9_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/On_The_Practise_Of_Doing_The_Will_Of_God">
+          <span class="pr-2">Sobre la práctica de hacer la voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

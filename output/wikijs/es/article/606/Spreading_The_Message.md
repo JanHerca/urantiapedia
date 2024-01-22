@@ -9,15 +9,39 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ernest_Moyer/Midwayer_Communications">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunicaciones Intermedias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-3-mayo-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 3 Mayo de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_Mcnelly/Are_You_Ready_For_The_Urantia_Book">
+          <span class="pr-2">¿Estás preparado para El libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Grupo de Estudio de Brisbane_
 
 ¿Cómo difundimos el mensaje del _El Libro de URANTIA_? Buena pregunta. Hubo un tiempo en el que muchos de nosotros pensábamos que podíamos confiar en las instrucciones que se decía que habían sido dadas a los miembros humanos de la Comisión Reveladora. Actualmente existen dudas considerables sobre la validez de algunas de estas supuestas instrucciones. Esto puede ser algo bueno, porque tiene sentido que el libro en sí contenga todas las instrucciones necesarias para su propia difusión. Y al menos sabemos que lo que encontramos en el libro tiene autoridad. La siguiente declaración del propio Maestro es a la vez desafiante y algo molesta.
 
-> «_«Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad»._» ([LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
+> «_«Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad»._» (<a id="a41_599"></a>[LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
 
-¡La medida de nuestro fracaso es hasta qué punto tenemos que llevar el mensaje a la gente! Hablando de la primera comunidad cristiana, el libro dice: «_Sin embargo, estaban llenos de alegría y vivían unas vidas tan nuevas y excepcionales, que todos los hombres se sentían atraídos hacia sus enseñanzas acerca de Jesús._» ([LU 194:4.6](/es/The_Urantia_Book/194#p4_6)) Fue la la alegría y las vidas únicas de estas personas y no la palabra escrita que llamó la atención sobre las enseñanzas de Jesús.
+¡La medida de nuestro fracaso es hasta qué punto tenemos que llevar el mensaje a la gente! Hablando de la primera comunidad cristiana, el libro dice: «_Sin embargo, estaban llenos de alegría y vivían unas vidas tan nuevas y excepcionales, que todos los hombres se sentían atraídos hacia sus enseñanzas acerca de Jesús._» (<a id="a43_322"></a>[LU 194:4.6](/es/The_Urantia_Book/194#p4_6)) Fue la la alegría y las vidas únicas de estas personas y no la palabra escrita que llamó la atención sobre las enseñanzas de Jesús.
 
 El profesor Huston Smith, en su libro «Las religiones del hombre», nos dice que una de las primeras observaciones escritas de un extraño sobre estos primeros cristianos fue: «Mira cómo estos cristianos se aman unos a otros». Smith dice que había dos cualidades que los distinguían: una, la tranquilidad, la sencillez y la alegría que sus oyentes no encontraban en ningún otro lugar; el segundo, una alegría que invadió sus vidas. Los extranjeros encontraron esto desconcertante porque la mayoría de ellos enfrentaban una adversidad mucho mayor que la media. Sin embargo, en todas sus pruebas se apoderaron de una paz interior que encontró expresión en un gozo casi bullicioso. Quizás radiante sería una mejor palabra, dice Smith, aunque el propio San Pablo describió esta alegría como embriagadora.
 
@@ -33,3 +57,28 @@ _El Libro de URANTIA_ nos trae el mensaje de que en todos habita el Espíritu de
 
 Seguramente esta versión del siglo XX de las «buenas nuevas» debería impactarnos al menos tanto como el evangelio del primer siglo impactó a los primeros cristianos. Y si lo hace, ¿no debería evocar el mismo tipo de alegría y causar la misma notable difusión de la Quinta Revelación de Época como lo hizo con la Cuarta Revelación de Época durante los primeros 100 años de la cristiandad? Hasta la fecha esto no es evidente. Quizás estemos perdiendo el punto en alguna parte.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ernest_Moyer/Midwayer_Communications">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comunicaciones Intermedias</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-3-mayo-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 3 Mayo de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_Mcnelly/Are_You_Ready_For_The_Urantia_Book">
+          <span class="pr-2">¿Estás preparado para El libro de Urantia?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

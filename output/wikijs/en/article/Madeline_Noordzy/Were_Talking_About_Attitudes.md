@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 12 No. 1 — February 1991"
+title: "We're Talking About Attitudes"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

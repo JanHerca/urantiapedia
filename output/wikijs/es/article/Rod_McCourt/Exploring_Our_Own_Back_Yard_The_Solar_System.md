@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Rod McCourt<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia: hacia la luz y la vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Three_Missing_Planets">
+          <span class="pr-2">Los tres planetas desaparecidos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A veces, como forma de reversión de los aspectos espirituales más profundos del _El Libro de URANTIA_, puede que no sea mala idea reflexionar sobre algunos de los aspectos científicos o cósmicos que llamaríamos astronomía.
@@ -23,7 +47,7 @@ _El Libro de URANTIA_ nos dice que se llama: MONMATIA. En qué sistema planetari
 
 La siguiente es mi propia perspectiva, después de leer las secciones correspondientes en _El Libro de URANTIA_, y nuestro conocimiento actual revelado a partir de la exploración espacial (no necesariamente actualizado, o de hecho del todo correcto; si alguien puede arrojar más luz sobre el tema, yo agradecería la información.)
 
-El origen de Monmatia es [LU 57:5.1](/es/The_Urantia_Book/57#p5_1).
+El origen de Monmatia es <a id="a49_25"></a>[LU 57:5.1](/es/The_Urantia_Book/57#p5_1).
 
 Nuestro Sistema Solar de planetas, lunas, asteroides, meteoritos, polvo espacial y todo eso, se formó cuando el sistema gigante ANGONA, cuyo centro era un gigante oscuro del espacio con una tremenda atracción gravitatoria. De hecho, lo hizo, extrayendo suficiente masa solar para iniciar la formación de un sistema planetario. Abombada en el centro y ahusada en los extremos, esta enorme corriente de materia gaseosa se transformó en los DOCE PLANETAS del sistema solar.
 
@@ -53,9 +77,9 @@ Para continuar la saga, señalaré algunos conocimientos relevantes de nuestras 
 
 Júpiter tiene 14 (?) lunas orbitando este enorme planeta gaseoso que tiene más de once veces el diámetro de la Tierra.
 
-> «...fueron en realidad unos soles secundarios. Estos dos planetas, los más grandes del sistema solar, han continuado siendo ampliamente gaseosos hasta el día de hoy, pues aún no se han enfriado todavía hasta el punto de condensarse o de solidificarse por completo.» ([LU 57:5.10](/es/The_Urantia_Book/57#p5_10))
+> «...fueron en realidad unos soles secundarios. Estos dos planetas, los más grandes del sistema solar, han continuado siendo ampliamente gaseosos hasta el día de hoy, pues aún no se han enfriado todavía hasta el punto de condensarse o de solidificarse por completo.» (<a id="a79_269"></a>[LU 57:5.10](/es/The_Urantia_Book/57#p5_10))
 
-> «Muchas de estas enormes esferas tienen satélites, a veces media docena o más, y estas lunas tienen a menudo un tamaño muy similar al de Urantia, por lo que son casi ideales para ser habitadas.» ([LU 49:0.4](/es/The_Urantia_Book/49#p0_4))
+> «Muchas de estas enormes esferas tienen satélites, a veces media docena o más, y estas lunas tienen a menudo un tamaño muy similar al de Urantia, por lo que son casi ideales para ser habitadas.» (<a id="a81_198"></a>[LU 49:0.4](/es/The_Urantia_Book/49#p0_4))
 
 Saturno tiene diez satélites, el más grande es TITAN, que es más grande que Mercurio y tiene una atmósfera que se cree que está compuesta principalmente de nitrógeno. (Relatos anteriores indicaban metano) Se ha fotografiado una vigorosa acción volcánica en una de las lunas de Júpiter llamada I-O.
 
@@ -63,21 +87,21 @@ Otras grandes lunas de Júpiter llamadas Ganímedes, Calisto y Europa parecen te
 
 Urano está inclinado a unos 90°C. a la eclíptica y tiene rotación retrógrada. Su vecino exterior, Neptuno, tiene una gran luna, Tritón, que tiene movimiento retrógrado.
 
-> «En cualquier sistema astronómico, el movimiento retrógrado siempre es accidental y aparece siempre a consecuencia del impacto debido a la colisión de cuerpos espaciales extraños. Estas colisiones no siempre producen un movimiento retrógrado, pero nunca aparece un movimiento retrógrado como no sea en un sistema que contenga unas masas de orígenes diversos.» ([LU 57:5.14](/es/The_Urantia_Book/57#p5_14))
+> «En cualquier sistema astronómico, el movimiento retrógrado siempre es accidental y aparece siempre a consecuencia del impacto debido a la colisión de cuerpos espaciales extraños. Estas colisiones no siempre producen un movimiento retrógrado, pero nunca aparece un movimiento retrógrado como no sea en un sistema que contenga unas masas de orígenes diversos.» (<a id="a89_363"></a>[LU 57:5.14](/es/The_Urantia_Book/57#p5_14))
 
 El aspecto más importante es, por supuesto, la vida en los planetas.
 
 > «Los seres tales como las razas de Urantia están clasificados como respiradores medios; representáis la orden respiradora media o típica de existencia mortal. Si existieran criaturas inteligentes en un planeta con una atmósfera similar a la de Venus, vuestro vecino más cercano, pertenecerían al grupo de los superrespiradores, mientras que los habitantes de un planeta con una atmósfera tan enrarecida como la de Marte, vuestro vecino exterior, serían denominados subrespiradores.»
 > 
-> «Si los mortales vivieran en un planeta desprovisto de aire como vuestra Luna, pertenecerían a la orden particular de los no respiradores.» (11.2% de los mundos habitados de Satania) ([LU 49:2.13-14](/es/The_Urantia_Book/49#p2_13))
+> «Si los mortales vivieran en un planeta desprovisto de aire como vuestra Luna, pertenecerían a la orden particular de los no respiradores.» (11.2% de los mundos habitados de Satania) (<a id="a95_186"></a>[LU 49:2.13-14](/es/The_Urantia_Book/49#p2_13))
 
-> «Estaríais más que interesados en la conducta planetaria de este tipo de mortales, porque una raza de seres de esta clase vive en una esfera muy cercana a Urantia.» ([LU 49:3.6](/es/The_Urantia_Book/49#p3_6))
+> «Estaríais más que interesados en la conducta planetaria de este tipo de mortales, porque una raza de seres de esta clase vive en una esfera muy cercana a Urantia.» (<a id="a97_168"></a>[LU 49:3.6](/es/The_Urantia_Book/49#p3_6))
 
 He tratado de imaginar cómo sería no respirar, contener la respiración durante largos períodos, pero eventualmente me mareo mucho. ¿Cómo se las arreglan entonces estos seres para estar mareados todo el tiempo? Si nos encontráramos con estos mortales, ¿los aceptaríamos tal como son o intentaríamos convertirlos al respiracionismo?
 
-> Satania no es un sistema físico uniforme, una unidad u organización astronómica simple. Sus 619 mundos habitados están situados en más de quinientos sistemas físicos diferentes. Sólo cinco tienen más de dos mundos habitados, y de estos cinco uno solo tiene cuatro planetas poblados, mientras que hay cuarenta y seis que tienen dos mundos habitados. ([LU 32:2.10](/es/The_Urantia_Book/32#p2_10))
+> Satania no es un sistema físico uniforme, una unidad u organización astronómica simple. Sus 619 mundos habitados están situados en más de quinientos sistemas físicos diferentes. Sólo cinco tienen más de dos mundos habitados, y de estos cinco uno solo tiene cuatro planetas poblados, mientras que hay cuarenta y seis que tienen dos mundos habitados. (<a id="a101_352"></a>[LU 32:2.10](/es/The_Urantia_Book/32#p2_10))
 
-> «En vuestro sistema solar sólo hay tres planetas en la actualidad que convienen para albergar la vida.» ([LU 15:6.15](/es/The_Urantia_Book/15#p6_15))
+> «En vuestro sistema solar sólo hay tres planetas en la actualidad que convienen para albergar la vida.» (<a id="a103_107"></a>[LU 15:6.15](/es/The_Urantia_Book/15#p6_15))
 
 Me pregunto qué tan cerca estuvimos de tener vecinos mortales en nuestro sistema planetario. Pero, por supuesto, nuestras sondas espaciales han demostrado de manera concluyente que ni siquiera existe una célula viva básica en el resto de nuestro sistema solar.
 
@@ -85,3 +109,28 @@ Personalmente, me incomoda hacer afirmaciones tan dogmáticas; ¿qué opinas?
 
 Rod McCourt, Cacatúa, Vic.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia: hacia la luz y la vida</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/The_Three_Missing_Planets">
+          <span class="pr-2">Los tres planetas desaparecidos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

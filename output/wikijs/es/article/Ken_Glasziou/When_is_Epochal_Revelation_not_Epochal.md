@@ -60,7 +60,7 @@ Los primeros cuatro de estos entran dentro de la definición de ya que cada uno 
 
 > «El Ajustador del ser humano a través del cual se transmite esta comunicación... » (<a id="a60_86"></a>[LU 110:5.7](/es/The_Urantia_Book/110#p5_7))
 
-Por lo tanto, dado que los Documentos han llegado a través de un ser humano y a través de un Ajustador del Pensamiento, parecen haberse excluido a sí mismos del estado de serpero, en cambio, parecen caer dentro de su propia definición de (<a id="a62_280"></a>[LU 101:4.3](/es/The_Urantia_Book/101#p4_3))
+Por lo tanto, dado que los Documentos han llegado a través de un ser humano y a través de un Ajustador del Pensamiento, parecen haberse excluido a sí mismos del estado de serpero, en cambio, parecen caer dentro de su propia definición de (<a id="a62_239"></a>[LU 101:4.3](/es/The_Urantia_Book/101#p4_3))
 
 Sin embargo, como se usa normalmente en el idioma inglés, el prefijosignifica mientras que el texto puede indicar que el individuo humano involucrado era simplemente un vehículo para la transferencia de información. Por lo tanto, los Documentos de Urantia pueden no cumplir con sus propias definiciones de revelación de época o autorrevelación, si se supone que esta última involucra específicamente solo a un individuo y su Ajustador del Pensamiento.
 

@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 11 No. 4 — February 1990"
+title: "From E.T. To E-3 Keeping An Open Mind On The Matter"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

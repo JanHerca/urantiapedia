@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Don Lee<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rob_Crickett/Value_For_Money">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Valor por dinero</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-3-mayo-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 3 Mayo de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tuve la suerte de estar en El Cairo, Egipto, hace dos años. Mi primer día allí tuve que pasar la mañana en el Museo de El Cairo cuando lo único que realmente quería hacer era ver las Grandes Pirámides de Giza y la Esfinge que las custodiaba. Pero estuve atrapado durante lo que iban a ser cinco horas en un almacén desordenado y apenas organizado que contenía el orgullo de 3000 años del Antiguo Egipto. «Esto es desagradable», pensé. ¿Realmente quiero pasar mi precioso tiempo en esta lúgubre sala?" Y, sin embargo, si uno quiere aprender algo sobre ese fascinante período histórico, simplemente debe ir allí. ¡Qué ventana tan extraordinaria al pasado lejano! Vaya en el sentido de las agujas del reloj y Uno comienza a tener una idea de la cronología; tal vez alguien no simplemente arrojó todas estas cosas aquí. Allí hay una exhibición notable de artefactos y estatuas de la época de aquellos constructores de pirámides Zoser, Kefrén y Mykerinos. Ellos fueron los grandes. muchachos hace mucho tiempo, cuando el Bajo Egipto gobernaba el Nilo. Continúe y detectará que la base de poder de Egipto se desplaza hacia el sur (o hacia el Alto Egipto, como se calcula el flujo del Nilo). Fue en este período medio que Egipto alcanzó quizás la mayor de sus varias edades de oro, cuando los templos de Luxor y Karnak crecieron en tamaño e importancia y los faraones fueron enterrados en el Valle de los Reyes.
@@ -25,11 +46,11 @@ Como sugirió Einstein, los grandes hombres siempre han estado asediados por men
 
 ¡Iknatón! ¡Ese es el tipo del _El Libro de URANTIA_! ¡Hablan de este gigante religioso de su época y acabo de ver la prueba aquí en la Sala 27!
 
-En efecto. _El Libro de URANTIA_ afirma que «nunca en toda la historia ningún rey procedió tan metódicamente a hacer pasar a una nación entera del politeísmo al monoteísmo como lo hizo este extraordinario Ikhnaton». ([LU 95:5.4](/es/The_Urantia_Book/95#p5_4)) El autor de Melquisedec continúa diciendo que si hubiera tenido más conocimientos políticos, Ikhnaton podría haber fundado una gran tradición monoteísta en Egipto que posiblemente podría haber culminado con el séptimo autootorgamiento de Michael que tuvo lugar allí. Oh bien.
+En efecto. _El Libro de URANTIA_ afirma que «nunca en toda la historia ningún rey procedió tan metódicamente a hacer pasar a una nación entera del politeísmo al monoteísmo como lo hizo este extraordinario Ikhnaton». (<a id="a48_217"></a>[LU 95:5.4](/es/The_Urantia_Book/95#p5_4)) El autor de Melquisedec continúa diciendo que si hubiera tenido más conocimientos políticos, Ikhnaton podría haber fundado una gran tradición monoteísta en Egipto que posiblemente podría haber culminado con el séptimo autootorgamiento de Michael que tuvo lugar allí. Oh bien.
 
 Hay dos enfoques básicos para nuestra comprensión del _Libro de URANTIA_ que, con el fin de que este ensayo funcione, llamaré fe y hecho.
 
-La fe, supongo, puede originarse como una especie de ilusión. «Creo que eso podría ser cierto, al menos eso espero». Sin embargo, la fe evolucionada es el conocimiento. Hay muchas partes del libro que le hablan al corazón, no menos que al espíritu interior. Es como si la verdad, transmitida por los autores celestiales, se encontrara con esa creciente divinidad del espíritu dentro de nosotros. Se fusionan. Intuimos, de alguna manera sabemos que es verdad. ¿Quién de nosotros no se ha sentido emocionado por un pasaje como éste: «Hay en la mente de Dios un plan que abarca a cada criatura en todos sus vastos dominios, y este plan es un propósito eterno de oportunidades ilimitadas, de progreso ilimitado y de posibilidades infinitas? vida. Y los infinitos tesoros de una carrera tan incomparable son suyos para esforzarse. ¡La meta de la eternidad está por delante! ¡La aventura del logro de la divinidad está ante ti! ¡La carrera por la perfección ha comenzado! Quien quiera podrá entrar, y una victoria segura coronará los esfuerzos de todo ser humano que corra la carrera de la fe y la confianza…» ([LU 32:5.8](/es/The_Urantia_Book/32#p5_8)) ¿Tenemos pruebas de ello? No. Pero muchos de nosotros lo hemos absorbido y aferrado por la fe.
+La fe, supongo, puede originarse como una especie de ilusión. «Creo que eso podría ser cierto, al menos eso espero». Sin embargo, la fe evolucionada es el conocimiento. Hay muchas partes del libro que le hablan al corazón, no menos que al espíritu interior. Es como si la verdad, transmitida por los autores celestiales, se encontrara con esa creciente divinidad del espíritu dentro de nosotros. Se fusionan. Intuimos, de alguna manera sabemos que es verdad. ¿Quién de nosotros no se ha sentido emocionado por un pasaje como éste: «Hay en la mente de Dios un plan que abarca a cada criatura en todos sus vastos dominios, y este plan es un propósito eterno de oportunidades ilimitadas, de progreso ilimitado y de posibilidades infinitas? vida. Y los infinitos tesoros de una carrera tan incomparable son suyos para esforzarse. ¡La meta de la eternidad está por delante! ¡La aventura del logro de la divinidad está ante ti! ¡La carrera por la perfección ha comenzado! Quien quiera podrá entrar, y una victoria segura coronará los esfuerzos de todo ser humano que corra la carrera de la fe y la confianza…» (<a id="a52_1105"></a>[LU 32:5.8](/es/The_Urantia_Book/32#p5_8)) ¿Tenemos pruebas de ello? No. Pero muchos de nosotros lo hemos absorbido y aferrado por la fe.
 
 Por otro lado, _El Libro de URANTIA_ está cargado de hechos. Somos, no para nuestro descrédito, criaturas del tiempo y el espacio y estamos poderosamente influenciados por el enfoque lógico y racional. «Pruébamelo», decimos, «y si cumple con estos criterios, lo aceptaré como cierto». Está bien. ¿No se basa el universo en el vínculo inevitable entre causa y efecto?
 
@@ -58,3 +79,25 @@ Don Lee, Seattle, WA, EE.UU.
 
 De la edición inaugural de 'ILUMINATION' Primavera de 1987.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Rob_Crickett/Value_For_Money">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Valor por dinero</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-3-mayo-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 3 Mayo de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

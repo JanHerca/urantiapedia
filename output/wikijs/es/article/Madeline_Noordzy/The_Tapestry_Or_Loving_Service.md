@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol7_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 7 Núm. 7 Septiembre de 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-7-septiembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 7 Septiembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="pr-2">Primavera: un estudio del futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Por qué le dimos este nombre al tema de la conferencia? En un tapiz hay muchos colores diferentes; Hay colores claros y oscuros, colores cálidos y fríos, colores para sombrear y colores para resaltar. Todo esto es necesario si queremos lograr un todo armonioso. Porque si no fuera por las sombras del fondo, ¿cómo podría destacarse lo más destacado del resto?
@@ -29,3 +53,28 @@ El servicio amoroso es el mejor antídoto para el estado desequilibrado del fana
 
 Madeline Noordzy
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol7_7">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 7 Núm. 7 Septiembre de 1986</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-7-septiembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 7 Septiembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Springtime_a_study_of_the_future_2">
+          <span class="pr-2">Primavera: un estudio del futuro</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Trevor_Swadling/More_On_Caligastia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre Caligastia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-3-mayo-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 3 Mayo de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Tom_Mulhall/What_Might_Have_Been">
+          <span class="pr-2">¿Qué pudo haber sido?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Maleny, Queensland_
@@ -47,3 +71,28 @@ _Referencia_
 
 Mosteller F. y D.L. Wallace «Inferencia clásica y bayesiana aplicada. El caso de los periódicos federalistas» (Springer Verlag, Nueva York, 1984)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Trevor_Swadling/More_On_Caligastia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre Caligastia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-3-mayo-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 3 Mayo de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Tom_Mulhall/What_Might_Have_Been">
+          <span class="pr-2">¿Qué pudo haber sido?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

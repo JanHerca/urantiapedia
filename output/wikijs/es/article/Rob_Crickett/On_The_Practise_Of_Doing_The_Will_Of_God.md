@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El viaje de Miguel alrededor de la Tierra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="pr-2">Urantia: hacia la luz y la vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cada uno de nosotros que hemos digerido y asimilado en algún grado las enseñanzas de _El Libro de URANTIA_, llegamos a alcanzar una claridad más allá de nuestra elevación y volumen y de la maravilla de nuestra lucidez y belleza; genialidad que fácilmente aplasta nuestro rechazo a la humildad.
@@ -31,9 +55,9 @@ A menudo podríamos especular sobre cómo otros están haciendo la voluntad de D
 
 Quizás nuestra investigación nos lleve a los registros de la Biblia. «(Enoc) caminó con Dios; y ya no existía, porque Dios se lo llevó». ([Génesis 5:24](/es/Bible/Genesis/5#v24)). «Y Elías subió al cielo en un torbellino». ([2Re 2:11](/es/Bible/2_Kings/2#v11)). «Vio que el cielo se abría y que el Espíritu descendía sobre él como una paloma. Y vino una voz del cielo: »Tú eres mi Hijo amado; en ti tengo complacencia. ([Mc 1,10,11] (/es/Bible/Mark/1#v10)). Y reflexionamos que al menos estos Hijos, entre otros de los que no tenemos registro, hicieron la fusión con el Ajustador, nuestra perfección en el hacer la voluntad de Dios, se había realizado.
 
-Y nuestras dudas emergen. Daniel, a pesar de todo su aparente cumplimiento de la voluntad de Dios, solo estaba destinado a convertirse en un sobreviviente dormido ([Da 12:13](/es/Bible/Daniel/12#v13)), «En cuanto a ti, sigue tu camino hasta el fin. Descansarás y luego, al final de los días, resucitarás para recibir la herencia que te corresponde». ¿Y qué hay de Adán y Eva, quienes eran el Ajustador que habitaba ([LU 76:5.3](/es/The_Urantia_Book/76#p5_3)), y Set, quien organizó todo un movimiento religioso ([LU 76:3.4-5](/es/The_Urantia_Book/76#p3_4)) para su pueblo: «En total, Set vivió 912 años y luego murió». ([Génesis 5:8](/es/Bible/Genesis/5#v8)). ¿Y qué pasa con los apóstoles, Abner y Rodán? ¡Parecían tener absolutamente todo a su favor! Pero no estaban fusionados aquí.
+Y nuestras dudas emergen. Daniel, a pesar de todo su aparente cumplimiento de la voluntad de Dios, solo estaba destinado a convertirse en un sobreviviente dormido ([Da 12:13](/es/Bible/Daniel/12#v13)), «En cuanto a ti, sigue tu camino hasta el fin. Descansarás y luego, al final de los días, resucitarás para recibir la herencia que te corresponde». ¿Y qué hay de Adán y Eva, quienes eran el Ajustador que habitaba (<a id="a57_416"></a>[LU 76:5.3](/es/The_Urantia_Book/76#p5_3)), y Set, quien organizó todo un movimiento religioso (<a id="a57_512"></a>[LU 76:3.4-5](/es/The_Urantia_Book/76#p3_4)) para su pueblo: «En total, Set vivió 912 años y luego murió». ([Génesis 5:8](/es/Bible/Genesis/5#v8)). ¿Y qué pasa con los apóstoles, Abner y Rodán? ¡Parecían tener absolutamente todo a su favor! Pero no estaban fusionados aquí.
 
-Con una mente que aún no está asentada en el verdadero lugar interior del conocimiento de Dios, a primera vista parece que sólo el sobrehumano, el que está en una época, esa anomalía extra especial, única y rara de una persona dotada de características anormales, es capaz de hacer efectivamente la voluntad de Dios con cualquier grado de éxito reconocido; el éxito se demuestra al escuchar esas palabras rara vez pronunciadas (al menos en la tierra): «Éste es un hijo amado en quien tengo complacencia». ([LU 47:8.4](/es/The_Urantia_Book/47#p8_4))
+Con una mente que aún no está asentada en el verdadero lugar interior del conocimiento de Dios, a primera vista parece que sólo el sobrehumano, el que está en una época, esa anomalía extra especial, única y rara de una persona dotada de características anormales, es capaz de hacer efectivamente la voluntad de Dios con cualquier grado de éxito reconocido; el éxito se demuestra al escuchar esas palabras rara vez pronunciadas (al menos en la tierra): «Éste es un hijo amado en quien tengo complacencia». (<a id="a59_506"></a>[LU 47:8.4](/es/The_Urantia_Book/47#p8_4))
 
 Sin embargo, la pregunta nos devora. Nuestra mente llega a su límite donde grita en su lucha: «¡¡¡Entonces qué tengo que hacer para hacer la voluntad de Dios?!!!» Y cada día, cada hora, la pregunta se repite y se responde. Todos los datos recopilados se revisan hasta que no queda ni un solo cabo sin remover. Pero aún así la respuesta sigue sin encontrar. No nos damos cuenta, pero todavía estamos ocupados charlando con el chef, gritando por debajo del ruido de nuestros retumbos.
 
@@ -65,7 +89,7 @@ Con demasiada frecuencia dudamos de nosotros mismos y nos apresuramos a comproba
 
 «La Biblia me lo dijo» o «Está en _El Libro de URANTIA_» simplemente no es suficiente. No es una autoridad suficientemente real cuando se trata de hacer la voluntad de Dios. Sólo Dios lo es.
 
-> «Separaos ahora; que cada uno se quede a solas con el Padre, y encuentre allí la respuesta no emotiva a mi pregunta. Una vez que hayáis descubierto la actitud verdadera y sincera de vuestra alma, expresad esa respuesta de manera franca y audaz a mi Padre y vuestro Padre, cuya vida infinita de amor es el espíritu mismo de la religión que proclamamos». ([LU 155:5.14](/es/The_Urantia_Book/155#p5_14))
+> «Separaos ahora; que cada uno se quede a solas con el Padre, y encuentre allí la respuesta no emotiva a mi pregunta. Una vez que hayáis descubierto la actitud verdadera y sincera de vuestra alma, expresad esa respuesta de manera franca y audaz a mi Padre y vuestro Padre, cuya vida infinita de amor es el espíritu mismo de la religión que proclamamos». (<a id="a91_356"></a>[LU 155:5.14](/es/The_Urantia_Book/155#p5_14))
 
 Algunos de nosotros «difundimos el evangelio» presentando a otros el _Libro de URANTIA_, pensando quizás que es la cumbre del espíritu. Y muchas veces somos testigos de cómo el alma hambrienta que está en nuestra presencia se va, sin haber recibido ningún alimento espiritual en absoluto... y nos quedamos con el _Libro de URANTIA_ abierto y un anhelo en nuestro corazón de «haber dicho lo correcto».
 
@@ -83,3 +107,28 @@ Robert Crickett, Melbourne
 
 Para salvar el mundo, simplemente ama a la persona que tienes a tu lado.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El viaje de Miguel alrededor de la Tierra</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_McBurney/Urantia_Towards_Light_Life_2">
+          <span class="pr-2">Urantia: hacia la luz y la vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

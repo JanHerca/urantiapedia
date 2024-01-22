@@ -1,5 +1,5 @@
 ---
-título: "El Libro de URANTIA dentro de 200 años"
+título: "El libro de Urantia dentro de 200 años"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Kathleen Swadling<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cajas negras, desplazamientos al rojo y big bangs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-1-de-enero-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 1 de enero de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Reincarnation_Or_Repersonalization">
+          <span class="pr-2">Reencarnación o repersonalización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Nos detenemos alguna vez a reflexionar sobre dónde estará _El Libro de URANTIA_ en un futuro relativamente no muy lejano? ¿Habrá todavía una URANTIA Brotherhood y habrá todavía grupos de estudio? Quizás el _Libro de URANTIA_ ocupe un lugar de honor en los hogares promedio de nuestra sociedad o quizás sea utilizado como libro de texto en las escuelas públicas y estatales. ¿Se convertirá en una parte integrada de la sociedad o quedará confinada a una secta religiosa o una organización de tipo sectario? Veo que podría haber dos caminos alternativos que esta revelación puede tomar y nuestras acciones hoy podrían desempeñar un papel importante a la hora de determinar qué camino tomar.
@@ -33,3 +57,28 @@ Canalicemos nuestras energías para mantener _El Libro de URANTIA_ como una expe
 
 Kathleen Swadling, Sídney
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Black_Boxes_Red_Shifts_And_Big_Bangs">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cajas negras, desplazamientos al rojo y big bangs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-1-de-enero-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 1 de enero de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Reincarnation_Or_Repersonalization">
+          <span class="pr-2">Reencarnación o repersonalización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

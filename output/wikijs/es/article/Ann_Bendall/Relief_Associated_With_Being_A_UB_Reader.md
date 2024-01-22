@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Ann Bendall<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/The_Purpose_Of_The_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El propósito de la quinta revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-2-marzo-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 2 Marzo 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/We_Too_Can_Phone_Home">
+          <span class="pr-2">Nosotros también podemos «llamar a casa»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 «Conoce la verdad y la verdad te hará libre».
@@ -41,3 +65,28 @@ Ann Bendall, Nambour, QLD
 <figcaption>Esta moneda forma parte de una serie de 50 acuñadas entre 1879 y 1915 por E.W. Cole. Fueron diseñados como tokens publicitarios, para ser utilizados en 3D. descuento en cualquier compra en “Coles Book Arcade” en Bourke Street, Melbourne.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/The_Purpose_Of_The_5th_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El propósito de la quinta revelación de época</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-2-marzo-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 2 Marzo 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Glass/We_Too_Can_Phone_Home">
+          <span class="pr-2">Nosotros también podemos «llamar a casa»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

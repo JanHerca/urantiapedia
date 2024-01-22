@@ -9,13 +9,34 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Tom Mulhall<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Further_Statistical_Investigation_Of_Writing_Styles_In_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una investigación estadística adicional sobre los estilos de escritura en El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-3-mayo-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 3 Mayo de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Tom Mulhall, Melbourne_
 
 Jesús continuó enseñando a los veinticuatro, diciendo:
 
-> «_Los paganos no están faltos de razón al estar furiosos con nosotros{9}. Como su concepto de la vida es limitado y estrecho, pueden concentrar sus energías con entusiasmo. Tienen una meta cercana y más o menos visible; por eso se esfuerzan con una destreza valiente y eficaz. Vosotros, que habéis confesado vuestra entrada en el reino de los cielos, sois en general demasiado vacilantes e imprecisos en vuestra manera de enseñar. Los paganos se dirigen directamente hacia sus objetivos; vosotros sois culpables de tener demasiados anhelos crónicos. Si deseáis entrar en el reino, ¿por qué no os apoderáis de él mediante un asalto espiritual, como los paganos se apoderan de una ciudad sitiada? Difícilmente sois dignos del reino cuando vuestro servicio consiste tan ampliamente en la actitud de lamentaros del pasado, quejaros del presente y tener una esperanza vana para el futuro. ¿Por qué están furiosos los paganos? Porque no conocen la verdad. ¿Por qué languidecéis en anhelos fútiles? Porque no *obedecéis* a la verdad. Poned fin a vuestras ansias inútiles y salid a hacer valientemente lo que está relacionado con el establecimiento del reino»._» ([LU 155:1.3](/es/The_Urantia_Book/155#p1_3))
+> «_Los paganos no están faltos de razón al estar furiosos con nosotros{9}. Como su concepto de la vida es limitado y estrecho, pueden concentrar sus energías con entusiasmo. Tienen una meta cercana y más o menos visible; por eso se esfuerzan con una destreza valiente y eficaz. Vosotros, que habéis confesado vuestra entrada en el reino de los cielos, sois en general demasiado vacilantes e imprecisos en vuestra manera de enseñar. Los paganos se dirigen directamente hacia sus objetivos; vosotros sois culpables de tener demasiados anhelos crónicos. Si deseáis entrar en el reino, ¿por qué no os apoderáis de él mediante un asalto espiritual, como los paganos se apoderan de una ciudad sitiada? Difícilmente sois dignos del reino cuando vuestro servicio consiste tan ampliamente en la actitud de lamentaros del pasado, quejaros del presente y tener una esperanza vana para el futuro. ¿Por qué están furiosos los paganos? Porque no conocen la verdad. ¿Por qué languidecéis en anhelos fútiles? Porque no *obedecéis* a la verdad. Poned fin a vuestras ansias inútiles y salid a hacer valientemente lo que está relacionado con el establecimiento del reino»._» (<a id="a38_1158"></a>[LU 155:1.3](/es/The_Urantia_Book/155#p1_3))
 
 Aunque hoy en día es en gran medida una cuestión de historia, _El Libro de URANTIA_ fue publicado en 1955 por la Fundación Urantia en Chicago. Desde entonces, han aparecido en nuestras estanterías más de treinta obras importantes de teólogos, filósofos, psicólogos y laicos relacionadas con el libro. El movimiento Urantia, que surgió principalmente a partir del libro mismo, ha dado lugar a una Iglesia floreciente, a numerosos centros de teología y filosofía en todo el mundo, a programas de reforma social demasiado numerosos para mencionarlos y ha sido llamado «...la única religión nueva en este momento». siglo para captar verdaderamente las mentes de los pueblos modernos”.
 
@@ -50,5 +71,27 @@ Como dijo un lector: «_El Libro de URANTIA_ es un libro moderno para gente mode
 
 Quizás en el futuro veamos una simpatía mayor y continua entre el Movimiento y las iglesias cristianas. Siempre una influencia unificadora, quizás su futuro sea tan inevitable y seguro como su mensaje simple y antiguo: «Ama a tu prójimo como a ti mismo». Lo que han recibido desde «arriba», los urantianos nunca han tardado en darlo libremente a sus semejantes:
 
-> «_Amaba a los hombres como hermanos, reconociendo al mismo tiempo cuánto diferían en dones innatos y en cualidades adquiridas. «Iba de un sitio para otro haciendo el bien. ... Jesús era una persona excepcionalmente alegre, pero no era un optimista ciego e irracional. Sus palabras constantes de exhortación eran: «Tened buen ánimo». Podía mantener esta actitud convencida debido a su confianza inquebrantable en Dios y a su fe férrea en los hombres. Siempre manifestaba una consideración conmovedora a todos los hombres porque los amaba y creía en ellos. Pero siempre se mantuvo fiel a sus convicciones y magníficamente firme en su consagración a hacer la voluntad de su Padre._» ([LU 100:7.8-9](/es/The_Urantia_Book/100#p7_8))
+> «_Amaba a los hombres como hermanos, reconociendo al mismo tiempo cuánto diferían en dones innatos y en cualidades adquiridas. «Iba de un sitio para otro haciendo el bien. ... Jesús era una persona excepcionalmente alegre, pero no era un optimista ciego e irracional. Sus palabras constantes de exhortación eran: «Tened buen ánimo». Podía mantener esta actitud convencida debido a su confianza inquebrantable en Dios y a su fe férrea en los hombres. Siempre manifestaba una consideración conmovedora a todos los hombres porque los amaba y creía en ellos. Pero siempre se mantuvo fiel a sus convicciones y magníficamente firme en su consagración a hacer la voluntad de su Padre._» (<a id="a73_683"></a>[LU 100:7.8-9](/es/The_Urantia_Book/100#p7_8))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/A_Further_Statistical_Investigation_Of_Writing_Styles_In_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una investigación estadística adicional sobre los estilos de escritura en El libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-3-mayo-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 3 Mayo de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

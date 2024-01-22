@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Janet Weeks<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol10_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 10 Núm. 5 Septiembre de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-5-septiembre-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 5 Septiembre de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Frank_Wright/Mediterranean_Basin">
+          <span class="pr-2">La cuenca mediterránea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Algunas reflexiones sobre el artículo de Anne Bendall, Boletín 6-0-6, mayo/junio de 1989.
@@ -21,7 +45,7 @@ Al pasar Jesús, siempre ofrecía palabras de cariño y consuelo, aliviaba la ve
 
 Los destinatarios reaccionan de diferentes maneras ante lo que se les da.
 
-Nosotros, los lectores de _El Libro de URANTIA_, tenemos diferentes reacciones ante el desarrollo de las palabras del don de la revelación que hemos recibido. ¿Nos convertimos en cruzados emocionales o reajustamos nuestras vidas de forma tranquila y personal? Se nos dice que el celo del cruzado puede ser peligroso, pero la realización del amor dentro de nosotros no puede evitar desbordarse hacia los demás. A nuestra pequeña manera, sea lo que sea de lo que seamos capaces, podemos compartir nuestro don con los demás. «El acto es nuestro; las consecuencias, de Dios». ([LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
+Nosotros, los lectores de _El Libro de URANTIA_, tenemos diferentes reacciones ante el desarrollo de las palabras del don de la revelación que hemos recibido. ¿Nos convertimos en cruzados emocionales o reajustamos nuestras vidas de forma tranquila y personal? Se nos dice que el celo del cruzado puede ser peligroso, pero la realización del amor dentro de nosotros no puede evitar desbordarse hacia los demás. A nuestra pequeña manera, sea lo que sea de lo que seamos capaces, podemos compartir nuestro don con los demás. «El acto es nuestro; las consecuencias, de Dios». (<a id="a47_573"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13))
 
 Hace algunos años admiraba y envidiaba la fuerza de la fe de un amigo. Sabía que este amigo tenía «algo» que yo no tenía. Pero tampoco llamé a esa puerta. Ese amigo me mostró la manera de tocar la puerta de Dios y yo, en cambio, llamé a la Suya. Mis necesidades estaban ahí y fueron satisfechas.
 
@@ -33,7 +57,7 @@ Extendí la mano y encontré.
 
 Quizás lo único «malo» en personas como tú y como yo, Anne, es que somos simples mortales urantianos con muchas, muchas desventajas. ¡Pero eso en sí mismo puede ser un desafío!
 
-Seguimos creciendo, seguimos buscando y todavía estamos aprendiendo. Y mientras este progreso continúa, podemos estar seguros de que «Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará». ([LU 4:4.9](/es/The_Urantia_Book/4#p4_9)), y que estamos ascendiendo hacia arriba y siempre hacia adentro, aunque sea lentamente.
+Seguimos creciendo, seguimos buscando y todavía estamos aprendiendo. Y mientras este progreso continúa, podemos estar seguros de que «Aunque yo no pueda hacer esto, alguien vive en mí que puede hacerlo y lo hará». (<a id="a59_215"></a>[LU 4:4.9](/es/The_Urantia_Book/4#p4_9)), y que estamos ascendiendo hacia arriba y siempre hacia adentro, aunque sea lentamente.
 
 Entonces, al pasar en nuestro trabajo y juego, al mostrar nuestra preocupación y amor sencillos y cotidianos hacia nuestros hermanos, esperamos y oramos para que, con el tiempo, vean que tenemos «algo» que nos falta. Sus propias vidas. Cuando se den cuenta de la necesidad, podremos mostrarles el camino a seguir llamando a la puerta de nuestro Padre. «Llama y se te abrirá, busca y encontrarás».
 
@@ -47,3 +71,28 @@ Eva Bell Werber
 
 De: «La Voz del Maestro»
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol10_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 10 Núm. 5 Septiembre de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-5-septiembre-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 5 Septiembre de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Frank_Wright/Mediterranean_Basin">
+          <span class="pr-2">La cuenca mediterránea</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

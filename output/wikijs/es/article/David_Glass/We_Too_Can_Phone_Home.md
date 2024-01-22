@@ -1,5 +1,5 @@
 ---
-título: "Nosotros también podemos “llamar a casa”"
+título: "Nosotros también podemos «llamar a casa»"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 David Glass<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alivio asociado con ser lector del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-2-marzo-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 2 Marzo 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Por qué debería E.T. ¿Ser el único en llamar a casa a través de años luz del universo? Probablemente nos sorprendería el importe de su factura telefónica. El conocimiento técnico avanzado de E.T. le permitió construir un teléfono cósmico a partir de los restos que encontró en la casa de su anfitrión. Eso requiere bastante ingenio, pero afortunadamente no necesitamos tener la capacidad avanzada para construir un sistema de comunicaciones interplanetario de este tipo. Si alguna vez intentamos comunicarnos cósmicamente, descubriremos para nuestro deleite que para llamar al Diseñador de todo el aparato conversacional del universo, el teléfono que necesitamos ya está instalado y listo para usar. No hay cargo de instalación, no hay necesidad de reparación con uso normal y no hay tarifa de activación. Incluso el gasto del receptor y del remitente queda suprimido por la preparación previa del Máster Ejecutivo de Comunicaciones. Así como descubrimos que tenemos el aparato vocal para conversar cuando éramos niños, también se nos revela que ya tenemos a nuestra disposición un sistema telefónico cósmico mucho más intrincado y diseñado críticamente.
@@ -61,3 +82,25 @@ David Glass, Fort Worth, Texas, EE. UU.
 
 De: Ese mensaje mensual de inspiración, abril de 1988
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Relief_Associated_With_Being_A_UB_Reader">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alivio asociado con ser lector del libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-2-marzo-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 2 Marzo 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

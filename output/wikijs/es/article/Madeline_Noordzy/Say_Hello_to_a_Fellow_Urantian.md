@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Trevor_Swadling/John_The_Revelator">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Juan el Revelador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-8-noviembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 8 noviembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Desde que participé en la publicación y envío por correo del 6-0-6, me he vuelto muy consciente del gran aislamiento de muchos lectores en Australia. Tienen que hacer frente a lo que Steve Shanahan llamó tan acertadamente: «La tiranía de la distancia».
@@ -31,11 +52,11 @@ Pero después de seis días de viaje fuimos recompensados cuando Leslie Thackera
 <img src="/image/article/606/distance.jpg">
 </figure>
 
-Después de una breve introducción de Leslie, leemos la primera página del Prólogo. Jim, un americano, estaba muy interesado en la evolución de las diferentes razas. De alguna manera llegamos al tema muy delicado: «La imprudente perpetuación de poblaciones racialmente degeneradas» ([LU 99:3.5](/es/The_Urantia_Book/99#p3_5)) Esto a su vez llevó al Documento 72: «El gobierno en un planeta vecino» y al tema: «Cómo lidiar con el crimen» ( [LU 72:10.1](/es/The_Urantia_Book/72#p10_1))
+Después de una breve introducción de Leslie, leemos la primera página del Prólogo. Jim, un americano, estaba muy interesado en la evolución de las diferentes razas. De alguna manera llegamos al tema muy delicado: «La imprudente perpetuación de poblaciones racialmente degeneradas» (<a id="a54_282"></a>[LU 99:3.5](/es/The_Urantia_Book/99#p3_5)) Esto a su vez llevó al Documento 72: «El gobierno en un planeta vecino» y al tema: «Cómo lidiar con el crimen» ( <a id="a54_438"></a>[LU 72:10.1](/es/The_Urantia_Book/72#p10_1))
 
 Surgieron otras preguntas: «¿Qué pasa con los extraterrestres?» Rodney, un chico de Montana, EE. UU., quería saber. Esta fue una introducción a las cuatro revelaciones de época anteriores: las enseñanzas dálamatas, Adán y Eva, Melquisedec y Jesús de Nazaret.
 
-«Eso sobre la segunda venida de Jesús, ¿qué dice _El Libro de URANIIA_ sobre eso?» fue la pregunta de Liam, un joven de Inglaterra. Entonces leemos «El regreso de Miguel» ([LU 176:4.1](/es/The_Urantia_Book/176#p4_1)) y «La segunda venida de Yaster» ([LU 176:2.1](/es/The_Urantia_Book/176#p2_1)) «¿Por qué Jesús se llamó a sí mismo el Hijo del Hombre?» ([LU 126:3.6](/es/The_Urantia_Book/126#p3_6)) «¿Quiénes son los Intermedios?» ([LU 77:0.1](/es/The_Urantia_Book/77#p0_1) & [LU 77:6.1](/es/The_Urantia_Book/77#p6_1)) Hablamos de Rodan de Alejandría. ( [LU 160:1.1](/es/The_Urantia_Book/160#p1_1) ) Presenté el tema del Ajustador del Pensamiento, cubrimos la escritura de los Evangelios ([LU 121:8.1](/es/The_Urantia_Book/121#p8_1))
+«Eso sobre la segunda venida de Jesús, ¿qué dice _El Libro de URANIIA_ sobre eso?» fue la pregunta de Liam, un joven de Inglaterra. Entonces leemos «El regreso de Miguel» (<a id="a58_172"></a>[LU 176:4.1](/es/The_Urantia_Book/176#p4_1)) y «La segunda venida de Yaster» (<a id="a58_250"></a>[LU 176:2.1](/es/The_Urantia_Book/176#p2_1)) «¿Por qué Jesús se llamó a sí mismo el Hijo del Hombre?» (<a id="a58_353"></a>[LU 126:3.6](/es/The_Urantia_Book/126#p3_6)) «¿Quiénes son los Intermedios?» (<a id="a58_431"></a>[LU 77:0.1](/es/The_Urantia_Book/77#p0_1) & <a id="a58_475"></a>[LU 77:6.1](/es/The_Urantia_Book/77#p6_1)) Hablamos de Rodan de Alejandría. ( <a id="a58_553"></a>[LU 160:1.1](/es/The_Urantia_Book/160#p1_1) ) Presenté el tema del Ajustador del Pensamiento, cubrimos la escritura de los Evangelios (<a id="a58_688"></a>[LU 121:8.1](/es/The_Urantia_Book/121#p8_1))
 
 Tuvimos una audiencia muy interesada. Tres personas tenían la intención de abandonar Australia en un futuro próximo y querían unirse a grupos de estudio en el país al que regresaban. Tanya quería visitar la escuela Boulder. Les aconsejamos que se pusieran en contacto con Chicago. Las semillas fueron plantadas.
 
@@ -79,3 +100,25 @@ La próxima vez que estés de gira por Australia, ¿por qué no dices
 
 Madeline Noordzy
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Trevor_Swadling/John_The_Revelator">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Juan el Revelador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-8-noviembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 8 noviembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

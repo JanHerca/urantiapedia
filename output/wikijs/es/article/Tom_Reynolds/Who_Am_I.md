@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Tom Reynolds<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Australia_A_Pagan_Country_A_Rejoinder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Australia: ¿un país pagano? Una réplica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-6-julio-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 6 Julio de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En un polo de mi ser, soy uno con el mundo físico de la realidad. El otro polo de mi ser está separado de todo. Estoy solo. Yo soy yo"! ¡Soy incomparable, único!
@@ -33,3 +54,25 @@ No son tanto las posesiones que tenemos, ya sean materiales, mentales o espiritu
 
 Tom Reynolds, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/Australia_A_Pagan_Country_A_Rejoinder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Australia: ¿un país pagano? Una réplica</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-6-julio-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 6 Julio de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

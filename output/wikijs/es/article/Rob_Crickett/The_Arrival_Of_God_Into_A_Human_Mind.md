@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 Robert Crickett<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Misinformation_In_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Información errónea en El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-2-marzo-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 2 Marzo 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Weeks/Ingredients_For_Problem_Solving">
+          <span class="pr-2">Ingredientes para la resolución de problemas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Cuando tenía cinco años, nuestros padres llevaron a mi hermano de seis años y a mí a una de las iglesias de nuestro pequeño pueblo rural. El asesor profesional de mi padre le había dicho a mi madre que yo iba a crecer para ser ministro: «Así que exponlo a la iglesia, ¿no?». ... y eso fue lo que hizo, con bastante celo.
@@ -77,5 +101,30 @@ Pasarían unos dieciocho años más tarde cuando encontré un Libro de URANTIA y
 
 Robert Crickett, Melbourne
 
-> «Hay una realidad en la experiencia religiosa que es proporcional al contenido espiritual, y tal realidad es trascendente a la razón, la ciencia, la filosofía, la sabiduría y todos los demás logros humanos. Las convicciones de tal experiencia son incuestionables; la lógica de la vida religiosa es incontrovertible; la certeza de tal conocimiento es sobrehumana; las satisfacciones son magníficamente divinas, el coraje indomable, las devociones incuestionables, las lealtades supremas y los destinos definitivos: eternos, últimos y universales». [LU 103:9.12](/es/The_Urantia_Book/103#p9_12)
+> «Hay una realidad en la experiencia religiosa que es proporcional al contenido espiritual, y tal realidad es trascendente a la razón, la ciencia, la filosofía, la sabiduría y todos los demás logros humanos. Las convicciones de tal experiencia son incuestionables; la lógica de la vida religiosa es incontrovertible; la certeza de tal conocimiento es sobrehumana; las satisfacciones son magníficamente divinas, el coraje indomable, las devociones incuestionables, las lealtades supremas y los destinos definitivos: eternos, últimos y universales». <a id="a103_549"></a>[LU 103:9.12](/es/The_Urantia_Book/103#p9_12)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Misinformation_In_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Información errónea en El libro de Urantia?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-2-marzo-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 2 Marzo 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Janet_Weeks/Ingredients_For_Problem_Solving">
+          <span class="pr-2">Ingredientes para la resolución de problemas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

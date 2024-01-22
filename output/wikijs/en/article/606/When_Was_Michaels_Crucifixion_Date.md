@@ -1,5 +1,5 @@
 ---
-title: "Six-0-Six Newsletter — Volume 8 No. 2 — March 1987"
+title: "When Was Michael's Crucifixion Date?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

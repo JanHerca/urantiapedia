@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ron_Cyr/Spiritual_Vision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visión Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="pr-2">¿El fin justifica alguna vez medios indignos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Es un gran placer anunciar la Conferencia Australiana de 1993 para lectores de El Libro de URANTIA.
@@ -35,7 +59,7 @@ De esta manera, y sin duda de muchas otras, Jesús resolvió los conflictos ordi
 
 Se nos pide que hagamos lo mismo.
 
-> «_así pues, si queréis participar sinceramente en la carrera del tiempo y alcanzar la meta final de la fe, la recompensa de los siglos será vuestra;_» ([LU 112:0.1](/es/The_Urantia_Book/112#p0_1))
+> «_así pues, si queréis participar sinceramente en la carrera del tiempo y alcanzar la meta final de la fe, la recompensa de los siglos será vuestra;_» (<a id="a61_154"></a>[LU 112:0.1](/es/The_Urantia_Book/112#p0_1))
 
 ## El tiempo
 
@@ -71,3 +95,28 @@ Sunnybank, 4109, Queensland, Australia.
 <img src="/image/article/606/maps.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ron_Cyr/Spiritual_Vision">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Visión Espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Does_The_End_Ever_Justify_Unworthy_Means">
+          <span class="pr-2">¿El fin justifica alguna vez medios indignos?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

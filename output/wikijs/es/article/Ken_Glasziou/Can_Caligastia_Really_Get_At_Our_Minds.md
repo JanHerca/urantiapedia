@@ -9,13 +9,34 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Cuerpo de Mujeres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-1-de-enero-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 1 de enero de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Maleny, Queensland_
 
-En primer lugar, déjame decirte claramente que no lo sé. Hasta hace poco mi reacción a esta pregunta ha sido: «No, no es probable». Después de todo, _El Libro de URANTIA_ nos dice que desde la cruz de Cristo, Caligastia ha sido comparativamente impotente ([LU 53:8.9](/es/The_Urantia_Book/53#p8_9)). Además de eso, tenemos asegurada la supervivencia siempre que no la rechacemos deliberada y conscientemente, e incluso entonces tenemos que aceptar nuestra propia aniquilación. Luego tenemos otra declaración que dice:
+En primer lugar, déjame decirte claramente que no lo sé. Hasta hace poco mi reacción a esta pregunta ha sido: «No, no es probable». Después de todo, _El Libro de URANTIA_ nos dice que desde la cruz de Cristo, Caligastia ha sido comparativamente impotente (<a id="a36_256"></a>[LU 53:8.9](/es/The_Urantia_Book/53#p8_9)). Además de eso, tenemos asegurada la supervivencia siempre que no la rechacemos deliberada y conscientemente, e incluso entonces tenemos que aceptar nuestra propia aniquilación. Luego tenemos otra declaración que dice:
 
-> «_El único medio de comulgar con el mundo espiritual está incluido en la dotación espiritual de la humanidad, el espíritu interior del Padre, junto con el espíritu derramado por el Hijo y la influencia omnipresente del Espíritu Infinito._» ([LU 150:3.7](/es/The_Urantia_Book/150#p3_7))
+> «_El único medio de comulgar con el mundo espiritual está incluido en la dotación espiritual de la humanidad, el espíritu interior del Padre, junto con el espíritu derramado por el Hijo y la influencia omnipresente del Espíritu Infinito._» (<a id="a38_243"></a>[LU 150:3.7](/es/The_Urantia_Book/150#p3_7))
 
 Esa palabra «sólo» es tremendamente importante. Implica que si Caligastia, quien presumiblemente es un espíritu, quiere atacarnos, debe ser indirectamente a través de nuestra dotación del Espíritu interior; en realidad, nuestra primera línea de defensa contra él.
 
@@ -27,13 +48,13 @@ Ernest Moyer, en su Boletín Urantia nº 2, destacó la posibilidad de que mucho
 
 Si afrontamos los hechos, el movimiento Urantia es un fracaso estrepitoso. ¿Podría Ernest tener razón? ¿Caligastia tiene el movimiento por la garganta y, de ser así, cómo sucedió? No conozco a ningún lector que, a sabiendas, invitara a Caligastia a sus vidas, ni siquiera algunos cuyas acciones (en mi opinión) hayan sido enormemente perturbadoras y dañinas. Entonces, ¿cómo pudo haber sucedido? Esa pregunta me llevó de regreso a la sección de El Libro de URANTIA sobre cómo Caligastia logró llegar a Eva.
 
-Allí se nos recuerda que ni Caligastia ni Dalagastia tenían poder alguno para influir en un individuo en contra de su voluntad ([LU 75:2.1](/es/The_Urantia_Book/75#p2_1)). Todos sus intentos directos de engañar a Adán, Eva o sus hijos fracasaron. De modo que Caligastia concluyó que su única esperanza de éxito residía en el empleo hábil de personas adecuadas pertenecientes a los estratos superiores del grupo nodita. ¿Cómo pudo hacerlo? Era visible para Adán y Eva y podía comunicarse directamente con ellos, pero no con estos noditas. Los dos noditas que provocaron la caída de Eva fueron Serapatatia y Cano. El primero es descrito como profundamente impresionado con la justicia de la causa de Adán, enteramente honesto y completamente sincero en todas sus actividades y «_nunca consciente, incluso más tarde, de que estaba siendo utilizado como una herramienta circunstancial del astuto Caligastia_». ([LU 75:3.3](/es/The_Urantia_Book/75#p3_3))
+Allí se nos recuerda que ni Caligastia ni Dalagastia tenían poder alguno para influir en un individuo en contra de su voluntad (<a id="a50_128"></a>[LU 75:2.1](/es/The_Urantia_Book/75#p2_1)). Todos sus intentos directos de engañar a Adán, Eva o sus hijos fracasaron. De modo que Caligastia concluyó que su única esperanza de éxito residía en el empleo hábil de personas adecuadas pertenecientes a los estratos superiores del grupo nodita. ¿Cómo pudo hacerlo? Era visible para Adán y Eva y podía comunicarse directamente con ellos, pero no con estos noditas. Los dos noditas que provocaron la caída de Eva fueron Serapatatia y Cano. El primero es descrito como profundamente impresionado con la justicia de la causa de Adán, enteramente honesto y completamente sincero en todas sus actividades y «_nunca consciente, incluso más tarde, de que estaba siendo utilizado como una herramienta circunstancial del astuto Caligastia_». (<a id="a50_907"></a>[LU 75:3.3](/es/The_Urantia_Book/75#p3_3))
 
 Cano era el otro nodita involucrado con Eva. Se le describe como de mente brillante, comprensivo con el régimen adámico, el líder espiritual sincero de los noditas que favorecía las relaciones amistosas con el Jardín. Ninguno de los dos parece ser agentes preparados para Caligastia.
 
 La podredumbre comenzó cuando:
 
-> «...Un día, durante una conversación con Eva, a Serapatatia se le ocurrió que mientras esperaban el reclutamiento de una gran cantidad de representantes de la raza violeta, sería muy beneficioso que entretanto se pudiera hacer algo por el progreso inmediato de las tribus necesitadas que aguardaban.» ([LU 75:3.5](/es/The_Urantia_Book/75#p3_5))
+> «...Un día, durante una conversación con Eva, a Serapatatia se le ocurrió que mientras esperaban el reclutamiento de una gran cantidad de representantes de la raza violeta, sería muy beneficioso que entretanto se pudiera hacer algo por el progreso inmediato de las tribus necesitadas que aguardaban.» (<a id="a56_304"></a>[LU 75:3.5](/es/The_Urantia_Book/75#p3_5))
 
 Se propuso como solución un líder híbrido de Nodite y violeta. Cano, el nodita, y Eva, de raza violeta, se hicieron nombrar padres.
 
@@ -45,9 +66,9 @@ Entre nosotros, los mortales, los líderes suelen provenir de uno de dos grupos.
 
 ¿Es posible que el anhelo de ser importante, el anhelo de reconocimiento entre nuestros pares, de ser un maestro o un líder, o de ser alguien especial (en realidad, un viaje al ego, sin importar cómo disfrazemos nuestros motivos ante nosotros mismos), pueda ser ¿Lo suficiente como para abrir nuestra mente a Caligastia?
 
-El anhelo profundamente arraigado de ser de alguna manera sobresaliente, ¿no es esta la enfermedad de autoexaltación de Lucifer ([LU 67:1.2](/es/The_Urantia_Book/67#p1_2)) que posteriormente puede conducir a una voluntad propia desenfrenada, una autoexpresión descontrolada y un egoísmo absoluto ([LU 54:1.5](/es/The_Urantia_Book/54#p1_5))? ¿Cuántas veces hemos visto esta enfermedad seguir su curso completo en los líderes políticos? ¿Tales aspiraciones de egoísmo en Serapatatia y Cano dieron como resultado que inconscientemente abrieran sus mentes a la manipulación por parte de Caligastia? Ninguna otra conclusión es obvia a partir de la evidencia escrita en _El Libro de URANTIA_. Si es así, el orgullo egoísta puede ser la única clave necesaria para volvernos vulnerables a las artimañas de Caligastia. El libro tiene una advertencia para nosotros. Dice:
+El anhelo profundamente arraigado de ser de alguna manera sobresaliente, ¿no es esta la enfermedad de autoexaltación de Lucifer (<a id="a68_129"></a>[LU 67:1.2](/es/The_Urantia_Book/67#p1_2)) que posteriormente puede conducir a una voluntad propia desenfrenada, una autoexpresión descontrolada y un egoísmo absoluto (<a id="a68_297"></a>[LU 54:1.5](/es/The_Urantia_Book/54#p1_5))? ¿Cuántas veces hemos visto esta enfermedad seguir su curso completo en los líderes políticos? ¿Tales aspiraciones de egoísmo en Serapatatia y Cano dieron como resultado que inconscientemente abrieran sus mentes a la manipulación por parte de Caligastia? Ninguna otra conclusión es obvia a partir de la evidencia escrita en _El Libro de URANTIA_. Si es así, el orgullo egoísta puede ser la única clave necesaria para volvernos vulnerables a las artimañas de Caligastia. El libro tiene una advertencia para nosotros. Dice:
 
-> «_De todos los peligros que acechan a la naturaleza mortal del hombre y ponen en peligro su integridad espiritual, el orgullo es el peor._» ([LU 111:6.9](/es/The_Urantia_Book/111#p6_9))
+> «_De todos los peligros que acechan a la naturaleza mortal del hombre y ponen en peligro su integridad espiritual, el orgullo es el peor._» (<a id="a70_143"></a>[LU 111:6.9](/es/The_Urantia_Book/111#p6_9))
 
 ¿Podría haber un punto en el que nuestra voluntad propia se vuelva tan dominante que nuestro Ajustador del Pensamiento ya no pueda influenciarnos y entonces nos abramos a las artimañas de Caligastia? Es perfectamente concebible que así fuera sin que tuviéramos la más mínima conciencia de lo sucedido.
 
@@ -63,9 +84,31 @@ Necesitamos repensar seriamente cómo sería posible que caigamos en las garras 
 
 En _El Libro de URANTIA_ tenemos un relato detallado de la vida y las enseñanzas de Jesús para iluminarnos el camino. Se nos dice que Jesús fue una revelación de Dios. Se nos dice que cuando Ganid tentó a Jesús para que se presentara como maestro y líder, él respondió:
 
-> «_Ahora estoy camino de Roma con tu padre y contigo, y esto es suficiente por hoy. Mi mañana esta enteramente en las manos de mi Padre celestial._» ([LU 130:5.3](/es/The_Urantia_Book/130#p5_3))
+> «_Ahora estoy camino de Roma con tu padre y contigo, y esto es suficiente por hoy. Mi mañana esta enteramente en las manos de mi Padre celestial._» (<a id="a86_151"></a>[LU 130:5.3](/es/The_Urantia_Book/130#p5_3))
 
 Jesús nunca tuvo prisa. Siempre tenía tiempo para consolar a los hombres «al pasar». Era un oyente encantador. Consoló las mentes hambrientas y ministró a las almas sedientas. Sin duda, ese servicio personal, amoroso y desinteresado es la verdadera tarea que la Quinta Revelación de Época nos ha encomendado a cada uno de nosotros. Cuando el cristianismo arrasó el Imperio Romano, uno de los principales catalizadores quedó consagrado en este comentario de un observador desconocido: «Mira cómo esos cristianos se aman unos a otros».
 
-¿Se puede decir lo mismo del movimiento Urantia? Yo creo que no. ¿Cuántos han reflexionado sobre la profundidad del significado para ellos mismos de esas extrañas palabras de las bienaventuranzas que son tan contrarias a las aspiraciones naturales de los humanos de ser prominentes: «Felices los pobres de espíritu, los humildes, porque de ellos son los tesoros de los Reino de los cielos. Felices los mansos, porque ellos heredarán la tierra. Felices los pacificadores, porque serán llamados hijos de Dios». Considerado desde esta perspectiva, ¿cuántos lectores del Libro de URANTIA realmente creen que califican? El secreto de la incomparable vida religiosa de Jesús fue su conciencia de la presencia de Dios, no de una entidad espiritual esotérica fuera de este mundo. Jesús alcanzó esta conciencia mediante la oración inteligente y la adoración sincera (comunión ininterrumpida con Dios) y no mediante indicaciones, voces, visiones o prácticas religiosas extraordinarias ([LU 196:0.10](/es/The_Urantia_Book/196#p0_10)). Su consejo para nosotros hoy bien podría ser el que está registrado en la Biblia: «Ve tú y haz lo mismo».
+¿Se puede decir lo mismo del movimiento Urantia? Yo creo que no. ¿Cuántos han reflexionado sobre la profundidad del significado para ellos mismos de esas extrañas palabras de las bienaventuranzas que son tan contrarias a las aspiraciones naturales de los humanos de ser prominentes: «Felices los pobres de espíritu, los humildes, porque de ellos son los tesoros de los Reino de los cielos. Felices los mansos, porque ellos heredarán la tierra. Felices los pacificadores, porque serán llamados hijos de Dios». Considerado desde esta perspectiva, ¿cuántos lectores del Libro de URANTIA realmente creen que califican? El secreto de la incomparable vida religiosa de Jesús fue su conciencia de la presencia de Dios, no de una entidad espiritual esotérica fuera de este mundo. Jesús alcanzó esta conciencia mediante la oración inteligente y la adoración sincera (comunión ininterrumpida con Dios) y no mediante indicaciones, voces, visiones o prácticas religiosas extraordinarias (<a id="a90_976"></a>[LU 196:0.10](/es/The_Urantia_Book/196#p0_10)). Su consejo para nosotros hoy bien podría ser el que está registrado en la Biblia: «Ve tú y haz lo mismo».
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Cuerpo de Mujeres</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-1-de-enero-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 1 de enero de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

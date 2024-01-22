@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Ken Glasziou<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Before_The_Cock_Crows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Antes que el gallo cante...»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-1-de-enero-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 1 de enero de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Harris/Do_We_Have_Any_Idea_Its_A_Debatable_Point">
+          <span class="pr-2">¿Tenemos alguna idea? Es un punto discutible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Ken Glasziou, Maleny, Queensland_
@@ -19,7 +43,7 @@ El número de correcciones realizadas desde la primera impresión supera el cent
 
 Por ejemplo, en la página 477, párrafo 1, la primera impresión decía:
 
-> «_Cada átomo tiene un diámetro ligeramente superior a 1/4.000.000 de milímetro, mientras que un electrón pesa un poco más que la 1/2.000 parte del átomo más pequeño, el hidrógeno. El protón positivo, característico del núcleo atómico, aunque puede no ser más grande que un electrón negativo, pesa casi dos mil veces más._» ([LU 42:6.7](/es/The_Urantia_Book/42#p6_7))
+> «_Cada átomo tiene un diámetro ligeramente superior a 1/4.000.000 de milímetro, mientras que un electrón pesa un poco más que la 1/2.000 parte del átomo más pequeño, el hidrógeno. El protón positivo, característico del núcleo atómico, aunque puede no ser más grande que un electrón negativo, pesa casi dos mil veces más._» (<a id="a45_326"></a>[LU 42:6.7](/es/The_Urantia_Book/42#p6_7))
 
 En la segunda impresión y en las posteriores, la redacción se cambió a «_un electrón pesa un poco más de 1/2000..._» y «_pesa casi dos mil veces más_».
 
@@ -31,27 +55,27 @@ Hay al menos once cambios textuales que parecen haber sido intentos de corregir 
 
 Estos son:
 
-[LU 0:1.24](/es/The_Urantia_Book/0#p1_24), «otro» eliminado de «todas las demás manifestaciones»
+<a id="a57_0"></a>[LU 0:1.24](/es/The_Urantia_Book/0#p1_24), «otro» eliminado de «todas las demás manifestaciones»
 
-[LU 37:8.3](/es/The_Urantia_Book/37#p8_3), «secundario» cambió a «terciario»
+<a id="a59_0"></a>[LU 37:8.3](/es/The_Urantia_Book/37#p8_3), «secundario» cambió a «terciario»
 
-[LU 41:4.4](/es/The_Urantia_Book/41#p4_4), «sesenta» cambió a «cuarenta»
+<a id="a61_0"></a>[LU 41:4.4](/es/The_Urantia_Book/41#p4_4), «sesenta» cambió a «cuarenta»
 
-[LU 42:6.7](/es/The_Urantia_Book/42#p6_7), «menos» cambió a «más»
+<a id="a63_0"></a>[LU 42:6.7](/es/The_Urantia_Book/42#p6_7), «menos» cambió a «más»
 
-[LU 42:6.7](/es/The_Urantia_Book/42#p6_7), «de dos a tres» cambió a «casi»
+<a id="a65_0"></a>[LU 42:6.7](/es/The_Urantia_Book/42#p6_7), «de dos a tres» cambió a «casi»
 
-[LU 42:7.7](/es/The_Urantia_Book/42#p7_7), «casi» agregado antes de «instantáneo»
+<a id="a67_0"></a>[LU 42:7.7](/es/The_Urantia_Book/42#p7_7), «casi» agregado antes de «instantáneo»
 
-[LU 53:7.8](/es/The_Urantia_Book/53#p7_8), «681,227» cambió a «681,217» (para estar de acuerdo con la p. 581 - 13 más 681,204 'Adams')
+<a id="a69_0"></a>[LU 53:7.8](/es/The_Urantia_Book/53#p7_8), «681,227» cambió a «681,217» (para estar de acuerdo con la p. 581 - 13 más 681,204 'Adams')
 
-[LU 79:5.2](/es/The_Urantia_Book/79#p5_2), «oeste» cambió a «este»
+<a id="a71_0"></a>[LU 79:5.2](/es/The_Urantia_Book/79#p5_2), «oeste» cambió a «este»
 
-[LU 119:7.6](/es/The_Urantia_Book/119#p7_6), «en el pesebre» eliminado de «niño recién nacido en el pesebre»
+<a id="a73_0"></a>[LU 119:7.6](/es/The_Urantia_Book/119#p7_6), «en el pesebre» eliminado de «niño recién nacido en el pesebre»
 
-[LU 168:3.4](/es/The_Urantia_Book/168#p3_4), «día» cambió a «semana»
+<a id="a75_0"></a>[LU 168:3.4](/es/The_Urantia_Book/168#p3_4), «día» cambió a «semana»
 
-[LU 179:5.2](/es/The_Urantia_Book/179#p5_2), «doce» cambiado a «apóstoles»
+<a id="a77_0"></a>[LU 179:5.2](/es/The_Urantia_Book/179#p5_2), «doce» cambiado a «apóstoles»
 
 De acuerdo con mi amigo síndico jubilado, creo que es imperativo que todos estos cambios se devuelvan al texto original. Si son errores genuinos de los reveladores, que así sea. Los reveladores no pretendieron ser infalibles. Tampoco puedo concebir ninguna razón válida para corregir supuestos errores gramaticales atribuibles a los reveladores.
 
@@ -63,3 +87,28 @@ Dejaré a los lectores conciliar mis comentarios con la siguiente declaración d
 <img src="/image/article/606/arch.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Before_The_Cock_Crows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Antes que el gallo cante...»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-1-de-enero-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 1 de enero de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Harris/Do_We_Have_Any_Idea_Its_A_Debatable_Point">
+          <span class="pr-2">¿Tenemos alguna idea? Es un punto discutible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

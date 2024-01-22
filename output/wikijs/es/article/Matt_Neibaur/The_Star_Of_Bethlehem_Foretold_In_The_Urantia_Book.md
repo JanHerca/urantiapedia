@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 10 No. 6 - Noviembre de 1989"
+título: "¿La estrella de Belén predicha en el libro de Urantia?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Matt Neibaur<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Report_On_Noosa_89">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe sobre Noosa '89</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-6-noviembre-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 6 noviembre de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La religión y la ciencia llevan mucho tiempo reflexionando sobre las cuestiones planteadas por la Estrella de Belén. Abundan las teorías. Se han invocado supernovas, cometas, conjunciones planetarias y lo milagroso. Algunos incluso se preguntan si el evento ocurrió alguna vez, y mucho menos cuántos reyes magos.
@@ -25,7 +46,7 @@ Esta idea no es dramática para los astrónomos, pero sí intrigante para los le
 
 «A estos sacerdotes de Mesopotamia les había dicho algún tiempo antes un extraño maestro religioso de su país que había tenido un sueño en el que se le informaba que “la luz de la vida» estaba a punto de aparecer en la tierra como un bebé y entre los judíos. Y allí fueron estos tres maestros buscando esta «luz de la vida». Después de muchas semanas de búsqueda inútil en Jerusalén, estaban a punto de regresar a Ur cuando Zacarías los encontró y les reveló su creencia de que Jesús era el objeto de su búsqueda y los envió. Luego se dirigieron a Belén, donde encontraron al bebé y dejaron sus regalos a María, su madre tierra. El bebé tenía casi tres semanas en el momento de su visita.
 
-Estos reyes magos no vieron ninguna estrella que los guiara a Belén. La hermosa leyenda de la estrella de Belén se originó de esta manera: Jesús nació el 21 de agosto al mediodía del año 7 a.C. El 29 de mayo del año 7 a.C. se produjo una conjunción extraordinaria de Júpiter y Saturno en la constelación de Piscis. Y es un hecho astronómico notable que conjunciones similares ocurrieron el 29 de septiembre y el 5 de diciembre del mismo año. Sobre la base de estos acontecimientos extraordinarios pero totalmente naturales, los fanáticos bien intencionados de la generación siguiente construyeron la atractiva leyenda de la estrella de Belén. y los Magos adoradores... (_El Libro de URANTIA_ [LU 122:8.7](/es/The_Urantia_Book/122#p8_7))
+Estos reyes magos no vieron ninguna estrella que los guiara a Belén. La hermosa leyenda de la estrella de Belén se originó de esta manera: Jesús nació el 21 de agosto al mediodía del año 7 a.C. El 29 de mayo del año 7 a.C. se produjo una conjunción extraordinaria de Júpiter y Saturno en la constelación de Piscis. Y es un hecho astronómico notable que conjunciones similares ocurrieron el 29 de septiembre y el 5 de diciembre del mismo año. Sobre la base de estos acontecimientos extraordinarios pero totalmente naturales, los fanáticos bien intencionados de la generación siguiente construyeron la atractiva leyenda de la estrella de Belén. y los Magos adoradores... (_El Libro de URANTIA_ <a id="a48_692"></a>[LU 122:8.7](/es/The_Urantia_Book/122#p8_7))
 
 A continuación se presentan las diferencias tabuladas en las fechas:
 
@@ -68,3 +89,25 @@ Los lectores de esta obra del Dr. Neibaur deben decidir por sí mismos si permit
 > _Nota del editor_: Este es sólo uno de los muchos artículos interesantes disponibles en la Biblioteca de la Hermandad del Hombre. Para obtener más información sobre este excelente servicio, comuníquese con: Ken Glasziou, Stanley River Rd, Maleny, QLD. 4552.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Report_On_Noosa_89">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe sobre Noosa '89</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-6-noviembre-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 6 noviembre de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Caligastias_Visit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡La visita de Caligastia!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-1-de-enero-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 1 de enero de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/Were_Talking_About_Attitudes">
+          <span class="pr-2">Estamos hablando de actitudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A todas nuestras queridas creaciones caminando sobre el hermoso planeta Tierra:
@@ -64,3 +88,28 @@ Sigo siendo, como el «Guardián de la Verdad» GABRIEL, Arcángel del Reino, y 
 <img src="/image/article/606/icon.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Caligastias_Visit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¡La visita de Caligastia!</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-1-de-enero-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 1 de enero de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/Were_Talking_About_Attitudes">
+          <span class="pr-2">Estamos hablando de actitudes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

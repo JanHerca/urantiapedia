@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Ken Glasziou<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/International_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Internacional</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-4-julio-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 4 Julio de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Are_You_Lonesome_Tonight_2">
+          <span class="pr-2">¿Estas solo esta noche?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -24,7 +48,7 @@ Después del shock inicial, el mundo académico se dispuso a barrer a Gödel baj
 
 Sin duda, esta exposición resulta aburrida para muchos, probablemente la mayoría, de los lectores. Sin embargo, no es necesario digerir su contenido, salvo reconocer que ni siquiera los mejores cerebros matemáticos y lógicos entre nosotros han podido proporcionar pruebas rigurosas ni siquiera de los axiomas de la aritmética simple. Por lo tanto, la lección para todos nosotros es que somos sumamente ingenuos acerca de lo que constituye una prueba, y que necesitamos mucho afinar nuestras facultades críticas con respecto a lo que aceptamos como un hecho, o las opiniones que promovemos ante otros como hechos concluyentemente probados, una punto al que la carta de Tony ha hecho un llamamiento convincente. _El Libro de URANTIA_ nos ha proporcionado mucha sabiduría sobre este tema. Los artículos llegaron en un momento en que nuestros matemáticos consideraban que su disciplina era la más rigurosa de todas, pero el Documento 103 apenas hizo caso a su orgullo al referirse a «las aproximaciones de las matemáticas». El mismo artículo nos dice que,
 
-> «_En el estado mortal ***no hay nada*** que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones. En el nivel morontial, los postulados de la ciencia y de la religión se pueden probar parcialmente mediante la lógica de la mota. En el nivel espiritual representado por el estado máximo, la necesidad de una prueba finita se desvanece gradualmente ante la experiencia efectiva de, y con, la realidad; pero incluso entonces existen muchas cosas más allá de lo finito que permanecen sin poderse probar._» ([LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
+> «_En el estado mortal ***no hay nada*** que se pueda probar de manera absoluta; tanto la ciencia como la religión están basadas en suposiciones. En el nivel morontial, los postulados de la ciencia y de la religión se pueden probar parcialmente mediante la lógica de la mota. En el nivel espiritual representado por el estado máximo, la necesidad de una prueba finita se desvanece gradualmente ante la experiencia efectiva de, y con, la realidad; pero incluso entonces existen muchas cosas más allá de lo finito que permanecen sin poderse probar._» (<a id="a50_551"></a>[LU 103:7.10](/es/The_Urantia_Book/103#p7_10))
 
 Este artículo también nos recuerda nuestra necesidad de búsqueda y autocrítica valiente, y de una mayor conciencia de lo incompleto y del estado evolutivo de nuestro conocimiento. También se comenta que a menudo somos demasiado seguros de nosotros mismos y dogmáticos.
 
@@ -40,10 +64,35 @@ _El Libro de URANTIA_ nos informa que todos tenemos los dones necesarios para el
 
 1. «La razón es válida: el universo puede ser comprendido».
 2. «La sabiduría es válida: el universo material puede coordinarse con el espiritual». Y del Ajustador del Pensamiento recibimos el conocimiento inherente de que:
-3. «La fe es válida: Dios puede ser conocido y alcanzado» ([LU 103:9.8](/es/The_Urantia_Book/103#p9_8)).
+3. «La fe es válida: Dios puede ser conocido y alcanzado» (<a id="a66_59"></a>[LU 103:9.8](/es/The_Urantia_Book/103#p9_8)).
 
-Nuevamente esto es revelación, la prueba es irrelevante. Nuestra voluntad de aceptar estos regalos y creer en ellos tiene el resultado directo de que vivimos vidas motivadas por la verdad y dominadas por el amor ([LU 103:9.9](/es/The_Urantia_Book/103#p9_9)). Y este es el viaje personal al que Tony se ha referido al final de su absorbente carta.
+Nuevamente esto es revelación, la prueba es irrelevante. Nuestra voluntad de aceptar estos regalos y creer en ellos tiene el resultado directo de que vivimos vidas motivadas por la verdad y dominadas por el amor (<a id="a68_213"></a>[LU 103:9.9](/es/The_Urantia_Book/103#p9_9)). Y este es el viaje personal al que Tony se ha referido al final de su absorbente carta.
 
 **Ken Glasziou**
 **Maleny, Queensland**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/International_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia Internacional</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-4-julio-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 4 Julio de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Are_You_Lonesome_Tonight_2">
+          <span class="pr-2">¿Estas solo esta noche?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

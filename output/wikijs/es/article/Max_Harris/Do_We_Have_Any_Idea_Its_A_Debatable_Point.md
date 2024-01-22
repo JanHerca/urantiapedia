@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 Max Harris<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Should_The_Original_Text_Have_Been_Altered">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Debería haberse modificado el texto original?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-1-de-enero-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 1 de enero de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lee_Lester/Keep_The_Faith">
+          <span class="pr-2">Mantén la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Max Harris, Australia del Sur_
@@ -57,3 +81,28 @@ Es frustrante que ni siquiera estas preguntas entretengan la conciencia de la ge
 
 Seguiremos siendo el país tonto, dedicado a la filosofía de que este es el futuro que fue. ¡Vaya!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Should_The_Original_Text_Have_Been_Altered">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Debería haberse modificado el texto original?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-1-de-enero-de-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 1 de enero de 1992 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Lee_Lester/Keep_The_Faith">
+          <span class="pr-2">Mantén la fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-título: "La misión docente. “Si no son personalidades reales, ¿entonces qué?”"
+título: "La misión docente. «Si no son personalidades reales, ¿entonces qué?»"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Robert L. Blackstock<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Question_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Turno de preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ron_Cyr/Spiritual_Vision">
+          <span class="pr-2">Visión Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Robert L. Blackstock, Concord, California, EE.UU._
@@ -21,7 +45,7 @@ Para nosotros, con nuestras mentes materiales, la experiencia espiritual y la ex
 
 ## I
 
-Es bastante conocido que Jung postula dos áreas del inconsciente, un inconsciente personal y un inconsciente colectivo. (Su hipótesis o modelo del inconsciente colectivo tiene aspectos en común con la «_existencia funcional del superconsciente_» ([LU 100:1.9](/es/The_Urantia_Book/100#p1_9)) y la «mente cósmica» de _El Libro de URANTIA_, en el sentido expresado en [LU 111:1.2](/es/The_Urantia_Book/111#p1_2), « _Los yoes intelectuales tienen su origen en la mente cósmica de manera muy parecida a como las nebulosas tienen su origen en las energías cósmicas del espacio universal._") Como lo implica el término “inconsciente colectivo», una de sus principales características es que es común a todos nosotros, al igual que el aire que respiramos; Todas nuestras mentes están conectadas con o en este inconsciente colectivo y, por lo tanto, comparten material común.
+Es bastante conocido que Jung postula dos áreas del inconsciente, un inconsciente personal y un inconsciente colectivo. (Su hipótesis o modelo del inconsciente colectivo tiene aspectos en común con la «_existencia funcional del superconsciente_» (<a id="a47_247"></a>[LU 100:1.9](/es/The_Urantia_Book/100#p1_9)) y la «mente cósmica» de _El Libro de URANTIA_, en el sentido expresado en <a id="a47_366"></a>[LU 111:1.2](/es/The_Urantia_Book/111#p1_2), « _Los yoes intelectuales tienen su origen en la mente cósmica de manera muy parecida a como las nebulosas tienen su origen en las energías cósmicas del espacio universal._") Como lo implica el término “inconsciente colectivo», una de sus principales características es que es común a todos nosotros, al igual que el aire que respiramos; Todas nuestras mentes están conectadas con o en este inconsciente colectivo y, por lo tanto, comparten material común.
 
 Esta idea de un sustrato común subyacente a nuestras conciencias individuales es la clave para comprender cómo puede ocurrir algo como «la Misión de Enseñanza». Como se analiza más adelante, el concepto de un inconsciente colectivo limitado que es exclusivo de la subcultura del movimiento Urantia puede explicar los fenómenos, de otro modo desconcertantes, de manifestaciones de material similar o relacionado por parte de canalizadores en diferentes ubicaciones geográficas.
 
@@ -57,7 +81,7 @@ He escuchado argumentos en apoyo de la «Misión de Enseñanza» en el sentido d
 
 _El Libro de URANTIA_ menciona en LU 34:4.13 que:
 
-> «_Los cuatro puntos de la brújula son universales e inherentes a la vida de Nebadon. Todas las criaturas vivientes poseen unidades corporales que son sensibles y responden a estas corrientes direccionales._» ([LU 34:4.13](/es/The_Urantia_Book/34#p4_13))
+> «_Los cuatro puntos de la brújula son universales e inherentes a la vida de Nebadon. Todas las criaturas vivientes poseen unidades corporales que son sensibles y responden a estas corrientes direccionales._» (<a id="a83_211"></a>[LU 34:4.13](/es/The_Urantia_Book/34#p4_13))
 
 Así como no dudamos, cuando viajamos por caminos desconocidos, en elaborar la hoja de ruta para complementar nuestra brújula magnética inherente, tampoco debemos dejar de utilizar el punto de vista psicológico como complemento de nuestra experiencia interior personal.
 
@@ -65,3 +89,28 @@ Así como no dudamos, cuando viajamos por caminos desconocidos, en elaborar la h
 
 Lo anterior es un esfuerzo por abordar la pregunta: «Canalización, si no personalidades reales, ¿entonces qué?» Es un material difícil e imposible escribir algo muy significativo en tan poco espacio, y mi intención era remitir al lector al ensayo de Jung mencionado anteriormente. Este punto de vista psicológico no es incompatible con las enseñanzas del _Libro de URANTIA_. Por el contrario, tienen mucho en común y en gran medida se confirman mutuamente, y el estudio de cada uno a la luz del otro resulta muy interesante. Un enfoque así puede ser una tarea fascinante y, al mismo tiempo, proporcionar la base necesaria, sin la cual el material de _El Libro de URANTIA_ puede ser perjudicial para la psique humana, tanto en el individuo como en el grupo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Question_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Turno de preguntas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ron_Cyr/Spiritual_Vision">
+          <span class="pr-2">Visión Espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

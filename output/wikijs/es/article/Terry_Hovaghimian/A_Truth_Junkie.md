@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 11 No. 6 - Febrero de 1990"
+título: "Un «adicto a la verdad»"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1990 Terry Hovaghimian<br>© 1990 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Leith_Luckett/How_I_Feel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo me siento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-6-noviembre-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/Coming_To_A_Final_Decision">
+          <span class="pr-2">Llegando a una «decisión final»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Como de costumbre, desde que comencé a ampliar mi búsqueda de la verdad con la ayuda de _El Libro de URANTIA_ y acabo de asistir a mi segunda conferencia, el tiempo juntos ha pasado tan satisfactoriamente rápido, con tal deleite en los acontecimientos y las personas que comparten una experiencia básica similar de la verdad, que estamos adoptando desde todos los ángulos de nuestra presencia espiritual intuitiva y los estados de América y Australia, que ya no me sorprende la velocidad de respuesta a mis preguntas, especialmente a las preguntas que olvidé hacer mientras estaba en la conferencia.
@@ -25,3 +49,28 @@ Habiendo compartido una conferencia de cuatro días en Arrabri Lodge en East War
 
 **Terry Hovaghimian, Sídney**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Leith_Luckett/How_I_Feel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo me siento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-11-núm-6-noviembre-de-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 11 Núm. 6 noviembre de 1990 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Rob_Crickett/Coming_To_A_Final_Decision">
+          <span class="pr-2">Llegando a una «decisión final»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

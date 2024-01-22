@@ -9,11 +9,35 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Psychic_Or_Spiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Psíquico o espiritual?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-4-julio-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Hepworth/Urantian_Influence_And_Parenthood">
+          <span class="pr-2">La influencia urantiana y la paternidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Me gustaría compartir con todos ustedes algunos pensamientos surgidos del excelente y sincero artículo de Ann Bendall en la edición de mayo/junio de 1989 de Six-0-Six titulado «¿Por qué no están llamando a mi puerta?»
 
-Descubrí que podía identificarme con los sentimientos de Anne, ya que hay secciones en _El Libro de URANTIA_ que sugieren que ciertas situaciones pueden tomarse como criterio para medir el propio grado de desarrollo. La cita a la que Anne se refirió en [LU 155:1.4](/es/The_Urantia_Book/155#p1_4) es un ejemplo clásico. Jesús casi estaba reprendiendo a los veinticuatro por ser demasiado crónicos en su anhelo, demasiado vacilantes e indefinidos en su conducta docente. Esto los dejó vulnerables al ridículo de los paganos, ya que se podían encontrar fácilmente fallas en sus enseñanzas. Jesús dijo: «Si deseáis entrar en el reino, ¿por qué no os apoderáis de él mediante un asalto espiritual, como los paganos se apoderan de una ciudad sitiada?» ([LU 155:1.3](/es/The_Urantia_Book/155#p1_3)) Luego continúa afirmando la parte que impulsó a Anne: «Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad». ([LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
+Descubrí que podía identificarme con los sentimientos de Anne, ya que hay secciones en _El Libro de URANTIA_ que sugieren que ciertas situaciones pueden tomarse como criterio para medir el propio grado de desarrollo. La cita a la que Anne se refirió en <a id="a39_253"></a>[LU 155:1.4](/es/The_Urantia_Book/155#p1_4) es un ejemplo clásico. Jesús casi estaba reprendiendo a los veinticuatro por ser demasiado crónicos en su anhelo, demasiado vacilantes e indefinidos en su conducta docente. Esto los dejó vulnerables al ridículo de los paganos, ya que se podían encontrar fácilmente fallas en sus enseñanzas. Jesús dijo: «Si deseáis entrar en el reino, ¿por qué no os apoderáis de él mediante un asalto espiritual, como los paganos se apoderan de una ciudad sitiada?» (<a id="a39_748"></a>[LU 155:1.3](/es/The_Urantia_Book/155#p1_3)) Luego continúa afirmando la parte que impulsó a Anne: «Dejadme expresar enérgicamente esta verdad eterna: Si gracias a vuestra coordinación con la verdad, aprendéis a manifestar en vuestra vida esta hermosa integridad de la rectitud, entonces vuestros semejantes os buscarán para conseguir lo que habéis adquirido así. La cantidad de buscadores de la verdad que se sentirán atraídos hacia vosotros representa la medida de vuestra dotación de la verdad, de vuestra rectitud. La cantidad de mensaje que tenéis que llevar a la gente es, en cierto modo, la medida de vuestro fracaso en vivir la vida plena o recta, la vida coordinada con la verdad». (<a id="a39_1440"></a>[LU 155:1.5](/es/The_Urantia_Book/155#p1_5))
 
 Este tipo de pasaje, y sé que hay muchos otros, pero lamentablemente no puedo encontrarlos, tienen el efecto de hacerte mirar a ti mismo para ver cómo calificas y cuando ves que no calificas tan alto como crees. Deberías empezar a sentir que estás haciendo algo mal, pero no sabes qué. Sabes que eres sincero, amas a Dios, te esfuerzas por hacer su voluntad, por ser como él, ¿qué más tengo que hacer?, se podría preguntar, ¿por qué no estoy dando los frutos del espíritu? Conozco bien estos sentimientos.
 
@@ -33,3 +57,28 @@ Kathleen Swadling, Sídney
 > 
 > Thomas Shadwell
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ann_Bendall/Psychic_Or_Spiritual">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Psíquico o espiritual?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-4-julio-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 4 Julio de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Hepworth/Urantian_Influence_And_Parenthood">
+          <span class="pr-2">La influencia urantiana y la paternidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

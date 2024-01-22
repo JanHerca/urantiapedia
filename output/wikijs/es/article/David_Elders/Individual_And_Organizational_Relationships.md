@@ -9,13 +9,37 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1988 David Elders<br>© 1988 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe sobre la reunión regional de lectores del libro de Urantia en el Pacífico Sur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-6-noviembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_And_The_Urantia_Book">
+          <span class="pr-2">La ciencia y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Una charla dada por David Elders en la Reunión Regional del Pacífico de lectores de _El Libro de URANTIA_
 
 Casa Ranelagh, Robertson, Australia, 13 de octubre de 1988
 
-> «En lo que concierne a la perspicacia, el reconocimiento de los valores morales y el discernimiento de los significados espirituales, todo lo que la mente humana puede hacer es descubrir, reconocer, interpretar y *elegir*.» ([LU 196:3.10](/es/The_Urantia_Book/196#p3_10))
+> «En lo que concierne a la perspicacia, el reconocimiento de los valores morales y el discernimiento de los significados espirituales, todo lo que la mente humana puede hacer es descubrir, reconocer, interpretar y *elegir*.» (<a id="a41_227"></a>[LU 196:3.10](/es/The_Urantia_Book/196#p3_10))
 
 > «¡Para un hombre que tiene un agresor, el mundo entero parece un clavo!» Anónimo.
 
@@ -55,3 +79,28 @@ En los próximos años, muchos grupos (buenos, malos e indiferentes) buscarán i
 
 Debemos trabajar juntos para demostrarles a los demás que esta enseñanza puede permitirnos trascender nuestras diferencias superficiales, como parece que la revelación debe hacer. Dado que nacemos en una diversidad absoluta (en virtud de nuestras personalidades únicas) y buscamos la unidad, parecería que el riesgo de uniformidad del que tanto se habla es leve. Si suponemos que la unidad ya se ha logrado y, en cambio, buscamos expandir nuestras diferencias externas, es posible que experiencialmente no alcancemos ni la verdadera diversidad de personalidad ni la unidad. Si con nuestra ayuda nuestra organización logra los propósitos previstos, servir como apoyo colectivo para la integridad del alcance único de cada persona hacia Dios, podremos lograr y experimentar plenamente tanto la unidad misma como la diversidad de la personalidad como hijos e hijas de un Padre común. Si mantenemos nuestro punto de vista alineado, recordaremos que tanto _El Libro de URANTIA_ como sus organizaciones asociadas no son fines en sí mismos, sino simplemente medios.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe sobre la reunión regional de lectores del libro de Urantia en el Pacífico Sur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-6-noviembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/Science_And_The_Urantia_Book">
+          <span class="pr-2">La ciencia y el libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

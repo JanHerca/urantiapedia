@@ -68,7 +68,7 @@ Tal vez para cumplir con el dicho del universo de que está prohibido proporcion
 
 También nos maravillamos si leemos el relato del Libro sobre el crecimiento paralelo temprano de la Tierra y su Luna a través de un proceso de acreción y, al verificar las sumas, descubrimos que el relato de los reveladores hace que la Luna alcance una masa 16 veces su tamaño actual. Curiosamente, pasaron casi cincuenta años antes de que alguien notara este error obvio. Tal era la fe de los lectores en la infalibilidad de las fuentes celestiales, y esto a pesar de las negaciones de los propios autores:
 
-> «Que quede muy claro que las revelaciones no son necesariamente inspiradas. La cosmología que figura en estas revelaciones no es inspirada.» (<a id="a70_143"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+> «Que quede muy claro que las revelaciones no son necesariamente inspiradas. La cosmología que figura en estas revelaciones no es inspirada.» (<a id="a70_144"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 [Nota: En la década de 1930, la palabra «cosmología» aún conservaba su connotación tradicional como una rama de la metafísica que se ocupa de las características del mundo como un todo, incluido, por ejemplo, el famoso argumento cosmológico de Santo Tomás de Aquino; ver Oxford University Press, _Oxford Companion to Philosophy_.]
 

@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 9 No. 5 - Septiembre de 1988"
+título: "Boletín Six-0-Six - Volumen 9 Núm. 5 - Septiembre de 1988"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1988 Madeline Noordzy, Robert Crickett, Martin Mc Burney, Rod McCourt, Dick Bain<br>© 1988 ANZURA , Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="pr-2">El viaje de Miguel alrededor de la Tierra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -29,7 +50,7 @@ Bill o Ali MacLean en (03) 8013366
 
 ## «Pensamiento del mes»
 
-> «No os desaniméis por el descubrimiento de que sois humanos. La naturaleza humana puede tender hacia el mal, pero no es pecaminosa de manera inherente. No os sintáis abatidos por vuestra incapacidad para olvidar completamente algunas de vuestras experiencias más lamentables. Los errores que no consigáis olvidar en el tiempo, serán olvidados en la eternidad. Aligerad las cargas de vuestra alma mediante la rápida adquisición de una visión a largo plazo de vuestro destino, de una expansión de vuestra carrera en el universo.» ([LU 156:5.8](/es/The_Urantia_Book/156#p5_8))
+> «No os desaniméis por el descubrimiento de que sois humanos. La naturaleza humana puede tender hacia el mal, pero no es pecaminosa de manera inherente. No os sintáis abatidos por vuestra incapacidad para olvidar completamente algunas de vuestras experiencias más lamentables. Los errores que no consigáis olvidar en el tiempo, serán olvidados en la eternidad. Aligerad las cargas de vuestra alma mediante la rápida adquisición de una visión a largo plazo de vuestro destino, de una expansión de vuestra carrera en el universo.» (<a id="a52_531"></a>[LU 156:5.8](/es/The_Urantia_Book/156#p5_8))
 
 ## El viaje de Michael alrededor de la Tierra
 
@@ -113,7 +134,7 @@ Rod McCourt, Cacatúa, Vic.
 
 ## Los tres planetas desaparecidos
 
-En [LU 57:5.9](/es/The_Urantia_Book/57#p5_9) de _El Libro de URANTIA_, se nos informa que cinco planetas interiores, Júpiter, Saturno y cinco planetas exteriores formaron el material extraído de nuestro sol por el sistema Angona que pasa. Esto suma 12 planetas, pero en la escuela sólo nos enseñan unos nueve. ¿Dónde están los otros tres?
+En <a id="a136_3"></a>[LU 57:5.9](/es/The_Urantia_Book/57#p5_9) de _El Libro de URANTIA_, se nos informa que cinco planetas interiores, Júpiter, Saturno y cinco planetas exteriores formaron el material extraído de nuestro sol por el sistema Angona que pasa. Esto suma 12 planetas, pero en la escuela sólo nos enseñan unos nueve. ¿Dónde están los otros tres?
 
 Es fácil dar cuenta de uno de los planetas desaparecidos. En la página 658 leemos que el quinto planeta desde el sol se separó cuando pasó demasiado cerca de Júpiter. Los restos de este planeta forman el actual cinturón de astroides que se encuentra entre Marte y Júpiter. Esto deja dos planetas desaparecidos.
 
@@ -256,3 +277,25 @@ De: «En su presencia» de Eva Bell Werber
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-5-septiembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 5 Septiembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Madeline_Noordzy/Michaels_Journey_Around_The_Earth">
+          <span class="pr-2">El viaje de Miguel alrededor de la Tierra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

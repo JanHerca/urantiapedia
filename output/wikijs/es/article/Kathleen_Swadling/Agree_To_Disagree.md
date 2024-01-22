@@ -1,5 +1,5 @@
 ---
-título: "Escuchando"
+título: "Acordar estar en desacuerdo"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Kathleen Swadling<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Blue_Corn/Listening">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escuchando</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_Greenhut/All_Of_It">
+          <span class="pr-2">Todo ello</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Para alejarme de todo el toma y daca personal que ha estado ocurriendo últimamente, me gustaría comenzar siendo un poco más filosófico sobre el papel que Six-O-Six ha desempeñado en el pasado para los lectores de _El Libro de URANTIA_. Comenzó como una herramienta valiosa para mantener en contacto a los estudiantes de _El Libro de URANTIA_. Las personas que encuentran _El Libro de URANTIA_ tienden a anhelar la compañía de otros lectores, ya que hay muchos cambios por los que pasan y mucho que entender mientras estudian el libro. Como hay muchos lectores repartidos por este vasto país, el boletín ha desempeñado un papel vital al mantener a los lectores en contacto entre sí, compartiendo ideas y puntos de vista y anuncios de actividades de grupos de estudio y conferencias, etc. para lectores de _El Libro de URANTIA_. Ahora muchos de esos lectores provienen de orígenes increíblemente diversos. Muchos han estado buscando durante años algo que satisfaga sus anhelos espirituales. Muchos han encontrado esa satisfacción a través de _El Libro de URANTIA_; otros todavía la están buscando y _El Libro de URANTIA_ es una de las muchas obras maravillosas con las que se han topado. Cualquiera que sea el estado actual de cada lector, Six-OSix ha sido un boletín que sirve al componente _El Libro de URANTIA_ de la búsqueda espiritual de las personas. La forma en que estaba satisfizo a todos. Cualquiera que deseara investigar _El Libro de URANTIA_ encontró en Six-O-Six un asistente para su investigación. Sin embargo, al cambiar la dirección del boletín, usted está atendiendo a todos y cada uno de los que se encuentran en una búsqueda espiritual de algún tipo. No tengo ningún problema con un boletín que atienda esta necesidad, pero no creo que sea relevante que Six-O-Six se convierta en un boletín que atienda esta necesidad sin consultar primero a todos los lectores, que están compuestos por personas que han contribuido y apoyado. financiera y moralmente desde que comenzó. Los ataques personales que han resultado de este escenario son indicativos de que se impuso un cambio en lugar de discutirse.
@@ -30,3 +54,28 @@ No nos engañemos pensando que todavía estamos espiritualmente avanzados. No si
 
 **Kathleen Swadling, Sídney**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Kathleen_Blue_Corn/Listening">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escuchando</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_Greenhut/All_Of_It">
+          <span class="pr-2">Todo ello</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

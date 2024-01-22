@@ -1,5 +1,5 @@
 ---
-título: "¿Necesita una licencia de piloto en Jerusem?"
+título: "¿Necesitas una licencia de piloto en Jerusem?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1991 Ann Bendall<br>© 1991 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol12_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Doing_A_Service">
+          <span class="pr-2">Haciendo un servicio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sospecho que no será necesario si elegimos volar en forma de pájaro, pero los dispositivos mecánicos sí van a necesitar instrucciones de funcionamiento. En realidad, mientras leo _El Libro de URANTIA_, tengo la impresión de que son pequeños helicópteros morontiales, y sospecho que tienen asientos limitados. Dios mío, espero que al menos tengan espacio para un navegador, ya que tengo una imagen mental de mí tratando de conducir el artilugio a través del espacio con un mapa al revés en mi regazo (tal vez no sea zurdo en el mundos mansión) tratando de descubrir adónde voy.
@@ -31,3 +55,28 @@ Más allá de una mirada superficial a la vida en los mundos de las mansiones po
 
 **Ann Bendall, Nambour, Queensland**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol12_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-12-núm-3-mayo-de-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 12 Núm. 3 Mayo de 1991 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dick_Bain/Doing_A_Service">
+          <span class="pr-2">Haciendo un servicio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

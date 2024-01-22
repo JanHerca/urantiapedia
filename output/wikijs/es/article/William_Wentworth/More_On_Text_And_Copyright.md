@@ -1,5 +1,5 @@
 ---
-título: "Más sobre texto y derechos de autor"
+título: "Más sobre el texto y los derechos de autor"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1992 William Wentworth<br>© 1992 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol13_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Is_Copyright_Really_Necessary">
+          <span class="pr-2">«¿Son realmente necesarios los derechos de autor?»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _William Wentworth, Towamba, Nueva Gales del Sur_
@@ -47,3 +71,28 @@ Las dos últimas preguntas formuladas por el SCSG no necesitan más comentarios.
 <figcaption>Sólo unas líneas sobre mí.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol13_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-13-núm-2-número-100">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 13 Núm. 2 Número 100 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ann_Bendall/Is_Copyright_Really_Necessary">
+          <span class="pr-2">«¿Son realmente necesarios los derechos de autor?»</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

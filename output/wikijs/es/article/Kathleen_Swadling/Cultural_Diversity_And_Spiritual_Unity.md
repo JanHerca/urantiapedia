@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 10 No. 1 - Enero de 1989"
+título: "Diversidad cultural y unidad espiritual"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1989 Kathleen Swadling<br>© 1989 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol10_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 10 Núm. 1 de enero de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-1-de-enero-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 1 de enero de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Trevor_Swadling/How_Many_Mortals_Survive">
+          <span class="pr-2">¿Cuántos mortales sobreviven?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Charla de introducción
@@ -27,5 +51,30 @@ Veo que aquellos de nosotros aquí representando a Australia, Nueva Zelanda, Tah
 
 Me gustaría cerrar con este pensamiento. Es una cita de _El Libro de URANTIA_ sobre LU 54:6.3:
 
-> «Las familias, los grupos, las naciones, las razas, los mundos, los sistemas, las constelaciones y los universos son relaciones de asociación que poseen una individualidad; y por lo tanto, cada miembro de cualquier grupo, grande o pequeño, cosecha los beneficios y sufre las consecuencias del bien y del mal que hacen todos los otros miembros del grupo interesado». [LU 54:6.3](/es/The_Urantia_Book/54#p6_3)
+> «Las familias, los grupos, las naciones, las razas, los mundos, los sistemas, las constelaciones y los universos son relaciones de asociación que poseen una individualidad; y por lo tanto, cada miembro de cualquier grupo, grande o pequeño, cosecha los beneficios y sufre las consecuencias del bien y del mal que hacen todos los otros miembros del grupo interesado». <a id="a53_368"></a>[LU 54:6.3](/es/The_Urantia_Book/54#p6_3)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol10_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 10 Núm. 1 de enero de 1989</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-10-núm-1-de-enero-de-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 10 Núm. 1 de enero de 1989 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Trevor_Swadling/How_Many_Mortals_Survive">
+          <span class="pr-2">¿Cuántos mortales sobreviven?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

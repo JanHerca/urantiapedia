@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Allan Lane<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/More_on_Channelling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre canalización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-1-de-enero-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 1 de enero de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="pr-2">El Cuerpo de Mujeres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Allan Lane, Perth_
@@ -84,7 +108,7 @@ Me asombra el ingenio de este sistema de codificación molecular, que puede cast
 
 Que las mutaciones accidentales puedan producir suficientes instrucciones correctas para contrarrestar las virtualmente inestimables instrucciones incorrectas posibles, en las posiciones correctas del ADN en los momentos correctos, basándose eficientemente en mutaciones accidentales ventajosas previas, para producir la maravillosa diversidad de seres vivos que nos rodean hoy, es más allá de mi capacidad para entretener seriamente. Según mi comprensión, ciertamente limitada, la probabilidad de una serie tan larga de acontecimientos propicios es seguramente tan cercana a cero que resulta prácticamente imposible.
 
-Supongamos que los mamíferos placentarios surgieron repentinamente de padres reptiles como se describe en _El Libro de URANTIA_ ([LU 61:0.1](/es/The_Urantia_Book/61#p0_1)). Para producir un organismo nuevo y único, obviamente es necesario crear células nuevas y únicas. De manera simplista, para producir una nueva célula se requiere al menos una nueva proteína, y para producir una nueva proteína se requiere un nuevo código de ADN efectivo [no todos los cambios en el código causan cambios en las proteínas producidas], y un nuevo código de ADN requiere al menos una reordenamiento de una molécula base en la cadena de ADN [una mutación]. ¿Qué posibilidades hay de que un azar accidental produzca los códigos exactos necesarios para este enorme salto? O, suponiendo que el cuello de la jirafa se alargó en pasos durante un largo período de tiempo (refiérase a los neodarwinistas), ¿qué probabilidad hay de que las mutaciones necesarias que alteran la longitud del cuello hubieran seguido ocurriendo aleatoriamente, en el orden cronológicamente correcto, en las partes correctas? de los genes apropiados para «estirar el cuello»? [For _the URANTIA Book_'s version of the giraffe's neck episode, see ([LU 61:4.4](/es/The_Urantia_Book/61#p4_4)).]
+Supongamos que los mamíferos placentarios surgieron repentinamente de padres reptiles como se describe en _El Libro de URANTIA_ (<a id="a110_129"></a>[LU 61:0.1](/es/The_Urantia_Book/61#p0_1)). Para producir un organismo nuevo y único, obviamente es necesario crear células nuevas y únicas. De manera simplista, para producir una nueva célula se requiere al menos una nueva proteína, y para producir una nueva proteína se requiere un nuevo código de ADN efectivo [no todos los cambios en el código causan cambios en las proteínas producidas], y un nuevo código de ADN requiere al menos una reordenamiento de una molécula base en la cadena de ADN [una mutación]. ¿Qué posibilidades hay de que un azar accidental produzca los códigos exactos necesarios para este enorme salto? O, suponiendo que el cuello de la jirafa se alargó en pasos durante un largo período de tiempo (refiérase a los neodarwinistas), ¿qué probabilidad hay de que las mutaciones necesarias que alteran la longitud del cuello hubieran seguido ocurriendo aleatoriamente, en el orden cronológicamente correcto, en las partes correctas? de los genes apropiados para «estirar el cuello»? <a id="a110_1131"></a>[For _the URANTIA Book_'s version of the giraffe's neck episode, see ([LU 61:4.4](/es/The_Urantia_Book/61#p4_4)).]
 
 ## ¿Propósito superior?
 
@@ -94,11 +118,11 @@ Si la infinidad de seres vivos que existen en la Tierra son el resultado del tra
 
 Imagine que he construido un techo y decido que quiero llenar un tanque de agua de lluvia para mis necesidades de agua potable. La caída de las gotas de lluvia es un proceso muy aleatorio en términos de en qué lugares caerán, cuándo caerán las lluvias, etc. Sería accidental que durante la ducha una baldosa recibiera 2 gotas más que su vecina. Sin embargo, si coloco un canalón alrededor del techo y conduzco una bajante desde él hasta el tanque de abajo, logro mi objetivo. Si quiero asegurarme de obtener los mejores resultados, mantendré diligentemente el canalón libre de hojas.
 
-Un procedimiento tan útil se describe en _El Libro de URANTIA_. Los Portadores de Vida trabajaron mucho en sus laboratorios para producir las fórmulas necesarias que permitieran que la vida en la tierra tuviera éxito ([LU 65:4.4](/es/The_Urantia_Book/65#p4_4)), y tuviera la importante y esencial capacidad de una gran diversificación ([LU 65:4.10](/es/The_Urantia_Book/65#p4_10)).
+Un procedimiento tan útil se describe en _El Libro de URANTIA_. Los Portadores de Vida trabajaron mucho en sus laboratorios para producir las fórmulas necesarias que permitieran que la vida en la tierra tuviera éxito (<a id="a120_218"></a>[LU 65:4.4](/es/The_Urantia_Book/65#p4_4)), y tuviera la importante y esencial capacidad de una gran diversificación (<a id="a120_336"></a>[LU 65:4.10](/es/The_Urantia_Book/65#p4_10)).
 
-> «_Todos los múltiples subproductos de la evolución biológica son esenciales para el funcionamiento pleno y final de las formas superiores de vida inteligente, ..._» ([LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
+> «_Todos los múltiples subproductos de la evolución biológica son esenciales para el funcionamiento pleno y final de las formas superiores de vida inteligente, ..._» (<a id="a122_168"></a>[LU 36:2.17](/es/The_Urantia_Book/36#p2_17))
 
-La Divina Ministra se involucra en el curso de la evolución a través de la agencia de los espíritus mentales ayudantes ([LU 36:5.1](/es/The_Urantia_Book/36#p5_1)). Las formulaciones físicas originales de los Portadores de Vida pueden compararse con el techo, los canalones, la bajante y el sistema de tanques descritos anteriormente, mientras que se puede considerar que las actividades de los espíritus mentales ayudantes ayudan a mantener limpios los canalones.
+La Divina Ministra se involucra en el curso de la evolución a través de la agencia de los espíritus mentales ayudantes (<a id="a124_120"></a>[LU 36:5.1](/es/The_Urantia_Book/36#p5_1)). Las formulaciones físicas originales de los Portadores de Vida pueden compararse con el techo, los canalones, la bajante y el sistema de tanques descritos anteriormente, mientras que se puede considerar que las actividades de los espíritus mentales ayudantes ayudan a mantener limpios los canalones.
 
 Si un ser, que ignoraba el significado del sistema de techo y tanque y la existencia de mí, el diseñador y limpiador de canalones, lo encontrara y comenzara a estudiarlo a través de las estaciones, ese ser podría concluir que la maravillosa reposición periódica de el tanque fue una eventualidad accidental de eventos aleatorios y se pierde la cuidadosa planificación que se realizó. Sólo pude maravillarme ante el ingenio del ser al intentar explicarme.
 
@@ -118,3 +142,28 @@ Mi definición de verdadera ciencia es: el intento honesto de comprender la real
 > 
 > _De «El Universo de las Relaciones», de J.H. Reyner_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/More_on_Channelling">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Más sobre canalización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-1-de-enero-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 1 de enero de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Pam_and_David_Bradford/The_Womens_Corps">
+          <span class="pr-2">El Cuerpo de Mujeres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

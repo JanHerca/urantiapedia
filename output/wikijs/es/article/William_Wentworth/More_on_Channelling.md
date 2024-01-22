@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 William Wentworth<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol14_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 14 Núm. 1 de enero de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-1-de-enero-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 1 de enero de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Allan_Lane/Variety_The_Dice_Of_Life">
+          <span class="pr-2">Variedad: los dados de la vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _William Wentworth, Towamba, Nueva Gales del Sur_
@@ -25,3 +49,28 @@ El segundo punto que deseo señalar es que, considerado en su totalidad, _El Lib
 
 La preocupación por los aspectos dramáticos de lo inusual y excepcional puede ser estimulante y excitante, pero no es el mensaje de _El Libro de URANTIA_. Apoyo al editor de Six-O-Six en sus comentarios e insto a los estudiantes de _El Libro de URANTIA_ a ignorar esas distracciones glamorosas que sólo sirven para socavar su mensaje fundamental a la humanidad.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/Vol14_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vol. 14 Núm. 1 de enero de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-1-de-enero-de-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 1 de enero de 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Allan_Lane/Variety_The_Dice_Of_Life">
+          <span class="pr-2">Variedad: los dados de la vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

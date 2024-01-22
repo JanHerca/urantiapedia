@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 9 No. 6 - Noviembre de 1988"
+título: "Boletín Six-0-Six - Volumen 9 Núm. 6 - Noviembre de 1988"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1988 Kathleen Swadling, David Elders, Ken T. Glasziou<br>© 1988 ANZURA, Australia y Nueva Zelanda Asociación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-6-noviembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="pr-2">Informe sobre la reunión regional de lectores del libro de Urantia en el Pacífico Sur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -27,7 +48,7 @@ El 6-0-6 os desea a todos una feliz y segura Navidad y Año Nuevo. Aprovechamos 
 
 ## «Pensamiento del mes»
 
-> «Aunque no podáis encontrar a Dios por medio de la investigación, si os sometéis a las directrices del espíritu interior, seréis guiados infaliblemente paso a paso, vida tras vida, de un universo a otro, y era tras era, hasta que os encontréis finalmente en la presencia de la personalidad paradisiaca del Padre Universal.» ([LU 2:5.5](/es/The_Urantia_Book/2#p5_5))
+> «Aunque no podáis encontrar a Dios por medio de la investigación, si os sometéis a las directrices del espíritu interior, seréis guiados infaliblemente paso a paso, vida tras vida, de un universo a otro, y era tras era, hasta que os encontréis finalmente en la presencia de la personalidad paradisiaca del Padre Universal.» (<a id="a50_327"></a>[LU 2:5.5](/es/The_Urantia_Book/2#p5_5))
 
 ## Un Salmo De Vida
 
@@ -140,7 +161,7 @@ Una charla dada por David Elders en la Reunión Regional del Pacífico de lector
 
 Casa Ranelagh, Robertson, Australia, 13 de octubre de 1988
 
-> «En lo que concierne a la perspicacia, el reconocimiento de los valores morales y el discernimiento de los significados espirituales, todo lo que la mente humana puede hacer es descubrir, reconocer, interpretar y *elegir*.» ([LU 196:3.10](/es/The_Urantia_Book/196#p3_10))
+> «En lo que concierne a la perspicacia, el reconocimiento de los valores morales y el discernimiento de los significados espirituales, todo lo que la mente humana puede hacer es descubrir, reconocer, interpretar y *elegir*.» (<a id="a163_227"></a>[LU 196:3.10](/es/The_Urantia_Book/196#p3_10))
 
 > «¡Para un hombre que tiene un agresor, el mundo entero parece un clavo!» Anónimo.
 
@@ -204,3 +225,25 @@ Entonces enciende la única llama del amor.
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-9-núm-6-noviembre-de-1988">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 9 Núm. 6 noviembre de 1988 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Kathleen_Swadling/Report_On_South_Pacific_Regional_Meeting_Of_UB">
+          <span class="pr-2">Informe sobre la reunión regional de lectores del libro de Urantia en el Pacífico Sur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

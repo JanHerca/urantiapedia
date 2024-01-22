@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 No. 3 - Mayo de 1987"
+título: "Boletín Six-0-Six - Volumen 8 Núm. 3 - Mayo de 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Robert Reno, Helena Sprague<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-3-mayo-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 3 Mayo de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Reno/Land_Of_The_Morning_Calm_2">
+          <span class="pr-2">Tierra de la calma matutina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -29,7 +50,7 @@ Kathleen Swadling, 7 Walsh St. Narrabeen, Nueva Gales del Sur. 2101. PH. (02) 91
 
 ## «Pensamiento del mes»
 
-> «Todo lo que no es espiritual en la experiencia humana, salvo la personalidad, es un medio para conseguir un fin. Toda verdadera relación del hombre mortal con otras personas —humanas o divinas— es un fin en sí misma. Y una comunión así con la personalidad de la Deidad es la meta eterna de la ascensión por el universo». (_El Libro de URANTIA_ [LU 112:2.8](/es/The_Urantia_Book/112#p2_8))
+> «Todo lo que no es espiritual en la experiencia humana, salvo la personalidad, es un medio para conseguir un fin. Toda verdadera relación del hombre mortal con otras personas —humanas o divinas— es un fin en sí misma. Y una comunión así con la personalidad de la Deidad es la meta eterna de la ascensión por el universo». (_El Libro de URANTIA_ <a id="a52_347"></a>[LU 112:2.8](/es/The_Urantia_Book/112#p2_8))
 
 ## Queridos amigos del Movimiento URANTIA:
 
@@ -213,3 +234,25 @@ SE ADJUNTA EL PAGO DE...PARA LAS PERSONAS FIRMADAS
 LOS CHEQUES DEBEN HACERSE A NOMBRE DE «U.B.FUND» Y ENVIAR ANTES DEL 1 DE SEPTIEMBRE A:
 C/- K \& T SWADLING, 7 WALSH ST, NARRABEEN, NSW, 2101. TELÉFONO (02) 9137893
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-3-mayo-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 3 Mayo de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Reno/Land_Of_The_Morning_Calm_2">
+          <span class="pr-2">Tierra de la calma matutina</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

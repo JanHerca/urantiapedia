@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 No. 5 - Septiembre de 1987"
+título: "Sobre la cuestión de la reencarnación"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1987 Robert Crickett<br>© 1987 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia General de la Urantia Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-5-septiembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 5 Septiembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Friendship_Brotherhood_Sonship">
+          <span class="pr-2">Amistad, Hermandad y Filiación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La reencarnación es una realidad de la vida que poseen millones de personas en todo el mundo. Las personas en gran medida responsables de la difusión de la filosofía, y a las que se tiene en alta estima por su conocimiento sobre el tema, son los budistas mahayana tibetanos y chinos, los budistas hinayana tailandeses, birmanos y de Sri Lanka, los taoístas chinos, los hindúes y una variedad aparentemente interminable de asiáticos panteístas locales. ramificaciones que varían de una ciudad a otra. Fue a partir de estas fuentes asiáticas que la idea de la reencarnación se filtró en los ámbitos del pensamiento religioso occidental. Parte de la teoría llegó a nosotros en sistemas completos, como con el enfoque tibetano cada vez más popular, mientras que otra parte llegó en cuentagotas, fragmentos de religiones cuidadosamente editados por el evangelista para adaptarse al clima social y a sus necesidades. capacidad y condicionamiento espiritual.
@@ -110,3 +134,28 @@ Que Dios te bendiga y te guarde. Y que vuestra fusión con el Ajustador sea ráp
 
 Robert Crickett, Melbourne
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/William_Wentworth/General_Conference_Of_Urantia_Brotherhood">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia General de la Urantia Brotherhood</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-8-núm-5-septiembre-de-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 8 Núm. 5 Septiembre de 1987 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Friendship_Brotherhood_Sonship">
+          <span class="pr-2">Amistad, Hermandad y Filiación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

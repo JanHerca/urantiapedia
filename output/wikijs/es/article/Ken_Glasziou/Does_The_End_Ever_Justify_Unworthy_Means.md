@@ -9,27 +9,51 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1993 Ken Glasziou<br>© 1993 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/The_Australian_Conference_1993">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conferencia Australiana de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Myers/From_The_Great_Literacy_Debate">
+          <span class="pr-2">Del gran debate sobre la alfabetización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ken Glasziou, Maleny, Queensland_
 
-Según _El Libro de URANTIA_, el incumplimiento adámico fue más desastroso para nosotros que la rebelión de Lucifer. La razón es que no pudimos mejorar nuestros genes, tenemos una grave deficiencia de los genes de la raza violeta. Estos nos habrían hecho más altos y habrían aumentado la duración de nuestras vidas, pero ninguno de los atributos tiene repercusiones perjudiciales obvias. La gran pérdida parece haber sido nuestro potencial de crecimiento espiritual ([LU 34:7.4](/es/The_Urantia_Book/34#p7_4)).
+Según _El Libro de URANTIA_, el incumplimiento adámico fue más desastroso para nosotros que la rebelión de Lucifer. La razón es que no pudimos mejorar nuestros genes, tenemos una grave deficiencia de los genes de la raza violeta. Estos nos habrían hecho más altos y habrían aumentado la duración de nuestras vidas, pero ninguno de los atributos tiene repercusiones perjudiciales obvias. La gran pérdida parece haber sido nuestro potencial de crecimiento espiritual (<a id="a39_466"></a>[LU 34:7.4](/es/The_Urantia_Book/34#p7_4)).
 
 El libro nos dice que esta pérdida puede ser al menos parcialmente negada:
 
-> «_Jesús mostró a la humanidad la nueva manera de vivir de los mortales mediante la cual los seres humanos pueden eludir en gran parte las terribles consecuencias de la rebelión de Caligastia y compensar muy eficazmente las privaciones resultantes de la falta de Adán._» ([LU 34:7.6](/es/The_Urantia_Book/34#p7_6))
+> «_Jesús mostró a la humanidad la nueva manera de vivir de los mortales mediante la cual los seres humanos pueden eludir en gran parte las terribles consecuencias de la rebelión de Caligastia y compensar muy eficazmente las privaciones resultantes de la falta de Adán._» (<a id="a43_273"></a>[LU 34:7.6](/es/The_Urantia_Book/34#p7_6))
 
 El «camino» que Jesús nos mostró fue, por supuesto, su vida y su forma de vivir. El libro nos dice:
 
-> «_«Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió._» ([LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
+> «_«Seguir a Jesús» significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro, consagrada al servicio desinteresado de los hombres. Una de las cosas más importantes de la vida humana consiste en averiguar lo que Jesús creía, en descubrir sus ideales, y en esforzarse por alcanzar el elevado objetivo de su vida. De todos los conocimientos humanos, el que posee mayor valor es el de conocer la vida religiosa de Jesús y la manera en que la vivió._» (<a id="a47_489"></a>[LU 196:1.3](/es/The_Urantia_Book/196#p1_3))
 
 Al parecer, el apóstol Felipe carecía especialmente de espiritualidad y necesitaba alguna instrucción adicional. Después de que Jesús resucitado le dijo a Felipe que eventualmente sería bendecido con visión espiritual y haría un gran trabajo, le dio a Felipe esta amonestación:
 
-> «_Mientras tanto, sé como un niño pequeño en el reino del espíritu y permíteme, como espíritu del nuevo instructor, conducirte hacia adelante en el reino espiritual{53}. De esta manera podré hacer por ti muchas cosas que no he podido realizar mientras vivía contigo como un mortal del reino. Y recuerda siempre, Felipe, que el que me ha visto ha visto al Padre»{54}._» ([LU 181:2.20](/es/The_Urantia_Book/181#p2_20))
+> «_Mientras tanto, sé como un niño pequeño en el reino del espíritu y permíteme, como espíritu del nuevo instructor, conducirte hacia adelante en el reino espiritual{53}. De esta manera podré hacer por ti muchas cosas que no he podido realizar mientras vivía contigo como un mortal del reino. Y recuerda siempre, Felipe, que el que me ha visto ha visto al Padre»{54}._» (<a id="a51_372"></a>[LU 181:2.20](/es/The_Urantia_Book/181#p2_20))
 
 La visión espiritual de Felipe llegaría sólo después de que recibiera el Espíritu de la Verdad.
 
-Desde Pentecostés, traer el don de la visión espiritual ha sido una función importante del Espíritu de la Verdad. Pero el libro nos recuerda que el Espíritu de la Verdad no nos hace conscientes de sí mismo. Más bien, aumenta nuestra conciencia de Jesús ([LU 194:2.4](/es/The_Urantia_Book/194#p2_4)). ¿Cómo podemos mejorar esa conciencia?
+Desde Pentecostés, traer el don de la visión espiritual ha sido una función importante del Espíritu de la Verdad. Pero el libro nos recuerda que el Espíritu de la Verdad no nos hace conscientes de sí mismo. Más bien, aumenta nuestra conciencia de Jesús (<a id="a55_254"></a>[LU 194:2.4](/es/The_Urantia_Book/194#p2_4)). ¿Cómo podemos mejorar esa conciencia?
 
 Charles M. Sheldon proporciona una idea de la respuesta a esta pregunta en un libro titulado «In His Steps» que ocupa un lugar en la lista de los diez libros más vendidos de todos los tiempos.
 
@@ -59,13 +83,38 @@ Luego estaba el engaño relacionado con la obtención y el mantenimiento de los 
 
 A menudo he pensado seriamente en lo que realmente habría hecho en lugar de Peter. Para ser honesto, creo que si hubiera sido Peter, habría hecho más o menos lo mismo. Probablemente me habría convencido de que mi motivo era el más elevado: ayudar a Jesús. No podría haberlo hecho escondiéndome como un cobarde entre los olivos. Y si me hubiera declarado en ese patio, me habrían arrestado. ¿Qué bien habría logrado eso? Entonces hice lo que era conveniente; no hay nada malo en ello.
 
-Luego veo a Jesús mientras se lo llevan. «¡Ay dios mío! ¿Por qué Jesús me miró así? ¿No justifica a veces el fin los medios?» ([LU 184:2.8](/es/The_Urantia_Book/184#p2_8))
+Luego veo a Jesús mientras se lo llevan. «¡Ay dios mío! ¿Por qué Jesús me miró así? ¿No justifica a veces el fin los medios?» (<a id="a85_127"></a>[LU 184:2.8](/es/The_Urantia_Book/184#p2_8))
 
 El libro dice:
 
-> «_Se necesita un carácter grande y noble para cambiar de opinión y retomar el camino recto después de haber empezado mal. Demasiado a menudo, nuestra propia mente tiende a justificar nuestra permanencia en el camino erróneo después de haber entrado en él._» ([LU 184:2.12](/es/The_Urantia_Book/184#p2_12))
+> «_Se necesita un carácter grande y noble para cambiar de opinión y retomar el camino recto después de haber empezado mal. Demasiado a menudo, nuestra propia mente tiende a justificar nuestra permanencia en el camino erróneo después de haber entrado en él._» (<a id="a89_261"></a>[LU 184:2.12](/es/The_Urantia_Book/184#p2_12))
 
 Es inconcebible que el Espíritu de la Verdad nos guíe a adoptar deliberadamente medios indignos para alcanzar una meta. Eva lo intentó y cosechó tanto reprimenda como desastre genético para el resto de nosotros. Por eso, nuestro potencial inherente para el crecimiento espiritual y la visión espiritual es extremadamente limitado.
 
 Si queremos superar nuestras deficiencias genéticas parece que tenemos dos cosas que hacer. Necesitamos conocer la vida de Jesús. Podemos obtener eso del libro. Al mismo tiempo necesitamos estar en contacto más cercano con el Espíritu de la Verdad. Una vez realizados estos objetivos, ¿existe una mejor manera de ponerlos en práctica que la recomendada en el libro de Sheldon? Es decir: «¿Qué habría hecho Jesús?» Luego hacerlo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/606/The_Australian_Conference_1993">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Conferencia Australiana de 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-14-núm-2-marzo-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 14 Núm. 2 Marzo 1993 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Myers/From_The_Great_Literacy_Debate">
+          <span class="pr-2">Del gran debate sobre la alfabetización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

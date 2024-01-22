@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 7 No. 8 - Noviembre de 1986"
+título: "Boletín Six-0-Six - Volumen 7 Núm. 8 - Noviembre de 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2 py-1">© 1986 Neil Francey, Ken Glasziou, Trevor Swadling, Madeline Noordzy<br>© 1986 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-8-noviembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 8 noviembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin">
+          <span class="pr-2">El libro de Urantia: La cuestión del origen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia" alt="Sis-0-Six">
@@ -68,7 +89,7 @@ En este momento no existe una tradición similar de aceptación para dar una res
 
 ## Juan el revelador
 
-El [LU 47:10.2](/es/The_Urantia_Book/47#p10_2) _El Libro de URANTIA_ se refiere a Juan como «Juan el Revelador». Cuando leemos el documento sobre los doce apóstoles, el [LU 139:4.14](/es/The_Urantia_Book/139#p4_14) los Intermedios nos hablan de Juan: «Durante su exilio temporal en Patmos, Juan escribió el libro del Apocalipsis, que actualmente poseéis de una manera muy abreviada y deformada. Este libro del Apocalipsis contiene los fragmentos sobrevivientes de una gran revelación, porque después de que Juan lo escribiera, se perdieron muchas partes del mismo y otras fueron eliminadas. Sólo se conserva de manera fragmentaria y adulterada».
+El <a id="a91_3"></a>[LU 47:10.2](/es/The_Urantia_Book/47#p10_2) _El Libro de URANTIA_ se refiere a Juan como «Juan el Revelador». Cuando leemos el documento sobre los doce apóstoles, el <a id="a91_169"></a>[LU 139:4.14](/es/The_Urantia_Book/139#p4_14) los Intermedios nos hablan de Juan: «Durante su exilio temporal en Patmos, Juan escribió el libro del Apocalipsis, que actualmente poseéis de una manera muy abreviada y deformada. Este libro del Apocalipsis contiene los fragmentos sobrevivientes de una gran revelación, porque después de que Juan lo escribiera, se perdieron muchas partes del mismo y otras fueron eliminadas. Sólo se conserva de manera fragmentaria y adulterada».
 
 Sobre este tema me gustaría intentar arrojar algo de luz. En ciertos artículos de _El Libro de URANTIA_ citan el Libro del Apocalipsis y esto es posible que podamos reconstruir y comprender algo de las revelaciones que tuvo Juan. Cuando leemos el Libro del Apocalipsis, queda claro que en las visiones que tenía Juan, él mismo no comprendía completamente lo que estaba contemplando.
 
@@ -147,3 +168,25 @@ DIRECCIÓN: \_\_\_\_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_606#vol-7-núm-8-noviembre-de-1986">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Vol. 7 Núm. 8 noviembre de 1986 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin">
+          <span class="pr-2">El libro de Urantia: La cuestión del origen</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
