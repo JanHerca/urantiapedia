@@ -791,11 +791,11 @@ Ha sido revelado a muchos en este Planeta nuestro, «Urantia», que nuestro Señ
 
 Ha sido revelado hasta el día 7. Misión de Otorgamiento, así como en otras secciones de la 5ta. revelación de época, sus actividades reales de desarrollo y experiencial, su soberanía real de las creaciones de su Padre, en amoroso servicio a sus hijos.
 
-> _Man's universe integration._
+> _La integración del hombre en el universo._
 > 
-> _The kingdom of God is in the hearts of men, and when this kingdom becomes actual in the heart of every individual on a world, then God's rule has become actual on that planet; and this is the attained sovereignty of the Supreme Being._
+> _El reino de Dios está en el corazón de los hombres; y cuando este reino se convierte en una realidad en el corazón de cada individuo de un mundo, entonces el reinado de Dios se ha vuelto real en ese planeta; y ésta es la soberanía conseguida del Ser Supremo._
 > 
-> Providence (care and protection of his creatures) becomes increasingly discernible as men reach upward from the material to _the spiritual. The attainment of completed spiritual insight enables the ascending personality to detect harmony in what was theretofore chaos. Even morontia mota represents a real advance in this direction. [UB 118:10.15-8](/en/The_Urantia_Book/118#p10_15) 
+> La providencia se discierne cada vez más a medida que los hombres se elevan de lo material a lo espiritual. Alcanzar una completa perspicacia espiritual permite a la personalidad ascendente detectar armonía donde hasta entonces sólo había caos. Incluso la mota morontial representa un progreso real en esta dirección. [UB 118:10.15-19](/en/The_Urantia_Book/118#p10_15) 
 
 <figure id="Figure_12" class="image urantiapedia" alt="A TAPESTRY OF LOVING SERVICE">
 <img src="/image/article/606/spirit_of_love.jpg">

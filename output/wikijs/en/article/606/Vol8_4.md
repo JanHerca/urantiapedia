@@ -144,7 +144,7 @@ Emmanuel Lou, Tahiti
 
 We know of at least two people who will attend the General Conference in Maine, USA, which will be held at Bowdoin College, Brunswick on August 2-7, 1987.
 
-Neil Francey from Robinson, Brisbane, Q1d. and William Wentworth from Towamba, NSW will be representing Australia. The theme of the conference is: “Our relationship with God: Personal Transformation and its Power to Transform the World.” We wish them safe journey and are looking forward to their report on this great spiritual experience.
+Neil Francey from Robinson, Brisbane, Qld. and William Wentworth from Towamba, NSW will be representing Australia. The theme of the conference is: “Our relationship with God: Personal Transformation and its Power to Transform the World.” We wish them safe journey and are looking forward to their report on this great spiritual experience.
 
 ## Dear Six-0-Six
 

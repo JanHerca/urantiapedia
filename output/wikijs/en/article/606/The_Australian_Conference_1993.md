@@ -44,13 +44,13 @@ The world famous Sea World Nara Resort set in lush tropical gardens on the Queen
 
 WELCOME TO THE SHORES OF PARADISE.
 
-“You may be certain of being warmly welcomed when you experience the resurrection into eternity on the everlasting shores of Paradise.” (283)
+> “You may be certain of being warmly welcomed when you experience the resurrection into eternity on the everlasting shores of Paradise.” ([UB 25:8.5](/en/The_Urantia_Book/25#p8_5))
 
 ## The Purpose
 
 During our three day sojourn at this physical paradise we can share insights on how we envisage we can spiritually grow and traverse the realms to The Central Isle of Paradise.
 
-“The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind.” (2097)
+> “The great challenge to modern man is to achieve better communication with the divine Monitor that dwells within the human mind.” ([UB 196:3.34](/en/The_Urantia_Book/196#p3_34))
 
 Jesus developed superlative techniques to effect the process. He often engaged in solitary commune with the Father — to gather strength, to seek new stores of wisdom, to find better ways to subject his total personality to the consciousness of divinity contact.
 

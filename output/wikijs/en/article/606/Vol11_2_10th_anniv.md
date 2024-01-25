@@ -794,7 +794,7 @@ It has been revealed through the 7th. Bestowal Mission, as well as in other sect
 > 
 > _The kingdom of God is in the hearts of men, and when this kingdom becomes actual in the heart of every individual on a world, then God's rule has become actual on that planet; and this is the attained sovereignty of the Supreme Being._
 > 
-> Providence (care and protection of his creatures) becomes increasingly discernible as men reach upward from the material to _the spiritual. The attainment of completed spiritual insight enables the ascending personality to detect harmony in what was theretofore chaos. Even morontia mota represents a real advance in this direction. <a id="a796_335"></a>[UB 118:10.15-8](/en/The_Urantia_Book/118#p10_15) 
+> Providence (care and protection of his creatures) becomes increasingly discernible as men reach upward from the material to _the spiritual. The attainment of completed spiritual insight enables the ascending personality to detect harmony in what was theretofore chaos. Even morontia mota represents a real advance in this direction. <a id="a796_335"></a>[UB 118:10.15-19](/en/The_Urantia_Book/118#p10_15) 
 
 <figure id="Figure_12" class="image urantiapedia" alt="A TAPESTRY OF LOVING SERVICE">
 <img src="/image/article/606/spirit_of_love.jpg">
