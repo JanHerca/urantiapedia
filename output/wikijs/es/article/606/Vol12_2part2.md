@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 12 Núm. 2 Parte 2 - Febrero de 1991"
+title: "Boletín Six-0-Six - Volumen 12 Núm. 2 Parte 2 - Febrero de 1991"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

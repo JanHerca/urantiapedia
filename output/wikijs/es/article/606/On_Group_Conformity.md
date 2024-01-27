@@ -1,5 +1,5 @@
 ---
-título: "Sobre la conformidad grupal"
+title: "Sobre la conformidad grupal"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

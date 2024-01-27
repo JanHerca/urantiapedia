@@ -1,5 +1,5 @@
 ---
-título: "La encrucijada de la revelación de época"
+title: "La encrucijada de la revelación de época"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-título: "Encuentro de lectores en Occidente"
+title: "Encuentro de lectores en Occidente"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

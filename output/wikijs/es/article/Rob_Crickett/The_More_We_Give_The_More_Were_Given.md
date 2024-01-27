@@ -1,5 +1,5 @@
 ---
-título: "Cuanto más damos, más nos dan"
+title: "Cuanto más damos, más nos dan"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

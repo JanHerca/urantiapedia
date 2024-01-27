@@ -1,5 +1,5 @@
 ---
-título: "Variedad: los dados de la vida"
+title: "Variedad: los dados de la vida"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-título: "La fe y el camino de la canalización"
+title: "La fe y el camino de la canalización"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

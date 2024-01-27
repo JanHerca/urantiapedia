@@ -1,5 +1,5 @@
 ---
-título: "Entonces, ¿cuál es la conexión?"
+title: "Entonces, ¿cuál es la conexión?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

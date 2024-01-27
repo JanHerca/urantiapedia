@@ -1,5 +1,5 @@
 ---
-título: "¡La visita de Caligastia!"
+title: "¡La visita de Caligastia!"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

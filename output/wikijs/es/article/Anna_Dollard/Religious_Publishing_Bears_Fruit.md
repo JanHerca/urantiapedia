@@ -1,5 +1,5 @@
 ---
-título: "Las publicaciones religiosas dan frutos"
+title: "Las publicaciones religiosas dan frutos"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-título: "Cómo llegar a ser más parecido a Jesús"
+title: "Cómo llegar a ser más parecido a Jesús"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

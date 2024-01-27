@@ -1,5 +1,5 @@
 ---
-título: "¿Psíquico o espiritual?"
+title: "¿Psíquico o espiritual?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

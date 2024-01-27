@@ -1,5 +1,5 @@
 ---
-título: "¿Dios es él o ella?"
+title: "¿Dios es él o ella?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

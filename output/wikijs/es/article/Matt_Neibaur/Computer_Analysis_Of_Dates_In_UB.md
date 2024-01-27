@@ -1,5 +1,5 @@
 ---
-título: "Análisis informático de las fechas en el libro de Urantia"
+title: "Análisis informático de las fechas en el libro de Urantia"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

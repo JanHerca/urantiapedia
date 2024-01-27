@@ -1,5 +1,5 @@
 ---
-título: "El libro de Urantia: La cuestión del origen"
+title: "El libro de Urantia: La cuestión del origen"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

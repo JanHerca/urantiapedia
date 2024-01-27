@@ -1,5 +1,5 @@
 ---
-título: "Ingredientes para la resolución de problemas"
+title: "Ingredientes para la resolución de problemas"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

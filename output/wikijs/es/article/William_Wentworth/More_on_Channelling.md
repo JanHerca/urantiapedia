@@ -1,5 +1,5 @@
 ---
-título: "Más sobre la canalización"
+title: "Más sobre la canalización"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

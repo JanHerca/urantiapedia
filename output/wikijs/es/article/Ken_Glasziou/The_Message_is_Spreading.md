@@ -1,5 +1,5 @@
 ---
-título: "El mensaje se está difundiendo"
+title: "El mensaje se está difundiendo"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

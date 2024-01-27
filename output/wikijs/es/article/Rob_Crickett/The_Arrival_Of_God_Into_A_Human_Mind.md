@@ -1,5 +1,5 @@
 ---
-título: "La llegada de Dios a la mente humana"
+title: "La llegada de Dios a la mente humana"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

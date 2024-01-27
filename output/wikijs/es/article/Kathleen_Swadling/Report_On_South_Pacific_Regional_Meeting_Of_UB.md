@@ -1,5 +1,5 @@
 ---
-título: "Informe sobre la reunión regional de lectores del libro de Urantia en el Pacífico Sur"
+title: "Informe sobre la reunión regional de lectores del libro de Urantia en el Pacífico Sur"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

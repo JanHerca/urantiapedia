@@ -1,5 +1,5 @@
 ---
-título: "Para hacer evaluaciones justas"
+title: "Para hacer evaluaciones justas"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

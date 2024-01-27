@@ -1,5 +1,5 @@
 ---
-título: "Discusión sobre el progreso del Apocalipsis"
+title: "Discusión sobre el progreso del Apocalipsis"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

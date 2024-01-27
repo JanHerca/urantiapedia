@@ -1,5 +1,5 @@
 ---
-título: "La misión docente. «Si no son personalidades reales, ¿entonces qué?»"
+title: "La misión docente. «Si no son personalidades reales, ¿entonces qué?»"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

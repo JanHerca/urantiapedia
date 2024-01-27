@@ -1,5 +1,5 @@
 ---
-título: "Acordar estar en desacuerdo"
+title: "Acordar estar en desacuerdo"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

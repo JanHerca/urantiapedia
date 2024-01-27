@@ -1,5 +1,5 @@
 ---
-título: "De mochilero de Melbourne a Sydney"
+title: "De mochilero de Melbourne a Sydney"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

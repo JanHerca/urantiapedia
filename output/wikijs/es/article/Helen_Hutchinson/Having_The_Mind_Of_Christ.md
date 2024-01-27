@@ -1,5 +1,5 @@
 ---
-título: "Tener la mente de Cristo"
+title: "Tener la mente de Cristo"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

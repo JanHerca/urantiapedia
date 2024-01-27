@@ -1,5 +1,5 @@
 ---
-título: "La Hermandad de los hombres"
+title: "La Hermandad de los hombres"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

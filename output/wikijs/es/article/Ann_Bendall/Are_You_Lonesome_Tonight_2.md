@@ -1,5 +1,5 @@
 ---
-título: "¿Estás solo esta noche?"
+title: "¿Estás solo esta noche?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

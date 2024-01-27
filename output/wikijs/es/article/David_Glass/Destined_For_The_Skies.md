@@ -1,5 +1,5 @@
 ---
-título: "Destinado a los cielos"
+title: "Destinado a los cielos"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

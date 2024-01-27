@@ -1,5 +1,5 @@
 ---
-título: "El tapiz o servicio amoroso"
+title: "El tapiz o servicio amoroso"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

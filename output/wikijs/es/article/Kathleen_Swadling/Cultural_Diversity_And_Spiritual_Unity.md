@@ -1,5 +1,5 @@
 ---
-título: "Diversidad cultural y unidad espiritual"
+title: "Diversidad cultural y unidad espiritual"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

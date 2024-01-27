@@ -1,5 +1,5 @@
 ---
-título: "¿Puede Caligastia realmente llegar a nuestras mentes?"
+title: "¿Puede Caligastia realmente llegar a nuestras mentes?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

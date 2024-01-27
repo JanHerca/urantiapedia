@@ -1,5 +1,5 @@
 ---
-título: "Fandor: ave de pasajeros de Urantia"
+title: "Fandor: ave de pasajeros de Urantia"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

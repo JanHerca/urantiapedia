@@ -1,5 +1,5 @@
 ---
-título: "Informe sobre la reunión australiana de lectores del libro de Urantia de 1987"
+title: "Informe sobre la reunión australiana de lectores del libro de Urantia de 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

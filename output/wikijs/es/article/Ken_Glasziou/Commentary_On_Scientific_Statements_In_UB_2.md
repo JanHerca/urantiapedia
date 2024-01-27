@@ -1,5 +1,5 @@
 ---
-título: "Comentario sobre las declaraciones científicas del Libro de Urantia, Parte II"
+title: "Comentario sobre las declaraciones científicas del Libro de Urantia, Parte II"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

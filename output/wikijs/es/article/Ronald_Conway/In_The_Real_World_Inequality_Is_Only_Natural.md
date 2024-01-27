@@ -1,5 +1,5 @@
 ---
-título: "En el mundo real, la desigualdad es natural"
+title: "En el mundo real, la desigualdad es natural"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

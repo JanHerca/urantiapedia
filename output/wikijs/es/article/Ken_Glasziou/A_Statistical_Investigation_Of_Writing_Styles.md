@@ -1,5 +1,5 @@
 ---
-título: "Una investigación estadística de los estilos de escritura en los documentos de Urantia"
+title: "Una investigación estadística de los estilos de escritura en los documentos de Urantia"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

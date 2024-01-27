@@ -1,5 +1,5 @@
 ---
-título: "Lingüística: acertijos del lenguaje universal"
+title: "Lingüística: acertijos del lenguaje universal"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

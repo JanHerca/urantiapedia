@@ -1,5 +1,5 @@
 ---
-título: "Alivio asociado con ser lector del libro de Urantia"
+title: "Alivio asociado con ser lector del libro de Urantia"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

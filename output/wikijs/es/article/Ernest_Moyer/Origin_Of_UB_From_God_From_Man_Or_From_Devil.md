@@ -1,5 +1,5 @@
 ---
-título: "Origen del libro de Urantia. ¿De Dios, del hombre o del diablo?"
+title: "Origen del libro de Urantia. ¿De Dios, del hombre o del diablo?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-título: "Un ensayo bibliográfico sobre algunas fuentes humanas utilizadas en El libro de Urantia"
+title: "Un ensayo bibliográfico sobre algunas fuentes humanas utilizadas en El libro de Urantia"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

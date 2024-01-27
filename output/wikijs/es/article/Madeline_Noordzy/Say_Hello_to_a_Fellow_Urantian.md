@@ -1,5 +1,5 @@
 ---
-título: "Saluda a un compañero urantiano"
+title: "Saluda a un compañero urantiano"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

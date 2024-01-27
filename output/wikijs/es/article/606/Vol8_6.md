@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 8 Núm. 6 - Noviembre de 1987"
+title: "Boletín Six-0-Six - Volumen 8 Núm. 6 - Noviembre de 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

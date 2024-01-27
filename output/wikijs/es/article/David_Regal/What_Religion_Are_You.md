@@ -1,5 +1,5 @@
 ---
-título: "¿De qué religión eres?"
+title: "¿De qué religión eres?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

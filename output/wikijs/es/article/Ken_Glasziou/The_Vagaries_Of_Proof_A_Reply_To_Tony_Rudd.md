@@ -1,5 +1,5 @@
 ---
-título: "Los caprichos de la prueba: una respuesta a Tony Rudd"
+title: "Los caprichos de la prueba: una respuesta a Tony Rudd"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

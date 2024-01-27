@@ -1,5 +1,5 @@
 ---
-título: "Agujeros negros y estrellas de neutrones"
+title: "Agujeros negros y estrellas de neutrones"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

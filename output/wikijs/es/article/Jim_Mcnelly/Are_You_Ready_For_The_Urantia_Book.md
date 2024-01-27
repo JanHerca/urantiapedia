@@ -1,5 +1,5 @@
 ---
-título: "¿Estás preparado para El libro de Urantia?"
+title: "¿Estás preparado para El libro de Urantia?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

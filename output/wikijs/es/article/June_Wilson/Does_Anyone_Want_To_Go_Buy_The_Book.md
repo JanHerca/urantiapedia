@@ -1,5 +1,5 @@
 ---
-título: "¿Alguien quiere ir a comprar el libro?"
+title: "¿Alguien quiere ir a comprar el libro?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

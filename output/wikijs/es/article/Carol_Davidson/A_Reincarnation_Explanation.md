@@ -1,5 +1,5 @@
 ---
-título: "Una explicación de la reencarnación"
+title: "Una explicación de la reencarnación"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

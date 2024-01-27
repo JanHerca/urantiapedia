@@ -1,5 +1,5 @@
 ---
-título: "Del gran debate sobre la alfabetización"
+title: "Del gran debate sobre la alfabetización"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

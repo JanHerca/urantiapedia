@@ -1,5 +1,5 @@
 ---
-título: "Boletín Six-0-Six - Volumen 9 Núm. 4 - Julio de 1988"
+title: "Boletín Six-0-Six - Volumen 9 Núm. 4 - Julio de 1988"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

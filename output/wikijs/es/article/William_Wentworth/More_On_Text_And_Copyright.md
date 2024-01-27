@@ -1,5 +1,5 @@
 ---
-título: "Más sobre el texto y los derechos de autor"
+title: "Más sobre el texto y los derechos de autor"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

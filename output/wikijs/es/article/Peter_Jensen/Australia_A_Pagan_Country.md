@@ -1,5 +1,5 @@
 ---
-título: "Australia: ¿un país pagano?"
+title: "Australia: ¿un país pagano?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

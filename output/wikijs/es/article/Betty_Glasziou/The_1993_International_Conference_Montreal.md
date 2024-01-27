@@ -1,5 +1,5 @@
 ---
-título: "Conferencia internacional para lectores del libro de Urantia de 1993, Montreal, Canadá"
+title: "Conferencia internacional para lectores del libro de Urantia de 1993, Montreal, Canadá"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

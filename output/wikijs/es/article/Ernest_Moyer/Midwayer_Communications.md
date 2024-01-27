@@ -1,5 +1,5 @@
 ---
-título: "Comunicaciones Intermedias"
+title: "Comunicaciones Intermedias"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

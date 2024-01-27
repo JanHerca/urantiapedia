@@ -1,5 +1,5 @@
 ---
-título: "Reencarnación o repersonalización"
+title: "Reencarnación o repersonalización"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

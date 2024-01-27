@@ -1,5 +1,5 @@
 ---
-título: "«Saludo al Dios que está dentro de ti»"
+title: "«Saludo al Dios que está dentro de ti»"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

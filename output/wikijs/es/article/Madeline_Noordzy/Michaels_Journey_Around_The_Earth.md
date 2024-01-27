@@ -1,5 +1,5 @@
 ---
-título: "El viaje de Miguel alrededor de la Tierra"
+title: "El viaje de Miguel alrededor de la Tierra"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

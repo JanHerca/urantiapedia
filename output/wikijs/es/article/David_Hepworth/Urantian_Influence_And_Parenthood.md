@@ -1,5 +1,5 @@
 ---
-título: "La influencia urantiana y la paternidad"
+title: "La influencia urantiana y la paternidad"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

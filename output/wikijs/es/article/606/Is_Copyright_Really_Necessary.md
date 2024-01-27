@@ -1,5 +1,5 @@
 ---
-título: "«¿Son realmente necesarios los derechos de autor?»"
+title: "«¿Son realmente necesarios los derechos de autor?»"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

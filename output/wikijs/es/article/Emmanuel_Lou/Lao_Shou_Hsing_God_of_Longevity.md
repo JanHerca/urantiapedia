@@ -1,5 +1,5 @@
 ---
-título: "Lao Shou Hsing, dios de la longevidad"
+title: "Lao Shou Hsing, dios de la longevidad"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

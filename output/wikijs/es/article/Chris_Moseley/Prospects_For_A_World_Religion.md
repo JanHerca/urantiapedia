@@ -1,5 +1,5 @@
 ---
-título: "Perspectivas de una religión mundial"
+title: "Perspectivas de una religión mundial"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

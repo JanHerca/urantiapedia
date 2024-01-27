@@ -1,5 +1,5 @@
 ---
-título: "Bautismo del Espíritu"
+title: "Bautismo del Espíritu"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

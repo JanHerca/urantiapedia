@@ -1,5 +1,5 @@
 ---
-título: "“Antes que el gallo cante...”"
+title: "“Antes que el gallo cante...”"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

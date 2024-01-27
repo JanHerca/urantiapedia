@@ -1,5 +1,5 @@
 ---
-título: "Sobre la práctica de hacer la voluntad de Dios"
+title: "Sobre la práctica de hacer la voluntad de Dios"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

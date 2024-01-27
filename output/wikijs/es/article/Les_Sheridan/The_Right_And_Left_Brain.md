@@ -1,5 +1,5 @@
 ---
-título: "El cerebro derecho y el izquierdo"
+title: "El cerebro derecho y el izquierdo"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

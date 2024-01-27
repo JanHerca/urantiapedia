@@ -1,5 +1,5 @@
 ---
-título: "La derivación de valores"
+title: "La derivación de valores"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

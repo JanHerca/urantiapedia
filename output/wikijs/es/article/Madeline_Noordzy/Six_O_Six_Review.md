@@ -1,5 +1,5 @@
 ---
-título: "Revisión de Six-O-Six"
+title: "Revisión de Six-O-Six"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

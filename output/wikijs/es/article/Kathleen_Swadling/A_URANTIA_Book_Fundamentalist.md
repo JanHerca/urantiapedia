@@ -1,5 +1,5 @@
 ---
-título: "¿Un fundamentalista del Libro de URANTIA?"
+title: "¿Un fundamentalista del Libro de URANTIA?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

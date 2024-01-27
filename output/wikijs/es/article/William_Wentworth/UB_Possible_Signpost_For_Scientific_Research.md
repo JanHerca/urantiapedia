@@ -1,5 +1,5 @@
 ---
-título: "El Libro de Urantia ¿Posible señal para la investigación científica?"
+title: "El Libro de Urantia ¿Posible señal para la investigación científica?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-título: "De ET a E-3 manteniendo la mente abierta al respecto"
+title: "De ET a E-3 manteniendo la mente abierta al respecto"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

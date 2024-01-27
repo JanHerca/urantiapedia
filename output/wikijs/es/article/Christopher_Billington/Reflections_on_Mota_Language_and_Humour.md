@@ -1,5 +1,5 @@
 ---
-título: "Reflexiones sobre la mota, el lenguaje y el humor"
+title: "Reflexiones sobre la mota, el lenguaje y el humor"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

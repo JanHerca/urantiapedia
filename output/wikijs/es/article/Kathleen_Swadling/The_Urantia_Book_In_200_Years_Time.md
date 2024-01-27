@@ -1,5 +1,5 @@
 ---
-título: "El libro de Urantia dentro de 200 años"
+title: "El libro de Urantia dentro de 200 años"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

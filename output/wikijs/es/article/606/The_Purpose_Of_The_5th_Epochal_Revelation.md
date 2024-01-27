@@ -1,5 +1,5 @@
 ---
-título: "El propósito de la quinta revelación de época"
+title: "El propósito de la quinta revelación de época"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

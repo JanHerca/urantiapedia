@@ -1,5 +1,5 @@
 ---
-título: "Los tontos se apresuran y los ángeles tienen que seguirlos"
+title: "Los tontos se apresuran y los ángeles tienen que seguirlos"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-título: "La ciencia y el libro de Urantia"
+title: "La ciencia y el libro de Urantia"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-título: "¿Debería haberse modificado el texto original?"
+title: "¿Debería haberse modificado el texto original?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

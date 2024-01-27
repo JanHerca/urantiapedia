@@ -1,5 +1,5 @@
 ---
-título: "La clave para un servicio amoroso"
+title: "La clave para un servicio amoroso"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

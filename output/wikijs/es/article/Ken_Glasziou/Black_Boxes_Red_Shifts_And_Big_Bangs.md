@@ -1,5 +1,5 @@
 ---
-título: "Cajas negras, desplazamientos al rojo y big bangs"
+title: "Cajas negras, desplazamientos al rojo y big bangs"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

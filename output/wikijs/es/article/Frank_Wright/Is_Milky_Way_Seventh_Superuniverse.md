@@ -1,5 +1,5 @@
 ---
-título: "¿Es la Vía Láctea el séptimo superuniverso de Orvonton?"
+title: "¿Es la Vía Láctea el séptimo superuniverso de Orvonton?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-título: "Ver el mundo bajo una nueva luz"
+title: "Ver el mundo bajo una nueva luz"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

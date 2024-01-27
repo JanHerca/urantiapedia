@@ -1,5 +1,5 @@
 ---
-título: "Saludos desde el grupo de estudio de Sydney"
+title: "Saludos desde el grupo de estudio de Sydney"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

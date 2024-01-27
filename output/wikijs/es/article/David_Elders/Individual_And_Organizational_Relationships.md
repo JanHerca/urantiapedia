@@ -1,5 +1,5 @@
 ---
-título: "Una perspectiva de servicio de las relaciones individuales y organizativas"
+title: "Una perspectiva de servicio de las relaciones individuales y organizativas"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

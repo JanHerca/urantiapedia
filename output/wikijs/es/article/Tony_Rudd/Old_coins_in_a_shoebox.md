@@ -1,5 +1,5 @@
 ---
-título: "Monedas antiguas en una caja de zapatos"
+title: "Monedas antiguas en una caja de zapatos"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

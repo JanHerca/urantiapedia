@@ -1,5 +1,5 @@
 ---
-título: "¿Cuándo fue la fecha de la crucifixión de Miguel?"
+title: "¿Cuándo fue la fecha de la crucifixión de Miguel?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
