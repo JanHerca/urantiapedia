@@ -1,5 +1,5 @@
 ---
-titre : « Quelle était la date de la crucifixion de Michael ? »
+title: "Quelle était la date de la crucifixion de Michael ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

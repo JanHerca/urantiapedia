@@ -1,5 +1,5 @@
 ---
-titre : « Canalisation et communication avec le monde des esprits »
+title: « Canalisation et communication avec le monde des esprits »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

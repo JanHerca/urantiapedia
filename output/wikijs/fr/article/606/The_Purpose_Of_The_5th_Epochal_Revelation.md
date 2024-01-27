@@ -1,5 +1,5 @@
 ---
-titre : "Le but de la 5ème révélation d'époque"
+title: "Le but de la 5ème révélation d'époque"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

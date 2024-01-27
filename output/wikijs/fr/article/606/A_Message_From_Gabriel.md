@@ -1,5 +1,5 @@
 ---
-titre : "Un message de Gabriel"
+title: "Un message de Gabriel"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

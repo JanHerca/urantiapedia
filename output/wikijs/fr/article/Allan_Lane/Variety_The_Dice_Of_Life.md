@@ -1,5 +1,5 @@
 ---
-titre : "Variété - Les dés de la vie"
+title: "Variété - Les dés de la vie"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

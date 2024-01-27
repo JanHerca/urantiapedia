@@ -1,5 +1,5 @@
 ---
-titre : "Bulletin Six-0-Six — Volume 8 n° 5 — Septembre 1987"
+title: "Bulletin Six-0-Six — Volume 8 n° 5 — Septembre 1987"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

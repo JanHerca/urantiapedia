@@ -1,5 +1,5 @@
 ---
-titre : « Que dit le Livre d'Urantia sur la communication avec le monde des esprits ?
+title: "Que dit le Livre d'Urantia sur la communication avec le monde des esprits ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

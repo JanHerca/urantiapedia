@@ -1,5 +1,5 @@
 ---
-titre : « Le droit d'auteur est-il vraiment nécessaire ? »
+title: "Le droit d'auteur est-il vraiment nécessaire ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

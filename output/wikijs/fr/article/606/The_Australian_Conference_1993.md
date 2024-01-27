@@ -1,5 +1,5 @@
 ---
-titre : « La Conférence australienne 1993 »
+title: "La Conférence australienne 1993"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

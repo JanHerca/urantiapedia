@@ -1,5 +1,5 @@
 ---
-titre : "Bulletin Six-0-Six — Dixième anniversaire — Février 1990"
+title: "Bulletin Six-0-Six — Dixième anniversaire — Février 1990"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-titre : "Une vision pour l'avenir"
+title: "Une vision pour l'avenir"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

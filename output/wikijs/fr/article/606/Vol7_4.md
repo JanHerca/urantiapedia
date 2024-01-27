@@ -1,5 +1,5 @@
 ---
-titre : "Bulletin Six-0-Six — Volume 7 n° 4 — Mai 1986"
+title: "Bulletin Six-0-Six — Volume 7 n° 4 — Mai 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

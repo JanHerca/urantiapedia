@@ -1,5 +1,5 @@
 ---
-titre : « À propos de la guidance intérieure – Une perspective cosmique »
+title: "À propos de la guidance intérieure – Une perspective cosmique"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-titre : "La puissance de l'esprit de vérité"
+title: "La puissance de l'esprit de vérité"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

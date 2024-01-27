@@ -1,5 +1,5 @@
 ---
-titre : « Que dit le Livre d'Urantia sur la volonté de Dieu ?
+title: "Que dit le Livre d'Urantia sur la volonté de Dieu ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

@@ -1,5 +1,5 @@
 ---
-titre : "Rapport de la Conférence 1986"
+title: "Rapport de la Conférence 1986"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z

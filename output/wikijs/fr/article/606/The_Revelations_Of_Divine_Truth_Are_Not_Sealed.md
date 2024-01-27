@@ -1,5 +1,5 @@
 ---
-titre : « Les révélations de la vérité divine ne sont pas scellées… »
+title: "Les révélations de la vérité divine ne sont pas scellées..."
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
