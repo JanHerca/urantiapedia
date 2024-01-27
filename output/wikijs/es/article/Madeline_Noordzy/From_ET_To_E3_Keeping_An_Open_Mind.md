@@ -65,7 +65,7 @@ En el pasado, los pronósticos apocalípticos han infundido miedo en la mente de
 
 > «_Este hecho inhabitual es el que atrae rápidamente la atención de los visitantes estudiantiles procedentes del exterior de Nebadon._» (<a id="a65_138"></a>[LU 37:3.3](/es/The_Urantia_Book/37#p3_3))
 
-En la página siguiente (409:1) nos preguntan:
+En la página siguiente (LU 37:3.4) nos preguntan:
 
 > «_¿Captáis la importancia del hecho de que vuestro humilde y confuso planeta se ha convertido en una sede divisionaria de la administración del universo y de la dirección de ciertas actividades arcangélicas relacionadas con el programa de la ascensión al Paraíso?_» (<a id="a69_269"></a>[LU 37:3.4](/es/The_Urantia_Book/37#p3_4))
 

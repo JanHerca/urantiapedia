@@ -42,7 +42,7 @@ The scientific and technological age is no respector of persons. Each of the fiv
 
 One aspect of specialization is a narrower focusing of our energies, until other elements of our existence become channeled into a very narrow band of thinking. Indeed we do focus our minds on God. But what specialization could be more noble? Our feet are on the ground. As well as the spirit of God, we have been given the facts — science and the beauty of true emotions, and all in one dose — truth, beauty and goodness. If we are dogmatic it is not through narrow-mindedness; it is through expansions of existence.
 
-> “If the personal experience of a faither is to be challenged by dogma, then this faith-born son of the experiencible Father may reply with that unchallengeable dogma, the statement of his actual sonship with the Universal Father.” (<a id="a44_234"></a>[UB 102:7.7](/en/The_Urantia_Book/102#p7_7))
+> “If the personal experience of a father is to be challenged by dogma, then this faith-born son of the experiencible Father may reply with that unchallengeable dogma, the statement of his actual sonship with the Universal Father.” (<a id="a44_234"></a>[UB 102:7.7](/en/The_Urantia_Book/102#p7_7))
 
 We don't have gurus or churches, but we can compete with the best. What greater teacher can we have than God himself in the indwelling Adjuster.
 

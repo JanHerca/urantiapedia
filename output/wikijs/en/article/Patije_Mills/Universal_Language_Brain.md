@@ -54,11 +54,11 @@ Orvonton = our Super Universe — note: _the URANTIA Book_ indicates that the su
 - Orvonton = The Supreme Universe of the Father, Son and Spirit.
 
 Monota = The living, non-spirit energy of Paradise; energy system of the Universal Father (471).
--Mo = System, or philosophy?
--On = Of the Son
--No = ???
--Ta= Living, non-spirit energy
--Monota = Living non-spiritual Energy System of the Son?
+- Mo = System, or philosophy?
+- On = Of the Son
+- No = ???
+- Ta= Living, non-spirit energy
+- Monota = Living non-spiritual Energy System of the Son?
 
 Mota = High levels of cosmic insight/more than a superior philosophy — it has a stereoscopic effect on meanings and values (<a id="a62_124"></a>[UB 48:7](/en/The_Urantia_Book/48#p7)).
 - Mo = System, or philosophy?

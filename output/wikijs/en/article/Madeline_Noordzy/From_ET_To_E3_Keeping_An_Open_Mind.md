@@ -64,7 +64,7 @@ In the past, apocalyptic forecasts have instilled fear into the minds of people.
 
 > “_It is this unusual fact that soon arrests the attention of extra-Nebadon student visitors_”. (<a id="a64_98"></a>[UB 37:3.3](/en/The_Urantia_Book/37#p3_3))
 
-On the next page (409:1) they ask us:
+On the next page (UB 37:3.4) they ask us:
 
 > “_Do you grasp the significance of the fact that your lowly and confused planet has become a divisional headquarters for the universe administration and direction of certain archangel activities having to do with the Paradise ascension scheme?_” <a id="a68_248"></a>[UB 37:3.4](/en/The_Urantia_Book/37#p3_4)
 
