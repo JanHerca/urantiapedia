@@ -100,7 +100,7 @@ The first Taoists had done a great deal of research to identify Hsi Wang Mu. Lie
 
 One hypothesis is the following: the traditions about Eve were introduced through the mother cult.
 
-> “It was during this age in Crete that the mother cult of the descendants of Cain attained its greatest vogue. This cult glorified Eve in the worship of the ”great mother“. Images of Eve were everywhere. Thousands of public shrines were erected throughout Crete and Asia Minor”. (<a id="a102_281"></a>[UB 80:7.7](/en/The_Urantia_Book/80#p7_7))
+> “It was during this age in Crete that the mother cult of the descendants of Cain attained its greatest vogue. This cult glorified Eve in the worship of the “great mother”. Images of Eve were everywhere. Thousands of public shrines were erected throughout Crete and Asia Minor”. (<a id="a102_281"></a>[UB 80:7.7](/en/The_Urantia_Book/80#p7_7))
 
 <figure id="Figure_3" class="image urantiapedia" alt="Hsi Wang Mu">
 <img src="/image/article/606/Hsi_Wang_Mu.jpg">

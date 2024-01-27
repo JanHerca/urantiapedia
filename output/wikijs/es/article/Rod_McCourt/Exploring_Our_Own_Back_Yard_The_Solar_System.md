@@ -1,6 +1,6 @@
 ---
 title: "Explorando nuestro propio patio trasero: el sistema solar"
-descripción: "El punto de vista del astrónomo profano"
+description: "El punto de vista del astrónomo profano"
 published: true
 date: 2023-11-12T14:02:03.086Z
 tags: Science, Astronomy, 6-0-6, article

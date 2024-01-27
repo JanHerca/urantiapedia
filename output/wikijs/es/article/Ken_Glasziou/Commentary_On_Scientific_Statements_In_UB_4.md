@@ -32,7 +32,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 
-### Los orígenes de la vida
+## Los orígenes de la vida
 
 _El Libro de URANTIA_ nos dice que las primeras implantaciones de vida se realizaron en esta tierra hace 550 millones de años, y que todas las formas de vida posteriores han evolucionado a partir de estas implantaciones originales.
 

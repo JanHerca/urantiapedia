@@ -31,7 +31,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 </figure>
 
 
-### The Origins Of Life
+## The Origins Of Life
 
 _The URANTIA Book_ tells us that the first life implantations were made on this earth 550 million years ago, and that all subsequent living forms have evolved from these original implantations.
 
