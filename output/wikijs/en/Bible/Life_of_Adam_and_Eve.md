@@ -43,9 +43,9 @@ While the surviving versions were composed from the early 3rd to the 5th century
 ## Index
 
 - [Apocalypse of Moses](/en/Bible/Life_of_Adam_and_Eve/Apocalypse_of_Moses) (Greek version of the Life of Adam and Eve)
-- [Latin Life of Adam and Eve](/en/Bible/Latin_Life_of_Adam_and_Eve)
-- [Slavonic Life of Adam and Eve](/en/Bible/Slavonic_Life_of_Adam_and_Eve)
-- [The Georgian Book of Adam](/en/Bible/The_Georgian_Book_of_Adam)
+- [Latin Life of Adam and Eve](/en/Bible/Life_of_Adam_and_Eve/Latin_Life_of_Adam_and_Eve)
+- [Slavonic Life of Adam and Eve](/en/Bible/Life_of_Adam_and_Eve/Slavonic_Life_of_Adam_and_Eve)
+- [The Georgian Book of Adam](/en/Bible/Life_of_Adam_and_Eve/The_Georgian_Book_of_Adam)
 
 ## External links
 

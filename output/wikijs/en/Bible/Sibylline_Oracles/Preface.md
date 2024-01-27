@@ -57,6 +57,8 @@ Those fragments of Sibylline Oracles which are preserved among the citations of 
 
 <span id="p11">[<sup><small>p. 11</small></sup>]</span>
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -474,6 +474,8 @@ Staff of the Shepherd, a victorious sword.
 
 <span id="p278">[<sup><small>p. 278</small></sup>]</span>
 
+<br>
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>

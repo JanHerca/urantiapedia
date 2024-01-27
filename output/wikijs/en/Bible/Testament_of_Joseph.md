@@ -18,7 +18,8 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 		<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 		<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-		<text style="font-size:9px" x="61" y="60">Testament of Joseph</text>
+		<text style="font-size:9px" x="61" y="60">Testament</text>
+		<text style="font-size:9px" x="61" y="70">of Joseph</text>
 	</g>
 </svg>
 </div>

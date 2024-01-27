@@ -30,7 +30,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 _From “The Old Testament Pseudepigrapha, Vol. 1”, James H. Charlesworth (1983)_
 
-Written between the 2nd and 5th centuries AD, in Greek, the “Apocalypse of Sedrach”, also known as the “Word of Sedrach”, is an ancient apocryphal text. It is preserved only in one 15th century manuscript (Bodleian Cod.Misc.Gr. 56, fols. 92–100). The text was published by M. R. James and translated into English by A. Rutherford. Apparently the original apocalypse was composed between AD 150 and 500, it was joined with a lengthy sermon on love to reach its final form shortly after AD 1000 (Agourides, 606). The original was probably Jewish, but this was later edited to take on a Christian flavour.
+Written between the 2nd and 5th centuries AD, in Greek, the “Apocalypse of Sedrach”, also known as the “Word of Sedrach”, is an ancient apocryphal text. It is preserved only in one 15th century manuscript (Bodleian Cod. Misc. Gr. 56, fols. 92–100). The text was published by M. R. James and translated into English by A. Rutherford. Apparently the original apocalypse was composed between AD 150 and 500, it was joined with a lengthy sermon on love to reach its final form shortly after AD 1000 (Agourides, 606). The original was probably Jewish, but this was later edited to take on a Christian flavour.
 
 The name of the titular figure, Sedrach may simply be the Greek form of Shadrach, the name of one of the three individuals put into the fiery furnace in the Book of Daniel. It may however simply be a corruption of Esdras, the Greek form of Ezra, particularly since the text has much similarity with other apocryphal texts attributed to Ezra, such as the Apocalypse of Ezra.
 

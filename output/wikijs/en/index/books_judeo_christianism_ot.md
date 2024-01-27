@@ -1145,7 +1145,7 @@ The list included here includes books that are considered _deuterocanonical apoc
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Susanna</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/en/Bible/Susanna" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -2137,7 +2137,7 @@ The list included here includes books that are considered _apocryphal pseudepigr
 							<text style="font-size:4px" x="61" y="130">F. C. Conybeare</text>
 							<text style="font-size:3px" x="61" y="135">Jewish Quarterly Review, 1898</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
-							<text style="font-size:9px" x="61" y="60">of Solomon</text>
+							<text style="font-size:9px" x="61" y="70">of Solomon</text>
 						</g>
 					</svg>
 				</div>
