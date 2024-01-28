@@ -45,13 +45,13 @@ ME Stone escribe: «La dependencia de la escritura de (presumiblemente la versi�
 
 ## Índice
 
-- [Capítulo 1](/es/Bible/Apocalipsis_griego_de_Ezra/1)
-- [Capítulo 2](/es/Bible/Apocalipsis_griego_de_Ezra/2)
+- [Capítulo 1](/es/Bible/Greek_Apocalypse_of_Ezra/1)
+- [Capítulo 2](/es/Bible/Greek_Apocalypse_of_Ezra/2)
 - [Capítulo 3](/es/Bible/Greek_Apocalypse_of_Ezra/3)
 - [Capítulo 4](/es/Bible/Greek_Apocalypse_of_Ezra/4)
 - [Capítulo 5](/es/Bible/Greek_Apocalypse_of_Ezra/5)
-- [Capítulo 6](/es/Bible/Apocalipsis_griego_de_Esdras/6)
-- [Capítulo 7](/es/Bible/Apocalipsis_griego_de_Ezra/7)
+- [Capítulo 6](/es/Bible/Greek_Apocalypse_of_Ezra/6)
+- [Capítulo 7](/es/Bible/Greek_Apocalypse_of_Ezra/7)
 
 [Índice completo de la Biblia](/es/index/bible)
 

@@ -63,8 +63,8 @@ M.E. Stone escribe: «No hay pruebas suficientes para determinar si el escrito f
 
 ## Índice
 
-- [Capítulo 1](/es/Bible/Preguntas_de_Ezra/1)
-- [Capítulo 2](/es/Bible/Preguntas_de_Ezra/2)
+- [Capítulo 1](/es/Bible/Questions_of_Ezra/1)
+- [Capítulo 2](/es/Bible/Questions_of_Ezra/2)
 
 [Índice completo de la Biblia](/es/index/bible)
 

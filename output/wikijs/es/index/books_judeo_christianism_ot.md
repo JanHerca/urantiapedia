@@ -918,7 +918,7 @@ La Lista ofrecida aquí comprende los libros que se consideran canónicos del An
 
 ## Libros Deuterocanónicos del Antiguo Testamento
 
-La lista que se incluye aquí comprende los libros que se consideran _apócrifos deuterocanónicos_ para la mayor parte de las confesiones, es decir, libros que en algunas confesiones se consideraron dignos de ser leídos y estudiados, en incluso forman parte del canon de algunas confesiones.
+La lista que se incluye aquí comprende los libros que se consideran _apócrifos deuterocanónicos_ para la mayor parte de las confesiones, es decir, libros que en algunas confesiones se consideraron dignos de ser leídos y estudiados, e incluso forman parte del canon de algunas confesiones.
 
 
 <div class="layout row wrap">
@@ -1100,7 +1100,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Esdras (también llamado “Esdras en griego” o “III Esdras”)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/es/Bible/xxx" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/Bible/1_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1123,7 +1123,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Esdras (también llamado “Apocalipsis de Esdras” o “IV Esdras”)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/es/Bible/xxx" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/Bible/2_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -1146,7 +1146,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Susana</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/es/Bible/xxx" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/Bible/Susanna" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
@@ -2400,7 +2400,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Las vidas de los profetas</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/en/Bible/The_Lives_of_the_Prophets" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/Bible/The_Lives_of_the_Prophets" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>

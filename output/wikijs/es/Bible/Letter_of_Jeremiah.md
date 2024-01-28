@@ -44,7 +44,7 @@ Daniel J. Harrington escribe: «La Carta de Jeremías no es un informe objetivo 
 
 ## Índice
 
-- [Capítulo 1](/Bible/Carta_de_Jeremías/1)
+- [Capítulo 1](/es/Bible/Letter_of_Jeremiah/1)
 
 
 

@@ -65,5 +65,5 @@ Leonhard Rost escribe: «Difícilmente podemos abordar la obra en su forma origi
 
 - [Early Jewish Writings](https://www.earlyjewishwritings.com/3baruch.html)
 - [Internet Archive](https://archive.org/details/Charles_The-Apocrypha-of-the-Old-Testament-vol-2_1913)
-- [Traducción de RH Charles en _Wesley Center Online_] (http://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-greek-apocalypse-of-baruch-o-3-baruch/)
+- [Traducción de RH Charles en _Wesley Center Online_](http://wesley.nnu.edu/sermons-essays-books/noncanonical-literature/noncanonical-literature-ot-pseudepigrapha/the-greek-apocalypse-of-baruch-o-3-baruch/)
 - [Wikipedia](https://es.wikipedia.org/wiki/Apocalipsis_griego_de_Baruc)

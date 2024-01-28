@@ -33,7 +33,7 @@ El Apocalipsis de Adán es un escrito apocalíptico gnóstico setiano. Es el qui
 
 ## Índice
 
-- [Capítulo I](/es/Biblia/Apocalypse_of_Adam/1)
+- [Capítulo I](/es/Bible/Apocalypse_of_Adam/1)
 
 
 
