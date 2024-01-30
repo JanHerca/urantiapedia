@@ -3,7 +3,7 @@ title: II Samuel
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -66,4 +66,4 @@ Dans la Septante, une base des canons bibliques chrétiens, le texte est divisé
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Books_of_Samuel
+- [Wikipédia](https://en.wikipedia.org/wiki/Books_of_Samuel)

@@ -3,7 +3,7 @@ title: Cantique des cantiques
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -46,4 +46,4 @@ Les deux sont en harmonie, chacun désirant l'autre et se réjouissant de l'inti
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Song_of_Songs
+- [Wikipédia](https://en.wikipedia.org/wiki/Song_of_Songs)

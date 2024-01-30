@@ -3,7 +3,7 @@ title: IIe Épître de Pierre
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -40,4 +40,4 @@ La deuxième épître de Pierre est un livre du Nouveau Testament de la Bible, t
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_of_Peter
+- [Wikipédia](https://en.wikipedia.org/wiki/Second_Epistle_of_Peter)

@@ -3,7 +3,7 @@ title: Esther
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -48,4 +48,4 @@ Le livre raconte l'histoire d'une femme hébraïque en Perse, née sous le nom d
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Esther
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Esther)

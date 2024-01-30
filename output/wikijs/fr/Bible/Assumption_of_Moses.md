@@ -3,7 +3,7 @@ title: Assomption de Moïse
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -51,4 +51,4 @@ On pense que le texte a été écrit à l'origine en hébreu ou dans une autre l
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Assumption_of_Moses
+- [Wikipédia](https://en.wikipedia.org/wiki/Assumption_of_Moses)

@@ -3,7 +3,7 @@ title: I Maccabées
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible, Deuterocanon OT
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -16,7 +16,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
-		<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 		<text style="font-size:9px" x="61" y="60">I Maccabées</text>
 	</g>
 </svg>
@@ -55,4 +55,4 @@ Le Premier Livre des Maccabées, également connu sous le nom de Premiers Maccab
 
 ## External links
 
-- https://en.wikipedia.org/wiki/1_Maccabees
+- [Wikipédia](https://en.wikipedia.org/wiki/1_Maccabees)

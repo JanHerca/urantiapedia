@@ -3,7 +3,7 @@ title: Deutéronome
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -75,4 +75,4 @@ L'un de ses versets les plus significatifs est [Deutéronome 6 : 4](/Bible/Deut�
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Deuteronomy
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Deuteronomy)

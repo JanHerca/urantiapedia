@@ -3,7 +3,7 @@ title: Épître de Jacques
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -50,4 +50,4 @@ L'épître vise à atteindre un large public juif. Au cours des dernières déce
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_of_James
+- [Wikipédia](https://en.wikipedia.org/wiki/Epistle_of_James)

@@ -3,7 +3,7 @@ title: Job
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -80,4 +80,4 @@ Le livre se trouve dans la section Ketuvim ("Écrits") de la Bible hébraïque (
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Job
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Job)

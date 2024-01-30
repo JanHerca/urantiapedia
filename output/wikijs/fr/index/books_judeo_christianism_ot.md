@@ -928,14 +928,14 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
-							<text style="font-size:9px" x="61" y="60">1 Macchabées</text>
+							<text style="font-size:9px" x="61" y="60">I Macchabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Macchabées</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">I Macchabées</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/1_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -951,14 +951,14 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
-							<text style="font-size:9px" x="61" y="60">2 Macchabées</text>
+							<text style="font-size:9px" x="61" y="60">II Macchabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Macchabées</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">II Macchabées</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/2_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -974,7 +974,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Siracide</text>
 							<text style="font-size:9px" x="61" y="70">(Ecclésiastique)</text>
@@ -998,7 +998,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Sagesse</text>
 						</g>
@@ -1021,7 +1021,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Baruch</text>
 						</g>
@@ -1044,7 +1044,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Tobie</text>
 						</g>
@@ -1067,7 +1067,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Judith</text>
 						</g>
@@ -1090,7 +1090,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">1 Esdras</text>
 						</g>
@@ -1099,7 +1099,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Esdras (également appelé « Ezra grec » ou « 3 Esdras »)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/fr/Bible/1_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/1_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1113,7 +1113,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">2 Esdras</text>
 						</g>
@@ -1122,7 +1122,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Esdras (également appelé « Révélation d'Esdras » ou « 4 Esdras »)</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/fr/Bible/2_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/2_Esdras" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1136,7 +1136,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Susanna</text>
 						</g>
@@ -1145,7 +1145,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Susanna</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1159,7 +1159,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Bel et le Dragon</text>
 						</g>
@@ -1168,7 +1168,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Bel et le Dragon</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/fr/Bible/Bel_and_the_Dragon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/Bel_and_the_Dragon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1182,7 +1182,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Prière de Manassé</text>
 						</g>
@@ -1205,7 +1205,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Lettre de Jérémie</text>
 						</g>
@@ -1228,7 +1228,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Ajouts à Esther</text>
 						</g>
@@ -1251,7 +1251,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Prière d'Azariah</text>
 						</g>
@@ -1274,7 +1274,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
+							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
 							<text style="font-size:3px" x="61" y="135">À partir de la version standard révisée avec apocryphes (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Psaume 151</text>
 						</g>
@@ -1306,7 +1306,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
 							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament</text>
@@ -1331,7 +1331,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Deuxième livre</text>
@@ -1356,7 +1356,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Troisième livre d'Enoch, 1928 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Hugo Odeberg</text>
 							<text style="font-size:9px" x="61" y="60">Troisième livre</text>
@@ -1381,7 +1381,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">Milton S. Terry</text>
 							<text style="font-size:3px" x="61" y="135">New York: Eaton & Mains, 1899 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oracles sibyllins</text>
@@ -1405,7 +1405,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Traité de Sem</text>
@@ -1415,7 +1415,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Traité de Sem</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1429,7 +1429,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
@@ -1440,7 +1440,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse de Sophonie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1454,7 +1454,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
@@ -1480,7 +1480,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Questions d'Esdras</text>
@@ -1504,7 +1504,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Révélation d'Esdras</text>
@@ -1528,7 +1528,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Vision d'Esdras</text>
@@ -1552,7 +1552,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
@@ -1563,7 +1563,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse de Sédrach</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1577,10 +1577,10 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament (tr.)</text>
+							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'A. T. (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">2 Baruch</text>
 						</g>
 					</svg>
@@ -1602,10 +1602,10 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament (tr.)</text>
+							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'A. T. (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">3 Baruch</text>
 						</g>
 					</svg>
@@ -1627,7 +1627,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Apocalypse d'Abraham, 1919 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">G. H. Box</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
@@ -1652,7 +1652,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Bibliothèque de Nag Hammadi, 1981 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">George W. MacRae</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
@@ -1677,7 +1677,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
@@ -1707,7 +1707,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1732,7 +1732,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1757,7 +1757,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1782,7 +1782,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1807,7 +1807,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1832,7 +1832,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1857,7 +1857,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1882,7 +1882,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1907,7 +1907,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1932,7 +1932,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1957,7 +1957,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -1982,7 +1982,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -2007,7 +2007,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">M. R. James</text>
 							<text style="font-size:3px" x="61" y="135">Apocrypha anecdota 2. Textes et études, 1897 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -2032,7 +2032,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les Pères Ante-Nicéens, 1885-1903 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Arthur Cleveland Coxe & Allan Menzies</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -2057,7 +2057,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -2082,7 +2082,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 1, 1983 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -2107,10 +2107,10 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament (tr.)</text>
+							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'A. T. (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Assomption</text>
 							<text style="font-size:9px" x="61" y="70">de Moïse</text>
 						</g>
@@ -2133,7 +2133,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">F. C. Conybeare</text>
 							<text style="font-size:3px" x="61" y="135">Jewish Quarterly Review, 1898 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -2144,7 +2144,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Salomon</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2158,7 +2158,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Le Livre de la Grotte aux Trésors, 1927 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">E. A. Wallis Budge</text>
 							<text style="font-size:9px" x="61" y="60">Testament</text>
@@ -2189,7 +2189,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Lettre d'Aristeas</text>
@@ -2213,10 +2213,10 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament (tr.)</text>
+							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'A. T. (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Livre des Jubilés</text>
 						</g>
 					</svg>
@@ -2238,10 +2238,10 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament (tr.)</text>
+							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'A. T. (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Martyre</text>
 							<text style="font-size:9px" x="61" y="70">d'Isaïe</text>
 						</g>
@@ -2264,7 +2264,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">E. W. Brooks</text>
 							<text style="font-size:3px" x="61" y="135">Joseph et Aseneth, 1918 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Joseph et Aseneth</text>
@@ -2288,10 +2288,10 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
-							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament (tr.)</text>
+							<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'A. T. (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Vie de</text>
 							<text style="font-size:9px" x="61" y="70">Adam et Ève</text>
 						</g>
@@ -2314,7 +2314,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Premier livre</text>
@@ -2339,7 +2339,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Deuxième livre</text>
@@ -2364,7 +2364,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">M. R. James</text>
 							<text style="font-size:3px" x="61" y="135">Les antiquités bibliques de Philon, 1917 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Pseudo-Philon</text>
@@ -2374,7 +2374,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Philo</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2388,7 +2388,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Les vies</text>
@@ -2399,7 +2399,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les vies des prophètes</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2413,7 +2413,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">L'échelle</text>
@@ -2438,7 +2438,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Université de Pennsylvanie, 1987 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Robert A. Kraft (ed.)</text>
 							<text style="font-size:9px" x="61" y="60">4 Baruch</text>
@@ -2462,7 +2462,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Histoire des</text>
@@ -2473,7 +2473,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Histoire des Réhabites</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2492,7 +2492,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">L'histoire</text>
@@ -2517,16 +2517,16 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:3px" x="61" y="135">De la version standard révisée avec apocryphes (tr.)</text>
-							<text style="font-size:9px" x="61" y="60">3 Maccabées</text>
+							<text style="font-size:9px" x="61" y="60">3 Macchabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Maccabées</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Macchabées</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/3_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2540,17 +2540,17 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">4 Maccabées</text>
+							<text style="font-size:9px" x="61" y="60">4 Macchabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Maccabées</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">4 Macchabées</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="/fr/Bible/4_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2564,7 +2564,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">Henry Cotton</text>
 							<text style="font-size:3px" x="61" y="135">Les cinq livres des Macchabées, 1832 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">5 Maccabées</text>
@@ -2588,7 +2588,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Pseudo-Phocylides</text>
@@ -2598,7 +2598,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Phocylides</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2617,7 +2617,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:9px" x="61" y="60">Psaumes de David</text>
 						</g>
 					</svg>
@@ -2639,7 +2639,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Psaumes de</text>
@@ -2664,7 +2664,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
 							<text style="font-size:9px" x="61" y="60">Les Odes</text>
@@ -2689,7 +2689,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Prières</text>
@@ -2715,7 +2715,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">James H. Charlesworth</text>
 							<text style="font-size:3px" x="61" y="135">Les pseudépigraphes de l'Ancien Testament, Vol. 2, 1985 (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Prière de Jacob</text>

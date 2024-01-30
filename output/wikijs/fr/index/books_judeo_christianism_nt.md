@@ -159,12 +159,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">1 Corinthiens</text>
+							<text style="font-size:9px" x="61" y="60">Ire Épître de Paul</text>
+							<text style="font-size:9px" x="61" y="70">aux Corinthiens</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Corinthiens</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ire Épître de Paul aux Corinthiens</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/1_Corinthians" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -182,12 +183,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">2 Corinthiens</text>
+							<text style="font-size:9px" x="61" y="60">IIe Épître de Paul</text>
+							<text style="font-size:9px" x="61" y="70">aux Corinthiens</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Corinthiens</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">IIe Épître de Paul aux Corinthiens</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/2_Corinthians" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -297,12 +299,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">1 Thessaloniciens</text>
+							<text style="font-size:9px" x="61" y="60">Ire ép. de Paul</text>
+							<text style="font-size:9px" x="61" y="70">aux Thessaloniciens</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Thessaloniciens</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ire ép. de Paul aux Thessaloniciens</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/1_Thessalonians" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -320,12 +323,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">2 Thessaloniciens</text>
+							<text style="font-size:9px" x="61" y="60">IIe ép. de Paul</text>
+							<text style="font-size:9px" x="61" y="70">aux Thessaloniciens</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Thessaloniciens</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">IIe ép. de Paul aux Thessaloniciens</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/2_Thessalonians" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -343,12 +347,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">1 Timothée</text>
+							<text style="font-size:9px" x="61" y="60">Ire Épître de Paul</text>
+							<text style="font-size:9px" x="61" y="70">à Timothée</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Timothée</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ire Épître de Paul à Timothée</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/1_Timothy" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -366,12 +371,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">2 Timothée</text>
+							<text style="font-size:9px" x="61" y="60">IIe Épître de Paul</text>
+							<text style="font-size:9px" x="61" y="70">à Timothée</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Timothée</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">IIe Épître de Paul à Timothée</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/2_Timothy" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -481,12 +487,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">1 Pierre</text>
+							<text style="font-size:9px" x="61" y="60">Ire Épître de Pierre</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Pierre</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ire Épître de Pierre</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/1_Peter" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -504,12 +510,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">2 Pierre</text>
+							<text style="font-size:9px" x="61" y="60">IIe Épître de Pierre</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Pierre</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">IIe Épître de Pierre</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/2_Peter" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -527,12 +533,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">1 Jean</text>
+							<text style="font-size:9px" x="61" y="60">Ire Épître de Jean</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">1 Jean</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Ire Épître de Jean</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/1_John" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -550,12 +556,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">2 Jean</text>
+							<text style="font-size:9px" x="61" y="60">IIe Épître de Jean</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">2 Jean</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">IIe Épître de Jean</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/2_John" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
@@ -573,12 +579,12 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 							<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-							<text style="font-size:9px" x="61" y="60">3 Jean</text>
+							<text style="font-size:9px" x="61" y="60">IIIe Épître de Jean</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">3 Jean</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">IIIe Épître de Jean</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/3_John" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

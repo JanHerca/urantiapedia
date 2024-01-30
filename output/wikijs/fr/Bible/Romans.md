@@ -3,7 +3,7 @@ title: Épître de Paul aux Romains
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -53,4 +53,4 @@ L'Épître aux Romains est le sixième livre du Nouveau Testament, et le plus lo
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Romans
+- [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_the_Romans)

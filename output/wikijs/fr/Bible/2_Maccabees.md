@@ -1,9 +1,9 @@
 ---
-title: II Maccabées
+title: "II Macchabées"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -16,8 +16,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
-		<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-		<text style="font-size:9px" x="61" y="60">II Maccabées</text>
+		<text style="font-size:4px" x="61" y="125">Version King James (tr.)</text>
+		<text style="font-size:9px" x="61" y="60">II Macchabées</text>
 	</g>
 </svg>
 </div>
@@ -56,4 +56,4 @@ Le livre, comme les autres livres des Maccabées, a été inclus dans la Septant
 
 ## External links
 
-- https://en.wikipedia.org/wiki/2_Maccabees
+- [Wikipédia](https://en.wikipedia.org/wiki/2_Maccabees)

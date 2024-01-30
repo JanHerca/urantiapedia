@@ -3,7 +3,7 @@ title: Épître de Paul aux Galates
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -47,4 +47,4 @@ Le différend central dans la lettre concerne la question de savoir comment les 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Galatians
+- [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_the_Galatians)

@@ -1,9 +1,9 @@
 ---
-title: IIe Épître de Jean
+title: "IIe Épître de Jean"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -39,4 +39,4 @@ Deuxième Jean et Troisième Jean sont les deux livres les plus courts de la Bib
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_of_John
+- [Wikipédia](https://en.wikipedia.org/wiki/Second_Epistle_of_John)

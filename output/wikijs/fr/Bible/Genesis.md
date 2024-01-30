@@ -3,7 +3,7 @@ title: Genèse
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -93,4 +93,4 @@ Dans le judaïsme, l'importance théologique de la Genèse est centrée sur les 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Genesis
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Genesis)

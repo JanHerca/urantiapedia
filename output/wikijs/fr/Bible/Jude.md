@@ -3,7 +3,7 @@ title: Épître de Jude
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -39,4 +39,4 @@ Jude est une courte épître écrite en grec koine. Il condamne en termes féroc
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_of_Jude
+- [Wikipédia](https://en.wikipedia.org/wiki/Epistle_of_Jude)

@@ -3,7 +3,7 @@ title: Ézéchiel
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -86,4 +86,4 @@ Les visions et le livre sont structurés autour de trois thèmes : (1) Jugement 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Ezekiel
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Ezekiel)

@@ -3,7 +3,7 @@ title: Habacuc
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -41,4 +41,4 @@ Des trois chapitres du livre, les deux premiers sont un dialogue entre Yahvé et
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Habakkuk
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Habakkuk)

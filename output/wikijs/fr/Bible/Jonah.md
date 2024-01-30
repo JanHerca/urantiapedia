@@ -3,7 +3,7 @@ title: Jonas
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -42,4 +42,4 @@ L'histoire a une longue histoire d'interprétation et est devenue bien connue gr
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Jonah
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Jonah)

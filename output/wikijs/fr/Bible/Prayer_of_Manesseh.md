@@ -3,7 +3,7 @@ title: Prière de Manassé
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -46,4 +46,4 @@ La prière apparaît dans les traductions en ancien syriaque, ancien slave, éth
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Prayer_of_Manasseh
+- [Wikipédia](https://en.wikipedia.org/wiki/Prayer_of_Manasseh)

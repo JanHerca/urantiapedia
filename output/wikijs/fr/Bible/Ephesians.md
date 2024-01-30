@@ -3,7 +3,7 @@ title: Épître de Paul aux Éphésiens
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -43,4 +43,4 @@ L'Épître aux Éphésiens est le dixième livre du Nouveau Testament. Sa patern
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians
+- [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians)

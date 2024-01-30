@@ -1,9 +1,9 @@
 ---
-title: IIe ép. de Paul aux Thessaloniciens
+title: "IIe ép. de Paul aux Thessaloniciens"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 		<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-		<text style="font-size:9px" x="61" y="60">IIe ép. de Paul aux Thessaloniciens</text>
+		<text style="font-size:9px" x="61" y="60">IIe ép. de Paul</text>
+		<text style="font-size:9px" x="61" y="70">aux Thessaloniciens</text>
 	</g>
 </svg>
 </div>
@@ -42,4 +43,4 @@ Les érudits qui soutiennent son authenticité le considèrent comme ayant été
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians
+- [Wikipédia](https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians)

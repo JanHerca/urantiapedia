@@ -3,7 +3,7 @@ title: Évangile selon Jean
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -60,4 +60,4 @@ John a atteint sa forme finale vers 90-110 après JC, bien qu'il contienne des s
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Gospel_of_John
+- [Wikipédia](https://en.wikipedia.org/wiki/Gospel_of_John)

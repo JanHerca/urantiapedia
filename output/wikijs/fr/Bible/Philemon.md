@@ -3,7 +3,7 @@ title: Épître de Paul à Philémon
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -40,4 +40,4 @@ Philémon était un riche chrétien, peut-être un évêque de l'église de mais
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Epistle_to_Philemon
+- [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_Philemon)

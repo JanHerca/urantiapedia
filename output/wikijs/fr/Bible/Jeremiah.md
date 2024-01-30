@@ -3,7 +3,7 @@ title: Jérémie
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -91,4 +91,4 @@ Il est descendu en deux versions distinctes bien que liées, l'une en hébreu, l
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Jeremiah
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Jeremiah)

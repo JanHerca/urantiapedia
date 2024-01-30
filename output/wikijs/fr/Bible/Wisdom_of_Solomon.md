@@ -3,7 +3,7 @@ title: Sagesse
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -56,4 +56,4 @@ Le Livre de la Sagesse, ou la Sagesse de Salomon, est une œuvre juive écrite e
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Wisdom
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Wisdom)

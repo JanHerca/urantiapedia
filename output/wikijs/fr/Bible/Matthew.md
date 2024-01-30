@@ -3,7 +3,7 @@ title: Évangile selon Matthieu
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -69,4 +69,4 @@ La plupart des érudits pensent que l'évangile a été composé entre 80 et 90 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Gospel_of_Matthew
+- [Wikipédia](https://en.wikipedia.org/wiki/Gospel_of_Matthew)

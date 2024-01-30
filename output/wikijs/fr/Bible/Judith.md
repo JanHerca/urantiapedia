@@ -3,7 +3,7 @@ title: Judith
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -53,4 +53,4 @@ Le Livre de Judith est un livre deutérocanonique, inclus dans la Septante et l'
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Judith
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Judith)

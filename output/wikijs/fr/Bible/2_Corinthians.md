@@ -1,9 +1,9 @@
 ---
-title: IIe Épître de Paul aux Corinthiens
+title: "IIe Épître de Paul aux Corinthiens"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLE</text>
 		<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
-		<text style="font-size:9px" x="61" y="60">IIe Épître de Paul aux Corinthiens</text>
+		<text style="font-size:9px" x="61" y="60">IIe Épître de Paul</text>
+		<text style="font-size:9px" x="61" y="70">aux Corinthiens</text>
 	</g>
 </svg>
 </div>
@@ -50,4 +51,4 @@ La deuxième épître aux Corinthiens est une épître paulinienne du Nouveau Te
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians
+- [Wikipédia](https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians)

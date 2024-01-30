@@ -3,7 +3,7 @@ title: Évangile selon Marc
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -57,4 +57,4 @@ Au 19e siècle, Marc est devenu le premier des quatre évangiles et une source u
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Gospel_of_Mark
+- [Wikipédia](https://en.wikipedia.org/wiki/Gospel_of_Mark)

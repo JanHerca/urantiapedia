@@ -3,7 +3,7 @@ title: Michée
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -47,4 +47,4 @@ Bien que le livre soit relativement court, il comprend la lamentation (1.8–16 
 
 ## External links
 
-- https://en.wikipedia.org/wiki/Book_of_Micah
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Micah)
