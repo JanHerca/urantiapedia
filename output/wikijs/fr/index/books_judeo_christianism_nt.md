@@ -654,7 +654,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">??</text>
 							<text style="font-size:9px" x="61" y="60">Le Protevangelium</text>
 							<text style="font-size:9px" x="61" y="70">de Jacques</text>
@@ -678,7 +678,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">??</text>
 							<text style="font-size:9px" x="61" y="60">Évangile du</text>
 							<text style="font-size:9px" x="61" y="70">pseudo-Matthieu</text>
@@ -702,7 +702,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">??</text>
 							<text style="font-size:9px" x="61" y="60">Livre de la</text>
 							<text style="font-size:9px" x="61" y="70">naissance de</text>
@@ -727,7 +727,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="125">??</text>
 							<text style="font-size:9px" x="61" y="60">Évangile latin</text>
 							<text style="font-size:9px" x="61" y="70">de l'enfance</text>
@@ -739,6 +739,328 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+### Évangiles de l'Enfance de Jésus
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
+							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
+							<text style="font-size:9px" x="61" y="60">Evangelio del</text>
+							<text style="font-size:9px" x="61" y="70">Pseudo Tomás</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evangelio del Pseudo Tomás</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/Bible/Infancy_Gospel_of_Thomas" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
+							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
+							<text style="font-size:9px" x="61" y="60">Evangelio árabe</text>
+							<text style="font-size:9px" x="61" y="70">de la Infancia</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evangelio árabe de la Infancia</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/Bible/Syriac_Infancy_Gospel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
+							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
+							<text style="font-size:9px" x="61" y="60">Historia de José</text>
+							<text style="font-size:9px" x="61" y="70">el Carpintero</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Historia de José el Carpintero</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/Bible/History_of_Joseph_the_Carpenter" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
+							<text style="font-size:3px" x="61" y="135">Évangiles apocryphes, 1934 (tr.)</text>
+							<text style="font-size:9px" x="61" y="60">Évangile de l’enfance</text>
+							<text style="font-size:9px" x="61" y="70">arménienne</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Évangile de l’enfance arménienne</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/Bible/Armenian_Infancy_Gospel" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
+							<text style="font-size:9px" x="61" y="60">Libro sobre</text>
+							<text style="font-size:9px" x="61" y="70">la infancia</text>
+							<text style="font-size:9px" x="61" y="80">del Salvador</text>
+							<text style="font-size:9px" x="61" y="90">(ms. lat. 11867)</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Libro sobre la infancia del Salvador (extractos), o «Liber de infantia Salvatoris» [ms. latino 11867 de la Biblioteca Nacional de París]</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/Bible/Latin_Infancy_Gospel_B" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+### Évangiles de la Passion et de la Résurrection
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
+							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
+							<text style="font-size:9px" x="61" y="60">Evangelio</text>
+							<text style="font-size:9px" x="61" y="70">de Pedro</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evangelio de Pedro [fragm. de Akhmîm]</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/Bible/Gospel_of_Peter" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="130">Edmundo González-Blanco</text>
+							<text style="font-size:3px" x="61" y="135">Evangelios Apócrifos, 1934</text>
+							<text style="font-size:9px" x="61" y="60">Actas de Pilato</text>
+							<text style="font-size:9px" x="61" y="70">o Evangelio</text>
+							<text style="font-size:9px" x="61" y="80">de Nicodemo</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Actas de Pilato o Evangelio de Nicodemo</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/Bible/Gospel_of_Nicodemus" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
+							<text style="font-size:9px" x="61" y="60">Escritos</text>
+							<text style="font-size:9px" x="61" y="70">complementarios</text>
+							<text style="font-size:9px" x="61" y="80">a las</text>
+							<text style="font-size:9px" x="61" y="90">«Actas de Pilato»</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Escritos complementarios a las «Actas de Pilato»</div>
+			<div class="urantiapedia-card-actions">
+				<a href="/fr/Bible/Gospel_of_Nicodemus_B" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
+							<text style="font-size:9px" x="61" y="60">Evangelio de</text>
+							<text style="font-size:9px" x="61" y="70">Bartolomé</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Evangelio de Bartolomé</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+### Evangelios asuncionistas
+
+<div class="layout row wrap">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="125">Ante-Nicene Fathers, Vol. 8, 1886 (tr.)</text>
+							<text style="font-size:4px" x="61" y="130">A. Roberts, J. Donaldson, A. Cleveland (ed.)</text>
+							<text style="font-size:9px" x="61" y="60">Récit de saint Jean</text>
+							<text style="font-size:9px" x="61" y="70">le Théologien</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Récit de saint Jean le Théologien</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
+							<text style="font-size:9px" x="61" y="60">Libro de Juan,</text>
+							<text style="font-size:9px" x="61" y="70">arzobispo de</text>
+							<text style="font-size:9px" x="61" y="80">Tesalónica</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Libro de Juan, arzobispo de Tesalónica</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
+				</a>
+			</div>
+		</div>
+	</div>
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
+				<div class="urantiapedia-book-front urantiapedia-book-apocrypha urantiapedia-card-top-image">
+					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
+						<g transform="translate(-7,-5)">
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
+							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
+							<text style="font-size:9px" x="61" y="60">Narración</text>
+							<text style="font-size:9px" x="61" y="70">del Pseudo José</text>
+							<text style="font-size:9px" x="61" y="80">de Arimatea</text>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Narración del Pseudo José de Arimatea</div>
+			<div class="urantiapedia-card-actions">
+				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>
 		</div>
