@@ -42,6 +42,6 @@ La première épître à Timothée est l'une des trois lettres du Nouveau Testam
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/First_Epistle_to_Timothy)

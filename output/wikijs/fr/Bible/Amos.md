@@ -43,6 +43,6 @@ Le Livre d'Amos est le troisième des Douze Petits Prophètes de l'Ancien Testam
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Amos)

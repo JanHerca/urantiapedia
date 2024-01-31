@@ -38,6 +38,6 @@ Philémon était un riche chrétien, peut-être un évêque de l'église de mais
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_Philemon)

@@ -45,6 +45,6 @@ Bien que le livre soit relativement court, il comprend la lamentation (1.8–16 
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Micah)

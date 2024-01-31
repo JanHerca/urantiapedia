@@ -84,6 +84,6 @@ Les visions et le livre sont structurés autour de trois thèmes : (1) Jugement 
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Ezekiel)

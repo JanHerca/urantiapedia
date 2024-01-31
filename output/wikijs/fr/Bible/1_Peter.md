@@ -40,6 +40,6 @@ La première épître de Pierre est un livre du Nouveau Testament. L'auteur se p
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/First_Epistle_of_Peter)

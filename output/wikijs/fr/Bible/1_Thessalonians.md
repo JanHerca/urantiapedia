@@ -41,6 +41,6 @@ La première épître aux Thessaloniciens est une épître paulinienne du Nouvea
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/First_Epistle_to_the_Thessalonians)

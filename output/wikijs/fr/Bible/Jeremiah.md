@@ -89,6 +89,6 @@ Il est descendu en deux versions distinctes bien que liées, l'une en hébreu, l
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Jeremiah)

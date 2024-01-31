@@ -54,6 +54,6 @@ Le Livre des Juges (ספר שופטים, Sefer Shoftim) est le septième livre d
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Judges)

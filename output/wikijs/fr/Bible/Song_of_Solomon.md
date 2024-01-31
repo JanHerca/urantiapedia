@@ -44,6 +44,6 @@ Les deux sont en harmonie, chacun désirant l'autre et se réjouissant de l'inti
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Song_of_Songs)

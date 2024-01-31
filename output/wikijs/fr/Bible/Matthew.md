@@ -67,6 +67,6 @@ La plupart des érudits pensent que l'évangile a été composé entre 80 et 90 
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Gospel_of_Matthew)

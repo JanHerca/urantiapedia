@@ -52,6 +52,6 @@ La première épître aux Corinthiens ( grec ancien : Α΄ ᾽Επιστολὴ 
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians)

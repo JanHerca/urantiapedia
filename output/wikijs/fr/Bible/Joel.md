@@ -37,6 +37,6 @@ Le Livre de Joël est rassemblé comme l'un des douze prophètes mineurs des Nev
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Joel)

@@ -57,6 +57,6 @@ Les commentateurs bibliques croient que les Livres des Rois ont été écrits po
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Books_of_Kings)

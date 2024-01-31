@@ -53,6 +53,6 @@ Selon l'érudition traditionnelle, l'auteur de l'Épître aux Hébreux, suivant 
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_the_Hebrews)

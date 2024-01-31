@@ -37,6 +37,6 @@ Jude est une courte épître écrite en grec koine. Il condamne en termes féroc
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Epistle_of_Jude)

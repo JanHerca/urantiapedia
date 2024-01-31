@@ -37,6 +37,6 @@ Deuxième Jean et Troisième Jean sont les deux livres les plus courts de la Bib
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Second_Epistle_of_John)

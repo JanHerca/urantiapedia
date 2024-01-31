@@ -91,6 +91,6 @@ Dans le judaïsme, l'importance théologique de la Genèse est centrée sur les 
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Genesis)

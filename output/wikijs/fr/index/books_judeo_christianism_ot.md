@@ -1275,7 +1275,8 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTÉROCANON</text>
-							<text style="font-size:3px" x="61" y="135">À partir de la version standard révisée avec apocryphes (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">À partir de la version standard</text>
+							<text style="font-size:4px" x="61" y="130">révisée avec apocryphes (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Psaume 151</text>
 						</g>
 					</svg>
@@ -2567,12 +2568,12 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 							<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 							<text style="font-size:4px" x="61" y="130">Henry Cotton</text>
 							<text style="font-size:3px" x="61" y="135">Les cinq livres des Macchabées, 1832 (tr.)</text>
-							<text style="font-size:9px" x="61" y="60">5 Maccabées</text>
+							<text style="font-size:9px" x="61" y="60">5 Macchabées</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">5 Maccabées</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">5 Macchabées</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/fr/Bible/5_Maccabees" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>

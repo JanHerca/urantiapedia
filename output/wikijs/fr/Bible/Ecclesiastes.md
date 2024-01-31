@@ -51,6 +51,6 @@ Selon la tradition rabbinique, le livre a été écrit par le roi Salomon dans s
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Ecclesiastes)

@@ -1,5 +1,5 @@
 ---
-title: Livre d'Hénoch
+title: "Livre d'Hénoch"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-bible">
+<div class="urantiapedia-book-front urantiapedia-book-apocrypha">
 <svg xmlns="http://www.w3.org/2000/svg"
 	width="102.6mm" height="136.8mm"
 	viewBox="0 0 102.6 136.8" version="1.1">
@@ -16,7 +16,9 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
-		<text style="font-size:4px" x="61" y="125">French Louis Segond Bible, 1910</text>
+		<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
+		<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
+		<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'Ancien Testament</text>
 		<text style="font-size:9px" x="61" y="60">Livre d'Hénoch</text>
 	</g>
 </svg>
@@ -24,6 +26,9 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## Description
 
+« Livre d'Hénoch »
+
+_Traduit de «Les apocryphes et les pseudépigraphes de l'Ancien Testament», R. H. Charles [1913]_
 
 Le Livre d'Enoch (aussi 1 Enoch;[note 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) est un ancien texte religieux hébreu apocalyptique, attribué par tradition à Enoch, l'arrière-grand-père de Noé. Enoch contient des informations uniques sur les origines des démons et des Nephilim, pourquoi certains anges sont tombés du ciel, une explication de la raison pour laquelle le déluge de la Genèse était moralement nécessaire et une exposition prophétique du règne millénaire du Messie.
 
@@ -152,6 +157,6 @@ Le livre d'Enoch le plus complet provient de manuscrits éthiopiens, maṣḥafa
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Enoch)

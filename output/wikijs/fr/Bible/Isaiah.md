@@ -103,6 +103,6 @@ Isaïe était l'une des œuvres les plus populaires parmi les Juifs de la pério
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Isaiah)

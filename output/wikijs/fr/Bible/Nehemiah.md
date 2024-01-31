@@ -47,6 +47,6 @@ Le livre de Néhémie dans la Bible hébraïque, prend en grande partie la forme
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Nehemiah)

@@ -42,6 +42,6 @@ Certains érudits notent des affinités entre Zacharie 9–14 et le Livre de Mal
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Malachi)

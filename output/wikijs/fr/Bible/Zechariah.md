@@ -48,6 +48,6 @@ Le livre de Zacharie, attribué au prophète hébreu Zacharie, est inclus dans l
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Zechariah)

@@ -67,6 +67,6 @@ Luc–Actes est une tentative de répondre à un problème théologique, à savo
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Acts_of_the_Apostles)

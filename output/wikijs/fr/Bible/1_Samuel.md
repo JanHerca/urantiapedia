@@ -71,6 +71,6 @@ Dans la Septante, une base des canons bibliques chrétiens, le texte est divisé
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Books_of_Samuel)

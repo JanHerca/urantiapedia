@@ -46,6 +46,6 @@ Le livre raconte l'histoire d'une femme hébraïque en Perse, née sous le nom d
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Esther)

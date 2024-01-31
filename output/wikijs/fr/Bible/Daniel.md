@@ -51,6 +51,6 @@ L'influence du livre a résonné à travers les âges ultérieurs, de la communa
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Daniel)

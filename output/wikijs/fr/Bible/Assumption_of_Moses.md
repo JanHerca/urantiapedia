@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
 
-<div class="urantiapedia-book-front urantiapedia-book-bible">
+<div class="urantiapedia-book-front urantiapedia-book-apocrypha">
 <svg xmlns="http://www.w3.org/2000/svg"
 	width="102.6mm" height="136.8mm"
 	viewBox="0 0 102.6 136.8" version="1.1">
@@ -55,6 +55,6 @@ On pense que le texte a été écrit à l'origine en hébreu ou dans une autre l
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Assumption_of_Moses)

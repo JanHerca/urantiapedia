@@ -75,6 +75,6 @@ Traditionnellement attribuée à Moïse lui-même, les érudits modernes voient 
 - [Chapitre 39](/fr/Bible/Exodus/39)
 - [Chapitre 40](/fr/Bible/Exodus/40)
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Exodus)

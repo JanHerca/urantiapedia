@@ -43,6 +43,6 @@ Le livre est tenu en estime par les Juifs qui relèvent de la catégorie des Jui
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Ruth)

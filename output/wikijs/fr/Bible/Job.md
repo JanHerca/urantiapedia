@@ -78,6 +78,6 @@ Le livre se trouve dans la section Ketuvim ("Écrits") de la Bible hébraïque (
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Job)

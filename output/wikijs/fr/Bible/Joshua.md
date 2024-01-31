@@ -59,6 +59,6 @@ Presque tous les érudits conviennent que le Livre de Josué a peu de valeur his
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Joshua)

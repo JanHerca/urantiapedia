@@ -49,6 +49,6 @@ La deuxième épître aux Corinthiens est une épître paulinienne du Nouveau Te
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians)

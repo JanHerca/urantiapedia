@@ -73,6 +73,6 @@ Numbers est le point culminant de l'histoire de l'exode d'Israël de l'oppressio
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Numbers)

@@ -184,6 +184,6 @@ Le Livre des Psaumes (/sɑːmz/ SAHMZ ou /sɔː(l)mz/ SAW(L)MZ ; Hébreu : תְ�
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Psalms)

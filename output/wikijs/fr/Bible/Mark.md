@@ -55,6 +55,6 @@ Au 19e siècle, Marc est devenu le premier des quatre évangiles et une source u
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Gospel_of_Mark)

@@ -37,6 +37,6 @@ La littérature de l'Église primitive ne contient aucune mention de l'épître,
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Third_Epistle_of_John)

@@ -41,6 +41,6 @@ Certains érudits ont de plus en plus remis en question la paternité de Paul et
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_the_Colossians)

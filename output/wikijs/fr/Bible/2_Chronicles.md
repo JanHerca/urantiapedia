@@ -72,6 +72,6 @@ Le livre a été divisé en deux livres dans la Septante et traduit au milieu du
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Books_of_Chronicles)

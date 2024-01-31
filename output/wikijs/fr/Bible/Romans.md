@@ -51,6 +51,6 @@ L'Épître aux Romains est le sixième livre du Nouveau Testament, et le plus lo
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_the_Romans)

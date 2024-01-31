@@ -37,6 +37,6 @@ L'épître à Tite est l'une des trois épîtres pastorales (avec 1 Timothée et
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_Titus)

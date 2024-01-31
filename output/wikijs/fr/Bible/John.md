@@ -58,6 +58,6 @@ John a atteint sa forme finale vers 90-110 après JC, bien qu'il contienne des s
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Gospel_of_John)

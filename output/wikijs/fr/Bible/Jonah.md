@@ -40,6 +40,6 @@ L'histoire a une longue histoire d'interprétation et est devenue bien connue gr
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Jonah)

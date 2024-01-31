@@ -41,6 +41,6 @@ Les érudits qui soutiennent son authenticité le considèrent comme ayant été
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians)

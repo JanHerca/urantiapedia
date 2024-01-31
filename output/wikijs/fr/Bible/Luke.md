@@ -61,6 +61,6 @@ La plupart des érudits modernes conviennent que les principales sources utilis�
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Gospel_of_Luke)

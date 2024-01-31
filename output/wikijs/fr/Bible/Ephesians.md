@@ -41,6 +41,6 @@ L'Épître aux Éphésiens est le dixième livre du Nouveau Testament. Sa patern
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians)

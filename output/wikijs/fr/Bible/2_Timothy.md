@@ -44,6 +44,6 @@ Néanmoins, un certain nombre d'érudits majeurs ont défendu la paternité trad
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
 - [Wikipédia](https://en.wikipedia.org/wiki/Second_Epistle_to_Timothy)
