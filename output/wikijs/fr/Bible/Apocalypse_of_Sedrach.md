@@ -26,7 +26,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Description
 
-«Apocalypse de Sédrach»
+« Apocalypse de Sédrach »
 
 _Extrait de « Les Pseudépigraphes de l'Ancien Testament, Vol. 1", James H. Charlesworth (1983)_
 

@@ -90,9 +90,7 @@ And Adam said to Eve: ‘See! we have
 
 <span id="v6_2"><sup><small>2</small></sup></span>  bring thee fruit from paradise. For I will set dung upon my head and will weep and pray that the Lord will hearken to me and send his angel (and bring me a plant from paradise), and I will bring it thee that thy trouble may cease from thee.’
 
-Adam saith to him: ‘Nay, my son Seth, but
-
-<span id="v6_3"><sup><small>3</small></sup></span>  I have (much) sickness and trouble!‘ Seth saith to him: ’And how hath this come upon thee?’
+<span id="v6_3"><sup><small>3</small></sup></span> Adam saith to him: ‘Nay, my son Seth, but I have (much) sickness and trouble!‘ Seth saith to him: ’And how hath this come upon thee?’
 
 ## Chapter VII
 
@@ -113,9 +111,9 @@ Adam saith to him: ‘Nay, my son Seth, but
 
 <span id="v9_1"><sup><small>1</small></sup></span>  As he said this to his sons, Adam groaned sore and said: ‘What shall I do? I am in great distress.’
 
-And Eve wept and said: ‘My lord
 
-<span id="v9_2"><sup><small>2</small></sup></span>  Adam, rise up and give me half of thy trouble and I will endure it; for it is on my account that this hath happened to thee, on my account thou art beset with toils and troubles.’ But Adam
+
+<span id="v9_2"><sup><small>2</small></sup></span>  And Eve wept and said: ‘My lord Adam, rise up and give me half of thy trouble and I will endure it; for it is on my account that this hath happened to thee, on my account thou art beset with toils and troubles.’ But Adam
 
 <span id="v9_3"><sup><small>3</small></sup></span>  said to Eve, ‘Arise and go with my son Seth near to paradise, and put earth upon your heads and weep and pray God to have mercy upon me and send his angel to paradise, and give me of the tree out of which the oil floweth, and bring it me, and I shall anoint myself and shall have rest from my complaint.’
 
@@ -151,15 +149,15 @@ And Eve wept and said: ‘My lord
 
 <span id="v13_1"><sup><small>1</small></sup></span>  And Seth went with Eve near paradise, and I they wept there, and prayed God to send his angel and give them the oil of mercy.
 
-And God
 
-<span id="v13_2"><sup><small>2</small></sup></span>  sent the archangel Michael and he spake to Seth: ‘Seth, man of God, weary not thyself with prayers and entreaties concerning the tree which floweth with oil to anoint thy father Adam. For it shall not be thine now, but in the end of the times.
+
+<span id="v13_2"><sup><small>2</small></sup></span>  And God sent the archangel Michael and he spake to Seth: ‘Seth, man of God, weary not thyself with prayers and entreaties concerning the tree which floweth with oil to anoint thy father Adam. For it shall not be thine now, but in the end of the times.
 
 <span id="v13_3"><sup><small>3</small></sup></span>  Then shall all flesh be raised up from Adam till that great day,-all that shall be of the holy people. Then shall the delights of paradise be given to them and God shall be in their midst. And they shall no longer sin before his face, for the evil heart shall be taken from them and there shall be given them a heart understanding the good and to serve God only.
 
-But do thou go back to thy father. For the
 
-<span id="v13_6"><sup><small>6</small></sup></span>  term of his life hath been fulfilled and he will live three days from to-day and will die. But when his soul is departing, thou shalt behold the awful (scene of) his passing.’
+
+<span id="v13_6"><sup><small>6</small></sup></span>  But do thou go back to thy father. For the term of his life hath been fulfilled and he will live three days from to-day and will die. But when his soul is departing, thou shalt behold the awful (scene of) his passing.’
 
 ## Chapter XIV
 
@@ -329,7 +327,7 @@ But do thou go back to thy father. For the
 
 ## Chapter XXIX
 
-1,2 Thus spake the Lord and ordered us to be cast out of paradise. But your father Adam wept before the angels opposite paradise and the angels say to him: ‘What wouldst thou have us to do,
+<span id="v29_1"><sup><small>1,2</small></sup></span>  Thus spake the Lord and ordered us to be cast out of paradise. But your father Adam wept before the angels opposite paradise and the angels say to him: ‘What wouldst thou have us to do,
 
 <span id="v29_3"><sup><small>3</small></sup></span>  Adam?’ And your father saith to them, ‘Behold, ye cast me out. I pray you, allow me to take away fragrant herbs from paradise, so that I may offer an offering to God after I have gone out of paradise that he hear me.’ And the angels approached God and said: ‘JA'EL, Eternal King, command, my Lord, that there be given to Adam incense of sweet odour from paradise and seeds
 

@@ -26,7 +26,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Description
 
-«Apocalypse d'Abraham»
+« Apocalypse d'Abraham »
 
 _Extrait de « L'Apocalypse d'Abraham », par G.H. Box [1919]_
 

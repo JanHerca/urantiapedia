@@ -1145,7 +1145,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des apocryp
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Susanna</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/Susanna" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1416,7 +1416,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Traité de Sem</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/Treatise_of_Shem" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1441,7 +1441,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse de Sophonie</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/Apocalypse_of_Zephaniah" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -1564,7 +1564,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Apocalypse de Sédrach</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/Apocalypse_of_Sedrach" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2145,7 +2145,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Salomon</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/Testament_of_Solomon" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2375,7 +2375,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Philo</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/Pseudo_Philo" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2400,7 +2400,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Les vies des prophètes</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/The_Lives_of_the_Prophets" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2474,7 +2474,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Histoire des Réhabites</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/History_of_the_Rechabites" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>
@@ -2599,7 +2599,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Pseudo-Phocylides</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/Pseudo_Phocylides" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>

@@ -25,7 +25,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Description
 
-«Apocalypse d'Adam»
+« Apocalypse d'Adam »
 
 _De la bibliothèque de Nag Hammadi, par George W. MacRae [1926]_
 

@@ -15,7 +15,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
+		<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
 		<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 		<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
 		<text style="font-size:3px" x="61" y="135">Les apocryphes et les pseudépigraphes de l'A. T. (tr.)</text>
@@ -26,7 +26,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Description
 
-«2 Baruch»
+« 2 Baruch »
 
 _Tiré de « Les Apocryphes et Pseudépigraphes de l'Ancien Testament », RH Charles (1913)_
 

@@ -26,7 +26,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 ## Description
 
-«L'Assomption de Moïse»
+« L'Assomption de Moïse »
 
 _Traduit de «Les apocryphes et les pseudépigraphes de l'A. T.», R. H. Charles, [1913]_
 
