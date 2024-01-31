@@ -31,7 +31,7 @@ Madeline Noordzy, Melbourne
 
 ## Conférence interplanétaire 2086 après JC ?
 
-Cette impression a été transmise à Six-0-Six via les circuits mentaux d'un jeune artiste de Melbourne, Fil Barlow. Depuis l'âge de 14 ans, Fil crée son propre univers avec différentes créatures intelligentes différentes de la nôtre. Il a appelé cela son « Zoouniverse ». Fil pensait que son imagination avait créé un cosmos assez vaste, jusqu'à ce qu'il tombe sur le _Livre d'URANTIA_. Après qu'un ami en ait acheté un pour 5 $ dans une librairie d'occasion et que Fil ait commencé à le lire, il s'est senti complètement dépassé. La réalité était encore plus grande que ce que ses rêves les plus fous auraient pu imaginer. Fil a maintenant rejoint les rangs des lecteurs enthousiastes du Livre d'URANTIA à Melbourne et se demande si quelqu'un aimerait venir l'aider dans son étude du livre le quatrième mercredi du mois. Vous trouverez Fil à l'adresse suivante :
+Cette impression a été transmise à Six-0-Six via les circuits mentaux d'un jeune artiste de Melbourne, Fil Barlow. Depuis l'âge de 14 ans, Fil crée son propre univers avec différentes créatures intelligentes différentes de la nôtre. Il a appelé cela son « Zoouniverse ». Fil pensait que son imagination avait créé un cosmos assez vaste, jusqu'à ce qu'il tombe sur le _Livre d'URANTIA_. Après qu'un ami en ait acheté un pour 5 $ dans une librairie d'occasion et que Fil ait commencé à le lire, il s'est senti complètement dépassé. La réalité était encore plus grande que ce que ses rêves les plus fous auraient pu imaginer. Fil a maintenant rejoint les rangs des lecteurs enthousiastes du Livre d'URANTIA à Melbourne et se demande si quelqu'un aimerait venir l'aider dans son étude du livre le quatrième mercredi du mois. Vous trouverez Fil à l'adresse suivante :
 
 Appartement 2/ 2-6 Edlington St. Hawthorn, Tél. 8186970 Domicile, 2408021 Travail.
 
@@ -57,7 +57,7 @@ La sonde Mariner 5 vers Vénus en 1967 a renvoyé des données sur l'atmosphère
 
 Ken Glasziou, Clifton, Queensland.
 
-LE MOIS PROCHAIN : Ken parlera de cosmologie – le décalage vers le rouge, la dérive des continents, la géologie, la paléontologie et l'anthropologie.
+LE MOIS PROCHAIN : Ken parlera de cosmologie – le décalage vers le rouge, la dérive des continents, la géologie, la paléontologie et l'anthropologie.
 
 ## Conférence nationale de 1986 — Melbourne, 7 et 8 juin
 
@@ -122,7 +122,7 @@ RELATIVITÉ DE LA VÉRITÉ DANS LE
 <img src="/image/article/606/cartoon2.jpg">
 </figure>
 
-...NIVEAU d'EXISTENCE !
+...NIVEAU d'EXISTENCE !
 
 
 

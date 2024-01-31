@@ -1,5 +1,5 @@
 ---
-title : « Le texte original aurait-il dû être modifié ? »
+title : « Le texte original aurait-il dû être modifié ? »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -17,11 +17,11 @@ Nous avons été amenés à croire qu'après l'achèvement des planches pour la 
 
 Le nombre de corrections effectuées depuis la première impression dépasse la centaine. Apparemment, quelques changements ont été apportés pour corriger les erreurs grammaticales des révélateurs. Ensuite, il y a un certain nombre de modifications textuelles qui semblent avoir été apportées pour tenter de corriger ce qui était perçu comme des erreurs commises par les révélateurs.
 
-Par exemple, à la page 477, paragraphe 1, la première impression indiquait :
+Par exemple, à la page 477, paragraphe 1, la première impression indiquait :
 
 > « _Chaque atome a un diamètre légèrement supérieur à un quart de millionième de millimètre, et un électron pèse un peu plus que la deux-millième partie du plus petit atome, celui de l’hydrogène. Le proton positif caractéristique du noyau atomique, bien que pas beaucoup plus gros qu’un électron négatif, pèse près de deux-mille fois plus._ » ([LU 42:6.7](/fr/The_Urantia_Book/42#p6_7))
 
-Dans la deuxième impression et les suivantes, la formulation a été modifiée comme suit : «_un électron pèse un peu plus de 1/2000ème..._» et «_pèse près de deux mille fois plus._»
+Dans la deuxième impression et les suivantes, la formulation a été modifiée comme suit : «_un électron pèse un peu plus de 1/2000ème..._» et «_pèse près de deux mille fois plus._»
 
 > A mon avis il ne peut y avoir qu'une seule édition de l'U.B.
 
@@ -35,7 +35,7 @@ Ceux-ci sont:
 
 [LU 37:8.3](/fr/The_Urantia_Book/37#p8_3), « secondaire » remplacé par « tertiaire »
 
-[LU 41:4.4](/fr/The_Urantia_Book/41#p4_4), « soixante » remplacé par « quarante »
+[LU 41:4.4](/fr/The_Urantia_Book/41#p4_4), « soixante » remplacé par « quarante »
 
 [LU 42:6.7](/fr/The_Urantia_Book/42#p6_7), « moins » remplacé par « plus »
 

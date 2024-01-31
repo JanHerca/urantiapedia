@@ -73,7 +73,7 @@ Le sujet du mois :
 
 Ken Glasziou, Clifton, Queensland
 
-LE MOIS PROCHAIN : Ken discutera des atmosphères planétaires, de la Lune terrestre et des Novas.
+LE MOIS PROCHAIN : Ken discutera des atmosphères planétaires, de la Lune terrestre et des Novas.
 
 ## Un autre groupe d'étude
 
@@ -115,7 +115,7 @@ Kathleen Swadling, Sydney
 
 Mercredi. 7 mai — Groupe d'étude de Brighton : Forum ouvert. 25 Grey St, Brighton, Tél.592 6269
 
-Mardi 13 mai — Groupe d'étude Shepparton : Discussion sur la prière efficace
+Mardi 13 mai — Groupe d'étude Shepparton : Discussion sur la prière efficace
 
 Mercredi. 14 mai — Groupe d'étude de Frankston : Formation d'évangélistes à Bethsaïda. p. 1657. 97 Lindrum Rd, Frankston, Tél. 7896141
 
@@ -141,11 +141,11 @@ Mark Quelhurst, Brisbane
 
 Ce département est créé afin d'encourager la correspondance entre les membres du mouvement URANTIA, notamment sur une base internationale. On espère que de tels contacts conduiront à un plus grand sentiment d'identité au sein du mouvement et favoriseront un échange d'idées entre les peuples de cultures différentes afin de promouvoir la fraternité internationale.
 
-Si vous souhaitez correspondre avec quelqu'un, veuillez envoyer votre nom, votre adresse et de brèves informations sur vos intérêts particuliers à :
+Si vous souhaitez correspondre avec quelqu'un, veuillez envoyer votre nom, votre adresse et de brèves informations sur vos intérêts particuliers à :
 
 M. Richard Bain, Le Messager, P.0. Box 41541, Saint-Pétersbourg, PL 33743, États-Unis
 
-Voici quelques personnes qui ont déjà demandé à correspondre avec quelqu'un :
+Voici quelques personnes qui ont déjà demandé à correspondre avec quelqu'un :
 
 Marc Rochelle
 HHC 1/502d INF

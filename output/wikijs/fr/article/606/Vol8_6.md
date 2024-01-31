@@ -29,7 +29,7 @@ Le samedi matin a commencé par une introduction de Trevor Swadling, après quoi
 
 Kathleen Swadling, Sydney
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « Je suis venu dans ce monde pour faire la volonté de mon Père et pour révéler, à toute l’humanité, son caractère aimant. Cela, mes frères, c’est ma mission, et cette chose-là, je la ferai sans me soucier que mes enseignements risquent d’être mal compris par les Juifs et les Gentils de notre époque ou d’une autre génération. » ([LU 143:1.4](/fr/The_Urantia_Book/143#p1_4))
 
@@ -67,7 +67,7 @@ La Jesusonian Foundation de Boulder, Colorado, États-Unis, annonce la création
 
 Le sujet pour 1987-88 est : Comparez et évaluez le concept du Royaume des Cieux de Jésus dans la Bible et dans le Livre d'URANTIA.
 
-Premier prix : $4000, Second prize $1500, Troisième prix $1000, Fourth through Tenth prize $500.
+Premier prix : $4000, Second prize $1500, Troisième prix $1000, Fourth through Tenth prize $500.
 
 Si vous êtes intéressé, veuillez écrire à : Christian Fellowship Prize in Religious Research. La Fondation Jesusonian, 620 12th Street, Boulder, C 080302.
 
@@ -93,13 +93,13 @@ Il semble y avoir quelques astronomes ces jours-ci qui disent : « Oui, mais… 
 
 Richard Bain, Saint-Pétersbourg, FL, États-Unis
 
-## Alors, quel est le lien ?
+## Alors, quel est le lien ?
 
 Bessie essayait de trouver une solution. Elle faisait partie des touristes américains qui effectuaient une visite guidée des Fidji, de l'Australie et de la Nouvelle-Zélande.
 
 « Vous semblez connaître quelqu'un dans chaque port où nous faisons escale », a-t-elle dit à Duane Faw alors que nous étions assis autour de la table du petit-déjeuner au vieil hôtel de Melbourne. Duane (oui, vous avez raison, il est l'auteur de « The Paramony ») lui a assuré qu'il ne nous connaissait pas (Steve Shanahan et moi-même) jusqu'à il y a cinq minutes.
 
-« Alors, quel est le lien ? » Bessie m'a demandé. Les quatre lecteurs du Livre d’URANTIA qui étaient assis autour de cette table de petit-déjeuner par un dimanche matin plutôt chaud, répondirent en chœur : « Nous lisons tous le même livre. »
+« Alors, quel est le lien ? » Bessie m'a demandé. Les quatre lecteurs du Livre d’URANTIA qui étaient assis autour de cette table de petit-déjeuner par un dimanche matin plutôt chaud, répondirent en chœur : « Nous lisons tous le même livre. »
 
 « Était-ce la même connexion lorsque nous nous sommes arrêtés aux Fidji ? » Bessie devenait plutôt curieuse. Duane et Lucilla Faw avaient vu Isi et Martha Racule lorsque leur avion s'était arrêté aux Fidji.
 
@@ -115,13 +115,13 @@ Gary Falk, Westport, CT, États-Unis
 
 ---
 
-Quel plaisir de voir la newsletter Six-0-Six dans ma boîte aux lettres il y a quelques jours ! Merci beaucoup de me l'avoir envoyé. Aujourd’hui, les liens qui m’unissent à l’Australie suite à deux visites se sont renforcés. J'aime beaucoup votre pays. Votre newsletter est magnifique — félicitations. J'ai particulièrement aimé l'élaboration de « Iao Shou Hsing, le Dieu de la longévité ». Vous avez de formidables contributeurs à la Newsletter là-bas. J'étais très heureux de rencontrer Neil Francey au Bowdoin College dans le Maine, qui m'avait manqué lorsque j'étais en Australie.
+Quel plaisir de voir la newsletter Six-0-Six dans ma boîte aux lettres il y a quelques jours ! Merci beaucoup de me l'avoir envoyé. Aujourd’hui, les liens qui m’unissent à l’Australie suite à deux visites se sont renforcés. J'aime beaucoup votre pays. Votre newsletter est magnifique — félicitations. J'ai particulièrement aimé l'élaboration de « Iao Shou Hsing, le Dieu de la longévité ». Vous avez de formidables contributeurs à la Newsletter là-bas. J'étais très heureux de rencontrer Neil Francey au Bowdoin College dans le Maine, qui m'avait manqué lorsque j'étais en Australie.
 
 Le problème pour moi, c'est que je suis assez isolé ici. Il y a plusieurs groupes d'étude sur la côte ouest de la Floride, alors qu'ici il n'y en avait plus dans mon quartier il y en a à Fort Lauderdale (je crois), à West Palm Beach et à Miami. Tout récemment, après la Conférence, un couple qui avait déménagé à Satellite Beach, à environ 30 miles au nord de chez moi, a créé un petit groupe d'étude et ils se réunissent une nuit par semaine, mais malheureusement je ne conduis pas et jusqu'à présent je ne peux pas m'y rendre. J'espère que cela changera un jour bientôt. Les groupes d'étude de Floride organiseront (pour ceux qui veulent y aller) un camp de week-end dans le centre et le sud de la Floride ce week-end. Ma copine de Cocoa (à 26 miles au nord de chez moi) a suggéré aujourd'hui qu'elle voulait nous emmener dans sa voiture à ce camp de week-end. J’en suis tellement heureux. Le thème est « L'unité spirituelle ».
 
 Au fait : je suis allemand (seulement un résident, pas un citoyen américain). Donc, si vous connaissez un lecteur de U-Book en Australie qui est d'origine allemande et maîtrise toujours la langue allemande, je serais ravi s'il souhaitait me contacter. Bien sûr, nous espérons également une traduction allemande un jour.
 
-Saviez-vous que nous avons un Melbourne en Floride ? C'est à environ 7 milles au nord de Palm Bay, sur la côte atlantique. Les maires échangent des visites avec Melbourne, Victoria, Australie et il semble qu'elles deviendront des villes jumelées. Je vous souhaite du succès dans votre splendide travail avec la Newsletter.
+Saviez-vous que nous avons un Melbourne en Floride ? C'est à environ 7 milles au nord de Palm Bay, sur la côte atlantique. Les maires échangent des visites avec Melbourne, Victoria, Australie et il semble qu'elles deviendront des villes jumelées. Je vous souhaite du succès dans votre splendide travail avec la Newsletter.
 
 Olga Umverzagt, Palm Bay, FI, États-Unis
 
@@ -165,11 +165,11 @@ Dick Bain, Saint-Pétersbourg, Floride, États-Unis
 
 ---
 
-## N'attendez pas le film !
+## N'attendez pas le film !
 
-La possible publicité télévisée suivante annonçant _Le Livre d'URANTIA_ a été écrite par Curt Avery de Savannah, Géorgie, qui a donné la permission de l'inclure dans 6-0-6 :
+La possible publicité télévisée suivante annonçant _Le Livre d'URANTIA_ a été écrite par Curt Avery de Savannah, Géorgie, qui a donné la permission de l'inclure dans 6-0-6 :
 
-Faites-vous partie de ces millions de chercheurs qui exigent une réponse à la question : pourquoi ? Êtes-vous perplexe face à ce casse-tête déroutant et insaisissable qu’est la vie ? Vous retrouvez-vous à collectionner des volumes de livres qui promettent des réponses et ne fournissent que des données insuffisantes et des conjectures brumeuses ? Alors ce message s'adresse à vous : dès maintenant et pour une durée limitée, vous êtes invités à profiter de cette offre spéciale TV unique. Et ça y est, le seul volume, relié dans un beau bleu royal, amis, c'est _Le Livre d'URANTIA_.
+Faites-vous partie de ces millions de chercheurs qui exigent une réponse à la question : pourquoi ? Êtes-vous perplexe face à ce casse-tête déroutant et insaisissable qu’est la vie ? Vous retrouvez-vous à collectionner des volumes de livres qui promettent des réponses et ne fournissent que des données insuffisantes et des conjectures brumeuses ? Alors ce message s'adresse à vous : dès maintenant et pour une durée limitée, vous êtes invités à profiter de cette offre spéciale TV unique. Et ça y est, le seul volume, relié dans un beau bleu royal, amis, c'est _Le Livre d'URANTIA_.
 
 Plein d'aventures cosmiques, de mystère et d'intrigues. Rébellion, trahison, romance et conflit de puissants protagonistes qui s'affrontent dans les cieux. Tout est ici dans _Le Livre d'URANTIA_.
 

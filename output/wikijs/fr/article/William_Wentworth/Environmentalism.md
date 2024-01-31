@@ -1,5 +1,5 @@
 ---
-title: « Environnementalisme »
+title: « Environnementalisme »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -31,7 +31,7 @@ Il est intéressant de noter que les deux courants ci-dessus doivent quelque cho
 
 De la même manière, les deux courants présentent l’influence de la révolte humaniste. Seule une philosophie qui considère l'homme comme « la mesure de toutes choses » peut faire naître la conviction que les activités de l'homme détruisent la nature. Seule une époque humaniste pourrait exagérer l’importance des activités humaines au point de les considérer comme une menace pour la nature elle-même. Les personnes connaissant Dieu ont tendance à avoir une vision plus modeste de la puissance de l’humanité et à faire preuve d’une plus grande confiance dans la capacité de la nature à résister aux assauts insignifiants de l’humanité. Après tout, la nature a résisté à une multitude de cataclysmes dans le passé. Les humanistes modernes ont tendance à être à la fois fascinés et terrifiés par les réalisations techniques de l’homme. Ils les surestiment probablement.
 
-Mais quelle que soit la manière dont nous choisissons de voir les choses, l’environnementalisme promet d’être avec nous pendant encore un bon moment. Comme le souligne _Le Livre d'URANTIA_ (LU 85 : 0.4),
+Mais quelle que soit la manière dont nous choisissons de voir les choses, l’environnementalisme promet d’être avec nous pendant encore un bon moment. Comme le souligne _Le Livre d'URANTIA_ (LU 85 : 0.4),
 
 > « _tout ce qui se trouve à la surface de la terre a été objet d’adoration pour l’homme, y compris lui-même._ » ([LU 85:0.4](/fr/The_Urantia_Book/85#p0_4))
 

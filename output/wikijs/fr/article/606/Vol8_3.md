@@ -27,7 +27,7 @@ Si vous décidez de prendre rendez-vous, vous séjournerez 4 jours et 4 nuits du
 
 Kathleen Swadling, 7 Walsh St. Narrabeen, Nouvelle-Galles du Sud. 2101. PH. (02)9137893
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « Dans l’expérience humaine, tout ce qui n’est pas spirituel, sauf la personnalité, est un moyen en vue d’une fin. Toute véritable relation entre un mortel et d’autres personnes — humaines ou divines — est une fin en soi. Et une telle association avec la personnalité de la Déité est le but éternel de l’ascension de l’univers. » ([LU 112:2.8](/fr/The_Urantia_Book/112#p2_8))
 
@@ -74,11 +74,11 @@ par Robert Reno
 
 Dans la première partie de son article, Robert Reno a partagé certaines de ses expériences en tant qu'aumônier militaire en Corée du Sud.
 
-Dans cette deuxième partie, il cite certains chefs religieux d'Asie et termine par un message important pour nous tous :
+Dans cette deuxième partie, il cite certains chefs religieux d'Asie et termine par un message important pour nous tous :
 
 Partie II
 
-Je ne crois pas avoir besoin de citer _Le Livre d'URANTIA_ sur ce qu'il enseigne comme le défi religieux de notre $8 g e$, mais j'aimerais citer un certain nombre d'éminents chefs religieux d'Asie présentant leurs pensées et leurs idéaux au Conférence asiatique sur la religion et la paix :
+Je ne crois pas avoir besoin de citer _Le Livre d'URANTIA_ sur ce qu'il enseigne comme le défi religieux de notre $8 g e$, mais j'aimerais citer un certain nombre d'éminents chefs religieux d'Asie présentant leurs pensées et leurs idéaux au Conférence asiatique sur la religion et la paix :
 
 « Ce n’est pas grâce à la puissance des systèmes de sécurité militaire que la véritable sécurité peut être assurée en Asie ; ce n’est que grâce à l’unité spirituelle des peuples religieux d’Asie que cet objectif peut être atteint.
 
@@ -132,7 +132,7 @@ Kaye Cooper, Arlington, Texas, États-Unis
 
 Nous avons reçu avec gratitude notre premier envoi de 100 livres URANTIA de la Fraternité URANTIA à donner aux bibliothèques de tout le pays.
 
-Cependant, les frais de port requis pour l'envoi aux bibliothèques doivent être payés par les lecteurs du Livre d'URANTIA en Australie. Si vous souhaitez faire un don pour cette noble cause visant à aider à diffuser la Cinquième Révélation d'Époque, veuillez envoyer votre chèque à : « Six-0-Six Newsletter, Library Fund » c/- 2 Salisbury Court, Glen Waverley, Vic. 3150.
+Cependant, les frais de port requis pour l'envoi aux bibliothèques doivent être payés par les lecteurs du Livre d'URANTIA en Australie. Si vous souhaitez faire un don pour cette noble cause visant à aider à diffuser la Cinquième Révélation d'Époque, veuillez envoyer votre chèque à : « Six-0-Six Newsletter, Library Fund » c/- 2 Salisbury Court, Glen Waverley, Vic. 3150.
 
 ## Qu'arrive-t-il à ces livres de bibliothèque ?
 
@@ -166,7 +166,7 @@ J'ai trouvé la lettre de Stephen Theiler de mars/avril 6-0-6 intéressante en c
 
 En tant que membre et enseignant de la foi bahá'íe et en tant que lecteur du _Livre d'URANTIA_, je me trouve souvent dans une situation où l'on me demande de justifier mes croyances sur la réincarnation.
 
-La foi bahá'íe et les enseignements du Livre d'URANTIA coïncident dans de nombreux domaines (par exemple, la brochure incluse dans le bulletin d'information ci-dessus, « Pionniers du Nouvel Âge » par Meredith Sprunger, section sur la septième étape du ministère de sensibilisation : La formation d'une nouvelle expression sociale de religion). L'un de ces domaines est l'enseignement sur la réincarnation, c'est-à-dire la transmigration de l'âme, la poursuite de l'apprentissage spirituel et de la croissance après la mort et l'existence d'un corps ou d'un véhicule plus raffiné et spirituel pour l'âme. Le retour de l'esprit sur cette planète ou dans un autre corps humain ou l'évolution des esprits animaux vers des esprits humains n'est PAS enseigné.
+La foi bahá'íe et les enseignements du Livre d'URANTIA coïncident dans de nombreux domaines (par exemple, la brochure incluse dans le bulletin d'information ci-dessus, « Pionniers du Nouvel Âge » par Meredith Sprunger, section sur la septième étape du ministère de sensibilisation : La formation d'une nouvelle expression sociale de religion). L'un de ces domaines est l'enseignement sur la réincarnation, c'est-à-dire la transmigration de l'âme, la poursuite de l'apprentissage spirituel et de la croissance après la mort et l'existence d'un corps ou d'un véhicule plus raffiné et spirituel pour l'âme. Le retour de l'esprit sur cette planète ou dans un autre corps humain ou l'évolution des esprits animaux vers des esprits humains n'est PAS enseigné.
 
 Pourtant, beaucoup de gens sont attirés par les enseignements de la réincarnation, ils sympathisent instinctivement avec les enseignements de la transmigration de l’âme, c’est quelque chose qu’ils veulent croire. De nombreuses personnes font également l’expérience de ce qui semble être une preuve irréfutable de la réincarnation.
 
@@ -192,7 +192,7 @@ Christopher et Bridget Billington sont très heureux d'annoncer qu'ils organisen
 
 ## La Conférence Australienne de 1987 pour les Lecteurs du Livre d'Urantia
 
-LE THÈME DE CETTE ANNÉE EST : LE BUT DE RÉVÉLATION, UNE EXPÉRIENCE LIVE-IN UNIQUE SUR 2 NUITS À PARTIR DU VENDREDI OCT. DU 9 AU DIMANCHE OCTOBRE. 11ÈME
+LE THÈME DE CETTE ANNÉE EST : LE BUT DE RÉVÉLATION, UNE EXPÉRIENCE LIVE-IN UNIQUE SUR 2 NUITS À PARTIR DU VENDREDI OCT. DU 9 AU DIMANCHE OCTOBRE. 11ÈME
 
 AURA LIEU À SYDNEY AU WILLIAM ARNOTT LODGE
 
@@ -200,13 +200,13 @@ AURA LIEU À SYDNEY AU WILLIAM ARNOTT LODGE
 <img src="/image/article/606/lodge.jpg">
 </figure>
 
-EMPLACEMENT : Le Lodge est situé à environ 2 km au-dessus de la plage de Narrabeen.
+EMPLACEMENT : Le Lodge est situé à environ 2 km au-dessus de la plage de Narrabeen.
 
-TRANSPORT : En transports en commun, prenez un bus Mona Vale, Newport ou Palm Beach depuis Wynyard Park du côté de York St. et continuez jusqu'au centre commercial Narrabeen (1 heure). De là, prenez un taxi pour monter la colline jusqu'au site. Pour ceux qui viennent en autocar ou en voiture, le Lodge se trouve au 19a Wesley St, Eleanora Heights. Wesley St s'étend sur Powder Works Rd, qui s'étend sur Mona Vale Rd, presque en face du temple Bahai au sommet de la colline et sur Pittwater Rd via Garden St, près des feux de circulation du lycée Narrabeen au bas de la colline.
+TRANSPORT : En transports en commun, prenez un bus Mona Vale, Newport ou Palm Beach depuis Wynyard Park du côté de York St. et continuez jusqu'au centre commercial Narrabeen (1 heure). De là, prenez un taxi pour monter la colline jusqu'au site. Pour ceux qui viennent en autocar ou en voiture, le Lodge se trouve au 19a Wesley St, Eleanora Heights. Wesley St s'étend sur Powder Works Rd, qui s'étend sur Mona Vale Rd, presque en face du temple Bahai au sommet de la colline et sur Pittwater Rd via Garden St, près des feux de circulation du lycée Narrabeen au bas de la colline.
 
-COÛT : 50 $ par personne comprend tous les repas et l'hébergement pour la période de 18 h le 9 octobre à 15 h. 11 octobre. Le Lodge peut accueillir 50 personnes.
+COÛT : 50 $ par personne comprend tous les repas et l'hébergement pour la période de 18 h le 9 octobre à 15 h. 11 octobre. Le Lodge peut accueillir 50 personnes.
 
-CONFÉRENCE AUSTRALIENNE DE 1987 POUR LES LECTEURS DU LIVRE D'URANTIA — FORMULAIRE D'INSCRIPTION NOM/S :
+CONFÉRENCE AUSTRALIENNE DE 1987 POUR LES LECTEURS DU LIVRE D'URANTIA — FORMULAIRE D'INSCRIPTION NOM/S :
 
 ADRESSE: \_\_\_
 CI-JOINT LE PAIEMENT DE... POUR LES PERSONNES SIGNÉES

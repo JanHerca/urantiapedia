@@ -19,7 +19,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 ## Un message de Six-0-Six
 
-Diversité culturelle et unité spirituelle" est le thème de la réunion régionale du Pacifique Sud des lecteurs du Livre d'URANTIA, qui approche à grands pas. Près de 60 personnes se sont inscrites jusqu'à présent, mais les inscriptions sont toujours acceptées. Si vous souhaitez quand même y aller, contactez :
+Diversité culturelle et unité spirituelle" est le thème de la réunion régionale du Pacifique Sud des lecteurs du Livre d'URANTIA, qui approche à grands pas. Près de 60 personnes se sont inscrites jusqu'à présent, mais les inscriptions sont toujours acceptées. Si vous souhaitez quand même y aller, contactez :
 
 Kathleen Swadling, 7 Walsh St, Narrabeen, NSW, 2101, Ph. (02) 9137893 Ce sera l'occasion idéale de se faire de nouveaux amis et avec une visite panoramique du quartier, un Australian Bush Band et un Quiz Show au programme , tout le monde passera forcément un moment merveilleux. Nous espérons vous présenter notre rapport dans le prochain numéro de Six-0-Six.
 
@@ -27,7 +27,7 @@ Kathleen Swadling, 7 Walsh St, Narrabeen, NSW, 2101, Ph. (02) 9137893 Ce sera l'
 
 Bill ou Ali MacLean au (03) 8013366
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « Ne vous laissez pas décourager par la découverte que vous êtes humains. La nature humaine peut tendre vers le mal, mais n’est pas naturellement pécheresse. Ne soyez pas abattus si vous n’arrivez pas à oublier complètement certaines de vos expériences regrettables. Les fautes que vous ne parvenez pas à oublier dans le temps seront oubliées dans l’éternité. Allégez les fardeaux de votre âme en vous faisant rapidement une conception de votre destinée à longue échéance, de l’expansion de votre carrière dans l’univers. » ([LU 156:5.8](/fr/The_Urantia_Book/156#p5_8))
 
@@ -183,13 +183,13 @@ La 8e Conférence de Geneva Park à Orillia a eu lieu en juin dernier près du l
 
 La Conférence de Québec
 
-Les membres de différents groupes d'études du Canada français se sont réunis au Lac Beauport, à la périphérie de Québec. Cela faisait 4 ans depuis la dernière rencontre. Le thème de la conférence était « _Le Livre d'URANTIA_ dans nos vies quotidiennes ». Le bulletin d'information canadien « Prints of Peace » a rapporté : « La réunion provinciale a été en effet mémorable, car elle a atteint des sommets spirituels exceptionnels qui se sont traduits par une profonde joie dans nos âmes. Tous les participants ont exprimé le souhait qu'une autre rencontre provinciale ait lieu en 1989 ».
+Les membres de différents groupes d'études du Canada français se sont réunis au Lac Beauport, à la périphérie de Québec. Cela faisait 4 ans depuis la dernière rencontre. Le thème de la conférence était « _Le Livre d'URANTIA_ dans nos vies quotidiennes ». Le bulletin d'information canadien « Prints of Peace » a rapporté : « La réunion provinciale a été en effet mémorable, car elle a atteint des sommets spirituels exceptionnels qui se sont traduits par une profonde joie dans nos âmes. Tous les participants ont exprimé le souhait qu'une autre rencontre provinciale ait lieu en 1989 ».
 
 L’automne dernier, lors d’une rencontre spéciale visant à chercher de nouvelles façons de structurer le mouvement URANTIA au Québec, 16 lecteurs ont convenu de former une « équipe de service » dont le but serait de répondre aux besoins des lecteurs de la province. À bien des égards, les objectifs ressemblent à ceux d'une société, mais au Québec, ils ne sont pas encore prêts à adhérer au système des sociétés de la Fraternité.
 
 En octobre prochain, le 11e Salon du livre aura lieu à Montréal. Pour la première fois un stand est loué et accueillera « Les Lecteurs du Livre d'URANTIA ».
 
-Un Concordex des Articles (Répertoire des Oeurres) a été réalisé et est en préparation depuis plus d'un an. Il consiste en un répertoire de 206 articles en français, de 44 auteurs. Il comprend un résumé de chaque article ainsi que les coordonnées de l'auteur respectif. Son coût est de $10 in Canada, $11 aux États-Unis et de 12 $ à l'étranger.
+Un Concordex des Articles (Répertoire des Oeurres) a été réalisé et est en préparation depuis plus d'un an. Il consiste en un répertoire de 206 articles en français, de 44 auteurs. Il comprend un résumé de chaque article ainsi que les coordonnées de l'auteur respectif. Son coût est de $10 in Canada, $11 aux États-Unis et de 12 $ à l'étranger.
 
 a/s Éric Gagnon, 2921 Providence, Ste-foy, P.Q., GIW 2 Cl, Canada.
 
@@ -209,7 +209,7 @@ Les brochures de vie spirituelle sont conçues pour enrichir la vie des gens en 
 
 Le coût de publication et d'envoi de chaque brochure est d'environ $.75 for single copies, US $.50 US chacun pour cinq exemplaires ou plus (toute combinaison de titres). Quiconque n’est pas en mesure de contribuer au coût est, comme toujours, le bienvenu pour les avoir gratuitement. L'aide de toute personne pouvant envoyer un supplément pour aider à couvrir le coût des exemplaires gratuits est appréciée. Les brochures mesurent 7 x 8 pouces.
 
-Nouvelles brochures :
+Nouvelles brochures :
 
 <ins>Parvenir au pardon</ins> suggère une méthode étape par étape pour pardonner les blessures et les insultes de la vie. Par Kaye Cooper
 
@@ -246,13 +246,13 @@ Fort Worth IX 76133, États-Unis
 
 Aucune âme n’est aussi désespérément perdue dans les ténèbres que celle qui sent qu’elle possède toute la lumière.
 
-Extrait de : « Conversations tranquilles avec le maître » d'Eva Bell Werber
+Extrait de : « Conversations tranquilles avec le maître » d'Eva Bell Werber
 
 ---
 
 Faites de votre propre maison une maison de paix et le monde entier sera en paix autour de vous.
 
-Extrait de : « En sa présence » d'Eva Bell Werber
+Extrait de : « En sa présence » d'Eva Bell Werber
 
 
 

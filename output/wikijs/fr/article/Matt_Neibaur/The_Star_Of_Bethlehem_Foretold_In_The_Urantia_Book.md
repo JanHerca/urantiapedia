@@ -15,7 +15,7 @@ La religion et la science réfléchissent depuis longtemps aux questions posées
 
 Parmi les nombreuses propositions, la conjonction planétaire de Saturne et Jupiter est de loin la plus populaire. Ce n'est pas nouveau. Johannes Kepler, après avoir découvert la conjonction Jupiter-Saturne en Poissons quelques jours avant Noël 1603, calcula à rebours et découvrit le 7 av. événement. Kepler n'a pas été le premier à décrire cela. En 1977, David H. Clark a décrit une affirmation similaire dans les annales de l'Église anglaise datant de 1285 après J.-C.. Dans les premiers jours des planétariums, les opérateurs abusaient de leurs projecteurs Zeiss en faisant fonctionner les machines à grande vitesse vers l'arrière jusqu'en 7 avant JC, produisant ainsi la triple conjonction. Cette triple conjonction signifie que les boucles rétrogrades des deux planètes se chevauchent. Traduit, Jupiter dépasse Saturne trois fois sur une période de plusieurs mois. Le dernier événement de ce type remonte à 1981.
 
-Jusqu’à récemment, tous les calculs visant à expliquer l’étoile de Bethléem en tant que groupe planétaire reposaient sur les « positions planétaires, lunaires et solaires » standard de Bryant Tuckeman. Cet ouvrage en deux volumes, publié par l'American Philosophical Society en 1962 et 1964, répertoriait les coordonnées des membres visibles à l'œil nu de notre système solaire à cinq et dix jours d'intervalle à partir de 601 av. à 1649 après JC. En utilisant ces volumes, les dates proposées pour la conjonction Jupiter-Saturne sont les suivantes : 27 mai, 6 octobre et 1er décembre avant JC.
+Jusqu’à récemment, tous les calculs visant à expliquer l’étoile de Bethléem en tant que groupe planétaire reposaient sur les « positions planétaires, lunaires et solaires » standard de Bryant Tuckeman. Cet ouvrage en deux volumes, publié par l'American Philosophical Society en 1962 et 1964, répertoriait les coordonnées des membres visibles à l'œil nu de notre système solaire à cinq et dix jours d'intervalle à partir de 601 av. à 1649 après JC. En utilisant ces volumes, les dates proposées pour la conjonction Jupiter-Saturne sont les suivantes : 27 mai, 6 octobre et 1er décembre avant JC.
 
 En 1976, au Jet Propulsion Laboratory de Californie, un projet unique présentant un intérêt particulier pour les historiens a été entrepris. Les scientifiques du JPL, en collaboration avec l'Observatoire naval américain, ont calculé les positions de tous les principaux corps du système solaire sur une période de quarante-quatre siècles, de 1411 av. jusqu'en 3002 après J.-C. Cette tentative s'est avérée singulière, car elle a omis toutes les théories analytiques précédentes du mouvement pour des objets individuels. Cette nouvelle méthode embrassait une technique d'intégration numérique simultanée sur un Univac 1100/81, inconcevable il y a seulement quelques décennies. La tâche a nécessité neuf jours de temps informatique, ce qui a abouti à une sortie magnétique connue sous le nom de « longue bande d'éphémérides ». Jean-Louis Simon et Pierre Bretagnon du Bureau des Longitudes à Paris ont publié ces données dans « Programmes et tables planétaires de 4000 av. à 2800 après JC » (Willmann-Bell, 1986).
 
@@ -27,7 +27,7 @@ Cette idée n'est guère dramatique pour les astronomes, mais intrigante pour le
 
 Ces sages ne virent aucune étoile pour les guider vers Bethléem. La belle légende de l'étoile de Bethléem est née de cette manière : Jésus est né le 21 août à midi, en l'an 7 av. Le 29 mai 7 avant JC, eut lieu une extraordinaire conjonction de Jupiter et Saturne dans la constellation des Poissons. Et c'est un fait astronomique remarquable que des conjonctions similaires se soient produites le 29 septembre et le 5 décembre de la même année. Sur la base de ces événements extraordinaires mais tout à fait naturels, les fanatiques bien intentionnés de la génération suivante ont construit la séduisante légende de l'étoile de Bethléem. et les Mages adorateurs... (_Le Livre d'URANTIA_ [LU 122:8.7](/fr/The_Urantia_Book/122#p8_7))
 
-Les différences de dates tabulées sont les suivantes :
+Les différences de dates tabulées sont les suivantes :
 
 | Livre URANTIA (1955) | Tuckerman (1962) | Différence (jours) |
 | :--- | :--- | :--- |
@@ -41,7 +41,7 @@ Livre URANTIA (1955) | Bretagnon & Simon (1986) | Différence (jours) |
 29 septembre | 30 septembre | 1
 5 décembre | 5 décembre | 0
 
-Il est remarquable que les nouveaux calculs correspondent si étroitement au texte d'URANTIA. La seule exception est la date calculée du 30 septembre et celle indiquée dans le texte comme étant le 29 septembre. Une explication possible de cet écart peut être méthodologique. Dans « Computing the Star of Bethlehem », Sinnott déclare :
+Il est remarquable que les nouveaux calculs correspondent si étroitement au texte d'URANTIA. La seule exception est la date calculée du 30 septembre et celle indiquée dans le texte comme étant le 29 septembre. Une explication possible de cet écart peut être méthodologique. Dans « Computing the Star of Bethlehem », Sinnott déclare :
 
 > Une question importante, lorsqu'on traite d'événements astronomiques anciens, est la distinction entre les éphémérides et le temps universel. Les deux systèmes fonctionnent à une minute l'un de l'autre au cours des trois derniers siècles, mais ils divergent dans un passé lointain en raison de légers changements dans la durée du jour terrestre. Pour les calculs planétaires de cet article, j'ai adopté la valeur ET - UT = +177 minutes, comme préconisé par Bretagnon & Simon. Mais pour les éclipses lunaires à la mort d'Hérode, j'ai utilisé +158 minutes conformément à l'introduction du canon Meeus-Mucke. La valeur réelle est inconnue ; une étude récente de F.R. Stephenson et L.V. Morrison penche vers +166 minutes près de 1B.C. (Transactions philosophiques de la Royal Society de Londres, série A, 313,47, 1984).
 
@@ -65,6 +65,6 @@ Pour calculer la probabilité d’obtenir ces deux ensembles de résultats, nous
 
 Les lecteurs de cet ouvrage du Dr Neibaur doivent décider eux-mêmes s'ils permettront à cette information d'avoir une signification pour leur propre structure de croyance et, s'ils sont impressionnés, s'ils permettront aux enseignements du _Livre d'URANTIA_ de devenir significatifs dans leur propre vie.
 
-> _Note de l'éditeur_ : Ceci n'est qu'un des nombreux articles intéressants disponibles dans la bibliothèque de la Confrérie des Hommes. Pour plus d'informations sur cet excellent service, contactez : Ken Glasziou, Stanley River Rd, Maleny, QLD. 4552.
+> _Note de l'éditeur_ : Ceci n'est qu'un des nombreux articles intéressants disponibles dans la bibliothèque de la Confrérie des Hommes. Pour plus d'informations sur cet excellent service, contactez : Ken Glasziou, Stanley River Rd, Maleny, QLD. 4552.
 {.is-info}
 

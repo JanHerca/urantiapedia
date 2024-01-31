@@ -39,9 +39,9 @@ Dans les peintures chinoises, Hsi Wang est généralement représentée comme un
 
 (1) « Cette péninsule méditerranéenne jouissait d’un climat salubre et d’une température régulière. La stabilité du temps était due aux montagnes qui l’entouraient..." ([LU 73:3.3](/fr/The_Urantia_Book/73#p3_3))
 
-	«  Le rivage de la péninsule était très surélevé... » ([LU 73:3.4](/fr/The_Urantia_Book/73#p3_4))
+	«  Le rivage de la péninsule était très surélevé... » ([LU 73:3.4](/fr/The_Urantia_Book/73#p3_4))
 
-(2) « Les pierres précieuses et les métaux abondaient dans les montagnes entourant le Jardin, mais on n’y prêtait que très peu d’attention. L’idée dominante était de glorifier l’horticulture et d’exalter l’agriculture. » ([LU 73:3.5](/fr/The_Urantia_Book/73#p3_5))
+(2) « Les pierres précieuses et les métaux abondaient dans les montagnes entourant le Jardin, mais on n’y prêtait que très peu d’attention. L’idée dominante était de glorifier l’horticulture et d’exalter l’agriculture. » ([LU 73:3.5](/fr/The_Urantia_Book/73#p3_5))
 
 (3) « Nulle part ailleurs il n’y avait d’emplacement susceptible de se prêter aussi parfaitement à devenir un tel paradis d’expression botanique. » ([LU 73:3.6](/fr/The_Urantia_Book/73#p3_6))
 

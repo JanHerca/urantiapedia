@@ -73,11 +73,11 @@ Madeleine Noordzy
 
 ## Lecture recommandée
 
-_Un manuel de réunion de famille_ : Atteindre l'harmonie familiale avec bonheur, par Robert Slagle, Ph.D.
+_Un manuel de réunion de famille_ : Atteindre l'harmonie familiale avec bonheur, par Robert Slagle, Ph.D.
 
 _Dans UN MANUEL DE RENCONTRE DE FAMILLE_, Robert Slagle voulait être fidèle à l'esprit du portrait du _Livre d'Urantia_ de Jésus ayant des réunions de famille avec ses frères et sœurs.
 
-_UN MANUEL DE RENCONTRE FAMILIALE_ vous explique comment organiser des réunions de famille consensuelles et réussir à « parvenir à l'harmonie familiale avec bonheur ». Les sujets abordés comprennent : comment commencer les réunions de famille, 26 questions et réponses, les réunions avec différents types et tailles de familles, des sections spéciales pour les parents célibataires et divorcés, pourquoi et comment tenir un carnet de réunion de famille, des exemples détaillés et des anecdotes, de nombreux sujets spécifiques. tels que les rôles des parents, la sexualité et les châtiments corporels, plus de 20 jeux et activités à utiliser en association avec les réunions de famille et plus de 40 références annotées.
+_UN MANUEL DE RENCONTRE FAMILIALE_ vous explique comment organiser des réunions de famille consensuelles et réussir à « parvenir à l'harmonie familiale avec bonheur ». Les sujets abordés comprennent : comment commencer les réunions de famille, 26 questions et réponses, les réunions avec différents types et tailles de familles, des sections spéciales pour les parents célibataires et divorcés, pourquoi et comment tenir un carnet de réunion de famille, des exemples détaillés et des anecdotes, de nombreux sujets spécifiques. tels que les rôles des parents, la sexualité et les châtiments corporels, plus de 20 jeux et activités à utiliser en association avec les réunions de famille et plus de 40 références annotées.
 
 Les réunions de famille vous permettent de passer plus de temps de qualité avec vos enfants pendant que vous traitez avec équité et amour pratiquement toutes les questions de discipline et de privilèges avec un minimum de consommation d'énergie pour les parents (et les enfants).
 
@@ -95,7 +95,7 @@ Le dimanche 6 avril, les membres du groupe d'étude de Melbourne organiseront un
 <img src="/image/article/606/crossword_solved.jpg">
 </figure>
 
-## Temps de réflexion : Fred
+## Temps de réflexion : Fred
 
 Steven Shanahan, Melbourme
 
@@ -117,7 +117,7 @@ L’esprit de fraternité brillait chez Fred.
 
 Le 11 avril 1983, Fred décède paisiblement, dix jours avant son 92e anniversaire.
 
-_Note de bas de page pour les lecteurs français :_
+_Note de bas de page pour les lecteurs français :_
 
 La « Fraternité universelle » s'est développée au fil des années pour devenir l'une des communautés les plus prospères d'Australie.
 
@@ -145,7 +145,7 @@ Un croquis de Vern Varass, basé sur cette description du _Livre d'Urantia_.
 
 Groupe d'étude de Brighton : Gouvernement sur une planète voisine p. 808 2e. 25 avril, rue Grey Brighton, Tél. 5926269
 
-Groupe d'étude Shepparton : Qu'est-ce que la foi.
+Groupe d'étude Shepparton : Qu'est-ce que la foi.
 
 8 avril.
 
@@ -153,7 +153,7 @@ Groupe d'étude Frankston : L'origine et la nature du _Livre d'Urantia_
 
 9 avril, 97 chemin Lindrum. Prankston, Tél. 7896141
 
-Groupe d'étude Glen Waverley : Les fondements de la foi religieuse.p.1118
+Groupe d'étude Glen Waverley : Les fondements de la foi religieuse.p.1118
 
 16 avril, 2 Salisbury Crt. Glen Waverley, Tél. 5616089
 

@@ -1,5 +1,5 @@
 ---
-title: "Arriver à une « décision finale »"
+title: "Arriver à une « décision finale »"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -11,7 +11,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Robert Crickett<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
-_Le Livre d'URANTIA_ déclare :
+_Le Livre d'URANTIA_ déclare :
 
 > « _Aux premiers temps de la lutte, Lucifer discourut en permanence dans l’amphithéâtre planétaire. Gabriel avait établi son quartier général à proximité, et de là il mit sans cesse à nu les sophismes des rebelles. Les diverses personnalités présentes sur la sphère et qui hésitaient sur l’attitude à prendre allaient et venaient entre ces discussions jusqu’à ce qu’elles fussent parvenues à une décision définitive._ » ([LU 53:5.6](/fr/The_Urantia_Book/53#p5_6))
 
@@ -19,7 +19,7 @@ Il est évident que les lecteurs du Livre d'URANTIA et les lecteurs potentiels d
 
 Ma position est celle de ce dernier. Je ne crois pas que l'évangile de M. Pope ni ses actions pour le distribuer dans le monde entier se comparent le moins du monde à la rébellion de Lucifer. Cependant, le fait que les lecteurs sont incités à prendre une « décision finale » concernant sa mission et son ministère d'une manière ou d'une autre. l’autre mérite l’exposition d’arguments sincères du point de vue opposé. Les deux points de vue, celui de M. Pope et celui de tout opposant à ses idées, ne sont que des opinions, rien de plus. Pourtant, c'est dans la plus haute sagesse spirituelle contenue dans chacune de ces opinions que s'inspireront les lecteurs et les lecteurs potentiels qui ont besoin de prendre leur « décision finale » sur la question. En fin de compte, inévitablement et heureusement, il appartient à chaque individu de tirer ses propres conclusions et de prendre sa propre « décision finale » solennelle.
 
-Cet auteur suppose que vous connaissez le « message de salut de bonne nouvelle adressé à un monde distrait » de M. Pope dans la mesure où vous avez peut-être entendu la nouvelle en direct de M. Pope ou entendu ses enregistrements. Pour vous rafraîchir, voici un bref résumé des points saillants :
+Cet auteur suppose que vous connaissez le « message de salut de bonne nouvelle adressé à un monde distrait » de M. Pope dans la mesure où vous avez peut-être entendu la nouvelle en direct de M. Pope ou entendu ses enregistrements. Pour vous rafraîchir, voici un bref résumé des points saillants :
 
 - Sept années de tribulations commencent en 1990
 - le monde se terminera par Nuclear Winter
@@ -35,7 +35,7 @@ Cet auteur suppose que vous connaissez le « message de salut de bonne nouvelle 
 
 Dans le processus par lequel toute personne au courant de ce « message de bonne nouvelle » parvient à une « décision finale », elle doit nécessairement l’aborder par l’un ou l’autre des deux moyens suivants :
 
-[1] croient que c'est vrai et le font en fin de compte parce qu'ils n'ont pas un aperçu direct et direct de la vérité ou de l'erreur de la question ; un tel manque de connaissance de première main les oblige à croire en l’autorité qu’ils investissent en M. Pope ; ou,
+[1] croient que c'est vrai et le font en fin de compte parce qu'ils n'ont pas un aperçu direct et direct de la vérité ou de l'erreur de la question ; un tel manque de connaissance de première main les oblige à croire en l’autorité qu’ils investissent en M. Pope ; ou,
 
 [2] croient que c'est faux et le font en fin de compte parce qu'ils ont un aperçu direct et de première main de la proposition avancée (ce qui signifie qu'ils auraient eux-mêmes acquis une certaine forme d'aptitude véritablement prophétique), ou parce qu'ils reconnaissent clairement que c'est faux. que la structure de l'ensemble de la proposition manque simplement de caractère raisonnable et de logique (ce qui signifie qu'ils auraient une compréhension claire du _Le Livre d'URANTIA_, des écritures bibliques et pertinentes dont M. Pope a tiré ses propres déductions qui correspondent à la nature de sa mission et de son évangile ), soit parce qu'ils reconnaissent clairement que le point de vue de M. Pope manque d'une véritable perspective spirituelle (ce qui signifie qu'ils reconnaissent chez M. Pope une pensée psychologique et spirituelle naissante qu'ils ont eux-mêmes rencontrée depuis longtemps, spiritualisée et dépassée... un processus qui leur permettrait de voir sa proposition avec un sens de réalité et de connaissance de Dieu plus grand que lui-même).
 
@@ -73,7 +73,7 @@ C'est seulement dans les perspectives spirituelles de ces personnes que l'erreur
 
 « Croyez en la foi plutôt qu'en déductions intelligentes et en logique. »
 
-« Croyez en vous-même et en votre souveraineté spirituelle, en votre propre vérité et en votre propre sens de la bonté et de la beauté, plutôt qu'aux autorités qui existent en dehors de votre propre relation intime avec votre Père divin qui vous habite, et plutôt qu'aux héros mortels et à ceux qui brandiraient des bannières. pour se soutenir eux-mêmes. »
+« Croyez en vous-même et en votre souveraineté spirituelle, en votre propre vérité et en votre propre sens de la bonté et de la beauté, plutôt qu'aux autorités qui existent en dehors de votre propre relation intime avec votre Père divin qui vous habite, et plutôt qu'aux héros mortels et à ceux qui brandiraient des bannières. pour se soutenir eux-mêmes. »
 
 « Croyez en la Vérité : elle gronde dans tout votre être, même si votre jeune âme ne la discerne peut-être pas encore autant que vous le souhaiteriez. »
 

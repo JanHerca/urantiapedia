@@ -1,5 +1,5 @@
 ---
-title: "Et maintenant ?"
+title: "Et maintenant ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -21,7 +21,7 @@ Mais cela ne me semblait pas une raison acceptable. Pourquoi Michael a-t-il reno
 
 Et puis un jour, une autre raison m'est venue, et mes orteils ont frémi de plaisir à l'idée que nous ne fassions peut-être pas l'école buissonnière autant que je l'avais pensé. Que nous avions effectivement progressé spirituellement et dans la fraternité sociale des hommes au point que le moment était désormais venu pour nous d'avoir le Livre Bleu.
 
-Je base ma conviction sur les faits suivants : -
+Je base ma conviction sur les faits suivants : -
 
 1) Un fils du paradis arrive normalement sur la planète et les séraphins chantent : « Paix sur terre et bonne volonté à tous les hommes ». La planète a normalement atteint un niveau de fraternité sociale lorsque le Fils du Paradis arrive. Ce n’est pas le cas avec Urantia. Michael était donc prématuré par rapport à la norme sur d'autres planètes.
 2) Il n’a jamais réussi à éloigner la population de l’idée de royaume de ses ancêtres.

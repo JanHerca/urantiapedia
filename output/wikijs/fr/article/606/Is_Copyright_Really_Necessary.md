@@ -1,5 +1,5 @@
 ---
-title: "Le droit d'auteur est-il vraiment nécessaire ?"
+title: "Le droit d'auteur est-il vraiment nécessaire ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -13,19 +13,19 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _par le groupe d'étude de la Sunshine Coast_
 
-Que le _Livre URANTIA_ soit toujours proposé sous sa forme pratiquement originale, nous remercions la Fondation URANTIA. Mais les temps changent et nous sommes obligés de nous demander :
+Que le _Livre URANTIA_ soit toujours proposé sous sa forme pratiquement originale, nous remercions la Fondation URANTIA. Mais les temps changent et nous sommes obligés de nous demander :
 
-**1. Une personne peut-elle vraiment posséder une révélation divine ?**
+**1. Une personne peut-elle vraiment posséder une révélation divine ?**
 
 Le bon sens dit que la réponse à cette question est non. Il est certain que les quatre premières révélations d’époque appartenaient à l’humanité dans son ensemble. Est-il probable que nos superviseurs célestes ordonneraient que la Cinquième Révélation d’Époque soit la propriété d’un conseil d’administration auto-désigné et auto-entretenu ? Le livre déclare :
 
 > « La Pentecôte marqua la fin des prêtrises spéciales et de toute croyance à des familles sacrées. » ([LU 194:3.15](/fr/The_Urantia_Book/194#p3_15))
 
-_Le Livre d'URANTIA_ déclare également :
+_Le Livre d'URANTIA_ déclare également :
 
 > « _Nulle religion révélée ne peut se répandre dans le monde entier si elle commet la grave erreur de se laisser imprégner par une culture nationale, ou associer à des pratiques raciales, économiques ou sociales déjà établies._ » ([LU 194:3.9](/fr/The_Urantia_Book/194#p3_9))
 
-Déposer des droits d'auteur et retirer des marques, ne sont-ce pas des pratiques sociales et économiques ? Et comment imposer la volonté de la Fondation aux lecteurs du Livre d'URANTIA par le biais des tribunaux se compare-t-il au contenu de notre révélation :
+Déposer des droits d'auteur et retirer des marques, ne sont-ce pas des pratiques sociales et économiques ? Et comment imposer la volonté de la Fondation aux lecteurs du Livre d'URANTIA par le biais des tribunaux se compare-t-il au contenu de notre révélation :
 
 > « _Acceptez l’injustice plutôt que de recourir à la loi entre vous._ » ([LU 140:3.14](/fr/The_Urantia_Book/140#p3_14))
 
@@ -47,7 +47,7 @@ Un homme nommé Aden enseignait au nom de Jésus dans le village d'Ashtaroth. L�
 
 Aden n'a pas été traduit en justice. En fait, il a rassemblé un groupe considérable de croyants à Kanata avant de se rendre en Mésopotamie ([LU 159:2.4](/fr/The_Urantia_Book/159#p2_4)).
 
-**3. Quelles sont les conséquences probables de la perte des droits d'auteur du _Livre d'URANTIA_ ?**
+**3. Quelles sont les conséquences probables de la perte des droits d'auteur du _Livre d'URANTIA_ ?**
 
 La Fondation URANTIA a été créée comme une organisation à but non lucratif. Nous considérons que sa tâche principale est de conserver intactes les planches originales (ou leurs copies authentifiées) afin que des copies intactes du texte original soient toujours disponibles. C'est sa fonction la plus importante. Quel que soit le sort du droit d'auteur, le rôle vital de la Fondation restera inchangé : conserver sous forme imprimée un texte original intégral.
 
@@ -69,7 +69,7 @@ Un conseiller divin a écrit ces mots. Pour les dévots du Livre d’URANTIA, le
 
 Ce n’est guère une question nécessaire. Mais si vous aidez une personne ou un groupe à comprendre le livre, et qu'il est essentiel de citer plus que les 500 mots du livre, comme le recommande la Fondation, leur refusez-vous cette aide, en leur disant d'attendre pendant que vous voyez ? si vous pouvez obtenir la permission ? Et si vous pensez qu'un ami aveugle bénéficierait grandement si vous utilisiez un programme informatique pour transcrire le texte du Livre d'URANTIA en braille, refuseriez-vous ce bénéfice à votre ami par peur de la Fondation (elle a déjà menacé de poursuites pour une telle « infraction » ).
 
-**5. La situation actuelle est-elle réelle ou avons-nous, comme Alice, traversé le miroir ? C'est difficile à dire. Conclusion :**
+**5. La situation actuelle est-elle réelle ou avons-nous, comme Alice, traversé le miroir ? C'est difficile à dire. Conclusion :**
 
 > « _« Le Père qui est aux cieux aime ses enfants, et c’est pourquoi vous devriez apprendre à vous aimer les uns les autres. Le Père qui est aux cieux vous pardonne vos péchés ; vous devriez donc apprendre à vous pardonner les uns les autres. Si ton frère pèche contre toi, va vers lui et montre-lui sa faute avec tact et patience. Fais tout cela en tête-à-tête. S’il veut t’écouter, alors, tu as gagné ton frère. Mais, si ton frère refuse de t’entendre, s’il persiste dans son erreur, retourne encore une fois vers lui en emmenant un ou deux amis communs, afin d’avoir deux ou même trois témoins pour confirmer ton témoignage et établir le fait que tu as traité avec justice et miséricorde le frère qui t’a fait du tort. Ensuite, s’il refuse d’écouter tes amis, tu peux raconter toute l’histoire à la congrégation, et s’il refuse de l’écouter, laisse la fraternité prendre la mesure qu’elle juge sage ; laisse ce membre indiscipliné devenir un proscrit du royaume._ » ([LU 159:1.3](/fr/The_Urantia_Book/159#p1_3))
 

@@ -35,7 +35,7 @@ Serait-il possible pour les lecteurs du livre ayant une expertise scientifique d
 
 Nous ne savons pas encore si le télescope spatial ou les nouveaux instruments au sol actuellement en construction révéleront quelque chose, mais la découverte, par exemple, du premier niveau de l'espace extra-atmosphérique donnerait matière à réflexion aux astronomes.
 
-Un de mes amis (qui n’a pas étudié le livre) a suggéré que la découverte de la Dalamatie aurait un effet profond. Comme une grande partie de la région du Golfe Persique a déjà été forée pour le pétrole, les preuves de l'endroit où chercher peuvent déjà faire partie d'une carotte de forage existante, peut-être dans les registres d'une compagnie pétrolière sensée. Quelqu'un peut-il penser à un moyen de vérifier cela ?
+Un de mes amis (qui n’a pas étudié le livre) a suggéré que la découverte de la Dalamatie aurait un effet profond. Comme une grande partie de la région du Golfe Persique a déjà été forée pour le pétrole, les preuves de l'endroit où chercher peuvent déjà faire partie d'une carotte de forage existante, peut-être dans les registres d'une compagnie pétrolière sensée. Quelqu'un peut-il penser à un moyen de vérifier cela ?
 
 Vraisemblablement, l'une des fonctions des étudiants du _Livre d'URANTIA_ est de réfléchir aux voies et moyens de vérifier les informations qu'il nous donne. Peut-être que les scientifiques parmi nos lecteurs pourraient élaborer une stratégie à long terme pour orienter les efforts de recherche dans ces directions.
 

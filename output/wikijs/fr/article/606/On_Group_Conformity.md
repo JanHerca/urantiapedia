@@ -13,7 +13,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Groupe d'étude de la Sunshine Coast_
 
-De nombreux événements de ce siècle ont sonné comme un avertissement inquiétant sur les dangers inhérents auxquels sont confrontés les individus lorsqu'ils sont soumis à des pressions nées au sein des groupes sociaux. En voici quelques exemples : les excès découlant du paradigme nietzschien de la race des maîtres imposé au peuple allemand par ses dirigeants nazis ; le comportement kamikaze des troupes et aviateurs japonais ; la soumission irrationnelle des jeunes aux pressions de leurs pairs en ce qui concerne des habitudes potentiellement nocives (tabagisme, consommation de drogues), ou l'idée que le statut de virginité est honteux, ce qui peut conduire à une exposition conséquente d'esprits et de corps immatures aux dangers de la grossesse, du SIDA, et les maladies vénériennes. De manière plus spectaculaire, il y a eu les résultats bizarres attachés aux ministères religieux, comme celui du révérend Jones dont les fidèles se sont suicidés en masse en prenant du cyanure, ou le récent holocauste résultant de l'affaire Waco.
+De nombreux événements de ce siècle ont sonné comme un avertissement inquiétant sur les dangers inhérents auxquels sont confrontés les individus lorsqu'ils sont soumis à des pressions nées au sein des groupes sociaux. En voici quelques exemples : les excès découlant du paradigme nietzschien de la race des maîtres imposé au peuple allemand par ses dirigeants nazis ; le comportement kamikaze des troupes et aviateurs japonais ; la soumission irrationnelle des jeunes aux pressions de leurs pairs en ce qui concerne des habitudes potentiellement nocives (tabagisme, consommation de drogues), ou l'idée que le statut de virginité est honteux, ce qui peut conduire à une exposition conséquente d'esprits et de corps immatures aux dangers de la grossesse, du SIDA, et les maladies vénériennes. De manière plus spectaculaire, il y a eu les résultats bizarres attachés aux ministères religieux, comme celui du révérend Jones dont les fidèles se sont suicidés en masse en prenant du cyanure, ou le récent holocauste résultant de l'affaire Waco.
 
 ## Nature inhérente des groupes
 
@@ -21,7 +21,7 @@ Bien entendu, tous les comportements de groupe n’ont pas des effets aussi dram
 
 Les groupes sont une composante fondamentale de notre vie sociale. Pendant la majeure partie de notre vie, nous sommes entourés de groupes et une grande partie de notre activité consiste à essayer d'entrer dans des groupes, de participer à des groupes ou d'essayer de sortir d'un groupe - à tel point que nous nous habituons à eux et à leurs effets sur notre comportement en tant qu'individus passe inaperçu. Parce que la compréhension des modèles de comportement de groupe est d'une telle importance pour notre bien-être, l'étude de la conduite intragroupe a reçu beaucoup d'attention en psychologie sociale, avec pour résultat que des facettes du comportement telles que la cohésion, la conformité, le leadership, la conformité aux figures d'autorité et la polarisation ont été étudiées. été largement étudiée.
 
-Un groupe peut accomplir bien plus que la somme des efforts de ses membres individuels. _Le Livre d'URANTIA_ déclare :
+Un groupe peut accomplir bien plus que la somme des efforts de ses membres individuels. _Le Livre d'URANTIA_ déclare :
 
 > « _Un groupe social d’êtres humains opérant dans une harmonie coordonnée représente une force beaucoup plus grande que la simple somme de ses éléments._ » ([LU 133:5.6](/fr/The_Urantia_Book/133#p5_6))
 
@@ -35,7 +35,7 @@ Le besoin de se conformer, de ne pas paraître différent des autres membres du 
 
 Des centaines d’études de conformité utilisant diverses méthodes indiquent que les individus se conforment souvent sciemment aux opinions incorrectes d’une majorité. Certains membres s'y conforment simplement, ne voulant pas paraître en décalage avec les autres membres du groupe, ni paraître stupides. D’autres changent d’avis en estimant que la majorité (ou un leader fort) doit avoir raison.
 
-L'obéissance à l'autorité ou à un leader conçu est une tendance tellement puissante chez nous, les humains, qu'il est essentiel de la reconnaître et de la considérer objectivement si nous voulons prendre les bonnes décisions. Le changement de camp massif, jusqu’ici inconcevable, survenu avec les troupes de l’ONU faites prisonnières pendant la guerre de Corée, a illustré à quel point ce besoin d’être dirigé ou de se faire dire quoi faire est puissant. La technique utilisée contre les prisonniers était d’une simplicité pathétique et n’avait rien à voir avec un lavage de cerveau ardu et continu. En fait, le changement a été réalisé en observant simplement le comportement de groupe des prisonniers et en transférant dans un autre camp tous les individus qui montraient des signes de leadership. Pour effondrer le moral des autres et les rendre très susceptibles à l'endoctrinement, moins de 5 % des prisonniers ont été expulsés. Mais ne nous convainquons pas trop vite de notre propre supériorité. Écoutez ce qu'un séraphin (Gardien du Destin) a dit de sa charge humaine (qui doit avoir atteint au moins le statut de troisième cercle) :
+L'obéissance à l'autorité ou à un leader conçu est une tendance tellement puissante chez nous, les humains, qu'il est essentiel de la reconnaître et de la considérer objectivement si nous voulons prendre les bonnes décisions. Le changement de camp massif, jusqu’ici inconcevable, survenu avec les troupes de l’ONU faites prisonnières pendant la guerre de Corée, a illustré à quel point ce besoin d’être dirigé ou de se faire dire quoi faire est puissant. La technique utilisée contre les prisonniers était d’une simplicité pathétique et n’avait rien à voir avec un lavage de cerveau ardu et continu. En fait, le changement a été réalisé en observant simplement le comportement de groupe des prisonniers et en transférant dans un autre camp tous les individus qui montraient des signes de leadership. Pour effondrer le moral des autres et les rendre très susceptibles à l'endoctrinement, moins de 5 % des prisonniers ont été expulsés. Mais ne nous convainquons pas trop vite de notre propre supériorité. Écoutez ce qu'un séraphin (Gardien du Destin) a dit de sa charge humaine (qui doit avoir atteint au moins le statut de troisième cercle) :
 
 > « _Une grande partie de ma difficulté provenait de l’interminable conflit entre les deux natures de mon sujet : la poussée de l’ambition contrariée par l’indolence animale ; les idéaux d’un peuple supérieur barrés par les instincts d’une race inférieure ; les desseins élevés d’un mental élevé rencontrant l’antagonisme des impulsions héréditaires primitives ;_ » ([LU 111:7.5](/fr/The_Urantia_Book/111#p7_5))
 
@@ -57,11 +57,11 @@ Dans de telles situations, même un lecteur sincère du Livre d'URANTIA qui cher
 
 Après avoir adopté « l’esprit de Jésus » ([LU 47:3.3](/fr/The_Urantia_Book/47#p3_3)), il devient possible de faire ce que vous attendez de Jésus dans des circonstances similaires.
 
-Se référant au leadership de Jésus, _Le Livre d'URANTIA_ déclare :
+Se référant au leadership de Jésus, _Le Livre d'URANTIA_ déclare :
 
 > « _Jésus obtint l’obéissance de ses disciples sans l’exiger. Parmi tous les hommes qui reçurent son appel personnel, trois seulement refusèrent cette invitation à devenir ses disciples. Il exerçait un pouvoir d’attraction particulier sur les hommes, mais n’était pas dictatorial. Il inspirait la confiance, et jamais personne ne fut froissé de recevoir un ordre de lui. Il assumait une autorité absolue sur ses disciples, mais nul n’y fit jamais d’objection. Il permettait à ses disciples de l’appeler Maitre._ » ([LU 149:2.12](/fr/The_Urantia_Book/149#p2_12))
 
-Mais la différence cruciale était la suivante :
+Mais la différence cruciale était la suivante :
 
 > « _Jésus obtint l’obéissance de ses disciples sans l’exiger._ » ([LU 149:2.12](/fr/The_Urantia_Book/149#p2_12))
 
@@ -71,7 +71,7 @@ La conscience de nos faiblesses inhérentes est un impératif si nous voulons r�
 
 En plus d'attirer l'attention sur nos déficiences génétiques résultant du défaut adamique, ce passage nous informe que, dans notre état actuel de développement, il est presque impossible pour nos Ajusteurs de Pensée de communiquer avec notre esprit humain !
 
-## Allégations concernant la canalisation
+## Allégations concernant la canalisation
 
 _Le Livre d'URANTIA_ nous dit que « _seul l'Ajusteur de Pensée contacte directement le mental humain_ ». ([LU 34:5.3](/fr/The_Urantia_Book/34#p5_3)) Cela devrait sûrement constituer un avertissement pour tous les lecteurs du Livre d'URANTIA lorsqu'ils considèrent les affirmations associées aux activités de groupe impliquant la canalisation. La littérature de la « Mission d'Enseignement » originaire de Woods Cross, Utah, déclare que le contact avec les « enseignants » célestes doit être demandé par l'intermédiaire de nos Ajusteurs de Pensée et que la communication ultérieure doit se faire via l'Ajusteur de Pensée avec l'aide d'un Médian. Quelle est la probabilité que cela soit s’il est presque impossible pour nos Ajusteurs de Pensée de communiquer avec notre esprit ?
 
@@ -79,7 +79,7 @@ Récemment, la « Mission Enseignante » a élargi ses horizons au-delà des seu
 
 Nous devons toujours nous rappeler que notre crédulité a tendance à être amplifiée dans une situation de groupe et que lorsque nous sommes déjà dans un état d'esprit de vouloir vivre une expérience surnaturelle avant de rejoindre un groupe, nos installations critiques seront gravement entravées. Des preuves ont déjà été citées selon lesquelles c’est ainsi que nous, les humains, sommes, et pas seulement une minorité, c’est le cas de pratiquement nous tous !
 
-Dans l’édition de mai 1992 de Six-O-Six, Meredith Sprunger a attiré l’attention sur les erreurs du « Professeur Ham » concernant le centre spirituel de la planète et le rôle de Norson. Dans les transcriptions que nous avons d’une séance « Professeur Bertrand », un participant remarque que Bertrand se déplace du centre spirituel à son groupe « quasi instantanément » alors que cela prend environ une heure à Ham. Lorsque l’attention est attirée sur l’anomalie, aucune explication n’est proposée et l’affaire est abandonnée. Une question posée à Bertrand concernant la mission de guérison est la suivante : « Comment se fait-il que tous ceux sur lesquels on travaille meurent ? » Une promesse est faite de contacter Ham à ce sujet et, après des demandes répétées, Ham fait une brève apparition, donne un message d'encouragement, ne fait aucune mention de la mission de guérison et s'en va sans cérémonie, ne laissant aucune possibilité de poser des questions. Par la suite, Ham a quitté la planète et l’affaire est laissée en suspens.
+Dans l’édition de mai 1992 de Six-O-Six, Meredith Sprunger a attiré l’attention sur les erreurs du « Professeur Ham » concernant le centre spirituel de la planète et le rôle de Norson. Dans les transcriptions que nous avons d’une séance « Professeur Bertrand », un participant remarque que Bertrand se déplace du centre spirituel à son groupe « quasi instantanément » alors que cela prend environ une heure à Ham. Lorsque l’attention est attirée sur l’anomalie, aucune explication n’est proposée et l’affaire est abandonnée. Une question posée à Bertrand concernant la mission de guérison est la suivante : « Comment se fait-il que tous ceux sur lesquels on travaille meurent ? » Une promesse est faite de contacter Ham à ce sujet et, après des demandes répétées, Ham fait une brève apparition, donne un message d'encouragement, ne fait aucune mention de la mission de guérison et s'en va sans cérémonie, ne laissant aucune possibilité de poser des questions. Par la suite, Ham a quitté la planète et l’affaire est laissée en suspens.
 
 Voici une transcription d'une session avec le professeur céleste Bertrand canalisée vers un émetteur/récepteur nommé « James ».
 
@@ -87,7 +87,7 @@ Voici une transcription d'une session avec le professeur céleste Bertrand canal
 
 Bertrand : Un instant. [Pause.] Non. Nous sommes tous des candidats à la pré-fusion.
 
-Étudiant : Même du jambon ?
+Étudiant : Même du jambon ?
 
 Bertrand : Oui.
 

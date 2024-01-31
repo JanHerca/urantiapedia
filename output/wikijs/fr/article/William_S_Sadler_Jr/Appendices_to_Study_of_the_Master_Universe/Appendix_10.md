@@ -58,7 +58,7 @@ Les citations des fascicules qui sont utilisées dans le chapitre suivant font t
 > 
 > [LU 104:3.16](/fr/The_Urantia_Book/104#p3_16). Une triunité ne constitue pas une entité; elle est fonctionnelle plutôt qu'une réalité organique. Ses membres sont comme des partenaires; c'est une association par opposition à une corporation (trinitaire).
 
-Nous sommes pour la plupart enclins à penser à la Trinité du Paradis d'une manière insouciante. Nous pensons probablement, la plupart du temps, à _l'association_ du Père, du Fils et de l'Esprit; quand le Père, le Fils et l'Esprit s'associent entre eux en tant que personnes, cette association s'appelle la Première Triunité [LU 104:4.4](/fr/The_Urantia_Book/104#p4_4) . Mais la Trinité du Paradis est leur _représentant collecti_f, laquelle, en termes symboliques, peut être appelée «Société de Déité Indivise». Ceci est leur union en tant que déité. [LU 106:5.4](/fr/The_Urantia_Book/106#p5_4)
+Nous sommes pour la plupart enclins à penser à la Trinité du Paradis d'une manière insouciante. Nous pensons probablement, la plupart du temps, à _l'association_ du Père, du Fils et de l'Esprit; quand le Père, le Fils et l'Esprit s'associent entre eux en tant que personnes, cette association s'appelle la Première Triunité [LU 104:4.4](/fr/The_Urantia_Book/104#p4_4) . Mais la Trinité du Paradis est leur _représentant collecti_f, laquelle, en termes symboliques, peut être appelée «Société de Déité Indivise». Ceci est leur union en tant que déité. [LU 106:5.4](/fr/The_Urantia_Book/106#p5_4)
 
 (b) _Comparaison entre triunité et trinité_
 

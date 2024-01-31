@@ -1,5 +1,5 @@
 ---
-title: « « Révolte d'époque » »
+title: « « Révolte d'époque » »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -13,9 +13,9 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 Dès le début, nous avons apprécié Six-OSix et, au fil du temps, nous l'avons vu se développer, devenir plus intéressant, varié et professionnel. Dernièrement, des articles contenant des informations supplémentaires ont été publiés dans Six-O-Six, des articles qui ne dérivent pas « strictement » du _Livre d'URANTIA_. Cela a provoqué un tollé chez certaines personnes.
 
-Comme le déclare Neil Francey (co-éditeur de Six-O-Six) :
+Comme le déclare Neil Francey (co-éditeur de Six-O-Six) :
 
-« Il semble que Six-O-Six ait, dans ses numéros récents, orienté ses articles et commentaires éditoriaux vers un groupe d'intérêt particulier et s'écartant d'une stricte discipline du Livre d'URANTIA. Les lecteurs doivent désormais s’orienter dans une nouvelle direction. Cette publication continue-t-elle d'aider les lecteurs à évaluer de nouvelles idées en leur apportant une meilleure compréhension et une meilleure compréhension ? Répond-il à des besoins changeants ? En conséquence, Six-O-Six est-il apprécié et de plus en plus apprécié par les lecteurs ou est-ce que cela devient trop général ? »
+« Il semble que Six-O-Six ait, dans ses numéros récents, orienté ses articles et commentaires éditoriaux vers un groupe d'intérêt particulier et s'écartant d'une stricte discipline du Livre d'URANTIA. Les lecteurs doivent désormais s’orienter dans une nouvelle direction. Cette publication continue-t-elle d'aider les lecteurs à évaluer de nouvelles idées en leur apportant une meilleure compréhension et une meilleure compréhension ? Répond-il à des besoins changeants ? En conséquence, Six-O-Six est-il apprécié et de plus en plus apprécié par les lecteurs ou est-ce que cela devient trop général ? »
 
 Les premiers troubles concernant le contenu du Six-O-Six ont commencé avec l'annonce des cassettes E-3. Le message traitait principalement de la vie que nous vivrons lorsque nous aurons dépassé les derniers jours de ce millénaire et que nous entrerons dans le prochain avec une conscience élargie, en coopération plus étroite avec nos amis célestes. Ceci est conforme au _Le Livre d'URANTIA_.
 
@@ -47,7 +47,7 @@ Il y a de nombreuses indications dans le _Livre d'URANTIA_ sur de grands changem
 
 « La connaissance dont l'homme a le plus besoin pour survivre et conquérir son environnement est la connaissance scientifique de son univers et une philosophie vivante qui unira toute l'humanité en une seule fraternité. Le but de donner ces nouvelles connaissances est de consommer un mariage entre la science et la religion qui donnera au monde la paix, le bonheur et la culture que seule la pleine conscience de la lumière divine, qui est en tous les hommes, peut apporter.
 
-Extrait de : « _Atomic Suicide ?_ » par le Dr Walter et Lao Russell, Université des sciences et de la philosophie.
+Extrait de : « _Atomic Suicide ?_ » par le Dr Walter et Lao Russell, Université des sciences et de la philosophie.
 
 - [LU 133:5](/fr/The_Urantia_Book/133#p5) — Discours sur la science
 - [LU 101:5](/fr/The_Urantia_Book/101#p5) — La religion élargie par la révélation

@@ -1,5 +1,5 @@
 ---
-title: "Je salue le Dieu qui est en vous" »
+title: "Je salue le Dieu qui est en vous" »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -13,7 +13,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Ann Bendall, Nambour, Queensland._
 
-Deux manières étranges de réagir au commandement de Jésus de « Aimez-vous les uns les autres comme je vous ai aimés » sont les suivantes :
+Deux manières étranges de réagir au commandement de Jésus de « Aimez-vous les uns les autres comme je vous ai aimés » sont les suivantes :
 
 1. Saluer le Dieu intérieur d’une autre personne.
 2. Aimer l'Ajusteur de Pensée d'une personne.
@@ -30,7 +30,7 @@ Ainsi, suivre le commandement de Jésus a un double effet, car non seulement nou
 
 Pas une seule fois dans _Le Livre d'URANTIA_ je n'obtiens la moindre allusion à une pensée fugace de Jésus du genre : « J'abandonne. Cette personne n’est absolument pas aimable. La seule chose que je peux trouver de valeur en eux est leur Ajusteur de Pensée ».
 
-_Le Livre d'URANTIA_ est jonché de rappels constants que nous devons aimer l'individu :
+_Le Livre d'URANTIA_ est jonché de rappels constants que nous devons aimer l'individu :
 
 > « _Je vous envoie non pour aimer l’âme des hommes, mais plutôt pour aimer les hommes._ » ([LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
@@ -52,7 +52,7 @@ De plus en plus, ils ont appris de Jésus à considérer les personnalités huma
 
 Il est évident que Dieu et Jésus veulent que nous n’aimions pas Dieu dans un individu, mais plutôt l’individu lui-même. Il est inconcevable que Dieu soit narcissique et désireux de passer sa journée à admirer son image pendant que ses enfants regardent leurs frères et sœurs. De toute façon, à qui appartient l'amour ? L'amour vient de Dieu. Il nous le donne pour le donner à nos frères et sœurs.
 
-Je ne peux pas croire que Dieu veuille que nous l'aimions dans les autres, tout en ignorant totalement la personnalité unique, qui ne se répétera jamais, piégée dans l'esprit très confus d'un petit humain décidément laid. Qu’est-ce que Dieu a demandé à Jésus ? Son souhait est que personne ne soit perdu. Un Ajusteur de Pensée peut-il s’égarer ? Non! Ce que Dieu demande, c’est que nous aimions ce qu’il chérit tant : la personnalité chérie qu’il a créée. Il nous demande d’aborder ceux qui ne sont pas aimables avec une attitude d’amour véritable. Comme cette belle image mentale peinte de l'homme des cavernes hargneux ([LU 100:4.5](/fr/The_Urantia_Book/100#p4_5)), il nous demande d'aimer véritablement la personnalité logée en notre frère et notre sœur, afin qu'il puisse nous aider à élargir l'image de leur être, afin que nous pouvons comprendre pourquoi ils sont comme ils sont. Peut-être qu’au cours de ce processus, ils comprendront la possibilité d’adopter des attitudes, des croyances, des valeurs et des émotions différentes – simplement parce que nous leur offrons notre amour authentique et sincère. Cet amour peut dire : « Je sais que tu ne crois pas que tu es aimable. Je reconnais même que tu crois que l’amour est pour les oiseaux, que tu sens que je ne t’intéresse ni ne valeur. Je reconnais tout cela et je vous aime à cause de l’individu unique que vous êtes. Mais si je passe de vous à votre comportement réel, je peux résumer cela en deux mots : ça pue ! »
+Je ne peux pas croire que Dieu veuille que nous l'aimions dans les autres, tout en ignorant totalement la personnalité unique, qui ne se répétera jamais, piégée dans l'esprit très confus d'un petit humain décidément laid. Qu’est-ce que Dieu a demandé à Jésus ? Son souhait est que personne ne soit perdu. Un Ajusteur de Pensée peut-il s’égarer ? Non! Ce que Dieu demande, c’est que nous aimions ce qu’il chérit tant : la personnalité chérie qu’il a créée. Il nous demande d’aborder ceux qui ne sont pas aimables avec une attitude d’amour véritable. Comme cette belle image mentale peinte de l'homme des cavernes hargneux ([LU 100:4.5](/fr/The_Urantia_Book/100#p4_5)), il nous demande d'aimer véritablement la personnalité logée en notre frère et notre sœur, afin qu'il puisse nous aider à élargir l'image de leur être, afin que nous pouvons comprendre pourquoi ils sont comme ils sont. Peut-être qu’au cours de ce processus, ils comprendront la possibilité d’adopter des attitudes, des croyances, des valeurs et des émotions différentes – simplement parce que nous leur offrons notre amour authentique et sincère. Cet amour peut dire : « Je sais que tu ne crois pas que tu es aimable. Je reconnais même que tu crois que l’amour est pour les oiseaux, que tu sens que je ne t’intéresse ni ne valeur. Je reconnais tout cela et je vous aime à cause de l’individu unique que vous êtes. Mais si je passe de vous à votre comportement réel, je peux résumer cela en deux mots : ça pue ! »
 
 > Ce que Dieu demande, c'est que nous aimions ce qu'il chérit tant : la personnalité chérie qu'il a créée. Il nous demande d’aborder ceux qui ne sont pas aimables avec une attitude d’amour véritable.
 
@@ -60,7 +60,7 @@ Pourquoi ne pouvons-nous pas regarder les gens comme nous et Dieu le font ? Nous
 
 Alors essayons tous de nous aimer les uns les autres comme Jésus nous aime, comme il l'a démontré dans son amour pour toutes les personnes qu'il a rencontrées dans sa vie ici-bas. Et puis commence le plaisir de la déception, de l’adversité, de la tristesse et de tout ce matériel de croissance agréable et douloureux. Ce serait sans aucun doute un soulagement béni de s’échapper dans la façon illusoire de penser que « Dieu veut vraiment que je l’aime, pas mes frères et sœurs. Comment puis-je aimer quelqu’un qui essaie de toutes ses forces de me convaincre qu’il n’a aucun trait digne d’un être humain – qu’il est vraiment un animal ? Mais Dieu ne me demanderait pas l’impossible ! Dieu ne me demande pas d’aimer les traits d’une personne, il me demande d’aimer la personne.
 
-Et l'avantage pour nous ? Tout comme ce fut le cas avec Jésus :
+Et l'avantage pour nous ? Tout comme ce fut le cas avec Jésus :
 
 > « _...Quant à son éducation réelle — l’équipement du mental et du cœur pour l’épreuve effective de s’attaquer aux difficiles problèmes de la vie — il l’obtint en se mêlant à ses semblables. Ce fut cette étroite association avec ses compagnons jeunes et vieux, Juifs et Gentils, qui lui fournit l’occasion de connaitre la race humaine. Jésus était hautement éduqué, en ce sens qu’il comprenait complètement les hommes et les aimait avec dévotion._ » ([LU 123:5.8](/fr/The_Urantia_Book/123#p5_8))
 

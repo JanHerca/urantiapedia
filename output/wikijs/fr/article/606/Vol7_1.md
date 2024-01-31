@@ -61,11 +61,11 @@ ENSA | U MINEUR DU TROISIÈME | 3 RÉCENTS DE JOURS | 3^ème^ | SECTEUR MINEUR |
 SPLANDON | U MAJEUR DU CINQUIÈME | 3 PERFECTIONS<br>DE JOURS | 5^ème^ | GRAND<br>SECTEUR | SUPER-<br>UNIVERS | ORVONTON | 10 GRANDS SECTEURS<br>
 ORVONTON | UVERSA | 3 ANCIENNES<br>DE JOURS | 7^ème^ | SUPER-<br>UNIVERS | GRAND<br>UNIVERS | MAÎTRE<br>UNIVERS | 7 SUPER-<br>UNIVERS<br>1 CENTRAL<br>UNIVERS<br>4 NIVEAUX D'ESPACE INHABITÉS
 
-Remarque : Si vous souhaitez contacter Uversa, assurez-vous d'abord de vérifier dans ce répertoire l'indicatif régional correct. Si vous souhaitez parler personnellement du Père Universel, contactez votre Ajusteur de Pensée privé.
+Remarque : Si vous souhaitez contacter Uversa, assurez-vous d'abord de vérifier dans ce répertoire l'indicatif régional correct. Si vous souhaitez parler personnellement du Père Universel, contactez votre Ajusteur de Pensée privé.
 
 ## La dérivation des valeurs
 
-Lors d'un récent séminaire politique à Sydney, il a été clairement compris que la qualité de notre vie politique découle des valeurs que nous défendons. Les valeurs selon lesquelles nous vivons déterminent l’essence et la qualité de toute notre civilisation ; et notre système de coopération et de contrôle sociaux – notre vie politique en général – ne fait pas exception. Comprendre ce fait – que les valeurs sont à la base de tous nos processus sociaux – est l’une des clés pour améliorer le niveau de notre vie politique en Australie, mais c’est un élément qui semble souvent négligé à la fois par les élus et par la population. grand.
+Lors d'un récent séminaire politique à Sydney, il a été clairement compris que la qualité de notre vie politique découle des valeurs que nous défendons. Les valeurs selon lesquelles nous vivons déterminent l’essence et la qualité de toute notre civilisation ; et notre système de coopération et de contrôle sociaux – notre vie politique en général – ne fait pas exception. Comprendre ce fait – que les valeurs sont à la base de tous nos processus sociaux – est l’une des clés pour améliorer le niveau de notre vie politique en Australie, mais c’est un élément qui semble souvent négligé à la fois par les élus et par la population. grand.
 
 Cependant, lorsque ce même séminaire a abordé la question de la dérivation des valeurs, la compréhension a été bien moindre. Deux femmes compétentes et courageuses du Queensland, qui luttent pour influencer la politique éducative de cet État, ont défendu l'inculcation officielle des valeurs chrétiennes traditionnelles, qui sont souvent attaquées et ridiculisées par les enseignants radicaux. Il semblait y avoir un accord général sur le fait que tout renouveau moral en Australie serait basé sur de telles valeurs. Et c’est à ce moment-là que je me suis retrouvé en désaccord avec ces femmes sincères.
 
@@ -110,7 +110,7 @@ _Doit être résolu en anglais_
 - 46\. Un temple juif s'appelle un... (9)
 - 47\. L'eau gelée s'appelle .... (3)
 - 49\. Quand Josué avait 9 ans. Vieux, lui et son Papa ont gravi le Mont... (5)
-- 51\. Horrible :... voulait tuer bébé Joshua (5)
+- 51\. Horrible :... voulait tuer bébé Joshua (5)
 - 52\. Josué a appris à... la vache (4)
 - 54\. Le métier de Joseph était d'être .... (9)
 - 56\. Le nom de l'assistante céleste qui est venue voir Marie était... (7)

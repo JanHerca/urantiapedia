@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi ne frappent-ils pas à ma porte ?"
+title: "Pourquoi ne frappent-ils pas à ma porte ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -15,7 +15,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 Peut-être que les gens frappent à votre porte, vous demandent ce que vous avez et comment ils peuvent l'acquérir, mais ils laissent de côté la mienne.
 
-Et là-bas, dans le grand monde, quelques personnes ont observé une différence entre moi et elles qu’elles ont toutes qualifiée de « folle » ! Je n’ai jamais trouvé cela perturbant car je respecte totalement le droit de mes frères et sœurs de m’appeler comme ils veulent. Mais ce qui me rend un peu frustré, c'est que je n'ai visiblement pas atteint le stade où Dieu brille à travers moi, où j'ai cette belle plénitude de justice à laquelle Jésus fait référence dans LU 155 : 1.5.
+Et là-bas, dans le grand monde, quelques personnes ont observé une différence entre moi et elles qu’elles ont toutes qualifiée de « folle » ! Je n’ai jamais trouvé cela perturbant car je respecte totalement le droit de mes frères et sœurs de m’appeler comme ils veulent. Mais ce qui me rend un peu frustré, c'est que je n'ai visiblement pas atteint le stade où Dieu brille à travers moi, où j'ai cette belle plénitude de justice à laquelle Jésus fait référence dans LU 155 : 1.5.
 
 Je voudrais suggérer, à travers le 6-0-6, que nous commencions à accumuler des idées et des hypothèses sur ce qui ne va pas chez des gens comme moi.
 

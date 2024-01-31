@@ -1,5 +1,5 @@
 ---
-title: "Dieu est-il un homme ou une femme ?"
+title: "Dieu est-il un homme ou une femme ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -15,9 +15,9 @@ Je n'avais pas réalisé qu'il y avait des discussions sur le sexe de Dieu jusqu
 
 J'ai raté mon signal, lorsqu'un homme plutôt ivre m'a censuré sur ma conception de Dieu en tant que personne - après avoir expliqué qu'IL était une force, à quoi j'ai demandé pourquoi il venait de donner une identité de genre à une force, une utilisation déroutante de l'anglais. langage, acceptable en français, mais inapproprié dans notre support de communication désigné lorsqu'il a répondu : « Et ta sexualité ?
 
-Maintenant, je dois admettre que j'ai été temporairement surpris. Je venais d'intervenir avec une demande de bulletin météo dans sa zone géographique, et il avait pris l'initiative, du moins le pensais-je, de faire passer le sujet de la religion au sexe, un changement assez surprenant, mais un sujet dont je suis enclin à discuter. Je ne savais pas vraiment s'il voulait que je raconte la dernière fois que j'avais couché avec quelqu'un ; si je ne me sentais pas en sécurité en tant que femme ; inadéquat ou autre, et j'ai donc répondu à sa question par une des miennes pour une élaboration plus approfondie, à laquelle il a répondu :
+Maintenant, je dois admettre que j'ai été temporairement surpris. Je venais d'intervenir avec une demande de bulletin météo dans sa zone géographique, et il avait pris l'initiative, du moins le pensais-je, de faire passer le sujet de la religion au sexe, un changement assez surprenant, mais un sujet dont je suis enclin à discuter. Je ne savais pas vraiment s'il voulait que je raconte la dernière fois que j'avais couché avec quelqu'un ; si je ne me sentais pas en sécurité en tant que femme ; inadéquat ou autre, et j'ai donc répondu à sa question par une des miennes pour une élaboration plus approfondie, à laquelle il a répondu :
 
-« Eh bien, que ressentez-vous en tant que femme, avec Dieu étant représenté comme un homme ? »
+« Eh bien, que ressentez-vous en tant que femme, avec Dieu étant représenté comme un homme ? »
 
 Maintenant, je n’avais vraiment pas pensé à Notre Père comme étant « Notre Père – une femme ! J'ai réfléchi quelques secondes à sa question et j'ai répondu que je me sentais vraiment très à l'aise avec le fait que Dieu soit un homme. En fait, je ne pouvais vraiment pas l'imaginer avoir un sexe autre que celui d'un homme, mais j'ai ajouté : « un type d'homme très important - un androgyne ». . Il n’a pas compris le sens et j’ai donc dit : « Dieu est unisexe ! »
 

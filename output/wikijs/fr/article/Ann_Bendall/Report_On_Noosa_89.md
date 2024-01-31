@@ -23,17 +23,17 @@ Cela a été suivi d'une introduction à l'atelier de vendredi par Neil Francey,
 
 Le dîner au Halse Lodge était à 19 heures, suivi d'un divertissement sous forme de vidéos sur _Le Livre d'URANTIA_, suivi d'une socialisation. Nous avons été très heureux d'accueillir Richard Keeler, l'un des administrateurs de la Fondation URANTIA, qui était naturellement bombardé de questions sur la scène américaine.
 
-Vendredi matin, après un chant de cantiques, nous nous sommes divisés en cinq groupes pour l'atelier « Chaînon manquant » qui était basé sur la citation suivante :
+Vendredi matin, après un chant de cantiques, nous nous sommes divisés en cinq groupes pour l'atelier « Chaînon manquant » qui était basé sur la citation suivante :
 
 > « Laissez-moi proclamer solennellement cette vérité éternelle : Si, en vous harmonisant avec la vérité, vous apprenez à donner, dans votre vie, l’exemple de cette magnifique intégralité de la droiture, vos semblables vous rechercheront pour obtenir ce que vous aurez ainsi acquis. La mesure dans laquelle les chercheurs de vérité seront attirés vers vous représente la mesure de votre dotation de vérité, de votre droiture. La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » ([LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
 
 Ce qui suit est un résumé des objectifs de l'atelier préparé par Ken Glasziou.
 
-Le thème de l'atelier « Chaînon manquant » est centré autour de la déclaration de la page 1726 du _Livre d'URANTIA_ nous disant que si nous absorbons le message révélé par la vie de Jésus et reflétons pleinement ce message dans nos vies, alors les chercheurs de vérité seront attirés vers nous. La partie suivante de la déclaration semble nous dire que si nous jugeons nécessaire d'annoncer publiquement le message afin de trouver de nouveaux lecteurs, alors nous pouvons être certains que nous n'avons pas encore atteint ce stade de croissance spirituelle où nous commençons à être. publicités personnelles pour le chemin de Jésus.
+Le thème de l'atelier « Chaînon manquant » est centré autour de la déclaration de la page 1726 du _Livre d'URANTIA_ nous disant que si nous absorbons le message révélé par la vie de Jésus et reflétons pleinement ce message dans nos vies, alors les chercheurs de vérité seront attirés vers nous. La partie suivante de la déclaration semble nous dire que si nous jugeons nécessaire d'annoncer publiquement le message afin de trouver de nouveaux lecteurs, alors nous pouvons être certains que nous n'avons pas encore atteint ce stade de croissance spirituelle où nous commençons à être. publicités personnelles pour le chemin de Jésus.
 
 De nombreux lecteurs du Livre d'URANTIA expriment parfois l'opinion que nous ne trouvons pas le Livre mais plutôt qu'il nous trouve.
 
-Si nous souscrivons à ce point de vue, nous faisons un aveu surprenant : nous déclarons en réalité, avec humilité bien sûr et sans nous en rendre compte, que nous avons été choisis pour accomplir une tâche liée à ce Livre qui nous a trouvés. Espérons que l'atelier « Chaînon manquant » contribuera à nous aider à atteindre notre potentiel de croissance spirituelle ultérieure et, par conséquent, à accomplir plus efficacement la tâche attendue de nous. »
+Si nous souscrivons à ce point de vue, nous faisons un aveu surprenant : nous déclarons en réalité, avec humilité bien sûr et sans nous en rendre compte, que nous avons été choisis pour accomplir une tâche liée à ce Livre qui nous a trouvés. Espérons que l'atelier « Chaînon manquant » contribuera à nous aider à atteindre notre potentiel de croissance spirituelle ultérieure et, par conséquent, à accomplir plus efficacement la tâche attendue de nous. »
 
 Trente-six pages contenant des extraits du Livre Bleu relatifs à Joie, Joyeux, Joyeux, Joyeusement, Joies, avaient été envoyées aux participants quelques semaines avant l'atelier pour qu'ils puissent parcourir et noter celles qui auraient un rapport avec ce qu'ils pensaient être. le lien manquant'.
 

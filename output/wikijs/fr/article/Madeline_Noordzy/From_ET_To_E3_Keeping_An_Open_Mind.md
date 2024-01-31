@@ -21,7 +21,7 @@ Après avoir écouté les cassettes, j'ai demandé aux membres du groupe d'étud
 
 Bien que ces « cassettes de Graceland » apportent des informations assez surprenantes, l’ensemble du groupe de dix personnes convient que tout cela a du sens et que plus nous y réfléchissons, plus nous en venons à croire que cela pourrait très bien être la vérité. Imaginons un instant que ce soit le cas. Serait-il alors sage de se boucher les oreilles et de se mettre la tête dans le sable ?
 
-Sur LU 51 : 2.3 du _Le Livre d'URANTIA_, un fils secondaire Lanonandek du Corps de Réserve dit :
+Sur LU 51 : 2.3 du _Le Livre d'URANTIA_, un fils secondaire Lanonandek du Corps de Réserve dit :
 
 > « _Si une catastrophe physique devait ruiner la résidence planétaire d’une race en évolution, les Melchizédeks et les Porteurs de Vie emploieraient la technique de dématérialisation pour tous les survivants, et ces êtres seraient emmenés par transport séraphique sur le nouveau monde préparé pour la continuation de leur existence. Une fois inaugurée sur un monde de l’espace, l’évolution d’une race humaine doit se poursuivre tout à fait indépendamment de la survivance physique de sa planète,..._ » ([LU 51:2.3](/fr/The_Urantia_Book/51#p2_3))
 
@@ -31,17 +31,17 @@ Mais pourquoi nous le dire s’il ne savait pas qu’une telle évacuation pourr
 
 > « _Dans les affaires concernant le cœur des hommes, il se peut que le Père Universel ne soit pas toujours suivi ; mais, dans la conduite et la destinée d’une planète, c’est le plan divin qui prévaut ; le dessein éternel de sagesse et d’amour triomphe._ » ([LU 3:5.3](/fr/The_Urantia_Book/3#p5_3))
 
-Sur LU 46 :8.3, un Archange de Nébadon dit :
+Sur LU 46 :8.3, un Archange de Nébadon dit :
 
 > « _Mais d’ici peu le jugement de Lucifer et de ses associés restaurera le système de Satania dans la constellation de Norlatiadek, et ensuite Urantia et les autres sphères isolées seront rétablies dans les circuits de Satania. Ces mondes jouiront alors de nouveau du privilège des communications interplanétaires et de la communion intersystémique._ » ([LU 46:8.3](/fr/The_Urantia_Book/46#p8_3))
 
 (Écoutez la cassette 3 – Bienvenue dans le Cosmos.)
 
-Dans le passé, les prévisions apocalyptiques ont semé la peur dans l’esprit des gens. Mais ces « cassettes de Graceland », loin de susciter la peur, nous donnent l’espoir que Dieu ne nous abandonnera pas dans nos heures les plus sombres. Ils ne nous demandent pas de nous promener vêtus de sacs et de nous repentir, mais de ne rien faire d'autre que ce que nous faisons déjà, c'est-à-dire avoir foi en notre Père. Pouvons-nous, comme Job d’autrefois, être soumis à l’épreuve de foi suprême ? Pourquoi les archanges ont-ils établi ici leur quartier général de division ? À la page 408, nous trouvons :
+Dans le passé, les prévisions apocalyptiques ont semé la peur dans l’esprit des gens. Mais ces « cassettes de Graceland », loin de susciter la peur, nous donnent l’espoir que Dieu ne nous abandonnera pas dans nos heures les plus sombres. Ils ne nous demandent pas de nous promener vêtus de sacs et de nous repentir, mais de ne rien faire d'autre que ce que nous faisons déjà, c'est-à-dire avoir foi en notre Père. Pouvons-nous, comme Job d’autrefois, être soumis à l’épreuve de foi suprême ? Pourquoi les archanges ont-ils établi ici leur quartier général de division ? À la page 408, nous trouvons :
 
 > « _C’est ce fait inhabituel qui attire bientôt l’attention des visiteurs estudiantins venant d’au-delà de Nébadon._ » ([LU 37:3.3](/fr/The_Urantia_Book/37#p3_3))
 
-À la page suivante (LU 37:3.4), ils nous demandent :
+À la page suivante (LU 37:3.4), ils nous demandent :
 
 > « _Saisissez-vous la signification du fait que votre humble planète plongée dans la confusion est devenue un quartier général divisionnaire pour l’administration de l’univers et la direction de certaines activités archangéliques se rapportant au plan d’ascension au Paradis ?_ » ([LU 37:3.4](/fr/The_Urantia_Book/37#p3_4))
 
@@ -123,15 +123,15 @@ Regardons à nouveau cette phrase de plus près.
 
 **«au bord même»** (quelque chose de soudain, un point limite)
 
-**«d’une de ses époques»** (une évacuation vers une planète d'urgence serait certainement cela !)
+**«d’une de ses époques»** (une évacuation vers une planète d'urgence serait certainement cela !)
 
 **« les plus stupéfiantes et passionnantes »** (le dictionnaire définit « captivant » comme retenir, enchanter, captiver)
 
 **«de rajustement social»** (écouter la cassette 2 'This Is The Life')
 
-**« de stimulation morale »** (cela nous ferait certainement remonter nos chaussettes !)
+**« de stimulation morale »** (cela nous ferait certainement remonter nos chaussettes !)
 
-**«et d’illumination spirituelle»** (pas de demi-mesure cette fois !)
+**«et d’illumination spirituelle»** (pas de demi-mesure cette fois !)
 
 Je ne peux m'empêcher d'avoir le sentiment que les Médians qui ont écrit ceci (rappelez-vous qu'ils sont des résidents permanents ici) sont plutôt enthousiasmés par un événement futur pas trop loin. Ils ne disent pas exactement : « Asseyez-vous les gars et prenez une autre tasse de thé en attendant », n'est-ce pas ?
 
@@ -142,5 +142,5 @@ Je ne demande à personne de croire tout cela. Tout ce que je dis, c'est de gard
 **Madeline Noordzy**
 **Melbourne**
 
-_Remarque : à tous ceux qui souhaitent approfondir ce sujet, je leur recommande de lire le livre de Joe Pope « La fin du monde ! Et le fils d'effusion à venir ». L'adresse est la suivante : Joe Pope, P.O. C.P. 65839 Stn.F Vancouver, C.-B. V5N 5 L 3 Canada._
+_Remarque : à tous ceux qui souhaitent approfondir ce sujet, je leur recommande de lire le livre de Joe Pope « La fin du monde ! Et le fils d'effusion à venir ». L'adresse est la suivante : Joe Pope, P.O. C.P. 65839 Stn.F Vancouver, C.-B. V5N 5 L 3 Canada._
 

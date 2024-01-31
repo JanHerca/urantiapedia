@@ -61,7 +61,7 @@ En plus des compagnies aériennes et des bus réguliers, des transports privés 
 
 ## Plus d'information
 
-Pour plus de détails, contactez le responsable : Neil Francey cloSix-O-Six, PO Box 616,
+Pour plus de détails, contactez le responsable : Neil Francey cloSix-O-Six, PO Box 616,
 
 Sunnybank, 4109, Queensland, Australie.
 

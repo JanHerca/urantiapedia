@@ -50,7 +50,7 @@ Les publications trimestrielles suivantes sont disponibles aux États-Unis.
 1. L'Urantien - Journal de la Fraternité Urantia.
 2. Bulletin de la Fraternité Urantia.
 3. Agondonter - Bulletin de la Première Société Urantia de L.A.
-4. Le héraut de la Renaissance spirituelle :
+4. Le héraut de la Renaissance spirituelle :
 
 Nous disposons de quelques anciens exemplaires de ces publications si quelqu'un en a besoin. Des adresses d'abonnement sont également disponibles.
 
@@ -137,13 +137,13 @@ Editeur 1986-1990
 
 _Tiré d'une très humble feuille d'information d'une page destinée aux lecteurs australiens à partir de ***février 1980***. Six-O-Six est aujourd'hui devenu un bulletin d'information international tout aussi modeste, d'environ 8 à 10 pages._
 
-_En ***novembre 1981***, l'éditorial rapportait que le nombre total de personnes inscrites sur la liste de diffusion était de 66 ; 34 à Victoria, 11 en Nouvelle-Galles du Sud, 14 dans le Queensland, 3 en Australie-Méridionale et 4 en Australie-Occidentale. Le coût, frais de port compris, était de 30c par copie !_
+_En ***novembre 1981***, l'éditorial rapportait que le nombre total de personnes inscrites sur la liste de diffusion était de 66 ; 34 à Victoria, 11 en Nouvelle-Galles du Sud, 14 dans le Queensland, 3 en Australie-Méridionale et 4 en Australie-Occidentale. Le coût, frais de port compris, était de 30c par copie !_
 
 _Le numéro de septembre 1982 annonçait que Clyde Bedell s'était engagé à terminer une troisième édition révisée du Concordex, le travail devant être réalisé à Boulder, Colorado, où environ 80 lecteurs ont offert une assistance administrative._
 
 _Neil a conçu le nouveau logo Six-O-Six et l'a présenté en ***février 1984***._
 
-_En avril 1985, nous nous sommes lancés à l'international. L'éditorial rapportait :_
+_En avril 1985, nous nous sommes lancés à l'international. L'éditorial rapportait :_
 
 « Au fil des années, nous avons résisté aux demandes visant à envoyer Six-O-Six aux abonnés étrangers. Il semble désormais opportun de s’aventurer dans les eaux internationales. Avec la publication de ce numéro, nous souhaitons la bienvenue à des lecteurs de Nouvelle-Zélande, d’Afrique du Sud et de Tahiti.
 
@@ -153,9 +153,9 @@ _La réponse, comme cela arrive souvent avec des enquêtes comme celle-ci, a ét
 
 _Le coût et le délai nous ont empêché de répondre à la demande de newsletter mensuelle, mais nous avons essayé de vous proposer un sac mélangé en ce qui concerne les articles._
 
-_L'existence de la Bibliothèque de la Fraternité des Hommes a été rapportée dans le numéro de ***mars/avril 1989*** :_
+_L'existence de la Bibliothèque de la Fraternité des Hommes a été rapportée dans le numéro de ***mars/avril 1989*** :_
 
-« Une branche de la Bibliothèque de la Fraternité des Hommes est désormais fonctionnelle en Australie. Le but de la bibliothèque est d'agir comme une archive pour le matériel pertinent au _Le Livre d'URANTIA_ et de mettre ce matériel à la disposition des lecteurs. Une grande partie du matériel est stockée sur disque informatique qui est accessible directement par téléphone et modem à ceux qui possèdent un ordinateur personnel. L’impression du matériel est disponible sur demande. On espère avoir des succursales dans chaque capitale pour améliorer l'accessibilité. Hackers volontaires bienvenus ! »
+« Une branche de la Bibliothèque de la Fraternité des Hommes est désormais fonctionnelle en Australie. Le but de la bibliothèque est d'agir comme une archive pour le matériel pertinent au _Le Livre d'URANTIA_ et de mettre ce matériel à la disposition des lecteurs. Une grande partie du matériel est stockée sur disque informatique qui est accessible directement par téléphone et modem à ceux qui possèdent un ordinateur personnel. L’impression du matériel est disponible sur demande. On espère avoir des succursales dans chaque capitale pour améliorer l'accessibilité. Hackers volontaires bienvenus ! »
 
 « La recherche informatique du _Le Livre URANTIA_ est également disponible sur demande. Une bibliothèque de prêt gère des livres, des cassettes et des vidéos. Actuellement Ken Glasziou, Joe Hausler et Ann Bendall sont bibliothécaires bénévoles.
 
@@ -165,7 +165,7 @@ _Nos effectifs sont passés de 66 en 1981 à 168 en 1985. Lorsque les abonnement
 > 
 > [Réimprimé du bulletin d'information Six-0-Six juillet/août 1986](/fr/article/606/Vol7_6)
 > 
-> Jouez au seul et unique jeu de société Sooper Dooper ASCENSION CAREER :
+> Jouez au seul et unique jeu de société Sooper Dooper ASCENSION CAREER :
 > 
 > C'est un jeu de questions-réponses. Les joueurs commencent tous ici sur Urantia et chaque question à laquelle ils répondent avec succès les déplace d' une case à la fois autour du plateau ... culminant avec le statut de Finalitaire et l' âge adulte spirituel à la case 80 .
 > 
@@ -192,19 +192,19 @@ _En ***février 1982*** l'éditorial mentionnait que les traductions de livres p
 
 _Nous avons eu le plaisir d'annoncer en ***mars 1982*** que_ Le Livre d'URANTIA _avait rejoint la liste des best-sellers ! Le septième tirage de quelque 23 000 exemplaires a été achevé en août 1981. Cela a porté le nombre total d'exemplaires imprimés (en anglais) à 135 000. Le septième tirage a été mis en vente en novembre 1981 lorsque les stocks du sixième tirage ont été épuisés._
 
-_À la fin de 1981, les ventes avaient dépassé 112 000 unités au total. Et avec la demande croissante pour le livre, les ventes pour cette année-là devraient augmenter de 10 % par rapport à l'année précédente._
+_À la fin de 1981, les ventes avaient dépassé 112 000 unités au total. Et avec la demande croissante pour le livre, les ventes pour cette année-là devraient augmenter de 10 % par rapport à l'année précédente._
 
 _Des ventes croissantes sur une période de 26 ans font du Livre d'URANTIA _un best-seller confirmé._
 
 ***Octobre 1982*** _c'était le numéro dans lequel nous rapportions que la Fondation URANTIA était heureuse d'annoncer que la traduction française du_ Livre d'URANTIA _était à nouveau disponible. Il s'intitulait désormais « Le Livre d'URANTIA ». La Fondation a également conseillé de nouvelles directives pour citer le livre._
 
-_Une réalisation historique a été rapportée dans notre numéro de ***février 1986*** :_
+_Une réalisation historique a été rapportée dans notre numéro de ***février 1986*** :_
 
 « Le 12 octobre dernier a vu la réalisation d'une étape importante - le 30ème anniversaire de la première publication en 1955 du _Livre d'URANTIA_. D'ici la fin de cette année, plus de 143 000 exemplaires de la version originale anglaise auront été vendus et distribués. Les chiffres de la traduction française, Le Livre d'URANTIA, atteindront un total de près de 17 000 exemplaires, portant le total général à environ 160 000 livres.
 
 « Pour l'année en cours, le total cumulé sera d'environ 10 000 exemplaires, un peu plus de 8 000 pour la version anglaise et un peu moins de 2 000 pour la version française. »
 
-_La traduction finlandaise progressait bien, nous en avons fait état dans notre numéro de ***septembre/octobre 1988*** :_
+_La traduction finlandaise progressait bien, nous en avons fait état dans notre numéro de ***septembre/octobre 1988*** :_
 
 « La traduction finlandaise en est à sa troisième ébauche. Les Finlandais financent la traduction depuis plus de 20 ans. La Fondation espère désormais financer l'impression une fois la traduction terminée. La traduction espagnole continue de progresser, bien qu’à un rythme plus lent que prévu... »
 
@@ -220,7 +220,7 @@ _Nous sommes impatients de vous présenter de nombreux autres rapports à l'aven
 
 _L'un des premiers à présenter aux gens_ Le Livre d'URANTIA _en Australie fut Fred Robinson. En ***avril 1986***, Steve Shanahan, qui connaissait personnellement Fred, a écrit l'article suivant._
 
-**Temps de réflexion : Fred**
+**Temps de réflexion : Fred**
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-left" alt="Fred">
 <img src="/image/article/606/fred.jpg">
@@ -328,7 +328,7 @@ _Le numéro de ***septembre 1980*** informait les lecteurs qu'un groupe à Helsi
 
 _Cet article annonçait également que la version française était à nouveau en cours et que des dispositions étaient en cours pour une traduction espagnole._
 
-_Dans le numéro de ***mars 1986***, une réunion internationale a été annoncée :_
+_Dans le numéro de ***mars 1986***, une réunion internationale a été annoncée :_
 
 _« Rencontre Internationale De Lecteurs Du Livre D'Grantia En France du 3 au 11 Aout 1986. »_
 
@@ -336,7 +336,7 @@ _Cette annonce d'une rencontre internationale pour les lecteurs du Livre d'Urant
 
 > « _Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n’est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. »_ » ([LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
 
-_Dans le numéro de ***septembre/octobre 1986*** nous annoncions :_
+_Dans le numéro de ***septembre/octobre 1986*** nous annoncions :_
 
 « La Fondation Urantia a annoncé la conclusion des négociations pour commencer à traduire _Le Livre d'URANTIA_ en espagnol. Les travaux devraient être achevés dans 14 mois à compter du début. La composition et la production d'un livre à partir de la traduction terminée nécessiteront un certain temps supplémentaire. Le personnel de la Fondation a commencé à planifier les détails de l'opération, qui impliquera le soutien de lecteurs dévoués en Espagne, à Bogota et aux États-Unis.
 
@@ -391,7 +391,7 @@ _Curt Avery, de Savannah, Géorgie, États-Unis, nous a donné une perspective i
 
 N'ATTENDEZ PAS LE FILM !!!
 
-Faites-vous partie des millions de chercheurs qui exigent une réponse à la question : pourquoi ? Êtes-vous perplexe face à ce casse-tête déroutant et insaisissable qu’est la vie ? Vous retrouvez-vous à collectionner des volumes de livres qui promettent des réponses et ne livrent que des conjectures brumeuses ? Alors ce message est pour vous, le volume unique, relié dans un beau bleu, _Le Livre d'URANTIA_.
+Faites-vous partie des millions de chercheurs qui exigent une réponse à la question : pourquoi ? Êtes-vous perplexe face à ce casse-tête déroutant et insaisissable qu’est la vie ? Vous retrouvez-vous à collectionner des volumes de livres qui promettent des réponses et ne livrent que des conjectures brumeuses ? Alors ce message est pour vous, le volume unique, relié dans un beau bleu, _Le Livre d'URANTIA_.
 
 Regorgeant d'aventures cosmiques, de mystère, d'intrigues, de rébellion, de trahison, de romance et de conflits entre de puissants protagonistes qui s'affrontent dans les cieux. Tout est ici dans _Le Livre d'URANTIA_.
 
@@ -416,11 +416,11 @@ _Les groupes d'études en Australie existaient avant février 1980, mois au cour
 
 _Tom Reynolds, qui est considéré comme l'un des premiers lecteurs du Livre d'URANTIA en Australie, avec Fred Robinson, organisait depuis plusieurs années des groupes d'étude mettant l'accent sur le développement personnel._
 
-_Je l'ai rejoint en avril 1980, environ six mois après avoir découvert _Le Livre d'URANTIA_ moi-même, par l'intermédiaire d'un des membres du groupe de Tom. Je suis resté avec ce groupe qui se réunissait chaque semaine le mardi soir, pendant environ cinq ans. Nous discutions de choses telles que « Qu'est-ce que je suis », « Qui suis-je » et « Pourquoi suis-je ». Tom, qui avait été professeur de yoga, a lu divers livres. Emmet Fox était l'un de ses favoris. Je me souviens aussi d'un petit livre intitulé « Pourquoi j'ai peur de vous dire qui je suis » de John Powell, et parfois nous prenions des lectures du _Livre d'URANTIA_._
+_Je l'ai rejoint en avril 1980, environ six mois après avoir découvert _Le Livre d'URANTIA_ moi-même, par l'intermédiaire d'un des membres du groupe de Tom. Je suis resté avec ce groupe qui se réunissait chaque semaine le mardi soir, pendant environ cinq ans. Nous discutions de choses telles que « Qu'est-ce que je suis », « Qui suis-je » et « Pourquoi suis-je ». Tom, qui avait été professeur de yoga, a lu divers livres. Emmet Fox était l'un de ses favoris. Je me souviens aussi d'un petit livre intitulé « Pourquoi j'ai peur de vous dire qui je suis » de John Powell, et parfois nous prenions des lectures du _Livre d'URANTIA_._
 
 _Au cours de ces cinq années, j'ai vu beaucoup de gens aller et venir. Certains sont venus par pure curiosité, répondant à une annonce que Tom mettrait dans certains journaux locaux._
 
-_Depuis ces jours-là, j'ai appris quelques choses sur les groupes d'étude ; qu'il faut être très flexible, patient et tolérant pour que cela fonctionne ; que chaque groupe d'étude est différent et que la plupart ont des problèmes de jeunesse ; que se réunir au même endroit et à la même heure chaque semaine, quinzaine ou mois apporte une certaine stabilité ; ne pas abandonner si les chiffres sont temporairement en baisse ; que c'est la qualité et non la quantité qui compte ; et le plus important de tout cela, après un certain temps, vous devenez comme une famille._
+_Depuis ces jours-là, j'ai appris quelques choses sur les groupes d'étude ; qu'il faut être très flexible, patient et tolérant pour que cela fonctionne ; que chaque groupe d'étude est différent et que la plupart ont des problèmes de jeunesse ; que se réunir au même endroit et à la même heure chaque semaine, quinzaine ou mois apporte une certaine stabilité ; ne pas abandonner si les chiffres sont temporairement en baisse ; que c'est la qualité et non la quantité qui compte ; et le plus important de tout cela, après un certain temps, vous devenez comme une famille._
 
 _En guise de contribution à ce numéro du dixième anniversaire, je voudrais vous présenter quelques extraits des dix dernières années de Six-O-Six sur le thème des groupes d'étude._
 
@@ -434,7 +434,7 @@ _Dans le numéro de ***février 1983***, ce même groupe de Sydney a annoncé so
 
 _LE BESOIN DE GROUPES D'ÉTUDE_
 
-_Dans le numéro de mars 1985***, Kathleen s'est encore une fois exprimée sur « la nécessité de groupes d'étude ». Cet article a dû m'impressionner personnellement car deux mois après sa publication, j'ai organisé notre premier groupe d'étude à Glen Waverley, tout comme Neil Francey une nouvelle fois à Brighton. Dans son article, Kathleen a fait référence à d'autres articles, un de Martin Meyers et un de Julia Fenderson._
+_Dans le numéro de mars 1985***, Kathleen s'est encore une fois exprimée sur « la nécessité de groupes d'étude ». Cet article a dû m'impressionner personnellement car deux mois après sa publication, j'ai organisé notre premier groupe d'étude à Glen Waverley, tout comme Neil Francey une nouvelle fois à Brighton. Dans son article, Kathleen a fait référence à d'autres articles, un de Martin Meyers et un de Julia Fenderson._
 
 On a dit aux premiers membres du mouvement Urantia que « le Livre » était donné à ceux qui sont prêts à le recevoir bien avant sa mission mondiale. Entre-temps, des milliers de groupes d'études doivent être créés. Ainsi, le Livre sera prêt à réconforter et à éclairer les peuples du monde lorsque la bataille pour la liberté de l'homme sera finalement gagnée et que le monde sera à nouveau sécurisé pour la religion de Jésus et la liberté de l'humanité..." Les groupes d'étude , en raison de leur petite taille et de leur intimité personnelle, semblent avoir le réel potentiel de se développer en groupes religieux. Lorsque cela commence à se produire à grande échelle, la mission du _Le Livre d'URANTIA_ d'apporter l'évangile de la Paternité de Dieu et de la Fraternité de l'Homme au monde sera assuré. Tant que les vérités du Livre d'URANTIA resteront imprimées sur une page, la tâche de révélation du livre ne réussira pas. Il suffit de mobiliser ces vérités par l'exemple vivant dans la vie d'hommes et de femmes connaissant Dieu. c'est grâce à un effort et un service loyaux et sincères que la révélation trouvera sa pleine expression.
 
@@ -448,7 +448,7 @@ Nous ne pouvons pas forcer les groupes d'étude, mais nous pouvons aider à orga
 
 **Julia Fenderson**
 
-_Kathleen a terminé son article en disant :_
+_Kathleen a terminé son article en disant :_
 
 « ...Nous avons besoin de plus de groupes d'étude... Je crois que la révélation veut que nous créions de petits centres puissants de croyants spirituels dynamiques à travers le monde pour agir comme un sol fertile pour préparer l'avenir... »
 
@@ -490,7 +490,7 @@ _Dans le numéro de ***mai 1986***, Geoff Harper a rapporté la formation d'un g
 
 _En août de la même année, j'ai rendu visite à Geoff lors de vacances en famille. Il rapporta alors qu'il étudiait seul._
 
-_En ***novembre/décembre 1986***, j'ai écrit une courte histoire sur ces vacances en famille, que nous avons passées à voyager à travers le Queensland et à faire appel à autant de lecteurs du Livre d'URANTIA que mon très patient mari était prêt à les supporter. Je l'ai appelé : « Dites bonjour à un camarade urantien ». Mon impression générale était que les habitants du Queensland se sentaient plutôt isolés._
+_En ***novembre/décembre 1986***, j'ai écrit une courte histoire sur ces vacances en famille, que nous avons passées à voyager à travers le Queensland et à faire appel à autant de lecteurs du Livre d'URANTIA que mon très patient mari était prêt à les supporter. Je l'ai appelé : « Dites bonjour à un camarade urantien ». Mon impression générale était que les habitants du Queensland se sentaient plutôt isolés._
 
 
 ### Réimprimé du bulletin d'information Six-O-Six de novembre/décembre 1986
@@ -509,7 +509,7 @@ _Et depuis NOOSA '89, un autre groupe a démarré dans le Queensland, notamment 
 
 _LA CONTROVERSE SUR L'IDENTITÉ DU GROUPE D'ÉTUDE_
 
-_En ***février 1985***, William Wentworth, dans une conférence intitulée « Into the 21st Century », a dit ceci à propos des groupes d'étude dans l'article suivant._
+_En ***février 1985***, William Wentworth, dans une conférence intitulée « Into the 21st Century », a dit ceci à propos des groupes d'étude dans l'article suivant._
 
 Les groupes d’étude vont être essentiels si l’on veut comprendre la Révélation. Toutefois, les groupes d’étude pourraient bien être confrontés à une crise d’identité. Il existe une tendance parmi les membres de certains groupes d'étude à considérer le groupe comme un centre spirituel doté d'une autorité spirituelle pour prêcher leur interprétation de l'Apocalypse. Cette attitude tend vers le « culte », le développement de dogmes, de croyances et de rituels. Il est probablement préférable que les groupes d'étude restent simplement un groupe pour étudier le _Livre d'URANTIA_. De cette façon, les avantages du groupe sont préservés, les membres du groupe s'entraident dans leur compréhension du livre et apprennent en même temps à se connaître. Les inconvénients de l’autoritarisme et du sectarisme sont évités. De plus, les gens seront moins tentés d’adopter le rôle d’évangélistes spécialisés. Au contraire, ils continueront à exercer leurs professions et occupations mondaines et éviteront ainsi ces départs vers l’irréalité si courants parmi ceux qui sont obsédés par une « mission spirituelle ».
 
@@ -517,13 +517,13 @@ Les groupes d’étude vont être essentiels si l’on veut comprendre la Révé
 
 ### Réimprimé du bulletin Six-O-Six de mars 1985
 
-_Cela a suscité une réponse de la part de Stephen Carthew, qui s'est signé comme « Principal de la Fraternité Universelle (culte) ». En ***mars 1985*** Stephen a écrit l'article suivant._
+_Cela a suscité une réponse de la part de Stephen Carthew, qui s'est signé comme « Principal de la Fraternité Universelle (culte) ». En ***mars 1985*** Stephen a écrit l'article suivant._
 
 Il me semble qu'il existe de nombreuses professions mondaines qui sont déjà des départs vers l'irréalité. Ce que le monde considère comme sain d’esprit n’est pas nécessairement sain d’esprit. Même s'il est vital de contrôler notre enthousiasme, nous devons aussi nous rappeler que Jésus a été
 
 > « _consacré sans réserve « aux affaires du Père ». Cet enthousiasme divin amenait ses frères non spirituels à croire qu’il n’avait plus tout son bon sens, mais l’univers qui l’observait l’appréciait comme l’idéal de la santé mentale et le modèle de la suprême dévotion du mortel aux critères élevés de la vie spirituelle._ » ([LU 100:7.12](/fr/The_Urantia_Book/100#p7_12))
 
-Fred Robinson, le fondateur de la Fraternité Universelle en Australie occidentale, a importé la première boîte de Livres d'URANTIA dans ce pays et a organisé les premiers cours d'étude. Les fruits de son travail résident davantage dans la démonstration d'un mode de vie que dans la reconnaissance intellectuelle du _Livre d'URANTIA_. Pour certains, notre centre spirituel pourrait être considéré comme un « départ vers l’irréalité » ; pour d’autres, l’expression d’une « plus grande réalité » (pas que je pense que Will faisait référence à nous). « Étudier » et continuer comme d'habitude, sur le plan professionnel, peut être acceptable pour certains, voire pour la plupart, mais cela ne suffira pas à ceux qui ressentent l'appel intérieur d'une « mission spirituelle ». Je suggérerais aux lecteurs d'être lents à porter un jugement suffisant sur ceux qui sont appelés par l'Esprit à faire quelque chose qui ne correspond pas à la tendance générale des groupes d'étude.
+Fred Robinson, le fondateur de la Fraternité Universelle en Australie occidentale, a importé la première boîte de Livres d'URANTIA dans ce pays et a organisé les premiers cours d'étude. Les fruits de son travail résident davantage dans la démonstration d'un mode de vie que dans la reconnaissance intellectuelle du _Livre d'URANTIA_. Pour certains, notre centre spirituel pourrait être considéré comme un « départ vers l’irréalité » ; pour d’autres, l’expression d’une « plus grande réalité » (pas que je pense que Will faisait référence à nous). « Étudier » et continuer comme d'habitude, sur le plan professionnel, peut être acceptable pour certains, voire pour la plupart, mais cela ne suffira pas à ceux qui ressentent l'appel intérieur d'une « mission spirituelle ». Je suggérerais aux lecteurs d'être lents à porter un jugement suffisant sur ceux qui sont appelés par l'Esprit à faire quelque chose qui ne correspond pas à la tendance générale des groupes d'étude.
 
 Oui, Will, « cherchez d'abord le royaume des cieux », mais dans cette recherche, ne soyez pas surpris si un « culte » s'ajoute à vous, car
 
@@ -535,7 +535,7 @@ C'est une super rubrique !
 
 ### Réimprimé du bulletin Six-O-Six de mai 1985
 
-_Cela a toujours été la philosophie de Six-O-Six d'encourager l'échange sain de différents points de vue et nous espérons ne démontrer ni crainte ni faveur dans l'inclusion d'un article, que nous soyons d'accord ou non. Notre objectif est de stimuler le débat plutôt que de tirer des conclusions. Il s'est avéré que William a répondu à la lettre de Stephen que nous avons publiée dans notre édition Mav 1985. Il se nourrit de controverses de temps en temps. Je me souviens de lui comme du seul lecteur à avoir rempli son formulaire d'enquête à la recherche de controverse !_
+_Cela a toujours été la philosophie de Six-O-Six d'encourager l'échange sain de différents points de vue et nous espérons ne démontrer ni crainte ni faveur dans l'inclusion d'un article, que nous soyons d'accord ou non. Notre objectif est de stimuler le débat plutôt que de tirer des conclusions. Il s'est avéré que William a répondu à la lettre de Stephen que nous avons publiée dans notre édition Mav 1985. Il se nourrit de controverses de temps en temps. Je me souviens de lui comme du seul lecteur à avoir rempli son formulaire d'enquête à la recherche de controverse !_
 
 Je suis désolé que ma vision des sectes offense les gens. Je n'avais pas réalisé que Stephen Carthew considérait sa Confrérie comme une secte, et mes remarques ne devaient pas s'adresser à une secte en particulier. Cependant, comme mes opinions demeurent, je ne peux que m'excuser par avance pour l'offense qu'elles causent. Je ne suis pas au courant que les étudiants du _Livre d'URANTIA_ soient considérés comme une secte. Ils ne se considèrent certainement pas de cette façon. Nous étudions le livre et c'est pour cette raison que nous organisons des groupes d'étude pour nous entraider dans la compréhension de ses enseignements.
 
@@ -595,7 +595,7 @@ _Au cours de ces cinq années, j'ai probablement essayé davantage d'être un co
 
 « Alors, s’il vous plaît, rappelons-nous que la vérité vivante n’est jamais statique. Pour chacun de nous, c'est un processus de croissance, et la vérité de l'un peut être la demi-vérité de l'autre... »
 
-« ... Et si l'un d'entre nous ressent encore le besoin de diriger, qu'il s'efforce d'impliquer et de mobiliser les talents des autres, plutôt que de prendre le contrôle, comme l'a si souvent fait le leadership dans le passé. »
+« ... Et si l'un d'entre nous ressent encore le besoin de diriger, qu'il s'efforce d'impliquer et de mobiliser les talents des autres, plutôt que de prendre le contrôle, comme l'a si souvent fait le leadership dans le passé. »
 
 ### Réimprimé du bulletin Six-O-Six de juillet 1985
 
@@ -611,11 +611,11 @@ Le leader mûr connaît ce danger et sait que la vérité, la foi et les autres 
 
 ---
 
-_En septembre 1985, Tom et Pam Reynolds ont organisé un nouveau groupe d'étude à Tatura (nord de Victoria) et l'année dernière, Tom a formé un groupe pour les plus de cinquante ans à l'Université Monash de Melbourne. Vous ne pouvez pas retenir un bon leader !_
+_En septembre 1985, Tom et Pam Reynolds ont organisé un nouveau groupe d'étude à Tatura (nord de Victoria) et l'année dernière, Tom a formé un groupe pour les plus de cinquante ans à l'Université Monash de Melbourne. Vous ne pouvez pas retenir un bon leader !_
 
 <figure id="Figure_8" class="image urantiapedia" alt="on route">
 <img src="/image/article/606/on_route.jpg">
-<figcaption>Comment Wolfgang Borutta a vu Tom et Pam partir en brousse ! (juillet 1986)</figcaption>
+<figcaption>Comment Wolfgang Borutta a vu Tom et Pam partir en brousse ! (juillet 1986)</figcaption>
 </figure>
 
 _Henry Begemann des Pays-Bas, qui a participé activement à la traduction néerlandaise du livre pendant de nombreuses années et a dirigé de nombreux groupes d'étude, a écrit pour nous dans le numéro de ***janvier/février 1987***._
@@ -634,7 +634,7 @@ N’oubliez jamais que ce n’est pas la quantité qui compte, mais la qualité,
 
 Une difficulté réside dans le point de leadership. Notre livre dit que l’avenir d’un tel groupe dépend en grande partie de son leadership. C’est ce qui manque en grande partie au mouvement URANTIA. Quelqu’un qui désire être un leader n’est souvent pas un bon leader.
 
-Un leader est quelqu'un qui essaie de vaincre son ego et de servir :
+Un leader est quelqu'un qui essaie de vaincre son ego et de servir :
 
 **Henry Begemann**
 **Les Pays-Bas**
@@ -663,7 +663,7 @@ _C.U.B.S. ont exprimé pour la première fois en avril 1984 leur mécontentement
 
 _Six-O-Six s'internationalise en ***avril 1985*** et accueille pour la première fois des lecteurs de Nouvelle-Zélande, d'Afrique du Sud et de Tahiti. Depuis cette date, le lectorat étranger n'a cessé de croître et nous comptons désormais sur notre liste de diffusion des lecteurs de treize pays différents. Le même numéro mentionnait un couple de la province du Cap en Afrique du Sud. Ils ont signalé très peu d’intérêt pour le Livre dans ce pays._
 
-_En ***septembre/octobre 1987*** William Wentworth, dans son rapport sur la Conférence Générale de la Fraternité URANTIA, a mentionné :_
+_En ***septembre/octobre 1987*** William Wentworth, dans son rapport sur la Conférence Générale de la Fraternité URANTIA, a mentionné :_
 
 « C'était particulièrement intéressant de discuter avec le seul Sud-Africain, un homme d'affaires de Durban... »
 
@@ -804,11 +804,11 @@ _Cependant, quoi qu'il arrive, nos groupes d'étude grandissent lentement mais r
 
 _Six-O-Six croit en un sens de l'humour sain et nous vous proposons de temps en temps un régime plus léger._
 
-_En ***juin 1986***, un dessin animé avec des extraterrestres étranges est apparu et une nouvelle avec le titre Conférence interplanétaire 2086 ?" :_
+_En ***juin 1986***, un dessin animé avec des extraterrestres étranges est apparu et une nouvelle avec le titre Conférence interplanétaire 2086 ?" :_
 
 « Cette impression a été transmise à Six-O-Six via les circuits mentaux d'un jeune artiste de Melbourne, Fil Barlow. »
 
-« Depuis l'âge de 14 ans, Fil a créé son propre univers avec différentes créatures intelligentes différentes de la nôtre. Il a appelé cela son « Zoouniverse ».
+« Depuis l'âge de 14 ans, Fil a créé son propre univers avec différentes créatures intelligentes différentes de la nôtre. Il a appelé cela son « Zoouniverse ».
 
 « Fil pensait que son imagination avait créé un cosmos assez vaste, jusqu'à ce qu'il tombe sur _Le Livre d'URANTIA_. Après qu'un ami en ait acheté un pour $\$ 5$ dans une librairie d'occasion et que Fil ait commencé à le lire, il s'est senti complètement dépassé. La réalité était encore plus grande que ce que ses rêves les plus fous auraient pu imaginer. Fil a maintenant rejoint les rangs des lecteurs enthousiastes de Melbourne et se demande si quelqu'un aimerait venir l'aider dans son étude du livre... "
 
@@ -871,11 +871,11 @@ _SYDNEY, 19-20 OCTOBRE 1985_
 <img src="/image/article/606/conf3.jpg">
 </figure>
 
-Tenue à l'école de Narrabeen, le thème de cette conférence était « Le groupe d'étude et sa sensibilisation ». De nombreux nouveaux visages sont apparus, certains du Queensland, d'autres des États-Unis. Une attention particulière a été accordée à la distribution des livres et au placement dans les bibliothèques.
+Tenue à l'école de Narrabeen, le thème de cette conférence était « Le groupe d'étude et sa sensibilisation ». De nombreux nouveaux visages sont apparus, certains du Queensland, d'autres des États-Unis. Une attention particulière a été accordée à la distribution des livres et au placement dans les bibliothèques.
 
 _MELBOURNE, 7-8 JUIN 1986_
 
-Le thème de la conférence était « La tapisserie du service aimant » et la présentation de Madeline Noordzy est restée dans les mémoires aujourd'hui. La conférence a été rehaussée par la présence de John Hales, Berkeley Elliott et Tom Allen des États-Unis qui ont pu nous apporter une aide et des encouragements considérables. Il s'agissait de la conférence la plus grande et la plus diversifiée organisée jusqu'à présent et comprenait des lecteurs d'Australie occidentale et de Tasmanie ainsi que du Queensland, de la Nouvelle-Galles du Sud et de Victoria.
+Le thème de la conférence était « La tapisserie du service aimant » et la présentation de Madeline Noordzy est restée dans les mémoires aujourd'hui. La conférence a été rehaussée par la présence de John Hales, Berkeley Elliott et Tom Allen des États-Unis qui ont pu nous apporter une aide et des encouragements considérables. Il s'agissait de la conférence la plus grande et la plus diversifiée organisée jusqu'à présent et comprenait des lecteurs d'Australie occidentale et de Tasmanie ainsi que du Queensland, de la Nouvelle-Galles du Sud et de Victoria.
 
 <figure id="Figure_17" class="image urantiapedia" alt="conference">
 <img src="/image/article/606/conf4.jpg">
@@ -903,7 +903,7 @@ La conférence a connu un succès retentissant et a représenté une étape maje
 
 _NOOSA, QUEENSLAND, 5-8 OCTOBRE 1989_
 
-Organisée par le Sunshine Coast Study Group sous la coordination d'Anne Bendall, il s'agissait d'une autre conférence en direct qui s'est tenue à Halse Lodge, en plein cœur de Noosa. Les habitants du Queensland nous ont vraiment rendus fiers, y compris une excursion en bateau sur la rivière Noosa dans le cadre du programme, et l'atmosphère tropicale nous a permis de rester détendus et décontractés. Une expérience avec un atelier d'une journée entière appelé « Le chaînon manquant » a abordé le problème de la mesure de notre implication dans la vérité et de notre droiture à partir de [LU 155:2.1](/fr/The_Urantia_Book/155#p2_1) du _Le Livre d'URANTIA_, et nous a donné beaucoup de matière à réflexion.
+Organisée par le Sunshine Coast Study Group sous la coordination d'Anne Bendall, il s'agissait d'une autre conférence en direct qui s'est tenue à Halse Lodge, en plein cœur de Noosa. Les habitants du Queensland nous ont vraiment rendus fiers, y compris une excursion en bateau sur la rivière Noosa dans le cadre du programme, et l'atmosphère tropicale nous a permis de rester détendus et décontractés. Une expérience avec un atelier d'une journée entière appelé « Le chaînon manquant » a abordé le problème de la mesure de notre implication dans la vérité et de notre droiture à partir de [LU 155:2.1](/fr/The_Urantia_Book/155#p2_1) du _Le Livre d'URANTIA_, et nous a donné beaucoup de matière à réflexion.
 
 Nous avons eu la chance d'avoir la présence de Richard Keeler, administrateur de la Fondation, qui a largement contribué à la conférence et a dirigé nos joyeuses séances de chants pendant les soirées. Un moment merveilleux a été passé par tous.
 
@@ -925,7 +925,7 @@ _Six-0-Six a été informé par la Fondation URANTIA de certaines exigences en m
 
 _FÉVRIER 1981_
 
-_Dans une critique de 1980, la phrase suivante a attiré notre attention :_
+_Dans une critique de 1980, la phrase suivante a attiré notre attention :_
 
 _« Les visiteurs de la Fondation venaient du Canada, de Colombie, du Danemark, de Finlande, de France, de Grèce, d'Italie, du Japon, des Pays-Bas, d'Arabie Saoudite et de Tahiti. L’Australie est une omission notable. »_
 
@@ -933,7 +933,7 @@ _Nous pensons que le problème a été rectifié depuis._
 
 _MAI 1982_
 
-_Thomas Kendall, alors Président de la Fondation URANTIA, a écrit dans un article sur le droit d'auteur :_
+_Thomas Kendall, alors Président de la Fondation URANTIA, a écrit dans un article sur le droit d'auteur :_
 
 _« La protection des droits d'auteur et des marques est vitale pour la diffusion future de la révélation. Prendre des mesures à l’avance pour éduquer nos semblables et prévenir les problèmes renforce nos droits et, en fin de compte, profite à tous »._
 
@@ -941,7 +941,7 @@ _AOÛT 1985_
 
 _Six-O-Six a publié une lettre de la Fondation URANTIA contenant quelques nouvelles et des commentaires de Phil Rolnick de San Francisco._
 
-« Lecteurs de Six-O-Six »
+« Lecteurs de Six-O-Six »
 
 « La Fondation URANTIA compte maintenant deux nouveaux membres, Gloriann Harris et Helena Sprague. Ils nous serviront bien dans leurs postes. Je suis convaincu que la Fondation peut devenir encore plus réactive face à ses responsabilités croissantes avec son équipe actuelle et d'éventuels ajouts futurs.
 
@@ -949,7 +949,7 @@ _Six-O-Six a publié une lettre de la Fondation URANTIA contenant quelques nouve
 
 « Le nouveau président de la Fraternité URANTIA est Dave Elders du Connecticut. Frank Sgaraglino est vice-président et John Hales reste secrétaire général. De nombreux nouveaux noms ont été élus au Comité exécutif, qui est actuellement le bras le plus important de la Confrérie officielle.
 
-« Mes salutations chaleureuses à tous lors de la prochaine conférence. »
+« Mes salutations chaleureuses à tous lors de la prochaine conférence. »
 
 « Phil Rolnick, San Francisco »
 
@@ -975,13 +975,13 @@ _Ken Glasziou a joué un rôle majeur dans le domaine des preuves scientifiques.
 
 _Depuis, Ken a assisté au Symposium Scientifique à Nashville, Tennessee, du 13 au 15 mai 1988 et a eu la chance de se faire de nouveaux amis parmi un groupe de scientifiques intéressés._
 
-_Lors de la réunion régionale du Pacifique Sud, il a fait une présentation qui était un résumé de son travail et de celui d'autres scientifiques. Dans le numéro de novembre/décembre 1988, un résumé détaillé a été publié. Dans cet article, Ken a expliqué que :_
+_Lors de la réunion régionale du Pacifique Sud, il a fait une présentation qui était un résumé de son travail et de celui d'autres scientifiques. Dans le numéro de novembre/décembre 1988, un résumé détaillé a été publié. Dans cet article, Ken a expliqué que :_
 
 « …Il existe de nombreux éléments de nature scientifique ou historique au sujet desquels des déclarations définitives sont faites dans _Le Livre d'URANTIA_, et dont l'humanité n'avait aucune connaissance certaine pendant la période de pré-publication. Beaucoup de ces éléments se sont depuis révélés soit corrects, soit coïncidant désormais avec l’opinion scientifique actuelle… »
 
 _Il a couvert des preuves sur des jours et des dates spécifiques mentionnés, des références à l'étoile de Bethléem, la physique des particules, la dérive des continents, la formation de montagnes, la stabilité des éléments, les atmosphères planétaires, le mouvement de la lune, les explosions de supernova, l'existence d'étoiles récemment « découvertes », quoi. fait briller les étoiles, l'âge du système solaire, les trous noirs et les étoiles à neutrons, les dinosaures, les découvertes de fossiles confirmant les prédictions des livres et le moment de la traversée de l'homme rouge de l'Asie à l'Amérique._
 
-_Ken a également rédigé un catalogue complet d'articles scientifiques disponibles via la bibliothèque de la Fraternité de l'Homme, et ceux-ci sont disponibles auprès de Ken en écrivant à :_
+_Ken a également rédigé un catalogue complet d'articles scientifiques disponibles via la bibliothèque de la Fraternité de l'Homme, et ceux-ci sont disponibles auprès de Ken en écrivant à :_
 
 Ken Glasziou
 Chemin de la rivière Stanley
@@ -989,7 +989,7 @@ Maleny Queensland. 4552
 
 _Des lecteurs autres que Ken s'intéressent également à ce sujet et dans le numéro de juillet 1983, nous avons publié un article de Stefan Zallquist, chercheur au laboratoire radio du Collège technique d'Helsinki, en Finlande. Chris Moseley a traduit l'article initialement publié dans « Helsingin Sanomat ». L'article de Stefan disait que_ Le Livre d'URANTIA _fournissait une masse d'informations sur la recherche spatiale, la physique nucléaire et la physique dont personne n'aurait pu connaître l'existence à cette époque (1934). A titre d'exemple, il a cité l'affirmation du livre selon laquelle la température dans l'espace lointain est légèrement supérieure au zéro absolu, un fait prouvé seulement par des mesures dans les années 1960. Le livre suppose l'existence de neutrinos (minuscules particules neutres) qui ont été rencontrés pour la première fois en 1956. Le livre contient une magnifique description des « corps sombres de gravité » sur lesquels la science n'est devenue claire qu'au cours des dix dernières années._
 
-_La date de la crucifixion de Michael a fait l'objet d'un examen minutieux dans un article publié dans le numéro de mars/avril 1987. Il a à son tour fait état d'un article rédigé par Humphreys et Waddington de l'Université d'Oxford. Deux dates possibles ont été sélectionnées comme les plus probables, le 7 avril 30 après J.-C. et le 3 avril 33 après J.-C.. Les Dons d'Oxford ont opté pour la date la plus tardive, sur la base d'une référence biblique dans Actes 2 : 20 « le soleil se transformera en ténèbres. , et la lune au sang », une référence à une éclipse dont ils ont calculé qu'elle s'était produite le 3 avril 33 après JC. Les Médians nous disent que la date était la première. Avaient-ils tort ? Des preuves plus récentes soutiennent les médians. En utilisant des mesures plus précises, il semble que cette éclipse n'aurait pas pu être vue depuis Jérusalem, et certainement pas dans une phase où elle aurait pu faire rougir la lune._
+_La date de la crucifixion de Michael a fait l'objet d'un examen minutieux dans un article publié dans le numéro de mars/avril 1987. Il a à son tour fait état d'un article rédigé par Humphreys et Waddington de l'Université d'Oxford. Deux dates possibles ont été sélectionnées comme les plus probables, le 7 avril 30 après J.-C. et le 3 avril 33 après J.-C.. Les Dons d'Oxford ont opté pour la date la plus tardive, sur la base d'une référence biblique dans Actes 2 : 20 « le soleil se transformera en ténèbres. , et la lune au sang », une référence à une éclipse dont ils ont calculé qu'elle s'était produite le 3 avril 33 après JC. Les Médians nous disent que la date était la première. Avaient-ils tort ? Des preuves plus récentes soutiennent les médians. En utilisant des mesures plus précises, il semble que cette éclipse n'aurait pas pu être vue depuis Jérusalem, et certainement pas dans une phase où elle aurait pu faire rougir la lune._
 
 
 
@@ -1001,11 +1001,11 @@ En 1572, un ancien professeur de Bologne nommé Ugo Buoncompagni devint pape Gr�
 
 Les tentatives de réforme ont suscité de nombreux débats, tant académiques que religieux. À un moment donné, le pape a menacé d'excommunication toute personne refusant d'accepter le nouveau calendrier. Les détails de cette réforme se trouvent dans le numéro de mai 1982 du Scientific American « The Gregorian Calendar », de G. Moyer.
 
-Dans la Partie 4 du _Le Livre d'URANTIA_, il y a de nombreuses références dans lesquelles les dates et les jours de la semaine sont répertoriés. Y a-t-il un moyen de vérifier ces dates ? Le 14 avril 2 après J.-C. était-il vraiment un vendredi comme indiqué ?
+Dans la Partie 4 du _Le Livre d'URANTIA_, il y a de nombreuses références dans lesquelles les dates et les jours de la semaine sont répertoriés. Y a-t-il un moyen de vérifier ces dates ? Le 14 avril 2 après J.-C. était-il vraiment un vendredi comme indiqué ?
 
-À l'aide des informations obtenues grâce aux « Formules astronomiques pour calculatrices » de Jean Meeus, un programme informatique a été écrit pour calculer les dates et le jour de la semaine correspondant. Le programme prend en compte la réforme du calendrier grégorien. Toutes les dates sont d'abord converties en jours juliens et les résultats sont divisés par sept pour obtenir les jours de la semaine à partir du reste. Un calendrier a ensuite été généré à partir de ces informations. Même selon les normes informatiques, c'est un processus plutôt fastidieux.
+À l'aide des informations obtenues grâce aux « Formules astronomiques pour calculatrices » de Jean Meeus, un programme informatique a été écrit pour calculer les dates et le jour de la semaine correspondant. Le programme prend en compte la réforme du calendrier grégorien. Toutes les dates sont d'abord converties en jours juliens et les résultats sont divisés par sept pour obtenir les jours de la semaine à partir du reste. Un calendrier a ensuite été généré à partir de ces informations. Même selon les normes informatiques, c'est un processus plutôt fastidieux.
 
-Les dates suivantes du _Livre d'URANTIA_ ont été utilisées pour vérifier leur exactitude :
+Les dates suivantes du _Livre d'URANTIA_ ont été utilisées pour vérifier leur exactitude :
 
 - 14 avril 2 après J.-C. - vendredi
 - 26 avril 2 après J.-C. - dimanche
@@ -1043,7 +1043,7 @@ Pour en savoir plus, consultez [Newsletter Six-0-Six septembre/octobre 1988](/fr
 
 <figure id="Figure_20" class="image urantiapedia" alt="Anton and Fanta">
 <img src="/image/article/606/anton_and_fanta.jpg">
-<figcaption>Anton et Fanta. « Et Dieu a créé de très nombreuses étoiles scintillantes. Puis Il a mis des personnes et des animaux sur certains d'entre eux. Et Il regarde et s’assure que tout ira bien. Pourquoi n'y ai-je pas pensé ! » <em>Reproduit du bulletin d'information Six-O-Six de mars 1982, écrit et dessiné par Neil Francey</em></figcaption>
+<figcaption>Anton et Fanta. « Et Dieu a créé de très nombreuses étoiles scintillantes. Puis Il a mis des personnes et des animaux sur certains d'entre eux. Et Il regarde et s’assure que tout ira bien. Pourquoi n'y ai-je pas pensé ! » <em>Reproduit du bulletin d'information Six-O-Six de mars 1982, écrit et dessiné par Neil Francey</em></figcaption>
 </figure>
 
 ## Le programme de placement en bibliothèque
@@ -1105,13 +1105,13 @@ _Le Livre d'URANTIA_ déclare que, dans la mesure du possible, les écrivains on
 
 Goethe écrivait : « L'homme le plus insignifiant peut être complet s'il travaille dans les limites de ses propres capacités, innées et acquises ; mais même les meilleurs talents peuvent être obscurcis, neutralisés et détruits faute de respecter l’exigence indispensable de symétrie.
 
-En nous tournant vers LU 100 : 7.1 du livre, nous lisons :
+En nous tournant vers LU 100 : 7.1 du livre, nous lisons :
 
 > « _Le trait exceptionnel de la personnalité du Maitre n’était pas tant sa perfection que son harmonie,_ » ([LU 100:7.1](/fr/The_Urantia_Book/100#p7_1))
 
 D'autres comparaisons se trouvent dans les travaux d'Emerson. Il écrit : « Quels sont les meilleurs jours de mémoire. Celles dans lesquelles nous avons rencontré un compagnon qui l'était vraiment. Comme elles sont douces ces heures où la journée n'était pas assez longue... comme le visage de notre ami laissait encore un peu de lumière après son départ !
 
-Une phrase parallèle dans _Le Livre d'URANTIA_ déclare :
+Une phrase parallèle dans _Le Livre d'URANTIA_ déclare :
 
 > « _...Construisez ainsi, pour vous-même et en vous-même, des musées de beauté, de bonté et de grandeur artistique. Les souvenirs les plus nobles sont les rappels chéris des grands moments d’une belle amitié._ » ([LU 160:4.12](/fr/The_Urantia_Book/160#p4_12))
 
@@ -1123,7 +1123,7 @@ _Le Livre d'URANTIA_ à la page 803 dit :
 
 **Neil Francey**
 
-_Dans le numéro d'août 1983***, Douglas Grahame demandait si l'évangélisation était un moyen souhaitable d'étendre la connaissance de l'humanité sur le royaume de Dieu, commentant que Jésus l'utilisait à la fois pour lui-même et permettait à ses disciples de l'utiliser. Même si la réponse simple était oui, l’auteur pensait qu’une préparation considérable était nécessaire avant d’entreprendre l’évangélisation. Il soutenait que les qualités étaient une totale sincérité ; un amour pour le Père et pour toute vérité ; un désir profond de faire la volonté du Père ; la foi en Dieu, en vous-même et en la race humaine ; une connaissance et une compréhension approfondies des articles URANTIA ; et enfin, une bonne compréhension de la nature humaine._
+_Dans le numéro d'août 1983***, Douglas Grahame demandait si l'évangélisation était un moyen souhaitable d'étendre la connaissance de l'humanité sur le royaume de Dieu, commentant que Jésus l'utilisait à la fois pour lui-même et permettait à ses disciples de l'utiliser. Même si la réponse simple était oui, l’auteur pensait qu’une préparation considérable était nécessaire avant d’entreprendre l’évangélisation. Il soutenait que les qualités étaient une totale sincérité ; un amour pour le Père et pour toute vérité ; un désir profond de faire la volonté du Père ; la foi en Dieu, en vous-même et en la race humaine ; une connaissance et une compréhension approfondies des articles URANTIA ; et enfin, une bonne compréhension de la nature humaine._
 
 
 
@@ -1246,7 +1246,7 @@ _Notre numéro de novembre/décembre 1987 contenait un article, écrit par David
 
 **De quelle religion es tu?**
 
-Au cours de mes 18 années d’étude du Livre d’URANTIA et d’efforts pour stimuler les autres à rechercher la vérité dans ses pages, je trouve que l’une des questions les plus fréquemment posées est « De quelle religion es-tu ? » Au début, j’étais incapable de répondre adéquatement à cette question, n’ayant jamais réfléchi sérieusement à ma propre religion. Les circonstances m'ont donc obligé à réfléchir profondément et soigneusement, car à plusieurs reprises, mon interlocuteur a été découragé par mon incapacité à fournir une déclaration claire et acceptable de ma propre foi religieuse.
+Au cours de mes 18 années d’étude du Livre d’URANTIA et d’efforts pour stimuler les autres à rechercher la vérité dans ses pages, je trouve que l’une des questions les plus fréquemment posées est « De quelle religion es-tu ? » Au début, j’étais incapable de répondre adéquatement à cette question, n’ayant jamais réfléchi sérieusement à ma propre religion. Les circonstances m'ont donc obligé à réfléchir profondément et soigneusement, car à plusieurs reprises, mon interlocuteur a été découragé par mon incapacité à fournir une déclaration claire et acceptable de ma propre foi religieuse.
 
 Pour en savoir plus, consultez [Newsletter Six-O-Six novembre/décembre 1987](/fr/article/David_Regal/What_Religion_Are_You)
 
@@ -1257,7 +1257,7 @@ _Kathleen Swadling nous a donné à tous quelques pistes de réflexion sur la ma
 
 **_Le Livre d'URANTIA_ dans 200 ans**
 
-Est-ce que nous nous arrêtons parfois pour réfléchir à la position exacte du _Livre d'URANTIA_ dans un avenir relativement pas trop lointain ? Y aura-t-il toujours une Fraternité URANTIA et y aura-t-il encore des groupes d'étude ? Deviendra-t-il une partie intégrante de la société ou sera-t-il confiné à une secte religieuse ou à une organisation de type sectaire ? Peut-être que le _Livre d'URANTIA_ occupera une place d'honneur dans les foyers moyens de notre société ; peut-être sera-t-il également utilisé comme manuel scolaire dans nos écoles.
+Est-ce que nous nous arrêtons parfois pour réfléchir à la position exacte du _Livre d'URANTIA_ dans un avenir relativement pas trop lointain ? Y aura-t-il toujours une Fraternité URANTIA et y aura-t-il encore des groupes d'étude ? Deviendra-t-il une partie intégrante de la société ou sera-t-il confiné à une secte religieuse ou à une organisation de type sectaire ? Peut-être que le _Livre d'URANTIA_ occupera une place d'honneur dans les foyers moyens de notre société ; peut-être sera-t-il également utilisé comme manuel scolaire dans nos écoles.
 
 Pour en savoir plus, consultez [Newsletter Six-O-Six janvier/février 1988](/fr/article/Kathleen_Swadling/The_Urantia_Book_In_200_Years_Time)
 
@@ -1265,13 +1265,13 @@ Pour en savoir plus, consultez [Newsletter Six-O-Six janvier/février 1988](/fr/
 
 ### Réimprimé du bulletin d'information Six-O-Six mai/juin 1988
 
-_« Faire la volonté de Dieu » était un sujet abordé par William Wentworth dans le numéro de ***mai/juin 1988*** de Six-O-Six._
+_« Faire la volonté de Dieu » était un sujet abordé par William Wentworth dans le numéro de ***mai/juin 1988*** de Six-O-Six._
 
 **Faire la volonté de Dieu**
 
 Il n’y a pas si longtemps, j’ai eu une conversation avec un fervent catholique romain qui partageait une maison avec un chrétien radical « né de nouveau ». Il était déconcerté par l'habitude du radical de faire toutes sortes de choses bizarres « parce que Dieu me l'a dit ». Il est finalement parvenu à la conclusion que le radical utilisait la conviction de la direction divine pour justifier ses propres préjugés et idées préconçues et pour éviter de faire le travail intellectuel consistant à ajuster ses idées à la réalité de son expérience. Chaque fois qu’un problème surgissait, il était résolu par un appel direct et immédiat à Dieu. La « solution » impulsive qui est alors venue à l’esprit a été investie d’une autorité absolue (« Dieu me l’a dit ») et la poursuite de la discussion sur la question est devenue inutile.
 
-Il n'est pas difficile d'imaginer certains des problèmes qui pourraient résulter de ce genre de procédure. Mais il a néanmoins un large attrait, ce qui est compréhensible. La procédure peut être résumée :
+Il n'est pas difficile d'imaginer certains des problèmes qui pourraient résulter de ce genre de procédure. Mais il a néanmoins un large attrait, ce qui est compréhensible. La procédure peut être résumée :
 
 Pour en savoir plus, consultez [Bulletin Six-O-Six mai/juin 1988](/fr/article/William_Wentworth/Doing_Gods_Will)
 
@@ -1295,9 +1295,9 @@ Pour en savoir plus, consultez [Bulletin Six-O-Six septembre-octobre 1988](/fr/a
 
 ### Réimprimé du bulletin d'information Six-O-Six mai/juin 1989
 
-_Six-O-Six est un excellent endroit pour partager nos idées avec d'autres lecteurs, mais il sert également de véhicule pour partager nos frustrations ! Dans le numéro de mai/juin 1989***, Ann Bendall a partagé certaines des siennes._
+_Six-O-Six est un excellent endroit pour partager nos idées avec d'autres lecteurs, mais il sert également de véhicule pour partager nos frustrations ! Dans le numéro de mai/juin 1989***, Ann Bendall a partagé certaines des siennes._
 
-**Pourquoi ne frappent-ils pas à ma porte ?**
+**Pourquoi ne frappent-ils pas à ma porte ?**
 
 > « La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » ([LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
 

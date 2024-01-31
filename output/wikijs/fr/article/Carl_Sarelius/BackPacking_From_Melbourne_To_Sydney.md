@@ -23,9 +23,9 @@ Alors mon idée est née ; revenir à pied, de Melbourne à Sydney, sur une dist
 
 J'ai pris le train de Sydney à Melbourne, avec mon sac, tous impatients de commencer la marche. J'ai eu la chance d'avoir un fils à Melbourne, qui m'a hébergé pendant quelques jours et m'a aidé dans les derniers préparatifs.
 
-La météo et le peloton allaient être mes plus gros problèmes. De nombreuses personnes ont demandé : « Qu'est-ce que vous transportez dans votre sac ? » Alors, avant de continuer, jetons un coup d’œil.
+La météo et le peloton allaient être mes plus gros problèmes. De nombreuses personnes ont demandé : « Qu'est-ce que vous transportez dans votre sac ? » Alors, avant de continuer, jetons un coup d’œil.
 
-Une tente (ma maison pour les 64 prochains jours). Sac de couchage et oreiller gonflable ; des vêtements pour temps chaud ainsi que des vêtements chauds supplémentaires pour la montagne comprenant des sous-vêtements, des chaussettes, des maillots, etc. un imperméable et un pantalon de pluie, une serviette et du matériel de lavage. Tout pour la préparation de la nourriture, comme un réchaud de camping, du combustible liquide, des marmites, ainsi que de la nourriture de base pour au moins deux jours, avec assiettes et couverts adaptés. Puis un mélange d'articles tels que : une bouteille d'eau, une trousse de premiers secours, un anti-mouches, une crème solaire, une lampe de poche, un carnet, une petite radio, un livre à lire, plus un certain nombre d'objets mineurs.
+Une tente (ma maison pour les 64 prochains jours). Sac de couchage et oreiller gonflable ; des vêtements pour temps chaud ainsi que des vêtements chauds supplémentaires pour la montagne comprenant des sous-vêtements, des chaussettes, des maillots, etc. un imperméable et un pantalon de pluie, une serviette et du matériel de lavage. Tout pour la préparation de la nourriture, comme un réchaud de camping, du combustible liquide, des marmites, ainsi que de la nourriture de base pour au moins deux jours, avec assiettes et couverts adaptés. Puis un mélange d'articles tels que : une bouteille d'eau, une trousse de premiers secours, un anti-mouches, une crème solaire, une lampe de poche, un carnet, une petite radio, un livre à lire, plus un certain nombre d'objets mineurs.
 
 L'histoire qui suit raconte certaines de mes pensées, sentiments et observations lors du retour à Sydney. D'abord désespoir et doute, puis décision de continuer, pour finalement arriver, 64 jours plus tard, à Sydney, au Royal National Park, avec des douleurs aux pieds et aux muscles, mais récompensé par le souvenir de nombreux événements inspirants.
 
@@ -65,7 +65,7 @@ Allongé épuisé dans ma tente, j'ai des crampes aux jambes. J'ai l'impression 
 
 _Le 2 Mars_
 
-Prend plus de temps pour démarrer. Chaque repos prolonge l'agonie du départ. Douleur sourde dans les muscles. Douleur vive dans les pieds. Que peut-on faire d'autre contre les ampoules, sinon plus de pansements ? J'ai découvert la cause de ma crampe. Pas assez de sel dans ma nourriture.
+Prend plus de temps pour démarrer. Chaque repos prolonge l'agonie du départ. Douleur sourde dans les muscles. Douleur vive dans les pieds. Que peut-on faire d'autre contre les ampoules, sinon plus de pansements ? J'ai découvert la cause de ma crampe. Pas assez de sel dans ma nourriture.
 
 _3 mars_
 
@@ -91,7 +91,7 @@ De nombreux pansements sont tombés et certains n’ont pas été remplacés. Ma
 
 - mes épaules — mon dos — mes jambes, il faut beaucoup plus d'installation.
 
-Réfléchir, décider : « Continuez, essayez »
+Réfléchir, décider : « Continuez, essayez »
 
 _7 mars — Région de Whitfield_
 
@@ -117,7 +117,7 @@ _17 mars — Tallangatta_
 
 Ce matin, les tirs aux canards ont commencé par le tir d'au moins 100 canons. On aurait dit qu'une république bananière avait changé de gouvernement - de nombreux tirs accompagnés de canards qui couinaient. Ce matin, au moins un millier de canards sont morts – rien que dans cette région de Tallangatta – 10 oiseaux par jour étant le quota de chaque chasseur. en me réveillant dans ma tente au bord du lac Hume, je pouvais ressentir l'agonie des canards et autres oiseaux terrifiés. Ce matin, pas de chants joyeux ni de bavardages dans les arbres.
 
-Plus tard dans la journée, en marchant vers un ruisseau pour remplir ma bouteille d'eau, au loin, j'ai pu voir de nombreux tas de plumes sur la rive du ruisseau. Fouiller - 10 têtes de canard - 20 pieds plus des ailes et des plumes dans chaque tas ; les seules choses qui restent de quelques beaux canards.
+Plus tard dans la journée, en marchant vers un ruisseau pour remplir ma bouteille d'eau, au loin, j'ai pu voir de nombreux tas de plumes sur la rive du ruisseau. Fouiller - 10 têtes de canard - 20 pieds plus des ailes et des plumes dans chaque tas ; les seules choses qui restent de quelques beaux canards.
 
 Vivre si près de la nature pendant ma promenade – le spectacle était attristant – j’en avais les larmes aux yeux.
 
@@ -127,7 +127,7 @@ La nuit dernière, j'ai dormi dans une forêt de pins. Le sifflement du vent à 
 
 _20 mars — Corryong_
 
-Quelqu’un s’est plaint un jour : « Nous avons perdu notre esprit pionnier ». Si par esprit pionnier nous entendons l'attitude « Essayons », même si les chances sont contre nous, alors j'ai de bonnes nouvelles.
+Quelqu’un s’est plaint un jour : « Nous avons perdu notre esprit pionnier ». Si par esprit pionnier nous entendons l'attitude « Essayons », même si les chances sont contre nous, alors j'ai de bonnes nouvelles.
 
 Mon impression de nombreuses régions isolées. « Les pionniers sont toujours là ». Personnes vivant dans des caravanes, des tentes ou des cabanes, tout en construisant leur maison et en établissant leur ferme. Mais, dans ces régions isolées, quelle force doit être l’amour pour garder les jeunes couples ensemble.
 
@@ -221,7 +221,7 @@ J'ai visité de nombreux hôpitaux du pays pour discuter avec le personnel et le
 
 Mes impressions de ces visites.
 
-Tout le monde s'inquiétait du financement de l'hôpital, mais les matrones, les infirmières et le personnel de l'hôpital, combien ils étaient gentils et soucieux de ma sécurité et de mon bien-être. J’ai été impressionné par de nombreux hôpitaux – des endroits agréables et accueillants. Pardonnez mes pensées occasionnelles ; « Comme ce serait bien d'être malade juste un petit moment, de dormir dans un vrai lit plutôt que dans une tente sur un sol dur et rocheux............ »
+Tout le monde s'inquiétait du financement de l'hôpital, mais les matrones, les infirmières et le personnel de l'hôpital, combien ils étaient gentils et soucieux de ma sécurité et de mon bien-être. J’ai été impressionné par de nombreux hôpitaux – des endroits agréables et accueillants. Pardonnez mes pensées occasionnelles ; « Comme ce serait bien d'être malade juste un petit moment, de dormir dans un vrai lit plutôt que dans une tente sur un sol dur et rocheux............ »
 
 _21 avril — Wollongong_
 
@@ -233,7 +233,7 @@ _27 avril — Coledale_
 
 Ma promenade touche bientôt à sa fin. Mes jambes et les muscles de mes épaules me font mal mais avec admiration je pense à mon corps. Quelle merveilleuse conception que d’accepter tant d’abus. Ce n'est pas un travail d'apprenti.
 
-Tout le mérite revient à notre Créateur. En tant qu'ingénieur professionnel, je ne peux m'empêcher de me demander : « Quelles étaient les spécifications de conception ? »
+Tout le mérite revient à notre Créateur. En tant qu'ingénieur professionnel, je ne peux m'empêcher de me demander : « Quelles étaient les spécifications de conception ? »
 
 Durant ma promenade, de nombreuses voitures et camions se sont arrêtés pour me proposer de me conduire. Je me sentais coupable de refuser, mais mon engagement était de marcher jusqu'au bout, tout moyen de transport ne devant être accepté qu'en cas d'urgence.
 

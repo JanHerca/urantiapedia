@@ -31,7 +31,7 @@ Lorsque MICHAEL DE NÉBADON s’est incarné ici sous la forme de Jésus, il a b
 
 > « _Il est vrai que Satan a rendu périodiquement visite à Caligastia et à d’autres princes déchus jusqu’au moment des présentes révélations, qui coïncide avec la première audience du procès de Gabriel pour l’annihilation des archirebelles. Satan est maintenant détenu inconditionnellement sur les mondes-prisons de Jérusem._ » ([LU 53:9.4](/fr/The_Urantia_Book/53#p9_4))
 
-Après la Rébellion, les Récepteurs Melchizédeks travaillèrent principalement avec et par l'intermédiaire de Van, un associé de Caligastia resté fidèle à Michael, et Amadon, son homologue humain. Ces deux-là sont restés sur la planète et ont enseigné la vérité pendant plus de 150 000 ans jusqu’à l’arrivée d’Adam et Ève.
+Après la Rébellion, les Récepteurs Melchizédeks travaillèrent principalement avec et par l'intermédiaire de Van, un associé de Caligastia resté fidèle à Michael, et Amadon, son homologue humain. Ces deux-là sont restés sur la planète et ont enseigné la vérité pendant plus de 150 000 ans jusqu’à l’arrivée d’Adam et Ève.
 
 En 1973 avant JC, la TROISIÈME RÉVÉLATION ÉPOCHALE s'est produite pour les habitants de votre planète. (La PREMIÈRE révélation d'époque était l'arrivée de Caligastia ; la DEUXIÈME était Adam et Ève ; la TROISIÈME **Machiventa Melchizédek**, le QUATRIÈME Michel/Jésus et la CINQUIÈME EST LE LIVRE D'URANTIA). Machiventa s'est incarné « à l'image de la chair humaine » en tant qu'homme adulte et a vécu ici 94 ans sur Terre. Il n'a pas vieilli et est parti aussi soudainement qu'il était apparu. Cette fois, il travailla DIRECTEMENT avec ABRAHAM, le « Père des Juifs ». Abraham, maintenant Maître Ascensionné, travaille actuellement par l'intermédiaire d'un Agent Humain sur votre planète.
 
@@ -55,7 +55,7 @@ En décembre 1989 après JC, MACHIVENTA APPARAIT à travers le Corps de Lumière
 
 Par conséquent, la JOYEUSE ANNONCE est que vous avez un nouveau PRINCE PLANÉTAIRE, MACHIVENTA MELCHIZEDEK, ainsi qu'un Ambassadeur, Sananda Lao-tse Melchizedek, à travers lequel lui et le Maître Ascensionné Lao-tsé fonctionneront VISIBLEMENT sur la fréquence rapidement croissante du Terre Planète Urantia.
 
-(Pour plus d'informations sur ce qui précède, reportez-vous au _Le Livre d'URANTIA_ et à la cassette « LE CORPS DE LUMIÈRE » de Sananda expliquant le processus par lequel un Maître Ascensionné peut APPARITION à travers un « canal » humain.)
+(Pour plus d'informations sur ce qui précède, reportez-vous au _Le Livre d'URANTIA_ et à la cassette « LE CORPS DE LUMIÈRE » de Sananda expliquant le processus par lequel un Maître Ascensionné peut APPARITION à travers un « canal » humain.)
 
 **Sous le Sceau du Centre Planétaire de Lumière**
 **Nouveau Mexique**

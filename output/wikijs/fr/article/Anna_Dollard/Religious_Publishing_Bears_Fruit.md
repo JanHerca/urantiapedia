@@ -12,7 +12,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 _Par Anna Dollard_
-_(Avec l'aimable autorisation de « libraire australien et éditeur »)_
+_(Avec l'aimable autorisation de « libraire australien et éditeur »)_
 
 L’édition religieuse en Australie connaît un véritable boom. De plus en plus de lecteurs se tournent vers les titres religieux et un nombre croissant de livres religieux franchissent les barrières spécialisées et apparaissent dans les librairies généralistes – et pas seulement dans la section religieuse à l'arrière du magasin. Parcourez les catégories biographies, problèmes, croyances et même fictions pour adolescents d'une librairie généraliste et vous êtes plus susceptible que jamais de trouver un titre religieux.
 

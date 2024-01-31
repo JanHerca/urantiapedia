@@ -31,7 +31,7 @@ Depuis lors, nous avons écrit à Meredith Sprunger pour nous permettre de publi
 
 Stephen Theiler a demandé quelque chose sur l'astrologie et Mark Blackham a répondu à sa demande.
 
-Georg Sepp a parlé de réincarnation. Nous avons trouvé un article de Richard Bain : « La roue du karma ». Vous voyez donc, ce ne sont pas seulement quelques-uns d’entre nous ici qui ont mis en place le 6-0-0, mais nous sommes tous essentiels à la naissance de ce bulletin d’information. Il n’est pas donné à tout le monde d’écrire de longs articles, mais vos idées sont reprises par d’autres qui ont le talent de mettre leurs réflexions sur papier. Alors continuez votre bon travail. Même quelques lignes sont importantes pour nous. Vous allez vivre des lectures inspirantes cette année !
+Georg Sepp a parlé de réincarnation. Nous avons trouvé un article de Richard Bain : « La roue du karma ». Vous voyez donc, ce ne sont pas seulement quelques-uns d’entre nous ici qui ont mis en place le 6-0-0, mais nous sommes tous essentiels à la naissance de ce bulletin d’information. Il n’est pas donné à tout le monde d’écrire de longs articles, mais vos idées sont reprises par d’autres qui ont le talent de mettre leurs réflexions sur papier. Alors continuez votre bon travail. Même quelques lignes sont importantes pour nous. Vous allez vivre des lectures inspirantes cette année !
 
 
 ## Pensée du mois
@@ -73,7 +73,7 @@ Palm Beach, Queensland.
 
 Cher 6-0-6,
 
-J’ai adoré lire votre article « Dites bonjour à un compatriote urantien ». En fait, j’avais l’impression de faire partie de toute la scène.
+J’ai adoré lire votre article « Dites bonjour à un compatriote urantien ». En fait, j’avais l’impression de faire partie de toute la scène.
 
 C'est une excellente idée pour le 31 décembre. J'ai apprécié « John the Revelator » de Trevor Swadling. Cela me donne envie de relire « Révélations » et de faire mes propres comparaisons.
 
@@ -85,7 +85,7 @@ J'ai tendance à penser que _Le Livre d'URANTIA_ pourrait être une contrefaçon
 
 Lecteur du Queensland
 
-_Note de l'éditeur : ce lecteur a reçu une réponse personnelle à ses commentaires après notre enquête de juillet/août._
+_Note de l'éditeur : ce lecteur a reçu une réponse personnelle à ses commentaires après notre enquête de juillet/août._
 
 Cher 6-0-6
 
@@ -131,7 +131,7 @@ J'ai lu le rapport avec beaucoup de joie et d'intérêt. Joie de cette merveille
 
 Pour ceux d'entre vous qui ne nous connaissent pas, nous vivions à Mackay, Q1d. pendant trois ans, 1975-78. Nous avons beaucoup voyagé et passé autant de temps que possible en compagnie de Neil Francey. Nous étions alors si fortement convaincus (et continuons de ressentir la même chose) que les Australiens devaient inciter leurs compatriotes australiens à se tourner vers _Le Livre d'URANTIA_ et décider comment ils se rencontreraient, étudieraient, camaraderaient et s'organiseraient. C’est évidemment ce que vous avez fait au cours des années qui ont suivi. Je sais que beaucoup d'entre vous se sont rencontrés au fil des années et qu'il y a eu des conférences avant celle-ci, mais celle-ci avait la dimension supplémentaire de Berkeley, avec la présence de John et Tom qui pouvaient rendre compte à grande échelle ici à l'UB. lecteurs de ce que sont les activités en Australie. Jusqu'à présent, toutes les nouvelles ont été de seconde main via Six-0-six, la correspondance de Julia Fenderson et notre correspondance. Je suis vraiment ravi de cette nouvelle action de sensibilisation.
 
-Je suis encore plus ravi de la nomination et de l'acceptation de Neil Francey au Comité international de la Fraternité URANTIA. Il pourra apporter tellement de choses. Je ne sais pas qui a rédigé le rapport mais merci. C'était instructif et quel humour ! Ayant rencontré certains d'entre vous, j'ai pu partager leur enthousiasme, leur esprit et leur franchise. Vous avez raison, « les conférences concernent les gens ». Alors l'un d'entre vous est venu dans le Maine en août 1987 ? J'ai de bons souvenirs de mon séjour en Australie et de mon étude du _Livre d'URANTIA_ avec des gens là-bas ; et de rencontrer Kevin, Trevor, Peter Toy et William Wentworth aux États-Unis.
+Je suis encore plus ravi de la nomination et de l'acceptation de Neil Francey au Comité international de la Fraternité URANTIA. Il pourra apporter tellement de choses. Je ne sais pas qui a rédigé le rapport mais merci. C'était instructif et quel humour ! Ayant rencontré certains d'entre vous, j'ai pu partager leur enthousiasme, leur esprit et leur franchise. Vous avez raison, « les conférences concernent les gens ». Alors l'un d'entre vous est venu dans le Maine en août 1987 ? J'ai de bons souvenirs de mon séjour en Australie et de mon étude du _Livre d'URANTIA_ avec des gens là-bas ; et de rencontrer Kevin, Trevor, Peter Toy et William Wentworth aux États-Unis.
 
 J'attends avec impatience le moment où nous pourrons voyager en Australie et échanger à nouveau avec vous en personne. Pour l'instant, je devrai me contenter de la correspondance et du merveilleux.
 
@@ -145,7 +145,7 @@ Avec beaucoup d'amour pour vous tous, Jane Rolnick, Durham, Caroline du Nord, É
 
 Cet excellent bulletin d'information de huit pages fait véritablement honneur à l'homme derrière lui : David Glass. L'année dernière, David a invité les lecteurs de 6-0-6 à demander un numéro gratuit de sa publication.
 
-Son adresse est la suivante : David Glass, 5885 Chesapeake Place, Fort Worth, Texas, 76132 États-Unis.
+Son adresse est la suivante : David Glass, 5885 Chesapeake Place, Fort Worth, Texas, 76132 États-Unis.
 
 JEAN LE RÉVÉLATEUR
 
@@ -161,7 +161,7 @@ Le changement suivant dans les normes d'admission pour les Sociétés URANTIA re
 
 Vous vous souvenez de la parabole de Jésus sur les deux fils. Le premier fils, lorsqu'on lui a demandé de travailler dans la vigne, a refusé, mais a ensuite réfléchi et s'est mis au travail. Lorsqu'on lui a demandé de travailler, le fils aîné a répondu : « Oui, père, j'y vais », mais après le départ de son père, il n'a pas tenu sa promesse. ([LU 173:3.1](/fr/The_Urantia_Book/173#p3_1)) À une autre occasion, Jésus a dit : « Tous ceux qui me disent : « Seigneur, Seigneur ! » n’entreront pas dans le royaume des cieux, sauf celui qui fait la volonté de mon Père qui est aux cieux. ([Matt 7:21](/fr/Bible/Matthew/7#v21)) L'épreuve décisive de la vie est dans nos actions. La vraie nature de notre foi se voit dans notre comportement. « La vraie religion doit agir... La religion fait toujours et toujours quelque chose ; c’est dynamique.» ([LU 102:2.8](/fr/The_Urantia_Book/102#p2_8)) « Il n’y a pas de véritable religion en dehors d’une personnalité très active. » ([LU 102:2.7](/fr/The_Urantia_Book/102#p2_7)) « Les faibles prennent des résolutions, mais les forts agissent. » ([LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 
-L’action est créative et efficace lorsque nous sommes en contact avec la réalité, lorsque Dieu est partenaire de notre vie et de notre œuvre. Jésus oriente ses fils et filles de l’univers en disant : « Rappelez-vous : je suis la vraie vigne et vous êtes les sarments vivants. Celui qui vit en moi, et moi en lui, portera beaucoup de fruit de l'esprit et connaîtra la joie suprême de produire cette moisson spirituelle... C'est ici que le Père est glorifié : que la vigne a de nombreux sarments vivants, et que chaque sarment porte beaucoup de fruits. ([LU 180:2.1](/fr/The_Urantia_Book/180#p2_1)) Comment cela se produit-il ? Comment pouvons-nous devenir des branches vivantes qui portent beaucoup de fruits nourrissants et enrichissants ?
+L’action est créative et efficace lorsque nous sommes en contact avec la réalité, lorsque Dieu est partenaire de notre vie et de notre œuvre. Jésus oriente ses fils et filles de l’univers en disant : « Rappelez-vous : je suis la vraie vigne et vous êtes les sarments vivants. Celui qui vit en moi, et moi en lui, portera beaucoup de fruit de l'esprit et connaîtra la joie suprême de produire cette moisson spirituelle... C'est ici que le Père est glorifié : que la vigne a de nombreux sarments vivants, et que chaque sarment porte beaucoup de fruits. ([LU 180:2.1](/fr/The_Urantia_Book/180#p2_1)) Comment cela se produit-il ? Comment pouvons-nous devenir des branches vivantes qui portent beaucoup de fruits nourrissants et enrichissants ?
 
 [Lire la suite](/fr/article/Meredith_Sprunger/Gods_Presence_In_Action)
 
@@ -172,15 +172,15 @@ Fort Wayne, Indiana, États-Unis
 
 Le Groupe d'étude de Perth souhaite annoncer le premier stand australien du livre URANTIA au Festival Matilda 1987, Perry Lakes Parkland — du vendredi $23 r d$ au lundi 26 janvier.
 
-Le groupe d'étude de Perth, en tant qu'organisateur du stand _du livre URANTIA_, occupera une tente de 15 x 15 pieds sur la place des squatters du festival ; un espace consacré à... « les groupes et expositions communautaires, de loisirs, de collectionneurs, de musées, de touristes, sportifs, éducatifs, spirituels et philosophiques ».
+Le groupe d'étude de Perth, en tant qu'organisateur du stand _du livre URANTIA_, occupera une tente de 15 x 15 pieds sur la place des squatters du festival ; un espace consacré à... « les groupes et expositions communautaires, de loisirs, de collectionneurs, de musées, de touristes, sportifs, éducatifs, spirituels et philosophiques ».
 
-Kathleen et Trevor Swadling de Sydney et Steven Shanahan de Melbourne seront également là pour les aider à atteindre leur objectif de... « favoriser un environnement où les gens peuvent avoir une bonne expérience du _Livre d'URANTIA_.
+Kathleen et Trevor Swadling de Sydney et Steven Shanahan de Melbourne seront également là pour les aider à atteindre leur objectif de... « favoriser un environnement où les gens peuvent avoir une bonne expérience du _Livre d'URANTIA_.
 
 Dans notre prochain numéro, nous espérons vous faire un compte rendu de cet événement passionnant !
 
 ## Actualités du groupe d'étude
 
-Leslie Thackeray rapporte qu'un groupe d'étude se réunit régulièrement dans leur maison près du township de Kuranda, dans le nord du Queensland. Pour plus d'informations, écrivez à : Leslie Thackeray, C/- Kuranda Post Office, Kuranda, Qld 4872
+Leslie Thackeray rapporte qu'un groupe d'étude se réunit régulièrement dans leur maison près du township de Kuranda, dans le nord du Queensland. Pour plus d'informations, écrivez à : Leslie Thackeray, C/- Kuranda Post Office, Kuranda, Qld 4872
 
 À North Balwyn, Vic, Rob et Mary Crickett ont formé un groupe d'étude. Vous pouvez les contacter au : Ph. (03) 8575665
 
@@ -188,7 +188,7 @@ Kathleen et Trevor Swadling ont toujours leur groupe d'étude à Narrabeen, NSW,
 
 Canberre, c'est un groupe d'étude ! Pour plus d'informations, contactez Vern Verass, Ph. (062) 823662.
 
-Pour le groupe d'étude de Perth, contactez : Peter Toy, Ph. (09) 3833104.
+Pour le groupe d'étude de Perth, contactez : Peter Toy, Ph. (09) 3833104.
 
 Pour plus d'informations sur le groupe d'étude de Glen Waverley, contactez Madeline Noordzy, Ph. (03) 5616089.
 
@@ -204,7 +204,7 @@ En Tasmanie, contactez Monica Patterson, (002) 396171.
 
 Sur les 19 (15%) retournés, voici les réponses à nos questions :
 
-1. Souhaitez-vous que le 6-0-6 soit publié :
+1. Souhaitez-vous que le 6-0-6 soit publié :
 	Mensuel. Bimensuel. Trimestriel. Pas de réponse. 9 & 4 & 2 & 3 Aussi souvent que possible 1 .
 2. Souhaitez-vous voir une section pour enfants ?
 	OUI 9. NON 3. Pas de réponse ?
@@ -212,7 +212,7 @@ Sur les 19 (15%) retournés, voici les réponses à nos questions :
 	OUI 16. Pas de réponse 3
 	Des nouvelles nationales sur le mouvement URANTIA ?
 	OUI 16. Pas de réponse 3
-	Des articles sur les enseignements du _Livre d'URANTIA_ ? OUI 16. Pas de réponse 3
+	Des articles sur les enseignements du _Livre d'URANTIA_ ? OUI 16. Pas de réponse 3
 	Articles scientifiques?
 	OUI 15. Pas de réponse 4
 	Plus d'œuvres d'art ?
@@ -227,7 +227,7 @@ Sur les 19 (15%) retournés, voici les réponses à nos questions :
 	Forum de controverse 1.
 	Aides et idées pour diffuser _Le Livre d'URANTIA_ 1. Brefs commentaires des lecteurs 1 .
 	Expériences personnelles, réalisations des lecteurs 1.
-4. Seriez-vous capable et disposé à aider financièrement ?
+4. Seriez-vous capable et disposé à aider financièrement ?
 	OUI 17. Pas de réponse 2 .
 
 ## La Conférence Australienne de 1987 pour les Lecteurs du Livre d'Urantia
@@ -238,7 +238,7 @@ Le thème de la conférence de cette année sera :
 
 **« Le but de la révélation »**
 
-Il y aura de la place dans le programme pour des présentations. Les soumissions seront requises le plus tôt possible afin que le programme puisse être formulé. Veuillez les envoyer à :
+Il y aura de la place dans le programme pour des présentations. Les soumissions seront requises le plus tôt possible afin que le programme puisse être formulé. Veuillez les envoyer à :
 
 K\&T Swadling, 7 Walsh St, Narrabeen, NSW, 2101. Tél. (02) 9137893
 

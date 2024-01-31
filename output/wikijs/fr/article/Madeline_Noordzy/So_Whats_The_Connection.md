@@ -1,5 +1,5 @@
 ---
-title: "Alors, quel est le lien ?"
+title: "Alors, quel est le lien ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -15,7 +15,7 @@ Bessie essayait de trouver une solution. Elle faisait partie des touristes amér
 
 « Vous semblez connaître quelqu'un dans chaque port où nous faisons escale », a-t-elle dit à Duane Faw alors que nous étions assis autour de la table du petit-déjeuner au vieil hôtel de Melbourne. Duane (oui, vous avez raison, il est l'auteur de « The Paramony ») lui a assuré qu'il ne nous connaissait pas (Steve Shanahan et moi-même) jusqu'à il y a cinq minutes.
 
-« Alors, quel est le lien ? » Bessie m'a demandé. Les quatre lecteurs du Livre d’URANTIA qui étaient assis autour de cette table de petit-déjeuner par un dimanche matin plutôt chaud, répondirent en chœur : « Nous lisons tous le même livre. »
+« Alors, quel est le lien ? » Bessie m'a demandé. Les quatre lecteurs du Livre d’URANTIA qui étaient assis autour de cette table de petit-déjeuner par un dimanche matin plutôt chaud, répondirent en chœur : « Nous lisons tous le même livre. »
 
 « Était-ce la même connexion lorsque nous nous sommes arrêtés aux Fidji ? » Bessie devenait plutôt curieuse. Duane et Lucilla Faw avaient vu Isi et Martha Racule lorsque leur avion s'était arrêté aux Fidji.
 

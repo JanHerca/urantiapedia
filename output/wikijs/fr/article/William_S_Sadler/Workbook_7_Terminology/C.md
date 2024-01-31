@@ -35,7 +35,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Chance
 
-> La malchance—donner quelque chose pour rien —  la chance—obtenir quelque chose pour rien. [LU 86:1.3](/fr/The_Urantia_Book/86#p1_3)
+> La malchance—donner quelque chose pour rien —  la chance—obtenir quelque chose pour rien. [LU 86:1.3](/fr/The_Urantia_Book/86#p1_3)
 
 > La chance est simplement un terme forgé pour couvrir l’inexplicable dans n’importe quel âge de l’existence humaine; elle désigne les phénomènes dont les hommes sont incapables ou peu désireux de pénétrer le sens. [LU 86:2.5](/fr/The_Urantia_Book/86#p2_5)
 
@@ -77,7 +77,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Confession
 
-> La confession du péché est une répudiation virile de l’infidélité, mais elle n’atténue en aucune manière les conséquences dans l’espace-temps de cette infidélité. Mais la confession  -  la récognition sincère de la nature du péché - est toutefois essentielle pour la croissance religieuse et le progrès spirituel. [LU 89:10.5](/fr/The_Urantia_Book/89#p10_5)
+> La confession du péché est une répudiation virile de l’infidélité, mais elle n’atténue en aucune manière les conséquences dans l’espace-temps de cette infidélité. Mais la confession  -  la récognition sincère de la nature du péché - est toutefois essentielle pour la croissance religieuse et le progrès spirituel. [LU 89:10.5](/fr/The_Urantia_Book/89#p10_5)
 
 ## Conflit
 

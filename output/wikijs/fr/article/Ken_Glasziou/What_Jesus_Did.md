@@ -23,7 +23,7 @@ En d’autres termes, Michael entreprenait cette mission afin de se qualifier en
 
 > « _« Tout au long de ton effusion sur Urantia, ***tu n’as besoin de te soucier que d’une chose, la communion ininterrompue entre toi et ton Père du Paradis***. Et ce sera par la perfection d’une telle relation que le monde de ton effusion, et même tout l’univers de ta création, percevront une révélation nouvelle et plus compréhensible de ton Père et de mon Père, le Père Universel de tous._ » ([LU 120:1.4](/fr/The_Urantia_Book/120#p1_4))
 
-Il semble qu'Emmanuel et Michael aient passé un certain temps à réfléchir au quoi, au comment et au pourquoi du don sans réserve, car Emmanuel a poursuivi en disant :
+Il semble qu'Emmanuel et Michael aient passé un certain temps à réfléchir au quoi, au comment et au pourquoi du don sans réserve, car Emmanuel a poursuivi en disant :
 
 > « _La grande mission que tu dois réaliser et expérimenter dans l’incarnation mortelle est contenue ***dans ta décision*** de vivre une vie consacrée de tout cœur à faire la volonté de ton Père du Paradis, et ainsi de ***révéler Dieu,*** ton Père, dans la chair et spécialement ***aux créatures de chair***._ » ([LU 120:2.8](/fr/The_Urantia_Book/120#p2_8))
 
@@ -75,7 +75,7 @@ Nous, Urantiens, souffrons des conséquences d'une double privation due à la r�
 
 > « _La théorie morte, même celle des doctrines religieuses les plus élevées, ***est impuissante à transformer*** le caractère humain ou à contrôler le comportement mortel. Ce dont le monde d’aujourd’hui a besoin est la vérité que votre instructeur de jadis a proclamée : « Non seulement en paroles, mais aussi en puissance et dans le Saint-Esprit. »_ » ([LU 34:6.6](/fr/The_Urantia_Book/34#p6_6))
 
-La plus haute doctrine religieuse est impuissante à nous transformer !! _Le Livre d'URANTIA_ est la plus haute doctrine religieuse disponible sur cette planète, et il nous dit qu'à lui seul, il est impuissant à nous transformer ! Pour nous transformer, nous devons adopter les pouvoirs spirituels qui nous sont fournis, mais même dans ce cas :
+La plus haute doctrine religieuse est impuissante à nous transformer !! _Le Livre d'URANTIA_ est la plus haute doctrine religieuse disponible sur cette planète, et il nous dit qu'à lui seul, il est impuissant à nous transformer ! Pour nous transformer, nous devons adopter les pouvoirs spirituels qui nous sont fournis, mais même dans ce cas :
 
 > « _...Il ne suffit pas que cet esprit soit répandu sur vous ; il faut que l’Esprit divin domine et contrôle toutes les phases de l’expérience humaine._ » ([LU 34:6.7](/fr/The_Urantia_Book/34#p6_7))
 
@@ -151,7 +151,7 @@ Lorsque Jésus a vu l’amitié là où d’autres n’observeraient que l’ing
 
 Jésus a servi lors de son passage, il n'a jamais donné suite à de telles actions et il n'a jamais imposé d'obligations aux gens, sauf s'ils choisissaient, de leur propre volonté, de le représenter dans le monde comme il représentait le Père. Lorsque Dieu nous donne son amour, la seule chose de valeur possible que nous pouvons lui rendre en remerciement pour son don est notre volonté.
 
-Par conséquent, lorsque nous aimons un autre comme Jésus nous aime, nous essayons d’aimer comme Dieu aime, et le seul espoir valable que nous pouvons avoir est que le destinataire de cet amour reconnaisse que sa véritable source n’est pas nous-mêmes, mais Dieu. C'est donc à Dieu, et non à nous, qu'ils doivent leur gratitude. La valeur pour nous est qu'à mesure que nous participons à la réalité de l'amour de Dieu, nous nous libérons de la tyrannie du ressentiment et de la souffrance. La raison? Ils ne nous doivent rien du tout – cet amour ne nous appartenait pas :
+Par conséquent, lorsque nous aimons un autre comme Jésus nous aime, nous essayons d’aimer comme Dieu aime, et le seul espoir valable que nous pouvons avoir est que le destinataire de cet amour reconnaisse que sa véritable source n’est pas nous-mêmes, mais Dieu. C'est donc à Dieu, et non à nous, qu'ils doivent leur gratitude. La valeur pour nous est qu'à mesure que nous participons à la réalité de l'amour de Dieu, nous nous libérons de la tyrannie du ressentiment et de la souffrance. La raison? Ils ne nous doivent rien du tout – cet amour ne nous appartenait pas :
 
 > « _Tout véritable amour vient de Dieu, et l’homme reçoit l’affection divine dans la mesure où lui-même effuse cet amour sur ses compagnons. L’amour est dynamique. On ne peut jamais le capturer ; il est vivant, libre, passionnant et toujours en mouvement. L’homme ne peut jamais saisir l’amour du Père pour l’emprisonner dans son cœur. L’amour du Père ne peut devenir réel pour l’homme mortel qu’en passant par sa personnalité, alors qu’à son tour lui-même effuse cet amour sur ses compagnons._ » ([LU 117:6.10](/fr/The_Urantia_Book/117#p6_10))
 

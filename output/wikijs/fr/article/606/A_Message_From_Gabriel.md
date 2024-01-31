@@ -11,7 +11,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
 
 
-À toutes nos créations bien-aimées marchant sur la belle planète Terre :
+À toutes nos créations bien-aimées marchant sur la belle planète Terre :
 
 C'est avec la joie dans le cœur et la jubilation sur les lèvres que je suis à nouveau l'élu Harbinger qui apporte la Bonne Nouvelle à l'humanité.
 

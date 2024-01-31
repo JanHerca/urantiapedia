@@ -1,5 +1,5 @@
 ---
-title: « Canalisation et communication avec le monde des esprits »
+title: « Canalisation et communication avec le monde des esprits »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -29,7 +29,7 @@ Alors, quel genre d’aide peuvent-ils nous apporter ?
 
 > « _Dans certaines circonstances, les séraphins peuvent agir comme ministres sous forme matérielle auprès des êtres humains, mais les cas où cela se produit sont fort rares. Avec l’assistance des créatures médianes et des contrôleurs physiques, les séraphins peuvent exercer une vaste gamme d’activités au profit des êtres humains, allant jusqu’au contact effectif avec l’humanité, mais de tels cas sont très inhabituels._ » ([LU 113:5.5](/fr/The_Urantia_Book/113#p5_5))
 
-En considérant le type de communication que les humains peuvent avoir avec les forces spirituelles et les êtres célestes venus d’au-delà de notre planète, le Livre contient une déclaration très révélatrice :
+En considérant le type de communication que les humains peuvent avoir avec les forces spirituelles et les êtres célestes venus d’au-delà de notre planète, le Livre contient une déclaration très révélatrice :
 
 > « _Quand un monde est isolé par suite de rébellion, quand une planète est coupée de tous les circuits de communications extérieures, comme le fut Urantia après la rébellion de Caligastia, il ne reste, en dehors des messagers personnels, qu’une seule possibilité de communiquer directement avec des planètes et avec l’univers, et c’est par la liaison des Ajusteurs de Pensée des sphères._ » ([LU 108:4.4](/fr/The_Urantia_Book/108#p4_4))
 
@@ -37,7 +37,7 @@ Une activité très répandue appelée canalisation, dans laquelle des individus
 
 Le livre est catégorique sur le fait que le seul canal vers le monde spirituel passe par nos Ajusteurs de Pensée. Cela implique que tous les êtres spirituels qui pénètrent dans notre esprit par des canaux autres que nos Ajusteurs de Pensée ne font pas partie du monde spirituel. Cependant, même le chemin de l’Ajusteur de Pensée lui-même comporte un risque de contamination. Le livre déclare :
 
-«_Pendant la vie mortelle, le corps et l'esprit matériels vous séparent de votre Ajusteur et empêchent la libre communication_ ([LU 110:7.8](/fr/The_Urantia_Book/110#p7_8));_... il est dangereux de tenter de différencier le registre des concepts de l'Ajusteur des... dictées des mortels. conscience_ ([LU 110:5.5](/fr/The_Urantia_Book/110#p5_5)); _Les Ajusteurs trouvent presque impossible de communiquer directement avec l'esprit humain_ ([LU 110:4.5](/fr/The_Urantia_Book/110#p4_5)) ; _le plus souvent, chez les êtres de votre ordre, ce que vous acceptez comme la voix de l'Ajusteur est en réalité les émanations de votre propre intellect_ ([LU 110:5.6](/fr/The_Urantia_Book/110#p5_6)).»
+«_Pendant la vie mortelle, le corps et l'esprit matériels vous séparent de votre Ajusteur et empêchent la libre communication_ ([LU 110:7.8](/fr/The_Urantia_Book/110#p7_8));_... il est dangereux de tenter de différencier le registre des concepts de l'Ajusteur des... dictées des mortels. conscience_ ([LU 110:5.5](/fr/The_Urantia_Book/110#p5_5)); _Les Ajusteurs trouvent presque impossible de communiquer directement avec l'esprit humain_ ([LU 110:4.5](/fr/The_Urantia_Book/110#p4_5)) ; _le plus souvent, chez les êtres de votre ordre, ce que vous acceptez comme la voix de l'Ajusteur est en réalité les émanations de votre propre intellect_ ([LU 110:5.6](/fr/The_Urantia_Book/110#p5_6)).»
 
 À moins d'être étudiées attentivement, les références dans le _Livre d'URANTIA_ au rôle des personnalités de contact du corps de réserve du destin peuvent générer beaucoup de confusion. Le livre déclare :
 

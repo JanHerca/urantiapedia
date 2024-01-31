@@ -15,7 +15,7 @@ En tant que dévot des enseignements contenus dans _Le Livre d'URANTIA_, je suis
 
 En tant qu'individus, nos vies peuvent avoir été transformées à des degrés divers, nous essayons d'être à la hauteur de l'enseignement du mieux que nous pouvons, nous interagissons avec nos semblables dans les cercles familiaux, sociaux ou professionnels. Chaque individu porte inconsciemment ses propres fruits selon son niveau de compréhension, d'évolution, de maturité et de sincérité. Cela se produit lentement et naturellement.
 
-Au fur et à mesure que les lecteurs se regroupent en groupes, la situation prend une autre dimension. Dès que des individus se réunissent, il y a un risque de problème social. Cependant, cela ne devrait pas être une raison pour éviter de se réunir car dans LU 28 : 5.14 du _Le Livre d'URANTIA_, il est dit :
+Au fur et à mesure que les lecteurs se regroupent en groupes, la situation prend une autre dimension. Dès que des individus se réunissent, il y a un risque de problème social. Cependant, cela ne devrait pas être une raison pour éviter de se réunir car dans LU 28 : 5.14 du _Le Livre d'URANTIA_, il est dit :
 
 > « L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du **travail en équipe.** » ([LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
 
@@ -31,7 +31,7 @@ La première que j’aime appeler l’approche conservatrice. Cette approche vou
 
 L’autre approche que je qualifierai de plus radicale. Cette approche estime que le _Livre d'URANTIA_ devrait être rendu accessible au plus grand nombre de personnes possible et que l'activité organisationnelle devrait se préoccuper de la diffusion du livre lui-même. Les livres sont souvent fortement subventionnés par le groupe, donc le livre est bon marché, de nombreux documents d'occasion décrivant le livre sont publiés et diffusés, et de nombreuses personnes sont « attirées » par le livre via cette approche. Les œuvres secondaires sont promues par le groupe plutôt que par l'individu. Le livre est souvent dilué pour devenir une expérience de seconde main afin d’attirer davantage de lecteurs.
 
-Si nous comprenons l’importance de ce qui se passe, nous devons analyser la sagesse des différentes écoles de pensée. L’approche conservatrice est lente, on ne voit pas de résultats instantanés mais la croissance est qualitative plutôt que quantitative. LU 195 :9.4 du _Le Livre d'URANTIA_ déclare :
+Si nous comprenons l’importance de ce qui se passe, nous devons analyser la sagesse des différentes écoles de pensée. L’approche conservatrice est lente, on ne voit pas de résultats instantanés mais la croissance est qualitative plutôt que quantitative. LU 195 :9.4 du _Le Livre d'URANTIA_ déclare :
 
 > « _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ » ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 

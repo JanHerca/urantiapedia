@@ -1,5 +1,5 @@
 ---
-title: "« Qu’en pensez-vous ? »"
+title: "« Qu’en pensez-vous ? »"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -13,17 +13,17 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _(Cette discussion résume les pensées et les opinions exprimées par les membres du groupe d'étude de la Sunshine Coast pendant et après une réunion du 21/9/91)_
 
-L'article sur la communication avec le monde spirituel qui paraît dans ce numéro de Six-O-Six a été lu pendant la séance du groupe d'étude. Le livret récemment publié de Mark Kulieke intitulé « Naissance d'une révélation » a également été lu. Mark répertorie les façons dont il pensait que les messages et les documents provenant de personnalités célestes auraient pu être reçus par la Commission Révélatrice. Deux sont ceux décrits dans _Le Livre d'URANTIA_ concernant la personnalité de contact par l'intermédiaire de laquelle les Cahiers d'Urantia ont été reçus. Un troisième fait référence à la matérialisation, et un quatrième aux messages audio pour lesquels il existe des preuves adéquates dans le Livre (voir [LU 114:7.9](/fr/The_Urantia_Book/114#p7_9)).
+L'article sur la communication avec le monde spirituel qui paraît dans ce numéro de Six-O-Six a été lu pendant la séance du groupe d'étude. Le livret récemment publié de Mark Kulieke intitulé « Naissance d'une révélation » a également été lu. Mark répertorie les façons dont il pensait que les messages et les documents provenant de personnalités célestes auraient pu être reçus par la Commission Révélatrice. Deux sont ceux décrits dans _Le Livre d'URANTIA_ concernant la personnalité de contact par l'intermédiaire de laquelle les Cahiers d'Urantia ont été reçus. Un troisième fait référence à la matérialisation, et un quatrième aux messages audio pour lesquels il existe des preuves adéquates dans le Livre (voir [LU 114:7.9](/fr/The_Urantia_Book/114#p7_9)).
 
 Mark décrit également une méthode, proche du canalisation, par laquelle un membre du groupe de contact a écrit des impulsions intérieures qui ont apparemment été acceptées par la Commission comme de véritables instructions. Mark suggère que tous les membres de la Commission possédaient peut-être cette capacité. Celle qui prétendait avoir eu un tel « cadeau » devait être Emma Christensen. Une lettre de Thomas et Carolyn Kendall du 21 juin 1990, en réponse à un rapport spécial de la Fondation Urantia, déclare qu'en novembre 1980 : « Christy a fait lire à Martin un message qui lui serait parvenu plus tôt dans la semaine. Il disait: «Ne vous engagez pas dans de longues négociations avec M. Weiss. Lisez la page 840.’ » Il semble que la Fondation ait agi en fonction de cela comme s’il s’agissait d’une véritable instruction de nos superviseurs célestes.
 
 Une autre personne qui prétend apparemment communiquer avec nos amis invisibles est Martin Myers. Dans une lettre du 21 juin 1990, l'ancienne administratrice Helena E. Sprague déclare : « Martin croit apparemment qu'il est désigné par des « mandats » pour gouverner les affaires du _Livre d'URANTIA_. On a entendu Martin, en présence de plusieurs personnes, accorder l'approbation des médians à un individu et dire à un autre : « les médians ne sont pas contents de vous ».
 
-En examinant la validité de tels messages, au moins deux difficultés se présentent. Plusieurs sources ont déclaré qu'aucun autre message n'a été reçu des êtres célestes après celui qui a donné la permission de publier _Le Livre d'URANTIA_. Une deuxième difficulté est de savoir comment concilier ces affirmations avec le contenu du livre. Sur LU 93 : 2.8, il est indiqué :
+En examinant la validité de tels messages, au moins deux difficultés se présentent. Plusieurs sources ont déclaré qu'aucun autre message n'a été reçu des êtres célestes après celui qui a donné la permission de publier _Le Livre d'URANTIA_. Une deuxième difficulté est de savoir comment concilier ces affirmations avec le contenu du livre. Sur LU 93 : 2.8, il est indiqué :
 
 > « _Durant son incarnation, Machiventa resta en contact continu avec ses onze compagnons du corps des conservateurs planétaires, mais il ne pouvait communiquer avec d’autres ordres de personnalités célestes. En dehors des administrateurs provisoires Melchizédeks, il n’avait pas plus de contact avec des intelligences suprahumaines qu’un être humain ordinaire._ » ([LU 93:2.8](/fr/The_Urantia_Book/93#p2_8))
 
-Semble-t-il probable que Christy aurait été mieux placée pour communiquer avec des personnalités célestes que Machiventa Melchizédek ? En vous rappelant que toute communication avec le monde spirituel doit nous parvenir via notre Ajusteur de Pensée, considérez cette déclaration du Livre :
+Semble-t-il probable que Christy aurait été mieux placée pour communiquer avec des personnalités célestes que Machiventa Melchizédek ? En vous rappelant que toute communication avec le monde spirituel doit nous parvenir via notre Ajusteur de Pensée, considérez cette déclaration du Livre :
 
 > « _...il est risqué de tenter une discrimination entre l’enregistrement des concepts de l’Ajusteur et la réception plus ou moins continue des ordres de la conscience mortelle. Ce sont des problèmes qui doivent être résolus par le discernement individuel et les décisions personnelles. En tous cas, si un être humain se trompe en rejetant l’expression d’un Ajusteur parce qu’il croit que c’est une expérience purement humaine, cela vaut mieux pour lui que de commettre la bévue d’exalter une réaction du mental humain en lui attribuant une dignité divine. N’oubliez pas que l’influence d’un Ajusteur de Pensée s’exerce en majeure partie, quoique non entièrement, comme une expérience superconsciente._ » ([LU 110:5.5](/fr/The_Urantia_Book/110#p5_5))
 
@@ -35,7 +35,7 @@ Considérons maintenant un message antérieur, supposément provenant d'une sour
 
 La version de Mark Kulieke est encore plus maladroite. Les deux versions contiennent deux erreurs flagrantes car ni le trust de droit commun ni les droits d'auteur n'étaient détenus en 1942. Les messages provenant de sources prétendument célestes semblent avoir été responsables de nombreux conflits dans le mouvement Urantia. Certains de ces problèmes auraient-ils pu être évités si ce type de message avait reçu le même degré de scepticisme extrême que le Dr Sadler, lorsqu'il considérait la validité des Cahiers d'Urantia ?
 
-La discussion du groupe d'étude s'est terminée par des délibérations sur la signification de ces passages de la quatrième partie, la vie de Jésus :
+La discussion du groupe d'étude s'est terminée par des délibérations sur la signification de ces passages de la quatrième partie, la vie de Jésus :
 
 > _Ce soir-là, après la séance des questions et réponses, Jean dit à Jésus : « Maitre, je suis allé hier à Ashtarot voir un homme qui enseignait en ton nom et qui prétendait même être capable de chasser des démons. Or, cet homme n’a jamais été avec nous et ne nous suit pas ; je lui ai donc défendu d’agir ainsi. » Jésus dit alors : « Ne le lui interdis pas. Ne perçois-tu pas que l’évangile du royaume sera bientôt proclamé dans le monde entier ? Comment peux-tu espérer que tous ceux qui croient à l’évangile seront soumis à tes directives ? Réjouis-toi de ce que notre enseignement ait déjà commencé à se répandre hors des limites de notre influence personnelle. »_ ([LU 159:2.1](/fr/The_Urantia_Book/159#p2_1))
 

@@ -27,14 +27,14 @@ De mon point de vue, la grande différence entre cette conférence et celle de S
 
 William Wentworth, Towamba, Nouvelle-Galles du Sud
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « La religion ne peut être ni conférée, ni reçue, ni prêtée, ni apprise, ni perdue. Elle est une expérience personnelle qui grandit proportionnellement à la recherche croissante des valeurs finales. » ([LU 100:1.7](/fr/The_Urantia_Book/100#p1_7))
 
 
 ## Cher 6-0-6
 
-Salutations de W-Tree ! Merci pour votre note dramatique de cape et de poignard dans le dernier bulletin d'information.
+Salutations de W-Tree ! Merci pour votre note dramatique de cape et de poignard dans le dernier bulletin d'information.
 
 Nous avons noté l'autre soir dans notre groupe d'étude que le _Livre d'URANTIA_ fait la distinction entre le comportement des individus et les méthodes d'administration du gouvernement. De nombreuses actions inacceptables de la part des individus sont considérées comme inévitables dans le cadre de la gestion d'une communauté. L’État a tout intérêt à mettre fin à la vie d’individus indésirables, et les erreurs ne semblent pas très graves. Il s'agit d'une position très différente de celle de notre culture, mais attrayante, mais difficile à changer de culture... Il faut y réfléchir davantage !
 
@@ -47,7 +47,7 @@ Notre cher ami Henry Begemann aux Pays-Bas a lancé un groupe d'étude par courr
 
 À titre d'échantillon, Henry nous a envoyé une étude sur le Fascicule 112, section 4, Les Ajusteurs après la mort. (Nous venions d'étudier cette section dans notre groupe d'étude de midi à Glen Waverley une semaine avant de recevoir cette lettre.)
 
-Cela pourrait devenir le plus grand groupe d’étude mondial du _Livre d’URANTIA_. C'est comme tu veux! Unissons nos esprits dans notre recherche commune de la vérité ! Alors écrivez-nous et nous veillerons à ce que vous receviez votre exemplaire avec le prochain numéro du 6-0-6.
+Cela pourrait devenir le plus grand groupe d’étude mondial du _Livre d’URANTIA_. C'est comme tu veux! Unissons nos esprits dans notre recherche commune de la vérité ! Alors écrivez-nous et nous veillerons à ce que vous receviez votre exemplaire avec le prochain numéro du 6-0-6.
 
 ## Mon chemin « Lumière » et « Rayon » vers Dieu
 
@@ -89,9 +89,9 @@ Leith Luckett, Melbourne
 
 ## Annonce du symposium et appel à communications
 
-Le week-end du 13 au 15 mai 1988 a été fixé pour le Symposium Scientifique I, le premier des trois Symposiums Scientifiques nationaux (ou peut-être internationaux) annuels. Se tenant à Nashville, Tennessee, il proposera des présentations de scientifiques lecteurs et non lecteurs dans le but de clarifier et de mieux comprendre les descriptions et les informations contenues dans Le Livre d'URANTIA concernant les sciences naturelles, biologiques et comportementales. Le thème sera : « La vision croissante de l'homme » ([LU 118:10.13](/fr/The_Urantia_Book/118#p10_13))
+Le week-end du 13 au 15 mai 1988 a été fixé pour le Symposium Scientifique I, le premier des trois Symposiums Scientifiques nationaux (ou peut-être internationaux) annuels. Se tenant à Nashville, Tennessee, il proposera des présentations de scientifiques lecteurs et non lecteurs dans le but de clarifier et de mieux comprendre les descriptions et les informations contenues dans Le Livre d'URANTIA concernant les sciences naturelles, biologiques et comportementales. Le thème sera : « La vision croissante de l'homme » ([LU 118:10.13](/fr/The_Urantia_Book/118#p10_13))
 
-Les personnes intéressées à participer ou à assister doivent écrire : Symposium Scientifique I, P.O. Boîte 23238, Nashville, TN 37202, États-Unis. Pour être inscrit sur la liste de diffusion, envoyez simplement votre nom et votre adresse à l'adresse ci-dessus. Ceux qui souhaitent présenter des articles doivent soumettre un titre, une brève description, env. temps de présentation et une notice biographique du parcours scientifique de l'auteur.
+Les personnes intéressées à participer ou à assister doivent écrire : Symposium Scientifique I, P.O. Boîte 23238, Nashville, TN 37202, États-Unis. Pour être inscrit sur la liste de diffusion, envoyez simplement votre nom et votre adresse à l'adresse ci-dessus. Ceux qui souhaitent présenter des articles doivent soumettre un titre, une brève description, env. temps de présentation et une notice biographique du parcours scientifique de l'auteur.
 
 ## À propos de la réincarnation
 

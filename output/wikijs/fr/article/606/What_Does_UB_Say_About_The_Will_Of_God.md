@@ -15,7 +15,7 @@ S'adressant à Nicodème, Jésus dit :
 
 > « _Si tu veux te laisser conduire par cet esprit d’en haut, tu commenceras très bientôt à voir avec les yeux de l’esprit ; ensuite, si tu choisis de tout cœur la gouverne de l’esprit, tu naitras d’esprit, car le dessein unique de ta vie sera de faire la volonté de ton Père qui est aux cieux. En te trouvant ainsi né de l’esprit et heureux dans le royaume de Dieu, tu commenceras à produire, dans la vie quotidienne, les abondants fruits de l’esprit._ » ([LU 142:6.7](/fr/The_Urantia_Book/142#p6_7))
 
-Cela ne vous laisse pas beaucoup de marge de manœuvre, à vous les humains. Mais qu’implique l’expression « faire la volonté de Dieu » ? Je vais laisser le Livre répondre à toutes les questions, du moins en grande partie. La première chose est de placer votre vie terrestre dans la bonne perspective. Vous devez savoir maintenant que le livre utilise des noms assez étranges pour divers êtres célestes et groupes de ceux-ci. C'est peut-être parce qu'ils ont été traduits à partir d'une autre langue et d'une autre culture. Quoi qu’il en soit, il existe un groupe de séraphins appelés les Quickeners of Morality qui ont ceci à dire :
+Cela ne vous laisse pas beaucoup de marge de manœuvre, à vous les humains. Mais qu’implique l’expression « faire la volonté de Dieu » ? Je vais laisser le Livre répondre à toutes les questions, du moins en grande partie. La première chose est de placer votre vie terrestre dans la bonne perspective. Vous devez savoir maintenant que le livre utilise des noms assez étranges pour divers êtres célestes et groupes de ceux-ci. C'est peut-être parce qu'ils ont été traduits à partir d'une autre langue et d'une autre culture. Quoi qu’il en soit, il existe un groupe de séraphins appelés les Quickeners of Morality qui ont ceci à dire :
 
 > « _Votre court séjour sur Urantia, sphère d’enfance de mortel, n’est qu’un seul chainon, le tout premier dans la longue chaine qui s’étend à travers les univers et au long des âges éternels. Il ne s’agit pas tant de ce que vous apprenez dans cette première vie ; c’est l’expérience de vivre cette vie qui est importante. Même le *travail* dans ce monde, si important qu’il soit, n’est pas de loin aussi important que la *manière* dont vous l’effectuez._ »
 > 
@@ -41,7 +41,7 @@ Ainsi, le désir de faire la volonté de Dieu équivaut à chercher à être com
 
 > « _Ensuite, Jésus dit : « Vous trébucherez sur mon enseignement parce que vous avez coutume d’interpréter mon message à la lettre ; vous êtes lents à discerner l’esprit de mon enseignement. Il faut aussi vous rappeler que vous êtes mes messagers. Vous êtes tenus de vivre votre vie comme j’ai vécu la mienne en esprit. Vous êtes mes représentants personnels, mais ne vous trompez pas en espérant que tous les hommes vivront en tous points comme vous. N’oubliez jamais que j’ai des brebis qui ne font pas partie de ce troupeau, et que je suis également tenu de leur fournir le modèle pour la manière de faire la volonté de Dieu tout en vivant la vie de la nature mortelle. »_ » ([LU 140:6.8](/fr/The_Urantia_Book/140#p6_8))
 
-Sur LU 153 :3.2, Jésus dit :
+Sur LU 153 :3.2, Jésus dit :
 
 « J’ai vécu cette vie dans la chair de manière à inspirer tous les hommes à chercher toujours à connaître et à faire la volonté du Père céleste qui demeure en nous. » [LU 153:3.2](/fr/The_Urantia_Book/153#p3_2)
 

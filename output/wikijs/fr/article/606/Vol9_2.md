@@ -29,7 +29,7 @@ Récemment, je suis allé à une retraite d’étude et d’activités d’une d
 
 Changer Urantia commence par changer nos attitudes en nous-mêmes. Un léger changement de conscience pour imaginer l'amitié, la compréhension et l'élévation spirituelle qui découlent de l'expérience de ces rassemblements et comment ces dons restent avec nous, nous fournissant l'inspiration et l'énergie pour retourner dans le monde et changer. Changement provoqué par une véritable expérience de partage avec des compatriotes urantiens se réunissant dans un esprit de coopération de tous les coins d'Urantia.
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « La croix se dresse véritablement comme le signe de la plus haute forme de service désintéressé, du dévouement suprême consistant à effuser pleinement une vie de droiture au service d’un ministère accompli de tout cœur, même dans la mort, la mort sur la croix. » ([LU 188:5.9](/fr/The_Urantia_Book/188#p5_9))
 
@@ -41,7 +41,7 @@ Il y a quelque temps, alors que j'expérimentais le culte de groupe avec quelque
 
 Willian Wentworth, Towamba, Nouvelle-Galles du Sud.
 
-## Vous êtes déjà en quête d'une réponse ?
+## Vous êtes déjà en quête d'une réponse ?
 
 Pouvez-vous vous rappeler comment vous avez tenté d'expliquer à quelqu'un « qui » a écrit le Livre d'URANTIA ? Vous souvenez-vous de la réaction face à une telle révélation ou a-t-elle contribué au rejet du livre ?
 
@@ -122,7 +122,7 @@ Récemment, un matin, on m'a montré cette corrélation entre l'impasse mentale 
 
 Inscriptions à la réunion régionale du Pacifique Sud des lecteurs du Livre d'URANTIA à Ranelagh House, Rubertson, N.S.W. les 10 et 14 octobre 1988 sont désormais attendus.
 
-Veuillez envoyer votre formulaire d'inscription avec 50 A\$ (australiens) à :
+Veuillez envoyer votre formulaire d'inscription avec 50 A\$ (australiens) à :
 
 Kathleen \& Trevor Swadling, 7 Walsh St, Narrabeen, NSW 2101
 

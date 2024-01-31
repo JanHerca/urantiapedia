@@ -27,7 +27,7 @@ Lors d'une lecture occasionnelle, _Le Livre d'URANTIA_ semble avoir remplacé ce
 
 Alors qu’est-il arrivé aux méchants ?
 
-Cette semaine encore, je lisais sur les séconaphimes tertiaires dans _Le Livre d'URANTIA_, quand je suis tombé sur ce commentaire :
+Cette semaine encore, je lisais sur les séconaphimes tertiaires dans _Le Livre d'URANTIA_, quand je suis tombé sur ce commentaire :
 
 > « _Le Mémoire de la Miséricorde dévoile la dette morale des enfants de miséricorde — leur passif spirituel — à mettre en balance avec l’actif de leur réserve de salut fixée par les Fils de Dieu._ » ([LU 28:6.5](/fr/The_Urantia_Book/28#p6_5))
 
@@ -35,7 +35,7 @@ Cela m'a fait m'asseoir et prendre note. Puis un peu plus loin :
 
 > « _Le Mémoire de la Miséricorde est un vivant bilan, un exposé à jour de votre compte chez les forces surnaturelles des royaumes. Ces archives vivantes du ministère de miséricorde sont lues en témoignage devant les tribunaux d’Uversa lorsque le droit de chaque individu à la vie perpétuelle vient en jugement, lorsque « les trônes sont placés et que les Anciens des Jours prennent leur siège. Les télédiffusions d’Uversa sont émises et sortent de devant eux ; des milliers et des milliers d’êtres leur apportent leur ministère, et dix-mille fois dix-mille se tiennent devant eux, le tribunal siège et les livres sont ouverts. »._ » ([LU 28:6.6](/fr/The_Urantia_Book/28#p6_6))
 
-Cela ne donne certainement pas l’impression que je vais faire table rase de l’ardoise. Peut-être que je devrai faire une sorte de réparation pour ces trois mensonges que j'ai racontés une fois. (Je suppose que cela fait quatre ?) J'ai trouvé une confirmation :
+Cela ne donne certainement pas l’impression que je vais faire table rase de l’ardoise. Peut-être que je devrai faire une sorte de réparation pour ces trois mensonges que j'ai racontés une fois. (Je suppose que cela fait quatre ?) J'ai trouvé une confirmation :
 
 > « _...alors que la justice exige le jugement de toute faute dans l’ascension vers la perfection divine, la miséricorde requiert que chaque faux pas soit jugé selon la nature de la créature et le dessein divin._ » ([LU 39:1.8](/fr/The_Urantia_Book/39#p1_8))
 
@@ -59,5 +59,5 @@ Je veux conclure ces pérégrinations maudlines d’un esprit introspectif par u
 
 > « _Isoler une partie de la vie et l’appeler religion, c’est désintégrer la vie et défigurer la religion. C’est justement pourquoi le Dieu d’adoration réclame une fidélité totale, ou n’en demande aucune._ » ([LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
 
-Cela mérite réflexion, car il n’y a rien qui puisse être caché, rien qui ne soit exposé. Le pire, c’est que notre tendance inhérente à l’auto-exonération tend à devenir habituelle. Déplace-toi, Job !
+Cela mérite réflexion, car il n’y a rien qui puisse être caché, rien qui ne soit exposé. Le pire, c’est que notre tendance inhérente à l’auto-exonération tend à devenir habituelle. Déplace-toi, Job !
 

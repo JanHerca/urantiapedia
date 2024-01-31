@@ -66,7 +66,7 @@ _La signification du mot “ pouvoir ”._ Les fascicules reconnaissent qu’ils
 > 
 > [LU 0:6.2](/fr/The_Urantia_Book/0#p6_2) Le pouvoir signifie aussi la souveraineté.
 
-Dans les royaumes physiques, le mot “ pouvoir ” (comme dans la phrase, “ pouvoir universel ”) est appliqué à ce stade d’évolution de l’énergie dans lequel l’énergie émergente est devenue sujette au contrôle intelligent du Septuple et du Suprême. [LU 42:2.14](/fr/The_Urantia_Book/42#p2_14) Concernant le mental et l’esprit, nous devrions raisonner par analogie: le mental émergent et l’esprit émergent (l’esprit émergeant de l’Absolu de Déité) auraient aussi leurs stades de développement arrivés à maturité qui seraient analogues “ au pouvoir universel ”. Ces trois énergies, lorsqu’elles sont contrôlées par les Créateurs Suprêmes, et intégrées dans le Tout-Puissant, sembleraient représenter le pouvoir – le pouvoir souverain du Tout-Puissant Suprême – dans le plein sens du terme [LU 116:4.1](/fr/The_Urantia_Book/116#p4_1) ; [LU 116:5.1](/fr/The_Urantia_Book/116#p5_1).
+Dans les royaumes physiques, le mot “ pouvoir ” (comme dans la phrase, “ pouvoir universel ”) est appliqué à ce stade d’évolution de l’énergie dans lequel l’énergie émergente est devenue sujette au contrôle intelligent du Septuple et du Suprême. [LU 42:2.14](/fr/The_Urantia_Book/42#p2_14) Concernant le mental et l’esprit, nous devrions raisonner par analogie: le mental émergent et l’esprit émergent (l’esprit émergeant de l’Absolu de Déité) auraient aussi leurs stades de développement arrivés à maturité qui seraient analogues “ au pouvoir universel ”. Ces trois énergies, lorsqu’elles sont contrôlées par les Créateurs Suprêmes, et intégrées dans le Tout-Puissant, sembleraient représenter le pouvoir – le pouvoir souverain du Tout-Puissant Suprême – dans le plein sens du terme [LU 116:4.1](/fr/The_Urantia_Book/116#p4_1) ; [LU 116:5.1](/fr/The_Urantia_Book/116#p5_1).
 
 ## § 2. Pourquoi la Synthèse Pouvoir - Personnalité a-t-elle lieu?
 
@@ -218,7 +218,7 @@ _Pourquoi le pouvoir Tout-Puissant converge-t-il ?_ Quelle est la raison qui fai
 > 5\. L’esprit Infini | 5\. Le dieu d’Action
 > 6\. Le fils Éternel | 6\. L’Ile du Paradis
 > 7\. Le Père Universel | 7\. La Source du Paradis
-> (voir  [LU 116:2.5](/fr/The_Urantia_Book/116#p2_5) | (voir  [LU 116:5.2](/fr/The_Urantia_Book/116#p5_2)
+> (voir  [LU 116:2.5](/fr/The_Urantia_Book/116#p2_5) | (voir  [LU 116:5.2](/fr/The_Urantia_Book/116#p5_2)
 > 
 > **Un Aspect Possible du Mental de la Déité Septuple**
 > 

@@ -1,5 +1,5 @@
 ---
-title: « Dites bonjour à un camarade urantien »
+title: « Dites bonjour à un camarade urantien »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -19,7 +19,7 @@ Parce que dans la plupart des endroits, nous ne sommes restés qu'une nuit et qu
 
 Parfois, je n'avais qu'un numéro de boîte aux lettres, comme c'était le cas à Parkes, NSW. Et avec un nom comme Johnston, vous pouvez avoir quelques ennuis. J'ai essayé tous les Johnatons de l'annuaire téléphonique, mais je n'ai pas eu de chance.
 
-« Recevez-vous une newsletter Six-0-Six ? » était ma question habituelle (ou était-ce inhabituel ?). « Un quoi? » serait la réponse.
+« Recevez-vous une newsletter Six-0-Six ? » était ma question habituelle (ou était-ce inhabituel ?). « Un quoi? » serait la réponse.
 
 Mais après six jours de voyage, nous avons été récompensés lorsque Leslie Thackeray, ravie, m'a pris dans ses bras et m'a fait un gros câlin. Certains lecteurs se rappelleront peut-être que Leslie et son mari Jo (tous deux étudiants de l'école URANTIA à Boulder, Colorado) parcourent l'Australie à vélo. (Oui, c'est vrai, le push-biking !) J'ai également été ravi de rencontrer un autre élève de cette école. La mère de Leslie, la charmante Gwen Henzel, qui venait d'arriver des États-Unis. Ils vivent tous dans une ferme située à environ 10 km d'un beau petit chat dans la forêt tropicale humide du nord du Queensland. Les aborigènes ont nommé cette ville « Kuranda » ou « Lieu de rencontre des esprits ».
 
@@ -47,7 +47,7 @@ Après six jours à Kurande, nous sommes lentement rentrés chez nous. À Athert
 
 « J'ai essayé plusieurs fois de former un groupe d'étude, mais pour le moment je suis de nouveau seul », m'a-t-il dit. Il a été en contact avec de nombreux courants philosophiques différents et constate qu'il s'intéresse de plus en plus au _Livre d'URANTIA_. Ces différentes philosophies servent très souvent de cadre de concepts nécessaire sur lequel greffer cette nouvelle révélation. Continuez votre bon travail Geoff!
 
-Il m’a également parlé des « millions de minutes de paix » et m’a remis quelques cassettes à transmettre au groupe d’étude de Melbourne.
+Il m’a également parlé des « millions de minutes de paix » et m’a remis quelques cassettes à transmettre au groupe d’étude de Melbourne.
 
 L’un d’eux est un discours de Barbara Marx Hubbard intitulé : « Le saut quantique ».
 

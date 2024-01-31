@@ -17,7 +17,7 @@ L'article précédent d'Ernest Moyer sur la paternité du _Livre d'URANTIA_ comm
 
 > « _Le surmenage de la vie — la tension de la personnalité dans le temps — devrait être allégé par le repos que procure l’adoration. Le sentiment d’insécurité né de la peur de l’isolement de la personnalité dans l’univers devrait avoir pour antidote la contemplation du Père par la foi et la tentative de réalisation du Suprême._ » ([LU 143:7.3](/fr/The_Urantia_Book/143#p7_3))
 
-Comment réalise-t-on le Suprême ? J'ai allumé mon ordinateur et j'ai appris que cette phrase apparaît seulement quatre fois dans tout le _Livre d'URANTIA_. La première citation vient de l'avant-propos dans un paragraphe décrivant l'actualisation expérientielle de la Déité :
+Comment réalise-t-on le Suprême ? J'ai allumé mon ordinateur et j'ai appris que cette phrase apparaît seulement quatre fois dans tout le _Livre d'URANTIA_. La première citation vient de l'avant-propos dans un paragraphe décrivant l'actualisation expérientielle de la Déité :
 
 > « _L’achèvement de ce développement expérientiel a pour but de procurer une destinée ultime de service à toutes les créatures de l’espace-temps qui ont atteint les niveaux absonites par l’achèvement de la réalisation de l’Être Suprême et par le ministère de Dieu le Septuple._ » ([LU 0:9.1](/fr/The_Urantia_Book/0#p9_1))
 

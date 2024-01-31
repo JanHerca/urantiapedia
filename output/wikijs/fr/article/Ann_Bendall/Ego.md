@@ -23,7 +23,7 @@ Mon ego est avec moi bien avant l’arrivée de mon Ajusteur de Pensée. Très t
 
 Ensuite, le plaisir commence pour mon ego (qui est devenu moins égoïste), alors que mes socialisateurs bien intentionnés, mais souvent mal orientés, m'initient aux règles culturelles afin que je devienne un bon animal social, et j'adopte des pratiques qui remportent les applaudissements de tous. ceux qui m'entourent, mais perturbent profondément mon sens moral inné. Et donc je me plie à leur ego pour m’assurer que mon ego reste gentil et imperturbable. Et au milieu de cette mêlée se trouve mon Ajusteur de Pensée qui essaie de surmonter le concept d'altruisme ([LU 103:2.7](/fr/The_Urantia_Book/103#p2_7)).
 
-Si ce concept apparaît au milieu d'un environnement social qui m'endoctrine à croire que mon rôle dans la vie est d'assurer le plaisir des autres, alors il y a un gros problème. Mon concept de soi dit qu’il ne devrait pas y avoir de « moi » dans ma vie :
+Si ce concept apparaît au milieu d'un environnement social qui m'endoctrine à croire que mon rôle dans la vie est d'assurer le plaisir des autres, alors il y a un gros problème. Mon concept de soi dit qu’il ne devrait pas y avoir de « moi » dans ma vie :
 
 > « _...Quand l’enfant grandissant ne réussit pas à unifier sa personnalité, l’incitation altruiste peut s’hypertrophier au point de nuire sérieusement au bienêtre du moi. Une conscience qui manque de discernement peut devenir responsable de beaucoup de conflits, soucis et tristesses, et de malheurs humains sans fin._ » ([LU 103:2.10](/fr/The_Urantia_Book/103#p2_10))
 
@@ -33,7 +33,7 @@ Je pars dans le monde en désirant être moral et altruiste, et mon cher ego s'i
 
 > « _...l’interprétation humaine des conflits primitifs entre la volonté égocentrique et la volonté hétérocentrique. Il faut une personnalité assez bien unifiée pour arbitrer les démêlés multiformes entre les appétits de l’égo et la conscience sociale en éclosion. Notre moi a des droits aussi bien que notre prochain. Ni l’un ni l’autre ne peuvent prétendre accaparer exclusivement l’attention et le service de l’individu. L’impuissance à résoudre ce problème donne naissance aux types les plus primitifs de sentiments humains de culpabilité._ » ([LU 103:5.4](/fr/The_Urantia_Book/103#p5_4))
 
-N'ayant pas une personnalité bien unifiée, j'en sais aussi beaucoup sur la culpabilité, et c'est un soulagement de découvrir que cette culpabilité est tout à fait naturelle et normale pour un enfant de Dieu en pleine croissance :
+N'ayant pas une personnalité bien unifiée, j'en sais aussi beaucoup sur la culpabilité, et c'est un soulagement de découvrir que cette culpabilité est tout à fait naturelle et normale pour un enfant de Dieu en pleine croissance :
 
 > « _Tout être humain éprouve de très bonne heure une sorte de conflit entre ses impulsions égocentriques et ses impulsions altruistes, et, bien des fois, sa première expérience d’avoir conscience de Dieu peut provenir de sa recherche d’une aide suprahumaine pour résoudre de tels conflits moraux._ » ([LU 103:2.4](/fr/The_Urantia_Book/103#p2_4))
 
@@ -55,23 +55,23 @@ L'ego religieux peut être un problème. C’est celui qui peut potentiellement 
 
 Donc, si je pense que je suis un génie religieux, il y a de fortes chances que je ne le sois pas, surtout si je sens aussi que ma vocation est de « sauver le monde ».
 
-L’ego qui prie est un ego gentil :
+L’ego qui prie est un ego gentil :
 
 > « _La prière a toujours indiqué une action positive de la part de l’égo qui la prononçait ; elle a toujours été psychique et parfois spirituelle._ » ([LU 91:2.2](/fr/The_Urantia_Book/91#p2_2))
 
-Je dois faire des prières différentes autres que « Dieu me donne la force » ou « Écoutez, pourriez-vous soigner tout le monde autour de moi pour que ma vie soit plus facile ? » Je soupçonne que j'ai beaucoup à apprendre de Jésus sur la prière. (Il y a un récit fabuleux sur la façon dont Jésus a prié à la page [LU 196:0.10](/fr/The_Urantia_Book/196#p0_10).)
+Je dois faire des prières différentes autres que « Dieu me donne la force » ou « Écoutez, pourriez-vous soigner tout le monde autour de moi pour que ma vie soit plus facile ? » Je soupçonne que j'ai beaucoup à apprendre de Jésus sur la prière. (Il y a un récit fabuleux sur la façon dont Jésus a prié à la page [LU 196:0.10](/fr/The_Urantia_Book/196#p0_10).)
 
-Et puis il y a l’alter ego. Ceci est un autre ego sympa, fortement recommandé pour prier :
+Et puis il y a l’alter ego. Ceci est un autre ego sympa, fortement recommandé pour prier :
 
 > « _La prière éclairée doit reconnaitre non seulement un Dieu extérieur et personnel, mais aussi une Divinité intérieure et impersonnelle, l’Ajusteur qui vous habite. Quand un homme prie, il est tout à fait juste qu’il s’efforce de saisir le concept du Père Universel au Paradis ; mais, pour la plupart des buts pratiques, une technique plus efficace consistera à revenir au concept d’un proche alter égo, exactement comme le mental primitif avait l’habitude de le faire, et on reconnaitra ensuite que l’idée de cet alter égo était tout d’abord une simple fiction devenue ensuite, par évolution, la vérité que Dieu habite l’homme mortel par la présence de fait de l’Ajusteur ; de sorte que l’homme peut ainsi parler, pour ainsi dire, face à face, avec un divin alter ego réel et authentique qui l’habite et qui est l’essence et la présence même du Dieu vivant, le Père Universel._ » ([LU 91:3.7](/fr/The_Urantia_Book/91#p3_7))
 
-Et si vous pouvez intégrer un peu d’adoration à votre prière :
+Et si vous pouvez intégrer un peu d’adoration à votre prière :
 
 > « _... transcende toutes les pratiques de cet ordre, car elle conduit à cultiver les idéaux divins. De même que le concept de l’alter égo de la prière devient suprême et divin, de même les idéaux humains s’élèvent en conséquence du niveau purement humain vers les niveaux célestes et divins, et le résultat de toutes ces prières est le rehaussement du caractère humain et la profonde unification de la personnalité humaine._ » ([LU 91:5.1](/fr/The_Urantia_Book/91#p5_1))
 
 Je crois que la technique la plus efficace pour garantir que mon ego ne devienne pas égoïste en apparence est de me rappeler que Dieu est personnellement présent en moi. Laissez le monde me saluer comme bon lui semble, altruiste, maniaque de l'ego ou n'importe où entre les deux. Je sais exactement ce que je suis : un cher petit Dieu-enfant qui essaie si honnêtement de grandir, tout en reconnaissant pleinement mon héritage animal. Si je suis considéré comme bon ou si je me sens bien, je n’ai aucun doute sur le mérite : Dieu. Pour mon concept de soi, mon ego, cela ne suscite aucune préoccupation de crédit mal placé. Car Dieu et moi sommes un partenariat inséparable.
 
-Mon pur désir est d’avoir Dieu et moi si proches que nous pensons, ressentons et soyons pareils. Un jour, je sais, grâce à Dieu, j'atteindrai cet état de conscience ininterrompue. Donc, si j'ai une pensée idiote et non basée sur la réalité, comme à quel point je suis vraiment intelligent, bon et brillant pour avoir suivi si brillamment les conseils de mon Ajusteur de Pensée (c'est-à-dire en magnifiant mon importance personnelle) :
+Mon pur désir est d’avoir Dieu et moi si proches que nous pensons, ressentons et soyons pareils. Un jour, je sais, grâce à Dieu, j'atteindrai cet état de conscience ininterrompue. Donc, si j'ai une pensée idiote et non basée sur la réalité, comme à quel point je suis vraiment intelligent, bon et brillant pour avoir suivi si brillamment les conseils de mon Ajusteur de Pensée (c'est-à-dire en magnifiant mon importance personnelle) :
 
 > « _Si nous sommes tentés d’exagérer notre importance, nous n’avons qu’à contempler l’infinité de la noblesse et de la grandeur de nos Créateurs ; notre propre glorification devient alors sublimement ridicule et frise même l’humour. L’une des fonctions de l’humour est de nous aider tous à nous prendre moins au sérieux. *L’humour est l’antidote divin contre l’exaltation de l’égo.*_ » ([LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
 

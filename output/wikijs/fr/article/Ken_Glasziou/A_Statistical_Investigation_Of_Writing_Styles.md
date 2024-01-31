@@ -1,5 +1,5 @@
 ---
-title: « Une enquête statistique sur les styles d'écriture dans les Cahiers d'Urantia »
+title: « Une enquête statistique sur les styles d'écriture dans les Cahiers d'Urantia »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -33,7 +33,7 @@ Le programme de recherche FolioViews, en combinaison avec une base de données d
 
 > Les progrès récents de la technologie informatique et l'existence d'excellents programmes de recherche ont rendu possible l'investigation de travaux même longs. Les méthodes choisies par cet auteur pour enquêter sur _Le Livre d'URANTIA_ étaient largement dictées par la commodité avec laquelle des faits de nature statistique pouvaient être extraits d'une base de données FolioViews pour le livre.
 
-Aux fins d'une première enquête, les articles ont été répartis comme suit : Avant-propos (pages 1 à 20) ; Partie 1 (pages 21 à 354) ; Documents du Conseiller Divin (pages 21-107) ; Partie 2 (pages 357 à 648) ; Partie 3 (pages 651-1307) ; Documents de porteur de vie (pages 651 à 740) ; Cahiers de Melchisédek (pages 1003-1175) ; Documents de messager solitaire (pages 1176-1240) ; Documents 120 et 121 (pages 1308-1331) ; et Partie 4, The Jesus Papers (pages 1332-2097). La distribution du Chi carré a été utilisée pour tous les tests statistiques. Le tableau montre les mots utilisés comme début de phrase et les diverses comparaisons qui ont été faites, ainsi que l'estimation du chi carré de la probabilité que les paramètres testés soient véritablement indépendants.
+Aux fins d'une première enquête, les articles ont été répartis comme suit : Avant-propos (pages 1 à 20) ; Partie 1 (pages 21 à 354) ; Documents du Conseiller Divin (pages 21-107) ; Partie 2 (pages 357 à 648) ; Partie 3 (pages 651-1307) ; Documents de porteur de vie (pages 651 à 740) ; Cahiers de Melchisédek (pages 1003-1175) ; Documents de messager solitaire (pages 1176-1240) ; Documents 120 et 121 (pages 1308-1331) ; et Partie 4, The Jesus Papers (pages 1332-2097). La distribution du Chi carré a été utilisée pour tous les tests statistiques. Le tableau montre les mots utilisés comme début de phrase et les diverses comparaisons qui ont été faites, ainsi que l'estimation du chi carré de la probabilité que les paramètres testés soient véritablement indépendants.
 
 Il a été proposé que le Dr Sadler était capable de rédiger le matériel scientifique, géologique et biologique décrivant les débuts de l'histoire de la Terre (articles 57 à 62), les articles fournissant une couverture approfondie sur la religion et la théologie (partie 1 et articles 99). -107), ainsi que la partie IV (La vie et les enseignements de Jésus). Une deuxième étude a été entreprise pour déterminer si ces articles étaient effectivement rédigés par un seul auteur. Dans ce cas, des mots marqueurs suggérés par Mosteller et Wallace, tels que « un », « aussi », « sur », « par », « là », « ceci », etc., ont été utilisés pour tester cette hypothèse en suivant les procédures suggérées par Kenny (1982).
 
@@ -90,5 +90,5 @@ _Tableau. Une comparaison des styles d'écriture dans différentes sections du L
 | « | « | Life Carrier et livre entier | 0,1 |
 | « | « | Avant-propos et Divin Conseiller | 0,1 |
 
-[Remarque : Un niveau de probabilité de 0,1 % indique qu'il y a moins d'une chance sur 1 000 que les deux comparaisons effectuées soient tirées du même échantillon. En d’autres termes, un niveau de signification de 0,1 % indique qu’il y a moins d’une chance sur mille que les deux échantillons aient les mêmes auteurs. Le niveau de 5 % est généralement accepté et indique une différence significative.]
+[Remarque : Un niveau de probabilité de 0,1 % indique qu'il y a moins d'une chance sur 1 000 que les deux comparaisons effectuées soient tirées du même échantillon. En d’autres termes, un niveau de signification de 0,1 % indique qu’il y a moins d’une chance sur mille que les deux échantillons aient les mêmes auteurs. Le niveau de 5 % est généralement accepté et indique une différence significative.]
 

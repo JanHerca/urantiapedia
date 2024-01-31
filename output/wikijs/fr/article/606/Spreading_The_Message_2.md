@@ -27,7 +27,7 @@ Si l’idée vous séduit et que vous êtes un auteur frustré, que diriez-vous 
 
 Envoyez vos contributions au « Book Project, Six-O-Six ». Une seule histoire serait utile, mais ne vous sentez pas limitée. L'objectif ultime est un livre illustré, comprenant des cartes, particulièrement adapté aux lecteurs adolescents et adultes. Nous ne visons pas le côté intellectuel du marché, alors restez simple.
 
-> Le Livre d'Urantia nous a instruit sur l'importance des travaux secondaires pour que ses enseignements de base soient diffusés en général (LU 2 :7.10).
+> Le Livre d'Urantia nous a instruit sur l'importance des travaux secondaires pour que ses enseignements de base soient diffusés en général (LU 2 :7.10).
 
 L'opération est conçue pour être un service à but non lucratif rendu au Maître. Alors ne vous attendez pas à des redevances ou à des distinctions, il n’y en aura pas. Un comité éditorial sera annoncé dès que nous l’aurons réuni. Huit chapitres sont déjà rédigés sous forme de brouillon. Les contributeurs sérieux peuvent écrire pour en obtenir une copie.
 

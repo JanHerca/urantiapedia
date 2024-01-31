@@ -39,6 +39,6 @@ Nous pouvons échanger notre esprit matériel contre l’esprit de Jésus.
 
 Hélène Hutchinson.
 
-Département de définitions inhabituelles :
+Département de définitions inhabituelles :
 Ajusteur de Pensée : Une puce de l’ancien bloc.
 

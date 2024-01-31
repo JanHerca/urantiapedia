@@ -39,7 +39,7 @@ Et une symphonie raconte un voyage
 Avec toutes ses étranges complexités
 Du goût et du toucher
 Et l'amour humain,
-Oh mon Dieu, oserais-je revenir !
+Oh mon Dieu, oserais-je revenir !
 
 **Chevalier Elfie**
 **Daylesford, Victoria**

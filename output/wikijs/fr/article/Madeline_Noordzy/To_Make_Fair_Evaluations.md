@@ -19,21 +19,21 @@ Sur LU 114:7.13 un mystérieux paragraphe entre parenthèses
 
 > « _(Le corps de réserve cosmique des citoyens d’Urantia ayant conscience de l’univers comprend présentement plus de mille mortels ayant, au sujet de la citoyenneté cosmique, une clairvoyance qui transcende de loin la sphère de leur demeure terrestre, mais il m’est interdit de révéler la vraie nature de la fonction de ce groupe exceptionnel d’êtres humains vivants.)_ » ([LU 114:7.13](/fr/The_Urantia_Book/114#p7_13))
 
-Sur LU 55 :3.11, _Le Livre d'URANTIA_ nous dit :
+Sur LU 55 :3.11, _Le Livre d'URANTIA_ nous dit :
 
 > « _Lorsqu’un monde ancré progresse au-delà du troisième stade de lumière et de vie, tous les ascendeurs sont destinés à recevoir, avant d’atteindre le secteur mineur, une affectation temporaire d’une sorte ou d’une autre sur une planète passant par les stades primitifs de l’évolution._ » ([LU 55:3.11](/fr/The_Urantia_Book/55#p3_11))
 
 Je me demande maintenant si ce corps de réserve cosmique est constitué d'ascendeurs d'autres mondes qui sont en « mission transitoire » ici sur Urantia parce qu'ils ont levé la main lorsque des volontaires étaient nécessaires pour aider à faire avancer cette planète arriérée au cours de cette renaissance de l'éveil spirituel. Ils ne seraient pas des « élus », ils se sont portés volontaires. Il existe une différence!
 
-L'affirmation de Sananda selon laquelle Machiventa apparaît à travers son corps de lumière ne me semble pas si étrange lorsque je lis sur LU 50 : 2.7 :
+L'affirmation de Sananda selon laquelle Machiventa apparaît à travers son corps de lumière ne me semble pas si étrange lorsque je lis sur LU 50 : 2.7 :
 
 > « _...les Melchizédeks peuvent se rendre visibles aux habitants des mondes évolutionnaires,_ » ([LU 50:2.7](/fr/The_Urantia_Book/50#p2_7))
 
-Surtout, cela ne semble pas étrange lorsque sur LU 93:10.6, je lis :
+Surtout, cela ne semble pas étrange lorsque sur LU 93:10.6, je lis :
 
 > « _Des ordonnances récentes, transmises par les Très Hauts d’Édentia et confirmées ensuite par les Anciens des Jours d’Uversa, donnent fortement à penser que ce Melchizédek d’effusion est destiné à prendre la place de Caligastia, le Prince Planétaire déchu. Si nos hypothèses à ce sujet sont correctes, il est tout à fait possible que Machiventa Melchizédek réapparaisse en personne sur Urantia et reprenne d’une manière modifiée le rôle du Prince Planétaire détrôné ; ou bien encore il vienne sur terre pour agir comme Prince Planétaire vice-gérant représentant Christ Micaël, qui détient actuellement le titre de Prince Planétaire d’Urantia. Bien que nous soyons loin de voir clair sur la destinée de Machiventa, des évènements survenus récemment suggèrent sérieusement que les suppositions formulées ne sont probablement pas très éloignées de la vérité._ » ([LU 93:10.6](/fr/The_Urantia_Book/93#p10_6))
 
-Sur LU 114 :1.4, le Chef des Séraphins en poste sur Urantia, écrit :
+Sur LU 114 :1.4, le Chef des Séraphins en poste sur Urantia, écrit :
 
 > « D’autres encore, y compris le narrateur, s’attendent que Melchizédek apparaisse à tout moment. » ([LU 114:1.4](/fr/The_Urantia_Book/114#p1_4))
 
@@ -41,7 +41,7 @@ Cela a bien sûr été écrit dans la première moitié de ce siècle.
 
 Les habitants de Sedona affirment que cela s'est effectivement produit.
 
-Dans le Papier 50 sur « Les Princes Planétaires », le livre mentionne sur LU 50 : 2.4 :
+Dans le Papier 50 sur « Les Princes Planétaires », le livre mentionne sur LU 50 : 2.4 :
 
 > « _L’état-major d’un dirigeant planétaire est entièrement composé de personnalités de l’Esprit Infini, de certains types d’êtres supérieurs évolués et de mortels ascendants venant d’autres mondes. Il comporte en moyenne un millier de personnes, et, à mesure que la planète progresse, le nombre d’aides de ce corps peut s’élever jusqu’à cent-mille ou davantage._ » ([LU 50:2.4](/fr/The_Urantia_Book/50#p2_4))
 
@@ -51,7 +51,7 @@ Sur LU 50:4.9 on nous dit :
 
 > « _Un Prince Planétaire n’est pas visible aux êtres mortels ; c’est une épreuve de foi que de croire aux représentations qu’en font les êtres semi-matériels de son état-major._ » ([LU 50:4.9](/fr/The_Urantia_Book/50#p4_9))
 
-Sur LU 50 :7.1, en parlant des agondonteurs, le livre dit :
+Sur LU 50 :7.1, en parlant des agondonteurs, le livre dit :
 
 > « _Nous avons découvert que ces ascendeurs se voient confier très tôt de nombreuses affectations spéciales dans des entreprises cosmiques où une foi incontestée et une confiance sublime sont essentielles pour réussir._ » ([LU 50:7.1](/fr/The_Urantia_Book/50#p7_1))
 
@@ -65,7 +65,7 @@ Je pense qu'il est important de ne pas devenir trop dogmatique à propos du _Liv
 
 Jésus nous a toujours enseigné que l'amour est la clé de tout et que lorsque l'on cherche les motivations du comportement de quelqu'un d'autre, il ne faut pas d'abord chercher le pire, celui du gain matériel et de l'autoglorification, mais avoir confiance que le Dieu en cette personne nous guide. lui ou elle de rendre un service – et peut-être très élevé – à son prochain. Hommes.
 
-En fin de compte, combien d’entre nous ont réellement vérifié cela par eux-mêmes ? Connie a-t-elle déjà rencontré ces gens à Sedona ?
+En fin de compte, combien d’entre nous ont réellement vérifié cela par eux-mêmes ? Connie a-t-elle déjà rencontré ces gens à Sedona ?
 
 Quelqu’un a écrit un jour :
 

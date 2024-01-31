@@ -25,7 +25,7 @@ Lorsque le Maître apparut sur le seuil, la pièce devint silencieuse. Jésus a 
 
 «_Jésus ne craignait aucun de ceux qui cherchaient son renversement spirituel, pas plus que ceux qui cherchaient sa mort. Il n’avait qu’une seule préoccupation, la sécurité et le salut de ses frères terrestres._ »
 
-« _Maintenant, le Maître a institué un nouveau souvenir comme symbole de la nouvelle dispensation, un nouvel esprit dans lequel l'individu asservi émerge de l'esclavage du cérémonialisme et de l'égoïsme pour entrer dans la joie spirituelle de la fraternité des fils de la foi libérés du Dieu vivant._ »
+« _Maintenant, le Maître a institué un nouveau souvenir comme symbole de la nouvelle dispensation, un nouvel esprit dans lequel l'individu asservi émerge de l'esclavage du cérémonialisme et de l'égoïsme pour entrer dans la joie spirituelle de la fraternité des fils de la foi libérés du Dieu vivant._ »
 
 Nous avons tous vécu des expériences où les croyances ont provoqué des divisions, même entre les collaborateurs les plus proches. La foi, quant à elle, unit ceux qui partagent les croyances les plus diverses. Si vous cherchiez la définition de la croyance dans le dictionnaire, vous trouveriez le mot « foi ». De même, si vous cherchiez le mot « foi », vous trouveriez le mot « croyance ». La seule façon de connaître la véritable signification de l’un ou l’autre est de vivre l’expérience.
 

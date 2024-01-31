@@ -404,5 +404,5 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Références
 
-Étude traduite de :
+Étude traduite de :
 - https://www.urantia.org/jesus/jesus

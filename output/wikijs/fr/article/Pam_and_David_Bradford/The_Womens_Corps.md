@@ -21,7 +21,7 @@ Ces dix femmes nommées dans le Corps doivent également avoir été sélectionn
 
 Les dix avaient servi dans l'ancien campement et l'infirmerie. Pendant ce temps, ils avaient écouté les instructions de Jésus aux jeunes évangélistes. Il n'est pas venu à l'esprit des dix que Jésus leur confierait la responsabilité de transmettre la parole du Maître ([LU 150:1.1](/fr/The_Urantia_Book/150#p1_1)).
 
-Les noms et origines des dix femmes étaient :
+Les noms et origines des dix femmes étaient :
 
 - **Susanna** — Fille de l'ancien chazan de la synagogue de Nazareth.
 - **Joanna** — Épouse de Chuza, l'intendant d'Hérode Antipas.

@@ -278,7 +278,7 @@ Tous ceux qui commencent l’étude de cette révélation les uns avec les autre
 
 ## Références
 
-Étude obtenue auprès de :
+Étude obtenue auprès de :
 - https://www.urantia.org/fr/etudier/la-valeur-des-groupes-d-etude
 
 ## Notes

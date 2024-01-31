@@ -17,15 +17,15 @@ Je voudrais faire quelques observations concernant la tendance actuelle de certa
 
 > « _Il [Jésus] réalisait parfaitement que cette perfide trahison était l’œuvre de Judas, mais aussi qu’elle plaisait à Lucifer, à Satan et à Caligastia,_ » ([LU 179:2.3](/fr/The_Urantia_Book/179#p2_3))
 
-Puis sur LU 183:0.4 :
+Puis sur LU 183:0.4 :
 
 > « _Jésus savait que le plan pour le faire mourir avait son origine dans les conseils des dirigeants juifs, mais il était également conscient que tous ces projets néfastes avaient la pleine approbation de Lucifer, de Satan et de Caligastia._ » ([LU 183:0.4](/fr/The_Urantia_Book/183#p0_4))
 
-Puis sur LU 66:8.6 :
+Puis sur LU 66:8.6 :
 
 > « _ni Caligastia ni Daligastia ne furent jamais capables d’opprimer les mortels ni de forcer aucun individu normal à faire quoi que ce soit à l’encontre de sa volonté humaine._ » ([LU 66:8.6](/fr/The_Urantia_Book/66#p8_6))
 
-À partir de ces déclarations et d'autres tout au long du livre, nous pourrions supposer que même les pensées bien intentionnées mais malavisées, les mauvaises pensées ou même les pensées pécheresses proviennent d'abord de l'esprit humain des gens. C’est la mise en œuvre de ces pensées en action qui pose problème. Une fois ce genre de pensées mises en pratique, Caligastia pourrait utiliser les situations à ses propres fins, mais nous ne sommes pas en mesure d’en être absolument sûrs, nous ne le savons tout simplement pas. Ce faisant, nous pourrions accorder du crédit à Caligastia là où il n’est pas dû. Par conséquent, dans ces circonstances, je pense qu’il est sage de pécher par excès de prudence plutôt que de suggérer ou d’accuser les gens d’être sous l’influence directe de Caligastia. Sur LU 110:5.5, _Le Livre d'URANTIA_ nous met en garde contre les conseils des ajusteurs :
+À partir de ces déclarations et d'autres tout au long du livre, nous pourrions supposer que même les pensées bien intentionnées mais malavisées, les mauvaises pensées ou même les pensées pécheresses proviennent d'abord de l'esprit humain des gens. C’est la mise en œuvre de ces pensées en action qui pose problème. Une fois ce genre de pensées mises en pratique, Caligastia pourrait utiliser les situations à ses propres fins, mais nous ne sommes pas en mesure d’en être absolument sûrs, nous ne le savons tout simplement pas. Ce faisant, nous pourrions accorder du crédit à Caligastia là où il n’est pas dû. Par conséquent, dans ces circonstances, je pense qu’il est sage de pécher par excès de prudence plutôt que de suggérer ou d’accuser les gens d’être sous l’influence directe de Caligastia. Sur LU 110:5.5, _Le Livre d'URANTIA_ nous met en garde contre les conseils des ajusteurs :
 
 > « _En tous cas, si un être humain se trompe en rejetant l’expression d’un Ajusteur parce qu’il croit que c’est une expérience purement humaine, cela vaut mieux pour lui que de commettre la bévue d’exalter une réaction du mental humain en lui attribuant une dignité divine._ » ([LU 110:5.5](/fr/The_Urantia_Book/110#p5_5))
 
@@ -35,7 +35,7 @@ La chose importante et pertinente sur laquelle nous devons nous concentrer dans 
 
 En examinant « Les Doctrines de Lucifer », l'une des choses détestables que nous remarquons dans le manifeste de Lucifer est qu'il semble être apparenté et lié, tout à fait délibérément emballé, pour faire appel aux tendances naturelles et vulnérables de l'humanité telles que : la facilité manière de faire les choses, résultats immédiats, mélange du bien et du mal pour atteindre plus rapidement un but désiré, impatience, égoïsme, affirmation de soi, orgueil, liberté motivée et déni des lois de Dieu et de Dieu lui-même, etc. Non Je me demande si cela a été si dévastateur sur notre jeune planète en évolution et s'il s'est imposé si facilement. Pour citer une petite partie du deuxième titre du manifeste, «_...si seulement les hommes et les anges avaient le courage de s'affirmer et de revendiquer avec audace leurs droits_»
 
-Nous, aujourd'hui, nous trouvons au milieu des lambeaux et des braises persistantes du document mourant de Lucifer sur « le sophisme de la fausse liberté personnelle – le rejet de l'allégeance à l'univers et le mépris des obligations fraternelles, l'aveuglement aux relations cosmiques ». La protection la plus sûre contre la philosophie impie et la « philosophie du soi » de Caligastia et ses répercussions pour nous est présentée dans LU 34 : 7.6 :
+Nous, aujourd'hui, nous trouvons au milieu des lambeaux et des braises persistantes du document mourant de Lucifer sur « le sophisme de la fausse liberté personnelle – le rejet de l'allégeance à l'univers et le mépris des obligations fraternelles, l'aveuglement aux relations cosmiques ». La protection la plus sûre contre la philosophie impie et la « philosophie du soi » de Caligastia et ses répercussions pour nous est présentée dans LU 34 : 7.6 :
 
 > « _Jésus a montré à l’humanité la nouvelle manière de vivre une vie de mortel, manière par laquelle les êtres humains peuvent échapper dans une très grande mesure aux désastreuses conséquences de la rébellion de Caligastia et compenser fort efficacement les frustrations résultant de la faute adamique. « L’esprit de la vie du Christ Jésus nous a libéré de la loi de la vie animale et des tentations du mal et du péché. »_ » ([LU 34:7.6](/fr/The_Urantia_Book/34#p7_6))
 

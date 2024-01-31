@@ -11,11 +11,11 @@ dateCreated: 2023-11-12T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 Madeline Noordzy<br>© 1991 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
-_Comme les lecteurs de Six-O-Six l'ont peut-être remarqué, au cours des derniers numéros, la gamme d'articles a couvert un champ plus large qu'auparavant. Certains sont d’accord avec cela, d’autres non. Mon co-éditeur, Neil Francey, n'est pas d'accord et a écrit ses réflexions comme suit :_
+_Comme les lecteurs de Six-O-Six l'ont peut-être remarqué, au cours des derniers numéros, la gamme d'articles a couvert un champ plus large qu'auparavant. Certains sont d’accord avec cela, d’autres non. Mon co-éditeur, Neil Francey, n'est pas d'accord et a écrit ses réflexions comme suit :_
 
 « Une publication représentant les lecteurs du _Livre d'URANTIA_ se voit offrir une énorme portée de contenu. Toutefois, le caractère explicite des déclarations de ce livre implique en outre que des contraintes peuvent également être imposées. Un mélange équilibré de points de vue opposés sur une grande variété de questions avec une approche éditoriale impartiale est devenu l'attente des lecteurs de cette revue.
 
-« Il semble que Six-0-Six ait, dans ses numéros récents, orienté ses articles et commentaires éditoriaux vers un groupe d'intérêt particulier et s'écartant d'une discipline stricte du Livre d'URANTIA. Les lecteurs doivent désormais s’orienter dans une nouvelle direction. Cette publication continue-t-elle d'aider les lecteurs à évaluer de nouvelles idées en leur apportant une meilleure compréhension et une meilleure compréhension ? Répond-il à des besoins changeants ? En conséquence, Six-0-Six est-il apprécié et de plus en plus apprécié par les lecteurs ou est-ce que cela devient trop général ? »
+« Il semble que Six-0-Six ait, dans ses numéros récents, orienté ses articles et commentaires éditoriaux vers un groupe d'intérêt particulier et s'écartant d'une discipline stricte du Livre d'URANTIA. Les lecteurs doivent désormais s’orienter dans une nouvelle direction. Cette publication continue-t-elle d'aider les lecteurs à évaluer de nouvelles idées en leur apportant une meilleure compréhension et une meilleure compréhension ? Répond-il à des besoins changeants ? En conséquence, Six-0-Six est-il apprécié et de plus en plus apprécié par les lecteurs ou est-ce que cela devient trop général ? »
 
 « Madeline et moi avons discuté de ces questions en détail. Nous pensons qu'il est important de le faire de temps en temps. À l’heure actuelle, nous ne sommes pas d’accord.
 
@@ -25,7 +25,7 @@ _Comme les lecteurs de Six-O-Six l'ont peut-être remarqué, au cours des dernie
 
 « À la fin de 1985, avec un format élargi, j'ai vu la nécessité et l'opportunité d'impliquer d'autres personnes dans sa production. La principale responsabilité de la continuité a été gracieusement acceptée par Madeline.
 
-« Depuis cette époque, la charge de travail a augmenté, notamment en ce qui concerne la liste de diffusion à l'étranger. »
+« Depuis cette époque, la charge de travail a augmenté, notamment en ce qui concerne la liste de diffusion à l'étranger. »
 
 « Le problème de la viabilité à long terme de la publication existe toujours car elle dépend encore aujourd'hui principalement des superbes efforts de Madeline. Et nous nous trouvons toujours confrontés à la question de la politique éditoriale la plus appropriée pour refléter une époque en constante évolution.
 

@@ -47,11 +47,11 @@ Nous avons reçu une demande de Ken Glasziou, que nous connaissons tous comme ce
 
 Ken, dommage que tu n'aies pas pu venir à la conférence. Vous auriez adoré la présentation de John Hales. Nous allons essayer d'obliger et de publier un article sur ce sujet.
 
-Pour garder l'équilibre, Steven Shanahan, notre directeur de réversion du soir, avait organisé un dîner dans un charmant restaurant italien. C'est devenu une super soirée. La compagnie, la nourriture, le vin et la musique étaient superbes :
+Pour garder l'équilibre, Steven Shanahan, notre directeur de réversion du soir, avait organisé un dîner dans un charmant restaurant italien. C'est devenu une super soirée. La compagnie, la nourriture, le vin et la musique étaient superbes :
 
-Le lendemain matin, les Reynolds étaient en pleine forme. Pamela a chanté un groupe de trois chansons et Tom nous a donné matière à réflexion : « Qui suis-je ? » Le dimanche matin a été consacré à l'étude du fascicule 99 du Livre d'URANTIA : « Les problèmes sociaux de la religion ».
+Le lendemain matin, les Reynolds étaient en pleine forme. Pamela a chanté un groupe de trois chansons et Tom nous a donné matière à réflexion : « Qui suis-je ? » Le dimanche matin a été consacré à l'étude du fascicule 99 du Livre d'URANTIA : « Les problèmes sociaux de la religion ».
 
-Pour cela, nous nous séparons en deux groupes. Il n'y a jamais eu de moment d'ennui dans notre groupe : à un moment donné, Will a décidé qu'il ferait mieux de sortir Cathy de la pièce pour terminer leur discussion, afin que le reste du groupe puisse continuer :
+Pour cela, nous nous séparons en deux groupes. Il n'y a jamais eu de moment d'ennui dans notre groupe : à un moment donné, Will a décidé qu'il ferait mieux de sortir Cathy de la pièce pour terminer leur discussion, afin que le reste du groupe puisse continuer :
 
 Après le déjeuner, Berkeley Elliott a parlé de certaines de ses expériences au cours des 30 années écoulées depuis qu'elle a découvert _le Livre d'URANTIA_. Elle nous a parlé des différents groupes d'études à Oklahoma City. Un point important qui est ressorti du discours de Berkeley est que notre patience est tous mise à l’épreuve. Cette croissance régulière du nombre de lecteurs se produira si nous sommes simplement patients et ne nous attendons pas à des miracles du jour au lendemain. Berkeley a déclaré à quel point elle se sentait chez elle en Australie. Nous semblons être confrontés au même genre de problèmes. Il est bon de savoir que nous avons tous le même Père vers qui nous tourner pour trouver de l’amour et de la force pour faire face à ces problèmes.
 

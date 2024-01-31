@@ -35,5 +35,5 @@ Il y avait parmi nous tous une qualité de personnalités unique ce week-end, to
 
 Jésus était unique, pas excentrique. Dans nos petites actions, nous pouvons nous aussi partager le caractère unique qui est présent chez les individus connaissant Dieu. Une qualité qui donne un immense plaisir à pouvoir partager.
 
-Peter Webb, Yanchep, WA :
+Peter Webb, Yanchep, WA :
 

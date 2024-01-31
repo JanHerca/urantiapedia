@@ -1,5 +1,5 @@
 ---
-title: "La survie des plus chanceux ?"
+title: "La survie des plus chanceux ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -37,7 +37,7 @@ Qu’est-ce qui distinguait les espèces qui réussissaient de celles qui péris
 
 Il est ahurissant de penser que si l’une de ces créatures avait survécu à ce cataclysme, vaincu l’homo-sapiens et évolué pour devenir des êtres sensibles, à quel point la Terre aurait été différente de ce qu’elle est aujourd’hui. Cela vous amène également à vous demander ce que cette connerie évolutive aurait pu produire sur d’autres planètes.
 
-Dans _Le Livre d'URANTIA_, un Porteur de Vie dit :
+Dans _Le Livre d'URANTIA_, un Porteur de Vie dit :
 
 > « _Il ne sera guère possible de rendre accessibles, au mental humain d’aujourd’hui, maints évènements bizarres et apparemment grotesques de la progression évolutionnaire primitive. En dépit de leur apparence étrange, toutes ces évolutions d’êtres vivants suivaient un plan préconçu, mais nous n’avons pas le droit d’intervenir arbitrairement dans le développement des modèles de vie une fois qu’ils ont commencé à fonctionner._ » ([LU 65:3.1](/fr/The_Urantia_Book/65#p3_1))
 

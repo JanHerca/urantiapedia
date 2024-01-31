@@ -31,7 +31,7 @@ Il porte une robe jaune et il sera reconnu comme le détenteur suprême des chos
 
 L'empereur Ch' de Shih Huang Ti (246 av. J.-C.), après avoir unifié la Chine, fut incité par les taoïstes à construire un temple en son honneur et la dynastie Tang introduisit des sacrifices au dieu étoile à l'équinoxe d'automne.
 
-J'ai depuis longtemps plusieurs statues du Dieu de la Longévité chez moi. Un jour, je me suis précipité vers mon Livre d'URANTIA pour trouver cette phrase :
+J'ai depuis longtemps plusieurs statues du Dieu de la Longévité chez moi. Un jour, je me suis précipité vers mon Livre d'URANTIA pour trouver cette phrase :
 
 > « Quand la rébellion éclata, Van et ses associés firent croitre, de nouveau, l’arbre, à partir du cœur, dans leur campement temporaire. Cet arbuste d’Édentia fut ensuite emporté dans leur retraite des hautes terres où il servit à Van et Amadon pendant plus de cent-cinquante-mille ans. » ([LU 73:6.5](/fr/The_Urantia_Book/73#p6_5))
 

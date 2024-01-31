@@ -15,7 +15,7 @@ _Par Patije Mills, Sarasota, Floride_
 
 Il y a quelques mois, Connie Lester (Englewood, Floride) titillait mon imagination en évoquant une possibilité de « décoder » le sens de « Orvonton ». Depuis lors, de nombreuses possibilités de ce type sont apparues dans mon imagination intriguée. Nous avons beaucoup de plaisir à spéculer et je souhaite partager les informations suivantes pour voir si l'un d'entre vous aurait également découvert ces possibilités.
 
-Y a-t-il un rythme ou un modèle dans les mots que nous ont présentés les Révélateurs ? Est-il possible que nous soyons introduits dans l'Univers, ou dans le Langage du Système, par le biais du _Livre d'URANTIA_ ?
+Y a-t-il un rythme ou un modèle dans les mots que nous ont présentés les Révélateurs ? Est-il possible que nous soyons introduits dans l'Univers, ou dans le Langage du Système, par le biais du _Livre d'URANTIA_ ?
 
 Tout d’abord, il a été suggéré que la plupart, sinon la plupart, des noms sont prononcés avec l’accent sur la deuxième syllabe. Par exemple:
 

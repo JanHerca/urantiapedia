@@ -31,10 +31,10 @@ Il y a quelques années, j'ai été impressionné par une combinaison de vérit�
 
 <figure id="Figure_2" class="image urantiapedia" alt="Balanced life">
 <img src="/image/article/606/balanced.jpg">
-<figcaption><em>Qu'est-ce que cela fait pour la croissance de l'âme humaine ? <br>Est-ce que cela rapproche Dieu (le Bien) de l'homme (Moi) ? <br>Est-ce que cela rapproche l'Homme (Moi) de Dieu (Bien) ?</em></figcaption>
+<figcaption><em>Qu'est-ce que cela fait pour la croissance de l'âme humaine ? <br>Est-ce que cela rapproche Dieu (le Bien) de l'homme (Moi) ? <br>Est-ce que cela rapproche l'Homme (Moi) de Dieu (Bien) ?</em></figcaption>
 </figure>
 
-Six-O-Six est une newsletter de qualité. Continuez votre bon travail ouvert d’esprit en rapportant toutes les nouvelles !
+Six-O-Six est une newsletter de qualité. Continuez votre bon travail ouvert d’esprit en rapportant toutes les nouvelles !
 
 **Patije Mills, Sarasota, Floride, États-Unis**
 

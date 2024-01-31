@@ -1,5 +1,5 @@
 ---
-title: "Nous aussi, nous pouvons « téléphoner à la maison" »
+title: "Nous aussi, nous pouvons « téléphoner à la maison" »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -31,13 +31,13 @@ Lorsqu'il y a des tempêtes occasionnelles dans diverses régions, certaines lig
 
 Le Cosmic Phone Designer est incommensurablement supérieur à nos experts d’Urantia en matière d’appareils de communication interpersonnelle, y compris même les appareils de communication de type Icare en orbite autour d’Urantia et relayant les communications. Tous ces appareils, cependant, ont une durée de vie limitée et finiront par voir la cire fondre lorsque l'appareil qui s'envole vers le ciel revient pour plonger dans un océan planétaire.
 
-Parmi les facteurs supérieurs du système téléphonique cosmique figurent les suivants : On ne passe jamais d'appel et ne reçoit jamais de signal occupé, ni le retard d'un appareil de prise de message. Il y a toujours plus d'opérateurs que nécessaire pour répondre ou transmettre nos appels au Designer et à son équipe téléphonique. Nous ne serons donc jamais mis « en attente ».
+Parmi les facteurs supérieurs du système téléphonique cosmique figurent les suivants : On ne passe jamais d'appel et ne reçoit jamais de signal occupé, ni le retard d'un appareil de prise de message. Il y a toujours plus d'opérateurs que nécessaire pour répondre ou transmettre nos appels au Designer et à son équipe téléphonique. Nous ne serons donc jamais mis « en attente ».
 
 Bien que nous ne recevions jamais de facture de téléphone, le concepteur apprécierait que nous partagions son numéro gratuit spécial 800 avec l'un de nos associés ou connaissances qui ne connaissent pas le réseau téléphonique cosmique. Le Designer a un idéal de communication tellement transcendantal qu'il cherche à réaliser qu'il est très important que tous les récepteurs possibles soient activés chez tous les clients potentiels.
 
 Lorsqu'il y a des confusions sur Urantia, décrocher le téléphone du Concepteur est un moyen sûr de recevoir un message de réconfort et de conciliation avec un rappel qu'il y a eu des vandales téléphoniques dans notre indicatif régional dont les effets n'ont pas encore tous été éradiqués.
 
-Si nous n’avons pas de message spécial à relayer, le Cosmic Caller est toujours ravi de nous envoyer également des messages. Son message favori est que tout va bien pour chaque client et le progrès technologique de l'ensemble du système téléphonique. En fait, tous les clients voient déjà leurs communications améliorées et l'harmonisation avec le « Concepteur dans le récepteur » rend possible les communications directes sans transmission de circuit avec l'appelant céleste.
+Si nous n’avons pas de message spécial à relayer, le Cosmic Caller est toujours ravi de nous envoyer également des messages. Son message favori est que tout va bien pour chaque client et le progrès technologique de l'ensemble du système téléphonique. En fait, tous les clients voient déjà leurs communications améliorées et l'harmonisation avec le « Concepteur dans le récepteur » rend possible les communications directes sans transmission de circuit avec l'appelant céleste.
 
 Il y a des spéculations quant à savoir si le système de communication du Concepteur devrait s'améliorer de manière à rendre possible un marathon téléphonique à l'échelle planétaire, au cours duquel les abonnés au système téléphonique cosmique appelleront tous les abonnés de l'annuaire téléphonique du Concepteur afin que tous les abonnés planétaires. les individus seront contactés et inspirés par la découverte d'une relation mondiale de personne à personne qui peut s'établir lorsque les abonnements téléphoniques deviennent pratiquement universels.
 

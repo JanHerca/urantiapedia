@@ -12,13 +12,13 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 _Par Bryan Appleyard,_
-_Auteur de « Comprendre le présent : la science et l'âme de l'homme moderne » (Picador, 1992)_
+_Auteur de « Comprendre le présent : la science et l'âme de l'homme moderne » (Picador, 1992)_
 
 Voici les dernières lignes de deux livres récents qui ont tenté de vulgariser les développements les plus récents et les plus étranges de la pensée scientifique.
 
 La première : si nous trouvons la réponse à cette question, ce serait le triomphe ultime de la raison humaine – car alors nous devrions connaître la pensée de Dieu.
 
-La seconde : nous sommes vraiment censés être ici.
+La seconde : nous sommes vraiment censés être ici.
 
 Le premier est la rhétorique finale du super best-seller de Stephen Hawkin, « Une brève histoire du temps ». La seconde est la conclusion du livre de Paul Davies, « The Mind of God ». Les deux hommes sont physiciens et aucun des deux ne sait de quoi il parle.
 
@@ -40,7 +40,7 @@ Ce qu’ils ignorent, c’est la question urgente de savoir comment les gens son
 
 Au début, les philosophes ne l’ont pas ignoré. Les grandes figures des Lumières ont eu du mal à trouver une nouvelle manière de définir ce qui est spécifiquement humain. Cela devait s’avérer une entreprise véritablement héroïque en raison des obstacles contre lesquels ils se battaient. Car, à mesure que le temps passait et que la technologie s’améliorait, la science devenait de plus en plus efficace et dévastatrice.
 
-Premièrement, il expliquait le cosmos à ceux qui étaient qualifiés pour le regarder. Mais plus tard, elle a produit des machines, guéri des maladies et généré des richesses avec une telle efficacité que tout le monde a été touché. La science était si flamboyante dans ces domaines qu’elle devait avoir raison, elle devait être « la vérité ».
+Premièrement, il expliquait le cosmos à ceux qui étaient qualifiés pour le regarder. Mais plus tard, elle a produit des machines, guéri des maladies et généré des richesses avec une telle efficacité que tout le monde a été touché. La science était si flamboyante dans ces domaines qu’elle devait avoir raison, elle devait être « la vérité ».
 
 > La chose la plus étrange à propos de la science que j'ai décrite n'est pas simplement qu'elle crée une machine cosmique qui n'a pas besoin de nous, mais que la science ne fonctionne qu'en supposant que nous n'existons pas.
 
@@ -50,7 +50,7 @@ Et Freud, avec son sens tragique caractéristique, écrivait : « Ainsi, je n’
 
 C’est le message amer de la science classique. C’est « La Vérité », mais elle n’a pas de place pour nous ; nous ne trouvons aucun fondement pour nos valeurs dans le monde. La plupart des scientifiques contournent ce problème en insistant sur les limites de leur domaine et en affirmant que la science est un domaine spécialisé de la connaissance.
 
-La puissance et l’efficacité de cette vision ont finalement contraint certains philosophes à capituler. Avec Bertrand Russell et A.J. Ayer est le dernier aveu lâche d’échec : désormais la philosophie ne sera plus que la servante de la science, déchiffrant utilement et de manière flagorneuse les concepts transmis par les grands prêtres de cette vérité nouvelle et peu consolante. Mais, malgré ses triomphes apparents et ses groupies philosophiques, il existait deux barrières que la science dure, classique et pessimiste était incapable de franchir. La première était la question « Pourquoi ? »
+La puissance et l’efficacité de cette vision ont finalement contraint certains philosophes à capituler. Avec Bertrand Russell et A.J. Ayer est le dernier aveu lâche d’échec : désormais la philosophie ne sera plus que la servante de la science, déchiffrant utilement et de manière flagorneuse les concepts transmis par les grands prêtres de cette vérité nouvelle et peu consolante. Mais, malgré ses triomphes apparents et ses groupies philosophiques, il existait deux barrières que la science dure, classique et pessimiste était incapable de franchir. La première était la question « Pourquoi ? »
 
 La machine cosmique newtonienne était autonome : elle traînait en quelque sorte dans les lieux comme un skinhead à l’esprit épais – muet, sans gorm et insensible. La science pouvait observer et théoriser sur cette brute, mais pas sur autre chose. Pourquoi il était là, à quoi il servait et s'il y avait autre chose étaient des questions hors de portée des scientifiques.
 

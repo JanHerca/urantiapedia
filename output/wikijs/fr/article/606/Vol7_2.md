@@ -51,7 +51,7 @@ En réponse à notre article sur « L'importance de la langue » dans le numéro
 
 Sur [LU 195:9.2](/fr/The_Urantia_Book/195#p9_2) nous trouvons certaines des phrases les plus passionnantes de tout le livre : « Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. »
 
-Il ne dit pas qu’une révélation plus complète pourrait conquérir un empire matérialiste – il dit qu’elle EST DESTINÉE à le faire. Il n'y a pas de « si » et de « peut-être » à ce sujet : cela dit qu'Urantia N'EST PAS au bord du gouffre.
+Il ne dit pas qu’une révélation plus complète pourrait conquérir un empire matérialiste – il dit qu’elle EST DESTINÉE à le faire. Il n'y a pas de « si » et de « peut-être » à ce sujet : cela dit qu'Urantia N'EST PAS au bord du gouffre.
 
 Et cela appelle cela une nouvelle époque. Une époque semble être le temps qui passe d’un Fils à un autre – une dispensation.
 
@@ -61,7 +61,7 @@ Sur [LU 99:1.3](/fr/The_Urantia_Book/99#p1_3), le Livre déclare : « La sociét
 
 Sur [LU 114:4.4](/fr/The_Urantia_Book/114#p4_4) nous lisons : « Un Très Haut observateur jouit du pouvoir discrétionnaire de prendre en mains le gouvernement de la planète en temps de crise planétaire grave, et les annales rapportent que ce fut trente-trois fois le cas dans l’histoire d’Urantia.» (Les pages [LU 43:5.17](/fr/The_Urantia_Book/43#p5_17) et [LU 175:1.8](/fr/The_Urantia_Book/175#p1_8) semblent nous raconter deux de ces moments.)
 
-Et puis sur [LU 134:5.1](/fr/The_Urantia_Book/134#p5_1) cela nous dit que l’évolution de notre souveraineté politique est MAINTENANT dans une étape CRITIQUE. Et sur [LU 134:5.3](/fr/The_Urantia_Book/134#p5_3), cela nous rappelle qu'« Un jour, les dirigeants civils apprendront que le Très-Haut gouverne dans le royaume des hommes » – non pas le royaume de DIEU – mais celui des HOMMES.
+Et puis sur [LU 134:5.1](/fr/The_Urantia_Book/134#p5_1) cela nous dit que l’évolution de notre souveraineté politique est MAINTENANT dans une étape CRITIQUE. Et sur [LU 134:5.3](/fr/The_Urantia_Book/134#p5_3), cela nous rappelle qu'« Un jour, les dirigeants civils apprendront que le Très-Haut gouverne dans le royaume des hommes » – non pas le royaume de DIEU – mais celui des HOMMES.
 
 Il semble donc que des temps passionnants soient déjà à nos portes. Nous n'avons pas encore eu de Fils Magistral. À la page 594, il nous est dit que lorsqu'un Avonal du Paradis arrive pour une première mission magistrale, il s'incarne TOUJOURS. Il n'est pas né comme un bébé comme un fils d'effusion, mais il apparaît peut-être simplement comme Machiventa Melchizédek.
 
@@ -96,7 +96,7 @@ Madeline Noordzy, Melbourne
 
 Lors de notre dernière conférence à Sydney, nous avons discuté et convenu de la création d'une certaine forme d'association. Suite aux discussions entre les lecteurs du Livre d'Urantia sur la nécessité d'une sorte d'organisation en Australie, plusieurs idées ont été examinées. Certains soulignent qu’une telle organisation n’est pas vraiment nécessaire et que la création d’une telle organisation exposerait le lectorat australien au danger du sectarisme et de la politique organisationnelle. D'un autre côté, d'autres soulignent les avantages d'avoir un organisme australien unique pour s'occuper de la Fondation Urantienne, coordonner la distribution des livres et prendre en charge les finances. Si nous formons une sorte d'association, nous devons garder à l'esprit que l'adhésion à cette association ne doit pas être confondue avec la Fraternité spirituelle dont parle le Livre d'Urantia. La fraternité spirituelle telle que nous la connaissons est composée de tous les croyants où qu'ils se trouvent et transcende toutes les institutions humaines. Notre association ne devrait être qu'une organisation humaine établie pour favoriser la diffusion des enseignements du Livre d'Urantia.
 
-Nous, ici en Australie, qui croyons au _Livre d'Urantia_ devrions nous considérer comme faisant partie du mouvement planétaire et, ce faisant, nous devrions nous identifier aux buts et aux objectifs que la Fraternité et la Fondation Urantia épousent :
+Nous, ici en Australie, qui croyons au _Livre d'Urantia_ devrions nous considérer comme faisant partie du mouvement planétaire et, ce faisant, nous devrions nous identifier aux buts et aux objectifs que la Fraternité et la Fondation Urantia épousent :
 
 1. Nous voulons garder _le Livre d'Urantia_ imprimé perpétuellement.
 2. Nous souhaitons protéger l’intégrité du livre, de la marque déposée et des symboles de service.
@@ -161,8 +161,8 @@ Adresse de séjour<br>
 Château de MONTVILLARGENNE<br>
 60270 GOUVIEUX-CHANTILLY FRANCE<br>
 Tél : 44.57.05.14. Télex : 150212 F CREAR<br>
-organisé par :<br>
-organisé par :<br>
+organisé par :<br>
+organisé par :<br>
 <br>
 C.E.R.D.H.*<br>
 31 rue Jouye-Rouve<br>

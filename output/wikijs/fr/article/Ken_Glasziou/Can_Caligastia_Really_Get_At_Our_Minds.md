@@ -1,5 +1,5 @@
 ---
-title: "Caligastia peut-il vraiment nous toucher ?"
+title: "Caligastia peut-il vraiment nous toucher ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -21,17 +21,17 @@ Ce mot « seulement » est extrêmement important. Cela implique que si Caligast
 
 Ce sont des pensées réconfortantes, un motif de complaisance suprême. Ou sont-ils? Caligastia appartient-elle réellement à ce que le livre appelle le « monde spirituel » ? Cela dépend de la définition du dictionnaire que nous pouvons choisir. Certains indiquent que les spiritualistes communiquent avec le monde spirituel, y compris avec les mauvais esprits. Mais une autre définition du dictionnaire dit que « spirituel » se rapporte aux choses sacrées ou saintes – ce qui exclurait sûrement les mauvais esprits. Cela signifie-t-il que Caligastia et d’autres esprits méchants, n’étant pas membres de ce que le livre entend par « monde spirituel », peuvent communiquer directement avec nous si nous le leur permettons ?
 
-Ce n’est pas une pensée réconfortante pour ceux qui s’adonnent au phénomène appelé « canalisation ». Cela peut signifier que les « bons » esprits ne peuvent communiquer avec nous qu’indirectement par l’intermédiaire de notre Ajusteur de Pensée, mais que les « méchants » esprits peuvent nous atteindre directement.
+Ce n’est pas une pensée réconfortante pour ceux qui s’adonnent au phénomène appelé « canalisation ». Cela peut signifier que les « bons » esprits ne peuvent communiquer avec nous qu’indirectement par l’intermédiaire de notre Ajusteur de Pensée, mais que les « méchants » esprits peuvent nous atteindre directement.
 
 Ernest Moyer, dans sa Lettre d'Information Urantia N°2, a souligné la possibilité que de nombreux lecteurs sincères du Livre d'URANTIA aient involontairement invité Caligastia dans leur vie.
 
-Si nous faisons face aux faits, le mouvement Urantia est un échec lamentable. Ernest pourrait-il avoir raison : Caligastia a-t-il le mouvement par la gorge, et si oui, comment est-ce arrivé ? Je ne connais aucun lecteur qui inviterait sciemment Caligastia dans sa vie, pas même certains dont les actions (à mon avis) ont été extrêmement perturbatrices et nuisibles. Alors, comment cela a-t-il pu arriver ? Cette question m'a ramené à la section du _Le Livre d'URANTIA_ sur la façon dont Caligastia a réussi à atteindre Ève.
+Si nous faisons face aux faits, le mouvement Urantia est un échec lamentable. Ernest pourrait-il avoir raison : Caligastia a-t-il le mouvement par la gorge, et si oui, comment est-ce arrivé ? Je ne connais aucun lecteur qui inviterait sciemment Caligastia dans sa vie, pas même certains dont les actions (à mon avis) ont été extrêmement perturbatrices et nuisibles. Alors, comment cela a-t-il pu arriver ? Cette question m'a ramené à la section du _Le Livre d'URANTIA_ sur la façon dont Caligastia a réussi à atteindre Ève.
 
 On y rappelle que ni Caligastia ni Dalagastia n'avaient le pouvoir d'influencer un individu contre son gré ([LU 75:2.1](/fr/The_Urantia_Book/75#p2_1)). Toutes leurs tentatives directes pour séduire Adam, Ève ou leurs enfants ont échoué. Caligastia conclut donc que son seul espoir de succès résidait dans l'emploi adroit de personnes compétentes appartenant aux couches supérieures du groupe Nodite. Comment a-t-il pu le faire ? Il était visible et pouvait communiquer directement avec Adam et Ève – mais pas avec ces Nodites. Les deux Nodites qui provoquèrent la chute d'Ève étaient Serapatatia et Cano. Le premier est décrit comme profondément impressionné par la justesse de la cause d'Adam, entièrement honnête et sincère dans toutes ses activités et « _jamais conscient, même plus tard, qu'il était utilisé comme un outil circonstanciel du rusé Caligastia_ ». ([LU 75:3.3](/fr/The_Urantia_Book/75#p3_3))
 
 Cano était l'autre Nodite impliqué avec Eve. Il est décrit comme un esprit brillant, sympathique au régime adamique, le chef spirituel sincère des Nodites qui favorisait les relations amicales avec le Jardin. Ni l’un ni l’autre ne semblent être des agents prêts à l’emploi pour Caligastia.
 
-La pourriture s’installe lorsque :
+La pourriture s’installe lorsque :
 
 > « ...Un jour, durant une conversation avec Ève, Sérapatatia eut l’idée qu’en attendant de pouvoir recruter un grand nombre des représentants de la race violette, il serait très utile que quelque chose puisse être fait entretemps pour le progrès immédiat des tribus qui demeuraient très dépourvues. » ([LU 75:3.5](/fr/The_Urantia_Book/75#p3_5))
 

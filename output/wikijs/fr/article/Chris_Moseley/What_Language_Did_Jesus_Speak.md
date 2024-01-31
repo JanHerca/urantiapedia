@@ -49,7 +49,7 @@ Depuis plus de 50 ans, d'autres chercheurs de la même université travaillent s
 
 Chris Mosley
 
-Extrait de : L'ASCENDER, automne 1989
+Extrait de : L'ASCENDER, automne 1989
 
 (Des parties de cet article ont été publiées pour la première fois en suédois dans un article de Harry Bokstedt dans 'Svenska Dagbladt', 20 août 1989.)
 

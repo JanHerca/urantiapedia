@@ -15,7 +15,7 @@ Un jour, deux fourmis, Brilly et Ignor, se tenaient ensemble sur leur balle de t
 
 Ignor affirma triomphalement : « Je pense avoir découvert l'infini ! »
 
-« Comment ça ? » demanda Brilly.
+« Comment ça ? » demanda Brilly.
 
 « Eh bien, vous savez ce qu'est l'infini, n'est-ce pas ? C'est quelque chose qui continue encore et encore et peu importe les efforts que vous faites, vous n'arrivez jamais au bout », a expliqué Ignor.
 

@@ -46,7 +46,7 @@ Plus tard dans l’après-midi, nous avons abordé les sujets suivants :
 	Nous avons également reçu une offre de Nevile Seaborn pour exposer le livre dans son magasin de produits naturels à Boronia. Nevile est un lecteur 6-0-6 depuis de nombreuses années. Vous pouvez le contacter au (03) 7624333.
 	Nous approcherons davantage de librairies au cours des prochains mois, à mesure que les livres seront disponibles.
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « La conscience d’avoir mené une vie victorieuse sur la terre nait de la foi d’une créature confrontée au terrible spectacle des limitations humaines, lorsqu’à chaque épisode récurrent de son existence et sans jamais faillir, elle ose proclamer ce défi : Même si je ne peux pas faire cette chose, quelqu’un vit en moi qui peut la faire et la fera, une fraction de l’Absolu-Père de l’univers des univers. C’est cela « la victoire qui triomphe du monde, votre foi elle-même. » » ([LU 4:4.9](/fr/The_Urantia_Book/4#p4_9))
 
@@ -132,7 +132,7 @@ Je souhaite continuer à recevoir votre newsletter. J’aime entendre parler des
 
 Vous avez ma permission de donner mon nom aux étudiants du _Livre d'URANTIA_ voyageant en Floride ! (En fait — avec avertissement préalable — je mettrai ma chambre d'amis à la disposition des étudiants du Livre d'URANTIA qui voyagent. Je demande seulement une pièce d'identité préalable et les noms des autres étudiants du Livre d'URANTIA qui se porteront garants d'eux.)
 
-Votre newsletter suscite la réflexion et fait réfléchir et je l’apprécie beaucoup ! L'un d'entre vous viendra-t-il à la conférence internationale dans le Maine, aux États-Unis, en août ? Si c’est le cas, j’espère que nos chemins se croiseront puisque je serai là.
+Votre newsletter suscite la réflexion et fait réfléchir et je l’apprécie beaucoup ! L'un d'entre vous viendra-t-il à la conférence internationale dans le Maine, aux États-Unis, en août ? Si c’est le cas, j’espère que nos chemins se croiseront puisque je serai là.
 
 Patricia J. Mills, Sarasota, Floride. Etats-Unis
 
@@ -162,7 +162,7 @@ _Le Livre d'URANTIA_ des dix parle de notre carrière universelle comme d'une as
 
 Alors que je réfléchissais à cela un jour en faisant la vaisselle, ce qui est un moment propice à de telles réflexions, j'ai pu voir plusieurs significations de ce mouvement intérieur.
 
-Le premier est le long, très long chemin vers le Paradis, le centre même et le modèle principal de toute réalité matérielle universelle, la résidence personnelle du Père Universel. D’un point de vue géographique, c’est certainement un voyage vers l’intérieur et quelque chose à vraiment espérer. Cependant, le Paradis est un long chemin dans le futur et comme le souligne un Puissant Messager dans [LU 32:3.6](/fr/The_Urantia_Book/32#p3_6) du _Livre d'URANTIA_ : « Plus nous descendons l’échelle de la vie, plus il devient difficile de localiser avec l’œil de la foi le Père invisible. Les créatures inférieures — et même parfois les personnalités supérieures — ont peine à envisager toujours le Père Universel dans ses Fils Créateurs.»
+Le premier est le long, très long chemin vers le Paradis, le centre même et le modèle principal de toute réalité matérielle universelle, la résidence personnelle du Père Universel. D’un point de vue géographique, c’est certainement un voyage vers l’intérieur et quelque chose à vraiment espérer. Cependant, le Paradis est un long chemin dans le futur et comme le souligne un Puissant Messager dans [LU 32:3.6](/fr/The_Urantia_Book/32#p3_6) du _Livre d'URANTIA_ : « Plus nous descendons l’échelle de la vie, plus il devient difficile de localiser avec l’œil de la foi le Père invisible. Les créatures inférieures — et même parfois les personnalités supérieures — ont peine à envisager toujours le Père Universel dans ses Fils Créateurs.»
 
 Le Fils Créateur est la première étape de notre approche septuple du Père Universel. Jésus dit à Thomas lors du discours d'adieu : « Je suis le chemin, la vérité et la vie. Nul ne va au Père que par moi. Tous ceux qui trouvent le Père me trouvent d’abord. Si vous me connaissez, vous connaissez le chemin qui mène au Père. ([LU 180:3.7](/fr/The_Urantia_Book/180#p3_7))
 
@@ -188,11 +188,11 @@ Si vous recevez le Bulletin de la Fraternité URANTIA, vous aurez également re�
 
 Chers amis,
 
-J'apprécie vraiment beaucoup la newsletter 6-0-6 ! Ce type de partage mondial est essentiel au début de la réalisation mondiale de la fraternité humaine.
+J'apprécie vraiment beaucoup la newsletter 6-0-6 ! Ce type de partage mondial est essentiel au début de la réalisation mondiale de la fraternité humaine.
 
 David Glass, Fort. Worth, Texas, États-Unis
 
-Note de l'éditeur : Cette petite note exprime si bien que la décision de Neil Francey de faire de 6-0-6 une newsletter internationale était la bonne. Et nous aimons continuer dans cette direction.
+Note de l'éditeur : Cette petite note exprime si bien que la décision de Neil Francey de faire de 6-0-6 une newsletter internationale était la bonne. Et nous aimons continuer dans cette direction.
 
 ---
 

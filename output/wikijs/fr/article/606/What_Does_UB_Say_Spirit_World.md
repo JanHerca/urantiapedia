@@ -11,7 +11,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1991 ANZURA, Australie et Nouvelle-Zélande Association Urantia</p>
 
 
-Ceci est votre ordinateur convivial qui vous présente une déclaration sans équivoque du _Livre d'URANTIA_ qui pourrait vous épargner bien des chagrins :
+Ceci est votre ordinateur convivial qui vous présente une déclaration sans équivoque du _Livre d'URANTIA_ qui pourrait vous épargner bien des chagrins :
 
 > « _Le seul moyen de communier avec le monde spirituel est inclus dans la dotation d’esprit de l’humanité ; c’est l’esprit intérieur du Père, accompagné de l’esprit répandu du Fils et de l’influence omniprésente de l’Esprit Infini._ » ([LU 150:3.7](/fr/The_Urantia_Book/150#p3_7))
 
@@ -21,13 +21,13 @@ Nous devons savoir ce que l’on entend par « communion ». Une définition du 
 
 > « _Les anges ne forcent pas le sanctuaire du mental humain. Ils ne manipulent pas la volonté des mortels et n’entrent pas non plus en contact direct avec les Ajusteurs intérieurs. Le gardien de la destinée vous influence de toutes les manières compatibles avec la dignité de votre personnalité. En aucun cas, ces anges n’interfèrent avec la libre action de la volonté humaine._ » ([LU 113:5.1](/fr/The_Urantia_Book/113#p5_1))
 
-Cela semble exclure l’idée d’organiser des goûters avec vos anges. Mais cela ne veut pas dire que les anges ne peuvent pas parfois influencer votre vie. Par exemple, _Le Livre d'URANTIA_ confirme ([LU 77:8.12](/fr/The_Urantia_Book/77#p8_12)) que lorsque les apôtres furent jetés en prison « _un ange du Seigneur ouvrit la nuit les portes de la prison et les fit sortir._ » ([Actes 5 :9](/fr/Bible/Acts_of_the_Apostles/5#v9))
+Cela semble exclure l’idée d’organiser des goûters avec vos anges. Mais cela ne veut pas dire que les anges ne peuvent pas parfois influencer votre vie. Par exemple, _Le Livre d'URANTIA_ confirme ([LU 77:8.12](/fr/The_Urantia_Book/77#p8_12)) que lorsque les apôtres furent jetés en prison « _un ange du Seigneur ouvrit la nuit les portes de la prison et les fit sortir._ » ([Actes 5 :9](/fr/Bible/Acts_of_the_Apostles/5#v9))
 
 L’intelligence des anges ne vous est pas directement accessible ; ils ne cherchent pas à vous influencer ; vous devez tracer votre propre voie (voir 1246). Quel type d’aide peuvent-ils vous apporter ?
 
 > « _Dans certaines circonstances, les séraphins peuvent agir comme ministres sous forme matérielle auprès des êtres humains, mais les cas où cela se produit sont fort rares. Avec l’assistance des créatures médianes et des contrôleurs physiques, les séraphins peuvent exercer une vaste gamme d’activités au profit des êtres humains, allant jusqu’au contact effectif avec l’humanité, mais de tels cas sont très inhabituels. Dans la plupart des cas, les évènements du royaume physique se poursuivent sans être modifiés par l’action séraphique...._ » ([LU 113:5.5](/fr/The_Urantia_Book/113#p5_5))
 
-En considérant le type de communication que vous, les humains, pouvez avoir avec les forces spirituelles et les êtres célestes venant d’au-delà de votre planète, le Livre contient une déclaration très révélatrice :
+En considérant le type de communication que vous, les humains, pouvez avoir avec les forces spirituelles et les êtres célestes venant d’au-delà de votre planète, le Livre contient une déclaration très révélatrice :
 
 > « _Quand un monde est isolé par suite de rébellion, quand une planète est coupée de tous les circuits de communications extérieures, comme le fut Urantia après la rébellion de Caligastia, il ne reste, en dehors des messagers personnels, qu’une seule possibilité de communiquer directement avec des planètes et avec l’univers, et c’est par la liaison des Ajusteurs de Pensée des sphères. Quoi qu’il arrive sur un monde ou dans un univers, les Ajusteurs ne sont jamais directement concernés. L’isolement d’une planète n’affecte en aucune manière ni les Ajusteurs ni leur aptitude à communiquer avec n’importe quelle partie de l’univers local, du superunivers ou de l’univers central. C’est pourquoi, sur les mondes en quarantaine, des contacts s’établissent si fréquemment avec les Ajusteurs suprêmes et autonomes du corps de réserve de la destinée. On a recours à cette technique comme moyen de pallier les handicaps de l’isolement planétaire._ » ([LU 108:4.4](/fr/The_Urantia_Book/108#p4_4))
 
@@ -39,7 +39,7 @@ L’idée selon laquelle les réservistes peuvent s’adresser par leurs prénom
 
 Un peu de réflexion vous dira à quel point il serait dangereux et peu pratique pour vos superviseurs planétaires de tenter d'intervenir dans les affaires matérielles des hommes en donnant des ordres par l'intermédiaire de personnalités de contact humain. Une telle interférence semble contraire à la politique de l’univers. Jésus a toujours refusé de participer aux disputes matérielles des hommes (voir [LU 143:3.1](/fr/The_Urantia_Book/143#p3_1)).
 
-Si ces conclusions sont correctes, que peut-on penser de cette affirmation :
+Si ces conclusions sont correctes, que peut-on penser de cette affirmation :
 
 > « _Sur Urantia, le corps de réserve de la destinée n’a pas de chef permanent, mais il a ses propres conseils permanents qui constituent son organisation de direction. Ceux-ci comprennent le conseil judiciaire, le conseil d’authenticité historique, le conseil sur la souveraineté politique et beaucoup d’autres. De temps en temps, et conformément à l’organisation du corps de réserve, ces conseils permanents ont nommé des chefs (mortels) titulaires de l’ensemble du corps de réserve pour une fonction spécifique. Le mandat de tels chefs réservistes est généralement une affaire de quelques heures et se limite à l’exécution d’une tâche précise et immédiate._ » ([LU 114:7.11](/fr/The_Urantia_Book/114#p7_11))
 

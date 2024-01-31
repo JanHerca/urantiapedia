@@ -29,7 +29,7 @@ En fouillant dans les archives familiales, je suis tombé sur les pièces prése
 <img src="/image/article/606/coin3.jpg">
 </figure>
 
-Ils ont été conçus comme des jetons publicitaires – à utiliser pour une 3D. remise sur tout achat au « Coles Book Arcade » de Bourke Street, à Melbourne, qui présentait plus d'un million de livres, ce qui en faisait l'un des plus grands au monde à l'époque. Il croyait aux livres avec passion, déclarant que « ... observer, rechercher, lire et penser est le premier devoir de l'homme ». Il n'a jamais demandé aux gens d'acheter. Il a encouragé la navigation. Dans certains cas, les gens parcouraient toute la journée dans l'Arcade et lisaient un demi-livre, puis revenaient le lendemain pour le terminer. En attendant, il leur a fourni des chaises pour s'assurer qu'ils soient à l'aise pendant le processus !
+Ils ont été conçus comme des jetons publicitaires – à utiliser pour une 3D. remise sur tout achat au « Coles Book Arcade » de Bourke Street, à Melbourne, qui présentait plus d'un million de livres, ce qui en faisait l'un des plus grands au monde à l'époque. Il croyait aux livres avec passion, déclarant que « ... observer, rechercher, lire et penser est le premier devoir de l'homme ». Il n'a jamais demandé aux gens d'acheter. Il a encouragé la navigation. Dans certains cas, les gens parcouraient toute la journée dans l'Arcade et lisaient un demi-livre, puis revenaient le lendemain pour le terminer. En attendant, il leur a fourni des chaises pour s'assurer qu'ils soient à l'aise pendant le processus !
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right" alt="coin">
 <img src="/image/article/606/coin4.jpg">

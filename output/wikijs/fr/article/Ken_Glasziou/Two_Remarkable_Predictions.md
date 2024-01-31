@@ -23,7 +23,7 @@ Maintenant, une chose intéressante à noter est que le Cahier d'URANTIA dit que
 
 neutron $\longrightarrow$ proton + électron + LNP
 
-où LNP signifie « petite particule neutre », l'inverse devrait donc être :
+où LNP signifie « petite particule neutre », l'inverse devrait donc être :
 
 LNP + électron + proton $\longrightarrow$ neutron
 
@@ -35,7 +35,7 @@ Passons maintenant à [LU 42:8.1](/fr/The_Urantia_Book/42#p8_1) du _Le Livre d'U
 
 _Le Livre d'URANTIA_ discute évidemment de deux porteurs d'énergie mésotron différents, l'un porteur de charge positive entre le proton et le neutron, l'autre porteur de charge négative du neutron à l'électron. De très nombreuses années se sont écoulées et de nombreuses théories différentes ont disparu avant que les caractéristiques de ces deux porteurs ne soient déterminées. Le porteur de charge positive a été détecté et nommé pion en 1946. Le porteur de charge négative est devenu connu sous le nom de W- et est resté une construction théorique jusqu'en 1983, date à laquelle il a finalement été détecté.
 
-L’idée de l’antimatière et de l’énergie négative a été introduite par le grand physicien Paul Dirac vers 1930. Beaucoup pensaient également que cela relevait de la science-fiction. Finalement, l'idée est devenue respectable et les théories modernes proclament que chaque particule subatomique possède une antiparticule, et cela inclut la petite particule neutre de Pauli, le neutrino. Son antiparticule est appelée anti-neutrino, et les deux sont de minuscules particules non chargées dont il n’a pas été démontré jusqu’à présent qu’elles aient une masse détectable. La théorie quantique moderne exige que l’absorption d’un anti-neutrino soit en réalité la même chose que l’émission d’un neutrino. La théorie moderne dit également que la désintégration bêta est en réalité :
+L’idée de l’antimatière et de l’énergie négative a été introduite par le grand physicien Paul Dirac vers 1930. Beaucoup pensaient également que cela relevait de la science-fiction. Finalement, l'idée est devenue respectable et les théories modernes proclament que chaque particule subatomique possède une antiparticule, et cela inclut la petite particule neutre de Pauli, le neutrino. Son antiparticule est appelée anti-neutrino, et les deux sont de minuscules particules non chargées dont il n’a pas été démontré jusqu’à présent qu’elles aient une masse détectable. La théorie quantique moderne exige que l’absorption d’un anti-neutrino soit en réalité la même chose que l’émission d’un neutrino. La théorie moderne dit également que la désintégration bêta est en réalité :
 
 neutron $\longrightarrow$ proton + W-
 

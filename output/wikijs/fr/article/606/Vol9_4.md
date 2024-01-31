@@ -29,13 +29,13 @@ Dexter Cave de Tahiti, qui effectuait une tournée de travail autour de Victoria
 
 Dana Poole de Griffin, Géorgie, États-Unis, est la rédactrice en chef du bulletin d'information « Harmony », qui n'est publié qu'une fois par an. Dana, professeur de littérature jeunesse, a assisté à la conférence mondiale sur la littérature jeunesse à Surfers Paradise, près de Brisbane. Elle a pu combiner son travail avec la rencontre de lecteurs du Livre d'URANTIA à Brisbane, Towamba, Melbourne et Sydney. L'un de ses grands plaisirs a été de visiter le sanctuaire de Healesville, près de Melbourne, où elle a pu prendre des instantanés de notre faune et de notre flore indigènes à sa guise. Nous lui avons également montré une forêt tropicale vierge sur le mont Donna Buang, près de Warburton, où certains hêtres Myrtle auraient environ mille ans et abriteraient de nombreuses fougères et mousses. Avec l'eau cristalline de Cement Creek qui coule entre les fougères et les sorbiers géants, le bois dur le plus haut du monde, c'est vraiment un endroit magnifique et Dana n'avait jamais rien vu de tel de sa vie. Nous espérons qu'elle pourra un jour retourner en Australie pour renouer les amitiés qu'elle a nouées lors de son court séjour dans ce beau pays qui est le nôtre.
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « L’espoir du christianisme moderne consiste à cesser de parrainer les systèmes sociaux et la politique industrielle de la civilisation occidentale, tout en s’inclinant humblement devant la croix qu’il exalte si vaillamment, et à y apprendre à nouveau de Jésus de Nazareth les plus grandes vérités que l’homme mortel puisse jamais entendre — l’évangile vivant de la paternité de Dieu et de la fraternité des hommes. » ([LU 195:10.21](/fr/The_Urantia_Book/195#p10_21))
 
 ## La deuxième prédiction remarquable
 
-DÉRIVE CONTINENTALE : _Le Livre d'URANTIA_ le déclare de manière assez catégorique. que toutes les terres émergées de la Terre étaient à l'origine un seul continent qui s'est ensuite fragmenté il y a 750 millions d'années ([LU 57:8.23](/fr/The_Urantia_Book/57#p8_23)), suivi d'une longue période de dérive des continents au cours de laquelle des ponts terrestres ont été créés à plusieurs reprises. formé et brisé.
+DÉRIVE CONTINENTALE : _Le Livre d'URANTIA_ le déclare de manière assez catégorique. que toutes les terres émergées de la Terre étaient à l'origine un seul continent qui s'est ensuite fragmenté il y a 750 millions d'années ([LU 57:8.23](/fr/The_Urantia_Book/57#p8_23)), suivi d'une longue période de dérive des continents au cours de laquelle des ponts terrestres ont été créés à plusieurs reprises. formé et brisé.
 
 L’idée de la dérive des continents a été évoquée au 19ème siècle et présentée pour la première fois comme une théorie globale par Wegener en 1912. Elle n’a pas été bien acceptée, étant classée parmi les sciences les plus géniales, et devenant de plus en plus discréditée jusque dans les années 1960. Je me souviens encore d'avoir assisté à un cours de géologie à l'Université de Sydney en 1951, lorsque le professeur avait rejeté le concept de dérive des continents en faisant remarquer qu'il n'existait aucune force connue susceptible de déchirer les continents. Ce changement d’attitude a été initié par la découverte de longues chaînes de montagnes au fond des océans, comme la dorsale médio-atlantique qui s’étend de l’Islande à l’Antarctique. Au cours des années 1960, un examen minutieux du fond océanique a révélé que la roche du manteau terrestre était en train de fondre, puis poussée vers le haut, ce qui entraînait l'expansion du fond marin. On s’attendrait à ce que cette remontée d’eau sépare les continents et fournisse ainsi la preuve manquante d’un mécanisme physique susceptible de provoquer la dérive des continents. Cependant, on ne l’appelait pas dérive des continents, mais plutôt le nom plus scientifique de tectonique des plaques.
 
@@ -89,7 +89,7 @@ D'autres personnes sont entrées dans la salle pendant la pause et nous avons d�
 
 Après la pause, Claire a parlé de l'atteinte de la plus haute liberté spirituelle à laquelle on est confronté en lisant le livre.
 
-Ensuite, nous avons rejoint Liesbeth et Philip dans le Zenzolder, et ils ont ajusté les airs spirituels : « La mélodie a le pouvoir de transformer tout un monde » (500 :6).
+Ensuite, nous avons rejoint Liesbeth et Philip dans le Zenzolder, et ils ont ajusté les airs spirituels : « La mélodie a le pouvoir de transformer tout un monde » (500 :6).
 
 ### Comprendre les valeurs des groupes d'étude
 
@@ -128,11 +128,11 @@ Extrait du Synergiste du Livre URANTIA, été 1987
 
 Gérard Touchet du Canada, érudit et religieux, partage ses idées tirées d'une vie d'expérience et d'études. Dans sa jeunesse, il était missionnaire en Inde. En 1971, il découvrit _Le Livre d'URANTIA_ et, en tant qu'étudiant des Fascicules, il poursuivit sa quête de perspicacité et de connaissance. Aujourd'hui, il a la motivation de partager sa recherche de Dieu comme notre Père au service de nous tous... L'humanité comme ses frères,
 
-Gérard a fourni environ 20 messages, dont la plupart sont intitulés : « News Fran Ascenders Trail ».
+Gérard a fourni environ 20 messages, dont la plupart sont intitulés : « News Fran Ascenders Trail ».
 
 George Sammis de la Bibliothèque de la Fraternité des Hommes a aimablement fait don de ces conférences sur bande audio aux groupes d'étude d'Australie.
 
-Toute personne intéressée peut contacter :
+Toute personne intéressée peut contacter :
 
 Willian Wentworth
 Bois d'orme
@@ -141,7 +141,7 @@ Towamba, Nouvelle-Galles du Sud. 2550
 
 ## Foire internationale du livre de Londres
 
-Il y a eu un événement qui pourrait éventuellement s'avérer très important pour la diffusion des enseignements d'URANTIA en Grande-Bretagne. Pour la première fois dans ce pays, _Le Livre d'URANTIA_ a été exposé sur un stand lors d'une Foire du Livre. La Foire internationale du livre de Londres, la plus grande du genre dans ce pays, s'est tenue à l'Olympia de Londres du 28 au 30 mars, et le week-end précédent, nous avons eu le plaisir de rencontrer John Hales, directeur résident de la Fraternité Urantia, et son épouse. ; Dave Aînés ; et Scott Forsythe et sa femme, au domicile de Gez et Pamela Lamb à Harrow. Nous avons tous eu une visite très agréable et utile, et une rare opportunité d'entendre parler de première main du travail de ce qui est, après tout, le centre de l'activité du Livre d'URANTIA sur la planète. L'un des objectifs de la visite de nos invités américains à la Foire était d'essayer de trouver un distributeur approprié pour notre livre grâce aux contacts noués à la Foire et, grâce à ces contacts, un distributeur britannique pourrait bientôt être désigné.
+Il y a eu un événement qui pourrait éventuellement s'avérer très important pour la diffusion des enseignements d'URANTIA en Grande-Bretagne. Pour la première fois dans ce pays, _Le Livre d'URANTIA_ a été exposé sur un stand lors d'une Foire du Livre. La Foire internationale du livre de Londres, la plus grande du genre dans ce pays, s'est tenue à l'Olympia de Londres du 28 au 30 mars, et le week-end précédent, nous avons eu le plaisir de rencontrer John Hales, directeur résident de la Fraternité Urantia, et son épouse. ; Dave Aînés ; et Scott Forsythe et sa femme, au domicile de Gez et Pamela Lamb à Harrow. Nous avons tous eu une visite très agréable et utile, et une rare opportunité d'entendre parler de première main du travail de ce qui est, après tout, le centre de l'activité du Livre d'URANTIA sur la planète. L'un des objectifs de la visite de nos invités américains à la Foire était d'essayer de trouver un distributeur approprié pour notre livre grâce aux contacts noués à la Foire et, grâce à ces contacts, un distributeur britannique pourrait bientôt être désigné.
 
 Jusqu'à présent, bien sûr, les quelques librairies qui proposaient le _Livre d'URANTIA_ devaient commander des exemplaires uniques ou de petits lots directement à Chicago ou auprès de distributeurs américains. On peut espérer que s'il existe un distributeur britannique, les librairies britanniques seront moins réticentes à stocker le Livre et qu'ainsi il deviendra plus connu.
 
@@ -163,7 +163,7 @@ Extrait de : _Le Livre d'Urantia_ Bulletin du groupe d'étude printemps 1988
 
 Cher 6-0-6
 
-Je suis opérateur radio han et j'ai plusieurs amis lecteurs avec qui je discute chaque semaine via ondes courtes. Je souhaitais depuis un certain temps avoir un groupe d'étude international par radio. Connaissez-vous des lecteurs de jambon aux antipodes ou seriez-vous intéressé à publier un appel ? Je serais très intéressé d'entendre des jambons par courrier pour établir un calendrier. Mon indicatif d'appel est N6KOB.
+Je suis opérateur radio han et j'ai plusieurs amis lecteurs avec qui je discute chaque semaine via ondes courtes. Je souhaitais depuis un certain temps avoir un groupe d'étude international par radio. Connaissez-vous des lecteurs de jambon aux antipodes ou seriez-vous intéressé à publier un appel ? Je serais très intéressé d'entendre des jambons par courrier pour établir un calendrier. Mon indicatif d'appel est N6KOB.
 
 Bruce Fiero, 12901 Warren Ave Mar Vista, CA 90066-1744, États-Unis
 
@@ -183,9 +183,9 @@ Ken Glasziou, Maleny, Queensland.
 > 
 > Jean Roger
 
-> Face à des critiques injustes, nous pouvons devenir amers, voire meilleurs ; bouleversé ou compréhensif ; hostile ou humble; furieux ou indulgent.
+> Face à des critiques injustes, nous pouvons devenir amers, voire meilleurs ; bouleversé ou compréhensif ; hostile ou humble; furieux ou indulgent.
 
-## Dans notre prochain numéro :
+## Dans notre prochain numéro :
 
 «Explorer notre arrière-cour Onn» - LE SYSTÈME SOLAIRE, par Rod McCourt
 

@@ -30,7 +30,7 @@ Les yeux sur le bout de mon nez
 Merde, cette pose de lotus !
 La discipline peut être une bonne chose
 Pour un esprit divin
-Mais je suis devenu engourdi dans l'asana !
+Mais je suis devenu engourdi dans l'asana !
 
 Je visualise le coeur
 Juste pour commencer,

@@ -17,7 +17,7 @@ De même, dans un groupe de personnes, il existe de nombreuses personnalités di
 
 Je pense que nous avons tous l’ambition secrète de fusionner un jour avec notre Ajusteur de Pensée. Mais que signifie réellement la fusion ? D’après ce que je peux voir, cela signifie que deux entités, l’une prépersonnelle et l’autre personnelle, ne font plus qu’une. Ils ont pris l'identité de l'autre. On ne peut plus les différencier. C'est ce que nous visons. Pour nous identifier à notre Ajusteur de Pensée.
 
-Je me rends compte que nous sommes encore très, très loin de ce point de notre carrière universelle, mais supposons un instant que nous étions sur la bonne voie. À ce moment-là, notre Ajusteur contrôlerait fermement nos pensées. Ce fragment du Père Universel est AMOUR, AMOUR INCONDITIONNEL :
+Je me rends compte que nous sommes encore très, très loin de ce point de notre carrière universelle, mais supposons un instant que nous étions sur la bonne voie. À ce moment-là, notre Ajusteur contrôlerait fermement nos pensées. Ce fragment du Père Universel est AMOUR, AMOUR INCONDITIONNEL :
 
 Si nous voyions les choses à travers les yeux de notre Divin Moniteur, dirions-nous alors à notre ami : « Je ne t'aimerai et ne coopérerai avec toi que si tu es gentil avec moi et si tu es d'accord avec moi. Si vous avez un avis différent. Je vais être très bouleversé et peut-être même en colère ».
 

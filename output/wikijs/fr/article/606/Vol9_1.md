@@ -33,7 +33,7 @@ Nous attendons pas mal de visiteurs d'autres pays. Tous ceux qui ont assisté à
 
 Cette année, 1988, est notre neuvième année de publication. Nous voulons encourager tout le monde à continuer à nous écrire, car sans vos lettres et articles, il n'y aurait pas de newsletter Six-0-Six.
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « Le développement spirituel dépend, en premier lieu, du maintien d’un lien spirituel vivant avec de vraies forces spirituelles, et, en second lieu, de la production continue de fruits spirituels par transmission, à vos compagnons, de l’aide que vous avez reçue de vos bienfaiteurs spirituels. Le progrès spirituel est basé sur la récognition intellectuelle de la pauvreté spirituelle, doublée de la conscience personnelle de la soif de perfection, du désir de connaitre Dieu et d’être semblable à lui, de l’intention sincère de faire la volonté du Père qui est aux cieux. » ([LU 100:2.1](/fr/The_Urantia_Book/100#p2_1))
 
@@ -47,7 +47,7 @@ Les informations concernant votre réunion du Pacifique Sud se trouvent dans not
 
 Saluez Steven Shanahan. J'espère que votre rencontre sera aussi agréable que celle que nous avons eue en France !
 
-Sur la base des lettres reçues ou d'amitiés personnelles, la lettre circulaire suivante a été envoyée à :
+Sur la base des lettres reçues ou d'amitiés personnelles, la lettre circulaire suivante a été envoyée à :
 
 - A. M. Bailey, ACFUA, Californie, États-Unis
 - John Blogg, Lecteurs du Livre URANTIA d'Amsterdam, Holland Oliver 'Asana' Duex, The Synergist, Californie, États-Unis François Dupont, Belgique
@@ -108,14 +108,14 @@ Pour tous ceux qui ont totalement adopté _Le Livre d'URANTIA_, je suis sûr que
 
 Début décembre 187, un jeune Lapon énergique venu de Finlande arriva à Melbourne. Torsti Äärelä, étudiant en théologie à l'université d'Helsinki, voyageait à travers l'Australie pour essayer d'en apprendre le plus possible sur nous, les Australiens. Après six semaines, il trouva le numéro d'un groupe d'étude du Livre d'URANTIA répertorié dans l'annuaire téléphonique de Melbourne. Après une semaine passée à visiter les sites touristiques d'ici et à rencontrer quelques lecteurs, il est reparti, désireux de vivre de nouvelles aventures.
 
-Saviez-vous qu'avec une population d'environ 5 millions d'habitants, la Finlande compte environ 1000 lecteurs du _Livre d'URANTIA_ ? Cet automne prochain, le U-Book sera présenté dans le programme d'enseignement de l'Université OPEN d'Helsinki. En juillet 1989, Hameenlinna, en Finlande, accueillera une conférence internationale.
+Saviez-vous qu'avec une population d'environ 5 millions d'habitants, la Finlande compte environ 1000 lecteurs du _Livre d'URANTIA_ ? Cet automne prochain, le U-Book sera présenté dans le programme d'enseignement de l'Université OPEN d'Helsinki. En juillet 1989, Hameenlinna, en Finlande, accueillera une conférence internationale.
 
 Contact : Pekka Piirainen, Société pour la culture et l'éducation, Lauttasaarentie 9B21, 00200, Helsinki, Finlande.
 
 
 ## Chers amis,
 
-Est-ce juste une heureuse coïncidence si vous m'avez envoyé un exemplaire du « Six-0-Six Newsletter » maintenant, ou saviez-vous que je viens de commencer à éditer un bulletin d'information destiné aux lecteurs britanniques ? Je pense que votre newsletter (que j'avais vue une ou deux fois auparavant) est très inspirante, et c'est exactement le genre de chose que j'espère que notre propre newsletter deviendra, si nous recevons suffisamment de contributions des lecteurs. Pour le moment, nous appelons simplement le nôtre « _Le Livre d'URANTIA_ Bulletin du Groupe d'Étude » ; un numéro est paru jusqu'à présent. J'ai l'intention de le rendre trimestriel et je vous enverrai certainement le prochain.
+Est-ce juste une heureuse coïncidence si vous m'avez envoyé un exemplaire du « Six-0-Six Newsletter » maintenant, ou saviez-vous que je viens de commencer à éditer un bulletin d'information destiné aux lecteurs britanniques ? Je pense que votre newsletter (que j'avais vue une ou deux fois auparavant) est très inspirante, et c'est exactement le genre de chose que j'espère que notre propre newsletter deviendra, si nous recevons suffisamment de contributions des lecteurs. Pour le moment, nous appelons simplement le nôtre « _Le Livre d'URANTIA_ Bulletin du Groupe d'Étude » ; un numéro est paru jusqu'à présent. J'ai l'intention de le rendre trimestriel et je vous enverrai certainement le prochain.
 
 Je présume que Kathleen et Trevor Swadling vous ont suggéré mon nom. Dans ce cas, vous saurez que je suis originaire de Sydney, que je les connais depuis de nombreuses années et que nous gardons toujours des contacts réguliers. Nous (ma femme et moi) faisions partie du groupe d'étude à Sydney jusqu'à notre dernier départ en 1982, et nous espérons les rencontrer, ainsi que vous, lorsque nous viendrons à la conférence du Pacifique Sud en octobre prochain, que nous attendons avec impatience.
 
@@ -168,7 +168,7 @@ David Glass, Fort Worth, Texas. ETATS-UNIS.
 
 ## Groupes d'étude
 
-Pour plus d’informations sur les groupes d’étude, contactez les personnes suivantes :
+Pour plus d’informations sur les groupes d’étude, contactez les personnes suivantes :
 
 &nbsp; | &nbsp;
 --- | ---
@@ -188,7 +188,7 @@ Cynthia Hopper, Willowdale, Ontario, Canada
 
 
 
-Note de la rédaction : Cynthia, vous avez mis le doigt sur la tête !
+Note de la rédaction : Cynthia, vous avez mis le doigt sur la tête !
 
 ## Nouvelles du. Fondation Jésussonienne
 
@@ -204,7 +204,7 @@ La deuxième JOURNÉE MONDIALE DE LA GUÉRISON aura lieu le samedi 13 février.
 
 Six-0-Six aimerait encourager tous ses lecteurs à se joindre au reste du monde et à méditer ou à prier pour la paix sur notre bien-aimée planète 606. L'année dernière, environ 500 millions de personnes y ont participé. Visons le milliard cette année. Alors parlez-en aussi à vos amis !
 
-HEURE DE LIAISON : 12 heures, heure de Greenwich ou 23 heures. Heure d’été de l’Est en Australie.
+HEURE DE LIAISON : 12 heures, heure de Greenwich ou 23 heures. Heure d’été de l’Est en Australie.
 
 Que la paix du Père nous enveloppe tous
 

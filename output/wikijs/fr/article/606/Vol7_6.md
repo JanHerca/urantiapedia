@@ -51,7 +51,7 @@ Le sifflement d'un train venant à toute vitesse vers nous devient plus aigu à 
 
 Ken Glasziou, Clifton, Queensland.
 
-LE MOIS PROCHAIN : Ne manquez pas la dernière partie de Ken : Les Origines de la vie !
+LE MOIS PROCHAIN : Ne manquez pas la dernière partie de Ken : Les Origines de la vie !
 
 ## Australie — Un pays païen ? Une réplique
 
@@ -114,13 +114,13 @@ ES-TU PRÊT POUR LE CHALLENGE! VENEZ TESTER VOS CONNAISSANCES SUR LE LIVRE D'URA
 | 21 SEPTEMBRE | 19 OCTOBRE | 16 NOVEMBRE |
 | 14 DÉCEMBRE | (cela équivaut à toutes les 4 semaines à partir du 29 juin) ||
 
-SI VOUS VOULEZ Y ALLER, APPELEZ-NOUS ET RÉSERVEZ UNE PLACE. IL AURA LIEU CHEZ NOUS À NORTH BALWYN ET VOUS POUVEZ NOUS APPELER SUR CES LIGNES :
+SI VOUS VOULEZ Y ALLER, APPELEZ-NOUS ET RÉSERVEZ UNE PLACE. IL AURA LIEU CHEZ NOUS À NORTH BALWYN ET VOUS POUVEZ NOUS APPELER SUR CES LIGNES :
 
 MARY CRICKETT 3704437 (9h-12h)
 
 ROB CRICKET · 6021333 (18h-20h.)
 
-LES GROUPES D’ÉTUDE SONT DE TOUTES FORMES ET TAILLES : BIENVENUE CHEZ NÔTRE
+LES GROUPES D’ÉTUDE SONT DE TOUTES FORMES ET TAILLES : BIENVENUE CHEZ NÔTRE
 
 ## Souper du Souvenir
 

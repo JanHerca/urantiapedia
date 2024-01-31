@@ -21,7 +21,7 @@ La psychologie en tant que science continue de rompre les liens avec son « pèr
 
 L’Occident s’est tourné vers l’Orient vers les différentes religions, a ignoré le contenu religieux et a examiné les pratiques, et a découvert une attitude envers la vie et la réalité qui ressemblait fortement à la théorie quantique de la physique et à la théorie de la relativité. Il semblait donc légitime de rechercher de telles pratiques permettant d’atteindre des « états modifiés de conscience ». La psychologie transpersonnelle, la nouvelle perspective, a su distinguer trois niveaux de conscience que nous possédons tous, qu'ils soient utilisés ou non.
 
-Considérés comme un continuum, ils sont :
+Considérés comme un continuum, ils sont :
 
 1) Le niveau de l’ego – concerne les rôles, les images de soi et les aspects analytiques de notre esprit avec lesquels nous nous identifions habituellement.
 2) Le niveau existentiel - concerne notre sens fondamental de l'existence, le sens de la vie, la confrontation avec la mort et la solitude, et l'expérience centrale d'être au monde.

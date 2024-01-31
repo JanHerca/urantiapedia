@@ -1,5 +1,5 @@
 ---
-title: « Comment devenir davantage semblable à Jésus »
+title: « Comment devenir davantage semblable à Jésus »
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -15,7 +15,7 @@ _Tony Rudd, Melbourne_
 
 La Conférence des Lecteurs du Livre d'URANTIA de 1993 à la Gold Coast est terminée. Comme Neil l'a mentionné ailleurs dans ce numéro spécial de conférence de Six-O-Six, ce fut un rassemblement formidable pour toutes les personnes concernées. Le thème « Bienvenue sur les rives du paradis » a été défini en termes plus pratiques comme « un partage d’idées sur la façon dont nous envisageons de grandir spirituellement [par] une meilleure communication avec le moniteur divin qui habite dans l’esprit humain ».
 
-Neil a fourni une excellente occasion aux lecteurs individuels de donner de brefs témoignages personnels sur la manière dont ils s'efforcent d'y parvenir, comme il l'explique dans la section « Sur la réflexion » de ce numéro. Il a également offert à tous les participants une opportunité de groupe d'exprimer leurs points de vue, les chefs de groupe rendant compte à l'ensemble des conclusions de leur groupe.
+Neil a fourni une excellente occasion aux lecteurs individuels de donner de brefs témoignages personnels sur la manière dont ils s'efforcent d'y parvenir, comme il l'explique dans la section « Sur la réflexion » de ce numéro. Il a également offert à tous les participants une opportunité de groupe d'exprimer leurs points de vue, les chefs de groupe rendant compte à l'ensemble des conclusions de leur groupe.
 
 Chacune des trois journées a débuté par une présentation plus formelle des idées et des concepts suscités par le thème. Le premier matin, Neil a parlé du concept de modèle à différents niveaux comme cadre conceptuel pour visualiser notre ascension au Paradis. Le dimanche matin, Ann Bendall a fait une présentation sur l'ego, et le dernier matin, Ken Glasziou a résumé la façon dont le Maître lui-même a affiné son contact avec son ajusteur de pensée (pas un mauvais modèle, hein ?). Les deux dernières conférences sont abordé ailleurs dans cette édition.
 
@@ -35,11 +35,11 @@ J'ai mélangé des indices sur ces quatre rencontres avec ma propre expérience 
 
 ## Poser des questions
 
-Cultivez votre véritable intérêt pour la personne en arrivant là où elle se trouve. Posez des questions ouvertes. Cela signifie ceux qui invitent à une opinion ou à une explication, plutôt qu’à une réponse oui/non. Les questions commençant par « comment ? », « pourquoi ? », « de quelle manière ? » sont meilleures que les questions « est-ce que vous ? » ou « est-ce ? ». Des déclarations telles que « parlez-m'en davantage sur... » produisent le même effet qu'une question ouverte. Continue d'essayer. Même le premier pari du Maître avec le jeune homme qui avait peur, lui demandant en fait s'il pouvait l'aider, n'a pas fonctionné. Regardez la deuxième tentative de Jésus :
+Cultivez votre véritable intérêt pour la personne en arrivant là où elle se trouve. Posez des questions ouvertes. Cela signifie ceux qui invitent à une opinion ou à une explication, plutôt qu’à une réponse oui/non. Les questions commençant par « comment ? », « pourquoi ? », « de quelle manière ? » sont meilleures que les questions « est-ce que vous ? » ou « est-ce ? ». Des déclarations telles que « parlez-m'en davantage sur... » produisent le même effet qu'une question ouverte. Continue d'essayer. Même le premier pari du Maître avec le jeune homme qui avait peur, lui demandant en fait s'il pouvait l'aider, n'a pas fonctionné. Regardez la deuxième tentative de Jésus :
 
 > « _Je comprends que tu montes dans ces collines pour fuir les gens ; il est donc naturel que tu ne désires pas t’entretenir avec moi, mais j’aimerais savoir si tu es un familier de ces collines. Connais-tu la direction de ces pistes ? »_ » ([LU 130:6.2](/fr/The_Urantia_Book/130#p6_2))
 
-Je suppose qu'il est difficile de communiquer avec quelqu'un à moins de le faire parler !
+Je suppose qu'il est difficile de communiquer avec quelqu'un à moins de le faire parler !
 
 ## Écouter
 

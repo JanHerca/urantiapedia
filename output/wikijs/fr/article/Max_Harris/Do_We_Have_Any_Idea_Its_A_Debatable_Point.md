@@ -13,7 +13,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Par Max Harris, Australie du Sud_
 
-Comme cela me manque, la puissance et la poussée du débat idéologique ; de bons esprits proposent des idées et de meilleurs esprits les démolissent.
+Comme cela me manque, la puissance et la poussée du débat idéologique ; de bons esprits proposent des idées et de meilleurs esprits les démolissent.
 
 Quelle importance pour notre destinée sociale le choc et la concorde des esprits peuvent être, surtout lorsque les armes de l’esprit, de l’ironie, du ratiocination, de l’analogie et de la logique commune ont permis au sens réfléchi de l’emporter sur la bêtise.
 

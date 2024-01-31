@@ -13,7 +13,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Ann Bendall, Nambour, Queensland_
 
-Excusez-moi, mais au risque de paraître curieux, puis-je vous demander :
+Excusez-moi, mais au risque de paraître curieux, puis-je vous demander :
 
 - Êtes-vous plus ingénieux pour révéler la bonté à l’humanité aujourd’hui qu’hier ?
 - Êtes-vous un meilleur défenseur de la droiture cette année que l'année dernière ?

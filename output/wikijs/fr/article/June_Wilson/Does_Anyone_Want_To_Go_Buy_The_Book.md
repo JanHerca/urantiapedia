@@ -19,7 +19,7 @@ La familiarité est également un obstacle. Ceux qui connaissent trop bien ces h
 
 La publication lance un défi à ses lecteurs : comment pouvons-nous nous contenter de quelque chose d’aussi ouvertement statique que la Bible ? Où sont les derniers ajouts ? Dieu n'a-t-il rien dit de nouveau depuis 2000 ans ?
 
-Une autre raison du changement dans les habitudes de lecture est que nous sommes tous très occupés par la vie moderne. Nous devons développer des techniques pratiques pour intégrer l’étude religieuse dans notre routine quotidienne. Combien de temps est consacré aux réunions et discussions familiales ? De quels mots imprimés tirons-nous nos nouvelles et nos conceptions de la vie ? Les priorités semblent toujours être la survie (souvent financière) plutôt que l'exploration de la foi.
+Une autre raison du changement dans les habitudes de lecture est que nous sommes tous très occupés par la vie moderne. Nous devons développer des techniques pratiques pour intégrer l’étude religieuse dans notre routine quotidienne. Combien de temps est consacré aux réunions et discussions familiales ? De quels mots imprimés tirons-nous nos nouvelles et nos conceptions de la vie ? Les priorités semblent toujours être la survie (souvent financière) plutôt que l'exploration de la foi.
 
 Une autre difficulté des livres religieux est qu’ils appartiennent à la culture d’une autre époque. Cette situation est aggravée par le mode de vie des jeunes qui traversent les frontières nationales. Comment une génération peut-elle communiquer avec la suivante lorsque sa pensée devient « étrangère » ?
 

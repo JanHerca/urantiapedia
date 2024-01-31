@@ -40,10 +40,10 @@ Quel était l’élément clé qui soutenait leur volonté et les faisait avance
 
 ## Mon premier pas
 
-Il y a une chanson intitulée « Que faites-vous, le test de votre vie ? ». Eh bien, chaque jour, pour le reste de ma vie, j'ai l'intention de dire cette prière :
+Il y a une chanson intitulée « Que faites-vous, le test de votre vie ? ». Eh bien, chaque jour, pour le reste de ma vie, j'ai l'intention de dire cette prière :
 
 > _Dieu mon Père, c'est ma volonté qu'Urantia réalise des progrès (comme tu le feras) toujours plus efficacement. Michael, je t'aime._
 
-Est-ce que je m’attends à voir de réels progrès au cours de ma vie ? Oui je le fais! Cette chanson est tirée d'un film intitulé _« The Happy Ending » !_
+Est-ce que je m’attends à voir de réels progrès au cours de ma vie ? Oui je le fais! Cette chanson est tirée d'un film intitulé _« The Happy Ending » !_
 
 

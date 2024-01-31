@@ -25,7 +25,7 @@ Il y a déjà des signes d’un déclin du fondamentalisme parmi les principales
 
 La disparition de la 3ème Révélation d’Époque et le succès limité de la 4ème devraient nous apprendre quelque chose. Melchisédek avait averti ses disciples d'enseigner sur le Dieu unique, le Père et Créateur de tous et de prêcher un évangile précis concernant la vérité de la réalité du Père Universel. Les missionnaires en Mésopotamie ont trop tenté, ils ont prêché des normes morales trop élevées pour le peuple et en une génération, le quartier général de Salem à Kish a pris fin. (1043)
 
-Jésus a prêché l'évangile du royaume, la paternité de Dieu, notre filiation avec le Père et la fraternité de tous les hommes. Il parlait d’un royaume spirituel dans le cœur des hommes. Cependant, ses disciples étaient incapables d’abandonner leur conception d’un royaume messianique terrestre. Ils ont converti la mort de Jésus sur la croix en un acte sacrificiel pour le pardon des péchés, une doctrine qui a apporté un énorme soulagement aux pauvres, aux malades et aux malheureux qui croyaient que leur sort était une punition pour le péché. La doctrine chrétienne ultérieure n'a pas réussi à résoudre une contradiction apparente entre l'amour et la miséricorde parfaits de Dieu et la justice parfaite de Dieu ; par conséquent, la doctrine de l’expiation perdure jusqu’à nos jours. _Le Livre d'URANTIA_ enseigne que :
+Jésus a prêché l'évangile du royaume, la paternité de Dieu, notre filiation avec le Père et la fraternité de tous les hommes. Il parlait d’un royaume spirituel dans le cœur des hommes. Cependant, ses disciples étaient incapables d’abandonner leur conception d’un royaume messianique terrestre. Ils ont converti la mort de Jésus sur la croix en un acte sacrificiel pour le pardon des péchés, une doctrine qui a apporté un énorme soulagement aux pauvres, aux malades et aux malheureux qui croyaient que leur sort était une punition pour le péché. La doctrine chrétienne ultérieure n'a pas réussi à résoudre une contradiction apparente entre l'amour et la miséricorde parfaits de Dieu et la justice parfaite de Dieu ; par conséquent, la doctrine de l’expiation perdure jusqu’à nos jours. _Le Livre d'URANTIA_ enseigne que :
 
 > « _Le Père céleste plein d’affection, dont l’esprit habite ses enfants sur terre, n’est pas une personnalité divisée — l’une de justice et l’autre de miséricorde. Il n’y a pas davantage besoin d’un médiateur pour obtenir la faveur ou le pardon du Père. La droiture divine n’est pas dominée par une stricte justice distributive. Dieu en tant que père transcende Dieu en tant que juge._ » ([LU 2:6.6](/fr/The_Urantia_Book/2#p6_6))
 
@@ -35,7 +35,7 @@ Les évangiles du Nouveau Testament déclarent que Jésus et ses disciples parco
 
 À d’autres occasions encore, les récits évangéliques racontent que Jésus a facilement pardonné les péchés à ceux qui recherchaient la guérison, mais sans qu’aucune offrande sacrificielle ne soit requise. Ainsi, il existe un soutien adéquat dans le Nouveau Testament pour l'évangile du royaume tel que décrit dans _Le Livre d'URANTIA_.
 
-_Le Livre d'URANTIA_ a fait peu de progrès évidents dans les églises au cours des quarante dernières années. Si ses enseignements sont incorporés à l’enseignement chrétien actuel, cela se fait sans référence au livre lui-même. Il n'est pas cohérent avec les enseignements du _Livre d'URANTIA_ que ses révélateurs exigent un crédit pour une telle incorporation. Si tel est le moyen le plus efficace de réaliser l’une des aspirations mentionnées dans ses enseignements, qu’il en soit ainsi :
+_Le Livre d'URANTIA_ a fait peu de progrès évidents dans les églises au cours des quarante dernières années. Si ses enseignements sont incorporés à l’enseignement chrétien actuel, cela se fait sans référence au livre lui-même. Il n'est pas cohérent avec les enseignements du _Livre d'URANTIA_ que ses révélateurs exigent un crédit pour une telle incorporation. Si tel est le moyen le plus efficace de réaliser l’une des aspirations mentionnées dans ses enseignements, qu’il en soit ainsi :
 
 > « _Les temps sont murs pour constater la résurrection symbolique du Jésus humain, sortant du tombeau des traditions théologiques et des dogmes religieux de dix-neuf siècles. Jésus de Nazareth ne doit plus être sacrifié, même au concept splendide du Christ glorifié. Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions !_ » ([LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
 
@@ -58,24 +58,24 @@ L’expérience des lecteurs du Livre d’URANTIA qui vont à l’église a déj
 
 > « _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme._ » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
-Parce que Jésus est sa figure centrale, le _Livre d'URANTIA_ sera jugé selon son effet sur les chrétiens ; le comportement des chrétiens les uns envers les autres est probablement le seul facteur susceptible de catalyser une transformation parmi les non-chrétiens.
+Parce que Jésus est sa figure centrale, le _Livre d'URANTIA_ sera jugé selon son effet sur les chrétiens ; le comportement des chrétiens les uns envers les autres est probablement le seul facteur susceptible de catalyser une transformation parmi les non-chrétiens.
 
 Peut-être que la référence dans _Le Livre d'URANTIA_ à un deuxième Jean-Baptiste est figurative et représente réellement ce groupe d'individus qui prépareront le chemin pour le livre en faisant d'abord revivre le véritable évangile du royaume. Le livre lui-même nous fixe un objectif très limité :
 
 > « _Le but ultime du progrès humain consiste à reconnaitre respectueusement la paternité de Dieu et à matérialiser avec amour la fraternité des hommes._ » ([LU 143:1.4](/fr/The_Urantia_Book/143#p1_4))
 
-### Références pour « Notre mandat »
+### Références pour « Notre mandat »
 
-_Remarque Urantiapedia : voir les liens en haut de la page._
+_Remarque Urantiapedia : voir les liens en haut de la page._
 
-1. Matthieu 22 :37 ; Marc 12:30 ; Luc 10:27 ; LU 131 : 10.3 ; LU 164 : 1.2 ; LU 174:4.2
-2. Jean 1:13 ; Jean 13:34 ; Jean 15:12 ; LU 180 : 1.1 ; LU 180 : 2.1 ; LU 180 : 2,5 ; LU 180 : 4,5 ; LU 180 : 6.1 ; LU 181 : 2,30 ; LU 182 : 1.6 ; LU 191 : 4.3 ; LU 191:6.2
-3. Matthieu 18 :20 ; LU 103:4.1
-4. Jean 16:13 ; Gal 4:6 ; LU 182 : 1.6 ; LU 180 : 4.2 ; LU 194
-5. Jean 14:15-17 ; Jean 15:26 ; Romains 8 :14-16 ; LU 34 : 5.6 ; LU 182 : 1.6 ; LU 180:4.2
-6. 1 Jn 4:8,16 ; LU 1:3.8 ; LU 2:5.1 ; LU 3:4.7 ; LU 39 :1.15 ; etc. également LU 3:4.7 ; LU 188:5.2
-7. Marc 3:35 ; 1 Jean 2:17 ; Éph 6:6 ; Romains 12 : 2 ; Hé 10:36 ; LU 111 : 6.1 ; LU 118:8.11
-8. Matthieu 5:48 ; 2 Cor 13:11 ; LU 140 : 5.4 ; LU 140 : 10.9 ; LU 160 : 5.13 ; LU 170 : 2.19
+1. Matthieu 22 :37 ; Marc 12:30 ; Luc 10:27 ; LU 131 : 10.3 ; LU 164 : 1.2 ; LU 174:4.2
+2. Jean 1:13 ; Jean 13:34 ; Jean 15:12 ; LU 180 : 1.1 ; LU 180 : 2.1 ; LU 180 : 2,5 ; LU 180 : 4,5 ; LU 180 : 6.1 ; LU 181 : 2,30 ; LU 182 : 1.6 ; LU 191 : 4.3 ; LU 191:6.2
+3. Matthieu 18 :20 ; LU 103:4.1
+4. Jean 16:13 ; Gal 4:6 ; LU 182 : 1.6 ; LU 180 : 4.2 ; LU 194
+5. Jean 14:15-17 ; Jean 15:26 ; Romains 8 :14-16 ; LU 34 : 5.6 ; LU 182 : 1.6 ; LU 180:4.2
+6. 1 Jn 4:8,16 ; LU 1:3.8 ; LU 2:5.1 ; LU 3:4.7 ; LU 39 :1.15 ; etc. également LU 3:4.7 ; LU 188:5.2
+7. Marc 3:35 ; 1 Jean 2:17 ; Éph 6:6 ; Romains 12 : 2 ; Hé 10:36 ; LU 111 : 6.1 ; LU 118:8.11
+8. Matthieu 5:48 ; 2 Cor 13:11 ; LU 140 : 5.4 ; LU 140 : 10.9 ; LU 160 : 5.13 ; LU 170 : 2.19
 9. Éph 5:8-9 ; Gal 5:22 ; LU 3:5.5
-10. Matthieu 5:9 ; Luc 20:36 ; Jn 1:12-13 ; Romains 8 :14-16 ; Phil 2:15 ; Gal 4:6 ; 1 Jean 3:2 ; LU 141 : 2.2 ; LU 163 :6.7 ; LU 176:3.2
+10. Matthieu 5:9 ; Luc 20:36 ; Jn 1:12-13 ; Romains 8 :14-16 ; Phil 2:15 ; Gal 4:6 ; 1 Jean 3:2 ; LU 141 : 2.2 ; LU 163 :6.7 ; LU 176:3.2
 

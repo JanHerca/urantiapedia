@@ -1,5 +1,5 @@
 ---
-title: "Psychique ou spirituel ?"
+title: "Psychique ou spirituel ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -21,7 +21,7 @@ Et puis nous avons eu la chance d'avoir un beau livre bleu et la révélation de
 
 Le livre fournit une mine d’informations sur notre Père et sur nous-mêmes en tant que ses enfants. Nous comprenons que bon nombre des émotions que nous avons ressenties dans le passé sont naturelles, que nous avons un esprit matériel très basique qui peut rendre difficile la communication avec notre Ajusteur. Nous comprenons également à quel point nos esprits, conscients et subconscients, sont remplis de beaucoup de bouffonneries erronées, mais savons qu'en confiant toutes les questions mentales à notre Ajusteur de Pensée, celui-ci s'efforcera d'éliminer tout cela afin que nos idéaux puissent être véritablement spiritualisés. .
 
-Et on nous dit en outre que « la vie religieuse est une vie dévouée, et une vie dévouée est une vie créative, originale et spontanée. De nouvelles idées religieuses naissent de conflits qui déclenchent le choix de nouvelles et meilleures habitudes de réaction à la place de schémas de réaction plus anciens et inférieurs. De nouvelles significations n’apparaissent qu’au milieu d’un conflit ; et le conflit ne persiste que face au refus d'épouser les valeurs plus élevées connotées dans des significations supérieures. «  » ([LU 100:4.1](/fr/The_Urantia_Book/100#p4_1))
+Et on nous dit en outre que « la vie religieuse est une vie dévouée, et une vie dévouée est une vie créative, originale et spontanée. De nouvelles idées religieuses naissent de conflits qui déclenchent le choix de nouvelles et meilleures habitudes de réaction à la place de schémas de réaction plus anciens et inférieurs. De nouvelles significations n’apparaissent qu’au milieu d’un conflit ; et le conflit ne persiste que face au refus d'épouser les valeurs plus élevées connotées dans des significations supérieures. «  » ([LU 100:4.1](/fr/The_Urantia_Book/100#p4_1))
 
 > « La perplexité est inévitable en religion ; il ne peut y avoir de croissance sans conflits psychiques et sans agitation spirituelle. L’organisation d’une norme de vie philosophique entraine des commotions considérables dans le domaine philosophique du mental. Ce n’est pas sans lutte que l’on exerce sa loyauté envers ce qui est grand, bon, vrai et noble. La clarification de la vision spirituelle et le rehaussement de la perspicacité cosmique s’accompagnent d’efforts, et l’intellect humain proteste quand il est sevré de la nourriture que lui procuraient les énergies non spirituelles de l’existence temporelle. Le mental animal indolent se rebelle devant l’effort exigé par la lutte pour résoudre les problèmes cosmiques. »
 > 
@@ -29,7 +29,7 @@ Et on nous dit en outre que « la vie religieuse est une vie dévouée, et une 
 
 > « L’homme ne peut provoquer la croissance, mais il peut lui fournir des conditions favorables. La croissance est toujours inconsciente, qu’elle soit physique, intellectuelle ou spirituelle. C’est ainsi que croit l’amour ; on ne peut ni le créer, ni le fabriquer, ni l’acheter ; il faut qu’il croisse. » ([LU 100:3.7](/fr/The_Urantia_Book/100#p3_7))
 
-N'écrivent-ils pas et ne s'expriment-ils pas si joliment ! Je m'assois et j'essaie de mettre quelque chose sur papier, cela me prend dix pages format papier, et j'ouvre le livre bleu et il y a une phrase qui en dit long.
+N'écrivent-ils pas et ne s'expriment-ils pas si joliment ! Je m'assois et j'essaie de mettre quelque chose sur papier, cela me prend dix pages format papier, et j'ouvre le livre bleu et il y a une phrase qui en dit long.
 
 Le livre ne décrit pas le médium, mais je soupçonne qu'en essayant de communiquer avec nous à un niveau conscient, le médium peut être soit une malédiction, soit une bénédiction pour l'Ajusteur de Pensée - comme le révélera certains de nos rêves loufoques. Personnellement, je soupçonne que l’arène psychique est englobée dans ce que les révélateurs appellent « la mémoire protoplasmique » et si tel est le cas, cela expliquerait comment les gens peuvent rester bloqués sur une théorie de la réincarnation.
 

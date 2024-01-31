@@ -1,5 +1,5 @@
 ---
-title: "Quelle religion es-tu ?"
+title: "Quelle religion es-tu ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -21,7 +21,7 @@ On pourrait supposer que puisque j’ai reçu une éducation religieuse traditio
 
 Je savais que je n’appartenais pas à une telle religion, surtout après avoir découvert Dieu par moi-même et avoir progressivement développé une religion grâce à mon expérience personnelle. ce n'est que récemment que j'ai fait une véritable tentative de définir ma religion en termes de symboles de la langue anglaise.
 
-Voici comment je décris ma propre religion pour répondre à cette question fréquemment posée :
+Voici comment je décris ma propre religion pour répondre à cette question fréquemment posée :
 
 « La religion qui reconnaît Dieu comme mon Père et tous les hommes et femmes comme mes frères et qui me conduit à chercher à connaître la volonté de Dieu et à essayer de faire cette volonté dans ma vie quotidienne ».
 

@@ -25,7 +25,7 @@ Nous vous apportons le rapport de Kathleen et quelques-unes des présentations f
 
 Le 6-0-6 vous souhaite à tous un Noël et un Nouvel An sûrs et joyeux. Nous profitons de cette occasion pour remercier tous nos lecteurs pour leur soutien continu en 1988 et nous espérons renforcer les liens d'amitié en 1989, notre 10e année de publication.
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « Bien que vous ne puissiez trouver Dieu par une enquête, si vous voulez vous soumettre aux directives de l’esprit intérieur, vous serez infailliblement guidés pas à pas, vie après vie, à travers les univers et âges successifs, jusqu’à ce que vous finissiez par vous trouver en présence de la personnalité paradisiaque du Père Universel. » ([LU 2:5.5](/fr/The_Urantia_Book/2#p5_5))
 
@@ -42,7 +42,7 @@ Tu es poussière, tu retournes à la poussière,
 On n'a pas parlé de l'âme.
 
 Pas de plaisir, ni de chagrin
-Est-ce notre fin ou notre chemin destiné ;
+Est-ce notre fin ou notre chemin destiné ;
 Mais agir ainsi chaque demain
 Il nous trouve plus loin qu'aujourd'hui.
 
@@ -148,7 +148,7 @@ Ce que nous croyons chacun être et ce qu’elle est réellement sont souvent de
 
 [Lire la suite](/fr/article/David_Elders/Individual_And_Organizational_Relationships)
 
-Prochain numéro : Combien de mortels survivent à notre sac postal, par Trevor Swadling
+Prochain numéro : Combien de mortels survivent à notre sac postal, par Trevor Swadling
 
 ## De notre sac postal
 
@@ -156,7 +156,7 @@ Salutations,
 
 Salut. à ceux d'entre vous que j'ai rencontrés et à ceux que je n'ai pas rencontrés ! J'aurais aimé pouvoir venir en octobre à votre Conférence du Pacifique Sud pour vous rencontrer tous !! Mais hélas, pas cette fois-ci...
 
-Six-0-Six est, de loin, l'un des véhicules d'information et de forum les plus éclairants pour stimuler la réflexion et la discussion que j'ai rencontré ! Les articles et les sujets sont certainement des stimulants pour l’esprit et la réflexion ! L'envie de vous encourager à poursuivre cette newsletter est le motif de cette lettre !
+Six-0-Six est, de loin, l'un des véhicules d'information et de forum les plus éclairants pour stimuler la réflexion et la discussion que j'ai rencontré ! Les articles et les sujets sont certainement des stimulants pour l’esprit et la réflexion ! L'envie de vous encourager à poursuivre cette newsletter est le motif de cette lettre !
 
 Je n'ai pas le document en question devant moi, mais je tiens à remercier la personne qui a partagé le « rêve de l'arrivée d'un Ajusteur de Pensée » il y a quelques mois. Au moment où j'ai reçu cet article, j'étudiais à la Unity School, près de Kansas City, Missouri, États-Unis. J'ai photocopié l'article et l'ai partagé avec plus de 25 personnes !
 
@@ -166,11 +166,11 @@ Ce serait apprécié plus que je ne peux le dire si vous pouviez photocopier les
 
 J'apprécie particulièrement l'inclusion dans votre article de certains des articles les plus remarquables provenant d'autres bulletins d'information du Livre d'URANTIA du monde entier.
 
-Vous trouverez ci-joint un petit quelque chose pour aider à couvrir les frais de port. Je reçois tellement de votre newsletter que je veux certainement m'assurer qu'elle continue à me parvenir !
+Vous trouverez ci-joint un petit quelque chose pour aider à couvrir les frais de port. Je reçois tellement de votre newsletter que je veux certainement m'assurer qu'elle continue à me parvenir !
 
 Patije Mills, Sarasota, Floride. Etats-Unis
 
-Note de l'éditeur : je souhaite particulièrement partager cette tape dans le dos avec tous nos merveilleux contributeurs et j'espère que cela encouragera beaucoup de nos lecteurs à continuer d'écrire !
+Note de l'éditeur : je souhaite particulièrement partager cette tape dans le dos avec tous nos merveilleux contributeurs et j'espère que cela encouragera beaucoup de nos lecteurs à continuer d'écrire !
 
 ## Suite à l'Opéra de Stockhausen
 
@@ -193,7 +193,7 @@ Dans la section consacrée à la vie de Jésus, différentes dates peuvent être
 ## Regardez vers la lumière
 
 Pas de ténèbres profondes dans le monde
-Peut vaincre la lumière ;
+Peut vaincre la lumière ;
 Une seule flamme de bougie brûlera
 Contre la nuit la plus sombre.
 

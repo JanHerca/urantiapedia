@@ -26,9 +26,9 @@ C'est peut-être une bonne idée d'aborder plus ouvertement le sujet des confér
 
 Lors d'une réunion qui s'est tenue en octobre dernier à Melbourne et à laquelle ont participé environ 15 personnes, il a été discuté que d'autres États que la Nouvelle-Galles du Sud devraient accueillir nos invités étrangers. Mais nous devrons bien coordonner cela.
 
-Alors que nous regardons vers l’avenir, nous nous demandons si les grandes conférences sont ce dont nous avons besoin. L’Australie souhaite-t-elle suivre l’exemple des États-Unis, où les conférences deviennent si importantes qu’elles ont besoin de comités pour conseiller d’autres comités ? Soyons honnêtes. À ce stade, nous n’avons pas les effectifs nécessaires pour le faire. Le groupe d'étude de Sydney compte environ 4 ou 5 personnes. Si nous invitons des invités étrangers, nous souhaitons leur accorder le temps et l’attention qu’ils méritent. Au cours des dernières années, plusieurs lecteurs du Livre d’URANTIA venus de l’étranger sont venus en Australie. Ils ont voyagé à travers notre vaste pays, sont restés dans des familles et ont appris à connaître et à aimer les Australiens. Nos portes sont toujours ouvertes, mais il vaudrait peut-être mieux qu'ils étalent un peu plus leurs visites au lieu de venir tous à une seule conférence. Nous n’avons pas besoin de grands groupes de personnes pour agir, comme l’a prouvé le groupe d’étude de Perth. Il n’y a qu’une poignée d’étudiants en op là-bas, mais ils ont semé les graines de cette nouvelle révélation dans le cœur de nombreuses personnes qui sont passées devant leur stand de lecture en janvier de cette année. Nous, les Australiens, sommes tout aussi doués pour prendre des décisions autour du barbecue qu'autour d'une table de conférence. Nous sommes tous favorables à la camaraderie internationale, mais que cela commence dans nos foyers et avec nos familles plutôt qu'autour de la table de conférence. Les gens n’ont pas besoin d’attendre une conférence pour se rendre aux Pays-Bas. Notre esprit australien d’amour et d’hospitalité est vivant aujourd’hui !
+Alors que nous regardons vers l’avenir, nous nous demandons si les grandes conférences sont ce dont nous avons besoin. L’Australie souhaite-t-elle suivre l’exemple des États-Unis, où les conférences deviennent si importantes qu’elles ont besoin de comités pour conseiller d’autres comités ? Soyons honnêtes. À ce stade, nous n’avons pas les effectifs nécessaires pour le faire. Le groupe d'étude de Sydney compte environ 4 ou 5 personnes. Si nous invitons des invités étrangers, nous souhaitons leur accorder le temps et l’attention qu’ils méritent. Au cours des dernières années, plusieurs lecteurs du Livre d’URANTIA venus de l’étranger sont venus en Australie. Ils ont voyagé à travers notre vaste pays, sont restés dans des familles et ont appris à connaître et à aimer les Australiens. Nos portes sont toujours ouvertes, mais il vaudrait peut-être mieux qu'ils étalent un peu plus leurs visites au lieu de venir tous à une seule conférence. Nous n’avons pas besoin de grands groupes de personnes pour agir, comme l’a prouvé le groupe d’étude de Perth. Il n’y a qu’une poignée d’étudiants en op là-bas, mais ils ont semé les graines de cette nouvelle révélation dans le cœur de nombreuses personnes qui sont passées devant leur stand de lecture en janvier de cette année. Nous, les Australiens, sommes tout aussi doués pour prendre des décisions autour du barbecue qu'autour d'une table de conférence. Nous sommes tous favorables à la camaraderie internationale, mais que cela commence dans nos foyers et avec nos familles plutôt qu'autour de la table de conférence. Les gens n’ont pas besoin d’attendre une conférence pour se rendre aux Pays-Bas. Notre esprit australien d’amour et d’hospitalité est vivant aujourd’hui !
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « Les hommes ont enseigné que le cœur paternel de Dieu, dans toute sa froideur et sa dureté austères, était si peu touché par les malheurs et les chagrins de ses créatures que sa tendre miséricorde ne pouvait se manifester avant qu’il ait vu son Fils irréprochable saigner et mourir sur la croix du Calvaire ! Quelle parodie du caractère infini de Dieu ! »
 > 
@@ -66,7 +66,7 @@ Notre tout jeune groupe d'étude de neuf personnes se réunit tous les quinze jo
 
 Glen Waverley organise un groupe d'étude bimensuel à l'heure du déjeuner, de 12h à 13h. m. et un groupe d'étude nocturne bimensuel. Pour plus d'informations, appelez Madeline au 035616089.
 
-## Oui ou non pour le 6-0-6 ?
+## Oui ou non pour le 6-0-6 ?
 
 Trente-six bulletins-réponses ont été retournés depuis novembre dernier. De nombreuses personnes ont fait des dons qui ont été reçus avec gratitude. Certaines personnes nous ont appelé pour répondre à notre question si elles souhaitaient ou non que leur nom reste sur la liste de diffusion. Seules deux personnes nous ont écrit qu'elles n'avaient plus besoin du bulletin d'information.
 
@@ -124,7 +124,7 @@ Eva Cvokus, Brookfield, Queensland.
 
 ---
 
-## Quelle était la date de la crucifixion de Michael ?
+## Quelle était la date de la crucifixion de Michael ?
 
 Il est parfois intéressant de voir à quel point la science se rapproche de la vérité. Prenons par exemple le débat sur la date exacte de la crucifixion.
 
@@ -160,7 +160,7 @@ Ma dernière année et demie ici en Corée du Sud a été en grande partie une e
 
 [Lire la suite](/fr/article/Robert_Reno/Land_Of_The_Morning_Calm)
 
-Dans la deuxième partie, Bob nous donne des citations de chefs religieux d'Asie et termine par un message important pour nous tous :
+Dans la deuxième partie, Bob nous donne des citations de chefs religieux d'Asie et termine par un message important pour nous tous :
 
 ## LE C.E.R.D.H.
 
@@ -203,7 +203,7 @@ Les frais d’entrée sont au moins une question.
 
 OÙ : 12 HALIFEX ST., BRIGHTON, 3186 DATE : 13 JUIN
 
-HEURE : 9h30 -17h30
+HEURE : 9h30 -17h30
 
 Les gens de la campagne qui ont besoin d'aide pour se loger peuvent appeler Madeline au 035616089.
 

@@ -31,7 +31,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Absolu, niveau
 
-> _Le niveau absolu_ est sans commencement, sans fin, sans temps et sans espace. Par exemple: au Paradis, le temps et l’espace n’existent pas. Le statut espace-temps du Paradis est absolu. Ce niveau est celui de la Trinité atteint existentiellement par les Déités du Paradis, mais ce troisième niveau d’expression de Déité unifiante  n’est pas expérientiellement pleinement unifié. Quels que soient le moment, le lieu et la manière dont fonctionne le niveau absolu, les valeurs et significations  de l’absolu-Paradis sont manifestes. [LU 0:1.13](/fr/The_Urantia_Book/0#p1_13)
+> _Le niveau absolu_ est sans commencement, sans fin, sans temps et sans espace. Par exemple: au Paradis, le temps et l’espace n’existent pas. Le statut espace-temps du Paradis est absolu. Ce niveau est celui de la Trinité atteint existentiellement par les Déités du Paradis, mais ce troisième niveau d’expression de Déité unifiante  n’est pas expérientiellement pleinement unifié. Quels que soient le moment, le lieu et la manière dont fonctionne le niveau absolu, les valeurs et significations  de l’absolu-Paradis sont manifestes. [LU 0:1.13](/fr/The_Urantia_Book/0#p1_13)
 
 ## Absolutum
 

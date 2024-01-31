@@ -23,7 +23,7 @@ L'énorme complexité de ce système biochimique qui existe au niveau submicrosc
 
 Bien entendu, de nombreux scientifiques sont incapables de concevoir que ce système complexe puisse être apparu par hasard.
 
-Il y a aussi ces scientifiques qui estiment que la seule manière scientifique d’étudier des problèmes tels que l’origine de la vie est de rejeter l’idée d’un créateur ou d’une vie venant de quelque part dans l’espace. La pensée est la suivante : puisque la vie est présente sur terre, il doit être possible pour la vie de se mettre en place spontanément, c'est pourquoi elle l'a fait.
+Il y a aussi ces scientifiques qui estiment que la seule manière scientifique d’étudier des problèmes tels que l’origine de la vie est de rejeter l’idée d’un créateur ou d’une vie venant de quelque part dans l’espace. La pensée est la suivante : puisque la vie est présente sur terre, il doit être possible pour la vie de se mettre en place spontanément, c'est pourquoi elle l'a fait.
 
 Les preuves avancées par ce groupe consistent en des expériences en laboratoire dans lesquelles certains des produits chimiques organiques complexes présents dans les cellules vivantes se forment par l'intermédiaire d'une décharge électrique (éclair artificiel), etc., sur des produits chimiques organiques simples ou même sur du dioxyde de carbone. et du monoxyde de carbone. Les archives fossiles sont également interprétées comme indiquant l'existence de formes de vie remontant à environ 3 milliards d'années.
 

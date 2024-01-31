@@ -17,7 +17,7 @@ Suite à l'article du Forum de Trevor Swadling (juillet/août) sur les voies et 
 
 La « Nature du culte » ([LU 87:7.1](/fr/The_Urantia_Book/87#p7_1)) nous dit que chaque révélation a donné naissance à un nouveau culte, et implique qu’il s’agit d’une quasi-nécessité pour la diffusion réussie d’une révélation. L’accent est mis sur le fait que, pour réussir, une secte doit remplir diverses fonctions, mais qu’une condition primordiale est la nécessité de rester élastique et adaptable.
 
-La même section remarque que le culte paléochrétien était le plus efficace, le plus attrayant et le plus durable jamais conçu, puis nous informe que :
+La même section remarque que le culte paléochrétien était le plus efficace, le plus attrayant et le plus durable jamais conçu, puis nous informe que :
 
 > « _...et même la reformulation de la religion de Jésus doit développer un nouveau symbolisme adéquat. ... basé sur le concept de la Paternité de Dieu et contenir le puissant idéal de la fraternité des hommes._ » ([LU 87:7.6](/fr/The_Urantia_Book/87#p7_6))
 
@@ -37,7 +37,7 @@ Dans un avenir pas trop lointain, lorsque le droit d'auteur ne sera plus valide,
 
 > Le texte actuel doit-il être conservé inviolable ? Évidemment non, car cela est déjà trompeur, et des implications sexistes et racistes répréhensibles sont apparues en raison des changements dans notre façon de penser, dans la manière dont nous utilisons le langage et dans la manière dont la société s'est développée depuis le milieu des années 1930.
 
-Le texte actuel doit-il être préservé inviolable ? Évidemment non, car cela est déjà trompeur, et des implications sexistes et racistes répréhensibles sont apparues en raison des changements dans notre façon de penser, dans la manière dont nous utilisons le langage et dans la manière dont la société s'est développée depuis le milieu des années 1930. Le livre lui-même est assez catégorique sur ce point :
+Le texte actuel doit-il être préservé inviolable ? Évidemment non, car cela est déjà trompeur, et des implications sexistes et racistes répréhensibles sont apparues en raison des changements dans notre façon de penser, dans la manière dont nous utilisons le langage et dans la manière dont la société s'est développée depuis le milieu des années 1930. Le livre lui-même est assez catégorique sur ce point :
 
 > « _« Mais la plus grande erreur de l’enseignement concernant les Écritures est la doctrine les présentant comme des livres occultes de mystère et de sagesse, que seuls osent interpréter les sages de la nation. Les révélations de la vérité divine ne sont pas scellées, si ce n’est par l’ignorance humaine, la bigoterie et l’intolérance sectaire. La lumière des Écritures n’est affaiblie que par les préjugés et assombrie que par les superstitions. Une fausse peur du sacré a empêché le bon sens de sauvegarder la religion. La peur de l’autorité des écrits sacrés du passé empêche efficacement les âmes honnêtes d’aujourd’hui d’accepter la nouvelle lumière de l’évangile — la lumière que, dans une génération précédente, ces mêmes hommes connaissant Dieu désiraient si intensément voir briller._ » ([LU 159:4.9](/fr/The_Urantia_Book/159#p4_9))
 

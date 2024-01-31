@@ -1,5 +1,5 @@
 ---
-title: "Es-tu seul ce soir ?"
+title: "Es-tu seul ce soir ?"
 description: 
 published: true
 date: 2023-11-12T14:02:03.086Z
@@ -12,7 +12,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 
-Eh bien, asseyez-vous, ouvrez votre cœur et déversez tout cela sur Michael ! Ouvrez le canal vers son Esprit de Vérité et il pourra agir comme il le désire, en tant qu'ami le plus sympathique et empathique que vous ayez dans l'univers et il sait de quoi il s'agit, afin que vous puissiez comparer vos notes tous les deux.
+Eh bien, asseyez-vous, ouvrez votre cœur et déversez tout cela sur Michael ! Ouvrez le canal vers son Esprit de Vérité et il pourra agir comme il le désire, en tant qu'ami le plus sympathique et empathique que vous ayez dans l'univers et il sait de quoi il s'agit, afin que vous puissiez comparer vos notes tous les deux.
 
 Il n’y a jamais eu sur cette terre, et il n’y aura jamais un autre individu qui ait connu la solitude et l’effondrement de tous les rêves imaginables, comme celui que Jésus a vécu. Toutes les autres planètes de son univers local ont bénéficié de son effusion, mais potentiellement aucune autant que la nôtre.
 
@@ -40,7 +40,7 @@ La vie n'est plus triste. Maintenant, j'accepte la réalité. Je pense à Grand-
 
 Michael a promis qu'aucun d'entre nous ne connaîtrait jamais l'isolement de sa personnalité si nous nous tournions vers lui, et bien que les avertissements sur les dangers d'un tel état dans le livre soient potentiellement réels, si Dieu ne peut pas organiser la compagnie humaine parce que les humains refusent de s'approcher n'importe lequel d'entre nous, alors Dieu et Michael combleront le manque d'interaction de la personnalité. Leur promesse !
 
-Mariage – quelle idée dans cet univers local ? Quand j'arriverai dans les mondes des maisons, je suis sûr qu'il y aura une vidéo du « jubilé des jubilés » comme décrit à la page 368 et je vais regarder ce spectacle émouvant encore et encore, avec le romantisme et la beauté de la cérémonie. sans parvenir à me faire monter les larmes aux yeux.
+Mariage – quelle idée dans cet univers local ? Quand j'arriverai dans les mondes des maisons, je suis sûr qu'il y aura une vidéo du « jubilé des jubilés » comme décrit à la page 368 et je vais regarder ce spectacle émouvant encore et encore, avec le romantisme et la beauté de la cérémonie. sans parvenir à me faire monter les larmes aux yeux.
 
 Je m’interroge souvent sur l’intensité de la souffrance de notre Divine Ministre alors qu’elle suivait la dernière effusion de Michael. Quel retour aux sources ! Et quelle merveilleuse cérémonie de mariage !
 

@@ -17,7 +17,7 @@ _Même Dieu ne peut pas modifier le passé. Pour cela, nous avons des historiens
 > 
 > _Phillip Adams (chroniqueur)_
 
-Avec quelle précision retraçons-nous l’émergence de la cinquième révélation d’époque ? S'agit-il d'un document autonome sans rien d'autre à enregistrer ?
+Avec quelle précision retraçons-nous l’émergence de la cinquième révélation d’époque ? S'agit-il d'un document autonome sans rien d'autre à enregistrer ?
 
 Le livre accorde tellement de reconnaissance à l'individu, ainsi que des informations pour concevoir le cours de développement personnel parfait, que l'effort de groupe de nos ancêtres et la perception publique attendue du contenu du livre ne doivent pas perturber l'ancien étudiant. Le fait que les enregistrements de telles activités puissent être erronés renforce encore l’idée selon laquelle les rapports superflus ne sont pas pertinents. D'intérêt historique uniquement. Simplement une diversion. Car qu’est-ce qui peut être authentifié ?
 
@@ -42,7 +42,7 @@ Il faut cependant faire une distinction entre les différentes catégories de no
 
 <figure id="Figure_3" class="image urantiapedia" alt="new car">
 <img src="/image/article/606/newcar.jpg">
-<figcaption>« Le Fonds Steeple a été sursouscrit. »</figcaption>
+<figcaption>« Le Fonds Steeple a été sursouscrit. »</figcaption>
 </figure>
 
 Des fondamentalistes chrétiens qui ne sont pas dérangés par les révélations de l'érudition biblique. A titre d’exemple, un excellent et récent livre intitulé « Jésus, une nouvelle vision » de Marcus J. Borg révèle un Jésus jusqu’alors peu connu en dehors des lecteurs du Livre d’URANTIA. Mais le grand public l’acceptera-t-il ?

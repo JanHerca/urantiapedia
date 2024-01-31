@@ -15,11 +15,11 @@ par Robert Reno
 
 Dans la première partie de son article, Robert Reno a partagé certaines de ses expériences en tant qu'aumônier militaire en Corée du Sud.
 
-Dans cette deuxième partie, il cite certains chefs religieux d'Asie et termine par un message important pour nous tous :
+Dans cette deuxième partie, il cite certains chefs religieux d'Asie et termine par un message important pour nous tous :
 
 Partie II
 
-Je ne crois pas avoir besoin de citer _Le Livre d'URANTIA_ sur ce qu'il enseigne comme le défi religieux de notre $8 g e$, mais j'aimerais citer un certain nombre d'éminents chefs religieux d'Asie présentant leurs pensées et leurs idéaux au Conférence asiatique sur la religion et la paix :
+Je ne crois pas avoir besoin de citer _Le Livre d'URANTIA_ sur ce qu'il enseigne comme le défi religieux de notre $8 g e$, mais j'aimerais citer un certain nombre d'éminents chefs religieux d'Asie présentant leurs pensées et leurs idéaux au Conférence asiatique sur la religion et la paix :
 
 « Ce n’est pas grâce à la puissance des systèmes de sécurité militaire que la véritable sécurité peut être assurée en Asie ; ce n’est que grâce à l’unité spirituelle des peuples religieux d’Asie que cet objectif peut être atteint.
 
@@ -29,7 +29,7 @@ Je ne crois pas avoir besoin de citer _Le Livre d'URANTIA_ sur ce qu'il enseigne
 
 « Aujourd’hui, le monde traverse une sorte de crise qu’il n’a jamais connue auparavant. Cela ne semble-t-il pas une étrange ironie du sort que nos plus hauts progrès scientifiques aient conduit l’humanité vers la destruction totale de toutes ses valeurs ; moral, éthique et spirituel ?
 
-« Cependant, nous voyons désormais partout des signes d’une remise en question des valeurs de la civilisation sécularisée moderne. C’est l’un des aspects les plus frappants de la crise mondiale contemporaine. « ... il est essentiel pour nous de réexaminer la civilisation matérielle, d'essayer de définir le véritable sens d'une nation avancée et de sonder à nouveau le sens de l'humanité. »
+« Cependant, nous voyons désormais partout des signes d’une remise en question des valeurs de la civilisation sécularisée moderne. C’est l’un des aspects les plus frappants de la crise mondiale contemporaine. « ... il est essentiel pour nous de réexaminer la civilisation matérielle, d'essayer de définir le véritable sens d'une nation avancée et de sonder à nouveau le sens de l'humanité. »
 
 « La clé pour sauver l’homme d’un tel désastre se trouve uniquement dans la perception religieuse et l’intuition morale pour le bien commun de tous. Car derrière et au-delà de toutes les religions du monde, il y a la spiritualité et l’expérience d’une indubitable unité d’existence. C'est cette expérience de l'unité du pouvoir suprême de Dieu... qui est la base de toutes les religions et de la moralité universelle. C’est le signe flamboyant de la transcendance de l’homme vers des niveaux de conscience plus élevés et plus nobles.
 

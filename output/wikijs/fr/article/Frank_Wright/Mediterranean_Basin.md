@@ -15,7 +15,7 @@ En 1970, le Glomar Challenger s'embarque pour la mer Méditerranée. Deux scient
 
 Il y a 15 millions d'années, le détroit de Gibraltar était fermé. Autour d’Urantia, c’était une époque de construction de montagnes et d’activité volcanique. La Méditerranée a été reliée à l'océan Atlantique pendant un certain temps par un canal traversant la France, de sorte que les sommets des montagnes de cette région se dressaient au-dessus de l'eau comme des îles dans la mer. Plus tard, la Méditerranée s'est reliée à l'océan Indien, mais il y a 10 millions d'années, lorsque le cours de Suez a été élevé, la Méditerranée a été coupée des océans du monde et est devenue pour un temps une mer intérieure salée. ([LU 61:3.8](/fr/The_Urantia_Book/61#p3_8))
 
-Alors que les scientifiques tentaient d’obtenir un échantillon du fond marin, leur foret s’est coincé. Lors de leur récupération, ils ont découvert la dernière section de leur tuyau remplie d'un étrange type de gravier composé de seulement quatre composants : un substrat rocheux volcanique, du calcaire, du gypse et de minuscules fossiles. Leur découverte a étonné l'équipe.
+Alors que les scientifiques tentaient d’obtenir un échantillon du fond marin, leur foret s’est coincé. Lors de leur récupération, ils ont découvert la dernière section de leur tuyau remplie d'un étrange type de gravier composé de seulement quatre composants : un substrat rocheux volcanique, du calcaire, du gypse et de minuscules fossiles. Leur découverte a étonné l'équipe.
 
 Il y a dix millions d’années, la mer Méditerranée couvrait une grande partie de l’Afrique du Nord. ([LU 61:4.2](/fr/The_Urantia_Book/61#p4_2)) Pendant une courte période, toutes les terres furent à nouveau réunies, à l'exception de l'Australie. Il y a cinq millions d’années, la connexion terrestre entre l’Afrique et l’Amérique du Sud a été submergée et l’hémisphère occidental est devenu isolé, comme c’est le cas aujourd’hui. Cette époque est généralement appelée le Pliocène.
 
@@ -43,7 +43,7 @@ Ce que ces scientifiques ne savent pas encore, c'est qu'ils ont involontairement
 
 Frank Wright, Knoxville, Tennessee. Etats-Unis
 
-Extrait de : FSFS POURSUITE DE LA SAGESSE, mars 1989
+Extrait de : FSFS POURSUITE DE LA SAGESSE, mars 1989
 
 <figure id="Figure_2" class="image urantiapedia" alt="Mediterranean">
 <img src="/image/article/606/Mediterranean.jpg">

@@ -35,7 +35,7 @@ Dans le Queensland, les gens se réunissent régulièrement chez Joe Hausler à 
 
 Sydney a quelques nouveaux membres dans son groupe et votre éditeur a récemment rendu visite à nos amis Peter et Sue Webb, ainsi qu'Allan \& Jayne Lane à Perth. Nous avons eu une discussion intéressante sur la certitude de l'existence de Dieu.
 
-## « Pensée du mois »
+## « Pensée du mois »
 
 > « Gardez toujours à l’esprit que Dieu et les hommes ont besoin les uns des autres. Ils sont mutuellement nécessaires à la réalisation complète et finale de l’expérience de la personnalité éternelle dans la destinée divine de la finalité de l’univers. _Le Livre d'URANTIA_ [LU 195:10.3](/es/The_Urantia_Book/195#p10_3)
 
@@ -87,13 +87,13 @@ Ken discutera de la deuxième prédiction remarquable : LA DÉRIVE DES CONTINENT
 
 Il n’y a pas si longtemps, j’ai eu une conversation avec un fervent catholique romain qui partageait une maison avec un chrétien radical « né de nouveau ». Il était déconcerté par l'habitude du radical de faire toutes sortes de choses bizarres « parce que Dieu me l'a dit ». Il est finalement arrivé à la conclusion que le radical utilisait la conviction de la direction divine pour justifier ses propres préjugés et idées préconçues et pour éviter de faire le travail intellectuel consistant à ajuster ses idées à la réalité de son expérience. Chaque fois qu’un problème surgissait, il était résolu par un appel direct et immédiat à Dieu. La « solution » impulsive qui est alors venue à l’esprit a été investie d’une autorité absolue (« Dieu me l’a dit ») et la poursuite de la discussion sur la question est devenue inutile.
 
-Il n'est pas difficile d'imaginer certains des problèmes qui pourraient résulter de ce genre de procédure. Mais néanmoins, sa procédure peut être résumée comme suit :
+Il n'est pas difficile d'imaginer certains des problèmes qui pourraient résulter de ce genre de procédure. Mais néanmoins, sa procédure peut être résumée comme suit :
 
 [Lire la suite](/fr/article/William_Wentworth/Doing_Gods_Will)
 
 ## Le rapport qualité prix
 
-Lorsque vous achetez quelque chose, vous le payez. Vous échangez votre mesure de valeur contre celle de quelqu’un d’autre. Vous gagnez votre vie en générant quelque chose qui a de la valeur pour les autres. Le produit que vous générez a sa valeur fixée par la valeur que vous lui accordez ; vous seul lui donnez sa valeur.
+Lorsque vous achetez quelque chose, vous le payez. Vous échangez votre mesure de valeur contre celle de quelqu’un d’autre. Vous gagnez votre vie en générant quelque chose qui a de la valeur pour les autres. Le produit que vous générez a sa valeur fixée par la valeur que vous lui accordez ; vous seul lui donnez sa valeur.
 
 Si vous valorisez votre produit, que ce soit en termes de temps ou de travail, à $70 and it takes you two hours for you to generate this product, then it's going to take you two hours of work for you to be able to enjoy the benefits of someone else's product if their product has been valued by them at $70. Il vous faudra donc dix heures de travail pour profiter d'un produit comme un téléviseur couleur évalué à quatre cents dollars. Lorsque vous achetez une maison évaluée à 140 000 $, vous devrez alors consacrer quatre mille heures. Il s’agit bien sûr d’un coût net, une fois que toutes vos dépenses courantes et taxes ont été prises en compte.
 
@@ -111,11 +111,11 @@ Dans notre prochain numéro :
 
 Depuis le 29 avril, la Fondation Jesusonian a mis à disposition son dernier numéro. Cette publication a individuellement une particularité qui transcende le fait d'être simplement un autre numéro d'une publication en série. C’est unique, ciblé, équilibré et indispensable. Si vous avez assisté à la Conférence du Maine en 1987, vous vous souviendrez de la superbe œuvre d'art montrant les niveaux de l'univers d'ascension jusqu'au Paradis avec des images spéciales de Havona et des mondes superuniversels. Ces œuvres d'art font de ce numéro de « Le Jésusonien » un objet que tout lecteur du Livre d'URANTIA voudra avoir et partager.
 
-Le numéro est basé sur la carrière d'ascension et porte un titre sur la vie après la mort. Les descriptions des nombreux niveaux de l'univers sont discutées, complétées photographiquement et mises en valeur par les œuvres d'art cosmiques, faisant de ce numéro une « introduction à l'au-delà cosmique ». Il est d’une beauté si fascinante que vos amis et parents qui connaissent un peu, bien ou pas du tout le livre seront tous intrigués et attirés par cet excellent ouvrage. En examinant l'œuvre vous-même, vous comprendrez pourquoi je ne peux pas exprimer sa clarté et sa communicabilité. Les abonnés en recevront automatiquement une copie. D'autres peuvent acheter des exemplaires à $3.95 each; $2,95 US chacun pour 25 exemplaires ; et 1,95 $ chacun pour cent ou plus. L'adresse est la suivante : Jesusonian Foundation, 620 12th Street, Boulder, CO 80302, États-Unis.
+Le numéro est basé sur la carrière d'ascension et porte un titre sur la vie après la mort. Les descriptions des nombreux niveaux de l'univers sont discutées, complétées photographiquement et mises en valeur par les œuvres d'art cosmiques, faisant de ce numéro une « introduction à l'au-delà cosmique ». Il est d’une beauté si fascinante que vos amis et parents qui connaissent un peu, bien ou pas du tout le livre seront tous intrigués et attirés par cet excellent ouvrage. En examinant l'œuvre vous-même, vous comprendrez pourquoi je ne peux pas exprimer sa clarté et sa communicabilité. Les abonnés en recevront automatiquement une copie. D'autres peuvent acheter des exemplaires à $3.95 each; $2,95 US chacun pour 25 exemplaires ; et 1,95 $ chacun pour cent ou plus. L'adresse est la suivante : Jesusonian Foundation, 620 12th Street, Boulder, CO 80302, États-Unis.
 
 David Glass, Fort Worth, Texas. Etats-Unis
 
-Extrait de : Ce message mensuel d'inspiration, Vol 4, № 8, mai 88
+Extrait de : Ce message mensuel d'inspiration, Vol 4, № 8, mai 88
 
 ---
 
@@ -127,7 +127,7 @@ Extrait de : Ce message mensuel d'inspiration, Vol 4, № 8, mai 88
 
 ## Le Remarquable Amenhotep IV
 
-J'ai eu la chance d'être au Caire, en Égypte, il y a deux ans. Lors de mon premier jour là-bas, j'ai dû passer la matinée au musée du Caire alors que tout ce que je voulais vraiment faire était de voir les grandes pyramides de Gizeh et le Sphinx qui les gardait. Mais je suis resté coincé pendant ce qui devait durer cinq heures dans un entrepôt encombré et à peine organisé contenant la fierté de 3000 ans d'Egypte ancienne. « C'est odieux », ai-je pensé. Est-ce que j'ai vraiment envie de passer mon temps précieux dans cette salle morne ? » Et pourtant, si l'on veut apprendre quelque chose sur cette période historique captivante, il faut tout simplement y aller. Quelle fenêtre remarquable sur un passé lointain ! Allez dans le sens des aiguilles d'une montre et on commence à avoir une idée de la chronologie ; peut-être que quelqu'un n'a pas simplement jeté tout cela ici. Là-bas se trouve une exposition remarquable d'artefacts et de statues de l'époque de ces bâtisseurs de pyramides Zoser, Chephren et Mykerinos. Ils étaient les plus grands. Il y a très longtemps, lorsque la Basse-Égypte régnait sur le Nil. Continuez et vous remarquerez que la base du pouvoir de l'Égypte se déplace vers le sud (ou vers la Haute-Égypte, comme on calcule le débit du Nil). C'était dans cette période intermédiaire. que l'Égypte a peut-être atteint le plus grand de ses nombreux âges d'or, lorsque les temples de Louxor et de Karnak ont grandi en taille et en importance et que les pharaons ont été enterrés dans la Vallée des Rois.
+J'ai eu la chance d'être au Caire, en Égypte, il y a deux ans. Lors de mon premier jour là-bas, j'ai dû passer la matinée au musée du Caire alors que tout ce que je voulais vraiment faire était de voir les grandes pyramides de Gizeh et le Sphinx qui les gardait. Mais je suis resté coincé pendant ce qui devait durer cinq heures dans un entrepôt encombré et à peine organisé contenant la fierté de 3000 ans d'Egypte ancienne. « C'est odieux », ai-je pensé. Est-ce que j'ai vraiment envie de passer mon temps précieux dans cette salle morne ? » Et pourtant, si l'on veut apprendre quelque chose sur cette période historique captivante, il faut tout simplement y aller. Quelle fenêtre remarquable sur un passé lointain ! Allez dans le sens des aiguilles d'une montre et on commence à avoir une idée de la chronologie ; peut-être que quelqu'un n'a pas simplement jeté tout cela ici. Là-bas se trouve une exposition remarquable d'artefacts et de statues de l'époque de ces bâtisseurs de pyramides Zoser, Chephren et Mykerinos. Ils étaient les plus grands. Il y a très longtemps, lorsque la Basse-Égypte régnait sur le Nil. Continuez et vous remarquerez que la base du pouvoir de l'Égypte se déplace vers le sud (ou vers la Haute-Égypte, comme on calcule le débit du Nil). C'était dans cette période intermédiaire. que l'Égypte a peut-être atteint le plus grand de ses nombreux âges d'or, lorsque les temples de Louxor et de Karnak ont grandi en taille et en importance et que les pharaons ont été enterrés dans la Vallée des Rois.
 
 Dans cette pièce ici – les vestiges de l’époque de Thoutmosis, qui a présidé une époque de vaste expansion territoriale. Ce coin est consacré à la reine Hathepsout. Comment a-t-elle été si intelligente pour atteindre la salle du pouvoir ? J'étais excité maintenant. Je me suis dit : « Mon Dieu, j'ai hâte de dépasser les pharaons Amenhotep 1 à 4, car il y a ensuite Ramsès, le grand bâtisseur de monuments. Après cela, vous monterez à l'étage pour voir Toutankhamon dans son intégralité. Je parie qu'il y a plus d'or là-bas que dans tout Fort Knox !
 
@@ -143,7 +143,7 @@ par Jack Cahill – Toronto Star
 
 En ces temps de superpuissance, de militarisme et d'armes nucléaires, de guerres du Golfe et de tensions au Moyen-Orient, de pauvreté et de dettes du tiers monde, de terrorisme et de prises d'otages, beaucoup de gens pourraient être surpris d'apprendre que le monde devient progressivement meilleur dans certains domaines. des moyens importants.
 
-Considérez, par exemple :
+Considérez, par exemple :
 
 * Depuis 1950, les taux de mortalité infantile ont été réduits de moitié dans presque toutes les régions du monde en développement.
 * Au cours de la même période, la durée de vie humaine moyenne a augmenté de plus de 30 pour cent (de 46 ans à 61 ans) et la majeure partie de cette augmentation s'est produite dans les régions les plus pauvres du tiers monde.
@@ -165,11 +165,11 @@ Pourtant, les statistiques de l’UNICEF montrent que la qualité de vie, à l�
 
 ## De notre sac postal
 
-À Ken Glasziou :
+À Ken Glasziou :
 
 Je ne pense pas que le U-Book nous ait donné de fausses informations. Bien souvent, ils ont dit qu'ils ne savaient pas ou qu'il leur était interdit de nous révéler certaines choses - mais de nous mentir ouvertement ? NON. Si quelque chose ne correspond pas à ce que pensent aujourd’hui les scientifiques, c’est parce que les scientifiques ont commis des erreurs qu’ils commettent souvent, vous savez.
 
-À William Wentworth :
+À William Wentworth :
 
 La seule forme de culte de groupe que j’apprécie est le chant. Jésus était très réticent à prier en public (1620). J'aime beaucoup l'étude en groupe, mais ce n'est pas de l'adoration. De toute façon, je n'ai jamais pu prier en public. Je n'avais pas l'impression de parler à Dieu. J'avais l'impression de parler aux gens autour de moi.
 
@@ -197,7 +197,7 @@ Renseignements : Coordonnateur Merry Hanson, 3200 Main Avenue, Clear Lake, IA .5
 
 ## Merci le ciel pour les petites filles
 
-C'est avec une grande joie que nous annonçons la naissance de deux petites filles dans deux familles de lecteurs du Livre d'URANTIA à Melbourne :
+C'est avec une grande joie que nous annonçons la naissance de deux petites filles dans deux familles de lecteurs du Livre d'URANTIA à Melbourne :
 
 Kylie à Bill et Ally Mc Lean le 18 avril et
 
@@ -205,7 +205,7 @@ Dominique à Jean-Pierre et Robyn Grech le 13 avril.
 
 Nous exprimons tous notre amour et notre soutien aux parents et nos prières pour que les filles puissent profiter d'une vie merveilleuse et remplie d'esprit dans l'amour de notre Céleste. Père.
 
-Les bébés et les mamans vont bien et nous nous attendons à ce que les papas descendent du nuage 9 d'une semaine à l'autre !
+Les bébés et les mamans vont bien et nous nous attendons à ce que les papas descendent du nuage 9 d'une semaine à l'autre !
 
 ## Mots croisés
 

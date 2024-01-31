@@ -37,7 +37,7 @@ Dans un article reçu en 1934, _Le Livre URANTIA_ ([LU 42:8.6](/fr/The_Urantia_B
 
 L'existence du porteur de force faible a été démontrée en 1983, l'existence des neutrinos a été confirmée en 1956, l'existence d'étoiles à neutrons dont la formation donne lieu à la libération de grandes quantités de neutrinos a été confirmée par le télescope à rayons X en 1967, et la théorie La théorie de la forte force nucléaire impliquant les quarks et les gluons est devenue une théorie acceptée à la fin des années 1970.
 
-Référence : « Deux prédictions remarquables », K.T. Glasziou, Bulletin 6-0-6, vol 9 (no 3), 1988 ; (également disponible dans la bibliothèque de la Fraternité des Hommes).
+Référence : « Deux prédictions remarquables », K.T. Glasziou, Bulletin 6-0-6, vol 9 (no 3), 1988 ; (également disponible dans la bibliothèque de la Fraternité des Hommes).
 
 ## La dérive des continents
 
@@ -47,7 +47,7 @@ Le concept de dérive des continents a été rejeté par la plupart des géologu
 
 Jusqu'à récemment, la date du début de la fragmentation du grand continent unique était fixée à environ 200 millions d'années. Actuellement, cette date a été révisée et repoussée entre 600 et 800 millions d'années, comme indiqué dans _Le Livre d'URANTIA_.
 
-Références : _Le Livre d'URANTIA_, [LU 57:8.23](/fr/The_Urantia_Book/57#p8_23).
+Références : _Le Livre d'URANTIA_, [LU 57:8.23](/fr/The_Urantia_Book/57#p8_23).
 
 K.T. Glasziou, [«Continental Drift»](/fr/article/606/Vol9_4), Newsletter 6-0-6, vol 9 (no 4), 1988 .
 
@@ -59,25 +59,25 @@ ibid., (1987), 256(4), 84 .
 
 _Le Livre d'URANTIA_ associe la construction de montagnes sur la côte ouest de l'Amérique du Nord et du Sud à la dérive des continents. Aujourd’hui, personne ne doute que la formation de montagnes se produit aux confins des continents à la dérive, concomitamment à la subduction de la croûte océanique. Cependant, pratiquement personne ne croyait à la dérive des continents au moment de la rédaction (ou de la publication) du _Le Livre d'URANTIA_.
 
-Référence : _Le Livre URANTIA_, [article LU :60.3](/fr/The_Urantia_Book/paper#p60_3)2.
+Référence : _Le Livre URANTIA_, [article LU :60.3](/fr/The_Urantia_Book/paper#p60_3)2.
 
 ## Éléments stables
 
 _Le Livre d'URANTIA_ nous dit que les atomes avec plus de 100 électrons orbitaux sont instables et se désintègrent rapidement. L'élément 101 (Mendelium) a été découvert dans les produits de fission nucléaire en 1952 et avait une demi-vie d'environ 30 minutes. Depuis, tous les éléments supérieurs à 100 se sont révélés très instables. Il n’existait aucune base théorique adéquate pour faire une telle prédiction au moment de la réception ou de la publication des Cahiers URANTIA.
 
-Référence : _Le Livre d'URANTIA_, [LU 42:7.7](/fr/The_Urantia_Book/42#p7_7).
+Référence : _Le Livre d'URANTIA_, [LU 42:7.7](/fr/The_Urantia_Book/42#p7_7).
 
 ## Atmosphères planétaires
 
 _Le Livre d'URANTIA_ nous dit que Vénus a une atmosphère dense et que l'atmosphère de Mars est de faible densité. La sonde spatiale russe Venera 7 a mesuré la pression atmosphérique de Vénus en 1970 à environ 90 fois celle de l'atmosphère terrestre, et la sonde américaine Mariner a donné une atmosphère de Mars correspondant à 1/100 de celle de l'atmosphère terrestre. Il n’existait aucun moyen de prédire ou de mesurer la pression atmosphérique sur ces planètes avant l’avènement des sondes spatiales.
 
-Référence : _Le Livre d'URANTIA_, [LU 49:2.10-16](/fr/The_Urantia_Book/49#p2_10).
+Référence : _Le Livre d'URANTIA_, [LU 49:2.10-16](/fr/The_Urantia_Book/49#p2_10).
 
 ## Mouvement de la Lune
 
 _Le Livre d'URANTIA_ nous dit que la lune s'éloigne actuellement de la Terre. Cela a été confirmé par des mesures radar très précises. Le taux de déplacement est d'environ 1 pouce par an.
 
-Références : _Le Livre d'URANTIA_, [LU 57:6.2](/fr/The_Urantia_Book/57#p6_2).
+Références : _Le Livre d'URANTIA_, [LU 57:6.2](/fr/The_Urantia_Book/57#p6_2).
 
 Américain scientifique 249 (6). 71.
 
@@ -87,7 +87,7 @@ L'explosion d'une supernova en 1572 fut un spectacle brillant visible en plein j
 
 La première description théorique sérieuse des novas et des supernovas a été présentée au début des années 1950 par Hoyle et ses associés. Cette théorie est encore modifiée et élargie. Les nova et supernova se produisent en raison de l'explosion d'étoiles simples et doubles. Le reste de la supernova de Tycho Brahe a été redécouvert en 1952 grâce à l'utilisation du radiotélescope récemment inventé, mais il n'a pas été possible de démontrer qu'il était dû à l'explosion d'une double étoile jusqu'à ce qu'il soit cartographié en détail par l'observatoire à rayons X en orbite d'Einstein en 1967.
 
-Références : _Le Livre d'URANTIA_, [LU 41:3.5](/fr/The_Urantia_Book/41#p3_5).
+Références : _Le Livre d'URANTIA_, [LU 41:3.5](/fr/The_Urantia_Book/41#p3_5).
 
 Bulletin de la Fraternité URANTIA ; « La Nova de 1572 expliquée »
 
@@ -95,7 +95,7 @@ Bulletin de la Fraternité URANTIA ; « La Nova de 1572 expliquée »
 
 _Le Livre d'URANTIA_ nous dit qu'il y a une étoile solitaire au centre de la Nébuleuse du Crabe qui est la sphère mère, et qui a son origine dans une explosion de nova survenue il y a 900 ans. L'existence d'une sphère mère pour cette nébuleuse a été démontrée en 1967 avec la détection d'un pulsar désormais connu pour être une étoile à neutrons.
 
-Références : _Le Livre d'URANTIA_, [LU 41:8.4](/fr/The_Urantia_Book/41#p8_4).
+Références : _Le Livre d'URANTIA_, [LU 41:8.4](/fr/The_Urantia_Book/41#p8_4).
 
 Kaufmann, « L'Univers ».
 
@@ -105,7 +105,7 @@ L'article d'URANTIA commentant ce sujet a été reçu en 1934. Il déclare que l
 
 La théorie proposant que l'énergie puisse être générée de cette manière a été élaborée indépendamment par Hans Bethe et von Weizsacker en 1938, et publiée par Bethe en 1939, et est désormais une théorie acceptée.
 
-Références : _Le Livre d'URANTIA_, [LU 41:7.14](/fr/The_Urantia_Book/41#p7_14).
+Références : _Le Livre d'URANTIA_, [LU 41:7.14](/fr/The_Urantia_Book/41#p7_14).
 
 Kaufmann, « L'Univers ».
 
@@ -115,7 +115,7 @@ Hoyle et Norliker « La frontière de l'astronomie physique »
 
 _Le Livre d'URANTIA_ nous dit que les événements déclenchant la formation du système solaire se sont produits il y a 4,5 milliards d'années. Jusque dans les années 1950, et d'après les travaux d'Edwin Hubble, l'âge généralement admis de l'univers n'était que de 2 milliards d'années. Ensuite, les travaux de Baade au mont Wilson ont révélé une erreur dans la méthodologie de Hubble, qui a effectivement doublé l'âge de l'univers et a provoqué une grande hilarité dans la presse américaine dans les années 1950. La plupart des astronomes évaluent maintenant l'âge de l'univers à environ 15 à 18 milliards d'années, et la datation radio-isotopique des matériaux météoriques évalue l'âge du système solaire à environ 4,6 milliards d'années, ce qui est pratiquement le même âge que celui indiqué dans le _Livre d'URANTIA_. .
 
-Références : _Le Livre d'URANTIA_, [LU 57:4.5](/fr/The_Urantia_Book/57#p4_5).
+Références : _Le Livre d'URANTIA_, [LU 57:4.5](/fr/The_Urantia_Book/57#p4_5).
 
 Kaufmann « L'Univers »
 
@@ -127,7 +127,7 @@ La formation d'une étoile à neutrons est clairement décrite dans _Le Livre d'
 
 _Le Livre d'URANTIA_ ([LU 15:6.11](/fr/The_Urantia_Book/15#p6_11)) nous dit également que certaines « îles sombres de l'espace » sont les restes de soleils morts, dépourvus de lumière et de chaleur, et que leur densité est « presque incroyable ». Ceci est une description d'un trou noir. Il y a de nombreuses références aux trous noirs dans _Le Livre d'URANTIA_ car ils sont utilisés par les Directeurs de Pouvoir pour assurer la stabilité gravitationnelle de nombreux systèmes différents et dans le contrôle du flux d'énergie. Dans une référence intéressante concernant la formation de notre système solaire, le Livre ([LU 57:5.4](/fr/The_Urantia_Book/57#p5_4)) décrit le centre du système Angona comme un « géant sombre de l'espace, solide, hautement chargé et possédant une énorme attraction gravitationnelle ». trou noir « chargé ». La théorie des trous noirs chargés a été développée dans les années 1960 par Kerr et Newman. Le concept de trous noirs hautement chargés (10 à 20 volts) a récemment pris de l'ampleur dans le but d'expliquer la puissance de sortie des quasars. (voir référence Scientific American)
 
-Références : _Le Livre d'URANTIA_, [LU 15:6.11](/fr/The_Urantia_Book/15#p6_11), [LU 42:4.11](/fr/The_Urantia_Book/42#p4_11), [LU 57:5.4](/fr/The_Urantia_Book/57#p5_4).
+Références : _Le Livre d'URANTIA_, [LU 15:6.11](/fr/The_Urantia_Book/15#p6_11), [LU 42:4.11](/fr/The_Urantia_Book/42#p4_11), [LU 57:5.4](/fr/The_Urantia_Book/57#p5_4).
 
 Hoyle et Norliker, « La frontière physique-astronomie » (1980), p. 205 (Freeman \&Co.)
 
@@ -147,7 +147,7 @@ Le numéro de janvier de Scientific American (1985) p. 60 discute de la question
 
 Récemment, des fossiles de marsupiaux ont été découverts sur l'île Seymour en Antarctique. Rien de tout cela n'est trop surprenant en 1988, mais rappelez-vous que lorsque le _Livre d'URANTIA_ a été publié, pratiquement personne ne croyait au concept de dérive des continents.
 
-Références : _Le Livre d'URANTIA_, [LU 61:1.12](/fr/The_Urantia_Book/61#p1_12), [LU 61:2.3](/fr/The_Urantia_Book/61#p2_3).
+Références : _Le Livre d'URANTIA_, [LU 61:1.12](/fr/The_Urantia_Book/61#p1_12), [LU 61:2.3](/fr/The_Urantia_Book/61#p2_3).
 
 Scientific American 1985, numéro de janvier, p. 60.
 
@@ -155,9 +155,9 @@ Scientific American 1985, numéro de janvier, p. 60.
 
 _Le Livre d'URANTIA_ nous dit que l'homme rouge est passé de l'Asie à l'Amérique il y a 85 000 ans. Jusqu’à récemment, la plupart des anthropologues pensaient que les Amériques étaient habitées par des humains depuis au plus 12 000 ans. Cette date a été repoussée à 30-40 000 ans.
 
-Référence : Scientific American, 249,(6), 1985, Ibid, 258(6), 22. 1988.
+Référence : Scientific American, 249,(6), 1985, Ibid, 258(6), 22. 1988.
 
-## Addendum : Dérive des continents et élévation des terres
+## Addendum : Dérive des continents et élévation des terres
 
 Le récit du Livre URANTIA sur l'histoire géologique de notre planète nous dit qu'à la suite de l'éclatement du supercontinent il y a environ 700 millions d'années, il y a eu des cycles répétés d'élévation et de submersion des terres. Entre 400 et 200 millions d'années environ, la périodicité semble être en moyenne de 25 millions d'années en moyenne, avec des périodes de cycles beaucoup plus fréquentes au cours des périodes du Carbonifère et du Crétacé.
 

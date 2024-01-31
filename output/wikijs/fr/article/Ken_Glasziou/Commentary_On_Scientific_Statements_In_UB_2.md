@@ -17,7 +17,7 @@ _Le Livre d'Urantia_ ([LU 49:2.1](/fr/The_Urantia_Book/49#p2_1)) discute de diff
 
 La sonde Mariner 5 vers Vénus en 1967 a renvoyé des données sur l'atmosphère et les sondes ultérieures ont fourni des données sur Mars. Ces mesures ont montré que la pression atmosphérique à la surface de Vénus est 90 fois supérieure à celle de la Terre, donc une densité élevée, tandis que celle de Mars est 1/100ème de celle de la Terre, donc une faible densité.
 
-(_Le Livre d'Urantia_ divise les atmosphères en 4 catégories : aucune, faible, moyenne et haute densité. Une estimation aléatoire d'une atmosphère planétaire aurait une chance sur quatre d'être correcte. Pour être correct pour deux planètes, les chances d'être juste pour deux planètes. les deux sont un sur seize.)
+(_Le Livre d'Urantia_ divise les atmosphères en 4 catégories : aucune, faible, moyenne et haute densité. Une estimation aléatoire d'une atmosphère planétaire aurait une chance sur quatre d'être correcte. Pour être correct pour deux planètes, les chances d'être juste pour deux planètes. les deux sont un sur seize.)
 
 ## La Lune de la Terre
 
@@ -39,7 +39,7 @@ L'extrait suivant est cité textuellement du Bulletin de la Fraternité Urantia 
 > 
 > En 1952, le reste de la nova de Tycho a été découvert grâce au radiotélescope de 250 pieds de Jodrell Bank. Au cours des années qui ont suivi sa découverte, les restes de Tycho ont été largement cartographiés par des radiotélescopes et, plus récemment, par l'Observatoire à rayons X Einstein en orbite. Ces observations montrent que le reste de Tycho résultait de l'explosion d'une étoile double, comme indiqué dans le _Livre d'Urantia_. (fin de citation)
 
-Dans un autre commentaire sur les novas, _le Livre d'Urantia_ déclare sur LU 41 : 8.3 comme suit :
+Dans un autre commentaire sur les novas, _le Livre d'Urantia_ déclare sur LU 41 : 8.3 comme suit :
 
 > « Dans les grands soleils lorsque l’hydrogène est épuisé et que la contraction gravitationnelle s’ensuit, si un tel corps n’est pas assez opaque pour retenir la pression intérieure qui soutient les régions gazeuses extérieures, alors un effondrement subit se produit. Les changements électrogravitationnels donnent naissance à d’immenses quantités de minuscules particules dépourvues de potentiel électrique, et celles-ci s’échappent promptement de l’intérieur du soleil, ce qui amène en quelques jours l’effondrement d’un soleil gigantesque. » ([LU 41:8.3](/fr/The_Urantia_Book/41#p8_3))
 

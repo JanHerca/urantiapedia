@@ -25,7 +25,7 @@ Vous entendez les premiers mots d'une parabole qu'il a commencé à prononcer en
 
 « Oui, oui », hochez-vous la tête, « tout comme les rochers. Hélas, un enclos parfait est un rêve insensé.
 
-« ... un sol riche et ont produit leur récolte, certains trente fois, certains soixante fois et certains centuple. »
+« ... un sol riche et ont produit leur récolte, certains trente fois, certains soixante fois et certains centuple. »
 
 « Oui », dites-vous avec un peu de découragement, puis en vous corrigeant, « oui, même si beaucoup de graines n'ont pas poussé à cause des imperfections des choses, mon travail a finalement été fructueux. »
 
@@ -35,6 +35,6 @@ Alors cet homme dans la barque, cet homme que certains ont salué comme le Messi
 
 Et avec cette assurance réconfortante, le fermier rentre chez lui avec une nouvelle vie dans son cœur et salue joyeusement sa femme et ses enfants après avoir encouru leur colère pour être partis à la recherche de « ce foutu personnage du Messie ». Mais maintenant, ils voient la joie du fermier et ils se réjouissent tous lorsqu'il leur raconte les paroles et la chaleur de Jésus.
 
-Références : Livre d'URANTIA [LU 151:1.1-5](/fr/The_Urantia_Book/151#p1_1),
-[Matthieu 13 :1-17, 18-23](/fr/Bible/Matthew/13#v1), [Gal. 6:7 — 10](/fr/Bible/Galatians/6#v7)
+Références : Livre d'URANTIA [LU 151:1.1-5](/fr/The_Urantia_Book/151#p1_1),
+[Matthieu 13 :1-17, 18-23](/fr/Bible/Matthew/13#v1), [Gal. 6:7 — 10](/fr/Bible/Galatians/6#v7)
 

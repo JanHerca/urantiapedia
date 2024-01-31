@@ -62,7 +62,7 @@ La question la plus fréquemment posée par les personnes qui ont découvert _Le
 
 Habituellement, seule une combinaison de tradition, d’acceptation sociale et d’une connaissance directe de sa qualité donnera à l’individu moyen une réponse satisfaisante concernant les origines de la littérature révélatrice. Bien que les biblistes aient déclaré que notre connaissance des documents originaux du Nouveau Testament est si maigre : « Nous ne pouvons désormais rien savoir de la vie et de la personnalité de Jésus », la plupart d’entre nous ne sont pas perturbés par l’origine de l’historicité du Nouveau Testament. L'expérience des siècles a validé sa qualité.
 
-À l'heure actuelle, il n'existe pas de tradition similaire d'acceptation pour donner une réponse « satisfaisante » à l'origine du _Livre d'URANTIA_ ; un jour, à mesure que son impact sur la civilisation s’accroîtra, ce sera le cas. Désormais, le livre doit être évalué uniquement sur la base de sa qualité – une expérience personnelle de son authenticité interne ou de son absence. Le message du Livre d'URANTIA doit être expérimenté avant de pouvoir évaluer sa qualité et considérer la probabilité de la nature révélatrice de son origine. Avant d'avoir lu complètement _Le Livre d'URANTIA_, il est donc impossible de vous donner une réponse très satisfaisante concernant son origine ; et, après avoir lu le livre, le commentaire de quelqu'un d'autre sur son origine, bien qu'intéressant, n'a qu'une importance secondaire.
+À l'heure actuelle, il n'existe pas de tradition similaire d'acceptation pour donner une réponse « satisfaisante » à l'origine du _Livre d'URANTIA_ ; un jour, à mesure que son impact sur la civilisation s’accroîtra, ce sera le cas. Désormais, le livre doit être évalué uniquement sur la base de sa qualité – une expérience personnelle de son authenticité interne ou de son absence. Le message du Livre d'URANTIA doit être expérimenté avant de pouvoir évaluer sa qualité et considérer la probabilité de la nature révélatrice de son origine. Avant d'avoir lu complètement _Le Livre d'URANTIA_, il est donc impossible de vous donner une réponse très satisfaisante concernant son origine ; et, après avoir lu le livre, le commentaire de quelqu'un d'autre sur son origine, bien qu'intéressant, n'a qu'une importance secondaire.
 
 [Lire la suite](/fr/article/Ken_Glasziou/The_Urantia_Book_The_Question_Of_Origin)
 
@@ -79,7 +79,7 @@ Sur ce sujet, je voudrais tenter de faire la lumière. Dans certains articles du
 
 Les comptes rendus de conférences sont bien réalisés. Merci et j'ai apprécié les articles de Ken Glasziou. J'ai lu toute la newsletter et elle fait quelque chose pour garder les personnes éloignées en contact.
 
-Que diriez-vous d'un programme « Connaissez votre U.B. » régulier avec les questions et réponses au verso ? Quelles nouvelles révélations les gens pensent-ils avoir ? Qu’est-ce que les « T.A. » des gens ont fait pour eux ? C'est peut-être un peu dur ! Comment animer un groupe d’étude ?
+Que diriez-vous d'un programme « Connaissez votre U.B. » régulier avec les questions et réponses au verso ? Quelles nouvelles révélations les gens pensent-ils avoir ? Qu’est-ce que les « T.A. » des gens ont fait pour eux ? C'est peut-être un peu dur ! Comment animer un groupe d’étude ?
 
 Christopher Billington, Arbre, via Buchan
 
@@ -107,7 +107,7 @@ Parce que dans la plupart des endroits, nous ne sommes restés qu'une nuit et qu
 
 Parfois, je n'avais qu'un numéro de boîte aux lettres, comme c'était le cas à Parkes, NSW. Et avec un nom comme Johnston, vous pouvez avoir quelques ennuis. J'ai essayé tous les Johnatons de l'annuaire téléphonique, mais je n'ai pas eu de chance.
 
-« Recevez-vous une newsletter Six-0-Six ? » était ma question habituelle (ou était-ce inhabituel ?). « Un quoi? » serait la réponse.
+« Recevez-vous une newsletter Six-0-Six ? » était ma question habituelle (ou était-ce inhabituel ?). « Un quoi? » serait la réponse.
 
 [Lire la suite](/fr/article/Madeline_Noordzy/Say_Hello_to_a_Fellow_Urantian)
 
@@ -127,7 +127,7 @@ BULLETIN D'INFORMATION SIX-0-SIX
 
 ---
 
-Veuillez inscrire/conserver mon nom sur votre liste de diffusion :
+Veuillez inscrire/conserver mon nom sur votre liste de diffusion :
 
 NOM M./MME/Mlle \_\_\_\_
 ADRESSE \_\_\_\_
