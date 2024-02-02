@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1971 Urantia Foundation</p>
 
 ## Paradis

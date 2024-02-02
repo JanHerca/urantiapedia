@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
+
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2 py-1">© 1987 Kathleen Swadling, Emmanuel Lou, David Regal, Richard Bain, Madeline Noordzy<br>© 1987 ANZURA, Association Urantia d'Australie et de Nouvelle-Zélande</p>
 
 

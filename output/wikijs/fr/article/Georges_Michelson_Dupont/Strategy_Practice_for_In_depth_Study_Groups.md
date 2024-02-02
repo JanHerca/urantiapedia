@@ -9,6 +9,7 @@ dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
 
+
 Auteur: **Georges Michelson-Dupont**, fiduciaire, Fondation Urantia, Recloses, France
 
 ## Introduction

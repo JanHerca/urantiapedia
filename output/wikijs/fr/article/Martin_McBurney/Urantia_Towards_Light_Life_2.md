@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2023-11-04T14:02:03.086Z
 ---
 
+
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1988 Martin McBurney<br>© 1988 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 

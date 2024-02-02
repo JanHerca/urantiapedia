@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
+
 ## Bio
 
 William Samuel Sadler (24 juin 1875 - 26 avril 1969) était un chirurgien américain, psychiatre autodidacte et auteur qui a aidé à publier _Le Livre d'Urantia_. Le livre aurait résulté de la relation de Sadler avec un homme à travers lequel il croyait que les êtres célestes parlaient la nuit. Il a attiré une suite de personnes qui ont étudié ses enseignements.

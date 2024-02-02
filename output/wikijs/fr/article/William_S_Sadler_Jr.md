@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T11:12:37.284Z
 ---
 
+
 ## Bio
 
 William "Bill" Samuel Sadler Junior (15 décembre 1907 - 23 novembre 1963) était le fils de William S. Sadler et de Lena Sadler. Il a travaillé comme caissier adjoint à la District National Bank de Chicago. Son activité principale était liée à Sadler and Assoc (société de gestion). Il était un membre éminent du Forum. Il est mort d'une crise cardiaque.

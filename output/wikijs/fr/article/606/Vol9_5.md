@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
+
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2 py-1">© 1988 Madeline Noordzy, Robert Crickett, Martin Mc Burney, Rod McCourt, Dick Bain<br>© 1988 ANZURA , Australie et Nouvelle-Zélande Association Urantia</p>
 
 

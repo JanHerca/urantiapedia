@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
+
 Compilateur : **Ralph Zehr**
 
 ## Cette révélation a été ordonnée par le Père lui-même et annoncée par Jésus à ses apôtres sur le mont Olivet en conjonction avec la prédiction de sa seconde venue.

@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2022-11-28T14:02:03.086Z
 ---
 
+
 Auteur: **Gard Jameson**
 
 Il y a une grande satisfaction à devenir membre d’un groupe de lecteurs dont le but principal est l’étude en profondeur du Livre d’Urantia. Un groupe d’étude a le potentiel « d’étendre la conscience cosmique et de rehausser la perception spirituelle. » [LU 0:0.2](/fr/The_Urantia_Book/0#p0_2) Et ce sont les deux importants objectifs de la Cinquième Révélation d’Époque.
