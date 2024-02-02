@@ -68,3 +68,4 @@ El libro se dividió en dos libros en la Septuaginta y se tradujo a mediados del
 ## Enlaces externos
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Libros_de_Cr%C3%B3nicas)
+

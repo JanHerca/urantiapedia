@@ -8,6 +8,7 @@ editor: markdown
 dateCreated: 2023-12-05T13:55:38.362Z
 ---
 
+
 <div class="urantiapedia-book-front urantiapedia-book-apocrypha">
 <svg xmlns="http://www.w3.org/2000/svg"
 	width="102.6mm" height="136.8mm"
