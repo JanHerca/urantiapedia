@@ -41,7 +41,7 @@ LES douze livres suivants sont des biographies écrites entre 107 et 137 avant J
 - [Testament de Zabulon](/fr/Bible/Testament_of_Zebulun)
 - [Testament de Dan](/fr/Bible/Testament_of_Dan)
 - [Testament de Nephtali](/fr/Bible/Testament_of_Naphtali)
-- [Testament de Gad](/fr/Bible/Testament_of_Gad)
+- [Testament de Gad](/fr/Bible/Testament_of_Gad_prophet)
 - [Testament d'Asher](/fr/Bible/Testament_of_Asher)
 - [Testament de Joseph](/fr/Bible/Testament_of_Joseph)
 - [Testament de Benjamin](/fr/Bible/Testament_of_Benjamin)

@@ -30,7 +30,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 
 _Traducido de «Los apócrifos y pseudoepígrafos del Antiguo Testamento», por R.H. Charles [1913]_
 
-El Libro de Enoc (también 1 Enoc; [nota 1] Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) es un antiguo texto religioso apocalíptico hebreo, atribuido por tradición a Enoc, el bisabuelo de Noé. Enoc contiene material único sobre los orígenes de los demonios y Nephilim, por qué algunos ángeles cayeron del cielo, una explicación de por qué el diluvio de Génesis fue moralmente necesario y una exposición profética del reinado de mil años del Mesías.
+El Libro de Enoc (también 1 Enoc; Ge'ez: መጽሐፈ ሄኖክ, maṣḥafa hēnok) es un antiguo texto religioso apocalíptico hebreo, atribuido por tradición a Enoc, el bisabuelo de Noé. Enoc contiene material único sobre los orígenes de los demonios y Nephilim, por qué algunos ángeles cayeron del cielo, una explicación de por qué el diluvio de Génesis fue moralmente necesario y una exposición profética del reinado de mil años del Mesías.
 
 Se estima que las secciones más antiguas (principalmente en el Libro de los vigilantes) del texto datan de alrededor del 300 al 200 a. C., y la última parte (Libro de las parábolas) probablemente del 100 a.
 

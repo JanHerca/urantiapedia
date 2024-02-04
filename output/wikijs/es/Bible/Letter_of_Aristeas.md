@@ -25,7 +25,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 ## Descripción
 
-“Carta de Aristeas”
+«Carta de Aristeas»
 
 _Traducido de «Los libros olvidados del Edén», de Rutherford H. Platt, Jr. [1926]_
 
@@ -63,17 +63,17 @@ La estructura de esta absorbente obra es la siguiente:
 
 ## Índice
 
-- [Capítulo I](/es/Biblia/Carta_de_Aristeas/1)
-- [Capítulo II](/es/Biblia/Carta_de_Aristeas/2)
-- [Capítulo III](/es/Biblia/Carta_de_Aristeas/3)
-- [Capítulo IV](/es/Bible/Carta_de_Aristeas/4)
-- [Capítulo V](/es/Biblia/Carta_de_Aristeas/5)
-- [Capítulo VI](/es/Bible/Carta_de_Aristeas/6)
-- [Capítulo VII](/es/Bible/Carta_de_Aristeas/7)
-- [Capítulo VIII](/es/Bible/Carta_de_Aristeas/8)
-- [Capítulo IX](/es/Bible/Carta_de_Aristeas/9)
-- [Capítulo X](/es/Biblia/Carta_de_Aristeas/10)
-- [Capítulo XI](/es/Bible/Carta_de_Aristeas/11)
+- [Capítulo I](/es/Bible/Letter_of_Aristeas/1)
+- [Capítulo II](/es/Bible/Letter_of_Aristeas/2)
+- [Capítulo III](/es/Bible/Letter_of_Aristeas/3)
+- [Capítulo IV](/es/Bible/Letter_of_Aristeas/4)
+- [Capítulo V](/es/Bible/Letter_of_Aristeas/5)
+- [Capítulo VI](/es/Bible/Letter_of_Aristeas/6)
+- [Capítulo VII](/es/Bible/Letter_of_Aristeas/7)
+- [Capítulo VIII](/es/Bible/Letter_of_Aristeas/8)
+- [Capítulo IX](/es/Bible/Letter_of_Aristeas/9)
+- [Capítulo X](/es/Bible/Letter_of_Aristeas/10)
+- [Capítulo XI](/es/Bible/Letter_of_Aristeas/11)
 
 
 ## Enlaces externos

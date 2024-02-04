@@ -785,7 +785,8 @@ class Bible {
 				this.biblebooks.forEach(book => {
 					book.chapters.forEach((chapter, n) => {
 						const bookName = book.title.replace(/ /g, '_');
-						const bookNameEN = book.titleEN.replace(/ /g, '_');
+						// const bookNameEN = book.titleEN.replace(/ /g, '_');
+						const bookNameEN = book.path.split('/').reverse()[0];
 						const filePathWiki = path.join(dirPath, 
 							`${bookName}_${chapter.title}.${format}`);
 						const filePathHTML = path.join(dirPath,

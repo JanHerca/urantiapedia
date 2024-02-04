@@ -19,7 +19,7 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<text style="font-size:4px" x="61" y="130">F. C. Conybeare</text>
 		<text style="font-size:3px" x="61" y="135">Jewish Quarterly Review, 1898 (tr.)</text>
 		<text style="font-size:9px" x="61" y="60">Testamento</text>
-		<text style="font-size:9px" x="61" y="60">de Salomón</text>
+		<text style="font-size:9px" x="61" y="70">de Salomón</text>
 	</g>
 </svg>
 </div>
@@ -44,7 +44,7 @@ James Charlesworth escribe (The Pseudepigrapha and Modern Research, págs. 197-1
 >
 > Si el Testamento de Salomón no es tardío, como afirmaban los primeros eruditos, entonces pertenece a los Pseudepigrapha. A la luz del énfasis sobre los demonios y los ángeles y la preocupación central por el Templo, será interesante ver si existe una relación entre este pseudoepígrafo y el Rollo del Templo Qumránico (cf. Y. Yadin, «The Temple Scroll», _New Directions in Biblical Archaeology_, eds. DN Freedman y JC Greenfield. Garden City, Nueva York: Doubleday, 1971; págs. 156-66).
 
-DC Duling escribe: «La virgen, la referencia al Hijo de Dios, la tentación de Jesús, el gobierno de Jesús sobre los demonios, la crucifixión y el nombre Emmanouel son claros. Además, existe la curiosa referencia al número 644. Este número está relacionado con el nombre Emmanouel en el manuscrito P de 6:8, que afirma en respuesta a la pregunta de Salomón sobre un ángel frustrante que el que frustra a Beelzeboul es "el santo y nombre precioso del Dios todopoderoso, el llamado _por los hebreos_ por una fila de números, de los cuales la suma es 644, y entre los griegos es Emmanouel.' \[Cursiva mía.\] Ahora 11:6 habla de un Emmanouel sufriente como alguien que frustra al que tiene forma de león, y agrega: «A medida que se mueve, es conjurado por medio de tres letras». Sin embargo, las tres letras utilizadas para el número 644 en el manuscrito P de 6:8 son letras griegas (chi, mu, delta). Además, el manuscrito P de 11:6 añade: «El «Grande entre los hombres» que ha de sufrir muchas cosas cuyo nombre es la fórmula 644, que es Emmanouel. . .» Nunca se dice explícitamente, pero las letras griegas del nombre de Emmanouel también suman 644 (TSol 6:8, n. i)». (_The Old Testament Pseudepigrapha_, vol. 1, p. 955)
+D.C. Duling escribe: «La virgen, la referencia al Hijo de Dios, la tentación de Jesús, el gobierno de Jesús sobre los demonios, la crucifixión y el nombre Emmanouel son claros. Además, existe la curiosa referencia al número 644. Este número está relacionado con el nombre Emmanouel en el manuscrito P de 6:8, que afirma en respuesta a la pregunta de Salomón sobre un ángel frustrante que el que frustra a Beelzeboul es "el santo y nombre precioso del Dios todopoderoso, el llamado _por los hebreos_ por una fila de números, de los cuales la suma es 644, y entre los griegos es Emmanouel.' \[Cursiva mía.\] Ahora 11:6 habla de un Emmanouel sufriente como alguien que frustra al que tiene forma de león, y agrega: «A medida que se mueve, es conjurado por medio de tres letras». Sin embargo, las tres letras utilizadas para el número 644 en el manuscrito P de 6:8 son letras griegas (chi, mu, delta). Además, el manuscrito P de 11:6 añade: «El «Grande entre los hombres» que ha de sufrir muchas cosas cuyo nombre es la fórmula 644, que es Emmanouel. . .» Nunca se dice explícitamente, pero las letras griegas del nombre de Emmanouel también suman 644 (TSol 6:8, n. i)». (_The Old Testament Pseudepigrapha_, vol. 1, p. 955)
 
 ## Índice
 

@@ -18,7 +18,8 @@ dateCreated: 2023-12-05T13:55:38.362Z
 		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
 		<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
 		<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-		<text style="font-size:9px" x="61" y="60">Testamento de Rubén</text>
+		<text style="font-size:9px" x="61" y="60">Testamento</text>
+		<text style="font-size:9px" x="61" y="70">de Rubén</text>
 	</g>
 </svg>
 </div>
@@ -27,9 +28,9 @@ dateCreated: 2023-12-05T13:55:38.362Z
 
 «Testament of Rubén»
 
-_From The Forgotten Books of Eden, by Rutherford H. Platt, Jr. [1926]_
+_Traducido de «The Forgotten Books of Eden», by Rutherford H. Platt, Jr. [1926]_
 
-LOS doce libros siguientes son biografías escritas entre 107 y 137 aC. Son una exposición contundente que muestra cómo un fariseo con un don poco común para escribir consiguió publicidad utilizando los nombres de los hombres más importantes de la antigüedad. "Había gigantes intelectuales en aquellos días" ¡y los Doce Patriarcas eran los Gigantes Intelectuales!
+LoS doce libros siguientes son biografías escritas entre 107 y 137 aC. Son una exposición contundente que muestra cómo un fariseo con un don poco común para escribir consiguió publicidad utilizando los nombres de los hombres más importantes de la antigüedad. "Había gigantes intelectuales en aquellos días" ¡y los Doce Patriarcas eran los Gigantes Intelectuales!
 
 - [Testamento de Rubén](/es/Bible/Testament_of_Reuben)
 - [Testamento de Simeón](/es/Bible/Testament_of_Simeon)
@@ -39,7 +40,7 @@ LOS doce libros siguientes son biografías escritas entre 107 y 137 aC. Son una 
 - [Testamento de Zebulón](/es/Bible/Testament_of_Zebulun)
 - [Testamento de Dan](/es/Bible/Testament_of_Dan)
 - [Testamento de Neftalí](/es/Bible/Testament_of_Naphtali)
-- [Testamento de Gad](/es/Bible/Testament_of_Gad)
+- [Testamento de Gad](/es/Bible/Testament_of_Gad_prophet)
 - [Testamento de Aser](/es/Bible/Testament_of_Asher)
 - [Testamento de José](/es/Bible/Testament_of_Joseph)
 - [Testamento de Benjamín](/es/Bible/Testament_of_Benjamin)

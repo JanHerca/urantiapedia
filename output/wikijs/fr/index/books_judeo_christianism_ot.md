@@ -1919,7 +1919,7 @@ La liste incluse ici comprend des livres qui sont considérés comme des _pseud�
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testament de Gad</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/fr/Bible/Testament_of_Gad" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/fr/Bible/Testament_of_Gad_prophet" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Lire</strong></div></span>
 				</a>
 			</div>

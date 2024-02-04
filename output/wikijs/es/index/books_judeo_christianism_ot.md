@@ -931,7 +931,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">I Macabeos</text>
 						</g>
 					</svg>
@@ -954,7 +954,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">II Macabeos</text>
 						</g>
 					</svg>
@@ -977,7 +977,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Eclesiástico</text>
 						</g>
 					</svg>
@@ -1000,7 +1000,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Sabiduría</text>
 						</g>
 					</svg>
@@ -1023,7 +1023,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Baruc</text>
 						</g>
 					</svg>
@@ -1046,7 +1046,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Tobit</text>
 						</g>
 					</svg>
@@ -1069,7 +1069,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Judit</text>
 						</g>
 					</svg>
@@ -1092,7 +1092,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">I Esdras</text>
 						</g>
 					</svg>
@@ -1115,7 +1115,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">II Esdras</text>
 						</g>
 					</svg>
@@ -1138,7 +1138,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Susana</text>
 						</g>
 					</svg>
@@ -1161,7 +1161,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Bel y el Dragón</text>
 						</g>
 					</svg>
@@ -1184,7 +1184,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oración de Manasés</text>
 						</g>
 					</svg>
@@ -1207,7 +1207,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Carta de Jeremías</text>
 						</g>
 					</svg>
@@ -1230,7 +1230,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Adiciones a Ester</text>
 						</g>
 					</svg>
@@ -1253,7 +1253,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">DEUTEROCANON</text>
-							<text style="font-size:4px" x="61" y="125">King James Version (tr.)</text>
+							<text style="font-size:4px" x="61" y="125">Versión King James (tr.)</text>
 							<text style="font-size:9px" x="61" y="60">Oración de Azarías</text>
 						</g>
 					</svg>
@@ -1292,7 +1292,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 	</div>
 </div>
 
-## Apócrifos del Antiguo Testamento (Pseudoepigrafa)
+## Apócrifos del Antiguo Testamento (Pseudoepígrafos)
 
 La lista que se incluye aquí comprende los libros que se consideran _apócrifos pseudoepígrafos_, es decir, que fueron considerados de poco valor y nunca incluidos en el canon por ninguna confesión.
 
@@ -1920,7 +1920,7 @@ La lista que se incluye aquí comprende los libros que se consideran _apócrifos
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Testamento de Gad</div>
 			<div class="urantiapedia-card-actions">
-				<a href="/es/Bible/Testament_of_Gad" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/es/Bible/Testament_of_Gad_prophet" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Leer</strong></div></span>
 				</a>
 			</div>

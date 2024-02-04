@@ -35,8 +35,8 @@ Voir le commentaire dans le [livre du premier testament](/fr/Bible/Testament_of_
 
 ## Indice
 
-- [Chapitre I](/fr/Bible/Testament_of_Gad/1)
-- [Chapitre II](/fr/Bible/Testament_of_Gad/2)
+- [Chapitre I](/fr/Bible/Testament_of_Gad_prophet/1)
+- [Chapitre II](/fr/Bible/Testament_of_Gad_prophet/2)
 
 
 ## Liens externes

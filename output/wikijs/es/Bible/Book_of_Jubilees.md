@@ -59,7 +59,7 @@ Emil Schürer escribe: «A pesar de sus muchos rasgos destacados de naturaleza c
 - [Capítulo 7](/es/Bible/Book_of_Jubilees/7)
 - [Capítulo 8](/es/Bible/Book_of_Jubilees/8)
 - [Capítulo 9](/es/Bible/Book_of_Jubilees/9)
-- [Capítulo 10](/es/BibleBook_of_Jubileess/10)
+- [Capítulo 10](/es/Bible/Book_of_Jubilees/10)
 - [Capítulo 11](/es/Bible/Book_of_Jubilees/11)
 - [Capítulo 12](/es/Bible/Book_of_Jubilees/12)
 - [Capítulo 13](/es/Bible/Book_of_Jubilees/13)

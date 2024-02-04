@@ -1,5 +1,5 @@
 ---
-title: "Testament of Gad"
+title: "Testamento de Gad"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
@@ -15,30 +15,30 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-		<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
+		<text style="font-size:5px" x="61" y="22">APÓCRIFOS</text>
+		<text style="font-size:4px" x="61" y="125">Los libros olvidados del Edén, 1926 (tr.)</text>
 		<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-		<text style="font-size:9px" x="61" y="60">Testament of Gad</text>
+		<text style="font-size:9px" x="61" y="60">Testamento de Gad</text>
 	</g>
 </svg>
 </div>
 
-## Description
+## Descripción
 
-“Testament of Gad”
+«Testament of Gad»
 
-_From The Forgotten Books of Eden, by Rutherford H. Platt, Jr. [1926]_
+_Traducido de «Los libros olvidados del Edén», de Rutherford H. Platt, Jr. [1926]_
 
-See commentary in the [first testament book](/en/Bible/Testament_of_Reuben)
+Ver comentario en el [libro del primer testamento](/es/Bible/Testament_of_Reuben)
 
-## Index
+## Índice
 
-- [Chapter I](/en/Bible/Testament_of_Gad/1)
-- [Chapter II](/en/Bible/Testament_of_Gad/2)
+- [Capítulo I](/es/Bible/Testament_of_Gad_prophet/1)
+- [Capítulo II](/es/Bible/Testament_of_Gad_prophet/2)
 
 
-## External links
+## Enlaces externos
 
 - [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_017)
-- [Wikipedia](https://en.wikipedia.org/wiki/Testaments_of_the_Twelve_Patriarchs)
+- [Wikipedia](https://es.wikipedia.org/wiki/Testamento_de_los_Doce_Patriarcas)
 - [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
