@@ -56,7 +56,7 @@ Las naturalezas diversas de los Siete Espíritus Maestros determinan la divisió
 
 En el momento presente, los siete superuniversos están completamente «aislados los unos de los otros». <a id="a56_103"></a>[LU 15:10.23](/es/The_Urantia_Book/15#p10_23) Cuando estén establecidos en luz y vida, se prevé que el Ser Supremo los gobierne como una sola unidad, y que los límites entre ellos se eliminen completamente. <a id="a56_310"></a>[LU 117:7.16-17](/es/The_Urantia_Book/117#p7_16) Esto dará como resultado la mezcla de las siete culturas. Aquí tenemos otra aplicación del principio de divergencia-convergencia (Los Documentos también nos dan otro ejemplo de este mismo principio <a id="a56_557"></a>[LU 64:6.31](/es/The_Urantia_Book/64#p6_31) en los mundos habitados, las seis culturas de las razas evolutivas primero se segregan y luego se mezclan con la séptima: la cultura adámica)
 
-Se cree que, en el futuro, tras la emergencia del Ser Supremo, los Espíritus Maestros continuarán residiendo en el gran universo <a id="a58_129"></a>[LU 0:8.11](/es/The_Urantia_Book/0#p8_11), pero no es seguro que continúen gobernando los superuniversos. <a id="a58_237"></a>[LU 56:7.9](/es/The_Urantia_Book/56#p7_9)
+Se cree que, en el futuro, tras la emergencia del Ser Supremo, los Espíritus Maestros continuarán residiendo en el gran universo <a id="a58_129"></a>[LU 0:8.11](/es/The_Urantia_Book/0#p8_11), pero no es seguro que continúen gobernando los superuniversos. <a id="a58_235"></a>[LU 56:7.9](/es/The_Urantia_Book/56#p7_9)
 
 ## § 4. La administración del primer nivel de espacio
 

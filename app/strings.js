@@ -1261,7 +1261,8 @@ const Strings = {
 	},
 	"articlesSource": {
 		en: "Source",
-		es: "Fuente"
+		es: "Fuente",
+		fr: "Source"
 	},
 	"lblLanguage": {
 		en: "Urantiapedia Language:",

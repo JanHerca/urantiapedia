@@ -45,13 +45,13 @@ El mundialmente famoso Sea World Nara Resort está ubicado en exuberantes jardin
 
 BIENVENIDOS A LAS ORILLAS DEL PARAÍSO.
 
-> «Podéis estar seguros de que seréis cálidamente recibidos cuando experimentéis la resurrección para la eternidad en las orillas perpetuas del Paraíso». ([LU 25:8.5](/es/The_Urantia_Book/25#p8_5))
+> «Podéis estar seguros de que seréis cálidamente recibidos cuando experimentéis la resurrección para la eternidad en las orillas perpetuas del Paraíso». (<a id="a47_155"></a>[LU 25:8.5](/es/The_Urantia_Book/25#p8_5))
 
 ## El propósito
 
 Durante nuestra estancia de tres días en este paraíso físico podemos compartir ideas sobre cómo imaginamos que podemos crecer espiritualmente y atravesar los reinos hasta la Isla Central del Paraíso.
 
-> «El gran desafío para el hombre moderno es lograr una mejor comunicación con el Monitor divino que habita dentro de la mente humana». ([LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
+> «El gran desafío para el hombre moderno es lograr una mejor comunicación con el Monitor divino que habita dentro de la mente humana». (<a id="a53_137"></a>[LU 196:3.34](/es/The_Urantia_Book/196#p3_34))
 
 Jesús desarrolló técnicas superlativas para efectuar el proceso. A menudo participaba en una comunión solitaria con el Padre: para reunir fuerzas, buscar nuevas reservas de sabiduría, encontrar mejores maneras de someter toda su personalidad a la conciencia del contacto con la divinidad.
 

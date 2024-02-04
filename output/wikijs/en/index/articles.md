@@ -89,7 +89,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">Fellowship Herald</div>
 			<div class="urantiapedia-card-text">
-				<div>The Fellowship Herald is an annual or bi-annual publication edited by <em>The Urantia Book</em> Fellowship in English.</div>
+				<div><em>The Fellowship Herald</em> is an annual or bi-annual publication edited by <em>The Urantia Book</em> Fellowship in English.</div>
 				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/herald/">Fellowship Herald archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -110,7 +110,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">Mighty Messenger</div>
 			<div class="urantiapedia-card-text">
-				<div>Mighty Messenger is a annual or bi-annual publication edited by <em>The Urantia Book Fellowship</em> with news and opinions for Readers of <em>The Urantia Book</em>.</div>
+				<div><em>Mighty Messenger</em> is a annual or bi-annual publication edited by <em>The Urantia Book Fellowship</em> with news and opinions for Readers of <em>The Urantia Book</em>.</div>
 				<div><small>Sources: <a href="https://archive.urantiabook.org/archive/newsletters">Fellowship archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -131,7 +131,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">The Study Group Herald</div>
 			<div class="urantiapedia-card-text">
-				<div>The Study Group Herald was an old publication by The Fellowship, former The Urantia Book Fellowship, published during a few years in the 90's.</div>
+				<div><em>The Study Group Herald</em> was an old publication by The Fellowship, former The Urantia Book Fellowship, published during a few years in the 90's.</div>
 				<div><small>Sources: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -152,7 +152,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">Urantian — Journal of Urantia Brotherhood</div>
 			<div class="urantiapedia-card-text">
-				<div>The Urantian was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, from 1976 to 1994.</div>
+				<div><em>The Urantian</em> was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, from 1976 to 1994.</div>
 				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/urantian_journal/">Fellowship archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
