@@ -41,20 +41,20 @@ La estructura de esta absorbente obra es la siguiente:
 
 1. Dedicatoria del libro a Filócrates.
 2. Actuación preliminar:
-	- (a) La propuesta del Bibliotecario de liberar a los judíos cautivos a cambio de un libro.
-	- (b) La emancipación.
-	- (c) La carta de Filadelfo a Eleazar.
-	- (d) La respuesta.
-	- (e) Los nombres del comité designado para traducir el libro.
+	- a. La propuesta del Bibliotecario de liberar a los judíos cautivos a cambio de un libro.
+	- b. La emancipación.
+	- c. La carta de Filadelfo a Eleazar.
+	- d. La respuesta.
+	- e. Los nombres del comité designado para traducir el libro.
 1. Descripción de los regalos reales:
-	- (a) La mesa (probablemente el mueble más elaborado jamás producido).
-	- (b) Los demás presentes.
+	- a. La mesa (probablemente el mueble más elaborado jamás producido).
+	- b. Los demás presentes.
 4. Descripción de Jerusalén.
-	- (a) El templo (y el sistema de abastecimiento de agua).
-	- (b) La ceremonia.
-	- (c) La ciudadela.
-	- (d) La ciudad.
-	- (e) El campo.
+	- a. El templo (y el sistema de abastecimiento de agua).
+	- b. La ceremonia.
+	- c. La ciudadela.
+	- d. La ciudad.
+	- e. El campo.
 5. La despedida de Eleazar.
 6. La explicación de la ley de Eleazar (esta es una profunda sabiduría).
 7. La recepción.

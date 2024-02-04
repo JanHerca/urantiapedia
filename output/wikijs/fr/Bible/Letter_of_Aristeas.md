@@ -42,20 +42,20 @@ La structure de ce travail passionnant est la suivante :
 
 1. Dédicace du livre à Philocrate.
 2. Action préliminaire :
-	- (a) La proposition du bibliothécaire de libérer les captifs juifs en échange d'un livre.
-	- (b) L'émancipation.
-	- (c) La lettre de Philadelphe à Éléazar.
-	- (d) La réponse.
-	- (e) Les noms du comité désigné pour traduire le livre.
+	- a. La proposition du bibliothécaire de libérer les captifs juifs en échange d'un livre.
+	- b. L'émancipation.
+	- c. La lettre de Philadelphe à Éléazar.
+	- d. La réponse.
+	- e. Les noms du comité désigné pour traduire le livre.
 3. Description des cadeaux royaux :
-	- (a) La table (probablement le meuble le plus élaboré jamais produit).
-	- (b) Les autres présents.
+	- a. La table (probablement le meuble le plus élaboré jamais produit).
+	- b. Les autres présents.
 4. Description de Jérusalem.
-	- (a) Le temple (et le système d'adduction d'eau).
-	- (b) La cérémonie.
-	- (c) La citadelle.
-	- (d) La ville.
-	- (e) La campagne.
+	- a. Le temple (et le système d'adduction d'eau).
+	- b. La cérémonie.
+	- c. La citadelle.
+	- d. La ville.
+	- e. La campagne.
 5. Les adieux d'Éléazar.
 6. L'explication de la loi par Éléazar (c'est une profonde sagesse).
 7. La réception.

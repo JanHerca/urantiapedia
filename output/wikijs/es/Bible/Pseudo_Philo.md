@@ -50,7 +50,7 @@ James Charlesworth escribe: «Cada vez está más claro que Pseudo-Philo no lleg
 - [Capítulo 7](/es/Bible/Pseudo_Philo/7)
 - [Capítulo 8](/es/Bible/Pseudo_Philo/8)
 - [Capítulo 9](/es/Bible/Pseudo_Philo/9)
-- [Capítulo 10](/es/Bible/Pseudo_Philo10)
+- [Capítulo 10](/es/Bible/Pseudo_Philo/10)
 - [Capítulo 11](/es/Bible/Pseudo_Philo/11)
 - [Capítulo 12](/es/Bible/Pseudo_Philo/12)
 - [Capítulo 13](/es/Bible/Pseudo_Philo/13)

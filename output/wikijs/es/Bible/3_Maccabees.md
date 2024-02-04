@@ -36,13 +36,13 @@ III Macabeos se considera parte del Anagignoskomena bíblico (deuterocanon) en l
 
 ## Índice
 
-- [Capítulo 1](/es/Bible/3_Macabeos/1)
-- [Capítulo 2](/es/Bible/3_Macabeos/2)
-- [Capítulo 3](/es/Bible/3_Macabeos/3)
-- [Capítulo 4](/es/Bible/3_Macabeos/4)
-- [Capítulo 5](/es/Bible/3_Macabeos/5)
-- [Capítulo 6](/es/Bible/3_Macabeos/6)
-- [Capítulo 7](/es/Bible/3_Macabeos/7)
+- [Capítulo 1](/es/Bible/3_Maccabees/1)
+- [Capítulo 2](/es/Bible/3_Maccabees/2)
+- [Capítulo 3](/es/Bible/3_Maccabees/3)
+- [Capítulo 4](/es/Bible/3_Maccabees/4)
+- [Capítulo 5](/es/Bible/3_Maccabees/5)
+- [Capítulo 6](/es/Bible/3_Maccabees/6)
+- [Capítulo 7](/es/Bible/3_Maccabees/7)
 
 
 

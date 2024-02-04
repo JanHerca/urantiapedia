@@ -41,21 +41,21 @@ The structure of this absorbing work is as follows:
 
 1. Dedication of the book to Philocrates.
 2. Preliminary action:
-	- (a) The proposal of the Librarian to liberate the Jewish captives in exchange for a book.
-	- (b) The emancipation.
-	- (c) The letter of Philadelphus to Eleazar.
-	- (d) The reply.
-	- (e) The names of the committee appointed to translate the book.
+	- a. The proposal of the Librarian to liberate the Jewish captives in exchange for a book.
+	- b. The emancipation.
+	- c. The letter of Philadelphus to Eleazar.
+	- d. The reply.
+	- e. The names of the committee appointed to translate the book.
 1. Description of the royal presents:
-	- (a) The table (probably the most elaborate piece of furniture ever produced).
-	- (b) The other presents.
+	- a. The table (probably the most elaborate piece of furniture ever produced).
+	- b. The other presents.
 4. Description of Jerusalem.
-	- (a) The temple (and the water-works system).
-	- (b) The ceremony.
-	- (c) The citadel.
-	- (d) The city.
-	- (e) The countryside.
-5. Eleazar's farewell.
+	- a. The temple (and the water-works system).
+	- b. The ceremony.
+	- c. The citadel.
+	- d. The city.
+	- e. The countryside.
+5. Elezar's farewell.
 6. Eleazar's explanation of the law (this is profound wisdom).
 7. The reception.
 8. The banquet (72 questions and answers).

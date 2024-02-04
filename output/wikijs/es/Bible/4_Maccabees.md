@@ -41,14 +41,14 @@ Los antiguos Padres de la Iglesia Cristiana preservaron cuidadosamente este libr
 
 ## Índice
 
-- [Capítulo I](/es/Bible/4_Macabeos/1)
-- [Capítulo II](/es/Bible/4_Macabeos/2)
-- [Capítulo III](/es/Bible/4_Macabeos/3)
-- [Capítulo IV](/es/Bible/4_Macabeos/4)
-- [Capítulo V](/es/Bible/4_Macabeos/5)
-- [Capítulo VI](/es/Bible/4_Macabeos/6)
-- [Capítulo VII](/es/Bible/4_Macabeos/7)
-- [Capítulo VIII](/es/Bible/4_Macabeos/8)
+- [Capítulo I](/es/Bible/4_Maccabees/1)
+- [Capítulo II](/es/Bible/4_Maccabees/2)
+- [Capítulo III](/es/Bible/4_Maccabees/3)
+- [Capítulo IV](/es/Bible/4_Maccabees/4)
+- [Capítulo V](/es/Bible/4_Maccabees/5)
+- [Capítulo VI](/es/Bible/4_Maccabees/6)
+- [Capítulo VII](/es/Bible/4_Maccabees/7)
+- [Capítulo VIII](/es/Bible/4_Maccabees/8)
 
 
 ## Enlaces externos

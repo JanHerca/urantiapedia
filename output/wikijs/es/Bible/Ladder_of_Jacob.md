@@ -34,13 +34,13 @@ James Charlesworth escribe: «No se han investigado la fecha, la procedencia ni 
 
 ## Índice
 
-- [Capítulo 1](/es/Bible/Escalera_de_Jacob/1)
-- [Capítulo 2](/es/Bible/Escalera_de_Jacob/2)
-- [Capítulo 3](/es/Bible/Escalera_de_Jacob/3)
-- [Capítulo 4](/es/Bible/Escalera_de_Jacob/4)
-- [Capítulo 5](/es/Bible/Escalera_de_Jacob/5)
-- [Capítulo 6](/es/Bible/Escalera_de_Jacob/6)
-- [Capítulo 7](/es/Bible/Escalera_de_Jacob/7)
+- [Capítulo 1](/es/Bible/Ladder_of_Jacob/1)
+- [Capítulo 2](/es/Bible/Ladder_of_Jacob/2)
+- [Capítulo 3](/es/Bible/Ladder_of_Jacob/3)
+- [Capítulo 4](/es/Bible/Ladder_of_Jacob/4)
+- [Capítulo 5](/es/Bible/Ladder_of_Jacob/5)
+- [Capítulo 6](/es/Bible/Ladder_of_Jacob/6)
+- [Capítulo 7](/es/Bible/Ladder_of_Jacob/7)
 
 
 

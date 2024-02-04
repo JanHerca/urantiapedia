@@ -43,9 +43,9 @@ Si bien las versiones supervivientes se compusieron entre principios del siglo I
 ## Índice
 
 - [Apocalipsis de Moisés](/es/Bible/Life_of_Adam_and_Eve/Apocalypse_of_Moses) (Versión griega de la vida de Adán y Eva)
-- [Vida Latina de Adán y Eva](/es/Bible/Latin_Life_of_Adam_and_Eve)
-- [Vida eslava de Adán y Eva](/es/Bible/Slavonic_Life_of_Adam_and_Eve)
-- [El libro georgiano de Adán](/es/Bible/The_Georgian_Book_of_Adam)
+- [Vida Latina de Adán y Eva](/es/Bible/Life_of_Adam_and_Eve/Latin_Life_of_Adam_and_Eve)
+- [Vida eslava de Adán y Eva](/es/Bible/Life_of_Adam_and_Eve/Slavonic_Life_of_Adam_and_Eve)
+- [El libro georgiano de Adán](/es/Bible/Life_of_Adam_and_Eve/The_Georgian_Book_of_Adam)
 
 ## Enlaces externos
 
