@@ -43,13 +43,13 @@ Les anciens Pères de l'Église chrétienne ont soigneusement préservé ce livr
 ## Indice
 
 - [Chapitre I](/fr/Bible/4_Maccabees/1)
-- [Chapitre II](/fr/Bible/4_Macchabees/2)
-- [Chapitre III](/fr/Bible/4_Macchabees/3)
-- [Chapitre IV](/fr/Bible/4_Macchabees/4)
-- [Chapitre V](/fr/Bible/4_Macchabees/5)
-- [Chapitre VI](/fr/Bible/4_Macchabees/6)
-- [Chapitre VII](/fr/Bible/4_Macchabees/7)
-- [Chapitre VIII](/fr/Bible/4_Macchabees/8)
+- [Chapitre II](/fr/Bible/4_Maccabees/2)
+- [Chapitre III](/fr/Bible/4_Maccabees/3)
+- [Chapitre IV](/fr/Bible/4_Maccabees/4)
+- [Chapitre V](/fr/Bible/4_Maccabees/5)
+- [Chapitre VI](/fr/Bible/4_Maccabees/6)
+- [Chapitre VII](/fr/Bible/4_Maccabees/7)
+- [Chapitre VIII](/fr/Bible/4_Maccabees/8)
 
 
 ## Liens externes

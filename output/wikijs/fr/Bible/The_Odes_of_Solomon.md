@@ -1,5 +1,5 @@
 ---
-title: "The Odes of Solomon"
+title: "Les Odes de Salomon"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
@@ -16,76 +16,77 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-		<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
+		<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 		<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-		<text style="font-size:9px" x="61" y="60">The Odes of Solomon</text>
+		<text style="font-size:9px" x="61" y="60">Les Odes</text>
+		<text style="font-size:9px" x="61" y="70">de Salomon</text>
 	</g>
 </svg>
 </div>
 
 ## Description
 
-“The Odes of Solomon”
+« Les Odes de Salomon »
 
-_From The Forgotten Books of Eden, by Rutherford H. Platt, Jr. [1926]_
+_Tiré des Livres oubliés d'Eden, par Rutherford H. Platt, Jr. [1926]_
 
-HERE are some of the most beautiful songs of peace and joy that the world possesses. Yet their origin, the date of their writing, and the exact meaning of many of the verses remain one of the great literary mysteries.
+VOICI quelques-unes des plus belles chansons de paix et de joie que le monde possède. Pourtant, leur origine, la date de leur écriture et la signification exacte de nombreux vers restent l’un des grands mystères littéraires.
 
-They have come down to us in a single and very ancient document in Syriac language. Evidently that document is a translation from the original Greek. Critical debate has raged around these Odes; one of the most plausible explanations is that they are songs of newly baptized Christians of the First Century.
+Ils nous sont parvenus dans un document unique et très ancien en langue syriaque. De toute évidence, ce document est une traduction du grec original. Un débat critique a fait rage autour de ces Odes ; l’une des explications les plus plausibles est qu’il s’agit de chants de chrétiens nouvellement baptisés du premier siècle.
 
-They are strangely lacking in historical allusions. Their radiance is no reflection of other days. They do not borrow from either the Old Testament or the Gospels. The inspiration of these verses is first-hand. They remind you of Aristides' remark, “A new people with whom something Divine is mingled.” Here is vigor and insight to which we can find parallels only in the most exalted parts of the Scriptures.
+Ils manquent étrangement d’allusions historiques. Leur éclat n’est pas le reflet des autres jours. Ils n’empruntent ni à l’Ancien Testament ni aux Évangiles. L’inspiration de ces vers est directe. Ils vous rappellent la remarque d'Aristide : « Un peuple nouveau auquel se mêle quelque chose de Divin ». Voilà une vigueur et une perspicacité auxquelles nous ne pouvons trouver des parallèles que dans les parties les plus exaltées des Écritures.
 
-For these dazzling mystery odes, we owe our translation to J. Rendel Harris, MA., Hon. Fellow of Clare College, Cambridge. He says about them: “There does not seem to be anything about which everyone seem agreed unless it be that the Odes are of singular beauty and high spiritual value.”
+Pour ces éblouissantes odes mystérieuses, nous devons notre traduction à J. Rendel Harris, M.A., Hon. Membre du Clare College de Cambridge. Il dit à leur sujet : « Il ne semble y avoir rien sur lequel tout le monde semble être d’accord, sauf que les Odes sont d’une beauté singulière et d’une haute valeur spirituelle. »
 
-## Index
+## Indice
 
-- [Ode 1](/en/Bible/The_Odes_of_Solomon/1)
-- [Ode 2](/en/Bible/The_Odes_of_Solomon/2)
-- [Ode 3](/en/Bible/The_Odes_of_Solomon/3)
-- [Ode 4](/en/Bible/The_Odes_of_Solomon/4)
-- [Ode 5](/en/Bible/The_Odes_of_Solomon/5)
-- [Ode 6](/en/Bible/The_Odes_of_Solomon/6)
-- [Ode 7](/en/Bible/The_Odes_of_Solomon/7)
-- [Ode 8](/en/Bible/The_Odes_of_Solomon/8)
-- [Ode 9](/en/Bible/The_Odes_of_Solomon/9)
-- [Ode 10](/en/Bible/The_Odes_of_Solomon/10)
-- [Ode 11](/en/Bible/The_Odes_of_Solomon/11)
-- [Ode 12](/en/Bible/The_Odes_of_Solomon/12)
-- [Ode 13](/en/Bible/The_Odes_of_Solomon/13)
-- [Ode 14](/en/Bible/The_Odes_of_Solomon/14)
-- [Ode 15](/en/Bible/The_Odes_of_Solomon/15)
-- [Ode 16](/en/Bible/The_Odes_of_Solomon/16)
-- [Ode 17](/en/Bible/The_Odes_of_Solomon/17)
-- [Ode 18](/en/Bible/The_Odes_of_Solomon/18)
-- [Ode 19](/en/Bible/The_Odes_of_Solomon/19)
-- [Ode 20](/en/Bible/The_Odes_of_Solomon/20)
-- [Ode 21](/en/Bible/The_Odes_of_Solomon/21)
-- [Ode 22](/en/Bible/The_Odes_of_Solomon/22)
-- [Ode 23](/en/Bible/The_Odes_of_Solomon/23)
-- [Ode 24](/en/Bible/The_Odes_of_Solomon/24)
-- [Ode 25](/en/Bible/The_Odes_of_Solomon/25)
-- [Ode 26](/en/Bible/The_Odes_of_Solomon/26)
-- [Ode 27](/en/Bible/The_Odes_of_Solomon/27)
-- [Ode 28](/en/Bible/The_Odes_of_Solomon/28)
-- [Ode 29](/en/Bible/The_Odes_of_Solomon/29)
-- [Ode 30](/en/Bible/The_Odes_of_Solomon/30)
-- [Ode 31](/en/Bible/The_Odes_of_Solomon/31)
-- [Ode 32](/en/Bible/The_Odes_of_Solomon/32)
-- [Ode 33](/en/Bible/The_Odes_of_Solomon/33)
-- [Ode 34](/en/Bible/The_Odes_of_Solomon/34)
-- [Ode 35](/en/Bible/The_Odes_of_Solomon/35)
-- [Ode 36](/en/Bible/The_Odes_of_Solomon/36)
-- [Ode 37](/en/Bible/The_Odes_of_Solomon/37)
-- [Ode 38](/en/Bible/The_Odes_of_Solomon/38)
-- [Ode 39](/en/Bible/The_Odes_of_Solomon/39)
-- [Ode 40](/en/Bible/The_Odes_of_Solomon/40)
-- [Ode 41](/en/Bible/The_Odes_of_Solomon/41)
-- [Ode 42](/en/Bible/The_Odes_of_Solomon/42)
+- [Ode 1](/fr/Bible/The_Odes_of_Solomon/1)
+- [Ode 2](/fr/Bible/The_Odes_of_Solomon/2)
+- [Ode 3](/fr/Bible/The_Odes_of_Solomon/3)
+- [Ode 4](/fr/Bible/The_Odes_of_Solomon/4)
+- [Ode 5](/fr/Bible/The_Odes_of_Solomon/5)
+- [Ode 6](/fr/Bible/The_Odes_of_Solomon/6)
+- [Ode 7](/fr/Bible/The_Odes_of_Solomon/7)
+- [Ode 8](/fr/Bible/The_Odes_of_Solomon/8)
+- [Ode 9](/fr/Bible/The_Odes_of_Solomon/9)
+- [Ode 10](/fr/Bible/The_Odes_of_Solomon/10)
+- [Ode 11](/fr/Bible/The_Odes_of_Solomon/11)
+- [Ode 12](/fr/Bible/The_Odes_of_Solomon/12)
+- [Ode 13](/fr/Bible/The_Odes_of_Solomon/13)
+- [Ode 14](/fr/Bible/The_Odes_of_Solomon/14)
+- [Ode 15](/fr/Bible/The_Odes_of_Solomon/15)
+- [Ode 16](/fr/Bible/The_Odes_of_Solomon/16)
+- [Ode 17](/fr/Bible/The_Odes_of_Solomon/17)
+- [Ode 18](/fr/Bible/The_Odes_of_Solomon/18)
+- [Ode 19](/fr/Bible/The_Odes_of_Solomon/19)
+- [Ode 20](/fr/Bible/The_Odes_of_Solomon/20)
+- [Ode 21](/fr/Bible/The_Odes_of_Solomon/21)
+- [Ode 22](/fr/Bible/The_Odes_of_Solomon/22)
+- [Ode 23](/fr/Bible/The_Odes_of_Solomon/23)
+- [Ode 24](/fr/Bible/The_Odes_of_Solomon/24)
+- [Ode 25](/fr/Bible/The_Odes_of_Solomon/25)
+- [Ode 26](/fr/Bible/The_Odes_of_Solomon/26)
+- [Ode 27](/fr/Bible/The_Odes_of_Solomon/27)
+- [Ode 28](/fr/Bible/The_Odes_of_Solomon/28)
+- [Ode 29](/fr/Bible/The_Odes_of_Solomon/29)
+- [Ode 30](/fr/Bible/The_Odes_of_Solomon/30)
+- [Ode 31](/fr/Bible/The_Odes_of_Solomon/31)
+- [Ode 32](/fr/Bible/The_Odes_of_Solomon/32)
+- [Ode 33](/fr/Bible/The_Odes_of_Solomon/33)
+- [Ode 34](/fr/Bible/The_Odes_of_Solomon/34)
+- [Ode 35](/fr/Bible/The_Odes_of_Solomon/35)
+- [Ode 36](/fr/Bible/The_Odes_of_Solomon/36)
+- [Ode 37](/fr/Bible/The_Odes_of_Solomon/37)
+- [Ode 38](/fr/Bible/The_Odes_of_Solomon/38)
+- [Ode 39](/fr/Bible/The_Odes_of_Solomon/39)
+- [Ode 40](/fr/Bible/The_Odes_of_Solomon/40)
+- [Ode 41](/fr/Bible/The_Odes_of_Solomon/41)
+- [Ode 42](/fr/Bible/The_Odes_of_Solomon/42)
 
 
-## External links
+## Liens externes
 
-- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_004)
-- [Wikipedia](https://en.wikipedia.org/wiki/Odes_of_Solomon)
-- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
+- [Textes sacrés](https://archive.sacred-texts.com/bib/fbe/index.htm#section_004)
+- [Wikipédia](https://en.wikipedia.org/wiki/Odes_of_Solomon)
+- [Wikipédia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)

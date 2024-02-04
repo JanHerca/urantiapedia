@@ -385,7 +385,8 @@ class Bible {
 			body += booknames.map(name => {
 				const book = this.biblebooks.find(book => book.title === name);
 				if (!book) return '';
-				const bookNameEN = book.titleEN.replace(/ /g, '_');
+				// const bookNameEN = book.titleEN.replace(/ /g, '_');
+				const bookNameEN = book.path.split('/').reverse()[0];
 				const chapters = book.chapters.map((c, i) => {
 					const path = `/${this.language}/Bible/${bookNameEN}/${i+1}`;
 					return `<a href="${path}">${i+1}</a>`;
@@ -431,7 +432,8 @@ class Bible {
 							.find(book => book.title === name);
 						const bookpath = this.language === 'en'?
 								`/en${book.path}` : `${book.path}`;
-						const bookNameEN = book.titleEN.replace(/ /g, '_');
+						// const bookNameEN = book.titleEN.replace(/ /g, '_');
+						const bookNameEN = book.path.split('/').reverse()[0];
 						const title = `${book.title} - ${indexName}`;
 						const filePath = path.join(dirPath, bookNameEN, 
 							`Index.html`);

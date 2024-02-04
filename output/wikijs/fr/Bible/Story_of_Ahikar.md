@@ -1,5 +1,5 @@
 ---
-title: "The Story of Ahikar"
+title: "L'histoire d'Ahikar"
 description: 
 published: true
 date: 2023-12-05T13:55:38.362Z
@@ -16,43 +16,44 @@ dateCreated: 2023-12-05T13:55:38.362Z
 	<g transform="translate(-7,-5)">
 		<rect width="9.6" height="136.8" x="7" y="5" />
 		<rect width="96.9" height="136.8" x="17" y="5" />
-		<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-		<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
+		<text style="font-size:5px" x="61" y="22">APOCRYPHES</text>
+		<text style="font-size:4px" x="61" y="125">Les livres oubliés d'Eden, 1926 (tr.)</text>
 		<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-		<text style="font-size:9px" x="61" y="60">The Story of Ahikar</text>
+		<text style="font-size:9px" x="61" y="60">L'histoire</text>
+		<text style="font-size:9px" x="61" y="70">d'Ahikar</text>
 	</g>
 </svg>
 </div>
 
 ## Description
 
-“The Story of Ahikar”
+"L'histoire d'Ahikar"
 
-_From The Forgotten Books of Eden, by Rutherford H. Platt, Jr. [1926]_
+_Tiré des Livres oubliés d'Eden, par Rutherford H. Platt, Jr. [1926]_
 
-WE HAVE in The Story of Ahikar one of the most ancient sources of human thought and wisdom. Its influence can be traced through the legends of many people, including the Koran, and the Old and New Testaments.
+NOUS AVONS dans L’Histoire d’Ahikar l’une des sources les plus anciennes de la pensée et de la sagesse humaines. Son influence peut être retracée à travers les légendes de nombreuses personnes, notamment le Coran, l'Ancien et le Nouveau Testament.
 
-A mosaic found in Treves, Germany, pictured among the wise men of the world the character of Ahikar. Here is his colorful tale.
+Une mosaïque trouvée à Treves, en Allemagne, représente parmi les sages du monde le personnage d'Ahikar. Voici son récit haut en couleur.
 
-The date of this story has been a subject of lively discussion. Scholars finally put it down about the First Century when they were proved in error by the original story turning up in an Aramaic papyrus of 500 B. C. among the ruins of Elephantine.
+La date de cette histoire a fait l’objet de vives discussions. Les érudits ont finalement évoqué le premier siècle lorsqu'ils ont été prouvés dans leur erreur par l'histoire originale retrouvée dans un papyrus araméen de 500 avant JC parmi les ruines d'Éléphantine.
 
-The story is obviously fiction and not history. In fact the reader can make its acquaintance in the supplementary pages of The Arabian Nights. It is brilliantly written, and the narrative which is full of action, intrigue, and narrow escape holds the attention to the last. The liberty of imagination is the most precious possession of the writer.
+L’histoire est évidemment une fiction et non une histoire. Le lecteur peut d'ailleurs en faire connaissance dans les pages supplémentaires des Mille et Une Nuits. Il est brillamment écrit et le récit plein d’action, d’intrigues et d’évasions étroites retient l’attention jusqu’au bout. La liberté d'imagination est le bien le plus précieux de l'écrivain.
 
-The writing divides itself into four phases: (1) The Narrative; (2) The Teaching (a remarkable series of Proverbs); (3) The Journey to Egypt; (4) The Similitudes or Parables (with which Ahikar completes the education of his erring nephew).
+L'écriture se divise en quatre phases : (1) Le récit ; (2) L'Enseignement (une remarquable série de Proverbes) ; (3) Le voyage en Égypte ; (4) Les similitudes ou paraboles (avec lesquelles Ahikar complète l'éducation de son neveu égaré).
 
-## Index
+## Indice
 
-- [Chapter I](/en/Bible/Story_of_Ahikar/1)
-- [Chapter II](/en/Bible/Story_of_Ahikar/2)
-- [Chapter III](/en/Bible/Story_of_Ahikar/3)
-- [Chapter IV](/en/Bible/Story_of_Ahikar/4)
-- [Chapter V](/en/Bible/Story_of_Ahikar/5)
-- [Chapter VI](/en/Bible/Story_of_Ahikar/6)
-- [Chapter VII](/en/Bible/Story_of_Ahikar/7)
+- [Chapitre I](/fr/Bible/Story_of_Ahikar/1)
+- [Chapitre II](/fr/Bible/Story_of_Ahikar/2)
+- [Chapitre III](/fr/Bible/Story_of_Ahikar/3)
+- [Chapitre IV](/fr/Bible/Story_of_Ahikar/4)
+- [Chapitre V](/fr/Bible/Story_of_Ahikar/5)
+- [Chapitre VI](/fr/Bible/Story_of_Ahikar/6)
+- [Chapitre VII](/fr/Bible/Story_of_Ahikar/7)
 
 
-## External links
+## Liens externes
 
-- [Sacred texts](https://archive.sacred-texts.com/bib/fbe/index.htm#section_007)
-- [Wikipedia](https://en.wikipedia.org/wiki/Story_of_Ahikar)
-- [Wikipedia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
+- [Textes sacrés](https://archive.sacred-texts.com/bib/fbe/index.htm#section_007)
+- [Wikipédia](https://en.wikipedia.org/wiki/Story_of_Ahikar)
+- [Wikipédia](https://en.wikipedia.org/wiki/The_Lost_Books_of_the_Bible_and_the_Forgotten_Books_of_Eden)
