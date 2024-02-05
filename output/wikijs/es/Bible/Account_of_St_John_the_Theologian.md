@@ -34,7 +34,7 @@ _De «Los Evangelios Apócrifos», Aurelio de Santos Otero (1956)_
 
 Dice Aurelio de Santos Otero:
 
-«Se trata de uno de los apócrifos asuncionistas que han gozado de mayor difusión, particularmente en el Oriente bizantino. En Occidente se conserva de él una traducción latina publicada en 1933 por Dom A. Wilmart. Se conservan asimisrno otras narraciones occidentales dependientes de él, v.gr., el cód. Am- brosiano L 58, que dice textualmente: «Assumptio beatae Virginis Mariae qualiter facta sit, ex quodam libello apocrypho, qui lohanni evangelistae adscribitur, edocemur». El primer crítico moderno que lo editó fue Tischendorf, utilizando para ello cinco códices diversos.»
+«Se trata de uno de los apócrifos asuncionistas que han gozado de mayor difusión, particularmente en el Oriente bizantino. En Occidente se conserva de él una traducción latina publicada en 1933 por Dom A. Wilmart. Se conservan asimisrno otras narraciones occidentales dependientes de él, v\.gr\., el cód\. Ambrosiano L 58, que dice textualmente: «Assumptio beatae Virginis Mariae qualiter facta sit, ex quodam libello apocrypho, qui lohanni evangelistae adscribitur, edocemur». El primer crítico moderno que lo editó fue Tischendorf, utilizando para ello cinco códices diversos.»
 
 ## Índice
 

@@ -972,7 +972,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">Gospel of Bartholomew</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/en/Bible/Gospel_of_Bartholomew" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -1017,18 +1017,18 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="125">The Apocryphal Gospels, 1956 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
-							<text style="font-size:9px" x="61" y="60">Libro de Juan,</text>
-							<text style="font-size:9px" x="61" y="70">arzobispo de</text>
-							<text style="font-size:9px" x="61" y="80">Tesalónica</text>
+							<text style="font-size:9px" x="61" y="60">Book of John,</text>
+							<text style="font-size:9px" x="61" y="70">Archbishop of</text>
+							<text style="font-size:9px" x="61" y="80">Thessalonica</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Libro de Juan, arzobispo de Tesalónica</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Book of John, Archbishop of Thessalonica</div>
 			<div class="urantiapedia-card-actions">
-				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+				<a href="/en/Bible/Book_of_John_Archbishop_of_Thessalonica" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
 				</a>
 			</div>
@@ -1043,16 +1043,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect width="9.6" height="136.8" x="7" y="5" />
 							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
-							<text style="font-size:4px" x="61" y="125">Los Evangelios Apócrifos, 1956</text>
+							<text style="font-size:4px" x="61" y="125">The Apocryphal Gospels, 1956 (tr.)</text>
 							<text style="font-size:4px" x="61" y="130">Aurelio de Santos Otero</text>
-							<text style="font-size:9px" x="61" y="60">Narración</text>
-							<text style="font-size:9px" x="61" y="70">del Pseudo José</text>
-							<text style="font-size:9px" x="61" y="80">de Arimatea</text>
+							<text style="font-size:9px" x="61" y="60">Narration of</text>
+							<text style="font-size:9px" x="61" y="70">the Pseudo Joseph</text>
+							<text style="font-size:9px" x="61" y="80">of Arimathea</text>
 						</g>
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Narración del Pseudo José de Arimatea</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">Narration of the Pseudo Joseph of Arimathea</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>

@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 ## Descriere
 
 
-A doua epistolă a lui Ioan este o carte a Noului Testament atribuită lui Ioan Evanghelistul, tradițional considerat a fi autorul celorlalte două epistole ale lui Ioan și al Evangheliei după Ioan (deși acest lucru este contestat). Majoritatea savanților moderni cred că acesta nu este Ioan Apostolul, dar în general nu există un consens cu privire la identitatea acestei persoane sau grup. (Vezi Paternitatea lucrărilor ioanine.)
+A doua epistolă a lui Ioan este o carte a Noului Testament atribuită lui Ioan Evanghelistul, tradițional considerat a fi autorul celorlalte două epistole ale lui Ioan și al Evangheliei după Ioan (deși acest lucru este contestat). Majoritatea savanților moderni cred că acesta nu este Ioan Apostolul, dar în general nu există un consens cu privire la identitatea acestei persoane sau grup.
 
 Al doilea Ioan și al treilea Ioan sunt cele mai scurte două cărți din Biblie. Cea mai scurtă carte în limba engleză este diferită în funcție de traducerea (versiunea) pe care o citești. De exemplu, în New International Version 2 Ioan este cea mai scurtă carte cu doar 302 de cuvinte, dar în King James Version (Authorized Version) 3 Ioan este cea mai scurtă cu doar 295 de cuvinte. Cu toate acestea, al doilea Ioan are cele mai puține versete din Biblie, cu un singur capitol format din doar 13 versete. 
 

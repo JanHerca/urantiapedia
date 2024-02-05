@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Tercera epístola de Juan</text>
+		<text style="font-size:9px" x="61" y="60">Tercera epístola</text>
+		<text style="font-size:9px" x="61" y="70">de Juan</text>
 	</g>
 </svg>
 </div>

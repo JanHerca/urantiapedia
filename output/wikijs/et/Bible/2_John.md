@@ -25,7 +25,7 @@ dateCreated: 2021-11-28T13:55:38.362Z
 ## Kirjeldus
 
 
-Johannese teine ​​kiri on Uue Testamendi raamat, mis omistatakse evangelist Johannesele, keda traditsiooniliselt peetakse kahe teise Johannese kirja ja Johannese evangeeliumi autoriks (kuigi selle üle vaieldakse). Enamik tänapäeva teadlasi usub, et see ei ole apostel Johannes, kuid üldiselt pole selle isiku või rühma identiteedi osas üksmeelt. (Vaata Johanniini teoste autorsust.)
+Johannese teine ​​kiri on Uue Testamendi raamat, mis omistatakse evangelist Johannesele, keda traditsiooniliselt peetakse kahe teise Johannese kirja ja Johannese evangeeliumi autoriks (kuigi selle üle vaieldakse). Enamik tänapäeva teadlasi usub, et see ei ole apostel Johannes, kuid üldiselt pole selle isiku või rühma identiteedi osas üksmeelt.
 
 Teine Johannes ja Kolmas Johannes on Piibli kaks lühimat raamatut. Lühim ingliskeelne raamat on erinev olenevalt sellest, millist tõlget (versiooni) loetakse. Näiteks uues rahvusvahelises versioonis 2 on John kõige lühem raamat, milles on ainult 302 sõna, kuid King Jamesi versioonis (volitatud versioon) 3 on John kõige lühem, ainult 295 sõnaga. Teisel Johannesel on aga Piiblis kõige vähem salme – ainult 1 peatükk koosneb vaid 13 salmist.
 
