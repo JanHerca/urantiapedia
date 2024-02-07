@@ -131,7 +131,7 @@ Volvamos a la pregunta planteada al comienzo de este artículo: ¿Está interesa
 
 6. Cree un grupo MeetUp y contacte a otros lectores en el sistema.
 
-7. Cree un sitio web simple centrado en un solo tema: cree vínculos de retroceso a Fellowship y otros sitios web de Urantian; aprenda cómo optimizarlo para las mejores respuestas de los motores de búsqueda.
+7. Cree un sitio web simple centrado en un solo tema: cree enlaces hacia la Fellowship y otros sitios web urantianos; aprenda cómo optimizarlo para las mejores respuestas de los motores de búsqueda.
 
 8. Únase y participe en foros de discusión religiosos como BeliefNet.
 

@@ -36,7 +36,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 Si es la primera vez que conoce Urantia-University, le damos la bienvenida y le animamos a que visite www.urantiauniversity.org. O lea el manual de la Universidad de Urantia que se encuentra en el sitio web para comprender mejor los objetivos, las directivas y la visión al proporcionar una base para crear eruditos y emisarios de las enseñanzas reveladoras de _El Libro de Urantia_.
 
-Urantia-University es para quienes han leído _El Libro de Urantia_ por primera vez, para quienes lo han leído varias veces y han dedicado su vida a descifrar su significado, y para quienes ingresan con conceptos definidos y buscan una base académica. desde donde pueden lanzar sus progresiones de pensamiento.
+Urantia-University es para quienes han leído _El Libro de Urantia_ por primera vez, para quienes lo han leído varias veces y han dedicado su vida a descifrar su significado, y para quienes ingresan con conceptos definidos y buscan una base académica desde donde pueden lanzar sus progresiones de pensamiento.
 
 Urantia-University ofrece una oportunidad extraordinaria
 
@@ -80,7 +80,7 @@ El diseño didáctico de la Universidad Urantia se basa en una serie de principi
 
 4. Si bien se facilitará el estudio primario a través de Internet, también se desarrollarán oportunidades para el contacto personal y el estudio colectivo.
 
-5. El régimen de estudio artículo por artículo facilitado por los Maestros-Estudiantes de Nivel 1 se complementará con los Maestros-Estudiantes de Nivel 2 (Máster) y Nivel 3 (Ancianos) que hayan alcanzado el dominio de varios artículos para proporcionar un contexto y un significado más amplios. para mejorar la comprensión de las enseñanzas de un solo artículo.
+5. El régimen de estudio documento por documento facilitado por los Maestros-Estudiantes de Nivel 1 se complementará con los Maestros-Estudiantes de Nivel 2 (Máster) y Nivel 3 (Ancianos) que hayan alcanzado el dominio de varios documentos para proporcionar un contexto y un significado más amplios para mejorar la comprensión de las enseñanzas de un solo documento.
 
 6. Como requisito para emprender estudios en la Universidad de Urantia, cada estudiante tomará un curso de «Visión general de _El Libro de Urantia_» que incluirá una revisión de las principales nuevas enseñanzas de la verdad no reveladas previamente en su totalidad o en parte en revelaciones de época pasadas.
 
@@ -88,16 +88,16 @@ El diseño didáctico de la Universidad Urantia se basa en una serie de principi
 
 8. Cada docente tendrá una voz principal en la evolución continua de los asuntos universitarios.
 
-La estructura de la facultad es sencilla. Dos maestros (Nivel 1) calificarán y se comprometerán a trabajar con los estudiantes en 1−2 trabajos. Su participación directa con los estudiantes es para asegurar el crecimiento y la conciencia de los estudiantes hacia la realidad cósmica dentro de sus trabajos asignados. Veinticuatro Maestros Maestros (Nivel 2) desarrollarán formatos de enseñanza y examen en una variedad de trabajos o segmentos vinculados naturalmente por materia y estarán disponibles para los estudiantes para ofrecer una mayor comprensión y vínculos significativos con segmentos de trabajos relevantes. Doce maestros mayores (nivel 3) desarrollarán formatos de enseñanza y examen en una agrupación más grande y natural de trabajos o divisiones y estarán disponibles para los estudiantes para ofrecer una perspectiva más amplia de la realidad cósmica de las divisiones de trabajos relevantes.
+La estructura de la facultad es sencilla. Dos maestros (Nivel 1) calificarán y se comprometerán a trabajar con los estudiantes en 1−2 trabajos. Su participación directa con los estudiantes es para asegurar el crecimiento y la conciencia de los estudiantes hacia la realidad cósmica dentro de sus trabajos asignados. Veinticuatro Enseñantes Maestros (Nivel 2) desarrollarán formatos de enseñanza y examen en una variedad de trabajos o segmentos vinculados naturalmente por materia y estarán disponibles para los estudiantes para ofrecer una mayor comprensión y vínculos significativos con segmentos de trabajos relevantes. Doce maestros mayores (nivel 3) desarrollarán formatos de enseñanza y examen en una agrupación más grande y natural de trabajos o divisiones y estarán disponibles para los estudiantes para ofrecer una perspectiva más amplia de la realidad cósmica de las divisiones de trabajos relevantes.
 
 Los maestros de los tres niveles rotarán a otros documentos/grupos de documentos (según su preferencia) en un horario acordado para mantener la enseñanza fresca y dinámica. También se requerirá que los maestros en los niveles Master y Elder enseñen un solo trabajo, así como que brinden apoyo a los maestros y estudiantes y ofrezcan un contexto más amplio para facilitar una comprensión más profunda del material en cada trabajo.
 
-> David Nash ha sido lector del _El Libro de Urantia_ desde 1974. Es un especialista/consultor maestro en programación profesional que ha trabajado personalmente con cientos de grandes corporaciones y es el fundador de la Asociación Nacional para la Salud del Trabajo por Turnos, que cuenta con el apoyo adicional del gobierno de los Estados Unidos. . David también posee los derechos de PRISM, un programa modular que captura personas en riesgo y previene accidentes.
+> David Nash ha sido lector del _El Libro de Urantia_ desde 1974. Es un especialista/consultor maestro en programación profesional que ha trabajado personalmente con cientos de grandes corporaciones y es el fundador de la Asociación Nacional para la Salud del Trabajo por Turnos, que cuenta con el apoyo adicional del gobierno de los Estados Unidos. David también posee los derechos de PRISM, un programa modular que captura personas en riesgo y previene accidentes.
 {is-info}
 
 > Corrección:
 >
-> David Nash ha solicitado una corrección en relación con el artículo sobre la Universidad Urantia que apareció bajo su nombre en el último Fellowship Herald [este artículo]. El artículo no fue escrito solo por David Nash. Fue la colaboración de varios creyentes Urantia dedicados que trabajaron juntos en la Universidad Urantia y debería haber sido incluido como tal. Quiere dejar en claro que puede tomar muy poco crédito por el artículo y espera que disculpe este error y sepa que el proyecto es absolutamente un esfuerzo de equipo.
+> David Nash ha solicitado una corrección en relación con el artículo sobre la Universidad Urantia que apareció bajo su nombre en el último Fellowship Herald [este artículo]. El artículo no fue escrito solo por David Nash. Fue la colaboración de varios creyentes urantianos dedicados que trabajaron juntos en la Universidad Urantia y deberían haber sido incluidos como tal. Quiere dejar en claro que es poco el crédito que puede atribuirse por el artículo y espera que disculpen este error y sepan que el proyecto es absolutamente un esfuerzo de equipo.
 {.is-warning}
 
 ## Referencias

@@ -46,7 +46,7 @@ Todos comienzan en el séptimo círculo cósmico y progresan, a su propio ritmo,
 
 > Estos mortales pueden ser repersonalizados en la vida morontial, independientemente de los juicios dispensacionales o de otro tipo. <a id="a46_134"></a>[[LU 49:6.8](/es/The_Urantia_Book/49#p6_8)]
 
-El tercer círculo cósmico es de especial interés para la mayoría de los urantianos. Es en este nivel que se asigna el guardián del destino y que, al morir, se acelera la traslación a las esferas morontiales. La pregunta clave es ¿qué constituye, aproximadamente, el logro del tercer círculo? Hay muchas pistas dentro de _El Libro de Urantia_ sobre qué cualidades reflejan. este nivel de logro.
+El tercer círculo cósmico es de especial interés para la mayoría de los urantianos. Es en este nivel que se asigna el guardián del destino y que, al morir, se acelera la traslación a las esferas morontiales. La pregunta clave es ¿qué constituye, aproximadamente, el logro del tercer círculo? Hay muchas pistas dentro de _El Libro de Urantia_ sobre qué cualidades reflejan este nivel de logro.
 
 Como con cualquier tipo de descubrimiento de atributos, existen dos métodos para determinar las cualidades inherentes de un objeto. La más obvia es observar el objeto y notar sus cualidades. Un método menos común es observar lo que el objeto no es. Este documento tomará ambos enfoques, comenzando con el método menos común.
 
@@ -84,7 +84,7 @@ El séptimo círculo tiene varias cualidades:
 
 * Conciencia mínima de relación con el Ser Supremo
 
-Si bien esto puede parecer una lista larga, el hecho es que la mayoría de los mortales de dotación genética normal y desarrollo emocional tienen estas cualidades. Como se indicó anteriormente, algunos humanos pueden nacer con deficiencias genéticas o experimentar un evento de vida que impide la adquisición de uno o más de estos atributos; sin embargo, incluso estas personas tendrán la oportunidad de atravesar los siete círculos cósmicos una vez que residan en los mundos de las mansiones. También es reconfortante notar que los círculos del séptimo tienen un ángel de la guarda y una compañía de querubines responsables de ellos.
+Si bien esto puede parecer una larga lista, el hecho es que la mayoría de los mortales de dotación genética y desarrollo emocional normal tienen estas cualidades. Como se indicó anteriormente, algunos humanos pueden nacer con deficiencias genéticas o experimentar un evento en la vida que impida la adquisición de uno o más de estos atributos; sin embargo, incluso estas personas tendrán la oportunidad de atravesar los siete círculos cósmicos una vez que residan en los mundos de las mansiones. También es reconfortante notar que los del séptimo círculo tienen un ángel de la guarda y una compañía de querubines responsables de ellos.
 
 ## El Primer Círculo Cósmico
 
@@ -128,7 +128,7 @@ En este punto sabemos cuáles son los atributos de un séptimo y un primer círc
 
 > Cuando una mente mortal rompe la inercia de la herencia animal y alcanza el tercer círculo de intelectualidad humana y de espiritualidad adquirida, desde ese momento en adelante un ángel personal (en realidad dos) se dedicará total y exclusivamente a ese mortal ascendente. Además de los Ajustadores del Pensamiento interiores siempre presentes y cada vez más eficaces, estas almas humanas reciben así la ayuda indivisa de estos guardianes personales del destino en todos sus esfuerzos por terminar el tercer círculo, atravesar el segundo y alcanzar el primero. <a id="a128_564"></a>[[LU 113:1.8](/es/The_Urantia_Book/113#p1_8)]
 
-Entonces, ¿cuáles son las características del tercer círculo? Este círculo tiene varios que se están identificando. El individuo mortal ahora
+Entonces, ¿cuáles son las características del tercer círculo? Este círculo tiene varias que se están identificando. El individuo mortal ahora
 
 * Tiene guardianes personales del destino
 

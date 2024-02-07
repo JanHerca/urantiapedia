@@ -37,7 +37,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 
 Hace varios años leí el libro _Flowers for Algernon_ de Daniel Keyes. Era una novela ficticia sobre un hombre que tenía un coeficiente intelectual muy bajo y fue seleccionado para ser parte de un experimento científico para aumentar su inteligencia. El experimento había tenido bastante éxito con un ratón de laboratorio llamado Algernon. El experimento convirtió al hombre en un supergenio. No podía dejar el libro y no podía dejar de hablar de él.
 
-Un día, por mi cumpleaños, una amiga me hizo un regalo muy sorprendente y novedoso. En una jaula del tamaño de una jaula para pájaros había un diminuto ratón negro que había comprado en una tienda de mascotas. Al principio me quedé estupefacto por el regalo, pero luego comencé a sonreír y luego a reír. Mi amigo miró mi rostro con alegría y luego sugirió que nombrara al ratón Algernon. Y así lo hice. Ahora tenía un nuevo amigo, Algernon, un ratoncito negro. Rápidamente me empezó a gustar y luego a amarlo.
+Un día, por mi cumpleaños, un amigo me hizo un regalo muy sorprendente y novedoso. En una jaula del tamaño de una para pájaros había un diminuto ratón negro que había comprado en una tienda de mascotas. Al principio me quedé estupefacto por el regalo, pero luego comencé a sonreír y luego a reír. Mi amigo miró mi rostro con alegría y luego sugirió que nombrara al ratón Algernon. Y así lo hice. Ahora tenía un nuevo amigo, Algernon, un ratoncito negro. Rápidamente me empezó a gustar y luego me encantó.
 
 Había un librito que venía con la mascota, que leí para poder cuidar a mi amiguito. El libro decía que el ratón vendría a mi mano, treparía por mi brazo e incluso entraría en el bolsillo de mi camisa si lo permitía. La idea de esto me encantó y estaba ansioso por conocer mejor a Algernon. Abrí la puerta de la jaula, metí la mano y la alcancé. Para mi consternación, Algernon trató frenéticamente de alejarse de mí. Corrió a una esquina de la jaula y luego a otra, tratando desesperadamente de escapar de mí. Estaba aterrorizado.
 
@@ -51,7 +51,7 @@ Continué haciendo esto dos e incluso tres veces al día. Mientras sostenía mi 
 
 Pasaron varios días, y mientras continuaba con mi esfuerzo, comencé a notar que no estaba tan frenético. Animado, le hablé a Algernon, «Ese es un buen hombrecito. Ya ves que no te haré daño. Soy tu amigo, ratoncito.»
 
-Una mañana llegué a mi mano en la jaula y él no huyó de mí en absoluto. Él solo se quedó allí. Yo estaba eufórico y muy animado. Eso es todo, Algernon. Susurré, «no hay necesidad de temerme. Yo soy tu amigo. Sé mi amigo también. No tengas miedo.»
+Una mañana puse mi mano en la jaula y él no huyó de mí en absoluto. Él solo se quedó allí. Yo estaba eufórico y muy animado. Eso es todo, Algernon. Susurré, «no hay necesidad de temerme. Yo soy tu amigo. Sé mi amigo también. No tengas miedo.»
 
 Entonces, un día, cuando puse mi mano en la jaula, se acercó a mi mano, acercó su nariz a mi dedo y lo olió. Luego se alejó. No podía creer lo feliz que me sentía. Nunca hubiera creído que algo como esto sería importante para mí, pero lo era. Era mi deseo invertir aún más tiempo en esta relación. Al día siguiente sucedió algo aún más importante. Con mi mano en la jaula, Algernon se acercó a mí y colocó su pata delantera en mi dedo. Yo estaba aún más eufórico. Lo sostuvo allí por un momento y luego se alejó lentamente.
 

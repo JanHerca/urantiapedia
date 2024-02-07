@@ -46,7 +46,7 @@ Everyone starts at the seventh cosmic circle and progresses, at their own pace, 
 
 > These mortals may be repersonalized in the morontia life independent of dispensational or other adjudications. <a id="a46_113"></a>[[UB 49:6.8](/en/The_Urantia_Book/49#p6_8)]
 
-The third cosmic circle is of special interest to most Urantians. It is at this level that the guardian of destiny is assigned and that, upon death, translation to the morontia spheres is accelerated. The key question is what, approximately, constitutes third circle attainment? There are many clues within _The Urantia Book_ as to what qualities reflect. this level of achievement. 
+The third cosmic circle is of special interest to most Urantians. It is at this level that the guardian of destiny is assigned and that, upon death, translation to the morontia spheres is accelerated. The key question is what, approximately, constitutes third circle attainment? There are many clues within _The Urantia Book_ as to what qualities reflect this level of achievement. 
 
 As with any type of discovery of attributes, there are two methods to determine the inherent qualities of an object. The most obvious is to observe the object and note its qualities. A less common method is to observe what the object is not. This paper will take both approaches, starting with the less common method. 
 

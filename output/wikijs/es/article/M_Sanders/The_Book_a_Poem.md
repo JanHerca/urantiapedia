@@ -80,7 +80,7 @@ con orden, diseño y destino.
 
 ¿Podría atreverme a esperar, confiar o suponer,
 que aquí en mis manos, ante mis ojos
-lay reveló un premio sin igual?
+yace revelado un premio sin igual?
 ¿Me darían respuestas ahora?
 A las preguntas que me han impulsado?
 
