@@ -49,7 +49,7 @@ Según _El Libro de Urantia_[^1], muchos de nuestros conceptos científicos cont
 
 Con respecto a la elección, algunos departamentos académicos de prestigiosas universidades están sugiriendo seriamente que debido a que los estados de energía de nuestros cerebros están sujetos a una causalidad energética anterior, el «libre albedrío» personal es completamente imposible. Este es un grave error que atenta contra la dignidad misma de la persona humana y sus prerrogativas de elección y acción. Asume que el cerebro de una persona se encuentra dentro de un sistema de energía cerrado que incluye el medio ambiente y, por lo tanto, no puede escapar «a voluntad» de las consecuencias energéticas predeterminadas inherentes a las relaciones energéticas iniciales.
 
-Por lo tanto, además de los temas científicos anteriores, también abordaremos el siguiente tema parcialmente filosófico: ¿Cómo, _en principio_, somos las personas (seres físicos de mentalidad espiritual) capaces de elegir entre _opciones_ físicas y luego _actuar_ para lograr los resultados deseados por nosotros mismos? entre posibilidades futuras alternativas? Sobre esta y otras preguntas, _El Libro de Urantia_ ofrece mucha ayuda. Comencemos con una consideración de la velocidad de la luz.
+Por lo tanto, además de los temas científicos anteriores, también abordaremos el siguiente tema parcialmente filosófico: ¿Cómo, _en principio_, somos las personas (seres físicos de mentalidad espiritual) capaces de elegir entre _opciones_ físicas y luego _actuar_ para lograr los resultados deseados entre posibilidades futuras alternativas? Sobre esta y otras preguntas, _El Libro de Urantia_ ofrece mucha ayuda. Comencemos con una consideración de la velocidad de la luz.
 
 ## La velocidad de la luz
 
@@ -59,10 +59,10 @@ Es un hecho experimental que la sola distancia entre las posiciones geométricas
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image01.png">
-<figcaption><em>(Vagón de tren velocidad V, hombre en el tren caminando con velocidad W brillando con luz roja a velocidad de la luz c, hombre en Bank brillando con luz roja).</em></figcaption>
+<figcaption><em>(Vagón de tren velocidad V, hombre en el tren caminando con velocidad W brillando con luz roja a velocidad de la luz c, hombre en el andén brillando con luz roja).</em></figcaption>
 </figure>
 
-Para el hombre en la orilla, la velocidad del hombre que camina en el tren = V + W, pero la luz de ambas linternas tiene la misma velocidad c. La luz del banco y el tren se mueven a la misma velocidad c.
+Para el hombre en el andén, la velocidad del hombre que camina en el tren = V + W, pero la luz de ambas linternas tiene la misma velocidad c. La luz del banco y el tren se mueven a la misma velocidad c.
 
 Esto es, por supuesto, bastante diferente de cómo parecen combinarse las velocidades ordinarias: un hombre que camina hacia adelante en un tren en movimiento parece moverse con la suma de las velocidades del tren y su caminar, tal como lo ve un hombre que mira pasar el tren. Pero esta idea de movimiento se rompe con la luz. Una partícula de luz emitida por la linterna del hombre triste mientras camina hacia adelante en el tren no se mueve más rápido ni más lento que si estuviera en la orilla o «sentado quieto» en el tren en movimiento. No puede hacer que la luz vaya más rápido.
 
@@ -106,7 +106,7 @@ Aunque la luz es una partícula (fotón) que se mueve a través del espacio, y p
 
 > ¿Cuánto tiempo necesitaréis para considerar que el tiempo es la imagen móvil de la eternidad, y el espacio la sombra fugaz de las realidades del Paraíso? <a id="a106_156"></a>[[LU 189:1.3](/es/The_Urantia_Book/189#p1_3)]
 
-Con una «isla de luz nuclear» absolutamente fija en el cosmos, aproximadamente «sobre el espacio», es posible imaginar la luz como partículas (cuantos) emitidas desde este lugar fijo y proyectadas al espacio desde el núcleo de electrones en movimiento sin llevar sus movimientos. . Es una ubicación no espacial absolutamente fija en el _foco del espacio_ macroscópico y en numerosos focos microscópicos del espacio alrededor de los cuales la energía se configura como masa.
+Con una «isla de luz nuclear» absolutamente fija en el cosmos, aproximadamente «sobre el espacio», es posible imaginar la luz como partículas (cuantos) emitidas desde este lugar fijo y proyectadas al espacio desde el núcleo de electrones en movimiento sin llevar sus movimientos. Es una ubicación no espacial absolutamente fija en el _foco del espacio_ macroscópico y en numerosos focos microscópicos del espacio alrededor de los cuales la energía se configura como masa.
 
 > La Isla del Paraíso tiene una ubicación en el universo pero no tiene una posición en el espacio. <a id="a110_99"></a>[[LU 0:4.12](/es/The_Urantia_Book/0#p4_12)]
 
@@ -136,7 +136,7 @@ Sin embargo, esto implica que el universo explotó, los objetos más rápidos se
 
 Por lo tanto, el aumento de la velocidad de recesión observado con la distancia, cuando se ejecuta hacia atrás, implica que hace 13.600 millones de años la velocidad de expansión era cero y la distancia D también era cero. Según la teoría BB inicial, todo el universo de materia explotó hace 13.600 millones de años desde un «punto» indefinido.
 
-Las estimaciones de H~0~ han sido bastante imprecisas debido a la imprecisión de las mediciones de distancia utilizando estrellas variables Cefeidas cuyo brillo y período inherentes se conocen.[^7] Aunque se afirma que la radiación de fondo de 4 grados Kelvin es un fuerte respaldo para la teoría, la teoría BB se basa casi por completo en la interpretación de los grandes desplazamientos hacia el rojo observados en los patrones de longitud de onda característicos de varios elementos.[^8] Según un ajuste posterior (década de 1980) de esta teoría, no solo la materia, sino también el espacio, tuvo que explotar existió instantáneamente en ese momento porque, ¿de qué otra manera podría la materia separarse tan rápidamente en el espacio que la luz tardó 13.600 millones de años en regresar a la tierra? Se necesitaría el doble de tiempo para ir y volver.
+Las estimaciones de H~0~ han sido bastante imprecisas debido a la imprecisión de las mediciones de distancia utilizando estrellas variables Cefeidas cuyo brillo y período inherentes se conocen.[^7] Aunque se afirma que la radiación de fondo de 4 grados Kelvin es un fuerte respaldo para la teoría, la teoría BB se basa casi por completo en la interpretación de los grandes desplazamientos hacia el rojo observados en los patrones de longitud de onda característicos de varios elementos.[^8] Según un ajuste posterior (década de 1980) de esta teoría, no solo la materia, sino también el espacio, tuvo que explotar instantáneamente a la existencia en ese momento porque, ¿de qué otra manera podría la materia separarse tan rápidamente en el espacio que la luz tardó 13.600 millones de años en regresar a la tierra? Se necesitaría el doble de tiempo para ir y volver.
 
 La expansión del espacio, no solo la expansión de la materia en el espacio, se agregó a la teoría BB para dar cuenta de cómo los objetos podrían alejarse inmediatamente a 13,6 años luz de modo que la luz ahora estaba regresando a nosotros. Tomaría más del doble de ese tiempo a menos que... el espacio mismo se expandiera (explotara) durante ese mismo período de tiempo.
 
@@ -170,7 +170,7 @@ La existencia de la «materia oscura» implícita que evita que las galaxias de 
 
 Al postular un Centro del Universo, incluidos los cuerpos de gravedad oscuros cerca de ese Centro, es posible imaginar la materia unida por fuertes fuerzas nucleares atractivas equilibradas por una rotación y un giro rápidos. La materia oscura existiría en el centro como una fuerte fuerza de atracción central que equilibra el movimiento circular y da lugar a tremendas energías cinéticas angulares: energías nucleares.
 
-Esta materia que gira rápidamente gira alrededor del Paraíso, el punto de apoyo del INFINITO, que configura esta energía en movimiento en el espacio principalmente en virtud de la atracción de la gravedad central (Paraíso), y en segundo lugar por la bien conocida gravedad secundaria «lineal» mucho más débil de la atracción mutua entre partículas. de masa Por lo tanto las llamadas «partículas de dios» responsables de la masa, es el único Cuerpo llamado Paraíso. Paradise imparte masa instantáneamente por atracción central equilibrada por giro axial y rotación orbital.
+Esta materia que gira rápidamente rodea al Paraíso, el punto de apoyo del INFINITO, que configura esta energía en movimiento en el espacio principalmente en virtud de la atracción de la gravedad central (Paraíso), y en segundo lugar por la bien conocida gravedad secundaria «lineal» mucho más débil de la atracción mutua entre partículas con masa. Por lo tanto las llamadas «partículas de dios» responsables de la masa, es el único Cuerpo llamado Paraíso. El Paraíso imparte masa instantáneamente por atracción central equilibrada por giro axial y rotación orbital.
 
 ### Energía oscura
 
@@ -184,7 +184,7 @@ A diferencia de la serpenteante teoría BB, la «respiración espacial» periód
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book/image03.png">
-<figcaption><em>Representación artística de Paradise and the Space Reservoirs</em></figcaption>
+<figcaption><em>Representación artística del Paraíso y los Depósitos del Espacio</em></figcaption>
 </figure>
 
 
@@ -204,11 +204,11 @@ Einstein no podía comprender que la influencia de la energía se propagara a un
 
 
 
-Sin embargo, el Universo no estuvo de acuerdo. Los experimentos en mecánica cuántica y el trabajo interpretativo del matemático John Bell[^10] demostraron que si una partícula, inicialmente con espín neto cero, se divide en dos partículas que se separan, y si luego se miden al mismo tiempo pero a dos distancias lugares, luego las mediciones en las dos partículas de alguna manera se influyen mutuamente a velocidades más rápidas que la luz. En particular, las mediciones aleatorias de la dirección de giro (+ o -) de las dos partículas separadas a lo largo de tres ejes de giro diferentes muestran que cuando se mide el mismo eje de giro en ambas partículas, las direcciones de giro son _siempre_ opuestas entre sí. Cuando los ejes medidos aleatoriamente no son los mismos, se encuentra que las direcciones de giro coinciden entre sí la mitad de las veces.
+Sin embargo, el Universo no estuvo de acuerdo. Los experimentos en mecánica cuántica y el trabajo interpretativo del matemático John Bell[^10] demostraron que si una partícula, inicialmente con espín neto cero, se divide en dos partículas que se separan, y si luego se miden al mismo tiempo pero en dos lugares distantes, entonces las mediciones en las dos partículas de alguna manera se influyen mutuamente a velocidades más rápidas que la luz. En particular, las mediciones aleatorias de la dirección de giro (+ o -) de las dos partículas separadas a lo largo de tres ejes de giro diferentes muestran que cuando se mide el mismo eje de giro en ambas partículas, las direcciones de giro son _siempre_ opuestas entre sí. Cuando los ejes medidos aleatoriamente no son los mismos, se encuentra que las direcciones de giro coinciden entre sí la mitad de las veces.
 
 John Bell demostró que estas correlaciones y probabilidades son inconsistentes a menos que haya alguna influencia «no local» que opere a una velocidad mayor que la de la luz entre las partículas separadas que se están midiendo. Este fenómeno ha sido llamado «entrelazamiento cuántico». Las partículas parecen estar enredadas a pesar de estar muy separadas en el espacio. ¿Escalofriante? No precisamente.
 
-Por observación experimental, nuestros científicos han concluido que incluso la luz consiste en partículas de energía llamadas cuantos. Dado que estos cuantos siempre están girando y moviéndose rápidamente en órbitas, dan lugar a ondas guía11 asociadas en el campo de energía de fuerza anterior a la masa del espacio abierto (pero no vacío).
+Por observación experimental, nuestros científicos han concluido que incluso la luz consiste en partículas de energía llamadas cuantos. Dado que estos cuantos siempre están girando y moviéndose rápidamente en órbitas, dan lugar a ondas guía[^11] asociadas en el campo de energía de fuerza anterior a la masa del espacio abierto (pero no vacío).
 
 El espacio no es un absoluto, pero es «absolutamente último», una realidad trascendental que se origina eternamente en el Paraíso inferior. Las distancias en el espacio no son separaciones absolutas porque el universo es, en primer lugar, un Todo unificado y, en segundo lugar, una división de ese Todo en partes que incluyen diferentes regiones en el espacio. Por lo tanto, los eventos pueden afectar instantáneamente a otros eventos en lugares distantes.
 
@@ -258,7 +258,7 @@ El INFINITO se manifiesta en eternas «tensiones» entre los Absolutos. El Absol
 
 > La fuerza, la energía, es la única cosa que se mantiene como un monumento perpetuo que demuestra y prueba la existencia y la presencia del Absoluto Universal. <a id="a258_161"></a>[[LU 42:0.1](/es/The_Urantia_Book/42#p0_1)]
 
-Aunque está en circuito en el Paraíso inferior, esta fuerza-energía previa a la masa al principio no responde a la gravedad «circular» del Paraíso, excepto macroscópicamente. Después de dos etapas trascendentales de desarrollo manejadas por los Organizadores de la Fuerza Trascendental del Paraíso, las energías-fuerza emergen como ultimatones esféricos diminutos, las primeras masas mensurables. Los ultimatones gratuitos responden a la gravedad del Paraíso, pero no a la gravedad lineal de masa a masa. La manipulación física inteligente adicional por parte de los Controladores de Fuerza y ​​seres similares fabrican electrones y protones a partir de ultimatones hasta que ocurre la atracción de gravedad lineal de las masas atómicas agregadas, momento en el que pasan el control a seres de control de poder de orden inferior.
+Aunque está en circuito en el Paraíso inferior, esta fuerza-energía previa a la masa al principio no responde a la gravedad «circular» del Paraíso, excepto macroscópicamente. Después de dos etapas trascendentales de desarrollo manejadas por los Organizadores de la Fuerza Trascendental del Paraíso, las energías-fuerza emergen como ultimatones esféricos diminutos, las primeras masas mensurables. Los ultimatones libres responden a la gravedad del Paraíso, pero no a la gravedad lineal de masa a masa. La manipulación física inteligente adicional por parte de los Controladores de Fuerza y ​​seres similares fabrican electrones y protones a partir de ultimatones hasta que ocurre la atracción de gravedad lineal de las masas atómicas agregadas, momento en el que pasan el control a seres de control de poder de orden inferior.
 
 > La estabilidad física, asociada a la elasticidad biológica, sólo está presente en la naturaleza gracias a la sabiduría casi infinita que poseen los Arquitectos Maestros de la creación. Nada inferior a una sabiduría trascendental podría diseñar nunca unas unidades de materia que son al mismo tiempo tan estables y tan eficazmente flexibles. <a id="a262_343"></a>[[LU 42:9.5](/es/The_Urantia_Book/42#p9_5)]
 
@@ -318,7 +318,7 @@ Macroscópicamente, la INFINIDAD debe estar presente en el centro geográfico de
 
 Este Centro de Gravedad alrededor del cual puede moverse todo el conjunto, no necesita estar en el espacio. Por ejemplo, el centro de gravedad de una dona está en el agujero, no en la masa. De manera similar, hay un agujero focal en el espacio interior de cada partícula, y ahora concluimos que también hay un solo agujero focal en el centro de masa de todas las partículas juntas. Las cosas finitas están aisladas del INFINITO por el espacio-tiempo trascendental.
 
-La INFINIDAD está envuelto en el interior de cada partícula y en el centro de masa de todas las partículas a medida que giran y orbitan en circuitos de energía y configuraciones materiales. Es matemáticamente razonable ubicar todos estos impactos de la INFINIDAD en nuestros puntos de vista finitos como «hacia el centro de la INFINIDAD», sin embargo, desde diferentes direcciones. Las ubicaciones distantes en el espacio no son una barrera para la configuración coordinada de la INFINIDAD.
+La INFINIDAD está envuelta en el interior de cada partícula y en el centro de masa de todas las partículas a medida que giran y orbitan en circuitos de energía y configuraciones materiales. Es matemáticamente razonable ubicar todos estos impactos de la INFINIDAD en nuestros puntos de vista finitos como «hacia el centro de la INFINIDAD», sin embargo, desde diferentes direcciones. Las ubicaciones distantes en el espacio no son una barrera para la configuración coordinada de la INFINIDAD.
 
 La «partícula de Dios» postulada que impregna el espacio y une masa a otras partículas es el Cuerpo Universal, el Paraíso, en el centro de todas y cada una de las masas.
 
@@ -334,7 +334,7 @@ Por lo tanto, parece apropiado postular un fulcro intermedio entre el INFINITO y
 
 ### Tiempo y Eternidad, Espacio e Infinito
 
-Mientras que el _espacio_ puede ser una sombra fugaz de eventos eternos circularmente simultáneos en el Paraíso (al estilo de Platón), y mientras que el tiempo puede ser una imagen en movimiento reflejada en el espacio de eventos proyectados desde la eternidad, sin embargo, desde el punto de vista finito, el tiempo se mide en términos relativos. movimientos periódicos, tantos de estos movimientos por uno de _esos_ movimientos.
+Mientras que el _espacio_ puede ser una sombra fugaz de eventos eternos circularmente simultáneos en el Paraíso (al estilo de Platón), y mientras que el tiempo puede ser una imagen en movimiento reflejada en el espacio de eventos proyectados desde la eternidad, sin embargo, desde el punto de vista finito, el tiempo se mide por movimientos periódicos relativos, tantos de estos movimientos por uno de _esos_ movimientos.
 
 Las distancias entre dos posiciones en el espacio son _medidas_ (algo circularmente) como el tiempo de movimiento de la luz entre ellas. Esto se complica cuando esas posiciones son cuerpos materiales en movimiento. Sin embargo, la velocidad de la luz proporciona una constante invariante independiente de los movimientos relativos de emisores y receptores.
 
@@ -378,7 +378,7 @@ Si _todas_ las unidades de energía cósmica tienen una revolución primaria mie
 
 ### La forma de las unidades últimas de masa-energía
 
-Si tomamos una partícula como localizada en una posición específica en el espacio, pero insistimos en que sea más que una mera posición en el espacio, más bien algo extendido en el espacio, entonces debemos imaginar la forma geométrica de una unidad de masa última o primera. energía que no se puede dividir en unidades más pequeñas de masa. ¿Cuál podría ser la forma de la superficie de tal unidad?
+Si tomamos una partícula como localizada en una posición específica en el espacio, pero insistimos en que sea más que una mera posición en el espacio, más bien algo extendido en el espacio, entonces debemos imaginar la forma geométrica de una unidad de masa-energía última o primera que no se puede dividir en unidades más pequeñas de masa. ¿Cuál podría ser la forma de la superficie de tal unidad?
 
 Desde el punto de vista de la energía, podemos imaginar un anillo giratorio de «energía espacial» en forma de toroidal alrededor del núcleo de gravedad del Paraíso, constituyéndolo así en una unidad de masa-energía de tamaño definido (distancia exterior e interior del núcleo) y velocidad de giro. Tal anillo de masa giratoria puede tener una velocidad orbitando a través del espacio y una velocidad angular de giro alrededor de un eje. Las agregaciones de tales anillos giratorios pueden moverse como un todo con una velocidad global y también tener un tensor de momento de inercia y un vector de momento angular debido al giro concéntrico en diferentes ejes (posiblemente en movimiento) y a varias distancias que forman una partícula esférica compuesta. Esto, junto con las ondas de energía previas a la masa, es suficiente para encarnar la versión de la mecánica cuántica de De Broglie-Bohm.[^13]
 
@@ -390,11 +390,11 @@ Esta cuestión del movimiento del espacio interior cuando una partícula se muev
 
 ### Presencia de gravedad
 
-Paradise (P), el punto de apoyo de la INFINIDAD, puede ser la gravedad presente en el núcleo de cualquier cuerpo espacial en movimiento porque las ubicaciones _potenciales_ de la INFINIDAD desde el espacio constituyen un conjunto denso de ubicaciones no espaciales que invaden el espacio.
+El Paraíso (P), el punto de apoyo de la INFINIDAD, puede ser la gravedad presente en el núcleo de cualquier cuerpo espacial en movimiento porque las ubicaciones _potenciales_ de la INFINIDAD desde el espacio constituyen un conjunto denso de ubicaciones no espaciales que invaden el espacio.
 
 Por ejemplo, el conjunto de todas las fracciones (n/d) en la recta numérica real es un conjunto _denso_ con respecto a la recta numérica. Es decir, para cualquier número dado (incluidos los números decimales irracionales que no se repiten como √2 o π) existe una secuencia infinita de fracciones que se aproximan a él. También hay una secuencia infinita de números irracionales que se aproximan a cualquier fracción dada.
 
-Dado que las transformaciones de materia, energía y materia-energía son finitas y vienen solo en múltiplos _cuánticos_ discretos, es razonable suponer que el universo medible, incluido el espacio, puede representarse mediante una configuración geométrica finita con distancias fraccionarias y valores cuánticos de energía y masa. . Eso permite un conjunto denso de ubicaciones _no espaciales_ desde las cuales la INFINIDAD puede influir en el espacio y su contenido. Este conjunto denso de ubicaciones cercanas que no están en el espacio, sino aproximadamente «por encima» del espacio, es el Paraíso inferior.
+Dado que las transformaciones de materia, energía y materia-energía son finitas y vienen solo en múltiplos _cuánticos_ discretos, es razonable suponer que el universo medible, incluido el espacio, puede representarse mediante una configuración geométrica finita con distancias fraccionarias y valores cuánticos de energía y masa. Eso permite un conjunto denso de ubicaciones _no espaciales_ desde las cuales la INFINIDAD puede influir en el espacio y su contenido. Este conjunto denso de ubicaciones cercanas que no están en el espacio, sino aproximadamente «por encima» del espacio, es el Paraíso inferior.
 
 Dado que P no está en el espacio, no necesita moverse y puede servir como una ubicación fija desde la cual medir direcciones, distancias y movimientos absolutos. La ubicación macro y microscópica de la superficie P es la superficie límite de todos los espacios relativamente inmóviles dentro o que envuelven toda la materia. Por lo tanto, la superficie en P incluye la superficie fija adjunta hipotética a distancias infinitas más la superficie límite de cualquier secuencia convergente a inmóvil de espacios relativamente inmóviles dentro o entre las partículas teóricas más pequeñas (cuánticas) que giran rápidamente que han sido llamadas ultimatones
 
@@ -422,7 +422,7 @@ La existencia de elección (capacidad de expresar objetivamente el deseo del yo 
 
 En la medida en que el movimiento es mecánico, sin elección, completamente determinado por la causalidad antecedente, se puede considerar que ya ha ocurrido en el espacio universal de eventos del tiempo, desde el pasado infinito hasta el futuro infinito. Esta línea de tiempo eterna corresponderá a un ciclo infinito de revoluciones de algún cuerpo en órbita estándar en el espacio, estableciendo así un período de tiempo estándar pero arbitrario en el espacio.
 
-Sin embargo, cuando el fenómeno de la conciencia de la elección personal en el cosmos se incluye en el modelo del universo, entonces debemos incluir una forma para que el flujo de eventos (de otro modo completamente determinado por eventos pasados) sea influenciado por una «elección». en el momento presente que resulta en un flujo alterado de eventos desde ese «momento» hacia el futuro. Una elección, por definición, inserta una causa opcional en el flujo de eventos, cambiándolo.
+Sin embargo, cuando el fenómeno de la conciencia de la elección personal en el cosmos se incluye en el modelo del universo, entonces debemos incluir una forma para que el flujo de eventos (de otro modo completamente determinado por eventos pasados) sea influenciado por una «elección» en el momento presente que resulta en un flujo alterado de eventos desde ese «momento» hacia el futuro. Una elección, por definición, inserta una causa opcional en el flujo de eventos, cambiándolo.
 
 ¿Cómo puede una persona ser capaz de esto? ¿Cómo debe construirse el universo para permitir esto? Debe haber algún tipo de plano superior desde el cual la mente de la persona pueda crear una palanca de decisión mental-física mediante la cual la mente-cuerpo humano pueda transferir la elección interna de la persona a los movimientos externos del cerebro y el cuerpo.
 

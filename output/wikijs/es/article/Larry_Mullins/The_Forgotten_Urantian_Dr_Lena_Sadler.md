@@ -39,7 +39,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 <img src="/image/article/Lena_Sadler.png">
 </figure>
 
-Lena C. Sadler, 1875 - 939, fue médica, cirujana, obstetra, conferencista y autora, y curandera en temas de salud de la mujer. Antes de estudiar medicina, fue maestra de escuela pública y luego enfermera capacitada. Durante veinte años, Lena y su esposo, William Sadler, trabajaron en misiones de rescate para las Misiones Adventistas del Séptimo Día en Chicago y San Francisco. Lena se concentró en ministrar a las mujeres detenidas en las cárceles de Chicago.
+Lena C. Sadler, 1875 - 1939, fue médica, cirujana, obstetra, conferencista y autora, y curandera en temas de salud de la mujer. Antes de estudiar medicina, fue maestra de escuela pública y luego enfermera capacitada. Durante veinte años, Lena y su esposo, William Sadler, trabajaron en misiones de rescate para las Misiones Adventistas del Séptimo Día en Chicago y San Francisco. Lena se concentró en ministrar a las mujeres detenidas en las cárceles de Chicago.
 
 Más adelante en su vida, Lena se convirtió en una destacada activista que dio conferencias y trabajó diligentemente para reconocer las contribuciones de las mujeres como profesionales en los campos médico y científico. Fue profesora asociada de Terapéutica Fisiológica en la Facultad de Medicina de Postgrado de Chicago, directora asociada del Instituto de Terapéutica Fisiológica de Chicago, miembro de la Asociación Médica Estadounidense y especialista en enfermedades de mujeres y niños.
 

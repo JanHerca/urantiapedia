@@ -208,7 +208,7 @@ However, the Universe did not agree. Experiments in quantum mechanics and the in
 
 John Bell proved that these correlations and probabilities are inconsistent unless there is some “non-local” influence operating at faster than light speed between the separated particles being measured. This phenomenon has been called “quantum entanglement.” The particles seem to be entangled even though widely separated in space. Spooky? Not really. 
 
-By experimental observation our scientists have concluded that even light consists of particles of energy called quanta. Since these quanta are always spinning and moving rapidly in orbits they give rise to associated guiding waves11 in the pre-mass force-energy field of open (but not empty) space. 
+By experimental observation our scientists have concluded that even light consists of particles of energy called quanta. Since these quanta are always spinning and moving rapidly in orbits they give rise to associated guiding waves[^11] in the pre-mass force-energy field of open (but not empty) space. 
 
 Space is not an absolute, but it is “absolutely ultimate,” a transcendental reality eternally originating in nether Paradise. Distances in space are not absolute separations because the universe is firstly a unified Whole and secondly, a division of that Whole into parts including different regions in space. Therefore, events can instantaneously affect other events at distant places. 
 
