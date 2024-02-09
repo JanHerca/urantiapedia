@@ -87,7 +87,7 @@ Pero cuando María rompió a llorar, el Jesús humano y posiblemente la concienc
 
 Andrés ve a Jesús llorando junto al mar; esto parece una reacción del Jesús humano en lugar de Cristo Miguel.
 
-> «Poco antes de partir, los apóstoles no vieron al Maestro, y Andrés salió a buscarlo. No tardó en encontrarlo sentado en una barca en la playa, y Jesús estaba llorando. ... [y Jesús dijo] ‘Ninguno de vosotros me ha causado pena. Estoy triste solamente porque ningún miembro de la familia de mi padre José se ha acordado de venir para desearnos buena suerte’. En aquel momento, Rut estaba de visita en casa de su hermano José, en Nazaret. Otros miembros de su familia se mantenían alejados por orgullo, decepción, incomprensión y pequeños resentimientos a los que habían cedido porque sus sentimientos habían sido heridos». <a id="a89_625"></a>[[LU 141:0.2](/es/The_Urantia_Book/141#p0_2)]
+> «Poco antes de partir, los apóstoles no vieron al Maestro, y Andrés salió a buscarlo. No tardó en encontrarlo sentado en una barca en la playa, y Jesús estaba llorando... [y Jesús dijo] ‘Ninguno de vosotros me ha causado pena. Estoy triste solamente porque ningún miembro de la familia de mi padre José se ha acordado de venir para desearnos buena suerte’. En aquel momento, Rut estaba de visita en casa de su hermano José, en Nazaret. Otros miembros de su familia se mantenían alejados por orgullo, decepción, incomprensión y pequeños resentimientos a los que habían cedido porque sus sentimientos habían sido heridos». <a id="a89_625"></a>[[LU 141:0.2](/es/The_Urantia_Book/141#p0_2)]
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Jesus_life/paintings/Jesus_Casts_Out_The_Money_Changers.jpg">

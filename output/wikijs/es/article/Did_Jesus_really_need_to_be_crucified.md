@@ -58,7 +58,7 @@ El propósito principal del Espíritu de la Verdad: fomentar la conciencia de su
 
 > «Si queréis seguir mis pasos cuando os haya dejado, esforzaos seriamente por vivir de acuerdo con el espíritu de mis enseñanzas y el ideal de mi vida —hacer la voluntad de mi Padre». (<a id="a58_186"></a>[LU 181:1.3](/es/The_Urantia_Book/181#p1_3))
 
-> Jesús da la paz a los que hacen con él la voluntad de Dios, pero esta paz no es semejante a las alegrías y satisfacciones de este mundo material. ...
+> Jesús da la paz a los que hacen con él la voluntad de Dios, pero esta paz no es semejante a las alegrías y satisfacciones de este mundo material...
 > 
 > La paz que Miguel (Jesús) da a sus hijos de la Tierra es la misma paz que llenaba su propia alma cuando él mismo vivía la vida mortal en la carne y en este mismo mundo. La paz de Jesús es la alegría y la satisfacción de una persona que conoce a Dios, y que ha logrado el triunfo de aprender plenamente a hacer la voluntad de Dios mientras vive la vida mortal en la carne. La paz mental de Jesús estaba fundada en una fe humana absoluta en la realidad de los cuidados sabios y compasivos del Padre divino. (<a id="a62_508"></a>[LU 181:1.7-8](/es/The_Urantia_Book/181#p1_7))
 

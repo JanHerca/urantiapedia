@@ -118,7 +118,7 @@ Esta combinación constituye al hombre en una personalidad espiritual en potenci
 
 ## Ciudadanía Cósmica
 
-¿Cómo se vive como ciudadano cósmico? Los ciudadanos cósmicos tienen la mente y el espíritu para discernir el cosmos. Debido a que nuestro mundo en su conjunto está lejos de alcanzar el nivel de ciudadanía cósmica en un futuro próximo, podemos tener la esperanza de que cuando lleguemos a Jerusem, la capital del sistema, los intérpretes seráficos, los vivificadores de la moralidad, nos ayudarán a convertirnos en ciudadanos cósmicos. . Allí aprenderemos la libertad, la lealtad y la fraternidad universal. La libertad no se tendrá hasta la etapa finalista.
+¿Cómo se vive como ciudadano cósmico? Los ciudadanos cósmicos tienen la mente y el espíritu para discernir el cosmos. Debido a que nuestro mundo en su conjunto está lejos de alcanzar el nivel de ciudadanía cósmica en un futuro próximo, podemos tener la esperanza de que cuando lleguemos a Jerusem, la capital del sistema, los intérpretes seráficos, los vivificadores de la moralidad, nos ayudarán a convertirnos en ciudadanos cósmicos. Allí aprenderemos la libertad, la lealtad y la fraternidad universal. La libertad no se tendrá hasta la etapa finalista.
 
 ¿No nos beneficia a todos si reconocemos que tenemos un destino común? Si bien es desalentador reconocer que la civilización aún no ha superado las religiones del miedo y la superstición, se nos dice que hay un nuevo destino planetario no revelado que puede llevarnos a un nuevo amanecer de despertar espiritual.
 

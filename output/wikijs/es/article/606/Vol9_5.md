@@ -42,7 +42,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 Diversidad cultural y unidad espiritual" es el tema de la Reunión Regional de Lectores del Libro de URANTIA del Pacífico Sur, que se acerca rápidamente. Hasta ahora se han registrado casi 60 personas, pero aún se aceptan inscripciones. Si aún desea asistir, comuníquese con:
 
-Kathleen Swadling, 7 Walsh St, Narrabeen, NSW, 2101, Ph. (02) 9137893 Será una oportunidad ideal para hacer nuevos amigos y con un recorrido panorámico por el distrito, una Australian Bush Band y un concurso de preguntas en el programa. , todo el mundo se lo pasará genial. Esperamos ofrecerle nuestro informe en el próximo número de Six-0-Six.
+Kathleen Swadling, 7 Walsh St, Narrabeen, NSW, 2101, Ph. (02) 9137893 Será una oportunidad ideal para hacer nuevos amigos y con un recorrido panorámico por el distrito, una Australian Bush Band y un concurso de preguntas en el programa, todo el mundo se lo pasará genial. Esperamos ofrecerle nuestro informe en el próximo número de Six-0-Six.
 
 En Melbourne, un grupo de lectores del Libro de URANTIA están celebrando una Cena del Recuerdo los domingos por la mañana alternativos. «Si tienes hambre de compañerismo en el espíritu con Michael, eres bienvenido a unirte a nosotros». Estas son palabras de Bill MacLean, uno de los organizadores. Para más información puedes contactar con:
 

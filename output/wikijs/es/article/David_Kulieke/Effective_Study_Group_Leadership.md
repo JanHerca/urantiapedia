@@ -179,7 +179,7 @@ Pero al evitar la iglesia, hemos creado la necesidad de compensar lo que las igl
 
 Mientras tanto, los líderes de los grupos de estudio deben esforzarse mucho más de lo que lo harían de otra manera con una estructura diferente, no solo para expandir la revelación un grupo a la vez, sino también para mantener sus propios grupos de estudio vibrantes y existentes, para mantener la luz encendida.
 
-Un amigo cercano, un lector leal y activo, me dijo recientemente: «Sabes, el movimiento Urantia no es muy atractivo». Esta persona se refirió al movimiento como un todo, no a ninguna de las organizaciones específicas. . Esa declaración me sorprendió un poco, y no estoy seguro de estar de acuerdo con ella.
+Un amigo cercano, un lector leal y activo, me dijo recientemente: «Sabes, el movimiento Urantia no es muy atractivo». Esta persona se refirió al movimiento como un todo, no a ninguna de las organizaciones específicas. Esa declaración me sorprendió un poco, y no estoy seguro de estar de acuerdo con ella.
 
 Sea cual sea su verdad, sin embargo, la percepción de este individuo puede ser un llamado para que hagamos que el movimiento sea más atractivo, ya sea que estemos describiendo grupos de estudio, seminarios, conferencias locales o eventos internacionales.
 

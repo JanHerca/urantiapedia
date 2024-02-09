@@ -86,7 +86,7 @@ Ahora estamos utilizando un servicio de registro que le permite registrarse en l
 <img src="/image/article/The_Mighty_Messenger/2008_Spring/Duane_Faw.jpg">
 </figure>
 
-Duane Faw, nacido el 7 de julio de 1920, se graduó de la vida en nuestro planeta Urantia el 26 de marzo de 2008. Duane tuvo una carrera militar activa y se retiró en 1971 como general de brigada de la Infantería de Marina, donde sirvió como piloto militar y en tres guerras. , Segunda Guerra Mundial, Corea y Viet Nam. Más adelante en su carrera, Duane, un abogado en ejercicio, se convirtió en profesor de derecho y profesor emérito en la Facultad de derecho de la Universidad de Pepperdine.
+Duane Faw, nacido el 7 de julio de 1920, se graduó de la vida en nuestro planeta Urantia el 26 de marzo de 2008. Duane tuvo una carrera militar activa y se retiró en 1971 como general de brigada de la Infantería de Marina, donde sirvió como piloto militar y en tres guerras, Segunda Guerra Mundial, Corea y Viet Nam. Más adelante en su carrera, Duane, un abogado en ejercicio, se convirtió en profesor de derecho y profesor emérito en la Facultad de derecho de la Universidad de Pepperdine.
 
 Duane se convirtió en el miembro número 101 de la Primera Sociedad Urantia de Los Ángeles el 18 de enero de 1975, junto con su esposa Lucile. Más tarde sirvió en la Fellowship de _El Libro de Urantia_ como presidente del Comité Judicial, sirviendo en el Comité Ejecutivo desde 1979 hasta 1988. Luego sirvió en la Fellowship por un término adicional en el Consejo General desde 1991 hasta 1994—un total de doce años de servicio activo a la Brotherhood.
 

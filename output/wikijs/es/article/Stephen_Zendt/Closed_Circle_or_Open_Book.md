@@ -59,7 +59,7 @@ La personalidad que compiló las enseñanzas de Jesús para nosotros hace esta d
 
 Jesús mismo resume su evangelio después de su resurrección, en una aparición en el patio de Nicodemo en Jerusalén. Él afirma:
 
-> «Os exhorto a que recordéis siempre que vuestra misión entre los hombres consiste en proclamar el evangelio del reino —la realidad de la paternidad de Dios y la verdad de la filiación de los hombres. Proclamad la verdad total de la buena nueva, y no solamente una parte del evangelio salvador. ... La filiación con Dios, por la fe, sigue siendo la verdad salvadora del evangelio del reino. Debéis salir a predicar el amor de Dios y el servicio a los hombres. Lo que el mundo más necesita saber es que los hombres son hijos de Dios, y que pueden comprender realmente por la fe esta verdad ennoblecedora». <a id="a61_606"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)]
+> «Os exhorto a que recordéis siempre que vuestra misión entre los hombres consiste en proclamar el evangelio del reino —la realidad de la paternidad de Dios y la verdad de la filiación de los hombres. Proclamad la verdad total de la buena nueva, y no solamente una parte del evangelio salvador... La filiación con Dios, por la fe, sigue siendo la verdad salvadora del evangelio del reino. Debéis salir a predicar el amor de Dios y el servicio a los hombres. Lo que el mundo más necesita saber es que los hombres son hijos de Dios, y que pueden comprender realmente por la fe esta verdad ennoblecedora». <a id="a61_606"></a>[[LU 193:0.4](/es/The_Urantia_Book/193#p0_4)]
 
 Después de la experiencia de Pentecostés, los reveladores ofrecen otro resumen:
 
@@ -124,7 +124,7 @@ Por lo general, muchas luchas y contiendas han acompañado las enseñanzas y los
 
 Es algo terrible ver que el evangelismo real se deteriore en argumentos obstinados y condenación. Los fanáticos crean conflictos y beligerancia dondequiera que vayan, sin importar a qué movimiento religioso intenten obtener conversos. El tacto, la tolerancia y la capacidad de escuchar el grito en el alma de otra persona pueden ganar más creyentes que cualquier demostración de habilidad intelectual o debate enérgico. Dejar caer perlas de sabiduría de manera efectiva en una conversación común es una forma de arte en sí misma. Emprender el viaje de la segunda milla puede ser la fuente de un milagro para alguien que lo necesite profundamente.
 
-> Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. ... La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. <a id="a126_342"></a>[[LU 195:9.2-4](/es/The_Urantia_Book/195#p9_2)]
+> Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista... La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables. <a id="a126_342"></a>[[LU 195:9.2-4](/es/The_Urantia_Book/195#p9_2)]
 
 Jesús nos llama a abrir nuestras potencialidades reales, a darnos como únicos capaces de ser útiles. El brote de sentimientos provocado por la transformación espiritual personal nos lleva a querer ayudar en una transformación similar del mundo entero, una comunidad a la vez.
 

@@ -127,7 +127,7 @@ En la actualidad, desde el punto de vista de la humanidad, el elemento de conoci
 
 ¿Qué vamos a hacer con este conocimiento? Cada individuo debe descubrir esto por sí mismo. Sin embargo, con certeza, si ponemos nuestra fe en nuestro Dios-Espíritu-Interno y, como el Jesús humano, siempre buscamos hacer la voluntad del Padre tal como nos es revelada por el Espíritu-Interno, entonces «todo lo demás necesario será añadido». a nosotros.”
 
-Y quizás finalmente:_ «Cuando los hombres vean que los aman tanto y cuán fervientemente los sirven, percibirán que se han convertido en compañeros de fe del reino y seguirán el Espíritu de la Verdad que ven en sus vidas... .»
+Y quizás finalmente:_ «Cuando los hombres vean que los aman tanto y cuán fervientemente los sirven, percibirán que se han convertido en compañeros de fe del reino y seguirán el Espíritu de la Verdad que ven en sus vidas...»
 
 [¿El Espíritu de Jesús brilla en mi vida? ¿En tu vida?]
 

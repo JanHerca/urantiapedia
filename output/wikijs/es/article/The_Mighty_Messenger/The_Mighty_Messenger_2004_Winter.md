@@ -64,7 +64,7 @@ La reunión del Consejo General este verano deparó algunas sorpresas. Harry McM
 
 Gracias a una subvención de desafío de 50.000 dólares a la Fellowship de un compañero lector para una impresión de tapa dura de _El Libro de Urantia_ la Fellowship ha comenzado una campaña para igualar esta generosa donación con una cantidad igual de otros contribuyentes. No se escatimarán esfuerzos para tener las nuevas tapas duras. disponible a tiempo para la Conferencia Internacional (IC) 05 el próximo verano.
 
-Para ocupar los puestos en el Consejo General creados por las renuncias de Rebecca Kantor, Claudia Ayers y Bill Rocap a principios de este año, se eligieron tres nuevos Consejeros y se les dio una calurosa bienvenida: Tom Allen de Oklahoma, John Hay de Colorado y Gene Narducy de California. . También se eligieron dos nuevos presidentes de comités, Susan Cook de Missouri se desempeñará como presidenta del Comité Interreligioso y Gary Deinstadt de Nueva York ha comenzado un período de seis años como presidente del Comité de Educación.
+Para ocupar los puestos en el Consejo General creados por las renuncias de Rebecca Kantor, Claudia Ayers y Bill Rocap a principios de este año, se eligieron tres nuevos Consejeros y se les dio una calurosa bienvenida: Tom Allen de Oklahoma, John Hay de Colorado y Gene Narducy de California. También se eligieron dos nuevos presidentes de comités, Susan Cook de Missouri se desempeñará como presidenta del Comité Interreligioso y Gary Deinstadt de Nueva York ha comenzado un período de seis años como presidente del Comité de Educación.
 
 Un retiro de planificación realizado por el Consejo durante su última reunión de mitad de año generó muchas ideas creativas sobre cómo la Fellowship podría cumplir mejor su misión, cómo podría brindar oportunidades de la Fellowship y cómo podría mejorar su comunicación. Estas ideas bien pueden contener las semillas de un cambio positivo, pero para lograrlo, el Consejo General deberá desarrollar algunas de estas ideas en políticas específicas, que luego el Comité Ejecutivo será responsable de implementar.
 
@@ -141,7 +141,7 @@ Mary Jo Garascia al 303-698-2752 o pilgrim_mj@yahoo.com
 
 ## ¡Arte, Arte y más Arte!
 
-Hermosas y emocionantes pinturas al óleo, acuarelas, diseños gráficos, cerámica, escultura en diferentes medios, móviles y mucho más estarán en exhibición en la Galería de Arte de la Conferencia Internacional de la Fellowship de El Libro de Urantia, que se llevará a cabo en Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto de 2005. .
+Hermosas y emocionantes pinturas al óleo, acuarelas, diseños gráficos, cerámica, escultura en diferentes medios, móviles y mucho más estarán en exhibición en la Galería de Arte de la Conferencia Internacional de la Fellowship de El Libro de Urantia, que se llevará a cabo en Villanova, cerca de Filadelfia, del 30 de julio al 4 de agosto de 2005.
 
 Se recomiendan especialmente los temas relacionados con _El Libro de Urantia_, pero todos los temas son bienvenidos. Todos los artistas que deseen exhibir sus obras deben completar un formulario especial de exhibición de artistas. El espacio es limitado y se solicita a los posibles expositores que presenten su solicitud lo antes posible a Nick Curto, a nicknyny@nyc.rr.com o llamen al (917) 701-9033 de 7 a 9 p. m. EST.
 

@@ -40,9 +40,9 @@ dateCreated: 2022-09-26T23:03:26.250Z
 
 > La religión debe ejercer una poderosa influencia a favor de la estabilidad moral y del progreso espiritual, desempeñando dinámicamente sus funciones en medio de estas condiciones cambiantes y de estos ajustes económicos sin fin. (<a id="a40_232"></a>[LU 99:1.2](/es/The_Urantia_Book/99#p1_2))
 
-> La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas. ... La misión suprema de la religión, como influencia social, consiste en **estabilizar los ideales de la humanidad** durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente. (<a id="a42_342"></a>[LU 99:1.3](/es/The_Urantia_Book/99#p1_3))
+> La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas... La misión suprema de la religión, como influencia social, consiste en **estabilizar los ideales de la humanidad** durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente. (<a id="a42_342"></a>[LU 99:1.3](/es/The_Urantia_Book/99#p1_3))
 
-> La religión no tiene ningún deber nuevo que cumplir, pero se le pide que actúe urgentemente como guía sabia y consejera experimentada... . (<a id="a44_142"></a>[LU 99:1.4](/es/The_Urantia_Book/99#p1_4))
+> La religión no tiene ningún deber nuevo que cumplir, pero se le pide que actúe urgentemente como guía sabia y consejera experimentada... (<a id="a44_142"></a>[LU 99:1.4](/es/The_Urantia_Book/99#p1_4))
 
 > Humanamente hablando, un humanitarismo ateo es un noble gesto, pero la verdadera religión es la única fuerza que puede acrecentar de forma duradera la sensibilidad de un grupo social hacia las necesidades y los sufrimientos de otros grupos. (<a id="a46_244"></a>[LU 99:1.5](/es/The_Urantia_Book/99#p1_5))
 

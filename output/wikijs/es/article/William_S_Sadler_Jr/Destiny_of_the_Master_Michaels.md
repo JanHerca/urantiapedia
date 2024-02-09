@@ -112,7 +112,7 @@ Son superpersonales. Son más que personales. Eso no significa que no podamos li
 
 Tenemos un Arquitecto en el nivel Paradise. Tres en el nivel de Havona. Siete Arquitectos en el nivel espacial del superuniverso. Caramba, eso tiene sentido, ¿no? Hay siete superuniversos.
 
-Hay setenta Arquitectos asignados al primer nivel del espacio exterior. Y en un lugar de los documentos, hablan de las observaciones de sus astrónomos, no de los nuestros, y dicen que en el primer nivel del espacio exterior ya han detectado setenta agregados importantes de materia, cualquiera de los cuales es mucho más grande que un superuniverso. . ¡Esto es grande!
+Hay setenta Arquitectos asignados al primer nivel del espacio exterior. Y en un lugar de los documentos, hablan de las observaciones de sus astrónomos, no de los nuestros, y dicen que en el primer nivel del espacio exterior ya han detectado setenta agregados importantes de materia, cualquiera de los cuales es mucho más grande que un superuniverso. ¡Esto es grande!
 
 ¿Recuerdas cuando calculan la salida de la gravedad del Paraíso? Verás, si puedes medir cuánta gravedad está ejerciendo el Paraíso, habrás medido la masa de la creación, ¿no es así?
 

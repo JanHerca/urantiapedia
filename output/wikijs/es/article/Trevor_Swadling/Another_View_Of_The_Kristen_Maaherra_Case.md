@@ -55,7 +55,7 @@ Uno no puede evitar cuestionar seriamente la sinceridad de Kristen mientras ahor
 
 > La Revelación necesita que estos hombres y mujeres dedicados trabajen por esta noble causa, pero pueden surgir problemas en los métodos que emplean para llevar a cabo este «llamado».
 
-Sabía lo que estaba haciendo y sabía que era ilegal: ¿dónde están los estándares de honestidad y rectitud en este caso si la sinceridad y la pureza son sus defensas? También podemos asumir con seguridad que el texto que ella creó no está adulterado; de hecho, no solo no se ha establecido esto, sino que tampoco hay garantías de que el texto no haya sufrido aún más degradación o contaminación durante las numerosas duplicaciones y distribuciones que han ocurrido. .
+Sabía lo que estaba haciendo y sabía que era ilegal: ¿dónde están los estándares de honestidad y rectitud en este caso si la sinceridad y la pureza son sus defensas? También podemos asumir con seguridad que el texto que ella creó no está adulterado; de hecho, no solo no se ha establecido esto, sino que tampoco hay garantías de que el texto no haya sufrido aún más degradación o contaminación durante las numerosas duplicaciones y distribuciones que han ocurrido.
 
 La señora Maaherra, a pesar de haber cometido un error consciente, no ha buscado remediar el daño que ella y otros han causado, en cambio, afirma que _El Libro de URANTIA_ no debería estar protegido bajo las leyes de derechos de autor alegando que el libro es su religión. Su intención es impugnar el derecho de autor de la Fundación en virtud de la Primera
 

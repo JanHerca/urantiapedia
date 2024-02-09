@@ -31,7 +31,7 @@ dateCreated: 2022-09-26T18:30:58.892Z
 </figure>
 
 
-La siguiente sugerencia proviene de la literatura sufí islámica en la que se conoce con el término «nuestro ideal de Dios». Afirma: "La realidad de Dios está más allá de la comprensión humana. También es un misterio para nuestro pensamiento. Sin embargo, sigue siendo un hecho que para desarrollar nuestra relación con Dios, debemos tener algún tipo de imagen, algún tipo de imagen mental de Dios. , quién es y qué es.
+La siguiente sugerencia proviene de la literatura sufí islámica en la que se conoce con el término «nuestro ideal de Dios». Afirma: "La realidad de Dios está más allá de la comprensión humana. También es un misterio para nuestro pensamiento. Sin embargo, sigue siendo un hecho que para desarrollar nuestra relación con Dios, debemos tener algún tipo de imagen, algún tipo de imagen mental de Dios, quién es y qué es.
 
 "Una de esas imágenes es el ‘ideal de Dios’, que es la imagen de Dios más edificante e inspiradora que podemos conjurar en nuestras mentes y que concuerda con nuestra comprensión actual de Dios y su creación.
 

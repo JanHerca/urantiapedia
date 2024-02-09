@@ -34,7 +34,7 @@ dateCreated: 2023-02-13T14:02:03.086Z
 </figure>
 
 
-> He vivido mi vida en la carne para mostraros cómo podéis ser, a través del servicio amoroso, una revelación de Dios para vuestros semejantes, al igual que yo he sido, amándoos y sirviéndoos, una revelación de Dios para vosotros. ... Amad a todos los hombres como yo os he amado; servid a vuestros compañeros mortales como yo os he servido. ... <a id="a36_346"></a>[[LU 193:0.5](/es/The_Urantia_Book/193#p0_5)]
+> He vivido mi vida en la carne para mostraros cómo podéis ser, a través del servicio amoroso, una revelación de Dios para vuestros semejantes, al igual que yo he sido, amándoos y sirviéndoos, una revelación de Dios para vosotros... Amad a todos los hombres como yo os he amado; servid a vuestros compañeros mortales como yo os he servido... <a id="a36_346"></a>[[LU 193:0.5](/es/The_Urantia_Book/193#p0_5)]
 
 ## Visión de la conferencia
 

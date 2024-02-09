@@ -142,7 +142,7 @@ flowchart TD
 	los archivos superhumanos. Cuando las ideas y los conceptos de la vida y de 
 	las enseñanzas de Jesús han sido expresados aceptablemente por una mente 
 	humana, he dado preferencia invariablemente a estos modelos de pensamiento 
-	aparentemente humanos... .[LU 121:8.12]
+	aparentemente humanos...[LU 121:8.12]
 	Mi misión de revelación me prohibía recurrir a fuentes extrahumanas de 
 	información o de expresión, hasta que pudiera atestiguar que había agotado 
 	todas las posibilidades para encontrar la expresión conceptual necesaria en 

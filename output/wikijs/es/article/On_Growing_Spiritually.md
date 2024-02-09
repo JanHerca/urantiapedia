@@ -33,7 +33,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 > «La meta de la autorrealización humana debería ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas». (<a id="a33_171"></a>[LU 100:2.6](/es/The_Urantia_Book/100#p2_6))
 
-Los Documentos de Urantia son fuertes en significados y valores espirituales. Nos dicen que nuestra alma se construye a partir de experiencias que tienen significado y valor espiritual que ocurren en el curso de nuestra vida terrenal, y que: «El Ajustador del Pensamiento recordará y ensayará para ti solo esos recuerdos y experiencias que son parte y son esenciales para ti. a, tu carrera universal... .Pero gran parte de su vida pasada y sus recuerdos, que no tienen significado espiritual ni valor morontial, perecerán con el cerebro material;»
+Los Documentos de Urantia son fuertes en significados y valores espirituales. Nos dicen que nuestra alma se construye a partir de experiencias que tienen significado y valor espiritual que ocurren en el curso de nuestra vida terrenal, y que: «El Ajustador del Pensamiento recordará y ensayará para ti solo esos recuerdos y experiencias que son parte y son esenciales para ti. a, tu carrera universal... Pero gran parte de su vida pasada y sus recuerdos, que no tienen significado espiritual ni valor morontial, perecerán con el cerebro material;»
 
 Los significados y valores, tal como se utilizan en los Documentos, pueden asociarse con palabras como religioso, supremo e incluso divino. Pero cuando se trata de precisar exactamente lo que significa esta terminología, nos encontramos con verdaderas dificultades.
 

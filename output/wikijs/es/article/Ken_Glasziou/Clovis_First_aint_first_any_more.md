@@ -39,7 +39,7 @@ Según una reseña reciente, la publicación del segundo volumen de la obra magn
 
 La destrucción del dogma «Clovis Primero» puede atraer la atención de los lectores interesados ​​en la antropología y la arqueología a un libro, publicado por primera vez en 1993 por Michael A. Cremo y Richard L. Thompson, y titulado _Arqueología prohibida_, que ha documentado minuciosamente un gran volumen de trabajos arqueológicos tempranos en las Américas y el resto del mundo, que se relacionaron con la historia temprana de la humanidad, y sufrieron supresión en aras de mantener los prejuicios del «establecimiento».
 
-Entre el gran volumen de material de _Arqueología prohibida_ hay un relato de trabajo en un sitio en St. Prest en Francia que, según algunos trabajadores, estableció sin lugar a dudas la presencia del hombre fabricante de herramientas en esa región hace alrededor de un millón de años o más. .
+Entre el gran volumen de material de _Arqueología prohibida_ hay un relato de trabajo en un sitio en St. Prest en Francia que, según algunos trabajadores, estableció sin lugar a dudas la presencia del hombre fabricante de herramientas en esa región hace alrededor de un millón de años o más.
 
 Los autores de _Arqueología Prohibida_ llaman la atención sobre el fenómeno de supresión de la opinión contraria que existe en todas las áreas de la ciencia. En gran medida, es generado por un sistema de publicación arbitrada en el que los líderes en el campo apropiado son designados como asesores de los editores de revistas con el fin de garantizar los altos estándares de las revistas acreditadas.
 

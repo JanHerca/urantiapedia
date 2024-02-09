@@ -84,7 +84,7 @@ Independientemente de lo que los reveladores querían decir con el verdadero cen
 
 NGC 2419 es claramente «uno de los sistemas más grandes» que rodean la Vía Láctea. NGC 2419 puede proporcionar muchos soles cercanos para Uversa. Si Uversa está ubicada en la periferia de NGC 2419 y si se la denomina centro astronómico, entonces Uversa estaría cerca de ese centro y libre de la influencia no deseada de gigantescos soles vivos o muertos.
 
-> 1. ... Uversa está favorablemente situada para el trabajo de esta colonia, no sólo debido a su emplazamiento central, sino también porque no hay gigantescos soles cercanos vivos o muertos que perturben las corrientes de energía. <a id="a86_231"></a>[[LU 30:3.2](/es/The_Urantia_Book/30#p3_2)]
+> 1... Uversa está favorablemente situada para el trabajo de esta colonia, no sólo debido a su emplazamiento central, sino también porque no hay gigantescos soles cercanos vivos o muertos que perturben las corrientes de energía. <a id="a86_231"></a>[[LU 30:3.2](/es/The_Urantia_Book/30#p3_2)]
 
 Uversa dentro de NGC 2419 tiene una ubicación central cerca del centro astronómico de todo el séptimo segmento espacial del superuniverso. Uversa es el núcleo de regulación de potencia electrónica para todo el segmento espacial de Orvonton. Dos poblaciones de estrellas gigantes rojas giratorias giran alrededor del centro de NGC 2419, por lo que Uversa con su ubicación central podría haberse construido fuera del centro de NGC 2419. Uversa podría estar situada en la periferia del cúmulo en una ubicación central de su espacio. segmento. Fácilmente podría compartir la luz con los soles cercanos.
 

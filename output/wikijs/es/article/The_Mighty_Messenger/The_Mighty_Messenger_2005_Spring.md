@@ -44,7 +44,7 @@ Se puede acceder fácilmente al hermoso campus de la Universidad de Villanova en
 
 El programa consta de presentaciones, paneles de discusión y una variedad de talleres en las áreas de espiritualidad experiencial, filosofía/teología y ciencia. Habrá dos retiros previos a la conferencia simultáneos, uno, un «Retiro de música», dirigido por Gary Deinstadt y el otro, «Experimentando el espíritu en la vida cotidiana», patrocinado por The Retreat Network.
 
-La pista de Espiritualidad Experiencial incluirá temas como Jesús como Patrón, Perdón, Parábolas, Servicio, Prácticas Religiosas, Viviendo la Revelación, Alcance, Relaciones, Crianza de los Hijos, Trabajo en Equipo, Desarrollo Personal, Autodominio, Ciudadanía Cósmica, Desarrollo de Hábitos Espirituales, Oración y Adoración. .
+La pista de Espiritualidad Experiencial incluirá temas como Jesús como Patrón, Perdón, Parábolas, Servicio, Prácticas Religiosas, Viviendo la Revelación, Alcance, Relaciones, Crianza de los Hijos, Trabajo en Equipo, Desarrollo Personal, Autodominio, Ciudadanía Cósmica, Desarrollo de Hábitos Espirituales, Oración y Adoración.
 
 La pista de Filosofía/Teología incluirá, entre muchos otros temas, Patrón en _El Libro de Urantia_, _Lector de El Libro de Urantia_ y Religión institucionalizada, Autores fuente del material bíblico de _El Libro de Urantia_, El movimiento interreligioso y más allá, Estudiar el prólogo de _El Libro de Urantia_, Introducción a _El Libro de Urantia_ para nuevos lectores y cónyuges/adolescentes, Construyendo un puente entre la Biblia y _El Libro de Urantia_, Dios Supremo, Historia de la revelación de época, Unidad espiritual y comunidad.
 

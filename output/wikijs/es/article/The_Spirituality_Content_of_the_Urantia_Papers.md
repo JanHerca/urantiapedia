@@ -207,7 +207,7 @@ Los religiosos no tienen más valor en las tareas de reconstrucción social que 
 
 El reino de los cielos en la Tierra no es un orden social ni económico; es una familia exclusivamente espiritual de individuos conocedores de Dios.
 
-Independientemente de las convulsiones que puedan acompañar el crecimiento de una civilización, la religión es genuina y valiosa si fomenta la soberanía de la verdad, la belleza y la bondad, y a través del amor y la adoración, esto se vuelve significativo como conciencia de la presencia de Dios y compañerismo con toda la humanidad. .
+Independientemente de las convulsiones que puedan acompañar el crecimiento de una civilización, la religión es genuina y valiosa si fomenta la soberanía de la verdad, la belleza y la bondad, y a través del amor y la adoración, esto se vuelve significativo como conciencia de la presencia de Dios y compañerismo con toda la humanidad.
 
 El conocimiento puramente fáctico ejerce muy poca influencia directa sobre el desempeño personal del individuo. Es lo que uno cree más que lo que uno sabe lo que domina nuestra actitud hacia nuestros semejantes.
 
@@ -490,7 +490,7 @@ La verdad, una comprensión de las relaciones cósmicas, los hechos del universo
 
 En el estado mortal nada puede probarse absolutamente, tanto la ciencia como la religión se basan en suposiciones.
 
-Hay una verdadera «prueba» de la «realidad espiritual» en la presencia del Espíritu de Dios que mora en nosotros, pero la validez de la «prueba» no es demostrable al mundo externo, sino solo a quien experimenta así la morada de Dios. .
+Hay una verdadera «prueba» de la «realidad espiritual» en la presencia del Espíritu de Dios que mora en nosotros, pero la validez de la «prueba» no es demostrable al mundo externo, sino solo a quien experimenta así la morada de Dios.
 
 
 ## Unidad funcional

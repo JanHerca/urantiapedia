@@ -36,7 +36,7 @@ Resumen de material científico e histórico que parece haber requerido acceso a
 
 Presentado en la Reunión Regional de Lectores de _El Libro de URANTIA_ del Pacífico Sur, por el Dr. Ken T. Glasziou
 
-Los Documentos URANTIA se recibieron en 1934 y se publicaron en forma de libro en 1955. Hay muchos elementos de naturaleza científica o histórica sobre los cuales se hacen declaraciones definitivas en El Libro de URANTIA, y sobre los cuales la humanidad no tenía conocimiento seguro durante el período previo a la publicación. . Desde entonces se ha descubierto que muchos de estos elementos son correctos o coinciden con la opinión científica actual. Este artículo resume algunos de estos elementos.
+Los Documentos URANTIA se recibieron en 1934 y se publicaron en forma de libro en 1955. Hay muchos elementos de naturaleza científica o histórica sobre los cuales se hacen declaraciones definitivas en El Libro de URANTIA, y sobre los cuales la humanidad no tenía conocimiento seguro durante el período previo a la publicación. Desde entonces se ha descubierto que muchos de estos elementos son correctos o coinciden con la opinión científica actual. Este artículo resume algunos de estos elementos.
 
 ## Dias y fechas
 

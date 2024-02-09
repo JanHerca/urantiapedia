@@ -103,7 +103,7 @@ Sin embargo, eso no significa evitar toda interacción con el mundo secular. Per
 > Religión pura, inmaculada ante Dios y el Padre es esta,
 > Visitar a los huérfanos ya las viudas en sus tribulaciones, y guardarse sin mancha del mundo. [Santiago 1:27](/es/Bible/James/1#v27)
 
-Siguió con esto: «Si los creyentes profesos no dan estos frutos del espíritu divino en sus vidas, están muertos; el Espíritu de la Verdad no está en ellos; son ramas inútiles de la vid viva... .Mi Padre requiere de los hijos de la fe que den mucho fruto espiritual».
+Siguió con esto: «Si los creyentes profesos no dan estos frutos del espíritu divino en sus vidas, están muertos; el Espíritu de la Verdad no está en ellos; son ramas inútiles de la vid viva... Mi Padre requiere de los hijos de la fe que den mucho fruto espiritual».
 
 Además de involucrarse en los problemas de injusticia social, los cuáqueros también desarrollaron un conjunto de criterios que los distinguía claramente como cuáqueros. Tenían severas restricciones en cuanto a la vestimenta hasta el punto de que una sola mirada identificaba a una persona como cuáquera. Y cuando hablaban, usaban palabras especiales como «tú» y «tú». Aunque originalmente se diseñó como un testimonio de honestidad, sencillez e igualdad, estas características distintivas se convirtieron rápidamente en una «contraseña» que declaraba: «Soy cuáquero».
 

@@ -90,7 +90,7 @@ Desafortunadamente, la filosofía del dios usurpador no se detiene allí. Una po
 
 A veces, en breves momentos de desesperación, mientras observo el desmoronamiento de nuestra civilización, obtengo consuelo del [Salmo 12](/es/Bible/Psalms/12). Observo toda la actividad, las invenciones, la amoralidad, el pensamiento materialista y esos finos intelectos sin una pizca de filosofía en sus bancos de memoria.
 
-En esos momentos siento alivio porque, a pesar del grito del profeta: «Ayúdame, Señor, porque ya no queda nadie piadoso», sigue siendo un hecho que, aunque pronunciado hace tanto tiempo, hemos sobrevivido. .
+En esos momentos siento alivio porque, a pesar del grito del profeta: «Ayúdame, Señor, porque ya no queda nadie piadoso», sigue siendo un hecho que, aunque pronunciado hace tanto tiempo, hemos sobrevivido.
 
 Seguro que algunas civilizaciones pueden haber ido y venido, pero nosotros, la raza humana, hemos progresado. ¿Pero lo hemos hecho? El único progreso real se debe a que, por la gracia de Dios, Jesús vino a este planeta.
 

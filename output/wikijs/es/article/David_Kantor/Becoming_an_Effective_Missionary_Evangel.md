@@ -34,7 +34,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
 </figure>
 
 
-> ... Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual. ... <a id="a36_251"></a>[[LU 160:5.3](/es/The_Urantia_Book/160#p5_3)]
+> ... Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual... <a id="a36_251"></a>[[LU 160:5.3](/es/The_Urantia_Book/160#p5_3)]
 
 **Misionero** Etimología: Del latín missionem (nom. missio), que significa «acción de enviar» o mitto, mittere, que literalmente significa «enviar» o «despachar»; el equivalente de la palabra griega «apóstol» de apostolos, que significa «un delegado, especialmente, un embajador del Evangelio; oficialmente comisionado de Cristo [«apóstol»]. Definición: 1. Persona que trabaja intentando difundir una religión o credo. 2. Un mensajero religioso. 3. Una persona que sabe algo sobre el verdadero valor de sí mismo y de los demás, que trabaja para compartir ese conocimiento.
 

@@ -37,9 +37,9 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > La religión debe ejercer una poderosa influencia a favor de la estabilidad moral y del progreso espiritual, desempeñando dinámicamente sus funciones en medio de estas condiciones cambiantes y de estos ajustes económicos sin fin.
 > 
-> La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas... . La misión suprema de la religión, como influencia social, consiste en estabilizar los ideales de la humanidad durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente.
+> La sociedad de Urantia nunca puede esperar estabilizarse como en las épocas pasadas... La misión suprema de la religión, como influencia social, consiste en estabilizar los ideales de la humanidad durante esos peligrosos períodos de transición entre una fase de civilización y la siguiente, entre un nivel de cultura y el siguiente.
 > 
-> La religión no tiene ningún deber nuevo que cumplir, pero se le pide que actúe urgentemente como guía sabia y consejera experimentada ... .
+> La religión no tiene ningún deber nuevo que cumplir, pero se le pide que actúe urgentemente como guía sabia y consejera experimentada ...
 > 
 > Humanamente hablando, un humanitarismo ateo es un noble gesto, pero la verdadera religión es la única fuerza que puede acrecentar de forma duradera la sensibilidad de un grupo social hacia las necesidades y los sufrimientos de otros grupos.
 > 

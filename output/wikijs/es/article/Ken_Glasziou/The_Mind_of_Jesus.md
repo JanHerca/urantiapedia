@@ -107,7 +107,7 @@ Después de su bautismo, las elecciones que enfrentó Jesús en cuanto al tipo d
 
 Solo hubo un motivo en la vida post bautismal de Jesús y ese fue una revelación mejor y más verdadera de su Padre del Paraíso; fue el pionero del nuevo y mejor camino hacia Dios, el camino de la fe y el amor, que insistió en recorrer de la manera más tranquila y no dramática, evitando toda exhibición de poder.
 
-Jesús les dijo a sus apóstoles: «No os engañéis; saldremos a trabajar para una generación que busca signos. ... y serán lentos en reconocer, en la revelación del amor de mi Padre, las cartas credenciales de mi misión». (<a id="a109_220"></a>[LU 137:6.5](/es/The_Urantia_Book/137#p6_5))
+Jesús les dijo a sus apóstoles: «No os engañéis; saldremos a trabajar para una generación que busca signos... y serán lentos en reconocer, en la revelación del amor de mi Padre, las cartas credenciales de mi misión». (<a id="a109_220"></a>[LU 137:6.5](/es/The_Urantia_Book/137#p6_5))
 
 > Cuando lleguemos a saber que tenemos suficiente, entonces seremos ricos.
 
@@ -421,7 +421,7 @@ Es totalmente correcto referirse a Jesús como nuestro salvador. Él siempre hiz
 
 El concepto de expiación y salvación sacrificial está enraizado y fundamentado en el egoísmo. La principal preocupación del creyente no debe ser el deseo egoísta de salvación personal, sino el impulso desinteresado de amar y servir a nuestros semejantes, así como Jesús amó y sirvió al hombre mortal.
 
-Lo grandioso de la muerte de Jesús, en cuanto se relaciona con el enriquecimiento de la experiencia humana y la ampliación del camino de la salvación, no es el hecho de su muerte, sino más bien la manera soberbia y el espíritu inigualable en que la enfrentó. .
+Lo grandioso de la muerte de Jesús, en cuanto se relaciona con el enriquecimiento de la experiencia humana y la ampliación del camino de la salvación, no es el hecho de su muerte, sino más bien la manera soberbia y el espíritu inigualable en que la enfrentó.
 
 La cruz muestra para siempre que la actitud de Jesús hacia los pecadores no fue ni de condena ni de condonación, sino de salvación eterna y amorosa.
 
@@ -479,7 +479,7 @@ El Espíritu de la Verdad equipa a los maestros de la nueva religión de Jesús 
 
 ## Pentecostés: sus efectos
 
-Pentecostés dotó al hombre mortal con la capacidad de perdonar las heridas personales, de mantenerse dulce frente a la injusticia más grave, de permanecer impasible ante el peligro atroz y de desafiar los males del odio y la ira mediante actos intrépidos de amor y paciencia. .
+Pentecostés dotó al hombre mortal con la capacidad de perdonar las heridas personales, de mantenerse dulce frente a la injusticia más grave, de permanecer impasible ante el peligro atroz y de desafiar los males del odio y la ira mediante actos intrépidos de amor y paciencia.
 
 Hasta Pentecostés, la religión había revelado que sólo el hombre buscaba a Dios. Desde Pentecostés, resplandece sobre el mundo el espectáculo de Dios buscando también a la humanidad y enviando su Espíritu para que habite en aquellos a quienes ha encontrado.
 

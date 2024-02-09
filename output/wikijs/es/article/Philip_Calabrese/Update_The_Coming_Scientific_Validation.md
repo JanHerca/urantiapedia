@@ -90,7 +90,7 @@ Como otro ejemplo de la extraña habilidad de _El Libro de Urantia_ para evitar 
 
 Por el contrario, el _El Libro de Urantia_ de 1955 <a id="a90_51"></a>[[LU 60:3-4](/es/The_Urantia_Book/60#p3)] <a id="a90_93"></a>[[LU 59:5.20](/es/The_Urantia_Book/59#p5_20)] explica completamente, y en con gran detalle, todo el proceso de formación de la montaña (todavía en gran parte no reconocido), incluida la forma en que las Sierras se formaron inicialmente al final del período Cretácico (hace 144 a 65 millones de años),[^6] durante el crujido continental occidental contra una obstrucción en el fondo del océano Pacífico que puso fin a la deriva hacia el oeste de los continentes de América del Norte y América del Sur. Posteriormente, las sierras se desgastaron y sumergieron, pero luego se elevaron nuevamente por la acción volcánica en curso. La historia es complicada.
 
-> Hace 25.000.000 de años que se produjo una ligera inmersión terrestre después de una larga época de elevación continental. ... Las Sierras volvieron a levantarse mucho; de hecho, han continuado elevándose desde entonces. ... <a id="a92_227"></a>[[LU 61:3.3](/es/The_Urantia_Book/61#p3_3)]
+> Hace 25.000.000 de años que se produjo una ligera inmersión terrestre después de una larga época de elevación continental... Las Sierras volvieron a levantarse mucho; de hecho, han continuado elevándose desde entonces... <a id="a92_227"></a>[[LU 61:3.3](/es/The_Urantia_Book/61#p3_3)]
 
 Si los autores del _Libro de Urantia_ de 1955 no hubieran sabido más que la mayoría de los geólogos que vivían en 2006, probablemente habrían dado un relato erróneo de cómo se formaron las Sierras Nevadas hace menos de 5 millones de años.
 

@@ -102,7 +102,7 @@ La misericordia es una actitud desinteresada de bondad amorosa que se preocupa p
 
 El conflicto es lo opuesto a la paz. Se genera principalmente por la codicia por el poder y la riqueza material. En segundo lugar, el conflicto surge del miedo, el miedo de perder lo que ya poseemos.
 
-La paz del individuo es generada por la fe, el tipo de fe personal y confianza total en el cuidado excesivo de Dios que llevó a Jesús a afirmar su creencia absoluta de que ningún daño real podría sobrevenirle, a pesar de todas las apariencias de lo contrario y de cualquier cosa que pudieran hacer sus enemigos. .
+La paz del individuo es generada por la fe, el tipo de fe personal y confianza total en el cuidado excesivo de Dios que llevó a Jesús a afirmar su creencia absoluta de que ningún daño real podría sobrevenirle, a pesar de todas las apariencias de lo contrario y de cualquier cosa que pudieran hacer sus enemigos.
 
 Solo podríamos tener el grado de fe y confianza que mostró Jesús si podemos ver nuestra vida presente desde el contexto de una futura carrera eterna. Pero esta forma de percibirnos como pacificadores concierne sólo a nuestras personas. Cuando se enfrentó a la situación de daño infligido a los indefensos, Jesús no fue un pacifista de ojos estrellados. El valor de defender a los indefensos no le falta al pacificador.
 

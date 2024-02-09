@@ -43,7 +43,7 @@ Ahora debo admitir que me quedé temporalmente desconcertado. Yo acababa de inte
 
 «Bueno, ¿cómo te sientes como mujer, con Dios representado como un hombre?»
 
-Ahora bien, realmente no había pensado en Nuestro Padre como si fuera «Padre Nuestro, ¡una mujer!» Le di unos segundos de deliberación a su pregunta y respondí que realmente me sentía deliciosamente cómodo con que Dios fuera un hombre, en realidad no podía imaginarlo siendo de otro sexo que el masculino, pero agregué: «un tipo de hombre muy importante, andrógino». . Él no entendió el significado y entonces dije: «¡Dios es unisex!»
+Ahora bien, realmente no había pensado en Nuestro Padre como si fuera «Padre Nuestro, ¡una mujer!» Le di unos segundos de deliberación a su pregunta y respondí que realmente me sentía deliciosamente cómodo con que Dios fuera un hombre, en realidad no podía imaginarlo siendo de otro sexo que el masculino, pero agregué: «un tipo de hombre muy importante, andrógino». Él no entendió el significado y entonces dije: «¡Dios es unisex!»
 
 Él es, todo en perfección. Él es y conoce a hombres y mujeres, porque ¿no creó Él «a Su imagen»?
 

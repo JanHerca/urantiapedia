@@ -59,7 +59,7 @@ Por tanto, posee una dotación de ministerio divino que asegura la evolución de
 - El alma es supermaterial pero subespiritual.
 - En un sentido, es un almacén que contiene todo lo que tiene valor espiritual y emana de nuestra vida terrenal.
 - Interactúa tanto con nuestra mente mortal como con nuestro Dios-Espíritu que mora en nosotros.
-- Cuanto más espirituales se vuelven nuestras mentes, más se acerca nuestra alma al Espíritu divino interior en la medida en que, con el consentimiento de la mente humana, el alma gana la autoridad para comprometer nuestro futuro eterno en la búsqueda de encontrar al Padre Universal. , procurando ser como él, y al hacer su voluntad.
+- Cuanto más espirituales se vuelven nuestras mentes, más se acerca nuestra alma al Espíritu divino interior en la medida en que, con el consentimiento de la mente humana, el alma gana la autoridad para comprometer nuestro futuro eterno en la búsqueda de encontrar al Padre Universal, procurando ser como él, y al hacer su voluntad.
 
 Nuestra alma es así el embrión primordial de lo que seremos durante la próxima fase de nuestra carrera eterna.
 

@@ -66,7 +66,7 @@ Para el BEC en una superposición de estados, cada uno de los estados fantasmale
 
 A nivel macro, nuestro mundo parece sólido, predecible, confiable. Pero justo debajo de una superficie invisible, sus partes existen en un estado de complejidad increíblemente extraña, puntuada por la impermanencia y la espontaneidad, por ejemplo, partículas virtuales que aparecen y desaparecen y representan la mitad del impulso del núcleo atómico; electrones que saltan entre los niveles de energía del átomo sin estar nunca en ningún punto intermedio; partículas correlacionadas que se «comunican» instantáneamente incluso si están separadas en el infinito; o partículas en un estado superpuesto que necesitan la mente de un observador para hacerlas realidad. Y todo en obediencia a un principio de incertidumbre probado en el tiempo que divorcia el presente del futuro.
 
-De hecho, somos afortunados de vivir en estos tiempos emocionantes en los que nuestro mundo puede tener sentido, Dios se ha convertido tanto en una posibilidad como en una probabilidad, y podemos saber con certeza que tenemos el libre albedrío para dejar una huella en el futuro de nuestro futuro. .
+De hecho, somos afortunados de vivir en estos tiempos emocionantes en los que nuestro mundo puede tener sentido, Dios se ha convertido tanto en una posibilidad como en una probabilidad, y podemos saber con certeza que tenemos el libre albedrío para dejar una huella en el futuro de nuestro futuro.
 
 > Cuando el hombre busca la verdad, persigue aquello que es divinamente real. (<a id="a70_79"></a>[LU 2:7.4](/es/The_Urantia_Book/2#p7_4))
 

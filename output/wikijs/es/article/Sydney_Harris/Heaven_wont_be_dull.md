@@ -40,7 +40,7 @@ Si tuvieran razón, entonces la religión sería una farsa y un fraude. Pero est
 
 De hecho, toda la evidencia en el Nuevo Testamento apunta en otra dirección. Jesús prefirió juntarse con publicanos y pecadores en lugar de sentarse entre aquellos fariseos que pensaban que era más importante lavarse las manos que limpiar sus almas.
 
-De hecho, toda su protesta contra los conformistas de su época fue que estaban engreídos en sus virtudes, que menospreciaban a los ladrones y prostitutas, que estaban tan ocupados observando las sutilezas de la ley que descuidaron amar y socorrer a sus hermanos menos afortunados. .
+De hecho, toda su protesta contra los conformistas de su época fue que estaban engreídos en sus virtudes, que menospreciaban a los ladrones y prostitutas, que estaban tan ocupados observando las sutilezas de la ley que descuidaron amar y socorrer a sus hermanos menos afortunados.
 
 El Cielo en el que el escéptico no cree no es un Cielo que alguna vez existió en la Biblia, sino solo en las mentes de los sentimentalistas y los ignorantes.
 

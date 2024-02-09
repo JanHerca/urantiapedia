@@ -92,11 +92,11 @@ Estos doce entregaron efectivamente el gobierno planetario a Adán y Eva poco de
 
 «El tiempo pasaba, pero Adán no estuvo seguro de la naturaleza de su infracción hasta setenta días después de la falta de Eva, cuando los síndicos Melquisedeks regresaron a Urantia y asumieron la jurisdicción sobre los asuntos del mundo». <a id="a92_239"></a>[LU 75:5.8](/es/The_Urantia_Book/75#p5_8) Hace aproximadamente cuatro mil años, estos doce volvieron a ser fundamentales en la dirección de nuestro planeta y demostraron su lealtad tanto a Dios como a los hombres.
 
-> Los doce síndicos Melquisedeks conocían la donación inminente de Miguel en el planeta, pero no sabían cuándo se produciría; por consiguiente, se reunieron en consejo solemne y pidieron a los Altísimos de Edentia que se tomara alguna disposición para mantener la luz de la verdad en Urantia... .
+> Los doce síndicos Melquisedeks conocían la donación inminente de Miguel en el planeta, pero no sabían cuándo se produciría; por consiguiente, se reunieron en consejo solemne y pidieron a los Altísimos de Edentia que se tomara alguna disposición para mantener la luz de la verdad en Urantia...
 >
-> A consecuencia de tener que valerse tan completamente por sí mismos, Maquiventa Melquisedek, uno de los doce síndicos planetarios, se ofreció como voluntario para hacer lo que sólo se había efectuado seis veces en toda la historia de Nebadon: personalizarse en la Tierra como un hombre temporal del planeta, donarse como Hijo de emergencia para ayudar al mundo... . <a id="a96_368"></a>[LU 93:1.1,3](/es/The_Urantia_Book/93#p1_1)
+> A consecuencia de tener que valerse tan completamente por sí mismos, Maquiventa Melquisedek, uno de los doce síndicos planetarios, se ofreció como voluntario para hacer lo que sólo se había efectuado seis veces en toda la historia de Nebadon: personalizarse en la Tierra como un hombre temporal del planeta, donarse como Hijo de emergencia para ayudar al mundo... <a id="a96_368"></a>[LU 93:1.1,3](/es/The_Urantia_Book/93#p1_1)
 
-> Durante los años de la encarnación de Maquiventa, los síndicos Melquisedeks de Urantia ejercieron su actividad en número de once... . <a id="a98_136"></a>[LU 93:10.1](/es/The_Urantia_Book/93#p10_1)
+> Durante los años de la encarnación de Maquiventa, los síndicos Melquisedeks de Urantia ejercieron su actividad en número de once... <a id="a98_136"></a>[LU 93:10.1](/es/The_Urantia_Book/93#p10_1)
 
 Si la visita dispensacional incluye a un Hijo del Paraíso Avonal en una misión magisterial, entonces los doce Melquisedec que se nos dice que acompañarán a este Hijo Magisterial no pueden ser otros que nuestros propios Melquisedec como síndicos. Y si estos doce que están tan versados ​​en la historia y los asuntos de nuestro planeta acompañan a un Hijo Avonal, entonces Maquiventa también debe venir visiblemente, ya que él es una parte integral de los doce.
 

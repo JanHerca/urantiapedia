@@ -54,7 +54,7 @@ Uno de los más vociferantes de los falsos gritos afirmó que la imagen era una 
 
 Sin embargo, a pesar de todos losy la datación por carbono pareció descartar la posibilidad de que la Sábana Santa se remonte a la época de Jesús.
 
-Las dudas reales sobre la conclusión de la datación por carbono quizás comenzaron cuando se filtró información de que la datación por carbono de una momia egipcia del Museo de Manchester había dado el peculiar resultado de que los vendajes alrededor del cuerpo de la momia habían sido fechados en unos 1000 años más jóvenes que el cuerpo. . Esta fuga parece haber generado una avalancha de información contradictoria que proviene de otras dataciones de carbono.
+Las dudas reales sobre la conclusión de la datación por carbono quizás comenzaron cuando se filtró información de que la datación por carbono de una momia egipcia del Museo de Manchester había dado el peculiar resultado de que los vendajes alrededor del cuerpo de la momia habían sido fechados en unos 1000 años más jóvenes que el cuerpo. Esta fuga parece haber generado una avalancha de información contradictoria que proviene de otras dataciones de carbono.
 
 Por ejemplo, en 1984, se enviaron muestras de un cuerpo bien conservado de una turbera en Cheshire, Inglaterra, a tres laboratorios bien acreditados con resultados que datan del siglo III a. C., siglo I d. C. y siglo V d.
 

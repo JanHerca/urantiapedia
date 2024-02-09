@@ -35,7 +35,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 
-Cuando tenía cinco años, nuestros padres llevaron a mi hermano de seis años y a mí a una de las iglesias de nuestro pequeño pueblo rural. El asesor profesional de mi padre le había dicho a mi madre que yo iba a crecer para ser ministro: «Así que exponlo a la iglesia, ¿no?». ... y eso fue lo que hizo, con bastante celo.
+Cuando tenía cinco años, nuestros padres llevaron a mi hermano de seis años y a mí a una de las iglesias de nuestro pequeño pueblo rural. El asesor profesional de mi padre le había dicho a mi madre que yo iba a crecer para ser ministro: «Así que exponlo a la iglesia, ¿no?»... y eso fue lo que hizo, con bastante celo.
 
 ## El primer paso en el camino
 
@@ -93,7 +93,7 @@ Cuando «Dios» descendía dentro de mí, recuerdo haber pensado: «Oh, así es 
 
 Mi experiencia me mostró que Dios vivía y respiraba mi vida allí mismo conmigo, pero a los cinco años no tenía idea de por qué debía hacer eso. No tenía teología ni filosofía... ¡lo más importante en mi vida fue intentar patear una pelota de fútbol de tamaño completo sin romperme el dedo gordo del pie! La llegada de Dios era algo tan ordinario, tan cotidiano en ese momento, y yo simplemente no tenía las necesidades que surgen al crecer. La llegada de Dios a mí fue un asunto sencillo, incuestionable, plenamente aceptado.
 
-Pero, por supuesto, luego Dios desapareció de mi vista y, a medida que crecí, estaba entre los muchos que pateaban el obstinado cortacésped y pronunciaban juramentos como: '¡Si realmente existe un Dios, encenderás este cortacésped ahora mismo!' Vuelve a tirar con fuerza del cordón de arranque, sin éxito. Y luego, cuando finalmente comenzaba, después de haber denunciado firmemente la realidad de Dios, retrocedía y me decía a mí mismo: «¡Mira, realmente hay un Dios!». Agradezco que la fe no se base en valoraciones tan infantiles de la naturaleza de las cosas. .
+Pero, por supuesto, luego Dios desapareció de mi vista y, a medida que crecí, estaba entre los muchos que pateaban el obstinado cortacésped y pronunciaban juramentos como: '¡Si realmente existe un Dios, encenderás este cortacésped ahora mismo!' Vuelve a tirar con fuerza del cordón de arranque, sin éxito. Y luego, cuando finalmente comenzaba, después de haber denunciado firmemente la realidad de Dios, retrocedía y me decía a mí mismo: «¡Mira, realmente hay un Dios!». Agradezco que la fe no se base en valoraciones tan infantiles de la naturaleza de las cosas.
 
 ## Mirando hacia atrás
 

@@ -50,7 +50,7 @@ Ahora, en el presente, nos encontramos recientemente (hablando cósmicamente) co
 
 ## Niveles de Significación
 
-Sostengo que la vida y la enseñanza de Jesús, presentadas en el contexto de la quinta revelación de época completa, representan una revelación apropiada y quizás máxima de la verdad espiritual y cósmica asimilable por la población general de Urantia, quizás en una escala parcial en la actualidad. , pero creciendo cada vez más para abarcar a toda la ciudadanía planetaria durante los siglos que se desarrollan en el futuro. Por lo tanto, hemos establecido que la séptima dádiva de Miguel es ciertamente de importancia _planetaria_ para nuestro mundo en el pasado, presente y futuro.
+Sostengo que la vida y la enseñanza de Jesús, presentadas en el contexto de la quinta revelación de época completa, representan una revelación apropiada y quizás máxima de la verdad espiritual y cósmica asimilable por la población general de Urantia, quizás en una escala parcial en la actualidad, pero creciendo cada vez más para abarcar a toda la ciudadanía planetaria durante los siglos que se desarrollan en el futuro. Por lo tanto, hemos establecido que la séptima dádiva de Miguel es ciertamente de importancia _planetaria_ para nuestro mundo en el pasado, presente y futuro.
 
 La revelación de la vida y enseñanza de Miguel en Urantia también es de importancia para el sistema local, ya que, como hombre con la única ayuda de su Ajustador, Miguel se comprometió en una lucha final con Caligastia y Lucifer y puso fin oficialmente a la rebelión de Lucifer. Además, fueron necesarios cambios considerables en la administración del sistema local, sobre todo la asignación de un nuevo soberano del sistema local, Lanaforge, para ocupar el puesto vacante de Lucifer.
 

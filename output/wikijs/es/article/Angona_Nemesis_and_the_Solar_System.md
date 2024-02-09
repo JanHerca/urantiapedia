@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 > «Hace *4.500.000.000* de años, el enorme sistema de Angona empezó a aproximarse a los alrededores de este Sol solitario. El centro de este gran sistema era un gigante oscuro del espacio, sólido, muy cargado y con una enorme atracción gravitatoria». (de <a id="a36_255"></a>[LU 57:5.4](/es/The_Urantia_Book/57#p5_4))
 
-En su relato de la formación del sistema solar, _El Libro de Urantia_ atribuye al sistema de Angona la fuente de una enorme perturbación gravitatoria que interrumpió parcialmente al sol, creando así el disco de material que, por acreción, finalmente dio origen a los planetas. , cometas, meteoros, polvo, etc., de nuestro sistema solar.
+En su relato de la formación del sistema solar, _El Libro de Urantia_ atribuye al sistema de Angona la fuente de una enorme perturbación gravitatoria que interrumpió parcialmente al sol, creando así el disco de material que, por acreción, finalmente dio origen a los planetas, cometas, meteoros, polvo, etc., de nuestro sistema solar.
 
 Según algunos astrónomos, existe evidencia suficiente para postular que los restos colapsados ​​de una estrella masiva orbitan nuestro sol a unos 100 mil millones de millas más allá de la órbita de Neptuno. Imposible de ver en luz visible, traiciona su presencia a través de perturbaciones gravitacionales periódicas que provocan una devastación masiva en todos los planetas del sistema solar. Llamados «Némesis» o la «Estrella de la Muerte», los desastres del pasado han llevado a enjambres de cometas a colisionar con la Tierra y otros planetas con golpes pulverizadores.
 
@@ -54,7 +54,7 @@ Desde que se recibieron los Documentos, ha habido una explosión virtual de info
 
 Mientras que nuestro conocimiento actual de la formación de nuestros planetas exteriores, incluidos los gigantes gaseosos, no permite un tratamiento teórico adecuado, no obstante, el relato del libro parece no ser consistente con los hechos observados.
 
-El libro describe correctamente a Júpiter y Saturno como gigantes gaseosos, pero incluye a Urano y Neptuno con su comentario, «la contracción gaseosa de los otros diez planetas pronto alcanzó la etapa de solidificación... .»
+El libro describe correctamente a Júpiter y Saturno como gigantes gaseosos, pero incluye a Urano y Neptuno con su comentario, «la contracción gaseosa de los otros diez planetas pronto alcanzó la etapa de solidificación...»
 
 La misión Voyager reveló que ambos planetas siguen siendo enormes gigantes gaseosos, y también descubrió que Neptuno tenía vientos superficiales y nubes que se movían a velocidades bastante increíbles, incluso mayores que las de Júpiter.
 

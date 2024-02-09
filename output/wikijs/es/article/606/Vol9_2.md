@@ -86,7 +86,7 @@ Ken Glasziou, Maleny, Queensland.
 
 ## La llegada de Dios a la mente humana
 
-Cuando tenía cinco años, nuestros padres llevaron a mi hermano de seis años y a mí a una de las iglesias de nuestro pequeño pueblo rural. El asesor profesional de mi padre le había dicho a mi madre que yo iba a crecer para ser ministro: «Así que exponlo a la iglesia, ¿no?». ... y eso fue lo que hizo, con bastante celo.
+Cuando tenía cinco años, nuestros padres llevaron a mi hermano de seis años y a mí a una de las iglesias de nuestro pequeño pueblo rural. El asesor profesional de mi padre le había dicho a mi madre que yo iba a crecer para ser ministro: «Así que exponlo a la iglesia, ¿no?»... y eso fue lo que hizo, con bastante celo.
 
 **El primer paso en el camino**
 

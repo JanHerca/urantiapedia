@@ -35,7 +35,7 @@ Ha habido algunas críticas a un artículo en la [edición de julio-agosto](/es/
 
 Los reveladores afirman: «_Hace *2.500.000.000* de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente una **décima parte **de su **masa** actual y continuaba aumentando rápidamente por acreción meteórica._». <a id="a35_283"></a>[LU 57:6.10](/es/The_Urantia_Book/57#p6_10)
 
-Luego tienen: «_Hace 2.000.000.000 de años, la Tierra empezó a ganarle terreno decididamente a la Luna. El planeta siempre había sido más grande que su satélite, pero no había habido mucha diferencia de **tamaño** hasta esta época, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte** de su **tamaño** actual. ..._» <a id="a37_385"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2)
+Luego tienen: «_Hace 2.000.000.000 de años, la Tierra empezó a ganarle terreno decididamente a la Luna. El planeta siempre había sido más grande que su satélite, pero no había habido mucha diferencia de **tamaño** hasta esta época, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte** de su **tamaño** actual..._» <a id="a37_385"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2)
 
 La redacción de este último párrafo fomenta la creencia de que estos dos cuerpos habían crecido al mismo ritmo y tenían un tamaño muy similar a lo largo de sus más de 2 mil millones de años de vida.
 

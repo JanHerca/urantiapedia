@@ -661,7 +661,7 @@ Un líder es alguien que intenta conquistar el ego y servir:
 
 _NUESTRA CONEXIÓN EN EL EXTRANJERO_
 
-_En junio de 1982*** apareció un breve informe sobre una visita de Lynne Kulieke, actuando en nombre del Comité Ejecutivo de la Hermandad URANTIA, a un grupo aislado en Sevilla, España, el año anterior. El grupo dependió de un miembro multilingüe para traducir de la edición francesa al español. Lynne, que habla español con fluidez, se llevó una cinta a los EE. UU. en la que hablaban cuatro de los lectores en español y expresaron su profundo sentimiento de aislamiento, su gran deseo de contacto con otros lectores del Libro de URANTIA y su necesidad de una traducción a su propio idioma. . Como ya sabemos, la traducción al español está a punto de finalizar._
+_En junio de 1982*** apareció un breve informe sobre una visita de Lynne Kulieke, actuando en nombre del Comité Ejecutivo de la Hermandad URANTIA, a un grupo aislado en Sevilla, España, el año anterior. El grupo dependió de un miembro multilingüe para traducir de la edición francesa al español. Lynne, que habla español con fluidez, se llevó una cinta a los EE. UU. en la que hablaban cuatro de los lectores en español y expresaron su profundo sentimiento de aislamiento, su gran deseo de contacto con otros lectores del Libro de URANTIA y su necesidad de una traducción a su propio idioma. Como ya sabemos, la traducción al español está a punto de finalizar._
 
 _En ***marzo de 1983*** apareció en la última página una invitación de los Grupos de Estudio del LIBRO DE URANTIA en Santa Bárbara, California. Este grupo ahora es mejor conocido como C.U.B.S._
 
@@ -849,7 +849,7 @@ _William Wentworth informó en la edición de julio de 1981 que la conferencia f
 
 _MAINE U.S.A. BOWDOIN COLLEGE, BRUNSWICK, 2 DE AGOSTO - 71987_
 
-_Un informe de William apareció en el número de septiembre/octubre de 1987, donde comentaba que la gran diferencia entre esta conferencia y la de Snowmass en 1981 era el extraordinario interés en Australia por el que Paul Hogan merece parte del crédito (o la culpa). . Estuvieron presentes personas de muchos países y, aunque los talleres fueron interesantes y estimulantes, un aspecto más importante fue la oportunidad de conocer a otros lectores. Will comentó que la división en política de extensión y la división entre conservadores y progresistas son similares a las de Australia.
+_Un informe de William apareció en el número de septiembre/octubre de 1987, donde comentaba que la gran diferencia entre esta conferencia y la de Snowmass en 1981 era el extraordinario interés en Australia por el que Paul Hogan merece parte del crédito (o la culpa). Estuvieron presentes personas de muchos países y, aunque los talleres fueron interesantes y estimulantes, un aspecto más importante fue la oportunidad de conocer a otros lectores. Will comentó que la división en política de extensión y la división entre conservadores y progresistas son similares a las de Australia.
 
 ### Australiana
 
@@ -915,7 +915,7 @@ Esta fue la Conferencia Regional del Pacífico Sur, celebrada en Ranelagh House.
 <img src="/image/article/606/conf5.jpg">
 </figure>
 
-Los participantes vinieron de 10 países: Australia, Nueva Zelanda, Tahití, Fiji, Hong Kong, Reino Unido, Finlandia, Suiza, Francia y Estados Unidos. El tema de la conferencia fue «Diversidad cultural y unidad espiritual», y un participante de cada país hizo una breve presentación. .
+Los participantes vinieron de 10 países: Australia, Nueva Zelanda, Tahití, Fiji, Hong Kong, Reino Unido, Finlandia, Suiza, Francia y Estados Unidos. El tema de la conferencia fue «Diversidad cultural y unidad espiritual», y un participante de cada país hizo una breve presentación.
 
 La conferencia fue un éxito sorprendente y representó un hito importante en las actividades grupales de los lectores australianos.
 
@@ -1007,7 +1007,7 @@ Maleny Qld. 4552
 
 _Además de Ken, otros lectores también están interesados en este tema y en el número de julio de 1983 publicamos un artículo de Stefan Zallquist, un investigador en el laboratorio de radio del Technical College de Helsinki, Finlandia. Chris Moseley tradujo el artículo publicado originalmente en «Helsingin Sanomat». El artículo de Stefan decía que_ El Libro de URANTIA _proporcionaba una gran cantidad de información sobre la investigación espacial, la física nuclear y la física que nadie podría haber conocido en aquellos tiempos (1934). Como ejemplo, mencionó la afirmación del libro de que la temperatura en el espacio profundo está ligeramente por encima del cero absoluto, un hecho que sólo se demostró mediante mediciones en los años 1960. El libro parte de la existencia de neutrinos (pequeñas partículas neutras) que se encontraron por primera vez en 1956. El libro contiene una magnífica descripción de los «cuerpos gravitatorios oscuros» sobre los cuales la ciencia sólo se ha aclarado en los últimos diez años._
 
-_La fecha de la crucifixión de Michael fue objeto de escrutinio en un artículo publicado en la edición de marzo/abril de 1987. A su vez informó sobre un artículo escrito por Humphreys y Waddington de la Universidad de Oxford. Se seleccionaron dos fechas posibles como las más probables, el 7 de abril del 30 d.C. y el 3 de abril del 33 d.C. Los catedráticos de Oxford optaron por la fecha posterior, basándose en una referencia bíblica en Hechos 2:20 «el sol se convertirá en oscuridad». , y la luna en sangre”, una referencia a un eclipse que calcularon que ocurrió el 3 de abril del año 33 d.C. Los Intermedios nos dicen que la fecha fue la primera. ¿Se equivocaron? La evidencia más reciente apoya a los intermedios. Utilizando mediciones más precisas, se sugiere que este eclipse no podría haber sido visto desde Jerusalén, y ciertamente no en ninguna fase en la que pudiera enrojecer la luna._
+_La fecha de la crucifixión de Michael fue objeto de escrutinio en un artículo publicado en la edición de marzo/abril de 1987. A su vez informó sobre un artículo escrito por Humphreys y Waddington de la Universidad de Oxford. Se seleccionaron dos fechas posibles como las más probables, el 7 de abril del 30 d.C. y el 3 de abril del 33 d.C. Los catedráticos de Oxford optaron por la fecha posterior, basándose en una referencia bíblica en Hechos 2:20 «el sol se convertirá en oscuridad», y la luna en sangre”, una referencia a un eclipse que calcularon que ocurrió el 3 de abril del año 33 d.C. Los Intermedios nos dicen que la fecha fue la primera. ¿Se equivocaron? La evidencia más reciente apoya a los intermedios. Utilizando mediciones más precisas, se sugiere que este eclipse no podría haber sido visto desde Jerusalén, y ciertamente no en ninguna fase en la que pudiera enrojecer la luna._
 
 
 
@@ -1151,7 +1151,7 @@ _Neil planteó la interesante cuestión de las mujeres en el sacerdocio en el n�
 
 > «_...el Maestro sólo apoyaba aquellas enseñanzas que concedían a las mujeres la igualdad con los hombres._» (<a id="a1151_111"></a>[LU 167:5.4](/es/The_Urantia_Book/167#p5_4))
 
-> «_En una época como ésta, en la que ni siquiera se permitía a las mujeres permanecer en el piso principal de la sinagoga (estaban confinadas a la galería de las mujeres), era más que sorprendente observar que se las reconocía como instructoras autorizadas del nuevo evangelio del reino. ...Inmediatamente después de la partida del Maestro, los apóstoles pusieron en práctica esta liberación de las mujeres, otorgándoles el debido reconocimiento, pero las generaciones posteriores volvieron a caer en las antiguas costumbres._» (<a id="a1153_530"></a>[LU 150:1.3](/es/The_Urantia_Book/150#p1_3))
+> «_En una época como ésta, en la que ni siquiera se permitía a las mujeres permanecer en el piso principal de la sinagoga (estaban confinadas a la galería de las mujeres), era más que sorprendente observar que se las reconocía como instructoras autorizadas del nuevo evangelio del reino...Inmediatamente después de la partida del Maestro, los apóstoles pusieron en práctica esta liberación de las mujeres, otorgándoles el debido reconocimiento, pero las generaciones posteriores volvieron a caer en las antiguas costumbres._» (<a id="a1153_530"></a>[LU 150:1.3](/es/The_Urantia_Book/150#p1_3))
 
 En una decisión histórica en Londres, el sínodo general de la Iglesia de Inglaterra abrió el camino para que las mujeres se convirtieran en sacerdotes. La votación, después de un debate de siete horas entre obispos, clérigos y laicos, obtuvo una clara victoria de 307 votos contra 183. El arzobispo de Canterbury ha advertido que esto podría tener graves efectos en la unidad de la iglesia.
 
@@ -1321,7 +1321,7 @@ _Six-O-Six es un gran lugar para compartir nuestras ideas con otros lectores, ¡
 
 Tal vez la gente esté llamando a tu puerta, preguntándote qué tienes o rogándote que les vendas tu Libro de URANTIA, pero están evitando mi puerta. ¡Y allá en el gran mundo, algunas personas han observado una diferencia entre ellos y yo que etiquetaron como «loca»!
 
-Respeto el derecho de los demás a llamarme como quieran, pero lo que me frustra un poco es que obviamente no he alcanzado la etapa en la que Dios brilla a través de mí, en la que tengo esta hermosa totalidad de justicia a la que se refiere Jesús en LU 155. :1.5.
+Respeto el derecho de los demás a llamarme como quieran, pero lo que me frustra un poco es que obviamente no he alcanzado la etapa en la que Dios brilla a través de mí, en la que tengo esta hermosa totalidad de justicia a la que se refiere Jesús en LU 155:1.5.
 
 Me gustaría sugerir que, a través de Six-O-Six, comencemos a acumular ideas e hipótesis sobre lo que falta en personas como yo. Si hay algún lector de Six-O-Six al que llaman a su puerta con regularidad, ¿podría darme algunos consejos prácticos? Sé que amo a Dios como mi Padre Paradisíaco y también amo a todos sus hijos. ¿Quizás otros también necesiten ayuda?
 

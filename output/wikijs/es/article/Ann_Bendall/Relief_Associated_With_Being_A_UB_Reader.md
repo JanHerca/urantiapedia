@@ -54,7 +54,7 @@ Para nombrar sólo unos pocos:
 11. Que está bien tener preguntas y las respuestas se darán lo antes posible, que podría ser cuando sea finalista. La demora en responder se debe únicamente a mi incapacidad de comprender en este momento.
 12. Que no soy perfecto, ni se espera de mí la perfección. En realidad soy la criatura más imperfecta del universo (o más correctamente, especie de criaturas).
 
-En el camino hacia la perfección se espera que a veces fracase. Por momentos parecerá un fracaso, pero será pura y simplemente un retraso. En otras ocasiones será un fracaso; y como lo llamo fracaso, nuevamente vendrá la próxima oportunidad de, en este caso, tener éxito, habiendo tenido yo la maravillosa experiencia de la ignorancia, seguida por el conocimiento a través de la experiencia de dónde me desvié, para asegurar un éxito perfecto la próxima vez. . Vivimos en un universo de amor, un universo de comprensión y paciencia.
+En el camino hacia la perfección se espera que a veces fracase. Por momentos parecerá un fracaso, pero será pura y simplemente un retraso. En otras ocasiones será un fracaso; y como lo llamo fracaso, nuevamente vendrá la próxima oportunidad de, en este caso, tener éxito, habiendo tenido yo la maravillosa experiencia de la ignorancia, seguida por el conocimiento a través de la experiencia de dónde me desvié, para asegurar un éxito perfecto la próxima vez. Vivimos en un universo de amor, un universo de comprensión y paciencia.
 
 Y podría seguir y seguir durante 2097 páginas, pero hoy no tengo tiempo y por eso comparto con ustedes algunas de las verdades por las que hoy agradezco a nuestro Padre, y por las cuales lo amo muchísimo.
 

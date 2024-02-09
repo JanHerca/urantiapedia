@@ -152,7 +152,7 @@ Chris Moseley, Caversham, Berkshire, Reino Unido
 
 Gracias Curt Avery por su anuncio de televisión. Hablé con un cliente mío sobre El Libro URAVTIA. Parecía el principal candidato. Pero mis palabras no fueron de ayuda. ¡Así que leí su anuncio y compró una copia en el acto! Nh Padre... siempre tienes un as bajo la manga. Y gracias Curt, me encanta tu estilo.
 
-Emmanuel Lou, tus escritos son maravillosos y sorprendentes. A medida que presenta cada artículo que vincula _El Libro de URANTIA_ con las tradiciones chinas, no puedo evitar reflexionar sobre los religiosos que viajaron a la India para traer las escrituras budistas de regreso a la nación de China, como se describe en los cuentos del «Mono». . Seguramente será un gran momento en el planeta cuando el espíritu de _El Libro de URANTIA_ capture los corazones y las mentes de China.
+Emmanuel Lou, tus escritos son maravillosos y sorprendentes. A medida que presenta cada artículo que vincula _El Libro de URANTIA_ con las tradiciones chinas, no puedo evitar reflexionar sobre los religiosos que viajaron a la India para traer las escrituras budistas de regreso a la nación de China, como se describe en los cuentos del «Mono». Seguramente será un gran momento en el planeta cuando el espíritu de _El Libro de URANTIA_ capture los corazones y las mentes de China.
 
 Robert Crickett, Melbourne
 

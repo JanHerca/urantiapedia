@@ -59,7 +59,7 @@ Lo que llamamos canalización no es un fenómeno nuevo y se encuentra entre los 
 
 Cuando la «canalización» es una ilusión mental inducida por un mal funcionamiento de la electroquímica, en la actualidad el único tratamiento inmediatamente eficaz parece ser el de los fármacos adecuados. Sin embargo, incluso en algunos casos bastante graves, la remisión se produce de forma espontánea.
 
-Un gran peligro asociado con la «canalización» es cuando el canal tiene una personalidad carismática combinada con habilidades de actuación, oratoria y organización, en cuyo caso la locura comunicada puede convertirse en un problema muy real, ya que dichas personas pueden tener una influencia profunda y dañina en sus seguidores. .
+Un gran peligro asociado con la «canalización» es cuando el canal tiene una personalidad carismática combinada con habilidades de actuación, oratoria y organización, en cuyo caso la locura comunicada puede convertirse en un problema muy real, ya que dichas personas pueden tener una influencia profunda y dañina en sus seguidores.
 
 Un ejemplo bien conocido es el caso del reverendo Jones quien, afirmando haber sido instruido por Dios, indujo a cientos de asociados a cometer asesinatos y suicidios. Debido a los peligros involucrados, y dado que _El Libro de URANTIA_ aboga por una relación uno a uno tanto con nuestro Ajustador del Pensamiento como con el Espíritu de la Verdad de Jesús, es muy cuestionable que uno deba alguna vez desviar la atención hacia seres inferiores para nuestra guía.
 

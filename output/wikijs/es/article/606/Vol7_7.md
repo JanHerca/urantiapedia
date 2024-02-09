@@ -124,7 +124,7 @@ Creo que todo el mundo debería pagar una pequeña cantidad de dinero para cubri
 
 ¡Estás haciendo un gran trabajo! Incluyo cheque como respaldo de costo, material y envío.
 
-Creo que el Newsletter debería tener un número determinado de artículos. Quiero decir que en cada publicación tengas un artículo científico, noticias internacionales del _Libro de URANTIA_, la reflexión del mes, un rincón filosófico, interpretación y discusión de algunas citas, etc. Te hará el trabajo más fácil y más interesante para los lectores. . La organización es importante, es la cristalización dogmática la que constituye un peligro.
+Creo que el Newsletter debería tener un número determinado de artículos. Quiero decir que en cada publicación tengas un artículo científico, noticias internacionales del _Libro de URANTIA_, la reflexión del mes, un rincón filosófico, interpretación y discusión de algunas citas, etc. Te hará el trabajo más fácil y más interesante para los lectores. La organización es importante, es la cristalización dogmática la que constituye un peligro.
 
 Giampiero Pollicino, Costa Dorada, Pld.
 

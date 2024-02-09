@@ -39,7 +39,7 @@ _El Libro de URANTIA_ nos brinda una visión privilegiada de toda la vida de Jes
 
 Sabemos que Jesús era un estudiante bastante talentoso, pero no aprendía idiomas «extranjeros» por placer o ejercicio intelectual; eran una exigencia real de la vida cotidiana en el ambiente de Jesús. El <a id="a39_204"></a>[LU 123:3.1](/es/The_Urantia_Book/123#p3_1), cuando Jesús tiene 6 años, leemos:
 
-> «Ya Jesús, con la ayuda de su madre, dominaba el dialecto galileo de la lengua aramea; y ahora su padre empezó a enseñarle griego. María hablaba poco griego, pero José hablaba con fluidez tanto el arameo como el griego. El libro de texto para el estudio de la lengua griega era la copia de las Escrituras hebreas (una versión completa de la ley y los profetas, incluidos los Salmos) que les habían regalado al salir de Egipto. ..... Y en muy poco tiempo pudo leerlo fácilmente.»
+> «Ya Jesús, con la ayuda de su madre, dominaba el dialecto galileo de la lengua aramea; y ahora su padre empezó a enseñarle griego. María hablaba poco griego, pero José hablaba con fluidez tanto el arameo como el griego. El libro de texto para el estudio de la lengua griega era la copia de las Escrituras hebreas (una versión completa de la ley y los profetas, incluidos los Salmos) que les habían regalado al salir de Egipto..... Y en muy poco tiempo pudo leerlo fácilmente.»
 
 Jesús había perfeccionado más o menos su conocimiento de los dos idiomas principales a la edad de 7 años, como leemos en «Días escolares en Nazaret» el <a id="a43_152"></a>[LU 123:5.1](/es/The_Urantia_Book/123#p5_1),
 

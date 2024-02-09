@@ -68,7 +68,7 @@ Y ahí, aproximadamente, es donde se encuentra la mayoría del mundo occidental 
 
 Primero, debemos saber que existe una brecha de tamaño enorme entre el micromundo del átomo y ese mundo que normalmente consideramos microscópico, algo visible bajo un microscopio. Con un muy buen microscopio, las bacterias y otros organismos unicelulares pueden volverse visibles. Su tamaño está mayormente en el rango de 1-10 x 10^-4^ cm. Un átomo mide aproximadamente 10^-8^ cm; el núcleo de un átomo mide unos 10^-13^ cm; un electrón de unos 10^-21^ cm. (10^-6^ = 1 millonésima; 10^-9^ = 1 billonésima)
 
-Quizás nuestras primeras insinuaciones de las peculiaridades del mundo cuántico se produjeron a principios del siglo XIX cuando el británico Thomas Young obtuvo pruebas inequívocas de que la luz tenía características similares a las que se observan en un estanque de agua cuando los frentes de onda que emanan de diferentes perturbaciones se encuentran entre sí. . Donde se encuentran los picos de sus olas, se refuerzan. Cuando el valle se encuentra con el pico, se cancelan.
+Quizás nuestras primeras insinuaciones de las peculiaridades del mundo cuántico se produjeron a principios del siglo XIX cuando el británico Thomas Young obtuvo pruebas inequívocas de que la luz tenía características similares a las que se observan en un estanque de agua cuando los frentes de onda que emanan de diferentes perturbaciones se encuentran entre sí. Donde se encuentran los picos de sus olas, se refuerzan. Cuando el valle se encuentra con el pico, se cancelan.
 
 El concepto de Young de las características ondulatorias subyacentes de la luz dominó la física durante los siguientes cien años. Pero luego llegó el joven Einstein para lanzar un martillo en los trabajos con su interpretación del llamado efecto fotoeléctrico que implicaba que la luz también se comportaba como si consistiera en partículas. Resultó que tanto Young como Einstein tenían razón: la luz se comporta como onda y como partícula.
 
@@ -143,7 +143,7 @@ Llevado a una conclusión lógica, la no localidad implica la existencia de una 
 
 Aceptar que hay señales más rápidas que la luz en un reino trascendente en el que existen variables ocultas. O renuncias a la objetividad fuerte o bien aceptas un papel para la conciencia del observador. Barra el trabajo de Bell-Aspect debajo de la alfombra.
 
-Los resultados de Bell-Aspect y su confirmación independiente ocurrieron hace más de 20 años. Y aunque destruyeron los cimientos del materialismo, pueden dar sentido a la vida, incluso abrir el camino hacia Dios, y son, con mucho, los logros más significativos de la ciencia cuántica para la humanidad hasta el día de hoy; sin embargo, siguen siendo ignorados y casi desconocidos. .
+Los resultados de Bell-Aspect y su confirmación independiente ocurrieron hace más de 20 años. Y aunque destruyeron los cimientos del materialismo, pueden dar sentido a la vida, incluso abrir el camino hacia Dios, y son, con mucho, los logros más significativos de la ciencia cuántica para la humanidad hasta el día de hoy; sin embargo, siguen siendo ignorados y casi desconocidos.
 
 ### Lo que creen la mayoría de los físicos cuánticos
 
@@ -440,7 +440,7 @@ Por lo tanto, concluimos que los conceptos del idealismo monista y los pensamien
 
 > La mente cósmica abarca todos los niveles de la mente finita y se coordina experiencialmente con los niveles de la deidad evolutiva de la Mente Suprema, coordinándose trascendentalmente con los niveles existenciales de la mente absoluta —con los circuitos directos del Actor Conjunto. (<a id="a440_288"></a>[LU 42:10.6](/es/The_Urantia_Book/42#p10_6))
 
-> La mente siempre conlleva la actividad y la presencia de un ministerio viviente además de los diversos sistemas energéticos, y esto es así en todos los niveles y en todos los tipos de mente. Pero más allá de la mente cósmica, las relaciones de la mente con la energía no espiritual se vuelven cada vez más difíciles de describir. ... La mente paradisiaca está más allá de la comprensión humana; es existencial, no espacial y no temporal. (<a id="a442_441"></a>[LU 42:10.7](/es/The_Urantia_Book/42#p10_7))
+> La mente siempre conlleva la actividad y la presencia de un ministerio viviente además de los diversos sistemas energéticos, y esto es así en todos los niveles y en todos los tipos de mente. Pero más allá de la mente cósmica, las relaciones de la mente con la energía no espiritual se vuelven cada vez más difíciles de describir... La mente paradisiaca está más allá de la comprensión humana; es existencial, no espacial y no temporal. (<a id="a442_441"></a>[LU 42:10.7](/es/The_Urantia_Book/42#p10_7))
 
 > En el mundo espiritual, la fe transmuta los potenciales en actuales, pero los potenciales sólo se vuelven actuales, en los reinos finitos del Supremo, llevando a cabo la experiencia de la elección y a través de ella. (<a id="a444_220"></a>[LU 110:6.17](/es/The_Urantia_Book/110#p6_17)) [Nota: el Supremo es el Dios finito de lo finito.]
 

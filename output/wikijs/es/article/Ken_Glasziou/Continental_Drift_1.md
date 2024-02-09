@@ -53,7 +53,7 @@ Pero además del hecho de la ruptura de los continentes, existía evidencia secu
 
 ## Contenido
 
-Al detallar su relato de la evolución de la vida y la tierra en nuestro planeta en los documentos de Urantia [57](/es/The_Urantia_Book/57), [58](/es/The_Urantia_Book/58), [59](/es/The_Urantia_Book/59) y [60](/es/The_Urantia_Book/60), los autores han abrazado de todo corazón el concepto de deriva continental, una idea promovida por primera vez por Alfred Wegener en 1910. Quite la deriva continental de estos cuatro Documentos y colapsarán como un montón algo desordenado. .
+Al detallar su relato de la evolución de la vida y la tierra en nuestro planeta en los documentos de Urantia [57](/es/The_Urantia_Book/57), [58](/es/The_Urantia_Book/58), [59](/es/The_Urantia_Book/59) y [60](/es/The_Urantia_Book/60), los autores han abrazado de todo corazón el concepto de deriva continental, una idea promovida por primera vez por Alfred Wegener en 1910. Quite la deriva continental de estos cuatro Documentos y colapsarán como un montón algo desordenado.
 
 Durante el período en el que se recibieron y publicaron los Documentos de Urantia (1921-1956), el concepto de deriva continental se mantuvo tenuemente y por muy pocos geólogos. Se afirmó que la antipatía hacia el concepto había sido particularmente fuerte en los Estados Unidos. Esta antipatía duró desde principios de la década de 1920 hasta bien entrado el período de 1960.
 

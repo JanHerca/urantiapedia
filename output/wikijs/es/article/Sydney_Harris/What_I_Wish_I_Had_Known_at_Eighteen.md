@@ -35,7 +35,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 
 - Que cada día marca una bifurcación en el camino, de alguna manera; y que para cuando llega la gran bifurcación, ya hemos tomado tantas pequeñas decisiones que no nos queda otra opción real en el giro crucial.
-- Que es más fácil sentir que pensar, y más fácil sentir odio que sentir amor, y más fácil actuar sobre el odio que actuar sobre el amor, y debemos resistir el camino más fácil cada centímetro del camino todos los días de nuestras vidas. .
+- Que es más fácil sentir que pensar, y más fácil sentir odio que sentir amor, y más fácil actuar sobre el odio que actuar sobre el amor, y debemos resistir el camino más fácil cada centímetro del camino todos los días de nuestras vidas.
 - Que debemos ser firmemente resistentes a las ideas que creemos que son incorrectas, pero inmensamente tolerantes con las personas que sostienen tales ideas, nunca por un momento confundiendo a la persona con la idea, que es el pecado acosador de la intolerancia en todas sus múltiples formas.
 - Que cada vez que usamos a una persona para nuestro propio fin, ignorando sus necesidades, nos disminuimos más a nosotros mismos que a ella, pues la suya es una herida que puede sanar, mientras que la nuestra es una amputación que no puede volver a crecer.
 - Que nuestras diferencias son superficiales y nuestras similitudes profundas; y aquellos que tienen miedo de reconocer las similitudes se ven obligados a vivir y morir por las diferencias.

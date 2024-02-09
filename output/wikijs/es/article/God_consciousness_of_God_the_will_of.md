@@ -36,7 +36,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 ## La conciencia de Dios
 
-La existencia de Dios está absolutamente más allá de toda posibilidad de demostración excepto por el contacto entre la conciencia de Dios de la mente humana y la presencia del Espíritu de Dios que mora en el intelecto mortal y se le otorga al hombre como el regalo gratuito del Padre Universal. .
+La existencia de Dios está absolutamente más allá de toda posibilidad de demostración excepto por el contacto entre la conciencia de Dios de la mente humana y la presencia del Espíritu de Dios que mora en el intelecto mortal y se le otorga al hombre como el regalo gratuito del Padre Universal.
 
 Si los seres mortales están motivados espiritualmente de todo corazón, consagrados sin reservas a hacer la voluntad del Padre, entonces, dado que están dotados espiritualmente con tanta certeza y eficacia por el Espíritu divino que mora en ellos, no puede dejar de materializarse en la experiencia del individuo lo sublime la conciencia de conocer a Dios y la suprema seguridad de sobrevivir con el propósito de encontrar a Dios por la experiencia progresiva de llegar a ser cada vez más como él.
 

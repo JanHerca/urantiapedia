@@ -70,7 +70,7 @@ Así, a estos alejandrinos se les dijo que proclamaran el evangelio de amor y ve
 
 > La más pequeña buena acción vale infinitamente más que la mayor intención.
 
-> La gran misión que debes realizar y experimentar en la encarnación mortal está contenida en tu decisión de vivir una vida totalmente dedicada a hacer la voluntad de tu Padre Paradisiaco, y así revelar a Dios, tu Padre, ... a las criaturas de la carne... . Demuestra en tu corta y única vida en la carne, como nunca antes se ha visto en todo Nebadon, las posibilidades trascendentes **que puede alcanzar** un humano que conoce a Dios durante la breve carrera de la existencia mortal. (<a id="a72_486"></a>[LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
+> La gran misión que debes realizar y experimentar en la encarnación mortal está contenida en tu decisión de vivir una vida totalmente dedicada a hacer la voluntad de tu Padre Paradisiaco, y así revelar a Dios, tu Padre, ... a las criaturas de la carne... Demuestra en tu corta y única vida en la carne, como nunca antes se ha visto en todo Nebadon, las posibilidades trascendentes **que puede alcanzar** un humano que conoce a Dios durante la breve carrera de la existencia mortal. (<a id="a72_486"></a>[LU 120:2.8](/es/The_Urantia_Book/120#p2_8))
 > _Emanuel a Jesús_
 
 Sólo a aquellos con un conocimiento y una comprensión adecuados de la vida de Jesús, y de cómo él la vivió como una vida de amor y servicio a sus semejantes, se les podría pedir razonablemente que «prediquen» el evangelio por medio de la vida que ellos mismos viven. Probablemente por eso los reveladores nos han informado:

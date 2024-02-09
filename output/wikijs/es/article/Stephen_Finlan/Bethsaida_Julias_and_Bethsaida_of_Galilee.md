@@ -109,7 +109,7 @@ El erudito talmúdico convertido al cristianismo, Alfred Edersheim,[^14] explic�
 
 Esto sitúa a Betsaida de Galilea en la vecindad de los pueblos más frecuentados por Jesús y los apóstoles; procediendo de norte a sur, tenemos Cafarnaúm, Betsaida, Genesaret y Magdala. De estos pueblos provienen la mayoría de aquellos discípulos cuyos lugares de origen conocemos.
 
-En este sentido, parece poco probable que Jesús estuviera condenando a este pueblo solidario cuando dijo: «¡Ay de ti, Corazín! . . Betsaida... Cafarnaúm» ([Lc 10,13-15](/es/Bible/Luke/10#v13); [Mt 11,21](/es/Bible/Matthew/11#v21)). Lo más probable es que estuviera condenando a tres pueblos bastante acomodados cuyos habitantes orgullosos y conscientes de su estatus despreciaron su mensaje.
+En este sentido, parece poco probable que Jesús estuviera condenando a este pueblo solidario cuando dijo: «¡Ay de ti, Corazín! . Betsaida... Cafarnaúm» ([Lc 10,13-15](/es/Bible/Luke/10#v13); [Mt 11,21](/es/Bible/Matthew/11#v21)). Lo más probable es que estuviera condenando a tres pueblos bastante acomodados cuyos habitantes orgullosos y conscientes de su estatus despreciaron su mensaje.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Stephen_Finlan/005517.jpg">

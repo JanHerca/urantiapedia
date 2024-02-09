@@ -80,7 +80,7 @@ Además, el universo viviente es una creación con propósito, una empresa diná
 
 Este Dios finito, esta superalma de la creación en evolución—el «_Ser Supremo_»—se está expresando y actualizando en, a través y como nosotros. Nuestras decisiones y nuestras acciones repercuten en el crecimiento del Supremo. Al mismo tiempo, esta conciencia del cosmos nos alinea con una trayectoria progresiva y de largo alcance, comenzando desde una Fuente absoluta y extendiéndose hacia un Destino infinito. Y cada una de estas líneas de vida eterna traza un escenario futuro glorioso de logros espirituales triunfantes e interminables para cada uno de nosotros, a medida que continuamos por siempre, explorando eternamente la realidad de Dios con nuestro socio fiel, el Ajustador.
 
-Un Mensajero Poderoso revela: «_En la mente de Dios hay **un plan** que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ... con tal que os esforcéis por alcanzarlos!._» <a id="a82_298"></a>[[LU 32:5.7](/es/The_Urantia_Book/32#p5_7)] (Énfasis mío).
+Un Mensajero Poderoso revela: «_En la mente de Dios hay **un plan** que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin... con tal que os esforcéis por alcanzarlos!._» <a id="a82_298"></a>[[LU 32:5.7](/es/The_Urantia_Book/32#p5_7)] (Énfasis mío).
 
 Sí, mis amigos, no se equivoquen, nuestro arduo ascenso del caos a la gloria ciertamente implicará esfuerzo; porque «_La humanidad no asciende sin esfuerzo en el universo._» <a id="a84_174"></a>[[LU 117:4.7](/es/The_Urantia_Book/117#p4_7)] (Énfasis mío).
 
@@ -92,7 +92,7 @@ A continuación, Jesús se dirigió tanto a la gente de su tiempo como a la nues
 
 Hoy, y en nuestro mundo, la presencia de miles de millones de Ajustadores del Pensamiento que moran en los pueblos de nuestro planeta forman la base y establecen la realidad del «_reino de los cielos en la tierra_» de Jesús. La hermandad espiritual del hombre es un hecho, presente. día realidad AHORA. Nuestra tarea es unirnos a las fuerzas y ministros del planeta y del universo en el esfuerzo conjunto de _despertar a toda la humanidad a su herencia divina como hijos del Padre Universal_.
 
-Las abundantes poblaciones de nuestro planeta, dijo Jesús, necesitan saber que son hijos e hijas de un Dios que todo lo ama, todo lo sabe y que tiene un propósito eterno, un Dios que los toma en serio y desea que ellos lo tomen a él en serio. . Hay un plan general y una tarea individual para cada uno, algo que todos pueden hacer. ¿Qué haremos?
+Las abundantes poblaciones de nuestro planeta, dijo Jesús, necesitan saber que son hijos e hijas de un Dios que todo lo ama, todo lo sabe y que tiene un propósito eterno, un Dios que los toma en serio y desea que ellos lo tomen a él en serio. Hay un plan general y una tarea individual para cada uno, algo que todos pueden hacer. ¿Qué haremos?
 
 Los Ajustadores del Pensamiento también juegan un papel vital en la realización del reino divino de Jesús en la tierra; en realidad, ellos son el secreto de su realización. Jesús enseñó que cuando compartimos las buenas nuevas con nuestros semejantes, debemos dirigirnos directamente a ese espíritu interior, el Ajustador residente, profundamente sumergido en la mente y el alma de cada uno de nuestros candidatos al reino.
 

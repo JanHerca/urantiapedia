@@ -36,7 +36,7 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Dispersos por todo el componente científico encontramos afirmaciones bastante proféticas. Esta inclusión es coherente con una declaración del mandato (<a id="a36_151"></a>[LU 101:4.8](/es/The_Urantia_Book/101#p4_8)) de que se permitía la provisión de fragmentos clave de conocimiento esencial u olvidado. Sin embargo, la inclusión de esta información esotérica contrasta extrañamente con gran parte de la otra ciencia en el libro que habrían conocido incluso los estudiantes de secundaria de la década de 1930, cuando se recibieron los Documentos por primera vez.
 
-El mandato tiene estas declaraciones: «_... los futuros estudiantes de tal revelación están tentados a descartar... él... porque descubren errores... .No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años... La cosmología de estas revelaciones no es inspirada._» (<a id="a38_307"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
+El mandato tiene estas declaraciones: «_... los futuros estudiantes de tal revelación están tentados a descartar... él... porque descubren errores...No tenemos libertad para anticipar los descubrimientos científicos que se producirán en mil años... La cosmología de estas revelaciones no es inspirada._» (<a id="a38_307"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2))
 
 No debemos desanimarnos por los errores percibidos en la cosmología (que incluye la ciencia). Hemos sido advertidos: la verdad está donde la encuentras.
 

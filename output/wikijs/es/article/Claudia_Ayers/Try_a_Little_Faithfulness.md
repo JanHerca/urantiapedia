@@ -79,7 +79,7 @@ La mayoría de la gente siente que ahora estamos viviendo tiempos particularment
 
 A nosotros, los hijos de Dios, se nos ha dado un plan de ascensión que comienza aquí en nuestro planeta evolutivo nativo. El nombre celestial de nuestro planeta es Urantia; hay muchos millones de otros planetas habitados que comparten el cosmos con nosotros. Cuando dejamos atrás nuestros cuerpos mortales, estamos destinados a retomar la vida en el siguiente nivel en cuerpos nuevos y brillantes. Haremos esto repetidamente, a través de una larga serie de pasos evolutivos que transformarán nuestros seres físicos en formas espirituales. Siempre somos nosotros mismos; no nos reencarnamos como otra persona; eso sería un plan extraño y confuso si lo piensas bien.
 
-> La prueba del tiempo casi ha terminado; la carrera hacia la eternidad casi ha concluido. Los días de incertidumbre están finalizando; la tentación de la duda se desvanece. ... Desde el fondo mismo de la existencia inteligente, la criatura del tiempo y con una personalidad material ha ascendido las esferas evolutivas del espacio, mostrando así la viabilidad del plan de ascensión y demostrando para siempre la justicia y la rectitud del mandato del Padre Universal a sus humildes criaturas de los mundos: «Sed perfectos como yo soy perfecto». (<a id="a81_547"></a>[LU 26:9.3](/es/The_Urantia_Book/26#p9_3))
+> La prueba del tiempo casi ha terminado; la carrera hacia la eternidad casi ha concluido. Los días de incertidumbre están finalizando; la tentación de la duda se desvanece... Desde el fondo mismo de la existencia inteligente, la criatura del tiempo y con una personalidad material ha ascendido las esferas evolutivas del espacio, mostrando así la viabilidad del plan de ascensión y demostrando para siempre la justicia y la rectitud del mandato del Padre Universal a sus humildes criaturas de los mundos: «Sed perfectos como yo soy perfecto». (<a id="a81_547"></a>[LU 26:9.3](/es/The_Urantia_Book/26#p9_3))
 
 Los escépticos religiosos solían argumentar que cualquiera con dos dedos de frente debería darse cuenta de que Dios no existe. La mente científica apenas puede contemplar la transferencia de la existencia de una persona a algún «cielo» lejano en «el cielo». Pero ahora hay todo tipo de estudios y discusiones científicas que sugieren que el cerebro humano está «programado» para la «experiencia religiosa». Si eso es así, como creo ahora, podemos entender mejor cómo una comprensión científica del cerebro puede conducir a experiencias espirituales que pueden ser «llevadas» a una «vida después de la muerte».
 
@@ -124,7 +124,7 @@ En mi carrera principal como educador, me guió enormemente una sola frase de es
 
 > En la mente de Dios hay un plan que incluye a todas las criaturas de todos sus inmensos dominios, y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos! (<a id="a124_327"></a>[LU 32:5.7](/es/The_Urantia_Book/32#p5_7))
 
-En esta presencia déjame ser. . siempre llamando a la puerta del cielo.
+En esta presencia déjame ser. siempre llamando a la puerta del cielo.
 
 ## Enlaces externos
 

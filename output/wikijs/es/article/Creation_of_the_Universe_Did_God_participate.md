@@ -46,7 +46,7 @@ Es una hazaña verdaderamente notable de nuestro cerebro que podemos hacer incon
 
 Esta notable habilidad es obviamente una función innata de la mente que se remonta a la evolución de los mundos animal e insecto del pasado, y es un atributo de supervivencia esencial tanto para el depredador como para la presa. Y todo debe construirse a partir de la información almacenada en nuestros recuerdos de experiencias previas relacionadas.
 
-Entonces, ¿cuáles son los nuevos experimentos que merecen nuestro elogio y aprecio? Los que actualmente nos interesan se han llevado a cabo principalmente para descubrir hasta qué punto se pueden preservar ciertos fenómenos cuánticos extraños a medida que se aumenta el tamaño del objeto en estudio desde el submicroscópico para abarcar el mundo «real», el que realmente podemos tocar. , sentir, ver y oler.[^2]
+Entonces, ¿cuáles son los nuevos experimentos que merecen nuestro elogio y aprecio? Los que actualmente nos interesan se han llevado a cabo principalmente para descubrir hasta qué punto se pueden preservar ciertos fenómenos cuánticos extraños a medida que se aumenta el tamaño del objeto en estudio desde el submicroscópico para abarcar el mundo «real», el que realmente podemos tocar, sentir, ver y oler.[^2]
 
 Una de las diferencias aparentes clave entre el mundo clásico familiar que habitamos y el extraño mundo cuántico es el fenómeno de la «superposición»: la capacidad de los objetos cuánticos de existir en dos estados diferentes, como onda y partícula, pero al mismo tiempo.
 

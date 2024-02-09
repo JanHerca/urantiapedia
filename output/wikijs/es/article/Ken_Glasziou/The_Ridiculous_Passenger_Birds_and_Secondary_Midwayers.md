@@ -44,7 +44,7 @@ Consideremos primero las «aves de pasajeros». Los Documentos tienen a estas in
 
 ¿Puedes ceerlo? ¿Pájaros inteligentes, capaces de hablar el idioma del reino, despegar y aterrizar con una carga útil de 2 hombres y, además, volar 500 millas sin parar con esa misma carga útil? Deben estar bromeando.
 
-Un segundo ejemplo de llevar deliberadamente la credulidad humana más allá de todos los límites razonables es el origen de esas criaturas invisibles conocidas como los intermedios secundarios. Sus abuelos son Adamson y Ratta, ambos etiquetados como pertenecientes a un tipo de ser sobrehumano que se veía y actuaba «normal» y podía cruzarse con humanos comunes; por lo tanto, se emparejaron genéticamente con nosotros y calificarían como la misma especie que nosotros. .
+Un segundo ejemplo de llevar deliberadamente la credulidad humana más allá de todos los límites razonables es el origen de esas criaturas invisibles conocidas como los intermedios secundarios. Sus abuelos son Adamson y Ratta, ambos etiquetados como pertenecientes a un tipo de ser sobrehumano que se veía y actuaba «normal» y podía cruzarse con humanos comunes; por lo tanto, se emparejaron genéticamente con nosotros y calificarían como la misma especie que nosotros.
 
 Sin embargo, los documentos hacen que esta notable pareja se case y luego tenga sesenta y siete hijos. ¡Todo parecía normal excepto que uno de cada cuatro nació **invisible**! Adamson, aparentemente con una inclinación científica y notando que había ocho machos y ocho hembras entre los dieciséis descendientes invisibles, los emparejó y se embarcó en un programa de cría para ver qué pasaba.
 

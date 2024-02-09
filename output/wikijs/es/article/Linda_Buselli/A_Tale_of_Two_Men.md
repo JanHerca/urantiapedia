@@ -70,7 +70,7 @@ Para cualquier persona interesada en una discusión más moderna de la jornada e
 
 Se inspiró en el hermano Laurence, y en su libro _Practicing His Presence_, da un relato interesante de sus experiencias en el desarrollo de una conciencia constante de Dios. Él tiene muchas sugerencias para comenzar el hábito de mantener una conversación con Él. Aquí hay solo una fracción de lo que tiene que decir:
 
-> «Si te echas atrás para considerar algún problema, ¿cómo puedes acordarte del Señor? Formando un nuevo hábito. Todo pensamiento emplea palabras silenciosas y es realmente una conversación con tu yo interior. En lugar de hablar contigo mismo, forma el hábito de hablar con Cristo. Algunos de nosotros que hemos hecho esto lo encontramos mucho mejor que nunca más deseamos lo contrario. ...Él habita en nosotros, camina en nuestras mentes, se extiende a través de nuestras manos, habla con nuestras voces, si respondemos a cada uno de Sus susurros».
+> «Si te echas atrás para considerar algún problema, ¿cómo puedes acordarte del Señor? Formando un nuevo hábito. Todo pensamiento emplea palabras silenciosas y es realmente una conversación con tu yo interior. En lugar de hablar contigo mismo, forma el hábito de hablar con Cristo. Algunos de nosotros que hemos hecho esto lo encontramos mucho mejor que nunca más deseamos lo contrario...Él habita en nosotros, camina en nuestras mentes, se extiende a través de nuestras manos, habla con nuestras voces, si respondemos a cada uno de Sus susurros».
 
 Muchas de sus declaraciones reflejan algunas de _El Libro de Urantia_. Por ejemplo:
 
@@ -108,7 +108,7 @@ Esta sencilla práctica requiere sólo una suave presión de la voluntad, no má
 
 Sin embargo, transforma la vida en el cielo. Todo el mundo adquiere una nueva riqueza, y todo el mundo parece teñido de gloria. Por supuesto, no sé lo que otros piensan de mí, pero la alegría que tengo dentro no se puede describir. Si nunca hubiera otra recompensa que esa, me justificaría con creces la práctica.
 
->  Incluso para acercarse al conocimiento de una personalidad divina, el hombre debe consagrar enteramente a ese esfuerzo todos los dones de su personalidad; una devoción parcial y poco entusiasta será ineficaz. ...  Podéis discutir sobre las opiniones acerca de Dios, pero la experiencia con él y en él existe por encima y más allá de toda controversia humana y de la simple lógica intelectual. <a id="a110_396"></a>[[LU 1:6.5-6](/es/The_Urantia_Book/1#p6_5)]
+>  Incluso para acercarse al conocimiento de una personalidad divina, el hombre debe consagrar enteramente a ese esfuerzo todos los dones de su personalidad; una devoción parcial y poco entusiasta será ineficaz...  Podéis discutir sobre las opiniones acerca de Dios, pero la experiencia con él y en él existe por encima y más allá de toda controversia humana y de la simple lógica intelectual. <a id="a110_396"></a>[[LU 1:6.5-6](/es/The_Urantia_Book/1#p6_5)]
 
 He tratado de proponer algunas sugerencias basadas en experiencias personales y de amigos. Aquí pueden ser necesarias algunas definiciones. Por ejemplo, generalmente se entiende que la meditación implica silenciar el pensamiento para que el Ajustador pueda comunicarse con el individuo. El proceso que sugieren el hermano Laurence y Frank Laubach, más que un vaciado de la mente, es un llenado consciente de la mente con la presencia de Dios. Todos definen la meditación de acuerdo con la forma en que la expresan personalmente, incluida la conversación, por lo que las expectativas varían entre los individuos.
 

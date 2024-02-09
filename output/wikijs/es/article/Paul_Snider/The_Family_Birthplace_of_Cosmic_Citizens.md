@@ -186,7 +186,7 @@ El verdadero historiador te diría esto. Sí, Canuto llevó su silla del trono a
 
 Canuto estaba enojado por los constantes halagos de quienes lo rodeaban. Seguían diciéndole que era tan poderoso que era capaz de cualquier logro. Necesitaba enseñarles una lección que nunca olvidarían.
 
-Después de ordenar que el mar retrocediera y mojarse los pies, Canuto dijo entonces: «Que todos sepan cuán vacío e inútil es el poder de los reyes, porque no hay nadie digno de ese nombre sino Aquel a quien el cielo, la tierra y el mar obedecen por leyes eternas. .»
+Después de ordenar que el mar retrocediera y mojarse los pies, Canuto dijo entonces: «Que todos sepan cuán vacío e inútil es el poder de los reyes, porque no hay nadie digno de ese nombre sino Aquel a quien el cielo, la tierra y el mar obedecen por leyes eternas.»
 
 Después, Canuto nunca más usó su corona. En cambio, la colgó en la catedral de Winchester.
 

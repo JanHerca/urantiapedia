@@ -64,7 +64,7 @@ A pesar de los esfuerzos de los eruditos y maestros, se ha logrado poco progreso
 
 ## ¿Qué pueden aportar los urantianos?
 
-Una posible forma de cambiar la situación actual puede ser una nueva edición con una introducción al libro que explique lo que los propios reveladores han declarado sobre los Documentos. Tal introducción tendría que ser lo suficientemente contundente para superar el estigma ya ganado por las actitudes anteriores. Y si simplemente estimuló el interés suficiente para inducir a leer la historia de Jesús y otros artículos clave, como los que tratan sobre la naturaleza de Dios y el papel de los Ajustadores del Pensamiento, la revelación podría comenzar a tener el efecto que sus autores parecen haber esperado. .
+Una posible forma de cambiar la situación actual puede ser una nueva edición con una introducción al libro que explique lo que los propios reveladores han declarado sobre los Documentos. Tal introducción tendría que ser lo suficientemente contundente para superar el estigma ya ganado por las actitudes anteriores. Y si simplemente estimuló el interés suficiente para inducir a leer la historia de Jesús y otros artículos clave, como los que tratan sobre la naturaleza de Dios y el papel de los Ajustadores del Pensamiento, la revelación podría comenzar a tener el efecto que sus autores parecen haber esperado.
 
 Parece posible que este tipo de enfoque pueda, a corto plazo, resultar en una disminución de las ventas del libro. Se da una advertencia de esta posibilidad en la cita utilizada de la p. 1008. Evidentemente, los reveladores no se preocupan tanto por la venta de libros como por el bien que pueda lograr la revelación.
 

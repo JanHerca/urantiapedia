@@ -195,7 +195,7 @@ El hecho de que tal libertad haya permitido no solo una gran bondad, sino tambi�
 
 \*\*\*
 
-**(C)** La realidad del bien y del mal es el yunque sobre el que se aplastan muchas almas buenas, especialmente cuando han sido víctimas involuntarias del mal y la injusticia. Cuando observamos las injusticias de los últimos dos milenios, a menudo en nombre de la religión, no sorprende que haya una gran desesperación. Cuando las palabras y el espíritu de la revelación penetran en los rincones del alma, se comprende cada vez más que el universo es realmente amistoso, que las fuerzas divinas del universo están del lado del individuo moralmente sensible, que el mal es, en última instancia, irreal. ; *¡Mientras no se elija, no existe!* ¡Esa realización es muy profunda y conduce al alma dispuesta en el camino de la fe y la confianza del bien eterno!
+**(C)** La realidad del bien y del mal es el yunque sobre el que se aplastan muchas almas buenas, especialmente cuando han sido víctimas involuntarias del mal y la injusticia. Cuando observamos las injusticias de los últimos dos milenios, a menudo en nombre de la religión, no sorprende que haya una gran desesperación. Cuando las palabras y el espíritu de la revelación penetran en los rincones del alma, se comprende cada vez más que el universo es realmente amistoso, que las fuerzas divinas del universo están del lado del individuo moralmente sensible, que el mal es, en última instancia, irreal; *¡Mientras no se elija, no existe!* ¡Esa realización es muy profunda y conduce al alma dispuesta en el camino de la fe y la confianza del bien eterno!
 
 \*\*\*\*\*\*\*
 

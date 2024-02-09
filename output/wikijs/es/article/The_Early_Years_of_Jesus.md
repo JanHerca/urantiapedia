@@ -44,7 +44,7 @@ Los Evangelios nos cuentan que el nacimiento de Jesús tuvo lugar en Belén, don
 
 Más tarde, muerto Herodes, un ángel del Señor se apareció de nuevo a José en sueños y le dijo: Levántate, toma al niño y a su madre, y vete a la tierra de Israel. Porque muertos son los que buscaban la vida del niño.” ([Mateo 2](/es/bible/Matthew/2); [Lucas 2](/es/bible/Luke/2)). Finalmente José, María y Jesús se establecieron en Nazaret.
 
-Fuera de esta escena del nacimiento y la estancia en Egipto, todo lo que sabemos con certeza sobre la vida temprana de Jesús en Nazaret está contenido en un solo versículo del Evangelio de Lucas: «*Y el niño crecía y se fortalecía en espíritu, lleno de sabiduría. , y la gracia de Dios estaba sobre él*.»
+Fuera de esta escena del nacimiento y la estancia en Egipto, todo lo que sabemos con certeza sobre la vida temprana de Jesús en Nazaret está contenido en un solo versículo del Evangelio de Lucas: «*Y el niño crecía y se fortalecía en espíritu, lleno de sabiduría, y la gracia de Dios estaba sobre él*.»
 
 De Jesús como un joven adolescente estamos nuevamente en deuda con Lucas para obtener más detalles. Todos los años, José y María asistían a la fiesta anual de la Pascua en Jerusalén. Cuando Jesús tenía doce años y era hora de regresar de Jerusalén a Nazaret junto con un grupo de parientes, Jesús se quedó atrás accidentalmente. Pero el hecho de que estaba desaparecido no se notó hasta que el grupo había viajado un día completo.
 

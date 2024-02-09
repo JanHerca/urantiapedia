@@ -104,7 +104,7 @@ Pero añade una nueva dimensión. **Evitará cualquier uso realista a largo plaz
 <figcaption><em>Origen del Sistema Tierra-Luna según _El Libro de Urantia</em>. (<a href="/es/The_Urantia_Book/57#p7_4">LU 57:7.4</a> y siguientes)</figcaption>
 </figure>
 
-Fig. 1. . (págs.658-660)
+Fig. 1. (págs.658-660)
 
 
 

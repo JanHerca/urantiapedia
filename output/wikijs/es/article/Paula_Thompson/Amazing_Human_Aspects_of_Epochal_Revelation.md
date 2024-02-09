@@ -75,7 +75,7 @@ Pensé que podría ser útil echar un vistazo a las cinco Revelaciones de época
 
 ## La Primera Revelación de Época: Las Enseñanzas de Dalamatia
 
-> El verdadero concepto de la Fuente-Centro Primera fue promulgado por primera vez en Urantia por los cien miembros corpóreos del estado mayor del Príncipe Caligastia. Esta revelación creciente de la Deidad duró más de trescientos mil años, hasta que fue interrumpida repentinamente por la secesión planetaria y la ruptura del régimen educativo. ... <a id="a77_350"></a>[[LU 92:4.5](/es/The_Urantia_Book/92#p4_5)]
+> El verdadero concepto de la Fuente-Centro Primera fue promulgado por primera vez en Urantia por los cien miembros corpóreos del estado mayor del Príncipe Caligastia. Esta revelación creciente de la Deidad duró más de trescientos mil años, hasta que fue interrumpida repentinamente por la secesión planetaria y la ruptura del régimen educativo... <a id="a77_350"></a>[[LU 92:4.5](/es/The_Urantia_Book/92#p4_5)]
 
 _Las fuentes humanas de la Primera Revelación de Época_ consistían en ciudadanos voluntarios de la capital del sistema, ninguno de los cuales se había fusionado con sus Ajustadores del Pensamiento residentes. Fueron provistos de formas de personalidad de naturaleza dual del servicio planetario especial, cuerpos literales que consisten en carne y sangre _pero también en sintonía con los circuitos de vida del sistema_.
 
@@ -111,7 +111,7 @@ La prueba de fe para los humanos que experimentaron esta revelación fue creer o
 
 Jesús también fue hecho en semejanza de carne humana. De hecho, se tuvo mucho cuidado al seleccionar a sus padres humanos y su estado mortal. Debía ser accesible en todos los sentidos a los humanos, y de hecho lo era. Creo que ni siquiera necesito discutir cómo Jesús salvó la brecha entre la perfección y la imperfección. Sin embargo, baste decir que si no se hubiera convertido en un ser humano como todos nosotros, difícilmente podría haber hecho que la mano de Dios fuera lo suficientemente pequeña como para agarrarla. Nuevamente, su humanidad fue crucial para el éxito de su revelación. Aun así, incorporó los métodos emisario y misionero para difundir sus enseñanzas. Algunos de sus misioneros, como Pablo, ni siquiera lo conocieron personalmente. Pero los intermedios nos dicen que sin fuentes tan imperfectas como Pablo, el cristianismo no se habría extendido tan fácilmente por todo el mundo.
 
-¿Cuál fue la prueba de fe para los humanos de la Cuarta Revelación de Época? Bueno, tenían que creer que este hombre que creció en su vecindario, fue a la misma escuela y sinagoga que ellos, provenía de una familia numerosa de personas bastante promedio que sufrieron algunos problemas bastante trágicos, era realmente el Hijo de Dios. ? Piénsalo... ¿Le creerías si te dijera que es el Hijo de Dios?
+¿Cuál fue la prueba de fe para los humanos de la Cuarta Revelación de Época? Bueno, tenían que creer que este hombre que creció en su vecindario, fue a la misma escuela y sinagoga que ellos, provenía de una familia numerosa de personas bastante promedio que sufrieron algunos problemas bastante trágicos, era realmente el Hijo de Dios? Piénsalo... ¿Le creerías si te dijera que es el Hijo de Dios?
 
 ## La Quinta Revelación de Época: Los Documentos de Urantia
 

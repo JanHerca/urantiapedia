@@ -40,7 +40,7 @@ Tarde o temprano, los lectores de _El Libro de Urantia_ tendrán que prestar ate
 
 Se asigna una alta prioridad a hacer que el cristianismo regrese de su estado actual de religión autoritaria a lo que siempre tuvo que ser: una religión del espíritu centrada en la relación entre el individuo, el Espíritu de la Verdad y el Padre Espíritu interior. Esta prioridad se enfatiza en al menos diez párrafos en los Documentos, tales como:
 
-> «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres... .»(<a id="a42_294"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
+> «En verdad, el cristianismo ha hecho un gran servicio a este mundo, pero a quien más se necesita ahora es a Jesús. El mundo necesita ver a Jesús viviendo de nuevo en la Tierra en la experiencia de los mortales nacidos del espíritu que revelan el Maestro eficazmente a todos los hombres...»(<a id="a42_294"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1))
 
 Los lectores del Libro de Urantia que ya se han tomado esta tarea en serio han aprendido mucho sobre lo que es poco probable que logre mucho en el camino del éxito a largo plazo.
 

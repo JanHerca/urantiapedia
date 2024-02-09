@@ -54,7 +54,7 @@ Este amor de Dios es precisamente lo que sintieron los primeros cristianos. Se c
 
 Los primeros cristianos encontraron tan sorprendente este amor y el hecho de que realmente hubiera entrado en sus vidas, que tuvieron que pedir ayuda para describirlo. Pablo, al cerrar uno de los primeros sermones registrados sobre las Buenas Nuevas, volvió a las palabras de uno de los profetas: «Mirad esto, almas desdeñosas, y quedaos maravillados, porque en vuestros días hago tal acto que, Si los hombres te contaran esta historia, no la creerías».
 
-> «_Es verdad que una maravillosa manifestación de amor fraternal y de buena voluntad inigualable nació en estas primeras comunidades de creyentes. ... estaban llenos de alegría y vivían unas vidas tan nuevas y excepcionales, que todos los hombres se sentían atraídos hacia sus enseñanzas acerca de Jesús._» (<a id="a56_309"></a>[LU 194:4.6](/es/The_Urantia_Book/194#p4_6))
+> «_Es verdad que una maravillosa manifestación de amor fraternal y de buena voluntad inigualable nació en estas primeras comunidades de creyentes... estaban llenos de alegría y vivían unas vidas tan nuevas y excepcionales, que todos los hombres se sentían atraídos hacia sus enseñanzas acerca de Jesús._» (<a id="a56_309"></a>[LU 194:4.6](/es/The_Urantia_Book/194#p4_6))
 
 
 

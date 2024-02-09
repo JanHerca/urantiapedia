@@ -44,7 +44,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Los puestos de taller todavía están abiertos para aquellos interesados ​​en presentar programas basados ​​en el tema. Las fascinantes posibilidades de los programas van desde examinar tipos individuales de ayudantes invisibles hasta comprender los resultados de su ministerio para nosotros y para el planeta en su conjunto. (Consulte la página 2 para obtener más información).
 
-El registro para los asistentes a la conferencia comenzará a las 3:00 p. m. del jueves 6 de julio y la sesión de apertura del programa comenzará a las 9:00 a. m. del viernes 7 de julio. La sesión de estudio de verano concluirá el mediodía del domingo 9 de julio. .
+El registro para los asistentes a la conferencia comenzará a las 3:00 p. m. del jueves 6 de julio y la sesión de apertura del programa comenzará a las 9:00 a. m. del viernes 7 de julio. La sesión de estudio de verano concluirá el mediodía del domingo 9 de julio.
 
 La Asamblea Trienal de Delegados comenzará sus deliberaciones el miércoles 5 de julio a las 7:00 pm y elegirá candidatos para cubrir doce períodos de 9 años en el Consejo General, así como otros tres para cubrir vacantes de períodos más cortos. También habrá otros temas para que la TDA los debata y luego envíe sus recomendaciones al Consejo General para que tome medidas al respecto.
 
@@ -118,7 +118,7 @@ John Hales es el tipo de hombre con el que elegirías compartir una trinchera, l
 
 Durante muchas décadas, John ha servido de puente entre los viejos foromitas y los jóvenes mequetrefes que estaban listos para ocupar su lugar. A menudo ha sido el punto de conexión, permitiendo que nuevas fuerzas creativas fluyan hacia el Movimiento. Viejos y jóvenes lo consideran un amigo de confianza. Sin duda, conoce a más lectores de _El Libro de Urantia_ que cualquier otra persona.
 
-Cuando Juan era todavía adolescente, con el corazón inflamado por el descubrimiento de la Revelación, dedicó su vida a trabajar para el cumplimiento de su gran misión, y en este servicio nunca se acobardó ni vaciló, ni siquiera en los momentos más difíciles. .
+Cuando Juan era todavía adolescente, con el corazón inflamado por el descubrimiento de la Revelación, dedicó su vida a trabajar para el cumplimiento de su gran misión, y en este servicio nunca se acobardó ni vaciló, ni siquiera en los momentos más difíciles.
 
 Conozco a John desde hace unos 36 años. Hemos viajado juntos por Europa y Asia (en las grandes aventuras de Berkeley Elliot), hemos conducido juntos en muchos viajes en automóvil a eventos de Urantia o para conocer nuevos lectores y grupos de estudio. Hemos navegado juntos en canoa, compartido habitaciones y muchas noches cálidas de debate. A lo largo de todos estos años he visto crecer el espíritu dentro de él, desplegando la belleza interior de su alma en evolución.
 

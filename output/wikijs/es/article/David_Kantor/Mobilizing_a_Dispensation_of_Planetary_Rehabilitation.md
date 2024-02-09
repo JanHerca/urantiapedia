@@ -105,7 +105,7 @@ Se ha dicho que los griegos descubrieron la mente movilizada por el desarrollo d
 
 Las Bienaventuranzas reflejan la filosofía de vida personal de Jesús. Iluminan cualidades del ser espiritual implícitas en su enseñanza. Sed humildes, sed de justicia, sed mansos y sed puros de corazón. Estas cuatro bienaventuranzas describen ideales de _ser personal_.
 
-En el dominio del _ser social_, otorga un gran valor a servir a las personas, consolarlas, ser misericordioso, ser un pacificador, estar dispuesto a defender la justicia, hacer el bien en lugar de resistir el mal por la fuerza, incluso hasta el punto de amar a los enemigos. .
+En el dominio del _ser social_, otorga un gran valor a servir a las personas, consolarlas, ser misericordioso, ser un pacificador, estar dispuesto a defender la justicia, hacer el bien en lugar de resistir el mal por la fuerza, incluso hasta el punto de amar a los enemigos.
 
 Los frutos del espíritu sólo se experimentan en la medida en que se viven realmente estas actitudes de personalidad. El servicio amoroso, la devoción desinteresada, la lealtad valiente, la justicia sincera, la honestidad iluminada, la esperanza imperecedera, la confianza confiada, el ministerio misericordioso, la bondad inquebrantable y la tolerancia perdonadora solo pueden experimentarse en las relaciones con otras personas.
 

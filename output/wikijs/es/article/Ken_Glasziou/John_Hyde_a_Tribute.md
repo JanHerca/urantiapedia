@@ -42,7 +42,7 @@ Conocí a John solo por correspondencia y por su contribución a Innerface Inter
 
 «La falta de voluntad para explorar la verdadera espiritualidad se está convirtiendo cada vez más en un obstáculo para un mayor crecimiento del movimiento, y el punto muerto al que nos acercamos, tarde o temprano, deberá romperse de alguna manera».
 
-«Soy un gran admirador de los elementos de apoyo social de la fe judía y de la Iglesia mormona, y siento que, sin un desarrollo análogo en el movimiento Urantia, nunca creceremos más allá de un tamaño que duplique aproximadamente el número actual de lectores activos. .»
+«Soy un gran admirador de los elementos de apoyo social de la fe judía y de la Iglesia mormona, y siento que, sin un desarrollo análogo en el movimiento Urantia, nunca creceremos más allá de un tamaño que duplique aproximadamente el número actual de lectores activos.»
 
 «Si vamos a creer que el libro va a tener un gran impacto en la sociedad, y un movimiento de algún tipo va a ser un elemento de ese impacto, entonces tenemos que sacar nuestras cabezas colectivas de la arena y dejar de pretender que nuestro movimiento es significativamente diferente de otros movimientos espirituales o religiosos del pasado. Al hacerlo, podremos aprender algo al observar la historia de la Iglesia cristiana primitiva, así como la Reforma, y ​​la historia temprana de los bahais, los mormones y los científicos cristianos».
 

@@ -97,7 +97,7 @@ Los «miembros principales» del grupo de estudio del martes por la noche han br
 
 Por _Michelle Klimesh_, coordinadora de oleoductos
 
-Durante el tercer trimestre de 2007, Pipeline of Light Volunteers colocó un total de 111 copias de traducciones de _El Libro de Urantia_ en doce países, incluidos libros en la península del Sinaí en Egipto, Nigeria, Ecuador, Zambia, Lituania, Francia, Colombia, Perú y Alemania. , Turquía, Argentina y Costa Rica.
+Durante el tercer trimestre de 2007, Pipeline of Light Volunteers colocó un total de 111 copias de traducciones de _El Libro de Urantia_ en doce países, incluidos libros en la península del Sinaí en Egipto, Nigeria, Ecuador, Zambia, Lituania, Francia, Colombia, Perú y Alemania, Turquía, Argentina y Costa Rica.
 
 Mi historia favorita este trimestre fue un informe sobre una mujer en Florida que trabaja para un periódico en español. Se interesó por _El Libro de Urantia_ después de leer un artículo en su periódico. ¡El artículo fue escrito por la evangelista del Libro de Urantia y voluntaria de Pipeline Nelida Oliver de Ecuador! Las colocaciones de este trimestre elevan nuestros totales históricos de Pipeline a mil doscientos cuatro libros colocados en cincuenta y ocho países de todo el mundo. Agradecemos profundamente su continua ayuda financiera. Si desea contribuir a este trabajo, puede realizar donaciones en: www.urantiabook.org/support o por correo postal a:
 

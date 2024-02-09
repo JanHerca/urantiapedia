@@ -44,7 +44,7 @@ La verdad es el _espíritu interior_ de una declaración, no solo su capa exteri
 
 En uno de los últimos ensayos inacabados de Bonhoeffer (escrito en una prisión nazi), retoma el tema del hombre «siempre veraz», y nos recuerda que existen verdades malignas así como verdades necesarias y curativas. El hombre que siempre dice lo que piensa, bajo la apariencia de candor, no vive en el espíritu de la verdad, sino en el espíritu del odio.
 
-Habla de un maestro que le preguntó a un alumno frente a la clase si su padre solía llegar borracho a casa por la noche. El padre lo hizo, pero el niño estaba en su derecho de mentir al respecto, ya que el maestro estaba absolutamente fuera de su derecho al hacer la pregunta, y el niño no era lo suficientemente maduro para dar una respuesta que disfrazara una reprimenda al maestro por su impertinencia. .
+Habla de un maestro que le preguntó a un alumno frente a la clase si su padre solía llegar borracho a casa por la noche. El padre lo hizo, pero el niño estaba en su derecho de mentir al respecto, ya que el maestro estaba absolutamente fuera de su derecho al hacer la pregunta, y el niño no era lo suficientemente maduro para dar una respuesta que disfrazara una reprimenda al maestro por su impertinencia.
 
 Lo metafísico más difícil de comprender acerca de la verdad es que es tanto _absoluta_ como _relativa_ al mismo tiempo: en un sentido, la verdad es siempre la misma para todos los hombres en todas partes; en otro sentido, es relativo, el tiempo, el lugar, la situación. La sabiduría consiste en poder distinguir entre estos dos, y saber cuándo se está sirviendo al espíritu de la verdad universal y cuándo no.
 

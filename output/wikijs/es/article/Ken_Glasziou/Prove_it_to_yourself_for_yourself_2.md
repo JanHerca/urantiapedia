@@ -66,7 +66,7 @@ Una sección de los Documentos que requiere solo un conocimiento mínimo de arit
 
 > «Hace 2.500.000.000 de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente **una décima parte de su masa actual** y continuaba aumentando rápidamente por acreción meteórica». (<a id="a66_252"></a>[LU 57:6.10](/es/The_Urantia_Book/57#p6_10))
 
-> «Hace 2.000.000.000 de años, la Tierra empezó a ganarle terreno decididamente a la Luna. El planeta siempre había sido más grande que su satélite, pero **no había habido mucha diferencia de tamaño hasta esta época**, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte de su tamaño actual**... .» (<a id="a68_368"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2))
+> «Hace 2.000.000.000 de años, la Tierra empezó a ganarle terreno decididamente a la Luna. El planeta siempre había sido más grande que su satélite, pero **no había habido mucha diferencia de tamaño hasta esta época**, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte de su tamaño actual**...» (<a id="a68_368"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2))
 
 > Hace 1.500.000.000 de años, la Tierra tenía dos tercios de su tamaño actual, mientras que **la Luna se acercaba a su masa de hoy**. (<a id="a70_135"></a>[LU 57:7.4](/es/The_Urantia_Book/57#p7_4))
 
@@ -85,7 +85,7 @@ Las cifras citadas en Microsoft Encarta, Encyclopedia Britannica y en otros luga
 
 Recordando que la historia de los reveladores dice que hace 2.500 millones de años la tierra y la luna tenían aproximadamente el mismo tamaño y aproximadamente una décima parte de la masa actual de la tierra, es decir, ambas tienen aproximadamente 5,94 x 10^20^ toneladas métricas, tenemos el problema de que esto ¡hace que la luna sea unas 8 veces más grande de lo que es ahora!
 
-Peor aún, quinientos millones de años después, hace 2 mil millones de años, la luna y la tierra tenían aproximadamente una quinta parte de la masa actual de la tierra, por lo que alrededor de 1,2 x 10^21^ toneladas métricas, lo que hace que la luna sea 16 veces más grande que su masa actual. !!
+Peor aún, quinientos millones de años después, hace 2 mil millones de años, la luna y la tierra tenían aproximadamente una quinta parte de la masa actual de la tierra, por lo que alrededor de 1,2 x 10^21^ toneladas métricas, lo que hace que la luna sea 16 veces más grande que su masa actual!!
 
 En la actualidad, la luna tiene aproximadamente 1/80^th^ de la masa de la tierra, y tendría que haber perdido casi toda su masa durante el período comprendido entre -2 y -1.500 millones de años de su existencia.
 

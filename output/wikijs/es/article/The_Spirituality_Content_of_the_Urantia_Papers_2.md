@@ -120,7 +120,7 @@ Jesús dijo a sus discípulos: Los asuntos temporales son asunto de los hombres 
 
 El Maestro era un espécimen perfecto de autocontrol humano. Cuando lo insultaban, no insultaba; cuando sufría, no pronunció amenazas; cuando fue denunciado, simplemente se entregó al justo juicio del Padre.
 
-> «Pero yo vengo con un nuevo mensaje de olvido de sí mismo y de dominio de sí mismo. Os muestro el camino de la vida tal como mi Padre que está en los cielos me lo ha revelado. ... Por medio de vuestro amor recíproco vais a convencer al mundo de que habéis pasado de la esclavitud a la libertad, de la muerte a la vida eterna». (<a id="a122_330"></a>[LU 143:2.2-3](/es/The_Urantia_Book/143#p2_2))
+> «Pero yo vengo con un nuevo mensaje de olvido de sí mismo y de dominio de sí mismo. Os muestro el camino de la vida tal como mi Padre que está en los cielos me lo ha revelado... Por medio de vuestro amor recíproco vais a convencer al mundo de que habéis pasado de la esclavitud a la libertad, de la muerte a la vida eterna». (<a id="a122_330"></a>[LU 143:2.2-3](/es/The_Urantia_Book/143#p2_2))
 
 ## Función del espíritu residente
 
@@ -180,7 +180,7 @@ La religión del espíritu significa esfuerzo, lucha, conflicto, fe, determinaci
 
 ## Una nueva religión
 
-Jesús continuó: Dentro de poco comenzaremos la audaz proclamación de una nueva religión, una religión que apela principalmente al espíritu divino de mi Padre que reside en la mente del hombre, una religión que derivará su autoridad de los frutos de su aceptación. .
+Jesús continuó: Dentro de poco comenzaremos la audaz proclamación de una nueva religión, una religión que apela principalmente al espíritu divino de mi Padre que reside en la mente del hombre, una religión que derivará su autoridad de los frutos de su aceptación.
 
 Os he llamado a descubrir la experiencia suprema de *encontrar a Dios por vosotros mismos, en vosotros mismos y por vosotros mismos y como un hecho de vuestra propia experiencia*. La religión del espíritu os deja siempre libres para seguir la verdad dondequiera que os lleve la dirección del espíritu.
 
@@ -299,7 +299,7 @@ Ustedes están en este mundo pero sus vidas no deben ser como un mundo. Te he el
 
 ## «Con la venida del Espíritu de la Verdad…»
 
-Con la venida del Espíritu de la Verdad, todos los hijos de la luz serán atraídos unos hacia otros. Y mi Padre y yo podremos vivir en el alma de cada uno de ustedes, y también en el corazón de todos los demás hombres que nos aman y hacen real ese amor en sus experiencias amándose unos a otros como yo los estoy amando ahora. .
+Con la venida del Espíritu de la Verdad, todos los hijos de la luz serán atraídos unos hacia otros. Y mi Padre y yo podremos vivir en el alma de cada uno de ustedes, y también en el corazón de todos los demás hombres que nos aman y hacen real ese amor en sus experiencias amándose unos a otros como yo los estoy amando ahora.
 
 Este nuevo maestro es el espíritu de la verdad viva y creciente, la verdad que se expande, se desarrolla y se adapta.
 
@@ -355,7 +355,7 @@ Es totalmente correcto referirse a Jesús como nuestro salvador. Él siempre hiz
 
 El concepto de expiación y salvación sacrificial está enraizado y fundamentado en el egoísmo. *La principal preocupación del creyente no debe ser el deseo egoísta de salvación personal, sino el impulso desinteresado de amar y servir a nuestros semejantes, así como Jesús amó y sirvió al hombre mortal*.
 
-Lo grandioso de la muerte de Jesús, en cuanto se relaciona con el enriquecimiento de la experiencia humana y la ampliación del camino de la salvación, no es el hecho de su muerte, sino más bien la manera soberbia y el espíritu inigualable en que la enfrentó. .
+Lo grandioso de la muerte de Jesús, en cuanto se relaciona con el enriquecimiento de la experiencia humana y la ampliación del camino de la salvación, no es el hecho de su muerte, sino más bien la manera soberbia y el espíritu inigualable en que la enfrentó.
 
 La cruz muestra para siempre que la actitud de Jesús hacia los pecadores no fue ni de condena ni de condonación, sino de salvación eterna y amorosa.
 
@@ -387,7 +387,7 @@ Cuando eres un hijo de fe de Dios, todo trabajo secular es sagrado. Nada de lo q
 
 *Mi único propósito es revelar a mi Padre*. He vivido este otorgamiento revelador de Dios para que puedas experimentar la carrera de conocer a Dios.
 
-La salvación es el don gratuito de Dios, pero los que nacen del espíritu inmediatamente comenzarán a mostrar los frutos del espíritu en el servicio amoroso a sus semejantes. Y los frutos del espíritu divino que se producen en la vida de los mortales nacidos del espíritu y conocedores de Dios son: servicio amoroso, devoción desinteresada, lealtad valiente, justicia sincera, honestidad iluminada, esperanza imperecedera, confianza confiada, ministerio misericordioso, bondad inagotable. , perdonando la tolerancia y perdurando la paz.
+La salvación es el don gratuito de Dios, pero los que nacen del espíritu inmediatamente comenzarán a mostrar los frutos del espíritu en el servicio amoroso a sus semejantes. Y los frutos del espíritu divino que se producen en la vida de los mortales nacidos del espíritu y conocedores de Dios son: servicio amoroso, devoción desinteresada, lealtad valiente, justicia sincera, honestidad iluminada, esperanza imperecedera, confianza confiada, ministerio misericordioso, bondad inagotable, perdonando la tolerancia y perdurando la paz.
 
 Puedes entrar al reino como un niño, pero el Padre requiere que crezcas hasta la plena estatura de la edad adulta espiritual.
 
@@ -405,7 +405,7 @@ El Espíritu de la Verdad equipa a los maestros de la nueva religión de Jesús 
 
 ## Después de Pentecostés
 
-Pentecostés dotó al hombre mortal con la capacidad de perdonar las heridas personales, de mantenerse dulce frente a la injusticia más grave, de permanecer impasible ante el peligro atroz y de desafiar los males del odio y la ira mediante actos intrépidos de amor y paciencia. .
+Pentecostés dotó al hombre mortal con la capacidad de perdonar las heridas personales, de mantenerse dulce frente a la injusticia más grave, de permanecer impasible ante el peligro atroz y de desafiar los males del odio y la ira mediante actos intrépidos de amor y paciencia.
 
 Hasta Pentecostés, la religión había revelado que sólo el hombre buscaba a Dios. Desde Pentecostés, resplandece sobre el mundo el espectáculo de Dios buscando también a los hombres y enviando su Espíritu a morar en aquellos a quienes ha encontrado.
 

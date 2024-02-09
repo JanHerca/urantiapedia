@@ -36,7 +36,7 @@ dateCreated: 2022-09-27T01:29:02.617Z
 
 En un futuro no muy lejano, el mundo occidental, en particular, enfrentará un caos moral potencial cuando los cristianos se den cuenta de que los conceptos judeocristianos del bien y el mal están construidos sobre una casa de paja. Y en un mundo que avanza hacia la impiedad, ¿qué opiniones prevalecerán o deberían prevalecer?
 
-¿La razón de este pesimismo y fatalidad? Desde la guerra de 1967 entre Israel y las naciones árabes, y la ocupación de los territorios palestinos por parte de Israel, el personal de las instituciones arqueológicas profesionales israelíes ha realizado un enorme esfuerzo para recopilar pruebas que respalden la historia bíblica de Jerusalén y las tierras ocupadas. . ¿El propósito?—para justificar la afirmación de que estos pertenecen a Israel por decreto divino—¡que Dios mismo se los dio a Israel!
+¿La razón de este pesimismo y fatalidad? Desde la guerra de 1967 entre Israel y las naciones árabes, y la ocupación de los territorios palestinos por parte de Israel, el personal de las instituciones arqueológicas profesionales israelíes ha realizado un enorme esfuerzo para recopilar pruebas que respalden la historia bíblica de Jerusalén y las tierras ocupadas. ¿El propósito?—para justificar la afirmación de que estos pertenecen a Israel por decreto divino—¡que Dios mismo se los dio a Israel!
 
 > Todas las condiciones son temporales.
 
@@ -66,7 +66,7 @@ Pero la arqueología israelí concluye que Salomón, en el mejor de los casos, e
 
 > No es la acción de otro sino tu propia reacción lo que limitará tu ritmo de progreso espiritual.
 
-Al estudiar estos Documentos de Urantia y reflexionar sobre por qué fueron escritos como son (una extraña mezcla de ciencia e historia erróneas más una revelación notable), es fundamental que tengamos en cuenta la mentalidad de sus destinatarios iniciales, los llamados « Foro», los prejuicios de la época, lo que podría haber sido aceptable como verdad reveladora en el período 1920-35, lo que podría haber causado el abandono de las revelaciones como espurias, y la inevitabilidad de que algunos miembros del Foro tratarían todo lo que se les dijo como divino. , revelación infalible.
+Al estudiar estos Documentos de Urantia y reflexionar sobre por qué fueron escritos como son (una extraña mezcla de ciencia e historia erróneas más una revelación notable), es fundamental que tengamos en cuenta la mentalidad de sus destinatarios iniciales, los llamados « Foro», los prejuicios de la época, lo que podría haber sido aceptable como verdad reveladora en el período 1920-35, lo que podría haber causado el abandono de las revelaciones como espurias, y la inevitabilidad de que algunos miembros del Foro tratarían todo lo que se les dijo como divino, revelación infalible.
 
 Las partes 1-3 del libro fueron inicialmente el resultado de preguntas planteadas por los miembros del Foro para probar las credenciales de los reveladores.[^5] Por lo tanto, en retrospectiva, parece posible que el objetivo original de los reveladores se limitara a preparar un grupo de personas para la recepción de la Parte 4, La Vida de Jesús.
 

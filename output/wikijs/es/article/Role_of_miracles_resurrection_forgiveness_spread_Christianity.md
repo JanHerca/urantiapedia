@@ -42,7 +42,7 @@ En cuanto a la realidad de las curaciones milagrosas de Jesús, no había forma 
 
 Este incidente de los diez leprosos también ilustra las peculiaridades aberrantes de la naturaleza humana. Nueve de los leprosos eran judíos. Pero solo uno volvió a agradecer a Jesús, y ese fue el samaritano.
 
-Del mismo modo, en el juicio de Jesús ante Poncio Piloto, cuando Piloto ofreció liberar a Jesús o al criminal Barrabo, la multitud eligió a Barrabo, a pesar del hecho de que debe haber muchos en esa multitud de la Pascua que habían presenciado las curaciones de Jesús, sabían de ellas. , o han sido destinatarios reales. Sin embargo, no lograron hacerse oír, aparentemente por temor a su propia piel.
+Del mismo modo, en el juicio de Jesús ante Poncio Piloto, cuando Piloto ofreció liberar a Jesús o al criminal Barrabo, la multitud eligió a Barrabo, a pesar del hecho de que debe haber muchos en esa multitud de la Pascua que habían presenciado las curaciones de Jesús, sabían de ellas, o han sido destinatarios reales. Sin embargo, no lograron hacerse oír, aparentemente por temor a su propia piel.
 
 Parecería entonces que las curaciones milagrosas no constituyen una base sólida para una nueva religión. Pero podían, y aparentemente lo hicieron, ayudar a reafirmar la determinación de seguidores cercanos, como los apóstoles de Jesús.
 
