@@ -68,7 +68,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	</div>
 </div>
 
-## The Urantia Book Fellowship
+## La Fellowship du Livre d'Urantia
 
 <!-- Urantia Book Fellowship -->
 <div class="layout row wrap">
@@ -80,7 +80,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">Fellowship Herald</div>
 			<div class="urantiapedia-card-text">
-				<div><em>The Fellowship Herald</em> est une publication annuelle ou semestrielle éditée par la Fellowship <em>The Urantia Book</em> en anglais.</div>
+				<div>La <em>Fellowship Herald</em> est une publication annuelle ou semestrielle éditée par la Fellowship du <em>Livre d'Urantia</em> en anglais.</div>
 				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/herald/">Fellowship Herald archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Fellowship-Herald#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -98,7 +98,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">Mighty Messenger</div>
 			<div class="urantiapedia-card-text">
-				<div><em>Mighty Messenger</em> est une publication annuelle ou semestrielle éditée par <em>The Urantia Book Fellowship</em> avec des nouvelles et des opinions pour les lecteurs du <em>Le Livre d'Urantia</em>.</div>
+				<div><em>Mighty Messenger</em> est une publication annuelle ou semestrielle éditée par la Fellowship du <em>Livre d'Urantia</em> avec des nouvelles et des opinions pour les lecteurs du <em>Le Livre d'Urantia</em>.</div>
 				<div><small>Sources: <a href="https://archive.urantiabook.org/archive/newsletters">Fellowship archive</a>, <a href="https://urantiabook.org/Research-Resources?filter=Mighty-M#arc-ArchiveHdr##arc-ArchiveHdr#">UBHS archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -116,7 +116,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">The Study Group Herald</div>
 			<div class="urantiapedia-card-text">
-				<div><em>The Study Group Herald</em> était une ancienne publication de The Fellowship, anciennement The Urantia Book Fellowship, publiée pendant quelques années dans les années 90.</div>
+				<div><em>The Study Group Herald</em> était une ancienne publication de The Fellowship, anciennement Fellowship du Livre d'Urantia, publiée pendant quelques années dans les années 90.</div>
 				<div><small>Sources: <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBY.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -134,7 +134,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			</div>
 			<div class="urantiapedia-card-title pt-4">Urantian — Journal de la Urantia Brotherhood</div>
 			<div class="urantiapedia-card-text">
-				<div><em>The Urantian</em> était un journal trimestriel de la Fraternité Urantia, ancien nom de la Urantia Book Fellowship, de 1976 à 1994.</div>
+				<div><em>The Urantian</em> était un journal trimestriel de la Urantia Brotherhood, ancien nom de la Fellowship du Livre d'Urantia, de 1976 à 1994.</div>
 				<div><small>Sources: <a href="https://urantia-book.org/archive/newsletters/urantian_journal/">Fellowship archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesBX.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
@@ -147,7 +147,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 </div>
 
 
-## Asociación Internacional Urantia
+## Association internationale Urantia
 
 <!-- Urantia Association International -->
 <div class="layout row wrap">
@@ -157,7 +157,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 			<div class="v-responsive v-img align-end urantiapedia-card">
 				<img class="urantiapedia-card-top-image" src="/image/article/Group_cards/UAI_Journal.jpg">
 			</div>
-			<div class="urantiapedia-card-title pt-4">International Association Journal</div>
+			<div class="urantiapedia-card-title pt-4">Journal de l'Association internationale</div>
 			<div class="urantiapedia-card-text">
 				<div>Le <em>Journal</em> de l'Association Internationale est un magazine trimestriel d'articles et d'aides à l'étude créés par des lecteurs et pour les lecteurs du <em>Livre d'Urantia</em>. </div>
 				<div><small>Sources: <a href="https://urantia-association.org/journal-online/">UAI archive</a>, <a href="https://urantia-association.org/topical-index-of-articles/">UAI topical index</a></small></div>
@@ -189,7 +189,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	</div>
 </div>
 
-## Biblioteca de la Hermandad Humana (Brotherhood of Man Library)
+## Bibliothèque de la Confrérie des Hommes (Brotherhood of Man Library)
 
 <!-- Brotherhood of Man Library -->
 <div class="layout row wrap">
@@ -213,7 +213,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	</div>
 </div>
 
-## La Christian Fellowship de los estudiantes de El Libro de Urantia
+## La Communauté Chrétienne des Étudiants du Livre d'Urantia
 
 <!-- The Christian Fellowship of Students of The Urantia Book -->
 <div class="layout row wrap">
@@ -237,7 +237,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	</div>
 </div>
 
-## Asociación Urantia de España
+## Association Urantia d’Espagne
 
 <!-- Urantia Association of Spain -->
 <div class="layout row wrap">
@@ -261,7 +261,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 	</div>
 </div>
 
-## ANZURA — Asociación Urantia de Australia y New Zealand
+## ANZURA — Association Urantia d’Australie et de Nouvelle-Zélande
 
 <!-- ANZURA — Australia & New Zealand Urantia Association -->
 <div class="layout row wrap">

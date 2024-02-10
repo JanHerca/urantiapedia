@@ -69,7 +69,7 @@ Conocía el valor de servir a sus clientes y se esforzó mucho para asegurarse d
 
 Si _El Libro de URANTIA_ hubiera estado disponible 50 años antes, ¡creo que se habría exhibido de manera destacada en la Sala de Juegos!
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia" alt="coin">
 <img src="/image/article/606/coin6.jpg">

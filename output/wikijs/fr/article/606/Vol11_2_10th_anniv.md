@@ -235,7 +235,7 @@ La pierre angulaire de la philosophie de Fred était la « Fraternité des Homme
 
 Pour en savoir plus, consultez [Newsletter Six-O-Six, avril 1986](/fr/article/606/Vol7_3#time-for-reflection-fred)
 
-<br style=« clear:both; »/>
+<br style="clear:both;"/>
 
 ### Réimprimé du bulletin Six-O-Six de novembre 1984
 

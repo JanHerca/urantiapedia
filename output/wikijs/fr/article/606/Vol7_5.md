@@ -91,7 +91,8 @@ NEW YORK, AP — La Voie Lactée — la galaxie dans laquelle se trouvent le sys
 L'attraction gravitationnelle d'une immense masse pourrait expliquer le mouvement, mais un mouvement de cette taille semblerait nécessiter une masse 50 fois plus grande que notre superamas orm et ils n'ont pas encore été en mesure de trouver la masse. Un superamas est un groupe de galaxies. La masse pourrait se présenter sous la forme d’une matière qui ne peut pas être détectée avec les instruments astronomiques actuels.
 
 S’ils ne parviennent pas à trouver le problème, ils devront peut-être repenser les théories sur l’expansion de l’univers et le rôle de la gravité.
-<br style=« clear:both; »/>
+
+<br style="clear:both;"/>
 
 ---
 

@@ -252,7 +252,7 @@ La piedra angular de la filosofía de Fred fue la «Hermandad del Hombre». Dond
 
 Lea más en [Boletín Six-O-Six de abril de 1986](/es/article/606/Vol7_3#time-for-reflection-fred)
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ### Reimpreso del boletín Six-O-Six de noviembre de 1984
 

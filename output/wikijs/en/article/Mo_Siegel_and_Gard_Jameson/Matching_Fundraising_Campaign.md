@@ -57,7 +57,7 @@ Please contact Urantia Foundation for more information about the matching fundra
 <br style="clear:both;"/>
 
 > “Six donors have agreed to immediately match up to $100,000 contributed to Urantia Foundation”
-> 
+
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_12/005.jpg">
 </figure>
