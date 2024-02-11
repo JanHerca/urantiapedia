@@ -55,8 +55,8 @@ We feel that it was a worthwhile effort, that study groups will start forming in
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-12/urantia-book-in-austria
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-12/urantia-book-in-austria)
 
 <figure class="table chapter-navigator">
   <table>

@@ -75,7 +75,7 @@ Do not forget to register as soon as you can at:
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
-- This article: https://urantia-association.org/2015-international-conference-quebec
+- [This article](https://urantia-association.org/2015-international-conference-quebec)
 
 <figure class="table chapter-navigator">
   <table>

@@ -54,8 +54,8 @@ Line St-Pierre was born a French Canadian in LavalOuest, Québec, Canada. She is
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-06/two-new-appointments-line-st-pierre-share-beasley
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-06/two-new-appointments-line-st-pierre-share-beasley)
 
 <figure class="table chapter-navigator">
   <table>

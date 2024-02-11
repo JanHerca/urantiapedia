@@ -67,8 +67,8 @@ A special thanks to all involved including: Augustin Arellano, Graciela Cristina
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-06/buenos-aires-book-fair
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-06/buenos-aires-book-fair)
 
 <figure class="table chapter-navigator">
   <table>

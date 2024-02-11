@@ -198,7 +198,7 @@ As we face this worldwide international pandemic, let us face it and defeat it t
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2020/
-- This article: https://urantia-association.org/benign-virus-of-love
+- [This article](https://urantia-association.org/benign-virus-of-love)
 
 <figure class="table chapter-navigator">
   <table>

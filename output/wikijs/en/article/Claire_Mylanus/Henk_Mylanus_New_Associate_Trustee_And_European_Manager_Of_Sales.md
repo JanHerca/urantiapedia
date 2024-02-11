@@ -53,8 +53,8 @@ In the short term, Henk's work for Urantia Foundation will focus on solving exis
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-12/henk-mylanus-new-associate-trustee-and-european-manager-sales
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-12/henk-mylanus-new-associate-trustee-and-european-manager-sales)
 
 <figure class="table chapter-navigator">
   <table>

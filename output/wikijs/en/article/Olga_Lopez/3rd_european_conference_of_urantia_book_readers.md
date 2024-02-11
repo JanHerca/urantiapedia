@@ -56,7 +56,7 @@ For all these reasons, I am certain that a milestone has been reached in the dev
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2022/
-- This article: https://urantia-association.org/3rd-european-conference-of-urantia-book-readers
+- [This article](https://urantia-association.org/3rd-european-conference-of-urantia-book-readers)
 
 <figure class="table chapter-navigator">
   <table>

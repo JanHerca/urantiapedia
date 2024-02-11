@@ -254,7 +254,7 @@ Charles Laurence Olivea
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2017/
-- This article: https://urantia-association.org/temple-spiritual-brotherhood-study-groups
+- [This article](https://urantia-association.org/temple-spiritual-brotherhood-study-groups)
 
 <figure class="table chapter-navigator">
   <table>

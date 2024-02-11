@@ -98,8 +98,8 @@ Let us create fraternal associations, not ecclesiastical institutions; let us bu
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-03/churchification
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-03/churchification)
 
 <figure class="table chapter-navigator">
   <table>

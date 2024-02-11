@@ -78,8 +78,8 @@ Portuguese, 2,000 Spanish European, 1,200 Hungarian, and 990 Italian books have 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2023-03/updates-january-2023-trustee-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2023-03/updates-january-2023-trustee-meeting)
 
 <figure class="table chapter-navigator">
   <table>

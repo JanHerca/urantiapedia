@@ -94,8 +94,8 @@ To read more about its history, [click here](https://www.urantia.org/news/2017-1
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-12/seasons-greetings-reflections-true-gifts-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-12/seasons-greetings-reflections-true-gifts-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

@@ -84,8 +84,8 @@ While using our individual talents to help with book distribution in Europe, we 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-04/urantia-book-in-europe-our-journey-building-distribution-network
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-04/urantia-book-in-europe-our-journey-building-distribution-network)
 
 <figure class="table chapter-navigator">
   <table>

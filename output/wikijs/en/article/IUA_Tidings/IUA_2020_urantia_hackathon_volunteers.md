@@ -103,7 +103,7 @@ Sandra and Gabriel Rymberg, Samantha Nior, Lourdes Burga-Cisneros, and Luis Garc
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2020/
-- This article: https://urantia-association.org/urantia-hackathon-volunteers
+- [This article](https://urantia-association.org/urantia-hackathon-volunteers)
 
 <figure class="table chapter-navigator">
   <table>

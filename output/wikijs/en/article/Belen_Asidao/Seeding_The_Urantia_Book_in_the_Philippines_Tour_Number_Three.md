@@ -84,8 +84,8 @@ I find that distributing _The Urantia Book_ is very worthwhile and rewarding. Th
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-06/seeding-urantia-book-in-philippines-tour-number-three
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-06/seeding-urantia-book-in-philippines-tour-number-three)
 
 <figure class="table chapter-navigator">
   <table>

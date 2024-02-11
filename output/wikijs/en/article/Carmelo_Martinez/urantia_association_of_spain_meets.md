@@ -74,7 +74,7 @@ President, Urantia Association of Spain
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2015/
-- This article: https://urantia-association.org/urantia-association-of-spain-meets
+- [This article](https://urantia-association.org/urantia-association-of-spain-meets)
 
 <figure class="table chapter-navigator">
   <table>

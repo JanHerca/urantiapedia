@@ -68,8 +68,8 @@ There remains much work to be done to seed _The Urantia Book_ and its teachings 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-06/bookexpo-america-2017
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-06/bookexpo-america-2017)
 
 <figure class="table chapter-navigator">
   <table>

@@ -27,6 +27,6 @@ Apreciamos profundamente y necesitamos su ayuda. Tus palabras inspirarán a otro
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-09/help-wanted
+- [Este artículo](https://www.urantia.org/news/2007-09/help-wanted)
 
 

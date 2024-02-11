@@ -61,8 +61,8 @@ I am so thankful to have had the opportunity to be there and to have shared with
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-12/latin-american-conference-teacher-and-student
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-12/latin-american-conference-teacher-and-student)
 
 <figure class="table chapter-navigator">
   <table>

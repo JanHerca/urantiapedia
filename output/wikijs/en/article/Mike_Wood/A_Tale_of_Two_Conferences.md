@@ -101,8 +101,8 @@ Notwithstanding that I am the book vendor at conferences, I do get to listen to 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-09/tale-two-conferences
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-09/tale-two-conferences)
 
 <figure class="table chapter-navigator">
   <table>

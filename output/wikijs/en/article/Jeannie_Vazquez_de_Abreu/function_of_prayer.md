@@ -223,7 +223,7 @@ _The Urantia Book_ contains divine truths that must become mightily alive within
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2019/
-- This article: https://urantia-association.org/function-of-prayer
+- [This article](https://urantia-association.org/function-of-prayer)
 
 <figure class="table chapter-navigator">
   <table>

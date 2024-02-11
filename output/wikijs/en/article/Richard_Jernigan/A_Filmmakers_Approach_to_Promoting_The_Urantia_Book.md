@@ -70,8 +70,8 @@ The videos can be accessed at http://www.urantia.org/urantia-book-video, and eac
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-12/filmmakers-approach-promoting-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-12/filmmakers-approach-promoting-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

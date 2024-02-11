@@ -65,8 +65,8 @@ Happy listening!
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-04/story-three-audiobooks
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-04/story-three-audiobooks)
 
 <figure class="table chapter-navigator">
   <table>

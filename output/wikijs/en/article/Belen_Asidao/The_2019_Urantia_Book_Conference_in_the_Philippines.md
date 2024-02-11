@@ -89,8 +89,8 @@ We thank everyone in the Urantia movement for all your support. In unity we can 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-04/2019-urantia-book-conference-in-philippines
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-04/2019-urantia-book-conference-in-philippines)
 
 <figure class="table chapter-navigator">
   <table>

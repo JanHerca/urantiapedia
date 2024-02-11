@@ -71,7 +71,7 @@ Our heart-felt gratitude and best wishes go to our outgoing members: Anton Miros
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2017/
-- This article: https://urantia-association.org/international-service-board-elections
+- [This article](https://urantia-association.org/international-service-board-elections)
 
 <figure class="table chapter-navigator">
   <table>

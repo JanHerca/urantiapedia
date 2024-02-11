@@ -75,7 +75,7 @@ Everywhere we turn in our tutorial text we find grace positioned with truth, lov
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2023/
-- This article: https://urantia-association.org/focus-on-the-father-3
+- [This article](https://urantia-association.org/focus-on-the-father-3)
 
 <figure class="table chapter-navigator">
   <table>

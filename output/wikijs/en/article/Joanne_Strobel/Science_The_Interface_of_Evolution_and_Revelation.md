@@ -134,8 +134,8 @@ Most presentations were accompanied by a scientific research paper, all of which
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-07/science-interface-evolution-and-revelation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-07/science-interface-evolution-and-revelation)
 
 <figure class="table chapter-navigator">
   <table>

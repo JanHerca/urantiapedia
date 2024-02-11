@@ -58,8 +58,8 @@ As archaeologists would attest, pottery is one of our prime ways of understandin
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-09/three-concentric-circles-our-michael-sons-banner
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-09/three-concentric-circles-our-michael-sons-banner)
 
 <figure class="table chapter-navigator">
   <table>

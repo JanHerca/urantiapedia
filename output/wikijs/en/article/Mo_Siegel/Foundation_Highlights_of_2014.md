@@ -99,8 +99,8 @@ To all of you who wonder what happens at Urantia Foundation, here are some of th
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-03/foundation-highlights-2014
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-03/foundation-highlights-2014)
 
 <figure class="table chapter-navigator">
   <table>

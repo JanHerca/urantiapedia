@@ -66,7 +66,7 @@ Thank you, Jean for being such a loving and inspiring brother. See you soon.
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2018/
-- This article: https://urantia-association.org/jean-royer-graduation
+- [This article](https://urantia-association.org/jean-royer-graduation)
 
 <figure class="table chapter-navigator">
   <table>

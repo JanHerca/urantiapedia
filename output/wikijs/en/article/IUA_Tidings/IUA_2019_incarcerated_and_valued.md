@@ -85,7 +85,7 @@ Jesus lived the ideal human life. For those who discover Jesus’ way of living,
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2019/
-- This article: https://urantia-association.org/incarcerated-and-valued
+- [This article](https://urantia-association.org/incarcerated-and-valued)
 
 <figure class="table chapter-navigator">
   <table>

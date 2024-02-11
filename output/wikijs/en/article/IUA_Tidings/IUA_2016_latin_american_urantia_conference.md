@@ -199,7 +199,7 @@ Link to the Latin American Event [PDF Brochure](http://urantia-association.org/
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2016/
-- This article: https://urantia-association.org/latin-american-urantia-conference
+- [This article](https://urantia-association.org/latin-american-urantia-conference)
 
 <figure class="table chapter-navigator">
   <table>

@@ -67,8 +67,8 @@ If you are not quite sure how to start a study group, call or email me.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-09/study-groups-new-thoughts-old-reader
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-09/study-groups-new-thoughts-old-reader)
 
 <figure class="table chapter-navigator">
   <table>

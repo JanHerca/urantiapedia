@@ -50,8 +50,8 @@ You may register online at www.regonline.com/Urantia Fellowship SSS18.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-03/the-urantia-book-fellowships-summer-study-session-2018
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-03/the-urantia-book-fellowships-summer-study-session-2018)
 
 <figure class="table chapter-navigator">
   <table>

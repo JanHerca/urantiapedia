@@ -69,7 +69,7 @@ Debbie Bartman
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
-- This article: https://urantia-association.org/vancouver-island-campout
+- [This article](https://urantia-association.org/vancouver-island-campout)
 
 <figure class="table chapter-navigator">
   <table>

@@ -119,8 +119,8 @@ Both the third floor and the coach house were restored in the classic architectu
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-07/noteworthy-decisions-april-2014-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-07/noteworthy-decisions-april-2014-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

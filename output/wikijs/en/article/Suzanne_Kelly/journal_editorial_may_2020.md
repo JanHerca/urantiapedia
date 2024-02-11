@@ -56,7 +56,7 @@ And many other wise individuals have said … This too shall pass, and we will b
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2020/
-- This article: https://urantia-association.org/journal-editorial-may-2020
+- [This article](https://urantia-association.org/journal-editorial-may-2020)
 
 <figure class="table chapter-navigator">
   <table>

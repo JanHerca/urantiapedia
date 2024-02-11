@@ -135,7 +135,7 @@ Through teamwork great things are achieved!
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2017/
-- This article: https://urantia-association.org/pato-banton-london-birmingham-ghana
+- [This article](https://urantia-association.org/pato-banton-london-birmingham-ghana)
 
 <figure class="table chapter-navigator">
   <table>

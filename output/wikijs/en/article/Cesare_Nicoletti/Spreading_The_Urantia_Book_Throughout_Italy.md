@@ -70,8 +70,8 @@ A future will come in which our world's confusion will recede little by little, 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-07/spreading-urantia-book-throughout-italy
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-07/spreading-urantia-book-throughout-italy)
 
 <figure class="table chapter-navigator">
   <table>

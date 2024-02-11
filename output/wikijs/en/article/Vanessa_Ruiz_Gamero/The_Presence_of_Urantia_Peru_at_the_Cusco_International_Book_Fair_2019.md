@@ -61,8 +61,8 @@ This experience has motivated us to persevere in the dissemination of the pricel
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-12/presence-urantia-peru-cusco-international-book-fair-2019
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-12/presence-urantia-peru-cusco-international-book-fair-2019)
 
 <figure class="table chapter-navigator">
   <table>

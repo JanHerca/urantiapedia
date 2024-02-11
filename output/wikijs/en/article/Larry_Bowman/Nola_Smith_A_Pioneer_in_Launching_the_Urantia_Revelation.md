@@ -51,8 +51,8 @@ Nola developed Alzheimer's and spent her final years in a nursing home in Lexing
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-06/nola-smith-pioneer-in-launching-urantia-revelation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-06/nola-smith-pioneer-in-launching-urantia-revelation)
 
 <figure class="table chapter-navigator">
   <table>

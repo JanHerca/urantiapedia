@@ -78,8 +78,8 @@ This international Urantia gathering was a huge success. We had doubts at the be
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-09/looking-back-uai-2015-quebec-conference
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-09/looking-back-uai-2015-quebec-conference)
 
 <figure class="table chapter-navigator">
   <table>

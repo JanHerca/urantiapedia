@@ -54,8 +54,8 @@ Norman Ingram passed away on May 29. He discovered _The Urantia Book_ in 1971 wh
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-06/celebrating-moussa-ndiaye-and-norman-ingram
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-06/celebrating-moussa-ndiaye-and-norman-ingram)
 
 <figure class="table chapter-navigator">
   <table>

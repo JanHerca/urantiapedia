@@ -70,8 +70,8 @@ Cheryl Glicker, Milford Study Group, (USA)
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-09/comments-urantia-online-april-2007
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-09/comments-urantia-online-april-2007)
 
 
 <figure class="table chapter-navigator">

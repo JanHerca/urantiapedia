@@ -61,7 +61,7 @@ Urantia Bogotá Association Secretary
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2018/
-- This article: https://urantia-association.org/pereira-book-fair
+- [This article](https://urantia-association.org/pereira-book-fair)
 
 <figure class="table chapter-navigator">
   <table>

@@ -143,7 +143,7 @@ _(See this [YouTube video](https://www.youtube.com/watch?v=HaNoYxwje6o&list=PLQY
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2018/
-- This article: https://urantia-association.org/eyedropper-spoon-shovel
+- [This article](https://urantia-association.org/eyedropper-spoon-shovel)
 
 <figure class="table chapter-navigator">
   <table>

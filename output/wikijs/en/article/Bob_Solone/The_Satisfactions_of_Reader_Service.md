@@ -53,8 +53,8 @@ And lastly, in my small role as a cog in the wheel of Urantia Foundation, I am a
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-10/satisfactions-reader-service
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-10/satisfactions-reader-service)
 
 <figure class="table chapter-navigator">
   <table>

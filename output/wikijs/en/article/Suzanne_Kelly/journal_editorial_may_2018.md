@@ -75,7 +75,7 @@ Gaetan has trodden the trail each new reader took and expressed confidently, “
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2018/
-- This article: https://urantia-association.org/journal-editorial-may-2018
+- [This article](https://urantia-association.org/journal-editorial-may-2018)
 
 <figure class="table chapter-navigator">
   <table>

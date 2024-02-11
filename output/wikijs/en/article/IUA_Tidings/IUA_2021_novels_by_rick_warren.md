@@ -106,7 +106,7 @@ You can view and purchase all books, versions, and translations on Amazon at: [h
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
-- This article: https://urantia-association.org/novels-by-rick-warren
+- [This article](https://urantia-association.org/novels-by-rick-warren)
 
 <figure class="table chapter-navigator">
   <table>

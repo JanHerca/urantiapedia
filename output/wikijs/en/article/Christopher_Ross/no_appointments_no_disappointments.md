@@ -124,7 +124,7 @@ Thus he failed to do the work, to engage in the never-ending daily devotion of o
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
-- This article: https://urantia-association.org/no-appointments-no-disappointments
+- [This article](https://urantia-association.org/no-appointments-no-disappointments)
 
 <figure class="table chapter-navigator">
   <table>

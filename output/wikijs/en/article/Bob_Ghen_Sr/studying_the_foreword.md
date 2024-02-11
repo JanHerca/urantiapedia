@@ -103,7 +103,7 @@ Most assuredly, a focused study of the Foreword is one of the wisest investments
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-february-2016/
-- This article: https://urantia-association.org/studying-the-foreword
+- [This article](https://urantia-association.org/studying-the-foreword)
 
 <figure class="table chapter-navigator">
   <table>

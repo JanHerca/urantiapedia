@@ -73,8 +73,8 @@ I hope you enjoyed this behindthe-scenes look at our school. The enrollment peri
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-04/ubis-experience-behind-scenes
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-04/ubis-experience-behind-scenes)
 
 <figure class="table chapter-navigator">
   <table>

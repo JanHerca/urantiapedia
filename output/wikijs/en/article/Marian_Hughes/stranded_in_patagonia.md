@@ -87,7 +87,7 @@ We are both very grateful for all the help, seen and unseen, that we received al
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2020/
-- This article: https://urantia-association.org/stranded-in-patagonia
+- [This article](https://urantia-association.org/stranded-in-patagonia)
 
 <figure class="table chapter-navigator">
   <table>

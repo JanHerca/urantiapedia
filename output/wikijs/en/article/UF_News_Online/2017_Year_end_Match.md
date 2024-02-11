@@ -65,8 +65,8 @@ Gard Jameson, Richard Keeler, Marilynn Kulieke, Georges Michelson-Dupont, Henk M
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-12/2017-year-end-match
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-12/2017-year-end-match)
 
 <figure class="table chapter-navigator">
   <table>

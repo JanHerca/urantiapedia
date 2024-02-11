@@ -63,8 +63,8 @@ So grab hold, and hang on. It is a cosmic ride, but the price of the ticket is m
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-03/how-urantia-book-inspires-giving
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-03/how-urantia-book-inspires-giving)
 
 <figure class="table chapter-navigator">
   <table>

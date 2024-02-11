@@ -70,8 +70,8 @@ I hope you found reading about UBIS to be enlightening. May we all find the wisd
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-03/ubis-is-hot
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-03/ubis-is-hot)
 
 <figure class="table chapter-navigator">
   <table>

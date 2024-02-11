@@ -35,6 +35,6 @@ Te amo.
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-09/even-i-have-loved-you
+- [Este artículo](https://www.urantia.org/news/2007-09/even-i-have-loved-you)
 
 

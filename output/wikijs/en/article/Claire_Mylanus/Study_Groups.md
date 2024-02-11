@@ -79,8 +79,8 @@ There is such a joy! It is each time a blessing and a privilege being together, 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-03/study-groups-principle-sharing
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-03/study-groups-principle-sharing)
 
 <figure class="table chapter-navigator">
   <table>

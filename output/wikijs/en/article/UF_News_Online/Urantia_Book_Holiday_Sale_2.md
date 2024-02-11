@@ -38,7 +38,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 
 <figure class="table chapter-navigator">
   <table>

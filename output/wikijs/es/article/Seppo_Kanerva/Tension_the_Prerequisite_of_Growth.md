@@ -35,6 +35,6 @@ Incluso si no podemos ignorar los resultados positivos de las dificultades de lo
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-12/tension-prerequisite-growth
+- [Este artículo](https://www.urantia.org/news/2007-12/tension-prerequisite-growth)
 
 

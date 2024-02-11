@@ -68,8 +68,8 @@ Swedish | 2010 | Joel Rehnström | Urantiaboken
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-08/timeline-urantia-book-and-its-translations
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-08/timeline-urantia-book-and-its-translations)
 
 <figure class="table chapter-navigator">
   <table>

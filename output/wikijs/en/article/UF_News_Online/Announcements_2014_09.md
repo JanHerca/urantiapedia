@@ -68,8 +68,8 @@ If you have any questions, please contact Tamara at tamara@urantia.org.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-10/urantia-book-android-app
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-10/urantia-book-android-app)
 
 <figure class="table chapter-navigator">
   <table>

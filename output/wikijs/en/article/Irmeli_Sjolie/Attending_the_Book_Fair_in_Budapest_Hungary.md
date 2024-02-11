@@ -65,8 +65,8 @@ It was a most rewarding experience!
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-06/attending-book-fair-in-budapest-hungary
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-06/attending-book-fair-in-budapest-hungary)
 
 <figure class="table chapter-navigator">
   <table>

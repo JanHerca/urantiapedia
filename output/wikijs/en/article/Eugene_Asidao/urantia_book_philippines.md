@@ -107,7 +107,7 @@ In general we notice a generation gap within the Urantia movement. This is true 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2020/
-- This article: https://urantia-association.org/urantia-book-philippines
+- [This article](https://urantia-association.org/urantia-book-philippines)
 
 <figure class="table chapter-navigator">
   <table>

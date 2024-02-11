@@ -100,8 +100,8 @@ associate trustee term expiring now, the board of trustees appointed her an asso
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-06/noteworthy-decisions-april-2017-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-06/noteworthy-decisions-april-2017-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

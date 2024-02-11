@@ -73,8 +73,8 @@ Let us be thankful to, and appreciative of, those loving souls who have dedicate
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-09/study-groups-and-translations
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-09/study-groups-and-translations)
 
 <figure class="table chapter-navigator">
   <table>

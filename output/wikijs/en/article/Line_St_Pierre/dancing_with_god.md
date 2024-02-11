@@ -102,7 +102,7 @@ The Daughters of God group would love to share this model with other groups to h
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2015/
-- This article: https://urantia-association.org/dancing-with-god
+- [This article](https://urantia-association.org/dancing-with-god)
 
 <figure class="table chapter-navigator">
   <table>

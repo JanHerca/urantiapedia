@@ -99,7 +99,7 @@ E-mail: [info@urantia.nl](mailto:info@urantia.nl)
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2017/
-- This article: https://urantia-association.org/international-conference-2018-update
+- [This article](https://urantia-association.org/international-conference-2018-update)
 
 <figure class="table chapter-navigator">
   <table>

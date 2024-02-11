@@ -73,8 +73,8 @@ We have undoubtedly helped seed _The Urantia Book_ in Israel. And years from now
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-03/2015-international-book-fair-in-jerusalem
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-03/2015-international-book-fair-in-jerusalem)
 
 <figure class="table chapter-navigator">
   <table>

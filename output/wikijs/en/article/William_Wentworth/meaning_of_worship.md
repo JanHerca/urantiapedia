@@ -151,7 +151,7 @@ Finally, to put worship and service into relationship with one another, remember
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2019/
-- This article: https://urantia-association.org/meaning-of-worship
+- [This article](https://urantia-association.org/meaning-of-worship)
 
 <figure class="table chapter-navigator">
   <table>

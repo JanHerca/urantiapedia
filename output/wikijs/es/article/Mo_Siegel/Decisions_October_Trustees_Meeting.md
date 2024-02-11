@@ -120,6 +120,6 @@ La Junta decidió que necesitábamos aclarar un par de cuestiones. Cuando lees u
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting
+- [Este artículo](https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting)
 
 

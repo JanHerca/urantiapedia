@@ -125,7 +125,7 @@ _This report was prepared by Sergey Litvinov and Anton Miroshnichenko. We used p
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
-- This article: https://urantia-association.org/russian-conference-report
+- [This article](https://urantia-association.org/russian-conference-report)
 
 <figure class="table chapter-navigator">
   <table>

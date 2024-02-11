@@ -92,8 +92,8 @@ For more information, or to register, visit parliamentofreligions.org.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-10/urantia-foundation-attend-2018-parliament-worlds-religions
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-10/urantia-foundation-attend-2018-parliament-worlds-religions)
 
 <figure class="table chapter-navigator">
   <table>

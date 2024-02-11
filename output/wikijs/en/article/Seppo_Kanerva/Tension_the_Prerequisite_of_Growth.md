@@ -57,8 +57,8 @@ Even if we cannot be blind to the positive outcomes of the difficulties of the l
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-12/tension-prerequisite-growth
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-12/tension-prerequisite-growth)
 
 
 <figure class="table chapter-navigator">

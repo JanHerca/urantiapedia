@@ -66,7 +66,7 @@ Urantia Association International
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
-- This article: https://urantia-association.org/modernizing-urantia-association
+- [This article](https://urantia-association.org/modernizing-urantia-association)
 
 <figure class="table chapter-navigator">
   <table>

@@ -73,8 +73,8 @@ With this revelation, I know where I came from, and I know where I am going.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-10/finding-urantia-book-in-nigeria-answer-my-childhood-prayer
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-10/finding-urantia-book-in-nigeria-answer-my-childhood-prayer)
 
 <figure class="table chapter-navigator">
   <table>

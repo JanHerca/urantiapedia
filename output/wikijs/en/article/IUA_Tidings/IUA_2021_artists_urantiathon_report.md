@@ -54,7 +54,7 @@ Also, the presentations will eventually be available on our YouTube channel. Kee
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2021/
-- This article: https://urantia-association.org/artists-urantiathon-report
+- [This article](https://urantia-association.org/artists-urantiathon-report)
 
 <figure class="table chapter-navigator">
   <table>

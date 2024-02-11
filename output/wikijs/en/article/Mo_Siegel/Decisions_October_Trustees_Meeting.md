@@ -142,8 +142,8 @@ The Board decided that we needed to clarify a couple of matters. When you read a
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting)
 
 
 <figure class="table chapter-navigator">

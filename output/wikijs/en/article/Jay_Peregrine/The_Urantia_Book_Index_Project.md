@@ -77,8 +77,8 @@ After interested readers have had a chance to look at the index and comment on i
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-03/urantia-book-index-project
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-03/urantia-book-index-project)
 
 <figure class="table chapter-navigator">
   <table>

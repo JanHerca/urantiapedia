@@ -68,7 +68,7 @@ We can also value and participate in the many spaces and ways that have already 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2023/
-- This article: https://urantia-association.org/presidents-message-tidings-june-2023
+- [This article](https://urantia-association.org/presidents-message-tidings-june-2023)
 
 <figure class="table chapter-navigator">
   <table>

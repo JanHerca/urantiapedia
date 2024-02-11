@@ -83,7 +83,7 @@ To see a detailed outline of our plan see our 2021 Annual report at: [https://ur
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
-- This article: https://urantia-association.org/brazil-urantia-association
+- [This article](https://urantia-association.org/brazil-urantia-association)
 
 <figure class="table chapter-navigator">
   <table>

@@ -60,7 +60,7 @@ Let us also say that these charming people are potentially capable of making thi
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
-- This article: https://urantia-association.org/italian-conference-report-2
+- [This article](https://urantia-association.org/italian-conference-report-2)
 
 <figure class="table chapter-navigator">
   <table>

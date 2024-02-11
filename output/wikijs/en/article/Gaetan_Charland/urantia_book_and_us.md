@@ -136,7 +136,7 @@ We found _The Urantia Book_ because we were searching for the truth it contains.
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2018/
-- This article: https://urantia-association.org/urantia-book-and-us
+- [This article](https://urantia-association.org/urantia-book-and-us)
 
 <figure class="table chapter-navigator">
   <table>

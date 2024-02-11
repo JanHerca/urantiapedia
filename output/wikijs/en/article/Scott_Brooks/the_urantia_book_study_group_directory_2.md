@@ -71,7 +71,7 @@ _Columbus, Ohio, United States_
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2015/
-- This article: https://urantia-association.org/the-urantia-book-study-group-directory
+- [This article](https://urantia-association.org/the-urantia-book-study-group-directory)
 
 <figure class="table chapter-navigator">
   <table>

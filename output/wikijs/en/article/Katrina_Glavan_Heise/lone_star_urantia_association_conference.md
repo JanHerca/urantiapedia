@@ -78,7 +78,7 @@ To see LSUA’s newsletter with a detailed account and photos of the conference 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
-- This article: https://urantia-association.org/lone-star-urantia-association-conference
+- [This article](https://urantia-association.org/lone-star-urantia-association-conference)
 
 <figure class="table chapter-navigator">
   <table>

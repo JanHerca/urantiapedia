@@ -71,8 +71,8 @@ Following the success of the conference, a committee of readers was formed to pl
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-12/first-conference-readers-urantia-book-in-russia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-12/first-conference-readers-urantia-book-in-russia)
 
 <figure class="table chapter-navigator">
   <table>

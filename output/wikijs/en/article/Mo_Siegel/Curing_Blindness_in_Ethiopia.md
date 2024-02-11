@@ -115,8 +115,8 @@ If there were one message I could leave with you, it's that you envision the Tho
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-12/curing-blindness-in-ethiopia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-12/curing-blindness-in-ethiopia)
 
 <figure class="table chapter-navigator">
   <table>

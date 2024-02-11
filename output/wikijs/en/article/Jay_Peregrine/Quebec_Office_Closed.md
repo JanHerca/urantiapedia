@@ -52,8 +52,8 @@ In today's world the book industry is consolidating and emphasizing efficiency. 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-09/quebec-office-closed
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-09/quebec-office-closed)
 
 <figure class="table chapter-navigator">
   <table>

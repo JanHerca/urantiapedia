@@ -68,8 +68,8 @@ Some time ago I received ten books from Urantia Foundation (thanks to Tamara for
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-10/beauty-sharing-seeding-teachings-in-indonesia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-10/beauty-sharing-seeding-teachings-in-indonesia)
 
 <figure class="table chapter-navigator">
   <table>

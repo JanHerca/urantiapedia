@@ -50,7 +50,7 @@ Cheryl Glicker
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2017/
-- This article: https://urantia-association.org/young-readers-study-groups
+- [This article](https://urantia-association.org/young-readers-study-groups)
 
 <figure class="table chapter-navigator">
   <table>

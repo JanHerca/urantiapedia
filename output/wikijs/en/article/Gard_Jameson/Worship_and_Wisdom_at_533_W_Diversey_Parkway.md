@@ -52,8 +52,8 @@ The trustees are more committed than ever to the work of education. Through inho
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-06/worship-and-wisdom-533-w-diversey-parkway
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-06/worship-and-wisdom-533-w-diversey-parkway)
 
 <figure class="table chapter-navigator">
   <table>

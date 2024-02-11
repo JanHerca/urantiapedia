@@ -72,8 +72,8 @@ All of us appreciated the level of trust, respect, and vulnerability in our shar
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-04/dancing-god-living-in-love-in-trying
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-04/dancing-god-living-in-love-in-trying)
 
 <figure class="table chapter-navigator">
   <table>

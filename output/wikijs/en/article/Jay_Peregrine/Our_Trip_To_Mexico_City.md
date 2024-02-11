@@ -61,8 +61,8 @@ Mo and I plan to attend a conference in Mazatlan in May, sponsored by Grupo Orvo
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-03/our-trip-mexico-city
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-03/our-trip-mexico-city)
 
 <figure class="table chapter-navigator">
   <table>

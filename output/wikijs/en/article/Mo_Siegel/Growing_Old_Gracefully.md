@@ -61,8 +61,8 @@ While being high minded and intellectual, the teachings of _The Urantia Book_ ar
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-12/growing-old-gracefully
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-12/growing-old-gracefully)
 
 <figure class="table chapter-navigator">
   <table>

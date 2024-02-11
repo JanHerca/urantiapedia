@@ -67,8 +67,8 @@ For all the above reasons, I am certain that a milestone has been reached in the
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-12/third-european-conference-urantia-book-readers-overcoming-materialism-and-enlightening
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-12/third-european-conference-urantia-book-readers-overcoming-materialism-and-enlightening)
 
 <figure class="table chapter-navigator">
   <table>

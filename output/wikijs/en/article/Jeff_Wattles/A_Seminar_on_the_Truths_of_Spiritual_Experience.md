@@ -67,8 +67,8 @@ If you cannot attend the seminar, you can listen to podcasts of a two-month cour
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-11/seminar-truths-spiritual-experience
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-11/seminar-truths-spiritual-experience)
 
 <figure class="table chapter-navigator">
   <table>

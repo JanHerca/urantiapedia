@@ -71,8 +71,8 @@ Peace be with you.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-10/urantia-book-in-guatemala
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-10/urantia-book-in-guatemala)
 
 <figure class="table chapter-navigator">
   <table>

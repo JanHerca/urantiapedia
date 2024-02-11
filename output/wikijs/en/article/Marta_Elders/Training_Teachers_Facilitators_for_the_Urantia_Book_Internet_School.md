@@ -62,8 +62,8 @@ In the course's final week we learned more about the teacher/facilitator require
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-09/training-teachersfacilitators-urantia-book-internet-school
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-09/training-teachersfacilitators-urantia-book-internet-school)
 
 <figure class="table chapter-navigator">
   <table>

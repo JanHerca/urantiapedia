@@ -65,7 +65,7 @@ Is it effective? Does it work? Is it the way to a better life? Discover for your
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2019/
-- This article: https://urantia-association.org/supermeditation
+- [This article](https://urantia-association.org/supermeditation)
 
 <figure class="table chapter-navigator">
   <table>

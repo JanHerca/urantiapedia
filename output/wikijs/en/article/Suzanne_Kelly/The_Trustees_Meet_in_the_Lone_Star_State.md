@@ -63,8 +63,8 @@ We ended the meeting with a great Texas BBQ, lots of camaraderie, and plans to d
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-03/trustees-meet-in-lone-star-state
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-03/trustees-meet-in-lone-star-state)
 
 <figure class="table chapter-navigator">
   <table>

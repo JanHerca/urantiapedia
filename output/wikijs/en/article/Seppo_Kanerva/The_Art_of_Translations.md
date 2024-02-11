@@ -99,8 +99,8 @@ Through their exacting work, translators render a great service to fellow speake
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-12/art-translations
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-12/art-translations)
 
 <figure class="table chapter-navigator">
   <table>

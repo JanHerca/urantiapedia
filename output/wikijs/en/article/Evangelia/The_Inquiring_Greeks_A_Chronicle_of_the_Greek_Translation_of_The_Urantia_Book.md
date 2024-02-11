@@ -88,8 +88,8 @@ Hopefully, this collaboration will continue to bear fruit, perhaps extending to 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-03/inquiring-greeks-chronicle-greek-translation-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-03/inquiring-greeks-chronicle-greek-translation-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

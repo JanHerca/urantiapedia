@@ -69,8 +69,8 @@ The book remains very simple and incomprehensibly complex at the same time. But 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-03/what-urantia-book-means-me-michael-edwards
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-03/what-urantia-book-means-me-michael-edwards)
 
 <figure class="table chapter-navigator">
   <table>

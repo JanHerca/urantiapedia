@@ -102,8 +102,8 @@ _Editors Note: Trustee Georges Michelson-Dupont has provided pictures of the pri
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-06/printing-el-libro-de-urantia-european-edition
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-06/printing-el-libro-de-urantia-european-edition)
 
 <figure class="table chapter-navigator">
   <table>

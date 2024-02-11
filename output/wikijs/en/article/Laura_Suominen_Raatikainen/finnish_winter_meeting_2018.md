@@ -56,7 +56,7 @@ Everybody left feeling very satisfied and in a happy mood. Not only had there be
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2018/
-- This article: https://urantia-association.org/finnish-winter-meeting-2018
+- [This article](https://urantia-association.org/finnish-winter-meeting-2018)
 
 <figure class="table chapter-navigator">
   <table>

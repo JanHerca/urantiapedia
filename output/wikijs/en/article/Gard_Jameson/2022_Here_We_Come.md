@@ -55,8 +55,8 @@ For these blessings, and for each of you traveling toward a future bright with t
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-01/2022-here-we-come
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-01/2022-here-we-come)
 
 <figure class="table chapter-navigator">
   <table>

@@ -78,8 +78,8 @@ On July 24, at IC'14, the committees held the workshop that was previewed in Chi
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-10/joint-seminar-education-committees-three-major-urantia-organizations
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-10/joint-seminar-education-committees-three-major-urantia-organizations)
 
 <figure class="table chapter-navigator">
   <table>

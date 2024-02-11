@@ -58,8 +58,8 @@ The wider problem is that most people are actually not interested at all. They a
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-03/reflections-introducing-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-03/reflections-introducing-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

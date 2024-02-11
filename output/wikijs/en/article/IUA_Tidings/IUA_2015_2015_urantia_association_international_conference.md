@@ -144,7 +144,7 @@ For questions, email Gaetan Charland or Line St. Pierre at: [association.urantia
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
-- This article: https://urantia-association.org/2015-urantia-association-international-conference
+- [This article](https://urantia-association.org/2015-urantia-association-international-conference)
 
 <figure class="table chapter-navigator">
   <table>

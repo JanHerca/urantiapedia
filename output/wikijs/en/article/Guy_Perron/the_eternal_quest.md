@@ -143,7 +143,7 @@ Such a life on such a planet!
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-december-2015/
-- This article: https://urantia-association.org/the-eternal-quest
+- [This article](https://urantia-association.org/the-eternal-quest)
 
 <figure class="table chapter-navigator">
   <table>

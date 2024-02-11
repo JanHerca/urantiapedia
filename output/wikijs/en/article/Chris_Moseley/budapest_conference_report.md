@@ -89,7 +89,7 @@ Chris Moseley (UK)
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
-- This article: https://urantia-association.org/budapest-conference-report
+- [This article](https://urantia-association.org/budapest-conference-report)
 
 <figure class="table chapter-navigator">
   <table>

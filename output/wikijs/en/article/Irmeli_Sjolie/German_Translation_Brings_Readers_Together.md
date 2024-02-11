@@ -66,8 +66,8 @@ After the meeting was over, many new friendships were formed and new study group
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-12/german-translation-brings-readers-together
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-12/german-translation-brings-readers-together)
 
 
 <figure class="table chapter-navigator">

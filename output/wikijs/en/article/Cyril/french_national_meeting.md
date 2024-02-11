@@ -106,7 +106,7 @@ We had an agreeable surprise during this weekend – the arrival of Antonio Sche
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
-- This article: https://urantia-association.org/french-national-meeting
+- [This article](https://urantia-association.org/french-national-meeting)
 
 <figure class="table chapter-navigator">
   <table>

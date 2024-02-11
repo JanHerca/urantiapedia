@@ -150,8 +150,8 @@ Thanks to Richard Zhu, the first draft of the Chinese translation is on Paper 17
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-12/updates-october-2020-trustee-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-12/updates-october-2020-trustee-meeting)
 
 <figure class="table chapter-navigator">
   <table>

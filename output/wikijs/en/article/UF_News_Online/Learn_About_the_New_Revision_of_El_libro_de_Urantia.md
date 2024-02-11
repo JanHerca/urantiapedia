@@ -70,8 +70,8 @@ Live interpretation service will be provided.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-04/learn-about-new-revision-el-libro-de-urantia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-04/learn-about-new-revision-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">
   <table>

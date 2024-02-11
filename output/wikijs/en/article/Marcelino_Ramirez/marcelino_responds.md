@@ -145,7 +145,7 @@ Cel.+58416-3700295
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2020/
-- This article: https://urantia-association.org/marcelino-responds
+- [This article](https://urantia-association.org/marcelino-responds)
 
 <figure class="table chapter-navigator">
   <table>

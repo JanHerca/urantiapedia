@@ -95,8 +95,8 @@ Here's a high-level look at the prioritized five-year goals.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-06/updates-april-2020-board-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-06/updates-april-2020-board-meeting)
 
 <figure class="table chapter-navigator">
   <table>

@@ -111,7 +111,7 @@ Let us all remember that we need to be the change that we want to see in the wor
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2019/
-- This article: https://urantia-association.org/study-groups-revisited
+- [This article](https://urantia-association.org/study-groups-revisited)
 
 <figure class="table chapter-navigator">
   <table>

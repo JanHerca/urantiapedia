@@ -181,7 +181,7 @@ _The Urantia Book_ and even its teachings are means to ends. But if we are to va
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
-- This article: https://urantia-association.org/safe-and-true
+- [This article](https://urantia-association.org/safe-and-true)
 
 <figure class="table chapter-navigator">
   <table>

@@ -60,7 +60,7 @@ President – Urantia Association of Brazil
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
-- This article: https://urantia-association.org/brazil-national-meeting
+- [This article](https://urantia-association.org/brazil-national-meeting)
 
 <figure class="table chapter-navigator">
   <table>

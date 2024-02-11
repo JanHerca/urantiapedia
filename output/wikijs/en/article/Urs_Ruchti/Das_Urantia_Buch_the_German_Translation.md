@@ -60,8 +60,8 @@ Das Urantia Buch is selling rather well. Readers meet in Frankfurt, Freiburg, Zu
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-12/das-urantia-buch-german-translation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-12/das-urantia-buch-german-translation)
 
 <figure class="table chapter-navigator">
   <table>

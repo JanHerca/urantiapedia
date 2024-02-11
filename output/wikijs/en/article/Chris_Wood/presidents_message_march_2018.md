@@ -64,7 +64,7 @@ The Foundation and Association have long been great friends and true sister orga
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2018/
-- This article: https://urantia-association.org/presidents-message-march-2018
+- [This article](https://urantia-association.org/presidents-message-march-2018)
 
 <figure class="table chapter-navigator">
   <table>

@@ -78,6 +78,6 @@ Viajar a Asia es barato y atrae a cientos de miles de jóvenes y jubilados. Las 
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-05/urantia-book-in-india
+- [Este artículo](https://www.urantia.org/news/2007-05/urantia-book-in-india)
 
 

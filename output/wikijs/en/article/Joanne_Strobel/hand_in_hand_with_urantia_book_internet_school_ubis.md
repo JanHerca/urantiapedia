@@ -117,7 +117,7 @@ Here is a small sample of our slate of 17 courses!
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
-- This article: https://urantia-association.org/hand-in-hand-with-urantia-book-internet-school-ubis
+- [This article](https://urantia-association.org/hand-in-hand-with-urantia-book-internet-school-ubis)
 
 <figure class="table chapter-navigator">
   <table>

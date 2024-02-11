@@ -87,7 +87,7 @@ And for one final time I invite you all to happy and enlightened reading!
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2020/
-- This article: https://urantia-association.org/journal-editorial-november-2020
+- [This article](https://urantia-association.org/journal-editorial-november-2020)
 
 <figure class="table chapter-navigator">
   <table>

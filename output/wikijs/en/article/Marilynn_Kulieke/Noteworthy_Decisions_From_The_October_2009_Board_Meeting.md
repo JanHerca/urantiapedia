@@ -119,8 +119,8 @@ http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=298474490&mt=8
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-12/noteworthy-decisions-october-2009-board-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-12/noteworthy-decisions-october-2009-board-meeting)
 
 <figure class="table chapter-navigator">
   <table>

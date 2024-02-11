@@ -113,8 +113,8 @@ Based on the Translation Committee's recommendation, the Board decided not to di
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-03/newsworthy-decisions-urantia-foundations-january-2008-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-03/newsworthy-decisions-urantia-foundations-january-2008-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

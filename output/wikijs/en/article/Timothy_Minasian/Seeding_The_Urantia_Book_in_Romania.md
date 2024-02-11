@@ -61,8 +61,8 @@ I enjoyed my trip to Romania and came away with positive feelings for the people
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-12/seeding-urantia-book-in-romania
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-12/seeding-urantia-book-in-romania)
 
 <figure class="table chapter-navigator">
   <table>

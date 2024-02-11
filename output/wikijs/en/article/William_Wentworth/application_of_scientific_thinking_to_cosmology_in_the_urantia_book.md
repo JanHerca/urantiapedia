@@ -104,7 +104,7 @@ It took many centuries for the reverse to happen—that is for revelatory techni
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
-- This article: https://urantia-association.org/application-of-scientific-thinking-to-cosmology-in-the-urantia-book
+- [This article](https://urantia-association.org/application-of-scientific-thinking-to-cosmology-in-the-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

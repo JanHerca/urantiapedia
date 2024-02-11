@@ -57,8 +57,8 @@ I hope to meet you all—if not here-then on the first mansion world.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-03/how-discovering-urantia-book-has-affected-my-life
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-03/how-discovering-urantia-book-has-affected-my-life)
 
 <figure class="table chapter-navigator">
   <table>

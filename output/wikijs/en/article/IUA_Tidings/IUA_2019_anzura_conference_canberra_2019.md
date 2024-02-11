@@ -81,7 +81,7 @@ Visit ANZURA’s website at [https://anzura.urantia-association.org](https://an
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
-- This article: https://urantia-association.org/anzura-conference-canberra-2019
+- [This article](https://urantia-association.org/anzura-conference-canberra-2019)
 
 <figure class="table chapter-navigator">
   <table>

@@ -91,8 +91,8 @@ Wishing everyone a joyous holiday season and good reading.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-12/fast-start-urantia-book-study-group-portal-tri-partisan-support-team-formed
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-12/fast-start-urantia-book-study-group-portal-tri-partisan-support-team-formed)
 
 <figure class="table chapter-navigator">
   <table>

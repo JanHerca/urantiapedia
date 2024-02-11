@@ -80,8 +80,8 @@ Ultimately, I will say that _The Urantia Book_ inspires me to what I would call 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-03/what-urantia-book-means-me-anton-miroshnichenko
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-03/what-urantia-book-means-me-anton-miroshnichenko)
 
 <figure class="table chapter-navigator">
   <table>

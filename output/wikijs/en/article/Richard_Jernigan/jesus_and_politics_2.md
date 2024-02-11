@@ -95,7 +95,7 @@ Along with many millions of others, we represent Jesus in the world.
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2020/
-- This article: https://urantia-association.org/jesus-and-politics-2
+- [This article](https://urantia-association.org/jesus-and-politics-2)
 
 <figure class="table chapter-navigator">
   <table>

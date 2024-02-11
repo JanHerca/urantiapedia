@@ -70,8 +70,8 @@ May your holiday season be filled with the joy of selfless giving to those aroun
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-12/season-gratitude-and-time-generosity
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-12/season-gratitude-and-time-generosity)
 
 <figure class="table chapter-navigator">
   <table>

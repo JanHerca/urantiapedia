@@ -82,8 +82,8 @@ Siempre adelante!
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-06/reflections-11th-meeting-urantia-book-readers-in-spain
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-06/reflections-11th-meeting-urantia-book-readers-in-spain)
 
 <figure class="table chapter-navigator">
   <table>

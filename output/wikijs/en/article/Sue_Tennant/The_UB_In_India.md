@@ -100,8 +100,8 @@ Travel in Asia is cheap and appeals to many hundreds of thousands of young peopl
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-05/urantia-book-in-india
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-05/urantia-book-in-india)
 
 
 <figure class="table chapter-navigator">

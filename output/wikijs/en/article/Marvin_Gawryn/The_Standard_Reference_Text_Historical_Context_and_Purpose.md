@@ -79,8 +79,8 @@ _Urantia Foundation remains dedicated to protecting and publishing the 1955 text
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-12/standard-reference-text-historical-context-and-purpose
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-12/standard-reference-text-historical-context-and-purpose)
 
 <figure class="table chapter-navigator">
   <table>

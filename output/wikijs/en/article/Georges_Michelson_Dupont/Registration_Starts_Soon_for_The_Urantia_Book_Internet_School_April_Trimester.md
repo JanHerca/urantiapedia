@@ -55,8 +55,8 @@ For questions or additional information about the courses, please write to Joann
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-03/registration-starts-soon-urantia-book-internet-school-april-trimester
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-03/registration-starts-soon-urantia-book-internet-school-april-trimester)
 
 <figure class="table chapter-navigator">
   <table>

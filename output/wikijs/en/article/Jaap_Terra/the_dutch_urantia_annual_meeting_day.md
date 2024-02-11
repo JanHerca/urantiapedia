@@ -69,7 +69,7 @@ President Netherlands Urantia Association
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
-- This article: https://urantia-association.org/the-dutch-urantia-annual-meeting-day
+- [This article](https://urantia-association.org/the-dutch-urantia-annual-meeting-day)
 
 <figure class="table chapter-navigator">
   <table>

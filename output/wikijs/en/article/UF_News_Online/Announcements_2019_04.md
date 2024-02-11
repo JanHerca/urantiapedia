@@ -57,8 +57,8 @@ Registration for the main session as well as pre- and postevents is open online 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-04/greek-and-hebrew-now-available-online, https://www.urantia.org/news/2019-04/urantia-book-fellowships-summer-study-session-2019
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-04/greek-and-hebrew-now-available-online, https://www.urantia.org/news/2019-04/urantia-book-fellowships-summer-study-session-2019)
 
 <figure class="table chapter-navigator">
   <table>

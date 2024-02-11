@@ -65,8 +65,8 @@ A perfect gift for the holidays!
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-12/czech-translation-now-available-online, https://www.urantia.org/news/2019-12/latin-american-readers-asked-support-and-you-responded
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-12/czech-translation-now-available-online, https://www.urantia.org/news/2019-12/latin-american-readers-asked-support-and-you-responded)
 
 <figure class="table chapter-navigator">
   <table>

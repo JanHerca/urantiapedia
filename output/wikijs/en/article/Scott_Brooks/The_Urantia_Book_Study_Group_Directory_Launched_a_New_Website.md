@@ -69,8 +69,8 @@ The current team members are Bill Beasley, Scott Brooks, Jackie Koury, Rick Lyon
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-10/urantia-book-study-group-directory-launched-new-website
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-10/urantia-book-study-group-directory-launched-new-website)
 
 <figure class="table chapter-navigator">
   <table>

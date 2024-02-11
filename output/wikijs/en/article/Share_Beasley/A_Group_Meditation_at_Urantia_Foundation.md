@@ -98,8 +98,8 @@ And now our day begins...
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-03/group-meditation-urantia-foundation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-03/group-meditation-urantia-foundation)
 
 <figure class="table chapter-navigator">
   <table>

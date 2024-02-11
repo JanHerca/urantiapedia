@@ -70,8 +70,8 @@ We recognize there is much to be done, and we are excited to see our efforts bea
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-08/five-days-533-w-diversey-parkway
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-08/five-days-533-w-diversey-parkway)
 
 <figure class="table chapter-navigator">
   <table>

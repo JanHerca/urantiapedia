@@ -65,7 +65,7 @@ I am confident that the Thought Adjuster that lives in every human being will gu
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2022/
-- This article: https://urantia-association.org/i-found-the-key
+- [This article](https://urantia-association.org/i-found-the-key)
 
 <figure class="table chapter-navigator">
   <table>

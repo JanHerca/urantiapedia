@@ -89,8 +89,8 @@ Now I wish you to share your relationships with each other. And be of good cheer
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-09/tribute-pat-mundelius
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-09/tribute-pat-mundelius)
 
 <figure class="table chapter-navigator">
   <table>

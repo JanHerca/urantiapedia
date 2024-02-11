@@ -76,7 +76,7 @@ Urantia Association International
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
-- This article: https://urantia-association.org/more-on-study-groups
+- [This article](https://urantia-association.org/more-on-study-groups)
 
 <figure class="table chapter-navigator">
   <table>

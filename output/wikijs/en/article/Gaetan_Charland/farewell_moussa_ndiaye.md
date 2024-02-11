@@ -51,7 +51,7 @@ Safe journey my friend in your new adventure in our local universe.
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
-- This article: https://urantia-association.org/farewell-moussa-ndiaye
+- [This article](https://urantia-association.org/farewell-moussa-ndiaye)
 
 <figure class="table chapter-navigator">
   <table>

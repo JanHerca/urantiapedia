@@ -78,7 +78,7 @@ Thank you for joining us in our efforts to spread the teachings of _The Urantia 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2018/
-- This article: https://urantia-association.org/donating-via-amazonsmile
+- [This article](https://urantia-association.org/donating-via-amazonsmile)
 
 <figure class="table chapter-navigator">
   <table>

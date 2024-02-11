@@ -47,8 +47,8 @@ The IT specialists participating in the Round Table came together to share best 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-12/meeting-it-minds
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-12/meeting-it-minds)
 
 <figure class="table chapter-navigator">
   <table>

@@ -64,8 +64,8 @@ And, once again, the event underscored the delight that readers from various org
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-06/cooperative-venture-chicago-lit-fest
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-06/cooperative-venture-chicago-lit-fest)
 
 <figure class="table chapter-navigator">
   <table>

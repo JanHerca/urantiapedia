@@ -73,8 +73,8 @@ Once more I rest my eyes on my now enthusiastic 12-year-old, who tells me his ho
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-04/springtime-new-el-libro-de-urantia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-04/springtime-new-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">
   <table>

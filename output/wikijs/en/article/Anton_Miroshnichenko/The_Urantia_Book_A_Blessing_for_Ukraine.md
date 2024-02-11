@@ -86,8 +86,8 @@ And finally we express our gratitude to the Father and to all our unseen friends
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-07/urantia-book-blessing-ukraine
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-07/urantia-book-blessing-ukraine)
 
 <figure class="table chapter-navigator">
   <table>

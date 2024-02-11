@@ -80,8 +80,8 @@ Doreen Heyne offered this review of the seminar:
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-03/what-women-are-planning-report-our-second-gathering
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-03/what-women-are-planning-report-our-second-gathering)
 
 <figure class="table chapter-navigator">
   <table>

@@ -57,8 +57,8 @@ We facilitators sometimes face individual challenges in doing our best, but the 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-03/my-experience-urantia-book-internet-school-ubis-facilitator
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-03/my-experience-urantia-book-internet-school-ubis-facilitator)
 
 <figure class="table chapter-navigator">
   <table>

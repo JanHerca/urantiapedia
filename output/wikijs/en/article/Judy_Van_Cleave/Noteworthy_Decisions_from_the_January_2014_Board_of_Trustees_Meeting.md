@@ -82,8 +82,8 @@ In December the third floor renovation was completed on schedule and below budge
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-03/noteworthy-decisions-january-2014-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-03/noteworthy-decisions-january-2014-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

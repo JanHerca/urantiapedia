@@ -94,8 +94,8 @@ Contact: Myra Hight, PIRT Chair, my@mtn-rose.com
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-12/sharing-urantia-book-prisoner-inquiry-response-team
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-12/sharing-urantia-book-prisoner-inquiry-response-team)
 
 <figure class="table chapter-navigator">
   <table>

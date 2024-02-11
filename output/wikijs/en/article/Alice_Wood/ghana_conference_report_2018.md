@@ -66,7 +66,7 @@ Toward the end of the conference, a quote from _The Urantia Book_ was brought fo
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
-- This article: https://urantia-association.org/ghana-conference-report-2018
+- [This article](https://urantia-association.org/ghana-conference-report-2018)
 
 <figure class="table chapter-navigator">
   <table>

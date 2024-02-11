@@ -52,7 +52,7 @@ Also in 2020 and 2021, we participated in Urantiathons and in the activities of 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
-- This article: https://urantia-association.org/guatemala-urantia-association
+- [This article](https://urantia-association.org/guatemala-urantia-association)
 
 <figure class="table chapter-navigator">
   <table>

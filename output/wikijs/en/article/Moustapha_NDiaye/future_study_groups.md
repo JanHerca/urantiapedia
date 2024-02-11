@@ -96,7 +96,7 @@ Together with the Master Son, the God within us, and Supreme all around us, let 
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2019/
-- This article: https://urantia-association.org/future-study-groups
+- [This article](https://urantia-association.org/future-study-groups)
 
 <figure class="table chapter-navigator">
   <table>

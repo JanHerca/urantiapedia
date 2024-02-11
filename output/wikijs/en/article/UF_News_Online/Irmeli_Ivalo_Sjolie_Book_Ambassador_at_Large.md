@@ -59,8 +59,8 @@ Irmeli in Helsinki with the owner of Era Nova Book Shop. One can find the Finnis
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-06/irmeli-ivalo-sjolie-book-ambassador-large
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-06/irmeli-ivalo-sjolie-book-ambassador-large)
 
 <figure class="table chapter-navigator">
   <table>

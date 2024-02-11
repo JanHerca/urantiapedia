@@ -92,8 +92,8 @@ I must continue serving even with my worn-out engine, until it is broken. But I 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-06/indonesian-translation-journey-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-06/indonesian-translation-journey-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

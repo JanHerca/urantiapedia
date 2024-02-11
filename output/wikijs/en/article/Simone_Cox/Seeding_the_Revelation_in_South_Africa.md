@@ -64,8 +64,8 @@ As we pray earnestly that these wonderful papers will find their way into the ho
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-12/seeding-revelation-in-south-africa
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-12/seeding-revelation-in-south-africa)
 
 
 <figure class="table chapter-navigator">

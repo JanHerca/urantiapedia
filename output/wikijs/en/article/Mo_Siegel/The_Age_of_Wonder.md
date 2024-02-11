@@ -60,8 +60,8 @@ We are so blessed to be the early pioneers of the Fifth Epochal Revelation. Than
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-03/age-wonder
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-03/age-wonder)
 
 <figure class="table chapter-navigator">
   <table>

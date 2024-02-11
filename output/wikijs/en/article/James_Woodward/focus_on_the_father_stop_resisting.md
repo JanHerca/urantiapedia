@@ -60,7 +60,7 @@ Again, our friendly indwelling spirit—our moral co-pilot—will assist us in _
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
-- This article: https://urantia-association.org/focus-on-the-father-stop-resisting
+- [This article](https://urantia-association.org/focus-on-the-father-stop-resisting)
 
 <figure class="table chapter-navigator">
   <table>

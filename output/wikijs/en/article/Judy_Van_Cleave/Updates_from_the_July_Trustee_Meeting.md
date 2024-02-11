@@ -116,8 +116,8 @@ Donations: The fundraising objective is $630,000 in unrestricted donations, $25,
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-10/noteworthy-decisions-july-2020-trustee-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-10/noteworthy-decisions-july-2020-trustee-meeting)
 
 <figure class="table chapter-navigator">
   <table>

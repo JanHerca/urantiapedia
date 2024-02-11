@@ -222,7 +222,7 @@ The mind making a choice to fear not.
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-december-2015/
-- This article: https://urantia-association.org/cultivating-mind-choosing-the-right-tool
+- [This article](https://urantia-association.org/cultivating-mind-choosing-the-right-tool)
 
 <figure class="table chapter-navigator">
   <table>

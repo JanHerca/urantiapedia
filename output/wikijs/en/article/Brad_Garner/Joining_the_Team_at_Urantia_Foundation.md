@@ -60,8 +60,8 @@ This year Urantia Foundation offered me a full-time position, meaning I can cont
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-03/joining-team-urantia-foundation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-03/joining-team-urantia-foundation)
 
 <figure class="table chapter-navigator">
   <table>

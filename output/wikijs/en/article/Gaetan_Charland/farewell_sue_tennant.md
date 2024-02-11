@@ -54,7 +54,7 @@ Sue was a true expression of love and faith through service to others, she will 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2018/
-- This article: https://urantia-association.org/farewell-sue-tennant
+- [This article](https://urantia-association.org/farewell-sue-tennant)
 
 <figure class="table chapter-navigator">
   <table>

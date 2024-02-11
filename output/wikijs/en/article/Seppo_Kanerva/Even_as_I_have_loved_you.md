@@ -57,8 +57,8 @@ I love you.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-09/even-i-have-loved-you
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-09/even-i-have-loved-you)
 
 
 <figure class="table chapter-navigator">

@@ -124,8 +124,8 @@ The Board decided to establish a six-member ad hoc Committee on the Inviolate Te
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-05/newsworthy-items-april-2007-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-05/newsworthy-items-april-2007-trustees-meeting)
 
 
 <figure class="table chapter-navigator">

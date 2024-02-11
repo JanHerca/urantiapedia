@@ -89,8 +89,8 @@ Having recently moved to a new city, I was open to making new friendships. Seemi
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-09/sharing-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-09/sharing-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

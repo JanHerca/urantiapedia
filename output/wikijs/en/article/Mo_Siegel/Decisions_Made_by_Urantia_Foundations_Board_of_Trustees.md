@@ -74,8 +74,8 @@ The Board discussed the inventories of _The Urantia Book_ and its translations t
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-09/newsworthy-decisions-made-urantia-foundations-board-trustees
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-09/newsworthy-decisions-made-urantia-foundations-board-trustees)
 
 <figure class="table chapter-navigator">
   <table>

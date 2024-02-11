@@ -87,7 +87,7 @@ Read more about [Conference Archives](https://urantia-association.org/category/r
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
-- This article: https://urantia-association.org/bogota-conference-report
+- [This article](https://urantia-association.org/bogota-conference-report)
 
 <figure class="table chapter-navigator">
   <table>

@@ -79,8 +79,8 @@ We can recognize in many of these voices some of our own thinking, and even perc
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-03/womens-assembly-uplifting-experience
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-03/womens-assembly-uplifting-experience)
 
 <figure class="table chapter-navigator">
   <table>

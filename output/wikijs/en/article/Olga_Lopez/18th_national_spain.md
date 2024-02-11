@@ -91,7 +91,7 @@ Olga
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
-- This article: https://urantia-association.org/18th-national-spain
+- [This article](https://urantia-association.org/18th-national-spain)
 
 <figure class="table chapter-navigator">
   <table>

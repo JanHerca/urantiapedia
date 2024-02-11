@@ -61,7 +61,7 @@ The event took place via Zoom and was live-streamed to Facebook. You can s
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2021/
-- This article: https://urantia-association.org/iberoamerican-urantiathon
+- [This article](https://urantia-association.org/iberoamerican-urantiathon)
 
 <figure class="table chapter-navigator">
   <table>

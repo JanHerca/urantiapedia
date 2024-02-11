@@ -72,8 +72,8 @@ In 2023, the four members of the Cultural Advisory Council will be planning virt
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-12/cultural-advisory-council-welcomes-poland
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-12/cultural-advisory-council-welcomes-poland)
 
 <figure class="table chapter-navigator">
   <table>

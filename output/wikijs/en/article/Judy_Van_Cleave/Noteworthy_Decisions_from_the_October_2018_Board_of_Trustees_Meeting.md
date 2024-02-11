@@ -113,8 +113,8 @@ Urantia Foundation and the Urantia Society of Greater New York are planning to m
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-12/noteworthy-decisions-october-2018-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-12/noteworthy-decisions-october-2018-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

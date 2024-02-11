@@ -68,8 +68,8 @@ In considering what Urantia Foundation could do for Colombia, I think it would b
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-10/cultural-advisory-council-welcomes-colombia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-10/cultural-advisory-council-welcomes-colombia)
 
 <figure class="table chapter-navigator">
   <table>

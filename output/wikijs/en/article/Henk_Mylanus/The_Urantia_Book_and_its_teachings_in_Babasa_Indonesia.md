@@ -75,8 +75,8 @@ Please consider a donation and send your gift to Urantia Foundation earmarked fo
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-08/urantia-book-and-its-teachings-in-bahasa-indonesia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-08/urantia-book-and-its-teachings-in-bahasa-indonesia)
 
 <figure class="table chapter-navigator">
   <table>

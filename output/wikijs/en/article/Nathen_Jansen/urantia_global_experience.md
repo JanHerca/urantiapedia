@@ -64,7 +64,7 @@ The UGE website will be published and announced on July 1, Canada Day 2019.
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
-- This article: https://urantia-association.org/urantia-global-experience
+- [This article](https://urantia-association.org/urantia-global-experience)
 
 <figure class="table chapter-navigator">
   <table>

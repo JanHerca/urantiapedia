@@ -85,8 +85,8 @@ Following are the prioritized fiveyear goals:
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-04/noteworthy-decisions-january-2020-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-04/noteworthy-decisions-january-2020-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

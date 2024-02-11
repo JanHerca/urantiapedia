@@ -109,8 +109,8 @@ The following are excerpts and sentiments expressed by attendees of this retreat
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-12/dancing-god-weaving-tapestry-supreme
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-12/dancing-god-weaving-tapestry-supreme)
 
 <figure class="table chapter-navigator">
   <table>

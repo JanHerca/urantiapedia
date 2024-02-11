@@ -81,7 +81,7 @@ Any portrayal of fear or anxiety on our part is but a reflection of our lack of 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2021/
-- This article: https://urantia-association.org/anxious-evolution-of-urantia
+- [This article](https://urantia-association.org/anxious-evolution-of-urantia)
 
 <figure class="table chapter-navigator">
   <table>

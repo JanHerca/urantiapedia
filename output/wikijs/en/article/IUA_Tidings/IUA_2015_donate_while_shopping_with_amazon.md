@@ -69,7 +69,7 @@ Donations are made by the AmazonSmile Foundation and are not tax deductible by y
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
-- This article: https://urantia-association.org/donate-while-shopping-with-amazon
+- [This article](https://urantia-association.org/donate-while-shopping-with-amazon)
 
 <figure class="table chapter-navigator">
   <table>

@@ -110,7 +110,7 @@ Lastly, contrary to my initial impression that this tome is not exactly light re
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2022/
-- This article: https://urantia-association.org/the-what-book
+- [This article](https://urantia-association.org/the-what-book)
 
 <figure class="table chapter-navigator">
   <table>

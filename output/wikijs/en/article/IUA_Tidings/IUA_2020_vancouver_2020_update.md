@@ -69,7 +69,7 @@ For more information see – [Urantia Global Experience](https://urantiaglobalex
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2020/
-- This article: https://urantia-association.org/vancouver-2020-update
+- [This article](https://urantia-association.org/vancouver-2020-update)
 
 <figure class="table chapter-navigator">
   <table>

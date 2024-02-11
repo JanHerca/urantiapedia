@@ -96,7 +96,7 @@ President- Urantia Association of Malawi
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
-- This article: https://urantia-association.org/success-stories-urantia-books-distribution-in-malawi
+- [This article](https://urantia-association.org/success-stories-urantia-books-distribution-in-malawi)
 
 <figure class="table chapter-navigator">
   <table>

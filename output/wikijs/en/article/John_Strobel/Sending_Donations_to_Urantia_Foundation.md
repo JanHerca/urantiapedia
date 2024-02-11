@@ -54,8 +54,8 @@ Hi, I'm John Strobel, and I'm sure you know my wife Joanne, who has been serving
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-12/sending-donations-urantia-foundation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-12/sending-donations-urantia-foundation)
 
 <figure class="table chapter-navigator">
   <table>

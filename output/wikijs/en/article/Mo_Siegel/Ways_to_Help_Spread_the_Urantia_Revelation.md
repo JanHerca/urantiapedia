@@ -104,8 +104,8 @@ The Revelation Bridge Fund was established in 2017 to ensure that _The Urantia B
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-06/ways-help-spread-urantia-revelation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-06/ways-help-spread-urantia-revelation)
 
 <figure class="table chapter-navigator">
   <table>

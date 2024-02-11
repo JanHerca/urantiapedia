@@ -57,8 +57,8 @@ While she is no longer with us, her inspiration continues. Let us all work toget
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-07/celebrating-marjorie-reed
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-07/celebrating-marjorie-reed)
 
 <figure class="table chapter-navigator">
   <table>

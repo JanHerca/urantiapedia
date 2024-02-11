@@ -90,8 +90,8 @@ JaworskiPaul and Gosia Jaworski gave an update on their work with the Polish tra
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-10/updates-july-2022-trustee-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-10/updates-july-2022-trustee-meeting)
 
 <figure class="table chapter-navigator">
   <table>

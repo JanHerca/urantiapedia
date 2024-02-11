@@ -31,6 +31,6 @@ Pat dejó la Junta en 1997, pero en 2003 aceptó regresar como Fideicomisaria Em
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-09/trustee-emerita-patricia-mundelius-leaves-expanded-board
+- [Este artículo](https://www.urantia.org/news/2007-09/trustee-emerita-patricia-mundelius-leaves-expanded-board)
 
 

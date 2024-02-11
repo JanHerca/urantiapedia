@@ -50,7 +50,7 @@ Farewell dear Eddie. May your soul be at peace.
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
-- This article: https://urantia-association.org/graduation-eddie-king
+- [This article](https://urantia-association.org/graduation-eddie-king)
 
 <figure class="table chapter-navigator">
   <table>

@@ -64,8 +64,8 @@ http://urantiausa.com/index.php?view=show&page=conferences
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-03/spiritual-truths-cosmic-power-seek-study-grow-share
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-03/spiritual-truths-cosmic-power-seek-study-grow-share)
 
 <figure class="table chapter-navigator">
   <table>

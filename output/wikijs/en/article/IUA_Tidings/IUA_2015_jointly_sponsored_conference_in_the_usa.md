@@ -58,7 +58,7 @@ Lone Star Urantia Association at [http://www.urantia-lsua.org/2016-conference/45
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
-- This article: https://urantia-association.org/jointly-sponsored-conference-in-the-usa
+- [This article](https://urantia-association.org/jointly-sponsored-conference-in-the-usa)
 
 <figure class="table chapter-navigator">
   <table>

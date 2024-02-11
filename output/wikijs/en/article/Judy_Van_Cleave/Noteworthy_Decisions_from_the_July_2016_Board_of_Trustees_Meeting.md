@@ -100,8 +100,8 @@ The board received the following reports: 1 ) a report from the president, 2) a 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-09/noteworthy-decisions-july-2016-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-09/noteworthy-decisions-july-2016-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

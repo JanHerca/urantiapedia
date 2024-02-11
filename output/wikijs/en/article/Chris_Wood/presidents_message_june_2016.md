@@ -64,7 +64,7 @@ President
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2016/
-- This article: https://urantia-association.org/presidents-message-june-2016
+- [This article](https://urantia-association.org/presidents-message-june-2016)
 
 <figure class="table chapter-navigator">
   <table>

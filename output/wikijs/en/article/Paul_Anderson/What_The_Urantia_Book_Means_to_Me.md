@@ -69,8 +69,8 @@ So what does _The Urantia Book_ mean to me? In many ways _The Urantia Book_ is l
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-03/what-urantia-book-means-me-paul-anderson
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-03/what-urantia-book-means-me-paul-anderson)
 
 <figure class="table chapter-navigator">
   <table>

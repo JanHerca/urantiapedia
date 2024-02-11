@@ -66,8 +66,8 @@ It was thrilling and inspiring to box-up those books and prepare them for shippi
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-12/urantia-books-en-route-philippines
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-12/urantia-books-en-route-philippines)
 
 <figure class="table chapter-navigator">
   <table>

@@ -73,7 +73,7 @@ President UAB—Brazil
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
-- This article: https://urantia-association.org/latin-american-conference-2018-brazil
+- [This article](https://urantia-association.org/latin-american-conference-2018-brazil)
 
 <figure class="table chapter-navigator">
   <table>

@@ -69,8 +69,8 @@ In closing, let me emphasize that it is not enough to know _The Urantia Book_ in
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-06/my-quest-find-answers
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-06/my-quest-find-answers)
 
 <figure class="table chapter-navigator">
   <table>

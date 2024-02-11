@@ -94,8 +94,8 @@ Thank you, Father, for your beauty and symmetry.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-03/appreciating-sue-tennant
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-03/appreciating-sue-tennant)
 
 
 

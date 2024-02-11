@@ -99,8 +99,8 @@ You will receive updates regarding our progress in achieving these three goals. 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-06/1000-libraries-1000-book-reviews-and-1000-study-groups
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-06/1000-libraries-1000-book-reviews-and-1000-study-groups)
 
 <figure class="table chapter-navigator">
   <table>

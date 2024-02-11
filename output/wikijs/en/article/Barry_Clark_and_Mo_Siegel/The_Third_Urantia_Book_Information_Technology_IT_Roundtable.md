@@ -52,8 +52,8 @@ And it is in this spirit of cooperation that the Urantia Book IT Roundtable will
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-11/third-urantia-book-information-technology-it-roundtable
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-11/third-urantia-book-information-technology-it-roundtable)
 
 <figure class="table chapter-navigator">
   <table>

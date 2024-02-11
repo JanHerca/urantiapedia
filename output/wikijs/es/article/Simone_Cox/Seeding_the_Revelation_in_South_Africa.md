@@ -45,6 +45,6 @@ Mientras oramos fervientemente para que estos maravillosos documentos lleguen a 
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-12/seeding-revelation-in-south-africa
+- [Este artículo](https://www.urantia.org/news/2007-12/seeding-revelation-in-south-africa)
 
 

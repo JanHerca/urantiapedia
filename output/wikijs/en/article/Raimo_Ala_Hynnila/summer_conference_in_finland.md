@@ -64,7 +64,7 @@ President Finnish Urantia Association
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
-- This article: https://urantia-association.org/summer-conference-in-finland
+- [This article](https://urantia-association.org/summer-conference-in-finland)
 
 <figure class="table chapter-navigator">
   <table>

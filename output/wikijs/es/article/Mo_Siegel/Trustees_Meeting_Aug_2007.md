@@ -84,6 +84,6 @@ La tercera reunión trimestral terminó con esperanza, amor y entusiasmo dedicad
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-09/newsworthy-items-august-2007-trustee-meeting
+- [Este artículo](https://www.urantia.org/news/2007-09/newsworthy-items-august-2007-trustee-meeting)
 
 

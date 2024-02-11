@@ -46,8 +46,8 @@ We deeply appreciate and need your help. Your words will inspire others to find 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-09/help-wanted
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-09/help-wanted)
 
 
 <figure class="table chapter-navigator">

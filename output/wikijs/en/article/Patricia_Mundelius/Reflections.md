@@ -57,8 +57,8 @@ When I look back on the 1990's when I was President of the Trustees and now in t
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-09/reflections
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-09/reflections)
 
 
 <figure class="table chapter-navigator">

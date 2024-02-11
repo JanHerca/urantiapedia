@@ -93,8 +93,8 @@ UBIS is a magnificent place to share insights and to quest for wisdom. Even thou
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-06/ubis-experience
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-06/ubis-experience)
 
 <figure class="table chapter-navigator">
   <table>

@@ -76,8 +76,8 @@ My career has been in engineering. I have written four novels, three of which we
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-12/o-livro-de-urantia-portuguese-translation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-12/o-livro-de-urantia-portuguese-translation)
 
 <figure class="table chapter-navigator">
   <table>

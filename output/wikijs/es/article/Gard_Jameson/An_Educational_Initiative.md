@@ -55,6 +55,6 @@ Aunque no se llegó a conclusiones definitivas, fue emocionante ver a educadores
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-09/educational-initiative
+- [Este artículo](https://www.urantia.org/news/2007-09/educational-initiative)
 
 

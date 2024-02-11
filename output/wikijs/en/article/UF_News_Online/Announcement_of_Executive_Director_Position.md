@@ -102,7 +102,7 @@ Please submit a cover letter accompanied by a résumé as a pdf or Word document
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 
 <figure class="table chapter-navigator">
   <table>

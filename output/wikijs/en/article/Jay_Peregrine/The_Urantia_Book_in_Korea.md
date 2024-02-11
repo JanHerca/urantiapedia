@@ -73,8 +73,8 @@ After that meeting, the translators present talked about working cooperatively t
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-09/urantia-book-in-korea-news-korean-distribution-and-korean-book-fair
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-09/urantia-book-in-korea-news-korean-distribution-and-korean-book-fair)
 
 <figure class="table chapter-navigator">
   <table>

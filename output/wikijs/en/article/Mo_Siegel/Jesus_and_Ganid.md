@@ -64,8 +64,8 @@ I'm writing this article as I'm flying home from this wonderful journey. The tru
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-12/jesus-and-ganid
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-12/jesus-and-ganid)
 
 <figure class="table chapter-navigator">
   <table>

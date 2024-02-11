@@ -71,8 +71,8 @@ We hope this online tool will be a useful service to supporters of Urantia Found
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-06/new-planned-giving-website-urantiaorg
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-06/new-planned-giving-website-urantiaorg)
 
 <figure class="table chapter-navigator">
   <table>

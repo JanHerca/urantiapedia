@@ -60,8 +60,8 @@ With the support of my husband and daughter, I am committed to completing this p
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-11/audio-version-urantia-book-in-portuguese
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-11/audio-version-urantia-book-in-portuguese)
 
 <figure class="table chapter-navigator">
   <table>

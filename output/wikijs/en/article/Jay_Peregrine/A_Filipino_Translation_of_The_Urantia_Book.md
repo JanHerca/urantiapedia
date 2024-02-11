@@ -67,8 +67,8 @@ To donate to the Filipino Translation effort, please visit: https://www.urantia.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-04/filipino-translation-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-04/filipino-translation-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

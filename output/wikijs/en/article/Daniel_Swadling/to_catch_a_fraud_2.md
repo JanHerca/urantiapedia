@@ -148,7 +148,7 @@ Said Jesus:
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2016/
-- This article: https://urantia-association.org/to-catch-a-fraud-2
+- [This article](https://urantia-association.org/to-catch-a-fraud-2)
 
 <figure class="table chapter-navigator">
   <table>

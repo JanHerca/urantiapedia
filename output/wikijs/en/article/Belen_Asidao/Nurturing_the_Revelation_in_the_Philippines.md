@@ -72,8 +72,8 @@ Please pray for us as we continue with this profound spiritual undertaking.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-12/nurturing-revelation-in-philippines
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-12/nurturing-revelation-in-philippines)
 
 <figure class="table chapter-navigator">
   <table>

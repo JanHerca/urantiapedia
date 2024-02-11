@@ -194,7 +194,7 @@ I could cut and paste quotes from _The Urantia Book_ making the case that Jesus 
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
-- This article: https://urantia-association.org/preparing-for-spontaneity
+- [This article](https://urantia-association.org/preparing-for-spontaneity)
 
 <figure class="table chapter-navigator">
   <table>

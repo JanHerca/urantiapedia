@@ -65,7 +65,7 @@ _Journal_ Editor
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
-- This article: https://urantia-association.org/journal-march-2015-issue-now-available
+- [This article](https://urantia-association.org/journal-march-2015-issue-now-available)
 
 <figure class="table chapter-navigator">
   <table>

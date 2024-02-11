@@ -57,8 +57,8 @@ _The Urantia Book_ came into my life at a time when I was most in need of it; it
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-06/spiritual-rebirth-how-urantia-book-transformed-me
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-06/spiritual-rebirth-how-urantia-book-transformed-me)
 
 <figure class="table chapter-navigator">
   <table>

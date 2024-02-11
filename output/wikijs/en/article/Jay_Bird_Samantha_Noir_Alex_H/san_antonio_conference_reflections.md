@@ -106,7 +106,7 @@ Urantia Young Adult International committee member
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2016/
-- This article: https://urantia-association.org/san-antonio-conference-reflections
+- [This article](https://urantia-association.org/san-antonio-conference-reflections)
 
 <figure class="table chapter-navigator">
   <table>

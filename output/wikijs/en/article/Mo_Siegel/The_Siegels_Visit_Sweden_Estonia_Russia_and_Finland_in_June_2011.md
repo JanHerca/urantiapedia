@@ -113,8 +113,8 @@ The book is stocked in about 15-20 book stores throughout the country, and the p
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-12/siegels-visit-sweden-estonia-russia-and-finland-in-june-2011
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-12/siegels-visit-sweden-estonia-russia-and-finland-in-june-2011)
 
 <figure class="table chapter-navigator">
   <table>

@@ -63,8 +63,8 @@ We believe that bookfairs are important events for readers to attend and host bo
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-12/our-urantia-book-stand-cali-colombia-book-fair
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-12/our-urantia-book-stand-cali-colombia-book-fair)
 
 <figure class="table chapter-navigator">
   <table>

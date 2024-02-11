@@ -76,7 +76,7 @@ e-mail: [urantiaperupresidencia@gmail.com](mailto:urantiaperupresidencia@gmail.c
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2020/
-- This article: https://urantia-association.org/virtual-conference-peru-2021
+- [This article](https://urantia-association.org/virtual-conference-peru-2021)
 
 <figure class="table chapter-navigator">
   <table>

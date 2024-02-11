@@ -57,8 +57,8 @@ The book led me to know Jesus better. It showed me new and wonderful truths. It 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-06/experiencing-international-brotherhood-through-urantia-book-internet-school
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-06/experiencing-international-brotherhood-through-urantia-book-internet-school)
 
 <figure class="table chapter-navigator">
   <table>

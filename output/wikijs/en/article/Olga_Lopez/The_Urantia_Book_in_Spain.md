@@ -75,8 +75,8 @@ Other efforts are made to disseminate the book, including giving presentations i
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-06/urantia-book-in-spain
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-06/urantia-book-in-spain)
 
 <figure class="table chapter-navigator">
   <table>

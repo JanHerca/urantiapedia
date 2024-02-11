@@ -53,8 +53,8 @@ Joy is the clear sign of the Presence of God. When somber holy men and women app
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-09/highest-joy
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-09/highest-joy)
 
 <figure class="table chapter-navigator">
   <table>

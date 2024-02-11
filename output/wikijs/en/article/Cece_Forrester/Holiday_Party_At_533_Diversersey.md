@@ -55,8 +55,8 @@ Following the program, guests enjoyed a potluck buffet dinner. Entertainment was
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-03/holiday-party-533-diversey
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-03/holiday-party-533-diversey)
 
 <figure class="table chapter-navigator">
   <table>

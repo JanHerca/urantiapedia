@@ -88,8 +88,8 @@ It is clear to me that the human and technical qualities that each member brings
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-09/report-kickoff-meeting-revision-spanish-translation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-09/report-kickoff-meeting-revision-spanish-translation)
 
 <figure class="table chapter-navigator">
   <table>

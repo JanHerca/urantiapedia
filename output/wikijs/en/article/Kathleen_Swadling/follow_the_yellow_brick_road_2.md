@@ -187,7 +187,7 @@ And when we band together on this journey in service to our fellow man, we becom
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2016/
-- This article: https://urantia-association.org/follow-the-yellow-brick-road-2
+- [This article](https://urantia-association.org/follow-the-yellow-brick-road-2)
 
 <figure class="table chapter-navigator">
   <table>

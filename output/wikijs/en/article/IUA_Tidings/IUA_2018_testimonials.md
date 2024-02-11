@@ -136,7 +136,7 @@ I have had many experiences like this one in my service to my siblings in need. 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2018/
-- This article: https://urantia-association.org/testimonials
+- [This article](https://urantia-association.org/testimonials)
 
 <figure class="table chapter-navigator">
   <table>

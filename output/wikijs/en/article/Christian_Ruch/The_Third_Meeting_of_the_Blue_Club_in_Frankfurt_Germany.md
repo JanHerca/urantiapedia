@@ -66,8 +66,8 @@ The final item on our agenda was to discuss and plan for a also shared what work
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-06/third-meeting-blue-club-in-frankfurt-germany
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-06/third-meeting-blue-club-in-frankfurt-germany)
 
 <figure class="table chapter-navigator">
   <table>

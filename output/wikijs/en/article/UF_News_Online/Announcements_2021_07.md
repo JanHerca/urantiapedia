@@ -100,8 +100,8 @@ It includes new maps of the world Jesus traveled and lived in, a timeline, an in
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-06/turkish-translation-now-available-online and https://www.urantia.org/news/2021-06/summer-study-session and https://www.urantia.org/news/2021-06/jesus-birthday-global-celebration and https://www.urantia.org/news/2021-06/urantia-foundation-presents-science-symposium-iii-interface-evolution-and-revelation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-06/turkish-translation-now-available-online and https://www.urantia.org/news/2021-06/summer-study-session and https://www.urantia.org/news/2021-06/jesus-birthday-global-celebration and https://www.urantia.org/news/2021-06/urantia-foundation-presents-science-symposium-iii-interface-evolution-and-revelation)
 
 <figure class="table chapter-navigator">
   <table>

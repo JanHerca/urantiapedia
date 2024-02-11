@@ -98,8 +98,8 @@ Please work with your fellow believers in accomplishing these three crucial task
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-07/three-ways-help-spread-urantia-revelation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-07/three-ways-help-spread-urantia-revelation)
 
 <figure class="table chapter-navigator">
   <table>

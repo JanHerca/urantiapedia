@@ -72,8 +72,8 @@ On one Sunday, a Presbyterian pastor began his sermon by saying, “When I get u
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-03/sharing-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-03/sharing-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

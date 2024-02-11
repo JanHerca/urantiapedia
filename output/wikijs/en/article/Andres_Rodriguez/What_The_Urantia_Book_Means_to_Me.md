@@ -66,8 +66,8 @@ Finally, every time I reread the book, I find new truths, new expressions that w
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-01/what-urantia-book-means-me-andres-rodriguez
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-01/what-urantia-book-means-me-andres-rodriguez)
 
 <figure class="table chapter-navigator">
   <table>

@@ -75,8 +75,8 @@ Now, as you read that passage and think about communication and transportation, 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-09/effect-supply-chains-book-printing-and-distribution
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-09/effect-supply-chains-book-printing-and-distribution)
 
 <figure class="table chapter-navigator">
   <table>

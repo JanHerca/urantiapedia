@@ -44,6 +44,6 @@ Una vez terminada la reunión, se formaron muchas amistades nuevas y se iniciaro
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-12/german-translation-brings-readers-together
+- [Este artículo](https://www.urantia.org/news/2007-12/german-translation-brings-readers-together)
 
 

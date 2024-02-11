@@ -105,8 +105,8 @@ Finally, a big THANK YOU to each of the participants who traveled great distance
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-06/urantia-foundations-global-cultural-symposium
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-06/urantia-foundations-global-cultural-symposium)
 
 <figure class="table chapter-navigator">
   <table>

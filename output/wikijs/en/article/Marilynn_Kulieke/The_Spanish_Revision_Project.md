@@ -53,8 +53,8 @@ The proposal was accepted by the Board of Trustees, and the revision work will s
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-06/urantia-book-internet-school-my-lifeline-urantia-book-community
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-06/urantia-book-internet-school-my-lifeline-urantia-book-community)
 
 <figure class="table chapter-navigator">
   <table>

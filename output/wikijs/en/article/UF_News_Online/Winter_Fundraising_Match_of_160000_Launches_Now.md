@@ -69,8 +69,8 @@ Click here to donate: http://www.urantia.org/donate/online-donations
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-11/year-end-matching-fund-drive
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-11/year-end-matching-fund-drive)
 
 <figure class="table chapter-navigator">
   <table>

@@ -82,7 +82,7 @@ P.S. I’ll leave you with a few snap shots of our time together:
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2019/
-- This article: https://urantia-association.org/2nd-european-conference
+- [This article](https://urantia-association.org/2nd-european-conference)
 
 <figure class="table chapter-navigator">
   <table>

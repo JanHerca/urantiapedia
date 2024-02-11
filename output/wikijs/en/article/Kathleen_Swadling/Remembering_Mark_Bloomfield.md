@@ -66,8 +66,8 @@ Mark died recently after a tragic incident in Swansea, Wales. He was just 54 yea
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-09/remembering-mark-bloomfield
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-09/remembering-mark-bloomfield)
 
 <figure class="table chapter-navigator">
   <table>

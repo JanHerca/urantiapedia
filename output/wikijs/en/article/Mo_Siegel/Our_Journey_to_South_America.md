@@ -169,8 +169,8 @@ In addition, we learned the following about book distribution in these countries
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-03/our-journey-south-america
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-03/our-journey-south-america)
 
 <figure class="table chapter-navigator">
   <table>

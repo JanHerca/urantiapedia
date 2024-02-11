@@ -72,7 +72,7 @@ What a joy it will be to see you all in-person together, after so many years of 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2023/
-- This article: https://urantia-association.org/latin-american-continental-conference-mexico
+- [This article](https://urantia-association.org/latin-american-continental-conference-mexico)
 
 <figure class="table chapter-navigator">
   <table>

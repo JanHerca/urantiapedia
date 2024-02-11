@@ -58,7 +58,7 @@ We are extremely grateful to both Urantia Association International and Urantia 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
-- This article: https://urantia-association.org/bogota-book-fair-2018
+- [This article](https://urantia-association.org/bogota-book-fair-2018)
 
 <figure class="table chapter-navigator">
   <table>

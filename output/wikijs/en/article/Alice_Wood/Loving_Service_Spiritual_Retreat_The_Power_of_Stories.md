@@ -68,8 +68,8 @@ We were each enriched by hearing the stories of others and contributing our own,
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-04/urantia-foundations-online-spiritual-retreat-power-stories
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-04/urantia-foundations-online-spiritual-retreat-power-stories)
 
 <figure class="table chapter-navigator">
   <table>

@@ -124,8 +124,8 @@ The board passed a resolution that requires mandatory retirement of trustees at 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-03/noteworthy-decisions-january-2017-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-03/noteworthy-decisions-january-2017-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

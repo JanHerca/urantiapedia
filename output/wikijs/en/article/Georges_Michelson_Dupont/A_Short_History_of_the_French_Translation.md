@@ -88,8 +88,8 @@ The French translation was the first translation of _The Urantia Book_, and many
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-03/short-history-french-translation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-03/short-history-french-translation)
 
 <figure class="table chapter-navigator">
   <table>

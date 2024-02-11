@@ -53,8 +53,8 @@ The board is greatly appreciative of the work Seppo did as a Trustee. All the pe
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-09/seppo-kanerva-announces-his-retirement
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-09/seppo-kanerva-announces-his-retirement)
 
 <figure class="table chapter-navigator">
   <table>

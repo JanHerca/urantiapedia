@@ -64,7 +64,7 @@ Urantia Association International
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2017/
-- This article: https://urantia-association.org/urantia-dach-meeting-frankfurt
+- [This article](https://urantia-association.org/urantia-dach-meeting-frankfurt)
 
 <figure class="table chapter-navigator">
   <table>

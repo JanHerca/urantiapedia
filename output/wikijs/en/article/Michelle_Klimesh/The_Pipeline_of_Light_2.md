@@ -73,8 +73,8 @@ Thank you!
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-03/pipeline-light-seeding-urantia-book-worldwide
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-03/pipeline-light-seeding-urantia-book-worldwide)
 
 <figure class="table chapter-navigator">
   <table>

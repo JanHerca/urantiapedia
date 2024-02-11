@@ -112,7 +112,7 @@ Georges Michelson-DuPont
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
-- This article: https://urantia-association.org/the-urantia-book-internet-school
+- [This article](https://urantia-association.org/the-urantia-book-internet-school)
 
 <figure class="table chapter-navigator">
   <table>

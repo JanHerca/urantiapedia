@@ -97,8 +97,8 @@ The following events will be hosted at 533 Diversey this fall:
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-09/noteworthy-board-decisions-july-2019-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-09/noteworthy-board-decisions-july-2019-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

@@ -66,7 +66,7 @@ Forum: [http://urantia-association.org/forums](http://urantia-association.org/f
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2016/
-- This article: https://urantia-association.org/urantia-association-social-media
+- [This article](https://urantia-association.org/urantia-association-social-media)
 
 <figure class="table chapter-navigator">
   <table>

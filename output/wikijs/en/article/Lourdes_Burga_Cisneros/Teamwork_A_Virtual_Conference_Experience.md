@@ -122,8 +122,8 @@ The Andite open-boat travelers took many years to reach Easter Island and then t
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-06/teamwork-virtual-conference-experience
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-06/teamwork-virtual-conference-experience)
 
 <figure class="table chapter-navigator">
   <table>

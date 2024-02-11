@@ -98,8 +98,8 @@ The Planning Committee of Urantia Foundation looks forward to the ongoing dialog
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-03/vision-future
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-03/vision-future)
 
 <figure class="table chapter-navigator">
   <table>

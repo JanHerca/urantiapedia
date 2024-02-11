@@ -74,7 +74,7 @@ Suzana has been working with Luiz Carlos since the beginning of the project over
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 - This article:
 
 <figure class="table chapter-navigator">

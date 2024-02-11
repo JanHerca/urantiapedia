@@ -107,8 +107,8 @@ The board adopted a resolution to form an ad hoc committee to redesign the websi
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-12/noteworthy-decisions-october-2016-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-12/noteworthy-decisions-october-2016-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

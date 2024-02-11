@@ -55,7 +55,7 @@ Available through [Amazon](https://www.amazon.com/God-Experience-Making-Contact/
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2023/
-- This article: https://urantia-association.org/the-god-experience
+- [This article](https://urantia-association.org/the-god-experience)
 
 <figure class="table chapter-navigator">
   <table>

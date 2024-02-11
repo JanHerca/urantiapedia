@@ -114,8 +114,8 @@ In the March 2008 edition of _Urantia Foundation News Online_, we reported the B
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-06/noteworthy-decisions-april-2008-board-meeting-in-paris
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-06/noteworthy-decisions-april-2008-board-meeting-in-paris)
 
 <figure class="table chapter-navigator">
   <table>

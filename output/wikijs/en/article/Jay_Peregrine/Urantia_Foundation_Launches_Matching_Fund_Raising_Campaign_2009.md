@@ -50,8 +50,8 @@ Will you help insure that the Foundation's work in 2010 continues? Your donation
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-12/urantia-foundation-launches-matching-fund-raising-campaign-2009
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-12/urantia-foundation-launches-matching-fund-raising-campaign-2009)
 
 <figure class="table chapter-navigator">
   <table>

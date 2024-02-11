@@ -98,7 +98,7 @@ This is a Urantian &reg; publication.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 
 <figure class="table chapter-navigator">
   <table>

@@ -62,8 +62,8 @@ The Daughters of God Vision: To touch women's hearts by exploring the dignity of
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-03/dancing-god-courageously-living-his-love
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-03/dancing-god-courageously-living-his-love)
 
 <figure class="table chapter-navigator">
   <table>

@@ -53,8 +53,8 @@ A native of Tulsa, Oklahoma Jay is happily married to Nancy Bird and is blessed 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-12/new-associate-trustee-is-appointed-jay-bird
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-12/new-associate-trustee-is-appointed-jay-bird)
 
 <figure class="table chapter-navigator">
   <table>

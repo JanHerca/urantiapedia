@@ -82,8 +82,8 @@ In 2014 Urantia Foundation established an imprint label for publishing materials
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-12/noteworthy-decisions-october-2015-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-12/noteworthy-decisions-october-2015-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

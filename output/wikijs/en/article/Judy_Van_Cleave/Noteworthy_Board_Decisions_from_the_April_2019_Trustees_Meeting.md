@@ -73,8 +73,8 @@ The 2018 Annual Report is available online. [Please click here to read it](https
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-06/noteworthy-board-decisions-april-2019-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-06/noteworthy-board-decisions-april-2019-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

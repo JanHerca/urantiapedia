@@ -63,7 +63,7 @@ Much remains to be done. Due to the generosity of our membership, Dissemination 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
-- This article: https://urantia-association.org/dissemination-committee-update
+- [This article](https://urantia-association.org/dissemination-committee-update)
 
 <figure class="table chapter-navigator">
   <table>

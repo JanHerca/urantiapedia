@@ -78,8 +78,8 @@ http://www.urantia.org/sites/default/files/docs/annual report 2012.pdf
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-09/help-wanted-hebrew-translation-project, https://www.urantia.org/news/2013-09/help-wanted-farsi-translation-project, https://www.urantia.org/news/2013-09/help-wanted-chinese-translation-project
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-09/help-wanted-hebrew-translation-project, https://www.urantia.org/news/2013-09/help-wanted-farsi-translation-project, https://www.urantia.org/news/2013-09/help-wanted-chinese-translation-project)
 
 <figure class="table chapter-navigator">
   <table>

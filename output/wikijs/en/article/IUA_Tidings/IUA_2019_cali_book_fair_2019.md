@@ -57,7 +57,7 @@ We felt the experience of love and dedication while communicating the revelation
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2019/
-- This article: https://urantia-association.org/cali-book-fair-2019
+- [This article](https://urantia-association.org/cali-book-fair-2019)
 
 <figure class="table chapter-navigator">
   <table>

@@ -126,8 +126,8 @@ Accepting the challenge, ten individuals agreed to present papers based on subje
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-03/science-symposium-2016
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-03/science-symposium-2016)
 
 <figure class="table chapter-navigator">
   <table>

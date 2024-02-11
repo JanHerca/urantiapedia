@@ -55,8 +55,8 @@ Overall, it was a great summer for study and furthering the Urantia Revelation t
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-09/urantia-book-readers-study-together-summer
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-09/urantia-book-readers-study-together-summer)
 
 <figure class="table chapter-navigator">
   <table>

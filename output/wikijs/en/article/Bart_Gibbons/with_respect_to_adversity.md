@@ -208,7 +208,7 @@ Indited by an American agondonter for the benefit of all fellow Urantians.
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-december-2015/
-- This article: https://urantia-association.org/with-respect-to-adversity
+- [This article](https://urantia-association.org/with-respect-to-adversity)
 
 <figure class="table chapter-navigator">
   <table>

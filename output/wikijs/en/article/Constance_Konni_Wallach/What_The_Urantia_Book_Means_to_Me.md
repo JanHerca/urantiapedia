@@ -70,8 +70,8 @@ Having witnessed my stepson's changed set of spiritual values, I decided to read
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-10/what-urantia-book-means-me-constance-konni-wallach
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-10/what-urantia-book-means-me-constance-konni-wallach)
 
 <figure class="table chapter-navigator">
   <table>

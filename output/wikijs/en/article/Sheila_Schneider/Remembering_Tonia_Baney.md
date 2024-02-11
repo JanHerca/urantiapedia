@@ -100,8 +100,8 @@ Although this is a sad event, my memories of Tonia—her good heart, her beauty 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2023-03/remembering-tonia-marks-baney-former-executive-director-urantia-foundation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2023-03/remembering-tonia-marks-baney-former-executive-director-urantia-foundation)
 
 <figure class="table chapter-navigator">
   <table>

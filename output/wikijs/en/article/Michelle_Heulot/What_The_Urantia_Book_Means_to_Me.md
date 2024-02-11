@@ -73,8 +73,8 @@ A flight to spiritual freedom and a total commitment to universal love without b
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-09/what-urantia-book-means-me-michelle-heulot
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-09/what-urantia-book-means-me-michelle-heulot)
 
 <figure class="table chapter-navigator">
   <table>

@@ -73,7 +73,7 @@ Happy and enlightened reading.
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2019/
-- This article: https://urantia-association.org/editorial-may-2019
+- [This article](https://urantia-association.org/editorial-may-2019)
 
 <figure class="table chapter-navigator">
   <table>

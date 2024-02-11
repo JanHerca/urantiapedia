@@ -83,8 +83,8 @@ The meeting was very positive and productive. The members of the revision team a
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-12/report-kickoff-meeting-revision-portuguese-translation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-12/report-kickoff-meeting-revision-portuguese-translation)
 
 <figure class="table chapter-navigator">
   <table>

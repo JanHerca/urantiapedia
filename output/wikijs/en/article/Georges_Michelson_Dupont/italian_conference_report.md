@@ -82,7 +82,7 @@ Recloses, France
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-october-2015/
-- This article: https://urantia-association.org/italian-conference-report
+- [This article](https://urantia-association.org/italian-conference-report)
 
 <figure class="table chapter-navigator">
   <table>

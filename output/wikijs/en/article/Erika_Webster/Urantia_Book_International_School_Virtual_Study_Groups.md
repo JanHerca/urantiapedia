@@ -64,8 +64,8 @@ The next UBIS study group will be offered in English during this April trimester
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2023-03/urantia-book-international-school-virtual-study-groups
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2023-03/urantia-book-international-school-virtual-study-groups)
 
 <figure class="table chapter-navigator">
   <table>

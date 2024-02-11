@@ -54,7 +54,7 @@ All the participants were happy to share a day in love and friendship, talking a
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2019/
-- This article: https://urantia-association.org/urantia-medellin-colombia
+- [This article](https://urantia-association.org/urantia-medellin-colombia)
 
 <figure class="table chapter-navigator">
   <table>

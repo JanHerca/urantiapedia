@@ -154,8 +154,8 @@ I love you with all my heart<br>
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-09/poem-bert-cobb
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-09/poem-bert-cobb)
 
 <figure class="table chapter-navigator">
   <table>

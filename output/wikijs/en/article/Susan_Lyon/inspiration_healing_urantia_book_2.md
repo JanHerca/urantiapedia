@@ -18,4 +18,4 @@ dateCreated: 2023-9-16T10:55:6Z
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-may-2018/
-- This article: https://urantia-association.org/inspiration-healing-urantia-book
+- [This article](https://urantia-association.org/inspiration-healing-urantia-book)

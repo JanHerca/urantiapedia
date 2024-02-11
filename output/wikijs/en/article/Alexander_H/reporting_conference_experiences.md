@@ -69,7 +69,7 @@ Urantia Young Adult International committee member
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2016/
-- This article: https://urantia-association.org/reporting-conference-experiences
+- [This article](https://urantia-association.org/reporting-conference-experiences)
 
 <figure class="table chapter-navigator">
   <table>

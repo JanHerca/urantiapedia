@@ -68,8 +68,8 @@ If you are interested in becoming involved with UBIS, please write to me at joan
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-10/growing-school-out-love-revelation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-10/growing-school-out-love-revelation)
 
 <figure class="table chapter-navigator">
   <table>

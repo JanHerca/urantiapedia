@@ -60,6 +60,6 @@ Por lo tanto, en los últimos años me he centrado en tomar ese desafío en seri
 ## Referencias
 
 - Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Este artículo: https://www.urantia.org/news/2007-05/urantia-foundation-staff-jay-peregrine
+- [Este artículo](https://www.urantia.org/news/2007-05/urantia-foundation-staff-jay-peregrine)
 
 

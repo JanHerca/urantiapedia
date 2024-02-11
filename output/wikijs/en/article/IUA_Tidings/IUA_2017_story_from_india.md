@@ -61,7 +61,7 @@ Go out boldly knowing that in our weakness we find his strength, and that, “In
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2017/
-- This article: https://urantia-association.org/story-from-india
+- [This article](https://urantia-association.org/story-from-india)
 
 <figure class="table chapter-navigator">
   <table>

@@ -79,8 +79,8 @@ I am confident that we should use all modern marketing tools available to us in 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-03/disseminating-urantia-book-in-ukraine
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-03/disseminating-urantia-book-in-ukraine)
 
 <figure class="table chapter-navigator">
   <table>

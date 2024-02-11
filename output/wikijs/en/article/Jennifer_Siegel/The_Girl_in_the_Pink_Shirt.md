@@ -68,8 +68,8 @@ She could see me with one eye, and I could feel her with all of my heart. We nev
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-03/girl-in-pink-shirt
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-03/girl-in-pink-shirt)
 
 <figure class="table chapter-navigator">
   <table>

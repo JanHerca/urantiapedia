@@ -52,7 +52,7 @@ Farewell Irmeli. You’ve had wonderful innings in your selfless and generous se
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
-- This article: https://urantia-association.org/irmeli-ivalo-sjolie-obituary
+- [This article](https://urantia-association.org/irmeli-ivalo-sjolie-obituary)
 
 <figure class="table chapter-navigator">
   <table>

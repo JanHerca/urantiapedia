@@ -42,8 +42,8 @@ _Editor's Note: The Parables of Jesus—Complete Teachings from _The Urantia Boo
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-12/worlds-best-stories
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-12/worlds-best-stories)
 
 <figure class="table chapter-navigator">
   <table>

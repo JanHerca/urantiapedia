@@ -56,7 +56,7 @@ I hope this reflection is inspiring and identifies opportunities to perform our 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2022/
-- This article: https://urantia-association.org/presidents-message-september-2022
+- [This article](https://urantia-association.org/presidents-message-september-2022)
 
 <figure class="table chapter-navigator">
   <table>

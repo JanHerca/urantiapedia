@@ -58,8 +58,8 @@ Many of us in Spain believe that the Foundation's decision to print the European
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-09/printing-el-libro-de-urantia-european-edition
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-09/printing-el-libro-de-urantia-european-edition)
 
 <figure class="table chapter-navigator">
   <table>

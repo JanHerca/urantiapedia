@@ -116,8 +116,8 @@ At the end of this process, when the revision has matured, it is time to reinteg
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-06/creating-translations-out-love-urantia-foundations-quality-process
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-06/creating-translations-out-love-urantia-foundations-quality-process)
 
 <figure class="table chapter-navigator">
   <table>

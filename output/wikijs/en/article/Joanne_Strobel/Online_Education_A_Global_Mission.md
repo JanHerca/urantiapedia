@@ -134,8 +134,8 @@ Click here to view the courses listed.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-04/online-education-global-mission
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-04/online-education-global-mission)
 
 <figure class="table chapter-navigator">
   <table>

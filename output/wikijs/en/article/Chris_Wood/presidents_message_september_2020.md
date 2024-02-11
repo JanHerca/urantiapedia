@@ -55,7 +55,7 @@ In this time of Covid 19, it can be difficult to have discussions and worship
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2020/
-- This article: https://urantia-association.org/presidents-message-september-2020
+- [This article](https://urantia-association.org/presidents-message-september-2020)
 
 <figure class="table chapter-navigator">
   <table>

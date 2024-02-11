@@ -65,7 +65,7 @@ I extend my sincere gratitude to all those with whom we shared these days, and t
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2017/
-- This article: https://urantia-association.org/book-fair-lima-peru
+- [This article](https://urantia-association.org/book-fair-lima-peru)
 
 <figure class="table chapter-navigator">
   <table>

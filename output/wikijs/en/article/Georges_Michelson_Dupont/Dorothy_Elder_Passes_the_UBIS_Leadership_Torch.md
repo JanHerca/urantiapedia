@@ -58,8 +58,8 @@ UBIS is in truth and in fact a challenging adventure. Georges, the Trustees, and
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-09/dorothy-elder-passes-ubis-leadership-torch
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-09/dorothy-elder-passes-ubis-leadership-torch)
 
 <figure class="table chapter-navigator">
   <table>

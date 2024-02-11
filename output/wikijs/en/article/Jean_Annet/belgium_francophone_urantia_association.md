@@ -53,7 +53,7 @@ We shall continue to do whatever we can to foster the study of _The Urantia Book
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
-- This article: https://urantia-association.org/belgium-francophone-urantia-association
+- [This article](https://urantia-association.org/belgium-francophone-urantia-association)
 
 <figure class="table chapter-navigator">
   <table>

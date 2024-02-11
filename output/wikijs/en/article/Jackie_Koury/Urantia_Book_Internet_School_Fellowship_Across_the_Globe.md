@@ -61,8 +61,8 @@ My thinking has been enhanced after ten weeks of study. Answering insightful que
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-03/urantia-book-internet-school-fellowship-across-globe
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-03/urantia-book-internet-school-fellowship-across-globe)
 
 <figure class="table chapter-navigator">
   <table>

@@ -51,7 +51,7 @@ Our farewells were made easier by the fact that we will meet again in less than 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-august-2015/
-- This article: https://urantia-association.org/jesus-birthday-in-ny-pennsylvania
+- [This article](https://urantia-association.org/jesus-birthday-in-ny-pennsylvania)
 
 <figure class="table chapter-navigator">
   <table>

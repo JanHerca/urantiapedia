@@ -67,8 +67,8 @@ The old and new archives, as well as information about donating and volunteering
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-10/urantia-book-historical-society-has-new-archive
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-10/urantia-book-historical-society-has-new-archive)
 
 <figure class="table chapter-navigator">
   <table>

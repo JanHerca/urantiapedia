@@ -62,8 +62,8 @@ A special thank you to our gracious hosts-on-the-coast and our musical worship d
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-12/beach-retreat-what-prayer-was-jesus
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-12/beach-retreat-what-prayer-was-jesus)
 
 <figure class="table chapter-navigator">
   <table>

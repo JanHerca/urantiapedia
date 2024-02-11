@@ -111,8 +111,8 @@ If we were in the year 2100 with the above translations available, 70 percent of
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-12/look-future
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-12/look-future)
 
 <figure class="table chapter-navigator">
   <table>

@@ -74,8 +74,8 @@ I wrote this article hoping to contextualize many of the decisions being made at
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-06/revelation-enters-21st-century
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-06/revelation-enters-21st-century)
 
 <figure class="table chapter-navigator">
   <table>

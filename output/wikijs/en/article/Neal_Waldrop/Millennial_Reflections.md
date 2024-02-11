@@ -57,8 +57,8 @@ This new activity will be independent of Urantia Foundation and separate from th
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-12/millennial-reflections
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-12/millennial-reflections)
 
 
 <figure class="table chapter-navigator">

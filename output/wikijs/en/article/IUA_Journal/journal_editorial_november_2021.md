@@ -55,7 +55,7 @@ We hope you are inspired by the many different ways in which the philosophy, rel
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2021/
-- This article: https://urantia-association.org/journal-editorial-november-2021
+- [This article](https://urantia-association.org/journal-editorial-november-2021)
 
 <figure class="table chapter-navigator">
   <table>

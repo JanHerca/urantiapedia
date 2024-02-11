@@ -141,7 +141,7 @@ To those familiar with Urantia Association, no introduction is needed for Gaetan
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2014/
-- This article: https://urantia-association.org/new-international-service-board-members
+- [This article](https://urantia-association.org/new-international-service-board-members)
 
 <figure class="table chapter-navigator">
   <table>

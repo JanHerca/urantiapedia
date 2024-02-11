@@ -64,8 +64,8 @@ Everyone involved with this joint conference is looking forward to enjoying a co
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-03/2016-joint-conference-time-dwindles-and-planning-intensifies
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-03/2016-joint-conference-time-dwindles-and-planning-intensifies)
 
 <figure class="table chapter-navigator">
   <table>

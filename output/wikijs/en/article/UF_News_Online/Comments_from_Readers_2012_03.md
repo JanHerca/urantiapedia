@@ -82,8 +82,8 @@ The third is, for me, the expansion of maturity and the equivalent of soul growt
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-03/how-be-child-god, https://www.urantia.org/news/2012-03/moment-in-time
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-03/how-be-child-god, https://www.urantia.org/news/2012-03/moment-in-time)
 
 <figure class="table chapter-navigator">
   <table>

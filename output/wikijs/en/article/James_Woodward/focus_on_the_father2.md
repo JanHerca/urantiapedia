@@ -57,7 +57,7 @@ And it all begins with the decision-choice to head on over to God’s place. Enj
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2020/
-- This article: https://urantia-association.org/focus-on-the-father2
+- [This article](https://urantia-association.org/focus-on-the-father2)
 
 <figure class="table chapter-navigator">
   <table>

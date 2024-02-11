@@ -63,7 +63,7 @@ The group offers a potential space to work on oneself, to reduce the exaltation 
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2019/
-- This article: https://urantia-association.org/the-study-group
+- [This article](https://urantia-association.org/the-study-group)
 
 <figure class="table chapter-navigator">
   <table>

@@ -54,7 +54,7 @@ Thanks to the Father and all his helpers, the fair gave satisfaction to the volu
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-september-2019/
-- This article: https://urantia-association.org/bolivia-book-fair-2019-santa-cruz
+- [This article](https://urantia-association.org/bolivia-book-fair-2019-santa-cruz)
 
 <figure class="table chapter-navigator">
   <table>

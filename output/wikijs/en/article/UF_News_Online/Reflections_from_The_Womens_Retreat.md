@@ -95,8 +95,8 @@ Spiritual growth is a process of unlimited progress which takes time. We gave it
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-12/reflections-womens-retreat
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-12/reflections-womens-retreat)
 
 <figure class="table chapter-navigator">
   <table>

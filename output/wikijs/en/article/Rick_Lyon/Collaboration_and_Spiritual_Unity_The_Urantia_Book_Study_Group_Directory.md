@@ -87,8 +87,8 @@ If you would like more information, please contact: team@urantiastudygroup.org
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-03/collaboration-and-spiritual-unity-urantia-book-study-group-directory
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-03/collaboration-and-spiritual-unity-urantia-book-study-group-directory)
 
 <figure class="table chapter-navigator">
   <table>

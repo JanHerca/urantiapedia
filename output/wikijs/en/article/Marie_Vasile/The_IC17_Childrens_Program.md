@@ -87,8 +87,8 @@ During our August Family Life committee meeting, we communicated everything to S
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-10/ic17-childrens-program-how-i-got-lot-help-my-friends
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-10/ic17-childrens-program-how-i-got-lot-help-my-friends)
 
 <figure class="table chapter-navigator">
   <table>

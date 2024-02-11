@@ -95,8 +95,8 @@ Some highlights of Q3 2022 include:
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-12/updates-october-2022-trustee-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-12/updates-october-2022-trustee-meeting)
 
 <figure class="table chapter-navigator">
   <table>

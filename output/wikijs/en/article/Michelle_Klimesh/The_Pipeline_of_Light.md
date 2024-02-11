@@ -87,8 +87,8 @@ It has been a joy and an education to work alongside the Pipeline of Light volun
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-12/pipeline-light
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-12/pipeline-light)
 
 
 

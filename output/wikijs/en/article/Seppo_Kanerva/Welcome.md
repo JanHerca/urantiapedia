@@ -52,8 +52,8 @@ For many years it was necessary to drastically cut the expenses of the Foundatio
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-05/welcome
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-05/welcome)
 
 
 <figure class="table chapter-navigator">

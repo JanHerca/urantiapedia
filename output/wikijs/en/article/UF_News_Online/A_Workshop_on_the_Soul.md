@@ -54,8 +54,8 @@ We invite you to attend this workshop and hope to grow and learn with you.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-07/workshop-soul
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-07/workshop-soul)
 
 <figure class="table chapter-navigator">
   <table>

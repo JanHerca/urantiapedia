@@ -169,7 +169,7 @@ A new purpose may emerge: _W__e are to help each other make it to Parad_ise! Si
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2020/
-- This article: https://urantia-association.org/comprehension
+- [This article](https://urantia-association.org/comprehension)
 
 <figure class="table chapter-navigator">
   <table>

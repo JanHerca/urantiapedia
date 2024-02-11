@@ -72,8 +72,8 @@ We are very grateful for the support in this and other projects Urantia Foundati
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-10/way-serve-and-seed-urantia-foundation-sends-600-books-latin-america
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-10/way-serve-and-seed-urantia-foundation-sends-600-books-latin-america)
 
 <figure class="table chapter-navigator">
   <table>

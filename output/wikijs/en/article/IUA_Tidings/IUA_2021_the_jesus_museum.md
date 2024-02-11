@@ -72,7 +72,7 @@ For more information watch our introduction videos ([overview](https://bit.ly/CF
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2021/
-- This article: https://urantia-association.org/the-jesus-museum
+- [This article](https://urantia-association.org/the-jesus-museum)
 
 <figure class="table chapter-navigator">
   <table>

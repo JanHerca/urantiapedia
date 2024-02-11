@@ -64,8 +64,8 @@ Information on where to pre-order copies will be forthcoming in late August.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-06/remaining-relevant-urantia-foundation-announces-urantia-press
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-06/remaining-relevant-urantia-foundation-announces-urantia-press)
 
 <figure class="table chapter-navigator">
   <table>

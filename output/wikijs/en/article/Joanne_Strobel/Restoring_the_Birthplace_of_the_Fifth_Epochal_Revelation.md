@@ -100,8 +100,8 @@ Next up is the Coach House, that is, the garage and garage apartment behind the 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-03/restoring-birthplace-fifth-epochal-revelation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-03/restoring-birthplace-fifth-epochal-revelation)
 
 <figure class="table chapter-navigator">
   <table>

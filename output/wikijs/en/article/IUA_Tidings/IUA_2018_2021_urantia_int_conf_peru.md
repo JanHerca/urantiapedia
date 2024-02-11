@@ -57,7 +57,7 @@ If you always wanted to go to Peru, then 2021 is the year to do it! This is a c
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2018/
-- This article: https://urantia-association.org/2021-urantia-int-conf-peru
+- [This article](https://urantia-association.org/2021-urantia-int-conf-peru)
 
 <figure class="table chapter-navigator">
   <table>

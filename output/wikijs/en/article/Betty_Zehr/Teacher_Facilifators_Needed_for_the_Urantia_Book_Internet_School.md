@@ -55,8 +55,8 @@ The following quotation makes us reasonably confident that our efforts vis-à-vi
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-03/teacher-facilitators-needed-urantia-book-internet-school
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-03/teacher-facilitators-needed-urantia-book-internet-school)
 
 <figure class="table chapter-navigator">
   <table>

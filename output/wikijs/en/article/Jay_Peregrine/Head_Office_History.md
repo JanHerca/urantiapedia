@@ -63,8 +63,8 @@ An examination of the original deeds, records, and drawings stored in a safe at 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-09/short-history-owners-urantia-foundation-s-head-office
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-09/short-history-owners-urantia-foundation-s-head-office)
 
 
 

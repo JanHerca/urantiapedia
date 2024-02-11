@@ -68,8 +68,8 @@ The app will be launching by year-end, and we are confident that it will become 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-09/maximizing-outreach-android-app
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-09/maximizing-outreach-android-app)
 
 <figure class="table chapter-navigator">
   <table>

@@ -72,7 +72,7 @@ Jaap Terra
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
-- This article: https://urantia-association.org/dutch-urantia-meeting-21st-august
+- [This article](https://urantia-association.org/dutch-urantia-meeting-21st-august)
 
 <figure class="table chapter-navigator">
   <table>

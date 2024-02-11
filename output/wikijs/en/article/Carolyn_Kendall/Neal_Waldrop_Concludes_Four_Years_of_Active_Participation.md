@@ -53,8 +53,8 @@ Neal lives with his wife, the former Vanessa Wong, in a Maryland suburb of Washi
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-12/neal-waldrop-concludes-four-years-active-participation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-12/neal-waldrop-concludes-four-years-active-participation)
 
 
 <figure class="table chapter-navigator">

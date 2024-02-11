@@ -63,8 +63,8 @@ This article reflects my interpretations of _The Urantia Book_ as well as my own
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-12/essay-finding-truth
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-12/essay-finding-truth)
 
 <figure class="table chapter-navigator">
   <table>

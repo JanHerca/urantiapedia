@@ -73,7 +73,7 @@ Peter also takes us on a short journey through the transformation of languages a
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2022/
-- This article: https://urantia-association.org/editors-note-november-2022
+- [This article](https://urantia-association.org/editors-note-november-2022)
 
 <figure class="table chapter-navigator">
   <table>

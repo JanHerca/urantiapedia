@@ -55,8 +55,8 @@ Through our work with the Expanded Board of Trustees, with wise representation f
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-09/planned-giving-urantia-foundation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-09/planned-giving-urantia-foundation)
 
 <figure class="table chapter-navigator">
   <table>

@@ -64,7 +64,7 @@ Chris Moseley: [chrismoseley50@yahoo.com
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-june-2015/
-- This article: https://urantia-association.org/summer-meeting-2015-in-the-uk
+- [This article](https://urantia-association.org/summer-meeting-2015-in-the-uk)
 
 <figure class="table chapter-navigator">
   <table>

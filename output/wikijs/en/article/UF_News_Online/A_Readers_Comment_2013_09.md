@@ -57,8 +57,8 @@ _The Urantia Book_ has given me the experience of the loving heavenly Father; th
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-09/what-urantia-book-means-me-mary-ann-leader
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-09/what-urantia-book-means-me-mary-ann-leader)
 
 <figure class="table chapter-navigator">
   <table>

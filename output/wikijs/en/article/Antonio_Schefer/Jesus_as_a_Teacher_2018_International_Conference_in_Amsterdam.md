@@ -99,8 +99,8 @@ I want to thank the sponsors who made the 2018 International Conference happen. 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-07/jesus-teacher-2018-international-conference-in-amsterdam
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-07/jesus-teacher-2018-international-conference-in-amsterdam)
 
 <figure class="table chapter-navigator">
   <table>

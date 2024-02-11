@@ -102,8 +102,8 @@ What is my life purpose? Where did I come from? For these questions, I have visi
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2020-12/chinese-conference-generates-enthusiasm-urantia-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2020-12/chinese-conference-generates-enthusiasm-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

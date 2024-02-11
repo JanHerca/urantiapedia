@@ -84,8 +84,8 @@ In conclusion, we thank you for sharing another example of the exponential effec
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2010-03/orlando-florida-another-chapter-unfolds
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2010-03/orlando-florida-another-chapter-unfolds)
 
 <figure class="table chapter-navigator">
   <table>

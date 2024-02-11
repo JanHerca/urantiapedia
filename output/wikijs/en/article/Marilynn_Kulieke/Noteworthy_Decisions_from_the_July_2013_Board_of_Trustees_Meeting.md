@@ -115,8 +115,8 @@ The Board of Trustees elected Ms. Sandra Burga-Cisneros Pizarro to serve her sec
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-09/noteworthy-decisions-july-2013-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-09/noteworthy-decisions-july-2013-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

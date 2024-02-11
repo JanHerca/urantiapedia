@@ -121,7 +121,7 @@ Then of course there was ANZURA’s annual geneeral meeting. The usual business 
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-november-2016/
-- This article: https://urantia-association.org/tasmanian-conference-reflections
+- [This article](https://urantia-association.org/tasmanian-conference-reflections)
 
 <figure class="table chapter-navigator">
   <table>

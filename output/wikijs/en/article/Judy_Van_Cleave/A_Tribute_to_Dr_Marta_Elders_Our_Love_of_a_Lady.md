@@ -126,8 +126,8 @@ Though we grieve for the loss of our sister Marta, we also rejoice that her migh
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-07/tribute-dr-marta-elders-our-love-lady
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-07/tribute-dr-marta-elders-our-love-lady)
 
 <figure class="table chapter-navigator">
   <table>

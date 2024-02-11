@@ -60,8 +60,8 @@ IC'14 was organized by the Urantia Book Fellowship and was sponsored by Urantia 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-10/international-conference-2014-personal-experience
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-10/international-conference-2014-personal-experience)
 
 <figure class="table chapter-navigator">
   <table>

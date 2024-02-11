@@ -78,8 +78,8 @@ Let us remember that, “In liaison with God, nothing —absolutely nothing —i
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-06/my-reflections-after-bookexpo-america
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-06/my-reflections-after-bookexpo-america)
 
 <figure class="table chapter-navigator">
   <table>

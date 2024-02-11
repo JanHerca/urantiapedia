@@ -59,8 +59,8 @@ It is most gratifying to be working on this project as the primary developer. I 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-06/new-platform-urantia-book-internet-school
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-06/new-platform-urantia-book-internet-school)
 
 <figure class="table chapter-navigator">
   <table>

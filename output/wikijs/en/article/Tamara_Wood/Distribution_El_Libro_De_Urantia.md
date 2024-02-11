@@ -60,8 +60,8 @@ _El Libro de Urantia_ is available in Mexico, and anyone who wants/needs books i
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2007-09/distribution-el-libro-de-urantia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2007-09/distribution-el-libro-de-urantia)
 
 
 <figure class="table chapter-navigator">

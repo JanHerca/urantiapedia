@@ -81,7 +81,7 @@ Phone: +372 5 200 300
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-december-2018/
-- This article: https://urantia-association.org/european-conference-estonia-2019
+- [This article](https://urantia-association.org/european-conference-estonia-2019)
 
 <figure class="table chapter-navigator">
   <table>

@@ -82,8 +82,8 @@ On Sunday, we had a meeting of the Urantia Association of Spain, in which the bo
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-06/god-in-man-spanish-readers-gather
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-06/god-in-man-spanish-readers-gather)
 
 <figure class="table chapter-navigator">
   <table>

@@ -44,8 +44,8 @@ _Editor's Note: In the last issue, a timeline for_ The Urantia Book _and its tra
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-11/number-urantia-books-printed-between-1955-and-2012
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-11/number-urantia-books-printed-between-1955-and-2012)
 
 <figure class="table chapter-navigator">
   <table>

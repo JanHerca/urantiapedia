@@ -59,8 +59,8 @@ My wish is that more and more people will “discover” this book for themselve
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2023-03/what-urantia-book-means-me-mirela-gradinariu-kelpin
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2023-03/what-urantia-book-means-me-mirela-gradinariu-kelpin)
 
 <figure class="table chapter-navigator">
   <table>

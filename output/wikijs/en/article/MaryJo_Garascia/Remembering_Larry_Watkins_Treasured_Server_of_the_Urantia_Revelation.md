@@ -74,8 +74,8 @@ About you, it certainly will be said: â€œWell done, good and faithful servant.â€
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2018-03/remembering-larry-watkins-treasured-server-urantia-revelation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2018-03/remembering-larry-watkins-treasured-server-urantia-revelation)
 
 <figure class="table chapter-navigator">
   <table>

@@ -55,7 +55,7 @@ David’s achievements have been remembered in so many fine tributes. To me he w
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-june-2022/
-- This article: https://urantia-association.org/ode-to-a-friend
+- [This article](https://urantia-association.org/ode-to-a-friend)
 
 <figure class="table chapter-navigator">
   <table>

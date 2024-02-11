@@ -82,7 +82,7 @@ Thank you to all volunteers and participants who made this conference such a spe
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2019/
-- This article: https://urantia-association.org/urantia-peru-national-conference-2018
+- [This article](https://urantia-association.org/urantia-peru-national-conference-2018)
 
 <figure class="table chapter-navigator">
   <table>

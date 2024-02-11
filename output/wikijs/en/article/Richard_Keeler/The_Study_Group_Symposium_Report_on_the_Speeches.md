@@ -104,8 +104,8 @@ The Study Group Symposium, which began on Thursday morning, ended after lunch on
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2014-10/study-group-symposium-report-speeches
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2014-10/study-group-symposium-report-speeches)
 
 <figure class="table chapter-navigator">
   <table>

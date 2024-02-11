@@ -63,8 +63,8 @@ I envision a united Urantia movement with strong leadership that can provide sup
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-07/cultural-advisory-council-welcomes-brazil
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-07/cultural-advisory-council-welcomes-brazil)
 
 <figure class="table chapter-navigator">
   <table>

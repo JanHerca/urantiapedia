@@ -54,7 +54,7 @@ Enjoy! Hara Davis
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-march-2023/
-- This article: https://urantia-association.org/soul-evolution-study-aid
+- [This article](https://urantia-association.org/soul-evolution-study-aid)
 
 <figure class="table chapter-navigator">
   <table>

@@ -94,7 +94,7 @@ Who would dare to argue with such authority?
 
 - Journal newsletter: https://urantia-association.org/journal-online-archives/
 - This issue: https://urantia-association.org/newsletter/journal-november-2018/
-- This article: https://urantia-association.org/purpose-5th-epochal-revelation
+- [This article](https://urantia-association.org/purpose-5th-epochal-revelation)
 
 <figure class="table chapter-navigator">
   <table>

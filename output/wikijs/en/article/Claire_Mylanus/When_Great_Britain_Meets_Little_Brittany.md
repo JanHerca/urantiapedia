@@ -63,8 +63,8 @@ Sharing the Urantia Revelation across the globe is an uplifting and powerful exp
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-12/when-great-britain-meets-little-brittany
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-12/when-great-britain-meets-little-brittany)
 
 <figure class="table chapter-navigator">
   <table>

@@ -64,7 +64,7 @@ Our Education Committee is always open to earnest Urantia Book students who want
 
 - Tidings newsletter: https://urantia-association.org/about-tidings-newsletter/
 - This issue: https://urantia-association.org/newsletter/tidings-special-issue-march-2022/
-- This article: https://urantia-association.org/online-education
+- [This article](https://urantia-association.org/online-education)
 
 <figure class="table chapter-navigator">
   <table>
