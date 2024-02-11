@@ -158,7 +158,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 
 [Descarga del capítulo completo en formato PDF](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/01/016-Jesus-a-los-once-anos.pdf)
 <br style="clear:both" />
- 
+ 
 ## Otros libros de crecimiento espiritual
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">
@@ -314,7 +314,7 @@ Sala Zoom: [https://urantia-org.zoom.us/j/4457962840](https://urantia-org.zoom.u
 
 ¡Os esperamos!
 <br style="clear:both" />
- 
+ 
 ## Acerca del boletín Luz y Vida
 
 <figure id="Figure_15" class="image urantiapedia">

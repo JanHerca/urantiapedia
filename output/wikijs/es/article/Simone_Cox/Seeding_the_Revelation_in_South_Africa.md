@@ -37,7 +37,7 @@ Mientras oramos fervientemente para que estos maravillosos documentos lleguen a 
 
 > «Sudáfrica tiene sed de las ricas bendiciones de las enseñanzas de Urantia».
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_12/031.jpg">
 </figure>
 

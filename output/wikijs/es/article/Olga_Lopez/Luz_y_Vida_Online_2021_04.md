@@ -75,7 +75,7 @@ Con este número de abril del Boletín Luz y Vida que tienes entre manos, querid
 - Internet es una sorprendente mina de materiales urantianos: os reseñamos un blog, un canal de Youtube, las charlas urantianas en nuestra sala Zoom, los famosos cursos de la UBIS y la esperada Conferencia Internacional de lectores.
 - Verás una sección diferente: el _Cuestionario Urantiano_, donde lectores destacados de la comunidad Urantia compartirán cómo las enseñanzas del libro han cambiado su vida.
 
-Todo ello nos muestra un MOVIMIENTO URANTIA vibrante, dinámico, cada vez más interconectado y planetario. Un movimiento portador de buenas noticias para este mundo, que queremos ir exponiendo en este sencillo boletín mensual (o eso pretendemos, al menos).
+Todo ello nos muestra un MOVIMIENTO URANTIA vibrante, dinámico, cada vez más interconectado y planetario. Un movimiento portador de buenas noticias para este mundo, que queremos ir exponiendo en este sencillo boletín mensual (o eso pretendemos, al menos).
 
 <br style="clear:both" />
 

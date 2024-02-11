@@ -86,7 +86,7 @@ Existen cientos de trabajos que diseccionan _El Libro de Urantia_ en múltiples 
 
 Ánimo pues, en esta singladura de la vida y en la que te queremos acompañar con nuestro boletín. Descubre los pequeños tesoros que te ofrecemos y que esperamos te permitan descubrir las maravillas del plan divino en nuestro universo: desde descubrir aspectos inéditos del Sol, características de la vida planetaria en otro mundo habitado, hermosos libros o un original vídeo sobre el origen de _El Libro de Urantia_.
 
-Dios escucha el llamado de nuestro corazón y nos ha proporcionado este hermoso libro azul.  ¡Disfrutémoslo!
+Dios escucha el llamado de nuestro corazón y nos ha proporcionado este hermoso libro azul.  ¡Disfrutémoslo!
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -188,7 +188,7 @@ El grupo Ágora 2.0 organiza conferencias virtuales quincenales en los que propo
 
 [https://agora-20.blogspot.com/](https://agora-20.blogspot.com/)
 
- 
+ 
 ## Vídeo – nuestra recomendación del mes
 
 ### El origen de _El Libro de Urantia_. ¿Es una revelación?

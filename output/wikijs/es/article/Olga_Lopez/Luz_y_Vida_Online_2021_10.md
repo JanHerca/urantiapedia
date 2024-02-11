@@ -183,9 +183,9 @@ Iniciamos aquí una nueva sección que contiene material para niños relacionado
 
 Urantia te abre la puerta (Yolanda Silva Solano)
 
-En palabras de su autora, «consciente de la prisa y la vorágine en que hoy en día se vive, este libro contiene pequeños comentarios de algunas frases de _El Libro de Urantia_, porque a veces es preferible un poco de conocimiento bien digerido por nuestra mente y aprovechado en nuestra vida cotidiana por nuestra alma que grandes verdades que quedan solo en nuestro intelecto para alimentar nuestro ego.
+En palabras de su autora, «consciente de la prisa y la vorágine en que hoy en día se vive, este libro contiene pequeños comentarios de algunas frases de _El Libro de Urantia_, porque a veces es preferible un poco de conocimiento bien digerido por nuestra mente y aprovechado en nuestra vida cotidiana por nuestra alma que grandes verdades que quedan solo en nuestro intelecto para alimentar nuestro ego.
 
-»La imagen de Jesús que está en la portada nos indica su invitación a encontrar nuestra evolución a través de _El Libro de Urantia_, porque «el plan de la enseñanza es aprender y luego poner en práctica lo aprendido.1658» Las puertas están abiertas para todos sin excepción, «el que quiera puede entrar, no hay restricciones, ni calificaciones, solo el deseo del que quiera ser feliz renaciendo a una nueva vida con Jesús y por Jesús.1536»»
+»La imagen de Jesús que está en la portada nos indica su invitación a encontrar nuestra evolución a través de _El Libro de Urantia_, porque «el plan de la enseñanza es aprender y luego poner en práctica lo aprendido.1658» Las puertas están abiertas para todos sin excepción, «el que quiera puede entrar, no hay restricciones, ni calificaciones, solo el deseo del que quiera ser feliz renaciendo a una nueva vida con Jesús y por Jesús.1536»»
 
 [Descarga del libro en PDF](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Urantia-te-abre-la-puerta-por-Yolanda-Silva-Solano.pdf)
 <br style="clear:both" />

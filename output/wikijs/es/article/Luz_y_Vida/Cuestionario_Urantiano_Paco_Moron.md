@@ -63,7 +63,7 @@ Actualmente acepto incondicionalmente todo _El Libro de Urantia_.
 
 ## 7. ¿Cuál es la parte que más profundamente te ha impresionado?
 
-Muchas partes me han dejado en estado de asombro absoluto, pero la parte que, digamos, me impresiona más profundamente es la parte IV, la vida de Jesús (una manera de vivir haciendo la voluntad del Padre de manera perfecta y maravillosa).  
+Muchas partes me han dejado en estado de asombro absoluto, pero la parte que, digamos, me impresiona más profundamente es la parte IV, la vida de Jesús (una manera de vivir haciendo la voluntad del Padre de manera perfecta y maravillosa).  
 
 ## 8. ¿Cómo entiendes tú eso de «hacer la voluntad del Padre»?
 

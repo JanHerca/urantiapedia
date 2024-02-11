@@ -35,11 +35,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/JORGE-NAGORE.jpg" alt="Jorge Nagore" width="200">
 </figure>
 
-Jorge Nagore tiene 68 años de edad. Está casado y tiene dos hijos y tres nietos. Ejerce de jubilado activo después de 35 años dedicados al periodismo. Estudió con los Jesuitas y en la universidad del Opus Dei. Siempre ha vivido en Pamplona, España, la ciudad de los encierros de toros, y ahí sigue. Tras una «experiencia cercana a la muerte», fruto de un accidente de tráfico a los 17 años, surgió en él un empujón hacia la búsqueda de mí mismo y la relación con la existencia superior.
+Jorge Nagore tiene 68 años de edad. Está casado y tiene dos hijos y tres nietos. Ejerce de jubilado activo después de 35 años dedicados al periodismo. Estudió con los Jesuitas y en la universidad del Opus Dei. Siempre ha vivido en Pamplona, España, la ciudad de los encierros de toros, y ahí sigue. Tras una «experiencia cercana a la muerte», fruto de un accidente de tráfico a los 17 años, surgió en él un empujón hacia la búsqueda de mí mismo y la relación con la existencia superior.
 
 ## 1. ¿Cómo llegaste a «El Libro de Urantia» y por qué crees que lo encontraste?
 
-En 1994 ya estaba disfrutando de los _Caballos de Troya_. Leí también _El testamento de san Juan_ de Benítez, pero casualmente no miré la contraportada donde había una referencia a _El Libro de Urantia_. En 2014, haciendo limpieza en el trastero, al quitarle el polvo le di la vuelta a dicho libro y allí apareció: «basado en El Libro de Urantia».  Lo demás fue sencillo: bajarme el libro, comprarlo, asistir a un encuentro y engancharme a esta comunidad de lectores a la que tanto debo.
+En 1994 ya estaba disfrutando de los _Caballos de Troya_. Leí también _El testamento de san Juan_ de Benítez, pero casualmente no miré la contraportada donde había una referencia a _El Libro de Urantia_. En 2014, haciendo limpieza en el trastero, al quitarle el polvo le di la vuelta a dicho libro y allí apareció: «basado en El Libro de Urantia».  Lo demás fue sencillo: bajarme el libro, comprarlo, asistir a un encuentro y engancharme a esta comunidad de lectores a la que tanto debo.
 
 Pienso que lo encontré porque seguramente me estaba esperando, posiblemente porque lo necesitara. La pregunta es: ¿por qué en 2014 y no en 1994? Creo que en esos veinte años de distancia maduré un poco más en mi búsqueda y evolución, al menos lo suficiente como para acoger ese regalo con un poco más de capacidad.
 
@@ -79,7 +79,7 @@ Aunque el tema es un tanto «vidrioso», como nos advierten los reveladores, cre
 
 ## 10. ¿Has intentado poner en práctica las enseñanzas del Maestro? ¿Cuál ha sido el resultado?
 
-Sin duda, y a través de _El Libro de Urantia_, resultan más claras. ¿El resultado? Creo que ahora tengo una mayor relación personal con mi Padre, y todo lo que ello supone. Respecto al prójimo, procuro ser el primero para los demás y el último de la fila para mí mismo. También deseo y procuro cultivar una personalidad más equilibrada y unificada, siguiendo su ejemplo de vida, pero esto… ¡qué difícil resulta en el día a día! Es de las cosas que más me atrae de Jesús, pero hay que estar muy presente en todo momento, entrenar la mente, y casi siempre fallo, pero bueno…ahí estamos.
+Sin duda, y a través de _El Libro de Urantia_, resultan más claras. ¿El resultado? Creo que ahora tengo una mayor relación personal con mi Padre, y todo lo que ello supone. Respecto al prójimo, procuro ser el primero para los demás y el último de la fila para mí mismo. También deseo y procuro cultivar una personalidad más equilibrada y unificada, siguiendo su ejemplo de vida, pero esto… ¡qué difícil resulta en el día a día! Es de las cosas que más me atrae de Jesús, pero hay que estar muy presente en todo momento, entrenar la mente, y casi siempre fallo, pero bueno…ahí estamos.
 
 ## 11. ¿Crees que «El Libro de Urantia» tiene algo «misterioso» que hace que no todo el mundo se decida a leerlo?
 

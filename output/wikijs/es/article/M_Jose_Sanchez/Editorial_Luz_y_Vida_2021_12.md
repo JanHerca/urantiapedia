@@ -58,7 +58,7 @@ Así que, en estas Navidades que se acercan, esta es la buena noticia que podemo
 
 > Estos ayudantes celestiales se dedican a la estupenda tarea de guiaros certeramente hacia adentro y hacia arriba en dirección al refugio celestial de la felicidad. …. Son los operarios vigilantes que pilotean la mente humana consciente de Dios, alejándola de los escollos del mal y al mismo tiempo guiando expertamente el alma evolutiva del hombre hacia las bahías divinas de la perfección en orillas eternas y vastamente distantes. <a id="a58_435"></a>[LU 110:1.2](/es/The_Urantia_Book/110#p1_2)
 
-Una vez situados en el escenario adecuado, enfoquémonos brevemente en estas tres diferentes imágenes que podemos ver en _El Libro de Urantia_ sobre la Navidad:
+Una vez situados en el escenario adecuado, enfoquémonos brevemente en estas tres diferentes imágenes que podemos ver en _El Libro de Urantia_ sobre la Navidad:
 
 ## 1\. El padre, José
 

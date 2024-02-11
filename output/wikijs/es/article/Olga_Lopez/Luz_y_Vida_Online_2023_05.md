@@ -205,13 +205,13 @@ Muchas veces he pensado lo difícil que resulta este decreto. ¿Y cómo se es pe
 
 Es Jesús quien me ha dado una pista:
 
-El amor fraterno significa amar al prójimo como a uno mismo, y esto sería el cumplimiento adecuado de la «regla de oro». Pero el afecto paterno requiere que ames a tus semejantes como Jesús te ama a ti. 140:5:1 (1573.3)
+El amor fraterno significa amar al prójimo como a uno mismo, y esto sería el cumplimiento adecuado de la «regla de oro». Pero el afecto paterno requiere que ames a tus semejantes como Jesús te ama a ti. 140:5:1 (1573.3)
 
 Yo os digo: amad a vuestros enemigos, haced bien a los que os odian, bendecid a los que os maldicen y orad por los que os ultrajan. Y todo lo que vosotros creáis que haría yo para los hombres, hacedlo vosotros. <a id="a209_211"></a>[LU 140:3.15](/es/The_Urantia_Book/140#p3_15)
 
 Vuestro Padre en los cielos hace brillar el sol sobre malvados al igual que sobre buenos; del mismo modo él envía lluvia sobre justos e injustos. Vosotros sois los hijos de Dios; aún más, sois ahora los embajadores del reino de mi Padre. Sed misericordiosos, así como Dios es misericordioso, y en el eterno futuro del reino seréis perfectos, así como vuestro Padre celeste es perfecto. <a id="a211_386"></a>[LU 140:3.16](/es/The_Urantia_Book/140#p3_16)
 
-Es verdad que parece que Jesús nos pide un amor desproporcionado, pero en realidad no es así. Es sencillo y es proporcionado. Es dar de comer al que tiene hambre y agua al que tiene sed. Es tender mi mano a quien lo necesita.  Si la palabra _prójimo_ significa _próximo_, es estar al lado de quien está próximo y amarlo. Pero aún más allá, no se trata de ver quién es el prójimo, sino de ser uno mismo prójimo. Prójimo de quien está cerca, y lejos, incluso de mis enemigos. No tengo por qué ir al cine con mi enemigo, ni acercarme a quien me hace daño, pero sí puedo rezar por él y desearle el bien.
+Es verdad que parece que Jesús nos pide un amor desproporcionado, pero en realidad no es así. Es sencillo y es proporcionado. Es dar de comer al que tiene hambre y agua al que tiene sed. Es tender mi mano a quien lo necesita.  Si la palabra _prójimo_ significa _próximo_, es estar al lado de quien está próximo y amarlo. Pero aún más allá, no se trata de ver quién es el prójimo, sino de ser uno mismo prójimo. Prójimo de quien está cerca, y lejos, incluso de mis enemigos. No tengo por qué ir al cine con mi enemigo, ni acercarme a quien me hace daño, pero sí puedo rezar por él y desearle el bien.
 
 Creo que las cosas de Dios hay que traerlas hacia adentro, y llevarlas a cabo hacia afuera.
 

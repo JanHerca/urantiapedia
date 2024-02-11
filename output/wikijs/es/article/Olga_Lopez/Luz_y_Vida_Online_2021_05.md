@@ -155,7 +155,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 
 Caen los velos (Joseph Servant)
 
-_Caen los velos_ es la traducción al español de la novela del lector francés Joseph Servant _Le voile se lève_, una historia en la que una avería sufrida por dos astronautas es el punto de partida de un encuentro con dos extraterrestres que los llevan en su nave de vuelta a casa y en el camino les muestran las principales enseñanzas de _El Libro de Urantia_. Una historia que gustará a los lectores del libro y que aborda las enseñanzas desde el punto de vista único de su autor.
+_Caen los velos_ es la traducción al español de la novela del lector francés Joseph Servant _Le voile se lève_, una historia en la que una avería sufrida por dos astronautas es el punto de partida de un encuentro con dos extraterrestres que los llevan en su nave de vuelta a casa y en el camino les muestran las principales enseñanzas de _El Libro de Urantia_. Una historia que gustará a los lectores del libro y que aborda las enseñanzas desde el punto de vista único de su autor.
 
 [Enlace con más información sobre el libro y su descarga](https://aue.urantia-association.org/inspirado-en-el-lu-caen-los-velos/)
 <br style="clear:both" />

@@ -122,7 +122,7 @@ Este es el texto de una presentación que se dio durante la Urantiatón del 28 d
 En esta presentación, el fideicomisario y vicepresidente internacional de la Fundación Urantia, Georges Michelson Dupont, comparte su extensa experiencia como anfitrión de grupos de estudio y facilitador de seminarios, todos ellos basados en la pedagogía que despliegan los reveladores en El Libro de Urantia. También propone ejemplos prácticos y recomendaciones para que el grupo se desarrolle de manera eficaz y fomente la participación de sus miembros.
 <br style="clear:both" />
 
- 
+ 
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
@@ -157,7 +157,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 
 Conversaciones en la otra orilla con el viejo profesor (Florencio Bao)
 
-Este libro contiene una serie de diálogos agrupados por temas entre el «viejo profesor» (Enrique Tierno-Galván) y el autor del libro, amigo y colega suyo, que firma por cierto con pseudónimo. Hasta aquí todo parece normal, si no fuera porque las conversaciones tuvieron lugar días después del fallecimiento de Tierno-Galván. Esto es, cuando se llevaron a cabo este se encontraba en la antesala de la otra vida. El libro es presentado como un «diálogo-ficción», dejando al lector la última palabra sobre su posible realidad. Lo que se dice en este libro es enormemente interesante, y se complementa de alguna forma con las enseñanzas de _El Libro de Urantia_.
+Este libro contiene una serie de diálogos agrupados por temas entre el «viejo profesor» (Enrique Tierno-Galván) y el autor del libro, amigo y colega suyo, que firma por cierto con pseudónimo. Hasta aquí todo parece normal, si no fuera porque las conversaciones tuvieron lugar días después del fallecimiento de Tierno-Galván. Esto es, cuando se llevaron a cabo este se encontraba en la antesala de la otra vida. El libro es presentado como un «diálogo-ficción», dejando al lector la última palabra sobre su posible realidad. Lo que se dice en este libro es enormemente interesante, y se complementa de alguna forma con las enseñanzas de _El Libro de Urantia_.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-conversaciones-en-la-otra-orilla-con-el-viejo-profesor-de-florencio-bao/)
 <br style="clear:both" />
@@ -170,7 +170,7 @@ Este libro contiene una serie de diálogos agrupados por temas entre el «viejo 
 
 El Evangelio y los santos de las grandes religiones, de Miguel Ruiz de Ayúcar
 
-Este libro contiene una serie de diálogos agrupados por temas entre el «viejo profesor» (Enrique Tierno-Galván) y el autor del libro, amigo y colega suyo, que firma por cierto con pseudónimo. Hasta aquí todo parece normal, si no fuera porque las conversaciones tuvieron lugar días después del fallecimiento de Tierno-Galván. Esto es, cuando se llevaron a cabo este se encontraba en la antesala de la otra vida. El libro es presentado como un «diálogo-ficción», dejando al lector la última palabra sobre su posible realidad. Lo que se dice en este libro es enormemente interesante, y se complementa de alguna forma con las enseñanzas de _El Libro de Urantia_.
+Este libro contiene una serie de diálogos agrupados por temas entre el «viejo profesor» (Enrique Tierno-Galván) y el autor del libro, amigo y colega suyo, que firma por cierto con pseudónimo. Hasta aquí todo parece normal, si no fuera porque las conversaciones tuvieron lugar días después del fallecimiento de Tierno-Galván. Esto es, cuando se llevaron a cabo este se encontraba en la antesala de la otra vida. El libro es presentado como un «diálogo-ficción», dejando al lector la última palabra sobre su posible realidad. Lo que se dice en este libro es enormemente interesante, y se complementa de alguna forma con las enseñanzas de _El Libro de Urantia_.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-el-evangelio-y-los-santos-de-las-grandes-religiones-de-miguel-ruiz-de-ayucar/)
 <br style="clear:both" />

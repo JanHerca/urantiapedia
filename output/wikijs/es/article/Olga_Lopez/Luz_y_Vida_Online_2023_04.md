@@ -123,7 +123,7 @@ En palabras de la autora: «Las parábolas de Jesús no tienen una interpretaci�
 Los orígenes de los documentos que dieron lugar a _El Libro de Urantia_ son motivo de curiosidad para muchas personas. En este artículo no solo se hace un repaso general al proceso revelador, sino que también se hace un breve recorrido histórico sobre la génesis de las organizaciones que surgieron en torno al libro y cómo se fue formando una comunidad alrededor de las enseñanzas de _El Libro de Urantia_.
 <br style="clear:both" />
 
- 
+ 
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">

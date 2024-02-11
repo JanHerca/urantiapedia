@@ -198,7 +198,7 @@ En palabras de su autora, «este libro surgió a raíz de plantearme cómo darí
 
 **Isla Kietud (Paula Requejo)**
 
-Según dice su autora, «Isla Kietud nació cuando la autora buscaba respuesta, entre los documentos de _El Libro de Urantia_, a una de sus preguntas. Isla Kietud es un trabajo de estudio en el que se plantea qué sucede cuando el subconsciente se enreda con la consciencia y nos eleva a la superconsciencia. Este libro está escrito para aquellos que desconocen o que se están familiarizando con _El Libro de Urantia_, por ese motivo está escrito de forma simple y amena de leer, pero sin descuidar la profundidad de las enseñanzas. La autora incluye numerosas citas del libro, con la idea de causar en el hipotético lector la necesidad de ir a la fuente de todas esas enseñanzas».
+Según dice su autora, «Isla Kietud nació cuando la autora buscaba respuesta, entre los documentos de _El Libro de Urantia_, a una de sus preguntas. Isla Kietud es un trabajo de estudio en el que se plantea qué sucede cuando el subconsciente se enreda con la consciencia y nos eleva a la superconsciencia. Este libro está escrito para aquellos que desconocen o que se están familiarizando con _El Libro de Urantia_, por ese motivo está escrito de forma simple y amena de leer, pero sin descuidar la profundidad de las enseñanzas. La autora incluye numerosas citas del libro, con la idea de causar en el hipotético lector la necesidad de ir a la fuente de todas esas enseñanzas».
 
 [Enlace con más información sobre el libro y cómo obtenerlo](https://aue.urantia-association.org/inspirado-en-el-lu-isla-kietud-de-paula-requejo-marchan/)
 <br style="clear:both" />
@@ -280,12 +280,12 @@ Estas palabras nos animan a no perder la fe, a vivir la vida plenamente convenci
 <img src="/image/article/Luz_y_Vida/LyV_2021_09/JORGE-NAGORE.jpg" alt="Jorge Nagore" width="200">
 </figure>
 
-Jorge Nagore tiene 68 años de edad. Está casado y tiene dos hijos y tres nietos. Ejerce de jubilado activo después de 35 años dedicados al periodismo. Estudió con los Jesuitas y en la universidad del Opus Dei. Siempre ha vivido en Pamplona, España, la ciudad de los encierros de toros, y ahí sigue. Tras una «experiencia cercana a la muerte», fruto de un accidente de tráfico a los 17 años, surgió en él un empujón hacia la búsqueda de mí mismo y la relación con la existencia superior.
+Jorge Nagore tiene 68 años de edad. Está casado y tiene dos hijos y tres nietos. Ejerce de jubilado activo después de 35 años dedicados al periodismo. Estudió con los Jesuitas y en la universidad del Opus Dei. Siempre ha vivido en Pamplona, España, la ciudad de los encierros de toros, y ahí sigue. Tras una «experiencia cercana a la muerte», fruto de un accidente de tráfico a los 17 años, surgió en él un empujón hacia la búsqueda de mí mismo y la relación con la existencia superior.
 
 
 1. **¿Cómo llegaste a _El Libro de Urantia_ y por qué crees que lo encontraste?**
 
-En 1994 ya estaba disfrutando de los _Caballos de Troya_. Leí también _El testamento de san Juan_ de Benítez, pero casualmente no miré la contraportada donde había una referencia a _El Libro de Urantia_. En 2014, haciendo limpieza en el trastero, al quitarle el polvo le di la vuelta a dicho libro y allí apareció: «basado en El Libro de Urantia».  Lo demás fue sencillo: bajarme el libro, comprarlo, asistir a un encuentro y engancharme a esta comunidad de lectores a la que tanto debo.
+En 1994 ya estaba disfrutando de los _Caballos de Troya_. Leí también _El testamento de san Juan_ de Benítez, pero casualmente no miré la contraportada donde había una referencia a _El Libro de Urantia_. En 2014, haciendo limpieza en el trastero, al quitarle el polvo le di la vuelta a dicho libro y allí apareció: «basado en El Libro de Urantia».  Lo demás fue sencillo: bajarme el libro, comprarlo, asistir a un encuentro y engancharme a esta comunidad de lectores a la que tanto debo.
 
 Pienso que lo encontré porque seguramente me estaba esperando, posiblemente porque lo necesitara. La pregunta es: ¿por qué en 2014 y no en 1994? Creo que en esos veinte años de distancia maduré un poco más en mi búsqueda y evolución, al menos lo suficiente como para acoger ese regalo con un poco más de capacidad.
 

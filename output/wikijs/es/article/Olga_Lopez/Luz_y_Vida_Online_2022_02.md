@@ -170,7 +170,7 @@ En palabras de su autor: «Ideario es el producto de tres factores principales: 
 
 Jesús de Nazaret (Jan Herca)
 
-Todos los lectores del libro sentimos un especial cariño hacia la figura de Jesús, el protagonista de esta historia, de modo que es fácil para nosotros sumergirnos en la historia como si estuviéramos allí. Esta primera entrega de «Jesús de Nazaret» narra los hechos de la vida del Maestro desde su retiro en el monte Hermón, donde tuvo conciencia de su verdadera identidad por primera vez desde que llegó a nuestro mundo, hasta el arresto de Juan el Bautista, pasando por los hechos extraordinarios ocurridos durante el bautismo de Jesús en el Jordán. Todo según se cuenta en _El Libro de Urantia._
+Todos los lectores del libro sentimos un especial cariño hacia la figura de Jesús, el protagonista de esta historia, de modo que es fácil para nosotros sumergirnos en la historia como si estuviéramos allí. Esta primera entrega de «Jesús de Nazaret» narra los hechos de la vida del Maestro desde su retiro en el monte Hermón, donde tuvo conciencia de su verdadera identidad por primera vez desde que llegó a nuestro mundo, hasta el arresto de Juan el Bautista, pasando por los hechos extraordinarios ocurridos durante el bautismo de Jesús en el Jordán. Todo según se cuenta en _El Libro de Urantia._
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/inspirado-en-el-lu-jesus-de-nazaret-de-jan-herca/)
 <br style="clear:both" />
@@ -183,7 +183,7 @@ Todos los lectores del libro sentimos un especial cariño hacia la figura de Jes
 
 El encuentro con la realidad (Vicente Ferrer)
 
-Creo que a estas alturas todos conocemos a Vicente Ferrer, exjesuita afincado en el sur de la India (ya fallecido) que dedicó buena parte de su vida a ayudar a mejorar la situación de los _dalith_, los más pobres entre los pobres de la India. Basando su exposición en «los cuatro pilares existenciales del Universo»: el hombre, Dios, la humanidad y «el mundo tal cual es», Vicente Ferrer se dedica a explicar su sencilla filosofía de vida, huyendo de toda pretensión de verdad absoluta y de todo dogmatismo, con términos a veces que resultan asombrosamente coincidentes con lo que se dice en _El Libro de Urantia_. Cosa que no es de extrañar, pues nos consta que lo leyó y mostró un gran interés por lo que contenía.
+Creo que a estas alturas todos conocemos a Vicente Ferrer, exjesuita afincado en el sur de la India (ya fallecido) que dedicó buena parte de su vida a ayudar a mejorar la situación de los _dalith_, los más pobres entre los pobres de la India. Basando su exposición en «los cuatro pilares existenciales del Universo»: el hombre, Dios, la humanidad y «el mundo tal cual es», Vicente Ferrer se dedica a explicar su sencilla filosofía de vida, huyendo de toda pretensión de verdad absoluta y de todo dogmatismo, con términos a veces que resultan asombrosamente coincidentes con lo que se dice en _El Libro de Urantia_. Cosa que no es de extrañar, pues nos consta que lo leyó y mostró un gran interés por lo que contenía.
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/libros-el-encuentro-con-la-realidad-de-vicente-ferrer/)
 <br style="clear:both" />
@@ -276,7 +276,7 @@ Gloria Andreu
 <img src="/image/article/Luz_y_Vida/LyV_2022_02/Mi-parrafo-favorito-Gloria-Andreu.jpg" alt="Mi párrafo favorito - feb 2022">
 </figure>
 
-Elegir un sólo párrafo de _El Libro de Urantia_ es una labor un tanto difícil, pues si abro el primer libro creo que no hay un solo documento, apartado o página que no esté subrayado.  Unos párrafos son verdaderas joyas, por no decir todos; otros destacan por su belleza; otros son pura filosofía; otros son para debatir durante mucho tiempo, por eso es muy difícil para mí elegir uno.
+Elegir un sólo párrafo de _El Libro de Urantia_ es una labor un tanto difícil, pues si abro el primer libro creo que no hay un solo documento, apartado o página que no esté subrayado.  Unos párrafos son verdaderas joyas, por no decir todos; otros destacan por su belleza; otros son pura filosofía; otros son para debatir durante mucho tiempo, por eso es muy difícil para mí elegir uno.
 
 Me he decantado por uno que más que un párrafo para mí es como un mantra, pues lo utilizo cuando a veces no veo la salida a cualquier problema o situación difícil que todos hemos tenido a lo largo de nuestra vida.
 
@@ -285,7 +285,7 @@ Lo he elegido por su sencillez, y porque no se puede decir más en tan pocas pal
 
 > «Con Dios todo es posible.» <a id="a285_30"></a>[LU 163:3.2](/es/The_Urantia_Book/163#p3_2)
 
-Desde que lo leí por primera vez me impactó, pero cuando lo volví a leer me di cuenta de que engloba la verdad, la belleza y la bondad, siempre hablo de una forma subjetiva.  Verdad porque solo hay que leer la frase para comprender que es absoluta verdad. La belleza está en su sencillez, pues para mí la sencillez es belleza; y la bondad porque el Padre por amor a todas sus criaturas nos dice que, si creemos y confiamos en Él, nos ayudará a levantarnos sin pedir nada a cambio ante cualquier obstáculo que se nos presente en el camino. Y si todo esto no fuese suficiente, también engloba algo que para todos los seres evolutivos ascendentes es tan importante para poder llegar hasta el Padre Universal como es la _fe_, porque hay que tener fe para creer que «con Dios todo es posible».
+Desde que lo leí por primera vez me impactó, pero cuando lo volví a leer me di cuenta de que engloba la verdad, la belleza y la bondad, siempre hablo de una forma subjetiva.  Verdad porque solo hay que leer la frase para comprender que es absoluta verdad. La belleza está en su sencillez, pues para mí la sencillez es belleza; y la bondad porque el Padre por amor a todas sus criaturas nos dice que, si creemos y confiamos en Él, nos ayudará a levantarnos sin pedir nada a cambio ante cualquier obstáculo que se nos presente en el camino. Y si todo esto no fuese suficiente, también engloba algo que para todos los seres evolutivos ascendentes es tan importante para poder llegar hasta el Padre Universal como es la _fe_, porque hay que tener fe para creer que «con Dios todo es posible».
 
 
 ## Cuestionario urantiano: Victoriano Izquierdo

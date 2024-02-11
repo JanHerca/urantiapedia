@@ -82,7 +82,7 @@ Es sorprendente que Alguien nos informe de que estamos aquí, sobre la Tierra, p
 
 Esa pequeña reflexión acerca de nuestro Padre Creador y, por supuesto, Salvador, y su forma de comportarse tan deslumbrante y sorprendente viene a colación de la celebración de las próximas fiestas navideñas. Una excusa social que nos puede ayudar a refrescar a los lectores de _El Libro de Urantia_ el hecho de que nos viene a nacer un ser maravilloso, un ser que disfrutará como nosotros de alegrías y sufrimientos, que será frágil pero también extraordinariamente poderoso y, sobre todo, un ser imbuido de Amor en su comportamiento.
 
-Ahora, en estas navidades, se nos abre una ventana de reflexión. Un momento de cierre y recapitulación. No dejemos pasar el oro bruto de una experiencia intensa de 365 días ya pasados. Que no se marche el 2022 sin que lo repasemos y recapitulemos de forma pormenorizada. Las situaciones límites se acercan para medirnos.  El año que ya expira nos ha graduado como pocos. Ha cuestionado nuestra salud física, pero sobre todo nuestra salud mental, emocional y espiritual.
+Ahora, en estas navidades, se nos abre una ventana de reflexión. Un momento de cierre y recapitulación. No dejemos pasar el oro bruto de una experiencia intensa de 365 días ya pasados. Que no se marche el 2022 sin que lo repasemos y recapitulemos de forma pormenorizada. Las situaciones límites se acercan para medirnos.  El año que ya expira nos ha graduado como pocos. Ha cuestionado nuestra salud física, pero sobre todo nuestra salud mental, emocional y espiritual.
 
 _El Libro de Urantia_ nos puede ayudar a ello. Veamos una anécdota de su nacimiento en la Tierra:
 

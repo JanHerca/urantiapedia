@@ -48,13 +48,13 @@ Los problemas políticos, económicos y logísticos de distribución en Rusia y 
 
 > “Más del 95\% de todos los libros distribuidos desde la primera publicación han sido comprados, no regalados."
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_09/003.jpg">
 </figure>
 
 > «La Junta resolvió que la Fundación Urantia cree un comité de recaudación de fondos de la Junta».
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_09/004.jpg">
 </figure>
 
@@ -76,7 +76,7 @@ La tercera reunión trimestral terminó con esperanza, amor y entusiasmo dedicad
 
 > «El manto del liderazgo debe pasar a las próximas generaciones».
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_09/015.jpg">
 </figure>
 

@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/Antonio-Moya-LyVnov21.png" alt="Antonio Moya" width="200">
 </figure>
 
-Antonio Moya Cerpa reside en Sevilla. Está jubilado y tiene tres hijos. Lleva 43 años leyendo _El Libro de Urantia_. Fue miembro fundador del grupo de estudio de Sevilla y traductor de la edición europea de _El Libro de Urantia_.
+Antonio Moya Cerpa reside en Sevilla. Está jubilado y tiene tres hijos. Lleva 43 años leyendo _El Libro de Urantia_. Fue miembro fundador del grupo de estudio de Sevilla y traductor de la edición europea de _El Libro de Urantia_.
 
 ## 1. ¿Cómo llegaste hasta «El Libro de Urantia» y por qué crees que lo encontraste?
 
@@ -59,11 +59,11 @@ Yo no tenía una fe definida. No era increyente, pero tampoco un devoto practica
 
 ## 6. ¿Hay algún punto (o puntos) de la revelación que te cueste aceptar?
 
-Ha habido más de uno, pero se han diluido con el tiempo, la experiencia vivida y una visión más amplia de las cosas. Recuerdo que me incomodaban los calificativos a veces duros o muy duros que los reveladores empleaban al referirse a nuestro mundo. Yo creía que exageraban, que se pasaban de rosca. Pero hoy, con algo más de conciencia y de sensibilidad, me doy cuenta de que los reveladores en verdad se quedaron cortos, e incluso fueron suaves o benignos, en su manera de calificar a nuestro mundo.  
+Ha habido más de uno, pero se han diluido con el tiempo, la experiencia vivida y una visión más amplia de las cosas. Recuerdo que me incomodaban los calificativos a veces duros o muy duros que los reveladores empleaban al referirse a nuestro mundo. Yo creía que exageraban, que se pasaban de rosca. Pero hoy, con algo más de conciencia y de sensibilidad, me doy cuenta de que los reveladores en verdad se quedaron cortos, e incluso fueron suaves o benignos, en su manera de calificar a nuestro mundo.  
 
 ## 7. ¿Cuál es la parte que más profundamente te ha impresionado?
 
-Hay más de una cosa que me ha impresionado, pero por mencionar alguna, la manera en que los reveladores explican el comienzo y el desarrollo de la Realidad, partiendo del absoluto e infinito Yo Soy. Para nosotros la Realidad procede del infinito, pasa por delante de nosotros (es ahí donde nos subimos al carro) y se dirige hacia el infinito. Hay muchas cosas que me asombran del Padre Universal: Dios como ingeniero y Dios como artista (palabras de Bill Sadler), además de Dios como padre. Los dos discursos de Jesús sobre la religión son clarificadores e impresionantes. Sus conferencias en Urmia, inigualables. Y así sucesivamente…    
+Hay más de una cosa que me ha impresionado, pero por mencionar alguna, la manera en que los reveladores explican el comienzo y el desarrollo de la Realidad, partiendo del absoluto e infinito Yo Soy. Para nosotros la Realidad procede del infinito, pasa por delante de nosotros (es ahí donde nos subimos al carro) y se dirige hacia el infinito. Hay muchas cosas que me asombran del Padre Universal: Dios como ingeniero y Dios como artista (palabras de Bill Sadler), además de Dios como padre. Los dos discursos de Jesús sobre la religión son clarificadores e impresionantes. Sus conferencias en Urmia, inigualables. Y así sucesivamente…    
 
 ## 8. ¿Cómo entiendes tú eso de «hacer la voluntad del Padre»?
 

@@ -35,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/11.jpg">
 </figure>
 
-Tengo el placer de comunicaros que por fin está accesible al público la web [https://urantiapedia.site](https://urantiapedia.site/) [^1], y os animo a que la visitéis.
+Tengo el placer de comunicaros que por fin está accesible al público la web [https://urantiapedia.site](https://urantiapedia.site/) [^1], y os animo a que la visitéis.
 
 Este proyecto me surgió como idea hace un año y está, por supuesto, muy lejos de estar terminado. Pero contiene un buen puñado de contenido suficiente para mostrar lo que se pretende con él y atraer la atención de más colaboradores.
 

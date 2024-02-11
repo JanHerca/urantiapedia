@@ -267,7 +267,7 @@ Simple y fácil, ¿no?
 <img src="/image/article/Luz_y_Vida/LyV_2021_11/Antonio-Moya-LyVnov21.png" alt="Antonio Moya" width="200">
 </figure>
 
-Antonio Moya Cerpa reside en Sevilla. Está jubilado y tiene tres hijos. Lleva 43 años leyendo _El Libro de Urantia_. Fue miembro fundador del grupo de estudio de Sevilla y traductor de la edición europea de _El Libro de Urantia_.
+Antonio Moya Cerpa reside en Sevilla. Está jubilado y tiene tres hijos. Lleva 43 años leyendo _El Libro de Urantia_. Fue miembro fundador del grupo de estudio de Sevilla y traductor de la edición europea de _El Libro de Urantia_.
 
 1. **¿Cómo llegaste hasta _El Libro de Urantia_ y por qué crees que lo encontraste?**
 

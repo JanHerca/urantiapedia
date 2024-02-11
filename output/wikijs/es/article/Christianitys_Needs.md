@@ -34,7 +34,7 @@ dateCreated: 2023-01-21T14:02:03.086Z
 </figure>
 
 
-> ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. (<a id="a36_559"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
+> ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! La hermandad cristiana de creyentes no dudará seguramente en reajustar su fe y sus costumbres de vida para poder «seguir» al Maestro en la manifestación de su vida real de devoción religiosa a la tarea de hacer la voluntad de su Padre, y de consagración al servicio desinteresado de los hombres. (<a id="a36_559"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2))
 
 > Si el cristianismo tan sólo pudiera captar una mayor cantidad de enseñanzas de Jesús, podría hacer mucho más para ayudar al hombre moderno a resolver sus problemas nuevos y cada vez más complejos. (<a id="a38_200"></a>[LU 195:10.19](/es/The_Urantia_Book/195#p10_19))
 

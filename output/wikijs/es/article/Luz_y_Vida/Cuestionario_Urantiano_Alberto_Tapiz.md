@@ -30,7 +30,7 @@ Cuando vi que toda la información del libro (o al menos la que conseguí compre
 
 ## 4. ¿En qué forma «El Libro de Urantia» ha cambiado tu vida?
 
-Una nueva perspectiva ante la vida lo ha invadido todo. _Todo_ ha cobrado sentido y por ende la manera de comprender y aceptar lo que nos acontece en esta vida material.  Ahora veo a las personas como «destellos de Dios», seres de amor a pesar de que su actitud ante la vida no sea compartida. Disfruto más la obra material de Dios mediante, por ejemplo, el placer de compartir experiencias en la naturaleza, de la contemplación de cualquier pequeño detalle de la vida diaria, etc.
+Una nueva perspectiva ante la vida lo ha invadido todo. _Todo_ ha cobrado sentido y por ende la manera de comprender y aceptar lo que nos acontece en esta vida material.  Ahora veo a las personas como «destellos de Dios», seres de amor a pesar de que su actitud ante la vida no sea compartida. Disfruto más la obra material de Dios mediante, por ejemplo, el placer de compartir experiencias en la naturaleza, de la contemplación de cualquier pequeño detalle de la vida diaria, etc.
 
 ## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma?
 
@@ -54,7 +54,7 @@ Si (o creo que sí). En esas ocasiones la sensación de plenitud y de hacer lo m
 
 ## 10. ¿Has intentado poner en práctica las enseñanzas del Maestro? ¿Cuál ha sido el resultado?
 
-Si, en determinadas situaciones o momentos.  Desarrollando un amor incondicional hacia seres queridos, adoptando una actitud de comprensión hacia las actitudes de los demás, etc. El resultado es de una gran gratificación y paz interior al aceptar a los demás y las circunstancias tal y como son.
+Si, en determinadas situaciones o momentos.  Desarrollando un amor incondicional hacia seres queridos, adoptando una actitud de comprensión hacia las actitudes de los demás, etc. El resultado es de una gran gratificación y paz interior al aceptar a los demás y las circunstancias tal y como son.
 
 ## 11. ¿Crees que «El Libro de Urantia» tiene algo «misterioso» que hace que no todo el mundo se decida a leerlo?
 

@@ -240,7 +240,7 @@ Por lo antes dicho y luego de darle muchas vueltas a muchos textos del libro, me
 
 Espero que cuando me gradúe pueda encontrarme con ella para decirle que estuve esperando con ansia el día que nos tocaba trabajar en la preparación del documento 43 junto a Wilson González, y que presentaríamos el jueves 25 de mayo. En fin, no pudo ser…
 
-Como ven, todo puede cambiar en un instante, es por eso por lo que debemos disfrutar de esta vida linda que se nos ha otorgado.  Los quiero mucho y espero algún día encontrarme personalmente con hermanos lectores de esta maravillosa quinta revelación.
+Como ven, todo puede cambiar en un instante, es por eso por lo que debemos disfrutar de esta vida linda que se nos ha otorgado.  Los quiero mucho y espero algún día encontrarme personalmente con hermanos lectores de esta maravillosa quinta revelación.
 
 
 ## Cuestionario urantiano – Jan Herca
@@ -327,7 +327,7 @@ Reembolso de la reserva en casos particulares por causa justificada, accidente, 
 
 ### Inscripciones
 
-Aquellas personas que deseen acudir al XIX Encuentro Nacional deberán abonar una cantidad de **15 € por persona** por gastos comunes originados de los alquileres por salas, audiovisuales, agua en salas, papelería y demás costes.
+Aquellas personas que deseen acudir al XIX Encuentro Nacional deberán abonar una cantidad de **15 € por persona** por gastos comunes originados de los alquileres por salas, audiovisuales, agua en salas, papelería y demás costes.
 
 El ingreso se realizará mediante transferencia bancaria, tarjeta de crédito, a la cuenta del Banco TRÍODOS BANK.
 Código IBAN: ES86 1491 0001 2521 3206 5927

@@ -39,7 +39,7 @@ Juan José reside en Pamplona. Está casado y tiene 5 hijos. Es doctor ingeniero
 
 ## 1. ¿Cómo llegaste hasta «El Libro de Urantia» y por qué crees que lo encontraste?
 
-Atraído siempre por temas esotéricos e interesado también en cuestiones religiosas (aunque observándolas bajo un enfoque muy crítico), he sido lector habitual de libros relacionados con ambas cuestiones.  El _Caballo de Troya_ fue un punto de partida que me abrió camino hacia _El Libro de Urantia_, aunque este llegó a mis manos años después, de modo incidental, diríase que gracias a una sincronicidad.
+Atraído siempre por temas esotéricos e interesado también en cuestiones religiosas (aunque observándolas bajo un enfoque muy crítico), he sido lector habitual de libros relacionados con ambas cuestiones.  El _Caballo de Troya_ fue un punto de partida que me abrió camino hacia _El Libro de Urantia_, aunque este llegó a mis manos años después, de modo incidental, diríase que gracias a una sincronicidad.
 
 ## 2. ¿Cuál fue tu primera impresión al leerlo?
 
@@ -75,7 +75,7 @@ En mi modo de ver, se deriva de barruntar el _porqué_ del hombre en el universo
 
 Mis reflexiones me llevan a esta concepción de la teleología: Dios crea permanentemente, y su designio es que esa Creación, partiendo de un estado primigenio inicial, vaya divinizándose progresivamente hasta llegar a ser tan perfecta como Él lo es. A lo largo de esta trayectoria de eterna evolución, algunos de sus estratos alcanzan ciertas prerrogativas o condiciones que les posibilitan estar dotados de un primer atisbo de consciencia. A partir de ese momento es cuando adquieren el estatus de _criatura_ y se les da a conocer de modo incipiente su participación en este magnífico proyecto.
 
-Justo en este nivel preciso nos encontramos los humanos, permitiéndosenos intuir el plan divino e invitándonos a colaborar activamente en él. Es así, mediante este incesante proceso de perfeccionamiento de la Creación, como Dios, infinito y perfecto bajo un prisma existencial, va adquiriendo infinitud y perfección experimental, con la ayuda de aquellas criaturas que deciden cooperar con Él. Y es precisamente este acto voluntario al que puede llamarse «hacer su voluntad».  
+Justo en este nivel preciso nos encontramos los humanos, permitiéndosenos intuir el plan divino e invitándonos a colaborar activamente en él. Es así, mediante este incesante proceso de perfeccionamiento de la Creación, como Dios, infinito y perfecto bajo un prisma existencial, va adquiriendo infinitud y perfección experimental, con la ayuda de aquellas criaturas que deciden cooperar con Él. Y es precisamente este acto voluntario al que puede llamarse «hacer su voluntad».  
 
 ## 9. ¿Has llegado a ser consciente de la presencia de tu Ajustador?
 

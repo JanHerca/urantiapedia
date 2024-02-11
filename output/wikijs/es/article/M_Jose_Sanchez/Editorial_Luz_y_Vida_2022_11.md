@@ -74,7 +74,7 @@ Con esa misma serenidad de ánimo, Jesús se condujo en relación con su familia
 
 > Jesús no dijo nada a la familia sobre el arresto de su hermano en Jerusalén, pero tres semanas más tarde tuvo una larga conversación con él sobre lo ocurrido. Después de esta conversación con Jesús el propio Judá se lo contó a la familia, y no olvidaría jamás la paciencia y la tolerancia que su padre-hermano tuvo con él durante aquella penosa experiencia. <a id="a74_360"></a>[LU 128:6.8](/es/The_Urantia_Book/128#p6_8)
 
-Qué admirable uso de la mente y del lenguaje encontramos en este episodio familiar, en donde se contraponen muy claramente dos maneras de actuar en la vida. Por un lado, comprobamos el daño que nos puede ocasionar actuar cuando no podemos razonar pues nuestra mente está inundada por emociones incontrolables, cuando nuestra «amígdala cerebral» está dirigiendo nuestra conducta. Por contra, vemos cómo se puede solucionar un grave problema cuando actuamos con espíritu sereno y diálogo, cuando nuestra mente está inundada de paz y paciencia, como la mente de aquel joven Jesús de Nazaret.  Una mente consagrada a hacer la voluntad del Padre, una mente enfocada en su Centro.
+Qué admirable uso de la mente y del lenguaje encontramos en este episodio familiar, en donde se contraponen muy claramente dos maneras de actuar en la vida. Por un lado, comprobamos el daño que nos puede ocasionar actuar cuando no podemos razonar pues nuestra mente está inundada por emociones incontrolables, cuando nuestra «amígdala cerebral» está dirigiendo nuestra conducta. Por contra, vemos cómo se puede solucionar un grave problema cuando actuamos con espíritu sereno y diálogo, cuando nuestra mente está inundada de paz y paciencia, como la mente de aquel joven Jesús de Nazaret.  Una mente consagrada a hacer la voluntad del Padre, una mente enfocada en su Centro.
 
 Veamos otro pasaje muy curioso y llamativo. Otro pasaje donde las emociones desbordadas también ocasionaron sufrimiento:
 
@@ -96,7 +96,7 @@ Ante esta terrible situación, ¿hay una salida? En la vida nos enfrentamos con 
 
 La solución la da Cristo, capaz de ver en lo profundo. Solo nuestra naturaleza original puede conseguir que nuestra voluntad no esté confusa y dividida, queriendo una cosa por un lado y otra por otro. Solo si vivimos desde el SER podemos sentirnos como en casa siempre y en cualquier parte.
 
-Porque aquí tenemos por un lado al lunático, que pide a Jesús que le deje y no le atormente.  «¡Vete, vete, déjame en paz!», diría. Pero por otro lado Amós reconoció a Jesús, se acercó y se arrodilló ante él, suplicando así también su ayuda.
+Porque aquí tenemos por un lado al lunático, que pide a Jesús que le deje y no le atormente.  «¡Vete, vete, déjame en paz!», diría. Pero por otro lado Amós reconoció a Jesús, se acercó y se arrodilló ante él, suplicando así también su ayuda.
 
 Jesús, que es la Luz del mundo, nos ve hasta lo más profundo de nuestro ser. Conoce nuestros demonios o fantasmas y les habla con autoridad, diciendo la verdad: eres un hijo de Dios, álzate, sal de tu derrumbe. Todo puede recomponerse y volver a su sitio. Es posible recuperarse y pasar página. Jesús es en esta cuestión nuestro gran apoyo, el maestro interior que posibilita el cambio.
 

@@ -71,13 +71,13 @@ Political, economic, and logistical distribution problems in Russia and Eastern 
 
 > “Over 95\% of all books distributed since the first publication have been purchased, not given away."
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_09/003.jpg">
 </figure>
 
 > “The Board resolved that Urantia Foundation create a fund raising committee of the Board.”
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_09/004.jpg">
 </figure>
 
@@ -99,7 +99,7 @@ The third quarterly meeting ended with hope, love, and dedicated enthusiasm for 
 
 > “The mantle of leadership must pass to the next generations.”
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_09/015.jpg">
 </figure>
 

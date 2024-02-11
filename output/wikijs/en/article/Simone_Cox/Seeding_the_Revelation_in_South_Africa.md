@@ -57,7 +57,7 @@ As we pray earnestly that these wonderful papers will find their way into the ho
 
 > “South Africa is thirsty for the rich blessing of the Urantia teachings.”
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_12/031.jpg">
 </figure>
 

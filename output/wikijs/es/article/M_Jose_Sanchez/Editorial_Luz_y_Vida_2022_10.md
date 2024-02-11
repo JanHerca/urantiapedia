@@ -60,7 +60,7 @@ Esta pequeña disertación acerca de la importancia de la lectura, de su singula
 
 Cuando el 12 de octubre de 1955 salió a la luz pública y se difundió el libro azul, de esto hace ya 67 años, más de medio siglo, los reveladores sabían cuán importante era para nuestro progreso la lectura. Desde entonces no se ha cesado de editar la quinta revelación, de traducirse a decenas de lenguas, de ser leído a solas y de ser analizado en grupos, conferencias y encuentros por todo el planeta.
 
-Precisamente ahora, en octubre, celebramos los 67 años de la publicación de _El Libro de Urantia_.  Un libro que formula al principio su intención de expandir nuestra cosmovisión y desarrollo espiritual:
+Precisamente ahora, en octubre, celebramos los 67 años de la publicación de _El Libro de Urantia_.  Un libro que formula al principio su intención de expandir nuestra cosmovisión y desarrollo espiritual:
 
 > En nuestro esfuerzo por expandir la consciencia cósmica y elevar la percepción espiritual, es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. <a id="a64_408"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2)
 

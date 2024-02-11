@@ -153,7 +153,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 
 Nos vemos en tus sueños (Olga López)
 
-En palabras de su autora: «En algún lugar de _El Libro de Urantia_ se nos dice que el Ajustador del Pensamiento intenta comunicarse con nosotros por medio de los sueños, aunque el canal de transmisión se vea demasiado a menudo trastornado por nuestros propios pensamientos, miedos y obsesiones. Un buen día, me pregunté cómo sería esa comunicación si, por una circunstancia dada, estuviéramos obligados a «escuchar» al Ajustador. Y ahí nació mi segunda novela. En este ejercicio de imaginación creé a Ángel, un protagonista experto en huir hacia adelante, un joven profesional totalmente volcado en su trabajo al que, de repente, una circunstancia trágica le «obliga» a escuchar a su chispa divina, y ese hecho transforma por completo su vida y su visión de la existencia.»
+En palabras de su autora: «En algún lugar de _El Libro de Urantia_ se nos dice que el Ajustador del Pensamiento intenta comunicarse con nosotros por medio de los sueños, aunque el canal de transmisión se vea demasiado a menudo trastornado por nuestros propios pensamientos, miedos y obsesiones. Un buen día, me pregunté cómo sería esa comunicación si, por una circunstancia dada, estuviéramos obligados a «escuchar» al Ajustador. Y ahí nació mi segunda novela. En este ejercicio de imaginación creé a Ángel, un protagonista experto en huir hacia adelante, un joven profesional totalmente volcado en su trabajo al que, de repente, una circunstancia trágica le «obliga» a escuchar a su chispa divina, y ese hecho transforma por completo su vida y su visión de la existencia.»
 
 [Más información sobre el libro](https://aue.urantia-association.org/inspirado-en-el-lu-nos-vemos-en-tus-suenos-de-olga-lopez/)
 <br style="clear:both" />
@@ -166,7 +166,7 @@ En palabras de su autora: «En algún lugar de _El Libro de Urantia_ se nos dic
 
 Para todos mis hermanos (Gonzalo Vilar)
 
-Es de agradecer, y es también una señal de que el movimiento Urantia goza de buena salud en nuestro país, que se publiquen ensayos y novelas relacionados con las enseñanzas de _El Libro de Urantia_. En este libro, es digno de destacar que, antes de cada capítulo o tema tratado, el autor da su punto de vista sobre el tema en particular, a la luz de las enseñanzas de _El Libro de Urantia_. Por último, se añade una recopilación de citas del libro, verdaderas perlas de sabiduría que brillan por sí solas.
+Es de agradecer, y es también una señal de que el movimiento Urantia goza de buena salud en nuestro país, que se publiquen ensayos y novelas relacionados con las enseñanzas de _El Libro de Urantia_. En este libro, es digno de destacar que, antes de cada capítulo o tema tratado, el autor da su punto de vista sobre el tema en particular, a la luz de las enseñanzas de _El Libro de Urantia_. Por último, se añade una recopilación de citas del libro, verdaderas perlas de sabiduría que brillan por sí solas.
 
 [Leed aquí la reseña completa en nuestra web](https://aue.urantia-association.org/inspirado-en-el-lu-para-todos-mis-hermanos-de-gonzalo-vilar/)
 <br style="clear:both" />

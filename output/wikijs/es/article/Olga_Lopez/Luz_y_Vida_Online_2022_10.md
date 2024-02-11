@@ -115,7 +115,7 @@ En este artículo, el autor trata sobre la Última Cena (de la que justamente se
 
 En esta presentación, la autora hace un repaso de lo que para ella son las características deseables en los líderes que beben de las enseñanzas de _El Libro de Urantia_, que poco tienen que ver con el concepto de líder que hemos visto hasta ahora en la historia de las religiones y de la humanidad en general. También incluye ejemplos de verdaderos líderes que aparecen en el libro en cada una de las revelaciones de época anteriores, y por último enumera las características que hacen que la comunidad de lectores del libro sea distinta a las comunidades que se han creado a partir de las religiones evolutivas.
 <br style="clear:both" />
- 
+ 
 ## Historia y enseñanzas – Crónica de la vida de Jesús
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
@@ -150,7 +150,7 @@ Continuamos repasando el trabajo secundario _Una guía infantil hacia El Libro d
 
 **El cristianismo es Amor (Miguel Ruiz de Ayúcar)**
 
-El libro es una iniciación al verdadero cristianismo, a la palabra y obras de Jesús, basado en los cuatro evangelios en cartas de San Pablo, San Agustín, etc. Está escrito para su fácil entendimiento, con citas del evangelio, de las cartas de San Pablo, de San Agustín, de partes del antiguo testamento, de los salmos. También tiene comentarios sobre la vida de Jesús y sobre algunas de sus parábolas.
+El libro es una iniciación al verdadero cristianismo, a la palabra y obras de Jesús, basado en los cuatro evangelios en cartas de San Pablo, San Agustín, etc. Está escrito para su fácil entendimiento, con citas del evangelio, de las cartas de San Pablo, de San Agustín, de partes del antiguo testamento, de los salmos. También tiene comentarios sobre la vida de Jesús y sobre algunas de sus parábolas.
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-el-cristianismo-es-amor-de-miguel-ruiz-de-ayucar/)
 <br style="clear:both" />
@@ -163,7 +163,7 @@ El libro es una iniciación al verdadero cristianismo, a la palabra y obras de J
 
 **Las siete leyes espirituales del éxito (Deepak Chopra)**
 
-Deepak Chopra es un especialista en la medicina mente-cuerpo, autor de numerosos libros. En este desarrolla siete principios, con la base de que «el éxito es un viaje y no un destino». Libro práctico (cómo no podía ser menos siendo de autoayuda) pero de un profundidad tremenda: «_No somos unos seres humanos que tenemos experiencias espirituales de cuando en cuando. Es al contrario: somos unos seres espirituales que tenemos experiencias humanas de cuando en cuando»._
+Deepak Chopra es un especialista en la medicina mente-cuerpo, autor de numerosos libros. En este desarrolla siete principios, con la base de que «el éxito es un viaje y no un destino». Libro práctico (cómo no podía ser menos siendo de autoayuda) pero de un profundidad tremenda: «_No somos unos seres humanos que tenemos experiencias espirituales de cuando en cuando. Es al contrario: somos unos seres espirituales que tenemos experiencias humanas de cuando en cuando»._
 
 [Ver la reseña completa en nuestra página web](https://aue.urantia-association.org/libros-las-siete-leyes-espirituales-del-exito-de-deepak-chopra/)
 <br style="clear:both" />
@@ -174,7 +174,7 @@ Deepak Chopra es un especialista en la medicina mente-cuerpo, autor de numerosos
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/La-Ultima-Cena.png" alt="La Última Cena">
 </figure>
 
-[La Última Cena por Javier Martínez](https://www.youtube.com/watch?v=8a8I-vH7UIg&t=2s) ([Estudio del Libro de Urantia](https://www.youtube.com/c/JaimeEduardoReyAlbornoz))
+[La Última Cena por Javier Martínez](https://www.youtube.com/watch?v=8a8I-vH7UIg&t=2s) ([Estudio del Libro de Urantia](https://www.youtube.com/c/JaimeEduardoReyAlbornoz))
 
 En este vídeo se incluye una de las sesiones de estudio del grupo de estudio ICSS, compuesto por lectores de diferentes países de América Latina; en este caso uno de sus miembros, Javier Martínez, ofrece desde España una exposición sobre la Última Cena y las circunstancias que la rodearon. En palabras de su autor, «en esta presentación analizaremos cada suceso que aconteció en esta última cena del recuerdo, sus detalles, mensajes y enseñanzas».
 

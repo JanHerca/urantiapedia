@@ -122,7 +122,7 @@ Esta presentación del autor comienza haciendo una «ficha» de cada uno de los 
 En este artículo, su autor hace un análisis sistemático de todos estos conceptos pues, para comprender mejor de qué trata cada uno de ellos y cuáles son sus diferencias, «es bueno definir lo que se entiende por términos básicos, y es lo que vamos a hacer previamente a su examen: 1) Fundamentos, 2) Método, 3) Objeto y 4) Campo de acción». Por último, el autor compara la manera en que cada una puede enfrentarse al problema de Dios. Todo ello apoyado en citas del libro, que tan magníficamente expresa cuál es el ámbito de aplicación de todas ellas y la importancia de no confundir esos ámbitos para evitar caer en el materialismo o en el panteísmo más flagrante.
 <br style="clear:both" />
 
- 
+ 
 ## Historia y enseñanzas: Crónica de la vida de Jesús
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-left">
@@ -135,7 +135,7 @@ Os presentamos la siguiente entrega de las crónicas de la vida de Jesús, que e
 
 [Resumen del documento 142](http://aue.urantia-association.org/wp-content/uploads/sites/6/2023/02/Documento-142.pdf)
 <br style="clear:both" />
- 
+ 
 ## Guía de El Libro de Urantia para niños: Jesús a los doce años
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-left">

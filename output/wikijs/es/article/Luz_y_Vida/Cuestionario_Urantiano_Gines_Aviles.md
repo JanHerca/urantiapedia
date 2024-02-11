@@ -77,7 +77,7 @@ _El Libro de Urantia_ construyó y asentó los pilares de mi casa espiritual, re
 
 ## 5. ¿Ha cambiado la fe que tenías después de leerlo? Si es así, ¿de qué forma?
 
-Antes de las novelas de Benítez y de _El Libro de Urantia_ estaba más por la labor de negar la existencia de Dios y fijarme solo en los puntos negativos de las otras religiones, más en la línea de un ateo o agnóstico. Ahora soy un acólito de la bellísima y valiente religión del espíritu. Ahora los problemas pasan por el filtro de la objetividad/verdad y las acciones por el del bien común/amor, al menos, ese intento siempre que sea mi punto de partida.
+Antes de las novelas de Benítez y de _El Libro de Urantia_ estaba más por la labor de negar la existencia de Dios y fijarme solo en los puntos negativos de las otras religiones, más en la línea de un ateo o agnóstico. Ahora soy un acólito de la bellísima y valiente religión del espíritu. Ahora los problemas pasan por el filtro de la objetividad/verdad y las acciones por el del bien común/amor, al menos, ese intento siempre que sea mi punto de partida.
 
 ## 6. ¿Hay algún punto (o puntos) de la revelación que te cuesta aceptar?
 
