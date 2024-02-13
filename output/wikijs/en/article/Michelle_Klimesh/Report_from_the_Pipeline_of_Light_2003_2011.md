@@ -62,7 +62,7 @@ I deeply appreciate the continuing efforts of the Pipeline volunteers and the co
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2011-09/planned-giving-urantia-foundation)
+- [This article](https://www.urantia.org/news/2011-09/report-pipeline-light-2003-2011)
 
 <figure class="table chapter-navigator">
   <table>

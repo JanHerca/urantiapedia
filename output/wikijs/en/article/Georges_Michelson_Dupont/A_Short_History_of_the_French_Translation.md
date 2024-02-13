@@ -67,7 +67,7 @@ Mr. Weiss hired several people to finalize the translation, and the result was a
 
 It is also possible that other individuals participated in the translation. In the following paragraph from the above mentioned letter to Christy, Mr. Weiss wrote the following:
 
-Since the translation in its entirety is more than a one man job, I have contacted two men and asked them to translate the third and fourth parts as a pay job. The first man is a Hungarian refugee, a spiritualist speaking equally well German, English, and French. The second is a French expert on the Bible and has taught me some elements of the Hebrew language during the early forties. Neither of them has given me a final answer.
+> Since the translation in its entirety is more than a one man job, I have contacted two men and asked them to translate the third and fourth parts as a pay job. The first man is a Hungarian refugee, a spiritualist speaking equally well German, English, and French. The second is a French expert on the Bible and has taught me some elements of the Hebrew language during the early forties. Neither of them has given me a final answer.
 
 In a letter dated June 16, 1958, Mr. Weiss wrote:
 

@@ -100,15 +100,13 @@ The Board agreed to update Urantia Foundation's 1998 Safe Harbor Policies. The â
 > 
 > The following statement of copyright is prominently displayed in the first few pages of the work:
 > 
-> This work uses quotations from the Urantia Foundation-published <ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins> language translation of _The Urantia Book_, &copy; <ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins> Urantia Foundation; 533 Diversey
-> 
-> Parkway; Chicago, Illinois 60614, USA; +1 (773) 525-3319; http://www.urantia.org; all rights reserved.
+> This work uses quotations from the Urantia Foundation-published <ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins> language translation of _The Urantia Book_, &copy; <ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ins> Urantia Foundation; 533 Diversey Parkway; Chicago, Illinois 60614, USA; +1 (773) 525-3319; http://www.urantia.org; all rights reserved.
 > 
 > The views expressed in this work are those of the author and do not necessarily represent the views of Urantia Foundation or its affiliates.
 > 
 > For every word quoted from the said translation of _The Urantia Book_, the work has at least one word that is not quoted from _The Urantia Book_.
 > 
-> : The work uses no more than 5,000 words in a row from the said translation of _The Urantia Book_. If you use up to 5,000 words in a row from this translation of _The Urantia Book_, then you should insert other written materials before using any additional quotations from the respective translation of _The Urantia Book_.
+> The work uses no more than 5,000 words in a row from the said translation of _The Urantia Book_. If you use up to 5,000 words in a row from this translation of _The Urantia Book_, then you should insert other written materials before using any additional quotations from the respective translation of _The Urantia Book_.
 > 
 > The work does not revise, alter, or amend portions of the text of the said translation of : _The Urantia Book_ that are quoted in the work.
 

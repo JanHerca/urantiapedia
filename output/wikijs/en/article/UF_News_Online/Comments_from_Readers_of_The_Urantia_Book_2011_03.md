@@ -53,7 +53,7 @@ As this amazing epoch unfolds before us, with its heightened energy, it becomes 
 
 This Stillness - this “Quiet” - is essential to our personal growth. “Quiet meditation...” <a id="a53_91"></a>[UB 136:3.3](/en/The_Urantia_Book/136#p3_3), “to pray...amidst the quiet surroundings...” <a id="a53_181"></a>[UB 144:3.14](/en/The_Urantia_Book/144#p3_14), “...peace, be quiet...” <a id="a53_252"></a>[UB 151:5.5](/en/The_Urantia_Book/151#p5_5), “...a period of quiet and rest...” <a id="a53_332"></a>[UB 156:1.3](/en/The_Urantia_Book/156#p1_3). Additionally, our mission work as students and teachers of the Truth, Beauty and Goodness we fondly embrace in the teachings of _The Urantia Book_, is to be performed in a quiet manner.
 
-Repeatedly we are reminded of this, as shown in the following excerpts: “The Master's plan of sending them out to labor in a quiet and personal manner...” <a id="a55_155"></a>[UB 138:2.10](/en/The_Urantia_Book/138#p2_10), “...going about his Father's business in the most quiet and undramatic manner...” <a id="a55_284"></a>[UB 138:6.5](/en/The_Urantia_Book/138#p6_5), “Jesus had planned for a quiet missionary campaign...” <a id="a55_384"></a>[UB 138:7.1](/en/The_Urantia_Book/138#p7_1), “...months of quiet work...a great test to the apostles...” <a id="a55_489"></a>[UB 138:9.2](/en/The_Urantia_Book/138#p9_2), “Their efforts were chiefly of a more quiet and personal nature...” <a id="a55_602"></a>[UB 141:8.2](/en/The_Urantia_Book/141#p8_2), “...to do some quiet work..." <a id="a55_677"></a>[UB 144:0.3](/en/The_Urantia_Book/144#p0_3).
+Repeatedly we are reminded of this, as shown in the following excerpts: “The Master's plan of sending them out to labor in a quiet and personal manner...” <a id="a55_155"></a>[UB 138:2.10](/en/The_Urantia_Book/138#p2_10), “...going about his Father's business in the most quiet and undramatic manner...” <a id="a55_284"></a>[UB 138:6.5](/en/The_Urantia_Book/138#p6_5), “Jesus had planned for a quiet missionary campaign...” <a id="a55_384"></a>[UB 138:7.1](/en/The_Urantia_Book/138#p7_1), “...months of quiet work...a great test to the apostles...” <a id="a55_489"></a>[UB 138:9.2](/en/The_Urantia_Book/138#p9_2), “Their efforts were chiefly of a more quiet and personal nature...” <a id="a55_602"></a>[UB 141:8.2](/en/The_Urantia_Book/141#p8_2), “...to do some quiet work...” <a id="a55_677"></a>[UB 144:0.3](/en/The_Urantia_Book/144#p0_3).
 
 As we contemplate the unfolding of life on Urantia, let us also endeavor to seek out and embrace the calming, prosperous influence of Quiet. God bless!
 
@@ -66,7 +66,7 @@ _Evett Twyford, Illinois, USA_
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2011-03/what-does-urantia-book-mean-me, https://www.urantia.org/news/2011-03/quiet)
+- [This article](https://www.urantia.org/news/2011-03/what-does-urantia-book-mean-me) and [this other article](https://www.urantia.org/news/2011-03/quiet)
 
 <figure class="table chapter-navigator">
   <table>

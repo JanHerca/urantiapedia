@@ -104,7 +104,7 @@ This will require the cooperation of readers and organizations by supporting a c
 
 The Spanish UBIS website is being developed. There are plans to launch the Spanish UBIS in late 2011 or early 2012. Additional funds were added to the 2011 budget. Five courses were offered during the April 2011 trimester.
 
-1. _Study the implementation of study forums at 533 W Diversey Parkway._
+3. _Study the implementation of study forums at 533 W Diversey Parkway._
 
 This will include study group blogs and interactive study group webinars.
 

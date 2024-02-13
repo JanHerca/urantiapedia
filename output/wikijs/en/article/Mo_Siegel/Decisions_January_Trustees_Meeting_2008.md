@@ -76,7 +76,9 @@ For the past five years, Board committees have become increasingly important in 
 
 **Education Committee:** Chair: Gard Jameson; members: Marta Elders, Marilynn Kulieke, Georges MichelsonDupont, Claire Mylanus, and Jane Ploetz.
 
-**Book Committee:** Chair: Mo Siegel; members: Jan Bernard, Marilynn Kulieke, Georges Michelson-Dupont, Jay Peregrine, and Tamara Wood. Committee on the Standard Reference Text: Chair Seppo Kanerva; members: Marvin Gawryn, Merritt Horn, Nancy Johnson, Marilynn Kulieke, and Jay Peregrine.
+**Book Committee:** Chair: Mo Siegel; members: Jan Bernard, Marilynn Kulieke, Georges Michelson-Dupont, Jay Peregrine, and Tamara Wood. 
+
+**Committee on the Standard Reference Text:** Chair Seppo Kanerva; members: Marvin Gawryn, Merritt Horn, Nancy Johnson, Marilynn Kulieke, and Jay Peregrine.
 
 **Fund-raising Committee:** Chair: Jay Peregrine; members: Gard Jameson, Richard Keeler, Marjorie Reed, Betty Zehr, and Ralph Zehr.
 

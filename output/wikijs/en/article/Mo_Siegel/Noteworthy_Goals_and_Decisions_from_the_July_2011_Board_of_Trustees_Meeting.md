@@ -76,7 +76,7 @@ Updating translations is a high priority of Urantia Foundation. A revision proce
 <img src="/image/article/UF_News_Online/2011_09/008.jpg">
 </figure>
 
-1. Continue refining the new translation software.
+2. Continue refining the new translation software.
 
 Translation software to support translation projects and translation revision projects has been developed. This software improves the efficiency and accuracy of these projects.
 

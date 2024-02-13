@@ -68,23 +68,23 @@ The following report will inform you of Urantia Foundation's accomplishments in 
 
 - New Book Distributors
 
-	Contracts were signed with new distributors in Spain, Portugal, Italy, France, and Quebec.
+  Contracts were signed with new distributors in Spain, Portugal, Italy, France, and Quebec.
 
 - New Book Distribution System in Europe
 
-	A centralized storing, shipping and billing system was established for the European Union.
+  A centralized storing, shipping and billing system was established for the European Union.
 
 - French Audio Version
 
-	A team of French Canadians produced an audio version of _The Urantia Book_ in French, which is now available to readers.
+  A team of French Canadians produced an audio version of _The Urantia Book_ in French, which is now available to readers.
 
 - English Audio Tapes
 
-	The audio tapes of _The Urantia Book_ were converted to a new digital format and made ready for multiple purposes. This new format will greatly reduce storage space and download time.
+  The audio tapes of _The Urantia Book_ were converted to a new digital format and made ready for multiple purposes. This new format will greatly reduce storage space and download time.
 
 - Formatting of Four New Translations
 
-	The formatting for the upcoming printings of Estonian, Hungarian, Polish, and Swedish translations was almost completed.
+  The formatting for the upcoming printings of Estonian, Hungarian, Polish, and Swedish translations was almost completed.
 
 - A Translator's Meeting was held in Paris, France in August, 2009.
 

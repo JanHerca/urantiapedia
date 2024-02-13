@@ -66,7 +66,7 @@ One thing has become crystal clear: unselfish and unselfconscious labor for your
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2011-06/inspiring-words-reader-urantia-book, https://www.urantia.org/news/2011-06/story-long-time-urantia-book-reader)
+- [This article](https://www.urantia.org/news/2011-06/inspiring-words-reader-urantia-book) and [this article](https://www.urantia.org/news/2011-06/story-long-time-urantia-book-reader)
 
 
 <figure class="table chapter-navigator">

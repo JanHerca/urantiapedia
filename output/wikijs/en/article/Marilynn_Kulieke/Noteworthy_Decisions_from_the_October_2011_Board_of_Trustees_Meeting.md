@@ -53,7 +53,7 @@ The Board approved the following three major fundraising initiatives for 2012 an
 - 533 W Diversey Building Restoration Fund: The Board approved the next stage of renovation to Urantia Foundation headquarters at 533 W Diversey Parkway. In October the restoration of three bathrooms on the second floor was completed. Now serious plumbing and bathroom problems have arisen on the first floor. The Board approved the renovation of the two bathrooms and kitchen. the first floor bathrooms and kitchen, we need an additional $45,000 before year end.
 - _Chinese Translation Fund and French, Spanish and Portuguese Revision Funds:_ The first draft of the Chinese translation has been completed and, to a certain extent, revised, but it needs extensive review and revision before it is ready for publication. Our team is committed to completing an excellent Chinese translation within the next five years.
 
-Approximately $175,000 has been raised toward the needed $400,000 to complete the renovation. Your tax deductible donations, earmarked for the 533 Building Renovation Project, are greatly needed. To complete
+Approximately $175,000 has been raised toward the needed $400,000 to complete the renovation. Your tax deductible donations, earmarked for the 533 Building Renovation Project, are greatly needed.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2011_12/005.jpg">

@@ -77,7 +77,7 @@ Cherish your study group if you have one. If you don't have one, consider joinin
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2011-12/what-urantia-book-means-me-samantha-nior, https://www.urantia.org/news/2011-12/my-case-study-groups)
+- [This article](https://www.urantia.org/news/2011-12/what-urantia-book-means-me-samantha-nior) and [this article](https://www.urantia.org/news/2011-12/my-case-study-groups)
 
 <figure class="table chapter-navigator">
   <table>
