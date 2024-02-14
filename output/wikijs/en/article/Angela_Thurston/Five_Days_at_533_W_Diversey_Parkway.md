@@ -20,7 +20,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/en/index/articles_uf_news_online#volume-6-issue-3-oct-2012">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Oct. 2012 — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Aug. 2012 — Index</span>
         </a>
         </td>
         <td>
@@ -84,7 +84,7 @@ We recognize there is much to be done, and we are excited to see our efforts bea
         </td>
         <td>
         <a href="/en/index/articles_uf_news_online#volume-6-issue-3-oct-2012">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Oct. 2012 — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Aug. 2012 — Index</span>
         </a>
         </td>
         <td>

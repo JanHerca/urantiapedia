@@ -56,13 +56,14 @@ Every day we have to deal with the mundane, and sometimes it is difficult to hav
 
 > Man is spiritually indwelt by a surviving Thought Adjuster. If such a human mind is sincerely and spiritually motivated, if such a human soul desires to know God and become like him, honestly wants to do the Father's will, there exists no negative influence of mortal deprivation nor positive power of possible interference which can prevent such a divinely motivated soul from securely ascending to the portals of Paradise. <a id="a56_427"></a>[UB 5:1.7](/en/The_Urantia_Book/5#p1_7)
 
-Let us not allow such connection to disappear when performing our daily duties! Let it become a daily ritual, a part of us that we cannot live without! Let us fight against our limitations and bravely pass every test life gives us. Let us “learn to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable.” <a id="a58_534"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3).
+When I read _The Urantia Book_ I feel myself in expansion, as a bird might feel when flying. Though the feeling is difficult to describe, I feel in connection with all of God's creation. I suppose that all readers are similarly affected. As human beings, we are limited in understanding the love our Father feels for us. But even with our limitations, we can experience immense feelings of love, an ineffable connection with our Father.
+
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_06/064.jpg">
 </figure>
 
-When I read _The Urantia Book_ I feel myself in expansion, as a bird might feel when flying. Though the feeling is difficult to describe, I feel in connection with all of God's creation. I suppose that all readers are similarly affected. As human beings, we are limited in understanding the love our Father feels for us. But even with our limitations, we can experience immense feelings of love, an ineffable connection with our Father.
+Let us not allow such connection to disappear when performing our daily duties! Let it become a daily ritual, a part of us that we cannot live without! Let us fight against our limitations and bravely pass every test life gives us. Let us “_learn to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable._” <a id="a58_534"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3).
 
 Let us not forget who we are and where are we going! Let us remember every day the commitment we have taken to search for truth. And with such a great revelation in our hands, let us put the teachings into practice, not just by believing them, but by living them motivated by love, activated by unselfish ministry, and with a true connection with our Father.
 

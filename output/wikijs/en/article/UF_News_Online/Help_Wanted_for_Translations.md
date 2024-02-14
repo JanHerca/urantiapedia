@@ -36,7 +36,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Dear friends and readers of The Urantia Book, the manager of translations is looking for volunteers, long-time readers with some translating experience, to assist with the following translations:
 - Chinese: must be a native speaker Of Chinese with writing skills.
-- Hebrew•. must be a native speaker Of Hebrew with writing skills.
+- Hebrew: must be a native speaker Of Hebrew with writing skills.
 - Indonesian: must be an Indonesian native speaker with writing skills.
 
 Please contact Georges Michelson-Dupont at: georges.michelson-dupont@wanadoo.fr

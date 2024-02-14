@@ -25,7 +25,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/en/article/Dan_Macias/Engineering_the_Audio_O_Livro_de_Urantia">
-          <span class="pr-2">Engineering the Audio _O Livro de Urântia_</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Engineering the Audio O Livro de Urântia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -79,7 +79,7 @@ With the support of my husband and daughter, I am committed to completing this p
         </td>
         <td>
         <a href="/en/article/Dan_Macias/Engineering_the_Audio_O_Livro_de_Urantia">
-          <span class="pr-2">Engineering the Audio _O Livro de Urântia_</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Engineering the Audio O Livro de Urântia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

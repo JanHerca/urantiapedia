@@ -1,5 +1,5 @@
 ---
-title: "Engineering the Audio _O Livro de Urântia_"
+title: "Engineering the Audio O Livro de Urântia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

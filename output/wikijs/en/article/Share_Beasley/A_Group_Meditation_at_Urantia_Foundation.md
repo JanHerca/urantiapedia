@@ -52,13 +52,10 @@ Marta also requested that we daily document our insights and inspirations, and t
 
 We have gathered in the Forum Room, preparing for silent group meditation, and Marta shares our insights, inspirations, and images that we sent her in connection with our ten-week assignment. Among those shared are the following:
 
-> This is the gift of hope to humankind.
-
-> The light of faith illuminates the world.
-
-> Souls touching souls illuminate life.
-
-> Dare to inspire.
+- This is the gift of hope to humankind.
+- The light of faith illuminates the world.
+- Souls touching souls illuminate life.
+- Dare to inspire.
 
 Incoming spiritual energy slowly but surely surrounds and illuminates the planet.
 
@@ -70,19 +67,12 @@ Adjusters, our guardian angels, the Spirit of Truth, the Holy Spirit, and a few 
 We are bound together in timeless silence for a while. As we conclude our meditation, we share several of our insights with those in the room. I feel comfortable sharing mine with you:
 
 > We believe in universal goodness.
-> 
 > We know that we are not alone.
-> 
 > We know that we are loved.
-> 
 > We know that we have powerful assistance from unseen friends.
-> 
 > We know that every person is important.
-> 
 > We know that every individual has a purpose.
-> 
 > We trust God, and e trusts us even more.
-> 
 > We realize that to lead we must inspire.
 
 I believe we were all led to _The Urantia Book_, and now it is our turn to lead and seed the book and its teachings in our own realms and throughout the world, as such opportunities present themselves.

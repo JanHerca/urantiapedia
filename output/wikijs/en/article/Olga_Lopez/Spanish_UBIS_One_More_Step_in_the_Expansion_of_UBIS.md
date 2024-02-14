@@ -20,7 +20,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/en/index/articles_uf_news_online#volume-6-issue-3-oct-2012">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Oct. 2012 — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Aug. 2012 — Index</span>
         </a>
         </td>
         <td>
@@ -68,7 +68,7 @@ Our goal for 2013 is to offer two courses in Spanish per semester; so we need to
         </td>
         <td>
         <a href="/en/index/articles_uf_news_online#volume-6-issue-3-oct-2012">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Oct. 2012 — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Aug. 2012 — Index</span>
         </a>
         </td>
         <td>

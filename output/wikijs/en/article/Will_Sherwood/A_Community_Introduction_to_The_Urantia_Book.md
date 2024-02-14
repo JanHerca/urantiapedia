@@ -60,11 +60,11 @@ My PowerPoint presentation, based on Andrea's outline, included the following:
 8. Details that the only formal meetings are study groups and that the book is not a “bible” for a new church or religion.
 9. Who wrote it.
 10. Some of the basic concepts in the book:
-  a. Thought Adjusters.
-  b. Evolution.
-  c. Ascending and descending Sons of God. 
-  d. What happens when you die. 
-  e. Whatever else that comes to mind.
+  - a. Thought Adjusters.
+  - b. Evolution.
+  - c. Ascending and descending Sons of God. 
+  - d. What happens when you die. 
+  - e. Whatever else that comes to mind.
 11. What the book has done with me and for me.
 12. Opportunities for attendees to talk.
 

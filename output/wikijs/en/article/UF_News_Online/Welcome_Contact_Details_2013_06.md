@@ -41,15 +41,15 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## Inside This Issue
 
-New Planned Giving Website at Urantia.org
-Notewortby Decisions from the April 2013 Board of Trustees Meeting
-A Decimal Seminar 
-_The Urantia Book_ in Spain
-Translating _The Urantia Book_ into Farsi
-Inspire and Be Inspired
-The Third Meeting of the Blue Club in Frankfurt, Germany
-A New Platform for _The Urantia Book_ Internet School
-A Reader's Comment
+- New Planned Giving Website at Urantia.org
+- Notewortby Decisions from the April 2013 Board of Trustees Meeting
+- A Decimal Seminar 
+- _The Urantia Book_ in Spain
+- Translating _The Urantia Book_ into Farsi
+- Inspire and Be Inspired
+- The Third Meeting of the Blue Club in Frankfurt, Germany
+- A New Platform for _The Urantia Book_ Internet School
+- A Reader's Comment
 
 > We hope this online tool will be a useful service to supporters of Urantia Foundation.
 

@@ -58,7 +58,8 @@ Because Meredith was already in his early nineties at the time, we felt somewhat
 
 By now Meredith will have settled in on the mansion worlds, reunited with his loved ones, and familiarized himself with his surroundings. We look forward to seeing him again when our time comes.
 
-The following is Meredith's story of how he found _The Urantia Book_.
+The following (in next article) is Meredith's story of how he found _The Urantia Book_.
+
 
 
 ## References
