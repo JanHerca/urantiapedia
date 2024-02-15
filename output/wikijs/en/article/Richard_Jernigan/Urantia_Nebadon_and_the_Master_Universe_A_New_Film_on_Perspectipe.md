@@ -64,9 +64,11 @@ For me, putting something like this together provided a number of insights:
 - 3,840,101 periods typed single-space on your word processor in a 12-point font will yield 592 pages of periods. One of those periods is Urantia.
 - This immense feeling of smallness makes my personal problems seem very, very insignificant. How liberating!
 
-Click here to see the movie: https://www.youtube.com/watch?v=loEnwEdRT_g
+Click here to see the movie: 
 
-<figure id="Figure_1" class="image urantiapedia">
+https://www.youtube.com/watch?v=loEnwEdRT_g
+
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2014_12/021.jpg">
 </figure>
 

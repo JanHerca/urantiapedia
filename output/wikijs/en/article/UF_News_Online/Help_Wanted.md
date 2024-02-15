@@ -64,8 +64,8 @@ tamara@urantia.org به آدرس زير تماس حاصل فرماييد:
 
 ## Be sure to check out the Foundation's Annual Report!
 
-http://www.urantia.org/sites/default/files/docs/annual report 2012.pdf
- 
+[http://www.urantia.org/sites/default/files/docs/annual report 2012.pdf](http://www.urantia.org/sites/default/files/docs/annual_report_2012.pdf)
+
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_09/065.jpg">
 </figure>
@@ -79,7 +79,7 @@ http://www.urantia.org/sites/default/files/docs/annual report 2012.pdf
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2013-09/help-wanted-hebrew-translation-project, https://www.urantia.org/news/2013-09/help-wanted-farsi-translation-project, https://www.urantia.org/news/2013-09/help-wanted-chinese-translation-project)
+- [This article](https://www.urantia.org/news/2013-09/help-wanted-hebrew-translation-project), [this article](https://www.urantia.org/news/2013-09/help-wanted-farsi-translation-project) and [this article](https://www.urantia.org/news/2013-09/help-wanted-chinese-translation-project)
 
 <figure class="table chapter-navigator">
   <table>

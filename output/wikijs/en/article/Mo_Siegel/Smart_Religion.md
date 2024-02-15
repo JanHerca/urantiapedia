@@ -62,7 +62,7 @@ I'm not sure if this new approach works, but it sounds probable; so l'll give it
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article]([https://www.urantia.org/news/2013-09/smart-religion](https://www.urantia.org/news/2013-09/smart-religion))
+- [This article](https://www.urantia.org/news/2013-09/smart-religion)
 
 <figure class="table chapter-navigator">
   <table>

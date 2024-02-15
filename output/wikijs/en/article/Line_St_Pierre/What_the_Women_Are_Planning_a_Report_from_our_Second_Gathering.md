@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Line St-Pierre, associate trustee, Urantia Foundation, Ste-Sophie, Québec, Canada_
 
-“The greatest strength of women lies in their innate motherhood, in their creative, life-giving power. And this power can help women to bring about a far more significant change in society than men could ever accomplish.” (Mata Amritanandamayi, aka Amma)
+> “The greatest strength of women lies in their innate motherhood, in their creative, life-giving power. And this power can help women to bring about a far more significant change in society than men could ever accomplish.” (Mata Amritanandamayi, aka Amma)
 
 Our heavenly Father sent the Life Carriers to implant life on Urantia. After the first humans, Andon and Fonta, were born, Fonta, of course, bore the children-as have all women since Fonta. Child bearing is just one of the many gifts that the Life Carriers have entrusted to women. These gifts have inspired a deep reflection upon what it means to be a woman, a daughter of God. To deepen this reflection and see how we can help one another grow, we have planned a retreat in October to be held at Urantia Foundation in Chicago.
 

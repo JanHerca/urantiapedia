@@ -47,6 +47,8 @@ Of course, we did talk about _The Urantia Book_ and about the Mother Spirit as w
 
 Please do not tell my husband this, but it turns out that all along he was right; it was a knitting circle. Through sharing themselves, the women at the retreat knit themselves together to form a stronger fabric in the community of Urantia Book readers.
 
+~ Alice Wood, Wisconsin, United States
+
 ---
 
 <br style="clear:both;"/>
@@ -64,6 +66,8 @@ I enjoy people and revel in the sharing of the heights and depths of doing God's
 
 It was truly an honor to be part of this weekend women's retreat. Everyone who attended left a fragrant part of themselves with each of us that will always be remembered.
 
+~ Doreen Heyne, Florida, United States
+
 ---
 
 <br style="clear:both;"/>
@@ -79,6 +83,8 @@ The group also reviewed Jesus' establishment of the women's corps who accompanie
 
 And finally the group considered how emotions, as discussed in _The Urantia Book_, are presented as desirable and useful, in that higher beings seem to experience more kinds of emotions, and celestial artisans design new emotions. The goal of this discussion was for the group to envision the unique perspective that 21^st^ century women can bring to uplift other women around the world to value themselves and claim their spirituality by balancing heart and mind. I suggested that we coin this technique of balance with a new term, heartellect.
 
+~ Carrie Prentice, South Dakota, United States
+
 ---
 
 <br style="clear:both;"/>
@@ -91,6 +97,10 @@ And finally the group considered how emotions, as discussed in _The Urantia Book
 As the flower is responsible for providing its pollen to the wind and not watering the ground where it falls, experiencing with women this spiritual journey with an opening of heart enabled for better understanding of the self and enjoying every element that God constituted us with; the body, the consciousness, our personality, and the divine Spirit living within us.
 
 Spiritual growth is a process of unlimited progress which takes time. We gave it a weekend to begin with.
+
+~ _Line St-Pierre, Quebec_
+
+_(Canada)_
 <br style="clear:both;"/>
 
 ## References

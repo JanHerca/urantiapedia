@@ -46,13 +46,13 @@ William S. Sadler, Jr., the first president of Urantia Brotherhood, spoke these 
 <br style="clear:both;"/>
 
 > “What is the Urantia Brotherhood—another sect? This question has been put to the writer of this report more than once. To this question, a negative answer has always been given, ‘No, the Urantia Brotherhood is neither a church nor a sect. It is simply a social group which has a religious objective.’”
-
-"[One reads on page 1487 of _The Urantia Book_] that ‘religious peace—brotherhood—can never exist unless all religions are willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. God alone is spirit sovereign.’ The modern world hardly needs another church, another sect. At the present time, we suffer from a plethora of churches and a multiplication of sects.
-
+> 
+> "[One reads on page 1487 of _The Urantia Book_] that ‘religious peace—brotherhood—can never exist unless all religions are willing to completely divest themselves of all ecclesiastical authority and fully surrender all concept of spiritual sovereignty. God alone is spirit sovereign.’ The modern world hardly needs another church, another sect. At the present time, we suffer from a plethora of churches and a multiplication of sects.
+> 
 > “But, if we are not a church, how then do we differ from a church? If we can clearly see how we differ, then perchance we can maintain such differences. And, if we can maintain these differences, then we may be able to preserve our organization as a distinctive Brotherhood; we may be able to avoid a possible evolution in the direction of a church.”
 > 
 > “There are three main differences between the Brotherhood and a typical church: We claim no spiritual sovereignty; we claim no exclusive path to salvation; we claim no ecclesiastical authority. So long as we do not claim these things we can hardly become a church.”
-
+> 
 > “But even if we are not a church, even if we never become a church, is it also true that we are not a sect? A reader of _The Urantia Book_ could be a sectarian religionist; he or she could be a religionist who is primarily dedicated to the propagation of _The Urantia Book_. Would such a dedication, however be a valid dedication? The writer submits that such a dedication is not valid as a primary dedication. Such an exaltation of a most worthy secondary dedication to primary status could well transform a religious reader of the book into a sectarian reader-a reader who has allowed the importance of _The Urantia Book_ to take precedence over the importance of God.”
 > 
 > “How then can we, as readers of _The Urantia Book_, avoid not only churchification but also sectarianization? The writer believes that both of these unfortunate developments can be avoided if we are careful in distinguishing between Means and Ends. This is another way of saying that we should be careful not to confuse our secondary loyalties and our primary loyalties. The writer would accordingly submit for the careful consideration of the Brotherhood the following philosophy of action:”

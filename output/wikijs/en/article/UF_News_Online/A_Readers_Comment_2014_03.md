@@ -49,7 +49,7 @@ _The Urantia Book_ allows me to live on this strife-torn planet with the larger 
 
 I feel blessed that I found _The Urantia Book_ at a young age. keys to connecting with God. I always knew that God was inside, and _The Urantia Book_ tells me that we are indwelled by our beloved Thought Adjusters. _The Urantia Book_ tells me that I need to “take my heading” in accordance with moral compass of God that is guiding me on the eternal ride of my life. It means everything to me.
 
-I did give my father a book, and no, he did not read it. That's okay; I know he will be just fine. Jean was my only study partner for decades, although we always did our best to be faithful disseminators. In 2004 I went to my first conference and was blessed to meet many beautiful people whom I cherish deeply. Now that my kids are grown, I even have time for service work, which brings me joy. I am “living the dream.” Thank you, Father. suffering will survive, and that Through it, I have found the
+I did give my father a book, and no, he did not read it. That's okay; I know he will be just fine. Jean was my only study partner for decades, although we always did our best to be faithful disseminators. In 2004 I went to my first conference and was blessed to meet many beautiful people whom I cherish deeply. Now that my kids are grown, I even have time for service work, which brings me joy. I am “living the dream.” Thank you, Father.
 
 
 

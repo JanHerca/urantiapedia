@@ -100,7 +100,7 @@ To learn more please visit: http://www.urantiabookschool.org/
 
 ## Seminar on Identifying Scientific Facts and Concepts that Indicate Intelligent Planning of the Universe
 
-In the continuing educational seminars series hosted at 533 W. Diversey Parkway in Chicago, Ralph Zehr will be facilitating a symposium to identify scientific facts that show the universe is a planned, not accidental, creation. The symposium is based on the statement, “The Urantia midwayers have assembled over fifty thousand facts of physics and chemistry which they deem to be incompatible with the laws of accidental chance, and which they contend unmistakably demonstrate the presence of intelligent purpose in the material creation.” (665: 6) 58: 2.3
+In the continuing educational seminars series hosted at 533 W. Diversey Parkway in Chicago, Ralph Zehr will be facilitating a symposium to identify scientific facts that show the universe is a planned, not accidental, creation. The symposium is based on the statement, “The Urantia midwayers have assembled over fifty thousand facts of physics and chemistry which they deem to be incompatible with the laws of accidental chance, and which they contend unmistakably demonstrate the presence of intelligent purpose in the material creation.” [UB 58:2.3](/en/The_Urantia_Book/58#p2_3)
 
 Attending this symposium is by invitation only; so if you would like to be part of the symposium, please contact Joanne Strobel at joanne@urantia.org.
 

@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Share Beasley, associate trustee, Brandon, Florida, United States_
 
-Like Urantia Book readers, Jesus, at fourteen years of age, found a certain book of interest: The Book of Enoch. _The Urantia Book_ states that Jesus, "while turning all these problems over in his mind, found in the synagogue library at Nazareth, among the apocalyptic books which he had been studying, this manuscript called ‘The Book of Enoch.’” <a id="a42_348"></a>[UB 126:3.8](/en/The_Urantia_Book/126#p3_8)
+Like Urantia Book readers, Jesus, at fourteen years of age, found a certain book of interest: The Book of Enoch. _The Urantia Book_ states that Jesus, “while turning all these problems over in his mind, found in the synagogue library at Nazareth, among the apocalyptic books which he had been studying, this manuscript called ‘The Book of Enoch.’” <a id="a42_348"></a>[UB 126:3.8](/en/The_Urantia_Book/126#p3_8)
 
 Now begins another adventure in placing Urantia Books. Our library-placement team, consisting of four members, put a copy of the English book on a shelf in a ship's library. The next day we saw a gentleman looking at it. Hooray!
 

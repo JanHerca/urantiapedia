@@ -80,8 +80,9 @@ All of T-Rs speak the target language of their translation as their mother tongu
 
 For this survey, a professional translator is defined as an individual who makes his or her living as a translator. An occasional translator is defined as an individual who, in their profession, writes, reads, or speaks English extensively. No experience is defined as an individual who knows English but has no experience in translating from English into another language or vice versa. The following are the numbers and percentages of translators who have a certain type of translation experience.
 
-| Professional translators or English teachers | 10 | 36\% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| Professional translators or English teachers | 10 | 36\% |
 | Occasional translators | 13 | 46\% |
 | No experience prior to translating <br> _The Urantia Book_ | 5 | 18\% |
 
@@ -91,19 +92,18 @@ For this survey, a professional translator is defined as an individual who makes
 
 Ninety-seven percent of the T-Rs have a higher education or university degree and are trained in intellectual and cognitive activities. The following is the number and percentages of T-Rs who have each level of education.
 
-| Advanced university degree (Masters or Ph.D.) | 23 | 82% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| Advanced university degree (Masters or Ph.D.) | 23 | 82% |
 | University degree | 4 | 15% |
 | Some university education | 1 | 3% |
 | None | 0 | 0% |
 
 ## E. TOEFEL or Ph.D. in English
 
-TOEFL stands for Test of English as a Foreign Language. TOEFL is a standardized test of English language proficiency for non-native
+TOEFL stands for Test of English as a Foreign Language. TOEFL is a standardized test of English language proficiency for non-native English language speakers wishing to enroll in U.S. universities. A Ph.D. in English also suggests a high level of English proficiency. The number and percentage of T-Rs with each credential is as follows:
 
 > Nearly 80\% of the Translators-Revisers were truth seekers interested in spirituality prior to being exposed to _The Urantia Book_.
-
-English language speakers wishing to enroll in U.S. universities. A Ph.D. in English also suggests a high level of English proficiency. The number and percentage of T-Rs with each credential is as follows:
 
 | TOEFEL | 4 | 14\% |
 | :--- | :--- | :--- |
@@ -126,8 +126,9 @@ Mastery of one's own tongue increases the quality, fluency, readiness, and beaut
 
 A question was asked about whether the T-Rs read other spiritual books prior to translating _The Urantia Book_. This question provided a perspective on the T-R's interest in spirituality.
 
-| Yes | 23 | 82\% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| Yes | 23 | 82\% |
 | No | 3 | 10\% |
 | No answer | 2 | 8\% |
 
@@ -137,8 +138,9 @@ Most of the T-Rs (nearly 82\%) were truth seekers interested in spirituality pri
 
 Where the T-R first came into contact with the book is shown below. The categories were predetermined.
 
-| From a family member/friend | 15 | 54\% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| From a family member/friend | 15 | 54\% |
 | In a library | 2 | 7\% |
 | In a bookstore | 0 | 0\% |
 | Browsing the internet | 3 | 11\% |
@@ -151,8 +153,9 @@ It is not surprising that 54\% were introduced to _The Urantia Book_ by a family
 
 In this question the T-Rs were asked to list the personal qualities that they believe were required in translating _The Urantia Book_. Each individual may have given multiple responses.
 
-| Love for the book and its teachings | 16 |
+| &nbsp; | &nbsp; |
 | :--- | :--- |
+| Love for the book and its teachings | 16 |
 | Determination and commitment | 16 |
 | Understanding of _The Urantia Book_ | 12 |
 | Command of target language | 11 |

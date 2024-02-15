@@ -45,7 +45,7 @@ In June I traveled to Seoul, South Korea to attend the 2013 Seoul International 
 Arrangements for the booth were made by Sy Chang, who has manned a booth at the fair for 13 years. The beautiful posters and handouts were designed by Jisoo Han. Buck Weimer and Barry Clark were the Urantia Book Fellowship's representatives at the fair, and they spent their days talking to passers-by about _The Urantia Book_.
 
 Attendance at the fair was reported to be about 110,000 , down 10\% from last year. The fair was crowded in the evenings and on the weekend. A lot of young people attended the fair because they could buy books at a discount.
-clr
+<br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_09/059.jpg">
