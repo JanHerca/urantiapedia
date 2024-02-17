@@ -40,8 +40,11 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Philip Calabrese, California, United States_
 
-_Editor's Note: To read the papers presented at the Science Symposium, click here._
+_De Philip Calabrese, California (Estados Unidos)_
+
+_Nota de la redacción:_ [_Para leer los documentos presentados en el Simposio de Ciencia, hagan clic aquí._](https://www.urantia.org/urantia-book/study#2016-science-symposium)
 <br style="clear:both;"/>
+
 ## Why a Science Symposium?
 
 I am a scientist—a mathematician—who takes _The Urantia Book_ literally when it says:

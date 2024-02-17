@@ -47,21 +47,14 @@ During the past year, a new high-water mark of cooperation and understanding bet
 
 ## 2016 Book Sales and Distribution Highlights
 
-Over twenty thousand books were sold in 2016, about 10 percent more than 2015.
-
-Over one hundred thousand free Urantia Books and apps were downloaded from www.urantia.org and iTunes.
-
-Combined, Spanish and Portuguese books outsold English books.
-
-The index is nearing completion and is undergoing a final review before being published as an e-book in 2017.
-
-Urantia Press published its first book, The Parables of Jesus—Complete Teachings from _The Urantia Book_. The book was well received in the trade and with readers. The Parables book has provided us with the opportunity to share _The Urantia Book_ with bookstores.
-
-The Foundation displayed _The Urantia Book_ at BookExpo America.
-
-Ads were placed in a few distributor catalogs to keep bookstores familiar with _The Urantia Book_.
-
-About ten thousand books were printed in Portuguese, French, and Polish.
+- Over twenty thousand books were sold in 2016, about 10 percent more than 2015.
+- Over one hundred thousand free Urantia Books and apps were downloaded from www.urantia.org and iTunes.
+- Combined, Spanish and Portuguese books outsold English books.
+- The index is nearing completion and is undergoing a final review before being published as an e-book in 2017.
+- Urantia Press published its first book, The Parables of Jesus—Complete Teachings from _The Urantia Book_. The book was well received in the trade and with readers. The Parables book has provided us with the opportunity to share _The Urantia Book_ with bookstores.
+- The Foundation displayed _The Urantia Book_ at BookExpo America.
+- Ads were placed in a few distributor catalogs to keep bookstores familiar with _The Urantia Book_.
+- About ten thousand books were printed in Portuguese, French, and Polish.
 
 ## 2016 Financial Highlights
 

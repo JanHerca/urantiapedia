@@ -60,7 +60,11 @@ When somebody asks me which part of _The Urantia Book_ I like the most, I always
 
 > “Social architects do everything within their province and power to bring together suitable individuals that they may constitute efficient and agreeable working groups on earth; and sometimes such groups have found themselves reassociated on the mansion worlds for continued fruitful service. But not always do these seraphim attain their ends; not always are they able to bring together those who would form the most ideal group to achieve a given purpose or to accomplish a certain task; under these conditions they must utilize the best of the material available.” <a id="a60_570"></a>[UB 39:3.5](/en/The_Urantia_Book/39#p3_5)
 
-In closing, let me emphasize that it is not enough to know _The Urantia Book_ intellectually. The great value of its teachings is to put them into practice in our everyday lives. The strength of our pursuit is exhibited by the quality of our relations with other readers and with
+In closing, let me emphasize that it is not enough to know _The Urantia Book_ intellectually. The great value of its teachings is to put them into practice in our everyday lives. The strength of our pursuit is exhibited by the quality of our relations with other readers and with all our brothers and sisters.
+
+I encourage all readers to participate in study groups. I know whereof I speak. I participate in online study groups every Monday, Tuesday, Saturday, and Sunday through UAB’s internet conference room, and every Thursday at a study group at our home. And for three years, we have had a monthly regional meeting in the south of Brazil. Since I found _The Urantia Book_, I have also actively helped to organize national meetings.
+
+I feel honored to share my “what _The Urantia Book_ means to me” story with other readers.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_06/040.jpg">

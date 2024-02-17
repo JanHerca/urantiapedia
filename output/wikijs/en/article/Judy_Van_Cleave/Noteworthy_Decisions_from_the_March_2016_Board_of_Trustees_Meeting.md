@@ -76,7 +76,8 @@ The board accepted a restricted gift of $20,000 to create a space in the basemen
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/005.jpg">
-Claire Mylanus</figure>
+<figcaption><em>Claire Mylanus</em></figcaption>
+</figure>
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/006.jpg">

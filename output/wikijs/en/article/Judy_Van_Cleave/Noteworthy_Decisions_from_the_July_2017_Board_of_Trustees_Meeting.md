@@ -40,6 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Judy Van Cleave, Trustee, Secretary, Urantia Foundation, Idaho, United States_
 <br style="clear:both;"/>
+
 ## New Executive Director
 
 Starting on September 1, 2017, Tamara Strumfeld became the new executive director of Urantia Foundation. This welldeserved promotion comes following her nearly 14 years of service at Urantia Foundation. During Tamara's tenure she has done almost every job imaginable, including the implementation of numerous committee initiatives and the management of a wide array of translations, book distribution, and outreach projects. Tamara has been a diligent server of the circles because of her dedication to getting _The Urantia Book_ and its teachings into the world.
@@ -98,7 +99,7 @@ This policy is based on the following guiding principles that protect Urantia Fo
 
 1. Preserve the text of _The Urantia Book_ inviolate by using the circles and the name Urantia Foundation to identify _The Urantia Book_ and translations published by Urantia Foundation.2. Empower others to expand the awareness, education, dissemination, and socialization of the good news of _The Urantia Book_.
 
-2. Safeguard the name Urantia to protect it from being preempted. The name Urantia should lead people to _The Urantia Book_.If you have any questions about this policy or other uses of the registered trademarks, please contact Urantia Foundation by telephone at +1 (773) 525-3319, by email at urantia@urantia.org, or by letter addressed to Urantia Foundation, 533 W. Diversey Parkway, Chicago, Illinois 60614, USA.
+2. Safeguard the name Urantia to protect it from being preempted. The name Urantia should lead people to _The Urantia Book_. If you have any questions about this policy or other uses of the registered trademarks, please contact Urantia Foundation by telephone at +1 (773) 525-3319, by email at urantia@urantia.org, or by letter addressed to Urantia Foundation, 533 W. Diversey Parkway, Chicago, Illinois 60614, USA.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_10/014.jpg">
@@ -117,7 +118,7 @@ This policy is based on the following guiding principles that protect Urantia Fo
 4. An individual person may use the Concentric Circles Symbol and the words “Urantia” and “Urantian” as an indication of his or her personal faith in God and his or her respect for the teachings set forth in _The Urantia Book_. This includes using the circles and/or the word “Urantia” on personal social media pages, such as Facebook. The trademark symbols “&trade;” and “&reg;” should not appear with the Concentric Circles Symbol or the term “Urantia” on a social media page.
 5. Jewelry, drinking utensils, shirts, headgear, key chains, ID tags, tote bags, banners and flags, license plates, writing implements and other collectibles displaying the Concentric Circles Symbol and/or the term “Urantia” may be made and sold provided no more than 5000 of each such item are sold in any calendar year. There should be no suggestion that Urantia Foundation approves, sponsors, or endorses the item or the sale or is affiliated with the manufacturer or the seller unless Urantia Foundation agrees in writing to such participation.
 
-	The trademark symbols “TM” and “ $($ ” should not appear with the Concentric Circles Symbol or the term “Urantia” on any collectibles or in any associated advertisements or sales materials. The manufacturer and seller cannot make any claim for trademark rights in the Concentric Circles Symbol or the term “Urantia” by such use.
+	The trademark symbols “&trade;” and “&reg;” should not appear with the Concentric Circles Symbol or the term “Urantia” on any collectibles or in any associated advertisements or sales materials. The manufacturer and seller cannot make any claim for trademark rights in the Concentric Circles Symbol or the term “Urantia” by such use.
 
 6. The Concentric Circles Symbol and the term “Urantia” may be used in purely aesthetic artwork such as posters, videos, paintings, pennants, flags, or other visual representations of its meaning as expressed in _The Urantia Book_. Such use should not suggest that Urantia Foundation approves, sponsors, or endorses either the artist or the artwork or any associated activity in which the artwork is used or displayed or that the artwork or any associated activity is affiliated with Urantia Foundation unless Urantia Foundation agrees in writing to such participation. The trademark symbols “TM” and “ &reg; ” should not appear with the Concentric Circles Symbol or the term ”Urantia" on your artwork.
 

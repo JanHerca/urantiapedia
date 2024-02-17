@@ -86,7 +86,7 @@ The new LeatherSoft &trade; Cambridge edition of _The Urantia Book_ is now avail
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_12/031.jpg">
-<figcaption><em>The New LeatherSoft &trade; Cambridge Edition of _The Urantia Book_</em></figcaption>
+<figcaption><em>The New LeatherSoft &trade; Cambridge Edition of The Urantia Book</em></figcaption>
 </figure>
 
 ## Translations and Revisions

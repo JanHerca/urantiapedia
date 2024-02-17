@@ -40,6 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Judy Van Cleave, trustee, secretary, Urantia Foundation, Idaho, United States_
 <br style="clear:both;"/>
+
 ## 1. Work at 533
 
 Work at Urantia Foundation went along smoothly in Q1 2017. Lots of normal and needed day-to-day work was accomplished. In cooperation with volunteers, a part-time contract work team, the board, board committees, translators, revisers, teachers, and the book dissemination team, our lean and caring staff moved a number of important projects forward. To mention a few: Urantia Foundation's new index is nearly finished; the annual report was published; seminars were hosted at the building; extensive background and trademark research was compiled for the board; 2000 Portuguese books were printed; the Russian revision was evaluated, and so much more. Special thanks go to Tamara and Joanne for all of their hard work.
