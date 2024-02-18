@@ -58,7 +58,7 @@ And
 
 > Each race must become familiar with the thought of all races; each nation must know the feelings of all nations. <a id="a58_115"></a>[UB 52:6.4](/en/The_Urantia_Book/52#p6_4)
 
-More about the Symposium program can be found in the Foundation's April Newsletter.
+More about the Symposium program can be found in the [Foundation’s April Newsletter](https://www.urantia.org/news/2019-04/global-cultural-symposium-urantia-foundation).
 
 It started with a Jeffersonian dinner, led by Marta Elders, seated around a beautiful table decorated by Joanne Strobel. The meal was an array of foods from the 12 different countries, lovingly researched, prepared, and served by Chef Jennifer Siegel. This dinner was the perfect opportunity to get to know one another—and our special foods!
 

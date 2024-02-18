@@ -47,6 +47,14 @@ Tamara Strumfeld and Henk Mylanus, our European sales manager, reported on year-
 
 One thing is for certain—selling books in 2018 is difficult! Barnes & Noble is in serious financial trouble, and most other major brickand-mortar bookstore chains are already out of business in the United States.
 
+> **Relevant Book Industry Information to Our Mission**
+> 
+> How many new books are published in the United States every year?
+> 
+> There are somewhere between **600,000** and **1,000,000** books published every year in the United States alone. Many of those — perhaps as many as half or even more — are self-published. The relevancy of these statistics is the sheer number of new books each year competing for the shrinking brick-andmortar shelf space. With Amazon and other online booksellers increasing their dominance in the world book market, we are learning how to help spiritual book shoppers find _The Urantia Book_ in the vast and growing sea of published books.
+> 
+> The average book sells **3,000** copies in its lifetime. What a remarkable testament to the strength of the Urantia Revelation that a book published in 1955, which begins with a difficult-to-read Foreword, continues to sell so well. There are over 800,000 physical Urantia Books in circulation, and hundreds of thousands more have been downloaded. _The Urantia Book_ is spreading and the text inviolate is protected. developing a fundraising campaign this past fall that provided the funds necessary to enable the Foundation to send 600 Spanish books to many areas in Latin America where there is no established book distribution.
+
 The board reviewed the pricing of the Foundation's e-books. The current price of the English e-book is $4.99, but all other translations were priced at $8.99. Amazon indicates that the best price range for an ebook is between $2.00 and $4.99, therefore, the Trustees approved setting the price of all e-books at $4.99. This decision means a major price reduction in the price of e-books for each translation.
 
 ## 2018 Budget
@@ -57,15 +65,7 @@ We expect to be at or below the 2018 operating expense budget of $750,000 except
 
 The great unknown for 2018 was an unexpected property tax increase from the city of Chicago for Urantia Foundation Headquarters at 533 W. Diversey Parkway. The increase they levied this past year was abnormally high. We are currently in the process of appealing it and have reason to believe that there will be a successful outcome, bringing the taxes back in line with past years.
 
-A special thanks go to Sherry Cathcart Chavis, Guy Perron, and Minoo for their outstanding work in
-
-> **Relevant Book Industry Information to Our Mission**
-> 
-> How many new books are published in the United States every year?
-> 
-> There are somewhere between **600,000** and **1,000,000** books published every year in the United States alone. Many of those — perhaps as many as half or even more — are self-published. The relevancy of these statistics is the sheer number of new books each year competing for the shrinking brick-andmortar shelf space. With Amazon and other online booksellers increasing their dominance in the world book market, we are learning how to help spiritual book shoppers find _The Urantia Book_ in the vast and growing sea of published books.
-> 
-> The average book sells **3,000** copies in its lifetime. What a remarkable testament to the strength of the Urantia Revelation that a book published in 1955, which begins with a difficult-to-read Foreword, continues to sell so well. There are over 800,000 physical Urantia Books in circulation, and hundreds of thousands more have been downloaded. _The Urantia Book_ is spreading and the text inviolate is protected. developing a fundraising campaign this past fall that provided the funds necessary to enable the Foundation to send 600 Spanish books to many areas in Latin America where there is no established book distribution.
+A special thanks go to Sherry Cathcart Chavis, Guy Perron, and Minoo Claire for their outstanding work in developing a fundraising campaign this past fall that provided the funds necessary to enable the Foundation to send 600 Spanish books to many areas in Latin America where there is no established book distribution.
 
 ## 2019 Budget
 

@@ -53,9 +53,9 @@ It has been the policy of Urantia Foundation to only publish completed translati
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2018_07/017.jpg">
-
 <figcaption><em>Gaétan Charland</em></figcaption>
 </figure>
+
 Per this policy, each time an incomplete translation is approved to appear on our website or others, it will be accompanied by:
 
 - A branded identifier that shows that the files are a Urantia Foundation publication
@@ -97,7 +97,7 @@ After reviewing internal roles and responsibilities, we hired Lainey Doremus to 
 
 In 2007, the board of Urantia Foundation approved a book trademark policy to use the Concentric Circles Symbol only as a means of identifying _The Urantia Book_ and its translations. As _The Urantia Book_ finds its way throughout the world, this is one of the tools that Urantia Foundation uses to protect the integrity of the original English text and its translations. The board reaffirmed this policy during its April meeting. Urantia Foundation will no longer use the trademarked Concentric Circles Symbol on any secondary books it publishes. The policy also applies to any books published by groups who are licensed to use the symbol.
 
-This policy does not pertain to the personal use of the three concentric circles. It pertains only to the use of the Concentric Circles trademark on books. This will help us safeguard the original text and translations being created through our quality processes. For more information on personal usage of the three concentric circles, click here.
+This policy does not pertain to the personal use of the three concentric circles. It pertains only to the use of the Concentric Circles trademark on books. This will help us safeguard the original text and translations being created through our quality processes. For more information on personal usage of the three concentric circles, [click here](https://www.urantia.org/urantia-foundation-copyright-trademark-policies/urantia-foundations-registered-marks).
 
 ## Outreach
 

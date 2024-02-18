@@ -101,7 +101,7 @@ For more information, please contact Nestor Seda, nestorseda2@gmail.com; Calvin 
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2019-09/japanese-translation-now-available-online, https://www.urantia.org/news/2019-09/new-online-search-engines-urantia-book, https://www.urantia.org/news/2019-09/polish-translation-update, https://www.urantia.org/news/2019-09/first-urantia-book-conference-in-philippines-0)
+- [This article](https://www.urantia.org/news/2019-09/science-symposium-2019-responding-biggest-questions-in-science), [this article](https://www.urantia.org/news/2019-09/japanese-translation-now-available-online), [this article](https://www.urantia.org/news/2019-09/new-online-search-engines-urantia-book), [this article](https://www.urantia.org/news/2019-09/polish-translation-update) and [this article](https://www.urantia.org/news/2019-09/first-urantia-book-conference-in-philippines-0)
 
 <figure class="table chapter-navigator">
   <table>

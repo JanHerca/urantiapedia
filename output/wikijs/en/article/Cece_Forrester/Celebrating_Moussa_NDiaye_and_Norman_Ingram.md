@@ -44,7 +44,7 @@ _Editor's Note: Two longtime readers whose lives were dedicated to spreading _Th
 
 Moussa N'Diaye, of Senegal, passed away on March 29. A former professor of Social Psychology at Dakar University, Moussa found the first French translation, Le Livre d'Urantia, in 1973. Having grown up Muslim and living in a Muslim country, he determined to introduce the teachings by a careful and patient approach. He first gathered a group of students to study new truths and concepts he found in the book, eventually introducing some of them to the book itself when he felt they were ready. When Norman Ingram visited Senegal in 1998, he was amazed to find a study group of 100 using just one book. Moussa traveled to Europe, Canada, and the United States, was a Representative of Urantia Foundation, and was the first president of the national Urantia Association of Senegal. Commented Guy Perron, “Moussa was a true spiritual instructor, teacher, mentor, and so much more.” Line St-Pierre observed, “He was such a humble and kind soul, interested in everyone, helping everyone.”
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2019_07/049.jpg">
 </figure>
 

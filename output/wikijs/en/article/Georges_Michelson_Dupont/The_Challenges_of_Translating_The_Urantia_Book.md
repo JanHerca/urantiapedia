@@ -95,18 +95,18 @@ I used the term “phase” in discussing the French translation because there a
 1. **Preparation ( 1 to 10 years):** As the English text of _The Urantia Book_ finds its way around the world, its teachings will inspire a reader to translate it into their own mother tongue. An extraordinary process of selfdiscovery takes place in the mind of a truth seeker, and the desire to share this “pearl of great price” motivates him or her to translate, at first for themselves, then for their fellow countrymen. When this occurs, it signals the potential for a new translation to emerge.
 
 2. **Appraisal (6 months to 1 year):** Most of the time (but not always) a potential translator contacts Urantia Foundation. Conversations begin and both assess the possibility of creating a translation together. The conditions needed to move forward are:,
-   - A chief translator/team that is qualified to translate the book (the translator must satisfy Urantia Foundation's criteria) and who is committed to this lengthy process.
-   - The need for resources to support the translation (e.g., a secure translator website that provides specific tools, financial support if needed, support from a project manager, and access to a translator discussion list).
-   - A signed contract or agreement between a translator and Urantia Foundation that provides the rights and responsibilities of each in publishing a quality translation.
+  - A chief translator/team that is qualified to translate the book (the translator must satisfy Urantia Foundation's criteria) and who is committed to this lengthy process.
+  - The need for resources to support the translation (e.g., a secure translator website that provides specific tools, financial support if needed, support from a project manager, and access to a translator discussion list).
+  - A signed contract or agreement between a translator and Urantia Foundation that provides the rights and responsibilities of each in publishing a quality translation.
 
-4. **Translating ( 9 to 10 years):** The translator partners with Urantia Foundation to create a high-quality translation and prepare it to be published. This phase includes:
+3. **Translating ( 9 to 10 years):** The translator partners with Urantia Foundation to create a high-quality translation and prepare it to be published. This phase includes:
    - The translation of term lists and specific names included in _The Urantia Book_ for consistency. Since 2016, Urantia Foundation has supported the translators (or revisers) with computerassisted translation (CAT) software, which includes memory tools.
    - The preparation of monthly reports by the translator for the translation manager.
    - A process for correcting and polishing a translation or revision to make sure that its content and container are of a high quality. A third-party professional evaluation, from time to time, to ensure faithfulness and quality of language.
 
-5. **Maturing (5 to 15 years):** The translation is distributed to solicit feedback from different sources with the future goal of improving the translation. In the case of the French translation, it took eighteen years before this phase was complete.
+4. **Maturing (5 to 15 years):** The translation is distributed to solicit feedback from different sources with the future goal of improving the translation. In the case of the French translation, it took eighteen years before this phase was complete.
 
-6. **Revising (5 to 6 years):** The translation is revised. Feedback has been received, and a team of dedicated readers has emerged. Terms are clarified, quality is improved, and the text is forensically scrutinized and polished.
+5. **Revising (5 to 6 years):** The translation is revised. Feedback has been received, and a team of dedicated readers has emerged. Terms are clarified, quality is improved, and the text is forensically scrutinized and polished.
 
 This phase includes:
 

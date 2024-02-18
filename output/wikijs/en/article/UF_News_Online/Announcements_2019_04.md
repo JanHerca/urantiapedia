@@ -39,13 +39,11 @@ We are excited to announce that the Greek and Hebrew translations are now availa
 
 _The Urantia Book_ Fellowship's Summer Study Session 2019 will be held from June 27 to 30 , at Techny Towers in Northbrook, Illinois. This year's theme is “Experiencing God's Presence.”
 
-It will be preceded by a two-day spiritual retreat, "Getting to
+It will be preceded by a two-day spiritual retreat, “Getting to Know Our Spiritual Parents,” which begins on Tuesday evening, June 25, and a Society Conclave during the day on June 27.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2019_04/039.jpg">
 </figure>
-
-Know Our Spiritual Parents, which begins on Tuesday evening, June 25, and a Society Conclave during the day on June 27.
 
 Registration for the main session as well as pre- and postevents is open online at www.regonline.com/urantia fellowship_SSS19.
 
@@ -58,7 +56,7 @@ Registration for the main session as well as pre- and postevents is open online 
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2019-04/greek-and-hebrew-now-available-online, https://www.urantia.org/news/2019-04/urantia-book-fellowships-summer-study-session-2019)
+- [This article](https://www.urantia.org/news/2019-04/greek-and-hebrew-now-available-online) and [this article](https://www.urantia.org/news/2019-04/urantia-book-fellowships-summer-study-session-2019)
 
 <figure class="table chapter-navigator">
   <table>

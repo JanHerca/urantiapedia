@@ -50,7 +50,7 @@ Please contact Line St-Pierre for more information at line.stpierre@gmail.com.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_12/030.jpg">
-<figcaption><em>Back: Mary Fedus, Teresa Mathias, Jane Ploetz, Carrie Prentice, Melinda Watson<br>Middle: Sue Frogg, Peggy Brown, Katharina Becker, Geri Posner Front: Angela Lippi, Doreen Heyne, Jennifer Martin, Line St-Pierre</em></figcaption>
+<figcaption><em>Back: Mary Fedus, Teresa Mathias, Jane Ploetz, Carrie Prentice, Melinda Watson<br>Middle: Sue Frogg, Peggy Brown, Katharina Becker, Geri Posner<br>Front: Angela Lippi, Doreen Heyne, Jennifer Martin, Line St-Pierre</em></figcaption>
 </figure>
 
 

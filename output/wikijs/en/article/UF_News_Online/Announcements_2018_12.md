@@ -62,7 +62,7 @@ We are excited to announce that the Farsi translation is now available online at
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2018-12/urantia-foundations-new-instagram-account, https://www.urantia.org/news/2018-12/farsi-now-available-online)
+- [This article](https://www.urantia.org/news/2018-12/urantia-foundations-new-instagram-account) and [this article](https://www.urantia.org/news/2018-12/farsi-now-available-online)
 
 <figure class="table chapter-navigator">
   <table>

@@ -61,7 +61,7 @@ There will be another Science Symposium and hopefully we won't have to wait thre
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_12/016.jpg">
-<figcaption><em>Back: Neal Kendall, Gard Jameson, David Neufer, Tom Allen, Joshua Wilson, George Park, Nigel Nunn Front: Bruce Johnson, Ralph Zehr, Marjorie Ray, Phil Calabrese</em></figcaption>
+<figcaption><em>Back: Neal Kendall, Gard Jameson, David Neufer, Tom Allen, Joshua Wilson, George Park, Nigel Nunn. Front: Bruce Johnson, Ralph Zehr, Marjorie Ray, Phil Calabrese</em></figcaption>
 </figure>
 
 

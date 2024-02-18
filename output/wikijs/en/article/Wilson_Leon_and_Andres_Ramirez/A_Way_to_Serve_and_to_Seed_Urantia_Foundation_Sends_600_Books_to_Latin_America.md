@@ -34,11 +34,10 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-
-
 <figure id="Figure_1" class="image urantiapedia image-style-align-9left">
 <img src="/image/article/UF_News_Online/2018_10/002.jpg">
 </figure>
+
 _By Wilson León and Andrés Ramírez, Bogotá, Colombia_
 
 _Editor's Note: Members of Urantia Association Colombia approached the board of trustees in April with a request to send Spanish Urantia Books to various groups throughout Latin America. The Foundation is constantly working on building reliable distribution networks, and in some countries it works very well. But in others there is either no distribution or the books are too expensive. Our average selling price to distributors in Latin America is about nine dollars per book. But after distributors pay shipping and customs fees, many times that same book retails in shops for $50 to $70 dollars._

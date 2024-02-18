@@ -89,9 +89,7 @@ Last quarter individuals donated enough grant money to sponsor members of Latin 
 
 ## 4. Executive Director's Report
 
-Tamara Strumfeld's office highlights for the third quarter included: 1) completing the staffing transition with Joanne Strobel working from Georgia and the hiring of Ashley Parratore, 2) reducing the property tax increase on 533 Diversey toward a favorable and fair assessment, 3) drafting the 2020 budget, 4) publishing the Japanese translation and launching the Japanese website, 5)
-
-publishing the new Russian revision online, 6) publishing the updated Polish translation online, 7) releasing the new search engine in the top four languages at urantia.org, 8) taking steps on building a new Urantia Book Android app, and 9) making progress creating the enhanced e-book that contains _The Urantia Book_, a comprehensive index, a term list, a pronunciation guide, and a list of all adopted corrections approved by the trustees. The enhanced ebook will be available on Amazon sometime in the next few months.
+Tamara Strumfeld's office highlights for the third quarter included: 1) completing the staffing transition with Joanne Strobel working from Georgia and the hiring of Ashley Parratore, 2) reducing the property tax increase on 533 Diversey toward a favorable and fair assessment, 3) drafting the 2020 budget, 4) publishing the Japanese translation and launching the Japanese website, 5) publishing the new Russian revision online, 6) publishing the updated Polish translation online, 7) releasing the new search engine in the top four languages at urantia.org, 8) taking steps on building a new Urantia Book Android app, and 9) making progress creating the enhanced e-book that contains _The Urantia Book_, a comprehensive index, a term list, a pronunciation guide, and a list of all adopted corrections approved by the trustees. The enhanced ebook will be available on Amazon sometime in the next few months.
 
 ## 5. Books
 

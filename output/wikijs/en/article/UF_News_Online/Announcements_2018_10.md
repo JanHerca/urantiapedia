@@ -60,7 +60,7 @@ Thank you!
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2018-10/danish-translation-now-available-online, https://www.urantia.org/news/2018-10/new-facebook-pages-in-spanish-and-portuguese)
+- [This article](https://www.urantia.org/news/2018-10/danish-translation-now-available-online), and [this article](https://www.urantia.org/news/2018-10/new-facebook-pages-in-spanish-and-portuguese)
 
 <figure class="table chapter-navigator">
   <table>

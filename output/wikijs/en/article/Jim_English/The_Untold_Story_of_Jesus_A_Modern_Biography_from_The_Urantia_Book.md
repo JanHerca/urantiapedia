@@ -56,7 +56,7 @@ Perhaps in the end John saw that his writings were doomed to be a mere shadow of
 </figure>
 
 
-In that spirit we felt it fitting that John's last words should be the first words of this new secondary work from the Jesus papers: The Untold Story of Jesus: A Modern Biography from _The Urantia Book_.
+In that spirit we felt it fitting that John’s last words should be the first words of this new secondary work from the Jesus papers: _["The Untold Story of Jesus: A Modern Biography from The Urantia Book"](https://www.amazon.com/Untold-Story-Jesus-Biography-Urantia/dp/0997404914/ref=sr_1_fkmrnull_3)_.
 
 ## Growth and Development
 
@@ -95,6 +95,7 @@ We have received advance copies and heard positive reviews from spiritually seek
 
 The pages in this book are rife with passages declaring the world ripe for a revival of the true religion of Jesus. Though the dissemination of the revelation itself has been staid and measured, we can shout Jesus from the rooftops.
 
+https://youtu.be/PeOLg8YSdC4
 
 ## References
 

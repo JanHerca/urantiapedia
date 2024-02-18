@@ -78,7 +78,7 @@ Please spend time using the search engines and tell us what you think. If you fi
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2020-04/multi-language-urantia-book, https://www.urantia.org/news/2020-04/french-facebook-page, https://www.urantia.org/news/2020-04/new-online-search-engines-urantia-book)
+- [This article](https://www.urantia.org/news/2020-04/multi-language-urantia-book), [this article](https://www.urantia.org/news/2020-04/french-facebook-page) and [this article](https://www.urantia.org/news/2020-04/new-online-search-engines-urantia-book)
 
 <figure class="table chapter-navigator">
   <table>

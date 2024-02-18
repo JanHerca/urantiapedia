@@ -66,9 +66,7 @@ Over time, it has become increasingly difficult keeping the book on bookstore sh
 <img src="/image/article/UF_News_Online/2019_07/032.jpg">
 </figure>
 
-Today _The Urantia Book_ has 782 reviews on Amazon. If you haven't reviewed the book, please go here
-
-(https://bit.ly/30gBkYv) and do so. Your 5-star ratings matter. Most people buy books based on reviews. One thousand good reviews make a bold statement about the most important book on earth.
+Today _The Urantia Book_ has 782 reviews on Amazon. If you haven't reviewed the book, please go here ([https://bit.ly/30gBkYv](https://bit.ly/30gBkYv)) and do so. Your 5-star ratings matter. Most people buy books based on reviews. One thousand good reviews make a bold statement about the most important book on earth.
 <br style="clear:both;"/>
 
 ## 3. Order The Untold Story of Jesus—A Modern Biography from The Urantia Book to introduce his life and teachings
@@ -85,7 +83,7 @@ The original editor spent nearly five years producing the first draft of the tex
 
 There are 106 paintings by 35 of the best religious artists over the last 200 years. Many of the commissioned illustrations portray scenes only found in _The Urantia Book_. The paintings bring familiarity and gravitas to the majestic words found in Part IV. “The high mission of any art is, by its illusions, to foreshadow a higher universe reality, to crystallize the emotions of time into the thought of eternity.” <a id="a85_417"></a>[UB 48:7.23](/en/The_Urantia_Book/48#p7_23)
 
-Please help and go to Amazon (https://amzn.to/207bSQA) and order the book. Once you receive it, please rate it. The quality and quantity of your ratings make a persuasive difference to potential buyers. We need 200 5-star reviews ASAP. Thank you!
+Please help and go to Amazon ([https://amzn.to/2Q7bSQA](https://amzn.to/2Q7bSQA)) and order the book. Once you receive it, please rate it. The quality and quantity of your ratings make a persuasive difference to potential buyers. We need 200 5-star reviews ASAP. Thank you!
 <br style="clear:both;"/>
 
 ## 4. Download the new free Android app when completed

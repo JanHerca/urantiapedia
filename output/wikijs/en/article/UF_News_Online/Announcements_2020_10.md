@@ -57,7 +57,7 @@ Video now available in [English](https://www.urantia.org/urantia-book-video), [S
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2020-10/thoughts-ponder-in-french, https://www.urantia.org/news/2020-10/search-engine-in-indonesian, https://www.urantia.org/news/2020-10/little-light-mine-videos)
+- [This article](https://www.urantia.org/news/2020-10/thoughts-ponder-in-french), [this article](https://www.urantia.org/news/2020-10/search-engine-in-indonesian) y [este artículo](https://www.urantia.org/news/2020-10/little-light-mine-videos)
 
 <figure class="table chapter-navigator">
   <table>

@@ -44,8 +44,8 @@ In addition, there will be daily contemplative worship time. “Worship—contem
 One of the great joys of attending a Urantia Book conference is greeting old friends and meeting new ones The smaller venue of the Summer Study Session allows for all the benefits of a larger conference but offers more opportunity for intimate sharing and extended conversations.
 
 The Summer Study Session will be held from July 19 to 22 , preceded by a two-day spiritual retreat, “A Circle of Trust: Faith, Trust, and Assurance” beginning on Tuesday evening, July 17.
-If you have an idea for a workshop related to the theme, “It's a Friendly Universe: Serving with Our Celestial Family,” contact Jackie Koury at jacquelyn.koury@gmail.com to request an application form.
-You may register online at www.regonline.com/Urantia Fellowship SSS18.
+
+If you have an idea for a workshop related to the theme, “It's a Friendly Universe: Serving with Our Celestial Family,” contact Jackie Koury at jacquelyn.koury@gmail.com to request an application form. You may register online at www.regonline.com/Urantia Fellowship SSS18.
 
 
 ## References

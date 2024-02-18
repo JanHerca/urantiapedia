@@ -52,6 +52,8 @@ Many people in the Urantia community have benefited from the rise of online vide
 
 Click Here to See the Video
 
+https://youtu.be/LVbSwACdgxE
+
 There were no stories told during the “in-between” times.
 
 The Loving Service Retreat was still a structured discussion—we've all learned that structure is necessary for a large group on Zoom—but it came close to satisfying the “getting coffee with friends” vibe. By instructing the speakers to share their thoughts through the telling of stories, the organizers of the retreat acknowledged the role that stories play in our lives, which is itself a loving service. I was so happy to be a part of a captivated audience. and universe. With each round, the presenter would tell his or her story, after which the entire community was welcomed to chime in with their own contribution, beautifully orchestrated by the dedicated hosting team of Guy Perron and Agnès Lazar.

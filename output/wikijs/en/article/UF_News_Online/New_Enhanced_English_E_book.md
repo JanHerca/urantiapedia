@@ -66,7 +66,9 @@ Conveniently jump from one section to another while crossreferencing topics.
 <img src="/image/article/UF_News_Online/2021_04/050.jpg">
 </figure>
 
-[Click to see Ashley demo how the book works](https://www.youtube.com/watch?v=BvsP9kXnnZw)
+Click to see Ashley demo how the book works
+
+https://www.youtube.com/watch?v=BvsP9kXnnZw
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/046.jpg">

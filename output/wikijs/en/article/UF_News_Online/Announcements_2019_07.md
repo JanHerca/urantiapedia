@@ -61,10 +61,11 @@ We will delve into questions such as:
 - What is the melody that resonates within your soul?
 
 The cost for the three days is $250.00 and includes all meals and shared overnight accommodations on a first-come basis. For more information contact joanne@urantia.org.
+
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2019-06/russian-revision-now-available-online, https://www.urantia.org/news/2019-06/new-search-engine-urantia-book-urantiaorg, https://www.urantia.org/news/2019-06/dancing-god-our-supreme-calling)
+- [This article](https://www.urantia.org/news/2019-06/russian-revision-now-available-online), [this article](https://www.urantia.org/news/2019-06/new-search-engine-urantia-book-urantiaorg) and [this article](https://www.urantia.org/news/2019-06/dancing-god-our-supreme-calling)
 
 <figure class="table chapter-navigator">
   <table>

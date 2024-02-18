@@ -52,7 +52,7 @@ As promised in my last article, I would like to share some of the gratifying com
 
 ## Tina's Observations
 
-"Those three precious Saturdays were like a spiritual feast of inspiring topics. The speakers chose to focus on topics that would appeal to those of us who had not yet read the entire Urantia Book but had been exposed to the teachings through weekly quotes sent by Vicki. 
+“Those three precious Saturdays were like a spiritual feast of inspiring topics. The speakers chose to focus on topics that would appeal to those of us who had not yet read the entire Urantia Book but had been exposed to the teachings through weekly quotes sent by Vicki.” 
 
 “Richard Zhu's talk about the ascending journey to Paradise clearly gave us a whole new picture of the Universal Father's plan and the huge and detailed organization. As students of ACIL, we have been taught that ‘all is in perfect Divine order.’ What we accepted by faith before, The Urantia Book now gives us in detailed and concrete revelations!”
 

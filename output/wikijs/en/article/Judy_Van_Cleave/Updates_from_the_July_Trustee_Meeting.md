@@ -99,18 +99,16 @@ In September, the Spanish translation of _The Urantia Book_ ranked \#1 on Amazon
 
 Responding to the economic challenges of the coronavirus crisis, the board and staff felt it wise to reduce spending in the 2020 budget without compromising valuable programs. Committee chairs and the office team are cautiously spending money. Thanks go to Marie White for keeping accurate records and reporting in a timely way. Here are the financial details:
 
-Budget: The objective was to stay at or below the revised
+Budget: The objective was to stay at or below the revised 2020 budget of $735,307 in operating expenses. YTD expenses were down 14\% from 2019 and below the revised budget by 8\%.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2020_10/036.jpg">
 <figcaption><em>Marie White</em></figcaption>
 </figure>
 
-2020 budget of $735,307 in operating expenses. YTD expenses were down 14\% from 2019 and below the revised budget by 8\%.
-
 Donations: The fundraising objective is $630,000 in unrestricted donations, $25,000 in restricted donations, and $250,000 in estate contributions earmarked for the Revelation Bridge Fund. So far, unrestricted donations are \$205,010, up 13\% from 2019. Estate donations were $1,561,115 compared to $212,297 in 2019.
 
-> EI libro de Urantia ranked on Amazon's Mexico best seller list in Christian Philosophy
+> El libro de Urantia ranked on Amazon's Mexico best seller list in Christian Philosophy
 {.is-info}
 
 

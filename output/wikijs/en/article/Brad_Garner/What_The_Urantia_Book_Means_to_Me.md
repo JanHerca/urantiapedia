@@ -42,6 +42,7 @@ _By Brad Garner, Arizona, United States_
 
 I am a second-generation, lifelong student of _The Urantia Book_, by way of my parents. Looking back over my life, I can see how the book's meanings have evolved for me. Below is a view into some of what I've figured out. I've divided my life into chapters. Each chapter presents a short quote from _The Urantia Book_ that exemplifies that time in my life, and I describe a bit more about what was going on back then.
 <br style="clear:both;"/>
+
 ## Primary School
 
 “Your world, Urantia, is one of many similar inhabited planets which comprise the local universe of Nebadon.” <a id="a46_110"></a>[UB 0:0.5](/en/The_Urantia_Book/0#p0_5) I can't remember a time when I ever believed we're alone in the universe. As a young boy I couldn't read very far into _The Urantia Book_, but I am sure I at least read through page 1 by my eighth year. And I'll bet my parents tried to explain Nebadon to me “with a sweep of [their] arm” <a id="a46_438"></a>[UB 93:2.3](/en/The_Urantia_Book/93#p2_3) across the night sky. Becoming a Star Trek fan was a sure next step.
