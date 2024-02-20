@@ -54,7 +54,7 @@ From the seed of an email correspondence school, the emerging web-based UBIS sap
 
 Our UBIS tree is also evergreen. Three times a year, every year, up to 18 free courses are offered by trained teacher-facilitators and staff. The fruits of their labors are manifested as enthusiastic students from around the world step forward to be trained and mentored to create original courses and facilitate classes.
 
-The entire ascendant plan of mortal progression is characterized by the practice of giving out to other beings new truth and experience just as soon as acquired. You work your way through the long school of Paradise attainment by serving as teachers to those pupils just behind you in the scale of progression. <a id="a56_311"></a>[UB 30:3.9](/en/The_Urantia_Book/30#p3_9)
+> The entire ascendant plan of mortal progression is characterized by the practice of giving out to other beings new truth and experience just as soon as acquired. You work your way through the long school of Paradise attainment by serving as teachers to those pupils just behind you in the scale of progression. <a id="a56_311"></a>[UB 30:3.9](/en/The_Urantia_Book/30#p3_9)
 
 Urantia Foundation is deeply grateful to the UBIS team of volunteers, who unselfishly share gifts of time, enthusiasm, and brotherhood with their fellow readers. Without these “soldiers of the circles” there would be no school.
 

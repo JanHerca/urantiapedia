@@ -55,13 +55,11 @@ As _The Urantia Book_ has already been translated into more than 20 languages, t
 
 Esperanto is a constructed language, created in the nineteenth century by L. L. Zamenhof, an eye doctor in Poland, then part of the Russian Empire. When he was young, he experienced the pervasive animosity between the four peoples in Białystok where he lived: Russians, Poles, Jews, and Germans. Perceiving that it was mainly due to the language barrier, he decided to create an international language that would be used as a neutral language between all nations on Earth. His book was first published in 1887 . The roots of Esperanto are heavily influenced by European languages, while its grammar—simple, regular, and expressive—is more akin to other language families. Esperanto grammar has been designed to be easy to learn, making the language about 10 times quicker to learn than other European languages.
 
-One hundred thirty years later, the Esperanto movement encompasses tens of thousands of people in hundreds of Esperanto clubs in almost every nation on Earth. A culture of brotherhood between people and nations has developed, with yearly congresses, books, plays, music, and films. The World Esperanto Congress, an
-
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2021_07/003.jpg">
 </figure>
 
-L. L. Zamenhof experience on its own, usually gathers between one and two thousand people from more than 70 countries every year. Activities range from scientific talks to cultural shows and guided tours of local attractions. They also include gatherings of diverse interest groups such as vegans, chess players, LGBTQ+, cat lovers, as well as many professional, political, and religious associations. The feeling of being able to efficiently communicate and understand everyone coming from everywhere with a comparable level of fluency is almost indescribable.
+One hundred thirty years later, the Esperanto movement encompasses tens of thousands of people in hundreds of Esperanto clubs in almost every nation on Earth. A culture of brotherhood between people and nations has developed, with yearly congresses, books, plays, music, and films. The World Esperanto Congress, an L. L. Zamenhof experience on its own, usually gathers between one and two thousand people from more than 70 countries every year. Activities range from scientific talks to cultural shows and guided tours of local attractions. They also include gatherings of diverse interest groups such as vegans, chess players, LGBTQ+, cat lovers, as well as many professional, political, and religious associations. The feeling of being able to efficiently communicate and understand everyone coming from everywhere with a comparable level of fluency is almost indescribable.
 <br style="clear:both;"/>
 
 ## The Esperanto Translation

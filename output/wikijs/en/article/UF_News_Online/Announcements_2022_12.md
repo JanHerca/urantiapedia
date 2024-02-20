@@ -67,7 +67,7 @@ https://www.urantia.org/urantia-foundation/mustard-seed-grants-program
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2022-12/farsi-translation and https://www.urantia.org/news/2022-12/mustard-seed-grants-program-announcement)
+- [This article](https://www.urantia.org/news/2022-12/farsi-translation) and [this article](https://www.urantia.org/news/2022-12/mustard-seed-grants-program-announcement)
 
 <figure class="table chapter-navigator">
   <table>

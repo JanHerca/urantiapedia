@@ -46,7 +46,7 @@ Highlights of third-quarter operations included: 1) conducting normal book activ
 
 ## Books
 
-Book printing: After nine months of high-volume Urantia Book sales, inventories of specific books were depleted. Having planned ample lead time to print thirty thousand English, Spanish, Portuguese, Russian, and French books, we had expected books to arrive before this happened.
+**Book printing**: After nine months of high-volume Urantia Book sales, inventories of specific books were depleted. Having planned ample lead time to print thirty thousand English, Spanish, Portuguese, Russian, and French books, we had expected books to arrive before this happened.
 
 After securing printing bids in Europe, dealing with paper shortages and astronomical price increases, finalizing newly formatted printer files, and confirming a printing date, we finally saw the books printed and bound. Unfortunately, the shipping supply chain fell apart. After a scramble to secure shipping containers, the books finally arrived at a jammed port in Charleston, South Carolina.
 
@@ -69,7 +69,6 @@ Once the books clear United States customs, they will board a train, then a truc
 2. _The Perpetual Printing Fund_ is used for printing books. When an English, Spanish, Portuguese, Polish, or Russian book sells, 110\% of the cost of the book is returned to the fund to ensure there is always money for future printings.
 3. _The Revelation Bridge Fund_ is an investment fund for future generations. The policy is that the capital isn't touched until 2040, and then only a percentage of the annual gains can be used, not the principal.
 4. _The Reserve Fund_ is a cash and cash equivalent fund to ensure Urantia Foundation has reserve funds to operate in dire times.
-
 5. _The Mustard Seed Fund_ is Urantia Foundation's newest fund. The Jameson Foundation initiated this fund with a sizeable 10-year gift. The purpose of this fund is to “seed” the Revelation around the globe through grant funding. The terms of approving grants are being developed over the next 12 months and will be administered by Urantia Foundation. The grants are expected to have a direct effect upon spreading the fifth epochal revelation globally. Approximately 50\% of the initial annual donations will be available for qualifying grants, and 50\% will be invested in this fund for long-term growth. We invite you to join the Jameson family in supporting this education and outreach fund.
 
 The investment strategy for all of our funds is targeted towards moderate risk.

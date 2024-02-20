@@ -58,7 +58,7 @@ A brand new way to experience THE URANTIA BOOK!
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2023-03/urantia-book-fellowships-international-conference-2023-ic23 and https://www.urantia.org/news/2023-03/urantia-book-android-app)
+- [This article](https://www.urantia.org/news/2023-03/urantia-book-fellowships-international-conference-2023-ic23) and [this article](https://www.urantia.org/news/2023-03/urantia-book-android-app)
 
 <figure class="table chapter-navigator">
   <table>

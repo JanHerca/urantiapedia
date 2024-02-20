@@ -68,7 +68,7 @@ All who have participated in and contributed to this service throughout its hist
 
 "It had not occurred to me, when I joined PIRT at its formation 17 years ago, that our group would be participating in realizing a morontia mota teaching. But here it is:
 
-Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love. <a id="a70_92"></a>[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)
+> Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love. <a id="a70_92"></a>[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)
 
 “I will tell you this: inmates can ask difficult questions! This one, for example: 'After reading ”Government on a Neighboring Planet" in dealing with crime, sentencing to life in detention colonies those believed to be potential criminals is marked as a positive era of law. What does that mean?
 
@@ -76,14 +76,14 @@ Knowledge is possessed only by sharing; it is safeguarded by wisdom and socializ
 
 "Wisdom to answer to the complete satisfaction of the student and in a way that will ensure their continued study with the revelation.
 
-"Our work with inmates has become a two-way ministry.
+"Our work with inmates has become a two-way ministry. We impart awareness to each other; the teacher becomes the student, and the student becomes the teacher. Every aspect of this morontia mota quote is incorporated in our work with inmates. It is truly a labor of love.”
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_12/046.jpg">
 <figcaption><em>Painting by Reinaldo Dennes, Texas</em></figcaption>
 </figure>
 
-We impart awareness to each other; the teacher becomes the student, and the student becomes the teacher. Every aspect of this morontia mota quote is incorporated in our work with inmates. It is truly a labor of love."
+
 
 ## You Are Invited
 

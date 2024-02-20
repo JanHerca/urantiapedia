@@ -65,7 +65,7 @@ Contact: tamara@urantia.org
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2022-10/parliament-worlds-religions and https://www.urantia.org/news/2022-10/legacy-gift-endures-future-generations)
+- [This article](https://www.urantia.org/news/2022-10/parliament-worlds-religions) y [this article](https://www.urantia.org/news/2022-10/legacy-gift-endures-future-generations)
 
 <figure class="table chapter-navigator">
   <table>

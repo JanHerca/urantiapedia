@@ -48,7 +48,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - My Benelux Esperanto Conference Experience
 - Remembering Irmeli Ivalo-Sjõlie
 - Sharing The Urantia Book
-- What The Urantia Book
+- What The Urantia Book Means To Me
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_01/001.jpg">

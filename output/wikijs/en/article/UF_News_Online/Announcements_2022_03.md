@@ -85,7 +85,7 @@ The Farsi translator has completed several new papers since the last set of file
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2022-03/urantia-foundation-presents-science-symposium-iii and https://www.urantia.org/news/2022-03/summer-study-session-2022 and https://www.urantia.org/news/2022-03/update-farsi-translation-khtb-ywrnshy)
+- [This article](https://www.urantia.org/news/2022-03/urantia-foundation-presents-science-symposium-iii), [this article](https://www.urantia.org/news/2022-03/summer-study-session-2022) and [this article](https://www.urantia.org/news/2022-03/update-farsi-translation-khtb-ywrnshy)
 
 <figure class="table chapter-navigator">
   <table>

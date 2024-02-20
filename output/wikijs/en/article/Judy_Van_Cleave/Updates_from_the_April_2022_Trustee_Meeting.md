@@ -40,6 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Judy Van Cleave, secretary, Urantia Foundation, Idaho, United States_
 <br style="clear:both;"/>
+
 ## Operations Overview
 
 ## Books

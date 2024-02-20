@@ -57,8 +57,6 @@ It's much better for Urantia Foundation if you order books for outreach from Ama
 
 ## Goal two: 3,000 compelling  Urantia Book ratings on Amazon and Goodreads
 
-
-
 Do you know how important ratings and reviews are on Amazon? It matters and is easy to do. Please rate and write a review of _The Urantia Book_ on Amazon, Goodreads, and any online retailer selling the book. When we started asking you to rate the book on Amazon, there were only 210 ratings. Today, there are 1,785. Congratulations! **Now, let's get to 3,000 by a year from now**. If you've enjoyed reading _The Untold Story of Jesus_, please rate it too.
 
 <figure id="Figure_2" class="image urantiapedia">

@@ -57,7 +57,7 @@ Translation work began on the Russian, Korean, Farsi, Portuguese, Chinese, Hindi
 
 Tonia began the annual tradition of the holiday party held at Urantia Foundation headquarters. The party gave many readers an opportunity to visit Chicago and the Foundation while enjoying the festivities and meeting the staff and other readers of _The Urantia Book_.
 
-Tonia traveled to many book fairs, reader meetings, and other Urantia-related gatherings throughout her tenure as executive director. When I
+Tonia traveled to many book fairs, reader meetings, and other Urantia-related gatherings throughout her tenure as executive director. When I began reading _The Urantia Book_, she encouraged me to attend the regular study group meetings at the Foundation, and we had many discussions about how to promote its teachings.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_03/020.jpg">
@@ -68,8 +68,6 @@ Tonia traveled to many book fairs, reader meetings, and other Urantia-related ga
 <img src="/image/article/UF_News_Online/2023_03/028.jpg">
 <figcaption><em>Tonia Baney painting</em></figcaption>
 </figure>
-
-began reading _The Urantia Book_, she encouraged me to attend the regular study group meetings at the Foundation, and we had many discussions about how to promote its teachings.
 
 Tonia left Urantia Foundation in October 2003, returned to Hawaii, and pursued other projects including her work as a portrait artist. She also remained a great advocate and promoter of _The Urantia Book_. When I left the Foundation in April 2004, Tonia supported my decision to go back to school and encouraged me while I was earning my bachelor's degree in sculpture.
 
