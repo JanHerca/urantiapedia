@@ -16,13 +16,13 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-17-issue-1-march-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 1, March 2023 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-17-issue-2-june-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 2, June 2023 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/UF_News_Online/The_Mustard_Seed_Grants_Program">
-          <span class="pr-2">The Mustard Seed Grants Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Georges_Michelson_Dupont/Remembering_Seppo_Kanerva">
+          <span class="pr-2">Remembering Seppo Kanerva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,32 +32,35 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2023_03/003.jpg">
+<img src="/image/article/UF_News_Online/2023_06/004.jpg">
 </figure>
 
 ## Inside This Issue
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2023_03/002.jpg">
+<img src="/image/article/UF_News_Online/2023_06/002.jpg">
 </figure>
 
-- The Mustard Seed Grants Program
-- Updates from the January 2023 Trustee Meeting
-- An Epochal Plan
-- Urantia Book International School Virtual Study Groups
-- Remembering Tonia Baney
-- What The Urantia Book Means to Me
-- Announcements
-
+- Remembering Seppo Kanerva—a Letter to a Brother, Friend, and Colleague
+- Updates from the April 2023 Trustee Meeting
+- “Spreading the Good News” Tour
+- Wikipedia and The Urantia Book
+- Remembering John Hales
+- Remembering Paula Padilla
+- What The Urantia Book Means to Me - Luis Costa
+- Mustard Seed Grants: Round 2 Opens on July 10
+- There is still time to register! IC23 - Urantia Book Fellowship
+- The Nature and Nurture of the Soul
+- Marriage and Family Symposium
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2023_03/001.jpg">
+<img src="/image/article/UF_News_Online/2023_06/001.jpg">
 </figure>
 
 ## Volume 17, Issue 1. March 2023
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2023_03/036.jpg">
+<img src="/image/article/UF_News_Online/2023_06/019.jpg">
 </figure>
 
 Urantia Foundation
@@ -72,13 +75,13 @@ Email: urantia@urantia.org
 
 Editors: Cece Forrester, Marilynn Kulieke, Joanne Strobel, Tamara Strumfeld
 
-Contributors: Judy Van Cleave, Gard Jameson, Erika Webster, Sheila Schneider, Mirela Gradinariu-Kelpin
+Contributors: Georges Michelson-Dupont, Judy Van Cleave, Pato Banton, Brad Garner, Marilynn Kulieke, Olga López, Luis Costa
 
 Production: Urantia Foundation
 
 **Urantia Foundation Trustees**
 
-Sherry Cathcart Chavis, Víctor GarcíaBory, Gard Jameson, Marilynn Kulieke, Olga López Molina, Georges MichelsonDupont, Mo Siegel, Judy Van Cleave, Chris Wood
+Sherry Cathcart Chavis, Víctor GarcíaBory, Gard Jameson, Marilynn Kulieke, Olga López Molina, Georges Michelson-Dupont, Mo Siegel, Judy Van Cleave, Chris Wood
 
 **Associate Trustees**
 
@@ -105,13 +108,13 @@ This is a Urantian &reg; publication
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-17-issue-1-march-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 1, March 2023 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-17-issue-2-june-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 2, June 2023 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/UF_News_Online/The_Mustard_Seed_Grants_Program">
-          <span class="pr-2">The Mustard Seed Grants Program</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Georges_Michelson_Dupont/Remembering_Seppo_Kanerva">
+          <span class="pr-2">Remembering Seppo Kanerva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
