@@ -72,7 +72,7 @@ What means most to me is reading _The Urantia Book_ with Joanne and sharing this
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2012-06/what-urantia-book-means-me-graciela-cristina-benedetti)
+- [This article](https://www.urantia.org/news/2012-06/what-urantia-book-means-me-graciela-cristina-benedetti) and [this article](https://www.urantia.org/news/2012-06/books-perfection)
 
 <figure class="table chapter-navigator">
   <table>
