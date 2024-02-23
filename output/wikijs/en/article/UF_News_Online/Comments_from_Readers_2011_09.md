@@ -70,7 +70,7 @@ I am blessed and grateful! Janet Falbo, Boca Raton, Florida, USA
 ## References
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/news/2011-09/what-urantia-book-means-me-michael-berry)
+- [This article](https://www.urantia.org/news/2011-09/what-urantia-book-means-me-michael-berry) and [this article](https://www.urantia.org/news/2011-09/so-many-questions-answered)
 
 <figure class="table chapter-navigator">
   <table>

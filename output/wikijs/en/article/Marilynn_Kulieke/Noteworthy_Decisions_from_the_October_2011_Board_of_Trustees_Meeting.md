@@ -34,7 +34,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-_By Marilynn Kulieke, Secretary,<br>Urantia Foundation,<br>Lincolnshire, Illinois, USA_
+_By Marilynn Kulieke, Secretary, Urantia Foundation,<br>Lincolnshire, Illinois, USA_
 
 ## Decisions
 

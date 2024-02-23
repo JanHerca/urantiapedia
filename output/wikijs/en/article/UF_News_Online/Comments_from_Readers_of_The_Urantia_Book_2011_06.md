@@ -31,7 +31,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-Inspiring Words from a Reader of _The Urantia Book_
+## Inspiring Words from a Reader of _The Urantia Book_
 
 _By Jim Watkins, Cape Coral, Florida, USA_
 

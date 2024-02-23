@@ -42,14 +42,13 @@ _By Georges Michelson-Dupont, Vice President, Urantia_
 
 Foundation, Recloses, France
 
-Members of the revision team for the Spanish translation gathered at 533 W Diversey Parkway this past August for their first meeting. Present were Associate Trustee Olga López and Carmelo Martínez from Spain, Anibal Pacheco from Chile, and Raul Pujol from Puerto Rico. Also in attendance was Associate Trustee Víctor García Bory from New York, who is serving as liaison between the Translation Committee and the revision team. His work includes
-
-8 overseeing the project and coordinating the needs of the team members. Gard Jameson attended as a resource as did I, the Manager of Translations and the chair of the Translation Committee. Peter Russell was invited to serve as the meeting's facilitator.
+Members of the revision team for the Spanish translation gathered at 533 W Diversey Parkway this past August for their first meeting. Present were Associate Trustee Olga López and Carmelo Martínez from Spain, Anibal Pacheco from Chile, and Raul Pujol from Puerto Rico. Also in attendance was Associate Trustee Víctor García Bory from New York, who is serving as liaison between the Translation Committee and the revision team. His work includes overseeing the project and coordinating the needs of the team members. Gard Jameson attended as a resource as did I, the Manager of Translations and the chair of the Translation Committee. Peter Russell was invited to serve as the meeting's facilitator.
 
 ## The Meeting's Purpose
 
 1. Facilitate, coordinate, and organize the team of four individuals who will be working together for at least five years on a profound revision of the two current Spanish translations.
-2. Create conditions for a dynamic, loving, and working relationship in a spirit of cooperation based on the teachings of _The Urantia Book_.3. Learn about each other in order to create a high performing team that is engaged in a project to create an in-depth revision and synthesis of Urantia Foundation's two current Spanish translations of _The Urantia Book_. It is our hope that it will be a beautiful translation that will appeal to the majority of the Spanish-speaking readers worldwide.
+2. Create conditions for a dynamic, loving, and working relationship in a spirit of cooperation based on the teachings of _The Urantia Book_.
+3. Learn about each other in order to create a high performing team that is engaged in a project to create an in-depth revision and synthesis of Urantia Foundation's two current Spanish translations of _The Urantia Book_. It is our hope that it will be a beautiful translation that will appeal to the majority of the Spanish-speaking readers worldwide.
 
 ## Unfolding of the Meeting
 

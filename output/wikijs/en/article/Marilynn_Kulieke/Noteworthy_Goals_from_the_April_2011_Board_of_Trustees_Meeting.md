@@ -124,7 +124,9 @@ These projects are: a) the Spanish revision plan; b) the new computer software n
 
 Multiple fundraising activities for 2011 include the spring/ summer fundraiser, the winter fundraising match, and a new building renovation campaign. Since Urantia Foundation does not make money from book sales, the Foundation relies on the generosity of donors. As one reader stated, “What a blessing it is to support the most important spiritual project on the planet. When you get to the mansion worlds, you'll look back and be thankful for the amazing opportunity you had to support the Fifth Epochal Revelation.” Thank you for your contributions.
 
-3. Find people of means who will fund the seeding of _The Urantia Book_ and its teachings throughout the world.The Foundation will continue building a strong treasury that can withstand social and economic storms while securing its short and long term ability to serve.
+3. _Find people of means who will fund the seeding of _The Urantia Book_ and its teachings throughout the world._ 
+
+The Foundation will continue building a strong treasury that can withstand social and economic storms while securing its short and long term ability to serve.
 
 > The translation software, now in use, accommodates languages ranging from Balto-Slavic, Indo-European, and Altaic, to Sino-Tibetan.
 
