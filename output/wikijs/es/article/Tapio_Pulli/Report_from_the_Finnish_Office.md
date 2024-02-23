@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-11-issue-1-march-2017">
+        <a href="/es/index/articles_uf_news_online#volumen-11-número-1-marzo-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, Marzo 2017 — Índice</span>
         </a>
         </td>
@@ -84,7 +84,7 @@ Mi deseo es ayudar a la Fundación Urantia vendiendo Libros de Urantia en Finlan
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-11-issue-1-march-2017">
+        <a href="/es/index/articles_uf_news_online#volumen-11-número-1-marzo-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 1, Marzo 2017 — Índice</span>
         </a>
         </td>

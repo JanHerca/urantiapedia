@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-13-issue-1-april-2019">
+        <a href="/es/index/articles_uf_news_online#volumen-13-número-1-abril-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, Abril 2019 — Índice</span>
         </a>
         </td>
@@ -139,7 +139,7 @@ En 2015 colocaron libros en la parte norte de Filipinas con ayuda de la Fundaci�
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-13-issue-1-april-2019">
+        <a href="/es/index/articles_uf_news_online#volumen-13-número-1-abril-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 1, Abril 2019 — Índice</span>
         </a>
         </td>

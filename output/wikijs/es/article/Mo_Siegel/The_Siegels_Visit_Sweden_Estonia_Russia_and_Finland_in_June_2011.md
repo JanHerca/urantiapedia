@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-5-issue-4-dec-2011">
+        <a href="/es/index/articles_uf_news_online#volumen-5-número-4-diciembre-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 4, Dic. 2011 — Índice</span>
         </a>
         </td>
@@ -124,7 +124,7 @@ El libro está almacenado en unos 15 ó 20 almacenes por todo el país, y el pre
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-5-issue-4-dec-2011">
+        <a href="/es/index/articles_uf_news_online#volumen-5-número-4-diciembre-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 4, Dic. 2011 — Índice</span>
         </a>
         </td>

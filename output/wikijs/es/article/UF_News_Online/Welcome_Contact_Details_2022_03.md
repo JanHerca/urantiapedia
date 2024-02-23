@@ -16,7 +16,7 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-16-issue-2-march-2022">
+        <a href="/es/index/articles_uf_news_online#volumen-16-número-2-marzo-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 2, Marzo 2022 — Índice</span>
         </a>
         </td>
@@ -108,7 +108,7 @@ En la web, en www.urantia.org
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-16-issue-2-march-2022">
+        <a href="/es/index/articles_uf_news_online#volumen-16-número-2-marzo-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 2, Marzo 2022 — Índice</span>
         </a>
         </td>

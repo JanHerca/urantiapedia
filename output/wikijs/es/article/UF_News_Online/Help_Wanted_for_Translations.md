@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-6-issue-2-june-2012">
+        <a href="/es/index/articles_uf_news_online#volumen-6-número-2-junio-2012">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 2, Junio 2012 — Índice</span>
         </a>
         </td>
@@ -58,7 +58,7 @@ Por favor, contacten con Georges Michelson-Dupont en [georges.michelson-dupont@w
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-6-issue-2-june-2012">
+        <a href="/es/index/articles_uf_news_online#volumen-6-número-2-junio-2012">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 2, Junio 2012 — Índice</span>
         </a>
         </td>

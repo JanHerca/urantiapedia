@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-8-issue-1-march-2014">
+        <a href="/es/index/articles_uf_news_online#volumen-8-número-1-marzo-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, Marzo 2014 — Índice</span>
         </a>
         </td>
@@ -69,7 +69,7 @@ Sí que le di un libro a mi padre y no, no lo leyó. Está bien; sé que él est
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-8-issue-1-march-2014">
+        <a href="/es/index/articles_uf_news_online#volumen-8-número-1-marzo-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, Marzo 2014 — Índice</span>
         </a>
         </td>

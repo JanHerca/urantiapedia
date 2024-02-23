@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-11-issue-4-dec-2017">
+        <a href="/es/index/articles_uf_news_online#volumen-11-número-4-diciembre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 4, Dic. 2017 — Índice</span>
         </a>
         </td>
@@ -126,7 +126,7 @@ Si hubiera un solo mensaje que dejarles es que imaginen al Ajustador del Pensami
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-11-issue-4-dec-2017">
+        <a href="/es/index/articles_uf_news_online#volumen-11-número-4-diciembre-2017">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 11, Número 4, Dic. 2017 — Índice</span>
         </a>
         </td>

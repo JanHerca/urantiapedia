@@ -1,5 +1,5 @@
 ---
-title: "The Hebrew Translation of The Urantia Book"
+title: "La traducción al Hebreo de El libro de Urantia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -15,17 +15,17 @@ dateCreated: 2023-8-29T10:55:6Z
       <tr>
         <td>
         <a href="/es/article/Marilynn_Kulieke/Noteworthy_Decisions_from_the_April_2012_Board_of_Trustees_Meeting">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noteworthy Decisions from the April 2012 Board of Trustees Meeting</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decisiones destacadas de la reunión de la junta de fideicomisarios de Abril de 2012</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-6-issue-2-june-2012">
+        <a href="/es/index/articles_uf_news_online#volumen-6-número-2-junio-2012">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 2, Junio 2012 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Olga_Lopez/Reflections_on_the_11th_meeting_of_Urantia_Book_readers_in_Spain">
-          <span class="pr-2">Reflections on the 11th meeting of Urantia Book readers in Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Reflexiones sobre el XI Encuentro de Lectores de El libro de Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -38,11 +38,11 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2012_06/005.jpg">
 </figure>
 
-_By Georges Michelson-Dupont, trustee, manager of translations, Urantia Foundation, Recloses, France_
+_De Georges Michelson-Dupont, fideicomisario y responsable de traducciones de la Fundación Urantia (Recloses, Francia)_
 
-It is with great pleasure that the trustees of Urantia Foundation announce the launching of the Hebrew translation of _El Libro de Urantia_. The publishing of this translation is anticipated to take place in seven or eight years. To me, it is a moving undertaking bearing in mind that Jesus, the fourth epochal revelation, was born, lived, and died among the Jewish people, the most spiritually advanced civilization of that time.
+Con gran placer, los fideicomisarios de la Fundación Urantia anuncian el lanzamiento de la traducción al hebreo de _El libro de Urantia_. Se prevé que la publicación de esta traducción tenga lugar en siete u ocho años. Para mí, es una empresa emocionante teniendo en cuenta que Jesús, la cuarta revelación de época, nació, vivió y murió entre el pueblo judío, la civilización más avanzada espiritualmente de aquella época.
 
-The team of translators is composed of two individuals: Gabriel Rymberg is the chief translator and is being assisted by an experienced, long- time reader who lives in New York. Gabriel, a 42-year-old native of Israel and father of two daughters, lives five miles from Nazareth. He spent several years traveling throughout the world. He speaks fluent Hebrew, English, and Spanish. Gabriel is a software professional with more than fifteen years of experience in this industry, four of which have been managerial positions in business development and project management. During the past two years, Gabriel has acquired extensive skills and expertise in the translation, publishing, and contentmanagement areas of business.
+El equipo de traductores se compone de dos individuos: Gabriel Rymberg es el traductor jefe, al que ayuda un lector experimentado y veterano que vive en Nueva York. Gabriel es un ciudadano de Israel de 42 años, padre de dos hijas, que vive a 8 Km. de Nazaret. Pasó varios años viajando por todo el mundo. Habla de manera fluida hebreo, inglés y español. Gabriel es un profesional del software, con más de quince años de experiencia en esta industria, de los que pasó cuatro en cargos directivos de desarrollo y gestión de proyectos. Durante los dos últimos años, Gabriel ha adquirido habilidad y experiencia extensas en los campos de negocio de traducción, publicación y gestión de contenidos.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
@@ -50,15 +50,15 @@ The team of translators is composed of two individuals: Gabriel Rymberg is the c
 <figcaption><em>Gabriel Rymberg</em></figcaption>
 </figure>
 
-Gabriel is also certified to teach yoga and meditation. He was introduced to _El Libro de Urantia_ in Northern Canada by a friend who told him simply, “You should read this.” In his letter to Urantia Foundation he stated: “The revelation of truth in _El Libro de Urantia_, in its simplicity and clarity, resonates deeply within my being. So, I humbly ask your blessing and guidance in the challenging task of translating the book into the Hebrew tongue. Until we all speak one language, every human deserves to read these teachings in their native language.”
+Gabriel también está acreditado para enseñar yoga y meditación. Supo del libro por un amigo en el norte de Canadá, que le dijo solamente: «Deberías leer esto». En su carta a la Fundación Urantia, afirma: «La revelación de la verdad en _El libro de Urantia_, en su sencillez y claridad, resuena profundamente dentro de mi ser. Así que les pido humildemente su bendición y su guía en la tarea desafiante de traducir el libro a la lengua hebrea. Hasta que no hablemos una sola lengua, todo ser humano merece leer estas enseñanzas en su lengua nativa».
 
-In addition to the Hebrew translation, seven other translations are in progress: Chinese, Czech, Farsi, Hindi, Indonesian, Japanese, and Urdu. Six other translations are being revised: French, Hungarian, Polish, Portuguese, Russian, and Spanish.
+Además de la traducción al hebreo, hay en marcha otras siete traducciones: china, checa, parsi, hindi, indonesia, japonesa y urdú. Se están revisando otras seis traducciones: francesa, húngara, polaca, portuguesa, rusa y española.
 <br style="clear:both;"/>
 
 ## Referencias
 
 - [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
-- [Este artículo](https://www.urantia.org/news/2012-06/hebrew-translation-urantia-book)
+- [Este artículo](https://www.urantia.org/es/news/2012-06/la-traduccion-al-hebreo-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">
   <table>
@@ -66,17 +66,17 @@ In addition to the Hebrew translation, seven other translations are in progress:
       <tr>
         <td>
         <a href="/es/article/Marilynn_Kulieke/Noteworthy_Decisions_from_the_April_2012_Board_of_Trustees_Meeting">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noteworthy Decisions from the April 2012 Board of Trustees Meeting</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decisiones destacadas de la reunión de la junta de fideicomisarios de Abril de 2012</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-6-issue-2-june-2012">
+        <a href="/es/index/articles_uf_news_online#volumen-6-número-2-junio-2012">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 2, Junio 2012 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Olga_Lopez/Reflections_on_the_11th_meeting_of_Urantia_Book_readers_in_Spain">
-          <span class="pr-2">Reflections on the 11th meeting of Urantia Book readers in Spain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Reflexiones sobre el XI Encuentro de Lectores de El libro de Urantia en España</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

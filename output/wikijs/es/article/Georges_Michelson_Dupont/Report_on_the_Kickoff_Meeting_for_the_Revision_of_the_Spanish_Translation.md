@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-5-issue-3-sept-2011">
+        <a href="/es/index/articles_uf_news_online#volumen-5-número-3-sept-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 3, Sept. 2011 — Índice</span>
         </a>
         </td>
@@ -96,7 +96,7 @@ El equipo de la revisión española de la Fundación está compuesto de individu
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-5-issue-3-sept-2011">
+        <a href="/es/index/articles_uf_news_online#volumen-5-número-3-sept-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 3, Sept. 2011 — Índice</span>
         </a>
         </td>

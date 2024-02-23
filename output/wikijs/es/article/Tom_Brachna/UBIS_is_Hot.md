@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-3-issue-1-march-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-1-marzo-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, Marzo 2009 — Índice</span>
         </a>
         </td>
@@ -83,7 +83,7 @@ Espero que este texto sobre la UBIS les parezca iluminador. Ojalá todos encontr
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-3-issue-1-march-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-1-marzo-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 1, Marzo 2009 — Índice</span>
         </a>
         </td>

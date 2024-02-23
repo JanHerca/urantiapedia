@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-7-issue-4-dec-2013">
+        <a href="/es/index/articles_uf_news_online#volumen-7-número-4-diciembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 4, Dic. 2013 — Índice</span>
         </a>
         </td>
@@ -111,7 +111,7 @@ Los fideicomisarios asociados son reelegidos cada año. Nos place informarles qu
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-7-issue-4-dec-2013">
+        <a href="/es/index/articles_uf_news_online#volumen-7-número-4-diciembre-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 4, Dic. 2013 — Índice</span>
         </a>
         </td>

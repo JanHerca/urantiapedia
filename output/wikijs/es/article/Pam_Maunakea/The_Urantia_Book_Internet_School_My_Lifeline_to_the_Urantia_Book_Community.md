@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-5-issue-2-june-2011">
+        <a href="/es/index/articles_uf_news_online#volumen-5-número-2-junio-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, Junio 2011 — Índice</span>
         </a>
         </td>
@@ -70,7 +70,7 @@ La UBIS me ha proporcionado un enlace vital con otros lectores. Estar implicada 
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-5-issue-2-june-2011">
+        <a href="/es/index/articles_uf_news_online#volumen-5-número-2-junio-2011">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 5, Número 2, Junio 2011 — Índice</span>
         </a>
         </td>

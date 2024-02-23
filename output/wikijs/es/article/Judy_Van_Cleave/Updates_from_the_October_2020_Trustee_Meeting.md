@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-14-issue-4-dec-2020">
+        <a href="/es/index/articles_uf_news_online#volumen-14-número-4-diciembre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 4, Dic. 2020 — Índice</span>
         </a>
         </td>
@@ -163,7 +163,7 @@ Gracias a Richard Zhu, el primer borrador de la traducción china está en el do
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-14-issue-4-dec-2020">
+        <a href="/es/index/articles_uf_news_online#volumen-14-número-4-diciembre-2020">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 14, Número 4, Dic. 2020 — Índice</span>
         </a>
         </td>

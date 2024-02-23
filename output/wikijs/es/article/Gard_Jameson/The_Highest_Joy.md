@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-9-issue-3-sept-2015">
+        <a href="/es/index/articles_uf_news_online#volumen-9-número-3-sept-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 3, Sept. 2015 — Índice</span>
         </a>
         </td>
@@ -66,7 +66,7 @@ La alegría es la señal clara de la presencia de Dios. Cuando hombres y mujeres
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-9-issue-3-sept-2015">
+        <a href="/es/index/articles_uf_news_online#volumen-9-número-3-sept-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 3, Sept. 2015 — Índice</span>
         </a>
         </td>

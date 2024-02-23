@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-17-issue-1-march-2023">
+        <a href="/es/index/articles_uf_news_online#volumen-17-número-1-marzo-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, Marzo 2023 — Índice</span>
         </a>
         </td>
@@ -77,7 +77,7 @@ El próximo grupo de estudio UBIS se ofrecerá en inglés durante el trimestre d
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-17-issue-1-march-2023">
+        <a href="/es/index/articles_uf_news_online#volumen-17-número-1-marzo-2023">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 17, Número 1, Marzo 2023 — Índice</span>
         </a>
         </td>

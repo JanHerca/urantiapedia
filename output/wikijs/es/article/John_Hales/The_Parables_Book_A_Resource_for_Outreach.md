@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-12-issue-2-july-2018">
+        <a href="/es/index/articles_uf_news_online#volumen-12-número-2-julio-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 2, Julio 2018 — Índice</span>
         </a>
         </td>
@@ -93,7 +93,7 @@ Esta es la aventura continua de servir a nuestros hermanos, allá donde los enco
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-12-issue-2-july-2018">
+        <a href="/es/index/articles_uf_news_online#volumen-12-número-2-julio-2018">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 12, Número 2, Julio 2018 — Índice</span>
         </a>
         </td>

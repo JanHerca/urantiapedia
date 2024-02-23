@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-3-issue-2-june-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-2-junio-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 2, Junio 2009 — Índice</span>
         </a>
         </td>
@@ -70,7 +70,7 @@ Animo a los lectores de _El libro de Urantia_ de todo el mundo a que asistan a u
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-3-issue-2-june-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-2-junio-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 2, Junio 2009 — Índice</span>
         </a>
         </td>

@@ -16,7 +16,7 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-16-issue-3-july-2022">
+        <a href="/es/index/articles_uf_news_online#volumen-16-número-3-julio-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 3, Julio 2022 — Índice</span>
         </a>
         </td>
@@ -111,7 +111,7 @@ Esta es una publicación «Urantian» &reg;
         <td>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-16-issue-3-july-2022">
+        <a href="/es/index/articles_uf_news_online#volumen-16-número-3-julio-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 3, Julio 2022 — Índice</span>
         </a>
         </td>

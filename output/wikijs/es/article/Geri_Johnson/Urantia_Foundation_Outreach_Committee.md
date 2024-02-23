@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-15-issue-1-april-2021">
+        <a href="/es/index/articles_uf_news_online#volumen-15-número-1-abril-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, Abril 2021 — Índice</span>
         </a>
         </td>
@@ -69,7 +69,7 @@ Esperen a saber más de este comité a medida que nuestras ideas evolucionan de 
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-15-issue-1-april-2021">
+        <a href="/es/index/articles_uf_news_online#volumen-15-número-1-abril-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 1, Abril 2021 — Índice</span>
         </a>
         </td>

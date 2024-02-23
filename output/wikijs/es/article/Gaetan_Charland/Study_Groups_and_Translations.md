@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-13-issue-3-oct-2019">
+        <a href="/es/index/articles_uf_news_online#volumen-13-número-3-octubre-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 3, Oct. 2019 — Índice</span>
         </a>
         </td>
@@ -86,7 +86,7 @@ Seamos agradecidos y apreciemos a esas almas amorosas que han dedicado gran part
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-13-issue-3-oct-2019">
+        <a href="/es/index/articles_uf_news_online#volumen-13-número-3-octubre-2019">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 13, Número 3, Oct. 2019 — Índice</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-7-issue-2-june-2013">
+        <a href="/es/index/articles_uf_news_online#volumen-7-número-2-junio-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 2, Junio 2013 — Índice</span>
         </a>
         </td>
@@ -90,7 +90,7 @@ Este viaje supuso para mí conocer a personas en un terreno espiritual donde el 
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-7-issue-2-june-2013">
+        <a href="/es/index/articles_uf_news_online#volumen-7-número-2-junio-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 2, Junio 2013 — Índice</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-9-issue-4-dec-2015">
+        <a href="/es/index/articles_uf_news_online#volumen-9-número-4-diciembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 4, Dic. 2015 — Índice</span>
         </a>
         </td>
@@ -79,7 +79,7 @@ En el monitor: Marta Elders y Michael Zehr.
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-9-issue-4-dec-2015">
+        <a href="/es/index/articles_uf_news_online#volumen-9-número-4-diciembre-2015">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 9, Número 4, Dic. 2015 — Índice</span>
         </a>
         </td>

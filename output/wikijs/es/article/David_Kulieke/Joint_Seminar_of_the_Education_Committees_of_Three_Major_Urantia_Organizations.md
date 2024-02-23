@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-8-issue-3-sept-2014">
+        <a href="/es/index/articles_uf_news_online#volumen-8-número-3-sept-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 3, Sept. 2014 — Índice</span>
         </a>
         </td>
@@ -92,7 +92,7 @@ El 24 de julio, en la IC’14, los comités celebraron el taller que fue diseña
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-8-issue-3-sept-2014">
+        <a href="/es/index/articles_uf_news_online#volumen-8-número-3-sept-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 3, Sept. 2014 — Índice</span>
         </a>
         </td>

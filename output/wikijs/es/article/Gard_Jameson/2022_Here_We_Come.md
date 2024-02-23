@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-16-issue-1-jan-2022">
+        <a href="/es/index/articles_uf_news_online#volumen-16-número-1-enero-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, Ene. 2022 — Índice</span>
         </a>
         </td>
@@ -68,7 +68,7 @@ Damos las gracias por estas bendiciones y por todos los que viajan hacia un futu
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-16-issue-1-jan-2022">
+        <a href="/es/index/articles_uf_news_online#volumen-16-número-1-enero-2022">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 16, Número 1, Ene. 2022 — Índice</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-10-issue-3-sept-2016">
+        <a href="/es/index/articles_uf_news_online#volumen-10-número-3-sept-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 3, Sept. 2016 — Índice</span>
         </a>
         </td>
@@ -110,7 +110,7 @@ La junta recibió los siguientes informes: 1) informe del presidente, 2) informe
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-10-issue-3-sept-2016">
+        <a href="/es/index/articles_uf_news_online#volumen-10-número-3-sept-2016">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 10, Número 3, Sept. 2016 — Índice</span>
         </a>
         </td>

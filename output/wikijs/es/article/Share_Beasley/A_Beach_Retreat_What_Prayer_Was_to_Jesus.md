@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-8-issue-4-dec-2014">
+        <a href="/es/index/articles_uf_news_online#volumen-8-número-4-diciembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 4, Dic. 2014 — Índice</span>
         </a>
         </td>
@@ -75,7 +75,7 @@ Una alegría añadida a los encuentros íntimos, como el de nuestro retiro en la
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-8-issue-4-dec-2014">
+        <a href="/es/index/articles_uf_news_online#volumen-8-número-4-diciembre-2014">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 4, Dic. 2014 — Índice</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-3-issue-4-dec-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-4-diciembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 4, Dic. 2009 — Índice</span>
         </a>
         </td>
@@ -76,7 +76,7 @@ Compartir la Revelación Urantia por todo el mundo es una experiencia poderosa q
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-3-issue-4-dec-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-4-diciembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 4, Dic. 2009 — Índice</span>
         </a>
         </td>
