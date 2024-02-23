@@ -60,7 +60,9 @@ UBHS invites and urges local groups and readers of _The Urantia Book_ to partici
 
 1. Start talking about history and begin recording your personal history. Invite your study group to jot down its history. Record video interviews of your group members and preserve them for posterity.
 
-2. Search your files for documents, meeting minutes, pamphlets, records, films, photographs, recordings, videos, and correspondence that you want to be safeguarded.3. Donate your historical collection to UBHS. For information on how, visit http://www.ubhistory.org/UBHS/Support.html
+2. Search your files for documents, meeting minutes, pamphlets, records, films, photographs, recordings, videos, and correspondence that you want to be safeguarded.
+
+3. Donate your historical collection to UBHS. For information on how, visit http://www.ubhistory.org/UBHS/Support.html
 
 Participate in the goal of UBHS to collect, document, and preserve the historical legacy of the Urantia Book community.
 

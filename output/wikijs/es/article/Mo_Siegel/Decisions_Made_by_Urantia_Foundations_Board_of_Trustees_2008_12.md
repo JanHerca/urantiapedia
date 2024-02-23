@@ -34,7 +34,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-De Mo Siegel, presidente de la Fundación Urantia
+_De Mo Siegel, presidente de la Fundación Urantia_
 
 ## Versión audio en alemán
 
@@ -116,34 +116,33 @@ La Junta eligió a Mo Siegel como presidente de la Junta de Fideicomisarios de l
 
 <figure id="Figure_0" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_12/016.jpg">
-<figcaption><em>Jan Bernard</em></figcaption>
 </figure>
 
 <br style="clear:both;"/>
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2008_12/014.jpg">
 <figcaption><em>Jan Bernard</em></figcaption>
 </figure>
 
-<figure id="Figure_2" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2008_12/015.jpg">
 <figcaption><em>Marta Elders</em></figcaption>
 </figure>
 
-<figure id="Figure_3" class="image urantiapedia image-style-align-right">
+<figure id="Figure_3" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2008_12/013.jpg">
 <figcaption><em>Irmeli Ivalo-Sjölie</em></figcaption>
 </figure>
 
-<figure id="Figure_4" class="image urantiapedia image-style-align-right">
+<figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2008_12/012.jpg">
 <figcaption><em>Claire Mylanus</em></figcaption>
 </figure>
 
-<figure id="Figure_5" class="image urantiapedia image-style-align-right">
+<figure id="Figure_5" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2008_12/011.jpg">
-<figcaption><em>Olga López</em></figcaption>
+<figcaption><em>Olga Lopez</em></figcaption>
 </figure>
 
 <br style="clear:both;"/>

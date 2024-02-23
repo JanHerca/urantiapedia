@@ -16,13 +16,13 @@ dateCreated: 2023-8-29T10:55:6Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-17-issue-2-june-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 2, June 2023 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-17-issue-3-october-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 3, October 2023 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Georges_Michelson_Dupont/Remembering_Seppo_Kanerva">
-          <span class="pr-2">Remembering Seppo Kanerva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Belen_Asidao/The_Philippines_Energized_by_the_Spirit_of_Revelation">
+          <span class="pr-2">The Philippines—Energized by the Spirit of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -32,35 +32,34 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2023_06/004.jpg">
+<img src="/image/article/UF_News_Online/2023_10/004.jpg">
 </figure>
 
 ## Inside This Issue
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2023_06/002.jpg">
+<img src="/image/article/UF_News_Online/2023_10/001.jpg">
 </figure>
 
-- Remembering Seppo Kanerva—a Letter to a Brother, Friend, and Colleague
-- Updates from the April 2023 Trustee Meeting
-- “Spreading the Good News” Tour
-- Wikipedia and The Urantia Book
-- Remembering John Hales
-- Remembering Paula Padilla
-- What The Urantia Book Means to Me - Luis Costa
-- Mustard Seed Grants: Round 2 Opens on July 10
-- There is still time to register! IC23 - Urantia Book Fellowship
-- The Nature and Nurture of the Soul
-- Marriage and Family Symposium
+- The Philippines—Energized by the Spirit of Revelation
+- Updates from the July 2023 Trustee Meeting
+- Contagious Love—A Mustard Seed Grows in Nigeria
+- The Parliament of the World’s Religions
+- Remembering Nancy Johnson
+- What The Urantia Book Means to Me - Doug McKeever
+- Planned Giving
+- The Marriage and Family Adventure! An Online Symposium
+- Join a study group today!
+- 2024 Urantia Association International Conference - Baltimore
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2023_06/001.jpg">
+<img src="/image/article/UF_News_Online/2023_10/003.jpg">
 </figure>
 
-## Volume 17, Issue 2. June 2023
+## Volume 17, Issue 1. October 2023
 
 <figure id="Figure_4" class="image urantiapedia">
-<img src="/image/article/UF_News_Online/2023_06/019.jpg">
+<img src="/image/article/UF_News_Online/2023_10/030.jpg">
 </figure>
 
 Urantia Foundation
@@ -96,6 +95,16 @@ Cece Forrester, Brad Garner, Ashley Parratore, Jay Peregrine, Bob Solone, Joanne
 This is a Urantian &reg; publication
 
 
+<figure id="Figure_5" class="image urantiapedia">
+<img src="/image/article/UF_News_Online/2023_10/031.jpg">
+</figure>
+
+> Make us ever and increasingly like yourself
+> And at our end receive us into the eternal Paradise embrace.
+> Even so, in the name of the bestowal Son
+> And for the honor and glory of the Supreme Father.
+> 
+> [UB 144:5.104](/en/The_Urantia_Book/144#p5_104)
 
 ## References
 
@@ -108,13 +117,13 @@ This is a Urantian &reg; publication
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-17-issue-2-june-2023">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 2, June 2023 — Index</span>
+        <a href="/en/index/articles_uf_news_online#volume-17-issue-3-october-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, Issue 3, October 2023 — Index</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Georges_Michelson_Dupont/Remembering_Seppo_Kanerva">
-          <span class="pr-2">Remembering Seppo Kanerva</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/en/article/Belen_Asidao/The_Philippines_Energized_by_the_Spirit_of_Revelation">
+          <span class="pr-2">The Philippines—Energized by the Spirit of Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

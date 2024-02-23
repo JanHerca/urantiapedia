@@ -46,7 +46,7 @@ His words of resignation were, “I feel that I have given all that I was able t
 
 The board is greatly appreciative of the work Seppo did as a Trustee. All the people who have worked with him have a memory of a man loyal, bright, humble, hard-working and gentle. His balanced leadership greatly helped Urantia Foundation in its task to promote the teachings of _The Urantia Book_ all over the world and to improve relationships within _The Urantia Book_ community.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_09/001.jpg">
 </figure>
 

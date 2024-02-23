@@ -145,7 +145,7 @@ Te quiero con todo mi corazón<br>
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2009_09/051.jpg">
-<figcaption><em>Bert Cobb, his mule, and _El Libro de Urantia_</em></figcaption>
+<figcaption><em>Bert Cobb, his mule, and El Libro de Urantia</em></figcaption>
 </figure>
 
 

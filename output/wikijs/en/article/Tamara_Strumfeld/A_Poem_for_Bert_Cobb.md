@@ -145,7 +145,7 @@ I love you with all my heart<br>
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2009_09/051.jpg">
-<figcaption><em>Bert Cobb, his mule, and _The Urantia Book_</em></figcaption>
+<figcaption><em>Bert Cobb, his mule, and The Urantia Book</em></figcaption>
 </figure>
 
 

@@ -52,7 +52,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_09/049.jpg">
 </figure>
 
-“Education is the business of living; it must continue throughout a lifetime so that mankind may gradually experience the ascending levels of mortal wisdom.” _The Urantia Book_, Page 806 <a id="a54_187"></a>[UB 71:7.5](/en/The_Urantia_Book/71#p7_5)
+“Education is the business of living; it must continue throughout a lifetime so that mankind may gradually experience the ascending levels of mortal wisdom.” _The Urantia Book_, <a id="a54_187"></a>[UB 71:7.5](/en/The_Urantia_Book/71#p7_5)
 
 <br style="clear:both;"/>
 

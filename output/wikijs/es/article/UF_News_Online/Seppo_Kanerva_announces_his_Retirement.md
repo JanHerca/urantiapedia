@@ -46,7 +46,7 @@ Estas fueron sus palabras de renuncia: «Siento que he dado todo lo que podía d
 
 La junta aprecia enormemente el trabajo que Seppo ha hecho como fideicomisario. Todos los que han trabajado con él tienen el recuerdo de un hombre leal, brillante, humilde, trabajador incansable y amable. Su liderazgo equilibrado ha ayudado enormemente a la Fundación Urantia en su tarea de promover las enseñanzas del _Libro de Urantia_ en todo el mundo, y de mejorar las relaciones dentro de la comunidad del _Libro de Urantia_.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_09/001.jpg">
 </figure>
 
