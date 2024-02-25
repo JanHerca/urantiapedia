@@ -57,7 +57,7 @@ Portuguese CD | 2003 | Luiz Carlos Dolabella Chagas | O Livro de Urântia
 Lithuanian | 2004 | Algimantas Jokubènas | Urantijos Knyga
 Romanian CD | 2004 | Dan Sorin Chiaburu | Cartea Urantia
 German | 2005 | Urs Ruchti | Das Urantia Buch
-Italian | 2006 | Memo Z. | II Libro di Urantia
+Italian | 2006 | Memo Z. | Il Libro di Urantia
 Portuguese | 2008 | Luiz Carlos Dolabella Chagas | O Livro de Urântia
 Spanish EE | 2009 | Antonio Moya | _El Libro de Urantia_ Edición europea
 Estonian | 2010 | Meeli Kuura | Urantia Raamat

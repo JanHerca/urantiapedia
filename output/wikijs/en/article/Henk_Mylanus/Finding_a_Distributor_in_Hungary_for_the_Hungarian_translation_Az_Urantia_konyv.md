@@ -63,13 +63,13 @@ We decided to try a different approach and did an extensive Internet search for 
 
 We booked another flight to Budapest in May 2011, but disaster struck as I had a nearfatal accident. Any possibility for travel was now cancelled for quite a long time. Once again, our third attempt ended in a Force Majeure situation.
 
-More than a year later, in August 2012, we decided to drive to Budapest and visit the eight companies and try to negotiate a contract. Our fourth attempt! And “presto,” on the second day we came into contact with
+More than a year later, in August 2012, we decided to drive to Budapest and visit the eight companies and try to negotiate a contract. Our fourth attempt! And “presto,” on the second day we came into contact with Bioenergetic, an ideal partner because this publisher was interested in representing foreign publishers and making their distribution network available. Our second meeting took place one week later, and we signed a distribution contract.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2013_03/026.jpg">
 </figure>
 
-Bioenergetic, an ideal partner because this publisher was interested in representing foreign publishers and making their distribution network available. Our second meeting took place one week later, and we signed a distribution contract.
+
 
 We shipped several pallets of books to Bioenergetic, and they distributed the entire lot to about thirty-five clients. Book sales began on November 8, 2012, and by the end of December, a total of 160 copies of $A z$ Urantia könyv had sold mainly in Budapest, but also in neighboring countries like Slovakia.
 

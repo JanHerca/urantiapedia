@@ -3,7 +3,7 @@ title: "El libro de Urantia en Corea"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Urantia Foundation, Urantia Foundation News Online, article
+tags: Korea, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
