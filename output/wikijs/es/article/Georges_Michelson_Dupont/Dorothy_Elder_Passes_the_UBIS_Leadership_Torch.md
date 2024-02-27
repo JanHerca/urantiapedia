@@ -1,5 +1,5 @@
 ---
-title: "Dorothy Elder pasa el testigo 4 de la dirección de la UBIS"
+title: "Dorothy Elder pasa el testigo de la dirección de la UBIS"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

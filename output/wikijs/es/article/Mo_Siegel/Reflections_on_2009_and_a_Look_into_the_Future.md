@@ -1,5 +1,5 @@
 ---
-title: "Reflections on 2009 and a Look into the Future"
+title: "Reflexiones sobre 2009 y una mirada hacia el futuro"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

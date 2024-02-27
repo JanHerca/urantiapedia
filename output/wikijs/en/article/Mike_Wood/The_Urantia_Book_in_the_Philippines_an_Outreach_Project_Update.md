@@ -1,5 +1,5 @@
 ---
-title: "El libro de Urantia en Filipinas: novedades del proyecto de asistencia"
+title: "The Urantia Book in the Philippines: an Outreach Project Update"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -8,24 +8,24 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Mike Wood<br>© 2014 Urantia Foundation</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Mike Wood<br>© 2014 Fundación Urantia</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decisiones destacadas de la reunión de enero de la Junta de Fideicomisarios</span>
+        <a href="/es/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noteworthy Decisions from the January 2014 Board of Trustees Meeting</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-8-issue-1-march-2014">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Issue 1, March 2014 — Index</span>
+        <a href="/es/index/articles_uf_news_online#volumen-8-número-1-marzo-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, Marzo 2014 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
-          <span class="pr-2">La restauración del lugar de nacimiento de la Quinta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/es/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
+          <span class="pr-2">Restoring the Birthplace of the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -38,58 +38,59 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2014_03/009.jpg">
 </figure>
 
-_De Mike Wood, Overland Park (Kansas, Estados Unidos)_
+_By Mike Wood, Overland Park, Kansas, United States_
 
-Eugene Asidao y Nestor Nano han estado en Filipinas durante más de un mes distribuyendo ejemplares de _El libro de Urantia_ (donados por la Fundación Urantia y la Asociación Urantia Internacional) en bibliotecas, universidades, grupos de estudio y personas interesadas. Poco después de su llegada, se reunieron con Febby Marshall, que es una inspectora de policía que vive en Manila. La presentación llegó a través de un lector de _El libro de Urantia_ de Estados Unidos que leyó sobre el viaje de Eugene y Nestor en el número de diciembre de las Noticias en Línea de la Fundación Urantia. Febby estaba muy ilusionada por conocerles y ha estado ayudando en la logística del proyecto.
+Eugene Asidao and Nestor Nano have now been in the Philippines for more than a month distributing copies of _El Libro de Urantia_ (donated by Urantia Foundation and Urantia Association International) to libraries, universities, study groups, and interested individuals. Shortly after their arrival, they met Febby Marshall who is a police inspector living in Manila. The introduction came via a reader of _El Libro de Urantia_ from the United States who read about Eugene and Nestor's trip in the December issue of Urantia Foundation's News Online. Febby was excited to meet them and has been helping with project logistics.
 
-La Fundación Urantia ha recibido numerosos correos de bibliotecas y universidades de la Gran Manila agradeciendo a la Fundación la donación de _El libro de Urantia_. Hasta ahora, la lista está compuesta por seis bibliotecas universitarias con catorce sucursales, que incluyen la Loyola School of Theology, el National College of Business and Arts y dos redes de bibliotecas públicas con un total de veinticinco sucursales.
+Fundación Urantia has received numerous emails from libraries and universities in the Greater Manila area thanking the Foundation for donating _El Libro de Urantia_. The list thus far comprises six university libraries with fourteen branches, including the Loyola School of Theology, the National College of Business and Arts, and two public library systems with a total of twenty-five branches.
 
-A su regreso, estaba deseando escuchar el relato de Eugene y Nestor sobre su aventura de siembra de _El libro de Urantia_ en Filipinas. Aunque quizá no sepamos nunca el impacto total de su trabajo, me recordó la “parábola del sembrador”.
+Upon their return, I look forward to hearing Eugene and Nestor recount the details of their adventure seeding _El Libro de Urantia_ in the Philippines. Although we may never know the full impact of their endeavors, I am reminded of “the parable of the sower.”
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2014_03/012.jpg">
 </figure>
 
-> Un sembrador salió a sembrar y sucedió que mientras sembraba, algunas semillas cayeron al borde del camino… Otras semillas cayeron en lugares rocosos... Pero otras semillas cayeron en una buena tierra, y cuando crecieron, algunas produjeron treinta, otras sesenta y otras cien granos. <a id="a53_262"></a>[UB 151:1.2](/en/The_Urantia_Book/151#p1_2)
+> A sower went forth to sow, and it came to pass as he sowed that some seed fell by the wayside..... Other seed fell upon the rocky places.... Still other seed fell upon good ground and, growing, yielded, some thirtyfold, some sixtyfold, and some a hundredfold. <a id="a53_262"></a>[UB 151:1.2](/en/The_Urantia_Book/151#p1_2)
 
-Nadie pidió a Eugene y Nestor que llevaran a cabo este proyecto; fue una idea totalmente suya. Hicieron gestiones para tomarse unas vacaciones del trabajo, pagaron su propio transporte y el envío de los libros. La única ayuda que pidieron fue para obtener ejemplares de _El libro de Urantia_.
+No one asked Eugene and Nestor to undertake this project; it was entirely their idea. They made arrangements to take the time off of work, they paid for their own transportation, and they paid for the shipping of the books. They only asked for help in obtaining copies of _El Libro de Urantia_.
 
-Mientras empaquetábamos 160 Libros de Urantia en noviembre, Eugene y Nestor nos dijeron que no tenían ni idea de cómo se desarrollaría este proyecto. Sólo sabían que querían compartir _El libro de Urantia_ y sus enseñanzas con la gente de su tierra natal.
+As we boxed up 160 Urantia Books in November, Eugene and Nestor told us that they had no idea how this project would unfold. They just knew that they wanted to share with the people of their homeland _El Libro de Urantia_ and its teachings.
 
-Su servicio de asistencia me trae a la mente una de mis afirmaciones de mota favoritas:
+Their outreach service brings to mind one of my favorite morontia mota statements:
 
-> Los débiles se conforman con los propósitos, pero los fuertes actúan. La vida sólo es el trabajo de un día—hacedlo bien. El acto es nuestro; las consecuencias pertenecen a Dios. <a id="a61_135"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
+> The weak indulge in resolutions, but the strong act. Life is but a day's work — do it well. The act is ours; the consequences God's. <a id="a61_135"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2014_03/015.jpg">
 </figure>
 
-## References
+## Referencias
 
-- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
-- [This article](https://www.urantia.org/es/news/2014-03/el-libro-de-urantia-en-filipinas-novedades-del-proyecto-de-asistencia)
+- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [Este artículo](https://www.urantia.org/news/2014-03/urantia-book-in-philippines-outreach-project-update)
 
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decisiones destacadas de la reunión de enero de la Junta de Fideicomisarios</span>
+        <a href="/es/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noteworthy Decisions from the January 2014 Board of Trustees Meeting</span>
         </a>
         </td>
         <td>
-        <a href="/en/index/articles_uf_news_online#volume-8-issue-1-march-2014">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 8, Issue 1, March 2014 — Index</span>
+        <a href="/es/index/articles_uf_news_online#volumen-8-número-1-marzo-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 8, Número 1, Marzo 2014 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/en/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
-          <span class="pr-2">La restauración del lugar de nacimiento de la Quinta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/es/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
+          <span class="pr-2">Restoring the Birthplace of the Fifth Epochal Revelation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+

@@ -1,5 +1,5 @@
 ---
-title: "Noteworthy Decisions from the April 2010 Board Meeting"
+title: "Decisiones destacadas de la reunión de la junta directiva de abril de 2010"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

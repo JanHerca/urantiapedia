@@ -55,8 +55,9 @@ A summary of each of the questions asked to the 28 ~T-Rs is as follows.
 
 The background of the T-Rs is related to the language that the books have been translated into. What follows is the number and percent of T-Rs in each area.
 
-| European | 19 | 68\% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| European | 19 | 68\% |
 | Asian | 5 | 18\% (Chinese, Indonesian, Japanese, Korean) |
 | French Canadian | 1 | 3.5\% |
 | Cuban-European | 1 | 3.5\% Spanish |
@@ -67,8 +68,9 @@ The background of the T-Rs is related to the language that the books have been t
 
 All of T-Rs speak the target language of their translation as their mother tongue. In addition to their target language, the following shows the number and percent of T-Rs speaking languages other than their mother tongue and English.
 
-| Speaks 10 other languages | 1 | 3.5% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| Speaks 10 other languages | 1 | 3.5% |
 | Speaks 5 other languages | 1 | 3.5% |
 | Speaks 4 other languages | 1 | 3.5% |
 | Speaks 3 other languages | 2 | 7% |
@@ -105,8 +107,9 @@ TOEFL stands for Test of English as a Foreign Language. TOEFL is a standardized 
 
 > Nearly 80\% of the Translators-Revisers were truth seekers interested in spirituality prior to being exposed to _The Urantia Book_.
 
-| TOEFEL | 4 | 14\% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| TOEFEL | 4 | 14\% |
 | Ph.D. or equivalent in the English language | 5 | 18\% |
 
 ## F. Mastery of Mother Tongue and English

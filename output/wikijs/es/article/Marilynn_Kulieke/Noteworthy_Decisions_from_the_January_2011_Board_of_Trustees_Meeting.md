@@ -1,5 +1,5 @@
 ---
-title: "Noteworthy Decisions from the January 2011 Board of Trustees Meeting"
+title: "Decisiones Destacadas De La Reunión De Enero De La Junta - 2011"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

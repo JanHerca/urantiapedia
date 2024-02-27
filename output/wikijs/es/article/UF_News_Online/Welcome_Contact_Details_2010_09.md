@@ -38,8 +38,8 @@ dateCreated: 2023-8-29T10:55:6Z
 ## En este número
 
 - Informe del presidente
-- Decisiones destacadas de la 3 reunión de julio de la Junta
-- Dorothy Elder pasa el testigo 4 de la dirección de la UBIS
+- Decisiones destacadas de la reunión de julio de la Junta
+- Dorothy Elder pasa el testigo de la dirección de la UBIS
 - Indagación apreciativa para los grupos de estudio
 - Grupos de estudio: nuevos pensamientos de un lector veterano
 - Seguimiento de la colocación de Libros de Urantia en bibliotecas alternativas

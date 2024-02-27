@@ -1,5 +1,5 @@
 ---
-title: "The Age of Wonder"
+title: "La Era de las Maravillas"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -25,7 +25,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/es/article/Marilynn_Kulieke/Noteworthy_Decisions_from_the_January_2011_Board_of_Trustees_Meeting">
-          <span class="pr-2">Noteworthy Decisions from the January 2011 Board of Trustees Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Decisiones Destacadas De La Reunión De Enero De La Junta - 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -34,28 +34,28 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-_By Mo Siegel, President, Urantia Foundation, Boulder, Colorado, USA_
+_De Mo Siegel, presidente de la Fundación Urantia, Boulder (Colorado, EEUU)_
 
-The clock read 11 pm, yet my brain and eyes said “wide awake.” I had to be at work early the next morning, so the best way to fall asleep was either to read or watch the science channel. So on went the TV to the science channel featuring an hour-long show explaining the history and destiny of galaxies.
+El reloj marcaba las 11 de la noche, y aún así mi cerebro y mis ojos me decían “no te duermas”. Tenía que ir a trabajar muy temprano a la mañana siguiente, así que la mejor manera de dormir era leer o ver el canal de ciencia. Así que fui a la TV para ver un programa de una hora en el canal de ciencia, que explicaba la historia y el destino de las galaxias.
 
-There, in 3D and high definition, were brightly colored photos from the Hubble telescope: red star clouds, swirling blue and green nebulae, and a vast array of galaxies portraying an enormously large universe previously unimagined by our starry-eyed ancestors.
+Allí, en 3D y alta definición, se mostraban las fotos brillantemente coloreadas del telescopio Hubble: nubes estelares rojas, nebulosas en remolino de color azul y verde, y un inmenso despliegue de galaxias que representan un universo enormemente extenso, que nuestros ancestros soñadores no pudieron siquiera imaginar.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2011_03/001.jpg">
-<figcaption><em>Light from the center of our superuniverse<br>From the Hubble- the center of the Milky Way</em></figcaption>
+<figcaption><em>Luz del centro del universo. Desde el Hubble, el centro de la Vía Láctea.</em></figcaption>
 </figure>
 
-For 45 minutes I lay in bed watching, mesmerized by the beauty and promise of the heavens. Then a panoramic infrared photo of the Milky Way galaxy appeared, showing a thick cluster of countless stars. At the center of the galaxy was a brilliant zone of light that can possibly be explained as the luminosity emanating from masses of suns in close proximity to the headquarter worlds of Orvonton, our superuniverse. As I watched I felt in awe of the grandeur of the Divine Creator.
+Durante 45 minutos estuve tumbado en la cama viendo la televisión, fascinado por la belleza y la promesa de los cielos. Entonces apareció una foto panorámica en infrarrojo de la Vía Láctea, mostrando un grueso cúmulo de innumerables estrellas. En el centro de la galaxia había una zona brillante de luz que podría explicarse como la luminosidad emanada por soles muy próximos a los mundos sede de Orvonton, nuestro superuniverso. A medida que lo veía me sentía asombrado por la grandeza del Divino Creador.
 
-Then the shoe of disaster dropped. The show's narrator described the “certain and inevitable” destruction of the Milky Way galaxy when it someday collides with the Andromeda galaxy. He explained that life in this part of the universe would come to a fiery end.
+Después, cayó el zapato del desastre. El narrador del programa describía la destrucción “segura e inevitable” de la galaxia de la Vía Láctea, cuando colisione un día con la galaxia de Andrómeda. Explicaba que la vida en esta parte del universo llegaría a su ardiente fin.
 
-At that point I turned off the TV and thought about the overcontrol of the Seven Master Spirits who are, in an overly simplified but easily conceptualized way, the embodiment of the seven superuniverses. There is no way the Master Spirits would let that grim destruction happen. Then I pictured 100,000 Creative Mother Spirits in our superuniverse lovingly and actively protecting the worlds within the boundaries of their beings. I smiled inside knowing, from information gleaned from _El Libro de Urantia_, that the Milky Way galaxy and al its inhabitants are safe and secure. What the astronomers did not factor in was the truth that the universe is lovingly governed by the Paradise Father and the well-nigh infinite heavenly hosts. “In God, we move, live, and have our being.” Instead of a collision between two galaxies that would destroy life in the Milky Way, we head into a distant time when the Supreme Being will become fully manifest, and unification, not destruction, will be the destiny of this universe age. With these certainties in mind, off went the lights and I fell asleep.
+En ese momento, apagué la televisión y pensé en el supercontrol de los Siete Espíritus Maestros, que son, de una manera demasiado simplificada pero fácilmente conceptualizada, la personificación de los siete superuniversos. ¡Es imposible que los Espíritus Maestros permitan que se dé esa deprimente destrucción! Entonces imaginé los 100.000 Espíritus Maternos Creativos de nuestro superuniverso, protegiendo amorosa y activamente los mundos dentro de sus límites. Sonreí por dentro al saber, a partir de la información extraída de _El libro de Urantia_, que la galaxia de la Vía Láctea y todos sus habitantes están seguros y a salvo. Lo que los astrónomos no han considerado es la verdad de que el universo está gobernado amorosamente por el Padre Paradisiaco y las casi infinitas huestes celestiales. “En Dios nos movemos, vivimos y tenemos nuestro ser”. En lugar de una colisión entre dos galaxias, que destruiría la vida en la Vía Láctea, nos dirigimos a un tiempo lejano en el que el Ser Supremo se manifestará completamente, y la unificación, no la destrucción, será el destino de esta edad universal. Con estas certezas en mente, apagué las luces y me quedé dormido.
 
-We live in an age of wonder, and nothing is more wonderful than the enlightened teachings of _El Libro de Urantia_. In 2015 the new, super-powerful Webb telescope will replace the Hubble. What wonders will the Webb telescope reveal that will dazzle our imagination? And how shall we understand such wonders? I venture to say that understanding lies within the pages of _El Libro de Urantia_. The spiritual vision the revelators portray dissolves our fear of the unknown and replaces it with faith in a friendly and purposeful God-centered universe.
+Vivimos en una era de maravillas, y nada es más maravilloso que las enseñanzas esclarecedoras de _El libro de Urantia_. En 2015 el nuevo y superpoderoso telescopio Webb sustituirá al Hubble. ¿Qué maravillas revelará el telescopio Webb que deslumbren nuestra imaginación? ¿Y cómo comprenderemos esas maravillas? Me atrevo a decir que la comprensión está en las páginas de _El libro de Urantia_. La visión espiritual que los reveladores describen disipa nuestro miedo a lo desconocido y lo sustituye por la fe en un universo amistoso e intencionado, cuyo centro es Dios.
 
-We are so blessed to be the early pioneers of the Fifth Epochal Revelation. Thank God for _El Libro de Urantia_!
+Tenemos la gran suerte de ser los pioneros de la quinta revelación de época. ¡Doy gracias a Dios por _El libro de Urantia_!
 
-> UNIFICATION, NOT DESTRUCTION, WILL BE THE DESTINY OF THIS UNIVERSE AGE.
+> LA UNIFICACIÓN, NO LA DESTRUCCIÓN, SERÁ EL DESTINO DE ESTA ERA DEL UNIVERSO.
 
 
 ## Referencias
@@ -79,7 +79,7 @@ We are so blessed to be the early pioneers of the Fifth Epochal Revelation. Than
         </td>
         <td>
         <a href="/es/article/Marilynn_Kulieke/Noteworthy_Decisions_from_the_January_2011_Board_of_Trustees_Meeting">
-          <span class="pr-2">Noteworthy Decisions from the January 2011 Board of Trustees Meeting</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Decisiones Destacadas De La Reunión De Enero De La Junta - 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
