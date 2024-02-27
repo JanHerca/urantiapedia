@@ -40,7 +40,7 @@ La 'Naturaleza del cultismo' (<a id="a38_30"></a>[LU 87:7.1](/es/The_Urantia_Boo
 
 La misma sección señala que el culto cristiano primitivo fue el más eficaz, atractivo y duradero jamás concebido o ideado, y luego nos informa que:
 
-> «_e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado...basado en el concepto de la Paternidad de Dios y estar cargado del poderoso ideal de la fraternidad de los hombres._» (<a id="a42_230"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
+> «_e incluso la nueva exposición de la religión de Jesús debe desarrollar un simbolismo nuevo y apropiado...basado en el concepto de la Paternidad de Dios y estar cargado del poderoso ideal de la fraternidad de los hombres._» (<a id="a42_228"></a>[LU 87:7.6](/es/The_Urantia_Book/87#p7_6))
 
 La Declaración de Confianza que creó la Fundación Urantia proclama que los objetivos principales son promover las verdaderas enseñanzas de Jesús, la Paternidad de Dios y la Hermandad del Hombre a través del «fomento de una religión, una filosofía y una cosmología...»
 

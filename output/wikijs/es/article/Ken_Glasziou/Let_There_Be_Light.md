@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-> «La idea de Dios como Padre verdadero y amoroso es el único concepto que Jesús enseñó. Una vez que captáis esta idea, debéis, con toda coherencia, abandonar por completo y de manera inmediata todas esas nociones primitivas sobre Dios... El amor infinito de Dios ocupa el primer lugar en la naturaleza divina.» (<a id="a33_315"></a>[LU 188:4.8](/es/The_Urantia_Book/188#p4_8))
+> «La idea de Dios como Padre verdadero y amoroso es el único concepto que Jesús enseñó. Una vez que captáis esta idea, debéis, con toda coherencia, abandonar por completo y de manera inmediata todas esas nociones primitivas sobre Dios... El amor infinito de Dios ocupa el primer lugar en la naturaleza divina.» (<a id="a33_313"></a>[LU 188:4.8](/es/The_Urantia_Book/188#p4_8))
 
 Esta declaración puede introducir uno de los conceptos más importantes en _El Libro de Urantia_ para las necesidades actuales de nuestro planeta.
 

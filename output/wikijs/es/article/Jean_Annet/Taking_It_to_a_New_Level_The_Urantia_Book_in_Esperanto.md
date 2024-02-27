@@ -47,7 +47,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Jean Annet (Namur, Bélgica) y Martin Benoit (Québec, Canadá)_
 
-> Ningún mundo evolutivo puede esperar progresar más allá de la primera etapa del establecimiento en la luz hasta que no haya alcanzado el objetivo de un solo idioma, una sola religión y una sola filosofía. El hecho de poseer una sola raza facilita enormemente esta consecución, pero la existencia de numerosos pueblos en Urantia no impide que se alcancen unos estados más elevados. <a id="a49_299"></a>[LU 55:3.22](/es/The_Urantia_Book/55#p3_22)
+> Ningún mundo evolutivo puede esperar progresar más allá de la primera etapa del establecimiento en la luz hasta que no haya alcanzado el objetivo de un solo idioma, una sola religión y una sola filosofía. El hecho de poseer una sola raza facilita enormemente esta consecución, pero la existencia de numerosos pueblos en Urantia no impide que se alcancen unos estados más elevados. <a id="a49_383"></a>[LU 55:3.22](/es/The_Urantia_Book/55#p3_22)
 
 Como _El libro de Urantia_ ya ha sido traducido a más de 20 idiomas, es el momento apropiado para traducirlo al esperanto, el idioma creado más importante del mundo. Ya ha pasado un año desde que recibimos la aprobación de la Fundación, y hemos comenzado una empresa gigantesca que nos mantendrá ocupados en los años por venir.
 

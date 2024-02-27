@@ -42,7 +42,7 @@ _De Marilynn Kulieke, vicepresidenta de la Fundación Urantia, Illinois (Estados
 
 _Nota de la redacción: el artículo de Marilynn está basado en una presentación hecha por el comité de Traducciones de la Fundación Urantia, entre cuyos miembros están Minoo Claire, Víctor García Bory, Georges Michelson-Dupont, Marilynn Kulieke, Henk Mylanus, Jay Peregrine y Tamara Strumfeld_
 
-En la primera página de _El libro de Urantia_, el prólogo comienza con una declaración sobre la pobreza conceptual causada por el significado inadecuado de los términos usados en nuestro mundo. La traducción original de los Documentos Urantia de las lenguas cósmicas al inglés dependía del uso de muchos de estos términos confusos para presentar conceptos ampliados y verdades avanzadas para «expandir la consciencia cósmica y elevar la percepción espiritual». <a id="a44_414"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2) El Consejero Divino deja claro que el lenguaje es la clave para comunicar estas numerosas ideas y conceptos nuevos.
+En la primera página de _El libro de Urantia_, el prólogo comienza con una declaración sobre la pobreza conceptual causada por el significado inadecuado de los términos usados en nuestro mundo. La traducción original de los Documentos Urantia de las lenguas cósmicas al inglés dependía del uso de muchos de estos términos confusos para presentar conceptos ampliados y verdades avanzadas para «expandir la consciencia cósmica y elevar la percepción espiritual». <a id="a44_461"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2) El Consejero Divino deja claro que el lenguaje es la clave para comunicar estas numerosas ideas y conceptos nuevos.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
@@ -72,7 +72,7 @@ Durante este periodo se evalúan las condiciones necesarias para crear una tradu
 
 Consideren los desafíos de traducción a los que los mismos reveladores reconocen enfrentarse:
 
-En nuestro esfuerzo por expandir la consciencia cósmica y elevar la percepción espiritual, es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. Solo estamos autorizados a introducir términos nuevos cuando la terminología inglesa no sea capaz de transmitir el nuevo concepto que queremos representar, ni siquiera parcialmente o incluso con cierta distorsión de su significado. <a id="a80_110"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2)
+En nuestro esfuerzo por expandir la consciencia cósmica y elevar la percepción espiritual, es extremadamente difícil presentar conceptos ampliados y una verdad avanzada cuando estamos restringidos al uso de un lenguaje circunscrito del mundo. Sin embargo, tenemos el mandato de hacer todos los esfuerzos posibles para transmitir nuestros significados utilizando los símbolos verbales de la lengua inglesa. Solo estamos autorizados a introducir términos nuevos cuando la terminología inglesa no sea capaz de transmitir el nuevo concepto que queremos representar, ni siquiera parcialmente o incluso con cierta distorsión de su significado. <a id="a74_638"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2)
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2022_10/013.jpg">
@@ -110,7 +110,7 @@ Al final de esta fase, el suelo se repone y los nutrientes son suficientes. El a
 
 ## Y unos 40 años después…
 
-La civilización depende del idioma para su propagación. Las lenguas vivas y en vías de crecimiento aseguran la expansión de ideas y planes civilizados. Durante las primeras edades se hicieron avances importantes en el idioma. Hoy hay una gran necesidad de nuevos desarrollos lingüísticos para facilitar la expresión del pensamiento que evoluciona. <a id="a116_312"></a>[LU 81:6.16](/es/The_Urantia_Book/81#p6_16)
+La civilización depende del idioma para su propagación. Las lenguas vivas y en vías de crecimiento aseguran la expansión de ideas y planes civilizados. Durante las primeras edades se hicieron avances importantes en el idioma. Hoy hay una gran necesidad de nuevos desarrollos lingüísticos para facilitar la expresión del pensamiento que evoluciona. <a id="a112_348"></a>[LU 81:6.16](/es/The_Urantia_Book/81#p6_16)
 
 
 ## Referencias

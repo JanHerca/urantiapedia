@@ -44,7 +44,7 @@ _Nota de la redacción: los traductores de_ El libro de Urantia _suelen servir c
 
 [https://www.urantia.org/news/1998-05/het-urantia-boek-dutch-translation](https://www.urantia.org/news/1998-05/het-urantia-boek-dutch-translation)_
 
-¿Qué es un gran maestro? _El libro de Urantia_ nos dice que Jesús era «un educador y hermano mayor sabio, paciente, comprensivo y eficaz» <a id="a46_125"></a>[LU 124:5.6](/es/The_Urantia_Book/124#p5_6) Esta descripción de Jesús se podría aplicar también a mis maestros: Henk y Baukje Begemann.
+¿Qué es un gran maestro? _El libro de Urantia_ nos dice que Jesús era «un educador y hermano mayor sabio, paciente, comprensivo y eficaz» <a id="a46_138"></a>[LU 124:5.6](/es/The_Urantia_Book/124#p5_6) Esta descripción de Jesús se podría aplicar también a mis maestros: Henk y Baukje Begemann.
 
 Eran holandeses, y nos conocimos en 1978. Estudié con ellos hasta 1987, y después seguí con Baukje tras el fallecimiento de Henk. Fue una bendición que durara más de 15 años.
 

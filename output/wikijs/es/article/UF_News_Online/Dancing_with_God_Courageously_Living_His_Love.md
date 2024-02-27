@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Del jueves 13 de septiembre por la noche al domingo 16 de septiembre de 2018
 
-Hagan las maletas. «¡Qué aventura! ¡Qué gesta!» <a id="a37_52"></a>[LU 112:7.18](/es/The_Urantia_Book/112#p7_18)
+Hagan las maletas. «¡Qué aventura! ¡Qué gesta!» <a id="a37_48"></a>[LU 112:7.18](/es/The_Urantia_Book/112#p7_18)
 
 Con el anuncio del próximo de la serie de retiros de mujeres en la Fundación Urantia, el equipo de facilitadoras de las Hijas de Dios (Katharina Becker, Doreen Heyne, Carolyn Prentice y Line St-Pierre) las invita a pasar un fin de semana íntimo, vivencial y divertido.
 

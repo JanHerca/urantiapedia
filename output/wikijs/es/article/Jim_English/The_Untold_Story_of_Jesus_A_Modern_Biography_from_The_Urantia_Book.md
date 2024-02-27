@@ -43,7 +43,7 @@ _De Jim English (California, Estados Unidos)_
 _Nota de la redacción: esta obra es la segunda publicación de Urantia Press, el sello editorial de la Fundación Urantia. Tenemos el placer de anunciar que pronto estará disponible._
 <br style="clear:both;"/>
 
-> ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! <a id="a45_232"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2)
+> ¡Qué servicio trascendente prestaría la presente revelación si, a través de ella, el Hijo del Hombre fuera rescatado de la tumba de la teología tradicional, y fuera presentado como el Jesús vivo a la iglesia que lleva su nombre y a todas las demás religiones! <a id="a45_262"></a>[LU 196:1.2](/es/The_Urantia_Book/196#p1_2)
 
 Juan Zebedeo concibió el último de los cuatro evangelios unos 70 años después de ver a su Señor y Maestro en la carne. Al ver cuánto se había omitido en los registros anteriores, patrocinó lo que iba a ser la primera historia no contada de Jesús. Su trabajo preservó acontecimientos y enseñanzas importantes e incluso trascendentales que de otro modo se habrían perdido.
 
@@ -78,7 +78,7 @@ El equipo trabajó durante los dos últimos años y entregó lo siguiente:
 - Texto preliminar y epílogo.
 - Arte clásico y pinturas autorizadas de historias y enseñanzas familiares.
 
-Se encargaron unas 10 pinturas durante este periodo, no solo para representar historias no contadas, sino para retratar con fidelidad escenas que se habían representado anteriormente de manera errónea. En este contexto debería señalarse que toda imagen de Jesús tiene la dificultad intrínseca de que quizá no encaje en la noción preconcebida del espectador sobre cuál sería su aspecto. Proporcionamos a los artistas información relevante de los documentos sobre su linaje y entorno, pero al final ellos pintaron de acuerdo con sus propias interpretaciones. Respetamos sus licencias artísticas pues, como sabemos, «La elevada misión de cualquier arte es anunciar… una realidad universal superior, cristalizar las emociones del tiempo en el pensamiento de la eternidad». <a id="a80_691"></a>[LU 48:7.23](/es/The_Urantia_Book/48#p7_23)
+Se encargaron unas 10 pinturas durante este periodo, no solo para representar historias no contadas, sino para retratar con fidelidad escenas que se habían representado anteriormente de manera errónea. En este contexto debería señalarse que toda imagen de Jesús tiene la dificultad intrínseca de que quizá no encaje en la noción preconcebida del espectador sobre cuál sería su aspecto. Proporcionamos a los artistas información relevante de los documentos sobre su linaje y entorno, pero al final ellos pintaron de acuerdo con sus propias interpretaciones. Respetamos sus licencias artísticas pues, como sabemos, «La elevada misión de cualquier arte es anunciar… una realidad universal superior, cristalizar las emociones del tiempo en el pensamiento de la eternidad». <a id="a80_769"></a>[LU 48:7.23](/es/The_Urantia_Book/48#p7_23)
 <br style="clear:both;"/>
 
 ## Producción

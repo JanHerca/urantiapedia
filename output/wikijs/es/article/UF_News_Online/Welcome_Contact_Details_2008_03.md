@@ -53,7 +53,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_03/046.jpg">
 </figure>
 
-_“El corazón mismo de la oración que enseñó a sus discípulos fue ‘venga tu reino; hágase tu voluntad’.»_ _El Libro de Urantia_, <a id="a55_127"></a>[LU 196:0.8](/es/The_Urantia_Book/196#p0_8)
+_“El corazón mismo de la oración que enseñó a sus discípulos fue ‘venga tu reino; hágase tu voluntad’.»_ _El Libro de Urantia_, <a id="a55_128"></a>[LU 196:0.8](/es/The_Urantia_Book/196#p0_8)
 
 <br style="clear:both;"/>
 

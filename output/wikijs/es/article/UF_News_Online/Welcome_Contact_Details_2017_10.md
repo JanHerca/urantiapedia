@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2017_10/048.jpg">
 </figure>
 
-«El que cree en este evangelio, no solamente cree en mí, sino en Aquel que me ha enviado.» Jesus, _El Libro de Urantia_, <a id="a58_108"></a>[LU 174:5.7](/es/The_Urantia_Book/174#p5_7)
+«El que cree en este evangelio, no solamente cree en mí, sino en Aquel que me ha enviado.» Jesus, _El Libro de Urantia_, <a id="a58_121"></a>[LU 174:5.7](/es/The_Urantia_Book/174#p5_7)
 <br style="clear:both;"/>
 
 

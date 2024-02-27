@@ -64,7 +64,7 @@ Estos cursos coincidieron con un período muy difícil de mi vida. Me preguntaba
 
 Una de las preguntas que nos hicieron en un curso nos pedía que compartiéramos nuestras dificultades, y un hermano compartió sus dificultades para conseguir agua caliente para el baño porque vivía en el último piso. Tuve problemas para comer lo suficiente y, después de leer lo que compartió, se lo conté. A partir de ese momento, muchos en la clase pudieron poner sus dificultades en una mejor perspectiva. Uno de ellos me escribió un mensaje con este pasaje:
 
-> “La experiencia religiosa personal y espiritual es un solvente eficaz para la mayoría de las dificultades mortales; es un clasificador, evaluador y ajustador eficaz de todos los problemas humanos. La religión no elimina ni destruye los problemas humanos, pero sí los disuelve, los absorbe, los ilumina y los trasciende”. <a id="a66_287"></a>[LU 196:3.1](/es/The_Urantia_Book/196#p3_1)
+> “La experiencia religiosa personal y espiritual es un solvente eficaz para la mayoría de las dificultades mortales; es un clasificador, evaluador y ajustador eficaz de todos los problemas humanos. La religión no elimina ni destruye los problemas humanos, pero sí los disuelve, los absorbe, los ilumina y los trasciende”. <a id="a66_323"></a>[LU 196:3.1](/es/The_Urantia_Book/196#p3_1)
 
 Ni siquiera hoy pretendo comprender completamente el significado de ese pasaje. Pero lo que puedo decirles es que gracias al compartir de mi hermano, miré la situación que estaba viviendo con una perspectiva diferente. Honestamente me posicioné como un hijo de Dios y decidí enfrentar con valentía estas dificultades.
 
@@ -72,7 +72,7 @@ Este mismo hermano me envió una invitación por Skype y luego pudimos hablar y 
 
 > “Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen en modo alguno el concepto de soberanía universal de Dios. Toda vida de criatura evolutiva está plagada de ciertas inevitabilidades. Considera lo siguiente:"
 >
-> 1. ¿Es deseable el coraje y la fuerza de carácter? Entonces el hombre debe ser criado en un entorno que requiera luchar contra las dificultades y reaccionar ante las decepciones." <a id="a74_169"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5)
+> 1. ¿Es deseable el coraje y la fuerza de carácter? Entonces el hombre debe ser criado en un entorno que requiera luchar contra las dificultades y reaccionar ante las decepciones." <a id="a74_182"></a>[LU 3:5.5](/es/The_Urantia_Book/3#p5_5)
 
 Ahora encuentro que mi vida personal florece a medida que avanzo con valentía hacia mis metas; Sigo siendo honesto y sincero hacia Dios y hacia mí mismo.
 

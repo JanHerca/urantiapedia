@@ -49,9 +49,9 @@ Los estudiantes de _El libro de Urantia_ saben que los reveladores hicieron un u
 <img src="/image/article/UF_News_Online/2016_12/014.jpg">
 </figure>
 
-En el Prólogo, un Consejero Divino de Orvonton declara: «En consecuencia, para poder presentar a Dios y a sus asociados del universo, hemos seleccionado como base de estos documentos más de mil conceptos humanos que representan el conocimiento planetario más elevado y avanzado sobre los valores espirituales y los significados universales.» <a id="a51_328"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12)
+En el Prólogo, un Consejero Divino de Orvonton declara: «En consecuencia, para poder presentar a Dios y a sus asociados del universo, hemos seleccionado como base de estos documentos más de mil conceptos humanos que representan el conocimiento planetario más elevado y avanzado sobre los valores espirituales y los significados universales.» <a id="a51_342"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12)
 
-De nuevo, en los agradecimientos de la cuarta parte, un intermedio secundario afirma: «En la medida de lo posible, he obtenido mis informaciones de fuentes puramente humanas.» <a id="a53_148"></a>[LU 121:8.12](/es/The_Urantia_Book/121#p8_12)
+De nuevo, en los agradecimientos de la cuarta parte, un intermedio secundario afirma: «En la medida de lo posible, he obtenido mis informaciones de fuentes puramente humanas.» <a id="a53_176"></a>[LU 121:8.12](/es/The_Urantia_Book/121#p8_12)
 
 La Fundación Urantia ha recibido una donación de una extensa biblioteca de libros «de fuentes humanas» y otros materiales relacionados. Esta colección se aloja en una biblioteca recién construida del sótano del 533 W Diversey Parkway en Chicago. La biblioteca es una instalación única de educación e investigación para los estudiantes de _El libro de Urantia_. Los visitantes del 533 pueden ahora examinar por ellos mismos la naturaleza exacta de la relación de las «fuentes humanas» con el contenido de _El libro de Urantia_.
 

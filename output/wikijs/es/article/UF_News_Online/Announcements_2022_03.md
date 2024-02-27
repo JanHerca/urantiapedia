@@ -63,7 +63,7 @@ en el
 Oak Brook Hills Resort and Conference Center  
 3500 Midwest Rd, Oak Brook, Illinois
 
-Vengan con nosotros a aprender sobre «uno de los personajes más extraordinarios jamás relacionados con la historia de Urantia». <a id="a63_133"></a>[LU 93:10.11](/es/The_Urantia_Book/93#p10_11)
+Vengan con nosotros a aprender sobre «uno de los personajes más extraordinarios jamás relacionados con la historia de Urantia». <a id="a65_128"></a>[LU 93:10.11](/es/The_Urantia_Book/93#p10_11)
 
 Fue hace 4 000 años cuando Maquiventa Melquisedec se «personalizó» heroicamente en la tierra en un tiempo peligroso en el que la verdad revelada estuvo al borde de la extinción.
 

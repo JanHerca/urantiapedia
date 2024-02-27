@@ -76,7 +76,7 @@ Creo que también es interesante ver que muchas de estas ideas reaparecen en las
 
 > «Los que aman a sus semejantes y tienen un corazón puro verán a Dios. Dios nunca olvida la sinceridad. Guiará a los sinceros de corazón hasta la verdad, porque Dios es la verdad». <a id="a76_182"></a>[[LU 131:1.6](/es/The_Urantia_Book/131#p1_6)]
 
-> «El Altísimo es como un padre y una madre amorosos; nos ama realmente a nosotros, sus hijos en la Tierra... Nos cogerá de la mano y nos conducirá hasta él. Dios salva a los que confían en él; no obliga al hombre a servir su nombre.» <a id="a78_237"></a>[[LU 131:1.8](/es/The_Urantia_Book/131#p1_8)]
+> «El Altísimo es como un padre y una madre amorosos; nos ama realmente a nosotros, sus hijos en la Tierra... Nos cogerá de la mano y nos conducirá hasta él. Dios salva a los que confían en él; no obliga al hombre a servir su nombre.» <a id="a78_235"></a>[[LU 131:1.8](/es/The_Urantia_Book/131#p1_8)]
 
 > «El alma cansada del mortal errante encuentra descanso eterno en los brazos del Altísimo; el hombre sabio ansía el abrazo divino; el hijo terrestre anhela la seguridad de los brazos del Padre Universal.» <a id="a80_206"></a>[[LU 131:1.9](/es/The_Urantia_Book/131#p1_9)]
 
@@ -116,7 +116,7 @@ Creo que también es interesante ver que muchas de estas ideas reaparecen en las
 
 > «La jovialidad y la alegría son las recompensas de las acciones bien hechas y son para la gloria del Inmortal. Nadie puede robaros la libertad de vuestra propia mente... Aunque la fe sea la energía de una vida mejor, sin embargo tenéis que conseguir con perseverancia vuestra propia salvación. Si queréis estar seguros de vuestra salvación final, aseguraos entonces de que tratáis sinceramente de ejecutar todo lo que es recto». <a id="a116_431"></a>[[LU 131:3.4](/es/The_Urantia_Book/131#p3_4)]
 
-> «No dejéis que la cólera y el odio os dominen. No habléis duramente de nadie. El contentamiento es la mayor de las riquezas. Lo que se da con prudencia está bien economizado... Devolved bien por mal; venced el mal con el bien.» <a id="a118_232"></a>[[LU 131:3.6](/es/The_Urantia_Book/131#p3_6)]
+> «No dejéis que la cólera y el odio os dominen. No habléis duramente de nadie. El contentamiento es la mayor de las riquezas. Lo que se da con prudencia está bien economizado... Devolved bien por mal; venced el mal con el bien.» <a id="a118_230"></a>[[LU 131:3.6](/es/The_Urantia_Book/131#p3_6)]
 
 ## 4. Hinduismo
 
@@ -131,7 +131,7 @@ Creo que también es interesante ver que muchas de estas ideas reaparecen en las
 
 > «Dios es nuestro protector —permanece al lado de sus criaturas— y los que aprenden a conocerlo se vuelven inmortales». <a id="a131_121"></a>[[LU 131:4.2](/es/The_Urantia_Book/131#p4_2)]
 
-> «Dice el Señor: ‘Resido dentro de sus propias almas como una lámpara de sabiduría. Soy el esplendor de los espléndidos y la bondad de los buenos. Cuando dos o tres se reúnen, allí estoy yo también’ ... su espíritu primigenio reside dentro del alma mortal... Meditemos largamente sobre el Vivificador adorable y divino; que su espíritu dirija plenamente nuestros pensamientos.» <a id="a133_381"></a>[[LU 131:4.3](/es/The_Urantia_Book/131#p4_3)]
+> «Dice el Señor: ‘Resido dentro de sus propias almas como una lámpara de sabiduría. Soy el esplendor de los espléndidos y la bondad de los buenos. Cuando dos o tres se reúnen, allí estoy yo también’ ... su espíritu primigenio reside dentro del alma mortal... Meditemos largamente sobre el Vivificador adorable y divino; que su espíritu dirija plenamente nuestros pensamientos.» <a id="a133_379"></a>[[LU 131:4.3](/es/The_Urantia_Book/131#p4_3)]
 
 > «Dios es nuestro padre, nuestro hermano y nuestro amigo. Anhelamos conocer a este Dios en lo más profundo de nuestro ser». <a id="a135_125"></a>[[LU 131:4.4](/es/The_Urantia_Book/131#p4_4)]
 
@@ -174,9 +174,9 @@ Creo que también es interesante ver que muchas de estas ideas reaparecen en las
 
 > «Hacía poco tiempo que los manuscritos de esta religión del Lejano Oriente se habían colocado en la biblioteca de Alejandría... Esta creencia también contenía restos de las primeras enseñanzas de Melquisedek...» [[LU 131:7.1](/es/The_Urantia_Book/131 #p7_1)]
 
-> «Dice el Señor: ‘... Soy el hacedor del cielo y de la Tierra; el Sol, la Luna y todas las estrellas obedecen a mi voluntad... Aunque soy grande y supremo, sin embargo tengo consideración por la oración del más humilde de los hombres...’». <a id="a176_243"></a>[[LU 131:7.2](/es/The_Urantia_Book/131#p7_2)]
+> «Dice el Señor: ‘... Soy el hacedor del cielo y de la Tierra; el Sol, la Luna y todas las estrellas obedecen a mi voluntad... Aunque soy grande y supremo, sin embargo tengo consideración por la oración del más humilde de los hombres...’». <a id="a176_241"></a>[[LU 131:7.2](/es/The_Urantia_Book/131#p7_2)]
 
-> «‘Cada vez que el hombre cede a la ansiedad, se aleja un paso de la guía del espíritu de su corazón’... Si no sois rectos por dentro, es inútil que oréis por las cosas de fuera». <a id="a178_183"></a>[[LU 131:7.3](/es/The_Urantia_Book/131#p7_3)]
+> «‘Cada vez que el hombre cede a la ansiedad, se aleja un paso de la guía del espíritu de su corazón’... Si no sois rectos por dentro, es inútil que oréis por las cosas de fuera». <a id="a178_181"></a>[[LU 131:7.3](/es/The_Urantia_Book/131#p7_3)]
 
 ## 8. Taoísmo
 
@@ -189,7 +189,7 @@ Creo que también es interesante ver que muchas de estas ideas reaparecen en las
 
 > «Los mensajeros de Melquisedek penetraron muy dentro de China, y la doctrina del Dios único formó parte de las primeras enseñanzas de diversas religiones chinas; el taoísmo fue la que perduró más tiempo y contuvo la mayor cantidad de verdad monoteísta...» <a id="a189_258"></a>[[LU 131:8.1](/es/The_Urantia_Book/131#p8_1)]
 
-> «... Este Dios del cielo es el antecesor venerado de todas las cosas. Si conocéis al Eterno, estáis iluminados y sois sabios...» <a id="a191_133"></a>[[LU 131:8.2](/es/The_Urantia_Book/131#p8_2)]
+> «... Este Dios del cielo es el antecesor venerado de todas las cosas. Si conocéis al Eterno, estáis iluminados y sois sabios...» <a id="a191_131"></a>[[LU 131:8.2](/es/The_Urantia_Book/131#p8_2)]
 
 > «.... Y es un misterio cómo el Supremo consigue nutrir, proteger y perfeccionar a las criaturas sin obligarlas. Guía y dirige, pero sin imponerse. Favorece el progreso, pero sin oprimir.» <a id="a193_190"></a>[[LU 131:8.3](/es/The_Urantia_Book/131#p8_3)]
 
@@ -208,11 +208,11 @@ Creo que también es interesante ver que muchas de estas ideas reaparecen en las
 
 > «Entre las grandes religiones del mundo, incluso la que menos reconocía a Dios aceptó el monoteísmo de los misioneros de Melquisedek y de sus perseverantes sucesores». <a id="a208_170"></a>[[LU 131:9.1](/es/The_Urantia_Book/131#p9_1)]
 
-> «... Hacemos bien en llamar al Gran Cielo nuestro Padre y nuestra Madre. Si somos pues los servidores de nuestros antepasados divinos, entonces podemos rezar al Cielo con confianza... En todo momento y en todas las cosas, tengamos el temor reverencial de la majestad del Cielo...» <a id="a210_287"></a>[[LU 131:9.2](/es/The_Urantia_Book/131#p9_2)]
+> «... Hacemos bien en llamar al Gran Cielo nuestro Padre y nuestra Madre. Si somos pues los servidores de nuestros antepasados divinos, entonces podemos rezar al Cielo con confianza... En todo momento y en todas las cosas, tengamos el temor reverencial de la majestad del Cielo...» <a id="a210_283"></a>[[LU 131:9.2](/es/The_Urantia_Book/131#p9_2)]
 
-> «... Si Dios está conmigo, he decidido no tener ninguna duda en mi corazón. La fe debe estar muy cerca de la verdad de las cosas, y no veo cómo un hombre puede vivir sin esta fe saludable...» <a id="a212_196"></a>[[LU 131:9.3](/es/The_Urantia_Book/131#p9_3)]
+> «... Si Dios está conmigo, he decidido no tener ninguna duda en mi corazón. La fe debe estar muy cerca de la verdad de las cosas, y no veo cómo un hombre puede vivir sin esta fe saludable...» <a id="a212_194"></a>[[LU 131:9.3](/es/The_Urantia_Book/131#p9_3)]
 
-> «... Alcanzar la perfección del Cielo es la meta del hombre.... Dios está con vosotros; no lo dudéis en vuestro corazón...» <a id="a214_128"></a>[[LU 131:9.4](/es/The_Urantia_Book/131#p9_4)]
+> «... Alcanzar la perfección del Cielo es la meta del hombre.... Dios está con vosotros; no lo dudéis en vuestro corazón...» <a id="a214_126"></a>[[LU 131:9.4](/es/The_Urantia_Book/131#p9_4)]
 
 ## Enlaces externos
 

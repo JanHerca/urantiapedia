@@ -62,7 +62,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2020_12/079.jpg">
 </figure>
 
-> La verdad, la belleza y la santidad son unas ayudas poderosas y eficaces para la verdadera adoración. Jesus, _El Libro de Urantia_ <a id="a63_105"></a>[LU 167:6.6](/es/The_Urantia_Book/167#p6_6)
+> La verdad, la belleza y la santidad son unas ayudas poderosas y eficaces para la verdadera adoración. Jesus, _El Libro de Urantia_ <a id="a64_133"></a>[LU 167:6.6](/es/The_Urantia_Book/167#p6_6)
 
 
 

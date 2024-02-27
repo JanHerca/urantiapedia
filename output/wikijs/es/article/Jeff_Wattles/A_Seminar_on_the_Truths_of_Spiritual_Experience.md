@@ -43,9 +43,9 @@ _De Jeff Wattles, Stow (Ohio, EEUU)_
 Jeff Wattles impartirá un seminario sobre las verdades de la experiencia espiritual en la sede de la Fundación Urantia en Chicago, desde el jueves 30 de mayo por la noche hasta el mediodía del domingo 2 de junio de 2013.
 <br style="clear:both;"/>
 
-> «En los mundos de las mansiones, estas escuelas están organizadas en tres grupos generales…: las escuelas de pensamiento, las escuelas de sentimiento y las escuelas de acción.» <a id="a47_151"></a>[LU 48:5.6](/es/The_Urantia_Book/48#p5_6)
+> «En los mundos de las mansiones, estas escuelas están organizadas en tres grupos generales…: las escuelas de pensamiento, las escuelas de sentimiento y las escuelas de acción.» <a id="a45_179"></a>[LU 48:5.6](/es/The_Urantia_Book/48#p5_6)
 
-> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» <a id="a49_302"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)
+> «El desafío religioso de la época actual es para aquellos hombres y mujeres previsores, con visión de futuro y con perspicacia espiritual, que se atrevan a construir una nueva y atrayente filosofía de la vida a partir de los conceptos modernos ampliados y exquisitamente integrados de la verdad cósmica, la belleza universal y la bondad divina.» <a id="a47_348"></a>[LU 2:7.10](/es/The_Urantia_Book/2#p7_10)
 
 Esta «nueva y atrayente filosofía de la vida» proporciona un patrón para la educación que encaja con el patrón para la educación en las escuelas de los mundos de las mansiones. El pensamiento se esfuerza por alcanzar la verdad; el sentimiento se regocija en la belleza; la acción puede hacer realidad la bondad. Las verdades de la experiencia espiritual incluyen la paternidad de Dios y la fraternidad de los hombres, la alegría y la libertad de los hijos e hijas de Dios, y las verdades de la regla de oro.
 

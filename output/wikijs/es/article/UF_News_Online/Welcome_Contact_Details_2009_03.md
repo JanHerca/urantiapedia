@@ -57,7 +57,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2009_03/046.jpg">
 </figure>
 
-«Si mis palabras permanecen en vosotros y estáis dispuestos a hacer la voluntad de mi Padre, entonces sois realmente mis discípulos.» Jesus, _El Libro de Urantia_ <a id="a59_134"></a>[LU 162:7.2](/es/The_Urantia_Book/162#p7_2)
+«Si mis palabras permanecen en vosotros y estáis dispuestos a hacer la voluntad de mi Padre, entonces sois realmente mis discípulos.» Jesus, _El Libro de Urantia_ <a id="a59_163"></a>[LU 162:7.2](/es/The_Urantia_Book/162#p7_2)
 
 <br style="clear:both;"/>
 

@@ -53,7 +53,7 @@ El espectador de Connecticut Dave Elders (vean el siguiente artículo) me escrib
 > Habrá otro Simposio Científico. Si desea participar, comuníquese con nosotros.
 {.is-info}
 
-El artículo de _Investigación y Ciencia_ dice: «Sabemos lo que es la vida pero no de dónde procede la primera chispa». _El libro de Urantia nos dice_: «Cuando los modelos físicos conformes con las fórmulas aprobadas han sido suministrados, entonces los Portadores de Vida catalizan este material inanimado comunicándole a través de sus personas la chispa vital del espíritu, y los modelos inertes se convierten inmediatamente en materia viviente.» <a id="a55_394"></a>[LU 36:3.3](/es/The_Urantia_Book/36#p3_3)
+El artículo de _Investigación y Ciencia_ dice: «Sabemos lo que es la vida pero no de dónde procede la primera chispa». _El libro de Urantia nos dice_: «Cuando los modelos físicos conformes con las fórmulas aprobadas han sido suministrados, entonces los Portadores de Vida catalizan este material inanimado comunicándole a través de sus personas la chispa vital del espíritu, y los modelos inertes se convierten inmediatamente en materia viviente.» <a id="a55_448"></a>[LU 36:3.3](/es/The_Urantia_Book/36#p3_3)
 
 A través de estos simposios la Fundación Urantia está cultivando el compromiso de explorar y estudiar los descubrimientos científicos que validan lo que ha sido revelado en _El libro de Urantia_. Presentan una gran oportunidad de llegar a una población todavía por explotar de agnósticos de mentalidad científica e incluso de ateos.
 

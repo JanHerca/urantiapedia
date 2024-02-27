@@ -62,7 +62,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2022_12/056.jpg">
 </figure>
 
-> La felicidad de este espíritu derramado, cuando se experimenta conscientemente en la vida humana, es tónico para la salud, estímulo para la mente, y energía infalible para el alma. _El Libro de Urantia_, <a id="a63_188"></a>[LU 194:3.19](/es/The_Urantia_Book/194#p3_19)
+> La felicidad de este espíritu derramado, cuando se experimenta conscientemente en la vida humana, es tónico para la salud, estímulo para la mente, y energía infalible para el alma. _El Libro de Urantia_, <a id="a64_206"></a>[LU 194:3.19](/es/The_Urantia_Book/194#p3_19)
 
 ## Volumen 16, Número 5. Diciembre 2022
 

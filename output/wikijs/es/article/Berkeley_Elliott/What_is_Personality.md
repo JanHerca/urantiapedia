@@ -70,7 +70,7 @@ El séptimo grupo de mundos que rodean a Salvington son los Mundos de los Arcán
 
 ¿Qué es una criatura de voluntad? Sabemos que esto tiene algo que ver con la personalidad, pero veamos algunas definiciones.
 
-> Cuando los Portadores de Vida que trabajan en un nuevo mundo han conseguido dar nacimiento una vez a un ser con voluntad, con el poder de decisión moral y de elección espiritual, en ese mismo instante finaliza su trabajo... <a id="a72_228"></a>[[LU 36:3.8](/es/The_Urantia_Book/36#p3_8)]
+> Cuando los Portadores de Vida que trabajan en un nuevo mundo han conseguido dar nacimiento una vez a un ser con voluntad, con el poder de decisión moral y de elección espiritual, en ese mismo instante finaliza su trabajo... <a id="a72_226"></a>[[LU 36:3.8](/es/The_Urantia_Book/36#p3_8)]
 
 > ... Habíamos estado de servicio durante épocas enteras, asistidos solamente por los siete espíritus ayudantes de la mente y los Controladores Físicos Maestros. Y ahora que la voluntad, la facultad para elegir la adoración y la ascensión, había aparecido en las criaturas evolutivas del planeta, comprendimos que nuestro trabajo había terminado, ... <a id="a74_351"></a>[[LU 62:7.6](/es/The_Urantia_Book/62#p7_6)]
 
@@ -94,7 +94,7 @@ Las palabras «personalizar», «personalización» y «personificación» se ut
 
 > Jesús era la personalidad perfectamente unificada. «Aunque el mortal medio de Urantia no puede esperar alcanzar la elevada perfección de carácter que adquirió Jesús de Nazaret mientras permaneció en la carne, a todo creyente mortal le es totalmente posible desarrollar una personalidad fuerte y unificada según el modelo perfeccionado de la personalidad de Jesús. La característica incomparable de la personalidad del Maestro no era tanto su perfección como su simetría, su exquisita unificación equilibrada.» <a id="a94_512"></a>[[LU 100:7.1](/es/The_Urantia_Book/100#p7_1)]
 
-> ... aunque Cristo Miguel era verdaderamente un ser de origen dual, no era una personalidad doble... <a id="a96_104"></a>[[LU 120:4.2](/es/The_Urantia_Book/120#p4_2)]
+> ... aunque Cristo Miguel era verdaderamente un ser de origen dual, no era una personalidad doble... <a id="a96_102"></a>[[LU 120:4.2](/es/The_Urantia_Book/120#p4_2)]
 
 _El Libro de Urantia_ no sofoca la imaginación con una revelación excesiva. Estimula y fomenta la especulación y la conjetura. Entonces, ¿de acuerdo?
 

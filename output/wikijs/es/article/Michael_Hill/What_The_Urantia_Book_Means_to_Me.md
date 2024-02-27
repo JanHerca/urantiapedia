@@ -43,13 +43,13 @@ _De Michael Hill, Oregón (Estados Unidos)_
 _Nota de la redacción: Este artículo se publicó originalmente el 30 de mayo de 2020 en el periódico Gazette-Times de Corvallis (Oregón), en la columna «Voces interreligiosas», bajo el título «Un trozo de mi pastel de fe»._
 <br style="clear:both;"/>
 
-> Me enseñaron que la creencia alcanza el nivel de la fe «cuando motiva la vida y modela la manera de vivir» <a id="a45_111"></a>[LU 101:8.1](/es/The_Urantia_Book/101#p8_1) Mi fe en un Dios de amor, la fuente de toda la creación, toda la verdad, la belleza y la bondad, me inspira a amarlo a través del servicio.
+> Me enseñaron que la creencia alcanza el nivel de la fe «cuando motiva la vida y modela la manera de vivir» <a id="a45_109"></a>[LU 101:8.1](/es/The_Urantia_Book/101#p8_1) Mi fe en un Dios de amor, la fuente de toda la creación, toda la verdad, la belleza y la bondad, me inspira a amarlo a través del servicio.
 
 Este es el credo que un amigo compartió conmigo: soy un hijo de Dios creado divinamente, infinitamente amado, espiritualmente habitado, evolutivo y con libre albedrío. Y creo, tengo fe en que es verdad.
 
 También creo que Dios quiere que sea como él, que sea perfecto como él, así que me esfuerzo por vivir la vida de modo que refleje lo mejor posible cómo se puede vivir como alguien de este mundo. Me esfuerzo por mostrar los frutos del espíritu en mi vida: amor, alegría, paz, paciencia, gentileza, bondad, fe, longanimidad y templanza.
 
-También me enseñaron que la verdadera fe «está basada en una reflexión profunda, en una autocrítica sincera y en una conciencia moral intransigente» <a id="a51_138"></a>[LU 132:3.5](/es/The_Urantia_Book/132#p3_5) Lo tomo como una reflexión sobre la vida (sobre mis interacciones con la familia, amigos y extraños, seguida de una evaluación honrada de lo que veo) que me permite decidir si mis acciones están en consonancia con mis creencias, mi fe... si «hago lo que predico». Me esfuerzo por ser moral, ético, por ser siempre sincero y por tomar siempre el camino correcto.
+También me enseñaron que la verdadera fe «está basada en una reflexión profunda, en una autocrítica sincera y en una conciencia moral intransigente» <a id="a51_149"></a>[LU 132:3.5](/es/The_Urantia_Book/132#p3_5) Lo tomo como una reflexión sobre la vida (sobre mis interacciones con la familia, amigos y extraños, seguida de una evaluación honrada de lo que veo) que me permite decidir si mis acciones están en consonancia con mis creencias, mi fe... si «hago lo que predico». Me esfuerzo por ser moral, ético, por ser siempre sincero y por tomar siempre el camino correcto.
 
 Creo que hay un fragmento de Dios dentro de mí que siempre «me muestra el camino», y mi experiencia me ha demostrado que es cierto. Así que, en momentos de reflexión o de resolución de problemas, «escucho con el oído del espíritu» la voz de ese espíritu.
 

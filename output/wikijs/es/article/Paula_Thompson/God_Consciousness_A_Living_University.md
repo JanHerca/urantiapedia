@@ -47,9 +47,9 @@ Espero que no digan esto, sino «Su conciencia de Dios se está mostrando».
 ¿Se han dado cuenta de que _El libro de Urantia_ coloca definiciones de la conciencia de Dios conspicuamente en la última frase del Prólogo y en la primera frase del último párrafo de todo el libro?
 <br style="clear:both;"/>
 
-> «…la realidad siempre en progreso de la experiencia religiosa personal – la conciencia de Dios.» <a id="a49_88"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12)
+> «…la realidad siempre en progreso de la experiencia religiosa personal – la conciencia de Dios.» <a id="a49_99"></a>[LU 0:12.12](/es/The_Urantia_Book/0#p12_12)
 
-> «La conciencia de Dios equivale a la integración del yo en el universo…» <a id="a51_96"></a>[LU 196:3.32](/es/The_Urantia_Book/196#p3_32)
+> «La conciencia de Dios equivale a la integración del yo en el universo…» <a id="a51_75"></a>[LU 196:3.32](/es/The_Urantia_Book/196#p3_32)
 
 Todas las enseñanzas están comprendidas dentro de la conciencia de Dios. En todos los niveles de nuestro progreso, es el esfuerzo continuo de empujar el envoltorio de la conciencia del yo, del alma y del espíritu que constituye la conciencia de Dios. Es la experiencia y el hecho de volverse más real.
 
@@ -76,7 +76,7 @@ Para solicitar un formulario de registro en papel o más información, envíen u
 <img src="/image/article/UF_News_Online/2009_06/016.jpg">
 </figure>
 
-«...el Padre no está muy lejos de ninguno de vosotros; vive dentro de vosotros, y en él todos nos movemos literalmente, vivimos realmente y tenemos verdaderamente nuestra existencia.» The Urantia Book, <a id="a78_174"></a>[LU 12:7.12](/es/The_Urantia_Book/12#p7_12)
+«...el Padre no está muy lejos de ninguno de vosotros; vive dentro de vosotros, y en él todos nos movemos literalmente, vivimos realmente y tenemos verdaderamente nuestra existencia.» The Urantia Book, <a id="a78_202"></a>[LU 12:7.12](/es/The_Urantia_Book/12#p7_12)
 <br style="clear:both;"/>
 
 ## Referencias

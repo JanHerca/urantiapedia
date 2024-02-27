@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2015_12/038.jpg">
 </figure>
 
-> Dios contesta a la oración del hombre dándole una mayor revelación de la verdad, una apreciación realzada de la belleza, y un concepto acrecentado de la bondad. _El Libro de Urantia_, <a id="a58_169"></a>[LU 91:8.11](/es/The_Urantia_Book/91#p8_11)
+> Dios contesta a la oración del hombre dándole una mayor revelación de la verdad, una apreciación realzada de la belleza, y un concepto acrecentado de la bondad. _El Libro de Urantia_, <a id="a58_186"></a>[LU 91:8.11](/es/The_Urantia_Book/91#p8_11)
 
 ## Volumen 9, Número 4. Diciembre 2015
 

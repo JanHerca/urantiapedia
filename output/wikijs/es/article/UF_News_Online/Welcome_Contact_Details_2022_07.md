@@ -61,7 +61,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2022_07/069.jpg">
 </figure>
 
-> Jamás se pierde nada de 10 que tenga valor de supervivencia en todo el enorme universo. _El Libro de Urantia_, <a id="a62_87"></a>[LU 109:3.2](/es/The_Urantia_Book/109#p3_2)
+> Jamás se pierde nada de 10 que tenga valor de supervivencia en todo el enorme universo. _El Libro de Urantia_, <a id="a63_113"></a>[LU 109:3.2](/es/The_Urantia_Book/109#p3_2)
 
 
 ## Volumen 16, Número 3. Julio 2022

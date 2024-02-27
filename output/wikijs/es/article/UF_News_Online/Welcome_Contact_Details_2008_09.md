@@ -52,7 +52,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_09/049.jpg">
 </figure>
 
-«La educación es la ocupación de la vida; debe continuar durante toda la vida para que la humanidad pueda experimentar gradualmente los niveles ascendentes de la sabiduría mortal.» _El Libro de Urantia_, <a id="a54_187"></a>[LU 71:7.5](/es/The_Urantia_Book/71#p7_5)
+«La educación es la ocupación de la vida; debe continuar durante toda la vida para que la humanidad pueda experimentar gradualmente los niveles ascendentes de la sabiduría mortal.» _El Libro de Urantia_, <a id="a54_204"></a>[LU 71:7.5](/es/The_Urantia_Book/71#p7_5)
 
 <br style="clear:both;"/>
 

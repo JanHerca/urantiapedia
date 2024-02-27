@@ -111,7 +111,7 @@ flowchart TB
 
 Al final del proceso, cuando la revisión ha madurado, es el momento de reintegrar el lenguaje ampliado y la claridad de pensamiento en las culturas y los canales evolutivos que esperan esta nueva verdad. La siguiente cita resume el trabajo en el que estamos involucrados:
 
-> La civilización tiene que esperar al idioma para diseminarse. Las lenguas vivas y que se enriquecen aseguran la expansión de las ideas y los proyectos civilizados. Durante las épocas primitivas se hicieron progresos importantes en el lenguaje. Hoy existe la gran necesidad de un desarrollo lingüístico adicional que facilite la expresión del pensamiento en evolución. <a id="a113_314"></a>[LU 81:6.16](/es/The_Urantia_Book/81#p6_16)
+> La civilización tiene que esperar al idioma para diseminarse. Las lenguas vivas y que se enriquecen aseguran la expansión de las ideas y los proyectos civilizados. Durante las épocas primitivas se hicieron progresos importantes en el lenguaje. Hoy existe la gran necesidad de un desarrollo lingüístico adicional que facilite la expresión del pensamiento en evolución. <a id="a113_370"></a>[LU 81:6.16](/es/The_Urantia_Book/81#p6_16)
 
 
 ## Referencias

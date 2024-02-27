@@ -57,7 +57,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2012_08/056.jpg">
 </figure>
 
-Al igual que la oración se puede asemejar a la recarga de las baterías espirituales del alma, la adoración se puede comparar al acto de sintonizar el alma para captar las emisiones universales del espíritu infinito del Padre Universal. _El Libro de Urantia_, <a id="a59_237"></a>[LU 144:4.8](/es/The_Urantia_Book/144#p4_8)
+Al igual que la oración se puede asemejar a la recarga de las baterías espirituales del alma, la adoración se puede comparar al acto de sintonizar el alma para captar las emisiones universales del espíritu infinito del Padre Universal. _El Libro de Urantia_, <a id="a59_259"></a>[LU 144:4.8](/es/The_Urantia_Book/144#p4_8)
 <br style="clear:both;"/>
 
 ## Volumen 6, Número 3. August 2012

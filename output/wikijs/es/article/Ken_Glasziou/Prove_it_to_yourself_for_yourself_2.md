@@ -66,7 +66,7 @@ Una sección de los Documentos que requiere solo un conocimiento mínimo de arit
 
 > «Hace 2.500.000.000 de años, el tamaño de los planetas había aumentado inmensamente. Urantia era una esfera bien desarrollada; tenía aproximadamente **una décima parte de su masa actual** y continuaba aumentando rápidamente por acreción meteórica». (<a id="a66_252"></a>[LU 57:6.10](/es/The_Urantia_Book/57#p6_10))
 
-> «Hace 2.000.000.000 de años, la Tierra empezó a ganarle terreno decididamente a la Luna. El planeta siempre había sido más grande que su satélite, pero **no había habido mucha diferencia de tamaño hasta esta época**, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte de su tamaño actual**...» (<a id="a68_368"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2))
+> «Hace 2.000.000.000 de años, la Tierra empezó a ganarle terreno decididamente a la Luna. El planeta siempre había sido más grande que su satélite, pero **no había habido mucha diferencia de tamaño hasta esta época**, durante la cual la Tierra capturó enormes cuerpos espaciales. Urantia tenía entonces aproximadamente **una quinta parte de su tamaño actual**...» (<a id="a68_366"></a>[LU 57:7.2](/es/The_Urantia_Book/57#p7_2))
 
 > Hace 1.500.000.000 de años, la Tierra tenía dos tercios de su tamaño actual, mientras que **la Luna se acercaba a su masa de hoy**. (<a id="a70_135"></a>[LU 57:7.4](/es/The_Urantia_Book/57#p7_4))
 

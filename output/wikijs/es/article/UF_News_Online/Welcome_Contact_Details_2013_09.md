@@ -60,7 +60,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 La búsqueda de Dios es la donación ilimitada de amor que viene acompañada del asombroso descubrimiento de un nuevo amor más grande que otorgar.
 
-_El Libro de Urantia_, <a id="a62_20"></a>[LU 117:6.9](/es/The_Urantia_Book/117#p6_9)
+_El Libro de Urantia_, <a id="a62_23"></a>[LU 117:6.9](/es/The_Urantia_Book/117#p6_9)
 <br style="clear:both;"/>
 
 ## Volumen 7, Número 3. Septiembre 2013

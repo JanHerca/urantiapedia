@@ -71,7 +71,7 @@ Las Sesiones de Estudio de Verano (SSS en inglés) han proporcionado continuamen
 
 Este año el miembro del Comité de Educación Jackie Koury presidió el evento por primera vez, y su trabajo ayudó a que fuera una conferencia excepcional. Ella mencionó en su bienvenida cómo sintió orgullo de instructora cuando miró al grupo de presentadores y conferenciantes reunidos en 2018. Cuando veo la calidad del programa, el gran trabajo que hizo Jackie y los muchos años de intensa educación que nuestro comité ha proporcionado a lectores de _El libro de Urantia_ sin ningún sentido de superioridad, percibo también el tipo de orgullo en otros que sintió Jackie.
 
-_El libro de Urantia_ nos dice que «La educación es la ocupación de la vida; debe continuar durante toda la vida para que la humanidad pueda experimentar gradualmente los niveles ascendentes de la sabiduría mortal» <a id="a75_191"></a>[LU 71:7.5](/es/The_Urantia_Book/71#p7_5)
+_El libro de Urantia_ nos dice que «La educación es la ocupación de la vida; debe continuar durante toda la vida para que la humanidad pueda experimentar gradualmente los niveles ascendentes de la sabiduría mortal» <a id="a73_215"></a>[LU 71:7.5](/es/The_Urantia_Book/71#p7_5)
 
 El Comité de Educación de la Fellowship, en concierto con todas las iniciativas educativas de las diferentes organizaciones Urantia, buscará contribuir con su humilde aportación a divulgar las enseñanzas de la revelación Urantia, así como al lento progreso de la humanidad en nuestro atrasado pero fascinante planeta.
 

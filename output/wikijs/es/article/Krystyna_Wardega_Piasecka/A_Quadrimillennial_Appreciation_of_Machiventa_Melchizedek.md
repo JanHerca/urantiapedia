@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Krystyna Wardega-Piasecka, Sandnes (Noruega)_
 
-Queridos lectores de _El libro de Urantia_: ¿se han preguntado alguna vez por qué se dice que Maquiventa Melquisedec es «uno de los personajes más extraordinarios que hayan estado jamás relacionados con la historia de Urantia»? <a id="a42_194"></a>[LU 93:10.11](/es/The_Urantia_Book/93#p10_11) Si no, ha llegado el momento, pues este año se cumple el cuarto milenio desde que se encarnó en nuestro planeta.
+Queridos lectores de _El libro de Urantia_: ¿se han preguntado alguna vez por qué se dice que Maquiventa Melquisedec es «uno de los personajes más extraordinarios que hayan estado jamás relacionados con la historia de Urantia»? <a id="a42_228"></a>[LU 93:10.11](/es/The_Urantia_Book/93#p10_11) Si no, ha llegado el momento, pues este año se cumple el cuarto milenio desde que se encarnó en nuestro planeta.
 
 Los Melquisedec son los hijos del universo local más altos creados por Miguel, la Espíritu Madre Creativa y el Padre Melquisedec. Los Melquisedec son los hijos más altos que pueden acercarse a los seres vivos. Debido al rango de tareas prácticas y de capacidades que poseen, llamaría a esta clase autónoma de observadores imparciales «la mano derecha» de los administradores del universo.
 
@@ -59,7 +59,7 @@ Como resumen de las acciones de Melquisedec, supimos que comenzó el trabajo de 
 <figcaption><em>Jesus and Ganid at the Great Lighthouse by Slawa Radziszewska</em></figcaption>
 </figure>
 
-> «Se debe poner de manifiesto en este relato que todas estas enseñanzas que describen al monoteísmo procedían en gran medida, directa o indirectamente, de las predicaciones de los misioneros de Maquiventa Melquisedek.» <a id="a59_204"></a>[LU 131:0.1](/es/The_Urantia_Book/131#p0_1)
+> «Se debe poner de manifiesto en este relato que todas estas enseñanzas que describen al monoteísmo procedían en gran medida, directa o indirectamente, de las predicaciones de los misioneros de Maquiventa Melquisedek.» <a id="a61_220"></a>[LU 131:0.1](/es/The_Urantia_Book/131#p0_1)
 
 Al mencionar este plan y el hecho de que durante la redacción de los Documentos de Urantia Maquiventa sirviera como gobernador general y fuera proclamado más adelante Príncipe Planetario sustituto, merece la pena señalar que los seres celestiales prevén la reaparición de Maquiventa en la tierra.
 
@@ -69,7 +69,7 @@ Al mencionar este plan y el hecho de que durante la redacción de los Documentos
 <img src="/image/article/UF_News_Online/2021_09/029.jpg">
 </figure>
 
-Asocio al sabio de Salem con el símbolo de los tres círculos concéntricos que llevaba en el pecho. Las generaciones futuras olvidaron este símbolo de la Trinidad del Paraíso y las revelaciones de _El libro de Urantia_ lo han recuperado. Los tres círculos representan «la infinidad, la eternidad y la universalidad de la Trinidad del Paraíso que lo mantiene y lo dirige todo de manera divina» <a id="a69_385"></a>[LU 93:3.3](/es/The_Urantia_Book/93#p3_3)
+Asocio al sabio de Salem con el símbolo de los tres círculos concéntricos que llevaba en el pecho. Las generaciones futuras olvidaron este símbolo de la Trinidad del Paraíso y las revelaciones de _El libro de Urantia_ lo han recuperado. Los tres círculos representan «la infinidad, la eternidad y la universalidad de la Trinidad del Paraíso que lo mantiene y lo dirige todo de manera divina» <a id="a71_392"></a>[LU 93:3.3](/es/The_Urantia_Book/93#p3_3)
 
 
 Las enseñanzas sobre la Trinidad se encuentran en algunas de las religiones del mundo como legado de las enseñanzas de Salem.

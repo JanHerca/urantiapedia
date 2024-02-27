@@ -52,7 +52,7 @@ Entonces, ¿qué es _El libro de Urantia_ para mí? Es una caja de herramientas 
 
 ¡El servicio está en todas partes! Cuando me dejo ir y dejo hacer a Dios para que me guíe, Él me lleva exactamente a donde Él quiere que esté. Me llevó a una prisión para acercarme a Sus hijos que han sido maltratados, abandonados y rechazados por la sociedad, para recordarles cuánto los ama Dios. ¡Es en este lugar de miseria que experimenté la inmensidad y la simplicidad del Amor incondicional!
 
-Día a día me doy cuenta del poder de la breve definición de amor que nos ofrece el libro: «El amor es el deseo de hacer el bien a los demás». <a id="a56_137"></a>[LU 56:10.21](/es/The_Urantia_Book/56#p10_21) Y le añado mi toque personal: ¡El amor es hacer el bien a los demás!
+Día a día me doy cuenta del poder de la breve definición de amor que nos ofrece el libro: «El amor es el deseo de hacer el bien a los demás». <a id="a54_142"></a>[LU 56:10.21](/es/The_Urantia_Book/56#p10_21) Y le añado mi toque personal: ¡El amor es hacer el bien a los demás!
 
 Estoy llena de gratitud por el viaje a mi Padre que me ha puesto en el camino de servir a mis hermanos y hermanas. También debo homenajear al hombre de Dios que alimentó mi alma: Moussa N’Diaye, que se graduó de Urantia el 29 de marzo de 2019. Que Dios siga bendiciéndole en abundancia allá donde esté.
 

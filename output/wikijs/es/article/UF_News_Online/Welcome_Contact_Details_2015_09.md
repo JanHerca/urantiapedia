@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2015_09/093.jpg">
 </figure>
 
-Sólo existe una forma de oración que es apropiada para todos los hijos de Dios, y es: «Sin embargo, que se haga tu voluntad.» _El Libro de Urantia_, <a id="a58_145"></a>[LU 146:2.12](/es/The_Urantia_Book/146#p2_12)
+Sólo existe una forma de oración que es apropiada para todos los hijos de Dios, y es: «Sin embargo, que se haga tu voluntad.» _El Libro de Urantia_, <a id="a58_149"></a>[LU 146:2.12](/es/The_Urantia_Book/146#p2_12)
 <br style="clear:both;"/>
 
 

@@ -52,7 +52,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2016_06/062.jpg">
 </figure>
 
-> Al universo no se le da cuerda como a un reloj para que ande durante cierto tiempo y luego deje de funcionar; todas las cosas se renuevan constantemente. El Padre derrama sin cesar energía, luz y vida. _El Libro de Urantia_, <a id="a54_213"></a>[LU 4:1.6](/es/The_Urantia_Book/4#p1_6)
+> Al universo no se le da cuerda como a un reloj para que ande durante cierto tiempo y luego deje de funcionar; todas las cosas se renuevan constantemente. El Padre derrama sin cesar energía, luz y vida. _El Libro de Urantia_, <a id="a54_227"></a>[LU 4:1.6](/es/The_Urantia_Book/4#p1_6)
 
 
 ## Volumen 10, Número 2. Junio 2016

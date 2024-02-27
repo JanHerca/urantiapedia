@@ -70,7 +70,7 @@ Hemos observado que donaciones de incluso unos pocos dólares pueden ser muy út
 
 En los próximos meses se celebrarán eventos en los que a todos los asistentes al grupo de estudio les gustaría participar, si es posible. En junio se realizará la convención nacional de bibliotecarios públicos. En julio, los artistas de reggae Pato Banton y Antoinette Rootsdawtah de Estados Unidos estarán en Filipinas para una actuación y están interesados ​​en reunirse con grupos de estudio mientras estén allí. En septiembre se celebra la Feria Internacional del Libro de Manila, un evento de cinco días que se celebra en Pasay, una ciudad de Metro Manila, y hay planes para presentar El Libro de Urantia de alguna manera. 
 
-Considero que distribuir _El Libro de Urantia_ vale la pena y es muy gratificante. El ambiente de los colegios y universidades es muy estimulante. Recordamos que lo importante es el trabajo, no el yo, y esto nos infunde energía cósmica para seguir adelante. «El acto es nuestro, las consecuencias de Dios». <a id="a72_302"></a>[LU 117:5.5](/es/The_Urantia_Book/117#p5_5)
+Considero que distribuir _El Libro de Urantia_ vale la pena y es muy gratificante. El ambiente de los colegios y universidades es muy estimulante. Recordamos que lo importante es el trabajo, no el yo, y esto nos infunde energía cósmica para seguir adelante. «El acto es nuestro, las consecuencias de Dios». <a id="a72_307"></a>[LU 117:5.5](/es/The_Urantia_Book/117#p5_5)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_06/005.jpg">

@@ -44,9 +44,9 @@ Cuando compramos un electrodoméstico, un automóvil o un teléfono móvil con g
 
 ¿Qué les parece recibir promesas eternas con garantías inquebrantables? ¿Suena demasiado bueno para ser verdad? ¡Pues no lo es! _El libro de Urantia_ está lleno de esas promesas. Estos compromisos vienen del corazón de la Primera Fuente y Centro y son implementados por nuestro Hijo Creador y el Espíritu Materno Creativo.
 
-Maquiventa Melquisedec nos aseguró «el gran acuerdo urantiano entre la divinidad y la humanidad en virtud del cual Dios acepta hacerlo todo; el hombre solo acepta creer en las promesas de Dios y seguir sus instrucciones». <a id="a45_206"></a>[LU 93:6.4](/es/The_Urantia_Book/93#p6_4)
+Maquiventa Melquisedec nos aseguró «el gran acuerdo urantiano entre la divinidad y la humanidad en virtud del cual Dios acepta hacerlo todo; el hombre solo acepta creer en las promesas de Dios y seguir sus instrucciones». <a id="a46_222"></a>[LU 93:6.4](/es/The_Urantia_Book/93#p6_4)
 
-En el incierto mundo de hoy, los lectores de _El libro de Urantia_ tienen la seguridad de la presencia, la bondad, la compasión y la misericordia eterna del Padre. Jesús nos consuela y nos guía a través de su Espíritu de la Verdad. Nos emociona la promesa de que «¡La meta de la eternidad os espera! ¡La aventura del logro de la divinidad se extiende ante vosotros!» <a id="a47_337"></a>[LU 32:5.8](/es/The_Urantia_Book/32#p5_8)
+En el incierto mundo de hoy, los lectores de _El libro de Urantia_ tienen la seguridad de la presencia, la bondad, la compasión y la misericordia eterna del Padre. Jesús nos consuela y nos guía a través de su Espíritu de la Verdad. Nos emociona la promesa de que «¡La meta de la eternidad os espera! ¡La aventura del logro de la divinidad se extiende ante vosotros!» <a id="a48_367"></a>[LU 32:5.8](/es/The_Urantia_Book/32#p5_8)
 
 Cinco generosos donantes han acordado contribuir con **215 000 $** que serán igualados dólar por dólar si recaudamos la misma cantidad antes del **sábado 31 de diciembre**. Su donación a la Fundación Urantia ayudará a transformar vidas, y con el tiempo el mundo, porque es nuestra misión (nuestra promesa para ustedes) sembrar _El libro de Urantia_ y sus enseñanzas por todo el mundo.
 <br style="clear:both;"/>

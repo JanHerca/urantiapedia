@@ -50,7 +50,7 @@ Comencé a traducir algunos pasajes del libro y a compartirlos con amigos. Luego
 <img src="/image/article/UF_News_Online/2013_06/044.jpg">
 </figure>
 
-Qué dicha y qué honor es ser traductor de _El libro de Urantia_ cuando, como se afirma en el libro: «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». <a id="a52_542"></a>[LU 94:12.7](/es/The_Urantia_Book/94#p12_7)
+Qué dicha y qué honor es ser traductor de _El libro de Urantia_ cuando, como se afirma en el libro: «Toda Urantia está esperando la proclamación del mensaje ennoblecedor de Miguel, sin las trabas de las doctrinas y los dogmas acumulados durante diecinueve siglos de contacto con las religiones de origen evolutivo. Ha llegado la hora de presentar al budismo, al cristianismo, al hinduismo, e incluso a los pueblos de todas las religiones, no el evangelio acerca de Jesús, sino la realidad viviente y espiritual del evangelio de Jesús». <a id="a52_536"></a>[LU 94:12.7](/es/The_Urantia_Book/94#p12_7)
 
 
 ## Referencias

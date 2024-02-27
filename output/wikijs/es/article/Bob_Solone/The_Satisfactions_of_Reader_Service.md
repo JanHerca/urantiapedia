@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Bob Solone, Fundación Urantia, Illinois (Estados Unidos)_
 
-Imaginen por un momento que tienen dos grandes pasiones en la vida: la música, «el lenguaje universal de los hombres, los ángeles y los espíritus», y _El libro de Urantia_, la quinta revelación de época para nuestro mundo. <a id="a42_209"></a>[LU 44:1.15](/es/The_Urantia_Book/44#p1_15). Luego imaginen que, durante la primera mitad de su vida adulta, pueden seguir su primera pasión como carrera y profesión, y compartir el amor y el don de la música. Finalmente imagínense añadir la alegría de unirse al personal de la Fundación Urantia, custodio y editorial original de _El libro de Urantia_.
+Imaginen por un momento que tienen dos grandes pasiones en la vida: la música, «el lenguaje universal de los hombres, los ángeles y los espíritus», y _El libro de Urantia_, la quinta revelación de época para nuestro mundo. <a id="a42_223"></a>[LU 44:1.15](/es/The_Urantia_Book/44#p1_15). Luego imaginen que, durante la primera mitad de su vida adulta, pueden seguir su primera pasión como carrera y profesión, y compartir el amor y el don de la música. Finalmente imagínense añadir la alegría de unirse al personal de la Fundación Urantia, custodio y editorial original de _El libro de Urantia_.
 
 Pues bien, eso fue lo que me pasó y lo que me hace la persona más afortunada que conozco. Trabajar con la Fundación, primero como voluntario a mediados de los 80 y luego oficialmente como parte del personal en 1989, y haber servido en varios puestos durante los años intermedios en el 533 de Diversey, al que mis amigos y yo solíamos llamar cariñosamente «el pesebre», ha sido, junto con la música, la mayor alegría de mi vida.
 

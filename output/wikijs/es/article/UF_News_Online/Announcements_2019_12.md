@@ -45,7 +45,7 @@ En agosto de este año pedimos que los lectores apoyaran a la comunidad de lecto
 
 Los fideicomisarios de la Fundación Urantia les dan las gracias por apoyar a las comunidades de América latina de lectores de _El libro de Urantia_ en la difusión de la revelación Urantia.
 
-«Id por todo el mundo y proclamad este evangelio a todas las naciones, a cada hombre, mujer y niño.» Jesus, _El Libro de Urantia_, <a id="a47_123"></a>[LU 165:6.3](/es/The_Urantia_Book/165#p6_3)
+«Id por todo el mundo y proclamad este evangelio a todas las naciones, a cada hombre, mujer y niño.» Jesus, _El Libro de Urantia_, <a id="a47_131"></a>[LU 165:6.3](/es/The_Urantia_Book/165#p6_3)
 
 ## La historia nunca contada de Jesús
 

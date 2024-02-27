@@ -48,7 +48,7 @@ El primer erudito real que vio los Documentos de Urantia notó la implicación d
 
 Otra salvaguardia contra la acreditación de la infalibilidad de los Documentos fue la inclusión de:
 
-> _Los intelectos parciales, incompletos y evolutivos se encontrarían impotentes en el universo maestro, serían incapaces de formar el más mínimo modelo de pensamiento racional si no fuera porque todas las mentes, superiores o inferiores, tienen la capacidad innata de construir un *marco universal* dentro del cual poder pensar... Aunque estos marcos universales para el pensamiento de las criaturas son indispensables para las operaciones intelectuales racionales, todos son erróneos en mayor o menor grado, sin ninguna excepción._ (<a id="a50_537"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
+> _Los intelectos parciales, incompletos y evolutivos se encontrarían impotentes en el universo maestro, serían incapaces de formar el más mínimo modelo de pensamiento racional si no fuera porque todas las mentes, superiores o inferiores, tienen la capacidad innata de construir un *marco universal* dentro del cual poder pensar... Aunque estos marcos universales para el pensamiento de las criaturas son indispensables para las operaciones intelectuales racionales, todos son erróneos en mayor o menor grado, sin ninguna excepción._ (<a id="a50_535"></a>[LU 115:1.1](/es/The_Urantia_Book/115#p1_1))
 
 Ciertos aspectos del «_marco de pensamiento_» proporcionado en los Documentos son, sin duda, reveladores y tienen una función esencial. Proporcionan el conocimiento detallado que falta de nuestro «_destino eterno_» (<a id="a52_216"></a>[LU 19:1.5](/es/The_Urantia_Book/19#p1_5)) Casi todo este detalle falta en la revelación anterior.
 

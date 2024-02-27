@@ -72,7 +72,7 @@ Mi marido y yo patrocinamos y participamos en grupos de estudio en Malta y en Ho
 
 Desde 2005 hemos acogido de cinco a siete personas procedentes de Holanda durante tres días a la semana. En esos grupos de estudio estudiamos el libro utilizando una aproximación temática como un medio de profundizar nuestra comprensión de los conceptos básicos del libro. Da a estos holandeses (y a nosotros) una oportunidad de estudiar el libro en profundidad y de experimentar la belleza de Bretaña (Francia), donde vivimos. Ellos se alojan en _bed & breafkast_ cercanos y, durante el grupo de estudio de día completo, proporcionamos un almuerzo casero. Somos una familia espiritual que comparte de muchas maneras distintas.
 
-¡Hay tanta alegría! ¡En cada ocasión es una bendición y un privilegio estar juntos, aprender y recibir mucho a cambio! Un grupo de estudio sigue el patrón del universo, que es compartir el conocimiento y la experiencia. _«El conocimiento tan sólo se posee si se comparte; está protegido por la sabiduría y es socializado por el amor»_ <a id="a74_309"></a>[[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
+¡Hay tanta alegría! ¡En cada ocasión es una bendición y un privilegio estar juntos, aprender y recibir mucho a cambio! Un grupo de estudio sigue el patrón del universo, que es compartir el conocimiento y la experiencia. _«El conocimiento tan sólo se posee si se comparte; está protegido por la sabiduría y es socializado por el amor»_ <a id="a74_335"></a>[[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)]
 
 > «Muchas personas sienten la necesidad de servir, la necesidad de hacer más, y comienzan su propio grupo de estudio en su zona»
 

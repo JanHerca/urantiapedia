@@ -83,7 +83,7 @@ Considere algunas de las fuerzas espirituales que influyen en nuestro mundo y su
 
 ## El espíritu de la verdad
 
-> ...el Espíritu de la Verdad vino para ayudar al creyente a atestiguar las realidades de las enseñanzas de Jesús y de su vida tal como la vivió en la carne... <a id="a85_162"></a>[[LU 194:2.6](/es/The_Urantia_Book/194#p2_6)]
+> ...el Espíritu de la Verdad vino para ayudar al creyente a atestiguar las realidades de las enseñanzas de Jesús y de su vida tal como la vivió en la carne... <a id="a85_160"></a>[[LU 194:2.6](/es/The_Urantia_Book/194#p2_6)]
 
 El Espíritu de la Verdad «está destinado a vivir en el hombre y a exponer de nuevo el mensaje de Jesús para cada nueva generación. Así, cada nuevo grupo de mortales que aparezca sobre la faz de la Tierra tendrá una versión nueva y actualizada del evangelio... » <a id="a87_262"></a>[[LU 194:2.1](/es/The_Urantia_Book/194#p2_1)]
 
@@ -164,7 +164,7 @@ Considere las siguientes enseñanzas sobre el reino y el Supremo.
 
 ### Relaciones familiares y el Supremo:
 
-> Si deseáis de verdad encontrar a Dios, no podréis evitar que nazca en vuestra mente la conciencia del Supremo. Al igual que Dios es vuestro Padre divino, el Supremo es vuestra Madre divina, de quien os alimentáis durante toda vuestra vida como criaturas del universo... <a id="a166_274"></a>[[LU 117:6.2](/es/The_Urantia_Book/117#p6_2)]
+> Si deseáis de verdad encontrar a Dios, no podréis evitar que nazca en vuestra mente la conciencia del Supremo. Al igual que Dios es vuestro Padre divino, el Supremo es vuestra Madre divina, de quien os alimentáis durante toda vuestra vida como criaturas del universo... <a id="a166_272"></a>[[LU 117:6.2](/es/The_Urantia_Book/117#p6_2)]
 
 > El alma morontial de un mortal evolutivo es realmente la hija de la acción del Padre Universal a través del Ajustador, y la hija de la reacción cósmica del Ser Supremo, la Madre Universal. <a id="a168_191"></a>[[LU 117:6.5](/es/The_Urantia_Book/117#p6_5)]
 

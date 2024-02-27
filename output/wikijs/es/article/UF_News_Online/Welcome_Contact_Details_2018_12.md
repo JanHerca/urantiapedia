@@ -62,7 +62,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2018_12/065.jpg">
 </figure>
 
-El universo real es amistoso para cada hijo del Dios eterno. _El Libro de Urantia_, <a id="a63_85"></a>[LU 133:5.8](/es/The_Urantia_Book/133#p5_8)
+El universo real es amistoso para cada hijo del Dios eterno. _El Libro de Urantia_, <a id="a64_84"></a>[LU 133:5.8](/es/The_Urantia_Book/133#p5_8)
 <br style="clear:both;"/>
 
 ## Volumen 12, Número 4. Diciembre 2018

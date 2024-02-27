@@ -92,7 +92,7 @@ Esta es una publicación «Urantian» &reg;
 <img src="/image/article/UF_News_Online/2022_01/062.jpg">
 </figure>
 
-God's doings are all purposeful, intelligent, wise, kind, and eternally considerate of the best good. _El Libro de Urantia_, <a id="a94_122"></a>[LU 3:2.8](/es/The_Urantia_Book/3#p2_8)
+God's doings are all purposeful, intelligent, wise, kind, and eternally considerate of the best good. _El Libro de Urantia_, <a id="a94_125"></a>[LU 3:2.8](/es/The_Urantia_Book/3#p2_8)
 
 
 

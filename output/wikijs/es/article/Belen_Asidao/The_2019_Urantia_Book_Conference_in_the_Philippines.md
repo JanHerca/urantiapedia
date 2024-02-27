@@ -75,7 +75,7 @@ En 4 a 6 años, el objetivo es trabajar en la traducción al filipino y seguir d
 
 De diez años en adelante, los objetivos son crear instituciones educativas, comenzando por el nivel elemental y acabando por liderar una Universidad Urantia de Filipinas. También se concibieron centros físicos en numerosos lugares del país.
 
-¡Vaya plan más ambicioso! Pero Dios nos regaló la imaginación, los sueños y el libre albedrío, y «cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden». <a id="a75_162"></a>[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)
+¡Vaya plan más ambicioso! Pero Dios nos regaló la imaginación, los sueños y el libre albedrío, y «cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden». <a id="a77_186"></a>[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)
 
 Antes de que terminara la conferencia el grupo de mujeres leyó la parte de la cena del recuerdo, tras la que se cantaron extractos del Salmo 118. Después llegó la hora de partir.
 

@@ -68,7 +68,7 @@ Nuestras culturas pueden ser diferentes, pero las mujeres son las mismas y tiene
 
 Este viaje supuso para mí conocer a personas en un terreno espiritual donde el vínculo en acción se puede expandir. Como una espiral que comienza con una idea o concepto y se eleva hacia algo más, continúa a medida que la espiral se hace cada vez más grande. Aunque ellas me inspiraron en 2010, cuando regresé para compartir mi proyecto de educación de mujeres, ellas me dijeron que era una inspiración para ellas a través de lo que hago. No siempre nos damos cuenta del alcance de nuestras acciones.
 
-> El hombre que conoce a Dios no describe sus experiencias espirituales para convencer a los incrédulos, sino para la edificación y la satisfacción mutua de los creyentes. <a id="a72_150"></a>[LU 1:6.6](/es/The_Urantia_Book/1#p6_6)
+> El hombre que conoce a Dios no describe sus experiencias espirituales para convencer a los incrédulos, sino para la edificación y la satisfacción mutua de los creyentes. <a id="a70_172"></a>[LU 1:6.6](/es/The_Urantia_Book/1#p6_6)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_06/048.jpg">

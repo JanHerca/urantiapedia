@@ -183,7 +183,7 @@ Sigo con las citas:
 
 Estos párrafos refuerzan mi teoría.
 
-> _Es extremadamente peligroso hacer suposiciones sobre lo que, ***en la vida onírica, procede de los Ajustadores. Los Ajustadores trabajan de hecho durante el sueño***, pero vuestras experiencias oníricas ordinarias son unos fenómenos puramente fisiológicos y psicológicos. Asimismo, ***es arriesgado intentar diferenciar entre el registro de los conceptos del Ajustador y la recepción más o menos continua y consciente de los dictados de la conciencia moral humana***.Recordad que la influencia de un Ajustador del Pensamiento es en su mayor parte, aunque no del todo, ***una experiencia superconsciente***._ <a id="a185_617"></a>[LU 110:5.5](/es/The_Urantia_Book/110#p5_5)
+> _Es extremadamente peligroso hacer suposiciones sobre lo que, ***en la vida onírica, procede de los Ajustadores. Los Ajustadores trabajan de hecho durante el sueño***, pero vuestras experiencias oníricas ordinarias son unos fenómenos puramente fisiológicos y psicológicos. Asimismo, ***es arriesgado intentar diferenciar entre el registro de los conceptos del Ajustador y la recepción más o menos continua y consciente de los dictados de la conciencia moral humana***.Recordad que la influencia de un Ajustador del Pensamiento es en su mayor parte, aunque no del todo, ***una experiencia superconsciente***._ <a id="a185_611"></a>[LU 110:5.5](/es/The_Urantia_Book/110#p5_5)
 
 > _El terreno es peligroso, y cada ser humano debe resolver ***estos problemas por sí mismo de acuerdo con su sabiduría humana naturaly su perspicacia superhumana***._ <a id="a187_168"></a>[LU 110:5.6](/es/The_Urantia_Book/110#p5_6)
 

@@ -39,7 +39,7 @@ _Debéis seguir adelante desde donde os encontréis._
 <img src="/image/article/UF_News_Online/2007_12/038.jpg">
 </figure>
 
-_«Tú eres de Dios» porque «aquel que vive en el amor vive en Dios y Dios en él.»_ _El Libro de Urantia_, Página 45 [LU 3:1.5](/es/The_Urantia_Book/3#p1_5)
+_«Tú eres de Dios» porque «aquel que vive en el amor vive en Dios y Dios en él.»_ _El Libro de Urantia_, Página 45 <a id="a41_115"></a>[LU 3:1.5](/es/The_Urantia_Book/3#p1_5)
 
 <br style="clear:both;"/>
 

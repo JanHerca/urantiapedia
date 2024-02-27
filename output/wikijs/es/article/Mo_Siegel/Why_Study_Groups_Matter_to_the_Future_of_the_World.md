@@ -48,9 +48,9 @@ Si repasamos lo que ha sucedido en los últimos 56 años y lo proyectamos en el 
 
 La mayoría de los habitantes del mundo han rechazado asistir semanalmente a las celebraciones religiosas. En los Estados Unidos, por ejemplo, el 94% de las personas afirman creer en Dios, pero menos del 40% asisten regularmente a la iglesia. Y aún así entre las personas religiosas existe la necesidad de socializar.
 
-> «La religión es en primer lugar una adaptación interior o personal, y luego se convierte en un asunto de servicio social o de adaptación a un grupo. El hecho de la tendencia gregaria del hombre provoca forzosamente el nacimiento de los grupos religiosos. Lo que les suceda a esos grupos religiosos depende mucho de la inteligencia de sus dirigentes.» <a id="a50_308"></a>[LU 99:5.1](/es/The_Urantia_Book/99#p5_1)
+> «La religión es en primer lugar una adaptación interior o personal, y luego se convierte en un asunto de servicio social o de adaptación a un grupo. El hecho de la tendencia gregaria del hombre provoca forzosamente el nacimiento de los grupos religiosos. Lo que les suceda a esos grupos religiosos depende mucho de la inteligencia de sus dirigentes.» <a id="a50_353"></a>[LU 99:5.1](/es/The_Urantia_Book/99#p5_1)
 
-> «La socialización de la religión posee un objetivo real. La finalidad de las actividades religiosas colectivas consiste en representar dramáticamente la lealtad hacia la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar la atracción de los valores supremos; realzar el servicio de una hermandad desinteresada; glorificar los potenciales de la vida familiar; promover la educación religiosa; proporcionar consejos sabios y orientación espiritual; y estimular el culto colectivo. Todas las religiones vivientes estimulan la amistad humana, conservan la moralidad, promueven el bienestar de la vecindad y facilitan la difusión del evangelio esencial contenido en sus respectivos mensajes de salvación eterna.» <a id="a52_450"></a>[LU 99:6.2](/es/The_Urantia_Book/99#p6_2)
+> «La socialización de la religión posee un objetivo real. La finalidad de las actividades religiosas colectivas consiste en representar dramáticamente la lealtad hacia la religión; magnificar los atractivos de la verdad, la belleza y la bondad; fomentar la atracción de los valores supremos; realzar el servicio de una hermandad desinteresada; glorificar los potenciales de la vida familiar; promover la educación religiosa; proporcionar consejos sabios y orientación espiritual; y estimular el culto colectivo. Todas las religiones vivientes estimulan la amistad humana, conservan la moralidad, promueven el bienestar de la vecindad y facilitan la difusión del evangelio esencial contenido en sus respectivos mensajes de salvación eterna.» <a id="a52_742"></a>[LU 99:6.2](/es/The_Urantia_Book/99#p6_2)
 
 Para que la Revelación Urantia arraigue en la sociedad moderna, necesitamos un nuevo entorno libre de las restricciones religiosas formalizadas del pasado. Si las personas del siglo XXI van a hablar de Dios, necesitan un espacio más íntimo para hacerlo. Los grupos de estudio son el lugar perfecto para interactuar con grupos más pequeños, que permiten a la gente compartir personalmente su vida religiosa, hacer amigos, aprender más, e incluso recibir ayuda mientras lidian con sus problemas.
 
@@ -58,7 +58,7 @@ Para que la Revelación Urantia arraigue en la sociedad moderna, necesitamos un 
 
 En la sección de _El libro de Urantia_ que explica los beneficios de la asociación religiosa en grupo, se consideran también sus peligros.
 
-> «A medida que la religión se institucionaliza, su poder para hacer el bien se reduce mientras que las posibilidades de hacer el mal se multiplican enormemente.» <a id="a60_133"></a>[LU 99:6.3](/es/The_Urantia_Book/99#p6_3)
+> «A medida que la religión se institucionaliza, su poder para hacer el bien se reduce mientras que las posibilidades de hacer el mal se multiplican enormemente.» <a id="a60_163"></a>[LU 99:6.3](/es/The_Urantia_Book/99#p6_3)
 
 La mayor parte de los peligros descritos pueden mitigarse o eliminarse cuando la gente se reúne en grupos de estudio, libres de toda autoridad eclesiástica y organizados por gente normal dedicada a servir a sus semejantes religiosos. Estos grupos locales pueden emplear lo que funcione mejor para ellos, dependiendo de su cultura y situación.
 
@@ -74,7 +74,7 @@ Mi esposa, Jennifer Siegel, enseña al grupo de niños, y sus clases son algo be
 
 ## Un pensamiento final
 
-En muchos aspectos, lo más cercano a experimentar una comunidad de creyentes es reunirse en un grupo de estudio semanal. Los grupos de estudio son una manera muy bonita de compartir las profundas enseñanzas de _El libro de Urantia_ y de llegar a conocer a nuestros hermanos y hermanas. Nadie es una isla; nos necesitamos los unos a los otros. «_La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual_» <a id="a76_404"></a>[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
+En muchos aspectos, lo más cercano a experimentar una comunidad de creyentes es reunirse en un grupo de estudio semanal. Los grupos de estudio son una manera muy bonita de compartir las profundas enseñanzas de _El libro de Urantia_ y de llegar a conocer a nuestros hermanos y hermanas. Nadie es una isla; nos necesitamos los unos a los otros. «_La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual_» <a id="a76_444"></a>[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
 
 
 ## Referencias

@@ -75,7 +75,7 @@ Creo que esto significa que antes de que podamos participar en el descubrimiento
 
 Tomé la decisión consciente de esforzarme al máximo para adoptar todos los valores que Dios me ha dado para permitir que Su amor fluya a través de mí hacia el mundo. ¿Estoy siquiera cerca de lograr esta tarea eterna? Por supuesto que no, pero irradiar Su amor a todos los que nos rodean es el verdadero deseo de mi corazón. Cada uno de nosotros puede elegir ser amantes Divinos. Todo lo que necesitamos hacer es trabajar en cultivar los frutos del espíritu en nuestra vida diaria, lo cual es idéntico a cultivar la voluntad de Dios en nuestras vidas. Y para hacer esto nos asociamos con Dios y pedimos ayuda diaria. Les pido su ayuda y aliento en nuestro viaje mutuo hacia la luz de mil millones de estrellas y más allá, mientras prometo alentarlos y ayudarlos.
 
-> «Y Jesús respondió: «El reino de los cielos consiste en estas tres cosas esenciales: primero, el reconocimiento del hecho de la soberanía de Dios; segundo, la creencia en la verdad de la filiación con Dios; y tercero, la fe en la eficacia del deseo supremo humano de hacer la voluntad de Dios —de ser semejante a Dios...'» <a id="a77_327"></a>[[LU 140:10.9](/es/The_Urantia_Book/140#p10_9)]
+> «Y Jesús respondió: «El reino de los cielos consiste en estas tres cosas esenciales: primero, el reconocimiento del hecho de la soberanía de Dios; segundo, la creencia en la verdad de la filiación con Dios; y tercero, la fe en la eficacia del deseo supremo humano de hacer la voluntad de Dios —de ser semejante a Dios...'» <a id="a77_325"></a>[[LU 140:10.9](/es/The_Urantia_Book/140#p10_9)]
 
 Prometo que en el futuro trabajaré duro para amar a todos, perdonar todo y no juzgar. Este es entonces el camino jesusoniano.
 

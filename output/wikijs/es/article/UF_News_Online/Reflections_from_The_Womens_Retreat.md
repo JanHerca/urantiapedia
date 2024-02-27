@@ -81,7 +81,7 @@ _Estados Unidos_
 <figcaption><em>Carrie Prentice, South Dakota, United States</em></figcaption>
 </figure>
 
-El domingo, dirigí al grupo para examinar lo que _El libro de Urantia_ dice explícitamente sobre las diferencias entre hombres y mujeres, en vista que la revelación Urantia estaba dirigida a un público de principios del siglo XX. Por ejemplo, consideramos la importancia de esta afirmación: “Sin embargo, la mujer ha sido siempre la abanderada moral y la dirigente espiritual de la humanidad.” <a id="a75_381"></a>[LU 84:6.4](/es/The_Urantia_Book/84#p6_4)
+El domingo, dirigí al grupo para examinar lo que _El libro de Urantia_ dice explícitamente sobre las diferencias entre hombres y mujeres, en vista que la revelación Urantia estaba dirigida a un público de principios del siglo XX. Por ejemplo, consideramos la importancia de esta afirmación: “Sin embargo, la mujer ha sido siempre la abanderada moral y la dirigente espiritual de la humanidad.” <a id="a83_394"></a>[LU 84:6.4](/es/The_Urantia_Book/84#p6_4)
 
 El grupo revisó también el cuerpo de mujeres que Jesús creó para acompañar a los apóstoles en la tercera gira de predicación. Finalmente, el grupo consideró cómo las emociones, tal como se tratan en _El libro de Urantia_, se presentan como deseables y útiles, en tanto que los seres más altos parecen experimentar más tipos de emociones y los artesanos celestiales diseñan nuevas emociones. La meta de esta conversación fue que el grupo imaginara la perspectiva única que las mujeres del siglo XXI pueden aportar para elevar a otras mujeres de todo el mundo con el fin de que se valoren a ellas mismas y reafirmen su espiritualidad equilibrando mente y corazón. Sugerí que acuñáramos un nuevo término para esta técnica de equilibrio: coratelecto.
 

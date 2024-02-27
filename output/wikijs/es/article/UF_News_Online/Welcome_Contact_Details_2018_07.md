@@ -55,7 +55,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2018_07/082.jpg">
 </figure>
 
-> La felicidad y la alegría tienen su origen en la vida interior. _El Libro de Urantia_, <a id="a57_71"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)
+> La felicidad y la alegría tienen su origen en la vida interior. _El Libro de Urantia_, <a id="a57_89"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)
 
 ## Volumen 12, Número 2. Marzo 2018
 

@@ -55,7 +55,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2011_06/036.jpg">
 </figure>
 
-«Una vez que empecéis a descubrir a Dios en vuestra alma, no tardaréis en empezar a descubrirlo en el alma de los otros hombres, y finalmente en todas las criaturas y creaciones de un poderoso universo.» Jesús, _El Libro de Urantia_, <a id="a57_209"></a>[LU 155:6.13](/es/The_Urantia_Book/155#p6_13)
+«Una vez que empecéis a descubrir a Dios en vuestra alma, no tardaréis en empezar a descubrirlo en el alma de los otros hombres, y finalmente en todas las criaturas y creaciones de un poderoso universo.» Jesús, _El Libro de Urantia_, <a id="a57_234"></a>[LU 155:6.13](/es/The_Urantia_Book/155#p6_13)
 <br style="clear:both;"/>
 
 ## Volumen 5, Número 2. Junio 2011

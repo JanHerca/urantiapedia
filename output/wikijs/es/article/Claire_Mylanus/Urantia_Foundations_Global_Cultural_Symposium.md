@@ -50,11 +50,11 @@ Contactamos con personas de África, Asia, Oriente Medio, Sudamérica, Norteamé
 
 He aquí dos de las numerosas citas que nos inspiraron:
 
-> Pero tratar de acelerar con demasiada rapidez el crecimiento religioso no es más que una insensatez. Una raza o una nación sólo puede asimilar, de cualquier religión avanzada, aquello que es razonablemente coherente y compatible con su estado evolutivo en curso, además de su don especial para adaptarse. Todas las condiciones sociales, climáticas, políticas y económicas ejercen su influencia para determinar el curso y el progreso de la evolución religiosa. <a id="a54_407"></a>[LU 92:2.4](/es/The_Urantia_Book/92#p2_4)
+> Pero tratar de acelerar con demasiada rapidez el crecimiento religioso no es más que una insensatez. Una raza o una nación sólo puede asimilar, de cualquier religión avanzada, aquello que es razonablemente coherente y compatible con su estado evolutivo en curso, además de su don especial para adaptarse. Todas las condiciones sociales, climáticas, políticas y económicas ejercen su influencia para determinar el curso y el progreso de la evolución religiosa. <a id="a52_462"></a>[LU 92:2.4](/es/The_Urantia_Book/92#p2_4)
 
 Y
 
-> Cada raza debe familiarizarse con el pensamiento de todas las razas; cada nación debe conocer los sentimientos de todas las naciones. <a id="a58_115"></a>[LU 52:6.4](/es/The_Urantia_Book/52#p6_4)
+> Cada raza debe familiarizarse con el pensamiento de todas las razas; cada nación debe conocer los sentimientos de todas las naciones. <a id="a56_136"></a>[LU 52:6.4](/es/The_Urantia_Book/52#p6_4)
 
 Pueden encontrar más información sobre el programa del Simposio en el [número de abril del boletín de la Fundación](https://www.urantia.org/sites/default/files/docs/foundation_2019_april_newsletter_spanish.pdf).
 

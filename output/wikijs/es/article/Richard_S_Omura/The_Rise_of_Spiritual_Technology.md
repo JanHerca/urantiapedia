@@ -39,7 +39,7 @@ Presentado por primera vez en 2003 como un taller en la sesión de estudio de ve
 
 ## ¿Qué son los Frutos del Espíritu?
 
-> ... porque los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza... <a id="a41_152"></a>[[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
+> ... porque los frutos del espíritu son el amor, la alegría, la paz, la paciencia, la amabilidad, la bondad, la fe, la mansedumbre y la templanza... <a id="a41_150"></a>[[LU 34:6.13](/es/The_Urantia_Book/34#p6_13)]
 
 > ... Y los frutos del espíritu divino, producidos en la vida de los mortales nacidos del espíritu y que conocen a Dios, son: servicio amoroso, consagración desinteresada, lealtad valiente, equidad sincera, honradez iluminada, esperanza imperecedera, confianza fiel, ministerio misericordioso, bondad inagotable, tolerancia indulgente y paz duradera .... <a id="a43_355"></a>[[LU 193:2.2](/es/The_Urantia_Book/193#p2_2)]
 
@@ -123,7 +123,7 @@ Ahora, veamos si podemos encontrar alguna información en _El Libro de Urantia_ 
 
 Una herramienta muy útil para buscar la verdad espiritual es la capacidad de discernimiento. _El Libro de Urantia_ nos habla de un don cósmico que todos tenemos, pero que muchos no usamos, algo que puede y debe desarrollarse en mayor medida; esto se llama «la respuesta a la realidad».
 
-> En todas las asociaciones de personalidad de la mente cósmica existe una cualidad que se podría denominar «sensibilidad a la realidad». Esta dotación cósmica universal de las criaturas volitivas es la que las salva de convertirse en víctimas indefensas de las suposiciones implícitas a priori de la ciencia, la filosofía y la religión... <a id="a125_342"></a>[[LU 16:6.4](/es/The_Urantia_Book/16#p6_4)]
+> En todas las asociaciones de personalidad de la mente cósmica existe una cualidad que se podría denominar «sensibilidad a la realidad». Esta dotación cósmica universal de las criaturas volitivas es la que las salva de convertirse en víctimas indefensas de las suposiciones implícitas a priori de la ciencia, la filosofía y la religión... <a id="a125_340"></a>[[LU 16:6.4](/es/The_Urantia_Book/16#p6_4)]
 
 Seamos claros en lo que significa «a priori». «a pri·o·ri 1. Procediendo de una causa conocida o supuesta a un efecto necesariamente relacionado; deductivo. 2a. Derivado por o que designa el proceso de razonamiento sin referencia a hechos o experiencias particulares. b. Conocible sin apelar a una experiencia particular. 3. Hecho antes o sin examen; no está respaldado por un estudio fáctico». [The American Heritage® Dictionary of the English Language: Cuarta edición. 2000.]
 
@@ -205,11 +205,11 @@ Sentí que era bueno que alguien mencionara esto porque en nuestra sociedad, el 
 
 La personalidad y la causalidad antecedente también están relacionadas con esto porque, como muestran las siguientes tres citas, es solo en la vida interior que somos creativos y podemos estar libres de las cadenas de la influencia material. Devolver bien por mal empieza desde dentro.
 
-> La concesión de la personalidad a las criaturas les confiere una liberación relativa respecto a la reacción servil a la causalidad precedente, y la personalidad de todos estos seres morales, evolutivos u otros, está centrada en la personalidad del Padre Universal... <a id="a207_271"></a>[[LU 5:6.9](/es/The_Urantia_Book/5#p6_9)]
+> La concesión de la personalidad a las criaturas les confiere una liberación relativa respecto a la reacción servil a la causalidad precedente, y la personalidad de todos estos seres morales, evolutivos u otros, está centrada en la personalidad del Padre Universal... <a id="a207_269"></a>[[LU 5:6.9](/es/The_Urantia_Book/5#p6_9)]
 
 > No podéis controlar por completo el mundo exterior —el entorno. La creatividad del mundo interior es la que está más sujeta a vuestra dirección, porque vuestra personalidad se encuentra allí ampliamente liberada de las trabas de las leyes de la causalidad precedente. La personalidad lleva asociada una soberanía volitiva limitada. <a id="a209_334"></a>[[LU 111:4.8](/es/The_Urantia_Book/111#p4_8)]
 
-> Puesto que esta vida interior del hombre es verdaderamente creativa, cada persona tiene la responsabilidad de elegir si esta creatividad será espontánea y totalmente fortuita, o si estará controlada, dirigida y será constructiva... <a id="a211_236"></a>[[LU 111:4.9](/es/The_Urantia_Book/111#p4_9)]
+> Puesto que esta vida interior del hombre es verdaderamente creativa, cada persona tiene la responsabilidad de elegir si esta creatividad será espontánea y totalmente fortuita, o si estará controlada, dirigida y será constructiva... <a id="a211_234"></a>[[LU 111:4.9](/es/The_Urantia_Book/111#p4_9)]
 
 Esta es una información bastante extraordinaria. Esta es la clave de la vida eterna, de la creatividad, de devolver bien por mal, de la transformación personal y de la liberación espiritual. Con este conocimiento, todo es posible, porque estamos libres del pasado y de las ataduras de nuestras acciones pasadas. Desde dentro podemos cambiar lo que somos para convertirnos en lo que queremos ser y solo depende de nuestro libre albedrío decidir y hacerlo así.
 
@@ -219,7 +219,7 @@ Sin embargo, a menudo no es fácil ir en contra de nuestras arraigadas tendencia
 
 La técnica de contactar a Dios, la meditación de adoración, es otra pepita de verdad que debería usarse más. Algunas personas tienen dificultades para negociar con eficacia este proceso. El problema puede provenir de falsos prejuicios y la tendencia a confundir la meditación mística con la meditación espiritual. Una de las razones más comunes por las que algunas personas no pueden meditar por más de unos pocos minutos es la «charla mental» y la incapacidad de simplemente quedarse quieto sin hacer nada. Los mantras y el canto son dos métodos de «baja tecnología» que se desarrollaron para contrarrestar estos problemas. Constantemente se desarrollan nuevos métodos y actualizaciones de viejas prácticas basadas en nuevas fuentes de información como _El Libro de Urantia_.
 
-**¿Qué es la Meditación de Adoración?** Contacto con la presencia divina: «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina..._» <a id="a221_553"></a>[[LU 196:3.34](/es/The_Urantia_Book/196#p3_34)]
+**¿Qué es la Meditación de Adoración?** Contacto con la presencia divina: «_El gran desafío para el hombre moderno consiste en conseguir una mejor comunicación con el Monitor divino que reside en la mente humana. La aventura más grande del hombre en la carne consiste en el esfuerzo sano y bien equilibrado por elevar los límites de la conciencia de sí a través de los reinos imprecisos de la conciencia embrionaria del alma, en un esfuerzo sincero por alcanzar la zona fronteriza de la conciencia espiritual —el contacto con la presencia divina..._» <a id="a221_551"></a>[[LU 196:3.34](/es/The_Urantia_Book/196#p3_34)]
 
 Un intento de comunicarse con Dios: « ... _Por consiguiente, la adoración es el acto mediante el cual la mente material consiente que su yo en vías de espiritualizarse intente comunicarse con Dios, bajo la dirección del espíritu asociado, como hijo por la fe del Padre Universal._» <a id="a223_282"></a>[[LU 5:3.8](/es/The_Urantia_Book/5#p3_8)]
 

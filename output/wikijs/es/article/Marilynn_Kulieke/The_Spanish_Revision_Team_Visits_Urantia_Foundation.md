@@ -52,9 +52,9 @@ Los miembros del equipo siguieron trabajando juntos el sábado por la tarde. ¿P
 
 Aunque quizá no agasajamos a nuestros invitados con una experiencia culinaria americana, el servicio desinteresado que fue tan evidente se refleja en el consejo de Jesús en el discurso de despedida a sus discípulos:
 
-> «Que os améis los unos a los otros como yo os he amado. De esta manera, si os amáis así los unos a los otros, todos los hombres sabrán que sois mis discípulos.» <a id="a54_142"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1) 
+> «Que os améis los unos a los otros como yo os he amado. De esta manera, si os amáis así los unos a los otros, todos los hombres sabrán que sois mis discípulos.» <a id="a54_163"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1) 
 
-> «Si queréis compartir el gozo del Maestro, tenéis que compartir su amor. Y compartir su amor significa que habéis compartido su servicio.» <a id="a56_128"></a>[LU 180:1.5](/es/The_Urantia_Book/180#p1_5)
+> «Si queréis compartir el gozo del Maestro, tenéis que compartir su amor. Y compartir su amor significa que habéis compartido su servicio.» <a id="a56_141"></a>[LU 180:1.5](/es/The_Urantia_Book/180#p1_5)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_12/042.jpg">

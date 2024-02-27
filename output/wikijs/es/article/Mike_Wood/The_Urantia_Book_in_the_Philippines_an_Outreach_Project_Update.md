@@ -51,7 +51,7 @@ A su regreso, estaba deseando escuchar el relato de Eugene y Nestor sobre su ave
 <img src="/image/article/UF_News_Online/2014_03/012.jpg">
 </figure>
 
-> Un sembrador salió a sembrar y sucedió que mientras sembraba, algunas semillas cayeron al borde del camino… Otras semillas cayeron en lugares rocosos... Pero otras semillas cayeron en una buena tierra, y cuando crecieron, algunas produjeron treinta, otras sesenta y otras cien granos. <a id="a53_262"></a>[LU 151:1.2](/es/The_Urantia_Book/151#p1_2)
+> Un sembrador salió a sembrar y sucedió que mientras sembraba, algunas semillas cayeron al borde del camino… Otras semillas cayeron en lugares rocosos... Pero otras semillas cayeron en una buena tierra, y cuando crecieron, algunas produjeron treinta, otras sesenta y otras cien granos. <a id="a53_287"></a>[LU 151:1.2](/es/The_Urantia_Book/151#p1_2)
 
 Nadie pidió a Eugene y Nestor que llevaran a cabo este proyecto; fue una idea totalmente suya. Hicieron gestiones para tomarse unas vacaciones del trabajo, pagaron su propio transporte y el envío de los libros. La única ayuda que pidieron fue para obtener ejemplares de _El libro de Urantia_.
 
@@ -59,7 +59,7 @@ Mientras empaquetábamos 160 Libros de Urantia en noviembre, Eugene y Nestor nos
 
 Su servicio de asistencia me trae a la mente una de mis afirmaciones de mota favoritas:
 
-> Los débiles se conforman con los propósitos, pero los fuertes actúan. La vida sólo es el trabajo de un día—hacedlo bien. El acto es nuestro; las consecuencias pertenecen a Dios. <a id="a61_135"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
+> Los débiles se conforman con los propósitos, pero los fuertes actúan. La vida sólo es el trabajo de un día—hacedlo bien. El acto es nuestro; las consecuencias pertenecen a Dios. <a id="a61_180"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2014_03/015.jpg">

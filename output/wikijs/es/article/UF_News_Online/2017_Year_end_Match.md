@@ -50,7 +50,7 @@ _De los fideicomisarios de la Fundación Urantia_
 
 Como amigos de la Fundación Urantia, estamos muy agradecidos por su ayuda generosa para que continúe la diseminación de _El libro de Urantia_. Su apoyo permite que la búsqueda espiritual descubra y experimente la luz profunda de la verdad viva que todos llegamos a abrazar. Nada es más potente que estas enseñanzas para abrir los ojos de los espiritualmente ciegos, a la vez que ayuda a la transición de los habitantes de este mundo de nuestra actual era secular a una era más cooperativa de espiritualidad.
 
-Se nos dice que «En este conflicto gigantesco entre lo secular y lo espiritual, la religión de Jesús acabará por triunfar». <a id="a52_132"></a>[LU 195:4.5](/es/The_Urantia_Book/195#p4_5) No obstante, hasta entonces queda mucho trabajo por hacer.
+Se nos dice que «En este conflicto gigantesco entre lo secular y lo espiritual, la religión de Jesús acabará por triunfar». <a id="a52_124"></a>[LU 195:4.5](/es/The_Urantia_Book/195#p4_5) No obstante, hasta entonces queda mucho trabajo por hacer.
 
 Puesto que han experimentado el beneficio de estas enseñanzas, ¿seguirán trabajando con nosotros para proporcionar a otros estas mismas verdades? Si es así, sus donaciones a la Fundación Urantia harán posible que _El libro de Urantia_ se traduzca a muchos idiomas y se imprima y distribuya por todo el mundo, que se promuevan grupos de estudio, que se fomenten trabajos de asistencia, que se gestione urantia.org, que funcione la Escuela de _El libro de Urantia_ en Internet, que se mantenga la sede histórica de Chicago y que se realicen seminarios educativos.
 

@@ -52,7 +52,7 @@ De alguna manera intuimos que el hecho de sobrevivir a la muerte física, dado e
 
 Además tenemos el mensaje claro y contundente del LU que nos presenta la idea de que la continuidad de la existencia depende de la decisión consciente e inequívoca de la criatura, de querer o no continuarla, como aparece claramente reflejada en el siguiente párrafo:
 
-> _... Pero si significa que todas las criaturas volitivas deben tener una verdadera oportunidad para hacer una elección indudable, plenamente consciente y definitiva..._ <a id="a54_173"></a>[LU 112:5.9](/es/The_Urantia_Book/112#p5_9)
+> _... Pero si significa que todas las criaturas volitivas deben tener una verdadera oportunidad para hacer una elección indudable, plenamente consciente y definitiva..._ <a id="a54_171"></a>[LU 112:5.9](/es/The_Urantia_Book/112#p5_9)
 
 Y reafirmada con la siguiente expresión:
 
@@ -217,17 +217,17 @@ Y además esta elección de continuidad más allá de la muerte física, parece 
 
 > «_Todos los hijos en los mundos en evolución que tienen Ajustador del Pensamiento, pero que antes de la muerte no habían hecho la elección en lo que concierne a la carrera al Paraiso, también..._» <a id="a217_199"></a>[LU 47:2.4](/es/The_Urantia_Book/47#p2_4)
 
-> _3... Pero la vida temporal en los mundos evolutivos es incierta, y muchos mueren en la juventud antes de haber elegido la carrera al Paraíso. Tales niños y jóvenes morados por un Ajustador siguen al progenitor de estado espiritual más avanzado..._ <a id="a219_253"></a>[LU 49:6.11](/es/The_Urantia_Book/49#p6_11)
+> _3... Pero la vida temporal en los mundos evolutivos es incierta, y muchos mueren en la juventud antes de haber elegido la carrera al Paraíso. Tales niños y jóvenes morados por un Ajustador siguen al progenitor de estado espiritual más avanzado..._ <a id="a219_251"></a>[LU 49:6.11](/es/The_Urantia_Book/49#p6_11)
 
 > _Los niños que mueren antes de haber llegado a edad de tener un Ajustador del Pensamiento...._ <a id="a221_97"></a>[LU 49:6.12](/es/The_Urantia_Book/49#p6_12)
 
-> _En cuanto se relaciona a los candidatos para la fusión, si un Monitor Misterioso es desertado por su asociado mortal, si el socio humano no decide proseguir la carrera ascendente, cuando es liberado por la muerte natural (o antes de ésta),... de esa criatura no sobreviviente..._ <a id="a223_285"></a>[LU 109:6.2](/es/The_Urantia_Book/109#p6_2)
+> _En cuanto se relaciona a los candidatos para la fusión, si un Monitor Misterioso es desertado por su asociado mortal, si el socio humano no decide proseguir la carrera ascendente, cuando es liberado por la muerte natural (o antes de ésta),... de esa criatura no sobreviviente..._ <a id="a223_283"></a>[LU 109:6.2](/es/The_Urantia_Book/109#p6_2)
 
 Sin entrar en consideraciones de las actuaciones del Ajustador en la personalidad, ni de las posibilidades de crecimiento personal espiritual, ni de las consideraciones para la creación y evolución posterior del alma, y disponerlo todo para la fusión con el Ajustador. Bajo mi punto de vista de manera inmediata y como prerrequisito para toda supervivencia futura, tenemos la situación siguiente:
 
 > _La mente mortal (no la mente morontial) es un sistema temporal de intelecto prestado a los seres humanos para uso durante una vida material, y según usen esta mente, estarán o aceptando o rechazando el potencial de la existencia eterna..._ <a id="a227_243"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5)
 
-> _... pero la mente mortal puede efectivamente ser distorsionada, torcida y volverse malvada y fea por las maquinaciones pecaminosas de una voluntad humana perversa y autogratificante..._ <a id="a229_191"></a>[LU 111:1.6](/es/The_Urantia_Book/111#p1_6)
+> _... pero la mente mortal puede efectivamente ser distorsionada, torcida y volverse malvada y fea por las maquinaciones pecaminosas de una voluntad humana perversa y autogratificante..._ <a id="a229_189"></a>[LU 111:1.6](/es/The_Urantia_Book/111#p1_6)
 
 Es cierto que no esperan que comprendamos para estar en el camino, ni siquiera piden que seamos buenos. Lo que piden es que nuestra voluntad anhele a Dios, lo desee. Es decir, que desee comenzar el mandato supremo del Padre Universal para los seres humanos: ser Perfectos como lo es ÉL.
 
@@ -253,13 +253,13 @@ Recordando que la mente es una dádiva del Espíritu Materno de nuestro Universo
 
 > _1. La muerte espiritual (del alma). Si el hombre mortal rechaza la supervivencia..._ <a id="a253_88"></a>[LU 112:3.2](/es/The_Urantia_Book/112#p3_2)
 
-> _....La personalidad del hombre es eterna, pero en cuanto a la identidad, es una realidad eterna condicionada... el hombre tiene que escoger si estará o no presente en el momento de llegar a ese destino. Si no se efectúa esa elección..._ <a id="a255_242"></a>[LU 112:5.2](/es/The_Urantia_Book/112#p5_2) 
+> _....La personalidad del hombre es eterna, pero en cuanto a la identidad, es una realidad eterna condicionada... el hombre tiene que escoger si estará o no presente en el momento de llegar a ese destino. Si no se efectúa esa elección..._ <a id="a255_240"></a>[LU 112:5.2](/es/The_Urantia_Book/112#p5_2) 
 
 Habrá muchas oportunidades durante la vida material para que nos decidamos a dar ese paso, pero si somos perezosos, orgullosos, etc., ¿con qué nos encontraremos? Se nos da en el LU mucha información sobre el fracaso de la supervivencia de la personalidad en la etapa humana, como para que sólo sea una remota o hipotética posibilidad:
 
-> _Yo be observado a un Ajustador del Pensamiento que reside en una mente en Urantia quien, según los archivos de Uversa, ha residido previamente en quince mentes en Orvonton.... Lo que otros han perdido, por haberse negado a sobrevivir, este ser humano (y vuestro mundo entero) gana abora. Al que no posea cualidades de supervivencia, se le quitará aun ese Ajustador experto que abora posee, mientras que al que tenga probabilidades de supervivencia se le dará aun el Ajustador que haya experimentado previamente ***a un desertor holgazán***._ <a id="a259_547"></a>[LU 109:4.5](/es/The_Urantia_Book/109#p4_5)
+> _Yo be observado a un Ajustador del Pensamiento que reside en una mente en Urantia quien, según los archivos de Uversa, ha residido previamente en quince mentes en Orvonton.... Lo que otros han perdido, por haberse negado a sobrevivir, este ser humano (y vuestro mundo entero) gana abora. Al que no posea cualidades de supervivencia, se le quitará aun ese Ajustador experto que abora posee, mientras que al que tenga probabilidades de supervivencia se le dará aun el Ajustador que haya experimentado previamente ***a un desertor holgazán***._ <a id="a259_545"></a>[LU 109:4.5](/es/The_Urantia_Book/109#p4_5)
 
-> _El gran problema de la vida es el ajuste de las tendencias ancestrales del vivir a las demandas de los impulsos espirituales iniciados por la presencia divina del Monitor Misterioso...; por esto tantos tropiezan y fracasan, se agotan y sucumben a la presión de la lucha evolutiva. Si cooperas con tu Ajustador,..._ <a id="a261_320"></a>[LU 109:5.4](/es/The_Urantia_Book/109#p5_4)
+> _El gran problema de la vida es el ajuste de las tendencias ancestrales del vivir a las demandas de los impulsos espirituales iniciados por la presencia divina del Monitor Misterioso...; por esto tantos tropiezan y fracasan, se agotan y sucumben a la presión de la lucha evolutiva. Si cooperas con tu Ajustador,..._ <a id="a261_318"></a>[LU 109:5.4](/es/The_Urantia_Book/109#p5_4)
 
 Luego el desarrollo de tu alma depende de tu cooperación con el Ajustador, que traducido no es sino que tus decisiones se alineen con la voluntad del Padre, manifestada por la guía del Ajustador. Como indiqué antes, el proceso pasa por las siguientes etapas:
 

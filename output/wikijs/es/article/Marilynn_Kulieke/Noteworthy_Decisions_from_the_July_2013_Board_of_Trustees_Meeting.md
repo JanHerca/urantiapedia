@@ -100,7 +100,7 @@ Para más información, visiten [http://www.urantiabookschool.org](http://www.ur
 
 ## Seminario sobre identificación de hechos y conceptos científicos que indican una planificación inteligente del universo
 
-En la serie continua de seminarios educativos celebrados en el 533 W. Diversey Parkway de Chicago, Ralph Zehr facilitará un simposio para identificar hechos científicos que muestran que el universo es una creación planeada y no accidental. El simposio está basado en la afirmación: «_Los intermedios de Urantia han reunido más de cincuenta mil hechos físicos y químicos que estiman que son incompatibles con las leyes del azar y que, según afirman, demuestran de manera inequívoca la presencia de un propósito inteligente en la creación material_.» [LU 58:2.3](/es/The_Urantia_Book/58#p2_3)
+En la serie continua de seminarios educativos celebrados en el 533 W. Diversey Parkway de Chicago, Ralph Zehr facilitará un simposio para identificar hechos científicos que muestran que el universo es una creación planeada y no accidental. El simposio está basado en la afirmación: «_Los intermedios de Urantia han reunido más de cincuenta mil hechos físicos y químicos que estiman que son incompatibles con las leyes del azar y que, según afirman, demuestran de manera inequívoca la presencia de un propósito inteligente en la creación material_.» <a id="a102_549"></a>[LU 58:2.3](/es/The_Urantia_Book/58#p2_3)
 
 Al seminario se asistirá sólo por invitación, así que, si quieren formar parte del simposio, contacten con Joanne Strobel en Joanne@urantia.org.
 

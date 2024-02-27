@@ -61,11 +61,11 @@ El equipo también acordó establecer directrices prácticas sobre la frecuencia
 <figcaption><em>Along with Belen, the Filipino translation team</em></figcaption>
 </figure>
 
-Lo más importante es que hay unidad de espíritu. Dios nos da a cada uno una personalidad única, y en cada uno de nosotros mora un fragmento del Padre. Como dijo Jesús: «¿cuándo os he enseñado que todos debéis ver las cosas de la misma manera? (…) No tenéis que ver las cosas de la misma manera ni sentir de la misma manera, ni siquiera pensar de la misma manera, para ser espiritualmente de la misma manera». <a id="a63_309"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)
+Lo más importante es que hay unidad de espíritu. Dios nos da a cada uno una personalidad única, y en cada uno de nosotros mora un fragmento del Padre. Como dijo Jesús: «¿cuándo os he enseñado que todos debéis ver las cosas de la misma manera? (…) No tenéis que ver las cosas de la misma manera ni sentir de la misma manera, ni siquiera pensar de la misma manera, para ser espiritualmente de la misma manera». <a id="a63_409"></a>[LU 141:5.1](/es/The_Urantia_Book/141#p5_1)
 
 Sí, ¡trabajo en equipo es lo que los reveladores quieren de nosotros, los mortales! Aunque el software de traducción es útil, los traductores imparten el alma y la profundidad de significado al trabajo de los reveladores celestiales. Capa a capa, al buscar lo mejor y más elevado de cada significado del inglés al filipino, nos hemos enriquecido espiritualmente en cuerpo, mente y espíritu.
 
-Hasta ahora, los documentos 1 a 36 han sido traducidos y enviados a la Fundación Urantia. Damos las gracias a todos los donantes que apoyan la propagación de la quinta revelación de época en Filipinas. «La vida no es más que un día de trabajo, hacedlo bien. La acción es nuestra; las consecuencias, de Dios.» <a id="a67_271"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
+Hasta ahora, los documentos 1 a 36 han sido traducidos y enviados a la Fundación Urantia. Damos las gracias a todos los donantes que apoyan la propagación de la quinta revelación de época en Filipinas. «La vida no es más que un día de trabajo, hacedlo bien. La acción es nuestra; las consecuencias, de Dios.» <a id="a67_309"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
 
 Por favor, recen por nosotros mientras continuamos con esta profunda empresa espiritual.
 

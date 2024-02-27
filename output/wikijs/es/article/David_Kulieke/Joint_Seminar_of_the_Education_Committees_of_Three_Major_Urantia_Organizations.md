@@ -60,7 +60,7 @@ El miércoles por la mañana estuvo centrado en el tema «Nuestra misión educat
 > 
 > _Fundación Urantia_
 > 
-> Al alinear nuestros esfuerzos educativos con la empresa de los reveladores de «aumentar la conciencia cósmica y elevar la percepción espiritual» <a id="a60_135"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2), nos sentimos inspirados para estudiar y compartir las enseñanzas de El libro de Urantia de manera que:
+> Al alinear nuestros esfuerzos educativos con la empresa de los reveladores de «aumentar la conciencia cósmica y elevar la percepción espiritual» <a id="a62_147"></a>[LU 0:0.2](/es/The_Urantia_Book/0#p0_2), nos sentimos inspirados para estudiar y compartir las enseñanzas de El libro de Urantia de manera que:
 > 
 > - Ilumine a Dios y su realidad mediante el descubrimiento progresivo de la verdad, la belleza y la bondad.
 > - Fomente la transformación intelectual, moral y espiritual.

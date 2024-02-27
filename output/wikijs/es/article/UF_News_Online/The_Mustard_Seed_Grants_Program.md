@@ -65,7 +65,7 @@ Estas son las subvencionadas otorgadas que se anunciaron el 15 de marzo:
 
 ¿Se les ocurre alguna idea para desarrollar un programa educativo que lleve la quinta revelación de época a un público inexplorado? ¿Han pensado en un proyecto innovador que aborde algunos retos importantes de divulgación? Si es así, ¡pueden optar a una subvención Semilla de Mostaza! La convocatoria de la segunda ronda se anunciará este verano.
 
-> Dijo Jesús: «El reino de los cielos es como un grano de mostaza que un hombre sembró en su campo. La semilla de mostaza es en verdad la más pequeña de todas las simientes, pero cuando ha crecido es la mayor de las hortalizas, y se hace árbol, de modo que las aves del cielo vienen y anidan en sus ramas». <a id="a69_306"></a>[LU 151:4.2](/es/The_Urantia_Book/151#p4_2)
+> Dijo Jesús: «El reino de los cielos es como un grano de mostaza que un hombre sembró en su campo. La semilla de mostaza es en verdad la más pequeña de todas las simientes, pero cuando ha crecido es la mayor de las hortalizas, y se hace árbol, de modo que las aves del cielo vienen y anidan en sus ramas». <a id="a67_307"></a>[LU 151:4.2](/es/The_Urantia_Book/151#p4_2)
 
 
 ## Referencias

@@ -43,9 +43,9 @@ Al anunciar lo último de nuestra serie continua de retiros para mujeres en la F
 
 En nuestro próximo retiro, «Bailando con Dios: Emergiendo en lo Sagrado», cuatro Hijas de Dios han diseñado un programa donde cocrearemos un ambiente de confianza dentro de un círculo espiritual, para que podamos explorar juntas preguntas como:
 
-- ¿Qué significa para usted que «Jesús nunca dejó de exaltar la sacralidad del individuo»? <a id="a45_96"></a>[LU 170:3.10](/es/The_Urantia_Book/170#p3_10)
+- ¿Qué significa para usted que «Jesús nunca dejó de exaltar la sacralidad del individuo»? <a id="a45_91"></a>[LU 170:3.10](/es/The_Urantia_Book/170#p3_10)
 
-- «Los ángeles no invaden la santidad de la mente humana». ¿Cómo te relacionas con esto? <a id="a47_84"></a>[LU 113:5.1](/es/The_Urantia_Book/113#p5_1)
+- «Los ángeles no invaden la santidad de la mente humana». ¿Cómo te relacionas con esto? <a id="a47_89"></a>[LU 113:5.1](/es/The_Urantia_Book/113#p5_1)
 - ¿Cómo se toma conciencia de lo sagrado en el trabajo pesado de la vida cotidiana?
 
 <figure id="Figure_1" class="image urantiapedia">

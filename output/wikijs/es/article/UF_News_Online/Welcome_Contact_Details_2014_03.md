@@ -57,7 +57,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2014_03/042.jpg">
 </figure>
 
-“... poned vuestra confianza en el Padre, de quien sois mensajeros. No resistáis a la injusticia por medio de la fuerza; no pongáis vuestra confianza en el vigor corporal. Si vuestro prójimo os golpea en la mejilla derecha, ofrecedle también la izquierda.” Jesús a los apóstoles, _El Libro de Urantia_, <a id="a60_257"></a>[LU 140:3.14](/es/The_Urantia_Book/140#p3_14)
+“... poned vuestra confianza en el Padre, de quien sois mensajeros. No resistáis a la injusticia por medio de la fuerza; no pongáis vuestra confianza en el vigor corporal. Si vuestro prójimo os golpea en la mejilla derecha, ofrecedle también la izquierda.” Jesús a los apóstoles, _El Libro de Urantia_, <a id="a59_303"></a>[LU 140:3.14](/es/The_Urantia_Book/140#p3_14)
 <br style="clear:both;"/>
 
 ---

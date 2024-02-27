@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _De Line St-Pierre, Québec (Canadá) y las demás asistentes al retiro «Hijas de Dios»._
 <br style="clear:both;"/>
 
-> «La personalidad humana no es simplemente una cosa que acompaña a los acontecimientos del tiempo y del espacio; la personalidad humana también puede actuar como causa cósmica de esos acontecimientos.» <a id="a43_151"></a>[LU 12:5.11](/es/The_Urantia_Book/12#p5_11)
+> «La personalidad humana no es simplemente una cosa que acompaña a los acontecimientos del tiempo y del espacio; la personalidad humana también puede actuar como causa cósmica de esos acontecimientos.» <a id="a43_203"></a>[LU 12:5.11](/es/The_Urantia_Book/12#p5_11)
 
 En el histórico salón del Foro de la sede de la Fundación Urantia en Chicago, se reunieron diez mujeres para realizar un retiro del 22 al 25 de septiembre de 2016, «Bailar con Dios: personificar el amor de Dios». Este fue el segundo evento de este tipo; el primero se celebró hace un año.
 

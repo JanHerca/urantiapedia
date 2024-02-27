@@ -58,11 +58,11 @@ Es un testimonio del poder de atracción de la revelación de la verdad el hecho
 
 _El libro de Urantia_ es único entre las revelaciones de época que se han hecho a nuestro planeta. Es un texto, más que una persona (o personas). Por lo tanto, debemos leer e interpretar sus palabras en nuestra mente para experimentarlo y conocerlo. Esto puede ser un trabajo solitario, y de hecho nos dicen que debe hacerlo cada individuo como parte de su experiencia religiosa personal única.
 
-> En realidad cada ser humano define la religión según su propia interpretación experiencial de los impulsos divinos que emanan del espíritu de Dios que lo habita, por eso su interpretación ha de ser única, y totalmente distinta de la filosofía religiosa de todos los demás seres humanos. <a id="a60_303"></a>[LU 103:1.1](/es/The_Urantia_Book/103#p1_1)
+> En realidad cada ser humano define la religión según su propia interpretación experiencial de los impulsos divinos que emanan del espíritu de Dios que lo habita, por eso su interpretación ha de ser única, y totalmente distinta de la filosofía religiosa de todos los demás seres humanos. <a id="a60_289"></a>[LU 103:1.1](/es/The_Urantia_Book/103#p1_1)
 
 Pero también nos dicen que es esencial compartir esa experiencia personal con los demás.
 
-> Aunque vuestra religión sea una experiencia personal, es muy importante que toméis conocimiento de muchas otras experiencias religiosas (las diversas interpretaciones de otros mortales) para evitar que vuestra vida religiosa se vuelva egocéntrica, es decir, circunscrita, egoísta y asocial. <a id="a64_345"></a>[LU 103:1.3](/es/The_Urantia_Book/103#p1_3)
+> Aunque vuestra religión sea una experiencia personal, es muy importante que toméis conocimiento de muchas otras experiencias religiosas (las diversas interpretaciones de otros mortales) para evitar que vuestra vida religiosa se vuelva egocéntrica, es decir, circunscrita, egoísta y asocial. <a id="a64_293"></a>[LU 103:1.3](/es/The_Urantia_Book/103#p1_3)
 
 Si bien siempre hemos deseado que la UBIS fomente este intercambio de experiencias religiosas, el formato de grupo de estudio nos ofrece una forma adicional de promover este objetivo.
 

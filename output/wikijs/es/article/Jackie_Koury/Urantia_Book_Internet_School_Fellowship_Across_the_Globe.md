@@ -58,7 +58,7 @@ Como estudiante me vi sumamente interesada, desafiada, presionada y encantada du
 
 Mi manera de pensar se ha elevado después de diez semanas de estudio. Responder a preguntas perspicaces personalizó el tema de estudio. He adquirido nuevos puntos de vista al leer, escribir, estudiar y llevar a mi corazón las respuestas de mis compañeros de clase. Todos hemos aprendido mucho al compartir nuestras ideas y del tiempo que hemos pasado juntos en el espacio proporcionado por la UBIS.
 
-> «El conocimiento sólo se posee compartiéndolo; es salvaguardado por la sabiduría y se socializa por medio del amor.» <a id="a58_96"></a>[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)
+> «El conocimiento sólo se posee compartiéndolo; es salvaguardado por la sabiduría y se socializa por medio del amor.» <a id="a60_119"></a>[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)
 
 
 ## Referencias

@@ -53,7 +53,7 @@ Soy científico – matemático – que se toma _El libro de Urantia_ literalmen
 > 2. La coordinación de los hechos y de las observaciones conocidos o a punto de ser conocidos.
 > 3. El restablecimiento de importantes fragmentos de conocimientos perdidos relacionados con acontecimientos históricos del pasado lejano.
 > 4. El suministro de una información que colma las lagunas vitales existentes en los conocimientos adquiridos de otras maneras.
-> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. <a id="a54_128"></a>[LU 101:4.5](/es/The_Urantia_Book/101#p4_5)
+> 5. La presentación de unos datos cósmicos de tal forma que ilumine las enseñanzas espirituales contenidas en la revelación que las acompaña. <a id="a55_143"></a>[LU 101:4.5](/es/The_Urantia_Book/101#p4_5)
 
 Los autores usan una terminología imprecisa cuando desean evitar revelar información no incluida en el mandato, no ganada o prohibida, o que han elegido no desvelar. Pero cuando hacen una afirmación definitiva, no están devolviendo errores de principios del siglo veinte – el lector puede esperar leer correcciones hechas con autoridad de errores que disminuyen la confusión.
 

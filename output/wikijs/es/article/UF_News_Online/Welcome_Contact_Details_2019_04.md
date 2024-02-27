@@ -60,7 +60,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2019_04/046.jpg">
 </figure>
 
-El ministerio terrenal del Maestro tuvo muy pocos aspectos profesionales, bien planeados o premeditados. Concedía la salud y sembraba la alegría con naturalidad y gentileza mientras viajaba por la vida. Era literalmente cierto que «iba de un sitio para otro haciendo el bien». _El Libro de Urantia_, <a id="a62_282"></a>[LU 171:7.9](/es/The_Urantia_Book/171#p7_9)
+El ministerio terrenal del Maestro tuvo muy pocos aspectos profesionales, bien planeados o premeditados. Concedía la salud y sembraba la alegría con naturalidad y gentileza mientras viajaba por la vida. Era literalmente cierto que «iba de un sitio para otro haciendo el bien». _El Libro de Urantia_, <a id="a62_300"></a>[LU 171:7.9](/es/The_Urantia_Book/171#p7_9)
 <br style="clear:both;"/>
 
 

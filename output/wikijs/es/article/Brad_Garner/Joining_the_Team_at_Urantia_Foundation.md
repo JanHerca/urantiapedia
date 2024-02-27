@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 De Brad Garner, Fundación Urantia (Arizona, Estados Unidos)
 <br style="clear:both;"/>
 
-> «No puede haber polluelo sin cascarón, y ningún cascarón vale nada una vez que ha salido el polluelo». <a id="a42_100"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32)
+> «No puede haber polluelo sin cascarón, y ningún cascarón vale nada una vez que ha salido el polluelo». <a id="a43_105"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32)
 
 Como estudiante de segunda generación y de toda la vida de _El libro de Urantia_, soy la incorporación más reciente al personal de la Fundación Urantia. Hasta hace unos años era empleado del gobierno federal, trabajaba en varios proyectos de ciencias naturales y ayudaba a publicar material en línea. Era un trabajo gratificante y estoy agradecido por el salario y la experiencia que me proporcionó.
 
@@ -49,7 +49,7 @@ Pero para ser sinceros, después de 15 años se estaba volviendo aburrido (hay m
 
 Consciente de los avisos contra el totalitarismo secular del documento 195 (mi favorito), elegí dar el salto fuera de los páramos del mundo secular. El cascarón me había sido útil, pero sentía que había eclosionado metafóricamente. Era hora de dedicarse a otros asuntos.
 
-No mucho después de ese cambio personal tuve la suerte de conocer al amor de mi vida. Ruthie y yo nos casamos hace un año, y después llegó la oportunidad de comenzar a ayudar a la Fundación Urantia con el sitio web y utilizar las habilidades informáticas y el oficio de gestión de proyectos que he acumulado a través de títulos, libros y la escuela de golpes duros, sabiduría nacida de la tribulación como se declara en la sección 7 del documento 48. <a id="a50_384"></a>[Section 7 of Paper 48](/es/The_Urantia_Book/48#p7).
+No mucho después de ese cambio personal tuve la suerte de conocer al amor de mi vida. Ruthie y yo nos casamos hace un año, y después llegó la oportunidad de comenzar a ayudar a la Fundación Urantia con el sitio web y utilizar las habilidades informáticas y el oficio de gestión de proyectos que he acumulado a través de títulos, libros y la escuela de golpes duros, sabiduría nacida de la tribulación como se declara en la sección 7 del documento 48. <a id="a51_451"></a>[Section 7 of Paper 48](/es/The_Urantia_Book/48#p7).
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_03/045.jpg">

@@ -58,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2013_12/051.jpg">
 </figure>
 
-Real religion leads to increased social service. _El Libro de Urantia_, <a id="a60_69"></a>[LU 102:3.4](/es/The_Urantia_Book/102#p3_4)
+Real religion leads to increased social service. _El Libro de Urantia_, <a id="a60_72"></a>[LU 102:3.4](/es/The_Urantia_Book/102#p3_4)
 <br style="clear:both;"/>
 
 ## Volumen 7, Número 4. Diciembre 2013

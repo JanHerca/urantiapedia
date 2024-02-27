@@ -65,7 +65,7 @@ Del jueves 16 de junio al domingo 19 de junio de 2022
 <img src="/image/article/UF_News_Online/2021_07/055.jpg" class="align-center">
 </figure>
 
-«Todo progreso humano se efectúa mediante una técnica de _evolución revelatoria_ conjunta.» <a id="a69_84"></a>[LU 196:3.15](/es/The_Urantia_Book/196#p3_15)
+«Todo progreso humano se efectúa mediante una técnica de _evolución revelatoria_ conjunta.» <a id="a67_92"></a>[LU 196:3.15](/es/The_Urantia_Book/196#p3_15)
 
 La explosión de información e innovación en campos tales como la antropología, la arqueología, la química, la cosmología, la paleontología, la física, la planetología y la psicología aporta nuevas perspectivas a la consciencia pública. Este simposio ahondará en las perspectivas duales de la revelación y la ciencia actual en relación con la evolución y sus diversos aspectos de raza, cultura, genética y género. El propósito es educar y preparar a los lectores para manejar con destreza cuestiones relacionadas con temas sensibles tal como se revelan en _El libro de Urantia_.
 
@@ -77,11 +77,11 @@ Si están interesados en dar una presentación, contacten con [joanne@urantia.or
 <img src="/image/article/UF_News_Online/2021_07/063.jpg">
 </figure>
 
-Urantia Press se complace en anunciar que la segunda edición de La historia no contada de Jesús ya está disponible. Después de un esfuerzo de varios años, pensamos que la primera impresión era todo lo que podía ser. Pero como sabemos, «la criatura puede anhelar la infalibilidad, pero sólo los Creadores la poseen». <a id="a81_282"></a>[LU 159:4.8](/es/The_Urantia_Book/159#p4_8)
+Urantia Press se complace en anunciar que la segunda edición de La historia no contada de Jesús ya está disponible. Después de un esfuerzo de varios años, pensamos que la primera impresión era todo lo que podía ser. Pero como sabemos, «la criatura puede anhelar la infalibilidad, pero sólo los Creadores la poseen». <a id="a79_316"></a>[LU 159:4.8](/es/The_Urantia_Book/159#p4_8)
 
 Entonces, para la segunda impresión todo quedó sujeto a revisión. Las mejoras son demasiado numerosas para enumerarlas, pero se extienden de principio a fin. Sólo hay una cosa que nunca podrá mejorarse y es el evangelio salvador de Jesús. La última cita del libro lo dice todo:
 
-«La religión de Jesús es la influencia unificadora más poderosa que el mundo jamás haya conocido». <a id="a85_90"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17)
+«La religión de Jesús es la influencia unificadora más poderosa que el mundo jamás haya conocido». <a id="a83_99"></a>[LU 194:3.17](/es/The_Urantia_Book/194#p3_17)
 
 Qué gran manera de presentar la vida revelada y las enseñanzas de Jesús a tus amigos y familiares.
 

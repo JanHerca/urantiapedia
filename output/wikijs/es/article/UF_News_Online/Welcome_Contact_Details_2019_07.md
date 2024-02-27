@@ -59,7 +59,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2019_07/061.jpg">
 </figure>
 
-Aprendieron que a muchas almas se les puede inducir mejor a amar al Dios invisible, si primero se les enseña a amar a sus hermanos que pueden ver. _El Libro de Urantia_, <a id="a61_134"></a>[LU 155:3.4](/es/The_Urantia_Book/155#p3_4)
+Aprendieron que a muchas almas se les puede inducir mejor a amar al Dios invisible, si primero se les enseña a amar a sus hermanos que pueden ver. _El Libro de Urantia_, <a id="a61_170"></a>[LU 155:3.4](/es/The_Urantia_Book/155#p3_4)
 
 <br style="clear:both;"/>
 

@@ -48,7 +48,7 @@ Uno de los aspectos especiales de la UBIS es que ahora los buscadores de la verd
 
 La siguiente cita nos da una razonable confianza de que nuestros esfuerzos con respecto a la UBIS seguirán dando fruto, merecedor de su asociación con la Quinta Revelación de Época:
 
-> «Aquello que una imaginación humana iluminada y reflexiva, instruida y guiada por el espíritu, desea ser y hacer desinteresadamente y de todo corazón, se vuelve sensiblemente creativo según el grado en que el mortal esté consagrado a hacer divinamente la voluntad del Padre. Cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden.» <a id="a50_342"></a>[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)
+> «Aquello que una imaginación humana iluminada y reflexiva, instruida y guiada por el espíritu, desea ser y hacer desinteresadamente y de todo corazón, se vuelve sensiblemente creativo según el grado en que el mortal esté consagrado a hacer divinamente la voluntad del Padre. Cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden.» <a id="a50_365"></a>[LU 132:7.9](/es/The_Urantia_Book/132#p7_9)
 
 > El método de enseñanza se basa en el de Jesús y no es interpretativo.
 

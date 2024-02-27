@@ -94,7 +94,7 @@ Mientras miramos introspectivamente para examinar nuestra propia boleta de calif
 
 Cada uno de estos resonará individualmente con los desafíos asociados con la vida. Cada uno exigirá el pleno cumplimiento de la fe y la valentía. Cada uno requerirá todo o nada, plena confianza en Dios. Las lecciones de vida invariablemente proporcionarán mucha práctica.
 
-> En Jerusem, los ascendentes de estos mundos aislados ocupan un sector residencial propio y se les conoce con el nombre de agondontarios, lo que significa criaturas volitivas evolutivas que pueden creer sin ver, perseverar cuando están aisladas y vencer dificultades insuperables incluso estando solas... <a id="a96_308"></a>[[LU 50:7.2](/es/The_Urantia_Book/50#p7_2)]
+> En Jerusem, los ascendentes de estos mundos aislados ocupan un sector residencial propio y se les conoce con el nombre de agondontarios, lo que significa criaturas volitivas evolutivas que pueden creer sin ver, perseverar cuando están aisladas y vencer dificultades insuperables incluso estando solas... <a id="a96_306"></a>[[LU 50:7.2](/es/The_Urantia_Book/50#p7_2)]
 
 Mientras observamos y vivimos en un mundo donde Dios existe, no podemos presumir de juzgar si un individuo tiene fe o no, pero podemos eliminar los malentendidos, la ignorancia y el filosofar bien intencionado y determinar dónde nos encontramos en la matriz de complicados sistemas de creencias. «_«¿Tenéis fe? Entonces tenedla por vosotros mismos»._» <a id="a98_352"></a>[[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)]
 

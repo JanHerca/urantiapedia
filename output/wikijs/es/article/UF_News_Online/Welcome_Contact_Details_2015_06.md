@@ -58,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2015_06/046.jpg">
 </figure>
 
-Sin el amor auténtico del hogar, ningún niño puede alcanzar el pleno desarrollo de un carácter normal. _El Libro de Urantia_, <a id="a60_119"></a>[LU 160:2.6](/es/The_Urantia_Book/160#p2_6)
+Sin el amor auténtico del hogar, ningún niño puede alcanzar el pleno desarrollo de un carácter normal. _El Libro de Urantia_, <a id="a60_126"></a>[LU 160:2.6](/es/The_Urantia_Book/160#p2_6)
 <br style="clear:both;"/>
 
 

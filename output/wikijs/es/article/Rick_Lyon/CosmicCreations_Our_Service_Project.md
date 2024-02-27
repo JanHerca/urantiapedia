@@ -70,7 +70,7 @@ También publicamos un boletín mensual para nuestros clientes. Hace poco inclui
 
 El beneficio personal es compartir la riqueza de haber ganado la lotería espiritual cuando encontramos _El libro de Urantia_. CosmicCreations es un proyecto en el que Susan y yo podemos trabajar juntos y sentimos que es una bendición tener esta oportunidad de servir.
 
-> Jesús enseñó que el _servicio_ al prójimo es el concepto más elevado de la fraternidad de los creyentes en el espíritu. <a id="a72_108"></a>[LU 188:4.9](/es/The_Urantia_Book/188#p4_9)
+> Jesús enseñó que el _servicio_ al prójimo es el concepto más elevado de la fraternidad de los creyentes en el espíritu. <a id="a72_122"></a>[LU 188:4.9](/es/The_Urantia_Book/188#p4_9)
 
 ## Dónde estamos
 

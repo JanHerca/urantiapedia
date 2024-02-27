@@ -54,7 +54,7 @@ Creo que la oración contemplativa podría compararse con la adoración. Dios ex
 <figcaption><em>1st row: Cyril C., Carol Schindler, David Elders, Claire Mylanus, Samantha Nior, Marta Elders<br>2d row: Gard Jameson, Marc Joly, Luis García-Bory, Ade Awoyinka</em></figcaption>
 </figure>
 
-> «Jesús enseñó a sus seguidores que, después de haber hecho sus oraciones al Padre, deberían permanecer algún tiempo en un estado de receptividad silenciosa para proporcionar al espíritu interior las mejores posibilidades de hablarle al alma atenta. El espíritu del Padre le habla mejor al hombre cuando la mente humana se encuentra en una actitud de verdadera adoración.» <a id="a56_323"></a>[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)
+> «Jesús enseñó a sus seguidores que, después de haber hecho sus oraciones al Padre, deberían permanecer algún tiempo en un estado de receptividad silenciosa para proporcionar al espíritu interior las mejores posibilidades de hablarle al alma atenta. El espíritu del Padre le habla mejor al hombre cuando la mente humana se encuentra en una actitud de verdadera adoración.» <a id="a56_374"></a>[LU 146:2.17](/es/The_Urantia_Book/146#p2_17)
 
 El segundo día del retiro, David Elders, que lleva leyendo _El libro de Urantia_ durante más de treinta años, ilustró dinámicamente las nuevas enseñanzas y conceptos de _El libro de Urantia_. David nos mostró cómo estos nuevos conceptos son una manera de que aprendamos y percibamos la verdad, y de que la experimentemos en nuestra vida.
 

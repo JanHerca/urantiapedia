@@ -23,7 +23,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - Jay Peregrino
 - Detalles de contacto
 
-> Y el Padre reina también en el corazón de sus hijos de la Tierra por medio del espíritu que ha enviado a vivir dentro del alma de los hombres mortales. [LU 141:2](/es/The_Urantia_Book/141#p2)
+> Y el Padre reina también en el corazón de sus hijos de la Tierra por medio del espíritu que ha enviado a vivir dentro del alma de los hombres mortales. <a id="a25_154"></a>[LU 141:2](/es/The_Urantia_Book/141#p2)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_05/001.jpg">
@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2007_05/034.jpg">
 </figure>
 
-_Cuando las mareas de la adversidad, el egoísmo, la crueldad, el odio, la maldad y los celos humanos sacuden el alma de los mortales, podéis tener la seguridad de que existe un bastión interior, la ciudadela del espíritu, que es absolutamente inatacable..._ [[LU 100:2](/es/The_Urantia_Book/100#p2)]
+_Cuando las mareas de la adversidad, el egoísmo, la crueldad, el odio, la maldad y los celos humanos sacuden el alma de los mortales, podéis tener la seguridad de que existe un bastión interior, la ciudadela del espíritu, que es absolutamente inatacable..._ <a id="a37_258"></a>[[LU 100:2](/es/The_Urantia_Book/100#p2)]
 
 <br style="clear:both;"/>
 

@@ -48,7 +48,7 @@ La escuela se inspira en el enfoque de Jesús para estimular en cada hijo del Pa
 
 Los profesores-facilitadores de la UBIS diseñan preguntas reflexivas para provocar en los estudiantes el encuentro personal con las verdades reveladas que, una vez experimentadas en su alma, conducen a una mayor percepción espiritual. Debido al efecto transformador de la revelación descendente de nuevas verdades y al pretendido proceso de crecimiento de la revelación en sí misma, el enfoque de la UBIS se centra únicamente en _El libro de Urantia_ y no incluye trabajos secundarios (interpretativos) ni expresiones evolutivas de otros buscadores-autores que reflexionan sobre sus puntos de vista de la verdad o la realidad.
 
-> La verdad revelada, la verdad descubierta personalmente, es la delicia suprema del alma humana; es la creación conjunta de la mente material y del espíritu interior. <a id="a50_162"></a>[LU 132:3.4](/es/The_Urantia_Book/132#p3_4)
+> La verdad revelada, la verdad descubierta personalmente, es la delicia suprema del alma humana; es la creación conjunta de la mente material y del espíritu interior. <a id="a50_168"></a>[LU 132:3.4](/es/The_Urantia_Book/132#p3_4)
 
 Nuestro principio director fue informado por la revelación misma, de arriba a abajo y sin intermediarios: los verdaderos maestros son los reveladores, el Espíritu de la Verdad y los Ajustadores del Pensamiento. Los miembros del cuerpo docente de la UBIS se llaman profesores-facilitadores porque facilitan que sus estudiantes encuentren verdades nuevas y vivas.
 
@@ -56,7 +56,7 @@ Nuestro principio director fue informado por la revelación misma, de arriba a a
 <img src="/image/article/UF_News_Online/2020_12/051.jpg">
 </figure>
 
-La ciencia es la fuente de los hechos y la mente no puede funcionar sin hechos. <a id="a58_71"></a>[LU 111:6.6](/es/The_Urantia_Book/111#p6_6)
+La ciencia es la fuente de los hechos y la mente no puede funcionar sin hechos. <a id="a58_80"></a>[LU 111:6.6](/es/The_Urantia_Book/111#p6_6)
 
 En un debate reciente en uno de los cursos se plantearon dos preguntas: ¿cómo puede el estudio intelectual de los hechos presentados en los documentos fomentar el progreso espiritual personal? ¿Y cómo puede este estudio intelectual ayudar a desarrollar la hermandad social? Por _hermandad_ no nos referimos la que aparece en los frontales de los monumentos de la República Francesa (_Liberté, Égalité, Fraternité_), sino a la que surge de la conciencia activa de nuestra filiación con el Padre de todas las criaturas que viven en el universo de universos.
 
@@ -65,13 +65,13 @@ En un debate reciente en uno de los cursos se plantearon dos preguntas: ¿cómo 
 
 Un Mensajero Solitario aborda la primera pregunta:
 
-> La expansión de los conocimientos materiales permite una mayor apreciación intelectual de los significados de las ideas y de los valores de los ideales. Un ser humano puede encontrar la verdad en su experiencia interior, pero necesita un claro conocimiento de los hechos para aplicar su descubrimiento personal de la verdad a las exigencias implacablemente prácticas de la vida diaria. <a id="a67_331"></a>[LU 111:6.7](/es/The_Urantia_Book/111#p6_7)
+> La expansión de los conocimientos materiales permite una mayor apreciación intelectual de los significados de las ideas y de los valores de los ideales. Un ser humano puede encontrar la verdad en su experiencia interior, pero necesita un claro conocimiento de los hechos para aplicar su descubrimiento personal de la verdad a las exigencias implacablemente prácticas de la vida diaria. <a id="a67_388"></a>[LU 111:6.7](/es/The_Urantia_Book/111#p6_7)
 
-> La ciencia es la fuente de los hechos, y la mente no puede trabajar sin los hechos. En la construcción de la sabiduría, los hechos son los ladrillos que están colocados con el cemento de la experiencia de la vida. El hombre puede encontrar el amor de Dios sin los hechos, y el hombre puede descubrir las leyes de Dios sin el amor, pero el hombre nunca puede empezar a apreciar la simetría infinita, la armonía celestial, la exquisita plenitud de la naturaleza inclusiva de la Fuente-Centro Primera, hasta que no ha encontrado la ley divina y el amor divino y los ha unificado experiencialmente en su propia filosofía cósmica en evolución. <a id="a69_565"></a>[LU 111:6.6](/es/The_Urantia_Book/111#p6_6)
+> La ciencia es la fuente de los hechos, y la mente no puede trabajar sin los hechos. En la construcción de la sabiduría, los hechos son los ladrillos que están colocados con el cemento de la experiencia de la vida. El hombre puede encontrar el amor de Dios sin los hechos, y el hombre puede descubrir las leyes de Dios sin el amor, pero el hombre nunca puede empezar a apreciar la simetría infinita, la armonía celestial, la exquisita plenitud de la naturaleza inclusiva de la Fuente-Centro Primera, hasta que no ha encontrado la ley divina y el amor divino y los ha unificado experiencialmente en su propia filosofía cósmica en evolución. <a id="a69_641"></a>[LU 111:6.6](/es/The_Urantia_Book/111#p6_6)
 
 La segunda pregunta la aborda un Melquisedec:
 
-> _La perspicacia espiritual._ La fraternidad de los hombres está basada, después de todo, en el reconocimiento de la paternidad de Dios. La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales. _La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres_. <a id="a73_640"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7) [cursiva añadida.]
+> _La perspicacia espiritual._ La fraternidad de los hombres está basada, después de todo, en el reconocimiento de la paternidad de Dios. La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales. _La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres_. <a id="a73_739"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7) [cursiva añadida.]
 
 Los cursos de la UBIS duran diez semanas (o menos) y se dividen en series de periodos de dos semanas, que tienen propósitos diferentes.
 
@@ -79,7 +79,7 @@ Los cursos de la UBIS duran diez semanas (o menos) y se dividen en series de per
 
 **Segunda semana**: esta semana da cabida al deseo creciente de la mente humana de compartir las nuevas adquisiciones intelectuales con otros creyentes. Como el amor, la verdad necesita ser compartida. Las respuestas a las preguntas se discuten bajo la animación benévola del profesor-facilitador. Este intercambio de descubrimientos personales con buscadores de la verdad de diferentes orígenes y culturas se convierte en una oportunidad única para establecer nuevas relaciones basadas en el deseo de conocer, luego comprender y finalmente amarse mutuamente, relaciones que construyen la hermandad espiritual de los creyentes, el reino de los cielos.
 
-> La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso — una atracción objetiva en lugar de una satisfacción subjetiva — y sin embargo proporciona la satisfacción subjetiva suprema. La religión ennoblece el pesado trabajo común de la vida diaria.  <a id="a81_309"></a>[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
+> La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso — una atracción objetiva en lugar de una satisfacción subjetiva — y sin embargo proporciona la satisfacción subjetiva suprema. La religión ennoblece el pesado trabajo común de la vida diaria.  <a id="a81_353"></a>[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
 
 Las clases virtuales no impiden que se establezcan relaciones humanas. Al contrario, ¡el circuito de la personalidad funciona realmente bien!
 

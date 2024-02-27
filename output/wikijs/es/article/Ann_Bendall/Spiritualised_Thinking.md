@@ -35,7 +35,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 
 
-Como un niño leí _El Libro de URANTIA_ la primera vez y me deleité al notar todos esos hermosos dichos como: «Si tu propia mente no te sirve bien, puedes cambiarla por la mente de Jesús de Nazaret, quien siempre te sirve bien».” (<a id="a37_232"></a>[LU 48:6.26](/es/The_Urantia_Book/48#p6_26))
+Como un niño leí _El Libro de URANTIA_ la primera vez y me deleité al notar todos esos hermosos dichos como: «Si tu propia mente no te sirve bien, puedes cambiarla por la mente de Jesús de Nazaret, quien siempre te sirve bien».” (<a id="a37_230"></a>[LU 48:6.26](/es/The_Urantia_Book/48#p6_26))
 
 Todo fue tan simple, todo lo que tuve que hacer fue orar por un intercambio de mentes. Querido Señor, ¡necesito cambiar este y tener uno como el que tenías cuando caminabas por esta tierra! — y entonces oré y no pasó nada. Cada mañana hurgaba en mi mente y, por desgracia, seguía siendo el mismo cerebro estúpido e inadecuado que el día anterior.
 

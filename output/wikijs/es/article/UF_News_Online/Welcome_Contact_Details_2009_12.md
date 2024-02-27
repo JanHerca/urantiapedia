@@ -53,7 +53,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 **¿Qué enseñó Jesús?**
 
-Jesús no reprimía su originalidad. No estaba atado a la tradición ni obstaculizado por la esclavitud a los convencionalismos estrechos. Hablaba con una confianza indudable y enseñaba con una autoridad absoluta. Pero su magnífica originalidad no le inducía a pasar por alto las perlas de verdad contenidas en las enseñanzas de sus predecesores o de sus contemporáneos. Y la más original de sus enseñanzas fue el énfasis que puso en el amor y la misericordia, en lugar del miedo y el sacrificio.. _El Libro de Urantia_, <a id="a55_258"></a>[LU 100:7.5](/es/The_Urantia_Book/100#p7_5)
+Jesús no reprimía su originalidad. No estaba atado a la tradición ni obstaculizado por la esclavitud a los convencionalismos estrechos. Hablaba con una confianza indudable y enseñaba con una autoridad absoluta. Pero su magnífica originalidad no le inducía a pasar por alto las perlas de verdad contenidas en las enseñanzas de sus predecesores o de sus contemporáneos. Y la más original de sus enseñanzas fue el énfasis que puso en el amor y la misericordia, en lugar del miedo y el sacrificio.. _El Libro de Urantia_, <a id="a55_518"></a>[LU 100:7.5](/es/The_Urantia_Book/100#p7_5)
 <br style="clear:both;"/>
 
 ## Volumen 3, Número 4. Diciembre 2009

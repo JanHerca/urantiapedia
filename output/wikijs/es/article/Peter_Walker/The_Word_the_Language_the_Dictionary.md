@@ -76,7 +76,7 @@ Como me di cuenta de la importancia de tener un diccionario de la misma época q
 
 Dada la evolución de los idiomas y el progreso de nuestro planeta, es inevitable que ocurra una unificación de idiomas. Esto se afirma en el documento 55, cuando se trata sobre las eras doradas de luz y vida.
 
-Durante esta era de luz y vida el mundo prospera cada vez más bajo el gobierno paternal del Soberano Planetario. Para entonces los mundos progresan bajo el impulso de un idioma, una religión y (en las esferas normales) una raza. <a id="a74_242"></a>[LU 55:3.1](/es/The_Urantia_Book/55#p3_1)
+Durante esta era de luz y vida el mundo prospera cada vez más bajo el gobierno paternal del Soberano Planetario. Para entonces los mundos progresan bajo el impulso de un idioma, una religión y (en las esferas normales) una raza. <a id="a78_229"></a>[LU 55:3.1](/es/The_Urantia_Book/55#p3_1)
 
 Aunque el sol se pone ahora en el imperio británico, su legado de difusión del idioma inglés por todo el mundo continúa. Lo más probable es que el inglés se convierta en el idioma único de Urantia, mientras sigue influido por otros idiomas y culturas. Con el tiempo, la estandarización del inglés traerá consigo una mayor unificación y dirección.
 

@@ -47,7 +47,7 @@ A lo largo del primer fin de semana de junio, diez personas con un interés prol
 Según Ralph Zehr, el estímulo para este simposio procede directamente del Documento 195.
 <br style="clear:both;"/>
 
-> “Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual.” <a id="a49_339"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)
+> “Una revelación nueva y más completa de la religión de Jesús está destinada a conquistar un imperio de laicismo materialista y a derrocar un influjo mundial de naturalismo mecanicista. Urantia se estremece actualmente al borde mismo de una de sus épocas más asombrosas y apasionantes de reajuste social, de reanimación moral y de iluminación espiritual.” <a id="a49_357"></a>[LU 195:9.2](/es/The_Urantia_Book/195#p9_2)
 
 Ralph siguió diciendo: “no puede negarse que nuestro mundo ‘se estremece al borde mismo’ de un fenómeno de datos de lo más espectacular que nos llevan a una velocidad sin igual de nuevos descubrimientos. ¡El tiempo necesario para doblar el conocimiento total del mundo se estima actualmente en menos de un año! Y en ningún sitio es más evidente el ‘influjo mundial de naturalismo mecanicista’ que en el ámbito académico.
 

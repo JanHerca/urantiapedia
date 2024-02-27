@@ -40,7 +40,7 @@ Nota: Las notas del apéndice se refieren al libro de Preston Thomas _La vida y 
 
 Hay muchas declaraciones esperanzadoras e inspiradoras sobre nuestro futuro en _El Libro de Urantia_, pero pocas pueden igualar la promesa y la oportunidad que se predicen en las siguientes líneas:
 
-> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables...el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres <a id="a42_344"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
+> La religión necesita nuevos dirigentes, hombres y mujeres espirituales que se atrevan a depender únicamente de Jesús y de sus enseñanzas incomparables...el renacimiento espiritual tendrá que esperar la llegada de esos nuevos instructores de la religión de Jesús que se consagrarán exclusivamente a la regeneración espiritual de los hombres <a id="a42_342"></a>[[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)]
 
 Reflexionemos sobre las asombrosas implicaciones de estas declaraciones. Los reveladores nos dicen que nuestro mundo necesita nuevos maestros de la religión de Jesús. Y están profetizando la llegada de estos nuevos maestros, prediciendo que estos nuevos líderes religiosos ayudarán a traer un renacimiento espiritual a nuestro «mundo oscuro y confuso».
 

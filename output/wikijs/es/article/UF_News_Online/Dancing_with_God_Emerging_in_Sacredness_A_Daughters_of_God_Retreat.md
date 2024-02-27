@@ -44,9 +44,9 @@ Con el anuncio del último retiro de mujeres de la Fundación Urantia, el equipo
 
 En nuestro próximo retiro, «Bailar con Dios: emerger en lo sagrado», cuatro hijas de Dios han diseñado un programa en el que crearemos un ambiente de confianza dentro de un círculo espiritual, de manera que podamos explorar juntas cuestiones tales como:
 
-¿Qué significa para nosotras que «Jesús nunca dejó de exaltar el carácter sagrado del individuo»? <a id="a46_94"></a>[LU 170:3.10](/es/The_Urantia_Book/170#p3_10)
+¿Qué significa para nosotras que «Jesús nunca dejó de exaltar el carácter sagrado del individuo»? <a id="a46_98"></a>[LU 170:3.10](/es/The_Urantia_Book/170#p3_10)
 
-«Los ángeles no invaden la santidad de la mente humana». ¿Cómo nos relacionamos con esto? <a id="a48_82"></a>[LU 113:5.1](/es/The_Urantia_Book/113#p5_1) 
+«Los ángeles no invaden la santidad de la mente humana». ¿Cómo nos relacionamos con esto? <a id="a48_90"></a>[LU 113:5.1](/es/The_Urantia_Book/113#p5_1) 
 
 ¿Cómo nos volvemos conscientes de lo sagrado en la monotonía de la vida cotidiana?
 

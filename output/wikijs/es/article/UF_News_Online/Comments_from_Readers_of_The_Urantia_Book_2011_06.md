@@ -53,15 +53,15 @@ _De Bill Martin, Niles (Michigan, EEUU)_
 
 Pasar mis años de formación como adolescente en un grupo de estudio compuesto casi en su totalidad por miembros del Foro y de estudiantes de segunda generación fue un terreno fértil para el cultivo de mi alma embrionaria. Las respuestas a mis preguntas eran profundas y a menudo muy por encima de mi nivel de comprensión, pero la perseverancia aumentó mi capacidad de comprender y ahora, cuarenta años después, todavía soy un estudiante, en esa misma sala, respondiendo a preguntas sinceras de otras almas hambrientas de verdad. Las relaciones forjadas a lo largo de los años en este grupo de estudio siempre serán parte de mí. Ellas son parte de lo que mi Controlador y Guardián del Pensamiento utilizarán en mi reensamblaje, en el primer mundo de las mansiones.
 
-A lo largo del tiempo, he aprendido que el conocimiento conceptual no puede sustituir a los frutos espirituales de nuestra vida. Hay que «aprender a regar el jardín de vuestro corazón así como a buscar las áridas arenas del conocimiento» <a id="a55_207"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32) Debemos refrescar nuestra alma con el agua de la vida y perdonar a nuestros deudores, del mismo modo que nos han perdonado. Toda alma, aunque sea humilde, tiene una historia que contar. Nuestro Padre ama a todos Sus hijos de la misma manera incondicional, y el amor divino revela la naturaleza de Dios y nos hace más auténticos y plenos.
+A lo largo del tiempo, he aprendido que el conocimiento conceptual no puede sustituir a los frutos espirituales de nuestra vida. Hay que «aprender a regar el jardín de vuestro corazón así como a buscar las áridas arenas del conocimiento» <a id="a55_238"></a>[LU 48:6.32](/es/The_Urantia_Book/48#p6_32) Debemos refrescar nuestra alma con el agua de la vida y perdonar a nuestros deudores, del mismo modo que nos han perdonado. Toda alma, aunque sea humilde, tiene una historia que contar. Nuestro Padre ama a todos Sus hijos de la misma manera incondicional, y el amor divino revela la naturaleza de Dios y nos hace más auténticos y plenos.
 
-Una revelación personal y viviente, por encima y más allá de las páginas de un libro, ha hecho reales para mí las enseñanzas de que un alma de potencial inmortal y casi ilimitado se forja en el campo mental de la elección. «Los actos de hoy forman el destino de mañana» <a id="a57_263"></a>[LU 48:7.26](/es/The_Urantia_Book/48#p7_26)
+Una revelación personal y viviente, por encima y más allá de las páginas de un libro, ha hecho reales para mí las enseñanzas de que un alma de potencial inmortal y casi ilimitado se forja en el campo mental de la elección. «Los actos de hoy forman el destino de mañana» <a id="a57_270"></a>[LU 48:7.26](/es/The_Urantia_Book/48#p7_26)
 
 El Padre de las Luces ha entrado en mi mente para elevarla, transformarla y transfigurarla con un fragmento de la realidad espiritual más pura del universo, que eternizará mi identidad temporal que puedo «sincronizar» con la procesión progresiva de la eternidad.
 
-Una cosa se ha hecho clara como el día: el trabajo desinteresado y natural para nuestros semejantes, particularmente a personas necesitadas y afligidas, es la auténtica medida de la grandeza planetaria. «Uno tiene que hacer algo, así como ser algo» <a id="a61_225"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)
+Una cosa se ha hecho clara como el día: el trabajo desinteresado y natural para nuestros semejantes, particularmente a personas necesitadas y afligidas, es la auténtica medida de la grandeza planetaria. «Uno tiene que hacer algo, así como ser algo» <a id="a61_249"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1)
 
-> «El servicio es la meta del tiempo y el destino del espacio.» <a id="a63_62"></a>[LU 28:6.19](/es/The_Urantia_Book/28#p6_19)
+> «El servicio es la meta del tiempo y el destino del espacio.» <a id="a63_64"></a>[LU 28:6.19](/es/The_Urantia_Book/28#p6_19)
 
 ## Referencias
 

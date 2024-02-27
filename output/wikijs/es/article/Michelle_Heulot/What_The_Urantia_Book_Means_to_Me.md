@@ -48,7 +48,7 @@ Entre los sitios espirituales que consulté, la Escuela de _El libro de Urantia_
 
 Comprendí que la verdadera religión es una experiencia espiritual personal no sujeta a interpretaciones humanas; que tenía que liberarme de esta camisa de fuerza para encontrar a Dios por mí misma, como recomendaba Jesús, y conocerlo en mi propia alma.
 
-Sin embargo, en este camino de descubrimiento avancé con prudencia y discernimiento, aportando un espíritu crítico y analítico a estas nuevas ideas religiosas. El bastón que sostenía mi senda de peregrinaje se volvía cada vez más reconfortante, poderosamente energizado por «la verdad de que el reino de los cielos es la fraternidad espiritual de los hombres, basada en el hecho eterno de la paternidad universal de Dios». <a id="a52_400"></a>[LU 163:7.4](/es/The_Urantia_Book/163#p7_4)
+Sin embargo, en este camino de descubrimiento avancé con prudencia y discernimiento, aportando un espíritu crítico y analítico a estas nuevas ideas religiosas. El bastón que sostenía mi senda de peregrinaje se volvía cada vez más reconfortante, poderosamente energizado por «la verdad de que el reino de los cielos es la fraternidad espiritual de los hombres, basada en el hecho eterno de la paternidad universal de Dios». <a id="a50_423"></a>[LU 163:7.4](/es/The_Urantia_Book/163#p7_4)
 
 El plan de Dios que iba descubriendo ejercía en mi mente una extraordinaria fascinación: ese Padre universal, omnipotente, omnipresente y omnisciente que delega todos sus poderes en coordinadores y subordinados que ponen los medios para que los creadores y las personalidades creadas puedan vivir y progresar eternamente. Cuanto más penetraba en los misterios de Dios, mayor era mi hambre religiosa.
 
@@ -56,9 +56,9 @@ Al practicar fielmente la meditación adoradora, experimenté una comunicación 
 
 Poco a poco llegué a comprender que _El libro de Urantia_ amplía y aclara muchas de las enseñanzas y conceptos de la _Biblia_ difíciles de entender, y que los aparentes conflictos entre la _Biblia_ y las ciencias provienen de las diversas doctrinas e interpretaciones teológicas. Me di cuenta de la valiosa contribución de la _Biblia_ al despertar gradual de la humanidad para acoger y apreciar las revelaciones ofrecidas por las personalidades espirituales.
 
-Qué feliz me hacía saber que las verdades del evangelio persistirán con gloria gracias a los nuevos educadores que se atreverán «a depender únicamente de Jesús y de sus enseñanzas incomparables» y que «se consagrarán exclusivamente a la regeneración espiritual» de la humanidad. <a id="a60_257"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)
+Qué feliz me hacía saber que las verdades del evangelio persistirán con gloria gracias a los nuevos educadores que se atreverán «a depender únicamente de Jesús y de sus enseñanzas incomparables» y que «se consagrarán exclusivamente a la regeneración espiritual» de la humanidad. <a id="a58_279"></a>[LU 195:9.4](/es/The_Urantia_Book/195#p9_4)
 
-En los últimos cinco años que llevo recorriendo este camino de dedicación a hacer la voluntad de Dios con todo mi corazón, me acompaña cada día una nueva consciencia de fuerza y alegría espiritual, una fe viva y creciente en un mundo espiritual amable y amigable que es una respuesta a mi exigente y sincera búsqueda de Dios. Y he descubierto, al buscar y encontrar mis propias verdades, al alimentar mi relación personal con el Espíritu de Dios, una paz dinámica y sublime, «esa paz que sobrepasa toda comprensión humana, esa serenidad cósmica que revela la ausencia de toda duda y de toda agitación». <a id="a62_585"></a>[LU 100:6.6](/es/The_Urantia_Book/100#p6_6)
+En los últimos cinco años que llevo recorriendo este camino de dedicación a hacer la voluntad de Dios con todo mi corazón, me acompaña cada día una nueva consciencia de fuerza y alegría espiritual, una fe viva y creciente en un mundo espiritual amable y amigable que es una respuesta a mi exigente y sincera búsqueda de Dios. Y he descubierto, al buscar y encontrar mis propias verdades, al alimentar mi relación personal con el Espíritu de Dios, una paz dinámica y sublime, «esa paz que sobrepasa toda comprensión humana, esa serenidad cósmica que revela la ausencia de toda duda y de toda agitación». <a id="a60_603"></a>[LU 100:6.6](/es/The_Urantia_Book/100#p6_6)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_09/046.jpg">
@@ -66,7 +66,7 @@ En los últimos cinco años que llevo recorriendo este camino de dedicación a h
 
 Esta confianza y seguridad en las realidades eternas y universales alimenta constantemente mi alma agradecida, que solo tiene un deseo ardiente: expresar alabanzas agradecidas al Creador, mi Padre Celestial, y participar en su plan universal.
 
-Un vuelo hacia la libertad espiritual y un compromiso total con el amor universal sin fronteras ni prejuicios es lo que significa para mí _El libro de Urantia_, con este mandato de nuestro Maestro Cristo Jesús impreso en mi alma: «Dedica tu vida a demostrar que el amor es la cosa más grande del mundo». <a id="a70_289"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
+Un vuelo hacia la libertad espiritual y un compromiso total con el amor universal sin fronteras ni prejuicios es lo que significa para mí _El libro de Urantia_, con este mandato de nuestro Maestro Cristo Jesús impreso en mi alma: «Dedica tu vida a demostrar que el amor es la cosa más grande del mundo». <a id="a68_304"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
 
 
 ## Referencias

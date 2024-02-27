@@ -84,13 +84,13 @@ Para los que acogen o asisten regularmente a grupos de estudio, su implicación 
 
 Para obtener información sobre grupos de estudio de El libro de Urantia, visiten https://www.urantia.org/contact-readers . Para obtener información sobre formar y fomentar grupos de estudio, visiten https://urantia-association.org/study-groups/find-a-study-group/ y https://urantiabook.org/archive/readers/suggestions-for-study-groups.htm.
 
-> «La felicidad y la alegría tienen su origen en la vida interior. No podéis experimentar una verdadera alegría completamente solos. Una vida solitaria es fatal para la felicidad. Incluso las familias y las naciones disfrutarán más de la vida si la comparten con las demás.» <a id="a86_168"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)
+> «La felicidad y la alegría tienen su origen en la vida interior. No podéis experimentar una verdadera alegría completamente solos. Una vida solitaria es fatal para la felicidad. Incluso las familias y las naciones disfrutarán más de la vida si la comparten con las demás.» <a id="a86_275"></a>[LU 111:4.7](/es/The_Urantia_Book/111#p4_7)
 
-> «La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual.» <a id="a88_93"></a>[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
+> «La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual.» <a id="a88_102"></a>[LU 100:0.2](/es/The_Urantia_Book/100#p0_2)
 
 Tendrá noticias sobre nuestros progresos relacionados con estas tres metas. Únase a sus compañeros lectores para conseguir estas importantes tareas.
 
-> «Con la misma seguridad con que los hombres comparten sus creencias religiosas, crean también un grupo religioso de algún tipo que acaba creando unas metas comunes. Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas.» <a id="a92_407"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)
+> «Con la misma seguridad con que los hombres comparten sus creencias religiosas, crean también un grupo religioso de algún tipo que acaba creando unas metas comunes. Las personas religiosas se unirán algún día y se pondrán a cooperar realmente sobre la base de la unidad de los ideales y los objetivos, en lugar de intentar hacerlo sobre la base de las opiniones psicológicas y de las creencias teológicas. Son las metas, en lugar de los credos, las que deberían unir a las personas religiosas.» <a id="a92_497"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2010_06/009.jpg">

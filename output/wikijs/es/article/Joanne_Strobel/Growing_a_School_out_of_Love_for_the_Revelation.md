@@ -52,7 +52,7 @@ A partir de la semilla de una escuela por correo electrónico, el incipiente ret
 
 Nuestro árbol UBIS también es perenne. Tres veces al año, todos los años, se ofrecen hasta 18 cursos gratuitos por profesores-facilitadores y personal capacitado. Los frutos de su trabajo se manifiestan cuando estudiantes entusiastas de todo el mundo dan un paso adelante para recibir formación y orientación con el fin de crear cursos originales y facilitar clases.
 
-> Todo el plan ascendente de progresión de los mortales se caracteriza por la práctica de impartir a otros seres las nuevas verdades y experiencias desde el momento en que se han adquirido. Os abrís camino por la larga escuela de logro del Paraíso sirviendo como maestros de los alumnos que están justo detrás de vosotros en la escala de progresión. <a id="a56_311"></a>[LU 30:3.9](/es/The_Urantia_Book/30#p3_9)
+> Todo el plan ascendente de progresión de los mortales se caracteriza por la práctica de impartir a otros seres las nuevas verdades y experiencias desde el momento en que se han adquirido. Os abrís camino por la larga escuela de logro del Paraíso sirviendo como maestros de los alumnos que están justo detrás de vosotros en la escala de progresión. <a id="a54_350"></a>[LU 30:3.9](/es/The_Urantia_Book/30#p3_9)
 
 La Fundación Urantia está profundamente agradecida al equipo de voluntarios de la UBIS, que comparten desinteresadamente su tiempo, entusiasmo y hermandad con sus compañeros lectores. Sin estos «soldados de los círculos» no habría escuela.
 

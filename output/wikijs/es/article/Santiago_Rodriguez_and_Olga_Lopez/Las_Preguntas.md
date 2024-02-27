@@ -102,7 +102,7 @@ En este documento, los reveladores evidencian la debilidad de las religiones ins
 
 Hoy en día las instituciones religiosas están muy conectadas con las instituciones seculares, y sin embargo el LU parece promover una desconexión entre ambos aspectos. ¿Cómo conseguir esa desconexión, cómo crees que nos beneficiaría o perjudicaría socialmente?
 
-> (2) _...Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio.... La humanidad está en marcha hacia un nuevo destino planetario no revelado._ <a id="a104_181"></a>[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)
+> (2) _...Este nuevo orden social que se aproxima no se establecerá afablemente durante un milenio.... La humanidad está en marcha hacia un nuevo destino planetario no revelado._ <a id="a104_179"></a>[LU 99:1.1](/es/The_Urantia_Book/99#p1_1)
 
 > _La religión no tiene ningún deber nuevo que cumplir, pero se le pide que actúe urgentemente como guía sabia y consejera experimentada en todas estas nuevas situaciones humanas que cambian con rapidez_ <a id="a106_204"></a>[LU 99:1.4](/es/The_Urantia_Book/99#p1_4)
 

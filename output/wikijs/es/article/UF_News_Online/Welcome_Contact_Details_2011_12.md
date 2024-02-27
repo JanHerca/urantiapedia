@@ -63,7 +63,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2011_12/056.jpg">
 </figure>
 
-«Desde el punto de vista humano, se trata de combinar la meditación y la relajación. La meditación pone en contacto a la mente con el espíritu; la relajación determina la capacidad para la receptividad espiritual.» _El Libro de Urantia_, <a id="a65_216"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)
+«Desde el punto de vista humano, se trata de combinar la meditación y la relajación. La meditación pone en contacto a la mente con el espíritu; la relajación determina la capacidad para la receptividad espiritual.» _El Libro de Urantia_, <a id="a65_238"></a>[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)
 <br style="clear:both;"/>
 
 

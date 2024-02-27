@@ -75,7 +75,7 @@ Pensé que podría ser útil echar un vistazo a las cinco Revelaciones de época
 
 ## La Primera Revelación de Época: Las Enseñanzas de Dalamatia
 
-> El verdadero concepto de la Fuente-Centro Primera fue promulgado por primera vez en Urantia por los cien miembros corpóreos del estado mayor del Príncipe Caligastia. Esta revelación creciente de la Deidad duró más de trescientos mil años, hasta que fue interrumpida repentinamente por la secesión planetaria y la ruptura del régimen educativo... <a id="a77_350"></a>[[LU 92:4.5](/es/The_Urantia_Book/92#p4_5)]
+> El verdadero concepto de la Fuente-Centro Primera fue promulgado por primera vez en Urantia por los cien miembros corpóreos del estado mayor del Príncipe Caligastia. Esta revelación creciente de la Deidad duró más de trescientos mil años, hasta que fue interrumpida repentinamente por la secesión planetaria y la ruptura del régimen educativo... <a id="a77_348"></a>[[LU 92:4.5](/es/The_Urantia_Book/92#p4_5)]
 
 _Las fuentes humanas de la Primera Revelación de Época_ consistían en ciudadanos voluntarios de la capital del sistema, ninguno de los cuales se había fusionado con sus Ajustadores del Pensamiento residentes. Fueron provistos de formas de personalidad de naturaleza dual del servicio planetario especial, cuerpos literales que consisten en carne y sangre _pero también en sintonía con los circuitos de vida del sistema_.
 

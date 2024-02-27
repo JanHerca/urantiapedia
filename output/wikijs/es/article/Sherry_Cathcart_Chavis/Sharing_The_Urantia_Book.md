@@ -74,7 +74,7 @@ Tengo una amiga que es una persona moral, amable y cariñosa. La conozco desde h
 
 Pero creo que nunca hablé del libro con ella. Hasta un fin de semana reciente, en el que fuimos de viaje juntas a la playa. Como siempre, acabamos hablando del Padre y de todo lo que estamos aprendiendo. Hablamos de nuestros desafíos. Cuando nos íbamos de la playa, le compartí lo agradecida que estaba de haber podido pasar el fin de semana con ella porque había conocido más sobre ella en tres días que en los años anteriores, y que al entenderla mejor la quería más.
 
-> Y entonces cité del libro: En cuanto comprendáis a vuestro prójimo os volveréis tolerantes, y esta tolerancia se transformará en amistad y madurará hasta convertirse en amor. <a id="a78_130"></a>[LU 100:4.4](/es/The_Urantia_Book/100#p4_4)
+> Y entonces cité del libro: En cuanto comprendáis a vuestro prójimo os volveréis tolerantes, y esta tolerancia se transformará en amistad y madurará hasta convertirse en amor. <a id="a76_177"></a>[LU 100:4.4](/es/The_Urantia_Book/100#p4_4)
 
 Mi amiga: «¿De dónde sacaste eso?»
 

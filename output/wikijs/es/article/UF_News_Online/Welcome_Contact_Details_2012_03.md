@@ -49,7 +49,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2012_03/068.jpg">
 </figure>
 
-«Sólo podéis juzgar a los hombres por sus actos, pero mi Padre mira dentro del corazón de sus hijos y los juzga con misericordia según sus intenciones $y$ deseos reales.» Jesús, _El Libro de Urantia_, <a id="a51_197"></a>[LU 140:6.5](/es/The_Urantia_Book/140#p6_5)
+«Sólo podéis juzgar a los hombres por sus actos, pero mi Padre mira dentro del corazón de sus hijos y los juzga con misericordia según sus intenciones $y$ deseos reales.» Jesús, _El Libro de Urantia_, <a id="a51_201"></a>[LU 140:6.5](/es/The_Urantia_Book/140#p6_5)
 <br style="clear:both;"/>
 
 ## Volumen 6, Número 1. Marzo 2012

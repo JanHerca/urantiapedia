@@ -73,7 +73,7 @@ Queremos animar a los asistentes a que encuentren su propia manera de diseminar 
 Hay mucho trabajo por hacer y retos que afrontar. El materialismo y el laicismo todavía predominan en toda Europa. La mayoría de la gente no está interesada en la religión y los buscadores de la verdad no son fáciles de encontrar. Sin embargo, sabemos que están ahí, hambrientos de significados y sedientos de verdad, ¡y vamos a encontrarles! También queremos implicar a los jóvenes en el movimiento Urantia, porque ellos serán los líderes del mañana.
 <br style="clear:both;"/>
 
-> Cuando el pánico laico-materialista haya pasado, la religión de Jesús no se encontrará en bancarrota. El banco espiritual del reino de los cielos pagará con fe, esperanza y seguridad moral a todos los que recurran a él «en Su nombre» <a id="a70_232"></a>[LU 195:6.1](/es/The_Urantia_Book/195#p6_1)
+> Cuando el pánico laico-materialista haya pasado, la religión de Jesús no se encontrará en bancarrota. El banco espiritual del reino de los cielos pagará con fe, esperanza y seguridad moral a todos los que recurran a él «en Su nombre» <a id="a75_236"></a>[LU 195:6.1](/es/The_Urantia_Book/195#p6_1)
 
 > EN TIEMPOS DE INCERTIDUMBRE, CADA VEZ MÁS PERSONAS BUSCAN UN SIGNIFICADO A SU VIDA.
 

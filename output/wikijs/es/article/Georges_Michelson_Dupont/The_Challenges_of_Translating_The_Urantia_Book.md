@@ -143,7 +143,7 @@ El trabajo del traductor original es por lo tanto esencial en el sentido de que 
 
 La Fundación Urantia está comprometida de todo corazón a crear y publicar traducciones de la mayor calidad y más fieles al original, debido a que ese es su mandato y su responsabilidad. Nuestra metodología, basada en la experiencia, está diseñada para llevar a todas las traducciones a un nivel más alto de exactitud y legibilidad. Los fideicomisarios esperan que los que estén interesados en ayudar a mejorar las traducciones o a traducir el libro a idiomas en los que no hay otra traducción consideren trabajar con la Fundación Urantia en espíritu de cooperación.
 
-> «Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del _trabajo en equipo._ Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. En el universo hay pocas obligaciones para el servidor solitario.» <a id="a144_251"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
+> «Una de las lecciones más importantes que tenéis que aprender durante vuestra carrera mortal es la del _trabajo en equipo._ Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. En el universo hay pocas obligaciones para el servidor solitario.» <a id="a145_305"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
 
 > La Fundación Urantia está totalmente comprometida a producir y publicar traducciones de la mayor calidad posible fiel al original debido a su mandato y responsabilidad.
 

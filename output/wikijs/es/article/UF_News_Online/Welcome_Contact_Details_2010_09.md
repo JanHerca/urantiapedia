@@ -55,7 +55,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2010_09/036.jpg">
 </figure>
 
-Entre el momento de la muerte planetaria... y la resurrección... el hombre mortal no gana absolutamente nada, aparte de experimentar el hecho de la supervivencia. Allí empezáis exactamente donde lo dejasteis aquí. _El Libro de Urantia_, <a id="a57_219"></a>[LU 47:3.7](/es/The_Urantia_Book/47#p3_7).
+Entre el momento de la muerte planetaria... y la resurrección... el hombre mortal no gana absolutamente nada, aparte de experimentar el hecho de la supervivencia. Allí empezáis exactamente donde lo dejasteis aquí. _El Libro de Urantia_, <a id="a57_237"></a>[LU 47:3.7](/es/The_Urantia_Book/47#p3_7).
 <br style="clear:both;"/>
 
 ## Volumen 4, Número 3. Septiembre 2010

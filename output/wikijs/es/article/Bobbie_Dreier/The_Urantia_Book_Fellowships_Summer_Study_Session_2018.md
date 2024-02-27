@@ -38,7 +38,7 @@ _De Bobbie Dreier (Nueva Jersey, Estados Unidos)_
 
 La Sesión de Estudio de Verano 2018 de la Urantia Book Fellowship se celebrará de nuevo en Techny Towers (Northbrook, Illinois). Es una oportunidad para que la familia de _El libro de Urantia_ se una en estudio, adoración y compañerismo. Como siempre, conferenciantes inspirados compartirán sus pensamientos y estudiantes creativos proporcionarán talleres que fomenten la participación.
 
-Además tendremos momentos diarios de adoración contemplativa. « La adoración—la contemplación de lo espiritual—debe alternar con el servicio, el contacto con la realidad material.» <a id="a41_162"></a>[LU 143:7.3](/es/The_Urantia_Book/143#p7_3) Nos tomaremos tiempo para «contemplar lo espiritual» de modo que _adoremos y sirvamos mejor_ junto con nuestra familia celestial.
+Además tendremos momentos diarios de adoración contemplativa. « La adoración—la contemplación de lo espiritual—debe alternar con el servicio, el contacto con la realidad material.» <a id="a40_181"></a>[LU 143:7.3](/es/The_Urantia_Book/143#p7_3) Nos tomaremos tiempo para «contemplar lo espiritual» de modo que _adoremos y sirvamos mejor_ junto con nuestra familia celestial.
 
 Una de las grandes alegrías de asistir a una conferencia de _El libro de Urantia_ es saludar a viejos amigos y conocer a otros nuevos. El lugar más pequeño de la Sesión de Estudio de Verano ofrece todas las ventajas de una conferencia numerosa pero también más intimidad para entablar largas conversaciones.
 

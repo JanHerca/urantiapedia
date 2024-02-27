@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Share Beasley, fideicomisaria asociada, Brandon (Florida, Estados Unidos)_
 
-Como los lectores de _El libro de Urantia_, Jesús, a los catorce años de edad, encontró cierto libro que le interesó: _El libro de Enoc_. _El libro de Urantia_ afirma que Jesús «mientras le daba vueltas a estos problemas en su cabeza, encontró en la biblioteca de la sinagoga de Nazaret, entre los libros apocalípticos que había estado estudiando, el manuscrito llamado «El Libro de Enoc».» <a id="a42_348"></a>[LU 126:3.8](/es/The_Urantia_Book/126#p3_8)
+Como los lectores de _El libro de Urantia_, Jesús, a los catorce años de edad, encontró cierto libro que le interesó: _El libro de Enoc_. _El libro de Urantia_ afirma que Jesús «mientras le daba vueltas a estos problemas en su cabeza, encontró en la biblioteca de la sinagoga de Nazaret, entre los libros apocalípticos que había estado estudiando, el manuscrito llamado «El Libro de Enoc».» <a id="a42_391"></a>[LU 126:3.8](/es/The_Urantia_Book/126#p3_8)
 
 Ahora comienza otra aventura de colocar Libros de Urantia. El equipo de colocación en bibliotecas, que consta de cuatro miembros, puso un ejemplar del libro en inglés en una de las estanterías de la biblioteca del barco. Al día siguiente vimos a un señor que lo estaba mirando. ¡Hurra!
 

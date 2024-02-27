@@ -57,7 +57,7 @@ En verdad los fideicomisarios y los fideicomisarios asociados dan las gracias a 
 
 En este mensaje al equipo de la UBIS, Georges escribió: «Juntos analizaremos nuestros puntos fuertes y débiles, y a partir de ahí construiremos un plan a siete años. Crearemos nuevos planes de estudio en respuesta a las necesidades de los alumnos, desarrollaremos plataformas web multi-idioma para extender la UBIS en varios idiomas, recaudaremos fondos para desarrollar y mantener la web de la UBIS, y aumentaremos el número de profesores. Todos los años reflexionaremos juntos sobre cómo hemos mejorado nuestros servicios comparando nuestros progresos con nuestro plan a siete años».
 
-La UBIS es, en verdad y de hecho, una aventura exigente. Georges, los fideicomisarios y los fideicomisarios asociados desean mucha suerte a Dorothy y al equipo de la UBIS. «Cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden» <a id="a55_218"></a>[LU 132:7.9](/es/The_Urantia_Book/132#p7_9).
+La UBIS es, en verdad y de hecho, una aventura exigente. Georges, los fideicomisarios y los fideicomisarios asociados desean mucha suerte a Dorothy y al equipo de la UBIS. «Cuando el hombre se asocia con Dios, grandes cosas pueden suceder, y de hecho suceden» <a id="a59_260"></a>[LU 132:7.9](/es/The_Urantia_Book/132#p7_9).
 <br style="clear:both;"/>
 
 ## Referencias

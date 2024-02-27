@@ -56,7 +56,7 @@ Todos los que han participado y contribuido a este servicio a lo largo de su his
 
 ## De un voluntario del PIRT: seguir las enseñanzas de Jesús
 
-«Un amigo me ayudó a ser más consciente de las enseñanzas de Jesús que afirman que todas las personas son hijos de Dios, incluidas las personas encarceladas. Ayudar a los presos a darse cuenta de que están incluidos, ayudarles a elegir valores espirituales es un papel que puedo aceptar fácilmente. _El libro de Urantia_ les ayuda a ver que realmente son conocidos en lo alto y que son amados, valorados. Ayudarles a elegir las enseñanzas de _El libro de Urantia_ es parte de la comisión de Jesús de ir “por todo el mundo a proclamar este evangelio a todas las naciones, a todos los hombres, mujeres y niños”.» <a id="a60_516"></a>[LU 165:6.3](/es/The_Urantia_Book/165#p6_3)
+«Un amigo me ayudó a ser más consciente de las enseñanzas de Jesús que afirman que todas las personas son hijos de Dios, incluidas las personas encarceladas. Ayudar a los presos a darse cuenta de que están incluidos, ayudarles a elegir valores espirituales es un papel que puedo aceptar fácilmente. _El libro de Urantia_ les ayuda a ver que realmente son conocidos en lo alto y que son amados, valorados. Ayudarles a elegir las enseñanzas de _El libro de Urantia_ es parte de la comisión de Jesús de ir “por todo el mundo a proclamar este evangelio a todas las naciones, a todos los hombres, mujeres y niños”.» <a id="a58_611"></a>[LU 165:6.3](/es/The_Urantia_Book/165#p6_3)
 
 ## De un voluntario del PIRT: cartas de lectores hispanohablantes
 
@@ -66,7 +66,7 @@ Todos los que han participado y contribuido a este servicio a lo largo de su his
 
 «No se me había ocurrido, cuando me uní al PIRT en su creación, hace 17 años, que nuestro grupo participaría en la realización de una enseñanza de la mota de la morontia, pero aquí está:
 
-> El conocimiento solo se posee si se comparte; la sabiduría lo salvaguarda y el amor lo socializa. <a id="a70_92"></a>[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)
+> El conocimiento solo se posee si se comparte; la sabiduría lo salvaguarda y el amor lo socializa. <a id="a68_100"></a>[LU 48:7.28](/es/The_Urantia_Book/48#p7_28)
 
 «Les diré una cosa: ¡los reclusos pueden hacer preguntas difíciles! Esta, por ejemplo: “Después de leer ‘El gobierno de un planeta vecino’, sobre el tratamiento de la delincuencia, la condena a cadena perpetua de las colonias de reclusos considerados delincuentes en potencia se señala como una era positiva de la ley. ¿Qué significa eso?".
 

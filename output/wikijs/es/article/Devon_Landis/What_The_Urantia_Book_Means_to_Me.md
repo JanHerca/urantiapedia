@@ -48,11 +48,11 @@ Los libros son también como el marco de una ventana, permiten al lector asomars
 
 _El libro de Urantia_ es mi libro favorito. Comienza así:
 
-> «En la mente de los mortales de Urantia—éste es el nombre de vuestro mundo—existe una gran confusión en cuanto al significado de palabras tales como Dios, divinidad y deidad. Los seres humanos se sienten aún más confundidos e inseguros con respecto a las relaciones entre las personalidades divinas designadas con estos numerosos apelativos.» <a id="a50_317"></a>[LU 0:0.1](/es/The_Urantia_Book/0#p0_1)
+> «En la mente de los mortales de Urantia—éste es el nombre de vuestro mundo—existe una gran confusión en cuanto al significado de palabras tales como Dios, divinidad y deidad. Los seres humanos se sienten aún más confundidos e inseguros con respecto a las relaciones entre las personalidades divinas designadas con estos numerosos apelativos.» <a id="a50_345"></a>[LU 0:0.1](/es/The_Urantia_Book/0#p0_1)
 
 El Consejero Divino sigue diciendo:
 
-> «Debido a esta pobreza conceptual acompañada de tanta confusión de ideas, se me ha encargado formular esta exposición preliminar para explicar los significados que deberán atribuirse a ciertos símbolos verbales que se van a utilizar más adelante en estos documentos, que el cuerpo de reveladores de la verdad, de Orvonton, ha sido autorizado a traducir al idioma inglés de Urantia.» <a id="a54_391"></a>[LU 0:0.1](/es/The_Urantia_Book/0#p0_1)
+> «Debido a esta pobreza conceptual acompañada de tanta confusión de ideas, se me ha encargado formular esta exposición preliminar para explicar los significados que deberán atribuirse a ciertos símbolos verbales que se van a utilizar más adelante en estos documentos, que el cuerpo de reveladores de la verdad, de Orvonton, ha sido autorizado a traducir al idioma inglés de Urantia.» <a id="a54_385"></a>[LU 0:0.1](/es/The_Urantia_Book/0#p0_1)
 
 Estos autores orvontonianos, los Consejeros Divinos, intentan transportar la mente humana por eones de tiempo y a través de inconmensurables tramos de espacio directamente al Paraíso, la morada de Dios. De allí, fluye de vuelta a las orillas del lugar de la persona física, del humilde mundo hogar que llamamos «Urantia», el lugar donde ponemos en práctica hacer la voluntad de Dios.
 

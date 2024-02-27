@@ -55,7 +55,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ---
 
-> «La ciencia, guiada por la sabiduría, puede convertirse en la gran liberadora social del hombre.» _El Libro de Urantia_, <a id="a57_92"></a>[LU 81:6.22](/es/The_Urantia_Book/81#p6_22)
+> «La ciencia, guiada por la sabiduría, puede convertirse en la gran liberadora social del hombre.» _El Libro de Urantia_, <a id="a57_123"></a>[LU 81:6.22](/es/The_Urantia_Book/81#p6_22)
 
 ## Volumen 8, Número 3. Septiembre 2014
 

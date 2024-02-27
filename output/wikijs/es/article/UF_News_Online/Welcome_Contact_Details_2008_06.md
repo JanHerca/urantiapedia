@@ -64,7 +64,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_06/040.jpg">
 </figure>
 
-_«Os lo digo: amad a vuestros enemigos, haced el bien a los que os odian, bendecid a los que os maldicen, y orad por los que os utilizan con malicia. Haced por los hombres todo lo que creáis que yo haría por ellos.»_ Jesus, El Libro de Urantia (<a id="a66_237"></a>[LU 140:3](/es/The_Urantia_Book/140#p3))
+_«Os lo digo: amad a vuestros enemigos, haced el bien a los que os odian, bendecid a los que os maldicen, y orad por los que os utilizan con malicia. Haced por los hombres todo lo que creáis que yo haría por ellos.»_ Jesus, El Libro de Urantia (<a id="a66_245"></a>[LU 140:3](/es/The_Urantia_Book/140#p3))
 
 <br style="clear:both;"/>
 

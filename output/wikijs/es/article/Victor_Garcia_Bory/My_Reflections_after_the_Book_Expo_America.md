@@ -54,7 +54,7 @@ A pesar de lo impresionante (o no) que pueda parecer lo antes mencionado, en el 
 
 ¿Por qué es importante todo lo anterior? Porque destaca lo pequeña y aún así fundamental para el futuro de nuestro planeta que es la escala de distribución para _El libro de Urantia_. Es a través de la distribución comercial que _El libro de Urantia_ ha tenido más éxito, al hacer avances significativos y sostenidos en términos de una mayor disponibilidad y de una reducción significativa del precio en todas partes del mundo.
 
-Además, como ya sabemos, «El comercio ha sido el gran civilizador mediante la promoción de la fertilización intercultural.» <a id="a56_111"></a>[LU 69:4.8](/es/The_Urantia_Book/69#p4_8)
+Además, como ya sabemos, «El comercio ha sido el gran civilizador mediante la promoción de la fertilización intercultural.» <a id="a56_124"></a>[LU 69:4.8](/es/The_Urantia_Book/69#p4_8)
 
 Que _El libro de Urantia_ esté disponible y accesible globalmente no es un reto insignificante. Pero es un reto que, con ayuda de lectores comprometidos de _El libro de Urantia_, se ha afrontado y se puede afrontar con éxito. El trabajo de amor y las aportaciones de muchos tipos que tienen lugar todos los días en todo el mundo hacen posible que _El libro de Urantia_ esté disponible.
 
@@ -73,7 +73,7 @@ Distribuir _El libro de Urantia_ y hacerlo accesible es un esfuerzo de equipo de
 
 Contacten con la Fundación Urantia en línea, en persona o por teléfono, y descubran cómo pueden formar parte de la empresa de hacer que _El libro de Urantia_ esté disponible y sea asequible para los lectores de todo el mundo.
 
-Recordemos que «Juntamente con Dios, nada —absolutamente nada— es imposible». <a id="a75_89"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3)
+Recordemos que «Juntamente con Dios, nada —absolutamente nada— es imposible». <a id="a75_78"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3)
 
 
 ## Referencias

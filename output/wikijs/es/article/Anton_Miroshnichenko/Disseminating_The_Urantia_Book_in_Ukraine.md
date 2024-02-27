@@ -68,7 +68,7 @@ Colocamos allí tres libros en cada una de las tiendas. Subieron el precio un 10
 
 Creo que deberíamos usar todas las herramientas de márquetin modernas que tengamos disponibles para intentar distribuir _El libro de Urantia_. Como se dice en el libro, en la parábola del administrador sagaz:
 
-> «Si erais tan diligentes en la obtención de ganancias para vosotros mismos cuando estabais al servicio del ego, ¿por qué tendríais que mostrar menos diligencia en ganar almas para el reino, puesto que ahora sois los servidores de la fraternidad de los hombres y los administradores de Dios?» <a id="a72_230"></a>[LU 169:2.2](/es/The_Urantia_Book/169#p2_2)
+> «Si erais tan diligentes en la obtención de ganancias para vosotros mismos cuando estabais al servicio del ego, ¿por qué tendríais que mostrar menos diligencia en ganar almas para el reino, puesto que ahora sois los servidores de la fraternidad de los hombres y los administradores de Dios?» <a id="a70_294"></a>[LU 169:2.2](/es/The_Urantia_Book/169#p2_2)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_03/032.jpg">

@@ -89,7 +89,7 @@ Programen un grupo de estudio en su rutina semanal. Su participación es vital p
 
 Colaboren con sus compañeros creyentes en la realización de estas tres tareas cruciales. ¡Podemos hacerlo!
 
-> Es tan cierto que los hombres comparten sus creencias religiosas como que crean grupos religiosos de algún tipo que acaban persiguiendo objetivos comunes. Algún día las personas religiosas se juntarán y se pondrán a cooperar sobre la base de la unidad de ideales y objetivos, en lugar de intentar hacerlo sobre la base de opiniones psicológicas y creencias teológicas. Las metas más que los credos deberían unificar a las personas religiosas. <a id="a95_405"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)
+> Es tan cierto que los hombres comparten sus creencias religiosas como que crean grupos religiosos de algún tipo que acaban persiguiendo objetivos comunes. Algún día las personas religiosas se juntarán y se pondrán a cooperar sobre la base de la unidad de ideales y objetivos, en lugar de intentar hacerlo sobre la base de opiniones psicológicas y creencias teológicas. Las metas más que los credos deberían unificar a las personas religiosas. <a id="a91_445"></a>[LU 99:5.7](/es/The_Urantia_Book/99#p5_7)
 
 
 ## Referencias

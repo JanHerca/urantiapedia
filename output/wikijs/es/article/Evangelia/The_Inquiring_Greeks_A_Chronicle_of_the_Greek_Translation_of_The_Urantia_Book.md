@@ -41,9 +41,9 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Evangelia (Grecia)_
 
-Grecia es uno de los países que tuvo la suerte de presenciar al mismo Jesús, y más adelante a sus apóstoles. Los «gentiles griegos inquisitivos» que deseaban ver a Jesús y entrar en el reino presenciaron el último discurso de Jesús en el templo. Presentes en esa inusual asamblea, tuvieron el privilegio de ser instruidos por él durante el momento memorable en el que «percibió que se terminaba una dispensación y empezaba otra». <a id="a43_331"></a>[LU 174:5.6](/es/The_Urantia_Book/174#p5_6)
+Grecia es uno de los países que tuvo la suerte de presenciar al mismo Jesús, y más adelante a sus apóstoles. Los «gentiles griegos inquisitivos» que deseaban ver a Jesús y entrar en el reino presenciaron el último discurso de Jesús en el templo. Presentes en esa inusual asamblea, tuvieron el privilegio de ser instruidos por él durante el momento memorable en el que «percibió que se terminaba una dispensación y empezaba otra». <a id="a43_430"></a>[LU 174:5.6](/es/The_Urantia_Book/174#p5_6)
 
-Muchos de ellos estuvieron «en Getsemaní cuando los soldados arrestaron a Jesús y Judas lo traicionó con un beso». <a id="a45_107"></a>[LU 190:4.1](/es/The_Urantia_Book/190#p4_1) Fue no mucho antes de que Jesús hubiera visitado Atenas y su renombrada Academia y plantara las semillas de salvación, pero en Jerusalén se estaba dirigiendo a los judíos y a aquellos griegos que lo buscaron con tanta insistencia, declarando que «está a punto de llegar la hora en que el Hijo del Hombre será glorificado». <a id="a45_444"></a>[LU 174:5.8](/es/The_Urantia_Book/174#p5_8)
+Muchos de ellos estuvieron «en Getsemaní cuando los soldados arrestaron a Jesús y Judas lo traicionó con un beso». <a id="a45_115"></a>[LU 190:4.1](/es/The_Urantia_Book/190#p4_1) Fue no mucho antes de que Jesús hubiera visitado Atenas y su renombrada Academia y plantara las semillas de salvación, pero en Jerusalén se estaba dirigiendo a los judíos y a aquellos griegos que lo buscaron con tanta insistencia, declarando que «está a punto de llegar la hora en que el Hijo del Hombre será glorificado». <a id="a45_482"></a>[LU 174:5.8](/es/The_Urantia_Book/174#p5_8)
 
 ## Manual de instrucciones para el planeta
 

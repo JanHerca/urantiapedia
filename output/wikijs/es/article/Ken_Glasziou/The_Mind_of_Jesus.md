@@ -107,7 +107,7 @@ Después de su bautismo, las elecciones que enfrentó Jesús en cuanto al tipo d
 
 Solo hubo un motivo en la vida post bautismal de Jesús y ese fue una revelación mejor y más verdadera de su Padre del Paraíso; fue el pionero del nuevo y mejor camino hacia Dios, el camino de la fe y el amor, que insistió en recorrer de la manera más tranquila y no dramática, evitando toda exhibición de poder.
 
-Jesús les dijo a sus apóstoles: «No os engañéis; saldremos a trabajar para una generación que busca signos... y serán lentos en reconocer, en la revelación del amor de mi Padre, las cartas credenciales de mi misión». (<a id="a109_220"></a>[LU 137:6.5](/es/The_Urantia_Book/137#p6_5))
+Jesús les dijo a sus apóstoles: «No os engañéis; saldremos a trabajar para una generación que busca signos... y serán lentos en reconocer, en la revelación del amor de mi Padre, las cartas credenciales de mi misión». (<a id="a109_218"></a>[LU 137:6.5](/es/The_Urantia_Book/137#p6_5))
 
 > Cuando lleguemos a saber que tenemos suficiente, entonces seremos ricos.
 

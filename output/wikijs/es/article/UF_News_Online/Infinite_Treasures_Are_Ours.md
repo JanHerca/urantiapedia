@@ -42,9 +42,9 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De los fideicomisarios y el personal de la Fundación Urantia_
 
-Como peregrinos ascendentes del tiempo, todos hemos sido desafiados a «deleitarse con las incertidumbres..., a estimularse en presencia de las dificultades... y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable». <a id="a44_233"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3) Y no lo hacemos solos, sino juntos como hermanos.
+Como peregrinos ascendentes del tiempo, todos hemos sido desafiados a «deleitarse con las incertidumbres..., a estimularse en presencia de las dificultades... y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable». <a id="a44_245"></a>[LU 26:5.3](/es/The_Urantia_Book/26#p5_3) Y no lo hacemos solos, sino juntos como hermanos.
 
-El año pasado ciertamente trajo desafíos, pero tenemos la seguridad de una revelación divina, un atisbo de la mente de Dios, cuyo plan nos abraza a todos. «Y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos!» <a id="a46_356"></a>[LU 32:5.7](/es/The_Urantia_Book/32#p5_7)
+El año pasado ciertamente trajo desafíos, pero tenemos la seguridad de una revelación divina, un atisbo de la mente de Dios, cuyo plan nos abraza a todos. «Y este plan consiste en un propósito eterno de oportunidades sin límites, de progreso ilimitado y de vida sin fin. ¡Y los tesoros infinitos de esta carrera incomparable serán vuestros con tal que os esforcéis por alcanzarlos!» <a id="a46_383"></a>[LU 32:5.7](/es/The_Urantia_Book/32#p5_7)
 
 Cuando lean los artículos de este boletín, esperamos que se inspiren con el amor sincero, el servicio alegre y los programas emocionantes que los lectores de todo el mundo están ansiosos por compartir con ustedes.
 

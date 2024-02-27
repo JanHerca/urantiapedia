@@ -41,7 +41,7 @@ Tras ser nombrada fideicomisario asociado de la Fundación Urantia, fui invitada
 
 Entre el 8 y 10 agosto, en Chicago, cinco mujeres se reunieron en amistad, compartiendo ideas y conceptos explorados acerca del aspecto femenino de lo divino dentro de nosotros. Específicamente acerca de qué le ha dado Dios a las mujeres, cuál es la voluntad de Dios para ellas y qué significa ser una hija de Dios.
 
-«La mujer ... siempre ha sido el estandarte moral y líder espiritual de la humanidad. La mano que mece la cuna todavía confraterniza con el destino.» <a id="a42_152"></a>[LU 84:6.4](/es/The_Urantia_Book/84#p6_4) ¿Cómo podemos ayudar a las madres a que tomen conciencia de la influencia que tienen sobre sus hijos?
+«La mujer ... siempre ha sido el estandarte moral y líder espiritual de la humanidad. La mano que mece la cuna todavía confraterniza con el destino.» <a id="a43_150"></a>[LU 84:6.4](/es/The_Urantia_Book/84#p6_4) ¿Cómo podemos ayudar a las madres a que tomen conciencia de la influencia que tienen sobre sus hijos?
 
 Todos nos sentimos alentados por **los reveladores** a «construir una nueva y atrayente filosofía de vida» que integre la verdad, la belleza y la bondad, a medida que crezcamos en espiritualidad. Las semillas de la creatividad y la originalidad echan raíces dentro de nosotros cuando nos convertimos en «reflejos humanos de lo Divino.» Podemos hacer brillar la verdad; Dios es la llama y nosotros somos la antorcha.
 

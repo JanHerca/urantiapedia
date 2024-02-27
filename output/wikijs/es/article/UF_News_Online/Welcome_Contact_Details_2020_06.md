@@ -60,7 +60,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2020_06/044.jpg">
 </figure>
 
-En realidad, cada ser humano define la religión desde el punto de vista de su propia interpretación experiencial de los impulsos divinos que emanan del espíritu de Dios que reside en él, y por lo tanto esta interpretación ha de ser única y totalmente diferente de la filosofía religiosa de todos los demás seres humanos. _El Libro de Urantia_, <a id="a62_321"></a>[LU 103:1.1](/es/The_Urantia_Book/103#p1_1)
+En realidad, cada ser humano define la religión desde el punto de vista de su propia interpretación experiencial de los impulsos divinos que emanan del espíritu de Dios que reside en él, y por lo tanto esta interpretación ha de ser única y totalmente diferente de la filosofía religiosa de todos los demás seres humanos. _El Libro de Urantia_, <a id="a62_344"></a>[LU 103:1.1](/es/The_Urantia_Book/103#p1_1)
 <br style="clear:both;"/>
 
 ## Volumen 14, Número 2. Junio 2020

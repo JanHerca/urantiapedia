@@ -51,7 +51,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2011_03/049.jpg">
 </figure>
 
-La honradez es la verdadera medida del dominio de sí mismo, del carácter. _El Libro de Urantia_, <a id="a53_84"></a>[LU 28:6.13](/es/The_Urantia_Book/28#p6_13)
+La honradez es la verdadera medida del dominio de sí mismo, del carácter. _El Libro de Urantia_, <a id="a53_97"></a>[LU 28:6.13](/es/The_Urantia_Book/28#p6_13)
 <br style="clear:both;"/>
 
 ## Volumen 5, Número 1. Marzo 2011

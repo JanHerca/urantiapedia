@@ -60,7 +60,7 @@ Gaétan Charland resaltó la necesidad de comprender los orígenes y fines de la
 
 La oportunidad para los líderes de la Fellowship, la Fundación y la AUI de hablar entre ellos en un foro abierto sobre sus esperanzas y sueños para la revelación Urantia sigue un proceso de curación que comenzó hace años. Está claro que todos los que asistieron al taller reverencian el libro y sus enseñanzas. Quieren que el amor y el servicio guíen sus esfuerzos.
 
-> «_Cristo Micael presentó por cuarta vez a Urantia el concepto de Dios como Padre Universal, y esta enseñanza en general ha persistido desde entonces. La esencia de su enseñanza era amor y servicio, la adoración amorosa que un hijo creado ofrece voluntariamente en reconocimiento del ministerio afectuoso de Dios su Padre, y en respuesta al mismo; el servicio por propia voluntad que estos hijos creados otorgan a sus hermanos, con la alegre comprensión regocijada de que, mediante este servicio, están sirviendo igualmente a Dios Padre._» <a id="a60_505"></a>[LU 92:4.8](/es/The_Urantia_Book/92#p4_8)
+> «_Cristo Micael presentó por cuarta vez a Urantia el concepto de Dios como Padre Universal, y esta enseñanza en general ha persistido desde entonces. La esencia de su enseñanza era amor y servicio, la adoración amorosa que un hijo creado ofrece voluntariamente en reconocimiento del ministerio afectuoso de Dios su Padre, y en respuesta al mismo; el servicio por propia voluntad que estos hijos creados otorgan a sus hermanos, con la alegre comprensión regocijada de que, mediante este servicio, están sirviendo igualmente a Dios Padre._» <a id="a62_541"></a>[LU 92:4.8](/es/The_Urantia_Book/92#p4_8)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_09/014.jpg">

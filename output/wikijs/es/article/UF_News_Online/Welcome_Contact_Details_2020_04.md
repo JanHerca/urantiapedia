@@ -59,7 +59,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2020_04/050.jpg">
 </figure>
 
-Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres. _El Libro de Urantia_, <a id="a61_301"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
+Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres. _El Libro de Urantia_, <a id="a61_330"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6)
 <br style="clear:both;"/>
 
 

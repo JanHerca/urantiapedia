@@ -58,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2012_06/066.jpg">
 </figure>
 
-«No lo olvides nunca: el Padre no limita la revelación de la verdad a una generación concreta ni a un pueblo determinado.» Jesús, _El Libro de Urantia_, <a id="a60_137"></a>[LU 159:4.6](/es/The_Urantia_Book/159#p4_6)
+«No lo olvides nunca: el Padre no limita la revelación de la verdad a una generación concreta ni a un pueblo determinado.» Jesús, _El Libro de Urantia_, <a id="a60_153"></a>[LU 159:4.6](/es/The_Urantia_Book/159#p4_6)
 <br style="clear:both;"/>
 
 ## Volumen 6, Número 2 . Junio 2012
