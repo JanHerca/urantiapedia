@@ -1,5 +1,5 @@
 ---
-título: "Sembrando la Revelación en Sudáfrica"
+title: "Sembrando la Revelación en Sudáfrica"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

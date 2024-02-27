@@ -1,5 +1,5 @@
 ---
-título: "Decisiones de interés periodístico de la reunión de octubre de los fideicomisarios de la Fundación Urantia"
+title: "Decisiones de interés periodístico de la reunión de octubre de los fideicomisarios de la Fundación Urantia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

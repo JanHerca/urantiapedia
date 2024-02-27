@@ -1,5 +1,5 @@
 ---
-título: "Una breve historia de los propietarios de la sede de la Fundación Urantia"
+title: "Una breve historia de los propietarios de la sede de la Fundación Urantia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

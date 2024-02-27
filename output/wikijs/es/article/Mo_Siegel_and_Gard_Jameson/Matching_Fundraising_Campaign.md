@@ -1,5 +1,5 @@
 ---
-título: "La Fundación Urantia lanza una campaña de recaudación de fondos de contrapartida en diciembre de 2007"
+title: "La Fundación Urantia lanza una campaña de recaudación de fondos de contrapartida en diciembre de 2007"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

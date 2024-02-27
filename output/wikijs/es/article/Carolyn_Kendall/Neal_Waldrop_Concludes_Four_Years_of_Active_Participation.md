@@ -1,5 +1,5 @@
 ---
-título: "Neal Waldrop concluye cuatro años de participación activa"
+title: "Neal Waldrop concluye cuatro años de participación activa"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

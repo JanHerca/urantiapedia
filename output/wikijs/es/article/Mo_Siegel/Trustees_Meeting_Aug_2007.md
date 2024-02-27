@@ -1,5 +1,5 @@
 ---
-título: "Artículos de interés periodístico de la reunión de administradores de agosto de 2007"
+title: "Artículos de interés periodístico de la reunión de administradores de agosto de 2007"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

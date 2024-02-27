@@ -1,5 +1,5 @@
 ---
-título: "La Fundación imprime una traducción al portugués"
+title: "La Fundación imprime una traducción al portugués"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
