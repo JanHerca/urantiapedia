@@ -52,7 +52,7 @@ Y en este espíritu de cooperación es como la Mesa Redonda de las TI y El libro
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-11/tercera-mesa-redonda-de-las-tecnologias-de-la-informacion-ti-y-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

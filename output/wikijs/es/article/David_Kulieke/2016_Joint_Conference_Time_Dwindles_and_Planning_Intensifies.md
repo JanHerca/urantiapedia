@@ -67,7 +67,7 @@ El Consejo de Presidentes de la AUI celebrará una reunión, como también lo ha
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-03/conferencia-conjunta-de-2016-el-tiempo-se-reduce-y-la-planificacion-se-intensifica)
 
 <figure class="table chapter-navigator">

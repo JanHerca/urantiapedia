@@ -78,7 +78,7 @@ Los miembros actuales del UBSGD son: Bill Beasley, Scott Brooks, Barry Clark, Ja
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-07/el-directorio-de-grupos-de-estudio-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

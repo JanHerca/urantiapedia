@@ -187,7 +187,7 @@ En nombre de la Junta Ampliada y de nuestro equipo en Chicago:
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-03/informe-anual-2009-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

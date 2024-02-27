@@ -49,7 +49,7 @@ Hace unos días, recibí un ejemplar de _El libro de Urantia_: Edición Europea.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-09/el-libro-de-urantia-edicion-europea)
 
 <figure class="table chapter-navigator">

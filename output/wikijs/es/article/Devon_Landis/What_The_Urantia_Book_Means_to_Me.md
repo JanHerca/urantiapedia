@@ -63,7 +63,7 @@ Ahora mismo, mi empresa literaria está centrada en leer la Biblia católica de 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-03/que-significa-el-libro-de-urantia-para-mi)
 
 <figure class="table chapter-navigator">

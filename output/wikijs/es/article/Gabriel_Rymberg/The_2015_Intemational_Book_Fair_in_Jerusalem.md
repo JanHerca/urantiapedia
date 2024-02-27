@@ -73,7 +73,7 @@ Hemos ayudado sin duda a sembrar _El libro de Urantia_ en Israel. Me atrevo a pr
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-03/la-feria-internacional-del-libro-2015-de-jerusalen)
 
 <figure class="table chapter-navigator">

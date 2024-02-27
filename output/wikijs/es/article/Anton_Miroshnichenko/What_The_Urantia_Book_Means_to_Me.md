@@ -80,7 +80,7 @@ En última instancia, diré que _El libro de Urantia_ me inspira a lo que yo lla
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/lo-que-el-libro-de-urantia-significa-para-mi-anton-miroshnichenko)
 
 <figure class="table chapter-navigator">

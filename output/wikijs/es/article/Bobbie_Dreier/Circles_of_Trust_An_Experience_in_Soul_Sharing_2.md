@@ -66,7 +66,7 @@ Pueden inscribirse para el retiro, así como para la conferencia, en www.IC17.or
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-03/dancing-god-emerging-in-sacredness)
 
 <figure class="table chapter-navigator">

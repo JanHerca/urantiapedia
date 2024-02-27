@@ -63,7 +63,7 @@ La Fundación Urantia es consciente de todas estas actividades en un sentido amp
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2008-09/are-you-new-religion-or-cult)
 
 <figure class="table chapter-navigator">

@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=loEnwEdRT_g
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-12/urantia-nebadon-y-el-universo-maestro-nueva-pelicula-en-perspectiva)
 
 <figure class="table chapter-navigator">

@@ -86,7 +86,7 @@ El traductor al parsi ha terminado más documentos desde que se subió el últim
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/la-fundacion-urantia-presenta-el-iii-simposio-cientifico), [este artículo](https://www.urantia.org/es/news/2022-03/sesion-de-estudio-de-verano-2022) y [este artículo](https://www.urantia.org/es/news/2022-03/novedades-de-la-traduccion-al-parsi-khtb-ywrnshy)
 
 <figure class="table chapter-navigator">

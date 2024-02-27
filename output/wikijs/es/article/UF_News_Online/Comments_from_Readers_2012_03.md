@@ -82,7 +82,7 @@ La tercera es, para mí, la expansión de la madurez y el equivalente al crecimi
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-03/como-ser-un-hijo-de-dios-0) y [este artículo](https://www.urantia.org/es/news/2012-03/un-momento-en-el-tiempo)
 
 <figure class="table chapter-navigator">

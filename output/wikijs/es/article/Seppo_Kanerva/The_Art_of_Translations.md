@@ -97,7 +97,7 @@ A través de su trabajo riguroso, los traductores dan un gran servicio a los hab
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-12/el-arte-de-traducir)
 
 <figure class="table chapter-navigator">

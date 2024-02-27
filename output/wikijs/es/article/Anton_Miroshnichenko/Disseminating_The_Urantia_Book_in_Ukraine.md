@@ -77,7 +77,7 @@ Creo que deberíamos usar todas las herramientas de márquetin modernas que teng
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-03/la-diseminacion-de-el-libro-de-urantia-en-ucrania)
 
 <figure class="table chapter-navigator">

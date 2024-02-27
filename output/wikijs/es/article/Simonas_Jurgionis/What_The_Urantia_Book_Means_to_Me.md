@@ -55,7 +55,7 @@ Ante mí hay una aventura increíble (lo que la mayoría llama vida), y doy grac
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-04/lo-que-el-libro-de-urantia-significa-para-mi-simonas-jurgionis)
 
 <figure class="table chapter-navigator">

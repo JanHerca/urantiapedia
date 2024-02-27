@@ -184,7 +184,7 @@ Se dedicó un día más a responder a las preguntas de los participantes. Todav�
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-10/primera-conferencia-en-china-un-esfuerzo-internacional-sin-precedentes)
 
 <figure class="table chapter-navigator">

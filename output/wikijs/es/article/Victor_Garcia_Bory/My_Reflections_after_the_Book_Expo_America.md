@@ -78,7 +78,7 @@ Recordemos que «Juntamente con Dios, nada —absolutamente nada— es imposible
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-06/mis-reflexiones-sobre-la-bookexpo-america)
 
 <figure class="table chapter-navigator">

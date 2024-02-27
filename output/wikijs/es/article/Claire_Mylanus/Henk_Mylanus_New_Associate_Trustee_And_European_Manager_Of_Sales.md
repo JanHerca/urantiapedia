@@ -53,7 +53,7 @@ A corto plazo, el trabajo de Henk en la Fundación Urantia se centrará en soluc
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-12/henk-mylanus-nuevo-fideicomisario-asociado-y-director-de-ventas-en-europa)
 
 <figure class="table chapter-navigator">

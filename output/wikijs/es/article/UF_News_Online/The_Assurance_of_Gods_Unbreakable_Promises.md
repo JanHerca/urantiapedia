@@ -65,7 +65,7 @@ Que el amor de nuestro Padre celestial les llene a ustedes y a sus familias de l
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-12/la-seguridad-de-las-promesas-inquebrantables-de-dios)
 
 <figure class="table chapter-navigator">

@@ -82,7 +82,7 @@ Todos nosotros apreciamos este retiro. Compartimos nuestra alma; experimentamos 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-12/retiro-de-oracion-contemplativa-en-la-bretana-francesa)
 
 <figure class="table chapter-navigator">

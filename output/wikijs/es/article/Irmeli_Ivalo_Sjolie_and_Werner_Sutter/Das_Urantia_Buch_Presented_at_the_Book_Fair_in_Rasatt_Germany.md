@@ -49,7 +49,7 @@ _Fue una experiencia de la que todos disfrutaron._
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-12/das-urantia-buch-se-presento-en-la-feria-del-libro-de-rasatt-alemania)
 
 <figure class="table chapter-navigator">

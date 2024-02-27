@@ -68,7 +68,7 @@ He tratado desde varios aspectos este mismo tema: la necesidad de mejorar consid
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-03/el-secreto-de-una-civilizacion-mejor)
 
 <figure class="table chapter-navigator">

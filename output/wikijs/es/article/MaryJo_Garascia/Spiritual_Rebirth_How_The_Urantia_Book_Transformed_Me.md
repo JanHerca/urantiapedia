@@ -57,7 +57,7 @@ _El Libro de Urantia_ llegó a mi vida en el momento en que más lo necesitaba; 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-06/spiritual-rebirth-how-urantia-book-transformed-me)
 
 <figure class="table chapter-navigator">

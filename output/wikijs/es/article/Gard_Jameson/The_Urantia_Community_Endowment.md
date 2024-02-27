@@ -59,7 +59,7 @@ Endowment funds ensure future translations
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-06/el-fondo-de-dotacion-de-la-comunidad-urantia-un-fondo-para-el-futuro)
 
 <figure class="table chapter-navigator">

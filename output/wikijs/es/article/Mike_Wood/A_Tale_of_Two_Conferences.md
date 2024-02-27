@@ -102,7 +102,7 @@ A pesar de que soy el vendedor de libros de las conferencias, consigo escuchar a
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-09/relato-de-dos-conferencias)
 
 <figure class="table chapter-navigator">

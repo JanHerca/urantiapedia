@@ -72,7 +72,7 @@ Todos nos enriquecimos escuchando las historias de los demás y aportando las nu
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-04/retiro-espiritual-virtual-de-la-fundacion-urantia-el-poder-de-las-historias)
 
 <figure class="table chapter-navigator">

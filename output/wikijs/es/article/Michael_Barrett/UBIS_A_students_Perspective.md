@@ -59,7 +59,7 @@ Que el Padre de allá arriba nos sostenga en la palma de Su mano y nos cambie la
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-03/la-ubis-desde-el-punto-de-vista-de-un-alumno)
 
 <figure class="table chapter-navigator">

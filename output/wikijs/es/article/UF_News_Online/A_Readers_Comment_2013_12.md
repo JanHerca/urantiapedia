@@ -72,7 +72,7 @@ Durante toda mi vida fui una gran interrogación. Ahora, cuanto más comprendo l
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-12/lo-que-me-mueve)
 
 <figure class="table chapter-navigator">

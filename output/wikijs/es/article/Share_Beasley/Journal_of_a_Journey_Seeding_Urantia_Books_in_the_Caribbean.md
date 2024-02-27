@@ -96,7 +96,7 @@ Ahora estamos de vuelta a Ft. Lauderdale (Florida), al final de una excitante av
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-07/diario-de-un-viaje-la-siembra-de-libros-de-urantia-en-el-caribe)
 
 <figure class="table chapter-navigator">

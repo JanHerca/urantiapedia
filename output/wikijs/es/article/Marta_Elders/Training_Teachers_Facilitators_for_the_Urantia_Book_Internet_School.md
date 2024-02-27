@@ -63,7 +63,7 @@ En la última semana del curso, aprendimos más sobre los requisitos para ser pr
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-09/formacion-de-profesores-y-facilitadores-para-la-escuela-de-el-libro-de-urantia-en)
 
 <figure class="table chapter-navigator">

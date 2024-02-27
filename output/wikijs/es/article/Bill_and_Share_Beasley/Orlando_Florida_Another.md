@@ -84,7 +84,7 @@ Como conclusión, les damos las gracias por compartir otro ejemplo de los efecto
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-03/orlando-florida-otro-capitulo-comienza)
 
 <figure class="table chapter-navigator">

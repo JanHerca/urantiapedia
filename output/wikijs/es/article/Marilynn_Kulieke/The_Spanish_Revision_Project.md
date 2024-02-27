@@ -53,7 +53,7 @@ La propuesta fue aceptada por la Junta de Fideicomisarios, y el trabajo de revis
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-06/el-proyecto-de-revision-de-la-traduccion-espanola)
 
 <figure class="table chapter-navigator">

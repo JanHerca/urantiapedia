@@ -55,7 +55,7 @@ La presentación del libro en esta feria no habría sido posible sin la ayuda y 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-06/el-debut-de-el-libro-de-urantia-en-la-feria-del-libro-de-budapest-2011)
 
 <figure class="table chapter-navigator">

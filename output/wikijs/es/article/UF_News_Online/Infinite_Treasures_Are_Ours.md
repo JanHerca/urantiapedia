@@ -61,7 +61,7 @@ Que ustedes y sus seres queridos sean bendecidos con abundante alegría, paz y b
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-12/infinitos-tesoros-son-nuestros)
 
 <figure class="table chapter-navigator">

@@ -62,7 +62,7 @@ Para acabar, quiero que sepan que sin la dedicación de estos miembros dedicados
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-06/novedades-de-la-escuela-en-internet-de-el-libro-de-urantia-ubis)
 
 <figure class="table chapter-navigator">

@@ -63,7 +63,7 @@ Compartir la Revelación Urantia por todo el mundo es una experiencia poderosa q
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-12/cuando-gran-bretana-se-encuentra-con-la-pequena-bretana)
 
 <figure class="table chapter-navigator">

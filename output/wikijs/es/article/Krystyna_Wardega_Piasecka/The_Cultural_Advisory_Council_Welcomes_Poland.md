@@ -73,7 +73,7 @@ En 2023, los cuatro miembros del Consejo Consultivo Cultural planearán reunione
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-12/el-consejo-consultivo-cultural-da-la-bienvenida-polonia)
 
 <figure class="table chapter-navigator">

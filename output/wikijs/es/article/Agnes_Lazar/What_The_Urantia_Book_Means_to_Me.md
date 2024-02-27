@@ -59,7 +59,7 @@ Estoy llena de gratitud por el viaje a mi Padre que me ha puesto en el camino de
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-06/lo-que-el-libro-de-urantia-significa-para-mi-agnes-lazar)
 
 <figure class="table chapter-navigator">

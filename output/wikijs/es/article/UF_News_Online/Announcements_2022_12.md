@@ -60,7 +60,7 @@ https://www.urantia.org/urantia-foundation/mustard-seed-grants-program
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-12/traduccion-al-farsi) y [este artículo](https://www.urantia.org/es/news/2022-12/programa-de-subvenciones-semilla-de-mostaza)
 
 <figure class="table chapter-navigator">

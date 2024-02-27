@@ -73,7 +73,7 @@ Epílogo: queridos lectores, quizá quieran responder a esas preguntas para su p
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-09/la-experiencia-de-adoracion-en-la-sss15)
 
 <figure class="table chapter-navigator">

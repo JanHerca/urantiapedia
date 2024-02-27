@@ -66,7 +66,7 @@ El punto final de nuestra agenda fue el de considerar un plan para una “gran�
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-06/la-tercera-reunion-del-blue-club-en-frankfurt-alemania)
 
 <figure class="table chapter-navigator">

@@ -99,7 +99,7 @@ La junta trat贸 sobre la necesidad y la oportunidad de que la generaci贸n del 鈥
 
 ## Referencias
 
-- [Noticias en L铆nea de la Fundaci贸n Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [芦Noticias en L铆nea禄 de la Fundaci贸n Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este art铆culo](https://www.urantia.org/es/news/2014-09/decisiones-destacadas-de-la-reunion-de-julio-de-la-junta-de-fideicomisarios)
 
 <figure class="table chapter-navigator">

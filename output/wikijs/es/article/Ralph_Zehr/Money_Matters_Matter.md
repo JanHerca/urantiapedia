@@ -116,7 +116,7 @@ Si el Maestro les está llamando, recuerden a Matadormo y cómo, en su caso, los
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-12/los-asuntos-de-dinero-importan)
 
 <figure class="table chapter-navigator">

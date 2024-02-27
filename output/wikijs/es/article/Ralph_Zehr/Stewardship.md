@@ -59,7 +59,7 @@ Cada día, ustedes y yo hacemos elecciones relacionadas con la manera en que dis
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-12/administracion)
 
 <figure class="table chapter-navigator">

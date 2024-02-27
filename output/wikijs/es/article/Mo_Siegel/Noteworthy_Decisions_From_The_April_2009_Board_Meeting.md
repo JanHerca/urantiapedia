@@ -59,7 +59,7 @@ _De Mo Siegel, presidente de la Fundación Urantia, Colorado (EEUU)_
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-06/decisiones-tomadas-en-la-reunion-de-abril-de-la-junta)
 
 <figure class="table chapter-navigator">

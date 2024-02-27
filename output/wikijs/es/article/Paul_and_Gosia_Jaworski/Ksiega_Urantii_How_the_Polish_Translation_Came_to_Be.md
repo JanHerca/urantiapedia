@@ -80,7 +80,7 @@ Mientras estábamos con la traducción, Gosia solía comentar que nuestro trabaj
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/ksiega-urantii-como-llego-la-traduccion-al-polaco)
 
 <figure class="table chapter-navigator">

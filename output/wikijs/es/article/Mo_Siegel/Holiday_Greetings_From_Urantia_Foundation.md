@@ -53,7 +53,7 @@ Que nuestra oración en estas fiestas sea para servir a esta revelación como nu
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-12/felices-fiestas-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

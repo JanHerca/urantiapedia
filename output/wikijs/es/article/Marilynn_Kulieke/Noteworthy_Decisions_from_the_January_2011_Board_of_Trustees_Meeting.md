@@ -168,7 +168,7 @@ La Junta acordó desarrollar y hacer funcionar de la mejor manera posible un fut
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-03/decisiones-destacadas-de-la-reunion-de-enero-de-la-junta)
 
 <figure class="table chapter-navigator">

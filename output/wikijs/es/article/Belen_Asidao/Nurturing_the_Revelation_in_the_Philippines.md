@@ -72,7 +72,7 @@ Por favor, recen por nosotros mientras continuamos con esta profunda empresa esp
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-12/cultivar-la-revelacion-en-filipinas)
 
 <figure class="table chapter-navigator">

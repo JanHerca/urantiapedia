@@ -136,7 +136,7 @@ En los documentos sobre Jesús encontré al Jesús más bello, amoroso y encanta
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-06/duane-faw-homenaje-un-hombre-que-sirvio-la-revelacion)
 
 <figure class="table chapter-navigator">

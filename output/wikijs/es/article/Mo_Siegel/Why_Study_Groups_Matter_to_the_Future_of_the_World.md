@@ -79,7 +79,7 @@ En muchos aspectos, lo más cercano a experimentar una comunidad de creyentes es
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-06/por-que-los-grupos-de-estudio-son-importantes-para-el-futuro-del-mundo)
 
 <figure class="table chapter-navigator">

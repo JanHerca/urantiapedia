@@ -57,7 +57,7 @@ Quizá estén interesados en saber que el sótano de la Fundación podría conve
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-12/novedades-del-comite-de-educacion)
 
 <figure class="table chapter-navigator">

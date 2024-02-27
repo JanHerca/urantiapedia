@@ -114,7 +114,7 @@ Nuestro agradecimiento especial a Jennifer Siegel y Dalius Budas por su destacad
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-07/decisiones-destacadas-de-la-reunion-de-abril-de-la-junta-de-fideicomisarios)
 
 <figure class="table chapter-navigator">

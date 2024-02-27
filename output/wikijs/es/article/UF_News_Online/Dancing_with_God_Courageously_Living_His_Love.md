@@ -62,7 +62,7 @@ La visión de las Hijas de Dios: llegar al corazón de las mujeres explorando la
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-03/bailar-con-dios-vivir-su-amor-con-valentia)
 
 <figure class="table chapter-navigator">

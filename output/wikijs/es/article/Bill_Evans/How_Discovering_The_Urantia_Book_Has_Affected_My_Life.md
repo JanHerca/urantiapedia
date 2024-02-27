@@ -57,7 +57,7 @@ Espero encontrarles a todos ustedes, si no aquí, en el primer mundo mansión.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-03/como-ha-afectado-mi-vida-el-descubrimiento-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

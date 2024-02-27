@@ -80,7 +80,7 @@ La traducción estonia ha sido el fruto del trabajo en equipo, que nos da placer
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-12/la-historia-de-urantia-raamat-la-traduccion-estonia)
 
 <figure class="table chapter-navigator">

@@ -71,7 +71,7 @@ Poso nuevamente mis ojos en mi hijo de 12 años que, entusiasmado, me dice que y
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-04/primavera-para-el-nuevo-libro-de-urantia)
 
 <figure class="table chapter-navigator">

@@ -76,7 +76,7 @@ Regrese a Ti!<br>
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-12/urantia-book-internet-school-brazilian-experiencela-escuela-de-el-libro-de-urantia-en)
 
 <figure class="table chapter-navigator">

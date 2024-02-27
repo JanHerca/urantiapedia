@@ -43,7 +43,7 @@ Nota de la dirección: Eugene Asiado y su esposa Belen están en Filipinas por s
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-03/alcance-de-el-libro-de-urantia-en-filipinas)
 
 <figure class="table chapter-navigator">

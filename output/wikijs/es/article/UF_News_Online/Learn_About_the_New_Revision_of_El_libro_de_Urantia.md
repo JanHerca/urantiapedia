@@ -71,7 +71,7 @@ Seleccionen el taller de las 14:00 horas (hora de Chicago, GMT — 5) del doming
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2021-04/learn-about-new-revision-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

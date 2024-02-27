@@ -75,7 +75,7 @@ Cuando lean ese párrafo y piensen en comunicaciones y transporte, les invito a 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-09/el-efecto-de-las-cadenas-de-suministro-en-la-impresion-y-distribucion-de-libros)
 
 <figure class="table chapter-navigator">

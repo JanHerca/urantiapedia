@@ -94,7 +94,7 @@ Para leer más sobre su historia, [haga clic aquí](https://www.urantia.org/news
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-12/felicitaciones-navidenas-reflexiones-sobre-los-verdaderos-regalos-de-el-libro-de)
 
 <figure class="table chapter-navigator">

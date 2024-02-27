@@ -93,7 +93,7 @@ ID de la reunión: 479 700 8151
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-06/la-traduccion-al-indonesio-ya-esta-en-internet), [este artículo](https://www.urantia.org/es/news/2020-06/novedades-de-las-traducciones-al-polaco-persa-y-danes), [este artículo](https://www.urantia.org/es/news/2020-06/pagina-de-facebook-y-pensamientos-para-reflexionar-en-aleman), [este artículo](https://www.urantia.org/es/news/2020-06/hacen-falta-traductores-voluntarios) y [este artículo](https://www.urantia.org/es/news/2020-06/retiro-espiritual)
 
 <figure class="table chapter-navigator">

@@ -91,7 +91,7 @@ Damos las gracias a todo el movimiento Urantia por su apoyo. Unidos podemos visu
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-04/la-conferencia-de-el-libro-de-urantia-en-filipinas-2019)
 
 <figure class="table chapter-navigator">

@@ -74,7 +74,7 @@ La Junta trató sobre los inventarios del _Libro de Urantia_ y sus traducciones 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-09/decisiones-destacadas-de-la-junta-de-fideicomisarios-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

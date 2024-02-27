@@ -66,7 +66,7 @@ El coste de los tres días es de 250 $ e incluye todas las comidas y los alojami
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-06/la-revision-al-ruso-ya-esta-disponible-en-la-web), [este artículo](https://www.urantia.org/es/news/2019-06/nuevo-motor-de-busqueda-de-el-libro-de-urantia-en-urantiaorg) y [este artículo](https://www.urantia.org/es/news/2019-06/bailar-con-dios-nuestra-llamada-suprema)
 
 <figure class="table chapter-navigator">

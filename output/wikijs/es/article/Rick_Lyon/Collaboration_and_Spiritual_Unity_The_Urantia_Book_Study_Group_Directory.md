@@ -83,7 +83,7 @@ Si necesitan más información, contacten con: [team@urantiastudygroup.org](mail
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/colaboracion-y-unidad-espiritual-el-directorio-de-grupos-de-estudio-de-el-libro-de)
 
 <figure class="table chapter-navigator">

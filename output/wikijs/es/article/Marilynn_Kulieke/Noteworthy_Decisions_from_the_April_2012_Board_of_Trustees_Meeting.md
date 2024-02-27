@@ -62,7 +62,7 @@ _De Marilynn Kulieke, Secretaria de la Fundación Urantia, Lincolnshire (Illinoi
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-06/decisiones-destacadas-de-la-reunion-de-la-junta-de-fideicomisarios-de-abril-de-2012)
 
 <figure class="table chapter-navigator">

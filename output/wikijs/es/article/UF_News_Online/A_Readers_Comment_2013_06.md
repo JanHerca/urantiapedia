@@ -71,7 +71,7 @@ Cuando leo _El libro de Urantia_, me siento en expansión, como podría un ave s
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-06/alcanzar-la-perfeccion)
 
 <figure class="table chapter-navigator">

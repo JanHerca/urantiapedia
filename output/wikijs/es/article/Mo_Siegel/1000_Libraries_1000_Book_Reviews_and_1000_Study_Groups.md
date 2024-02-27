@@ -99,7 +99,7 @@ Tendrá noticias sobre nuestros progresos relacionados con estas tres metas. Ún
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-06/1000-bibliotecas-1000-resenas-y-1000-grupos-de-estudio)
 
 <figure class="table chapter-navigator">

@@ -67,7 +67,7 @@ Se puede acceder a estos vídeos en [https://www.urantia.org/urantia-book-video]
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-12/enfoque-de-un-cineasta-para-promocionar-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

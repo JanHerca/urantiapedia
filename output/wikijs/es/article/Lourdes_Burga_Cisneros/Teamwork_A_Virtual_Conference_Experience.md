@@ -115,7 +115,7 @@ Los marineros anditas necesitaron muchos años para llegar a la isla de Pascua y
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-06/trabajo-en-equipo-la-experiencia-de-una-conferencia-virtual)
 
 <figure class="table chapter-navigator">

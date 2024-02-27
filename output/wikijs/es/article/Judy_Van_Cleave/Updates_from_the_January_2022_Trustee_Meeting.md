@@ -95,7 +95,7 @@ La Fundación Urantia ha estado trabajando con otras organizaciones Urantia a lo
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/novedades-de-la-reunion-de-enero-de-los-fideicomisarios)
 
 <figure class="table chapter-navigator">

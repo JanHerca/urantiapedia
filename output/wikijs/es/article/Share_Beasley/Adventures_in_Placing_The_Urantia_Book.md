@@ -107,7 +107,7 @@ Compartan sus experiencias y sus ideas: [Share.beasley@gmail.com](mailto:Share.b
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-12/la-aventura-de-colocar-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

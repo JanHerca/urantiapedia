@@ -77,7 +77,7 @@ Una vez los lectores interesados hayan tenido la oportunidad de echar un vistazo
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-03/el-proyecto-indice-de-urantia-book)
 
 <figure class="table chapter-navigator">

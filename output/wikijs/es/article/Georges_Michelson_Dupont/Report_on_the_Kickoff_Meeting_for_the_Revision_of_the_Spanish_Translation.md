@@ -83,7 +83,7 @@ El equipo de la revisión española de la Fundación está compuesto de individu
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-09/informe-de-la-reunion-de-inicio-de-la-revision-de-la-traduccion-espanola)
 
 <figure class="table chapter-navigator">

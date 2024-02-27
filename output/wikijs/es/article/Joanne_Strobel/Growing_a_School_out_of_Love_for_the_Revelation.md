@@ -66,7 +66,7 @@ Si están interesados en implicarse en la UBIS, escríbanme en [joanne@urantia.o
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-10/hacer-crecer-una-escuela-por-amor-la-revelacion)
 
 <figure class="table chapter-navigator">

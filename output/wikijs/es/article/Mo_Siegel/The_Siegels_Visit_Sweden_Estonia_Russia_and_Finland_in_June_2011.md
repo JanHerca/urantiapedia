@@ -111,7 +111,7 @@ El libro está almacenado en unos 15 ó 20 almacenes por todo el país, y el pre
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-12/los-siegel-visitan-suecia-estonia-rusia-y-finlandia-en-junio)
 
 <figure class="table chapter-navigator">

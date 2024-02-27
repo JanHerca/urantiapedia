@@ -91,7 +91,7 @@ Se trataron una serie de ideas respecto a las traducciones y a sus revisiones, q
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/decisiones-destacadas-de-la-reunion-de-enero-de-la-junta-de-fideicomisarios)
 
 <figure class="table chapter-navigator">

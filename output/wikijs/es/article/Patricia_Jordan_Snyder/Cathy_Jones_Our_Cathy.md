@@ -109,7 +109,7 @@ Este no es el final de «Nuestra Cathy», pero es... el final del principio.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-12/cathy-jones-nuestra-cathy)
 
 <figure class="table chapter-navigator">

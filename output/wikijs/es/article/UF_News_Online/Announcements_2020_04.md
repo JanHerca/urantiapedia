@@ -77,7 +77,7 @@ Les pedimos que dediquen un tiempo a usar el motor de búsqueda y nos digan lo q
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-04/el-libro-de-urantia-multiidioma), [este artículo](https://www.urantia.org/es/news/2020-04/pagina-de-facebook-en-frances) y [este artículo](https://www.urantia.org/es/news/2020-04/nuevos-motores-de-busqueda-en-linea-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

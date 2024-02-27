@@ -65,7 +65,7 @@ Este enfoque quizá sea paulino, pero recuerden que, aunque los ángeles respeta
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/la-fundacion-urantia-anuncia-nuevas-portadas-para-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

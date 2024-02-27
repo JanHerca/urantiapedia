@@ -64,7 +64,7 @@ Y, una vez más, el acontecimiento enfatizó el gozo que experimentaron lectores
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-06/una-empresa-cooperativa-en-el-chicago-lit-fest)
 
 <figure class="table chapter-navigator">

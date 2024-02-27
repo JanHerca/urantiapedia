@@ -63,7 +63,7 @@ Nuestra meta es motivar a estudiantes nuevos y antiguos a utilizar la nueva trad
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-06/mi-experiencia-con-la-revision-al-espanol)
 
 <figure class="table chapter-navigator">

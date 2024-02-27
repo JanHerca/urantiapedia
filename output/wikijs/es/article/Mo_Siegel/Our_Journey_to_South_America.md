@@ -168,7 +168,7 @@ Además, aprendimos lo siguiente sobre la distribución del libro en esos paíse
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-03/nuestro-viaje-sudamerica)
 
 <figure class="table chapter-navigator">

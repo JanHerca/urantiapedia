@@ -119,7 +119,7 @@ Fideicomisarios asociados: Jan Bernard, Marta Elders, Irmeli Ivalo-Sjölie, Olga
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-09/decisiones-tomadas-en-la-reunion-de-julio-de-la-junta)
 
 <figure class="table chapter-navigator">

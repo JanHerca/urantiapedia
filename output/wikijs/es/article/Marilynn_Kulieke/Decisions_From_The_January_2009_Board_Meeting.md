@@ -145,7 +145,7 @@ La Junta votó de nuevo para expresar su confianza y aprecio a Dorothy Elder y e
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-03/decisiones-tomadas-en-la-reunion-de-enero-de-la-junta)
 
 <figure class="table chapter-navigator">

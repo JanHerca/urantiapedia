@@ -121,7 +121,7 @@ Puente de la Revelación: El consejo trasladó las recientes donaciones de patri
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-04/novedades-de-la-reunion-de-enero-de-la-junta-de-fideicomisarios)
 
 <figure class="table chapter-navigator">

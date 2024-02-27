@@ -60,7 +60,7 @@ Con el apoyo de mi esposo y de mi hija, estoy comprometida a terminar este proye
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-11/version-en-audio-de-el-libro-de-urantia-en-portugues)
 
 <figure class="table chapter-navigator">

@@ -55,7 +55,7 @@ Damos las gracias por estas bendiciones y por todos los que viajan hacia un futu
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-01/2022-alla-vamos)
 
 <figure class="table chapter-navigator">

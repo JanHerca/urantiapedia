@@ -43,7 +43,7 @@ Si habla inglés, ha leído el libro en su totalidad y siente pasión por servir
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/se-necesitan-voluntarios-indice-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

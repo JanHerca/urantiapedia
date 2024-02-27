@@ -80,7 +80,7 @@ Regresé a Chicago con un aprecio renovado por la manera en que Jesús vivió, t
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-06/la-conferencia-de-verano-de-san-antonio)
 
 <figure class="table chapter-navigator">

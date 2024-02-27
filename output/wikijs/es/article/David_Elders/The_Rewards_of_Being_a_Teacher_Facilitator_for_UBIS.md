@@ -62,7 +62,7 @@ Los alumnos de mi clase estuvieron a la altura y aportaron perspicacias que nos 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-12/las-recompensas-de-ser-profesorfacilitador-de-la-ubis)
 
 <figure class="table chapter-navigator">

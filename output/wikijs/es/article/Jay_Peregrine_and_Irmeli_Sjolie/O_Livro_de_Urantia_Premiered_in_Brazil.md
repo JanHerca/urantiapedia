@@ -63,7 +63,7 @@ Anteriormente, el 16 de febrero, en un bello centro de retiro situado en las col
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-03/o-livro-de-urantia-presentado-en-brasil)
 
 <figure class="table chapter-navigator">

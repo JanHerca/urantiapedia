@@ -98,7 +98,7 @@ Incluye nuevos mapas del mundo en el que Jesús viajó y vivió, una línea de t
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-06/la-traduccion-al-turco-ya-esta-disponible-en-linea), [este artículo](https://www.urantia.org/es/news/2021-06/sesion-de-estudio-de-verano), [este artículo](https://www.urantia.org/es/news/2021-06/el-cumpleanos-de-jesus-una-celebracion-mundial), y [este artículo](https://www.urantia.org/es/news/2021-06/la-fundacion-urantia-presenta-el-iii-simposio-cientifico-el-interfaz-de-la-evolucion-y)
 
 <figure class="table chapter-navigator">

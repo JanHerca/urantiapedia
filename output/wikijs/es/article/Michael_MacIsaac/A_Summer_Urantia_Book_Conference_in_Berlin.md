@@ -53,7 +53,7 @@ _Nota de la dirección: Clemens Trauzettel también escribió un texto sobre est
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/conferencia-de-verano-de-el-libro-de-urantia-en-berlin)
 
 <figure class="table chapter-navigator">

@@ -79,7 +79,7 @@ www.regonline.ca/builder/site/Default.aspx?EventID=1643032.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-06/retiro-de-mujeres-bailar-con-dios), [este artículo](https://www.urantia.org/es/news/2015-06/sesion-de-estudio-de-verano-2015-de-la-urantia-book-fellowship) y [este artículo](https://www.urantia.org/es/news/2015-06/conferencia-de-verano-de-la-asociacion-urantia-internacional-un-acontecimiento-para-no)
 
 <figure class="table chapter-navigator">

@@ -81,7 +81,7 @@ El Comité de Educación de la Fellowship, en concierto con todas las iniciativa
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-10/reflexiones-sobre-la-sesion-de-estudio-de-verano-2018)
 
 <figure class="table chapter-navigator">

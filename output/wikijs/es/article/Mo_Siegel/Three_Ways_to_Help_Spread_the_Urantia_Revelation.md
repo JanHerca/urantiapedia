@@ -94,7 +94,7 @@ Colaboren con sus compañeros creyentes en la realización de estas tres tareas 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-07/tres-maneras-de-ayudar-difundir-la-revelacion-urantia)
 
 <figure class="table chapter-navigator">

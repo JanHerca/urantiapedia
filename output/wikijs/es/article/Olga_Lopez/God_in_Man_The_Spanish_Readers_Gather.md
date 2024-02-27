@@ -83,7 +83,7 @@ El domingo tuvimos una reunión de la Asociación Urantia de España, en la que 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-06/god-in-man-spanish-readers-gather)
 
 <figure class="table chapter-navigator">

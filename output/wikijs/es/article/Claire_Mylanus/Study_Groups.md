@@ -79,7 +79,7 @@ Desde 2005 hemos acogido de cinco a siete personas procedentes de Holanda durant
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-03/grupos-de-estudio-el-principio-de-compartir)
 
 <figure class="table chapter-navigator">

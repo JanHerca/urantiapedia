@@ -70,7 +70,7 @@ El libro proporciona también, en sentido humano, un marco ideal para todo el pe
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-12/lo-que-el-libro-de-urantia-significa-para-mi-moustapha-ndiaye)
 
 <figure class="table chapter-navigator">

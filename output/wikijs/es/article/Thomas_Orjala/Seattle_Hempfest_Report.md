@@ -56,7 +56,7 @@ Ojalá Seattle se convierta de nuevo en una luz brillante de actividades relacio
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/informe-sobre-el-hempfest-de-seattle)
 
 <figure class="table chapter-navigator">

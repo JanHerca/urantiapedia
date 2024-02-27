@@ -63,7 +63,7 @@ Acabamos la reunión con una gran barbacoa de Texas, mucha camaradería y planes
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-03/los-fideicomisarios-se-reunen-en-el-estado-de-la-estrella-solitaria)
 
 <figure class="table chapter-navigator">

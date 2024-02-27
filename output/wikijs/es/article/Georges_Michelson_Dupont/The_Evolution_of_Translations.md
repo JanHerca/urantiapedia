@@ -54,7 +54,7 @@ La evolución de las traducciones, ¿ha sucedido por casualidad o deliberadament
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/la-evolucion-de-las-traducciones)
 
 <figure class="table chapter-navigator">

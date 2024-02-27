@@ -57,7 +57,7 @@ _El libro de Urantia_ me ha dado la experiencia del Padre celestial amoroso; el 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-09/lo-que-el-libro-de-urantia-significa-para-mi-de-mary-ann-leader)
 
 <figure class="table chapter-navigator">

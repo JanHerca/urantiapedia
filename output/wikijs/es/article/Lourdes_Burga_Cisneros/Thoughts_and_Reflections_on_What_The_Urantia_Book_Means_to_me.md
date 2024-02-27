@@ -56,7 +56,7 @@ Es increíble que hayan transcurrido ya veintiún años desde entonces. Ahora me
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-09/breves-pensamientos-y-reflexiones-acerca-de-lo-que-el-libro-de-urantia-significa-para)
 
 <figure class="table chapter-navigator">

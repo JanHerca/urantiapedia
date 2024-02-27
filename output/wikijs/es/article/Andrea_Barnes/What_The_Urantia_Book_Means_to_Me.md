@@ -70,7 +70,7 @@ Que la paz sea con ustedes.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-06/lo-que-el-libro-de-urantia-significa-para-mi-andrea-barnes)
 
 <figure class="table chapter-navigator">

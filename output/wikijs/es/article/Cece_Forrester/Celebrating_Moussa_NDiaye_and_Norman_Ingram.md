@@ -54,7 +54,7 @@ Norman Ingram falleció el 29 de mayo. Descubrió _El libro de Urantia_ en 1971 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-06/celebracion-de-moussa-ndiaye-y-norman-ingram)
 
 <figure class="table chapter-navigator">

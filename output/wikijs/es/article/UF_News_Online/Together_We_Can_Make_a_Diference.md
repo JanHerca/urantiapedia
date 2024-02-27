@@ -65,7 +65,7 @@ Que la paz y la alegría les bendigan a ustedes y a sus seres queridos durante e
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/juntos-podemos-marcar-la-diferencia)
 
 <figure class="table chapter-navigator">

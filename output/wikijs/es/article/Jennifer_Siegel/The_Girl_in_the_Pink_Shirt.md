@@ -68,7 +68,7 @@ Podía verme con un ojo, y podía sentirla con todo mi corazón. Nunca vimos que
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-03/la-nina-de-la-camiseta-rosa)
 
 <figure class="table chapter-navigator">

@@ -73,7 +73,7 @@ Espero que hayan disfrutado de esta visita tras las bambalinas de nuestra escuel
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-04/la-experiencia-de-la-ubis-tras-las-bambalinas)
 
 <figure class="table chapter-navigator">

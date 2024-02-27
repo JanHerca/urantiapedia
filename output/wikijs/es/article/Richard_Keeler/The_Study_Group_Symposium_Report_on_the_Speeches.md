@@ -109,7 +109,7 @@ El Simposio de Grupos de Estudio, que comenzó el jueves por la mañana, acabó 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-09/el-simposio-de-grupos-de-estudio-informe-sobre-las-charlas)
 
 <figure class="table chapter-navigator">

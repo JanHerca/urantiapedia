@@ -58,7 +58,7 @@ Finalmente la reunión se centró en el futuro y sus exigencias. La Asociación 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-03/reunion-de-la-asociacion-urantia-y-la-fundacion-urantia-en-el-533-en-chicago)
 
 <figure class="table chapter-navigator">

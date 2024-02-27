@@ -74,7 +74,7 @@ Crecer con _El libro de Urantia_ y (a veces) luchar con él ha marcado mi vida. 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-06/lo-que-el-libro-de-urantia-significa-para-mi-brad-garner)
 
 <figure class="table chapter-navigator">

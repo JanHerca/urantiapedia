@@ -71,7 +71,7 @@ Los programas de traducción e impresión de libros de la Fundación Urantia est
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-10/libros-de-urantia-por-todo-el-mundo)
 
 <figure class="table chapter-navigator">

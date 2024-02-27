@@ -114,7 +114,7 @@ En la edición de marzo de 2008 de _Noticias en línea de la Fundación Urantia_
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-06/decisiones-destacadas-de-la-reunion-de-abril-de-la-junta-en-paris)
 
 <figure class="table chapter-navigator">

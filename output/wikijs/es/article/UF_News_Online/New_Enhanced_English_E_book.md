@@ -92,7 +92,7 @@ La edición mejorada de _El Libro de Urantia_ facilitará el estudio del libro. 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2021-04/new-enhanced-english-e-book)
 
 <figure class="table chapter-navigator">

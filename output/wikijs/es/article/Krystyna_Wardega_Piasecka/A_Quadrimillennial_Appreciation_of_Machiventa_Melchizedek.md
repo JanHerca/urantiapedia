@@ -87,7 +87,7 @@ Espero que este artículo los anime a dedicar algo de tiempo a reflexionar sobre
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-09/gratitud-en-el-cuarto-milenio-de-maquiventa-melquisedec)
 
 <figure class="table chapter-navigator">

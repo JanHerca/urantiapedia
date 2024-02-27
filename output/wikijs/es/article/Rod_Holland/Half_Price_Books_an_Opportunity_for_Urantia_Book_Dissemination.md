@@ -53,7 +53,7 @@ Este proyecto voluntario de distribución no dará lucro, pero sí dará como re
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/libros-mitad-de-precio-una-oportunidad-para-la-diseminacion-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

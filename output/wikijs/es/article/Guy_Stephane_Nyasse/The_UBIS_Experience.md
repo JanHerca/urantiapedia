@@ -93,7 +93,7 @@ La UBIS es un lugar magnífico para compartir ideas y buscar sabiduría. Aunque 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-06/ubis-experience)
 
 <figure class="table chapter-navigator">

@@ -57,7 +57,7 @@ La siguiente feria a la que planeamos asistir se hará en Zurich (Suiza) en marz
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-12/das-urantia-buch-en-munich)
 
 <figure class="table chapter-navigator">

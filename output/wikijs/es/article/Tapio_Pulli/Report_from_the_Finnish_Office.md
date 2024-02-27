@@ -71,7 +71,7 @@ Mi deseo es ayudar a la Fundación Urantia vendiendo Libros de Urantia en Finlan
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-03/informe-de-la-oficina-finlandesa)
 
 <figure class="table chapter-navigator">

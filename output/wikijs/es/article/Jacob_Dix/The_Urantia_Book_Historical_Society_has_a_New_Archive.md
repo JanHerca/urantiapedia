@@ -67,7 +67,7 @@ En [https://ubhistory.org](https://ubhistory.org/) pueden encontrar los archivos
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-10/la-urantia-book-historical-society-tiene-un-nuevo-archivo)
 
 <figure class="table chapter-navigator">

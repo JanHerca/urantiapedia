@@ -101,7 +101,7 @@ Si desea recibir los resultados completos de esta encuesta, pueden enviarme un c
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/la-encuesta-2012-de-lectores-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

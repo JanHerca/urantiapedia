@@ -79,7 +79,7 @@ _La Fundación Urantia sigue dedicada a proteger y publicar el texto de 1955 lib
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-12/el-texto-de-referencia-estandar-contexto-historico-y-proposito)
 
 <figure class="table chapter-navigator">

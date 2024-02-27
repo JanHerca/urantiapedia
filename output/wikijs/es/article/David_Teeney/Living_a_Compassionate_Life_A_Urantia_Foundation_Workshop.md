@@ -60,7 +60,7 @@ Este taller no fue solo sobre «Vivir la vida con compasión», sino una experie
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-12/vivir-la-vida-con-compasion-taller-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

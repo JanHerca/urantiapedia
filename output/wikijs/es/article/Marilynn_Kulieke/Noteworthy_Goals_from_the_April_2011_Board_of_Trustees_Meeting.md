@@ -171,7 +171,7 @@ La Fundación sustituyó también tres ordenadores obsoletos.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-06/decisiones-destacadas-de-la-reunion-de-abril-de-la-junta)
 
 <figure class="table chapter-navigator">

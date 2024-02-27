@@ -62,7 +62,7 @@ _Księga Urantii_ se ha introducido lentamente en el corazón y la mente de los 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-12/ksiega-urantii-la-traduccion-polaca-ha-llegado-los-lectores)
 
 <figure class="table chapter-navigator">

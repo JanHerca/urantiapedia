@@ -61,7 +61,7 @@ Mo y yo planeamos asistir a la conferencia en Mazatlán en mayo, patrocinada por
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-03/nuestro-viaje-ciudad-de-mexico)
 
 <figure class="table chapter-navigator">

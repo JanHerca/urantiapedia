@@ -67,7 +67,7 @@ La Conferencia de Boulder comenzó como una simple idea, pero con toda idea lleg
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-09/la-segunda-milla-en-retrospectiva-reflexiones-acerca-del-experimento-de-boulder)
 
 <figure class="table chapter-navigator">

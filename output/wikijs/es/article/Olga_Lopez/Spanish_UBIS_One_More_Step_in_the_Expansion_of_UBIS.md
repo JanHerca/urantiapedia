@@ -51,7 +51,7 @@ Nuestra meta para 2013 es ofrecer dos cursos en español cada trimestre, de modo
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/la-ubis-en-espanol-un-paso-mas-en-la-expansion-de-la-escuela-de-el-libro-de-urantia-en)
 
 <figure class="table chapter-navigator">

@@ -80,7 +80,7 @@ Fue providencial que las circunstancias de la vida y las ángeles los pusieran e
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-09/el-legado-duradero-de-dos-grandes-maestros)
 
 <figure class="table chapter-navigator">

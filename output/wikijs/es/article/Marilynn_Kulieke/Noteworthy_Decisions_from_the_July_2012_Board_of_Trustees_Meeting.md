@@ -94,7 +94,7 @@ Sandra María Burga-Cisneros Pizarro fue elegida fideicomisaria asociada. Sandra
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/decisiones-destacadas-de-la-reunion-de-la-junta-de-fideicomisarios-de-julio-de-2012) y [este artículo](https://www.urantia.org/es/news/2012-08/eleccion-de-una-nueva-fideicomisaria-asociada-sandra-maria-burga-cisneros-pizarro)
 
 <figure class="table chapter-navigator">

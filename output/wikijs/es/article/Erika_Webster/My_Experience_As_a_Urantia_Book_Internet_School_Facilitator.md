@@ -59,7 +59,7 @@ Nosotros los facilitadores a veces nos enfrentamos a retos individuales al hacer
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-03/mi-experiencia-como-facilitadora-en-la-escuela-de-el-libro-de-urantia-en-internet)
 
 <figure class="table chapter-navigator">

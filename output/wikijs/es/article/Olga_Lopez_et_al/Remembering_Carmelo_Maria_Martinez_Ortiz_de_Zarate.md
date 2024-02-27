@@ -102,7 +102,7 @@ De momento mis oraciones, mi amor y apoyo se dirigen a su esposa Charo y a sus h
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-04/en-recuerdo-de-carmelo-maria-martinez-ortiz-de-zarate)
 
 <figure class="table chapter-navigator">

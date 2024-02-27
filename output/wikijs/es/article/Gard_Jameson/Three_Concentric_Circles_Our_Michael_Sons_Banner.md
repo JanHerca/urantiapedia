@@ -56,7 +56,7 @@ Como los arqueólogos pueden atestiguar, la alfarería es una de las primeras fo
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-09/tres-circulos-concentricos-la-bandera-de-nuestro-hijo-miguel)
 
 <figure class="table chapter-navigator">

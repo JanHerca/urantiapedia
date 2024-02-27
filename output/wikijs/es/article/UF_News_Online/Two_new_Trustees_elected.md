@@ -70,7 +70,7 @@ Judy y su marido Wayne viven en Boise (Idaho), donde tienen un negocio de calefa
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-03/elegidas-dos-nuevas-fideicomisarias)
 
 <figure class="table chapter-navigator">

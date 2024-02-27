@@ -59,7 +59,7 @@ Muchos lectores han expresado que las enseñanzas de _El libro de Urantia_ les h
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-06/la-distribucion-de-het-urantia-boek-en-los-paises-bajos-y-belgica)
 
 <figure class="table chapter-navigator">

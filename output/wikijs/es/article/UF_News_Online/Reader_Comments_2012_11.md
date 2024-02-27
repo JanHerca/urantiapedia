@@ -79,7 +79,7 @@ Cuanto más estudio _El libro de Urantia_, más seguro estoy de la importancia d
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-11/lo-que-el-libro-de-urantia-significa-para-mi-de-angela-thurston) y [este artículo](https://www.urantia.org/es/news/2012-11/compartir-la-buena-nueva)
 
 <figure class="table chapter-navigator">

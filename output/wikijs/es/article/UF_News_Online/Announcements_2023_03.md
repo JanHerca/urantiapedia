@@ -57,7 +57,7 @@ Pueden inscribirse ya o aprovechar la oportunidad de preinscribirse (reservar su
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2023-03/la-conferencia-internacional-2023-de-la-urantia-book-fellowship-ic23) y [este artículo](https://www.urantia.org/es/news/2023-03/ya-esta-disponible-la-app-de-android)
 
 <figure class="table chapter-navigator">

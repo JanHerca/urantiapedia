@@ -51,7 +51,7 @@ Todos están deseando que llegue la reunión del año que viene, que también se
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-12/segundo-encuentro-de-lectores-de-el-libro-de-urantia-en-alemania)
 
 <figure class="table chapter-navigator">

@@ -62,7 +62,7 @@ Estos encuentros nos permiten no solo crecer en experiencia, comprensión y pers
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-03/encuentro-en-ciudad-de-mexico)
 
 <figure class="table chapter-navigator">

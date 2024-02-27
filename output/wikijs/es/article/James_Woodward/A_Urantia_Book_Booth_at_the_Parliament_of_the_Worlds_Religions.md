@@ -61,7 +61,7 @@ Para saber más sobre la misión del Parlamento de las Religiones del Mundo, pue
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-03/un-stand-de-el-libro-de-urantia-en-el-parlamento-de-las-religiones-del-mundo)
 
 <figure class="table chapter-navigator">

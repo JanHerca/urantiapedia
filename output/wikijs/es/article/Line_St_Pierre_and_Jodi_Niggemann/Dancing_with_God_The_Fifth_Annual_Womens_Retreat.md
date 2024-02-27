@@ -91,7 +91,7 @@ No sé cómo Dios pretenderá tejer nuestras vidas en el futuro, pero por ahora 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-12/bailar-con-dios-el-quinto-retiro-anual-de-mujeres)
 
 <figure class="table chapter-navigator">

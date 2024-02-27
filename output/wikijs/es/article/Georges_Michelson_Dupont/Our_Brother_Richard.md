@@ -75,7 +75,7 @@ Sé que pronto nos volveremos a ver.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-04/nuestro-hermano-richard)
 
 <figure class="table chapter-navigator">

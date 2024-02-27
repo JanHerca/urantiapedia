@@ -73,7 +73,7 @@ El día que murió le dijo a su compañera, Kathinka Pasveer: «Ahora comienza u
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-03/el-famoso-compositor-y-lector-del-libro-de-urantia-karlheinz-stockhausen-ha-fallecido)
 
 <figure class="table chapter-navigator">

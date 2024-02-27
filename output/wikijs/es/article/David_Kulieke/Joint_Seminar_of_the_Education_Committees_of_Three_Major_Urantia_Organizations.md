@@ -79,7 +79,7 @@ El 24 de julio, en la IC’14, los comités celebraron el taller que fue diseña
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-09/seminario-conjunto-del-comite-de-educacion-de-las-tres-principales-organizaciones)
 
 <figure class="table chapter-navigator">

@@ -76,7 +76,7 @@ Durante siete días estuvimos bajo un solo techo y llegamos a conocer las creenc
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-12/nuestra-experiencia-en-el-parlamento-de-las-religiones-del-mundo-2018)
 
 <figure class="table chapter-navigator">

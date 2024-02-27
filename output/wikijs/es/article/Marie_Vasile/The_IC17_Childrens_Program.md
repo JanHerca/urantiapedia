@@ -87,7 +87,7 @@ Durante la reunión de agosto del comité de Vida Familiar, se lo comunicamos to
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-10/el-programa-infantil-de-la-ic17-como-me-las-arregle-con-mucha-ayuda-de-mis-amigos)
 
 <figure class="table chapter-navigator">

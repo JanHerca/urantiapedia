@@ -87,7 +87,7 @@ Ha sido una alegría y un gran aprendizaje trabajar junto a los voluntarios del 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-12/el-tubo-de-luz)
 
 

@@ -191,7 +191,7 @@ El equipo de la Fundación Urantia aprecia profundamente su apoyo continuo. Grac
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-09/decisiones-y-metas-destacadas-de-la-reunion-de-julio-de-la-junta-de-fideicomisarios)
 
 <figure class="table chapter-navigator">

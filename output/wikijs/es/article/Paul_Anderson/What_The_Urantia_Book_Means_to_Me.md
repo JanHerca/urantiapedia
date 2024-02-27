@@ -69,7 +69,7 @@ Entonces, ¿qué significa _El libro de Urantia_ para mí? En muchos aspectos _E
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-03/lo-que-el-libro-de-urantia-significa-para-mi-paul-anderson)
 
 <figure class="table chapter-navigator">

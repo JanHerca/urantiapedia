@@ -59,7 +59,7 @@ Mi deseo es que cada vez más personas «descubran» este libro por sí mismas, 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2023-03/lo-que-el-libro-de-urantia-significa-para-mi-mirela-gradinariu-kelpin)
 
 <figure class="table chapter-navigator">

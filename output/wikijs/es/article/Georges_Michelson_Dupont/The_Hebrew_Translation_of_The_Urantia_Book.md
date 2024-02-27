@@ -57,7 +57,7 @@ Además de la traducción al hebreo, hay en marcha otras siete traducciones: chi
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-06/la-traduccion-al-hebreo-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

@@ -61,7 +61,7 @@ Esta experiencia nos ha motivado a perseverar en la diseminación de las valios�
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/la-presencia-de-urantia-peru-en-la-feria-del-libro-internacional-de-cuzco-2019)
 
 <figure class="table chapter-navigator">

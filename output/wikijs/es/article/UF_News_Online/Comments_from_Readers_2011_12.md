@@ -76,7 +76,7 @@ Considere su grupo de estudio como algo valioso, si tiene uno. Si no lo tiene, p
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-12/lo-que-el-libro-de-urantia-significa-para-mi-de-samantha-nior) y [este artículo](https://www.urantia.org/es/news/2011-12/mi-idea-de-los-grupos-de-estudio)
 
 <figure class="table chapter-navigator">

@@ -71,7 +71,7 @@ Con esta revelación, sé de dónde vengo y sé a dónde voy.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-09/encontrar-el-libro-de-urantia-en-nigeria-la-respuesta-las-oraciones-de-mi-ninez)
 
 <figure class="table chapter-navigator">

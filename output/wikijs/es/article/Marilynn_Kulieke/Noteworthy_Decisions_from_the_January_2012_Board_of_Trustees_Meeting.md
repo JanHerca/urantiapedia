@@ -136,7 +136,7 @@ La Junta aprobó la impresión de 10.000 libros en tapa blanda en español para 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-03/decisiones-destacadas-de-la-reunion-de-la-junta-de-fideicomisarios-de-enero-de-2012)
 
 <figure class="table chapter-navigator">

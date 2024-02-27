@@ -82,7 +82,7 @@ Si tienen alguna pregunta o interés, contacten por favor a Dorothy Elder en [de
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-09/ubis-celebracion-de-los-10-anos-de-servicio-dedicado-la-comunidad-del-libro-de-urantia)
 
 <figure class="table chapter-navigator">

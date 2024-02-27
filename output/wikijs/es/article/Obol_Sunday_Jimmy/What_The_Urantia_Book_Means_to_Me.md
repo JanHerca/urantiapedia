@@ -61,7 +61,7 @@ En el documento 2, un Consejero Divino nos dice que «la misericordia divina rep
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-12/lo-que-el-libro-de-urantia-significa-para-mi-obol-sunday-jimmy)
 
 <figure class="table chapter-navigator">

@@ -73,7 +73,7 @@ Habiendo sido testigo del cambio de valores espirituales de mi hijastro, decidí
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-10/lo-que-el-libro-de-urantia-significa-para-mi-constance-konni-wallach)
 
 <figure class="table chapter-navigator">

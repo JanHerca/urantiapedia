@@ -104,7 +104,7 @@ En términos más sencillos: he aprendido que el enfoque que debo aplicar no es 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-12/lo-que-el-libro-de-urantia-significa-para-mi-las-dimensiones-de-dios)
 
 <figure class="table chapter-navigator">

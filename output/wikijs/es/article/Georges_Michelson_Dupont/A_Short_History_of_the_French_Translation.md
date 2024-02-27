@@ -90,7 +90,7 @@ La traducción francesa fue la primera de _El libro de Urantia_, y muchos de los
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-03/breve-historia-de-la-traduccion-francesa)
 
 <figure class="table chapter-navigator">

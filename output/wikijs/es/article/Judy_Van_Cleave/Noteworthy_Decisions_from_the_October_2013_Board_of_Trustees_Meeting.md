@@ -98,7 +98,7 @@ Los fideicomisarios asociados son reelegidos cada año. Nos place informarles qu
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-12/decisiones-destacadas-de-la-reunion-de-octubre-de-la-junta-de-fideicomisarios)
 
 <figure class="table chapter-navigator">

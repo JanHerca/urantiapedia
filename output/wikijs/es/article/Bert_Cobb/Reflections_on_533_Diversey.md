@@ -69,7 +69,7 @@ El 3 de diciembre de 1970, un juzgado de sucesiones transfirió la propiedad del
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-09/reflexiones-sobre-533-diversey)
 
 <figure class="table chapter-navigator">

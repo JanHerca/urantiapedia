@@ -86,7 +86,7 @@ Finalmente, expresamos nuestra gratitud hacia el Padre y a todos nuestros amigos
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-07/el-libro-de-urantia-una-bendicion-para-ucrania)
 
 <figure class="table chapter-navigator">

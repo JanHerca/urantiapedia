@@ -100,7 +100,7 @@ La siguiente es la casa de la cochera, esto es, el garaje y el apartamento que e
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-03/la-restauracion-del-lugar-de-nacimiento-de-la-quinta-revelacion-de-epoca)
 
 <figure class="table chapter-navigator">

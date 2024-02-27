@@ -56,7 +56,7 @@ Todavía hay tiempo para inscribirse en línea en www.regonline.com/Urantia\_Fel
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-07/novedades-de-la-app-de-el-libro-de-urantia-de-apple) y [este artículo](https://www.urantia.org/es/news/2018-07/la-sesion-de-estudio-de-verano-2018-de-la-urantia-book-fellowship)
 
 <figure class="table chapter-navigator">

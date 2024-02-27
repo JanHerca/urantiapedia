@@ -132,7 +132,7 @@ A lo largo de las primeras épocas de cualquier mundo, la competencia es esencia
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-06/translations-and-unity)
 
 <figure class="table chapter-navigator">

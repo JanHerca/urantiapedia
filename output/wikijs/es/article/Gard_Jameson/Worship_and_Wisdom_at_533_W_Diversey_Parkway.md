@@ -52,7 +52,7 @@ Los fideicomisarios están más comprometidos que nunca con el trabajo en educac
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-06/adoracion-y-sabiduria-en-el-533-w-diversey-parkway)
 
 <figure class="table chapter-navigator">

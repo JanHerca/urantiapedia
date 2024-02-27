@@ -51,7 +51,7 @@ Nola enfermó de Alzheimer y pasó sus últimos años en una residencia de ancia
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-06/nola-smith-una-pionera-en-dar-conocer-la-revelacion-urantia)
 
 <figure class="table chapter-navigator">

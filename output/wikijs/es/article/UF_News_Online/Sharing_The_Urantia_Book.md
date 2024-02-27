@@ -90,7 +90,7 @@ Contacto: Myra Hight, responsable del PIRT, [my@mtn-rose.com](mailto:my@mtn-rose
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-12/compartir-el-libro-de-urantia-equipo-de-respuesta-peticiones-de-reclusos)
 
 <figure class="table chapter-navigator">

@@ -70,7 +70,7 @@ Al grupo de las Hijas de Dios, facilitado por Katharina Becker, Doreen Heyne, Ca
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-10/bailar-con-dios-emerger-en-lo-sagrado-un-retiro-de-mujeres-en-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

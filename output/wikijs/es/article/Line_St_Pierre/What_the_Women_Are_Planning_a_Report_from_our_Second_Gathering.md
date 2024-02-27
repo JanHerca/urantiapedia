@@ -80,7 +80,7 @@ Doreen Heyne ofreció esta reseña del seminario:
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-03/lo-que-estan-planeando-las-mujeres-informe-de-nuestro-segundo-encuentro)
 
 <figure class="table chapter-navigator">

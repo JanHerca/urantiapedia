@@ -70,7 +70,7 @@ La oportunidad para los líderes de la Fellowship, la Fundación y la AUI de hab
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-09/el-futuro-del-movimiento-urantia)
 
 <figure class="table chapter-navigator">

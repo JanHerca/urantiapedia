@@ -56,7 +56,7 @@ Esperen a saber más de este comité a medida que nuestras ideas evolucionan de 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-04/comite-de-asistencia-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

@@ -71,7 +71,7 @@ Los resultados de esta experiencia servirán como experiencia de aprendizaje par
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-10/una-manera-de-servir-y-de-sembrar-la-fundacion-urantia-envia-600-libros-america-latina)
 
 <figure class="table chapter-navigator">

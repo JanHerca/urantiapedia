@@ -68,7 +68,7 @@ Para cualquiera que se decida a colocar libros en «bibliotecas alternativas», 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-09/seguimiento-de-la-colocacion-de-libros-de-urantia-en-bibliotecas-alternativas)
 
 <figure class="table chapter-navigator">

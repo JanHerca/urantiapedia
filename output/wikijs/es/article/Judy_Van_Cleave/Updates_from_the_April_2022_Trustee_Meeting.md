@@ -105,7 +105,7 @@ Sue, presidenta de la Urantia Book Fellowship, compartió algo de su historia pe
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-07/novedades-de-la-reunion-de-abril-de-los-fideicomisarios)
 
 <figure class="table chapter-navigator">

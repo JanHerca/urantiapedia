@@ -72,7 +72,7 @@ Que sus fiestas navideñas estén llenas de la alegría del desinterés, dando a
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-12/epoca-de-gratitud-y-momento-de-generosidad)
 
 <figure class="table chapter-navigator">

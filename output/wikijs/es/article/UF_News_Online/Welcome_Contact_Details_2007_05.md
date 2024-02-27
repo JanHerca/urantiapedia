@@ -61,6 +61,6 @@ En la web www.urantia.org
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 
 

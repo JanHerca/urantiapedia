@@ -55,7 +55,7 @@ Qué dicha y qué honor es ser traductor de _El libro de Urantia_ cuando, como s
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-06/traducir-el-libro-de-urantia-al-parsi-la-historia-inspiradora-de-como-comenzo-este)
 
 <figure class="table chapter-navigator">

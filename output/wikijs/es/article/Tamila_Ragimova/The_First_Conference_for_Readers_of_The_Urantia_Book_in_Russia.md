@@ -71,7 +71,7 @@ Tras el éxito de la conferencia, se formó un comité de lectores para planear 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-12/la-primera-conferencia-de-lectores-de-el-libro-de-urantia-en-rusia)
 
 <figure class="table chapter-navigator">

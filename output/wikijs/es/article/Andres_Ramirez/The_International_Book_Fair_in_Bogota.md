@@ -61,7 +61,7 @@ Como seguimiento de este evento, la Asociación Urantia de Bogotá organizó una
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-06/international-book-fair-in-bogota)
 
 <figure class="table chapter-navigator">

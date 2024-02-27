@@ -69,7 +69,7 @@ Finalmente, _Il Libro di Urantia_ estuvo disponible para los lectores en lengua 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-06/la-traduccion-al-italiano-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

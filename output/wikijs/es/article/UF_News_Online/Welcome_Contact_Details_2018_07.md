@@ -95,7 +95,7 @@ Lainey Doremus, Ashley Hayes, Joanne Strobel, Tamara Strumfeld
 Esta es una publicación «Urantian» &reg;
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 
 <figure class="table chapter-navigator">
   <table>

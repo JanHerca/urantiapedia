@@ -50,7 +50,7 @@ En 2010, la Fundación Urantia imprimirá las traducciones polaca, sueca, estoni
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2009-12/urantia-foundation-launches-matching-fund-raising-campaign-2009)
 
 <figure class="table chapter-navigator">

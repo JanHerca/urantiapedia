@@ -109,7 +109,7 @@ A continuación hay extractos y sentimientos expresados por las asistentes a est
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-12/bailar-con-dios-tejer-el-tapiz-del-supremo)
 
 <figure class="table chapter-navigator">

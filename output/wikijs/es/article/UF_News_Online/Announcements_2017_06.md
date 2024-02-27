@@ -65,7 +65,7 @@ Si desea ser parte de este evento en la sede de la Fundación Urantia, 533 W. Di
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-06/dancing-god-emerging-in-sacredness-daughters-god-retreat)
 
 <figure class="table chapter-navigator">

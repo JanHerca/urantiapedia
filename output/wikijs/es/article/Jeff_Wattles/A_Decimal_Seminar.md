@@ -107,7 +107,7 @@ Hay mucho más que contar, pero esto es suficiente para demostrar que el seminar
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-06/seminario-decimal)
 
 <figure class="table chapter-navigator">

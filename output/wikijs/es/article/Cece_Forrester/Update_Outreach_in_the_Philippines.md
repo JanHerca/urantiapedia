@@ -104,7 +104,7 @@ Viendo lo que han logrado en su viaje de 2018 y sus ambiciosas metas para este a
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-10/novedades-de-las-actividades-en-filipinas)
 
 <figure class="table chapter-navigator">

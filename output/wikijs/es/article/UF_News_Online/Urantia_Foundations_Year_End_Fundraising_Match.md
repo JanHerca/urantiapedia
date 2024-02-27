@@ -65,7 +65,7 @@ Fideicomisarios de la Fundación Urantia
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-12/igualacion-de-fondos-de-final-de-ano-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

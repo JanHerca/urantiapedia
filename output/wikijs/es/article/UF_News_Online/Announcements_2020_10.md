@@ -56,7 +56,7 @@ El vídeo está disponible en [inglés](https://www.urantia.org/urantia-book-vid
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-10/pensamientos-para-reflexionar-en-frances), [este artículo](https://www.urantia.org/es/news/2020-10/buscador-en-indonesio) y [este artículo](https://www.urantia.org/es/news/2020-10/videos-mi-pequena-luz)
 
 <figure class="table chapter-navigator">

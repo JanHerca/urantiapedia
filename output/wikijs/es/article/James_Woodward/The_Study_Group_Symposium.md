@@ -69,7 +69,7 @@ Para inscribirse: [https://www.regonline.com/studygroupsymposium](https://www.re
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-03/el-simposio-de-grupos-de-estudio)
 
 <figure class="table chapter-navigator">

@@ -50,7 +50,7 @@ Hoy hay grupos de estudio activos en todos esos países, y los lectores jóvenes
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/en-recuerdo-de-werner-sutter)
 
 <figure class="table chapter-navigator">

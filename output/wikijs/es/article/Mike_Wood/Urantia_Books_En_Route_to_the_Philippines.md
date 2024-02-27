@@ -66,7 +66,7 @@ Fue emocionante e inspirador empaquetar esos libros y prepararlos para el envío
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-12/libros-de-urantia-de-camino-filipinas)
 
 <figure class="table chapter-navigator">

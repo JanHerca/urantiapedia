@@ -55,7 +55,7 @@ Los responsables de Québec de la versión en audio de la traducción francesa s
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-12/la-version-audio-de-le-livre-d-urantia)
 
 <figure class="table chapter-navigator">

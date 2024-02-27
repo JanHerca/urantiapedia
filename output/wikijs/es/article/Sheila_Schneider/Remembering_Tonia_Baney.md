@@ -96,7 +96,7 @@ Aunque se trata de un acontecimiento triste, mis recuerdos de Tonia (su buen cor
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2023-03/en-recuerdo-de-tonia-baney-exdirectora-ejecutiva-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

@@ -94,7 +94,7 @@ Entre lo más destacado del tercer trimestre de 2022 tenemos:
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-12/novedades-de-la-reunion-de-octubre-de-los-fideicomisarios)
 
 <figure class="table chapter-navigator">

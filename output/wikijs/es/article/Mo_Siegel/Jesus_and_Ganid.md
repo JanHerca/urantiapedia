@@ -64,7 +64,7 @@ Estoy escribiendo este artículo mientras vuelo de regreso a casa tras este viaj
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-12/jesus-y-ganid)
 
 <figure class="table chapter-navigator">

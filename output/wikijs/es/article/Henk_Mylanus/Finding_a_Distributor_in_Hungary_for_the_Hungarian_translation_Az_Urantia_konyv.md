@@ -83,7 +83,7 @@ Se estima que las perspectivas para el 2013 serán prometedoras.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/busqueda-de-un-distribuidor-en-hungria-para-la-traduccion-al-hungaro-az-urantia-konyv)
 
 <figure class="table chapter-navigator">

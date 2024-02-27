@@ -64,7 +64,7 @@ También tenemos que fomentar el interés individual en el libro, al animarles a
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-07/el-libro-de-urantia-en-filipinas)
 
 <figure class="table chapter-navigator">

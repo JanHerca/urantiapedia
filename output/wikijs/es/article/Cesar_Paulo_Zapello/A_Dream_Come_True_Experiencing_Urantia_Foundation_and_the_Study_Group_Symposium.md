@@ -54,7 +54,7 @@ Damos las gracias a todos los que conocimos. Nos hicieron sentir totalmente en c
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-09/un-sueno-hecho-realidad-experimentar-la-fundacion-urantia-y-el-simposio-de-grupos-de)
 
 <figure class="table chapter-navigator">

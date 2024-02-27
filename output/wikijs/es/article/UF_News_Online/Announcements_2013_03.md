@@ -64,7 +64,7 @@ http://urantiausa.com/index.php?view=show&page=conferences
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/verdades-espirituales-de-poder-cosmico-buscar-estudiar-crecer-compartir)
 
 <figure class="table chapter-navigator">

@@ -73,7 +73,7 @@ Apreciamos profundamente la aportación de nuestros voluntarios y donantes. Si q
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-03/pipeline-light-la-siembra-de-el-libro-de-urantia-por-el-mundo)
 
 <figure class="table chapter-navigator">

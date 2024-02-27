@@ -66,7 +66,7 @@ Para terminar, cada vez que releo el libro encuentro nuevas verdades, nuevas exp
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-01/lo-que-el-libro-de-urantia-significa-para-mi-andres-rodriguez)
 
 <figure class="table chapter-navigator">

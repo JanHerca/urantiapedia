@@ -62,7 +62,7 @@ El «fin de semana de mujeres» fue pleno en alegría, respeto mutuo y respeto a
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-09/que-se-encuentran-planificando-las-mujeres)
 
 <figure class="table chapter-navigator">

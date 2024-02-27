@@ -69,7 +69,7 @@ No se equivoquen: todavía vendemos más de veinte mil libros en papel al año. 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-10/descargas-gratuitas-de-el-libro-de-urantia-en-urantiaorg)
 
 <figure class="table chapter-navigator">

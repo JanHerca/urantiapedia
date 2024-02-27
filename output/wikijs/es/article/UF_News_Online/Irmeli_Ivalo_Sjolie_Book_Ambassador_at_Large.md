@@ -59,7 +59,7 @@ Irmeli en Helsinki con la propietaria de la librería Era Nova. Aquí se puede e
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-06/irmeli-ivalo-sjolie-embajadora-del-libro-distancia)
 
 <figure class="table chapter-navigator">

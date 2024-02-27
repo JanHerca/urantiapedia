@@ -148,7 +148,7 @@ Los símbolos de marca registrada «&trade;» y «&reg;» no deben aparecer con 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-10/noteworthy-decisions-july-2017-board-trustees-meeting)
 
 <figure class="table chapter-navigator">

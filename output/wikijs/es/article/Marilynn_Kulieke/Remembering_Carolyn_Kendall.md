@@ -88,7 +88,7 @@ A última hora de ese día Carolyn falleció, acompañada por su familia. No ten
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-12/en-recuerdo-de-carolyn-kendall)
 
 <figure class="table chapter-navigator">

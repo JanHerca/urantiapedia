@@ -53,7 +53,7 @@ Les animamos a que consideren una donación planeada en beneficio de la divulgac
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-09/donacion-planeada-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

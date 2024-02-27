@@ -63,7 +63,7 @@ Mi manera de pensar se ha elevado después de diez semanas de estudio. Responder
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-03/la-escuela-de-el-libro-de-urantia-en-internet-companerismo-por-todo-el-mundo)
 
 <figure class="table chapter-navigator">

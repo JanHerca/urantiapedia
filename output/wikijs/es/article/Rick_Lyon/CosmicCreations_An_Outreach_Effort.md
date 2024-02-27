@@ -67,7 +67,7 @@ Mientras tanto, visiten nuestra tienda en www.CosmicCreations.biz. Nuestros prod
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-06/cosmiccreations-un-esfuerzo-de-asistencia)
 
 <figure class="table chapter-navigator">

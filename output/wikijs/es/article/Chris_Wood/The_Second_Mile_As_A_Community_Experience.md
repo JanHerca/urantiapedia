@@ -74,7 +74,7 @@ Creemos sinceramente que si reúnes a cincuenta lectores de _El libro de Urantia
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-06/la-segunda-milla-como-una-experiencia-de-comunidad)
 
 <figure class="table chapter-navigator">

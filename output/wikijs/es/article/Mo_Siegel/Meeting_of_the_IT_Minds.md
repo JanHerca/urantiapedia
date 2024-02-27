@@ -47,7 +47,7 @@ Los especialistas en IT que participaron en la mesa redonda se reunieron para co
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-12/reunion-de-cerebros-it)
 
 <figure class="table chapter-navigator">

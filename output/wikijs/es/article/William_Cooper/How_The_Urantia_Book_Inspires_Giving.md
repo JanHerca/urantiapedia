@@ -62,7 +62,7 @@ Son buenos tiempos para unirse a nuestra familia celestial en esta tarea. Hay mu
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-03/como-el-libro-de-urantia-nos-inspira-dar)
 
 <figure class="table chapter-navigator">

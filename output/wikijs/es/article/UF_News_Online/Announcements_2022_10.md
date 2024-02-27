@@ -64,7 +64,7 @@ Contacto: [tamara@urantia.org](mailto:tamara@urantia.org)
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-10/el-parlamento-de-las-religiones-del-mundo) y [este artículo](https://www.urantia.org/es/news/2022-10/un-legado-que-perdura-para-las-generaciones-futuras)
 
 <figure class="table chapter-navigator">

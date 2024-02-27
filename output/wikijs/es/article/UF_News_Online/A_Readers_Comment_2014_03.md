@@ -56,7 +56,7 @@ Sí que le di un libro a mi padre y no, no lo leyó. Está bien; sé que él est
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-03/como-me-encontro-el-libro-de-urantia-y-lo-que-significa)
 
 <figure class="table chapter-navigator">

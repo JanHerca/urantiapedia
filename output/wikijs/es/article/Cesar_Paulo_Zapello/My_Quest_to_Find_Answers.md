@@ -73,7 +73,7 @@ Me siento honrado de compartir mi historia de «lo que _El libro de Urantia_ sig
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-06/mi-busqueda-de-respuestas)
 
 <figure class="table chapter-navigator">

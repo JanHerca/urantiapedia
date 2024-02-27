@@ -62,7 +62,7 @@ La intención del Puente de la Revelación es asegurar que _El libro de Urantia_
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-03/el-fondo-de-dotacion-del-puente-de-la-revelacion-asegurar-el-futuro-de-el-libro-de)
 
 <figure class="table chapter-navigator">

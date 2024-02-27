@@ -85,7 +85,7 @@ Una hora antes de irme para tomar mi avión de vuelta, un pequeño grupo de mús
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-12/el-libro-de-urantia-en-el-parlamento-de-las-religiones-del-mundo)
 
 <figure class="table chapter-navigator">

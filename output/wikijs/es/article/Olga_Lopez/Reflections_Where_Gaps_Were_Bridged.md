@@ -57,7 +57,7 @@ Animo a los lectores de _El libro de Urantia_ de todo el mundo a que asistan a u
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-06/reflexiones-donde-se-tendieron-puentes)
 
 <figure class="table chapter-navigator">

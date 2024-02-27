@@ -54,7 +54,7 @@ Les invitamos a asistir a este taller y esperamos crecer y aprender con ustedes.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-07/taller-sobre-el-alma)
 
 <figure class="table chapter-navigator">

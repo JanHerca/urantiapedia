@@ -67,7 +67,7 @@ Eugene, Oregón, EEUU
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-03/testimonios-sobre-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

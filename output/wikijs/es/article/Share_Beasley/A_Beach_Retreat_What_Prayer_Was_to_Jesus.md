@@ -62,7 +62,7 @@ Una alegría añadida a los encuentros íntimos, como el de nuestro retiro en la
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-12/retiro-en-la-playa-lo-que-la-oracion-era-para-jesus)
 
 <figure class="table chapter-navigator">

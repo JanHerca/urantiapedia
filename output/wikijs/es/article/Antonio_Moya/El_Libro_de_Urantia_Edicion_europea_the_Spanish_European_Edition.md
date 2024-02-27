@@ -54,7 +54,7 @@ Antonio cree que _El libro de Urantia_ es muy importante para el mundo. Si todas
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-12/el-libro-de-urantia-edicion-europea-la-edicion-en-espanol-de-espana)
 
 <figure class="table chapter-navigator">

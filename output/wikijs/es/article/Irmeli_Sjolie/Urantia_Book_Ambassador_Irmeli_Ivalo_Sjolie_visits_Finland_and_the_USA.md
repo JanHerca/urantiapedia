@@ -76,7 +76,7 @@ Para más información, visiten [Libros a mitad de precio](https://www.urantia.o
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-09/la-embajadora-de-el-libro-de-urantia-irmeli-ivalo-sjolie-visita-finlandia-y-los-eeuu)
 
 <figure class="table chapter-navigator">

@@ -108,7 +108,7 @@ El traductor de _El libro de Urantia_ al persa, Hamid Mazdeh, se unió a la reun
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-09/novedades-de-la-reunion-de-julio-de-los-fideicomisarios)
 
 

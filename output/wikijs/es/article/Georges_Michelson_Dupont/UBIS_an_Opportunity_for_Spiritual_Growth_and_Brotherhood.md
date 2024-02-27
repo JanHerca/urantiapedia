@@ -90,7 +90,7 @@ Las clases virtuales no impiden que se establezcan relaciones humanas. Al contra
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-12/la-escuela-de-el-libro-de-urantia-en-internet-una-oportunidad-para-el-crecimiento)
 
 <figure class="table chapter-navigator">

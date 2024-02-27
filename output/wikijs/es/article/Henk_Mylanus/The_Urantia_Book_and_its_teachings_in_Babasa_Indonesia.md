@@ -75,7 +75,7 @@ Por favor, consideren una donación y envíenla especificando a la Fundación Ur
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/el-libro-de-urantia-y-sus-ensenanzas-en-indonesio)
 
 <figure class="table chapter-navigator">

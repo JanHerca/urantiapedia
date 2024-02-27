@@ -102,7 +102,7 @@ Al principio, el Dr. William Sadler nos instó a “infiltrarnos en las iglesias
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-09/12-de-octubre-de-1955)
 
 <figure class="table chapter-navigator">

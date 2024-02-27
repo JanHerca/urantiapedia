@@ -101,7 +101,7 @@ El mandato de fideicomisaria asociada expira ahora, la junta de fideicomisarios 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-06/noteworthy-decisions-april-2017-board-trustees-meeting)
 
 <figure class="table chapter-navigator">

@@ -69,7 +69,7 @@ Gracias, criaturas intermedias, por vuestra insistencia en pedir esta revelació
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2011-09/what-urantia-book-means-me-michael-berry) y [este artículo](https://www.urantia.org/es/news/2011-09/muchas-preguntas-respondidas)
 
 <figure class="table chapter-navigator">

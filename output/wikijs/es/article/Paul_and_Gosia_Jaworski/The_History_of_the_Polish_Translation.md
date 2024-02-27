@@ -75,7 +75,7 @@ Estamos deseando ver muchas más traducciones listas para imprimir y ver que la 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-03/historia-de-la-traduccion-polaca)
 
 <figure class="table chapter-navigator">

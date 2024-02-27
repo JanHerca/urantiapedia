@@ -70,7 +70,7 @@ Estas son las subvencionadas otorgadas que se anunciaron el 15 de marzo:
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2023-03/el-programa-de-subvenciones-semilla-de-mostaza)
 
 <figure class="table chapter-navigator">

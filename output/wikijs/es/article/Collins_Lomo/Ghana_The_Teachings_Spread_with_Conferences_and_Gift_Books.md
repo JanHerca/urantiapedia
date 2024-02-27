@@ -101,7 +101,7 @@ Y a Pato y Antoinette: vuestro compromiso, vuestro servicio y vuestra inspiraci�
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-07/ghana-las-ensenanzas-se-difunden-con-conferencias-y-donacion-de-libros)
 
 <figure class="table chapter-navigator">

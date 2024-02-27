@@ -153,7 +153,7 @@ Después hubo un bufet y más socialización; desde luego, ¡cumplimos nuestra m
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-03/mision-cumplida-conferencia-urantia-en-ghana)
 
 <figure class="table chapter-navigator">

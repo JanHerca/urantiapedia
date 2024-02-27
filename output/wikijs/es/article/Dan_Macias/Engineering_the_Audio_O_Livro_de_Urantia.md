@@ -53,7 +53,7 @@ Este proceso ha ido sonando mientras Eliana leía el libro, del cual ya se ha gr
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-11/ser-el-ingeniero-de-sonido-de-o-livro-de-urantia)
 
 <figure class="table chapter-navigator">

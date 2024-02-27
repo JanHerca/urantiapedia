@@ -62,7 +62,7 @@ Hacia arriba y hacia dentro, Mo Siegel, presidente.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-12/id-por-todo-el-mundo-jesus)
 
 <figure class="table chapter-navigator">

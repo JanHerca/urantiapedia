@@ -75,7 +75,7 @@ Después de esa reunión, los traductores hablaron de trabajar de manera colabor
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-09/el-libro-de-urantia-en-corea)
 
 <figure class="table chapter-navigator">

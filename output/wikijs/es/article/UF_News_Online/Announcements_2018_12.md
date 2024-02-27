@@ -61,7 +61,7 @@ Tenemos el placer de anunciarles que la traducción al parsi ya está disponible
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-12/nueva-cuenta-de-instagram-de-la-fundacion-urantia) y [este artículo](https://www.urantia.org/es/news/2018-12/ya-esta-disponible-en-internet-la-traduccion-al-parsi)
 
 <figure class="table chapter-navigator">

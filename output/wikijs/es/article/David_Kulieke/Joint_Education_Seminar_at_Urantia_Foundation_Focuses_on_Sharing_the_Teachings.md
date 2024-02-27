@@ -56,7 +56,7 @@ El fin de semana incluyó el alojamiento a cargo de Joanne Strobel y las delicio
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-03/seminario-conjunto-de-educacion-en-la-fundacion-urantia-sobre-como-compartir-las)
 
 <figure class="table chapter-navigator">

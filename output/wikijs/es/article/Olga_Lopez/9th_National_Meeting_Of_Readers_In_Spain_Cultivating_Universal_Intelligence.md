@@ -64,7 +64,7 @@ Le damos las gracias a Sheila por darnos tantas ideas valiosas. ¡Thank you very
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-06/ix-encuentro-de-lectores-en-espana-cultivar-la-inteligencia-universal)
 
 <figure class="table chapter-navigator">

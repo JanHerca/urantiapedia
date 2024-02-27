@@ -66,7 +66,7 @@ Estamos profundamente agradecidos al personal de la Fundación: Connie Gutiérre
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/cinco-dias-en-el-533-de-w-diversey-parkway)
 
 <figure class="table chapter-navigator">

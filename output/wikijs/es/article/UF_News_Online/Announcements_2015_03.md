@@ -76,7 +76,7 @@ Pueden inscribirse en el siguiente sitio web: [https://www.regonline.ca/builder/
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-03/sesion-de-estudio-de-verano-2015-de-la-urantia-book-fellowship) y [este artículo](https://www.urantia.org/es/news/2015-03/asociacion-urantia-internacional-conferencia-2015)
 
 <figure class="table chapter-navigator">

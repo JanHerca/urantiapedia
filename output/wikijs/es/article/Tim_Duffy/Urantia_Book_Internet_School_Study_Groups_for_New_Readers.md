@@ -75,7 +75,7 @@ Con el éxito del primer grupo de estudio de la escuela, ofrecimos uno en españ
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-07/escuela-de-el-libro-de-urantia-en-internet-grupos-de-estudio-para-lectores-nuevos)
 
 <figure class="table chapter-navigator">

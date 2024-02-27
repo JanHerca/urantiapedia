@@ -61,7 +61,7 @@ Nuestro grupo de sacerdotes pasó varios años entrevistando a las personas rela
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-06/una-historia-de-meredith-sprunger)
 
 <figure class="table chapter-navigator">

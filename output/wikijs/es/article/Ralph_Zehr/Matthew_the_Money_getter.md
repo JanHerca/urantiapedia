@@ -65,7 +65,7 @@ Unir esfuerzos en la diseminación de la Quinta Revelación de Época es, y lo c
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-12/mateo-el-que-consigue-el-dinero)
 
 <figure class="table chapter-navigator">

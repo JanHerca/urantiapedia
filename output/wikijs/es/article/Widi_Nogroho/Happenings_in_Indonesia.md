@@ -65,7 +65,7 @@ La presentación y diseminación más amplia de las enseñanzas de _El libro de 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-09/acontecimientos-de-indonesia)
 
 <figure class="table chapter-navigator">

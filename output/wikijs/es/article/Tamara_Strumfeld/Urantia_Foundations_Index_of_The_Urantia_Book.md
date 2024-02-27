@@ -76,7 +76,7 @@ El equipo de la Fundación Urantia está ilusionado por poner este índice a dis
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-10/el-indice-de-el-libro-de-urantia-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

@@ -59,7 +59,7 @@ De las treinta bibliotecas que contacté en Indiana, once aceptaron el libro. El
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-12/colocacion-en-bibliotecas)
 
 <figure class="table chapter-navigator">

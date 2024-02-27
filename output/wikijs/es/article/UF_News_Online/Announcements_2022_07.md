@@ -54,7 +54,7 @@ Nos complace anunciar que la traducción al árabe ya está disponible en línea
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-07/pagina-de-facebook-en-hungaro) y [este artículo](https://www.urantia.org/es/news/2022-07/disponible-en-linea-la-traduccion-al-arabe)
 
 <figure class="table chapter-navigator">

@@ -55,7 +55,7 @@ Creemos que fue un esfuerzo que valió la pena, que comen­zarán a formarse gru
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-12/el-libro-de-urantia-en-austria)
 
 <figure class="table chapter-navigator">

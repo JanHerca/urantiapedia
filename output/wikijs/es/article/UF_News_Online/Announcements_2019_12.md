@@ -65,7 +65,7 @@ Con 106 pinturas de 35 artistas de renombre, incluidas 42 obras originalmente en
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/la-traduccion-al-checo-ya-esta-disponible-en-linea) y [este artículo](https://www.urantia.org/es/news/2019-12/lectores-de-america-latina-piden-apoyo-y-ustedes-responden)
 
 <figure class="table chapter-navigator">

@@ -55,7 +55,7 @@ A continuación, los invitados disfrutaron de una cena conjunta. El entretenimie
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-03/fiesta-en-el-533-de-diversey)
 
 <figure class="table chapter-navigator">

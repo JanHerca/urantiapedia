@@ -55,7 +55,7 @@ Para aclarar dudas u obtener información adicional, escriban a [Joanne@urantia.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-03/la-inscripcion-para-los-cursos-de-abril-de-la-escuela-de-el-libro-de-urantia-en)
 
 <figure class="table chapter-navigator">

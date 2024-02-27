@@ -95,7 +95,7 @@ Nota: todas las **negritas** y espaciado modificado han sido añadidos por el au
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-10/senales-y-prodigios)
 
 <figure class="table chapter-navigator">

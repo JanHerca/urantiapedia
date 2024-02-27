@@ -85,7 +85,7 @@ La reunión fue muy positiva y productiva. Los miembros del equipo de revisión 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-12/informe-de-la-reunion-de-lanzamiento-de-la-revision-de-la-traduccion-portuguesa)
 
 <figure class="table chapter-navigator">

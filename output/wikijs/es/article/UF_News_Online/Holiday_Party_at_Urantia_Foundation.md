@@ -45,7 +45,7 @@ _Joanne Strobel preparó y sirvió una comida deliciosa, los niños corrían y j
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-12/celebracion-navidena-en-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

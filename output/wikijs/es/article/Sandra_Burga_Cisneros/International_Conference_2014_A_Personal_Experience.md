@@ -60,7 +60,7 @@ La IC’14 estuvo organizada por la Urantia Book Fellowship y patrocinada por la
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-09/conferencia-internacional-2014-una-experiencia-personal)
 
 <figure class="table chapter-navigator">

@@ -88,7 +88,7 @@ Con suerte, esta colaboración continuará dando frutos y se extenderá quizá a
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/los-griegos-inquisitivos-cronica-de-la-traduccion-al-griego-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

@@ -73,7 +73,7 @@ Es a partir de la vida y de las enseñanzas de Jesús que sé lo que me espera, 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-12/lo-que-el-libro-de-urantia-significa-para-mi)
 
 <figure class="table chapter-navigator">

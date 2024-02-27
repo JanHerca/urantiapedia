@@ -115,7 +115,7 @@ La civilización depende del idioma para su propagación. Las lenguas vivas y en
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-10/traducciones-de-calidad-un-proceso-de-40-anos)
 
 <figure class="table chapter-navigator">

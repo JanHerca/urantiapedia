@@ -61,7 +61,7 @@ Aprecio profundamente los esfuerzos continuados de los voluntarios del Canal y l
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-09/informe-del-canal-de-luz-2003-2011)
 
 <figure class="table chapter-navigator">

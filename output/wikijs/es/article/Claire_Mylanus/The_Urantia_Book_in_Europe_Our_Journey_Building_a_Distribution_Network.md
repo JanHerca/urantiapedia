@@ -84,7 +84,7 @@ Cuando usamos nuestros talentos individuales para ayudar a la distribución de l
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-04/el-libro-de-urantia-en-europa-nuestro-viaje-de-creacion-de-una-red-de-distribucion)
 
 <figure class="table chapter-navigator">

@@ -68,7 +68,7 @@ Esperamos que se unan a nosotros el año que viene para explorar estos temas y o
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-09/la-conciencia-de-dios-una-universidad-viva-inspira-el-estudio-en-profundidad)
 
 <figure class="table chapter-navigator">

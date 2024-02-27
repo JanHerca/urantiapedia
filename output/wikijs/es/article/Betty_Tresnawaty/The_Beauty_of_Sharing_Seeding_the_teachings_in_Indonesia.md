@@ -68,7 +68,7 @@ Hace un tiempo, recibí diez libros de la Fundación Urantia (gracias a Tamara p
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-09/la-belleza-de-compartir-la-siembra-de-las-ensenanzas-en-indonesia)
 
 <figure class="table chapter-navigator">

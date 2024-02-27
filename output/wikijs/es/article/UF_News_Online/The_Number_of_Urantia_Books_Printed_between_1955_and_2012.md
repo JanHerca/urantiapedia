@@ -44,7 +44,7 @@ _Nota de la dirección: en el último número, se presentó una cronología de E
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-11/el-numero-de-libros-de-urantia-impresos-entre-1955-y-2012)
 
 <figure class="table chapter-navigator">

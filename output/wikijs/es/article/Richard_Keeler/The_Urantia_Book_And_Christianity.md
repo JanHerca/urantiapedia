@@ -86,7 +86,7 @@ En mi opinión, _El libro de Urantia_ contiene el único relato fiel de la vida 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-06/el-libro-de-urantia-y-el-cristianismo)
 
 <figure class="table chapter-navigator">

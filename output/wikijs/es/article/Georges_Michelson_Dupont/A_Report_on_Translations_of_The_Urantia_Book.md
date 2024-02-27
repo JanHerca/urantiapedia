@@ -246,7 +246,7 @@ Hasta la fecha, las listas de términos se han completado y cargado en Déjà Vu
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-09/informe-sobre-las-traducciones-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

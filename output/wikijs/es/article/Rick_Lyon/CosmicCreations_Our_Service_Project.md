@@ -83,7 +83,7 @@ Visiten nuestra web y conozcan más sobre nosotros en [CosmicCreations.biz](http
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-06/cosmiccreations-nuestro-proyecto-de-servicio)
 
 <figure class="table chapter-navigator">

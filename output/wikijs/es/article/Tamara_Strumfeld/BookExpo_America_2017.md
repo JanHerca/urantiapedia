@@ -68,7 +68,7 @@ Queda mucho trabajo por hacer para sembrar _El Libro de Urantia_ y sus enseñanz
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2017-06/bookexpo-america-2017)
 
 <figure class="table chapter-navigator">

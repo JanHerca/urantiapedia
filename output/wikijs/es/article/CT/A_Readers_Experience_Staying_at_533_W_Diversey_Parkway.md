@@ -89,7 +89,7 @@ Espero profundizar en muchos de los contactos y sentimientos que he experimentad
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-09/experiencia-de-un-lector-que-visito-el-533-de-w-diversey-parkway)
 
 <figure class="table chapter-navigator">

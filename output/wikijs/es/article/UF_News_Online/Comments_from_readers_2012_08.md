@@ -101,7 +101,7 @@ Estas palabras solo comienzan a describirlo:
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/conocer-que-dios-es-mi-padre) y [este artículo](https://www.urantia.org/es/news/2012-08/lo-que-el-libro-de-urantia-significa-para-mi-de-angela-thurston)
 
 <figure class="table chapter-navigator">

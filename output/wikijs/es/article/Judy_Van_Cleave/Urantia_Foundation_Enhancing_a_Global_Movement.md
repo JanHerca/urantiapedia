@@ -82,7 +82,7 @@ Krystyna, Marcos y Jaime se presentarán durante una de las tres reuniones trime
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/fundacion-urantia-extender-un-movimiento-mundial)
 
 <figure class="table chapter-navigator">

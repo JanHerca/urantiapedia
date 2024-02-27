@@ -155,7 +155,7 @@ Irmeli Ivalo-Sjölie y Olga López propusieron organizar una reunión de lectore
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-06/decisiones-destacadas-de-la-reunion-de-abril-de-la-junta)
 
 <figure class="table chapter-navigator">

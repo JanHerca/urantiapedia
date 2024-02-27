@@ -72,7 +72,7 @@ Todas apreciamos el nivel de confianza, respeto y vulnerabilidad en nuestro comp
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-04/bailar-con-dios-vivir-en-amor-en-tiempos-dificiles)
 
 <figure class="table chapter-navigator">

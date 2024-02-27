@@ -116,7 +116,7 @@ Donaciones: el objetivo de la recaudación de fondos es de 630.000$ en donacione
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-10/novedades-de-la-reunion-de-julio-de-los-fideicomisarios)
 
 <figure class="table chapter-navigator">

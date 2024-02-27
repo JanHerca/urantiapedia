@@ -70,7 +70,7 @@ Espero que este texto sobre la UBIS les parezca iluminador. Ojalá todos encontr
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-03/la-ubis-esta-viva)
 
 <figure class="table chapter-navigator">

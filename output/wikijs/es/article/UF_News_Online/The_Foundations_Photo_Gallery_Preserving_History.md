@@ -76,7 +76,7 @@ En nombre del equipo de la Fundación Urantia, les damos las gracias y apreciamo
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-06/la-galeria-de-fotos-de-la-fundacion-preservar-la-historia)
 
 <figure class="table chapter-navigator">

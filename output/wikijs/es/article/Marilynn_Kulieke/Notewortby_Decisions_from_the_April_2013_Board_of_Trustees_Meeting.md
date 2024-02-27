@@ -129,7 +129,7 @@ El hogar histórico en Chicago de 105 años de edad de la Revelación Urantia ha
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-06/decisiones-destacadas-de-la-reunion-de-abril-2013)
 
 <figure class="table chapter-navigator">

@@ -80,7 +80,7 @@ Hay mucho trabajo por hacer y retos que afrontar. El materialismo y el laicismo 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-06/el-libro-de-urantia-en-espana)
 
 <figure class="table chapter-navigator">

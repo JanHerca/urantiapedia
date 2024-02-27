@@ -66,7 +66,7 @@ Mark murió recientemente después de un trágico incidente en Swansea (Gales). 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-09/en-recuerdo-de-mark-bloomfield)
 
 <figure class="table chapter-navigator">

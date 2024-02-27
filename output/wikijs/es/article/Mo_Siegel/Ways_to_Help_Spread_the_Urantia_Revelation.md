@@ -102,7 +102,7 @@ El Fondo del Puente a la Revelación se estableció en 2017 para asegurar que _E
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-06/maneras-de-ayudar-divulgar-la-revelacion-urantia)
 
 <figure class="table chapter-navigator">

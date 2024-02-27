@@ -74,7 +74,7 @@ On one Sunday, a Presbyterian pastor began his sermon by saying, «When I get up
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/compartir-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

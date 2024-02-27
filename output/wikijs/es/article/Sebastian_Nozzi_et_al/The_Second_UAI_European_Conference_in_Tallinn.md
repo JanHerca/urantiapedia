@@ -125,7 +125,7 @@ Para muchos lectores europeos fue su primera vez en una conferencia, y solo pued
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-09/la-ii-conferencia-europea-de-la-aui-en-tallin)
 
 <figure class="table chapter-navigator">

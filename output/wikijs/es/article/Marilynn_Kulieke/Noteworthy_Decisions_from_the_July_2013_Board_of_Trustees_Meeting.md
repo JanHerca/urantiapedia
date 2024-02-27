@@ -115,7 +115,7 @@ La Junta de Fideicomisarios eligió a Sandra Burga-Cisneros Pizarro para servir 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-09/decisiones-destacadas-de-la-reunion-de-julio-2013)
 
 <figure class="table chapter-navigator">

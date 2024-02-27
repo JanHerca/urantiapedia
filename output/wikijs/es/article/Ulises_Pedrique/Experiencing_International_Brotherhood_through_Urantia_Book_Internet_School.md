@@ -57,7 +57,7 @@ El libro me llevó a conocer mejor a Jesús, me mostró verdades nuevas y maravi
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-06/la-experiencia-de-la-hermandad-internacional-traves-de-la-escuela-de-el-libro-de)
 
 <figure class="table chapter-navigator">

@@ -63,7 +63,7 @@ En 2009, durante la conferencia de la Asociación Urantia Internacional en Mála
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/como-surgio-la-idea-de-una-herramienta-para-traducciones-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

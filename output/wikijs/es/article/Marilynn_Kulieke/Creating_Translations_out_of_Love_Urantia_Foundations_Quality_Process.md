@@ -116,7 +116,7 @@ Al final del proceso, cuando la revisión ha madurado, es el momento de reintegr
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-06/crear-traducciones-con-amor-el-control-de-calidad-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

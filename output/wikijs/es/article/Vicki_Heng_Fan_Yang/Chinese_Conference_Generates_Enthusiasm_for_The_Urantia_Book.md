@@ -102,7 +102,7 @@ Como prometí en mi último artículo, me gustaría compartir algunos de los gra
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-12/la-conferencia-china-genera-entusiasmo-hacia-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

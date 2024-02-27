@@ -61,7 +61,7 @@ Creemos que las ferias del libro son eventos importantes para que los lectores a
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-12/nuestro-stand-de-el-libro-de-urantia-en-la-feria-del-libro-de-cali-colombia)
 
 <figure class="table chapter-navigator">

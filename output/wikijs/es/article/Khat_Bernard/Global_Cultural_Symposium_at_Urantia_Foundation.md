@@ -89,7 +89,7 @@ Doy las gracias a todos los implicados por darme una experiencia con _El libro d
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-06/mi-experiencia-personal-en-el-simposio-cultural)
 
 <figure class="table chapter-navigator">

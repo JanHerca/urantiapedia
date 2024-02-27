@@ -104,7 +104,7 @@ La larga historia y cultura ligadas al chino tradicional lo hacen estético y si
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-01/novedades-de-la-traduccion-al-chino)
 
 <figure class="table chapter-navigator">

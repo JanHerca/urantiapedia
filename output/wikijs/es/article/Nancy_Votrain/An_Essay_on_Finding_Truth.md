@@ -63,7 +63,7 @@ Este artículo refleja mi interpretación de _El libro de Urantia_, así como mi
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/ensayo-sobre-la-busqueda-de-la-verdad)
 
 <figure class="table chapter-navigator">

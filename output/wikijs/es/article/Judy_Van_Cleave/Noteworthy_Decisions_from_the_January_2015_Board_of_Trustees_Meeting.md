@@ -81,7 +81,7 @@ La junta decidió contratar a una empresa de consultoría de gestión para que l
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-03/decisiones-destacadas-de-de-la-reunion-de-enero-de-la-junta-de-fideicomisarios)
 
 <figure class="table chapter-navigator">

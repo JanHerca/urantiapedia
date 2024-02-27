@@ -63,7 +63,7 @@ En nuestro grupo estaba Ángela Álvarez, Jeannette Francis, Eva Castell, Luis B
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-12/stand-de-el-libro-de-urantia-en-la-feria-del-libro-de-miami)
 
 <figure class="table chapter-navigator">

@@ -59,7 +59,7 @@ Para conocer más, visiten la [**página web de Donación Planificada**](https:/
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2023-03/un-plan-de-epoca)
 
 <figure class="table chapter-navigator">

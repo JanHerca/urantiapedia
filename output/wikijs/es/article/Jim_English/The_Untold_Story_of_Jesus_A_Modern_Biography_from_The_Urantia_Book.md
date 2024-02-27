@@ -99,7 +99,7 @@ https://youtu.be/PeOLg8YSdC4
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-04/la-historia-no-contada-de-jesus-biografia-moderna-segun-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

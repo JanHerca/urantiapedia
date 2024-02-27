@@ -59,7 +59,7 @@ Ya sea un lector independiente o apoye a una organización Urantia, estamos junt
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-08/remando-juntos-por-el-bien-comun)
 
 <figure class="table chapter-navigator">

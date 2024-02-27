@@ -79,7 +79,7 @@ Nací en 1931 y crecí en el sur de Finlandia como parte de la minoría de habla
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-12/urantiaboken-la-traduccion-sueca)
 
 <figure class="table chapter-navigator">

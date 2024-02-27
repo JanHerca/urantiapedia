@@ -66,7 +66,7 @@ Pasé los últimos años de mi adolescencia leyendo libros arcanos, lanzando el 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-10/lo-que-el-libro-de-urantia-significa-para-mi-michael-hill)
 
 <figure class="table chapter-navigator">

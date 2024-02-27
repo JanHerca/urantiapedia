@@ -65,7 +65,7 @@ Si no puede asistir al seminario, puede escuchar los podcasts de un curso de dos
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-11/seminario-sobre-las-verdades-de-la-experiencia-espiritual)
 
 <figure class="table chapter-navigator">

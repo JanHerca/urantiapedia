@@ -84,7 +84,7 @@ _Personal:_ Connie Gutiérrez, Tamara Strumfeld, Marcel Urayeneza y Mike Wood.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-09/decisiones-destacadas-de-la-reunion-de-julio-de-la-junta)
 
 <figure class="table chapter-navigator">

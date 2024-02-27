@@ -66,7 +66,7 @@ En 2010, la junta de la Second Society Foundation votó para dejar de funcionar 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-03/la-second-society-foundation-y-estudio-del-universo-maestro)
 
 <figure class="table chapter-navigator">

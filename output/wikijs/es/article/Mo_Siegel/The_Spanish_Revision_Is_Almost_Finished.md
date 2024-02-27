@@ -59,7 +59,7 @@ Aún quedan las etapas finales del proyecto de revisión al español. A lo largo
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-09/la-revision-al-espanol-casi-ha-terminado)
 
 <figure class="table chapter-navigator">

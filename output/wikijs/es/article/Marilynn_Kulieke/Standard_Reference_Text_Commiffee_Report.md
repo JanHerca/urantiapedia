@@ -61,7 +61,7 @@ Si está interesado en estudiar el trabajo del comité, contacten por favor con 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-03/informe-del-comite-del-texto-de-referencia-estandar)
 
 <figure class="table chapter-navigator">

@@ -66,7 +66,7 @@ En el monitor: Marta Elders y Michael Zehr.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-12/el-trabajo-de-la-escuela-de-el-libro-de-urantia-en-internet-ubis)
 
 <figure class="table chapter-navigator">

@@ -103,7 +103,7 @@ Para terminar, un enorme GRACIAS a cada uno de los participantes que recorrieron
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-06/simposio-cultural-mundial-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

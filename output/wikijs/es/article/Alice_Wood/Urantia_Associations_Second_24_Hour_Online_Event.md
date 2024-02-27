@@ -67,7 +67,7 @@ La gente ha preguntado con ansia cuándo será el próximo evento de 24 horas, y
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-06/segundo-evento-de-24-horas-de-la-asociacion-urantia)
 
 <figure class="table chapter-navigator">

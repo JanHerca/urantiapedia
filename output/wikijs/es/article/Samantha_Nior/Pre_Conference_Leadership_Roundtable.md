@@ -57,7 +57,7 @@ Todos los participantes en la mesa redonda ganaron en comprensión y perspicacia
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-06/mesa-redonda-de-lideres-en-la-pre-conferencia)
 
 <figure class="table chapter-navigator">

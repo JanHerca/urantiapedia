@@ -70,7 +70,7 @@ Estoy deseando asistir a más cursos. ¡Doy gracias de que _El libro de Urantia_
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-09/la-opinion-de-una-alumna-de-la-ubis)
 
 <figure class="table chapter-navigator">

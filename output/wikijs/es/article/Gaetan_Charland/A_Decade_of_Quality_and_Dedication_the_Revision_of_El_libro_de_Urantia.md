@@ -67,7 +67,7 @@ Puedo decirles de primera mano que esta empresa fue un enorme viaje de trabajo e
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-09/una-decada-de-calidad-y-dedicacion-la-revision-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

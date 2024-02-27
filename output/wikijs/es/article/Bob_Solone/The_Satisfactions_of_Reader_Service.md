@@ -53,7 +53,7 @@ Y por último, en mi pequeño papel como engranaje de la rueda de la Fundación 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-10/las-satisfacciones-del-servicio-los-lectores)
 
 <figure class="table chapter-navigator">

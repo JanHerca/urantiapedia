@@ -60,7 +60,7 @@ Por favor, recuerden a Eugene y Belen, a los muchos lectores locales y al equipo
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-10/la-revelacion-prospera-en-filipinas)
 
 <figure class="table chapter-navigator">

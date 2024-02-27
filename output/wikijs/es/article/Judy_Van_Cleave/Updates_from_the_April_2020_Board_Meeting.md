@@ -95,7 +95,7 @@ He aquí una mirada de alto nivel a los objetivos prioritarios a cinco años:
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-06/novedades-de-la-reunion-de-abril-2020-de-la-junta)
 
 <figure class="table chapter-navigator">

@@ -78,7 +78,7 @@ Este encuentro Urantia internacional fue un gran éxito. Teníamos dudas al prin
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-09/retrospectiva-de-la-conferencia-de-la-aui-2015-en-quebec)
 
 <figure class="table chapter-navigator">

@@ -73,7 +73,7 @@ He aprendido una gran lección de esta experiencia. Nuestros amigos invisibles n
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-03/el-libro-de-urantia-en-camerun-reflexiones-de-un-lider-de-grupo-de-estudio)
 
 <figure class="table chapter-navigator">

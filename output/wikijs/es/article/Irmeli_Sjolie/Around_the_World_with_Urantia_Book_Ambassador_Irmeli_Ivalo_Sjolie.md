@@ -92,7 +92,7 @@ En Frankfurt (Alemania), los lectores alemanes de El libro de Urantia celebraron
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/por-el-mundo-con-la-embajadora-de-el-libro-de-urantia-irmeli-ivalo-sjolie)
 
 <figure class="table chapter-navigator">

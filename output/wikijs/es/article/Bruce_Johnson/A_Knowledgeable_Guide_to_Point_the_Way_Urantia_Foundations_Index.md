@@ -88,7 +88,7 @@ Este índice es una guía ideal para estar aún más conectados a _El libro de U
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-07/guia-experta-para-senalar-el-camino-el-indice-de-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

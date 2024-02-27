@@ -64,7 +64,7 @@ Durante mi vuelo de regreso a casa sentí un renovado sentido del deber hacia el
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/mis-impresiones-sobre-la-revision-al-espanol)
 
 <figure class="table chapter-navigator">

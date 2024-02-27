@@ -56,7 +56,7 @@ Contacten con Line St-Pierre para más información en [line.stpierre@gmail.com]
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/retiro-bailar-con-dios-nuestra-llamada-suprema)
 
 <figure class="table chapter-navigator">

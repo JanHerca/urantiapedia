@@ -76,7 +76,7 @@ Disfruten de su estudio de la revelación, y atesoren sus obras de amor.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-06/que-ha-significado-significa-y-significara-el-libro-de-urantia-para-mi)
 
 <figure class="table chapter-navigator">

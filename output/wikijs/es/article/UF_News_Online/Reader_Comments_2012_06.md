@@ -73,7 +73,7 @@ Cuanto más leo, más me doy cuenta de que este libro enseña sobre el amor del 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-06/lo-que-el-libro-de-urantia-significa-para-mi-de-graciela-cristina-benedetti) y [este artículo](https://www.urantia.org/es/news/2012-06/la-perfeccion-del-libro)
 
 <figure class="table chapter-navigator">

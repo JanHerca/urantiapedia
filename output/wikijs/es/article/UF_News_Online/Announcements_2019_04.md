@@ -52,7 +52,7 @@ La inscripción para la sesión principal y para los eventos anteriores y poster
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-04/ya-estan-disponibles-en-linea-las-traducciones-al-griego-y-al-hebreo) y [este artículo](https://www.urantia.org/es/news/2019-04/sesion-de-estudio-de-verano-2019-de-la-fellowship)
 
 <figure class="table chapter-navigator">

@@ -100,7 +100,7 @@ Nuestro nuevo monitor de Wikipedia informó al comité de su revisión y trabajo
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-06/novedades-de-la-junta-de-abril-de-los-fideicomisarios)
 
 <figure class="table chapter-navigator">

@@ -76,7 +76,7 @@ Me he dedicado a la ingeniería. He escrito cuatro novelas, tres de las cuales h
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-12/o-livro-de-urantia-la-traduccion-portuguesa)
 
 <figure class="table chapter-navigator">

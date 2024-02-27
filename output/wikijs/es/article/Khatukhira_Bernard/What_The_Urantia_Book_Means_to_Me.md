@@ -57,7 +57,7 @@ En resumen, _El libro de Urantia_ es mi guía para comprender a Dios y sus maner
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-10/lo-que-el-libro-de-urantia-significa-para-mi-khatukhira-bernard)
 
 <figure class="table chapter-navigator">

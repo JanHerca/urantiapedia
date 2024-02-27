@@ -87,7 +87,7 @@ Como me acababa de mudar a una nueva ciudad, estaba abierta a entablar nuevas am
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-09/compartir-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

@@ -52,7 +52,7 @@ En el mundo de hoy, la industria editorial se está consolidando y haciendo hinc
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-09/cierre-de-la-oficina-de-quebec)
 
 <figure class="table chapter-navigator">

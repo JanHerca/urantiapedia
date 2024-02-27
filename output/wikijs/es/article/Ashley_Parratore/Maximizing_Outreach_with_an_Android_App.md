@@ -68,7 +68,7 @@ La app se lanzará a finales de año, y confiamos en que se convertirá en el pr
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-09/maximizar-el-alcance-con-una-app-de-android)
 
 <figure class="table chapter-navigator">

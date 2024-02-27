@@ -69,7 +69,7 @@ Los miembros actuales del equipo son Bill Beasley, Scott Brooks, Jackie Koury, R
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-10/el-directorio-de-grupos-de-estudio-de-el-libro-de-urantia-ha-lanzado-su-nueva-web)
 
 <figure class="table chapter-navigator">

@@ -29,7 +29,7 @@ Durante muchos años fue necesario recortar drásticamente los gastos de la Fund
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2007-05/welcome)
 
 

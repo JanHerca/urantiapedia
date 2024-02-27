@@ -85,7 +85,7 @@ Danielle hizo un gran trabajo al tomar la iniciativa y organizar este encuentro.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-09/encuentro-de-lectores-en-italia)
 
 <figure class="table chapter-navigator">

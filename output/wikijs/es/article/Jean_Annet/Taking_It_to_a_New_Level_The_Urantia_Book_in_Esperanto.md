@@ -106,7 +106,7 @@ Más que comunicar el libro a una nación en su propio idioma, la traducción al
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2021-06/llevarlo-al-siguiente-nivel-el-libro-de-urantia-en-esperanto)
 
 <figure class="table chapter-navigator">

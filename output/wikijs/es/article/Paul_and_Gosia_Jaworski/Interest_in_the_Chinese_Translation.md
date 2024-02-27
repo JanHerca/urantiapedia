@@ -54,7 +54,7 @@ Para nuestra sorpresa, encontramos fragmentos de una traducción al chino de _El
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2009-09/interes-por-la-traduccion-china)
 
 <figure class="table chapter-navigator">

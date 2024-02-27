@@ -65,7 +65,7 @@ Gard Jameson, Richard Keeler, Marilynn Kulieke, Georges Michelson-Dupont, Henk M
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-12/igualacion-de-fin-de-ano-2017)
 
 <figure class="table chapter-navigator">

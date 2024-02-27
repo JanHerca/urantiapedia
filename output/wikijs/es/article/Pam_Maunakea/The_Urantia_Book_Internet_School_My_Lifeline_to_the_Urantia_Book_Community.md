@@ -57,7 +57,7 @@ La UBIS me ha proporcionado un enlace vital con otros lectores. Estar implicada 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-06/la-escuela-de-el-libro-de-urantia-en-internet-mi-trayectoria-en-la-comunidad-de-el)
 
 <figure class="table chapter-navigator">

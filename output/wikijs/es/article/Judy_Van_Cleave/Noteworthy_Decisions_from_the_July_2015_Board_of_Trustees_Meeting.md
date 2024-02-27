@@ -86,7 +86,7 @@ La edición LeatherSoft &trade; estilo inglés de _El libro de Urantia_ dentro d
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-09/decisiones-destacadas-de-la-reunion-de-julio-de-la-junta-de-fideicomisarios)
 
 <figure class="table chapter-navigator">

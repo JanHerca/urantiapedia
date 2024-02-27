@@ -69,7 +69,7 @@ El libro sigue siendo muy sencillo e incomprensiblemente complejo a la vez. Pero
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/lo-que-el-libro-de-urantia-significa-para-mi-de-michael-edwards)
 
 <figure class="table chapter-navigator">

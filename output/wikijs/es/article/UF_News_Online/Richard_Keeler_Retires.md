@@ -84,7 +84,7 @@ Esta declaración de cuando Richard era presidente de la Fundación representa l
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-07/richard-keeler-se-retira)
 
 <figure class="table chapter-navigator">

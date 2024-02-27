@@ -55,7 +55,7 @@ Tras pasar dos días en la «región de los lagos» con la fideicomisaria asocia
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-06/jay-peregrine-visita-finlandia)
 
 <figure class="table chapter-navigator">

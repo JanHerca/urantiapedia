@@ -86,7 +86,7 @@ Tengo tres hijos maravillosos y muchos nietos, pero todo mi tiempo libro lo dedi
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2017-03/la-traduccion-al-polaco-seis-anos-despues)
 
 <figure class="table chapter-navigator">

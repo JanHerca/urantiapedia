@@ -91,7 +91,7 @@ En última instancia, la revelación contenida en _El libro de Urantia_ no son s
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/la-palabra-el-idioma-el-diccionario)
 
 <figure class="table chapter-navigator">

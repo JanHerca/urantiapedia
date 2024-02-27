@@ -65,7 +65,7 @@ Una cosa se ha hecho clara como el día: el trabajo desinteresado y natural para
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-06/palabras-inspiradoras-de-un-lector-de-el-libro-de-urantia) y [este artículo](https://www.urantia.org/news/2011-06/story-long-time-urantia-book-reader)
 
 

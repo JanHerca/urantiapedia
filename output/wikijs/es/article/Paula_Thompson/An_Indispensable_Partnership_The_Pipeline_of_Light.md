@@ -75,7 +75,7 @@ En los 15 años que llevamos siguiendo el rastro de los envíos de Pipeline, en 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2022-03/una-colaboracion-indispensable-pipeline-light)
 
 <figure class="table chapter-navigator">

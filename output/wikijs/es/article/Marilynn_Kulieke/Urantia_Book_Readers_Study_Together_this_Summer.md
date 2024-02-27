@@ -55,7 +55,7 @@ En general, fue un verano estupendo para el estudio y el fomento de la Revelaci�
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-09/los-lectores-de-el-libro-de-urantia-estudian-juntos-este-verano)
 
 <figure class="table chapter-navigator">

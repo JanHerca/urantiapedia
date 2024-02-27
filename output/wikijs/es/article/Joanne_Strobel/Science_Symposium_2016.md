@@ -126,7 +126,7 @@ Aceptado el desafío, diez personas acordaron presentar documentos basados en te
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-03/simposio-de-ciencia-2016)
 
 <figure class="table chapter-navigator">

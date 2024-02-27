@@ -66,7 +66,7 @@ Si tienen alguna pregunta, contacten con Tamara en [tamara@urantia.org](mailto:t
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2014-09/la-app-de-el-libro-de-urantia-para-android)
 
 <figure class="table chapter-navigator">

@@ -72,7 +72,7 @@ Esperamos que esta herramienta en línea sea un servicio útil para los que apoy
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-06/nueva-web-de-donacion-planificada-en-urantiaorg)
 
 <figure class="table chapter-navigator">

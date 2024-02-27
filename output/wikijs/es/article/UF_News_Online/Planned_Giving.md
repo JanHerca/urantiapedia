@@ -70,7 +70,7 @@ Haga clic aquí para visitar nuestro nuevo sitio web de Planned Giving.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2020-10/leave-legacy-planned-giving)
 
 <figure class="table chapter-navigator">

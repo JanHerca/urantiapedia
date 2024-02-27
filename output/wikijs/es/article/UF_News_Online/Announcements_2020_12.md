@@ -59,7 +59,7 @@ La Fundación Urantia tiene ya páginas de Facebook en indonesio y ruso. Visiten
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2020-12/fines-anadido-el-libro-de-urantia-multiidioma), [este artículo](https://www.urantia.org/news/2020-12/discounted-urantia-book-leather-cambridge-edition), [este artículo](https://www.urantia.org/news/2020-12/discounted-untold-story-jesus-modern-biography-urantia-book) y [este artículo](https://www.urantia.org/es/news/2020-12/paginas-de-facebook-en-indonesio-y-ruso)
 
 <figure class="table chapter-navigator">

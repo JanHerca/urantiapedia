@@ -61,7 +61,7 @@ Antes de publicarlo, quiero completar la investigación que comencé sobre perso
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-12/un-joven-de-el-libro-de-urantia-llega-los-cuarenta)
 
 <figure class="table chapter-navigator">

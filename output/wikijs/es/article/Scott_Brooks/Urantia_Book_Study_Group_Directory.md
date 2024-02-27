@@ -57,7 +57,7 @@ El equipo de apoyo del directorio da las gracias a los lectores que nos han suge
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-06/el-directorio-de-grupos-de-estudio-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

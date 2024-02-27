@@ -64,7 +64,7 @@ La información sobre cómo hacer pedidos se proporcionará a finales de agosto.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-06/seguir-siendo-relevantes-la-fundacion-urantia-anuncia-urantia-press)
 
 <figure class="table chapter-navigator">

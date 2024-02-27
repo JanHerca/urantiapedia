@@ -74,7 +74,7 @@ En 2008, tras la invitación de Gábor, tuve el privilegio de unirme al equipo d
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2010-12/receiving-magyar-translation-urantia-book)
 
 <figure class="table chapter-navigator">

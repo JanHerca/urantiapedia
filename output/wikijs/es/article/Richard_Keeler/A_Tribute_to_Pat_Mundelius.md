@@ -90,7 +90,7 @@ Ahora deseo que compartáis vuestras relaciones mutuamente y que estéis de buen
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2008-09/homenaje-pat-mundelius)
 
 <figure class="table chapter-navigator">

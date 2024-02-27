@@ -58,7 +58,7 @@ El libro «Urantia» ha respondido a preguntas que pensaba que no se responderí
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-09/comentarios-de-lectores-de-el-libro-de-urantia)
 
 <figure class="table chapter-navigator">

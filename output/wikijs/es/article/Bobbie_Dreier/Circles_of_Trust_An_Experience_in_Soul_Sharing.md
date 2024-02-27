@@ -60,7 +60,7 @@ Pueden inscribirse para el retiro, así como para la conferencia, en www.IC17.or
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2016-12/circulos-de-confianza-una-experiencia-de-compartir-entre-almas)
 
 <figure class="table chapter-navigator">

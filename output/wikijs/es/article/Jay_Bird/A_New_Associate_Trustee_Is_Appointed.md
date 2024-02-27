@@ -53,7 +53,7 @@ Nativo de Tulsa (Oklahoma), Jay está felizmente casado con Nancy Bird y disfrut
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2011-12/nombramiento-de-un-nuevo-fideicomisario-asociado)
 
 <figure class="table chapter-navigator">

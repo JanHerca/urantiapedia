@@ -61,7 +61,7 @@ Esta oferta especial finaliza el 31 de diciembre de 2012.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2012-11/urantia-book-holiday-sale-give-gift-keeps-giving)
 
 <figure class="table chapter-navigator">

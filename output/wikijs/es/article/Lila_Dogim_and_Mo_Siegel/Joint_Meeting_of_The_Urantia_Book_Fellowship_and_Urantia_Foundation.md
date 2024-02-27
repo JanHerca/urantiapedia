@@ -52,7 +52,7 @@ La Fundación Urantia y la Urantia Book Fellowship están implicadas actualmente
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2012-11/reunion-conjunta-de-la-urantia-book-fellowship-y-la-fundacion-urantia)
 
 <figure class="table chapter-navigator">

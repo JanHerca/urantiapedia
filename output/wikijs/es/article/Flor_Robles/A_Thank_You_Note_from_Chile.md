@@ -62,7 +62,7 @@ Finalmente, esta es una nota de agradecimiento desde Chile a nuestro Padre, por 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2013-03/nota-de-agradecimiento-desde-chile)
 
 <figure class="table chapter-navigator">

@@ -65,7 +65,7 @@ Budapest es una bella ciudad llena de historia que merece mucho la pena visitar.
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2010-06/asistencia-la-feria-del-libro-de-budapest-hungria)
 
 <figure class="table chapter-navigator">

@@ -100,7 +100,7 @@ Para más información contacten con Nestor Seda, [nestorseda2@gmail.com](mailto
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-09/simposio-cientifico-2019-responder-las-grandes-preguntas-de-la-ciencia), [este artículo](https://www.urantia.org/es/news/2019-09/la-traduccion-al-japones-esta-ya-disponible-en-la-web), [este artículo](https://www.urantia.org/es/news/2019-09/nuevo-motor-de-busqueda-de-el-libro-de-urantia-en-la-web), [este artículo](https://www.urantia.org/es/news/2019-09/novedades-de-la-traduccion-al-polaco) y [este artículo](https://www.urantia.org/es/news/2019-09/primera-conferencia-de-el-libro-de-urantia-en-filipinas)
 
 <figure class="table chapter-navigator">

@@ -78,7 +78,7 @@ Fue un privilegio y un gran placer ocuparse del stand y dar servicio a los visit
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2015-06/la-feria-internacional-del-libro-de-bogota)
 
 <figure class="table chapter-navigator">

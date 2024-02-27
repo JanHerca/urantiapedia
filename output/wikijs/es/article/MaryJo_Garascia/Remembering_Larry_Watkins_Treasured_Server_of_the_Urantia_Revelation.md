@@ -72,7 +72,7 @@ De él se puede decir en verdad: «Bien hecho, buen y fiel servidor». Te echare
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-03/en-recuerdo-de-larry-watkins-un-valioso-servidor-de-la-revelacion-urantia)
 
 <figure class="table chapter-navigator">

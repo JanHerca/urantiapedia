@@ -81,7 +81,7 @@ Estos dos hombres notables pueden estar experimentando la gloria de los mundos m
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2019-12/celebracion-de-las-almas)
 
 <figure class="table chapter-navigator">

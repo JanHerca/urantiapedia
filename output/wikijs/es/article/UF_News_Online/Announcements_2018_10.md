@@ -59,7 +59,7 @@ Portugués: [https://www.facebook.com/Funda%C3%A7%C3%A3o-Ur%C3%A2ntia-5112415326
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-10/la-traduccion-al-danes-disponible-en-linea) y [este artículo](https://www.urantia.org/es/news/2018-10/nuevas-paginas-de-facebook-en-espanol-y-portugues)
 
 <figure class="table chapter-navigator">

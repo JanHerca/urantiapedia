@@ -61,7 +61,7 @@ Disfruté de mi viaje a Rumanía y me fui con sensaciones positivas de su gente 
 
 ## Referencias
 
-- [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/es/news/2018-12/la-siembra-de-el-libro-de-urantia-en-rumania)
 
 <figure class="table chapter-navigator">
