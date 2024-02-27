@@ -1,5 +1,5 @@
 ---
-title: "The 2015 Intemational Book Fair in Jerusalem"
+title: "The 2015 International Book Fair in Jerusalem"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

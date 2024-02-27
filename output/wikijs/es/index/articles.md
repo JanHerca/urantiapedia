@@ -24,8 +24,11 @@ dateCreated: 2021-11-28T14:02:03.086Z
 				<div><small>Originales: <a href="https://www.urantia.org/news">Urantia Foundation news online</a>, <a href="https://www.urantia.org/urantia-foundation/newsletter-pdf-archives">Urantia Foundation news archive</a>, <a href="https://ubhs.hosted-by-files.com/http/FrameDocTypesUB.html">UBHS archive</a></small></div>
 			</div>
 			<div class="urantiapedia-card-actions">
-				<a class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-					<span class="v-btn__content"><div class="caption"><strong>Próximamente</strong></div></span>
+				<a href="/es/index/articles_uf_news_online" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Índice</strong></div></span>
+				</a>
+				<a href="/t/urantia%20foundation%20news%20online" class="mx-2 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
+					<span class="v-btn__content"><div class="caption"><strong>Buscar</strong></div></span>
 				</a>
 			</div>
 		</div>

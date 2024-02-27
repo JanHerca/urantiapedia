@@ -15,7 +15,7 @@ dateCreated: 2023-8-29T10:55:6Z
       <tr>
         <td>
         <a href="/es/article/Rogerio_da_Silva/How_the_Idea_for_a_Urantia_Book_Translation_Tool_was_Born">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo surgió la idea de una berramienta para traducciones de El libro de Urantia</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo surgió la idea de una herramienta para traducciones de El libro de Urantia</span>
         </a>
         </td>
         <td>
@@ -94,7 +94,7 @@ Y ahora empieza nuestro día…
       <tr>
         <td>
         <a href="/es/article/Rogerio_da_Silva/How_the_Idea_for_a_Urantia_Book_Translation_Tool_was_Born">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo surgió la idea de una berramienta para traducciones de El libro de Urantia</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo surgió la idea de una herramienta para traducciones de El libro de Urantia</span>
         </a>
         </td>
         <td>

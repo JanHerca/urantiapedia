@@ -15,7 +15,7 @@ dateCreated: 2023-8-29T10:55:6Z
       <tr>
         <td>
         <a href="/en/article/Gabriel_Rymberg/The_2015_Intemational_Book_Fair_in_Jerusalem">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The 2015 Intemational Book Fair in Jerusalem</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The 2015 International Book Fair in Jerusalem</span>
         </a>
         </td>
         <td>

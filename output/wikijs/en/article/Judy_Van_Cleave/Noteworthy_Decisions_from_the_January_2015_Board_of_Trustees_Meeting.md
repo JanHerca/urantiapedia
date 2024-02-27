@@ -25,7 +25,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/en/article/Gabriel_Rymberg/The_2015_Intemational_Book_Fair_in_Jerusalem">
-          <span class="pr-2">The 2015 Intemational Book Fair in Jerusalem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">The 2015 International Book Fair in Jerusalem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -100,7 +100,7 @@ The board decided to hire a management consulting firm for assistance in definin
         </td>
         <td>
         <a href="/en/article/Gabriel_Rymberg/The_2015_Intemational_Book_Fair_in_Jerusalem">
-          <span class="pr-2">The 2015 Intemational Book Fair in Jerusalem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">The 2015 International Book Fair in Jerusalem</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

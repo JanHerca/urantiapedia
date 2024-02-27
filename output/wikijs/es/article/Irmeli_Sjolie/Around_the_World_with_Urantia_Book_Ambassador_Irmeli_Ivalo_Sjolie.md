@@ -25,7 +25,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/es/article/Rogerio_da_Silva/How_the_Idea_for_a_Urantia_Book_Translation_Tool_was_Born">
-          <span class="pr-2">Cómo surgió la idea de una berramienta para traducciones de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Cómo surgió la idea de una herramienta para traducciones de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -111,7 +111,7 @@ En Frankfurt (Alemania), los lectores alemanes de El libro de Urantia celebraron
         </td>
         <td>
         <a href="/es/article/Rogerio_da_Silva/How_the_Idea_for_a_Urantia_Book_Translation_Tool_was_Born">
-          <span class="pr-2">Cómo surgió la idea de una berramienta para traducciones de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Cómo surgió la idea de una herramienta para traducciones de El libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

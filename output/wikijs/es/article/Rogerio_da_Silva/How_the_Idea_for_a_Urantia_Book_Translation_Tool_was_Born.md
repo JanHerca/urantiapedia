@@ -1,5 +1,5 @@
 ---
-title: "Cómo surgió la idea de una berramienta para traducciones de El libro de Urantia"
+title: "Cómo surgió la idea de una herramienta para traducciones de El libro de Urantia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

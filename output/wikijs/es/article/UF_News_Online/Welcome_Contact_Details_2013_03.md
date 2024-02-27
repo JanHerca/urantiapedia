@@ -42,7 +42,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - La encuesta 2012 de lectores de El libro de Urantia
 - Búsqueda de un distribuidor en Hungría para la traducción al búngaro, Az Urantia könyv
 - Por el mundo con la embajadora de El libro de Urantia, Irmeli Ivalo-Sjölie
-- Cómo surgió la idea de una berramienta para traducciones de El libro de Urantia
+- Cómo surgió la idea de una herramienta para traducciones de El libro de Urantia
 - Meditación en grupo en la Fundación Urantia
 - Libros a mitad de precio - una oportunidad para la diseminación de El libro de Urantia
 - Nota de agradecimiento desde Chile

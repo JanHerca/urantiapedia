@@ -1,5 +1,5 @@
 ---
-title: "The Urantia Book in the Philippines: an Outreach Project Update"
+title: "El libro de Urantia en Filipinas: novedades del proyecto de asistencia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
