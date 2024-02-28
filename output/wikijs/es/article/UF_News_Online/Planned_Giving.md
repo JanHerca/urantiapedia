@@ -1,5 +1,5 @@
 ---
-title: "Pensamientos para reflexionar en francés"
+title: "Planear un legado"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -47,7 +47,7 @@ dateCreated: 2023-8-29T10:55:6Z
 Muchas personas se sorprenden al saber que pueden ayudar a sembrar el mensaje de _El Libro de Urantia_ con un regalo mucho mayor de lo que jamás pensaron que estaba a su alcance. El mensaje transformador de El Libro de Urantia está llegando a los rincones más lejanos del mundo. ¡Esto está sucediendo gracias al generoso apoyo de personas como usted!
 <br style="clear:both;"/>
 
-## Planned gifts make it possible.
+## Un legado planeado lo hace posible
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2020_10/047.jpg">

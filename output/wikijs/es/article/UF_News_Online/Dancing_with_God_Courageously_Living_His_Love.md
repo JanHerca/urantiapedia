@@ -1,5 +1,5 @@
 ---
-title: "“Bailar con Dios: vivir su amor con valentía”"
+title: "«Bailar con Dios: vivir su amor con valentía»"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z

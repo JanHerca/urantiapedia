@@ -1,5 +1,5 @@
 ---
-title: "Announcements"
+title: "Anuncios"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -15,7 +15,7 @@ dateCreated: 2023-8-29T10:55:6Z
       <tr>
         <td>
         <a href="/es/article/Khatukhira_Bernard/What_The_Urantia_Book_Means_to_Me">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What The Urantia Book Means to Me</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que El libro de Urantia significa para mí</span>
         </a>
         </td>
         <td>
@@ -68,7 +68,7 @@ Portugués: [https://www.facebook.com/Funda%C3%A7%C3%A3o-Ur%C3%A2ntia-5112415326
       <tr>
         <td>
         <a href="/es/article/Khatukhira_Bernard/What_The_Urantia_Book_Means_to_Me">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What The Urantia Book Means to Me</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que El libro de Urantia significa para mí</span>
         </a>
         </td>
         <td>

@@ -15,7 +15,7 @@ dateCreated: 2023-8-29T10:55:6Z
       <tr>
         <td>
         <a href="/es/article/Mirela_Gradinariu_Kelpin/What_The_Urantia_Book_Means_to_Me">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What The Urantia Book Means to Me</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que El libro de Urantia significa para mí</span>
         </a>
         </td>
         <td>
@@ -66,7 +66,7 @@ Pueden inscribirse ya o aprovechar la oportunidad de preinscribirse (reservar su
       <tr>
         <td>
         <a href="/es/article/Mirela_Gradinariu_Kelpin/What_The_Urantia_Book_Means_to_Me">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">What The Urantia Book Means to Me</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lo que El libro de Urantia significa para mí</span>
         </a>
         </td>
         <td>

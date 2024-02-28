@@ -1,5 +1,5 @@
 ---
-title: "Science: The Interface of Evolution and Revelation"
+title: "Ciencia: la interfaz entre evolución y revelación"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
