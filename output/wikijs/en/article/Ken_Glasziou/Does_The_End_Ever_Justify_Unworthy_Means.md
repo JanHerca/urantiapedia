@@ -36,7 +36,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Ken Glasziou, Maleny, Queensland_
 
-According to _The URANTIA Book_, the Adamic default was more disastrous for us than the Lucifer rebellion. The reason — we missed out on having our genes upgraded, we have a gross deficiency of the violet race genes. These would have made us taller and increased the duration of our lives, but neither attribute has any obvious deleterious repercussions. The big loss seems to have been our potential for spiritual growth ([UB 34:7.4](/en/The_Urantia_Book/34#p7_4)).
+According to _The URANTIA Book_, the Adamic default was more disastrous for us than the Lucifer rebellion. The reason — we missed out on having our genes upgraded, we have a gross deficiency of the violet race genes. These would have made us taller and increased the duration of our lives, but neither attribute has any obvious deleterious repercussions. The big loss seems to have been our potential for spiritual growth (<a id="a38_423"></a>[UB 34:7.4](/en/The_Urantia_Book/34#p7_4)).
 
 The book tells us that this loss can be at least partially negated:
 
@@ -82,7 +82,7 @@ What would Jesus have done? Quite frankly, if such acts were really authorized b
 
 I have often given serious thought to what I really would have done in Peter's place. To be honest, I think if I had been Peter, I would have done much the same. I probably would have convinced myself that my motive was the highest — to help Jesus. I could not have done that by hiding like a coward among the olive trees. And if I had declared myself in that courtyard, I would have been arrested. What good would that have achieved? So I did what was expedient — nothing wrong with that.
 
-Then I see Jesus as he is led away. “Oh, my God! Why did Jesus look at me like that? Doesn't the end sometimes justify the means?” ([UB 184:2.8](/en/The_Urantia_Book/184#p2_8))
+Then I see Jesus as he is led away. “Oh, my God! Why did Jesus look at me like that? Doesn't the end sometimes justify the means?” (<a id="a84_132"></a>[UB 184:2.8](/en/The_Urantia_Book/184#p2_8))
 
 The book says:
 

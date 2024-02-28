@@ -82,7 +82,7 @@ There is yet another journey inward — the seven psychic circles. Starting with
 
 To some people it is a perilous journey. “True it is, you mortals are of earthly animal origin; your frame is indeed dust. But if you actually will, if you really desire, surely the heritage of the ages is yours, and you shall someday serve throughout the universes in your true characters — children of the Supreme God of experience and divine sons of the Paradise Father of all personalities”. (<a id="a82_397"></a>[UB 112:7.19](/en/The_Urantia_Book/112#p7_19))
 
-> “The goal of eternity is ahead! the adventure of divinity attainment lies before you! The race for perfection is on! whosoever will may enter, and certain victory will crown the efforts of every human being who will run the race of faith and trust, depending every step of the way on the leading of the indwelling Adjuster and on the guidance of that good spirit of the Universe Son, which so freely has been poured out upon all flesh”. (<a id="a84_438"></a>[UB 32:5.8](/en/The_Urantia_Book/32#p5_8))
+> “The goal of eternity is ahead! the adventure of divinity attainment lies before you! The race for perfection is on! whosoever will may enter, and certain victory will crown the efforts of every human being who will run the race of faith and trust, depending every step of the way on the leading of the indwelling Adjuster and on the guidance of that good spirit of the Universe Son, which so freely has been poured out upon all flesh”. (<a id="a84_440"></a>[UB 32:5.8](/en/The_Urantia_Book/32#p5_8))
 
 Madeline Noordzy, Melbourne
 

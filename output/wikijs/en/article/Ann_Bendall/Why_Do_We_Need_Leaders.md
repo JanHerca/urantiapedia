@@ -45,7 +45,7 @@ In seeking to know and to do the will of God, it is not so much what we do but h
 
 But we persist in wanting direct orders — to be told what to do. How can Jesus tell us the future! He knows full well that the future is God's. He knows full well that God will arm us, with all that is required to cope with and overcome any adversity which might come our way.
 
-Why should we be so distrustful? We don't mean to be but we are, and, in our anxiety we run to a loving brother or sister until we find one who is so eager for our love and approval that they disturb their own minds in order to fill our need. Then we sit at the feet of our gurus and delude ourselves. We ask them to make our decisions, to tell us our future and they oblige. The book tells us that Jesus sat at no man's feet ([UB 126:2.3](/en/The_Urantia_Book/126#p2_3)).
+Why should we be so distrustful? We don't mean to be but we are, and, in our anxiety we run to a loving brother or sister until we find one who is so eager for our love and approval that they disturb their own minds in order to fill our need. Then we sit at the feet of our gurus and delude ourselves. We ask them to make our decisions, to tell us our future and they oblige. The book tells us that Jesus sat at no man's feet (<a id="a47_427"></a>[UB 126:2.3](/en/The_Urantia_Book/126#p2_3)).
 
 In following our new found leader, we write our own future in the process, forcing our patient Thought Adjuster to throw away the preferred plan, in deference to our will. What do we think our Thought Adjuster is doing all day but trying to spiritualize us!
 

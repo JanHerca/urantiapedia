@@ -77,11 +77,11 @@ Today _The Urantia Book_ has 782 reviews on Amazon. If you haven't reviewed the 
 
 After 12 years in the making, Urantia Press has published a new book: _The Untold Story of Jesus—a Modern Biography from The Urantia Book_. The book's mission is to capture many of the great stories and teachings from the Master's life. If you've been hesitant to introduce your family and friends to the teachings of Jesus from the revelation, this book can help.
 
-The book has over 140,000 words from Part IV of _The Urantia Book_. “Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” <a id="a81_186"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
+The book has over 140,000 words from Part IV of _The Urantia Book_. “Of all human knowledge, that which is of greatest value is to know the religious life of Jesus and how he lived it.” <a id="a79_186"></a>[UB 196:1.3](/en/The_Urantia_Book/196#p1_3)
 
 The original editor spent nearly five years producing the first draft of the text. After she finished, an editorial team spent two years reviewing the manuscript. They ensured that the right parts of the right stories ended up in the text. Collectively, that editorial team had read _The Urantia Book_ for over 300 years. After they finished, a team of experienced book designers created maps, designed pages, and triple-checked for errors.
 
-There are 106 paintings by 35 of the best religious artists over the last 200 years. Many of the commissioned illustrations portray scenes only found in _The Urantia Book_. The paintings bring familiarity and gravitas to the majestic words found in Part IV. “The high mission of any art is, by its illusions, to foreshadow a higher universe reality, to crystallize the emotions of time into the thought of eternity.” <a id="a85_417"></a>[UB 48:7.23](/en/The_Urantia_Book/48#p7_23)
+There are 106 paintings by 35 of the best religious artists over the last 200 years. Many of the commissioned illustrations portray scenes only found in _The Urantia Book_. The paintings bring familiarity and gravitas to the majestic words found in Part IV. “The high mission of any art is, by its illusions, to foreshadow a higher universe reality, to crystallize the emotions of time into the thought of eternity.” <a id="a83_417"></a>[UB 48:7.23](/en/The_Urantia_Book/48#p7_23)
 
 Please help and go to Amazon ([https://amzn.to/2Q7bSQA](https://amzn.to/2Q7bSQA)) and order the book. Once you receive it, please rate it. The quality and quantity of your ratings make a persuasive difference to potential buyers. We need 200 5-star reviews ASAP. Thank you!
 <br style="clear:both;"/>

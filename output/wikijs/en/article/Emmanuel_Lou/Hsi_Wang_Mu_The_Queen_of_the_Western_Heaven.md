@@ -94,7 +94,7 @@ The K'un Lung Mountains are not only identified with the Hindu Kush in Central A
 
 The early Jesuit missionaries identified Hsi Wang Mu with the Queen of Sheba. Another Western writer has also connected her with the Roman goddess Juno (Hera) and the Golden apples.
 
-We know, thanks to _The URANTIA Book_, that the legend of the Queen of the Western Heaven (Hsi Wang Mu) is close to the history of Eve in Eden. There are too many coincidences. On [UB 79:7.1](/en/The_Urantia_Book/79#p7_1) we read that the Andites entered in considerable numbers into China about fifteen thousand years ago. Also: “But the Andite traditions of the beauty of Eden and Dalamatia did influence Chinese traditions; early Chinese legends place ”the land of the gods“ in the west.” ([UB 79:7.4](/en/The_Urantia_Book/79#p7_4))
+We know, thanks to _The URANTIA Book_, that the legend of the Queen of the Western Heaven (Hsi Wang Mu) is close to the history of Eve in Eden. There are too many coincidences. On <a id="a96_180"></a>[UB 79:7.1](/en/The_Urantia_Book/79#p7_1) we read that the Andites entered in considerable numbers into China about fifteen thousand years ago. Also: “But the Andite traditions of the beauty of Eden and Dalamatia did influence Chinese traditions; early Chinese legends place ”the land of the gods“ in the west.” (<a id="a96_493"></a>[UB 79:7.4](/en/The_Urantia_Book/79#p7_4))
 
 The first Taoists had done a great deal of research to identify Hsi Wang Mu. Lie Tseu, one of the founders of Taoism, placed the land of immortals in an island somewhere in a Western country ... there is one question I have tried to solve: why the Chinese legend has emphasized the story of Eve and remained silent on Adam.
 

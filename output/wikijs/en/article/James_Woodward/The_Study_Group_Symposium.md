@@ -52,7 +52,7 @@ A recent survey of Urantia Book readers brought unwelcome news: Only twentysix p
 
 We may enjoy a weekly church attendance, and we may engage in personal and private spiritual practices, but how many of us celebrate religious activities in our study groups? The Chief of Urantia Midwayers offers some direction:
 
-> “But prayer need not always be individual. Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the groups; they are all made better because of participation.” <a id="a54_356"></a>[UB 91:5.2](/en/The_Urantia_Book/91#p5_2)
+> “But prayer need not always be individual. Group or congregational praying is very effective in that it is highly socializing in its repercussions. When a group engages in community prayer for moral enhancement and spiritual uplift, such devotions are reactive upon the individuals composing the groups; they are all made better because of participation.” <a id="a54_358"></a>[UB 91:5.2](/en/The_Urantia_Book/91#p5_2)
 
 Could there be an unrealized role for Urantia Book study groups, something that has not yet evolved beyond reading and discussion? Of course it takes deep study to understand deep new teachings, but can study groups help to establish the Father's will in the hearts and minds of mortals? Could study groups become dynamic centers of spiritual enthusiasm, reflecting the wise guidelines for true religious living outlined in _The Urantia Book_? What if they modeled the open-armed friendliness of Jesus and were willing to serve all sincere truth seekers?
 

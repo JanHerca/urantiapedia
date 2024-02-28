@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2023_10/003.jpg">
 </figure>
 
-## Volume 17, Issue 1. October 2023
+## Volume 17, Issue 3. October 2023
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2023_10/030.jpg">
@@ -104,7 +104,7 @@ This is a Urantian &reg; publication
 > Even so, in the name of the bestowal Son
 > And for the honor and glory of the Supreme Father.
 > 
-> [UB 144:5.104](/en/The_Urantia_Book/144#p5_104)
+> <a id="a106_2"></a>[UB 144:5.104](/en/The_Urantia_Book/144#p5_104)
 
 ## References
 

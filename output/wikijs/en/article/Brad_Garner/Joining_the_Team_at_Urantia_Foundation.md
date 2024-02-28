@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _By Brad Garner, Urantia Foundation, Arizona, United States_
 <br style="clear:both;"/>
 
-> “No chick may be had without the shell, and no shell is of any worth after the chick is hatched.” <a id="a42_100"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_32)
+> “No chick may be had without the shell, and no shell is of any worth after the chick is hatched.” <a id="a43_100"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_32)
 
 As a lifelong secondgeneration student of _The Urantia Book_, I'm the newest addition to the staff of Urantia Foundation. Until a few years ago I was an employee of the federal government, working on various natural-science projects and helping publish that material online. It was a rewarding job, and I am grateful for both the salary and the experience it provided me.
 
@@ -49,7 +49,7 @@ But to be honest, after 15 years it was becoming humdrum (there's a lot of paper
 
 Mindful of the warnings about secular totalitarianism in Paper 195, my favorite, I chose to make the leap out of the wastelands of the secular world. The shell had served me well; but I felt as if I had metaphorically hatched. It was time to be about other business.
 
-Not long after that personal sea change, I was singularly blessed to meet the love of my life. Ruthie and I married one year ago. Then along came an opportunity to begin helping Urantia Foundation with the website, using the computer skills and project management craft l've accumulated through degrees, books, and the school of hard knocks—wisdom borne of tribulation as declared in <a id="a50_384"></a>[Section 7 of Paper 48](/en/The_Urantia_Book/48#p7).
+Not long after that personal sea change, I was singularly blessed to meet the love of my life. Ruthie and I married one year ago. Then along came an opportunity to begin helping Urantia Foundation with the website, using the computer skills and project management craft l've accumulated through degrees, books, and the school of hard knocks—wisdom borne of tribulation as declared in <a id="a51_384"></a>[Section 7 of Paper 48](/en/The_Urantia_Book/48#p7).
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_03/045.jpg">

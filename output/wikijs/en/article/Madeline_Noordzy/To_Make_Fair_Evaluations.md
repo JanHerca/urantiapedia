@@ -44,7 +44,7 @@ On UB 114:7.13 a mysterious paragraph in brackets
 
 On UB 55:3.11, _The URANTIA Book_ tells us:
 
-> “_When a settled world progresses beyond the third stage of light and life, all ascenders are destined, before attaining the minor sector, to receive some sort of transient assignment on a planet passing through the earlier stages of evolution._” <a id="a46_247"></a>[UB 55:3.11](/en/The_Urantia_Book/55#p3_11)
+> “_When a settled world progresses beyond the third stage of light and life, all ascenders are destined, before attaining the minor sector, to receive some sort of transient assignment on a planet passing through the earlier stages of evolution._” <a id="a46_249"></a>[UB 55:3.11](/en/The_Urantia_Book/55#p3_11)
 
 I am asking myself now whether this cosmic reserve corps are ascenders from other worlds who are on a “transient assignment” here on Urantia because they put their hands up when volunteers were needed to help advance this backward planet during this renaissance of spiritual awakening. They would not be ‘chosen ones’, they volunteered. There is a difference!
 

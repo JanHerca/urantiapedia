@@ -66,9 +66,9 @@ Can you imagine Jesus telling an apostle that, if they should write an article f
 
 A man named Aden was teaching in Jesus' name in the village of Ashtaroth. The apostle John did not like it, so he forbade the man to do so. On relating this to Jesus, the Master said:
 
-> “_Forbid him not. Do you not perceive that this gospel of the kingdom shall presently be proclaimed in all the world? How can you expect that all who will believe the gospel shall be subject to your direction?_” (<a id="a67_215"></a>[UB 159:2.1](/en/The_Urantia_Book/159#p2_1))
+> “_Forbid him not. Do you not perceive that this gospel of the kingdom shall presently be proclaimed in all the world? How can you expect that all who will believe the gospel shall be subject to your direction?_” (<a id="a68_215"></a>[UB 159:2.1](/en/The_Urantia_Book/159#p2_1))
 
-Aden was not taken to court. In fact he raised up a considerable company of believers at Kanata before going on to Mesopotamia (<a id="a69_128"></a>[UB 159:2.4](/en/The_Urantia_Book/159#p2_4)).
+Aden was not taken to court. In fact he raised up a considerable company of believers at Kanata before going on to Mesopotamia (<a id="a70_128"></a>[UB 159:2.4](/en/The_Urantia_Book/159#p2_4)).
 
 **3. What are the likely consequences of loss of copyright of _The URANTIA Book_?**
 
@@ -76,13 +76,13 @@ The URANTIA Foundation was set up as a nonprofit organization. We see its main t
 
 Some say we must protect the book. Protect it from what? This divine revelation is safe, it has no need of human defenders. What if another publisher chose to print and distribute the book? Perhaps the text would be altered! There are many publishers of the Bible. All aim to sell as many copies as possible. So they want the most authentic text that they can get. This opinion was put forward strongly by French readers at the 2nd International Conference near Paris in 1989. Many French readers eagerly await their new translation because they believe it will be more authentic than the Weiss translation, which, with 7 out of 10 for merit, has already served them well.
 
-> “Be Willing To Suffer Injustice Rather Than To Go To Law Among Yourselves.” ([UB 140:3.14](/en/The_Urantia_Book/140#p3_14))
+> “Be Willing To Suffer Injustice Rather Than To Go To Law Among Yourselves.” (<a id="a78_79"></a>[UB 140:3.14](/en/The_Urantia_Book/140#p3_14))
 
 Some may say that perhaps the book would be published in comic book form. If it is done well, many may get the message of the gospel of the kingdom who would otherwise have missed out. Some of these would eventually want the real thing. And if it is done badly, it wont sell. An illustrated book is another possibility. If that is done well, then it too will introduce new readers. Eventually the serious ones will want the real thing.
 
 The sale of _The URANTIA Book_ is not the number one priority. The number of people who receive and accept the true gospel of the kingdom from any source whatsoever, that is what is important. And if that happens, then the following exhortation from the book itself will be fulfilled:
 
-> “_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness._” (<a id="a83_306"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
+> “_The religious challenge of this age is to those farseeing and forward-looking men and women of spiritual insight who will dare to construct a new and appealing philosophy of living out of the enlarged and exquisitely integrated modern concepts of cosmic truth, universe beauty, and divine goodness._” (<a id="a84_306"></a>[UB 2:7.10](/en/The_Urantia_Book/2#p7_10))
 
 > This divine revelation is safe, it has no need of human defenders.
 
@@ -94,13 +94,13 @@ That is scarcely a necessary question. But if you are helping a person or a grou
 
 **5. Is the current situation real or have we, like Alice, stepped through the looking glass? It is difficult to say. Conclusions:**
 
-> “_The Father in heaven loves his children, and therefore should you lean to love one another; the Father in heaven forgives you your sins; therefore should you learn to forgive one another. If your brother sins against you, go to him and with tact and patience show him his fault. And do all this between you and him alone. If he will listen to you, then have you won your brother. But if your brother will not hear you, if he persists in the error of his way, go again to him, taking with you one or two mutual friends that you may thus have two or even three witnesses to confirm your testimony and establish the fact that you have dealt justly and mercifully with your offending brother. Now if he refuses to hear your brethren, you may tell the whole story to the congregation, and then, if he refuses to hear the brotherhood, let them take such action as they deem wise._” (<a id="a95_881"></a>[UB 159:1.3](/en/The_Urantia_Book/159#p1_3))
+> “_The Father in heaven loves his children, and therefore should you lean to love one another; the Father in heaven forgives you your sins; therefore should you learn to forgive one another. If your brother sins against you, go to him and with tact and patience show him his fault. And do all this between you and him alone. If he will listen to you, then have you won your brother. But if your brother will not hear you, if he persists in the error of his way, go again to him, taking with you one or two mutual friends that you may thus have two or even three witnesses to confirm your testimony and establish the fact that you have dealt justly and mercifully with your offending brother. Now if he refuses to hear your brethren, you may tell the whole story to the congregation, and then, if he refuses to hear the brotherhood, let them take such action as they deem wise._” (<a id="a96_881"></a>[UB 159:1.3](/en/The_Urantia_Book/159#p1_3))
 
-> “_You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another._” (<a id="a97_489"></a>[UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
+> “_You well know the commandment which directs that you love one another; that you love your neighbor even as yourself. But I am not wholly satisfied with even that sincere devotion on the part of my children. I would have you perform still greater acts of love in the kingdom of the believing brotherhood. And so I give you this new commandment: That you love one another even as I have loved you. And by this will all men know that you are my disciples if you thus love one another._” (<a id="a98_489"></a>[UB 180:1.1](/en/The_Urantia_Book/180#p1_1))
 
 How can we pretend to be believers in and witnesses to the Fifth Epochal Revelation in the light of the shameful behavior that has been evident from all levels of the URANTIA movement these last several years? How can personal and slanderous attacks of individuals upon one another be justified? How can we excuse or justify litigation in the law courts against individual brothers and sisters with no semblance of an attempt at communication or reconciliation first having been made?
 
-> “_Jesus loved men so much because he placed such a high value on them. You can best discover values in your associates by discovering their motivation. If someone irritates you, causes feelings of resentment, you should sympathetically seek to discern his viewpoint, his reasons for such objectionable conduct. If once you understand your brother, you will become tolerant, and this tolerance will grow into friendship and ripen into love._” (<a id="a101_445"></a>[UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
+> “_Jesus loved men so much because he placed such a high value on them. You can best discover values in your associates by discovering their motivation. If someone irritates you, causes feelings of resentment, you should sympathetically seek to discern his viewpoint, his reasons for such objectionable conduct. If once you understand your brother, you will become tolerant, and this tolerance will grow into friendship and ripen into love._” (<a id="a102_445"></a>[UB 100:4.4](/en/The_Urantia_Book/100#p4_4))
 
 Is this not a command that we, too, must place a high value on our brothers and sisters?
 
@@ -108,7 +108,7 @@ Many of the recent deviations from the legitimate pathway of loving service have
 
 What would happen if these powers were revoked? Whatever happens could hardly be worse than what is now happening, behavior that exhibits not the faintest sign of the brotherly and sisterly love that the Master expects from us. In a post-resurrection appearance he said:
 
-> “_You are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and starting affection, even as I have loved you. And when men see that you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith fellows of the kingdom of heaven and they will follow after the Spirit of Truth which they see in your lives._” (<a id="a109_438"></a>[UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
+> “_You are all to proclaim this gospel of love and truth by the lives which you live in the flesh. You shall love one another with a new and starting affection, even as I have loved you. And when men see that you so love them, and when they behold how fervently you serve them, they will perceive that you have become faith fellows of the kingdom of heaven and they will follow after the Spirit of Truth which they see in your lives._” (<a id="a110_438"></a>[UB 191:6.2](/en/The_Urantia_Book/191#p6_2))
 
 Are we going to fail our Master, or are we prepared to try again to tread the true pathway to brotherly love?
 

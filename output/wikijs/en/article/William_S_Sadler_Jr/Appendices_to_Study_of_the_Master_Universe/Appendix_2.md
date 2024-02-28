@@ -84,7 +84,7 @@ _The materialization of Havona._ Did triata, which constitutes the physical stru
 
 The master universe is a creation of time and space (and of transcended time and space). We are not informed concerning the origin of transcended-time (super-time) but we are instructed that time proper is something that is derived from Paradise. Time is another quality of reality that relates Paradise to the master creation. Concerning time, and its bestowal by Paradise, the Papers inform us as follows:
 
-> <a id=“s86_2”></a>[UB 11:2.10](/en/The_Urantia_Book/11#p2_10) “Paradise exists without time,” but the minds of the citizens of Paradise “. . . are fully conscious of non-time sequence of events.”
+> <a id=“s86_2”></a><a id="s86_20"></a>[UB 11:2.10](/en/The_Urantia_Book/11#p2_10) “Paradise exists without time,” but the minds of the citizens of Paradise “. . . are fully conscious of non-time sequence of events.”
 > 
 > <a id="s88_2"></a>[UB 12:5.1](/en/The_Urantia_Book/12#p5_1) Paradise bestows time, but not the same way as space; it bestows it indirectly.
 > 

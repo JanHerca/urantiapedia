@@ -62,7 +62,7 @@ Other African presenters included Charity Charles, Shola Agagu, David Onche, Chi
 
 UPI is grateful for the financial support it received from the Mustard Seed Grants Program of Urantia Foundation. We are also grateful to the Urantia Book Fellowship’s International Committee for providing part of the matching funds that made this event possible. And last, but certainly not least, UPI wishes to wholeheartedly thank all participants of this event for making it informative as well as enjoyable!
 
-> “Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments.” [UB 100:4.6](/en/The_Urantia_Book/100#p4_6)
+> “Love is only born of thoroughgoing understanding of your neighbor’s motives and sentiments.” <a id="a64_96"></a>[UB 100:4.6](/en/The_Urantia_Book/100#p4_6)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2023_10/020.jpg">

@@ -65,7 +65,7 @@ In response to our article on “The importance of Language” in the September 
 
 ---
 
-> “Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, ‘This is the way.’” (<a id="a67_451"></a>[UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
+> “Having started out on the way of life everlasting, having accepted the assignment and received your orders to advance, do not fear the dangers of human forgetfulness and mortal inconstancy, do not be troubled with doubts of failure or by perplexing confusion, do not falter and question your status and standing, for in every dark hour, at every crossroad in the forward struggle, the Spirit of Truth will always speak, saying, ‘This is the way.’” (<a id="a67_452"></a>[UB 34:7.8](/en/The_Urantia_Book/34#p7_8))
 
 ## We Are “Quivering On The Brink” !
 
@@ -81,7 +81,7 @@ On <a id="a79_3"></a>[UB 99:1.3](/en/The_Urantia_Book/99#p1_3) the Book states: 
 
 On <a id="a81_3"></a>[UB 114:4.4](/en/The_Urantia_Book/114#p4_4) we read: “A Most High observer is empowered, at his discretion, to seize the planetary government in times of grave planetary crises, and it is of record that this has happened thirty-three times in the history of Urantia.” (Pages <a id="a81_278"></a>[UB 43:5.17](/en/The_Urantia_Book/43#p5_17) and <a id="a81_326"></a>[UB 175:1.8](/en/The_Urantia_Book/175#p1_8) seem to tell us two of those times.)
 
-And then on <a id="a83_12"></a>[UB 134:5.1](/en/The_Urantia_Book/134#p5_1) it tells us that the evolution of our political sovereignty is NOW in a CRITICAL stage. And on [UB 134:5.3](/en/The_Urantia_Book/134#p5_3) it reminds us that “Some day civil rulers will learn that the Most Highs rule in the kingdoms of men” — not the kingdom of GOD — but of MEN.
+And then on <a id="a83_12"></a>[UB 134:5.1](/en/The_Urantia_Book/134#p5_1) it tells us that the evolution of our political sovereignty is NOW in a CRITICAL stage. And on <a id="a83_151"></a>[UB 134:5.3](/en/The_Urantia_Book/134#p5_3) it reminds us that “Some day civil rulers will learn that the Most Highs rule in the kingdoms of men” — not the kingdom of GOD — but of MEN.
 
 So it seems that exciting times are even now at our doorstep. We haven't yet had a Magisterial Son. On page 594 it tells us that when a Paradise Avonal comes on a first magisterial mission he ALWAYS is incarnated. He's not born as a babe like a Bestowal Son, but maybe just appears like Machiventa Melchizedek did.
 

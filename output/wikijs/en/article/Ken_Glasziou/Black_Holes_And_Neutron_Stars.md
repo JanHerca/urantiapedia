@@ -54,7 +54,7 @@ Ken Glasziou, Maleny, Qld.
 
 ## References
 
-- _The URANTIA Book_, pp. <a id="a56_24"></a>[UB 41:7.14](/en/The_Urantia_Book/41#p7_14), <a id="a56_69"></a>[UB 15:6.11](/en/The_Urantia_Book/15#p6_11), <a id="a56_114"></a>[UB 57:5.4](/en/The_Urantia_Book/57#p5_4).
+- _The URANTIA Book_, pp. <a id="a56_26"></a>[UB 41:7.14](/en/The_Urantia_Book/41#p7_14), <a id="a56_71"></a>[UB 15:6.11](/en/The_Urantia_Book/15#p6_11), <a id="a56_116"></a>[UB 57:5.4](/en/The_Urantia_Book/57#p5_4).
 
 - Hoyle and Norliker, “The Physics-Astronomy Frontier” (1980), p. 205. (Freeman \& Co.)
 

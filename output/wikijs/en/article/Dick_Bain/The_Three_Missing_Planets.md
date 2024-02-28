@@ -33,7 +33,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 On <a id="a33_3"></a>[UB 57:5.9](/en/The_Urantia_Book/57#p5_9) of _The URANTIA Book_, we are informed that five inner planets, Jupiter, Saturn, and five outer planets formed the material drawn out from our sun by the passing Angona system. This adds up to 12 planets, but we are only taught about nine in school. Where are the other three?
 
-One of the missing planets is easy to account for. On [UB 57:6.5](/en/The_Urantia_Book/57#p6_5) we read that the fifth planet from the sun was pulled apart when it passed too close to Jupiter. The debris from this planet forms the present astroid belt that lies between Mars and Jupiter. This leaves two planets unaccounted for.
+One of the missing planets is easy to account for. On <a id="a35_54"></a>[UB 57:6.5](/en/The_Urantia_Book/57#p6_5) we read that the fifth planet from the sun was pulled apart when it passed too close to Jupiter. The debris from this planet forms the present astroid belt that lies between Mars and Jupiter. This leaves two planets unaccounted for.
 
 Within the past several years, astronomers studying Pluto and its companion Charon have decided that Charon may not be a satellite of Pluto; this system may be two planets orbiting about a common point. If this is true, then only one planet is left unaccounted for..
 

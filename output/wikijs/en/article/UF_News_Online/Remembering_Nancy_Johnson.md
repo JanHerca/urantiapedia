@@ -47,7 +47,7 @@ There were six charter members, three each from each organization. Nancy represe
 
 Nancy’s time working on the SRT was limited due to her deteriorating eyesight. Eventually her sight was gone, yet her faith in the revelation of God and his universe remained steady and illuminated her path into darkness.
 
-Jesus said to a blind man that he met on his way to Jerusalem, “You shall receive your sight; go your way; your faith has made you whole.” [UB 171:5.3](/en/The_Urantia_Book/171#p5_3) Said Marilynn, “I believe that Nancy's faith made her whole, and I will never forget the gifts she gave us in her perseverance, scholarship, and love of the revelation.”
+Jesus said to a blind man that he met on his way to Jerusalem, “You shall receive your sight; go your way; your faith has made you whole.” <a id="a49_139"></a>[UB 171:5.3](/en/The_Urantia_Book/171#p5_3) Said Marilynn, “I believe that Nancy's faith made her whole, and I will never forget the gifts she gave us in her perseverance, scholarship, and love of the revelation.”
 
 Jay Peregrine, former executive director of Urantia Foundation, reminisced about working with Nancy on the SRT project. “She was always an even match for minds such as Merritt Horn’s and was a keen stickler for details even as she struggled with her sight issues.”
 

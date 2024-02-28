@@ -68,7 +68,7 @@ All who have participated in and contributed to this service throughout its hist
 
 "It had not occurred to me, when I joined PIRT at its formation 17 years ago, that our group would be participating in realizing a morontia mota teaching. But here it is:
 
-> Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love. <a id="a70_92"></a>[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)
+> Knowledge is possessed only by sharing; it is safeguarded by wisdom and socialized by love. <a id="a70_94"></a>[UB 48:7.28](/en/The_Urantia_Book/48#p7_28)
 
 “I will tell you this: inmates can ask difficult questions! This one, for example: 'After reading ”Government on a Neighboring Planet" in dealing with crime, sentencing to life in detention colonies those believed to be potential criminals is marked as a positive era of law. What does that mean?
 

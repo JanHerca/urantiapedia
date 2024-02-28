@@ -68,7 +68,7 @@ For more details, including a link to register, visit [https://urantiabook.org/i
 
 **Friday, June 14, and Saturday, June 15, 2024**
 
-> “The family occupied the very center of Jesus’ philosophy in life—here and hereafter. He based his teachings about God on the family.” [UB 140:8.14](/en/The_Urantia_Book/140#p8_14)
+> “The family occupied the very center of Jesus’ philosophy in life—here and hereafter. He based his teachings about God on the family.” <a id="a70_137"></a>[UB 140:8.14](/en/The_Urantia_Book/140#p8_14)
 
 It is difficult to overemphasize the significance of the role of the home and family in society and civilization in general. The individual family units are the building blocks of a civilization. Families do not live and die; they continue, generation after generation, as permanent sociological rivers, providing a channel through which human values, social achievements, and religious insights pass on to nourish and energize future civilizations and on into the eras of light and life. By fostering functional, love-dominated, and spiritually fragrant families that produce service-oriented, well-adjusted, and loyal citizens, homes are contributing immensely to the cultural progress on our world.
 
@@ -83,7 +83,7 @@ If you are interested in presenting, please contact [joanne@urantia.org](mailto:
 
 ## The Nature and Nurture of the Soul
 
-> _Mind is your ship, the Adjuster is your pilot, the human will is captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to guide the ascending soul into the morontia harbors of eternal survival._ [UB 111:1.9](/en/The_Urantia_Book/111#p1_9)
+> _Mind is your ship, the Adjuster is your pilot, the human will is captain. The master of the mortal vessel should have the wisdom to trust the divine pilot to guide the ascending soul into the morontia harbors of eternal survival._ <a id="a85_234"></a>[UB 111:1.9](/en/The_Urantia_Book/111#p1_9)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/020.jpg">

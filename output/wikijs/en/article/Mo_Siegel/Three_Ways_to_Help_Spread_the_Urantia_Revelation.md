@@ -91,7 +91,7 @@ Schedule a study group in your weekly routine. Your involvement is vital for tho
 
 Please work with your fellow believers in accomplishing these three crucial tasks. We can do this!
 
-> Just as certainly as men share their religious beliefs, they create a religious group of some sort which eventually creates common goals. Someday religionists will get together and actually effect co-operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. Goals rather than creeds should unify religionists. <a id="a95_405"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)
+> Just as certainly as men share their religious beliefs, they create a religious group of some sort which eventually creates common goals. Someday religionists will get together and actually effect co-operation on the basis of unity of ideals and purposes rather than attempting to do so on the basis of psychological opinions and theological beliefs. Goals rather than creeds should unify religionists. <a id="a93_405"></a>[UB 99:5.7](/en/The_Urantia_Book/99#p5_7)
 
 
 ## References

@@ -64,9 +64,9 @@ _The URANTIA Book_ has lots to say about the necessity to enter the kingdom by f
 
 > “_By faith, recognize the indwelling spirit of God whose acceptance makes you a son of God._” (<a id="a64_97"></a>[UB 150:5.2](/en/The_Urantia_Book/150#p5_2))
 
-> “_Salvation is by the regeneration of the spirit and not by self-righteous deeds of the flesh. You are justified by faith and fellowshipped by grace._” ([UB 143:2.6](/en/The_Urantia_Book/143#p2_6))
+> “_Salvation is by the regeneration of the spirit and not by self-righteous deeds of the flesh. You are justified by faith and fellowshipped by grace._” (<a id="a66_155"></a>[UB 143:2.6](/en/The_Urantia_Book/143#p2_6))
 
-> “_Salvation is the gift of the Father and is revealed by his Sons. Acceptance by faith on your part makes you a partaker of the divine nature, a son or a daughter of God. By faith you are justified; by faith are you saved; and by this same faith are you eternally advanced in the way of progressive and divine perfection._” ([UB 150:5.3](/en/The_Urantia_Book/150#p5_3))
+> “_Salvation is the gift of the Father and is revealed by his Sons. Acceptance by faith on your part makes you a partaker of the divine nature, a son or a daughter of God. By faith you are justified; by faith are you saved; and by this same faith are you eternally advanced in the way of progressive and divine perfection._” (<a id="a68_327"></a>[UB 150:5.3](/en/The_Urantia_Book/150#p5_3))
 
 There's lots, lots more on faith in the book, but I like this one:
 

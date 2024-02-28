@@ -49,7 +49,7 @@ Kathleen Swadling, 7 Walsh St. Narrabeen, NSW. 2101. PH. (02) 9137893
 
 ## “Thought For The Month” 
 
-> “Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons -human or divine- is an end in itself. And such fellowship with the personality of Deity is the eternal goal of universe ascension.” (_The URANTIA Book_ <a id="a54_85"></a>[UB 112:2.8](/en/The_Urantia_Book/112#p2_8))
+> “Everything nonspiritual in human experience, excepting personality, is a means to an end. Every true relationship of mortal man with other persons -human or divine- is an end in itself. And such fellowship with the personality of Deity is the eternal goal of universe ascension.” (_The URANTIA Book_ <a id="a51_303"></a>[UB 112:2.8](/en/The_Urantia_Book/112#p2_8))
 
 ## Dear friends of the URANTIA Movement:
 

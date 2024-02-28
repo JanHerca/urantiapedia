@@ -88,7 +88,7 @@ All too often we doubt ourselves and rush off to check on whether we're doing it
 
 “The Bible told me so” or “It's in _The URANTIA Book_” just doesn't cut it. It's not a real enough authority when it comes to doing the will of God. Only God is.
 
-> “Go now apart by yourselves, each man alone with the Father, and there find the unemotional answer to my question, and having found such a true and sincere attitude of soul, speak that answer freely and boldly to my Father and your Father, whose infinite life of love is the very spirit of the religion we proclaim.” (<a id="a90_318"></a>[UB 155:5.14](/en/The_Urantia_Book/155#p5_14))
+> “Go now apart by yourselves, each man alone with the Father, and there find the unemotional answer to my question, and having found such a true and sincere attitude of soul, speak that answer freely and boldly to my Father and your Father, whose infinite life of love is the very spirit of the religion we proclaim.” (<a id="a90_320"></a>[UB 155:5.14](/en/The_Urantia_Book/155#p5_14))
 
 Some of us “spread the gospel” by introducing others to _The URANTIA Book_, thinking perhaps that it is the acme of spirit. And many times we witness the hungry soul who is in our presence depart, having received no spiritual nourishment at all ... and we are left with an open _URANTIA Book_ and a longing in our heart for “the right thing to have said”.
 

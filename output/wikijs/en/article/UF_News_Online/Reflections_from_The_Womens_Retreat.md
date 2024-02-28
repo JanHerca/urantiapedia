@@ -77,7 +77,7 @@ It was truly an honor to be part of this weekend women's retreat. Everyone who a
 <figcaption><em>Carrie Prentice, South Dakota, United States</em></figcaption>
 </figure>
 
-On Sunday, I led the group in examining what _The Urantia Book_ explicitly says about the differences between men and women, in consideration of the Urantia Revelation being addressed to an early 20^th^ century audience. For example, we considered the significance of this statement, “Woman, however, has always been the moral standard-bearer and the spiritual leader of mankind.” <a id="a75_381"></a>[UB 84:6.4](/en/The_Urantia_Book/84#p6_4)
+On Sunday, I led the group in examining what _The Urantia Book_ explicitly says about the differences between men and women, in consideration of the Urantia Revelation being addressed to an early 20^th^ century audience. For example, we considered the significance of this statement, “Woman, however, has always been the moral standard-bearer and the spiritual leader of mankind.” <a id="a79_381"></a>[UB 84:6.4](/en/The_Urantia_Book/84#p6_4)
 
 The group also reviewed Jesus' establishment of the women's corps who accompanied the apostles on the third teaching tour.
 

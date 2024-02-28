@@ -79,7 +79,7 @@ I believe we were all led to _The Urantia Book_, and now it is our turn to lead 
 
 This morning's meditation comes to a close, and as we sit in this historical room, we are inspired with one another's insights and inspirations. We asked for guidance, and we got it. The rest of the day will be devoted to discussing how to apply our ideals and actualize our insights. I am quite aware that we are not alone, that this is really the project of our unseen friends. Through the actions of worship and wisdom, we allow ourselves to become their associates and temporary actors in this ongoing drama.
 
-> “Human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail.” <a id="a91_120"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33)
+> “Human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail.” <a id="a81_120"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33)
 
 And now our day begins...
 

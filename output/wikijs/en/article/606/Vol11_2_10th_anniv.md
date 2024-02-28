@@ -1316,7 +1316,7 @@ _Six-O-Six is a great place to share our insights with other readers, but it als
 
 **Why aren't they knocking on my door?**
 
-> “The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” (<a id="a1319_180"></a>[UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
+> “The extent to which you have to go with your message to the people is, in a way, the measure of your failure to live the whole or righteous life, the truth-co-ordinated life.” (<a id="a1318_180"></a>[UB 155:1.5](/en/The_Urantia_Book/155#p1_5))
 
 Maybe people are knocking on your door, asking what you have got, or begging you to sell them your URANTIA Book, but they are giving my door a Wide berth. And out there in the big world I have had a few people observe a difference between me and themselves which they labelled “crazy”!
 

@@ -63,7 +63,7 @@ When I read _The Urantia Book_ I feel myself in expansion, as a bird might feel 
 <img src="/image/article/UF_News_Online/2013_06/064.jpg">
 </figure>
 
-Let us not allow such connection to disappear when performing our daily duties! Let it become a daily ritual, a part of us that we cannot live without! Let us fight against our limitations and bravely pass every test life gives us. Let us “_learn to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable._” <a id="a58_534"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3).
+Let us not allow such connection to disappear when performing our daily duties! Let it become a daily ritual, a part of us that we cannot live without! Let us fight against our limitations and bravely pass every test life gives us. Let us “_learn to feast upon uncertainty, to fatten upon disappointment, to enthuse over apparent defeat, to invigorate in the presence of difficulties, to exhibit indomitable courage in the face of immensity, and to exercise unconquerable faith when confronted with the challenge of the inexplicable._” <a id="a65_536"></a>[UB 26:5.3](/en/The_Urantia_Book/26#p5_3).
 
 Let us not forget who we are and where are we going! Let us remember every day the commitment we have taken to search for truth. And with such a great revelation in our hands, let us put the teachings into practice, not just by believing them, but by living them motivated by love, activated by unselfish ministry, and with a true connection with our Father.
 

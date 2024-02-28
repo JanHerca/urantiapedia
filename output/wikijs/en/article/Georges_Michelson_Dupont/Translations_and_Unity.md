@@ -105,7 +105,7 @@ It should be noted that several revisions might be necessary to reach the goal.
 
 ## Are several translations of _The Urantia Book_ in a given language desirable?
 
-To properly answer this question requires abandoning the egoistic and partial human point of view and considering the longterm development, the best interest of the readership, and the unity of our brotherhood of believers in the revelation; as we read in Paper 195, “a house divided in itself cannot stand.” <a id="a106_309"></a>[UB 195:10.11](/en/The_Urantia_Book/195#p10_11)
+To properly answer this question requires abandoning the egoistic and partial human point of view and considering the longterm development, the best interest of the readership, and the unity of our brotherhood of believers in the revelation; as we read in Paper 195, “a house divided in itself cannot stand.” <a id="a107_309"></a>[UB 195:10.11](/en/The_Urantia_Book/195#p10_11)
 
 Frankly, I believe that our unseen friends are not supportive of having several translations in the same language for the following reason: Unlike the Bible, _The Urantia Book_ is a single, original text that comes from divine sources in the English language; it is the basis for producing accurate and beautiful translations. Since the source is authentic, different translations in the same language are unnecessary. Rather than creating multiple translations with different terminology in one language, we can improve a single translation to the point that it is 99.99% accurate and beautiful and satisfying for all readers. You, who are able to read the original text in English—would you appreciate having multiple and different English texts of _The Urantia Book_ with different terminology in your study group, causing great confusion?
 
@@ -127,7 +127,7 @@ As explained earlier, Urantia Foundation has developed a procedure and a method 
 
 We have a successful precedent with the Standard Reference Text Committee in an effort of two parties to cooperate in order to publish an identical text instead of competing with two slightly different versions. Why should we not come together and cooperate to produce a single, accurate, and beautiful translation for the benefit of the readership and for generations to come?
 
-Throughout the earlier ages of any world, competition is essential to progressive civilization. As the evolution of man progresses, cooperation becomes increasingly effective. In advanced civilizations co-operation is more efficient than competition. Early man is stimulated by competition. Early evolution is characterized by the survival of the biologically fit, but later civilizations are better promoted by intelligent co-operation, understanding fraternity, and spiritual brotherhood. <a id="a128_491"></a>[UB 71:5.3](/en/The_Urantia_Book/71#p5_3)
+Throughout the earlier ages of any world, competition is essential to progressive civilization. As the evolution of man progresses, cooperation becomes increasingly effective. In advanced civilizations co-operation is more efficient than competition. Early man is stimulated by competition. Early evolution is characterized by the survival of the biologically fit, but later civilizations are better promoted by intelligent co-operation, understanding fraternity, and spiritual brotherhood. <a id="a129_491"></a>[UB 71:5.3](/en/The_Urantia_Book/71#p5_3)
 
 
 ## References

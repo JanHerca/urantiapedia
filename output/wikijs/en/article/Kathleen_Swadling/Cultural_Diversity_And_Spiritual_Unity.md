@@ -50,7 +50,7 @@ I see that those of us here representing Australia, New Zealand, Tahiti, Fiji, H
 
 I would like to close with this thought. It is a quote from _The URANTIA Book_ on UB 54:6.3:
 
-> “Families, groups, nations, races, worlds, systems, constellations, and universes are relationships of association which possess individuality; and therefore does every member of any such group, large or small, reap the benefits and suffer the consequences of the right doing and the wrongdoing of all other members of the group concerned.” <a id="a52_341"></a>[UB 54:6.3](/en/The_Urantia_Book/54#p6_3)
+> “Families, groups, nations, races, worlds, systems, constellations, and universes are relationships of association which possess individuality; and therefore does every member of any such group, large or small, reap the benefits and suffer the consequences of the right doing and the wrongdoing of all other members of the group concerned.” <a id="a52_343"></a>[UB 54:6.3](/en/The_Urantia_Book/54#p6_3)
 
 <figure class="table chapter-navigator">
   <table>
