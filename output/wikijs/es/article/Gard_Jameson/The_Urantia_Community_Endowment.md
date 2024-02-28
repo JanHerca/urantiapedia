@@ -52,7 +52,7 @@ La junta del Fondo de Dotación de la Comunidad Urantia está compuesta por Cath
 <img src="/image/article/UF_News_Online/2008_06/024.jpg">
 </figure>
 
-Endowment funds ensure future translations
+Los fondos de dotación garantizan futuras traducciones
 
 > Seguir a Jesús significa compartir personalmente su fe religiosa y entrar en el espíritu de la vida del Maestro de servicio altruista a los hombres.
 

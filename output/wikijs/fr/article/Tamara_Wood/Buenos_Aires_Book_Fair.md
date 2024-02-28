@@ -56,6 +56,7 @@ Deux lecteurs, Alessandro Guarneri, et Luis Miguel Morales, ont créé un film v
 Et maintenant, pour la pièce de résistance : Un contrat de distribution avec Kier, un grand distributeur en Argentine, fut obtenu. Ils avaient un grand stand et avaient consacré toute une étagère au _El libro de Urantia_. tous les gens intéressés à acheter un Livre, étaient accompagnées là-bas._El libro de Urantia_ est maintenant vraiment disponible en Argentine.
 
 Un grand merci à tous ceux qui se sont impliqués : Augustin Arellano, Graciela Cristina Benedetti, Bert Cobb, Costas Diamantopoulos, Nicolàs Gelman, Alessandro Guaeneri, Marian Hughes, Nelida Oliver, Horacia Rico, Rogerio Reis da Silva, Carlos Rubinsky et Jorge Wilcik.
+<br style="clear:both;"/>
 
 > _El libro de Urantia_ est maintenant vraiment disponible en Argentine.
 

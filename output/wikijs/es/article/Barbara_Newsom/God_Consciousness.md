@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-3-número-3-sept-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-3-septiembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 3, Sept. 2009 — Índice</span>
         </a>
         </td>
@@ -81,7 +81,7 @@ Esperamos que se unan a nosotros el año que viene para explorar estos temas y o
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-3-número-3-sept-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-3-septiembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 3, Sept. 2009 — Índice</span>
         </a>
         </td>

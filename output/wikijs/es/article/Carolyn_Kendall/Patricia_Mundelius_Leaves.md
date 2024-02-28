@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Carolyn Kendall<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_News_Online/Comments_2007_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comentarios sobre Urantia Online</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patricia_Mundelius/Reflections">
+          <span class="pr-2">Reflexiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Carolyn Kendall_
@@ -34,3 +58,28 @@ Pat dejó la Junta en 1997, pero en 2003 aceptó regresar como Fideicomisaria Em
 - [Este artículo](https://www.urantia.org/news/2007-09/trustee-emerita-patricia-mundelius-leaves-expanded-board)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_News_Online/Comments_2007_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comentarios sobre Urantia Online</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patricia_Mundelius/Reflections">
+          <span class="pr-2">Reflexiones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

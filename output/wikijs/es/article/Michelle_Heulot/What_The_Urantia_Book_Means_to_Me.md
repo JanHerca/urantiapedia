@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-15-número-3-sept-2021">
+        <a href="/es/index/articles_uf_news_online#volumen-15-número-3-septiembre-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 3, Sept. 2021 — Índice</span>
         </a>
         </td>
@@ -84,7 +84,7 @@ Un vuelo hacia la libertad espiritual y un compromiso total con el amor universa
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-15-número-3-sept-2021">
+        <a href="/es/index/articles_uf_news_online#volumen-15-número-3-septiembre-2021">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 15, Número 3, Sept. 2021 — Índice</span>
         </a>
         </td>

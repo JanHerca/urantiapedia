@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Tamara Wood<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gard_Jameson/An_Educational_Initiative">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una iniciativa educativa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jay_Peregrine/Head_Office_History">
+          <span class="pr-2">Una breve historia de los propietarios de la sede de la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Tamara Wood, directora de ventas de la Fundación Urantia_
@@ -41,3 +65,28 @@ _El Libro de Urantia_ está disponible en México, y cualquiera que quiera/neces
 - [Este artículo](https://www.urantia.org/news/2007-09/distribution-el-libro-de-urantia)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Gard_Jameson/An_Educational_Initiative">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una iniciativa educativa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jay_Peregrine/Head_Office_History">
+          <span class="pr-2">Una breve historia de los propietarios de la sede de la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

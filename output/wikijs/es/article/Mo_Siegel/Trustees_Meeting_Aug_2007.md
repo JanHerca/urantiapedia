@@ -8,7 +8,31 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="tema v-card v-sheet--gris claro aclarar-3 px-2">© 2007 Mo Siegel<br>© 2007 Fundación Urantia</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Mo Siegel<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/Even_as_I_have_loved_you">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Así como yo te he amado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irmeli_Sjolie/Portuguese_Translation">
+          <span class="pr-2">La Fundación imprime una traducción al portugués</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Mo Siegel. Secretario, Fundación Urantia_
@@ -87,3 +111,28 @@ La tercera reunión trimestral terminó con esperanza, amor y entusiasmo dedicad
 - [Este artículo](https://www.urantia.org/news/2007-09/newsworthy-items-august-2007-trustee-meeting)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/Even_as_I_have_loved_you">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Así como yo te he amado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irmeli_Sjolie/Portuguese_Translation">
+          <span class="pr-2">La Fundación imprime una traducción al portugués</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

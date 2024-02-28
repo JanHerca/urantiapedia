@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Mo Siegel y Gard Jameson<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/Tension_the_Prerequisite_of_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La tensión: la condición previa del crecimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-3-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, número 3, diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mo_Siegel/Decisions_October_Trustees_Meeting">
+          <span class="pr-2">Decisiones de interés periodístico de la reunión de octubre de los fideicomisarios de la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Mo Siegel y Gard Jameson, Fideicomisarios_
@@ -52,3 +76,28 @@ Póngase en contacto con la Fundación Urantia para obtener más información so
 - [Este artículo](https://www.urantia.org/news/2007-12/urantia-foundation-launches-matching-fundraising-campaign-in-december-2007)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Seppo_Kanerva/Tension_the_Prerequisite_of_Growth">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La tensión: la condición previa del crecimiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-3-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, número 3, diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mo_Siegel/Decisions_October_Trustees_Meeting">
+          <span class="pr-2">Decisiones de interés periodístico de la reunión de octubre de los fideicomisarios de la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

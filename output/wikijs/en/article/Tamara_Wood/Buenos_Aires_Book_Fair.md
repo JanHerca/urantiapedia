@@ -55,6 +55,7 @@ Two readers, Alessandro Guarneri and Luis Miguel Morales, created a video with b
 And now, for the Cristina Benedetti pièce de résistance: A distribution contract with Kier, a large Argentine distributor, was secured. They had a large booth and dedicated an entire shelf to $E I$ Libro de Urantia. All people interested in purchasing a book were escorted there. El Libro de Urantia is now readily available in Argentina.
 
 A special thanks to all involved including: Augustin Arellano, Graciela Cristina Benedetti, Bert Cobb, Costas Diamantopoulos, Nicolás Gelman, Alessandro Guaeneri, Marian Hughes, Luis Miguel Morales, Nelida Oliver, Horacio Rico, Rogerio Reis da Silva, Carlos Rubinsky and Jorge Wilcik.
+<br style="clear:both;"/>
 
 > _El Libro de Urantia_ is now readily available in Argentina.
 

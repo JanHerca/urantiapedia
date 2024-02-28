@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Carolyn Kendall<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Irmeli_Sjolie/German_Translation_Brings_Readers_Together">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traducción al alemán une a los lectores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-3-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, número 3, diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Millennial_Reflections">
+          <span class="pr-2">Reflexiones Del Milenio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Carolyn Kendall Illinois, EE.UU._
@@ -34,3 +58,28 @@ Neal vive con su esposa, la ex Vanessa Wong, en un suburbio de Maryland en Washi
 - [Este artículo](https://www.urantia.org/news/2007-12/neal-waldrop-concludes-four-years-active-participation)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Irmeli_Sjolie/German_Translation_Brings_Readers_Together">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traducción al alemán une a los lectores</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-3-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, número 3, diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Neal_Waldrop/Millennial_Reflections">
+          <span class="pr-2">Reflexiones Del Milenio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -55,6 +55,7 @@ Dos lectores, Alessandro Guarneri y Luis Miguel Morales, crearon un video con be
 Y ahora, el plato fuerte: se aseguró el contrato con Kier, un gran distribuidor de Argentina. Ellos tenían un gran stand y dedicaron una estantería entera al _Libro de Urantia_. Todas las personas interesadas en comprarlo fueron redigiridas allí. Ahora _El libro de Urantia_ está fácilmente disponible en Argentina.
 
 Un agradecimiento especial a todos los implicados: Agustín Arellano, Graciela Cristina Benedetti, Bert Cobb, Costas Diamantopoulos, Nicolás Gelman, Alessandro Guaeneri, Marian Hugues, Luis Miguel Morales, Nélida Oliver, Horacio Rico, Rogerio Reis da Silva, Carlos Rubinsky y Jorge Wilcik.
+<br style="clear:both;"/>
 
 > Ahora _El Libro de Urantia_ está fácilmente disponible en Argentina.
 

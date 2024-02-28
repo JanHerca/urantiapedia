@@ -52,7 +52,7 @@ La UBIS es una buena forma de “conocer” a gente de todo el mundo. Actualment
 Con este formato no hay prejuicios basados en la apariencia física, no hay interferencias del lenguaje corporal ni del tono de voz. A medida que la clase progresa, las personalidades se revelan mediante sus pensamientos y percepciones. En cierto modo, es una reunión de mentes más espiritual que física.
 <br style="clear:both;"/>
 
-> «El entretenimiento estuvo proporcionado porel extraordinario pianista Bob Solone»
+> «El entretenimiento estuvo proporcionado por el extraordinario pianista Bob Solone»
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2009_03/039.jpg">

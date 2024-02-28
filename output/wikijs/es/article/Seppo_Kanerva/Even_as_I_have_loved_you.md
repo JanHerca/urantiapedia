@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Seppo Kanerva<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_News_Online/Welcome_Contact_Details_2007_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bienvenida e información de contacto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mo_Siegel/Trustees_Meeting_Aug_2007">
+          <span class="pr-2">Artículos de interés periodístico de la reunión de administradores de agosto de 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Seppo Kanerva. Presidente, Fundación Urantia._
@@ -38,3 +62,28 @@ Te amo.
 - [Este artículo](https://www.urantia.org/news/2007-09/even-i-have-loved-you)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_News_Online/Welcome_Contact_Details_2007_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bienvenida e información de contacto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mo_Siegel/Trustees_Meeting_Aug_2007">
+          <span class="pr-2">Artículos de interés periodístico de la reunión de administradores de agosto de 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Patricia Mundelius<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Patricia_Mundelius_Leaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fideicomisaria emérita Patricia Mundelius deja la junta ampliada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mo_Siegel/Help_Wanted">
+          <span class="pr-2">Se busca ayuda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Por Patricia Mundelius_
@@ -38,3 +62,28 @@ Cuando miro hacia atrás, a la década de 1990, cuando fui Presidente de los Fid
 - [Este artículo](https://www.urantia.org/news/2007-09/reflections)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Patricia_Mundelius_Leaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La fideicomisaria emérita Patricia Mundelius deja la junta ampliada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mo_Siegel/Help_Wanted">
+          <span class="pr-2">Se busca ayuda</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

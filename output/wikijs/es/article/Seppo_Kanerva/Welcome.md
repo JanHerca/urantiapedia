@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Seppo Kanerva<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_News_Online/Welcome_Contact_Details_2007_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bienvenida e información de contacto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-1-mayo-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, mayo 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mo_Siegel/Trustees_Meeting">
+          <span class="pr-2">Artículos de interés periodístico de la reunión de administradores de abril de 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -33,3 +57,28 @@ Durante muchos años fue necesario recortar drásticamente los gastos de la Fund
 - [Este artículo](https://www.urantia.org/news/2007-05/welcome)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/UF_News_Online/Welcome_Contact_Details_2007_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bienvenida e información de contacto</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-1-mayo-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 1, mayo 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Mo_Siegel/Trustees_Meeting">
+          <span class="pr-2">Artículos de interés periodístico de la reunión de administradores de abril de 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

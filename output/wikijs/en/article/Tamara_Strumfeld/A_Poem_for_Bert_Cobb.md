@@ -50,94 +50,94 @@ A few weeks ago, a group of Urantia Book readers celebrated Jesus' birthday at B
 
 **BERTITO BERT BERTIE**
 
-I remember the moment when I met Bert<br>
-It was summer 2004<br>
-We were hosting a conference for the then IUA<br>
-I was running _The Urantia Book_ store<br>
+I remember the moment when I met Bert
+It was summer 2004
+We were hosting a conference for the then IUA
+I was running _The Urantia Book_ store
 
-Well, I saw a man that I hadn't met yet<br>
-He had a particular charm<br>
-So I went over and told him my name<br>
-He just wrapped me in his big lovin' arms<br>
+Well, I saw a man that I hadn't met yet
+He had a particular charm
+So I went over and told him my name
+He just wrapped me in his big lovin' arms
 
-You see, Bert and I had heard of each other<br>
-Through friends that we both hold dear<br>
-And ever since that opening hug<br>
-Our friendship has been most sincere<br>
+You see, Bert and I had heard of each other
+Through friends that we both hold dear
+And ever since that opening hug
+Our friendship has been most sincere
 
-It's only been five years since l've known him <br>
-But we sure have had our fun <br>
-Be it packing into the Little Wood <br>
-Or walking in the Buenos Aires sun<br>
+It's only been five years since l've known him 
+But we sure have had our fun 
+Be it packing into the Little Wood 
+Or walking in the Buenos Aires sun
 
-And then there's the weeks we spent in Chicago <br>
-Bert came the past two years <br>
-We decked the halls at 533 <br>
-And spread lots of holiday cheer <br>
+And then there's the weeks we spent in Chicago 
+Bert came the past two years 
+We decked the halls at 533 
+And spread lots of holiday cheer 
 
-There were plenty of visits to old Jerome <br>
-The place in time and space <br>
-lorious walks in the Snake River Canyon <br>
-Bertie always kept a good pace<br>
+There were plenty of visits to old Jerome 
+The place in time and space 
+lorious walks in the Snake River Canyon 
+Bertie always kept a good pace
 
-Delicious meals, laughter, all our good jokes <br>
-I could go on all day<br>
-Cause when it comes to my Bertito<br>
-There's just so much to say<br>
+Delicious meals, laughter, all our good jokes 
+I could go on all day
+Cause when it comes to my Bertito
+There's just so much to say
 
-But there were also times of silence <br>
-That Bertie and I did share<br>
-Times of loving worship<br>
-Meditation and prayer<br>
+But there were also times of silence 
+That Bertie and I did share
+Times of loving worship
+Meditation and prayer
 
-We both do love the Father<br>
-At the center of all things<br>
-And we thank him for the peace of mind <br>
-That knowing him does bring<br>
+We both do love the Father
+At the center of all things
+And we thank him for the peace of mind 
+That knowing him does bring
 
-We also love this special time <br>
-Of the present revelation <br>
-It sure binds up the broken souls <br>
-With its spiritual medication<br>
+We also love this special time 
+Of the present revelation 
+It sure binds up the broken souls 
+With its spiritual medication
 
-It sheds great light on what's to come <br>
-The plan of our Ascension <br>
-nd how God draws us to his breast <br>
-Through spiritual tension<br>
+It sheds great light on what's to come 
+The plan of our Ascension 
+nd how God draws us to his breast 
+Through spiritual tension
 
-It also tells of worlds advanced <br>
-That in death there is no grieving <br>
-But I must honestly confess <br>
-I'm sad that Bert is leaving<br>
+It also tells of worlds advanced 
+That in death there is no grieving 
+But I must honestly confess 
+I'm sad that Bert is leaving
 
-How l'll miss our conversations <br>
-We had several times each week <br>
-Sharing details of our daily lives <br>
-And higher values that we seek<br>
+How l'll miss our conversations 
+We had several times each week 
+Sharing details of our daily lives 
+And higher values that we seek
 
-But there's also comfort in my heart <br>
-And joy for the occasion<br>
-Bertie's embarking upon an exciting trip<br>
-With a glorious destination<br>
+But there's also comfort in my heart 
+And joy for the occasion
+Bertie's embarking upon an exciting trip
+With a glorious destination
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2009_09/050.jpg">
 </figure>
 
-We'll all be going there as well<br>
-When our time arrives <br>
-We're headed to the Mansion Worlds <br>
-Ever beckoning on high<br>
+We'll all be going there as well
+When our time arrives 
+We're headed to the Mansion Worlds 
+Ever beckoning on high
 
-It's grand to think of you awakening <br>
-And getting settled down up there <br>
-Your soul housed in a morontia body <br>
-Withstanding plenty of wear and tear<br>
+It's grand to think of you awakening 
+And getting settled down up there 
+Your soul housed in a morontia body 
+Withstanding plenty of wear and tear
 
-So until our next reunion<br>
-The Master's peace be close to heart <br>
-I wish you Godspeed, my friend <br>
-I love you with all my heart<br>
+So until our next reunion
+The Master's peace be close to heart 
+I wish you Godspeed, my friend 
+I love you with all my heart
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2009_09/057.jpg">

@@ -8,7 +8,31 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="tema v-card v-sheet--gris claro aclarar-3 px-2">© 2007 Fundación Urantia</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jay_Peregrine/Head_Office_History">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una breve historia de los propietarios de la sede de la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Patricia_Mundelius_Leaves">
+          <span class="pr-2">La fideicomisaria emérita Patricia Mundelius deja la junta ampliada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Fantástico. El mejor boletín/serie que jamás haya producido la Fundación hasta la fecha. ¡Ahora eres una organización verdaderamente «fácil de usar»! Bravo a todos los que trabajaron en este proyecto. Los gráficos son preciosos además de unos informes maravillosos. El trabajo y el espíritu de hermandad entre los patronos es verdaderamente inspirador. Nos sentimos muy afortunados de tener a Jay, Tamara y el esfuerzo del equipo en la oficina.
@@ -51,3 +75,28 @@ Cheryl Glicker, Grupo de Estudio Milford, (EE.UU.)
 - [Este artículo](https://www.urantia.org/news/2007-09/comments-urantia-online-april-2007)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jay_Peregrine/Head_Office_History">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una breve historia de los propietarios de la sede de la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-2-septiembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, Número 2, septiembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Patricia_Mundelius_Leaves">
+          <span class="pr-2">La fideicomisaria emérita Patricia Mundelius deja la junta ampliada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-3-número-3-sept-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-3-septiembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 3, Sept. 2009 — Índice</span>
         </a>
         </td>
@@ -50,94 +50,94 @@ Hace unas semanas, un grupo de lectores de _El libro de Urantia_ celebró el cum
 
 **BERTITO BERT BERTIE**
 
-Recuerdo el momento en el que conocí a Bert<br>
-Era verano de 2004<br>
-Organizábamos una conferencia para la entonces AIU<br>
-Yo me encargaba de la librería<br>
+Recuerdo el momento en el que conocí a Bert
+Era verano de 2004
+Organizábamos una conferencia para la entonces AIU
+Yo me encargaba de la librería
 
-Vi a un hombre al que aún no conocía<br>
-Con un encanto especial<br>
-Así que fui y le dije mi nombre<br>
-Y él me abrazó con sus grandes y cariñosos brazos<br>
+Vi a un hombre al que aún no conocía
+Con un encanto especial
+Así que fui y le dije mi nombre
+Y él me abrazó con sus grandes y cariñosos brazos
 
-Bert y yo habíamos sabido el uno del otro<br>
-Por medio de amigos a los que apreciábamos mucho<br>
-Y desde ese abrazo abierto<br>
-Nuestra amistad se hizo más sincera<br>
+Bert y yo habíamos sabido el uno del otro
+Por medio de amigos a los que apreciábamos mucho
+Y desde ese abrazo abierto
+Nuestra amistad se hizo más sincera
 
-Han pasado solo cinco años desde que le conozco<br>
-Pero seguro que nos hemos divertido<br>
-Ya sea paseando por Little Wood<br>
-O bajo el sol de Buenos Aires<br>
+Han pasado solo cinco años desde que le conozco
+Pero seguro que nos hemos divertido
+Ya sea paseando por Little Wood
+O bajo el sol de Buenos Aires
 
-Y después hubo semanas que pasamos en Chicago<br>
-Bert vino los dos últimos años<br>
-Adornamos el vestíbulo del 533<br>
-Y echamos muchas risas festivas<br>
+Y después hubo semanas que pasamos en Chicago
+Bert vino los dos últimos años
+Adornamos el vestíbulo del 533
+Y echamos muchas risas festivas
 
-Hubo muchas visitas al viejo Jerome<br>
-Al lugar en el espacio y el tiempo<br>
-Paseos gloriosos en el Snake River Canyon<br>
-Bertie siempre llevaba un buen ritmo<br>
+Hubo muchas visitas al viejo Jerome
+Al lugar en el espacio y el tiempo
+Paseos gloriosos en el Snake River Canyon
+Bertie siempre llevaba un buen ritmo
 
-Comidas deliciosas, risas, todas nuestras buenas bromas<br>
-Podía seguir durante todo el día<br>
-Porque cuando se trata de mi Bertito<br>
-Hay mucho que decir<br>
+Comidas deliciosas, risas, todas nuestras buenas bromas
+Podía seguir durante todo el día
+Porque cuando se trata de mi Bertito
+Hay mucho que decir
 
-Pero también hubo tiempo para el silencio<br>
-Que compartíamos Bertie y yo<br>
-Tiempo de adoración amorosa<br>
-Meditación y oración<br>
+Pero también hubo tiempo para el silencio
+Que compartíamos Bertie y yo
+Tiempo de adoración amorosa
+Meditación y oración
 
-Los dos amamos al Padre<br>
-En el centro de todas las cosas<br>
-Y le agradecemos la paz de mente<br>
-Que viene cuando le conoces<br>
+Los dos amamos al Padre
+En el centro de todas las cosas
+Y le agradecemos la paz de mente
+Que viene cuando le conoces
 
-También amamos este momento especial<br>
-De la revelación presente<br>
-Que seguro que cura las almas rotas<br>
-Con su medicina espiritual<br>
+También amamos este momento especial
+De la revelación presente
+Que seguro que cura las almas rotas
+Con su medicina espiritual
 
-Derrama una gran luz sobre lo que ha de venir<br>
-El plan de nuestra Ascensión<br>
-Y cómo Dios nos dirige hacia su pecho<br>
-Mediante la tensión espiritual<br>
+Derrama una gran luz sobre lo que ha de venir
+El plan de nuestra Ascensión
+Y cómo Dios nos dirige hacia su pecho
+Mediante la tensión espiritual
 
-También nos habla de mundos avanzados<br>
-Donde no hay duelo tras la muerte<br>
-Pero debo confesar sinceramente<br>
-Que estoy triste de que Bert se marche<br>
+También nos habla de mundos avanzados
+Donde no hay duelo tras la muerte
+Pero debo confesar sinceramente
+Que estoy triste de que Bert se marche
 
-Cómo echaré de menos las conversaciones<br>
-Que teníamos varias veces por semana<br>
-Compartiendo detalles de nuestra vida diaria<br>
-Y los valores más altos que buscábamos<br>
+Cómo echaré de menos las conversaciones
+Que teníamos varias veces por semana
+Compartiendo detalles de nuestra vida diaria
+Y los valores más altos que buscábamos
 
-Pero también hay consuelo en mi corazón<br>
-Y alegría para la ocasión<br>
-Bertie se ha embarcado en un viaje emocionante<br>
-Con un destino glorioso<br>
+Pero también hay consuelo en mi corazón
+Y alegría para la ocasión
+Bertie se ha embarcado en un viaje emocionante
+Con un destino glorioso
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2009_09/050.jpg">
 </figure>
 
-Todos iremos allí también<br>
-Cuando nos llegue la hora<br>
-Nos dirigiremos hacia los mundos mansión<br>
-Siempre llamándonos desde lo alto<br>
+Todos iremos allí también
+Cuando nos llegue la hora
+Nos dirigiremos hacia los mundos mansión
+Siempre llamándonos desde lo alto
 
-Es grande pensar en nuestro despertar<br>
-Y en apaciguarnos allí arriba<br>
-Nuestra alma alojada en un cuerpo morontial<br>
-Soportando mucho desgaste natural<br>
+Es grande pensar en nuestro despertar
+Y en apaciguarnos allí arriba
+Nuestra alma alojada en un cuerpo morontial
+Soportando mucho desgaste natural
 
-Así que, hasta nuestra próxima reunión<br>
-La paz del Maestro estará cerca del corazón<br>
-Ve con Dios, amigo mío<br>
-Te quiero con todo mi corazón<br>
+Así que, hasta nuestra próxima reunión
+La paz del Maestro estará cerca del corazón
+Ve con Dios, amigo mío
+Te quiero con todo mi corazón
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2009_09/057.jpg">
@@ -167,7 +167,7 @@ Te quiero con todo mi corazón<br>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-3-número-3-sept-2009">
+        <a href="/es/index/articles_uf_news_online#volumen-3-número-3-septiembre-2009">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 3, Número 3, Sept. 2009 — Índice</span>
         </a>
         </td>

@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-4-número-3-sept-2010">
+        <a href="/es/index/articles_uf_news_online#volumen-4-número-3-septiembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 3, Sept. 2010 — Índice</span>
         </a>
         </td>
@@ -75,7 +75,7 @@ La UBIS es, en verdad y de hecho, una aventura exigente. Georges, los fideicomis
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volumen-4-número-3-sept-2010">
+        <a href="/es/index/articles_uf_news_online#volumen-4-número-3-septiembre-2010">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 4, Número 3, Sept. 2010 — Índice</span>
         </a>
         </td>

@@ -8,7 +8,31 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="tema v-card v-sheet--gris claro aclarar-3 px-2">© 2007 Mo Siegel<br>© 2007 Fundación Urantia</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Mo Siegel<br>© 2007 Fundación Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mo_Siegel_and_Gard_Jameson/Matching_Fundraising_Campaign">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Fundación Urantia lanza una campaña de recaudación de fondos de contrapartida en diciembre de 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-3-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, número 3, diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irmeli_Sjolie/German_Translation_Brings_Readers_Together">
+          <span class="pr-2">La traducción al alemán une a los lectores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -123,3 +147,28 @@ La Junta decidió que necesitábamos aclarar un par de cuestiones. Cuando lees u
 - [Este artículo](https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mo_Siegel_and_Gard_Jameson/Matching_Fundraising_Campaign">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Fundación Urantia lanza una campaña de recaudación de fondos de contrapartida en diciembre de 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_uf_news_online#volumen-1-número-3-diciembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 1, número 3, diciembre 2007 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Irmeli_Sjolie/German_Translation_Brings_Readers_Together">
+          <span class="pr-2">La traducción al alemán une a los lectores</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

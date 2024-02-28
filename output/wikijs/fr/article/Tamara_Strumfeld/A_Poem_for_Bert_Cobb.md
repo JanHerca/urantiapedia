@@ -50,94 +50,94 @@ Il ya quelques semaines, un groupe de lecteurs du _Livre d’Urantia_ célébrè
 
 **BERTITO BERT BERTIE**
 
-Je me souviens du moment ou j’ai rencontré Bert<br>
-C’était l’été 2004<br>
-Nous organisions une conférence pour, à l’époque, l’IUA<br>
-Je m’occupais du stand du Livre d’Urantia<br>
+Je me souviens du moment ou j’ai rencontré Bert
+C’était l’été 2004
+Nous organisions une conférence pour, à l’époque, l’IUA
+Je m’occupais du stand du Livre d’Urantia
 
-Alors, je vis un homme que je n’avais pas encore rencontré<br>
-Il avait un charme particulier<br>
-Donc j’allais vers lui et lui dis mon nom<br>
-Il me prit juste dans ses grands bras aimants<br>
+Alors, je vis un homme que je n’avais pas encore rencontré
+Il avait un charme particulier
+Donc j’allais vers lui et lui dis mon nom
+Il me prit juste dans ses grands bras aimants
 
-Vous voyez, Bert et moi avions entendu parler l’un de l’autre<br>
-Par des amis qui nous tenaient tous deux à cœur<br>
-Et depuis cette étreinte d’accueil<br>
-Notre amitié fut des plus sincères<br>
+Vous voyez, Bert et moi avions entendu parler l’un de l’autre
+Par des amis qui nous tenaient tous deux à cœur
+Et depuis cette étreinte d’accueil
+Notre amitié fut des plus sincères
 
-Nous nous connaissions que depuis cinq ans<br>
-Mais nous nous sommes vraiment amusés<br>
-Que ce soit en chargeant les mules pour Little Wood<br>
-Ou en marchant sous le soleil de Buenos Aires<br>
+Nous nous connaissions que depuis cinq ans
+Mais nous nous sommes vraiment amusés
+Que ce soit en chargeant les mules pour Little Wood
+Ou en marchant sous le soleil de Buenos Aires
 
-Et puis il y a les semaines passées à Chicago<br>
-Bert y venait les deux dernières années<br>
-Nous avons décoré les couloirs de 533<br>
-Et avons partagé beaucoup de joie de Noël<br>
+Et puis il y a les semaines passées à Chicago
+Bert y venait les deux dernières années
+Nous avons décoré les couloirs de 533
+Et avons partagé beaucoup de joie de Noël
 
-Il y eut beaucoup de visites au vieux Jerome<br>
-Le Lieu dans Le temps et l’éspace<br>
-De splendides marches dans le canyon de Snake River<br>
-Bertie gardait toujours une bonne allure<br>
+Il y eut beaucoup de visites au vieux Jerome
+Le Lieu dans Le temps et l’éspace
+De splendides marches dans le canyon de Snake River
+Bertie gardait toujours une bonne allure
 
-De délicieux repas, des rires, toutes nos bonnes blagues<br>
-Je pourrais continuer pendant des heures<br>
-Car lorsqu’il s’agit de mon Bertito<br>
-Il ya tellement à dire<br>
+De délicieux repas, des rires, toutes nos bonnes blagues
+Je pourrais continuer pendant des heures
+Car lorsqu’il s’agit de mon Bertito
+Il ya tellement à dire
 
-Mais il y avaient aussi des moments de silence<br>
-Que Bertie et moi avons partagé<br>
-Des moments d’adoration pleine d’amour<br>
-De méditation et de prière<br>
+Mais il y avaient aussi des moments de silence
+Que Bertie et moi avons partagé
+Des moments d’adoration pleine d’amour
+De méditation et de prière
 
-Nous aimons tous deux le Père<br>
-Au centre de toutes choses<br>
-Et nous le remercions pour la paix de l’esprit<br>
-Qu’apporte le fait de le connaître<br>
+Nous aimons tous deux le Père
+Au centre de toutes choses
+Et nous le remercions pour la paix de l’esprit
+Qu’apporte le fait de le connaître
 
-Nous aimons aussi ce temps spécial<br>
-De la présente révélation<br>
-Elle rapproche pour sûr les âmes brisées<br>
-Avec sa médication spirituelle<br>
+Nous aimons aussi ce temps spécial
+De la présente révélation
+Elle rapproche pour sûr les âmes brisées
+Avec sa médication spirituelle
 
-Elle déverse une grande lumière sur ce qui est à venir<br>
-Le plan de notre Ascension<br>
-Et comment Dieu nous attire vers son sein<br>
-Par tension spirituelle<br>
+Elle déverse une grande lumière sur ce qui est à venir
+Le plan de notre Ascension
+Et comment Dieu nous attire vers son sein
+Par tension spirituelle
 
-Elle parle aussi des mondes avancés<br>
-Qu’à la mort il n’y a pas de chagrin<br>
-Mais honnêtement, je dois confesser<br>
-Je suis triste que Bert parte<br>
+Elle parle aussi des mondes avancés
+Qu’à la mort il n’y a pas de chagrin
+Mais honnêtement, je dois confesser
+Je suis triste que Bert parte
 
-Combien nos conversations vont me manquer<br>
-Nous avions plusieurs fois par semaine<br>
-Du partage des détails de notre vie quotidienne<br>
-Et des valeurs plus élevées que nous cherchions<br>
+Combien nos conversations vont me manquer
+Nous avions plusieurs fois par semaine
+Du partage des détails de notre vie quotidienne
+Et des valeurs plus élevées que nous cherchions
 
-Mais il y a aussi du réconfort dans mon cœur<br>
-Et de la joie pour l’occasion<br>
-Bertie s’est embarqué pour un voyage passionnant<br>
-Avec une glorieuse destination<br>
+Mais il y a aussi du réconfort dans mon cœur
+Et de la joie pour l’occasion
+Bertie s’est embarqué pour un voyage passionnant
+Avec une glorieuse destination
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2009_09/050.jpg">
 </figure>
 
-Nous y irons tous aussi<br>
-Quand notre temps arrivera<br>
-Nous allons aux mondes des maisons<br>
-Toujours attiré vers le haut<br>
+Nous y irons tous aussi
+Quand notre temps arrivera
+Nous allons aux mondes des maisons
+Toujours attiré vers le haut
 
-C’est merveilleux de penser à toi se réveillant<br>
-Et s’installant là bas<br>
-Ton âme habitant un corps morontiel<br>
-Résistant à l’usure et aux blessures<br>
+C’est merveilleux de penser à toi se réveillant
+Et s’installant là bas
+Ton âme habitant un corps morontiel
+Résistant à l’usure et aux blessures
 
-Donc jusqu’à notre prochaine réunion<br>
-Que la paix du Maitre soit près du cœur<br>
-Je te souhaite bonne chance, mon ami<br>
-Je t’aime de tout mon cœur<br>
+Donc jusqu’à notre prochaine réunion
+Que la paix du Maitre soit près du cœur
+Je te souhaite bonne chance, mon ami
+Je t’aime de tout mon cœur
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2009_09/057.jpg">
