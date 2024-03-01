@@ -22,7 +22,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/es/article/Widi_Nogroho/Happenings_in_Indonesia">
-          <span class="pr-2">Acontecimientos de Indonesio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Acontecimientos de Indonesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -112,7 +112,7 @@ Esta es una publicación «Urantian» &reg;
         </td>
         <td>
         <a href="/es/article/Widi_Nogroho/Happenings_in_Indonesia">
-          <span class="pr-2">Acontecimientos de Indonesio</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Acontecimientos de Indonesia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

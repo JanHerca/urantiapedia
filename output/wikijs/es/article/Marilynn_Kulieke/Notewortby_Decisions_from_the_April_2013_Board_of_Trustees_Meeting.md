@@ -124,7 +124,7 @@ El hogar histórico en Chicago de 105 años de edad de la Revelación Urantia ha
 <figcaption><em>Dormitorio reformado, segunda planta</em></figcaption>
 </figure>
 
-> O Se necesitan 50.000 $ para la tercera planta y 125.000$ para la cochera.
+> Se necesitan 50.000 $ para la tercera planta y 125.000$ para la cochera.
 
 
 ## Referencias

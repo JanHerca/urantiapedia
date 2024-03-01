@@ -39,6 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 _De Line St-Pierre, fideicomisaria asociada de la Fundación Urantia, Ste-Sophie (Quebec, Canadá)_
+<br style="clear:both;"/>
 
 > “La mayor fuerza de las mujeres reside en su maternidad innata, en su poder creativo y dador de vida. Y este poder puede ayudar a las mujeres a producir un cambio más significativo en la sociedad de lo que los hombres puedan jamás conseguir.” (Mata Amritanandamayi, también conocida como Amma).
 

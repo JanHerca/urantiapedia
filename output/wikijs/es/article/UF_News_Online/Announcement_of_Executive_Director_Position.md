@@ -43,6 +43,7 @@ dateCreated: 2023-8-29T10:55:6Z
 El director ejecutivo de la Fundación Urantia, Jay Peregrine, va a jubilarse después de más de una década de servicio en la Fundación Urantia. Si tienen la experiencia y la cualificación para ser director ejecutivo de una fundación sin ánimo de lucro y son lectores dedicados de $E I$ libro de Urantia, ¡la Fundación Urantia les necesita!
 
 Nombre del puesto: Director ejecutivo. Ubicación: 533 W. Diversey Parkway (Chicago).
+<br style="clear:both;"/>
 
 ## Responsabilidades Principales
 

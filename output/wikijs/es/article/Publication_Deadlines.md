@@ -14,7 +14,7 @@ dateCreated: 2023-6-21T8:13:38Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
+        <a href="/es/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Organizational Guidance Committee Report</span>
         </a>
         </td>
@@ -24,7 +24,7 @@ dateCreated: 2023-6-21T8:13:38Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Cristina_Seaborn/Graduation_Memorial_Page">
+        <a href="/es/article/Cristina_Seaborn/Graduation_Memorial_Page">
           <span class="pr-2">Graduation Memorial Page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -72,7 +72,7 @@ Cristina Seaborn, Directora de Publicaciones
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
+        <a href="/es/article/Sue_Snider_Seccombe/Organizational_Guidance_Committee_Report">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Organizational Guidance Committee Report</span>
         </a>
         </td>
@@ -82,7 +82,7 @@ Cristina Seaborn, Directora de Publicaciones
         </a>
         </td>
         <td>
-        <a href="/en/article/Cristina_Seaborn/Graduation_Memorial_Page">
+        <a href="/es/article/Cristina_Seaborn/Graduation_Memorial_Page">
           <span class="pr-2">Graduation Memorial Page</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

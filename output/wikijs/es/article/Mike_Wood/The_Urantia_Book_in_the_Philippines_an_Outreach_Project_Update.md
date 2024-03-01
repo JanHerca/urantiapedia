@@ -14,7 +14,7 @@ dateCreated: 2023-8-29T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
+        <a href="/es/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decisiones destacadas de la reunión de enero de la Junta de Fideicomisarios</span>
         </a>
         </td>
@@ -24,7 +24,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/en/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
+        <a href="/es/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
           <span class="pr-2">La restauración del lugar de nacimiento de la Quinta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
@@ -65,7 +65,7 @@ Su servicio de asistencia me trae a la mente una de mis afirmaciones de mota fav
 <img src="/image/article/UF_News_Online/2014_03/015.jpg">
 </figure>
 
-## References
+## Referencias
 
 - [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 - [This article](https://www.urantia.org/es/news/2014-03/el-libro-de-urantia-en-filipinas-novedades-del-proyecto-de-asistencia)
@@ -75,7 +75,7 @@ Su servicio de asistencia me trae a la mente una de mis afirmaciones de mota fav
     <tbody>
       <tr>
         <td>
-        <a href="/en/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
+        <a href="/es/article/Judy_Van_Cleave/Noteworthy_Decisions_from_the_January_2014_Board_of_Trustees_Meeting">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Decisiones destacadas de la reunión de enero de la Junta de Fideicomisarios</span>
         </a>
         </td>
@@ -85,7 +85,7 @@ Su servicio de asistencia me trae a la mente una de mis afirmaciones de mota fav
         </a>
         </td>
         <td>
-        <a href="/en/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
+        <a href="/es/article/Joanne_Strobel/Restoring_the_Birthplace_of_the_Fifth_Epochal_Revelation">
           <span class="pr-2">La restauración del lugar de nacimiento de la Quinta</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>

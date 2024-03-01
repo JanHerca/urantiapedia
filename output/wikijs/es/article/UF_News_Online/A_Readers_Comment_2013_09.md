@@ -34,7 +34,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-## Lo que_ El libro de Urantia_ significa para mí
+## Lo que _El libro de Urantia_ significa para mí
 
 _De Mary Ann Leader, Berlin (Wisconsin, Estados Unidos)_
 

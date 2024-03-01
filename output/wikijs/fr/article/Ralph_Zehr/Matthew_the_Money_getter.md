@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/UF_News_Online/2013_12/003.jpg">
+<img src="/image/article/UF_News_Online/2013_12/002.jpg">
 </figure>
 
 _Par Ralph Zehr, trustee associé, Waverly, New York, États-Unis_
@@ -45,6 +45,7 @@ _Par Ralph Zehr, trustee associé, Waverly, New York, États-Unis_
 Jésus, accompagné de ses six premiers apôtres, rencontra Matthieu, un collecteur d’impôts, au bureau des douanes de Capharnaüm. En regardant le visage de Matthieu, Jésus dit : « Suis-moi. » Matthieu, qu’André avait choisi, répondit immédiatement à l’appel du Maitre. Les années suivantes, Matthieu aima toujours parler du royaume comme « cette affaire de trouver Dieu ». Il sembla très tôt saisir que « lorsque les hommes cherchent Dieu, ils sont à la recherche de tout. Quand ils trouvent Dieu, ils ont tout trouvé. »
 
 Après être devenu un apôtre, Matthieu eut une rude épreuve. Parce qu’il était un collecteur des douanes et issu d’une famille d’hommes d’affaires et des collecteurs d’impôts, il était considéré par ses compagnons juifs comme un « publicain et pécheur ». Mais sa période avec le Maitre prouva qu’il était à la hauteur de surmonter les intolérances et les préjugés à son égard. Ses compagnons apôtres l’appelaient affectueusement « le collecteur d’argent ». Il était le collecteur de fonds apostoliques. Ce que les autres apôtres ne surent jamais, fut que souvent, l’argent qu’il « collectait » provenait de sa propre poche. Il y eut des moments où « lorsque la preuve du dédain pour le publicain devenait manifeste, Lévi brulait de leur révéler sa générosité, mais il parvint toujours à garder le silence ». « Il fit tout son travail financier d’une manière tranquille et personnelle et se procura la majeure partie de l’argent parmi la classe aisée des croyants engagés. Il consacra la quasi-totalité de sa modeste fortune au travail du Maitre et de ses apôtres ... et quand il partit proclamer l’évangile du royaume après le début des persécutions, il était pratiquement sans ressources. »
+<br style="clear:both;"/>
 
 Matthew fut toujours extrêmement reconnaissant au Maitre et aux apôtres de l’avoir accepté lui, un ancien publicain, dans leur groupe et il exprima sa gratitude par une dévotion de tout cœur et une générosité sincère à la cause. Son dévouement devait avoir été authentique ainsi que contagieux puisque sa femme et sa fille aînée furent de proches disciples de Jésus, alors qu’il faisait don de leur héritage à la cause apostolique. Sa femme fut un membre du corps des femmes, qui fut mis en place pour la mission Pella, et Ruth était l’une des dix femmes sélectionnées et chargées par Jésus d’enseigner l’évangile et de soigner les malades avec les soixante-dix évangélistes.
 

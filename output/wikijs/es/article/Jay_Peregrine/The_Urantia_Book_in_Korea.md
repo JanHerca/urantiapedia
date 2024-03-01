@@ -49,9 +49,7 @@ Nos informaron de que la asistencia a la feria fue de unas 110.000 personas, un 
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_09/059.jpg">
-<figcaption><em>Stand de El libro de Urantia
-en la Feria Internacional del Libro
-2013 de Seúl.</em></figcaption>
+<figcaption><em>Stand de El libro de Urantia en la Feria Internacional del Libro 2013 de Seúl.</em></figcaption>
 </figure>
 
 La venta de libros en Corea cayó un 25% en 2012, así que la industria editorial coreana tiene unos desafíos similares a los que ha afrontado la industria editorial de los EEUU en los últimos años.
@@ -62,7 +60,7 @@ Viajé en metro para asistir a un grupo de estudio, donde pude responder a pregu
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_09/053.jpg">
-<figcaption><em>Jisoo Han at the meeting with Korean Urantia Book readers</em></figcaption>
+<figcaption><em>Jisoo Han en el encuentro con otros lectores coreanos de El Libro de Urantia</em></figcaption>
 </figure>
 
 Después de esa reunión, los traductores hablaron de trabajar de manera colaborativa hacia una excelente traducción al coreano. Tenemos mucho trabajo que hacer para lograr esa meta y no hay garantías de éxito. Pero el espíritu de cooperación es evidente y construiremos sobre él.

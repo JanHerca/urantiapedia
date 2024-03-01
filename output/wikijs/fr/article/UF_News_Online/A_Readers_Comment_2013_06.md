@@ -30,12 +30,11 @@ dateCreated: 2023-8-29T10:55:6Z
   </table>
 </figure>
 
+## Atteindre la Perfection
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2013_06/054.jpg">
 </figure>
-
-## Atteindre la Perfection
 
 _Par Sandra Cisneros Burga-Pizarro, trustee associé, Zürich, Suisse_
 
@@ -44,6 +43,7 @@ Quand je pense à la perfection et le mandat: « **Soyez** donc parfaits, comme 
 J'ai appris que chaque être humain a « une vie à vivre. » Nous faisons tous l’expérience de ce labyrinthe de la vie et essayons d'atteindre le bonheur à travers nos actions au travail, avec nos familles et amis, ainsi qu’avec les autres. Quand je pense aux moments de la vie qui m'ont vraiment comblé, ce fut quand j’étais motivée par l'amour et poussée par un ministère désintéressé que je ressentis une vraie connexion avec notre Père.
 
 Bien sûr, ce n'est pas facile, et je me demande: « Comment puis-je ressentir cette connexion plus souvent? » Je me repense à :
+<br style="clear:both;"/>
 
 > _Si un mortel a des mobiles spirituels sincères et se consacre sans réserve à faire la volonté du Père, puisqu’il est spirituellement doté de façon si sûre et si efficace d’un Ajusteur divin intérieur, ne peuvent manquer de se matérialiser dans l’expérience de cet individu la conscience sublime de connaître Dieu, et l’assurance céleste de survivre pour trouver Dieu en faisant l’expérience progressive de devenir de plus en plus semblable à lui._ <a id="a48_469"></a>[LU 5:1.6](/fr/The_Urantia_Book/5#p1_6)
 

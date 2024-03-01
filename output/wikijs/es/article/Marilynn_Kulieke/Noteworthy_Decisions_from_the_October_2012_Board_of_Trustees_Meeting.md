@@ -34,69 +34,71 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
-_By Marilynn Kulieke, secretary, Urantia Foundation, Lincolnshire, Illinois, USA_
+_De Marilynn Kulieke, secretaria de la Fundación Urantia, Lincolnshire (Illinois, EEUU)_
 
-As always, finances and governance, education initiatives, translations and revisions, the executive director's report, and book sales and distribution were discussed. What follows are some of the noteworthy decisions from the meeting.
+Como siempre, se habló sobre las cuentas y el gobierno, las iniciativas educativas, las traducciones y revisiones, el informe del director ejecutivo y las ventas y distribución del libro. Lo que sigue es parte de las decisiones destacadas de la reunión.
 
-## Budget Passed for 2013
+## Presupuesto 2013 aprobado
 
-For the last three years, the budget has been basically the same, but due to financial needs for translations/revisions, education, and book distribution, the board raised the budget 4% for 2013.
+Durante los últimos tres años, el presupuesto ha sido básicamente el mismo pero, debido a las necesidades económicas de las traducciones y revisiones, de la educación y de la distribución del libro, la junta aumentó el presupuesto en un 4% para 2013.
 
-## Public Relations Seminar
+## Seminario de Relaciones Públicas
 
-The Education Committee and Public Relations Committee are planning a public relations media training seminar in Marzo 2013. Representatives from Urantia Foundation, Urantia Association International, and The Urantia Book Fellowship are working together in this joint effort. The purpose is to become better prepared to respond to media inquiries as _The Urantia Book_ becomes better known.
+El Comité de Educación y el Comité de Relaciones Públicas están planeando un seminario de relaciones públicas en marzo de 2013. Representantes de la Fundación Urantia, de la Asociación Urantia Internacional y de la Urantia Book Fellowship están trabajando juntos en esta tarea conjunta. El propósito es el de estar mejor preparados para reaccionar a las peticiones de los medios a medida que _El libro de Urantia_ sea más conocido.
 
-## Update from the Book Committee
+## Novedades del Comité del Libro
 
-Book sales will likely exceed the board's goal of a 7% increase by the end of 2012. Internet and digital book sales continue to outpace bookstore sales with a double digit increase expected during 2013.
+Las ventas del libro probablemente superarán a finales de 2012 el objetivo de la junta de un aumento del 7%. Se espera que Internet y las ventas del libro digital sigan superando durante 2013 las ventas en librerías con un incremento de dos dígitos.
 
-After a two year search for a book distributor in Hungary, Trustee Henk Mylanus and his wife Claire recently signed a contract. Book distribution for Az Urantia könyv began on November the 8th. Our thanks to both for their efforts in expanding the distribution of _The Urantia Book_ in European book markets.
+Después de dos años buscando un distribuidor para el libro en Hungría, el fideicomisario Henk Mylanus y su esposa Claire firmaron recientemente un contrato. La distribución para _Az Urantia könyv_ comenzó el 8 de noviembre. Nuestro agradecimiento a ambos por sus esfuerzos en expandir la distribución de _El libro de Urantia_ en los mercados editoriales europeos.
 
-Michael Hanian and Georges Michelson-Dupont are exploring new avenues of book distribution in Russia. Urantia Foundation is currently in the process of receiving printing bids after all the Russian books were destroyed in a warehouse fire. Approximately 20,000 USD needs to be raised for this printing.
+Michael Hanian y Georges Michelson-Dupont están explorando nuevas vías de distribución del libro en Rusia. La Fundación Urantia está actualmente recibiendo presupuestos de impresión después de que todos los libros en ruso quedaran destruidos en el incendio de un almacén.
 
-## Translations and Revisions
+Se necesita recaudar aproximadamente unos 20.000 $ para esta impresión.
 
-The French, Russian, Portuguese, and Spanish revisions are proceeding according to plan and budget. Within a few years, the French and Russian revisions will be completed. Ongoing translations such as the Chinese, Japanese, Czech, and Farsi are works in progress. The Chinese translation is projected for completion in 2017.
+## Traducciones y revisiones
 
-Two new translations are underway. The translation of _The Urantia Book_ into Hebrew has commenced, and fundraising efforts for an Indonesian translation have begun. With over 248 million people, Indonesia ranks as the fourth most populated nation in the world. In addition, 90% of the Indonesian citizens are literate. The cost of the Indonesian translation is approximately 40,000 USD.
+Las revisiones al francés, ruso, portugués y español siguen su curso según el plan y el presupuesto. Dentro de unos años, las revisiones al francés y al ruso estarán terminadas. Las traducciones en marcha como la china, japonesa, checa y parsi siguen su curso. Se prevé que la traducción china esté terminada en 2017.
 
-Special thanks to the Translation Committee, to the revision teams, to the translators, to Rogério Reis da Silva for his translator website, and to Georges Michelson-Dupont, manager of translations, for their excellent work during 2012.
+Dos nuevas traducciones están en camino. La traducción al hebreo de _El libro de Urantia_ ha comenzado y se están empezando a recaudar fondos para la traducción al indonesio. Con unos 248 millones de habitantes, Indonesia es el cuarto país más poblado del mundo. Además, el 90% de los ciudadanos indonesios saben leer y escribir. El coste de la traducción al indonesio es aproximadamente de unos 40.000 $.
 
-## Education Committee Updates
+Nuestro agradecimiento especial al Comité de Traducciones, a los equipos de revisión, a los traductores, a Rogério Silva por el sitio web de traductores y a Georges Michelson-Dupont, responsable de traducciones, por su excelente trabajo durante 2012.
 
-Thanks to the leadership of Gard Jameson and the Education Committee, Urantia Foundation has developed a curriculum with the two most recent seminars focused on worship and wisdom and on race. In Junio 2013, Dr. Jeffrey Wattles will present a seminar on spiritual perceptions. In August 2013, Ralph Zehr, associate trustee, will facilitate a seminar on cosmic consciousness. "Forgiveness and Understanding" will likely be a seminar in the near future.
+## Novedades del Comité de Educación
 
-Ralph Zehr is also an active teacher/facilitator for the Urantia Book Internet School (UBIS) and has been researching a new educational software system that works in many languages, offers capabilities beyond current needs, costs less than is currently being spent, and is used widely so that the software remains updated. Ralph plans to make his report about this software at the board's January meeting.
+Gracias al liderazgo de Gard Jameson y del Comité de Educación, la Fundación Urantia ha desarrollado un plan de estudios en el que los dos últimos seminarios se centraron en la adoración y la sabiduría y en las razas. En junio de 2013, el Dr. Jeffrey Wattles presentará un seminario sobre percepción espiritual. En agosto de 2013, Ralph Zehr, fideicomisario asociado, impartirá un seminario sobre conciencia cósmica. “Perdón y entendimiento” podría ser otro seminario en un futuro cercano.
 
-## Renovation of the Third Floor of 533 W Diversey Parkway
+Ralph Zehr es también un profesor/facilitador activo de la Escuela de El libro de Urantia en Internet (UBIS en inglés) y ha estado investigando un nuevo sistema informático educativo que trabaja con muchos idiomas, ofrece capacidades más allá de las necesidades actuales, cuesta menos que lo que se ha gastado hasta ahora y se emplea ampliamente, lo cual hace que el software esté actualizado. Ralph prevé dar un informe sobre este software en la reunión de enero de la junta.
 
-The board approved an ad hoc committee consisting of Jay Peregrine, Jennifer Siegel, Gard Jameson, Jay Bird, and Mo Siegel to prepare a plan to finance, renovate, and occupy the third floor of Urantia Foundation. The ad hoc committee will present this plan to the Board no later than Julio 2013.
+## Renovación de la tercera planta del 533 W Diversey Parkway
+
+La junta aprobó la creación de un comité ad hoc compuesto por Jay Peregrine, Jennifer Siegel, Gard Jameson, Jay Bird y Mo Siegel, para preparar un plan de financiación, renovación y ocupación de la tercera planta de la Fundación Urantia. El comité ad hoc presentará su plan a la Junta no más tarde de julio de 2013.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_11/018.jpg">
-<figcaption><em>Olga López and Georges Michelson-Dupont</em></figcaption>
+<figcaption><em>Olga López y Georges Michelson-Dupont</em></figcaption>
 </figure>
 
-The renovation is intended to increase Urantia Foundation's capacity to provide classrooms and meeting spaces designed for educational purposes. The facilities would be opened up for use to Urantia Book organizations.
+Se pretende que la renovación aumente la capacidad de la Fundación Urantia de proporcionar aulas y espacios de reunión diseñados con propósitos educativos. Las instalaciones estarían abiertas para ser usadas por organizaciones de _El libro de Urantia_.
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_11/016.jpg">
-<figcaption><em>Carolyn Kendall and Marta Elders</em></figcaption>
+<figcaption><em>Carolyn Kendall y Marta Elders</em></figcaption>
 </figure>
 
-## Noteworthy Events During the October Board Meeting
+## Acontecimientos destacados durante la reunión de octubre de la junta
 
-1. Urantia Foundation and Urantia Book Fellowship Meeting
+_Reunión de la Fundación Urantia y la Urantia Book Fellowship_
 
-For the first time in years, representatives of Urantia Foundation and The Urantia Book Fellowship met to discuss book issues with the goal of mutual understanding, spiritual unity, and global harmony. See article on page 1.
+Por primera vez en años, representantes de la Fundación Urantia y de la Urantia Book Fellowship se reunieron para tratar asuntos del libro con el objetivo de conseguir comprensión mutua, unidad espiritual y armonía global. Vean el artículo de la página 1.
 
-2. A Celebration of Carolyn Kendall's 80<sup>th</sup> Birthday
+_Celebración del 80 cumpleaños de Carolyn Kendall_
 
-On Friday night, October 19, approximately 60 people gathered at 533 W Diversey Parkway to celebrate Carolyn's birthday. Carolyn is a long-time reader of _The Urantia Book_, a scholar, and a friend to many throughout the community of readers.
+El viernes por la noche, 19 de octubre, aproximadamente 60 personas se reunieron en el 533 W Diversey Parkway para celebrar el cumpleaños de Carolyn Kendall. Carolyn es una lectora veterana de _El libro de Urantia_, una experta y una amiga para muchos miembros de la comunidad de lectores.
 
-3. A Special Thanks to Olga Lopeóz
+_Agradecimiento especial a Olga López_
 
-After five years of tireless service, Olga López from Barcelona, Spain, retired from the board. During Olga's tenure as an Associate Trustee, she inaugurated Spanish classes for UBIS; taught courses for UBIS; served on the Translation Committee; served on the Spanish translation revision team; translated newsletters and web pages; and authored two books. Thank you Olga! We look forward to working with you in the future.
+Después de cinco años de servicio incansable, Olga López, de Barcelona (España), dejó la junta. Durante el tiempo de Olga como fideicomisaria asociada, inauguró las clases en español de la UBIS; dio cursos para la UBIS; sirvió en el Comité de Traducciones; sirvió en el comité de revisión de la traducción al español; tradujo boletines y páginas web, y escribió dos libros. ¡Gracias, Olga! Esperamos con ilusión trabajar contigo en el futuro.
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2012_11/015.jpg">
@@ -112,7 +114,7 @@ After five years of tireless service, Olga López from Barcelona, Spain, retired
 ## Referencias
 
 - [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
-- [Este artículo](https://www.urantia.org/news/2012-11/noteworthy-decisions-october-2012-board-trustees-meeting)
+- [Este artículo](https://www.urantia.org/es/news/2012-11/decisiones-destacadas-de-la-reunion-de-octubre-de-los-fideicomisarios)
 
 <figure class="table chapter-navigator">
   <table>

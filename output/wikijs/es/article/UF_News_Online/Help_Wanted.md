@@ -48,8 +48,8 @@ La Fundación Urantia también está buscando estudiantes del libro que hablen c
 
 Contacten con la Fundación Urantia en [tamara@urantia.org](mailto:tamara@urantia.org).
 
-Urantia基金会正在积极寻求数位Urantia Book的研读者，去协助中文版本的编译者，其母语应为大陆普通话（即掌握简体中文），主要负责阅读编译文本，与原来的英文文字相对照，并提供意见和建议。  
-  
+Urantia基金会正在积极寻求数位Urantia Book的研读者，去协助中文版本的编译者，其母语应为大陆普通话（即掌握简体中文），主要负责阅读编译文本，与原来的英文文字相对照，并提供意见和建议。
+
 请通过以下邮箱联系Urantia基金会：[tamara@urantia.org](mailto:tamara@urantia.org)
 
 ## Persa
@@ -66,7 +66,7 @@ Contacten con la Fundación Urantia en [tamara@urantia.org](mailto:tamara@uranti
 
 tamara@urantia.org به آدرس زير تماس حاصل فرماييد:
 
-## \section*{¡Asegúrense de visitar el Informe Anual de la Fundación!}
+## ¡Asegúrense de visitar el Informe Anual de la Fundación!
 
 http://www.urantia.org/sites/default/files/docs/annual_report_2012.pdf
 

@@ -39,6 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 _Par Line St-Pierre, trustee associée, Fondation Urantia, Ste-Sophie, Québec, Canada_
+<br style="clear:both;"/>
 
 > « La plus grande force des femmes réside dans leur capacité intrinsèque de maternité, ce pouvoir créatif de donner la vie. Et dans la société ce pouvoir peut aider les femmes à apporter un changement beaucoup plus important que jamais les hommes ne pourraient accomplir. » ( Mata Amritanandamayi, a.k.a. Amma )
 

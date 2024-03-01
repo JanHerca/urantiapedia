@@ -31,11 +31,11 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
+## Reaching for Perfection
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2013_06/054.jpg">
 </figure>
-
-## Reaching for Perfection
 
 _By Sandra Burga-Cisneros Pizarro, associate trustee, Zürich, Switzerland_
 
@@ -45,6 +45,7 @@ When I think about perfection and the mandate: “Be you perfect, even as your F
 I have learned that every human being has “a life to live.” We all experience this labyrinth of life and try to achieve happiness through our actions at work and with our families and friends, and with others. When I think about the moments of life that truly have fulfilled me, it is when I am motivated by love and activated by unselfish ministry that I feel a true connection with our Father.
 
 Of course it is not easy, and I ask myself, "How can I feel that connection more often? I am reminded that:
+<br style="clear:both;"/>
 
 > If mortal man is wholeheartedly spiritually motivated, unreservedly consecrated to the doing of the Father's will, then, since he is so certainly and so effectively spiritually endowed by the indwelling and divine Adjuster, there cannot fail to materialize in that individual's experience the sublime consciousness of knowing God and the supernal assurance of surviving for the purpose of finding God by the progressive experience of becoming more and more like him. <a id="a48_469"></a>[UB 5:1.6](/en/The_Urantia_Book/5#p1_6)
 

@@ -377,6 +377,6 @@ Los documentos que siguen a este Prólogo os van a hablar sobre el carácter del
 
 Somos muy conscientes de las dificultades de nuestra tarea. Sabemos que no podemos traducir nuestro lenguaje a vuestro lenguaje; se pierde demasiado en la traducción. Vamos a hablar sobre conceptos de divinidad y de eternidad. Vamos a utilizar un lenguaje que sólo tiene palabras finitas que pueden ser comprendidas por la mente humana. Pero sabemos que tendremos ayuda. No dependemos solamente de la mente. Sabemos que un fragmento del mismo Dios vive dentro de cada mente humana. También sabemos que el Espíritu de la Verdad vive en cada alma humana. Sabemos además que estas fuerzas espirituales van a ayudar a los seres humanos a comprender lo que vamos a decir. Van a ayudaros a comprender qué son los valores espirituales. Van a ayudaros a comprender qué son los significados universales. Pero por encima de todo van a hacer otra cosa, algo mucho más importante. Estos espíritus de la Presencia Divina son realmente capaces de ayudaros a comprender espiritualmente cierto tipo de verdad. Es la verdad que os ayuda a crecer, a hacer progresos en la experiencia religiosa personal. Es la verdad por la que os volvéis conscientes de la presencia y de la realidad de Dios.
 
-## References
+## Referencias
 
 - Original in Urantia Association International: https://urantia-association.org/foreword-simplification/

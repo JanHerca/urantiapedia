@@ -47,18 +47,15 @@ Le répit fut de courte durée. Alors que nos locataires du troisième étage jo
 
 Des discussions eurent lieu, des décisions prises, des fonds reçus, et des mesures furent prises. Notre bande de célibataires du troisième étage, libérèrent à contrecœur leur appartement en juillet. Et le 15 août 2013, Dalius « Dale » Budas et son équipe intrépide d’entrepreneurs lituaniens commença la démolition du troisième et dernier étage, sous la supervision de la bienfaitrice Jennifer Siegel. Et avec un clin d’œil à Sir Alfred Lord Tennyson, ( poème : la charge de la brigade légère )
 
-Plâtre à leur droit
-
-Récupération à leur gauche
-
-Ossature murale à nu en face d’eux  <br>
-Martelée et ravagée ;  <br>
-Assaillis par des vis et de clous,  <br>
-Courageusement ils travaillèrent, et ainsi,  <br>
-Dans les mâchoires de l'Anéantissement,  <br>
-Dans la bouche de la Destruction<br>
-
-Les six ouvriers travaillèrent péniblement
+> Plâtre à leur droit
+> Récupération à leur gauche
+> Ossature murale à nu en face d’eux
+> Martelée et ravagée ;
+> Assaillis par des vis et de clous,
+> Courageusement ils travaillèrent, et ainsi,
+> Dans les mâchoires de l'Anéantissement,
+> Dans la bouche de la Destruction
+> Les six ouvriers travaillèrent péniblement
 
 J’ai vu moi-même la facture. Une inimaginable 30 tonnes de débris fut transportée. Nous avons pleuré et déploré la perte des baignoires à pattes délabrées. Nous avons récupéré des poignées de portes anciennes, des charnières et des crochets dans l’espoir de les restaurer un jour. Nous avons pris des photos et posé le long des murs nus et de leurs fils électriques dénudés. Nous avons vendu d’innombrables trésors à Salvage One.
 

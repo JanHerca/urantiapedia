@@ -48,15 +48,15 @@ The respite was short lived. While our third floor tenants enjoyed their vintage
 
 Discussions were held, decisions made, funds raised, and action taken. Our bevy of bachelors on the third floor reluctantly vacated their apartment in July. And on August 15, 2013, Dalius "Dale” Budas and his intrepid crew of Lithuanian contractors began demolition of the third and final floor under the supervision of benefactress Jennifer Siegel. And with a nod to Sir Alfred Lord Tennyson,
 
-Plaster to the right of them, <br>
-Salvage to the left of them, <br>
-Bare stud in front of them <br>
-Hammer'd and ravage'd; <br>
-Storm'd at with screw and nail,<br>
-Boldly they worked, and well, <br>
-Into the jaws of Obliteration, <br>
-Into the mouth of Destruction<br>
-Toiled the six workmen.<br>
+> Plaster to the right of them, 
+> Salvage to the left of them, 
+> Bare stud in front of them 
+> Hammer'd and ravage'd; 
+> Storm'd at with screw and nail,
+> Boldly they worked, and well, 
+> Into the jaws of Obliteration, 
+> Into the mouth of Destruction
+> Toiled the six workmen.
 
 I saw the invoice myself. An unimaginable 30 tons of debris was hauled away. We wept and lamented the loss of decrepit claw-footed tubs. We squirreled away vintage doorknobs, hinges, and hooks in the hopes of restoring them someday. We took photographs and posed alongside naked walls and their once-buried electric wires. We sold countless treasures to Salvage One.
 

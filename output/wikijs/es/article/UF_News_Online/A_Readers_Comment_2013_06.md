@@ -30,12 +30,11 @@ dateCreated: 2023-8-29T10:55:6Z
   </table>
 </figure>
 
+## Alcanzar la perfección
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2013_06/054.jpg">
 </figure>
-
-## Alcanzar la perfección
 
 _Por Sandra Burga-Cisneros Pizarro, Fideicomisario Asociado, Zúrich, Suiza_
 
@@ -44,6 +43,7 @@ Cuando pienso en la perfección y en el mandato: _"Sed perfectos, como vuestro P
 He aprendido que todo ser humano tiene "una vida por ser vivida." Todos experimentamos esta especie de laberinto que es la vida y tratamos de alcanzar la felicidad a través de nuestras acciones, en el trabajo, con nuestra familia y amigos, así como con los demás. Pero, cuando pienso en los momentos de vida que me han llenado verdaderamente, cuando he sentido una verdadera conexión con nuestro Padre, se ha tratado de los momentos es los que he sido motivada por el amor y activada por el ministerio altruista.
 
 Por supuesto que ello no es fácil, y me pregunto, "¿qué podría hacer para sentir esa conexión más frecuentemente? Y entonces recuerdo que:
+<br style="clear:both;"/>
 
 > Si el hombre mortal está sincera y espiritualmente motivado, así como consagrado sin reservas a hacer la voluntad del Padre, entonces, ya que está tan certera y efectivamente dotado por el Ajustador residente y divino que mora en él, en la experiencia de ese individuo, no puede dejar de materializarse la conciencia sublime de conocer a Dios y la excelsa certidumbre de sobrevivir con el propósito de encontrar a Dios, mediante la experiencia progresiva de llegar a ser más cada vez más semejante a Él. <a id="a47_506"></a>[LU 5:1.6](/es/The_Urantia_Book/5#p1_6)
 

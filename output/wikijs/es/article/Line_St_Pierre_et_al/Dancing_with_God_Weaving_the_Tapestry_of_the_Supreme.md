@@ -47,55 +47,43 @@ Estas mujeres hablaron de su vida interior y del significado y la llamada de la 
 A continuación hay extractos y sentimientos expresados por las asistentes a este retiro.
 
 - Bailamos, abrazamos y nos alentamos por nuestras creencias espirituales.
-
-  Nos movimos al ritmo de un nuevo baile y aprendimos a ser conscientes de nuestro marco justo con la cantidad adecuada de tensión, en lugar de resistencia desde el núcleo del dolor, las lágrimas, el abuso y la confusión.
-
-  Un hilo luminoso gira y sobrevivimos para prosperar,<br>
-  Abarcar la audacia de la autenticidad,<br>
-  Elegir la armonía en lugar de la expiación,<br>
-  Madre-Hijo divino,<br>
-  Santo Espíritu Madre,<br>
-  Eres el modelo cósmico,<br>
-  Hijas de Dios,<br>
-  Somos la urdimbre sobre la que se puede tejer el tapiz del Supremo.<br>
-
+  - Nos movimos al ritmo de un nuevo baile y aprendimos a ser conscientes de nuestro marco justo con la cantidad adecuada de tensión, en lugar de resistencia desde el núcleo del dolor, las lágrimas, el abuso y la confusión.
+  - Un hilo luminoso gira y sobrevivimos para prosperar,
+  - Abarcar la audacia de la autenticidad,
+  - Elegir la armonía en lugar de la expiación,
+  - Madre-Hijo divino,
+  - Santo Espíritu Madre,
+  - Eres el modelo cósmico,
+  - Hijas de Dios,
+  - Somos la urdimbre sobre la que se puede tejer el tapiz del Supremo.
 - No sabía qué esperar cuando me apunté a este retiro. El resultado estuvo más allá de cualquier cosa que me pudiera imaginar. Los sentimientos del despertar espiritual dentro de mi mente son abrumadores y casi indescriptibles.
-
-  Comprendo más plenamente lo que significa ser hija de Dios. He estado buscando esta espiritualidad toda mi vida y la necesito para comprometerme personalmente con la familia de Dios.
-
-  Me siento como si tuviera una conexión a través del testimonio de amor, pasión, espiritualidad y conocimiento de este grupo de mujeres. No lo esperaba. He aprendido mediante ósmosis, y realmente es solo el comienzo de todo.
-
+  - Comprendo más plenamente lo que significa ser hija de Dios. He estado buscando esta espiritualidad toda mi vida y la necesito para comprometerme personalmente con la familia de Dios.
+  - Me siento como si tuviera una conexión a través del testimonio de amor, pasión, espiritualidad y conocimiento de este grupo de mujeres. No lo esperaba. He aprendido mediante ósmosis, y realmente es solo el comienzo de todo.
 - El recuerdo de un lugar seguro y a resguardo me ayuda a sentirme segura dentro de mi alma y hasta lo más profundo. Al compartir nuestras experiencias de dolor, miedo, alegría y revelación hemos aprendido, hecho crecer, valorado y aumentado nuestra capacidad de amar.
-
-  Gracias por compartir la forma en que se preocupan e inspiran, la forma en que llegan hasta las personas y están abrazadas por seres espirituales.
-
-  Exploradoras guiadas por la luz de nuestro corazón,<br>
-  De la mano nos ayudamos mutuamente,<br>
-  A través de túneles y lugares mojados por las lágrimas,<br>
-  Sobre rocas, rodeando curvas cerradas,<br>
-  Que desembocan en cavernas iluminadas con el reflejo de la luz de Dios,<br>
-  Bailamos alrededor de la calidez y brillo de la llama espiritual que tenemos dentro.<br>
-
+  - Gracias por compartir la forma en que se preocupan e inspiran, la forma en que llegan hasta las personas y están abrazadas por seres espirituales.
+  - Exploradoras guiadas por la luz de nuestro corazón,
+  - De la mano nos ayudamos mutuamente,
+  - A través de túneles y lugares mojados por las lágrimas,
+  - Sobre rocas, rodeando curvas cerradas,
+  - Que desembocan en cavernas iluminadas con el reflejo de la luz de Dios,
+  - Bailamos alrededor de la calidez y brillo de la llama espiritual que tenemos dentro.
 - Todo lo que rodea a este lugar del 533 es perfecto. Siento la perfección de estar juntas. ¡Cuánta gratitud! Estoy asombrada por la cascada de acontecimientos que nos reunió. Cuánto amor de hermanas, cuánta confianza y cuánto compartir de penas, secretos y sueños.
-
-  Me siento enormemente enriquecida. Creo de todo corazón que nuestras voces fuertes, individuales y colectivas, están cambiando el mundo. Usamos nuestra voz para decir la Verdad, caminar por la Belleza y abrazar la Bondad, en servicio a nuestro Padre Universal y nuestra Madre
-
+  - Me siento enormemente enriquecida. Creo de todo corazón que nuestras voces fuertes, individuales y colectivas, están cambiando el mundo. Usamos nuestra voz para decir la Verdad, caminar por la Belleza y abrazar la Bondad, en servicio a nuestro Padre Universal y nuestra Madre
 - Lo que he visto y oído este fin de semana es la belleza en cada una de nosotras – los talentos, la habilidad, el conocimiento, la destreza y la alegría – y he escuchado vuestras voces – como una sola voz puede ser bella – pero cuando cantamos juntas - cuánto más bella se vuelve una canción. Juntas nos hemos convertido en un coro de voces, y aún así pude escuchar cada voz individual – toda la belleza, sabiduría y amor que cada una contiene – y que me da poder.
-
-  Hilos y ovillos de varias fibras, colores, grosores y longitudes,<br>
-  Los mezclamos todos,<br>
-  Los desenredamos desde los lugares privados desde donde los hemos lanzado,<br>
-  Algunas estamos ansiosas por ofrecer,<br>
-  Y otras dudamos, nos resistimos,<br>
-  Quizá con culpa,<br>
-  Salimos de escondites ocultos,<br>
-  Arrugadas y manchadas con sudor y lágrimas,<br>
-  Sangre y hollín de muchos lugares,<br>
-  Mientras el montón crece, tomamos cada hilo<br>
-  Y lo tejemos en el tapiz que ya está en el telar,<br>
-  El marco de fibras proporcionado hace tiempo, que lleva tiempo esperándonos,<br>
-  Nos llama a tejer y cantar,<br>
-  A hablar y bailar juntas.<br>
+  - Hilos y ovillos de varias fibras, colores, grosores y longitudes,
+  - Los mezclamos todos,
+  - Los desenredamos desde los lugares privados desde donde los hemos lanzado,
+  - Algunas estamos ansiosas por ofrecer,
+  - Y otras dudamos, nos resistimos,
+  - Quizá con culpa,
+  - Salimos de escondites ocultos,
+  - Arrugadas y manchadas con sudor y lágrimas,
+  - Sangre y hollín de muchos lugares,
+  - Mientras el montón crece, tomamos cada hilo
+  - Y lo tejemos en el tapiz que ya está en el telar,
+  - El marco de fibras proporcionado hace tiempo, que lleva tiempo esperándonos,
+  - Nos llama a tejer y cantar,
+  - A hablar y bailar juntas.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">

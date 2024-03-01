@@ -59,7 +59,7 @@ Llévame siempre a la luz.<br>
 
 > La gran meta de la existencia humana consiste en sintonizarse con la divinidad del Ajustador interior; el gran logro de la vida mortal consiste en alcanzar una verdadera consagración comprensiva a los objetivos eternos del espíritu divino que espera y trabaja dentro de vuestra mente. Pero un esfuerzo ferviente y determinado por hacer realidad el destino eterno es enteramente compatible con una vida despreocupada y alegre, y con una carrera lograda y honorable en la Tierra. <a id="a59_480"></a>[LU 110:3.4](/es/The_Urantia_Book/110#p3_4)
 
-## References
+## Referencias
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 

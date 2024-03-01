@@ -65,7 +65,7 @@ tu niña
 Sharlana
 María
 
-## References
+## Referencias
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 

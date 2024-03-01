@@ -39,6 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 _By Line St-Pierre, associate trustee, Urantia Foundation, Ste-Sophie, Québec, Canada_
+<br style="clear:both;"/>
 
 > “The greatest strength of women lies in their innate motherhood, in their creative, life-giving power. And this power can help women to bring about a far more significant change in society than men could ever accomplish.” (Mata Amritanandamayi, aka Amma)
 

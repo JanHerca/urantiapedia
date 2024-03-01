@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/UF_News_Online/2013_12/003.jpg">
+<img src="/image/article/UF_News_Online/2013_12/002.jpg">
 </figure>
 
 _By Ralph Zehr, Associate Trustee, Waverly, New York, United States_
@@ -45,6 +45,7 @@ As every holiday season approaches, I am grateful to have received a gift that k
 Jesus, accompanied by his first six apostles, first met Matthew, a customs collector, at the customs office in Capernaum. Looking into Matthew's face, Jesus said, “Follow me.” Matthew, whom Andrew had chosen, responded immediately to the Master's call. In subsequent years, Matthew always liked to speak of the kingdom as “this business of finding God.” He seemed early-on to grasp that “when men search for God, they are searching for everything. When they find God, they have found everything.”
 
 After becoming an apostle, Matthew had an uphill struggle. Because he was a customs collector and came from a family of businessmen and tax collectors, he was regarded by fellow Jews as a “publican and sinner.” But his time with the Master would prove that he was up to the task of overcoming the intolerances and biases toward him. His fellow apostles affectionately called him the “moneygetter.” He was the apostolic fundraiser. What the other apostles never knew was that frequently the money he “raised” came from his own pocket. There were times “when the evidence of disdain of the publican would become manifest, Levi would burn to reveal to them his generosity, but always he managed to keep still.” “He did all his financial work in a quiet and personal way and raised most of the money among the more substantial class of interested believers. He gave practically the whole of his modest fortune to the work of the Master and his apostles... and...when he went forth to proclaim the gospel of the kingdom after the beginning of the persecutions, he was practically penniless.”
+<br style="clear:both;"/>
 
 Matthew always remained overwhelmingly grateful that the Master and the apostles accepted him, a former publican, into their group, and he expressed his gratitude through wholehearted devotion and heartfelt generosity to the cause. His dedication must have been genuine as well as infectious since both his wife and eldest daughter were close followers of Jesus, while he was donating their inheritance to the apostolic cause. His wife was a member of the women's corps, which was organized for the Pella mission, and Ruth was one of the ten women selected and commissioned by Jesus to teach the gospel and minister to the sick along with the seventy evangelists.
 

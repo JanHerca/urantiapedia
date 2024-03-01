@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/UF_News_Online/2013_12/003.jpg">
+<img src="/image/article/UF_News_Online/2013_12/002.jpg">
 </figure>
 
 _De Ralph Zehr, fideicomisario asociado, Waverly (Nueva York, Estados Unidos)_
@@ -45,6 +45,7 @@ Como cada vez que se acercan las navidades, agradezco haber recibido un regalo q
 Jesús, acompañado por sus seis primeros apóstoles, se encontró por primera vez con Mateo, recaudador de aduanas, en la oficina de aduanas de Cafarnaúm. Mirándole a los ojos, Jesús le dijo: “Sígueme”. Mateo, a quien Andrés había elegido, respondió inmediatamente a la llamada del Maestro. En los años siguientes, a Mateo le gustaba siempre hablar del reino como “el asunto de encontrar a Dios”. Pareció captar muy pronto que “cuando los hombres buscan a Dios, lo están buscando todo”.
 
 Después de convertirse en apóstol, Mateo tuvo una ardua lucha. Debido a que era recaudador de impuestos y procedía de una familia de hombres de negocios y recaudadores de impuestos, era considerado por sus semejantes judíos como “publicano y pecador”. Pero el tiempo que pasó con el Maestro demostraría que estuvo a la altura de la tarea de superar la intolerancia y los prejuicios hacia él. Sus compañeros apóstoles le llamaban cariñosamente “el que consigue el dinero”. Era el recaudador apostólico de fondos. Lo que los demás apóstoles no supieron nunca es que a menudo el dinero que él “recaudaba” venía de su propio bolsillo. Hubo momentos en los que, “cuando la prueba del desdén por el publicano se hacía manifiesta, Leví ardía en deseos de revelarles su generosidad, pero siempre se las arregló para guardar silencio”. “Efectuó todo su trabajo financiero de una manera tranquila y personal, y recaudó la mayor parte del dinero entre la clase más acomodada de los creyentes interesados. Entregó prácticamente la totalidad de su modesta fortuna a la obra del Maestro y sus apóstoles… y… cuando partió para proclamar el evangelio del reino, después del comienzo de las persecuciones, estaba prácticamente en la pobreza”.
+<br style="clear:both;"/>
 
 Mateo siempre estuvo enormemente agradecido de que el Maestro y los apóstoles le aceptaran a él, un publicano, en su grupo, y expresaba su gratitud mediante una dedicación de todo corazón y una generosidad sincera hacia la causa. Su dedicación debe haber sido genuina así como contagiosa, pues tanto su esposa como su hija mayor siguieron de cerca a Jesús mientras él donaba su herencia a la causa apostólica. Su esposa fue miembro del cuerpo de mujeres, que se organizó para la misión de Pella, y Rut fue una de las diez mujeres seleccionadas y enviadas por Jesús para enseñar el evangelio y ministrar a los enfermos junto con los setenta evangelistas.
 

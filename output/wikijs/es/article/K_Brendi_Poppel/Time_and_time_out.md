@@ -67,7 +67,7 @@ Para entrar en nuestros corazones y transformar nuestras vidas,
 > K. Brendi Poppel es poeta, compositora y acuarelista que reside en Santa Bárbara, California. Recientemente, tuvo el privilegio de presentar una introducción a _El Libro de Urantia_ en Border's Books y en la televisión por cable local. Ha sido estudiante de _El Libro de Urantia_ durante veinticinco años.
 {.is-info}
 
-## References
+## Referencias
 
 - Article obtained from: https://urantia-book.org/archive/newsletters/herald/
 

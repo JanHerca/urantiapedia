@@ -55,8 +55,9 @@ Este es un resumen de las preguntas respondidas por los 28 T/R.
 
 El entorno de los T/R está relacionado con el idioma en el que los libros se han traducido. Lo que sigue es el número y el porcentaje de T/R en cada zona.
 
-| Europeos | 19 | 68\% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| Europeos | 19 | 68\% |
 | Asiáticos | 5 | 18\% (chino, indonesio, japonés, coreano) |
 | Canadienses francófonos | 1 | 3.5\% |
 | Cubano-europeo | 1 | 3.5\% español |
@@ -67,8 +68,9 @@ El entorno de los T/R está relacionado con el idioma en el que los libros se ha
 
 Todos los T/R tienen como lengua materna el idioma destino de su traducción. Además del idioma destino, lo siguiente muestra el número y el porcentaje de T/R que hablan otros idiomas aparte de su lengua materna y el inglés.
 
-| Speaks 10 other languages | 1 | 3.5% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| Speaks 10 other languages | 1 | 3.5% |
 | Habla otros 10 idiomas | 1 | 3.5% |
 | Habla otros 5 idiomas | 1 | 3.5% |
 | Habla otros 4 idiomas | 1 | 3.5% |
@@ -106,15 +108,16 @@ TOEFL significa _Test of English as a Foreign Language_ (Prueba de inglés como 
 
 Casi el 80\% de los Traductores-Revisores eran buscadores de la verdad interesados en la espiritualidad antes de ser expuestos a _El Libro de Urantia_.
 
-| TOEFEL | 4 | 14\% |
+| &nbsp; | &nbsp; | &nbsp; |
 | :--- | :--- | :--- |
+| TOEFEL | 4 | 14\% |
 | Doctores en Filología Inglesa o equivalente | 5 | 18\% |
 
 ## F. Dominio de la lengua materna y del inglés
 
 El siguiente conjunto de preguntas pedía a los T/R que evaluaran su nivel de dominio tanto de su lengua materna como del inglés, usando una escala de 0 a 10. Un diez significa dominio de la propia lengua (una persona no respondió)
 
-Lengua materna |  | Inglés |  |
+|  | Lengua materna |  | Inglés |  |
 | :--- | :--- | :--- | :--- | :--- |
 | 10 / 10 | 13 | 47\% | 2 | 8\% |
 | 9 / 10 | 10 | 36\% | 7 | 26\% |

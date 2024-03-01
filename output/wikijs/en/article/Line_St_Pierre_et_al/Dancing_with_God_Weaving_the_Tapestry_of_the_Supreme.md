@@ -47,55 +47,45 @@ These women spoke of their inner lives and of the meaning and calling of the Ura
 The following are excerpts and sentiments expressed by attendees of this retreat.
 
 - We danced, embraced and emboldened by our spiritual beliefs.
-
-	We moved to the rhythm of a new dance, learning to be aware of our frame with just the right amount of tension instead of resistance from the cocoon of pain, tears, abuse, and confusion.
-
-	A luminous thread is spun, and we survive to thrive,<br>
-	Embracing audacity of authenticity,<br>
-	Choosing attunement over atonement,<br>
-	Divine Mother-Son,<br>
-	Holy Mother Spirit,<br>
-	You are the cosmic blueprint,<br>
-	Daughters of God,<br>
-	We are the warp upon which the tapestry of the Supreme can be woven.<br>
+	- We moved to the rhythm of a new dance, learning to be aware of our frame with just the right amount of tension instead of resistance from the cocoon of pain, tears, abuse, and confusion.
+	- A luminous thread is spun, and we survive to thrive,
+	- Embracing audacity of authenticity,
+	- Choosing attunement over atonement,
+	- Divine Mother-Son,
+	- Holy Mother Spirit,
+	- You are the cosmic blueprint,
+	- Daughters of God,
+	- We are the warp upon which the tapestry of the Supreme can be woven.
 
 - I did not know what to expect when I signed up for this retreat. The outcome was beyond anything I could have imagined. The feelings of a spiritual awakening in my mind and body are overwhelming and almost indescribable.
-
-	I more fully understand what it means to be a daughter of God. I have been searching a life-time for this spirituality and need it for my personal commitment to the family of God.
-
-	I feel as though I have the connection through witnessing the love, passion, spirituality, and knowledge of this group of women. I did not expect that. I have been learning through osmosis, and it is really only the beginning of everything.
-
+	- I more fully understand what it means to be a daughter of God. I have been searching a life-time for this spirituality and need it for my personal commitment to the family of God.
+	- I feel as though I have the connection through witnessing the love, passion, spirituality, and knowledge of this group of women. I did not expect that. I have been learning through osmosis, and it is really only the beginning of everything.
 - This memory of a safe and secure place helps me to feel safe in my soul and all the way to the center of my bones. By sharing our experiences of pain, fear, joy, and revelation we have learned, grown, appreciated, and enhanced our capacity to love.
+	- Thank you for sharing your ways of how you care and inspire, of how you reach out and are enfolded by spiritual beings.
 
-	Thank you for sharing your ways of how you care and inspire, of how you reach out and are enfolded by spiritual beings.
-
-	Explorers guided by our heart-lights,<br>
-	Hand in hand we helped each other,<br>
-	Through tunnels and places damp with tears,<br>
-	Over boulders, around hairpin turns,<br>
-	Opening into caverns dazzling with reflected God-light,<br>
-	We danced around the warmth and brightness of the spirit burning within us.<br>
-
+	- Explorers guided by our heart-lights,
+	- Hand in hand we helped each other,
+	- Through tunnels and places damp with tears,
+	- Over boulders, around hairpin turns,
+	- Opening into caverns dazzling with reflected God-light,
+	- We danced around the warmth and brightness of the spirit burning within us.
 - Everything about this place at 533 is perfect. I feel the perfection of our being together. Such gratitude! I am amazed at the cascade of events that brought us together. Such sisterly love, trust, and sharing of our sorrows, secrets, and dreams.
-
-	I am greatly enriched. I believe in my heart that our strong voices, individually and together, are changing the world. Using our voices to speak the Truth, to walk in Beauty, and to embrace Goodness is in service to our Universal Father and our Universal Mother.
-
+	- I am greatly enriched. I believe in my heart that our strong voices, individually and together, are changing the world. Using our voices to speak the Truth, to walk in Beauty, and to embrace Goodness is in service to our Universal Father and our Universal Mother.
 - What I have seen and heard this weekend is the beauty in each one of you-the talents, the ability, the knowledge, the skills, and the joy—and I heard your voices—as a single voice can be beautiful—but when we sing together—how much more beautiful a song becomes. Together we have become a chorus of voices, and yet I could hear every individual voice—all the beauty, wisdom, and love each one of us carries forth—and that empowers me.
-
-	Threads and yarns of various fibers, colors, thickness, length,<br>
-	We toss them in together,<br>
-	Unwrapping them from the private places where we've spirited them away,<br>
-	Some we are eager to proffer,<br>
-	And others, hesitantly, reluctantly,<br>
-	Guiltily perhaps,<br>
-	We pull out from hidden caches,<br>
-	Rumpled and stained with sweat and tears,<br>
-	Blood and the soot of many places,<br>
-	As the pile grows, we take each strand and,<br>
-	Weave it into the warp already on the loom,<br>
-	The fiber framework provided long ago, long waiting for us,<br>
-	Calling us to weave and sing,<br>
-	To speak and dance together.<br>
+	- Threads and yarns of various fibers, colors, thickness, length,
+	- We toss them in together,
+	- Unwrapping them from the private places where we've spirited them away,
+	- Some we are eager to proffer,
+	- And others, hesitantly, reluctantly,
+	- Guiltily perhaps,
+	- We pull out from hidden caches,
+	- Rumpled and stained with sweat and tears,
+	- Blood and the soot of many places,
+	- As the pile grows, we take each strand and,
+	- Weave it into the warp already on the loom,
+	- The fiber framework provided long ago, long waiting for us,
+	- Calling us to weave and sing,
+	- To speak and dance together.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
