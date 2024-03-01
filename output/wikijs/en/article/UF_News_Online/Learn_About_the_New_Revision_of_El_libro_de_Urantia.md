@@ -55,6 +55,8 @@ Select the 2 p.m. CDT (GMT -5) workshop on Sunday called “New Spanish Revision
 
 Live interpretation service will be provided.
 
+<br style="clear:both;"/>
+
 **In loving memory of our dear brother and friend Carmelo María Martínez Ortíz de Zárate**
 
 **1947-2020**

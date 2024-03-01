@@ -64,6 +64,8 @@ Moving forward in Q2, the focus will be:
 - Study Group Directory—the directory now contains over five hundred study groups. The directory gets updated annually, so you can expect that listings are accurate.
 - Science Symposium III—Urantia Foundation's Education Committee sponsored another science symposium. Over 250 people attended via Zoom Events. Click here to view the recorded sessions.
 
+https://www.youtube.com/watch?v=ZUWY6ZCTF_k&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=2
+
 ## Fundraising and Finances
 
 - Donations—Q1 unrestricted donations were $140,944, 164\% above the budget of $53,325, and up 190\% from the same period in 2021. (2021 Q1 unrestricted was $48,518.92.)

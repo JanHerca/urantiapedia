@@ -39,6 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 _De Judy Van Cleave, secretaria de la Fundación Urantia, Idaho (EE. UU.)_
+<br style="clear:both;"/>
 
 ## Vista general de las operaciones
 

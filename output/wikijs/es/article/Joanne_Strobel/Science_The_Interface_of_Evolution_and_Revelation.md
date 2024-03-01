@@ -62,7 +62,6 @@ Se invitó a nueve presentadores para que se unieran a Margie, que tenían siete
 <img src="/image/article/UF_News_Online/2022_07/004.jpg">
 <figcaption><a href="https://www.youtube.com/watch?v=FIoV_IweOAY&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=3">A Unifying Theory of Physical Interactions by Philippe Hatt</a></figcaption>
 </figure>
-<br style="clear:both;"/>
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/005.jpg">
@@ -84,7 +83,6 @@ Se invitó a nueve presentadores para que se unieran a Margie, que tenían siete
 <img src="/image/article/UF_News_Online/2022_07/023.jpg">
 <figcaption><a href="https://www.youtube.com/watch?v=5P7nVvVUlJ8&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=7">Dynamic Developments in Epigenetics by Ralph Zehr, MD</a></figcaption>
 </figure>
-<br style="clear:both;"/>
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2022_07/016.jpg">

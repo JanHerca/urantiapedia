@@ -31,11 +31,11 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 
+## Conozcan la nueva revisión de _El libro de Urantia_
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2021_04/052.jpg">
 </figure>
-
-## Conozcan la nueva revisión de _El libro de Urantia_
 
 La edición 2021 de EI libro de Urantia estará disponible este verano. Es el producto de un trabajo en equipo sin precedentes, motivado por el amor y basado en una metodología de traducción profesional que utiliza siete componentes:
 - Un equipo internacional de revisión
@@ -55,6 +55,8 @@ Suscríbanse gratis a la conferencia virtual aquí:
 https://register.urantia.org.pe/es.php
 
 Seleccionen el taller de las 14:00 horas (hora de Chicago, GMT — 5) del domingo, llamado «La nueva revisión».
+
+<br style="clear:both;"/>
 
 **En memoria de nuestro querido hermano y amigo Carmelo María Martínez Ortíz de Zárate**
 

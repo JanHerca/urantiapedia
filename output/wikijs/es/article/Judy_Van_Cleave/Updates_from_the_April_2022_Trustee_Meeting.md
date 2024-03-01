@@ -62,7 +62,9 @@ En el segundo trimestre, la atención se centrará en:
 
 - Escuela de _El libro de Urantia_ en Internet (UBIS): Georges Michelson-Dupont y Joanne Strobel explicaron algunos cambios organizativos de la UBIS. El nuevo trimestre comienza con un aumento de las inscripciones y con las clases casi llenas. Se ofrecerán cursos de alemán, húngaro y polaco en septiembre de 2022.
 - Directorio de grupos de estudio: el directorio contiene ahora más de quinientos grupos de estudio y se actualiza anualmente, por lo que es de esperar que los listados sean precisos.
-- III Simposio Científico: el comité de Educación de la Fundación Urantia patrocinó otro simposio científico. Más de 250 asistieron a través de Zoom. [Hagan clic aquí para ver las sesiones grabadas](https://www.youtube.com/playlist?list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu).
+- III Simposio Científico: el comité de Educación de la Fundación Urantia patrocinó otro simposio científico. Más de 250 asistieron a través de Zoom. Hagan clic aquí para ver las sesiones grabadas.
+
+https://www.youtube.com/watch?v=ZUWY6ZCTF_k&list=PLHAWeALNK3fC4bv0Q9PrAfjaQy6v8A7Iu&index=2
 
 ## Recaudación de fondos y finanzas
 
