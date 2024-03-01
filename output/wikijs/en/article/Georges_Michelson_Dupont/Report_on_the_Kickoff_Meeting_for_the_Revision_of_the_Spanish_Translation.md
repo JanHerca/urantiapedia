@@ -33,11 +33,6 @@ dateCreated: 2023-8-29T10:55:6Z
   </table>
 </figure>
 
-
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/UF_News_Online/2011_09/003.jpg">
-</figure>
-
 _By Georges Michelson-Dupont, Vice President, Urantia_
 
 Foundation, Recloses, France

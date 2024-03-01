@@ -33,11 +33,6 @@ dateCreated: 2023-8-29T10:55:6Z
   </table>
 </figure>
 
-
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/UF_News_Online/2011_09/003.jpg">
-</figure>
-
 _De Georges Michelson-Dupont, vicepresidente de la Fundación Urantia, Recloses (Francia)_
 
 Los miembros del equipo de revisión de la traducción española se reunieron en el 533 de W Diversey Parkway el pasado mes de agosto para reunirse por primera vez. Estaban presentes la fideicomisaria asociada Olga López y CarmeloMartínez, de España, Aníbal Pacheco, de Chile, y Raúl Pujol, de Puerto Rico. También asistieron el fideicomisario asociado Víctor García-Bory, de Nueva York, que sirve como enlace entre el Comité de Traducciones y el equipo de revisión. Su trabajo incluye la supervisión del proyecto y la coordinación de las necesidades de los miembros del equipo. Gard Jameson asistió como recurso, así como yo, responsable de Traducciones y presidente del Comité de Traducciones. Peter Russell fue invitado para servir como facilitador de la reunión.

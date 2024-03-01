@@ -70,7 +70,7 @@ Directora: Marilynn Kulieke, Richard Keeler, Tamara Strumfeld
 Colaboradores: Mo Siegel, Gard Jameson, Marilynn Kulieke, Georges MichelsonDupont, Chris Wood, Bert Cobb, Paul and Gosia Jaworski, Xavier Francisco, Jay Peregrine, Barbara Newsom, Charles Laurence Olivea, Tamara Strumfeld
 Producción: Truthbook.com
 
-«Urantia,» «Urantian,» y [](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
+«Urantia,» «Urantian,» y ![](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
 
 Esta es una publicación «Urantian» &reg;
 

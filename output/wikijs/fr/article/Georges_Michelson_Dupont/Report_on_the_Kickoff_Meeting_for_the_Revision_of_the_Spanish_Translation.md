@@ -33,11 +33,6 @@ dateCreated: 2023-8-29T10:55:6Z
   </table>
 </figure>
 
-
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="/image/article/UF_News_Online/2011_09/003.jpg">
-</figure>
-
 _Par Georges Michelson-Dupont, vice-président de la Fondation Urantia, Recloses, France_
 
 Les membres de l’équipe de la révision de la traduction espagnole se réunirent à 533, Diversey Parkway, en août dernier pour la première fois. Olga López, Trustee Associé, Carmelo Martínez d’Espagne, Anibal Pacheco du Chili et Raúl Pujol de Puerto Rico y assistaient. Le Trustee Associé, Víctor García-Bory de New York y participait aussi, servant de liaison entre le Comité de Traduction et l’équipe de révision. Son travail consistait à superviser le projet et à coordonner les besoins des membres de l’équipe. Gard Jameson y participa en tant que conseiller ainsi que moi-même, le Directeur des Traductions et Président du Comité de Traductions. Peter Russell avait été invité pour servir comme animateur de la réunion.

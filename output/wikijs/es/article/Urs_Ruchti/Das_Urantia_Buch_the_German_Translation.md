@@ -14,7 +14,7 @@ dateCreated: 2023-8-29T10:55:6Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Paul_and_Gosia_Jaworski/Księga_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
+        <a href="/es/article/Paul_and_Gosia_Jaworski/Ksiega_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Księga Urantii: la traducción polaca ha llegado a los lectores</span>
         </a>
         </td>
@@ -68,7 +68,7 @@ _Das Urantia Buch_ se está vendiendo bastante bien. Se reúnen lectores en Fran
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Paul_and_Gosia_Jaworski/Księga_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
+        <a href="/es/article/Paul_and_Gosia_Jaworski/Ksiega_Urantii_The_Polish_Translation_Has_Reached_the_Readers">
           <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Księga Urantii: la traducción polaca ha llegado a los lectores</span>
         </a>
         </td>
