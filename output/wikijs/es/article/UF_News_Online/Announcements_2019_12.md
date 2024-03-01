@@ -35,17 +35,19 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Tenemos el placer de anunciarles que ya hay disponible una traducción al checo de _El libro de Urantia_ en [https://www.urantia.org/cs](https://www.urantia.org/cs). Nos encantaría recibir comentarios sobre este trabajo. Por favor, corran la voz entre todos los lectores que conozcan, anímenles a visitar el sitio web y envíen cualquier comentario a Tamara Strumfeld en [tamara@urantia.org](mailto:tamara@urantia.org). ¡Gracias!
 
+## ¡Lectores de América Latina piden apoyo y ustedes responden!
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2019_12/003.jpg">
 </figure>
-
-## ¡Lectores de América Latina piden apoyo y ustedes responden!
 
 En agosto de este año pedimos que los lectores apoyaran a la comunidad de lectores de América Latina patrocinando stands en ferias de libros. ¡La respuesta fue reconfortante y generosa! Somos felices de anunciar que se alcanzó el objetivo de 12.000 $ antes del 30 de septiembre.
 
 Los fideicomisarios de la Fundación Urantia les dan las gracias por apoyar a las comunidades de América latina de lectores de _El libro de Urantia_ en la difusión de la revelación Urantia.
 
 «Id por todo el mundo y proclamad este evangelio a todas las naciones, a cada hombre, mujer y niño.» Jesus, _El Libro de Urantia_, <a id="a47_131"></a>[LU 165:6.3](/es/The_Urantia_Book/165#p6_3)
+
+<br style="clear:both;"/>
 
 ## La historia nunca contada de Jesús
 

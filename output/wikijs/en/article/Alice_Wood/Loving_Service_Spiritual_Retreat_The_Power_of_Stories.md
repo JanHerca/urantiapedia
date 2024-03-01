@@ -52,7 +52,7 @@ Many people in the Urantia community have benefited from the rise of online vide
 
 Click Here to See the Video
 
-https://youtu.be/LVbSwACdgxE
+http://www.youtube.com/watch?v=LVbSwACdgxE
 
 There were no stories told during the “in-between” times.
 

@@ -35,17 +35,19 @@ dateCreated: 2023-8-29T10:55:6Z
 
 We are excited to announce that a Czech translation of _The Urantia Book_ is now available online at https://www.urantia.org/cs. We would love to hear feedback on this work. Please help spread the word to any readers you know, encourage them to visit the site, and send any comments to Tamara Strumfeld at tamara@urantia.org. Thank you!
 
+## Latin American Readers Asked for Support and You Responded!
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2019_12/003.jpg">
 </figure>
-
-## Latin American Readers Asked for Support and You Responded!
 
 In August of this year, we asked for readers to support the Latin American reader community by sponsoring booths at book fairs. The response was heartwarming and generous! We are happy to announce that the goal of $12,000 was met by September 30 .
 
 The trustees of Urantia Foundation thank you for helping to support local Latin American communities of Urantia Book readers as they spread the Urantia Revelation.
 
 “Go into all the world proclaiming this gospel to all nations, to every man, woman, and child.” Jesus, _The Urantia Book_, <a id="a47_123"></a>[UB 165:6.3](/en/The_Urantia_Book/165#p6_3)
+
+<br style="clear:both;"/>
 
 ## The Untold Story of Jesus — The newest title from Urantia Press
 

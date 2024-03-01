@@ -50,9 +50,9 @@ Muchas personas de la comunidad Urantia se han beneficiado del aumento de las vi
 <img src="/image/article/UF_News_Online/2021_04/038.jpg">
 </figure>
 
-Click Here to See the Video
+Haz clic para ver el video
 
-https://youtu.be/LVbSwACdgxE
+http://www.youtube.com/watch?v=LVbSwACdgxE
 
 No se contaron historias durante los tiempos “intermedios”.
 

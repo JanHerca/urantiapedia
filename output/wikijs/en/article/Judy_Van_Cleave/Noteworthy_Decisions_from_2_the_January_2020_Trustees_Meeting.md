@@ -58,9 +58,13 @@ The first draft of the Chinese translation is complete through Paper 152; 138 pa
 
 School (UBIS) and EducationAt UBIS, 15 free online classes are being offered in April, with topics ranging from the Foreword to the Meaning of the Cross. There are seven in English, three in French, four in Spanish, and one in Portuguese. Volunteers are facilitating courses from their homes in Belgium, Brazil, Canada, Colombia, England, France, Peru, Senegal, Uganda, and the United States.
 
-Registration begins on Monday, April 20. Click here to view the courses being offered. (https://www.urantia.org/educ ation/course-schedule-andregistration-information)
+Registration begins on Monday, April 20. Click here to view the courses being offered. (https://www.urantia.org/education/course-schedule-andregistration-information)
 
 The Education Committee sponsored a Global Cultural Symposium in April and a Science Symposium in November.
+
+https://www.youtube.com/watch?v=mQokVOqH3ts&list=PLHAWeALNK3fByb-I-ntmJEPqyu7-DFEYz
+
+https://www.youtube.com/watch?v=OAUcFVVqNik&list=PLHAWeALNK3fDGmZqAB-Han8Igznqxw9fH
 
 ## 4. Fundraising
 

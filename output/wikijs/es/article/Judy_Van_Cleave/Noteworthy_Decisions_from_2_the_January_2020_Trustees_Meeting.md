@@ -58,11 +58,13 @@ El primer borrador de la traducción al chino está completo hasta el documento 
 
 En la UBIS se van a ofrecer 15 cursos virtuales en abril, con temas que van desde el Prólogo hasta las lecciones de la cruz. Hay siete cursos en inglés, tres en francés, cuatro en español y uno en portugués. Los facilitadores voluntarios están dando clases desde sus hogares en Bélgica, Brasil, Canadá, Colombia, Inglaterra, Francia, Perú, Senegal, Uganda y Estados Unidos.
 
-La inscripción comienza el lunes 20 de abril. Hagan clic en este enlace para ver los cursos que se ofrecen.
+La inscripción comienza el lunes 20 de abril. Hagan clic en este enlace para ver los cursos que se ofrecen. ([https://www.urantia.org/es/education/programacion-de-cursos](https://www.urantia.org/es/education/programacion-de-cursos))
 
-([https://www.urantia.org/es/education/programacion-de-cursos](https://www.urantia.org/es/education/programacion-de-cursos))
+El comité de Educación patrocinó un Simposio Cultural Mundial en abril y un Simposio Científico en noviembre.
 
-El comité de Educación patrocinó un [Simposio Cultural Mundial](https://www.youtube.com/watch?v=mQokVOqH3ts&list=PLHAWeALNK3fByb-I-ntmJEPqyu7-DFEYz) en abril y un [Simposio Científico](https://www.youtube.com/watch?v=OAUcFVVqNik&list=PLHAWeALNK3fDGmZqAB-Han8Igznqxw9fH) en noviembre.
+https://www.youtube.com/watch?v=mQokVOqH3ts&list=PLHAWeALNK3fByb-I-ntmJEPqyu7-DFEYz
+
+https://www.youtube.com/watch?v=OAUcFVVqNik&list=PLHAWeALNK3fDGmZqAB-Han8Igznqxw9fH
 
 ## 4. Recaudación de fondos
 

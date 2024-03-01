@@ -108,7 +108,7 @@ Presupuesto: el objetivo era ceñirse al presupuesto revisado para 2020 de 735.3
 <figcaption><em>Marie White</em></figcaption>
 </figure>
 
-Donaciones: el objetivo de la recaudación de fondos es de 630.000$ en donaciones no restringidas, 25.000$ en donaciones restringidas y 250.000$ en aportaciones de bienes destinados al Fondo del Puente de la Revelación. Hasta ahora, las donaciones no restringidas son de 205.010$, un 13\% más que en 2019. Las donaciones de bienes raíces fueron de 1.561.115$, en comparación con los 212.297$ de 2019.
+Donaciones: el objetivo de la recaudación de fondos es de 630.000\$ en donaciones no restringidas, 25.000\$ en donaciones restringidas y 250.000\$ en aportaciones de bienes destinados al Fondo del Puente de la Revelación. Hasta ahora, las donaciones no restringidas son de 205.010\$, un 13\% más que en 2019. Las donaciones de bienes raíces fueron de 1.561.115\$, en comparación con los 212.297\$ de 2019.
 
 > El libro de Urantia clasificado en la lista de los más vendidos de Filosofía Cristiana de Amazon en México
 {.is-info}

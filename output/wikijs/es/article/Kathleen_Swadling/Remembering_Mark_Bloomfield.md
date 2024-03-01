@@ -54,7 +54,7 @@ Mark fue en verdad una persona desinteresada y tuvo una valentía asombrosa en l
 
 A Mark se le ha llamado el «Juanito Manzanas» y el «Indiana Jones» del movimiento Urantia, pero a él le gustaba llamarse el «chico de los recados», pues su personaje favorito era el joven Juan Marcos, que pasó un día entero en las colinas a solas con el Maestro. Mark dijo al final de uno de sus informes:
 
-> > _… Y todo esto explica en gran medida por qué este trabajador de campo en particular ha estado haciendo lo que ha estado haciendo estos años, porque el niño de los recados de los tiempos de Jesús \[Juan Marcos\] ha sido durante mucho tiempo lo más cercano a un modelo a seguir._
+> _… Y todo esto explica en gran medida por qué este trabajador de campo en particular ha estado haciendo lo que ha estado haciendo estos años, porque el niño de los recados de los tiempos de Jesús \[Juan Marcos\] ha sido durante mucho tiempo lo más cercano a un modelo a seguir._
 
 Mark murió recientemente después de un trágico incidente en Swansea (Gales). Tenía solo 54 años de edad. Nuestra compasión y nuestras oraciones más sinceras para la familia de Mark y para todos los que lo conocieron. Que su resurrección en los mundos mansión sea dichosa y compense la manera trágica en la que partió prematuramente de este mundo. Adiós, Mark, hasta que nos veamos de nuevo.
 
