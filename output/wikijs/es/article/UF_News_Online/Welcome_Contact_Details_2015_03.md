@@ -96,7 +96,7 @@ Share Beasley, Sandra Burga-Cisneros, Marta Elders, Víctor García-Bory, Richar
 
 Connie Gutierrez, Joanne Strobel, Tamara Strumfeld
 
-«Urantia,» «Urantian,» y [](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
+«Urantia,» «Urantian,» y ![](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
 
 Esta es una publicación «Urantian» &reg;
 

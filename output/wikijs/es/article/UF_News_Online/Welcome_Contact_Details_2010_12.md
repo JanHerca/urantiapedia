@@ -69,7 +69,7 @@ Colaboradores: Seppo Kanerva, Antonio Moya, Joel Rehnström, Luiz Carlos Dolabel
 
 Producción: Truthbook.com
 
-«Urantia,» «Urantian,» y [](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
+«Urantia,» «Urantian,» y ![](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
 
 This is a Urantian&reg; publication.
 

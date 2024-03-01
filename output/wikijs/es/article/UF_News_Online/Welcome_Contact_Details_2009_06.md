@@ -65,7 +65,7 @@ Directora: Marilynn Kulieke, Tamara Strumfeld
 Colaboradores: Samantha Nior, Mo Siegel, Paula Thompson, Dorothy Elder, Claire Mylanus, Georges Michelson-Dupont, Chris Wood, Olga Lopez
 Producción: Truthbook.com
 
-«Urantia,» «Urantian,» y [](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
+«Urantia,» «Urantian,» y ![](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
 
 **Fideicomisarios:** Dr. Gard Jameson, Sr. Richard Keeler, Dra. Marilyn Kulieke, Sr. Georges MichelsonDupont, Sr. Mo Siegel y Sra. Judy Van Cleave.
 

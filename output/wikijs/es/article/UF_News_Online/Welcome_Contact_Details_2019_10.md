@@ -87,7 +87,7 @@ Gaétan Charland, Gary Deinstadt, Marta Elders, Víctor García-Bory, Mark Hutch
 
 Cece Forrester, Bob Solone, Joanne Strobel, Tamara Strumfeld, Ashley Thompson, Marie White
 
-«Urantia,» «Urantian,» y [](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
+«Urantia,» «Urantian,» y ![](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
 
 Esta es una publicación «Urantian» &reg;
 

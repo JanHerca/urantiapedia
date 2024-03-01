@@ -68,7 +68,7 @@ Editores: Marilynn Kulieke, Tamara Strumfeld, and Richard Keeler
 Colaboradores: Mo Siegel, Marilynn Kulieke, Betty Zehr, Irmeli Sjölie, Alice Wood, Bernard Gabriel Belarski
 Producción: Truthbook.com
 
-«Urantia,» «Urantian,» y [](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
+«Urantia,» «Urantian,» y ![](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
 
 Esta es una publicación «Urantian» &reg;
 

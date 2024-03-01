@@ -83,7 +83,7 @@ Marta Elders, Víctor García-Bory, Richard Jernigan, Guy Perron, Line St-Pierre
 
 Ashley Hayes, Joanne Strobel, Tamara Strumfeld
 
-«Urantia,» «Urantian,» y [](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
+«Urantia,» «Urantian,» y ![](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
 
 Esta es una publicación «Urantian» &reg;
 
