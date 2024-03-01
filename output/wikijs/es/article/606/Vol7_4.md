@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1986 Neil Francey, Peter Toy, Ken Glasziou, Madeline Noordzy, Kathleen Swadling<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Neil Francey, Peter Toy, Ken Glasziou, Madeline Noordzy, Kathleen Swadling<br>© 1986 ANZURA, Asociación Urantia de Australia y Nueva Zelanda</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

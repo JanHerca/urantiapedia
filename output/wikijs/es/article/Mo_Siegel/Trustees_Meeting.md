@@ -41,7 +41,7 @@ La Junta ampliada de la Fundación Urantia se reunió en Boulder, Colorado, Esta
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_05/012.jpg">
-<figcaption><em><b>Junta ampliada de la Fundación Urantia: (fila de atrás)</b> Neal Waldrop, Seppo Kanerva, Richard Keeler, Gard Jameson, Jorgan Andrews, Jay Peregrine, Mo Siegel <b>(primera fila)< /b> Judy Van Cleave, Patricia Mundelius, Georges Michelson-Dupont, Irmeli Ivalo-Sjolie, Claire Mylanus, Marilynn Kulieke, Tamara Wood, Sue Tennant</em></figcaption>
+<figcaption><em><b>Junta ampliada de la Fundación Urantia: (fila de atrás)</b> Neal Waldrop, Seppo Kanerva, Richard Keeler, Gard Jameson, Jorgan Andrews, Jay Peregrine, Mo Siegel <b>(primera fila)</b> Judy Van Cleave, Patricia Mundelius, Georges Michelson-Dupont, Irmeli Ivalo-Sjolie, Claire Mylanus, Marilynn Kulieke, Tamara Wood, Sue Tennant</em></figcaption>
 </figure>
 
 Además de la excelente comida, el programa inspirador y la oportunidad de renovar viejas amistades y ganar otras nuevas, el fin de semana demostró vívidamente que el único fin verdadero son las relaciones.

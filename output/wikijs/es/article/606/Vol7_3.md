@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-11-12T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2 py-1">© 1986 Ian Esmore, Madeline Noordzy, Wolfgang Borutta, Steven Shanahan<br>© 1986 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Ian Esmore, Madeline Noordzy, Wolfgang Borutta, Steven Shanahan<br>© 1986 ANZURA, Australia y Nueva Asociación Urantia de Zelanda</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
