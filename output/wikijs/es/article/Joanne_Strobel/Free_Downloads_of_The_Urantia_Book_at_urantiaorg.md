@@ -43,7 +43,7 @@ _De Joanne Strobel, Fundación Urantia, Illinois (Estados Unidos)_
 La Fundación Urantia ha proporcionado descargas gratuitas de _El libro de Urantia_ y sus traducciones en formato digital durante casi ocho años desde 2010. La razón principal por la que se proporcionan gratuitamente es nuestro compromiso con la diseminación. En el [artículo II de la Declaración de Fideicomiso](https://www.urantia.org/es/fundacion-urantia/declaracion-de-fideicomiso#2), se dice que:
 <br style="clear:both;"/>
 
-> > Los objetos concordantes para los cuales se crea la Fundación son de preservar intacto en perpetuidad el texto de _El libro de Urantia_ y de diseminar los principios, las enseñanzas y las doctrinas de _El libro de Urantia_.
+> Los objetos concordantes para los cuales se crea la Fundación son de preservar intacto en perpetuidad el texto de _El libro de Urantia_ y de diseminar los principios, las enseñanzas y las doctrinas de _El libro de Urantia_.
 
 Ahora hay disponibles descargas digitales gratuitas en dieciocho idiomas y en veintiséis formatos electrónicos. ¿Por qué tantos formatos? Nos esforzamos continuamente en adaptarnos a un surtido de dispositivos cada vez mayor, a los diferentes programas de cada uno y a las preferencias de los consumidores por un dispositivo en lugar de otro. ¿Cuál es el mejor formato para ustedes? [Hagan clic aquí](https://www.urantia.org/es/el-libro-de-urantia/formatos-de-libro-electronico).
 

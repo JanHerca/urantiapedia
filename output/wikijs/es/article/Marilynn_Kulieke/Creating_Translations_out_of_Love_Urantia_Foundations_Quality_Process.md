@@ -42,7 +42,10 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Marilynn Kulieke, presidenta de Traducciones, vicepresidenta de la Fundación Urantia (Illinois, Estados Unidos)_
 
-_Nota de la redacción: durante el Simposio Cultural celebrado en abril en la Fundación Urantia, Marilynn dio una presentación excelente e informativa sobre el proceso empleado para crear traducciones de calidad. Se grabó en vídeo y pueden_ [_verla aquí_](https://www.youtube.com/watch?v=_ufcn_nmc-A)_. El resultado final es un profundo agradecimiento hacia el increíble trabajo que se necesita para traducir_ El libro de Urantia_._
+_Nota de la redacción: durante el Simposio Cultural celebrado en abril en la Fundación Urantia, Marilynn dio una presentación excelente e informativa sobre el proceso empleado para crear traducciones de calidad. Se grabó en vídeo y pueden verla debajo. El resultado final es un profundo agradecimiento hacia el increíble trabajo que se necesita para traducir_ El libro de Urantia.
+<br style="clear:both;"/>
+
+https://www.youtube.com/watch?v=_ufcn_nmc-A
 
 Un elemento clave para cumplir con el [objeto principal de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/declaracion-de-fideicomiso#2) es crear traducciones de _El libro de Urantia_ en los numerosos idiomas de nuestro mundo. Las traducciones son una parte vital de nuestro trabajo para cumplir la misión de sembrar _El libro de Urantia_ y sus enseñanzas por todo el mundo.
 
@@ -51,12 +54,11 @@ Tengo el placer de servir como presidenta del comité de Traducciones. Otros mie
 Nuestra meta es crear traducciones de la mayor calidad posible, y por lo tanto el comité de traducciones creó un proceso sistemático basado en nuestro amor por la Revelación Urantia. El desarrollo del proceso comenzó en 2006 y está basado en la Guía Estándar de Control de la Calidad en la Traducción que fue adoptada por ASTM International.
 
 A medida que aplicábamos estos estándares, nos fue quedando claro que se necesitaría un proceso de cinco pasos de aproximadamente 40 años o más para producir una traducción de gran calidad. Estas etapas se resumen como sigue:
-<br style="clear:both;"/>
 
 ```mermaid
 flowchart TB
     P1["
-        <b>Paso 1: Preparación</b>
+        Paso 1: Preparación
         De uno a 10 años\n
         &bull; Una o más personas se han
         sentido inspiradas por las
@@ -65,7 +67,7 @@ flowchart TB
         necesaria para traducir eI libro.
     "]
     P2["
-        <b>Paso 2: Evaluación</b>
+        Paso 2: Evaluación
         De seis meses a un año
         &bull; ¿Está calificado eI traductor
         jefe?
@@ -75,7 +77,7 @@ flowchart TB
         terminología sea uniforme?
     "]
     P3["
-        <b>Paso 3: Traducción</b>
+        Paso 3: Traducción
         De 9 a 10 años
         &bull; ;Empieza eI trabajo!
         &bull; El traductor debe comprender eI
@@ -85,7 +87,7 @@ flowchart TB
          &bull; El texto debe ser hermoso.
     "]
     P4["
-        <b>Paso 4: Maduración</b>
+        Paso 4: Maduración
         De 5 a 15 años
         &bull; La traducción se publica y
         distribuye.
@@ -96,7 +98,7 @@ flowchart TB
         revisión.
     "]
     P5["
-        <b>Paso 5: Revisión</b>
+        Paso 5: Revisión
         De 5 a 6 años
         &bull; Se crea un equipo.
         &bull; Se aclaran los términos.

@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
-<img src="/image/article/UF_News_Online/2017_10/003.jpg">
+<img src="/image/article/UF_News_Online/2017_10/037.jpg">
 </figure>
 
 _By Ken Keyser, Illinois, United States_

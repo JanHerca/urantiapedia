@@ -42,7 +42,10 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Marilynn Kulieke, Chair of Translations, vice president, Urantia Foundation, Illinois, United States_
 
-_Editor's Note: During the Cultural Symposium held at Urantia Foundation in April, Marilynn gave an excellent and informative presentation on the process used to produce quality translations. It was video recorded, so please view it here. The end result is a deeper appreciation for the incredible work required to translate _The Urantia Book_._
+_Editor's Note: During the Cultural Symposium held at Urantia Foundation in April, Marilynn gave an excellent and informative presentation on the process used to produce quality translations. It was video recorded, so please view it here. The end result is a deeper appreciation for the incredible work required to translate_ The Urantia Book.
+<br style="clear:both;"/>
+
+https://www.youtube.com/watch?v=_ufcn_nmc-A
 
 A main avenue in fulfilling Urantia Foundation's principal object is the production of translations of _The Urantia Book_ into the many languages of our world. They are a vital part of our work in fulfilling the mission of seeding _The Urantia Book_ and its teachings globally.
 
@@ -51,21 +54,20 @@ It is my pleasure to serve as chair of the Translation Committee. Other members 
 It is our goal to be the producer of the highest-quality translations, and therefore our translation committee created a systematic process based on our love for the Urantia Revelation. The process development began in 2006, and is based on the Standard Guide for Quality Assurance in Translation that was adopted by ASTM International.
 
 As we applied these standards, it became clear to us that a fivestage process of approximately 40 years or more was needed to produce a high-quality translation. These stages are outlined as follows:
-<br style="clear:both;"/>
 
 ```mermaid
 flowchart TB
     P1["
-        <b>Stage One: Preparation</b>
+        Stage One: Preparation
         1-10 years\n
         &bull; One or more individuals 
-        have been inspired by <i>The Urantia 
-        Book</i>'s teachings.
+        have been inspired by The Urantia 
+        Book's teachings.
         &bull; The motivation required to 
         translate the book is finally alive.
     "]
     P2["
-        <b>Stage Two: Appraising</b>
+        Stage Two: Appraising
         6 months- 1 year\n
         &bull; Is the chief translator 
         qualified? 
@@ -75,7 +77,7 @@ flowchart TB
         uniform in terminology?
     "]
     P3["
-        <b>Stage Three: Translating</b>
+        Stage Three: Translating
         9-10 years\n
         &bull; The work begins!
         &bull; Translator must deeply
@@ -85,7 +87,7 @@ flowchart TB
         &bull; Must be beautiful.
     "]
     P4["
-        <b>Stage Four: Maturing </b>
+        Stage Four: Maturing
         5-15 years\n
         &bull; Translation is published and
         distributed.
@@ -96,7 +98,7 @@ flowchart TB
         formulated.
     "]
     P5["
-        <b>Stage Five: Revising</b>
+        Stage Five: Revising
         5-6 years\n
         &bull; A team is developed.
         &bull; Terms are clarified.

@@ -58,7 +58,7 @@ Aunque quizá no agasajamos a nuestros invitados con una experiencia culinaria a
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_12/042.jpg">
-<figcaption><em><b>4ª fila:</b> Richard Jernigan, Joanne Strobel, Guy Perron, Henk Mylanus, Gard Jameson<br><b>3ª fila:</b> Judy Van Cleave, Ralph Zehr, Claire Mylanus, Lu Schanfarber, Marta Elders, Jay Peregrine<br><b>2ª fila:</1b> Olga López, Sherry Layton, Raúl Pujol<br><b>4ª fila:</b> Carmelo Martínez, Anibal Pacheco, Víctor García-Bory, Marilynn Kulieke, Betty Zehr, Tamara Strumfeld</em></figcaption>
+<figcaption><em><b>4ª fila:</b> Richard Jernigan, Joanne Strobel, Guy Perron, Henk Mylanus, Gard Jameson<br><b>3ª fila:</b> Judy Van Cleave, Ralph Zehr, Claire Mylanus, Lu Schanfarber, Marta Elders, Jay Peregrine<br><b>2ª fila:</b> Olga López, Sherry Layton, Raúl Pujol<br><b>1ª fila:</b> Carmelo Martínez, Anibal Pacheco, Víctor García-Bory, Marilynn Kulieke, Betty Zehr, Tamara Strumfeld</em></figcaption>
 </figure>
 
 

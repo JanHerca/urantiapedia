@@ -71,7 +71,7 @@ Aceptación del Libro de Urantia hasta el momento.
 </figure>
 
 Con fines históricos, la junta votó a favor de publicar una réplica exacta de la primera edición de 1955 de El libro de Urantia. La fecha de publicación no ha sido concretada, pero las ruedas están en movimiento.
-<br estilo="claro:ambos;"/>
+<br style="clear:both;"/>
 
 ## 6. Revisión del texto de referencia estándar (SRT)
 

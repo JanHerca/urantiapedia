@@ -39,6 +39,7 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 _De Judy Van Cleave, fideicomisaria y secretaria de la Fundación Urantia, Idaho (Estados Unidos)_
+<br style="clear:both;"/>
 
 ## Nueva directora ejecutiva
 
