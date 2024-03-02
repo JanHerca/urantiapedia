@@ -47,7 +47,7 @@ Servir en la junta de la Fundación Urantia como fideicomisaria es algo que no m
 Para mí es un gran honor, una gran responsabilidad y una gran oportunidad de servicio en la que espero dar lo mejor de mí para llevar a cabo la misión de la Fundación Urantia, teniendo siempre presente que:
 <br style="clear:both;"/>
 
-> Mientras los débiles se dedican a hacer buenos propósitos, los fuertes actúan. La vida no es más que un día de trabajo, hacedlo bien. La acción es nuestra; las consecuencias, de Dios. <a id="a48_186"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
+> Mientras los débiles se dedican a hacer buenos propósitos, los fuertes actúan. La vida no es más que un día de trabajo, hacedlo bien. La acción es nuestra; las consecuencias, de Dios. <a id="a49_186"></a>[LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
 
 ## Víctor García-Bory
 
@@ -64,7 +64,7 @@ Agradezco humildemente al Padre de las Luces esta oportunidad. Jesús vivió una
 Me viene a la mente una de mis citas favoritas:
 <br style="clear:both;"/>
 
-> El servicio —el servicio con propósito, no la esclavitud— produce la satisfacción más alta y expresa la dignidad más divina. El servicio —más servicio, servicio acrecentado, servicio difícil, servicio aventurado y al final, servicio divino y perfecto— es la meta del tiempo y el destino del espacio. <a id="a65_302"></a>[LU 28:6.17](/es/The_Urantia_Book/28#p6_17)
+> El servicio —el servicio con propósito, no la esclavitud— produce la satisfacción más alta y expresa la dignidad más divina. El servicio —más servicio, servicio acrecentado, servicio difícil, servicio aventurado y al final, servicio divino y perfecto— es la meta del tiempo y el destino del espacio. <a id="a66_302"></a>[LU 28:6.17](/es/The_Urantia_Book/28#p6_17)
 
 ## Sherry Cathcart Chavis
 
@@ -75,7 +75,7 @@ Me viene a la mente una de mis citas favoritas:
 Siempre es un privilegio servir al Padre de cualquier manera que me llame a servir. Y respeto y honro el compromiso de la Fundación de aumentar la representación global dentro de la comunidad Urantia para que con el tiempo todos los pueblos del mundo puedan llegar a una mayor comprensión de su herencia espiritual como hijos e hijas del Padre celestial y experimenten una mayor apreciación de su destino eterno, como se muestra magníficamente en _El libro de Urantia_:
 <br style="clear:both;"/>
 
-> Las criaturas conocedoras de Dios tienen una única aspiración suprema, un solo deseo incontenible, que es llegar a ser mientras están en sus esferas como es él en su perfección paradisiaca. <a id="a76_192"></a>[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)
+> Las criaturas conocedoras de Dios tienen una única aspiración suprema, un solo deseo incontenible, que es llegar a ser mientras están en sus esferas como es él en su perfección paradisiaca. <a id="a77_192"></a>[LU 1:0.3](/es/The_Urantia_Book/1#p0_3)
 
 ## Chris Wood
 
@@ -88,7 +88,7 @@ Debido a que la Fundación Urantia destaca en varias tareas fundamentales, mucha
 Ser fideicomisario significa aceptar este deber que considero primordial para el éxito de la revelación. Tengo la oportunidad de unirme a un equipo de servidores con talento y dedicación para preservar lo mejor de lo que nos ha precedido, para ayudar a proporcionar cimientos estables sobre los que la comunidad actual puede construir sus proyectos de época y para preparar la transmisión de todo esto a la ola venidera de hombres y mujeres conocedores de Dios que nos dirigirán en las generaciones futuras. Es un honor y un gran privilegio unirse al equipo de la Fundación.
 <br style="clear:both;"/>
 
-> Pero el gran reto del vivir religioso consiste en unificar los poderes del alma propios de cada personalidad bajo el dominio del amor. La salud, la eficacia mental y la felicidad surgen de la unificación de los sistemas físicos, los sistemas de mente y los sistemas de espíritu. El hombre entiende mucho de salud y de cordura pero sabe muy poco de felicidad. La felicidad más grande está vinculada de forma indisoluble al progreso espiritual. El crecimiento espiritual produce una alegría duradera, una paz que rebasa todo entendimiento. <a id="a89_540"></a>[LU 100:4.3](/es/The_Urantia_Book/100#p4_3)
+> Pero el gran reto del vivir religioso consiste en unificar los poderes del alma propios de cada personalidad bajo el dominio del amor. La salud, la eficacia mental y la felicidad surgen de la unificación de los sistemas físicos, los sistemas de mente y los sistemas de espíritu. El hombre entiende mucho de salud y de cordura pero sabe muy poco de felicidad. La felicidad más grande está vinculada de forma indisoluble al progreso espiritual. El crecimiento espiritual produce una alegría duradera, una paz que rebasa todo entendimiento. <a id="a90_540"></a>[LU 100:4.3](/es/The_Urantia_Book/100#p4_3)
 
 
 ## Referencias

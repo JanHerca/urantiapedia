@@ -116,7 +116,7 @@ La presencia de la revelación de Urantia se sintió con fuerza en la reunión c
 <img src="/image/article/The_Mighty_Messenger/2005_Winter/005614.jpg">
 </figure>
 
-Los miembros de la Primera Sociedad y la Sociedad Urantia Greatet Lake Michigan se reúnen para un retrato grupal en su evento copatrocinado, «La Fe de Jesús», el 19'21 de agosto en el Centro de Retiros DeKoven en Racine, WI. Después del retiro, Fitst Society realizó su tradicional celebración anual en la casa de David y Marilyn Kulieke en Lincolnshire, IL.
+Los miembros de la Primera Sociedad y la Sociedad Urantia Greatet Lake Michigan se reúnen para un retrato grupal en su evento copatrocinado, «La Fe de Jesús», el 19'21 de agosto en el Centro de Retiros DeKoven en Racine, WI. Después del retiro, Fitst Society realizó su tradicional celebración anual en la casa de David y Marilynn Kulieke en Lincolnshire, IL.
 
 Los lectores del área de Santa Cruz se reunieron en la casa de Elizabeth y Larry Jones. Su cena de conmemoración se celebró en «Angel Grove», una hermosa zona de secuoyas decoradas con ángeles. (Sin fotografía)
 

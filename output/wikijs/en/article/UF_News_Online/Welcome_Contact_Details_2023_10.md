@@ -74,7 +74,7 @@ Email: urantia@urantia.org
 
 Editors: Cece Forrester, Marilynn Kulieke, Joanne Strobel, Tamara Strumfeld
 
-Contributors: Georges Michelson-Dupont, Judy Van Cleave, Pato Banton, Brad Garner, Marilynn Kulieke, Olga López, Luis Costa
+Contributors: : Belen Asidao, Judy Van Cleave, Emeka Anazodo, Carolyn “Carrie” Prentice, Doug McKeever
 
 Production: Urantia Foundation
 

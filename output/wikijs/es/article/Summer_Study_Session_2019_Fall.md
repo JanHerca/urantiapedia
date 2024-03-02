@@ -137,7 +137,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 <figure id="Figure_21" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/050.jpg">
-<figcaption><em>Marilyn Kulieke, Emily Deam y Ken Keyser</em></figcaption>
+<figcaption><em>Marilynn Kulieke, Emily Deam y Ken Keyser</em></figcaption>
 </figure>
 
 <figure id="Figure_22" class="image urantiapedia">

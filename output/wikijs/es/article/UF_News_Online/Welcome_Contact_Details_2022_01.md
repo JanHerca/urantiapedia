@@ -92,7 +92,7 @@ Esta es una publicación «Urantian» &reg;
 <img src="/image/article/UF_News_Online/2022_01/062.jpg">
 </figure>
 
-Las acciones de Dios son todas decididas, inteligentes, sabias, amables y eternamente consideradas con el mayor bien. _El Libro de Urantia_, <a id="a94_125"></a>[LU 3:2.8](/es/The_Urantia_Book/3#p2_8)
+Las acciones de Dios son todas decididas, inteligentes, sabias, amables y eternamente consideradas con el mayor bien. _El Libro de Urantia_, <a id="a94_141"></a>[LU 3:2.8](/es/The_Urantia_Book/3#p2_8)
 
 
 

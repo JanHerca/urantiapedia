@@ -73,7 +73,7 @@ Amós nos dijo que un libro que parece una Biblia como el nuestro tiene poco int
 
 > Hasta ahora, se han regalado 5.081 Libros de Urantia. (En India)
 
-> «Id por todo el mundo y predicad la buena nueva del reino. Liberad a los cautivos espirituales, confortad a los oprimidos y ayudad a los afligidos. Habéis recibido gratuitamente, dad gratuitamente.» Jesús. <a id="a51_208"></a>[[LU 140:9](/es/The_Urantia_Book/140#p9)]
+> «Id por todo el mundo y predicad la buena nueva del reino. Liberad a los cautivos espirituales, confortad a los oprimidos y ayudad a los afligidos. Habéis recibido gratuitamente, dad gratuitamente.» Jesús. <a id="a75_208"></a>[[LU 140:9](/es/The_Urantia_Book/140#p9)]
 
 ## Problema para el cristianismo en la India
 

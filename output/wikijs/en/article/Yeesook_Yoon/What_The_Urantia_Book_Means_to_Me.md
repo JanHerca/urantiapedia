@@ -51,7 +51,7 @@ After finishing the book, I began meeting with a Urantia study group. Seven to t
 
 Korea hosted the World Cup in 2002. Mr. Piobak of Seattle, Washington, visited at the invitation of the Korean World Cup organizers, and I was asked to pick him up at the airport. He elected to stay at my house, preferring my son’s bedroom over the best hotel suites because he craved home-style baekban and miso jjigae like his mother used to cook. Before he returned to Seattle, I gave Mr. Piobak a gift of _The Urantia Book_. His spiritual thirst was so great that he read it and thanked me. A precious connection was made!
 
-<figure id="Figure_1" class="image urantiapedia image-style-align-right">
+<figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_12/039.jpg">
 <figcaption><em>Seoul World Cup Stadium</em></figcaption>
 </figure>

@@ -3,7 +3,7 @@ title: "Updates from the July 2023 Trustee Meeting"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Urantia Foundation, Urantia Foundation News Online, article
+tags: Dissemination, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---

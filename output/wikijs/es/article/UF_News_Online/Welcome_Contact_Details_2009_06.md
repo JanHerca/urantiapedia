@@ -67,7 +67,7 @@ Producción: Truthbook.com
 
 «Urantia,» «Urantian,» y ![](/image/article/UF_News_Online/tcc_small.png) son marcas registradas de la Fundación Urantia.
 
-**Fideicomisarios:** Dr. Gard Jameson, Sr. Richard Keeler, Dra. Marilyn Kulieke, Sr. Georges MichelsonDupont, Sr. Mo Siegel y Sra. Judy Van Cleave.
+**Fideicomisarios:** Dr. Gard Jameson, Sr. Richard Keeler, Dra. Marilynn Kulieke, Sr. Georges MichelsonDupont, Sr. Mo Siegel y Sra. Judy Van Cleave.
 
 **Fideicomisarios asociados**: Sra. Jan Bernard, Dra. Marta Elders, Sra. Irmeli Ivalo-Sjölie, Dra. Olga López, Sra. Claire Mylanus y Sr. Henk Mylanus.
 
