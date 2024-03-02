@@ -69,7 +69,7 @@ I can now see that God is not too busy for me, and I accept his will, with the s
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_12/030.jpg">
-<figcaption><em>Back row: Marta Loftus, Lila Dogim, Margaret Slater Thompson Front row: Susan Owen, Evette Twyford, Doreen Heyne, Line St-Pierre, Katharina Becker, Dolores Rubio, Carrie Prentice </em></figcaption>
+<figcaption><em>Back row: Marta Loftus, Lila Dogim, Margaret Slater Thompson<br>Front row: Susan Owen, Evette Twyford, Doreen Heyne, Line St-Pierre, Katharina Becker, Dolores Rubio, Carrie Prentice </em></figcaption>
 </figure>
 
 The Daughters of God group, facilitated by Katharina Becker, Doreen Heyne, Carolyn Prentice, and Line St-Pierre, would love to share this model with other groups to help them encourage more women to appreciate their value and calling. If you would like to experience this retreat, we would be happy to travel to your retreat site to meet with your group. If you plan a date, gather six to eight women and reserve a venue, we will commit to meeting with your group. We look forward to empowering more women to follow their spiritual longings for sisterhood and outreach.

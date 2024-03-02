@@ -39,10 +39,6 @@ dateCreated: 2023-8-29T10:55:6Z
 </figure>
 
 _By Philip Calabrese, California, United States_
-
-_De Philip Calabrese, California (Estados Unidos)_
-
-_Nota de la redacción:_ [_Para leer los documentos presentados en el Simposio de Ciencia, hagan clic aquí._](https://www.urantia.org/urantia-book/study#2016-science-symposium)
 <br style="clear:both;"/>
 
 ## Why a Science Symposium?
