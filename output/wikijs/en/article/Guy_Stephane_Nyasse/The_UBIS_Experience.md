@@ -72,7 +72,7 @@ This same brother sent me an invitation on Skype, and we were then able to speak
 
 > “The uncertainties of life and the vicissitudes of existence do not in any manner contradict the concept of the universal sovereignty of God. All evolutionary creature life is beset by certain inevitabilities. Consider the following:”
 > 
-> 1. Is courage-strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments." <a id="a74_169"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5)
+> “1. Is courage-strength of character—desirable? Then must man be reared in an environment which necessitates grappling with hardships and reacting to disappointments.” <a id="a74_169"></a>[UB 3:5.5](/en/The_Urantia_Book/3#p5_5)
 
 I now find my personal life flourishing as I go forward with courage toward my goals; I remain honest and sincere towards God and myself.
 

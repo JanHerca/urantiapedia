@@ -61,7 +61,7 @@ During the third preaching tour with his apostles and evangelists, while at Tibe
 
 _The Urantia Book_ notes that even the appealing legend of the star of Bethlehem was constructed by “well-meaning zealots” in an attempt to confirm that two extraordinary but wholly natural planetary conjunctions were a token that a great man had been born on earth.
 
-> "Oriental and near-Oriental minds delight in **fairy stories**, and they are continually spinning such **beautiful myths** about the lives of their religious leaders and political heroes. In the absence of printing, when most human knowledge was passed by word of mouth from one generation to another, it was very easy for myths to become traditions and for traditions eventually to become accepted as facts." <a id="a63_412"></a>[UB 122:8.7](/en/The_Urantia_Book/122#p8_7)
+> “Oriental and near-Oriental minds delight in **fairy stories**, and they are continually spinning such **beautiful myths** about the lives of their religious leaders and political heroes. In the absence of printing, when most human knowledge was passed by word of mouth from one generation to another, it was very easy for myths to become traditions and for traditions eventually to become accepted as facts.” <a id="a63_412"></a>[UB 122:8.7](/en/The_Urantia_Book/122#p8_7)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_10/040.jpg">

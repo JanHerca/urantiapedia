@@ -67,8 +67,7 @@ With deep respect and appreciation for a job well done, a reception to honor the
 
 ## Community Relations
 
-_The Urantia Book_ community continues to exhibit good will, peace, cooperation, and understanding. In keeping with the increasing good will between organizations, we have budgeted money to sponsor the UAI conferences in Amsterdam and Colombia in 2018. We have also budgeted outreach funds to share expenses with readers/organizations attending book fairs, outreach events, and the
-Parliament of World Religions.
+_The Urantia Book_ community continues to exhibit good will, peace, cooperation, and understanding. In keeping with the increasing good will between organizations, we have budgeted money to sponsor the UAI conferences in Amsterdam and Colombia in 2018. We have also budgeted outreach funds to share expenses with readers/organizations attending book fairs, outreach events, and the Parliament of World Religions.
 
 ## Books
 
