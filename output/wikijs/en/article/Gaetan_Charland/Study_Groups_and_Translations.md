@@ -62,7 +62,7 @@ The revelators of _The Urantia Book_ explain this better than I can, so I take t
 
 > IN THE MINDS of the mortals of Urantia—that being the name of your world—there exists great confusion respecting the meaning of such terms as God, divinity, and deity. Human beings are still more confused and uncertain about the relationships of the divine personalities designated by these numerous appellations. Because of this conceptual poverty associated with so much ideational confusion, I have been directed to formulate this introductory statement in explanation of the meanings which should be attached to certain word symbols as they may be hereinafter used in those papers which the Orvonton corps of truth revealers have been authorized to translate into the English language of Urantia. <a id="a62_703"></a>[UB 0:0.1](/en/The_Urantia_Book/0#p0_1)
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_10/018.jpg">
 </figure>
 
