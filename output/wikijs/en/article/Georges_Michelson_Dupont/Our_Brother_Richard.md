@@ -43,7 +43,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Georges Michelson-Dupont, trustee, Recloses, France_
 
-_Editor's Note: The following is a personal reminiscence about the author's friend and fellow trustee, Richard Keeler, who graduated to the mansion worlds in January. A biography published on the occasion of his retirement as a trustee can be found here, and the announcement of his passing can be found here._
+_Editor's Note: The following is a personal reminiscence about the author's friend and fellow trustee, Richard Keeler, who graduated to the mansion worlds in January. A biography published on the occasion of his retirement as a trustee can be found [here](/en/article/UF_News_Online/Richard_Keeler_Retires), and the announcement of his passing can be found [here](https://www.urantia.org/news/2019-01/richard-keeler-has-graduated)._
 
 Richard Keeler—my brother, my friend—graduated to the mansion worlds serene and at peace after having lived his sonship on Urantia in full consciousness of our Universal Father. He had a sincere desire to live the teachings of the revelation to which he devoted his life. In addition, he fulfilled his responsibilities as a trustee of Urantia Foundation, a position he accepted more than 30 years ago when heavy clouds of conflict were piling up on our Urantian community.
 

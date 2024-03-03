@@ -62,29 +62,17 @@ _Editor's Note: The following prayer was composed by Share during the first Uran
 ## Thanksgiving
 
 Thank you, Father, for the beauty and symmetry in this universe of your making,
-
 Where immortality awaits each treasured soul.
-
 Here lonely souls are satiated with generous portions of your love, bathed and immersed until content.
-
 Then embraced by swirls of angels, delighted to touch and behold one who has survived and overcome the pitfalls of rebellion.
-
 The fulfillment of our deepest longings is your pleasure.
-
 Our experience is your experience. We are interdependent.
-
 The perfection in all the details of this wondrous life is yet to unfold in our appreciative hearts.
-
 Our faith empowers us to gather the breadth of courage and depth of perspective to wisely guide our intent to do Your Will.
-
 We actively join you in Your Will for truth, beauty, and goodness, the only true substance of eternity.
-
 This journey, the Master Plan of adventure and joy, in and with you, is exquisite.
-
 Your superb bounty of love, infectious in its perfection, IS ... as it's meant to be.
-
 Eternal joy in fulfilling your faintest desire will one day be ours!
-
 Thank you, Father, for your beauty and symmetry.
 
 <figure id="Figure_3" class="image urantiapedia">

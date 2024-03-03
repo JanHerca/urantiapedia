@@ -43,7 +43,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _De Georges Michelson-Dupont, fideicomisario (Recloses, Francia)_
 
-_Nota de la redacción: ofrecemos a continuación unos recuerdos personales del amigo y compañero fideicomisario del autor, Richard Keeler, que se graduó a los mundos mansión en enero. Pueden ver una biografía publicada con motivo de su retiro_ [_aquí_](https://www.urantia.org/es/news/2018-07/richard-keeler-se-retira)_, y el anuncio de su fallecimiento_ [_aquí_](https://www.urantia.org/es/news/2019-01/richard-keeler-se-ha-graduado)_._
+_Nota de la redacción: ofrecemos a continuación unos recuerdos personales del amigo y compañero fideicomisario del autor, Richard Keeler, que se graduó a los mundos mansión en enero. Pueden ver una biografía publicada con motivo de su retiro [aquí](/es/article/UF_News_Online/Richard_Keeler_Retires), y el anuncio de su fallecimiento [aquí](https://www.urantia.org/es/news/2019-01/richard-keeler-se-ha-graduado)._
 
 Richard Keeler (mi hermano, mi amigo) se graduó a los mundos mansión sereno y en paz después de haber vivido su filiación en Urantia con plena consciencia de nuestro Padre Universal. Tenía el deseo sincero de vivir las enseñanzas de la revelación a la que dedicó su vida. Además cumplió sus responsabilidades como fideicomisario de la Fundación Urantia, un cargo que aceptó hace más de 30 años cuando se cernían nubes negras de conflicto sobre la comunidad Urantia.
 

@@ -85,7 +85,7 @@ I don't know how God intends to weave our lives together in the future, but for 
 <figcaption><em>Back: Doreen Heyne, Katharina Becker, Joanne Strobel<br>Middle: Karen Woodbury, Patricia Hall, Theresa Hall<br>Front: Mary Huggins, Theresa Schumann, Carolyn Prentice, Cheryl Glicker, Jodi Niggemann, Line St-Pierre</em></figcaption>
 </figure>
 
-> “I am a lighthouse, shining bright into the darkness to light the way for others to see home,”
+> “I am a lighthouse, shining bright into the darkness to light the way for others to see home.”
 {.is-info}
 
 

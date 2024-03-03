@@ -60,29 +60,17 @@ _Nota de la redacción: la oración que viene a continuación fue escrita por Sh
 ## Acción de gracias
 
 Gracias, Padre, por la belleza y la simetría del universo que has creado,
-
 Donde la inmortalidad espera a toda alma atesorada.
-
 Aquí las almas solitarias están saciadas con porciones generosas de tu amor, bañadas e inmersas a placer.
-
 Luego abrazadas con remolinos de ángeles, dichosas de tocar y contemplar al que ha sobrevivido y superado los obstáculos de la rebelión.
-
 El cumplimiento de nuestros más profundos anhelos es nuestro placer.
-
 Nuestra experiencia es tu experiencia. Somos interdependientes.
-
 La perfección en todos los detalles de esta maravillosa vida todavía ha de desplegarse en nuestro corazón agradecido.
-
 Nuestra fe nos da poder para reunir la amplitud del valor y la profundidad de perspectiva para guiar sabiamente nuestra intención de hacer Tu Voluntad.
-
 Nos unimos _activamente_ en Tu Voluntad para obtener verdad, belleza y bondad, la única sustancia verdadera de la eternidad.
-
 Este viaje, el Plan Maestro de aventura y alegría, _en ti y contigo_, es exquisito.
-
 Tu magnífica abundancia de amor, contagiosa en su perfección, ES… como debe ser.
-
 ¡La alegría eterna de cumplir tus más mínimos deseos será nuestra algún día!
-
 Gracias, Padre, por tu belleza y simetría.
 
 <figure id="Figure_3" class="image urantiapedia">
