@@ -108,25 +108,27 @@ window.addEventListener('load', function(event) {
 
   document.querySelectorAll('.contents oembed, .contents a').forEach(elm => {
     const url = elm.hasAttribute('url') ? elm.getAttribute('url') : 
-      elm.getAttribute('href');
-    let newElmHtml = null;
-    const ytMatch = url.match(rxYoutube);
-    const scMatch = url.match(rxScreencast);
-
-    if (ytMatch) {
-      newElmHtml = `<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube-nocookie.com/embed/${ytMatch[5]}" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
-    } else if(scMatch) {
-      newElmHtml = `<iframe id="scplayer" type="text/html" width="640" height="360" src="${url}/embed" frameborder="0" allowfullscreen></iframe>`;
-    } else if (url.endsWith('.mp4')) {
-      newElmHtml = `<video controls autostart="0" name="media" width="640" height="360"><source src="${url}" type="video/mp4"></video>`;
-    } else {
-      return;
+      (elm.hasAttribute('href') ? elm.getAttribute('href') : null);
+    if (url) {
+      let newElmHtml = null;
+      const ytMatch = url.match(rxYoutube);
+      const scMatch = url.match(rxScreencast);
+  
+      if (ytMatch) {
+        newElmHtml = `<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/${ytMatch[5]}" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+      } else if(scMatch) {
+        newElmHtml = `<iframe id="scplayer" type="text/html" width="640" height="360" src="${url}/embed" frameborder="0" allowfullscreen></iframe>`;
+      } else if (url.endsWith('.mp4')) {
+        newElmHtml = `<video controls autostart="0" name="media" width="640" height="360"><source src="${url}" type="video/mp4"></video>`;
+      } else {
+        return;
+      }
+  
+      const newElm = document.createElement('div'); 
+      newElm.classList.add('responsive-embed')
+      newElm.insertAdjacentHTML('beforeend', newElmHtml);
+      elm.replaceWith(newElm);
     }
-
-    const newElm = document.createElement('div'); 
-    newElm.classList.add('responsive-embed')
-    newElm.insertAdjacentHTML('beforeend', newElmHtml);
-    elm.replaceWith(newElm);
   });
 
 });

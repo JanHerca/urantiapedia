@@ -80,7 +80,7 @@ The investment strategy for all of our funds is targeted towards moderate risk.
 <img src="/image/article/UF_News_Online/2022_01/011.jpg">
 </figure>
 
-**Spanish Revision:** The launch of the new revision of _El Libro de Urantia_ is now online at urantia.org/es/el-libro-deurantia/leer. A printed book will follow in spring. A heartfelt thank-you goes to the revision team-Carmelo Martínez,
+**Spanish Revision:** The launch of the new revision of _El Libro de Urantia_ is now online at [urantia.org/es/el-libro-deurantia/leer](https://www.urantia.org/es/el-libro-de-urantia/leer). A printed book will follow in spring. A heartfelt thank-you goes to the revision team-Carmelo Martínez,
 
 Anibal Pacheco, Olga López, Víctor García-Bory, and Raúl Pujol. Their steadfastness in completing this 10 -year project is a ringing endorsement for the power of the revelation and their teamwork. Congratulations to all!
 

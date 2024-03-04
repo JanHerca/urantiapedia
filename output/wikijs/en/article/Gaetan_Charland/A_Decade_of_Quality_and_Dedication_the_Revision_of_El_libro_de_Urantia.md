@@ -44,9 +44,7 @@ Several years ago, I was invited to serve on a new committee tasked with organiz
 
 As an outsider looking in, I share my observations of what I have seen, witnessed, and appreciated. While I am not an expert on either translating or revising, I do have firsthand experience studying and managing study groups with readers who use the original French translation and its subsequent revisions. Hence my sympathy with Spanishspeaking readers for the difficulties they might anticipate or even experience with this new revision. But please be assured that great care, substantial resources, and unparalleled expertise have been invested in this project.
 
-Urantia Foundation takes its translation and revision responsibilities seriously. Previous articles have outlined the challenges and intricacies involved in a fivestage process that can take decades. You can learn more by reading here:
-
-https://www.urantia.org/news/2019-06/creatingtranslations-out-love-urantia-foundations-quality-process.
+Urantia Foundation takes its translation and revision responsibilities seriously. Previous articles have outlined the challenges and intricacies involved in a fivestage process that can take decades. You can learn more by reading here:[Creating Translations out of Love: Urantia Foundation's Quality Process](/en/article/Marilynn_Kulieke/Creating_Translations_out_of_Love_Urantia_Foundations_Quality_Process)..
 
 Numerous steps were involved in this revision, each of which necessitated an element of quality assurance. It began with the revision team whose members hailed from different Spanish-speaking countries. They all had proven comprehension of the English text as well as experience with the English language. They had also participated in study groups for many years.
 

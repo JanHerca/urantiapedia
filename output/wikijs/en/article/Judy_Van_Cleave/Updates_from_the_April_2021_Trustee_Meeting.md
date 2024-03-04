@@ -90,6 +90,7 @@ Translations continued at their normal pace, as reported in previous president's
 <img src="/image/article/UF_News_Online/2021_07/017.jpg">
 <figcaption><em>Luis García-Bory</em></figcaption>
 </figure>
+
 Continuing with our commitment to expand our cultural awareness, we enjoyed a Zoom conversation with Luis García-Bory who is from Mexico but now lives in Switzerland. Luis gave his opinion on how he thinks the new Spanish revision will be accepted in Europe and Latin America. He also shared his experience of joining the Foundation's Spanish revision launch team.
 
 The revision team participated in an interactive panel during Urantia Association's International Conference on April 24-25. There was good attendance, and it appears that anticipation for the new revision is high.
