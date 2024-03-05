@@ -55,7 +55,7 @@ Je crois que la prière de consentement peut être comparée à l’adoration. D
 2ème rang : Gard Jameson, Marc Joly, Luis Garcia- Bory, Ade Awoyinka</em></figcaption>
 </figure>
 
-> _Jésus enseigna à ses disciples qu’après avoir fait leur prière au Père, ils devaient rester quelque temps dans un état de réceptivité silencieuse pour donner à l’esprit intérieur les meilleurs chances de parler à l’âme attentive. C’est au moment où le mental humain est dans une attitude de sincère adoration que l’esprit du Père parle le mieux aux hommes._ <a id="a56_323"></a>[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)
+> _Jésus enseigna à ses disciples qu’après avoir fait leur prière au Père, ils devaient rester quelque temps dans un état de réceptivité silencieuse pour donner à l’esprit intérieur les meilleurs chances de parler à l’âme attentive. C’est au moment où le mental humain est dans une attitude de sincère adoration que l’esprit du Père parle le mieux aux hommes._ <a id="a57_361"></a>[LU 146:2.17](/fr/The_Urantia_Book/146#p2_17)
 
 Le deuxième jour du séminaire, David Elders, qui lit _Le Livre d’Urantia_ depuis plus de trente ans, nous fit faire un voyage à travers les nouveaux enseignements et concepts du _Livre d’Urantia_. David nous montra que ces concepts sont un moyen d’apprendre, de percevoir la vérité et d’en faire l’expérience dans notre vie.
 

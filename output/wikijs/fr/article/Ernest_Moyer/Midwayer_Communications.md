@@ -14,7 +14,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 _Extraits de « Un rapport sur la canalisation dans la communauté Urantia » par Ernest Moyer_
 
-> « _Mais il y a lieu de préciser clairement que les créatures médianes ne sont pas impliquées dans les spectacles lamentables qui sont donnés sous le qualificatif général de « spiritisme »._ » ([LU 77:8.13](/fr/The_Urantia_Book/77#p8_13))
+> « _Mais il y a lieu de préciser clairement que les créatures médianes ne sont pas impliquées dans les spectacles lamentables qui sont donnés sous le qualificatif général de « spiritisme »._ » (<a id="a16_195"></a>[LU 77:8.13](/fr/The_Urantia_Book/77#p8_13))
 
 Le voilà! Une déclaration concrète et spécifique sur le spiritualisme, sur la médiumnité et sur la canalisation. Les créatures intermédiaires ne sont pas impliquées dans des performances aussi sordides. Ils n’envahissent pas le caractère sacré de l’esprit humain ; ils n'offrent pas de communications spirituelles ; ils n’induisent pas en erreur les pauvres mortels humains égarés ; ils ne profanent pas la dignité de la personnalité humaine. Ils ne proposent pas de canalisations, ni aucune autre forme de médiumnité relevant de la désignation générale de Spiritualisme.
 

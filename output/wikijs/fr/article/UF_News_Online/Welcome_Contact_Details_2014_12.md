@@ -53,7 +53,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ---
 
-> L'amour est la plus grande de toutes les réalités spirituelles. La vérité est une révélation libératrice, mais l'amour est la relation suprême. _Le Livre d’Urantia_, <a id="a55_140"></a>[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)
+> L'amour est la plus grande de toutes les réalités spirituelles. La vérité est une révélation libératrice, mais l'amour est la relation suprême. _Le Livre d’Urantia_, <a id="a55_168"></a>[LU 143:1.4](/fr/The_Urantia_Book/143#p1_4)
 
 ## Volume 8, numéro 4. décembre 2014
 

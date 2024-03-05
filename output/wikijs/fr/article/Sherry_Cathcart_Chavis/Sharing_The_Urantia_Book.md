@@ -76,7 +76,7 @@ Mais je ne crois pas que j’ai jamais parlé du livre avec elle. Cela, jusqu’
 
 Et alors, je repris une citation du livre :
 
-> Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croître en amitié et mûrir en amour. <a id="a78_130"></a>[LU 100:4.4](/fr/The_Urantia_Book/100#p4_4)
+> Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croître en amitié et mûrir en amour. <a id="a78_142"></a>[LU 100:4.4](/fr/The_Urantia_Book/100#p4_4)
 
 Mon amie : « Ou l’as-tu appris ? »
 

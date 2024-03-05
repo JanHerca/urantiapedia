@@ -61,11 +61,11 @@ L’équipe se mit aussi d’accord pour créer des lignes directrices pratiques
 <figcaption><em>Avec Belen, l'équipe de traduction philippine</em></figcaption>
 </figure>
 
-Le plus important, est qu’il y ait une unité d’esprit. Dieu donne à chacun de nous une personnalité unique, et nous sommes chacun habité par un fragment du Père. Comme Jésus le dit « Quand t’ai-je enseigné que vous deviez tous avoir le même point de vue ? … Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour _être_ spirituellement _semblables_. » <a id="a63_309"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)
+Le plus important, est qu’il y ait une unité d’esprit. Dieu donne à chacun de nous une personnalité unique, et nous sommes chacun habité par un fragment du Père. Comme Jésus le dit « Quand t’ai-je enseigné que vous deviez tous avoir le même point de vue ? … Vous n’avez pas besoin d’avoir le même point de vue, les mêmes sentiments, ni même des pensées semblables, pour _être_ spirituellement _semblables_. » <a id="a63_409"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)
 
 Oui, en effet, le travail d’équipe est ce que les révélateurs nous demandent à nous mortels ! Bien qu’un logiciel de traduction soit utile, les traducteurs transmettent l’âme et la profondeur des significations du travail des révélateurs célestes. Couche par couche, en poursuivant le meilleur et le plus élevé pour chaque signification de l’anglais en philippin, nous avons été enrichis spirituellement dans notre corps, notre mental et dans notre esprit.
 
-En ce moment, le Fascicules 1 à 36 ont été traduits et présentés à la Fondation Urantia. Nous remercions tous les donateurs qui aident la propagation de la cinquième révélation d’époque aux Philippines : « La vie n’est que le travail d’un jour… L’acte est à nous, ses conséquences appartiennent à Dieu. » <a id="a67_271"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)
+En ce moment, le Fascicules 1 à 36 ont été traduits et présentés à la Fondation Urantia. Nous remercions tous les donateurs qui aident la propagation de la cinquième révélation d’époque aux Philippines : « La vie n’est que le travail d’un jour… L’acte est à nous, ses conséquences appartiennent à Dieu. » <a id="a67_305"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)
 
 Priez, s’il vous plaît, pour nous qui continuons cette entreprise profondément spirituelle.
 

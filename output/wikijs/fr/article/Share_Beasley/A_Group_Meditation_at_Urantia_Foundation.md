@@ -46,7 +46,7 @@ Grâce aux efforts, à la détermination et au dévouement de nos prédécesseur
 
 Marta Elders, avec son exubérance naturelle, s’est lancée volontairement dans le difficile défi de guider ce groupe à trouver plus de direction spirituelle et de perspicacité par un engagement quotidien d’adoration de notre Père céleste et de prier pour la sagesse afin de traiter une révélation d'époque.
 
-> « La religion révélée consiste en une nouvelle qualité de la sagesse divine qui s’ajoute à la sagesse humaine purement expérientielle. » <a id="a48_108"></a>[LU 100:6.9](/fr/The_Urantia_Book/100#p6_9)
+> « La religion révélée consiste en une nouvelle qualité de la sagesse divine qui s’ajoute à la sagesse humaine purement expérientielle. » <a id="a48_139"></a>[LU 100:6.9](/fr/The_Urantia_Book/100#p6_9)
 
 Marta nous demanda aussi de noter nos idées et inspirations quotidiennement, et de nous engager à le faire pendant dix semaines. Avait-elle oublié que nous avions un travail, des familles, des responsabilités, des engagements et des vacances en prévision? Cela ne l’a pas arrêté, elle nous rappela gentiment et régulièrement de remplir notre tâche.
 
@@ -76,7 +76,7 @@ Je crois que nous avons tous été conduits _au Livre d'Urantia,_ et maintenant 
 
 La méditation de ce matin arrive à sa fin, et tout en étant assis dans cette pièce historique, nous sommes stimulés les uns les autres par nos idées et nos inspirations. Nous avons demandé à être guidé, et nous l’avons été. Le reste de la journée sera consacrée à parler de comment appliquer nos idéaux et à actualiser nos idées. Je suis tout à fait consciente que nous ne sommes pas seuls, que c'est vraiment le projet de nos amis invisibles. À travers les actes d'adoration et de sagesse, nous nous laissons devenir leurs associés et les acteurs temporaires de ce drame en cours.
 
-> « L'évolution humaine est en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. » <a id="a91_120"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33)
+> « L'évolution humaine est en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. » <a id="a78_129"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33)
 
 Et maintenant, notre journée commence ...
 

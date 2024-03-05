@@ -40,7 +40,7 @@ Nous devons tous être d’accord sur le fait que la Révélation du Livre d’U
 
 Les communautés australiennes du Livre URANTIA devraient permettre de commettre des erreurs et des pièges, à partir desquels elles peuvent développer leur sagesse expérientielle.
 
-Je suggère fortement que l'Association abandonne sa timidité et expérimente. Comme le dit le Livre : « L'acte est à nous, les conséquences appartiennent à Dieu ». ([LU 117:5.5](/fr/The_Urantia_Book/117#p5_5))
+Je suggère fortement que l'Association abandonne sa timidité et expérimente. Comme le dit le Livre : « L'acte est à nous, les conséquences appartiennent à Dieu ». (<a id="a42_164"></a>[LU 117:5.5](/fr/The_Urantia_Book/117#p5_5))
 
 Peter Toy, Perth, WA
 
@@ -56,7 +56,7 @@ Académie d'art et de pensée, 178 Marine Pde, Cottesloe, W.A. 6011.
 
 ## Pensée du mois
 
-« Le progrès exige le développement de l’individualité. La médiocrité cherche à se perpétuer dans l’uniformité.» [LU 48:7.29](/fr/The_Urantia_Book/48#p7_29)
+« Le progrès exige le développement de l’individualité. La médiocrité cherche à se perpétuer dans l’uniformité.» <a id="a58_113"></a>[LU 48:7.29](/fr/The_Urantia_Book/48#p7_29)
 
 ## Commentaire sur les déclarations scientifiques dans _Le Livre d'Urantia_
 
@@ -106,7 +106,7 @@ J'ai eu un petit aperçu de ce à quoi pourrait ressembler la Fraternité des Ho
 
 Si seulement nous pouvions être ouverts les uns aux autres dans un sens spirituel, sachant que Dieu est notre Père à tous et ne pas nous enliser dans des divergences d’opinions ou des conflits de personnalités, quel monde merveilleux ce serait !
 
-Sur [LU 99:5.7](/fr/The_Urantia_Book/99#p5_7), nous lisons : « Tout aussi certainement que les hommes partagent leurs croyances religieuses, ils créent une sorte de groupe religieux, lequel crée finalement des buts communs. Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes ».
+Sur <a id="a108_4"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7), nous lisons : « Tout aussi certainement que les hommes partagent leurs croyances religieuses, ils créent une sorte de groupe religieux, lequel crée finalement des buts communs. Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes ».
 
 Ce n'est pas ce que vous êtes, mais ce que vous vous efforcez d'être, qui est important et ce n'est pas ce que vous pensez, mais ce que vous êtes, qui détermine votre degré d'unité spirituelle avec vos semblables.
 

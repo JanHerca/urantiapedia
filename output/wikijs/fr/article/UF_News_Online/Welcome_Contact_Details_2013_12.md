@@ -58,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2013_12/051.jpg">
 </figure>
 
-La religion réelle màne à un service social accru. _Le Livre d’Urantia_, <a id="a60_69"></a>[LU 102:3.4](/fr/The_Urantia_Book/102#p3_4)
+La religion réelle màne à un service social accru. _Le Livre d’Urantia_, <a id="a60_73"></a>[LU 102:3.4](/fr/The_Urantia_Book/102#p3_4)
 <br style="clear:both;"/>
 
 ## Volume 7, numéro 4. décembre 2013

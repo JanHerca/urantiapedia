@@ -36,14 +36,14 @@ AVANT 2000 avant JC
 3. Mille ans plus tard, au niveau suivant, la poterie apparaît. L'agriculture et la spécialisation artisanale sont découvertes.
 4. Vers 4000 av. J.-C., des poteries décoratives colorées apparaissent, avec des figures humaines et géométriques. Cette poterie se retrouve du lac de Van-sud jusqu'à Kirkouk.
 5. Les premières cités-états apparaissent. Nous ne savons pas quelle langue ils parlaient, il n'y avait pas d'écriture.
-6. Les creuseurs sont, bien sûr, gênés par le mystère des Sumériens. Voir le Livre d'Urantia, [LU 78:8.1](/fr/The_Urantia_Book/78#p8_1)
+6. Les creuseurs sont, bien sûr, gênés par le mystère des Sumériens. Voir le Livre d'Urantia, <a id="s38_94"></a>[LU 78:8.1](/fr/The_Urantia_Book/78#p8_1)
 7. Ils trouvent des roues de poterie et des fours pour cuire la poterie.
 8. Vers 3300 av. J.-C. la première écriture est découverte. Jusqu'à présent, nous sommes incapables de lire ces écrits (probablement sumériens).
 9. Mis à part le Livre d'Urantia, les [Sumériens](https://fr.wikipedia.org/wiki/Sumer) restent le grand mystère de toute l'histoire.
 10. À cette époque, l'Égypte jouissait également d'une culture avancée.
 11. A cette époque, des vagues successives de «Sémites» sortirent de la Mésopotamie vers le nord et l'ouest.
 
-**REMARQUE** : L'histoire de l'expansion andite trouvée dans le Livre d'Urantia, [LU 80:0.1](/fr/The_Urantia_Book/80#p0_1)
+**REMARQUE** : L'histoire de l'expansion andite trouvée dans le Livre d'Urantia, <a id="s45_81"></a>[LU 80:0.1](/fr/The_Urantia_Book/80#p0_1)
 
 ## II. L'Orient au troisième millénaire
 

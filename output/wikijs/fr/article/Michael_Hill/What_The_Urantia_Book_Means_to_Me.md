@@ -43,13 +43,13 @@ _Par Michael Hill, Oregon, États-Unis_
 Note de l’éditeur : Cet article fut publié originalement dans la Gazette-Times, rubrique du Corvalis(OR), « Voix Interreligieuses », du 30 mei 2020, sous le titre « Une Tranche de mon gâteau de Foi. »
 <br style="clear:both;"/>
 
-On m’avait appris que la croyance atteignait le niveau de la foi, « lorsque cela motive la vie et façonne la manière de vivre . » <a id="a45_111"></a>[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1) Ma foi dans un Dieu aimant, la source de toute la création, de vérité, beauté et bonté m’a inspiré à l’aimer en retour par le moyen du service.
+On m’avait appris que la croyance atteignait le niveau de la foi, « lorsque cela motive la vie et façonne la manière de vivre . » <a id="a45_130"></a>[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1) Ma foi dans un Dieu aimant, la source de toute la création, de vérité, beauté et bonté m’a inspiré à l’aimer en retour par le moyen du service.
 
 Un credo qu’un ami partagea avec moi se présente comme suit : Je suis enfant libre de Dieu, évolutionnaire, divinement créé, aimé infiniment, habité spirituellement. Et je crois -ai foi- que chaque partie de ce credo est vrai.
 
 Je crois aussi que Dieu veut que je sois comme lui- être parfait comme il l’est. Donc, je m’efforce de vivre ma vie en faisant l’illustration de ma meilleure compréhension de lui, comme une personne de ce monde peut la vivre. J’entreprends de démontrer les fruits de l’esprit dans ma vie- l’amour, la joie, la paix, la longanimité, la douceur, la bonté, la foi, la mansuétude et la modération.
 
-On m’apprît aussi que la vraie vérité est « basée sur une réflexion profonde, une autocritique sincère et sur une conscience morale intransigeante. » <a id="a51_138"></a>[LU 132:3.5](/fr/The_Urantia_Book/132#p3_5) À mes yeux, cela signifie que la réflexion sur la vie- sur mon interaction avec ma famille, mes amis et les étrangers, suivie d’une évaluation honnête de ce que je vois- me permet de décider si mes actions sont en concordance avec mes croyances, ma foi- Est-ce que je passe « de la parole aux actes. » Je m’efforce d’être moral, éthique, d’être toujours véridique et de toujours prendre la bonne voie.
+On m’apprît aussi que la vraie vérité est « basée sur une réflexion profonde, une autocritique sincère et sur une conscience morale intransigeante. » <a id="a51_150"></a>[LU 132:3.5](/fr/The_Urantia_Book/132#p3_5) À mes yeux, cela signifie que la réflexion sur la vie- sur mon interaction avec ma famille, mes amis et les étrangers, suivie d’une évaluation honnête de ce que je vois- me permet de décider si mes actions sont en concordance avec mes croyances, ma foi- Est-ce que je passe « de la parole aux actes. » Je m’efforce d’être moral, éthique, d’être toujours véridique et de toujours prendre la bonne voie.
 
 Je crois qu’il y a un fragment de Dieu en moi qui « montre le chemin » à jamais. Et mon expérience m’a démontré que c’était vrai. Donc, dans les moments de réflexion et d’adoration pour résoudre les problèmes, « j’écoute avec l’oreille de l’esprit » pour la voie de cet esprit.
 

@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2015_09/093.jpg">
 </figure>
 
-Il n'existe qu'une forme de priêre qui convienne à tous les enfants de Dieu, et c'est : « Néanmoins, que ta volonté soit faite. » _Le Livre d’Urantia_, <a id="a58_145"></a>[LU 146:2.12](/fr/The_Urantia_Book/146#p2_12)
+Il n'existe qu'une forme de priêre qui convienne à tous les enfants de Dieu, et c'est : « Néanmoins, que ta volonté soit faite. » _Le Livre d’Urantia_, <a id="a58_152"></a>[LU 146:2.12](/fr/The_Urantia_Book/146#p2_12)
 <br style="clear:both;"/>
 
 

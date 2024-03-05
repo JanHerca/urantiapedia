@@ -84,15 +84,15 @@ Pour toutes informations sur les groupes d'étude du _Livre d'Urantia_, visitez 
 
 [https://www.urantia.org/contact-readers](https://www.urantia.org/contact-readers). Pour des informations sur comment former et développer des groupes d'étude, visitez : [https://urantia-association.org/study-groups/find-a-study-group/](https://urantia-association.org/study-groups/find-a-study-group/) et [https://urantiabook.org/archive/readers/suggestions-for-study-groups.htm](https://urantiabook.org/archive/readers/suggestions-for-study-groups.htm)
 
-> « On ne peut ressentir tout seul une joie réelle. Une vie solitaire est fatale pour le bonheur. Même les familles et les nations jouissent mieux si elles la partagent avec d'autres. » <a id="a86_168"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)
+> « On ne peut ressentir tout seul une joie réelle. Une vie solitaire est fatale pour le bonheur. Même les familles et les nations jouissent mieux si elles la partagent avec d'autres. » <a id="a86_186"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)
 
-> « La croissance spirituelle est mutuellement stimulée par l'association intime avec d'autres personnes religieuses. » <a id="a88_93"></a>[LU 100:0.2](/fr/The_Urantia_Book/100#p0_2)
+> « La croissance spirituelle est mutuellement stimulée par l'association intime avec d'autres personnes religieuses. » <a id="a88_120"></a>[LU 100:0.2](/fr/The_Urantia_Book/100#p0_2)
 
 You will receive updates regarding our progress in achieving these three goals. Please unite with your fellow readers in achieving these important tasks.
 
 Vous serez tenus au courant de nos progrès dans l'accomplissement de ces trois objectifs. Unissez-vous avec vos compagnons lecteurs pour atteindre ces objectifs importants.
 
-> « Tout aussi certainement que les hommes partagent leurs croyances religieuses, ils créent une sorte de groupe religieux, lequel crée finalement des buts communs .Un jour, les personnes religieuses se réuniront et se mettront à coopérer réellement sur la base de l'unité des idéaux et des buts, plutôt que de tenter d'y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les credo qui devraient unir les personnes religieuses. » <a id="a92_407"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7)
+> « Tout aussi certainement que les hommes partagent leurs croyances religieuses, ils créent une sorte de groupe religieux, lequel crée finalement des buts communs .Un jour, les personnes religieuses se réuniront et se mettront à coopérer réellement sur la base de l'unité des idéaux et des buts, plutôt que de tenter d'y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les credo qui devraient unir les personnes religieuses. » <a id="a94_493"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7)
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2010_06/009.jpg">

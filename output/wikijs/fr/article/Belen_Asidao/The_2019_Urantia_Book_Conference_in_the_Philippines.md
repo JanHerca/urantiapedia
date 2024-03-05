@@ -75,7 +75,7 @@ Pour 4 à 6 ans, l’objectif est de travailler sur la traduction en philippin e
 
 Pour 10 ans et plus, les objectifs sont de créer des institutions éducatives, en commençant au niveau élémentaire jusqu’à éventuellement une Université Urantia aux Philippines. Des centres physiques dans de nombreux endroits à travers les Philippines sont aussi envisagés.
 
-Quel plan ambitieux ! Mais l’imagination, les rêves et le libre arbitre nous sont donnés par Dieu gratuitement. Et, « Quand l’homme s’associe avec Dieu, de grands événements peuvent se produire et se produisent effectivement. » <a id="a75_162"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9)
+Quel plan ambitieux ! Mais l’imagination, les rêves et le libre arbitre nous sont donnés par Dieu gratuitement. Et, « Quand l’homme s’associe avec Dieu, de grands événements peuvent se produire et se produisent effectivement. » <a id="a77_228"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9)
 
 Avant la fin de la conférence, le groupe des femmes lurent l’extrait du Souper du Souvenir, après lequel nous avons chanté des morceaux choisis du Psaume 118. Puis ce fut le départ.
 

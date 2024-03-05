@@ -60,7 +60,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 La recherche de Dieu est une effusion illimitée d' amour accompagnée de la découverte surprenante d'un nouvel amour plus grand à effuser.
 
-_Le Livre d’Urantia_, <a id="a62_20"></a>[LU 117:6.9](/fr/The_Urantia_Book/117#p6_9)
+_Le Livre d’Urantia_, <a id="a62_22"></a>[LU 117:6.9](/fr/The_Urantia_Book/117#p6_9)
 <br style="clear:both;"/>
 
 ## Volume 7, numéro 3. September 2013

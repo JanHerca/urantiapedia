@@ -51,7 +51,7 @@ Je suis impatient d’entendre Eugène et Nestor, à leur retour, raconter les d
 <img src="/image/article/UF_News_Online/2014_03/012.jpg">
 </figure>
 
-> « Un semeur sortit pour semer, et tandis qu’il semait, quelques grains tombèrent le long du chemin... d’autres tombèrent dans les endroits rocailleux... d’autre grains tombèrent dans la bonne terre, se développèrent et produisirent les uns trente, d’autres soixante, et d’autres cent grains. » <a id="a53_262"></a>[LU 151:1.2](/fr/The_Urantia_Book/151#p1_2)
+> « Un semeur sortit pour semer, et tandis qu’il semait, quelques grains tombèrent le long du chemin... d’autres tombèrent dans les endroits rocailleux... d’autre grains tombèrent dans la bonne terre, se développèrent et produisirent les uns trente, d’autres soixante, et d’autres cent grains. » <a id="a53_296"></a>[LU 151:1.2](/fr/The_Urantia_Book/151#p1_2)
 
 Personne n’avait demandé à Eugene et Nestor d’entreprendre ce projet ; c’était leur idée. Ils ont pris des dispositions pour leur arrêt de travail, ils ont payé pour leur voyage et ils ont payé pour l’expédition des livres. Ils n’ont demandé de l’aide que pour obtenir des exemplaires du _Livre d’Urantia_.
 
@@ -59,7 +59,7 @@ Lorsque nous avons empaqueté jusqu’à 160 Livres d’Urantia en novembre, Eug
 
 Leur service de sensibilisation me rappelle une de mes déclarations morontielles de mota préférée :
 
-> « Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour – exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu. » [LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)
+> « Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour – exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu. » <a id="a61_193"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2014_03/015.jpg">

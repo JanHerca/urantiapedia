@@ -53,7 +53,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Paternité
 
-1. Luc a écrit le livre des Actes, probablement à Rome, vers l'an 90. Il est mort juste avant de terminer les Actes. (Voir le Livre d'Urantia [LU 121:8.8](/fr/The_Urantia_Book/121#p8_8).)
+1. Luc a écrit le livre des Actes, probablement à Rome, vers l'an 90. Il est mort juste avant de terminer les Actes. (Voir le Livre d'Urantia <a id="s55_142"></a>[LU 121:8.8](/fr/The_Urantia_Book/121#p8_8).)
 2. Luc était d'Antioche de Pisidie.
 3. Il a été un compagnon de Paul pendant plusieurs années - son médecin privé.
 4. Paul se réfère à Luc comme l'un de ses compagnons de travail. Philémon v. 24.

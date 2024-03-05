@@ -51,7 +51,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2010_06/042.jpg">
 </figure>
 
-« Quiconque entre dans le royaume a déjà la vie éternelle — il ne périra jamais. » Jésus, _Le Livre d’Urantia_, <a id="a54_105"></a>[LU 146:3.7](/fr/The_Urantia_Book/146#p3_7)
+« Quiconque entre dans le royaume a déjà la vie éternelle — il ne périra jamais. » Jésus, _Le Livre d’Urantia_, <a id="a53_112"></a>[LU 146:3.7](/fr/The_Urantia_Book/146#p3_7)
 <br style="clear:both;"/>
 
 ## Volume 4, numéro 2. juin 2010 

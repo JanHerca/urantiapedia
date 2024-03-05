@@ -67,7 +67,7 @@ DU JEUDI 16 AU DIMANCHE 19 JUIN 2022
 <img src="/image/article/UF_News_Online/2021_07/055.jpg" class="align-center">
 </figure>
 
-« Tout progrès humain est effectué par une technique conjointe d’_évolution-révélation._ » <a id="a69_84"></a>[LU 196:3.15](/fr/The_Urantia_Book/196#p3_15)
+« Tout progrès humain est effectué par une technique conjointe d’_évolution-révélation._ » <a id="a69_91"></a>[LU 196:3.15](/fr/The_Urantia_Book/196#p3_15)
 
 L’explosion de l’information et des innovations dans les domaines tels que l’anthropologie, l’archéologie, la chimie, la cosmologie, la paléontologie, la physique, la planétologie et la psychologie apportent de nouvelles perspectives à la conscience publique. Ce symposium approfondira les points de vue de la révélation et de la science actuelle relatifs à l’évolution et à ses différentes particularités de race, culture, génétique et de sexe. L’objectif est d’éduquer et de préparer le lectorat à aborder adroitement les questions concernant les sujets sensibles comme révélés dans _Le Livre d’Urantia._
 
@@ -79,11 +79,11 @@ Si vous êtes intéressé à faire une présentation, contactez, s’il vous pla
 <img src="/image/article/UF_News_Online/2021_07/063.jpg">
 </figure>
 
-Urantia Press est heureuse d'annoncer que la deuxième impression de L'Histoire inédite de Jésus est maintenant disponible. Après plusieurs années d’efforts, nous avons pensé que la première impression était tout ce qu’elle pouvait être. Mais comme nous le savons, « la créature peut aspirer à l’infaillibilité, mais seuls les Créateurs la possèdent ». <a id="a81_282"></a>[LU 159:4.8](/fr/The_Urantia_Book/159#p4_8)
+Urantia Press est heureuse d'annoncer que la deuxième impression de L'Histoire inédite de Jésus est maintenant disponible. Après plusieurs années d’efforts, nous avons pensé que la première impression était tout ce qu’elle pouvait être. Mais comme nous le savons, « la créature peut aspirer à l’infaillibilité, mais seuls les Créateurs la possèdent ». <a id="a81_352"></a>[LU 159:4.8](/fr/The_Urantia_Book/159#p4_8)
 
 Ainsi, pour la deuxième impression, tout était sujet à révision. Les améliorations sont trop nombreuses pour être énumérées, mais elles s’étendent de bout en bout. Il n’y a qu’une seule chose qui ne peut jamais être améliorée, c’est l’évangile salvateur de Jésus. La dernière citation du livre dit tout :
 
-« La religion de Jésus est l’influence unificatrice la plus puissante que le monde ait jamais connue. » <a id="a85_90"></a>[LU 194:3.17](/fr/The_Urantia_Book/194#p3_17)
+« La religion de Jésus est l’influence unificatrice la plus puissante que le monde ait jamais connue. » <a id="a85_104"></a>[LU 194:3.17](/fr/The_Urantia_Book/194#p3_17)
 
 Quelle excellente façon de présenter la vie révélée et les enseignements de Jésus à vos amis et à votre famille.
 

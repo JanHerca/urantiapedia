@@ -89,7 +89,7 @@ Placer un groupe d’étude dans votre emploi du temps routinier hebdomadaire. V
 
 Travaillez, s’il vous plaît, avec vos compagnons croyants pour réaliser ces trois tâches. Nous pouvons le faire !
 
-> Tout aussi certainement que les hommes partagent leurs croyances religieuses, ils créent une sorte de groupe religieux, lequel crée finalement des buts communs. Un jour, des religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes. <a id="a95_405"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7)
+> Tout aussi certainement que les hommes partagent leurs croyances religieuses, ils créent une sorte de groupe religieux, lequel crée finalement des buts communs. Un jour, des religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes. <a id="a91_474"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7)
 
 
 ## Références

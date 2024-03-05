@@ -50,11 +50,11 @@ Nous avons contacté des personnes d’Afrique, d’Asie, du Moyen Orient, d’A
 
 Voici les deux citations, parmi tant d’autres, qui nous inspirèrent :
 
-> « Il serait toutefois stupide de vouloir accélérer trop soudainement la croissance religieuse. Une race ou une nation ne peut assimiler, dans une religion avancée, que les parties raisonnablement cohérentes et compatibles avec son statut évolutionnaire courant et compte tenu de son génie d’adaptation. Les conditions sociales, climatiques, politiques et économiques exercent toutes une influence pour déterminer le cours et le progrès de l’évolution religieuse. » <a id="a54_407"></a>[LU 92:2.4](/fr/The_Urantia_Book/92#p2_4)
+> « Il serait toutefois stupide de vouloir accélérer trop soudainement la croissance religieuse. Une race ou une nation ne peut assimiler, dans une religion avancée, que les parties raisonnablement cohérentes et compatibles avec son statut évolutionnaire courant et compte tenu de son génie d’adaptation. Les conditions sociales, climatiques, politiques et économiques exercent toutes une influence pour déterminer le cours et le progrès de l’évolution religieuse. » <a id="a52_467"></a>[LU 92:2.4](/fr/The_Urantia_Book/92#p2_4)
 
 Et
 
-> « Chaque race, doit se familiariser avec la pensée de toutes les races. » <a id="a58_115"></a>[LU 52:6.4](/fr/The_Urantia_Book/52#p6_4)
+> « Chaque race, doit se familiariser avec la pensée de toutes les races. » <a id="a56_76"></a>[LU 52:6.4](/fr/The_Urantia_Book/52#p6_4)
 
 Vous pouvez trouvez plus d’informations sur le programme du Symposium dans Les Nouvelles en Ligne de la Fondation Urantia, du mois d’avril.
 

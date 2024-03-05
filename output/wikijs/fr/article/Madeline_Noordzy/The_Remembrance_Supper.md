@@ -12,13 +12,13 @@ dateCreated: 2023-11-12T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1986 Madeline Noordzy<br>© 1986 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
-> « Le mental connait la quantité, la réalité, les significations. Mais la qualité — les valeurs — est *ressentie.* Ce qui ressent est la création conjointe du mental qui connait et de l’esprit associé qui confère la réalité. » ([LU 111:3.6](/fr/The_Urantia_Book/111#p3_6))
+> « Le mental connait la quantité, la réalité, les significations. Mais la qualité — les valeurs — est *ressentie.* Ce qui ressent est la création conjointe du mental qui connait et de l’esprit associé qui confère la réalité. » (<a id="a14_229"></a>[LU 111:3.6](/fr/The_Urantia_Book/111#p3_6))
 
 Cette citation du _Livre d'URANTIA_ m'est venue à l'esprit le matin après le Souper du Souvenir, que les groupes d'étude de Melbourne ont tenu le dimanche 6 avril. Jésus a institué le Dîner du Souvenir le 6 avril 30 après JC.
 
 Neil Francey parlait de la même chose, je pense, lorsqu'il a dit : « Je sentais que je pouvais presque toucher le niveau morontiel. »
 
-Cette atmosphère particulière de fraternité qui existe, lorsque les gens se réunissent pour prendre un repas et y ressentent la présence de l'Esprit de Vérité, est très difficile à décrire. C'est quelque chose qu'on ne comprend pas en lisant un livre, il faut être là pour en faire l'expérience. « De même que mon Père m’a communiqué de son esprit, de même je vous communiquerai de mon esprit. Et cet Esprit de Vérité, que j’effuserai sur vous, vous guidera, vous consolera et, en fin de compte, vous conduira dans toute la vérité. » ([LU 180:4.2](/fr/The_Urantia_Book/180#p4_2))
+Cette atmosphère particulière de fraternité qui existe, lorsque les gens se réunissent pour prendre un repas et y ressentent la présence de l'Esprit de Vérité, est très difficile à décrire. C'est quelque chose qu'on ne comprend pas en lisant un livre, il faut être là pour en faire l'expérience. « De même que mon Père m’a communiqué de son esprit, de même je vous communiquerai de mon esprit. Et cet Esprit de Vérité, que j’effuserai sur vous, vous guidera, vous consolera et, en fin de compte, vous conduira dans toute la vérité. » (<a id="a20_535"></a>[LU 180:4.2](/fr/The_Urantia_Book/180#p4_2))
 
 Sur les 22 adultes et 10 enfants présents ce jour-là, « personne ne savait vraiment à quoi s'attendre », comme le dit Ian Esmore. Mais je pense que la plupart des gens sont rentrés chez eux plus riches après avoir vécu cette expérience.
 

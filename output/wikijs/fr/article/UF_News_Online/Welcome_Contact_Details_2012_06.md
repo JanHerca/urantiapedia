@@ -42,6 +42,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - La traduction hébraïque du Livre d’Urantia
 - Réflexions sur la 11ème réunion des lecteurs du Livre d’Urantia en Espagne
 - Une histoire à propos de Meredith Sprunger
+- Comment j'ai trouvé le Livre d'Urantia
 - Aide demandée pour les traductions
 - Mon voyage en Colombie, Amérique du Sud
 - L’Annuaire des groupes d’étude du Livre d’Urantia
@@ -57,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2012_06/066.jpg">
 </figure>
 
-« N'oublie jamais que la révélation de la vérité par le Pêre ne se limite ni à une génération ni à un peuple. » Jesus, _Le Livre d’Urantia_, <a id="a60_137"></a>[LU 159:4.6](/fr/The_Urantia_Book/159#p4_6)
+« N'oublie jamais que la révélation de la vérité par le Pêre ne se limite ni à une génération ni à un peuple. » Jesus, _Le Livre d’Urantia_, <a id="a60_141"></a>[LU 159:4.6](/fr/The_Urantia_Book/159#p4_6)
 <br style="clear:both;"/>
 
 ## Volume 6, numéro 2 . juin 2012

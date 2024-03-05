@@ -47,7 +47,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Jean Annet, Namur, Belgique, et Martin Benoit, Québec, Canada_
 
-> Nul monde évolutionnaire ne peut espérer progresser au-delà du premier stade d’ancrage dans la lumière sans s’être rallié à un seul langage, une seule religion, une seule philosophie. Le fait de n’appartenir qu’à une race facilite grandement cet accomplissement, mais l’existence de nombreux peuples sur Urantia n’exclut pas l’aboutissement à des stades supérieurs. <a id="a49_299"></a>[LU 55:3.22](/fr/The_Urantia_Book/55#p3_22)
+> Nul monde évolutionnaire ne peut espérer progresser au-delà du premier stade d’ancrage dans la lumière sans s’être rallié à un seul langage, une seule religion, une seule philosophie. Le fait de n’appartenir qu’à une race facilite grandement cet accomplissement, mais l’existence de nombreux peuples sur Urantia n’exclut pas l’aboutissement à des stades supérieurs. <a id="a49_368"></a>[LU 55:3.22](/fr/The_Urantia_Book/55#p3_22)
 
 Puisque le _Livre d’Urantia_ a déjà été traduit en plus de 20 langues, il est temps maintenant de le traduire en Espéranto, la langue construite la plus importante de notre monde. Cela fait déjà plus d’un an que nous avons reçu l’approbation de la Fondation de le faire et nous avons entrepris cette énorme tâche qui nous occupera pour des années venir.
 

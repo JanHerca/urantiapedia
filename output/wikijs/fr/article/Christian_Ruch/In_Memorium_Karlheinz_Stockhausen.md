@@ -36,7 +36,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 **The Famous Composer (And Urantia Book Reader) Karlheinz Stockhausen Has Died**
 
-> « Il est littéralement vrai que : la mélodie a le pouvoir de transformer un monde tout entier. La musique restera toujours la langage universel des hommes des anges et des esprits. » _Le Livre d’Urantia_ <a id="a38_173"></a>[[LU 44:1.8](/fr/The_Urantia_Book/44#p1_8)]
+> « Il est littéralement vrai que : la mélodie a le pouvoir de transformer un monde tout entier. La musique restera toujours la langage universel des hommes des anges et des esprits. » _Le Livre d’Urantia_ <a id="a38_206"></a>[[LU 44:1.8](/fr/The_Urantia_Book/44#p1_8)]
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_03/024.jpg">

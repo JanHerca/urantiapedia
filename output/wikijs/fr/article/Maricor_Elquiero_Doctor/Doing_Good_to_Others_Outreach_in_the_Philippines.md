@@ -43,7 +43,7 @@ _Par Maricor Elquiero-Doctor, Camarines Sur, Philippines_
 _Note de l'éditeur : Maricor fut une bénéficiaire de la première série de Subventions de la Graine de Moutarde au nom du groupe FER-UB (Fifth Epochal Revelation-Urantia Book). Elle a proposé un projet pour financer des connexions internet plus fortes pour les membres du groupe d'étude du Livre d'Urantia, et pour créer et poster quatre courtes vidéos de sensibilisation ._
 <br style="clear:both;"/>
 
-> « L'amour est le désir de faire du bien aux autres ». <a id="a45_45"></a>[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)
+> « L'amour est le désir de faire du bien aux autres ». <a id="a45_56"></a>[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)
 
 Ce message du _Livre d'Urantia_ nous a motivés à faire une demande de financement auprès du Programme de Subventions de la Graine de Moutarde (MSGP) de la Fondation Urantia. Nous désirons faire du bien aux autres.
 

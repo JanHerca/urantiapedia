@@ -34,8 +34,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- a. alexandrin. Philo. La méthode allégorique. L'hellénistique. Plus tard, le stoïcien.
 	- b. La méthode juive traditionnelle ou littérale. Le « peuple élu ».
 4. Tout en acceptant en général l'Ancien Testament, Jésus a osé le critiquer. Il a dit qu'il était venu pour accomplir et non pour détruire les Écritures.
-5. Dans le Livre d'Urantia, voir la conversation de Jésus avec Nathaniel, [LU 159:4.1](/fr/The_Urantia_Book/159#p4_1)
-6. Jésus fait de nouvelles interprétations des Écritures dans son soi-disant « sermon sur la montagne ». [LU 140:4.1](/fr/The_Urantia_Book/140#p4_1)
+5. Dans le Livre d'Urantia, voir la conversation de Jésus avec Nathaniel, <a id="s36_74"></a>[LU 159:4.1](/fr/The_Urantia_Book/159#p4_1)
+6. Jésus fait de nouvelles interprétations des Écritures dans son soi-disant « sermon sur la montagne ». <a id="s37_105"></a>[LU 140:4.1](/fr/The_Urantia_Book/140#p4_1)
 7. Le livre des Hébreux est une nouvelle interprétation de beaucoup d'enseignements de l'Ancien Testament.
 8. Les premières doctrines de la LOI et de la GRÂCE.
 

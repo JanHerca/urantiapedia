@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2017_10/048.jpg">
 </figure>
 
-« Quiconque croit en cet évangile croit non seulement en moi, mais en Celui qui m'a envoyé Jesus, _Le Livre d’Urantia_, <a id="a58_108"></a>[LU 174:5.7](/fr/The_Urantia_Book/174#p5_7)
+« Quiconque croit en cet évangile croit non seulement en moi, mais en Celui qui m'a envoyé Jesus, _Le Livre d’Urantia_, <a id="a58_120"></a>[LU 174:5.7](/fr/The_Urantia_Book/174#p5_7)
 <br style="clear:both;"/>
 
 

@@ -267,7 +267,7 @@ Il y a un festival des arts à Tahiti regroupant environ 27 pays du Pacifique du
 
 C'est une occasion unique de présenter _Le Livre d'URANTIA_ pendant ces deux semaines aux gens de la région Pacifique. M. Racule des Fidji a l'intention de venir m'aider. Y a-t-il un lecteur en Australie qui serait intéressé à venir nous rejoindre pour cette action ?
 
-> « _Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ » ([LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
+> « _Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ » (<a id="a269_252"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
 
 J'ai hâte d'avoir de vos nouvelles très bientôt.
 
@@ -286,7 +286,7 @@ _En ***juillet/août 1987***, Emmanuel a de nouveau été présenté dans le bul
 
 **Lao Shou Hsing Dieu de la longévité**
 
-> « Et la tradition chinoise conserve vaguement l’histoire du passé évolutionnaire ; » ([LU 79:8.15](/fr/The_Urantia_Book/79#p8_15))
+> « Et la tradition chinoise conserve vaguement l’histoire du passé évolutionnaire ; » (<a id="a288_88"></a>[LU 79:8.15](/fr/The_Urantia_Book/79#p8_15))
 
 L’un des dieux de la tradition chinoise est le dieu de la longévité. Le peuple chinois a un ardent désir de longévité dont la divinité SHOU LAO ou SHOU HSING réside dans l'étoile Canopus dans la constellation d'Argo.
 
@@ -335,7 +335,7 @@ _« Rencontre Internationale De Lecteurs Du Livre D'Grantia En France du 3 au 11
 
 _Cette annonce d'une rencontre internationale pour les lecteurs du Livre d'Urantia était accompagnée de la citation suivante :_
 
-> « _Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n’est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. »_ » ([LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
+> « _Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n’est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. »_ » (<a id="a337_346"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
 
 _Dans le numéro de ***septembre/octobre 1986*** nous annoncions :_
 
@@ -522,13 +522,13 @@ _Cela a suscité une réponse de la part de Stephen Carthew, qui s'est signé co
 
 Il me semble qu'il existe de nombreuses professions mondaines qui sont déjà des départs vers l'irréalité. Ce que le monde considère comme sain d’esprit n’est pas nécessairement sain d’esprit. Même s'il est vital de contrôler notre enthousiasme, nous devons aussi nous rappeler que Jésus a été
 
-> « _consacré sans réserve « aux affaires du Père ». Cet enthousiasme divin amenait ses frères non spirituels à croire qu’il n’avait plus tout son bon sens, mais l’univers qui l’observait l’appréciait comme l’idéal de la santé mentale et le modèle de la suprême dévotion du mortel aux critères élevés de la vie spirituelle._ » ([LU 100:7.12](/fr/The_Urantia_Book/100#p7_12))
+> « _consacré sans réserve « aux affaires du Père ». Cet enthousiasme divin amenait ses frères non spirituels à croire qu’il n’avait plus tout son bon sens, mais l’univers qui l’observait l’appréciait comme l’idéal de la santé mentale et le modèle de la suprême dévotion du mortel aux critères élevés de la vie spirituelle._ » (<a id="a524_328"></a>[LU 100:7.12](/fr/The_Urantia_Book/100#p7_12))
 
 Fred Robinson, le fondateur de la Fraternité Universelle en Australie occidentale, a importé la première boîte de Livres d'URANTIA dans ce pays et a organisé les premiers cours d'étude. Les fruits de son travail résident davantage dans la démonstration d'un mode de vie que dans la reconnaissance intellectuelle du _Livre d'URANTIA_. Pour certains, notre centre spirituel pourrait être considéré comme un « départ vers l’irréalité » ; pour d’autres, l’expression d’une « plus grande réalité » (pas que je pense que Will faisait référence à nous). « Étudier » et continuer comme d'habitude, sur le plan professionnel, peut être acceptable pour certains, voire pour la plupart, mais cela ne suffira pas à ceux qui ressentent l'appel intérieur d'une « mission spirituelle ». Je suggérerais aux lecteurs d'être lents à porter un jugement suffisant sur ceux qui sont appelés par l'Esprit à faire quelque chose qui ne correspond pas à la tendance générale des groupes d'étude.
 
 Oui, Will, « cherchez d'abord le royaume des cieux », mais dans cette recherche, ne soyez pas surpris si un « culte » s'ajoute à vous, car
 
-> « _Le culte est le squelette autour duquel se développe le corps vivant et dynamique de l’expérience spirituelle personnelle — la vraie religion._ » ([LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
+> « _Le culte est le squelette autour duquel se développe le corps vivant et dynamique de l’expérience spirituelle personnelle — la vraie religion._ » (<a id="a530_152"></a>[LU 87:7.10](/fr/The_Urantia_Book/87#p7_10))
 
 C'est une super rubrique !
 
@@ -778,7 +778,7 @@ Cela a été révélé jusqu'au 7. Mission d'effusion, ainsi que dans d'autres s
 > 
 > _Le royaume de Dieu est dans le cœur des hommes et, quand ce royaume devient actuel dans le cœur de chaque individu d’un monde, alors la loi de Dieu est devenue actuelle sur cette planète ; et ceci est l’accès de l’Être Suprême à la souveraineté._
 > 
-> La providence se discerne de mieux en mieux à mesure que les hommes s’élèvent du matériel au spirituel. L’acquisition d’une clairvoyance spirituelle parachevée permet à la personnalité ascendante de détecter l’harmonie dans ce qui était auparavant un chaos. Même la mota morontielle représente un réel progrès dans cette direction. <a id="a796_335"></a>[UB 118:10.15-19](/en/The_Urantia_Book/118#p10_15) 
+> La providence se discerne de mieux en mieux à mesure que les hommes s’élèvent du matériel au spirituel. L’acquisition d’une clairvoyance spirituelle parachevée permet à la personnalité ascendante de détecter l’harmonie dans ce qui était auparavant un chaos. Même la mota morontielle représente un réel progrès dans cette direction. [UB 118:10.15-19](/en/The_Urantia_Book/118#p10_15) 
 
 <figure id="Figure_12" class="image urantiapedia" alt="A TAPESTRY OF LOVING SERVICE">
 <img src="/image/article/606/spirit_of_love.jpg">
@@ -904,7 +904,7 @@ La conférence a connu un succès retentissant et a représenté une étape maje
 
 _NOOSA, QUEENSLAND, 5-8 OCTOBRE 1989_
 
-Organisée par le Sunshine Coast Study Group sous la coordination d'Anne Bendall, il s'agissait d'une autre conférence en direct qui s'est tenue à Halse Lodge, en plein cœur de Noosa. Les habitants du Queensland nous ont vraiment rendus fiers, y compris une excursion en bateau sur la rivière Noosa dans le cadre du programme, et l'atmosphère tropicale nous a permis de rester détendus et décontractés. Une expérience avec un atelier d'une journée entière appelé « Le chaînon manquant » a abordé le problème de la mesure de notre implication dans la vérité et de notre droiture à partir de [LU 155:2.1](/fr/The_Urantia_Book/155#p2_1) du _Le Livre d'URANTIA_, et nous a donné beaucoup de matière à réflexion.
+Organisée par le Sunshine Coast Study Group sous la coordination d'Anne Bendall, il s'agissait d'une autre conférence en direct qui s'est tenue à Halse Lodge, en plein cœur de Noosa. Les habitants du Queensland nous ont vraiment rendus fiers, y compris une excursion en bateau sur la rivière Noosa dans le cadre du programme, et l'atmosphère tropicale nous a permis de rester détendus et décontractés. Une expérience avec un atelier d'une journée entière appelé « Le chaînon manquant » a abordé le problème de la mesure de notre implication dans la vérité et de notre droiture à partir de <a id="a906_589"></a>[LU 155:2.1](/fr/The_Urantia_Book/155#p2_1) du _Le Livre d'URANTIA_, et nous a donné beaucoup de matière à réflexion.
 
 Nous avons eu la chance d'avoir la présence de Richard Keeler, administrateur de la Fondation, qui a largement contribué à la conférence et a dirigé nos joyeuses séances de chants pendant les soirées. Un moment merveilleux a été passé par tous.
 
@@ -1070,7 +1070,7 @@ Si quelqu'un constate que sa bibliothèque n'en a pas d'exemplaire, faites-le-no
 
 _Il n'y a pas d'interprétation officielle du Livre d'URANTIA._
 
-> « _Les manières de comprendre la vérité, la beauté et la bonté, la moralité, l’éthique, le devoir, l’amour, la divinité, l’origine, l’existence, le dessein, la destinée, le temps, l’espace et même la Déité, ne sont que relativement vraies._ » ([LU 115:1.2](/fr/The_Urantia_Book/115#p1_2))
+> « _Les manières de comprendre la vérité, la beauté et la bonté, la moralité, l’éthique, le devoir, l’amour, la divinité, l’origine, l’existence, le dessein, la destinée, le temps, l’espace et même la Déité, ne sont que relativement vraies._ » (<a id="a1072_246"></a>[LU 115:1.2](/fr/The_Urantia_Book/115#p1_2))
 
 _Mais au cours des dix dernières années, nous avons publié pas mal d'articles avec les interprétations personnelles des gens. Ils ne sont donc tous que « relativement vrais », mais tous sont plus ou moins utiles aux autres lecteurs. Il ne nous appartient pas de remettre en question la valeur d'un article pour les lecteurs, mais de fournir un forum au sein duquel un échange de points de vue sain peut être diffusé en toute sécurité._
 
@@ -1102,25 +1102,25 @@ _Le Livre d'URANTIA_ dit ce dont le monde a maintenant besoin : Jésus vivant da
 
 _Dans un éditorial du numéro de ***mars 1983***, Neil a établi quelques corrélations entre les croyances des grands humains et les références faites à des idées similaires dans_ Le Livre d'URANTIA.
 
-_Le Livre d'URANTIA_ déclare que, dans la mesure du possible, les écrivains ont utilisé des concepts déjà existants dans la littérature de notre monde. Ce n'est que lorsqu'il n'existait pas d'expression équivalente pour expliquer une vérité qu'ils ont introduit un nouveau courant de pensée ([LU 0:12.11](/fr/The_Urantia_Book/0#p12_11)). Il est passionnant de trouver des idées utilisées par nos plus grands personnages reproduites dans _Le Livre d'URANTIA_.
+_Le Livre d'URANTIA_ déclare que, dans la mesure du possible, les écrivains ont utilisé des concepts déjà existants dans la littérature de notre monde. Ce n'est que lorsqu'il n'existait pas d'expression équivalente pour expliquer une vérité qu'ils ont introduit un nouveau courant de pensée (<a id="a1104_292"></a>[LU 0:12.11](/fr/The_Urantia_Book/0#p12_11)). Il est passionnant de trouver des idées utilisées par nos plus grands personnages reproduites dans _Le Livre d'URANTIA_.
 
 Goethe écrivait : « L'homme le plus insignifiant peut être complet s'il travaille dans les limites de ses propres capacités, innées et acquises ; mais même les meilleurs talents peuvent être obscurcis, neutralisés et détruits faute de respecter l’exigence indispensable de symétrie.
 
 En nous tournant vers LU 100 : 7.1 du livre, nous lisons :
 
-> « _Le trait exceptionnel de la personnalité du Maitre n’était pas tant sa perfection que son harmonie,_ » ([LU 100:7.1](/fr/The_Urantia_Book/100#p7_1))
+> « _Le trait exceptionnel de la personnalité du Maitre n’était pas tant sa perfection que son harmonie,_ » (<a id="a1110_109"></a>[LU 100:7.1](/fr/The_Urantia_Book/100#p7_1))
 
 D'autres comparaisons se trouvent dans les travaux d'Emerson. Il écrit : « Quels sont les meilleurs jours de mémoire. Celles dans lesquelles nous avons rencontré un compagnon qui l'était vraiment. Comme elles sont douces ces heures où la journée n'était pas assez longue... comme le visage de notre ami laissait encore un peu de lumière après son départ !
 
 Une phrase parallèle dans _Le Livre d'URANTIA_ déclare :
 
-> « _...Construisez ainsi, pour vous-même et en vous-même, des musées de beauté, de bonté et de grandeur artistique. Les souvenirs les plus nobles sont les rappels chéris des grands moments d’une belle amitié._ » ([LU 160:4.12](/fr/The_Urantia_Book/160#p4_12))
+> « _...Construisez ainsi, pour vous-même et en vous-même, des musées de beauté, de bonté et de grandeur artistique. Les souvenirs les plus nobles sont les rappels chéris des grands moments d’une belle amitié._ » (<a id="a1116_214"></a>[LU 160:4.12](/fr/The_Urantia_Book/160#p4_12))
 
 Thomas Jefferson croyait en un gouvernement qui ne gouvernait pas trop tout en répondant aux besoins réels des citoyens.
 
 _Le Livre d'URANTIA_ à la page 803 dit :
 
-> « _Le meilleur État est celui qui coordonne le plus en gouvernant le moins._ » ([LU 71:3.9](/fr/The_Urantia_Book/71#p3_9))
+> « _Le meilleur État est celui qui coordonne le plus en gouvernant le moins._ » (<a id="a1122_82"></a>[LU 71:3.9](/fr/The_Urantia_Book/71#p3_9))
 
 **Neil Francey**
 
@@ -1132,9 +1132,9 @@ _Dans le numéro d'août 1983***, Douglas Grahame demandait si l'évangélisatio
 
 _Neil a soulevé la question intéressante des femmes dans la prêtrise dans le numéro de ***février 1985***._
 
-> « _...le Maitre n’approuva que les enseignements accordant aux femmes l’égalité avec les hommes._ » ([LU 167:5.4](/fr/The_Urantia_Book/167#p5_4))
+> « _...le Maitre n’approuva que les enseignements accordant aux femmes l’égalité avec les hommes._ » (<a id="a1134_103"></a>[LU 167:5.4](/fr/The_Urantia_Book/167#p5_4))
 
-> « _À cette époque, il n’était même pas permis aux femmes de se tenir dans l’enceinte principale de la synagogue ; elles étaient confinées dans la galerie des femmes. Ce fut un évènement des plus étonnants de les voir admises comme éducatrices autorisées du nouvel évangile du royaume. ... Immédiatement après le départ du Maitre, les apôtres mirent en pratique cette libération des femmes en leur accordant la place qui convenait, mais les générations suivantes retournèrent aux anciennes coutumes._ » ([LU 150:1.3](/fr/The_Urantia_Book/150#p1_3))
+> « _À cette époque, il n’était même pas permis aux femmes de se tenir dans l’enceinte principale de la synagogue ; elles étaient confinées dans la galerie des femmes. Ce fut un évènement des plus étonnants de les voir admises comme éducatrices autorisées du nouvel évangile du royaume. ... Immédiatement après le départ du Maitre, les apôtres mirent en pratique cette libération des femmes en leur accordant la place qui convenait, mais les générations suivantes retournèrent aux anciennes coutumes._ » (<a id="a1136_505"></a>[LU 150:1.3](/fr/The_Urantia_Book/150#p1_3))
 
 Dans une décision historique à Londres, le synode général de l'Église d'Angleterre a ouvert la voie aux femmes pour devenir prêtres. Le vote, après sept heures de débat entre évêques, clergé et laïcs, a été une nette victoire de 307 voix contre 183. L'archevêque de Cantorbéry a averti que cela pourrait avoir de graves conséquences sur l'unité de l'Église.
 
@@ -1142,7 +1142,7 @@ Il semble que l’ordination définitive soit encore loin. Le processus décisio
 
 Les religions doivent étendre leurs incitations spirituelles pour élargir et enrichir ceux qui donneraient et ceux qui recevraient.
 
-> « _...Mais, dans cette fraternité de Jésus, il n’y a place ni pour des rivalités sectaires, ni pour l’acrimonie de groupe, ni pour des affirmations de supériorité morale et d’infaillibilité spirituelle._ » ([LU 195:10.14](/fr/The_Urantia_Book/195#p10_14))
+> « _...Mais, dans cette fraternité de Jésus, il n’y a place ni pour des rivalités sectaires, ni pour l’acrimonie de groupe, ni pour des affirmations de supériorité morale et d’infaillibilité spirituelle._ » (<a id="a1144_209"></a>[LU 195:10.14](/fr/The_Urantia_Book/195#p10_14))
 
 **Neil Francey**
 
@@ -1194,9 +1194,9 @@ _Dans le numéro de ***novembre 1986***, Trevor Swadling a abordé un sujet sur 
 
 **Jean le Révélateur**
 
-_Le Livre d'URANTIA_ fait référence à Jean Zébédée comme étant Jean le Révélateur (voir [LU 47:10.2](/fr/The_Urantia_Book/47#p10_2)). Les Médians nous disent :
+_Le Livre d'URANTIA_ fait référence à Jean Zébédée comme étant Jean le Révélateur (voir <a id="a1196_88"></a>[LU 47:10.2](/fr/The_Urantia_Book/47#p10_2)). Les Médians nous disent :
 
-> « _Durant son exil temporaire à Patmos, Jean écrivit l’Apocalypse, que vous possédez actuellement sous une forme abrégée et déformée. Ce livre de la révélation contient les vestiges d’une grande révélation_ » ([LU 139:4.14](/fr/The_Urantia_Book/139#p4_14))
+> « _Durant son exil temporaire à Patmos, Jean écrivit l’Apocalypse, que vous possédez actuellement sous une forme abrégée et déformée. Ce livre de la révélation contient les vestiges d’une grande révélation_ » (<a id="a1198_212"></a>[LU 139:4.14](/fr/The_Urantia_Book/139#p4_14))
 
 Certains articles du _Livre d'URANTIA_ citent le Livre des Révélations, ainsi nous pourrons peut-être reconstituer et comprendre quelque chose de la révélation que Jean a reçue.
 
@@ -1300,7 +1300,7 @@ _Six-O-Six est un excellent endroit pour partager nos idées avec d'autres lecte
 
 **Pourquoi ne frappent-ils pas à ma porte ?**
 
-> « La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » ([LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
+> « La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » (<a id="a1302_207"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
 
 Peut-être que des gens frappent à votre porte, vous demandent ce que vous avez, ou vous supplient de leur vendre votre Livre d'URANTIA, mais ils laissent une large place à ma porte. Et là-bas, dans le grand monde, quelques personnes ont observé une différence entre moi et elles qu’elles ont qualifiée de « folle » !
 

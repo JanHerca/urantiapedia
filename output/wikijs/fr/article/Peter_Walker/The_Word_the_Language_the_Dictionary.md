@@ -72,7 +72,7 @@ Mais où ce dictionnaire démesuré serait-il posé ? Je pensais qu’il avait b
 
 À cause de l’évolution de la langue et le progrès de notre planète, il semble inévitable qu’une uniformisation des langues arrivera. Au Fascicule 55, parlant des âges d’or de lumière et de vie, il est écrit :
 
-« Durant cet âge de lumière et de vie, le monde prospère de plus en plus sous le règne paternel du Souverain Planétaire. À ces époques, les mondes progressent avec la force vive d’un seul langage, d’une seule religion et, sur les sphères normales, d’une seule race. » <a id="a74_242"></a>[LU 55:3.1](/fr/The_Urantia_Book/55#p3_1)
+« Durant cet âge de lumière et de vie, le monde prospère de plus en plus sous le règne paternel du Souverain Planétaire. À ces époques, les mondes progressent avec la force vive d’un seul langage, d’une seule religion et, sur les sphères normales, d’une seule race. » <a id="a74_268"></a>[LU 55:3.1](/fr/The_Urantia_Book/55#p3_1)
 
 Bien que maintenant, le soleil se couche sur l’Empire Britannique, son héritage d’épandage de la langue anglaise, à travers le monde, demeure. Probablement, la langue anglaise deviendra la seule langue d’Urantia, tout en continuant d’être influencée par d’autres langues et cultures. À un moment donné, la standardisation de la langue anglaise apportera plus d’unification et de direction.
 

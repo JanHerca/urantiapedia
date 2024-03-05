@@ -54,7 +54,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2018_07/082.jpg">
 </figure>
 
-> Le bonheur et la joie prennent origine dans la vie intérieure. _Le Livre d’Urantia_, <a id="a57_71"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)
+> Le bonheur et la joie prennent origine dans la vie intérieure. _Le Livre d’Urantia_, <a id="a56_87"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)
 
 ## Volume 12, numéro 2. Mars 2018
 

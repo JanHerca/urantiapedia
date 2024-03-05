@@ -67,7 +67,7 @@ Félicitations aux bénéficiaires de Subventions de la Graine de Moutarde, de l
 
 Pensez-vous à un programme éducatif qui apportera la cinquième révélation d’époque à de nouveaux publics ? Pensez-vous à un projet innovant qui répond à certains défis importants de sensibilisation ? Si c’est le cas, vous pourriez être éligible pour une Subvention de la Graine de Moutarde ! L’ouverture de la ronde 2 sera annoncée cet été. 
 
-Jésus dit, « Le royaume des cieux ressemble à un grain de sénevé qu'un homme sema dans son champ. Or, un grain de sénevé est la plus petite des semences ; mais elle s'est entiérement développée, elle devient la plus grande des plantes et ressemble à un arbre, de sorte que les oiseaux du ciel peuvent venir se reposer dans ses branches. » <a id="a69_306"></a>[LU 151:4.2](/fr/The_Urantia_Book/151#p4_2)
+Jésus dit, « Le royaume des cieux ressemble à un grain de sénevé qu'un homme sema dans son champ. Or, un grain de sénevé est la plus petite des semences ; mais elle s'est entiérement développée, elle devient la plus grande des plantes et ressemble à un arbre, de sorte que les oiseaux du ciel peuvent venir se reposer dans ses branches. » <a id="a69_339"></a>[LU 151:4.2](/fr/The_Urantia_Book/151#p4_2)
 
 
 ## Références

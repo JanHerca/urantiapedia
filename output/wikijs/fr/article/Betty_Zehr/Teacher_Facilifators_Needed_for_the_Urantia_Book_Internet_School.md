@@ -48,7 +48,7 @@ Un des aspects d’UBIS est que maintenant, les chercheurs de vérité partout d
 
 La citation suivante nous rend assez confiant que nos efforts à propos d’UBIS continueront à porter leurs fruits, dignes de leur association avec la cinquième révélation d’époque :
 
-> _Quand l’imagination humaine éclairée et réfléchie, spirituellement instruite et guidée, cherche, de tout coeur et avec désintéressement, à faire ou à être quelque chose, elle devient créative dans une mesure appréciable selon le degré de consécration du mortel à faire divinement la volonté du Père. Quand l’homme s’associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement._ <a id="a50_342"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9)
+> _Quand l’imagination humaine éclairée et réfléchie, spirituellement instruite et guidée, cherche, de tout coeur et avec désintéressement, à faire ou à être quelque chose, elle devient créative dans une mesure appréciable selon le degré de consécration du mortel à faire divinement la volonté du Père. Quand l’homme s’associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement._ <a id="a50_409"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9)
 
 > La méthode d'enseignement est Jésussonienne et non interprétative.
 

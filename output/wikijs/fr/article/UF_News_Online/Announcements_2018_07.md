@@ -41,7 +41,7 @@ Le moteur de recherche devient disponible après avoir souscrit un abonnement bo
 
 La session estivale 2018 de la Fellowship du Livre d’Urantia se tiendra encore cette année à Techny Towers à Northbrook, Illinois. C’est l’occasion de rejoindre votre famille urantienne pour étudier, adorer et fraterniser. Comme toujours, des orateurs inspirés partageront leurs pensées et des étudiants créatifs donneront des ateliers stimulants.
 
-De plus, il y aura chaque jour du temps pour la méditation contemplative. « L’adoration-la contemplation du spirituel-doit alterner avec le service, le contact avec la réalité matérielle. » <a id="a43_164"></a>[LU 143:7.3](/fr/The_Urantia_Book/143#p7_3) Nous prendrons le temps de « contempler le spirituel » pour que nous puissions _adorer d’une meilleure façon_ et _servir_ avec notre famille céleste.
+De plus, il y aura chaque jour du temps pour la méditation contemplative. « L’adoration-la contemplation du spirituel-doit alterner avec le service, le contact avec la réalité matérielle. » <a id="a43_190"></a>[LU 143:7.3](/fr/The_Urantia_Book/143#p7_3) Nous prendrons le temps de « contempler le spirituel » pour que nous puissions _adorer d’une meilleure façon_ et _servir_ avec notre famille céleste.
 
 La session estivale se tiendra du 19 au 22 juillet, précédée par une retraite spirituelle sur deux jours, « Un Cercle de Confiance : Foi, Confiance et Assurance » commençant le jeudi soir, 17 juillet. On peut encore s’enregistrer en ligne sur www.regonline.com/Urantia\_Fellowship\_SSS18.
 

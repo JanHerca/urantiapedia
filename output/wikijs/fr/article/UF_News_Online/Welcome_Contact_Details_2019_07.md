@@ -58,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2019_07/061.jpg">
 </figure>
 
-« Ils apprirent que la meilleure maniére d'amener bien des âmes à aimer le Dieu invisible consiste à leur enseigner d'abord à aimer leurs frêres qu'ils peuvent voir. » _Le Livre d’Urantia_, <a id="a61_134"></a>[LU 155:3.4](/fr/The_Urantia_Book/155#p3_4)
+« Ils apprirent que la meilleure maniére d'amener bien des âmes à aimer le Dieu invisible consiste à leur enseigner d'abord à aimer leurs frêres qu'ils peuvent voir. » _Le Livre d’Urantia_, <a id="a60_190"></a>[LU 155:3.4](/fr/The_Urantia_Book/155#p3_4)
 
 <br style="clear:both;"/>
 

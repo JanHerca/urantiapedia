@@ -44,8 +44,8 @@ Annonce la prochaine retraite des femmes de notre série en continu, les Filles 
 
 Lors de notre prochaine retraite, « Danser avec Dieu : Naître en caractère sacré », quatre filles de Dieu ont dessiné un programme où nous co-créons un environnement de confiance à l’intérieur d’un cercle spirituel, de façon à explorer ensemble des questions comme :
 
-- Que veut dire pour vous que « Jésus ne manquait jamais d’exalter le caractère sacré de l’individu » ? <a id="a46_94"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)
-- « Les anges ne forcent pas le sanctuaire du mental humain. » Comment comprenez-vous cela ? <a id="a48_82"></a>[LU 113:5.1](/fr/The_Urantia_Book/113#p5_1) 
+- Que veut dire pour vous que « Jésus ne manquait jamais d’exalter le caractère sacré de l’individu » ? <a id="a46_104"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)
+- « Les anges ne forcent pas le sanctuaire du mental humain. » Comment comprenez-vous cela ? <a id="a47_93"></a>[LU 113:5.1](/fr/The_Urantia_Book/113#p5_1) 
 - Comment devenez-vous conscient du sacré dans la pénibilité de la vie de tous les jours ?
 
 La Mission Des Filles de Dieu : Mettre en valeur le statut d’être une femme dédiée à la croissance spirituelle, à l’avancement intellectuel et au progrès moral.

@@ -61,7 +61,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2022_07/069.jpg">
 </figure>
 
-> Rien de ce ui a une valeur de survie n'est 'amais erdu dans le vaste univers, _Le Livre d’Urantia_, <a id="a62_87"></a>[LU 109:3.2](/fr/The_Urantia_Book/109#p3_2)
+> Rien de ce ui a une valeur de survie n'est 'amais erdu dans le vaste univers, _Le Livre d’Urantia_, <a id="a63_102"></a>[LU 109:3.2](/fr/The_Urantia_Book/109#p3_2)
 
 
 ## Volume 16, numéro 3. July 2022

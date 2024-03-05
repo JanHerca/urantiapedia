@@ -68,7 +68,7 @@ Pour plus de détails, y compris un lien pour s'inscrire, visitez [https://urant
 
 **Vendredi 14 juin et samedi 15 juin 2024**
 
-> _La famille occupait le centre même de la philosophie de vie de Jésus - ici et dans l'au-delà. Il fondait ses enseignements sur Dieu sur la famille_. <a id="a70_137"></a>[LU 140:8.14](/fr/The_Urantia_Book/140#p8_14)
+> _La famille occupait le centre même de la philosophie de vie de Jésus - ici et dans l'au-delà. Il fondait ses enseignements sur Dieu sur la famille_. <a id="a70_152"></a>[LU 140:8.14](/fr/The_Urantia_Book/140#p8_14)
 
 On ne saurait trop insister sur l'importance du rôle du foyer et de la famille dans la société et la civilisation en général. Les unités familiales individuelles sont les éléments constitutifs d'une civilisation. Les familles ne vivent pas et ne meurent pas ; elles se perpétuent, génération après génération, comme des rivières sociologiques permanentes, offrant un canal par lequel les valeurs humaines, les réalisations sociales et les idées religieuses se transmettent pour nourrir et dynamiser les civilisations futures et les ères de lumière et de vie. En encourageant les familles fonctionnelles, dominées par l'amour et spirituellement parfumées, qui produisent des citoyens orientés vers le service, bien adaptés et loyaux, les foyers contribuent immensément au progrès culturel de notre monde.
 
@@ -85,7 +85,7 @@ Si vous êtes intéressé(e) par une présentation, veuillez contacter [joanne@u
 
 **Du 28 au 31 mars 2024**
 
-> _L'esprit est votre navire, l'Ajusteur est votre pilote, la volonté humaine est le capitaine. Le maître du vaisseau mortel devrait avoir la sagesse de faire confiance au pilote divin pour guider l'âme ascendante vers les ports morontiels de la survie éternelle._ <a id="a85_234"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
+> _L'esprit est votre navire, l'Ajusteur est votre pilote, la volonté humaine est le capitaine. Le maître du vaisseau mortel devrait avoir la sagesse de faire confiance au pilote divin pour guider l'âme ascendante vers les ports morontiels de la survie éternelle._ <a id="a87_265"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2023_06/020.jpg">

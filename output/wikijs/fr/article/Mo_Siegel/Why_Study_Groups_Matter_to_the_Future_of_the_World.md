@@ -47,9 +47,9 @@ Si vous regardez ce qui s’est passé depuis 56 ans et le projetez dans le futu
 
 La majorité des gens dans le monde refusent d’aller dans les institutions religieuses, chaque semaine. Aux États-Unis, par exemple, 94 % des gens disent qu’ils croient en Dieu bien que moins de 40 % aillent à l’église régulièrement. Néanmoins, il y a un besoin de socialisation pour les personnes religieuses.
 
-> _La religion est d’abord un ajustement intérieur ou personnel ; elle devient ensuite une affaire de service social ou d’ajustement à un groupe. La formation de groupes religieux découle forcément du caractère grégaire des hommes, et le sort de ces groupes religieux dépend beaucoup de l’intelligence de leurs chefs._ <a id="a50_308"></a>[LU 99:5.1](/fr/The_Urantia_Book/99#p5_1)
+> _La religion est d’abord un ajustement intérieur ou personnel ; elle devient ensuite une affaire de service social ou d’ajustement à un groupe. La formation de groupes religieux découle forcément du caractère grégaire des hommes, et le sort de ces groupes religieux dépend beaucoup de l’intelligence de leurs chefs._ <a id="a49_319"></a>[LU 99:5.1](/fr/The_Urantia_Book/99#p5_1)
 
-> Il y a un but réel à la socialisation de la religion. _Les activités religieuses collectives ont pour but de mettre en scène la fidélité envers la religion ; de magnifier les attraits de la vérité, de la beauté et de la bonté ; d’entretenir l’attirance des valeurs suprêmes ; d’amplifier le service de fraternité désintéressé ; de glorifier les potentiels de la vie de famille ; de promouvoir l’éducation religieuse ; de fournir de sages conseils et des directives spirituelles et d’encourager le culte en commun._ <a id="a52_450"></a>[LU 99:6.2](/fr/The_Urantia_Book/99#p6_2)
+> Il y a un but réel à la socialisation de la religion. _Les activités religieuses collectives ont pour but de mettre en scène la fidélité envers la religion ; de magnifier les attraits de la vérité, de la beauté et de la bonté ; d’entretenir l’attirance des valeurs suprêmes ; d’amplifier le service de fraternité désintéressé ; de glorifier les potentiels de la vie de famille ; de promouvoir l’éducation religieuse ; de fournir de sages conseils et des directives spirituelles et d’encourager le culte en commun._ <a id="a51_517"></a>[LU 99:6.2](/fr/The_Urantia_Book/99#p6_2)
 
 Nous avons besoin d’un nouveau cadre, libre des contraintes religieuses formalistes du passé, pour que la Révélation Urantia se répande dans la société moderne. Si les gens du 21ième siècle vont parler de Dieu, ils auront besoin d’un endroit plus intime pour le faire. Le groupe d’étude est l’endroit parfait pour inter agir dans le cadre de petits groupes qui permettent aux gens de partager personnellement leurs vies religieuses, de se faire des amis, d’en apprendre davantage et même de recevoir de l’aide quand ils sont aux prises avec des problèmes.
 
@@ -57,7 +57,7 @@ Nous avons besoin d’un nouveau cadre, libre des contraintes religieuses formal
 
 Dans la partie du _Livre d’Urantia_ qui explique les bienfaits de l’association de groupes religieux, on parle aussi de ses dangers.
 
-> _Mais à mesure que la religion se conforme à des institutions, son pouvoir de faire du bien s’amenuise, tandis que ses possibilités de faire du mal s’accroissent considérablement._ <a id="a60_133"></a>[LU 99:6.3](/fr/The_Urantia_Book/99#p6_3)
+> _Mais à mesure que la religion se conforme à des institutions, son pouvoir de faire du bien s’amenuise, tandis que ses possibilités de faire du mal s’accroissent considérablement._ <a id="a59_183"></a>[LU 99:6.3](/fr/The_Urantia_Book/99#p6_3)
 
 Beaucoup des dangers décrits peuvent être atténués ou éliminés lorsque les gens se rencontrent dans les groupes d’étude, libres d’autorité ecclésiastique et dirigés par des personnes ordinaires, dédiées à servir leurs compagnons religieux. Ces groupes locaux peuvent se servir de ce qui marche le mieux pour eux, suivant leur culture et leur situation.
 
@@ -73,7 +73,7 @@ Ma femme, Jennifer Siegel enseigne le groupe des enfants et leurs classes sont q
 
 ## Une Dernière Pensée
 
-À bien des égards, ce qui ressemble le plus à l’expérience d’une communauté de croyants est une réunion hebdomadaire à un groupe d’étude. Les groupes d’étude sont une voie tellement belle pour partager les enseignements profonds du _Livre d’Urantia_ et d’en apprendre plus sur nos frères et sœurs. Aucun homme n’est une île ; nous avons besoin des uns et des autres. _La croissance spirituelle est mutuellement stimulée par l’association intime avec d’autres personnes religieuse._ <a id="a76_404"></a>[LU 100:0.2](/fr/The_Urantia_Book/100#p0_2)
+À bien des égards, ce qui ressemble le plus à l’expérience d’une communauté de croyants est une réunion hebdomadaire à un groupe d’étude. Les groupes d’étude sont une voie tellement belle pour partager les enseignements profonds du _Livre d’Urantia_ et d’en apprendre plus sur nos frères et sœurs. Aucun homme n’est une île ; nous avons besoin des uns et des autres. _La croissance spirituelle est mutuellement stimulée par l’association intime avec d’autres personnes religieuse._ <a id="a75_482"></a>[LU 100:0.2](/fr/The_Urantia_Book/100#p0_2)
 
 
 ## Références

@@ -35,7 +35,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 Du jeudi soir 13 septembre au dimanche 16 septembre 2018
 
-Faites vos bagages. « Quelle aventure, quelle romance ! » <a id="a37_52"></a>[LU 112:7.18](/fr/The_Urantia_Book/112#p7_18)
+Faites vos bagages. « Quelle aventure, quelle romance ! » <a id="a37_58"></a>[LU 112:7.18](/fr/The_Urantia_Book/112#p7_18)
 
 Annonce de notre prochaine retraite de la série de retraites de femmes de la Fondation Urantia, l’équipe animatrice des Filles de Dieu (Katharina Becker, Doreen Heyne, Carolyn Prentice et Line St Pierre) vous invite à un week-end intime, expérimental et amusant.
 

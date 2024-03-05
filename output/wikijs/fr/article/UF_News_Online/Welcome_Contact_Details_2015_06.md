@@ -60,7 +60,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2015_06/046.jpg">
 </figure>
 
-Sans l'amour sincere d'un foyer, nul enfant peut atteindre le plein développement d'un caractere normal. _Le Livre d’Urantia_, <a id="a60_119"></a>[LU 160:2.6](/fr/The_Urantia_Book/160#p2_6)
+Sans l'amour sincere d'un foyer, nul enfant peut atteindre le plein développement d'un caractere normal. _Le Livre d’Urantia_, <a id="a62_127"></a>[LU 160:2.6](/fr/The_Urantia_Book/160#p2_6)
 <br style="clear:both;"/>
 
 

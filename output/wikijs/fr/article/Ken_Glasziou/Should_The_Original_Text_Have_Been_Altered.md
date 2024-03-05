@@ -20,7 +20,7 @@ Le nombre de corrections effectuées depuis la première impression dépasse la 
 
 Par exemple, à la page 477, paragraphe 1, la première impression indiquait :
 
-> « _Chaque atome a un diamètre légèrement supérieur à un quart de millionième de millimètre, et un électron pèse un peu plus que la deux-millième partie du plus petit atome, celui de l’hydrogène. Le proton positif caractéristique du noyau atomique, bien que pas beaucoup plus gros qu’un électron négatif, pèse près de deux-mille fois plus._ » ([LU 42:6.7](/fr/The_Urantia_Book/42#p6_7))
+> « _Chaque atome a un diamètre légèrement supérieur à un quart de millionième de millimètre, et un électron pèse un peu plus que la deux-millième partie du plus petit atome, celui de l’hydrogène. Le proton positif caractéristique du noyau atomique, bien que pas beaucoup plus gros qu’un électron négatif, pèse près de deux-mille fois plus._ » (<a id="a22_345"></a>[LU 42:6.7](/fr/The_Urantia_Book/42#p6_7))
 
 Dans la deuxième impression et les suivantes, la formulation a été modifiée comme suit : «_un électron pèse un peu plus de 1/2000ème..._» et «_pèse près de deux mille fois plus._»
 
@@ -32,27 +32,27 @@ Il y a au moins onze changements textuels qui semblent avoir été des tentative
 
 Ceux-ci sont:
 
-[LU 0:1.24](/fr/The_Urantia_Book/0#p1_24), « autre » supprimé de « toutes les autres manifestations »
+<a id="a34_0"></a>[LU 0:1.24](/fr/The_Urantia_Book/0#p1_24), « autre » supprimé de « toutes les autres manifestations »
 
-[LU 37:8.3](/fr/The_Urantia_Book/37#p8_3), « secondaire » remplacé par « tertiaire »
+<a id="a36_0"></a>[LU 37:8.3](/fr/The_Urantia_Book/37#p8_3), « secondaire » remplacé par « tertiaire »
 
-[LU 41:4.4](/fr/The_Urantia_Book/41#p4_4), « soixante » remplacé par « quarante »
+<a id="a38_0"></a>[LU 41:4.4](/fr/The_Urantia_Book/41#p4_4), « soixante » remplacé par « quarante »
 
-[LU 42:6.7](/fr/The_Urantia_Book/42#p6_7), « moins » remplacé par « plus »
+<a id="a40_0"></a>[LU 42:6.7](/fr/The_Urantia_Book/42#p6_7), « moins » remplacé par « plus »
 
-[LU 42:6.7](/fr/The_Urantia_Book/42#p6_7), « de deux à trois » remplacé par « presque »
+<a id="a42_0"></a>[LU 42:6.7](/fr/The_Urantia_Book/42#p6_7), « de deux à trois » remplacé par « presque »
 
-[LU 42:7.7](/fr/The_Urantia_Book/42#p7_7), « presque » ajouté avant « instantané »
+<a id="a44_0"></a>[LU 42:7.7](/fr/The_Urantia_Book/42#p7_7), « presque » ajouté avant « instantané »
 
-[LU 53:7.8](/fr/The_Urantia_Book/53#p7_8), « 681,227 » remplacé par « 681,217 » (pour être d'accord avec p. 581 — 13 plus 681,204 'Adams')
+<a id="a46_0"></a>[LU 53:7.8](/fr/The_Urantia_Book/53#p7_8), « 681,227 » remplacé par « 681,217 » (pour être d'accord avec p. 581 — 13 plus 681,204 'Adams')
 
-[LU 79:5.2](/fr/The_Urantia_Book/79#p5_2), « ouest » remplacé par « est »
+<a id="a48_0"></a>[LU 79:5.2](/fr/The_Urantia_Book/79#p5_2), « ouest » remplacé par « est »
 
-[LU 119:7.6](/fr/The_Urantia_Book/119#p7_6), « dans la crèche » supprimé de « nouveau-né dans la crèche »
+<a id="a50_0"></a>[LU 119:7.6](/fr/The_Urantia_Book/119#p7_6), « dans la crèche » supprimé de « nouveau-né dans la crèche »
 
-[LU 168:3.4](/fr/The_Urantia_Book/168#p3_4), « jour » remplacé par « semaine »
+<a id="a52_0"></a>[LU 168:3.4](/fr/The_Urantia_Book/168#p3_4), « jour » remplacé par « semaine »
 
-[LU 179:5.2](/fr/The_Urantia_Book/179#p5_2), « douze » remplacé par « apôtres »
+<a id="a54_0"></a>[LU 179:5.2](/fr/The_Urantia_Book/179#p5_2), « douze » remplacé par « apôtres »
 
 En accord avec mon ami administrateur à la retraite, je crois qu'il est impératif que tous ces changements reviennent au texte original. S’il s’agit de véritables erreurs de la part des révélateurs, qu’il en soit ainsi. Les révélateurs ne prétendaient pas à l’infaillibilité. Je ne peux pas non plus concevoir de raison valable pour corriger les prétendues erreurs grammaticales imputables aux révélateurs.
 

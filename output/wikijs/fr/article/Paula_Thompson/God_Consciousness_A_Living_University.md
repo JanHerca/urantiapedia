@@ -47,9 +47,9 @@ J’espère que vous me pardonnerez de dire, mais « votre conscience de Dieu se
 Avez-vous remarqué que _Le Livre d’Urantia_ a placé les définitions de la conscience de Dieu en évidence dans la dernière phrase de l’Introduction et dans la première phrase du dernier paragraphe de tout le livre ?
 <br style="clear:both;"/>
 
-> « …toujours progressante de l’expérience religieuse personnelle – la conscience de Dieu » <a id="a49_88"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)
+> « …toujours progressante de l’expérience religieuse personnelle – la conscience de Dieu » <a id="a49_92"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)
 
-> « La conscience de Dieu est l’équivalent de l’intégration du moi à l’univers… » <a id="a51_96"></a>[LU 196:3.32](/fr/The_Urantia_Book/196#p3_32)
+> « La conscience de Dieu est l’équivalent de l’intégration du moi à l’univers… » <a id="a51_82"></a>[LU 196:3.32](/fr/The_Urantia_Book/196#p3_32)
 
 Tous les enseignements sont embrassés dans la conscience de Dieu. À chaque niveau de notre progrès, c’est l’effort continu de pousser l’enveloppe du moi, l’âme et la conscience de l’esprit qui constitue la conscience de Dieu. C’est l’expérience et le fait de devenir de plus en plus réel. Vous sentez-vous plus réel aujourd’hui qu’hier ? Peut-être c’est le moment de devenir plus réel. Venez à la Séance d’Étude de l’Été 09, « Conscience de Dieu – une université vivante », du vendredi, 31 juillet, au dimanche, 2 août, à l’Université Dominican, River Forest, Illinois. Il y aura une pré-conférence de retraite et d’autres activités commençant le mercredi soir, du 29 juillet au jeudi, 30 juillet.
 
@@ -76,7 +76,7 @@ Nous espérons vous voir là-bas !
 <img src="/image/article/UF_News_Online/2009_06/016.jpg">
 </figure>
 
-“...le Père n’es tès éloigné d’aucun de vous ; il habite en vous, et c’est littéralement en lui que nous avons tous le mouvement, la vie effective et l’être véritable.” The Urantia Book, <a id="a78_174"></a>[LU 12:7.12](/fr/The_Urantia_Book/12#p7_12)
+“...le Père n’es tès éloigné d’aucun de vous ; il habite en vous, et c’est littéralement en lui que nous avons tous le mouvement, la vie effective et l’être véritable.” The Urantia Book, <a id="a78_187"></a>[LU 12:7.12](/fr/The_Urantia_Book/12#p7_12)
 <br style="clear:both;"/>
 
 ## Références

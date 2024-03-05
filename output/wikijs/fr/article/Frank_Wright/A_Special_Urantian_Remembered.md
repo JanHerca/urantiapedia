@@ -12,7 +12,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2 py-1">© 1990 Frank Wright<br>© 1990 ANZURA, Australie et Nouvelle-Zélande Urantia Association</p>
 
 
-« Après leur mort, les humains les plus évolués spirituellement et cosmiquement se rendent immédiatement sur les mondes des maisons. En général, ce dispositif opère pour ceux qui ont un gardien séraphique affecté à leur personne. » ([LU 112:5.10](/fr/The_Urantia_Book/112#p5_10))
+« Après leur mort, les humains les plus évolués spirituellement et cosmiquement se rendent immédiatement sur les mondes des maisons. En général, ce dispositif opère pour ceux qui ont un gardien séraphique affecté à leur personne. » (<a id="a14_233"></a>[LU 112:5.10](/fr/The_Urantia_Book/112#p5_10))
 
 Je me suis promis de ne pas être triste lorsque j'assisterais récemment à un service commémoratif, mais je n'ai pas pu arrêter le flot de larmes. J'essaie même maintenant de ne pas être triste en me rappelant la source de ce mémorial, mais je découvre qu'un endroit en moi est maintenant vide et sombre. C'est étrange comme c'est semblable : joie et mélancolie. Les deux amènent des larmes et des sentiments intenses près du cœur. Je m'interroge sur l'avantage de chacun. Mais il doit y avoir un bénéfice car chaque émotion, chaque réponse sympathique est spontanée, non évoquée.
 

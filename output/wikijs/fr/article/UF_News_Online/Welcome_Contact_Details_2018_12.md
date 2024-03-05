@@ -61,7 +61,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2018_12/065.jpg">
 </figure>
 
-L'univers réel est amical pour chaque enfant du Dieu éternel. _Le Livre d’Urantia_, <a id="a63_85"></a>[LU 133:5.8](/fr/The_Urantia_Book/133#p5_8)
+L'univers réel est amical pour chaque enfant du Dieu éternel. _Le Livre d’Urantia_, <a id="a63_84"></a>[LU 133:5.8](/fr/The_Urantia_Book/133#p5_8)
 <br style="clear:both;"/>
 
 ## Volume 12, numéro 4. décembre 2018

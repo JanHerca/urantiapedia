@@ -57,7 +57,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2009_03/046.jpg">
 </figure>
 
-« Si mes paroles demeurent en vous, et si vous Ctes disposés à faire la volonté de mon Pêre, alors vous ¿tes vraiment mes disciples. » Jésus, _Le Livre d’Urantia_ <a id="a59_134"></a>[LU 162:7.2](/fr/The_Urantia_Book/162#p7_2)
+« Si mes paroles demeurent en vous, et si vous Ctes disposés à faire la volonté de mon Pêre, alors vous ¿tes vraiment mes disciples. » Jésus, _Le Livre d’Urantia_ <a id="a59_163"></a>[LU 162:7.2](/fr/The_Urantia_Book/162#p7_2)
 
 <br style="clear:both;"/>
 

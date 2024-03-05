@@ -62,7 +62,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2015_03/057.jpg">
 </figure>
 
-« Les caracteres forts ne se forment pas en ne faisant pas le mal, mais plutôt en faisant réellement le bien. » _Le Livre d’Urantia_, <a id="a63_115"></a>[LU 140:4.6](/fr/The_Urantia_Book/140#p4_6)
+« Les caracteres forts ne se forment pas en ne faisant pas le mal, mais plutôt en faisant réellement le bien. » _Le Livre d’Urantia_, <a id="a64_134"></a>[LU 140:4.6](/fr/The_Urantia_Book/140#p4_6)
 <br style="clear:both;"/>
 
 ## Volume 9, numéro 1. Mars 2015

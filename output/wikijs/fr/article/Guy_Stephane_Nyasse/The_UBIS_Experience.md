@@ -64,13 +64,13 @@ Ces cours coïncidèrent avec une période très difficile de ma vie. Je me dema
 
 L’une des questions posée dans un cours, nous demandait de partager nos difficultés et un frère nous dit qu'il avait des difficultés à avoir de l’eau chaude pour son bain car il vivait au dernier étage. J’avais des difficultés à avoir assez à manger et après avoir lu son partage, je l’en informai. À partir de ce moment là, plusieurs personnes de la classe purent voir leurs difficultés dans une meilleure perspective. L’un d’eux m’écrivit un message avec ce passage :
 
-> « L’expérience religieuse personnelle, spirituelle, résout efficacement la plupart des difficultés des mortels ; elle sélectionne, évalue et ajuste tous les problèmes humains, mais elle les dissout, les absorbe, les illumine et les transcende. » <a id="a66_287"></a>[LU 196:3.1](/fr/The_Urantia_Book/196#p3_1)
+> « L’expérience religieuse personnelle, spirituelle, résout efficacement la plupart des difficultés des mortels ; elle sélectionne, évalue et ajuste tous les problèmes humains, mais elle les dissout, les absorbe, les illumine et les transcende. » <a id="a66_248"></a>[LU 196:3.1](/fr/The_Urantia_Book/196#p3_1)
 
 Je ne prétends pas comprendre, même aujourd’hui, la signification de ce passage. Mais, ce que je peux vous dire est que grâce au partage de mon frère, je vis la situation que je vivais d’une autre manière. Honnêtement, je me suis positionné comme un fils de Dieu et décidai de faire face à ces difficultés courageusement.
 
 > Ce même frère m’envoya une invitation sur Skype, nous avons pu parler et nous voir en vidéo. Nous avons continué nos échanges, qui me permettent d’avoir des opportunités répétées d’approfondir la compréhension d’autres passages comme celui-ci :
 > 
-> 1. « Le courage- la force de caractère- est-il nécessaire ? Alors, il faut que l’homme soit élevé dans un environnement qui l’oblige à s’attaquer à de dures épreuves et à réagir aux désappointements. » <a id="a74_169"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5)
+> 1. « Le courage- la force de caractère- est-il nécessaire ? Alors, il faut que l’homme soit élevé dans un environnement qui l’oblige à s’attaquer à de dures épreuves et à réagir aux désappointements. » <a id="a72_204"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5)
 
 Je trouve maintenant ma vie personnelle florissante, tout en avançant avec courage vers mes buts ; je reste honnête et sincère envers Dieu et moi-même.
 

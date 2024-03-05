@@ -52,7 +52,7 @@ Donc, que représente _Le Livre d’Urantia_ pour moi ? C’est une boîte à o
 
 Le service est tout autour de moi ! Lorsque je lâche prise et laisse Dieu me guider, Il m’amène exactement où Il veut que je sois. Il me mena dans une prison pour approcher Ses enfants qui ont été écorchés vifs, abandonnés et rejetés par la société, pour leur rappeler combien Il les aime. C’est dans cet endroit de misère que j’ai fait l’expérience de l’immensité et de la simplicité de l’Amour inconditionnel !
 
-De jour en jour, je me rend compte du pouvoir de cette courte définition de l’amour que le livre nous offre : « L’amour est le désir de faire du bien aux autres. » <a id="a56_137"></a>[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)
+De jour en jour, je me rend compte du pouvoir de cette courte définition de l’amour que le livre nous offre : « L’amour est le désir de faire du bien aux autres. » <a id="a54_164"></a>[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21)
 
 Pour ajouter ma touche personnelle : L’Amour est de faire du bien aux autres !
 

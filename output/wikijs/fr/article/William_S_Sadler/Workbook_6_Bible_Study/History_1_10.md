@@ -43,11 +43,11 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1350 à 1250 avant JC
 1. Sources : annale yahviste au Xe siècle, l'Élohiste au VIIIe. Viennent ensuite les annales sacerdotales.
-2. Il ne fait aucun doute que Moïse était une personnalité historique. Le récit de Moïse dans le Livre d'Urantia se trouve sur [LU 96:3.1](/fr/The_Urantia_Book/96#p3_1)
+2. Il ne fait aucun doute que Moïse était une personnalité historique. Le récit de Moïse dans le Livre d'Urantia se trouve sur <a id="s45_127"></a>[LU 96:3.1](/fr/The_Urantia_Book/96#p3_1)
 3. Les débuts de la religion de Moïse sont obscurs. Mais il a créé un cérémonial religieux pour Israël qui a abouti au temple de Salomon.
 4. Dans tout Israël, il n'y avait pas de chef exceptionnel entre Moïse et David.
 5. Les Hébreux sont probablement entrés en Égypte sous les Hyksos - 1750-1560 av.
-6. Moïse a peut-être été influencé par le monothéisme solaire d'[Amenhotep (Ikhnaton)](/fr/The_Urantia_Book/95#p5_1). Cette philosophie est présentée dans le Ps. 104.
+6. Moïse a peut-être été influencé par le monothéisme solaire d'<a id="s49_64"></a>[Amenhotep (Ikhnaton)](/fr/The_Urantia_Book/95#p5_1). Cette philosophie est présentée dans le Ps. 104.
 7. Moïse tua un Égyptien qui avait frappé un ouvrier hébreu, puis s'enfuit en Orient, où il vécut avec les Kénites.
 8. Moïse a épousé Séphora, la fille de Jéthro. Elle lui donna deux fils.
 9. Pendant qu'il gardait les brebis, Yahweh lui parle du «buisson ardent».
@@ -56,7 +56,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 12. La religion des Israélites commence dans des circonstances miraculeuses - la manne et les cailles.
 13. La religion hébraïque commence au mont Horeb. Yahweh parle, mais pas comme un dieu de la nature. Une nouvelle divinité apparaît.
 14. Mais quand Moïse s'attarda trop longtemps sur la montagne, ils retournèrent au culte du «veau d'or».
-15. Le beau-père de Moïse l'a aidé à organiser les « multitudes ». Ce clan Kénite, avec un reste de la religion de Salem, accepta facilement la révélation de Yahweh. Voir [LU 96:5.3](/fr/The_Urantia_Book/96#p5_3)
+15. Le beau-père de Moïse l'a aidé à organiser les « multitudes ». Ce clan Kénite, avec un reste de la religion de Salem, accepta facilement la révélation de Yahweh. Voir <a id="s58_171"></a>[LU 96:5.3](/fr/The_Urantia_Book/96#p5_3)
 16. Yahvé devient un « Dieu de l'histoire » - le Dieu « qui t'a fait sortir du pays d'Égypte ».
 17. La nouvelle alliance de Yahweh était basée sur son serment à Abraham. Du début à la fin, la nature de Yahweh était la **sainteté**.
 18. Miriam a des ennuis pour avoir critiqué Moïse lorsqu'il épouse une femme éthiopienne (Cushite).

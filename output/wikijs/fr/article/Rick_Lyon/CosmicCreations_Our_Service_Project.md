@@ -70,7 +70,7 @@ Nous publions aussi une newsletter pour nos clients. Récemment, nous avons incl
 
 L’avantage personnel est de partager la fortune gagnée à la tombola spirituelle en trouvant _Le Livre d’Urantia_. CosmicCreations est un projet sur lequel Susan et moi pouvons travailler ensemble et nous nous sentons tellement bénis d’avoir cette possibilité de service.
 
-> Jésus enseignait que le service aux autres est le plus haut concept de la fraternité des croyants spirituels. <a id="a72_108"></a>[LU 188:4.9](/fr/The_Urantia_Book/188#p4_9)
+> Jésus enseignait que le service aux autres est le plus haut concept de la fraternité des croyants spirituels. <a id="a72_112"></a>[LU 188:4.9](/fr/The_Urantia_Book/188#p4_9)
 
 ## Où nous trouver ?
 

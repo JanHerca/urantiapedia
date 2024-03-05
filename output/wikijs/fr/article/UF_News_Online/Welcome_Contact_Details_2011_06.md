@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2011_06/036.jpg">
 </figure>
 
-“Lorsque vous commencerez à trouver Dieu dans votre âme, vous commencerez bientôt à le découvrir dans l'âme des autres hommes et éventuellement dans toutes les créatures et créations d'un univers puissant.” Jesus, _Le Livre d’Urantia_, <a id="a57_209"></a>[LU 155:6.13](/fr/The_Urantia_Book/155#p6_13)
+“Lorsque vous commencerez à trouver Dieu dans votre âme, vous commencerez bientôt à le découvrir dans l'âme des autres hommes et éventuellement dans toutes les créatures et créations d'un univers puissant.” Jesus, _Le Livre d’Urantia_, <a id="a58_236"></a>[LU 155:6.13](/fr/The_Urantia_Book/155#p6_13)
 <br style="clear:both;"/>
 
 ## Volume 5, numéro 2. juin 2011

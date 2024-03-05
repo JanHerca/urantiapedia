@@ -50,7 +50,7 @@ Parmi les sites spirituels que je consultai, l’École Internet du _Livre d’U
 
 Je compris que la vraie religion est une expérience spirituelle personnelle non sujette aux interprétations humaines ; que je devais me libérer de ce carcan pour trouver Dieu par moi-même, comme Jésus le conseilla et le connaître dans mon âme.
 
-Cependant, sur ce chemin de découverte, j’avançai avec précaution et perspicacité, apportant un esprit critique et analytique pour me consacrer à ces nouvelles perspectives religieuses. L’équipe qui m’aida dans ma marche de pèlerin devint de plus en plus encourageante, puissamment dynamisée par « Cette vérité que le royaume des cieux est la fraternité spirituelle des hommes fondée sur le fait éternel de la paternité universelle de Dieu ». <a id="a52_400"></a>[LU 163:7.4](/fr/The_Urantia_Book/163#p7_4)
+Cependant, sur ce chemin de découverte, j’avançai avec précaution et perspicacité, apportant un esprit critique et analytique pour me consacrer à ces nouvelles perspectives religieuses. L’équipe qui m’aida dans ma marche de pèlerin devint de plus en plus encourageante, puissamment dynamisée par « Cette vérité que le royaume des cieux est la fraternité spirituelle des hommes fondée sur le fait éternel de la paternité universelle de Dieu ». <a id="a52_443"></a>[LU 163:7.4](/fr/The_Urantia_Book/163#p7_4)
 
 Le plan de Dieu que je découvris exerça sur mon mental une fascination extraordinaire : ce Père universel, omnipotent, omniprésent et omniscient délégue tous ses pouvoirs à des coordonnés et subordonnés qui mettent en place des méthodes et des moyens pour que les créateurs et les personnalités créées puissent vivre et progresser éternellement. Plus je pénètre les mystères de Dieu, plus ma faim religieuse est grande.
 
@@ -58,9 +58,9 @@ En pratiquant fidèlement une méditation d’adoration, je fais l’expérience
 
 Je compris graduellement que _Le Livre d’Urantia_ élargit et clarifie beaucoup des enseignements et des concepts difficiles à comprendre de la Bible, et que les désaccords apparents entre la Bible et les sciences prennent racine dans les diverses doctrines théologiques et interprétations. Je me rendis compte de l’importante contribution de la Bible à l’éveil graduel de l’humanité pour accueillir et comprendre les révélations offertes par des personnalités spirituelles.
 
-Combien je fus heureuse d’apprendre que les vérités de l’évangile persisteront glorieusement grâce aux nouveaux éducateurs qui oseront « Dépendre uniquement de Jésus et de ses incomparables enseignements. Et qui « Se consacreront exclusivement à la régénération spirituelle » des hommes. <a id="a60_257"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)
+Combien je fus heureuse d’apprendre que les vérités de l’évangile persisteront glorieusement grâce aux nouveaux éducateurs qui oseront « Dépendre uniquement de Jésus et de ses incomparables enseignements. Et qui « Se consacreront exclusivement à la régénération spirituelle » des hommes. <a id="a60_288"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)
 
-Pendant les derniers cinq ans, durant lesquels j’ai marché sur le chemin du dévouement à faire la volonté de Dieu, de tout mon cœur, une nouvelle conscience de force spirituelle et de joie m’accompagne chaque jour, une foi vivante et croissante en un monde spirituel bon et amical qui est une réponse à ma recherche exigeante et sincère de Dieu. Et j’ai découvert, en cherchant et trouvant mes propres vérités, en nourrissant ma relation personnelle avec l’Esprit de Dieu, une paix dynamique et sublime, « Cette paix qui dépasse toute compréhension humaine, cet équilibre cosmique qui dénote l’absence de tout doute et de toute agitation. » <a id="a62_585"></a>[LU 100:6.6](/fr/The_Urantia_Book/100#p6_6)
+Pendant les derniers cinq ans, durant lesquels j’ai marché sur le chemin du dévouement à faire la volonté de Dieu, de tout mon cœur, une nouvelle conscience de force spirituelle et de joie m’accompagne chaque jour, une foi vivante et croissante en un monde spirituel bon et amical qui est une réponse à ma recherche exigeante et sincère de Dieu. Et j’ai découvert, en cherchant et trouvant mes propres vérités, en nourrissant ma relation personnelle avec l’Esprit de Dieu, une paix dynamique et sublime, « Cette paix qui dépasse toute compréhension humaine, cet équilibre cosmique qui dénote l’absence de tout doute et de toute agitation. » <a id="a62_641"></a>[LU 100:6.6](/fr/The_Urantia_Book/100#p6_6)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_09/046.jpg">
@@ -68,7 +68,7 @@ Pendant les derniers cinq ans, durant lesquels j’ai marché sur le chemin du d
 
 Cette confiance et assurance dans les réalités éternelles et universelles nourrissent constamment mon âme reconnaissante, qui n’a qu’un désir brûlant : exprimer des louanges reconnaissants au Créateur, mon Père Céleste, et m’impliquer dans Son plan universel.
 
-Un essor vers la liberté spirituelle et un engagement total à l’amour universel sans limites ou préjugés est ce que _Le Livre d’Urantia_ signifie pour moi, avec cette injonction de notre Maître Jésus Christ imprimé dans mon âme : « Consacre ta vie à prouver que l’amour est la plus grande chose du monde. » <a id="a70_289"></a>[LU 192:2.1](/fr/The_Urantia_Book/192#p2_1)
+Un essor vers la liberté spirituelle et un engagement total à l’amour universel sans limites ou préjugés est ce que _Le Livre d’Urantia_ signifie pour moi, avec cette injonction de notre Maître Jésus Christ imprimé dans mon âme : « Consacre ta vie à prouver que l’amour est la plus grande chose du monde. » <a id="a70_307"></a>[LU 192:2.1](/fr/The_Urantia_Book/192#p2_1)
 
 
 ## Références

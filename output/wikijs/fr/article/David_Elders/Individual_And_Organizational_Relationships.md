@@ -16,7 +16,7 @@ Une conférence donnée par David Elders lors de la réunion régionale du Pacif
 
 Ranelagh House, Robertson, Australie, 13 octobre 1988
 
-> « En ce qui concerne la clairvoyance, la récognition des valeurs morales et le discernement des significations spirituelles, tout ce que le mental humain peut faire consiste à découvrir, reconnaitre, interpréter et *choisir.* » ([LU 196:3.10](/fr/The_Urantia_Book/196#p3_10))
+> « En ce qui concerne la clairvoyance, la récognition des valeurs morales et le discernement des significations spirituelles, tout ce que le mental humain peut faire consiste à découvrir, reconnaitre, interpréter et *choisir.* » (<a id="a18_231"></a>[LU 196:3.10](/fr/The_Urantia_Book/196#p3_10))
 
 > « Pour un homme qui a un harceleur, le monde entier ressemble à un clou ! » Anonyme.
 

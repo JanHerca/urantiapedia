@@ -54,7 +54,7 @@ Je suis un scientifique, un mathématicien, qui prend_Le Livre d’Urantia_ à l
 > 2. La coordination des faits et des observations connues ou sur le point d’être connues.
 > 3. La restauration de fractions importantes de connaissances perdues concernant des événements historiques du passé lointain.
 > 4. Le don de renseignements qui combleront des lacunes fondamentales dans les connaissances acquises par ailleurs.
-> 5. La présentation des données cosmiques d’une manière qui éclaire les enseignements spirituels contenus dans la révélation qui les accompagne. <a id="a57_128"></a>[LU 101:4.5](/fr/The_Urantia_Book/101#p4_5)
+> 5. La présentation des données cosmiques d’une manière qui éclaire les enseignements spirituels contenus dans la révélation qui les accompagne. <a id="a56_146"></a>[LU 101:4.5](/fr/The_Urantia_Book/101#p4_5)
 
 Les auteurs utilisent une terminologie vague lorsqu’ils souhaitent éviter de révéler des informations pour lesquelles ils ne sont pas mandatés, non acquises ou interdites, ou bien qu’ils choisissent de ne pas dévoiler. Mais lorsqu’ils font une affirmation définitive, ils ne rapportent pas les erreurs du début du vingtième siècle ; le lecteur peut s’attendre à lire les corrections d’autorité des erreurs qui atténuent la confusion.
 

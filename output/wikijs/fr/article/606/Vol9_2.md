@@ -32,7 +32,7 @@ Changer Urantia commence par changer nos attitudes en nous-mêmes. Un léger cha
 
 ## « Pensée du mois »
 
-> « La croix se dresse véritablement comme le signe de la plus haute forme de service désintéressé, du dévouement suprême consistant à effuser pleinement une vie de droiture au service d’un ministère accompli de tout cœur, même dans la mort, la mort sur la croix. » ([LU 188:5.9](/fr/The_Urantia_Book/188#p5_9))
+> « La croix se dresse véritablement comme le signe de la plus haute forme de service désintéressé, du dévouement suprême consistant à effuser pleinement une vie de droiture au service d’un ministère accompli de tout cœur, même dans la mort, la mort sur la croix. » (<a id="a34_267"></a>[LU 188:5.9](/fr/The_Urantia_Book/188#p5_9))
 
 ## Culte de groupe
 

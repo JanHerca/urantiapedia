@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2015_12/038.jpg">
 </figure>
 
-> Dieu répond à la priêre de l'homme en lui donnant une révélation accrue de la vérité, une appréciation rehaussée de la beauté et un concept élargi de la bonté. _Le Livre d’Urantia_, <a id="a58_169"></a>[LU 91:8.11](/fr/The_Urantia_Book/91#p8_11)
+> Dieu répond à la priêre de l'homme en lui donnant une révélation accrue de la vérité, une appréciation rehaussée de la beauté et un concept élargi de la bonté. _Le Livre d’Urantia_, <a id="a58_184"></a>[LU 91:8.11](/fr/The_Urantia_Book/91#p8_11)
 
 ## Volume 9, numéro 4. décembre 2015
 

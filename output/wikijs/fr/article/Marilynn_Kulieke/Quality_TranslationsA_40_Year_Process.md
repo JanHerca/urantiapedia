@@ -42,7 +42,7 @@ _Par Marilynn Kulieke, vice-présidente de la Fondation Urantia, Illinois, État
 
 _Note de l’éditeur : l’article de Marilynn est basé sur une présentation faite par le Comité de Traduction de la Fondation. Les membres en sont, Minoo Claire, Victor García-Bory, Georges Michelson-Dupont, Marilynn Kulieke, Henk Mylanus, Jay Peregrine et Tamara Strumfeld._
 
-Sur la première page du _Livre d’Urantia,_ l’Introduction débute avec la déclaration sur la pauvreté conceptuelle causée par le sens inadéquate des termes de notre monde. La traduction originale des Fascicules d’Urantia des langues cosmiques en anglais dépendent de l’utilisation de nombreux de ces termes confus pour présenter des concepts élargis et de vérité avancée pour « étendre la conscience cosmique et rehausser la perception spirituelle ». <a id="a44_414"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2) Le Conseiller Divin dit clairement que le langage est la clé pour communiquer ces nombreuses nouvelles idées et concepts.
+Sur la première page du _Livre d’Urantia,_ l’Introduction débute avec la déclaration sur la pauvreté conceptuelle causée par le sens inadéquate des termes de notre monde. La traduction originale des Fascicules d’Urantia des langues cosmiques en anglais dépendent de l’utilisation de nombreux de ces termes confus pour présenter des concepts élargis et de vérité avancée pour « étendre la conscience cosmique et rehausser la perception spirituelle ». <a id="a44_450"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2) Le Conseiller Divin dit clairement que le langage est la clé pour communiquer ces nombreuses nouvelles idées et concepts.
 <br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
@@ -72,7 +72,7 @@ Durant cette période, les conditions nécessaires pour créer une traduction de
 
 Prendre en compte les défis de la traduction, auxquels les révélateurs ont expliqué avoir dû faire face :
 
-Il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n’introduire de nouveaux termes que si l’on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fut-ce partiellement ou même en en déformant plus ou moins le sens. <a id="a74_584"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)
+Il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. On nous a recommandé de n’introduire de nouveaux termes que si l’on ne pouvait trouver dans la terminologie anglaise aucune expression propre à illustrer ces nouveaux concepts, fut-ce partiellement ou même en en déformant plus ou moins le sens. <a id="a74_563"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2)
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2022_10/013.jpg">
@@ -112,7 +112,7 @@ Durant cette étape, la traduction est révisée. Les retours ont été reçus e
 
 ## Et environ 40ans plus tard...
 
-La civilisation doit attendre le langage pour se répandre. Des langues qui vivent et qui s’enrichissent assurent l’expansion de la pensée et des projets civilisés. Durant les âges primitifs, d’importants progrès furent apportés au langage. Aujourd’hui, il y a grand besoin d’un développement linguistique additionnel pour faciliter l’expression de la pensée en évolution. <a id="a116_312"></a>[LU 81:6.16](/fr/The_Urantia_Book/81#p6_16)
+La civilisation doit attendre le langage pour se répandre. Des langues qui vivent et qui s’enrichissent assurent l’expansion de la pensée et des projets civilisés. Durant les âges primitifs, d’importants progrès furent apportés au langage. Aujourd’hui, il y a grand besoin d’un développement linguistique additionnel pour faciliter l’expression de la pensée en évolution. <a id="a114_372"></a>[LU 81:6.16](/fr/The_Urantia_Book/81#p6_16)
 
 
 ## Références

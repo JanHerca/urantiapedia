@@ -77,7 +77,7 @@ Doreen Heyne, Floride, États-unis
 <figcaption><em>Carrie Prentice, South Dakota, United States</em></figcaption>
 </figure>
 
-Le dimanche, j’ai conduit le groupe à examiner ce que le _Livre d'Urantia_ disait explicitement sur ​​les différences entre les hommes et les femmes, en prenant en compte que la Révélation Urantia était adressée à un public du début du 20 ième siècle. Par exemple, nous avons pris en considération l'importance de cette déclaration: « Toutefois, les femmes, ont toujours été les porte-drapeau de la morale et les directrices spirituelles de l'humanité. » <a id="a75_381"></a>[LU 84:6.4](/fr/The_Urantia_Book/84#p6_4)
+Le dimanche, j’ai conduit le groupe à examiner ce que le _Livre d'Urantia_ disait explicitement sur ​​les différences entre les hommes et les femmes, en prenant en compte que la Révélation Urantia était adressée à un public du début du 20 ième siècle. Par exemple, nous avons pris en considération l'importance de cette déclaration: « Toutefois, les femmes, ont toujours été les porte-drapeau de la morale et les directrices spirituelles de l'humanité. » <a id="a79_455"></a>[LU 84:6.4](/fr/The_Urantia_Book/84#p6_4)
 
 Le groupe a également examiné la mise en place du corps des femmes de Jésus, qui accompagnait les apôtres durant le troisième tour de prédication.
 

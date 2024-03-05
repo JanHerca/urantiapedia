@@ -50,7 +50,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2012_03/068.jpg">
 </figure>
 
-« Vous ne pouvez juger les hommes qu'à leurs actes, mais mon Pére regarde dans le oeur de ses enfants et les juge en miséricorde selon leurs intentions et leurs désirs réels. » Jésus, _Le Livre d’Urantia_, <a id="a51_197"></a>[LU 140:6.5](/fr/The_Urantia_Book/140#p6_5)
+« Vous ne pouvez juger les hommes qu'à leurs actes, mais mon Pére regarde dans le oeur de ses enfants et les juge en miséricorde selon leurs intentions et leurs désirs réels. » Jésus, _Le Livre d’Urantia_, <a id="a52_206"></a>[LU 140:6.5](/fr/The_Urantia_Book/140#p6_5)
 <br style="clear:both;"/>
 
 ## Volume 6, numéro 1. Mars 2012

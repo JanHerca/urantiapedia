@@ -52,7 +52,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2011_03/049.jpg">
 </figure>
 
-Le fait d'être digne de confiance est la vraie mesure de la maitrise de soi, du caractêre. _Le Livre d’Urantia_, <a id="a53_84"></a>[LU 28:6.13](/fr/The_Urantia_Book/28#p6_13)
+Le fait d'être digne de confiance est la vraie mesure de la maitrise de soi, du caractêre. _Le Livre d’Urantia_, <a id="a54_113"></a>[LU 28:6.13](/fr/The_Urantia_Book/28#p6_13)
 <br style="clear:both;"/>
 
 ## Volume 5, numéro 1. Mars 2011

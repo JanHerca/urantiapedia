@@ -62,7 +62,7 @@ Les autres intervenants africains étaient Charity Charles, Shola Agagu, David O
 
 UPI est reconnaissant du soutien financier qu'il a reçu du Programme de Subventions de la Graine de Moutarde de la Fondation Urantia. Nous sommes également reconnaissants au Comité international de la Fellowship du Livre d’Urantia qui a fourni une partie des fonds de contrepartie qui ont rendu cet événement possible. Et enfin et surtout, UPI souhaite remercier de tout cœur tous les participants à cet événement pour l'avoir rendu aussi instructif qu'agréable !
 
-> « L'amour ne naît que de la compréhension approfondie des motifs et des sentiments de son prochain. » <a id="a64_96"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)
+> « L'amour ne naît que de la compréhension approfondie des motifs et des sentiments de son prochain. » <a id="a64_104"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2023_10/020.jpg">

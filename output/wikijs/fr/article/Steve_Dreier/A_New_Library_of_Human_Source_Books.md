@@ -49,9 +49,9 @@ Les étudiants du _Livre d’Urantia_ savent que les révélateurs ont utilisés
 <img src="/image/article/UF_News_Online/2016_12/014.jpg">
 </figure>
 
-Dans l’Introduction, un Conseiller Divin d’Orvonton dit : « En conséquence, pour présenter Dieu et ses associés dans l’univers, nous avons choisi pour base de ces facicules plus de mille concepts humains représentant la connaissance planétaire la plus haute et la plus évoluée des valeurs spirituelles et des significations de l’univers ». <a id="a51_328"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)
+Dans l’Introduction, un Conseiller Divin d’Orvonton dit : « En conséquence, pour présenter Dieu et ses associés dans l’univers, nous avons choisi pour base de ces facicules plus de mille concepts humains représentant la connaissance planétaire la plus haute et la plus évoluée des valeurs spirituelles et des significations de l’univers ». <a id="a51_340"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12)
 
-Là encore, dans les Remerciements de la Partie IV, un médian secondaire dit : « Autant que possible, j’ai tiré mes informations de sources purement humaines ». <a id="a53_148"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12)
+Là encore, dans les Remerciements de la Partie IV, un médian secondaire dit : « Autant que possible, j’ai tiré mes informations de sources purement humaines ». <a id="a53_160"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12)
 
 La Fondation Urantia a reçu une donation de livres d’une très grande bibliothèque de « ressources humaines » et d’autres matériaux associés. Cette collection est logée dans une bibliothèque nouvellement construite dans le sous-sol de 533 W. Diversey Parkway à Chicago. La bibliothèque est un endroit unique d’éducation et de recherche pour les étudiants du _Livre d’Urantia._ Les visiteurs de 533, peuvent maintenant examiner par eux-mêmes la nature exacte de la relation des « ressources humaines » au contenu du _Livre d’Urantia._
 

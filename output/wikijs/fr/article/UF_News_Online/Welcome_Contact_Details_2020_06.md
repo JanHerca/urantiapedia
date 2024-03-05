@@ -60,7 +60,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2020_06/044.jpg">
 </figure>
 
-En réalité, chaque être humain déflnit la religion dans les termes de sa propre interprétation fondée sur l'expérience des impulsions divines émanant de l'esprit de Dieu qui l'habite. Cette interprétation est nécessairement unique et complétement différente de la philosophie religieuse de tous les autres êtres humains. _Le Livre d’Urantia_, <a id="a62_321"></a>[LU 103:1.1](/fr/The_Urantia_Book/103#p1_1)
+En réalité, chaque être humain déflnit la religion dans les termes de sa propre interprétation fondée sur l'expérience des impulsions divines émanant de l'esprit de Dieu qui l'habite. Cette interprétation est nécessairement unique et complétement différente de la philosophie religieuse de tous les autres êtres humains. _Le Livre d’Urantia_, <a id="a62_343"></a>[LU 103:1.1](/fr/The_Urantia_Book/103#p1_1)
 <br style="clear:both;"/>
 
 ## Volume 14, numéro 2. juin 2020

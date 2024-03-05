@@ -24,13 +24,13 @@ Après avoir réfléchi une minute, j'ai dit : « C'est pourquoi il est si impor
 
 Nous avons cherché dans deux dictionnaires et deux encyclopédies et nous ne l'avons pas trouvé. Ensuite, Jon a décidé qu'il devait s'agir d'un personnage fictif. Nous avons donc cherché au bon endroit et l'avons trouvé.
 
-Nous lisons à la page 1969 l’époque où Jésus était seul à Gethsémani. Son cœur était indescriptiblement lourd. Il s'est apaisé en se remémorant les bonnes choses de ses premières années. Puis sur [LU 160:4.12](/fr/The_Urantia_Book/160#p4_12) Rodan nous dit : « ... construisez pour vous et en vous des galeries de réserve de beauté, de bonté et de grandeur artistique. »
+Nous lisons à la page 1969 l’époque où Jésus était seul à Gethsémani. Son cœur était indescriptiblement lourd. Il s'est apaisé en se remémorant les bonnes choses de ses premières années. Puis sur <a id="a26_196"></a>[LU 160:4.12](/fr/The_Urantia_Book/160#p4_12) Rodan nous dit : « ... construisez pour vous et en vous des galeries de réserve de beauté, de bonté et de grandeur artistique. »
 
 Pourquoi tout le préambule avant d'entrer dans mon sujet. Tu verras,
 
-Sur [LU 48:6.26](/fr/The_Urantia_Book/48#p6_26), nous lisons : « Si votre propre mental ne vous sert pas bien, vous pouvez l’échanger contre le mental de Jésus de Nazareth, lequel vous sert toujours bien. »
+Sur <a id="a30_4"></a>[LU 48:6.26](/fr/The_Urantia_Book/48#p6_26), nous lisons : « Si votre propre mental ne vous sert pas bien, vous pouvez l’échanger contre le mental de Jésus de Nazareth, lequel vous sert toujours bien. »
 
-Et sur [LU 102:4.1](/fr/The_Urantia_Book/102#p4_1) nous lisons : « La technique par laquelle vous pouvez accepter comme vôtre l’idée d’un autre est la même qui vous permet de « laisser le mental qui était en Christ être aussi en vous ».
+Et sur <a id="a32_7"></a>[LU 102:4.1](/fr/The_Urantia_Book/102#p4_1) nous lisons : « La technique par laquelle vous pouvez accepter comme vôtre l’idée d’un autre est la même qui vous permet de « laisser le mental qui était en Christ être aussi en vous ».
 
 Ensuite, ils nous donnent 700 pages d’attitudes de Jésus face à presque toutes les situations imaginables. En outre, les premières parties du livre ont été écrites par les Fils de Dieu ou Fils du Paradis, et elles expriment donc également ses attitudes et ses idées.
 

@@ -40,11 +40,11 @@ Après être devenue trustee associé à la Fondation Urantia, j’ai été invi
 
 Du 8 au 10 août à Chicago, cinq femmes se sont réunies en amitié, et elles ont échangé et exploré des idées et des concepts sur l’aspect féminin du divin en nous. Qu’est-ce que Dieu a spécifiquement donné aux femmes ? Quelle est la volonté de Dieu pour les femmes ? Que signifie être une fille de Dieu ?
 
-_Les femmes ont toujours été les porte-drapeaux de la morale et les directrices spirituelles de l’humanité. La main qui balance le berceau fraternise encore aujourd’hui avec la destinée._ <a id="a42_152"></a>[LU 84:6.4](/fr/The_Urantia_Book/84#p6_4) Comment pouvons-nous aider les mères à prendre conscience de l’importante influence qu’elles ont sur leurs enfants ?
+_Les femmes ont toujours été les porte-drapeaux de la morale et les directrices spirituelles de l’humanité. La main qui balance le berceau fraternise encore aujourd’hui avec la destinée._ <a id="a42_188"></a>[LU 84:6.4](/fr/The_Urantia_Book/84#p6_4) Comment pouvons-nous aider les mères à prendre conscience de l’importante influence qu’elles ont sur leurs enfants ?
 
 Nous sommes tous encouragés par les révélateurs à « construire une philosophie nouvelle et attrayante de la vie » qui intègre la vérité, la beauté et la bonté plus nous grandissons spirituellement. Des semences de créativité et d’originalité prennent racine en nous dès que nous devenons des « réflexions humaines du Divin ». Nous pouvons faire briller la vérité : Dieu est la flamme, et nous sommes le flambeau.
 
-Dans l’incroyable aventure de toute l’éternité, notre connaissance de Dieu et notre conscience de Dieu sera progressives et alors que nous progressons, « nous devenons conscients par nous-mêmes de connaître Dieu, de le révéler, de le chercher et de le trouver. » <a id="a46_234"></a>[LU 47:6.3](/fr/The_Urantia_Book/47#p6_3)
+Dans l’incroyable aventure de toute l’éternité, notre connaissance de Dieu et notre conscience de Dieu sera progressives et alors que nous progressons, « nous devenons conscients par nous-mêmes de connaître Dieu, de le révéler, de le chercher et de le trouver. » <a id="a46_263"></a>[LU 47:6.3](/fr/The_Urantia_Book/47#p6_3)
 
 Ce « weekend des femmes » en fut un rempli de joie, de respect mutuel et respect du caractère sacré de la personnalité. Nous avons conclu notre fin de semaine par l’écriture d’une mission et d’une vision nous décrivant ainsi que la direction que nous voulons que ce projet prenne.
 

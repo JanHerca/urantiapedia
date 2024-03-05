@@ -57,7 +57,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Pour de nombreuses raisons, il est difficile d'accepter Jacques, le frère du Seigneur, comme l'auteur de cette épître.
 2. Les frères de Jésus tardèrent à accepter sa mission divine ; lors de la crucifixion, il confia sa mère aux soins de l'apôtre Jean.
 3. Rien dans cette épître ne fait même allusion à une association intime de l'auteur avec Jésus.
-	**Remarque** : Si Jacques l'a écrit, il se peut qu'il ait hésité à se référer à la relation familiale avec Jésus en raison des circonstances particulières de la rencontre avortée de la famille avec Jésus à Capharnaüm - lorsque Jésus a prononcé ces mots qui si choqué sa famille - «Je n'ai pas de mère, je n'ai pas de frères.» (Livre d'Urantia, [LU 154:6.5)](/fr/The_Urantia_Book/154#p6_5)
+	**Remarque** : Si Jacques l'a écrit, il se peut qu'il ait hésité à se référer à la relation familiale avec Jésus en raison des circonstances particulières de la rencontre avortée de la famille avec Jésus à Capharnaüm - lorsque Jésus a prononcé ces mots qui si choqué sa famille - «Je n'ai pas de mère, je n'ai pas de frères.» (Livre d'Urantia, <a id="s59_345"></a>[LU 154:6.5)](/fr/The_Urantia_Book/154#p6_5)
 4. Ce livre de Jacques a été écrit par un savant écrivain - c'est de la littérature hellénistique de grande classe.
 5. Cette épître a été écrite en grec. James ne maîtrisait probablement que l'araméen.
 6. Il y a un élément de preuve qui mérite notre attention. Beaucoup des 230 mots utilisés par Jacques dans [Actes 15 :13-30](/fr/Bible/Acts_of_the_Apostles/15#v13) apparaissent dans l'épître de Jacques.

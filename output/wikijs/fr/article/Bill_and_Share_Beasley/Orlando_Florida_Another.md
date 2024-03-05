@@ -53,7 +53,7 @@ On avait mis des tables rondes dans la salle. Les gens prirent place et le progr
 
 C’était réconfortant et inspirant de voir les équipes en action. Margaret Mead, l’anthropologue, dit : ”Ne doutez jamais qu’un petit groupe de gens attentionnés,dévoués peut changer le monde. Vraiment, c’est la seule chose qui l’ait jamais fait. ” Nous pouvions le voir se passer.
 
-_L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle de travail en équipe. Le Livre d’Urantia._ <a id="a51_477"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)
+_L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle de travail en équipe. Le Livre d’Urantia._ <a id="a55_132"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)
 
 Les Trustees et les Trustees Associés rejoignirent le groupe après avoir terminé leur réunion. Assis au devant de la salle en panel,ils nous parlèrent des mises à jour concernant les nombreux projets en cours de la Fondation Urantia. Mo Siegel débuta en donnant une vue d’ensemble des réalisations de 2009 et des buts pour 2010. Les ventes du _Livre d’Urantia_ sont en hausse, quatre nouvelles traductions seront prêtes pour l’automne, des progrès importants seront faits pour traduire le site web en plusieurs langues, du soutien sera donné pour la croissance des groupes d’étude et il y aura une bonne volonté accrue et plus de communication avec les lecteurs des groupes dans le monde entier.
 

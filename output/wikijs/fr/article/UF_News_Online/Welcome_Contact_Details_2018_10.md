@@ -58,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2018_10/065.jpg">
 </figure>
 
-L'effort ne produit pas toujours de la joie, mais il n'est pas de bonheur sans effort intelligent. _Le Livre d’Urantia_, <a id="a60_110"></a>[LU 48:7.10](/fr/The_Urantia_Book/48#p7_10)
+L'effort ne produit pas toujours de la joie, mais il n'est pas de bonheur sans effort intelligent. _Le Livre d’Urantia_, <a id="a60_121"></a>[LU 48:7.10](/fr/The_Urantia_Book/48#p7_10)
 <br style="clear:both;"/>
 
 ## Volume 12, numéro 3 . October 2018

@@ -43,9 +43,9 @@ _Par Bobbie Dreier, New Jersey, États-Unis_
 _Note de l'éditeur : Cette retraite fut dirigée par Gard Jameson, Bobbie Dreier, Marta Elders et Carol Schlinder depuis de nombreuses années. Le but est d'augmenter la croissance spirituelle des lecteurs et d'approfondir leur appréciation du semce aimant._
 <br style="clear:both;"/>
 
-> « Le bonheur et la joie prennent origine dans la vie intérieure. » <a id="a45_53"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)
+> « Le bonheur et la joie prennent origine dans la vie intérieure. » <a id="a45_69"></a>[LU 111:4.7](/fr/The_Urantia_Book/111#p4_7)
 
-La retraite de pré-conférence de la Fellowship du Livre d'Urantia, « La Conférence Urantia Internationale 2017 » procurera un endroit oü les timides ames se sentiront en sécurité, une expérience qui favorise la croissance spirituelle en .. partageant votre vie spirituelle avec celle de vos compagnons. <a id="a47_251"></a>[LU 100:1.8](/fr/The_Urantia_Book/100#p1_8) En écoutant des histoires suggestives spirituellement, de la poésie et par une écoute respectueuse profonde, nous nous aiderons les uns les autres dans notre voyage spirituel personnel. Les participants profiteront de grands moments de communion et d'un temps pour l'adoration qui améne au service aimant. 
+La retraite de pré-conférence de la Fellowship du Livre d'Urantia, « La Conférence Urantia Internationale 2017 » procurera un endroit oü les timides ames se sentiront en sécurité, une expérience qui favorise la croissance spirituelle en .. partageant votre vie spirituelle avec celle de vos compagnons. <a id="a47_303"></a>[LU 100:1.8](/fr/The_Urantia_Book/100#p1_8) En écoutant des histoires suggestives spirituellement, de la poésie et par une écoute respectueuse profonde, nous nous aiderons les uns les autres dans notre voyage spirituel personnel. Les participants profiteront de grands moments de communion et d'un temps pour l'adoration qui améne au service aimant. 
 
 Les Cercles de Confiance sont basés sur des principes décrits dans Une _Complétude Cachée_ de Parker Palmer et les participants doivent lire le livre en préparation de la retraite. 
 

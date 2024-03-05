@@ -48,11 +48,11 @@ Les livres sont aussi comme un cadre de fenêtre, permettant au lecteur de conte
 
 _Le Livre d’Urantia_ est mon livre préféré. Il commence comme ça:
 
-> « Dans le mental des mortels d’Urantia, ce nom étant celui de votre monde, il existe une grande confusion quant à la signification des termes tels que Dieu, divinité, et déité. Les êtres humains sont dans une confusion et une incertitude plus grande encore lorsqu’il s’agit des relations entre les personnalités divines désignées par ces nombreuses appellations. » <a id="a50_317"></a>[LU 0:0.1](/fr/The_Urantia_Book/0#p0_1)
+> « Dans le mental des mortels d’Urantia, ce nom étant celui de votre monde, il existe une grande confusion quant à la signification des termes tels que Dieu, divinité, et déité. Les êtres humains sont dans une confusion et une incertitude plus grande encore lorsqu’il s’agit des relations entre les personnalités divines désignées par ces nombreuses appellations. » <a id="a50_367"></a>[LU 0:0.1](/fr/The_Urantia_Book/0#p0_1)
 
 Le Conseiller Divin poursuit en disant:
 
-> « À cause de cette pauvreté des concepts associée à tant de confusion dans l’idéation, j’ai été chargé de formuler cet exposé liminaire pour expliquer les significations qu’il faudrait attacher à certains symboles verbaux tels qu’ils peuvent être employés dans la suite des présents fascicules que le corps des révélateurs de vérité d’Orvonton a été autorisé à traduire dans la langue anglaise d’Urantia. » <a id="a54_391"></a>[LU 0:0.1](/fr/The_Urantia_Book/0#p0_1)
+> « À cause de cette pauvreté des concepts associée à tant de confusion dans l’idéation, j’ai été chargé de formuler cet exposé liminaire pour expliquer les significations qu’il faudrait attacher à certains symboles verbaux tels qu’ils peuvent être employés dans la suite des présents fascicules que le corps des révélateurs de vérité d’Orvonton a été autorisé à traduire dans la langue anglaise d’Urantia. » <a id="a54_409"></a>[LU 0:0.1](/fr/The_Urantia_Book/0#p0_1)
 
 Ces auteurs orvotoniens, les Conseillers Divins, tentent de transporter le mental humain sur de longues périodes de temps et à travers des secteurs insondables de l’espace jusqu’au Paradis, la demeure de Dieu. De là, il reflue vers les rives de la personne physique, le foyer de l’humble monde que nous appelons « Urantia ». L’endroit où nous mettons en action l’accomplissement de la volonté de Dieu.
 

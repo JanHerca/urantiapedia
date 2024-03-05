@@ -27,7 +27,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Yahweh
 
-> _Yahweh_ était le dieu des tribus palestiniennes du sud, qui associèrent ce concept de la déité au mont Horeb, le volcan du Sinaï. Yahweh était simplement l’un des mille et quelques dieux de la nature qui retenaient l’attention des tribus et peuples sémitiques et prétendaient à leur adoration. [LU 96:1.3](/fr/The_Urantia_Book/96#p1_3)
+> _Yahweh_ était le dieu des tribus palestiniennes du sud, qui associèrent ce concept de la déité au mont Horeb, le volcan du Sinaï. Yahweh était simplement l’un des mille et quelques dieux de la nature qui retenaient l’attention des tribus et peuples sémitiques et prétendaient à leur adoration. <a id="s29_297"></a>[LU 96:1.3](/fr/The_Urantia_Book/96#p1_3)
 
 
 <br>

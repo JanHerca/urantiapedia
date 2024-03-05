@@ -172,7 +172,7 @@ Jérémie a vécu 100 ans après Isaïe, lors de la prise et de la destruction d
 ## VII. Textes sélectionnés
 
 1. **Le début du travail de Jérémie**. '«Avant de te former dans le ventre de ma mère, je te connaissais, et avant ta naissance je t'ai consacré; je t'ai établi prophète des nations.'» [1:5](/fr/Bible/Jeremiah/1#v5) .
-	(**Remarque** : Ce texte rappelle les enseignements du Livre d'Urantia, concernant les Ajusteurs de Pensée obtenant des projections avancées concernant leurs sujets humains potentiels, comme trouvé sur [LU 108:1.2](/fr/The_Urantia_Book/108#p1_2)
+	(**Remarque** : Ce texte rappelle les enseignements du Livre d'Urantia, concernant les Ajusteurs de Pensée obtenant des projections avancées concernant leurs sujets humains potentiels, comme trouvé sur <a id="s174_203"></a>[LU 108:1.2](/fr/The_Urantia_Book/108#p1_2)
 2. **Citernes cassées**. «'Mon peuple a commis deux maux : il m'a abandonné, moi la source d'eau vive, et s'est creusé des citernes, des citernes brisées, qui ne peuvent retenir l'eau.'» [2:13](/fr/Bible/Jeremiah/2#v13).
 3. **Qu'est-ce qui n'allait pas**. « 'Du plus petit au plus grand d'entre eux, chacun est avide d'un gain injuste ; et du prophète au prêtre, chacun agit dans le mensonge. Ils ont pansé légèrement la blessure de mon peuple, en disant : « Paix, paix », n'y a pas de paix.'" [6:13,14](/fr/Bible/Jeremiah/6#v13).
 4. **Pas de paix**. «'Nous attendions la paix, mais rien de bon n'est venu, pour un temps de guérison, mais voici, la terreur.'» [8:15](/fr/Bible/Jeremiah/8#v15).

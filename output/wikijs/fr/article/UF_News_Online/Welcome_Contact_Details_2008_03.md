@@ -53,7 +53,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_03/046.jpg">
 </figure>
 
-_L'essentiel de la priêre qu'il enseigna à ses disciples était : «Que ton rêgne vienne, que ta volonté soit faite. » [2088:3]_ _Le Livre d’Urantia_, <a id="a55_127"></a>[LU 196:0.8](/fr/The_Urantia_Book/196#p0_8)
+_L'essentiel de la priêre qu'il enseigna à ses disciples était : «Que ton rêgne vienne, que ta volonté soit faite. » [2088:3]_ _Le Livre d’Urantia_, <a id="a55_149"></a>[LU 196:0.8](/fr/The_Urantia_Book/196#p0_8)
 
 <br style="clear:both;"/>
 

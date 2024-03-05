@@ -20,7 +20,7 @@ L’ère scientifique et technologique ne respecte pas les personnes. Chacune de
 
 Un aspect de la spécialisation est une concentration plus étroite de nos énergies, jusqu'à ce que d'autres éléments de notre existence soient canalisés dans un champ de pensée très étroit. En effet, nous concentrons notre esprit sur Dieu. Mais quelle spécialisation pourrait être plus noble ? Nos pieds sont sur terre. En plus de l’esprit de Dieu, nous avons reçu les faits : la science et la beauté des vraies émotions, et le tout en une seule dose : la vérité, la beauté et la bonté. Si nous sommes dogmatiques, ce n’est pas par étroitesse d’esprit ; c'est à travers des expansions de l'existence.
 
-> « Si l’expérience personnelle d’une personne qui a foi dans le Père expérimentable devait être contestée par un dogme, ce fils né de la foi pourrait répondre par le dogme irrécusable affirmant sa filiation effective avec le Père Universel. » ([LU 102:7.7](/fr/The_Urantia_Book/102#p7_7))
+> « Si l’expérience personnelle d’une personne qui a foi dans le Père expérimentable devait être contestée par un dogme, ce fils né de la foi pourrait répondre par le dogme irrécusable affirmant sa filiation effective avec le Père Universel. » (<a id="a22_245"></a>[LU 102:7.7](/fr/The_Urantia_Book/102#p7_7))
 
 Nous n'avons pas de gourous ni d'églises, mais nous pouvons rivaliser avec les meilleurs. Quel plus grand enseignant pouvons-nous avoir que Dieu lui-même dans l’Ajusteur intérieur.
 
@@ -30,7 +30,7 @@ Notre retraite du week-end m'a montré une fois de plus la qualité des personna
 
 La science chérira et nourrira la vie pour ses propres moyens. Dieu chérira et nourrira notre esprit si nous le permettons.
 
-> « Nous préférons assumer le risque d’une rébellion dans un système plutôt que de courir le risque de priver un seul individu, se débattant dans n’importe quel monde évolutionnaire, de la joie éternelle de poursuivre la carrière ascendante. » ([LU 112:5.8](/fr/The_Urantia_Book/112#p5_8))
+> « Nous préférons assumer le risque d’une rébellion dans un système plutôt que de courir le risque de priver un seul individu, se débattant dans n’importe quel monde évolutionnaire, de la joie éternelle de poursuivre la carrière ascendante. » (<a id="a32_245"></a>[LU 112:5.8](/fr/The_Urantia_Book/112#p5_8))
 
 Il y avait parmi nous tous une qualité de personnalités unique ce week-end, tout comme toutes les conférences, retraites et groupes d'étude sont uniques. Un autre aspect de Dieu nous est montré, qui nous attire toujours vers l'intérieur, vers sa source et son centre.
 

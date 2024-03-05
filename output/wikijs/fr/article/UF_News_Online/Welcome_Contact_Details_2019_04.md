@@ -60,7 +60,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2019_04/046.jpg">
 </figure>
 
-Le ministêre terrestre du Maitre présenta fort peu d'aspects professionnels, bien prévus ou prémédités. Il dispensa la santé et répandit le bonheur avec naturel et grâce au cours de son voyage à travers la vie. Il était littéralement vrai qu'il « circulait en faisant du bien. » _Le Livre d’Urantia_, <a id="a62_282"></a>[LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)
+Le ministêre terrestre du Maitre présenta fort peu d'aspects professionnels, bien prévus ou prémédités. Il dispensa la santé et répandit le bonheur avec naturel et grâce au cours de son voyage à travers la vie. Il était littéralement vrai qu'il « circulait en faisant du bien. » _Le Livre d’Urantia_, <a id="a62_301"></a>[LU 171:7.9](/fr/The_Urantia_Book/171#p7_9)
 <br style="clear:both;"/>
 
 

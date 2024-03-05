@@ -22,7 +22,7 @@ Pour nous, avec notre esprit matériel, l’expérience spirituelle et l’expé
 
 ## I
 
-Il est assez bien connu que Jung postule deux zones de l’inconscient, un inconscient personnel et un inconscient collectif. (Son hypothèse ou modèle de l'inconscient collectif a des aspects communs avec « l'_existence fonctionnelle du superconscient_ » ([LU 100:1.9](/fr/The_Urantia_Book/100#p1_9)) et « l'esprit cosmique » du _Livre d'URANTIA_, dans le sens exprimé à [LU 111:1.2](/fr/The_Urantia_Book/111#p1_2), «  _Les moi intellectuels ont leur origine dans l'esprit cosmique tout comme les nébuleuses prennent leur origine dans les énergies cosmiques de l'espace de l'univers._ ») Comme l'implique le terme « inconscient collectif », l'une de ses principales caractéristiques est qu'il est commun à nous tous, comme l'air que nous respirons ; tous nos esprits sont connectés avec ou dans cet inconscient collectif et partagent ainsi du matériel commun.
+Il est assez bien connu que Jung postule deux zones de l’inconscient, un inconscient personnel et un inconscient collectif. (Son hypothèse ou modèle de l'inconscient collectif a des aspects communs avec « l'_existence fonctionnelle du superconscient_ » (<a id="a24_254"></a>[LU 100:1.9](/fr/The_Urantia_Book/100#p1_9)) et « l'esprit cosmique » du _Livre d'URANTIA_, dans le sens exprimé à <a id="a24_369"></a>[LU 111:1.2](/fr/The_Urantia_Book/111#p1_2), «  _Les moi intellectuels ont leur origine dans l'esprit cosmique tout comme les nébuleuses prennent leur origine dans les énergies cosmiques de l'espace de l'univers._ ») Comme l'implique le terme « inconscient collectif », l'une de ses principales caractéristiques est qu'il est commun à nous tous, comme l'air que nous respirons ; tous nos esprits sont connectés avec ou dans cet inconscient collectif et partagent ainsi du matériel commun.
 
 Cette idée d’un substrat commun sous-jacent à nos consciences individuelles est la clé pour comprendre comment quelque chose comme « la mission d’enseignement » peut se produire. Comme discuté ci-dessous, le concept d'un inconscient collectif limité qui est unique à la sous-culture du mouvement Urantia peut expliquer les phénomènes autrement déroutants de manifestations de matériel similaire ou apparenté par des canalisateurs dans différents emplacements géographiques.
 
@@ -58,7 +58,7 @@ J'ai entendu des arguments en faveur de la « Mission d'enseignement » selon le
 
 _Le Livre d'URANTIA_ mentionne à LU 34 : 4.13 que :
 
-> « _Les quatre points cardinaux sont universels et inhérents à la vie de Nébadon. Toutes les créatures vivantes possèdent des unités corporelles qui sont sensibles et réactives à ces courants orientateurs._ » ([LU 34:4.13](/fr/The_Urantia_Book/34#p4_13))
+> « _Les quatre points cardinaux sont universels et inhérents à la vie de Nébadon. Toutes les créatures vivantes possèdent des unités corporelles qui sont sensibles et réactives à ces courants orientateurs._ » (<a id="a60_211"></a>[LU 34:4.13](/fr/The_Urantia_Book/34#p4_13))
 
 De même que nous n'hésitons pas, lorsque nous parcourons des routes inconnues, à sortir la feuille de route pour compléter notre boussole magnétique inhérente, nous ne devons pas non plus manquer d'utiliser le point de vue psychologique comme complément à notre expérience intérieure personnelle.
 

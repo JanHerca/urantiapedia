@@ -38,7 +38,7 @@ dateCreated: 2023-8-29T10:55:6Z
 ## Contenu de ce Numero
 
 - Le Livre d’Urantia au Cameroun : réflexions d’un dirigeant de groupe d’étude
-  - Décisions importantes de la réunion du conseil d’administration des Trustees de janvier 2016
+- Décisions importantes de la réunion du conseil d’administration des Trustees de janvier 2016
 - Le Symposium sur la Science 2016
 - UBIS : Le point de vue d’un étudiant
 - La conférence conjointe de 2016- Le temps diminue et le planning s’intensifie

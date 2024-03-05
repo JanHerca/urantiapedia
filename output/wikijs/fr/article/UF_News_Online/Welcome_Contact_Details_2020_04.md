@@ -58,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2020_04/050.jpg">
 </figure>
 
-Si seulement chaque mortel pouvait devenir un foyer d'affection dynamique, le virus bénin de l'amour imprêgnerait bientôt le courant émotionnel sentimental de l'humanité au point que toute la civilisation serait enveloppée d'amour, et ce serait la réalisation de la fraternité humaine. _Le Livre d’Urantia_, <a id="a61_301"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)
+Si seulement chaque mortel pouvait devenir un foyer d'affection dynamique, le virus bénin de l'amour imprêgnerait bientôt le courant émotionnel sentimental de l'humanité au point que toute la civilisation serait enveloppée d'amour, et ce serait la réalisation de la fraternité humaine. _Le Livre d’Urantia_, <a id="a60_308"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6)
 <br style="clear:both;"/>
 
 

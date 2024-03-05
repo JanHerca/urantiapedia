@@ -52,7 +52,7 @@ L’Université d’Harvard possède un fonds de dotation de $ 36.4 milliards. 
 
 La Dotation du Pont de la Révélation est de s’assurer que le _Livre d’Urantia_ et ses enseignements continuent d’être distribués et disséminés à tous les peuples du monde. C’est l’engagement fait par la Fondation Urantia en tant que fiduciaire. C’est aussi un effort d’équipe auquel chaque individu qui a bénéficié de ces enseignements peut participer.
 
-> « Mais la sécurité de la civilisation elle-même repose encore sur la bonne volonté croissante de chaque génération à investir ses moyens dans le bien-être de la prochaine génération et des suivantes » <a id="a54_158"></a>[LU 84:7.27](/fr/The_Urantia_Book/84#p7_27)
+> « Mais la sécurité de la civilisation elle-même repose encore sur la bonne volonté croissante de chaque génération à investir ses moyens dans le bien-être de la prochaine génération et des suivantes » <a id="a54_203"></a>[LU 84:7.27](/fr/The_Urantia_Book/84#p7_27)
 
 Rejoignez-nous, s’il vous plaît, et pensez à laisser un don planifié pour le Fonds de Dotation du Pont de la Révélation. Pour plus d’informations, visitez [urantia.plannedgiving.org](http://urantia.plannedgiving.org/) ou contactez la Fondation Urantia à [tamara@urantia.org](mailto:tamara@urantia.org) ou au 773-525-3319. Nous serons heureux de discuter avec vous des prochaines étapes pour aider à sécuriser le futur de la cinquième révélation d’époque.
 

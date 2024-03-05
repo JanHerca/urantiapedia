@@ -49,7 +49,7 @@ Plus tard dans l’après-midi, nous avons abordé les sujets suivants :
 
 ## « Pensée du mois »
 
-> « La conscience d’avoir mené une vie victorieuse sur la terre nait de la foi d’une créature confrontée au terrible spectacle des limitations humaines, lorsqu’à chaque épisode récurrent de son existence et sans jamais faillir, elle ose proclamer ce défi : Même si je ne peux pas faire cette chose, quelqu’un vit en moi qui peut la faire et la fera, une fraction de l’Absolu-Père de l’univers des univers. C’est cela « la victoire qui triomphe du monde, votre foi elle-même. » » ([LU 4:4.9](/fr/The_Urantia_Book/4#p4_9))
+> « La conscience d’avoir mené une vie victorieuse sur la terre nait de la foi d’une créature confrontée au terrible spectacle des limitations humaines, lorsqu’à chaque épisode récurrent de son existence et sans jamais faillir, elle ose proclamer ce défi : Même si je ne peux pas faire cette chose, quelqu’un vit en moi qui peut la faire et la fera, une fraction de l’Absolu-Père de l’univers des univers. C’est cela « la victoire qui triomphe du monde, votre foi elle-même. » » (<a id="a51_480"></a>[LU 4:4.9](/fr/The_Urantia_Book/4#p4_9))
 
 ## Du comité de placement des bibliothèques
 
@@ -109,7 +109,7 @@ Si vous ne pouvez pas être présent personnellement, rejoignez-nous en esprit. 
 
 ## Lao Shou Hsing, Dieu de la longévité
 
-> « Et la tradition chinoise conserve vaguement l’histoire du passé évolutionnaire ; ... » ([LU 79:8.15](/fr/The_Urantia_Book/79#p8_15))
+> « Et la tradition chinoise conserve vaguement l’histoire du passé évolutionnaire ; ... » (<a id="a111_92"></a>[LU 79:8.15](/fr/The_Urantia_Book/79#p8_15))
 
 L’un des dieux de la tradition chinoise est le dieu de la longévité. Le peuple chinois a un ardent désir de longévité dont la divinité SHOU LAO ou SHOU HSING réside dans l'étoile Canopus dans la constellation d'Argo.
 
@@ -159,13 +159,13 @@ Lors de la Conférence de Melbourne l’année dernière, les lecteurs australie
 
 ## Sur notre voyage vers l'intérieur
 
-_Le Livre d'URANTIA_ des dix parle de notre carrière universelle comme d'une ascension ou d'une ascension ascendante, mais ajoute comme précision qu'en réalité il s'agit d'un voyage vers l'intérieur. ([LU 32:3.11](/fr/The_Urantia_Book/32#p3_11))
+_Le Livre d'URANTIA_ des dix parle de notre carrière universelle comme d'une ascension ou d'une ascension ascendante, mais ajoute comme précision qu'en réalité il s'agit d'un voyage vers l'intérieur. (<a id="a161_201"></a>[LU 32:3.11](/fr/The_Urantia_Book/32#p3_11))
 
 Alors que je réfléchissais à cela un jour en faisant la vaisselle, ce qui est un moment propice à de telles réflexions, j'ai pu voir plusieurs significations de ce mouvement intérieur.
 
-Le premier est le long, très long chemin vers le Paradis, le centre même et le modèle principal de toute réalité matérielle universelle, la résidence personnelle du Père Universel. D’un point de vue géographique, c’est certainement un voyage vers l’intérieur et quelque chose à vraiment espérer. Cependant, le Paradis est un long chemin dans le futur et comme le souligne un Puissant Messager dans [LU 32:3.6](/fr/The_Urantia_Book/32#p3_6) du _Livre d'URANTIA_ : « Plus nous descendons l’échelle de la vie, plus il devient difficile de localiser avec l’œil de la foi le Père invisible. Les créatures inférieures — et même parfois les personnalités supérieures — ont peine à envisager toujours le Père Universel dans ses Fils Créateurs.»
+Le premier est le long, très long chemin vers le Paradis, le centre même et le modèle principal de toute réalité matérielle universelle, la résidence personnelle du Père Universel. D’un point de vue géographique, c’est certainement un voyage vers l’intérieur et quelque chose à vraiment espérer. Cependant, le Paradis est un long chemin dans le futur et comme le souligne un Puissant Messager dans <a id="a165_398"></a>[LU 32:3.6](/fr/The_Urantia_Book/32#p3_6) du _Livre d'URANTIA_ : « Plus nous descendons l’échelle de la vie, plus il devient difficile de localiser avec l’œil de la foi le Père invisible. Les créatures inférieures — et même parfois les personnalités supérieures — ont peine à envisager toujours le Père Universel dans ses Fils Créateurs.»
 
-Le Fils Créateur est la première étape de notre approche septuple du Père Universel. Jésus dit à Thomas lors du discours d'adieu : « Je suis le chemin, la vérité et la vie. Nul ne va au Père que par moi. Tous ceux qui trouvent le Père me trouvent d’abord. Si vous me connaissez, vous connaissez le chemin qui mène au Père. ([LU 180:3.7](/fr/The_Urantia_Book/180#p3_7))
+Le Fils Créateur est la première étape de notre approche septuple du Père Universel. Jésus dit à Thomas lors du discours d'adieu : « Je suis le chemin, la vérité et la vie. Nul ne va au Père que par moi. Tous ceux qui trouvent le Père me trouvent d’abord. Si vous me connaissez, vous connaissez le chemin qui mène au Père. (<a id="a167_324"></a>[LU 180:3.7](/fr/The_Urantia_Book/180#p3_7))
 
 [Lire la suite](/fr/article/Madeline_Noordzy/On_Our_Journey_Inward)
 

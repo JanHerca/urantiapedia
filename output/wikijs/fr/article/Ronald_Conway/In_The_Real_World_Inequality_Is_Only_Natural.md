@@ -59,5 +59,5 @@ Tout ce que la « démocratie » moderne peut espérer, c’est d’offrir à ch
 
 C’est également dangereux, car c’est de là que sont nées les révolutions les plus sanglantes de notre siècle. Il n’est pas essentiel au bonheur humain que nous jouissions tous du même statut et des mêmes biens que nos voisins, mais que nous utilisions ce que nous avons avec sagesse et bien.
 
-> « _Tandis qu’un bon milieu ne peut guère contribuer à triompher réellement des handicaps de caractère résultant d’une hérédité vile, un mauvais milieu peut très efficacement gâter une excellente hérédité, au moins durant les premières années de la vie._ » ([LU 76:2.6](/fr/The_Urantia_Book/76#p2_6))
+> « _Tandis qu’un bon milieu ne peut guère contribuer à triompher réellement des handicaps de caractère résultant d’une hérédité vile, un mauvais milieu peut très efficacement gâter une excellente hérédité, au moins durant les premières années de la vie._ » (<a id="a61_259"></a>[LU 76:2.6](/fr/The_Urantia_Book/76#p2_6))
 

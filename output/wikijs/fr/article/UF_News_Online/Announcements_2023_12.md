@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 ## 2024 Conference Urantia Association International
 
-> Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine. Le maitre du vaisseau mortel devrait avoir la sagesse de se fier au divin pilote pour conduire l’âme ascendante dans les havres morontiels de la survie éternelle. " <a id="a42_234"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
+> Le mental est votre navire, l’Ajusteur est votre pilote, la volonté humaine est le capitaine. Le maitre du vaisseau mortel devrait avoir la sagesse de se fier au divin pilote pour conduire l’âme ascendante dans les havres morontiels de la survie éternelle. " <a id="a42_261"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)
 
 Rejoignez-nous pour une étude agréable de l'âme, culminant avec l'adoration et le souvenir de Jésus le dimanche.
 

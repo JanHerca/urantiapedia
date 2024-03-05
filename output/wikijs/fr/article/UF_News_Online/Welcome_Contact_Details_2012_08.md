@@ -58,7 +58,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2012_08/056.jpg">
 </figure>
 
-De même que l'on peut assimiler la priêre à la recharge des batteries spirituelles de l'âme, de même on peut comparer l'adoration au fait d'accorder l'écoute de l'âme sur les émissions universelles de l'esprit infini du Pére Universel. _Le Livre d’Urantia_, <a id="a59_237"></a>[LU 144:4.8](/fr/The_Urantia_Book/144#p4_8)
+De même que l'on peut assimiler la priêre à la recharge des batteries spirituelles de l'âme, de même on peut comparer l'adoration au fait d'accorder l'écoute de l'âme sur les émissions universelles de l'esprit infini du Pére Universel. _Le Livre d’Urantia_, <a id="a60_258"></a>[LU 144:4.8](/fr/The_Urantia_Book/144#p4_8)
 <br style="clear:both;"/>
 
 ## Volume 6, numéro 3. August 2012

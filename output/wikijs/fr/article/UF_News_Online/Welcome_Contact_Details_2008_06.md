@@ -64,7 +64,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_06/040.jpg">
 </figure>
 
-_« Je vous le dis : aimez vos ennemis, faites du bien à ceux qui vous haissent, bénissez ceux qui vous maudissent, et priez pour ceux qui se servent de vous avec dédain, faites aux hommes tout ce que vous croyez queje leur aurais fait. »_ Jésus, Le Livre d'Urantia (<a id="a66_237"></a>[LU 140:3](/fr/The_Urantia_Book/140#p3))
+_« Je vous le dis : aimez vos ennemis, faites du bien à ceux qui vous haissent, bénissez ceux qui vous maudissent, et priez pour ceux qui se servent de vous avec dédain, faites aux hommes tout ce que vous croyez queje leur aurais fait. »_ Jésus, Le Livre d'Urantia (<a id="a66_266"></a>[LU 140:3](/fr/The_Urantia_Book/140#p3))
 
 <br style="clear:both;"/>
 

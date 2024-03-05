@@ -55,7 +55,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2010_09/036.jpg">
 </figure>
 
-« Entre le moment de la mort planétaire ... et résurrection ... les mortels ne gagnent absolument rien, à part l'expérience du fait de la survie. Vous commencez là-bas exactement au point oti vous en étiez en partant d'ici. » _Le Livre d’Urantia_, <a id="a57_219"></a>[LU 47:3.7](/fr/The_Urantia_Book/47#p3_7).
+« Entre le moment de la mort planétaire ... et résurrection ... les mortels ne gagnent absolument rien, à part l'expérience du fait de la survie. Vous commencez là-bas exactement au point oti vous en étiez en partant d'ici. » _Le Livre d’Urantia_, <a id="a57_248"></a>[LU 47:3.7](/fr/The_Urantia_Book/47#p3_7).
 <br style="clear:both;"/>
 
 ## Volume 4, numéro 3. September 2010

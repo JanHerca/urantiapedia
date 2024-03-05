@@ -90,7 +90,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Paternité
 
-1. John a été écrit en 101 après JC par Nathan, un juif grec de Césarée, sous la direction de John. Le livre de 1 Jean a été écrit par Jean lui-même comme lettre d'accompagnement. Livre d'Urantia, [LU 121:8.10](/fr/The_Urantia_Book/121#p8_10).
+1. John a été écrit en 101 après JC par Nathan, un juif grec de Césarée, sous la direction de John. Le livre de 1 Jean a été écrit par Jean lui-même comme lettre d'accompagnement. Livre d'Urantia, <a id="s92_197"></a>[LU 121:8.10](/fr/The_Urantia_Book/121#p8_10).
 2. Le fait que Nathan ait écrit l'Evangile a permis à Jean de se désigner plus gracieusement comme «le disciple que Jésus aimait».
 3. Nathan était probablement un homme aux manières douces, ce qui expliquerait comment le jeune «fils du tonnerre» ambitieux aurait pu devenir «l'apôtre de l'amour».- même dans sa vieillesse.
 4. Il est difficile de considérer l'Évangile de Jean et l'Apocalypse comme étant écrits par la même personne.

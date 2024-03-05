@@ -96,7 +96,7 @@ This is a Urantian &reg; publication
 <img src="/image/article/UF_News_Online/2023_12/042.jpg">
 </figure>
 
-Que le bien éternel de tes enfants mortels ne soit pas celui que nous souhaitons, Ó notre Pére aimant, mais celui que tu désires. Ainsi soit-il. <a id="a98_114"></a>[LU 144:5.71](/fr/The_Urantia_Book/144#p5_71)
+Que le bien éternel de tes enfants mortels ne soit pas celui que nous souhaitons, Ó notre Pére aimant, mais celui que tu désires. Ainsi soit-il. <a id="a98_145"></a>[LU 144:5.71](/fr/The_Urantia_Book/144#p5_71)
 
 ## Références
 

@@ -50,7 +50,7 @@ J'ai commencé par traduire quelques passages du livre et à les partager avec d
 <img src="/image/article/UF_News_Online/2013_06/044.jpg">
 </figure>
 
-Quel plaisir et quel honneur que d'être un traducteur du _Livre d'Urantia_ et d'être ici sur Urantia lorsque, comme il est dit dans le livre: « Tout Urantia attend que l’on proclame le message ennoblissant de Micaël, débarrassé des dogmes et doctrines accumulés au cours de dix-neuf siècles de contact avec les religions d’origine évolutionnaire. L’heure a sonné de présenter au bouddhisme, au christianisme, à l’hindouisme et même aux peuples de toutes les religions, non pas l’évangile à propos de Jésus, mais la réalité vivante et spirituelle de l’évangile de Jésus. » <a id="a52_542"></a>[LU 94:12.7](/fr/The_Urantia_Book/94#p12_7)
+Quel plaisir et quel honneur que d'être un traducteur du _Livre d'Urantia_ et d'être ici sur Urantia lorsque, comme il est dit dans le livre: « Tout Urantia attend que l’on proclame le message ennoblissant de Micaël, débarrassé des dogmes et doctrines accumulés au cours de dix-neuf siècles de contact avec les religions d’origine évolutionnaire. L’heure a sonné de présenter au bouddhisme, au christianisme, à l’hindouisme et même aux peuples de toutes les religions, non pas l’évangile à propos de Jésus, mais la réalité vivante et spirituelle de l’évangile de Jésus. » <a id="a52_572"></a>[LU 94:12.7](/fr/The_Urantia_Book/94#p12_7)
 
 
 ## Références

@@ -77,7 +77,7 @@ Les Juifs sous les Séleucides
 25. Jean Hyrcan était vraiment le dernier des grands Hasmonéens. Des cinq fils de Jean, Aristobule a emprisonné trois frères et assassiné le quatrième. Mais il n'a duré qu'un an.
 26. La confusion générale et croissante en Palestine conduisit Rome à prendre le relais.
 
-**REMARQUE** : Pour une revue de l'histoire hébraïque telle que présentée dans le Livre d'Urantia, voir [LU 97:9.1](/fr/The_Urantia_Book/97#p9_1)
+**REMARQUE** : Pour une revue de l'histoire hébraïque telle que présentée dans le Livre d'Urantia, voir <a id="s79_104"></a>[LU 97:9.1](/fr/The_Urantia_Book/97#p9_1)
 
 
 <br>

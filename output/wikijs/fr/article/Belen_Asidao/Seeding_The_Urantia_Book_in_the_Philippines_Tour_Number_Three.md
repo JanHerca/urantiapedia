@@ -70,7 +70,7 @@ Nous avons remarqué que les donations même de quelques dollars, peuvent contri
 
 Il y a des événements dans les prochains mois auxquels tous les participants des groupes d’étude voudraient participer, si possible. En juin, il y aura une convention nationale des bibliothécaires. En juillet, les artistes Pato Banton et Antoinette Rootsdawtah des États-Unis seront aux Philippines pour un concert et ils voudraient rencontrer des groupes d’étude pendant leur séjour ici. En septembre, il y a le Salon du Livre International de Manille, un événement de cinq jours qui se tiendra à Pasay, une ville dans la métropole de Manille et l’on pourrait, peut-être, présenter _Le Livre d’Urantia_.
 
-Je trouve que de distribuer _Le Livre d’Urantia_ vaut la peine et est enrichissant. L’atmosphère des collèges et des universités est très stimulant. Nous nous souvenons que le travail, pas le moi est important, et cela nous imprègne d’une énergie cosmique pour continuer. « L’acte est à nous, les conséquences sont à Dieu. » <a id="a72_302"></a>[LU 117:5.5](/fr/The_Urantia_Book/117#p5_5)
+Je trouve que de distribuer _Le Livre d’Urantia_ vaut la peine et est enrichissant. L’atmosphère des collèges et des universités est très stimulant. Nous nous souvenons que le travail, pas le moi est important, et cela nous imprègne d’une énergie cosmique pour continuer. « L’acte est à nous, les conséquences sont à Dieu. » <a id="a72_325"></a>[LU 117:5.5](/fr/The_Urantia_Book/117#p5_5)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_06/005.jpg">

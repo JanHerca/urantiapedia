@@ -55,7 +55,7 @@ De tout cœur, les trustees et les trustees associés remercient tous ceux de vo
 
 Dans ce message pour l'équipe d'UBIS, Georges écrivit : « Ensemble nous analyserons nos forces et nos faiblesses, et à partir de là, nous bâtirons un plan pour les sept prochaines années. Nous créerons de nouveaux cours pour répondre aux besoins des étudiants, développerons de plateformes de site web en plusieurs langues, afin de développer UBIS en différentes langues, nous collecterons des fonds pour développer et entretenir le site web et nous accroîtrons le nombre des enseignants. Chaque année nous réfléchirons ensemble sur la manière d'améliorer nos services en évaluant nos progrès par rapport au plan de sept ans ».
 
-UBIS est en vérité et en fait, une aventure exaltante. Georges, les trustees et les trustees associés souhaitent à Dorothy et l'équipe d'UBIS que Dieu soit avec eux. « Quand l'homme s'associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement ». <a id="a55_218"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9).
+UBIS est en vérité et en fait, une aventure exaltante. Georges, les trustees et les trustees associés souhaitent à Dorothy et l'équipe d'UBIS que Dieu soit avec eux. « Quand l'homme s'associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement ». <a id="a57_275"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9).
 <br style="clear:both;"/>
 
 ## Références

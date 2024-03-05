@@ -62,7 +62,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2022_12/056.jpg">
 </figure>
 
-> Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme. _Le Livre d’Urantia_, <a id="a63_188"></a>[LU 194:3.19](/fr/The_Urantia_Book/194#p3_19)
+> Quand la joie de cet esprit répandu est éprouvée consciemment dans la vie humaine, elle est un tonique pour la santé, un stimulant pour le mental et une énergie inépuisable pour l'âme. _Le Livre d’Urantia_, <a id="a64_209"></a>[LU 194:3.19](/fr/The_Urantia_Book/194#p3_19)
 
 ## Volume 16, numéro 5. décembre 2022
 

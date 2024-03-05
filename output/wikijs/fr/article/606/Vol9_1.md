@@ -36,7 +36,7 @@ Cette année, 1988, est notre neuvième année de publication. Nous voulons enco
 
 ## « Pensée du mois »
 
-> « Le développement spirituel dépend, en premier lieu, du maintien d’un lien spirituel vivant avec de vraies forces spirituelles, et, en second lieu, de la production continue de fruits spirituels par transmission, à vos compagnons, de l’aide que vous avez reçue de vos bienfaiteurs spirituels. Le progrès spirituel est basé sur la récognition intellectuelle de la pauvreté spirituelle, doublée de la conscience personnelle de la soif de perfection, du désir de connaitre Dieu et d’être semblable à lui, de l’intention sincère de faire la volonté du Père qui est aux cieux. » ([LU 100:2.1](/fr/The_Urantia_Book/100#p2_1))
+> « Le développement spirituel dépend, en premier lieu, du maintien d’un lien spirituel vivant avec de vraies forces spirituelles, et, en second lieu, de la production continue de fruits spirituels par transmission, à vos compagnons, de l’aide que vous avez reçue de vos bienfaiteurs spirituels. Le progrès spirituel est basé sur la récognition intellectuelle de la pauvreté spirituelle, doublée de la conscience personnelle de la soif de perfection, du désir de connaitre Dieu et d’être semblable à lui, de l’intention sincère de faire la volonté du Père qui est aux cieux. » (<a id="a38_578"></a>[LU 100:2.1](/fr/The_Urantia_Book/100#p2_1))
 
 ## De notre sac postal
 

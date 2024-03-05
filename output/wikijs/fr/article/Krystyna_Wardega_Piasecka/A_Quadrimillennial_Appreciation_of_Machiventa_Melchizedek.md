@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Krystyna Wardega-Piasecka, Sandnes, Norvège_
 
-Vous êtes-vous déjà demandé, chers lecteurs du _Livre d’Urantia_, pourquoi Machiventa Melchizedek est appelé « l’un des extraordinaires personnages qui aient jamais été liés à l’histoire d’Urantia » ? <a id="a42_194"></a>[LU 93:10.11](/fr/The_Urantia_Book/93#p10_11) Si la réponse est non, le moment est peut-être arrivé. Car cette année, nous célébrons le quatrième millénaire de son incarnation dans la chair sur notre planète.
+Vous êtes-vous déjà demandé, chers lecteurs du _Livre d’Urantia_, pourquoi Machiventa Melchizedek est appelé « l’un des extraordinaires personnages qui aient jamais été liés à l’histoire d’Urantia » ? <a id="a42_201"></a>[LU 93:10.11](/fr/The_Urantia_Book/93#p10_11) Si la réponse est non, le moment est peut-être arrivé. Car cette année, nous célébrons le quatrième millénaire de son incarnation dans la chair sur notre planète.
 
 Les Melchizedeks sont la plus haute classe des fils universels créés par Michaël, l’Esprit Mère Créatif et le Père Melchizedek. Les Melchizedeks sont les fils les plus élevés qui peuvent approcher les êtres vivants. À cause de la portée des tâches pratiques et des capacités qu’ils possèdent, je voudrais appeler cette classe autonome d’observateurs impartiaux « le bras droit » de l’administration de l’univers.
 
@@ -57,7 +57,7 @@ Melchizedek, à travers sa mission, prépara non seulement le mental humain spir
 <figcaption><em>Jésus et Ganid au Grand Phare de Slawa Radziszewska</em></figcaption>
 </figure>
 
-> «  Il doit ressortir clairement, du présent fascicule, que tous ces enseignements décrivant le monothéisme étaient largement dérivés, directement ou indirectement, des prédications des missionnaires de Machiventa Melchizedek. » <a id="a59_204"></a>[LU 131:0.1](/fr/The_Urantia_Book/131#p0_1)
+> «  Il doit ressortir clairement, du présent fascicule, que tous ces enseignements décrivant le monothéisme étaient largement dérivés, directement ou indirectement, des prédications des missionnaires de Machiventa Melchizedek. » <a id="a59_230"></a>[LU 131:0.1](/fr/The_Urantia_Book/131#p0_1)
 
 Pour résumer les actions de Melchizedek, nous savons qu’il commença son travail de mettre de l’ordre sur notre planète. Il limita les activités malfaisantes de Caligastia et de certains médians malveillants. Il commença aussi la promulgation d’un plan pour le vaste bien-être d’Urantia qui touchait non seulement l’individu mais toute la planète.
 
@@ -69,7 +69,7 @@ Le futur de Melchizedek sera-t-il le rôle de Prince Planétaire, à la fin du p
 <img src="/image/article/UF_News_Online/2021_09/029.jpg">
 </figure>
 
-J’associe le sage de Salem au symbole des trois cercles concentriques qu’il portait sur la poitrine. Ce symbole de la Trinité du Paradis a été oublié par les générations successives et les révélations du _Livre d’Urantia_ nous l’ont rapporté. Les trois cercles représentent « l’infinité, l’éternité et l’universalité de la Trinité du Paradis qui entretient l’univers et le dirige divinement. » <a id="a69_385"></a>[LU 93:3.3](/fr/The_Urantia_Book/93#p3_3)
+J’associe le sage de Salem au symbole des trois cercles concentriques qu’il portait sur la poitrine. Ce symbole de la Trinité du Paradis a été oublié par les générations successives et les révélations du _Livre d’Urantia_ nous l’ont rapporté. Les trois cercles représentent « l’infinité, l’éternité et l’universalité de la Trinité du Paradis qui entretient l’univers et le dirige divinement. » <a id="a71_394"></a>[LU 93:3.3](/fr/The_Urantia_Book/93#p3_3)
 
 Les enseignements sur la Trinité peuvent être trouvés dans certaines des religions du monde, un héritage des enseignements de Salem.
 

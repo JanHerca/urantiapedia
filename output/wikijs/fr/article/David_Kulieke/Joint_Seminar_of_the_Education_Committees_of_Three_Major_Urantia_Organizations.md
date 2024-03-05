@@ -58,7 +58,7 @@ Le mercredi matin fut axé sur le thème « Notre mission éducative – pouvon
 > La Fellowship du Livre d’Urantia
 > La Fondation Urantia
 > 
-> En alignant nos efforts d’éducation avec la tentative des révélateurs « pour étendre la conscience cosmique et rehausser la perception spirituelle » <a id="a60_135"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2) nous sommes inspirés à étudier et à partager les enseignements du _Livre d’Urantia_ afin de :
+> En alignant nos efforts d’éducation avec la tentative des révélateurs « pour étendre la conscience cosmique et rehausser la perception spirituelle » <a id="a60_151"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2) nous sommes inspirés à étudier et à partager les enseignements du _Livre d’Urantia_ afin de :
 > 
 > - Éclairer Dieu et sa réalité à travers la découverte progressive de la vérité, de la beauté et de la bonté.
 > - Favoriser la transformation intellectuelle, morale, et spirituelle.

@@ -40,7 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Bob Solone, la Fondation Urantia, États-Unis_
 
-Supposez, un moment, que vous avez deux passions dans la vie : premièrement la musique, « la langue universelle des hommes, des anges et des esprits » et ensuite le _Livre d’Urantia_, la cinquième révélation d’époque, à notre monde. <a id="a42_209"></a>[LU 44:1.15](/fr/The_Urantia_Book/44#p1_15) Puis, supposez que, pour la première moitié de votre vie d’adulte, vous avez pu pourchasser votre première passion comme carrière et profession, partageant l’amour et le don de la musique. Et finalement, imaginez la joie de rejoindre le personnel de la Fondation Urantia, l’éditeur et le gardien du _Livre d’Urantia._
+Supposez, un moment, que vous avez deux passions dans la vie : premièrement la musique, « la langue universelle des hommes, des anges et des esprits » et ensuite le _Livre d’Urantia_, la cinquième révélation d’époque, à notre monde. <a id="a42_233"></a>[LU 44:1.15](/fr/The_Urantia_Book/44#p1_15) Puis, supposez que, pour la première moitié de votre vie d’adulte, vous avez pu pourchasser votre première passion comme carrière et profession, partageant l’amour et le don de la musique. Et finalement, imaginez la joie de rejoindre le personnel de la Fondation Urantia, l’éditeur et le gardien du _Livre d’Urantia._
 
 Et bien, c’est ce qui m’est arrivé, me rendant la personne la plus heureuse que je connaisse. Travailler avec la Fondation, d’abord en tant que bénévole au milieu des années 80, puis officiellement rejoignant le personnel en 1989 et ayant porté plusieurs casquettes durant les années intermédiaires, à 533 Diversey – que mes amis et moi-même désignaient avec amour comme « la crèche » - fut, toujours avec la musique, la plus grande joie de ma vie.
 

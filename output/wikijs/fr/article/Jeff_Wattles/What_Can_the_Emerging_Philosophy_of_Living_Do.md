@@ -55,7 +55,7 @@ Pourquoi la philosophie est-elle inclue dans la religion et la cosmologie ? La 
 <img src="/image/article/UF_News_Online/2017_06/044.jpg">
 </figure>
 
-Donc la nouvelle philosophie n’est pas seulement pour la croissance personnelle. Cela comprend _un paradigme cosmique d’éducation._ La vraie éducation nous garde actif sur notre frontière de croissance : « acquérir du caractère par une expérience éclairée. » <a id="a55_205"></a>[LU 37:6.3](/fr/The_Urantia_Book/37#p6_3)
+Donc la nouvelle philosophie n’est pas seulement pour la croissance personnelle. Cela comprend _un paradigme cosmique d’éducation._ La vraie éducation nous garde actif sur notre frontière de croissance : « acquérir du caractère par une expérience éclairée. » <a id="a57_259"></a>[LU 37:6.3](/fr/The_Urantia_Book/37#p6_3)
 
 Durant ce séminaire, Gard et moi dirigerons une réunion de personnes qui liront et discuteront de mon livre, _Vivre en Vérité, Beauté et Bonté,_ examineront des passages sélectionnés du _Livre d’Urantia_ qui soulignent ce livre et oseront s’aventurer dans un projet centré sur l’éducation expérimentale, en suivant une méthode qui a été testée sur mille étudiants de l’Université de l’État du Kent. Pour un résumé de mon livre, allez sur[https://sites.google.com/site/ubquestionsandstudies/](https://sites.google.com/site/ubquestionsandstudies/).
 <br style="clear:both;"/>

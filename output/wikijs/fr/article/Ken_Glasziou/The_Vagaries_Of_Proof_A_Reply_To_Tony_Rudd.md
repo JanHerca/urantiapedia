@@ -25,7 +25,7 @@ Après le choc initial, le monde universitaire a décidé de balayer Gödel sous
 
 Il ne fait aucun doute que cet exposé ennuie de nombreux lecteurs, probablement la plupart. Cependant, il n’est pas nécessaire d’en digérer le contenu autrement que de reconnaître que même les cerveaux mathématiques et logiques les plus brillants parmi nous n’ont pas été capables de fournir une preuve rigoureuse même des axiomes de l’arithmétique simple. Par conséquent, la leçon pour nous tous est que nous sommes extrêmement naïfs quant à ce qui constitue une preuve, et que nous avons absolument besoin d'aiguiser nos facultés critiques à l'égard de ce que nous acceptons comme fait, ou des opinions que nous promouvons auprès des autres comme des faits définitivement prouvés - un point sur lequel la lettre de Tony a lancé un appel convaincant. _Le Livre d'URANTIA_ nous a fourni beaucoup de sagesse sur ce sujet. Les articles arrivèrent à une époque où nos mathématiciens considéraient que leur discipline était la plus rigoureuse de toutes, mais l’article 103 ne prêta guère attention à leur orgueil en faisant référence aux « approximations des mathématiques ». Le même article nous dit que,
 
-> « _Au stade mortel, ***rien*** ne peut être prouvé absolument ; la science et la religion sont toutes deux fondées sur des hypothèses. Sur le niveau morontiel, les postulats de la science et de la religion sont susceptibles d’être partiellement prouvés par la logique de la mota. Sur le niveau spirituel de statut maximum, la nécessité d’une preuve finie disparait graduellement devant l’expérience effective de la réalité, et en présence de la réalité. Mais, même alors, beaucoup de choses au-delà du fini restent improuvées._ » ([LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
+> « _Au stade mortel, ***rien*** ne peut être prouvé absolument ; la science et la religion sont toutes deux fondées sur des hypothèses. Sur le niveau morontiel, les postulats de la science et de la religion sont susceptibles d’être partiellement prouvés par la logique de la mota. Sur le niveau spirituel de statut maximum, la nécessité d’une preuve finie disparait graduellement devant l’expérience effective de la réalité, et en présence de la réalité. Mais, même alors, beaucoup de choses au-delà du fini restent improuvées._ » (<a id="a27_533"></a>[LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
 
 Cet article nous rappelle également notre besoin d’une autocritique approfondie et intrépide, ainsi que d’une plus grande conscience du caractère incomplet et évolutif de nos connaissances. Cela fait également remarquer que nous sommes souvent trop sûrs d’eux et dogmatiques.
 
@@ -41,9 +41,9 @@ _Le Livre d'URANTIA_ nous informe que nous avons tous les dons nécessaires pour
 
 1. « La raison est valable – l’univers peut être compris. »
 2. « La sagesse est valable : l'univers matériel peut être coordonné avec le spirituel. » Et de l’Ajusteur de Pensée, nous recevons la connaissance inhérente que :
-3. « La foi est valide — Dieu peut être connu et atteint » ([LU 103:9.8](/fr/The_Urantia_Book/103#p9_8)).
+3. « La foi est valide — Dieu peut être connu et atteint » (<a id="a43_60"></a>[LU 103:9.8](/fr/The_Urantia_Book/103#p9_8)).
 
-Encore une fois, c'est une révélation, la preuve n'a pas d'importance. Notre volonté d'accepter ces dons et d'y croire a pour conséquence directe que nous vivons une vie motivée par la vérité et dominée par l'amour ([LU 103:9.9](/fr/The_Urantia_Book/103#p9_9)). Et c’est à ce parcours personnel que Tony a fait référence à la fin de sa lettre captivante.
+Encore une fois, c'est une révélation, la preuve n'a pas d'importance. Notre volonté d'accepter ces dons et d'y croire a pour conséquence directe que nous vivons une vie motivée par la vérité et dominée par l'amour (<a id="a45_216"></a>[LU 103:9.9](/fr/The_Urantia_Book/103#p9_9)). Et c’est à ce parcours personnel que Tony a fait référence à la fin de sa lettre captivante.
 
 **Ken Glasziou**
 **Maleny, Queensland**

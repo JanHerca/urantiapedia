@@ -70,7 +70,7 @@ Nous avons placé trois livres dans chacun de ces magasins. Ils ont majoré le l
 
 Je suis convaincu que nous devons utiliser tous les outils de marketing moderne à notre disposition pour essayer de distribuer _Le Livre d’Urantia._ Comme il est dit dans le livre dans la parabole de l’intendant avisé:
 
-> « Puisque vous êtes si diligents à faire des profits personnels quand vous étiez au service du moi, pourquoi montreriez-vous moins d’empressement à gagner des âmes pour le royaume puisque vous êtes maintenant les serviteurs de la fraternité des hommes et les intendants de Dieu ?» <a id="a72_230"></a>[LU 169:2.2](/fr/The_Urantia_Book/169#p2_2)
+> « Puisque vous êtes si diligents à faire des profits personnels quand vous étiez au service du moi, pourquoi montreriez-vous moins d’empressement à gagner des âmes pour le royaume puisque vous êtes maintenant les serviteurs de la fraternité des hommes et les intendants de Dieu ?» <a id="a72_283"></a>[LU 169:2.2](/fr/The_Urantia_Book/169#p2_2)
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_03/032.jpg">

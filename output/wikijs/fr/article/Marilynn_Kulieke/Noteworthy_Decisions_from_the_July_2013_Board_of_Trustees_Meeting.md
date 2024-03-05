@@ -102,7 +102,7 @@ Pour en savoir plus, veuillez visiter : [https://new.ubis.urantia.org/](https://
 
 ## Séminaire sur l’identification des faits et des concepts scientifiques qui identifient une planification intelligente de l’univers
 
-Dans la série des séminaires de formation continue offerte à 533 W. Diversey Parkway à Chicago, Ralph Zehr animera un symposium pour identifier les faits scientifiques qui montrent que l’univers est une création planifiée, non accidentelle. Le symposium est basé sur la déclaration : _Les médians d’Urantia ont rassemblé plus de cinquante-mille faits physiques et chimiques qu’ils jugent incompatibles avec les lois du hasard, et qui, d’après eux, démontrent de façon irréfutable la présence d’un dessein intelligent dans la création matérielle._ [LU 58:2.3](/fr/The_Urantia_Book/58#p2_3)
+Dans la série des séminaires de formation continue offerte à 533 W. Diversey Parkway à Chicago, Ralph Zehr animera un symposium pour identifier les faits scientifiques qui montrent que l’univers est une création planifiée, non accidentelle. Le symposium est basé sur la déclaration : _Les médians d’Urantia ont rassemblé plus de cinquante-mille faits physiques et chimiques qu’ils jugent incompatibles avec les lois du hasard, et qui, d’après eux, démontrent de façon irréfutable la présence d’un dessein intelligent dans la création matérielle._ <a id="a104_547"></a>[LU 58:2.3](/fr/The_Urantia_Book/58#p2_3)
 
 La participation à ce symposium est seulement sur invitation, donc si vous souhaitez en faire partie, contactez, s’il vous plaît Joanne Strobel à [joanne@urantia.org](mailto:joanne@urantia.org)
 

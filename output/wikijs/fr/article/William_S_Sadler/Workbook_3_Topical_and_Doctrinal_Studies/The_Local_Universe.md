@@ -25,12 +25,12 @@ dateCreated: 2022-10-08T14:02:03.086Z
 </figure>
 
 
-1. Urantia appartient à un système qui se situe bien à la frontière de votre univers local. [LU 15:1.6](/fr/The_Urantia_Book/15#p1_6)
-2. Les univers évolutionnaires locaux sont l'œuvre des Fils Créateurs du Paradis. [LU 32:0.1](/fr/The_Urantia_Book/32#p0_1)
-3. L'Esprit Mère de l'Univers est cocréateur dans l'univers local. [LU 14:6.30](/fr/The_Urantia_Book/14#p6_30)
-4. L'identification d'Urantia à travers le grand univers est donnée sur [[LU 15:14.5](/fr/The_Urantia_Book/15#p14_5)
-5. La densité de notre soleil est d'environ une fois et demie celle de l'eau. [LU 41:4.1](/fr/The_Urantia_Book/41#p4_1)
-6. Les mondes architecturaux jouissent de dix formes de vie matérielle – trois végétales et trois animales – dont quatre difficiles à comprendre. [LU 43:6.4](/fr/The_Urantia_Book/43#p6_4)
+1. Urantia appartient à un système qui se situe bien à la frontière de votre univers local. <a id="s27_92"></a>[LU 15:1.6](/fr/The_Urantia_Book/15#p1_6)
+2. Les univers évolutionnaires locaux sont l'œuvre des Fils Créateurs du Paradis. <a id="s28_82"></a>[LU 32:0.1](/fr/The_Urantia_Book/32#p0_1)
+3. L'Esprit Mère de l'Univers est cocréateur dans l'univers local. <a id="s29_67"></a>[LU 14:6.30](/fr/The_Urantia_Book/14#p6_30)
+4. L'identification d'Urantia à travers le grand univers est donnée sur <a id="s30_72"></a>[[LU 15:14.5](/fr/The_Urantia_Book/15#p14_5)
+5. La densité de notre soleil est d'environ une fois et demie celle de l'eau. <a id="s31_78"></a>[LU 41:4.1](/fr/The_Urantia_Book/41#p4_1)
+6. Les mondes architecturaux jouissent de dix formes de vie matérielle – trois végétales et trois animales – dont quatre difficiles à comprendre. <a id="s32_146"></a>[LU 43:6.4](/fr/The_Urantia_Book/43#p6_4)
 
 
 <br>

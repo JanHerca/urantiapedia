@@ -54,7 +54,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <figcaption><em>The Good Samaritan by Harold Copping</em></figcaption>
 </figure>
 
-L' adoration — la contemplation du spirituel — doit alterner avec le service, le contact avec la réalité matérielle. _Le Livre d’Urantia_, <a id="a55_121"></a>[LU 143:7.3](/fr/The_Urantia_Book/143#p7_3)
+L' adoration — la contemplation du spirituel — doit alterner avec le service, le contact avec la réalité matérielle. _Le Livre d’Urantia_, <a id="a56_139"></a>[LU 143:7.3](/fr/The_Urantia_Book/143#p7_3)
 <br style="clear:both;"/>
 
 ## Volume 5, numéro 3. September 2011

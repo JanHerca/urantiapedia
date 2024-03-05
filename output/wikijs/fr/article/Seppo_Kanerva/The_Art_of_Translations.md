@@ -51,7 +51,7 @@ Au cours des années, la Fondation a travaillé avec plus de cent traducteurs et
 
 Chaque projet de traduction a ses caractéristiques particulières. L'élément commun est que les traductions sont les efforts d'un seul travailleur solitaire se faisant aider par d'autres personnes. Étonnamment, trois traductions furent le résultat des efforts d'une seule personne travaillant sans que la Fondation soit au courant. 
 
-Le rôle crucial d'une seule personne est une réalité et un fait, même si l'on nous dit que le travail d'équipe est une importante leçon à apprendre et qu' «il y a peu de tâches dans l'univers pour les serviteurs isolés.» <a id="a53_202"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14). Traduire _Le Livre d'Urantia_ semble être l'une des quelques tâches dans l'univers pour un serviteur isolé. Pourquoi? Je crois que c'est parce que les traductions sont des œuvres d'art, des chefs-d'œuvre de l'art et que les vrais artistes sont rares.
+Le rôle crucial d'une seule personne est une réalité et un fait, même si l'on nous dit que le travail d'équipe est une importante leçon à apprendre et qu' «il y a peu de tâches dans l'univers pour les serviteurs isolés.» <a id="a53_221"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14). Traduire _Le Livre d'Urantia_ semble être l'une des quelques tâches dans l'univers pour un serviteur isolé. Pourquoi? Je crois que c'est parce que les traductions sont des œuvres d'art, des chefs-d'œuvre de l'art et que les vrais artistes sont rares.
 
 > AU FIL DES ANNÉES, LA FONDATION A TRAVAILLÉ AVEC PLUS D'UNE CENTAINE DE TRADUCTEURS
 

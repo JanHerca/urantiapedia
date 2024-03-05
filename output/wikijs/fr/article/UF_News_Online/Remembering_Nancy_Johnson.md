@@ -47,7 +47,7 @@ Il y avait six membres fondateurs, trois de chaque organisation. Nancy représen
 
 Le temps que Nancy consacra à la SRT fut limité à cause de la détérioration de sa vue. Elle finit par perdre la vue, mais sa foi en la révélation de Dieu et de son univers est restée inébranlable et a éclairé son chemin dans l'obscurité.
 
-Jésus dit à un aveugle qu'il rencontra sur le chemin de Jérusalem : « Tu recouvreras la vue ; va-t'en, ta foi t'a guéri. » <a id="a49_139"></a>[LU 171:5.3](/fr/The_Urantia_Book/171#p5_3) Marilynn dit : « Je crois que la foi de Nancy l'a guérie, et je n'oublierai jamais les dons qu'elle nous a faits par sa persévérance, son érudition et son amour de la revelation. »
+Jésus dit à un aveugle qu'il rencontra sur le chemin de Jérusalem : « Tu recouvreras la vue ; va-t'en, ta foi t'a guéri. » <a id="a49_123"></a>[LU 171:5.3](/fr/The_Urantia_Book/171#p5_3) Marilynn dit : « Je crois que la foi de Nancy l'a guérie, et je n'oublierai jamais les dons qu'elle nous a faits par sa persévérance, son érudition et son amour de la revelation. »
 
 Jay Peregrine, ancien directeur exécutif de la Fondation Urantia, se souvient de sa collaboration avec Nancy sur le projet SRT. « Elle a toujours été à la hauteur d'esprits tels que celui de Merritt Horn et s'est montrée très attentive aux détails, même lorsqu'elle luttait contre ses problèmes de vue. »
 

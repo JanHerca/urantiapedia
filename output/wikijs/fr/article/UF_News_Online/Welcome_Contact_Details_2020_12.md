@@ -62,7 +62,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2020_12/079.jpg">
 </figure>
 
-> La vérité, la beauté et la sainteté sont des aides puissantes et efficaces au véritable culte. Jesus, _Le Livre d’Urantia_ <a id="a63_105"></a>[LU 167:6.6](/fr/The_Urantia_Book/167#p6_6)
+> La vérité, la beauté et la sainteté sont des aides puissantes et efficaces au véritable culte. Jesus, _Le Livre d’Urantia_ <a id="a64_125"></a>[LU 167:6.6](/fr/The_Urantia_Book/167#p6_6)
 
 
 

@@ -47,7 +47,7 @@ Au mois d’août dernier, nous avons demandé aux lecteurs d’aider la communa
 
 Les trustees de la Fondation Urantia vous remercient de votre soutien aux communautés locales d’Amérique Latine des lecteurs du Livre d’Urantia, qui répandent la Révélation Urantia.
 
-« Allez, dans le monde entier, proclamer cet évangile à toutes les nations, à chaque homme, à chaque femme et à chaque enfant. » Jésus, _Le Livre d’Urantia_, <a id="a47_123"></a>[LU 165:6.3](/fr/The_Urantia_Book/165#p6_3)
+« Allez, dans le monde entier, proclamer cet évangile à toutes les nations, à chaque homme, à chaque femme et à chaque enfant. » Jésus, _Le Livre d’Urantia_, <a id="a49_158"></a>[LU 165:6.3](/fr/The_Urantia_Book/165#p6_3)
 
 <br style="clear:both;"/>
 

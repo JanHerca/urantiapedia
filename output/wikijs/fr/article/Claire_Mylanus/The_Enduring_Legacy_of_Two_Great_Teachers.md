@@ -42,7 +42,7 @@ _Par Claire Mylanus, trustee associé émérite, Bretagne, France_
 
 _Note de l’éditeur : les traducteurs du_ Livre d’Urantia _servent souvent comme animateurs remarquables de groupes d’étude, et Henry « Henk » Begemann ne faisait pas exception à la règle. Henk et son équipe travaillèrent, durant de nombreuses années, à traduire_ Le Livre d’Urantia _en néerlandais. Sa fille Nienke Begemann-Brugman prit la relève comme traductrice en chef après la disparition de son père en 1990. Lisez-en plus sur le Begemann et la traduction néerlandaise ici :_[_https://www.urantia.org/news/1998-05/het-urantia-boek-dutch-translation_](https://www.urantia.org/news/1998-05/het-urantia-boek-dutch-translation)
 
-Qu’est-ce qu’un grand enseignant ? _Le Livre d’Urantia_ nous dit que Jésus était « un enseignant sage, patient, compréhensif et efficace. » <a id="a46_125"></a>[LU 124:5.6](/fr/The_Urantia_Book/124#p5_6)
+Qu’est-ce qu’un grand enseignant ? _Le Livre d’Urantia_ nous dit que Jésus était « un enseignant sage, patient, compréhensif et efficace. » <a id="a44_140"></a>[LU 124:5.6](/fr/The_Urantia_Book/124#p5_6)
 
 Cette description de Jésus pourrait aussi s’appliquer à mes enseignants — Henk et Baukje Begemann.
 

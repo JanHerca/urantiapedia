@@ -58,7 +58,7 @@ En tant qu’étudiante, j’étais très intéressée, mise au défi, poussée 
 
 Ma pensée fut rehaussée après dix semaines d’étude. Répondre à des questions perspicaces personnalisa le sujet. J’ai acquis de nouvelles perceptions par la lecture, l’écriture, l’étude et en tenant compte des réponses de mes camarades de classe. Nous avons tous appris beaucoup par notre partage personnel et notre temps passé ensemble dans l’espace d’UBIS.
 
-« On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. » <a id="a58_96"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)
+« On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. » <a id="a60_123"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)
 
 
 ## Références

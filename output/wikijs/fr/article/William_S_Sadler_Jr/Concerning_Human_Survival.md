@@ -30,7 +30,7 @@ Nous avons le témoignage du Fils Créateur - que le chemin vers la vie éternel
 
 Mais ce n'est pas exactement ce que Jésus a dit:
 
-> «Vous avez aussi un autre dicton qui contient beaucoup de vérité : le chemin qui mène à la vie éternelle est droit et étroit, et la porte qui y conduit est également étroite,» [LU 166:3.3](/fr/The_Urantia_Book/166#p3_3)
+> «Vous avez aussi un autre dicton qui contient beaucoup de vérité : le chemin qui mène à la vie éternelle est droit et étroit, et la porte qui y conduit est également étroite,» <a id="s32_178"></a>[LU 166:3.3](/fr/The_Urantia_Book/166#p3_3)
 
 Ici, Jésus se sert d'un dicton commun à des fins d'enseignement. Bien qu'il ait dit que ce dicton populaire contenait beaucoup de vérité, il n'a pas dit que c'était factuel. —il ne l'a pas présenté comme une déclaration originale et personnelle.
 
@@ -40,7 +40,7 @@ Comparativement parlant, le chemin de la survie peut être «droit et étroit» 
 
 La porte de la survie peut aussi être étroite, mais puisque Jésus lui-même est cette porte, nous pouvons être assurés qu'elle est assez large pour admettre chaque mortel qui veut vraiment trouver Dieu et être rassemblé dans le Corps de la Finalité.
 
-> «Quiconque le désire trouvera l'entrée» [LU 166:3.5](/fr/The_Urantia_Book/166#p3_5)
+> «Quiconque le désire trouvera l'entrée» <a id="s42_42"></a>[LU 166:3.5](/fr/The_Urantia_Book/166#p3_5)
 
 ### 2. Hypothèse n° 2. 
 
@@ -62,7 +62,7 @@ La conclusion qu'un sixième de la population mondiale est «infidèle, paresseu
 
 A cet égard, il serait peut-être bon de rappeler un passage de la page 63 du _Livre d'Urantia_. Ça lit:
 
-> «Si un tel mental humain est motivé sincèrement et spirituellement, si cette âme humaine désire connaitre Dieu et devenir semblable à lui, si elle veut faire honnêtement la volonté du Père, alors nulle influence négative de frustration humaine, nul pouvoir positif d’interférence possible ne sauraient empêcher cette âme divinement motivée de s’élever en toute sécurité jusqu’aux portes du Paradis.» [LU 5:1.7](/fr/The_Urantia_Book/5#p1_7)
+> «Si un tel mental humain est motivé sincèrement et spirituellement, si cette âme humaine désire connaitre Dieu et devenir semblable à lui, si elle veut faire honnêtement la volonté du Père, alors nulle influence négative de frustration humaine, nul pouvoir positif d’interférence possible ne sauraient empêcher cette âme divinement motivée de s’élever en toute sécurité jusqu’aux portes du Paradis.» <a id="s64_402"></a>[LU 5:1.7](/fr/The_Urantia_Book/5#p1_7)
 
 ### 5. Hypothèse n° 5.
 
@@ -70,7 +70,7 @@ L'hypothèse qu'un tiers de la race humaine actuelle ne veut pas survivre est en
 
 Mais, à cet égard, nous pourrions bien réfléchir aux encouragements trouvés aux pages 69 et 70 du _Livre d'Urantia_:
 
-> «Lorsque le mental croit Dieu, que l’âme connait Dieu et qu’avec l’Ajusteur stimulant tous *désirent* Dieu, alors la survie est assurée. Ni limitations d’intellect, ni restrictions d’enseignement, ni privations de culture, ni appauvrissement du statut social, ni même un standard moral inférieur résultant d’une absence malheureuse d’avantages éducatifs, culturels et sociaux ne peuvent invalider la présence de l’esprit divin chez des individus ainsi dépourvus de chance et humainement handicapés, mais croyants. La présence intérieure du Moniteur de Mystère inaugure et rend possible le potentiel de croissance et de survie de l’âme immortelle.» [LU 5:5.13](/fr/The_Urantia_Book/5#p5_13) 
+> «Lorsque le mental croit Dieu, que l’âme connait Dieu et qu’avec l’Ajusteur stimulant tous *désirent* Dieu, alors la survie est assurée. Ni limitations d’intellect, ni restrictions d’enseignement, ni privations de culture, ni appauvrissement du statut social, ni même un standard moral inférieur résultant d’une absence malheureuse d’avantages éducatifs, culturels et sociaux ne peuvent invalider la présence de l’esprit divin chez des individus ainsi dépourvus de chance et humainement handicapés, mais croyants. La présence intérieure du Moniteur de Mystère inaugure et rend possible le potentiel de croissance et de survie de l’âme immortelle.» <a id="s72_650"></a>[LU 5:5.13](/fr/The_Urantia_Book/5#p5_13) 
 
 ### 6. Hypothèse n° 6.
 
@@ -91,11 +91,11 @@ Il serait dangereux de généraliser sur la survie des mortels dans tout le gran
     
 3. L'attitude juridique de la Divinité. À la page 41, nous lisons:
     
-    > «La droiture divine n’est pas dominée par une stricte justice distributive. Dieu en tant que père transcende Dieu en tant que juge.» [LU 2:6.6](/fr/The_Urantia_Book/2#p6_6) 
+    > «La droiture divine n’est pas dominée par une stricte justice distributive. Dieu en tant que père transcende Dieu en tant que juge.» <a id="s93_139"></a>[LU 2:6.6](/fr/The_Urantia_Book/2#p6_6) 
     
     Après tout, nous devrions nous rappeler que le péché est conscient - savoir - mal faire. Réfléchissons à ce que Jésus a dit à la page 1947: 
     
-    > «Si nous ne leur avions pas enseigné la vérité, ils pourraient faire bien des choses étranges sans encourir de condamnation, mais, du moment qu’ils ont connu la lumière et se sont permis de la rejeter, leur comportement n’a pas d’excuse." [LU 180:3.2](/fr/The_Urantia_Book/180#p3_2) 
+    > «Si nous ne leur avions pas enseigné la vérité, ils pourraient faire bien des choses étranges sans encourir de condamnation, mais, du moment qu’ils ont connu la lumière et se sont permis de la rejeter, leur comportement n’a pas d’excuse." <a id="s97_245"></a>[LU 180:3.2](/fr/The_Urantia_Book/180#p3_2) 
     
     Il semble que nous soyons finalement jugés conformément à notre illumination. Nous ne sommes pas tenus responsables des choses que nous ne savons pas.
     
@@ -105,39 +105,39 @@ Il serait dangereux de généraliser sur la survie des mortels dans tout le gran
     
 6. Il devrait nous suffire de savoir que: 
     
-    > «Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d’occasions favorables sans bornes, de progrès illimité et de vie sans fin.» [LU 32:5.7](/fr/The_Urantia_Book/32#p5_7) 
+    > «Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d’occasions favorables sans bornes, de progrès illimité et de vie sans fin.» <a id="s107_212"></a>[LU 32:5.7](/fr/The_Urantia_Book/32#p5_7) 
     
 7. Et ce même passage continue en disant:
     
-    > «La course à la perfection est engagée ! Quiconque le veut peut y participer, et une victoire certaine couronnera les efforts de tout être humain désirant courir la course de la foi et de la confiance» [LU 32:5.8](/fr/The_Urantia_Book/32#p5_8)
+    > «La course à la perfection est engagée ! Quiconque le veut peut y participer, et une victoire certaine couronnera les efforts de tout être humain désirant courir la course de la foi et de la confiance» <a id="s111_208"></a>[LU 32:5.8](/fr/The_Urantia_Book/32#p5_8)
     
 8. Portons une attention particulière à ce passage de la page 447: 
     
-    > «Quant aux chances de survie des mortels, précisons, une fois pour toutes ceci : toutes les âmes appartenant à chacune des phases possibles d’existence humaine survivront à la condition de manifester de la bonne volonté à coopérer avec leur Ajusteur intérieur, et de montrer leur désir de trouver Dieu et d’atteindre la perfection divine, même si ces désirs ne représentent que les premières et les plus faibles lueurs de la compréhension primitive de « la vraie lumière éclairant chaque homme qui entre dans le monde ». [LU 40:5.19](/fr/The_Urantia_Book/40#p5_19)
+    > «Quant aux chances de survie des mortels, précisons, une fois pour toutes ceci : toutes les âmes appartenant à chacune des phases possibles d’existence humaine survivront à la condition de manifester de la bonne volonté à coopérer avec leur Ajusteur intérieur, et de montrer leur désir de trouver Dieu et d’atteindre la perfection divine, même si ces désirs ne représentent que les premières et les plus faibles lueurs de la compréhension primitive de « la vraie lumière éclairant chaque homme qui entre dans le monde ». <a id="s115_527"></a>[LU 40:5.19](/fr/The_Urantia_Book/40#p5_19)
     
 9. Notez la considération que les juges de l'univers accordent aux mortels dont les qualités de survie sont douteuses. Réfléchissez à ceci à partir de la page 1233: 
     
-    > "Si jamais il y a un doute sur l’opportunité de faire avancer une identité humaine sur les mondes des maisons, les gouvernements de l’univers décident invariablement dans l’intérêt personnel de l’individu. Sans hésiter, ils élèvent cette âme au statut d’être transitionnel, tout en continuant leurs observations sur ses intentions morontielles et ses desseins spirituels émergents. Ainsi, la divine justice est certaine d’être accomplie et la divine miséricorde se voit accorder une nouvelle occasion d’étendre son ministère.... Cela ne signifie pas que les êtres humains doivent bénéficier d’une seconde chance après avoir rejeté la première ; il n’en est nullement ainsi. Mais cela signifie que toutes les créatures volitives doivent avoir une véritable occasion de faire un choix indubitable, pleinement conscient et définitif. [LU 112:5.7,9](/fr/The_Urantia_Book/112#p5_7)
+    > "Si jamais il y a un doute sur l’opportunité de faire avancer une identité humaine sur les mondes des maisons, les gouvernements de l’univers décident invariablement dans l’intérêt personnel de l’individu. Sans hésiter, ils élèvent cette âme au statut d’être transitionnel, tout en continuant leurs observations sur ses intentions morontielles et ses desseins spirituels émergents. Ainsi, la divine justice est certaine d’être accomplie et la divine miséricorde se voit accorder une nouvelle occasion d’étendre son ministère.... Cela ne signifie pas que les êtres humains doivent bénéficier d’une seconde chance après avoir rejeté la première ; il n’en est nullement ainsi. Mais cela signifie que toutes les créatures volitives doivent avoir une véritable occasion de faire un choix indubitable, pleinement conscient et définitif. <a id="s119_837"></a>[LU 112:5.7,9](/fr/The_Urantia_Book/112#p5_7)
     
 10. Jetons un autre regard sur la «porte étroite» du royaume. Notez ces deux passages: 
     
-    > «Même si la porte du chemin de la vie est étroite, elle est assez large pour admettre tous ceux qui cherchent sincèrement à entrer, car je suis cette porte. Le Fils ne refusera l’entrée à aucun enfant de l’univers cherchant par la foi à trouver le Père par la voie du Fils.» [LU 166:3.3](/fr/The_Urantia_Book/166#p3_3) 
+    > «Même si la porte du chemin de la vie est étroite, elle est assez large pour admettre tous ceux qui cherchent sincèrement à entrer, car je suis cette porte. Le Fils ne refusera l’entrée à aucun enfant de l’univers cherchant par la foi à trouver le Père par la voie du Fils.» <a id="s123_281"></a>[LU 166:3.3](/fr/The_Urantia_Book/166#p3_3) 
     
-    > "Je vous déclare à tous que le Père a ouvert les portes du royaume céleste à tous ceux qui ont assez de foi pour y entrer. Nul homme et nulle association d’hommes ne peuvent fermer ces portes, même à l’âme la plus humble ou au pécheur supposé le plus flagrant de la terre, s’ils désirent sincèrement y entrer. [LU 147:5.6](/fr/The_Urantia_Book/147#p5_6)
+    > "Je vous déclare à tous que le Père a ouvert les portes du royaume céleste à tous ceux qui ont assez de foi pour y entrer. Nul homme et nulle association d’hommes ne peuvent fermer ces portes, même à l’âme la plus humble ou au pécheur supposé le plus flagrant de la terre, s’ils désirent sincèrement y entrer. <a id="s125_316"></a>[LU 147:5.6](/fr/The_Urantia_Book/147#p5_6)
     
 11. La survie est atteinte malgré l'ignorance, les doutes et l'incertitude. Réfléchissez à cette déclaration de Jésus: 
     
-    > «L’ignorance à elle seule ne peut jamais empêcher la survie, pas plus que les doutes confusionnels ou l’incertitude craintive. Seule la résistance consciente à la gouverne de l’Ajusteur peut empêcher la survie de l’âme immortelle en évolution.» [LU 110:3.5](/fr/The_Urantia_Book/110#p3_5) 
+    > «L’ignorance à elle seule ne peut jamais empêcher la survie, pas plus que les doutes confusionnels ou l’incertitude craintive. Seule la résistance consciente à la gouverne de l’Ajusteur peut empêcher la survie de l’âme immortelle en évolution.» <a id="s129_251"></a>[LU 110:3.5](/fr/The_Urantia_Book/110#p3_5) 
     
 12. Deux des douze apôtres — les ambassadeurs du royaume — pourraient ne pas avoir été considérés comme des candidats probables à la survie par certains critiques pessimistes.
     
-    > "Ces jumeaux \[Alphée\] ne pouvaient comprendre le mental de Jésus, mais ils saisissaient le lien de sympathie entre eux et le cœur de leur Maitre. Leur mental n’était pas d’un ordre élevé et, révérence parler, on pourrait même les qualifier de stupides, mais ils firent, dans leur nature spirituelle, une réelle expérience. Ils croyaient en Jésus ; ils étaient des fils de Dieu et des citoyens du royaume. [LU 139:10.6](/fr/The_Urantia_Book/139#p10_6) ... et ils ont survécu !
+    > "Ces jumeaux \[Alphée\] ne pouvaient comprendre le mental de Jésus, mais ils saisissaient le lien de sympathie entre eux et le cœur de leur Maitre. Leur mental n’était pas d’un ordre élevé et, révérence parler, on pourrait même les qualifier de stupides, mais ils firent, dans leur nature spirituelle, une réelle expérience. Ils croyaient en Jésus ; ils étaient des fils de Dieu et des citoyens du royaume. <a id="s133_413"></a>[LU 139:10.6](/fr/The_Urantia_Book/139#p10_6) ... et ils ont survécu !
     
-    ... il est dans la nature des Fils de Dieu de donner à tout être créé une chance entière et égale de salut et de survie. Jésus voulait que non seulement les mortels de ce monde, mais aussi les observateurs sur d’innombrables autres mondes, sachent que, s’il existe des doutes sur la sincérité et la franchise de la dévotion d’une créature au royaume, la pratique invariable des Juges des hommes consiste à recevoir pleinement le candidat douteux. La porte de la vie éternelle est grande ouverte à tous ; « quiconque le veut peut entrer » ; il n’y a ni restriction ni qualification, sauf la *foi* de celui qui vient. [LU 139:12.7](/fr/The_Urantia_Book/139#p12_7)
+    ... il est dans la nature des Fils de Dieu de donner à tout être créé une chance entière et égale de salut et de survie. Jésus voulait que non seulement les mortels de ce monde, mais aussi les observateurs sur d’innombrables autres mondes, sachent que, s’il existe des doutes sur la sincérité et la franchise de la dévotion d’une créature au royaume, la pratique invariable des Juges des hommes consiste à recevoir pleinement le candidat douteux. La porte de la vie éternelle est grande ouverte à tous ; « quiconque le veut peut entrer » ; il n’y a ni restriction ni qualification, sauf la *foi* de celui qui vient. <a id="s135_620"></a>[LU 139:12.7](/fr/The_Urantia_Book/139#p12_7)
     
     Et quand tout est dit et fait:
     
-    > «Dieu le Père aime les hommes. Dieu le Fils sert les hommes. Dieu l’Esprit inspire les enfants de l’univers dans l’aventure toujours ascendante de trouver Dieu le Père par les voies ordonnées par Dieu les Fils, au moyen du ministère de la grâce de Dieu l’Esprit.» [LU 3:6.8](/fr/The_Urantia_Book/3#p6_8)
+    > «Dieu le Père aime les hommes. Dieu le Fils sert les hommes. Dieu l’Esprit inspire les enfants de l’univers dans l’aventure toujours ascendante de trouver Dieu le Père par les voies ordonnées par Dieu les Fils, au moyen du ministère de la grâce de Dieu l’Esprit.» <a id="s139_270"></a>[LU 3:6.8](/fr/The_Urantia_Book/3#p6_8)
     
 
 ## Le prix de la survie

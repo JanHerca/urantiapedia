@@ -63,7 +63,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2011_12/056.jpg">
 </figure>
 
-«Du point de vue humain, il s'agit de conjuguer la méditation et la détente. La méditation établit le contact avec l'esprit ; la détente détermine la capacité de la réceptivité spirituelle.» _Le Livre d’Urantia_, <a id="a65_216"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)
+«Du point de vue humain, il s'agit de conjuguer la méditation et la détente. La méditation établit le contact avec l'esprit ; la détente détermine la capacité de la réceptivité spirituelle.» _Le Livre d’Urantia_, <a id="a65_213"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)
 <br style="clear:both;"/>
 
 

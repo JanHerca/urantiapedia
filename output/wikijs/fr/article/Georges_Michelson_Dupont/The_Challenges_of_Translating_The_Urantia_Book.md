@@ -141,7 +141,7 @@ Le travail du traducteur originel est donc essentiel en ce sens qu’il ou elle 
 
 La Fondation Urantia est entièrement engagée à produire et à publier des traductions de la plus haute qualité possible, fidèles à l’original, à cause de son mandat et de sa responsabilité. Notre méthodologie, basée sur l’expérience, est conçue pour amener chaque traduction à un niveau plus haut d’exactitude et de lisibilité. Les Trustees espèrent que ceux qui sont intéressés à aider à améliorer les traductions ou à traduire le livre dans les langues où il n’y a pas d’autre traduction, envisageront de s’associer à la Fondation dans un esprit de collaboration.
 
-> « L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle _du travail en équipe._ Ceux qui ont dominé cet art de travailler avec d’autres êtres peuplent les sphères de perfection. Il y a peu de tâches dans l’univers pour les serviteurs isolés. » <a id="a144_251"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)
+> « L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle _du travail en équipe._ Ceux qui ont dominé cet art de travailler avec d’autres êtres peuplent les sphères de perfection. Il y a peu de tâches dans l’univers pour les serviteurs isolés. » <a id="a143_280"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14)
 
 > La Fondation Urantia est entièrement engagée à produire et à publier des traductions de la plus haute qualité possible fidèle à l’original, à cause de son mandat et de sa responsabilité.
 

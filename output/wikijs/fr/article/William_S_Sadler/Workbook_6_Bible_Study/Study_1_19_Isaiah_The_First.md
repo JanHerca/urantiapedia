@@ -144,7 +144,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 7. À l'exception de quelques morceaux de prose historique, tout Isaïe est en vers, et il est ainsi arrangé dans la version standard révisée.
 8. Il y a 17 morceaux de prose éparpillés ici et là dans le livre.
 9. Il n'y a pas de personne telle que le troisième Isaïe. Ce groupe d'écrits rassemblés (chapitres 56 à 66) contient des passages du premier et du deuxième Isaïe.
-10. Il y a une indication dans le Livre d'Urantia que les prêtres exilés n'étaient pas tout à fait amicaux avec le Second Isaïe. Ils ont préservé ses écrits en raison de leur grandeur et de leur beauté. (Livre d'Urantia [LU 97:7.1](/fr/The_Urantia_Book/97#p7_1)
+10. Il y a une indication dans le Livre d'Urantia que les prêtres exilés n'étaient pas tout à fait amicaux avec le Second Isaïe. Ils ont préservé ses écrits en raison de leur grandeur et de leur beauté. (Livre d'Urantia <a id="s146_220"></a>[LU 97:7.1](/fr/The_Urantia_Book/97#p7_1)
 
 ## V. Composants et composition
 
@@ -182,14 +182,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 19. L'histoire de la fabrication d'un prophète - le charbon ardent touchant sa bouche.
 20. Dans [7:14](/fr/Bible/Isaiah/7#v14) se trouve le passage : «une vierge enfantera un fils». Dans la version révisée - «jeune femme».
 21. Dans [8:16](/fr/Bible/Isaiah/8#v16) il dit : «Liez... scellez »-le moment de son retrait.
-22. Dans [14:13,14](/fr/Bible/Isaiah/14#v13) est mentionné Mount Assembly, (Voir le Livre d'Urantia [LU 43:4.1](/fr/The_Urantia_Book/43#p4_1). Aussi [ Ézéchiel 28:14](/fr/Bible/Ezekiel/28#v14).) Mount Assembly est la résidence des Fidèles des Jours au siège de la constellation.
+22. Dans [14:13,14](/fr/Bible/Isaiah/14#v13) est mentionné Mount Assembly, (Voir le Livre d'Urantia <a id="s184_100"></a>[LU 43:4.1](/fr/The_Urantia_Book/43#p4_1). Aussi [ Ézéchiel 28:14](/fr/Bible/Ezekiel/28#v14).) Mount Assembly est la résidence des Fidèles des Jours au siège de la constellation.
 
 ## VII. Pensées finales
 
 1. Le livre a été édité et réarrangé plusieurs fois.
-2. Quatre passages dans le Troisième Isaïe sont attribués au **Premier** Isaïe dans le Livre d'Urantia, à savoir, [Isa. 60:1](/fr/Bible/Isaiah/60#v1). [61:1](/fr/Bible/Isaiah/61#v1). [61:10](/fr/Bible/Isaiah/61#v10). [63:9](/fr/Bible/Isaiah/63#v9). (Livre d'Urantia [LU 97:5.3)](/fr/The_Urantia_Book/97#p5_3)
+2. Quatre passages dans le Troisième Isaïe sont attribués au **Premier** Isaïe dans le Livre d'Urantia, à savoir, [Isa. 60:1](/fr/Bible/Isaiah/60#v1). [61:1](/fr/Bible/Isaiah/61#v1). [61:10](/fr/Bible/Isaiah/61#v10). [63:9](/fr/Bible/Isaiah/63#v9). (Livre d'Urantia <a id="s189_266"></a>[LU 97:5.3)](/fr/The_Urantia_Book/97#p5_3)
 3. Affectation de l'éditeur : [Isa. 7:20](/fr/Bible/Isaiah/7#v20). La note de bas de page «Razor» explique que le rasoir fait référence au roi d'Assyrie.
-4. Quelques citations d'Isaïe le Premier dans le Livre d'Urantia : [28:17](/fr/Bible/Isaiah/28#v17). [14:3](/fr/Bible/Isaiah/14#v3). [30:21](/fr/Bible/Isaiah/30#v21). [12:2](/fr/Bible/Isaiah/12#v2). [1:18](/fr/Bible/Isaiah/1#v18). (Livre d'Urantia [LU 97:5.2)](/fr/The_Urantia_Book/97#p5_2)
+4. Quelques citations d'Isaïe le Premier dans le Livre d'Urantia : [28:17](/fr/Bible/Isaiah/28#v17). [14:3](/fr/Bible/Isaiah/14#v3). [30:21](/fr/Bible/Isaiah/30#v21). [12:2](/fr/Bible/Isaiah/12#v2). [1:18](/fr/Bible/Isaiah/1#v18). (Livre d'Urantia <a id="s191_248"></a>[LU 97:5.2)](/fr/The_Urantia_Book/97#p5_2)
 5. Il y a beaucoup d'histoire dans Ésaïe, traitant de l'Égypte, de l'Assyrie et de Babylone.
 6. Isaiah a préconisé une politique de paix avec l'Assyrie; il s'est opposé à l'alliance d'Ézéchias avec l'Égypte.
 7. Jérusalem a été sauvée de l'armée de Sennachérib par une épidémie de peste bubonique en 701 av. J.-C. Mais dans 2 Rois, il est dit qu'Ézéchias a payé un grand tribut.

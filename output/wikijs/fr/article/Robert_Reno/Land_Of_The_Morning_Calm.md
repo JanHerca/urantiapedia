@@ -73,7 +73,7 @@ Yoo Song Tae étudie même actuellement _Le Livre d'URANTIA_ pendant que j'étud
 Au cours des dernières années, j’ai eu la conviction croissante qu’il existe deux grandes commissions pour ceux qui choisissent de servir la révélation :
 
 1) Celui des révélateurs eux-mêmes, la mise de la révélation en tant que « _Le Livre d'URANTIA_ » entre des mains mortelles, et la mission de la diffuser à travers le monde.
-2) La commission du Christ Michel lui-même. La mission de transmettre le message de l'Évangile au monde entier. « Ce que le monde a le plus besoin de savoir, c’est que les hommes sont les fils de Dieu et que, par la foi, ils peuvent réellement réaliser et expérimenter quotidiennement cette vérité ennoblissante. » ([LU 193:0.4](/fr/The_Urantia_Book/193#p0_4))
+2) La commission du Christ Michel lui-même. La mission de transmettre le message de l'Évangile au monde entier. « Ce que le monde a le plus besoin de savoir, c’est que les hommes sont les fils de Dieu et que, par la foi, ils peuvent réellement réaliser et expérimenter quotidiennement cette vérité ennoblissante. » (<a id="a75_316"></a>[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4))
 
 Pour le second, nous avons le superbe exemple de la vie de Jésus, telle que révélée dans l’histoire de sa vie et de ses enseignements, mais hélas, pour le premier, nous n’avons dans l’ensemble que des défis, des opportunités et des incertitudes. J'ai réfléchi à ce problème, à cette question, à ce défi pendant la plupart de mes années de lecture du _Livre d'URANTIA_. Pour ma part, j’ai identifié deux axes de réflexion qui apportent un éclairage précieux sur cette question. Ces deux domaines de pensée sont le défi religieux de cet âge et les solutions à celui-ci telles que révélées dans _Le Livre d'URANTIA_.
 

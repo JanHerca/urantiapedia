@@ -28,19 +28,19 @@ Les fascicules ont moins à dire au sujet des dimensions temporelles que des dim
 
 ## § 1. Calcul de l’âge d’un natif très âgé d’Uversa
 
-Supposons que nous commencions par calculer l’âge d’un abandontaire, un natif très âgé d’Uversa [LU 37:9.12](/fr/The_Urantia_Book/37#p9_12). Nous pouvons calculer son âge à partir des données suivantes:
+Supposons que nous commencions par calculer l’âge d’un abandontaire, un natif très âgé d’Uversa <a id="s30_96"></a>[LU 37:9.12](/fr/The_Urantia_Book/37#p9_12). Nous pouvons calculer son âge à partir des données suivantes:
 
-> [LU 119:0.7](/fr/The_Urantia_Book/119#p0_7). Il y a 400 milliards d’années, Micaël commença l’organisation de l’univers local de Nébadon.
+> <a id="s32_2"></a>[LU 119:0.7](/fr/The_Urantia_Book/119#p0_7). Il y a 400 milliards d’années, Micaël commença l’organisation de l’univers local de Nébadon.
 > 
-> [LU 35:8.1](/fr/The_Urantia_Book/35#p8_1). Quand les Vorondadeks eurent été créés, alors les Lanonandeks le furent aussi et 12 millions exactement furent amenés à l’existence.
+> <a id="s34_2"></a>[LU 35:8.1](/fr/The_Urantia_Book/35#p8_1). Quand les Vorondadeks eurent été créés, alors les Lanonandeks le furent aussi et 12 millions exactement furent amenés à l’existence.
 
 Déduction: Les Lanonandeks furent créés _après_ 400 milliards d’années et furent tous créés au même moment. Ils ont tous le même âge.
 
-> [LU 57:3.10](/fr/The_Urantia_Book/57#p3_10). Il y a 200 milliards d’années, la nébuleuse d’Andronover commença un des stades de son évolution physique. Les plus vieux mondes habités dans l’univers local datent de cette époque.
+> <a id="s38_2"></a>[LU 57:3.10](/fr/The_Urantia_Book/57#p3_10). Il y a 200 milliards d’années, la nébuleuse d’Andronover commença un des stades de son évolution physique. Les plus vieux mondes habités dans l’univers local datent de cette époque.
 
 Déduction: Les Lanonandeks furent créés _avant_ 200 milliards d’années, ils servent comme souverains systémiques et princes planétaires, et ils devraient être fonctionnels avant qu’il puisse y avoir des mondes habités.
 
-> [LU 54:5.13](/fr/The_Urantia_Book/54#p5_13). Le temps subjectif est relatif. Prenons le cas de Lucifer: trois jours dans sa longue vie équivaudrait à 300 000 ans de vie humaine. Mais trois jours pour Lucifer équivaudraient à deux secondes et demie en termes de vie sur Uversa.
+> <a id="s42_2"></a>[LU 54:5.13](/fr/The_Urantia_Book/54#p5_13). Le temps subjectif est relatif. Prenons le cas de Lucifer: trois jours dans sa longue vie équivaudrait à 300 000 ans de vie humaine. Mais trois jours pour Lucifer équivaudraient à deux secondes et demie en termes de vie sur Uversa.
 
 Déduction: trois jours de la vie de Lucifer sont proportionnels à deux secondes et demie dans la vie d’un natif très âgé d’Uversa, notre abandontaire hypothétique.
 
@@ -48,7 +48,7 @@ Nous pouvons maintenant commencer notre calcul de l’âge d’un natif très â
 
 Or, quel est l’âge de Lucifer – ou d’un Lanonandek en la circonstance ? Nous savons que tous les Lanonandeks furent créés au même moment et que ce moment se trouve entre deux dates connues: après 400 milliards d’années et avant 200 milliards d’années. Nous choisissons _d ’assumer_ que l’âge des Lanonandeks de Nébadon remonte à un temps intermédiaire entre ces deux dates ; nous assumons que nos Lanonandeks furent tous créés il y a environ 300 milliards d’années.
 
-Nous pouvons maintenant compléter notre rapport: 1 est à 103 680 ce que 300 milliards sont à l’âge du natif très vieux d’Uversa. Et 300 milliards multipliés par 103 680 égale 31 104 billions d’années. Arrondissons ce chiffre à 30 000 billions d’années. C’est l’âge de notre abandontaire hypothétique. C’est un nombre égal à 30 fois 10 15 . L’âge physique d’Andronover, une nébuleuse composante de notre univers local, est d’un peu moins d’un billion d’années [LU 57:1.3](/fr/The_Urantia_Book/57#p1_3). Nous pouvons donc affirmer que notre abandontaire d’Uversa est environ 30 000 fois plus vieux qu’Andronover.
+Nous pouvons maintenant compléter notre rapport: 1 est à 103 680 ce que 300 milliards sont à l’âge du natif très vieux d’Uversa. Et 300 milliards multipliés par 103 680 égale 31 104 billions d’années. Arrondissons ce chiffre à 30 000 billions d’années. C’est l’âge de notre abandontaire hypothétique. C’est un nombre égal à 30 fois 10 15 . L’âge physique d’Andronover, une nébuleuse composante de notre univers local, est d’un peu moins d’un billion d’années <a id="s50_459"></a>[LU 57:1.3](/fr/The_Urantia_Book/57#p1_3). Nous pouvons donc affirmer que notre abandontaire d’Uversa est environ 30 000 fois plus vieux qu’Andronover.
 
 ## § 2. Une estimation de l’âge du superunivers d’Orvonton
 
@@ -62,53 +62,53 @@ Nous avons calculé l’âge de l’abandontaire d’Uversa comme étant de 30 0
 
 Si Orvonton est déjà âgé d’environ 40 000 billions d’années, quelle est l’étendue temporelle totale du deuxième âge de l’univers – de la création des Anciens des Jours à l’ancrage des superunivers dans la lumière et la vie ? Les fascicules nous présentent beaucoup de données qui vont illustrer cette question.
 
-_Pourcentage des mondes habités par rapport au total projeté._ Nous savons que la vie est en train d’être implantée sur les mondes du temps et de l’espace ; les superunivers sont encore en cours de croissance [LU 15:1.3](/fr/The_Urantia_Book/15#p1_3).
+_Pourcentage des mondes habités par rapport au total projeté._ Nous savons que la vie est en train d’être implantée sur les mondes du temps et de l’espace ; les superunivers sont encore en cours de croissance <a id="s64_209"></a>[LU 15:1.3](/fr/The_Urantia_Book/15#p1_3).
 
-> [LU 15:2.9](/fr/The_Urantia_Book/15#p2_9). Le plan des superunivers prévoit environ sept billions de mondes habités.
+> <a id="s66_2"></a>[LU 15:2.9](/fr/The_Urantia_Book/15#p2_9). Le plan des superunivers prévoit environ sept billions de mondes habités.
 > 
-> [LU 15:14.8](/fr/The_Urantia_Book/15#p14_8). Le numéro d’Urantia est 5 342 482 337 666 – dans le registre des mondes habités.
+> <a id="s68_2"></a>[LU 15:14.8](/fr/The_Urantia_Book/15#p14_8). Le numéro d’Urantia est 5 342 482 337 666 – dans le registre des mondes habités.
 
 Si nous divisons le numéro d’enregistrement d’Urantia par sept billions, nous pouvons déterminer quel pourcentage du total des mondes habités projetés représentait les mondes effectivement habités par des êtres humains –il y a un million d’années, lorsque Urantia a été enregistrée. Ce calcul donne un chiffre légèrement supérieur à 76 %. Autrement dit, en termes d’évolution de la vie humaine, les sept superunivers sont habités à 76 %.
 
-_Pourcentage des univers locaux en cours d’organisation par rapport au total projeté._ Nous savons que les univers locaux n’ont pas encore tous été créés dans les sept superunivers; Nébadon fait partie des plus jeunes créations [LU 32:2.9](/fr/The_Urantia_Book/32#p2_9).
+_Pourcentage des univers locaux en cours d’organisation par rapport au total projeté._ Nous savons que les univers locaux n’ont pas encore tous été créés dans les sept superunivers; Nébadon fait partie des plus jeunes créations <a id="s72_228"></a>[LU 32:2.9](/fr/The_Urantia_Book/32#p2_9).
 
-> [LU 15:2.4](/fr/The_Urantia_Book/15#p2_4). Le plan créatif pour les sept superunivers est de 700 000 univers locaux.
+> <a id="s74_2"></a>[LU 15:2.4](/fr/The_Urantia_Book/15#p2_4). Le plan créatif pour les sept superunivers est de 700 000 univers locaux.
 > 
-> [LU 15:2.1](/fr/The_Urantia_Book/15#p2_1). Les univers locaux projetés n’ont pas tous encore été organisés.
+> <a id="s76_2"></a>[LU 15:2.1](/fr/The_Urantia_Book/15#p2_1). Les univers locaux projetés n’ont pas tous encore été organisés.
 > 
-> [LU 33:1.1](/fr/The_Urantia_Book/33#p1_1). Le numéro de notre Fils Créateur est 611 121.
+> <a id="s78_2"></a>[LU 33:1.1](/fr/The_Urantia_Book/33#p1_1). Le numéro de notre Fils Créateur est 611 121.
 > 
-> [LU 33:5.2](/fr/The_Urantia_Book/33#p5_2). Le numéro de notre Union des Jours est 611 121.
+> <a id="s80_2"></a>[LU 33:5.2](/fr/The_Urantia_Book/33#p5_2). Le numéro de notre Union des Jours est 611 121.
 > 
-> [LU 57:3.10](/fr/The_Urantia_Book/57#p3_10). Il y a 200 milliards d’années, Nébadon était enregistré sur Uversa comme univers habité.
+> <a id="s82_2"></a>[LU 57:3.10](/fr/The_Urantia_Book/57#p3_10). Il y a 200 milliards d’années, Nébadon était enregistré sur Uversa comme univers habité.
 
 Nous supposons que les Fils Créateurs et les Unions des Jours sont affectés en ordre sériel aux sites spatiaux de l’univers local. Si tel est le cas, l’univers local de Nébadon est alors le 611 121e à être organisé dans les sept superunivers. Puisqu’il n’y a que 700 000 univers locaux projetés, nous pouvons calculer le pourcentage des univers locaux qui ont été organisés en divisant le numéro de Micaël par 700 000. Par ce calcul, nous trouvons qu’un peu plus de 87 % des créations locales projetées étaient organisées au moment où Nébadon a été reconnu comme création habitée. (C’était il y a 200 milliards d’années. Or, étant donné le gigantisme des nombres que nous avons déjà rencontrés, nous pouvons allègrement ignorer un nombre aussi petit que 200 milliards !).
 
 _Une divergence dans le pourcentage des univers locaux en existence._ Nous avons supposé que les Fils Créateurs sont affectés en ordre sériel. Ceci peut être effectivement le cas ou ne pas l’être . Considérez ce qui suit:
 
-> [LU 24:1.11](/fr/The_Urantia_Book/24#p1_11). Les Superviseurs des Circuits ne sont pas mutés dans leur service. Le Superviseur des Circuits stationné sur Salvington porte le numéro 572 842.
+> <a id="s88_2"></a>[LU 24:1.11](/fr/The_Urantia_Book/24#p1_11). Les Superviseurs des Circuits ne sont pas mutés dans leur service. Le Superviseur des Circuits stationné sur Salvington porte le numéro 572 842.
 
 Ce numéro — 572 842 — semble appartenir à une série culminant dans le nombre total des univers locaux projetés – 700 000. Si nous divisons le plus petit nombre par le plus grand, nous pouvons encore calculer le pourcentage des univers locaux en activités. Par cette division, nous arrivons à un chiffre qui est juste au-dessous de 82 % . C’est 5 % de moins que le calcul basé sur le numéro de Micaël. Ici, encore, nous n’avons aucune assurance que les Superviseurs des Circuits soient affectés dans un ordre sériel.
 
 _Divergence dans le pourcentage entre les mondes habités et les univers locaux._ La plus grande différence ainsi rencontrée est la différence entre le pourcentage des mondes habités (76 %) et les deux pourcentages reliés aux univers locaux – 87 % et 82 % . Cette différence doit être due à la présence de nombreux univers jeunes, tels que Nébadon. Nous savons que:
 
-> [LU 15:2.5](/fr/The_Urantia_Book/15#p2_5) Il est prévu qu’un univers local ait environ 10 millions de planètes habitables.
+> <a id="s94_2"></a>[LU 15:2.5](/fr/The_Urantia_Book/15#p2_5) Il est prévu qu’un univers local ait environ 10 millions de planètes habitables.
 > 
-> [LU 32:2.9](/fr/The_Urantia_Book/32#p2_9). Lors du dernier enregistrement, Nébadon avait 3 840 101 mondes habités.
+> <a id="s96_2"></a>[LU 32:2.9](/fr/The_Urantia_Book/32#p2_9). Lors du dernier enregistrement, Nébadon avait 3 840 101 mondes habités.
 
 Sur cette base, Nébadon a un peu plus de 38 % des mondes prévus, tout au moins en ce qui concerne l’apparition de la vie humaine sur les mondes du temps et de l’espace. Et, même dans un univers local, les systèmes locaux peuvent varier grandement dans le nombre des mondes habités. Considérez ce qui suit:
 
-> [LU 15:2.3](/fr/The_Urantia_Book/15#p2_3). Il est prévu qu’un système comprenne environ 1 000 mondes habités ou habitables. Dans les systèmes les plus jeunes comparativement peu de ces mondes seront actuellement habités.
+> <a id="s100_2"></a>[LU 15:2.3](/fr/The_Urantia_Book/15#p2_3). Il est prévu qu’un système comprenne environ 1 000 mondes habités ou habitables. Dans les systèmes les plus jeunes comparativement peu de ces mondes seront actuellement habités.
 > 
-> [LU 32:2.10](/fr/The_Urantia_Book/32#p2_10) Le système de Satania a 619 mondes habités.
+> <a id="s102_2"></a>[LU 32:2.10](/fr/The_Urantia_Book/32#p2_10) Le système de Satania a 619 mondes habités.
 
 À partir de cette donnée, nous pouvons déduire que le système local de Satania est complété à presque 62 % en termes de mondes habités. Ceci est à comparer avec les 38 % de la totalité de l’univers local de Nébadon. Certains des autres systèmes de Nébadon ne sont pas aussi avancés que l’est le système de Satania.
 
 _Autres indices du développement d’Orvonton._ Il y a deux autres citations qui vont nous aider à estimer le pourcentage de la croissance atteinte dans Orvonton.
 
-> [LU 24:1.9](/fr/The_Urantia_Book/24#p1_9). Sur Uversa, il y a 84 691 superviseurs secondaires des circuits.
+> <a id="s108_2"></a>[LU 24:1.9](/fr/The_Urantia_Book/24#p1_9). Sur Uversa, il y a 84 691 superviseurs secondaires des circuits.
 > 
-> [LU 24:2.7](/fr/The_Urantia_Book/24#p2_7). Le directeur du recensement n° 81 412 réside sur la capitale de Nébadon.
+> <a id="s110_2"></a>[LU 24:2.7](/fr/The_Urantia_Book/24#p2_7). Le directeur du recensement n° 81 412 réside sur la capitale de Nébadon.
 
 Ces deux nombres semblent appartenir à une série superuniverselle qui culmine à 100 000. Ils suggèrent qu’Orvonton soit achevé respectivement à 85 % et 81 % en ce qui concerne l’affectation de ces êtres particuliers.
 
@@ -125,7 +125,7 @@ Si ce raisonnement est correct, nous avons alors deux pourcentages — 81 % et 8
 
 Il y a une autre explication qui prendrait en compte la différence entre les 81% et 82 % d’un côté et les 87 % des Fils Créateurs affectés. Ceci pourrait refléter une variante entre les superunivers. Il est possible que 87 % de tous les sites spatiaux d’univers locaux aient été organisés dans les sept superunivers, mais que le septième superunivers soit à la traîne avec seulement 81 ou 82 %.
 
-_Une application des pourcentages._ La nomination à un univers local est un évènement qui est fort éloigné de l’ancrage de cette création locale dans la lumière et la vie. Le facteur vital n’est pas les univers locaux, mais les mondes habités. Quand ils seront tous ancrés dans la lumière et la vie, les univers locaux suivront très bientôt. Et, si un monde, quel qu’il soit mais faisant partie d’un univers local, n’est pas ancré, alors, cette création locale ne peut atteindre ce statut ; et, si un univers local, quel qu’il soit, n’est pas ancré, alors, le superunivers ne peut atteindre ce statut [LU 55:8.4](/fr/The_Urantia_Book/55#p8_4) ; [LU 55:11.1](/fr/The_Urantia_Book/55#p11_1).
+_Une application des pourcentages._ La nomination à un univers local est un évènement qui est fort éloigné de l’ancrage de cette création locale dans la lumière et la vie. Le facteur vital n’est pas les univers locaux, mais les mondes habités. Quand ils seront tous ancrés dans la lumière et la vie, les univers locaux suivront très bientôt. Et, si un monde, quel qu’il soit mais faisant partie d’un univers local, n’est pas ancré, alors, cette création locale ne peut atteindre ce statut ; et, si un univers local, quel qu’il soit, n’est pas ancré, alors, le superunivers ne peut atteindre ce statut <a id="s127_601"></a>[LU 55:8.4](/fr/The_Urantia_Book/55#p8_4) ; <a id="s127_645"></a>[LU 55:11.1](/fr/The_Urantia_Book/55#p11_1).
 
 Le chiffre le plus indicatif que nous ayons est peutêtre 76 % pour le nombre total de mondes habités (en dehors des sept billions projetés). Adoptons donc ce nombre, arrondissons-le à 75 % et disons qu’environ les ¾ du deuxième âge de l’univers sont un évènement du passé et qu’environ ¼ demeure pour le futur. Nous avons calculé l’âge d’Orvonton comme étant d’environ 40 000 billions d’années. Si ce nombre représente les ¾ du deuxième âge, nous devrions alors l’augmenter d’un tiers pour arriver à l’étendue temporelle totale du présent âge de l’univers. Ceci signifierait un accroissement d’environ 13 000 billions d’années. Nous pouvons arrondir ce nombre à 10 000 billions d’années, l’ajouter à l’âge d’Orvonton et obtenir le total de 50 000 billions d’années. Ceci est notre estimation de l’étendue temporelle totale du deuxième âge de l’univers. Et son étendue temporelle est 50 000 fois plus grande que celle de la nébuleuse d’Andronover.
 

@@ -52,7 +52,7 @@ Depuis la graine d’une école de correspondance par mail, UBIS, le jeune arbre
 
 Notre arbre UBIS est aussi à feuilles persistantes. Trois fois par an, chaque année, jusqu’à 18 cours gratuits sont offerts par des enseignants/animateurs et du personnel formés. Les fruits de leur travail sont démontrés lorsque des étudiants enthousiastes du monde entier se proposent pour être formés et encadrés afin de créer des cours originaux et animer des classes.
 
-> Tout le plan ascendant de progression des mortels est caractérisé par la pratique de communiquer à d’autres êtres les expériences et vérités nouvelles aussitôt qu’elles sont acquises. Vous faites votre chemin dans la longue école d’aboutissement au Paradis en servant d’enseignants aux élèves qui vous suivent immédiatement sur l’échelle de la progression. <a id="a56_313"></a>[LU 30:3.9](/fr/The_Urantia_Book/30#p3_9)
+> Tout le plan ascendant de progression des mortels est caractérisé par la pratique de communiquer à d’autres êtres les expériences et vérités nouvelles aussitôt qu’elles sont acquises. Vous faites votre chemin dans la longue école d’aboutissement au Paradis en servant d’enseignants aux élèves qui vous suivent immédiatement sur l’échelle de la progression. <a id="a54_359"></a>[LU 30:3.9](/fr/The_Urantia_Book/30#p3_9)
 
 La Fondation Urantia est profondément reconnaissante à l’équipe de volontaires d’UBIS, qui partagent, de façon altruiste, le don de leur temps, leur enthousiasme et la fraternité avec leurs compagnons lecteurs. Sans ces « soldats des cercles », il n’y aurait pas d’école.
 

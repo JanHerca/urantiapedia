@@ -46,7 +46,7 @@ _Note de l’éditeur : la cinquième retraite annuelle des femmes, qui se tint
 
 Le deuxième étage du 533 fut béni par les prières, les rires et les pleurs des participantes à la retraite, Danser avec Dieu, animée par Carrie Prentice, Doreen Heyne, Katharina Becker et Line St Pierre- l’équipe des « Filles de Dieu ».
 
-Comme _Le Livre d’Urantia_ nous le rappelle, « l’homme ne s’unit pas avec le Suprême et ne fond pas en lui son identité personnelle, mais les répercussions universelles de l’expérience de tous les hommes forment bel et bien une partie de l’expérimentation du Suprême. L’acte est à nous, les conséquences sont à Dieu. » <a id="a48_274"></a>[LU 117:5.5](/fr/The_Urantia_Book/117#p5_5)
+Comme _Le Livre d’Urantia_ nous le rappelle, « l’homme ne s’unit pas avec le Suprême et ne fond pas en lui son identité personnelle, mais les répercussions universelles de l’expérience de tous les hommes forment bel et bien une partie de l’expérimentation du Suprême. L’acte est à nous, les conséquences sont à Dieu. » <a id="a48_319"></a>[LU 117:5.5](/fr/The_Urantia_Book/117#p5_5)
 
 Parmi notre groupe de 14 femmes, nous avons eu le plaisir immense de recevoir une invitée d’Afrique du Sud qui venait pour littéralement « voir si la Fondation Urantia était réelle. » Elle ne fut pas seulement ravie de constater que la Fondation était réelle, mais aussi de voir que les étudiantes de cette révélation vivaient courageusement l’amour de Dieu autour d’elles dans le monde, même à travers les défis et les crises de leurs vies, qui était le thème de la retraite.
 

@@ -102,7 +102,7 @@ This is a Urantian &reg; publication
 > Ainsi soit-il, au nom du Fils d'effusion
 > Et pour l'honneur et la gloire du Pére Suprême.
 > 
-> <a id="a106_2"></a>[LU 144:5.104](/fr/The_Urantia_Book/144#p5_104)
+> <a id="a104_2"></a>[LU 144:5.104](/fr/The_Urantia_Book/144#p5_104)
 
 ## Références
 

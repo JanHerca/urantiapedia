@@ -57,7 +57,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2014_03/042.jpg">
 </figure>
 
-« ... mettez votre confiance dans le Pére dont vous êtes les messagers. Ne résistez pas à l'injustice par la force ; ne mettez pas votre confiance dans votre vigueur corporelle. Si votre prochain vous frappe sur la joue droite, tendez-lui aussi la gauche. » Jesus to the Apostles, _Le Livre d’Urantia_, <a id="a60_257"></a>[LU 140:3.14](/fr/The_Urantia_Book/140#p3_14)
+« ... mettez votre confiance dans le Pére dont vous êtes les messagers. Ne résistez pas à l'injustice par la force ; ne mettez pas votre confiance dans votre vigueur corporelle. Si votre prochain vous frappe sur la joue droite, tendez-lui aussi la gauche. » Jesus to the Apostles, _Le Livre d’Urantia_, <a id="a59_303"></a>[LU 140:3.14](/fr/The_Urantia_Book/140#p3_14)
 <br style="clear:both;"/>
 
 ---

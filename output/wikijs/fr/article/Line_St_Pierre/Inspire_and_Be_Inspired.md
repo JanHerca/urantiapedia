@@ -68,7 +68,7 @@ Nos cultures peuvent être différentes, mais les femmes sont les mêmes et ont 
 
 Ce voyage était pour moi l’occasion de rencontrer des personnes sur le terrain de l'esprit en liaison avec l’action. Tout comme une spirale qui débute par une idée ou un concept, puis est élevée et élargie par quelque chose qui s’y rajoute et continue de s’élever et s’élargir de plus en plus. Alors qu’elles m'ont inspirée précédemment, quand je suis retournée pour partager mon projet sur l'éducation des femmes, certaines d'entre elles m'ont dit que j'étais une inspiration pour elles à travers ce que je fais. Nous ne réalisons pas la portée de nos actions.
 
-> « L’homme qui connaît Dieu décrit ses expériences spirituelles non pas pour convaincre les incroyants, mais pour édifier et satisfaire mutuellement les croyants. » <a id="a72_150"></a>[LU 1:6.6](/fr/The_Urantia_Book/1#p6_6)
+> « L’homme qui connaît Dieu décrit ses expériences spirituelles non pas pour convaincre les incroyants, mais pour édifier et satisfaire mutuellement les croyants. » <a id="a70_166"></a>[LU 1:6.6](/fr/The_Urantia_Book/1#p6_6)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_06/048.jpg">

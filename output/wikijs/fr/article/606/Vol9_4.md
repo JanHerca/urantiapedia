@@ -32,11 +32,11 @@ Dana Poole de Griffin, Géorgie, États-Unis, est la rédactrice en chef du bull
 
 ## « Pensée du mois »
 
-> « L’espoir du christianisme moderne consiste à cesser de parrainer les systèmes sociaux et la politique industrielle de la civilisation occidentale, tout en s’inclinant humblement devant la croix qu’il exalte si vaillamment, et à y apprendre à nouveau de Jésus de Nazareth les plus grandes vérités que l’homme mortel puisse jamais entendre — l’évangile vivant de la paternité de Dieu et de la fraternité des hommes. » ([LU 195:10.21](/fr/The_Urantia_Book/195#p10_21))
+> « L’espoir du christianisme moderne consiste à cesser de parrainer les systèmes sociaux et la politique industrielle de la civilisation occidentale, tout en s’inclinant humblement devant la croix qu’il exalte si vaillamment, et à y apprendre à nouveau de Jésus de Nazareth les plus grandes vérités que l’homme mortel puisse jamais entendre — l’évangile vivant de la paternité de Dieu et de la fraternité des hommes. » (<a id="a34_421"></a>[LU 195:10.21](/fr/The_Urantia_Book/195#p10_21))
 
 ## La deuxième prédiction remarquable
 
-DÉRIVE CONTINENTALE : _Le Livre d'URANTIA_ le déclare de manière assez catégorique. que toutes les terres émergées de la Terre étaient à l'origine un seul continent qui s'est ensuite fragmenté il y a 750 millions d'années ([LU 57:8.23](/fr/The_Urantia_Book/57#p8_23)), suivi d'une longue période de dérive des continents au cours de laquelle des ponts terrestres ont été créés à plusieurs reprises. formé et brisé.
+DÉRIVE CONTINENTALE : _Le Livre d'URANTIA_ le déclare de manière assez catégorique. que toutes les terres émergées de la Terre étaient à l'origine un seul continent qui s'est ensuite fragmenté il y a 750 millions d'années (<a id="a38_223"></a>[LU 57:8.23](/fr/The_Urantia_Book/57#p8_23)), suivi d'une longue période de dérive des continents au cours de laquelle des ponts terrestres ont été créés à plusieurs reprises. formé et brisé.
 
 L’idée de la dérive des continents a été évoquée au 19ème siècle et présentée pour la première fois comme une théorie globale par Wegener en 1912. Elle n’a pas été bien acceptée, étant classée parmi les sciences les plus géniales, et devenant de plus en plus discréditée jusque dans les années 1960. Je me souviens encore d'avoir assisté à un cours de géologie à l'Université de Sydney en 1951, lorsque le professeur avait rejeté le concept de dérive des continents en faisant remarquer qu'il n'existait aucune force connue susceptible de déchirer les continents. Ce changement d’attitude a été initié par la découverte de longues chaînes de montagnes au fond des océans, comme la dorsale médio-atlantique qui s’étend de l’Islande à l’Antarctique. Au cours des années 1960, un examen minutieux du fond océanique a révélé que la roche du manteau terrestre était en train de fondre, puis poussée vers le haut, ce qui entraînait l'expansion du fond marin. On s’attendrait à ce que cette remontée d’eau sépare les continents et fournisse ainsi la preuve manquante d’un mécanisme physique susceptible de provoquer la dérive des continents. Cependant, on ne l’appelait pas dérive des continents, mais plutôt le nom plus scientifique de tectonique des plaques.
 
@@ -102,7 +102,7 @@ Jean Claude a continué avec une conférence, « Etude du _Livre d'URANTIA_ », 
 
 La journée s'est terminée par une danse sacrée guidée par Kitty, et nous avons beaucoup apprécié. Pendant toute la journée, des vagues spirituelles nous entouraient, et la vérité, la beauté et la bonté nous touchaient tous.
 
-> « *La mélodie de la pensée —* la méditation de pensées spirituelles peut être perfectionnée au point d’éclater en mélodies de Havona. » ([LU 44:1.8](/fr/The_Urantia_Book/44#p1_8))
+> « *La mélodie de la pensée —* la méditation de pensées spirituelles peut être perfectionnée au point d’éclater en mélodies de Havona. » (<a id="a104_139"></a>[LU 44:1.8](/fr/The_Urantia_Book/44#p1_8))
 
 ### Désir d’une fécondité accrue
 

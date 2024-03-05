@@ -53,7 +53,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 **Qu'a enseigné Jésus ?**
 
-Mais sa magnifique originalité ne lui faisait pas négliger les perles de vérité contenues dans les enseignements de ses prédécesseurs ou de ses contemporains. Et le plus original de ses enseignements était l'accent mis sur l'amour et la miséricorde, au lieu de la peur et du sacrifice. _Le Livre d’Urantia_, <a id="a55_258"></a>[LU 100:7.5](/fr/The_Urantia_Book/100#p7_5)
+Mais sa magnifique originalité ne lui faisait pas négliger les perles de vérité contenues dans les enseignements de ses prédécesseurs ou de ses contemporains. Et le plus original de ses enseignements était l'accent mis sur l'amour et la miséricorde, au lieu de la peur et du sacrifice. _Le Livre d’Urantia_, <a id="a55_308"></a>[LU 100:7.5](/fr/The_Urantia_Book/100#p7_5)
 <br style="clear:both;"/>
 
 ## Volume 3, numéro 4. décembre 2009

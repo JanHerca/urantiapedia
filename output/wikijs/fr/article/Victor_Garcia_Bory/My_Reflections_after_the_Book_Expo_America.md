@@ -54,7 +54,7 @@ Bien que ce que je décrive, ci-dessus, puisse paraître impressionnant ou pas, 
 
 Pourquoi tout ceci est-il important ? Parce que cela démontre combien, l’échelle de la distribution du _Livre d’Urantia_ est petite, bien que primordiale pour le futur de notre planète. C’est par la distribution commerciale que _Le Livre d’Urantia_ a le mieux réussi à faire des progrès importants et soutenus, en termes de disponibilité élargie et de réduction significative de prix, à travers le monde.
 
-De plus, comme nous le savons, « Le commerce a été le grand civilisateur en provoquant la fécondation croisée des cultures. » <a id="a56_111"></a>[LU 69:4.8](/fr/The_Urantia_Book/69#p4_8)
+De plus, comme nous le savons, « Le commerce a été le grand civilisateur en provoquant la fécondation croisée des cultures. » <a id="a56_126"></a>[LU 69:4.8](/fr/The_Urantia_Book/69#p4_8)
 
 La question de rendre _Le Livre d’Urantia_ disponible et accessible à l’échelle mondiale n’est pas un défi banal. Mais, c’en est un qui, avec l’aide des lecteurs dévoués du _Livre d’Urantia_, a été et continue d’être atteint avec succès. Les travaux d’amour et les contributions de toutes sortes qui ont lieu, tous les jours partout dans le monde, permettent la disponibilité du _Livre d’Urantia._
 

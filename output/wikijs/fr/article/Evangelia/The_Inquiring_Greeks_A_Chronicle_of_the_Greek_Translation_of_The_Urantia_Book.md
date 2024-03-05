@@ -41,11 +41,11 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _Par Evangelia, Grèce_
 
-La Grèce est un des pays qui fut bénie par la présence de Jésus en personne, et plus tard par ses apôtres. « Les Grecs investigateurs gentils », qui désiraient voir Jésus et entrer dans le royaume, furent témoin du dernier discours de Jésus dans le temple. Étant présents dans ce rassemblement inhabituel, ils eurent l’honneur d’être instruit par lui durant ce temps mémorable lorsqu’il « perçut qu’une dispensation prenait fin et qu’une autre commençait. » <a id="a43_331"></a>[LU 174:5.6](/fr/The_Urantia_Book/174#p5_6)
+La Grèce est un des pays qui fut bénie par la présence de Jésus en personne, et plus tard par ses apôtres. « Les Grecs investigateurs gentils », qui désiraient voir Jésus et entrer dans le royaume, furent témoin du dernier discours de Jésus dans le temple. Étant présents dans ce rassemblement inhabituel, ils eurent l’honneur d’être instruit par lui durant ce temps mémorable lorsqu’il « perçut qu’une dispensation prenait fin et qu’une autre commençait. » <a id="a43_458"></a>[LU 174:5.6](/fr/The_Urantia_Book/174#p5_6)
 
 Beaucoup d’entre eux étaient à « Gethsémani quand les soldats arrêtèrent Jésus et que Judas le trahit par un baiser. » 190:4.1 (2033.4)
 
-C’était juste après que Jésus se soit rendu à Athènes et à son Académie rénovée, semant les graines du salut, mais maintenant à Jérusalem, il s’adressait aux Juifs et à ces Grecs qui le cherchaient si assidûment, déclarant que « l’heure est bientôt venue où le Fils de l’homme va être glorifié. » <a id="a45_444"></a>[LU 174:5.8](/fr/The_Urantia_Book/174#p5_8)
+C’était juste après que Jésus se soit rendu à Athènes et à son Académie rénovée, semant les graines du salut, mais maintenant à Jérusalem, il s’adressait aux Juifs et à ces Grecs qui le cherchaient si assidûment, déclarant que « l’heure est bientôt venue où le Fils de l’homme va être glorifié. » <a id="a47_297"></a>[LU 174:5.8](/fr/The_Urantia_Book/174#p5_8)
 
 ## Manuel d’Instructions pour la Planète
 

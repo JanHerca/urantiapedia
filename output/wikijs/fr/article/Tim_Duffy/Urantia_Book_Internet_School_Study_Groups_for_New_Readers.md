@@ -58,11 +58,11 @@ C’est un testament du pouvoir d’attraction de la révélation de vérité, i
 
 _Le Livre d’Urantia_ est unique parmi les révélations d’époque qui ont été faites à notre planète. C’est un texte plutôt qu’une personne (ou des personnes). Donc, nous devons lire et interpréter ses mots dans notre mental pour en faire l’expérience et le connaître. Cela peut être une entreprise solitaire, et en effet, on nous dit qu’il doit être fait par chaque individu comme une part de son expérience religieuse personnelle.
 
-> En réalité, chaque être humain définit la religion dans les termes de sa propre interprétation fondée sur l’expérience des impulsions divines émanant de l’esprit de Dieu qui l’habite. Cette interprétation est nécessairement unique et complètement différente de la philosophie religieuse de tous les autres êtres humains. <a id="a60_303"></a>[LU 103:1.1](/fr/The_Urantia_Book/103#p1_1)
+> En réalité, chaque être humain définit la religion dans les termes de sa propre interprétation fondée sur l’expérience des impulsions divines émanant de l’esprit de Dieu qui l’habite. Cette interprétation est nécessairement unique et complètement différente de la philosophie religieuse de tous les autres êtres humains. <a id="a60_323"></a>[LU 103:1.1](/fr/The_Urantia_Book/103#p1_1)
 
 Mais on nous dit aussi qu’il est essentiel de partager cette expérience personnelle avec d’autres.
 
-> Bien que votre religion soit une affaire d’expérience personnelle, il est très important que vous soyez amené à connaître un grand nombre d’autres expériences religieuses (les interprétations diverses de différents mortels) afin d’empêcher votre vie religieuse de devenir égocentrique—étroite, égoïste et insociable. <a id="a64_345"></a>[LU 103:1.3](/fr/The_Urantia_Book/103#p1_3)
+> Bien que votre religion soit une affaire d’expérience personnelle, il est très important que vous soyez amené à connaître un grand nombre d’autres expériences religieuses (les interprétations diverses de différents mortels) afin d’empêcher votre vie religieuse de devenir égocentrique—étroite, égoïste et insociable. <a id="a64_319"></a>[LU 103:1.3](/fr/The_Urantia_Book/103#p1_3)
 
 Bien que ce partage d’expérience religieuse est ce nous avons toujours espéré qu’UBIS favoriserait, le format des groupes d’étude nous ouvre une façon additionnelle de poursuivre ce but.
 

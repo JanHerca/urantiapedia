@@ -51,7 +51,7 @@ Un spectateur du Connecticut Dave Elders (voir le prochain article), m’envoya 
 > Il y aura un autre Symposium scientifique. Si vous souhaitez participer, veuillez nous contacter.
 {.is-info}
 
-L’article de _l’Américain Scientifique_ disait : « Nous savons ce qu’est la vie mais non d’où la première étincelle vint. » _Le Livre d’Urantia_ nous dit « Quand les modèles physiques conformes aux formules approuvées ont été fournies, alors les Porteurs de Vie catalysent ces matériaux inanimés en leur communiquant à travers leur personne l’étincelle vitale d’esprit et aussitôt les modèles inertes deviennent de la matière vivante. » <a id="a55_394"></a>[LU 36:3.3](/fr/The_Urantia_Book/36#p3_3)
+L’article de _l’Américain Scientifique_ disait : « Nous savons ce qu’est la vie mais non d’où la première étincelle vint. » _Le Livre d’Urantia_ nous dit « Quand les modèles physiques conformes aux formules approuvées ont été fournies, alors les Porteurs de Vie catalysent ces matériaux inanimés en leur communiquant à travers leur personne l’étincelle vitale d’esprit et aussitôt les modèles inertes deviennent de la matière vivante. » <a id="a53_437"></a>[LU 36:3.3](/fr/The_Urantia_Book/36#p3_3)
 
 À travers ces symposiums, la Fondation Urantia développe un engagement à l’examen et à l’étude des découvertes scientifiques qui confirment ce qui est révélé dans _Le Livre d’Urantia._ Ils présentent une formidable opportunité de sensibilisation à une population inexploitée de personnes à l’esprit scientifique, sceptiques et même athées.
 

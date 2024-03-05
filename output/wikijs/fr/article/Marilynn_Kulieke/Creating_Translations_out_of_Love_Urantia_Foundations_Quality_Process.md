@@ -115,7 +115,7 @@ flowchart TB
 
 À la fin du processus, quand la révision est à maturité, il est temps de réintégrer le langage amélioré et la clarté de pensée, dans les canaux et les cultures évolutionnaires, en attente de cette nouvelle vérité. La citation suivante résume vraiment le travail dans lequel nous sommes engagés :
 
-> « La civilisation doit attendre le langage pour se répandre. Des langues qui vivent et qui s’enrichissent assurent l’expansion de la pensée et des projets civilisés. Durant les âges primitifs, d’importants progrès furent apportés au langage. Aujourd’hui, il y a grand besoin d’un développement linguistique additionnel pour faciliter l’expression de la pensée en évolution. » <a id="a113_314"></a>[LU 81:6.16](/fr/The_Urantia_Book/81#p6_16)
+> « La civilisation doit attendre le langage pour se répandre. Des langues qui vivent et qui s’enrichissent assurent l’expansion de la pensée et des projets civilisés. Durant les âges primitifs, d’importants progrès furent apportés au langage. Aujourd’hui, il y a grand besoin d’un développement linguistique additionnel pour faciliter l’expression de la pensée en évolution. » <a id="a117_378"></a>[LU 81:6.16](/fr/The_Urantia_Book/81#p6_16)
 
 
 ## Références

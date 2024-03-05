@@ -69,7 +69,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 1. Nous entendons souvent parler de «la patience de Job». ([Jas. 5:11](/fr/Bible/James/5#v11) King James Version) Mais peu de gens en savent beaucoup sur le livre de Job.
 2. Job est un poème traitant du sens de la vie - rapport de la souffrance à la religion.
 3. Job appartient au soi-disant type de sagesse de la littérature hébraïque.
-4. Dans le Livre d'Urantia, Jésus présente une discussion instructive de Job sur [LU 148:6.1](/fr/The_Urantia_Book/148#p6_1).
+4. Dans le Livre d'Urantia, Jésus présente une discussion instructive de Job sur <a id="s71_81"></a>[LU 148:6.1](/fr/The_Urantia_Book/148#p6_1).
 5. Jésus appelle Job un «chef-d'œuvre de la littérature sémitique».
 6. Il y a de nombreuses marques d'influence édomite dans Job. Le conte folklorique original a peut-être localisé Job à Edom.
 7. Il existe des histoires folkloriques similaires à Job en Inde, en Égypte, à Babylone et au Proche-Orient.

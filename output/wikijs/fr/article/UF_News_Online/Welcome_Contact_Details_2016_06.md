@@ -52,7 +52,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2016_06/062.jpg">
 </figure>
 
-> L'univers n'est pas remonté comme une pendule pour marcher un certain temps et ensuite cesser de fonctionner. Toutes choses sont constamment renouvelées. Le Pére rayonne sans cesse de l'énergie, de la lumiêre et de la vie. _Le Livre d’Urantia_, <a id="a54_213"></a>[LU 4:1.6](/fr/The_Urantia_Book/4#p1_6)
+> L'univers n'est pas remonté comme une pendule pour marcher un certain temps et ensuite cesser de fonctionner. Toutes choses sont constamment renouvelées. Le Pére rayonne sans cesse de l'énergie, de la lumiêre et de la vie. _Le Livre d’Urantia_, <a id="a54_247"></a>[LU 4:1.6](/fr/The_Urantia_Book/4#p1_6)
 
 
 ## Volume 10, numéro 2. juin 2016

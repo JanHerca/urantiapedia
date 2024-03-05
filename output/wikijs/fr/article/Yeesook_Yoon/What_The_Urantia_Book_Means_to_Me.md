@@ -62,7 +62,7 @@ La matière, le mental et l'esprit. Lorsque j'ai compris comment les fonctions d
 
 Lorsque j'eus fini de lire _le Livre d'Urantia_, je connaissais les réponses aux questions que je me posais depuis l'enfance ; la chose la plus importante qui a changé pour moi après la lecture du livre a été que mon amour pour Dieu a grandi. Le fait de savoir qu'un fragment de Dieu se trouve dans mon cœur m'a donné un grand sentiment de sécurité et m'a conduit à approfondir ma relation avec Dieu.
 
-« La plus grande affliction du cosmos est de n'avoir jamais été affligé. Les mortels n'apprennent la sagesse qu'en faisant l'expérience de la tribulation ». <a id="a64_128"></a>[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14) Cet épigramme m'a été d'un grand réconfort, me donnant le courage de considérer les malheurs et les souffrances comme des épisodes d'apprentissage, et de rester serein en sachant que ma vie apparemment insignifiante se déroule dans un univers ordonné, intellectuellement progressif, doté d'un sens et d'une valeur considérables.
+« La plus grande affliction du cosmos est de n'avoir jamais été affligé. Les mortels n'apprennent la sagesse qu'en faisant l'expérience de la tribulation ». <a id="a64_157"></a>[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14) Cet épigramme m'a été d'un grand réconfort, me donnant le courage de considérer les malheurs et les souffrances comme des épisodes d'apprentissage, et de rester serein en sachant que ma vie apparemment insignifiante se déroule dans un univers ordonné, intellectuellement progressif, doté d'un sens et d'une valeur considérables.
 
 Pour moi, _le Livre d'Urantia_ est un grand cadeau de Dieu.
 <br style="clear:both;"/>

@@ -50,7 +50,7 @@ La Fondation Urantia a besoin de votre aide aujourd’hui !
 
 En tant qu’ami de la Fondation, nous sommes tellement reconnaissant de votre générosité, qui aide à la dissémination du _Livre d’Urantia._ Votre soutien permet au personnes spirituellement chercheuses de découvrir et de faire l’expérience de la lumière profonde de la vérité vivante que nous avons tous embrassée. Rien n’est plus puissant que ses enseignements pour ouvrir les yeux de ceux qui sont aveugles spirituellement tout en aidant la transition des peuples du monde de notre âge séculier actuel vers une ère de spiritualité plus coopérative.
 
-On nous dit que, « Dans ce gigantesque conflit entre le temporel et le spirituel, la religion de Jésus finira par triompher ». <a id="a52_132"></a>[LU 195:4.5](/fr/The_Urantia_Book/195#p4_5) En attendant, il reste encore beaucoup de travail à faire.
+On nous dit que, « Dans ce gigantesque conflit entre le temporel et le spirituel, la religion de Jésus finira par triompher ». <a id="a52_127"></a>[LU 195:4.5](/fr/The_Urantia_Book/195#p4_5) En attendant, il reste encore beaucoup de travail à faire.
 
 Ayant fait l’expérience du bénéfice de ses enseignements, voudriez-vous, s’il vous plaît, continuer à travailler avec nous pour apporter à d’autres la même vérité ? Si c’est le cas, vos donations à la Fondation permettent de traduire _Le Livre d’Urantia_ en de nombreuses langues, de l’imprimer et de le distribuer mondialement, de promouvoir des groupes d’étude, de favoriser des initiatives de dissémination, de diriger urantia.org, de faire fonctionner l’École Internet du _Livre d’Urantia_, d’entretenir la maison mère à Chicago et de conduire des séminaires éducatifs.
 

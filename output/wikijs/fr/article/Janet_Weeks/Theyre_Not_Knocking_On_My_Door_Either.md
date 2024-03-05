@@ -22,7 +22,7 @@ Mais à travers toutes les situations parfois émotionnelles et éprouvantes de 
 
 Les destinataires réagissent de différentes manières à ce qui leur est donné.
 
-Nous, lecteurs du _Livre d'URANTIA_, avons des réactions différentes au déroulement des paroles du don de la révélation que nous avons reçue. Devenons-nous des croisés émotionnels ou réajustons-nous nos propres vies sur une base calme et personnelle ? On nous dit que le zèle du croisé peut être dangereux, mais la prise de conscience de l’amour qui est en nous ne peut que déborder sur les autres. À notre manière, quoi que nous soyons capables, nous pouvons partager notre don avec les autres. « L’acte nous appartient ; les conséquences, celles de Dieu. » ([LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
+Nous, lecteurs du _Livre d'URANTIA_, avons des réactions différentes au déroulement des paroles du don de la révélation que nous avons reçue. Devenons-nous des croisés émotionnels ou réajustons-nous nos propres vies sur une base calme et personnelle ? On nous dit que le zèle du croisé peut être dangereux, mais la prise de conscience de l’amour qui est en nous ne peut que déborder sur les autres. À notre manière, quoi que nous soyons capables, nous pouvons partager notre don avec les autres. « L’acte nous appartient ; les conséquences, celles de Dieu. » (<a id="a24_560"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 
 Il y a quelques années, j'admirais et j'étais envieux la force de la foi d'un ami. Je savais que cet ami avait « quelque chose » que je n'avais pas. Mais je n’ai pas non plus frappé à cette porte. Cet ami m'a montré comment frapper à la porte de Dieu, et j'ai plutôt frappé à la Sienne. Mes besoins étaient là – et ils ont été satisfaits.
 
@@ -34,7 +34,7 @@ J'ai tendu la main et j'ai trouvé.
 
 Peut-être que la seule chose qui ne va pas chez des gens comme vous et moi, Anne, c'est que nous sommes de simples mortels urantiens avec de très nombreux handicaps. Mais cela en soi peut être un défi !
 
-Nous grandissons toujours, nous cherchons toujours et nous apprenons toujours. Et tandis que ces progrès se poursuivent, nous pouvons être certains que « si je ne peux pas faire cette chose, quelqu’un vit en moi qui peut la faire et la fera ». ([LU 4:4.9](/fr/The_Urantia_Book/4#p4_9)), et que nous montons toujours vers le haut et vers l'intérieur, même lentement.
+Nous grandissons toujours, nous cherchons toujours et nous apprenons toujours. Et tandis que ces progrès se poursuivent, nous pouvons être certains que « si je ne peux pas faire cette chose, quelqu’un vit en moi qui peut la faire et la fera ». (<a id="a36_245"></a>[LU 4:4.9](/fr/The_Urantia_Book/4#p4_9)), et que nous montons toujours vers le haut et vers l'intérieur, même lentement.
 
 Ainsi, tandis que nous passons dans notre travail et nos loisirs, en montrant notre simple préoccupation quotidienne et notre amour envers nos frères, nous espérons et prions pour qu'ils puissent, avec le temps, voir que nous avons « quelque chose » qui manque dans leur propre vie. Lorsqu'ils en réalisent le besoin, nous pouvons leur montrer le chemin à suivre pour frapper à la porte de notre Père. « Frappez et on vous ouvrira, cherchez et vous trouverez ».
 

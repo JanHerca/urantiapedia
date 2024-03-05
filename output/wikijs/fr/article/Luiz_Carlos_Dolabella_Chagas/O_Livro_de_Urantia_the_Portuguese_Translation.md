@@ -53,7 +53,7 @@ Je connais bien la facilité d’adaptation et l’ouverture d’esprit des gens
 
 ## Quelles sont vos espérances pour _Le Livre d’Urantia_ dans les régions parlant le portugais?
 
-Nos espérances sont que _Le Livre d’Urantia_ soit adopté par des individus à travers le monde. Les enseignements de ce livre nous aideront à nous rapprocher de Dieu. …”quand la personnalité ascendante d’un mortel s’accorde finalement avec la divine gouverne de l’Ajusteur intérieur, alors l’actualité du Suprême est devenue plus réelle d’un degré dans les univers ; la divinité de la Suprématie s’est alors avancée d’un pas vers la réalisation cosmique.” <a id="a57_425"></a>[LU 117:0.3](/fr/The_Urantia_Book/117#p0_3).
+Nos espérances sont que _Le Livre d’Urantia_ soit adopté par des individus à travers le monde. Les enseignements de ce livre nous aideront à nous rapprocher de Dieu. …”quand la personnalité ascendante d’un mortel s’accorde finalement avec la divine gouverne de l’Ajusteur intérieur, alors l’actualité du Suprême est devenue plus réelle d’un degré dans les univers ; la divinité de la Suprématie s’est alors avancée d’un pas vers la réalisation cosmique.” <a id="a55_455"></a>[LU 117:0.3](/fr/The_Urantia_Book/117#p0_3).
 
 ## Comment _Le Livre d’Urantia_ a-t-il été reçu au Brésil et au Portugal?
 

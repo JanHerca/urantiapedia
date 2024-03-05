@@ -41,7 +41,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _Par Line St-Pierre, Québec, Canada et les autres participantes de la retraite des « Filles de Dieu »_
 <br style="clear:both;"/>
 
-« La personnalité humaine n’est pas seulement un accompagnement des événements dans le temps et l’espace ; la personnalité humaine peut aussi agir comme cause cosmique de ces événements ». <a id="a43_151"></a>[LU 12:5.11](/fr/The_Urantia_Book/12#p5_11)
+« La personnalité humaine n’est pas seulement un accompagnement des événements dans le temps et l’espace ; la personnalité humaine peut aussi agir comme cause cosmique de ces événements ». <a id="a43_189"></a>[LU 12:5.11](/fr/The_Urantia_Book/12#p5_11)
 
 Dans la pièce historique du Forum à la Fondation Urantia, à Chicago, dix femmes se sont rassemblées pour une retraite « Danser avec Dieu : Incarner l’Amour de Dieu », du 22 au 25 septembre 2016. C’était le second événement de cette sorte, le premier se passa l’année dernière.
 

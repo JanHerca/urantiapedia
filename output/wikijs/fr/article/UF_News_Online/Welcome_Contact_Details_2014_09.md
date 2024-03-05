@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 > « La science, guidée par la sagesse, peut devenir la grande libératrice
-des hommes. » _Le Livre d’Urantia_, <a id="a57_92"></a>[LU 81:6.22](/fr/The_Urantia_Book/81#p6_22)
+des hommes. » _Le Livre d’Urantia_, <a id="a58_36"></a>[LU 81:6.22](/fr/The_Urantia_Book/81#p6_22)
 
 ## Volume 8, numéro 3. September 2014
 

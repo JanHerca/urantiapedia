@@ -74,7 +74,7 @@ Nous voulons encourager les participants à trouver leur propre manière de diss
 
 Il y a encore beaucoup de travail à faire et de défis à relever. Le sécularisme matérialiste est encore répandu dans toute l'Europe. La plupart des gens ne sont pas intéressés par la religion, et les chercheurs de vérité ne sont pas faciles à trouver. Nous savons, cependant, qu'ils sont là, avides de significations et assoiffés de vérité, et nous les trouverons! Nous voulons également impliquer les jeunes dans le mouvement Urantia, car ils seront les leaders de demain.
 
-> « Quand l’affolement matérialiste-laïque aura passé, la religion de Jésus n’aura pas fait banqueroute. La banque spirituelle du royaume des cieux fera des paiements de foi, d’espérance et de sécurité morale à tous ceux qui auront recours à elle « en Son nom » <a id="a70_232"></a>[LU 195:6.1](/fr/The_Urantia_Book/195#p6_1)
+> « Quand l’affolement matérialiste-laïque aura passé, la religion de Jésus n’aura pas fait banqueroute. La banque spirituelle du royaume des cieux fera des paiements de foi, d’espérance et de sécurité morale à tous ceux qui auront recours à elle « en Son nom » <a id="a76_262"></a>[LU 195:6.1](/fr/The_Urantia_Book/195#p6_1)
 
 > EN TEMPS D’INCERTITUDE, DE PLUS EN PLUS DE PERSONNES CHERCHENT UN SENS À LEUR VIE.
 

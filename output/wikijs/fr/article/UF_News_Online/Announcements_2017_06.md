@@ -43,8 +43,8 @@ Annonce de la prochaine session de notre série en continu de retraites de femme
 
 Lors de notre prochaine retraite, « Danser avec Dieu : Émerger dans la Sagesse, » quatre Filles de Dieu ont conçu un programme dans lequel nous créeront ensemble un environnement de confiance dans un cercle spirituel, afin d’explorer ensemble des questions comme :
 
-- Qu’est-ce que signifie pour vous cette déclaration « Jésus ne manqua jamais d’exalter le caractère sacré de l’individu ? » <a id="a45_96"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)
-- « Les anges n’envahissent jamais le sanctuaire de l’esprit humain ». <a id="a47_84"></a>[LU 113:5.1](/fr/The_Urantia_Book/113#p5_1)
+- Qu’est-ce que signifie pour vous cette déclaration « Jésus ne manqua jamais d’exalter le caractère sacré de l’individu ? » <a id="a45_125"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)
+- « Les anges n’envahissent jamais le sanctuaire de l’esprit humain ». <a id="a46_71"></a>[LU 113:5.1](/fr/The_Urantia_Book/113#p5_1)
 - Comment prenez-vous conscience du sacré dans le travail fastidieux de la vie quotidienne ?
 
 <figure id="Figure_1" class="image urantiapedia">

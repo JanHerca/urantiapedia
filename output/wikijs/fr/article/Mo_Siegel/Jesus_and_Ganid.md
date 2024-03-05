@@ -44,7 +44,7 @@ Avant de partir en voyage, Jen et moi, savions que notre temps en Israël laisse
 
 Ensuite nous avons visité Chypre et nous nous sommes promenés dans les montagnes où le Maître passa cinq semaines de sa vie. C’est dans ces montagnes que Jésus « habilement et tendrement » s’occupa de Ganid, gravement malade.
 
-> _Le Livre d’Urantia_ dit : _Le but réel de son périple autour du bassin de la méditerranée était de_ connaître les hommes. _Durant ce voyage, il fut en contact très étroit avec des centaines d’êtres humains. Il rencontra et aima toutes sortes d’hommes, riches et pauvres, puissants et misérables, noirs et blancs, instruits et illettrés, cultivés et ignorants, brutes et spirituels, religieux et irréligieux, moraux et immoraux_ <a id="a44_376"></a>[LU 129:3.8](/fr/The_Urantia_Book/129#p3_8)
+> _Le Livre d’Urantia_ dit : _Le but réel de son périple autour du bassin de la méditerranée était de_ connaître les hommes. _Durant ce voyage, il fut en contact très étroit avec des centaines d’êtres humains. Il rencontra et aima toutes sortes d’hommes, riches et pauvres, puissants et misérables, noirs et blancs, instruits et illettrés, cultivés et ignorants, brutes et spirituels, religieux et irréligieux, moraux et immoraux_ <a id="a46_431"></a>[LU 129:3.8](/fr/The_Urantia_Book/129#p3_8)
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/UF_News_Online/2009_12/004.jpg">

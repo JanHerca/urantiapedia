@@ -57,7 +57,7 @@ La matinée du samedi fut dévolue à l’étude des Ajusteurs de Pensée. Nous 
 
 Après avoir partagé le repas de midi au restaurant de l’hôtel, nous nous sommes retrouvés dans la salle d’étude. Après quelques minutes de silence, nous avons entrepris d’étudier le second sujet de la journée : « les plans de perfection divine » en utilisant le même principe d’étude et de partage. À nouveau, il y eut beaucoup de questions et de commentaires suivis de clarifications apportées par les références croisées. Cette dynamique, engendrée par des chercheurs de vérité avide de connaitre Dieu, fit naitre un sentiment de grande fraternité parmi nous et nous avons réellement fait l’expérience de communion spirituelle décrite dans l’introduction du fascicule 100 :
 
-> « L’expérience d’une vie religieuse dynamique transforme un individu médiocre en une personnalité douée d’un pouvoir idéaliste. La religion contribue au progrès de tous en encourageant le progrès de chaque individu, et le progrès de chacun est accru par l’accomplissement de tous. » <a id="a61_283"></a>[LU 100:0.1](/fr/The_Urantia_Book/100#p0_1)
+> « L’expérience d’une vie religieuse dynamique transforme un individu médiocre en une personnalité douée d’un pouvoir idéaliste. La religion contribue au progrès de tous en encourageant le progrès de chaque individu, et le progrès de chacun est accru par l’accomplissement de tous. » <a id="a59_285"></a>[LU 100:0.1](/fr/The_Urantia_Book/100#p0_1)
 
 La réunion s’acheva sur quelques minutes de recueillement.
 
@@ -65,7 +65,7 @@ Une rapide visite de la vielle ville de Vérone avait été organisée, suivie d
 
 La spiritualisation du mental avait été abordée la veille et nous consacrâmes le dimanche matin à éclaircir ce processus décrit au paragraphe 7 de la section 3 du premier fascicule : Le Père Universel :
 
-> Dans l’expérience intérieure de l’homme, le mental est joint à la matière. Un tel mental lié à la matière ne peut survivre au décès du mortel. Pour embrasser la technique de la survie, il faut effectuer les ajustements de la volonté humaine et les transformations dans le mental mortel par lesquels un intellect conscient de Dieu se fait enseigner graduellement, et finalement conduire par l’esprit. De cette évolution du mental humain allant de l’association avec la matière à l’union avec l’esprit, il résulte une transmutation des phases potentiellement spirituelles du mental mortel en réalités morontielles de l’âme immortelle. Le mental humain soumis à la matière est destiné à devenir de plus en plus matériel et en conséquence à subir finalement l’extinction de la personnalité. Le mental qui s’est laissé dominer par l’esprit est destiné à devenir de plus en plus spirituel et à finalement atteindre l’unité ultime avec l’esprit divin qui survit et le guide, et de cette manière à atteindre la survie et l’éternité de l’existence de la personnalité. <a id="a69_897"></a>[LU 1:3.7](/fr/The_Urantia_Book/1#p3_7)
+> Dans l’expérience intérieure de l’homme, le mental est joint à la matière. Un tel mental lié à la matière ne peut survivre au décès du mortel. Pour embrasser la technique de la survie, il faut effectuer les ajustements de la volonté humaine et les transformations dans le mental mortel par lesquels un intellect conscient de Dieu se fait enseigner graduellement, et finalement conduire par l’esprit. De cette évolution du mental humain allant de l’association avec la matière à l’union avec l’esprit, il résulte une transmutation des phases potentiellement spirituelles du mental mortel en réalités morontielles de l’âme immortelle. Le mental humain soumis à la matière est destiné à devenir de plus en plus matériel et en conséquence à subir finalement l’extinction de la personnalité. Le mental qui s’est laissé dominer par l’esprit est destiné à devenir de plus en plus spirituel et à finalement atteindre l’unité ultime avec l’esprit divin qui survit et le guide, et de cette manière à atteindre la survie et l’éternité de l’existence de la personnalité. <a id="a67_1061"></a>[LU 1:3.7](/fr/The_Urantia_Book/1#p3_7)
 
 Une discussion partage passionnante de deux heures s’ensuivit sur la signification de «. . . il faut effectuer les ajustements de la volonté humaine et les transformations dans le mental mortel par lesquels . . . ». et leurs implications dans la vie quotidienne ce qui clarifia beaucoup d’idées restées vagues.
 
@@ -78,7 +78,7 @@ Le bilan de cette rencontre est très positif et prometteur. Deux des trois part
 <figcaption><em>Danielle La Scala</em></figcaption>
 </figure>
 
-Nous devons remercier Danielle pour son initiative. Elle a beaucoup de mérite car l’organisation était excellente et nul doute que les fruits seront nombreux. « L’acte est à nous, les conséquences sont à Dieu. » [LU 117:5.6](/fr/The_Urantia_Book/117#p5_6)
+Nous devons remercier Danielle pour son initiative. Elle a beaucoup de mérite car l’organisation était excellente et nul doute que les fruits seront nombreux. « L’acte est à nous, les conséquences sont à Dieu. » <a id="a80_212"></a>[LU 117:5.6](/fr/The_Urantia_Book/117#p5_6)
 
 
 ## Références

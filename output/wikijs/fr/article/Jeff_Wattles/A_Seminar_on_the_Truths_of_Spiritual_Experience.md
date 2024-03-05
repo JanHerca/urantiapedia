@@ -43,9 +43,9 @@ _Par Jeffrey Wattles, Stow, Ohio, États-Unis_
 Un séminaire sur les vérités de l’expérience spirituelle sera animé par Jeffrey Wattles et tenue au siège de la Fondation Urantia à Chicago, à partir du jeudi soir, le 30 mai, et se terminera à midi le dimanche 2 juin 2013. Les participants seront confrontés à une approche d’éducation basée sur deux déclarations du _Livre d’Urantia_ :
 <br style="clear:both;"/>
 
-> « Sur le monde des maisons… les écoles sont organisées en trois groupes généraux …les écoles de pensée, les écoles de sentiment, les écoles d’action. » <a id="a47_151"></a>[LU 48:5.6](/fr/The_Urantia_Book/48#p5_6)
+> « Sur le monde des maisons… les écoles sont organisées en trois groupes généraux …les écoles de pensée, les écoles de sentiment, les écoles d’action. » <a id="a45_154"></a>[LU 48:5.6](/fr/The_Urantia_Book/48#p5_6)
 
-> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement perspicaces, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine. » <a id="a49_302"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)
+> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement perspicaces, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine. » <a id="a47_304"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)
 
 Cette « nouvelle et attrayante philosophie de vie » fournit un modèle d’éducation qui correspond au modèle d’éducation des écoles des mondes des maisons. La pensée cherche la vérité ; le sentiment se réjouit dans la beauté et l’action peut actualiser la bonté. Les vérités de l’expérience spirituelle comprennent la paternité de Dieu et la fraternité des hommes, la joie et la liberté des fils et des filles de Dieu et les vérités de la règle d’or.
 

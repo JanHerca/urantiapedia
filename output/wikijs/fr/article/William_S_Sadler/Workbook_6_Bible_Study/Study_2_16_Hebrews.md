@@ -59,7 +59,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 12. Hébreux est l'un des livres les plus érudits de la Bible.
 13. Nous sommes forcés de conclure que Hébreux a été réécrit une ou plusieurs fois. Il peut provenir d'une lettre paulinienne à l'une des églises et ensuite, comme aux Ephésiens, a été soumis à de nombreuses réécritures éditoriales.
 14. Le Concile de Trente (1546) a inclus Hébreux parmi les lettres de Paul.
-15. Le Livre d'Urantia parle de Paul comme auteur- [LU 47:10.3](/fr/The_Urantia_Book/47#p10_3). Dans. 1024 Paul est appelé «l'un des auteurs». Des citations d'Hébreux sont attribuées à Paul sur [LU 47:10.3](/fr/The_Urantia_Book/47#p10_3) et [LU 48:1.7](/fr/The_Urantia_Book/48#p1_7) dans le Livre d'Urantia.
+15. Le Livre d'Urantia parle de Paul comme auteur- <a id="s61_51"></a>[LU 47:10.3](/fr/The_Urantia_Book/47#p10_3). Dans. 1024 Paul est appelé «l'un des auteurs». Des citations d'Hébreux sont attribuées à Paul sur <a id="s61_194"></a>[LU 47:10.3](/fr/The_Urantia_Book/47#p10_3) et <a id="s61_241"></a>[LU 48:1.7](/fr/The_Urantia_Book/48#p1_7) dans le Livre d'Urantia.
 
 ## III. considérations générales
 

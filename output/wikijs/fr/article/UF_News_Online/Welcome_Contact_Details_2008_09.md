@@ -52,7 +52,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2008_09/049.jpg">
 </figure>
 
-« L 'éducation, c'est l'affaire de toute la vie ; il faut que l'éducation continue pendant toute la vie, de façon que l'humanité acquiêre graduellement l'expérience des niveaux ascendants de la sagesse humaine. » _Le Livre d’Urantia_, <a id="a54_187"></a>[LU 71:7.5](/fr/The_Urantia_Book/71#p7_5)
+« L 'éducation, c'est l'affaire de toute la vie ; il faut que l'éducation continue pendant toute la vie, de façon que l'humanité acquiêre graduellement l'expérience des niveaux ascendants de la sagesse humaine. » _Le Livre d’Urantia_, <a id="a54_235"></a>[LU 71:7.5](/fr/The_Urantia_Book/71#p7_5)
 
 <br style="clear:both;"/>
 

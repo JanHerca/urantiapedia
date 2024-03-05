@@ -84,7 +84,7 @@ La stratégie d’investissement pour tous nos fonds est dirigée vers un risque
 
 Félicitations à tous!
 
-**La traduction chinoise :** le premier jet de la traduction chinoise du _Livre d’Urantia_ en caractères simplifiés est terminé. Vicki Yang et Richard Zhu préparent maintenant la traduction chinoise en caractères traditionnels. Cette traduction tient une place particulière sur la liste des priorités du conseil d’administration. _Le Livre d’Urantia_ dit que si les premiers prédicateurs de l’évangile de Jésus étaient allés en Asie avec ses enseignements originaux, ils auraient «  exercé un attrait tout aussi immédiat et effectif sur le mental spirituellement affamé des peuples asiatiques. » <a id="a85_525"></a>[LU 130:2.3](/fr/The_Urantia_Book/130#p2_3)
+**La traduction chinoise :** le premier jet de la traduction chinoise du _Livre d’Urantia_ en caractères simplifiés est terminé. Vicki Yang et Richard Zhu préparent maintenant la traduction chinoise en caractères traditionnels. Cette traduction tient une place particulière sur la liste des priorités du conseil d’administration. _Le Livre d’Urantia_ dit que si les premiers prédicateurs de l’évangile de Jésus étaient allés en Asie avec ses enseignements originaux, ils auraient «  exercé un attrait tout aussi immédiat et effectif sur le mental spirituellement affamé des peuples asiatiques. » <a id="a86_596"></a>[LU 130:2.3](/fr/The_Urantia_Book/130#p2_3)
 
 ## Relations de communauté
 

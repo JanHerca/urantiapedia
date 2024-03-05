@@ -66,7 +66,7 @@ Tous ceux qui ont participé et contribué à ce service à travers cette histoi
 
 « Je n’aurais jamais pensé, quand je rejoignis le PIRT au début de sa création , il y a 17 ans, que notre groupe ferait partie d’un groupe mettant en œuvre un enseignement de la mota morontielle . Mais c’est ici :
 
-On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. <a id="a70_94"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)
+On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. <a id="a68_119"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28)
 
 « Je vous dirais ceci : les détenus peuvent poser des questions difficiles ! Celle-ci par exemple : Après avoir lu “ Gouvernement sur une Planète Voisine ” parlant de crimes, il est dit que ceux que l’on croit être potentiellement des criminels sont condamnés à vie dans des colonies de détention, cela est considéré comme entrer dans une ère positive de la loi. Qu’est-ce que ça signifie ?  »
 
