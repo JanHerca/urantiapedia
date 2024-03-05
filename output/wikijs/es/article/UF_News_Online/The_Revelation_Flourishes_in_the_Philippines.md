@@ -52,7 +52,7 @@ Eugene y Belén partieron recientemente en su cuarta gira de regreso a casa para
 
 Por favor, recuerden a Eugene y Belen, a los muchos lectores locales y al equipo de traducción en sus oraciones mientras trabajan para llevar _El libro de Urantia_ al pueblo filipino.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_10/026.jpg">
 <figcaption><em>Fotos proporcionadas por Eugenio y Belén Asidao.</em></figcaption>
 </figure>

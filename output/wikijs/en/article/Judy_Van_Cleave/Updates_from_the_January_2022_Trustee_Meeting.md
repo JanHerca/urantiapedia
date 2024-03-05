@@ -66,15 +66,15 @@ Urantia Foundation is grateful to the corps of volunteers from around the world 
 
 Donations: 2021 was a successful fundraising year because unrestricted donations covered the operating costs. In the last three months of $2021,54 \%$ of the annual contributions arrived in time to take advantage of the winter donor match. We are so grateful to everyone who contributed to the programs of Urantia Foundation!
 
-We also received an unexpected estate gift. To learn more about donating an estate gift, click here.
+We also received an unexpected estate gift. To learn more about donating an estate gift, [click here](https://urantia.plannedgiving.org/).
+
 New Mustard Seed Fund: Because of the generosity of one family, the Mustard Seed Fund was established. This fund, restricted to grantmaking, is aimed at supporting community education and outreach endeavors. More information will be available in late spring.
 
 In addition to the Mustard Seed Fund, Urantia Foundation has three other funds. They are the Perpetual Printing Fund (so that there is always money to print books), the Hales Fund (investment and cash flow fund), and the Revelation Bridge Fund (an endowment to ensure that Urantia Foundation endures for generations).
 
 ## Translations and Revisions
 
-The teams made progress on the Filipino, Chinese, Arabic, Farsi, Esperanto, and Greek translations. The Polish revision is ongoing, thanks to the dedicated work of Paul and Gosia Jaworski. The
-Portuguese revision is nearing completion and should be ready for review within a couple of years.
+The teams made progress on the Filipino, Chinese, Arabic, Farsi, Esperanto, and Greek translations. The Polish revision is ongoing, thanks to the dedicated work of Paul and Gosia Jaworski. The Portuguese revision is nearing completion and should be ready for review within a couple of years.
 
 **Spanish Revision:** On December 16, 2021, the Spanish revision was published on Urantia Foundation's website. Since then, we have received valuable comments and suggestions. Spanishspeaking readers are invited to study the new text at [urantia.org/es-int](https://www.urantia.org/es-int/el-libro-de-urantia-internacional/leer) and send their observations [here](https://www.urantia.org/es/es/formulario-de-comentarios-y-opiniones). After careful review, any necessary improvements will be made before printing. For those of you analyzing the new text, thank you for your help.
 

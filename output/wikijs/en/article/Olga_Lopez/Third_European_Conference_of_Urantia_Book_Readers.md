@@ -40,9 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Olga López Molina, trustee, Urantia Foundation, Vilanova i la Geltrú, Spain_
 
-The Third European
-
-Conference of Urantia Book Readers was held October 20 23, 2022. Almost 70 readers gathered from Europe and the rest of the world. They came from as far away as Georgia in eastern Europe to the United States and Argentina in the Americas. The conference site was the Sol Torremolinos—Don Pablo Hotel in Málaga, Spain. With almost summerlike temperatures, we were able to enjoy not only the weather, but also the good company of readers and the activities related to the theme of the conference—self-mastery.
+The Third European Conference of Urantia Book Readers was held October 20 23, 2022. Almost 70 readers gathered from Europe and the rest of the world. They came from as far away as Georgia in eastern Europe to the United States and Argentina in the Americas. The conference site was the Sol Torremolinos—Don Pablo Hotel in Málaga, Spain. With almost summerlike temperatures, we were able to enjoy not only the weather, but also the good company of readers and the activities related to the theme of the conference—self-mastery.
 
 The conference had a practical focus so that attendees would return home with new ideas and tools to improve the art of self-mastery in light of the teachings of _The Urantia Book_. Two tracks were offered in English and Spanish, with workshops that were separate but always focused on self-mastery. As the tracks developed independently, the approaches were different but equally enriching. There were also joint activities that maintained the cohesion of the group of attendees thanks to the translation services.
 

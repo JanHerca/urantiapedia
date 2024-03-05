@@ -55,7 +55,7 @@ Eugene and Belen recently set off on their fourth tour back home, continuing the
 
 Please remember Eugene and Belen, the many local readers, and the translation team in your prayers as they work to bring _The Urantia Book_ to the Filipinospeaking people.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2022_10/026.jpg">
 <figcaption><em>Photos provided by Eugene and Belen Asidao</em></figcaption>
 </figure>

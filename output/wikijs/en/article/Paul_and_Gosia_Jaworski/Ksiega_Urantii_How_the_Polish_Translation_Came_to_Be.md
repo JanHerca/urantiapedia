@@ -71,7 +71,7 @@ Two years ago, we noticed the need for online videos as a method of disseminatin
 <img src="/image/article/UF_News_Online/2022_03/009.jpg">
 </figure>
 
-But along with the growing popularity of the book, there have also been many videos about the book made by people who clearly have not read it. To counter misleading information, we decided to upload a few videos of our own on YouTube. To date, we've made 16 of them. If interested, you can find them here.
+But along with the growing popularity of the book, there have also been many videos about the book made by people who clearly have not read it. To counter misleading information, we decided to upload a few videos of our own on YouTube. To date, we've made 16 of them. If interested, you can find them [here](https://www.youtube.com/playlist?list=PLYOtSFuyXLrEwh4s_po8se3nZfQvyQljF).
 
 While we were doing the translation, Gosia often commented that if our work helps only one person, it's worth it. Paul says he's addicted to the book. We can both say that our lives changed for the better when we got to know _The Urantia Book_!
 <br style="clear:both;"/>

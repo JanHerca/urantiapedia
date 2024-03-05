@@ -90,7 +90,7 @@ Q1 estate donations were $26,122.
 
 ## Standard Reference Text
 
-The board passed a resolution accepting the four corrections recommended by the Standard Reference Text (SRT) Committee. To learn more about the SRT and its purpose, click here.
+The board passed a resolution accepting the four corrections recommended by the Standard Reference Text (SRT) Committee. To learn more about the SRT and its purpose, [click here](https://www.urantia.org/urantia-book/what-is-the-standard-reference-text?term=SRT).
 
 ## Cultural Advisory Council
 
