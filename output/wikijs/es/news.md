@@ -12,6 +12,7 @@ dateCreated: 2022-07-03T14:02:03.086Z
 
 ## 2024
 
+- [Novedades de Febrero 2024](/es/news/2024/02)
 - [Novedades de Enero 2024](/es/news/2024/01)
 
 ## 2023

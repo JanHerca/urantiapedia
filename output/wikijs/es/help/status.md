@@ -164,7 +164,7 @@ La siguiente tabla no está completa. Hay más sitios web que estamos consideran
 | - Website                    | 116        |                    |                    |                    |
 | UB Annotated                 |  20        | :heavy_check_mark: | :clock2:           |                    |
 | Jan Herca articles           |  41        | :clock2:           | :clock2:           |                    |
-| **TOTAL**                    | **3854**   |                    |                    |                    |
+| **TOTAL**                    | **3880**   |                    |                    |                    |
 
 ## Fase III - Traductor
 

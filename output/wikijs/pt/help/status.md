@@ -135,37 +135,37 @@ Esta é uma informação detalhada sobre o progresso com a adição de artigos. 
 
 A tabela abaixo não está completa. Existem mais sites que estamos considerando adicionar à Urântiapedia. Esta tabela será atualizada à medida que houver progresso nos meses seguintes.
 
-| Editora /<br>Publicação      | Núm.      | Ing.               | Esp.               | Fr.       |
-| ---------------------------- | --------: | :----------------: | :----------------: | :-------: |
-| The Urantia Foundation       |           |                    |                    |           |
-| - News Online                | 614       | :heavy_check_mark: |                    |           |
-| - News Flash                 |  24       | :heavy_check_mark: |                    |           |
-| - Urantian                   |  63       | :heavy_check_mark: |                    |           |
-| Fellowship                   |           |                    |                    |           |
-| - Fellowship Herald          | 232       | :heavy_check_mark: | :heavy_check_mark: |           |
-| - Mighty Messenger           | 218       | :heavy_check_mark: | :heavy_check_mark: |           |
-| - Study Group Herald         | 129       | :heavy_check_mark: |                    |           |
-| - The Urantian               | 264       | :heavy_check_mark: |                    |           |
-| IUA                          |           |                    |                    |           |
-| - Journal                    |  99       | :heavy_check_mark: |                    |           |
-| - Tidings                    | 364       | :heavy_check_mark: |                    |           |
-| Innerface International      | 568       | :heavy_check_mark: | :heavy_check_mark: |           |
-| Spiritual Fellowship Journal | 400       | :heavy_check_mark: |                    |           |
-| Spain Association            |           |                    |                    |           |
-| - Luz y Vida                 | 337       | :heavy_check_mark: | :heavy_check_mark: |           |
-| - Website                    |   ?       |                    |                    |           |
-| ANZURA Association           |           |                    |                    |           |
-| - 6-0-6                      | 257       | :heavy_check_mark: |                    |           |
-| - The Arena                  | 108       | :heavy_check_mark: |                    |           |
-| French Association           |           |                    |                    |           |
-| - CERDH - The Letter         |   ?       |                    |                    |           |
-| - Le Lien                    |   ?       |                    |                    |           |
-| Quebec Association           |           |                    |                    |           |
-| - Reflectivite               |   ?       |                    |                    |           |
-| - Website                    | 116       |                    |                    |           |
-| UB Annotated                 |  20       | :heavy_check_mark: | :clock2:           |           |
-| Jan Herca articles           |  41       | :clock2:           | :clock2:           |           |
-| **TOTAL**                    | **3854**  |                    |                    |           |
+| Editora /<br>Publicação      | Núm.       | Ing.               | Esp.               | Fr.                |
+| ---------------------------- | ---------: | :----------------: | :----------------: | :----------------: |
+| The Urantia Foundation       |            |                    |                    |                    |
+| - News Online                | 640        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - News Flash                 |  24        | :heavy_check_mark: |                    |                    |
+| - Urantian                   |  63        | :heavy_check_mark: |                    |                    |
+| Fellowship                   |            |                    |                    |                    |
+| - Fellowship Herald          | 232        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - Mighty Messenger           | 218        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - Study Group Herald         | 129        | :heavy_check_mark: |                    |                    |
+| - The Urantian               | 264        | :heavy_check_mark: |                    |                    |
+| IUA                          |            |                    |                    |                    |
+| - Journal                    |  99        | :heavy_check_mark: |                    |                    |
+| - Tidings                    | 364        | :heavy_check_mark: |                    |                    |
+| Innerface International      | 568        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| Spiritual Fellowship Journal | 400        | :heavy_check_mark: |                    |                    |
+| Spain Association            |            |                    |                    |                    |
+| - Luz y Vida                 | 337        | :heavy_check_mark: | :heavy_check_mark: |                    |
+| - Website                    |   ?        |                    |                    |                    |
+| ANZURA Association           |            |                    |                    |                    |
+| - 6-0-6                      | 257        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| - The Arena                  | 108        | :heavy_check_mark: |                    |                    |
+| French Association           |            |                    |                    |                    |
+| - CERDH - The Letter         |   ?        |                    |                    |                    |
+| - Le Lien                    |   ?        |                    |                    |                    |
+| Quebec Association           |            |                    |                    |                    |
+| - Reflectivite               |   ?        |                    |                    |                    |
+| - Website                    | 116        |                    |                    |                    |
+| UB Annotated                 |  20        | :heavy_check_mark: | :clock2:           |                    |
+| Jan Herca articles           |  41        | :clock2:           | :clock2:           |                    |
+| **TOTAL**                    | **3880**   |                    |                    |                    |
 
 
 ## Marco III - Tradutor
