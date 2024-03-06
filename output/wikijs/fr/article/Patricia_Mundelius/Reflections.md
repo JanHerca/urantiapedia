@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Patricia Mundelius<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Patricia_Mundelius_Leaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feuilles de Patricia Mundelius</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mo_Siegel/Help_Wanted">
+          <span class="pr-2">Aide recherchée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Patricia Mundelius_
@@ -38,3 +62,28 @@ Lorsque je repense aux années 1990, lorsque j'étais président des administrat
 - Cet article: https://www.urantia.org/news/2007-09/reflections
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Patricia_Mundelius_Leaves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Feuilles de Patricia Mundelius</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mo_Siegel/Help_Wanted">
+          <span class="pr-2">Aide recherchée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

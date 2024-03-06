@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Mo Siegel<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mo_Siegel_and_Gard_Jameson/Matching_Fundraising_Campaign">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Campagne de collecte de fonds de contrepartie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-3-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 3, décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irmeli_Sjolie/German_Translation_Brings_Readers_Together">
+          <span class="pr-2">La traduction allemande rassemble les lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -123,3 +147,28 @@ Le Conseil a décidé que nous devions clarifier quelques points. Lorsque vous l
 - Cet article: https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mo_Siegel_and_Gard_Jameson/Matching_Fundraising_Campaign">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Campagne de collecte de fonds de contrepartie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-3-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 3, décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irmeli_Sjolie/German_Translation_Brings_Readers_Together">
+          <span class="pr-2">La traduction allemande rassemble les lecteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

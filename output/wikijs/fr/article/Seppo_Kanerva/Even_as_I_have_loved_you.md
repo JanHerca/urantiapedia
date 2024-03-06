@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Seppo Kanerva<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/UF_News_Online/Welcome_Contact_Details_2007_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bienvenue et coordonnées</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mo_Siegel/Trustees_Meeting_Aug_2007">
+          <span class="pr-2">Réunion du conseil d'administration août 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Seppo Kanerva. Président, Fondation Urantia._
@@ -38,3 +62,28 @@ Je t'aime.
 - Cet article: https://www.urantia.org/news/2007-09/even-i-have-loved-you
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/UF_News_Online/Welcome_Contact_Details_2007_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bienvenue et coordonnées</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mo_Siegel/Trustees_Meeting_Aug_2007">
+          <span class="pr-2">Réunion du conseil d'administration août 2007</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

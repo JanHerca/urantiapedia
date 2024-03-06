@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Tamara Wood<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/An_Educational_Initiative">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une initiative pédagogique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Peregrine/Head_Office_History">
+          <span class="pr-2">Historique du siège social</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Tamara Wood, directrice des ventes pour la Fondation Urantia_
@@ -41,3 +65,28 @@ _El Libro de Urantia_ est disponible au Mexique, et toute personne désirant/aya
 - Cet article: https://www.urantia.org/news/2007-09/distribution-el-libro-de-urantia
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/An_Educational_Initiative">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une initiative pédagogique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Peregrine/Head_Office_History">
+          <span class="pr-2">Historique du siège social</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

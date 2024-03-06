@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/The_UB_In_India">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'LU en Inde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-1-mai-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, mai 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Dans cette interview, Jay Peregrine—Directeur exécutif de la Fondation Urantia depuis trois ans—partage un peu sur la façon dont il a trouvé son chemin vers le Livre d'Urantia et ses espoirs pour l'avenir de la Révélation d'Urantia._
@@ -62,3 +83,25 @@ Je me suis donc retrouvé ces dernières années à prendre ce défi au sérieux
 - Cet article: https://www.urantia.org/news/2007-05/urantia-foundation-staff-jay-peregrine
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/The_UB_In_India">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'LU en Inde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-1-mai-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, mai 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

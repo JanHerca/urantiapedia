@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Irmeli Sjölie<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mo_Siegel/Decisions_October_Trustees_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Décisions: réunion du conseil d'administration d'octobre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-3-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 3, décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Neal_Waldrop_Concludes_Four_Years_of_Active_Participation">
+          <span class="pr-2">Neal Waldrop conclut quatre années de participation active</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Irmeli Sjölie, administratrice associée, Finlande_
@@ -47,3 +71,28 @@ Une fois la réunion terminée, de nombreuses nouvelles amitiés se sont nouées
 - Cet article: https://www.urantia.org/news/2007-12/german-translation-brings-readers-together
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mo_Siegel/Decisions_October_Trustees_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Décisions: réunion du conseil d'administration d'octobre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-3-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 3, décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Neal_Waldrop_Concludes_Four_Years_of_Active_Participation">
+          <span class="pr-2">Neal Waldrop conclut quatre années de participation active</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

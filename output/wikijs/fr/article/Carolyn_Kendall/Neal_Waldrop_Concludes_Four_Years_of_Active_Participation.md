@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Carolyn Kendall<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irmeli_Sjolie/German_Translation_Brings_Readers_Together">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traduction allemande rassemble les lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-3-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 3, décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Millennial_Reflections">
+          <span class="pr-2">Réflexions millénaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Carolyn Kendall Illinois, États-Unis_
@@ -34,3 +58,28 @@ Neal vit avec sa femme, l'ancienne Vanessa Wong, dans une banlieue du Maryland �
 - Cet article: https://www.urantia.org/news/2007-12/neal-waldrop-concludes-four-years-active-participation
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irmeli_Sjolie/German_Translation_Brings_Readers_Together">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La traduction allemande rassemble les lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-3-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 3, décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Millennial_Reflections">
+          <span class="pr-2">Réflexions millénaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

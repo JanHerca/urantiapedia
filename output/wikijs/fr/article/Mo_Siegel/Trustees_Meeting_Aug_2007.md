@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Mo Siegel<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Seppo_Kanerva/Even_as_I_have_loved_you">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Même si je t'ai aimé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irmeli_Sjolie/Portuguese_Translation">
+          <span class="pr-2">Traduction portugaise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Mo Siegel. Secrétaire, Fondation Urantia_
@@ -87,3 +111,28 @@ La troisième réunion trimestrielle s'est terminée avec espoir, amour et entho
 - Cet article: https://www.urantia.org/news/2007-09/newsworthy-items-august-2007-trustee-meeting
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Seppo_Kanerva/Even_as_I_have_loved_you">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Même si je t'ai aimé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irmeli_Sjolie/Portuguese_Translation">
+          <span class="pr-2">Traduction portugaise</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

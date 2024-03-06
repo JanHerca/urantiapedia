@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Simone Cox<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Millennial_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions millénaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-3-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 3, décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Simone Cox, Afrique du Sud_
@@ -48,3 +69,25 @@ Alors que nous prions sincèrement pour que ces merveilleux journaux trouvent le
 - Cet article: https://www.urantia.org/news/2007-12/seeding-revelation-in-south-africa
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Millennial_Reflections">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions millénaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-3-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 3, décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

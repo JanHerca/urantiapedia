@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Gard Jameson<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irmeli_Sjolie/Portuguese_Translation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traduction portugaise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tamara_Wood/Distribution_El_Libro_De_Urantia">
+          <span class="pr-2">Distribution : Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -58,3 +82,28 @@ Bien qu’aucune conclusion définitive n’ait été tirée, il était passionn
 - Cet article: https://www.urantia.org/news/2007-09/educational-initiative
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irmeli_Sjolie/Portuguese_Translation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traduction portugaise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tamara_Wood/Distribution_El_Libro_De_Urantia">
+          <span class="pr-2">Distribution : Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

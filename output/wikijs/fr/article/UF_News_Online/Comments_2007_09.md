@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jay_Peregrine/Head_Office_History">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historique du siège social</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Patricia_Mundelius_Leaves">
+          <span class="pr-2">Feuilles de Patricia Mundelius</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Fantastique. Le meilleur bulletin/série jamais produit par la Fondation à ce jour. Vous êtes désormais une organisation véritablement « conviviale »! Bravo à tous ceux qui ont travaillé sur ce projet. Les graphismes sont charmants en plus de merveilleux reportages. Le travail et l’esprit de fraternité entre les administrateurs sont vraiment inspirants. Nous sommes très chanceux d'avoir Jay et Tamara et les efforts de leur équipe au bureau.
@@ -51,3 +75,28 @@ Cheryl Glicker, Milford Study Group, (États-Unis)
 - Cet article: https://www.urantia.org/news/2007-09/comments-urantia-online-april-2007
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jay_Peregrine/Head_Office_History">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Historique du siège social</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-2-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 2, septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Patricia_Mundelius_Leaves">
+          <span class="pr-2">Feuilles de Patricia Mundelius</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

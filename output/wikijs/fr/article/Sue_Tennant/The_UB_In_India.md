@@ -9,6 +9,30 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Sue Tennant<br>© 2007 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mo_Siegel/Trustees_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion du conseil d'administration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-1-mai-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, mai 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/UF_News_Online/Jay_Peregrine">
+          <span class="pr-2">Jay Pérégrin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -81,3 +105,28 @@ Les voyages en Asie sont bon marché et attirent des centaines de milliers de je
 - Cet article: https://www.urantia.org/news/2007-05/urantia-book-in-india
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mo_Siegel/Trustees_Meeting">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réunion du conseil d'administration</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_news_online#volume-1-numéro-1-mai-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, mai 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/UF_News_Online/Jay_Peregrine">
+          <span class="pr-2">Jay Pérégrin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
