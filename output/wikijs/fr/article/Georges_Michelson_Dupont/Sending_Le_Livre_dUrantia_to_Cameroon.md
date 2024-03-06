@@ -64,6 +64,7 @@ La Fondation Urantia paya généreusement tous les livres et les coûts de trans
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/semer-le-livre-durantia-au-cameroun)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

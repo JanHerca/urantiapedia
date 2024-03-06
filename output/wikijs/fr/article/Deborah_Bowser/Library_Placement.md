@@ -62,6 +62,7 @@ Sur les 30 bibliothèques que j’avais contactées en Indiana, 11 acceptèrent 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-12/placement-dans-les-bibliotheques)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -129,7 +128,6 @@ Il y a trois associations de Déité-duelle fonctionnelles dans les opérations 
 - (c\) _Le Père-Esprit._ Ce partenariat de Déité-duelle est quelque chose de nouveau ; nous ne l’avons pas rencontré auparavant. Il est le premier membre de la triunité d’infinité d’énergie, la quatrième triunité. Les deux autres membres sont l’Ile du Paradis et l’Absolu Non Qualifié. La présentation des triunités est donnée dans les fascicules en termes de leurs fonctions subultimes sur le niveau de suprématie <a id="s128_415"></a>[LU 104:4.45](/fr/The_Urantia_Book/104#p4_45). Dans ce cas, cette présentation pourrait appartenir à la perspective du présent âge de l’univers. Nous savons que Solitarington <a id="s128_590"></a>[LU 13:1.15](/fr/The_Urantia_Book/13#p1_15) est la sphère statutaire des êtres d’origine Père-Esprit, et que les Messagers Solitaires et les directeurs de pouvoir y jouissent de ce statut <a id="s128_778"></a>[LU 13:1.16](/fr/The_Urantia_Book/13#p1_16). De plus, on nous informe que le Père n’a rien eu affaire avec l’origine de ces êtres, mais, «…dans cet âge de l’univers, il a bien affaire à leurs fonctions» <a id="s128_981"></a>[LU 13:1.16](/fr/The_Urantia_Book/13#p1_16).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

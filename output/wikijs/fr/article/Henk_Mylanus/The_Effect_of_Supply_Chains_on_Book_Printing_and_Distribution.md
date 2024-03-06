@@ -78,6 +78,7 @@ Maintenant, lorsque vous lirez cet extrait et réfléchirez sur le sujet de la c
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-09/limpact-des-chaines-dapprovisionnement-sur-limpression-des-livres-et-la-distribution)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

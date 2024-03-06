@@ -78,6 +78,7 @@ Avec le succès du premier groupe d’étude de l’école, nous en proposerons 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-07/lecole-internet-du-livre-durantia-les-groupes-detude-pour-les-nouveaux-lecteur)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

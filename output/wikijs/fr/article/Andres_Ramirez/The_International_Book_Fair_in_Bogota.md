@@ -64,6 +64,7 @@ Comme suite à cet événement, l’Association Urantia de Bogota à animé une 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-06/le-salon-international-du-livre-bogota)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

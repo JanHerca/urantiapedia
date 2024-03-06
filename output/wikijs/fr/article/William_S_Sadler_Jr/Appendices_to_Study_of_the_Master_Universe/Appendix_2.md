@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -209,7 +208,6 @@ Nous devons accepter l’idée qu'en faisant de telles comparaisons entre les zo
 Quoi qu'il en soit, ces calculs laborieux devraient nous donner une idée plus précise sur l'affirmation qui a servi d'introduction à cette section: Le Paradis est «le plus gigantesque..corps...dans tout le maitre univers» <a id="s208_222"></a>[LU 11:0.1](/fr/The_Urantia_Book/11#p0_1).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

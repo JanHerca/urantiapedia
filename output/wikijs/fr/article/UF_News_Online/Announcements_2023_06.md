@@ -103,6 +103,7 @@ Pour plus de détails, y compris le lien pour s'inscrire, visitez [https://uaus.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-06/le-deuxieme-tour-commence-le-10-juillet-2023), [cet article](https://www.urantia.org/fr/news/2023-06/il-est-encore-temps-de-sinscrire-ic23-la-fellowship-du-livre-durantia), [cet article](https://www.urantia.org/fr/news/2023-06/la-nature-et-la-nourriture-de-lame) et [cet article](https://www.urantia.org/fr/news/2023-06/le-symposium-sur-le-mariage-et-la-famille)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

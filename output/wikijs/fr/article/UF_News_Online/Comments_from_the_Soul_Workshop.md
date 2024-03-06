@@ -119,6 +119,7 @@ Mike Wood procura des repas merveilleux et Joanne et lui, nous ont fait nous sen
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-12/commentaires-concernant-latelier-sur-lame)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

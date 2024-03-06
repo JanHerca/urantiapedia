@@ -128,6 +128,7 @@ Bien que nous pleurions la perte de notre sœur Marta, nous nous réjouissons au
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-07/un-hommage-au-dr-marta-elders-notre-amour-dune-dame)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

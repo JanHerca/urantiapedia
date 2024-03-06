@@ -92,6 +92,7 @@ Durant notre réunion de comité de la Vie de Famille du mois d’août, nous av
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-10/le-programme-pour-enfants-de-ic17-conference-internationale-comment-je-men-suis-sortie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

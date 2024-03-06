@@ -68,6 +68,7 @@ Tout comme un voyage de mille miles commence par un premier pas, des milliers de
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-09/groupes-d-tude-nouvelles-pensees-d-un-ancien-lecteur)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -142,7 +141,6 @@ Le niveau d’espace quaternaire | Un satellite de 5 000 km de diamètre, une gr
 La plupart des évènements dont parlent les fascicules concernent le deuxième âge de l’univers et le grand univers . Les univers extérieurs des âges futurs sont tout à fait différents, et de dimensions beaucoup plus grandes. L’émergence expérientielle du Suprême est une fonction du grand univers ; l’émergence de l’Ultime nécessite tout ce qui précède, plus le développement additionnel des quatre niveaux d’espace extérieurs.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -70,6 +70,7 @@ La conférence de Boulder commença comme une simple idée. Mais avec chaque id�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-09/la-seconde-lieue-en-retrospective-pensees-sur-l-experience-de-boulder)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

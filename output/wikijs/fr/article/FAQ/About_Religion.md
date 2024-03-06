@@ -12,7 +12,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>
@@ -141,7 +140,6 @@ Notre recommandation est d'embrasser votre religion avec un sentiment nouveau d'
 > L'une des grandes difficultés de la vie moderne est que l'homme se croit trop occupés pour trouver le temps nécessaire à la méditation spirituelle et à la dévotion religieuse. <a id="s140_178"></a>[LU 195:6.7](/fr/The_Urantia_Book/195#p6_7)
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>

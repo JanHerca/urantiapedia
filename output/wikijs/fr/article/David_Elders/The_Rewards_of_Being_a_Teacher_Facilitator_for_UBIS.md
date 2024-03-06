@@ -65,6 +65,7 @@ Les étudiants de ma classe se montrèrent à la hauteur de la situation et cont
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-12/etre-un-enseignantanimateur-d-ubis-est-gratifiant)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

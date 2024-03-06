@@ -120,6 +120,7 @@ La civilisation doit attendre le langage pour se répandre. Des langues qui vive
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-10/des-traductions-de-qualite-un-processus-de-40-ans)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

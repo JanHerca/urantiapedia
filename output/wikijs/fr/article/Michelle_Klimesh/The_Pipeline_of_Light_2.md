@@ -76,6 +76,7 @@ Merci !
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/le-pipeline-de-lumiere-semer-le-livre-durantia-dans-le-monde-entier)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

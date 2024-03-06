@@ -75,6 +75,7 @@ Nous avons acquis une grande satisfaction de nos efforts, et cela de différente
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-06/la-foire-internationale-du-livre-de-2016-bogota)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

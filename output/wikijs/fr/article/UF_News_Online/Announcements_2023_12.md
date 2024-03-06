@@ -54,6 +54,7 @@ Rejoignez-nous pour une étude agréable de l'âme, culminant avec l'adoration e
 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

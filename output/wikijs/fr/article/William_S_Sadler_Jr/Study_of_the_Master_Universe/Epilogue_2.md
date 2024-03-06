@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -171,7 +170,6 @@ Nous présentons ici un concept analogue. Nous essayons de concevoir un instant 
 Puisque nous ne trouverons jamais Dieu en tant qu'Infini, il semble probable que nous continuerons à «poursuivre» l'Ombre de l'Infinité qui est projetée dans la non-limitation de la réalité potentielle. Nous croyons que l'on conçoit mieux cette Ombre sous la forme de la présence de l'Absolu Universel. Sans aucun doute, nous continuerons à être intrigués, perplexes et stimulés par la présence et l'accomplissement de l'Absolu Universel dont le mystère éternel continuera à croître avec les univers en croissance et dont la complexité éternelle croîtra peutêtre plus rapidement que les fïnalitaires.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

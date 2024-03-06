@@ -66,6 +66,7 @@ Que vois-je comme perspectives de partager cette révélation avec les autres ?
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-12/ce-que-le-livre-durantia-represente-pour-moi-obol-sunday-jimmy)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

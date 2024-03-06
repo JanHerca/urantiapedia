@@ -66,6 +66,7 @@ Donc, attrapez-le, tenez-vous et accrochez-vous. C’est un tour cosmique mais l
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-03/comment-le-livre-durantia-inspire-donner)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

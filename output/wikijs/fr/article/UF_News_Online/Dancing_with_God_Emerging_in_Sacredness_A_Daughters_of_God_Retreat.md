@@ -62,6 +62,7 @@ Si vous voulez faire partie de cet événement à la Fondation Urantia, 533 W. D
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-03/danser-avec-dieu-naitre-en-caractere-sacre-une-retraite-des-filles-de-dieu)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -57,6 +57,7 @@ L’évolution des traductions est-elle arrivée par hasard ou à dessein? Nous 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/evolution-des-traductions)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

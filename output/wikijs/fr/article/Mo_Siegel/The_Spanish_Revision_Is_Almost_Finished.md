@@ -62,6 +62,7 @@ Les étapes finales du projet de la révision espagnole subsistent. Durant les p
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-09/la-revision-espagnole-est-presque-terminee)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

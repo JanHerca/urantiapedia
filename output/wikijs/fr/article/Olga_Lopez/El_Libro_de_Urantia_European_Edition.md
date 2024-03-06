@@ -60,6 +60,7 @@ Beaucoup d’entre nous en Espagne croit que la décision de la Fondation d’im
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-09/limpression-de-el-libro-de-urantia-edition-europeenne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

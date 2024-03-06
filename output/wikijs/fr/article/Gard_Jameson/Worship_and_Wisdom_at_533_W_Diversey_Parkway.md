@@ -55,6 +55,7 @@ Les Trustees sont plus que jamais engagés au travail éducatif. Par des projets
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-06/adoration-et-sagesse-533-diversey-parkway)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

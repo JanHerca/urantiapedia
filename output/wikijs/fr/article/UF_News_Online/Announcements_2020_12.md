@@ -64,6 +64,7 @@ Merci !
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-12/le-finnois-ajoute-au-livre-durantia-multilingue), [cet article](https://www.urantia.org/fr/news/2020-12/les-pages-facebook-indonesienne-et-russe), [cet article](https://www.urantia.org/news/2020-12/discounted-untold-story-jesus-modern-biography-urantia-book) et [cet article](https://www.urantia.org/news/2020-12/discounted-urantia-book-leather-cambridge-edition)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

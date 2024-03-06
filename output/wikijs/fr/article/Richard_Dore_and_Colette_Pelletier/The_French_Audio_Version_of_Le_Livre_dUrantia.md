@@ -58,6 +58,7 @@ Les québécois responsables de la version audio de la traduction française mé
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-12/la-version-audio-du-livre-d-urantia-en-francais)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

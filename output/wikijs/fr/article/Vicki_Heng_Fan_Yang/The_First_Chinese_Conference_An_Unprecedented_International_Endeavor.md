@@ -189,6 +189,7 @@ Un jour additionnel fut passé à répondre aux questions des participants. Je s
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-10/la-premiere-conference-chinoise-une-initiative-internationale-sans-precedent)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -64,6 +64,7 @@ Nous sommes heureux de vous annoncer que la traduction en Farsi est maintenant d
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-12/le-nouveau-compte-instagram-de-la-fondation-urantia) et [cet article](https://www.urantia.org/fr/news/2018-12/le-farsi-est-maintenant-disponible-en-ligne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

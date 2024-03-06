@@ -84,6 +84,7 @@ Le Livre d'Urantia Enhanced Edition facilitera l'étude du livre. Achetez votre 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2021-04/new-enhanced-english-e-book)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

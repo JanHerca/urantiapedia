@@ -94,6 +94,7 @@ J’espère approfondir beaucoup des contacts et les sentiments dont j’ai fait
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-09/l-experience-d-un-lecteur-sejournant-533-diversey-parkway)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

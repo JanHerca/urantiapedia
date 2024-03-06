@@ -74,6 +74,7 @@ J’ai appris une grande leçon de cette expérience. Nos amis invisibles nous a
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-03/le-livre-durantia-au-cameroun-reflexions-dun-dirigeant-de-groupe-detude)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

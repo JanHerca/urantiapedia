@@ -73,6 +73,7 @@ Un futur viendra où la confusion de notre monde reculera petit à petit et l’
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-07/diffusion-du-livre-durantia-en-italie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

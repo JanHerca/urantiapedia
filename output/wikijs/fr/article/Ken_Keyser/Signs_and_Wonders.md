@@ -98,6 +98,7 @@ Note: Toutes les mots en **caractères gras** et les intervalles modifiés ont �
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-10/signes-et-miracles)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

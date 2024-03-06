@@ -105,6 +105,7 @@ Soumettez, s'il vous plait, une lettre de motivation, accompagnée d'un résumé
 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

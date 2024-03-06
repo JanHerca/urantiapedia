@@ -53,6 +53,7 @@ Il existe aujourd’hui des groupes d’étude actifs dans tous ces pays, et les
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/la-memoire-de-werner-sutter)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -90,6 +90,7 @@ Paul et Gosia Jaworski donnèrent une actualisation de leur travail sur la tradu
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-10/actualisations-de-la-reunion-des-trustees-de-juillet-2022)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

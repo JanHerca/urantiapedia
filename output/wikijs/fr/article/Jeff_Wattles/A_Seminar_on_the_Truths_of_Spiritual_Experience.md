@@ -68,6 +68,7 @@ Si vous ne pouvez pas participer au séminaire, vous pouvez écouter les potcast
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-11/un-seminaire-sur-les-verites-de-lexperience-spirituelle)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

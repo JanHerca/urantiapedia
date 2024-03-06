@@ -58,6 +58,7 @@ Nous avons le sentiment que ce fut un effort qui en valait la peine, que des gro
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-12/le-livre-d-urantia-en-autriche)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

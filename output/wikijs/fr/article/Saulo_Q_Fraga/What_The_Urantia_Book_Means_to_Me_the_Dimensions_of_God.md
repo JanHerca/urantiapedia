@@ -107,6 +107,7 @@ Pour simplifier, j’ai appris que l’accent que je devrais mettre n’est pas 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-12/ce-que-le-livre-durantia-signifie-pour-moi-les-dimensions-de-dieu)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

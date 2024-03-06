@@ -120,6 +120,7 @@ Le Conseil d’administration a élu Mme Sandra Cisneros Burga-Pizarro pour serv
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-09/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-de-juillet)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

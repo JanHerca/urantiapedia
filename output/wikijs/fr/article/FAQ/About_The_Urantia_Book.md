@@ -12,7 +12,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>
@@ -57,7 +56,6 @@ La Fondation promeut l'étude du _Livre d'Urantia_ et de ses enseignements en en
 
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>

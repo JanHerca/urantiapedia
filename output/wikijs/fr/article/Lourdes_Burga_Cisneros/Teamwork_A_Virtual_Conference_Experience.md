@@ -120,6 +120,7 @@ Les voyageurs andites aux embarcations ouvertes, prirent de nombreuses années p
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-06/le-travail-dequipe-une-experience-de-conference-virtuelle)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

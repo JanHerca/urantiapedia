@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -121,6 +120,7 @@ _Troisième niveau de la Trinité triple._ Nous savons que les fonctions trinita
 <br>
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

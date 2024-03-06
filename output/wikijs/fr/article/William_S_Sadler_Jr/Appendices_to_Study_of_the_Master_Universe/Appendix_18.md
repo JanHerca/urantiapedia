@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -231,7 +230,6 @@ _Transcendance de l’espace-temps._ Le fait de la triple personnalisation de la
 _Le niveau ultime de la fonction de la Déité totale._ Sur ce niveau, on dit que la déité se projette d’elle-même – avançant de l’intérieur d’elle-même et travaillant par rapport au temps et à l’espace, mais en les transcendant. Tout comme la Suprématie est le premier niveau de l’expression unifiante de la déité expérientielle, de même l’Ultimité en est le deuxième niveau. Tout comme la Suprématie apporte son ministère (d’une façon finie) au grand univers , de même l’Ultimité apporte son ministère (d’une façon absonite) au maitre univers. Au maitre univers, l’Ultimité de la Déité fournit le «supercontrôle et \[le\] supersoutien universels» <a id="s230_647"></a>[LU 0:1.9](/fr/The_Urantia_Book/0#p1_9). Et Dieu l’Ultime est (ou sera) la personnalité expérientielle émergeant de ce niveau de fonction de la Déité totale — l’unification trinitaire transcendantale qui est comprise par les êtres absonites <a id="s230_888"></a>[LU 0:9.2](/fr/The_Urantia_Book/0#p9_2).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

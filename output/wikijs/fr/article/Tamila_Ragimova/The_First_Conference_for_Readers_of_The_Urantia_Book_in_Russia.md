@@ -74,6 +74,7 @@ Après le succès de la conférence, un comité de lecteurs fut formé pour plan
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-12/la-premiere-conference-de-lecteurs-du-livre-durantia-en-russie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

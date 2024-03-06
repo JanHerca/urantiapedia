@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>
@@ -60,7 +59,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 > Peut-être vaudrait-il mieux que ces cercles psychiques de progression des mortels soient dénommés _niveaux cosmiques :_ niveaux où effectivement nous saisissons les significations et réalisons les valeurs d’une approche progressive de la conscience morontielle de l’existence d’une relation initiale entre l’âme évolutionnaire et l’Être Suprême émergent. C’est précisément cette relation qui rend éternellement impossible d’expliquer pleinement la signification des cercles cosmiques au mental matériel. Ces franchissements de cercles n’ont que des rapports relatifs avec le fait d’avoir conscience de Dieu. Celui qui est dans le septième ou sixième cercle peut connaître Dieu avoir conscience de sa filiation presque aussi bien que celui qui est dans le second ou le premier cercle, mais les êtres des cercles inférieurs sont beaucoup moins conscients de leur relation expérientielle avec l’Être Suprême, de leur citoyenneté universelle. Le franchissement de ces cercles cosmiques fera partie de l’expérience des ascendeurs sur les mondes des maisons s’ils ne réussissent pas cet accomplissement avant la mort naturelle. <a id="s59_1124"></a>[LU 110:6.16](/fr/The_Urantia_Book/110#p6_16)
 
 <br>
-
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>

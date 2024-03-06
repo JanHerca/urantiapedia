@@ -90,6 +90,7 @@ Production : Truthbook.com
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

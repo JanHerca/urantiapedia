@@ -102,6 +102,7 @@ Nous continuerons à rapporter les détails des ventes et des téléchargements 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-12/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-doctobre)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

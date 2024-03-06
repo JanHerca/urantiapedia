@@ -75,6 +75,7 @@ Le rapport annuel 2018 est disponible en ligne. [Veuillez cliquer ici pour le li
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-06/importantes-decisions-de-la-reunion-du-conseil-dadministration-des-trustees-davril-2019)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

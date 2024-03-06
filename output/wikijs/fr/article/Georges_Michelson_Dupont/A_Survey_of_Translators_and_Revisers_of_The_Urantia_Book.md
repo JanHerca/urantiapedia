@@ -221,6 +221,7 @@ Pour qu’une traduction ait fait un cycle complet et soit considérée comme te
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-03/une-enquete-sur-les-traducteurs-et-reviseurs-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

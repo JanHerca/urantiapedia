@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -138,7 +137,6 @@ Pour citer encore l’opinion du Censeur Universel: «Seule l’infinité peut r
 
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

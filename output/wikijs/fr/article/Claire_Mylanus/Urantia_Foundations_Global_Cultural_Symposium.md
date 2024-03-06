@@ -106,6 +106,7 @@ Et finalement, un grand MERCI à chacun des participants qui parcoururent de gra
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-06/le-symposium-culturel-mondial-de-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

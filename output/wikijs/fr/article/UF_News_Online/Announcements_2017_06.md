@@ -67,6 +67,7 @@ Si vous voulez participer à cet événement, à la Fondation Urantia, 533 W. Di
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-06/danser-avec-dieu-emerger-dans-la-sagesse-une-retraite-des-filles-de-dieu)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

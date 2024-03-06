@@ -77,6 +77,7 @@ On dira certainement de toi : « Bien fait, bon et fidèle serviteur. » Tu va
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/celebration-de-larry-watkins-precieux-serviteur-de-la-revelation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

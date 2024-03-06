@@ -72,6 +72,7 @@ Le livre reste très simple et à la fois incompréhensiblement complexe. Mais i
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-03/ce-que-le-livre-durantia-signifie-pour-moi-par-michael-edwards)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

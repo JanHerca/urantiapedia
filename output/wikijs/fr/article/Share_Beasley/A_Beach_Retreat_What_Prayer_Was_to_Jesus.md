@@ -65,6 +65,7 @@ Un grand merci à nos hôtes charmants « de la côte » et à nos dirigeants 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-12/une-retraite-la-plage-ce-que-la-priere-representait-pour-jesus)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

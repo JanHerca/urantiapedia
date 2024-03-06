@@ -73,6 +73,7 @@ J’espère que cette lecture sur UBIS vous a éclairé. Puissions nous tous tro
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-03/ubis-est-en-vogue)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

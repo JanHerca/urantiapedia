@@ -106,6 +106,7 @@ Notre nouveau superviseur de Wikipedia parla au comité de son examen des, et de
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-06/actualisations-de-la-reunion-des-trustees-davril-2021)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

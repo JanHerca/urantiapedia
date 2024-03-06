@@ -96,6 +96,7 @@ La traduction française fut la première traduction du _Livre d’Urantia_ et b
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-03/un-court-historique-de-la-traduction-francaise)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

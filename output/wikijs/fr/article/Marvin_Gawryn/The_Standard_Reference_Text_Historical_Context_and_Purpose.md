@@ -82,6 +82,7 @@ _La Fondation Urantia reste dédiée à protéger et à publier le texte de 1955
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-12/le-texte-standard-de-reference-le-contexte-historique-et-son-objectif)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

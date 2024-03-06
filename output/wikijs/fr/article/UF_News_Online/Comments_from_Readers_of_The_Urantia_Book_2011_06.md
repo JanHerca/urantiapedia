@@ -69,6 +69,7 @@ Une chose est devenue très claire : le travail désintéressé et sans conscie
 - [Cet article](https://www.urantia.org/fr/news/2011-06/paroles-inspirees-drsquoun-lecteur-du-livre-drsquourantia) et [cet article](https://www.urantia.org/fr/news/2011-06/lrsquohistoire-drsquoun-lecteur-de-longue-date-du-livre-drsquourantia)
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -94,6 +94,7 @@ C’est l’équivalent de 1350 jours ou 3,7 années de travail non-stop.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-07/dans-les-coulisses-du-projet-de-la-traduction-hebraique)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

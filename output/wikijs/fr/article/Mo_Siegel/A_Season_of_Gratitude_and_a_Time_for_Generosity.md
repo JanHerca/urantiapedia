@@ -73,6 +73,7 @@ Puisse cette période de fin d’année, être remplie de joie par des dons dés
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-12/une-periode-de-gratitude-et-un-temps-pour-la-generosite)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

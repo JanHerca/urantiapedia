@@ -75,6 +75,7 @@ Nous avons toutes apprécié le niveau de confiance, de respect et de vulnérabi
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-04/danser-avec-dieu-vivre-dans-lamour-en-ces-temps-difficiles)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

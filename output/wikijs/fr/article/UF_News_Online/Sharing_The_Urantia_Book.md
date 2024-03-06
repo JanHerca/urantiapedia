@@ -93,6 +93,7 @@ Contact : Myra High-tech, présidente du PIRT, [my@mtn-rose.com](mailto:my@mtn-
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-12/partager-le-livre-durantia-lequipe-de-reponses-aux-demandes-des-prisonniers-pirt)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -58,6 +58,7 @@ Vous pouvez vous enregistrer pour l’événement à www.uai2018.org/program/reg
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-10/la-conference-de-lassociation-urantia-internationale-de-2018)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

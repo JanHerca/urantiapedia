@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -77,7 +76,6 @@ L’Absolu-Limité continuera à croître, encore et encore. Il y aura coopérat
 Cependant, ce n’est pas une impasse. C’est une situation dynamique de croissance sans fin ! La réalité croissante de Dieu l’Absolu est expérientielle, donc on peut en faire l’expérience. Une personnalisation subinfinie (incomplète) de Dieu l’Absolu fournira encore une avenue d’approche expérientielle à la connaissance du Père-en-tant-qu’absolu. Nous croyons vraiment que la connaissance actuelle qualitative du Père-en-tant-qu’absolu sera expérientiellement accessible. Mais non la connaissance universelle quantitative, seulement une expansion à jamais croissante de la connaissance à jamais limitée. Et, si cette limitation devait cesser, l’expansion (la croissance) cesserait aussi.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

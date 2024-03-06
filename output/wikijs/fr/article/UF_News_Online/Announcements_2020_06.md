@@ -96,6 +96,7 @@ Pour plus d’informations, [cliquez ici](https://www.urantia.org/events/2020-07
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-06/la-traduction-indonesienne-maintenant-disponible-en-ligne), [cet article](https://www.urantia.org/fr/news/2020-06/actualites-des-traductions-polonaise-farsi-et-danoise), [cet article](https://www.urantia.org/fr/news/2020-06/la-page-facebook-en-allemand-et-les-pensees-mediter), [cet article](https://www.urantia.org/fr/news/2020-06/traducteurs-benevoles-requis) et [cet article](https://www.urantia.org/fr/news/2020-06/retraite-spirituelle)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

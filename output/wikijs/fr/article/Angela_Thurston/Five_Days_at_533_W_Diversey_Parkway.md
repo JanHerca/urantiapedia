@@ -73,6 +73,7 @@ Nous reconnaissons qu’il y a encore beaucoup à faire, et nous sommes impatien
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/cinq-jours-533-diversey-parkway)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

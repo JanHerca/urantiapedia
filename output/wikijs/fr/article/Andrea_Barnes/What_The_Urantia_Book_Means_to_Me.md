@@ -73,6 +73,7 @@ Que la paix soit avec vous.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-06/ce-que-le-livre-durantia-signifie-pour-moi-andrea-barnes)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

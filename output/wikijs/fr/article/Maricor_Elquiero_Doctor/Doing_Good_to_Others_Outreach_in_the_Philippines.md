@@ -68,6 +68,7 @@ Le MSGP a été une réponse à nos prières. Nous avons reçu un soutien financ
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-12/faire-du-bien-aux-autres-la-sensibilisation-aux-philippines)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

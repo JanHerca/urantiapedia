@@ -62,6 +62,7 @@ Merci !
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-10/la-traduction-danoise-maintenant-disponible-en-ligne), et [cet article](https://www.urantia.org/fr/news/2018-10/de-nouvelles-pages-facebook-en-anglais-et-en-portugais)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -139,6 +139,7 @@ Je trouvais dans les fascicules sur Jésus, le plus beau, le plus aimant et ador
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-06/duane-faw-honneur-un-homme-qui-servit-la-revelation)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

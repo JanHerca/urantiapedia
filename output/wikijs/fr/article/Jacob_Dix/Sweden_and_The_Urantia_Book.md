@@ -66,6 +66,7 @@ Même en ce moment, lors de la rédaction de ce petit article, le journal télé
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-03/la-suede-et-le-livre-d-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

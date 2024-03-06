@@ -72,6 +72,7 @@ Le 3 décembre 1970, un tribunal des successions transféra la propriété de Di
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-09/pensees-sur-diversey-533)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

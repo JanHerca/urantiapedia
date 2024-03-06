@@ -84,6 +84,7 @@ Nous espérons vous voir là-bas !
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-06/la-conscience-de-dieu-une-universite-vivante)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

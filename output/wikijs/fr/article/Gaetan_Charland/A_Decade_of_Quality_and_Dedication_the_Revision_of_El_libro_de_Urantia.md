@@ -70,6 +70,7 @@ Je peux vous dire pour l’avoir vécu, que cette entreprise fut un voyage dans 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-09/une-decennie-de-qualite-et-de-devouement-la-revision-de-el-libro-de-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

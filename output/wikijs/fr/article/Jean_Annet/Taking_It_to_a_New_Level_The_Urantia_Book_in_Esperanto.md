@@ -107,6 +107,7 @@ Au lieu de communiquer le livre à un pays dans sa langue natale, la traduction 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-06/passer-au-niveau-superieur-le-livre-durantia-en-esperanto)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

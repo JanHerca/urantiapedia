@@ -70,6 +70,7 @@ Pour vous inscrire : [https://www.regonline.com/studygroupsymposium](https://www
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-03/le-symposium-des-groupes-detude)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

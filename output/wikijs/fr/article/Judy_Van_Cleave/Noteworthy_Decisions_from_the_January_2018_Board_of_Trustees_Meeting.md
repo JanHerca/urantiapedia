@@ -89,6 +89,7 @@ L’année 2017 fut une bonne année. Des progrès furent faits dans beaucoup de
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-de-janvier)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

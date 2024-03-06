@@ -76,6 +76,7 @@ Je suis honoré de partager mon histoire de « Ce que _Le Livre d’Urantia_ sig
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-06/ma-quete-pour-trouver-des-reponses)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

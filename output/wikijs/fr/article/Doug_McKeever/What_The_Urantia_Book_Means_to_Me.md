@@ -61,6 +61,7 @@ En me réveillant avec « Pensées à Méditer, » je m'équipe dès le début
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-10/ce-que-le-livre-durantia-signifie-pour-moi-doug-mckeever)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

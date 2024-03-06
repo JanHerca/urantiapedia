@@ -148,6 +148,7 @@ required 8750,000 for 2018. we appreciate your support!
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-07/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-davril-2018)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -107,6 +107,7 @@ Les voyages en Asie sont bon marché et attirent des centaines de milliers de je
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

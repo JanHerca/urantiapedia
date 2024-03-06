@@ -60,6 +60,7 @@ www.regonline.com/builder/site/Default.aspx?EventID=2555401.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-04/traductions-grecque-et-hebraique-disponible-en-ligne-des-maintenant) et [cet article](https://www.urantia.org/fr/news/2019-04/la-session-detude-estivale-2019-de-la-fellowship-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

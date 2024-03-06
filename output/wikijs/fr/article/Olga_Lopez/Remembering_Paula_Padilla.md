@@ -94,6 +94,7 @@ Parfois, je me demande comment nous allons faire sans ses conseils. Mais je réa
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-06/la-memoire-de-paula-padilla)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

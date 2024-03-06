@@ -105,6 +105,7 @@ Pour plus d’informations, contactez, s’il vous plaît, Nestor Seda, [nestors
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-09/le-symposium-de-la-science-2019-reponses-aux-plus-grandes-questions-de-la-science), [cet article](https://www.urantia.org/fr/news/2019-09/la-traduction-japonaise-maintenant-disponible-en-ligne), [cet article](https://www.urantia.org/fr/news/2019-09/nouveaux-moteurs-de-recherche-en-ligne-pour-le-livre-durantia), [cet article](https://www.urantia.org/fr/news/2019-09/dernieres-nouvelles-de-la-traduction-polonaise) et [cet article](https://www.urantia.org/fr/news/2019-09/premiere-conference-du-livre-durantia-aux-philippines)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

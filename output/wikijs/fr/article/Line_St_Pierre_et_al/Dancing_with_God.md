@@ -73,6 +73,7 @@ Le groupe des filles de Dieu, animé par Katharina Becker, Doreen Heyne, Carolyn
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-10/danser-avec-dieu-emerger-dans-la-sagesse-une-retraite-pour-femmes-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

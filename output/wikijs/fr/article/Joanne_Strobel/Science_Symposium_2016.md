@@ -132,6 +132,7 @@ Acceptant ce challenge, dix personnes ont accepter de présenter des exposés ba
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-03/le-symposium-sur-la-science-2016)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

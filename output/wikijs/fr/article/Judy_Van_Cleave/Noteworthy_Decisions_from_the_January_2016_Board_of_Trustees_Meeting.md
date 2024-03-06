@@ -98,6 +98,7 @@ De temps en temps, la Fondation Urantia a besoin de trustees associés, de membr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-03/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-de-janvier)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

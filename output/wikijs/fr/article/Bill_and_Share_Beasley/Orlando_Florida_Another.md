@@ -91,6 +91,7 @@ En conclusion, nous vous remerçions de partager un autre exemple des effets exp
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-03/orlando-en-floride-un-utre-chapitre-se-devoile)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

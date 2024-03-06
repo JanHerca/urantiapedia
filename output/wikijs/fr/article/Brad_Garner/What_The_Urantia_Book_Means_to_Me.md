@@ -81,6 +81,7 @@ La croissance avec et (à certains moments) la lutte avec _Le Livre d’Urantia_
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-06/ce-que-le-livre-durantia-signifie-pour-moi-brad-garner)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

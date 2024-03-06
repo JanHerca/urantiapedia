@@ -75,6 +75,7 @@ Nous fûmes enrichis en entendant les histoires des autres et en y contribuant a
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-04/la-retraite-spirituelle-de-service-aimant-le-pouvoir-des-histoires)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

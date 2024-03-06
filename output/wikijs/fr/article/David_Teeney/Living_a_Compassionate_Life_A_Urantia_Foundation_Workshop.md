@@ -63,6 +63,7 @@ L’atelier n’était pas seulement à propos de « Vivre une Vie de Compassio
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-12/vivre-une-vie-de-compassion-un-atelier-de-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

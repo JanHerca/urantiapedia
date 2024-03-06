@@ -161,6 +161,7 @@ Le Conseil d'Administration a élu: Mo Siegel pour servir comme Président du Co
 - [Cet article](https://www.urantia.org/fr/news/2008-12/points-dinterets-des-decisions-de-la-reunion-du-conseil-dadministration-de-novembre)
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

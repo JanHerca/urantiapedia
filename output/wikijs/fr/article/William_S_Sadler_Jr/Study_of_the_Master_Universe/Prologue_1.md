@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -39,7 +38,6 @@ Nous commencerons cette étude par une exploration de l’éternité passée et 
 Nous poursuivrons le déroulement de ses desseins divins (pour autant que nous puissions les discerner) à travers le temps et le temps transcendé et jusque dans l’éternité future, pour voir jusqu’où nous pouvons espérer progresser dans la quête du Père Final, le Père Non-Qualifié, le Père Absolu, et même jusqu’au Père Infini.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

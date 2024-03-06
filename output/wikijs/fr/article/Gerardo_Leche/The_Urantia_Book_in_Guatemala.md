@@ -73,6 +73,7 @@ La paix soit avec vous.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-09/le-livre-durantia-au-guatemala)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

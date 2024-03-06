@@ -97,6 +97,7 @@ Travaillez, s’il vous plaît, avec vos compagnons croyants pour réaliser ces 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-07/trois-facons-daider-propager-la-revelation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

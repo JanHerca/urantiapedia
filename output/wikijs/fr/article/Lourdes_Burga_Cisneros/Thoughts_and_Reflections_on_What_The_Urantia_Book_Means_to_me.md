@@ -63,6 +63,7 @@ C’est incroyable que vingt et un ans se soient écoulés depuis. Maintenant, j
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-09/pensees-et-reflexions-sur-ce-que-le-livre-durantia-signifie-pour-moi)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

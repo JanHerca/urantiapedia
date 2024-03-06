@@ -60,6 +60,7 @@ Nous les animateurs, faisons face à des défis individuels en faisant de notre 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-03/mon-experience-comme-animateur-de-lecole-internet-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -80,6 +80,7 @@ Passez du temps, s’il vous plaît, à vous servir des moteurs de recherche et 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-04/le-livre-durantia-multilingue), [cet article](https://www.urantia.org/fr/news/2020-04/une-page-facebook-en-francais) et [cet article](https://www.urantia.org/fr/news/2020-04/nouveaux-moteurs-de-recherche-en-ligne-pour-le-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -54,6 +54,7 @@ Il y a quelques jours, j’ai reçu une copie du _El libro de Urantia_: _edició
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-09/el-libro-de-urantia-l-edition-europeenne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

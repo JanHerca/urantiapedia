@@ -58,6 +58,7 @@ Quelle aventure incroyable se déroule devant moi (ce que la plupart d’entre n
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-04/ce-que-le-livre-durantia-signifie-pour-moi-simonas-jurgionis)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

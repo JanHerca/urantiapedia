@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -202,7 +201,6 @@ On nous dit que la Trinité Absolue «…fonctionne sur des niveaux à la fois p
 La deuxième Trinité expérientielle est le supertotal de la dérivation expérientielle finale de l’unification finale pouvoir-personnalité dans la totalité du maitre univers. Comme l’Ultime est l’expression totale, de même cette trinité est l’expression supertotale du maitre univers en tant que troisième et dernier univers nucléaire. La Trinité Absolue est une dérivation du maitre univers, mais ses fonctions semblent être tournées vers l’extérieur et au-delà du maitre univers, vers l’extérieur et en direction d’un domaine plus vaste, vers un domaine sans limites <a id="s201_567"></a>[LU 106:6.2](/fr/The_Urantia_Book/106#p6_2).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

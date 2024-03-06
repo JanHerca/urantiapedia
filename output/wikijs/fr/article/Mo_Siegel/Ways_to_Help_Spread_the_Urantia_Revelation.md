@@ -104,6 +104,7 @@ Le Fonds du Pont de la Révélation fut créé en 2017 pour s’assurer que _Le 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-06/des-facons-daider-propager-la-revelation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

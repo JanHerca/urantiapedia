@@ -89,6 +89,7 @@ C’était une expérience « unique » de voir, tant de gens de tant de religio
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-03/le-parlement-des-religions-du-monde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

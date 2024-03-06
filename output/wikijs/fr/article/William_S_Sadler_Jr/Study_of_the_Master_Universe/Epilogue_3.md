@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -43,7 +42,6 @@ L'aventure finale – l'Aventure Absolue – est sans fin. Mais rien ne nous dé
 Mais pour autant, nous savons que l'Infini est là, qu'il est réel et qu'il est antérieur à la Première Source, et postérieur à la Destinée Finale. Â la fin des temps, nous trouverons encore la vérité dans les mots de l'antique instructeur «la foi est la substance des choses que l'on espère, la démonstration de celles que l'on ne voit pas» ([Heb. 11:1](/fr/Bible/Hebrews/11#v1)).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

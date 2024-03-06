@@ -74,6 +74,7 @@ Pour faire un don pour l’effort de traduction en philippin, visitez, s’il vo
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-04/une-traduction-du-livre-durantia-en-philippin)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

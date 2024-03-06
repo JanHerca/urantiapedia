@@ -66,6 +66,7 @@ Notre groupe comprenait Angela Alvarez, Jeannette Francis, Eva Castel, Luis Beta
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-12/un-stand-du-livre-durantia-la-foire-du-livre-de-miami)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

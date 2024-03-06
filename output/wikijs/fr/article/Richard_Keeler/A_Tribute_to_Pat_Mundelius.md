@@ -93,6 +93,7 @@ Maintenant, je voudrai que vous partagiez ces relations entre vous. Et soyez de 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-09/un-hommage-pat-mundelius)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

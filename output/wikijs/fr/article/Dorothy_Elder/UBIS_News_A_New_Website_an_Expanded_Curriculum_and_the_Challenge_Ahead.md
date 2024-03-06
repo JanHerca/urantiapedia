@@ -80,6 +80,7 @@ Si ce programme éducatif unique vous intéresse, **venez s'il vous plait, et re
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-06/nouvelles-dubis-un-nouveau-site-web-un-programme-elargi-et-le-challenge-qui-nous-attend)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

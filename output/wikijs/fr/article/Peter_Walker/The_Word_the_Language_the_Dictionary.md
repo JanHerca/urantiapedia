@@ -88,6 +88,7 @@ Dans les ères à venir, les étudiants passionnés du _Livre d’Urantia_ se r�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-12/le-mot-la-langue-le-dictionnaire)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

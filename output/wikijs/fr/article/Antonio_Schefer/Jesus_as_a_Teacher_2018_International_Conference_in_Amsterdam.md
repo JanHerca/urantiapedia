@@ -104,6 +104,7 @@ Je voudrais remercier les sponsors qui ont permis de réaliser la Conférence In
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-07/jesus-comme-enseignant-la-conference-internationale-damsterdam)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -81,6 +81,7 @@ Le groupe des Filles de Dieu animé par Katharina Becker, Doreen Heyne, Carolyn 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-12/danser-avec-dieu-incarner-lamour-de-dieu)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

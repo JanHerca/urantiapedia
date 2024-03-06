@@ -59,6 +59,7 @@ J’ai donné un livre à mon père, et non, il n’a pas lu. Ce n’est pas gra
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-03/comment-le-livre-durantia-ma-trouve-et-ce-que-cela-signifie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

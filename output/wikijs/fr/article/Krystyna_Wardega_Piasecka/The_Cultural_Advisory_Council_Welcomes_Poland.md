@@ -76,6 +76,7 @@ En 2023, les quatre membres du Conseil Consultatif Culturel planifieront des ré
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-12/le-conseil-consultatif-culturel-accueille-la-pologne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

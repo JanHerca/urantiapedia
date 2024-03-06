@@ -74,6 +74,7 @@ Encore une fois, je pose les yeux sur mon fils de 12 ans, maintenant enthousiast
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-04/le-printemps-du-nouveau-el-libro-de-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

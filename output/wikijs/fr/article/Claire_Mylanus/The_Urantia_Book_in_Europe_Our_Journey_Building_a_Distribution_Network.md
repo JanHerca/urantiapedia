@@ -87,6 +87,7 @@ Tout en utilisant nos talents individuels pour favoriser la distribution du livr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-04/le-livre-durantia-en-europe-notre-periple-pour-construire-un-reseau-de-distribution)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

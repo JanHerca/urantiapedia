@@ -64,6 +64,7 @@ Pour en savoir plus sur la mission du Parlement des religions du monde, vous pou
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-03/un-stand-du-livre-durantia-au-parlement-des-religions-du-monde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

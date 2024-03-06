@@ -67,6 +67,7 @@ Voici quelques conseils d'un ami lecteur, pour quiconque voulant placer des livr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-09/suite-sur-le-placement-de-livres-d-urantia-en-bibliotheques-alternatives)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

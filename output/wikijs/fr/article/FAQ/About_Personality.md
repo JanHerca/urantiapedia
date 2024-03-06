@@ -12,7 +12,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>
@@ -92,7 +91,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 > La survie éternelle de la personnalité dépend entièrement du choix du mental mortel, dont les décisions déterminent le potentiel de survie de l’âme immortelle. Lorsque le mental croit Dieu, que l’âme connaît Dieu et qu’avec l’Ajusteur stimulant tous _désirent_ Dieu, alors la survie est assurée. Ni limitations d’intellect, ni restrictions d’enseignement, ni privations de culture, ni appauvrissement du statut social, ni même un standard moral inférieur résultant d’une absence malheureuse d’avantages éducatifs, culturels et sociaux ne peuvent invalider la présence de l’esprit divin chez des individus ainsi dépourvus de chance et humainement handicapés, mais croyants. <a id="s91_675"></a>[LU 5:5.13](/fr/The_Urantia_Book/5#p5_13)
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>

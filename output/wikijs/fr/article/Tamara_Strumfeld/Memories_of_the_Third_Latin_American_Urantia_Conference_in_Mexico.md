@@ -127,6 +127,7 @@ Les mots me manquent pour exprimer mon appréciation et ma gratitude à l'égard
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-12/souvenirs-de-la-troisieme-conference-urantia-latino-americaine-au-mexique)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

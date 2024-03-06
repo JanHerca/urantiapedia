@@ -92,6 +92,7 @@ Ce fut une grande joie et très éducatif de travailler aux côtés de volontair
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

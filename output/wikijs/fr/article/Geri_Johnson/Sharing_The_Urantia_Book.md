@@ -94,6 +94,7 @@ Ayant déménagé dans un nouvelle ville, récemment, j’étais prête à me fa
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-09/partager-le-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

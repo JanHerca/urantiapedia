@@ -85,6 +85,7 @@ En 2014 la Fondation Urantia, a créé un label d’impression pour publier des 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-12/decisions-importantes-de-la-reunion-du-comite-dadministration-des-trustees-doctobre)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

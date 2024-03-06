@@ -12,7 +12,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>
@@ -209,7 +208,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 *Le mental* est un phénomène impliquant la présence et l’activité d’un *ministèrevivant* ajouté à des systèmes d’énergie variés, et ceci est vrai à tous les niveaux d’intelligence. Dans la personnalité, le mental intervient toujours entre l’esprit et la matière. C’est pourquoi l’univers est illuminé par trois sortes de lumières : la lumière matérielle, la perspicacité intellectuelle et la luminosité d’esprit. <a id="s208_413"></a>[LU 0:6.8](/fr/The_Urantia_Book/0#p6_8)
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>

@@ -128,6 +128,7 @@ Le Pont de la Révélation : Le conseil d’administration a déplacé des dona
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-04/actualisations-de-la-reunion-des-trustees-de-janvier-2021)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

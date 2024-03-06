@@ -75,6 +75,7 @@ Si vous souhaitez présenter une session lors de cet important symposium, veuill
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2023-10/join-study-group-today), [cet article](https://www.urantia.org/fr/news/2023-10/laventure-du-mariage-et-de-la-famille-un-symposium-en-ligne) et [cet article](https://www.urantia.org/news/2023-10/2024-urantia-association-international-conference-baltimore)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

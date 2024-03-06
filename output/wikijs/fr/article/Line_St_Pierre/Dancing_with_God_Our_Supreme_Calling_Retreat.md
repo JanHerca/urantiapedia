@@ -59,6 +59,7 @@ Contactez, s’il vous plaît, Line St-Pierre pour plus d’informations à [lin
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-12/danser-avec-dieu-notre-retraite-de-lappel-supreme)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

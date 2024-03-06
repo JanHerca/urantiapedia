@@ -84,6 +84,7 @@ Plus j'étudie _L_e _Livre d'Urantia,_ plus je suis sûr de l'importance de fair
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-11/ce-que-le-livre-durantia-signifie-pour-moi-par-karmo-kalda) et [cet article](https://www.urantia.org/fr/news/2012-11/partager-la-bonne-parole)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

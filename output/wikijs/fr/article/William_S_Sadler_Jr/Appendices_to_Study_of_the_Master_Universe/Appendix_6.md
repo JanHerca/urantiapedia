@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -185,7 +184,6 @@ Dans le concept de croissance et de développement postérieur au maitre univers
 Toutes ces déités et trinités apparaissant dans le futur seront associées aux niveaux de fonction de la Déité-totale dans l’âge post-ultime. Nous pensons que ces niveaux impliqueront pour les opérations un mécanisme existentielExpérientiel nouvellement émergeant, et il sera tout à fait différent de tout ce qui l’a précédé. (Voir [appendice XXVII, §3: Le Mécanisme de Déité Existentiel-Expérientiel](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_27#h-3-m%C3%A9canisme-existentiel-exp%C3%A9rientiel-des-fonctions-de-d%C3%A9it%C3%A9).)
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

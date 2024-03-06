@@ -114,6 +114,7 @@ Ils ont exprimé leur croyance que la Fondation ne devrait pas devenir un groupe
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-01/actualisations-de-la-reunion-des-trustees-doctobre-2021)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

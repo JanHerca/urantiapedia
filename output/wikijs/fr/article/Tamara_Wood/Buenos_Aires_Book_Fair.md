@@ -72,6 +72,7 @@ Un grand merci à tous ceux qui se sont impliqués : Augustin Arellano, Graciela
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-06/la-foire-du-livre-buenos-aires)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

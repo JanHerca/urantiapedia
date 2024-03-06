@@ -113,6 +113,7 @@ La troisième réunion trimestrielle s'est terminée avec espoir, amour et entho
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -82,6 +82,7 @@ Après que les lecteurs intéressés auront eu la chance d’examiner l’index 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-03/le-projet-de-l-index-de-urantia-book)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

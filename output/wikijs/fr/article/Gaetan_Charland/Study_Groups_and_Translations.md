@@ -76,6 +76,7 @@ Soyons reconnaissants à et élogieux envers ces âmes aimantes, qui ont dédié
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-09/groupes-detude-et-traductions)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

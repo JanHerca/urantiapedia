@@ -78,6 +78,7 @@ Pensez, s’il vous plait à faire une donation et envoyer votre don assigné à
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/le-livre-durantia-et-ses-enseignements-en-indonesien-bahasa)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

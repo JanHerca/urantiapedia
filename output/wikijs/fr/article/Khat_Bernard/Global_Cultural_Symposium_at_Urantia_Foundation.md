@@ -92,6 +92,7 @@ Je remercie tous ceux concernés, de m’avoir donné une expérience du Livre d
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-06/mon-experience-personnelle-du-symposium-culturel)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

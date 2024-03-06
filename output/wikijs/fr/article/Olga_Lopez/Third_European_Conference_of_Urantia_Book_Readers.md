@@ -68,6 +68,7 @@ Pour toutes ces raisons citées ci-dessus, je suis certaine qu’une étape a é
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-12/la-troisieme-conference-europeenne-des-lecteurs-du-livre-durantia-surmonter-le)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

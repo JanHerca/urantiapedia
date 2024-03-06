@@ -106,6 +106,7 @@ Le conseil d’administration a discuté de la nécessité et de la possibilité
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-09/decisions-importantes-de-la-reunion-du-comite-dadministration-des-trustees-de-juillet)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

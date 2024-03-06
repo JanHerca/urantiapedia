@@ -132,6 +132,7 @@ Si vous n’avez pas encore suivi un cours de l’un d’eux, nous espérons que
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-04/education-en-ligne-une-mission-mondiale)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

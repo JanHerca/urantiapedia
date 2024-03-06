@@ -73,6 +73,7 @@ Pour moi, _le Livre d'Urantia_ est un grand cadeau de Dieu.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-12/ce-que-le-livre-durantia-signifie-pour-moi-yeesook-yoon)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

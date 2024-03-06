@@ -120,6 +120,7 @@ Dans l'édition des _Nouvelles en Ligne_ de mars 2008, nous avons signalé la d�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-06/decisions-dinterets-de-la-reunion-du-conseil-dadministration-davril-2008-paris)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

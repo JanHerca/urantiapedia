@@ -69,6 +69,7 @@ Nous remercions Sheila de nous avoir donné tant d'idées précieuses.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-06/9ieme-reunion-nationale-des-lecteurs-despagne-cultiver-lintelligence-universelle)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

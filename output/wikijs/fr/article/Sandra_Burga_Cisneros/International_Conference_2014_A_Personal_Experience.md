@@ -63,6 +63,7 @@ IC’14 a été organisée par la Fellowship du Livre d’Urantia et a été par
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-09/conference-internationale-de-2014-une-experience-personnelle)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

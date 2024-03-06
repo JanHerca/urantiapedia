@@ -84,6 +84,7 @@ Le Conseil d’administration a décidé d’embaucher une firme de conseil en g
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-03/importantes-decisions-de-la-reunion-du-conseil-dadministration-des-trustees-de-janvier)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

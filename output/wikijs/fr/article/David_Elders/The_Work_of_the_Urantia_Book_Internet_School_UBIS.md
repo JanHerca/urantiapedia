@@ -68,6 +68,7 @@ Sur l’écran : Marta Elders et Michael Zehr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-12/le-travail-de-lecole-internet-du-livre-durantia-ubis)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

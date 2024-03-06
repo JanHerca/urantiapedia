@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -260,7 +259,6 @@ Serait-il possible que toute présentation intelligible de cosmographie induise 
 Il est bien possible que, dans une perspective élargie, le concept newtonien d’un univers centré offre une moins grande déformation des faits que la conception einsteinienne non centrée.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

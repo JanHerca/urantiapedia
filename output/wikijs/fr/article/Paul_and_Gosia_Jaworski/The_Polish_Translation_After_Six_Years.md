@@ -88,6 +88,7 @@ J’ai trois enfants merveilleux et de nombreux petits -enfants, mais tout mon t
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-03/la-traduction-polonaise-apres-six-ans)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

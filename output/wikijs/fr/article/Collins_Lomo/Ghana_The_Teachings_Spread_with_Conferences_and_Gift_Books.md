@@ -104,6 +104,7 @@ Puissions-nous tous faire rayonner la lumière des enseignements célestes du _L
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-07/ghana-les-enseignements-se-propagent-par-les-conferences-et-les-dons-de-livres)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

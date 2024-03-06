@@ -82,6 +82,7 @@ Pour ce qui est de Doreen Heyne, voici sa perception du séminaire :
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-03/ce-que-les-femmes-planifient-un-compte-rendu-de-notre-deuxieme-reunion)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

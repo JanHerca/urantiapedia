@@ -73,6 +73,7 @@ Une fois la réunion terminée, de nombreuses nouvelles amitiés se sont nouées
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

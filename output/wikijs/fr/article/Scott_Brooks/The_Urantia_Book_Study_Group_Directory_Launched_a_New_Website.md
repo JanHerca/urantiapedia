@@ -70,6 +70,7 @@ Les membres de l’équipe actuelle sont Bill Beasley, Scott Brooks, Jackie Kour
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-10/le-repertoire-des-groupes-detude-du-livre-durantia-lance-un-nouveau-site-internet)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

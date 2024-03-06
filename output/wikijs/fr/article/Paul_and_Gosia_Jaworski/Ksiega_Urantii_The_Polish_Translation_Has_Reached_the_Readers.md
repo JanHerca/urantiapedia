@@ -65,6 +65,7 @@ _Księga Urantii_ s’est intégré lentement dans le cœur et le mental des vra
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-12/ksiega-urantii-la-traduction-polonaise-est-parvenue-aux-lecteurs)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

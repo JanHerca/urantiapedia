@@ -69,6 +69,7 @@ J’écris cet article dans l’avion de retour de ce magnifique voyage. La vér
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-12/jesus-et-ganid)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

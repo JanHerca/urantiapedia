@@ -60,6 +60,7 @@ _Le Livre d’Urantia_ m’a donné l’expérience du Père céleste aimant, de
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-09/ce-que-le-livre-durantia-signifie-pour-moi-par-mary-ann-leader)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -12,7 +12,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>
@@ -120,7 +119,6 @@ Voici quelques références du Livre d'Urantia pour répondre à votre question.
 > Jésus est le _chemin nouveau et vivant_ allant de l'homme à Dieu, de l'inachevé au parfait, du terrestre au céleste, du temps à l'éternité. <a id="s119_142"></a>[LU 129:4.7](/fr/The_Urantia_Book/129#p4_7)
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>

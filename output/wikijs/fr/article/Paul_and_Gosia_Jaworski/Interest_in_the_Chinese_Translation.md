@@ -59,6 +59,7 @@ Puisqu’ils ont traduit ces fragments du Livre, ils doivent parler chinois et a
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-09/interet-pour-la-traduction-chinoise)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

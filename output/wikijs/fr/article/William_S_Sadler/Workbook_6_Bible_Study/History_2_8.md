@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>
@@ -88,7 +87,6 @@ La candidature de l'Assyrie
 
 
 <br>
-
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>

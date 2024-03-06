@@ -56,6 +56,7 @@ Jay est né à Tulsa en Oklahoma, il est marié à Nancy Bird et a le bonheur d�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-12/nomination-d-un-nouveau-trustee-associe)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

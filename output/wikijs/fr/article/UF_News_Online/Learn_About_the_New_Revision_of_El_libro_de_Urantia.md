@@ -75,6 +75,7 @@ Un service d’interprétation en direct sera fourni.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2021-04/learn-about-new-revision-el-libro-de-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

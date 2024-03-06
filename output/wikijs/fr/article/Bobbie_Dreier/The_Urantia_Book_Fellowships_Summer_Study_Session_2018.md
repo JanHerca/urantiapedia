@@ -54,6 +54,7 @@ Vous pouvez vous enregistrer en ligne à www.regonline.com/UrantiaFellowshipSSS1
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/la-session-detude-estivale-2018-de-la-fellowship-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -48,6 +48,7 @@ Si vous parlez anglais, avez lu le livre dans sa totalité et êtes passionné �
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/volontaires-demandes-lindex-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

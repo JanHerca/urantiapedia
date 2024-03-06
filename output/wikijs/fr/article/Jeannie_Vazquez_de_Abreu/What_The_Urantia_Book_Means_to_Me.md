@@ -84,6 +84,7 @@ Que Dieu vous bénisse tous !
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-07/ce-que-le-livre-durantia-signifie-pour-moi-jeannie-vazquez-de-abreu)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

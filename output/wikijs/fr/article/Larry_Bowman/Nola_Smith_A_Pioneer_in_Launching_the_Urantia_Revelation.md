@@ -56,6 +56,7 @@ Nola avait la maladie d'Alzheimer et passa ses dernières années en maison de r
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-06/nola-smith-une-pionniere-qui-lanca-la-revelation-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

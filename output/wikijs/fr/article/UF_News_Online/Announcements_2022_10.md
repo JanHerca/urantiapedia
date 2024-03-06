@@ -69,6 +69,7 @@ Contactez : [tamara@urantia.org](mailto:tamara@urantia.org)
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-10/le-parlement-des-religions-du-monde) y [cet article](https://www.urantia.org/fr/news/2022-10/un-don-de-succession-qui-perdurera-pour-les-generations-futures)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

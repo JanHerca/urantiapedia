@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -321,7 +320,6 @@ La section 6 traite, dans un sens, comme une continuation de leur discussion sur
 FIN DE BANDE
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -64,6 +64,7 @@ Nous croyons que les salons du livre sont des événements importants où les le
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-12/notre-stand-du-livre-durantia-au-salon-du-livre-cali-en-colombie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

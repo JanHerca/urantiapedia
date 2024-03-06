@@ -75,6 +75,7 @@ Jésus dit, « Le royaume des cieux ressemble à un grain de sénevé qu'un homm
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-03/le-programme-de-subventions-de-la-graine-de-moutarde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

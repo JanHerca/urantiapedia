@@ -81,6 +81,7 @@ L’équipe de la révision espagnole de la Fondation est formée d’individus 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-09/compte-rendu-de-la-reunion-pour-le-coup-denvoi-de-la-revision-de-la-traduction)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

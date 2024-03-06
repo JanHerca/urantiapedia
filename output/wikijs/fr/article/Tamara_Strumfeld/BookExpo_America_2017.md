@@ -71,6 +71,7 @@ Il reste encore beaucoup de travail à faire pour semer _Le Livre d’Urantia_ e
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-06/salon-du-livre-americain-2017)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

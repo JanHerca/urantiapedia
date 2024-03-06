@@ -77,6 +77,7 @@ Vaya Con Dios.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-07/la-foire-internationale-du-livre-de-bogota-colombie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

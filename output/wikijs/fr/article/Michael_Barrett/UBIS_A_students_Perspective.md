@@ -62,6 +62,7 @@ Puisse le Père en-haut, tous nous tenir dans la paume de Sa main et nous tourne
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-03/ubis-le-point-de-vue-dun-etudiant)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

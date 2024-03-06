@@ -65,6 +65,7 @@ Enfin, il s'agit d'un mot de remerciement du Chili à notre Père, de nous donne
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-03/un-mot-de-remerciement-du-chili)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -243,6 +243,7 @@ Hagiko a commencé son travail en 2001 et il lui a fallu dix ans pour produire l
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-09/un-rapport-sur-les-traductions-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

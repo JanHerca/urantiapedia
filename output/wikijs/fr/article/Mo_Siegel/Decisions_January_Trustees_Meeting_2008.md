@@ -114,6 +114,7 @@ Basé sur les recommandations du Comité des Traductions, le Conseil d’Adminis
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-03/points-d-interets-des-decisions-de-la-fondation-urantia-la-reunion-des-trustees-de)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

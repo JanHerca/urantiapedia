@@ -60,6 +60,7 @@ Si vous êtes un lecteur indépendant ou un adepte des organisations basées sur
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/ramer-lunisson-dans-linteret-de-tous)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

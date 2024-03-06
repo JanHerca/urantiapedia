@@ -72,6 +72,7 @@ Ne vous y trompez pas : nous vendons encore plus de vingt mille livres physique
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-10/telechargements-gratuits-du-livre-durantia-sur-urantiaorg)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

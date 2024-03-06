@@ -57,6 +57,7 @@ Antonio pense que _Le Livre d’Urantia_ est très important pour le monde. Si t
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-12/el-libro-de-urantia-edicion-europea-l-edition-espagnole-europeenne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

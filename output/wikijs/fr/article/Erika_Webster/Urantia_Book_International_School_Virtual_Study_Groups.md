@@ -67,6 +67,7 @@ Le prochain groupe d’étude sera offert en anglais lors du trimestre d’avril
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-03/les-groupes-detude-virtuels-de-lecole-internationale-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

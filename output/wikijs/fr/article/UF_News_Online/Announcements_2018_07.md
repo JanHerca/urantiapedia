@@ -57,6 +57,7 @@ La session estivale se tiendra du 19 au 22 juillet, précédée par une retraite
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-07/mise-jour-de-lapplication-apple-du-livre-durantia) et [cet article](https://www.urantia.org/fr/news/2018-07/la-session-estivale-de-2018-de-la-fellowship-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

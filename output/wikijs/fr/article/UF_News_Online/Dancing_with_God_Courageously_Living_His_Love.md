@@ -63,6 +63,7 @@ La Vision des Filles de Dieu : Toucher le cœur des femmes en explorant la digni
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/danser-avec-dieu-vivre-courageusement-son-amour)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

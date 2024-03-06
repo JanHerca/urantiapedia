@@ -71,6 +71,7 @@ Le coût pour trois jours est de $ 250.00 et comprend tous les repas et le logem
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-06/la-revision-russe-disponible-en-ligne-maintenant), [cet article](https://www.urantia.org/news/2019-06/new-search-engine-urantia-book-urantiaorg) et [cet article](https://www.urantia.org/fr/news/2019-06/danser-avec-dieu-notre-appel-supreme)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

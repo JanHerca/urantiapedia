@@ -68,6 +68,7 @@ Aujourd’hui, Lee est un père fier de ses cinq magnifiques enfants. Il est un 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-01/partager-le-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

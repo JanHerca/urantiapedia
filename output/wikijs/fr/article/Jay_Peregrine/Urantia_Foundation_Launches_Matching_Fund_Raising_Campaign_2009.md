@@ -57,6 +57,7 @@ Ou sur http://urantia.org/donate
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2009-12/urantia-foundation-launches-matching-fund-raising-campaign-2009)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -60,6 +60,7 @@ J’encourage les lecteurs du _Livre d’Urantia_ du monde entier à participer 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-06/pensees-quand-les-ponts-furent-jetes)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -55,6 +55,7 @@ Le symposium sera tenu à la Fondation Urantia à Chicago, Illinois, États-Unis
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-09/il-est-encore-temps-de-soumettre-une-proposition-pour-le-symposium-de-la-science-iii)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

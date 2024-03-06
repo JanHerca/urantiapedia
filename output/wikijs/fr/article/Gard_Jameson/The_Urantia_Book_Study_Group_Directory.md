@@ -52,6 +52,7 @@ Lors de la Session d’étude d’été de la Fellowship du Livre d’Urantia à
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-09/le-repertoire-des-groupes-detude-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

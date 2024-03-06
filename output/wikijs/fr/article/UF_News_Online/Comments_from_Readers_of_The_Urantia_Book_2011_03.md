@@ -70,6 +70,7 @@ Lorsque nous observons le déroulement de la vie sur Urantia, efforçons-nous au
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-03/que-signifie-le-livre-drsquourantia-pour-moi) et [cet article](https://www.urantia.org/fr/news/2011-03/tranquilite)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

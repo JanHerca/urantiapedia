@@ -90,6 +90,7 @@ Nos gains d’investissement en 2018, ont varié avec les performances du march�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-10/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-de-juillet)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

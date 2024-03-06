@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -36,7 +35,6 @@ L'Épilogue en Éternité est présenté en trois parties:
 - [Deuxième Épilogue — Les Profondeurs de l'Âge Final](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_2)
 - [Troisième Épilogue — Après la Fin des Fins](/fr/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Epilogue_3)— Nous terminerons comme nous avons commencé, avec l'Infini.
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

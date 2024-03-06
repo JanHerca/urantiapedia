@@ -72,6 +72,7 @@ J’ai si souvent, de manières variées, discuté le même thème : le besoin d
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-03/le-secret-d-une-civilisation-meilleure)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

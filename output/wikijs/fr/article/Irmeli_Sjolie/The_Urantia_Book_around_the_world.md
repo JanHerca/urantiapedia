@@ -108,6 +108,7 @@ Ils ont mis les livres dans la section « christianisme » à côté du dernier 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-03/le-livre-durantia-travers-le-monde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

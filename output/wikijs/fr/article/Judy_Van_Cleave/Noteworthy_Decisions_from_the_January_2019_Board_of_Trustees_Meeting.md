@@ -131,6 +131,7 @@ En 2015, ils placèrent des livres dans la partie nord des Philippines avec l’
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-04/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-de-janvier)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

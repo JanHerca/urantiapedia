@@ -83,6 +83,7 @@ Ce fut un cadeau du ciel, que les circonstances de ma vie et les anges, mirent s
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-09/lheritage-durable-de-deux-grands-enseignants)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

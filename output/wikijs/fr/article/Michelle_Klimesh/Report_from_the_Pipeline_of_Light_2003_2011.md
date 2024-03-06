@@ -64,6 +64,7 @@ J’apprécie profondément les efforts continuels des volontaires du Pipeline e
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-09/compte-rendu-sur-le-pipeline-de-lumiere-2003-2011)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -64,6 +64,7 @@ Les vidéos peuvent être consultées à http://www.urantia.orq/urantia-book-vid
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2013-12/filmmakers-approach-promoting-urantia-book)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

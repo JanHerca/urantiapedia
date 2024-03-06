@@ -91,6 +91,7 @@ Ce fut plus tard, ce jour là, que Carolyn s’éteignît, sa famille à ses cô
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-12/en-souvenir-de-carolyn-kendall)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -62,6 +62,7 @@ _Par Mo Siegel, Fondation Urantia, Colorado, Etats-Unis_
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-06/points-d-interets-des-decisions-de-la-reunion-du-conseil-d-administration-d-avril-2009)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -91,6 +91,7 @@ Heureusement, cette collaboration continuera de produire des fruits, peut-être 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-03/les-grecs-investigateurs-une-chronique-sur-la-traduction-grecque-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

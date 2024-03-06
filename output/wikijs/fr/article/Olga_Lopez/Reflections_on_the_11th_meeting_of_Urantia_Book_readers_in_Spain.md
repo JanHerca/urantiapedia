@@ -83,6 +83,7 @@ Siempre adelante !
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-06/reflexions-sur-la-11eme-reunion-des-lecteurs-du-livre-durantia-en-espagne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

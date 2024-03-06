@@ -59,6 +59,7 @@ Puisse Seattle devenir, encore une fois, une lumière éclatante pour les activi
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-12/un-rapport-sur-le-rassemblement-de-seattle-hempfest)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

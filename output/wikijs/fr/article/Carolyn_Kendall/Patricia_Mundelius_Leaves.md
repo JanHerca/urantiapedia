@@ -61,6 +61,7 @@ Pat a quitté le conseil d'administration en 1997, mais a accepté de revenir en
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -71,6 +71,7 @@ Alors que nous prions sincèrement pour que ces merveilleux journaux trouvent le
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -88,6 +88,7 @@ Pour plus d’informations, ou pour vous inscrire, visitez [https://parliamentof
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-10/la-fondation-urantia-participera-au-parlement-des-religions-du-monde-de-2018)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

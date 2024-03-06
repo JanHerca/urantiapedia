@@ -68,6 +68,7 @@ Puisse l’amour de notre Père céleste vous combler ainsi que votre famille de
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-12/la-garantie-des-promesses-inebranlables-de-dieu)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

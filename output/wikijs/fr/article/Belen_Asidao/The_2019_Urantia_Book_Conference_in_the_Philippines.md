@@ -94,6 +94,7 @@ Nous remercions chaque personne du mouvement Urantia pour votre soutien. Par lâ€
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-04/la-conference-du-livre-durantia-2019-aux-philippines)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

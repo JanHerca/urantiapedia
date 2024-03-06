@@ -79,6 +79,7 @@ On ne peut pas s'empêcher de se sentir bénis d'avoir fait partie de cela, notr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-11/impressions-sur-la-table-ronde-dinformation-technologique)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

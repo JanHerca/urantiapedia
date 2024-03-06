@@ -64,6 +64,7 @@ Lorsque je repense aux années 1990, lorsque j'étais président des administrat
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

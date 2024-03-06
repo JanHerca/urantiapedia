@@ -67,6 +67,7 @@ Durant ce séminaire, Gard et moi dirigerons une réunion de personnes qui liron
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-06/que-peut-il-emerger-de-la-philosophie-de-vie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

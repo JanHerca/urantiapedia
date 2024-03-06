@@ -78,6 +78,7 @@ Veuillez contacter la Fondation Urantia pour plus d'informations sur la campagne
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

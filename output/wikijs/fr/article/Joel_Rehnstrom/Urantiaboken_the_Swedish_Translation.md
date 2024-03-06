@@ -82,6 +82,7 @@ Je suis né en 1931 et ai grandi dans le sud de la Finlande comme membre de la m
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-12/urantiaboken-la-traduction-suedoise)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

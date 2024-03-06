@@ -70,6 +70,7 @@ Les gens ont demandé impatiemment quand le prochain événement de 24h aura lie
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-06/le-deuxieme-evenement-de-24-heures-en-ligne-de-lassociation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

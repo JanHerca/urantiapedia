@@ -72,6 +72,7 @@ Comme Jerry l’exprima après son retour, « Le Parlement des Religions du Mon
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-10/le-parlement-des-religions-du-monde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

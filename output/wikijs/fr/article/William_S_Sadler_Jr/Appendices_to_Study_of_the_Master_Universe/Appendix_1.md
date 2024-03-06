@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -148,7 +147,6 @@ Concernant sa présence à l’extérieur de Havona, Dieu continue à cacher son
 Ainsi, nous venons de raconter l’histoire du commencement de toutes choses à l’envers, et c’est encore plein de bon sens. Nous avons établi le fait que l’histoire de l’Origine de la réalité puisse être racontée en commençant par les Potentiels et en terminant par les Actuels, ou encore qu’elle puisse tout aussi bien être dite en commençant par les Actuels et en finissant par les Potentiels. Mais ceci ne pourrait guère être «une séquence temporelle» factuelle dans l’une ou l’autre de ces narrations, et c’est sans doute pourquoi l’histoire peut être racontée dans l’une ou l’autre séquence et avoir une signification. Cela peut être une «séquence conceptuelle», mais ce ne pourrait guère être une «séquence factuelle» dans l’histoire du déroulement des évènements dans l’éternité passée.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

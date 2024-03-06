@@ -65,6 +65,7 @@ Rejoignez-nous, s’il vous plaît, et pensez à laisser un don planifié pour l
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/le-fonds-de-dotation-du-pont-de-la-revelation-securiser-le-futur-du-livre-durantia-et)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

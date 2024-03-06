@@ -99,6 +99,7 @@ Nous étions maintenant en route vers Fort Lauderdale, en Floride, à la fin d�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-07/le-journal-dun-voyage-semer-des-livres-durantia-dans-les-caraibes)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

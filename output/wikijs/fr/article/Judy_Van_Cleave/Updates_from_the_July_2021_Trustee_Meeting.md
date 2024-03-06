@@ -113,6 +113,7 @@ Le traducteur du _Livre d’Urantia_ en farsi, Hamid Mazdeh, a rejoint la réuni
 - [Cet article](https://www.urantia.org/fr/news/2021-09/actualisations-de-la-reunion-des-trustees-de-juillet-2021)
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

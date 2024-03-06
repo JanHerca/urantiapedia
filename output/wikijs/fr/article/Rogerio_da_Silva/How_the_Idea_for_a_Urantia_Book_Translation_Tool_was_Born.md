@@ -66,6 +66,7 @@ En 2009, lors de la conférence de l'Association Urantia Internationale à Malag
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-03/comment-lidee-dun-outil-de-traduction-pour-le-livre-durantia-vit-le-jour)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

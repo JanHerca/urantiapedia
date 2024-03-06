@@ -58,6 +58,7 @@ A long terme, il espère optimaliser les ventes et la distribution des traductio
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-12/henk-mylanus-nouveau-trustee-associe-et-directeur-europeen-des-ventes)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

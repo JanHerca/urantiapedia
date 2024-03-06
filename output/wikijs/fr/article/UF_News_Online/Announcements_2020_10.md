@@ -59,6 +59,7 @@ Ces vidéos sont maintenant disponibles en [anglais](https://www.urantia.org/ura
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-10/les-pensees-mediter-en-francais), [cet article](https://www.urantia.org/fr/news/2020-10/moteur-de-recherche-en-indonesien) y [este artículo](https://www.urantia.org/fr/news/2020-10/cette-petite-lumiere-qui-est-la-mienne-en-videos)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

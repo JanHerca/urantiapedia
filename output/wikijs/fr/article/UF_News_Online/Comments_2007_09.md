@@ -77,6 +77,7 @@ Cheryl Glicker, Milford Study Group, (États-Unis)
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

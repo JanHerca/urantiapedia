@@ -69,6 +69,7 @@ Nous unir dans la diffusion de la cinquième révélation d’époque est, je cr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-12/matthieu-le-collecteur-dargent)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

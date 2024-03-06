@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -175,7 +174,6 @@ Lorsque la totalité de l’univers local sera ancrée dans la lumière et la vi
 Il y a un septième stade de développement relatif à la fois au Fils Créateur <a id="s174_77"></a>[LU 21:3.11](/fr/The_Urantia_Book/21#p3_11) et à l’Esprit Créatif <a id="s174_143"></a>[LU 17:6.10](/fr/The_Urantia_Book/17#p6_10), mais ce stade se rapporte probablement à des évènements au-delà de l’horizon du présent âge de l’univers. (Notre étude concernant l’évolution future des Fils et des Esprits de l’univers se continue dans l’[appendice XIII](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_13).)
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

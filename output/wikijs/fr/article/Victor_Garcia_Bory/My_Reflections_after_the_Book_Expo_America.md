@@ -81,6 +81,7 @@ Rappelons-nous que, « En liaison avec Dieu, rien – absolument rien – n’es
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-06/mes-pensees-sur-le-salon-americain-du-livre)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

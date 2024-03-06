@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -155,7 +154,6 @@ Les Architectes ne sont pas des créateurs, ce ne sont pas non plus des créatur
 (Voir [Appendice III. Niveaux d’Espace du Maitre Univers](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_3), [Appendice XV. Maitres Architectes et Transcendantaux](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_15))
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -58,6 +58,7 @@ Globalement, ce fut un été merveilleux pour étudier et pour faire avancer la 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-09/les-lecteurs-du-livre-d-urantia-etudierent-ensemble-cet-ete)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

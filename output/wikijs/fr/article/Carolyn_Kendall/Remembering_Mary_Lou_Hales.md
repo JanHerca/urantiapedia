@@ -62,6 +62,7 @@ Mary Lou a été reconnue comme une vraie dame, une personnalité chaleureuse et
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/la-memoire-de-mary-lou-hales)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

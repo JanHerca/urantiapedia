@@ -66,6 +66,7 @@ Je suis impatient de te revoir en haut, frère Steve, dans l’aventure éternel
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-06/steve-dreier-un-hommage)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -86,6 +86,7 @@ Mieux vaut tard que jamais!
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-03/la-recherche-dun-distributeur-en-hongrie-pour-la-traduction-hongroise-az-urantia-konyv)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

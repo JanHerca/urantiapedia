@@ -86,6 +86,7 @@ Visitez s’il vous plaît, notre site et apprenez-en plus à notre sujet à [Co
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-06/cosmiccreations-notre-projet-de-service)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

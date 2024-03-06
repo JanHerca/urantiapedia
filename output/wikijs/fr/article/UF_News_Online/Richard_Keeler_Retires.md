@@ -87,6 +87,7 @@ Amen !
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-07/richard-keeler-prend-sa-retraite)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

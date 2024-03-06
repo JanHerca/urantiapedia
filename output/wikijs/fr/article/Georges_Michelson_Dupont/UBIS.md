@@ -83,6 +83,7 @@ Si vous avez des questions ou de l’intérêt pour ce projet, n’hésitez pas 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2008-09/ubiscelebrating-10-years-dedicated-service-urantia-book-community)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

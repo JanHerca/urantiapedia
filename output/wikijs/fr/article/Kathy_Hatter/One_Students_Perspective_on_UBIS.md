@@ -70,6 +70,7 @@ J’ai hâte de prendre beaucoup plus de cours. Je suis reconnaissante au _Livre
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-09/le-point-de-vue-dun-etudiant-sur-ubis)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

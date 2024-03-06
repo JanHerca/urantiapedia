@@ -66,6 +66,7 @@ Notre but est de motiver de nouveaux et anciens étudiants à utiliser la nouvel
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-06/mon-experience-avec-la-revision-espagnole)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

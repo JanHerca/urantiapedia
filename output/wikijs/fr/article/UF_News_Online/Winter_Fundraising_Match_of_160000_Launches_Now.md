@@ -72,6 +72,7 @@ Cliquez ici pour faire un don : [https://www.urantia.org/donate/online-donations
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-11/la-campagne-de-collecte-de-fonds-egalisation-de-160-000-commence-maintenant)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

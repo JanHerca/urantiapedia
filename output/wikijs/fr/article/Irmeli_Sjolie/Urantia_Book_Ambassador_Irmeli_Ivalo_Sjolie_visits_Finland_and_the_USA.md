@@ -79,6 +79,7 @@ Irmeli fait équipe avec Rod Hollande de Dallas, au Texas, en plaçant des Livre
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-09/lambassadrice-du-livre-durantia-irmeli-ivalo-sjolie-visite-la-finlande-et-les-etats)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

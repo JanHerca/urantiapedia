@@ -67,6 +67,7 @@ Encore une fois, merci beaucoup pour l'amour, le soutien et la générosité. Qu
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-06/tournee-repandre-la-bonne-nouvelle)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

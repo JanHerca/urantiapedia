@@ -105,6 +105,7 @@ J’espère que ce retour réconfortant vous donnera un aperçu du terrain ferti
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-12/la-conference-chinoise-provoque-de-lenthousiasme-pour-le-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

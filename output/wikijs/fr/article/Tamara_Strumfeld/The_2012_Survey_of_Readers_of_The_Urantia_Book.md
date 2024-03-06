@@ -108,6 +108,7 @@ Si vous souhaitez recevoir les résultats complets de ce sondage, vous pouvez m'
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-03/lenquete-de-2012-sur-les-lecteurs-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -74,6 +74,7 @@ Ce qui me tient le plus à cœur est de lire _Le Livre d’Urantia_ avec Joanne 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-06/ce-que-le-livre-durantia-represente-pour-moi-par-graciela-cristina-benedetti) et [cet article](https://www.urantia.org/fr/news/2012-06/la-perfection-du-livre)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

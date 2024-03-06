@@ -78,6 +78,7 @@ L’acte de répondre aux questions et réponses de Jésus était une expérienc
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-09/lexperience-dadoration-sss15)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

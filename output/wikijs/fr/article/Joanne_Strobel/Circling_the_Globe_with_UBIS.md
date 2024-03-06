@@ -58,6 +58,7 @@ Si vous n’avez jamais pris un cours avec UBIS, je vous invite à le faire ! L
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-01/faire-le-tour-du-monde-avec-ubis)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -62,6 +62,7 @@ Irmeli à Helsinki avec le propriétaire du Book Shop Era Nova. On peut y trouve
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-06/irmeli-ivalo-sjolie-ambassadrice-du-livre-en-action)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

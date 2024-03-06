@@ -63,6 +63,7 @@ UBIS est en vérité et en fait, une aventure exaltante. Georges, les trustees e
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-09/dorothy-elder-passe-la-flambeau-de-la-direction-dubis)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

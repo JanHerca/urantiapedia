@@ -89,6 +89,7 @@ Production : Truthbook.com Illustration : « Jeune femme lisant un livre » de P
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -133,7 +132,6 @@ De tout ceci, nous concluons que le cosmos infini est incompréhensible d’un p
 Le premier univers (Havona) est le meilleur exemple avec lequel nous pouvons comparer l’univers Final (le cosmos infini). Havona est la thèse existentielle de la perfection absolue, proposée par le Père Universel et le Fils Éternel, et créativement consommée par l’émergence trinitisée de l’Acteur Conjoint. Le cosmos infini semblerait être la thèse expérientielle de la perfection coabsolue, proposée par l’Être Suprême et Dieu l’Ultime, et créativement amorcée par l’émergence trinitisée de Dieu l’Absolu.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

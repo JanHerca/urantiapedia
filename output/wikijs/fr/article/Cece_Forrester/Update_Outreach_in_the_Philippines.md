@@ -107,6 +107,7 @@ En regardant ce qu’ils ont accompli durant leur voyage de 2018, leurs buts amb
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-10/mise-jour-sensibilisation-aux-philippines)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

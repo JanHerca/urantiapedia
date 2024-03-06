@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -120,7 +119,6 @@ Il semble que nous, mortels, même maintenant, avons le type d’équipement qui
 En dernière analyse, les Ajusteurs de pensée sont le don du «Dieu absolu» à ses enfants qui ont la destinée potentielle d’atteindre «Dieu en tant qu’absolu» <a id="s119_157"></a>[LU 107:1.6](/fr/The_Urantia_Book/107#p1_6).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

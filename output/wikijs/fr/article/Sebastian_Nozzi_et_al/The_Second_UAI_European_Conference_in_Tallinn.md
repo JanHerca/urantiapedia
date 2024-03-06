@@ -129,6 +129,7 @@ Pour beaucoup d’européens, c’était leur première fois à une conférence 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-09/la-seconde-conference-europeenne-de-laui-tallinn)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

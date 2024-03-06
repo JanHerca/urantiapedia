@@ -86,6 +86,7 @@ UPI est reconnaissant du soutien financier qu'il a reçu du Programme de Subvent
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-10/lamour-contagieux-une-graine-de-moutarde-croit-au-nigeria)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

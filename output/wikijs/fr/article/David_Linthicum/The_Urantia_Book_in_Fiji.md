@@ -68,6 +68,7 @@ C’est vraiment très gratifiant de voir l’enthousiasme des personnes autour 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/urantia-book-in-fijile-livre-durantia-aux-iles-fidji)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

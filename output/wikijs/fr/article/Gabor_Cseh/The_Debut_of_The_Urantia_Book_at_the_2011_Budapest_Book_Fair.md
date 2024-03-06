@@ -58,6 +58,7 @@ La présentation du livre à la foire n’aurait pas été possible sans l’aid
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-06/les-debuts-du-livre-d-urantia-la-foire-du-livre-de-2011-budapest)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

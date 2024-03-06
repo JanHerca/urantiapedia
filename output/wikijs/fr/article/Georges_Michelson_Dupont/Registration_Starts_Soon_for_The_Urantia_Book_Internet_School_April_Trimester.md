@@ -60,6 +60,7 @@ Pour toutes questions ou informations supplémentaires à propos des cours, écr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-03/lenregistrement-pour-le-trimestre-davril-de-lecole-internet-du-livre-durantia-debutera)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

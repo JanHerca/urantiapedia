@@ -116,6 +116,7 @@ Après cinq ans de service inlassable, Olga López de Barcelone, en Espagne, a q
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-11/decisions-marquantes-de-la-reunion-doctobre-2012-du-conseil-dadministration)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -95,6 +95,7 @@ Francfort, en Allemagne, les lecteurs allemands du Livre d’Urantia ont tenu le
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-03/travers-le-monde-avec-lambassadrice-du-livre-durantia-irmeli-ivalo-sjolie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

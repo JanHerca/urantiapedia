@@ -91,6 +91,7 @@ Le traducteur en Farsi a terminé plusieurs nouveaux fascicules depuis que les d
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-03/la-fondation-urantia-presente-le-symposium-de-la-science-iii-0), [cet article](https://www.urantia.org/fr/news/2022-03/la-session-detude-estivale-de-2022) et [cet article](https://www.urantia.org/fr/news/2022-03/un-actualisation-de-la-traduction-en-farsi-khtb-ywrnshy)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

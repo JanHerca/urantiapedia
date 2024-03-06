@@ -59,6 +59,7 @@ Line St-Pierre est québécoise, née à Laval, au Québec, Canada. Elle est mar
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-06/deux-nouvelles-nominations-line-st-pierre-share-beasley)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

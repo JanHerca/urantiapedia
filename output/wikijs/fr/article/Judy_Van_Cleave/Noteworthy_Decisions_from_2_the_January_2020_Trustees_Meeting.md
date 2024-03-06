@@ -94,6 +94,7 @@ Voici les objectifs prioritaires sur cinq ans :
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-04/decisions-importantes-de-la-reunion-des-trustees-de-janvier-2020)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

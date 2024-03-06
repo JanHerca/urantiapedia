@@ -64,6 +64,7 @@ Cette nouvelle activité sera indépendante de la Fondation Urantia et séparée
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

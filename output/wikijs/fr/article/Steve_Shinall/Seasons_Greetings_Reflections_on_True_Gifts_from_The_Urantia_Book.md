@@ -97,6 +97,7 @@ Pour en savoir plus sur son histoire, [cliquez ici](https://www.urantia.org/news
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-12/joyeuses-fetes-reflexions-sur-les-vrais-cadeaux-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

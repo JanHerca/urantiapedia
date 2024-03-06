@@ -56,6 +56,7 @@ La campagne de collecte de fonds à égalisation finit le 31 décembre 2008 . Co
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-12/la-fondation-urantia-lance-la-campagne-de-collecte-de-fonds-egalisation-de-2008)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

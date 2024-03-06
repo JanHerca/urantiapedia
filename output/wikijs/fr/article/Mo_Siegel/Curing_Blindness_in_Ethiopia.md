@@ -118,6 +118,7 @@ S’il y a un message que je voudrais vous laisser, c’est que vous visionniez 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-12/guerir-la-cecite-en-ethiopie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

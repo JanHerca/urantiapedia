@@ -59,6 +59,7 @@ Nous espérons en apprendre plus de ce comité, lorsque nos idées évolueront d
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-04/le-comite-de-sensibilisation-de-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

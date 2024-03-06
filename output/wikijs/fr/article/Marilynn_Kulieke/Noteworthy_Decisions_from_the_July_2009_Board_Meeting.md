@@ -126,6 +126,7 @@ Les Trustees Associés : Jan Bernard, Marta Elders, Irmeli Ivalo-Sjölie, Olga L
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-09/decisions-du-conseil-d-administration-la-reunion-de-juillet-2009)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

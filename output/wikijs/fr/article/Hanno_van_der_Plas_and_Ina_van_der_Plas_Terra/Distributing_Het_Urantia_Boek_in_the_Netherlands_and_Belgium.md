@@ -62,6 +62,7 @@ De nombreux lecteurs ont dit avoir été profondément touchés par _Le Livre d�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-06/la-distribution-du-livre-durantia-aux-pays-bas-et-en-belgique)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

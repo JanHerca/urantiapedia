@@ -131,6 +131,7 @@ Le Conseil a décidé de créer un comité ad hoc de six membres sur le texte in
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

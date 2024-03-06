@@ -87,6 +87,7 @@ Je trouve que de distribuer _Le Livre d’Urantia_ vaut la peine et est enrichis
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-06/semer-le-livre-durantia-aux-philippines-troisieme-voyage)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

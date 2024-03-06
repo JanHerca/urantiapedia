@@ -68,6 +68,7 @@ Entre les ateliers, il y avait beaucoup de temps pour socialiser et voir la vill
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-12/la-conference-europeenne-urantia-de-2016-budapest-qui-est-jesus)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

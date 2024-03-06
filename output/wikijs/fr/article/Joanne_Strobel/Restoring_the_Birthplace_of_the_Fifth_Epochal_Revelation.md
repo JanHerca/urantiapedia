@@ -100,6 +100,7 @@ En rien de temps, décembre arriva. La rénovation était terminée; la métamor
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-03/renovation-de-la-maison-natale-de-la-cinquieme-revelation-depoque)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

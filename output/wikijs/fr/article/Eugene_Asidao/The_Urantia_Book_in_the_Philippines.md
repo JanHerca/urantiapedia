@@ -67,6 +67,7 @@ Nous devons aussi favoriser l’intérêt des personnes pour le livre en les enc
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-07/le-livre-durantia-aux-philippines)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

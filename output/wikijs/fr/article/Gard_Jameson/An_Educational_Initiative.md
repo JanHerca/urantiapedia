@@ -84,6 +84,7 @@ Bien qu’aucune conclusion définitive n’ait été tirée, il était passionn
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

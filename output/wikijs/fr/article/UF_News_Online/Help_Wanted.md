@@ -83,6 +83,7 @@ S’il vous plaît contacter la Fondation Urantia à [tamara@urantia.org.](mailt
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-09/aide-demandee-hebreu), [cet article](https://www.urantia.org/fr/news/2013-09/aide-demandee-farsi) et [cet article](https://www.urantia.org/fr/news/2013-09/aide-demandee-chinois)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

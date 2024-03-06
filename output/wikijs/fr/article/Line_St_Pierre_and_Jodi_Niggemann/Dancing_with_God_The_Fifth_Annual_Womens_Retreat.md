@@ -94,6 +94,7 @@ Je ne sais pas, comment Dieu veut tisser nos vies ensemble, dans le futur, mais 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-12/danser-avec-dieu-la-cinquieme-retraite-annuelle-des-femmes)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

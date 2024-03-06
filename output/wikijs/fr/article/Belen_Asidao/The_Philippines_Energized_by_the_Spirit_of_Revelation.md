@@ -95,6 +95,7 @@ Avant tout, les lecteurs du _Livre d’Urantia_ aux Philippines étaient dynamis
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-10/les-philippines-vivifiees-par-lesprit-de-revelation)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

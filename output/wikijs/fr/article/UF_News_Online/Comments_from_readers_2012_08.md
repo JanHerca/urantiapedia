@@ -104,6 +104,7 @@ Ces quelques mots commencent juste à décrire :
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/je-sais-que-dieu-est-mon-pere) et [cet article](https://www.urantia.org/fr/news/2012-08/ce-que-le-livre-durantia-represente-pour-moi-par-angela-thurston)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

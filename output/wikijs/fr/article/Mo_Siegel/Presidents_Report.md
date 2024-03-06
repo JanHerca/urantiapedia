@@ -148,6 +148,7 @@ Les dépenses de fonctionnement ont dépassé le budget au 1<sup>er</sup> semest
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-09/le-rapport-du-president)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

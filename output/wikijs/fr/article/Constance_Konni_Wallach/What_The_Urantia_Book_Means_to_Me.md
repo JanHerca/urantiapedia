@@ -74,6 +74,7 @@ Quel cadeau ce livre fut à lire et à agir en conséquence ! Il a agrandi mon 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-10/ce-que-le-livre-durantia-signifie-pour-moi-constance-konni-wallach)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

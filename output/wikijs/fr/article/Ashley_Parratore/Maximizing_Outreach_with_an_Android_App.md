@@ -71,6 +71,7 @@ Cette application sera lancée à la fin de l’année, et nous sommes convaincu
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-09/maximiser-la-sensibilisation-par-une-application-androide)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -70,6 +70,7 @@ Les anciennes et nouvelles archives, ainsi que les informations sur les donation
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-10/la-societe-historique-du-livre-durantia-de-nouvelles-archives)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

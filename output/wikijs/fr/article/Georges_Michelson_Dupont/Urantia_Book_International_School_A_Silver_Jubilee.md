@@ -76,6 +76,7 @@ Pour conclure, je remercie tous ceux qui participent actuellement à la réalisa
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-12/ecole-internationale-du-livre-durantia-jubile-dargent)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

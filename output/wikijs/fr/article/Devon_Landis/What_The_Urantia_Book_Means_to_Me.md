@@ -66,6 +66,7 @@ En ce moment, ma tentative littéraire se concentre sur la lecture de la _Bible_
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-03/quest-ce-que-le-livre-durantia-signifie-pour-moi)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

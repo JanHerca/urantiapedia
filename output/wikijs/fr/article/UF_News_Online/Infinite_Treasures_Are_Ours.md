@@ -62,6 +62,7 @@ Puissiez-vous et vos proches bénéficier d’une joie, d’une paix et d’une 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2020-12/infinite-treasures-are-ours)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

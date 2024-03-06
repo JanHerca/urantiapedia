@@ -80,6 +80,7 @@ Suzana travaille avec Luiz Carlos depuis le début du projet il y a plus de dix 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

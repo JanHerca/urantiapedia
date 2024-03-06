@@ -60,6 +60,7 @@ Donc, avec le plus sincère enthousiasme, je vous encourage à visiter ic14.org 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-03/preparation-de-ma-premiere-conference-internationale)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

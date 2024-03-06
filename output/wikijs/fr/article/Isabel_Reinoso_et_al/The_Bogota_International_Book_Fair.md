@@ -83,6 +83,7 @@ Ce fut un privilège et un grand plaisir de tenir le stand et d’être au servi
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-06/le-salon-international-du-livre-bogota)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

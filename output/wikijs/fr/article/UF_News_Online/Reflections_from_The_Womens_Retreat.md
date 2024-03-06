@@ -106,6 +106,7 @@ Line St-Pierre, Québec, Canada
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-12/reflexions-sur-la-retraite-pour-les-femmes)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

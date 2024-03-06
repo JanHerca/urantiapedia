@@ -83,6 +83,7 @@ Tout en réalisant la traduction, Gosia fit souvent la remarque que si notre tra
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-03/ksiega-urantii-comment-la-traduction-polonaise-vu-le-jour)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

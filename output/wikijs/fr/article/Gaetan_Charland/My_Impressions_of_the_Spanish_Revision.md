@@ -69,6 +69,7 @@ Pendant mon vol de retour chez moi, je ressentis un sens du devoir renouvelé en
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-12/mes-impressions-sur-la-revision-espagnole)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -65,6 +65,7 @@ Ce programme de subventions fut créé pour apporter de l’aide financière aux
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-12/la-traduction-farsi) et [cet article](https://www.urantia.org/fr/news/2022-12/le-programme-de-la-graine-de-moutarde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

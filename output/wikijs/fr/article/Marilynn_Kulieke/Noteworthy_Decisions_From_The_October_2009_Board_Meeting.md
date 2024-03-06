@@ -116,6 +116,7 @@ http://itunes.apples.com/WebObjects/MZstore.woa/wa/viewSoftware?id=298474490&mt=
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-12/points-d-interet-des-decisions-du-conseil-d-administration-d-octobre-2009)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

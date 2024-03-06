@@ -105,6 +105,7 @@ _Note des rédactrices : le Trustee, Georges Michelson-Dupont, nous a fourni des
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-06/l-impression-du-el-libro-de-urantia-l-edition-europeenne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

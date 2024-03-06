@@ -65,6 +65,7 @@ Vous pouvez vous enregistrer pour la retraite alnsi que pour la conférence à w
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2017-03/dancing-god-emerging-in-sacredness)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

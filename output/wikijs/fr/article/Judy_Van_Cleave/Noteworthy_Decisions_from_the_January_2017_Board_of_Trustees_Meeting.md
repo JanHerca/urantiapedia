@@ -112,6 +112,7 @@ Le conseil d’administration a passé une résolution qui fixe obligatoirement 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-03/decisions-importantes-de-la-reunion-du-comite-dadministration-des-trustees-de-janvier)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

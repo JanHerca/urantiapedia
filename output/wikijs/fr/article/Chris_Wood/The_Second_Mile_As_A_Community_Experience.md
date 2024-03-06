@@ -85,6 +85,7 @@ cwesquire@hotmail.com
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-06/la-seconde-lieue-en-tant-qu-experience-communautaire)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

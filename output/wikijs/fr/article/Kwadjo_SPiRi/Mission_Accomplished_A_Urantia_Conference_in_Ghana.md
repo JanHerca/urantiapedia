@@ -156,6 +156,7 @@ Il y eut un buffet plus tard, et encore plus de socialisation et réellement not
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-03/mission-accomplie-une-conference-urantia-en-guinee)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

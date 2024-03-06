@@ -54,6 +54,7 @@ Tout le monde attend avec impatience la rencontre de l’année prochaine qui se
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-12/deuxieme-rencontre-des-lecteurs-du-livre-d-urantia-en-allemagne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

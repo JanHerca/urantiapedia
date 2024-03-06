@@ -60,6 +60,7 @@ Le livre me permit de mieux connaître Jésus. Il me montra de nouvelles et merv
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-06/lexperience-de-la-fraternite-internationale-par-le-livre-durantia-sur-internet)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

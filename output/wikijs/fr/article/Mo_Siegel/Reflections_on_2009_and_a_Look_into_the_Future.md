@@ -193,6 +193,7 @@ De la part du Conseil d’Administration Élargi et de notre équipe à Chicago 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-03/reflexions-sur-2009-et-un-regard-dans-le-futur)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -103,7 +102,6 @@ Dans la comparaison de Dieu le Septuple et des contrôleurs septuples, nous avon
 _Association des Organisateurs de Force et des Directeurs de Pouvoir._ Il y a, dans les fascicules, une justification à l’association projetée des Organisateurs de Force et des Directeurs de Pouvoir. Nous savons que les Frandalanks sont créés par les deux ordres <a id="s102_263"></a>[LU 29:4.35](/fr/The_Urantia_Book/29#p4_35), que les Maitres Contrôleurs Physiques sont répartis dans un superunivers par son Conseil d’Équilibre, et que ce Conseil est composé des Organisateurs Associés de Force <a id="s102_476"></a>[LU 29:4.2](/fr/The_Urantia_Book/29#p4_2).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

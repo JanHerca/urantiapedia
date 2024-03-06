@@ -91,6 +91,7 @@ Cet Index est un guide idéal pour être encore plus connecté au _Livre d’Ura
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-07/un-guide-competent-pour-la-voie-suivre-lindex-de-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

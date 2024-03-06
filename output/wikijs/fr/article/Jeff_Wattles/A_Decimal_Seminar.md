@@ -110,6 +110,7 @@ Il y aurait encore plus à dire, mais cela suffit pour montrer que le séminaire
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-06/un-seminaire-decimal)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

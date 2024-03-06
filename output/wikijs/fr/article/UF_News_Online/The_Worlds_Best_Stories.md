@@ -45,6 +45,7 @@ _Note de l’éditeur : Les Paraboles de Jésus, Enseignements Complets du Livr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-12/les-meilleures-histoires-du-monde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

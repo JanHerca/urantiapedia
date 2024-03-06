@@ -64,6 +64,7 @@ This special offer ends December 31, 2012
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2012-11/urantia-book-holiday-sale-give-gift-keeps-giving)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

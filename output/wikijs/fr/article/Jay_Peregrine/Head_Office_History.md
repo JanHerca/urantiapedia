@@ -71,6 +71,7 @@ Un examen des actes, dossiers et dessins originaux stockés dans un coffre-fort 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -62,6 +62,7 @@ Mon souhait est que de plus en plus de personnes « découvriront » ce livre 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-03/ce-que-le-livre-durantia-signifie-pour-moi-mirela-gradinariu-kelpin)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

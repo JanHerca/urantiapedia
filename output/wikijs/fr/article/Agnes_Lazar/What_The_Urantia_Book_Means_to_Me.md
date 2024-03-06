@@ -64,6 +64,7 @@ Je suis pleine de gratitude pour le voyage vers mon Père qui m’a mis sur la v
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-06/ce-que-le-livre-durantia-signifie-pour-moi-agnes-lazar)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

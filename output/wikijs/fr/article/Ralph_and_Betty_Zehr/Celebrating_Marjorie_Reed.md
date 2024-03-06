@@ -62,6 +62,7 @@ Bien qu’elle ne soit plus avec nous, son inspiration continue. Travaillons tou
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-07/hommage-marjorie-reed)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

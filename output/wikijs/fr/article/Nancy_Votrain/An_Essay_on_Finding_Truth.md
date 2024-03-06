@@ -66,6 +66,7 @@ Cet article reflète mon interprétation du _Livre d’Urantia_ ainsi que que me
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-12/un-essai-sur-la-decouverte-de-la-verite)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -73,6 +73,7 @@ Il est aussi un cadre idéal pour toute pensée non religieuse au sens humain, m
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-12/ce-que-le-livre-durantia-signifie-pour-moi-moustapha-ndiaye)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

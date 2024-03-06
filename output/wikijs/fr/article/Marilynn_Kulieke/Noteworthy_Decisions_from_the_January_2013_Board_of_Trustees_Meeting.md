@@ -94,6 +94,7 @@ Un certain nombre d'idées furent discutées en ce qui concerne les traductions 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-03/decisions-marquantes-de-la-reunion-du-conseil-dadministration-des-trustees-de-janvier)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

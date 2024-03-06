@@ -53,6 +53,7 @@ Nous apprécions profondément et avons besoin de votre aide. Vos paroles inspir
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

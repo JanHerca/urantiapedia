@@ -70,6 +70,7 @@ Leur service de sensibilisation me rappelle une de mes déclarations morontielle
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-03/le-livre-durantia-aux-philipinnes-une-mise-jour-dun-projet-de-sensibilisation)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

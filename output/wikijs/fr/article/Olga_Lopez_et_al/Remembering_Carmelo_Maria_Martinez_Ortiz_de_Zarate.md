@@ -103,6 +103,7 @@ Pour maintenant, mes prières, mon amour et mon soutien vont à sa femme Charo e
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-04/hommage-carmelo-maria-martinez-ortiz-de-zarate)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

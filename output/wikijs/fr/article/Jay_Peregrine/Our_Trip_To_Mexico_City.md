@@ -64,6 +64,7 @@ Mo et moi avons prévu de participer à la conférence de Mazatlan en mai, spons
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-03/notre-voyage-mexico)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -58,6 +58,7 @@ Quel plaisir et quel honneur que d'être un traducteur du _Livre d'Urantia_ et d
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-06/traduction-du-livre-durantia-en-farsi-lhistoire-inspirante-de-la-facon-dont-ce-projet)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

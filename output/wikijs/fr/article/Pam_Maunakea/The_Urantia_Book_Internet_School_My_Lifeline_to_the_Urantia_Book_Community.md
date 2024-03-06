@@ -60,6 +60,7 @@ UBIS m’a fourni un lien avec d’autres lecteurs. Mon implication en tant qu�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-06/l-ecole-internet-du-livre-d-urantia-mon-lien-avec-la-communaute-du-livre-d-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

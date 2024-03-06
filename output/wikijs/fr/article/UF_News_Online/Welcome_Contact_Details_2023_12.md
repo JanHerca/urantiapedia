@@ -102,6 +102,7 @@ Que le bien éternel de tes enfants mortels ne soit pas celui que nous souhaiton
 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

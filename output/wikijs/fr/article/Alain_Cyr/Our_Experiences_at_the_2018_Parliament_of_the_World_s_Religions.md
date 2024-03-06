@@ -78,6 +78,7 @@ J’ai passé sept jours sous le même toit, apprenant à connaître les croyanc
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-12/nos-experiences-au-parlement-des-religions-du-monde-de-2018)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

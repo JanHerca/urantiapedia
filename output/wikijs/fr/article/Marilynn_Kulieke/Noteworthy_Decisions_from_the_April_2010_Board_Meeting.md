@@ -160,6 +160,7 @@ Irmeli Ivalo-Sjölie et Olga López ont proposé de faire une réunion avec les 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-06/points-dinteret-des-decisions-de-la-reunion-du-conseil-dadministration-davril-2010)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

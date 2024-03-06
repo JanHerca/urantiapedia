@@ -115,6 +115,7 @@ Si nous étions en 2100, avec les traductions disponibles ci-dessus, 70 pour cen
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-12/un-regard-dans-le-futur)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

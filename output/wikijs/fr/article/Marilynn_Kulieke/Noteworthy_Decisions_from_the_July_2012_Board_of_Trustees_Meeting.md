@@ -93,6 +93,7 @@ Sandra Maria Burga-Cisneros Pizarro a été élue trustee associé. Sandra, née
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-de-juillet) et [cet article](https://www.urantia.org/fr/news/2012-08/election-dun-nouveau-trustee-associe-sandra-maria-burga-cisneros-pizarro)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

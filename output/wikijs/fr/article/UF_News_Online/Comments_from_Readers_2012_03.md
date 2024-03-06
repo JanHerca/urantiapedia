@@ -83,6 +83,7 @@ La troisième est pour moi l’expansion de la maturité et l’équivalent de l
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-03/comment-etre-un-enfant-de-dieu) et [cet article](https://www.urantia.org/fr/news/2012-03/un-moment-donne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

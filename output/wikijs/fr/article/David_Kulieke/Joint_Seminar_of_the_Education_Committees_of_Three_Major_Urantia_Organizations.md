@@ -81,6 +81,7 @@ Le 24 juillet, à IC’14, les comités ont tenu l’atelier qui avait été rev
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-09/seminaire-commun-des-comites-deducation-des-trois-grandes-organisations-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

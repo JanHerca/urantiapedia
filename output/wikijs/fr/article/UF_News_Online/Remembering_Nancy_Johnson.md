@@ -66,6 +66,7 @@ Cliquez ici pour en savoir plus sur le texte de référence standard : [https://
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-10/la-memoire-de-nancy-johnson)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

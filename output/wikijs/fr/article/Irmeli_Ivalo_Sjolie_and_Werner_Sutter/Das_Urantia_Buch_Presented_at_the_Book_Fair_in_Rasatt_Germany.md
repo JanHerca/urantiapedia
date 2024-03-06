@@ -52,6 +52,7 @@ _Ce fut une expérience agréable pour tous._
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-12/das-urantia-buch-presente-la-foire-du-livre-rasatt-en-allemagne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

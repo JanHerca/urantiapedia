@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -43,7 +42,6 @@ L'auteur est terriblement conscient des limitations du mental humain. Nous perce
 > «Toutes les fabulations des hommes au sujet de l'univers peuvent ne pas correspondre à des faits, mais elles contiennent une grande, une très grande part de vérité.»
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

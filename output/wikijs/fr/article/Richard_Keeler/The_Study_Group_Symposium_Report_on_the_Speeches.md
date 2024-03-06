@@ -112,6 +112,7 @@ Le symposium des groupes d’étude, qui débuta le jeudi matin, pris fin après
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-09/le-symposium-des-groupes-detude-un-compte-rendu-des-discours)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

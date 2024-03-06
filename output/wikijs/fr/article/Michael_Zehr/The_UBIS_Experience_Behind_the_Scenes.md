@@ -76,6 +76,7 @@ J’espère que vous avez aimé cette vue dans les coulisses de notre école. La
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-04/lexperience-ubis-dans-les-coulisses)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

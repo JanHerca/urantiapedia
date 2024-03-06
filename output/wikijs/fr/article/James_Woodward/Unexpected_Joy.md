@@ -79,6 +79,7 @@ Toute cette euphorie, l’éducation, la musique, la cérémonie, la chaleureuse
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-03/une-joie-inattendue)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

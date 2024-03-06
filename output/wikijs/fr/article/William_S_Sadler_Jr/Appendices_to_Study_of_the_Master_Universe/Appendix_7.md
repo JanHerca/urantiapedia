@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -257,7 +256,6 @@ La croissance post-suprême est suffisamment difficile à imaginer, mais la croi
 On nous dit <a id="s256_12"></a>[LU 0:5.2](/fr/The_Urantia_Book/0#p5_2) que le potentiel de changement et de croissance de la réalité non personnelle est «nettement limité», mais que nous ne connaissons aucune limite à la croissance progressive de la personnalité – à la croissance des créatures personnelles.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

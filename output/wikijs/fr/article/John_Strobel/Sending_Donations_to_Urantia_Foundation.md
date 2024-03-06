@@ -58,6 +58,7 @@ Bonjour, je m’appelle John Strobel et je suis sûr que vous connaissez ma femm
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-12/envoyer-des-dons-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

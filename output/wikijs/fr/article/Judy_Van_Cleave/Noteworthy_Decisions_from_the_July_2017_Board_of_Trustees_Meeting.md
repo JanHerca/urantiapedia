@@ -142,6 +142,7 @@ Si vous avez des questions au sujet de cette politique ou de l’usage des marqu
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-10/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-de-juillet)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

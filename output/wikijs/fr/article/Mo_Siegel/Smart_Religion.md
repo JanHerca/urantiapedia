@@ -66,6 +66,7 @@ Je ne sais pas si cette nouvelle approche fonctionne, mais c’est probable, don
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-09/la-religion-intelligente)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

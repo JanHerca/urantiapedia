@@ -57,6 +57,7 @@ Puis, vint une autre expérience remarquable, le Symposium des groupes d’étud
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2014-09/un-reve-qui-devient-realite-faire-lexperience-de-la-fondation-urantia-et-du-symposium)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

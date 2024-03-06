@@ -63,6 +63,7 @@ D'ailleurs, si vous n'avez jamais édité Wikipédia, je vous encourage à essay
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-06/wikipedia-et-le-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -72,6 +72,7 @@ _Par Marilynn Kulieke, secrétaire de la Fondation Urantia, Lincolnshire, Illino
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2012-06/noteworthy-decisions-april-2012-board-trustees-meeting)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

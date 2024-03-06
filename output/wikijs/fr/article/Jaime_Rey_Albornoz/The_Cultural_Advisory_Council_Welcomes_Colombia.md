@@ -71,6 +71,7 @@ Si l’on considère ce que la Fondation Urantia pourrait faire pour la Colombie
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-10/le-conseil-consultatif-culturel-recoit-la-colombie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

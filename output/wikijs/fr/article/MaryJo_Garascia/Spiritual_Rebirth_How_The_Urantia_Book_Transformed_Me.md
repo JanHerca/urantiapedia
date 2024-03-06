@@ -60,6 +60,7 @@ _Le Livre d’Urantia_ arriva dans ma vie à un moment où j’en avais le plus 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-06/renaissance-spirituelle-comment-le-livre-durantia-ma-transforme)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

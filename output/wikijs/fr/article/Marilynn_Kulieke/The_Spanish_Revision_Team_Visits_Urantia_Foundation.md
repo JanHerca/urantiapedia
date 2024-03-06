@@ -67,6 +67,7 @@ Même si nous n’avons pas donné à nos invités une expérience culinaire am�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-12/lequipe-de-la-revision-espagnole-rend-visite-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

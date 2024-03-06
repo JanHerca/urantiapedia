@@ -74,6 +74,7 @@ Nous espérons que cet outil en ligne sera un service utile à ceux qui soutienn
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-06/nouveau-site-web-pour-les-dons-planifies-sur-urantiaorg)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

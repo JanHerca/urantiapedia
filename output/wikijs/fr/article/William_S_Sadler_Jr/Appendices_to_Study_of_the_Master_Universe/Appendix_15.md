@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -318,7 +317,6 @@ Nous croyons que la capacité-de-réponse-de-l’univers réagira toujours à la
 Ce même principe demeure vrai, même en ce qui concerne la progression évolutionnaire des êtres humains: «Quand l’homme agit, le Suprême réagit, et cette opération constitue le fait de la progression» <a id="s317_200"></a>[LU 117:5.6](/fr/The_Urantia_Book/117#p5_6).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

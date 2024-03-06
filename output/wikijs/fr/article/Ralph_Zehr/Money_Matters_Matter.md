@@ -119,6 +119,7 @@ Si le Maître vous appelle, rappelez-vous de Matadormus et comment pour lui, les
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-12/les-affaires-dargent-ont-de-limportance)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

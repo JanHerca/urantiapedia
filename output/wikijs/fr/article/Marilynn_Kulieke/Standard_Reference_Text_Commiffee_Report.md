@@ -64,6 +64,7 @@ Si vous êtes intéressé à examiner le travail du Comité, contactez, s’il v
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-03/rapport-du-comite-du-texte-standard-de-reference)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

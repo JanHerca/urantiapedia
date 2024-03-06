@@ -88,6 +88,7 @@ Une heure avant que je parte pour attraper mon vol de retour chez moi, un petit 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-12/le-livre-durantia-au-parlement-des-religions-du-monde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

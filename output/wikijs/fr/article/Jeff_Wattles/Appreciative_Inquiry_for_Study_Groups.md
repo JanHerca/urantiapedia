@@ -64,6 +64,7 @@ Pour recevoir une copie des prospectus sur le processus des petits groupes, l'é
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-09/appreciative-inquiry-pour-les-groupes-detude)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

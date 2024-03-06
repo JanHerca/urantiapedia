@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -117,7 +116,6 @@ Nous sommes informés qu’il y a presque 18 billions de commissions de concilia
 _Le Conseil de Perfection du Paradis._ S’il y a 7 000 billions de Conciliateurs et seulement 400 billions dans le service superuniversel, où sont donc les 6 600 billions restants ? Apparemment, ils ont été diplômés du service des superunivers et ils ont été «…transférés au Conseil de Perfection du Paradis…» <a id="s116_309"></a>[LU 25:3.16](/fr/The_Urantia_Book/25#p3_16). Ce Conseil est en train d’être «…développé par l’Esprit Infini pour l’univers des univers…» <a id="s116_446"></a>[LU 25:3.16](/fr/The_Urantia_Book/25#p3_16). (Ce terme «univers des univers» n’a pas de signification précise, contrairement aux désignations «superunivers» ou «univers central». Nous pensons que, dans ce contexte, le terme «univers des univers» signifie le grand univers dans le présent âge, et qu’il se réfère au maitre univers pour les âges à venir.) Ici, nous avons l’évolution d’un groupe expérientiel qui a développé 49 points de vue expérientiels, points de vue qui peuvent être d’un grand service dans les (supposés) 49 domaines environnementaux du premier niveau d’espace extérieur. Et nous sommes informés que les citoyens du grand univers d’aujourd’hui se préparent déjà à faire face aux besoins et aux défis des univers d’espace extérieurs de demain <a id="s116_1208"></a>[LU 23:4.5](/fr/The_Urantia_Book/23#p4_5).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

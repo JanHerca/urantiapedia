@@ -77,6 +77,7 @@ En 2008, je fus invité par Gábor et eus le privilège de rejoindre l’équipe
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-12/la-reception-de-az-urantia-konyv-la-traduction-magyar-hongroise-du-livre-d-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

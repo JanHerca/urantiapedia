@@ -68,6 +68,7 @@ Il y aura un autre Symposium sur la Science et avec un peu de chance, nous n’a
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-12/le-symposium-de-la-science-de-2019)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

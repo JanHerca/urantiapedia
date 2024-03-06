@@ -102,6 +102,7 @@ Les déclarations suivantes furent émises par les membres de notre équipe :
 - [Cet article](https://www.urantia.org/fr/news/2016-06/la-revision-de-la-traduction-portugaise-du-livre-durantia)
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

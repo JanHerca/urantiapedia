@@ -67,6 +67,7 @@ Aidez, s’il vous plaît, à passer l’information à tous les lecteurs que vo
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-07/page-facebook-en-hongrois) et [cet article](https://www.urantia.org/fr/news/2022-07/la-traduction-en-arabe-est-maintenant-disponible-en-ligne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

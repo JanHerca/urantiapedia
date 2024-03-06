@@ -76,6 +76,7 @@ _Janet Falbo, Boca Raton, Floride, États-Unis_
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-09/ce-que-le-livre-d-urantia-signifie-pour-moi) et [cet article](https://www.urantia.org/fr/news/2011-09/tant-de-reponses-mes-questions)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -67,6 +67,7 @@ _El Libro de Urantia_ est disponible au Mexique, et toute personne désirant/aya
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

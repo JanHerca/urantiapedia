@@ -149,6 +149,7 @@ Le Conseil a décidé que nous devions clarifier quelques points. Lorsque vous l
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

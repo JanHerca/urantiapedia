@@ -66,6 +66,7 @@ Le partage de la révélation Urantia à travers le globe est une expérience pu
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-12/quand-la-grande-bretagne-rencontre-la-petite-bretagne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

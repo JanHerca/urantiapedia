@@ -61,6 +61,7 @@ Finalement, la réunion mit l’accent sur le futur et ses exigences. L’Associ
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/lassociation-urantia-internationale-et-la-fondation-urantia-se-rencontrent-au-533)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

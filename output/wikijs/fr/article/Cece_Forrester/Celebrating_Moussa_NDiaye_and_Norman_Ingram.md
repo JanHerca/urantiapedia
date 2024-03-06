@@ -57,6 +57,7 @@ Norman Ingram s’est éteint le 29 mai. Il découvrit _Le Livre d’Urantia_ en
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2019-06/hommage-moussa-ndiaye-et-norman-ingram)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

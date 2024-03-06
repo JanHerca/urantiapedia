@@ -99,6 +99,7 @@ Je dois continuer à servir avec mon moteur usé, jusqu’à ce qu’il ne march
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-06/la-traduction-indonesienne-une-aventure-avec-le-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

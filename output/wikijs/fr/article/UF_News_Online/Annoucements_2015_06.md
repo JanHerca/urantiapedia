@@ -82,6 +82,7 @@ Enregistrez-vous en ligne à www.regonline.ca/builder/site/Default.aspx?EventID=
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-06/une-retraite-pour-les-femmes-danser-avec-dieu), [cet article](https://www.urantia.org/fr/news/2015-06/la-session-detude-dete-de-la-fellowship-du-livre-durantia) et [cet article](https://www.urantia.org/fr/news/2015-06/la-conference-dete-de-lassociation-urantia-internationale-un-evenement-ne-pas-manquer)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

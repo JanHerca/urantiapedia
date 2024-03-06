@@ -59,6 +59,7 @@ Pendant de nombreuses années, il a été nécessaire de réduire drastiquement 
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

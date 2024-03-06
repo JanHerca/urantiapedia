@@ -62,6 +62,7 @@ Tous les participants de la table ronde ont acquis une compréhension et une vis
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-06/pre-conference-de-table-ronde-des-leaders)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

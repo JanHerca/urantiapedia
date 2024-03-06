@@ -72,6 +72,7 @@ Mon souhait est d’aider la Fondation Urantia en vendant des Livres d’Urantia
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-03/rapport-du-bureau-finlandais)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

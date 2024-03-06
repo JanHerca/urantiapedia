@@ -109,6 +109,7 @@ Le conseil d’administration a adopté une résolution de former un comité ad 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-12/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-doctobre)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

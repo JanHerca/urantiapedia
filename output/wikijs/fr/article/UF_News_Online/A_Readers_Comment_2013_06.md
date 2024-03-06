@@ -74,6 +74,7 @@ N'oublions pas qui nous sommes et où nous allons! Rappelons-nous chaque jour de
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-06/atteindre-la-perfection)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

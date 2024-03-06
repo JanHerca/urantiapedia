@@ -56,6 +56,7 @@ Quel plaisir et quel privilège de travailler sur ce projet avec Eliana. Je suis
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-11/production-audio-de-o-livro-de-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

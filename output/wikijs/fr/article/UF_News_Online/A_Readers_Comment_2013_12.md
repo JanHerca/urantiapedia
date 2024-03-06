@@ -75,6 +75,7 @@ Toute ma vie je fus un grand point d’interrogation. Maintenant, plus je compre
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-12/ce-qui-me-motive)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

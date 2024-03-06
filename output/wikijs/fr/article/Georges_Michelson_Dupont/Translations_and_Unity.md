@@ -133,6 +133,7 @@ Depuis les premiers temps de n’importe quel monde, la compétition est essenti
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2017-06/translations-and-unity)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

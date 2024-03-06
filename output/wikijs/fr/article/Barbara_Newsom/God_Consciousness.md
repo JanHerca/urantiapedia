@@ -72,6 +72,7 @@ Nous espérons que vous nous rejoindrez l’année prochaine pour approfondir ce
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-09/la-conscience-de-dieu-une-universite-vivante-inspire-l-etude-en-profondeur)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

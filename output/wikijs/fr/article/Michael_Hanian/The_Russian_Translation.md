@@ -65,6 +65,7 @@ Mais nous savons que, peut-être dans un futur proche, de nouveaux « moyens de 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-12/khnra-ypahtnn-la-traduction-russe)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -75,6 +75,7 @@ Chérissez votre groupe d’étude si vous en avez un. Si vous n’en avez pas, 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-12/ce-que-le-livre-d-urantia-signifie-pour-moi) et [cet article](https://www.urantia.org/fr/news/2011-12/mes-arguments-en-faveur-des-groupes-d-etude)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

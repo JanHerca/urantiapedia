@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -211,7 +210,6 @@ Une déficience analogue caractérise le présent âge <a id="s208_51"></a>[LU 3
 Dans l’[appendice IV, §1](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_4#h-1-relations-et-succession-des-%C3%A2ges-dunivers), (d): l’Expansion de la Destinée dans les âges Successifs, nous observons que chaque nouvel âge permet aux habitants de l’âge précédent de s’élever au-dessus des limites précédentes de croissance. Havona ajoute la croissance évolutionnaire aux limitations de l’éternelle perfection. Dans le présent âge de l’univers, les superunivers sont limités au statut d’ancrage dans la lumière et la vie, mais ils franchiront sans aucun doute cette limite pour atteindre de nouveaux niveaux de destinée dans les âges post-suprême du futur.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

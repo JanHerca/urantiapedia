@@ -67,6 +67,7 @@ Ce qui suit est l’histoire de Meredith où comment il trouva _Le Livre d’Ura
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-06/une-histoire-propos-de-meredith-sprunger)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

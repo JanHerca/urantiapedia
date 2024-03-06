@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1975 Urantia Foundation<br>© 2001 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -104,7 +103,6 @@ Quand nous considérons les activités créatrices de ces Fils et Esprits des Un
 Ce sont les Fils et les Esprits des Univers qui ne feront leur apparition qu’après la clôture du présent âge. Toute leur expérience – précréative et créative se fera dans le troisième âge et les âges subséquents. Ils seront complètement post-suprême dans toutes les phases de développement expérientiel. Ces Fils et Esprits du troisième âge seront identiques aux précédents Fils et Esprits des Univers en termes de dotation de base de divinité paradisiaque. Leurs expériences en tant que créateurs seront équivalentes à celles des Fils et Esprits des âges Combinés, car les deux groupes auront leur fonction initiale créative sur une scène spatiale qui est post-suprême en termes de potentiels transformables <a id="s103_709"></a>[LU 118:4.7](/fr/The_Urantia_Book/118#p4_7) ; [appendice VII, §6.](/fr/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_7#h-6-croissance-post-suprême-dans-les-univers-extérieurs)).
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

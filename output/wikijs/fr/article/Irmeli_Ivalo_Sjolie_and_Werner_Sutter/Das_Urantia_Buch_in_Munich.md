@@ -60,6 +60,7 @@ La prochaine foire où nous voulons aller sera à Zurich, en Suisse, en mars 201
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-12/das-urantia-buch-munich)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

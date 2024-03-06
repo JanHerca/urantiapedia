@@ -69,6 +69,7 @@ J’ai passé la fin de mon adolescence à lire des livres obscurs, lançant le 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2020-10/ce-que-le-livre-durantia-signifie-pour-moi-michael-hill)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

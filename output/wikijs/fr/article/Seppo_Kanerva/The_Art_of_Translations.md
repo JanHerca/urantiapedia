@@ -104,6 +104,7 @@ Par leur travail astreignant, les traducteurs rendent un grand service à ceux q
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2010-12/l-art-de-la-traduction)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

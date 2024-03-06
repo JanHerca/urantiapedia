@@ -67,6 +67,7 @@ une « grande » conférence européenne qui aura lieu à Berlin du 21 au 24 ao�
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-06/la-troisieme-reunion-du-blue-club-frankfort-allemagne)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

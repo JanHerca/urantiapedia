@@ -120,6 +120,7 @@ Les présidents de l'Association Urantia Internationale, de la Fellowship du Liv
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2018-12/noteworthy-decisions-october-2018-board-trustees-meeting)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

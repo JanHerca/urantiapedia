@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -37,7 +36,6 @@ This story is told in six chapters:
 Cette histoire couvre les quatre prochains âges de l'univers. Elle commence avec l'invasion du premier niveau d'espace extérieur. Elle s'achève avec la croissance parachevée du maitre univers et l'émergence finale de Dieu l'Ultime.
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

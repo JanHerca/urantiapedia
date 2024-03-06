@@ -81,6 +81,7 @@ Ma femme, Jennifer Siegel enseigne le groupe des enfants et leurs classes sont q
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-06/pourquoi-les-groupes-d-etude-sont-ils-importants-pour-le-futur-du-monde)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

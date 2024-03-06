@@ -60,6 +60,7 @@ Pour résumé, _Le Livre d'Urantia_ est mon guide pour comprendre Dieu et ses vo
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-10/ce-que-le-livre-durantia-represente-pour-moi-khatukhira-bernard)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

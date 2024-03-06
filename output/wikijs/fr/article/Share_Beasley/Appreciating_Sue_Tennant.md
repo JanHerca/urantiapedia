@@ -86,6 +86,7 @@ Merci, Père, pour votre beauté et votre symétrie.
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

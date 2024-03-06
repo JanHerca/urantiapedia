@@ -99,6 +99,7 @@ Les administrateurs associés sont réélus chaque année. Nous sommes heureux d
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-12/decisions-importantes-de-la-reunion-doctobre-2013-du-conseil-dadministration-des)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

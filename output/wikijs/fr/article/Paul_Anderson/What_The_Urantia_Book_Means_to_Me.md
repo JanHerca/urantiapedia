@@ -72,6 +72,7 @@ Donc, que signifie _Le Livre d’Urantia_ pour moi ? De beaucoup de manières, 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-03/ce-que-le-livre-durantia-signifie-pour-moi)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

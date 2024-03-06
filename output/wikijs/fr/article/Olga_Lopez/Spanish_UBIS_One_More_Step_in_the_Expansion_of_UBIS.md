@@ -54,6 +54,7 @@ Notre objectif pour 2013 est d’offrir deux cours en espagnol par trimestre ; d
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/ubis-en-espagnol-un-pas-de-plus-dans-lexpansion-de-lecole-internet-du-livre-durantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

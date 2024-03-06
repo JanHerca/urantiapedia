@@ -63,6 +63,7 @@ Eugene et Belen sont récemment repartis pour leur quatrième voyage vers leur p
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2022-10/la-revelation-fleurit-dans-les-philippines)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

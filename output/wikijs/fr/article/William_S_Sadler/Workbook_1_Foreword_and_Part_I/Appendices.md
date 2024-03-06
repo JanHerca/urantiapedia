@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1959 William S. Sadler<br>© 1961 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>
@@ -169,7 +168,6 @@ Bien qu'ils ne soient pas canoniques, ils ont le même statut que les « Kings �
 - c. **Immortalité**—C'était un agnostique. N'a pas accepté ou nié l'immortalité.
 
 <br>
-
 <figure class="table chapter-navigator">
 	<table>
 		<tbody>

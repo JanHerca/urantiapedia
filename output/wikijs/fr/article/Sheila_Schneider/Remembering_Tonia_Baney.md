@@ -99,6 +99,7 @@ Bien que ce soit triste, mes souvenirs de Tonia- son grand cœur, sa beauté à 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2023-03/la-memoire-de-tonia-baney-ancienne-directrice-executive-de-la-fondation-urantia)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

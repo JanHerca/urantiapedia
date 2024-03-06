@@ -87,6 +87,7 @@ Sur le Web à www.urantia.org
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

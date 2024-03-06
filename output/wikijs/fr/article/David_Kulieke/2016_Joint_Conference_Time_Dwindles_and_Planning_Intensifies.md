@@ -66,6 +66,7 @@ Tous ceux impliqués dans cette conférence conjointe sont impatients de partage
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-03/la-conference-conjointe-de-2016-le-temps-diminue-et-le-planning-sintensifie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

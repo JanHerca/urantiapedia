@@ -11,7 +11,6 @@ dateCreated: 2022-10-08T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1961 William S. Sadler Jr.<br>© 1968 Urantia Foundation<br>© 1990 Association Française des Lecteurs du Livre d’Urantia (A.F.L.L.U.)</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -100,7 +99,6 @@ Nous proposons une investigation de ces questions en examinant les âges success
 Quand nous rencontrerons un manque dans les données disponibles, nous nous efforcerons de le combler par un raisonnement intensif et extensif. Nous comprenons bien que de tels types de raisonnements spéculatifs sont condamnés à souffrir des limitations inhérentes à notre ignorance humaine. Quoiqu’il en soit, comme résultat de ces efforts, nous parviendrons pour le moins à une meilleure «unification de notre ignorance» . Embarquons-nous aventureusement pour notre élude du maitre univers: pour ses âges qui deviennent de plus en plus longs, ses niveaux d’espace qui deviennent de plus en plus larges et sa capacité d’expansion continuelle de réalisation du moi du créateur et de la créature. Embarquons-nous avec une humilité intellectuelle mais non sans courage !
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
     <tbody>

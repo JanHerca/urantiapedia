@@ -64,6 +64,7 @@ Même si l'on ne peut ignorer les conséquences positives des difficultés des v
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

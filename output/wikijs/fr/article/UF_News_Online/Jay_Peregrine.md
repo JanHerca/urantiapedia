@@ -85,6 +85,7 @@ Je me suis donc retrouvé ces dernières années à prendre ce défi au sérieux
 
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -75,6 +75,7 @@ C’est bon de se rappeler que l’on a un cœur.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-03/la-fille-en-chemisier-rose)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

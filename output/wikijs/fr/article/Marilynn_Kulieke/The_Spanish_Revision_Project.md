@@ -56,6 +56,7 @@ Cette proposition fut acceptée par le conseil d’Administration des Trustees e
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-06/le-projet-de-la-revision-espagnole)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

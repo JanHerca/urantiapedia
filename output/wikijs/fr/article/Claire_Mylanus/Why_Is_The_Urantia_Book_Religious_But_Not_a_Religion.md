@@ -60,6 +60,7 @@ C’est pourquoi, je croix, que_Le Livre d’Urantia_ présente un concept nouve
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2008-09/le-livre-d-urantia-est-il-une-religion)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

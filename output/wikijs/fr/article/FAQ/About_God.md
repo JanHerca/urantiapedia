@@ -12,7 +12,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Urantia Foundation</p>
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>
@@ -179,7 +178,6 @@ dateCreated: 2022-11-28T14:02:03.086Z
 > “Le royaume de Dieu est en vous. ” C’est probablement la plus grande proclamation que Jésus ait jamais faite, après la déclaration que son Père est un esprit vivant et aimant. <a id="s178_178"></a>[LU 195:10.4](/fr/The_Urantia_Book/195#p10_4)
 
 <br>
-
 <figure class="table chapter-navigator">
   <table>
 	<tbody>

@@ -68,6 +68,7 @@ Gard Jameson, Richard Keeler, Marilynn Kulieke, Georges Michelson-Dupont, Henk M
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2017-12/la-collecte-de-fonds-egalisation-de-fin-dannee-2017)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

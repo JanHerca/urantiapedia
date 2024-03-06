@@ -132,6 +132,7 @@ Il faudra 50 000 $ pour le troisième étage et 125 000 $ pour la remise.
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2013-06/decisions-importantes-de-la-reunion-davril-2013-du-conseil-dadministration-des-trustees)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

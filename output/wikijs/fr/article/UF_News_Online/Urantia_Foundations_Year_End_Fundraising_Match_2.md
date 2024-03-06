@@ -62,6 +62,7 @@ Trustees associés : Marta Elders, Víctor García Bory, Richard Jernigan, Guy 
 - [Cet article](https://www.urantia.org/fr/news/2015-12/la-collecte-de-fonds-egalisation-de-fin-dannee-de-la-fondation-urantia-2015)
 
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

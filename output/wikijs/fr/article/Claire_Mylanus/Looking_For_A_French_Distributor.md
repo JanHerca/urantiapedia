@@ -72,6 +72,7 @@ Trouver des distributeurs pour_Le Livre d’Urantia_ en Europe sera toujours un 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2009-06/recherche-d-un-distributeur-francais)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

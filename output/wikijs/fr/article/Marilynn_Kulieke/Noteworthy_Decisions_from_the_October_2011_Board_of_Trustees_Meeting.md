@@ -135,6 +135,7 @@ Les Trustees, le Conseil d’Administration Élargi et le personnel de la Fondat
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-12/decisions-importantes-de-la-reunion-du-conseil-dadministration-des-trustees-doctobre)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

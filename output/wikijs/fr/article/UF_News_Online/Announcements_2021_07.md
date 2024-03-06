@@ -103,6 +103,7 @@ Il comprend de nouvelles cartes du monde dans lequel Jésus a voyagé et vécu, 
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2021-06/la-traduction-turque-maintenant-disponible-en-ligne), [cet article](https://www.urantia.org/news/2021-06/summer-study-session), [cet article](https://www.urantia.org/fr/news/2021-06/lanniversaire-de-jesus-une-celebration-mondiale), et [cet article](https://www.urantia.org/fr/news/2021-06/la-fondation-urantia-propose-le-symposium-de-la-science-iii-linterface-de-levolution-et)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

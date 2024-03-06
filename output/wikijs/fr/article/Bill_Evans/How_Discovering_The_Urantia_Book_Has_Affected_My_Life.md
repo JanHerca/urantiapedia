@@ -60,6 +60,7 @@ J’espère tous vous rencontrer, si pas ici, alors sur le premier monde des mai
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2015-03/comment-la-decouverte-du-livre-durantia-change-ma-vie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

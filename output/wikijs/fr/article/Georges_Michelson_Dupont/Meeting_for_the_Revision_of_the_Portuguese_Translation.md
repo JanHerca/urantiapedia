@@ -88,6 +88,7 @@ La réunion fut très productive et positive. Les membres de l’équipe de rév
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2011-12/rapport-sur-la-reunion-du-coup-denvoi-de-la-revision-de-la-traduction-portugaise)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

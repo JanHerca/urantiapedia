@@ -133,6 +133,7 @@ Le déjeuner fut servi après ce dernier exposé et les participants au symposiu
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2016-06/reflexions-sur-le-symposium-de-la-science-de-2016)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

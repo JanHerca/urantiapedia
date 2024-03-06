@@ -56,6 +56,7 @@ Pour tous ceux qui ont participé et contribué à cet événement, merci encore
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2012-08/une-conference-dete-du-livre-durantia-berlin)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

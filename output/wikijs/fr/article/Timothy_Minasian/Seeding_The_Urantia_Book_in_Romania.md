@@ -64,6 +64,7 @@ J’ai aimé mon voyage en Roumanie et suis reparti avec des sentiments positifs
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/fr/news/2018-12/semer-le-livre-durantia-en-roumanie)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>

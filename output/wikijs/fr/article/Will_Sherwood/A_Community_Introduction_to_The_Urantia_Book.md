@@ -82,6 +82,7 @@ Après sa performance, Pato encouragea le groupe à former un cercle pour une pr
 - [Nouvelles en Ligne de la Fondation Urantia](https://www.urantia.org/fr/la-fondation-urantia/le-bulletin-officiel-de-la-fondation-urantia)
 - [Cet article](https://www.urantia.org/news/2012-11/community-introduction-urantia-book)
 
+<br>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
