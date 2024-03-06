@@ -52,10 +52,10 @@ Neal vit avec sa femme, l'ancienne Vanessa Wong, dans une banlieue du Maryland �
 > « La politique de non-ingérence de 2004 est la réalisation dont je suis le plus fier. »
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-12/neal-waldrop-concludes-four-years-active-participation
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-12/neal-waldrop-concludes-four-years-active-participation)
 
 
 

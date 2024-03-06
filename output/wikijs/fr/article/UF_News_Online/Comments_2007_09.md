@@ -69,10 +69,10 @@ Cheryl Glicker, Milford Study Group, (États-Unis)
 > «Mon royaume est fondé sur l'amour, proclamé dans la miséricorde et établi par un service désintéressé.» Jésus
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-09/comments-urantia-online-april-2007
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-09/comments-urantia-online-april-2007)
 
 
 

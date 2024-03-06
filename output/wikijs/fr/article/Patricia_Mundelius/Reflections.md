@@ -56,10 +56,10 @@ Peut-être que beaucoup de gens ont commencé à porter les chaussures des Admin
 Lorsque je repense aux années 1990, lorsque j'étais président des administrateurs, et maintenant aux années 2000 en tant qu'administrateur émérite, je vous assure que nous sommes à nouveau sur la bonne voie. Il ne pleut plus et le soleil est au rendez-vous. Les administrateurs actuels se respectent et s’aiment. Ils sont profondément reconnaissants envers toutes les personnes qui ont soutenu la Fondation pendant les périodes moins ensoleillées. Ils sont également ravis de travailler avec tous ceux qui souhaitent cultiver le jardin du Père. Notre univers est un lieu convivial et nous sommes l’avant-garde de la Cinquième Révélation d’Époque. Quelle période merveilleuse pour vivre !
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-09/reflections
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-09/reflections)
 
 
 

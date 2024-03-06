@@ -59,10 +59,10 @@ _El Libro de Urantia_ est disponible au Mexique, et toute personne désirant/aya
 <br style="clear:both;"/>
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-09/distribution-el-libro-de-urantia
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-09/distribution-el-libro-de-urantia)
 
 
 

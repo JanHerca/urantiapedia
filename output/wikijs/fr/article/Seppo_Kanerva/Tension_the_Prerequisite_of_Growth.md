@@ -56,10 +56,10 @@ Cependant, outre les nombreuses et déplorables conséquences néfastes et destr
 Même si l'on ne peut ignorer les conséquences positives des difficultés des vingt dernières années, il serait, à mon sens, plus sage d'orienter et de concentrer les efforts et les ressources de la communauté sur la tension première, qui est la justification même de l'existence de la communauté : la nécessité de diffuser la révélation auprès des peuples du monde.
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-12/tension-prerequisite-growth
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-12/tension-prerequisite-growth)
 
 
 

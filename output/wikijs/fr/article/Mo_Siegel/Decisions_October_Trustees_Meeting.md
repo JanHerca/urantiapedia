@@ -42,6 +42,7 @@ dateCreated: 2023-8-29T10:55:6Z
 _Par Mo Siegel, secrétaire de la Fondation Urantia_
 
 Le Conseil Élargi de la Fondation Urantia s'est réuni à Chicago pour la réunion trimestrielle d'octobre 2007. Certains des domaines de discussion et de prise de décision comprenaient :
+<br style="clear:both;"/>
 
 ## L'Europe 
 
@@ -141,10 +142,10 @@ Le Conseil a décidé que nous devions clarifier quelques points. Lorsque vous l
 </figure>
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-12/newsworthy-decisions-urantia-foundation-s-october-trustees-meeting)
 
 
 

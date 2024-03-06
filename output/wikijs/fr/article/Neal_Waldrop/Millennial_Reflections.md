@@ -56,10 +56,10 @@ Depuis janvier 2004, je travaille avec un petit comité pour développer un plan
 Cette nouvelle activité sera indépendante de la Fondation Urantia et séparée des organisations sociales. Elle se développera lentement et fonctionnera sur une base régionale. Le comité partage actuellement nos idées avec des lecteurs individuels, tout en sollicitant des commentaires et des suggestions. Nous espérons lancer un débat public au printemps 2008.
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-12/millennial-reflections
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-12/millennial-reflections)
 
 
 

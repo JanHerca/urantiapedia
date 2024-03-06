@@ -80,9 +80,9 @@ Illustration: «L'Annonciation» (détail) de Sir Edward Coley Burne-Jones
 Sur le Web à www.urantia.org
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 
 
 

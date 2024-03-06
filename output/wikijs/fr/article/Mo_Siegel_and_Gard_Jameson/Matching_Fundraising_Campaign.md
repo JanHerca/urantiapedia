@@ -70,10 +70,10 @@ Veuillez contacter la Fondation Urantia pour plus d'informations sur la campagne
 </figure>
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-12/urantia-foundation-launches-matching-fundraising-campaign-in-december-2007
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-12/urantia-foundation-launches-matching-fundraising-campaign-in-december-2007)
 
 
 

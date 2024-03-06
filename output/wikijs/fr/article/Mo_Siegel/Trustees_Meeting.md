@@ -41,7 +41,7 @@ Le Conseil élargi de la Fondation Urantia s'est réuni à Boulder, Colorado, É
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_05/012.jpg">
-<figcaption><em><b>Conseil élargi de la Fondation Urantia: (rangée arrière)</b> Neal Waldrop, Seppo Kanerva, Richard Keeler, Gard Jameson, Jorgan Andrews, Jay Peregrine, Mo Siegel <b>(rangée avant)< /b> Judy Van Cleave, Patricia Mundelius, Georges Michelson-Dupont, Irmeli Ivalo-Sjolie, Claire Mylanus, Marilynn Kulieke, Tamara Wood, Sue Tennant</em></figcaption>
+<figcaption><em><b>Conseil élargi de la Fondation Urantia: (rangée arrière)</b> Neal Waldrop, Seppo Kanerva, Richard Keeler, Gard Jameson, Jorgan Andrews, Jay Peregrine, Mo Siegel <b>(rangée avant)</b> Judy Van Cleave, Patricia Mundelius, Georges Michelson-Dupont, Irmeli Ivalo-Sjolie, Claire Mylanus, Marilynn Kulieke, Tamara Wood, Sue Tennant</em></figcaption>
 </figure>
 
 Outre l'excellente nourriture, le programme inspirant et la possibilité de renouer d'anciennes amitiés et d'en nouer de nouvelles, le week-end a clairement démontré que la seule vraie fin, ce sont les relations.
@@ -123,10 +123,10 @@ Le Conseil a décidé de créer un comité ad hoc de six membres sur le texte in
 > «Toutes les traductions du Livre d'Urantia nécessitent un paragraphe de clause de non-responsabilité sur la page de l'éditeur, expliquant la nature évolutive de toute traduction.»
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-05/newsworthy-items-april-2007-trustees-meeting
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-05/newsworthy-items-april-2007-trustees-meeting)
 
 
 

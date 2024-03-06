@@ -56,10 +56,10 @@ Les aspects de la façon dont les étrangers nous perçoivent et le souci de la 
 Je t'aime.
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-09/even-i-have-loved-you
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-09/even-i-have-loved-you)
 
 
 

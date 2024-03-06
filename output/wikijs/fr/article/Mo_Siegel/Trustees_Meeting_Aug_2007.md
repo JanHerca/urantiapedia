@@ -105,10 +105,10 @@ La troisième réunion trimestrielle s'est terminée avec espoir, amour et entho
 </figure>
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-09/newsworthy-items-august-2007-trustee-meeting
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-09/newsworthy-items-august-2007-trustee-meeting)
 
 
 

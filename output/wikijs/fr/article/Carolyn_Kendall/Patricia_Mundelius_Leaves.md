@@ -53,10 +53,10 @@ Pat a quitté le conseil d'administration en 1997, mais a accepté de revenir en
 
 <br style="clear:both;"/>
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-09/trustee-emerita-patricia-mundelius-leaves-expanded-board
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-09/trustee-emerita-patricia-mundelius-leaves-expanded-board)
 
 
 

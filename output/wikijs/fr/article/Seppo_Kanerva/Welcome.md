@@ -51,10 +51,10 @@ Pendant de nombreuses années, il a été nécessaire de réduire drastiquement 
 
 <br style="clear:both;"/>
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-05/welcome
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-05/welcome)
 
 
 

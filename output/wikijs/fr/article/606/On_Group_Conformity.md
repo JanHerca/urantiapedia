@@ -149,7 +149,7 @@ Et:
 
 Un jour, dans un avenir lointain, une telle occasion de culte de groupe marquera notre qualification pour l'admission au Corps de la Finalité. Merci à Dieu que nous ne puissions commettre aucune erreur qui empêcherait ce jour de se produire si tel est notre véritable désir.
 
-## Les références
+## Références
 
 Milgram, S. Obéissance à l'autorité (Harper, New York, 1974)
 

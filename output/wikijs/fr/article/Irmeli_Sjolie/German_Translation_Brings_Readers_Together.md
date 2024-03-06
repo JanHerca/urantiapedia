@@ -65,10 +65,10 @@ Une fois la réunion terminée, de nombreuses nouvelles amitiés se sont nouées
 > « De nombreuses nouvelles amitiés se sont nouées et de nouveaux groupes d'étude ont été créés. »
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-12/german-translation-brings-readers-together
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-12/german-translation-brings-readers-together)
 
 
 

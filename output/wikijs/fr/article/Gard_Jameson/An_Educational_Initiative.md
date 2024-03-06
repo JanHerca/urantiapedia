@@ -76,10 +76,10 @@ Les participants se réuniront à nouveau en juin 2008 pour s'engager dans les p
 Bien qu’aucune conclusion définitive n’ait été tirée, il était passionnant de voir des éducateurs du monde entier se rassembler et s’adresser à une partie de notre mission sacrée, afin de transmettre les enseignements de cette révélation dans les courants de pensée et de cœur de l’humanité. Si vous avez des idées sur l'Initiative éducative, veuillez envoyer un e-mail à Tamara Wood à tamara@urantia.org
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-09/educational-initiative
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-09/educational-initiative)
 
 
 

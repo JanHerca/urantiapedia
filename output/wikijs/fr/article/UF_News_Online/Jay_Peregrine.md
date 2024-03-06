@@ -77,10 +77,10 @@ Je me suis donc retrouvé ces dernières années à prendre ce défi au sérieux
 
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-05/urantia-foundation-staff-jay-peregrine
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-05/urantia-foundation-staff-jay-peregrine)
 
 
 

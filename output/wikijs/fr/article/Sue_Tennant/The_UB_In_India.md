@@ -99,10 +99,10 @@ Les voyages en Asie sont bon marché et attirent des centaines de milliers de je
 </figure>
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-05/urantia-book-in-india
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-05/urantia-book-in-india)
 
 
 

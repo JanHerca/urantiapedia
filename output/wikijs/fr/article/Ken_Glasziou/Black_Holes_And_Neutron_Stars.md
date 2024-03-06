@@ -30,7 +30,7 @@ Il y a de nombreuses références aux trous noirs dans _Le Livre d'URANTIA_ car 
 
 Ken Glasziou, Maleny, Queensland.
 
-## Les références
+## Références
 
 - _Le Livre d'URANTIA_, pp. <a id="a34_28"></a>[LU 41:7.14](/fr/The_Urantia_Book/41#p7_14), <a id="a34_73"></a>[LU 15:6.11](/fr/The_Urantia_Book/15#p6_11), <a id="a34_118"></a>[LU 57:5.4](/fr/The_Urantia_Book/57#p5_4).
 

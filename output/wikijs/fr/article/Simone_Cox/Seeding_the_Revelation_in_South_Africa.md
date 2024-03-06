@@ -63,10 +63,10 @@ Alors que nous prions sincèrement pour que ces merveilleux journaux trouvent le
 </figure>
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-12/seeding-revelation-in-south-africa
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-12/seeding-revelation-in-south-africa)
 
 
 

@@ -376,6 +376,6 @@ Ce n’est pas la première révélation de vérité sur votre monde. Chaque ré
 
 Nous sommes bien conscients des difficultés de notre tâche. Nous savons que nous ne pouvons pas mettre notre langue dans votre langue ; trop de choses se perdent dans la traduction. Nous allons parler des concepts de divinité et d'éternité. Nous allons utiliser un langage qui ne contient que des mots finis pouvant être compris par l’esprit humain. Mais nous savons que nous aurons de l'aide. Nous ne dépendons pas seulement du mental. Nous savons qu’un fragment de Dieu lui-même vit dans chaque esprit humain. Nous savons également que l’Esprit de Vérité vit avec chaque âme humaine. Nous savons en outre que ces forces spirituelles vont aider les êtres humains à comprendre de quoi nous parlons. Ils vont vous aider à comprendre ce que sont les valeurs spirituelles. Ils vont vous aider à comprendre quelles sont les significations de l’univers. Mais surtout, ils vont faire autre chose, quelque chose de bien plus important. Ces esprits de Présence Divine sont vraiment capables de vous aider à comprendre spirituellement un certain type de vérité. C’est la vérité qui vous aide à grandir, à progresser dans votre expérience religieuse personnelle. C'est la vérité par laquelle vous prenez conscience de la présence et de la réalité de Dieu.
 
-## Les références
+## Références
 
 - Original dans Urantia Association International https://urantia-association.org/foreword-simplification/

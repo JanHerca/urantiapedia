@@ -62,10 +62,10 @@ Un examen des actes, dossiers et dessins originaux stockés dans un coffre-fort 
 - 3 décembre 1970. 533 West Diversey transféré à la Fondation Urantia par le tribunal des successions après le décès du Dr William S. Sadler.
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- Cet article: https://www.urantia.org/news/2007-09/short-history-owners-urantia-foundation-s-head-office
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [Cet article](https://www.urantia.org/news/2007-09/short-history-owners-urantia-foundation-s-head-office)
 
 
 

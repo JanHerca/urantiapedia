@@ -73,9 +73,9 @@ Suzana travaille avec Luiz Carlos depuis le début du projet il y a plus de dix 
 </figure>
 
 
-## Les références
+## Références
 
-- Nouvelles en ligne de la Fondation Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [Nouvelles en ligne de la Fondation Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 - Cet article:
 
 
