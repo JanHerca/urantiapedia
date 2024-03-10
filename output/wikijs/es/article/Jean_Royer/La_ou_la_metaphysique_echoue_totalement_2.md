@@ -36,7 +36,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 > _Lo que la metafisica completamente fracasa en hacer, lo que aun la filosofia parcialmente fracasa en hacer, lo hace la revelación; es decir, que afirma que esta Primera Causa de la ciencia y el Dios de salvación de la religión son una y la misma Deidad._ <a id="a36_258"></a>[LU 101:2.7](/es/The_Urantia_Book/101#p2_7)
 
-Todos hemos leído la primera frase de este texto, pero, ¿'cuántos se han parado a pensar en lo que significa? En otras palabras, ¿qué debe entenderse por metafísica? (Esta palabra puede encontrarse 22 veces en el Libro).
+Todos hemos leído la primera frase de este texto, pero, ¿cuántos se han parado a pensar en lo que significa? En otras palabras, ¿qué debe entenderse por metafísica? (Esta palabra puede encontrarse 22 veces en el Libro).
 
 «Metafísica» es uno de esos términos polisémicos que hay que intentar analizar bajo al menos dos ángulos, el punto de vista humano y el que está en _El Libro de Urantia_.
 
@@ -57,7 +57,7 @@ No hay una definición estrictamente hablando del término «metafísica» en _E
 
 En lo que respecta a este planeta se dice:
 
-> _Cuando el hombre se acerca al estudio y al examen de su universo desde afuera, > da origen a varias ciencias físicas; cuando encara la investigación del yo y del universo desde adentro, da origen a la teología y a la metafísica._ (<a id="a59_234"></a>[LU 103:6.2](/es/The_Urantia_Book/103#p6_2))
+> _Cuando el hombre se acerca al estudio y al examen de su universo desde afuera, da origen a varias ciencias físicas; cuando encara la investigación del yo y del universo desde adentro, da origen a la teología y a la metafísica._ (<a id="a59_234"></a>[LU 103:6.2](/es/The_Urantia_Book/103#p6_2))
 
 Más aún: [Los griegos] _buscaban el placer del alma en el pensamiento profundo - filosofia y metafísica._ (<a id="a61_107"></a>[LU 98:2.2](/es/The_Urantia_Book/98#p2_2)). Aunque se dice claramente que la metafísica es impotente.
 

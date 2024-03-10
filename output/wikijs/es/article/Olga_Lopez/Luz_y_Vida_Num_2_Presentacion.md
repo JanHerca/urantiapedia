@@ -42,7 +42,7 @@ Boletín de la Asociación Urantia de España
 
 - Un panorama personal, de Santiago Rodríguez (primera parte)
 - El centro de atención, de varios autores
--_El Libro de Urantia_ en África: relato de un viaje a Dakar, de Georges Michelson-Dupont
+- _El Libro de Urantia_ en África: relato de un viaje a Dakar, de Georges Michelson-Dupont
 - Encuentro del 14 de mayo de 1999 en Dakar (Senegal), primera parte, de Georges Michelson-Dupont
 
 ## Presentación

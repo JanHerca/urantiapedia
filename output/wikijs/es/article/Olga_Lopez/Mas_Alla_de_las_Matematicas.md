@@ -47,15 +47,13 @@ Es curioso como, en muchas ocasiones, damos por supuestas ciertas cosas que, a f
 
 Que las leyes de la naturaleza están escritas en el lenguaje de las matemáticas es algo que afirmó Galileo Galilei hace más de trescientos años. Pero mucho antes que él los pitagóricos, allá por el siglo VI a.C., también afirmaban que los secretos de la naturaleza se expresaban mediante números; por ello éstos permitían tomar contacto con la divinidad.
 
-Una vez descubrimos que la idoneidad de las matemáticas para comprender el cosmos material no es ni mucho menos una obviedad, el siguiente paso es preguntarnos la razón de esta idoneidad. ¿Quizá porque las matemáticas son sencillas? Eugene Wigner lo niega rotundamente. Es más, hay conceptos matemáticos, como los números complejos, que no parecen estar sugeridos por lo que observamos en la realidad. Y sin embargo son conceptos que se le ocurrieron a alguien y que tienen utilidad práctica (por ejemplo, en ingeniería electrónica).
+Una vez descubrimos que la idoneidad de las matemáticas para comprender el cosmos material no es ni mucho menos una obviedad, el siguiente paso es preguntarnos la razón de esta idoneidad. ¿Quizá porque las matemáticas son sencillas? Eugene Wigner lo niega rotundamente. Es más, hay conceptos matemáticos, como los números complejos[^1], que no parecen estar sugeridos por lo que observamos en la realidad. Y sin embargo son conceptos que se le ocurrieron a alguien y que tienen utilidad práctica (por ejemplo, en ingeniería electrónica).
 
 Si las matemáticas son idóneas para la comprensión del funcionamiento de la naturaleza es, según Eugene Wigner, porque nos permiten desarrollar razonamientos brillantes y rozar incluso el razonamiento no permisible. Gracias a las matemáticas podemos, por ejemplo, comprender la noción de infinito, y el hecho de que hay infinitos mayores que otros. Por ejemplo, los números naturales son un conjunto infinito, pero los números reales es un conjunto también infinito pero mayor, que incluye también a los números naturales. Entre el 0 y el 1 hay también infinitos números, ya sean naturales, reales, irracionales, etc.
 
 > _Aunque el dominio de las matemáticas está repleto de limitaciones cualitativas, provee a la mente finita con una base conceptual para discurrir la infinidad. No existen limitaciones cuantitativas a los números, ni siquiera en la infinidad. Aunque el numero concebido sea muy grande, puedes visualizar la posibilidad de que se le agregue uno más. Además puedes comprender que eso está por debajo de la infinidad, porque aunque repitas esa adición muchísimas veces, siempre se podrá agregar un número más._ (<a id="a53_509"></a>[LU 118:0.11](/es/The_Urantia_Book/118#p0_11))
 
-Por otro lado, a la luz del LU, no hace falta ser un lince para darse cuenta de la importancia de ciertos números. El siete, por ejemplo, está vinculado con el
-
-${ }^{2}$ Los números complejos se representan de forma $z=a+i b$, siendo a la parte real y ib la parte imaginaria $(i=\sqrt{ }-1)$ mundo espiritual, mientras que el número diez está relacionado con el nivel material de la realidad.
+Por otro lado, a la luz del LU, no hace falta ser un lince para darse cuenta de la importancia de ciertos números. El siete, por ejemplo, está vinculado con el mundo espiritual, mientras que el número diez está relacionado con el nivel material de la realidad.
 
 Pero yo quería llegar un poco más lejos en mis divagaciones. ¿Se puede llegar a vislumbrar a Dios a través de la matemática (o, mejor dicho, de la «metamatemática»)? Eugene Wigner dice en su artículo que «_el milagro de la idoneidad del lenguaje de las matemáticas para la formulación de las leyes de la física es un regalo maravilloso que ni comprendemos ni merecemos_». Definirlo como «regalo» me lleva a pensar que, realmente, es un regalo. O, más bien, una herramienta con la que los seres humanos hemos sido dotados y que nos permite descubrir las leyes que rigen el mundo físico así como asomarnos más allá y vislumbrar la existencia de una Inteligencia Suprema. En el LU se dice que, del mismo modo que hay leyes que funcionan en el mundo material, hay leyes que se cumplen igual de certeramente en el mundo espiritual (<a id="a59_827"></a>[LU 7:1.8](/es/The_Urantia_Book/7#p1_8); <a id="a59_868"></a>[LU 44:5.5](/es/The_Urantia_Book/44#p5_5)). Me pregunto si estas leyes tendrán (o podrían llegar a tener) una formulación matemática. Y más si tenemos en cuenta que «_en la práctica, las leyes de la naturaleæa funcionan en los reinos aparentemente dobles de lo fisico y de lo espiritual, pero en la realidad estos reinos son uno solo_» (<a id="a59_1205"></a>[LU 42:11.2](/es/The_Urantia_Book/42#p11_2)).
 
@@ -145,3 +143,7 @@ Más allá de las matemáticas se esconde...el Maestro Matemático.
     </tbody>
   </table>
 </figure>
+
+## Notas
+
+[^1]: Los números complejos se representan de forma $z=a+i b$, siendo $a$ la parte real y $ib$ la parte imaginaria $(i=\sqrt{-1})$

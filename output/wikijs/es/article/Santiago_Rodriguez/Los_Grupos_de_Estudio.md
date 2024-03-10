@@ -67,7 +67,7 @@ Y si este _grupo_ es _«de estudio»_, me parece un escenario ideal para desarro
 
 De estudio, porque dada nuestra específica situación de incomunicación, llevamos desorientados mucho tiempo, por lo que hemos de centrar nuestro rumbo, aclarar nuestra situación y comprender cosas que hasta ahora nos han pasado desapercibidas, y para ello primero hemos de aprender y comprender...por lo que resulta inevitable estudiar.
 
-En el [documento 160](/es/The_Urantia_Book/160#), _«Rodán de Alejandría»_, encontramos un claro e interesantísimo ejemplo de la utilidad del _grupo de estudio_, que además ilustra el proceder de los mismos.
+En el [documento 160](/es/The_Urantia_Book/160), _«Rodán de Alejandría»_, encontramos un claro e interesantísimo ejemplo de la utilidad del _grupo de estudio_, que además ilustra el proceder de los mismos.
 
 Rodán plantea su filosofía sobre la vida y la forma de vivirla. Curiosamente Jesús decide mantenerse al margen y hacer que sean sus discípulos quienes conversen y debatan con Rodán sobre ello. Parece clara la intención del Maestro de que en cada época sean los propios seres que viven en ella quienes lleguen a las conclusiones que su madurez intelectual y espiritual les permitan. Recordemos que no era su intención crear una doctrina.
 

@@ -49,15 +49,13 @@ It is curious how, on many occasions, we take certain things for granted that, a
 
 That the laws of nature are written in the language of mathematics is something that Galileo Galilei affirmed more than three hundred years ago. But long before him, the Pythagoreans, back in the 6th century BC, also claimed that the secrets of nature were expressed through numbers; for this reason they allowed to make contact with the divinity.
 
-Once we discover that the suitability of mathematics for understanding the material cosmos is by no means a obvious one, the next step is to ask ourselves the reason for this suitability. Maybe because the math is easy? Eugene Wigner strongly denies this. Furthermore, there are mathematical concepts, such as complex numbers, that do not seem to be suggested by what we actually observe. And yet they are concepts that occurred to someone and that have practical utility (for example, in electronic engineering).
+Once we discover that the suitability of mathematics for understanding the material cosmos is by no means a obvious one, the next step is to ask ourselves the reason for this suitability. Maybe because the math is easy? Eugene Wigner strongly denies this. Furthermore, there are mathematical concepts, such as complex numbers[^1], that do not seem to be suggested by what we actually observe. And yet they are concepts that occurred to someone and that have practical utility (for example, in electronic engineering).
 
 If mathematics is ideal for understanding how nature works, it is, according to Eugene Wigner, because it allows us to develop brilliant reasoning and even border on impermissible reasoning. Thanks to mathematics we can, for example, understand the notion of infinity, and the fact that there are infinities greater than others. For example, the natural numbers are an infinite set, but the real numbers are also an infinite but larger set, which also includes the natural numbers. Between 0 and 1 there are also infinite numbers, whether natural, real, irrational, etc.
 
 > _While the domain of mathematics is beset with qualitative limitations, it does provide the finite mind with a conceptual basis of contemplating infinity. There is no quantitative limitation to numbers, even in the comprehension of the finite mind. No matter how large the number conceived, you can always envisage one more being added. And also, you can comprehend that that is short of infinity, for no matter how many times you repeat this addition to number, still always one more can be added._ (<a id="a55_503"></a>[UB 118:0.11](/en/The_Urantia_Book/118#p0_11))
 
-On the other hand, in light of the UB, it doesn't take a lynx to realize the importance of certain numbers. The seven, for example, is linked to the
-
-${ }^{2}$ Complex numbers are represented in the form $z=a+i b$, with a being the real part and ib being the imaginary part $(i=\sqrt{ }-1)$ spiritual world, while the number ten is related to the material level of reality .
+On the other hand, in light of the UB, it doesn't take a lynx to realize the importance of certain numbers. The seven, for example, is linked to the spiritual world, while the number ten is related to the material level of reality .
 
 But I wanted to go a little further in my ramblings. Is it possible to get a glimpse of God through mathematics (or, rather, “meta-mathematics”)? Eugene Wigner says in his article that “_the miracle of the suitability of the language of mathematics for the formulation of the laws of physics is a wonderful gift that we neither understand nor deserve_”. Defining it as a “gift” leads me to think that it really is a gift. Or, rather, a tool with which human beings have been endowed and that allows us to discover the laws that govern the physical world as well as look beyond and glimpse the existence of a Supreme Intelligence. In the UB it is said that, in the same way that there are laws that work in the material world, there are laws that are equally true in the spiritual world (<a id="a61_787"></a>[UB 7:1.8](/en/The_Urantia_Book/7#p1_8); <a id="a61_828"></a>[UB 44:5.5](/en/The_Urantia_Book/44#p5_5)). I wonder if these laws will have (or could ever have) a mathematical formulation. And even more if we take into account that “_in practice, the laws of nature work in the apparently double kingdoms of the physical and the spiritual, but in reality these kingdoms are only one_” (<a id="a61_1151"></a>[UB 42:11.2](/en/The_Urantia_Book/42#p11_2)).
 
@@ -150,3 +148,7 @@ Beyond mathematics hides... the Mathematician Master.
     </tbody>
   </table>
 </figure>
+
+## Notes
+
+[^1]: Complex numbers are represented in the form $z=a+i b$, with $a$ being the real part and $ib$ being the imaginary part $(i=\sqrt{-1})$

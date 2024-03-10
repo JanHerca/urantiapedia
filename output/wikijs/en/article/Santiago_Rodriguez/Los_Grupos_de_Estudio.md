@@ -69,7 +69,7 @@ And if this _group_ is _“study”_, it seems to me an ideal scenario to develo
 
 Study, because given our specific situation of isolation, we have been disoriented for a long time, so we have to focus our course, clarify our situation and understand things that until now have gone unnoticed, and for this we must first learn and understand. .so it is inevitable to study.
 
-In [paper 160](/en/The_Urantia_Book/160#), _“Rodan of Alexandria”_, we find a clear and very interesting example of the usefulness of the _study group_, which also illustrates their behavior.
+In [paper 160](/en/The_Urantia_Book/160), _“Rodan of Alexandria”_, we find a clear and very interesting example of the usefulness of the _study group_, which also illustrates their behavior.
 
 Rodán raises his philosophy on life and the way of living it. Curiously, Jesus decides to stay on the sidelines and have his disciples talk and debate with Rodan about it. The Master's intention seems clear that in each age it is the beings who live in it who reach the conclusions that their intellectual and spiritual maturity allow them. Let us remember that it was not his intention to create a doctrine.
 
