@@ -117,7 +117,7 @@ Pero, ¡caramba! hemos de cubrir ese mínimo, que repito no lo veo relacionado c
 
 En cuanto al párrafo que envié anteriormente, he aquí el original en inglés:
 
-> «_A buman mind discerning right and wrong and possessing the capacity to worship God, in union with a divine Adjuster, is all that is required in that mortal to initiate and <ins>foster the production of his immortal soul</ins> of survival qualities <ins>if such a spirit-endowed individual seeks God and sincerely desires to become like him</ins>, bonestly elects to do the will of the Father in heaven_.»
+> «_A human mind discerning right and wrong and possessing the capacity to worship God, in union with a divine Adjuster, is all that is required in that mortal to initiate and <ins>foster the production of his immortal soul</ins> of survival qualities <ins>if such a spirit-endowed individual seeks God and sincerely desires to become like him</ins>, bonestly elects to do the will of the Father in heaven_.»
 
 Pudiera ser que la condición de «buscar a Dios» se necesite para <ins>FOMENTAR</ins> el desarrollo del alma, que no su nacimiento.
 

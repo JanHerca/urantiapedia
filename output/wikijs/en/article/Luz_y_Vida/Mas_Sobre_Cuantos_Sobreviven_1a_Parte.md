@@ -202,7 +202,7 @@ We suffer, from the outset, just for being born here, a double disaster: a BADLY
 
 The Gods take good note of the place of birth, the environment, the heredity, and the other characteristics of the individual. If they are to be fair, it cannot be otherwise.
 
-In this regard, I always remember the words of Jesus on the cross: “_Father, forgive them, <ins>for they do NOT know what they are doing</ins>_”. And who does NOT know what he is doing, what is he?... An ignoramus, an unconscious. $¿ V$ are you going to punish him for not knowing what he's doing? To reflect...
+In this regard, I always remember the words of Jesus on the cross: “_Father, forgive them, <ins>for they do NOT know what they are doing</ins>_”. And who does NOT know what he is doing, what is he?... An ignoramus, an unconscious. ¿ Are you going to punish him for not knowing what he's doing? To reflect...
 
 **Eduardo:** After having read all of them, I dare to say that, given the above, there is no need to be afraid, that here earthlings do not take away our existence like that at the first opportunity, right? At the moment it seems, according to versions, that we can be calm and happy that they do not mess with us given the “circumstances”. They won't ask someone who doesn't find a soul for explanations because they consider him an ignorant animal and the one who does, is saved for the moment because he has decided to seek God, right? Well, that's great, that everything is so simple and simple, I'm glad for that. He had a “nightmare” on him. I think that the subject has given a lot of itself and has clarified doubts.
 

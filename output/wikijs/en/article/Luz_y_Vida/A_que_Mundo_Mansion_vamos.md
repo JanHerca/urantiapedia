@@ -78,7 +78,7 @@ The doubt is in those of individual ascension because in paper 47 section 3 it i
 
 > “If you are not to be detained on mansion world number one, at the end of ten days you will enter the translation sleep and proceed to world number two, and every ten days thereafter you will thus advance until you arrive on the world of your assignment.” (<a id="a78_259"></a>[UB 47:3.10](/en/The_Urantia_Book/47#p3_10))
 
-It refers, as you know, to the ten days of “relaxation” that you have as soon as you wake up. And a little earlier it is said: 533:5 “On mansion world number one (or another in case of advanced condition) you will resume your intellectual training and spiritual development at the exact level at which they were interrupted by death...”
+It refers, as you know, to the ten days of “relaxation” that you have as soon as you wake up. And a little earlier it is said: [LU 47:3.7](/en/The_Urantia_Book/47#p3_7) “On mansion world number one (or another in case of advanced status) you will resume your intellectual training and spiritual development at the exact level whereon they were interrupted by death...”
 
 In the first paragraphs that I quote, I understand that it goes directly to the world that touches you. However, in the latter, it gives the opposite impression. Looking at it carefully, the incompatibility may be only apparent, since paper 49 does not say how do I know what do you think?
 

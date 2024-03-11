@@ -200,7 +200,7 @@ Padecemos, de entrada, sólo por nacer aquí, un doble desastre: una sociedad MA
 
 Los Dioses toman buena nota del lugar de nacimiento, del entorno, de la herencia, y de las demás características del individuo. Si han de ser justos, no puede ser de otra manera.
 
-Siempre recuerdo al respecto las palabras de Jesús en la cruz: «_Padre, perdónalos, <ins>porque NO saben lo que hacen</ins>_». Y quien NO sabe lo que hace, ¿qué es?... Un ignorante, un inconsciente. $¿ V$ as a castigarlo por no saber lo que hace? Para reflexionar...
+Siempre recuerdo al respecto las palabras de Jesús en la cruz: «_Padre, perdónalos, <ins>porque NO saben lo que hacen</ins>_». Y quien NO sabe lo que hace, ¿qué es?... Un ignorante, un inconsciente. ¿ Vas a castigarlo por no saber lo que hace? Para reflexionar...
 
 **Eduardo:** Después de haber leído a todos, me atrevo a decir que, dado lo expuesto, no hay que tener miedo, que aquí a los terrícolas no nos quitan la existencia así a la primera de cambio ¿no? De momento parece ser, según versiones, que podemos estar tranquilos y contentos que con nosotros no se meten dadas las «circunstancias». Al que no logra alma, no le van a pedir explicaciones porque le consideran un animal ignorante y al que lo logra, está salvado de momento porque ha decidido buscar a Dios ¿no? Pues qué bien, que todo sea tan simple y sencillo, yo me alegro por ello. Tenía una «pesadilla» encima. Pienso que el tema ha dado mucho de sí y ha aclarado dudas.
 

@@ -121,7 +121,7 @@ _(Lo presenta un Consejero Divino de Uversa)._
 
 De aquí se deduce que Urantia está a aproximadamente 1 / 3 de distancia de Uversa, lo que hace que cuando se refieren a su localización en las afueras del superuniverso, sea no hacia la parte más alejada del centro sino quizá hacia «arriba o abajo» (?) Además, esto nos daría como radio de la parte materializada del superuniverso de unos 600000 a.l. Sin embargo, la parte habitada se correspondería con unos 250000 a.l.
 
-> _Todos estos cálculos son a lo sumo aproximaciones, porque nuevos sistemas están evolucionando constantemente, mientras ***que otras organizaciones pasan temporalmente fuera de la existencia material***._ (¿Qué quiere decir esto?) <a id="a123_233"></a>[LU 15:2.12](/es/The_Urantia_Book/15#p2_12)
+> _Todos estos cálculos son a lo sumo aproximaciones, porque nuevos sistemas están evolucionando constantemente, mientras ***que otras organizaciones pasan temporalmente fuera de la existencia material***._ (¿Qué quiere decir esto?) <a id="a123_233"></a>[LU 15:2.25](/es/The_Urantia_Book/15#p2_25)
 
 > _Los astrónomos de Urantia han identificado aproximadamente ocho de las diez divisiones mayores de Orvonton. Es dificil reconocer separadamente las otras dos porque estáis obligados a visualizar estos fenómenos desde el interior. Si pudierais observar el superuniverso de Orvonton desde una ubicación vastamente distante en el espacio, inmediatamente reconoceríais los diez. sectores principales de ***la séptima galaxia***._ <a id="a125_428"></a>[LU 15:3.4](/es/The_Urantia_Book/15#p3_4)
 
