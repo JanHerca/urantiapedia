@@ -136,12 +136,15 @@ class GoogleTranslate {
 			})
 			.then(result => {
 				//Return any issue
-				const lineCount = objects.reduce((ac,cur) => {
-					return ac + cur.line.length;
-				}, 0);
-				const trCount = objects.reduce((ac,cur) => {
-					return ac + (cur.text ? cur.text.length : 0);
-				}, 0);
+				const lineCount = objects
+					.reduce((ac,cur) => {
+						return ac + cur.line.length;
+					}, 0);
+				const trCount = objects
+					.filter(obj => obj.ignore != true)
+					.reduce((ac,cur) => {
+						return ac + (cur.text ? cur.text.length : 0);
+					}, 0);
 				errors.push(strformat(msg1, lineCount));
 				errors.push(strformat(msg2, trCount));
 				return errors;
@@ -167,12 +170,15 @@ class GoogleTranslate {
 				const objects = this.processLines(lines, sourceLan, targetLan, 
 					errors);
 				//Return any issue
-				const lineCount = objects.reduce((ac,cur) => {
-					return ac + cur.line.length;
-				}, 0);
-				const trCount = objects.reduce((ac,cur) => {
-					return ac + (cur.text ? cur.text.length : 0);
-				}, 0);
+				const lineCount = objects
+					.reduce((ac,cur) => {
+						return ac + cur.line.length;
+					}, 0);
+				const trCount = objects
+					.filter(obj => obj.ignore != true)
+					.reduce((ac,cur) => {
+						return ac + (cur.text ? cur.text.length : 0);
+					}, 0);
 				return [errors[0], lineCount, trCount];
 			})
 	}

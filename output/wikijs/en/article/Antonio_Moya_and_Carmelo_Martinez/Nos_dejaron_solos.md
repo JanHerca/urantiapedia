@@ -127,9 +127,7 @@ I remind you that life on a planet is fully planned in the worlds (and laborator
 
 And everything is done according to Miguel's creative plan for the local universe, and approved by Miguel who is really and in fact the only creator in his local universe. In other words, Miguel, our Miguel, approved our experiment.
 
-It seems that the experiment did not go very well. Or if? As I have said once, in the celestial order it happens as with the pig,
-
-everything is used. Surely from everything they learned with us, from our blunders, they have obtained benefits for other, newer planets. Was this alternative “piphiatic” line of evolution also planned, foreseen? I'd like to know the details when I go there.
+It seems that the experiment did not go very well. Or if? As I have said once, in the celestial order it happens as with the pig, everything is used. Surely from everything they learned with us, from our blunders, they have obtained benefits for other, newer planets. Was this alternative “piphiatic” line of evolution also planned, foreseen? I'd like to know the details when I go there.
 
 ## References
 

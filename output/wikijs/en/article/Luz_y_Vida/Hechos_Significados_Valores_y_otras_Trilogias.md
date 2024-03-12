@@ -196,7 +196,7 @@ In case it helps at all, here is this text from Document 102, section 3:
 > _The pursuit of knowledge constitutes science; the search for wisdom is philosophy; love of God is religion; the hunger for truth is a revelation. But the inner Thought Adjuster is the one that connects the feeling of reality with the human spiritual insight of the cosmos._
 > 
 > _In science, the idea precedes the expression of its realization; in religion, the experience of realization precedes the expression of the idea. There is a vast difference between the evolutionary will to believe and the product of enlightened reason, religious insight and revelation - the will to believe._
-
+> 
 > _En la evolución, la religión conduce con frecuencia al hombre a crear sus conceptos de Dios; la revelación manifiesta el fenómeno de Dios haciendo evolucionar al hombre mismo, mientras que en la vida terrestre de Cristo Miguel contemplamos el fenómeno de Dios revelándose al hombre. La evolución tiende a hacer a Dios semejante al hombre; la revelación tiende a hacer al hombre semejante a Dios._ 
 > 
 > _Science is only satisfied with first causes, religion with supreme personality, and philosophy with unity. Revelation affirms that these three are one, and that all are good. The eternal real is the good of the universe and not the time illusions of space evil. In the spiritual experience of all personalities, always is it true that the real is the good and the good is the real._ <a id="a201_386"></a>[UB 102:3.5-15](/en/The_Urantia_Book/102#p3_5)

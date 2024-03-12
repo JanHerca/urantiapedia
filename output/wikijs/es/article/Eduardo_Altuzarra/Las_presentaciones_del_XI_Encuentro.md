@@ -173,7 +173,7 @@ Hay que prestar mucha atención a los actos y a las consecuencias.
 
 En <a id="a173_3"></a>[LU 2:7.11](/es/The_Urantia_Book/2#p7_11) se dice que:
 
-> _***La salud, la cordura y la felicidad*** son integraciones de la verdad, la belleza y la bondad tal como se encuentran combinadas en la experiencia humana. Estos niveles de vida eficaz llegan a conseguirse mediante la unificación de los ***sistemas energéticos, los sistemas de las ideas y los sistemas del espíritu***._
+> ***La salud, la cordura y la felicidad*** _son integraciones de la verdad, la belleza y la bondad tal como se encuentran combinadas en la experiencia humana. Estos niveles de vida eficaz llegan a conseguirse mediante la unificación de los ***sistemas energéticos, los sistemas de las ideas y los sistemas del espíritu***._
 
 En el uso diario de nuestros actos nos acompañan los sentidos físicos, la moral y la experiencia religiosa. Los resultados nos aportan lecciones para nuestra ciencia, nuestra filosofía y nuestra religión.
 

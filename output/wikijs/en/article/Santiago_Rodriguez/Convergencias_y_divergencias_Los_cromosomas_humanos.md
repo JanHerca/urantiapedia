@@ -70,17 +70,17 @@ What sense would it make to give us an erroneous data and take the error further
 
 Let's keep in mind some dates to consider in time the study of chromosomes and their relationship with biological inheritance: (citations taken from Wikipedia in November 2011)
 
-- [1841](https://es.wikipedia.org/wiki/1841), chromosomes were discovered by [Karl Wilhelm von Nägeli](https://es.wikipedia.org/wiki/Karl_Wilhelm_von_N%C3%A4geli).
+- [1841](https://en.wikipedia.org/wiki/1841), chromosomes were discovered by [Karl Wilhelm von Nägeli](https://en.wikipedia.org/wiki/Carl_N%C3%A4geli).
 
-- [1869](https://es.wikipedia.org/wiki/1869), [Friedrich Miescher](https://es.wikipedia.org/wiki/Friedrich_Miescher) discovers DNA.
+- [1869](https://en.wikipedia.org/wiki/1869), [Friedrich Miescher](https://en.wikipedia.org/wiki/Friedrich_Miescher) discovers DNA.
 
-- [1889](https://es.wikipedia.org/wiki/1889), [Wilhelm von Waldeyer](https://es.wikipedia.org/wiki/Heinrich_Wilhelm_Gottfried_Waldeyer) gave them the name chromosome which means colored body in Greek.
+- [1889](https://en.wikipedia.org/wiki/1889), [Wilhelm von Waldeyer](https://en.wikipedia.org/wiki/Heinrich_Wilhelm_Gottfried_von_Waldeyer-Hartz) gave them the name chromosome which means colored body in Greek.
 
-- [1910](https://es.wikipedia.org/wiki/1910), [Thomas Hunt Morgan](https://es.wikipedia.org/wiki/Thomas_Hunt_Morgan) described that they are carriers of the [genes](https://es.wikipedia.org/wiki/Gen).
+- [1910](https://en.wikipedia.org/wiki/1910), [Thomas Hunt Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan) described that they are carriers of the [genes](https://en.wikipedia.org/wiki/Gene).
 
-- [1943](https://es.wikipedia.org/wiki/1943), [Oswald Avery](https://es.wikipedia.org/wiki/Oswald_Avery), C. McLeod and M. McCarty discover that DNA is the hereditary material.
+- [1943](https://en.wikipedia.org/wiki/1943), [Oswald Avery](https://en.wikipedia.org/wiki/Oswald_Avery), C. McLeod and M. McCarty discover that DNA is the hereditary material.
 
-- [1953](https://es.wikipedia.org/wiki/1953), [James Dewey Watson](https://es.wikipedia.org/wiki/James_Dewey_Watson) and [Francis Harry Compton Crick](https://es.wikipedia.org/wiki/Francis_Crick) discover the structure of DNA.
+- [1953](https://en.wikipedia.org/wiki/1953), [James Dewey Watson](https://en.wikipedia.org/wiki/James_Watson) and [Francis Harry Compton Crick](https://en.wikipedia.org/wiki/Francis_Crick) discover the structure of DNA.
 
 If at this moment we make an inventory of data, we find that we have the following panorama:
 

@@ -41,7 +41,7 @@ La las 7 de la tarde, Olga López e Ismael Gracia, expresidenta y secretario de 
 
 ## Presentación del libro en la FNAC De Valencia
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV30/04.jpg">
 </figure>
 
@@ -52,7 +52,7 @@ El sábado **29 de septiembre**, a las *7 de la tarde*, en la FNAC de Valencia (
 
 La Asociación Urantia de España estará presente también en la feria Art i Sentiment de la localidad tarraconense de L'Aldea, que se celebrará el fin de semana del **20- 21 de octubre**. En esta ocasión, se dará una presentación sobre _El Libro de Urantia_ a las 7 de la tarde del sábado 20 de octubre. Para más detalle, os rogamos que os mantengáis informados visitando periódicamente nuestra página web (http://www.urantia.es), así como nuestra página en Facebook (http://www.facebook.com/asociacion.urantiadeespana)
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV30/03.jpg">
 </figure>
 

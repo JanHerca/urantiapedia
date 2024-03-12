@@ -125,9 +125,7 @@ Os recuerdo que la vida en un planeta se planifica totalmente en los mundos (y l
 
 Y todo está hecho de acuerdo con el plan creativo de Miguel para el universo local, y aprobado por Miguel que es realmente y de hecho el único creador en su universo local. O sea, Miguel, nuestro Miguel, aprobó nuestro experimento.
 
-Parece que el experimento no les salió muy bien. ¿O sí? Como he dicho alguna vez, en el orden celestial pasa como con el cerdo,
-
-se aprovecha todo. Seguro que de todo lo que aprendieron con nosotros, de nuestras pifias, han obtenido beneficios para otros planetas más nuevos. ¿Estaría también planificada, prevista, esta línea alternativa «pifiática» de evolución? Me gustará conocer los detalles cuando vaya para allá. 
+Parece que el experimento no les salió muy bien. ¿O sí? Como he dicho alguna vez, en el orden celestial pasa como con el cerdo, se aprovecha todo. Seguro que de todo lo que aprendieron con nosotros, de nuestras pifias, han obtenido beneficios para otros planetas más nuevos. ¿Estaría también planificada, prevista, esta línea alternativa «pifiática» de evolución? Me gustará conocer los detalles cuando vaya para allá. 
 
 ## Referencias
 

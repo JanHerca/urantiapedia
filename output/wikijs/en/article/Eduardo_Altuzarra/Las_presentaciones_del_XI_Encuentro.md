@@ -175,7 +175,7 @@ You have to pay close attention to actions and consequences.
 
 In <a id="a175_3"></a>[UB 2:7.11](/en/The_Urantia_Book/2#p7_11) it says that:
 
-> _***Health, sanity, and happiness*** are integrations of truth, beauty, and goodness as they are blended in human experience. Such levels of efficient living come about through the unification of ***energy systems, idea systems, and spirit systems***._
+> ***Health, sanity, and happiness*** _are integrations of truth, beauty, and goodness as they are blended in human experience. Such levels of efficient living come about through the unification of ***energy systems, idea systems, and spirit systems***._
 
 In the daily use of our acts we are accompanied by the physical senses, the moral and the religious experience. The results provide us with lessons for our science, our philosophy, and our religion.
 

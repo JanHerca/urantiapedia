@@ -43,7 +43,7 @@ At 7 in the afternoon, Olga López and Ismael Gracia, former president and secre
 
 ## Presentation of the book at the FNAC of Valencia
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV30/04.jpg">
 </figure>
 
@@ -54,7 +54,7 @@ On Saturday **September 29**, at *7 in the afternoon*, at the FNAC in Valencia (
 
 The Urantia Association of Spain will also be present at the Art i Sentiment fair in the Tarragona town of L'Aldea, which will be held on the weekend of **October 20-21**. On this occasion, a presentation on _The Urantia Book_ will be given at 7 pm on Saturday, October 20. For more details, we ask you to stay informed by periodically visiting our website (http://www.urantia.es), as well as our Facebook page (http://www.facebook.com/asociacion.urantiadeespana)
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV30/03.jpg">
 </figure>
 
