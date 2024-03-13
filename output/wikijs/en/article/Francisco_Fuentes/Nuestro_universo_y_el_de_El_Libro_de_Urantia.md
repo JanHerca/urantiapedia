@@ -127,9 +127,9 @@ Our measurement errors occur because if the universe expands and contracts every
 
 The speed of light, as fast as it is, is insufficient to cover such great distances in a reasonable time. Impossible. There has to be something faster.
 
-There is. The book explains it in UB 23:3.2 of Paper 23:
+There is. The book explains it in UB 23:3.22 of Paper 23:
 
-> _. . . The limit of velocity for most nonenseraphimed beings is 186,280 miles of your world per second of your time; the midway creatures and certain others can, often do, attain double velocity—372,560 miles per second—while the seraphim and others can traverse space at triple velocity, about 558,840 miles per second._ (<a id="a131_325"></a>[UB 23:3.2](/en/The_Urantia_Book/23#p3_2))
+> _. . . The limit of velocity for most nonenseraphimed beings is 186,280 miles of your world per second of your time; the midway creatures and certain others can, often do, attain double velocity—372,560 miles per second—while the seraphim and others can traverse space at triple velocity, about 558,840 miles per second._ (<a id="a131_325"></a>[UB 23:3.22](/en/The_Urantia_Book/23#p3_2))
 
 > _When it develops that it will require hundreds of years for a native ambassador to reach a far-distant local universe, a Solitary Messenger is often asked to proceed there immediately to act as ambassador ad interim. Solitary Messengers can go in very short order, not independently of time and space as do the Gravity Messengers, but nearly so. . . ._ (<a id="a133_357"></a>[UB 23:2.23](/en/The_Urantia_Book/23#p2_23))
 

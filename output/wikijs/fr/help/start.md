@@ -62,7 +62,7 @@ Pour plus d'informations sur le contenu, cliquez ici : [Contenu](/fr/help/conten
 ## Étapes du projet
 
 Pour chaque langue à inclure dans l'Urantipedia, toutes les tâches seront effectuées dans des étapes spécifiques :
-1. Étape I - Le Livre d'Urantia, la Bible et l'index des sujets.
+1. Étape I - _Le Livre d'Urantia_, la _Bible_ et _l'index des sujets_.
 2. Étape II - Livres, articles, aides à l'étude, diagrammes et index
 3. Étape III - Traducteur
 4. Étape IV - Cartes interactives
@@ -74,8 +74,10 @@ Pour en savoir plus sur les étapes du projet, consultez la rubrique[ Étapes du
 ## Situation actuelle
 
 Actuellement, *Urantiapedia* se présente comme suit :
-* dans toutes les langues supportées (25) : en phase I.
-* en anglais, espagnol, français et portugais : entre la phase I et la phase II.
+* De nombreux progrès ont été réalisés dans la Phase I. _Le Livre d'Urantia_, la _Bible_ et _Paramony_ (ou des liens entre les deux) sont ajoutés dans toutes les langues prises en charge (25 actuellement). L'_Index des sujets_ est en cours pour l'anglais, l'espagnol et le français.
+* La phase II est en cours en anglais, espagnol et français.
+* Beaucoup de progrès ont été réalisés en phase III, c'est un logiciel de traduction et il n'y a pas de contenu spécifique pour chaque langue.
+* Des phases IV, V et VI, seuls de petits tests ont été réalisés avec certains contenus.
 
 Pour en savoir plus sur l'avancement actuel du projet, cliquez ici: [Statut](/fr/help/status).
 

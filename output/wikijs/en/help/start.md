@@ -63,7 +63,7 @@ For more information on the content check here: [Content](/en/help/content)
 ## Milestones of the project
 
 For each language to be included in the *Urantipedia*, all tasks will be carried out in specific milestones:
-1. Milestone I - The Urantia Book, the Bible and Topic Index
+1. Milestone I - _The Urantia Book_, the _Bible_ and _Topic Index_
 2. Milestone II - Books, articles, study aids, diagrams and indexes
 3. Milestone III - Translator
 4. Milestone IV - Interactive maps
@@ -76,8 +76,10 @@ To find out about the Milestone of the project, check [Project Milestones](/en/h
 ## Current status
 
 Currently *Urantiapedia* stands as follows:
-* in all supported languages (25): in phase I.
-* in English, Spanish, French and Portuguese: between phase I and phase II.
+* Much progress has been made in Milestone I. _The Urantia Book_, the _Bible_, and _Paramony_ (or links between both) are added in all supported languages (25 currently). The _Topic Index_ is in progress for English, Spanish and French.
+* Milestone II is in progress in English, Spanish and French.
+* Milestone III is much of it done, it is a translation software and there is no specific content for each language.
+* For milestones IV, V and VI only small tests have been carried out with some contents.
 
 To know more about the current progress of the project check here: [Status](/en/help/status).
 

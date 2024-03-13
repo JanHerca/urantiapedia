@@ -62,7 +62,7 @@ Para obtener más información sobre el contenido: [Contenido](/es/help/content)
 ## Fases del proyecto
 
 Para cada idioma a incluir en la *Urantipedia* se ejecutará el trabajo en varias fases:
-1. Fase I - El Libro de Urantia, la Biblia y el Índice de Términos
+1. Fase I - _El Libro de Urantia_, la _Biblia_ y el _Índice de Temas_
 2. Fase II - Libros, artículos, ayudas de estudio, diagramas e índices
 3. Fase III - Traductor
 4. Fase IV - Mapas interactivos
@@ -76,8 +76,10 @@ Para conocer las fases del proyecto consulta [Fases del proyecto](/es/help/phase
 ## Situación actual
 
 Actualmente *Urantiapedia* se encuentra como sigue:
-* en todos los idiomas soportados (25): en la fase I.
-* en inglés, español, francés y portugués: entre la fase I y la fase II.
+* Se ha avanzado mucho en la fase I. _El Libro de Urantia_, la _Biblia_, y el _Paramony_ (o enlaces entre ambos) se encuentran añadidos en todos los idiomas soportados (25 actualmente). El Índice de Temas está en progreso para en inglés, español y francés.
+* La fase II está en progreso en inglés, español y francés.
+* La fase III está muy avanzada, se trata de un software de traducción y no hay contenido específico por cada idioma.
+* De las fases IV, V y VI sólo se han realizado pequeñas pruebas con algunos contenidos.
 
 Para conocer más sobre el progreso del proyecto: [Status](/es/help/status)
 
