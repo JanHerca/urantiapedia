@@ -114,7 +114,11 @@ Therefore, if thanks to the UB Jesus and the Truth enter you definitively, we mu
 
 I don't think that's the reason why people don't decide to read it. Precisely what most people like a lot is magic and mystery. The real reason is that not everyone is ready because their “time” has not come. If there is any mystery, it is how this book makes its way to reach who it has to reach. I'm not talking about reaching any “chosen one” or anything like that, I'm talking about reaching those who really need it.
 
-What does seem a bit mysterious to me is that no organized religion has seriously and officially attacked this revelation, taking into account that the UB unmasks, although always with respect, its defects and shortcomings. 12. Is there anything else you would like to say regarding _The Urantia Book_? Just to emphasize that we are very lucky to have received this gift and that we must make the most of it. It is a source of knowledge in which lies an enormous potential capable of transforming the entire world. Sometimes I wonder if we readers are really aware of it.
+What does seem a bit mysterious to me is that no organized religion has seriously and officially attacked this revelation, taking into account that the UB unmasks, although always with respect, its defects and shortcomings. 
+
+## 12. Is there anything else you would like to say regarding _The Urantia Book_?
+
+Just to emphasize that we are very lucky to have received this gift and that we must make the most of it. It is a source of knowledge in which lies an enormous potential capable of transforming the entire world. Sometimes I wonder if we readers are really aware of it.
 
 “The truth will set you free,” said the Master. And, as in everything he said... he was right.
 

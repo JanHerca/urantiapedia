@@ -112,7 +112,11 @@ Por eso, si gracias al LU Jesús y la Verdad entran definitivamente en ti, debem
 
 No creo que ese sea el motivo por lo que la gente no se decida a leerlo. Precisamente a la mayoría de la gente lo que le gusta mucho es la magia y el misterio. El motivo real es que no todo el mundo está preparado porque no ha llegado su «momento». Si hay algún misterio es cómo se abre camino este libro para llegar a quien tiene que llegar. No hablo de llegar a ningún «elegido» ni nada así, hablo de llegar a quien de verdad lo necesita.
 
-Lo que sí me parece digamos un poco misterioso es que ninguna religión organizada haya atacado seriamente y oficialmente a esta revelación, teniendo en cuenta que el LU desenmascara, aunque siempre desde el respeto, sus defectos y carencias. 12. ¿Hay algo más que quieras decir respecto a _El Libro de Urantia_? Solo recalcar que somos muy afortunados por haber recibido este regalo y que debemos aprovecharlo al máximo. Es una fuente de conocimiento en la que reside un potencial enorme capaz de transformar el mundo entero. A veces me pregunto si los lectores somos realmente conscientes de ello.
+Lo que sí me parece digamos un poco misterioso es que ninguna religión organizada haya atacado seriamente y oficialmente a esta revelación, teniendo en cuenta que el LU desenmascara, aunque siempre desde el respeto, sus defectos y carencias. 
+
+## 12. ¿Hay algo más que quieras decir respecto a _El Libro de Urantia_?
+
+Solo recalcar que somos muy afortunados por haber recibido este regalo y que debemos aprovecharlo al máximo. Es una fuente de conocimiento en la que reside un potencial enorme capaz de transformar el mundo entero. A veces me pregunto si los lectores somos realmente conscientes de ello.
 
 «La verdad os hará libres», dijo el Maestro. Y, como en todo lo que dijo... tenía razón.
 

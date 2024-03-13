@@ -83,7 +83,7 @@ For me, putting the Master's teachings into practice means loving my neighbor as
 
 I don't think it's mysterious at all; For me it is the most important book that exists, has existed and will exist in the world, and whoever does not read it is that they are not looking for the truth, because as I said before, to those who search from the heart, the Father gives them the answers.
 
-12. Is there anything else you would like to say regarding “The Urantia Book”?
+## 12. Is there anything else you would like to say regarding “The Urantia Book”?
 
 What I can say is that thanks to _The Urantia Book_ I wake up every day with an inner joy that I cannot explain. I look at the world and at people in a different way, I give importance to what I think really has it, I live life without fear because I believe that they help us when we really need it. I am convinced that death is only the first step to an infinitely better world, and the only thing that makes me very sad is that only a small group of people know about this marvel that is _The Urantia Book_.
 

@@ -100,7 +100,7 @@ _¿Por qué nos sorprende esta actitud de los reveladores?_
 
 Tengo que deciros que cuando yo pasé por primera vez mis ojos por todos esos párrafos, a mí personalmente no me sorprendió lo que leía. Considero que reafirmó ciertas ideas que yo tenía. Siempre he estimado que para ser verdaderos hijos de Dios y representarle como tal, todos los seres humanos deberíamos ser buenos, en todos los aspectos. Si este mundo lo componemos buenos y malos y, como dice Olga, basta con echar una miradita a nuestro alrededor, incluidos nosotros y no logramos el objetivo primordial por desconocimiento de la realidad, o bien nos mezclamos rápidamente o los malos cada vez serán más y todo el proyecto se irá al traste.
 
-_¿Puede divulgarse algo asísin más preparación?_
+_¿Puede divulgarse algo así sin más preparación?_
 
 Ni hoy ni nunca debemos eliminar a nadie. Pero sí que a través de los organismos internacionales bien se pudieran ir dando consignas concretas o divulgando de un modo acertado y correcto manuales de conducta instructiva avalados por personas sabias e instruidas en el fomento perspicaz de los potenciales creciente y evolutivos, hallados en la experiencia de una vida ejemplar en ética, moral y religiosidad. Vamos, personas que bien pudieran ser ejemplo de vida, que haberlos «haylos» dentro de los diferentes extractos sociales. Pero también es verdad que esto actualmente es casi imposible. Considero que todavía tiene que pasar tiempo hasta que muchos seres humanos lean las páginas del LU y admitan que la mezcla de las razas es lo mejor que le puede ocurrir a la humanidad.
 

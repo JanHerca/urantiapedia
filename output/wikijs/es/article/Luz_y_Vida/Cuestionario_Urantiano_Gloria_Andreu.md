@@ -81,7 +81,7 @@ Para mí poner en práctica las enseñanzas del Maestro es querer al prójimo co
 
 Para nada creo que sea misterioso; para mi es el libro más importante que existe, ha existido y existirá en el mundo, y quien no lo lee es que no está buscando la verdad, porque como dije anteriormente, al que busca de corazón, el Padre le da las respuestas.
 
-12. ¿Hay algo más que quieras decir respecto a «El Libro de Urantia»?
+## 12. ¿Hay algo más que quieras decir respecto a «El Libro de Urantia»?
 
 Lo que puedo decir es que gracias a _El Libro de Urantia_ me levanto todos los días con una alegría interior que no puedo explicar. Miro al mundo y a las personas de una manera diferente, doy importancia a lo que creo que realmente la tiene, vivo la vida sin miedos porque creo que nos ayudan cuando realmente lo necesitamos. Estoy convencida que la muerte es solo el primer paso para un mundo infinitamente mejor, y lo único que me da mucha pena es que solamente un pequeño grupo de personas conocemos esta maravilla que es _El Libro de Urantia_.
 
