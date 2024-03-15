@@ -246,7 +246,7 @@ Hay un comentario interesante sobre el tratamiento del crimen, y que en mi opini
 
 A eso se le llama «ponerse la venda antes de la herida». Eso sí, parece que el método les funciona, pues tal y como dice al final del párrafo, «_el índice de homicidios en este continente sólo representa el uno por ciento del de las otras naciones_». Además del tratamiento del crimen que llevan a cabo, realizan algún tipo de eugenesia:
 
-> _Hace más de cien años que se emprendieron unos esfuerzos para impedir la procreación de los criminales y los anormales, y ya han dado unos resultados satisfactorios. No existen cárceles $n i$ hospitales para los locos. Y esto es así por una buena razón, y a que estos grupos sólo representan aproximadamente el diez por ciento de los que se encuentran en Urantia._ (<a id="a248_369"></a>[LU 72:10.3](/es/The_Urantia_Book/72#p10_3)) 
+> _Hace más de cien años que se emprendieron unos esfuerzos para impedir la procreación de los criminales y los anormales, y ya han dado unos resultados satisfactorios. No existen cárceles ni hospitales para los locos. Y esto es así por una buena razón, y a que estos grupos sólo representan aproximadamente el diez por ciento de los que se encuentran en Urantia._ (<a id="a248_369"></a>[LU 72:10.3](/es/The_Urantia_Book/72#p10_3)) 
 
 Parece que este párrafo deja traslucir cierta aprobación de los reveladores al método empleado por este gobierno, además de insinuar que en Urantia tenemos un exceso de locos y criminales tarados (eso es algo en lo que seguro que estamos todos de acuerdo).
 

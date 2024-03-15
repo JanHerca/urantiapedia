@@ -76,7 +76,7 @@ Hundreds of years ago, Agustín de Hipona told us these wonderful words that des
 _"I loved you late, beauty so old, and so new, I loved you late. And behold, You were within me, and I was outside; and outside I was looking for you, and I threw myself on those beauties that you created._
 _“You were with me, but I was not with you. They kept me away from you those things that, if they were not in you, would not exist.”_
 
-º[Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04)
+[Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04)
 <br style="clear:both" />
 
 ## Works – our recommendations of the month
@@ -288,12 +288,15 @@ In the Our Father that is currently prayed (and that was changed in 1986 during 
 > and deliver us from evil. Amen.<br>
 
 Apparently, the initial version in Greek speaks without a doubt of debts, in no case of offenses. You can see [here](https://www.religiondigital.org/humanismo_sin_credos/Ofensas-deudas-Tergiversacion-Padrenuestro_7_1806189373.html) a Digital Religion blog entry where this change is discussed.
+
 For them, it is clear that those debts referred to in this sentence are not metaphorical or spiritual, but material. I rescue a paragraph here, because I find it very interesting:
+
 Jesus in the mouth of Matthew and in the Our Father did not speak of offenses. He spoke of true and authentic “debts.” Money debts. Money that the poor did not have and without which no spiritual life is possible.
 
 At a time when banks and states are not about to forgive anyone's debts, but rather the opposite (encourage individuals and states to get even more indebted and to be tied hand and foot to their creditors for decades), it is curious to change the sentence that way.
 
 After reading these entries, I went to _The Urantia Book_ to see what wording of the Our Father was in it (unfortunately, I was only able to memorize my Lord's Prayer as a child).
+
 It is in document 144 and it says like this:
 
 

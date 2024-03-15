@@ -282,7 +282,7 @@ Cuando comencé a leer el libro experimenté muchos conflictos, pues su contenid
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/UBIS-En-el-foco.png" alt="UBIS En el foco">
 </figure>
 
-La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) comienza este año un ciclo de seminarios web «En el foco», relacionados con temas de _El Libro de Urantia_ o de la comunidad de lectores.
+La Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés) comienza este año un ciclo de seminarios web «En el foco», relacionados con temas de _El Libro de Urantia_ o de la comunidad de lectores.
 
 En el idioma español, las sesiones durarán entre 60 y 90 minutos, y se celebrarán un sábado al mes a las 6 de la tarde (hora de Madrid, París, Roma). El presentador dará una presentación introductoria sobre el tema en cuestión, tras la que habrá ocasión para que los asistentes participen en un debate.
 

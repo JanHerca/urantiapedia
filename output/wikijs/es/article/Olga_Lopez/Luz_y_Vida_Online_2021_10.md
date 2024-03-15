@@ -254,7 +254,7 @@ Hay pocas cosas que satisfagan más nuestro ego que el corregir los errores de l
 
 Eduardo Altuzarra
 
-> <figure id="Figure_13" class="image urantiapedia">
+<figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
 </figure>
 

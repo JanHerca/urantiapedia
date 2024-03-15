@@ -256,7 +256,7 @@ There are few things that satisfy our ego more than correcting the mistakes of o
 
 Eduardo Altuzarra
 
-> <figure id="Figure_13" class="image urantiapedia">
+<figure id="Figure_13" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="My favorite paragraph - oct 2021">
 </figure>
 

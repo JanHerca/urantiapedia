@@ -74,7 +74,7 @@ Nos decía cientos de años atrás Agustín de Hipona estas maravillosas palabra
 _«Tarde te amé, hermosura tan antigua, y tan nueva, tarde te amé. Y he aquí que Tú estabas dentro de mí, y yo fuera; y fuera te buscaba yo, y me arrojaba sobre esas hermosuras que Tú creaste._
 _»Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aquellas cosas que, si no estuviesen en ti, no existirían.»_
 
-º[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04)
+[Read more](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04)
 <br style="clear:both" />
 
 ## Trabajos – nuestras recomendaciones del mes
@@ -286,12 +286,15 @@ En el Padre Nuestro que se reza actualmente (y que se cambió en 1986 durante el
 > y líbranos del mal. Amén.<br>
 
 Según parece, la versión inicial en griego habla sin lugar a dudas de deudas, en ningún caso de ofensas. Podéis ver [aquí](https://www.religiondigital.org/humanismo_sin_credos/Ofensas-deudas-Tergiversacion-Padrenuestro_7_1806189373.html) una entrada del blog Religión Digital donde se habla de este cambio.
+
 Para ellos, está claro que esas deudas a las que se alude en esta oración no son metafóricas ni espirituales, sino materiales. Rescato aquí un párrafo, porque me parece muy interesante:
+
 Jesús en boca de Mateo y en el Padrenuestro no hablaba de ofensas. Hablaba de verdaderas y auténticas «deudas». Deudas de dinero. Dinero que el pobre no tenía y sin el cual ninguna vida espiritual es posible.
 
 En una época en que los bancos y los Estados no están por perdonar deudas a nadie, sino más bien lo contrario (fomentar que personas y Estados se endeuden aún más y que estén atados de pies y manos durante décadas a sus acreedores), resulta curioso que se modificara la oración de esa forma.
 
 Después de leer estas entradas, fui a _El Libro de Urantia_ a ver cuál es la redacción del Padre nuestro que contiene (por desgracia, solo fui capaz de memorizar mi Padre nuestro de niña).
+
 Está en el documento 144 y dice así:
 
 
