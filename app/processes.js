@@ -396,6 +396,16 @@ const Processes = {
 		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
 				['output', 'wikijs', '{0}', 'index', 'articles_innerface.html']]
 	},
+	"ARTICLE_INDEX_ADD_FROM_TRANSLATION": {
+		active: true,
+		desc: {
+			en: "ARTICLES: Add the translation for an index from existing articles (TSV out file required)",
+			es: "ARTICULOS: Añadir la traducción de un índice para artículos ya existentes (fichero TSV de salida debe existir)"
+		},
+		controls: ['fnTTextbox', 'dirHTextbox'],
+		paths: [['input', 'txt', 'articles-{0}', 'articles_innerface.tsv'],
+			['output', 'wikijs']]
+	},
 	"ARTICLE_NAVIGATION_HEADERS_IN_WIKIJS": {
 		active: true,
 		desc: {

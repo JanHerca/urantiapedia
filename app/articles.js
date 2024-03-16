@@ -508,6 +508,48 @@ class Articles {
 	};
 
 	/**
+	 * Writes the titles of the articles to the provided TSV file.
+	 * Reads all the existing articles and extracts titles from them, and then
+	 * writes the titles in the TSV file.
+	 * @param {string} filePath Output file.
+	 * @param {string} outputFolder Output folder.
+	 * @return {Promise}
+	 */
+	writeArticleTitlesToTSV = (filePath, outputFolder) => {
+		return new Promise((resolve, reject) => {
+			let index = [{ title: this.index.title, title2: "" }];
+
+			const addIssue = issue => {
+				index.push({ title: issue.title, title2: "" });
+				issue.articles.forEach(article => {
+					const filePath = path.join(outputFolder, 
+						article.path.replace('/en/', 
+						`/${this.language}/`) + '.md');
+					index.push({ title: article.title, filePath, title2: "" });
+				});
+			}
+			this.index.volumes
+				.forEach(volume => volume.issues.forEach(addIssue));
+			this.index.issues.forEach(addIssue);
+
+			const paths = index.filter(item => item.filePath != undefined);
+			const filePaths = paths.map(item => item.filePath);
+
+			this.readArticleTitlesFromWikijs(filePaths)
+				.then(titles => {
+					paths.forEach((item, i) => item.title2 = titles[i]);
+
+					const lines = index
+						.map(({ title, title2 }) => `${title}\t${title2}`);
+
+					writeFile(filePath, lines.join('\n'))
+						.then(resolve, reject);
+				})
+				.catch(err => reject(Array.isArray(err) ? err : [err]));
+		});
+	};
+
+	/**
 	 * Replace some common strings wrongly typed.
 	 * @param {string} content Text to change.
 	 * @returns {string}
@@ -769,7 +811,9 @@ class Articles {
 					return (formats.indexOf(path.extname(file)) != -1);
 				});
 				if (ffiles.length === 0) {
-					return Promise.reject([this.getError('files_not_with_format', formats.toString())]);
+					return Promise.reject([
+						this.getError('files_not_with_format', formats.toString())
+					]);
 				}
 
 				this.clearArticles();
@@ -862,6 +906,36 @@ class Articles {
 				});
 				return Promise.all(promises);
 			});
+	};
+
+	/**
+	 * Reads some articles in Wiki.js format and collects the titles.
+	 * @param {string[]} filePaths Array of article paths.
+	 * @return {Promise}
+	 */
+	readArticleTitlesFromWikijs = (filePaths) => {
+		const promises = filePaths.map(filePath => {
+			return readFile(filePath)
+				.then(lines => {
+					let isMetadata = false;
+					let title = undefined;
+					lines.forEach(line => {
+						if (title) return;
+						if (!isMetadata && line.startsWith('---')) {
+							isMetadata = true;
+						}
+						if (isMetadata && line.startsWith('title:')) {
+							title = line.replace('title:', '')
+								.trim().replace(/"/g, '');
+						}
+					});
+					if (!title) {
+						throw new Error(`No title found in ${filePath}`);
+					}
+					return title;
+				});
+		});
+		return Promise.all(promises);
 	};
 
 	/**

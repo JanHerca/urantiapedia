@@ -990,6 +990,17 @@ const handle_exeButtonClick = () => {
 				.then(() => onSuccess(okMsgs))
 				.catch(onFail);
 		}
+	} else if (process === 'ARTICLE_INDEX_ADD_FROM_TRANSLATION') {
+		//Reads Articles Index File (TSV) in English
+		//Reads all articles files in selected lan and extracts titles
+		//Writes Articles Index File (TSV) in selected lan
+		if (lan != 'en') {
+			const txtFileEN = txtFile.replace('articles-' + lan, 'articles-en');
+			articles.readIndexFileFromTSV(txtFileEN)
+				.then(() => articles.writeArticleTitlesToTSV(txtFile, htmlDir))
+				.then(() => onSuccess(okMsgs))
+				.catch(onFail);
+		}
 	} else if (process === 'ARTICLE_NAVIGATION_HEADERS_IN_WIKIJS') {
 		// Reads Articles Index File (TSV)
 		// Writes navigation header/footer in Wiki.js
