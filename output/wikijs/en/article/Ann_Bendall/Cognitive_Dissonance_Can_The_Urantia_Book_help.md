@@ -54,7 +54,7 @@ It seems so much easier to continue with our current behavior, and have our frie
 
 ## Setting our moral ideals too high
 
-> The sense of guilt (not the consciousness of sin) comes either from interrupted spiritual communion or from the lowering of one's moral ideals. Deliverance from such a predicament can only come through the realization that one's highest moral ideals are not necessarily synonymous with the will of God. Man cannot hope to live up to his highest ideals, but he can be true to his purpose of finding God and becoming more and more like him. <a id="a56_441"></a>[UB 103:4.2](/en/The_Urantia_Book/103#p4_2)
+> The sense of guilt (not the consciousness of sin) comes either from interrupted spiritual communion or from the lowering of one's moral ideals. Deliverance from such a predicament can only come through the realization that one's highest moral ideals are not necessarily synonymous with the will of God. Man cannot hope to live up to his highest ideals, but he can be true to his purpose of finding God and becoming more and more like him. <a id="a56_441"></a>[UB 103:4.3](/en/The_Urantia_Book/103#p4_3)
 
 Sometimes we set our personal standards for achievement too high. We are constantly failing—not behaving as we would wish to. We may have been striving for a perfection which we simply cannot achieve at this point in time.
 

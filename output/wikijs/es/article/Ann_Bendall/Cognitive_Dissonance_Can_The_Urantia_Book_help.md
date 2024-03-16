@@ -54,7 +54,7 @@ Parece mucho más fácil continuar con nuestro comportamiento actual y hacer que
 
 ## Poner nuestros ideales morales demasiado altos
 
-> El sentimiento de culpa (no la conciencia del pecado) proviene, o bien de la interrupción de la comunión espiritual, o de la disminución de los ideales morales. Uno sólo puede liberarse de esta difícil situación comprendiendo bien que nuestros ideales morales más elevados no son necesariamente sinónimos de la voluntad de Dios. El hombre no puede esperar vivir a la altura de sus ideales más elevados, pero puede ser fiel a su intención de encontrar a Dios y de parecerse cada vez más a él. <a id="a56_494"></a>[LU 103:4.2](/es/The_Urantia_Book/103#p4_2)
+> El sentimiento de culpa (no la conciencia del pecado) proviene, o bien de la interrupción de la comunión espiritual, o de la disminución de los ideales morales. Uno sólo puede liberarse de esta difícil situación comprendiendo bien que nuestros ideales morales más elevados no son necesariamente sinónimos de la voluntad de Dios. El hombre no puede esperar vivir a la altura de sus ideales más elevados, pero puede ser fiel a su intención de encontrar a Dios y de parecerse cada vez más a él. <a id="a56_494"></a>[LU 103:4.3](/es/The_Urantia_Book/103#p4_3)
 
 A veces establecemos nuestros estándares personales de logro demasiado altos. Estamos fallando constantemente, no nos comportamos como nos gustaría. Es posible que hayamos estado luchando por una perfección que simplemente no podemos lograr en este momento.
 
