@@ -96,7 +96,7 @@ Do you remember the passage about the return of the seventy ordained preachers i
 
 Jesus himself felt euphoric at these events, full of hope for his followers.
 
-> And it was at this time, just before partaking of the evening meal, that Jesus experienced one of those rare moments of emotional ecstasy which his followers had occasionally witnessed. He said: “I thank you, my Father, Lord of heaven and earth, that, while this wonderful gospel was hidden from the wise and self-righteous, the spirit has revealed these spiritual glories to these children of the kingdom” [UB 163:6.3](/en/The_Urantia_Book/163#p6_3)
+> And it was at this time, just before partaking of the evening meal, that Jesus experienced one of those rare moments of emotional ecstasy which his followers had occasionally witnessed. He said: “I thank you, my Father, Lord of heaven and earth, that, while this wonderful gospel was hidden from the wise and self-righteous, the spirit has revealed these spiritual glories to these children of the kingdom” <a id="a98_409"></a>[UB 163:6.3](/en/The_Urantia_Book/163#p6_3)
 
 But we already know the depth of thought of our dear Creator, his spiritual insight, so the next day he gathered the seventy and gave them a very important key for them (and for us too):
 

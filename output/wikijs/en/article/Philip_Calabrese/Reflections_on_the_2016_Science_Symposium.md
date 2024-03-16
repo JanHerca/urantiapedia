@@ -51,7 +51,7 @@ I am a scientist—a mathematician—who takes _The Urantia Book_ literally when
 > 2. The co-ordination of known or about-to-be-known facts and observations.
 > 3. The restoration of important bits of lost knowledge concerning epochal transactions in the distant past.
 > 4. The supplying of information which will fill in vital missing gaps in otherwise earned knowledge.
-> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation. <a id="a57_128"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)
+> 5. Presenting cosmic data in such a manner as to illuminate the spiritual teachings contained in the accompanying revelation. <a id="a53_128"></a>[UB 101:4.5](/en/The_Urantia_Book/101#p4_5)
 
 The authors use vague terminology when they wish to avoid revealing information that is nonmandated, unearned, or forbidden, or that they otherwise choose not to disclose. But when they make a definitive assertion, they are not handing back early twentieth-century errors—the reader can expect to read authoritative corrections of errors that lessen confusion.
 

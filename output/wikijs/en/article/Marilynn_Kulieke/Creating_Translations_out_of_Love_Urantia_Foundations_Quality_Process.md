@@ -113,7 +113,7 @@ flowchart TB
 
 At the end of this process, when the revision has matured, it is time to reintegrate the enhanced language and clarity of thinking into the evolutionary channels and cultures just waiting for this new truth. The following quote truly sums up the work we are engaged in:
 
-> The spread of civilization must wait upon language. Live and growing languages insure the expansion of civilized thinking and planning. During the early ages important advances were made in language. Today, there is great need for further linguistic development to facilitate the expression of evolving thought. <a id="a113_314"></a>[UB 81:6.16](/en/The_Urantia_Book/81#p6_16)
+> The spread of civilization must wait upon language. Live and growing languages insure the expansion of civilized thinking and planning. During the early ages important advances were made in language. Today, there is great need for further linguistic development to facilitate the expression of evolving thought. <a id="a115_314"></a>[UB 81:6.16](/en/The_Urantia_Book/81#p6_16)
 
 
 ## References

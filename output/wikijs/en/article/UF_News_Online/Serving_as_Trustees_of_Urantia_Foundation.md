@@ -47,7 +47,7 @@ Serving on the board of Urantia Foundation as a trustee is something I could not
 For me it is a great honor, a great responsibility, and a great opportunity for service in which I hope to give my best to carry out the mission of Urantia Foundation, always keeping in mind that:
 <br style="clear:both;"/>
 
-> The weak indulge in resolutions, but the strong act. Life is but a day's work —do it well. The act is ours; the consequences God's. <a id="a48_134"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
+> The weak indulge in resolutions, but the strong act. Life is but a day's work —do it well. The act is ours; the consequences God's. <a id="a49_134"></a>[UB 48:7.13](/en/The_Urantia_Book/48#p7_13)
 
 
 ## Víctor García-Bory
@@ -58,14 +58,14 @@ For me it is a great honor, a great responsibility, and a great opportunity for 
 
 Few things are as extraordinarily rewarding as serving next to exceptional individuals involved with the fifth epochal revelation. Serving as a Urantia Foundation trustee is an increased and unique opportunity to work for unity and progress among all peoples and cultures of the world and all groups of students of the revelation. It is an ongoing collaboration opportunity to bring to life the organization's vision and mission.
 
-Becoming a trustee represents an increased level of responsibility and commitment to strive wholeheartedly and lovingly to follow Jesus' example, who consecrated and dedicated “his own will to the majestic service of doing the divine will.” <a id="a59_241"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10) Disseminating the teachings of the Urantia Papers and assisting in carrying the torch that others before us have faithfully carried and others after us will, is an honor and a challenge, for we know that “human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail.” <a id="a59_609"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33)
+Becoming a trustee represents an increased level of responsibility and commitment to strive wholeheartedly and lovingly to follow Jesus' example, who consecrated and dedicated “his own will to the majestic service of doing the divine will.” <a id="a60_241"></a>[UB 196:0.10](/en/The_Urantia_Book/196#p0_10) Disseminating the teachings of the Urantia Papers and assisting in carrying the torch that others before us have faithfully carried and others after us will, is an honor and a challenge, for we know that “human evolution is still in progress, and the revelation of God to the world, in and through Jesus, shall not fail.” <a id="a60_609"></a>[UB 196:3.33](/en/The_Urantia_Book/196#p3_33)
 
 I humbly thank the Father of Lights for the opportunity. Jesus lived a religion of service, and e is my inspiration.
 
 One of my favorite quotes comes to mind:
 <br style="clear:both;"/>
 
-> Service—purposeful service, not slavery—is productive of the highest satisfaction and is expressive of the divinest dignity. Service—more service, increased service, difficult service, adventurous service, and at last divine and perfect service—is the goal of time and the destination of space. <a id="a65_297"></a>[UB 28:6.17](/en/The_Urantia_Book/28#p6_17)
+> Service—purposeful service, not slavery—is productive of the highest satisfaction and is expressive of the divinest dignity. Service—more service, increased service, difficult service, adventurous service, and at last divine and perfect service—is the goal of time and the destination of space. <a id="a67_297"></a>[UB 28:6.17](/en/The_Urantia_Book/28#p6_17)
 
 
 ## Sherry Cathcart Chavis
@@ -77,7 +77,7 @@ One of my favorite quotes comes to mind:
 It is always a privilege to serve the Father in any way that he calls me to serve. And I respect and honor the Foundation's commitment to increasing global representation within the Urantia community so that eventually all of the peoples of the world may come to a greater understanding of their spiritual heritage as sons and daughters of the heavenly Father and experience an enhanced appreciation of their eternal destiny, as magnificently displayed in _The Urantia Book_:
 <br style="clear:both;"/>
 
-> God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection. <a id="a77_182"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)
+> God-knowing creatures have only one supreme ambition, just one consuming desire, and that is to become, as they are in their spheres, like him as he is in his Paradise perfection. <a id="a79_182"></a>[UB 1:0.3](/en/The_Urantia_Book/1#p0_3)
 
 
 ## Chris Wood
@@ -91,7 +91,7 @@ Because Urantia Foundation excels at several core tasks, many people will take i
 Becoming a trustee means accepting this duty that I believe is paramount to the success of this revelation. I get to join a team of talented and dedicated servants to preserve the best of what has come before us, to help provide the stable bedrock upon which the current community can build their epochal projects, and to prepare to pass all of this along to the coming wave of God-knowing men and women who will lead us in future generations. It is an honor and high privilege to join the Foundation's team.
 <br style="clear:both;"/>
 
-> But the great problem of religious living consists in the task of unifying the soul powers of the personality by the dominance of LOVE. Health, mental efficiency, and happiness arise from the unification of physical systems, mind systems, and spirit systems. Of health and sanity man understands much, but of happiness he has truly realized very little. The highest happiness is indissolubly linked with spiritual progress. Spiritual growth yields lasting joy, peace which passes all understanding. <a id="a90_501"></a>[UB 100:4.3](/en/The_Urantia_Book/100#p4_3)
+> But the great problem of religious living consists in the task of unifying the soul powers of the personality by the dominance of LOVE. Health, mental efficiency, and happiness arise from the unification of physical systems, mind systems, and spirit systems. Of health and sanity man understands much, but of happiness he has truly realized very little. The highest happiness is indissolubly linked with spiritual progress. Spiritual growth yields lasting joy, peace which passes all understanding. <a id="a93_501"></a>[UB 100:4.3](/en/The_Urantia_Book/100#p4_3)
 
 
 

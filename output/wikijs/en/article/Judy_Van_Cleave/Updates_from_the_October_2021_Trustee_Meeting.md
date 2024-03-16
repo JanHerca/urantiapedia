@@ -84,7 +84,7 @@ The investment strategy for all of our funds is targeted towards moderate risk.
 
 Anibal Pacheco, Olga López, Víctor García-Bory, and Raúl Pujol. Their steadfastness in completing this 10 -year project is a ringing endorsement for the power of the revelation and their teamwork. Congratulations to all!
 
-**Chinese Translation:** The first draft of the Chinese translation of _The Urantia Book_ in simplified characters is complete. Vicki Yang and Richard Zhu are now preparing the Chinese translation in traditional characters. This translation holds a special place on our board's priority list. _The Urantia Book_ states that if the early preachers of Jesus' gospel had gone into Asia with his original teachings, they would have made “an immediate and effective appeal to the minds of the spiritually hungry Asiatic peoples.” <a id="a85_525"></a>[UB 130:2.3](/en/The_Urantia_Book/130#p2_3)
+**Chinese Translation:** The first draft of the Chinese translation of _The Urantia Book_ in simplified characters is complete. Vicki Yang and Richard Zhu are now preparing the Chinese translation in traditional characters. This translation holds a special place on our board's priority list. _The Urantia Book_ states that if the early preachers of Jesus' gospel had gone into Asia with his original teachings, they would have made “an immediate and effective appeal to the minds of the spiritually hungry Asiatic peoples.” <a id="a86_525"></a>[UB 130:2.3](/en/The_Urantia_Book/130#p2_3)
 
 
 ## Community Relations

@@ -76,7 +76,7 @@ There are therefore about two thousand planetary systems with planets that have 
 
 _The Urantia Book_ gives a clear indication of the density of suns in space. It does not indicate whether this density is the same throughout the superuniverse, or even in all superuniverses, but it seems clear that it is applicable to the entire local universe (the title of the paper is Physical Aspects of the Local Universe, and it seems likely that it may apply to the rest of the universe). of the disk of the Milky Way.
 
-The paragraph in question is [UB 41:3.2](/en/The_Urantia_Book/41#p3_2) and ensures that the space to house the suns is equivalent to what a dozen oranges would have inside our planet if it were hollow.
+The paragraph in question is <a id="a78_29"></a>[UB 41:3.2](/en/The_Urantia_Book/41#p3_2) and ensures that the space to house the suns is equivalent to what a dozen oranges would have inside our planet if it were hollow.
 
 From this clear indication the volumes of Satania and Nebadon will be roughly deduced.
 
