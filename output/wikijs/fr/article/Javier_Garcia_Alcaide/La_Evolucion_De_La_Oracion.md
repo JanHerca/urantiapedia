@@ -9,12 +9,36 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Javier García-Alcaide<br>© 2005 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les sphères de lumière et de vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="pr-2">L'Etre Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
 Introduction de Javier García-Alcaide
 
-L'introduction s'est concentrée sur les chapitres 8 ([La oración como experiencia personal](/fr/The_Urantia_Book/91#p8)) et 9 ([Condiciones para que la oración sea eficaz](/fr/The_Urantia_Book/91#p9)) du document 91. Ce sont les chapitres qui résument le mieux les caractéristiques de la prière.
+L'introduction s'est concentrée sur les chapitres 8 (<a id="a40_53"></a>[La oración como experiencia personal](/fr/The_Urantia_Book/91#p8)) et 9 (<a id="a40_127"></a>[Condiciones para que la oración sea eficaz](/fr/The_Urantia_Book/91#p9)) du document 91. Ce sont les chapitres qui résument le mieux les caractéristiques de la prière.
 
 La prière peut prendre plusieurs formes, mais si elle est vraie, elle sera toujours un acte de communion avec le Créateur.
 
@@ -60,3 +84,28 @@ Dans le document qui parle du Fils Éternel, il est question d’âmes sœurs, u
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les sphères de lumière et de vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Antonio_Moya/El_Ser_Supremo">
+          <span class="pr-2">L'Etre Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

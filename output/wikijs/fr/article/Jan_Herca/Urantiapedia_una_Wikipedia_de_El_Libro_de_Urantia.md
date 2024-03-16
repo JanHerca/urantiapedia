@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Jan Herca<br>© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – Mars 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_11" class="image urantiapedia">
@@ -47,3 +68,24 @@ Jan Herca
 ## Remarques
 
 [^1] : Cette adresse est l'URL d'origine d'Urantiapedia avant d'être remplacée par https://urantiapedia.org
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – Mars 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mars 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

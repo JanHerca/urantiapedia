@@ -9,15 +9,39 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Luis Coll<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le gouvernement d'une planète voisine : l'utopie possible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-45-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 45 — septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_la_expansion_del_conocimiento">
+          <span class="pr-2">Convergences et divergences : l'expansion des connaissances : l'agriculture (II)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le problème est le suivant : si l’homme doté du libre arbitre est doté au plus profond de lui-même des pouvoirs de créativité, alors nous devons reconnaître que la libre créativité contient le potentiel d’une libre destructivité.
 
 Et lorsque la créativité est orientée vers la destructivité, vous vous retrouvez face aux ravages du mal et du péché – oppressions, guerres et destructions. Le mal est une créativité partielle qui tend vers la désintégration et la destruction finale.
 
-Tout conflit est mauvais dans le sens où il inhibe la fonction créatrice de la vie intérieure – c'est une sorte de guerre civile dans la personnalité. ([LU 111:4.11](/fr/The_Urantia_Book/111#p4_11))
+Tout conflit est mauvais dans le sens où il inhibe la fonction créatrice de la vie intérieure – c'est une sorte de guerre civile dans la personnalité. (<a id="a41_152"></a>[LU 111:4.11](/fr/The_Urantia_Book/111#p4_11))
 
-L'homme mortel est doté du libre arbitre, du pouvoir de choisir, et bien que ce choix ne soit pas absolu, il est néanmoins relativement définitif sur le plan fini et en ce qui concerne le destin de la personnalité qui choisit. ([LU 118:6.7](/fr/The_Urantia_Book/118#p6_7))
+L'homme mortel est doté du libre arbitre, du pouvoir de choisir, et bien que ce choix ne soit pas absolu, il est néanmoins relativement définitif sur le plan fini et en ce qui concerne le destin de la personnalité qui choisit. (<a id="a43_228"></a>[LU 118:6.7](/fr/The_Urantia_Book/118#p6_7))
 
 Sans le libre arbitre dont dispose chaque personne, il n'y aurait presque aucune possibilité de choix, ce serait peut-être quelque chose comme « le meilleur des mondes » mais d'automates, une sorte de perfection mécanique mais sans grande possibilité de choix.
 
@@ -39,3 +63,28 @@ Après avoir réfléchi au libre arbitre dont chacun de nous dispose - CETTE LIB
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le gouvernement d'une planète voisine : l'utopie possible</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-45-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 45 — septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_la_expansion_del_conocimiento">
+          <span class="pr-2">Convergences et divergences : l'expansion des connaissances : l'agriculture (II)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

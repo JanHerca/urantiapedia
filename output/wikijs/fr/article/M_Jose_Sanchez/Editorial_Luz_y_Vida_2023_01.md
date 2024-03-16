@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — janvier 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Marise_Cantero">
+          <span class="pr-2">Questionnaire Urantien : Marisé Cantero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ### L'image de Dieu
@@ -79,11 +103,11 @@ Et selon la manière dont nous croyons en Dieu, nous vivrons la foi d’une mani
 
 Les lecteurs du _Livre d'Urantia_ sont très chanceux de pouvoir lire des dizaines de documents qui décrivent à quoi ressemble Dieu et comment Jésus de Nazareth L'a manifesté. Par exemple, nous savons que Jésus n’a pas renoncé à ses racines, mais a plutôt élargi et amélioré l’image que ses contemporains avaient de la Divinité :
 
-> Le Jésus humain voyait Dieu comme étant saint, juste et grand, aussi bien que vrai, beau et bon. Il focalisa dans son mental tous ces attributs de divinité en tant que « volonté du Père qui est aux cieux ». Le Dieu de Jésus était simultanément « le Saint d’Israël » et « le Père qui est aux cieux vivant et aimant ». Le concept de Dieu en tant que Père n’était pas originel chez Jésus, mais il exalta et éleva l’idée au niveau d’une expérience sublime en accomplissant une nouvelle révélation de Dieu et en proclamant que toute créature mortelle est un enfant de ce Père de l’amour, un fils de Dieu. ([LU 196:0.2](/fr/The_Urantia_Book/196#p0_2))
+> Le Jésus humain voyait Dieu comme étant saint, juste et grand, aussi bien que vrai, beau et bon. Il focalisa dans son mental tous ces attributs de divinité en tant que « volonté du Père qui est aux cieux ». Le Dieu de Jésus était simultanément « le Saint d’Israël » et « le Père qui est aux cieux vivant et aimant ». Le concept de Dieu en tant que Père n’était pas originel chez Jésus, mais il exalta et éleva l’idée au niveau d’une expérience sublime en accomplissant une nouvelle révélation de Dieu et en proclamant que toute créature mortelle est un enfant de ce Père de l’amour, un fils de Dieu. (<a id="a105_603"></a>[LU 196:0.2](/fr/The_Urantia_Book/196#p0_2))
 
 De plus, Jésus se sentait totalement uni à la Divinité, au Père ou Source de Tout. Il l'a répété à plusieurs reprises :
 
-> Lorsque Philippe eut ainsi parlé, Jésus dit : « Philippe, ai-je été si longtemps avec toi pour que même maintenant tu ne me connaisses pas ! Je déclare de nouveau que quiconque m’a vu a vu le Père. Comment peux-tu alors dire : montre-nous le Père ? Ne crois-tu pas que je sois dans le Père, et le Père en moi ? Ne vous ai-je pas enseigné que les paroles que je prononce ne sont pas mes paroles mais les paroles du Père ? Je parle pour le Père, et non de moi-même. Je suis dans ce monde pour faire la volonté du Père, et je l’ai faite. Mon Père demeure en moi et opère par moi. » ([LU 180:3.9](/fr/The_Urantia_Book/180#p3_9))
+> Lorsque Philippe eut ainsi parlé, Jésus dit : « Philippe, ai-je été si longtemps avec toi pour que même maintenant tu ne me connaisses pas ! Je déclare de nouveau que quiconque m’a vu a vu le Père. Comment peux-tu alors dire : montre-nous le Père ? Ne crois-tu pas que je sois dans le Père, et le Père en moi ? Ne vous ai-je pas enseigné que les paroles que je prononce ne sont pas mes paroles mais les paroles du Père ? Je parle pour le Père, et non de moi-même. Je suis dans ce monde pour faire la volonté du Père, et je l’ai faite. Mon Père demeure en moi et opère par moi. » (<a id="a109_582"></a>[LU 180:3.9](/fr/The_Urantia_Book/180#p3_9))
 
 Jésus nous donne donc une nouvelle image de Dieu. En Jésus s'est manifestée l'image la plus complète de Dieu, l'être humain authentique s'est manifesté. Dans sa manière de parler de Dieu et dans sa manière d'être humain, nous découvrons le visage humain de Dieu. Dieu et l'Homme unis.
 
@@ -93,7 +117,7 @@ Jésus nous donne donc une nouvelle image de Dieu. En Jésus s'est manifestée l
 
 Nous sommes surpris et heureux de savoir que Jésus, ce Dieu, était non seulement profond et sérieux dans ses réflexions, mais aussi aimant et souriant. Ludique avec les plus petits et analytique avec les adultes.
 
-> Les enfants étaient toujours bienvenus à l’atelier de réparations. Jésus mettait du sable, des blocs de bois et des cailloux à côté de l’atelier, et des bandes de gosses accouraient là pour s’amuser. Quand ils étaient fatigués de leurs jeux, les plus intrépides venaient jeter un coup d’œil dans l’atelier et, si le propriétaire n’était pas trop occupé, ils s’enhardissaient à entrer en disant : « Oncle Joshua, sors et raconte-nous une grande histoire. » Alors ils le faisaient sortir en le tiraillant par la main jusqu’à ce qu’il soit assis sur sa pierre favorite près de l’angle de l’atelier, avec les enfants assis par terre en demi-cercle autour de lui. Combien ce petit monde s’amusait avec l’oncle Joshua ! Ils apprenaient à rire, et à rire de bon cœur. Un ou deux des plus petits avaient l’habitude de grimper sur les genoux de Jésus et de s’y assoir en suivant d’un regard admiratif les expressions de son visage pendant qu’il racontait ses histoires. Les enfants aimaient Jésus, et Jésus aimait les enfants. ([LU 128:6.11](/fr/The_Urantia_Book/128#p6_11))
+> Les enfants étaient toujours bienvenus à l’atelier de réparations. Jésus mettait du sable, des blocs de bois et des cailloux à côté de l’atelier, et des bandes de gosses accouraient là pour s’amuser. Quand ils étaient fatigués de leurs jeux, les plus intrépides venaient jeter un coup d’œil dans l’atelier et, si le propriétaire n’était pas trop occupé, ils s’enhardissaient à entrer en disant : « Oncle Joshua, sors et raconte-nous une grande histoire. » Alors ils le faisaient sortir en le tiraillant par la main jusqu’à ce qu’il soit assis sur sa pierre favorite près de l’angle de l’atelier, avec les enfants assis par terre en demi-cercle autour de lui. Combien ce petit monde s’amusait avec l’oncle Joshua ! Ils apprenaient à rire, et à rire de bon cœur. Un ou deux des plus petits avaient l’habitude de grimper sur les genoux de Jésus et de s’y assoir en suivant d’un regard admiratif les expressions de son visage pendant qu’il racontait ses histoires. Les enfants aimaient Jésus, et Jésus aimait les enfants. (<a id="a119_1021"></a>[LU 128:6.11](/fr/The_Urantia_Book/128#p6_11))
 
 Il était difficile pour ses amis de comprendre la variété et l'étendue de son activité intellectuelle, sa capacité à passer pleinement et sans transition des profonds débats politiques, philosophiques ou religieux aux jeux joyeux et insouciants des enfants de cinq à dix ans.
 
@@ -134,3 +158,28 @@ C'est un beau défi, vraiment écouter qui est à l'intérieur, pour ce début d
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/12/30/editorial-enero-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — janvier 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Marise_Cantero">
+          <span class="pr-2">Questionnaire Urantien : Marisé Cantero</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

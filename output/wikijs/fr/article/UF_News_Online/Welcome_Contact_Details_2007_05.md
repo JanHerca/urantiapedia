@@ -44,7 +44,7 @@ dateCreated: 2023-8-29T10:55:6Z
 - Jay Pérégrin
 - Détails du contact
 
-> Et le Père règne aussi dans le cœur de ses enfants terrestres par l’esprit qu’il a envoyé vivre dans l’âme des mortels. <a id="a25_122"></a>[LU 141:2](/fr/The_Urantia_Book/141#p2)
+> Et le Père règne aussi dans le cœur de ses enfants terrestres par l’esprit qu’il a envoyé vivre dans l’âme des mortels. <a id="a46_122"></a>[LU 141:2](/fr/The_Urantia_Book/141#p2)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2007_05/001.jpg">
@@ -56,7 +56,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2007_05/034.jpg">
 </figure>
 
-_Quand les marées de l’adversité humaine, de l’égoïsme, de la cruauté, de la haine, de la méchanceté et de la jalousie viennent battre l’âme du mortel, on peut se reposer dans l’assurance qu’il existe un bastion intérieur, la citadelle de l’esprit, qui est absolument inexpugnable..._ <a id="a37_285"></a>[[LU 100:2](/fr/The_Urantia_Book/100#p2)]
+_Quand les marées de l’adversité humaine, de l’égoïsme, de la cruauté, de la haine, de la méchanceté et de la jalousie viennent battre l’âme du mortel, on peut se reposer dans l’assurance qu’il existe un bastion intérieur, la citadelle de l’esprit, qui est absolument inexpugnable..._ <a id="a58_285"></a>[[LU 100:2](/fr/The_Urantia_Book/100#p2)]
 
 <br style="clear:both;"/>
 

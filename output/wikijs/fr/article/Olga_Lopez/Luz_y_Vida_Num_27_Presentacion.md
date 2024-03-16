@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Olga López<br>© 2011 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-27-décembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 27 — décembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuando_actua_el_Ajustador_del_Pensamiento">
+          <span class="pr-2">Quand l'Ajusteur de Pensée agit-il ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -45,3 +66,25 @@ Olga López
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-27-décembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 27 — décembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuando_actua_el_Ajustador_del_Pensamiento">
+          <span class="pr-2">Quand l'Ajusteur de Pensée agit-il ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Luis Coll<br>© 2010 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Carrera/Trinizando">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-20-mars-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 20 — mars 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_6">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le sujet des ovnis et des extraterrestres est un sujet très actuel, parfois à tel point qu'on peut trouver des « ovnis » et des extraterrestres même dans la soupe.
@@ -19,7 +43,7 @@ L'univers est un lieu de paix et d'ordre, il n'y a pas de « Guerre des étoiles
 
 La question des ovnis n’est pas nouvelle et est aussi vieille que l’humanité elle-même. Dans différentes cultures et pays, nous pouvons en trouver des « traces », également dans des livres et des écrits très anciens. Dans la Bible par exemple « _la colonne de feu qui guidait Moïse et les enfants d'Israël_ » ([Exode 13 :21,22](/fr/Bible/Exodus/13#v21)). La vision du prophète Ézéchiel d'« _un grand nuage avec un feu enveloppant_ » et « _son apparence comme une roue au milieu d'une roue_ » ([Ézéchiel 1](/fr/Bible/Ezekiel/1)) Aujourd'hui, nous appellerions cela des soucoupes volantes. Les chercheurs sur le sujet pourraient très bien nous dire qu'ils ont trouvé des « indices » sur ces objets dans différentes cultures, des livres et des témoignages personnels de personnes qui les ont vus.
 
-Dans certains livres historiques et écrits de différentes cultures et dans _Le Livre d'Urantia_ qui fut donné en 1955, on peut aussi trouver quelques indices sur les activités de ces êtres : « _les deux transports séraphiques_ » ([LU 74:0.1](/fr/The_Urantia_Book/74#p0_1)), « _arrivée transports séraphiques_ » ([LU 75:6.3](/fr/The_Urantia_Book/75#p6_3)) « _un nuage d'argent s'est approché d'eux et a éclipsé les quatre._ » ([LU 158:1.10](/fr/The_Urantia_Book/158#p1_10)) anges, messagers, traverseurs de l'espace, etc. ([LU 39:3.8](/fr/The_Urantia_Book/39#p3_8))
+Dans certains livres historiques et écrits de différentes cultures et dans _Le Livre d'Urantia_ qui fut donné en 1955, on peut aussi trouver quelques indices sur les activités de ces êtres : « _les deux transports séraphiques_ » (<a id="a45_230"></a>[LU 74:0.1](/fr/The_Urantia_Book/74#p0_1)), « _arrivée transports séraphiques_ » (<a id="a45_312"></a>[LU 75:6.3](/fr/The_Urantia_Book/75#p6_3)) « _un nuage d'argent s'est approché d'eux et a éclipsé les quatre._ » (<a id="a45_426"></a>[LU 158:1.10](/fr/The_Urantia_Book/158#p1_10)) anges, messagers, traverseurs de l'espace, etc. (<a id="a45_522"></a>[LU 39:3.8](/fr/The_Urantia_Book/39#p3_8))
 
 > **_Le Livre d'Urantia_ n'est pas un livre sur les ovnis, et il n'est pas non plus particulièrement dédié à ce sujet. Pour cela, il existe déjà des chercheurs et des ufologues qui se consacrent à ce sujet.**
 {.is-info}
@@ -46,7 +70,7 @@ Presque tous les gens, des agriculteurs aux soldats et pilotes d'avion qui ont v
 
 Le Commandeur des Anges et des Hosties Séraphiques lui-même, Gabriel (ce que nous appellerions communément ET aujourd'hui), lorsqu'il est apparu à Marie pour lui annoncer la nouvelle de la naissance de Jésus, l'a fait de la manière la plus normale et la plus naturelle. María ne s'était pas du tout préparée à cette rencontre et avait très peur, Dieu merci, les paroles rassurantes de Gabriel l'ont calmée.
 
-Un autre être élevé qui était dans ce monde pour accomplir une mission, Melchisédek, est également venu de la manière la plus naturelle et la plus normale, se manifestant pour la première fois à un berger chaldéen dans l'ancienne Salem (Palestine). « _Son arrivée n’eut rien de spectaculaire ; nul œil humain ne fut témoin de sa matérialisation. La première fois qu’un mortel l’observa fut le jour mémorable où il entra dans la tente d’Amdon, un éleveur chaldéen d’origine sumérienne._ » ([LU 93:2.1](/fr/The_Urantia_Book/93#p2_1))
+Un autre être élevé qui était dans ce monde pour accomplir une mission, Melchisédek, est également venu de la manière la plus naturelle et la plus normale, se manifestant pour la première fois à un berger chaldéen dans l'ancienne Salem (Palestine). « _Son arrivée n’eut rien de spectaculaire ; nul œil humain ne fut témoin de sa matérialisation. La première fois qu’un mortel l’observa fut le jour mémorable où il entra dans la tente d’Amdon, un éleveur chaldéen d’origine sumérienne._ » (<a id="a72_489"></a>[LU 93:2.1](/fr/The_Urantia_Book/93#p2_1))
 
 ## Le futur
 
@@ -74,3 +98,28 @@ En résumé : le sujet des « OVNIS » est un sujet assez complexe et les opinio
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Carrera/Trinizando">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinisation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-20-mars-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 20 — mars 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_6">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

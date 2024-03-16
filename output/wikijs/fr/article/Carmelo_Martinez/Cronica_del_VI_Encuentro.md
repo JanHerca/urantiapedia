@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Carmelo Martínez<br>© 2006 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Demetrio_Gomez/How_to_Live_the_Teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment vivre les enseignements de l'UL</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-5-mai-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 5 — mai 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je ne vais pas décrire la VI Encuentro avec un seul mot, mais si je devais le faire, ce serait sans aucun doute « unité ». Unité dans le déroulement des débats, même s'il n'y a pas unanimité sur les critères, et unité dans l'ambiance et les relations entre les participants.
@@ -58,3 +79,25 @@ Les adieux du lundi, après le petit-déjeuner, furent, comme toujours, longs ; 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Demetrio_Gomez/How_to_Live_the_Teachings_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment vivre les enseignements de l'UL</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-5-mai-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 5 — mai 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

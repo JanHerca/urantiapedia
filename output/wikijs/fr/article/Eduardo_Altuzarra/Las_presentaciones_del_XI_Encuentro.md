@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Eduardo Altuzarra<br>© 2012 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_XI_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La XIème Rencontre des Lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-29-juin-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 29 — juin 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Experiencia_conclusiones_Simposio_de_Liderazgo_Chicago_2011">
+          <span class="pr-2">Expérience et conclusions du Chicago Leadership Symposium 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Leadership dans le mouvement Urantia
@@ -27,7 +51,7 @@ _Il était raisonnable, accessible, pratique et doté de bon sens. Il était gen
 
 _Il était surchargé d'enthousiasme divin, mais il n'est jamais devenu fanatique. Il était émotionnellement actif, mais jamais capricieux. Il était imaginatif mais toujours pratique. Il affrontait franchement les réalités de la vie, mais il n’était jamais ennuyeux ou prosaïque. Il était courageux mais jamais imprudent ; prudent, mais jamais lâche. Il était compatissant mais pas maudlin ; exceptionnel mais pas excentrique. Il était pieux mais pas béni. C’était si bien équilibré parce que c’était parfaitement unifié._
 
-_Jésus n'avait pas peur. Il n’était ni extravagant, ni erratique, ni excentrique. Il n’était ni capricieux, ni fantasque, ni hystérique. Dans tout son enseignement et dans tout ce qu'il faisait, il y avait toujours une discrimination exquise, associée à un sens extraordinaire de la justesse._ [LU 100:7.3-4](/fr/The_Urantia_Book/100#p7_3)
+_Jésus n'avait pas peur. Il n’était ni extravagant, ni erratique, ni excentrique. Il n’était ni capricieux, ni fantasque, ni hystérique. Dans tout son enseignement et dans tout ce qu'il faisait, il y avait toujours une discrimination exquise, associée à un sens extraordinaire de la justesse._ <a id="a53_294"></a>[LU 100:7.3-4](/fr/The_Urantia_Book/100#p7_3)
 
 La diffusion du _Le Livre d'Urantia_ ne doit être ni lente ni trop rapide, ce serait un acte de suicide. Il doit se développer à un rythme de croissance progressif et constant. La publicité ne doit pas être excessive ou subversive. Au fil du temps, _Le Livre d'Urantia_ sera accessible à des milliers de personnes.
 
@@ -148,7 +172,7 @@ Les expériences sont la chose la plus importante dans le progrès et l’évolu
 
 Il faut être très attentif aux actes et aux conséquences.
 
-En [LU 2:7.11](/fr/The_Urantia_Book/2#p7_11) il est dit que :
+En <a id="a174_3"></a>[LU 2:7.11](/fr/The_Urantia_Book/2#p7_11) il est dit que :
 
 > ***La santé, la raison et le bonheur*** _sont des intégrations de vérité, de beauté et de bonté telles qu'elles se trouvent combinées dans l'expérience humaine. Ces niveaux de vie efficace sont atteints grâce à l'unification des ***systèmes énergétiques, des systèmes d'idées et des systèmes de l'esprit***._
 
@@ -175,3 +199,28 @@ Avec notre dévouement, notre patience et notre persévérance, puissions-nous p
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_XI_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La XIème Rencontre des Lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-29-juin-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 29 — juin 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Experiencia_conclusiones_Simposio_de_Liderazgo_Chicago_2011">
+          <span class="pr-2">Expérience et conclusions du Chicago Leadership Symposium 2011</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

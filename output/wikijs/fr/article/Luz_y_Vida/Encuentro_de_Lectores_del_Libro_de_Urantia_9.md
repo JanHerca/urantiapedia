@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Texte : Olga López. Photos : Demetrio Gómez, Paco Ruiz et David Carrera.<br>© 2010 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_21_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 21 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-21-juin-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 21 — juin 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_7">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La rencontre
@@ -64,7 +88,7 @@ A la fin de la première séance, nous avons fait un exercice de _lectio divina_
 
 C'était le paragraphe utilisé dans la _lectio divina_ :
 
-> « _Tandis que Marthe s’affairait à tous ses soi-disant devoirs, elle fut troublée parce que Marie ne faisait rien pour l’aider. Elle alla donc vers Jésus et lui dit : « Maitre, cela t’est-il égal que ma sœur m’ait laissé faire seule tout le service ? Ne voudrais-tu pas lui demander de venir m’aider ? » Jésus répondit : « Marthe, Marthe, pourquoi t’agites-tu à propos de tant de choses et te laisses-tu troubler par tant de détails ? Une seule chose mérite réellement l’attention ; du moment que Marie a choisi cette part bonne et nécessaire, je ne vais pas la lui enlever. Mais quand apprendrez-vous toutes les deux à vivre comme je vous l’ai enseigné ? Servez en coopération et rafraichissez vos âmes à l’unisson. Ne pouvez-vous apprendre qu’il y a un temps pour chaque chose — que les questions secondaires de la vie doivent s’effacer devant les questions primordiales du royaume céleste ? »_ » ([LU 162:8.3](/fr/The_Urantia_Book/162#p8_3))
+> « _Tandis que Marthe s’affairait à tous ses soi-disant devoirs, elle fut troublée parce que Marie ne faisait rien pour l’aider. Elle alla donc vers Jésus et lui dit : « Maitre, cela t’est-il égal que ma sœur m’ait laissé faire seule tout le service ? Ne voudrais-tu pas lui demander de venir m’aider ? » Jésus répondit : « Marthe, Marthe, pourquoi t’agites-tu à propos de tant de choses et te laisses-tu troubler par tant de détails ? Une seule chose mérite réellement l’attention ; du moment que Marie a choisi cette part bonne et nécessaire, je ne vais pas la lui enlever. Mais quand apprendrez-vous toutes les deux à vivre comme je vous l’ai enseigné ? Servez en coopération et rafraichissez vos âmes à l’unisson. Ne pouvez-vous apprendre qu’il y a un temps pour chaque chose — que les questions secondaires de la vie doivent s’effacer devant les questions primordiales du royaume céleste ? »_ » (<a id="a90_902"></a>[LU 162:8.3](/fr/The_Urantia_Book/162#p8_3))
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Luz_y_Vida/LyV21/04.jpg">
@@ -118,15 +142,15 @@ Pour cette activité, nous nous réunissons en groupe de 3 ou 4 personnes. Sheil
 
 Par exemple, notre groupe avait pour thème «  Développer la conscience morale  » et voici les citations que Sheila nous a données pour notre réflexion :
 
-> « _Dans la vie physique, les sens révèlent l’existence des choses et le mental découvre la réalité des significations ; mais c’est l’expérience spirituelle qui révèle aux individus les vraies valeurs de la vie. On atteint ces niveaux supérieurs de vie dans l’amour suprême de Dieu et dans l’amour désintéressé des hommes. Si vous aimez vos compagnons, c’est que vous avez découvert leur valeur. Jésus aimait tellement les hommes parce qu’il leur attribuait une haute valeur. C’est en découvrant les mobiles de vos associés que vous découvrez le mieux leur valeur. Si quelqu’un vous irrite et suscite en vous du ressentiment, vous devriez chercher avec sympathie à discerner son point de vue, les motifs de sa conduite désagréable. Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croitre en amitié et murir en amour._ » ([LU 100:4.4](/fr/The_Urantia_Book/100#p4_4))
+> « _Dans la vie physique, les sens révèlent l’existence des choses et le mental découvre la réalité des significations ; mais c’est l’expérience spirituelle qui révèle aux individus les vraies valeurs de la vie. On atteint ces niveaux supérieurs de vie dans l’amour suprême de Dieu et dans l’amour désintéressé des hommes. Si vous aimez vos compagnons, c’est que vous avez découvert leur valeur. Jésus aimait tellement les hommes parce qu’il leur attribuait une haute valeur. C’est en découvrant les mobiles de vos associés que vous découvrez le mieux leur valeur. Si quelqu’un vous irrite et suscite en vous du ressentiment, vous devriez chercher avec sympathie à discerner son point de vue, les motifs de sa conduite désagréable. Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croitre en amitié et murir en amour._ » (<a id="a144_877"></a>[LU 100:4.4](/fr/The_Urantia_Book/100#p4_4))
 
-> « _La conscience spirituelle éclairée de l’homme civilisé s’intéresse moins à une croyance intellectuelle spécifique ou à un mode de vie particulier qu’à découvrir la vérité de la vie, la bonne et juste technique pour réagir aux situations toujours récurrentes de l’existence des mortels. La conscience morale est simplement un nom appliqué à la récognition et à la conscience des valeurs éthiques morontielles émergentes auxquelles le devoir exige que l’homme se conforme dans le contrôle et la gouverne de sa conduite au jour le jour._ » ([LU 101:9.5](/fr/The_Urantia_Book/101#p9_5))
+> « _La conscience spirituelle éclairée de l’homme civilisé s’intéresse moins à une croyance intellectuelle spécifique ou à un mode de vie particulier qu’à découvrir la vérité de la vie, la bonne et juste technique pour réagir aux situations toujours récurrentes de l’existence des mortels. La conscience morale est simplement un nom appliqué à la récognition et à la conscience des valeurs éthiques morontielles émergentes auxquelles le devoir exige que l’homme se conforme dans le contrôle et la gouverne de sa conduite au jour le jour._ » (<a id="a146_543"></a>[LU 101:9.5](/fr/The_Urantia_Book/101#p9_5))
 
-> « _Même l’éducation laïque pourrait aider à cette grande renaissance spirituelle si elle voulait prêter plus d’attention à la tâche d’apprendre aux jeunes comment s’engager dans des projets de vie et de développement du caractère. Le but de toute éducation devrait consister à entretenir et à poursuivre le dessein suprême de la vie, le développement d’une personnalité pleine de majesté et bien équilibrée. Il y a grand besoin d’enseigner la discipline morale à la place de tant de satisfactions égoïstes. Sur une telle base, la religion peut apporter la contribution de son stimulant spirituel pour élargir et enrichir la vie des mortels, même jusqu’à la sécurité et à l’élévation de la vie éternelle._ » ([LU 195:10.17](/fr/The_Urantia_Book/195#p10_17))
+> « _Même l’éducation laïque pourrait aider à cette grande renaissance spirituelle si elle voulait prêter plus d’attention à la tâche d’apprendre aux jeunes comment s’engager dans des projets de vie et de développement du caractère. Le but de toute éducation devrait consister à entretenir et à poursuivre le dessein suprême de la vie, le développement d’une personnalité pleine de majesté et bien équilibrée. Il y a grand besoin d’enseigner la discipline morale à la place de tant de satisfactions égoïstes. Sur une telle base, la religion peut apporter la contribution de son stimulant spirituel pour élargir et enrichir la vie des mortels, même jusqu’à la sécurité et à l’élévation de la vie éternelle._ » (<a id="a148_710"></a>[LU 195:10.17](/fr/The_Urantia_Book/195#p10_17))
 
-> _1. *S’exprimer et se comprendre mutuellement.* Beaucoup de nobles impulsions humaines meurent parce qu’il n’y a personne pour assister à leur expression. En vérité, il n’est pas bon que l’homme soit seul. Un certain degré de reconnaissance et un certain niveau d’appréciation sont essentiels au développement du caractère humain. Sans l’amour sincère d’un foyer, nul enfant ne peut atteindre le plein développement d’un caractère normal. Le caractère est quelque chose de plus que simplement le mental et la moralité. De toutes les relations sociales instaurées pour développer le caractère, la plus efficace et la plus idéale est l’amitié affectueuse et compréhensive d’un homme et d’une femme réunis par un lien conjugal intelligent. Le mariage, avec ses multiples relations, est le mieux conçu pour faire naitre les précieuses impulsions et les motifs supérieurs indispensables au développement d’un caractère fort. Je n’hésite pas à glorifier ainsi la vie de famille, car votre Maitre a sagement choisi la relation de père à enfant comme pierre angulaire du nouvel évangile du royaume. Cette communauté incomparable de relations entre un homme et une femme, dans l’embrassement affectueux des idéaux supérieurs du temps, est une expérience si précieuse et satisfaisante qu’elle vaut n’importe quel prix, n’importe quel sacrifice exigé pour sa possession._ ([LU 160:2.6](/fr/The_Urantia_Book/160#p2_6))
+> _1. *S’exprimer et se comprendre mutuellement.* Beaucoup de nobles impulsions humaines meurent parce qu’il n’y a personne pour assister à leur expression. En vérité, il n’est pas bon que l’homme soit seul. Un certain degré de reconnaissance et un certain niveau d’appréciation sont essentiels au développement du caractère humain. Sans l’amour sincère d’un foyer, nul enfant ne peut atteindre le plein développement d’un caractère normal. Le caractère est quelque chose de plus que simplement le mental et la moralité. De toutes les relations sociales instaurées pour développer le caractère, la plus efficace et la plus idéale est l’amitié affectueuse et compréhensive d’un homme et d’une femme réunis par un lien conjugal intelligent. Le mariage, avec ses multiples relations, est le mieux conçu pour faire naitre les précieuses impulsions et les motifs supérieurs indispensables au développement d’un caractère fort. Je n’hésite pas à glorifier ainsi la vie de famille, car votre Maitre a sagement choisi la relation de père à enfant comme pierre angulaire du nouvel évangile du royaume. Cette communauté incomparable de relations entre un homme et une femme, dans l’embrassement affectueux des idéaux supérieurs du temps, est une expérience si précieuse et satisfaisante qu’elle vaut n’importe quel prix, n’importe quel sacrifice exigé pour sa possession._ (<a id="a150_1364"></a>[LU 160:2.6](/fr/The_Urantia_Book/160#p2_6))
 
-> _Le choix de l’homme entre le bien et le mal n’est pas influencé seulement par la finesse de sa nature morale, mais aussi par des facteurs tels que l’ignorance, l’immaturité et les illusions. Un sens des proportions entre également en jeu dans l’exercice de la vertu, car on peut perpétrer le mal en choisissant un but moindre au lieu d’un but plus grand, par suite de distorsion ou d’illusion. L’art de l’évaluation relative ou de la mesure comparative entre dans la pratique des vertus du domaine moral._ ([LU 16:7.7](/fr/The_Urantia_Book/16#p7_7))
+> _Le choix de l’homme entre le bien et le mal n’est pas influencé seulement par la finesse de sa nature morale, mais aussi par des facteurs tels que l’ignorance, l’immaturité et les illusions. Un sens des proportions entre également en jeu dans l’exercice de la vertu, car on peut perpétrer le mal en choisissant un but moindre au lieu d’un but plus grand, par suite de distorsion ou d’illusion. L’art de l’évaluation relative ou de la mesure comparative entre dans la pratique des vertus du domaine moral._ (<a id="a152_510"></a>[LU 16:7.7](/fr/The_Urantia_Book/16#p7_7))
 
 Samedi soir, après le dîner, Eduardo Altuzarra a présenté une présentation sur la Voie Lactée et le superunivers d'Orvonton. Il faut dire que la présentation, bien que rigoureuse, s'est déroulée dans une forte dose d'humour, en raison des divergences déjà historiques entre ceux qui défendent que la Voie Lactée est pratiquement équivalente au superunivers d'Orvonton (ce qui est la thèse d'Eduardo), et ceux qui Ils pensent que la Voie Lactée est une partie beaucoup plus petite. Eduardo a illustré sa présentation avec un grand nombre de photographies des nébuleuses les plus célèbres, ainsi que de galaxies qui, selon la LU, se trouveraient au premier niveau de l'espace extra-atmosphérique. Ce fut une présentation très instructive car, même si aucune conclusion n'a été dégagée sur ce qu'est réellement la Voie Lactée selon la LU, elle nous a permis de nous faire une idée de notre situation dans le grand univers, et de réfléchir sur les « indices » que le LU nous propose à ce sujet.
 
@@ -148,7 +172,7 @@ La réunion s'est officiellement terminée après le déjeuner, suivi d'un café
 <figcaption><em>Tout le groupe (ou presque)</em></figcaption>
 </figure>
 
-> _Bien qu’un mortel ordinaire d’Urantia ne puisse espérer atteindre la haute perfection de caractère acquise par Jésus de Nazareth durant son temps d’incarnation, il est entièrement possible à tout croyant mortel de développer une forte personnalité unifiée selon les lignes devenues parfaites de la personnalité de Jésus. Le trait exceptionnel de la personnalité du Maitre n’était pas tant sa perfection que son harmonie, son exquise unification équilibrée. La présentation la plus efficace de Jésus consiste à suivre l’exemple de celui qui a dit, en faisant un geste vers le Maitre debout devant ses accusateurs : « Voici l’homme. »_ ([LU 100:7.1](/fr/The_Urantia_Book/100#p7_1))
+> _Bien qu’un mortel ordinaire d’Urantia ne puisse espérer atteindre la haute perfection de caractère acquise par Jésus de Nazareth durant son temps d’incarnation, il est entièrement possible à tout croyant mortel de développer une forte personnalité unifiée selon les lignes devenues parfaites de la personnalité de Jésus. Le trait exceptionnel de la personnalité du Maitre n’était pas tant sa perfection que son harmonie, son exquise unification équilibrée. La présentation la plus efficace de Jésus consiste à suivre l’exemple de celui qui a dit, en faisant un geste vers le Maitre debout devant ses accusateurs : « Voici l’homme. »_ (<a id="a174_638"></a>[LU 100:7.1](/fr/The_Urantia_Book/100#p7_1))
 
 ## Impressions
 
@@ -236,7 +260,7 @@ Bien sûr, j'ai encore les photos des « reporters officiels » (Paco, Demetrio 
 
 Voyons, Conseil d'Administration, vous mettez déjà trop de temps à annoncer le prochain !
 
-> _La gravité d’esprit et la réponse à son attraction opèrent non seulement dans l’univers comme un tout, mais aussi mêmes entre les individus et les groupes d’individus. Il y a une cohésion spirituelle entre les personnes spirituelles et spiritualisées de tout monde, de toute race, de toute nation ou de tout groupe de croyants. Il existe une attirance directe de nature d’esprit entre des personnes de mentalité spirituelle ayant les mêmes gouts et les mêmes désirs profonds. L’expression *esprits apparentés* n’est pas entièrement une figure de rhétorique._ ([LU 7:1.6](/fr/The_Urantia_Book/7#p1_6))
+> _La gravité d’esprit et la réponse à son attraction opèrent non seulement dans l’univers comme un tout, mais aussi mêmes entre les individus et les groupes d’individus. Il y a une cohésion spirituelle entre les personnes spirituelles et spiritualisées de tout monde, de toute race, de toute nation ou de tout groupe de croyants. Il existe une attirance directe de nature d’esprit entre des personnes de mentalité spirituelle ayant les mêmes gouts et les mêmes désirs profonds. L’expression *esprits apparentés* n’est pas entièrement une figure de rhétorique._ (<a id="a262_563"></a>[LU 7:1.6](/fr/The_Urantia_Book/7#p1_6))
 
 ## Les photos
 
@@ -306,3 +330,28 @@ Voyons, Conseil d'Administration, vous mettez déjà trop de temps à annoncer l
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_21_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 21 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-21-juin-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 21 — juin 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_7">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

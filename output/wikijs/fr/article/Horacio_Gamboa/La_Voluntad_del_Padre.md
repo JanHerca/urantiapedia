@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Horacio Gamboa<br>© 2012 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_Rodriguez/La_evolucion_organica_del_Hombre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'évolution organique de l'homme à travers les niveaux évolutifs de l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-31-décembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 31 — décembre 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Little_things_of_life">
+          <span class="pr-2">Les petites choses de la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Notre Père qui es aux cieux, que ton nom soit sanctifié, viens à ton royaume, que ta volonté soit faite Seigneur ici sur terre comme au ciel..._
@@ -42,3 +66,28 @@ Le président de l'A.U.I. le Chili
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_Rodriguez/La_evolucion_organica_del_Hombre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'évolution organique de l'homme à travers les niveaux évolutifs de l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-31-décembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 31 — décembre 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Little_things_of_life">
+          <span class="pr-2">Les petites choses de la vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – novembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -71,3 +92,25 @@ J'ai commencé (je suppose comme tout le monde) par la première lecture, en rec
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/10/29/cuestionario-urantiano-antonio-moya
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – novembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. Isador a écrit Matthieu en 71 après JC à Pella. Il avait les notes de Matthieu qui avaient été révisées en 40 après JC.
 4. Isador avait également les quatre cinquièmes du record de Mark.
 5. La dernière copie des notes de Matthieu a été détruite lors de l'incendie d'un monastère syrien en 416 après JC.
-	(Les faits ci-dessus concernant la paternité de Matthieu proviennent du Livre d'Urantia, <a id="s104_90"></a>[LU 121:8.1](/fr/The_Urantia_Book/121#p8_1).)
+	(Les faits ci-dessus concernant la paternité de Matthieu proviennent du Livre d'Urantia, <a id="s103_90"></a>[LU 121:8.1](/fr/The_Urantia_Book/121#p8_1).)
 6. Les érudits ont douté que Matthieu ait écrit cet évangile car il ne semble pas que l'auteur ait été un témoin oculaire. Ils croient qu'il a été écrit entre 75 et 80 après JC.
 7. C'est le point de vue juif de la vie et de l'œuvre de Christ.
 

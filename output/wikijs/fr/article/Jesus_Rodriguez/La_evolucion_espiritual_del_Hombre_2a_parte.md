@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Jesús Rodríguez<br>© 2012 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_30_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 30 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-30-septembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 30 — septembre 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_Libro_de_Urantia_y_la_reencarnacion">
+          <span class="pr-2">Le Livre d'Urantia et la réincarnation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quelle peut être la magie qui réside dans la mort, qui, en une seule étape, peut instantanément transformer l’âme matérielle mortelle en un esprit immortel perfectionné ? Ces croyances ne sont rien de plus que des superstitions ignorantes qui ne contribuent en rien à l’évolution spirituelle de l’âme morontielle et à sa survie immortelle qui en résulte. Par conséquent, il est de la plus haute importance de commencer à comprendre que la carrière morontielle ascendante commence au cours de notre vie terrestre, puisque la vie mortelle est une authentique école de formation dans laquelle l’âme morontielle évolutive de l’homme doit évoluer à travers les valeurs spirituelles suivantes :
@@ -19,7 +43,7 @@ BONTÉ : La reconnaissance mentale des valeurs relatives aux différents niveaux
 
 AMOUR : La reconnaissance de la fraternité universelle de l'homme à travers le service désintéressé et altruiste envers nos semblables.
 
-Donc; L'âme évolutionnaire qui parvient à commencer son entraînement morontiel (<ins>l'élimination progressive des instincts animaux</ins>) au cours de sa vie terrestre deviendra indestructible et survivra non seulement à la mort, mais atteindra également la survie éternelle. D’un autre côté, pour l’âme évolutive de l’homme qui n’est pas consciente des valeurs spirituelles les plus élevées, son existence mortelle et sa vie elle-même n’auront aucun sens ; Ce ne sera qu'une tragique illusion ([LU 111:3.7](/fr/The_Urantia_Book/111#p3_7)).
+Donc; L'âme évolutionnaire qui parvient à commencer son entraînement morontiel (<ins>l'élimination progressive des instincts animaux</ins>) au cours de sa vie terrestre deviendra indestructible et survivra non seulement à la mort, mais atteindra également la survie éternelle. D’un autre côté, pour l’âme évolutive de l’homme qui n’est pas consciente des valeurs spirituelles les plus élevées, son existence mortelle et sa vie elle-même n’auront aucun sens ; Ce ne sera qu'une tragique illusion (<a id="a45_496"></a>[LU 111:3.7](/fr/The_Urantia_Book/111#p3_7)).
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV30/05.jpg">
@@ -39,7 +63,7 @@ Cette association de « l'âme immortelle potentielle » avec la « personnalit�
 
 Cet acte de soumettre sa « propre volonté » à la « volonté de Dieu » est l'expression sincère d'un authentique enfant spirituel de DIEU, qui décide consciemment d'exprimer « c'est ma volonté que ta volonté soit faite ». Mais nous, à cause de notre ignorance spirituelle, laissons tout à la volonté de DIEU, nous sommes si paresseux que nous lui demandons toujours de résoudre nos problèmes et nos difficultés. Nous ne lui demandons jamais la sagesse et la force spirituelle pour nous guider et nous soutenir pendant que nous attaquons avec résolution et courage les problèmes qui se présentent à nous (page 999.8). Nous ne possédons pas la volonté nécessaire pour résoudre nous-mêmes nos problèmes. Nous le laissons toujours décider à notre place. Il nous manque la volonté de choisir consciemment ce choix de vie spirituelle que le PÈRE exige de ses enfants et que Jésus de Nazareth nous a si merveilleusement enseigné lorsqu'il a offert en tant qu'homme la plus grande des offrandes qu'un mortel puisse faire à DIEU : consacrer et consacrer votre propre volonté au service majestueux de l'accomplissement de la volonté divine du Père Universel.
 
-L’expression « c’est ma volonté que ta volonté soit faite » n’est pas une soumission à la volonté de l’homme. Cette expression a un sens plus profond ; C'est une consécration de la volonté, une expansion de la volonté, un perfectionnement de la volonté, une volonté consciente toujours prête à se conformer à la volonté de DIEU, où un tel choix élève la volonté de la créature mortelle à un état supérieur. de la réalité cosmique, c'est-à-dire lorsque la PERSONNALITÉ de la créature commence à communier avec la PERSONNALITÉ DU PÈRE, lorsque la communication avec l'ajusteur de pensée commence véritablement, lorsque la créature parvient à s'identifier comme un authentique fils spirituel de DIEU, c'est-à-dire lorsqu'elle commence véritablement. L'homme mortel acquiert possession de LA PERSONNALITÉ ÉTERNELLE ([LU 101:10.4](/fr/The_Urantia_Book/101#p10_4),[LU 112:2.9](/fr/The_Urantia_Book/112#p2_9)).
+L’expression « c’est ma volonté que ta volonté soit faite » n’est pas une soumission à la volonté de l’homme. Cette expression a un sens plus profond ; C'est une consécration de la volonté, une expansion de la volonté, un perfectionnement de la volonté, une volonté consciente toujours prête à se conformer à la volonté de DIEU, où un tel choix élève la volonté de la créature mortelle à un état supérieur. de la réalité cosmique, c'est-à-dire lorsque la PERSONNALITÉ de la créature commence à communier avec la PERSONNALITÉ DU PÈRE, lorsque la communication avec l'ajusteur de pensée commence véritablement, lorsque la créature parvient à s'identifier comme un authentique fils spirituel de DIEU, c'est-à-dire lorsqu'elle commence véritablement. L'homme mortel acquiert possession de LA PERSONNALITÉ ÉTERNELLE (<a id="a65_812"></a>[LU 101:10.4](/fr/The_Urantia_Book/101#p10_4),<a id="a65_858"></a>[LU 112:2.9](/fr/The_Urantia_Book/112#p2_9)).
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV30/06.jpg">
@@ -55,27 +79,27 @@ Les portes de l'éternité ne s'ouvrent qu'en réponse au libre choix fait par u
 
 Cette PERFECTION HUMAINE a été démontrée de manière exemplaire il y a plus de deux mille ans par un mortel évolutionnaire ascendant, un authentique fils spirituel de DIEU appelé Jésus de Nazareth, la personnalité la plus religieuse et spirituelle qui ait existé dans l'histoire de l'humanité.
 
-Il est important de souligner que cet homme mortel appelé Jésus a été capable de mener une vie si exemplaire de perfection humaine grâce aux mêmes ATTRIBUTS SPIRITUELS que chacun de nous possède (mental cosmique, âme morontielle, ajusteur de pensée et personnalité évolutive), mais c'est grâce à lui. au choix qu'il a fait avec son libre arbitre qui a réussi à gravir l'échelle de la vie mortelle jusqu'à atteindre l'admirable état spirituel d'être un « véritable enfant de DIEU par la FOI » ([LU 40:6.1](/fr/The_Urantia_Book/40#p6_1)). Jésus n’a jamais utilisé sa nature divine pour atteindre un tel degré de perfection humaine.
+Il est important de souligner que cet homme mortel appelé Jésus a été capable de mener une vie si exemplaire de perfection humaine grâce aux mêmes ATTRIBUTS SPIRITUELS que chacun de nous possède (mental cosmique, âme morontielle, ajusteur de pensée et personnalité évolutive), mais c'est grâce à lui. au choix qu'il a fait avec son libre arbitre qui a réussi à gravir l'échelle de la vie mortelle jusqu'à atteindre l'admirable état spirituel d'être un « véritable enfant de DIEU par la FOI » (<a id="a81_493"></a>[LU 40:6.1](/fr/The_Urantia_Book/40#p6_1)). Jésus n’a jamais utilisé sa nature divine pour atteindre un tel degré de perfection humaine.
 
-Jésus a vécu une vie mortelle complète, une vie vraiment normale et commune comme celle de tout mortel, IL connaissait par sa propre expérience la manière de vivre des races mortelles d'Urantia, le même type de vie mortelle qui est vécue dans les mondes évolutionnaires de temps et espace. La vie et les enseignements de Jésus constituent un héritage d'instruction spirituelle pour tous les âges et dans tous les mondes de l'univers, et pas seulement pour les races humaines de la terre. La vie mortelle de Jésus de Nazareth sera à jamais le modèle à suivre pour tous les mortels évolutionnaires de l'univers ([LU 129:4.3](/fr/The_Urantia_Book/129#p4_3), [LU 129:4.7](/fr/The_Urantia_Book/129#p4_7), [LU 129:4.8](/fr/The_Urantia_Book/129#p4_8), [LU 140:8.30](/fr/The_Urantia_Book/140#p8_30)).
+Jésus a vécu une vie mortelle complète, une vie vraiment normale et commune comme celle de tout mortel, IL connaissait par sa propre expérience la manière de vivre des races mortelles d'Urantia, le même type de vie mortelle qui est vécue dans les mondes évolutionnaires de temps et espace. La vie et les enseignements de Jésus constituent un héritage d'instruction spirituelle pour tous les âges et dans tous les mondes de l'univers, et pas seulement pour les races humaines de la terre. La vie mortelle de Jésus de Nazareth sera à jamais le modèle à suivre pour tous les mortels évolutionnaires de l'univers (<a id="a83_610"></a>[LU 129:4.3](/fr/The_Urantia_Book/129#p4_3), <a id="a83_655"></a>[LU 129:4.7](/fr/The_Urantia_Book/129#p4_7), <a id="a83_700"></a>[LU 129:4.8](/fr/The_Urantia_Book/129#p4_8), <a id="a83_745"></a>[LU 140:8.30](/fr/The_Urantia_Book/140#p8_30)).
 
-« Le professeur » Jésus de Nazareth nous a enseigné comment la vie devrait être vécue dans notre monde et à notre époque, et comment elle devrait également être vécue dans d'autres mondes en évolution. Même la vie mortelle que Jésus a vécue parmi les races mortelles d'Urantia continue de servir d'exemple aux mondes qui ont un haut avancement spirituel et sont déjà établis dans l'ère de « lumière et vie » (sur le chemin de la perfection), [LU 129:4.8](/fr/The_Urantia_Book/129#p4_8).
+« Le professeur » Jésus de Nazareth nous a enseigné comment la vie devrait être vécue dans notre monde et à notre époque, et comment elle devrait également être vécue dans d'autres mondes en évolution. Même la vie mortelle que Jésus a vécue parmi les races mortelles d'Urantia continue de servir d'exemple aux mondes qui ont un haut avancement spirituel et sont déjà établis dans l'ère de « lumière et vie » (sur le chemin de la perfection), <a id="a85_442"></a>[LU 129:4.8](/fr/The_Urantia_Book/129#p4_8).
 
-Nous ne pouvons certainement pas aspirer à vivre la vie de perfection humaine du Maître Jésus ; Mais ce que nous sommes obligés de faire, c'est que, si nous voulons assurer la survie de notre âme mortelle, et grâce à notre « libre arbitre spirituel », nous prenions la décision intelligente de vivre notre vie avec les mêmes moyens que Jésus a vécu la sienne. C'est-à-dire, en utilisant les mêmes dons spirituels qui ont été donnés « au Fils de l'Homme » Jésus de Nazareth, les mêmes dons spirituels que le Père Universel a si généreusement déversés sur toutes les races mortelles d'Urantia ([LU 129:4.8](/fr/The_Urantia_Book/129#p4_8)).
+Nous ne pouvons certainement pas aspirer à vivre la vie de perfection humaine du Maître Jésus ; Mais ce que nous sommes obligés de faire, c'est que, si nous voulons assurer la survie de notre âme mortelle, et grâce à notre « libre arbitre spirituel », nous prenions la décision intelligente de vivre notre vie avec les mêmes moyens que Jésus a vécu la sienne. C'est-à-dire, en utilisant les mêmes dons spirituels qui ont été donnés « au Fils de l'Homme » Jésus de Nazareth, les mêmes dons spirituels que le Père Universel a si généreusement déversés sur toutes les races mortelles d'Urantia (<a id="a87_592"></a>[LU 129:4.8](/fr/The_Urantia_Book/129#p4_8)).
 
-Pour conclure : il doit être très clair pour nous que, pour parvenir à LA SURVIE IMMORTELE, toutes les âmes de toutes les phases possibles de l'existence mortelle survivront aussi longtemps qu'elles manifesteront le désir sincère de coopérer avec leur « ajusteur de pensée » et de montrer le impulsion pour trouver DIEU, ainsi que pour atteindre la perfection humaine que le Père Universel exige de tous ses enfants, qu'ils pourront obtenir en parcourant ce nouveau chemin de vie mortelle que le Maître Jésus a si magistralement enseigné à l'humanité (% % 0%%, [LU 40:6.1](/fr/The_Urantia_Book/40#p6_1)).
+Pour conclure : il doit être très clair pour nous que, pour parvenir à LA SURVIE IMMORTELE, toutes les âmes de toutes les phases possibles de l'existence mortelle survivront aussi longtemps qu'elles manifesteront le désir sincère de coopérer avec leur « ajusteur de pensée » et de montrer le impulsion pour trouver DIEU, ainsi que pour atteindre la perfection humaine que le Père Universel exige de tous ses enfants, qu'ils pourront obtenir en parcourant ce nouveau chemin de vie mortelle que le Maître Jésus a si magistralement enseigné à l'humanité (% % 0%%, <a id="a89_561"></a>[LU 40:6.1](/fr/The_Urantia_Book/40#p6_1)).
 
-Il est important de savoir que la vie de perfection humaine que Jésus a accomplie au cours de ses vingt-neuf premières années (son ministère personnel), lorsque son développement spirituel purement humain a pratiquement pris fin, aura lieu d'abord au cours des vingt-sept années que Jésus aura vécues. a vécu avec son environnement familial et social à Nazareth et à Jérusalem (le monde juif), puis au cours des deux années suivantes au cours desquelles il a décidé de parcourir la Méditerranée à travers l'empire romain (le monde des païens), dans le but d'apprendre à connaître toute la gamme des émotions humaines ([LU 129:4.1](/fr/The_Urantia_Book/129#p4_1)).
+Il est important de savoir que la vie de perfection humaine que Jésus a accomplie au cours de ses vingt-neuf premières années (son ministère personnel), lorsque son développement spirituel purement humain a pratiquement pris fin, aura lieu d'abord au cours des vingt-sept années que Jésus aura vécues. a vécu avec son environnement familial et social à Nazareth et à Jérusalem (le monde juif), puis au cours des deux années suivantes au cours desquelles il a décidé de parcourir la Méditerranée à travers l'empire romain (le monde des païens), dans le but d'apprendre à connaître toute la gamme des émotions humaines (<a id="a91_618"></a>[LU 129:4.1](/fr/The_Urantia_Book/129#p4_1)).
 
-Jésus a pratiquement atteint le sommet de la vie spirituelle humaine au cours de sa vingtième année. Le Fils de l'Homme est venu sur terre pour que la plénitude de DIEU soit manifestée à l'homme. Jésus est déjà devenu PRESQUE LA PERFECTION DE L'HOMME qui attend l'occasion de se manifester à DIEU, et il a fait tout cela avant d'avoir trente ans ([LU 129:4.8](/fr/The_Urantia_Book/129#p4_8)).
+Jésus a pratiquement atteint le sommet de la vie spirituelle humaine au cours de sa vingtième année. Le Fils de l'Homme est venu sur terre pour que la plénitude de DIEU soit manifestée à l'homme. Jésus est déjà devenu PRESQUE LA PERFECTION DE L'HOMME qui attend l'occasion de se manifester à DIEU, et il a fait tout cela avant d'avoir trente ans (<a id="a93_347"></a>[LU 129:4.8](/fr/The_Urantia_Book/129#p4_8)).
 
-Ainsi, si nous VOULONS vraiment ÉVOLUER SPIRITUELLEMENT POUR OBTENIR UNE SURVIE IMMORTELE, si nous aspirons vraiment à mener une vie spirituelle authentique et si nous sommes prêts à développer une véritable spiritualité, nous ne pouvons y parvenir que si nous étudions d'abord la vie personnelle de Jésus de Nazareth. , puisque c'est son ministère personnel, et non les leçons à ses douze apôtres ou les sermons aux multitudes (sa vie de prédication), qui nous guidera pour vivre une vie spirituelle authentique, un état qui nous permettra véritablement de connaître le caractère personnalité divine et aimante de notre Père Universel ([LU 32:2.13](/fr/The_Urantia_Book/32#p2_13), [LU 34:5.6](/fr/The_Urantia_Book/34#p5_6), [LU 140:8.20](/fr/The_Urantia_Book/140#p8_20)).
+Ainsi, si nous VOULONS vraiment ÉVOLUER SPIRITUELLEMENT POUR OBTENIR UNE SURVIE IMMORTELE, si nous aspirons vraiment à mener une vie spirituelle authentique et si nous sommes prêts à développer une véritable spiritualité, nous ne pouvons y parvenir que si nous étudions d'abord la vie personnelle de Jésus de Nazareth. , puisque c'est son ministère personnel, et non les leçons à ses douze apôtres ou les sermons aux multitudes (sa vie de prédication), qui nous guidera pour vivre une vie spirituelle authentique, un état qui nous permettra véritablement de connaître le caractère personnalité divine et aimante de notre Père Universel (<a id="a95_637"></a>[LU 32:2.13](/fr/The_Urantia_Book/32#p2_13), <a id="a95_682"></a>[LU 34:5.6](/fr/The_Urantia_Book/34#p5_6), <a id="a95_725"></a>[LU 140:8.20](/fr/The_Urantia_Book/140#p8_20)).
 
-Si nous voulons commencer à lire la vie et les enseignements de Jésus, nous devons prendre en compte les éléments suivants. La vie terrestre de Jésus passe par trois étapes : son ministère personnel, une période de transition et son ministère public ([LU 129:4.1](/fr/The_Urantia_Book/129#p4_1)).
+Si nous voulons commencer à lire la vie et les enseignements de Jésus, nous devons prendre en compte les éléments suivants. La vie terrestre de Jésus passe par trois étapes : son ministère personnel, une période de transition et son ministère public (<a id="a97_251"></a>[LU 129:4.1](/fr/The_Urantia_Book/129#p4_1)).
 
-1. ÉTAPE DU MINISTÈRE PERSONNEL : cette partie de sa vie personnelle nous montre le développement purement humain de Jésus. Cette période comprend leurs 29 premières années et se situe dans leur environnement familial et social. À ce stade, Jésus atteint la pleine somme et la substance de la vie des êtres humains, telle qu'elle est vécue dans les mondes matériels du temps et de l'espace ([LU 129:4.1](/fr/The_Urantia_Book/129#p4_1), [LU 129:4.4](/fr/The_Urantia_Book/129#p4_4)).
-2. PÉRIODE DE TRANSITION : va de 30 à 33 ans, période pendant laquelle Jésus a abandonné sa vie personnelle pour se consacrer à sa préparation comme professeur de vérité spirituelle. C'est également à cette époque que Jésus choisit et forme ses douze apôtres, les futurs messagers du royaume ([LU 134:0.1](/fr/The_Urantia_Book/134#p0_1) à [LU 140:10.10](/fr/The_Urantia_Book/140#p10_10)).
-3. ÉTAPE DE SON MINISTÈRE PUBLIC : lorsque le Maître Jésus a commencé la proclamation de « son évangile incomparable », les plus grands enseignements de vérité spirituelle et de vie éternelle que l'homme mortel de ce monde et des autres mondes de l'univers ait jamais entendus ([LU 141:0.1](/fr/The_Urantia_Book/141#p0_1) à [LU 175:4.15](/fr/The_Urantia_Book/175#p4_15)).
+1. ÉTAPE DU MINISTÈRE PERSONNEL : cette partie de sa vie personnelle nous montre le développement purement humain de Jésus. Cette période comprend leurs 29 premières années et se situe dans leur environnement familial et social. À ce stade, Jésus atteint la pleine somme et la substance de la vie des êtres humains, telle qu'elle est vécue dans les mondes matériels du temps et de l'espace (<a id="a99_391"></a>[LU 129:4.1](/fr/The_Urantia_Book/129#p4_1), <a id="a99_436"></a>[LU 129:4.4](/fr/The_Urantia_Book/129#p4_4)).
+2. PÉRIODE DE TRANSITION : va de 30 à 33 ans, période pendant laquelle Jésus a abandonné sa vie personnelle pour se consacrer à sa préparation comme professeur de vérité spirituelle. C'est également à cette époque que Jésus choisit et forme ses douze apôtres, les futurs messagers du royaume (<a id="a100_293"></a>[LU 134:0.1](/fr/The_Urantia_Book/134#p0_1) à <a id="a100_339"></a>[LU 140:10.10](/fr/The_Urantia_Book/140#p10_10)).
+3. ÉTAPE DE SON MINISTÈRE PUBLIC : lorsque le Maître Jésus a commencé la proclamation de « son évangile incomparable », les plus grands enseignements de vérité spirituelle et de vie éternelle que l'homme mortel de ce monde et des autres mondes de l'univers ait jamais entendus (<a id="a101_278"></a>[LU 141:0.1](/fr/The_Urantia_Book/141#p0_1) à <a id="a101_324"></a>[LU 175:4.15](/fr/The_Urantia_Book/175#p4_15)).
 
 Je vous invite avec amour à étudier en détail LA VIE PERSONNELLE DE Jésus, qui est magistralement détaillée dans la [quatrième partie du LIVRE D'URANTIA](/fr/The_Urantia_Book/120), qui contient la vie et les enseignements de Jésus. Car, lorsqu'on aura étudié en détail la vie personnelle que Jésus a vécue dans son environnement immédiat, nous pourrons mieux comprendre le vrai sens de son incomparable enseignement sur la vie éternelle, auquel nous pouvons accéder si nous parvenons à accomplir la volonté de notre Père Universel : **SOYEZ HUMAINEMENT PARFAIT COMME NOTRE FRÈRE JÉSUS EST PARFAIT**
 
@@ -85,3 +109,28 @@ Merci.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_30_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 30 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-30-septembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 30 — septembre 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_Libro_de_Urantia_y_la_reencarnacion">
+          <span class="pr-2">Le Livre d'Urantia et la réincarnation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

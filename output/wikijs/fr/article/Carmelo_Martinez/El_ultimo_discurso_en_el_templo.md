@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Carmelo Martínez<br>© 2014 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Parabole des Mines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-37-juin-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 37 — juin 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -27,9 +48,9 @@ Après le baptême, et pour achever une vie humaine, il lui suffisait de passer 
 
 2\. _Révéler la volonté du Père_, ce qu'il a fait notamment au cours de sa soi-disant « vie publique ».
 
-3\. _Mettez « techniquement un terme à la rébellion de Lucifer dans le système Satania_, et que vous fassiez tout cela en tant que Fils de l'Homme » ([LU 120:2.2](/fr/The_Urantia_Book/120#p2_2)).
+3\. _Mettez « techniquement un terme à la rébellion de Lucifer dans le système Satania_, et que vous fassiez tout cela en tant que Fils de l'Homme » (<a id="a50_150"></a>[LU 120:2.2](/fr/The_Urantia_Book/120#p2_2)).
 
-On ne nous donne pas beaucoup de détails sur ce que cela signifie, mais il l'a fait sur le mont Hermon en septembre de l'an 25 lorsque, sans l'aide de son tuteur personnel et en tant que Fils de l'Homme, il affronta les rebelles ([LU 134:8.9](/fr/The_Urantia_Book/134#p8_9) ).
+On ne nous donne pas beaucoup de détails sur ce que cela signifie, mais il l'a fait sur le mont Hermon en septembre de l'an 25 lorsque, sans l'aide de son tuteur personnel et en tant que Fils de l'Homme, il affronta les rebelles (<a id="a52_230"></a>[LU 134:8.9](/fr/The_Urantia_Book/134#p8_9) ).
 
 Les travaux publics commencèrent réellement en janvier de l'an 27. Tout au long de l'année 26, Jésus choisit ses apôtres et les forma.
 
@@ -75,3 +96,25 @@ Au-delà de l’analyse du contenu du discours lui-même, nous pouvons nous pose
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Parabole des Mines</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-37-juin-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 37 — juin 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

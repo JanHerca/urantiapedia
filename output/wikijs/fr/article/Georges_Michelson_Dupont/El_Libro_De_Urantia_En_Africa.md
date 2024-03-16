@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Georges Michelson-Dupont<br>© 2005 Olga López, d'après la traduction<br>© 2005 Association Urantia d'Espagne </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/El_Centro_De_Atencion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le centre d'attention</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-2-septembre-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 2 — septembre 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Encuentro_14_Mayo_1999_En_Dakar_1a_Parte">
+          <span class="pr-2">Réunion du 14 mai à Dakar (Sénégal), première partie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -30,11 +54,11 @@ Jésus s'intéressait à l'individu et son enseignement s'adressait à lui. Une 
 
 La technique de Moussa est universelle : c'est celle de Jésus. Cela peut être adapté à chacun de nous en fonction des circonstances, des réalités religieuses, sociales et culturelles, mais cela implique invariablement deux phases : premièrement, la préparation intelligente, aimante et non invasive de l'esprit humain à recevoir les vérités contenues dans ces enseignements. ; et deuxièmement, sa présentation ultérieure. L’Ajusteur Intérieur, l’Esprit de Vérité et les anges associés feront le reste.
 
-> « _...Mais nous savons qu’un fragment de Dieu habite dans le mental humain et que l’Esprit de Vérité séjourne avec l’âme humaine. De plus, nous savons que ces forces spirituelles conspirent pour rendre l’homme matériel apte à saisir la réalité des valeurs spirituelles et à comprendre la philosophie des significations de l’univers. Mais, avec plus de certitude encore, nous savons que ces esprits de la Présence Divine peuvent aider l’homme à s’approprier spirituellement toute la vérité contribuant à rehausser la réalité toujours progressante de l’expérience religieuse personnelle — la conscience de Dieu._ » ([LU 0:12.13](/fr/The_Urantia_Book/0#p12_13))
+> « _...Mais nous savons qu’un fragment de Dieu habite dans le mental humain et que l’Esprit de Vérité séjourne avec l’âme humaine. De plus, nous savons que ces forces spirituelles conspirent pour rendre l’homme matériel apte à saisir la réalité des valeurs spirituelles et à comprendre la philosophie des significations de l’univers. Mais, avec plus de certitude encore, nous savons que ces esprits de la Présence Divine peuvent aider l’homme à s’approprier spirituellement toute la vérité contribuant à rehausser la réalité toujours progressante de l’expérience religieuse personnelle — la conscience de Dieu._ » (<a id="a56_616"></a>[LU 0:12.13](/fr/The_Urantia_Book/0#p12_13))
 
 Cette preuve nous a été donnée à condition qu'elle soit présentée intelligemment, avec respect et amour ; Les enseignements de ce livre peuvent être acceptés par n’importe quelle religion, partout dans le monde, et libérer les âmes dans les ténèbres, captives de l’esclavage des traditions et des croyances.
 
-> Jésus insista beaucoup sur ce qu’il appelait les deux vérités de première importance dans les enseignements du royaume, à savoir : l’obtention du salut par la foi et la foi seule, associée à l’enseignement révolutionnaire de l’obtention de la liberté humaine par la récognition de la vérité. « Vous connaitrez la vérité, et la vérité vous affranchira. » ([LU 141:7.6](/fr/The_Urantia_Book/141#p7_6))
+> Jésus insista beaucoup sur ce qu’il appelait les deux vérités de première importance dans les enseignements du royaume, à savoir : l’obtention du salut par la foi et la foi seule, associée à l’enseignement révolutionnaire de l’obtention de la liberté humaine par la récognition de la vérité. « Vous connaitrez la vérité, et la vérité vous affranchira. » (<a id="a60_357"></a>[LU 141:7.6](/fr/The_Urantia_Book/141#p7_6))
 
 Lorsque nous avons demandé à Fatou, une élève de Moussa, ce que _Le Livre d'Urantia_ lui avait donné, elle a répondu : « Cela a fait de moi une meilleure musulmane.
 
@@ -45,3 +69,28 @@ Je vous invite à méditer sur cette réponse.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/El_Centro_De_Atencion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le centre d'attention</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-2-septembre-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 2 — septembre 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/Encuentro_14_Mayo_1999_En_Dakar_1a_Parte">
+          <span class="pr-2">Réunion du 14 mai à Dakar (Sénégal), première partie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04">
+          <span class="pr-2">Éditorial Luz y Vida – avril 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -287,7 +308,7 @@ C'est dans le document 144 et ça dit ceci :
 > Et pardonne à chacun de nous ses offenses<br>
 > Comme nous avons aussi pardonné à ceux qui nous ont offensés.<br>
 > Sauve-nous dans la tentation, délivre-nous du mal,<br>
-> Et rends-nous de plus en plus parfaits comme toi-même. ([LU 144:3.3-12](/fr/The_Urantia_Book/144#p3_3))
+> Et rends-nous de plus en plus parfaits comme toi-même. (<a id="a310_58"></a>[LU 144:3.3-12](/fr/The_Urantia_Book/144#p3_3))
 
 Eh bien oui, dans _Le Livre d'Urantia_ les mots dettes/débiteurs apparaissent, tout comme le Notre Père avant 1986 (dans l'anglais original, _debt_/_debtors_). De plus, apparaissent des phrases qui n'apparaissent pas dans le Notre Père catholique : Ravive notre âme avec l'eau de la vie et Rends-nous de plus en plus parfaits comme toi.
 
@@ -304,7 +325,7 @@ Jordi Prat
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Mi-parrafo-favorito-Jordi-Prat.jpg" alt="Mi párrafo favorito-Jordi Prat">
 </figure>
 
-> _Les transcriptions du mental mortel et les modèles actifs de la mémoire de la créature, transposés des niveaux matériels aux niveaux spirituels, sont la propriété individuelle des Ajusteurs de Pensée détachés. Ces facteurs spiritualisés du mental, de la mémoire et de la personnalité de la créature font pour toujours partie intégrante de ces Ajusteurs. La matrice mentale de la créature et les potentiels d’identité passifs sont présents dans l’âme morontielle confiée à la garde des gardiens séraphiques de la destinée. Et c’est la réunion de l’âme morontielle confiée aux séraphins et du mental spirituel confié à l’Ajusteur qui reconstitue la personnalité de la créature et constitue la résurrection des survivants endormis._ ([LU 47:3.3](/fr/The_Urantia_Book/47#p3_3))
+> _Les transcriptions du mental mortel et les modèles actifs de la mémoire de la créature, transposés des niveaux matériels aux niveaux spirituels, sont la propriété individuelle des Ajusteurs de Pensée détachés. Ces facteurs spiritualisés du mental, de la mémoire et de la personnalité de la créature font pour toujours partie intégrante de ces Ajusteurs. La matrice mentale de la créature et les potentiels d’identité passifs sont présents dans l’âme morontielle confiée à la garde des gardiens séraphiques de la destinée. Et c’est la réunion de l’âme morontielle confiée aux séraphins et du mental spirituel confié à l’Ajusteur qui reconstitue la personnalité de la créature et constitue la résurrection des survivants endormis._ (<a id="a327_734"></a>[LU 47:3.3](/fr/The_Urantia_Book/47#p3_3))
 
 Dans ce paragraphe, il explique clairement qu'au moment de la mort, l'Ajusteur garde la personnalité (« ils sont la possession individuelle de l'Ajusteur de Pensée qui est devenu délié. Ces facteurs spiritualisés de l'esprit, de la mémoire et de la personnalité de la créature font partie du toujours dudit Ajusteur.»)
 
@@ -380,3 +401,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_04">
+          <span class="pr-2">Éditorial Luz y Vida – avril 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_06">
+          <span class="pr-2">Éditorial Luz y Vida – juin 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -58,7 +79,7 @@ L’incarnation de notre Créateur bien-aimé, Michel de Nébadon, est déjà un
 > Notre Père, qui es aux cieux,<br>
 > Que ton nom soit sanctifié.<br>
 > Que ton règne vienne ; que ta volonté soit faite<br>
-> Sur terre comme elle l’est au ciel. ([LU 144:3.3-6](/fr/The_Urantia_Book/144#p3_3))
+> Sur terre comme elle l’est au ciel. (<a id="a81_39"></a>[LU 144:3.3-6](/fr/The_Urantia_Book/144#p3_3))
 
 Ce désir de perfectionner le monde matériel ne devrait en aucun cas prendre fin avec son départ physique de notre planète. Ses disciples étaient chargés de continuer à élargir cette élévation de conscience qui était son message, quelque chose qui « rendra le vieux monde nouveau ».
 
@@ -66,23 +87,23 @@ Ce désir de perfectionner le monde matériel ne devrait en aucun cas prendre fi
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-3.jpg" alt="Editorial junio 2023-3">
 </figure>
 
-> « Vous ne m’avez pas simplement choisi, mais, moi aussi, je vous ai choisis, et je vous ai conféré l’ordination afin que vous alliez dans le monde porter le fruit du service aimant à vos semblables, de même que j’ai vécu parmi vous en vous révélant le Père. Le Père et moi, nous opèrerons tous deux avec vous, et vous éprouverez la divine plénitude de la joie si seulement vous voulez obéir à mon commandement de vous aimer les uns les autres comme je vous ai aimés. » ([LU 180:1.4](/fr/The_Urantia_Book/180#p1_4))
+> « Vous ne m’avez pas simplement choisi, mais, moi aussi, je vous ai choisis, et je vous ai conféré l’ordination afin que vous alliez dans le monde porter le fruit du service aimant à vos semblables, de même que j’ai vécu parmi vous en vous révélant le Père. Le Père et moi, nous opèrerons tous deux avec vous, et vous éprouverez la divine plénitude de la joie si seulement vous voulez obéir à mon commandement de vous aimer les uns les autres comme je vous ai aimés. » (<a id="a89_472"></a>[LU 180:1.4](/fr/The_Urantia_Book/180#p1_4))
 
 Vous souvenez-vous du passage sur le retour des soixante-dix prédicateurs ordonnés à Magadan ? Le retour des disciples est marqué par la joie après avoir expérimenté leur propre pouvoir sur les forces du mal : « même les démons se soumettent à nous en ton nom ». Ils exultaient de joie, euphoriques, désireux de parler de leurs réalisations.
 
-> Le vendredi 30 décembre, tandis que Jésus s’était éloigné dans les collines voisines avec Pierre, Jacques et Jean, les soixante-dix messagers arrivaient, deux par deux, au quartier général de Pella, accompagnés par de nombreux croyants. Vers cinq heures de l’après-midi, lorsque Jésus revint au camp, tous les soixante-dix étaient réunis à l’endroit où il enseignait. Le repas du soir fut retardé de plus d’une heure, pendant laquelle ces enthousiastes de l’évangile du royaume racontèrent leurs expériences. Les messagers de David avaient rapporté beaucoup de ces nouvelles aux apôtres durant les semaines précédentes, mais il fut vraiment inspirant d’entendre ces éducateurs de l’évangile, dont l’ordination était récente, raconter personnellement comment leur message avait été reçu par les Juifs et les Gentils assoiffés de vérité. Enfin, Jésus pouvait voir des hommes allant répandre la bonne nouvelle en dehors de sa présence personnelle. Le Maitre savait désormais qu’il pouvait quitter ce monde sans porter un trop grave préjudice aux progrès du royaume. ([LU 163:6.1](/fr/The_Urantia_Book/163#p6_1))
+> Le vendredi 30 décembre, tandis que Jésus s’était éloigné dans les collines voisines avec Pierre, Jacques et Jean, les soixante-dix messagers arrivaient, deux par deux, au quartier général de Pella, accompagnés par de nombreux croyants. Vers cinq heures de l’après-midi, lorsque Jésus revint au camp, tous les soixante-dix étaient réunis à l’endroit où il enseignait. Le repas du soir fut retardé de plus d’une heure, pendant laquelle ces enthousiastes de l’évangile du royaume racontèrent leurs expériences. Les messagers de David avaient rapporté beaucoup de ces nouvelles aux apôtres durant les semaines précédentes, mais il fut vraiment inspirant d’entendre ces éducateurs de l’évangile, dont l’ordination était récente, raconter personnellement comment leur message avait été reçu par les Juifs et les Gentils assoiffés de vérité. Enfin, Jésus pouvait voir des hommes allant répandre la bonne nouvelle en dehors de sa présence personnelle. Le Maitre savait désormais qu’il pouvait quitter ce monde sans porter un trop grave préjudice aux progrès du royaume. (<a id="a93_1066"></a>[LU 163:6.1](/fr/The_Urantia_Book/163#p6_1))
 
 Jésus lui-même se sentait euphorique face à ces événements, plein d'espoir pour ses disciples.
 
-> …juste avant de partager le repas, lorsque Jésus a vécu l'un des rares moments d'extase émotionnelle dont ses disciples ont eu l'occasion d'être témoins. Il a dit : « Je te remercie, Père, Seigneur du ciel et de la terre, car bien que ce merveilleux évangile soit caché aux sages et aux vaniteux, l’esprit a révélé ces gloires spirituelles à ces enfants du royaume. [LU 163:6.3](/fr/The_Urantia_Book/163#p6_3)
+> …juste avant de partager le repas, lorsque Jésus a vécu l'un des rares moments d'extase émotionnelle dont ses disciples ont eu l'occasion d'être témoins. Il a dit : « Je te remercie, Père, Seigneur du ciel et de la terre, car bien que ce merveilleux évangile soit caché aux sages et aux vaniteux, l’esprit a révélé ces gloires spirituelles à ces enfants du royaume. <a id="a97_368"></a>[LU 163:6.3](/fr/The_Urantia_Book/163#p6_3)
 
 Mais nous connaissons déjà la profondeur de la pensée de notre Créateur bien-aimé, sa perspicacité spirituelle, alors le lendemain, il a rassemblé les soixante-dix et leur a donné une clé très importante pour eux (et aussi pour nous) :
 
-> Maintenant, sans vouloir refroidir votre enthousiasme, je tiens à vous mettre sévèrement en garde contre les subtilités de l’orgueil, de l’orgueil spirituel. Si vous pouviez comprendre la chute de Lucifer, l’inique, vous renonceriez solennellement à toutes les formes d’orgueil spirituel. ([LU 163:6.6](/fr/The_Urantia_Book/163#p6_6))
+> Maintenant, sans vouloir refroidir votre enthousiasme, je tiens à vous mettre sévèrement en garde contre les subtilités de l’orgueil, de l’orgueil spirituel. Si vous pouviez comprendre la chute de Lucifer, l’inique, vous renonceriez solennellement à toutes les formes d’orgueil spirituel. (<a id="a101_292"></a>[LU 163:6.6](/fr/The_Urantia_Book/163#p6_6))
 
 Comme Jésus avait raison de les avertir à ce sujet ! Il a su repérer avec certitude l'origine de la chute d'un être spirituel de haut niveau, plein d'enthousiasme, vantard et surdimensionné dans son ego.
 
-> Le progrès spirituel est basé sur la récognition intellectuelle de la pauvreté spirituelle, doublée de la conscience personnelle de la soif de perfection, du désir de connaitre Dieu et d’être semblable à lui, de l’intention sincère de faire la volonté du Père qui est aux cieux. ([LU 100:2.1](/fr/The_Urantia_Book/100#p2_1))
+> Le progrès spirituel est basé sur la récognition intellectuelle de la pauvreté spirituelle, doublée de la conscience personnelle de la soif de perfection, du désir de connaitre Dieu et d’être semblable à lui, de l’intention sincère de faire la volonté du Père qui est aux cieux. (<a id="a105_282"></a>[LU 100:2.1](/fr/The_Urantia_Book/100#p2_1))
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_06)
 
@@ -106,7 +127,7 @@ Comme l'explique son auteur en introduction : « Cet ouvrage traite des migratio
 
 [**Mariage et vie de famille (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Matrimonio-y-vida-familiar.pdf)
 
-L'auteur commence par ce paragraphe du document 84 : « Quant aux idéaux du mariage d’un couple, la femme a finalement gagné récognition, dignité, indépendance, égalité et éducation ; mais va-t-elle se montrer digne de cette réussite nouvelle et sans précédent ? La femme moderne répondra-t-elle à cette grande libération sociale par la paresse, l’indolence, la stérilité et l’infidélité ? Aujourd’hui, au vingtième siècle, la femme subit l’épreuve décisive de sa longue existence dans le monde ! » [LU 84:5.10](/fr/The_Urantia_Book/84#p5_10). À partir de là, elle se demande brièvement si les femmes de notre époque gagnent la reconnaissance et la dignité dont on parle.
+L'auteur commence par ce paragraphe du document 84 : « Quant aux idéaux du mariage d’un couple, la femme a finalement gagné récognition, dignité, indépendance, égalité et éducation ; mais va-t-elle se montrer digne de cette réussite nouvelle et sans précédent ? La femme moderne répondra-t-elle à cette grande libération sociale par la paresse, l’indolence, la stérilité et l’infidélité ? Aujourd’hui, au vingtième siècle, la femme subit l’épreuve décisive de sa longue existence dans le monde ! » <a id="a129_498"></a>[LU 84:5.10](/fr/The_Urantia_Book/84#p5_10). À partir de là, elle se demande brièvement si les femmes de notre époque gagnent la reconnaissance et la dignité dont on parle.
 <br style="clear:both" />
 
 ---
@@ -216,7 +237,7 @@ El párrafo que he elegido es por la experiencia que actualmente me ha tocado vi
 
 À cause de ce que j'ai dit avant et après avoir réfléchi à de nombreux textes du livre, je suis resté avec celui-ci, imaginant que c'est ce que vit ma bien-aimée Paulita.
 
-> Partant des salles de résurrection, vous allez au secteur Melchizédek où l’on vous affecte une résidence permanente. Vous entrez alors dans une période de dix jours de liberté personnelle. Vous êtes libre d’explorer le voisinage immédiat de votre nouveau foyer et de vous familiariser avec le programme qui vous attend dans l’avenir immédiat. Vous avez aussi le temps de satisfaire votre désir de consulter le registre des inscriptions et de rendre visite à ceux que vous aimiez et aux autres amis terrestres qui vous ont précédé sur ces mondes. À la fin de vos dix jours de loisirs, vous commencez la deuxième étape du voyage vers le Paradis, car les mondes des maisons ne sont pas simplement des planètes où l’on vous retient, mais des sphères d’entrainement effectif. ([LU 47:3.6](/fr/The_Urantia_Book/47#p3_6))
+> Partant des salles de résurrection, vous allez au secteur Melchizédek où l’on vous affecte une résidence permanente. Vous entrez alors dans une période de dix jours de liberté personnelle. Vous êtes libre d’explorer le voisinage immédiat de votre nouveau foyer et de vous familiariser avec le programme qui vous attend dans l’avenir immédiat. Vous avez aussi le temps de satisfaire votre désir de consulter le registre des inscriptions et de rendre visite à ceux que vous aimiez et aux autres amis terrestres qui vous ont précédé sur ces mondes. À la fin de vos dix jours de loisirs, vous commencez la deuxième étape du voyage vers le Paradis, car les mondes des maisons ne sont pas simplement des planètes où l’on vous retient, mais des sphères d’entrainement effectif. (<a id="a239_774"></a>[LU 47:3.6](/fr/The_Urantia_Book/47#p3_6))
 
 J'espère que lorsque j'aurai obtenu mon diplôme, je pourrai la rencontrer pour lui dire que j'attendais avec impatience le jour où nous devions travailler à la préparation du document 43 avec Wilson González, et que nous le présenterions le jeudi 25 mai. Eh bien, ça ne pourrait pas être...
 
@@ -357,3 +378,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_06">
+          <span class="pr-2">Éditorial Luz y Vida – juin 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

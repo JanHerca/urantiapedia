@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky">
+          <span class="pr-2">Les secrets astronomiques du ciel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -59,7 +80,7 @@ Tout cela nous montre un MOUVEMENT URANTIA vibrant, dynamique, de plus en plus i
 
 <br style="clear:both" />
 
-> « Cesse de craindre les hommes ; n’aie pas peur de prêcher la bonne nouvelle de la vie éternelle à tes semblables qui languissent dans les ténèbres et ont soif de la lumière de vérité. » ([LU 192:2.11](/fr/The_Urantia_Book/192#p2_11))
+> « Cesse de craindre les hommes ; n’aie pas peur de prêcher la bonne nouvelle de la vie éternelle à tes semblables qui languissent dans les ténèbres et ont soif de la lumière de vérité. » (<a id="a82_190"></a>[LU 192:2.11](/fr/The_Urantia_Book/192#p2_11))
 
 ## Travaux – nos recommandations du mois
 
@@ -269,3 +290,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_B_Parkinson/The_astronomical_secrets_of_the_sky">
+          <span class="pr-2">Les secrets astronomiques du ciel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

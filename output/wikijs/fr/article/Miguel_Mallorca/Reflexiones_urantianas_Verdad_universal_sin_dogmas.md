@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Miguel Majorque<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – février 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Victoriano_Izquierdo">
+          <span class="pr-2">Questionnaire Urantien : Quitté Victoriano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_14" class="image urantiapedia">
@@ -69,3 +93,28 @@ Moralité : pour évoluer spirituellement, nous n'avons pas besoin d'être saint
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/01/31/reflexiones-urantianas-verdad-universal-sin-dogmas/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – février 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Victoriano_Izquierdo">
+          <span class="pr-2">Questionnaire Urantien : Quitté Victoriano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

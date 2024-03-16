@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — mai 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -55,17 +76,17 @@ _Le Livre d'Urantia_ nous parle d'une manière diamétralement opposée à ces p
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-1.jpg" alt="Editorial mayo-23-1">
 </figure>
 
-> En principe, c’est-à-dire en potentiel éternel, nous concevons la création matérielle comme infinie parce que le Père Universel est effectivement infini, ([LU 12:0.2](/fr/The_Urantia_Book/12#p0_2))
+> En principe, c’est-à-dire en potentiel éternel, nous concevons la création matérielle comme infinie parce que le Père Universel est effectivement infini, (<a id="a78_157"></a>[LU 12:0.2](/fr/The_Urantia_Book/12#p0_2))
 
 L’univers n’est pas fini et peut supporter une infinité de fils et de filles de Dieu, uniques, originaux, irremplaçables. Tout le monde aimait.
 
-> La totalité des myriades de systèmes planétaires ont été créés pour être habités au fil du temps par de nombreux types différents de créatures intelligentes, des êtres capables de connaître Dieu, de recevoir l'affection divine et de l'aimer en retour. [LU 1:0.2](/fr/The_Urantia_Book/1#p0_2)
+> La totalité des myriades de systèmes planétaires ont été créés pour être habités au fil du temps par de nombreux types différents de créatures intelligentes, des êtres capables de connaître Dieu, de recevoir l'affection divine et de l'aimer en retour. <a id="a82_254"></a>[LU 1:0.2](/fr/The_Urantia_Book/1#p0_2)
 > 
-> Établissez donc dans votre philosophie, maintenant et pour toujours, que, pour chacun de vous et pour nous tous, Dieu est accessible, le Père est joignable, la voie est ouverte. Les forces de l’amour divin et les voies et moyens de l’administration divine sont tous connectés ensemble dans un effort pour faciliter à toutes les intelligences dignes de tous les univers d’avancer vers la présence du Père Universel au Paradis. [LU 5:1.8](/fr/The_Urantia_Book/5#p1_8)
+> Établissez donc dans votre philosophie, maintenant et pour toujours, que, pour chacun de vous et pour nous tous, Dieu est accessible, le Père est joignable, la voie est ouverte. Les forces de l’amour divin et les voies et moyens de l’administration divine sont tous connectés ensemble dans un effort pour faciliter à toutes les intelligences dignes de tous les univers d’avancer vers la présence du Père Universel au Paradis. <a id="a84_428"></a>[LU 5:1.8](/fr/The_Urantia_Book/5#p1_8)
 
 Personne n’est laissé de côté dans une création infinie, nous apportons tous nos talents à son développement. Les mains infinies des ouvriers sont nécessaires à ce travail sans fin.
 
-> En vérité, la moisson est abondante, mais les ouvriers sont peu nombreux ; je vous exhorte donc tous à prier pour que le Seigneur de la moisson envoie encore d’autres ouvriers pour moissonner. ([LU 163:1.3](/fr/The_Urantia_Book/163#p1_3))
+> En vérité, la moisson est abondante, mais les ouvriers sont peu nombreux ; je vous exhorte donc tous à prier pour que le Seigneur de la moisson envoie encore d’autres ouvriers pour moissonner. (<a id="a88_196"></a>[LU 163:1.3](/fr/The_Urantia_Book/163#p1_3))
 
 Combien cette vision fournie par le livre bleu est loin des idées appauvrissantes et limitantes que les puissantes minorités de notre planète se font aujourd'hui sur notre planète et sur la vie ! Comme ils sont loin de l’immense valeur que possède l’être humain ! Comme il est bon pour cette minorité que nous, les humains, nous sous-estimons et ne sachions pas qui nous sommes !
 
@@ -75,7 +96,7 @@ Combien cette vision fournie par le livre bleu est loin des idées appauvrissant
 
 Si sur la planète, à l'heure actuelle, les millions d'humains qui la peuplent découvraient notre force intérieure, notre propre lumière, notre valeur, les choses ne changeraient-elles pas beaucoup ? Pouvez-vous imaginer des millions de personnes unies à leur Ajusteur de Pensée, accomplissant la volonté divine sur terre, affichant dans la matière les valeurs éternelles proclamées par Jésus de Nazareth ? Un Jésus qui avait une grande foi dans l’être humain, dans ses grandes possibilités.
 
-> La religion de Jésus encourage le type le plus élevé de civilisation humaine, en ce sens qu’elle crée le type le plus élevé de personnalité spirituelle et proclame le caractère sacré de cette personne. ([LU 194:3.7](/fr/The_Urantia_Book/194#p3_7))
+> La religion de Jésus encourage le type le plus élevé de civilisation humaine, en ce sens qu’elle crée le type le plus élevé de personnalité spirituelle et proclame le caractère sacré de cette personne. (<a id="a98_205"></a>[LU 194:3.7](/fr/The_Urantia_Book/194#p3_7))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Editorial-mayo-23-3.jpg" alt="Editorial mayo-23-3">
@@ -83,7 +104,7 @@ Si sur la planète, à l'heure actuelle, les millions d'humains qui la peuplent 
 
 Ce bel idéal se réalisera sur Terre. C'est notre espoir. C’est l’horizon vers lequel nous marchons, sans aucun doute. C’est la bonne nouvelle qui manque à tant de médias.
 
-> Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde. ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
+> Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde. (<a id="a106_170"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 
 La solution à tout est de revenir à nous-mêmes. Un chemin infini vers l’intérieur. Une invitation à être nous-mêmes.
 
@@ -93,7 +114,7 @@ La solution à tout est de revenir à nous-mêmes. Un chemin infini vers l’int
 
 Prendre conscience de Dieu en nous, en nous et avec nous nous fait valoriser et aimer l’humanité, mais surtout nous aimer nous-mêmes et former ensemble la grande famille céleste :
 
-> ... discourut assez longuement sur la famille terrestre comme une illustration de la famille céleste et reformula les deux lois fondamentales de la vie : le premier commandement d’amour pour le père, chef de famille, et le second commandement d’amour mutuel entre les enfants, tu aimeras ton frère comme toi-même. ([LU 142:7.4](/fr/The_Urantia_Book/142#p7_4))
+> ... discourut assez longuement sur la famille terrestre comme une illustration de la famille céleste et reformula les deux lois fondamentales de la vie : le premier commandement d’amour pour le père, chef de famille, et le second commandement d’amour mutuel entre les enfants, tu aimeras ton frère comme toi-même. (<a id="a116_317"></a>[LU 142:7.4](/fr/The_Urantia_Book/142#p7_4))
 
 Efforçons-nous chaque jour d'être nous-mêmes, allons à contre-courant, car prendre conscience de qui nous sommes vraiment est le plus beau cadeau que l'on puisse offrir au monde. Toute augmentation de la conscience individuelle élève également la conscience collective de la planète. Cette élévation s'est produite il y a plus de deux mille ans avec la vie de Jésus et peut continuer à se produire aujourd'hui avec nous, ses créatures.
 
@@ -101,3 +122,25 @@ Efforçons-nous chaque jour d'être nous-mêmes, allons à contre-courant, car p
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/04/30/editorial-mayo-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — mai 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

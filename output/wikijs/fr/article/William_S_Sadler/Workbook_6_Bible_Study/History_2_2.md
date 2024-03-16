@@ -55,7 +55,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 6. Nous devrions nous rappeler que les événements réels enregistrés des patriarches étaient beaucoup plus complexes que les récits bibliques.
 7. Les Patriarches n'étaient pas tout à fait pacifiques. Remarque - l'assaut de Siméon et Lévi sur Sichem. Chap. 34. Jacob s'empare de terres près de Sichem. Les batailles d'Abraham avec Chedorlaomer.
 8. La religion des Patriarches n'est pas bien définie. Moïse est probablement le père de la religion hébraïque.
-9. Voir le Livre d'Urantia pour le récit d'Abraham et de Melchisédek. <a id="s58_70"></a>[LU 93:0.1](/fr/The_Urantia_Book/93#p0_1)
+9. Voir le Livre d'Urantia pour le récit d'Abraham et de Melchisédek. <a id="s57_70"></a>[LU 93:0.1](/fr/The_Urantia_Book/93#p0_1)
 10. Il n'y a aucune mention de Yahweh jusqu'à ce que nous arrivions aux temps de Moïse.
 11. Le Dieu des Patriarches était Elohim, le Très-Haut.
 

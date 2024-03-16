@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Carmelo Martínez<br>© 2007 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Presente_de_Urantia_espectacular_y_envidiable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présent d'Urantia, spectaculaire et enviable ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-9-mai-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 9 — mai 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Proyecto_Eden">
+          <span class="pr-2">Projet Eden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 On m'a demandé d'introduire le sujet du « Futur selon _Le Livre d'Urantia_ ». En réfléchissant à la manière d'aborder cette question, la première chose qui m'est venue à l'esprit était « l'utopie ». Selon le dictionnaire de l'Académie royale espagnole de la langue, le terme « utopie » désigne « un plan, un projet, une doctrine ou un système optimiste qui semble irréalisable au moment de sa formulation ».
@@ -68,7 +92,7 @@ Chaque âge planétaire reçoit un nom qui correspond au développement caracté
 
 Et avec cette vision globale des âges d’une « planète moyenne », la prochaine chose à se demander est de savoir où se trouve Urantia aujourd’hui, où nous en sommes aujourd’hui.
 
-Le Livre nous donne des indices à ce sujet. En [LU 74:2.8](/fr/The_Urantia_Book/74#p2_8) on lit « _...La dispensation du Prince est passée ; l’âge d’Adam, la troisième époque planétaire, s’ouvre au milieu de scènes grandioses et simples..._ ». L'âge d'Adam est celui du « confort matériel », celui du grand développement technologique, mais sur Urantia cela se produit en ce moment, près de 38 000 ans après le plan « moyen ». Bien que nous ayons déjà reçu (il y a 2 000 ans) un fils d’effusion, je crois que nous sommes encore à l’âge d’Adam. À la fin de cet âge, mais toujours à l'intérieur. Et le Livre dit quelque chose comme ceci en [LU 52:3.6](/fr/The_Urantia_Book/52#p3_6) : « _...Votre monde est en retard d’une dispensation entière, et même plus, sur le programme planétaire moyen._ » Si nous revenons au graphique, cette affirmation a plus de sens. Entre l’âge après le fils d’effusion et l’âge d’Adam, l’âge après le fils magistral sert d’intermédiaire ; c'est-à-dire « une dispense complète ou plus en retard ».
+Le Livre nous donne des indices à ce sujet. En <a id="a94_47"></a>[LU 74:2.8](/fr/The_Urantia_Book/74#p2_8) on lit « _...La dispensation du Prince est passée ; l’âge d’Adam, la troisième époque planétaire, s’ouvre au milieu de scènes grandioses et simples..._ ». L'âge d'Adam est celui du « confort matériel », celui du grand développement technologique, mais sur Urantia cela se produit en ce moment, près de 38 000 ans après le plan « moyen ». Bien que nous ayons déjà reçu (il y a 2 000 ans) un fils d’effusion, je crois que nous sommes encore à l’âge d’Adam. À la fin de cet âge, mais toujours à l'intérieur. Et le Livre dit quelque chose comme ceci en <a id="a94_638"></a>[LU 52:3.6](/fr/The_Urantia_Book/52#p3_6) : « _...Votre monde est en retard d’une dispensation entière, et même plus, sur le programme planétaire moyen._ » Si nous revenons au graphique, cette affirmation a plus de sens. Entre l’âge après le fils d’effusion et l’âge d’Adam, l’âge après le fils magistral sert d’intermédiaire ; c'est-à-dire « une dispense complète ou plus en retard ».
 
 Cet autre tableau que je vous présente est comme le précédent mais marquant dans chaque ligne (bleu) jusqu'où je pense avoir avancé. Il apparaît immédiatement que le progrès n'est pas uniforme dans toutes les caractéristiques du développement de l'humanité.
 
@@ -98,17 +122,17 @@ Il existe un texte « apocryphe » de ceux qui disent provenir des conversations
 
 Et de ce texte émerge une première caractéristique de cette époque future : la volonté de rechercher la vérité et la justice. Face à notre époque où les gens sont émus par des raisons telles que l'égoïsme ou l'ambition, où les gens rient et méprisent les personnes altruistes et qui prétendent être justes et éthiques dans leurs relations, dans l'ère future qui suivra la nôtre, la vérité et la droiture apparaîtront. être recherchée dans le monde entier.
 
-Les relations entre les personnes seront fondées sur l’entraide et le respect mutuel, dans la recherche d’un traitement juste et équitable. Bref, chez des personnes plus matures et donc plus éthiques. Tout ne se passe pas comme on le pense parfois. Comme il est dit dans [LU 71:4.17](/fr/The_Urantia_Book/71#p4_17) « _...Seul l'amour, la fraternité, peut empêcher le fort d'opprimer le faible_ ».
+Les relations entre les personnes seront fondées sur l’entraide et le respect mutuel, dans la recherche d’un traitement juste et équitable. Bref, chez des personnes plus matures et donc plus éthiques. Tout ne se passe pas comme on le pense parfois. Comme il est dit dans <a id="a124_271"></a>[LU 71:4.17](/fr/The_Urantia_Book/71#p4_17) « _...Seul l'amour, la fraternité, peut empêcher le fort d'opprimer le faible_ ».
 
 Après quelques rangées du tableau, je dirai que la paix mondiale sera réalisée, ce qui n'est pas si difficile à croire malgré les conflits de ces derniers temps. La fraternité commencera à fleurir, même si elle n’en est qu’à ses débuts, et il y aura un grand progrès éthique.
 
-Dans [LU 71:6.1](/fr/The_Urantia_Book/71#p6_1) il est aussi dit : « _L'économie actuelle, mue par le profit, est vouée à l'échec à moins que le désir de profit ne s'ajoute au désir de service. Une concurrence impitoyable fondée sur des intérêts personnels étroits finit par détruire même les choses qu’elle tente de maintenir. La motivation exclusive et intéressée du profit est incompatible avec les idéaux chrétiens - et bien plus incompatible avec les enseignements de Jésus._ »
+Dans <a id="a128_5"></a>[LU 71:6.1](/fr/The_Urantia_Book/71#p6_1) il est aussi dit : « _L'économie actuelle, mue par le profit, est vouée à l'échec à moins que le désir de profit ne s'ajoute au désir de service. Une concurrence impitoyable fondée sur des intérêts personnels étroits finit par détruire même les choses qu’elle tente de maintenir. La motivation exclusive et intéressée du profit est incompatible avec les idéaux chrétiens - et bien plus incompatible avec les enseignements de Jésus._ »
 
 Et c’est pour moi une autre caractéristique, en l’occurrence dans le domaine économique, de l’époque qui nous suivra. Actuellement, l'économie est devenue mondialisée ; La fameuse mondialisation est uniquement économique, et elle s'est avérée ainsi parce que les grandes multinationales, les grandes fortunes du monde, ont trouvé dans la mondialisation un terrain fertile pour continuer à conserver la richesse. Dans le monde économique d’aujourd’hui, la recherche du profit a atteint son maximum. Nous n’avons pas besoin de vous rappeler que les grandes entreprises et les grandes banques ne recherchent plus de profits plus importants, elles cherchent à augmenter leurs profits, pas seulement leurs propres profits, mais à les rendre toujours plus grands ; ce que j'appelle la dérivée seconde. Et ils le proclament sans avoir honte. La chute du camp communiste qui a divisé le monde en deux parties a eu cet effet de mondialisation et la perte de honte du grand capital. Et le grand capital n’a eu aucune honte à organiser la sacro-sainte trinité économique (la Banque mondiale, le Fonds monétaire international et l’Organisation mondiale du commerce), un trio déterminé sans vergogne à permettre au grand capital de fomenter encore plus facilement sa cupidité et de conserver ce qu’il a. vouloir. Et pour faciliter encore davantage sa cupidité, il veut imposer à tout le monde le modèle consumériste et a rendu suspecte toute autre idée. Mais son propre désir de tondre sera sa chute. Ils ont appauvri les pays riches et pauvres et les ont soumis à la dette extérieure. Mais peu à peu, ces pays vont se libérer de ce joug économique ; et un tel mouvement sera la fin de cette organisation économique et le début d’un nouvel ordre. Cela commence déjà à se produire. Il ne faut pas oublier les mouvements de résistance croissants en Amérique latine par exemple, ou le groupe de théologie de la libération au sein de l’Église catholique. La situation de grands groupes de bidonvilles et de personnes très pauvres, sans électricité, sans eau et sans école, ne peut pas durer. Ils sont aussi le terreau de la résistance au modèle néolibéral qu’ils veulent nous imposer, le berceau d’un nouvel ordre qui nous atteindra tous, y compris nous, les pays dits riches. Et ce nouveau modèle viendra non seulement de la réponse des pays pauvres, mais aussi de la croissance de la conscience sociale dans le monde de l’économie en général et des affaires en particulier ; L'entreprise aura une orientation service à la personne tant dans sa propre organisation que dans sa fonction et son utilité. Les entreprises ne seront plus des machines, des instruments pour gagner de l’argent ; Il s'agira d'organisations intégrées à l'organisation sociale et orientées vers le service économique de la société.
 
 Pensez-vous que c’est une utopie inaccessible ? Je tiens à vous rappeler que selon la LU, l'utopie est POSSIBLE et INÉVITABLE ; Les forces sociales poussent inexorablement dans cette direction. Je tiens également à vous rappeler que sur une planète voisine de la nôtre, sur l'un de ses onze continents, il existe une société qui a déjà franchi ces pas, a suivi un chemin similaire au nôtre et est désormais en avance sur nous.
 
-Une citation encore de [LU 71:5.3](/fr/The_Urantia_Book/71#p5_3) qui lie l'économie aux relations sociales et à l'avènement de la fraternité :
+Une citation encore de <a id="a134_23"></a>[LU 71:5.3](/fr/The_Urantia_Book/71#p5_3) qui lie l'économie aux relations sociales et à l'avènement de la fraternité :
 
 > « _Dans tous les âges primitifs de tout monde, la compétition est essentielle à la civilisation progressiste. À mesure que l’évolution de l’homme progresse, la coopération devient de plus en plus efficace. Dans les civilisations avancées, la coopération est plus efficace que la compétition._ »
 
@@ -124,7 +148,7 @@ Ce moment approche ; En fait, il frappe déjà à nos portes. Et _Le Livre d'Ura
 
 Et nous, lecteurs du _Livre d'Urantia_, sommes privilégiés ; nous étions préparés pour le Livre et le Livre nous a trouvé. Mais c’est plus une obligation qu’un privilège. Nous sommes, nous devons être, l’avant-garde de cette nouvelle ère. À mon avis, il est plus important que de diffuser les enseignements du Livre d'agir dans nos vies avec cette vision du futur, en préparant le chemin pour des temps nouveaux ; chacun dans son domaine actuel ou dans le domaine dans lequel son esprit lui dit qu'il doit agir ; chacun avec son action et avec son exemple personnel.
 
-La commission intermédiaire qui a rédigé la quatrième partie du Livre nous fait poliment et gentiment cette même invitation en [LU 195:10.6](/fr/The_Urantia_Book/195#p10_6) :
+La commission intermédiaire qui a rédigé la quatrième partie du Livre nous fait poliment et gentiment cette même invitation en <a id="a150_127"></a>[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6) :
 
 > « _L'appel à l'aventure pour construire une société humaine nouvelle et transformée à travers la renaissance spirituelle de la fraternité du royaume de Jésus devrait émouvoir tous ceux qui croient en lui d'une manière que les hommes n'ont pas été émus depuis l'époque où ils parcouraient le La Terre comme ses compagnons dans la chair._ »
 
@@ -132,7 +156,7 @@ Et c'est là que se termine mon introduction ; L'heure est désormais au débat.
 
 ## Commentaires des participants
 
-Le privilège de recevoir la révélation Urantia est à la fois une grande obligation et une grande responsabilité. Nous avons été choisis, oui, mais pour travailler. Le Doc.160 mérite d'être souligné ici, la section sur « les incitations à la maturité » ([LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)), où il traite des bonnes habitudes spirituelles.
+Le privilège de recevoir la révélation Urantia est à la fois une grande obligation et une grande responsabilité. Nous avons été choisis, oui, mais pour travailler. Le Doc.160 mérite d'être souligné ici, la section sur « les incitations à la maturité » (<a id="a158_253"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)), où il traite des bonnes habitudes spirituelles.
 
 L'économie mondiale est en train de changer. La voie ne passe pas par une révolution mais par une mondialisation totale, et pas seulement économique. Mais il faut d’abord changer la mentalité du profit pour le profit. Aujourd’hui, le progrès sera fondamentalement éthique et non spirituel.
 
@@ -152,7 +176,7 @@ Ce qui est limité en soi, ce n’est pas le libre arbitre, mais la possibilité
 
 Il est probable que la Terre deviendra une planète de réserve à l’avenir. En fait, elle est destinée à être une planète école, comme le reste des planètes qui hébergent des mortels.
 
-Le libre arbitre et la providence sont des thèmes fondamentaux (nous vous recommandons de lire [LU 118:10.1](/fr/The_Urantia_Book/118#p10_1) sur la providence). Les difficultés aussi, qui nous font grandir (on se souvient des fatalités, [LU 3:5.5-14](/fr/The_Urantia_Book/3#p5_5)). Il existe des coïncidences apparentes qui nous guident dans les moments où nous devons décider.
+Le libre arbitre et la providence sont des thèmes fondamentaux (nous vous recommandons de lire <a id="a178_95"></a>[LU 118:10.1](/fr/The_Urantia_Book/118#p10_1) sur la providence). Les difficultés aussi, qui nous font grandir (on se souvient des fatalités, <a id="a178_237"></a>[LU 3:5.5-14](/fr/The_Urantia_Book/3#p5_5)). Il existe des coïncidences apparentes qui nous guident dans les moments où nous devons décider.
 
 La formation des personnes doit également changer pour que nous soyons tous davantage orientés vers le service. La fin est en vue pour les partis politiques tels que nous les concevons actuellement, car ils seront également beaucoup plus orientés vers le service public.
 
@@ -168,3 +192,28 @@ La résolution imminente du jugement de Lucifer et les conséquences qu'il entra
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Presente_de_Urantia_espectacular_y_envidiable">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Présent d'Urantia, spectaculaire et enviable ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-9-mai-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 9 — mai 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Proyecto_Eden">
+          <span class="pr-2">Projet Eden</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

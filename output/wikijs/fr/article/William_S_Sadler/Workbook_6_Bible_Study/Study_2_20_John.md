@@ -53,7 +53,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## II. Paternité
 
-1. Le Livre d'Urantia <a id="s56_22"></a>[LU 121:8.10)](/fr/The_Urantia_Book/121#p8_10) dit que 1 Jean était une lettre d'accompagnement pour l'Évangile de Jean, écrit par Nathan.
+1. Le Livre d'Urantia <a id="s55_22"></a>[LU 121:8.10)](/fr/The_Urantia_Book/121#p8_10) dit que 1 Jean était une lettre d'accompagnement pour l'Évangile de Jean, écrit par Nathan.
 2. La plupart des critiques s'accordent à dire que les trois épîtres ont le même auteur.
 3. Il ne fait guère de doute que les trois lettres ont été écrites par l'apôtre Jean au tournant du premier siècle, d'une province d'Asie.
 4. Le style, en général, est celui du quatrième évangile.

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01">
+          <span class="pr-2">Éditorial Luz y Vida – janvier 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -217,7 +238,7 @@ Luis García Bory
 
 Altruisme
 
-> « Les caractères forts ne se forment pas en ne faisant *pas* le mal, mais plutôt en faisant réellement le bien. Le désintéressement est l’insigne de la grandeur humaine. Les plus hauts niveaux de réalisation de soi sont atteints par l’adoration et le service. La personne heureuse et efficace est motivée par l’amour de bien faire et non par la peur de mal faire. » ([LU 140:4.6](/fr/The_Urantia_Book/140#p4_6))
+> « Les caractères forts ne se forment pas en ne faisant *pas* le mal, mais plutôt en faisant réellement le bien. Le désintéressement est l’insigne de la grandeur humaine. Les plus hauts niveaux de réalisation de soi sont atteints par l’adoration et le service. La personne heureuse et efficace est motivée par l’amour de bien faire et non par la peur de mal faire. » (<a id="a240_369"></a>[LU 140:4.6](/fr/The_Urantia_Book/140#p4_6))
 
 C'est ma section préférée du _Le Livre d'Urantia_, pour trois raisons :
 
@@ -264,3 +285,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — janvier 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_01">
+          <span class="pr-2">Éditorial Luz y Vida – janvier 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

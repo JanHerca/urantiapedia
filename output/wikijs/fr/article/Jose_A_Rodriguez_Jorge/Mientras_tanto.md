@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 José A. Rodríguez Jorge<br>© 2011 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Hawking_descarta_la_existencia_de_Dios_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hawking exclut l'existence de Dieu (dernière partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-24-mars-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 24 — mars 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_1a_parte">
+          <span class="pr-2">L'unification de la personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pendant ce temps l'utopie arrive
@@ -40,3 +64,28 @@ Et soyez votre éveil.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Hawking_descarta_la_existencia_de_Dios_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Hawking exclut l'existence de Dieu (dernière partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-24-mars-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 24 — mars 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_1a_parte">
+          <span class="pr-2">L'unification de la personnalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

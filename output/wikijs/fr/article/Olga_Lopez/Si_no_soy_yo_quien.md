@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Olga López<br>© 2012 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Experiencia_conclusiones_Simposio_de_Liderazgo_Chicago_2011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Expérience et conclusions du Chicago Leadership Symposium 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-29-juin-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 29 — juin 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_12">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je suis conscient que cette présentation se concentre principalement sur le leadership au sein du mouvement Urantia, et que cela peut sembler une perspective très limitée. J'ai toujours dit qu'il y avait de nombreuses tranchées à partir desquelles lutter pour rendre ce monde meilleur, où règnent la paix et l'harmonie et où le progrès spirituel est beaucoup plus palpable qu'aujourd'hui, et tous les efforts consacrés à cet objectif louable semblent utiles. et précieux pour moi, bien qu'il ne soit pas directement lié aux enseignements d'Urantia.
@@ -19,7 +43,7 @@ Ces dernières années, on a beaucoup parlé dans le mouvement Urantia des « le
 
 Et pourtant, je pense que nous le sommes tous. La question «  Suis-je un leader ?  » C'est inutile. Si nous sommes ici, c'est parce que nous le sommes DÉJÀ. Il y a une déclaration bien connue de la LU, dont je voudrais rappeler ici. Il apparaît dans le document 81 et dit ce qui suit :
 
-> La qualité des chefs est vitale pour le progrès. La sagesse, la perspicacité et la prévoyance sont indispensables aux nations pour durer. La civilisation n’est jamais réellement en péril tant que les chefs capables ne commencent pas à disparaitre. Le nombre de ces chefs sages n’a jamais dépassé un pour cent de la population. ([LU 81:6.42](/fr/The_Urantia_Book/81#p6_42))
+> La qualité des chefs est vitale pour le progrès. La sagesse, la perspicacité et la prévoyance sont indispensables aux nations pour durer. La civilisation n’est jamais réellement en péril tant que les chefs capables ne commencent pas à disparaitre. Le nombre de ces chefs sages n’a jamais dépassé un pour cent de la population. (<a id="a45_330"></a>[LU 81:6.42](/fr/The_Urantia_Book/81#p6_42))
 
 Il y a quelques années, j'ai lu un article très intéressant dans le _Journal_, qui développait ses arguments précisément à partir de ce paragraphe. Le titre était très suggestif : _Où sont mes 99 ?_ Ce titre, comme vous pouvez le voir, suppose que celui qui pose cette question fait partie du 1 pour cent des dirigeants de la population. Je pense que la question constitue une déclaration très courageuse et sans excuse, que je pense que nous devrions faire nôtre pour assurer le succès futur de la cinquième révélation.
 
@@ -30,7 +54,7 @@ Il y a quelques années, j'ai lu un article très intéressant dans le _Journal_
 
 Selon le dictionnaire RAE, un leader est une « personne qu'un groupe suit, la reconnaissant comme leader ou guide ». Personnellement, je pense que cette définition devrait être élargie pour inclure un autre type de leader : ce que les autres lecteurs du livre définissent comme un « leader-serviteur ». Qu'était, par exemple, Jésus de Nazareth. Rappelons-nous ses paroles :
 
-> « _Celui qui voudra être le plus grand parmi vous, qu’il devienne le serviteur de tous._ » ([LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
+> « _Celui qui voudra être le plus grand parmi vous, qu’il devienne le serviteur de tous._ » (<a id="a56_94"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/22.jpg">
@@ -63,17 +87,17 @@ Moralité : pensez que vous ne pouvez pas seulement faire une différence pour u
 
 Un autre aspect du leadership que je voudrais souligner est son lien vital avec le groupe dont il fait partie. Pour que la diffusion du livre fonctionne, il est essentiel que le groupe fonctionne de manière satisfaisante. Pensez à n’importe quel groupe : un groupe d’étude, une association locale, une association nationale. L'une des tâches du leader est de faire fonctionner correctement le groupe et, à mon avis, cela s'obtient en veillant à ce que tous les membres exploitent au maximum leur potentiel pour le bien du groupe. Ce serait précisément l'une des tâches du leader. Mais pas seulement : le leader doit toujours avoir les yeux et les oreilles grands ouverts à tout autre leader potentiel qui apparaît sur la scène. Ce mouvement n’a pas pour but de rivaliser les uns avec les autres, mais de coopérer. À ce stade, je tiens à vous rappeler une autre citation du livre :
 
-> _L’arithmétique dit que, si un homme peut tondre un mouton en dix minutes, dix hommes peuvent le faire en une minute. C’est un calcul exact, mais ce n’est pas vrai, car les dix hommes n’y parviendraient pas ; ils se gêneraient tellement les uns les autres que le travail serait considérablement ralenti._ ([LU 133:5.5](/fr/The_Urantia_Book/133#p5_5))
+> _L’arithmétique dit que, si un homme peut tondre un mouton en dix minutes, dix hommes peuvent le faire en une minute. C’est un calcul exact, mais ce n’est pas vrai, car les dix hommes n’y parviendraient pas ; ils se gêneraient tellement les uns les autres que le travail serait considérablement ralenti._ (<a id="a89_308"></a>[LU 133:5.5](/fr/The_Urantia_Book/133#p5_5))
 
 Alors ne nous gênons pas les uns les autres. Il y a beaucoup de travail à faire, et de plusieurs types : coordonnons-le et répartissons-le. Rappelons également cette autre déclaration du livre :
 
-> _Les mathématiques affirment que, si une personne représente une certaine unité de valeur intellectuelle et morale, dix personnes semblables représenteront dix fois cette valeur. Mais, en traitant de la personnalité humaine, il serait plus exact de dire que la valeur d’une telle association de personnalité est égale au carré du nombre de personnalités figurant dans l’équation plutôt qu’à leur simple somme arithmétique. Un groupe social d’êtres humains opérant dans une harmonie coordonnée représente une force beaucoup plus grande que la simple somme de ses éléments._ ([LU 133:5.6](/fr/The_Urantia_Book/133#p5_6))
+> _Les mathématiques affirment que, si une personne représente une certaine unité de valeur intellectuelle et morale, dix personnes semblables représenteront dix fois cette valeur. Mais, en traitant de la personnalité humaine, il serait plus exact de dire que la valeur d’une telle association de personnalité est égale au carré du nombre de personnalités figurant dans l’équation plutôt qu’à leur simple somme arithmétique. Un groupe social d’êtres humains opérant dans une harmonie coordonnée représente une force beaucoup plus grande que la simple somme de ses éléments._ (<a id="a93_576"></a>[LU 133:5.6](/fr/The_Urantia_Book/133#p5_6))
 
 Ainsi, quand on parle de personnalités, (a + b + c + ... + n) = (a + b + c + ... + n)^2^
 
 Le groupe est bien plus que la somme des personnes qui le composent. Alors gérons-le bien car alors nous ne nous contenterons pas d'ajouter : nous multiplierons.
 
-> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
+> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ (<a id="a99_647"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV29/23.jpg">
@@ -90,3 +114,28 @@ Si pas maintenant quand?
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Experiencia_conclusiones_Simposio_de_Liderazgo_Chicago_2011">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Expérience et conclusions du Chicago Leadership Symposium 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-29-juin-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 29 — juin 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_12">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

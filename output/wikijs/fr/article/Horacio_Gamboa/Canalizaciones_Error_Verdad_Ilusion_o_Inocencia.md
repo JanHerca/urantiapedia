@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Horacio Gamboa<br>© 2013 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Efrain_Vivanco/Los_Ajustadores_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Ajusteurs de Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-35-décembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 35 — décembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_La_Evolucion">
+          <span class="pr-2">Convergences et divergences : Evolution</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -45,7 +69,7 @@ Les individus abandonnés par leurs Ajusteurs peuvent continuer à travailler, m
 
 Il est sûrement très astucieux dans la sélection d’humains dotés d’une intelligence supérieure et prêts à se détacher de leurs Ajusteurs, à tourner le dos à Dieu et à rejoindre la rébellion. Tourner le dos à Dieu, on pourrait presque dire que c'est à la mode ces jours-ci. Ce petit groupe pourrait être celui qui fera le lien avec le plus grand nombre d’humains. Attention, le secret serait sûrement la clé pour mener à bien ses intentions perverses, et les humains aiment beaucoup les secrets et l'appartenance à des groupes secrets et il le sait, puisqu'il connaît les humains depuis des milliers d'années. En plus de ces méthodes d'influence directes, on nous met également en garde sur la capacité de Caligastia à travailler avec des « AGENTS AVEUGLE », des individus sincères qui croient faire le bon choix, comme dans le cas de Serapatatia. Serapatatia était tout à fait correct, honnête et compétent, sincère dans toutes ses activités, et il n'a jamais réalisé, même plus tard, que le rusé Caligastia l'utilisait comme instrument accessoire. Il faut donc être très astucieux et alerte pour ne pas tomber dans le piège de ce personnage têtu, qui se doit d'être impressionnant, lumineux et puissant. CUNNY COMME DES SERPENTS ET INoffensif comme des colombes.
 
-> « Caligastia, votre Prince Planétaire apostat, est encore libre de poursuivre ses desseins néfastes sur Urantia,... » ([LU 53:8.6](/fr/The_Urantia_Book/53#p8_6))
+> « Caligastia, votre Prince Planétaire apostat, est encore libre de poursuivre ses desseins néfastes sur Urantia,... » (<a id="a71_121"></a>[LU 53:8.6](/fr/The_Urantia_Book/53#p8_6))
 
 Pour garder les portes de l'ascension au Paradis ouvertes aux êtres de Norlatiadec, il fallait faciliter le développement complet de la rébellion, et assurer la pleine définition de l'attitude de tous les êtres impliqués d'une manière ou d'une autre dans celle-ci. La «  Définition complète de l’attitude  » ne laisse aucune place aux nuances. « Tous les êtres impliqués de quelque manière que ce soit » incluraient à nouveau tous les mortels, présents et futurs.
 
@@ -53,13 +77,13 @@ La rébellion est complètement terminée en termes surhumains, mais pas dans le
 
 Combien de temps faudra-t-il avant que le péché et l’iniquité ne soient plus présents sur Urantia ?
 
-Ce passage suggère 100 000 ans de notre temps : _Et pourtant, par rapport à la durée de la vie de Lucifer, la comparaison resterait valable même si son jugement présentement commencé ne devait pas se terminer avant cent-mille ans du temps d’Urantia..._ [LU 54:5.13](/fr/The_Urantia_Book/54#p5_13)
+Ce passage suggère 100 000 ans de notre temps : _Et pourtant, par rapport à la durée de la vie de Lucifer, la comparaison resterait valable même si son jugement présentement commencé ne devait pas se terminer avant cent-mille ans du temps d’Urantia..._ <a id="a79_253"></a>[LU 54:5.13](/fr/The_Urantia_Book/54#p5_13)
 
 Les deux passages suivants, combinés, suggèrent 800 000 ans :
 
-> _Tout le corps des conseillers d’Uversa fut d’accord pour recommander à Gabriel de permettre à la rébellion de prendre pleinement son cours naturel, même s’il fallait ensuite un million d’années pour en liquider les conséquences._ ([LU 54:5.12](/fr/The_Urantia_Book/54#p5_12))
+> _Tout le corps des conseillers d’Uversa fut d’accord pour recommander à Gabriel de permettre à la rébellion de prendre pleinement son cours naturel, même s’il fallait ensuite un million d’années pour en liquider les conséquences._ (<a id="a83_234"></a>[LU 54:5.12](/fr/The_Urantia_Book/54#p5_12))
 
-> _...le cas de Gabriel *contre* Lucifer, qui avait été soumis à la cour suprême d’Uversa depuis près de deux-cent-mille ans à la manière dont vous comptez le temps._ ([LU 53:9.3](/fr/The_Urantia_Book/53#p9_3))
+> _...le cas de Gabriel *contre* Lucifer, qui avait été soumis à la cour suprême d’Uversa depuis près de deux-cent-mille ans à la manière dont vous comptez le temps._ (<a id="a85_168"></a>[LU 53:9.3](/fr/The_Urantia_Book/53#p9_3))
 
 1 000 000 d'années (estimation du temps total) moins 200 000 ans (temps écoulé jusqu'à présent) = 800 000 ans.
 
@@ -81,3 +105,28 @@ Puerto Varas, Patagonie chilienne.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Efrain_Vivanco/Los_Ajustadores_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Ajusteurs de Pensée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-35-décembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 35 — décembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_La_Evolucion">
+          <span class="pr-2">Convergences et divergences : Evolution</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

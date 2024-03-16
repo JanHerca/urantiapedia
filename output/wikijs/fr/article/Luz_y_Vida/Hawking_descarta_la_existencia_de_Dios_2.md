@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Carmelo Martínez, L. Coll, Antonio Moya, Santiago Rodríguez, Eduardo Altuzarra<br>© 2011 Association Urantia d'Espagne </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_24_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 24 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-24-mars-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 24 — mars 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/Mientras_tanto">
+          <span class="pr-2">Pendant ce temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants :**
@@ -57,7 +81,7 @@ Ce groupe de scientifiques est presque toujours une minorité de minorités, Die
 
 Ces scientifiques sont destinés à construire une science fausse et athée, sans Dieu et sans sagesse.
 
-Concernant Stephen Hawking, un jour il affirme l'existence d'un Créateur et le lendemain il doute ou nie l'existence de Dieu à l'origine de tout. Je pense que le pauvre homme est dans le pétrin. "_1. Une démonstration de capacité spécialisée ne signifie pas que l’on possède une capacité spirituelle. L'esprit ne remplace pas le vrai caractère_» (28 déclarations de philosophie humaine, [LU 48:7.3](/fr/The_Urantia_Book/48#p7_3))
+Concernant Stephen Hawking, un jour il affirme l'existence d'un Créateur et le lendemain il doute ou nie l'existence de Dieu à l'origine de tout. Je pense que le pauvre homme est dans le pétrin. "_1. Une démonstration de capacité spécialisée ne signifie pas que l’on possède une capacité spirituelle. L'esprit ne remplace pas le vrai caractère_» (28 déclarations de philosophie humaine, <a id="a83_387"></a>[LU 48:7.3](/fr/The_Urantia_Book/48#p7_3))
 
 Je ne sais pas quel âge a Stephen Hawking, mais il réalisera bientôt la véritable réalité de l'univers.
 
@@ -123,7 +147,7 @@ Il me semble bien plus plausible qu'une Intelligence sans cause invente et crée
 
 Comme le dit le LU : _La science suppose que les dons intellectuels et philosophiques de l'homme sont nés d'intelligences de plus en plus décroissantes à mesure qu'elles s'éloignent dans le passé, trouvant finalement leur origine dans la vie primitive qui était totalement dépourvue de toute pensée et de tout sentiment._ (%%0% %)
 
-_Le matérialisme scientifique fait faillite quand il persiste, en face de chaque phénomène universel récurrent, à réfuter les objections courantes en rattachant ce qui est reconnu comme supérieur à ce qui est reconnu comme inférieur._ ([LU 102:6.9](/fr/The_Urantia_Book/102#p6_9)).
+_Le matérialisme scientifique fait faillite quand il persiste, en face de chaque phénomène universel récurrent, à réfuter les objections courantes en rattachant ce qui est reconnu comme supérieur à ce qui est reconnu comme inférieur._ (<a id="a149_236"></a>[LU 102:6.9](/fr/The_Urantia_Book/102#p6_9)).
 
 Comme il semble que ce débat se soit terminé dans une impasse, permettez-moi (en continuant de cliquer) d'essayer de l'aborder sous un autre angle :
 
@@ -175,15 +199,15 @@ Je sais parfaitement que vous pouvez avoir vos opinions et désaccords sur ces t
 
 Nous savons tous qu'il existe des personnes athées ou indifférentes qui sont des personnes magnifiques et qui recherchent des réponses et la vérité dans leur vie, et il en va de même pour la science et les scientifiques. Le scientifique honnête n’est pas obligé de croire en Dieu, il peut faire un grand bien à la société avec ses découvertes à condition qu’il les utilise à bon escient.
 
-Au lieu de vous faire un autre sermon, je vous invite à lire ces pages du livre sur la science, la religion et la laïcité : « MATÉRIALISME - LA VULNÉRABILITÉ DU MATÉRIALISME » [LU 195:6.1](/fr/The_Urantia_Book/195#p6_1) à [LU 195:7.23](/fr/The_Urantia_Book/195#p7_23). Je pense que ces 3 points que j'ai partagés avec vous clarifient beaucoup de choses.
+Au lieu de vous faire un autre sermon, je vous invite à lire ces pages du livre sur la science, la religion et la laïcité : « MATÉRIALISME - LA VULNÉRABILITÉ DU MATÉRIALISME » <a id="a201_176"></a>[LU 195:6.1](/fr/The_Urantia_Book/195#p6_1) à <a id="a201_222"></a>[LU 195:7.23](/fr/The_Urantia_Book/195#p7_23). Je pense que ces 3 points que j'ai partagés avec vous clarifient beaucoup de choses.
 
 Ces deux passages retiennent particulièrement mon attention :
 
-> « _Les valeurs paradisiaques d’éternité et d’infinité, de vérité, de beauté et de bonté, sont dissimulées dans les faits des phénomènes des univers du temps et de l’espace. Mais il faut l’œil de la foi chez un mortel né d’esprit pour détecter et discerner ces valeurs spirituelles._ » ([LU 195:7.4](/fr/The_Urantia_Book/195#p7_4))
+> « _Les valeurs paradisiaques d’éternité et d’infinité, de vérité, de beauté et de bonté, sont dissimulées dans les faits des phénomènes des univers du temps et de l’espace. Mais il faut l’œil de la foi chez un mortel né d’esprit pour détecter et discerner ces valeurs spirituelles._ » (<a id="a205_288"></a>[LU 195:7.4](/fr/The_Urantia_Book/195#p7_4))
 
-> _Quel que puisse être le conflit apparent entre le matérialisme et les enseignements de Jésus, vous pouvez être assurés que les enseignements du Maitre triompheront pleinement au cours des âges à venir. En réalité, il ne peut se produire aucune controverse entre la vraie religion et la science, car la première ne s’occupe aucunement des choses matérielles. La religion observe simplement vis-à-vis de la science une neutralité bienveillante, tandis qu’elle s’intéresse suprêmement au *savant.*_ ([LU 195:6.2](/fr/The_Urantia_Book/195#p6_2))
+> _Quel que puisse être le conflit apparent entre le matérialisme et les enseignements de Jésus, vous pouvez être assurés que les enseignements du Maitre triompheront pleinement au cours des âges à venir. En réalité, il ne peut se produire aucune controverse entre la vraie religion et la science, car la première ne s’occupe aucunement des choses matérielles. La religion observe simplement vis-à-vis de la science une neutralité bienveillante, tandis qu’elle s’intéresse suprêmement au *savant.*_ (<a id="a207_500"></a>[LU 195:6.2](/fr/The_Urantia_Book/195#p6_2))
 
-> « _La laïcité du XXe siècle tend à affirmer que l'homme n'a pas besoin de Dieu. Mais attention ! Cette philosophie athée de la société humaine ne mènera qu’à des troubles, à l’animosité, au malheur, à la guerre et à un désastre mondial. ([LU 195:8.5](/fr/The_Urantia_Book/195#p8_5)) La grande erreur de la laïcité a été la suivante : en se révoltant contre le contrôle presque total de la vie par l'autorité religieuse, et après avoir réussi à se libérer de cette tyrannie ecclésiastique, les laïcs ont continué en avant, déclenchant un soulèvement contre Dieu lui-même, parfois tacitement et parfois manifestement. Il n'est pas nécessaire de sacrifier la foi en Dieu pour profiter des bénédictions du soulèvement laïc moderne..._ » ([LU 195:8.6](/fr/The_Urantia_Book/195#p8_6))
+> « _La laïcité du XXe siècle tend à affirmer que l'homme n'a pas besoin de Dieu. Mais attention ! Cette philosophie athée de la société humaine ne mènera qu’à des troubles, à l’animosité, au malheur, à la guerre et à un désastre mondial. (<a id="a209_240"></a>[LU 195:8.5](/fr/The_Urantia_Book/195#p8_5)) La grande erreur de la laïcité a été la suivante : en se révoltant contre le contrôle presque total de la vie par l'autorité religieuse, et après avoir réussi à se libérer de cette tyrannie ecclésiastique, les laïcs ont continué en avant, déclenchant un soulèvement contre Dieu lui-même, parfois tacitement et parfois manifestement. Il n'est pas nécessaire de sacrifier la foi en Dieu pour profiter des bénédictions du soulèvement laïc moderne..._ » (<a id="a209_736"></a>[LU 195:8.6](/fr/The_Urantia_Book/195#p8_6))
 
 ## Carmelo
 
@@ -191,7 +215,7 @@ En fin de compte, je ne serai pas tellement en désaccord avec Luis.
 
 Je copie plusieurs paragraphes du document 195, qui sont pertinents et peuvent éclairer certaines idées.
 
-[LU 195:5.3-7](/fr/The_Urantia_Book/195#p5_3) :
+<a id="a217_0"></a>[LU 195:5.3-7](/fr/The_Urantia_Book/195#p5_3) :
 
 > _La religion est la révélation à l’homme de sa destinée divine et éternelle. La religion est une expérience purement personnelle et spirituelle ; elle doit perpétuellement être distinguée des autres formes supérieures de la pensée humaine telles que :_
 > 
@@ -201,23 +225,48 @@ Je copie plusieurs paragraphes du document 195, qui sont pertinents et peuvent �
 > 
 > _3. La reconnaissance éthique par l’homme des obligations sociales et du devoir politique._
 > 
-> _4. Même le sens de la moralité humaine n’est pas religieux en soi et par lui-même._ ([LU 195:5.3-7](/fr/The_Urantia_Book/195#p5_3))
+> _4. Même le sens de la moralité humaine n’est pas religieux en soi et par lui-même._ (<a id="a227_88"></a>[LU 195:5.3-7](/fr/The_Urantia_Book/195#p5_3))
 
-[LU 195:6.1](/fr/The_Urantia_Book/195#p6_1) dans la section matérialisme :
+<a id="a229_0"></a>[LU 195:6.1](/fr/The_Urantia_Book/195#p6_1) dans la section matérialisme :
 
-> _Les scientifiques ont involontairement précipité l’humanité dans un affolement matérialiste. Ils ont déclenché une ruée irréfléchie sur la banque morale des âges, mais cette banque de l’expérience humaine dispose de vastes ressources spirituelles et peut faire face aux demandes qui lui sont présentées. Seuls les irréfléchis s’affolent au sujet des actifs spirituels de la race humaine. Quand l’affolement matérialiste-laïque aura passé, la religion de Jésus n’aura pas fait banqueroute. La banque spirituelle du royaume des cieux fera des paiements de foi, d’espérance et de sécurité morale à tous ceux qui auront recours à elle « en Son nom »._ ([LU 195:6.1](/fr/The_Urantia_Book/195#p6_1))
+> _Les scientifiques ont involontairement précipité l’humanité dans un affolement matérialiste. Ils ont déclenché une ruée irréfléchie sur la banque morale des âges, mais cette banque de l’expérience humaine dispose de vastes ressources spirituelles et peut faire face aux demandes qui lui sont présentées. Seuls les irréfléchis s’affolent au sujet des actifs spirituels de la race humaine. Quand l’affolement matérialiste-laïque aura passé, la religion de Jésus n’aura pas fait banqueroute. La banque spirituelle du royaume des cieux fera des paiements de foi, d’espérance et de sécurité morale à tous ceux qui auront recours à elle « en Son nom »._ (<a id="a231_652"></a>[LU 195:6.1](/fr/The_Urantia_Book/195#p6_1))
 
-> _Quel que puisse être le conflit apparent entre le matérialisme et les enseignements de Jésus, vous pouvez être assurés que les enseignements du Maitre triompheront pleinement au cours des âges à venir. En réalité, il ne peut se produire aucune controverse entre la vraie religion et la science, car la première ne s’occupe aucunement des choses matérielles. La religion observe simplement vis-à-vis de la science une neutralité bienveillante, tandis qu’elle s’intéresse suprêmement au *savant.*_ ([LU 195:6.2](/fr/The_Urantia_Book/195#p6_2))
+> _Quel que puisse être le conflit apparent entre le matérialisme et les enseignements de Jésus, vous pouvez être assurés que les enseignements du Maitre triompheront pleinement au cours des âges à venir. En réalité, il ne peut se produire aucune controverse entre la vraie religion et la science, car la première ne s’occupe aucunement des choses matérielles. La religion observe simplement vis-à-vis de la science une neutralité bienveillante, tandis qu’elle s’intéresse suprêmement au *savant.*_ (<a id="a233_500"></a>[LU 195:6.2](/fr/The_Urantia_Book/195#p6_2))
 
 Et une touche optimiste au bas de cette page :
 
-> « _À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie._ » ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
+> « _À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie._ » (<a id="a237_749"></a>[LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
 
 Et vous pouvez continuer à lire car ce qui suit n’est pas non plus inutile. Par exemple, ce paragraphe puissant en bas de la page 2077 :
 
-> « _Dire que le mental « émergea » de la matière n’explique rien. Si l’univers était simplement un mécanisme et si le mental était solidaire de la matière, nous n’aurions jamais deux interprétations différentes d’un même phénomène observé. Les concepts de vérité, de beauté et de bonté ne sont inhérents ni à la physique ni à la chimie. Une machine ne peut pas *connaitre,* et encore bien moins connaitre la vérité, avoir soif de droiture et chérir la bonté._ » ([LU 195:6.11](/fr/The_Urantia_Book/195#p6_11))
+> « _Dire que le mental « émergea » de la matière n’explique rien. Si l’univers était simplement un mécanisme et si le mental était solidaire de la matière, nous n’aurions jamais deux interprétations différentes d’un même phénomène observé. Les concepts de vérité, de beauté et de bonté ne sont inhérents ni à la physique ni à la chimie. Une machine ne peut pas *connaitre,* et encore bien moins connaitre la vérité, avoir soif de droiture et chérir la bonté._ » (<a id="a241_464"></a>[LU 195:6.11](/fr/The_Urantia_Book/195#p6_11))
 
 ## Références
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_24_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 24 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-24-mars-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 24 — mars 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/Mientras_tanto">
+          <span class="pr-2">Pendant ce temps</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

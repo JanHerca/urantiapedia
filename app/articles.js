@@ -528,8 +528,10 @@ class Articles {
 					index.push({ title: article.title, filePath, title2: "" });
 				});
 			}
-			this.index.volumes
-				.forEach(volume => volume.issues.forEach(addIssue));
+			this.index.volumes.forEach(volume => {
+				index.push({ title: volume.title, title2: ""});
+				volume.issues.forEach(addIssue);
+			});
 			this.index.issues.forEach(addIssue);
 
 			const paths = index.filter(item => item.filePath != undefined);

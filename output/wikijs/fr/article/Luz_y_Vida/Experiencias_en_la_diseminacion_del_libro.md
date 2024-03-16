@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Ismael Gracia, Carmelo Martínez, Jaime Marco et Olga López<br>© 2013 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_XII_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La XIIème Rencontre des Lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-33-juin-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 33 — juin 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_16">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Ismael Gracia
@@ -122,7 +146,7 @@ Sur le chemin du retour dans le train, il médita sur ce qui s'était passé. Je
 
 Après les présentations de mes collègues, c'est maintenant à mon tour de partager une partie de mon expérience faisant connaître _Le Livre d'Urantia_ dans des présentations, des interviews et des événements en général.
 
-Tôt ou tard, nous tous qui avons adopté les enseignements du livre comme guide dans « le labyrinthe incertain de la vie » [LU 144:5.21](/fr/The_Urantia_Book/144#p5_21) considérons qu'il est naturel d'en faire connaître le contenu. Ses enseignements nous semblent un don si extraordinaire qu'il est presque immoral de les garder uniquement pour nous ; C'est pourquoi nous souhaitons les partager avec le plus grand nombre.
+Tôt ou tard, nous tous qui avons adopté les enseignements du livre comme guide dans « le labyrinthe incertain de la vie » <a id="a148_122"></a>[LU 144:5.21](/fr/The_Urantia_Book/144#p5_21) considérons qu'il est naturel d'en faire connaître le contenu. Ses enseignements nous semblent un don si extraordinaire qu'il est presque immoral de les garder uniquement pour nous ; C'est pourquoi nous souhaitons les partager avec le plus grand nombre.
 
 Cependant, nous ne tardons pas à réaliser que notre enthousiasme pour le livre n’est pas facilement contagieux. Outre le fait que tout le monde ne recherche pas ou n'est pas préparé au livre, il se peut aussi que notre manière de le faire connaître ne soit pas adéquate. Parce que, comme dans presque tout dans cette vie, la forme compte autant que le contenu.
 
@@ -165,7 +189,7 @@ Enfin, et c'est ainsi que je termine cette présentation, je voudrais vous encou
 
 Peu importe également que ceux qui vous écoutent soient trois ou trois cents personnes ; En matière de diffusion, ce n'est pas la quantité que l'on recherche, mais la qualité. Parfois, nous pouvons nous sentir découragés parce que très peu de personnes sont venues discuter. Mais qui sait si une, deux, trois des personnes présentes seront plus tard les catalyseurs qui donneront un nouvel élan à la diffusion du livre dans ce domaine ? Cette révélation se répandra lentement et il sera très difficile d’en voir des résultats spectaculaires et immédiats ; Nous l'avons commenté à de nombreuses reprises. L'important est de semer.
 
-Rappelez-vous ce que dit le livre : « _L'acte est à nous ; les conséquences appartiennent à Dieu_ » [LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)
+Rappelez-vous ce que dit le livre : « _L'acte est à nous ; les conséquences appartiennent à Dieu_ » <a id="a191_100"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV33/09.jpg">
@@ -176,3 +200,28 @@ Rappelez-vous ce que dit le livre : « _L'acte est à nous ; les conséquences a
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_XII_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La XIIème Rencontre des Lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-33-juin-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 33 — juin 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_16">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

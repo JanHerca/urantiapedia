@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Jan_Herca">
+          <span class="pr-2">Questionnaire Urantien : Jan Herca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -34,7 +58,7 @@ L’incarnation de notre Créateur bien-aimé, Michel de Nébadon, est déjà un
 > Notre Père, qui es aux cieux,
 > Que ton nom soit sanctifié.
 > Que ton règne vienne ; que ta volonté soit faite
-> Sur terre comme elle l’est au ciel. ([LU 144:3.3-6](/fr/The_Urantia_Book/144#p3_3))
+> Sur terre comme elle l’est au ciel. (<a id="a60_39"></a>[LU 144:3.3-6](/fr/The_Urantia_Book/144#p3_3))
 
 Ce désir de perfectionner le monde matériel ne devrait en aucun cas prendre fin avec son départ physique de notre planète. Ses disciples avaient pour tâche de continuer à élargir cette élévation de conscience qui était son message, quelque chose qui « renouvellera le vieux monde ».
 
@@ -42,29 +66,29 @@ Ce désir de perfectionner le monde matériel ne devrait en aucun cas prendre fi
 <img src="/image/article/Luz_y_Vida/LyV_2023_06/Editorial-junio-2023-3.jpg" alt="Editorial junio 2023-3">
 </figure>
 
-> « Vous ne m’avez pas simplement choisi, mais, moi aussi, je vous ai choisis, et je vous ai conféré l’ordination afin que vous alliez dans le monde porter le fruit du service aimant à vos semblables, de même que j’ai vécu parmi vous en vous révélant le Père. Le Père et moi, nous opèrerons tous deux avec vous, et vous éprouverez la divine plénitude de la joie si seulement vous voulez obéir à mon commandement de vous aimer les uns les autres comme je vous ai aimés. » ([LU 180:1.4](/fr/The_Urantia_Book/180#p1_4))
+> « Vous ne m’avez pas simplement choisi, mais, moi aussi, je vous ai choisis, et je vous ai conféré l’ordination afin que vous alliez dans le monde porter le fruit du service aimant à vos semblables, de même que j’ai vécu parmi vous en vous révélant le Père. Le Père et moi, nous opèrerons tous deux avec vous, et vous éprouverez la divine plénitude de la joie si seulement vous voulez obéir à mon commandement de vous aimer les uns les autres comme je vous ai aimés. » (<a id="a68_472"></a>[LU 180:1.4](/fr/The_Urantia_Book/180#p1_4))
 
 Vous souvenez-vous du passage sur le retour des soixante-dix prédicateurs ordonnés à Magadan ? Le retour des disciples est marqué par la joie après avoir expérimenté leur propre pouvoir sur les forces du mal : « même les démons se soumettent à nous en ton nom ». Ils exultaient de joie, euphoriques, désireux de parler de leurs réalisations.
 
-> Le vendredi 30 décembre, tandis que Jésus s’était éloigné dans les collines voisines avec Pierre, Jacques et Jean, les soixante-dix messagers arrivaient, deux par deux, au quartier général de Pella, accompagnés par de nombreux croyants. Vers cinq heures de l’après-midi, lorsque Jésus revint au camp, tous les soixante-dix étaient réunis à l’endroit où il enseignait. Le repas du soir fut retardé de plus d’une heure, pendant laquelle ces enthousiastes de l’évangile du royaume racontèrent leurs expériences. Les messagers de David avaient rapporté beaucoup de ces nouvelles aux apôtres durant les semaines précédentes, mais il fut vraiment inspirant d’entendre ces éducateurs de l’évangile, dont l’ordination était récente, raconter personnellement comment leur message avait été reçu par les Juifs et les Gentils assoiffés de vérité. Enfin, Jésus pouvait voir des hommes allant répandre la bonne nouvelle en dehors de sa présence personnelle. Le Maitre savait désormais qu’il pouvait quitter ce monde sans porter un trop grave préjudice aux progrès du royaume. ([LU 163:6.1](/fr/The_Urantia_Book/163#p6_1))
+> Le vendredi 30 décembre, tandis que Jésus s’était éloigné dans les collines voisines avec Pierre, Jacques et Jean, les soixante-dix messagers arrivaient, deux par deux, au quartier général de Pella, accompagnés par de nombreux croyants. Vers cinq heures de l’après-midi, lorsque Jésus revint au camp, tous les soixante-dix étaient réunis à l’endroit où il enseignait. Le repas du soir fut retardé de plus d’une heure, pendant laquelle ces enthousiastes de l’évangile du royaume racontèrent leurs expériences. Les messagers de David avaient rapporté beaucoup de ces nouvelles aux apôtres durant les semaines précédentes, mais il fut vraiment inspirant d’entendre ces éducateurs de l’évangile, dont l’ordination était récente, raconter personnellement comment leur message avait été reçu par les Juifs et les Gentils assoiffés de vérité. Enfin, Jésus pouvait voir des hommes allant répandre la bonne nouvelle en dehors de sa présence personnelle. Le Maitre savait désormais qu’il pouvait quitter ce monde sans porter un trop grave préjudice aux progrès du royaume. (<a id="a72_1066"></a>[LU 163:6.1](/fr/The_Urantia_Book/163#p6_1))
 
 Jésus lui-même se sentait euphorique face à ces événements, plein d'espoir pour ses disciples.
 
-> Ce fut à ce moment, juste avant de participer au repas du soir, que Jésus éprouva l’un des rares moments d’extase émotionnelle dont ses disciples aient eu l’occasion d’être témoins. Il dit : « Je te remercie, mon Père, Seigneur du ciel et de la terre, de ce que l’esprit ait révélé ces gloires spirituelles à ces enfants du royaume, alors que ce merveilleux évangile a été caché aux sages et aux bienpensants. » ([LU 163:6.3](/fr/The_Urantia_Book/163#p6_3))
+> Ce fut à ce moment, juste avant de participer au repas du soir, que Jésus éprouva l’un des rares moments d’extase émotionnelle dont ses disciples aient eu l’occasion d’être témoins. Il dit : « Je te remercie, mon Père, Seigneur du ciel et de la terre, de ce que l’esprit ait révélé ces gloires spirituelles à ces enfants du royaume, alors que ce merveilleux évangile a été caché aux sages et aux bienpensants. » (<a id="a76_415"></a>[LU 163:6.3](/fr/The_Urantia_Book/163#p6_3))
 
 Mais nous connaissons déjà la profondeur de la pensée de notre Créateur bien-aimé, sa perspicacité spirituelle, alors le lendemain, il a rassemblé les soixante-dix et leur a donné une clé très importante pour eux (et aussi pour nous) :
 
-> Maintenant, sans vouloir refroidir votre enthousiasme, je tiens à vous mettre sévèrement en garde contre les subtilités de l’orgueil, de l’orgueil spirituel. Si vous pouviez comprendre la chute de Lucifer, l’inique, vous renonceriez solennellement à toutes les formes d’orgueil spirituel. ([LU 163:6.6](/fr/The_Urantia_Book/163#p6_6))
+> Maintenant, sans vouloir refroidir votre enthousiasme, je tiens à vous mettre sévèrement en garde contre les subtilités de l’orgueil, de l’orgueil spirituel. Si vous pouviez comprendre la chute de Lucifer, l’inique, vous renonceriez solennellement à toutes les formes d’orgueil spirituel. (<a id="a80_292"></a>[LU 163:6.6](/fr/The_Urantia_Book/163#p6_6))
 
 Comme Jésus avait raison de les avertir à ce sujet ! Il a su repérer avec certitude l'origine de la chute d'un être spirituel de haut niveau, plein d'enthousiasme, vantard et surdimensionné dans son ego.
 
-> Le progrès spirituel est basé sur la récognition intellectuelle de la pauvreté spirituelle, doublée de la conscience personnelle de la soif de perfection, du désir de connaitre Dieu et d’être semblable à lui, de l’intention sincère de faire la volonté du Père qui est aux cieux. ([LU 100:2.1](/fr/The_Urantia_Book/100#p2_1))
+> Le progrès spirituel est basé sur la récognition intellectuelle de la pauvreté spirituelle, doublée de la conscience personnelle de la soif de perfection, du désir de connaitre Dieu et d’être semblable à lui, de l’intention sincère de faire la volonté du Père qui est aux cieux. (<a id="a84_282"></a>[LU 100:2.1](/fr/The_Urantia_Book/100#p2_1))
 
 Plusieurs leçons peuvent être extraites de ces passages, mais aujourd’hui, dans cette réflexion, nous allons nous concentrer sur une seule.
 
 Sommes-nous pleins d’enthousiasme pour la tâche que nous avons entreprise pour enseigner à l’homme mortel qu’il est un enfant de Dieu ? Suivons-nous Jésus dans sa manière d’entrer en relation avec les autres, comme nous le rappelle ce passage ? :
 
-> Jésus répandait le **réconfort partout où il passait**. Il était plein de grâce et de vérité. Ses associés ne cessèrent de s’émerveiller des paroles aimables qui sortaient de sa bouche. On peut cultiver l’amabilité, mais la bienveillance est l’arôme de l’amitié qui émane d’une âme saturée d’amour. ([LU 171:7.1](/fr/The_Urantia_Book/171#p7_1))
+> Jésus répandait le **réconfort partout où il passait**. Il était plein de grâce et de vérité. Ses associés ne cessèrent de s’émerveiller des paroles aimables qui sortaient de sa bouche. On peut cultiver l’amabilité, mais la bienveillance est l’arôme de l’amitié qui émane d’une âme saturée d’amour. (<a id="a90_302"></a>[LU 171:7.1](/fr/The_Urantia_Book/171#p7_1))
 
 Jésus, d'une manière naturelle et non calculée, a dispensé la santé et répandu le bonheur tout au long de son chemin dans la vie. Il faisait du bien et était joyeux tout en s'occupant de ses obligations quotidiennes. Son élan vital ne venait pas d'une exaltation d'orgueil personnel.
 
@@ -136,3 +160,28 @@ Et avec cette joie parfaite, nous pouvons véritablement amener le Ciel sur Terr
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/05/30/editorial-junio-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — juin 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Jan_Herca">
+          <span class="pr-2">Questionnaire Urantien : Jan Herca</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

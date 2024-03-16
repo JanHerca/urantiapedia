@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="pr-2">Éditorial Luz y Vida – juin 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -85,7 +106,7 @@ Cet ouvrage est en fait un résumé d'une des annexes de l'ouvrage _Study of the
 
 [**Liberté (Jean-Claude Romeuf)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Libertad.pdf)
 
-Dans ce court article, que l'auteur définit comme un hymne à la liberté, cette citation du _Livre d'Urantia_ est analysée : « À mesure que vous vous élevez sur l’échelle de la personnalité, vous apprenez d’abord à être loyal, ensuite à aimer, ensuite à être filial, et alors vous pouvez être libre » [LU 39:4.11](/fr/The_Urantia_Book/39#p4_11). L'auteur expose chacun des points qui nous amènent à être libres (être loyal, aimant, être filial) à partir d'autres citations du livre, ainsi que les réflexions que suscite chacune de ces étapes. Selon les mots de l’auteur, être libre « c’est vivre dans la sécurité la plus totale. C'est savoir que rien de mal ne peut nous arriver et que toutes les forces suprahumaines et personnelles contribuent à notre bonheur. Toutes nos peurs physiques ou mentales disparaissent, même la dernière peur qui peut rester derrière les autres : la peur de ne pas pouvoir aimer.
+Dans ce court article, que l'auteur définit comme un hymne à la liberté, cette citation du _Livre d'Urantia_ est analysée : « À mesure que vous vous élevez sur l’échelle de la personnalité, vous apprenez d’abord à être loyal, ensuite à aimer, ensuite à être filial, et alors vous pouvez être libre » <a id="a108_300"></a>[LU 39:4.11](/fr/The_Urantia_Book/39#p4_11). L'auteur expose chacun des points qui nous amènent à être libres (être loyal, aimant, être filial) à partir d'autres citations du livre, ainsi que les réflexions que suscite chacune de ces étapes. Selon les mots de l’auteur, être libre « c’est vivre dans la sécurité la plus totale. C'est savoir que rien de mal ne peut nous arriver et que toutes les forces suprahumaines et personnelles contribuent à notre bonheur. Toutes nos peurs physiques ou mentales disparaissent, même la dernière peur qui peut rester derrière les autres : la peur de ne pas pouvoir aimer.
 <br style="clear:both" />
 
 ---
@@ -303,3 +324,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-junio-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="pr-2">Éditorial Luz y Vida – juin 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

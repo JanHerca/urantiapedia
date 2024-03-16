@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — avril 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos">
+          <span class="pr-2">Naviguer dans la vie – Les niveaux évolutifs des émotions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -31,7 +55,7 @@ Il y a des centaines d’années, Augustin d’Hippone nous disait ces merveille
 
 _Le Livre d'Urantia_ affirme également cette union de Dieu avec ses créatures au plus profond de notre esprit :
 
-> BIEN que le Père Universel réside personnellement au Paradis, au centre même de l’univers, il est présent de manière effective aussi sur les mondes de l’espace dans le mental de ses innombrables enfants du temps, car il les habite sous l’aspect des Moniteurs de Mystère. Le Père éternel est à la fois aussi éloigné que possible de ses fils planétaires mortels et aussi intimement associé que possible avec eux. ([LU 107:0.1](/fr/The_Urantia_Book/107#p0_1))
+> BIEN que le Père Universel réside personnellement au Paradis, au centre même de l’univers, il est présent de manière effective aussi sur les mondes de l’espace dans le mental de ses innombrables enfants du temps, car il les habite sous l’aspect des Moniteurs de Mystère. Le Père éternel est à la fois aussi éloigné que possible de ses fils planétaires mortels et aussi intimement associé que possible avec eux. (<a id="a57_414"></a>[LU 107:0.1](/fr/The_Urantia_Book/107#p0_1))
 
 Mais si l’on observe notre civilisation planétaire actuelle, cette connexion (d’ailleurs tant souhaitée par la divinité) s’opère-t-elle au quotidien entre nous et notre Dieu intérieur ?
 
@@ -39,9 +63,9 @@ Malheureusement, le matérialisme, la laïcité, le scientisme et un héritage m
 
 L'annonce par Nietzsche de «  Dieu est mort  » nous montrait déjà au XIXe siècle une gigantesque vague dystopique née et promue par un courant profond et puissant du matérialisme. Cela est né, entre autres facteurs et comme nous le dit _Le Livre d'Urantia_, d'une puissante réaction au totalitarisme ecclésial et mental de l'Église :
 
-> La mère du laïcisme moderne fut l’Église chrétienne totalitaire du Moyen Âge. Le laïcisme débuta comme une protestation contre la domination à peu près complète de la civilisation occidentale par l’Église chrétienne transformée en institution. [LU 195:8.2](/fr/The_Urantia_Book/195#p8_2)
+> La mère du laïcisme moderne fut l’Église chrétienne totalitaire du Moyen Âge. Le laïcisme débuta comme une protestation contre la domination à peu près complète de la civilisation occidentale par l’Église chrétienne transformée en institution. <a id="a65_246"></a>[LU 195:8.2](/fr/The_Urantia_Book/195#p8_2)
 > 
-> Il a fallu un grand pouvoir, une puissante influence, pour libérer la pensée et la vie des peuples occidentaux de l’emprise desséchante d’une domination ecclésiastique totalitaire. Le laïcisme a effectivement brisé les entraves du contrôle de l’Église, et il menace maintenant à son tour d’établir un nouveau type de domination athée sur le cœur et le mental de l’homme moderne. L’État politique tyrannique et dictatorial est le rejeton direct du matérialisme scientifique et du laïcisme philosophique. [LU 195:8.4](/fr/The_Urantia_Book/195#p8_4)
+> Il a fallu un grand pouvoir, une puissante influence, pour libérer la pensée et la vie des peuples occidentaux de l’emprise desséchante d’une domination ecclésiastique totalitaire. Le laïcisme a effectivement brisé les entraves du contrôle de l’Église, et il menace maintenant à son tour d’établir un nouveau type de domination athée sur le cœur et le mental de l’homme moderne. L’État politique tyrannique et dictatorial est le rejeton direct du matérialisme scientifique et du laïcisme philosophique. <a id="a67_505"></a>[LU 195:8.4](/fr/The_Urantia_Book/195#p8_4)
 
 Actuellement, un paradigme totalement accroché à la matière et au petit soi s’impose. Prédomine une vision de la vie qui rejette le transcendant et jette l'être humain dans les bras du superficiel et de l'évanescent. Et après avoir ainsi expulsé la Spiritualité (avec les majuscules) de nos vies et de notre société, que reste-t-il ?
 
@@ -57,15 +81,15 @@ Actuellement, le joyau du transhumanisme est son idée de télécharger la consc
 
 Face à cette vision très plate de l'être humain, face à une vision qui favorise la numérisation de tous les aspects de nos vies, nous avons la précieuse contribution du _Le Livre d'Urantia_ :
 
-> Dire que le mental « émergea » de la matière n’explique rien. Si l’univers était simplement un mécanisme et si le mental était solidaire de la matière, nous n’aurions jamais deux interprétations différentes d’un même phénomène observé. Les concepts de vérité, de beauté et de bonté ne sont inhérents ni à la physique ni à la chimie. Une machine ne peut pas *connaitre,* et encore bien moins connaitre la vérité, avoir soif de droiture et chérir la bonté. ([LU 195:6.11](/fr/The_Urantia_Book/195#p6_11))
+> Dire que le mental « émergea » de la matière n’explique rien. Si l’univers était simplement un mécanisme et si le mental était solidaire de la matière, nous n’aurions jamais deux interprétations différentes d’un même phénomène observé. Les concepts de vérité, de beauté et de bonté ne sont inhérents ni à la physique ni à la chimie. Une machine ne peut pas *connaitre,* et encore bien moins connaitre la vérité, avoir soif de droiture et chérir la bonté. (<a id="a83_458"></a>[LU 195:6.11](/fr/The_Urantia_Book/195#p6_11))
 
 _Le Livre d'Urantia_ nous dit clairement que nous avons un esprit extraordinaire, avec des capacités qui échappent au matérialisme vulgaire dans lequel on veut nous plonger. Pensons, par exemple, à l'art et à son potentiel à élever notre esprit quotidien vers des niveaux d'abstraction plus élevés :
 
-> L’art prouve que l’homme n’est pas une machine, mais ne prouve pas qu’il soit spirituellement immortel. L’art est la morontia du mortel, le domaine intermédiaire entre l’homme matériel et l’homme spirituel. La poésie est un effort pour échapper aux réalités matérielles et s’approcher des valeurs spirituelles. ([LU 195:7.15](/fr/The_Urantia_Book/195#p7_15))
+> L’art prouve que l’homme n’est pas une machine, mais ne prouve pas qu’il soit spirituellement immortel. L’art est la morontia du mortel, le domaine intermédiaire entre l’homme matériel et l’homme spirituel. La poésie est un effort pour échapper aux réalités matérielles et s’approcher des valeurs spirituelles. (<a id="a87_314"></a>[LU 195:7.15](/fr/The_Urantia_Book/195#p7_15))
 
 De plus, _Le Livre d'Urantia_ est très direct :
 
-> Quel que puisse être le conflit apparent entre le matérialisme et les enseignements de Jésus, vous pouvez être assurés que les enseignements du Maitre triompheront pleinement au cours des âges à venir. En réalité, il ne peut se produire aucune controverse entre la vraie religion et la science, car la première ne s’occupe aucunement des choses matérielles. ([LU 195:6.2](/fr/The_Urantia_Book/195#p6_2))
+> Quel que puisse être le conflit apparent entre le matérialisme et les enseignements de Jésus, vous pouvez être assurés que les enseignements du Maitre triompheront pleinement au cours des âges à venir. En réalité, il ne peut se produire aucune controverse entre la vraie religion et la science, car la première ne s’occupe aucunement des choses matérielles. (<a id="a91_361"></a>[LU 195:6.2](/fr/The_Urantia_Book/195#p6_2))
 
 Par conséquent, les lecteurs du _Livre d'Urantia_ vont à contre-courant de ce que le monde promeut. Le livre bleu nous invite à faire quelque chose avec d'énormes bénéfices, qui nous unit à la grande source. Une recherche personnelle et intransmissible, une aventure sans fin.
 
@@ -87,3 +111,28 @@ Libres, comme le sont les authentiques fils et filles de Dieu.
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/03/30/editorial-abril-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — avril 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos">
+          <span class="pr-2">Naviguer dans la vie – Les niveaux évolutifs des émotions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

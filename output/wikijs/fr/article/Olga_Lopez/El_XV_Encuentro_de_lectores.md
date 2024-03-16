@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Olga López<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_44_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 44 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-44-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 44 — juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="pr-2">La course de l'ascension vue d'ensemble</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La XVe Rencontre des Lecteurs a débuté dans l'après-midi du jeudi 28 avril à l'hôtel Conde Duque de Bilbao, situé à côté de l'estuaire du Nervión et à quelques mètres du musée Guggenheim. Il faut dire que Bilbao a été choisi à la quasi-unanimité lors de la précédente réunion, qui s'est tenue un an auparavant à Carthagène. Et bien sûr, le conseil d’administration a répondu à cette demande généralisée. Le nord de l'Espagne a toujours été quelque peu exclu de la célébration des Rencontres, il était donc temps de compenser cette absence.
@@ -94,3 +118,28 @@ Après le repas est venu le moment le plus triste, celui des adieux, même si no
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_44_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 44 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-44-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 44 — juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaime_Marco/La_carrera_de_ascension_a_vista_de_pajaro">
+          <span class="pr-2">La course de l'ascension vue d'ensemble</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

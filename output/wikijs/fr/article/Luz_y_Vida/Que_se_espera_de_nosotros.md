@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez<br>© 2008 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Lugares_Santos_Segunda_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lieux saints ? (Deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-12-février-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 12 — février 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_1a_Parte">
+          <span class="pr-2">En savoir plus sur le nombre de survivants (première partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -58,7 +82,7 @@ Quelqu’un souhaite-t-il faire des suggestions plus pratiques pour ce niveau d�
 
 C’est un sentiment que j’ai heureusement presque surmonté. Je fais ce que je pense devoir faire et je laisse le reste au « destin ». Ce sentiment est un piège de notre esprit. Nous pensons qu’il y a des choses qui dépendent exclusivement de nous et que nous ne pouvons pas échouer. Mais les choses ne sont pas ainsi ; il y a une providence.
 
-Je copie une citation qui me semble pertinente ; est en [LU 39:4.13](/fr/The_Urantia_Book/39#p4_13) (document 39). Il dit ainsi : « _...c’est l’expérience de vivre cette vie qui est importante. Même le *travail* dans ce monde, si important qu’il soit, n’est pas de loin aussi important que la *manière* dont vous l’effectuez..._ ». Notre travail efficace pour la création, pour le développement du Suprême, dans ce monde et dans cette vie est nul ou presque nul, à l'exception de la croissance personnelle que nous sommes capables de faire pour nous-mêmes et en nous-mêmes. À mon avis, c'est ce qu'on attend de nous, comme vous l'a dit Antonio.
+Je copie une citation qui me semble pertinente ; est en <a id="a84_56"></a>[LU 39:4.13](/fr/The_Urantia_Book/39#p4_13) (document 39). Il dit ainsi : « _...c’est l’expérience de vivre cette vie qui est importante. Même le *travail* dans ce monde, si important qu’il soit, n’est pas de loin aussi important que la *manière* dont vous l’effectuez..._ ». Notre travail efficace pour la création, pour le développement du Suprême, dans ce monde et dans cette vie est nul ou presque nul, à l'exception de la croissance personnelle que nous sommes capables de faire pour nous-mêmes et en nous-mêmes. À mon avis, c'est ce qu'on attend de nous, comme vous l'a dit Antonio.
 
 Le sentiment que vous décrivez est le résultat d'un esprit trop responsable (et dans mon cas, parfois aussi, d'une mauvaise conscience de ne pas avoir fait tout ce que je devais et pouvais), quelque chose qui est sans aucun doute mauvais. Soyez sincère et fidèle à vous-même, faites tout ce que votre pensée et votre esprit vous disent... et abandonnez-vous dans les bras du Père. Ne vous submergez pas de « possibilités » ; agir et faire confiance.
 
@@ -75,3 +99,28 @@ Eh bien, je vous dis que lorsque vous avez des incertitudes, lisez les inévitab
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Lugares_Santos_Segunda_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lieux saints ? (Deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-12-février-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 12 — février 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_1a_Parte">
+          <span class="pr-2">En savoir plus sur le nombre de survivants (première partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

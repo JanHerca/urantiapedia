@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Derek Grimm<br>© 2015 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_42_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 42 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-42-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 42 — décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Visiones_de_futuro_para_gente_con_vision_de_futuro">
+          <span class="pr-2">Des visions du futur pour les personnes ayant une vision du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans mon [dernier article](http://perthubsg.com/2015/08/aliens-and-the-urantia-book-some-thoughts-more-questions/), je me plaignais du fait que la représentation hollywoodienne des extraterrestres avait ruiné de nombreux films de science-fiction. Il existe pourtant de grands films de science-fiction. Les deux qui me viennent immédiatement à l'esprit sont [Avatar](http://www.imdb.com/title/tt0499549/) et [Matrix](http://www.imdb.com/title/tt0133093/).. J'encourage tous les étudiants du _Le Livre d'Urantia_ à regarder ces films avec leurs « lunettes urantiennes ».
@@ -160,7 +184,7 @@ Alors, la majorité a-t-elle toujours raison ? Imaginez un instant qu'au Moyen �
 
 Dans le cas de Lucifer, il a utilisé la fausse promesse d’un gouvernement majoritaire pour rallier ses rangs contre Michael et les Anciens des Jours. Il espérait que face à une opposition écrasante, les Anciens des Jours céderaient à ses exigences.
 
-Tout cela conduit finalement à aborder la question de la liberté et du libre arbitre. Tout comme les gouvernements nationaux et les entreprises du monde entier répandent des mots à la mode comme liberté pour justifier l’exploitation d’autrui, nous devons regarder derrière ces mots pour découvrir ce qu’ils disent réellement. On nous dit que de tous les problèmes embarrassants qui ont surgi de la rébellion de Lucifer, aucun n'a causé plus de difficultés que l'incapacité des mortels évolutionnaires immatures à faire la distinction entre la vraie et la fausse liberté. Voici une citation : « La vraie liberté est la quête des âges et la récompense du progrès évolutionnaire. La fausse liberté est la subtile duperie de l’erreur du temps et du mal de l’espace. La liberté durable est fondée sur la réalité de la justice — de l’intelligence, de la maturité, de la fraternité et de l’équité. (...) La vraie liberté est associée à un sincère respect de soi ; la fausse liberté est la compagne de l’admiration de soi (...)  La maitrise de soi conduit au service altruiste ; l’admiration de soi tend à exploiter autrui._ » [LU 54:1.2](/fr/The_Urantia_Book/54#p1_2), [LU 54:1.5-6](/fr/The_Urantia_Book/54#p1_5)
+Tout cela conduit finalement à aborder la question de la liberté et du libre arbitre. Tout comme les gouvernements nationaux et les entreprises du monde entier répandent des mots à la mode comme liberté pour justifier l’exploitation d’autrui, nous devons regarder derrière ces mots pour découvrir ce qu’ils disent réellement. On nous dit que de tous les problèmes embarrassants qui ont surgi de la rébellion de Lucifer, aucun n'a causé plus de difficultés que l'incapacité des mortels évolutionnaires immatures à faire la distinction entre la vraie et la fausse liberté. Voici une citation : « La vraie liberté est la quête des âges et la récompense du progrès évolutionnaire. La fausse liberté est la subtile duperie de l’erreur du temps et du mal de l’espace. La liberté durable est fondée sur la réalité de la justice — de l’intelligence, de la maturité, de la fraternité et de l’équité. (...) La vraie liberté est associée à un sincère respect de soi ; la fausse liberté est la compagne de l’admiration de soi (...)  La maitrise de soi conduit au service altruiste ; l’admiration de soi tend à exploiter autrui._ » <a id="a186_1119"></a>[LU 54:1.2](/fr/The_Urantia_Book/54#p1_2), <a id="a186_1162"></a>[LU 54:1.5-6](/fr/The_Urantia_Book/54#p1_5)
 
 La troisième charge de Lucifer était dirigée vers l'autodétermination des mortels ascendants. Nous voyons maintenant que la vraie liberté doit être conquise.
 
@@ -213,3 +237,28 @@ Permettez-moi de terminer en partageant quelque chose que j'ai compris sur le co
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 - Article original dans : http://perthubsg.com/2015/08/the-matrix-has-us/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_42_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 42 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-42-décembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 42 — décembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Visiones_de_futuro_para_gente_con_vision_de_futuro">
+          <span class="pr-2">Des visions du futur pour les personnes ayant une vision du futur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

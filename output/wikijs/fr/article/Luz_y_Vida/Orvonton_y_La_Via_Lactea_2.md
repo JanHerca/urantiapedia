@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Carmelo Martínez, Antonio Moya, Eduardo Altuzarra<br>© 2006 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_7_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 7 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-7-décembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 7 — décembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Diego_V_Seoane/Un_Camino_para_acercarse_a_la_Conciencia_de_Dios">
+          <span class="pr-2">Un chemin pour approcher la Conscience de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -31,11 +55,11 @@ J'y ai réfléchi et je pense toujours que tous les superunivers ont le même pl
 
 Je vais m'expliquer. Pour ce faire, je commence par trois citations de la section 7 du document 11 (toute la section est intéressante).
 
-> Le profil d’une section verticale de l’espace total ressemblerait un peu à une croix de Malte dont les bras horizontaux représenteraient l’espace pénétré (l’univers) et les bras verticaux l’espace non pénétré (le réservoir). Les aires entre les quatre bras les sépareraient un peu comme les zones d’espace médian séparent l’espace pénétré de l’espace non pénétré. Ces zones tranquilles d’espace médian deviennent de plus en plus vastes à mesure que leur distance du Paradis s’accroit ; finalement, elles entourent les bords de tout l’espace et enferment hermétiquement à la fois les réservoirs d’espace et la totalité de l’extension horizontale de l’espace pénétré. ([LU 11:7.3](/fr/The_Urantia_Book/11#p7_3))
+> Le profil d’une section verticale de l’espace total ressemblerait un peu à une croix de Malte dont les bras horizontaux représenteraient l’espace pénétré (l’univers) et les bras verticaux l’espace non pénétré (le réservoir). Les aires entre les quatre bras les sépareraient un peu comme les zones d’espace médian séparent l’espace pénétré de l’espace non pénétré. Ces zones tranquilles d’espace médian deviennent de plus en plus vastes à mesure que leur distance du Paradis s’accroit ; finalement, elles entourent les bords de tout l’espace et enferment hermétiquement à la fois les réservoirs d’espace et la totalité de l’extension horizontale de l’espace pénétré. (<a id="a57_669"></a>[LU 11:7.3](/fr/The_Urantia_Book/11#p7_3))
 
-> Si vous imaginez un plan en forme de V, fini mais inconcevablement grand, situé à angle droit par rapport aux deux surfaces supérieure et inférieure du Paradis et dont la pointe serait presque tangentielle à la périphérie du Paradis, et qu’ensuite vous visualisiez ce plan en révolution elliptique autour du Paradis, alors cette révolution délimiterait grossièrement le volume de l’espace pénétré. ([LU 11:7.5](/fr/The_Urantia_Book/11#p7_5))
+> Si vous imaginez un plan en forme de V, fini mais inconcevablement grand, situé à angle droit par rapport aux deux surfaces supérieure et inférieure du Paradis et dont la pointe serait presque tangentielle à la périphérie du Paradis, et qu’ensuite vous visualisiez ce plan en révolution elliptique autour du Paradis, alors cette révolution délimiterait grossièrement le volume de l’espace pénétré. (<a id="a59_401"></a>[LU 11:7.5](/fr/The_Urantia_Book/11#p7_5))
 
-> Il y a une limite supérieure et une limite inférieure à l’espace horizontal par rapport à n’importe quel emplacement dans les univers. Si l’on pouvait aller assez loin à angle droit du plan d’Orvonton, soit vers le haut soit vers le bas, on rencontrerait finalement la limite inférieure ou supérieure de l’espace pénétré. À l’intérieur des dimensions connues du maitre univers, ces limites s’écartent de plus en plus l’une de l’autre à mesure que la distance du Paradis s’accroit. L’espace épaissit, et il épaissit un peu plus vite que le plan de la création, c’est-à-dire que les univers. ([LU 11:7.6](/fr/The_Urantia_Book/11#p7_6))
+> Il y a une limite supérieure et une limite inférieure à l’espace horizontal par rapport à n’importe quel emplacement dans les univers. Si l’on pouvait aller assez loin à angle droit du plan d’Orvonton, soit vers le haut soit vers le bas, on rencontrerait finalement la limite inférieure ou supérieure de l’espace pénétré. À l’intérieur des dimensions connues du maitre univers, ces limites s’écartent de plus en plus l’une de l’autre à mesure que la distance du Paradis s’accroit. L’espace épaissit, et il épaissit un peu plus vite que le plan de la création, c’est-à-dire que les univers. (<a id="a61_593"></a>[LU 11:7.6](/fr/The_Urantia_Book/11#p7_6))
 
 Ces limites que nous « rencontrerions enfin » sont proches (relativement) dans Havona et très lointaines à la fin du quatrième niveau de l'espace extra-atmosphérique. Cela me fait penser qu'au niveau spatial des superunivers, en particulier près des frontières de l'univers central, il n'y a pas beaucoup d'espace de haut en bas du « plan de création ». Bien entendu, à une certaine distance de Havona, cette largeur d’espace est la même quel que soit le superunivers dans lequel nous nous trouvons. Plus on se rapproche de Havona, moins il y a de dispersion verticale. Au sein de Havona, cette dispersion est encore plus petite ; en fait, toutes les sphères de l’univers central se déplacent selon des circuits qui se trouvent sur le même plan, qui, je crois, est le plan des sept superunivers.
 
@@ -101,3 +125,28 @@ Bref, ce sont des axes de travail parallèles, comme je l’ai déjà dit, et le
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_7_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 7 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-7-décembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 7 — décembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Diego_V_Seoane/Un_Camino_para_acercarse_a_la_Conciencia_de_Dios">
+          <span class="pr-2">Un chemin pour approcher la Conscience de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

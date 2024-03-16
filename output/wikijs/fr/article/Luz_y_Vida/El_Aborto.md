@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Juan José López, Antonio Moya, Santiago Rodríguez, Eduardo Altuzarra, Carmelo Martínez<br>© 2012 Association Urantia d'Espagne </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_Libro_de_Urantia_y_la_reencarnacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et la réincarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-30-septembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 30 — septembre 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/El_dia_a_dia_despues_de_El_Libro_De_Urantia">
+          <span class="pr-2">La vie quotidienne après Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants :**
@@ -63,7 +87,7 @@ Encore une fois, je comprends que dans l'événement lui-même, deux parties con
 
 Problème 1 : Concernant la personne qui prend la décision, encore une fois, la clé est ce qui vous motive à le faire, les motivations vraies et profondes sont celles qui présenteront le fait comme acceptable ou non aux yeux du Père.
 
-Problème 2 : Concernant l'embryon/enfant, j'aborde [LU 49:6.12](/fr/The_Urantia_Book/49#p6_12), en début de page dans le premier paragraphe : « _Les enfants qui meurent trop jeunes pour avoir un Ajusteur de Pensée sont repersonnalisés sur le monde finalitaire des systèmes locaux en même temps qu’un de leurs parents arrive sur les mondes des maisons. Un enfant acquiert son entité physique lors de sa naissance terrestre, mais, en matière de survie, tous les enfants dépourvus d’Ajusteur sont comptés comme encore attachés à leurs parents._ »
+Problème 2 : Concernant l'embryon/enfant, j'aborde <a id="a89_51"></a>[LU 49:6.12](/fr/The_Urantia_Book/49#p6_12), en début de page dans le premier paragraphe : « _Les enfants qui meurent trop jeunes pour avoir un Ajusteur de Pensée sont repersonnalisés sur le monde finalitaire des systèmes locaux en même temps qu’un de leurs parents arrive sur les mondes des maisons. Un enfant acquiert son entité physique lors de sa naissance terrestre, mais, en matière de survie, tous les enfants dépourvus d’Ajusteur sont comptés comme encore attachés à leurs parents._ »
 
 A moins que la traduction ne soit pas assez fidèle, ce que je comprends de ce paragraphe c'est que, seulement après la naissance, cet être est un individu (acquiert une identité physique), et tant qu'il n'a pas d'Ajusteur, il n'aura que des options de survie. , s'il survit, au moins un des parents.
 
@@ -81,7 +105,7 @@ Ce sujet a des problèmes très profonds. La LU n'est pas très explicite sur ce
 
 Concernant l’origine de cette vie, la LU dit textuellement :
 
-> _La religion est fonctionnelle dans le mental humain. Elle est réalisée en expérience avant d’apparaitre dans la conscience humaine. Un enfant existe environ neuf mois avant de faire l’expérience de la *naissance.*_ ([LU 103:2.1](/fr/The_Urantia_Book/103#p2_1))
+> _La religion est fonctionnelle dans le mental humain. Elle est réalisée en expérience avant d’apparaitre dans la conscience humaine. Un enfant existe environ neuf mois avant de faire l’expérience de la *naissance.*_ (<a id="a107_219"></a>[LU 103:2.1](/fr/The_Urantia_Book/103#p2_1))
 
 ## Carmelo
 
@@ -113,7 +137,7 @@ Antonio, j'ai trouvé cette page il y a quelques années parce que quelqu'un dan
 
 Bien sûr, comme vous l'exprimez très bien, je pense qu'il s'agit davantage d'éthique, de morale, de sentiments, de points de vue, de coutumes de vie, etc. Si aujourd'hui nous sommes plus primitifs qu'évolués en raison de la façon dont nous vivons et nous comportons, le LU le dit à plusieurs reprises, je pense que ce type de « controverses » doit exister pour décider quoi faire de la vie, et nous devons tenir compte de quelles un peu plus bas, le fragment que je vous ai envoyé dit :
 
-> _Néanmoins, il y a tôt ou tard un « jour de naissance ». On n’entre pas dans le royaume des cieux sans être « né à nouveau » — né de l’Esprit. Bien des naissances spirituelles sont accompagnées d’une grande angoisse spirituelle et de troubles psychologiques marqués, de même que beaucoup de naissances physiques sont caractérisées par des « couches laborieuses » et par d’autres anomalies de la « délivrance »._ ([LU 103:2.1](/fr/The_Urantia_Book/103#p2_1))
+> _Néanmoins, il y a tôt ou tard un « jour de naissance ». On n’entre pas dans le royaume des cieux sans être « né à nouveau » — né de l’Esprit. Bien des naissances spirituelles sont accompagnées d’une grande angoisse spirituelle et de troubles psychologiques marqués, de même que beaucoup de naissances physiques sont caractérisées par des « couches laborieuses » et par d’autres anomalies de la « délivrance »._ (<a id="a139_415"></a>[LU 103:2.1](/fr/The_Urantia_Book/103#p2_1))
 
 L'avortement prématuré, qu'il soit naturel ou provoqué, pourrait-il entrer ici, dans cette dernière partie du paragraphe ? J'aimerais que vous donniez votre avis à ce sujet, car à mon avis c'est la seule partie pour laquelle (semble être) un avortement par sa propre décision ou par une décision humaine serait « justifié ».
 
@@ -141,9 +165,9 @@ Carmelo attaque librement l'église ; J'ai aussi eu - et j'ai toujours - cette t
 
 Je réponds à une question de -Juanjo et je commente d'autres sujets.
 
-Où l'UL dit-elle qu'un fœtus n'est pas un être humain ? —Juanjo, il ne le dit pas exactement avec ces mots (pour autant que je m'en souvienne), mais il dit en [LU 49:6.12](/fr/The_Urantia_Book/49#p6_12) qu'un enfant acquiert « l'identité physique » avec sa naissance en tant que mortel et acquiert « l'identité aux yeux de l'univers « avec l'arrivée d'un Ajusteur». Je pense qu'il est facile de déduire que l'enfant n'est même pas un être avant sa naissance, et n'est pas un être humain avant l'arrivée de l'ajusteur. On peut en déduire en outre que, tout comme un fœtus est attaché à sa mère, un enfant sans ajusteur est considéré comme attaché à ses parents. Dans le premier cas, il n'est pas physiquement indépendant ; dans le second, elle n’est pas indépendante « aux yeux de l’univers », c’est-à-dire humainement.
+Où l'UL dit-elle qu'un fœtus n'est pas un être humain ? —Juanjo, il ne le dit pas exactement avec ces mots (pour autant que je m'en souvienne), mais il dit en <a id="a167_159"></a>[LU 49:6.12](/fr/The_Urantia_Book/49#p6_12) qu'un enfant acquiert « l'identité physique » avec sa naissance en tant que mortel et acquiert « l'identité aux yeux de l'univers « avec l'arrivée d'un Ajusteur». Je pense qu'il est facile de déduire que l'enfant n'est même pas un être avant sa naissance, et n'est pas un être humain avant l'arrivée de l'ajusteur. On peut en déduire en outre que, tout comme un fœtus est attaché à sa mère, un enfant sans ajusteur est considéré comme attaché à ses parents. Dans le premier cas, il n'est pas physiquement indépendant ; dans le second, elle n’est pas indépendante « aux yeux de l’univers », c’est-à-dire humainement.
 
-Santi a raison de dire que l’UL ne déclare pas que la peine de mort est souhaitable ; La LU ne promeut ni ne préconise la peine de mort. Mais étonnamment, du moins pour moi, il l’accepte. Je copie une citation de quelque chose que Jésus a dit à un condamné à mort à Corinthe ([LU 133:4.12](/fr/The_Urantia_Book/133#p4_12)) : « _... Mais tu as commis cette mauvaise action, et tes concitoyens t’ont jugé coupable ; ils ont décidé que tu devais mourir. Ni toi ni moi, nous ne pouvons contester à l’État le droit de se défendre de la manière qu’il choisit..._ ».
+Santi a raison de dire que l’UL ne déclare pas que la peine de mort est souhaitable ; La LU ne promeut ni ne préconise la peine de mort. Mais étonnamment, du moins pour moi, il l’accepte. Je copie une citation de quelque chose que Jésus a dit à un condamné à mort à Corinthe (<a id="a169_276"></a>[LU 133:4.12](/fr/The_Urantia_Book/133#p4_12)) : « _... Mais tu as commis cette mauvaise action, et tes concitoyens t’ont jugé coupable ; ils ont décidé que tu devais mourir. Ni toi ni moi, nous ne pouvons contester à l’État le droit de se défendre de la manière qu’il choisit..._ ».
 
 Eduardo nous a cité: « Un enfant a existé pendant environ neuf mois avant de connaître la _naissance »_. Mais cette phrase n’affirme rien sur la manière dont elle a existé ; Il dit que cela a été une réalité, il ne dit pas qu'il était en fait un enfant pendant ces neuf mois. La citation, vue dans son contexte, est une comparaison pour souligner que la religion n'est pas née soudainement dans la conscience humaine, mais qu'elle avait plutôt une certaine réalité dans l'esprit. Autrement dit, la religion, avant d’être un enfant (une religion à proprement parler) dans la conscience humaine, était déjà un fœtus (quelque chose comme une pré-religion), une réalité d’une sorte qui opérait inconsciemment, dans l’esprit.
 
@@ -151,3 +175,28 @@ Eduardo nous a cité: « Un enfant a existé pendant environ neuf mois avant de 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_Libro_de_Urantia_y_la_reencarnacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et la réincarnation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-30-septembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 30 — septembre 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/El_dia_a_dia_despues_de_El_Libro_De_Urantia">
+          <span class="pr-2">La vie quotidienne après Le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

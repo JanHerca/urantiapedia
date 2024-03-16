@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Antonio Moya, Carmelo Martínez, Santiago Rodríguez, Eduardo Altuzarra, Andrés Pérez<br>© 2007 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'étoile de Bethléem. Faits intéressants fournis par l'astronomie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-10-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 10 — septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -23,7 +44,7 @@ De divers auteurs
 
 **Antonio :** Chers amis : permettez-moi de sonner doucement le réveil : document 112, point 3, dernier paragraphe :
 
-> « Ceux qui vont sur les mondes des maisons n’ont pas l’autorisation d’envoyer des messages en retour à ceux qu’ils aimaient. Il est de règle, dans tous les univers, d’interdire ce genre de communications pendant la durée de la dispensation en cours. » ([LU 112:3.7](/fr/The_Urantia_Book/112#p3_7))
+> « Ceux qui vont sur les mondes des maisons n’ont pas l’autorisation d’envoyer des messages en retour à ceux qu’ils aimaient. Il est de règle, dans tous les univers, d’interdire ce genre de communications pendant la durée de la dispensation en cours. » (<a id="a46_255"></a>[LU 112:3.7](/fr/The_Urantia_Book/112#p3_7))
 
 Commentaires : Il n’y a aucun moyen de savoir avec certitude s’il y a une vie après la mort. Pourquoi interdisent-ils ce type de communication ? Quelle est la raison impérieuse de l’interdire ? Notez bien qu'il est dit que c'est interdit DANS TOUS LES UNIVERS... pendant la période de la dispensation actuelle (c'est-à-dire tant que nous vivons). Mais lors de la dispense suivante, l'autorisent-ils ? J'en doute. J'insiste : selon vous, quelle est la raison impérieuse pour laquelle les Créateurs doivent INTERDIRE ce type de messages de la part des membres de notre famille ou de nos amis disparus ?
 
@@ -68,7 +89,7 @@ Quant aux extraterrestres, je pense que ce sujet contient beaucoup de « miettes
 
 **Antonio :** Cher Eduardo, chers amis :
 
-« _Il est de règle, dans tous les univers, d’interdire ce genre de communications pendant la durée de la dispensation en cours._ ». [LU 112:3.7](/fr/The_Urantia_Book/112#p3_7) Notre dispensation actuelle (actuelle) va du moment où Jésus est venu jusqu'à... n'importe quand. Les communications entre les peuples de cette époque sont interdites. Mais qu’en est-il entre les gens de l’époque précédente et ceux de l’ère suivante ? Eh bien, en fait, c’est également interdit. Andón et Fonta n'ont pas eu le droit de nous envoyer un message ([Fas. 63, avant-dernier paragraphe](/fr/The_Urantia_Book/63#p7_3)) lorsqu'ils ont appris qu'ils allaient partager cette révélation avec nous. « Ils » le disent, parce que s'ils ne l'avaient pas dit, nous ne le saurions pas. J'ai l'impression que l'interdiction est permanente, pendant toutes les époques d'une planète. Parce que? Eh bien, je n'en ai aucune idée, cher Eduardo.
+« _Il est de règle, dans tous les univers, d’interdire ce genre de communications pendant la durée de la dispensation en cours._ ». <a id="a91_132"></a>[LU 112:3.7](/fr/The_Urantia_Book/112#p3_7) Notre dispensation actuelle (actuelle) va du moment où Jésus est venu jusqu'à... n'importe quand. Les communications entre les peuples de cette époque sont interdites. Mais qu’en est-il entre les gens de l’époque précédente et ceux de l’ère suivante ? Eh bien, en fait, c’est également interdit. Andón et Fonta n'ont pas eu le droit de nous envoyer un message (<a id="a91_537"></a>[Fas. 63, avant-dernier paragraphe](/fr/The_Urantia_Book/63#p7_3)) lorsqu'ils ont appris qu'ils allaient partager cette révélation avec nous. « Ils » le disent, parce que s'ils ne l'avaient pas dit, nous ne le saurions pas. J'ai l'impression que l'interdiction est permanente, pendant toutes les époques d'une planète. Parce que? Eh bien, je n'en ai aucune idée, cher Eduardo.
 
 Sur les mondes « normaux », ils ont le Prince Planétaire 100, Adam et Ève, et toute leur progéniture, qui y vivent depuis des <ins>milliers</ins> d'années. Au moins, ils ont <ins>la preuve</ins> de la présence d'êtres extraplanétaires et « immortels », mis à part le fait que ces humains ont une plus grande préparation culturelle et spirituelle. Je ne crois pas (comme le dit Carmelo) que ces humains communiquent régulièrement avec les intermédiaires et les êtres célestes assignés à la planète. Je ne le crois pas. Mais ce n'est pas grave...
 
@@ -126,3 +147,25 @@ Ami Antonio, probablement et selon mon expérience vécue, peut-être que ces pr
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'étoile de Bethléem. Faits intéressants fournis par l'astronomie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-10-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 10 — septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

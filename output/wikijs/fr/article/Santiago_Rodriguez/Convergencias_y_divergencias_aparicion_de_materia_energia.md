@@ -9,9 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Santiago Rodríguez<br>© 2014 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Dios_si_Dios_no">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu oui, Dieu non</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-38-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 38 — décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Eduardo_Altuzarra">
+          <span class="pr-2">Questionnaire Urantien : Eduardo Altuzarra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> _La lumière, la chaleur, l’électricité, le magnétisme, la chimie, l’énergie et la matière sont — quant à leur origine, leur nature et leur destinée — une seule et même chose au même titre que d’autres réalités matérielles non encore découvertes sur Urantia._ ([LU 42:4.1](/fr/The_Urantia_Book/42#p4_1))
+
+> _La lumière, la chaleur, l’électricité, le magnétisme, la chimie, l’énergie et la matière sont — quant à leur origine, leur nature et leur destinée — une seule et même chose au même titre que d’autres réalités matérielles non encore découvertes sur Urantia._ (<a id="a37_262"></a>[LU 42:4.1](/fr/The_Urantia_Book/42#p4_1))
 
 Il existe également une grande convergence selon laquelle l’univers matériel que nous pouvons observer a certainement commencé dans le temps. Même s’il est vrai que les considérations sur le moment où cela s’est produit sont loin de converger, et dans cet article nous n’entrerons pas dans les détails.
 
@@ -35,7 +59,7 @@ La matière et l’énergie évoluent de différentes manières jusqu’à aujou
 
 Du point de vue du _Livre d'Urantia_, cela ne semble pas être le cas. Il y a une nuance très intéressante à prendre en compte.
 
-D'une lecture attentive de [LU 29:5.5-7](/fr/The_Urantia_Book/29#p5_5), nous pouvons trouver la description du processus suivante :
+D'une lecture attentive de <a id="a61_27"></a>[LU 29:5.5-7](/fr/The_Urantia_Book/29#p5_5), nous pouvons trouver la description du processus suivante :
 
 L'une des tâches accomplies par les Maîtres Organisateurs de Force est de transmuter, de transformer la « force primordiale » (dont on nous dit qu'elle n'est pas sensible à la gravité du Paradis, puisqu'elle fait encore partie du domaine de l'Absolu Non Qualifié). « énergie puissante ou primaire » déjà soumise à l'attraction de la gravité du Paradis. Autrement dit, il y a une transition entre quelque chose qui est dans un état potentiel et qui devient quelque chose d'actuel ou de « réel » ; Ils nous révèlent aussi que cette phase, cet étage d'énergie qui a cessé d'être potentiel, n'est pas encore réactif à la gravité locale ou linéaire. Rappelons que cette gravité linéaire est ce que nous, notre science, connaissons et mesurons sous le nom de « gravité ». " . Donc, pour nous, il est encore possible que ce soit physiquement indétectable.
 
@@ -55,3 +79,28 @@ Le principal problème pourrait résider dans la nécessité pour la science de 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Dios_si_Dios_no">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu oui, Dieu non</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-38-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 38 — décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Eduardo_Altuzarra">
+          <span class="pr-2">Questionnaire Urantien : Eduardo Altuzarra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

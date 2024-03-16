@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Santiago Rodríguez<br>© 2012 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Little_things_of_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les petites choses de la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-31-décembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 31 — décembre 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaime_Marco/Reflexiones_sobre_la_paz_en_Urantia">
+          <span class="pr-2">Réflexions sur la paix sur Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Prise en charge possible du Modèle de Particules Standard et divergence possible avec le LU_
@@ -35,21 +59,21 @@ En ce qui concerne d'éventuelles convergences ou divergences avec le LU, ce que
 
 Bien que la LU établisse :
 
-> _La lumière, la chaleur, l’électricité, le magnétisme, la chimie, l’énergie et la matière sont — quant à leur origine, leur nature et leur destinée — une seule et même chose au même titre que d’autres réalités matérielles non encore découvertes sur Urantia._ ([LU 42:4.1](/fr/The_Urantia_Book/42#p4_1))
+> _La lumière, la chaleur, l’électricité, le magnétisme, la chimie, l’énergie et la matière sont — quant à leur origine, leur nature et leur destinée — une seule et même chose au même titre que d’autres réalités matérielles non encore découvertes sur Urantia._ (<a id="a61_262"></a>[LU 42:4.1](/fr/The_Urantia_Book/42#p4_1))
 
 Ce qui converge évidemment avec l’intention d’unification de la science énoncée précédemment.
 
 Notre LU parle des électrons dans les termes suivants :
 
-> _1. La matière ultimatonique — les unités physiques primordiales de l’existence matérielle, les particules d’énergie qui contribuent à composer des électrons._ ([LU 42:3.3](/fr/The_Urantia_Book/42#p3_3))
+> _1. La matière ultimatonique — les unités physiques primordiales de l’existence matérielle, les particules d’énergie qui contribuent à composer des électrons._ (<a id="a67_163"></a>[LU 42:3.3](/fr/The_Urantia_Book/42#p3_3))
 
-> _Ce sont la présence et l’action de la gravité ... L’espace qui, à notre connaissance, se rapproche le plus du vide dans Nébadon contient encore cent ultimatons — l’équivalent d’un électron — par seize centimètres cubes._ ([LU 42:4.6](/fr/The_Urantia_Book/42#p4_6))
+> _Ce sont la présence et l’action de la gravité ... L’espace qui, à notre connaissance, se rapproche le plus du vide dans Nébadon contient encore cent ultimatons — l’équivalent d’un électron — par seize centimètres cubes._ (<a id="a69_225"></a>[LU 42:4.6](/fr/The_Urantia_Book/42#p4_6))
 
-> _2. *Rayons ultimatoniques.* L’assemblage de l’énergie dans les sphères minuscules des ultimatons ... À mesure que les ultimatons s’agglomèrent en électrons, il se produit une condensation avec mise en réserve correspondante d’énergie._ ([LU 42:5.4](/fr/The_Urantia_Book/42#p5_4))
+> _2. *Rayons ultimatoniques.* L’assemblage de l’énergie dans les sphères minuscules des ultimatons ... À mesure que les ultimatons s’agglomèrent en électrons, il se produit une condensation avec mise en réserve correspondante d’énergie._ (<a id="a71_240"></a>[LU 42:5.4](/fr/The_Urantia_Book/42#p5_4))
 
-> _Les ultimatons, inconnus sur Urantia, ralentissent leur mouvement en passant par beaucoup de phases d’activité physique avant d’atteindre les conditions d’énergie révolutionnelle préalables à l’organisation électronique. Les ultimatons ont trois variétés de mouvements : leur résistance mutuelle à la force cosmique, leur révolution individuelle avec potentiel d’antigravité et la position à l’intérieur de l’électron de la centaine d’ultimatons mutuellement interassociés._ ([LU 42:6.4](/fr/The_Urantia_Book/42#p6_4))
+> _Les ultimatons, inconnus sur Urantia, ralentissent leur mouvement en passant par beaucoup de phases d’activité physique avant d’atteindre les conditions d’énergie révolutionnelle préalables à l’organisation électronique. Les ultimatons ont trois variétés de mouvements : leur résistance mutuelle à la force cosmique, leur révolution individuelle avec potentiel d’antigravité et la position à l’intérieur de l’électron de la centaine d’ultimatons mutuellement interassociés._ (<a id="a73_479"></a>[LU 42:6.4](/fr/The_Urantia_Book/42#p6_4))
 
-> _L’attraction mutuelle assure la cohésion de cent ultimatons dans la constitution d’un électron, et il n’y en a jamais un de moins ni un de plus dans un électron typique. La perte d’un ou plusieurs ultimatons détruit l’identité typique de l’électron, ce qui amène à l’existence l’une des dix formes modifiées de l’électron._ ([LU 42:6.5](/fr/The_Urantia_Book/42#p6_5))
+> _L’attraction mutuelle assure la cohésion de cent ultimatons dans la constitution d’un électron, et il n’y en a jamais un de moins ni un de plus dans un électron typique. La perte d’un ou plusieurs ultimatons détruit l’identité typique de l’électron, ce qui amène à l’existence l’une des dix formes modifiées de l’électron._ (<a id="a75_328"></a>[LU 42:6.5](/fr/The_Urantia_Book/42#p6_5))
 
 Ce qui s’écarte de l’idée du Modèle Standard, qui n’établit pas de structure composite pour l’électron.
 
@@ -61,3 +85,28 @@ La divergence semble se confirmer pour le moment puisque, bien que l'UL soit dé
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Little_things_of_life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les petites choses de la vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-31-décembre-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 31 — décembre 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaime_Marco/Reflexiones_sobre_la_paz_en_Urantia">
+          <span class="pr-2">Réflexions sur la paix sur Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

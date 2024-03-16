@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Jorge_Nagore">
+          <span class="pr-2">Questionnaire Urantien : Jorge Nagore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -55,12 +76,12 @@ Nous vous proposons du matériel très varié de nature « urantienne » puisque
 > l’impulsion de l’exploration — <br>
 > fait partie des dons innés et <br>
 > divins des créatures évolutionnaires de l’espace <br>
-> ([LU 14:5.11](/fr/The_Urantia_Book/14#p5_11))
+> (<a id="a78_3"></a>[LU 14:5.11](/fr/The_Urantia_Book/14#p5_11))
 
 C’est ainsi que l’on peut comprendre les rencontres surprenantes de Jésus de Nazareth avec des enfants. Jésus reproche à ses apôtres de ne pas permettre aux enfants de s'approcher de lui et Jésus les nomme comme modèle pour tous, c'est-à-dire pour ses compatriotes, ses disciples... et pour nous qui vivons au XXIe siècle.
 
 > En vérité, en vérité, je vous le dis, quiconque ne reçoit pas le royaume de Dieu comme un petit enfant ne pourra y entrer pour y atteindre la pleine stature de son humanité spirituelle » 
-> ([LU 167:6.1](/fr/The_Urantia_Book/167#p6_1))
+> (<a id="a83_3"></a>[LU 167:6.1](/fr/The_Urantia_Book/167#p6_1))
 
 Pouvons-nous imaginer à quoi ressembleraient nos vies sur Urantia si elles étaient orientées selon une série d’attitudes que manifestent les plus petits ?
 
@@ -89,11 +110,11 @@ Apprendre en jouant, découvrir par soi-même les grandes vérités ou valeurs d
 Nous comprenons désormais mieux ce jeu éternel qu'est notre vie.
 
 
-> Les incertitudes de la vie et les vicissitudes de l’existence ne contredisent en aucune manière le concept de la souveraineté universelle de Dieu. [LU 3:5.5](/fr/The_Urantia_Book/3#p5_5)
+> Les incertitudes de la vie et les vicissitudes de l’existence ne contredisent en aucune manière le concept de la souveraineté universelle de Dieu. <a id="a112_149"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5)
 > 
-> Il est impossible qu’une intelligence libre et inexpérimentée soit uniformément sage a priori. [LU 3:5.15](/fr/The_Urantia_Book/3#p5_15)
+> Il est impossible qu’une intelligence libre et inexpérimentée soit uniformément sage a priori. <a id="a114_97"></a>[LU 3:5.15](/fr/The_Urantia_Book/3#p5_15)
 > 
-> Toutes les choses divines que le mental humain saisit et que l’âme humaine acquiert sont des aboutissements d’expérience. Ce sont des *réalités* d’expérience personnelle, donc des possessions uniques, ... [LU 3:5.16](/fr/The_Urantia_Book/3#p5_16)
+> Toutes les choses divines que le mental humain saisit et que l’âme humaine acquiert sont des aboutissements d’expérience. Ce sont des *réalités* d’expérience personnelle, donc des possessions uniques, ... <a id="a116_207"></a>[LU 3:5.16](/fr/The_Urantia_Book/3#p5_16)
 
 Nous voyons donc que tout est soigneusement planifié pour que nous cherchions et découvrions par nous-mêmes les perles de la Vie.
 
@@ -245,7 +266,7 @@ Olga López
 </figure>
 
 
-> _De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers._ ([LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
+> _De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers._ (<a id="a268_313"></a>[LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
 
 J'ai choisi ce paragraphe du document 102 comme mon préféré, même si je pourrais dire qu'il y a de nombreux paragraphes dans le livre qui résonnent fortement en moi et qui me semblent aussi beaux dans la forme que dans le fond.
 
@@ -301,3 +322,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — septembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Jorge_Nagore">
+          <span class="pr-2">Questionnaire Urantien : Jorge Nagore</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

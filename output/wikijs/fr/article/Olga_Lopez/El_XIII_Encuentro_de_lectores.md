@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Olga López<br>© 2014 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_37_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 37 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-37-juin-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 37 — juin 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="pr-2">L'effusion de Michael</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La XIIIe Rencontre des Lecteurs a débuté le vendredi 23 mai à 18 heures à l'hôtel Abba Acteón de Valence. Cette année, nous avons voulu y organiser la Rencontre comme une manière de reconnaître l'excellent travail réalisé par un groupe enthousiaste de lecteurs valenciens, qui ont créé un groupe d'étude qui se réunit tous les dimanches dans la capitale de Turia et dont le nombre ne cesse d'augmenter.
@@ -23,10 +47,10 @@ Lors de la réunion inaugurale, le matériel qui allait être utilisé lors de l
 
 Le samedi 24 était le jour des ateliers. Les participants formaient des groupes de 5 ou 6 personnes autour des animateurs. Voici les passages que les participants ont été invités à approfondir :
 
-- Discours sur la vraie religion (Document 155, [LU 155:5.6](/fr/The_Urantia_Book/155#p5_6) - [LU 155:5.13](/fr/The_Urantia_Book/155#p5_13)).
-- La parabole du propriétaire des vignes (Document 163, [LU 163:3.5](/fr/The_Urantia_Book/163#p3_5) - [LU 163:3.7](/fr/The_Urantia_Book/163#p3_7))
-- La parabole des mines (Document 171, [LU 171:8.3](/fr/The_Urantia_Book/171#p8_3) - [LU 171:8.6](/fr/The_Urantia_Book/171#p8_6))
-- Le dernier discours au temple (Document 175, [LU 175:1.1](/fr/The_Urantia_Book/175#p1_1) - [LU 175:1.24](/fr/The_Urantia_Book/175#p1_24))
+- Discours sur la vraie religion (Document 155, <a id="a49_48"></a>[LU 155:5.6](/fr/The_Urantia_Book/155#p5_6) - <a id="a49_94"></a>[LU 155:5.13](/fr/The_Urantia_Book/155#p5_13)).
+- La parabole du propriétaire des vignes (Document 163, <a id="a50_56"></a>[LU 163:3.5](/fr/The_Urantia_Book/163#p3_5) - <a id="a50_102"></a>[LU 163:3.7](/fr/The_Urantia_Book/163#p3_7))
+- La parabole des mines (Document 171, <a id="a51_39"></a>[LU 171:8.3](/fr/The_Urantia_Book/171#p8_3) - <a id="a51_85"></a>[LU 171:8.6](/fr/The_Urantia_Book/171#p8_6))
+- Le dernier discours au temple (Document 175, <a id="a52_47"></a>[LU 175:1.1](/fr/The_Urantia_Book/175#p1_1) - <a id="a52_93"></a>[LU 175:1.24](/fr/The_Urantia_Book/175#p1_24))
 
 Pour rendre cette activité plus agile, le processus suivant a été suivi pour chacun des discours et paraboles.
 
@@ -79,3 +103,28 @@ La Rencontre appartient désormais à l'histoire, mais son souvenir nous donne l
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_37_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 37 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-37-juin-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 37 — juin 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="pr-2">L'effusion de Michael</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

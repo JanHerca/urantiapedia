@@ -91,7 +91,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 10. La théologie de Paul est résumée dans : « La justification par la foi.
 11. Attitude de Paul : « Je n'ai pas honte de l'évangile : c'est la puissance de Dieu pour le salut. [1:16](/fr/Bible/Romans/1#v16).
 12. Romains montre que Paul est le promoteur de la doctrine de l'expiation.
-	**Remarque** : En ce qui concerne le grand conflit entre la chair et l'Esprit, voir le Livre d'Urantia, <a id="s94_105"></a>[LU 34:7.1](/fr/The_Urantia_Book/34#p7_1).
+	**Remarque** : En ce qui concerne le grand conflit entre la chair et l'Esprit, voir le Livre d'Urantia, <a id="s93_105"></a>[LU 34:7.1](/fr/The_Urantia_Book/34#p7_1).
 
 ## V. Textes sélectionnés
 

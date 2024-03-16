@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — novembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — novembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carlos_Rubinsky/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Situé dans notre centre
@@ -27,29 +51,29 @@ Dans _Le Livre d'Urantia_, nous trouvons différents épisodes qui nous montrent
 
 Si nous décomposons l'épisode, nous pouvons voir comment le « kidnapping émotionnel » dont Juda a été victime, avec son esprit obscurci par un torrent débordant d'émotions, peut nous causer de graves problèmes et nous déconnecter de notre meilleure essence. Mais en même temps, nous voyons comment, face à ce même problème, Jésus ne se laisse pas submerger et emporter par les émotions. Agissez avec calme et patience.
 
-> Ils arrivèrent à Jérusalem en temps utile et se trouvaient en chemin pour leur première visite au temple, dont la seule vue avait remué et passionné Jude jusqu’au plus profond de son âme, ([LU 128:6.5](/fr/The_Urantia_Book/128#p6_5))
+> Ils arrivèrent à Jérusalem en temps utile et se trouvaient en chemin pour leur première visite au temple, dont la seule vue avait remué et passionné Jude jusqu’au plus profond de son âme, (<a id="a53_191"></a>[LU 128:6.5](/fr/The_Urantia_Book/128#p6_5))
 
 On imagine parfaitement un jeune Juda, patriote enthousiaste, ému par la magnifique vision de Jérusalem.
 
-> Ils arrivèrent à Jérusalem en temps utile et se trouvaient en chemin pour leur première visite au temple, dont la seule vue avait remué et passionné Jude jusqu’au plus profond de son âme, quand ils rencontrèrent, par hasard, Lazare de Béthanie. Tandis que Jésus causait avec Lazare et cherchait à arranger une célébration de la Pâque en commun, Jude fit naitre un incident très sérieux pour eux tous. À proximité d’eux se tenait un garde romain qui tint quelques propos incorrects sur une jeune fille juive qui passait. Jude éclata d’une fougueuse indignation et ne fut pas long à exprimer, directement et à portée d’oreille du soldat, son ressentiment pour une telle inconvenance. Or, les légionnaires romains étaient très sensibles à tout ce qui frisait l’irrévérence chez les Juifs. Le garde mit donc immédiatement Jude en état d’arrestation. ([LU 128:6.5](/fr/The_Urantia_Book/128#p6_5))
+> Ils arrivèrent à Jérusalem en temps utile et se trouvaient en chemin pour leur première visite au temple, dont la seule vue avait remué et passionné Jude jusqu’au plus profond de son âme, quand ils rencontrèrent, par hasard, Lazare de Béthanie. Tandis que Jésus causait avec Lazare et cherchait à arranger une célébration de la Pâque en commun, Jude fit naitre un incident très sérieux pour eux tous. À proximité d’eux se tenait un garde romain qui tint quelques propos incorrects sur une jeune fille juive qui passait. Jude éclata d’une fougueuse indignation et ne fut pas long à exprimer, directement et à portée d’oreille du soldat, son ressentiment pour une telle inconvenance. Or, les légionnaires romains étaient très sensibles à tout ce qui frisait l’irrévérence chez les Juifs. Le garde mit donc immédiatement Jude en état d’arrestation. (<a id="a57_849"></a>[LU 128:6.5](/fr/The_Urantia_Book/128#p6_5))
 
 Après un accès de colère, Judah lance de graves insultes au soldat... avec pour conséquence son arrestation. Et pour ne rien arranger, il continue d'insulter les Romains pendant qu'ils l'emmènent en prison :
 
-> C’en était trop pour le jeune patriote et, avant que Jésus ait pu le mettre en garde par un coup d’œil avertisseur, il s’était soulagé par une volubile énonciation de ses sentiments antiromains refoulés, ce qui fit simplement tout aller de mal en pis. Jude, avec Jésus à ses côtés, fut aussitôt conduit à la prison militaire. ([LU 128:6.5](/fr/The_Urantia_Book/128#p6_5))
+> C’en était trop pour le jeune patriote et, avant que Jésus ait pu le mettre en garde par un coup d’œil avertisseur, il s’était soulagé par une volubile énonciation de ses sentiments antiromains refoulés, ce qui fit simplement tout aller de mal en pis. Jude, avec Jésus à ses côtés, fut aussitôt conduit à la prison militaire. (<a id="a61_329"></a>[LU 128:6.5](/fr/The_Urantia_Book/128#p6_5))
 
 En revanche, Jésus lui-même a agi avec une grande sérénité en cherchant une solution au problème de l’arrestation, problème qui ne pouvait pas être résolu à cette époque. Les deux hommes ont dû rester en prison pendant la célébration de la Pâque à Jérusalem et ont été laissés sans participer aux cérémonies du Temple, comme ils l'avaient prévu.
 
-> Jésus essaya d’obtenir soit un interrogatoire immédiat pour Jude, soit sa libération en temps voulu pour célébrer la Pâque ce soir-là, mais il échoua dans ces tentatives. Puisque le lendemain était un jour de « sainte assemblée » à Jérusalem, même les Romains ne se risquaient pas à écouter des accusations contre un Juif. En conséquence, Jude resta incarcéré jusqu’au surlendemain matin de son arrestation et Jésus resta à la prison avec lui. ([LU 128:6.6](/fr/The_Urantia_Book/128#p6_6))
+> Jésus essaya d’obtenir soit un interrogatoire immédiat pour Jude, soit sa libération en temps voulu pour célébrer la Pâque ce soir-là, mais il échoua dans ces tentatives. Puisque le lendemain était un jour de « sainte assemblée » à Jérusalem, même les Romains ne se risquaient pas à écouter des accusations contre un Juif. En conséquence, Jude resta incarcéré jusqu’au surlendemain matin de son arrestation et Jésus resta à la prison avec lui. (<a id="a65_447"></a>[LU 128:6.6](/fr/The_Urantia_Book/128#p6_6))
 
 Comment ce grave problème est-il résolu ? La force et la sérénité de l’esprit de Jésus parviennent à résoudre cette question difficile :
 
-> Le matin qui suivit leur second jour en prison, Jésus se présenta devant le magistrat militaire pour le compte de Jude. En offrant des excuses pour la jeunesse de son frère et en donnant des éclaircissements complémentaires, mais judicieux, se rapportant à la nature provocatrice de l’incident qui avait motivé l’arrestation de son frère, Jésus mena l’affaire de telle sorte que le magistrat exprima l’opinion que le jeune Juif pouvait avoir quelque excuse valable pour son violent éclat. ([LU 128:6.7](/fr/The_Urantia_Book/128#p6_7))
+> Le matin qui suivit leur second jour en prison, Jésus se présenta devant le magistrat militaire pour le compte de Jude. En offrant des excuses pour la jeunesse de son frère et en donnant des éclaircissements complémentaires, mais judicieux, se rapportant à la nature provocatrice de l’incident qui avait motivé l’arrestation de son frère, Jésus mena l’affaire de telle sorte que le magistrat exprima l’opinion que le jeune Juif pouvait avoir quelque excuse valable pour son violent éclat. (<a id="a69_492"></a>[LU 128:6.7](/fr/The_Urantia_Book/128#p6_7))
 
 La prison n'a pas amené Jésus à développer une attitude de défaite, car il aurait pu réagir en s'enfonçant dans son état émotionnel et, par conséquent, il aurait pu se retrouver sans la force de pouvoir résoudre l'emprisonnement. Il ne se laisse pas non plus emporter par la colère et la fureur, comme le faisait son petit frère. Étonnamment pour nous, il sait manipuler son esprit avec brio et utiliser les mots justes pour rendre le juge miséricordieux.
 
 Avec cette même sérénité d’esprit, Jésus s’est comporté à l’égard de sa famille à Nazareth. L'exaltation de l'esprit ne troublait pas son esprit et il savait se montrer patient, attendant que ses émotions se calment avant d'avoir une longue conversation avec son frère, une fois rentré chez lui. En tant que pères ou mères, nous pouvons nous mettre à la place de Jésus et admirer son courage face à ce grave problème avec son frère/fils Judas. Il a su attendre jusqu'à trois semaines pour que l'esprit de Juda puisse comprendre et comprendre la gravité de son comportement, pour qu'il puisse réellement entendre ce que Jésus voulait lui communiquer :
 
-> Jésus ne parla pas à la famille de l’arrestation de son jeune frère à Jérusalem, mais, trois semaines après leur retour, il eut un long entretien avec Jude au sujet de cet incident. Après cette conversation avec Jésus, Jude raconta lui-même l’histoire à la famille. Il n’oublia jamais la patience et la longanimité dont son frère-père avait témoigné durant toute cette rude épreuve. ([LU 128:6.8](/fr/The_Urantia_Book/128#p6_8))
+> Jésus ne parla pas à la famille de l’arrestation de son jeune frère à Jérusalem, mais, trois semaines après leur retour, il eut un long entretien avec Jude au sujet de cet incident. Après cette conversation avec Jésus, Jude raconta lui-même l’histoire à la famille. Il n’oublia jamais la patience et la longanimité dont son frère-père avait témoigné durant toute cette rude épreuve. (<a id="a75_386"></a>[LU 128:6.8](/fr/The_Urantia_Book/128#p6_8))
 
 Quelle admirable utilisation de l'esprit et du langage retrouve-t-on dans cet épisode familial, où deux manières d'agir dans la vie s'opposent très nettement. D'une part, nous voyons les dommages qui peuvent nous amener à agir lorsque nous ne pouvons pas raisonner parce que notre esprit est inondé d'émotions incontrôlables, lorsque notre « amygdale cérébrale » dirige notre comportement. D’un autre côté, nous voyons comment un problème grave peut être résolu lorsque nous agissons dans un esprit serein et dans le dialogue, lorsque notre esprit est inondé de paix et de patience, comme l’esprit de ce jeune Jésus de Nazareth. Un esprit consacré à faire la volonté du Père, un esprit concentré sur son Centre.
 
@@ -61,7 +85,7 @@ Regardons un autre passage très curieux et frappant. Autre passage où les émo
 > 
 > Quand Amos reconnut Jésus, il tomba à ses pieds en s’écriant : « Je te connais, Jésus, mais je suis possédé par de nombreux démons et je te supplie de ne pas me tourmenter. » Cet homme croyait sincèrement que son affliction mentale périodique était due au fait qu’au moment des crises, des esprits mauvais ou impurs entraient en lui et dominaient son mental et son corps. Ses troubles étaient principalement émotifs — son cerveau n’était pas gravement malade.
 > 
-> Abaissant son regard sur l’homme accroupi comme un animal à ses pieds, Jésus se baissa, le prit par la main, le releva et lui dit : « Amos, tu n’es pas possédé par un démon ; tu as déjà entendu la bonne nouvelle que tu es un fils de Dieu. Je te commande de sortir de cette transe. » Quand Amos entendit Jésus prononcer ces paroles, il se produisit une telle transformation dans son intellect que la justesse de son mental et le contrôle normal de ses émotions furent immédiatement rétablis. ([LU 151:6.2-5](/fr/The_Urantia_Book/151#p6_2))
+> Abaissant son regard sur l’homme accroupi comme un animal à ses pieds, Jésus se baissa, le prit par la main, le releva et lui dit : « Amos, tu n’es pas possédé par un démon ; tu as déjà entendu la bonne nouvelle que tu es un fils de Dieu. Je te commande de sortir de cette transe. » Quand Amos entendit Jésus prononcer ces paroles, il se produisit une telle transformation dans son intellect que la justesse de son mental et le contrôle normal de ses émotions furent immédiatement rétablis. (<a id="a87_494"></a>[LU 151:6.2-5](/fr/The_Urantia_Book/151#p6_2))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-2.jpg" alt="Editorial nov 2022-2">
@@ -87,7 +111,7 @@ Et là où la maladie et le débordement abondent, il est légitime de se demand
 
 « J'étais une personne sans cervelle, une émotion pure, et cet homme m'a ramené à la raison. » C'est à peu près ce que disait ce fou furieux en racontant sa guérison. «J'étais coulé et il m'a sorti du trou. J'ai été jeté dans un fossé et cela m'a remis sur la route. « Il a vécu dans le désordre le plus absolu et par ses paroles il m'a rendu à moi-même. »
 
-> Jésus dit à Amos : « N’oublie pas que tu es un fils de Dieu. Retourne chez les tiens et montre-leur les grandes choses que Dieu a faites pour toi. » ([LU 151:6.8](/fr/The_Urantia_Book/151#p6_8))
+> Jésus dit à Amos : « N’oublie pas que tu es un fils de Dieu. Retourne chez les tiens et montre-leur les grandes choses que Dieu a faites pour toi. » (<a id="a113_152"></a>[LU 151:6.8](/fr/The_Urantia_Book/151#p6_8))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_11/Editorial-nov-22-3.jpg" alt="Editorial nov 2022-3">
@@ -95,13 +119,38 @@ Et là où la maladie et le débordement abondent, il est légitime de se demand
 
 Cet Homme qui a ramené à la raison un pauvre fou à Queresa, cet Homme existe. Cet Homme est à nos côtés, prêt à nous aider, à nous aider à faire ressortir notre meilleure version, à suivre son exemple d'équilibre esprit-émotion dans notre vie quotidienne. Vivre comme une belle boussole, centrée sur notre Être.
 
-> Sommes-nous désireux de naitre à nouveau, d’être rénovés ? Acceptons-nous de nous soumettre à ce terrible et éprouvant processus de destruction du moi et de reconstruction de l’âme ? Le Maitre n’a-t-il pas dit : « Quiconque veut sauver sa vie doit la perdre. Ne croyez pas que je sois venu apporter la paix, mais plutôt une lutte de l’âme. » ? ([LU 160:5.10](/fr/The_Urantia_Book/160#p5_10))
+> Sommes-nous désireux de naitre à nouveau, d’être rénovés ? Acceptons-nous de nous soumettre à ce terrible et éprouvant processus de destruction du moi et de reconstruction de l’âme ? Le Maitre n’a-t-il pas dit : « Quiconque veut sauver sa vie doit la perdre. Ne croyez pas que je sois venu apporter la paix, mais plutôt une lutte de l’âme. » ? (<a id="a121_347"></a>[LU 160:5.10](/fr/The_Urantia_Book/160#p5_10))
 
 Personne n'a dit que la vie était facile, mais nous y sommes... et nous sommes accompagnés du meilleur compagnon de voyage.
 
-> Il est vrai qu’après avoir payé le prix de la consécration à la volonté du Père, nous éprouvons effectivement une grande paix, pourvu que nous continuions à marcher dans les sentiers spirituels de la vie consacrée. ([LU 160:5.10](/fr/The_Urantia_Book/160#p5_10))
+> Il est vrai qu’après avoir payé le prix de la consécration à la volonté du Père, nous éprouvons effectivement une grande paix, pourvu que nous continuions à marcher dans les sentiers spirituels de la vie consacrée. (<a id="a125_218"></a>[LU 160:5.10](/fr/The_Urantia_Book/160#p5_10))
 
 ## Références
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/10/30/editorial-noviembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_11">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — novembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — novembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carlos_Rubinsky/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

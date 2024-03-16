@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Georges Michelson-Dupont<br>© 2005 Mercedes Delgado, d'après la traduction<br>© 2005 Association Urantia d'Espagne </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/El_Libro_De_Urantia_En_Africa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia en Afrique : Récit d'un voyage à Dakar (Sénégal)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-2-septembre-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 2 — septembre 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -351,3 +372,25 @@ En conclusion, la méthode GREPS comprend plusieurs approches dont les objectifs
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/El_Libro_De_Urantia_En_Africa">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia en Afrique : Récit d'un voyage à Dakar (Sénégal)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-2-septembre-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 2 — septembre 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

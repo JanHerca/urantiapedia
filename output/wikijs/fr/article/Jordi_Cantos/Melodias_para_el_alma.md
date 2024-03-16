@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Jordi Cantos<br>© 2011 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_X_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La 10ème Rencontre des Lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-25-juin-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 25 — juin 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez_and_Olga_Lopez/Las_Preguntas">
+          <span class="pr-2">Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Mélodies pour l'âme représente ma contribution personnelle à la diffusion des enseignements du Maître et Créateur de notre univers, Miguel de Nébadon.
@@ -29,3 +53,28 @@ J.C.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_X_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La 10ème Rencontre des Lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-25-juin-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 25 — juin 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez_and_Olga_Lopez/Las_Preguntas">
+          <span class="pr-2">Les questions</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

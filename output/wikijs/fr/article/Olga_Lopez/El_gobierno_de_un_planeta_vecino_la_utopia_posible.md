@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Olga López<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Flores/Falacias_argumentativas_y_ejemplos_relacionados">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Erreurs argumentatives et exemples liés au Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-45-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 45 — septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/La_majestad_de_poder_elegir_el_Libre_Albedrio">
+          <span class="pr-2">La majesté de pouvoir choisir : le libre arbitre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (_Discours donné dans la salle virtuelle de l'Association Urantia du Brésil le 10 avril 2016_)
@@ -27,7 +51,7 @@ Les révélateurs (avec la permission de notre Souverain du Système, Lanaforge)
 
 Premièrement, on nous dit que ce monde est l'un des 37 mondes isolés à cause de la rébellion de Lucifer. Leur Prince Planétaire, comme Caligastia dans notre monde, a embrassé la cause de la rébellion. Leur Adam et Ève ont également échoué, nous avons donc de nombreux points communs avec eux. Une différence importante entre eux et nous est qu’ils n’ont reçu la visite d’aucun Fils paradisiaque, et nous avons eu le grand privilège de recevoir le Fils Créateur lors de sa septième effusion. Le seul monde parmi 10 millions. Nous avons gagné le jackpot du loto !
 
-Mais revenons à ce monde frère, dont on ne sait certainement même pas sur quelle étoile il tourne, ni quel nom il porte pour les autorités célestes. Cela ne cesse jamais d'être curieux pour moi. Pourquoi ne nous disent-ils pas le nom de l'étoile, s'il est certain que nous ne visiterons jamais ce monde, aussi « proche » de nous ? Mais je suppose qu'il doit y avoir une bonne raison pour ne pas donner cette information. Comme le disent les révélateurs, trop de révélations étouffe l'imagination [LU 30:0.2](/fr/The_Urantia_Book/30#p0_2)
+Mais revenons à ce monde frère, dont on ne sait certainement même pas sur quelle étoile il tourne, ni quel nom il porte pour les autorités célestes. Cela ne cesse jamais d'être curieux pour moi. Pourquoi ne nous disent-ils pas le nom de l'étoile, s'il est certain que nous ne visiterons jamais ce monde, aussi « proche » de nous ? Mais je suppose qu'il doit y avoir une bonne raison pour ne pas donner cette information. Comme le disent les révélateurs, trop de révélations étouffe l'imagination <a id="a53_496"></a>[LU 30:0.2](/fr/The_Urantia_Book/30#p0_2)
 
 Dans ce document, les développeurs se concentrent sur l'un des peuples de cette planète sœur, une nation de 140 millions d'habitants vivant sur une grande île de la taille de l'Australie. Pour nous donner une idée, la population de l'Australie est de 23 340 000 habitants [^1], donc la densité de population sur le continent de nos frères de Satania est environ six fois supérieure à celle du pays des kangourous.
 
@@ -142,7 +166,7 @@ Dans cette nation étrangère, l’éducation est l’un des piliers fondamentau
 4. Non seulement des connaissances théoriques sont enseignées, mais aussi des connaissances pratiques : des meubles, des appareils mécaniques sont fabriqués, l'agriculture et l'horticulture sont apprises, etc.
 5. Un quart du temps scolaire est consacré aux jeux, compétitions, concours et autres tests d'aptitude similaires.
 
-Mais il n’y a pas seulement une école de base, mais il y a aussi d’autres types d’écoles spéciales, qui seraient très nécessaires sur Urantia. Parmi les cinq types d'écoles spéciales, je souhaite souligner les suivants ([LU 72:8.2-7](/fr/The_Urantia_Book/72#p8_2)) :
+Mais il n’y a pas seulement une école de base, mais il y a aussi d’autres types d’écoles spéciales, qui seraient très nécessaires sur Urantia. Parmi les cinq types d'écoles spéciales, je souhaite souligner les suivants (<a id="a168_220"></a>[LU 72:8.2-7](/fr/The_Urantia_Book/72#p8_2)) :
 
 1. Les écoles pour hommes d’État, où sont formés ceux qui occuperont des postes de responsabilité dans les différents gouvernements de la nation, ainsi que les juges des différents tribunaux.
 2. Les écoles de philosophie, qui sur la planète sont étroitement liées à la religion.
@@ -150,7 +174,7 @@ Mais il n’y a pas seulement une école de base, mais il y a aussi d’autres t
 
 Un autre élément que je trouve intéressant dans cette société est la grande importance qu'ils accordent aux loisirs, qu'ils utilisent également pour acquérir une éducation : le temps de vacances représente un dixième de leur année (un mois sur dix). Des congés payés qui ne sont pas pris en charge par les entreprises mais par un fonds spécial de l'État, similaire à celui mis en place pour les pensions de retraite.
 
-Quel est, en bref, l’objectif principal de l’éducation dans le monde voisin ? « _...faire de chaque élève un citoyen capable de gagner sa vie_ » [LU 72:4.5](/fr/The_Urantia_Book/72#p4_5)
+Quel est, en bref, l’objectif principal de l’éducation dans le monde voisin ? « _...faire de chaque élève un citoyen capable de gagner sa vie_ » <a id="a176_145"></a>[LU 72:4.5](/fr/The_Urantia_Book/72#p4_5)
 
 ## Organisation industrielle et économie
 
@@ -174,7 +198,7 @@ Un autre élément intéressant de l'économie de la planète voisine est que le
 
 Et sur la question toujours épineuse des impôts, la planète voisine ne s’en sort pas vraiment mal. Premièrement, les gouvernements locaux ne peuvent pas contracter de dettes ; L'État a des conditions très exigeantes pour pouvoir demander un prêt (je ne peux m'empêcher de penser à la terrible crise de la dette à laquelle sont actuellement confrontés les pays urantiens). Mais si l’on considère que les impôts sont judicieusement administrés sur la planète voisine et que la corruption n’existe pas, il est logique qu’il ne soit pas nécessaire de demander plus d’argent pour que les services publics fonctionnent.
 
-Les Révélateurs nous disent que les gouvernements de la planète voisine disposent de cinq sources principales de revenus ([LU 72:7.8-13](/fr/The_Urantia_Book/72#p7_8)) :
+Les Révélateurs nous disent que les gouvernements de la planète voisine disposent de cinq sources principales de revenus (<a id="a200_122"></a>[LU 72:7.8-13](/fr/The_Urantia_Book/72#p7_8)) :
 
 1. Droits d’importation : imposer des droits de douane sur les importations.
 2. Copyright : ils bénéficient en partie des avantages des brevets.
@@ -195,35 +219,35 @@ Dans l’ensemble, nous pourrions dire que, économiquement et socialement, la n
 
 Concernant le nombre de votes pondérés, je voudrais rappeler quelque chose qui est dit dans le document 45, qui traite de l'administration du système local, puisqu'à Jérusem le suffrage universel envisage également les votes pondérés :
 
-> _Sur Jérusem, le suffrage est universel parmi ces trois groupes de citoyens, mais le vote est émis différentiellement d’après la possession personnelle de la mota — la sagesse morontielle dument reconnue et enregistrée. Le vote émis à une élection de Jérusem par une personnalité donnée a une valeur comprise entre une et mille voix. Les citoyens de Jérusem sont donc classés selon leur réussite en mota._ ([LU 45:7.6](/fr/The_Urantia_Book/45#p7_6))
+> _Sur Jérusem, le suffrage est universel parmi ces trois groupes de citoyens, mais le vote est émis différentiellement d’après la possession personnelle de la mota — la sagesse morontielle dument reconnue et enregistrée. Le vote émis à une élection de Jérusem par une personnalité donnée a une valeur comprise entre une et mille voix. Les citoyens de Jérusem sont donc classés selon leur réussite en mota._ (<a id="a221_409"></a>[LU 45:7.6](/fr/The_Urantia_Book/45#p7_6))
 
 Cela semble certainement être une bonne idée d'attribuer des « pondérations » aux votes, une pondération qui tienne compte de la sagesse et des réalisations de chacun. Selon ce système, le vote du plus compétent influencera positivement le résultat final.
 
-Comme devant les tribunaux, les électeurs ne sont pas liés à des circonscriptions territoriales mais à des circonscriptions professionnelles : les citoyens votent selon le groupe industriel, social ou professionnel auquel ils appartiennent. Il n'y a qu'une seule exception à ce système, c'est lors de l'élection du chef de l'exécutif, dans laquelle il y a un vote national et chaque citoyen dispose d'une seule voix ([LU 72:9.6](/fr/The_Urantia_Book/72#p9_6))
+Comme devant les tribunaux, les électeurs ne sont pas liés à des circonscriptions territoriales mais à des circonscriptions professionnelles : les citoyens votent selon le groupe industriel, social ou professionnel auquel ils appartiennent. Il n'y a qu'une seule exception à ce système, c'est lors de l'élection du chef de l'exécutif, dans laquelle il y a un vote national et chaque citoyen dispose d'une seule voix (<a id="a225_417"></a>[LU 72:9.6](/fr/The_Urantia_Book/72#p9_6))
 
 Cette répartition présente des avantages incontestables, car elle signifie que chaque profession et chaque domaine de la société est renforcé sans que cela ne nuise au reste. Chaque composant est comme un engrenage bien huilé qui permet à la machine dont il fait partie de fonctionner de manière optimale.
 
 C’est précisément en abordant ce sujet que les Révélateurs nous transmettent une partie de la sagesse de cette nation étrangère dans quelques réflexions qui devraient nous donner matière à réfléchir sur ce qui se passe dans les sociétés urantiennes :
 
-> « _...Ces gens reconnaissent que, si une nation a cinquante pour cent d’éléments inférieurs ou dégénérés possédant le droit de vote, elle est condamnée à périr. Ils croient que la domination de la médiocrité provoque l’effondrement de n’importe quelle nation. Le vote est obligatoire, et les électeurs qui ne déposent pas leur bulletin sont frappés de lourdes amendes._ » ([LU 72:9.8](/fr/The_Urantia_Book/72#p9_8))
+> « _...Ces gens reconnaissent que, si une nation a cinquante pour cent d’éléments inférieurs ou dégénérés possédant le droit de vote, elle est condamnée à périr. Ils croient que la domination de la médiocrité provoque l’effondrement de n’importe quelle nation. Le vote est obligatoire, et les électeurs qui ne déposent pas leur bulletin sont frappés de lourdes amendes._ » (<a id="a231_375"></a>[LU 72:9.8](/fr/The_Urantia_Book/72#p9_8))
 
 ## Le traitement de la criminalité
 
 Voilà une question épineuse, qui peut donner des avis pour tous les goûts. Je fais référence à leur politique à l'égard des criminels et des déficients mentaux. Voyons quelques exemples :
 
-> _...aux débiles mentaux que l’agriculture et l’élevage, et on les envoie, pour la vie, dans des colonies de surveillance spéciales où ils sont séparés par sexes pour empêcher la procréation, qui est interdite à tous les anormaux._ ([LU 72:4.2](/fr/The_Urantia_Book/72#p4_2))
+> _...aux débiles mentaux que l’agriculture et l’élevage, et on les envoie, pour la vie, dans des colonies de surveillance spéciales où ils sont séparés par sexes pour empêcher la procréation, qui est interdite à tous les anormaux._ (<a id="a237_234"></a>[LU 72:4.2](/fr/The_Urantia_Book/72#p4_2))
 
-> _Les méthodes de ce peuple pour traiter les criminels, les fous et les dégénérés, bien qu’elles puissent plaire sous certains aspects, paraitront assurément choquantes sous d’autres aspects à la plupart des Urantiens. Les anormaux et les criminels ordinaires sont placés par sexes dans différentes colonies agricoles où ils font plus que de subvenir à leurs besoins. Les criminels les plus invétérés et les aliénés incurables sont condamnés par les tribunaux à mourir dans des chambres à gaz. De nombreux crimes autres que le meurtre, y compris la trahison de la confiance du gouvernement, comportent aussi la peine de mort, et l’action de la justice est certaine et rapide._ ([LU 72:10.1](/fr/The_Urantia_Book/72#p10_1))
+> _Les méthodes de ce peuple pour traiter les criminels, les fous et les dégénérés, bien qu’elles puissent plaire sous certains aspects, paraitront assurément choquantes sous d’autres aspects à la plupart des Urantiens. Les anormaux et les criminels ordinaires sont placés par sexes dans différentes colonies agricoles où ils font plus que de subvenir à leurs besoins. Les criminels les plus invétérés et les aliénés incurables sont condamnés par les tribunaux à mourir dans des chambres à gaz. De nombreux crimes autres que le meurtre, y compris la trahison de la confiance du gouvernement, comportent aussi la peine de mort, et l’action de la justice est certaine et rapide._ (<a id="a239_679"></a>[LU 72:10.1](/fr/The_Urantia_Book/72#p10_1))
 
 Cela ne semble pas être une mauvaise idée de consacrer les condamnés et les faibles d'esprit à l'agriculture. Bien sûr, c’est mieux que de les enfermer dans des prisons pour qu’ils ne fassent absolument rien, comme c’est le cas ici. Quant à la peine de mort en tant que punition pour les « irrécupérables » et les « grands traîtres », c'est une autre question, certainement très controversée et difficile à traiter avec la sérénité et l'objectivité nécessaires.
 
 Il y a un commentaire intéressant sur le traitement du crime, et à mon avis il va un peu loin : on va jusqu'à condamner ceux qui sont considérés comme des meurtriers potentiels.
 
-> _Ce peuple est en train de sortir de l’ère négative de la loi pour entrer dans l’ère positive. Récemment l’on est allé jusqu’à essayer d’empêcher préventivement les crimes en condamnant à la détention à vie, dans les colonies pénitentiaires, les individus que l’on croit être potentiellement des assassins ou de grands criminels. Si ces condamnés démontrent ultérieurement qu’ils sont devenus plus normaux, ils peuvent être mis en liberté conditionnelle ou graciés. Le nombre des homicides sur ce continent n’atteint qu’un pour cent de celui des autres nations._ ([LU 72:10.2](/fr/The_Urantia_Book/72#p10_2))
+> _Ce peuple est en train de sortir de l’ère négative de la loi pour entrer dans l’ère positive. Récemment l’on est allé jusqu’à essayer d’empêcher préventivement les crimes en condamnant à la détention à vie, dans les colonies pénitentiaires, les individus que l’on croit être potentiellement des assassins ou de grands criminels. Si ces condamnés démontrent ultérieurement qu’ils sont devenus plus normaux, ils peuvent être mis en liberté conditionnelle ou graciés. Le nombre des homicides sur ce continent n’atteint qu’un pour cent de celui des autres nations._ (<a id="a245_566"></a>[LU 72:10.2](/fr/The_Urantia_Book/72#p10_2))
 
 C’est ce qu’on appelle « mettre le pansement avant la plaie ». Bien sûr, il semble que la méthode fonctionne pour eux, car comme il est dit à la fin du paragraphe, « _le taux d'homicides sur ce continent ne représente qu'un pour cent de celui des autres nations_ ». En plus du traitement criminel qu'ils effectuent, ils pratiquent une certaine forme d'eugénisme :
 
-> _Des efforts pour empêcher la reproduction des criminels et des tarés ont été entrepris il y a plus de cent ans et ont déjà donné des résultats très satisfaisants. Il n’existe ni prisons ni hôpitaux pour les aliénés. Il y a à cela une bonne raison, c’est que ces groupes sont dix fois moins nombreux que sur Urantia._ ([LU 72:10.3](/fr/The_Urantia_Book/72#p10_3))
+> _Des efforts pour empêcher la reproduction des criminels et des tarés ont été entrepris il y a plus de cent ans et ont déjà donné des résultats très satisfaisants. Il n’existe ni prisons ni hôpitaux pour les aliénés. Il y a à cela une bonne raison, c’est que ces groupes sont dix fois moins nombreux que sur Urantia._ (<a id="a249_321"></a>[LU 72:10.3](/fr/The_Urantia_Book/72#p10_3))
 
 Il semble que ce paragraphe révèle une certaine approbation des révélateurs de la méthode utilisée par ce gouvernement, en plus d'insinuer que sur Urantia nous avons un excès de fous et d'abrutis criminels (c'est quelque chose sur lequel je suis sûr que nous pouvons tous être d'accord) .
 
@@ -231,11 +255,11 @@ Il semble que ce paragraphe révèle une certaine approbation des révélateurs 
 
 Un autre point que je voudrais souligner comme positif concerne la préparation militaire et l’organisation de ses armées. Non seulement une formation militaire est dispensée, mais ses officiers sont également instruits dans un autre métier ou profession. Cela évite les problèmes liés à une armée inactive en temps de paix, et donc à « inventer » de nouvelles guerres. Selon le document, au cours des 100 dernières années, ils ont utilisé leurs ressources de guerre uniquement comme arme défensive.
 
-> _Quand elle est en paix avec le monde, tous les mécanismes mobiles de défense sont pleinement employés aux affaires, au commerce et aux divertissements. Quand la guerre est déclarée, la nation tout entière est mobilisée. ..._ ([LU 72:11.5](/fr/The_Urantia_Book/72#p11_5))
+> _Quand elle est en paix avec le monde, tous les mécanismes mobiles de défense sont pleinement employés aux affaires, au commerce et aux divertissements. Quand la guerre est déclarée, la nation tout entière est mobilisée. ..._ (<a id="a257_229"></a>[LU 72:11.5](/fr/The_Urantia_Book/72#p11_5))
 
 Je fais une brève parenthèse pour souligner un détail que je trouve très intéressant et éclairant, afin de l'appliquer à notre société. Je fais référence à ce qui est mentionné à propos d'instruire quelqu'un dans plus d'un métier, et qui me rappelle un paragraphe d'un autre document de la Partie III, le document 81, « Le développement de la civilisation moderne » :
 
-> _Il ne suffit pas d’apprendre aux hommes un travail ; une société complexe doit aussi fournir des méthodes efficaces pour leur trouver un emploi. Avant d’apprendre aux citoyens des techniques hautement spécialisées pour gagner leur vie, il faudrait leur enseigner une ou plusieurs méthodes de travail non spécialisé de commerce ou d’occupations qu’ils pourraient pratiquer pendant un chômage temporaire dans leur travail spécialisé. Nulle civilisation ne peut survivre au maintien prolongé de grandes classes de chômeurs. Avec le temps, l’acceptation du soutien par le Trésor public déforme la mentalité des citoyens, même des meilleurs, et les démoralise. La charité privée, elle-même, devient pernicieuse si elle entretient longtemps des citoyens valides._ ([LU 81:6.32](/fr/The_Urantia_Book/81#p6_32))
+> _Il ne suffit pas d’apprendre aux hommes un travail ; une société complexe doit aussi fournir des méthodes efficaces pour leur trouver un emploi. Avant d’apprendre aux citoyens des techniques hautement spécialisées pour gagner leur vie, il faudrait leur enseigner une ou plusieurs méthodes de travail non spécialisé de commerce ou d’occupations qu’ils pourraient pratiquer pendant un chômage temporaire dans leur travail spécialisé. Nulle civilisation ne peut survivre au maintien prolongé de grandes classes de chômeurs. Avec le temps, l’acceptation du soutien par le Trésor public déforme la mentalité des citoyens, même des meilleurs, et les démoralise. La charité privée, elle-même, devient pernicieuse si elle entretient longtemps des citoyens valides._ (<a id="a261_762"></a>[LU 81:6.32](/fr/The_Urantia_Book/81#p6_32))
 
 Comme le propose ce paragraphe, la clé ne serait pas d'apprendre un métier ou de se spécialiser dans un seul métier, mais de diversifier nos compétences, de pouvoir s'adapter aux besoins de travail de la société, qui ne sont jamais statiques mais plutôt changeants. Cette idée a été adoptée dans cette civilisation « sœur », et il ne serait pas mauvais pour nous de faire de même.
 
@@ -243,7 +267,7 @@ Comme le propose ce paragraphe, la clé ne serait pas d'apprendre un métier ou 
 
 Concernant leurs relations avec le reste des nations de la planète, il semble qu’ils essaient non seulement d’entretenir des relations diplomatiques avec eux, mais aussi d’envoyer des missionnaires qui, d’une manière ou d’une autre, imposent leur culture supérieure. Sur notre planète, nous avons de nombreux exemples de la manière dont cette entreprise peut être extrêmement destructrice pour une civilisation prétendument inférieure. Dans ce document, les développeurs nous disent :
 
-> _...Quel merveilleux résultat on obtiendrait sur ce monde si cette nation continentale de culture avancée se bornait à sortir de chez elle afin de ramener les hommes d’élite des peuples voisins pour ensuite, après les avoir éduqués, les renvoyer comme émissaires de culture chez leurs frères plongés dans l’ignorance !_ ([LU 72:12.2](/fr/The_Urantia_Book/72#p12_2))
+> _...Quel merveilleux résultat on obtiendrait sur ce monde si cette nation continentale de culture avancée se bornait à sortir de chez elle afin de ramener les hommes d’élite des peuples voisins pour ensuite, après les avoir éduqués, les renvoyer comme émissaires de culture chez leurs frères plongés dans l’ignorance !_ (<a id="a269_323"></a>[LU 72:12.2](/fr/The_Urantia_Book/72#p12_2))
 
 Si vous vous en souvenez, c'est précisément ce qui se faisait en Dalamatie avant le déclenchement de la rébellion, et dans le premier jardin d'Eden, avant la disparition d'Adam et Ève. Il semble donc que ce soit la méthode appropriée.
 
@@ -253,11 +277,11 @@ En lisant ceci, je me souviens de toutes les « découvertes » et colonisations
 
 Pourquoi les révélateurs ont-ils inclus des informations sur d’autres humains dans le livre ? Au début du document, ils nous disent :
 
-> _La similitude des deux sphères explique indubitablement pourquoi la permission de faire cette présentation extraordinaire..._ ([LU 72:0.2](/fr/The_Urantia_Book/72#p0_2))
+> _La similitude des deux sphères explique indubitablement pourquoi la permission de faire cette présentation extraordinaire..._ (<a id="a279_130"></a>[LU 72:0.2](/fr/The_Urantia_Book/72#p0_2))
 
 Mais ils ne nous ont pas donné ce document simplement parce que dans notre système il existe un monde très similaire au nôtre. Presque à la fin du document, la raison principale apparaît :
 
-> _Ce récit des affaires d’une planète voisine est fait par autorisation spéciale ***dans le but de faire progresser la civilisation et d’accélérer l’évolution gouvernementale sur Urantia. ...***_ ([LU 72:12.3](/fr/The_Urantia_Book/72#p12_3))
+> _Ce récit des affaires d’une planète voisine est fait par autorisation spéciale ***dans le but de faire progresser la civilisation et d’accélérer l’évolution gouvernementale sur Urantia. ...***_ (<a id="a283_198"></a>[LU 72:12.3](/fr/The_Urantia_Book/72#p12_3))
 
 Ce document n’a donc pas été inclus dans la cinquième révélation simplement pour satisfaire notre curiosité quant à ce à quoi pourrait ressembler une civilisation extraterrestre qui aurait de nombreux points communs avec nous ; S'ils nous ont parlé de cette civilisation, c'est parce qu'ils considéraient que nous étions parfaitement capables d'imiter ses réalisations dans le laps de temps où la révélation doit germer et déclencher le grand éveil spirituel de l'humanité.
 
@@ -265,9 +289,9 @@ Les développeurs n'ont rien laissé au hasard et n'ont jamais divulgué plus d'
 
 N'oublions pas que nous avions un grand avantage sur la planète voisine, à savoir que nous avons reçu la visite de notre Fils Créateur (le nôtre et le leur). Sauf que sur notre planète la religion a connu un plus grand développement que sur la planète voisine, même avec tous les défauts que présentent encore les religions évolutionnistes. Voici ce que disent les Révélateurs dans les deux derniers paragraphes du document :
 
-> _Les Urantiens devraient toutefois prendre note que leur sphère sœur de la famille de Satania n’a bénéficié ni de missions magistrales ni de missions d’effusion des Fils du Paradis. Les divers peuples d’Urantia ne sont pas non plus séparés les uns des autres par des disparités de culture offrant le même contraste que cette nation continentale avec les autres nations de la même planète._ ([LU 72:12.4](/fr/The_Urantia_Book/72#p12_4))
+> _Les Urantiens devraient toutefois prendre note que leur sphère sœur de la famille de Satania n’a bénéficié ni de missions magistrales ni de missions d’effusion des Fils du Paradis. Les divers peuples d’Urantia ne sont pas non plus séparés les uns des autres par des disparités de culture offrant le même contraste que cette nation continentale avec les autres nations de la même planète._ (<a id="a291_393"></a>[LU 72:12.4](/fr/The_Urantia_Book/72#p12_4))
 
-> _...Urantia est donc beaucoup mieux préparée pour mettre au point un gouvernement planétaire avec ses lois, ses mécanismes, ses conventions, ses symboles et son langage — qui tous pourraient contribuer si puissamment à établir la paix mondiale sous l’égide de la loi et laisser présager l’aurore d’un véritable âge d’efforts spirituels. Un tel âge est le seuil planétaire conduisant aux âges utopiques de lumière et de vie._ ([LU 72:12.5](/fr/The_Urantia_Book/72#p12_5))
+> _...Urantia est donc beaucoup mieux préparée pour mettre au point un gouvernement planétaire avec ses lois, ses mécanismes, ses conventions, ses symboles et son langage — qui tous pourraient contribuer si puissamment à établir la paix mondiale sous l’égide de la loi et laisser présager l’aurore d’un véritable âge d’efforts spirituels. Un tel âge est le seuil planétaire conduisant aux âges utopiques de lumière et de vie._ (<a id="a293_428"></a>[LU 72:12.5](/fr/The_Urantia_Book/72#p12_5))
 
 Nous vivons déjà une certaine standardisation culturelle avec le développement d’Internet. Malgré le fait qu'il existe encore de grandes disparités culturelles entre les peuples de la Terre, nous pouvons dire qu'il existe un fond culturel commun, des organisations supranationales, une langue avec des perspectives de devenir une _lingua franca_, comme l'anglais... une mondialisation , en définitive, qui, bien que considérée uniquement comme négative, la mondialisation économique, abordée sous tous ses aspects (social, culturel, etc.) serait sans doute beaucoup plus positive et nous conduirait à l'objectif d'« un gouvernement, une langue, une religion ». "C'est ce que conseilleraient les développeurs.
 
@@ -278,6 +302,31 @@ L'utopie, l'âge de la lumière et de la vie, est un horizon lointain, mais c'es
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Flores/Falacias_argumentativas_y_ejemplos_relacionados">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Erreurs argumentatives et exemples liés au Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-45-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 45 — septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/La_majestad_de_poder_elegir_el_Libre_Albedrio">
+          <span class="pr-2">La majesté de pouvoir choisir : le libre arbitre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

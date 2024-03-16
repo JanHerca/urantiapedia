@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Eduardo Altuzarra, Antonio Moya, Carmelo Martínez, Andrés Pérez<br>© 2008 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Sobreviven_todos_los_mortales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Est-ce que tous les mortels survivent ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-14-septembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 14 — septembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ernesto_Veloso/Trascendencia">
+          <span class="pr-2">Transcendance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -48,3 +72,28 @@ Et ceci est « présenté par un Puissant Messager temporairement attaché au Co
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Sobreviven_todos_los_mortales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Est-ce que tous les mortels survivent ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-14-septembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 14 — septembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ernesto_Veloso/Trascendencia">
+          <span class="pr-2">Transcendance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

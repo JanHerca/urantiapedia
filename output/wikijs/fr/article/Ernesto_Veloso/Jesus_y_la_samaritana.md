@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Ernesto Veloso<br>© 2008 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_15_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 15 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-15-décembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 15 — décembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/El_Ajustador_y_la_experiencia">
+          <span class="pr-2">L'Ajusteur et l'expérience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La vie de Jésus est pleine de ses dimensions spirituelles et humaines. Chacun de ses enseignements contient un univers de réponses valables pour un nombre infini de situations, même si en règle générale sa mission rédemptrice est soulignée, laissant ainsi quelque peu reléguées d'autres facettes non moins importantes, qui d'une manière ou d'une autre nous aident dans le développement spirituel. de nos vies.
@@ -25,7 +49,7 @@ Même si le Christ n'a pas été un réformateur social, il a élevé le sentime
 
 La mission de Jésus était de proclamer la paternité de Dieu et donc la fraternité. Nous n'avons qu'un seul Père et cela fait de nous des frères, frères par la foi et par le désir de perfection, qui n'est rien d'autre que vivre selon la volonté du Père. Jésus n'est pas venu pour apporter une nouvelle religion ; Son effort consiste plutôt à démontrer comment la religion doit être vécue, redéfinie comme l'expérience humaine des réalités spirituelles. C'est pourquoi il a une valeur cosmique et universelle. Jésus a accueilli des gens de toutes races et de toutes couches sociales. Notre Père donne à chaque homme une opportunité égale ; C'est à nous de décider d'accepter ou de rejeter une proposition aussi sublime. C’est la seule chose qui détermine si nous transcendons ou si nous nous perdons.
 
-L’eau de la vie continue de couler de cette source inépuisable qu’est l’évangile du royaume. Celui qui a soif n'a rien d'autre à faire que de le demander et, comme l'a assuré le Maître, il sera rassasié pour toujours. C'est mon expérience et celle de tous ceux d'entre nous qui ont essayé l'eau de la vie et, comme [la mujer de Sicar](/fr/The_Urantia_Book/143#p5_2), nos vies ont été transformées. Et si nos vies ont été transformées, cela signifie que celles des autres le seront aussi.
+L’eau de la vie continue de couler de cette source inépuisable qu’est l’évangile du royaume. Celui qui a soif n'a rien d'autre à faire que de le demander et, comme l'a assuré le Maître, il sera rassasié pour toujours. C'est mon expérience et celle de tous ceux d'entre nous qui ont essayé l'eau de la vie et, comme <a id="a51_315"></a>[la mujer de Sicar](/fr/The_Urantia_Book/143#p5_2), nos vies ont été transformées. Et si nos vies ont été transformées, cela signifie que celles des autres le seront aussi.
 
 « Me voilà, je suis aux portes et je frappe. » Cette invitation est toujours valable, il n'y a pas d'autre condition que d'accepter. Notre Père attend que l'homme ouvre la porte de son cœur et que nous ayons la volonté de lui abandonner notre volonté, et abandonner notre volonté au Père n'est rien de plus que la volonté intérieure de faire tout ce qui est éthique, tout ce qui est beau. et tout ce qui dénote la gentillesse et l'amour. Ce dévouement n'est jamais un sacrifice, c'est plutôt une joie qui sublime l'âme et pousse l'homme vers des objectifs toujours plus élevés dans la recherche de valeurs suprêmes. Lorsque cela se produit, le miracle de la nouvelle naissance se produit.
 
@@ -39,3 +63,28 @@ Cet appel à l’amour n’est pas limité à un groupe racial ou social spécif
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_15_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 15 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-15-décembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 15 — décembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/El_Ajustador_y_la_experiencia">
+          <span class="pr-2">L'Ajusteur et l'expérience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

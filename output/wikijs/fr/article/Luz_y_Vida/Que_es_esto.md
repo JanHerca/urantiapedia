@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2012 F. Javier Santos, Carmelo Martínez, Eduardo Altuzarra, Juan J. López, Santiago Rodríguez<br>© 2012 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_Rodriguez/La_evolucion_espiritual_del_Hombre_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'évolution spirituelle de l'Homme pour parvenir à la survie mortelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-28-mars-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 28 — mars 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_La_formacion_del_sistema_solar">
+          <span class="pr-2">Convergences et divergences : La formation du système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants :**
@@ -23,13 +47,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 J'ai lu récemment un passage de la LU qui m'a laissé très déconcerté, c'est celui-ci :
 
-> « _Un grand oiseau terrestre du genre autruche se développa jusqu’à atteindre trois mètres de haut ; il pondait des œufs de vingt-trois centimètres sur trente-trois et fut l’ancêtre des gigantesques oiseaux transporteurs ultérieurs, qui étaient si remarquablement intelligents et véhiculaient jadis des êtres humains à travers les airs._ » ([LU 61:1.9](/fr/The_Urantia_Book/61#p1_9))
+> « _Un grand oiseau terrestre du genre autruche se développa jusqu’à atteindre trois mètres de haut ; il pondait des œufs de vingt-trois centimètres sur trente-trois et fut l’ancêtre des gigantesques oiseaux transporteurs ultérieurs, qui étaient si remarquablement intelligents et véhiculaient jadis des êtres humains à travers les airs._ » (<a id="a49_343"></a>[LU 61:1.9](/fr/The_Urantia_Book/61#p1_9))
 
 Je ne sais pas trop quoi penser de ce passage. Des humains chevauchant des oiseaux ? Cela ressemble beaucoup au _Seigneur des Anneaux_, hehe. Je vous jure que ce passage m'a fait sérieusement réfléchir à la véracité du livre, car à notre connaissance, on n'a jamais rien vu de pareil, un oiseau capable de transporter une personne dans les airs, bien qu'il y ait des légendes sur des oiseaux géants comme le fameux [« Roc »](https://es.wikipedia.org/wiki/Ruc) ou l'aigle géant qu'ils utilisent dans _Le Seigneur des Anneaux_, qui fait écho à cette légende, ou le [« Thunderbird »](https://es.wikipedia.org/wiki/P%C3%A1jaro_del_trueno). je ne le fais pas Je ne sais pas ce que vous pensez de cet oiseau géant, ce que dit le livre.
 
 ## Carmelo
 
-Le LU fait référence à plusieurs reprises à certains grands oiseaux qui servaient au transport des passagers. Il affirme qu'ils apparaissent sur de nombreuses planètes et les décrit comme très intelligents, capables même de prononcer certains mots ([LU 52:1.5](/fr/The_Urantia_Book/52#p1_5)). Il appelle ceux d'Urantia fandors et il semble qu'Adam et Eve les aient utilisés pour se transporter à travers le Jardin d'Eden ([LU 66:5.6](/fr/The_Urantia_Book/66#p5_6), [LU 74:3.4](/fr/The_Urantia_Book/74#p3_4) et [LU 74:4.4](/fr/The_Urantia_Book/74#p4_4)).
+Le LU fait référence à plusieurs reprises à certains grands oiseaux qui servaient au transport des passagers. Il affirme qu'ils apparaissent sur de nombreuses planètes et les décrit comme très intelligents, capables même de prononcer certains mots (<a id="a55_249"></a>[LU 52:1.5](/fr/The_Urantia_Book/52#p1_5)). Il appelle ceux d'Urantia fandors et il semble qu'Adam et Eve les aient utilisés pour se transporter à travers le Jardin d'Eden (<a id="a55_422"></a>[LU 66:5.6](/fr/The_Urantia_Book/66#p5_6), <a id="a55_465"></a>[LU 74:3.4](/fr/The_Urantia_Book/74#p3_4) et <a id="a55_510"></a>[LU 74:4.4](/fr/The_Urantia_Book/74#p4_4)).
 
 Ce que je ne comprends pas très bien, c'est qu'un détail qui nous paraît plus ou moins pittoresque pourrait remettre en cause la véracité du LU. La croyance au LU ne dépend pas, à mon avis, d'un passage de l'histoire d'Urantia qui est décrit dans le LU, d'un détail de notre évolution biologique ou d'un énoncé scientifique « douteux » selon notre science actuelle.
 
@@ -72,3 +96,28 @@ Au moment où j'écris ces lignes, je me suis documenté et il semble qu'il y a 
 - https://es.wikipedia.org/wiki/Dinornithidae
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_Rodriguez/La_evolucion_espiritual_del_Hombre_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'évolution spirituelle de l'Homme pour parvenir à la survie mortelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-28-mars-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 28 — mars 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_La_formacion_del_sistema_solar">
+          <span class="pr-2">Convergences et divergences : La formation du système solaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

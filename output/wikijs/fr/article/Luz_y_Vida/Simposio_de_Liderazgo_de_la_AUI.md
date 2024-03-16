@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Olga López, Ismael García et Mariano Pérez<br>© 2011 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_No_somos_el_unico_planeta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences et divergences. Nous ne sommes pas la seule planète</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-26-septembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 26 — septembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -97,3 +118,25 @@ Mariano Pérez, responsable des groupes d'études
 
 Recientemente se ha incorporado a la junta directiva de la asociación Mariano Pérez, lector de Madrid, en calidad de responsable de los grupos de estudio, con el fin de mantener y reforzar un contacto continuado con los grupos de estudio existentes y ayudar a crear grupos nuevos dans notre pays. Bienvenue dans l'équipe, Mariano!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_No_somos_el_unico_planeta">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences et divergences. Nous ne sommes pas la seule planète</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-26-septembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 26 — septembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

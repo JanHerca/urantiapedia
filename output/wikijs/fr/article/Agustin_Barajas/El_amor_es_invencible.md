@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Agustín Barajas<br>© 2014 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_Rodriguez/Reflexiones_para_los_lectores_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions pour les lecteurs du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-38-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 38 — décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Dios_si_Dios_no">
+          <span class="pr-2">Dieu oui, Dieu non</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -43,3 +67,28 @@ Parce qu'il est sorti de là.<br>
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jesus_Rodriguez/Reflexiones_para_los_lectores_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions pour les lecteurs du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-38-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 38 — décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Dios_si_Dios_no">
+          <span class="pr-2">Dieu oui, Dieu non</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

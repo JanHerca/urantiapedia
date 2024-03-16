@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Garcia_Bory/Reflexiones_urantianas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions urantiennes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -71,3 +92,25 @@ J'aimerais que beaucoup plus d'entre nous qui connaissent et croient aux enseign
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/09/29/cuestionario-urantiano-jeannie-vazquez-de-abreu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Garcia_Bory/Reflexiones_urantianas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions urantiennes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

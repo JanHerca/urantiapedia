@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Santiago Flores<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_45_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 45 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-45-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 45 — septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible">
+          <span class="pr-2">Le gouvernement d'une planète voisine : l'utopie possible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (_Exposé dans la liste « Le coin d'Urantia » en juin 2015_)
@@ -105,7 +129,7 @@ Puisque _Le Livre d'Urantia_ ne nie pas la possibilité que les dinosaures aient
 
 Oui, oui, je sais qu'on me dira que _Le Livre d'Urantia_ dit que le testament n'est apparu qu'à la naissance d'Andón et Fonta, mais c'est un cas général... et c'est un cas particulier. C'est une planète décimale, et n'avez-vous pas remarqué que le Prince Planétaire a mis un demi-million d'années à venir après l'apparition de la volonté d'Andón et Fonta ? En effet, la volonté s'était déjà développée parmi les dinosaures, mais elle ne s'est pas répandue car ils ont failli disparaître peu de temps après. Les Tout-Puissants voulaient donc s'assurer que les descendants d'Andón et Fonta ne s'éteignent pas avant d'envoyer le Prince, et ils a également séparé les deux races parce qu'il est rare dans l'univers que des sauriens intelligents aient été développés et que l'économie universelle n'allait pas gâcher cette opportunité, bien sûr que non.
 
-En [LU 49:2.18](/fr/The_Urantia_Book/49#p2_18), il est clairement écrit « _Mais ces dernières variantes de créatures intelligentes primitives ne sont ni des hommes-poissons ni des hommes-oiseaux. Elles représentent des types humains et préhumains qui ne sont ni des superpoissons ni des oiseaux glorifiés, mais nettement des mortels._ » En voici la preuve ! Il dit : « _ni superpoisson ni oiseaux glorifiés_ » mais il ne mentionne même pas les dinosaures, vous avez remarqué ? C’est pourquoi il laisse ici ouverte la possibilité que les dinosaures (qui ne sont ni des poissons ni des oiseaux) puissent développer une intelligence.
+En <a id="a131_3"></a>[LU 49:2.18](/fr/The_Urantia_Book/49#p2_18), il est clairement écrit « _Mais ces dernières variantes de créatures intelligentes primitives ne sont ni des hommes-poissons ni des hommes-oiseaux. Elles représentent des types humains et préhumains qui ne sont ni des superpoissons ni des oiseaux glorifiés, mais nettement des mortels._ » En voici la preuve ! Il dit : « _ni superpoisson ni oiseaux glorifiés_ » mais il ne mentionne même pas les dinosaures, vous avez remarqué ? C’est pourquoi il laisse ici ouverte la possibilité que les dinosaures (qui ne sont ni des poissons ni des oiseaux) puissent développer une intelligence.
 
 Puisque nous n'avons pas vu de sauriens intelligents dans les environs, il est évident qu'ils ont dû se cacher quelque part, et comme ils sont si nombreux et si grands, nous ne pouvons expliquer leur cachette qu'avec la théorie de la Terre creuse, qui doit également être vraie car un grand nombre des gens la croient.
 
@@ -125,3 +149,28 @@ Recherchez sur Internet « Le scandale Bogdanov » et vous verrez à quel point 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_45_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 45 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-45-septembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 45 — septembre 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_gobierno_de_un_planeta_vecino_la_utopia_posible">
+          <span class="pr-2">Le gouvernement d'une planète voisine : l'utopie possible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

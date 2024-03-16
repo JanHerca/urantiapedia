@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Carmelo Martínez<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/La_Supervivencia_de_la_Personalidad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La survie de la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-44-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 44 — juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je vous le demande : qu'est-ce que l'être humain ? Qu'est-ce qui le différencie des animaux ? Quelle est sa principale caractéristique ?
@@ -47,7 +68,7 @@ Et lorsque vous y parviendrez, parce que vous y parviendrez, ne pensez pas que v
 
 Et nous voici en train de commencer ce voyage consistant à travailler pour nous rendre parfaits et à nous préparer à rendre le grand univers parfait. Les clés pour cela sont « la sincérité, plus de sincérité et plus de sincérité », et sont utilisées avec « des décisions, plus de décisions et plus de décisions ». Le livre le dit :
 
-> « _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s’en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères — c’est le choix de faire la volonté de Dieu. Si un homme effectue ce choix, il *est* grand, même s’il n’est que le plus humble citoyen de Jérusem ou même le plus insignifiant mortel d’Urantia._ » ([[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14))
+> « _Les clefs du royaume des cieux sont la sincérité, plus de sincérité et encore plus de sincérité. Tous les hommes possèdent ces clefs. Les hommes s’en servent — élèvent leur statut spirituel — par des décisions, plus de décisions et encore plus de décisions. Le choix moral le plus élevé est celui de la plus haute valeur possible, et toujours — dans chaque sphère et dans toutes les sphères — c’est le choix de faire la volonté de Dieu. Si un homme effectue ce choix, il *est* grand, même s’il n’est que le plus humble citoyen de Jérusem ou même le plus insignifiant mortel d’Urantia._ » (<a id="a70_594"></a>[[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14))
 
 Ainsi, avec cet outil, nous prenons sincèrement des décisions, et ces décisions nous conduisent à des actions. Des actions qui peuvent aller en faveur du développement du projet du Père, lorsque nous choisissons de faire la volonté de Dieu, ou contre elle. Il s'agit alors de choisir de nous construire et de nous rendre de plus en plus parfaits, de transformer notre imperfection initiale en perfection finale, d'avancer en « statut d'esprit ». Mais pour choisir, il doit y avoir des alternatives, et ces alternatives sont le bien et le mal. La bonté, c'est choisir la volonté du Père, en suivant son plan de création. Le mal, allant dans la direction opposée. Les êtres parfaits dans des mondes parfaits ne sont pas obligés de choisir cette voie, mais nous le faisons.
 
@@ -85,7 +106,7 @@ Lorsque la fusion avec l’Ajusteur se produit, le corps et l’esprit sont indi
 
 Bref, il existe un plan pour la création et ce plan définit le bien et le mal. Nous, les humains, sommes invités à collaborer à ce projet pour lequel le Père nous donne un outil de décision unique qui porte en lui la capacité de connaître le bien et le mal. Le plan est non seulement de perfectionner la création imparfaite, mais aussi de nous perfectionner nous-mêmes, ce faisant. Autrement dit, nous avons la capacité, avec l’esprit du Père, de nous créer en tant qu’enfants ascendants de Dieu ; Nous sommes donc des êtres co-créateurs. Et en exerçant cette capacité, nous devenons co-créateurs (de nous-mêmes et, en partie, de la création).
 
-Comme il est dit dans [LU 103:5.10](/fr/The_Urantia_Book/103#p5_10) : « _L’homme est vraiment l’architecte de sa propre destinée éternelle._ ». Et cette merveilleuse possibilité résulte de la possession d’un outil que le Père nous donne pour que nous soyons seuls, un outil qui nous transforme en humains et qui s’appelle le LIBRE ARBITRE.
+Comme il est dit dans <a id="a108_22"></a>[LU 103:5.10](/fr/The_Urantia_Book/103#p5_10) : « _L’homme est vraiment l’architecte de sa propre destinée éternelle._ ». Et cette merveilleuse possibilité résulte de la possession d’un outil que le Père nous donne pour que nous soyons seuls, un outil qui nous transforme en humains et qui s’appelle le LIBRE ARBITRE.
 
 Et avant de terminer, quelques précisions. Le libre arbitre nous donne la capacité de choisir, mais pas de choisir quoi que ce soit : seulement de choisir entre le bien et le mal. Dans ce choix entre le bien et le mal, le libre arbitre est absolu, rien ne peut le restreindre par la volonté du Père lui-même ; mais, dans tout le reste, nous n’avons pas de libre arbitre. Nous ne pouvons pas choisir d’être des oiseaux, par exemple. Notre libre arbitre est relatif car il fait référence au bien et au mal, et moral car il concerne notre conception du bien et du mal et s'applique précisément au choix de l'un d'entre eux.
 
@@ -95,3 +116,25 @@ Et avant de terminer, quelques précisions. Le libre arbitre nous donne la capac
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/La_Supervivencia_de_la_Personalidad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La survie de la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-44-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 44 — juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Juan José López Vallejos<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – juin 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -25,7 +46,7 @@ Mais je ne pense pas que cela soit suffisant. Vouloir expliquer les questions é
 
 L'homme est un être complexe, dans lequel ses composantes les plus précieuses sont celles qui ont vocation à la transcendance : son esprit et son esprit. Le premier a un lien particulier avec la Divinité, et en constitue même une partie substantielle ; Il est chargé d’insinuer à l’esprit (à la raison) le meilleur chemin à suivre à tout moment. De son côté, il reçoit vos recommandations ; Il les médite et se décide finalement. Le problème réside dans laquelle de ces deux phases a le plus de poids dans nos décisions habituelles. Et il arrive souvent que dans le « raisonnement » des gens, ce soit le dernier qui gagne.
 
-Comment pallier cet inconvénient ? La solution a été indiquée par Jésus lui-même à Nicodème, l'influent pharisien membre du Sanhédrin, un honnête intellectuel attiré par les doctrines de Jésus, mais incapable d'abandonner sa situation sociale confortable et son attachement aux croyances laïques. Jésus lui demande de naître de nouveau ; Il a dû opérer un revirement complet dans sa vie. ([LU 142:6.1](/fr/The_Urantia_Book/142#p6_1) et suivants)
+Comment pallier cet inconvénient ? La solution a été indiquée par Jésus lui-même à Nicodème, l'influent pharisien membre du Sanhédrin, un honnête intellectuel attiré par les doctrines de Jésus, mais incapable d'abandonner sa situation sociale confortable et son attachement aux croyances laïques. Jésus lui demande de naître de nouveau ; Il a dû opérer un revirement complet dans sa vie. (<a id="a48_389"></a>[LU 142:6.1](/fr/The_Urantia_Book/142#p6_1) et suivants)
 
 Nicodème reste perplexe : que signifie « né de nouveau » ?
 
@@ -37,9 +58,31 @@ C’est ainsi que la valeur vivifiante et libératrice de la foi est pleinement 
 
 > La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre. Le fait d’accepter un enseignement comme vrai n’est pas la foi, c’est une simple croyance. La certitude et la conviction ne sont pas non plus la foi. Une disposition mentale n’atteint les niveaux de la foi que si elle domine effectivement la manière de vivre. La foi est un attribut vivant de l’expérience religieuse personnelle authentique. On croit la vérité, on admire la beauté, on respecte la bonté, mais on ne les adore pas. Une telle attitude de foi salvatrice est centrée sur Dieu seul, qui personnifie la vérité, la beauté, la bonté et infiniment plus encore.
 > 
-> La croyance limite et enchaine toujours ; la foi se déploie et libère. La croyance attache, la foi affranchit. Mais la foi religieuse vivante représente plus qu’une association de nobles croyances, plus qu’un système exalté de philosophie ; elle est une expérience vivante s’intéressant aux significations spirituelles, aux idéaux divins et aux valeurs suprêmes ; elle connait Dieu et sert les hommes. Les croyances peuvent devenir la propriété d’un groupe, mais la foi doit être personnelle. On peut suggérer des croyances théologiques à un groupe, mais la foi ne peut surgir dans le cœur des personnes religieuses qu’individuellement. ([LU 101:8.1-2](/fr/The_Urantia_Book/101#p8_1))
+> La croyance limite et enchaine toujours ; la foi se déploie et libère. La croyance attache, la foi affranchit. Mais la foi religieuse vivante représente plus qu’une association de nobles croyances, plus qu’un système exalté de philosophie ; elle est une expérience vivante s’intéressant aux significations spirituelles, aux idéaux divins et aux valeurs suprêmes ; elle connait Dieu et sert les hommes. Les croyances peuvent devenir la propriété d’un groupe, mais la foi doit être personnelle. On peut suggérer des croyances théologiques à un groupe, mais la foi ne peut surgir dans le cœur des personnes religieuses qu’individuellement. (<a id="a60_640"></a>[LU 101:8.1-2](/fr/The_Urantia_Book/101#p8_1))
 
 ## Références
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/05/31/mi-parrafo-favorito-9/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – juin 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

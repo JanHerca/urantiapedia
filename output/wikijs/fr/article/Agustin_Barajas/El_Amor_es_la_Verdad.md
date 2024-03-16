@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Agustín Barajas<br>© 2013 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Las_Verdades_Relativas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les vérités relatives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-32-mars-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 32 — mars 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_El_Entrelazamiento_Cuantico">
+          <span class="pr-2">Convergences et divergences : Intrication quantique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aujourd'hui, je veux partager avec vous
@@ -218,3 +242,28 @@ D'ÉNERGIE UNIVERSELLE.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Las_Verdades_Relativas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les vérités relatives</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-32-mars-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 32 — mars 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_El_Entrelazamiento_Cuantico">
+          <span class="pr-2">Convergences et divergences : Intrication quantique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

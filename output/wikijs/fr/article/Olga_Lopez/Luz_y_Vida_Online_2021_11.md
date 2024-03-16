@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11">
+          <span class="pr-2">Éditorial Luz y Vida – novembre 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -234,7 +255,7 @@ Et dans notre recherche, nous aimerions recevoir une indication, un indice sur l
 Permettez-moi de vous proposer ce paragraphe du _Livre d'Urantia_, qui nous donne une magnifique recette pour atteindre nos objectifs :
 
 
-> _Quand l’assurance de la présence divine deviendra consciente chez mes enfants, leur foi élargira leur mental, ennoblira leur âme, fortifiera leur personnalité, accroitra leur bonheur, approfondira leur perception spirituelle et rehaussera leur pouvoir d’aimer et d’être aimés._ ([LU 159:3.12](/fr/The_Urantia_Book/159#p3_12))
+> _Quand l’assurance de la présence divine deviendra consciente chez mes enfants, leur foi élargira leur mental, ennoblira leur âme, fortifiera leur personnalité, accroitra leur bonheur, approfondira leur perception spirituelle et rehaussera leur pouvoir d’aimer et d’être aimés._ (<a id="a257_282"></a>[LU 159:3.12](/fr/The_Urantia_Book/159#p3_12))
 
 Ils nous invitent à un troc, à un échange : si nous prenons la décision d'accepter la révélation qu'il y a une présence divine en nous et chez nos semblables, et que nous décidons consciemment et librement de laisser cette foi (croyance en action) agir dans nos vies, en retour, nous aurons non seulement ce bonheur que nous désirons tant en tant qu'individus et en tant que société, mais aussi de nombreux avantages supplémentaires.
 
@@ -320,3 +341,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — novembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_11">
+          <span class="pr-2">Éditorial Luz y Vida – novembre 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

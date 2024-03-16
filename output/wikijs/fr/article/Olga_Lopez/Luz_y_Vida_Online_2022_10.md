@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_10">
+          <span class="pr-2">Éditorial Luz y Vida – octobre 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -193,7 +214,7 @@ Víctor Manuel Fernández Martín
 
 Pour moi, c'est très important car, s'il était bien compris, cela clarifierait le problème « esprit-matière », qui a été la cause de tant de confrontations entre des positions trop spiritualistes et des positions trop matérialistes. Je crois que, sous cet aspect, _Le Livre d'Urantia_ nous invite à une réflexion lente et calme sur la réalité qui se traduirait par une plus grande dignité pour l'être humain. La citation est la suivante :
 
-> LE Paradis est le centre éternel de l’univers des univers et le lieu où demeurent le Père Universel, le Fils Éternel et l’Esprit Infini, ainsi que leurs coordonnés et associés divins. Cette Ile centrale est le plus gigantesque corps organisé de réalité cosmique dans tout le maitre univers. Le Paradis est une sphère matérielle aussi bien qu’une demeure spirituelle. Toute la création intelligente du Père Universel est domiciliée sur des demeures matérielles ; il faut donc que leur centre de contrôle absolu soit également matériel, au sens propre du mot. Et il y a lieu de répéter de nouveau que les choses d’esprit et les êtres spirituels sont *réels.* ([LU 11:0.1](/fr/The_Urantia_Book/11#p0_1))
+> LE Paradis est le centre éternel de l’univers des univers et le lieu où demeurent le Père Universel, le Fils Éternel et l’Esprit Infini, ainsi que leurs coordonnés et associés divins. Cette Ile centrale est le plus gigantesque corps organisé de réalité cosmique dans tout le maitre univers. Le Paradis est une sphère matérielle aussi bien qu’une demeure spirituelle. Toute la création intelligente du Père Universel est domiciliée sur des demeures matérielles ; il faut donc que leur centre de contrôle absolu soit également matériel, au sens propre du mot. Et il y a lieu de répéter de nouveau que les choses d’esprit et les êtres spirituels sont *réels.* (<a id="a216_660"></a>[LU 11:0.1](/fr/The_Urantia_Book/11#p0_1))
 
 Salutations fraternelles.
 
@@ -263,3 +284,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_10">
+          <span class="pr-2">Éditorial Luz y Vida – octobre 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

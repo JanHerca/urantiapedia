@@ -9,13 +9,37 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Horacio Gamboa<br>© 2015 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Doris_Calmel/The_reading_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lire le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-39-mars-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 39 — mars 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="pr-2">L'univers est un endroit incroyablement grand</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il est impossible qu'une quelconque opération gouvernementale, politique ou militaire, encore moins comme celle du Maître Jésus sur terre, de prosélytisme défiant l'autorité religieuse établie, puisse fonctionner sans un système et un chef du renseignement et son équipe respective. d'agents qui rassemblent les informations nécessaires pour pouvoir entreprendre les démarches de manière appropriée. N'oublions pas que l'information, c'est le pouvoir. Les mouvements de Jésus, même s'il connaissait la fin dès le début, mais n'a jamais utilisé cette prérogative par sa propre décision, dans le sens de s'en tenir uniquement à son esprit purement humain, ont été conseillés avec une grande précision, dévouement et loyauté par David Zebedee, propre frère de James et John Zebedee. David était l’un des frères du Tonnerre, comme Jésus appelait Jacques et Jean. David n'était pas un apôtre, ni appelé par le Maître, mais lui seul assuma peu à peu la responsabilité de tenir Jésus informé du corps des messagers, et de le protéger par une surveillance permanente, de l'aider dans le la logistique des déplacements, des courses, de la nourriture et de l'informer de l'état des lieux où il se rendait et des progrès que faisaient les évangélistes.
 
 CECI EST MON HOMMAGE À CE GRAND HOMME, « MON HÉROS DU LIVRE D'URANTIA »
 
-La première mention de David Zebedee est liée au raid de poissons en [LU 145:1.1](/fr/The_Urantia_Book/145#p1_1). Après une instruction intense à la foule, Jésus fut encerclé et poussé vers le bord de la mer où se trouvait la barque de David, qui portait le nom de Simon, car elle avait appartenu auparavant à Simon Pierre et avait été construite par lui, Maître lui-même. Il y avait David et un certain Simón (son assistant) qui nettoyaient les filets après une longue nuit sans résultat. Jésus, après avoir interrompu son travail pour parler à la foule depuis le bateau, l'invita à naviguer et à jeter à nouveau les filets. Simon, l'assistant de David, a dit à Jésus que cela n'en valait pas la peine, mais qu'il était prêt à suivre les instructions du Maître parce que David le lui avait dit. Ils jetèrent les filets à l'endroit que leur avait indiqué Jésus, et la prise fut si grande qu'ils durent appeler leurs partenaires qui étaient à terre et ils amenèrent trois autres bateaux qu'ils remplirent jusqu'à leurs plats-bords. A partir de ce jour, David Zébédée et ce Simon quittèrent leurs filets et suivirent le Maître.
+La première mention de David Zebedee est liée au raid de poissons en <a id="a41_69"></a>[LU 145:1.1](/fr/The_Urantia_Book/145#p1_1). Après une instruction intense à la foule, Jésus fut encerclé et poussé vers le bord de la mer où se trouvait la barque de David, qui portait le nom de Simon, car elle avait appartenu auparavant à Simon Pierre et avait été construite par lui, Maître lui-même. Il y avait David et un certain Simón (son assistant) qui nettoyaient les filets après une longue nuit sans résultat. Jésus, après avoir interrompu son travail pour parler à la foule depuis le bateau, l'invita à naviguer et à jeter à nouveau les filets. Simon, l'assistant de David, a dit à Jésus que cela n'en valait pas la peine, mais qu'il était prêt à suivre les instructions du Maître parce que David le lui avait dit. Ils jetèrent les filets à l'endroit que leur avait indiqué Jésus, et la prise fut si grande qu'ils durent appeler leurs partenaires qui étaient à terre et ils amenèrent trois autres bateaux qu'ils remplirent jusqu'à leurs plats-bords. A partir de ce jour, David Zébédée et ce Simon quittèrent leurs filets et suivirent le Maître.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV39/04.jpg">
@@ -149,3 +173,28 @@ Horacio Gamboa Verdugo.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Doris_Calmel/The_reading_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lire le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-39-mars-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 39 — mars 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="pr-2">L'univers est un endroit incroyablement grand</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

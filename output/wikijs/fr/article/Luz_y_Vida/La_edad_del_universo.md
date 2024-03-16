@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Antonio Moya, Carmelo Martínez, Santiago Rodríguez<br>© 2011 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_26_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 26 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-26-septembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 26 — septembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="pr-2">L'unification de la personnalité (deuxième partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants :**
@@ -27,7 +51,7 @@ Et le LU (qui ne dit rien de ce qui s'est passé il y a 14 000 millions d'année
 
 > _*L’époque d’il y a 25 milliards* d’années fut témoin de l’achèvement du cycle tertiaire de la vie nébulaire, et amena l’organisation et la stabilisation relative des immenses systèmes stellaires dérivés de la nébuleuse ancestrale. Mais le phénomène de contraction physique et de production de chaleur accrue se poursuivit dans la masse centrale du résidu nébulaire._
 > 
-> _*Il y a 10 milliards d’années* commença le cycle quaternaire d’Andronover. Le maximum de température de la masse nucléaire avait été atteint ; le point critique de condensation approchait. Le noyau-mère originel se convulsait sous la pression conjuguée de la tension de condensation de sa propre chaleur interne et de l’effet de marée croissant de l’essaim environnant de systèmes solaires libérés. Les éruptions nucléaires, qui devaient inaugurer le second cycle nébulaire de dispersion solaire, étaient imminentes. Le cycle quaternaire de l’existence nébulaire allait commencer._ ([LU 57:4.4-5](/fr/The_Urantia_Book/57#p4_4))
+> _*Il y a 10 milliards d’années* commença le cycle quaternaire d’Andronover. Le maximum de température de la masse nucléaire avait été atteint ; le point critique de condensation approchait. Le noyau-mère originel se convulsait sous la pression conjuguée de la tension de condensation de sa propre chaleur interne et de l’effet de marée croissant de l’essaim environnant de systèmes solaires libérés. Les éruptions nucléaires, qui devaient inaugurer le second cycle nébulaire de dispersion solaire, étaient imminentes. Le cycle quaternaire de l’existence nébulaire allait commencer._ (<a id="a53_586"></a>[LU 57:4.4-5](/fr/The_Urantia_Book/57#p4_4))
 
 Le LU donne BEAUCOUP plus d'âge à l'univers, puisque seule la nébuleuse d'Andronover a commencé beaucoup plus tôt : il y a 875 000 000 000 d'années, l'énorme nébuleuse d'Andronover, numéro 876 926, a été dûment initiée. Que s’est-il passé il y a 14 milliards d’années pour que les scientifiques croient qu’À CE MOMENT l’univers était né ?
 
@@ -160,3 +184,28 @@ On peut constater que les trois lois de la thermodynamique sont applicables loca
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_26_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 26 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-26-septembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 26 — septembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="pr-2">L'unification de la personnalité (deuxième partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

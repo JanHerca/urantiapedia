@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions urantiennes : Vérité universelle, sans dogmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -71,3 +92,25 @@ Cela a été une expérience merveilleuse et m'a amené à rencontrer et à m'in
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/01/31/cuestionario-urantiano-victoriano-izquierdo
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Miguel_Mallorca/Reflexiones_urantianas_Verdad_universal_sin_dogmas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions urantiennes : Vérité universelle, sans dogmes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

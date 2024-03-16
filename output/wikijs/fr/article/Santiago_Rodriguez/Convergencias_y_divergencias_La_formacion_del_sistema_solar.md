@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Santiago Rodríguez<br>© 2012 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Que_es_esto">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que c'est ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-28-mars-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 28 — mars 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/La_difusion_de_El_Libro_de_Urantia_en_Canarias">
+          <span class="pr-2">La diffusion du Livre d'Urantia aux Îles Canaries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans ce troisième volet, nous aborderons ce que nous pourrions considérer comme un événement déjà survenu et, contrairement à ce que nous avons constaté dans les volets précédents de cette section, nous verrons que les Révélateurs donnent des informations qui diffèrent de celles communément admises à l'époque. temps.
 
-En me rappelant ce qui a été indiqué dans [LU 101:4.2](/fr/The_Urantia_Book/101#p4_2), Document 101 « La nature réelle de la religion », 4. LES LIMITES DE LA RÉVÉLATION, je copie textuellement :
+En me rappelant ce qui a été indiqué dans <a id="a39_42"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2), Document 101 « La nature réelle de la religion », 4. LES LIMITES DE LA RÉVÉLATION, je copie textuellement :
 
 > « _Nous savons très bien que les faits historiques et les vérités religieuses de cette série de présentations révélatrices resteront dans les annales des âges à venir, mais d'ici quelques années, nombre de nos déclarations liées aux sciences physiques devront être révisées en raison de développements scientifiques supplémentaires et nouvelles découvertes_ »
 
@@ -39,13 +63,13 @@ Voyons ce que dit le LU sur la formation de notre système solaire, et étonnamm
 
 Je vous suggère de lire le document 57. Il commence par l'histoire de la formation de notre Soleil. Le premier à naître fut le Soleil, apparu il y a 6 milliards d'années, formé à partir d'une deuxième génération de soleils produits principalement par une grande nébuleuse. 
 
-[LU 57:5.3](/fr/The_Urantia_Book/57#p5_3), Document 57, « L'Origine d'Urantia » :
+<a id="a65_0"></a>[LU 57:5.3](/fr/The_Urantia_Book/57#p5_3), Document 57, « L'Origine d'Urantia » :
 
 > « _Ainsi, le cadre de l’espace local était prêt pour l’origine exceptionnelle de *Monmatia,* nom de la famille planétaire de votre soleil, le système solaire auquel appartient votre monde. Moins de un pour cent des systèmes planétaires d’Orvonton ont eu une origine semblable._ »
 
 Pour le moment, il nous révèle qu'il s'agissait d'une origine inhabituelle. Nous avons sur scène un Soleil relativement isolé qui a déjà attiré vers lui une partie des débris qui se trouvaient à proximité, produits au sein de la nébuleuse initiale, résidus même de sa propre formation.
 
-Et il entre en scène dans un immense nuage d'étoiles, initialement étranger au Système Solaire lui-même : « _Il y a 4 milliards et demi d’années, l’énorme système d’Angona commença à s’approcher de ce soleil isolé. Le centre de ce grand système était un géant obscur de l’espace, solide, puissamment chargé, et possédant une prodigieuse force d’attraction gravitationnelle._ » [LU 57:5.4](/fr/The_Urantia_Book/57#p5_4)
+Et il entre en scène dans un immense nuage d'étoiles, initialement étranger au Système Solaire lui-même : « _Il y a 4 milliards et demi d’années, l’énorme système d’Angona commença à s’approcher de ce soleil isolé. Le centre de ce grand système était un géant obscur de l’espace, solide, puissamment chargé, et possédant une prodigieuse force d’attraction gravitationnelle._ » <a id="a71_377"></a>[LU 57:5.4](/fr/The_Urantia_Book/57#p5_4)
 
 De plus, nous devons tenir compte du fait que notre Soleil était une étoile variable, qui avait des périodes de contraction et d'expansion, au cours desquelles il lançait d'énormes langues de matière solaire dans l'espace qui, dans la plupart des cas, sous l'effet de la gravité, retombaient sur le soleil, le même Soleil.
 
@@ -77,3 +101,28 @@ Dans cette rubrique nous serons attentifs à ces hauts et ces bas...
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Que_es_esto">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Qu'est-ce que c'est ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-28-mars-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 28 — mars 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/La_difusion_de_El_Libro_de_Urantia_en_Canarias">
+          <span class="pr-2">La diffusion du Livre d'Urantia aux Îles Canaries</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

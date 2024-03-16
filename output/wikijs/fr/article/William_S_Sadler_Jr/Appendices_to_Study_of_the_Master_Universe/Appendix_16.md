@@ -28,31 +28,31 @@ Les fascicules donnent juste assez d’informations concernant la dimension phys
 
 _Informations concernant les distances: dimensions spatiales_
 
-> <a id="s31_2"></a>[LU 32:2.11](/fr/The_Urantia_Book/32#p2_11). Le rayon du superunivers d’Orvonton représente un peu moins de 250 000 années-lumière.
+> <a id="s30_2"></a>[LU 32:2.11](/fr/The_Urantia_Book/32#p2_11). Le rayon du superunivers d’Orvonton représente un peu moins de 250 000 années-lumière.
 
 Il s’ensuit que le diamètre d’Orvonton (la distance horizontale du bord extérieur au bord intérieur) est deux fois son rayon, soit 500 000 années-lumière.
 
-> <a id="s35_2"></a>[LU 12:1.14](/fr/The_Urantia_Book/12#p1_14). Entre les superunivers et le niveau primaire d’espace se trouve une zone tranquille dont la largeur moyenne est de 400 000 années-lumière.
+> <a id="s34_2"></a>[LU 12:1.14](/fr/The_Urantia_Book/12#p1_14). Entre les superunivers et le niveau primaire d’espace se trouve une zone tranquille dont la largeur moyenne est de 400 000 années-lumière.
 > 
 > (ibid.) À environ un demi-million d’années-lumière au-delà de la périphérie des superunivers, se trouve une zone d’activité énergétique dont «…\[le volume et\] l’intensité croissent sur une distance de plus de 25 millions d’années-lumière». Tout cela se trouve dans le premier niveau d’espace extérieur.
 
 Si cette zone _augmente_ d’intensité sur plus de 25 millions d’années-lumière, il est alors logique d’en déduire qu’elle _décroît_ en intensité sur 25 autres millions d’années-lumière. Ceci signifie que le diamètre transversal du premier niveau d’espace extérieur avoisine les 50 millions d’années-lumière.
 
-> <a id="s41_2"></a>[LU 12:1.15](/fr/The_Urantia_Book/12#p1_15). À plus de 50 millions d’années-lumière au-delà des activités du niveau d’espace primaire, les physiciens d’Uversa ont observé des activités énergétiques encore plus grandes. Ce sont les préliminaires au développement physique du deuxième niveau d’espace extérieur.
+> <a id="s40_2"></a>[LU 12:1.15](/fr/The_Urantia_Book/12#p1_15). À plus de 50 millions d’années-lumière au-delà des activités du niveau d’espace primaire, les physiciens d’Uversa ont observé des activités énergétiques encore plus grandes. Ce sont les préliminaires au développement physique du deuxième niveau d’espace extérieur.
 
 _Informations concernant les créations physiques: les dimensions massiques._
 
-> <a id="s45_2"></a>[LU 12:1.10](/fr/The_Urantia_Book/12#p1_10) Havona avec ses corps de gravité obscurs est plus massif que les sept superunivers réunis. Ceci est dû à l’énorme masse des corps de gravité obscurs qui l’encerclent.
+> <a id="s44_2"></a>[LU 12:1.10](/fr/The_Urantia_Book/12#p1_10) Havona avec ses corps de gravité obscurs est plus massif que les sept superunivers réunis. Ceci est dû à l’énorme masse des corps de gravité obscurs qui l’encerclent.
 > 
-> <a id="s47_2"></a>[LU 12:3.8](/fr/The_Urantia_Book/12#p3_8). Environ 95% de la présente action de gravité de l’Ile du Paradis est occupée par le contrôle des systèmes physiques en dehors du grand univers.
+> <a id="s46_2"></a>[LU 12:3.8](/fr/The_Urantia_Book/12#p3_8). Environ 95% de la présente action de gravité de l’Ile du Paradis est occupée par le contrôle des systèmes physiques en dehors du grand univers.
 
 Ce chiffre de 95 % n’est pas absolument sûr si l’on compare la taille physique des niveaux d’espace extérieurs avec la taille physique du grand univers, en raison de la haute concentration de masse dans les corps de gravité obscurs qui encerclent l’univers central. Si ces corps de gravité obscurs n’étaient pas pris en compte, le chiffre de 95 % serait même plus élevé.
 
 En outre, la masse du grand univers tient plus d’une création physique finie que les univers nouvellement organisés de l’espace extérieur. Le temps qui passe augmentera encore le chiffre de 95 %.
 
-> <a id="s53_2"></a>[LU 31:10.19](/fr/The_Urantia_Book/31#p10_19). Il y a au moins 70 000 agrégats physiques dans l’espace extérieur et chacun d’eux est plus grand qu’un superunivers.
+> <a id="s52_2"></a>[LU 31:10.19](/fr/The_Urantia_Book/31#p10_19). Il y a au moins 70 000 agrégats physiques dans l’espace extérieur et chacun d’eux est plus grand qu’un superunivers.
 > 
-> <a id="s55_2"></a>[LU 12:2.3](/fr/The_Urantia_Book/12#p2_3). Un jour ou l’autre, nos astronomes verront «…au moins 375 millions de nouvelles galaxies dans les lointaines étendues de l’espace extérieur.»
+> <a id="s54_2"></a>[LU 12:2.3](/fr/The_Urantia_Book/12#p2_3). Un jour ou l’autre, nos astronomes verront «…au moins 375 millions de nouvelles galaxies dans les lointaines étendues de l’espace extérieur.»
 
 La question est de savoir si ces deux affirmations se réfèrent aux mêmes masses, ou à des créations physiques différentes . Dans cette étude, nous assumerons que les 70 000 agrégats sont tous dans le niveau d’espace primaire et que ces groupes majeurs forment les 375 millions de galaxies. Une considération superficielle de cette donnée pourrait suggérer que les 375 millions de galaxies soient dans le deuxième niveau d’espace ; mais, si c’était le cas, nous ne pourrions pas les voir. Nos télescopes ne peuvent pas voir à travers Orvonton, à cause de la poussière de l’espace, et cela représente seulement un demi-million d’années-lumière. Comment pourrions-nous jamais espérer voir au-delà du premier niveau d’espace qui représente plus de 50 millions d’années-lumière ? [^1]
 

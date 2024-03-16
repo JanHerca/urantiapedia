@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — octobre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Garcia_Bory/Reflexiones_urantianas">
+          <span class="pr-2">Réflexions urantiennes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -39,7 +63,7 @@ Lorsque le livre bleu est apparu et a été diffusé le 12 octobre 1955, il y a 
 
 En ce moment même, en octobre, nous célébrons le 67ème anniversaire de la publication du _Le Livre d'Urantia_. Un livre qui formule au début son intention d’élargir notre vision du monde et notre développement spirituel :
 
-> Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. ([LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
+> Dans notre effort pour étendre la conscience cosmique et rehausser la perception spirituelle, il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. (<a id="a65_415"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-2.jpg" alt="Editorial oct 22-2">
@@ -51,11 +75,11 @@ Cette manière frappante de révéler les projets de la Divinité, non pas en ut
 
 Le même livre met en lumière ce désir divin de communication, cet effort de se révéler avec une multitude de ressources :
 
-> Notre Père ne se cache pas, il ne vit pas dans une solitude arbitraire. Il a mobilisé les ressources de la sagesse divine dans un effort sans fin pour se révéler aux enfants de ses domaines universels. Il y a une grandeur infinie et une générosité inexprimable liées à la majesté de son amour qui cause en lui l’ardent désir de voir s’associer à lui toute créature capable de le comprendre, de l’aimer ou de l’approcher. Ce sont donc les limitations inhérentes à vous, inséparables de votre personnalité finie et de votre existence matérielle, qui déterminent l’heure, le lieu et les circonstances où vous pourrez atteindre le but du voyage de l’ascension des mortels et vous tenir en présence du Père au centre de toutes choses. ([LU 5:1.2](/fr/The_Urantia_Book/5#p1_2))
+> Notre Père ne se cache pas, il ne vit pas dans une solitude arbitraire. Il a mobilisé les ressources de la sagesse divine dans un effort sans fin pour se révéler aux enfants de ses domaines universels. Il y a une grandeur infinie et une générosité inexprimable liées à la majesté de son amour qui cause en lui l’ardent désir de voir s’associer à lui toute créature capable de le comprendre, de l’aimer ou de l’approcher. Ce sont donc les limitations inhérentes à vous, inséparables de votre personnalité finie et de votre existence matérielle, qui déterminent l’heure, le lieu et les circonstances où vous pourrez atteindre le but du voyage de l’ascension des mortels et vous tenir en présence du Père au centre de toutes choses. (<a id="a77_733"></a>[LU 5:1.2](/fr/The_Urantia_Book/5#p1_2))
 
 Les révélateurs savent que cette communication inhabituelle sera possible non seulement grâce au contenu du livre mais aussi grâce à la présence interne d’une Étincelle divine. Voici la clé pour comprendre le texte :
 
-> Bien que, pour vous approcher de la présence du Père au Paradis, il vous faille attendre d’avoir atteint les niveaux finis les plus élevés de progrès en esprit, vous devriez vous réjouir en reconnaissant la possibilité toujours présente de communier immédiatement avec l’esprit effusé du Père, qui est si intimement associé à votre âme intérieure et à votre moi en cours de spiritualisation. ([LU 5:1.3](/fr/The_Urantia_Book/5#p1_3))
+> Bien que, pour vous approcher de la présence du Père au Paradis, il vous faille attendre d’avoir atteint les niveaux finis les plus élevés de progrès en esprit, vous devriez vous réjouir en reconnaissant la possibilité toujours présente de communier immédiatement avec l’esprit effusé du Père, qui est si intimement associé à votre âme intérieure et à votre moi en cours de spiritualisation. (<a id="a81_395"></a>[LU 5:1.3](/fr/The_Urantia_Book/5#p1_3))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_10/Editorial-oct-22-3.jpg" alt="Editorial oct 22-3">
@@ -77,3 +101,28 @@ Passons la porte qu'est _Le Livre d'Urantia_, découvrons en le lisant ce qui a 
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/09/29/editorial-octubre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — octobre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Garcia_Bory/Reflexiones_urantianas">
+          <span class="pr-2">Réflexions urantiennes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

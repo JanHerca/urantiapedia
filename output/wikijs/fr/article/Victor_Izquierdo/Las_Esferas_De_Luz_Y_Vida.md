@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Víctor Izquierdo<br>© 2005 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Mondes d'Estancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="pr-2">L'évolution de la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -40,7 +64,7 @@ N'importe quel monde peut atteindre les valeurs planétaires de n'importe quelle
 
 _Le temple morontiel_ : la présence du temple morontiel est le certificat d'admission aux âges de lumière et de vie. Les Fils Instructeurs président le jour où le saint temple descend sur terre, avant de quitter ce monde à la fin de leur mission.
 
-Cet événement est toujours honoré de la présence du Fils Paradisiaque de l'Effusion sur ladite planète et marque le début de l'ère de la Lumière et de la Vie. Ce Fils proclame le Prince Planétaire comme le nouveau Souverain Planétaire, accordant à ce Fils Lanonandec de nouveaux pouvoirs et une plus grande autorité sur les affaires planétaires. Le Souverain du Système est également présent et confirme ces affirmations ([LU 45:2.2](/fr/The_Urantia_Book/45#p2_2)).
+Cet événement est toujours honoré de la présence du Fils Paradisiaque de l'Effusion sur ladite planète et marque le début de l'ère de la Lumière et de la Vie. Ce Fils proclame le Prince Planétaire comme le nouveau Souverain Planétaire, accordant à ce Fils Lanonandec de nouveaux pouvoirs et une plus grande autorité sur les affaires planétaires. Le Souverain du Système est également présent et confirme ces affirmations (<a id="a66_422"></a>[LU 45:2.2](/fr/The_Urantia_Book/45#p2_2)).
 
 Le temple morontiel est composé de 3 parties :
 - Central : Sanctuaire du Paradis Fils de l'Éfusion
@@ -146,3 +170,28 @@ Tout comme le Livre nous le dit, la vraie religion est une façon de vivre. L'é
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Mondes d'Estancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="pr-2">L'évolution de la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

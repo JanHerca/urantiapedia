@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Ernesto Veloso<br>© 2009 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_mente_segun_la_revelacion_3a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'esprit selon la révélation (dernière partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-18-septembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 18 — septembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="pr-2">Combien de mortels survivent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a quelques semaines, lors d'une réunion de groupe, un invité nous a demandé de lui expliquer ce qu'était Dieu. Cette question m'a rappelé la fois où un ami m'a invité à une conférence où il parlait du non-manifesté. J'ai été totalement étonné pour la simple raison que personne ne peut parler de ce qu'il ne sait pas. Vouloir dire quelque chose sur le non-manifesté, c’est comme vouloir expliquer Dieu. Dieu ne s’explique pas, Dieu se vit et se connaît uniquement à travers l’expérience personnelle. Nous devons découvrir Dieu chaque jour dans les petits actes de la vie, car chaque minute que nous vivons est une nouvelle découverte par la foi de l'existence de Dieu dans nos vies. Le non-manifesté peut être le plus grand et en même temps le plus simple, comme demain ou la minute à venir.
@@ -21,7 +45,7 @@ Le fini ne pourra jamais connaître l’infini, et encore moins le contenir. De 
 
 Mais le non-manifesté n’appartient pas seulement au futur ; il se peut que le non-manifesté se produise maintenant. Comprenons-nous ou savons-nous comment des milliers de phénomènes physiques et mentaux se produisent ? Nous apprécions l’électricité, l’eau est une bénédiction et la gravité, même si elle peut parfois nous tuer, est essentielle à la permanence de notre monde. Et je demande : Qui a vu se former une goutte d’eau ? Qu’est-ce que l’électricité réellement ? Comment Dieu contrôle-t-il la gravité ? Ces trois choses font partie de notre vie quotidienne, nous les avons vues depuis que nous sommes enfants et peut-être parce qu'elles sont si courantes, nous ne réalisons pas qu'une partie de ces attributs inconnus de Dieu qui ont à voir avec le contrôle de la matière physique en eux sont évident dans ces mondes matériels comme le nôtre.
 
-Il est bon de lever les yeux et d'étendre notre regard au-delà de l'immensité du futur et des étoiles, en essayant de nous donner des réponses et de savoir ce qu'est Dieu et comment, mais nous oublions que Notre Père est si grand qu'il ne rentre pas dans le monde. univers et cela en même temps Parfois sa présence se fait dans la fleur la plus insignifiante qui ne dure que quelques heures au printemps. Le mystère de Dieu nous entoure, et un conseiller divin de la LU, [LU 3:4.5](/fr/The_Urantia_Book/3#p4_5) nous dit : « _Bien que je vienne de la demeure très proche de la Divinité, je ne peux pas prétendre parler avec une parfaite compréhension de l'infinité de beaucoup. attributs Divins. Seule l’infinité de l’esprit peut pleinement comprendre l’infinité de l’existence et l’éternité de l’action.
+Il est bon de lever les yeux et d'étendre notre regard au-delà de l'immensité du futur et des étoiles, en essayant de nous donner des réponses et de savoir ce qu'est Dieu et comment, mais nous oublions que Notre Père est si grand qu'il ne rentre pas dans le monde. univers et cela en même temps Parfois sa présence se fait dans la fleur la plus insignifiante qui ne dure que quelques heures au printemps. Le mystère de Dieu nous entoure, et un conseiller divin de la LU, <a id="a47_471"></a>[LU 3:4.5](/fr/The_Urantia_Book/3#p4_5) nous dit : « _Bien que je vienne de la demeure très proche de la Divinité, je ne peux pas prétendre parler avec une parfaite compréhension de l'infinité de beaucoup. attributs Divins. Seule l’infinité de l’esprit peut pleinement comprendre l’infinité de l’existence et l’éternité de l’action.
 
 Ceci est dit par un conseiller divin dont la sagesse, les connaissances et la spiritualité dépassent de loin les nôtres. À l’exception de l’univers central de Havona, les sept superunivers restants sont sur le chemin de la perfection. Il est logique de penser qu’à mesure que l’on avance vers le stade de Lumière et de Vie, de nouveaux attributs de la Divinité seront révélés. Maintenant, parler de ce que seront ces attributs et dans quelles facettes de la vie ils se manifesteront est quelque chose que personne ne peut faire, même s’il s’agit d’un conseiller divin. En revanche, si la création matérielle continue à s'étendre, cela signifie que de nouveaux pouvoirs de contrôle de la part de la Divinité se manifesteront par rapport à ces nouvelles créations, c'est évident. Mais parler de ces manifestations reviendrait à décrire les voitures de l’an 3000.
 
@@ -37,3 +61,28 @@ La vie moderne, avec son haut niveau de technologie et de science, si elle a él
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_mente_segun_la_revelacion_3a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'esprit selon la révélation (dernière partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-18-septembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 18 — septembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="pr-2">Combien de mortels survivent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

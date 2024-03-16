@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_05">
+          <span class="pr-2">Éditorial Luz y Vida – Mai 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -179,7 +200,7 @@ Mar Enseigne
 <img src="/image/article/Luz_y_Vida/LyV_2023_05/Mi-parrafo-favorito-Mar-Alferez.png" alt="Mi párrafo favorito-Mar Alférez">
 </figure>
 
-> Le Père Universel a décrété : « Soyez parfaits comme moi-même je suis parfait. » ([LU 26:4.12](/fr/The_Urantia_Book/26#p4_12))
+> Le Père Universel a décrété : « Soyez parfaits comme moi-même je suis parfait. » (<a id="a202_84"></a>[LU 26:4.12](/fr/The_Urantia_Book/26#p4_12))
 
 J'ai souvent pensé à la difficulté de ce décret. Et comment est-ce parfait ? En quoi consiste cette perfection qui nous est demandée ? En réfléchissant à ce mandat, j’ai dû l’approfondir et comprendre, d’une manière ou d’une autre, ce qu’il signifie. Comprenez ce que le Père attend de moi, de nous. Parce que je sais que je suis imparfait et parce que l'humanité est imparfaite. Même la nature est imparfaite.
 
@@ -187,9 +208,9 @@ C'est Jésus qui m'a donné un indice :
 
 L'amour fraternel signifie aimer son prochain comme soi-même, et ce serait le bon accomplissement de la « règle d'or ». Mais l’affection paternelle exige que vous aimiez vos pairs comme Jésus vous aime. 140:5:1 (1573,3)
 
-Je vous le dis : aimez vos ennemis, faites du bien à ceux qui vous haïssent, bénissez ceux qui vous maudissent et priez pour ceux qui vous maltraitent. Et quoi que tu penses que je ferais pour les hommes, fais-le toi-même. [LU 140:3.15](/fr/The_Urantia_Book/140#p3_15)
+Je vous le dis : aimez vos ennemis, faites du bien à ceux qui vous haïssent, bénissez ceux qui vous maudissent et priez pour ceux qui vous maltraitent. Et quoi que tu penses que je ferais pour les hommes, fais-le toi-même. <a id="a210_223"></a>[LU 140:3.15](/fr/The_Urantia_Book/140#p3_15)
 
-Votre Père céleste fait briller le soleil sur les méchants comme sur les bons ; De la même manière, il fait pleuvoir sur les justes et sur les injustes. Vous êtes les enfants de Dieu ; Plus encore, vous êtes désormais les ambassadeurs du royaume de mon Père. Soyez miséricordieux, tout comme Dieu est miséricordieux, et dans l’avenir éternel du royaume, vous serez parfaits, tout comme votre Père céleste est parfait. [LU 140:3.16](/fr/The_Urantia_Book/140#p3_16)
+Votre Père céleste fait briller le soleil sur les méchants comme sur les bons ; De la même manière, il fait pleuvoir sur les justes et sur les injustes. Vous êtes les enfants de Dieu ; Plus encore, vous êtes désormais les ambassadeurs du royaume de mon Père. Soyez miséricordieux, tout comme Dieu est miséricordieux, et dans l’avenir éternel du royaume, vous serez parfaits, tout comme votre Père céleste est parfait. <a id="a212_418"></a>[LU 140:3.16](/fr/The_Urantia_Book/140#p3_16)
 
 Il est vrai qu’il semble que Jésus nous demande un amour disproportionné, mais en réalité ce n’est pas le cas. C'est simple et proportionné. C’est donner de la nourriture à ceux qui ont faim et de l’eau à ceux qui ont soif. C’est tendre la main à ceux qui en ont besoin. Si le mot _voisin_ signifie _suivant_, cela signifie être à côté de ceux qui sont proches et les aimer. Mais plus encore, il ne s’agit pas de voir qui est son voisin, mais d’être soi-même voisin. Prochain de ceux qui sont proches et éloignés, même de mes ennemis. Je n'ai pas besoin d'aller au cinéma avec mon ennemi, ni de me rapprocher de quelqu'un qui me fait du mal, mais je peux prier pour lui et lui souhaiter bonne chance.
 
@@ -296,3 +317,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_05">
+          <span class="pr-2">Éditorial Luz y Vida – Mai 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

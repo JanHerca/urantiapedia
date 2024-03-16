@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Antonio Moya et Carmelo Martínez<br>© 2011 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'unification de la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-24-mars-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 24 — mars 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_9">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Antonio
@@ -23,29 +47,29 @@ Quelle était leur intention avec ce laissez-passer ? Observez ce que la volont�
 
 Les extraits que j'ai trouvés pour élucider cette affaire sont les suivants :
 
-> _Quand il y a lieu d’affecter un dirigeant à une planète donnée, la décision d’un Souverain de Système est déclenchée par une demande des Porteurs de Vie réclamant un chef administratif pour un monde où ils ont établi la vie et développé des êtres évolutionnaires intelligents. Toutes les planètes habitées par des créatures mortelles évolutionnaires se voient affecter un dirigeant planétaire de cet ordre de filiation._ ([LU 50:0.2](/fr/The_Urantia_Book/50#p0_2))
+> _Quand il y a lieu d’affecter un dirigeant à une planète donnée, la décision d’un Souverain de Système est déclenchée par une demande des Porteurs de Vie réclamant un chef administratif pour un monde où ils ont établi la vie et développé des êtres évolutionnaires intelligents. Toutes les planètes habitées par des créatures mortelles évolutionnaires se voient affecter un dirigeant planétaire de cet ordre de filiation._ (<a id="a49_425"></a>[LU 50:0.2](/fr/The_Urantia_Book/50#p0_2))
 
-> _La raison principale pour faire venir des ascendeurs mortels de la capitale du système et les intégrer dans l’état-major du Prince Planétaire est de faciliter les communications avec les habitants du royaume._ ([LU 50:2.7](/fr/The_Urantia_Book/50#p2_7))
+> _La raison principale pour faire venir des ascendeurs mortels de la capitale du système et les intégrer dans l’état-major du Prince Planétaire est de faciliter les communications avec les habitants du royaume._ (<a id="a51_214"></a>[LU 50:2.7](/fr/The_Urantia_Book/50#p2_7))
 
-> _Sur une planète évolutionnaire ordinaire, les six races évolutionnaires de couleur apparaissent l’une après l’autre. L’homme rouge évolue le premier et parcourt le monde pendant des âges avant que les races colorées suivantes ne fassent leur apparition. L’émergence simultanée des six races sur Urantia, et *au sein d’une seule famille,* fut tout à fait exceptionnelle._ ([LU 64:6.1](/fr/The_Urantia_Book/64#p6_1))
+> _Sur une planète évolutionnaire ordinaire, les six races évolutionnaires de couleur apparaissent l’une après l’autre. L’homme rouge évolue le premier et parcourt le monde pendant des âges avant que les races colorées suivantes ne fassent leur apparition. L’émergence simultanée des six races sur Urantia, et *au sein d’une seule famille,* fut tout à fait exceptionnelle._ (<a id="a53_375"></a>[LU 64:6.1](/fr/The_Urantia_Book/64#p6_1))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV24/12.jpg">
 </figure>
 
-> _L’apparition des premiers Andonites sur Urantia avait aussi été quelque chose de nouveau dans Satania. Sur aucun autre monde du système local une pareille race de créatures volitives n’était apparue en avance sur les races évolutionnaires de couleur._ ([LU 64:6.2](/fr/The_Urantia_Book/64#p6_2))
+> _L’apparition des premiers Andonites sur Urantia avait aussi été quelque chose de nouveau dans Satania. Sur aucun autre monde du système local une pareille race de créatures volitives n’était apparue en avance sur les races évolutionnaires de couleur._ (<a id="a59_256"></a>[LU 64:6.2](/fr/The_Urantia_Book/64#p6_2))
 
-> _Il y eut beaucoup de particularités uniques dans l’expérience de vie d’Urantia, mais les deux épisodes les plus remarquables furent l’apparition de la race andonique avant l’évolution des six peuples de couleur, et l’apparition ultérieure et simultanée des mutants sangiks au sein d’une seule famille. Urantia est le premier monde de Satania où les six races de couleur soient issues de la même famille humaine. Elles surgissent ordinairement, dans des lignées diversifiées, par suite de mutations indépendantes à l’intérieur de la souche animale préhumaine, et apparaissent habituellement sur terre une à une et successivement au cours de longues périodes, en commençant par l’homme rouge, en passant par les diverses autres couleurs, et en finissant par l’indigo._ ([LU 65:4.7](/fr/The_Urantia_Book/65#p4_7))
+> _Il y eut beaucoup de particularités uniques dans l’expérience de vie d’Urantia, mais les deux épisodes les plus remarquables furent l’apparition de la race andonique avant l’évolution des six peuples de couleur, et l’apparition ultérieure et simultanée des mutants sangiks au sein d’une seule famille. Urantia est le premier monde de Satania où les six races de couleur soient issues de la même famille humaine. Elles surgissent ordinairement, dans des lignées diversifiées, par suite de mutations indépendantes à l’intérieur de la souche animale préhumaine, et apparaissent habituellement sur terre une à une et successivement au cours de longues périodes, en commençant par l’homme rouge, en passant par les diverses autres couleurs, et en finissant par l’indigo._ (<a id="a61_771"></a>[LU 65:4.7](/fr/The_Urantia_Book/65#p4_7))
 
-> _Une autre variation de procédure importante fut l’arrivée tardive du Prince Planétaire. En règle générale, le prince apparait sur une planète à peu près au moment où la volonté se développe, et, si ce plan avait été suivi, Caligastia aurait pu venir sur Urantia même du vivant d’Andon et de Fonta au lieu d’arriver presque cinq-cent-mille ans plus tard, simultanément avec l’apparition des six races sangiks._ ([LU 65:4.8](/fr/The_Urantia_Book/65#p4_8))
+> _Une autre variation de procédure importante fut l’arrivée tardive du Prince Planétaire. En règle générale, le prince apparait sur une planète à peu près au moment où la volonté se développe, et, si ce plan avait été suivi, Caligastia aurait pu venir sur Urantia même du vivant d’Andon et de Fonta au lieu d’arriver presque cinq-cent-mille ans plus tard, simultanément avec l’apparition des six races sangiks._ (<a id="a63_414"></a>[LU 65:4.8](/fr/The_Urantia_Book/65#p4_8))
 
-> _Sur un monde habité ordinaire, un Prince Planétaire aurait été accordé à la requête des Porteurs de Vie lors de l’apparition d’Andon et de Fonta, ou peu de temps après. Mais, comme Urantia avait été désignée comme planète où la vie est modifiée, ce fut par accord préalable que les Melchizédeks observateurs, au nombre de douze, furent envoyés comme conseillers auprès des Porteurs de Vie et comme surveillants de la planète jusqu’à l’arrivée ultérieure du Prince Planétaire. Ces Melchizédeks arrivèrent au moment où Andon et Fonta prirent les décisions qui permirent à des Ajusteurs de Pensée d’habiter leur mental humain._ ([LU 65:4.9](/fr/The_Urantia_Book/65#p4_9))
+> _Sur un monde habité ordinaire, un Prince Planétaire aurait été accordé à la requête des Porteurs de Vie lors de l’apparition d’Andon et de Fonta, ou peu de temps après. Mais, comme Urantia avait été désignée comme planète où la vie est modifiée, ce fut par accord préalable que les Melchizédeks observateurs, au nombre de douze, furent envoyés comme conseillers auprès des Porteurs de Vie et comme surveillants de la planète jusqu’à l’arrivée ultérieure du Prince Planétaire. Ces Melchizédeks arrivèrent au moment où Andon et Fonta prirent les décisions qui permirent à des Ajusteurs de Pensée d’habiter leur mental humain._ (<a id="a65_629"></a>[LU 65:4.9](/fr/The_Urantia_Book/65#p4_9))
 
-> _Il était dans notre intention de produire de bonne heure une manifestation de la volonté dans la vie évolutionnaire d’Urantia et nous avons réussi. Habituellement, la volonté n’émerge pas avant que les races de couleur aient longtemps existé ; elle apparait généralement d’abord chez les types supérieurs d’hommes rouges. Votre monde est la seule planète de Satania où le type humain de volonté soit apparu dans une race antérieure aux races de couleur._ ([LU 65:4.11](/fr/The_Urantia_Book/65#p4_11))
+> _Il était dans notre intention de produire de bonne heure une manifestation de la volonté dans la vie évolutionnaire d’Urantia et nous avons réussi. Habituellement, la volonté n’émerge pas avant que les races de couleur aient longtemps existé ; elle apparait généralement d’abord chez les types supérieurs d’hommes rouges. Votre monde est la seule planète de Satania où le type humain de volonté soit apparu dans une race antérieure aux races de couleur._ (<a id="a67_459"></a>[LU 65:4.11](/fr/The_Urantia_Book/65#p4_11))
 
 Mais le Prince Planétaire est arrivé sur Urantia près d’un demi-million d’années après l’émergence de la volonté humaine.
 
-> _Il y a environ cinq-cent-mille ans, et concurremment avec l’apparition des six races de couleur ou races Sangik, Caligastia, le Prince Planétaire, arriva sur Urantia. Il y avait alors sur terre presque un demi-milliard d’êtres humains primitifs, largement dispersés sur l’Europe, l’Asie et l’Afrique. Le quartier général du prince, établi en Mésopotamie, était à peu près au centre du monde habité._ ([LU 66:0.2](/fr/The_Urantia_Book/66#p0_2))
+> _Il y a environ cinq-cent-mille ans, et concurremment avec l’apparition des six races de couleur ou races Sangik, Caligastia, le Prince Planétaire, arriva sur Urantia. Il y avait alors sur terre presque un demi-milliard d’êtres humains primitifs, largement dispersés sur l’Europe, l’Asie et l’Afrique. Le quartier général du prince, établi en Mésopotamie, était à peu près au centre du monde habité._ (<a id="a71_404"></a>[LU 66:0.2](/fr/The_Urantia_Book/66#p0_2))
 
 <ins>Processus dans un monde normal :</ins>
 
@@ -108,3 +132,28 @@ Il semble que l’expérience ne se soit pas très bien déroulée. Ou oui? Comm
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'unification de la personnalité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-24-mars-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 24 — mars 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_9">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

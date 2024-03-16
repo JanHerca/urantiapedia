@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Eduardo Altuzarra<br>© 2014 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_discurso_sobre_la_verdadera_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le discours sur la vraie religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-37-juin-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 37 — juin 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="pr-2">La Parabole des Mines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour comprendre la parabole du propriétaire de la vigne et des deniers, c'est-à-dire « La discussion sur la richesse », il faut relire l'intégralité du [Document 163](/fr/The_Urantia_Book/163).
@@ -25,13 +49,13 @@ André présente Jésus à un certain jeune homme riche, fervent croyant et dés
 
 Le document dit que :
 
-> _Il en a toujours été ainsi et il en sera toujours ainsi : il faut que les hommes prennent leurs propres décisions. Les mortels peuvent exercer librement leur choix dans un domaine d’une certaine étendue. Les forces du monde spirituel ne cherchent pas à contraindre l’homme ; elles lui permettent de suivre la voie qu’il a lui-même choisie._ ([LU 163:2.8](/fr/The_Urantia_Book/163#p2_8))
+> _Il en a toujours été ainsi et il en sera toujours ainsi : il faut que les hommes prennent leurs propres décisions. Les mortels peuvent exercer librement leur choix dans un domaine d’une certaine étendue. Les forces du monde spirituel ne cherchent pas à contraindre l’homme ; elles lui permettent de suivre la voie qu’il a lui-même choisie._ (<a id="a51_345"></a>[LU 163:2.8](/fr/The_Urantia_Book/163#p2_8))
 
 Il semble que, des années plus tard, ce garçon ait pu réaliser le rêve qu’il n’osait pas réaliser auparavant en raison de son attachement aux choses matérielles.
 
 Le document dit également :
 
-> _Les richesses n’ont pas de rapports directs avec l’entrée dans le royaume des cieux, mais l’amour des richesses en a. La loyauté spirituelle envers le royaume est incompatible avec la servilité envers le mammon matérialiste. Les hommes ne peuvent partager avec une dévotion matérielle leur fidélité suprême à un idéal spirituel._ ([LU 163:2.10](/fr/The_Urantia_Book/163#p2_10))
+> _Les richesses n’ont pas de rapports directs avec l’entrée dans le royaume des cieux, mais l’amour des richesses en a. La loyauté spirituelle envers le royaume est incompatible avec la servilité envers le mammon matérialiste. Les hommes ne peuvent partager avec une dévotion matérielle leur fidélité suprême à un idéal spirituel._ (<a id="a57_334"></a>[LU 163:2.10](/fr/The_Urantia_Book/163#p2_10))
 
 Jésus a expliqué que, si la richesse que l'on possède n'envahit pas l'enceinte de l'âme, cela n'a aucune conséquence sur la vie spirituelle de celui qui souhaite entrer dans le royaume des cieux. Il dit que le Père traite toutes ses créatures selon leurs besoins et toujours conformément aux justes lois de la considération miséricordieuse et aimante pour le bien-être de l'univers.
 
@@ -52,3 +76,28 @@ Jésus a expliqué que, si la richesse que l'on possède n'envahit pas l'enceint
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_discurso_sobre_la_verdadera_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le discours sur la vraie religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-37-juin-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 37 — juin 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jaime_Marco/La_parabola_de_las_minas">
+          <span class="pr-2">La Parabole des Mines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

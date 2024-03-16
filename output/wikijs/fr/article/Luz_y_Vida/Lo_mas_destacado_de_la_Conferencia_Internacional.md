@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Texte : Olga López. Photos : Demetrio Gómez et Paco Ruiz<br>© 2009 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Genesis_de_la_Conferencia_Internacional">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Genèse de la Conférence internationale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-17-mai-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 17 — mai 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Même si certains participants étaient déjà à l'hôtel depuis quelques jours, la conférence internationale a officiellement débuté le vendredi 17 avril à dix heures du soir (un peu tard par rapport aux normes européennes, mais vous savez, « c'est l'Espagne »). Un cocktail de bienvenue a eu lieu, où les participants ont eu l'occasion de discuter de manière animée, de renouer avec d'anciens amis et d'en rencontrer de nouveaux.
@@ -264,9 +285,31 @@ C'était une belle touche finale à la conférence. La soirée s'est terminée t
 
 Très prochainement, nous mettrons sur notre site Internet le matériel multimédia lié à la conférence internationale, ainsi que le texte des présentations. Visitez notre site Web périodiquement, http://www.urantia.es
 
-> « ...mais toutes les choses valables de votre vie mentale qui avaient une valeur de survie ont eu leur contrepartie établie par l’Ajusteur et sont retenues comme partie de la mémoire personnelle tout au long de la carrière ascendante. Vous resterez conscient de toutes vos expériences valables quand vous avancerez d’un monde des maisons à un autre et d’une section de l’univers à une autre — même jusqu’au Paradis. » ([LU 47:4.5](/fr/The_Urantia_Book/47#p4_5))
+> « ...mais toutes les choses valables de votre vie mentale qui avaient une valeur de survie ont eu leur contrepartie établie par l’Ajusteur et sont retenues comme partie de la mémoire personnelle tout au long de la carrière ascendante. Vous resterez conscient de toutes vos expériences valables quand vous avancerez d’un monde des maisons à un autre et d’une section de l’univers à une autre — même jusqu’au Paradis. » (<a id="a287_421"></a>[LU 47:4.5](/fr/The_Urantia_Book/47#p4_5))
 
 ## Références
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Genesis_de_la_Conferencia_Internacional">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Genèse de la Conférence internationale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-17-mai-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 17 — mai 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

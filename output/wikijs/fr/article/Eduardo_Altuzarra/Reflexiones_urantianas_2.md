@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Eduardo Altuzarra<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman">
+          <span class="pr-2">Questionnaire Urantien : Martín Guzmán</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -43,7 +67,7 @@ Il a des qualités pour nous faire comprendre que la science aide, la religion u
 
 N'ayons pas honte de reconnaître sa puissance et sa valeur, acceptons volontiers qu'il puisse nous transmettre sa divinité tout au long de notre voyage avec lui. Ne soyons pas scandalisés en pensant si nous pouvons être onéreux en sollicitant ses services pour nous éclairer dans notre vie. des moments sombres dans lesquels nous devons prendre des décisions avec une certaine responsabilité. Allons vers Lui en le remerciant pour nos bonnes situations et en lui demandant pardon pour les erreurs commises. Déposons nos affaires en Lui afin qu'avec sa magnificence, Il les établisse dans l'ordre correspondant.
 
-> L’existence de Dieu ne pourra jamais être prouvée par des expériences scientifiques, ni par des déductions logiques de la raison pure. On ne peut réaliser ce qu’est Dieu que dans les domaines de l’expérience humaine. Toutefois, le vrai concept de la réalité de Dieu est raisonnable pour la logique, plausible pour la philosophie, essentiel pour la religion et indispensable pour tout espoir de survie de la personnalité. ([LU 1:2.7](/fr/The_Urantia_Book/1#p2_7))
+> L’existence de Dieu ne pourra jamais être prouvée par des expériences scientifiques, ni par des déductions logiques de la raison pure. On ne peut réaliser ce qu’est Dieu que dans les domaines de l’expérience humaine. Toutefois, le vrai concept de la réalité de Dieu est raisonnable pour la logique, plausible pour la philosophie, essentiel pour la religion et indispensable pour tout espoir de survie de la personnalité. (<a id="a69_424"></a>[LU 1:2.7](/fr/The_Urantia_Book/1#p2_7))
 
 D’ici et maintenant, nous sommes prêts à nous positionner sur la ligne de départ. Nous sommes prêts à entamer la carrière la plus importante et la plus conséquente de notre vie, et ce sera peut-être la seule, car il n'y a peut-être aucune chance, du moins dans cette vie et dans ce monde.
 
@@ -78,3 +102,28 @@ Un livre révélé à l'humanité pour sa transformation.
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/02/27/reflexiones-urantianas-despertar-a-una-nueva-consciencia-segunda-parte/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – Mars 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Martin_Guzman">
+          <span class="pr-2">Questionnaire Urantien : Martín Guzmán</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

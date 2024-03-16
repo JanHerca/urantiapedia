@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naviguer dans la vie – Les niveaux évolutifs des émotions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -69,3 +90,25 @@ Je suis tout à fait sûr que ce livre donnera un autre tournant à ce monde, ca
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/03/30/cuestionario-urantiano-esteban-cotan
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Assumpcio_Salat/Navegando_por_la_vida_Niveles_evolutivos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naviguer dans la vie – Les niveaux évolutifs des émotions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

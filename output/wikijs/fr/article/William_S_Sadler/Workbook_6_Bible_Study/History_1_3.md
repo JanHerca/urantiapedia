@@ -39,7 +39,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Thessalonique.
 5. Paul a écrit dix lettres à ces sept églises. Ils ont été distribués dans un seul livre—[Ephesians](/fr/Bible/Ephesians/1#v1) comme introduction.
 6. En 95 ap. J.-C., Clément, de Rome, écrivit une lettre à l'église de Corinthe.
-7. Les trois évangiles, plus tard quatre, étaient dans un livre séparé. Dates de rédaction, selon le Livre d'Urantia : Marc 68 après JC, Matthieu 71 après JC, Luc 82 après JC et Jean 101 après JC. <a id="s42_197"></a>[LU 121:8.2](/fr/The_Urantia_Book/121#p8_2)
+7. Les trois évangiles, plus tard quatre, étaient dans un livre séparé. Dates de rédaction, selon le Livre d'Urantia : Marc 68 après JC, Matthieu 71 après JC, Luc 82 après JC et Jean 101 après JC. <a id="s41_197"></a>[LU 121:8.2](/fr/The_Urantia_Book/121#p8_2)
 8. Vers l'an 125 après J.-C. [Marcion](https://en.wikipedia.org/wiki/Marcion_of_Sinope), un laïc du Pont, a utilisé l'évangile de Luc et les lettres de Paul comme nouvelle Bible.
 9. [Athenagoras, d'Athènes](https://en.wikipedia.org/wiki/Athenagoras_of_Athens), a utilisé les quatre évangiles et les dix lettres de Paul comme «tout sauf l'Écriture».
 10. [Theophilus, of Antioch](https://en.wikipedia.org/wiki/Theophilus_of_Antioch), (AD 180) a utilisé les évangiles et les lettres de Paul comme « écritures chrétiennes ».
@@ -105,18 +105,18 @@ dateCreated: 2022-10-08T14:02:03.086Z
 8. Illustration de l'harmonisation.
 	[Mat. 12:13](/fr/Bible/Matthew/12#v13). L'homme à la main flétrie. Matt, lit : "Puis il a dit à l'homme : 'Étends ta main. Et l'homme l'étendit, et il fut restauré, entier comme l'autre.
 	Les premières copies de Marc et Luc ne contiennent pas «tout comme l'autre». Mais de plus en plus, les copies ultérieures contiennent cet ajout.
-	**NOTE** : Le Livre d'Urantia <a id="s108_31"></a>[LU 148:7.2](/fr/The_Urantia_Book/148#p7_2) suit les premiers Marc et Luc—ne contient pas l'ajout ultérieur.
+	**NOTE** : Le Livre d'Urantia <a id="s107_31"></a>[LU 148:7.2](/fr/The_Urantia_Book/148#p7_2) suit les premiers Marc et Luc—ne contient pas l'ajout ultérieur.
 9. Illustration de la suppression de l'hérésie.
 	[Mat. 24:36](/fr/Bible/Matthew/24#v36). «Mais de ce jour et de cette heure, personne ne le sait, pas même les anges du ciel, ni le Fils, mais le Père seul.»
 	Un scribe, croyant que Jésus était omniscient, était sûr que quelqu'un avait fait une erreur, alors il a changé le texte - en omettant les mots - «ni le Fils».
-	**REMARQUE**; Jésus, en faisant cette déclaration sur <a id="s112_55"></a>[LU 176:2.5](/fr/The_Urantia_Book/176#p2_5) du Livre d'Urantia, omet également « ni le Fils ». Il dit : « Mais les temps de la réapparition du Fils de l'homme ne sont connus que dans les conciles du Paradis ; même les anges du ciel ne savent pas quand cela arrivera.
+	**REMARQUE**; Jésus, en faisant cette déclaration sur <a id="s111_55"></a>[LU 176:2.5](/fr/The_Urantia_Book/176#p2_5) du Livre d'Urantia, omet également « ni le Fils ». Il dit : « Mais les temps de la réapparition du Fils de l'homme ne sont connus que dans les conciles du Paradis ; même les anges du ciel ne savent pas quand cela arrivera.
 10. Illustration de l'unification.
 	[Luc 23:32](/fr/Bible/Luke/23#v32). «Aussi d'autres criminels, deux, ont été emmenés pour être mis à mort avec lui.»
 	Les scribes n'aimaient pas l'implication que Jésus était un criminel, alors ils l'ont changé pour lire: «Deux autres aussi, qui étaient des criminels, ont été emmenés pour être mis à mort avec lui.»
 	**NOTE** : Ce passage n'apparaît pas dans le Livre d'Urantia.
 11. Ambiguïté.
 	Concernant le Dîner du Seigneur dans [Matt. 26:27](/fr/Bible/Matthew/26#v27), il disait à l'origine : «Buvez-en tout.» Le scribe l'a changé en «Buvez-en tous», comme maintenant dans la version révisée.
-	Le Livre d'Urantia <a id="s119_20"></a>[LU 179:5.1](/fr/The_Urantia_Book/179#p5_1) dit : « Prenez cette coupe, vous tous, et buvez-en.
+	Le Livre d'Urantia <a id="s118_20"></a>[LU 179:5.1](/fr/The_Urantia_Book/179#p5_1) dit : « Prenez cette coupe, vous tous, et buvez-en.
 12. Préjugés contre les versions révisées.
 	Un évêque a brûlé plus de 200 exemplaires d'une nouvelle version de la Bible.
 13. Rappelez-vous : Au [Concile de Trente](https://en.wikipedia.org/wiki/Council_of_Trent), la Bible a été normalisée par un vote **majoritaire**.

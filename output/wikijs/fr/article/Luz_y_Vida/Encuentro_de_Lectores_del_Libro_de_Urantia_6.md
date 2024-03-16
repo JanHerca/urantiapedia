@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragelty/Discernement_et_libre_arbitre_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discernement et libre arbitre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-4-février-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 4 — février 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'Association Urantia d'Espagne a le plaisir de vous inviter à la VIe Rencontre Nationale des lecteurs du _Livre d'Urantia_, qui se tiendra **du 28 avril au 1er mai 2006** à :
@@ -84,3 +105,25 @@ Boîte postale 272
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Chris_Ragelty/Discernement_et_libre_arbitre_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Discernement et libre arbitre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-4-février-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 4 — février 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_09">
+          <span class="pr-2">Éditorial Luz y Vida – septembre 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -187,7 +208,7 @@ Jaël Gonzalez
 
 Cette citation est ma préférée :
 
-> Vous ne pouvez pas aimer vraiment vos compagnons par un simple acte de volonté. L’amour nait seulement d’une compréhension approfondie et consommée des mobiles et des sentiments de votre prochain. ([LU 100:4.6](/fr/The_Urantia_Book/100#p4_6))
+> Vous ne pouvez pas aimer vraiment vos compagnons par un simple acte de volonté. L’amour nait seulement d’une compréhension approfondie et consommée des mobiles et des sentiments de votre prochain. (<a id="a210_200"></a>[LU 100:4.6](/fr/The_Urantia_Book/100#p4_6))
 
 L'amour est un mot tellement utilisé par notre humanité. Dans les chansons, les livres et les poèmes, il apparaît des millions de fois, pendant des milliers d'années. Mais nous ne savons pas vraiment aimer. Nous voyons l’amour comme un simple état d’esprit, une pulsion changeante. Au lieu de cela, cette phrase du _Livre d'Urantia_ explique comment vraiment aimer les autres. Cela nous apprend à aimer.
 
@@ -227,9 +248,9 @@ La période d'inscription est encore ouverte pour la III Conférence Européenne
 
 **Présentation du programme**
 
-Selon les révélateurs, « les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre » [LU 195:6.4](/fr/The_Urantia_Book/195#p6_4) et « Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes » [LU 195:10.1](/fr/The_Urantia_Book/195#p10_1).
+Selon les révélateurs, « les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre » <a id="a250_142"></a>[LU 195:6.4](/fr/The_Urantia_Book/195#p6_4) et « Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes » <a id="a250_350"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1).
 
-Mais comment pouvons-nous vraiment abandonner le matérialisme et naître de l’esprit ? Comment pouvons-nous nous développer spirituellement ? Jésus lui-même a dit que « la maitrise de soi est la mesure de la nature morale d’un homme et l’indice de son développement spirituel » [LU 143:2.3](/fr/The_Urantia_Book/143#p2_3), donc apprendre l'art de la maîtrise de soi semble essentiel pour progresser tant moralement que spirituellement. C'est pourquoi, lors de la Troisième Conférence européenne, nous allons explorer les facettes qui nous semblent les plus importantes pour nous gouverner nous-mêmes, et dans ce but, une série d'ateliers a été proposée sous le titre commun de « La route de l'auto-gouvernance ». la maîtrise."
+Mais comment pouvons-nous vraiment abandonner le matérialisme et naître de l’esprit ? Comment pouvons-nous nous développer spirituellement ? Jésus lui-même a dit que « la maitrise de soi est la mesure de la nature morale d’un homme et l’indice de son développement spirituel » <a id="a252_277"></a>[LU 143:2.3](/fr/The_Urantia_Book/143#p2_3), donc apprendre l'art de la maîtrise de soi semble essentiel pour progresser tant moralement que spirituellement. C'est pourquoi, lors de la Troisième Conférence européenne, nous allons explorer les facettes qui nous semblent les plus importantes pour nous gouverner nous-mêmes, et dans ce but, une série d'ateliers a été proposée sous le titre commun de « La route de l'auto-gouvernance ». la maîtrise."
 
 En tenant compte de la partie physique, mentale et spirituelle de nous-mêmes, nous avons conçu les ateliers avec l'intention d'examiner tous les aspects et outils qui nous permettent de maîtriser la gouvernance de nous-mêmes :
 
@@ -280,3 +301,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-septiembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_09">
+          <span class="pr-2">Éditorial Luz y Vida – septembre 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Jesús Rodríguez<br>© 2013 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Israel_Dix/Urantia_606_of_Satania_Luz_y_Vida_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, la 606ème de Satania : Concernant les mondes habités du système Satania. (Partie 2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-35-décembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 35 — décembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Efrain_Vivanco/Los_Ajustadores_del_Pensamiento">
+          <span class="pr-2">Les Ajusteurs de Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -42,3 +66,28 @@ Commençons cette glorieuse course spirituelle ascendante et éternelle vers le 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Israel_Dix/Urantia_606_of_Satania_Luz_y_Vida_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, la 606ème de Satania : Concernant les mondes habités du système Satania. (Partie 2)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-35-décembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 35 — décembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Efrain_Vivanco/Los_Ajustadores_del_Pensamiento">
+          <span class="pr-2">Les Ajusteurs de Pensée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

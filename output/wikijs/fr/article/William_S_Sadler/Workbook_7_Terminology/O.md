@@ -26,15 +26,15 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Orgueil
 
-> De tous les dangers qui assaillent la nature mortelle de l’homme et mettent en péril son intégrité spirituelle, l’orgueil est le plus grand. <a id="s29_143"></a>[LU 111:6.9](/fr/The_Urantia_Book/111#p6_9)
+> De tous les dangers qui assaillent la nature mortelle de l’homme et mettent en péril son intégrité spirituelle, l’orgueil est le plus grand. <a id="s28_143"></a>[LU 111:6.9](/fr/The_Urantia_Book/111#p6_9)
 
-> L’orgueil est trompeur, grisant, et engendre le péché, que ce soit chez un individu, un groupe, une race ou une nation. Il est littéralement vrai que « l’orgueil va au devant de la ruine ». <a id="s31_192"></a>[LU 111:6.10](/fr/The_Urantia_Book/111#p6_10)
+> L’orgueil est trompeur, grisant, et engendre le péché, que ce soit chez un individu, un groupe, une race ou une nation. Il est littéralement vrai que « l’orgueil va au devant de la ruine ». <a id="s30_192"></a>[LU 111:6.10](/fr/The_Urantia_Book/111#p6_10)
 
 ## Originel, le
 
-> _L’Originel._ Le concept non qualifié de la Source-Centre Première, la manifestation initiale du JE SUIS dont toute réalité tire son origine. <a id="s35_144"></a>[LU 115:3.6](/fr/The_Urantia_Book/115#p3_6)
+> _L’Originel._ Le concept non qualifié de la Source-Centre Première, la manifestation initiale du JE SUIS dont toute réalité tire son origine. <a id="s34_144"></a>[LU 115:3.6](/fr/The_Urantia_Book/115#p3_6)
 
-> L’Originel est ce qui est. <a id="s37_29"></a>[LU 115:3.11](/fr/The_Urantia_Book/115#p3_11)
+> L’Originel est ce qui est. <a id="s36_29"></a>[LU 115:3.11](/fr/The_Urantia_Book/115#p3_11)
 
 
 <br>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04">
+          <span class="pr-2">Éditorial Luz y Vida – avril 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -54,7 +75,7 @@ Ainsi passaient les journées : il travaillait, il dormait, il mangeait quelque 
 Mais un matin, il y eut un silence curieux et étrange. Un à un, les cochons cessèrent de grogner, de groiner et d'avaler et le regardèrent fixement. Ils regardèrent cet homme étrange, échevelé et à la silhouette triste. Et avec ce silence, son esprit fit un « clic », un arrêt. Le jeune homme commença à réfléchir. Il ne l'avait pas fait depuis un moment, mais dès qu'il a pu réfléchir, il a réalisé quelque chose qui ne lui était pas venu à l'esprit auparavant : « Je retourne chez mon père. » Cela a démarré immédiatement. Il a laissé derrière lui la puanteur, les insultes du patron, la masure où il avait vécu ces années-là. Il rentrait chez lui, vers la liberté, pour redevenir lui-même.
 <br style="clear:both" />
 
-> Maintes et maintes fois durant les années de son enseignement, Jésus raconta et répéta l’histoire du fils prodigue. Cette parabole et l’histoire du bon Samaritain étaient son moyen favori pour enseigner l’amour du Père et les sentiments fraternels envers le prochain. ([LU 169:1.16](/fr/The_Urantia_Book/169#p1_16))
+> Maintes et maintes fois durant les années de son enseignement, Jésus raconta et répéta l’histoire du fils prodigue. Cette parabole et l’histoire du bon Samaritain étaient son moyen favori pour enseigner l’amour du Père et les sentiments fraternels envers le prochain. (<a id="a77_271"></a>[LU 169:1.16](/fr/The_Urantia_Book/169#p1_16))
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04)
 
@@ -78,7 +99,7 @@ Selon les mots de l'auteur, « la suprématie doit englober toutes les possibili
 
 [**Neutrinos (auteur inconnu)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Neutrinos.pdf)
 
-Bien que la science qui apparaît dans _Le Livre d'Urantia_ soit très limitée à la connaissance des années 1930, elle contient des connaissances que les scientifiques de l'époque ne connaissaient pas, mais qui ont été découvertes des décennies plus tard. Un exemple en est l'existence de neutrinos mentionnés dans ce fragment : « Les changements électrogravitationnels donnent naissance à d’immenses quantités de minuscules particules dépourvues de potentiel électrique, et celles-ci s’échappent promptement de l’intérieur du soleil, ce qui amène en quelques jours l’effondrement d’un soleil gigantesque » [LU 41:8.3](/fr/The_Urantia_Book/41#p8_3) . Et ce n'est pas tout : dans le livre, les développeurs nous disent que ces particules peuvent provoquer « l'effondrement d'un gigantesque soleil en quelques jours », ce qui n'a pu être observé que jusqu'en 1987. Dans cet article, l'auteur passe en revue comment la science a confirmé ce que les révélateurs nous disent à ce sujet dans _Le Livre d'Urantia_.
+Bien que la science qui apparaît dans _Le Livre d'Urantia_ soit très limitée à la connaissance des années 1930, elle contient des connaissances que les scientifiques de l'époque ne connaissaient pas, mais qui ont été découvertes des décennies plus tard. Un exemple en est l'existence de neutrinos mentionnés dans ce fragment : « Les changements électrogravitationnels donnent naissance à d’immenses quantités de minuscules particules dépourvues de potentiel électrique, et celles-ci s’échappent promptement de l’intérieur du soleil, ce qui amène en quelques jours l’effondrement d’un soleil gigantesque » <a id="a101_605"></a>[LU 41:8.3](/fr/The_Urantia_Book/41#p8_3) . Et ce n'est pas tout : dans le livre, les développeurs nous disent que ces particules peuvent provoquer « l'effondrement d'un gigantesque soleil en quelques jours », ce qui n'a pu être observé que jusqu'en 1987. Dans cet article, l'auteur passe en revue comment la science a confirmé ce que les révélateurs nous disent à ce sujet dans _Le Livre d'Urantia_.
 <br style="clear:both" />
 
 ---
@@ -89,7 +110,7 @@ Bien que la science qui apparaît dans _Le Livre d'Urantia_ soit très limitée 
 
 [**Réflexions sur la parabole de la graine de moutarde (Olga López)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/REFLEXIONES-SOBRE-LA-PAR%C3%81BOLA-DE-LA-SEMILLA-DE-MOSTAZA.pdf)
 
-Selon les mots de l'auteur : « Les paraboles de Jésus n'ont pas une seule interprétation, mais servent plutôt à évoquer en nous des images et des idées élevées et à nous aider à discerner la voie pour progresser spirituellement... La parabole de la graine de moutarde est l'un des « les plus connus que Jésus a utilisés en faisant référence au développement du royaume des cieux dans le cœur des hommes  ». Précisément pour approfondir les significations qu'évoque cette parabole, l'auteur passe en revue toutes les références que l'on peut trouver dans la quatrième partie du _Le Livre d'Urantia_ et passe en revue les énoncés qui sont liés à la comparaison du royaume des cieux avec la graine de moutarde. Car « La graine de moutarde est vraiment la plus petite de toutes les graines, mais lorsqu'elle a poussé, elle est le plus gros des légumes, et elle devient un arbre. » [LU 151:4.2](/fr/The_Urantia_Book/151#p4_2)
+Selon les mots de l'auteur : « Les paraboles de Jésus n'ont pas une seule interprétation, mais servent plutôt à évoquer en nous des images et des idées élevées et à nous aider à discerner la voie pour progresser spirituellement... La parabole de la graine de moutarde est l'un des « les plus connus que Jésus a utilisés en faisant référence au développement du royaume des cieux dans le cœur des hommes  ». Précisément pour approfondir les significations qu'évoque cette parabole, l'auteur passe en revue toutes les références que l'on peut trouver dans la quatrième partie du _Le Livre d'Urantia_ et passe en revue les énoncés qui sont liés à la comparaison du royaume des cieux avec la graine de moutarde. Car « La graine de moutarde est vraiment la plus petite de toutes les graines, mais lorsqu'elle a poussé, elle est le plus gros des légumes, et elle devient un arbre. » <a id="a112_877"></a>[LU 151:4.2](/fr/The_Urantia_Book/151#p4_2)
 <br style="clear:both" />
 
 ---
@@ -178,14 +199,14 @@ Montserrat Blanc
 Il n'y a aucune phrase dans _Le Livre d'Urantia_ qui ne contienne une perle. Parfois, cette perle est cachée et il faut gratter pour la trouver ; D'autres, comme c'est le cas, que la perle brille comme un soleil et qu'il est impossible de cacher tant de lumière et tant de beauté.
 
 
-> La miséricorde est la progéniture naturelle et inévitable de la bonté et de l’amour. Il serait impossible à la bonne nature d’un Père aimant de refuser le sage ministère de miséricorde qu’il accorde à chaque membre de chaque groupe de ses enfants dans l’univers. L’éternelle justice et la divine miséricorde réunies constituent ce qu’on appellerait l’*équité* dans l’expérience humaine. ([LU 2:4.4](/fr/The_Urantia_Book/2#p4_4))
+> La miséricorde est la progéniture naturelle et inévitable de la bonté et de l’amour. Il serait impossible à la bonne nature d’un Père aimant de refuser le sage ministère de miséricorde qu’il accorde à chaque membre de chaque groupe de ses enfants dans l’univers. L’éternelle justice et la divine miséricorde réunies constituent ce qu’on appellerait l’*équité* dans l’expérience humaine. (<a id="a201_390"></a>[LU 2:4.4](/fr/The_Urantia_Book/2#p4_4))
 
 MISÉRICORDE est un mot qui contient une grandeur que très peu de gens peuvent entrevoir. Nous y avançons sur la pointe des pieds, mais nous devons garder à l'esprit que la miséricorde est le fruit naturel de l'union entre la bonté et l'amour, et nous devons offrir cette miséricorde en fonction du dommage obtenu, quelle que soit l'origine de celui-ci.
 
 Mais méfiez-vous! Ne confondons pas la _mercy_ avec le _sorrow_ ou la _pity_.
 
 
-> La miséricorde est simplement la justice tempérée par ce type de sagesse qui résulte de la perfection du savoir et de la complète reconnaissance des faiblesses naturelles des créatures finies et des handicaps dus à leur environnement. ([LU 2:4.1](/fr/The_Urantia_Book/2#p4_1))
+> La miséricorde est simplement la justice tempérée par ce type de sagesse qui résulte de la perfection du savoir et de la complète reconnaissance des faiblesses naturelles des créatures finies et des handicaps dus à leur environnement. (<a id="a208_238"></a>[LU 2:4.1](/fr/The_Urantia_Book/2#p4_1))
 
 La miséricorde est la qualité fraternelle suprême. Que ne ferait pas un père aimant pour son fils bien-aimé !
 
@@ -300,3 +321,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-avril-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — avril 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_04">
+          <span class="pr-2">Éditorial Luz y Vida – avril 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Ginés Avilés<br>© 2015 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francisco_Fuentes/Nuestro_universo_y_el_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre univers et l'univers du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-40-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 40 — juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Selon _Le Livre d'Urantia_, document 160 : « _La réussite de la vie n’est rien de plus et rien de moins que l’art de maitriser des techniques sures pour résoudre des problèmes ordinaires_. » [LU 160:1.7](/fr/The_Urantia_Book/160#p1_7) Ce document ou les extraits de la philosophie de Rodán présentent deux techniques pour résoudre des problèmes : une technique est celle que Rodán lui-même propose et l'autre est celle qui naît de l'observation de ce que fait Maître Jésus : « le culte solitaire méditation.
+
+Selon _Le Livre d'Urantia_, document 160 : « _La réussite de la vie n’est rien de plus et rien de moins que l’art de maitriser des techniques sures pour résoudre des problèmes ordinaires_. » <a id="a34_191"></a>[LU 160:1.7](/fr/The_Urantia_Book/160#p1_7) Ce document ou les extraits de la philosophie de Rodán présentent deux techniques pour résoudre des problèmes : une technique est celle que Rodán lui-même propose et l'autre est celle qui naît de l'observation de ce que fait Maître Jésus : « le culte solitaire méditation.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV40/14.jpg">
@@ -37,7 +58,7 @@ Ni cette technique ni aucune autre ne compensera « _les défauts inhérents à 
 
 > DOC. 160 RODAN D'ALEXANDRIE : TECHNIQUES DE RÉSOLUTION DE PROBLÈMES
 > 
-> « _La réussite de la vie n’est rien de plus et rien de moins que l’art de maitriser des techniques sures pour résoudre des problèmes ordinaires._ » ([LU 160:1.7](/fr/The_Urantia_Book/160#p1_7))
+> « _La réussite de la vie n’est rien de plus et rien de moins que l’art de maitriser des techniques sures pour résoudre des problèmes ordinaires._ » (<a id="a60_151"></a>[LU 160:1.7](/fr/The_Urantia_Book/160#p1_7))
 
 ## La technique de Rodán
 
@@ -120,13 +141,13 @@ Eh bien, en répétant et en réalisant quelle est la vérité ou la réalité d
 
 Enfin, je voudrais retenir avec vous ces phrases qui me touchent sur la validité de cette technique :
 
-> « _Vous connaitrez la vérité, et la vérité vous affranchira._ » ([LU 162:7.2](/fr/The_Urantia_Book/162#p7_2))
+> « _Vous connaitrez la vérité, et la vérité vous affranchira._ » (<a id="a143_67"></a>[LU 162:7.2](/fr/The_Urantia_Book/162#p7_2))
 
-> « _« Si mes paroles demeurent en vous, et si vous êtes disposés à faire la volonté de mon Père, alors vous êtes vraiment mes disciples. Vous connaitrez la vérité, et la vérité vous affranchira. Je sais que vous allez me répondre : Nous sommes les enfants d’Abraham et nous ne sommes esclaves de personne ; comment donc serions-nous affranchis ? Mais je ne vous parle pas de soumission extérieure à la loi de quelqu’un d’autre ; je fais allusion aux libertés de l’âme. En vérité, en vérité, je vous le dis, quiconque commet le péché est esclave du péché. Or, vous savez que l’esclave n’est pas destiné à rester éternellement dans la maison du maitre. Vous savez également que le fils demeure dans la maison de son père. Si donc le Fils vous affranchit et fait de vous des fils, vous serez vraiment libres._ » ([LU 162:7.2](/fr/The_Urantia_Book/162#p7_2))
+> « _« Si mes paroles demeurent en vous, et si vous êtes disposés à faire la volonté de mon Père, alors vous êtes vraiment mes disciples. Vous connaitrez la vérité, et la vérité vous affranchira. Je sais que vous allez me répondre : Nous sommes les enfants d’Abraham et nous ne sommes esclaves de personne ; comment donc serions-nous affranchis ? Mais je ne vous parle pas de soumission extérieure à la loi de quelqu’un d’autre ; je fais allusion aux libertés de l’âme. En vérité, en vérité, je vous le dis, quiconque commet le péché est esclave du péché. Or, vous savez que l’esclave n’est pas destiné à rester éternellement dans la maison du maitre. Vous savez également que le fils demeure dans la maison de son père. Si donc le Fils vous affranchit et fait de vous des fils, vous serez vraiment libres._ » (<a id="a145_811"></a>[LU 162:7.2](/fr/The_Urantia_Book/162#p7_2))
 
-> Ou le slogan de Jésus lui-même : « _N’ayez aucune crainte_ » ([LU 140:8.20](/fr/The_Urantia_Book/140#p8_20))
+> Ou le slogan de Jésus lui-même : « _N’ayez aucune crainte_ » (<a id="a147_64"></a>[LU 140:8.20](/fr/The_Urantia_Book/140#p8_20))
 
-> _« N’ayez aucune crainte » était son mot de passe, et la patiente endurance était son idéal de la force de caractère. Les enseignements de Jésus constituent une religion de vaillance, de courage et d’héroïsme. C’est précisément pourquoi il choisit, comme représentants personnels, douze hommes du commun, qui étaient en majorité de rudes et virils pêcheurs._ ([LU 140:8.20](/fr/The_Urantia_Book/140#p8_20))
+> _« N’ayez aucune crainte » était son mot de passe, et la patiente endurance était son idéal de la force de caractère. Les enseignements de Jésus constituent une religion de vaillance, de courage et d’héroïsme. C’est précisément pourquoi il choisit, comme représentants personnels, douze hommes du commun, qui étaient en majorité de rudes et virils pêcheurs._ (<a id="a149_362"></a>[LU 140:8.20](/fr/The_Urantia_Book/140#p8_20))
 
 Après un certain temps, je crois avoir découvert que cette technique possède les qualités divines de vérité (analyse impartiale), de gentillesse (tolérance) et de beauté (tact). Et pour autant que je sache, cette technique de Rodán est complémentaire à la technique proposée par Jesús.
 
@@ -136,3 +157,25 @@ Avec nos meilleures salutations!
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francisco_Fuentes/Nuestro_universo_y_el_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre univers et l'univers du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-40-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 40 — juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

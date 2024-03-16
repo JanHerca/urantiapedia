@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Santiago Rodríguez, Andrés Pérez<br>© 2008 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ernesto_Veloso/Jesus_y_la_samaritana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus et la Samaritaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-15-décembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 15 — décembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_Libro_de_Urantia_y_su_difusion">
+          <span class="pr-2">Le Livre d'Urantia et sa diffusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -20,9 +44,9 @@ De divers auteurs
 - Santiago Rodríguez
 - Andrés Pérez
 
-**Andrés :** Je voudrais vous demander : comment est-il possible que si Dieu est tout-puissant et a déposé un fragment de Lui-même en chacun de nous, cet Ajusteur qui habite en nous n'a pas d'expériences ? Alors qu’est-ce que cela peut nous apporter ? ou pourquoi les veux-tu ? Et si oui, pourquoi en a-t-il besoin, s’il est un fragment de Dieu ? Je ne comprends pas pourquoi il accumule les expériences d'êtres qui commencent à en avoir. Dans [LU 16:9.3](/fr/The_Urantia_Book/16#p9_3), il est dit « si l’homme mortel ne réussit pas à survivre à la mort naturelle, les valeurs spirituelles réelles de son expérience humaine survivent comme partie de l’expérience continue de l’Ajusteur de Pensée. » Et je dis pourquoi tu le veux, si je dois supposer que ce fragment de Dieu doit être « tout-puissant » (en cela j'inclus toutes les valeurs que je sais que Dieu a)
+**Andrés :** Je voudrais vous demander : comment est-il possible que si Dieu est tout-puissant et a déposé un fragment de Lui-même en chacun de nous, cet Ajusteur qui habite en nous n'a pas d'expériences ? Alors qu’est-ce que cela peut nous apporter ? ou pourquoi les veux-tu ? Et si oui, pourquoi en a-t-il besoin, s’il est un fragment de Dieu ? Je ne comprends pas pourquoi il accumule les expériences d'êtres qui commencent à en avoir. Dans <a id="a46_444"></a>[LU 16:9.3](/fr/The_Urantia_Book/16#p9_3), il est dit « si l’homme mortel ne réussit pas à survivre à la mort naturelle, les valeurs spirituelles réelles de son expérience humaine survivent comme partie de l’expérience continue de l’Ajusteur de Pensée. » Et je dis pourquoi tu le veux, si je dois supposer que ce fragment de Dieu doit être « tout-puissant » (en cela j'inclus toutes les valeurs que je sais que Dieu a)
 
-J'aimerais que vous me disiez votre opinion, celle que chacun de vous a sur le sujet, car ce n'est pas que je n'ai pas une intuition de certains concepts de cet Ajusteur, mais ces sections me sont étranges, puisqu'il y en a plusieurs à ce sujet. sujet que j'explique, et à mon avis je ne suis pas capable de « comprendre » comment ces êtres célestes n'ont pas d'expériences venant de Dieu, tout comme dans un autre paragraphe il est dit [LU 110:2.3](/fr/The_Urantia_Book/110#p2_3) : « _Les Ajusteurs se consacrent à améliorer, modifier, ajuster et coordonner vos modes de pensées_ » etc.
+J'aimerais que vous me disiez votre opinion, celle que chacun de vous a sur le sujet, car ce n'est pas que je n'ai pas une intuition de certains concepts de cet Ajusteur, mais ces sections me sont étranges, puisqu'il y en a plusieurs à ce sujet. sujet que j'explique, et à mon avis je ne suis pas capable de « comprendre » comment ces êtres célestes n'ont pas d'expériences venant de Dieu, tout comme dans un autre paragraphe il est dit <a id="a48_437"></a>[LU 110:2.3](/fr/The_Urantia_Book/110#p2_3) : « _Les Ajusteurs se consacrent à améliorer, modifier, ajuster et coordonner vos modes de pensées_ » etc.
 
 Et je dis, s'ils n'ont pas d'expériences, comment peuvent-ils nous aider dans ce monde compliqué dans lequel presque tous ceux qui sont venus ont échoué, sinon totalement, du moins partiellement.
 
@@ -48,9 +72,9 @@ Et nous avons le privilège d’avoir été créés imparfaits, et avec notre vo
 
 Que demander de plus ?
 
-**Antonio :** Dans l'univers, nous dit le Livre, il n'y a RIEN qui puisse remplacer l'expérience. « _Il n’y a tout simplement rien dans l’existence universelle qui puisse prendre la place d’une expérience personnelle effective_ » ([LU 22:9.7](/fr/The_Urantia_Book/22#p9_7)). « _Dans tout l’univers, rien ne peut remplacer le fait de l’expérience sur les niveaux non existentiels_ » ([LU 108:0.2](/fr/The_Urantia_Book/108#p0_2))
+**Antonio :** Dans l'univers, nous dit le Livre, il n'y a RIEN qui puisse remplacer l'expérience. « _Il n’y a tout simplement rien dans l’existence universelle qui puisse prendre la place d’une expérience personnelle effective_ » (<a id="a74_231"></a>[LU 22:9.7](/fr/The_Urantia_Book/22#p9_7)). « _Dans tout l’univers, rien ne peut remplacer le fait de l’expérience sur les niveaux non existentiels_ » (<a id="a74_383"></a>[LU 108:0.2](/fr/The_Urantia_Book/108#p0_2))
 
-Dieu est existentiel et non expérientiel. Il est l'alpha et l'oméga, il connaît la fin depuis le début, donc « _Dieu n'acquiert pas d'expérience_ » ([LU 1:5.14](/fr/The_Urantia_Book/1#p5_14)) « _Dieu, étant éternel, universel, absolu et infini, ne grandit pas en connaissance et n’augmente pas en sagesse_ » (même page et paragraphe) « _Dieu est éternellement et infiniment parfait. Il ne peut personnellement connaitre l’imperfection sous forme d’expérience propre_ » ([LU 2:2.6](/fr/The_Urantia_Book/2#p2_6)), mais il participe réellement à l'expérience avec immaturité et imperfection... a par l'intermédiaire des Ajusteurs de Pensée.
+Dieu est existentiel et non expérientiel. Il est l'alpha et l'oméga, il connaît la fin depuis le début, donc « _Dieu n'acquiert pas d'expérience_ » (<a id="a76_149"></a>[LU 1:5.14](/fr/The_Urantia_Book/1#p5_14)) « _Dieu, étant éternel, universel, absolu et infini, ne grandit pas en connaissance et n’augmente pas en sagesse_ » (même page et paragraphe) « _Dieu est éternellement et infiniment parfait. Il ne peut personnellement connaitre l’imperfection sous forme d’expérience propre_ » (<a id="a76_470"></a>[LU 2:2.6](/fr/The_Urantia_Book/2#p2_6)), mais il participe réellement à l'expérience avec immaturité et imperfection... a par l'intermédiaire des Ajusteurs de Pensée.
 
 Les ajusteurs sont prépersonnels, c'est-à-dire qu'ils viennent du niveau de Dieu dans lequel la personnalité n'est pas encore apparue. Ils sont, pour ainsi dire, antérieurs au Fils Éternel. Ils sont pré-personnels. Et ils émergent « vierges » de ce niveau de Dieu, c’est-à-dire sans expérience (rappelez-vous qu’à ces niveaux l’expérience – le niveau fini – n’existe pas, et Dieu n’en a pas non plus besoin)
 
@@ -74,3 +98,28 @@ Si nous survivons, l’Ajusteur reviendra et fusionnera avec nous. Si nous ne su
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ernesto_Veloso/Jesus_y_la_samaritana">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus et la Samaritaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-15-décembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 15 — décembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_Libro_de_Urantia_y_su_difusion">
+          <span class="pr-2">Le Livre d'Urantia et sa diffusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

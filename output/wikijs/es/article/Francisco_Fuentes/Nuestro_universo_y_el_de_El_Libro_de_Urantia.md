@@ -125,9 +125,9 @@ Nuestros errores de medición se producen porque si el universo se expande y se 
 
 La velocidad de la luz, con todo lo rápida que es, es insuficiente para recorrer distancias tan grandes en un tiempo razonable. Imposible. Tiene que haber algo más rápido.
 
-Lo hay. El libro lo explica en LU 23:3.22 del Documento 23:
+Lo hay. El libro lo explica en LU 23:2.23 del Documento 23:
 
-> _... Un ser enserafinado no puede sobrepasar de ninguna manera la velocidad de 899.370 kilómetros de Urantia por segundo de vuestro tiempo. Las estrellas masivas, las corrientes contrarias y los desvíos, así como las tangentes de atracción, tienden todas a retrasar esta velocidad, de manera que durante un largo viaje la velocidad alcanzará una media de unos 885.000 kilómetros por segundo._ <a id="a129_395"></a>[LU 23:3.22](/es/The_Urantia_Book/23#p3_2)
+> _... Un ser enserafinado no puede sobrepasar de ninguna manera la velocidad de 899.370 kilómetros de Urantia por segundo de vuestro tiempo. Las estrellas masivas, las corrientes contrarias y los desvíos, así como las tangentes de atracción, tienden todas a retrasar esta velocidad, de manera que durante un largo viaje la velocidad alcanzará una media de unos 885.000 kilómetros por segundo._ <a id="a129_395"></a>[LU 23:2.23](/es/The_Urantia_Book/23#p2_23)
 
 > _Cuando se pone de manifiesto que se necesitarán cientos de años para que un embajador nativo llegue a un universo local muy lejano, se pide con frecuencia a un Mensajero Solitario que se dirija inmediatamente allí para actuar como embajador interino. Los Mensajeros Solitarios pueden desplazarse muy rápidamente, no con independencia del tiempo y del espacio como lo hacen los Mensajeros de Gravedad, pero casi igual que ellos..._ <a id="a131_434"></a>[LU 23:2.23](/es/The_Urantia_Book/23#p2_23)
 

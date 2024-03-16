@@ -101,7 +101,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- Le bon Samaritain.
 	- PREMIERS SECOURS.
 	- Miracles de la prière.
-7. Luke avait Matthew (Isador), Mark et Q (notes d'Andrew). Environ un tiers vient de Mark. Avec Matthieu, il dérive beaucoup de Q (252 versets), mais presque la moitié de Luc est originale. Il avait également l'histoire de Paul et un bref enregistrement fait en 78 après JC à Antioche par un certain Cède. Voir le Livre d'Urantia, <a id="s104_332"></a>[LU 121:8.8](/fr/The_Urantia_Book/121#p8_8).
+7. Luke avait Matthew (Isador), Mark et Q (notes d'Andrew). Environ un tiers vient de Mark. Avec Matthieu, il dérive beaucoup de Q (252 versets), mais presque la moitié de Luc est originale. Il avait également l'histoire de Paul et un bref enregistrement fait en 78 après JC à Antioche par un certain Cède. Voir le Livre d'Urantia, <a id="s103_332"></a>[LU 121:8.8](/fr/The_Urantia_Book/121#p8_8).
 8. Apparemment, Luke a obtenu de nombreux versets du manuscrit de Cedes; ce document accordait une attention particulière aux femmes.
 9. Le livre de Cède était riche en paraboles : notamment, le bon Samaritain, le riche insensé, l'homme riche et Lazare, et le Pharisien et collecteur d'impôts.
 10. Certaines choses dans Marc que Luc ignore :
@@ -132,7 +132,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	- **Mark** : «Et le soir, quand le soleil s'est couché.» [Marc 1:32](/fr/Bible/Mark/1#v32). (Version King James)
 	- **Luke** : «Maintenant, quand le soleil se couchait.» [Luc 4:40](/fr/Bible/Luke/4#v40). (Version King James)
 15. Il n'a jamais été prévu que le livre des Actes soit séparé de Luc.
-16. Luc a écrit en 82 après JC à Achaïe. Il prévoyait d'écrire trois livres sur le christianisme, mais il mourut en 90 après JC juste avant de terminer les Actes. Livre d'Urantia, <a id="s135_180"></a>[LU 121:8.8](/fr/The_Urantia_Book/121#p8_8).
+16. Luc a écrit en 82 après JC à Achaïe. Il prévoyait d'écrire trois livres sur le christianisme, mais il mourut en 90 après JC juste avant de terminer les Actes. Livre d'Urantia, <a id="s134_180"></a>[LU 121:8.8](/fr/The_Urantia_Book/121#p8_8).
 17. D'une manière générale, on peut dire que Luc est l'Évangile selon Paul.
 
 ## IV. Histoire et tradition chez Luc

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Carmelo Martíne, Olga López, Eduardo Altuzarra, Santiago Rodríguez et Andrés Pérez<br>© 2014 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_36_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 36 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-36-mars-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 36 — mars 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_muerte_segun_El_Libro_de_Urantia">
+          <span class="pr-2">La mort selon le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Carmelo
@@ -17,7 +41,7 @@ Dans le dictionnaire RAE, l'eugénisme est défini comme : « Application des lo
 
 La LU parle de races supérieures et inférieures et de la nécessité d'améliorer les races humaines sans aucune honte ni préjugé, au point d'en surprendre et même de scandaliser certains.
 
-J'ai recherché et sélectionné quelques citations à ce sujet. Ce sont les suivants : [LU 49:1.7](/fr/The_Urantia_Book/49#p1_7), [LU 51:4.8](/fr/The_Urantia_Book/51#p4_8), [LU 52:2.11](/fr/The_Urantia_Book/52#p2_11), [LU 52:2.12](/fr/The_Urantia_Book/52#p2_12), [LU 52:3.4](/fr/The_Urantia_Book/52#p3_4), [LU 55:4.11](/fr/The_Urantia_Book/55#p4_11), [LU 55:6.3](/fr/The_Urantia_Book/55#p6_3), %%7% % , [LU 70:8.15](/fr/The_Urantia_Book/70#p8_15), [LU 71:3.8](/fr/The_Urantia_Book/71#p3_8), [LU 82:6.5](/fr/The_Urantia_Book/82#p6_5). (Le chiffre entre parenthèses est le numéro du document.) Je suis sûr que j'en ai manqué d'autres.
+J'ai recherché et sélectionné quelques citations à ce sujet. Ce sont les suivants : <a id="a43_84"></a>[LU 49:1.7](/fr/The_Urantia_Book/49#p1_7), <a id="a43_127"></a>[LU 51:4.8](/fr/The_Urantia_Book/51#p4_8), <a id="a43_170"></a>[LU 52:2.11](/fr/The_Urantia_Book/52#p2_11), <a id="a43_215"></a>[LU 52:2.12](/fr/The_Urantia_Book/52#p2_12), <a id="a43_260"></a>[LU 52:3.4](/fr/The_Urantia_Book/52#p3_4), <a id="a43_303"></a>[LU 55:4.11](/fr/The_Urantia_Book/55#p4_11), <a id="a43_348"></a>[LU 55:6.3](/fr/The_Urantia_Book/55#p6_3), %%7% % , <a id="a43_400"></a>[LU 70:8.15](/fr/The_Urantia_Book/70#p8_15), <a id="a43_445"></a>[LU 71:3.8](/fr/The_Urantia_Book/71#p3_8), <a id="a43_488"></a>[LU 82:6.5](/fr/The_Urantia_Book/82#p6_5). (Le chiffre entre parenthèses est le numéro du document.) Je suis sûr que j'en ai manqué d'autres.
 
 Que pensez-vous de cette insistance à éliminer les inférieurs ? Selon vous, qu’est-ce que cela signifie en pratique ? Pourquoi sommes-nous surpris par cette attitude des développeurs ? Une telle chose peut-elle être divulguée sans autre préparation ? Pourquoi sommes-nous si sensibles aux approches eugéniques ? L’eugénisme est-il moralement acceptable ? Existe-t-il une forme d’eugénisme plus moralement acceptable que d’autres ?
 
@@ -49,7 +73,7 @@ C'est un sujet difficile et délicat. Espérons que l’analyse du génome et la
 
 Mais aujourd’hui, j’ai aussi du mal, notamment parce que qui jugera de ce qu’il faut ou ne doit pas faire ? Ou qui décidera à qui l’appliquer ? Avec combien nos systèmes judiciaires sont encore défectueux et combien nous avons encore besoin que les hommes politiques soient les meilleurs, les plus loyaux citoyens prêts à servir (et non à se servir eux-mêmes), pour leur confier de telles décisions !
 
-Les développeurs nous le disent déjà dans le paragraphe [LU 51:4.8](/fr/The_Urantia_Book/51#p4_8).
+Les développeurs nous le disent déjà dans le paragraphe <a id="a75_56"></a>[LU 51:4.8](/fr/The_Urantia_Book/51#p4_8).
 
 ## Santiago
 
@@ -161,3 +185,28 @@ Je pense que c'est génial, et c'est peut-être une bonne façon d'aborder ce su
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_36_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 36 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-36-mars-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 36 — mars 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_muerte_segun_El_Libro_de_Urantia">
+          <span class="pr-2">La mort selon le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — novembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11">
+          <span class="pr-2">Éditorial Luz y Vida – novembre 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -192,7 +213,7 @@ Carlos Rubinski
 Choisir une citation préférée à discuter avec vous est vraiment très difficile, car il existe de nombreux « favoris » qui sont apparus au fil des années lors de la lecture et de la relecture de cette merveilleuse Apocalypse, mais aujourd'hui je choisis celle-ci :
 
 
-> N’essayez ni de satisfaire la curiosité ni de contenter tous les désirs latents d’aventure qui surgissent dans l’âme pendant la courte durée d’une vie dans la chair. Soyez patients ! Ne cédez pas à la tentation de vous plonger dans le dérèglement des aventures vulgaires et sordides. Domptez vos énergies et réfrénez vos passions. Soyez calmes en attendant le déroulement majestueux d’une carrière sans fin d’aventures progressives et de découvertes passionnantes. ([LU 195:5.10](/fr/The_Urantia_Book/195#p5_10))
+> N’essayez ni de satisfaire la curiosité ni de contenter tous les désirs latents d’aventure qui surgissent dans l’âme pendant la courte durée d’une vie dans la chair. Soyez patients ! Ne cédez pas à la tentation de vous plonger dans le dérèglement des aventures vulgaires et sordides. Domptez vos énergies et réfrénez vos passions. Soyez calmes en attendant le déroulement majestueux d’une carrière sans fin d’aventures progressives et de découvertes passionnantes. (<a id="a215_468"></a>[LU 195:5.10](/fr/The_Urantia_Book/195#p5_10))
 
 C’est l’une des citations que j’appelle «  conseils  ». Nous avons beaucoup d’informations dans le livre ; une nouvelle cosmologie, de nouveaux paradigmes, de nouvelles façons de penser la Divinité et comment se rapprocher de plus en plus du Père Universel et de sa vaste famille céleste ; également des informations sur la science, l'histoire, la philosophie et d'autres aspects de l'Apocalypse. Et nous avons des pensées qui nous donnent des conseils à appliquer aujourd’hui, ici et maintenant. Comme la citation que je viens de copier.
 
@@ -307,3 +328,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — novembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_11">
+          <span class="pr-2">Éditorial Luz y Vida – novembre 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

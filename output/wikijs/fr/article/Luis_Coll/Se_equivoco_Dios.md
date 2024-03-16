@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Luis Coll<br>© 2009 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Garcia/Sobre_el_perdon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le pardon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-19-décembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 19 — décembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso_2">
+          <span class="pr-2">Le chemin du paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Dieu a-t-il eu tort de créer cette jolie planète bleue suspendue ici, sortie de nulle part ?
 
@@ -104,8 +128,32 @@ Les sentiments les plus élevés de loyauté, d’amour, de paix et de progrès 
 
 > **Si tu rencontres le succès et l'échec et traites ces deux imposteurs sur un pied d'égalité, alors tu seras un homme, mon fils !** (Rudyard Kipling)
 
-> 5. Les difficultés peuvent défier la médiocrité et vaincre les craintifs, mais elles ne font que stimuler les véritables enfants des Très Hauts. ([LU 48:7.7](/fr/The_Urantia_Book/48#p7_7))
+> 5. Les difficultés peuvent défier la médiocrité et vaincre les craintifs, mais elles ne font que stimuler les véritables enfants des Très Hauts. (<a id="a130_148"></a>[LU 48:7.7](/fr/The_Urantia_Book/48#p7_7))
 
 ## Références
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Garcia/Sobre_el_perdon">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur le pardon</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-19-décembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 19 — décembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso_2">
+          <span class="pr-2">Le chemin du paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

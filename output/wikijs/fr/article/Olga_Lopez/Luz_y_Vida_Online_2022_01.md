@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — janvier 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01">
+          <span class="pr-2">Éditorial Luz y Vida – janvier 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -48,7 +69,7 @@ Il existe une belle légende d'origine médiévale qui raconte l'histoire d'un t
 
 Ce problème, essayer de comprendre avec notre petit esprit mortel le mystère de Dieu, était un véritable défi pour les révélateurs qui travaillaient depuis des années à l'écriture du _Livre d'Urantia_. Au tout début du livre, le Prologue, il nous l'annonce déjà :
 
-> « ...il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. » ([LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
+> « ...il est extrêmement difficile de présenter des concepts élargis et une vérité avancée alors que nous sommes limités par l’emploi d’un langage restreint du royaume. Cependant, notre mandat nous exhorte à faire tous nos efforts pour transmettre nos significations en utilisant les symboles verbaux de la langue anglaise. » (<a id="a71_328"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2))
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01)
 <br style="clear:both" />
@@ -241,7 +262,7 @@ M. Helena Bañas
 <img src="/image/article/Luz_y_Vida/LyV_2022_01/Mi-parrafo-favorito-ene-22.jpg" alt="Mi párrafo favorito - ene 2022">
 </figure>
 
-> « ...L’immortalité est le but de la sincérité ; ...Les sérieux ne meurent pas, les étourdis sont déjà morts. » ([LU 131:3.7](/fr/The_Urantia_Book/131#p3_7))
+> « ...L’immortalité est le but de la sincérité ; ...Les sérieux ne meurent pas, les étourdis sont déjà morts. » (<a id="a264_114"></a>[LU 131:3.7](/fr/The_Urantia_Book/131#p3_7))
 
 Comme beaucoup d'autres lecteurs, il existe de nombreuses citations que j'aurais pu choisir comme favorites pour commenter, car _Le Livre d'Urantia_ est plein de _perles_ authentiques de sagesse qui nous captivent et nous ébranlent souvent. Mais j'ai choisi celle-ci sur la **_sincérité_** en raison de l'importance de cette valeur dans notre vie et dans notre ascension à travers l'univers, et en raison du manque de sincérité dans le monde.
 
@@ -249,13 +270,13 @@ La _sincérité_ apparaît autant de fois dans le livre que _la vérité ou l'am
 
 Comme nous le voyons, la sincérité est à la base de nombreuses autres vertus morales et implique la noblesse dans nos relations, tant avec les autres qu’avec nous-mêmes. Et c'est très important et très libérateur parce qu'être sincère augmente notre estime de soi, cela nous fait abandonner de nombreuses poses de « faire semblant » ou le désir d'être quelqu'un d'autre et, une fois que nous nous acceptons tels que nous sommes en toute honnêteté, nous pouvons commencer à améliorer nos défauts et nous aligner sur nos actions. D’autres nous verront également comme quelqu’un en qui ils peuvent avoir confiance et nous fournirons une base solide pour établir toute amitié, y compris l’amitié avec Dieu.
 
-Être sincère implique aussi un équilibre dans nos relations, car un excès de sincérité peut nuire à autrui : « _…La sincérité est fort utile dans l’œuvre du royaume quand elle est alliée au discernement._ » [LU 181:2.21](/fr/The_Urantia_Book/181#p2_21)
+Être sincère implique aussi un équilibre dans nos relations, car un excès de sincérité peut nuire à autrui : « _…La sincérité est fort utile dans l’œuvre du royaume quand elle est alliée au discernement._ » <a id="a272_207"></a>[LU 181:2.21](/fr/The_Urantia_Book/181#p2_21)
 
 La discrétion et la sincérité doivent donc aller de pair, et nous devons encourager et préserver chez les petits cette qualité innée qu'ils possèdent, mais en même temps nous devons les avertir promptement qu'ils ne doivent pas dire tout ce qu'ils pensent, même si c'est vrai, et qu'ils doivent être prudents et agir envers les autres comme ils aimeraient que les autres agissent envers eux. Il ne faut pas non plus l'oublier.
 
 Et surtout : sans sincérité, sans cette attitude de petits enfants que Jésus a tant loué, nous ne pourrons pas connaître Dieu dans notre expérience personnelle, L'expérimenter, Le ressentir... nous ne pourrons croire en Lui qu'en foi; C’est pourquoi la sincérité est la clé du royaume des cieux en nous, comme nous le disent les Documents.
 
-D'où aussi que Jésus _« une sincérité très appréciée - un cœur pur »_ [LU 140:8.2](/fr/The_Urantia_Book/140#p8_2), et que _« Dieu n'oublie jamais la sincérité »_. [LU 131:1.6](/fr/The_Urantia_Book/131#p1_6)
+D'où aussi que Jésus _« une sincérité très appréciée - un cœur pur »_ <a id="a278_70"></a>[LU 140:8.2](/fr/The_Urantia_Book/140#p8_2), et que _« Dieu n'oublie jamais la sincérité »_. <a id="a278_163"></a>[LU 131:1.6](/fr/The_Urantia_Book/131#p1_6)
 
 
 ## Questionnaire Urantien : Gloria Andreu
@@ -308,3 +329,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-janvier-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — janvier 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_01">
+          <span class="pr-2">Éditorial Luz y Vida – janvier 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

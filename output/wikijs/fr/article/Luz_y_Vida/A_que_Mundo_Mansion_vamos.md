@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Antonio Moya, Carmelo Martínez, Eduardo Altuzarra<br>© 2007 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le chemin du paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-8-février-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 8 — février 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -18,7 +39,7 @@ Participants :
 - Carmelo Martínez
 - Eduardo Altuzarra
 
-**Carmelo :** Dans la section 6 du document 49 ([LU 49:6.3-15](/fr/The_Urantia_Book/49#p6_3)) les mortels sont classés en cinq groupes :
+**Carmelo :** Dans la section 6 du document 49 (<a id="a41_48"></a>[LU 49:6.3-15](/fr/The_Urantia_Book/49#p6_3)) les mortels sont classés en cinq groupes :
 
 1. Mortels de survie dispensationnelle ou de groupe.
 2. Mortels d'ascension individuelle.
@@ -30,33 +51,33 @@ Du premier type (ceux avec des gardiens séraphiques collectifs), il n'est pas p
 
 En référence aux mortels d'ascension individuelle, à ceux qui ont atteint le troisième cercle cosmique et à d'autres à qui une paire de tuteurs personnels (par exemple, des réservistes) a été assignée, il est dit :
 
-> « Pendant les premiers âges d’un monde évolutionnaire, rares sont les humains qui vont en jugement le troisième jour. À mesure que les âges s’écoulent, des gardiens personnels de la destinée sont affectés en nombre de plus en plus grand aux mortels en progrès ; des créatures évolutionnaires en quantité croissante sont donc repersonnalisées sur le premier monde des maisons le troisième jour après leur mort naturelle. En ces occasions, le retour de l’Ajusteur est le signal du réveil de l’âme humaine, et c’est la repersonnalisation des morts, tout aussi littéralement qu’au moment de l’appel en masse à la fin d’une dispensation sur les mondes évolutionnaires. » ([LU 49:6.9](/fr/The_Urantia_Book/49#p6_9))
+> « Pendant les premiers âges d’un monde évolutionnaire, rares sont les humains qui vont en jugement le troisième jour. À mesure que les âges s’écoulent, des gardiens personnels de la destinée sont affectés en nombre de plus en plus grand aux mortels en progrès ; des créatures évolutionnaires en quantité croissante sont donc repersonnalisées sur le premier monde des maisons le troisième jour après leur mort naturelle. En ces occasions, le retour de l’Ajusteur est le signal du réveil de l’âme humaine, et c’est la repersonnalisation des morts, tout aussi littéralement qu’au moment de l’appel en masse à la fin d’une dispensation sur les mondes évolutionnaires. » (<a id="a53_669"></a>[LU 49:6.9](/fr/The_Urantia_Book/49#p6_9))
 
-> « Il y a trois groupes d’ascendeurs individuels. Les moins avancés atterrissent sur le monde initial ou premier monde des maisons. Le groupe plus évolué peut entreprendre la carrière morontielle sur l’un des mondes des maisons intermédiaires, conformément à sa progression planétaire antérieure. Les individus les plus avancés de ces ordres inaugurent réellement leur expérience morontielle sur le septième monde des maisons. » ([LU 49:6.10](/fr/The_Urantia_Book/49#p6_10))
+> « Il y a trois groupes d’ascendeurs individuels. Les moins avancés atterrissent sur le monde initial ou premier monde des maisons. Le groupe plus évolué peut entreprendre la carrière morontielle sur l’un des mondes des maisons intermédiaires, conformément à sa progression planétaire antérieure. Les individus les plus avancés de ces ordres inaugurent réellement leur expérience morontielle sur le septième monde des maisons. » (<a id="a55_431"></a>[LU 49:6.10](/fr/The_Urantia_Book/49#p6_10))
 
 Ceux du quatrième type sont définis comme :
 
-> « ...les êtres humains progressifs des mondes évolutionnaires intermédiaires. En règle générale, ils ne sont pas immunisés contre la mort naturelle, mais ils sont exemptés du passage par les sept mondes des maisons. » ([LU 49:6.15](/fr/The_Urantia_Book/49#p6_15))
+> « ...les êtres humains progressifs des mondes évolutionnaires intermédiaires. En règle générale, ils ne sont pas immunisés contre la mort naturelle, mais ils sont exemptés du passage par les sept mondes des maisons. » (<a id="a59_221"></a>[LU 49:6.15](/fr/The_Urantia_Book/49#p6_15))
 
 Et elle continue:
 
-> « Ceux du groupe le moins perfectionné se réveillent au siège de leur système local en ne court-circuitant que les mondes des maisons. Ceux du groupe moyen vont sur les mondes d’entrainement des constellations en court-circuitant tout le régime morontiel du système local. Plus tard encore dans les âges planétaires d’effort spirituel, beaucoup de survivants se réveillent au siège des constellations et commencent, à partir de là, leur ascension vers le Paradis. » ([LU 49:6.16](/fr/The_Urantia_Book/49#p6_16))
+> « Ceux du groupe le moins perfectionné se réveillent au siège de leur système local en ne court-circuitant que les mondes des maisons. Ceux du groupe moyen vont sur les mondes d’entrainement des constellations en court-circuitant tout le régime morontiel du système local. Plus tard encore dans les âges planétaires d’effort spirituel, beaucoup de survivants se réveillent au siège des constellations et commencent, à partir de là, leur ascension vers le Paradis. » (<a id="a63_469"></a>[LU 49:6.16](/fr/The_Urantia_Book/49#p6_16))
 
 Ceux du cinquième type sont définis comme :
 
-> « ...Ces mortels appartiennent au type de vie évolutionnaire à fusion d’Ajusteur, mais représentent le plus souvent les phases finales du développement humain sur un monde en évolution. Ces êtres glorifiés sont dispensés de passer par les portes de la mort ; ils sont soumis à l’emprise du Fils ; ils sont transférés de chez les vivants et paraissent immédiatement en présence du Fils Souverain au siège de l’univers local. » ([LU 49:6.18](/fr/The_Urantia_Book/49#p6_18))
+> « ...Ces mortels appartiennent au type de vie évolutionnaire à fusion d’Ajusteur, mais représentent le plus souvent les phases finales du développement humain sur un monde en évolution. Ces êtres glorifiés sont dispensés de passer par les portes de la mort ; ils sont soumis à l’emprise du Fils ; ils sont transférés de chez les vivants et paraissent immédiatement en présence du Fils Souverain au siège de l’univers local. » (<a id="a67_429"></a>[LU 49:6.18](/fr/The_Urantia_Book/49#p6_18))
 
 Et elle continue:
 
-> « Ils sont les mortels qui ont fusionné avec leur Ajusteur durant la vie mortelle, et ces personnalités fusionnées avec l’Ajusteur traversent librement l’espace avant d’être revêtus de formes morontielles. Ces âmes fusionnées vont directement par transit d’Ajusteur aux salles de résurrection des sphères morontielles supérieures, où elles reçoivent leur investiture morontielle initiale exactement comme les autres mortels arrivant des mondes évolutionnaires. » ([LU 49:6.19](/fr/The_Urantia_Book/49#p6_19))
+> « Ils sont les mortels qui ont fusionné avec leur Ajusteur durant la vie mortelle, et ces personnalités fusionnées avec l’Ajusteur traversent librement l’espace avant d’être revêtus de formes morontielles. Ces âmes fusionnées vont directement par transit d’Ajusteur aux salles de résurrection des sphères morontielles supérieures, où elles reçoivent leur investiture morontielle initiale exactement comme les autres mortels arrivant des mondes évolutionnaires. » (<a id="a71_466"></a>[LU 49:6.19](/fr/The_Urantia_Book/49#p6_19))
 
-Il est clair que ces mortels des « ordres modifiés » ne passent pas par les mondes des maisons bien que « ...avant toutefois que les membres de ces groupes puissent avancer, il faut qu’ils retournent comme éducateurs sur les mondes qu’ils ont court-circuités comme étudiants, et y acquièrent beaucoup d’expérience comme instructeurs... » ([LU 49:6.17](/fr/The_Urantia_Book/49#p6_17)).
+Il est clair que ces mortels des « ordres modifiés » ne passent pas par les mondes des maisons bien que « ...avant toutefois que les membres de ces groupes puissent avancer, il faut qu’ils retournent comme éducateurs sur les mondes qu’ils ont court-circuités comme étudiants, et y acquièrent beaucoup d’expérience comme instructeurs... » (<a id="a73_339"></a>[LU 49:6.17](/fr/The_Urantia_Book/49#p6_17)).
 
 Le doute est dans ceux de l'ascension individuelle car dans le document 47 section 3 il est dit :
 
-> « Si vous ne devez pas être retenu sur le monde des maisons numéro 1, vous entrerez au bout de dix jours dans le sommeil de translation et vous irez sur le monde numéro deux. Vous avancerez ensuite de la même manière tous les dix jours jusqu’à ce que vous arriviez au monde de votre affectation. » ([LU 47:3.10](/fr/The_Urantia_Book/47#p3_10))
+> « Si vous ne devez pas être retenu sur le monde des maisons numéro 1, vous entrerez au bout de dix jours dans le sommeil de translation et vous irez sur le monde numéro deux. Vous avancerez ensuite de la même manière tous les dix jours jusqu’à ce que vous arriviez au monde de votre affectation. » (<a id="a77_301"></a>[LU 47:3.10](/fr/The_Urantia_Book/47#p3_10))
 
-Il fait référence, comme vous le savez, aux dix jours de « détente » dont vous disposez dès votre réveil. Et un peu plus tôt il est dit : [LU 47:3.7](/fr/The_Urantia_Book/47#p3_7) « Sur le monde des maisons numéro un (ou sur un autre si votre statut est plus élevé) vous reprendrez votre entrainement intellectuel et votre développement spirituel au niveau exact où il a été interrompu par la mort... »
+Il fait référence, comme vous le savez, aux dix jours de « détente » dont vous disposez dès votre réveil. Et un peu plus tôt il est dit : <a id="a79_138"></a>[LU 47:3.7](/fr/The_Urantia_Book/47#p3_7) « Sur le monde des maisons numéro un (ou sur un autre si votre statut est plus élevé) vous reprendrez votre entrainement intellectuel et votre développement spirituel au niveau exact où il a été interrompu par la mort... »
 
 Dans les premiers paragraphes que je cite, je comprends que cela va directement au monde qui vous touche. Cependant, dans ce dernier cas, c’est l’impression inverse qui est donnée. En y regardant bien, l'incompatibilité n'est peut-être qu'apparente, puisque le document 49 ne dit pas comment je sais ce que vous pensez ?
 
@@ -64,7 +85,7 @@ Ce dilemme : traverser tous les mondes ou aller directement à destination s'est
 
 Un doute est également apparu lors de cette réunion quant à l'apprentissage de la langue de l'univers local. N'oubliez pas que :
 
-> « Ayant acquis la maitrise du langage de l’univers local avant de quitter le quatrième monde des maisons, vous consacrez maintenant plus de temps à vous perfectionner dans la langue d’Uversa, afin de bien posséder les deux langues avant d’arriver sur Jérusem avec statut de résident. Tous les mortels ascendants sont bilingues depuis le siège de leur système jusqu’à Havona, et, là, il suffit d’enrichir le vocabulaire du superunivers. Il faudra l’étendre encore plus pour pouvoir résider au Paradis. » ([LU 47:7.2](/fr/The_Urantia_Book/47#p7_2))
+> « Ayant acquis la maitrise du langage de l’univers local avant de quitter le quatrième monde des maisons, vous consacrez maintenant plus de temps à vous perfectionner dans la langue d’Uversa, afin de bien posséder les deux langues avant d’arriver sur Jérusem avec statut de résident. Tous les mortels ascendants sont bilingues depuis le siège de leur système jusqu’à Havona, et, là, il suffit d’enrichir le vocabulaire du superunivers. Il faudra l’étendre encore plus pour pouvoir résider au Paradis. » (<a id="a87_506"></a>[LU 47:7.2](/fr/The_Urantia_Book/47#p7_2))
 
 Qu’en est-il de ceux qui commencent leur carrière dans le cinquième, sixième ou septième monde des maisons ? Et ceux qui commencent même après le siège du système, comment apprennent-ils le langage du superunivers ?
 
@@ -72,11 +93,11 @@ Qu’en est-il de ceux qui commencent leur carrière dans le cinquième, sixièm
 
 Les mortels des âges de lumière et de vie sont ceux qui sautent généralement une partie du régime morontiel, en raison de leur avancement spirituel. Évidemment, un mortel de notre époque n’est pas le même qu’un mortel du temps des grottes, ou un mortel du temps de la lumière et de la vie par rapport à nous.
 
-Concernant l'apprentissage des langues de l'univers : « On observe que dans ces mondes extrêmement évolués qui sont depuis longtemps au septième stade (de lumière et de vie), les êtres humains apprennent complètement (dans leur monde de naissance) la langue de l'univers local avant d'être transféré (avant de fusionner avec votre Ajusteur) ; et j'ai visité des planètes très anciennes où les abandonnaires enseignaient aux mortels les plus âgés le langage du superunivers. ([Documento 55, punto 6](/fr/The_Urantia_Book/55#p6)).
+Concernant l'apprentissage des langues de l'univers : « On observe que dans ces mondes extrêmement évolués qui sont depuis longtemps au septième stade (de lumière et de vie), les êtres humains apprennent complètement (dans leur monde de naissance) la langue de l'univers local avant d'être transféré (avant de fusionner avec votre Ajusteur) ; et j'ai visité des planètes très anciennes où les abandonnaires enseignaient aux mortels les plus âgés le langage du superunivers. (<a id="a95_475"></a>[Documento 55, punto 6](/fr/The_Urantia_Book/55#p6)).
 
 Comme vous le voyez, tout est prévu.
 
-**Carmelo :** Si l'alternative à l'apprentissage de la langue de l'univers local ou du superunivers sur les mondes des maisons est de le faire sur sa planète d'origine, alors les ascendants des ordres d'ascension modifiés n'apparaissent que sur les planètes sur lesquelles ils se trouvent. sommes dans la septième étape (de la lumière et de la vie) depuis longtemps, ou très longtemps. Ce n’est pas l’impression que j’ai en lisant le document 55. À tous les stades de la lumière et de la vie, même plus tôt et bien plus tôt, il y a des mortels qui fusionnent avec leur ajusteur dans la première vie, contournant ainsi tout le régime morontiel et allant directement au siège de l'univers local. Vraisemblablement, il y aura plus d'ascendants de l'ordre d'ascension secondaire modifié que de l'ordre primaire, et ils vivront donc également à tous les stades de l'évolution d'une planète. Le paragraphe [LU 49:6.16](/fr/The_Urantia_Book/49#p6_16) lui-même le suggère. Où apprennent-ils tous ces langues ?
+**Carmelo :** Si l'alternative à l'apprentissage de la langue de l'univers local ou du superunivers sur les mondes des maisons est de le faire sur sa planète d'origine, alors les ascendants des ordres d'ascension modifiés n'apparaissent que sur les planètes sur lesquelles ils se trouvent. sommes dans la septième étape (de la lumière et de la vie) depuis longtemps, ou très longtemps. Ce n’est pas l’impression que j’ai en lisant le document 55. À tous les stades de la lumière et de la vie, même plus tôt et bien plus tôt, il y a des mortels qui fusionnent avec leur ajusteur dans la première vie, contournant ainsi tout le régime morontiel et allant directement au siège de l'univers local. Vraisemblablement, il y aura plus d'ascendants de l'ordre d'ascension secondaire modifié que de l'ordre primaire, et ils vivront donc également à tous les stades de l'évolution d'une planète. Le paragraphe <a id="a99_900"></a>[LU 49:6.16](/fr/The_Urantia_Book/49#p6_16) lui-même le suggère. Où apprennent-ils tous ces langues ?
 
 **Eduardo:** Tout d'abord, il faut savoir faire la différence entre les termes généraux dans lesquels parle l'LU et ceux liés à Urantia. Dans le cas présent, parlons en termes généraux. Et deuxièmement, sur les cinq groupes, nous avons pris en compte, pour l'instant, les deux premiers.
 
@@ -90,7 +111,7 @@ Où vont ceux qui ont réussi à atteindre les différents cercles de sept à qu
 
 Et on finit par copier une partie du premier paragraphe du Dto. 55 afin de nous encourager.
 
-> « Les limitations dues à l’environnement ne peuvent pas non plus, **même sur un monde isolé**, contrecarrer l’aboutissement personnel de l’individu mortel. Jésus de Nazareth, **en tant qu’homme** parmi les hommes, atteignit personnellement le statut de lumière et de vie sur Urantia, il y a plus de dix-neuf-cents ans. » ([LU 55:11.7](/fr/The_Urantia_Book/55#p11_7))
+> « Les limitations dues à l’environnement ne peuvent pas non plus, **même sur un monde isolé**, contrecarrer l’aboutissement personnel de l’individu mortel. Jésus de Nazareth, **en tant qu’homme** parmi les hommes, atteignit personnellement le statut de lumière et de vie sur Urantia, il y a plus de dix-neuf-cents ans. » (<a id="a113_324"></a>[LU 55:11.7](/fr/The_Urantia_Book/55#p11_7))
 
 **Carmelo :** Ce n'est pas que je sois particulièrement intéressé par le moment ou la manière dont les langues de l'univers sont étudiées. Ce qui m'intéresse, c'est de comprendre comment sont les choses, même si elles sont loin de nous dans le temps. Je voulais, et je veux, savoir ce que sont les ascendants des ordres d'ascension modifiés et quand ils apparaissent, et la question des langues m'a semblé, et me semble, une piste à suivre.
 
@@ -118,3 +139,25 @@ Vous demandez, ne méritent-ils rien ?... (?)... Bien sûr qu'ils méritent ! Ch
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le chemin du paradis</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-8-février-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 8 — février 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

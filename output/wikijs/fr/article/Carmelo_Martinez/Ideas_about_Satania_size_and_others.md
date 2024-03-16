@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Carmelo Martínez<br>© 2009 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_19_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 19 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-19-décembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 19 — décembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Garcia/Sobre_el_perdon">
+          <span class="pr-2">Sur le pardon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introduction
@@ -33,9 +57,9 @@ _Le Livre d'Urantia_ classe les sphères de l'espace comme suit :
 4. Les planètes, qui comprennent les mondes habités.
 5. Sphères architecturales : des mondes créés sur commande. Pour ce travail, je souhaite me concentrer uniquement sur les deux premiers types.
 
-D'une part, les soleils sont les sphères chaudes qui diffusent de la lumière et de l'énergie ([LU 41:3.1](/fr/The_Urantia_Book/41#p3_1)). Ce sont les étoiles que nous voyons dans le ciel étoilé et que l’on observe avec des télescopes.
+D'une part, les soleils sont les sphères chaudes qui diffusent de la lumière et de l'énergie (<a id="a59_94"></a>[LU 41:3.1](/fr/The_Urantia_Book/41#p3_1)). Ce sont les étoiles que nous voyons dans le ciel étoilé et que l’on observe avec des télescopes.
 
-En revanche, les îles sombres sont des sphères qui n’émettent ni lumière ni énergie. Leur origine est diverse ([LU 15:5.10-11](/fr/The_Urantia_Book/15#p5_10)) : certaines sont le résultat d'augmentations d'énergie en transmutation de l'espace. D'autres sont des accumulations de matière qui circulent dans l'espace. Ces sphères n'ont jamais été chaudes.
+En revanche, les îles sombres sont des sphères qui n’émettent ni lumière ni énergie. Leur origine est diverse (<a id="a61_111"></a>[LU 15:5.10-11](/fr/The_Urantia_Book/15#p5_10)) : certaines sont le résultat d'augmentations d'énergie en transmutation de l'espace. D'autres sont des accumulations de matière qui circulent dans l'espace. Ces sphères n'ont jamais été chaudes.
 
 Enfin, d’autres sont des soleils déjà éteints.
 
@@ -43,7 +67,7 @@ Il faut noter que les îles ne sont normalement pas visibles comme le sont les s
 
 ## Composition physique de Satania
 
-Satania possède plus de sept mille systèmes planétaires ([LU 41:2.2](/fr/The_Urantia_Book/41#p2_2)), mais elle ne compte qu'environ deux mille soleils ([LU 41:3.1](/fr/The_Urantia_Book/41#p3_1)). Cela signifie que le centre d’environ cinq mille systèmes est une île sombre. Les planètes situées dans ces systèmes insulaires sombres ne sont probablement pas habitables.
+Satania possède plus de sept mille systèmes planétaires (<a id="a69_57"></a>[LU 41:2.2](/fr/The_Urantia_Book/41#p2_2)), mais elle ne compte qu'environ deux mille soleils (<a id="a69_152"></a>[LU 41:3.1](/fr/The_Urantia_Book/41#p3_1)). Cela signifie que le centre d’environ cinq mille systèmes est une île sombre. Les planètes situées dans ces systèmes insulaires sombres ne sont probablement pas habitables.
 
 Il existe donc environ deux mille systèmes planétaires comportant des planètes susceptibles d’héberger la vie. Cependant, Satania sera finalement composée d'un millier de planètes habitées, ce qui signifie qu'il y aura plus d'un millier de systèmes (il existe des systèmes avec plus d'une planète habitée) qui n'auront pas de planètes habitées.
 
@@ -51,7 +75,7 @@ Il existe donc environ deux mille systèmes planétaires comportant des planète
 
 _Le Livre d'Urantia_ donne une indication claire sur la densité des soleils dans l'espace. Il n'indique pas si cette densité est la même dans tout le superunivers, ni même dans tous les superunivers, mais il semble clair qu'elle s'applique à l'ensemble de l'univers local (le titre du document est Aspects physiques de l'univers local), et il semble il est probable qu'il puisse être appliqué au reste du disque de la Voie lactée.
 
-Le paragraphe en question est [LU 41:3.2](/fr/The_Urantia_Book/41#p3_2) et il déclare que l’espace pour abriter les soleils est équivalent à ce qu’aurait une douzaine d’oranges à l’intérieur de notre planète si elle était creuse.
+Le paragraphe en question est <a id="a77_30"></a>[LU 41:3.2](/fr/The_Urantia_Book/41#p3_2) et il déclare que l’espace pour abriter les soleils est équivalent à ce qu’aurait une douzaine d’oranges à l’intérieur de notre planète si elle était creuse.
 
 De cette indication claire seront déduits approximativement les volumes de Satania et de Nébadon.
 
@@ -91,7 +115,7 @@ En supposant que Jérusem soit le centre d'une sphère, d'un dodécaèdre rhombi
 
 Quant à Nébadon, les distances maximales seraient respectivement de 1 600, 2 040 et 1 820, et les moyennes seraient respectivement de 1 200, 1 220 et 1 270 années-lumière. On constate que la distance moyenne d'un dodécaèdre est un peu supérieure à celle de la sphère (la plus petite possible) mais nettement inférieure à celle du cube. Le dodécaèdre semble donc être un meilleur polyèdre du point de vue de l'économie des transports et des communications que le cube, tous deux étant capables de couvrir 100 % de l'espace disponible. Cependant, les distances maximales sont plus grandes dans le dodécaèdre, ce qui indique que l'extension des zones les plus éloignées est plus grande dans le cube que dans le dodécaèdre.
 
-Selon [LU 39:3.9](/fr/The_Urantia_Book/39#p3_9), les séraphins transporteurs qui transportent les êtres vers et depuis le siège de la constellation atteignent des vitesses pratiquement trois fois supérieures à celles de la lumière. Vraisemblablement, le reste des séraphins de transport se déplacent également à ces vitesses. Ainsi, les délais pour arriver sécurisé du point le plus éloigné du système jusqu'à la capitale, Jérusem, seront respectivement d'environ 25, 32 et 28 ans pour les trois voies possibles analysées ; et les temps moyens d'environ 19, 19 et 20 années-lumière respectivement.
+Selon <a id="a117_6"></a>[LU 39:3.9](/fr/The_Urantia_Book/39#p3_9), les séraphins transporteurs qui transportent les êtres vers et depuis le siège de la constellation atteignent des vitesses pratiquement trois fois supérieures à celles de la lumière. Vraisemblablement, le reste des séraphins de transport se déplacent également à ces vitesses. Ainsi, les délais pour arriver sécurisé du point le plus éloigné du système jusqu'à la capitale, Jérusem, seront respectivement d'environ 25, 32 et 28 ans pour les trois voies possibles analysées ; et les temps moyens d'environ 19, 19 et 20 années-lumière respectivement.
 
 De même, les temps pour atteindre le point le plus éloigné de l'univers local jusqu'à la capitale, Sálvington, seront respectivement d'environ 533, 680 et 607 ans, et les temps moyens seront respectivement d'environ 400, 407 et 423 ans.
 
@@ -101,15 +125,15 @@ Il est difficile de connaître précisément quelles sont les dimensions de la V
 
 Il y a sans aucun doute des planètes habitables dans le disque ; Dans le renflement, il y aurait un trou noir, il est donc difficile de savoir s’il présente des conditions favorables à l’existence de planètes habitables. Il me semble certain qu'il y a des planètes habitables dans le halo.
 
-En [LU 15:3.1](/fr/The_Urantia_Book/15#p3_1), la Voie Lactée représenterait le noyau central d'Orvonton. Il est donc clair qu’en plus de la Voie lactée, Orvonton possède d’autres galaxies et étoiles. Je ne pense pas que « central » doive être compris comme signifiant que la Voie Lactée est au centre d'Orvonton (position centrale incompatible avec les distances indiquées au paragraphe %%1%), et « central » signifie aussi « essentiel », « principal » ou « fondamental ». Comme [LU 32:2.11](/fr/The_Urantia_Book/32#p2_11) le suggère, je crois que la Voie Lactée occupe une extrémité d'Orvonton (la Voie Lactée a un diamètre de 100 000 années-lumière et Orvonton fait 500 000 années-lumière d'une extrémité à l'autre ; de Jérusem au centre physique d'Orvonton il y a 200 000 années-lumière ; Satania est à la périphérie de Nébadon et Nébadon est près des limites d'Orvonton).
+En <a id="a127_3"></a>[LU 15:3.1](/fr/The_Urantia_Book/15#p3_1), la Voie Lactée représenterait le noyau central d'Orvonton. Il est donc clair qu’en plus de la Voie lactée, Orvonton possède d’autres galaxies et étoiles. Je ne pense pas que « central » doive être compris comme signifiant que la Voie Lactée est au centre d'Orvonton (position centrale incompatible avec les distances indiquées au paragraphe %%1%), et « central » signifie aussi « essentiel », « principal » ou « fondamental ». Comme <a id="a127_479"></a>[LU 32:2.11](/fr/The_Urantia_Book/32#p2_11) le suggère, je crois que la Voie Lactée occupe une extrémité d'Orvonton (la Voie Lactée a un diamètre de 100 000 années-lumière et Orvonton fait 500 000 années-lumière d'une extrémité à l'autre ; de Jérusem au centre physique d'Orvonton il y a 200 000 années-lumière ; Satania est à la périphérie de Nébadon et Nébadon est près des limites d'Orvonton).
 
 Pour savoir quelle partie d'Orvonton est la Voie Lactée, nous devons estimer combien d'univers locaux la galaxie peut contenir en fonction de son volume et du volume d'un univers local. Le volume d'un univers local a été estimé avec, à mon avis, une approximation considérable, ayant été déduit d'une indication claire de la densité des soleils dans l'espace. L'estimation du volume de la Voie lactée est plus compliquée et l'approximation sera bien pire. Juste dans le but de proposer une approximation approximative de la partie d'Orvonton qui constitue notre Voie Lactée, je calculerai son volume en supposant qu'il s'agit d'un disque de 50 000 années-lumière de rayon et de 18 000 années-lumière d'épaisseur moyenne, sans renflement ni halo. En réalité, c'est une approximation très grossière que de calculer le nombre d'univers en appliquant la densité de soleils dans cette zone de la Voie Lactée à l'ensemble du disque, sachant que cette densité peut être très différente dans d'autres zones du disque galactique. et surtout dans le renflement central ou proche de celui-ci, et sachant qu'il est possible que des univers périphériques (comme le nôtre ?) occupent des zones adjacentes appartenant au halo. Le volume résultant est de 141 371 669 400 000 années-lumière cubes tandis que celui d’un univers local est de 17 576 000 000 années-lumière cubes. La relation entre les deux est 8,043. La Voie Lactée aurait donc environ huit mille univers locaux sur les cent mille superunivers, c'est-à-dire qu'elle représenterait 8 pour cent d'Orvonton.
 
-Avec ce calcul approximatif j'ose l'hypothèse que la Voie Lactée est l'un des dix secteurs majeurs d'Orvonton, plus précisément le cinquième, dont le capital est le cinquième Umajor ([LU 15:14.7](/fr/The_Urantia_Book/15#p14_7)). Si l'on ajoute l'hypothèse qu'Orvonton est une énorme ellipse de même épaisseur moyenne que la Voie Lactée (18 000 années-lumière) et que l'on rappelle que le grand axe de cette ellipse est de 500 000 années-lumière ([LU 32:2.11](/fr/The_Urantia_Book/32#p2_11)), nous calculerons, sachant que le volume total d'Orvonton doit être 10 fois supérieur à celui de la Voie Lactée, dont le petit axe sera de 200 000 années-lumière.
+Avec ce calcul approximatif j'ose l'hypothèse que la Voie Lactée est l'un des dix secteurs majeurs d'Orvonton, plus précisément le cinquième, dont le capital est le cinquième Umajor (<a id="a131_183"></a>[LU 15:14.7](/fr/The_Urantia_Book/15#p14_7)). Si l'on ajoute l'hypothèse qu'Orvonton est une énorme ellipse de même épaisseur moyenne que la Voie Lactée (18 000 années-lumière) et que l'on rappelle que le grand axe de cette ellipse est de 500 000 années-lumière (<a id="a131_446"></a>[LU 32:2.11](/fr/The_Urantia_Book/32#p2_11)), nous calculerons, sachant que le volume total d'Orvonton doit être 10 fois supérieur à celui de la Voie Lactée, dont le petit axe sera de 200 000 années-lumière.
 
-La figure 1 représente à une échelle approximative une ellipse de 500 000 années-lumière sur le grand axe et 200 000 sur le petit axe, à une extrémité de laquelle se trouve la Voie Lactée, de 100 000 années-lumière de diamètre. La justification de cette localisation extrême de la Voie Lactée a déjà été notée. La circonférence des points situés à 200 000 années-lumière du centre physique du superunivers a été dessinée en vert, et à l'intérieur de la Voie Lactée une circonférence centrée de rayon 30 000 années-lumière, qui est la distance du Soleil à son centre. Sur cette circonférence, les points situés à plus de 200 000 années-lumière du centre physique d'Orvonton ont été marqués en rouge. Notre système doit être dans la zone correspondant à l'un de ces points marqués en rouge. La figure 2 représente le niveau spatial des superunivers tel que défini par le paragraphe [LU 15:1.4](/fr/The_Urantia_Book/15#p1_4). Cette distribution justifie la direction vers Havona indiquée sur la figure 1, et le paragraphe 167:19 justifie la position de notre système dans la circonférence de 30 000 années-lumière de rayon.
+La figure 1 représente à une échelle approximative une ellipse de 500 000 années-lumière sur le grand axe et 200 000 sur le petit axe, à une extrémité de laquelle se trouve la Voie Lactée, de 100 000 années-lumière de diamètre. La justification de cette localisation extrême de la Voie Lactée a déjà été notée. La circonférence des points situés à 200 000 années-lumière du centre physique du superunivers a été dessinée en vert, et à l'intérieur de la Voie Lactée une circonférence centrée de rayon 30 000 années-lumière, qui est la distance du Soleil à son centre. Sur cette circonférence, les points situés à plus de 200 000 années-lumière du centre physique d'Orvonton ont été marqués en rouge. Notre système doit être dans la zone correspondant à l'un de ces points marqués en rouge. La figure 2 représente le niveau spatial des superunivers tel que défini par le paragraphe <a id="a133_880"></a>[LU 15:1.4](/fr/The_Urantia_Book/15#p1_4). Cette distribution justifie la direction vers Havona indiquée sur la figure 1, et le paragraphe 167:19 justifie la position de notre système dans la circonférence de 30 000 années-lumière de rayon.
 
-En regardant la figure 1, on pourrait déduire que le volume d'Orvonton qui se trouve en dehors de la Voie Lactée est occupé par des amas et des systèmes stellaires plus petits que la Voie Lactée, ce qui justifierait de le considérer comme le « noyau central » du superunivers car il s'agit d'un très grand système stellaire comparé aux autres à Orvonton. Quoi qu'il en soit, ces autres systèmes plus petits doivent avoir une répartition qui permette, avec la Voie Lactée, de reconnaître « immédiatement les dix plus grands secteurs de la septième galaxie » ([LU 15:3.4](/fr/The_Urantia_Book/15#p3_4)).
+En regardant la figure 1, on pourrait déduire que le volume d'Orvonton qui se trouve en dehors de la Voie Lactée est occupé par des amas et des systèmes stellaires plus petits que la Voie Lactée, ce qui justifierait de le considérer comme le « noyau central » du superunivers car il s'agit d'un très grand système stellaire comparé aux autres à Orvonton. Quoi qu'il en soit, ces autres systèmes plus petits doivent avoir une répartition qui permette, avec la Voie Lactée, de reconnaître « immédiatement les dix plus grands secteurs de la septième galaxie » (<a id="a135_558"></a>[LU 15:3.4](/fr/The_Urantia_Book/15#p3_4)).
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV19/01.jpg">
@@ -123,7 +147,7 @@ En regardant la figure 1, on pourrait déduire que le volume d'Orvonton qui se t
 
 ## Conclusion
 
-Le paragraphe [LU 41:3.2](/fr/The_Urantia_Book/41#p3_2) est une indication claire de la densité des soleils dans l'espace de notre univers local – et probablement d'autres univers locaux de la Voie Lactée – qui, avec d'autres données du _Livre d'Urantia_, nous permet d'estimer la volume de Satania et Nébadon.
+Le paragraphe <a id="a149_14"></a>[LU 41:3.2](/fr/The_Urantia_Book/41#p3_2) est une indication claire de la densité des soleils dans l'espace de notre univers local – et probablement d'autres univers locaux de la Voie Lactée – qui, avec d'autres données du _Livre d'Urantia_, nous permet d'estimer la volume de Satania et Nébadon.
 
 Avec quelques hypothèses supplémentaires, la distance moyenne entre les étoiles dans cette zone de création, et l'ordre de grandeur des distances dans Satania et Nébadon, ont été estimés.
 
@@ -133,3 +157,28 @@ En supposant certaines hypothèses sur les dimensions de la Voie Lactée, et à 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_19_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 19 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-19-décembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 19 — décembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Garcia/Sobre_el_perdon">
+          <span class="pr-2">Sur le pardon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

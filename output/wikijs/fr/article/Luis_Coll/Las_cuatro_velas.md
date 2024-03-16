@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Luis Coll<br>© 2009 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Combien de mortels survivent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-18-septembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 18 — septembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_4">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -34,3 +58,28 @@ Et que chacun de nous sache comment être l'outil dont les enfants ont besoin po
 <img src="/image/article/Luz_y_Vida/LyV18/03.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Trevor_Swadling/Cuantos_mortales_sobreviven">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Combien de mortels survivent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-18-septembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 18 — septembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_4">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,9 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 José Alberto Wonsover<br>© 2007 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Los_Circulos_de_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les cercles de Jérusem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-10-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 10 — septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="pr-2">L'étoile de Bethléem. Faits intéressants fournis par l'astronomie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> _« En tant que nouvelle créature de la renaissance de l’esprit, vous apprenez à croire et à vous réjouir. Dans le royaume du Père, vous deviendrez de nouvelles créatures ; les anciennes choses doivent disparaitre ; voici, je vous montre comment toutes choses doivent devenir nouvelles. »_ ([LU 143:2.3](/fr/The_Urantia_Book/143#p2_3))
+
+> _« En tant que nouvelle créature de la renaissance de l’esprit, vous apprenez à croire et à vous réjouir. Dans le royaume du Père, vous deviendrez de nouvelles créatures ; les anciennes choses doivent disparaitre ; voici, je vous montre comment toutes choses doivent devenir nouvelles. »_ (<a id="a37_292"></a>[LU 143:2.3](/fr/The_Urantia_Book/143#p2_3))
 
 Toutes choses doivent être renouvelées ; et dans la vie elle-même, c'est comme ça !... Chaque jour et chaque matin est un nouveau jour, avec de nouvelles opportunités et de nouveaux défis. Ce n'est pas le même jour qu'hier. C'est un tout nouveau. De plus, chaque seconde qui passe est complètement nouvelle. Mais la monotonie est ce qui nous fait voir « tout » de la même manière. Nous allons à notre travail ou à nos études et voyons comme si rien ne changeait. Et logiquement, rien ne changera si nous ne changeons pas _<ins>d'abord</ins>_. Nous devons nous renouveler, nous devons être de nouvelles créatures. Ce n’est pas que « nous pourrions être… » c’est que _<ins>nous devrions</ins>_ être.
 
@@ -19,11 +43,11 @@ Un papillon avant d’être papillon est une chenille. Ce doit être. Parce que 
 
 Le Maître distribuait toujours la Bonne Nouvelle, c'était toujours la Nouvelle. Par exemple, lorsqu'il rencontra Nalda, la Samaritaine au puits de Jacob, il lui dit :
 
-> « _Femme, va ton chemin, Dieu t’a pardonné. Tu vivras désormais une nouvelle vie. Tu as reçu l’eau vivante ; une joie nouvelle jaillira dans ton âme et tu deviendras une fille du Très-Haut._ » ([LU 143:5.9](/fr/The_Urantia_Book/143#p5_9))
+> « _Femme, va ton chemin, Dieu t’a pardonné. Tu vivras désormais une nouvelle vie. Tu as reçu l’eau vivante ; une joie nouvelle jaillira dans ton âme et tu deviendras une fille du Très-Haut._ » (<a id="a45_196"></a>[LU 143:5.9](/fr/The_Urantia_Book/143#p5_9))
 
 Tous les nouveaux! Une nouvelle vie et une nouvelle joie ! Pas la joie normale que nous connaissons normalement, pas la vie normale que nous vivons normalement... Une nouvelle vie et une nouvelle joie !
 
-> _« Vous vous aimerez les uns les autres d’un amour <ins>nouveau et remarquable</ins>, comme je vous ai aimés. Vous servirez l’humanité avec une dévotion <ins>nouvelle et étonnante</ins>, comme je vous ai servis._ ([LU 191:6.2](/fr/The_Urantia_Book/191#p6_2))
+> _« Vous vous aimerez les uns les autres d’un amour <ins>nouveau et remarquable</ins>, comme je vous ai aimés. Vous servirez l’humanité avec une dévotion <ins>nouvelle et étonnante</ins>, comme je vous ai servis._ (<a id="a49_216"></a>[LU 191:6.2](/fr/The_Urantia_Book/191#p6_2))
 
 Ce n'est pas seulement le sentiment de quelque chose de nouveau et tout reste pareil... C'est quelque chose de vraiment NOUVEAU ! Il est né en nous. Cette nouvelle vie et cette nouvelle joie sont nées.
 
@@ -65,7 +89,7 @@ Les eaux d'une rivière ne sont jamais les mêmes. La rivière a peut-être le m
 
 En religion, c'est comme ça. La même religion que le Maître nous a montrée est une religion personnelle, mais avant tout une religion d'AMOUR, de joie, de joie et de bonheur.
 
-> _La religion de Jésus exige une expérience vivante et spirituelle. D’autres religions peuvent consister en croyances traditionnelles, en sentiments émotifs, en conscience philosophique et tout cela ensemble, mais l’enseignement du Maitre implique qu’il faut effectivement atteindre les niveaux de progression spirituelle réelle._ ([LU 160:5.12](/fr/The_Urantia_Book/160#p5_12))
+> _La religion de Jésus exige une expérience vivante et spirituelle. D’autres religions peuvent consister en croyances traditionnelles, en sentiments émotifs, en conscience philosophique et tout cela ensemble, mais l’enseignement du Maitre implique qu’il faut effectivement atteindre les niveaux de progression spirituelle réelle._ (<a id="a91_333"></a>[LU 160:5.12](/fr/The_Urantia_Book/160#p5_12))
 
 Couper le « traditionnel », c’est couper le passé et accueillir quelque chose de NOUVEAU et de meilleur. C'est un processus difficile, ardu, car l'esprit « s'habitue » à ce qui est traditionnel. Et céder la place à quelque chose de nouveau, c’est céder la place à quelque chose d’inconnu. Cela nous fait peur ! Bien sûr que oui. Nous ne savons pas ce qui va se passer. On ne sait pas si la chenille se _<ins>transformera</ins>_ en papillon. On connaît la chenille, mais pas le papillon.
 
@@ -73,7 +97,7 @@ On « s'habitue » à ce qu'on connaît, on a « peur » de ce qu'on ne connaît
 
 Et pourtant, nous connaissons peut-être _<ins>le meilleur</ins>_ des exemples. Au début, c'est difficile pour nous de l'accepter, c'est vrai, mais nous connaissons quelqu'un qui a vécu ce que nous avons vécu... La vie du Maître. Cela ne signifie pas « imiter » la vie du Maître. Cela signifie accepter ce qu’il a accepté et vivre notre propre vie en conséquence.
 
-> « _« Si vous voulez me suivre quand je vous quitterai, faites des efforts sérieux pour vivre conformément à l’esprit de mes enseignements et à l’idéal de ma vie — à <ins>l’accomplissement de la volonté de mon Père</ins>. Faites cela au lieu d’essayer d’imiter le cours naturel de ma vie d’incarnation telle que j’ai été tenu, par nécessité, de la vivre sur ce monde._ » ([LU 181:1.3](/fr/The_Urantia_Book/181#p1_3))
+> « _« Si vous voulez me suivre quand je vous quitterai, faites des efforts sérieux pour vivre conformément à l’esprit de mes enseignements et à l’idéal de ma vie — à <ins>l’accomplissement de la volonté de mon Père</ins>. Faites cela au lieu d’essayer d’imiter le cours naturel de ma vie d’incarnation telle que j’ai été tenu, par nécessité, de la vivre sur ce monde._ » (<a id="a99_373"></a>[LU 181:1.3](/fr/The_Urantia_Book/181#p1_3))
 
 Même imiter une vie exactement telle que celle vécue par le Maître devient traditionnelle et monotone. Chacun vit sa vie différemment. Aucun cristal de neige n’est jamais identique, il n’y en a jamais deux identiques. Même chaque personne est différente, il n’y a jamais deux empreintes digitales exactement identiques. Tout est toujours quelque chose de nouveau. Nous ne pouvons pas vivre la vie du Maître parce qu'il l'a vécue à sa manière. Mais nous pouvons vivre notre vie avec les mêmes principes et idéaux. Ces idéaux nous aideront et nous réconforteront toujours.
 
@@ -81,3 +105,28 @@ Même imiter une vie exactement telle que celle vécue par le Maître devient tr
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Los_Circulos_de_Jerusem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les cercles de Jérusem</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-10-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 10 — septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/La_estrella_de_Belen">
+          <span class="pr-2">L'étoile de Bethléem. Faits intéressants fournis par l'astronomie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

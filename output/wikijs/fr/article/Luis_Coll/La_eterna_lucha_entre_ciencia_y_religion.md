@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Luis Coll<br>© 2015 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Reflexiones_para_educadores_y_creyentes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions pour les éducateurs et les croyants de la Cinquième Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-41-septembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 41 — septembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_la_agricultura">
+          <span class="pr-2">Convergences et divergences : agriculture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 A ce sujet, je me souviens de ce dialogue du film « Contact » (Robert Zmeckis, 1997, http://www.youtube.com/watch?v=eB8hVEv6IBE) :
@@ -28,7 +52,7 @@ A ce sujet, je me souviens de ce dialogue du film « Contact » (Robert Zmeckis,
 
 Il est tout à fait possible que d’autres mondes habités et d’autres niveaux de réalité existent dans l’univers. Le gros problème pour nous est que nous ne pouvons pas voir ces différents niveaux de réalité avec nos yeux et nos sens naturels, mais cela ne veut pas du tout dire qu'ils n'existent pas, du simple fait que nous ne pouvons pas les voir ou les ressentir.
 
-> Ces niveaux de réalité sont des symbolisations de compromis appropriés du présent âge de l’univers et pour la perspective mortelle Il y a bien d’autres manières de voir la réalité selon une perspective autre-que-mortelle et du point de vue d’âges d’univers différents. Il faut donc reconnaitre que les concepts présentés ici sont entièrement relatifs, relatifs en ce sens qu’ils sont conditionnés et bornés par : ([LU 106:0.10](/fr/The_Urantia_Book/106#p0_10))
+> Ces niveaux de réalité sont des symbolisations de compromis appropriés du présent âge de l’univers et pour la perspective mortelle Il y a bien d’autres manières de voir la réalité selon une perspective autre-que-mortelle et du point de vue d’âges d’univers différents. Il faut donc reconnaitre que les concepts présentés ici sont entièrement relatifs, relatifs en ce sens qu’ils sont conditionnés et bornés par : (<a id="a54_416"></a>[LU 106:0.10](/fr/The_Urantia_Book/106#p0_10))
 
 Lorsque nous regardons le ciel étoilé, il est inévitable de penser ou de croire que tout cela n'aurait pas pu être fait seul, et l'idée surgit immédiatement que tout cela a dû être fait par quelqu'un, un Dieu, un Créateur ou ce que nous voulons. pour l'appeler, et c'est de là qu'est née la religion (la vraie religion), et les gens qui se sont consacrés à l'étude de ces choses l'ont appelé science.
 
@@ -38,7 +62,7 @@ La science est basée sur des faits, elle veut des preuves, elle veut analyser, 
 
 Ni la science, ni la philosophie, ni même la religion ne pourront prouver physiquement l’existence de Dieu. Cela ne peut être perçu qu’au niveau de l’âme humaine.
 
-> _En ce qui concerne la vie de l’homme sur terre, la science est une expérience quantitative, et la religion une expérience qualitative. ***La science s’occupe des phénomènes ; la religion des origines, des valeurs et des buts***._ ([LU 195:6.5](/fr/The_Urantia_Book/195#p6_5))
+> _En ce qui concerne la vie de l’homme sur terre, la science est une expérience quantitative, et la religion une expérience qualitative. ***La science s’occupe des phénomènes ; la religion des origines, des valeurs et des buts***._ (<a id="a64_234"></a>[LU 195:6.5](/fr/The_Urantia_Book/195#p6_5))
 
 La science se consacre à l’étude des faits matériels et physiques de la vie et de l’univers. La religion (la vraie religion) est basée sur la foi, l’espérance et l’amour, ainsi que sur la poursuite des valeurs élevées d’amour, de beauté et de bonté.
 
@@ -48,7 +72,7 @@ La science se consacre à l’étude des faits matériels et physiques de la vie
 
 Les personnes qui ont vécu l’expérience de trouver Dieu ne peuvent pas trouver de mots adéquats pour exprimer ce qu’elles ont vu ou vécu à ce niveau de réalité. Cette expérience a reçu différents noms : « naître de nouveau », « éveil de la conscience », « illumination spirituelle », etc.
 
-> _Les valeurs paradisiaques d’éternité et d’infinité, de vérité, de beauté et de bonté, sont dissimulées dans les faits des phénomènes des univers du temps et de l’espace. Mais il faut l’œil de la foi chez un mortel né d’esprit pour détecter et discerner ces valeurs spirituelles._ ([LU 195:7.4](/fr/The_Urantia_Book/195#p7_4))
+> _Les valeurs paradisiaques d’éternité et d’infinité, de vérité, de beauté et de bonté, sont dissimulées dans les faits des phénomènes des univers du temps et de l’espace. Mais il faut l’œil de la foi chez un mortel né d’esprit pour détecter et discerner ces valeurs spirituelles._ (<a id="a74_284"></a>[LU 195:7.4](/fr/The_Urantia_Book/195#p7_4))
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV41/10b.jpg">
@@ -66,3 +90,28 @@ Pour finir, une autre citation du film :
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Reflexiones_para_educadores_y_creyentes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions pour les éducateurs et les croyants de la Cinquième Révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-41-septembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 41 — septembre 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_la_agricultura">
+          <span class="pr-2">Convergences et divergences : agriculture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

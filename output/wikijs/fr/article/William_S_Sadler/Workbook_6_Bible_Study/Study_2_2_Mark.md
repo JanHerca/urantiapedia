@@ -111,7 +111,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 2. C'est vraiment l'Évangile selon les enseignements de Pierre et les traditions orales de l'Église de Rome.
 3. Il a été achevé peu de temps après la mort de Pierre, vers la fin de l'an 68.
 4. Le dossier a été considérablement modifié. Le dernier cinquième de l'Évangile original a été perdu avant que le premier manuscrit ne soit copié.
-	(Les faits ci-dessus proviennent du Livre d'Urantia, <a id="s114_54"></a>[LU 121:8.1](/fr/The_Urantia_Book/121#p8_1).)
+	(Les faits ci-dessus proviennent du Livre d'Urantia, <a id="s113_54"></a>[LU 121:8.1](/fr/The_Urantia_Book/121#p8_1).)
 5. Les érudits pensent que le livre a été écrit par Marc entre 64 et 85 après JC, peut-être vers 75 après JC.
 
 **QUESTION** : Comment se fait-il que si peu d'expériences personnelles de Mark soient entrées dans cet album ?
@@ -124,17 +124,17 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## IV. John Mark dans Le Livre d'Urantia
 
-1. Il est apparu pour la première fois comme le «garçon de toutes les corvées» assigné aux douze apôtres. Livre d'Urantia, <a id="s127_123"></a>[LU 152:2.5](/fr/The_Urantia_Book/152#p2_5).
-2. Marc n'était que partiellement convaincu de l'histoire de Pierre sur la marche sur l'eau, il en a donc laissé une partie dans son dossier. <a id="s128_142"></a>[LU 152:4.4](/fr/The_Urantia_Book/152#p4_4).
-3. Jean Marc a passé une journée entière seul avec Jésus dans les collines. <a id="s129_76"></a>[LU 177:1.1](/fr/The_Urantia_Book/177#p1_1).
-4. Jean a gardé un œil vigilant sur Jésus et les douze. <a id="s130_56"></a>[LU 182:0.1](/fr/The_Urantia_Book/182#p0_1).
-5. Jean a veillé sur Jésus au pressoir à olives, juste avant son arrestation. <a id="s131_78"></a>[LU 183:0.5](/fr/The_Urantia_Book/183#p0_5).
-6. John a perdu son manteau au profit du soldat lorsqu'il s'est échappé. <a id="s132_73"></a>[LU 183:3.9](/fr/The_Urantia_Book/183#p3_9).
-7. Jean a suivi les apôtres en Galilée après la résurrection. <a id="s133_62"></a>[LU 192:0.4](/fr/The_Urantia_Book/192#p0_4).
-8. Jean a reconnu Jésus sur les rives du lac de Galilée. <a id="s134_57"></a>[LU 192:1.4](/fr/The_Urantia_Book/192#p1_4).
-9. Jean a servi le petit déjeuner aux apôtres. <a id="s135_47"></a>[LU 192:1.8](/fr/The_Urantia_Book/192#p1_8).
-10. Jean est rentré chez lui à la mort soudaine de son père, Elijah Mark. <a id="s136_74"></a>[LU 192:4.5](/fr/The_Urantia_Book/192#p4_5).
-11. Jean sortit pour appeler les apôtres et les principaux disciples à se rassembler chez sa mère pour la réunion de la Pentecôte. <a id="s137_131"></a>[LU 193:6.1](/fr/The_Urantia_Book/193#p6_1).
+1. Il est apparu pour la première fois comme le «garçon de toutes les corvées» assigné aux douze apôtres. Livre d'Urantia, <a id="s126_123"></a>[LU 152:2.5](/fr/The_Urantia_Book/152#p2_5).
+2. Marc n'était que partiellement convaincu de l'histoire de Pierre sur la marche sur l'eau, il en a donc laissé une partie dans son dossier. <a id="s127_142"></a>[LU 152:4.4](/fr/The_Urantia_Book/152#p4_4).
+3. Jean Marc a passé une journée entière seul avec Jésus dans les collines. <a id="s128_76"></a>[LU 177:1.1](/fr/The_Urantia_Book/177#p1_1).
+4. Jean a gardé un œil vigilant sur Jésus et les douze. <a id="s129_56"></a>[LU 182:0.1](/fr/The_Urantia_Book/182#p0_1).
+5. Jean a veillé sur Jésus au pressoir à olives, juste avant son arrestation. <a id="s130_78"></a>[LU 183:0.5](/fr/The_Urantia_Book/183#p0_5).
+6. John a perdu son manteau au profit du soldat lorsqu'il s'est échappé. <a id="s131_73"></a>[LU 183:3.9](/fr/The_Urantia_Book/183#p3_9).
+7. Jean a suivi les apôtres en Galilée après la résurrection. <a id="s132_62"></a>[LU 192:0.4](/fr/The_Urantia_Book/192#p0_4).
+8. Jean a reconnu Jésus sur les rives du lac de Galilée. <a id="s133_57"></a>[LU 192:1.4](/fr/The_Urantia_Book/192#p1_4).
+9. Jean a servi le petit déjeuner aux apôtres. <a id="s134_47"></a>[LU 192:1.8](/fr/The_Urantia_Book/192#p1_8).
+10. Jean est rentré chez lui à la mort soudaine de son père, Elijah Mark. <a id="s135_74"></a>[LU 192:4.5](/fr/The_Urantia_Book/192#p4_5).
+11. Jean sortit pour appeler les apôtres et les principaux disciples à se rassembler chez sa mère pour la réunion de la Pentecôte. <a id="s136_131"></a>[LU 193:6.1](/fr/The_Urantia_Book/193#p6_1).
 
 ## Biographie de V. Marc dans le Nouveau Testament
 

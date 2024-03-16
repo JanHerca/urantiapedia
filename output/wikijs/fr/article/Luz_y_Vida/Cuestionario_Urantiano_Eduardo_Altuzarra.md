@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_aparicion_de_materia_energia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences et divergences : apparition sur la scène cosmique de la matière-énergie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-38-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 38 — décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_18">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -27,7 +51,7 @@ Il est vrai que, peut-être principalement en raison de mon éducation religieus
 
 Inutile de dire que rien de ce que j’ai vécu pendant cette longue période ne pouvait me donner une explication convaincante. En toute honnêteté, je dois dire que je ne suis pas une personne qui se laisse facilement convaincre.
 
-A un moment donné, au printemps 1994, probablement après avoir « déballé », fatigué de chercher et de perdre du temps en trucs de trois à quart, un jour je m'approchais des étagères de ma bibliothèque, je caressais le lourd livre, je pris je l'ai dans mes mains et je l'ai laissé s'ouvrir au hasard... Eurêka ! Il défilait jusqu'à [4:5](/fr/The_Urantia_Book/4#p5) et j'ai lu : 5. LES MAUVAISES IDÉES DE DIEU. Ensuite, j'ai commencé à lire et j'ai tellement aimé ce que je lisais qu'aujourd'hui est la date à laquelle je continue cette lecture, avec cette histoire qui pour moi, aujourd'hui, est sans fin.
+A un moment donné, au printemps 1994, probablement après avoir « déballé », fatigué de chercher et de perdre du temps en trucs de trois à quart, un jour je m'approchais des étagères de ma bibliothèque, je caressais le lourd livre, je pris je l'ai dans mes mains et je l'ai laissé s'ouvrir au hasard... Eurêka ! Il défilait jusqu'à <a id="a53_331"></a>[4:5](/fr/The_Urantia_Book/4#p5) et j'ai lu : 5. LES MAUVAISES IDÉES DE DIEU. Ensuite, j'ai commencé à lire et j'ai tellement aimé ce que je lisais qu'aujourd'hui est la date à laquelle je continue cette lecture, avec cette histoire qui pour moi, aujourd'hui, est sans fin.
 
 ## 2. Quelle a été votre première impression en le lisant ?
 
@@ -109,3 +133,28 @@ En fin de compte, je crois que Dieu a créé l’éternité pour nous divertir �
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_aparicion_de_materia_energia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Convergences et divergences : apparition sur la scène cosmique de la matière-énergie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-38-décembre-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 38 — décembre 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_18">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

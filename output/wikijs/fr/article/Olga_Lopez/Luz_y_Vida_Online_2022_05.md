@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05">
+          <span class="pr-2">Éditorial Luz y Vida – Mai 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -93,7 +114,7 @@ Dans cet ouvrage, l'auteur passe en revue et compare les figures d'Abner et de P
 
 [**À propos de la personnalité (Seppo Kanerva)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Personalidad-SK.pdf)
 
-Nous présentons ici une réflexion très personnelle de quelqu'un qui étudie le livre depuis des décennies et qui fut président de la Fondation Urantia ; une réflexion liée à l'un des concepts les plus innovants qui apparaissent dans _Le Livre d'Urantia_. Seppo commence ainsi sa présentation : « La personnalité est l'un des mystères non résolus des univers ([LU 5:6.2](/fr/The_Urantia_Book/5#p6_2)). Ainsi, si nous étions capables de résoudre ce « mystère des univers » en un discours d’une vingtaine de minutes, nous assisterions à un miracle aux proportions qui ébranlerait non seulement la Terre, mais l’univers tout entier. N'ai pas peur! Rien de cette ampleur ne se produira. Au lieu de cela, ce que vous allez entendre est ce que comprend une personne perplexe qui a étudié la question et a imploré, à la manière d'un « de profundis exclamo a te, Domine », une sagesse surhumaine pour guider son esprit pendant qu'il essaie pour comprendre la problématique et partager sa compréhension avec vous.
+Nous présentons ici une réflexion très personnelle de quelqu'un qui étudie le livre depuis des décennies et qui fut président de la Fondation Urantia ; une réflexion liée à l'un des concepts les plus innovants qui apparaissent dans _Le Livre d'Urantia_. Seppo commence ainsi sa présentation : « La personnalité est l'un des mystères non résolus des univers (<a id="a116_358"></a>[LU 5:6.2](/fr/The_Urantia_Book/5#p6_2)). Ainsi, si nous étions capables de résoudre ce « mystère des univers » en un discours d’une vingtaine de minutes, nous assisterions à un miracle aux proportions qui ébranlerait non seulement la Terre, mais l’univers tout entier. N'ai pas peur! Rien de cette ampleur ne se produira. Au lieu de cela, ce que vous allez entendre est ce que comprend une personne perplexe qui a étudié la question et a imploré, à la manière d'un « de profundis exclamo a te, Domine », une sagesse surhumaine pour guider son esprit pendant qu'il essaie pour comprendre la problématique et partager sa compréhension avec vous.
 <br style="clear:both" />
 
 ## Histoire et enseignements – Chronique de la vie de Jésus
@@ -207,7 +228,7 @@ Jorge Nagore
 
 La richesse du contenu du _Le Livre d'Urantia_ fournit une multitude de paragraphes passionnants qui ont sans aucun doute laissé leur marque sur tous les lecteurs. Impressionné en général par le sujet spécifique des Ajusteurs de Pensée, j'ai choisi quelques lignes, je pense uniques dans tout le livre, dans lesquelles un Ajusteur prend la parole et parle pour lui-même, lorsqu'il se réfère à son associé mortel.
 
-> ...l’Ajusteur demandait, entre autres, que le sujet « me donne plus fidèlement sa coopération sincère, supporte plus gaiment les obligations que j’ai mises en place, exécute plus fidèlement le programme que j’ai arrangé, passe plus patiemment par les épreuves que j’ai choisies, suive avec plus de persévérance et d’entrain le sentier que j’ai tracé, reçoive plus humblement le crédit qui peut lui être attribué à la suite de mes efforts incessants — transmettez ainsi mes remontrances à l’homme que j’habite. J’effuse sur lui l’affection et le dévouement suprêmes d’un esprit divin. Dites aussi à mon sujet bien-aimé que j’agirai avec sagesse et puissance jusqu’au bout, jusqu’à ce que sa dernière bataille terrestre ait pris fin. Je serai fidèle à la personnalité qui m’est confiée. » ([LU 110:7.10](/fr/The_Urantia_Book/110#p7_10))
+> ...l’Ajusteur demandait, entre autres, que le sujet « me donne plus fidèlement sa coopération sincère, supporte plus gaiment les obligations que j’ai mises en place, exécute plus fidèlement le programme que j’ai arrangé, passe plus patiemment par les épreuves que j’ai choisies, suive avec plus de persévérance et d’entrain le sentier que j’ai tracé, reçoive plus humblement le crédit qui peut lui être attribué à la suite de mes efforts incessants — transmettez ainsi mes remontrances à l’homme que j’habite. J’effuse sur lui l’affection et le dévouement suprêmes d’un esprit divin. Dites aussi à mon sujet bien-aimé que j’agirai avec sagesse et puissance jusqu’au bout, jusqu’à ce que sa dernière bataille terrestre ait pris fin. Je serai fidèle à la personnalité qui m’est confiée. » (<a id="a230_790"></a>[LU 110:7.10](/fr/The_Urantia_Book/110#p7_10))
 
 Ce que je vais exprimer ci-dessous n'est qu'une opinion basée sur mon expérience personnelle à cet égard. Ce paragraphe a été une forte impulsion pour mieux connaître cet être merveilleux qui vit en moi.
 
@@ -286,3 +307,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_05">
+          <span class="pr-2">Éditorial Luz y Vida – Mai 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

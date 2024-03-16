@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Carmelo Martínez, Eduardo Altuzarra<br>© 2007 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_10_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 10 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-10-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 10 — septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Alberto_Wonsover/Vivir_una_nueva_vida">
+          <span class="pr-2">Vivre une nouvelle vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -20,9 +44,9 @@ De divers auteurs
 
 **Eduardo:** Quand j'ai lu le document 46 pour la première fois, j'ai eu beaucoup de doutes sur son interprétation et je me suis dit : eh bien, comme il est si mal traduit, c'est à vous de le savoir. Quand j’ai développé les schémas, j’ai aussi dû investir du temps et je n’ai pas non plus très bien compris certaines choses. Maintenant, j'ai passé beaucoup plus de temps et il y a mes inconnues.
 
-Je ne comprends pas très bien le Mont Serafín ou Seraf, je vous invite donc à le lire et à me conseiller à ce sujet. Je comprends que c'est le lieu d'où partent les séraphins dans leurs transports. Il dit ensuite : « _Les transports arrivent sur le champ de cristal, aussi appelé la mer de verre_. » [LU 46:2.9](/fr/The_Urantia_Book/46#p2_9) Est-ce la même montagne ? Est-ce qu’ils entrent et sortent par le même endroit ? J'interprète qu'ils sont identiques.
+Je ne comprends pas très bien le Mont Serafín ou Seraf, je vous invite donc à le lire et à me conseiller à ce sujet. Je comprends que c'est le lieu d'où partent les séraphins dans leurs transports. Il dit ensuite : « _Les transports arrivent sur le champ de cristal, aussi appelé la mer de verre_. » <a id="a46_300"></a>[LU 46:2.9](/fr/The_Urantia_Book/46#p2_9) Est-ce la même montagne ? Est-ce qu’ils entrent et sortent par le même endroit ? J'interprète qu'ils sont identiques.
 
-Mais bien sûr, a posteriori il dit : « _Autour de cette zone se trouvent les stations de réception des différents ordres d'êtres qui traversent l'espace au moyen de transports séraphiques. ***Près de la station de réception des cristaux polaires***,_ » [LU 46:2.9](/fr/The_Urantia_Book/46#p2_9) <ins>De quelle station s'agit-il, s'il est indiqué qu'il y en a plusieurs ?</ins> Ou la monture séraphique n'est-elle utile que pour « partir » et ces types de gares sont utilisées pour « l'arrivée » et sont-elles situées ailleurs ?
+Mais bien sûr, a posteriori il dit : « _Autour de cette zone se trouvent les stations de réception des différents ordres d'êtres qui traversent l'espace au moyen de transports séraphiques. ***Près de la station de réception des cristaux polaires***,_ » <a id="a48_253"></a>[LU 46:2.9](/fr/The_Urantia_Book/46#p2_9) <ins>De quelle station s'agit-il, s'il est indiqué qu'il y en a plusieurs ?</ins> Ou la monture séraphique n'est-elle utile que pour « partir » et ces types de gares sont utilisées pour « l'arrivée » et sont-elles situées ailleurs ?
 
 **Carmelo :** C'est curieux mais en anglais « séraphin » est au pluriel ; le singulier est « séraphin ». Bien que certains dictionnaires disent qu'il peut être considéré à la fois au singulier et au pluriel. Il n’y a cependant qu’un seul endroit dans tout le texte où l’expression singulière est utilisée et c’est justement pour donner un nom à ladite montagne. Ainsi, le nom en espagnol est « Monte Serafín ». Beaucoup des 324 fois où le mot « séraphin » apparaît dans le texte anglais peuvent être lus au singulier et au pluriel sans trop en changer le sens, mais il y en a plusieurs qui doivent nécessairement être au singulier ou nécessairement au pluriel, et pourtant l'expression est toujours utilisé au pluriel. Parce que?
 
@@ -30,13 +54,13 @@ Deux exemples (je mets le texte anglais suivi de la traduction de 2002) (c'est m
 
 > « _Si un pèlerin ascendant subissait une défaite dans l’aventure de la Déité pendant qu’il traverse Havona <ins>en compagnie d’un séraphin ascendant</ins>, ange gardien de sa carrière de mortel, cet ange choisirait d’accompagner son associé mortel. Ces séraphins sont toujours volontaires et ont la permission d’accompagner leurs camarades mortels de longue date retournant au service du temps et de l’espace._ »
 > 
-> « _Si un pèlerin ascendant subissait une défaite dans l’aventure de la Déité pendant qu’il traverse Havona <ins>en compagnie d’un séraphin ascendant</ins>, ange gardien de sa carrière de mortel, cet ange choisirait d’accompagner son associé mortel. Ces séraphins sont toujours volontaires et ont la permission d’accompagner leurs camarades mortels de longue date retournant au service du temps et de l’espace._ » ([LU 25:8.10](/fr/The_Urantia_Book/25#p8_10))
+> « _Si un pèlerin ascendant subissait une défaite dans l’aventure de la Déité pendant qu’il traverse Havona <ins>en compagnie d’un séraphin ascendant</ins>, ange gardien de sa carrière de mortel, cet ange choisirait d’accompagner son associé mortel. Ces séraphins sont toujours volontaires et ont la permission d’accompagner leurs camarades mortels de longue date retournant au service du temps et de l’espace._ » (<a id="a56_416"></a>[LU 25:8.10](/fr/The_Urantia_Book/25#p8_10))
 
 La traduction littérale du morceau souligné serait « _en compagnie d'un séraphin ascendant_ » quelque chose de clairement incorrect en espagnol,... et pourtant en anglais c'est limite ; C'est étrange, forcé, mais correct.
 
 > «_These headquarters worlds are among the magnificent realms of Nebadon; the seraphic estates are characterized by both beauty and vastness. Here <ins>each seraphim</ins> has a real home, and ‘home’ means the domicile of <ins>two seraphim</ins>; they live in pairs._»
 > 
-> « _Ces mondes-sièges font partie des magnifiques royaumes de Nébadon. Les domaines séraphiques sont caractérisés à la fois par la beauté et l’étendue. <ins>Chaque séraphin</ins> y a un vrai foyer, et « foyer » signifie le domicile de <ins>deux séraphins</ins> ; ils vivent par paires._ » ([LU 38:4.2](/fr/The_Urantia_Book/38#p4_2))
+> « _Ces mondes-sièges font partie des magnifiques royaumes de Nébadon. Les domaines séraphiques sont caractérisés à la fois par la beauté et l’étendue. <ins>Chaque séraphin</ins> y a un vrai foyer, et « foyer » signifie le domicile de <ins>deux séraphins</ins> ; ils vivent par paires._ » (<a id="a62_291"></a>[LU 38:4.2](/fr/The_Urantia_Book/38#p4_2))
 
 Encore une fois, la traduction serait « chaque séraphin », ce que cela ressemblera aux Anglais.
 
@@ -50,7 +74,7 @@ Mais revenons à ce que soulève Eduardo. Pour moi, les transports partent du Mo
 > 
 > « Près de la station réceptrice du cristal polaire destinée aux étudiants visiteurs, ... »
 > 
-> « Près de la station réceptrice du cristal polaire destinée aux étudiants visiteurs, ... » ([LU 46:2.9](/fr/The_Urantia_Book/46#p2_9))
+> « Près de la station réceptrice du cristal polaire destinée aux étudiants visiteurs, ... » (<a id="a76_94"></a>[LU 46:2.9](/fr/The_Urantia_Book/46#p2_9))
 
 Ce qui est polaire, c'est la vitre, pas la station, qui est celle dédiée à l'accueil et au dégagement des étudiants en visite. La mer de verre se trouve à l'un des pôles de la planète. Je reviendrai sur ce sujet plus tard.
 
@@ -60,13 +84,13 @@ Mais il y a un détail qui ne passe pas inaperçu. Dans cette même section, les
 
 **Carmelo :** Je comprends que ces stations sont des destinataires de messages et d'émissions en général (allez, la télé). Ils sont différents des précédents pour l’accueil des transports. Et je comprends que la mer de verre est nécessaire pour recevoir ces émissions et que, par conséquent, les stations de réception des émissions se trouvent dans la mer de verre elle-même (et ne l'entourent pas comme avant). Je comprends aussi qu'il existe, en plus des différents dispositifs pour recevoir ce qui vient de l'extérieur de l'univers local, trois groupes de stations pour recevoir ce qui vient de l'intérieur de l'univers local (mondes, siège de la constellation et siège de l'univers). Tout cela (gadgets plus stations) est dans la mer de verre, éventuellement en son centre (au pôle ?) et est entouré d'un immense amphithéâtre. Eduardo, je pense que le dessin que tu as fait reflète en grande partie ce que je veux dire. Il n'y a pas un amphithéâtre pour chaque station réceptrice, mais un seul immense, et en son centre les stations et les pots. Je comprends aussi que ce qui est tricirculaire, ce sont les stations de réception elles-mêmes.
 
-L'histoire des pôles est renforcée par ce qui est dit en [LU 46:3.4](/fr/The_Urantia_Book/46#p3_4) : « _La station émettrice de Jérusem est située au pôle opposé de la sphère_ ». Tout cela suggère qu'il y a plusieurs stations de réception à un pôle (là où se trouvent la mer de verre et l'immense amphithéâtre) et une station d'émission au pôle opposé.
+L'histoire des pôles est renforcée par ce qui est dit en <a id="a86_57"></a>[LU 46:3.4](/fr/The_Urantia_Book/46#p3_4) : « _La station émettrice de Jérusem est située au pôle opposé de la sphère_ ». Tout cela suggère qu'il y a plusieurs stations de réception à un pôle (là où se trouvent la mer de verre et l'immense amphithéâtre) et une station d'émission au pôle opposé.
 
-**Eduardo :** Eh bien, voici maintenant les zones célèbres, que la traduction de 1993 appelle d'ailleurs « arrangements ». Comme vous le savez, ils sont conçus de quatre manières différentes. Je ne peux pas vraiment interpréter la forme des cercles, car cela parle de style et de taille mais pas de forme. Quelle forme peuvent avoir ces bâtiments circulaires ? Pour le reste, je ne pense avoir aucun doute, sauf sur le type de conception que pourraient avoir ces « murs » qui servent de passage public. Il y a une chose très curieuse écrite en [LU 46:5.22](/fr/The_Urantia_Book/46#p5_22) dans laquelle il est écrit : « _Le septième cercle est la <ins>sphère</ins>..._ » Ce qui se passe, c'est que la forme des bâtiments en cercles concentriques est sphérique? Personnellement, ne sachant pas quelle forme lui donner, j'ai dessiné des sphères, mais elles pourraient bien avoir une autre forme.
+**Eduardo :** Eh bien, voici maintenant les zones célèbres, que la traduction de 1993 appelle d'ailleurs « arrangements ». Comme vous le savez, ils sont conçus de quatre manières différentes. Je ne peux pas vraiment interpréter la forme des cercles, car cela parle de style et de taille mais pas de forme. Quelle forme peuvent avoir ces bâtiments circulaires ? Pour le reste, je ne pense avoir aucun doute, sauf sur le type de conception que pourraient avoir ces « murs » qui servent de passage public. Il y a une chose très curieuse écrite en <a id="a88_544"></a>[LU 46:5.22](/fr/The_Urantia_Book/46#p5_22) dans laquelle il est écrit : « _Le septième cercle est la <ins>sphère</ins>..._ » Ce qui se passe, c'est que la forme des bâtiments en cercles concentriques est sphérique? Personnellement, ne sachant pas quelle forme lui donner, j'ai dessiné des sphères, mais elles pourraient bien avoir une autre forme.
 
-**Carmelo :** Le mot « arrangements » veut être la (mauvaise) traduction de « arrangements », mais pour moi, ce sont des « dispositions ». Voici ma traduction de [LU 46:4.6](/fr/The_Urantia_Book/46#p4_6) :
+**Carmelo :** Le mot « arrangements » veut être la (mauvaise) traduction de « arrangements », mais pour moi, ce sont des « dispositions ». Voici ma traduction de <a id="a90_162"></a>[LU 46:4.6](/fr/The_Urantia_Book/46#p4_6) :
 
-> « _Ce dispositif des activités du système en cercles, carrés, rectangles et triangles est commun à toutes les capitales systémiques de Nébadon. Dans un autre univers, un dispositif entièrement différent peut prévaloir. Ce sont des affaires déterminées par les divers plans des Fils Créateurs._ » ([LU 46:4.6](/fr/The_Urantia_Book/46#p4_6))
+> « _Ce dispositif des activités du système en cercles, carrés, rectangles et triangles est commun à toutes les capitales systémiques de Nébadon. Dans un autre univers, un dispositif entièrement différent peut prévaloir. Ce sont des affaires déterminées par les divers plans des Fils Créateurs._ » (<a id="a92_299"></a>[LU 46:4.6](/fr/The_Urantia_Book/46#p4_6))
 
 **Eduardo :** Eh bien, voici mes dessins. Plus tard, nous parlerons des carrés, des rectangles et des triangles.
 
@@ -104,7 +128,7 @@ L'histoire des pôles est renforcée par ce qui est dit en [LU 46:3.4](/fr/The_U
 
 Tous les différents cercles sont entourés d'une immense promenade, et notamment le groupe des sept cercles angéliques. Le paragraphe 46:5.23 dit :
 
-> « _Ces sept cercles des anges sont entourés par l’exposition panoramique de Jérusem, qui a cinq-mille milles standards de circonférence. On y présente le statut progressif des mondes habités de Satania sous une forme constamment révisée, de manière à représenter vraiment les conditions d’actualité sur les planètes individuelles. Je ne doute pas que cet immense promenoir dominant les cercles des anges sera la première vue de Jérusem qui attirera votre attention lorsque des loisirs étendus vous seront accordés au cours de vos visites initiales._ » ([LU 46:5.23](/fr/The_Urantia_Book/46#p5_23))
+> « _Ces sept cercles des anges sont entourés par l’exposition panoramique de Jérusem, qui a cinq-mille milles standards de circonférence. On y présente le statut progressif des mondes habités de Satania sous une forme constamment révisée, de manière à représenter vraiment les conditions d’actualité sur les planètes individuelles. Je ne doute pas que cet immense promenoir dominant les cercles des anges sera la première vue de Jérusem qui attirera votre attention lorsque des loisirs étendus vous seront accordés au cours de vos visites initiales._ » (<a id="a130_555"></a>[LU 46:5.23](/fr/The_Urantia_Book/46#p5_23))
 
 Cinq mille kilomètres standards de circonférence signifient un diamètre d'environ 1 590 kilomètres standards, soit environ 17 500 kilomètres du nôtre. N'oubliez pas que le diamètre de la Terre est d'environ 12 700 kilomètres.
 
@@ -114,3 +138,28 @@ Quant au « sphère », il ne faut peut-être pas l’interpréter littéralemen
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_10_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 10 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-10-septembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 10 — septembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Alberto_Wonsover/Vivir_una_nueva_vida">
+          <span class="pr-2">Vivre une nouvelle vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

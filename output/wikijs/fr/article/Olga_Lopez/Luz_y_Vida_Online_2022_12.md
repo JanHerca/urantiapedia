@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="pr-2">Éditorial Luz y Vida – décembre 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -203,7 +224,7 @@ David Carrera
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Tecnicas-transformativas.jpg" alt="Mi parrafo favorito - dic 2022">
 </figure>
 
-> _...Ce sont les peuples qui font une civilisation ; la civilisation ne fait pas les peuples._ ([LU 76:6.4](/fr/The_Urantia_Book/76#p6_4))
+> _...Ce sont les peuples qui font une civilisation ; la civilisation ne fait pas les peuples._ (<a id="a226_97"></a>[LU 76:6.4](/fr/The_Urantia_Book/76#p6_4))
 
 En cette époque de démagogie et de kitsch, où l’on nous martèle avec insistance le dogme selon lequel nous sommes tous égaux dans tous les sens, des paragraphes comme celui-ci sont une gifle bien placée pour notre conscience.
 
@@ -227,12 +248,12 @@ Cela semble avoir été la raison même pour laquelle la cinquième révélation
 Ce paragraphe du document 114 parle, en effet, d’une configuration assez extraordinaire de gouvernement planétaire en réponse à notre histoire récente particulière (mis à part la rébellion, seul succès partiel des quatre révélations d’époque précédentes) :
 
 
-> L’administration actuelle d’Urantia est vraiment difficile à décrire. Il n’existe pas de gouvernement officiel défini selon les lignes de l’organisation de l’univers, avec des départements législatifs, exécutifs et judiciaires séparés. Les vingt-quatre conseillers forment le groupe qui se rapproche le plus de la branche législative du gouvernement planétaire. Le gouverneur général est un chef exécutif provisoire et consultatif, le Très Haut observateur ayant le droit de véto. Nul pouvoir judiciaire n’opère sur la planète avec une autorité absolue, il n’y a que des commissions de conciliation. ([LU 114:5.1](/fr/The_Urantia_Book/114#p5_1))
+> L’administration actuelle d’Urantia est vraiment difficile à décrire. Il n’existe pas de gouvernement officiel défini selon les lignes de l’organisation de l’univers, avec des départements législatifs, exécutifs et judiciaires séparés. Les vingt-quatre conseillers forment le groupe qui se rapproche le plus de la branche législative du gouvernement planétaire. Le gouverneur général est un chef exécutif provisoire et consultatif, le Très Haut observateur ayant le droit de véto. Nul pouvoir judiciaire n’opère sur la planète avec une autorité absolue, il n’y a que des commissions de conciliation. (<a id="a250_603"></a>[LU 114:5.1](/fr/The_Urantia_Book/114#p5_1))
 
 Le même document nous rappelle ce qui suit :
 
 
-> Ce gouvernement planétaire, organisé d’une manière plutôt vague et quelque peu personnelle, est plus efficace que prévu, à cause du gain de temps apporté par l’assistance des archanges et de leur circuit toujours disponible et si souvent utilisé en cas d’urgence planétaire ou de difficultés administratives. Techniquement, la planète est encore spirituellement isolée dans les circuits de Norlatiadek, mais, en cas d’urgence, on peut maintenant éviter ce handicap en employant le circuit des archanges. Bien entendu, l’isolement planétaire a peu d’importance pour les mortels individuels depuis que l’Esprit de Vérité a été répandu sur toute chair, il y a dix-neuf-cents ans. ([LU 114:5.4](/fr/The_Urantia_Book/114#p5_4))
+> Ce gouvernement planétaire, organisé d’une manière plutôt vague et quelque peu personnelle, est plus efficace que prévu, à cause du gain de temps apporté par l’assistance des archanges et de leur circuit toujours disponible et si souvent utilisé en cas d’urgence planétaire ou de difficultés administratives. Techniquement, la planète est encore spirituellement isolée dans les circuits de Norlatiadek, mais, en cas d’urgence, on peut maintenant éviter ce handicap en employant le circuit des archanges. Bien entendu, l’isolement planétaire a peu d’importance pour les mortels individuels depuis que l’Esprit de Vérité a été répandu sur toute chair, il y a dix-neuf-cents ans. (<a id="a255_680"></a>[LU 114:5.4](/fr/The_Urantia_Book/114#p5_4))
 
 En plus du merveilleux service des archanges, nous avons, bien sûr, des corps de soutien citoyen permanents très efficaces dans le corps des médians planétaires loyaux, et enfin nous pouvons être encouragés par le fait que l'Esprit de Vérité de notre Maître Fils est activement au travail, avec le Saint-Esprit de notre Fille Créatrice et de nos Ajusteurs de Pensée, pour aider notre niveau de conscience de Dieu à continuer d'augmenter et de nous faire avancer spirituellement.
 
@@ -276,3 +297,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="pr-2">Éditorial Luz y Vida – décembre 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

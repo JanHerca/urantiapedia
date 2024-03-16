@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 David Carrera<br>© 2010 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Lo_Absonito_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Absonite (deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-20-mars-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 20 — mars 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/OVNIs_Un_enfoque_positivo_del_asunto">
+          <span class="pr-2">OVNIS : Une approche positive du sujet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Remarque : Ce message a été publié dans le groupe de discussion Libourantia sur Google (http://groups.google.es/group/librourantia?lnk=srg), et suite à votre intérêt, nous l'avons publié ici. Comme tous les articles de ce magazine, il se veut un espace de réflexion et, bien sûr, de participation.
@@ -24,7 +48,7 @@ Dans cette perspective, les parents conscients apprécient de n'avoir qu'une par
 
 Et, dans ce monde, notre degré de liberté pour CRÉER, vraiment CRÉER quelque chose par nous-mêmes, se limite à de grands bâtiments, des livres inspirants, de belles danses, des ponts sûrs, une philosophie perspicace, des machines automatisées, une musique suggestive, des meubles fonctionnels, des lois justes. , du grand art, de la merveilleuse poésie... et quelques autres choses, qui ont en commun de coller au domaine du matériel ou du mental.
 
-Au fur et à mesure que notre progression se poursuit, nous accumulons des expériences et nous réussissons les différentes épreuves qui nous attendent, c'est-à-dire qu'à mesure que nous avons démontré un plus grand degré de conscience et de responsabilité, nos degrés de liberté pour intervenir dans la création de nouvelles réalités augmenteront. Et lorsque nous serons déjà au Paradis, bien fusionnés avec l'Ajusteur et que nous nous distinguerons dans le Corps Finalitaire, nous aurons l'opportunité de CRÉER ou du moins d'intervenir avec un énorme degré d'implication dans la création d'êtres très spéciaux qui seront appelés Fils Trinisés de Perfection.([LU 22:1.12](/fr/The_Urantia_Book/22#p1_12)), dont CHACUN d'entre eux sera la PERSONIFICATION d'un CONCEPT ORIGINAL ET SÉLECTIONNÉ jusqu'alors non trinisé.
+Au fur et à mesure que notre progression se poursuit, nous accumulons des expériences et nous réussissons les différentes épreuves qui nous attendent, c'est-à-dire qu'à mesure que nous avons démontré un plus grand degré de conscience et de responsabilité, nos degrés de liberté pour intervenir dans la création de nouvelles réalités augmenteront. Et lorsque nous serons déjà au Paradis, bien fusionnés avec l'Ajusteur et que nous nous distinguerons dans le Corps Finalitaire, nous aurons l'opportunité de CRÉER ou du moins d'intervenir avec un énorme degré d'implication dans la création d'êtres très spéciaux qui seront appelés Fils Trinisés de Perfection.(<a id="a50_658"></a>[LU 22:1.12](/fr/The_Urantia_Book/22#p1_12)), dont CHACUN d'entre eux sera la PERSONIFICATION d'un CONCEPT ORIGINAL ET SÉLECTIONNÉ jusqu'alors non trinisé.
 
 Ils seront bien plus que les « ordinaires » « projets de fin d'études » ou « doctorats » que nous connaissons ici, ils impliqueront énormément d'efforts et de détermination dans un projet choisi par nous et sans aucune garantie de succès, au point que si nous Si nous échouons, nous ferons partie d'un groupe spécial de finalitaires, « _ceux qui ont fait l'effort suprême et enduré la déception suprême_ »
 
@@ -50,7 +74,7 @@ Parce que... un idéal auquel nous pourrions penser dans cette vie aura été tr
 
 Par exemple; Aujourd'hui, l'un des idéaux clés de l'être humain est la « paix ». Mais «  Paix  » est quelque chose de très générique. Y aura-t-il dans tout le grand Univers un seul Fils trinisé qui représente la Paix ? Ou y aura-t-il un Fils Trinisé qui représentera la Paix pour chaque univers local, ou pour chaque monde, ou pour chaque relation entre peuples/ethnies/races ?
 
-La condition semble être qu'il s'agisse d'une <ins>idée divine</ins>, ou d'un <ins>idéal universel</ins>, qui n'a jamais été conçu, exprimé ou trinifié auparavant. ([LU 22:10.4](/fr/The_Urantia_Book/22#p10_4)) Ainsi, des projets matériels tels que :
+La condition semble être qu'il s'agisse d'une <ins>idée divine</ins>, ou d'un <ins>idéal universel</ins>, qui n'a jamais été conçu, exprimé ou trinifié auparavant. (<a id="a76_165"></a>[LU 22:10.4](/fr/The_Urantia_Book/22#p10_4)) Ainsi, des projets matériels tels que :
 
 - Adéquation des matériaux semi-conducteurs aux mondes matériels.
 
@@ -88,7 +112,7 @@ Le débat sur un sujet passionnant reste donc ouvert.
 
 **Notes de l'auteur :**
 
-- Les principales références sont en [LU 22:7.1](/fr/The_Urantia_Book/22#p7_1) à [LU 22:8.6](/fr/The_Urantia_Book/22#p8_6), contenues dans le document 22, « Les Fils Trini(ti)zés de Dieu »
+- Les principales références sont en <a id="a114_37"></a>[LU 22:7.1](/fr/The_Urantia_Book/22#p7_1) à <a id="a114_81"></a>[LU 22:8.6](/fr/The_Urantia_Book/22#p8_6), contenues dans le document 22, « Les Fils Trini(ti)zés de Dieu »
 - Pour me sentir à l'aise de l'écrire, pardonnez-moi mais j'ai utilisé le verbe « trinité », une option que je justifie sur les pages de notre groupe de discussion.
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -99,3 +123,28 @@ Le débat sur un sujet passionnant reste donc ouvert.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Lo_Absonito_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Absonite (deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-20-mars-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 20 — mars 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/OVNIs_Un_enfoque_positivo_del_asunto">
+          <span class="pr-2">OVNIS : Une approche positive du sujet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

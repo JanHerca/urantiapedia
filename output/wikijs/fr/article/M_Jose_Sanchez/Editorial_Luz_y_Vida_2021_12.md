@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 María José Sánchez Santamaría<br>© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2021_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — décembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Los_secretos_del_agua">
+          <span class="pr-2">Les secrets de l'eau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -33,13 +57,13 @@ Nous voulons que la situation actuelle ne soit pas une dalle, que son homogéné
 
 Alors, en ce Noël qui approche, voici la bonne nouvelle que nous pouvons annoncer : une invitation à nous regarder à l'intérieur et, par conséquent, à changer à l'extérieur ; une invitation à récupérer notre centre, notre connexion avec l'Ajusteur de Pensée dans notre esprit, car cela montrera de merveilleux fruits à l'extérieur.
 
-> Ces aides célestes se vouent à la tâche prodigieuse de vous guider en sécurité, vers l’intérieur et vers le haut, jusqu’au havre céleste du bonheur. ...Ils sont les ouvriers vigilants qui pilotent le mental humain conscient de Dieu, en lui évitant de s’enliser dans le mal, tout en guidant habilement l’âme évoluante des hommes vers les divins havres de la perfection sur des rivages éternels et lointains. ([LU 110:1.2](/fr/The_Urantia_Book/110#p1_2))
+> Ces aides célestes se vouent à la tâche prodigieuse de vous guider en sécurité, vers l’intérieur et vers le haut, jusqu’au havre céleste du bonheur. ...Ils sont les ouvriers vigilants qui pilotent le mental humain conscient de Dieu, en lui évitant de s’enliser dans le mal, tout en guidant habilement l’âme évoluante des hommes vers les divins havres de la perfection sur des rivages éternels et lointains. (<a id="a59_410"></a>[LU 110:1.2](/fr/The_Urantia_Book/110#p1_2))
 
 Une fois que nous sommes dans le bon contexte, concentrons-nous brièvement sur ces trois images différentes que nous pouvons voir dans _Le Livre d'Urantia_ à propos de Noël :
 
 ## 1\. Le père, Joseph
 
-> Pendant plusieurs semaines, Marie médita secrètement dans son cœur cette visitation. Quand elle fut certaine qu’elle attendait un enfant, elle osa enfin révéler à son mari ces évènements sortant de l’ordinaire. Lorsque Joseph apprit tout cela, et bien qu’il eût grande confiance en Marie, il fut très troublé et ne put dormir pendant bien des nuits. ([LU 122:3.2](/fr/The_Urantia_Book/122#p3_2))
+> Pendant plusieurs semaines, Marie médita secrètement dans son cœur cette visitation. Quand elle fut certaine qu’elle attendait un enfant, elle osa enfin révéler à son mari ces évènements sortant de l’ordinaire. Lorsque Joseph apprit tout cela, et bien qu’il eût grande confiance en Marie, il fut très troublé et ne put dormir pendant bien des nuits. (<a id="a65_353"></a>[LU 122:3.2](/fr/The_Urantia_Book/122#p3_2))
 
 Un homme, un juif nommé Joseph, reçoit des nouvelles incroyables de sa femme. La nouvelle est si choquante que pendant des jours, il ne parvient pas à s'endormir et passe ses journées à s'inquiéter. Nous pouvons parfaitement sympathiser avec lui.
 
@@ -47,7 +71,7 @@ Nous sommes capables de lire des bibliothèques entières ou de regarder des cen
 
 Et soudain, c’est au réveil d’un rêve que José a pris sa décision, non pas grâce à une longue et réfléchie réflexion. Il a entendu une voix intérieure, car il y était déjà préparé. Et il a enfin accepté l’extraordinaire dans son quotidien. Quelque chose qui allait au-delà des règles et des lois de l’époque s’était produit. La merveille de Dieu a agi et il l’a acceptée dans sa vie, sans chichi. Il a continué à travailler comme simple charpentier et comme mari fidèle et aimant... mais la vie était différente.
 
-> Après cette expérience, Joseph ne douta plus jamais totalement de l’histoire de Marie concernant la visitation de Gabriel et la promesse que l’enfant à naitre serait un messager divin pour le monde. ([LU 122:4.1](/fr/The_Urantia_Book/122#p4_1))
+> Après cette expérience, Joseph ne douta plus jamais totalement de l’histoire de Marie concernant la visitation de Gabriel et la promesse que l’enfant à naitre serait un messager divin pour le monde. (<a id="a73_202"></a>[LU 122:4.1](/fr/The_Urantia_Book/122#p4_1))
 
 J'espère que José et son processus spirituel nous inciteront à mener notre vie avec attention, à écouter et à observer les merveilles qui nous entourent, en découvrant la voix intérieure.
 
@@ -55,7 +79,7 @@ J'espère que José et son processus spirituel nous inciteront à mener notre vi
 
 > Un soir, vers le coucher du soleil, avant que Joseph ne fût rentré à la maison, Gabriel apparut à Marie à côté d’une table basse en pierre ; après qu’elle se fut remise de son étonnement, il lui dit : « Je viens sur l’ordre de celui qui est mon Maitre et que tu devras aimer et nourrir. À toi, Marie, j’apporte de bonnes nouvelles, car je t’annonce que ta conception est ordonnée par le ciel et qu’en temps voulu, tu deviendras mère d’un fils ; tu l’appelleras Joshua ; il inaugurera le royaume des cieux sur la terre et parmi les hommes. Ne parle pas de tout ceci, sauf à Joseph et à Élisabeth, ta parente à laquelle je suis également apparu et qui, elle aussi, va bientôt donner naissance à un fils dont le nom sera Jean. Celui-là préparera la voie pour le message de délivrance que ton fils proclamera aux hommes avec une grande puissance et une profonde conviction. Ne doute pas de ma parole, Marie, car ce foyer a été choisi comme habitat terrestre de l’enfant de la destinée. Ma bénédiction est sur toi, le pouvoir des Très Hauts te donnera de la force et le Seigneur de toute la terre te couvrira de son ombre. »
 > 
-> Pendant plusieurs semaines, Marie médita secrètement dans son cœur cette visitation. Quand elle fut certaine qu’elle attendait un enfant, elle osa enfin révéler à son mari ces évènements sortant de l’ordinaire. ([LU 122:3.1-2](/fr/The_Urantia_Book/122#p3_1))
+> Pendant plusieurs semaines, Marie médita secrètement dans son cœur cette visitation. Quand elle fut certaine qu’elle attendait un enfant, elle osa enfin révéler à son mari ces évènements sortant de l’ordinaire. (<a id="a81_214"></a>[LU 122:3.1-2](/fr/The_Urantia_Book/122#p3_1))
 
 Une femme, plutôt une fille, nommée Marie, reçoit d'incroyables nouvelles d'un être céleste. Même si Marie était une adolescente qui, de manière inattendue, avait reçu une mission surhumaine, elle a su surmonter l'immense peur que produisait en elle la vision céleste de Gabriel et a eu la perspicacité de peser cette révélation en silence, en attendant d'être sûre de sa grossesse pour communiquer. cette nouvelle extraordinaire.
 
@@ -65,11 +89,11 @@ Dieu continue également son œuvre en nous. Comment est-il possible que quelque
 
 J'espère que Marie, une jeune fille, nous inspire ce Noël pour que nous puissions tous vivre avec joie une naissance qui a coûté des efforts, mais qui nous permet de voir Dieu en nous.
 
-> Toute la nuit, Marie fut agitée, de sorte que le couple ne dormit pas beaucoup. Au lever du jour, les douleurs de l’enfantement commencèrent nettement, et, à midi le 21 aout de l’an 7 av. J.-C., avec l’aide et la généreuse assistance de compagnes de voyage, Marie accoucha d’un enfant mâle. ([LU 122:8.1](/fr/The_Urantia_Book/122#p8_1))
+> Toute la nuit, Marie fut agitée, de sorte que le couple ne dormit pas beaucoup. Au lever du jour, les douleurs de l’enfantement commencèrent nettement, et, à midi le 21 aout de l’an 7 av. J.-C., avec l’aide et la généreuse assistance de compagnes de voyage, Marie accoucha d’un enfant mâle. (<a id="a91_294"></a>[LU 122:8.1](/fr/The_Urantia_Book/122#p8_1))
 
 ## 3\. Un garçon, Josué
 
-> Jésus de Nazareth était né dans le monde ; il fut enveloppé dans les vêtements que Marie avait apportés en prévision d’un tel évènement, et couché dans une crèche voisine. ([LU 122:8.1](/fr/The_Urantia_Book/122#p8_1))
+> Jésus de Nazareth était né dans le monde ; il fut enveloppé dans les vêtements que Marie avait apportés en prévision d’un tel évènement, et couché dans une crèche voisine. (<a id="a95_175"></a>[LU 122:8.1](/fr/The_Urantia_Book/122#p8_1))
 
 Ainsi naquit l’enfant promis ; c'est-à-dire de la même manière que tous les enfants qui sont venus au monde avant et depuis lors. Et le huitième jour après sa naissance et conformément à la pratique juive, il fut circoncis et officiellement nommé Josué (Jésus).
 
@@ -89,3 +113,28 @@ Heureuse naissance. Bonne fêtes.
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/11/29/editorial-luz-y-vida-diciembre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2021_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — décembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Los_secretos_del_agua">
+          <span class="pr-2">Les secrets de l'eau</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

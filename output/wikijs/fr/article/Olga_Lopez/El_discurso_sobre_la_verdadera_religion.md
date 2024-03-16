@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Olga López<br>© 2014 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'effusion de Michael</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-37-juin-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 37 — juin 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="pr-2">La parabole du propriétaire des vignes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 C'est le premier des deux discours sur lesquels nous allons réfléchir et approfondir. C'est dans le document 155, « La fuite à travers la Galilée du Nord ».
@@ -21,7 +45,7 @@ Cette époque fut une épreuve de foi pour les disciples de Jésus. Nombreux ét
 
 Sur le chemin de la Phénicie, où l'on allait rafraîchir les esprits des autorités juives, Jésus n'était accompagné que de douze évangélistes et des douze apôtres. Ses compagnons s'inquiétaient de l'attitude des ennemis de Jésus, et Thomas, lors d'une pause déjeuner, exprima cette inquiétude par la question suivante :
 
-> « _Maitre, je voudrais réellement savoir ce qu’il y a de faux dans la religion de nos ennemis à Jérusalem. Quelle est la différence réelle entre leur religion et la nôtre ? Pourquoi y a-t-il entre nous de telles divergences de croyances alors que nous professons tous de servir le même Dieu ?_ » ([LU 155:4.2](/fr/The_Urantia_Book/155#p4_2))
+> « _Maitre, je voudrais réellement savoir ce qu’il y a de faux dans la religion de nos ennemis à Jérusalem. Quelle est la différence réelle entre leur religion et la nôtre ? Pourquoi y a-t-il entre nous de telles divergences de croyances alors que nous professons tous de servir le même Dieu ?_ » (<a id="a47_299"></a>[LU 155:4.2](/fr/The_Urantia_Book/155#p4_2))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV37/07.jpg">
@@ -59,7 +83,7 @@ Combien de personnes vivent aujourd’hui accrochées aux rochers d’une religi
 
 Ainsi, on pourrait très bien se poser les questions que Jésus posait à ses apôtres à la fin de ce discours :
 
-> _Êtes-vous craintifs, mous et douillets ? Avez-vous peur de confier votre avenir aux mains du Dieu de vérité dont vous êtes les fils ? Vous méfiez-vous du Père, dont vous êtes les enfants ? Allez-vous reprendre le sentier facile de la certitude et de la fixité intellectuelle de la religion d’autorité traditionnelle, ou allez-vous vous cuirasser pour avancer avec moi dans l’avenir incertain et trouble où nous proclamerons les vérités nouvelles de la religion de l’esprit, le royaume des cieux dans le cœur des hommes ? »_ ([LU 155:5.13](/fr/The_Urantia_Book/155#p5_13))
+> _Êtes-vous craintifs, mous et douillets ? Avez-vous peur de confier votre avenir aux mains du Dieu de vérité dont vous êtes les fils ? Vous méfiez-vous du Père, dont vous êtes les enfants ? Allez-vous reprendre le sentier facile de la certitude et de la fixité intellectuelle de la religion d’autorité traditionnelle, ou allez-vous vous cuirasser pour avancer avec moi dans l’avenir incertain et trouble où nous proclamerons les vérités nouvelles de la religion de l’esprit, le royaume des cieux dans le cœur des hommes ? »_ (<a id="a85_528"></a>[LU 155:5.13](/fr/The_Urantia_Book/155#p5_13))
 
 Notre dirigeant de l’univers, Michel de Nébadon, est venu dans ce monde pour nous enseigner que nous n’avons besoin que de la foi inconditionnelle d’un enfant pour entrer dans le royaume des cieux et que, par conséquent, les intermédiaires ne sont pas nécessaires. À cette époque, son message n’a pas pénétré assez profondément et plus tard, le christianisme a oublié cet enseignement fondamental, même s’il reste latent en lui.
 
@@ -97,3 +121,28 @@ Jusqu’à présent, le monde n’a pas largement mis en œuvre la religion de p
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ismael_Gracia/El_Otorgamiento_de_Miguel">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'effusion de Michael</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-37-juin-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 37 — juin 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/La_parabola_del_propietario_de_las_vides">
+          <span class="pr-2">La parabole du propriétaire des vignes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

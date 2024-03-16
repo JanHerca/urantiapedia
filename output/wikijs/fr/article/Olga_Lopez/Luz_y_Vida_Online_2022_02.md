@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Olga López<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02">
+          <span class="pr-2">Éditorial Luz y Vida – février 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -263,7 +284,7 @@ J'en ai opté pour un qui ressemble plus à un mantra qu'à un paragraphe, car j
 Je l'ai choisi pour sa simplicité, et comme on ne peut pas en dire plus en si peu de mots, le paragraphe est le suivant :
 
 
-> « qu’avec Dieu toutes les choses sont possibles. » ([LU 163:3.2](/fr/The_Urantia_Book/163#p3_2))
+> « qu’avec Dieu toutes les choses sont possibles. » (<a id="a286_54"></a>[LU 163:3.2](/fr/The_Urantia_Book/163#p3_2))
 
 Depuis que je l'ai lu pour la première fois, cela m'a marqué, mais quand je l'ai relu, j'ai réalisé qu'il englobe la vérité, la beauté et la bonté, je parle toujours de manière subjective. Vrai car il suffit de lire la phrase pour comprendre qu’elle est absolument vraie. La beauté est dans sa simplicité, car pour moi la simplicité est la beauté ; et de bonté parce que le Père, par amour pour toutes ses créatures, nous dit que si nous croyons et lui faisons confiance, il nous aidera à nous relever sans rien demander en retour face à tout obstacle qui se présente à nous. Et comme si tout cela ne suffisait pas, cela englobe aussi quelque chose qui est si important pour que tous les êtres évolutifs ascendants puissent atteindre le Père Universel : la foi, car il faut avoir la foi pour croire qu'« avec Dieu tout est possible ».
 
@@ -305,3 +326,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_02">
+          <span class="pr-2">Éditorial Luz y Vida – février 2022</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

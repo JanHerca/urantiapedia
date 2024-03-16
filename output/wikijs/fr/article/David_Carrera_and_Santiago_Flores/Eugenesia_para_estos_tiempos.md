@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 David Carrera et Santiago Flores<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/El_Noveno_Planeta_a_la_luz_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Neuvième Planète à la lumière du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-43-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 43 — mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_las_ondas_gravitacionales">
+          <span class="pr-2">Convergences et divergences : ondes gravitationnelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## David Carrera Ibánez
@@ -192,7 +216,7 @@ Les «  pouvoirs psychiques  » ou «  pouvoirs mentaux  » sont, pour moi, les 
 <img src="/image/article/Luz_y_Vida/LyV43/07.jpg">
 </figure>
 
-L'être matériel contient trois niveaux d'existence (certains qui lui sont propres, d'autres généreusement fournis par la Divinité) : la matière, dont nous appelons l'état d'équilibre « santé » ; l'esprit, dont l'équilibre est appelé « santé mentale » et l'esprit dont l'équilibre est appelé « bonheur ». ([LU 100:4.3](/fr/The_Urantia_Book/100#p4_3) et [LU 2:7.11](/fr/The_Urantia_Book/2#p7_11))
+L'être matériel contient trois niveaux d'existence (certains qui lui sont propres, d'autres généreusement fournis par la Divinité) : la matière, dont nous appelons l'état d'équilibre « santé » ; l'esprit, dont l'équilibre est appelé « santé mentale » et l'esprit dont l'équilibre est appelé « bonheur ». (<a id="a218_305"></a>[LU 100:4.3](/fr/The_Urantia_Book/100#p4_3) et <a id="a218_352"></a>[LU 2:7.11](/fr/The_Urantia_Book/2#p7_11))
 
 Un esprit normal et sain, motivé par l’esprit, fait beaucoup pour éviter ou corriger les maladies psychosomatiques, mais ne peut fournir qu’un solide stoïcisme face à des maladies ou affections exclusivement physiques.
 
@@ -204,7 +228,7 @@ L'eugénisme n'implique pas nécessairement de manipulation génétique. L'eugé
 
 Enfin, je veux aussi évoquer un paragraphe du _Le Livre d'Urantia_ :
 
-> _Du point de vue mondial, le surpeuplement n’a jamais posé de question grave dans le passé, mais, si les guerres se raréfient et si la science réussit à maitriser progressivement les maladies humaines, il peut devenir un problème sérieux dans un proche avenir. À ce moment-là, la grande épreuve de sagesse dans la conduite du monde se présentera. ***Les dirigeants d’Urantia auront-ils la clairvoyance et le courage de favoriser la multiplication d’êtres humains moyens et stabilisés, ou de favoriser celle des groupes extrêmes, d’une part ceux qui dépassent la normale et d’autre part la masse considérablement croissante des êtres inférieurs à la normale ? L’homme normal devrait être encouragé ; il est l’épine dorsale de la civilisation et la source des génies mutants de la race. L’homme inférieur à la normale devrait être gardé sous le contrôle de la société ; il ne devrait pas en être produit plus qu’il n’en faut pour travailler aux niveaux inférieurs de l’industrie, aux tâches qui demandent une intelligence dépassant le niveau animal, mais qui exigent des activités d’un niveau tellement inférieur qu’elles deviennent véritablement un esclavage et un asservissement pour les types supérieurs de l’humanité***._ ([LU 68:6.11](/fr/The_Urantia_Book/68#p6_11))
+> _Du point de vue mondial, le surpeuplement n’a jamais posé de question grave dans le passé, mais, si les guerres se raréfient et si la science réussit à maitriser progressivement les maladies humaines, il peut devenir un problème sérieux dans un proche avenir. À ce moment-là, la grande épreuve de sagesse dans la conduite du monde se présentera. ***Les dirigeants d’Urantia auront-ils la clairvoyance et le courage de favoriser la multiplication d’êtres humains moyens et stabilisés, ou de favoriser celle des groupes extrêmes, d’une part ceux qui dépassent la normale et d’autre part la masse considérablement croissante des êtres inférieurs à la normale ? L’homme normal devrait être encouragé ; il est l’épine dorsale de la civilisation et la source des génies mutants de la race. L’homme inférieur à la normale devrait être gardé sous le contrôle de la société ; il ne devrait pas en être produit plus qu’il n’en faut pour travailler aux niveaux inférieurs de l’industrie, aux tâches qui demandent une intelligence dépassant le niveau animal, mais qui exigent des activités d’un niveau tellement inférieur qu’elles deviennent véritablement un esclavage et un asservissement pour les types supérieurs de l’humanité***._ (<a id="a230_1227"></a>[LU 68:6.11](/fr/The_Urantia_Book/68#p6_11))
 
 Étreintes
 
@@ -212,3 +236,28 @@ Enfin, je veux aussi évoquer un paragraphe du _Le Livre d'Urantia_ :
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/El_Noveno_Planeta_a_la_luz_de_El_Libro_de_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Neuvième Planète à la lumière du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-43-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 43 — mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Convergencias_y_divergencias_las_ondas_gravitacionales">
+          <span class="pr-2">Convergences et divergences : ondes gravitationnelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

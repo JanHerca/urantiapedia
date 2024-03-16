@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López, María José Sánchez Santamaría<br>© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Maria_Garcia">
+          <span class="pr-2">Questionnaire Urantien : Ana María García</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -42,7 +63,7 @@ D'un côté, nous avons la joie de rencontrer des frères et sœurs de races, co
 
 Cet éclair de lumière et de vie que la XIe Conférence Internationale Urantia au Pérou a montré au monde nous permet d'avoir plus d'espoir pour faire face à notre vie quotidienne. Nous avons désormais une plus grande certitude que nous ne sommes pas seuls dans notre désir d’étendre la Bonté, la Vérité et la Beauté sur notre planète bleue. Il y a des gens dans de multiples régions de la planète qui sont guidés par leur merveilleux Ajusteur, avec qui nous sommes en harmonie, et nous sommes sans aucun doute protégés par d’innombrables présences célestes ou frères aînés.
 
-> « Et tout ceci est toujours vrai, car, là où deux ou trois croyants sont réunis, je suis là au milieu d’eux. » ([LU 159:1.3](/fr/The_Urantia_Book/159#p1_3))
+> « Et tout ceci est toujours vrai, car, là où deux ou trois croyants sont réunis, je suis là au milieu d’eux. » (<a id="a65_114"></a>[LU 159:1.3](/fr/The_Urantia_Book/159#p1_3))
 
 Mais nous avons aussi une autre bonne nouvelle : notre bien-aimé Livre d’Urantia sort plus splendide et soigné que jamais avec la nouvelle traduction ou révision en espagnol. Une traduction de grande qualité, à la hauteur de l'époque dans laquelle nous vivons et qui nous permettra de mieux saisir et apprendre les enseignements du _Le Livre d'Urantia_ à partir de 2021.
 
@@ -241,3 +262,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-mayo-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Ana_Maria_Garcia">
+          <span class="pr-2">Questionnaire Urantien : Ana María García</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

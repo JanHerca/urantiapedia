@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez, Olga López, Andrés Pérez, Antonio Moya<br>© 2008 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_13_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 13 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-13-mai-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 13 — mai 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ernesto_Veloso/Poema_al_Ajustador">
+          <span class="pr-2">Poème à l'Ajusteur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -30,9 +54,9 @@ Santi a laissé entendre, dans le fil de discussion sur le nombre de survivants,
 
 La première décision morale amène précisément l’Ajusteur à collecter pour toujours cette valeur universelle, et la spiritualisation du soi commence. Cette spiritualisation de soi donne naissance à l'âme. Je copie deux paragraphes de 111:2.
 
-> « _Cette opération céleste faisant apparaitre par évolution l’âme immortelle est rendue possible parce que le mental mortel est, en premier lieu, personnel et, en second lieu, en contact avec des réalités superanimales ; il possède une dotation supramatérielle de ministère cosmique qui assure l’évolution d’une nature morale capable de prendre des décisions morales, ce qui produit un contact créatif de bonne foi avec les ministères spirituels associés et avec l’Ajusteur de Pensée intérieur._ » ([LU 111:2.9](/fr/The_Urantia_Book/111#p2_9))
+> « _Cette opération céleste faisant apparaitre par évolution l’âme immortelle est rendue possible parce que le mental mortel est, en premier lieu, personnel et, en second lieu, en contact avec des réalités superanimales ; il possède une dotation supramatérielle de ministère cosmique qui assure l’évolution d’une nature morale capable de prendre des décisions morales, ce qui produit un contact créatif de bonne foi avec les ministères spirituels associés et avec l’Ajusteur de Pensée intérieur._ » (<a id="a56_501"></a>[LU 111:2.9](/fr/The_Urantia_Book/111#p2_9))
 
-> « _Le résultat inévitable de cette spiritualisation du mental humain par contact est la naissance graduelle d’une âme, progéniture conjointe d’un mental adjuvat dominé par une volonté humaine ardemment désireuse de connaitre Dieu et qui travaille en liaison avec les forces spirituelles de l’univers qui sont sous le contrôle d’un fragment effectif du Dieu même de toute la création — le Moniteur de Mystère. C’est ainsi que la réalité matérielle et mortelle du moi transcende les limitations temporelles du mécanisme de la vie physique et atteint une nouvelle expression et une nouvelle identification dans le véhicule évoluant qui doit assurer la continuité de l’individualité, l’âme morontielle et immortelle._ » ([LU 111:2.10](/fr/The_Urantia_Book/111#p2_10))
+> « _Le résultat inévitable de cette spiritualisation du mental humain par contact est la naissance graduelle d’une âme, progéniture conjointe d’un mental adjuvat dominé par une volonté humaine ardemment désireuse de connaitre Dieu et qui travaille en liaison avec les forces spirituelles de l’univers qui sont sous le contrôle d’un fragment effectif du Dieu même de toute la création — le Moniteur de Mystère. C’est ainsi que la réalité matérielle et mortelle du moi transcende les limitations temporelles du mécanisme de la vie physique et atteint une nouvelle expression et une nouvelle identification dans le véhicule évoluant qui doit assurer la continuité de l’individualité, l’âme morontielle et immortelle._ » (<a id="a58_719"></a>[LU 111:2.10](/fr/The_Urantia_Book/111#p2_10))
 
 Qu'en penses-tu.
 
@@ -42,7 +66,7 @@ Au Carmel, si l'individu n'a pas « d'aspiration » à connaître Dieu, n'a pas 
 
 Comme l'indique le paragraphe lui-même, l'arrivée de l'Ajusteur commence la spiritualisation de l'individu, et l'âme naîtra ensuite. Pardonnez mon insistance, mais je ne peux m'empêcher de l'interpréter de cette façon.
 
-Et j'insiste encore, l'un des passages les plus clairs est [LU 112:3.2-4](/fr/The_Urantia_Book/112#p3_2), quand ils décrivent les trois types de décès (survie de la personnalité). Quel sens cela aurait-il de nous fournir des informations sur des possibilités théoriques qui, si elles ne se concrétisent jamais, Est-ce qu'ils cesseraient d'être des possibilités ?
+Et j'insiste encore, l'un des passages les plus clairs est <a id="a68_59"></a>[LU 112:3.2-4](/fr/The_Urantia_Book/112#p3_2), quand ils décrivent les trois types de décès (survie de la personnalité). Quel sens cela aurait-il de nous fournir des informations sur des possibilités théoriques qui, si elles ne se concrétisent jamais, Est-ce qu'ils cesseraient d'être des possibilités ?
 
 Si elles devaient se produire « de manière anecdotique » de très tard à tard, je pense qu'il ne serait pas pertinent de l'inclure dans une révélation, alors qu'en revanche on devient de plus en plus convaincu que TOUT ce qui est écrit a une bonne raison. Vous ne le pensez pas ?
 
@@ -64,7 +88,7 @@ Santi, tu m'as fait douter. Je dois réfléchir davantage à la question de l'â
 
 **Antonio :** J'ai trouvé ce paragraphe dans le Doc.5, dernier paragraphe du point 5. Je ne sais pas si cela clarifiera quelque chose le débat.
 
-> « _L’aptitude des parents mortels à procréer n’est pas fondée sur leur statut éducatif, culturel, social ou économique. <ins>***L’union des facteurs parentaux***</ins> dans des conditions naturelles suffit entièrement pour assurer une progéniture. Un mental humain, discernant le bien et le mal, possédant la capacité d’adorer Dieu, en union avec un Ajusteur divin, représente pour un mortel <ins>***tout ce qui est exigé pour déclencher et favoriser la production de son âme immortelle***</ins> avec ses qualités de survie à condition qu’un tel individu doté d’esprit cherche Dieu, désire sincèrement d’être semblable à lui, et choisisse honnêtement de faire la volonté du Père qui est aux cieux._ » ([LU 5:5.14](/fr/The_Urantia_Book/5#p5_14))
+> « _L’aptitude des parents mortels à procréer n’est pas fondée sur leur statut éducatif, culturel, social ou économique. <ins>***L’union des facteurs parentaux***</ins> dans des conditions naturelles suffit entièrement pour assurer une progéniture. Un mental humain, discernant le bien et le mal, possédant la capacité d’adorer Dieu, en union avec un Ajusteur divin, représente pour un mortel <ins>***tout ce qui est exigé pour déclencher et favoriser la production de son âme immortelle***</ins> avec ses qualités de survie à condition qu’un tel individu doté d’esprit cherche Dieu, désire sincèrement d’être semblable à lui, et choisisse honnêtement de faire la volonté du Père qui est aux cieux._ » (<a id="a90_704"></a>[LU 5:5.14](/fr/The_Urantia_Book/5#p5_14))
 
 Carmelo, ce que tu dis me semble tout à fait raisonnable, et je suis avec toi.
 
@@ -90,7 +114,7 @@ Mais wow ! Nous devons couvrir ce minimum, que je répète, je ne vois pas de ra
 
 **Antonio :** Voici un autre paragraphe, cette fois tiré de la vie de Jésus (Doc. 133 : 6) :
 
-> « _L’esprit divin arrive au moment même où le mental de l’homme manifeste sa première activité morale, <ins>et c’est l’occasion de la naissance de l’âme</ins>._ » ([LU 133:6.5](/fr/The_Urantia_Book/133#p6_5))
+> « _L’esprit divin arrive au moment même où le mental de l’homme manifeste sa première activité morale, <ins>et c’est l’occasion de la naissance de l’âme</ins>._ » (<a id="a116_166"></a>[LU 133:6.5](/fr/The_Urantia_Book/133#p6_5))
 
 Concernant le paragraphe que j'ai envoyé ci-dessus, voici l'original en anglais :
 
@@ -102,7 +126,7 @@ Il se pourrait que la condition de « chercher Dieu » soit nécessaire pour <in
 
 **Santiago :** Antonio exprime parfaitement ce dont nous parlons, sauf que je soulignerais également où il est dit :
 
-> « _...qu’un tel individu doté d’esprit cherche Dieu, désire sincèrement d’être semblable à lui, et choisisse honnêtement de faire la volonté du Père qui est aux cieux._ » ([LU 5:5.14](/fr/The_Urantia_Book/5#p5_14))
+> « _...qu’un tel individu doté d’esprit cherche Dieu, désire sincèrement d’être semblable à lui, et choisisse honnêtement de faire la volonté du Père qui est aux cieux._ » (<a id="a128_174"></a>[LU 5:5.14](/fr/The_Urantia_Book/5#p5_14))
 
 Carmelo, il est vrai que faire le bien, c'est faire la volonté du Père, pourvu que ce bien soit BON. Le problème c'est que parfois ce qui nous semble bon ne l'est pas si bien...
 
@@ -188,7 +212,7 @@ Mais ce problème a été atténué par Jésus de Nazareth, qui nous a montré l
 
 Mais nous avons l'Esprit de Vérité, l'esprit de vie de Jésus-Christ qui nous a libérés (si nous le voulons) de la loi de la vie animale, qui nous a montré le chemin vers cette libération. Le paragraphe qui suit celui cité par Santi est clair :
 
-> « _Ces hommes et ces femmes connaissant Dieu et nés de l’Esprit n’éprouvent pas de conflit plus intense avec leur nature mortelle que les habitants des mondes les plus normaux, les planètes qui n’ont jamais été souillées par le péché ni touchées par la rébellion. Les fils par la foi travaillent sur des niveaux intellectuels et vivent sur des plans spirituels très au-dessus des conflits produits par des désirs physiques effrénés ou anormaux. Les impulsions normales d’un être animal et les appétits et les élans naturels de sa nature physique ne sont pas en conflit avec les aboutissements spirituels même les plus élevés, excepté dans le mental des personnes ignorantes, mal renseignées ou des personnes malheureusement consciencieuses à l’excès._ » ([LU 34:7.7](/fr/The_Urantia_Book/34#p7_7))
+> « _Ces hommes et ces femmes connaissant Dieu et nés de l’Esprit n’éprouvent pas de conflit plus intense avec leur nature mortelle que les habitants des mondes les plus normaux, les planètes qui n’ont jamais été souillées par le péché ni touchées par la rébellion. Les fils par la foi travaillent sur des niveaux intellectuels et vivent sur des plans spirituels très au-dessus des conflits produits par des désirs physiques effrénés ou anormaux. Les impulsions normales d’un être animal et les appétits et les élans naturels de sa nature physique ne sont pas en conflit avec les aboutissements spirituels même les plus élevés, excepté dans le mental des personnes ignorantes, mal renseignées ou des personnes malheureusement consciencieuses à l’excès._ » (<a id="a214_757"></a>[LU 34:7.7](/fr/The_Urantia_Book/34#p7_7))
 
 La question est maintenant : si nous avons le message de Jésus, y a-t-il une excuse pour prétendre l’ignorance ? Et je réponds à la question galicienne : avons-nous tous vraiment le message de Jésus ?
 
@@ -210,3 +234,28 @@ C'est pourquoi je pense que Dieu n'a plus rien ni manque, et avec le temps et un
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_13_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 13 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-13-mai-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 13 — mai 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ernesto_Veloso/Poema_al_Ajustador">
+          <span class="pr-2">Poème à l'Ajusteur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

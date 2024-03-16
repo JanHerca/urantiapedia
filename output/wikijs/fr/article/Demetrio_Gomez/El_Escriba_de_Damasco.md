@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Demetrio Gómez<br>© 2015 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Aparicion_de_la_materia_y_de_la_energia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apparition sur la scène cosmique de la matière et de l'énergie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-40-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 40 — juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francisco_Fuentes/Nuestro_universo_y_el_de_El_Libro_de_Urantia">
+          <span class="pr-2">Notre univers et l'univers du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 [_NDLR : en raison de la longueur de cet article, ce qui apparaît ici est un résumé. Vous pouvez lire l'article complet dans la rubrique « Travaux », « quatrième partie »_ : http://urantia.es/node/49.]
@@ -21,7 +45,7 @@ Yahshua ben Yosef a travaillé comme charpentier naval dans un chantier naval à
 <img src="/image/article/Luz_y_Vida/LyV40/08.jpg">
 </figure>
 
-La principale raison d’un si long voyage était de rencontrer des gens du monde entier directement dans leur propre pays. Il a rencontré de nombreux hommes et femmes : riches, pauvres, puissants, humbles, esclaves, religieux, athées, philosophes et bien d'autres professions. Tout cela devant le ministère de la vie publique. [[LU 129:3.8](/fr/The_Urantia_Book/129#p3_8)]
+La principale raison d’un si long voyage était de rencontrer des gens du monde entier directement dans leur propre pays. Il a rencontré de nombreux hommes et femmes : riches, pauvres, puissants, humbles, esclaves, religieux, athées, philosophes et bien d'autres professions. Tout cela devant le ministère de la vie publique. <a id="a47_325"></a>[[LU 129:3.8](/fr/The_Urantia_Book/129#p3_8)]
 
 Ils quittèrent Jérusalem le dimanche matin 26 avril 22 de notre ère. Le voyage a duré 19 mois et 14 jours.
 
@@ -31,17 +55,17 @@ Ils quittèrent Jérusalem le dimanche matin 26 avril 22 de notre ère. Le voyag
 
 Le jeune Ganid a beaucoup appris de son tuteur, puisqu'il a pu observer comment, à chaque occasion qui lui était présentée, il se liait d'amitié avec les personnes qu'il rencontrait en cours de route. Son Maître a également beaucoup appris sur la civilisation et la culture indienne auprès de Gonod et Ganid.
 
-Lors de l'escale à Joppé, ils se lièrent d'amitié avec un jeune Philistin chercheur de vérité et, comme le Maître était un donneur de vérité, un jour après le dîner, le jeune Philistin, ne sachant pas que ce « scribe de Damas » connaissait bien la culture hébraïque, lui demanda : « Crois-tu vraiment que le grand poisson ait avalé Jonas ? » [LU 130:1.2](/fr/The_Urantia_Book/130#p1_2). La réponse du Maître se trouve dans ce même paragraphe.
+Lors de l'escale à Joppé, ils se lièrent d'amitié avec un jeune Philistin chercheur de vérité et, comme le Maître était un donneur de vérité, un jour après le dîner, le jeune Philistin, ne sachant pas que ce « scribe de Damas » connaissait bien la culture hébraïque, lui demanda : « Crois-tu vraiment que le grand poisson ait avalé Jonas ? » <a id="a57_342"></a>[LU 130:1.2](/fr/The_Urantia_Book/130#p1_2). La réponse du Maître se trouve dans ce même paragraphe.
 
-Le jeune homme, comme beaucoup de personnes aujourd’hui, se demande : pourquoi Dieu, qui est si infiniment bon, permet-il le mal et l’injustice ? Comment peut-il nous permettre de souffrir autant à cause du mal ? J'imagine le regard bienveillant du Scribe en répondant à cette question [LU 130:1.5](/fr/The_Urantia_Book/130#p1_5).
+Le jeune homme, comme beaucoup de personnes aujourd’hui, se demande : pourquoi Dieu, qui est si infiniment bon, permet-il le mal et l’injustice ? Comment peut-il nous permettre de souffrir autant à cause du mal ? J'imagine le regard bienveillant du Scribe en répondant à cette question <a id="a59_286"></a>[LU 130:1.5](/fr/The_Urantia_Book/130#p1_5).
 
 Lorsque nos amis voyageurs arrivèrent à Césarée, ils durent y rester plus longtemps que prévu, car l'une des grandes rames qui servaient de gouvernail au navire était sur le point de se briser, le capitaine décida donc de la remplacer par une neuve. Comme il n'y avait pas de charpentiers qualifiés à Césarée pour fabriquer des rames aussi énormes, **Yahshua**, qui était un bon charpentier, proposa de l'aider à les fabriquer.
 
-Un jeune Grec qui travaillait comme assistant du Maître, lorsqu'il l'entendit dire que le Père qui est aux cieux s'intéresse au bien-être de ses enfants sur terre, lui demanda : « Si les Dieux s’intéressent à moi, alors pourquoi n’enlèvent-ils pas le cruel et injuste contremaitre de ce chantier ? » [LU 130:2.4](/fr/The_Urantia_Book/130#p2_4). Le garçon a été très surpris par la réponse du Maître, qui se trouve dans ce même paragraphe.
+Un jeune Grec qui travaillait comme assistant du Maître, lorsqu'il l'entendit dire que le Père qui est aux cieux s'intéresse au bien-être de ses enfants sur terre, lui demanda : « Si les Dieux s’intéressent à moi, alors pourquoi n’enlèvent-ils pas le cruel et injuste contremaitre de ce chantier ? » <a id="a63_300"></a>[LU 130:2.4](/fr/The_Urantia_Book/130#p2_4). Le garçon a été très surpris par la réponse du Maître, qui se trouve dans ce même paragraphe.
 
-Ganid s'est rendu compte que son Maître passait une grande partie de son temps libre à parler et à interagir avec les personnes qu'il rencontrait. Le jeune Indien décida de découvrir la raison de cette manière d'agir de la part de son tuteur, et le Maître répondit : « _Ganid, nul homme n’est un étranger pour qui connait Dieu. Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n’est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie._ » [LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)
+Ganid s'est rendu compte que son Maître passait une grande partie de son temps libre à parler et à interagir avec les personnes qu'il rencontrait. Le jeune Indien décida de découvrir la raison de cette manière d'agir de la part de son tuteur, et le Maître répondit : « _Ganid, nul homme n’est un étranger pour qui connait Dieu. Dans l’expérience de trouver le Père qui est aux cieux, on découvre que tous les hommes sont nos frères, et n’est-il pas naturel que l’on éprouve de la joie à rencontrer un frère récemment découvert ? Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie._ » <a id="a65_666"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6)
 
-Cet après-midi-là, ils avaient aimé jouer avec un chien de berger très intelligent, et Ganid voulait savoir si le chien avait une âme. Le Maître lui dit : « _Le chien a un mental qui peut connaitre l’homme matériel, son maitre, mais ne peut connaitre Dieu qui est esprit. Le chien ne possède donc pas une nature spirituelle et ne peut gouter une expérience spirituelle. ... il n’est pas non plus comparable à la volonté humaine, attendu qu’il n’est pas *réflexif —* il ne résulte pas de ce que le chien a discerné des significations supérieures et morales ou choisi des valeurs spirituelles et éternelles_ » [LU 130:2.8](/fr/The_Urantia_Book/130#p2_8)
+Cet après-midi-là, ils avaient aimé jouer avec un chien de berger très intelligent, et Ganid voulait savoir si le chien avait une âme. Le Maître lui dit : « _Le chien a un mental qui peut connaitre l’homme matériel, son maitre, mais ne peut connaitre Dieu qui est esprit. Le chien ne possède donc pas une nature spirituelle et ne peut gouter une expérience spirituelle. ... il n’est pas non plus comparable à la volonté humaine, attendu qu’il n’est pas *réflexif —* il ne résulte pas de ce que le chien a discerné des significations supérieures et morales ou choisi des valeurs spirituelles et éternelles_ » <a id="a67_608"></a>[LU 130:2.8](/fr/The_Urantia_Book/130#p2_8)
 
 Le jeune homme avait également demandé au Maître de lui expliquer la différence entre la volonté de Dieu et l'acte humain de choisir, également appelé volonté. En résumé, Yahshua lui a dit : La volonté de Dieu est la voie de Dieu, choisissant de s'associer avec Dieu plutôt que toute alternative potentielle. En fait, faire la volonté de Dieu est l'expérience progressive de devenir de plus en plus semblable à Lui. Dieu est la source et la destination de tout ce qui est bon, beau et vrai. Faire la volonté de Dieu est le choix délibéré d’un être conscient de lui-même, qui conduit à une décision et même à un comportement basé sur une réflexion intelligente.
 
@@ -73,15 +97,15 @@ A Carthage, le Maître eut une longue conversation avec un prêtre mithrien sur 
 
 La première étape sur le chemin vers l'Italie fut l'île de Malte, où le scribe consola un jeune homme découragé et découragé nommé Claudius. Ce garçon avait pensé au suicide, mais après avoir fini de parler avec le scribe de Damas, il dit :
 
-« _J’affronterai la vie comme un homme ; j’en ai fini de faire le lâche, je vais retourner vers les miens et tout recommencer_ » [LU 130:8.1](/fr/The_Urantia_Book/130#p8_1). Plus tard, il se joignit à Pierre pour proclamer le christianisme à Rome et à Naples et, après la mort de Pierre, il se rendit en Espagne pour prêcher l'Évangile. C'était un autre des nombreux hommes qui n'ont jamais su que celui qui l'avait inspiré à Malte était Yahshua, le charpentier de Nazareth, qu'il proclama plus tard comme le Sauveur du monde.
+« _J’affronterai la vie comme un homme ; j’en ai fini de faire le lâche, je vais retourner vers les miens et tout recommencer_ » <a id="a99_129"></a>[LU 130:8.1](/fr/The_Urantia_Book/130#p8_1). Plus tard, il se joignit à Pierre pour proclamer le christianisme à Rome et à Naples et, après la mort de Pierre, il se rendit en Espagne pour prêcher l'Évangile. C'était un autre des nombreux hommes qui n'ont jamais su que celui qui l'avait inspiré à Malte était Yahshua, le charpentier de Nazareth, qu'il proclama plus tard comme le Sauveur du monde.
 
-À Syracuse, il rencontra un aubergiste juif capricieux nommé Ezra, qui lui demanda de l'aide car, bien qu'il voulait être un bon juif, il ne parvenait pas à trouver Dieu. Le Scribe répondit par quelques [LU 130:8.2](/fr/The_Urantia_Book/130#p8_2) questions, et c'est alors qu'Ezra trouva véritablement Dieu à la satisfaction de son âme.
+À Syracuse, il rencontra un aubergiste juif capricieux nommé Ezra, qui lui demanda de l'aide car, bien qu'il voulait être un bon juif, il ne parvenait pas à trouver Dieu. Le Scribe répondit par quelques <a id="a101_203"></a>[LU 130:8.2](/fr/The_Urantia_Book/130#p8_2) questions, et c'est alors qu'Ezra trouva véritablement Dieu à la satisfaction de son âme.
 
-Déjà à **Naples**, Yahshua et Ganid avaient tout le temps de se promener dans la ville en faisant l'aumône à de nombreuses personnes car à cette époque il y avait beaucoup de pauvreté dans les rues de Naples. Ganid fut un jour très surpris lorsque son Maître, après avoir donné quelques pièces de monnaie à un mendiant assis dans la rue, ne s'arrêta pas pour consoler le pauvre homme. Lorsque le Maître remarqua le visage surpris de Ganid, il lui dit : « _Pourquoi parler en pure perte à un individu incapable de percevoir la signification de ce que tu dis ?_ » [LU 130:8.4](/fr/The_Urantia_Book/130#p8_4) (ce qui implique que cet homme n'avait pas d'esprit normal.)
+Déjà à **Naples**, Yahshua et Ganid avaient tout le temps de se promener dans la ville en faisant l'aumône à de nombreuses personnes car à cette époque il y avait beaucoup de pauvreté dans les rues de Naples. Ganid fut un jour très surpris lorsque son Maître, après avoir donné quelques pièces de monnaie à un mendiant assis dans la rue, ne s'arrêta pas pour consoler le pauvre homme. Lorsque le Maître remarqua le visage surpris de Ganid, il lui dit : « _Pourquoi parler en pure perte à un individu incapable de percevoir la signification de ce que tu dis ?_ » <a id="a103_562"></a>[LU 130:8.4](/fr/The_Urantia_Book/130#p8_4) (ce qui implique que cet homme n'avait pas d'esprit normal.)
 
 De Naples, ils continuèrent vers Rome par la route de Capoue, où ils restèrent trois jours. De là, le long de la Voie Appienne, ils poursuivirent leur voyage jusqu'à Rome avec leurs bêtes de somme, tous trois impatients de voir la plus grande ville du monde entier du premier siècle de notre ère.
 
-Au premier siècle de notre ère. L’Empire romain comprenait toute l’Europe du Sud, l’Asie Mineure, la Syrie, l’Égypte et l’Afrique du Nord. Gonod et Ganid portèrent les salutations des princes de l'Inde à l'empereur taciturne Tibère. Ce jour-là, Tibère était de bonne humeur et les reçut amicalement. Lorsque nos amis se retirèrent, faisant référence à Yashúa, il commenta : « _Si j’avais la prestance royale et les manières gracieuses de ce garçon, je serais un véritable empereur, n’est-ce pas ?_ » [LU 132:0.1](/fr/The_Urantia_Book/132#p0_1)
+Au premier siècle de notre ère. L’Empire romain comprenait toute l’Europe du Sud, l’Asie Mineure, la Syrie, l’Égypte et l’Afrique du Nord. Gonod et Ganid portèrent les salutations des princes de l'Inde à l'empereur taciturne Tibère. Ce jour-là, Tibère était de bonne humeur et les reçut amicalement. Lorsque nos amis se retirèrent, faisant référence à Yashúa, il commenta : « _Si j’avais la prestance royale et les manières gracieuses de ce garçon, je serais un véritable empereur, n’est-ce pas ?_ » <a id="a107_500"></a>[LU 132:0.1](/fr/The_Urantia_Book/132#p0_1)
 
 La principale raison pour laquelle le scribe de Damas se rendit à Rome était d'étudier les personnes de différents pays qui vivaient ou visitaient Rome. Et surtout, établir le contact avec les principaux chefs religieux de la capitale de l'empire. Peut-être prévoyait-il que les Juifs rejetteraient sa mission, mais il prévoyait certainement que ses messagers ne tarderaient pas à venir à Rome pour annoncer son message sur le royaume des cieux.
 
@@ -91,7 +115,7 @@ Trois raisons fondamentales ont contribué à préparer le terrain à la propaga
 
 1. _Le choix et le maintien de Simon Pierre comme apôtre._
 2. _L’entretien à Jérusalem avec Étienne, dont la mort conduisit à gagner Saül de Tarse._
-3. _La préparation préliminaire des trente Romains dont nous venons de parler, pour en faire ultérieurement les chefs de la nouvelle religion à Rome et dans tout l’empire._ [LU 132:0.6-8](/fr/The_Urantia_Book/132#p0_6)
+3. _La préparation préliminaire des trente Romains dont nous venons de parler, pour en faire ultérieurement les chefs de la nouvelle religion à Rome et dans tout l’empire._ <a id="a117_173"></a>[LU 132:0.6-8](/fr/The_Urantia_Book/132#p0_6)
 
 A Rome, le scribe de Damas rencontra un certain Angamon, qui était le chef religieux des stoïciens. Et après une longue conversation, Angamón apprit :
 
@@ -104,27 +128,27 @@ Lorsque Paul est arrivé à Rome, il s'est lié d'amitié avec Angamon, qui est 
 
 **Mardus**, le chef des cyniques à Rome, est devenu un bon ami du scribe de Damas et les deux ont eu des conversations intéressantes. Une nuit, Mardus interrogea le Maître sur le bien et le mal. C'est ainsi que commence la réponse du Maître :
 
-> _Mon frère, le bien et le mal sont simplement des mots qui symbolisent les niveaux relatifs où l’homme comprend l’univers observable. Si l’on est éthiquement paresseux et socialement indifférent, on peut prendre pour critère du bien les usages sociaux courants. Si l’on est spirituellement indolent et moralement stagnant, on peut prendre pour critère du bien les pratiques et traditions religieuses des contemporains. Mais l’âme qui survit au temps et émerge dans l’éternité, doit faire un choix vivant et personnel entre le bien et le mal, tels qu’ils sont déterminés par les vraies valeurs des critères spirituels établis par l’esprit divin que le Père qui est aux cieux a envoyé habiter le cœur de l’homme. Cet esprit intérieur est le critère de la survie de la personnalité._ ([LU 132:2.2](/fr/The_Urantia_Book/132#p2_2))
+> _Mon frère, le bien et le mal sont simplement des mots qui symbolisent les niveaux relatifs où l’homme comprend l’univers observable. Si l’on est éthiquement paresseux et socialement indifférent, on peut prendre pour critère du bien les usages sociaux courants. Si l’on est spirituellement indolent et moralement stagnant, on peut prendre pour critère du bien les pratiques et traditions religieuses des contemporains. Mais l’âme qui survit au temps et émerge dans l’éternité, doit faire un choix vivant et personnel entre le bien et le mal, tels qu’ils sont déterminés par les vraies valeurs des critères spirituels établis par l’esprit divin que le Père qui est aux cieux a envoyé habiter le cœur de l’homme. Cet esprit intérieur est le critère de la survie de la personnalité._ (<a id="a130_784"></a>[LU 132:2.2](/fr/The_Urantia_Book/132#p2_2))
 
 Nabon, grand prêtre du culte mithrien de Rome, était un juif grec qui s'est entretenu à plusieurs reprises avec le scribe de Damas parce qu'il n'était pas très clair sur le concept de foi, car les Juifs ne mentionnent pas la foi en tant que telle dans la Torah. . mais plutôt comme une fiducie. Son intention était de convertir le Maître au Mithraïsme sans se douter qu’à son tour le scribe de Damas le préparait à être l’un des premiers convertis à l’évangile du royaume.
 
-Nabon a demandé l'opinion du Maître sur la vérité et la foi, et il a répondu [LU 132:3.2-10](/fr/The_Urantia_Book/132#p3_2). Ces vérités que lui enseignait le scribe de Damas continuaient à brûler dans le cœur du grand prêtre Nabon, qui apporta une grande aide aux prédicateurs de l’Évangile chrétien à leur arrivée à Rome. L’idée centrale de son message était que les hommes et les femmes renaissent en tant qu’enfants de Dieu par la foi et que Dieu est un Dieu d’Amour.
+Nabon a demandé l'opinion du Maître sur la vérité et la foi, et il a répondu <a id="a134_77"></a>[LU 132:3.2-10](/fr/The_Urantia_Book/132#p3_2). Ces vérités que lui enseignait le scribe de Damas continuaient à brûler dans le cœur du grand prêtre Nabon, qui apporta une grande aide aux prédicateurs de l’Évangile chrétien à leur arrivée à Rome. L’idée centrale de son message était que les hommes et les femmes renaissent en tant qu’enfants de Dieu par la foi et que Dieu est un Dieu d’Amour.
 
 Le Maître avait la même capacité d'enseigner en répondant aux questions qu'en posant des questions. Ceux qui ont tiré le plus grand profit de ses enseignements étaient les personnes déprimées et accablées, car ils avaient la possibilité de décharger leur âme avec un auditeur aussi compatissant. Il était cela et bien plus encore. Yahshua a eu des contacts affectueux et édifiants avec plus de cinq cents personnes pendant son séjour à Rome. Le seul endroit de Rome qu'il ne visita pas était les bains publics en raison de la promiscuité sexuelle qui y était pratiquée.
 
-Il a déclaré à un orateur du forum : « Votre éloquence est agréable, votre logique est admirable, votre voix est agréable, mais votre enseignement ne reflète pas la vérité. Si seulement vous pouviez jouir de la satisfaction inspirante de connaître Dieu comme votre Père spirituel, alors vous pourriez utiliser votre capacité d'orateur pour libérer vos semblables de l'esclavage des ténèbres et de l'esclavage de l'ignorance_ » [LU 132:4.7](/fr/The_Urantia_Book/132#p4_7) C'était le le même Marc qui a entendu Simon Pierre prêcher et est devenu son successeur, prêchant avec audace le nouvel évangile du royaume après que les Romains aient crucifié Pierre.
+Il a déclaré à un orateur du forum : « Votre éloquence est agréable, votre logique est admirable, votre voix est agréable, mais votre enseignement ne reflète pas la vérité. Si seulement vous pouviez jouir de la satisfaction inspirante de connaître Dieu comme votre Père spirituel, alors vous pourriez utiliser votre capacité d'orateur pour libérer vos semblables de l'esclavage des ténèbres et de l'esclavage de l'ignorance_ » <a id="a138_427"></a>[LU 132:4.7](/fr/The_Urantia_Book/132#p4_7) C'était le le même Marc qui a entendu Simon Pierre prêcher et est devenu son successeur, prêchant avec audace le nouvel évangile du royaume après que les Romains aient crucifié Pierre.
 
-Rencontrant un pauvre homme faussement accusé, le scribe de Damas l'accompagna devant le magistrat et prononça un magnifique discours disant : « _La justice assure la grandeur d’une nation, et plus une nation est grande, plus elle doit être soucieuse que l’injustice n’atteigne pas même son plus humble citoyen. Malheur à une nation où seuls ceux qui possèdent de l’argent et de l’influence peuvent obtenir promptement justice devant les tribunaux ! ... Le gouvernement civil est fondé sur la justice, de même que la vraie religion est basée sur la miséricorde._ » [LU 132:4.8](/fr/The_Urantia_Book/132#p4_8) Le juge a réexaminé l'affaire et, après avoir examiné les preuves, a acquitté l'accusé.
+Rencontrant un pauvre homme faussement accusé, le scribe de Damas l'accompagna devant le magistrat et prononça un magnifique discours disant : « _La justice assure la grandeur d’une nation, et plus une nation est grande, plus elle doit être soucieuse que l’injustice n’atteigne pas même son plus humble citoyen. Malheur à une nation où seuls ceux qui possèdent de l’argent et de l’influence peuvent obtenir promptement justice devant les tribunaux ! ... Le gouvernement civil est fondé sur la justice, de même que la vraie religion est basée sur la miséricorde._ » <a id="a140_565"></a>[LU 132:4.8](/fr/The_Urantia_Book/132#p4_8) Le juge a réexaminé l'affaire et, après avoir examiné les preuves, a acquitté l'accusé.
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV40/10.jpg">
 </figure>
 
-Un certain homme riche, citoyen romain et stoïcien, s'intéressa beaucoup aux enseignements du scribe de Damas et lui demanda finalement ce qu'il ferait de cette richesse s'il l'avait. Ainsi commence sa réponse : « _Je consacrerais la richesse matérielle à élever le niveau de la vie matérielle, de même que j’offrirais ma connaissance, ma sagesse et mes services spirituels pour enrichir la vie intellectuelle, ennoblir la vie sociale et faire progresser la vie spirituelle. J’administrerais les biens matériels comme un sage et efficace dépositaire des ressources d’une génération pour le profit et l’ennoblissement des générations suivantes._ » [LU 132:5.1](/fr/The_Urantia_Book/132#p5_1)
+Un certain homme riche, citoyen romain et stoïcien, s'intéressa beaucoup aux enseignements du scribe de Damas et lui demanda finalement ce qu'il ferait de cette richesse s'il l'avait. Ainsi commence sa réponse : « _Je consacrerais la richesse matérielle à élever le niveau de la vie matérielle, de même que j’offrirais ma connaissance, ma sagesse et mes services spirituels pour enrichir la vie intellectuelle, ennoblir la vie sociale et faire progresser la vie spirituelle. J’administrerais les biens matériels comme un sage et efficace dépositaire des ressources d’une génération pour le profit et l’ennoblissement des générations suivantes._ » <a id="a146_647"></a>[LU 132:5.1](/fr/The_Urantia_Book/132#p5_1)
 
-Vers la fin de leur séjour à Rome, ils se sont rendus en Suisse pour voir les fabuleuses montagnes de ce pays. C'est là que Gonod posa une question directe à Maître Yahshua sur Bouddha. Le Maître lui dit : « _Votre Bouddha fut très supérieur à votre bouddhisme. Bouddha fut un grand homme, et même un prophète pour son peuple, mais un prophète orphelin. Je veux dire par là que, de bonne heure, il perdit de vue son Père spirituel, le Père qui est aux cieux..._ » [LU 132:7.4](/fr/The_Urantia_Book/132#p7_4)
+Vers la fin de leur séjour à Rome, ils se sont rendus en Suisse pour voir les fabuleuses montagnes de ce pays. C'est là que Gonod posa une question directe à Maître Yahshua sur Bouddha. Le Maître lui dit : « _Votre Bouddha fut très supérieur à votre bouddhisme. Bouddha fut un grand homme, et même un prophète pour son peuple, mais un prophète orphelin. Je veux dire par là que, de bonne heure, il perdit de vue son Père spirituel, le Père qui est aux cieux..._ » <a id="a148_464"></a>[LU 132:7.4](/fr/The_Urantia_Book/132#p7_4)
 
-Après la réponse du Maître, Ganid s'est exclamé : « _Maitre, instituons, toi et moi, une nouvelle religion qui soit assez bonne pour l’Inde et assez grande pour Rome ; peut-être pourrons-nous l’apporter aux Juifs en échange de Yahweh_. » [LU 132:7.6](/fr/The_Urantia_Book/132#p7_6)
+Après la réponse du Maître, Ganid s'est exclamé : « _Maitre, instituons, toi et moi, une nouvelle religion qui soit assez bonne pour l’Inde et assez grande pour Rome ; peut-être pourrons-nous l’apporter aux Juifs en échange de Yahweh_. » <a id="a150_238"></a>[LU 132:7.6](/fr/The_Urantia_Book/132#p7_6)
 
 Quelle scène à contempler par les intelligences célestes, celle de ce jeune Indien proposant au Créateur d'un univers de développer une nouvelle religion ! Bien que le jeune homme ne le sache pas, à cette époque et dans ce lieu, ils étaient en train d’élaborer une religion nouvelle et éternelle – une nouvelle voie de salut, la révélation de Dieu à l’homme à travers Yahshua. Ce que le jeune homme voulait le plus faire au monde, il le faisait inconsciemment à ce moment-là. Cela a toujours été comme ça et ce sera toujours comme ça. Ce qu'une imagination humaine éclairée et réfléchie, instruite et guidée par l'esprit, désire être et faire de manière désintéressée et de tout cœur, devient sensiblement créatif, selon le degré auquel le mortel s'engage totalement à accomplir divinement la volonté du Père qui est au paradis.
 
@@ -138,3 +162,28 @@ Et ainsi cela arrive et cela doit être ainsi… Lorsque l’homme s’associe �
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Aparicion_de_la_materia_y_de_la_energia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Apparition sur la scène cosmique de la matière et de l'énergie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-40-juin-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 40 — juin 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Francisco_Fuentes/Nuestro_universo_y_el_de_El_Libro_de_Urantia">
+          <span class="pr-2">Notre univers et l'univers du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

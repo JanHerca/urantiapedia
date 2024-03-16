@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Santiago Rodríguez<br>© 2011 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'unification de la personnalité (deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-26-septembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 26 — septembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Simposio_de_Liderazgo_de_la_AUI">
+          <span class="pr-2">Symposium sur le leadership de l'AUI - Notre expérience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je voudrais inaugurer cette section, dans laquelle je placerai des revues scientifiques, sociologiques ou autres de toute nature, et où nous tenterons de localiser les avancées de la connaissance dans lesquelles se reflète d'une manière ou d'une autre la direction indiquée par LU lui-même.
 
-Ce n'est pas mon intention que la vraisemblance des contenus exprimés dans le LU soit soumise à l'avancée de la connaissance, de la connaissance humaine, révélant des idées qui concordent avec les idées scientifiques qui parsèment ces contenus. Je fais référence à cet égard à l'énoncé même des limites de la révélation ([LU 101:4.2](/fr/The_Urantia_Book/101#p4_2) « Les limites de la révélation, Doc. 101, »La vraie nature de la religion").
+Ce n'est pas mon intention que la vraisemblance des contenus exprimés dans le LU soit soumise à l'avancée de la connaissance, de la connaissance humaine, révélant des idées qui concordent avec les idées scientifiques qui parsèment ces contenus. Je fais référence à cet égard à l'énoncé même des limites de la révélation (<a id="a39_321"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2) « Les limites de la révélation, Doc. 101, »La vraie nature de la religion").
 
 Cela n’a pas non plus de sens, et c’est pourquoi je n’ai pas l’intention de le faire, de spéculer sur des données spécifiques qui, avec le temps, peuvent être considérablement modifiées ; Je ne présenterai que des idées ou des généralités sur diverses facettes de la connaissance qui, d'une manière ou d'une autre, s'intègrent dans les idées et la philosophie présentées dans le contenu du LU.
 
@@ -50,3 +74,28 @@ C’est la première étape inévitable dans la recherche de la vie extraterrest
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_unificacion_de_la_personalidad_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'unification de la personnalité (deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-26-septembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 26 — septembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Simposio_de_Liderazgo_de_la_AUI">
+          <span class="pr-2">Symposium sur le leadership de l'AUI - Notre expérience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

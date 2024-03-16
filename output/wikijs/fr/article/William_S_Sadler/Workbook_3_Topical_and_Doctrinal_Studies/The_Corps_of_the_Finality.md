@@ -33,21 +33,21 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. Corps des Finalitaires Trinitisés Conjoints.
 	5. Corps des Finalitaires de Havona.
 	6. Corps des Finalitaires Transcendantaux.
-	7. Corps des Fils Non Révélés de la Destinée. <a id="s36_47"></a>[LU 31:10.1](/fr/The_Urantia_Book/31#p10_1)
-2. Les finalitaires sont destinés à servir dans les univers de l'espace extérieur. <a id="s37_83"></a>[LU 12:2.6](/fr/The_Urantia_Book/12#p2_6)
+	7. Corps des Fils Non Révélés de la Destinée. <a id="s35_47"></a>[LU 31:10.1](/fr/The_Urantia_Book/31#p10_1)
+2. Les finalitaires sont destinés à servir dans les univers de l'espace extérieur. <a id="s36_83"></a>[LU 12:2.6](/fr/The_Urantia_Book/12#p2_6)
 
 ## II. CORPS DE FINALITRES MORTELS
 
-1. Natifs de Havona. <a id="s41_21"></a>[LU 31:1.1](/fr/The_Urantia_Book/31#p1_1)
-2. Messagers de gravité. <a id="s42_25"></a>[LU 31:2.1](/fr/The_Urantia_Book/31#p2_1)
-3. Mortels glorifiés. <a id="s43_22"></a>[LU 31:3.3](/fr/The_Urantia_Book/31#p3_3)
-4. Séraphin adopté. <a id="s44_20"></a>[LU 31:4.1](/fr/The_Urantia_Book/31#p4_1)
-5. Fils matériels glorifiés. <a id="s45_29"></a>[LU 31:5.1](/fr/The_Urantia_Book/31#p5_1)
-6. Créatures médianes glorifiées. <a id="s46_34"></a>[LU 31:6.2](/fr/The_Urantia_Book/31#p6_2)
+1. Natifs de Havona. <a id="s40_21"></a>[LU 31:1.1](/fr/The_Urantia_Book/31#p1_1)
+2. Messagers de gravité. <a id="s41_25"></a>[LU 31:2.1](/fr/The_Urantia_Book/31#p2_1)
+3. Mortels glorifiés. <a id="s42_22"></a>[LU 31:3.3](/fr/The_Urantia_Book/31#p3_3)
+4. Séraphin adopté. <a id="s43_20"></a>[LU 31:4.1](/fr/The_Urantia_Book/31#p4_1)
+5. Fils matériels glorifiés. <a id="s44_29"></a>[LU 31:5.1](/fr/The_Urantia_Book/31#p5_1)
+6. Créatures médianes glorifiées. <a id="s45_34"></a>[LU 31:6.2](/fr/The_Urantia_Book/31#p6_2)
 
 ## III. ÉVANGELS DE LUMIÈRE
 
-Les Evangels of Light sont les septièmes membres transitoires du Mortal Finality Corps. <a id="s50_88"></a>[LU 31:7.2](/fr/The_Urantia_Book/31#p7_2)
+Les Evangels of Light sont les septièmes membres transitoires du Mortal Finality Corps. <a id="s49_88"></a>[LU 31:7.2](/fr/The_Urantia_Book/31#p7_2)
 
 
 <br>

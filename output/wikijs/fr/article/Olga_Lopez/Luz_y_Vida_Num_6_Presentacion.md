@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Olga López<br>© 2006 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-6-septembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 6 — septembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/A_Vueltas_con_la_Diseminacion">
+          <span class="pr-2">Retour en haut de la page avec la diffusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -54,3 +75,25 @@ Courriel : urantiaesp@gmail.com
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-6-septembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 6 — septembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/A_Vueltas_con_la_Diseminacion">
+          <span class="pr-2">Retour en haut de la page avec la diffusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

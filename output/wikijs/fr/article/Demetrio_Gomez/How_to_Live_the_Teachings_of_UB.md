@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Demetrio Gómez<br>© 2006 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Los_Grupos_de_Estudio">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les groupes d'études</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-5-mai-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 5 — mai 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carmelo_Martinez/Cronica_del_VI_Encuentro">
+          <span class="pr-2">Chronique de la VIème Rencontre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Introduction de Demetrio Gómez
 
-« La foi est un don de Dieu » [[LU 143:2.7](/fr/The_Urantia_Book/143#p2_7)]. C'est ce qu'a dit JÉSUS DE NAZARETH, comme l'un des multiples enseignements enregistrés dans _Le Livre d'Urantia_ selon la cinquième révélation d'époque.
+« La foi est un don de Dieu » <a id="a39_30"></a>[[LU 143:2.7](/fr/The_Urantia_Book/143#p2_7)]. C'est ce qu'a dit JÉSUS DE NAZARETH, comme l'un des multiples enseignements enregistrés dans _Le Livre d'Urantia_ selon la cinquième révélation d'époque.
 
 Pour recevoir ce cadeau, il faut vouloir le recevoir. Voulez-vous recevoir ce cadeau?
 
@@ -54,7 +78,7 @@ Lorsque la **RÈGLE D'OR** est interprétée à la légère, sans suffisamment d
 
 Et, interprété littéralement sans plus attendre, il peut devenir un instrument très offensant pour nos semblables. Sans discernement spirituel, sans application des règles de sagesse, on peut arriver à des conclusions erronées ou exagérées, disons peu précises.
 
-Comme dans le cas de Nathanaël, lors d'une rencontre avec Jésus et les autres apôtres, prenant la parole, il demanda : _Maitre, bien que tu nous aies appris la version positive de l’ancienne ***règle de vie*** nous commandant de ***faire aux autres ce que nous voudrions qu’ils nous fassent***, je ne vois pas très bien comment nous pouvons toujours obéir à une telle injonction._ ([LU 147:4.1](/fr/The_Urantia_Book/147#p4_1)) Nathanaël a malicieusement fait une observation qui était loin d'être interprété de manière acceptable le véritable sens de la RÈGLE D'OR.
+Comme dans le cas de Nathanaël, lors d'une rencontre avec Jésus et les autres apôtres, prenant la parole, il demanda : _Maitre, bien que tu nous aies appris la version positive de l’ancienne ***règle de vie*** nous commandant de ***faire aux autres ce que nous voudrions qu’ils nous fassent***, je ne vois pas très bien comment nous pouvons toujours obéir à une telle injonction._ (<a id="a80_382"></a>[LU 147:4.1](/fr/The_Urantia_Book/147#p4_1)) Nathanaël a malicieusement fait une observation qui était loin d'être interprété de manière acceptable le véritable sens de la RÈGLE D'OR.
 
 Nathanaël a fait l'observation suivante : Si un homme regarde avec lascivité son futur partenaire dans le péché, comment pourrions-nous enseigner à cet homme malveillant l'application de la règle « faire envers les autres ce qu'il voudrait qu'on lui fasse » ?
 
@@ -82,7 +106,7 @@ Au **niveau de l'amour fraternel**, un niveau plus élevé, le niveau du dévoue
 
 Le cinquième niveau est le niveau moral. Lorsque vous atteignez de véritables niveaux d’interprétation philosophique, lorsque vous comprenez clairement ce que signifie faire le bien ou pratiquer le mal, et que vous savez comment définir correctement les concepts selon lesquels une tierce personne réfléchie, idéaliste, sage et impartiale le ferait. interpréter cette RÈGLE D'OR, mais appliquée à nos problèmes personnels, c'est alors que nous pouvons dire que nous appliquons la règle de vie sur son plan moral.
 
-> « _En dernier lieu, nous atteignons le ***niveau de clairvoyance d’esprit*** et d’interprétation spirituelle, le plus élevé de tous. Il nous pousse à reconnaitre, dans cette règle de vie, ***le divin commandement de traiter tous les hommes comme nous concevrions que Dieu les traiterait***. Tel est l’idéal universel des relations humaines, et telle est aussi votre attitude envers tous ces problèmes quand votre suprême désir est de toujours faire la volonté du Père. ***Je voudrais donc que vous fassiez à tous les hommes ce que vous savez que je ferais pour eux dans des circonstances semblables.***_ » ([LU 147:4.9](/fr/The_Urantia_Book/147#p4_9))
+> « _En dernier lieu, nous atteignons le ***niveau de clairvoyance d’esprit*** et d’interprétation spirituelle, le plus élevé de tous. Il nous pousse à reconnaitre, dans cette règle de vie, ***le divin commandement de traiter tous les hommes comme nous concevrions que Dieu les traiterait***. Tel est l’idéal universel des relations humaines, et telle est aussi votre attitude envers tous ces problèmes quand votre suprême désir est de toujours faire la volonté du Père. ***Je voudrais donc que vous fassiez à tous les hommes ce que vous savez que je ferais pour eux dans des circonstances semblables.***_ » (<a id="a108_609"></a>[LU 147:4.9](/fr/The_Urantia_Book/147#p4_9))
 
 Il n’est pas toujours évident d’appliquer la RÈGLE D’OR. Certains diront que c’est plus facile à dire qu’à faire car, dépourvu de la haute application de l’Esprit de Vérité, ce n’est rien d’autre qu’une règle de comportement éthique. De quoi faire bonne figure aux yeux des autres, « pour qu'ils ne disent rien ».
 
@@ -96,13 +120,13 @@ Ils ont désormais une vision amplifiée de la façon de parcourir la vie « **e
 
 Lorsque Jean demande à Jésus de soigner la foule des malades à la fontaine de Béthesda à Jérusalem, même si ce n'était pas ce qui était prévu pendant l'entracte de ce voyage, le Maître, donnant l'exemple, appliqua la règle de vie selon sa coutume. , mais sans intention de faire de prodigieux miracles. Il a simplement adressé quelques mots de consolation à ces gens qui ont tant besoin de quelqu'un pour les consoler dans leurs afflictions, en disant :
 
-> « Beaucoup d’entre vous sont ici, malades et affligés, parce que vous avez vécu de longues années dans de mauvaises voies. Les uns souffrent des accidents du temps, d’autres par suite des fautes de leurs ancêtres, alors que certains d’entre vous luttent sous les handicaps des conditions imparfaites de votre existence temporelle. Mais mon Père travaille, et je voudrais travailler aussi à améliorer votre condition terrestre, ... En vérité, en vérité, je vous le dis : Quiconque entend l’évangile du royaume, et croit à cet enseignement de la filiation avec Dieu, possède la vie éternelle. Déjà ces croyants passent du jugement et de la mort à la lumière et à la vie. » ([LU 147:3.3](/fr/The_Urantia_Book/147#p3_3))
+> « Beaucoup d’entre vous sont ici, malades et affligés, parce que vous avez vécu de longues années dans de mauvaises voies. Les uns souffrent des accidents du temps, d’autres par suite des fautes de leurs ancêtres, alors que certains d’entre vous luttent sous les handicaps des conditions imparfaites de votre existence temporelle. Mais mon Père travaille, et je voudrais travailler aussi à améliorer votre condition terrestre, ... En vérité, en vérité, je vous le dis : Quiconque entend l’évangile du royaume, et croit à cet enseignement de la filiation avec Dieu, possède la vie éternelle. Déjà ces croyants passent du jugement et de la mort à la lumière et à la vie. » (<a id="a122_674"></a>[LU 147:3.3](/fr/The_Urantia_Book/147#p3_3))
 
 Beaucoup de ceux qui écoutaient se sentaient tellement revitalisés spirituellement qu’ils sont sortis en proclamant qu’ils avaient été guéris de leurs maux physiques. L'un d'eux, alité depuis plus de trente-huit ans à cause d'une grave dépression, s'est levé, a pris le lit dans ses mains et est reparti guéri. Le pauvre homme attendait depuis de nombreuses années que quelqu’un l’aide.
 
 Je pense que, comme la règle de vie, la foi peut être interprétée en fonction du niveau ou de la quantité de foi acquise. La foi peut être petite, du niveau de simple croyance, ou grande, selon la foi de Jésus. De l’un à l’autre, il y a plusieurs degrés ; Un jour, les apôtres ont montré peu de foi, le professeur leur a dit qu'ils étaient des hommes de peu de foi.
 
-Le centurion romain Mangús, capitaine de la garde romaine stationnée à Capharnaüm, montra une telle foi en la puissance du Fils de l'Homme que sa présence était inutile. Il suffisait que Jésus donne l’ordre de guérir le malade et il serait guéri. À tel point que le Divin Maître fut surpris de voir tant de confiance, tant de foi. Jésus s'est exclamé : « _Je suis émerveillé de la croyance de ce Gentil. En vérité, en vérité, je vous le dis, je n’ai trouvé nulle part une si grande foi, non, pas en Israël._ » ([LU 147:1.3](/fr/The_Urantia_Book/147#p1_3))
+Le centurion romain Mangús, capitaine de la garde romaine stationnée à Capharnaüm, montra une telle foi en la puissance du Fils de l'Homme que sa présence était inutile. Il suffisait que Jésus donne l’ordre de guérir le malade et il serait guéri. À tel point que le Divin Maître fut surpris de voir tant de confiance, tant de foi. Jésus s'est exclamé : « _Je suis émerveillé de la croyance de ce Gentil. En vérité, en vérité, je vous le dis, je n’ai trouvé nulle part une si grande foi, non, pas en Israël._ » (<a id="a128_511"></a>[LU 147:1.3](/fr/The_Urantia_Book/147#p1_3))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV5/04.jpg">
@@ -111,11 +135,11 @@ Le centurion romain Mangús, capitaine de la garde romaine stationnée à Caphar
 
 Plus tard, lorsque les amis du centurion vinrent lui raconter ce que Jésus avait dit, le serviteur du centurion commença à s'améliorer et retrouva bientôt sa santé et son utilité normales.
 
-Plus tard, alors que Jésus fut invité à manger par Simon, un pharisien influent de Jérusalem, pendant qu'ils mangeaient, une femme de mauvaise réputation, devenue croyante, entra dans la pièce où ils mangeaient et, avec une bouteille de parfum, mouilla la Jésus et il les oignit en même temps qu'il pleurait et mouillait les pieds du Maître, les séchant avec ses cheveux. Le pharisien a critiqué l'acte en disant : « ***Si cet homme était un prophète, il saurait qui le touche ainsi et de quel genre de femme il s’agit, une pécheresse notoire.*** » ([LU 147:5.4](/fr/The_Urantia_Book/147#p5_4))
+Plus tard, alors que Jésus fut invité à manger par Simon, un pharisien influent de Jérusalem, pendant qu'ils mangeaient, une femme de mauvaise réputation, devenue croyante, entra dans la pièce où ils mangeaient et, avec une bouteille de parfum, mouilla la Jésus et il les oignit en même temps qu'il pleurait et mouillait les pieds du Maître, les séchant avec ses cheveux. Le pharisien a critiqué l'acte en disant : « ***Si cet homme était un prophète, il saurait qui le touche ainsi et de quel genre de femme il s’agit, une pécheresse notoire.*** » (<a id="a137_550"></a>[LU 147:5.4](/fr/The_Urantia_Book/147#p5_4))
 
-Jésus a donné une leçon sur la manière d’appliquer correctement la règle de vie. Premièrement, il ne réprimande pas violemment l'attitude de Simon. Il vous pose une question avec un exemple pour vous faire réfléchir. Il lui dit : « _Un riche prêteur d’argent avait deux débiteurs. L’un lui devait cinq-cents deniers, l’autre cinquante. Aucun des deux n’ayant de quoi le payer, il remit leur dette à tous deux. À ton avis, Simon, lequel des deux l’aimera le plus ? Simon répondit : Je suppose que c’est celui à qui il a remis le plus._ » De cette façon, une fois que Simon est préparé à la correction, Jésus lui rappelle qu’il ne l’a pas traité correctement comme c’était la coutume avec les invités honorables. Il ne lui a pas lavé les pieds ni ne l'a reçu avec un baiser amical, il ne l'a pas oint d'huile. Au lieu de cela, la femme pécheresse a oint les pieds de Jésus avec des parfums coûteux. « _Que signifie tout ceci ? Simplement que ses nombreux péchés lui ont été pardonnés_» Le Maître dit à la femme : « _En vérité, tu t’es repentie de tes péchés, et ils sont pardonnés..._ ***Femme, va en paix ; ta foi t'a sauvé***. » ([LU 147:5.4](/fr/The_Urantia_Book/147#p5_4))
+Jésus a donné une leçon sur la manière d’appliquer correctement la règle de vie. Premièrement, il ne réprimande pas violemment l'attitude de Simon. Il vous pose une question avec un exemple pour vous faire réfléchir. Il lui dit : « _Un riche prêteur d’argent avait deux débiteurs. L’un lui devait cinq-cents deniers, l’autre cinquante. Aucun des deux n’ayant de quoi le payer, il remit leur dette à tous deux. À ton avis, Simon, lequel des deux l’aimera le plus ? Simon répondit : Je suppose que c’est celui à qui il a remis le plus._ » De cette façon, une fois que Simon est préparé à la correction, Jésus lui rappelle qu’il ne l’a pas traité correctement comme c’était la coutume avec les invités honorables. Il ne lui a pas lavé les pieds ni ne l'a reçu avec un baiser amical, il ne l'a pas oint d'huile. Au lieu de cela, la femme pécheresse a oint les pieds de Jésus avec des parfums coûteux. « _Que signifie tout ceci ? Simplement que ses nombreux péchés lui ont été pardonnés_» Le Maître dit à la femme : « _En vérité, tu t’es repentie de tes péchés, et ils sont pardonnés..._ ***Femme, va en paix ; ta foi t'a sauvé***. » (<a id="a139_1130"></a>[LU 147:5.4](/fr/The_Urantia_Book/147#p5_4))
 
-Lorsque Jésus se leva avec ses amis pour prendre congé, il se tourna vers Simon et dit : « _Je connais ton cœur, Simon. Je sais combien tu es déchiré entre la foi et le doute, combien tu es bouleversé par la peur et troublé par l’orgueil, mais je prie pour toi, pour que tu t’abandonnes à la lumière et que, dans ta situation, tu subisses de puissantes transformations de mental et d’esprit, comparables aux prodigieux changements que l’évangile du royaume a déjà opérés dans le cœur de la convive qui n’était ni invitée ni bienvenue. Je vous déclare à tous que le Père a ouvert les portes du royaume céleste à tous ceux qui ont assez de foi pour y entrer. Nul homme et nulle association d’hommes ne peuvent fermer ces portes, même à l’âme la plus humble ou au pécheur supposé le plus flagrant de la terre, s’ils désirent sincèrement y entrer._ » Puis Jésus, Pierre, Jacques et Jean prirent congé de leur hôte et allèrent rejoindre les autres apôtres au camp, dans le jardin de Gethsémani. ([LU 147:5.6](/fr/The_Urantia_Book/147#p5_6))
+Lorsque Jésus se leva avec ses amis pour prendre congé, il se tourna vers Simon et dit : « _Je connais ton cœur, Simon. Je sais combien tu es déchiré entre la foi et le doute, combien tu es bouleversé par la peur et troublé par l’orgueil, mais je prie pour toi, pour que tu t’abandonnes à la lumière et que, dans ta situation, tu subisses de puissantes transformations de mental et d’esprit, comparables aux prodigieux changements que l’évangile du royaume a déjà opérés dans le cœur de la convive qui n’était ni invitée ni bienvenue. Je vous déclare à tous que le Père a ouvert les portes du royaume céleste à tous ceux qui ont assez de foi pour y entrer. Nul homme et nulle association d’hommes ne peuvent fermer ces portes, même à l’âme la plus humble ou au pécheur supposé le plus flagrant de la terre, s’ils désirent sincèrement y entrer._ » Puis Jésus, Pierre, Jacques et Jean prirent congé de leur hôte et allèrent rejoindre les autres apôtres au camp, dans le jardin de Gethsémani. (<a id="a141_991"></a>[LU 147:5.6](/fr/The_Urantia_Book/147#p5_6))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV5/05.jpg">
@@ -124,13 +148,13 @@ Lorsque Jésus se leva avec ses amis pour prendre congé, il se tourna vers Simo
 
 Cette même nuit, Jésus prononça aux apôtres un discours inoubliable sur la valeur relative du statut personnel devant Dieu et le progrès dans l’ascension éternelle au Paradis.
 
-Jésus trouvait normal qu’au début certains progressent lentement. Il peut y avoir plusieurs raisons à cela, puisque tout le monde n’a pas les mêmes capacités et les circonstances ne sont pas les mêmes pour tout le monde. L’important n’est pas la rapidité mais la certitude que des progrès sont réalisés. Comme le dit le Maître : « _Vos accomplissements actuels sont moins importants que le fait que la ***direction*** de vos progrès soit orientée ***vers Dieu***._ » ([LU 147:5.7](/fr/The_Urantia_Book/147#p5_7))
+Jésus trouvait normal qu’au début certains progressent lentement. Il peut y avoir plusieurs raisons à cela, puisque tout le monde n’a pas les mêmes capacités et les circonstances ne sont pas les mêmes pour tout le monde. L’important n’est pas la rapidité mais la certitude que des progrès sont réalisés. Comme le dit le Maître : « _Vos accomplissements actuels sont moins importants que le fait que la ***direction*** de vos progrès soit orientée ***vers Dieu***._ » (<a id="a150_468"></a>[LU 147:5.7](/fr/The_Urantia_Book/147#p5_7))
 
 La femme qui a oint les pieds du Messie a commencé la longue et extraordinaire recherche de Dieu avec sérieux et sans réserve ; Sa marche ferme et déterminée n’était pas bloquée par l’orgueil spirituel, comme c’était le cas des pharisiens traditionalistes, davantage occupés par le formalisme des rituels et des apparences dénuées de sens.
 
-Le Maître a dit à ses apôtres et à ses disciples : « _Certains d’entre vous peuvent ne pas se trouver à des niveaux réellement élevés d’âme et d’esprit, mais vous faites des progrès quotidiens vers Dieu sur ***le chemin vivant*** que votre foi a ouvert. ... Mieux vaut avoir une foi restreinte, mais vivante et croissante, que de posséder un puissant intellect avec ses réserves mortes de sagesse temporelle et d’incrédulité spirituelle._ » ([LU 147:5.8](/fr/The_Urantia_Book/147#p5_8))
+Le Maître a dit à ses apôtres et à ses disciples : « _Certains d’entre vous peuvent ne pas se trouver à des niveaux réellement élevés d’âme et d’esprit, mais vous faites des progrès quotidiens vers Dieu sur ***le chemin vivant*** que votre foi a ouvert. ... Mieux vaut avoir une foi restreinte, mais vivante et croissante, que de posséder un puissant intellect avec ses réserves mortes de sagesse temporelle et d’incrédulité spirituelle._ » (<a id="a154_442"></a>[LU 147:5.8](/fr/The_Urantia_Book/147#p5_8))
 
-Jésus assista à de nombreuses réunions et banquets avec les grands et les petits, les riches et les pauvres de Jérusalem, avant de retourner à Capharnaüm. Et comme c'était sa coutume : enseigner, réconforter, soigner les malades, pardonner aux pécheurs. Bref, appliquer la règle d’or partout où il passe. Répandre la joie, avec la douceur qui le caractérisait. Sans hâte. Car « ***la douceur est le parfum de l'amitié, qui jaillit d'une âme saturée d'amour*** ». ([LU 171:7.1](/fr/The_Urantia_Book/171#p7_1)) Faire le bien partout où il allait parce que c'était plein de beauté et de bonté. Il était, est et sera pour toujours **le chemin vers le Père céleste, la vérité authentique et le pain de la vie éternelle**. « SUIVONS-LE ! »
+Jésus assista à de nombreuses réunions et banquets avec les grands et les petits, les riches et les pauvres de Jérusalem, avant de retourner à Capharnaüm. Et comme c'était sa coutume : enseigner, réconforter, soigner les malades, pardonner aux pécheurs. Bref, appliquer la règle d’or partout où il passe. Répandre la joie, avec la douceur qui le caractérisait. Sans hâte. Car « ***la douceur est le parfum de l'amitié, qui jaillit d'une âme saturée d'amour*** ». (<a id="a156_464"></a>[LU 171:7.1](/fr/The_Urantia_Book/171#p7_1)) Faire le bien partout où il allait parce que c'était plein de beauté et de bonté. Il était, est et sera pour toujours **le chemin vers le Père céleste, la vérité authentique et le pain de la vie éternelle**. « SUIVONS-LE ! »
 
 ## Commentaires des participants
 
@@ -156,3 +180,28 @@ Le changement doit commencer en nous pour s’étendre à la société. Nous ne 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Santiago_Rodriguez/Los_Grupos_de_Estudio">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les groupes d'études</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-5-mai-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 5 — mai 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carmelo_Martinez/Cronica_del_VI_Encuentro">
+          <span class="pr-2">Chronique de la VIème Rencontre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

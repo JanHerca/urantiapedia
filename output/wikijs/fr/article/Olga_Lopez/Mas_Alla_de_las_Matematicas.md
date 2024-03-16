@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Olga López<br>© 2006 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Dieu_lAbsolu_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu l'Absolu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-6-septembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 6 — septembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Il n'y a qu'en mathématiques, comme le dit Averroès, qu'il y a identité entre les choses que nous connaissons et celles qui sont connues de manière absolue. La connaissance mathématique est constituée de propositions que notre intellect construit de manière à ce qu'elles fonctionnent toujours comme vraies, parce qu'elles sont innées ou parce que les mathématiques ont été inventées avant les autres sciences.
@@ -17,7 +38,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Introduction
 
-Le but de cette réflexion n’est pas de démontrer l’existence de Dieu en utilisant quelque chose comme la « métamathématique » (analogue à la façon dont la métaphysique se situe « au-delà » de la physique). Je sais très bien (et _Le Livre d'Urantia_ se charge de nous le rappeler plus d'une fois ; il suffit de revoir [LU 1:7.4](/fr/The_Urantia_Book/1#p7_4), [LU 12:7.6](/fr/The_Urantia_Book/12#p7_6), [LU 12:9.3](/fr/The_Urantia_Book/12#p9_3)) qu'il n'existe pas de démonstrations irréfutables de l'existence de Dieu. Je suis également conscient que mes connaissances en mathématiques sont très limitées, même si j'ai dû étudier beaucoup de mathématiques dans le passé. Seulement parfois, en essayant de penser au-delà des formules mathématiques que je devais apprendre comme s'il s'agissait d'un dogme, et en considérant certains nombres et leurs propriétés, je ne pouvais m'empêcher de ressentir un certain vertige en pensant que, d'une manière ou d'une autre, ils me montraient des concepts. comme l'infini. , l'indétermination, l'unification. Des concepts qui, d'une certaine manière, sont liés aux caractéristiques que l'on attribue à la divinité.
+Le but de cette réflexion n’est pas de démontrer l’existence de Dieu en utilisant quelque chose comme la « métamathématique » (analogue à la façon dont la métaphysique se situe « au-delà » de la physique). Je sais très bien (et _Le Livre d'Urantia_ se charge de nous le rappeler plus d'une fois ; il suffit de revoir <a id="a40_317"></a>[LU 1:7.4](/fr/The_Urantia_Book/1#p7_4), <a id="a40_358"></a>[LU 12:7.6](/fr/The_Urantia_Book/12#p7_6), <a id="a40_401"></a>[LU 12:9.3](/fr/The_Urantia_Book/12#p9_3)) qu'il n'existe pas de démonstrations irréfutables de l'existence de Dieu. Je suis également conscient que mes connaissances en mathématiques sont très limitées, même si j'ai dû étudier beaucoup de mathématiques dans le passé. Seulement parfois, en essayant de penser au-delà des formules mathématiques que je devais apprendre comme s'il s'agissait d'un dogme, et en considérant certains nombres et leurs propriétés, je ne pouvais m'empêcher de ressentir un certain vertige en pensant que, d'une manière ou d'une autre, ils me montraient des concepts. comme l'infini. , l'indétermination, l'unification. Des concepts qui, d'une certaine manière, sont liés aux caractéristiques que l'on attribue à la divinité.
 
 J'ai fait une seule enquête, rafraîchissant des connaissances que j'avais oubliées, sur cette partie des mathématiques qui m'a le plus étonné à l'époque. Je suppose que quelqu'un de plus expert que moi (le trouver ne sera pas difficile) pourrait aiguiser davantage ces réflexions, et mettre en garde sur d'autres propriétés et d'autres formules.
 
@@ -31,11 +52,11 @@ Une fois que l’on découvre que l’aptitude des mathématiques à comprendre 
 
 Si les mathématiques sont idéales pour comprendre le fonctionnement de la nature, c'est, selon Eugène Wigner, parce qu'elles permettent de développer des raisonnements brillants et frôlant même les raisonnements inadmissibles. Grâce aux mathématiques on peut par exemple comprendre la notion d'infini, et le fait qu'il existe des infinis plus grands que d'autres. Par exemple, les nombres naturels sont un ensemble infini, mais les nombres réels sont également un ensemble infini mais plus grand, qui inclut également les nombres naturels. Entre 0 et 1 il existe aussi des nombres infinis, qu’ils soient naturels, réels, irrationnels, etc.
 
-> _Bien que le domaine des mathématiques soit cerné de limitations qualitatives, il procure cependant au mental fini une base conceptuelle pour contempler l’infinité. Les nombres n’ont pas de limitation quantitative, même dans la compréhension d’un mental fini. Si grand que soit le nombre conçu, vous pouvez toujours envisager d’y ajouter une unité. Vous pouvez également comprendre que vous restez en deçà de l’infini, car quel que soit le nombre de fois que vous répétez cette addition, vous pouvez toujours la répéter une fois de plus._ ([LU 118:0.11](/fr/The_Urantia_Book/118#p0_11))
+> _Bien que le domaine des mathématiques soit cerné de limitations qualitatives, il procure cependant au mental fini une base conceptuelle pour contempler l’infinité. Les nombres n’ont pas de limitation quantitative, même dans la compréhension d’un mental fini. Si grand que soit le nombre conçu, vous pouvez toujours envisager d’y ajouter une unité. Vous pouvez également comprendre que vous restez en deçà de l’infini, car quel que soit le nombre de fois que vous répétez cette addition, vous pouvez toujours la répéter une fois de plus._ (<a id="a54_542"></a>[LU 118:0.11](/fr/The_Urantia_Book/118#p0_11))
 
 En revanche, à la lumière du LU, il n’est pas nécessaire d’être un lynx pour se rendre compte de l’importance de certains chiffres. Le chiffre sept, par exemple, est lié au du monde spirituel, tandis que le nombre dix est lié au niveau matériel de la réalité.
 
-Mais j'avais envie d'aller un peu plus loin dans mes divagations. Pouvons-nous avoir un aperçu de Dieu à travers les mathématiques (ou plutôt les « métamathématiques ») ? Eugene Wigner dit dans son article que « _le miracle de l'adéquation du langage mathématique à la formulation des lois de la physique est un cadeau merveilleux que nous ne comprenons ni ne méritons_ ». Le définir comme un « cadeau » m’amène à penser que c’est vraiment un cadeau. Ou plutôt, un outil dont les êtres humains ont été dotés et qui nous permet de découvrir les lois qui régissent le monde physique ainsi que de regarder au-delà et d'entrevoir l'existence d'une Intelligence Suprême. Dans la LU, il est dit que, de la même manière qu'il existe des lois qui fonctionnent dans le monde matériel, il existe des lois qui s'accomplissent également dans le monde spirituel ([LU 7:1.8](/fr/The_Urantia_Book/7#p1_8); [LU 44:5.5](/fr/The_Urantia_Book/44#p5_5)). Je me demande si ces lois auront (ou pourraient avoir) une formulation mathématique. Et encore plus si l'on tient compte du fait que « _dans la pratique, les lois de la nature opèrent dans les domaines apparemment doubles du physique et du spirituel, mais en réalité ces domaines n'en sont qu'un_ » ([LU 42:11.2](/fr/The_Urantia_Book/42#p11_2)).
+Mais j'avais envie d'aller un peu plus loin dans mes divagations. Pouvons-nous avoir un aperçu de Dieu à travers les mathématiques (ou plutôt les « métamathématiques ») ? Eugene Wigner dit dans son article que « _le miracle de l'adéquation du langage mathématique à la formulation des lois de la physique est un cadeau merveilleux que nous ne comprenons ni ne méritons_ ». Le définir comme un « cadeau » m’amène à penser que c’est vraiment un cadeau. Ou plutôt, un outil dont les êtres humains ont été dotés et qui nous permet de découvrir les lois qui régissent le monde physique ainsi que de regarder au-delà et d'entrevoir l'existence d'une Intelligence Suprême. Dans la LU, il est dit que, de la même manière qu'il existe des lois qui fonctionnent dans le monde matériel, il existe des lois qui s'accomplissent également dans le monde spirituel (<a id="a58_850"></a>[LU 7:1.8](/fr/The_Urantia_Book/7#p1_8); <a id="a58_891"></a>[LU 44:5.5](/fr/The_Urantia_Book/44#p5_5)). Je me demande si ces lois auront (ou pourraient avoir) une formulation mathématique. Et encore plus si l'on tient compte du fait que « _dans la pratique, les lois de la nature opèrent dans les domaines apparemment doubles du physique et du spirituel, mais en réalité ces domaines n'en sont qu'un_ » (<a id="a58_1235"></a>[LU 42:11.2](/fr/The_Urantia_Book/42#p11_2)).
 
 ## Un regard vers l'insondable : le nombre pi
 
@@ -45,11 +66,11 @@ Le nombre $\Pi$ est un nombre transcendantal (ou transcendantal), puisqu'il est 
 
 La relation du nombre $\Pi$ avec le cercle nous amène à considérer l'importance de cette figure géométrique dans l'organisation de l'univers. Dans le LU, par exemple, on peut trouver ces déclarations significatives :
 
-> _Même vos anciens prophètes comprenaient l’éternelle nature circulaire, sans commencement ni fin, du Père Universel..._ ([LU 2:2.1](/fr/The_Urantia_Book/2#p2_1))
+> _Même vos anciens prophètes comprenaient l’éternelle nature circulaire, sans commencement ni fin, du Père Universel..._ (<a id="a68_123"></a>[LU 2:2.1](/fr/The_Urantia_Book/2#p2_1))
 
-> _La preuve décisive que l’univers est à la fois circulaire et délimité est apportée par le fait bien connu (pour nous) que toutes les formes d’énergie fondamentale tournent sur la trajectoire courbe des niveaux d’espace du maitre univers en obéissant à l’attraction incessante et absolue de la gravité du Paradis._ ([LU 12:1.1](/fr/The_Urantia_Book/12#p1_1))
+> _La preuve décisive que l’univers est à la fois circulaire et délimité est apportée par le fait bien connu (pour nous) que toutes les formes d’énergie fondamentale tournent sur la trajectoire courbe des niveaux d’espace du maitre univers en obéissant à l’attraction incessante et absolue de la gravité du Paradis._ (<a id="a70_318"></a>[LU 12:1.1](/fr/The_Urantia_Book/12#p1_1))
 
-> _Tout ceci confirme notre croyance en un univers des univers circulaire, quelque peu limité, mais ordonné et immense. Si ce n’était pas vrai, il apparaitrait tôt ou tard en un point quelconque une preuve de déperdition d’énergie. Toutes les lois, les organisations, l’administration et les témoignages des explorateurs de l’univers — tout indique l’existence d’un Dieu infini, mais, pour l’instant, d’un univers fini, d’une forme circulaire d’existence sans fin, à peu près sans limites, mais néanmoins finie, en contraste avec l’infinité._ ([LU 42:1.9](/fr/The_Urantia_Book/42#p1_9))
+> _Tout ceci confirme notre croyance en un univers des univers circulaire, quelque peu limité, mais ordonné et immense. Si ce n’était pas vrai, il apparaitrait tôt ou tard en un point quelconque une preuve de déperdition d’énergie. Toutes les lois, les organisations, l’administration et les témoignages des explorateurs de l’univers — tout indique l’existence d’un Dieu infini, mais, pour l’instant, d’un univers fini, d’une forme circulaire d’existence sans fin, à peu près sans limites, mais néanmoins finie, en contraste avec l’infinité._ (<a id="a72_544"></a>[LU 42:1.9](/fr/The_Urantia_Book/42#p1_9))
 
 Dans son livre _Le langage univoque de la Doctrine Sacrée_, Abelardo Falletti déduit de l'égalité $\sqrt{[\Pi^{2}+(\Pi / 2)^{2}]} / \Pi=\sqrt{5} / 2$ un sens profond de transmission du fait religieux dans l'homme. Il affirme que dans le système décimal il y a quelque chose d'insaisissable que la science appelle un « nombre transcendant ». Le nombre $\Pi$ est un nombre transcendant qui ne peut être causé ou provenir de nombres rationnels, y compris les nombres périodiques. La formule ci-dessus ne peut pas être inversée pour que la racine carrée de 5 divisée par deux revienne à $\Pi$ sans que $\Pi$ elle-même n'intervienne.
 
@@ -67,25 +88,25 @@ Sachant que $\Pi$ est le nombre le plus important en géométrie, e (un autre no
 
 ## 19. Le rôle de l'esprit
 
-Selon le LU, l'esprit matériel et donc encadré dans l'espace-temps ne peut obtenir une démonstration « scientifique » de l'existence de mécanismes supérieurs. En tant qu'êtres dotés d'un esprit fini, nous avons tendance à considérer comme automatiques et mécaniques les phénomènes qui sont en réalité dirigés par des intelligences supérieures ([LU 42:11.3-4](/fr/The_Urantia_Book/42#p11_3) et [LU 42:11.7](/fr/The_Urantia_Book/42#p11_7)). Cela signifie-t-il que nous sommes « condamnés » à obtenir une vision partielle et très limitée de la réalité ? Bien sûr, nous n’obtiendrons pas la vision totale avec l’esprit actuel, mais cela peut être un bon instrument pour atteindre des niveaux de compréhension plus élevés si nous sommes capables d’harmoniser la science, la philosophie et la religion, en plaçant chacune dans sa sphère correspondante.
+Selon le LU, l'esprit matériel et donc encadré dans l'espace-temps ne peut obtenir une démonstration « scientifique » de l'existence de mécanismes supérieurs. En tant qu'êtres dotés d'un esprit fini, nous avons tendance à considérer comme automatiques et mécaniques les phénomènes qui sont en réalité dirigés par des intelligences supérieures (<a id="a90_344"></a>[LU 42:11.3-4](/fr/The_Urantia_Book/42#p11_3) et <a id="a90_393"></a>[LU 42:11.7](/fr/The_Urantia_Book/42#p11_7)). Cela signifie-t-il que nous sommes « condamnés » à obtenir une vision partielle et très limitée de la réalité ? Bien sûr, nous n’obtiendrons pas la vision totale avec l’esprit actuel, mais cela peut être un bon instrument pour atteindre des niveaux de compréhension plus élevés si nous sommes capables d’harmoniser la science, la philosophie et la religion, en plaçant chacune dans sa sphère correspondante.
 
-> « _La science enseigne aux hommes à parler le nouveau langage des mathématiques et leur apprend à penser selon des lignes d’une exigeante précision. La science stabilise aussi la philosophie en éliminant les erreurs, et purifie en même temps la religion en détruisant les superstitions._ » ([LU 81:6.10](/fr/The_Urantia_Book/81#p6_10))
+> « _La science enseigne aux hommes à parler le nouveau langage des mathématiques et leur apprend à penser selon des lignes d’une exigeante précision. La science stabilise aussi la philosophie en éliminant les erreurs, et purifie en même temps la religion en détruisant les superstitions._ » (<a id="a92_293"></a>[LU 81:6.10](/fr/The_Urantia_Book/81#p6_10))
 
-L’esprit est, bien entendu, le grand intégrateur, celui qui relie le niveau matériel au spirituel. Il n'est donc pas surprenant que « _L'acteur conjoint soit... celui qui intègre les causes et effets mathématiques des niveaux matériels avec les intentions et les motivations volitives du niveau spirituel_ » ([LU 115:3.14](/fr/The_Urantia_Book/115#p3_14)).
+L’esprit est, bien entendu, le grand intégrateur, celui qui relie le niveau matériel au spirituel. Il n'est donc pas surprenant que « _L'acteur conjoint soit... celui qui intègre les causes et effets mathématiques des niveaux matériels avec les intentions et les motivations volitives du niveau spirituel_ » (<a id="a94_309"></a>[LU 115:3.14](/fr/The_Urantia_Book/115#p3_14)).
 
 La pire chose qui puisse arriver, et le Livre insiste à maintes reprises sur ce point, est que nous concentrions notre attention exclusivement sur un aspect de la réalité, au détriment d’autres aspects tout aussi importants. C’est ce qui arrive aujourd’hui avec le scientisme et le matérialisme excessifs qui nous entourent.
 
-> « _Il existe toujours un danger, c’est que le savant, traitant de choses purement physiques, puisse être affligé d’orgueil mathématique et d’égotisme statistique, sans mentionner l’aveuglement spirituel._ » ([LU 133:5.4](/fr/The_Urantia_Book/133#p5_4))
+> « _Il existe toujours un danger, c’est que le savant, traitant de choses purement physiques, puisse être affligé d’orgueil mathématique et d’égotisme statistique, sans mentionner l’aveuglement spirituel._ » (<a id="a98_210"></a>[LU 133:5.4](/fr/The_Urantia_Book/133#p5_4))
 
 Il s'agit donc d'intégrer tous les aspects dans une vision d'ensemble : on ne saurait trop insister sur le fait que tous nos dons doivent nous servir à obtenir une vision élargie de la réalité, qui englobe ses trois niveaux (matériel, mental et spirituel) et que les harmonise et les intègre.
 
-Il ne s’agit pas de mélanger arbitrairement la science, la philosophie et la religion, mais de les harmoniser ; ce sont plutôt les êtres humains qui doivent les harmoniser en eux-mêmes. Comme il est dit dans le LU : l'univers ne ressemble pas aux lois et aux mécanismes que découvre le scientifique, mais plutôt au scientifique qui pense, qui utilise ses dons mentaux pour comprendre le fonctionnement du cosmos ([LU 195:7.22](/fr/The_Urantia_Book/195#p7_22)) .
+Il ne s’agit pas de mélanger arbitrairement la science, la philosophie et la religion, mais de les harmoniser ; ce sont plutôt les êtres humains qui doivent les harmoniser en eux-mêmes. Comme il est dit dans le LU : l'univers ne ressemble pas aux lois et aux mécanismes que découvre le scientifique, mais plutôt au scientifique qui pense, qui utilise ses dons mentaux pour comprendre le fonctionnement du cosmos (<a id="a102_413"></a>[LU 195:7.22](/fr/The_Urantia_Book/195#p7_22)) .
 
 ## Finalement...
 
 Le raisonnement abstrait est une qualité typiquement humaine qui nous permet d’enquêter et de comprendre la réalité et nous amène même à ses limites. Les mathématiques, à mon avis, sont un outil de l’esprit qui nous permet d’entrevoir de nombreux indices que la divinité nous a laissés afin que nous puissions deviner sa présence. À la lumière de tout cela, le mécanisme apparaît, une fois de plus, comme une explication absurde et incomplète de la réalité.
 
-> « _Le matérialisme réduit l’homme à l’état d’automate sans âme, et fait simplement de lui un symbole arithmétique placé sans pouvoir dans la formule mathématique d’un univers mécaniste et dépourvu de romanesque. Mais d’où vient donc cet immense univers de mathématiques sans un Maitre Mathématicien ?_ » ([LU 195:6.8](/fr/The_Urantia_Book/195#p6_8))
+> « _Le matérialisme réduit l’homme à l’état d’automate sans âme, et fait simplement de lui un symbole arithmétique placé sans pouvoir dans la formule mathématique d’un univers mécaniste et dépourvu de romanesque. Mais d’où vient donc cet immense univers de mathématiques sans un Maitre Mathématicien ?_ » (<a id="a108_307"></a>[LU 195:6.8](/fr/The_Urantia_Book/195#p6_8))
 
 Au-delà des mathématiques se trouve... le maître mathématicien.
 
@@ -101,6 +122,28 @@ Au-delà des mathématiques se trouve... le maître mathématicien.
 <figcaption><em>«Mathématiques de l'amour»</em>, par José Manuel Merello</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Claude_Romeuf/Dieu_lAbsolu_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu l'Absolu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-6-septembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 6 — septembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notes
 

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Rafael Mondéjar<br>© 2005 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Los_Hijos_De_Dios_Trinidizados">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Fils de Dieu Trinitisés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="pr-2">Les sphères de lumière et de vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -264,9 +288,34 @@ Nous avons une autre référence très intéressante à la résurrection dans le
 
 Il existe des différences d'interprétation concernant le monde de séjour dans lequel nous commençons notre étape morontielle : passons-nous toujours par la première, même pour une courte période de temps, jusqu'à atteindre le monde qui nous correspondrait selon notre état spirituel ? Cela ne semble pas être le cas, du moins pas quand on parle des mortels en général. Dans le document qui traite des mondes de lumière et de vie, il est dit que beaucoup d'êtres humains qui habitent ces mondes ne passent même pas par les mondes de séjour, mais depuis leur planète, ils vont directement à Jérusem.
 
-Dans [LU 47:3.5](/fr/The_Urantia_Book/47#p3_5) il y a des observations très intéressantes sur les dispensations planétaires, et dans [LU 49:5.32](/fr/The_Urantia_Book/49#p5_32) nous avons des références sur les techniques d'évasion terrestres. Une autre question qui a été soulevée était la suivante : si dans le quatrième monde de séjour il faut déjà maîtriser la langue de l'univers local, et en tenant compte du fait qu'il y a des êtres humains qui peuvent aller directement dans ce quatrième monde, comment peuvent-ils apprendre la langue … en si peu de temps, si les révélateurs nous disent aussi que la technique pour apprendre le langage est assez similaire à celle utilisée sur Urantia ? Il est vrai que dans les mondes de lumière et de vie, nous apprenons le langage de l’univers local. Il convient également de souligner le cas des mortels qui fusionnent avec leur Ajusteur déjà dans le monde matériel, ce qui signifie qu'ils se dirigent vers les mondes de séjour les plus avancés ([LU 49:6.19](/fr/The_Urantia_Book/49#p6_19)). Ces mortels ne doivent pas nécessairement provenir d’un monde de lumière et de vie, mais en général, cela se produit dans les mondes les plus spirituellement avancés.
+Dans <a id="a290_5"></a>[LU 47:3.5](/fr/The_Urantia_Book/47#p3_5) il y a des observations très intéressantes sur les dispensations planétaires, et dans <a id="a290_133"></a>[LU 49:5.32](/fr/The_Urantia_Book/49#p5_32) nous avons des références sur les techniques d'évasion terrestres. Une autre question qui a été soulevée était la suivante : si dans le quatrième monde de séjour il faut déjà maîtriser la langue de l'univers local, et en tenant compte du fait qu'il y a des êtres humains qui peuvent aller directement dans ce quatrième monde, comment peuvent-ils apprendre la langue … en si peu de temps, si les révélateurs nous disent aussi que la technique pour apprendre le langage est assez similaire à celle utilisée sur Urantia ? Il est vrai que dans les mondes de lumière et de vie, nous apprenons le langage de l’univers local. Il convient également de souligner le cas des mortels qui fusionnent avec leur Ajusteur déjà dans le monde matériel, ce qui signifie qu'ils se dirigent vers les mondes de séjour les plus avancés (<a id="a290_992"></a>[LU 49:6.19](/fr/The_Urantia_Book/49#p6_19)). Ces mortels ne doivent pas nécessairement provenir d’un monde de lumière et de vie, mais en général, cela se produit dans les mondes les plus spirituellement avancés.
 
 ## Références
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Los_Hijos_De_Dios_Trinidizados">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Fils de Dieu Trinitisés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Victor_Izquierdo/Las_Esferas_De_Luz_Y_Vida">
+          <span class="pr-2">Les sphères de lumière et de vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

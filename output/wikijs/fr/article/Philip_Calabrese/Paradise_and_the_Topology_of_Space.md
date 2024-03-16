@@ -9,9 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Philip G. Calabrese, Ph.D.<br>© 2010 Carmelo Martínez, pour la traduction<br>© 2010 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_22_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 22 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-22-août-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 22 — août 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Agora">
+          <span class="pr-2">Agora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Pour commencer aujourd'hui, certains d'entre vous se souviennent peut-être du dernier symposium scientifique de Nashville au cours duquel j'ai conclu qu'il était impossible que la résurrection à Jérusem ait lieu « le troisième jour après la mort naturelle », car les séraphins gardiens, qui sont ceux qui Ils portent l’âme humaine, ils ne pourront y arriver en moins de vingt ans. _Le Livre d'Urantia_ insiste sur le fait qu'il n'y a aucun moyen pour un séraphin de traverser l'espace à une vitesse supérieure à trois fois la vitesse de la lumière ([LU 23:3.2](/fr/The_Urantia_Book/23#p3_2)). Puisque l’étoile la plus proche est à 4,3 années-lumière d’ici et que Jérusem doit être à plusieurs étoiles, les anges, à leur vitesse, ne peuvent pas être là en quelques jours. La distance entre la Terre et Jérusem ne peut pas être de neuf jours-lumière ; Ce sera à moins de soixante années-lumière.
+
+Pour commencer aujourd'hui, certains d'entre vous se souviennent peut-être du dernier symposium scientifique de Nashville au cours duquel j'ai conclu qu'il était impossible que la résurrection à Jérusem ait lieu « le troisième jour après la mort naturelle », car les séraphins gardiens, qui sont ceux qui Ils portent l’âme humaine, ils ne pourront y arriver en moins de vingt ans. _Le Livre d'Urantia_ insiste sur le fait qu'il n'y a aucun moyen pour un séraphin de traverser l'espace à une vitesse supérieure à trois fois la vitesse de la lumière (<a id="a37_549"></a>[LU 23:3.2](/fr/The_Urantia_Book/23#p3_2)). Puisque l’étoile la plus proche est à 4,3 années-lumière d’ici et que Jérusem doit être à plusieurs étoiles, les anges, à leur vitesse, ne peuvent pas être là en quelques jours. La distance entre la Terre et Jérusem ne peut pas être de neuf jours-lumière ; Ce sera à moins de soixante années-lumière.
 
 En outre, lors du premier symposium scientifique de Nashville, j'ai même suggéré qu'un certain Melchizédek anonyme aurait pu être réprimandé pour avoir utilisé l'expression « le troisième jour de la mort naturelle », que nous pourrions prendre au pied de la lettre. Eh bien, aujourd'hui, je vais abjurer mon apostasie envers _Le Livre d'Urantia_ ; J'ai pensé à un moyen pour que les anges gardiens atteignent Jérusem en moins de trois jours : l'ange ne s'y rend tout simplement pas par ses propres moyens ! Il doit être transféré à Jérusem par une technique non révélée provenant de l'univers ou du Paradis. Une lecture attentive du _Le Livre d'Urantia_ nous révélera que dans tous les cas où est décrit ce voyage des séraphins d'Urantia à Jérusem, l'auteur ne dit jamais que l'ange y arrive par un voyage ou un transport séraphique normal. Au lieu de cela, une expression vague telle que « il se dirige vers Jérusem » est utilisée pour désigner le mode de transport de l'ange. J'espère que cette explication résout l'anomalie et pointe vers un phénomène séraphique non divulgué associé à la mort humaine. Continuons donc avec la partie principale de ma présentation d'aujourd'hui.
 
@@ -33,46 +57,46 @@ Il a été suggéré qu'il pourrait être utile de concevoir le cosmos tout enti
 
 - C'est un ellipsoïde plat qui possède une région haute, une région basse et une région périphérique.
 - C'est la structure organisée la plus gigantesque de tout le cosmos.
-- C'est la demeure de la Trinité existentielle des trois personnes divines et (probablement) le centre focal des trois Absolus non personnels ([UB 0:11.15](/fr/The_Urantia_Book/0#p11_15)).
-- C'est le centre géographique de l'infini ([LU 11:9.2](/fr/The_Urantia_Book/11#p9_2)).
+- C'est la demeure de la Trinité existentielle des trois personnes divines et (probablement) le centre focal des trois Absolus non personnels (<a id="a59_143"></a>[UB 0:11.15](/fr/The_Urantia_Book/0#p11_15)).
+- C'est le centre géographique de l'infini (<a id="a60_44"></a>[LU 11:9.2](/fr/The_Urantia_Book/11#p9_2)).
 - Il n'a ni temps ni espace (sauf volontairement), mais il a des surfaces et des aires absolues, ainsi que des distances et des directions - nord, sud, est, ouest, haut, bas - avec une signification absolue.
-- Elle se présente universellement sous la forme d'une emprise physique, d'une attraction instantanée, d'une gravité paradisiaque ([LU 11:8.9](/fr/The_Urantia_Book/11#p8_9), [LU 10:3.11](/fr/The_Urantia_Book/10#p3_11)).
+- Elle se présente universellement sous la forme d'une emprise physique, d'une attraction instantanée, d'une gravité paradisiaque (<a id="a62_131"></a>[LU 11:8.9](/fr/The_Urantia_Book/11#p8_9), <a id="a62_174"></a>[LU 10:3.11](/fr/The_Urantia_Book/10#p3_11)).
 - C'est le noyau de chaque ultimaton (la plus petite particule matérielle).
 - Il est situé au centre de toutes choses.
-- Il n'a pas de position dans l'espace mais est situé au foyer de l'espace ([LU 105:3.4](/fr/The_Urantia_Book/105#p3_4)).
-- Le Paradis périphérique touche les zones intermédiaires et relativement immobiles de l'espace qui existent entre les zones mobiles de l'espace ([LU 11:7.1](/fr/The_Urantia_Book/11#p7_1)).
+- Il n'a pas de position dans l'espace mais est situé au foyer de l'espace (<a id="a65_76"></a>[LU 105:3.4](/fr/The_Urantia_Book/105#p3_4)).
+- Le Paradis périphérique touche les zones intermédiaires et relativement immobiles de l'espace qui existent entre les zones mobiles de l'espace (<a id="a66_146"></a>[LU 11:7.1](/fr/The_Urantia_Book/11#p7_1)).
 
 À propos de l’absolu non qualifié :
 
 - Imprègne tout l'espace mais ne se limite pas à la présence dans l'espace.
 - Donne naissance à la force primordiale, à l'énergie émergente et à toute matière finie.
-- Révèle tout ce qui a son origine au Paradis ([LU 11:8.9](/fr/The_Urantia_Book/11#p8_9)).
-- Le foyer central de sa présence dans l'espace se situe dans la zone extérieure du Paradis inférieur ([LU 11:5.4](/fr/The_Urantia_Book/11#p5_4)).
+- Révèle tout ce qui a son origine au Paradis (<a id="a72_47"></a>[LU 11:8.9](/fr/The_Urantia_Book/11#p8_9)).
+- Le foyer central de sa présence dans l'espace se situe dans la zone extérieure du Paradis inférieur (<a id="a73_103"></a>[LU 11:5.4](/fr/The_Urantia_Book/11#p5_4)).
 
 À propos de l'espace :
 
-- Il a besoin de sept dimensions, une pour chacun des absolus de l'infini ([LU 130:7.6](/fr/The_Urantia_Book/130#p7_6)).
-- C'est éternel mais pas absolu ; est absolument le dernier ([LU 118:3.5](/fr/The_Urantia_Book/118#p3_5)).
+- Il a besoin de sept dimensions, une pour chacun des absolus de l'infini (<a id="a77_75"></a>[LU 130:7.6](/fr/The_Urantia_Book/130#p7_6)).
+- C'est éternel mais pas absolu ; est absolument le dernier (<a id="a78_61"></a>[LU 118:3.5](/fr/The_Urantia_Book/118#p3_5)).
 - C'est une réalité transcendantale avant tout commencement et après toute fin ; Il ne s’agit pas de la frontière « finale », mais de la frontière « ultime ».
-- Seul l'esprit le transcende partiellement dans l'expérience humaine ([LU 130:7.8](/fr/The_Urantia_Book/130#p7_8)).
-- L'Absolu Non Qualifié l'imprègne ([LU 11:7.4](/fr/The_Urantia_Book/11#p7_4)).
-- L'ensemble de l'espace a une forme géométrique définie ([LU 11:7.5](/fr/The_Urantia_Book/11#p7_5)).
+- Seul l'esprit le transcende partiellement dans l'expérience humaine (<a id="a80_71"></a>[LU 130:7.8](/fr/The_Urantia_Book/130#p7_8)).
+- L'Absolu Non Qualifié l'imprègne (<a id="a81_36"></a>[LU 11:7.4](/fr/The_Urantia_Book/11#p7_4)).
+- L'ensemble de l'espace a une forme géométrique définie (<a id="a82_58"></a>[LU 11:7.5](/fr/The_Urantia_Book/11#p7_5)).
 - Il apparaît apparemment juste en dessous du Paradis inférieur, tandis que le temps prend naissance juste au-dessus du Paradis supérieur.
-- Toute matière contient de l'espace et se déplace dans l'espace, mais tout l'espace n'est pas dans la matière ([LU 118:3.6](/fr/The_Urantia_Book/118#p3_6)).
+- Toute matière contient de l'espace et se déplace dans l'espace, mais tout l'espace n'est pas dans la matière (<a id="a84_112"></a>[LU 118:3.6](/fr/The_Urantia_Book/118#p3_6)).
 - Les zones d'espace intermédiaire encapsulent tout l'espace imprégné et les réservoirs spatiaux, ainsi que l'infinité potentielle de tout l'espace extra-atmosphérique.
 
 Sur la matière et le mouvement ultimes :
 
-- Les ultimatons sont de minuscules sphères - des particules, pas des ondes ([LU 42:5.14](/fr/The_Urantia_Book/42#p5_14)).
-- 100 ultimatons forment un électron typique mais ne tournent pas à l'intérieur de l'électron comme les électrons tournent autour du noyau atomique ou des planètes autour du Soleil ([LU 42:6.5](/fr/The_Urantia_Book/42#p6_5)).
+- Les ultimatons sont de minuscules sphères - des particules, pas des ondes (<a id="a89_77"></a>[LU 42:5.14](/fr/The_Urantia_Book/42#p5_14)).
+- 100 ultimatons forment un électron typique mais ne tournent pas à l'intérieur de l'électron comme les électrons tournent autour du noyau atomique ou des planètes autour du Soleil (<a id="a90_182"></a>[LU 42:6.5](/fr/The_Urantia_Book/42#p6_5)).
 - Les ultimatons ont des rotations axiales autour de leur noyau paradisiaque.
-- Les ultimatons peuvent se « blottir » à l'intérieur de l'électron ([LU 42:7.10](/fr/The_Urantia_Book/42#p7_10)).
-- Lorsqu'une particule se déplace dans l'espace elle emporte avec elle son espace intérieur ([LU 118:3.6](/fr/The_Urantia_Book/118#p3_6)).
-- Les ultimatons et les électrons changent de position et émettent de la masse selon la formule $m=E / c^{2}$ ([LU 42:4.14](/fr/The_Urantia_Book/42#p4_14)).
-- Il existe un plan perpendiculaire à toute masse donnée ([LU 11:8.9](/fr/The_Urantia_Book/11#p8_9)).
-- La lumière du soleil est composée d'électrons très chauffés et agités ([LU 41:5.5](/fr/The_Urantia_Book/41#p5_5)).
+- Les ultimatons peuvent se « blottir » à l'intérieur de l'électron (<a id="a92_69"></a>[LU 42:7.10](/fr/The_Urantia_Book/42#p7_10)).
+- Lorsqu'une particule se déplace dans l'espace elle emporte avec elle son espace intérieur (<a id="a93_93"></a>[LU 118:3.6](/fr/The_Urantia_Book/118#p3_6)).
+- Les ultimatons et les électrons changent de position et émettent de la masse selon la formule $m=E / c^{2}$ (<a id="a94_111"></a>[LU 42:4.14](/fr/The_Urantia_Book/42#p4_14)).
+- Il existe un plan perpendiculaire à toute masse donnée (<a id="a95_58"></a>[LU 11:8.9](/fr/The_Urantia_Book/11#p8_9)).
+- La lumière du soleil est composée d'électrons très chauffés et agités (<a id="a96_73"></a>[LU 41:5.5](/fr/The_Urantia_Book/41#p5_5)).
 
-La longueur d'onde associée à l'émission d'une particule est 860 fois le diamètre de la particule émise ([LU 42:4.14](/fr/The_Urantia_Book/42#p4_14), [LU 42:5.15](/fr/The_Urantia_Book/42#p5_15)).
+La longueur d'onde associée à l'émission d'une particule est 860 fois le diamètre de la particule émise (<a id="a98_105"></a>[LU 42:4.14](/fr/The_Urantia_Book/42#p4_14), <a id="a98_150"></a>[LU 42:5.15](/fr/The_Urantia_Book/42#p5_15)).
 
 Une série de questions se posent désormais :
 
@@ -126,7 +150,7 @@ Un ultimaton peut tomber à un état d'énergie de rotation inférieur en émett
 <img src="/image/article/Luz_y_Vida/LyV22/04.jpg">
 </figure>
 
-La génération des charges électroniques dites positives et négatives pourrait être expliquée en termes de spin des 100 ultimatons intraélectroniques. Par exemple, deux électrons dont la plupart des 100 couches ultimatoniques tournent dans la même direction pourraient se repousser. D’un autre côté, deux électrons (dont un positon) contenant des sens de révolution opposés pourraient s’attirer, annulant une partie de leurs masses en rotation, émettant ainsi une certaine énergie. La construction des électrons, des protons et des atomes à partir de l'ultimaton est l'œuvre des centres de pouvoir ([LU 42:4.3](/fr/The_Urantia_Book/42#p4_3)).
+La génération des charges électroniques dites positives et négatives pourrait être expliquée en termes de spin des 100 ultimatons intraélectroniques. Par exemple, deux électrons dont la plupart des 100 couches ultimatoniques tournent dans la même direction pourraient se repousser. D’un autre côté, deux électrons (dont un positon) contenant des sens de révolution opposés pourraient s’attirer, annulant une partie de leurs masses en rotation, émettant ainsi une certaine énergie. La construction des électrons, des protons et des atomes à partir de l'ultimaton est l'œuvre des centres de pouvoir (<a id="a152_598"></a>[LU 42:4.3](/fr/The_Urantia_Book/42#p4_3)).
 
 Bien que ces explications soient encore qualitatives, il me semble que la plupart des phénomènes étranges de la mécanique quantique aujourd’hui sont potentiellement explicables en termes de ce modèle de matière subélectronique sous la forme de coquilles d’espace sphériques et rotatives. Je viens juste de mettre en pratique certaines des implications quantitatives de cette théorie, et les résultats préliminaires sont très encourageants, mais le manque de temps ne me permet pas aujourd'hui d'aller très loin dans cette voie. Dans un avenir proche, je prévois de soumettre pour publication des travaux plus techniques concernant ces aspects quantitatifs de la théorie. Ce travail redéfinira le concept de masse en tant qu'espace en rotation et envisagera la conservation des énergies potentielle et cinétique ainsi que du moment cinétique d'un ultimaton ; J'essaierai de résoudre le problème des transformations masse-énergie et de la génération d'ondes.
 
@@ -138,3 +162,28 @@ Un dernier commentaire : la théorie de la relativité d'Albert Einstein prédis
 
 - Article original : https://archive.urantiabook.org/archive/science/calass2.htm
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_22_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 22 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-22-août-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 22 — août 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Agora">
+          <span class="pr-2">Agora</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

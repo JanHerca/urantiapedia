@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Rafael Mondéjar, Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez, Antonio Moya<br>© 2013 Association Urantia d'Espagne<br>© 2013 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Israel_Dix/Urantia_606_of_Satania_Luz_y_Vida_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, la 606ème de Satania : Concernant les mondes habités du système Satania. (Partie 1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-34-septembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 34 — septembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Breve_descripcion_del_Hijo_Creador">
+          <span class="pr-2">Une brève description du Fils Créateur, Jésus de Nazareth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Rafael
@@ -17,9 +41,9 @@ Chers amis : Lors de la réunion Urantia que nous tenons mensuellement à Madrid
 
 Après avoir exprimé ces déclarations contradictoires, nous avons voulu nous assurer quelle était la situation actuelle de Caligastia. Et, parmi d’autres paragraphes moins catégoriques, nous trouvons ce qui suit concernant son état actuel d’autorité :
 
-> **Le Prince d’Urantia** sombra dans les ténèbres au moment de la rébellion de Lucifer, précipitant ainsi la planète dans un long désordre. Il **fut ensuite privé de l’autorité souveraine** par l’action coordonnée des chefs de la constellation et d’autres autorités de l’univers. Il partagea les inévitables vicissitudes de l’isolement d’Urantia jusqu’à l’époque du séjour d’Adam sur la planète et contribua à faire échouer le plan de relèvement des races humaines par l’infusion du sang vital de la nouvelle race violette — les descendants d’Adam et d’Ève. ([LU 66:8.4](/fr/The_Urantia_Book/66#p8_4))
+> **Le Prince d’Urantia** sombra dans les ténèbres au moment de la rébellion de Lucifer, précipitant ainsi la planète dans un long désordre. Il **fut ensuite privé de l’autorité souveraine** par l’action coordonnée des chefs de la constellation et d’autres autorités de l’univers. Il partagea les inévitables vicissitudes de l’isolement d’Urantia jusqu’à l’époque du séjour d’Adam sur la planète et contribua à faire échouer le plan de relèvement des races humaines par l’infusion du sang vital de la nouvelle race violette — les descendants d’Adam et d’Ève. (<a id="a43_560"></a>[LU 66:8.4](/fr/The_Urantia_Book/66#p8_4))
 
-> Le pouvoir qu’avait le prince déchu de troubler les affaires humaines fut considérablement restreint par l’influence de Machiventa Melchizédek, qui s’incarna à l’époque d’Abraham. Par la suite, au cours de l’incarnation de Micaël, **ce prince traitre fut finalement dépouillé de toute autorité sur Urantia**. ([LU 66:8.5](/fr/The_Urantia_Book/66#p8_5))
+> Le pouvoir qu’avait le prince déchu de troubler les affaires humaines fut considérablement restreint par l’influence de Machiventa Melchizédek, qui s’incarna à l’époque d’Abraham. Par la suite, au cours de l’incarnation de Micaël, **ce prince traitre fut finalement dépouillé de toute autorité sur Urantia**. (<a id="a45_312"></a>[LU 66:8.5](/fr/The_Urantia_Book/66#p8_5))
 
 Dans les deux paragraphes précédents et peut-être dans d’autres que je n’ai pas rapportés ici, il semble être clair que Caligastia est complètement privée ou dépouillé de toute autorité. Mais ce n’était pas la question dont nous débattions, mais plutôt celle de savoir s’il était libre ou détenu.
 
@@ -29,11 +53,11 @@ Dans les deux paragraphes précédents et peut-être dans d’autres que je n’
 
 Et à cet égard, nous avons trouvé les trois paragraphes qui suivent, dans lesquels des choses contraires semblent être affirmées. Ce sont:
 
-> Le dernier acte de Micaël avant de quitter Urantia fut d’offrir son pardon à Caligastia et Daligastia, mais ils dédaignèrent cette affectueuse proposition. Caligastia, **votre Prince Planétaire apostat, est encore libre de poursuivre ses desseins néfastes sur Urantia**, mais n’a absolument pas le pouvoir de pénétrer dans le mental des hommes ni d’aborder leur âme pour les tenter ou les corrompre, à moins que les hommes ne désirent réellement être maudits par sa présence perverse. ([LU 53:8.6](/fr/The_Urantia_Book/53#p8_6))
+> Le dernier acte de Micaël avant de quitter Urantia fut d’offrir son pardon à Caligastia et Daligastia, mais ils dédaignèrent cette affectueuse proposition. Caligastia, **votre Prince Planétaire apostat, est encore libre de poursuivre ses desseins néfastes sur Urantia**, mais n’a absolument pas le pouvoir de pénétrer dans le mental des hommes ni d’aborder leur âme pour les tenter ou les corrompre, à moins que les hommes ne désirent réellement être maudits par sa présence perverse. (<a id="a55_488"></a>[LU 53:8.6](/fr/The_Urantia_Book/53#p8_6))
 
-> Sur Jérusem, la rébellion a pris fin. Elle se termine sur les mondes déchus aussi vite que les Fils divins y arrivent. Nous croyons que tous les rebelles en mesure d’accepter la miséricorde l’ont déjà fait. Nous attendons le message-éclair télédiffusé qui privera ces traitres de l’existence de personnalité. Nous prévoyons que le verdict d’Uversa sera annoncé par l’ordre d’exécution télédiffusé qui annihilera ces **rebelles internés**. Alors, vous chercherez leur place, mais ne la trouverez pas. « Et ceux qui t’ont connu parmi les mondes seront étonnés de toi ; tu as été une terreur, mais tu n’existeras plus. » C’est ainsi que tous ces traitres indignes « deviendront comme s’ils n’avaient jamais été ». Tout le monde attend le décret d’Uversa. ([LU 53:9.7](/fr/The_Urantia_Book/53#p9_7))
+> Sur Jérusem, la rébellion a pris fin. Elle se termine sur les mondes déchus aussi vite que les Fils divins y arrivent. Nous croyons que tous les rebelles en mesure d’accepter la miséricorde l’ont déjà fait. Nous attendons le message-éclair télédiffusé qui privera ces traitres de l’existence de personnalité. Nous prévoyons que le verdict d’Uversa sera annoncé par l’ordre d’exécution télédiffusé qui annihilera ces **rebelles internés**. Alors, vous chercherez leur place, mais ne la trouverez pas. « Et ceux qui t’ont connu parmi les mondes seront étonnés de toi ; tu as été une terreur, mais tu n’existeras plus. » C’est ainsi que tous ces traitres indignes « deviendront comme s’ils n’avaient jamais été ». Tout le monde attend le décret d’Uversa. (<a id="a57_755"></a>[LU 53:9.7](/fr/The_Urantia_Book/53#p9_7))
 
-> Un autre problème quelque peu difficile à expliquer dans la constellation de Norlatiadek concerne les raisons pour lesquelles il a été permis à Lucifer, à Satan et aux princes déchus de semer si longtemps la discorde avant d’être appréhendés, internés et jugés. ([LU 54:4.1](/fr/The_Urantia_Book/54#p4_1))
+> Un autre problème quelque peu difficile à expliquer dans la constellation de Norlatiadek concerne les raisons pour lesquelles il a été permis à Lucifer, à Satan et aux princes déchus de semer si longtemps la discorde avant d’être appréhendés, internés et jugés. (<a id="a59_265"></a>[LU 54:4.1](/fr/The_Urantia_Book/54#p4_1))
 
 Le premier de ces trois paragraphes semble indiquer qu'il est **libre**. Peut-être ne le dit-il pas de manière définitive car il ajoute « *libre de poursuivre ses intentions néfastes* », bien qu'il continue en disant qu'il n'a aucun pouvoir de pénétration...
 
@@ -47,19 +71,19 @@ Eh bien, comme je l’ai dit, après avoir examiné en détail, nous n’avons p
 
 Je crois (j'ai toujours cru) que Caligastia est toujours libre ici, parcourant ce monde. Mais sans aucun pouvoir pour nous ennuyer.
 
-> _Caligastia, votre Prince Planétaire apostat, **est encore libre** de poursuivre ses desseins néfastes sur Urantia,_ ([LU 53:8.6](/fr/The_Urantia_Book/53#p8_6))
+> _Caligastia, votre Prince Planétaire apostat, **est encore libre** de poursuivre ses desseins néfastes sur Urantia,_ (<a id="a73_120"></a>[LU 53:8.6](/fr/The_Urantia_Book/53#p8_6))
 
 Ce paragraphe n'indique PAS qu'il a été arrêté, comme le fait, par exemple, cet autre paragraphe lié à Satan :
 
-> _Satan est maintenant **détenu** inconditionnellement sur les mondes-prisons de Jérusem._ ([LU 53:9.4](/fr/The_Urantia_Book/53#p9_4))
+> _Satan est maintenant **détenu** inconditionnellement sur les mondes-prisons de Jérusem._ (<a id="a77_93"></a>[LU 53:9.4](/fr/The_Urantia_Book/53#p9_4))
 
 Donc, si je comprends bien, Caligastia est toujours libre ici sur Terre, mais...
 
-> _Caligastia est resté relativement **impuissant** depuis la croix du Christ._ ([LU 53:8.9](/fr/The_Urantia_Book/53#p8_9))
+> _Caligastia est resté relativement **impuissant** depuis la croix du Christ._ (<a id="a81_81"></a>[LU 53:8.9](/fr/The_Urantia_Book/53#p8_9))
 
 Et qu’il soit encore libre ici est indirectement démontré par cet autre paragraphe :
 
-> _...mais n’a absolument pas le pouvoir de pénétrer dans le mental des hommes ni d’aborder leur âme pour les tenter ou les corrompre, **à moins que les hommes ne désirent réellement être maudits par sa présence perverse**._ ([LU 53:8.6](/fr/The_Urantia_Book/53#p8_6))
+> _...mais n’a absolument pas le pouvoir de pénétrer dans le mental des hommes ni d’aborder leur âme pour les tenter ou les corrompre, **à moins que les hommes ne désirent réellement être maudits par sa présence perverse**._ (<a id="a85_226"></a>[LU 53:8.6](/fr/The_Urantia_Book/53#p8_6))
 
 « Soyez maudit » en ce moment même. Sa « présence maléfique » est sans aucun doute là-bas (ou ici).
 
@@ -83,7 +107,7 @@ Pour moi, ce que je crois, c'est qu'il est libre et avec de mauvaises intentions
 
 ## Carmelo
 
-Je suis d'accord avec Antonio sur le fait que [LU 53:8](/fr/The_Urantia_Book/53#p8) et [LU 53:9](/fr/The_Urantia_Book/53#p9) sont essentiels pour comprendre l'état actuel et l'emplacement des rebelles. Je crois que Caligastia est toujours sur Urantia aujourd'hui, comme indiqué dans [LU 53:8.6](/fr/The_Urantia_Book/53#p8_6). Si vous me le permettez, je copie ci-dessous ma propre traduction de la phrase dans laquelle il le dit : « Caligastia, votre Prince Planétaire apostat, reste libre sur Urantia pour réaliser ses desseins infâmes. »
+Je suis d'accord avec Antonio sur le fait que <a id="a109_46"></a>[LU 53:8](/fr/The_Urantia_Book/53#p8) et <a id="a109_87"></a>[LU 53:9](/fr/The_Urantia_Book/53#p9) sont essentiels pour comprendre l'état actuel et l'emplacement des rebelles. Je crois que Caligastia est toujours sur Urantia aujourd'hui, comme indiqué dans <a id="a109_283"></a>[LU 53:8.6](/fr/The_Urantia_Book/53#p8_6). Si vous me le permettez, je copie ci-dessous ma propre traduction de la phrase dans laquelle il le dit : « Caligastia, votre Prince Planétaire apostat, reste libre sur Urantia pour réaliser ses desseins infâmes. »
 
 Les autres rebelles seraient explicitement détenus sur les mondes carcéraux, ce qui suggère que Caligastia ne l'est pas.
 
@@ -99,7 +123,7 @@ Je ne sais pas si cet état a quelque chose à voir avec le fait qu'« ils ne pe
 
 ## Rafael
 
-Je vous remercie de vos conclusions sur la question que je vous ai posée. D'après eux, je vois que vous pensez que Caligastia est gratuit, comme indiqué dans [LU 53:8.6](/fr/The_Urantia_Book/53#p8_6)
+Je vous remercie de vos conclusions sur la question que je vous ai posée. D'après eux, je vois que vous pensez que Caligastia est gratuit, comme indiqué dans <a id="a125_158"></a>[LU 53:8.6](/fr/The_Urantia_Book/53#p8_6)
 
 Concernant ce que dit Antonio dans son premier message sur cette question, il est clair qu'il n'y a aucun paragraphe (du moins je ne l'ai pas trouvé et il semble que vous non plus) dans lequel il est expressément dit que Caligastia est détenu, comme indiqué. indique concernant Satan et Lucifer.
 
@@ -111,41 +135,41 @@ C'est ce que j'ai cru comprendre de vos contributions. Mais après eux, et aprè
 
 Si l'on examine en détail à la fin (16 pas moins), on constate que les mots « détenu », « confiné », « interné » et « emprisonné » sont utilisés de manière interchangeable pour désigner la même situation (voir tous les paragraphes). À proprement parler, dans la langue espagnole, chacun de ces mots a une signification différente. Cependant, comme je l’ai dit, dans le livre, ils ont généralement été utilisés dans le même sens, comme on peut le voir, de manière résumée, ci-dessous :
 
-([LU 53:9.4](/fr/The_Urantia_Book/53#p9_4)) Satan est détenu dans les mondes carcéraux
+(<a id="a137_1"></a>[LU 53:9.4](/fr/The_Urantia_Book/53#p9_4)) Satan est détenu dans les mondes carcéraux
 
-([LU 45:1.11](/fr/The_Urantia_Book/45#p1_11)) Satan et Lucifer sont confinés dans le monde carcéral
+(<a id="a139_1"></a>[LU 45:1.11](/fr/The_Urantia_Book/45#p1_11)) Satan et Lucifer sont confinés dans le monde carcéral
 
-([LU 53:9.2](/fr/The_Urantia_Book/53#p9_2)) Lucifer a été arrêté et est emprisonné dans le satellite numéro un des sphères...
+(<a id="a141_1"></a>[LU 53:9.2](/fr/The_Urantia_Book/53#p9_2)) Lucifer a été arrêté et est emprisonné dans le satellite numéro un des sphères...
 
-([LU 45:1.10](/fr/The_Urantia_Book/45#p1_10)) Séraphins et Chérubins sont confinés dans des mondes d'isolement...
+(<a id="a143_1"></a>[LU 45:1.10](/fr/The_Urantia_Book/45#p1_10)) Séraphins et Chérubins sont confinés dans des mondes d'isolement...
 
-([LU 45:1.11](/fr/The_Urantia_Book/45#p1_11)) Lucifer et la plupart des personnalités... sont confinés dans les mondes carcéraux de...
+(<a id="a145_1"></a>[LU 45:1.11](/fr/The_Urantia_Book/45#p1_11)) Lucifer et la plupart des personnalités... sont confinés dans les mondes carcéraux de...
 
-([LU 51:3.7](/fr/The_Urantia_Book/51#p3_7)) Les créatures intermédiaires initiales sont internées, il n'est pas indiqué où
+(<a id="a147_1"></a>[LU 51:3.7](/fr/The_Urantia_Book/51#p3_7)) Les créatures intermédiaires initiales sont internées, il n'est pas indiqué où
 
 Les membres du groupe Adamic sont hospitalisés, il n'est pas indiqué où
 
-([LU 53:9.3](/fr/The_Urantia_Book/53#p9_3)) Miguel a demandé que toutes les personnalités impliquées dans la rébellion soient internées
+(<a id="a151_1"></a>[LU 53:9.3](/fr/The_Urantia_Book/53#p9_3)) Miguel a demandé que toutes les personnalités impliquées dans la rébellion soient internées
 
-([LU 53:9.5](/fr/The_Urantia_Book/53#p9_5)) Rebelles internés dans des mondes carcéraux
+(<a id="a153_1"></a>[LU 53:9.5](/fr/The_Urantia_Book/53#p9_5)) Rebelles internés dans des mondes carcéraux
 
-([LU 53:9.7](/fr/The_Urantia_Book/53#p9_7)) Rebelles, internés
+(<a id="a155_1"></a>[LU 53:9.7](/fr/The_Urantia_Book/53#p9_7)) Rebelles, internés
 
-([LU 54:4.1](/fr/The_Urantia_Book/54#p4_1)) Lucifer, Satan et les princes déchus ont été arrêtés et internés
+(<a id="a157_1"></a>[LU 54:4.1](/fr/The_Urantia_Book/54#p4_1)) Lucifer, Satan et les princes déchus ont été arrêtés et internés
 
-([LU 54:6.7](/fr/The_Urantia_Book/54#p6_7)) Les rebelles de Satania ont été internés
+(<a id="a159_1"></a>[LU 54:6.7](/fr/The_Urantia_Book/54#p6_7)) Les rebelles de Satania ont été internés
 
-([LU 77:7.2](/fr/The_Urantia_Book/77#p7_2)) Intermédiaires secondaires, hospitalisés
+(<a id="a161_1"></a>[LU 77:7.2](/fr/The_Urantia_Book/77#p7_2)) Intermédiaires secondaires, hospitalisés
 
-([LU 77:7.3](/fr/The_Urantia_Book/77#p7_3)) Les deux groupes de rebelles intermédiaires sont arrêtés
+(<a id="a163_1"></a>[LU 77:7.3](/fr/The_Urantia_Book/77#p7_3)) Les deux groupes de rebelles intermédiaires sont arrêtés
 
-([LU 77:7.8](/fr/The_Urantia_Book/77#p7_8)) Groupe entier de médians rebelles, emprisonné
+(<a id="a165_1"></a>[LU 77:7.8](/fr/The_Urantia_Book/77#p7_8)) Groupe entier de médians rebelles, emprisonné
 
-([LU 113:6.10](/fr/The_Urantia_Book/113#p6_10)) Tuteurs personnels et collectifs, détenus
+(<a id="a167_1"></a>[LU 113:6.10](/fr/The_Urantia_Book/113#p6_10)) Tuteurs personnels et collectifs, détenus
 
 C’est-à-dire que selon le Livre d’Urantia ou la traduction espagnole dont nous disposons, dire qu’ils ont été détenus ou internés ou confinés ou emprisonnés revient à dire la même chose, à savoir qu’ils sont privés de leur liberté. Et si vous concluez que Caligastia est confiné à Urantia, vous utilisez en réalité le même mot qui est utilisé dans le livre pour définir la situation des autres rebelles, qui, comme nous l'avons dit, sont privés de liberté.
 
-Cependant, votre première conclusion, sur laquelle vous êtes tous d'accord, est que Caligastia est libre sur Urantia, sous la protection de ce qui est dit dans [LU 53:8.6](/fr/The_Urantia_Book/53#p8_6) ***«_Caligastia***, votre Prince Planétaire apostat, ***reste libre*** de poursuivre ses intentions néfastes sur Urantia, mais il n'a absolument aucun pouvoir pour pénétrer l'esprit des hommes et il ne peut pas non plus s'approcher de leurs âmes pour les tenter ou les corrompre, à moins que les hommes ne veuillent vraiment être maudits par sa présence maléfique.
+Cependant, votre première conclusion, sur laquelle vous êtes tous d'accord, est que Caligastia est libre sur Urantia, sous la protection de ce qui est dit dans <a id="a171_160"></a>[LU 53:8.6](/fr/The_Urantia_Book/53#p8_6) ***«_Caligastia***, votre Prince Planétaire apostat, ***reste libre*** de poursuivre ses intentions néfastes sur Urantia, mais il n'a absolument aucun pouvoir pour pénétrer l'esprit des hommes et il ne peut pas non plus s'approcher de leurs âmes pour les tenter ou les corrompre, à moins que les hommes ne veuillent vraiment être maudits par sa présence maléfique.
 
 Les deux conclusions vous semblent-elles correctes, même si elles semblent se contredire ? Comment les rendre compatibles ? Est-il exact de dire que Caligastia est détenu ou confiné et qu'il est également libre ?
 
@@ -173,3 +197,28 @@ Je suis d'accord avec votre raisonnement Rafa, en fait l'une des choses que je m
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Israel_Dix/Urantia_606_of_Satania_Luz_y_Vida_1a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Urantia, la 606ème de Satania : Concernant les mondes habités du système Satania. (Partie 1)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-34-septembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 34 — septembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Breve_descripcion_del_Hijo_Creador">
+          <span class="pr-2">Une brève description du Fils Créateur, Jésus de Nazareth</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

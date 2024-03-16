@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="pr-2">Éditorial Luz y Vida – Mars 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -49,9 +70,9 @@ Chers lecteurs, si tels sont aussi vos objectifs, nous vous encourageons à pour
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Editorial-03-23-2.jpg" alt="Editorial marzo 2023-2">
 </figure>
 
-> ...Jésus, entendant le tumulte, sortit et leur fit des reproches indignés en disant : « Laissez venir à moi les petits enfants ; ne le leur interdisez pas, car le royaume des cieux est composé de leurs pareils. En vérité, en vérité, je vous le dis, quiconque ne reçoit pas le royaume de Dieu comme un petit enfant ne pourra y entrer pour y atteindre la pleine stature de son humanité spirituelle. » ([LU 167:6.1](/fr/The_Urantia_Book/167#p6_1))
+> ...Jésus, entendant le tumulte, sortit et leur fit des reproches indignés en disant : « Laissez venir à moi les petits enfants ; ne le leur interdisez pas, car le royaume des cieux est composé de leurs pareils. En vérité, en vérité, je vous le dis, quiconque ne reçoit pas le royaume de Dieu comme un petit enfant ne pourra y entrer pour y atteindre la pleine stature de son humanité spirituelle. » (<a id="a72_402"></a>[LU 167:6.1](/fr/The_Urantia_Book/167#p6_1))
 
-> Les choses sacrées paraissent souvent banales ; ainsi, en ce jour, ces enfants et leurs mères ne se rendaient pas compte que les intelligences de Nébadon observaient les enfants de Jéricho jouant avec le Créateur d’un univers. ([LU 167:6.3](/fr/The_Urantia_Book/167#p6_3))
+> Les choses sacrées paraissent souvent banales ; ainsi, en ce jour, ces enfants et leurs mères ne se rendaient pas compte que les intelligences de Nébadon observaient les enfants de Jéricho jouant avec le Créateur d’un univers. (<a id="a74_230"></a>[LU 167:6.3](/fr/The_Urantia_Book/167#p6_3))
 
 Les garçons et les filles manquaient de toute forme de considération sociale à l’époque où vivait Jésus de Nazareth. Il n’est donc pas surprenant que les disciples les aient réprimandés lorsqu’ils faisaient du bruit à proximité du professeur. Mais à la surprise générale, Jésus les élève et précise que la petitesse, la simplicité, est le critère définitif du Royaume.
 
@@ -174,14 +195,14 @@ Francisco Segura Berenguel
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/El-mundo-de-la-cruz.jpg" alt="Mi párrafo favorito - mar 2023">
 </figure>
 
-> La croix est le grand symbole du service sacré, la consécration de votre vie au bienêtre et au salut de vos semblables. La croix n’est pas le symbole du sacrifice de l’innocent Fils de Dieu se substituant aux pécheurs coupables en vue d’apaiser le courroux d’un Dieu offensé. Elle se dresse pour toujours, sur terre et dans tout un vaste univers, comme un symbole sacré des bons s’effusant sur les méchants, et les sauvant ainsi par la dévotion même de leur amour. La croix se dresse véritablement comme le signe de la plus haute forme de service désintéressé, du dévouement suprême consistant à effuser pleinement une vie de droiture au service d’un ministère accompli de tout cœur, même dans la mort, la mort sur la croix. La seule vue de ce grand symbole de la vie d’effusion de Jésus inspire véritablement à chacun de nous le désir d’en faire autant. ([LU 188:5.9](/fr/The_Urantia_Book/188#p5_9))
+> La croix est le grand symbole du service sacré, la consécration de votre vie au bienêtre et au salut de vos semblables. La croix n’est pas le symbole du sacrifice de l’innocent Fils de Dieu se substituant aux pécheurs coupables en vue d’apaiser le courroux d’un Dieu offensé. Elle se dresse pour toujours, sur terre et dans tout un vaste univers, comme un symbole sacré des bons s’effusant sur les méchants, et les sauvant ainsi par la dévotion même de leur amour. La croix se dresse véritablement comme le signe de la plus haute forme de service désintéressé, du dévouement suprême consistant à effuser pleinement une vie de droiture au service d’un ministère accompli de tout cœur, même dans la mort, la mort sur la croix. La seule vue de ce grand symbole de la vie d’effusion de Jésus inspire véritablement à chacun de nous le désir d’en faire autant. (<a id="a197_858"></a>[LU 188:5.9](/fr/The_Urantia_Book/188#p5_9))
 
 Cette partie du doc.188:4 et la section 5 m'ont aidé à mieux comprendre la signification du symbole de la croix d'un autre point de vue, plus réel. Autrefois, alors que j'appartenais à une église évangélique, je trouvais grotesque de simplement observer Jésus de Nazareth pendu sur la croix, en me souvenant des souffrances infligées par ses agresseurs et de la douceur de son attitude à leur égard.
 
 Durant mon adhésion, on m'a appris que ce signe revenait à voir quelqu'un qui, dans des circonstances différentes lors de sa mort, avait l'arme du crime utilisée comme image et signe sur son propre corps. J'ai donc compris que je devais me débarrasser des croix que j'avais en ma possession, certaines étant des cadeaux de mes parents et d'autres acquises par moi. Et c’est ce que j’ai fait lorsque je l’ai vu et compris à ces moments-là d’une manière très primitive et même barbare :
 
 
-> Assurez-vous donc qu’en regardant la croix comme une révélation de Dieu, vous ne regardez ni avec les yeux des hommes primitifs, ni du point de vue des barbares qui les suivirent, ... ([LU 188:5.11](/fr/The_Urantia_Book/188#p5_11))
+> Assurez-vous donc qu’en regardant la croix comme une révélation de Dieu, vous ne regardez ni avec les yeux des hommes primitifs, ni du point de vue des barbares qui les suivirent, ... (<a id="a204_187"></a>[LU 188:5.11](/fr/The_Urantia_Book/188#p5_11))
 
 Depuis qu'il est tombé entre mes mains, le Livre d'Urantia, il a transformé ma vie et changé la perspective que j'avais auparavant sur la vie, le message original de Jésus de Nazareth et, par-dessus tout, le signe et la signification de la croix.
 
@@ -192,7 +213,7 @@ Je n’ai pas l’intention de modifier ou de changer, chez aucun d’entre vous
 Toujours dans ces mêmes documents, depuis que j'ai lu cette section, j'ai beaucoup en tête cet autre paragraphe de mon quotidien que je partage avec vous et je suis sûr que vous vous en êtes souvenu à l'occasion :
 
 
-> Jésus aime tellement les hommes que son amour éveille une réponse d’amour dans le cœur humain. L’amour est vraiment contagieux et éternellement créatif. ([LU 188:5.2](/fr/The_Urantia_Book/188#p5_2))
+> Jésus aime tellement les hommes que son amour éveille une réponse d’amour dans le cœur humain. L’amour est vraiment contagieux et éternellement créatif. (<a id="a215_156"></a>[LU 188:5.2](/fr/The_Urantia_Book/188#p5_2))
 
 Personnellement, je ne comprendrais pas le monde sans l'amour auquel le _Livre d'Urantia_ fait référence. Cet amour qui nous fait vivre pour et pour quelqu'un, nos enfants, nos frères, nos parents, notre famille et nos amis. Vivez et montrez au reste de nos proches la façon dont nous portons et montrons que nous sommes tous enfants du même Père et donc de la fraternité fraternelle et spirituelle que le Maître nous a enseignée.
 
@@ -293,3 +314,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-marzo-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mars-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mars 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_03">
+          <span class="pr-2">Éditorial Luz y Vida – Mars 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

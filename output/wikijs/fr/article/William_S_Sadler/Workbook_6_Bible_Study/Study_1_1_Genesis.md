@@ -117,7 +117,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 3. Caïn-un fugitif-est devenu un vagabond-début du nomadisme. (Il y a deux enregistrements de Caïn, sans parler de l'obtention d'une femme.)
 4. Dans [9:20](/fr/Bible/Genesis/9#v20) il est dit que Noé a été le premier cultivateur du sol. (Il y a aussi deux récits de Noé.)
 5. Les documents J sont les traditions des Israélites du sud, dont le quartier général est à Hébron. Ce sont les tribus Kadesh ou Mt. Horeb qui ont pénétré Canaan par le sud. (Hébron était l'une des villes de Caleb et était également connue sous le nom de Kirjath-arba.)
-6. Parle des «puissants» et des «Nephilim». Pour plus de lumière sur Nephilim, voir le Livre d'Urantia <a id="s120_103"></a>[LU 77:2.3](/fr/The_Urantia_Book/77#p2_3)
+6. Parle des «puissants» et des «Nephilim». Pour plus de lumière sur Nephilim, voir le Livre d'Urantia <a id="s119_103"></a>[LU 77:2.3](/fr/The_Urantia_Book/77#p2_3)
 7. Dans J1, Abraham est associé à Hébron.
 8. La chanson Deborah - le premier document de l'Ancien Testament - est une contribution J1.
 9. Cet auteur traite de Sodome et de Lot - et des filles de Lot qui se conduisent mal (origine des Moabites et des Ammonites).
@@ -242,14 +242,14 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. **Création**. «Au commencement, Dieu créa les cieux et la terre.» [1:1](/fr/Bible/Genesis/1#v1).
 2. **Image de Dieu**. «Alors Dieu dit : 'Faisons l'homme à notre image.'» [1:26](/fr/Bible/Genesis/1#v26).
-3. **Voix dans le jardin**. « Le Seigneur Dieu appela l'homme et lui dit : 'Où es-tu ?' » [3:9](/fr/Bible/Genesis/3#v9). (Voir le Livre d'Urantia <a id="s245_146"></a>[LU 75:4.8](/fr/The_Urantia_Book/75#p4_8).)
+3. **Voix dans le jardin**. « Le Seigneur Dieu appela l'homme et lui dit : 'Où es-tu ?' » [3:9](/fr/Bible/Genesis/3#v9). (Voir le Livre d'Urantia <a id="s244_146"></a>[LU 75:4.8](/fr/The_Urantia_Book/75#p4_8).)
 4. **La malédiction**. «A la sueur de ton visage tu mangeras du pain.» [3:19](/fr/Bible/Genesis/3#v19).
 5. **Gardien du frère**. « Alors le Seigneur dit à Caïn : 'Où est Abel ton frère ?' Il dit : 'Je ne sais pas ; suis-je le gardien de mon frère ?'" [4:9](/fr/Bible/Genesis/4#v9).
 6. **Traduction d'Enoch**. «Enoch marchait avec Dieu; et il n'était pas, car Dieu l'a pris.» [5:24](/fr/Bible/Genesis/5#v24).
 7. **Les Néphilim**. «Les Nephilim étaient sur la terre à cette époque... quand les fils de Dieu sont venus vers les filles des hommes.» [6:4](/fr/Bible/Genesis/6#v4).
 8. **L'arc-en-ciel**. «J'ai placé mon arc dans la nuée, et ce sera un signe... plus jamais... un déluge pour détruire toute chair.» [9:13,15](/fr/Bible/Genesis/9#v13)..
 9. **Confusion de langage**. « Descendons, et là confondons leur langage, afin qu'ils ne se comprennent pas mutuellement. [11:7](/fr/Bible/Genesis/11#v7).
-10. **Melchisédek et Abraham**. «Après son retour de la défaite de Ched-or-laomer ... Melchisédek, roi de Salem, apporta du pain et du vin ... et Abram lui donna un dixième de tout.» [14:17-20](/fr/Bible/Genesis/14#v17). (Voir le Livre d'Urantia <a id="s252_246"></a>[LU 93:5.13](/fr/The_Urantia_Book/93#p5_13).)
+10. **Melchisédek et Abraham**. «Après son retour de la défaite de Ched-or-laomer ... Melchisédek, roi de Salem, apporta du pain et du vin ... et Abram lui donna un dixième de tout.» [14:17-20](/fr/Bible/Genesis/14#v17). (Voir le Livre d'Urantia <a id="s251_246"></a>[LU 93:5.13](/fr/The_Urantia_Book/93#p5_13).)
 11. **La foi d'Abraham**. «Et il crut au Seigneur, et il le lui imputa à justice.» [15:6](/fr/Bible/Genesis/15#v6).
 12. **Circoncision**. «Vous serez circoncis dans la chair de vos prépuces, et ce sera un signe de l'alliance.» [17:11](/fr/Bible/Genesis/17#v11).
 13. **La colonne de sel**. «Mais la femme de Lot... a regardé en arrière, et elle est devenue une statue de sel.» [19:26](/fr/Bible/Genesis/19#v26).

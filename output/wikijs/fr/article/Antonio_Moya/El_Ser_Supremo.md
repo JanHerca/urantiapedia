@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Antonio Moya<br>© 2005 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'évolution de la prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Despues_De_Pentecostes">
+          <span class="pr-2">Après la Pentecôte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -31,7 +55,7 @@ Pour moi, l’Être Suprême est le JE SUIS Infini, mais travaillant aux niveaux
 
 Le L.d.U. nous dit : « Dans la Divinité du Suprême, le Père-JE SUIS a atteint une libération relativement complète des limitations inhérentes à l'état infini, à l'existence éternelle et à la nature absolue... en parvenant à la libération de l'éternité, le Tout-Puissant rencontre le les barrières du temps...»
 
-« Tout cela doit être conforme au plan du Père, qui a fondé le progrès limité sur l'effort, les réalisations créées sur la persévérance et le développement de la personnalité sur la foi. En ordonnant ainsi l'évolution expérientielle du Suprême, le Père a rendu possible l'existence de créatures finies dans les univers...» ([Doc.115-7](/fr/The_Urantia_Book/115#p7))
+« Tout cela doit être conforme au plan du Père, qui a fondé le progrès limité sur l'effort, les réalisations créées sur la persévérance et le développement de la personnalité sur la foi. En ordonnant ainsi l'évolution expérientielle du Suprême, le Père a rendu possible l'existence de créatures finies dans les univers...» (<a id="a57_324"></a>[Doc.115-7](/fr/The_Urantia_Book/115#p7))
 
 Lorsque le JE SUIS Infini a différencié la Réalité, il l’a fait en séparant le Potentiel d’une part et le Manifesté d’autre part. Le potentiel est encore inexprimé et est contenu dans les trois Absolus de virtualité. Le manifesté est ce qui est déjà exprimé et s'exprime dans l'univers de trois manières : la chose absolue (Île Paradis), la personnalité absolue (Fils Éternel) et l'esprit absolu (Esprit Infini). Ces trois Absolus manifestés sont à l’origine de toute la réalité que nous connaissons.
 
@@ -41,7 +65,7 @@ Le L.d.U. dit à ce sujet : « Tout le projet de création et d'évolution unive
 
 « La dynamique finale du cosmos consiste à transférer continuellement la réalité de l'état potentiel à l'état manifesté. » ([Doc. 115](/fr/The_Urantia_Book/115#))
 
-« La grande lutte de cette époque de l'univers a lieu entre le potentiel et le manifesté - tout ce qui n'a pas encore été exprimé essaie de se manifester. » ([Doc.117-4](/fr/The_Urantia_Book/117#p4))
+« La grande lutte de cette époque de l'univers a lieu entre le potentiel et le manifesté - tout ce qui n'a pas encore été exprimé essaie de se manifester. » (<a id="a67_158"></a>[Doc.117-4](/fr/The_Urantia_Book/117#p4))
 
 J'en déduis que, lorsque dans l'éternité du passé le JE SUIS Infini a divisé la réalité en Potentiel et Manifesté, il l'a fait parce qu'il avait déjà « en tête » de créer le niveau fini, où les potentiels deviendraient des réalités au fil du temps.
 
@@ -59,9 +83,9 @@ L'Etre Suprême est destiné à atteindre le maximum du niveau fini. Nous attein
 
 L’Être Suprême sera complet lorsque les sept superunivers seront établis dans la lumière et la vie. Nous aurons alors la perfection existentielle (Havona) et la perfection expérientielle (superunivers) dans la création.
 
-Dans le document 117, [LU 117:7.12](/fr/The_Urantia_Book/117#p7_12), l'avenir de la Cour suprême est discuté. De même, nous, les mortels, serons occupés pour l’éternité. L’éternité ne peut pas être une sieste éternelle, contrairement à ce que prétendent les autres religions.
+Dans le document 117, <a id="a85_22"></a>[LU 117:7.12](/fr/The_Urantia_Book/117#p7_12), l'avenir de la Cour suprême est discuté. De même, nous, les mortels, serons occupés pour l’éternité. L’éternité ne peut pas être une sieste éternelle, contrairement à ce que prétendent les autres religions.
 
-Nous avons une obligation envers le Suprême, et c'est de développer nos potentiels. Nous sommes des personnalités uniques et irremplaçables. Si nous ne choisissons pas de survivre, le Suprême connaîtra un retard dans son développement ([LU 117:4.2](/fr/The_Urantia_Book/117#p4_2)). Lorsque nous faisons quelque chose contre quelqu’un, nous allons à l’encontre de l’unité. Ce qu’une personnalité peut apporter n’est pas perdu ; Les valeurs sont maintenues chez les experts en sinistres et à la Cour suprême, même si le potentiel restera potentiel s'il n'est pas développé.
+Nous avons une obligation envers le Suprême, et c'est de développer nos potentiels. Nous sommes des personnalités uniques et irremplaçables. Si nous ne choisissons pas de survivre, le Suprême connaîtra un retard dans son développement (<a id="a87_236"></a>[LU 117:4.2](/fr/The_Urantia_Book/117#p4_2)). Lorsque nous faisons quelque chose contre quelqu’un, nous allons à l’encontre de l’unité. Ce qu’une personnalité peut apporter n’est pas perdu ; Les valeurs sont maintenues chez les experts en sinistres et à la Cour suprême, même si le potentiel restera potentiel s'il n'est pas développé.
 
 Il est inévitable de se demander à quoi ressembleront les habitants de l’espace, même si nous ne pouvons pas imaginer grand-chose à ce sujet. Cela n’a certainement aucun sens de dire qu’ils auront plus de privilèges que nous, ou vice versa. Nous ne savons pas non plus s'ils existent ou non ; Il est clair qu'ils n'existent pas dans notre espace-temps, dans notre « bulle », mais ils existent sûrement dans leur « bulle » Absonite, où l'espace et le temps sont transcendés.
 
@@ -69,3 +93,28 @@ Il est inévitable de se demander à quoi ressembleront les habitants de l’esp
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Javier_Garcia_Alcaide/La_Evolucion_De_La_Oracion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'évolution de la prière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mariano_Perez/Despues_De_Pentecostes">
+          <span class="pr-2">Après la Pentecôte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

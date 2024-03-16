@@ -26,28 +26,28 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## I. GÉOGRAPHIE
 
-1. Havona consiste en un milliard de mondes parfaits tournant autour du Paradis en sept circuits concentriques. <a id="s29_112"></a>[LU 14:0.1](/fr/The_Urantia_Book/14#p0_1)
-2. Entre Havona et le Paradis se trouvent les trois circuits des sept mondes du Père, du Fils et de l'Esprit. <a id="s30_110"></a>[LU 13:0.1](/fr/The_Urantia_Book/13#p0_1)
-3. Les îles sombres de l'espace se trouvent entre Havona et les sept superunivers. <a id="s31_83"></a>[LU 14:1.12](/fr/The_Urantia_Book/14#p1_12)
-4. Le système Paradis-Havona est une unité de perfection créatrice. <a id="s32_68"></a>[LU 14:2.6](/fr/The_Urantia_Book/14#p2_6)
+1. Havona consiste en un milliard de mondes parfaits tournant autour du Paradis en sept circuits concentriques. <a id="s28_112"></a>[LU 14:0.1](/fr/The_Urantia_Book/14#p0_1)
+2. Entre Havona et le Paradis se trouvent les trois circuits des sept mondes du Père, du Fils et de l'Esprit. <a id="s29_110"></a>[LU 13:0.1](/fr/The_Urantia_Book/13#p0_1)
+3. Les îles sombres de l'espace se trouvent entre Havona et les sept superunivers. <a id="s30_83"></a>[LU 14:1.12](/fr/The_Urantia_Book/14#p1_12)
+4. Le système Paradis-Havona est une unité de perfection créatrice. <a id="s31_68"></a>[LU 14:2.6](/fr/The_Urantia_Book/14#p2_6)
 
 ## II. LES MONDES DE HAVONA
 
-1. Les mondes de Havona consistent en mille éléments et sept formes d'énergie. <a id="s36_79"></a>[LU 14:2.3](/fr/The_Urantia_Book/14#p5_6)
-2. Les natifs de Havona sont les enfants de la Trinité. <a id="s37_56"></a>[LU 14:4.10](/fr/The_Urantia_Book/14#p4_10)
-3. Il n'y a pas de gouvernement sur les mondes de Havona. <a id="s38_58"></a>[LU 14:3.2](/fr/The_Urantia_Book/14#p3_2)
-4. L'heure standard du grand univers est le jour Paradis-Havona - un peu plus de sept minutes moins de mille ans du temps d'Urantia. <a id="s39_133"></a>[LU 14:1.12](/fr/The_Urantia_Book/14#p1_12)
+1. Les mondes de Havona consistent en mille éléments et sept formes d'énergie. <a id="s35_79"></a>[LU 14:2.3](/fr/The_Urantia_Book/14#p5_6)
+2. Les natifs de Havona sont les enfants de la Trinité. <a id="s36_56"></a>[LU 14:4.10](/fr/The_Urantia_Book/14#p4_10)
+3. Il n'y a pas de gouvernement sur les mondes de Havona. <a id="s37_58"></a>[LU 14:3.2](/fr/The_Urantia_Book/14#p3_2)
+4. L'heure standard du grand univers est le jour Paradis-Havona - un peu plus de sept minutes moins de mille ans du temps d'Urantia. <a id="s38_133"></a>[LU 14:1.12](/fr/The_Urantia_Book/14#p1_12)
 
 ## III. LA VIE À HAVONE
 
-1. Il y a sept formes de vie dans Havona. <a id="s43_42"></a>[LU 14:4.1](/fr/The_Urantia_Book/14#p4_1)
-2. Le péché n'est jamais apparu dans Havona. <a id="s44_45"></a>[LU 14:2.9](/fr/The_Urantia_Book/14#p2_9)
-3. Les Déités tirent des satisfactions variées de l'univers parfait de Havona. <a id="s45_79"></a>[LU 14:6.36](/fr/The_Urantia_Book/14#p6_36)
+1. Il y a sept formes de vie dans Havona. <a id="s42_42"></a>[LU 14:4.1](/fr/The_Urantia_Book/14#p4_1)
+2. Le péché n'est jamais apparu dans Havona. <a id="s43_45"></a>[LU 14:2.9](/fr/The_Urantia_Book/14#p2_9)
+3. Les Déités tirent des satisfactions variées de l'univers parfait de Havona. <a id="s44_79"></a>[LU 14:6.36](/fr/The_Urantia_Book/14#p6_36)
 
 ## IV. LES SPHÈRES SACRÉES DU PARADIS
 
-1. Chacun des vingt et un mondes des Déités est hautement spécialisé. <a id="s49_70"></a>[LU 13:0.7](/fr/The_Urantia_Book/13#p0_7)
-2. Les mondes du Père sont dirigés par les Secrets de Suprématie Trinitisés. <a id="s50_77"></a>[LU 13:1.2](/fr/The_Urantia_Book/13#p1_2)
+1. Chacun des vingt et un mondes des Déités est hautement spécialisé. <a id="s48_70"></a>[LU 13:0.7](/fr/The_Urantia_Book/13#p0_7)
+2. Les mondes du Père sont dirigés par les Secrets de Suprématie Trinitisés. <a id="s49_77"></a>[LU 13:1.2](/fr/The_Urantia_Book/13#p1_2)
 3. Les mondes du Père sont :
 	1. Divington.
 	2. Sonarington.
@@ -55,9 +55,9 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. Vicegerington.
 	5. Solitaire.
 	6. Séraphington.
-	7. Ascendton. <a id="s58_15"></a>[LU 13:1.4](/fr/The_Urantia_Book/13#p1_4)
-4. Les sept mondes du Fils sont le foyer des sept phases de l'existence de l'esprit pur. <a id="s59_89"></a>[LU 13:3.1](/fr/The_Urantia_Book/13#p3_1)
-5. Les sept mondes de l'Esprit sont le siège des Sept Maitres Esprits. A partir de ces mondes, les circuits du mental cosmique vers le grand univers sont égalisés et stabilisés. <a id="s60_178"></a>[LU 13:4.6](/fr/The_Urantia_Book/13#p4_6)
+	7. Ascendton. <a id="s57_15"></a>[LU 13:1.4](/fr/The_Urantia_Book/13#p1_4)
+4. Les sept mondes du Fils sont le foyer des sept phases de l'existence de l'esprit pur. <a id="s58_89"></a>[LU 13:3.1](/fr/The_Urantia_Book/13#p3_1)
+5. Les sept mondes de l'Esprit sont le siège des Sept Maitres Esprits. A partir de ces mondes, les circuits du mental cosmique vers le grand univers sont égalisés et stabilisés. <a id="s59_178"></a>[LU 13:4.6](/fr/The_Urantia_Book/13#p4_6)
 
 
 <br>

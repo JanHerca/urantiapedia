@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 María José Sánchez Santamaría<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — février 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Reflexiones_urantianas_1">
+          <span class="pr-2">Réflexions urantiennes : Éveil à une nouvelle conscience (première partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Le regard
@@ -65,11 +89,11 @@ La vérité est que cette réalité inquiétante a déjà été annoncée. Nous 
 
 Nous parlons d’un système mondial en crise qui ne durera pas dans le temps, car il manque de soutien spirituel :
 
-> Il n’est pas plus possible de maintenir un système social durable sans une moralité fondée sur des réalités spirituelles que de maintenir le système solaire sans la gravité. ([LU 195:5.9](/fr/The_Urantia_Book/195#p5_9))
+> Il n’est pas plus possible de maintenir un système social durable sans une moralité fondée sur des réalités spirituelles que de maintenir le système solaire sans la gravité. (<a id="a91_177"></a>[LU 195:5.9](/fr/The_Urantia_Book/195#p5_9))
 > 
-> Nul système social ou régime politique niant la réalité de Dieu ne peut contribuer d’une manière constructive et durable à l’avancement de la civilisation humaine. Mais le christianisme, tel qu’il est aujourd’hui subdivisé et laïcisé, présente le plus grand de tous les obstacles à la poursuite du progrès de l’humanité ; cela est spécialement vrai en ce qui concerne l’Orient. ([LU 195:10.7](/fr/The_Urantia_Book/195#p10_7))
+> Nul système social ou régime politique niant la réalité de Dieu ne peut contribuer d’une manière constructive et durable à l’avancement de la civilisation humaine. Mais le christianisme, tel qu’il est aujourd’hui subdivisé et laïcisé, présente le plus grand de tous les obstacles à la poursuite du progrès de l’humanité ; cela est spécialement vrai en ce qui concerne l’Orient. (<a id="a93_381"></a>[LU 195:10.7](/fr/The_Urantia_Book/195#p10_7))
 
-> « Par contre, vous devriez faire preuve de sagesse concernant la maturation d’un âge et discerner avec promptitude les signes des temps. Quand le figuier montre ses branches tendres et fait sortir ses feuilles, vous savez que l’été est proche. De même, quand le monde aura passé par le long hiver de la mentalité matérialiste et que vous discernerez la venue du printemps spirituel d’une nouvelle dispensation, vous devriez savoir que l’été d’une nouvelle visitation approche. ([LU 176:2.6](/fr/The_Urantia_Book/176#p2_6))
+> « Par contre, vous devriez faire preuve de sagesse concernant la maturation d’un âge et discerner avec promptitude les signes des temps. Quand le figuier montre ses branches tendres et fait sortir ses feuilles, vous savez que l’été est proche. De même, quand le monde aura passé par le long hiver de la mentalité matérialiste et que vous discernerez la venue du printemps spirituel d’une nouvelle dispensation, vous devriez savoir que l’été d’une nouvelle visitation approche. (<a id="a95_480"></a>[LU 176:2.6](/fr/The_Urantia_Book/176#p2_6))
 
 Comme l'a dit l'écrivain Emilio Carrillo lors d'une récente conférence : actuellement, cette société a apporté tout ce qu'elle avait à apporter ; Le « costume » de cette humanité devient trop étroit pour nous. Ne pensez-vous pas que ce système de choses devient trop petit pour nous ? N'êtes-vous pas mal à l'aise ? Et beaucoup de gens ont grandi, mûri, et nous ne sommes plus convaincus par la société actuelle.
 
@@ -99,7 +123,7 @@ Les incertitudes de la vie et les vicissitudes de l’existence ne contredisent 
 > 6. *L’idéalisme —* l’émergence du concept du divin — est-il désirable ? Alors, il faut que l’homme lutte dans un environnement de bonté et de beauté relatives, dans un cadre qui stimule la tendance irrépressible vers des choses meilleures.
 > 7. *La loyauté —* la dévotion au devoir supérieur — est-elle désirable ? Alors, il faut que l’homme poursuive son chemin parmi les possibilités de trahison et de désertion. La valeur de la dévotion au devoir implique le danger qui résulterait d’une défaillance.
 > 8. *Le désintéressement —* l’esprit d’oubli de soi — est-il désirable ? Alors, il faut que l’homme mortel vive face à face avec les clameurs incessantes d’un moi qui demande inéluctablement reconnaissance et honneur. L’homme ne pourrait choisir dynamiquement la vie divine s’il n’y avait pas une vie du moi à délaisser. L’homme ne pourrait jamais faire jouer la droiture pour son salut s’il n’y avait pas de mal potentiel pour exalter et différencier le bien par contraste.
-> 9. *Le plaisir —* la satisfaction du bonheur — est-il désirable ? Alors, il faut que l’homme vive dans un monde où l’alternative de la douleur et la probabilité de la souffrance soient des possibilités d’expérience toujours présentes.(<a id="a124_222"></a>[LU 3:5.5-14](/es/The_Urantia_Book/3#p5_5))
+> 9. *Le plaisir —* la satisfaction du bonheur — est-il désirable ? Alors, il faut que l’homme vive dans un monde où l’alternative de la douleur et la probabilité de la souffrance soient des possibilités d’expérience toujours présentes.([LU 3:5.5-14](/es/The_Urantia_Book/3#p5_5))
 
 Sachant que rien n’est aléatoire, le panorama du monde dystopique que nous observons est une merveilleuse école de croissance de la conscience, une université dont nous pouvons profiter pour ouvrir notre esprit et notre cœur, pour forger une âme plus pleine. En grandissant et en aspirant à plus, nous pourrons regarder la réalité avec la perspective spirituelle appropriée, complète et non déconnectée de la transcendance.
 
@@ -121,3 +145,28 @@ Ouvrons les yeux et regardons...
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2023/01/31/editorial-febrero-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2023_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — février 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Reflexiones_urantianas_1">
+          <span class="pr-2">Réflexions urantiennes : Éveil à une nouvelle conscience (première partie)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

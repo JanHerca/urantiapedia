@@ -61,7 +61,7 @@ dateCreated: 2023-8-29T10:55:6Z
 <img src="/image/article/UF_News_Online/2007_09/047.jpg">
 </figure>
 
-_La recherche de Dieu est une effusion illimitée d’amour accompagnée de la découverte surprenante d’un nouvel amour plus grand à effuser_. _Le Livre d'Urantia_, <a id="a42_161"></a>[LU 117:6.9](/fr/The_Urantia_Book/117#p6_9)
+_La recherche de Dieu est une effusion illimitée d’amour accompagnée de la découverte surprenante d’un nouvel amour plus grand à effuser_. _Le Livre d'Urantia_, <a id="a63_161"></a>[LU 117:6.9](/fr/The_Urantia_Book/117#p6_9)
 
 <br style="clear:both;"/>
 

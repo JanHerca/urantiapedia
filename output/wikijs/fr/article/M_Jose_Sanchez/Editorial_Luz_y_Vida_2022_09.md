@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Jose_Lopez_Vallejos">
+          <span class="pr-2">Questionnaire Urantien : Juan José López Vallejos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -31,15 +55,15 @@ Réalisez-vous à quel point c'est merveilleux d'être en vie, de bouger avec ce
 
 Il ne s’agit pas du tout d’arrogance ou de manque d’humilité. Il s’agit de nous valoriser pour ce que nous sommes, de reconnaître notre vérité la plus profonde. Parce que nous agissons souvent de manière assez incohérente, comme si nous menions notre vie en « pilote automatique » et nous oublions qui nous sommes : de merveilleux enfants d'une divinité, des créatures créées dans cet univers, sur ce plan matériel par amour du Créateur de toutes les choses.
 
-> Dieu vit en chacun de ses fils nés d’esprit. ([LU 5:2.2](/fr/The_Urantia_Book/5#p2_2))
+> Dieu vit en chacun de ses fils nés d’esprit. (<a id="a57_48"></a>[LU 5:2.2](/fr/The_Urantia_Book/5#p2_2))
 
 Nous sommes des créatures particulières, car curieusement nous sommes à la fois voiture et conducteur, navire et pilote, cheval et cavalier ; Autrement dit, nous sommes un mécanisme électrochimique qui nous permet de nous gérer dans la réalité matérielle, mais nous sommes également une entité créative et consciente, capable de transcender la matière.
 
-> Il y a donc deux réalités qui sont centrées sur les circuits du mental humain et qui empiètent sur ces circuits : l’une est un moi mortel issu par évolution des plans originels des Porteurs de Vie, l’autre est une entité immortelle venant des hautes sphères de Divinington, un don intérieur de Dieu. Mais le moi mortel est également un moi personnel ; il est doté de la personnalité. ([LU 110:2.4](/fr/The_Urantia_Book/110#p2_4))
+> Il y a donc deux réalités qui sont centrées sur les circuits du mental humain et qui empiètent sur ces circuits : l’une est un moi mortel issu par évolution des plans originels des Porteurs de Vie, l’autre est une entité immortelle venant des hautes sphères de Divinington, un don intérieur de Dieu. Mais le moi mortel est également un moi personnel ; il est doté de la personnalité. (<a id="a61_387"></a>[LU 110:2.4](/fr/The_Urantia_Book/110#p2_4))
 
 Cette question de notre identité, de notre être véritable, fait l’objet d’une réflexion depuis de nombreux siècles :
 
-> Beaucoup de religions orientales et quelques religions occidentales ont perçu que l’homme est divin par héritage en même temps qu’humain par hérédité. ... Les hommes ont longtemps cru à l’existence de quelque chose qui grandit à l’intérieur de la nature humaine, quelque chose de vital destiné à durer au-delà de la courte durée d’une vie temporelle. ([LU 111:0.2](/fr/The_Urantia_Book/111#p0_2))
+> Beaucoup de religions orientales et quelques religions occidentales ont perçu que l’homme est divin par héritage en même temps qu’humain par hérédité. ... Les hommes ont longtemps cru à l’existence de quelque chose qui grandit à l’intérieur de la nature humaine, quelque chose de vital destiné à durer au-delà de la courte durée d’une vie temporelle. (<a id="a65_354"></a>[LU 111:0.2](/fr/The_Urantia_Book/111#p0_2))
 
 Nous connaissons tous la simple expression de salutation _aloha_, utilisée pour les salutations et comme expression d'amour, de compassion et de générosité. Étymologiquement, il est composé des termes _alo_ (présence ou être présent) et _ha_ (souffle ou inspiration divine). Autrement dit, la salutation aloha signifie que vous accueillez et reconnaissez l’essence divine de l’autre personne. Ce respect a un impact sur la manière aimante et joyeuse d’entretenir des relations avec les autres êtres humains.
 
@@ -51,7 +75,7 @@ Or, dans la pièce où se trouvait la sibylle (cette femme sage entraînée depu
 
 Ces deux exemples simples qui nous rappellent ce que nous sommes, qui nous exhortent à rechercher la meilleure connaissance de soi, nous poussent à être des chercheurs, dans une course sans fin, de progression et d'expansion sans limites.
 
-> Le grand Dieu établit un contact direct avec l’homme mortel en donnant de son moi infini, éternel et incompréhensible, une fraction qui vivra et habitera en lui. Dieu s’est lancé dans l’aventure éternelle avec l’homme. Si vous vous conformez aux directives des forces spirituelles en vous, et autour de vous, vous ne pouvez manquer d’atteindre la haute destinée qu’un Dieu aimant a instaurée comme but universel pour les créatures qui s’élèvent des mondes évolutionnaires de l’espace. ([LU 5:1.12](/fr/The_Urantia_Book/5#p1_12))
+> Le grand Dieu établit un contact direct avec l’homme mortel en donnant de son moi infini, éternel et incompréhensible, une fraction qui vivra et habitera en lui. Dieu s’est lancé dans l’aventure éternelle avec l’homme. Si vous vous conformez aux directives des forces spirituelles en vous, et autour de vous, vous ne pouvez manquer d’atteindre la haute destinée qu’un Dieu aimant a instaurée comme but universel pour les créatures qui s’élèvent des mondes évolutionnaires de l’espace. (<a id="a77_488"></a>[LU 5:1.12](/fr/The_Urantia_Book/5#p1_12))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_09/Editorial-sep-22-3.jpg" alt="Editorial sep-22-3">
@@ -109,7 +133,7 @@ Illuminer l’Europe et donc le monde, en se tournant vers l’intérieur plutô
 
 Cherchons-nous des solutions au bon endroit ? Jésus lui-même nous guide dans notre recherche, intérieurement, vers notre essence. Il y a la réponse à nos problèmes et préoccupations actuels.
 
-> La religion grecque avait un mot de passe : « Connais-toi toi-même ». Les Hébreux centraient leur enseignement sur « Connaissez votre Dieu ». Les chrétiens prêchent un évangile visant à « la connaissance du Seigneur Jésus-Christ ». Jésus proclama la bonne nouvelle « Connaissez Dieu et connaissez-vous vous-même comme fils de Dieu ». ([LU 5:4.8](/fr/The_Urantia_Book/5#p4_8))
+> La religion grecque avait un mot de passe : « Connais-toi toi-même ». Les Hébreux centraient leur enseignement sur « Connaissez votre Dieu ». Les chrétiens prêchent un évangile visant à « la connaissance du Seigneur Jésus-Christ ». Jésus proclama la bonne nouvelle « Connaissez Dieu et connaissez-vous vous-même comme fils de Dieu ». (<a id="a135_337"></a>[LU 5:4.8](/fr/The_Urantia_Book/5#p4_8))
 
 Notre bonne nouvelle est grande et belle, celle que Jésus nous invite à réaliser en ces temps, dans cette rencontre européenne.
 
@@ -117,3 +141,28 @@ Notre bonne nouvelle est grande et belle, celle que Jésus nous invite à réali
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/08/30/editorial-septiembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — septembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-septembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — septembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Juan_Jose_Lopez_Vallejos">
+          <span class="pr-2">Questionnaire Urantien : Juan José López Vallejos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

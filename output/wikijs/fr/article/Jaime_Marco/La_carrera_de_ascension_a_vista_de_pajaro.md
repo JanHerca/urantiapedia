@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Jaime Marco<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_XV_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La XVe Rencontre des Lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-44-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 44 — juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gines_Aviles_and_Jose_Manuel_Duarte/Las_ayudas_de_la_carrera_de_ascension">
+          <span class="pr-2">Les aides de la course à l'ascension : internes et physiques/matérielles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La course à l’ascension est, pour moi, l’une des contributions les plus motivantes, transformatrices et pleines d’espoir de toutes celles contenues dans la Révélation de la 5ème Époque. Sans aucun doute, une fois que vous le savez et y croyez, votre vision de la vie change complètement.
@@ -108,15 +132,15 @@ Nous quittons Urantia, dans la phase matérielle et jusqu'à ce que la mort nous
 
 Quand nous mourons, nous passons à la phase Morontielle et nous y sommes jusqu'à ce que nous quittions Salvington, la capitale de Nébadon, notre univers local, après avoir traversé 570 changements corporels (8 dans le système, 71 dans la constellation et 491 pendant le séjour dans le sphères de Salvington), afin de passer de l'état morontiel très semblable au matériel à l'état morontiel très semblable au spirituel.
 
-Si, lorsque nous mourons, nous vivons un rêve de mort, nous sommes classés comme **Survivants endormis** ([LU 30:4.11](/fr/The_Urantia_Book/30#p4_11)). Une fois que nous sommes ressuscités, soit de l'état de Survivants endormis, soit au troisième jour de notre mort, nous passons aux Mondes des Maisons de Satania, notre Système et nous avons la condition d'**Étudiants des Mondes des Maisons** ([LU 30:4.14](/fr/The_Urantia_Book/30#p4_14) ).
+Si, lorsque nous mourons, nous vivons un rêve de mort, nous sommes classés comme **Survivants endormis** (<a id="a134_106"></a>[LU 30:4.11](/fr/The_Urantia_Book/30#p4_11)). Une fois que nous sommes ressuscités, soit de l'état de Survivants endormis, soit au troisième jour de notre mort, nous passons aux Mondes des Maisons de Satania, notre Système et nous avons la condition d'**Étudiants des Mondes des Maisons** (<a id="a134_396"></a>[LU 30:4.14](/fr/The_Urantia_Book/30#p4_14) ).
 
-Depuis notre arrivée à Jérusem, capitale de Satania, en plus de notre passage par Edentia, capitale de Norlatiadek, notre constellation et à Salvington, nous sommes des **Progresseurs morontiels** ([LU 30:4.18](/fr/The_Urantia_Book/30#p4_18)).
+Depuis notre arrivée à Jérusem, capitale de Satania, en plus de notre passage par Edentia, capitale de Norlatiadek, notre constellation et à Salvington, nous sommes des **Progresseurs morontiels** (<a id="a136_198"></a>[LU 30:4.18](/fr/The_Urantia_Book/30#p4_18)).
 
-Nous quittons Salvington en tant qu'esprits du **premier degré**, commençant la phase spirituelle en tant qu'**Élèves du Superunivers** ([LU 30:4.22](/fr/The_Urantia_Book/30#p4_22)) ; Lorsque nous partons d'Umenor 3ème, capitale de l'Ensa, notre secteur mineur, nous avançons vers les esprits du **deuxième degré** et d'Umayor 5ème, capitale de Splandon, notre secteur majeur, nous partons en tant qu'esprits du **troisième degré** pour compléter notre formation en tant que pupilles du superunivers à Uversa, capitale d'Orvonton, notre superunivers.
+Nous quittons Salvington en tant qu'esprits du **premier degré**, commençant la phase spirituelle en tant qu'**Élèves du Superunivers** (<a id="a138_137"></a>[LU 30:4.22](/fr/The_Urantia_Book/30#p4_22)) ; Lorsque nous partons d'Umenor 3ème, capitale de l'Ensa, notre secteur mineur, nous avançons vers les esprits du **deuxième degré** et d'Umayor 5ème, capitale de Splandon, notre secteur majeur, nous partons en tant qu'esprits du **troisième degré** pour compléter notre formation en tant que pupilles du superunivers à Uversa, capitale d'Orvonton, notre superunivers.
 
-En arrivant à Havona, nous devenons des **Pèlerins de Havona** ([LU 30:4.26](/fr/The_Urantia_Book/30#p4_26)) et après avoir atteint le sixième cercle, nous atteignons l'état spirituel du **quatrième degré**.
+En arrivant à Havona, nous devenons des **Pèlerins de Havona** (<a id="a140_64"></a>[LU 30:4.26](/fr/The_Urantia_Book/30#p4_26)) et après avoir atteint le sixième cercle, nous atteignons l'état spirituel du **quatrième degré**.
 
-Lorsque nous quittons Havona, nous atteignons l'état de **Ceux qui atteignent le Paradis** ([LU 30:4.31](/fr/The_Urantia_Book/30#p4_31)) et en atteignant le Père nous acquérons le **cinquième degré spirituel**.
+Lorsque nous quittons Havona, nous atteignons l'état de **Ceux qui atteignent le Paradis** (<a id="a142_92"></a>[LU 30:4.31](/fr/The_Urantia_Book/30#p4_31)) et en atteignant le Père nous acquérons le **cinquième degré spirituel**.
 
 Nous atteignons le **sixième degré** en prêtant le serment final devant la Trinité.
 
@@ -131,42 +155,42 @@ Toutes les capitales et mondes associés des unités organisationnelles de la cr
 <figcaption><em>Jérusem, Satania</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> _...a ses sept mondes de culture transitionnelle dont chacun est entouré de sept satellites, parmi lesquels se trouvent les sept mondes des maisons de détention morontielle, la première résidence des hommes après la mort. À la manière dont le mot ciel a été employé sur Urantia, il a quelquefois désigné ces sept mondes des maisons, le premier monde des maisons étant appelé le premier ciel et ainsi de suite jusqu’au septième._ ([LU 15:7.5](/fr/The_Urantia_Book/15#p7_5))
+> _...a ses sept mondes de culture transitionnelle dont chacun est entouré de sept satellites, parmi lesquels se trouvent les sept mondes des maisons de détention morontielle, la première résidence des hommes après la mort. À la manière dont le mot ciel a été employé sur Urantia, il a quelquefois désigné ces sept mondes des maisons, le premier monde des maisons étant appelé le premier ciel et ainsi de suite jusqu’au septième._ (<a id="a157_432"></a>[LU 15:7.5](/fr/The_Urantia_Book/15#p7_5))
 
 <figure id="Figure_8" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Edentia5.jpg">
 <figcaption><em>Edentia</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision lointaine</a></figcaption>
 </figure>
 
-> _*Édentia,* siège de votre constellation de Norlatiadek, a soixante-dix satellites de culture et d’entrainement social. ..._ ([LU 15:7.6](/fr/The_Urantia_Book/15#p7_6))
+> _*Édentia,* siège de votre constellation de Norlatiadek, a soixante-dix satellites de culture et d’entrainement social. ..._ (<a id="a164_128"></a>[LU 15:7.6](/fr/The_Urantia_Book/15#p7_6))
 
 <figure id="Figure_9" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Salvington4.jpg">
 <figcaption><em>Salvington</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision lointaine</a></figcaption>
 </figure>
 
-> _...est entourée de dix groupes universitaires de quarante-neuf sphères chacun. Les hommes y sont spiritualisés après avoir été rendus sociables sur leur constellation._ ([LU 15:7.7](/fr/The_Urantia_Book/15#p7_7))
+> _...est entourée de dix groupes universitaires de quarante-neuf sphères chacun. Les hommes y sont spiritualisés après avoir été rendus sociables sur leur constellation._ (<a id="a171_173"></a>[LU 15:7.7](/fr/The_Urantia_Book/15#p7_7))
 
 <figure id="Figure_10" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Uminor_the_Third7.jpg">
 <figcaption><em>Umenor Troisième</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> _... votre secteur mineur, est entourée par les sept sphères où l’on étudie la physique supérieure de la vie ascendante._ ([LU 15:7.8](/fr/The_Urantia_Book/15#p7_8))
+> _... votre secteur mineur, est entourée par les sept sphères où l’on étudie la physique supérieure de la vie ascendante._ (<a id="a178_125"></a>[LU 15:7.8](/fr/The_Urantia_Book/15#p7_8))
 
 <figure id="Figure_11" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Umajor_the5th4.jpg">
 <figcaption><em>Umajor la Quinta</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision Afar</a></figcaption>
 </figure>
 
-> _... est entourée par les soixante-dix sphères d’enseignement intellectuel supérieur des superunivers._ ([LU 15:7.9](/fr/The_Urantia_Book/15#p7_9))
+> _... est entourée par les soixante-dix sphères d’enseignement intellectuel supérieur des superunivers._ (<a id="a185_107"></a>[LU 15:7.9](/fr/The_Urantia_Book/15#p7_9))
 
 <figure id="Figure_12" class="image urantiapedia">
 <img src="/image/The_Urantia_Book/Gary_Tonge/Uversa9.jpg">
 <figcaption><em>Uversa</em>, © Gary Tonge 2009, <a href="https://visionafar.com/the-master-universe-map">Vision lointaine</a></figcaption>
 </figure>
 
-> ...sept universités supérieures de haute éducation spirituelle pour les créatures volitives ascendantes. Chacun de ces sept groupes de sphères merveilleuses consiste en soixante-dix mondes spécialisés contenant des milliers et des milliers d’institutions et d’organisations complètes consacrées à l’entrainement universel et à la culture d’esprit où les pèlerins du temps sont rééduqués et réexaminés pour préparer leur long voyage jusqu’à Havona. ([LU 15:7.10](/fr/The_Urantia_Book/15#p7_10))
+> ...sept universités supérieures de haute éducation spirituelle pour les créatures volitives ascendantes. Chacun de ces sept groupes de sphères merveilleuses consiste en soixante-dix mondes spécialisés contenant des milliers et des milliers d’institutions et d’organisations complètes consacrées à l’entrainement universel et à la culture d’esprit où les pèlerins du temps sont rééduqués et réexaminés pour préparer leur long voyage jusqu’à Havona. (<a id="a192_451"></a>[LU 15:7.10](/fr/The_Urantia_Book/15#p7_10))
 
 Dans le superunivers, nous recevons une formation en groupe. Une fois diplômés d'Edentia, nous nous sommes préparés pour le saut vers Havona. Un saut que nous faisons seuls, puisque c'est à partir de là que commence notre formation personnelle et donc individuelle.
 
@@ -174,11 +198,11 @@ Dans le superunivers, nous recevons une formation en groupe. Une fois diplômés
 <img src="/image/article/Luz_y_Vida/LyV44/20.jpg">
 </figure>
 
-[LU 14:5.4](/fr/The_Urantia_Book/14#p5_4) Nous sommes esprits du 4ème degré lorsque nous arrivons à Havona et du 5ème degré lorsque nous arrivons au Paradis. Pour ce faire, nous avons dû parcourir un milliard de mondes divisés en 7 cercles où, de cercle en cercle, nous avons dû atteindre le Maître Esprit de notre superunivers (7), atteindre la Suprématie (6), atteindre la Divinité, l'Esprit Infini ( 5), le Fils Éternel (4) et le Père (3), atteignent les habitants du Paradis (2) et obtiennent l'admission au Paradis (1).
+<a id="a200_0"></a>[LU 14:5.4](/fr/The_Urantia_Book/14#p5_4) Nous sommes esprits du 4ème degré lorsque nous arrivons à Havona et du 5ème degré lorsque nous arrivons au Paradis. Pour ce faire, nous avons dû parcourir un milliard de mondes divisés en 7 cercles où, de cercle en cercle, nous avons dû atteindre le Maître Esprit de notre superunivers (7), atteindre la Suprématie (6), atteindre la Divinité, l'Esprit Infini ( 5), le Fils Éternel (4) et le Père (3), atteignent les habitants du Paradis (2) et obtiennent l'admission au Paradis (1).
 
 Une fois au Paradis, nous prêtons serment devant la Trinité qui nous permet d'entrer dans le Corps du Dessein, atteignant le 6ème degré spirituel.
 
-> _Le Paradis est le foyer, et Havona l’atelier et le terrain de jeu des finalitaires. Et tout mortel connaissant Dieu désire ardemment être un finalitaire._ ([LU 14:6.39](/fr/The_Urantia_Book/14#p6_39))
+> _Le Paradis est le foyer, et Havona l’atelier et le terrain de jeu des finalitaires. Et tout mortel connaissant Dieu désire ardemment être un finalitaire._ (<a id="a204_159"></a>[LU 14:6.39](/fr/The_Urantia_Book/14#p6_39))
 
 <figure id="Figure_14" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV44/23.jpg">
@@ -187,13 +211,38 @@ Une fois au Paradis, nous prêtons serment devant la Trinité qui nous permet d'
 
 ## Le sort des Finalitaires.
 
-> _Les mortels évolutionnaires naissent sur les planètes de l’espace, passent par les mondes morontiels, gravissent les univers spirituels, traversent les sphères de Havona, trouvent Dieu, atteignent le Paradis et sont enrôlés dans le Corps primaire de la Finalité pour y attendre leur prochaine affectation de service universel. Il y a six autres corps de finalité en cours de rassemblement, mais Grandfanda, le premier ascendeur mortel, préside comme chef Paradisiaque de tous les ordres de finalitaires. Lorsque nous contemplons ce spectacle sublime, nous nous écrions tous : Quelle glorieuse destinée pour les enfants temporels d’origine animale, les fils matériels de l’espace !_ ([LU 31:10.20](/fr/The_Urantia_Book/31#p10_20))
+> _Les mortels évolutionnaires naissent sur les planètes de l’espace, passent par les mondes morontiels, gravissent les univers spirituels, traversent les sphères de Havona, trouvent Dieu, atteignent le Paradis et sont enrôlés dans le Corps primaire de la Finalité pour y attendre leur prochaine affectation de service universel. Il y a six autres corps de finalité en cours de rassemblement, mais Grandfanda, le premier ascendeur mortel, préside comme chef Paradisiaque de tous les ordres de finalitaires. Lorsque nous contemplons ce spectacle sublime, nous nous écrions tous : Quelle glorieuse destinée pour les enfants temporels d’origine animale, les fils matériels de l’espace !_ (<a id="a213_686"></a>[LU 31:10.20](/fr/The_Urantia_Book/31#p10_20))
 
-> _Nous estimons que les êtres humains ont le droit de partager nos opinions et que vous êtes libres de faire avec nous des hypothèses sur le mystère de la destinée ultime du Corps de Finalité du Paradis. Il nous semble évident que les présentes affectations des créatures évolutionnaires devenues parfaites participent de la nature des études spécialisées sur la compréhension universelle et l’administration superuniverselle. Et nous posons tous la question : « Pourquoi les Dieux s’intéressent-ils pareillement à entrainer aussi minutieusement les mortels survivants à la technique de gestion de l’univers ? »_ ([LU 31:3.8](/fr/The_Urantia_Book/31#p3_8))
+> _Nous estimons que les êtres humains ont le droit de partager nos opinions et que vous êtes libres de faire avec nous des hypothèses sur le mystère de la destinée ultime du Corps de Finalité du Paradis. Il nous semble évident que les présentes affectations des créatures évolutionnaires devenues parfaites participent de la nature des études spécialisées sur la compréhension universelle et l’administration superuniverselle. Et nous posons tous la question : « Pourquoi les Dieux s’intéressent-ils pareillement à entrainer aussi minutieusement les mortels survivants à la technique de gestion de l’univers ? »_ (<a id="a215_615"></a>[LU 31:3.8](/fr/The_Urantia_Book/31#p3_8))
 
-> _Ces six groupes d’êtres glorifiés composent ce corps unique à destinée éternelle. Nous pensons connaitre leur travail futur, mais nous n’en sommes pas certains. Le Corps de la Finalité des Mortels est en cours de mobilisation au Paradis. Ses membres apportent présentement un ministère considérable aux univers de l’espace et administrent les mondes ancrés dans la lumière et la vie. Toutefois, ils doivent avoir pour destination future les univers qui maintenant s’organisent dans l’espace extérieur. Du moins, c’est ce que l’on conjecture sur Uversa._ ([LU 31:0.8](/fr/The_Urantia_Book/31#p0_8))
+> _Ces six groupes d’êtres glorifiés composent ce corps unique à destinée éternelle. Nous pensons connaitre leur travail futur, mais nous n’en sommes pas certains. Le Corps de la Finalité des Mortels est en cours de mobilisation au Paradis. Ses membres apportent présentement un ministère considérable aux univers de l’espace et administrent les mondes ancrés dans la lumière et la vie. Toutefois, ils doivent avoir pour destination future les univers qui maintenant s’organisent dans l’espace extérieur. Du moins, c’est ce que l’on conjecture sur Uversa._ (<a id="a217_558"></a>[LU 31:0.8](/fr/The_Urantia_Book/31#p0_8))
 
 ## Références
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/El_XV_Encuentro_de_lectores">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La XVe Rencontre des Lecteurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-44-juin-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 44 — juin 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gines_Aviles_and_Jose_Manuel_Duarte/Las_ayudas_de_la_carrera_de_ascension">
+          <span class="pr-2">Les aides de la course à l'ascension : internes et physiques/matérielles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

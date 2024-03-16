@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Doris Calmel<br>© 2015 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_39_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 39 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-39-mars-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 39 — mars 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/Homenaje_a_David_Zebedeo">
+          <span class="pr-2">Hommage à David Zebedee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Présentation donnée à la Conférence des lecteurs européens du Livre d'Urantia tenue à Berlin, Allemagne, août 2014)
 
-> _La vraie religion doit toujours être simultanément l’éternel fondement et l’étoile directrice de toutes les civilisations durables._ ([LU 92:7.15](/fr/The_Urantia_Book/92#p7_15))
+> _La vraie religion doit toujours être simultanément l’éternel fondement et l’étoile directrice de toutes les civilisations durables._ (<a id="a39_137"></a>[LU 92:7.15](/fr/The_Urantia_Book/92#p7_15))
 
 La lecture du _Livre d'Urantia_ permet à l'homme de trouver son essence, de la vivre et de la transmettre. Comme?
 
@@ -31,13 +55,13 @@ C'est surtout l'apport reçu à travers ces séances de psychanalyse qui m'a pou
 
 Tout est réuni pour pouvoir étudier en compagnie de diverses personnes, notamment des philosophes et des psychologues, le tout pendant des années. Nous avons réfléchi sur les indications du _Livre d'Urantia_ sur l'être humain et, surtout, sur son accord dans nos vies.
 
-Déjà dans [LU 0:5.11](/fr/The_Urantia_Book/0#p5_11), dans le Prologue du livre, nous avons cette magnifique phrase :
+Déjà dans <a id="a57_10"></a>[LU 0:5.11](/fr/The_Urantia_Book/0#p5_11), dans le Prologue du livre, nous avons cette magnifique phrase :
 
-> _La personnalité est le don unique conféré par le Père Universel aux énergies vivantes et associées de la matière, du mental et de l’esprit, et qui survit avec la survivance de l’âme morontielle._ ([LU 0:5.11](/fr/The_Urantia_Book/0#p5_11))
+> _La personnalité est le don unique conféré par le Père Universel aux énergies vivantes et associées de la matière, du mental et de l’esprit, et qui survit avec la survivance de l’âme morontielle._ (<a id="a59_200"></a>[LU 0:5.11](/fr/The_Urantia_Book/0#p5_11))
 
 Ce qui veut dire:
 
-> _L’amour du Père individualise absolument chaque personnalité comme enfant unique du Père Universel, un enfant sans pareil dans l’infinité, une créature volitive irremplaçable dans toute l’éternité._ ([LU 12:7.9](/fr/The_Urantia_Book/12#p7_9))
+> _L’amour du Père individualise absolument chaque personnalité comme enfant unique du Père Universel, un enfant sans pareil dans l’infinité, une créature volitive irremplaçable dans toute l’éternité._ (<a id="a63_203"></a>[LU 12:7.9](/fr/The_Urantia_Book/12#p7_9))
 
 L'importance du début de phrase m'est apparue notamment lors de séances de psychanalyse qui incluaient la conception de l'être humain. L'analyse réalisée lors de ces séances était liée à sa mémoire cellulaire. Ce moment leur procure un bonheur amoureux unique.
 
@@ -63,7 +87,7 @@ Nous avons atteint un stade où nous pouvons évaluer la progression de cet idé
 
 Enfin, nous aimons partager notre idéal et nous trouvons autour de nous des personnes qui collaborent pour en faire une réalité. Dans le Prologue du _Le Livre d'Urantia_, à la page 9, nous trouvons également cette phrase :
 
-> _La personnalité est la seule réalité invariante dans l’expérience constamment changeante d’une créature ; et elle unifie tous les autres facteurs associés de l’individualité._ ([LU 0:5.11](/fr/The_Urantia_Book/0#p5_11))
+> _La personnalité est la seule réalité invariante dans l’expérience constamment changeante d’une créature ; et elle unifie tous les autres facteurs associés de l’individualité._ (<a id="a89_180"></a>[LU 0:5.11](/fr/The_Urantia_Book/0#p5_11))
 
 La personnalité que Dieu donne à chaque homme est destinée à être éternelle, mais l'homme doit la vouloir et la demander ! La personnalité est dotée de pouvoirs adaptés au cadre de vie dans lequel vit l'homme. Les pouvoirs de la personnalité ne sont pas statiques ; Ils évoluent en fonction des besoins de survie des êtres humains.
 
@@ -97,7 +121,7 @@ Je sais que ce que je dis n'est pas très scientifique.
 
 Avec les enseignements du _Le Livre d'Urantia_, nous apprenons également que chaque être humain a une relation individuelle avec Dieu grâce à son Ajusteur. En parlant de l’Ajusteur, je vais aussi développer de manière simple sa magnifique contribution à l’être humain :
 
-> _Les Ajusteurs sont l’actualité de l’amour du Père incarné dans l’âme des hommes ; emprisonnés dans le mental des mortels, ils sont la véritable promesse de carrière éternelle des hommes._ ([LU 107:0.2](/fr/The_Urantia_Book/107#p0_2))
+> _Les Ajusteurs sont l’actualité de l’amour du Père incarné dans l’âme des hommes ; emprisonnés dans le mental des mortels, ils sont la véritable promesse de carrière éternelle des hommes._ (<a id="a123_192"></a>[LU 107:0.2](/fr/The_Urantia_Book/107#p0_2))
 
 Cette phrase contient trois phases très importantes :
 
@@ -111,7 +135,7 @@ Enfermé dans l'esprit des mœurs, avec tant de temps sans que l'être humain ne
 
 La véritable promesse de la carrière éternelle des hommes est ce fragment qui nous accompagne après la mort matérielle pour nous envoyer à travers de multiples carrières spirituelles vers l'éternité, vers la perfection divine. Mais il y a un mais : il faut le demander !
 
-> _Pouvez-vous vraiment réaliser la vraie signification de la présence intérieure des Ajusteurs ? Mesurez-vous vraiment ce que signifie le fait qu’un fragment de Déité absolue et infinie, le Père Universel, habite votre nature mortelle finie et fusionne avec elle ?_ ([LU 107:4.7](/fr/The_Urantia_Book/107#p4_7))
+> _Pouvez-vous vraiment réaliser la vraie signification de la présence intérieure des Ajusteurs ? Mesurez-vous vraiment ce que signifie le fait qu’un fragment de Déité absolue et infinie, le Père Universel, habite votre nature mortelle finie et fusionne avec elle ?_ (<a id="a137_268"></a>[LU 107:4.7](/fr/The_Urantia_Book/107#p4_7))
 
 Vous l'avez bien compris ; Le but de l'Ajusteur, qui représente Dieu lui-même, est de fusionner avec nous afin de nous emmener à LUI, mais IL doit attendre que nous le voulions !
 
@@ -167,3 +191,28 @@ Pour que nous soyons tous réunis...<br>
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_39_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 39 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-39-mars-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 39 — mars 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/Homenaje_a_David_Zebedeo">
+          <span class="pr-2">Hommage à David Zebedee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

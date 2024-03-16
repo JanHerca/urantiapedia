@@ -73,7 +73,7 @@ Amos nous a dit qu’un livre biblique comme le nôtre présente peu d’intér�
 
 > Jusqu'à présent, 5 081 Livres d'Urantia ont été offerts. (En Inde)
 
-> « Allez dans le monde entier et prêchez la bonne nouvelle du royaume. Libérez les prisonniers spirituels, consolez les opprimés et donnez vos soins aux affligés. Vous avez reçu gratuitement, donnez gratuitement. » Jésus. <a id="a51_223"></a>[[LU 140:9](/fr/The_Urantia_Book/140#p9)]
+> « Allez dans le monde entier et prêchez la bonne nouvelle du royaume. Libérez les prisonniers spirituels, consolez les opprimés et donnez vos soins aux affligés. Vous avez reçu gratuitement, donnez gratuitement. » Jésus. <a id="a75_223"></a>[[LU 140:9](/fr/The_Urantia_Book/140#p9)]
 
 ## Problème pour le christianisme en Inde
 

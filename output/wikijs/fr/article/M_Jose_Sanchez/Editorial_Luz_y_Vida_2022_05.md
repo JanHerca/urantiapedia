@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — mai 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Gema_Villa">
+          <span class="pr-2">Questionnaire Urantien : Villa Gema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -29,7 +53,7 @@ Devant la perplexité de Nicodème, Jésus répondit :
 
 > « Nicodème dit alors : « Mais comment puis-je commencer à saisir cet esprit qui doit me recréer en me préparant à entrer dans le royaume ? » Jésus répondit : « L’esprit du Père qui est aux cieux demeure déjà en toi. Si tu veux te laisser conduire par cet esprit d’en haut, tu commenceras très bientôt à voir avec les yeux de l’esprit ; ensuite, si tu choisis de tout cœur la gouverne de l’esprit, tu naitras d’esprit, car le dessein unique de ta vie sera de faire la volonté de ton Père qui est aux cieux. En te trouvant ainsi né de l’esprit et heureux dans le royaume de Dieu, tu commenceras à produire, dans la vie quotidienne, les abondants fruits de l’esprit. » »
 > 
-> Nicodème était entièrement sincère. Il fut profondément impressionné, mais repartit désorienté. Il était un homme accompli quant au développement de soi, à la maitrise de soi, et même quant aux hautes qualités morales. Il était raffiné, égocentrique et altruiste, mais **il ne savait pas comment *soumettre* sa volonté à celle du divin Père, comme un petit enfant accepte de se soumettre aux directives d’un père terrestre sage et aimant, et devenir ainsi en réalité un fils de Dieu, un héritier progressif du royaume éternel**. ([LU 142:6.7-8](/fr/The_Urantia_Book/142#p6_7))
+> Nicodème était entièrement sincère. Il fut profondément impressionné, mais repartit désorienté. Il était un homme accompli quant au développement de soi, à la maitrise de soi, et même quant aux hautes qualités morales. Il était raffiné, égocentrique et altruiste, mais **il ne savait pas comment *soumettre* sa volonté à celle du divin Père, comme un petit enfant accepte de se soumettre aux directives d’un père terrestre sage et aimant, et devenir ainsi en réalité un fils de Dieu, un héritier progressif du royaume éternel**. (<a id="a55_532"></a>[LU 142:6.7-8](/fr/The_Urantia_Book/142#p6_7))
 
 Ce changement radical qui implique de soumettre notre volonté à une plus grande autorité (la réalité têtue nous le montre avec force) est généralement favorisé par des expériences de **souffrance** ; Ce sont ceux qui **favorisent le plus** la conscience et l’évolution spirituelle. Cela est dû aux mouvements (parfois d’authentiques mouvements sismiques) qu’ils nous font ressentir. Ces mouvements ont la vertu de nous sortir de la zone de confort, de la distraction stérile, de l'attachement au confort matériel.
 
@@ -59,7 +83,7 @@ Cette proximité avec l'étincelle divine fait dire à ce grand poète quelque c
 
 La connexion avec la divinité est totalement nécessaire, car sinon, l'activité devient un tourbillon incessant qui nous maintient enfermés dans le simple banal ou matériel, distraits comme Marthe (la sœur de Lazare et Marie), qui, selon l'UL, avait tendance à « se disperser avec de nombreuses tâches inutiles et se laisser submerger par des soucis insignifiants. »
 
-> Tandis que Marthe s’affairait à tous ses soi-disant devoirs, elle fut troublée parce que Marie ne faisait rien pour l’aider. Elle alla donc vers Jésus et lui dit : « Maitre, cela t’est-il égal que ma sœur m’ait laissé faire seule tout le service ? Ne voudrais-tu pas lui demander de venir m’aider ? » Jésus répondit : « Marthe, Marthe, pourquoi t’agites-tu à propos de tant de choses et te laisses-tu troubler par tant de détails ? Une seule chose mérite réellement l’attention ; du moment que Marie a choisi cette part bonne et nécessaire, je ne vais pas la lui enlever. Mais quand apprendrez-vous toutes les deux à vivre comme je vous l’ai enseigné ? Servez en coopération et rafraichissez vos âmes à l’unisson. Ne pouvez-vous apprendre qu’il y a un temps pour chaque chose — que les questions secondaires de la vie doivent s’effacer devant les questions primordiales du royaume céleste ? » ([LU 162:8.3](/fr/The_Urantia_Book/162#p8_3))
+> Tandis que Marthe s’affairait à tous ses soi-disant devoirs, elle fut troublée parce que Marie ne faisait rien pour l’aider. Elle alla donc vers Jésus et lui dit : « Maitre, cela t’est-il égal que ma sœur m’ait laissé faire seule tout le service ? Ne voudrais-tu pas lui demander de venir m’aider ? » Jésus répondit : « Marthe, Marthe, pourquoi t’agites-tu à propos de tant de choses et te laisses-tu troubler par tant de détails ? Une seule chose mérite réellement l’attention ; du moment que Marie a choisi cette part bonne et nécessaire, je ne vais pas la lui enlever. Mais quand apprendrez-vous toutes les deux à vivre comme je vous l’ai enseigné ? Servez en coopération et rafraichissez vos âmes à l’unisson. Ne pouvez-vous apprendre qu’il y a un temps pour chaque chose — que les questions secondaires de la vie doivent s’effacer devant les questions primordiales du royaume céleste ? » (<a id="a85_896"></a>[LU 162:8.3](/fr/The_Urantia_Book/162#p8_3))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV_2022_05/Editorial-mayo-2022-2.jpg" alt="Editorial mayo 22 - 2">
@@ -71,7 +95,7 @@ Ces deux aspects, l'intérieur et l'extérieur, ont leur place dans la vie ; et 
 
 Cet aspect est étroitement lié au célèbre commandement de la Dernière Cène de Jésus :
 
-> Je vous donne donc ce nouveau commandement : Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples. ([LU 180:1.1](/fr/The_Urantia_Book/180#p1_1))
+> Je vous donne donc ce nouveau commandement : Aimez-vous les uns les autres comme je vous ai aimés. Si vous faites cela, si vous vous aimez ainsi les uns les autres, tous les hommes sauront que vous êtes mes disciples. (<a id="a97_221"></a>[LU 180:1.1](/fr/The_Urantia_Book/180#p1_1))
 
 Jésus nous a aimés si profondément, connaissant la grande valeur que nous avons, les êtres humains, avec une étincelle divine et une âme qui se déploie dans nos pensées, qu'il nous invite également à réaliser son existence dans tous les autres êtres humains, tels qu'ils existent en nous. eux-mêmes.
 
@@ -91,7 +115,7 @@ Vivre en déversant le bien est à notre portée, c'est à votre portée... car 
 
 Prenons l'engagement envers nous-mêmes de ne pas vivre autrement, de vivre nos moments comme **Jésus de Nazareth nous l'a montré :**
 
-> L’essentiel de la prière qu’il enseigna à ses disciples était : « Que ton règne vienne, que ta volonté soit faite. » ([LU 196:0.8](/fr/The_Urantia_Book/196#p0_8))
+> L’essentiel de la prière qu’il enseigna à ses disciples était : « Que ton règne vienne, que ta volonté soit faite. » (<a id="a117_120"></a>[LU 196:0.8](/fr/The_Urantia_Book/196#p0_8))
 
 Une fois qu'il conçut ainsi que le royaume consistait en la volonté de Dieu, il se dévoua à la cause pour en faire une réalité avec un admirable oubli de lui-même et un enthousiasme sans bornes.
 
@@ -99,3 +123,28 @@ Une fois qu'il conçut ainsi que le royaume consistait en la volonté de Dieu, i
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/05/01/editorial-mayo-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_05">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — mai 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-mai-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — mai 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Gema_Villa">
+          <span class="pr-2">Questionnaire Urantien : Villa Gema</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

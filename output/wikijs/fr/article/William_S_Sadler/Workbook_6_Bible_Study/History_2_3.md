@@ -39,7 +39,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 9. Parmi les premières inventions de la Palestine figurait l'alphabet des Phéniciens, transmis aux Grecs puis à l'Europe.
 10. Plus tard, de quelque part, vinrent les Edomites et les Moabites.
 11. La date de l'Exode est incertaine. Probablement au XIIIe siècle. I Rois 6:1 place l'Exode 480 ans avant la quatrième année du règne de Salomon. Ce serait au quinzième siècle.
-12. Pour l'histoire de Moïse, voir <a id="s42_35"></a>[LU 96:3.1](/fr/The_Urantia_Book/95#p3_1)
+12. Pour l'histoire de Moïse, voir <a id="s41_35"></a>[LU 96:3.1](/fr/The_Urantia_Book/95#p3_1)
 13. Rappelez-vous que Moïse avait passé des années avec les Kénites avant de retourner pour conduire les Hébreux hors d'Egypte.
 14. Il y a presque deux histoires sur les errances dans le désert :
 	- a. Dans l'un, ils s'attardent longtemps au Sinaï.

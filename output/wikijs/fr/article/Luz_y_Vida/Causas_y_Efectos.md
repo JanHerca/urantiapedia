@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Antonio Moya, Carmelo Martínez, Andrés Pérez, Santiago Rodríguez<br>© 2008 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_14_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 14 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-14-septembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 14 — septembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanette_Francis/Oracion_para_todas_las_noches">
+          <span class="pr-2">Prière pour chaque nuit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -21,13 +45,13 @@ De divers auteurs
 - Andrés Pérez
 - Santiago Rodríguez
 
-**Antonio:** voici un bon doute : « _Les causes universelles (ou de l'univers) ne peuvent être inférieures aux effets universels (ou de l'univers)_ » ([LU 3:6.3](/fr/The_Urantia_Book/3#p6_3))
+**Antonio:** voici un bon doute : « _Les causes universelles (ou de l'univers) ne peuvent être inférieures aux effets universels (ou de l'univers)_ » (<a id="a47_151"></a>[LU 3:6.3](/fr/The_Urantia_Book/3#p6_3))
 
 Pourquoi un effet ne peut-il pas être plus grand que sa cause ? Expliquez-moi, s'il vous plaît. L’un d’entre eux est un peu maladroit et ne voit pas vraiment de bons exemples de cette affirmation. J'aime bien les exemples de bavoirs pour enfants, sinon je n'y comprends toujours rien. Quelqu'un aurait-il la gentillesse d'éclairer un peu ma tête dure ? Merci d'avance.
 
-> « _tous les effets sont précédés par des causes définies._ » ([LU 86:2.5](/fr/The_Urantia_Book/86#p2_5))
+> « _tous les effets sont précédés par des causes définies._ » (<a id="a51_64"></a>[LU 86:2.5](/fr/The_Urantia_Book/86#p2_5))
 
-> « _On ne peut obtenir d’effets sans causes,_ » ([LU 102:7.3](/fr/The_Urantia_Book/102#p7_3))
+> « _On ne peut obtenir d’effets sans causes,_ » (<a id="a53_50"></a>[LU 102:7.3](/fr/The_Urantia_Book/102#p7_3))
 
 **Carmelo :** Les questions d'Antonio... comme toujours, pointues, profondes et difficiles à répondre.
 
@@ -80,3 +104,28 @@ Essayer de comprendre les pensées de Dieu, pour nous, mortels, est un effet, ca
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_14_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 14 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-14-septembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 14 — septembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jeanette_Francis/Oracion_para_todas_las_noches">
+          <span class="pr-2">Prière pour chaque nuit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

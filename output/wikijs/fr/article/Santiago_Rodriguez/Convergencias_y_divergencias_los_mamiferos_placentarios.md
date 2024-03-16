@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Santiago Rodríguez<br>© 2013 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Breve_descripcion_del_Hijo_Creador">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une brève description du Fils Créateur, Jésus de Nazareth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-34-septembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 34 — septembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Carmelo_Martinez">
+          <span class="pr-2">Questionnaire Urantien : Carmelo Martínez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'un des problèmes les plus controversés que nous ayons avec le LU est celui des dates. Les développeurs ont insisté pour nous « bombarder » avec un nombre infini de dates et la science, dans ses oscillations d'observation, nous en rapproche et nous en éloigne.
@@ -32,9 +56,9 @@ http://es.wikipedia.org/wiki/Placentalia
 
 Cependant, dans le Document 61 du _Le Livre d'Urantia_, nous trouvons les citations suivantes :
 
-> *Il y a 50 millions d’années,* les zones continentales du monde se trouvaient en majeure partie au-dessus de l’eau ou seulement légèrement immergées. Les formations et les dépôts de cette période sont à la fois terrestres et marins, mais principalement terrestres. Pendant un temps considérable, les terres s’élevèrent graduellement, mais elles furent en même temps lessivées et entrainées vers les basses terres et les mers. ([LU 61:1.1](/fr/The_Urantia_Book/61#p1_1))
+> *Il y a 50 millions d’années,* les zones continentales du monde se trouvaient en majeure partie au-dessus de l’eau ou seulement légèrement immergées. Les formations et les dépôts de cette période sont à la fois terrestres et marins, mais principalement terrestres. Pendant un temps considérable, les terres s’élevèrent graduellement, mais elles furent en même temps lessivées et entrainées vers les basses terres et les mers. (<a id="a58_429"></a>[LU 61:1.1](/fr/The_Urantia_Book/61#p1_1))
 
-> Au début de cette période, les mammifères du type placentaire apparurent *soudain* en Amérique du Nord ; ils représentaient l’étape la plus importante de l’évolution jusqu’à cette époque. Des ordres de mammifères non placentaires avaient existé auparavant, mais ce nouveau type jaillit directement et *soudainement* de l’ancêtre reptile préexistant dont la descendance s’était perpétuée au long des temps du déclin des dinosaures. Le père des mammifères placentaires fut un petit dinosaure carnivore très actif, du type sauteur. ([LU 61:1.2](/fr/The_Urantia_Book/61#p1_2))
+> Au début de cette période, les mammifères du type placentaire apparurent *soudain* en Amérique du Nord ; ils représentaient l’étape la plus importante de l’évolution jusqu’à cette époque. Des ordres de mammifères non placentaires avaient existé auparavant, mais ce nouveau type jaillit directement et *soudainement* de l’ancêtre reptile préexistant dont la descendance s’était perpétuée au long des temps du déclin des dinosaures. Le père des mammifères placentaires fut un petit dinosaure carnivore très actif, du type sauteur. (<a id="a60_532"></a>[LU 61:1.2](/fr/The_Urantia_Book/61#p1_2))
 
 L’écart concernant l’époque à laquelle ils sont apparus est extraordinaire. Il est difficile de trouver un point de rapprochement entre les deux propositions.
 
@@ -56,3 +80,28 @@ https://www.stonybrook.edu/sb/images/features/oleary130208.pdf
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Breve_descripcion_del_Hijo_Creador">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une brève description du Fils Créateur, Jésus de Nazareth</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-34-septembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 34 — septembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Carmelo_Martinez">
+          <span class="pr-2">Questionnaire Urantien : Carmelo Martínez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

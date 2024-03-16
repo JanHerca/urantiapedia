@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Encuentro_de_Lectores_del_Libro_de_Urantia_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IXe Rencontre des Lecteurs du Livre d'Urantia en Espagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-21-juin-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 21 — juin 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Nouveaux groupes d'étude
@@ -33,3 +54,25 @@ Recherchez l'Association Urantia d'Espagne sur [facebook](https://www.facebook.c
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Encuentro_de_Lectores_del_Libro_de_Urantia_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">IXe Rencontre des Lecteurs du Livre d'Urantia en Espagne</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-21-juin-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 21 — juin 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

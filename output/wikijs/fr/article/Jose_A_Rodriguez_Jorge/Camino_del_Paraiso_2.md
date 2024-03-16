@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 José A. Rodríguez Jorge<br>© 2009 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Se_equivoco_Dios">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu avait-il tort ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-19-décembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 19 — décembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Lo_Absonito_1a_parte">
+          <span class="pr-2">L'Absonite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -37,3 +61,28 @@ Je ne doute pas, mais j'ai confiance.
 
 - [Cette poésie également dans un autre numéro](/fr/article/Jose_A_Rodriguez_Jorge/Camino_del_Paraiso)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Se_equivoco_Dios">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu avait-il tort ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-19-décembre-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 19 — décembre 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Lo_Absonito_1a_parte">
+          <span class="pr-2">L'Absonite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

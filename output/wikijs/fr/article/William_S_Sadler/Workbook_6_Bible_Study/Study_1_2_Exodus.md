@@ -103,8 +103,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 1. Ils étaient un clan religieux appartenant aux Madianites. Jéthro était leur grand prêtre.
 2. Ils avaient une haute civilisation - vocations variées - métallurgistes, etc. Ils avaient aussi une religion bien développée.
-3. Pour toute l'histoire des Kénites, voir le Livre d'Urantia <a id="s106_62"></a>[96:0.2](/fr/The_Urantia_Book/96#p0_2).
-4. Moïse a eu une bonne éducation égyptienne avant de rejoindre les Kénites. Voir le Livre d'Urantia, <a id="s107_102"></a>[LU 96:4.2](/fr/The_Urantia_Book/96#p4_2). Il connaissait la «sagesse des Égyptiens». [Actes 7:22](/fr/Bible/Acts_of_the_Apostles/7#v22).
+3. Pour toute l'histoire des Kénites, voir le Livre d'Urantia <a id="s105_62"></a>[96:0.2](/fr/The_Urantia_Book/96#p0_2).
+4. Moïse a eu une bonne éducation égyptienne avant de rejoindre les Kénites. Voir le Livre d'Urantia, <a id="s106_102"></a>[LU 96:4.2](/fr/The_Urantia_Book/96#p4_2). Il connaissait la «sagesse des Égyptiens». [Actes 7:22](/fr/Bible/Acts_of_the_Apostles/7#v22).
 5. Le prêtre Jéthro était aussi connu sous le nom de Reuel. [2:18](/fr/Bible/Exodus/2#v18).
 6. Moïse épousa Séphora, la fille de Jéthro, et eut deux fils. [18:3](/fr/Bible/Exodus/18#v3).
 7. C'est alors qu'il gardait les troupeaux de Jéthro que Moïse fit l'expérience du « buisson ardent » et reçut la commission de Yahvé de faire sortir Israël de la servitude.

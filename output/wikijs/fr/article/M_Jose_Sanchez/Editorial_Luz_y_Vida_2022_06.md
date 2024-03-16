@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — juin 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Juan_Jose_Lopez/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -59,13 +83,13 @@ Comment Jésus a-t-il réalisé cette connexion continue avec la Source ? Lui-m�
 
 > Jésus était particulièrement opposé à la prière en public. Jusqu’alors, les douze ne l’avaient entendu prier qu’en de rares occasions. Ils le voyaient passer des nuits entières en prière ou en adoration, et ils étaient très curieux de connaitre la nature ou la forme de ses suppliques.
 > 
-> Jésus enseigna aux douze à toujours prier en secret, à partir seuls dans les tranquilles paysages de la nature ou à aller dans leur chambre et à fermer les portes quand ils s’adonnaient à la prière. ([LU 144:3.13-14](/fr/The_Urantia_Book/144#p3_13))
+> Jésus enseigna aux douze à toujours prier en secret, à partir seuls dans les tranquilles paysages de la nature ou à aller dans leur chambre et à fermer les portes quand ils s’adonnaient à la prière. (<a id="a85_202"></a>[LU 144:3.13-14](/fr/The_Urantia_Book/144#p3_13))
 
 Le prêtre Pablo D'Ors nous dit que l'un des traits les plus caractéristiques de Jésus était sa grande volonté pédagogique, celle d'être Maître. Il comprend très vite qu’en plus d’annoncer, il doit enseigner. Sa manière d'être un Maître, ses enseignements, se voulaient simples et brefs, presque tout le monde pouvait comprendre ce qu'il disait, bien qu'à différents niveaux de profondeur. Il n’avait pas l’habitude d’argumenter ou d’élaborer des théories, bien au contraire. Elle partait toujours d'une image, elle était artiste : les muguets, la pièce perdue, le levain, le manteau, les oiseaux... tous ses mots étaient des images. C'est pourquoi sa prédication n'a pas été oubliée et est transmise à la postérité.
 
 Notons cet exemple quelque peu humoristique d'un voisin agaçant et agaçant, que Jésus utilise pour nous clarifier l'importance de la persévérance et de la concentration. Toutes les choses qui l'entouraient pouvaient révéler la Vérité, toutes les images lui servaient :
 
-> « La prière est le souffle de l’âme et devrait vous inciter à persévérer dans vos tentatives pour mieux connaitre la volonté du Père. Si l’un de vous a un voisin et va le trouver à minuit en disant : ‘Ami, prête-moi trois miches, car un de mes amis en voyage est venu me voir et je n’ai rien à lui offrir’, et si votre voisin répond : ‘Ne me dérange pas, car la porte est maintenant fermée et les enfants et moi sommes au lit ; je ne peux donc me lever pour te donner du pain’, vous insisterez en expliquant que votre ami a faim et que vous n’avez pas de nourriture à lui offrir. Votre voisin ne se lèvera pas pour vous donner du pain par amitié pour vous, mais je vous dis qu’à cause de votre importunité, il se lèvera et vous donnera autant de miches qu’il vous en faut. Si donc la persistance gagne les faveurs même des hommes mortels, combien plus votre persistance dans l’esprit obtiendra-t-elle pour vous le pain de vie des mains bienveillantes du Père qui est aux cieux. Je vous le dis de nouveau : Demandez et l’on vous donnera, cherchez et vous trouverez, frappez et l’on vous ouvrira. Car quiconque demande reçoit ; celui qui cherche trouve ; et la porte du salut sera ouverte à celui qui frappe. ([LU 144:2.3](/fr/The_Urantia_Book/144#p2_3))
+> « La prière est le souffle de l’âme et devrait vous inciter à persévérer dans vos tentatives pour mieux connaitre la volonté du Père. Si l’un de vous a un voisin et va le trouver à minuit en disant : ‘Ami, prête-moi trois miches, car un de mes amis en voyage est venu me voir et je n’ai rien à lui offrir’, et si votre voisin répond : ‘Ne me dérange pas, car la porte est maintenant fermée et les enfants et moi sommes au lit ; je ne peux donc me lever pour te donner du pain’, vous insisterez en expliquant que votre ami a faim et que vous n’avez pas de nourriture à lui offrir. Votre voisin ne se lèvera pas pour vous donner du pain par amitié pour vous, mais je vous dis qu’à cause de votre importunité, il se lèvera et vous donnera autant de miches qu’il vous en faut. Si donc la persistance gagne les faveurs même des hommes mortels, combien plus votre persistance dans l’esprit obtiendra-t-elle pour vous le pain de vie des mains bienveillantes du Père qui est aux cieux. Je vous le dis de nouveau : Demandez et l’on vous donnera, cherchez et vous trouverez, frappez et l’on vous ouvrira. Car quiconque demande reçoit ; celui qui cherche trouve ; et la porte du salut sera ouverte à celui qui frappe. (<a id="a91_1210"></a>[LU 144:2.3](/fr/The_Urantia_Book/144#p2_3))
 
 La première conclusion de toute cette approche innovante de Jésus est que la prière n'a pas besoin de temples ou d'églises, puisque le temple, c'est nous-mêmes : notre corps est le sanctuaire où se produit ce que nous appelons la prière. L'aventure de l'âme se déroule dans notre corps.
 
@@ -73,7 +97,7 @@ De là on arrive à une autre conclusion révolutionnaire : si le temple n’est
 
 Une autre clé fait également référence à un avertissement important que Jésus a donné :
 
-> Jésus mit ses disciples en garde contre l’idée que leurs prières seraient rendues plus efficaces par des répétitions imagées, par une phraséologie éloquente, ou par des jeûnes, des pénitences et des sacrifices. » ([LU 146:2.15](/fr/The_Urantia_Book/146#p2_15))
+> Jésus mit ses disciples en garde contre l’idée que leurs prières seraient rendues plus efficaces par des répétitions imagées, par une phraséologie éloquente, ou par des jeûnes, des pénitences et des sacrifices. » (<a id="a99_216"></a>[LU 146:2.15](/fr/The_Urantia_Book/146#p2_15))
 
 Prier ne consiste pas à parler beaucoup, ni à demander des choses avec éloquence, car les paroles, lorsqu'elles ne viennent pas du plus profond de l'intérieur, ont tendance à interférer avec le flux de la vie jusqu'à le bloquer ; et parce que lorsque nous demandons, c'est toujours parce que nous avons un intérêt personnel. En réalité, la prière ne va pas là-bas. C’est ainsi que, au lieu d’être un moyen, les mots peuvent souvent devenir un obstacle.
 
@@ -81,7 +105,7 @@ Le silence, en revanche, dépourvu d'idées et d'émotions, est le cadre dans le
 
 Le silence ne peut jamais être un obstacle, il est trop discret, humble et nu pour gêner quoi que ce soit. Personne ne peut mieux qu’un autre être fier de se taire. Le silence est donc le domaine dans lequel l’esprit peut se révéler le plus clairement.
 
-> L’une des raisons pour lesquelles Pierre, Jacques et Jean, qui accompagnaient si souvent le Maitre dans ses longues veilles nocturnes, n’entendirent jamais Jésus prier, vient de ce que leur Maitre exprimait fort rarement ses prières en langage parlé. Pratiquement, toutes les prières de Jésus étaient faites dans son esprit et dans son cœur — en silence. ([LU 144:4.10](/fr/The_Urantia_Book/144#p4_10))
+> L’une des raisons pour lesquelles Pierre, Jacques et Jean, qui accompagnaient si souvent le Maitre dans ses longues veilles nocturnes, n’entendirent jamais Jésus prier, vient de ce que leur Maitre exprimait fort rarement ses prières en langage parlé. Pratiquement, toutes les prières de Jésus étaient faites dans son esprit et dans son cœur — en silence. (<a id="a107_358"></a>[LU 144:4.10](/fr/The_Urantia_Book/144#p4_10))
 
 Alors faisons comme notre cher Maître : entrons dans notre chambre, entrons dans notre corps, fermons la porte aux sens, éliminant les stimuli extérieurs et calmant notre esprit, pour écouter et regarder à l'intérieur, vers Lui. Parce que dans la chambre silencieuse De notre notre corps apaisé et notre esprit réduit au silence sont cette source et ce centre qui nous satisferont pour toujours. Il y aura enfin notre cœur satisfait. Nous sentirons que nous sommes enfin réveillés.
 
@@ -89,3 +113,28 @@ Alors faisons comme notre cher Maître : entrons dans notre chambre, entrons dan
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/05/31/editorial-junio-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_06">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — juin 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juin-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — juin 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Juan_Jose_Lopez/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Santiago Rodríguez<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'eugénisme pour notre époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-43-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 43 — mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Olga_Lopez">
+          <span class="pr-2">Questionnaire Urantien : Olga López</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les ondes gravitationnelles, prédites par la théorie de la relativité générale d'Albert Einstein (1915), semblent avoir finalement été confirmées expérimentalement en septembre 2015 par l'expérience LIGO et ont été rendues publiques en février 2016, créant une immense attente.
@@ -33,17 +57,17 @@ En fait, les ondes gravitationnelles, la déformation de l'espace-temps qui se t
 
 Rappelons que _Le Livre d'Urantia_, même si cela ne semble pas être le cas à première vue, nous donne une vision beaucoup plus complexe que celle présentée par la science actuelle. En fait, pour tenter de trouver des parallèles, il faut restreindre l'étude des concepts « espace » et « gravité » :
 
-_Espace_ : nous nous référons uniquement à « _espace pénétré_ », nous ignorons à la fois l'espace non pénétré et les zones de repos de l'espace entre le pénétré et le non pénétré. [LU 11:6.1](/fr/The_Urantia_Book/11#p6_1)
+_Espace_ : nous nous référons uniquement à « _espace pénétré_ », nous ignorons à la fois l'espace non pénétré et les zones de repos de l'espace entre le pénétré et le non pénétré. <a id="a59_180"></a>[LU 11:6.1](/fr/The_Urantia_Book/11#p6_1)
 
-_Gravité_ : on se limite à la gravité matérielle et plus encore, uniquement à la _gravité circulaire ou linéaire_, et on se dispense de la gravité absolue. [LU 11:8.7](/fr/The_Urantia_Book/11#p8_7) ; [LU 12:3.8](/fr/The_Urantia_Book/12#p3_8)
+_Gravité_ : on se limite à la gravité matérielle et plus encore, uniquement à la _gravité circulaire ou linéaire_, et on se dispense de la gravité absolue. <a id="a61_156"></a>[LU 11:8.7](/fr/The_Urantia_Book/11#p8_7) ; <a id="a61_200"></a>[LU 12:3.8](/fr/The_Urantia_Book/12#p3_8)
 
 Les mécaniciens de Newton (1686) considéraient la gravité comme une force d'étendue infinie et de transmission instantanée. La révolution « einsteinienne » a consisté à établir que, même si la portée de la gravité peut être infinie, sa transmission n'est pas instantanée, mais que sa vitesse de transmission est plutôt celle de la vitesse de la lumière. Une autre des idées nouvelles de la théorie de la relativité est que le temps et l'espace ne doivent pas être étudiés comme des entités séparées, mais que les 4 dimensions (trois spatiales et une temporelle) dans lesquelles nous avons toute notre activité physique sont interchangeables et maintiennent mathématiquement l'équivalence. rapports.
 
 Nous pouvons précisément trouver des coïncidences dans le contenu du _Le Livre d'Urantia_ pour ces concepts :
 
-Le fait que les Fils Créateurs ont besoin d'une quantité énorme de temps pour s'adapter à la masse nouvellement apparue dans leurs domaines spatiaux sans perturbations dans le reste des domaines des autres Fils Créateurs [LU 32:1.1](/fr/The_Urantia_Book/32#p1_1) ; [LU 32:1.5](/fr/The_Urantia_Book/32#p1_5) pourrait être dû au fait que les effets de la gravité linéaire ne sont pas instantanés et doivent être adaptés de manière lente pour éviter les cataclysmes.
+Le fait que les Fils Créateurs ont besoin d'une quantité énorme de temps pour s'adapter à la masse nouvellement apparue dans leurs domaines spatiaux sans perturbations dans le reste des domaines des autres Fils Créateurs <a id="a67_221"></a>[LU 32:1.1](/fr/The_Urantia_Book/32#p1_1) ; <a id="a67_265"></a>[LU 32:1.5](/fr/The_Urantia_Book/32#p1_5) pourrait être dû au fait que les effets de la gravité linéaire ne sont pas instantanés et doivent être adaptés de manière lente pour éviter les cataclysmes.
 
-Le livre lui-même nous dit que nous ne devons en effet pas parler de l'espace et du temps comme d'entités distinctes, mais comme étant indissociablement liés [LU 65:8.1](/fr/The_Urantia_Book/65#p8_1)
+Le livre lui-même nous dit que nous ne devons en effet pas parler de l'espace et du temps comme d'entités distinctes, mais comme étant indissociablement liés <a id="a69_158"></a>[LU 65:8.1](/fr/The_Urantia_Book/65#p8_1)
 
 Nous dirons qu'une convergence importante de cette théorie avec ce qui est exposé dans le livre est le concept même selon lequel l'espace-temps n'est pas simplement un lieu où les choses se produisent, mais est un objet avec ses propres caractéristiques. En fait, la confirmation des ondes gravitationnelles par la science nous montre que le cadre espace-temps est un objet déformable, et aussi que nous sommes capables de mesurer cette déformation.
 
@@ -51,7 +75,7 @@ Que l'espace-temps soit un « objet » signifie qu'il présente une géométrie 
 
 _Le Livre d'Urantia_ nous dit clairement que l'espace observable (espace pénétré) est contenu, est enveloppé par un autre type d'espace, et cet espace, en fait les deux types, celui pénétré et celui non pénétré, présente des contractions et des dilatations (« mouvements respiratoires »).
 
-Il nous montre également une géométrie non planaire, une forme de l'espace dans lequel nous opérons en tant qu'êtres finis. Rappelons-nous la comparaison du sablier et de la croix de Malte lors de la révolution. [LU 11:6.1](/fr/The_Urantia_Book/11#p6_1).
+Il nous montre également une géométrie non planaire, une forme de l'espace dans lequel nous opérons en tant qu'êtres finis. Rappelons-nous la comparaison du sablier et de la croix de Malte lors de la révolution. <a id="a77_212"></a>[LU 11:6.1](/fr/The_Urantia_Book/11#p6_1).
 
 Ainsi, l'existence d'ondes gravitationnelles renforce l'idée que l'espace lui-même est soumis à des fluctuations, que l'espace et le temps n'ont les mêmes valeurs dans aucune partie du cosmos, mais que celles-ci dépendent des caractéristiques du lieu, telles que la masse/énergie présente dans l'environnement dans lequel nous étudions cet espace et ce temps.
 
@@ -67,15 +91,15 @@ Einstein a cessé de considérer la gravité comme une force qui agit à distanc
 
 Curieusement, dans le _Livre d'Urantia_ apparaissent des concepts qui abondent dans ces idées envisagées par la théorie de la relativité.
 
-Le fait que dans l'univers il doit y avoir un enregistrement et un enregistrement du temps à différents endroits, comme semblent l'enregistrer les Cronoldeks [LU 29:4.37](/fr/The_Urantia_Book/29#p4_37), semble en quelque sorte démontrer ce qu'Einstein a prédit sur la relativité du temps et de l'espace. Même les relations causales sont présentes dans le Maître Univers. Même au Paradis, où le temps est différent de la façon dont nous pouvons le comprendre, une relation causale [LU 11:2.11](/fr/The_Urantia_Book/11#p2_11) définie pour les systèmes physiques [LU 16:6.6](/fr/The_Urantia_Book/16#p6_6) continue d'être maintenue.
+Le fait que dans l'univers il doit y avoir un enregistrement et un enregistrement du temps à différents endroits, comme semblent l'enregistrer les Cronoldeks <a id="a93_158"></a>[LU 29:4.37](/fr/The_Urantia_Book/29#p4_37), semble en quelque sorte démontrer ce qu'Einstein a prédit sur la relativité du temps et de l'espace. Même les relations causales sont présentes dans le Maître Univers. Même au Paradis, où le temps est différent de la façon dont nous pouvons le comprendre, une relation causale <a id="a93_480"></a>[LU 11:2.11](/fr/The_Urantia_Book/11#p2_11) définie pour les systèmes physiques <a id="a93_560"></a>[LU 16:6.6](/fr/The_Urantia_Book/16#p6_6) continue d'être maintenue.
 
 Mais il y a d'autres aspects qui diffèrent pas mal de ce qui est accepté par les théories physiques du moment, parmi lesquels nous pourrions souligner l'énorme intérêt scientifique d'unifier la gravité avec le reste des forces fondamentales, lorsque le _Livre d'Urantia_ nous suggère que la gravité ne pourrait pas être une des forces fondamentales et que les forces fondamentales ne répondent pas à la gravité :
 
-> _...même les forces physiques primordiales ne répondent pas à la gravité linéaire,_ ([LU 12:6.5](/fr/The_Urantia_Book/12#p6_5))
+> _...même les forces physiques primordiales ne répondent pas à la gravité linéaire,_ (<a id="a97_87"></a>[LU 12:6.5](/fr/The_Urantia_Book/12#p6_5))
 
-> _...La gravité est le seul contrôle de l’énergie-matière. Ni l’espace ni l’archétype ne réagissent à la gravité,_ ([LU 0:6.11](/fr/The_Urantia_Book/0#p6_11))
+> _...La gravité est le seul contrôle de l’énergie-matière. Ni l’espace ni l’archétype ne réagissent à la gravité,_ (<a id="a99_117"></a>[LU 0:6.11](/fr/The_Urantia_Book/0#p6_11))
 
-> _L’espace ne répond pas à la gravité, mais il agit sur la gravité comme un équilibrant. Sans le coussin de l’espace, un effet explosif ébranlerait les corps spatiaux du voisinage. L’espace pénétré exerce aussi une influence d’antigravité sur la gravité physique ou linéaire ; l’espace peut effectivement neutraliser l’action de la gravité sans toutefois pouvoir la retarder._ ([LU 11:8.3](/fr/The_Urantia_Book/11#p8_3))
+> _L’espace ne répond pas à la gravité, mais il agit sur la gravité comme un équilibrant. Sans le coussin de l’espace, un effet explosif ébranlerait les corps spatiaux du voisinage. L’espace pénétré exerce aussi une influence d’antigravité sur la gravité physique ou linéaire ; l’espace peut effectivement neutraliser l’action de la gravité sans toutefois pouvoir la retarder._ (<a id="a101_379"></a>[LU 11:8.3](/fr/The_Urantia_Book/11#p8_3))
 
 Une fois de plus, des indices de convergences et de divergences apparaissent entre l’étude de ce qui est révélé et ce qui est envisagé par notre science en constante évolution et changement. Comme l’humanité et l’être humain lui-même, ils continuent d’être un « processus évolutif ».
 
@@ -89,3 +113,28 @@ Les nouvelles possibilités qui s'ouvrent avec l'étude des ondes gravitationnel
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'eugénisme pour notre époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-43-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 43 — mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Olga_Lopez">
+          <span class="pr-2">Questionnaire Urantien : Olga López</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

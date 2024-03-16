@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon paragraphe préféré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -69,3 +90,25 @@ Lo que quiero decir respecto a _El Libro de Urantia_ es que es una gran revelaci
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2021/09/27/cuestionario-urantiano-luis-coll
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Mi_parrafo_favorito">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon paragraphe préféré</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 María José Sánchez Santamaría<br>© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa">
+          <span class="pr-2">Questionnaire Urantien : Christian Figueroa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La sagesse se prosterne devant la fragilité
@@ -41,21 +65,21 @@ Nous pouvons tous nous reconnaître dans des situations dans lesquelles l'esprit
 
 Face à cette réalité, un être est arrivé sur notre planète il y a plus de deux mille ans et nous présente un discours et un style de vie surprenants, qui brisent les paradigmes de pensée séculaires et millénaires. Elle nous libère de cette récidive de la souffrance, elle nous sauve de nous-mêmes, en misant sur l'Amour :
 
-> Il n’est guère approprié de parler de Jésus comme d’un sacrificateur, d’un payeur de rançon ou d’un rédempteur, mais il est entièrement correct de l’appeler un *sauveur.* Il a définitivement rendu plus claire et plus certaine la voie du salut (de la survie) ; il a effectivement mieux montré et avec plus de sureté la voie du salut au bénéfice de tous les mortels de tous les mondes de l’univers de Nébadon. ([LU 188:4.7](/fr/The_Urantia_Book/188#p4_7))
+> Il n’est guère approprié de parler de Jésus comme d’un sacrificateur, d’un payeur de rançon ou d’un rédempteur, mais il est entièrement correct de l’appeler un *sauveur.* Il a définitivement rendu plus claire et plus certaine la voie du salut (de la survie) ; il a effectivement mieux montré et avec plus de sureté la voie du salut au bénéfice de tous les mortels de tous les mondes de l’univers de Nébadon. (<a id="a67_411"></a>[LU 188:4.7](/fr/The_Urantia_Book/188#p4_7))
 
 _Le Livre d'Urantia_ précise encore plus :
 
-> Tout ce concept d’expiation et de salut sacrificiel est enraciné dans l’égoïsme et fondé sur lui. Jésus enseigna que le *service* envers son prochain est le concept le plus élevé de la fraternité des croyants en l’esprit. Le salut doit être considéré comme acquis par ceux qui croient à la paternité de Dieu. La principale préoccupation des croyants ne devrait pas être le désir égoïste de salut personnel, mais plutôt le besoin désintéressé d’aimer leurs semblables, donc de les servir, de même que Jésus a aimé et servi les mortels. [LU 188:4.9](/fr/The_Urantia_Book/188#p4_9)
+> Tout ce concept d’expiation et de salut sacrificiel est enraciné dans l’égoïsme et fondé sur lui. Jésus enseigna que le *service* envers son prochain est le concept le plus élevé de la fraternité des croyants en l’esprit. Le salut doit être considéré comme acquis par ceux qui croient à la paternité de Dieu. La principale préoccupation des croyants ne devrait pas être le désir égoïste de salut personnel, mais plutôt le besoin désintéressé d’aimer leurs semblables, donc de les servir, de même que Jésus a aimé et servi les mortels. <a id="a71_537"></a>[LU 188:4.9](/fr/The_Urantia_Book/188#p4_9)
 > 
-> ...Le salut humain est *réel* ; il est basé sur deux réalités que les créatures peuvent saisir par la foi et incorporer ainsi dans l’expérience humaine individuelle : le fait de la paternité de Dieu et, la vérité corolaire, la fraternité des hommes. [LU 188:4.13](/fr/The_Urantia_Book/188#p4_13)
+> ...Le salut humain est *réel* ; il est basé sur deux réalités que les créatures peuvent saisir par la foi et incorporer ainsi dans l’expérience humaine individuelle : le fait de la paternité de Dieu et, la vérité corolaire, la fraternité des hommes. <a id="a73_252"></a>[LU 188:4.13](/fr/The_Urantia_Book/188#p4_13)
 
 Il est surprenant que quelqu'un nous informe que nous sommes ici, sur Terre, par Amour, par pure bonté d'un Père qui a pensé à nous et nous a fait exister. C'est merveilleux qu'ils nous expliquent ce que nous sentions déjà : tous les êtres humains ont la même origine, nous avons des liens qui nous unissent et nous frères, pour que nous puissions nous sentir accompagnés, accueillis et fraternels avec tous les habitants d'Urantia, nos semblables. personnes. Personne n’est vraiment un étranger mais un compagnon de voyage, même si certains compagnons nous paraissent répréhensibles et distants. En eux, précisément, se trouve le défi d'entrevoir aussi la main divine de leur origine, pour surmonter l'animosité, la haine, le ressentiment ou l'envie qu'ils suscitent en nous. Pouvons-nous atteindre une hauteur spirituelle comme celle que Jésus de Nazareth, notre Créateur et Frère, nous a montré dans sa vie ?
 
-> La croix montre pour toujours que l’attitude de Jésus envers les pécheurs n’était ni une condamnation ni une indulgence, mais plutôt la recherche éternelle et aimante de leur salut. Jésus est vraiment un sauveur en ce sens que sa vie et sa mort gagnent bel et bien les hommes à la bonté et à une survie dans la droiture. Jésus aime tellement les hommes que son amour éveille une réponse d’amour dans le cœur humain. L’amour est vraiment contagieux et éternellement créatif. La mort de Jésus sur la croix donne l’exemple d’un amour suffisamment fort et divin pour pardonner les péchés et engloutir toute malfaisance. ([LU 188:5.2](/fr/The_Urantia_Book/188#p5_2))
+> La croix montre pour toujours que l’attitude de Jésus envers les pécheurs n’était ni une condamnation ni une indulgence, mais plutôt la recherche éternelle et aimante de leur salut. Jésus est vraiment un sauveur en ce sens que sa vie et sa mort gagnent bel et bien les hommes à la bonté et à une survie dans la droiture. Jésus aime tellement les hommes que son amour éveille une réponse d’amour dans le cœur humain. L’amour est vraiment contagieux et éternellement créatif. La mort de Jésus sur la croix donne l’exemple d’un amour suffisamment fort et divin pour pardonner les péchés et engloutir toute malfaisance. (<a id="a77_619"></a>[LU 188:5.2](/fr/The_Urantia_Book/188#p5_2))
 
 > Le triomphe de la mort sur la croix est résumé dans l’esprit de l’attitude de Jésus envers ses agresseurs. Il fit de la croix un symbole éternel du triomphe de l’amour sur la haine et de la victoire de la vérité sur le mal quand il pria : « Père, pardonne-leur, car ils ne savent pas ce qu’ils font. » Cet amour dévoué fut contagieux dans tout un vaste univers ; les disciples le prirent de leur Maitre. Le tout premier instructeur de son évangile appelé à abandonner sa vie dans ce service fut lapidé à mort pendant qu’il disait : « Ne fais pas retomber sur eux la responsabilité de ce péché. »
 > 
-> La croix fait un suprême appel à ce qu’il y a de meilleur chez l’homme, parce qu’elle dévoile un être disposé à donner sa vie au service de ses semblables. Nul ne peut avoir de plus grand amour que d’être disposé à donner sa vie pour ses amis — et Jésus avait un tel amour qu’il était prêt à donner sa vie pour ses ennemis, un amour plus grand que tout ce que l’on avait connu jusque-là sur terre. ([LU 188:5.6-7](/fr/The_Urantia_Book/188#p5_6))
+> La croix fait un suprême appel à ce qu’il y a de meilleur chez l’homme, parce qu’elle dévoile un être disposé à donner sa vie au service de ses semblables. Nul ne peut avoir de plus grand amour que d’être disposé à donner sa vie pour ses amis — et Jésus avait un tel amour qu’il était prêt à donner sa vie pour ses ennemis, un amour plus grand que tout ce que l’on avait connu jusque-là sur terre. (<a id="a81_401"></a>[LU 188:5.6-7](/fr/The_Urantia_Book/188#p5_6))
 
 Cette petite réflexion sur notre Père Créateur et, bien sûr, Sauveur, et sa manière éblouissante et surprenante de se comporter nous vient à l'esprit à l'occasion de la célébration des prochaines vacances de Noël. Une excuse sociale qui peut nous aider à rafraîchir les lecteurs du _Livre d'Urantia_ sur le fait qu'un être merveilleux va nous naître, un être qui jouira des joies et des souffrances comme nous, qui sera fragile mais aussi extraordinairement puissant et, surtout , tout, un être imprégné d'Amour dans son comportement.
 
@@ -67,7 +91,7 @@ _Le Livre d'Urantia_ peut nous aider à faire cela. Voyons une anecdote sur sa n
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Editorial-dic-22-3.jpg" alt="Editorial dic 2022-3">
 </figure>
 
-> Ces prêtres de Mésopotamie avaient été informés, quelque temps auparavant, par un étrange éducateur religieux de leur pays, qu’il avait eu un songe dans lequel il avait été avisé de l’apparition prochaine de la « lumière de vie » sur la terre, sous la forme d’un nouveau-né, et parmi les Juifs. C’est là que se rendirent ces trois éducateurs cherchant cette « lumière de vie ». Après plusieurs semaines de vaines recherches à Jérusalem, ils allaient repartir pour Ur quand Zacharie les rencontra et leur révéla sa croyance que Jésus était l’objet de leur quête ; il les envoya à Bethléem où ils trouvèrent le bébé et laissèrent leurs présents à Marie, sa mère terrestre. L’enfant avait près de trois semaines au moment de leur visite. ([LU 122:8.6](/fr/The_Urantia_Book/122#p8_6))
+> Ces prêtres de Mésopotamie avaient été informés, quelque temps auparavant, par un étrange éducateur religieux de leur pays, qu’il avait eu un songe dans lequel il avait été avisé de l’apparition prochaine de la « lumière de vie » sur la terre, sous la forme d’un nouveau-né, et parmi les Juifs. C’est là que se rendirent ces trois éducateurs cherchant cette « lumière de vie ». Après plusieurs semaines de vaines recherches à Jérusalem, ils allaient repartir pour Ur quand Zacharie les rencontra et leur révéla sa croyance que Jésus était l’objet de leur quête ; il les envoya à Bethléem où ils trouvèrent le bébé et laissèrent leurs présents à Marie, sa mère terrestre. L’enfant avait près de trois semaines au moment de leur visite. (<a id="a93_738"></a>[LU 122:8.6](/fr/The_Urantia_Book/122#p8_6))
 
 Que pouvons-nous extraire de cette histoire bien connue ? Ces prêtres, ces « mages », représentent la recherche spirituelle de tous les peuples. Ce sont des païens, pas des juifs, qui font preuve d’une recherche incessante de la Vérité que beaucoup d’entre nous souhaitent trouver.
 
@@ -99,3 +123,28 @@ Bonne année 2023.
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/11/29/editorial-diciembre-2022/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Online_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida en ligne — décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Christian_Figueroa">
+          <span class="pr-2">Questionnaire Urantien : Christian Figueroa</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

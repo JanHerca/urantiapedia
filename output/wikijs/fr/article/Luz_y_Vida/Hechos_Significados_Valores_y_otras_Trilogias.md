@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Carmelo Martínez, Santiago Rodríguez, Antonio Moya, L. Coll<br>© 2011 Association Urantia d'Espagne</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuando_actua_el_Ajustador_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand l'Ajusteur de Pensée agit-il ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-27-décembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 27 — décembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="pr-2">Ni laïcité ni religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants :**
@@ -22,7 +46,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Concernant ces trilogies j'ai trouvé un autre paragraphe intéressant qui peut aider à clarifier les concepts ; Il s'agit de 196 :3.2. Il le dit :
 
-> « _Il n’y a que trois éléments dans la réalité universelle : le fait, l’idée et la relation. La conscience religieuse identifie ces réalités en tant que science, philosophie et vérité. La philosophie aurait tendance à considérer ces activités comme la raison, la sagesse et la foi — la réalité physique, la réalité intellectuelle et la réalité spirituelle. Nous avons l’habitude d’appeler ces réalités choses, significations et valeurs._ » ([LU 196:3.2](/fr/The_Urantia_Book/196#p3_2))
+> « _Il n’y a que trois éléments dans la réalité universelle : le fait, l’idée et la relation. La conscience religieuse identifie ces réalités en tant que science, philosophie et vérité. La philosophie aurait tendance à considérer ces activités comme la raison, la sagesse et la foi — la réalité physique, la réalité intellectuelle et la réalité spirituelle. Nous avons l’habitude d’appeler ces réalités choses, significations et valeurs._ » (<a id="a48_443"></a>[LU 196:3.2](/fr/The_Urantia_Book/196#p3_2))
 
 J'avoue que je ne suis pas très clair là-dessus, mais je vais néanmoins présenter quelques exemples pour ouvrir le débat. Je ne suis pas sûr mais c'est peut-être le cas :
 
@@ -126,7 +150,7 @@ Le matériel, le mental et le spirituel. On pourrait sûrement en ajouter quelqu
 
 Et ce paragraphe intermédiaire est très éclairant :
 
-> **Il n’y a que <ins>trois</ins> éléments dans la réalité universelle** : _le fait, l’idée et la relation. La conscience religieuse identifie ces réalités en tant que science, philosophie et vérité. La philosophie aurait tendance à considérer ces activités comme la raison, la sagesse et la foi — la réalité physique, la réalité intellectuelle et la réalité spirituelle. Nous avons l’habitude d’appeler ces réalités choses, significations et valeurs._ ([LU 196:3.2](/fr/The_Urantia_Book/196#p3_2))
+> **Il n’y a que <ins>trois</ins> éléments dans la réalité universelle** : _le fait, l’idée et la relation. La conscience religieuse identifie ces réalités en tant que science, philosophie et vérité. La philosophie aurait tendance à considérer ces activités comme la raison, la sagesse et la foi — la réalité physique, la réalité intellectuelle et la réalité spirituelle. Nous avons l’habitude d’appeler ces réalités choses, significations et valeurs._ (<a id="a152_454"></a>[LU 196:3.2](/fr/The_Urantia_Book/196#p3_2))
 
 Il y a les choses d’un côté (le Paradis) et les valeurs de l’autre côté (le Fils Éternel). Les significations (l'Esprit Infini) tentent de relier les choses aux valeurs et/ou vice versa.
 
@@ -138,11 +162,11 @@ Lorsque Dieu unifie ainsi une partie de la Réalité Manifestée (et exclut le P
 
 Lorsque nous parlons de vérité, de beauté et de bonté, ces paragraphes du livre me frappent :
 
-> _La vérité est surtout connue pour sa saveur spirituelle._ [LU 2:7.6](/fr/The_Urantia_Book/2#p7_6)
+> _La vérité est surtout connue pour sa saveur spirituelle._ <a id="a164_61"></a>[LU 2:7.6](/fr/The_Urantia_Book/2#p7_6)
 > 
-> _Toute vérité-matérielle, philosophique ou spirituelle à la fois belle et bonne. Toute beauté authentique – art matériel ou symétrie spirituelle – est à la fois vraie et bonne. Toute bonté authentique, qu'il s'agisse de moralité personnelle, d'équité sociale ou de ministère divin, est également vraie et belle._ [LU 2:7.11](/fr/The_Urantia_Book/2#p7_11)
+> _Toute vérité-matérielle, philosophique ou spirituelle à la fois belle et bonne. Toute beauté authentique – art matériel ou symétrie spirituelle – est à la fois vraie et bonne. Toute bonté authentique, qu'il s'agisse de moralité personnelle, d'équité sociale ou de ministère divin, est également vraie et belle._ <a id="a166_315"></a>[LU 2:7.11](/fr/The_Urantia_Book/2#p7_11)
 
-> _Vérité, beauté et bonté sont des réalités divines et, à mesure que l’homme monte la gamme de la vie spirituelle, ces qualités suprêmes de l’Éternel se coordonnent et s’unifient de plus en plus en Dieu, qui est amour._ ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> _Vérité, beauté et bonté sont des réalités divines et, à mesure que l’homme monte la gamme de la vie spirituelle, ces qualités suprêmes de l’Éternel se coordonnent et s’unifient de plus en plus en Dieu, qui est amour._ (<a id="a168_222"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 
 
@@ -174,9 +198,34 @@ Au cas où cela pourrait aider, voici ce texte du document 102, section 3 :
 > 
 > _Dans l’évolution, la religion amène souvent l’homme à créer ses concepts de Dieu. La révélation montre le phénomène de Dieu faisant évoluer l’homme lui-même, tandis que, dans la vie terrestre de Christ Micaël, nous voyons le phénomène de Dieu se révélant lui-même à l’homme. L’évolution tend à faire ressembler Dieu à l’homme ; la révélation tend à faire ressembler l’homme à Dieu._ 
 > 
-> _La science n’est satisfaite que par les causes premières, la religion, par la personnalité suprême et la philosophie, par l’unité. La révélation affirme que les trois sont un et que toutes sont bonnes. L’*éternel réel* est le bien de l’univers, et non les illusions temporelles du mal spatial. Dans l’expérience spirituelle de toutes les personnalités, il est toujours vrai que le réel est le bien et que le bien est le réel._ <a id="a199_414"></a>[LU 102:3.5-15](/es/The_Urantia_Book/102#p3_5)
+> _La science n’est satisfaite que par les causes premières, la religion, par la personnalité suprême et la philosophie, par l’unité. La révélation affirme que les trois sont un et que toutes sont bonnes. L’*éternel réel* est le bien de l’univers, et non les illusions temporelles du mal spatial. Dans l’expérience spirituelle de toutes les personnalités, il est toujours vrai que le réel est le bien et que le bien est le réel._ [LU 102:3.5-15](/es/The_Urantia_Book/102#p3_5)
 
 ## Références
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuando_actua_el_Ajustador_del_Pensamiento">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand l'Ajusteur de Pensée agit-il ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-27-décembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 27 — décembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="pr-2">Ni laïcité ni religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

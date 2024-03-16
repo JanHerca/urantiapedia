@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2016 Jan Herca, Santiago Rodríguez, Efraín Vivanco, Josep Bosch, Carmelo Martínez, Iván Înigo<br>© 2016 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_43_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 43 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-43-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 43 — mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
+          <span class="pr-2">L'eugénisme pour notre époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -33,7 +57,7 @@ http://www.elmundo.es/ciencia/2016/01/20/569fbdae268e3eab3f8b4596.html
 
 Nous sommes confrontés à une nouvelle aux proportions incroyables pour la communauté scientifique, non seulement à cause de la découverte elle-même, mais aussi à cause du type de planète qui a été découvert, qui détruit littéralement tout ce que l'on savait sur ce qu'était notre système solaire et comment il avait été. formé.
 
-Je recommande fortement de lire les sections [LU 57:5](/fr/The_Urantia_Book/57#p5) et [LU 57:6](/fr/The_Urantia_Book/57#p6) du livre, car l'une des choses que j'entends depuis longtemps de la part des détracteurs du livre est que certaines parties de son matériel scientifique sont des erreurs évidentes. Le livre indique clairement que le système solaire comptait à l’origine douze planètes et qu’il a même volé trois autres planètes à un autre système solaire voisin (le véritable coupable de la formation du nôtre). Pendant longtemps, ce chiffre ne correspondait pas au maximum de huit/neuf planètes découvertes par la science.
+Je recommande fortement de lire les sections <a id="a59_45"></a>[LU 57:5](/fr/The_Urantia_Book/57#p5) et <a id="a59_86"></a>[LU 57:6](/fr/The_Urantia_Book/57#p6) du livre, car l'une des choses que j'entends depuis longtemps de la part des détracteurs du livre est que certaines parties de son matériel scientifique sont des erreurs évidentes. Le livre indique clairement que le système solaire comptait à l’origine douze planètes et qu’il a même volé trois autres planètes à un autre système solaire voisin (le véritable coupable de la formation du nôtre). Pendant longtemps, ce chiffre ne correspondait pas au maximum de huit/neuf planètes découvertes par la science.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV43/02.jpg">
@@ -103,7 +127,7 @@ Bien souvent, le problème de la comparaison des informations scientifiques du _
 
 La définition d'une planète faite par l'AIU (Union Astronomique Internationale), à ne pas confondre avec l'AIU (International Urantia Association) et les doutes et changements peuvent être vus ici https://es.wikipedia.org/wiki/Redefinici%C3%B3n_de_planeta_de_2006.
 
-La chose la plus proche d'une définition d'une planète que nous pouvons trouver dans _Le Livre d'Urantia_ est en [LU 15:6.14](/fr/The_Urantia_Book/15#p6_14).
+La chose la plus proche d'une définition d'une planète que nous pouvons trouver dans _Le Livre d'Urantia_ est en <a id="a129_113"></a>[LU 15:6.14](/fr/The_Urantia_Book/15#p6_14).
 
 Si les définitions ne coïncident pas, la classification des sphères peut parfaitement être différente sans que les informations soient contradictoires.
 
@@ -111,9 +135,9 @@ Le système solaire est ce qu'il est, et les développeurs le connaissent « de 
 
 Ce qu’il y a de transcendant dans cette découverte, à mon humble avis, c’est qu’elle marque (encore une fois) une ligne. Ceux qui voient une contradiction entre la science et _Le Livre d'Urantia_ devraient être plus prudents et accepter que la science humaine est un sujet en développement et que, qu'ils croient ou non à la véracité de ce que nous dit le livre, de nouvelles découvertes peuvent être attendues. bouleverser", ou du moins réfuter ou nuancer, certaines vérités acceptées (même comme absolues) à un moment donné.
 
-Nous, lecteurs, ne devrions pas non plus nous enthousiasmer trop. _Le Livre d'Urantia_ n'est pas un livre scientifique, et ceux qui espèrent être convaincus de sa vérité par ses informations scientifiques ont du mal. En ce sens, cela ne fait pas de mal de relire le [sección 4 del documento 101](/fr/The_Urantia_Book/101#p4). Comme certains d’entre vous l’ont dit, ce qui convainc (et transforme) le livre, c’est l’expérience personnelle, qui consiste essentiellement à découvrir le Père en nous.
+Nous, lecteurs, ne devrions pas non plus nous enthousiasmer trop. _Le Livre d'Urantia_ n'est pas un livre scientifique, et ceux qui espèrent être convaincus de sa vérité par ses informations scientifiques ont du mal. En ce sens, cela ne fait pas de mal de relire le <a id="a137_266"></a>[sección 4 del documento 101](/fr/The_Urantia_Book/101#p4). Comme certains d’entre vous l’ont dit, ce qui convainc (et transforme) le livre, c’est l’expérience personnelle, qui consiste essentiellement à découvrir le Père en nous.
 
-P.S. Au fait, Josep, tu peux lire dans le paragraphe [LU 57:6.5](/fr/The_Urantia_Book/57#p6_5) que la ceinture d'astéroïdes était à l'origine une planète, la cinquième de Monmatia.
+P.S. Au fait, Josep, tu peux lire dans le paragraphe <a id="a139_53"></a>[LU 57:6.5](/fr/The_Urantia_Book/57#p6_5) que la ceinture d'astéroïdes était à l'origine une planète, la cinquième de Monmatia.
 
 ## Jan
 
@@ -143,3 +167,28 @@ J'ai lu les informations et est-ce une planète gazeuse ? Je pense que ça veut 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_43_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 43 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-43-mars-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 43 — mars 2016 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Carrera_and_Santiago_Flores/Eugenesia_para_estos_tiempos">
+          <span class="pr-2">L'eugénisme pour notre époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

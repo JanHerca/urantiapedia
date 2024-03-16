@@ -9,17 +9,41 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Mariano Pérez<br>© 2012 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Las_presentaciones_del_XI_Encuentro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les présentations de la XIème Rencontre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-29-juin-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 29 — juin 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Si_no_soy_yo_quien">
+          <span class="pr-2">Si ce n'est pas moi... qui ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 OPPORTUNITÉ DE VÉRIFIER LA FRATERNITÉ MONDIALE DU MOUVEMENT DU LIVRE D'URANTIA.
 
-> « _...Le religioniste sincère est conscient d’être un citoyen de l’univers et se rend compte qu’il établit un contact avec des sources de pouvoir suprahumain. Il est exalté et stimulé par l’assurance qu’il appartient à une fraternité supérieure et ennoblie de fils de Dieu...._ » ([LU 100:6.3](/fr/The_Urantia_Book/100#p6_3))
+> « _...Le religioniste sincère est conscient d’être un citoyen de l’univers et se rend compte qu’il établit un contact avec des sources de pouvoir suprahumain. Il est exalté et stimulé par l’assurance qu’il appartient à une fraternité supérieure et ennoblie de fils de Dieu...._ » (<a id="a39_283"></a>[LU 100:6.3](/fr/The_Urantia_Book/100#p6_3))
 
 CONDUITE, ATTITUDE, ENGAGEMENT DES PARTICIPANTS AVANT LA 5ÈME RÉVÉLATION. PRESQUE TOUS LES PARTICIPANTS ONT DÉVELOPPÉ QUELQUES TRAVAUX POUR APPORTER À LA CONNAISSANCE DU LIVRE ET DE SES ENSEIGNEMENTS.
 
-> « _Le moi s’est abandonné à la mystérieuse poussée d’un mobile qui englobe tout, qui impose une autodiscipline accrue, atténue les conflits émotifs et rend la vie humaine vraiment digne d’être vécue. ..._ » ([LU 100:6.4](/fr/The_Urantia_Book/100#p6_4))
+> « _Le moi s’est abandonné à la mystérieuse poussée d’un mobile qui englobe tout, qui impose une autodiscipline accrue, atténue les conflits émotifs et rend la vie humaine vraiment digne d’être vécue. ..._ » (<a id="a43_210"></a>[LU 100:6.4](/fr/The_Urantia_Book/100#p6_4))
 
-> « _La religion n’est pas une technique pour obtenir une paix mentale statique et sereine ; c’est une impulsion destinée à organiser l’âme pour un service dynamique. C’est l’enrôlement de la totalité de l’individualité dans une allégeance pour aimer Dieu et servir les hommes. ..._ » ([LU 100:3.1](/fr/The_Urantia_Book/100#p3_1))
+> « _La religion n’est pas une technique pour obtenir une paix mentale statique et sereine ; c’est une impulsion destinée à organiser l’âme pour un service dynamique. C’est l’enrôlement de la totalité de l’individualité dans une allégeance pour aimer Dieu et servir les hommes. ..._ » (<a id="a45_286"></a>[LU 100:3.1](/fr/The_Urantia_Book/100#p3_1))
 
 Pour moi, le Chicago Leadership Symposium a été la plus grande manifestation d'âmes fidèles aux objectifs et aux principes des développeurs. Ils nous ont sûrement observés avec satisfaction, convaincus que les graines qu’ils ont semées dans la ville de Chicago au cours des premières décennies du siècle dernier portaient leurs fruits. Mais il serait injuste de faire l’éloge de cette rencontre à l’échelle mondiale et de dénigrer tout autre type d’événement lié à la 5ème révélation.
 
@@ -35,9 +59,9 @@ Mais ceux qui n’appartiennent à aucun groupe d’étude peuvent se demander :
 
 Tout d’abord, pour répondre à cette question, il faudrait demander à celui qui pense ainsi : Veux-tu faire la volonté du Père ? Voulez-vous devenir comme Lui ? Il vous faudra alors développer une de leurs qualités amoureuses : PARTAGER.
 
-> « _La personnalité divine n’est pas centrée sur elle-même ; la distribution d’elle-même et le partage de la personnalité caractérisent l’individualité du libre arbitre divin. Les créatures cherchent à s’associer avec d’autres créatures personnelles ; les Créateurs sont incités à partager la divinité avec les enfants de leur univers ; la personnalité de l’Infini se révèle en tant que Père Universel partageant la réalité d’être et l’égalité du moi avec deux personnalités coordonnées, le Fils Éternel et l’Acteur Conjoint._ » ([LU 10:1.3](/fr/The_Urantia_Book/10#p1_3))
+> « _La personnalité divine n’est pas centrée sur elle-même ; la distribution d’elle-même et le partage de la personnalité caractérisent l’individualité du libre arbitre divin. Les créatures cherchent à s’associer avec d’autres créatures personnelles ; les Créateurs sont incités à partager la divinité avec les enfants de leur univers ; la personnalité de l’Infini se révèle en tant que Père Universel partageant la réalité d’être et l’égalité du moi avec deux personnalités coordonnées, le Fils Éternel et l’Acteur Conjoint._ » (<a id="a61_531"></a>[LU 10:1.3](/fr/The_Urantia_Book/10#p1_3))
 
-> « _Les ascendeurs morontiens apprennent à rendre sociaux leurs désirs purement personnels et leurs ambitions égoïstes de jadis._ » ([LU 44:8.4](/fr/The_Urantia_Book/44#p8_4))
+> « _Les ascendeurs morontiens apprennent à rendre sociaux leurs désirs purement personnels et leurs ambitions égoïstes de jadis._ » (<a id="a63_134"></a>[LU 44:8.4](/fr/The_Urantia_Book/44#p8_4))
 
 Le partage est sans aucun doute une vertu ou une qualité divine, et lorsqu’il s’agit de partager la connaissance de la révélation de la Vérité, même s’il s’agit d’une Vérité partielle, ils font de cet acte un acte suprême. Mais pas seulement par le simple fait de partager, ce qui est déjà positif en soi, mais parce que dans les groupes d'étude, dans leurs réunions, nous apprenons tous les uns des autres. Le livre est véritablement étudié, analysé, des opinions et différents points de vue sont échangés, ce qui nous fait nous enrichir des autres. Au cours de mon parcours à travers le groupe d’étude auquel j’appartiens, j’ai vérifié à plusieurs reprises ce que je viens de dire. Par exemple : j'avais ma propre idée sur n'importe quel concept ou phrase du livre, et après avoir écouté les différentes interventions, j'ai changé ma façon de voir l'idée que j'avais préconçue, ou je l'ai même comprise parce que je ne la comprenais pas. eh bien, ou dans d'autres cas, j'ai développé.
 
@@ -69,3 +93,28 @@ En ce sens, le Leadership Symposium, (ce mot est parfois mal interprété), est 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Las_presentaciones_del_XI_Encuentro">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les présentations de la XIème Rencontre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-29-juin-2012">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 29 — juin 2012 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Si_no_soy_yo_quien">
+          <span class="pr-2">Si ce n'est pas moi... qui ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

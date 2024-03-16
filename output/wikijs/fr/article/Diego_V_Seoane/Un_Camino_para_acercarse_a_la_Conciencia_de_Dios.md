@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Diego V. Seoane<br>© 2006 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton et la Voie lactée - Partie 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-7-décembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 7 — décembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Alberto_Wonsover/La_Aventura_de_Vivir">
+          <span class="pr-2">L'aventure de vivre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au nom de Dieu, le Compatissant, le Miséricordieux ! Louez Dieu, Seigneur des Univers.
@@ -77,3 +101,28 @@ La paix de Dieu soit avec vous.
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton et la Voie lactée - Partie 2</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-7-décembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 7 — décembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_Alberto_Wonsover/La_Aventura_de_Vivir">
+          <span class="pr-2">L'aventure de vivre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2022 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -71,13 +92,35 @@ Je crois que _Le Livre d'Urantia_ n'est pas pour tout le monde, du moins le livr
 
 Je souhaite partager trois citations qui font désormais partie de moi et de ma vision, et qui peuvent également être utiles aux autres :
 
-> la vérité n’a rien à craindre d’un examen honnête. ([LU 153:2.11](/fr/The_Urantia_Book/153#p2_11))
+> la vérité n’a rien à craindre d’un examen honnête. (<a id="a94_54"></a>[LU 153:2.11](/fr/The_Urantia_Book/153#p2_11))
 
-> Mais le fétiche de la vérité factualisée, de la vérité fossilisée, le lien de fer de la vérité dite invariable, vous maintient aveuglément dans un cercle vicieux de faits bruts. On peut avoir techniquement raison sur les faits et éternellement tort sur la vérité. ([LU 48:6.33](/fr/The_Urantia_Book/48#p6_33))
+> Mais le fétiche de la vérité factualisée, de la vérité fossilisée, le lien de fer de la vérité dite invariable, vous maintient aveuglément dans un cercle vicieux de faits bruts. On peut avoir techniquement raison sur les faits et éternellement tort sur la vérité. (<a id="a96_267"></a>[LU 48:6.33](/fr/The_Urantia_Book/48#p6_33))
 
-> Jésus amenait les hommes à se sentir chez eux dans le monde ; il les délivrait de l’esclavage des tabous et leur enseignait que le monde n’est pas fondamentalement mauvais. Il n’aspirait pas à échapper à sa vie terrestre. Durant sa vie dans la chair, il maitrisa une technique pour faire la volonté de son Père d’une manière qui fut convenable. Il atteignit une vie religieuse idéaliste au milieu d’un monde réaliste. Jésus ne partageait pas le point de vue pessimiste de Paul sur l’humanité. Le Maitre considérait les hommes comme fils de Dieu et prévoyait un avenir éternel et magnifique pour tous ceux qui choisiraient de survivre. Il n’était pas un sceptique moral ; il regardait l’homme positivement et non négativement. Il considérait la plupart des hommes comme faibles plutôt que mauvais, désaxés plutôt que dépravés. Mais quel que fût leur statut, ils étaient tous les enfants de Dieu et ses frères. ([LU 196:2.9](/fr/The_Urantia_Book/196#p2_9))
+> Jésus amenait les hommes à se sentir chez eux dans le monde ; il les délivrait de l’esclavage des tabous et leur enseignait que le monde n’est pas fondamentalement mauvais. Il n’aspirait pas à échapper à sa vie terrestre. Durant sa vie dans la chair, il maitrisa une technique pour faire la volonté de son Père d’une manière qui fut convenable. Il atteignit une vie religieuse idéaliste au milieu d’un monde réaliste. Jésus ne partageait pas le point de vue pessimiste de Paul sur l’humanité. Le Maitre considérait les hommes comme fils de Dieu et prévoyait un avenir éternel et magnifique pour tous ceux qui choisiraient de survivre. Il n’était pas un sceptique moral ; il regardait l’homme positivement et non négativement. Il considérait la plupart des hommes comme faibles plutôt que mauvais, désaxés plutôt que dépravés. Mais quel que fût leur statut, ils étaient tous les enfants de Dieu et ses frères. (<a id="a98_912"></a>[LU 196:2.9](/fr/The_Urantia_Book/196#p2_9))
 
 ## Références
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/2022/11/29/cuestionario-urantiano-christian-figueroa
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2022_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Éditorial Luz y Vida – décembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

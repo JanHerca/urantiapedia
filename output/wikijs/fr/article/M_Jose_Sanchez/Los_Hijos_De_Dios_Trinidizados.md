@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 M. José Sánchez<br>© 2005 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Xavier_Francisco/Los_Siete_Superuniversos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Superunivers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="pr-2">Les Mondes d'Estancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -52,7 +76,7 @@ En tant qu'humanité, nous devons évoluer à tous les niveaux : matériel, inte
 
 Dans ces conditions, il est inévitable de remettre en question la nature du mal et son existence. Le Livre fait clairement la distinction entre le mal injustifié et le mal délibéré. C'est un fait que le mal nous fait apprendre. Rien n'arrive en vain. Les Puissants Messagers étaient des mortels venus de mondes en rébellion, ils sont donc un exemple vivant que chaque expérience est utilisée pour donner naissance à un bien plus grand et (bien sûr) meilleur.
 
-On rappelle ici les « inévitabilités » de [LU 3:5.5](/fr/The_Urantia_Book/3#p5_5). Comment pourrions-nous grandir sans le libre arbitre ? Nous avons besoin de pouvoir choisir. À tout moment, nous ne pouvons pas assumer les responsabilités des autres, mais les nôtres. C’est la nécessité, et non le bien-être, qui aiguise notre ingéniosité.
+On rappelle ici les « inévitabilités » de <a id="a78_42"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5). Comment pourrions-nous grandir sans le libre arbitre ? Nous avons besoin de pouvoir choisir. À tout moment, nous ne pouvons pas assumer les responsabilités des autres, mais les nôtres. C’est la nécessité, et non le bien-être, qui aiguise notre ingéniosité.
 
 En nous comparant aux êtres de Havona, nous pouvons affirmer qu'ils sont parfaits pour l'amour **de** Dieu, et les mortels ascendants seront parfaits pour l'amour **de** Dieu.
 
@@ -60,3 +84,28 @@ En nous comparant aux êtres de Havona, nous pouvons affirmer qu'ils sont parfai
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Xavier_Francisco/Los_Siete_Superuniversos">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Sept Superunivers</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-1-mai-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 1 — mai 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rafael_Mondejar/Los_Mundos_De_Estancia">
+          <span class="pr-2">Les Mondes d'Estancia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

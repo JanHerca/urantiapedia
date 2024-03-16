@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 Olga López, pour la traduction<br>© 2006 Association Urantia d'Espagne </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton et la Voie lactée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-6-septembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 6 — septembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Mas_Alla_de_las_Matematicas">
+          <span class="pr-2">Au-delà des mathématiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous avons choisi de parler de Dieu l'Absolu, puisque la compréhension relative que nous pouvons atteindre se réfère aux concepts mentaux les plus difficiles du _Livre d'Urantia_. Nous sommes conscients que l'esprit humain est limité et fini, mais notre objectif évolutif n'est-il pas d'atteindre les limites supérieures de la perfection ? N'est-ce pas ce même objectif que nous nous sommes fixé qui nous permet d'expérimenter et d'actualiser notre divinité potentielle et imparfaite dans le Suprême ?
@@ -69,3 +93,28 @@ Publié dans le numéro 34 du bulletin d'information de l'AFFLU « Le Lien Urant
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Orvonton_y_La_Via_Lactea_1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Orvonton et la Voie lactée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-6-septembre-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 6 — septembre 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Mas_Alla_de_las_Matematicas">
+          <span class="pr-2">Au-delà des mathématiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

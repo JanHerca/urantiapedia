@@ -60,7 +60,7 @@ _Vous devez avancer d'où vous vous trouvez._
 <img src="/image/article/UF_News_Online/2007_12/038.jpg">
 </figure>
 
-_« Vous êtes de Dieu, parce que quiconque demeure dans l’amour demeure en Dieu et Dieu en lui. »_ _Le Livre d'Urantia_, page 45 <a id="a41_128"></a>[LU 3:1.5](/fr/The_Urantia_Book/3#p1_5)
+_« Vous êtes de Dieu, parce que quiconque demeure dans l’amour demeure en Dieu et Dieu en lui. »_ _Le Livre d'Urantia_, page 45 <a id="a62_128"></a>[LU 3:1.5](/fr/The_Urantia_Book/3#p1_5)
 
 <br style="clear:both;"/>
 

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Ernesto Veloso<br>© 2009 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_mente_segun_la_revelacion_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'esprit selon la révélation (deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-16-février-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 16 — février 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/La_alquimia_de_la_creacion">
+          <span class="pr-2">L'alchimie de la création</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a toujours un début, un moment où l’on se demande pour la première fois : quel est le sens de la vie ? D'où je viens? Qui suis-je et où vais-je ? Qu'est-ce qui m'attend à la fin de cette chose que nous appelons la vie ? Je me suis posé ces questions un soir alors que je me promenais seul dans une rue déserte de ma ville. Je n'ai eu aucune réponse ce soir-là et je pensais vraiment que je n'en aurais jamais. Le mystère de l’inconnu m’a enveloppé d’un manteau de peur et de désespoir, car quel avenir peut-il y avoir pour l’homme qui marche dans la vie, séparé de la connaissance de Dieu ? Un tel homme est non seulement orphelin d’espoir, il est également orphelin du présent et de toute perspective de réalité cosmique.
@@ -36,3 +60,28 @@ Mais comprendrons-nous tout ou saurons-nous tout ? Viendra-t-il le temps où l�
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/La_mente_segun_la_revelacion_2a_parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'esprit selon la révélation (deuxième partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-16-février-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 16 — février 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/La_alquimia_de_la_creacion">
+          <span class="pr-2">L'alchimie de la création</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

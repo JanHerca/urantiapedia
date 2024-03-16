@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Ernesto Veloso<br>© 2008 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_3a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur le nombre de survivants (dernière partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-14-septembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 14 — septembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_1">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Survivre est une idée qui m’a toujours occupé l’esprit, avant même de connaître l’Évangile de Jésus, car en réalité, si tout se terminait par la mort, la vie serait non seulement absurde mais même cruelle. Mais je crois que le miracle n'est pas dans la continuité mais dans notre existence même. Être ici est le vrai miracle et, si je vis aujourd'hui, pourquoi ne vivrais-je pas demain ? Jésus a démontré l'erreur de la mort, sa résurrection est notre garantie, mais survivrons-nous tous ?
@@ -25,7 +49,7 @@ Maintenant, je me demande : si la doctrine du salut universel est vraie, quel av
 
 Toutes les religions sérieuses nous mettent en garde contre la possibilité d’une perte d’âme. D’un autre côté, si le véritable libre arbitre existe, cela signifie que l’homme peut décider comment l’utiliser, que ce soit pour le bien ou pour le mal. Dieu ne condamne pas l'homme ; C'est l'homme, par ses actions, qui choisit de se sauver ou de se perdre.
 
-Pour terminer mon idée, je veux le faire avec une citation trouvée dans le document 49, [LU 49:6.7](/fr/The_Urantia_Book/49#p6_7) : «_C’est ainsi que les survivants endormis d’une ère planétaire sont repersonnalisés lors des appels dispensationnels. Quant aux personnalités non récupérables d’un royaume, le fait que nul esprit immortel ne soit présent pour agir conjointement avec les gardiens collectifs de la destinée constitue la cessation de leur existence de créatures_.» Cela signifie clairement qu’il y a des gens qui vont se perdre. En bref, pour que le véritable libre arbitre existe, l'homme doit potentiellement avoir la possibilité de choisir, à la fois de survivre et de se perdre car, si nous voulons tous survivre, ce libre arbitre serait un mythe et l'homme serait condamné à survivre. 
+Pour terminer mon idée, je veux le faire avec une citation trouvée dans le document 49, <a id="a51_88"></a>[LU 49:6.7](/fr/The_Urantia_Book/49#p6_7) : «_C’est ainsi que les survivants endormis d’une ère planétaire sont repersonnalisés lors des appels dispensationnels. Quant aux personnalités non récupérables d’un royaume, le fait que nul esprit immortel ne soit présent pour agir conjointement avec les gardiens collectifs de la destinée constitue la cessation de leur existence de créatures_.» Cela signifie clairement qu’il y a des gens qui vont se perdre. En bref, pour que le véritable libre arbitre existe, l'homme doit potentiellement avoir la possibilité de choisir, à la fois de survivre et de se perdre car, si nous voulons tous survivre, ce libre arbitre serait un mythe et l'homme serait condamné à survivre. 
 
 C'est mon modeste critère. Je me trompe peut-être, mais cela fait aussi partie du plan universel.
 
@@ -38,3 +62,28 @@ C'est mon modeste critère. Je me trompe peut-être, mais cela fait aussi partie
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Mas_Sobre_Cuantos_Sobreviven_3a_Parte">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur le nombre de survivants (dernière partie)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-14-septembre-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 14 — septembre 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_1">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

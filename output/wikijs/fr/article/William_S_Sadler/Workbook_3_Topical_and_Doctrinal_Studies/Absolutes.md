@@ -31,13 +31,13 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	4. L'Ile du Paradis.
 	5. L'Absolu de Déité.
 	6. L'absolu universel.
-	7. L'absolu non qualifié. <a id="s34_27"></a>[LU 104:3.5](/fr/The_Urantia_Book/104#p3_5)
-2. _L'Absolu de Déité_ est l'activateur tout-puissant. <a id="s35_55"></a>[LU 0:11.4](/fr/The_Urantia_Book/0#p11_4)
-3. _L'Absolu Non Qualifié_ est non personnel, extradivin et non déifié. <a id="s36_72"></a>[LU 0:11.7](/fr/The_Urantia_Book/0#p11_7) Il domine le paradis inférieur et soutient l'univers physique. <a id="s36_177"></a>[LU 11:2.8](/fr/The_Urantia_Book/11#p1_2)
-4. _L'Absolu Universel_ égalise les tensions entre : le fini et l'infini ; potentiels et réels ; Paradis et espace; le temps et l'éternité ; l'homme et Dieu. <a id="s37_158"></a>[LU 0:11.13](/fr/The_Urantia_Book/0#p11_13)
-5. La Source-Centre Première est l'Absolu volitif; la Source-Centre Seconde, la Personnalité Absolue. <a id="s38_102"></a>[LU 6:1.2](/fr/The_Urantia_Book/6#p1_2)
-6. La Source-Centre Première est la réalité absolue qui embrasse tous les potentiels et donne origine à tous les actuels. <a id="s39_122"></a>[LU 115:3.6](/fr/The_Urantia_Book/115#p3_6)
-7. Les Absolus de potentialité opèrent au niveau éternel du cosmos. Aux niveaux subabsolus, le Suprême et l'Ultime fonctionnent. <a id="s40_129"></a>[LU 115:3.13](/fr/The_Urantia_Book/115#p3_13)
+	7. L'absolu non qualifié. <a id="s33_27"></a>[LU 104:3.5](/fr/The_Urantia_Book/104#p3_5)
+2. _L'Absolu de Déité_ est l'activateur tout-puissant. <a id="s34_55"></a>[LU 0:11.4](/fr/The_Urantia_Book/0#p11_4)
+3. _L'Absolu Non Qualifié_ est non personnel, extradivin et non déifié. <a id="s35_72"></a>[LU 0:11.7](/fr/The_Urantia_Book/0#p11_7) Il domine le paradis inférieur et soutient l'univers physique. <a id="s35_177"></a>[LU 11:2.8](/fr/The_Urantia_Book/11#p1_2)
+4. _L'Absolu Universel_ égalise les tensions entre : le fini et l'infini ; potentiels et réels ; Paradis et espace; le temps et l'éternité ; l'homme et Dieu. <a id="s36_158"></a>[LU 0:11.13](/fr/The_Urantia_Book/0#p11_13)
+5. La Source-Centre Première est l'Absolu volitif; la Source-Centre Seconde, la Personnalité Absolue. <a id="s37_102"></a>[LU 6:1.2](/fr/The_Urantia_Book/6#p1_2)
+6. La Source-Centre Première est la réalité absolue qui embrasse tous les potentiels et donne origine à tous les actuels. <a id="s38_122"></a>[LU 115:3.6](/fr/The_Urantia_Book/115#p3_6)
+7. Les Absolus de potentialité opèrent au niveau éternel du cosmos. Aux niveaux subabsolus, le Suprême et l'Ultime fonctionnent. <a id="s39_129"></a>[LU 115:3.13](/fr/The_Urantia_Book/115#p3_13)
 
 
 <br>

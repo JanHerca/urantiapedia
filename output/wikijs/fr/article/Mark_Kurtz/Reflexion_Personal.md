@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Mark Kurtz<br>© 2010 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/El_Sol_Verdadero_Poema">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Vrai Soleil (Poème)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-22-août-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 22 — août 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Nueva_Edicion_Europea">
+          <span class="pr-2">Le Mouvement Urantia en Espagne avec la nouvelle édition européenne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’enquête « Réflexion personnelle : vrai, faux ou « je ne sais pas » » se veut un outil d’enquête personnelle sur l’âme, pour ainsi dire. L'intimité et la singularité de chaque personne qui répond à l'enquête sont respectées, c'est-à-dire sa relation personnelle avec sa conception du Suprême (Dieu, Yahweh, Brahma, etc.). L'enquête se veut neutre vis-à-vis de la religion. Personne n’est invité à soumettre des résultats ou à partager ses réponses, même si vous pouvez le faire si vous le souhaitez.
@@ -72,3 +96,28 @@ Choisissez une option (Vrai, Faux, je ne sais pas)
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/El_Sol_Verdadero_Poema">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Vrai Soleil (Poème)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-22-août-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 22 — août 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Nueva_Edicion_Europea">
+          <span class="pr-2">Le Mouvement Urantia en Espagne avec la nouvelle édition européenne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

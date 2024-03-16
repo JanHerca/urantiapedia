@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="pr-2">Éditorial Luz y Vida – février 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -218,13 +239,13 @@ Romualdo Soler González
 Un personnage qui me fascine dans _Le Livre d'Urantia_ est le jeune Indien Ganid. Je me sens très identifié à lui car je le vois émerveillé par ce qu'il découvre de ses conversations avec Jésus. Je le vois s'efforcer de suivre ses enseignements, certains qu'il comprend tout de suite et d'autres qu'il trouve difficiles. Et plusieurs de ses «  conclusions  » de ces discussions consistent à parler de ses pairs et de la manière dont, selon lui, ils devraient être traités. En voici quelques-uns tirés du paragraphe 131 : 10.1 :
 
 
-> « Bien que nous ne puissions voir Dieu, nous pouvons le connaitre. En vivant quotidiennement la volonté du Père qui est aux cieux, nous pouvons le révéler à nos semblables. ([LU 131:10.2](/fr/The_Urantia_Book/131#p10_2))
+> « Bien que nous ne puissions voir Dieu, nous pouvons le connaitre. En vivant quotidiennement la volonté du Père qui est aux cieux, nous pouvons le révéler à nos semblables. (<a id="a241_176"></a>[LU 131:10.2](/fr/The_Urantia_Book/131#p10_2))
 
-> « ... c’est-à-dire que je ferai de mon mieux pour traiter chacun de mes compagnons mortels exactement comme je pense que Dieu aimerait le voir traité. ... ; il satisfera le désir de notre cœur afin que nous soyons d’autant mieux préparés à servir nos compagnons. ([LU 131:10.5](/fr/The_Urantia_Book/131#p10_5))
+> « ... c’est-à-dire que je ferai de mon mieux pour traiter chacun de mes compagnons mortels exactement comme je pense que Dieu aimerait le voir traité. ... ; il satisfera le désir de notre cœur afin que nous soyons d’autant mieux préparés à servir nos compagnons. (<a id="a243_266"></a>[LU 131:10.5](/fr/The_Urantia_Book/131#p10_5))
 
-> « Je ferai à mes semblables tout ce que je voudrais que l’on me fasse. Je sais, par cette nouvelle foi, que l’homme peut devenir fils de Dieu, mais je suis parfois terrifié en pensant que tous les hommes sont mes frères, et pourtant cela doit être vrai. Je ne vois pas la possibilité de me réjouir de la paternité de Dieu si je refuse d’accepter la fraternité des hommes. ([LU 131:10.7](/fr/The_Urantia_Book/131#p10_7))
+> « Je ferai à mes semblables tout ce que je voudrais que l’on me fasse. Je sais, par cette nouvelle foi, que l’homme peut devenir fils de Dieu, mais je suis parfois terrifié en pensant que tous les hommes sont mes frères, et pourtant cela doit être vrai. Je ne vois pas la possibilité de me réjouir de la paternité de Dieu si je refuse d’accepter la fraternité des hommes. (<a id="a245_375"></a>[LU 131:10.7](/fr/The_Urantia_Book/131#p10_7))
 
-> « Je ne jugerai pas, pour éviter d’être injuste envers mes semblables. » ([LU 131:10.8](/fr/The_Urantia_Book/131#p10_8))
+> « Je ne jugerai pas, pour éviter d’être injuste envers mes semblables. » (<a id="a247_76"></a>[LU 131:10.8](/fr/The_Urantia_Book/131#p10_8))
 
 
 C'est une excellente façon d'accomplir la volonté du Père : révéler Dieu, considérer les autres comme vos frères et sœurs, les traiter avec amour. Et quelque chose de très important : ne jugez pas votre frère ou votre sœur. Chaque être humain choisit sa vie et a toutes les raisons de le faire. Mais ces « raisons » ne sont connues de personne, sauf de cette personne en particulier et du Père céleste.
@@ -311,3 +332,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-febrero-2023/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-février-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — février 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_02">
+          <span class="pr-2">Éditorial Luz y Vida – février 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

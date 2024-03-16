@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Mariano Pérez<br>© 2007 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_11_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 11 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-11-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 11 — décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuantos_Sobreviven">
+          <span class="pr-2">Combien survivent ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Chers amis : il y a quelques mois, cinq membres du groupe d'étude de Madrid ont eu la chance (et je suis convaincu que ce fut aussi la chance) de voyager en Israël, que d'autres appellent aussi la « Terre Sainte ». Ce fut un voyage court mais intense, et à la fin, nous en voulions tous plus. Il y a eu plusieurs types d'expériences : d'une part, connaître de première main le problème politique et social, en grande partie grâce à notre guide ; D'autre part, voyez la coexistence des différentes cultures et religions du pays qui, même si cela peut paraître incroyable, coexistent en paix, au niveau de la citoyenneté, chacune dans le respect des autres. Ce fut également une expérience enrichissante en termes de connaissance géographique du territoire. Voir les lieux où notre Souverain Miguel de Nébadon a sans aucun doute vécu nous a fait vivre tout cela avec beaucoup plus d'intensité.
@@ -37,7 +61,7 @@ La sélection est la suivante :
 
 ## Annonciation de Gabriel à Marie
 
-La tradition chrétienne ne semble pas identifier le lieu où a eu lieu l'annonciation avec la maison de la famille de Jésus ; Ce dernier n’apparaît tout simplement nulle part à notre connaissance. Si nous nous en tenons au LU, nous concluons que les deux endroits sont identiques. L'actuelle église de l'Annonciation est le principal lieu à visiter, bien qu'il en existe une autre orthodoxe, ce qui donne déjà matière à réflexion. Tout près se trouvent également des fouilles où l'on a trouvé des restes d'outils et d'outils de menuiserie de l'époque, et ils les présentent comme l'éventuel atelier de José. L'LU nous donne quelques indices sur l'emplacement de la maison de Jésus -[LU 122:5.9](/fr/The_Urantia_Book/122#p5_9)- et de l'atelier -[LU 123:1.6](/fr/The_Urantia_Book/123#p1_6)-. La première chose à localiser est la plus haute montagne au nord de la ville, et c'est là que survient la première difficulté. La plus haute au nord se trouve un peu en dehors de Nazareth, bien qu'il soit possible (et c'est une hypothèse) que la vieille ville ne se trouve pas exactement là où se trouve le noyau principal actuel, ou que les distances soient plus longues qu'on l'imagine. Si tomamos el monte Har Nadav (de 1.600 pies) que enlaza con el Har Yona (de 1.812 pies) como el mismo monte, o incluso por separado contemplando las dos hipótesis, tendríamos que la casa de Jesús estaría bastante alejada del lugar tradicional, es decir, más al noreste, y no en pleno centro, ya que nos dice que se encontraba al sureste del promontorio de esta colina, en el medio entre la carretera a Caná y la base de la colina, y en cualquier caso a las afueras de la ville. Quant à la référence à la fontaine, je sais seulement qu'il y a une « Fontaine Maria » à proximité ; mais cela ne veut pas dire que c'était la fontaine d'antan et apparemment un point de passage pour les caravanes. C'est certainement un des endroits où j'ai le plus enquêté par la suite - Google Earth est magnifique - et j'ai été le plus frustré, et j'ai eu envie d'y aller et d'y rester quelques jours pour analyser toutes ces informations sur place.
+La tradition chrétienne ne semble pas identifier le lieu où a eu lieu l'annonciation avec la maison de la famille de Jésus ; Ce dernier n’apparaît tout simplement nulle part à notre connaissance. Si nous nous en tenons au LU, nous concluons que les deux endroits sont identiques. L'actuelle église de l'Annonciation est le principal lieu à visiter, bien qu'il en existe une autre orthodoxe, ce qui donne déjà matière à réflexion. Tout près se trouvent également des fouilles où l'on a trouvé des restes d'outils et d'outils de menuiserie de l'époque, et ils les présentent comme l'éventuel atelier de José. L'LU nous donne quelques indices sur l'emplacement de la maison de Jésus -<a id="a63_681"></a>[LU 122:5.9](/fr/The_Urantia_Book/122#p5_9)- et de l'atelier -<a id="a63_743"></a>[LU 123:1.6](/fr/The_Urantia_Book/123#p1_6)-. La première chose à localiser est la plus haute montagne au nord de la ville, et c'est là que survient la première difficulté. La plus haute au nord se trouve un peu en dehors de Nazareth, bien qu'il soit possible (et c'est une hypothèse) que la vieille ville ne se trouve pas exactement là où se trouve le noyau principal actuel, ou que les distances soient plus longues qu'on l'imagine. Si tomamos el monte Har Nadav (de 1.600 pies) que enlaza con el Har Yona (de 1.812 pies) como el mismo monte, o incluso por separado contemplando las dos hipótesis, tendríamos que la casa de Jesús estaría bastante alejada del lugar tradicional, es decir, más al noreste, y no en pleno centro, ya que nos dice que se encontraba al sureste del promontorio de esta colina, en el medio entre la carretera a Caná y la base de la colina, y en cualquier caso a las afueras de la ville. Quant à la référence à la fontaine, je sais seulement qu'il y a une « Fontaine Maria » à proximité ; mais cela ne veut pas dire que c'était la fontaine d'antan et apparemment un point de passage pour les caravanes. C'est certainement un des endroits où j'ai le plus enquêté par la suite - Google Earth est magnifique - et j'ai été le plus frustré, et j'ai eu envie d'y aller et d'y rester quelques jours pour analyser toutes ces informations sur place.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Luz_y_Vida/LyV11/02.jpg">
@@ -54,7 +78,7 @@ Dans ce cas, l'erreur apparaît bien plus clairement, si l'on peut l'appeler ain
 </em></figcaption>
 </figure>
 
-Le site traditionnel se trouve à quelques kilomètres au nord de la mer Morte, où coule le fleuve, et près de Jéricho, à l’est. D'après _Le Livre d'Urantia_-[LU 135:8.1](/fr/The_Urantia_Book/135#p8_1)- le lieu serait à la hauteur de la ville de Pella en Jordanie, soit à environ 70 kilomètres au nord du lieu marqué par la tradition. Comme vous pouvez le constater, il y a une distance considérable ; mais ce ne sera pas le seul cas.
+Le site traditionnel se trouve à quelques kilomètres au nord de la mer Morte, où coule le fleuve, et près de Jéricho, à l’est. D'après _Le Livre d'Urantia_-<a id="a80_156"></a>[LU 135:8.1](/fr/The_Urantia_Book/135#p8_1)- le lieu serait à la hauteur de la ville de Pella en Jordanie, soit à environ 70 kilomètres au nord du lieu marqué par la tradition. Comme vous pouvez le constater, il y a une distance considérable ; mais ce ne sera pas le seul cas.
 
 ## La Métamorphose
 
@@ -81,3 +105,28 @@ La localisation erronée de cette dernière est ce qui fait qu'une grande partie
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_11_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 11 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-11-décembre-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 11 — décembre 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuantos_Sobreviven">
+          <span class="pr-2">Combien survivent ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

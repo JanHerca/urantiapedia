@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Santiago Rodríguez<br>© 2013 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canaux : Erreur, Vérité, Illusion ou Innocence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-35-décembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 35 — décembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco">
+          <span class="pr-2">Questionnaire Urantien : Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bien qu'aujourd'hui le fait de l'évolution soit largement accepté comme la manière dont les espèces d'êtres vivants que nous connaissons sont arrivées à exister, et que le Livre d'Urantia et la science établie convergent certainement sur cette idée, ils convergent également sur le fait que l'évolution est dirigée par une adaptation au milieu et par une sélection favorisée par des mutations appropriées, ce qui implique que tous les êtres vivants possèdent un « LUCA », c'est-à-dire un ancêtre commun universel.
@@ -40,3 +64,28 @@ Dans le diagramme suivant apparaissent une série de jalons dans l'histoire de l
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Horacio_Gamboa/Canalizaciones_Error_Verdad_Ilusion_o_Inocencia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Canaux : Erreur, Vérité, Illusion ou Innocence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-35-décembre-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 35 — décembre 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Jaime_Marco">
+          <span class="pr-2">Questionnaire Urantien : Jaime Marco</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

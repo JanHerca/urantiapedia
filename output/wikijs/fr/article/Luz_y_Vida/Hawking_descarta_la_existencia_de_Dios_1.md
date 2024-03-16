@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2010 Carmelo Martínez, L. Coll, Antonio Moya, Santiago Rodríguez, Eduardo Altuzarra<br>© 2010 Association Urantia d'Espagne </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_23_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 23 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-23-décembre-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 23 — décembre 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/Morning_star">
+          <span class="pr-2">Étoile du matin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Participants :**
@@ -33,11 +57,11 @@ On dit aussi que Hawking pense que la fameuse théorie du tout sera bientôt ach
 
 Compte tenu de cela, il y a deux commentaires :
 
-1. Ce n’est pas la première fois que la science croit qu’elle est arrivée au terme de son développement, qu’elle a des théories pour tout expliquer. Cela s’est déjà produit au XVIIIe siècle, et il s’avère que les grands progrès de la science moderne se sont produits juste après. (« _... Plus vous êtes docte en science, moins vous êtes sûr de vous_ » [LU 102:1.3](/fr/The_Urantia_Book/102#p1_3)) («_La connaissance est une quête éternelle ; vous apprenez toujours, mais vous n’êtes jamais capable d’arriver à la connaissance complète de la vérité absolue. La connaissance seule ne donne jamais une certitude absolue,..._» [LU 102:2.4](/fr/The_Urantia_Book/102#p2_4))
+1. Ce n’est pas la première fois que la science croit qu’elle est arrivée au terme de son développement, qu’elle a des théories pour tout expliquer. Cela s’est déjà produit au XVIIIe siècle, et il s’avère que les grands progrès de la science moderne se sont produits juste après. (« _... Plus vous êtes docte en science, moins vous êtes sûr de vous_ » <a id="a59_352"></a>[LU 102:1.3](/fr/The_Urantia_Book/102#p1_3)) («_La connaissance est une quête éternelle ; vous apprenez toujours, mais vous n’êtes jamais capable d’arriver à la connaissance complète de la vérité absolue. La connaissance seule ne donne jamais une certitude absolue,..._» <a id="a59_623"></a>[LU 102:2.4](/fr/The_Urantia_Book/102#p2_4))
 
-2. La science et la religion sont deux disciplines qui traitent de domaines totalement différents de la pensée humaine ; et bien sûr ils ne sont pas incompatibles. (« _La science s'occupe de faits ; la religion ne s'occupe que de valeurs_ » [LU 101:5.2](/fr/The_Urantia_Book/101#p5_2)) Il est possible qu'un jour la science explique tous les _faits_ physiques, mais ce faisant, elle ne dira rien (et ne pourra pas non plus dire n'importe quoi) sur le sens de l'univers et sur les _valeurs_ derrière ces faits : le plan du Père. Il ne sera jamais possible de démontrer, ni même de conclure ou d’entrevoir, que Dieu n’existe pas (ou qu’il existe) avec le raisonnement de la science ou de toute autre discipline humaine. Seule la foi est valable pour cela, et la foi est personnelle et intransférable ; C'est un « paradoxe » que la foi soit la seule démonstration possible de l'existence de Dieu et qu'une telle démonstration ne soit valable que pour celui qui a la foi.
+2. La science et la religion sont deux disciplines qui traitent de domaines totalement différents de la pensée humaine ; et bien sûr ils ne sont pas incompatibles. (« _La science s'occupe de faits ; la religion ne s'occupe que de valeurs_ » <a id="a61_241"></a>[LU 101:5.2](/fr/The_Urantia_Book/101#p5_2)) Il est possible qu'un jour la science explique tous les _faits_ physiques, mais ce faisant, elle ne dira rien (et ne pourra pas non plus dire n'importe quoi) sur le sens de l'univers et sur les _valeurs_ derrière ces faits : le plan du Père. Il ne sera jamais possible de démontrer, ni même de conclure ou d’entrevoir, que Dieu n’existe pas (ou qu’il existe) avec le raisonnement de la science ou de toute autre discipline humaine. Seule la foi est valable pour cela, et la foi est personnelle et intransférable ; C'est un « paradoxe » que la foi soit la seule démonstration possible de l'existence de Dieu et qu'une telle démonstration ne soit valable que pour celui qui a la foi.
 
-Comme on sait peu de choses sur Urantia sur le vrai Dieu, notre Père céleste ! Le Dieu dont parlent Hawking et d’autres est celui des religions institutionnelles qui n’ont pas encore réussi à saisir pleinement l’idée et à assumer l’idéal du Dieu réel et vrai, le seul qui satisfasse véritablement et totalement les aspirations de l’esprit humain. («_L’élimination de la crainte religieuse par la philosophie et les progrès continus de la science contribuent sérieusement à la mortalité des faux dieux. Même si la disparition de ces déités, créées par les hommes, peut obscurcir momentanément la vision spirituelle, elle détruit, en fin de compte, l’ignorance et la superstition qui ont si longtemps voilé le Dieu vivant, le Dieu d’amour éternel._» [LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
+Comme on sait peu de choses sur Urantia sur le vrai Dieu, notre Père céleste ! Le Dieu dont parlent Hawking et d’autres est celui des religions institutionnelles qui n’ont pas encore réussi à saisir pleinement l’idée et à assumer l’idéal du Dieu réel et vrai, le seul qui satisfasse véritablement et totalement les aspirations de l’esprit humain. («_L’élimination de la crainte religieuse par la philosophie et les progrès continus de la science contribuent sérieusement à la mortalité des faux dieux. Même si la disparition de ces déités, créées par les hommes, peut obscurcir momentanément la vision spirituelle, elle détruit, en fin de compte, l’ignorance et la superstition qui ont si longtemps voilé le Dieu vivant, le Dieu d’amour éternel._» <a id="a63_748"></a>[LU 102:6.1](/fr/The_Urantia_Book/102#p6_1))
 
 ## Coll
 
@@ -155,9 +179,9 @@ Des deux derniers liens que Carmelo nous a indiqués, j'extrait ce qui suit :
 
 Et maintenant, regardez ce que dit le LU :
 
-> _Mais le mécanisme divin de l’univers des univers est beaucoup trop parfait pour que les méthodes scientifiques du mental humain fini puissent discerner même une trace de la domination du mental infini._ ([LU 42:11.2](/fr/The_Urantia_Book/42#p11_2))
+> _Mais le mécanisme divin de l’univers des univers est beaucoup trop parfait pour que les méthodes scientifiques du mental humain fini puissent discerner même une trace de la domination du mental infini._ (<a id="a181_207"></a>[LU 42:11.2](/fr/The_Urantia_Book/42#p11_2))
 
-> _Des mécanismes cosmiques extrêmement complexes et qui paraissent largement automatiques tendent toujours à dissimuler la présence du mental intérieur inventif ou créatif à toutes les intelligences situées très au-dessous des niveaux universels de la nature et des possibilités du mécanisme lui-même. Il est donc inévitable que les mécanismes supérieurs de l’univers semblent dépourvus de mental aux ordres inférieurs de créatures._ ([LU 42:11.6](/fr/The_Urantia_Book/42#p11_6))
+> _Des mécanismes cosmiques extrêmement complexes et qui paraissent largement automatiques tendent toujours à dissimuler la présence du mental intérieur inventif ou créatif à toutes les intelligences situées très au-dessous des niveaux universels de la nature et des possibilités du mécanisme lui-même. Il est donc inévitable que les mécanismes supérieurs de l’univers semblent dépourvus de mental aux ordres inférieurs de créatures._ (<a id="a183_436"></a>[LU 42:11.6](/fr/The_Urantia_Book/42#p11_6))
 
 J'ai aussi aimé cet autre avis :
 
@@ -227,3 +251,28 @@ J’ai trouvé très intéressante cette différence entre la foi et le don de D
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_23_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 23 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-23-décembre-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 23 — décembre 2010 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jose_A_Rodriguez_Jorge/Morning_star">
+          <span class="pr-2">Étoile du matin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

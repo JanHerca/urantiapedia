@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2015 Santiago Rodríguez<br>© 2015 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'univers est un endroit incroyablement grand</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-39-mars-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 39 — mars 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez">
+          <span class="pr-2">Questionnaire Urantien : Mariano Pérez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pourquoi l’univers est-il tel que nous le voyons ? La réponse qui était populaire il y a 500 ou 600 ans, et qui, à la lumière des connaissances actuelles, semblerait enfantine et complètement dépassée, serait quelque chose comme ceci : « Dieu l'a créé ainsi ». Autrement dit, il existe un Dieu qui fait tout et rend tout parfait. Je n’ai pas besoin de me poser de questions car Il a tout conçu et créé.
@@ -27,7 +51,7 @@ Il existe une série de paramètres physiques dont les valeurs ne sont en aucun 
 <img src="/image/article/Luz_y_Vida/LyV39/13.jpg">
 </figure>
 
-Dans notre conception actuelle de l'univers, nous considérons un « principe cosmologique » dans lequel nous n'avons d'autre choix que de supposer que les mêmes propriétés locales existent dans tout l'univers. Autrement dit, ce que nous savons ici fonctionne exactement de la même manière dans toutes les parties du cosmos observable. Et c’est peut-être le cas. [LU 2:7.2](/fr/The_Urantia_Book/2#p7_2) Les faits physiques sont assez uniformes...
+Dans notre conception actuelle de l'univers, nous considérons un « principe cosmologique » dans lequel nous n'avons d'autre choix que de supposer que les mêmes propriétés locales existent dans tout l'univers. Autrement dit, ce que nous savons ici fonctionne exactement de la même manière dans toutes les parties du cosmos observable. Et c’est peut-être le cas. <a id="a53_361"></a>[LU 2:7.2](/fr/The_Urantia_Book/2#p7_2) Les faits physiques sont assez uniformes...
 
 La science d'aujourd'hui est surprise, car elle a réalisé que, si l'une de ces valeurs était légèrement différente de ce qu'elle est, l'univers tel que nous l'observons ne pourrait pas exister... et nous, en tant qu'observateurs, n'existerions pas non plus. Comment est-il possible que ces valeurs soient si affinées, et soient ce qu'elles sont, pour que l'univers soit tel que nous le contemplons et permette notre existence même ? Comment ont-ils pu s’entendre de cette manière ?
 
@@ -35,7 +59,7 @@ Une fois de plus, nous sommes confrontés à une autre version de la même quest
 
 Mais la question initiale a-t-elle vraiment trouvé une réponse ? La réponse d'il y a plusieurs siècles et celle d'aujourd'hui ne donnent-elles pas l'impression qu'ils essaient d'éviter quelque chose ? Peut-être que le moment est venu pour la science de tourner son regard vers la réalité, à savoir que l'univers a été conçu dans un but précis... et qu'il existe des esprits qui conçoivent et organisent d'une manière si magistrale que tout semble fonctionner automatiquement, de manière mécaniste. chemin.
 
-> _La souveraineté de Dieu est illimitée, elle est le fait fondamental de toute création. L’univers n’était pas inévitable. Il n’est ni un accident ni quelque chose qui existe en soi. L’univers est une œuvre de création et il est donc entièrement subordonné à la volonté du Créateur._ ([LU 3:6.2](/fr/The_Urantia_Book/3#p6_2))
+> _La souveraineté de Dieu est illimitée, elle est le fait fondamental de toute création. L’univers n’était pas inévitable. Il n’est ni un accident ni quelque chose qui existe en soi. L’univers est une œuvre de création et il est donc entièrement subordonné à la volonté du Créateur._ (<a id="a61_286"></a>[LU 3:6.2](/fr/The_Urantia_Book/3#p6_2))
 
 Si nous refusons d'admettre que les valeurs des constantes sont ce qu'elles sont parce qu'elles reproduisent le cosmos dans lequel nous nous trouvons et ont été choisies de manière très minutieuse ; Si nous refusons d'admettre une intervention mentale volontaire et intentionnelle, cela nous amène à spéculer sur un nombre infini d'hypothèses extrêmement fantaisistes, comme admettre des univers infinis parallèles au nôtre dans lesquels chacun diffère par une valeur infinitésimale de l'un des caractéristiques de chacune des particules qui le composent. Des univers que nous n’aurions en revanche aucune possibilité de contacter. Ou il faudrait chercher des alternatives qui, dans d'autres endroits (auxquels nous n'avons pas accès), d'innombrables univers se sont formés et ont évolué selon leurs propres paramètres, chacun avec des valeurs différentes des différentes constantes physiques universelles. Nous sommes dans l'un d'eux et c'est celui que nous sommes autorisés à observer. Ou bien, à travers des époques infinies, des univers alternatifs sont apparus jusqu'à ce que le hasard ait permis à ces valeurs de conspirer pour donner naissance à l'univers que nous connaissons.
 
@@ -45,9 +69,9 @@ Je crois que l'humanité ferait un grand bond évolutif si elle s'éloignait une
 
 _Le Livre d'Urantia_ nous révèle que l'univers n'est pas un accident, mais quelque chose généré par la volonté du Créateur, et ce même Créateur contrôle le « pouvoir », c'est-à-dire toutes les formes d'énergie sensibles à la gravité linéaire, à la gravité que nous connaissons.
 
-> _Dieu contrôle tout pouvoir. Il a tracé « un chemin pour l’éclair ». Il a ordonné les circuits de toutes les énergies. Il a décrété l’heure et le mode de manifestation de toutes les formes d’énergie-matière._ ([LU 3:2.4](/fr/The_Urantia_Book/3#p2_4))
+> _Dieu contrôle tout pouvoir. Il a tracé « un chemin pour l’éclair ». Il a ordonné les circuits de toutes les énergies. Il a décrété l’heure et le mode de manifestation de toutes les formes d’énergie-matière._ (<a id="a71_212"></a>[LU 3:2.4](/fr/The_Urantia_Book/3#p2_4))
 
-> _3. *Le pouvoir d’univers* inclut toutes les formes d’énergie qui réagissent directement à la gravité linéaire tout en réagissant encore à la gravité du Paradis. C’est le niveau électronique de l’énergie-matière et de toutes ses évolutions subséquentes._ ([LU 0:6.7](/fr/The_Urantia_Book/0#p6_7))
+> _3. *Le pouvoir d’univers* inclut toutes les formes d’énergie qui réagissent directement à la gravité linéaire tout en réagissant encore à la gravité du Paradis. C’est le niveau électronique de l’énergie-matière et de toutes ses évolutions subséquentes._ (<a id="a73_258"></a>[LU 0:6.7](/fr/The_Urantia_Book/0#p6_7))
 
 Espérons que la science reprenne peu à peu sa place et permette aux choses d'être à leur place. Placer Dieu derrière chaque question signifiait une stagnation du progrès. De la même manière, ignorer qu’il existe un objectif intelligent dans la conception de l’univers retardera notre compréhension profonde de celui-ci.
 
@@ -55,3 +79,28 @@ Espérons que la science reprenne peu à peu sa place et permette aux choses d'�
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/El_universo_es_un_lugar_increiblemente_grande">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'univers est un endroit incroyablement grand</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-39-mars-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 39 — mars 2015 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Cuestionario_Urantiano_Mariano_Perez">
+          <span class="pr-2">Questionnaire Urantien : Mariano Pérez</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

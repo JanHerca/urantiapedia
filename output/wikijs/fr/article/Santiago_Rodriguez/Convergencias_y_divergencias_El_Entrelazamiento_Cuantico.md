@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2013 Santiago Rodríguez<br>© 2013 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agustin_Barajas/El_Amor_es_la_Verdad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amour est la vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-32-mars-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 32 — mars 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_15">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Prise en charge possible du Modèle de Particules Standard et divergence possible avec le LU_
@@ -19,7 +43,7 @@ Ils nous décrivent un monde physique qui a certaines limites, et les êtres qui
 
 Le LU décrit un phénomène vraiment surprenant qui, bien qu’il opère au niveau mental et spirituel, l’exerce également au niveau matériel :
 
-> _L’Acteur Conjoint est capable de coordonner tous les niveaux d’actualité universelle, de manière à rendre possible la reconnaissance simultanée du mental, du matériel et du spirituel. C’est le phénomène de la *réflectivitéde l’univers,* ce pouvoir exceptionnel et inexplicable de voir, d’entendre, de ressentir et de connaitre toutes choses à mesure qu’elles se passent dans tout un superunivers, puis de focaliser par réflectivité, en un point désiré quelconque, tous ces renseignements et toute cette connaissance. L’action de la réflectivité est démontrée à la perfection sur chacun des mondes-sièges des sept superunivers. Elle opère également d’un bout à l’autre des secteurs des superunivers,_ ([LU 9:7.1](/fr/The_Urantia_Book/9#p7_1))
+> _L’Acteur Conjoint est capable de coordonner tous les niveaux d’actualité universelle, de manière à rendre possible la reconnaissance simultanée du mental, du matériel et du spirituel. C’est le phénomène de la *réflectivitéde l’univers,* ce pouvoir exceptionnel et inexplicable de voir, d’entendre, de ressentir et de connaitre toutes choses à mesure qu’elles se passent dans tout un superunivers, puis de focaliser par réflectivité, en un point désiré quelconque, tous ces renseignements et toute cette connaissance. L’action de la réflectivité est démontrée à la perfection sur chacun des mondes-sièges des sept superunivers. Elle opère également d’un bout à l’autre des secteurs des superunivers,_ (<a id="a45_704"></a>[LU 9:7.1](/fr/The_Urantia_Book/9#p7_1))
 
 Bien sûr, je ne pense pas que nous puissions même entrevoir les mécanismes de ce processus extraordinaire. Mais il est également vrai que dans la nature, au sens le plus large, les choses se produisent progressivement ; Il existe généralement une relation étroite entre tout ce qui existe. D’une certaine manière, il ne s’agit pas de mécanismes isolés, mais plutôt interdépendants, alors peut-être pourrions-nous rencontrer des phénomènes matériels qui partagent d’une manière ou d’une autre une partie des mécanismes de ces phénomènes de réflectivité étranges et extraordinaires (du moins pour nous).
 
@@ -55,3 +79,28 @@ Et je ne peux m'empêcher de rappeler que j'avais déjà lu quelque part sur ce 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Agustin_Barajas/El_Amor_es_la_Verdad">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amour est la vérité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-32-mars-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 32 — mars 2013 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_15">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

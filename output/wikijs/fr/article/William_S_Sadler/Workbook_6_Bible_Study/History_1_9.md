@@ -125,20 +125,20 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		- h. Éloge d'une bonne épouse. [31:10-31](/fr/Bible/Proverbs/31#v10).
 	6. C'était la coutume hébraïque d'attribuer des proverbes à Salomon et des psaumes à David.
 	7. Les proverbes exaltent l'individu plutôt que la nation.
-	8. [Prov 22:17](/fr/Bible/Proverbs/22#v17) - [24:22](/fr/Bible/Proverbs/24#v22) ressemble à la sagesse de <a id="s128_107"></a>[Amenemope](/fr/The_Urantia_Book/95#p4_1). 1000-600 av. J.-C. [Ps 1](/fr/Bible/Psalms/1) et [Jer 17:5-8](/fr/Bible/Jeremiah/17#v5) proviennent de la même source.
+	8. [Prov 22:17](/fr/Bible/Proverbs/22#v17) - [24:22](/fr/Bible/Proverbs/24#v22) ressemble à la sagesse de <a id="s127_107"></a>[Amenemope](/fr/The_Urantia_Book/95#p4_1). 1000-600 av. J.-C. [Ps 1](/fr/Bible/Psalms/1) et [Jer 17:5-8](/fr/Bible/Jeremiah/17#v5) proviennent de la même source.
 	9. Les proverbes soutiennent que l'homme a le droit de jouir des plaisirs matériels - parfum, vin, amitié et vie conjugale.
 	10. Le sage évite l'adultère, l'usure, la fraude, le vol et les gains mal acquis.
 	11. L'intérêt personnel, plutôt que la loi morale, dicte la bonne conduite.
 	12. Intéressez-vous à la veuve et à l'orphelin, même à vos ennemis.
 - B. **[Job](/fr/Bible/Job)**
 	1. Job est la plus grande littérature de sagesse d'Israël. La question de Job : « Pourquoi les justes souffrent-ils ?
-	2. La discussion de Jésus sur Job. Le Livre d'Urantia, <a id="s135_56"></a>[LU 148:6.1](/fr/The_Urantia_Book/148#p6_1)
+	2. La discussion de Jésus sur Job. Le Livre d'Urantia, <a id="s134_56"></a>[LU 148:6.1](/fr/The_Urantia_Book/148#p6_1)
 	3. Job est un défi de la doctrine égypto-hébraïque selon laquelle les justes et les méchants reçoivent leurs justes mérites ici sur terre.
 	4. Job est un poème immortel sur une âme juste qui a souffert, désespéré et lutté jusqu'à ce qu'elle trouve la paix et le salut.
 	5. Le livre est un grand débat philosophique concernant le problème toujours présent mais sans réponse du MAL.
 	6. Les misérables consolateurs de Job et leur orthodoxie suffisante n'avaient pas la réponse.
 	7. Job est construit un peu sur l'ordre du drame grec.
-	8. Paternité multiple en Mésopotamie. Représentant de l'école de Salem à Kish. Voir le Livre d'Urantia, <a id="s141_105"></a>[LU 95:1.6](/fr/The_Urantia_Book/95#p1_6)
+	8. Paternité multiple en Mésopotamie. Représentant de l'école de Salem à Kish. Voir le Livre d'Urantia, <a id="s140_105"></a>[LU 95:1.6](/fr/The_Urantia_Book/95#p1_6)
 	9. Jésus a appelé le livre de Job une parabole. Il a dit que c'était «ce chef-d'œuvre de la littérature sémitique».
 	10. Après l'échec de la théologie et l'effondrement de la philosophie, Job a remporté sa victoire par **expérience personnelle**.
 	11. Job enfin, par la foi, se raisonne de ses ennuis. Il déclare : « Je connais le chemin que je prends ; quand il m'aura éprouvé, je sortirai comme de l'or.

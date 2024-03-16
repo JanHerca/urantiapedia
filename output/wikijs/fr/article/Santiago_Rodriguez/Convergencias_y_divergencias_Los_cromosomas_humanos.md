@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2011 Santiago Rodríguez<br>© 2011 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ni laïcité ni religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-27-décembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 27 — décembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_10">
+          <span class="pr-2">Actualités AUE. Rencontre des lecteurs à Séville</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Dans ce deuxième volet de « Convergences et Divergences », nous aborderons un sujet curieusement controversé. Dans le Document 36, « Les Porteurs de Vie », section 2, **LES MONDES DES PORTEURS DE VIE**, [LU 36:2](/fr/The_Urantia_Book/36#p2), on peut lire, et je copie textuellement :
 
-> _...Il existe aussi sept types architecturaux de modèles vitaux, sept combinaisons fondamentales des configurations de reproduction de la matière vivante. Les modèles de vie d’Orvonton sont organisés sous la forme de douze porteurs d’hérédité. Les différents ordres de créatures volitives sont organisés suivant les nombres 12, 24, 48, 96, 192, 384 et 768. Sur Urantia, les cellules sexuelles de la reproduction humaine ..._ ([LU 36:2.11](/fr/The_Urantia_Book/36#p2_11))
+Dans ce deuxième volet de « Convergences et Divergences », nous aborderons un sujet curieusement controversé. Dans le Document 36, « Les Porteurs de Vie », section 2, **LES MONDES DES PORTEURS DE VIE**, <a id="a37_203"></a>[LU 36:2](/fr/The_Urantia_Book/36#p2), on peut lire, et je copie textuellement :
+
+> _...Il existe aussi sept types architecturaux de modèles vitaux, sept combinaisons fondamentales des configurations de reproduction de la matière vivante. Les modèles de vie d’Orvonton sont organisés sous la forme de douze porteurs d’hérédité. Les différents ordres de créatures volitives sont organisés suivant les nombres 12, 24, 48, 96, 192, 384 et 768. Sur Urantia, les cellules sexuelles de la reproduction humaine ..._ (<a id="a39_428"></a>[LU 36:2.11](/fr/The_Urantia_Book/36#p2_11))
 
 En lisant ce texte, la première chose qui vient à l'esprit est que les Révélateurs (en l'occurrence un Fils de Vorondadek) font allusion à ce que l'on appelle communément aujourd'hui « chromosomes »... ou cela ne vous semble-t-il pas ainsi ?
 
@@ -73,3 +97,28 @@ Dans les tranches successives de cette section, nous aurons l'occasion de commen
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Luis_Coll/Ni_laicismo_ni_religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ni laïcité ni religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-27-décembre-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 27 — décembre 2011 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_10">
+          <span class="pr-2">Actualités AUE. Rencontre des lecteurs à Séville</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

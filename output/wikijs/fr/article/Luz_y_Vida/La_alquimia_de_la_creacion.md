@@ -11,6 +11,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 <!-- Le diagramme à la fin doit ajouter de nouvelles fonctionnalités dans le script général pour ajouter de l'interactivité et de l'évolutivité. Voir /fr/tests/JanTest -->
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2009 Carmelo Martínez, Eduardo Altuzarra, Santiago Rodríguez<br>© 2009 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ernesto_Veloso/Siempre_hay_un_comienzo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il y a toujours un début</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-16-février-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 16 — février 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_3">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De divers auteurs
@@ -27,7 +51,7 @@ Mon opinion est que l'alchimie contient un savoir vraiment puissant qui enseigne
 
 Un préambule un peu long ; Je m'excuse si cela a été ennuyeux, mais j'ai jugé nécessaire de poursuivre ma présentation.
 
-Quelqu’un s’est un jour demandé si l’alchimie était une superscience extraterrestre. Pour moi, la réponse est un oui catégorique. En lisant le Livre, j'ai trouvé sans le chercher, c'est-à-dire que je suis tombé sur de nombreux indices sur cette science, notamment dans les descriptions des différentes phases de l'énergie-matière et dans la description de la formation des nébuleuses. Quelque chose que j’appelle l’alchimie de la création et qui me fascine. Les textes que je vais utiliser se trouvent dans le document 42, notamment dans [LU 42:2.8](/fr/The_Urantia_Book/42#p2_8) et [LU 42:3.3-12](/fr/The_Urantia_Book/42#p3_3), dans le document 57 jusqu'à la page 655 incluse et dans le Prologue, [LU 0:6.4-7](/fr/The_Urantia_Book/0#p6_4).
+Quelqu’un s’est un jour demandé si l’alchimie était une superscience extraterrestre. Pour moi, la réponse est un oui catégorique. En lisant le Livre, j'ai trouvé sans le chercher, c'est-à-dire que je suis tombé sur de nombreux indices sur cette science, notamment dans les descriptions des différentes phases de l'énergie-matière et dans la description de la formation des nébuleuses. Quelque chose que j’appelle l’alchimie de la création et qui me fascine. Les textes que je vais utiliser se trouvent dans le document 42, notamment dans <a id="a53_538"></a>[LU 42:2.8](/fr/The_Urantia_Book/42#p2_8) et <a id="a53_583"></a>[LU 42:3.3-12](/fr/The_Urantia_Book/42#p3_3), dans le document 57 jusqu'à la page 655 incluse et dans le Prologue, <a id="a53_698"></a>[LU 0:6.4-7](/fr/The_Urantia_Book/0#p6_4).
 
 Précisément dans ce dernier texte, l'énergie physique est classée en trois grands groupes :
 
@@ -43,7 +67,7 @@ La transition de la pré-réalité à la réalité est provoquée par la simple 
 
 Une première caractéristique à souligner : L'évolution de la matière-énergie n'est pas « spontanée » ; nécessite l’intervention de l’esprit. Quelque part dans le Livre, je ne me souviens plus où, il est dit que l'esprit, à travers l'esprit, est celui qui contrôle la matière.
 
-Il existe dix manifestations différentes du pouvoir décrites dans [LU 42:3.3-12](/fr/The_Urantia_Book/42#p3_3). Je souhaite m'arrêter sur six qui sont, à mon sens, les différentes étapes de construction d'un édifice de matière (les autres me semblent être des états particuliers ou dégradés) :
+Il existe dix manifestations différentes du pouvoir décrites dans <a id="a69_66"></a>[LU 42:3.3-12](/fr/The_Urantia_Book/42#p3_3). Je souhaite m'arrêter sur six qui sont, à mon sens, les différentes étapes de construction d'un édifice de matière (les autres me semblent être des états particuliers ou dégradés) :
 
 - La matière ultimatonique, toute première manifestation de la matière, composant unique et essentiel de toutes les particules.
 - Matière subélectronique ; Apparemment, entre les ultimatons et les particules fondamentales (appelées aujourd’hui) il existe un autre état antérieur.
@@ -62,7 +86,7 @@ Et avec la visibilité commence l'étape secondaire de la nébuleuse qui prend l
 
 Passons maintenant aux étapes tertiaires et quaternaires, aux étapes constructives, aux étapes de formation massive des soleils et des planètes, et à leur dispersion. La matière a achevé son cycle créatif ; Il s’agit désormais de le regrouper en corps spatiaux, soleils et planètes, dont certains sont prêts à entretenir la vie.
 
-À propos, les paragraphes [LU 57:4.6](/fr/The_Urantia_Book/57#p4_6) et [LU 57:4.7](/fr/The_Urantia_Book/57#p4_7) me semblent quelque peu mystérieux. La désintégration terminale d'une nébuleuse entraîne-t-elle la destruction de planètes déjà habitées ? Nous savons que si cela se produit, tous les habitants seront dématérialisés et transférés par transport séraphique vers une autre planète où ils seront rematérialisés.
+À propos, les paragraphes <a id="a88_26"></a>[LU 57:4.6](/fr/The_Urantia_Book/57#p4_6) et <a id="a88_71"></a>[LU 57:4.7](/fr/The_Urantia_Book/57#p4_7) me semblent quelque peu mystérieux. La désintégration terminale d'une nébuleuse entraîne-t-elle la destruction de planètes déjà habitées ? Nous savons que si cela se produit, tous les habitants seront dématérialisés et transférés par transport séraphique vers une autre planète où ils seront rematérialisés.
 
 Comme je l'ai dit au début, cela fait partie du processus créatif qui me fascine. Comme pour le reste des activités créatives, le Père l'a délégué à certains de ses enfants. Et il semble qu’un jour il nous le déléguera également dans les mondes de l’espace. Je suppose que dans cette délégation il y aura des parties qui auront à voir avec la création matérielle elle-même, et pour cela nous devrons connaître la « science céleste », nous devrons être des alchimistes. Serait-ce là ce que découvrent les adeptes et cela les étonne à des extrêmes difficiles à imaginer ? Qu’est-ce qui les transforme complètement ?
 
@@ -114,3 +138,28 @@ On pense que ce prétendu alchimiste était quelqu’un connu de Fulcanelli, le 
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ernesto_Veloso/Siempre_hay_un_comienzo">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il y a toujours un début</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-16-février-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 16 — février 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Luz_y_Vida/Noticias_de_la_Asociacion_Urantia_3">
+          <span class="pr-2">Nouvelles de l'Association Urantia d'Espagne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12">
+          <span class="pr-2">Éditorial Luz y Vida – décembre 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -247,7 +268,7 @@ L'eau est essentielle à la vie et elle s'adapte aussi à tout. Une des choses c
 Une autre chose curieuse à propos de l'eau est qu'elle contient **de l'hydrogène et de l'oxygène ;** l'oxygène est le principal ingrédient du feu et pourtant **l'eau éteint le feu.** Un autre mystère difficile à comprendre.
 
 
-> L’analyse technique ne révèle pas ce qu’une personne ou une chose peuvent faire. Par exemple, on emploie efficacement l’eau pour éteindre le feu. Que l’eau éteigne le feu, c’est un fait d’expérience quotidienne, mais cette propriété de l’eau n’aurait jamais pu être révélée par analyse. L’analyse détermine que l’eau est composée d’hydrogène et d’oxygène ; une étude plus approfondie de ces éléments montre que l’oxygène est le support réel de la combustion et que l’hydrogène brule librement par lui-même. ([LU 12:9.4](/fr/The_Urantia_Book/12#p9_4))
+> L’analyse technique ne révèle pas ce qu’une personne ou une chose peuvent faire. Par exemple, on emploie efficacement l’eau pour éteindre le feu. Que l’eau éteigne le feu, c’est un fait d’expérience quotidienne, mais cette propriété de l’eau n’aurait jamais pu être révélée par analyse. L’analyse détermine que l’eau est composée d’hydrogène et d’oxygène ; une étude plus approfondie de ces éléments montre que l’oxygène est le support réel de la combustion et que l’hydrogène brule librement par lui-même. (<a id="a270_510"></a>[LU 12:9.4](/fr/The_Urantia_Book/12#p9_4))
 
 [Lire la suite](/fr/article/Luis_Coll/Los_secretos_del_agua)
 
@@ -291,3 +312,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-décembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — décembre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2021_12">
+          <span class="pr-2">Éditorial Luz y Vida – décembre 2021</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

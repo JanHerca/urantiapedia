@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2007 Santiago Rodríguez<br>© 2007 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_9_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 9 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-9-mai-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 9 — mai 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carmelo_Martinez/Futuro_de_Urantia_segun_el_LU">
+          <span class="pr-2">L'avenir d'Urantia selon le LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bonjour à tous, je voudrais faire cette introduction à un sujet comme le « Présent d'Urantia » en soulignant qu'il est extrêmement vaste et complexe, en fait notre présent s'est forgé sur des milliers, des millions d'années, moins depuis qu'il a été décidé que la vie allait s'établir sur notre planète et cela se passait il y a environ 900 millions d'années.
@@ -56,7 +80,7 @@ De cette façon, nous arrivons à notre présent.
 
 Il y a un paragraphe qui définit notre situation sans équivoque :
 
-> « _Durant les temps psychologiquement troublés du vingtième siècle, parmi les bouleversements économiques, les contrecourants moraux et les déchirements sociologiques périodiques accompagnant les transitions orageuses d’une ère scientifique, des milliers et des milliers d’hommes et de femmes sont devenus des pantins ; ils sont anxieux, agités, craintifs, incertains et instables. Plus que jamais dans l’histoire du monde, ils ont besoin de la consolation et de la stabilité d’une religion saine. En face de réalisations scientifiques et de développements mécaniques sans précédent, on trouve une stagnation spirituelle et un chaos philosophique._ » ([LU 99:4.6](/fr/The_Urantia_Book/99#p4_6))
+> « _Durant les temps psychologiquement troublés du vingtième siècle, parmi les bouleversements économiques, les contrecourants moraux et les déchirements sociologiques périodiques accompagnant les transitions orageuses d’une ère scientifique, des milliers et des milliers d’hommes et de femmes sont devenus des pantins ; ils sont anxieux, agités, craintifs, incertains et instables. Plus que jamais dans l’histoire du monde, ils ont besoin de la consolation et de la stabilité d’une religion saine. En face de réalisations scientifiques et de développements mécaniques sans précédent, on trouve une stagnation spirituelle et un chaos philosophique._ » (<a id="a82_654"></a>[LU 99:4.6](/fr/The_Urantia_Book/99#p4_6))
 
 Aujourd’hui, nous avons une société qui vacille en tolérant la science sans idéalisme, la politique sans principes, la richesse sans travail, le plaisir sans restriction, la connaissance sans caractère, le pouvoir sans conscience et l’industrie sans moralité.
 
@@ -102,11 +126,11 @@ C’est pourquoi ils nous exhortent à établir un système éducatif intelligen
 
 L'énorme croissance dans l'aspect matériel devrait nous obliger à rechercher les réalités du ciel dans tous nos efforts pour stabiliser la société et faciliter la solution des problèmes matériels.
 
-> « _La religion découvre pour l’âme les valeurs suprêmes qui contrastent avec les valeurs relatives découvertes par le mental. On ne possède cette clairvoyance suprahumaine que par une expérience religieuse authentique._ » ([LU 195:5.8](/fr/The_Urantia_Book/195#p5_8))
+> « _La religion découvre pour l’âme les valeurs suprêmes qui contrastent avec les valeurs relatives découvertes par le mental. On ne possède cette clairvoyance suprahumaine que par une expérience religieuse authentique._ » (<a id="a128_225"></a>[LU 195:5.8](/fr/The_Urantia_Book/195#p5_8))
 
 Mais dans cette époque de changements et d'ajustements dans laquelle nous sommes plongés, nous devons être très prudents : la grande erreur de Lucifer et plus tard la même erreur qui a conduit Adam et Ève à l'échec était précisément l'impatience.
 
-> « _Nul grand changement social ou économique ne devrait être essayé soudainement. Le temps est essentiel à tous les types d’adaptations humaines — physiques, sociaux ou économiques. Seuls les ajustements moraux et spirituels peuvent être effectués sous l’impulsion du moment, et, même pour ceux-là, il faut du temps pour mettre pleinement en œuvre leurs répercussions matérielles et sociales. Ce sont les idéaux de la race qui servent principalement d’appui et de soutien pendant les périodes critiques où une civilisation se trouve en transition entre deux niveaux consécutifs._ » ([LU 81:6.40](/fr/The_Urantia_Book/81#p6_40))
+> « _Nul grand changement social ou économique ne devrait être essayé soudainement. Le temps est essentiel à tous les types d’adaptations humaines — physiques, sociaux ou économiques. Seuls les ajustements moraux et spirituels peuvent être effectués sous l’impulsion du moment, et, même pour ceux-là, il faut du temps pour mettre pleinement en œuvre leurs répercussions matérielles et sociales. Ce sont les idéaux de la race qui servent principalement d’appui et de soutien pendant les périodes critiques où une civilisation se trouve en transition entre deux niveaux consécutifs._ » (<a id="a132_585"></a>[LU 81:6.40](/fr/The_Urantia_Book/81#p6_40))
 
 Il faudra un millénaire pour achever cette nouvelle ère dans notre monde. Nous marchons vers une nouvelle destination planétaire inconnue.
 
@@ -114,7 +138,7 @@ Il faudra un millénaire pour achever cette nouvelle ère dans notre monde. Nous
 
 A pesar de las circunstancias tan complicadas, nos dan la pauta para afrontar esta época de cambios, de transición de una civilización a otra y es ni más ni menos que una vuelta a la espiritualidad, rescatar la presencia de la auténtica religión en las diferentes facetas de la vie.
 
-> « _L’une des grandes difficultés de la vie moderne est que l’homme se croit trop occupé pour trouver le temps nécessaire à la méditation spirituelle et à la dévotion religieuse._ » ([LU 195:6.7](/fr/The_Urantia_Book/195#p6_7))
+> « _L’une des grandes difficultés de la vie moderne est que l’homme se croit trop occupé pour trouver le temps nécessaire à la méditation spirituelle et à la dévotion religieuse._ » (<a id="a140_184"></a>[LU 195:6.7](/fr/The_Urantia_Book/195#p6_7))
 
 En fait, la mission principale de la religion en tant qu’influence sociale est de stabiliser les idéaux de l’humanité. Pour ce faire, la religion doit rassembler des devises nouvelles et actualisées.
 
@@ -122,11 +146,11 @@ Une révélation nouvelle et plus complète de la religion de Jésus est destin�
 
 Urantia tremble maintenant à l’aube d’une de ses époques les plus étonnantes et les plus excitantes de réajustement social, de réanimation morale et d’illumination spirituelle.
 
-> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements._ ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
+> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements._ (<a id="a148_163"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 
 Même l'éducation laïque serait d'une grande aide à la renaissance et à l'éveil spirituel si elle accordait plus d'attention à l'éducation, en enseignant aux jeunes de manière appropriée, le but de l'éducation étant le développement d'une personnalité majestueuse et équilibrée, pour pouvoir affronter avec succès les temps. . tellement changeant. L'importance de l'individualisme est évidente dans le simple fait de présenter la 5ème Révélation sous forme écrite, en fuyant les dirigeants de type « gourou », en présentant une religion qui nous unit dans des objectifs et pas nécessairement dans des interprétations ou des croyances.
 
-> _Il faut que les religionistes travaillent dans la société, dans l’industrie et dans la politique en tant qu’individus, et non en tant que groupes, partis ou institutions. Un groupe religieux qui se permet d’agir comme tel en dehors de ses activités religieuses devient immédiatement un parti politique, une organisation économique ou une institution sociale. Le collectivisme religieux doit limiter ses efforts à promouvoir des causes religieuses._ ([LU 99:2.3](/fr/The_Urantia_Book/99#p2_3))
+> _Il faut que les religionistes travaillent dans la société, dans l’industrie et dans la politique en tant qu’individus, et non en tant que groupes, partis ou institutions. Un groupe religieux qui se permet d’agir comme tel en dehors de ses activités religieuses devient immédiatement un parti politique, une organisation économique ou une institution sociale. Le collectivisme religieux doit limiter ses efforts à promouvoir des causes religieuses._ (<a id="a152_453"></a>[LU 99:2.3](/fr/The_Urantia_Book/99#p2_3))
 
 De mon point de vue, cela nous amène à :
 
@@ -166,3 +190,28 @@ Le libre arbitre sera la clé de la transformation de la société. Les changeme
 
 - Magazine Luz y Vida (tous les anciens numéros) : https://aue.urantia-association.org/numeros-antiguos-del-lyv/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Olga_Lopez/Luz_y_Vida_Num_9_Presentacion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Luz y Vida — N° 9 — Présentation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-n°-9-mai-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — N° 9 — mai 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carmelo_Martinez/Futuro_de_Urantia_segun_el_LU">
+          <span class="pr-2">L'avenir d'Urantia selon le LU</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

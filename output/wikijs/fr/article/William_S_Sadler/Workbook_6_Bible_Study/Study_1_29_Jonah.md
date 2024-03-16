@@ -40,8 +40,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## III. Jonas dans Le Livre d'Urantia
 
-1. Le <a id="s43_6"></a>[LU 130:1.2](/fr/The_Urantia_Book/130#p1_2) Jésus a utilisé l'histoire de Jonas pour enseigner une leçon précieuse au jeune homme de Joppé. Il n'a pas dit à son élève si l'histoire était une histoire ou une parabole.
-2. Le <a id="s44_6"></a>[LU 159:4.1](/fr/The_Urantia_Book/159#p4_1) Jésus discuta de Jonas avec Nathaniel. Il a même dit que Jonas était une parabole ou une allégorie évangélique.
+1. Le <a id="s42_6"></a>[LU 130:1.2](/fr/The_Urantia_Book/130#p1_2) Jésus a utilisé l'histoire de Jonas pour enseigner une leçon précieuse au jeune homme de Joppé. Il n'a pas dit à son élève si l'histoire était une histoire ou une parabole.
+2. Le <a id="s43_6"></a>[LU 159:4.1](/fr/The_Urantia_Book/159#p4_1) Jésus discuta de Jonas avec Nathaniel. Il a même dit que Jonas était une parabole ou une allégorie évangélique.
 3. Les références dans [Matt. 12:39-41](/fr/Bible/Matthew/12#v39) et [Luc 11:29-32](/fr/Bible/Luke/11#v29), où Jésus se réfère à Jonas en relation avec les siens la mort, n'apparaissent pas dans le Livre d'Urantia.
 4. Même si Jésus a utilisé l'histoire de Jonas, il ne s'ensuit pas qu'une telle utilisation de l'histoire signifie que Jésus valide le récit de Jonas en tant qu'histoire. Si un prédicateur moderne se réfère au Macbeth de Shakespeare, cela ne signifie pas qu'il considère Macbeth comme un personnage historique.
 5. Jésus, en se référant au fils prodigue, dans la parabole de ce nom, ne veut pas dire que ce fils prodigue était un personnage historique.

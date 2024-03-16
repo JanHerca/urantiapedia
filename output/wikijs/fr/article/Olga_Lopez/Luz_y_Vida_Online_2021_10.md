@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2021 Olga López<br>© 2021 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bulletin de l'Association Urantia d'Espagne
@@ -74,7 +95,7 @@ Les vieux livres poussiéreux et acculés ont déjà eu leur moment de splendeur
 
 _Le Livre d'Urantia_ exalte précisément cette transformation intérieure, car il cherche à « élargir la conscience cosmique et élever la perception spirituelle » (0.0.2) :
 
-Le but de la réalisation de soi humaine doit être spirituel et non matériel. Les seules réalités pour lesquelles il vaut la peine de se battre sont divines, spirituelles et éternelles. [LU 100:2.6](/fr/The_Urantia_Book/100#p2_6)
+Le but de la réalisation de soi humaine doit être spirituel et non matériel. Les seules réalités pour lesquelles il vaut la peine de se battre sont divines, spirituelles et éternelles. <a id="a97_185"></a>[LU 100:2.6](/fr/The_Urantia_Book/100#p2_6)
 
 Et il s'agit de promouvoir ce magnifique objectif pour nos vies avec la nouvelle révision de la traduction du _Le Livre d'Urantia_ en espagnol. Un élément simple : le livre. Une leçon intérieure extraordinaire : la rencontre personnelle avec Dieu.
 
@@ -238,7 +259,7 @@ Eduardo Altuzarra
 <img src="/image/article/Luz_y_Vida/LyV_2021_10/Mi-parrafo-favorito-oct-2021.jpg" alt="Mi párrafo favorito - oct 2021">
 </figure>
 
-> L’existence de Dieu ne pourra jamais être prouvée par des expériences scientifiques, ni par des déductions logiques de la raison pure. On ne peut réaliser ce qu’est Dieu que dans les domaines de l’expérience humaine. Toutefois, le vrai concept de la réalité de Dieu est raisonnable pour la logique, plausible pour la philosophie, essentiel pour la religion et indispensable pour tout espoir de survie de la personnalité. ([LU 1:2.7](/fr/The_Urantia_Book/1#p2_7))
+> L’existence de Dieu ne pourra jamais être prouvée par des expériences scientifiques, ni par des déductions logiques de la raison pure. On ne peut réaliser ce qu’est Dieu que dans les domaines de l’expérience humaine. Toutefois, le vrai concept de la réalité de Dieu est raisonnable pour la logique, plausible pour la philosophie, essentiel pour la religion et indispensable pour tout espoir de survie de la personnalité. (<a id="a261_424"></a>[LU 1:2.7](/fr/The_Urantia_Book/1#p2_7))
 
 La plupart d’entre nous qui lisons des livres soulignent, soulignent, copient et font référence à une série de paragraphes parce que nous les considérons comme intéressants, éclairants ou transcendantaux.
 
@@ -288,3 +309,25 @@ Tous les travaux et nouvelles des lecteurs et des groupes d'études sont les bie
 
 - Article du magazine en ligne Luz y Vida : https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2021/
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — octobre 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eduardo_Altuzarra/Mi_parrafo_favorito">
+          <span class="pr-2">Mon paragraphe préféré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
