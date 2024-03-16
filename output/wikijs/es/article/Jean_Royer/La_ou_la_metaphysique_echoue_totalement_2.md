@@ -57,7 +57,7 @@ No hay una definición estrictamente hablando del término «metafísica» en _E
 
 En lo que respecta a este planeta se dice:
 
-> _Cuando el hombre se acerca al estudio y al examen de su universo desde afuera, da origen a varias ciencias físicas; cuando encara la investigación del yo y del universo desde adentro, da origen a la teología y a la metafísica._ (<a id="a59_234"></a>[LU 103:6.2](/es/The_Urantia_Book/103#p6_2))
+> _Cuando el hombre se acerca al estudio y al examen de su universo desde afuera, da origen a varias ciencias físicas; cuando encara la investigación del yo y del universo desde adentro, da origen a la teología y a la metafísica._ (<a id="a59_232"></a>[LU 103:6.2](/es/The_Urantia_Book/103#p6_2))
 
 Más aún: [Los griegos] _buscaban el placer del alma en el pensamiento profundo - filosofia y metafísica._ (<a id="a61_107"></a>[LU 98:2.2](/es/The_Urantia_Book/98#p2_2)). Aunque se dice claramente que la metafísica es impotente.
 

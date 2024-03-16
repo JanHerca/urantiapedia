@@ -94,7 +94,7 @@ Este deseo de perfeccionar el mundo material no debía terminar, en modo alguno,
 
 Jesús mismo se sintió eufórico ante estos hechos, pleno de esperanza hacia sus seguidores.
 
-> … justo antes de compartir la cena, cuando Jesús experimentó uno de los pocos momentos de éxtasis emocional que sus seguidores tuvieron la ocasión de presenciar. Dijo: «Te doy gracias, Padre, Señor del cielo y de la tierra, porque aunque este evangelio maravilloso se oculta a los sabios y engreídos, el espíritu ha revelado estas glorias espirituales a estos hijos del reino. [LU 163:6.3](/es/The_Urantia_Book/163#p6_3)
+> … justo antes de compartir la cena, cuando Jesús experimentó uno de los pocos momentos de éxtasis emocional que sus seguidores tuvieron la ocasión de presenciar. Dijo: «Te doy gracias, Padre, Señor del cielo y de la tierra, porque aunque este evangelio maravilloso se oculta a los sabios y engreídos, el espíritu ha revelado estas glorias espirituales a estos hijos del reino. <a id="a96_379"></a>[LU 163:6.3](/es/The_Urantia_Book/163#p6_3)
 
 Pero ya conocemos la profundidad del pensamiento de nuestro querido Creador, su perspicacia espiritual, por lo que al día siguiente reunió a los setenta y les dio una clave muy importante para ellos (y también para nosotros):
 

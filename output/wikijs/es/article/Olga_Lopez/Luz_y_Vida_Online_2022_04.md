@@ -307,7 +307,7 @@ Está en el documento 144 y dice así:
 > Y perdónanos nuestras deudas<br>
 > Como nosotros también hemos perdonado a nuestros deudores.<br>
 > Sálvanos de la tentación, líbranos del mal,<br>
-> Y haznos cada vez más perfectos como tú mismo. <a id="a306_49"></a>[LU 144:3.3-12](/es/The_Urantia_Book/144#p3_3) 
+> Y haznos cada vez más perfectos como tú mismo. <a id="a309_49"></a>[LU 144:3.3-12](/es/The_Urantia_Book/144#p3_3) 
 
 Pues sí, en _El Libro de Urantia_ aparecen las palabras deudas/deudores, igual que el Padre nuestro anterior a 1986 (en el original inglés, _debt_/_debtors_). Además, aparecen frases que no aparece en el Padre nuestro católico: Vivifica nuestra alma con el agua de la vida y Haznos cada vez más perfectos como tú mismo.
 
@@ -324,7 +324,7 @@ Jordi Prat
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Mi-parrafo-favorito-Jordi-Prat.jpg" alt="Mi párrafo favorito-Jordi Prat">
 </figure>
 
-> _Las transcripciones de la mente del mortal y los patrones activos de la memoria de la criatura, transformados de los niveles materiales a los espirituales, son posesión individual del Ajustador del Pensamiento que se ha desligado. Esos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de dicho Ajustador. La matriz-mente de la criatura y sus potenciales pasivos de identidad están presentes en el alma de morontia confiada al cuidado de las guardianas seráficas del destino. Y es la reunión del alma-morontia confiada a las serafines y la mente-espíritu confiada al Ajustador lo que reensambla la personalidad de la criatura y supone la resurrección de un superviviente durmiente_. <a id="a323_745"></a>[LU 47:3.3](/es/The_Urantia_Book/47#p3_3)
+> _Las transcripciones de la mente del mortal y los patrones activos de la memoria de la criatura, transformados de los niveles materiales a los espirituales, son posesión individual del Ajustador del Pensamiento que se ha desligado. Esos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de dicho Ajustador. La matriz-mente de la criatura y sus potenciales pasivos de identidad están presentes en el alma de morontia confiada al cuidado de las guardianas seráficas del destino. Y es la reunión del alma-morontia confiada a las serafines y la mente-espíritu confiada al Ajustador lo que reensambla la personalidad de la criatura y supone la resurrección de un superviviente durmiente_. <a id="a326_745"></a>[LU 47:3.3](/es/The_Urantia_Book/47#p3_3)
 
 En este párrafo explica claramente que en el momento de la muerte, el Ajustador custodia la personalidad («son posesión individual del Ajustador del Pensamiento que se ha desligado. Estos factores espiritualizados de la mente, la memoria y la personalidad de la criatura forman parte para siempre de dicho Ajustador»).
 

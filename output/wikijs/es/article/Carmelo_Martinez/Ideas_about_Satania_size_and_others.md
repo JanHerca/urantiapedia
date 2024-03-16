@@ -74,7 +74,7 @@ Hay pues unos dos mil sistemas planetarios con planetas que tienen posibilidad d
 
 _El Libro de Urantia_ da una indicación clara sobre la densidad de soles en el espacio. No indica si esta densidad es igual en todo el superuniverso, o incluso en todos los superuniversos, pero parece claro que es aplicable a todo el universo local (el título del documento es Aspectos Físicos del Universo Local), y parece probable que pueda aplicarse al resto del disco de la Vía Láctea.
 
-El párrafo en cuestión es el [LU 41:3.2](/es/The_Urantia_Book/41#p3_2) y asegura que el espacio para albergar los soles es equivalente al que tendrían una docena de naranjas dentro de nuestro planeta si estuviera hueco.
+El párrafo en cuestión es el <a id="a76_29"></a>[LU 41:3.2](/es/The_Urantia_Book/41#p3_2) y asegura que el espacio para albergar los soles es equivalente al que tendrían una docena de naranjas dentro de nuestro planeta si estuviera hueco.
 
 De esta clara indicación se van a deducir de forma aproximada los volúmenes de Satania y Nebadon.
 

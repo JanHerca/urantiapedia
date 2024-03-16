@@ -76,7 +76,7 @@ La duda está en los de ascensión individual porque en el documento 47 apartado
 
 > «Si no tenéis que deteneros en el mundo mansión número uno, al final de los diez días entraréis en el sueño del traslado y os dirigiréis al mundo número dos, y cada diez días de aquí en adelante, avanzaréis de esta manera hasta que lleguéis al mundo que tenéis asignado.» <a id="a76_274"></a>[LU 47:3.10](/es/The_Urantia_Book/47#p3_10)
 
-Se refiere como sabéis a los diez días de «relajo» que se tienen nada más despertar. Y un poco antes se dice: [LU 47:3.7](/es/The_Urantia_Book/47#p3_7) «En el mundo mansión número uno ( o en otro en caso de condición avanzada) reanudaréis vuestra capacitación intelectual y desarrollo espiritual en el nivel exacto en que fueron interrumpidos por la muerte...»
+Se refiere como sabéis a los diez días de «relajo» que se tienen nada más despertar. Y un poco antes se dice: <a id="a78_110"></a>[LU 47:3.7](/es/The_Urantia_Book/47#p3_7) «En el mundo mansión número uno ( o en otro en caso de condición avanzada) reanudaréis vuestra capacitación intelectual y desarrollo espiritual en el nivel exacto en que fueron interrumpidos por la muerte...»
 
 En los primeros párrafos que cito, entiendo que se va directamente al mundo que te toca. Sin embargo en estos últimos, da la impresión contraria. Mirándolo bien, la incompatibilidad puede que sea sólo aparente, pues en el documento 49 no se dice de qué forma se qué os parece?
 
