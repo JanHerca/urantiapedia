@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-The literal substance of Paradise is a homogeneous organization of space potency not to be found anywhere else in all the wide Universe of Universes. (<a id="a36_151"></a>[UB 11:2.9](/en/The_Urantia_Book/11#p2_9)) Space potency is pre-reality; it is the domain of the Unqualified Absolute. ([UB 42:2.3](/en/The_Urantia_Book/42#p2_3"></a>)) In Nebadon, space potency is spoken of as _absolutum_, Paradise source material neither alive nor dead (<a id="a36_424"></a>[UB 11:2.9](/en/The_Urantia_Book/11#p2_9))
+The literal substance of Paradise is a homogeneous organization of space potency not to be found anywhere else in all the wide Universe of Universes. (<a id="a36_151"></a>[UB 11:2.9](/en/The_Urantia_Book/11#p2_9)) Space potency is pre-reality; it is the domain of the Unqualified Absolute. ([UB 42:2.3](/en/The_Urantia_Book/42#p2_3)) In Nebadon, space potency is spoken of as _absolutum_, Paradise source material neither alive nor dead (<a id="a36_424"></a>[UB 11:2.9](/en/The_Urantia_Book/11#p2_9))
 
 Most people I talk to think of space as always having existed and infinite. They are not aware of the above. Space is created from the literal substance of Paradise. Paradise exists without time and has no location in space. Space seemingly originates just below nether Paradise, whereas time seemingly originates from upper Paradise.
 

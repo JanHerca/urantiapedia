@@ -66,7 +66,7 @@ Today we have a great example of how the teachings of Jesus—doing as he would 
 Thank you, Nelson Mandela, for showing us, once again, what can be achieved when we do as Jesus would have done. The possibilities are endless. The manual is written. All we have to do is to start acting out the behavior of Jesus instead of just talking and reading about what he did—get out there and show the way!
 
 > He who will introduce into public affairs the principies of primitive Christianity wil revolutionize the world. 
->     Benjamin Fmnkün
+>     Benjamin Franklin
 
 ## External links
 

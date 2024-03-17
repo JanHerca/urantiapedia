@@ -163,8 +163,8 @@ El lenguaje, el nivel de conocimiento y la terminología de la referencia del do
 
 ## Enlaces
 
-[Neutrón](/es/topic/neutrons)
-[Materia](/es/topic/matter)
+- [Neutrón](/es/topic/neutrons)
+- [Materia](/es/topic/matter)
 
 ## Enlaces externos
 
