@@ -55,7 +55,7 @@ En respuesta a una pregunta de Natanael, Jesús proporcionó a los apóstoles in
 > 
 > El mortal consciente de Dios está seguro de salvarse; no le teme a la vida; es honrado y consecuente. Sabe cómo soportar valientemente los sufrimientos inevitables; no se queja cuando se enfrenta con las penalidades ineludibles.
 > 
-> El verdadero creyente no se cansa de hacer el bien simplemente porque se sienta frustrado. Las dificultades estimulan el ardor de los amantes de la verdad, mientras que los obstáculos sólo sirven para desafiar los esfuerzos de los intrépidos constructores del reino. (<a id="a57_270"></a>[LU 156:5.10](/es/The_Urantia_Book/156#p5_10))
+> El verdadero creyente no se cansa de hacer el bien simplemente porque se sienta frustrado. Las dificultades estimulan el ardor de los amantes de la verdad, mientras que los obstáculos sólo sirven para desafiar los esfuerzos de los intrépidos constructores del reino. (<a id="a57_270"></a>[LU 156:5.10-21](/es/The_Urantia_Book/156#p5_10))
 
 ## External links
 

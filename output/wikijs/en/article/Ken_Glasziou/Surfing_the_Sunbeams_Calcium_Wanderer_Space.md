@@ -86,7 +86,7 @@ From “Stars and Atoms” by Sir Arthur Eddington:
 > **Question to readers**
 > 
 > _The Urantia Book_ (<a id="a87_22"></a>[UB 41:6.5](/en/The_Urantia_Book/41#p6_5)) gives a figure of one one-millionth of a second for the relaxation time of the excited state of calcium compared with Eddington's one hundred-millionth of a second. Is The Urantia Book's figure a typographical or copying error, or some such, or is it a deliberate correction by the revelators of Professor Milne's calculations??? Can any readers respond?
-> {.is-warning}
+{.is-warning}
 
 ## External links
 

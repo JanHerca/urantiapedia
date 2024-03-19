@@ -1,6 +1,6 @@
 ---
 title: "Le cœur devenu sans amour"
-description : « Un profil de personnalité : Judas Iscariote, l'apôtre qui a choisi d'être le « fils de la vengeance » plutôt que d'être un fils de Dieu.
+description: "Un profil de personnalité : Judas Iscariote, l'apôtre qui a choisi d'être le « fils de la vengeance » plutôt que d'être un fils de Dieu."
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: psychology, The Urantia Book, Innerface International, article
