@@ -31,7 +31,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-In detailing their account of life and land evolution on our planet in Urantia Papers [UB 57](/en/The_Urantia_Book/57), [58](/en/The_Urantia_Book/58), [59](/en/The_Urantia_Book/59) and [60](/en/The_Urantia_Book60), their authors have wholeheartedly embraced the concept of continental drift, an idea first touted by Alfred Wegener in 1910. Take away continental drift from these four Papers and they collapse as an irrational heap.
+In detailing their account of life and land evolution on our planet in Urantia Papers [UB 57](/en/The_Urantia_Book/57), [58](/en/The_Urantia_Book/58), [59](/en/The_Urantia_Book/59) and [60](/en/The_Urantia_Book/60), their authors have wholeheartedly embraced the concept of continental drift, an idea first touted by Alfred Wegener in 1910. Take away continental drift from these four Papers and they collapse as an irrational heap.
 
 In a paper entitled _The Science Content of The Urantia Book_,[^1] myself and my co-authors drew attention to the fact that, over the period in which the Urantia papers were received and published (1934-1955), the concept of continental drift was held only tenuously and by very few geologists. Antipathy to the concept was stated to have been particularly strong in the USA. This antipathy lasted through from the early 1920’s to well into the 1960 period.
 
