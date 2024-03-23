@@ -50,9 +50,9 @@ Lo que sigue es una crítica por correo electrónico de un ministro ordenado de 
 
 - Comprenderse a sí mismo como el Mesías
 
-*Tal reconstrucción del Jesús histórico es en realidad muy cercana al Cristo joánico (y por lo tanto sospechosa como resultado de una reconstrucción histórica), pero depende en gran medida de la historicidad del Antiguo Testamento ya que **AB** afirma que Jesús se entendió a sí mismo como la encarnación de las esperanzas bíblicas y la esperanza de los antiguos profetas.
-*
-El problema es (como **AB** lo sabe muy bien) que el relato del Antiguo Testamento del antiguo Israel y Judá **simplemente ya no retiene el agua.**
+Tal reconstrucción del Jesús histórico es en realidad muy cercana al Cristo joánico (y por lo tanto sospechosa como resultado de una reconstrucción histórica), pero depende en gran medida de la historicidad del Antiguo Testamento ya que **AB** afirma que Jesús se entendió a sí mismo como la encarnación de las esperanzas bíblicas y la esperanza de los antiguos profetas.
+
+El problema es (como **AB** lo sabe muy bien) que el relato del Antiguo Testamento del antiguo Israel y Judá **simplemente ya no nos es útil.**
 
 No es solo que los primeros capítulos de Génesis hayan tenido que ser descartados como eventos literales, sino que también lo ha sido casi todo fragmento de narración aparentemente histórica en la Biblia hebrea, junto con la mayoría de los Evangelios, y la narración de la Pasión en particular, en la Biblia. Nuevo Testamento.
 
@@ -86,9 +86,9 @@ Podemos debatir si Jesús tuvo una resurrección corporal, pero qué se gana con
 
 La pregunta previa a la resurrección es: «¿Qué pasó con el cadáver de Jesús?» Si alguna vez resolvemos eso, podemos comenzar a preguntarnos qué podría significar una resurrección corporal en el siglo XXI a diferencia del primero, en el que se creía que las personas muertas a menudo volvían a «este mundo» o pasaban a «el próximo mundo.»
 
-En este punto, estoy con Saulo de Tarso. En [1 Co. 15](/es/Bible/!_Corinthians/15) deja claro que Jesús estaba muerto y sepultado (es decir, se había ido), pero luego se convirtió en un espíritu vivificante. El propio encuentro de Pablo con el Señor Resucitado no involucró una resurrección corporal sino (como todos los otros episodios similares) una aparición, afirmando así el principio teológico de que la carne y la sangre no heredan el reino de Dios.
+En este punto, estoy con Saulo de Tarso. En [1 Co. 15](/es/Bible/1_Corinthians/15) deja claro que Jesús estaba muerto y sepultado (es decir, se había ido), pero luego se convirtió en un espíritu vivificante. El propio encuentro de Pablo con el Señor Resucitado no involucró una resurrección corporal sino (como todos los otros episodios similares) una aparición, afirmando así el principio teológico de que la carne y la sangre no heredan el reino de Dios.
 
-¿Cómo se puede insistir en una resurrección corporal frente a [1 Cor. 15](/es/Bible/!_Corinthians/15), y dada la naturaleza vacía de las historias de tumbas vacías me desconcierta.
+¿Cómo se puede insistir en una resurrección corporal frente a [1 Cor. 15](/es/Bible/1_Corinthians/15), y dada la naturaleza vacía de las historias de tumbas vacías me desconcierta.
 
 Si **AB** desea invertir su energía en defender esos castillos de paja, entonces le deseo lo mejor. Prefiero abrazar la nueva información que surge de la arqueología, la investigación histórica y las ciencias, y luego trabajar en el desarrollo de **una nueva teología que cante la canción del Señor en esta tierra extraña llamada el tercer milenio**.
 
@@ -106,7 +106,7 @@ Dado lo que sabemos, los cristianos en el siglo XXI debemos dar sentido a Dios y
 
 El evangelio de Marcos al menos tenía algo de correcto cuando hizo que los ángeles les dijeran a las mujeres que dejaran de rondar por la tumba vacía buscando un cuerpo que no estaba allí. Encontrarían que Jesús ya estaba delante de ellos, en Galilea. Él todavía está muy por delante de nosotros, si tenemos ojos para ver y oídos para oír.
 
-**AUTOMÓVIL CLUB BRITÁNICO**
+**AA**
 
 ## Otras lecturas
 
@@ -133,7 +133,7 @@ Y quizás finalmente:_ «Cuando los hombres vean que los aman tanto y cuán ferv
 
 ## Enlaces externos
 
-- Artículo en Innerface International: ttps://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
+- Artículo en Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
 
 
 

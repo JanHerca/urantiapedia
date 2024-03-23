@@ -50,8 +50,8 @@ What follows is an e-mail critique by an ordained minister of the Anglican Churc
 
 - Understanding himself to be the Messiah
 
-*Such a reconstruction of the historical Jesus is actually very close to the Johannine Christ (and thus suspect as the outcome of a historical reconstruction), but it depends in a large measure on the historicity of the Old Testament since **AB** affirms that Jesus understood himself as the embodiment of biblical hopes and the hope of the ancient prophets.
-*
+Such a reconstruction of the historical Jesus is actually very close to the Johannine Christ (and thus suspect as the outcome of a historical reconstruction), but it depends in a large measure on the historicity of the Old Testament since **AB** affirms that Jesus understood himself as the embodiment of biblical hopes and the hope of the ancient prophets.
+
 The problem is (as **AB** knows very well) that the Old Testament account of ancient Israel and Judah **just does not hold water any more.**
 
 It is not just that the early chapters of Genesis have had to be discarded as literal events, but so has almost every shred of seemingly historical narrative in the Hebrew Bible–along with most of the Gospels, and the Passion narrative in particular, in the New Testament.
@@ -86,9 +86,9 @@ We can debate whether Jesus had a bodily resurrection, but what is gained by tha
 
 The prior question to the resurrection is, “What happened to Jesus’ cadaver?” If we ever solve that, we can begin to ask just what a bodily resurrection might mean in the 21st century as distinct from the 1st–in which dead people were believed often to come back to “this world” or to pass on to “the next world.”
 
-On this point, I am with Saul of Tarsus. In [1 Cor. 15](/en/Bible/!_Corinthians/15) he makes it plain that Jesus was dead and buried (i.e. gone) but then became a life-giving spirit. Paul’s own encounter with the Risen Lord did not involve a bodily resurrection but instead, (like all the other such episodes) an appearance–thus asserting the theological principle that flesh and blood do not inherit the kingdom of God.
+On this point, I am with Saul of Tarsus. In [1 Cor. 15](/en/Bible/1_Corinthians/15) he makes it plain that Jesus was dead and buried (i.e. gone) but then became a life-giving spirit. Paul’s own encounter with the Risen Lord did not involve a bodily resurrection but instead, (like all the other such episodes) an appearance–thus asserting the theological principle that flesh and blood do not inherit the kingdom of God.
 
-How one can insist on a bodily resurrection in the face of [1 Cor. 15](/en/Bible/!_Corinthians/15), and given the empty nature of the empty tomb stories baffles me.
+How one can insist on a bodily resurrection in the face of [1 Cor. 15](/en/Bible/1_Corinthians/15), and given the empty nature of the empty tomb stories baffles me.
 
 If **AB** wishes to invest his energy into defending such castles of straw, then I wish him well. I prefer to embrace the new information emerging from archaeology, historical research, and the sciences, and then to work at developing **a new theology that sings the Lord’s song in this strange land called the third millennium**.
 
@@ -133,7 +133,7 @@ And perhaps finally:_ “When men see you so love them, and how fervently you se
 
 ## External links
 
-- Article in Innerface International: ttps://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
+- Article in Innerface International: https://urantia-book.org/archive/newsletters/innerface/vol10_5/page10.html
 
 
 
