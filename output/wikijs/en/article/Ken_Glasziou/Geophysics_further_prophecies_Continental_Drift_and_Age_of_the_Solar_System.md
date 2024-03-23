@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-<figure id="Figure_1" class="image">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System/Paleoglobe_NO_1040_mya.jpg">
 <figcaption>About 750 million years ago the single large land mass called Rodinia commenced to break up. Then, 250 million years ago the continents rejoined to form Pangea which then also broke up to form the modem world. <a href="https://commons.wikimedia.org/wiki/File:Paleoglobe_NO_1040_mya.gif">Wikipedia</a></figcaption>
 </figure>

@@ -48,6 +48,7 @@ One competing theory, the Quasi-Steady State Cosmology (QSSC) belongs mainly to 
 The primary difference between Hoyle et al., and Arp concerns the birth of matter. Hoyle and co-workers have it emerging from the vacuum with all of its mass but Arp allows time for the mass of a particle to grow and accumulate.
 
 This difference between the three in regard to the time taken to gain mass has some spectacular consequences. And it appears that all groups are relying on an undiscovered Higgs boson to bring mass to their matter particles. The difference is how and when.
+<br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/The_Red_Shift_Shifted/8838999300177722-800x644.jpg">
@@ -85,6 +86,7 @@ However the Big Bang cannot get by without it. And so it comes up with what appe
 </figure>
 
 Arp’s alternative proposes that these aspects of red shift are simply a function of the age of the particles that are the source of the photons detected by our telescopes. This gets rid of the impossibly high energy outpourings of quasars which, according to Arp, is due to the false distance from Earth that the Big Bang’s red shift recessional velocity idea must attribute to them.
+<br style="clear:both;"/>
 
 ## What about space respiration?
 

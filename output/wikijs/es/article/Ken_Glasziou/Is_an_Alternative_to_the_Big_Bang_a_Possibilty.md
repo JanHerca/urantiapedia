@@ -48,6 +48,7 @@ Una teoría en competencia, la cosmología del estado cuasi-estacionario (QSSC) 
 La principal diferencia entre Hoyle et al. y Arp se refiere al nacimiento de la materia. Hoyle y sus colaboradores hacen que emerja del vacío con toda su masa, pero Arp da tiempo para que la masa de una partícula crezca y se acumule.
 
 Esta diferencia entre los tres en cuanto al tiempo que tardan en ganar masa tiene unas consecuencias espectaculares. Y parece que todos los grupos confían en un bosón de Higgs no descubierto para dar masa a sus partículas de materia. La diferencia es cómo y cuándo.
+<br style="clear:both;"/>
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/The_Red_Shift_Shifted/8838999300177722-800x644.jpg">
@@ -85,6 +86,7 @@ Sin embargo, el Big Bang no puede funcionar sin él. Y así surge lo que parecen
 </figure>
 
 La alternativa de Arp propone que estos aspectos del desplazamiento hacia el rojo son simplemente una función de la edad de las partículas que son la fuente de los fotones detectados por nuestros telescopios. Esto elimina las efusiones de energía imposiblemente altas de los cuásares que, según Arp, se deben a la falsa distancia de la Tierra que la idea de la velocidad de recesión del desplazamiento hacia el rojo del Big Bang debe atribuirles.
+<br style="clear:both;"/>
 
 ## ¿Qué pasa con la respiración espacial?
 

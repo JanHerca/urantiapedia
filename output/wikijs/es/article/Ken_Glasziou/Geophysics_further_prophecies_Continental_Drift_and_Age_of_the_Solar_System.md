@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:39Z
 </figure>
 
 
-<figure id="Figure_1" class="image">
+<figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Ken_Glasziou/Geophysics_further_prophecies_Continental_Drift_and_Age_of_the_Solar_System/Paleoglobe_NO_1040_mya.jpg">
 <figcaption>Hace unos 750 millones de años, la gran masa de tierra única llamada Rodinia comenzó a fragmentarse. Luego, hace 250 millones de años, los continentes se unieron para formar Pangea, que luego también se separó para formar el mundo moderno. <a href="https://commons.wikimedia.org/wiki/File:Paleoglobe_NO_1040_mya.gif">Wikipedia</a></figcaption>
 </figure>
