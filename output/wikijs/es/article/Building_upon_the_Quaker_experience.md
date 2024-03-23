@@ -48,7 +48,7 @@ Estos versículos conducen fácilmente a una mentalidad de exclusividad: «Yo te
 > Y el cielo en una flor silvestre,
 > Para sostener el infinito en la palma de tu mano,
 > Y la eternidad en una hora.
-> _Blake_
+> &nbsp; &nbsp; &nbsp; _Blake_
 
 Los Documentos de Urantia reiteran que el evangelio de Jesús era para todos los hombres, que él quería «hacer a todos los hombres semejantes a Dios» (<a id="a52_150"></a>[LU 140:8.18](/es/The_Urantia_Book/140#p8_18)); que quería que sus hijos en la Tierra vivieran como si ya fueran ciudadanos del reino celestial completo" (<a id="a52_305"></a>[LU 140:8.25](/es/The_Urantia_Book/140#p8_25)); y que "él estaba preocupado únicamente por los principios de la vida espiritual interna y personal del hombre” (<a id="a52_465"></a>[LU 140:8.31](/es/The_Urantia_Book/140#p8_31))
 
@@ -84,10 +84,10 @@ No nos queda ninguna duda de que estamos destinados a no seguir el camino que tr
 > Un bebé llorando en la noche:
 > Un niño llorando por la luz,
 > Y sin más lenguaje que un grito.
-> _Tennyson_
+> &nbsp; &nbsp; &nbsp; _Tennyson_
 
 > Algo intentado, algo hecho, se ha ganado el reposo de una noche.
-> _Longfellow_
+> &nbsp; &nbsp; &nbsp; _Longfellow_
 
 Pero nuestro primer deber está dentro de nosotros mismos. Primero debemos «ser:»
 
@@ -103,8 +103,8 @@ Quizás el mejor lugar para descubrir la vida religiosa de Jesús y cómo la viv
 
 ## Nuestra espiritualización personal y «vivir como vivió Jesús».
 
-> «El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas».
->
+> «El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas». ([LU 100:2.6](/es/The_Urantia_Book/100#p2_6))
+
 > «La espiritualidad es el indicador de la proximidad a Dios... realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores».
 >
 > «El desarrollo espiritual está determinado por la capacidad para llevarlo a cabo y es directamente proporcional a la eliminación de los elementos egoístas del amor.» (<a id="a109_169"></a>[LU 100:2.4](/es/The_Urantia_Book/100#p2_4))
@@ -116,7 +116,7 @@ Siendo una cualidad abstracta, una definición precisa de espiritualidad no es r
 > Esta vida no es más que una punzada y todo ha terminado;
 > Pero en la vida venidera que no se desvanece,
 > Cada amor permanecerá y cada amante.
-> _Christina Rosetti_
+> &nbsp; &nbsp; &nbsp; _Christina Rosetti_
 
 > Ninguno que poniendo su mano en el arado mira hacia atrás, es apto para el reino de Dios. [Lucas 9:62](/es/Bible/Luke/9#v62)
 

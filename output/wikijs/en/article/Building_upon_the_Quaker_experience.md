@@ -48,7 +48,7 @@ These verses readily lead to an exclusivity mentality—“I’m right, you are 
 > And heaven in a wild flower, 
 > To hold infinity in the palm of your hand, 
 > And eternity in an hour.
-> _Blake_
+> &nbsp; &nbsp; &nbsp; _Blake_
 
 The Urantia Papers reiterate that Jesus’ gospel was for all men, that he wanted “to make all men God-like” (<a id="a52_108"></a>[UB 140:8.18](/en/The_Urantia_Book/140#p8_18)); that he wanted his children on Earth to live as though they were already citizens of the completed heavenly kingdom" (<a id="a52_274"></a>[UB 140:8.25](/en/The_Urantia_Book/140#p8_25)); and that “he was concerned only with the principles of man’s inner and personal spiritual life,” (<a id="a52_420"></a>[UB 140:8.31](/en/The_Urantia_Book/140#p8_31))
 
@@ -84,10 +84,10 @@ We are left in no doubt that we are intended not to follow the pathway that brou
 > An infant crying in the night: 
 > An infant crying for the light, 
 > And with no language but a cry.
-> _Tennyson_
+> &nbsp; &nbsp; &nbsp; _Tennyson_
 
 > Something attempted, something done, has earned a night's repose.
-> _Longfellow_
+> &nbsp; &nbsp; &nbsp; _Longfellow_
 
 But our first duty lies within ourselves. First we must “be:”
 
@@ -103,8 +103,8 @@ Perhaps the best place to discover the religious life of Jesus and how he lived 
 
 ## Our personal spiritualization and “living as Jesus lived.”
 
-> “The goal for human self-realization should be spiritual not material. The only realities worth striving for are divine, spiritual, and eternal.”
-> 
+> “The goal for human self-realization should be spiritual not material. The only realities worth striving for are divine, spiritual, and eternal.” ([UB 100:2.6](/en/The_Urantia_Book/100#p2_6))
+
 > “Spirituality is the indicator of one’s nearness to God. . . it enhances the ability to discover beauty in things, recognize truth in meanings, discover goodness in values.”
 > 
 > “Spiritual development is determined by the capacity therefor and is directly proportional to the elimination of the selfish qualities in love.” (<a id="a109_148"></a>[UB 100:2.4](/en/The_Urantia_Book/100#p2_4))
@@ -116,7 +116,7 @@ Being an abstract quality, a precise definition of spirituality is not really a 
 > This life is but a pang and all is over; 
 > But in the life to come which fades not away, 
 > Every love shall abide and every lover. 
-> _Christina Rosetti_
+> &nbsp; &nbsp; &nbsp; _Christina Rosetti_
 
 > No man, having put his hand to the plough, and looking back, is fit for the kingdom of God. [Luke 9:62](/en/Bible/Luke/9#v62)
 
