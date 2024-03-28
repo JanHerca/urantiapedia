@@ -220,7 +220,7 @@ If it were not for the Palamite synthesis, and its subsequent adoption in the Co
 
 I would like to close by shifting gears and noting the contribution that might be made by the Eastern Church to the reunification of Christianity. _The Urantia Book_ blasts Occidental Christianity for its disunity:
 
-> Christianity is seriously confronted with the doom embodied in one of its own slogans: “A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sect-divided Christendom... [the] division of Christendom presents a grave weakness....(<a id="a222_276"></a>[UB 195:10.15](/en/The_Urantia_Book/195#p10_15))
+> Christianity is seriously confronted with the doom embodied in one of its own slogans: “A house divided against itself cannot stand.” The non-Christian world will hardly capitulate to a sect-divided Christendom... [the] division of Christendom presents a grave weakness....(<a id="a222_276"></a>[UB 195:10.11-15](/en/The_Urantia_Book/195#p10_11))
 
 Protestantism now presents the world with thousands of competing “churches” to choose from. One could argue that it has sacrificed unity for the sake of avoiding the problems of diversity.
 

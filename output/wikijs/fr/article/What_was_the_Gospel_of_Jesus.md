@@ -101,7 +101,7 @@ Ce concept a ensuite été réitéré par Jésus à ceux qui sont ses disciples 
 
 > « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et **vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis**. » ([LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
-##Conclusion
+## Conclusion
 
 Dans cette revue, nous avons abordé la grande différence entre la vie et l'époque de Jésus telle qu'elle est décrite à la fois dans le Nouveau Testament et les écrits chrétiens, et ce que nous pouvons apprendre du _Livre d'Urantia_.
 

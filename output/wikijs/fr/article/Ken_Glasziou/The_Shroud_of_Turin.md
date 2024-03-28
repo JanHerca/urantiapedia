@@ -65,7 +65,7 @@ Il semble hautement improbable que des lois naturelles de la physique aient ét�
 
 Apparemment, les tissus funéraires ont d'abord été retirés. On nous raconte que lorsque Marie, puis Pierre, se rendirent au tombeau, le linge où reposait la tête de Jésus et les bandages étaient encore dans le tombeau tandis que le « drap de couverture gisait au pied de la niche funéraire ». ([LU 189:4.6](/fr/The_Urantia_Book/189#p4_6))
 
-##Conclusion
+## Conclusion
 
 À tout le moins, le linceul de Turin corrige l’impression selon laquelle Jésus était un homme de race blanche aux yeux bleus. C'était un Sémite. Cela nous rappelle également de manière frappante la douleur et les indignités qu’il a réellement subies.
 

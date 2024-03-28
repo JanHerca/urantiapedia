@@ -31,7 +31,7 @@ Il a été proposé que le Dr Sadler était capable d'écrire le matériel scien
 
 Une troisième étude a été menée à partir d'un échantillon des écrits du Dr Sadler, « L'évolution de l'âme », une conférence publique de 1946 d'environ 6 000 mots. [^3] Après avoir éliminé les citations textuelles du _Livre d'Urantia_, le texte a été examiné à l'aide d'un programme informatique d'analyse de style (Readability Plus).
 
-##Conclusion
+## Conclusion
 
 Lorsqu'elle a été testée à l'aide de la distribution du Chi carré, l'hypothèse selon laquelle l'avant-propos, les parties I, II, III et IV sont toutes des œuvres distinctes s'est avérée très significative pour les mots « quand », « où », « et », « mais, « et ça. » Aucune phrase dans l'avant-propos ne commençait par le mot « comment », mais l'utilisation de phrases commençant par ce mot indiquait que les parties I, II et III étaient nettement différentes de la partie IV. Des parties du livre attribuées aux conseillers divins, aux porteurs de vie, aux Melchisédeks et à un messager solitaire se sont également révélées distinctes.
 

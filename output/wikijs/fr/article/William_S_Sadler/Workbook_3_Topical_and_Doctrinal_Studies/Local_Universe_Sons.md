@@ -66,7 +66,7 @@ Emmanuel, l'Union des Jours, n° 611 121 des Personnalités Suprêmes de la Trin
 1. Il y a deux ordres d'étoiles du soir—créées et ascendantes. Ce sont des assistants spéciaux de Gabriel. <a id="s65_107"></a>[LU 37:2.4](/fr/The_Urantia_Book/37#p2_4)
 2. Il y a 4 832 étoiles du soir créées et 8 809 ascendantes. <a id="s66_61"></a>[LU 37:2.4](/fr/The_Urantia_Book/37#p2_4)
 
-##VII. ARCHANGES
+## VII. ARCHANGES
 
 1. Les Archanges sont largement dédiés à la survie des créatures. <a id="s70_66"></a>[LU 37:3.2](/fr/The_Urantia_Book/37#p3_2)
 2. Ces derniers temps, une division d'archanges a été établie sur Urantia. <a id="s71_75"></a>[LU 37:3.3](/fr/The_Urantia_Book/37#p3_3)

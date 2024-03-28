@@ -356,7 +356,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 4. Après avoir atteint Dieu le Suprême, le défi sera de trouver Dieu l'Ultime. <a id="s355_79"></a>[LU 117:7.17](/fr/The_Urantia_Book/117#p7_17)
 5. Le Suprême n'est peut-être pas omniprésent, mais il est omniprésent. <a id="s356_72"></a>[LU 118:2.3](/fr/The_Urantia_Book/118#p2_3)
 
-##VII. DIEU L'ULTIME
+## VII. DIEU L'ULTIME
 
 ### 1. DIEU L'ULTIME
 

@@ -40,7 +40,7 @@ Il a été proposé que le Dr Sadler était capable de rédiger le matériel sci
 
 Une troisième étude a été menée sur le seul échantillon disponible des écrits du Dr Sadler, une conférence publique de 1946 d'environ 6 000 mots intitulée « L'évolution de l'âme ». Celui-ci a été numérisé sur un disque informatique et converti à la fois en Word Perfect et en base de données FolioViews. Un peu plus de 50 % du texte était constitué de citations textuelles du _Livre d'URANTIA_. Celui-ci a été séparé du reste du texte et analysé à l'aide d'un programme informatique d'analyse de style (Readability Plus).
 
-##Conclusion
+## Conclusion
 
 Lorsqu'elle a été testée à l'aide de la distribution du Chi carré, l'hypothèse selon laquelle l'avant-propos et les parties 1, 2, 3 et 4 sont toutes des œuvres distinctes s'est avérée très significative pour les mots « quand », « et », « mais » et « ce'. Aucune phrase dans l’avant-propos ne commençait par le mot « comment », mais l’utilisation de phrases commençant par ce mot indiquait que les parties 1, 2 et 3 étaient nettement différentes de la partie 4.
 

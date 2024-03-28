@@ -106,11 +106,11 @@ After many years of consideration, I've decided that the book presents not one, 
 
 [Since the authors use “nebulae” to indicate galaxies in Section 1, and since they say the “individual aggregations of matter” are like the nebulae (galaxies) that are external to our galaxy, the authors seem to be saying that Orvonton is composed of many galaxies.]
 
-> “The Seven Superuniverses are not primary physical organizations; nowhere do their boundaries divide a nebular family, neither do they cross a local universe, a prime creative unit. Each superuniverse is simply a geographic space clustering of approximately one seventh of the organized and partially inhabited post-Havona creation, and each is about equal in the number of local universes embraced and in the space encompassed.” <a id="a108_432"></a>[UB 12:1.6](/en/The_Urantia_Book/12#p1_6)
+> “The Seven Superuniverses are not primary physical organizations; nowhere do their boundaries divide a nebular family, neither do they cross a local universe, a prime creative unit. Each superuniverse is simply a geographic space clustering of approximately one seventh of the organized and partially inhabited post-Havona creation, and each is about equal in the number of local universes embraced and in the space encompassed.” <a id="a108_432"></a>[UB 12:1.12](/en/The_Urantia_Book/12#p1_6)
 
 [If by “nebular family” the authors mean clusters of galaxies, then they may be saying that Orvonton is a cluster of galaxies. On the other hand, they may regard the Milky Way galaxy and its small close-by satellite galaxies as a “nebular family.”]
 
-> “The superuniverse of Orvonton is illuminated and warmed by more than ten trillion blazing suns. These suns are the stars of your observable astronomic system.” <a id="a112_163"></a>[UB 15:5.6](/en/The_Urantia_Book/15#p5_6)
+> “The superuniverse of Orvonton is illuminated and warmed by more than ten trillion blazing suns. These suns are the stars of your observable astronomic system.” <a id="a112_163"></a>[UB 15:6.10](/en/The_Urantia_Book/15#p6_10)
 
 [Astronomers currently estimate the size of our Milky Way galaxy as up to 400 billion stars. If a major sector contains about one trillion stars (one tenth of Orvonton,) then our galaxy is about 40% the size of a major sector. The Milky Way galaxy and its satellite galaxies plus the Andromeda galaxy and its satellite galaxies are about the size of a major sector. This is smaller than the cluster of galaxies proposed by a few people for Orvonton, but considerably larger than just our galaxy by itself. In a presentation at the 2002 International Conference, Fred Beckner made the case for Orvonton consisting of our galaxy, the Andromeda galaxy and their satellite galaxies.]
 
@@ -130,7 +130,7 @@ After many years of consideration, I've decided that the book presents not one, 
 
 Before Edwin Hubble discovered stars in the Andromeda galaxy and others, there was a great debate on whether or not those fuzzy patches of light in the sky were galaxies full of stars or clouds of gas. The authors of the Urantia Papers seem to use nebulae to mean both clouds of gas and galaxies. Indeed, there are clouds of gas within our galaxy, and some of them are visible because they are illuminated by various forms of radiation. The sections and comments below explore the various ways the authors used the term “nebulae.”
 
-> “But the greatest of all such distortions arises because the vast universes of outer space in the realms next to the domains of the seven superuniverses seem to be revolving in a direction opposite to that of the grand universe. That is, these myriads of nebulae and their accompanying suns and spheres are at the present time revolving clockwise about the central creation.” <a id="a132_378"></a>[UB 12:4.8](/en/The_Urantia_Book/12#p4_8)
+> “But the greatest of all such distortions arises because the vast universes of outer space in the realms next to the domains of the seven superuniverses seem to be revolving in a direction opposite to that of the grand universe. That is, these myriads of nebulae and their accompanying suns and spheres are at the present time revolving clockwise about the central creation.” <a id="a132_378"></a>[UB 12:4.15](/en/The_Urantia_Book/12#p4_15)
 
 > _Before Edwin Hubble discovered stars in the Andromeda galaxy and others, there was a great debate on whether or not those fuzzy patches of light in the sky were galaxies full of stars or clouds of gas. The authors of the Urantia Papers seem to use nebulae to mean both clouds of gas and galaxies._
 

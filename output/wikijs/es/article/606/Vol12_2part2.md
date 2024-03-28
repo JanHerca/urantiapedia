@@ -41,7 +41,7 @@ dateCreated: 2023-11-12T14:02:03.086Z
 
 2 Salisbury Crt, Glen Waverley, Victoria, AUSTRALIA, 3150.
 
-##Invocaciones Planetarias
+## Invocaciones Planetarias
 
 _La siguiente carta fue enviada a Six-O-Six desde Portugal._
 

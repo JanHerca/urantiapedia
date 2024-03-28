@@ -66,7 +66,7 @@ The traditional ignorance of the structure and organization of the universe has 
 
 > For ages the inhabitants of Urantia have misunderstood the providence of God. There is a providence of divine outworking on your world, but it is not the childish, arbitrary, and material ministry many mortals have conceived it to be. The providence of God consists in the interlocking activities of the celestial beings and the divine spirits who, in accordance with cosmic law, unceasingly labor for the honor of God and for the spiritual advancement of his universe children.
 > 
-> Can you not advance in your concept of God's dealing with man to that level where you recognize that the watchword of the universe is _progress_? (<a id="a68_149"></a>[UB 4:1.1](/en/The_Urantia_Book/4#p1_1))
+> Can you not advance in your concept of God's dealing with man to that level where you recognize that the watchword of the universe is _progress_? (<a id="a68_149"></a>[UB 4:1.1-2](/en/The_Urantia_Book/4#p1_1))
 
 Many Christians believe that the spiritual challenge of our complex contemporary world remains the same as it was in Biblical times. The limited cosmology of Christian orthodoxy tends to confirm this stagnate view of history in which the Holy Bible is seen as the only revelation of God which was given once and for all time. Any other spiritual vision or source of revelation is seen as erroneous, heretical, or inspired by the devil. This narrow view of orthodox theology justifies their refusal to honestly and seriously examine _The Urantia Book_. Even as a Christian, years ago I was forced to question this orthodox view as a “self fulfilling prophecy” that perpetuates a Biblical perspective that may not be based on historical or universal reality.
 

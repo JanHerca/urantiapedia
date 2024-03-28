@@ -42,7 +42,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 - Antonio Moya
 - L. Coll
 
-##Carmel
+## Carmel
 
 Concernant ces trilogies j'ai trouvé un autre paragraphe intéressant qui peut aider à clarifier les concepts ; Il s'agit de 196 :3.2. Il le dit :
 

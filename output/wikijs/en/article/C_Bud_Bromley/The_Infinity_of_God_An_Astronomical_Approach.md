@@ -56,7 +56,7 @@ Incredibly huge as this known universe is, God created it, God sustains it, God 
 
 And the greatest miracle is that this inconceivably infinite God lovingly invites each one of us to call Him “Father!”
 
-> _Bud Bromley is a retired mathematics and English teacher. He is the son of an American Baptist minister, yet Bud tells us he was a much more intelligently logical scholar than the unfortunate stereotype of a hard nosed conservative clergyman. Bud was a flying radio operator in the CBI theater in WW II. He first encountered _The Urantia Book_ in 1957, and was carefully skeptical. However, he reports that when he got to Paper 4, section 5 , paragraph 4, (a refutation of the atonement doctrine) he was compelled to exclaim: “Yes! This has got to be right!” And, ever since, he has been an earnest student of the Urantia Papers. He tells us he has been puzzled often, but never turned off. Bud can be reached at:_
+> _Bud Bromley is a retired mathematics and English teacher. He is the son of an American Baptist minister, yet Bud tells us he was a much more intelligently logical scholar than the unfortunate stereotype of a hard nosed conservative clergyman. Bud was a flying radio operator in the CBI theater in WW II. He first encountered_ The Urantia Book _in 1957, and was carefully skeptical. However, he reports that when he got to Paper 4, section 5 , paragraph 4, (a refutation of the atonement doctrine) he was compelled to exclaim: “Yes! This has got to be right!” And, ever since, he has been an earnest student of the Urantia Papers. He tells us he has been puzzled often, but never turned off. Bud can be reached at:_
 > 
 > bbromley@comteck.com
 
