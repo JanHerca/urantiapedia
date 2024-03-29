@@ -78,7 +78,7 @@ Did I say _historic episode?_ Is this carrying the praise a little too far?
 
 I think not. These “ordinary” Urantians have taken Urantian outreach and evangelism to another level. We should admire and applaud them. They exemplify the genius of the people.
 
-> “As the Father sent me into this world, even so now send I you. You are all called to carry the good news to those who sit in darkness. This gospel of the kingdom belongs to all who believe it; it shall not be committed to the custody of mere priests. Soon will the Spirit of Truth come upon you, and he shall lead you into all truth. Go you, therefore, into all the world preaching this gospel, and lo, I am with you always, even to the end of the ages.” <a id="a80_458"></a>[[UB 186:2.11](/en/The_Urantia_Book/186#p2_11)]
+> “As the Father sent me into this world, even so now send I you. You are all called to carry the good news to those who sit in darkness. This gospel of the kingdom belongs to all who believe it; it shall not be committed to the custody of mere priests. Soon will the Spirit of Truth come upon you, and he shall lead you into all truth. Go you, therefore, into all the world preaching this gospel, and lo, I am with you always, even to the end of the ages.” <a id="a80_458"></a>[UB 191:6.3](/en/The_Urantia_Book/191#p6_3)
 
 <figure class="table chapter-navigator">
   <table>
