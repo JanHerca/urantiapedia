@@ -35,6 +35,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 William R. Hutchison in _Religious Pluralism in America_, observes that there are more Hindus in America than Quakers, more Buddhists than Unitarians. Islam in the United States has become as large as the Jewish population and is comparable in size to such old-line Protestant denominations as the Presbyterians or the Episcopalians. Religious pluralism in America has become a major characteristic of our culture. There is an increasing realization that no religious institution embodies final truth.
+
 It appears that America's religious pluralism is laying the foundation for philosophical and theological interaction and an openness to new spiritual insights. Since the Fifth Epochal Revelation is establishing roots in North and South America it has the potential of being introduced through our religious pluralism to the other religions of the world. Professor Hutchison states that the dominant characteristic of our religious pluralism is personal choice in our beliefs rather than accepting institutional standards. Hopefully, this will enhance the introduction of the Urantia Papers.
 
 <figure class="table chapter-navigator">

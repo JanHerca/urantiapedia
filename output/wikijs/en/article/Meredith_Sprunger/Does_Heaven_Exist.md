@@ -42,7 +42,7 @@ As we have repeatedly observed in these columns, _The Urantia Book_ confirms, en
 
 > "Reason, wisdom, and faith are man's highest human attainments. Reason introduces man to the world of facts, to things; wisdom introduces him to a world of truth, to relationships; faith initiates him into a world of divinity, spiritual experience.
 > 
-> Faith most willingly carries reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of truth." (<a id="a44_245"></a>[UB 103:9.7](/en/The_Urantia_Book/103#p9_7))
+> Faith most willingly carries reason along as far as reason can go and then goes on with wisdom to the full philosophic limit; and then it dares to launch out upon the limitless and never-ending universe journey in the sole company of truth." (<a id="a44_245"></a>[UB 103:9.6-7](/en/The_Urantia_Book/103#p9_6))
 
 
 

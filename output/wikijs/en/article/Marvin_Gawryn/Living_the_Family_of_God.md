@@ -70,7 +70,7 @@ This constellation of thoughts regarding the family of God emerged during three 
 
 What is this higher symbol the revelators speak of? Once again the book provides us some guidance:
 
-> "The family occupied the very center of Jesus' philosophy of life-here and hereafter. He based his teachings about God on the family....” (<a id="a72_141"></a>[UB 87:7.1](/en/The_Urantia_Book/87#p7_1))
+> "The family occupied the very center of Jesus' philosophy of life-here and hereafter. He based his teachings about God on the family....” (<a id="a72_141"></a>[UB 140:8.14](/en/The_Urantia_Book/140#p8_14))
 
 > Rodan states, “I do not hesitate thus to glorify family life, for your Master has wisely chosen the father-child relationship as the very cornerstone of this new gospel of the kingdom.” (<a id="a74_189"></a>[UB 160:2.6](/en/The_Urantia_Book/160#p2_6))
 
