@@ -57,7 +57,7 @@ dateCreated: 2022-9-9T8:13:39Z
 >
 > « Au grand jour du jugement du royaume, beaucoup me diront : ‘N’avons-nous pas prophétisé en ton nom et accompli, par ton nom, bien des œuvres merveilleuses ?’ Mais je serai obligé de leur dire : ‘Je ne vous ai jamais connus ; éloignez-vous de moi, vous, qui êtes de faux éducateurs.’ Mais quiconque entend ces instructions et exécute sincèrement sa mission de me représenter devant les hommes comme j’ai représenté mon Père devant vous, trouvera une large entrée à mon service et dans le royaume du Père qui est aux cieux. » »
 >
-> « Jamais auparavant les apôtres n’avaient entendu Jésus s’expliquer de cette manière, car il leur avait parlé comme quelqu’un disposant de l’autorité suprême. Ils descendirent de la montagne au coucher du soleil, mais aucun d’eux ne posa de question à Jésus. » (<a id="a82_206"></a>[UB 140:3.1-21](/en/The_Urantia_Book/140#p3_1))
+> « Jamais auparavant les apôtres n’avaient entendu Jésus s’expliquer de cette manière, car il leur avait parlé comme quelqu’un disposant de l’autorité suprême. Ils descendirent de la montagne au coucher du soleil, mais aucun d’eux ne posa de question à Jésus. » (<a id="a82_206"></a>[LU 140:3.1-21](/fr/The_Urantia_Book/140#p3_1))
 
 ## Liens externes
 

@@ -25,7 +25,7 @@ Les révélateurs savaient bien qu’il en serait finalement ainsi : « L’horl
 
 La liste d’erreurs qui suit comprend des déclarations des Cahiers d’Urantia qui seraient presque certainement considérées comme erronées par les nouveaux lecteurs et les amèneraient à abandonner tout intérêt – d’autant plus s’ils s’attendaient à lire une révélation provenant d’une source surnaturelle :
 
-> **57:5.10**: Se référant à Jupiter et Saturne, “Ces deux planètes, les plus grosses du système solaire, sont restées largement gazeuses jusqu’à ce jour... Les noyaux de contraction gazeuse des dix autres planètes atteignirent bientôt le stade de la solidification, et commencèrent ainsi à attirer à eux des quantités croissantes de la matière météorique circulant dans l’espace environnant.” (<a id="a50_350"></a>[UB 57:5.10-11](/en/The_Urantia_Book/57#p5_10))
+> **57:5.10**: Se référant à Jupiter et Saturne, “Ces deux planètes, les plus grosses du système solaire, sont restées largement gazeuses jusqu’à ce jour... Les noyaux de contraction gazeuse des dix autres planètes atteignirent bientôt le stade de la solidification, et commencèrent ainsi à attirer à eux des quantités croissantes de la matière météorique circulant dans l’espace environnant.” (<a id="a50_350"></a>[LU 57:5.10-11](/fr/The_Urantia_Book/57#p5_10))
 
 **Commentaire :** Les planètes intérieures, Mercure, Vénus, la Terre et Mars, sont classées comme « terrestres ». Les planètes joviennes sont les planètes géantes, Jupiter, Saturne, Uranus et Neptune. Celles-ci sont également classées comme « planètes gazeuses » car la majeure partie de leur volume est gazeuse. Tous ont un noyau « rocheux ». En proportion de sa masse, Uranus est beaucoup plus « rocheuse » que Jupiter. Néanmoins, sa densité est plus faible.[^3]
 

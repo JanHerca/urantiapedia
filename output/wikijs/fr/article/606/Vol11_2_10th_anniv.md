@@ -778,7 +778,7 @@ Cela a été révélé jusqu'au 7. Mission d'effusion, ainsi que dans d'autres s
 > 
 > _Le royaume de Dieu est dans le cœur des hommes et, quand ce royaume devient actuel dans le cœur de chaque individu d’un monde, alors la loi de Dieu est devenue actuelle sur cette planète ; et ceci est l’accès de l’Être Suprême à la souveraineté._
 > 
-> La providence se discerne de mieux en mieux à mesure que les hommes s’élèvent du matériel au spirituel. L’acquisition d’une clairvoyance spirituelle parachevée permet à la personnalité ascendante de détecter l’harmonie dans ce qui était auparavant un chaos. Même la mota morontielle représente un réel progrès dans cette direction. [UB 118:10.15-19](/en/The_Urantia_Book/118#p10_15) 
+> La providence se discerne de mieux en mieux à mesure que les hommes s’élèvent du matériel au spirituel. L’acquisition d’une clairvoyance spirituelle parachevée permet à la personnalité ascendante de détecter l’harmonie dans ce qui était auparavant un chaos. Même la mota morontielle représente un réel progrès dans cette direction. [LU 118:10.15-19](/fr/The_Urantia_Book/118#p10_15) 
 
 <figure id="Figure_12" class="image urantiapedia" alt="A TAPESTRY OF LOVING SERVICE">
 <img src="/image/article/606/spirit_of_love.jpg">

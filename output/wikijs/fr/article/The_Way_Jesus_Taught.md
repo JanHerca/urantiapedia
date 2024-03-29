@@ -32,7 +32,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 5. Make your appeals directly to the divine spirit that dwells within the minds of men.
 > 6. Do not appeal to fear, pity, or mere sentiment. In appealing to men, be fair; exercise self-control and exhibit due restraint; show proper respect for the personalities of your pupils.
 > 7. In bringing men into the kingdom, do not lessen or destroy their self-respect.
-> 8. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it. (<a id="a54_132"></a>[UB 159:3.2-3](/en/The_Urantia_Book/159#p3_2))
+> 8. Forget not that I will stop at nothing to restore self-respect to those who have lost it, and who really desire to regain it. (<a id="a54_132"></a>[LU 159:3.2-3](/fr/The_Urantia_Book/159#p3_2))
 
 > Jésus ... Pour aider une personne, il commençait souvent par lui demander de l’aide. De cette manière, il suscitait de l’intérêt et faisait appel aux meilleurs éléments de la nature humaine. ([LU 171:7.7](/fr/The_Urantia_Book/171#p7_7))
 

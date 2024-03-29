@@ -31,7 +31,7 @@ La plupart des lecteurs semblent avoir commis la même erreur que moi. Voici ce 
 > 2. Les enseignements édéniques d'Adam et Ève
 > 3. Les enseignements de Melchisédek de Salem
 > 4. Les enseignements de Jésus de Nazareth
-> 5.  Les Fascicules d’Urantia. (<a id="a56_26"></a>[UB 92:4.4-9](/en/The_Urantia_Book/92#p4_4))
+> 5.  Les Fascicules d’Urantia. (<a id="a56_26"></a>[LU 92:4.4-9](/fr/The_Urantia_Book/92#p4_4))
 
 Les quatre premiers d’entre eux entrent dans la définition de « révélation d’époque » car chacun émane directement d’une « agence céleste » autre que l’Ajusteur de Pensée. Mais la manière par laquelle les Cahiers d’Urantia nous sont parvenus est tout à fait différente :
 

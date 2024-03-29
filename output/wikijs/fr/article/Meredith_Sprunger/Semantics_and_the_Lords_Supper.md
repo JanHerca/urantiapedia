@@ -23,7 +23,7 @@ Il était temps, ai-je décidé, d’examiner sérieusement la sémantique de la
 > 
 > Quand le souper du souvenir est partagé par ceux qui croient au Fils et qui connaissent dieu, son symbolisme n’a besoin d’être associé à aucune des fausses interprétations humaines et puériles concernant la signification de la présence divine, car, en toutes ces occasions, le Maitre est _réellement présent_.....
 > 
-> « Chaque fois que vous ferez cela, faites-le en souvenir de moi. Et, quand vous vous souviendrez de moi, faites d’abord un retour sur ma vie dans la chair, rappelez-vous que j’ai été jadis avec vous et, ensuite, discernez par la foi que vous souperez tous un jour avec moi dans le royaume éternel du père. » (<a id="a48_269"></a>[UB 179:5.1-9](/en/The_Urantia_Book/179#p5_1))
+> « Chaque fois que vous ferez cela, faites-le en souvenir de moi. Et, quand vous vous souviendrez de moi, faites d’abord un retour sur ma vie dans la chair, rappelez-vous que j’ai été jadis avec vous et, ensuite, discernez par la foi que vous souperez tous un jour avec moi dans le royaume éternel du père. » (<a id="a48_269"></a>[LU 179:5.1-9](/fr/The_Urantia_Book/179#p5_1))
 
 J'espère que les principaux ministres chrétiens reconnaîtront les implications bien intentionnées mais erronées concernant la nature de Dieu impliquées dans la liturgie eucharistique et la modifieront pour s'harmoniser avec les enseignements de Jésus concernant le Père céleste.
 

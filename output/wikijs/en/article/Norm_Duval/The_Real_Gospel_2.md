@@ -75,7 +75,7 @@ Doing the Father's will is the key to entering the kingdom of heaven. And what i
 
 Jesus tells us how we can have eternal life.
 
-> “And, behold, a certain lawyer stood up, and tested him, saying, 'Master, what shall I do to inherit eternal life?' Jesus said to him, 'What is written in the law? how do you read it?' And he answered saying, 'Thou shall love God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbor as thyself.' And Jesus said to him, 'Thou has answered right: this do, and thou shall live.” ([Luke 10:2528](/en/Bible/Luke/10#v2528))
+> “And, behold, a certain lawyer stood up, and tested him, saying, 'Master, what shall I do to inherit eternal life?' Jesus said to him, 'What is written in the law? how do you read it?' And he answered saying, 'Thou shall love God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbor as thyself.' And Jesus said to him, 'Thou has answered right: this do, and thou shall live.” ([Luke 10:25-28](/en/Bible/Luke/10#v25))
 
 Do this and you will have eternal life! Love God, and love your neighbor. Could it be any clearer or simpler? Jesus knows that loving all of our fellow humans may not be easy for us, but he expects trend and effort.
 

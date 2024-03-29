@@ -33,7 +33,7 @@ L’article de Dick Bain dans Innerface de mars/avril nous a tous enthousiasmés
 > 
 > _L’Église visible devrait refuser de continuer à handicaper le progrès de la fraternité invisible et spirituelle du royaume de Dieu. Cette fraternité est destinée à devenir un *organisme vivant,* contrastant avec une organisation sociale passée au rang d’institution. Les organisations sociales peuvent bien être utilisées par la fraternité, mais il ne faut pas qu’elles la supplantent._ ([LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
 
-> True religion is to know God as your Father and man as your brother. Religion has always been a conservator of morals and a stabilizer of society. And this is still true, notwithstanding the contrary teaching of many modern socialists and humanists. (<a id="a58_253"></a>[UB 99:5.1-2](/en/The_Urantia_Book/99#p5_1))
+> True religion is to know God as your Father and man as your brother. Religion has always been a conservator of morals and a stabilizer of society. And this is still true, notwithstanding the contrary teaching of many modern socialists and humanists. (<a id="a58_253"></a>[LU 99:5.1-2](/fr/The_Urantia_Book/99#p5_1))
 
 ## Liens externes
 

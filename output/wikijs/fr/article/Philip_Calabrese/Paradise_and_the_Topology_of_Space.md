@@ -57,7 +57,7 @@ Il a été suggéré qu'il pourrait être utile de concevoir le cosmos tout enti
 
 - C'est un ellipsoïde plat qui possède une région haute, une région basse et une région périphérique.
 - C'est la structure organisée la plus gigantesque de tout le cosmos.
-- C'est la demeure de la Trinité existentielle des trois personnes divines et (probablement) le centre focal des trois Absolus non personnels (<a id="a59_143"></a>[UB 0:11.15](/fr/The_Urantia_Book/0#p11_15)).
+- C'est la demeure de la Trinité existentielle des trois personnes divines et (probablement) le centre focal des trois Absolus non personnels (<a id="a59_143"></a>[LU 0:11.15](/fr/The_Urantia_Book/0#p11_15)).
 - C'est le centre géographique de l'infini (<a id="a60_44"></a>[LU 11:9.2](/fr/The_Urantia_Book/11#p9_2)).
 - Il n'a ni temps ni espace (sauf volontairement), mais il a des surfaces et des aires absolues, ainsi que des distances et des directions - nord, sud, est, ouest, haut, bas - avec une signification absolue.
 - Elle se présente universellement sous la forme d'une emprise physique, d'une attraction instantanée, d'une gravité paradisiaque (<a id="a62_131"></a>[LU 11:8.9](/fr/The_Urantia_Book/11#p8_9), <a id="a62_174"></a>[LU 10:3.11](/fr/The_Urantia_Book/10#p3_11)).

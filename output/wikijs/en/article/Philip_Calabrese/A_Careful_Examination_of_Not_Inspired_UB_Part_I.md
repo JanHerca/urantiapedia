@@ -110,7 +110,7 @@ Note, that when the concept to be presented had not found an adequate human expr
 
 Note that the author is mandated to “attempt” a description of the perfect central universe and the encircling seven superuniverses.
 
-> “_We are to be guided by the mandate of the superuniverse rulers which directs that we shall, in all our efforts to reveal truth and co-ordinate essential knowledge, give preference to the highestexisting human concepts pertaining to the subjects to be presented. We may resort to pure revelation only when the concept of presentation has had no adequate previous expression by the human mind._” (<a id="a112_399"></a>[UB 0:12.10](/en/The_Urantia_Book/0#p12_10))
+> “_We are to be guided by the mandate of the superuniverse rulers which directs that we shall, in all our efforts to reveal truth and co-ordinate essential knowledge, give preference to the highestexisting human concepts pertaining to the subjects to be presented. We may resort to pure revelation only when the concept of presentation has had no adequate previous expression by the human mind._” (<a id="a112_399"></a>[UB 0:12.11](/en/The_Urantia_Book/0#p12_11))
 
 So, the author may “resort” to pure revelation when the “concept of presentation” has no adequate human expression. So not just early 20^th^ century science was allowed. Some more advanced concepts were supposed to be presented, because they were deemed necessary to explain the spiritual truths to be revealed. These more adequate descriptions in _The Urantia Book_ of such advanced scientific concepts must be fairly accurate or else _The Urantia Book_ is not what it purports to be.
 

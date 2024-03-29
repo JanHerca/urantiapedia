@@ -38,7 +38,7 @@ Sydney a quelques nouveaux membres dans son groupe et votre éditeur a récemmen
 
 ## « Pensée du mois »
 
-> « Gardez toujours à l’esprit que Dieu et les hommes ont besoin les uns des autres. Ils sont mutuellement nécessaires à la réalisation complète et finale de l’expérience de la personnalité éternelle dans la destinée divine de la finalité de l’univers. _Le Livre d'URANTIA_ [LU 195:10.3](/es/The_Urantia_Book/195#p10_3)
+> « Gardez toujours à l’esprit que Dieu et les hommes ont besoin les uns des autres. Ils sont mutuellement nécessaires à la réalisation complète et finale de l’expérience de la personnalité éternelle dans la destinée divine de la finalité de l’univers. _Le Livre d'URANTIA_ [LU 195:10.3](/fr/The_Urantia_Book/195#p10_3)
 
 ## Preuve de choses invisibles
 

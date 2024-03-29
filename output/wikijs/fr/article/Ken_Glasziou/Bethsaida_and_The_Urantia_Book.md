@@ -42,7 +42,7 @@ Après la guérison d'Amos, le fou de Kheresa, Jésus et les apôtres revinrent 
 
 Pour avoir une bonne perspective, nous devons être conscients que la mer de Galilée était assez petite, environ 13 milles de long et 7 à 8 milles de large. Échapper à la foule était impossible. Le livre continue :
 
-> « Mais la foule ne l’entendit pas ainsi. Les intéressés virent la direction que prenait le bateau de Jésus, louèrent toutes les barques disponibles et se lancèrent à sa poursuite. Ceux qui ne purent trouver de bateau partirent **à pied en contournant l’extrémité nord du lac**... Le mercredi à midi, près de cinq-mille hommes, femmes et enfants s’étaient rassemblés là dans ce parc au **sud de Bethsaïde-Julias**. » (<a id="a67_388"></a>[UB 152:2.2-4](/en/The_Urantia_Book/152#p2_2))
+> « Mais la foule ne l’entendit pas ainsi. Les intéressés virent la direction que prenait le bateau de Jésus, louèrent toutes les barques disponibles et se lancèrent à sa poursuite. Ceux qui ne purent trouver de bateau partirent **à pied en contournant l’extrémité nord du lac**... Le mercredi à midi, près de cinq-mille hommes, femmes et enfants s’étaient rassemblés là dans ce parc au **sud de Bethsaïde-Julias**. » (<a id="a67_388"></a>[LU 152:2.2-4](/fr/The_Urantia_Book/152#p2_2))
 
 S’ensuivirent les incidents des pains et des poissons et la tentative des foules de couronner Jésus comme leur roi et le refus de Jésus. Le livre nous dit :
 

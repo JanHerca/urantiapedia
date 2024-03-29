@@ -48,7 +48,7 @@ Le premier weekend de juin, dix personnes ayant un intérêt de longue date pour
 
 D’après Ralph Zehr, l’impulsion pour ce symposium provient directement du Fascicule 195.
 
-> « Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » [LU 195:9.2](/es/The_Urantia_Book/195#p9_2)
+> « Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » [LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)
 
 Ralph en vint à dire, « Il ne peut avoir aucun démenti que notre monde ‘ frémisse maintenant au bord même ’de la plus énorme explosion de données allant à un niveau de découvertes sans pareil. Le redoublement de la vitesse du total de la connaissance mondiale, est estimé maintenant, à moins d’un an ! Et nulle part ailleurs ‘ le courant mondial de naturalisme mécaniste’ n’est plus apparent que dans le monde universitaire.
 
