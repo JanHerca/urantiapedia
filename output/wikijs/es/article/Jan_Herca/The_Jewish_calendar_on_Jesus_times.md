@@ -10,9 +10,9 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
-En la época actual la mayoría de los países se rigen por el calendario denominado «gregoriano», que fue establecido por el papa Gregorio basándose, tras realizar ciertas correcciones, en el calendario juliano, en vigor desde el año 46 a.C., instaurado por Julio César, y que fue el calendario del imperio romano en la época de Jesús.
+En la época actual la mayoría de los países se rigen por el calendario denominado «gregoriano». Fue establecido por el papa Gregorio basándose, tras realizar ciertas correcciones, en el calendario juliano, que estuvo en vigor desde el año 46 a.C., fue instaurado por Julio César, y fue el calendario del imperio romano en la época de Jesús.
 
-El Maestro sin duda tuvo que conocer este calendario y estar familiarizado con él, ya que de un modo u otro afectaba a todos los reinos sometidos bajo el dominio de Roma. Pero quizá el calendario romano de la época de Jesús nos ocupe otro documento.
+El Maestro, sin duda, tuvo que conocer este calendario y estar familiarizado con él, ya que de un modo u otro afectaba a todos los reinos sometidos bajo el dominio de Roma. Pero quizá el calendario romano de la época de Jesús nos ocupe otro documento.
 
 Lo que nos ocupa aquí es el calendario judío de la época de Jesús y su correlación con el calendario juliano, cuestión de importancia para conocer cuándo tuvieron lugar fiestas y acontecimientos señalados de su vida.
 
@@ -30,7 +30,7 @@ La Tierra da una vuelta alrededor del Sol cada 365 días aproximadamente. La Lun
 
 Es fácil entender que desde la antigüedad ha sido una tentación dividir en doce partes iguales el año solar, los meses, y hacer coincidir esos meses con las lunaciones. Pero el problema surge cuando nos encontramos con ese desfase de 11 días todos los años.
 
-Para resolver este problema, el calendario judío de la época de Jesús, al igual que otros calendarios de la época también basados en la Luna, utilizaba el método de la intercalación de un mes más cada ciertos años (un mes denominado «embolismal») para mantener en sincronía los ciclos solares y lunares, y la realización de algunos ajustes más en el cómputo total de días del año.
+Para resolver este problema, el calendario judío de la época de Jesús, al igual que otros calendarios de la época también basados en la Luna, utilizaba el método de la intercalación de un mes más cada ciertos años (un mes denominado «embolismal») para mantener en sincronía los ciclos solares y lunares. También se realizaban algunos ajustes en el cómputo total de días del año.
 
 Del mismo modo a como en el calendario juliano (y después en el nuestro actual) se añade un día más en los años bisiestos, en el calendario judío de tiempos de Jesús se añadía un mes completo cada ciertos intervalos de tiempo.
 
@@ -38,7 +38,7 @@ Las reglas de este calendario quedaban entonces como sigue:
 
 * Cada 19 años (lo que se conoce como «ciclo metónico») había ciertos años que tenían 13 meses. Los investigadores discuten cuáles de estos años fueron utilizados en esta época, pero casi todas las evidencias apuntan a que eran los años 3, 6, 8, 11, 14, 17, y 19 del ciclo. El resto tenían 12 meses.
 
-* Para que ciertas fiestas religiosas cayeran lo más próximas posibles a ciertos hechos astronómicos, algunos de esos 19 años debían tener un día más y otros un día menos. En concreto, algo muy importante era que la Pascua cayera después del equinoccio vernal. La fijación de estas adiciones o sustracciones al número de días ha dividido a los expertos en dos posturas: la que considera que se seguían unas reglas conocidas como las «reglas de la posposición» (o _dechiyot_); y la contraria, que opina que estas reglas no se aplicaban en tiempos de Jesús, sino que se utilizaban criterios subjetivos (observaciones astronómicas, observación del momento en que los primeros frutos empezaban a estar maduros, la edad de los corderos, etc.), fijados por los escribas y los rabinos de entonces.
+* Para que ciertas fiestas religiosas cayeran lo más próximas posibles a ciertos hechos astronómicos, algunos de esos 19 años debían tener un día más y otros un día menos. En concreto, algo muy importante era que la Pascua cayera después del equinoccio vernal. La fijación de estas adiciones o sustracciones al número de días ha dividido a los expertos en dos posturas: la que considera que se seguían unas reglas, conocidas como las «reglas de la posposición» (o _dechiyot_); y la contraria, que opina que estas reglas no se aplicaban en tiempos de Jesús, sino que se utilizaban criterios subjetivos (observaciones astronómicas, observación del momento en que los primeros frutos empezaban a estar maduros, la edad de los corderos, etc.), fijados por los escribas y los rabinos de entonces.
 
 Aquí no vamos a entrar a analizar cada una de estas posturas porque llevarían muy lejos las explicaciones. Tan sólo baste decir que todas las determinaciones estaban encaminadas a un mismo propósito: tratar de hacer coincidir el principio de cada año, el año nuevo judío, con una posición muy concreta de la Luna, conocida como _Molad_[^3], de modo que de año en año la sincronía lunar fuera perfecta.
 
@@ -52,7 +52,7 @@ Por ello, a la espera de nuevos descubrimientos y evidencias, parece que sólo p
 
 Quizá una de las fechas más discutida es la de su muerte. _El Libro de Urantia_ establece esta fecha en el 7 de abril de 30 d.C., y esta fecha es, curiosamente, una de las que barajan los expertos como hipótesis. Se basan en las indicaciones que aparecen en los evangelios acerca de que la pascua judía, el año en el que murió Jesús crucificado, tuvo lugar un viernes. Las posibilidades admiten, entre otros años, a este 7 de abril de 30 d.C.
 
-Por tanto, y dada la imposibilidad actual de decantarse científicamente por una fecha concreta, se ha preferido tomar como válido este 7 de abril y hacerlo coincidir con un 14 de nisán, que es el primer día de la fiesta de pascua. Existe un amplio debate y polémica sobre esta cuestión de si Jesús murió el día antes al 14 de nisán, o bien durante el 14 de nisán. Pero quizá esto sea tema de otro documento.
+Por tanto, y dada la imposibilidad actual de decantarse científicamente por una fecha concreta, para desarrollar el calendario que voy a proponer a continuación he preferido tomar como válido este 7 de abril y hacerlo coincidir con un 14 de nisán, que es el primer día de la fiesta de pascua. Existe un amplio debate y polémica sobre esta cuestión de si Jesús murió el día antes al 14 de nisán, o bien durante el 14 de nisán. Pero quizá esto sea tema de otro documento.
 
 Debe anotarse aquí que los días judíos empezaban con un desfase de casi 18 horas con respecto a nuestros días actuales, pues los judíos empezaban a contar el comienzo del día a la puesta del sol. El gráfico muestra este desfase y aparece marcado el momento de la crucifixión.
 
@@ -60,35 +60,31 @@ Debe anotarse aquí que los días judíos empezaban con un desfase de casi 18 ho
 <img src="/image/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times/fechas.jpg">
 </figure>
 
-Algunos calendarios consultados no ofrecen exactamente esta fecha para el 14 de nisán, pero como ha quedado explicado, puesto que todo son conjeturas, se ha tratado de elaborar un calendario «posible» que se ajustara a este 7 de abril como 14 de nisán.
+Algunos calendarios consultados no ofrecen exactamente esta fecha para el 14 de nisán, pero como ha quedado explicado, puesto que todo son conjeturas, he tratado de elaborar un calendario «posible» que se ajuste a este 7 de abril como 14 de nisán.
 
 ## Procedimiento utilizado
 
-El calendario se ha elaborado de la siguiente manera:
+El calendario lo he elaborado de la siguiente manera:
 
-* El punto de partida ha sido el calendario basado en las reglas de posposición actuales, que utiliza un ciclo metónico tradicional, haciendo que los años 1, 2, 4, 5, 7, 9, 10, 12, 13, 15, 16 y 18 del ciclo tengan doce meses. Los meses, en orden del primero al último, se llamaban: tishri, heshván, kislev, tevet, shevat, adar, nisán, iyar, siván, tammuz, ab y elul. El resto de años del ciclo el mes de adar se alargaba un día y se añadía detrás un mes más llamado adar sení o segundo adar.
+* Mi punto de partida ha sido el calendario basado en las reglas de posposición actuales, que utiliza un ciclo metónico tradicional, haciendo que los años 1, 2, 4, 5, 7, 9, 10, 12, 13, 15, 16 y 18 del ciclo tengan doce meses. Los meses, en orden del primero al último, se llamaban: _tishri_, _heshván_, _kislev_, _tevet_, _shevat_, _adar_, _nisán_, _iyar_, _siván_, _tammuz_, _ab_ y _elul_. El resto de años del ciclo el mes de adar se alargaba un día y se añadía detrás un mes más llamado _adar sení_ o _segundo adar_.
 
-* También se ha utilizado la regla de hacer que todos los meses excepto hesván y kislev tengan una duración fija: tishri tenía 30 días, tevet 29, shevat 30, adar (años «embolismales») 30, adar (años «comunes») o adar sení (años «embolismales») 29, nisán 30, iyar 29, siván 30, tammuz 29, ab 30 y elul 29. Como se ve es fácil de recordar. Cada mes impar tenía 30 días y cada mes par tenía 29, excepto para heshván y kislev (y sin contar el adar de los años embolismales). Sin embargo, muchos estudiosos del tema se inclinan más por calendarios donde todos los meses eran susceptibles de tener un número de días variable. Resulta fácil inclinarse por la idea de que ya en tiempos de Jesús casi todos los meses tenían una longitud fija para facilitar el que la gente pudiera recordarlos y utilizarlos, tal y como se hace hoy en día. [^4] [^5] [^6]
+* También he utilizado la regla de hacer que todos los meses excepto _hesván_ y _kislev_ tengan una duración fija: _tishri_ tenía 30 días, _tevet_ 29, _shevat_ 30, _adar_ (años «embolismales») 30, _adar_ (años «comunes») o _adar sení_ (años «embolismales») 29, _nisán_ 30, _iyar_ 29, _siván_ 30, _tammuz_ 29, _ab_ 30 y _elul_ 29. Como se ve es fácil de recordar. Cada mes impar tenía 30 días y cada mes par tenía 29, excepto para _heshván_ y _kislev_ (y sin contar el _adar_ de los años embolismales). Sin embargo, muchos estudiosos del tema se inclinan más por calendarios donde todos los meses eran susceptibles de tener un número de días variable. Resulta fácil inclinarse por la idea de que ya en tiempos de Jesús casi todos los meses tenían una longitud fija para facilitar el que la gente pudiera recordarlos y utilizarlos, tal y como se hace hoy en día. [^4] [^5] [^6]
 
-* Del mismo modo, la duración de los días de heshván y kislev seguían reglas predefinidas, que creaban seis tipos de años diferentes.
+* Del mismo modo, la duración de los días de _heshván_ y _kislev_ seguían reglas predefinidas, que creaban seis tipos de años diferentes.
 
 	En años comunes había tres tipos:
 
-	- un año con 353 días: aquí heshván y kislev tenían 29 días ambos.
-
-	- un año con 354 días: aquí heshván tenía 29 días y kislev 30.
-
+	- un año con 353 días: aquí _heshván_ y _kislev_ tenían 29 días ambos.
+	- un año con 354 días: aquí _heshván_ tenía 29 días y _kislev_ 30.
 	- un año con 355 días: aquí ambos tenían 30 días.
 
 	En años embolismales había tres tipos:
 
-	- un año con 383 días: aquí heshván y kislev tenían 29 días ambos.
-
-	- un año con 384 días: aquí heshván tenía 29 días y kislev 30.
-
+	- un año con 383 días: aquí _heshván_ y _kislev_ tenían 29 días ambos.
+	- un año con 384 días: aquí _heshván_ tenía 29 días y _kislev_ 30.
 	- un año con 385 días: aquí ambos tenían 30 días.
 
-* La posición del ciclo metónico en la época de Jesús también ha seguido el calendario actual, haciendo que en el año 30 d.C. empezara el año 3791 judío, que fue el décimo año del ciclo metónico correspondiente.
+* Para la posición del ciclo metónico en la época de Jesús también he seguido el calendario actual, haciendo que en el año 30 d.C. empezara el año 3791 judío, que fue el décimo año del ciclo metónico correspondiente.
 
 | Año del ciclo metónico | Año gregoriano <br> juliano | Año judío ^1^ | Edad de Jesús ^2^ | Días del año judío ^3^ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -104,9 +100,9 @@ El calendario se ha elaborado de la siguiente manera:
 ^2^ Años que cumplía Jesús ese agosto.
 ^3^ Años embolismales en negrita.
 
-* Finalmente, se han utilizado los datos astronómicos proporcionados por el _Six Milenium Moon Events_ de la NASA,[^7] [^8] para tratar de ajustar lo mejor posible el comienzo de cada año con la conjunción lunar de septiembre - octubre. Debe recordarse que el año civil judío comenzaba el 1 de tishri, que solía recaer al principio del otoño. El 1 de nisán era el principio del calendario religioso.
+* Finalmente, he utilizado los datos astronómicos proporcionados por el _Six Milenium Moon Events_ de la NASA,[^7] [^8] para tratar de ajustar lo mejor posible el comienzo de cada año con la conjunción lunar de septiembre - octubre. Debe recordarse que el año civil judío comenzaba el 1 de tishri, que solía recaer al principio del otoño. El 1 de nisán era el principio del calendario religioso.
 
-* Por último, se ha ajustado el calendario para que el 7 de abril de 30 d.C. fuera el 14 de nisán de 3790, desplazando el resto del calendario en consecuencia para mantener la integridad en el número de días de los meses. El resultado de este trabajo es el que se muestra en esta [Cronología de la vida de Jesús](/es/article/Jan_Herca/Chronology_of_the_life_of_Jesus).
+* Por último, he ajustado el calendario para que el 7 de abril de 30 d.C. fuera el 14 de nisán de 3790, desplazando el resto del calendario en consecuencia para mantener la integridad en el número de días de los meses. El resultado de este trabajo es el que se muestra en esta [Cronología de la vida de Jesús](/es/article/Jan_Herca/Chronology_of_the_life_of_Jesus).
 
 ## Conclusiones
 
@@ -120,24 +116,24 @@ Lo que sí está claro es que cualquier aproximación debe guiarse de los datos 
 
 ## Enlaces externos
 
-* Artículo original: https://buscandoajesus.wordpress.com/articulos/el-calendario-judio-de-la-epoca-de-jesus/
+* [Artículo original](https://buscandoajesus.wordpress.com/articulos/el-calendario-judio-de-la-epoca-de-jesus/)
 
 ## Referencias
 
-[^1]: Carl D. Franklin, _Why the crucifixion of Christ could not have ocurred in 31 AD_. Este documento está disponible en http://www.cbcg.org/hebrew_cal.htm.
+[^1]: Carl D. Franklin, _Why the crucifixion of Christ could not have ocurred in 31 AD_. Este documento está disponible [aqui](http://www.cbcg.org/hebrew_cal.htm).
 
 [^2]: Carl D. Franklin, _The calendar of Christ and the apostles_. Este documento está disponible en la misma web que el anterior.
 
-[^3]: https://en.wikipedia.org/wiki/Molad
+[^3]: [Molad, Wikipedia](https://en.wikipedia.org/wiki/Molad)
 
-[^4]: http://www.rosettacalendar.com/, Rosetta Calendar, una aplicación web de conversión de fechas que utiliza el calendario actual de posposición.
+[^4]: [Rosetta Calendar](http://www.rosettacalendar.com/), una aplicación web de conversión de fechas que utiliza el calendario actual de posposición.
 
-[^5]: http://www.calendarhome.com/converter/, el convertidor de calendarios más completo.
+[^5]: [CalendarHome, El convertidor de calendarios más completo.](http://www.calendarhome.com/converter/)
 
-[^6]: http://www.ortelius.de/kalender/form_en2.html, otra calculadora de calendarios.
+[^6]: [Ortelius](http://www.ortelius.de/kalender/form_en2.html), otra calculadora de calendarios.
 
-[^7]: http://sunearth.gsfc.nasa.gov/eclipse/phase/phases0001.html, datos astronómicos de la NASA.
+[^7]: [Datos astronómicos de la NASA.](http://sunearth.gsfc.nasa.gov/eclipse/phase/phases0001.html)
 
-[^8]: http://aa.usno.navy.mil/data/docs/SpringPhenom.html, datos astronómicos del Observatorio Naval de los Estados Unidos.
+[^8]: [Datos astronómicos del Observatorio Naval de los Estados Unidos.](http://aa.usno.navy.mil/data/docs/SpringPhenom.html)
 
-[^9]: http://www.judaismvschristianity.com/Passover_dates.htm, fechas posibles para las pascuas de Jesús.
+[^9]: [Fechas posibles para las pascuas de Jesús.](http://www.judaismvschristianity.com/Passover_dates.htm)
