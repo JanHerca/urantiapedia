@@ -11,7 +11,7 @@ dateCreated: 2023-09-28T14:02:03.086Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="../../../image/article/Jan_Herca/Day_of_Atonement/image_the_day_of_atonement_-_gospel_images_normal.jpg">
+<img src="/image/article/Jan_Herca/Day_of_Atonement/image_the_day_of_atonement_-_gospel_images_normal.jpg">
 <figcaption><em>© 2023 Jan van't Hoff. </em><a href="https://www.gospelimages.com/paintings/105/the-day-of-atonement?">GospelImages</a></figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ Tres eran las principales fiestas judías en el calendario de la época de Jesú
 
 Esta última representaba el final de las festividades más significativas. Aquí terminaba el período oficial de descanso de los judíos, y empezaba otra vez la vuelta al trabajo y a la rutina. A partir de ese momento había que regresar a los campos para preparar la tierra para las nuevas siembras.
 
-Muchos autores ven en estas tres fiestas antiguas reminiscencias de fiestas relacionadas con las cosechas: la Pascua con las cosechas tempranas, como el lino; las Semanas con las cosechas intermedias, como la cebada y el trigo; y el Perdón y las Tiendas con las cosechas tardías, la vendimia y los dátiles. Y es fácil pensar esto, pues era obligación de alguna de estas fiestas entregar ciertos diezmos de las cosechas obtenidas.
+Muchos autores ven en estas tres fiestas antiguas reminiscencias de fiestas relacionadas con las cosechas: la Pascua con las cosechas tempranas, como el lino; las Semanas con las cosechas intermedias, como la cebada y el trigo; y el Perdón y las Tiendas con las cosechas tardías: la vendimia y los dátiles. Y es fácil pensar esto, pues era obligación de alguna de estas fiestas entregar ciertos diezmos de las cosechas obtenidas.
 
 El día del Perdón, también llamado de la Expiación o _Yom Kippur_, es un día señalado del calendario judío. Las prescripciones sabáticas se llevaban este día a un extremo cumplimiento. Estaba terminantemente prohibido cualquier tipo de actividad, salvo contadísimas excepciones. El día debía estar dedicado al ayuno, a la reflexión y a la penitencia. Estaba prohibido comer, beber, lavarse, ponerse ungüentos, calzarse y hacer el amor. El propio sumo sacerdote vestía ese día de forma austera, con una sencilla túnica blanca en señal de pureza y sin ornamentos ni decoraciones en su vestimenta. Tampoco portaba el habitual pectoral, una enorme joya que colgaba a modo de collar con varias piedras preciosas engastadas en él.
 
@@ -33,7 +33,7 @@ Lo que podemos apreciar claramente de todo esto es la extremada obsesión que ex
 
 ## Enlaces externos
 
-* Artículo original: https://buscandoajesus.wordpress.com/articulos/el-dia-del-perdon/
+* [Artículo original](https://buscandoajesus.wordpress.com/articulos/el-dia-del-perdon/)
 
 ## Referencias
 

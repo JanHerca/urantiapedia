@@ -28,7 +28,7 @@ Los Migueles son dioses en el sentido estricto, existen miles y miles de ellos (
 
 En _El Libro de Urantia_ se llama a la formación física creada por Jesús con el nombre de Nebadon (<a id="a28_99"></a>[LU 0:0.5](/es/The_Urantia_Book/0#p0_5), <a id="a28_140"></a>[LU 1:2.9](/es/The_Urantia_Book/1#p2_9)). Y su centro, en el que está la morada celestial de Jesús, se llama Salvington (<a id="a28_261"></a>[LU 15:7.7](/es/The_Urantia_Book/15#p7_7)). Este último nombre da la sensación de ser una adaptación al inglés de una palabra en otro idioma que significara «la ciudad de Salvin» («Salvin town»). La palabra Salvin parece escogida porque recuerda a «salvation» que en inglés significa «salvación».
 
-Si tenemos en cuenta que el auténtico nombre arameo de Jesús, que se vocaliza como Yeshua, significaba «Yavé salva» o «La salvación», resulta más claro porqué he utilizado «Salvin» como nombre celestial de Jesús a lo largo de mi novela. La idea de fondo es que probablemente el auténtico nombre celestial de Jesús, de pronunciación ignota, signifique también en el idioma celestial «La Salvación». Por eso aparece la capital de la creación de Jesús nombrada como «la ciudad de la salvación» en _El Libro de Urantia_, y por eso (aquí puede haber una explicación) eligió Jesús para sí un nombre humano que significaba lo mismo que su nombre celestial (encargando a Gabriel durante el anuncio a María que solicitara ese nombre para él).
+Si tenemos en cuenta que el auténtico nombre arameo de Jesús, que se vocaliza como _Yeshua_, significaba «Yavé salva» o «La salvación», resulta más claro porqué he utilizado «Salvin» como nombre celestial de Jesús a lo largo de mi novela. La idea de fondo es que probablemente el auténtico nombre celestial de Jesús, de pronunciación ignota, signifique también en el idioma celestial «La Salvación». Por eso aparece la capital de la creación de Jesús nombrada como «la ciudad de la salvación» en _El Libro de Urantia_, y por eso (aquí puede haber una explicación) eligió Jesús para sí un nombre humano que significaba lo mismo que su nombre celestial (encargando a Gabriel durante el anuncio a María que solicitara ese nombre para él).
 
 Este nombre no aparece en _El Libro de Urantia_, y es una simple invención mía basada en otros nombres, como ya se ha explicado. Por tanto, debe tomarse como algo curioso, pero nada más. De hecho, _El Libro de Urantia_ no parece querer dar un nombre al Jesús divino, limitándose a decir que Jesús es el Miguel (es decir, de la orden de Hijos Creadores) con número 611.121, o simplemente, el Miguel de Nebadon (<a id="a32_410"></a>[LU 33:1.1](/es/The_Urantia_Book/33#p1_1)). El uso de Salvin en lugar de Miguel surge de considerar la idea de que los seres creadores como Jesús deben de tener más personalidad como para disponer de un nombre propio y no un simple número.
 
@@ -38,7 +38,7 @@ Según muestro en mi novela existe una posible explicación al novedoso interés
 
 ## Enlaces externos
 
-* Artículo original: https://buscandoajesus.wordpress.com/articulos/salvin-pero-que-nombre-es-este/
+* [Artículo original](https://buscandoajesus.wordpress.com/articulos/salvin-pero-que-nombre-es-este/)
 
 ## Notas
 
