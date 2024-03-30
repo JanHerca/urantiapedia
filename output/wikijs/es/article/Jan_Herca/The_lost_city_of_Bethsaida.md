@@ -10,43 +10,43 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
-Betsaida es una de las poblaciones más mencionadas en los evangelios. Sin embargo, todavía hoy los expertos discuten sobre su correcto emplazamiento. Se barajan hipótesis sorprendentes, como que en realidad no hubo una única población llamada Betsaida, sino dos. En este apéndice vamos a resumir todas las evidencias y argumentos que se han encontrado en torno a las posibles localizaciones, las compararemos con las menciones a Betsaida en _El Libro de Urantia_, y extraeremos una conclusión que nos sirva para la redacción de _Jesús de Nazaret_[^1]. El resultado final, como podrá ver, ha sido inesperado e interesante...
+Betsaida es una de las poblaciones más mencionadas en los evangelios. Sin embargo, todavía hoy los expertos discuten sobre su correcto emplazamiento. Se barajan hipótesis sorprendentes, como que en realidad no hubo una única población llamada Betsaida, sino dos. En este artículo voy a resumir todas las evidencias y argumentos que se han encontrado en torno a las posibles localizaciones, las compararé con las menciones a Betsaida en _El Libro de Urantia_, y extraeré una conclusión que utilizaré para la redacción de _Jesús de Nazaret_[^1]. El resultado final, como podrá ver el lector, ha sido inesperado e interesante.
 
-Estudiaremos tres tipos de evidencias: los textos antiguos que nos han llegado con menciones a Betsaida, los estudios geológicos del mar de Galilea, y los hallazgos arqueológicos encontrados hasta el momento. Después examinaremos las conclusiones a las que han llegado diferentes expertos a lo largo de los doscientos últimos años de investigación.
+Estudiaré tres tipos de evidencias: los textos antiguos que nos han llegado con menciones a Betsaida, los estudios geológicos del mar de Galilea, y los hallazgos arqueológicos encontrados hasta el momento. Después examinaré las conclusiones a las que han llegado diferentes expertos a lo largo de los doscientos últimos años de investigación.
 
 ## Evidencias literarias
 
 En primer lugar, Betsaida es mencionada 7 veces en los evangelios:
 
-> [[Mt 11:21](/es/Bible/Matthew/11#v21). Los pasajes anteriores y posteriores aluden a que Betsaida, junto a Cafarnaúm y Corozaín, fueron los lugares de mayor actividad de Jesús. Eso nos hace suponer que estos lugares debieron estar muy próximos entre sí.] — ¡Ay de ti, Corozaín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón se hubieran hecho los milagros realizados en vosotras, hace tiempo que, vestidas de saco y sentadas sobre ceniza, se habrían convertido.
+> — ¡Ay de ti, Corozaín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón se hubieran hecho los milagros realizados en vosotras, hace tiempo que, vestidas de saco y sentadas sobre ceniza, se habrían convertido. [[Mt 11:21](/es/Bible/Matthew/11#v21). Los pasajes anteriores y posteriores aluden a que Betsaida, junto a Cafarnaúm y Corozaín, fueron los lugares de mayor actividad de Jesús. Eso nos hace suponer que estos lugares debieron estar muy próximos entre sí.]
 
-> [[Mc 6:45](/es/Bible/Mark/6#v45). Los pasajes anteriores y posteriores aluden a que Jesús y sus discípulos navegaron desde un «lugar despoblado» (aquí no se nos menciona su nombre) y que aunque iban en dirección a Betsaida, los vientos contrarios les hicieron atracar en Genesaret.]  Luego mandó a sus discípulos que subieran a la barca y fueran delante de él a la otra orilla, en dirección a Betsaida, mientras él despedía a la gente.
+> Luego mandó a sus discípulos que subieran a la barca y fueran delante de él a la otra orilla, en dirección a Betsaida, mientras él despedía a la gente. [[Mc 6:45](/es/Bible/Mark/6#v45). Los pasajes anteriores y posteriores aluden a que Jesús y sus discípulos navegaron desde un «lugar despoblado» (aquí no se nos menciona su nombre) y que aunque iban en dirección a Betsaida, los vientos contrarios les hicieron atracar en Genesaret.] 
 
-> [[Mc 8:22](/es/Bible/Mark/8#v22). Los pasajes anteriores aluden a que Jesús y sus discípulos navegaron de «la región de Dalmanuta» hacia la otra orilla, donde estaba Betsaida.]  Llegaron a Betsaida y le presentaron un ciego, pidiéndole que lo tocara.
+> Llegaron a Betsaida y le presentaron un ciego, pidiéndole que lo tocara. [[Mc 8:22](/es/Bible/Mark/8#v22). Los pasajes anteriores aluden a que Jesús y sus discípulos navegaron de «la región de Dalmanuta» hacia la otra orilla, donde estaba Betsaida.] 
 
-> [[Lc 9:10](/es/Bible/Luke/9#v10). La mención no aclara su localización.] De regreso, los apóstoles refirieron a Jesús todo lo que habían hecho. Él los tomó consigo y se retiró a un lugar solitario, hacia una ciudad llamada Betsaida.
+> De regreso, los apóstoles refirieron a Jesús todo lo que habían hecho. Él los tomó consigo y se retiró a un lugar solitario, hacia una ciudad llamada Betsaida. [[Lc 9:10](/es/Bible/Luke/9#v10). La mención no aclara su localización.]
 
-> [[Lc 10:13](/es/Bible/Luke/10#v13). Idéntico a [Mt 11:21](/es/Bible/Matthew/11#v21).] — ¡Ay de ti, Corozaín! ¡Ay de ti, Betsaida! Porque si en Tiro y En Sidón se hubieran hecho los milagros realizados en vosotras, hace tiempo que, vestidas de saco y sentadas sobre ceniza, se habrían convertido.
+> — ¡Ay de ti, Corozaín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón se hubieran hecho los milagros realizados en vosotras, hace tiempo que, vestidas de saco y sentadas sobre ceniza, se habrían convertido. [[Lc 10:13](/es/Bible/Luke/10#v13). Idéntico a [Mt 11:21](/es/Bible/Matthew/11#v21).]
 
-> [[Jn 1:44](/es/Bible/John/1#v44). No dice nada sobre su localización.] Felipe era de Betsaida, el pueblo de Andrés y de Pedro.
+> Felipe era de Betsaida, el pueblo de Andrés y de Pedro. [[Jn 1:44](/es/Bible/John/1#v44). No dice nada sobre su localización.]
 
-> [[Jn 12:21](/es/Bible/John/12#v21). Aquí se identifica claramente a Betsaida con una población del reino de Galilea, es decir, en territorio de Herodes Antipas.] Estos se acercaron a Felipe,  que era natural de Betsaida de Galilea, y le dijeron: Señor, quisiéramos ver a Jesús.
+> Estos se acercaron a Felipe, que era natural de Betsaida de Galilea, y le dijeron: Señor, quisiéramos ver a Jesús. [[Jn 12:21](/es/Bible/John/12#v21). Aquí se identifica claramente a Betsaida con una población del reino de Galilea, es decir, en territorio de Herodes Antipas.]
 
 El historiador judío Flavio Josefo la mencionó en varias ocasiones:
 
-> [AJ 18:2.1] También elevó [Filipo] la villa de Betsaida, situada en el lago Gennesaret, al estatus de ciudad, añadiendo habitantes y asegurando fortificaciones, y la llamó Julias, el mismo nombre que la hija del César.
+> También elevó [Filipo] la villa de Betsaida, situada en el lago Gennesaret, al estatus de ciudad, añadiendo habitantes y asegurando fortificaciones, y la llamó Julias, el mismo nombre que la hija del César. [AJ 18:2.1] 
 
 Parece ser que el cambio de nombre de la villa tuvo lugar hacia el año 30, año de la muerte de Jesús, pero de aquí no sacamos su emplazamiento.
 
-> [BJ 3:5.1] cuando [el río Jordán] ha recorrido otros ciento veinte estadios, pasa primero la ciudad de Julias, y luego atraviesa por medio del lago Gennesaret; después corre un largo trecho por un desierto, y finaliza en el lago Asfaltitis.
+> ...cuando [el río Jordán] ha recorrido otros ciento veinte estadios, pasa primero la ciudad de Julias, y luego atraviesa por medio del lago Gennesaret; después corre un largo trecho por un desierto, y finaliza en el lago Asfaltitis. [BJ 3:5.1]
 
 Por la descripción parece estar diciendo que Julias, la antigua Betsaida, estaba situada antes de la desembocadura del Jordán en el mar de Galilea.
 
 La literatura rabínica también la menciona. Se suele hablar de ella como «Saydan», pero en muchas ocasiones estas menciones no quedan claras. En aquella época la ciudad de Sidón tenía la misma raíz semítica (_saidan_ o _saidon_ significa pescador). Pero un par de menciones sí parecen dejar traslucir un emplazamiento:
 
-> [Midrash Eclesiastés Rabbah 2:8] El Rabí Yehoshua trajo al emperador Adriano «faisanes de Saydan» como una de las tres pruebas de que la tierra de Israel no estaba exenta de ningún lujo. Introducidos de Asia, los faisanes se convirtieron en parte de la agricultura local.
+> El Rabí Yehoshua trajo al emperador Adriano «faisanes de Saydan» como una de las tres pruebas de que la tierra de Israel no estaba exenta de ningún lujo. Introducidos de Asia, los faisanes se convirtieron en parte de la agricultura local. [Midrash Eclesiastés Rabbah 2:8]
 
-> [Talmud de Jerusalén, escrito en Tiberias, Shekalim 50a, cap. 6, halakah 2] El patriarca Shimón Ben Gamaliel recuerda cómo un día en Saydan, le dieron un cesto conteniendo trescientos tipos de peces.
+> El patriarca Shimón Ben Gamaliel recuerda cómo un día en Saydan, le dieron un cesto conteniendo trescientos tipos de peces. [Talmud de Jerusalén, escrito en Tiberias, Shekalim 50a, cap. 6, halakah 2]
 
 Betsaida fue una ciudad de sagas talmúdicas, entre ellas Abba Yudan (Gurión) de Saydan, y Rabbí Yose de Saydan (siglo IV), pescador de profesión. Fue conocido como Yose Hahorem, es decir, Yose el Barredero, porque utilizaba con arte el _herem_ o red barredera, un tipo de red muy utilizado en el mar de Galilea.
 
@@ -59,7 +59,7 @@ Teodosio (siglo VI) describe la ruta de los lugares sagrados del oeste de la cos
 Alrededor del 725, Willibald, un inglés que se convirtió en obispo en Alemania y que más tarde fue canonizado, también visitó los lugares santos del lago. Cincuenta años más tarde de su visita, dictó sus memorias a una monja, que las puso por escrito. Willibald pasó una noche en Betsaida, y aseguró ver una iglesia en Betsaida en el lugar de la casa de Santiago y Juan. Sabemos que en Cafarnaúm había una iglesia, de la que se han encontrado sus ruinas, y que peregrinos se refieren a esta iglesia como situada en el lugar de la casa del «príncipe de los apóstoles», es decir, de Pedro. ¿Cuál es esta iglesia entonces? No se han encontrado restos arqueológicos de ninguna iglesia en los supuestos emplazamientos de los expertos.
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
-<img src="../../../image/article/Jan_Herca/The_lost_city_of_Bethsaida/map-new-testiment-israel.jpg">
+<img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/map-new-testiment-israel.jpg">
 <figcaption><em>Fragmento del mapa del Mar de Galilea, «Atlas de la Biblia», George Philip & Son. </em></figcaption>
 </figure>
 
@@ -67,15 +67,15 @@ El peregrino Teodorico escribió en 1172 que el río Jordán fluía entre Betsai
 
 Algunos viajeros del siglo XIII hablan de una «Betsaida de Galilea» en la costa oeste del lago cerca de Tabgha. En 1564 un viajero portugués, Pantaleón de Aveiro, escribió que fue de Tiberias a Betsaida y allí encontró un pequeño asentamiento de pescadores judíos. Un inmigrante judío de Portugal fue su anfitrión, y le dio de comer pescado. ¿Visitó D'Aveiro Tabgha, un lugar excelente de pesca, según Mendel Nun, experto pescador del mar de Galilea?
 
-En el mapa del Fondo para la Exploración de Palestina dibujado por el mayor Claude Reignier Condor, hace como unos cien años, se muestran dos Betsaidas, una al este del lago y otra, marcada con una interrogación al sudoeste de Tabgha, en el lugar del Khan Minya, donde hoy está la estación de bombeo del Israel's National Water Carrier. El Atlas de la Biblia publicado por George Philip & Son (Londres), también muestra estas dobles indicaciones.
+En el mapa del Fondo para la Exploración de Palestina dibujado por el mayor Claude Reignier Condor, hace como unos cien años, se muestran dos Betsaidas, una al este del lago y otra, marcada con una interrogación al sudoeste de Tabgha, en el lugar del Khan Minya, donde hoy está la estación de bombeo del Israel's National Water Carrier. El Atlas de la Biblia publicado por George Philip & Son (Londres), también muestra estas dobles indicaciones (ver fragmento en la imagen anterior).
 
 ## Análisis del pasaje de la multiplicación de los panes y peces
 
 Como hemos visto, ninguna de las evidencias literarias sitúan clara e inconfundiblemente a Betsaida en un emplazamiento. Las referencias son demasiado difusas y se ajustan a múltiples interpretaciones. Mientras que el evangelista Juan habla de una Betsaida en Galilea, por lo que debería estar en la costa oeste del lago, Josefo la sitúa claramente al este del Jordán.
 
-Quizá el relato evangélico más completo que nos ayuda a investigar sobre el emplazamiento es la supuesta alimentación milagrosa de la multitud mediante unos pocos panes y peces. El pasaje es uno de los poquísimos fragmentos que tiene un equivalente en los cuatro evangelios ([Mc 6:30-56](/es/Bible/Mark/6#v30), [Mt 14:13-34](/es/Bible/Matthew/14#v13), [Lc 9:10-17](/es/Bible/Luke/9#v10), [Jn 6:1-21](/es/Bible/John/6#v1)).
+Quizá el relato evangélico más completo que nos ayuda a investigar sobre el emplazamiento es la supuesta alimentación milagrosa de la multitud mediante unos pocos panes y peces. El pasaje es uno de los poquísimos fragmentos que tiene un equivalente en los cuatro evangelios ([Mc 6:30-56](/es/Bible/Mark/6#v30), [Mt 14:13-34](/es/Bible/Matthew/14#v13), [Lc 9:10-17](/es/Bible/Luke/9#v10), y [Jn 6:1-21](/es/Bible/John/6#v1)).
 
-Si realizamos el supuesto, que puede ser erróneo, de que los cuatro evangelistas están bien informados de lo sucedido y cuentan el relato sin cometer errores, podemos intentar unir todas las variantes en un único relato, que seguiría el siguiente esquema:
+Si nos basamos en el supuesto, que puede ser erróneo, de que los cuatro evangelistas están bien informados de lo sucedido y cuentan el relato sin cometer errores, podemos intentar unir todas las variantes en un único relato, que seguiría el esquema siguiente:
 
 - Llegan los discípulos y cuentan a Jesús sus progresos (_Mc_ y _Lc_).
 - Jesús les pide que se retiren a solas y marchan en barca a un lugar despoblado (_Mc_ y _Mt_), en dirección a Betsaida (_Lc_), al otro lado de Tiberíades (_Jn_).
@@ -105,7 +105,7 @@ El agua en ascenso empezó a inundar las aldeas de pescadores menos resguardecid
 
 Según el geólogo John F. Schoder y el geógrafo Moshe Inbar, ambos del equipo que asegura haber descubierto evidencias de que et-Tell es el correcto emplazamiento, en tiempos de Jesús se produjeron una sucesión de situaciones que llevaron la costa del mar de Galilea de las proximidades de et-Tell hasta ¡2 km! más allá. Para ello utilizan la conjunción de tres teorías: una elevación de los terrenos circundantes provocado por los movimientos tectónicos (el modelo «shore-up»), un extraordinario depósito de materiales erosionados por los arroyos circundantes (el modelo «shore-out») y finalmente, aunque no fue tan significativo, un descenso de las aguas del mar de Galilea. Es decir, que en la época de Jesús el nivel de las aguas era ¡superior! al actual.
 
-Aunque las evidencias arqueológicas, como veremos a continuación, indican que muchos antiguos puertos, fechados de la época romana, yacen debajo de las aguas, estos expertos tan sólo hablan de «fluctuaciones» en la fisionomía de la costa, como si fuera el terreno circundante el se desplazara y no fuera el agua el que se elevara o descendiera.
+Aunque las evidencias arqueológicas, como veremos a continuación, indican que muchos antiguos puertos, fechados de la época romana, yacen debajo de las aguas, estos expertos tan sólo hablan de «fluctuaciones» en la fisionomía de la costa, como si fuera el terreno circundante el que se desplazara y no fuera el agua el que se elevara o descendiera.
 
 ¿Cómo es posible tanta disparidad entre las opiniones de los expertos? Según Mendel Nun el nivel del agua ha ascendido durante los últimos dos mil años, lo ha hecho por igual en toda la costa, y no ha habido sedimentaciones de gran magnitud en la zona de el-Araj. Según Schoder e Inbar el nivel de agua ha descendido, y las diferentes sedimentaciones en varias zonas del lago serían la explicación, junto a elevaciones del terreno, de que en unas zonas los puertos estén debajo del agua, y en otras, como en et-Tell, demasiado por encima.
 
@@ -113,7 +113,7 @@ Es evidente que alguna de estas opiniones es incorrecta. Pero, ¿por qué tiene 
 
 ## Evidencias arqueológicas
 
-Por ahora, el único lugar excavado a conciencia es la colina de et-Tell, un montículo situado a unos dos km al noreste de la desembocadura del Jordán en el mar de Galilea. Aquí un equipo dirigido por el arqueólogo Rami Arav ha desenterrado restos del período de bronce antiguo, de la edad de hierro, y de la época grecorromana. Los restos arqueológicos encontrados de éste último período son incontestables: existió una población en esa colina durante la época de Jesús. La cerámica y monedas encontradas así lo confirman. También se han encontrado restos de utensilios de pesca, pero como muy bien critica Mendel Nun, no llegan ni de lejos a resultar significativos. Lo habitual en una ciudad costera debería haber sido que aparecieran cientos de plomos para redes y muchos más objetos.
+Por ahora, el único lugar excavado a conciencia es la colina de et-Tell, un montículo situado a unos dos km al noreste de la desembocadura del Jordán en el mar de Galilea. Aquí un equipo dirigido por el arqueólogo Rami Arav ha desenterrado restos del período del bronce antiguo, de la edad de hierro, y de la época grecorromana. Los restos arqueológicos encontrados de éste último período son incontestables: existió una población en esa colina durante la época de Jesús. La cerámica y monedas encontradas así lo confirman. También se han encontrado restos de utensilios de pesca, pero como muy bien critica Mendel Nun, no llegan ni de lejos a resultar significativos. Lo habitual en una ciudad costera debería haber sido que aparecieran cientos de plomos para redes y muchos más objetos.
 
 En cuanto a construcciones, debe decirse que las dimensiones de et-Tell son ridículas para la gran ciudad en que nos dice Josefo que se convirtió Betsaida al renombrarse como Julias. Josefo menciona que fue ampliada la ciudad, y que se reforzaron sus muros defensivos. Sin embargo, según los mapas que acompañan en un CD al segundo volumen de Rami Arav sobre los descubrimientos en et-Tell, las dimensiones de la ciudad no pudieron ser de más de 210 m por 90 m. ¡Hasta las dimensiones de las ruinas de la pequeña aldea de Cafarnaúm son mayores! Además, de las murallas defensivas, ni rastro. ¿Cómo puede afirmarse entonces por el equipo de et-Tell que aquella fue la Julias de Josefo?
 
@@ -123,7 +123,7 @@ Aseguran haber descubierto evidencias de un antiguo muelle al suroeste de la col
 
 En cuanto a otros emplazamientos, el único que se ha propuesto como alternativa es el-Araj. Sin embargo, las excavaciones realizadas en este lugar han sido someras y se han abandonado con prontitud. El-Araj es una estrecha franja llana de terreno junto a la costa, al este de la desembocadura del Jordán, fácilmente inundable y pantanosa, formando parte de lo que se conoce como llanura de Beteiha.
 
-La primera investigación de la costa norte del mar de Galilea conducida después de la guerra de los seis días de 1967 y el éxodo del ejército sirio fue llevada a cabo entre julio y agosto de 1973 por Dan Urman, el secretario de la Asociación de Expediciones Arqueológicas de Israel. Entonces Urman informó de que en el-Araj, varios edificios árabes permanecían sobre ruinas y estructuras que databan de los períodos griego y romano. «En el lugar se pueden distinguir los topes de muros, elementos arquitectónicos, y además un edificio público. Un capitel corintio estupendo también fue descubierto en el lugar».
+La primera investigación de la costa norte del mar de Galilea, conducida después de la guerra de los seis días de 1967 y el éxodo del ejército sirio, fue llevada a cabo entre julio y agosto de 1973 por Dan Urman, el secretario de la Asociación de Expediciones Arqueológicas de Israel. Entonces Urman informó de que en el-Araj varios edificios árabes permanecían sobre ruinas y estructuras que databan de los períodos griego y romano. «En el lugar se pueden distinguir los topes de muros, elementos arquitectónicos, y además un edificio público. Un capitel corintio estupendo también fue descubierto en el lugar».
 
 En 1987, el equipo de et-Tell realizó una prospección en el-Araj. El ensayo fue realizado durante marzo y abril, cuando muchas zonas pantanosas están inundadas, por lo que hubo poco terreno donde elegir. Se tomó como ensayo un cuadrado de 4 x 4 metros, encontrándose restos sólo del período bizantino y posteriores. Con este somero y sesgado ensayo el equipo dirigido por Rami Arav decidió que el-Araj debía ser descartado como emplazamiento para Betsaida, y se centraron exclusivamente en et-Tell. A pesar de las numerosas campañas dirigidas en et-Tell, no se ha vuelto a realizar hasta la fecha ningún nuevo ensayo en el-Araj por parte de este equipo.
 
@@ -136,7 +136,7 @@ Mendel Nun continúa su exposición indicando que se encontraron restos de edifi
 Mendel Nun asegura que el-Araj, que es apenas una franja delgada delante de la costa, esconde debajo las ruinas de la antigua Betsaida, y que incluso bajo las aguas están todavía más restos que quedaron inundados. Debido a que la zona se ha vuelto pantanosa, la realización de excavaciones es complicada y laboriosa. Quizá este sea el motivo de que aún no se haya realizado ninguna excavación arqueológica sistemática en esta zona, que puede estar escondiendo unas ruinas de invaluable interés.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="../../../image/article/Jan_Herca/The_lost_city_of_Bethsaida/mapa_mar_Galilea_ES.png">
+<img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/mapa_mar_Galilea_ES.png">
 <figcaption><em>Mapa de los antiguos puertos del Mar de Galilea (basado en Mendel Nun).<br> A la izquierda se muestra Tabgha (Betsaida), el hogar de varios apóstoles. A la derecha, et-Tell y el-Araj, los dos emplazamientos que se disputan la identificación con Betsaida-Julias.</em></figcaption>
 </figure>
 
@@ -147,7 +147,7 @@ Los emplazamientos de et-Tell y de el-Araj son de sobras conocidos desde los añ
 
 Edward Robinson, considerado uno de los padres de la arqueología bíblica, en 1838, identificó et-Tell como Betsaida Julias, pero también mantuvo firmemente la existencia de una segunda Betsaida galilea en ¡Tabgha! ¿De dónde le pudo venir la idea de Tabgha? Muy probablemente, Robinson daba por buenos los cuatro relatos evangélicos, y por eso apoyó la teoría de las dos Betsaidas.
 
-El francés Víctor Guérin, en 1875, estuvo de acuerdo con Robinson en identificar a et-Tell con Betsaida Julias, pero añadido que el-Araj debió ser un suburbio portuario de la ciudad.
+El francés Víctor Guérin, en 1875, estuvo de acuerdo con Robinson en identificar a et-Tell con Betsaida Julias, pero añadió que el-Araj debió ser un suburbio portuario de la ciudad.
 
 En 1884, Laurence Oliphant, un inglés cristiano sionista establecido en la zona, vio restos significativos tanto en el-Araj como en et-Tell, pero no se decantó por ninguno de los dos.
 
@@ -187,25 +187,29 @@ Entonces, ¿qué hay en et-Tell? Pues en mi opinión, lo menos importante de tod
 
 ¿Cómo explicar entonces todos los hallazgos encontrados en et-Tell? Bien, los escasos enseres de pesca encontrados hablan claramente de ofrendas o de objetos que portaban los lugareños, pero no de un uso continuado in-situ. Curiosamente, uno de los hallazgos más significativos ha sido una pequeña pala ritual para incienso, un objeto muy común en templos para la realización de ofrendas. El buen número de monedas también está afirmando que allí se gestionaban bastantes transacciones, fruto del probable negocio del templo existente. Pero nada más. Este lugar no debió tener ninguna significación especial para Jesús, y mucho menos para sus apóstoles. Por eso el equipo de arqueólogos que trabajan allí no han encontrado ningún vestigio de una iglesia en la zona, como así decían los antiguos peregrinos. Sin embargo, hay «tres» iglesias importantes junto a Tabgha, algunas con mosaicos realmente antiguos. Muy probablemente bajo los cimientos de alguna de esas iglesias están los restos de la casa-iglesia supuestamente en el hogar de «Santiago y Juan Zebedeo», según afirmaban los peregrinos antiguos.
 
+## _El Libro de Urantia_
+
 ¿Y _El Libro de Urantia_? Multitud de pasajes de _El Libro de Urantia_, aunque hay que tener cuidado y localizarlos con esmero, ofrecen una visión sobre la localización de Betsaida. Y coinciden completamente con mis conclusiones.
 
-Según <a id="a191_6"></a>[LU 129:1.4](/es/The_Urantia_Book/129#p1_4), «Zebedeo era un hombre medianamente adinerado; sus astilleros se encontraban al borde del lago al sur de Cafarnaúm y su casa estaba situada a la orilla del lago cerca del centro de pesca de Betsaida». En <a id="a191_255"></a>[LU 139:1.1](/es/The_Urantia_Book/139#p1_1), el padre de Andrés, «ya fallecido, había sido socio de Zebedeo en un negocio de desecación de pescado en Betsaida, el puerto pesquero de Cafarnaúm». En <a id="a191_452"></a>[LU 139:3.1](/es/The_Urantia_Book/139#p3_1), Santiago «estaba casado, tenía cuatro hijos, y vivía cerca de sus padres en Betsaida, en las afueras de Cafarnaúm». Además, cuando _El Libro de Urantia_ menciona una Betsaida y la otra no hay dudas pues utiliza Betsaida para designar la situada al oeste y Betsaida-Julias para designar la situada al este. La proximidad entre Betsaida y Cafarnaúm explica, por otra parte, la continua utilización a lo largo de _El Libro de Urantia_ de los términos Cafarnaúm y Betsaida de forma indistinta, algo que ya hemos visto que también parecían hacer los evangelistas.
+Según <a id="a191_6"></a>[LU 129:1.4](/es/The_Urantia_Book/129#p1_4) «Zebedeo era un hombre medianamente adinerado; sus astilleros se encontraban al borde del lago al sur de Cafarnaúm y su casa estaba situada a la orilla del lago cerca del centro de pesca de Betsaida». En <a id="a191_255"></a>[LU 139:1.1](/es/The_Urantia_Book/139#p1_1) el padre de Andrés, «ya fallecido, había sido socio de Zebedeo en un negocio de desecación de pescado en Betsaida, el puerto pesquero de Cafarnaúm». En <a id="a191_452"></a>[LU 139:3.1](/es/The_Urantia_Book/139#p3_1) Santiago «estaba casado, tenía cuatro hijos, y vivía cerca de sus padres en Betsaida, en las afueras de Cafarnaúm». Además, cuando _El Libro de Urantia_ menciona una Betsaida y la otra no hay dudas pues utiliza Betsaida para designar la situada al oeste ([LU 129:1.2](/es/The_Urantia_Book/129#p1_2), [LU 129:1.4](/es/The_Urantia_Book/129#p1_4), [LU 129:3.3](/es/The_Urantia_Book/129#p3_3), [LU 129:3.4](/es/The_Urantia_Book/129#p3_4), [LU 137:2.3](/es/The_Urantia_Book/137#p2_3), [LU 137:5.1](/es/The_Urantia_Book/137#p5_1), [LU 137:5.2](/es/The_Urantia_Book/137#p5_2), y otras) y Betsaida-Julias para designar la situada al este ([LU 138:9.3](/es/The_Urantia_Book/138#p9_3), [LU 149:0.1](/es/The_Urantia_Book/149#p0_1), [LU 152:2.1](/es/The_Urantia_Book/152#p2_1), [LU 152:2.4](/es/The_Urantia_Book/152#p2_4) y otras). La proximidad entre Betsaida y Cafarnaúm explica, por otra parte, la continua utilización a lo largo de _El Libro de Urantia_ de los términos Cafarnaúm y Betsaida de forma indistinta, algo que ya hemos visto que también parecían hacer los evangelistas.
 
-En resumen, tal y como lo veo, las dos Betsaidas, y no una, que debieron existir, todavía esperan las palas y brochas de los arqueólogos. En mi opinión, el equipo que trabaja en et-Tell se equivoca en su empeño de mostrar esas ruinas como la ciudad de Betsaida-Julias, y creo que deberían prestar la misma atención hacia el-Araj. Además, ¿por qué nadie ha excavado en Tabgha, donde se han encontrado restos de un antiguo muelle?
+## Descubrimientos futuros
+
+En resumen, tal y como lo veo, las dos Betsaidas, y no una, que seguramente existieron, todavía esperan las palas y brochas de los arqueólogos. En mi opinión, el equipo que trabaja en et-Tell se equivoca en su empeño de mostrar esas ruinas como la ciudad de Betsaida-Julias, y creo que deberían prestar la misma atención hacia el-Araj. Además, ¿por qué nadie ha excavado en Tabgha, donde se han encontrado restos de un antiguo muelle?
 
 Curiosamente, de mis conclusiones extraigo la circunstancia de que la Betsaida de Jesús, la que visitó con más frecuencia, ni siquiera es preocupación a día de hoy de los arqueólogos. Toda la discusión actual se centra en determinar si el correcto emplazamiento es et-Tell o el-Araj. Pero la teoría de las dos Betsaidas, que fue ampliamente aceptada por los investigadores iniciales, ahora parece olvidarse sin que se hayan excavado a fondo todos los posibles emplazamientos. Aunque existen unas ruinas de un muelle delante de Tabgha, nadie parece haberse molestado en realizar una prospección de ruinas de edificaciones por los alrededores. Todas las excavaciones arqueológicas en Tabgha se ciñen a los cimientos de las iglesias existentes, por lo que he podido leer.
 
-Pero estoy seguro de que algún día, nuevos hallazgos, determinarán finalmente quién tenía razón en toda esta polémica...
+Pero estoy seguro de que algún día, nuevos hallazgos, determinarán finalmente quién tenía la razón en toda esta polémica...
 
 
 ## Addendum: el-Araj Excavation Project
 
-Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna duda de que con el tiempo nuevas campañas arqueológicas acabarían por confirmar mis suposiciones. En 2017, los medios de comunicación de todo el mundo se hicieron eco de un descubrimiento reciente. En el-Araj, el emplazamiento en que se sospechaba que podían estar las ruinas de Betsaida-Julias, se encontraron restos del período romano, en un estrato por debajo de los restos del período bizantino. El equipo de arqueólogos dirigidos por el Dr. Mordechai Aviam ha sacado a la luz mosaicos de una casa de baños y una rara moneda de plata. Subsecuentes campañas de este equipo, [el-Araj Excatation Project](https://www.elarajexcavations.com/), han producido muchos más hallazgos que evidencian la existencia de una urbe en la zona.
+Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna duda de que con el tiempo nuevas campañas arqueológicas acabarían por confirmar mis suposiciones. En 2017, los medios de comunicación de todo el mundo se hicieron eco de un descubrimiento reciente. En el-Araj, el emplazamiento en el que se sospechaba que podían estar las ruinas de Betsaida-Julias, se encontraron restos del período romano, en un estrato por debajo de los restos del período bizantino. El equipo de arqueólogos dirigidos por el Dr. Mordechai Aviam ha sacado a la luz mosaicos de una casa de baños y una rara moneda de plata. Subsecuentes campañas de este equipo, [el-Araj Excatation Project](https://www.elarajexcavations.com/), han producido muchos más hallazgos que evidencian la existencia de una urbe en la zona.
 
 ¡Cuántas cosas nos quedan aún por descubrir en este apasionante puzzle que es la vida de Jesús y su época!
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="../../../image/article/Jan_Herca/The_lost_city_of_Bethsaida/elaraj_excavation_project.jpg">
+<img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/elaraj_excavation_project.jpg">
 <figcaption><em>El equipo de excavación de el-Araj en el perímetro de la iglesia bizantina de los apóstoles.</em> <a href="https://www.elarajexcavations.com/post/el-araj-season-4-the-final-day-day-five-week-4">Enlace</a></figcaption>
 </figure>
 
@@ -214,9 +218,9 @@ Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna du
 
 - Rami Arav y Richard A. Freund, _Bethsaida, a city by the north shore of the Sea of Galilee_, Truman State University Press, dos volúmenes y un CD, 1999.
 
-- http://www.unomaha.edu/bethsaida/, página web de las excavaciones en et-Tell.
+- [Página web de las excavaciones en et-Tell.](http://www.unomaha.edu/bethsaida/)
 
-- Mendel Nun, _Artículos_, disponibles en http://www.jerusalemperspective.com/.
+- Mendel Nun, _Artículos_, disponibles en [Jerusalmen Perspective](http://www.jerusalemperspective.com/).
 
 - Mendel Nun, _Has Bethsaida finally been found?_, Ein Gev kibbutz.
 
@@ -230,13 +234,13 @@ Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna du
 
 - [Betsaida-Julias y Betsaida de Galilea](/es/article/Stephen_Finlan/Bethsaida_Julias_and_Bethsaida_of_Galilee), Stephen Finlan, The Brotherhood of Man Library, Vol. 3. Num. 3, 1996.
 
-- http://www.netours.com/2003/tabgha.htm y http://www.netours.com/2003/bethsaida.htm, agencia turística Near East. (Enlaces rotos, utilizar [Internet Archive - tabgha](https://web.archive.org/web/20060430002516/http://www.netours.com/2003/tabgha.htm) e [Internat Archive - bethsaida](https://web.archive.org/web/20060626200050/http://www.netours.com/2003/bethsaida.htm))
+- [Tabgha](http://www.netours.com/2003/tabgha.htm) y [Bethsaida](http://www.netours.com/2003/bethsaida.htm), páginas de la agencia turística Near East. (Enlaces rotos, utilizar [Internet Archive - tabgha](https://web.archive.org/web/20060430002516/http://www.netours.com/2003/tabgha.htm) e [Internat Archive - bethsaida](https://web.archive.org/web/20060626200050/http://www.netours.com/2003/bethsaida.htm))
 
-- http://www.earlyjewishwritings.com/, escritos judíos antiguos.
+- [Escritos judíos antiguos.](http://www.earlyjewishwritings.com/)
 
 - [el-Araj Excatation Project](https://www.elarajexcavations.com/)
 
-- [Where is Biblical Bethsaida](https://bryanwindle.files.wordpress.com/2020/03/where-is-biblical-bethsaida_winter-2020-article-extracted-1_compressed.pdf), from https://biblearchaeologyreport.com
+- [Where is Biblical Bethsaida](https://bryanwindle.files.wordpress.com/2020/03/where-is-biblical-bethsaida_winter-2020-article-extracted-1_compressed.pdf), extraído del [Bible Archaeology Report](https://biblearchaeologyreport.com)
 
 ## Notas
 

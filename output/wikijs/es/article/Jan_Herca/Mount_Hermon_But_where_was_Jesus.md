@@ -60,7 +60,7 @@ Es curioso pero este libro narra que seres venidos del cielo, a los que el _Libr
 
 ## Referencias y Notas
 
-[^1]: [Visualizar Beit Jenn en Google Earth](https://earth.google.com/web/search/Beit+Jenn/@32.9657885,35.3790864,910.21488267a,7802.37324396d,35y,0h,0t,0r/data=CnQaShJECiUweDE1MWMyZmYyMjZjYTJkMTE6MHg4ODYwZTk1MzVhNWZjZmUxGQQcQpWae0BAIXOBy2PNsEFAKglCZWl0IEplbm4YAiABIiYKJAmeSEBOljM0QBGdSEBOljM0wBkSecJczjtFQCE1eto14Z1NwDoDCgEw): introduzca «Bayt Jinn, Syria» en la casilla de búsqueda.
+[^1]: [Visualizar Beit Jinn en Google Earth](https://earth.google.com/web/search/Beit+Jinn/@33.30893515,35.90933815,1095.75467981a,7526.62686461d,35y,-27.90186367h,40.84939154t,0r/data=CnMaSRJDCiQweDE1MTkzNGIxYTZkMDY0NGI6MHg5YWNiYWE2MDM2ZjVhNmMZuHx_3q-nQEAhxm9l5If1QUAqCUJlaXQgSmlubhgBIAEiJgokCco_acyKtkBAERHW-hz1pUBAGRLnDt6BAUJAIXy469GY6kFAOgMKATA): resultado de introducir «Beit Jinn, Syria» en la casilla de búsqueda.
 
 [^2]: [Información de localización de Beit Jenn.](http://www.fallingrain.com/world/SY/8/Bayt_Jinn.html)
 
