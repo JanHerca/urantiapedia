@@ -626,7 +626,7 @@ exports.getWikijsHeader = (title, tags) => {
 		`description: \r\n` +
 		`published: true\r\n` +
 		`date: ${datestr}\r\n` +
-		`tags: ${(tags ? tags.join(', ') : '')}\r\n` +
+		`tags: ${(tags ? tags.join(', ') : '').replace(/, $/, '')}\r\n` +
 		`editor: ckeditor\r\n` +
 		`dateCreated: ${datestr}\r\n` +
 		`-->\r\n`;

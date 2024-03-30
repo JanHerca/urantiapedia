@@ -68,6 +68,7 @@ El peregrino Teodorico escribió en 1172 que el río Jordán fluía entre Betsai
 Algunos viajeros del siglo XIII hablan de una «Betsaida de Galilea» en la costa oeste del lago cerca de Tabgha. En 1564 un viajero portugués, Pantaleón de Aveiro, escribió que fue de Tiberias a Betsaida y allí encontró un pequeño asentamiento de pescadores judíos. Un inmigrante judío de Portugal fue su anfitrión, y le dio de comer pescado. ¿Visitó D'Aveiro Tabgha, un lugar excelente de pesca, según Mendel Nun, experto pescador del mar de Galilea?
 
 En el mapa del Fondo para la Exploración de Palestina dibujado por el mayor Claude Reignier Condor, hace como unos cien años, se muestran dos Betsaidas, una al este del lago y otra, marcada con una interrogación al sudoeste de Tabgha, en el lugar del Khan Minya, donde hoy está la estación de bombeo del Israel's National Water Carrier. El Atlas de la Biblia publicado por George Philip & Son (Londres), también muestra estas dobles indicaciones (ver fragmento en la imagen anterior).
+<br style="clear:both;"/>
 
 ## Análisis del pasaje de la multiplicación de los panes y peces
 

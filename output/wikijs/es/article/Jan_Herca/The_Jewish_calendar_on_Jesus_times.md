@@ -102,7 +102,7 @@ El calendario lo he elaborado de la siguiente manera:
 
 * Finalmente, he utilizado los datos astronómicos proporcionados por el _Six Milenium Moon Events_ de la NASA,[^7] [^8] para tratar de ajustar lo mejor posible el comienzo de cada año con la conjunción lunar de septiembre - octubre. Debe recordarse que el año civil judío comenzaba el 1 de tishri, que solía recaer al principio del otoño. El 1 de nisán era el principio del calendario religioso.
 
-* Por último, he ajustado el calendario para que el 7 de abril de 30 d.C. fuera el 14 de nisán de 3790, desplazando el resto del calendario en consecuencia para mantener la integridad en el número de días de los meses. El resultado de este trabajo es el que se muestra en esta [Cronología de la vida de Jesús](/es/article/Jan_Herca/Chronology_of_the_life_of_Jesus).
+* Por último, he ajustado el calendario para que el 7 de abril de 30 d.C. fuera el 14 de nisán de 3790, desplazando el resto del calendario en consecuencia para mantener la integridad en el número de días de los meses. El resultado de este trabajo es el que se muestra en esta [Cronología de la vida de Jesús](/es/article/Jan_Herca/Chronology).
 
 ## Conclusiones
 
