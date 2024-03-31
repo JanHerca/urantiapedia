@@ -103,7 +103,7 @@ Quizás el mejor lugar para descubrir la vida religiosa de Jesús y cómo la viv
 
 ## Nuestra espiritualización personal y «vivir como vivió Jesús».
 
-> «El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas». ([LU 100:2.6](/es/The_Urantia_Book/100#p2_6))
+> «El objetivo de la autorrealización humana debe ser espiritual, no material. Las únicas realidades por las que vale la pena luchar son divinas, espirituales y eternas». (<a id="a105_172"></a>[LU 100:2.6](/es/The_Urantia_Book/100#p2_6))
 
 > «La espiritualidad es el indicador de la proximidad a Dios... realza la aptitud para descubrir la belleza en las cosas, para reconocer la verdad en los significados y para descubrir la bondad en los valores».
 >

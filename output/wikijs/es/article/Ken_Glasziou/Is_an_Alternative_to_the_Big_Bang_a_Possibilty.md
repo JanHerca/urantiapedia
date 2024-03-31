@@ -96,7 +96,7 @@ Basta con comentar que este es un equipo maravillosamente dotado, no un grupo de
 
 ## La relatividad y los papeles
 
-> «No dejéis que vuestros escarceos en los descubrimientos ligeramente vislumbrados de la «relatividad» alteren vuestros conceptos de la eternidad y de la infinidad de Dios». (<a id="a96_176"></a>[LU 195:7.5](/es/The_Urantia_Book/195#p7_5))
+> «No dejéis que vuestros escarceos en los descubrimientos ligeramente vislumbrados de la «relatividad» alteren vuestros conceptos de la eternidad y de la infinidad de Dios». (<a id="a98_176"></a>[LU 195:7.5](/es/The_Urantia_Book/195#p7_5))
 
 Muchos lectores del Libro de Urantia creen que algunos de los comentarios en los Documentos que usan el términose refieren a la Relatividad General de Einstein. Esta creencia puede estar fuera de lugar. Sin embargo, aquellos que lo hagan pueden sentirse aliviados al saber que el modelo de la creación de Arp elimina la necesidad de la curvatura del espacio-tiempo que es básica en la relatividad general de Einstein.
 

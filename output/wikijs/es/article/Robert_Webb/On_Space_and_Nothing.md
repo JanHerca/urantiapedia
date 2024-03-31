@@ -34,7 +34,7 @@ dateCreated: 2022-9-9T8:13:38Z
 </figure>
 
 
-La sustancia literal del Paraíso es una organización homogénea de potencia espacial que no se encuentra en ningún otro lugar en todo el amplio Universo de Universos. (<a id="a36_167"></a>[LU 11:2.9](/es/The_Urantia_Book/11#p2_9)) La potencia espacial es pre-realidad; es el dominio del Absoluto No Cualificado. ([LU 42:2.3](/es/The_Urantia_Book/42#p2_3)) En Nebadon, se habla de la potencia espacial como _absolutum_, material fuente del Paraíso ni vivo ni muerto ([LU 11:2.9]( /es/The_Urantia_Book/11#p2_9))
+La sustancia literal del Paraíso es una organización homogénea de potencia espacial que no se encuentra en ningún otro lugar en todo el amplio Universo de Universos. (<a id="a36_167"></a>[LU 11:2.9](/es/The_Urantia_Book/11#p2_9)) La potencia espacial es pre-realidad; es el dominio del Absoluto No Cualificado. (<a id="a36_292"></a>[LU 42:2.3](/es/The_Urantia_Book/42#p2_3)) En Nebadon, se habla de la potencia espacial como _absolutum_, material fuente del Paraíso ni vivo ni muerto ([LU 11:2.9]( /es/The_Urantia_Book/11#p2_9))
 
 La mayoría de las personas con las que hablo piensan que el espacio siempre ha existido y es infinito. No son conscientes de lo anterior. El espacio se crea a partir de la sustancia literal del Paraíso. El Paraíso existe sin tiempo y no tiene ubicación en el espacio. El espacio aparentemente se origina justo debajo del Paraíso inferior, mientras que el tiempo aparentemente se origina en el Paraíso superior.
 
