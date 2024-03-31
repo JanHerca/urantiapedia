@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-Les Cahiers d'Urantia associent les processus de formation des montagnes et la dérive des continents comme étant responsables de la chaîne de montagnes de la côte ouest des Amériques, s'étendant de l'Alaska jusqu'au fond de l'Amérique du Sud. ([LU 60:3.2](/fr/The_Urantia_Book/60#p3_2))
+Les Cahiers d'Urantia associent les processus de formation des montagnes et la dérive des continents comme étant responsables de la chaîne de montagnes de la côte ouest des Amériques, s'étendant de l'Alaska jusqu'au fond de l'Amérique du Sud. (<a id="a13_244"></a>[LU 60:3.2](/fr/The_Urantia_Book/60#p3_2))
 
 Les lecteurs modernes n’accordent probablement pas une réflexion passagère à cette déclaration. Mais jusqu’au milieu des années 1950 et même plus tard, la dérive des continents était considérée comme une hérésie interdite par la grande majorité des géologues. Alors pourquoi l’hypothétique comité d’experts l’a-t-il inclus comme facteur majeur de construction de montagnes ?
 
@@ -21,7 +21,7 @@ Aujourd’hui, seuls ceux qui connaissent bien les concepts actuels des détails
 
 Mais quelle aurait été la situation si tous leurs détails avaient été très précis ?
 
-La réponse que nous donnons à cette question reflète nos progrès dans la compréhension des objectifs de cette première phase de notre carrière universelle. Le salut, nous dit-on, vient par la foi – et par la foi seule. ([LU 141:7.6](/fr/The_Urantia_Book/141#p7_6)) Comprendre ce fait, c'est apprécier les particularités de ces Cahiers d'Urantia.
+La réponse que nous donnons à cette question reflète nos progrès dans la compréhension des objectifs de cette première phase de notre carrière universelle. Le salut, nous dit-on, vient par la foi – et par la foi seule. (<a id="a23_220"></a>[LU 141:7.6](/fr/The_Urantia_Book/141#p7_6)) Comprendre ce fait, c'est apprécier les particularités de ces Cahiers d'Urantia.
 
 ## Liens externes
 

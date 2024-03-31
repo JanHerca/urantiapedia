@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2006-dernier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2006 — Dernier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Gifts_and_Graces_of_Urantia_Community">
+          <span class="pr-2">Dons et grâces de la communauté Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 15, Numéro 2, Printemps-Été, 2006
@@ -89,7 +110,7 @@ Larry et Joan Mullins<br>
 Nancy Long
 </p>
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par The Spiritual Fellowship. Son but est de soutenir la Communauté Urantia dans son ensemble, particulièrement dans la mesure où elle cherche à établir une interface avec les cultures et les institutions religieuses de notre monde. Il cherche également à aborder des questions particulièrement préoccupantes dans l’établissement de nouvelles institutions religieuses ayant leurs racines dans la Cinquième Révélation d’Époque.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par The Spiritual Fellowship. Son but est de soutenir la Communauté Urantia dans son ensemble, particulièrement dans la mesure où elle cherche à établir une interface avec les cultures et les institutions religieuses de notre monde. Il cherche également à aborder des questions particulièrement préoccupantes dans l’établissement de nouvelles institutions religieuses ayant leurs racines dans la Cinquième Révélation d’Époque.
 
 Les dons d’abonnement, les changements d’adresse, les articles et la correspondance éditoriale doivent être envoyés à :
 
@@ -134,9 +155,31 @@ Don annuel suggéré — $\$ 10$.
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2006-dernier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2006 — Dernier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Gifts_and_Graces_of_Urantia_Community">
+          <span class="pr-2">Dons et grâces de la communauté Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
 
-[^1]: voir [LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
+[^1]: voir <a id="a182_11"></a>[LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
 
 [^2]: Robert K. Greenleaf, _Servant Leadership_, Paulist Press, New York, 1977, p. 237.

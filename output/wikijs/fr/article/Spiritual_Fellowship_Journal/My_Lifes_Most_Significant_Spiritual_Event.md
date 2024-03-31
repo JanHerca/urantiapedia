@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Quelle est la qualité de la bonne nouvelle ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***_Le Livre d'Urantia_ et le renouveau spirituel***
@@ -35,3 +59,28 @@ Je considère le _Livre d'Urantia_ comme l'événement spirituel le plus signifi
 
 Je n'ai pas résolu le problème de relier les enseignements du _Livre d'Urantia_ au christianisme protestant organisé, mon origine religieuse. Beaucoup de ces personnes ont l’esprit fermé. certains pensent même que le livre est « une œuvre du diable ». D’autres amis, moins préjugés et moins craintifs, ont trouvé dans ce livre le réservoir spirituel révolutionnaire dont j’ai fait l’expérience. Et j’attends avec impatience d’être continuellement exposé aux enseignements de Jésus, libre des distorsions des balanes de la tradition.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/How_Good_is_the_Good_News">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Quelle est la qualité de la bonne nouvelle ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="pr-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

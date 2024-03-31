@@ -58,7 +58,7 @@ Et cela appelle cela une nouvelle époque. Une époque semble être le temps qui
 
 Cela signifie-t-il que nous allons bientôt avoir un autre Fils ? Peut-être un Fils Magistral ? Beaucoup de choses semblent aller dans ce sens.
 
-Sur <a id="a60_4"></a>[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3), le Livre déclare : « La société d’Urantia ne peut jamais espérer se poser pour un temps comme dans les âges passés. Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire.» Et au-dessus, il est écrit : « L’humanité est en marche vers un destin planétaire nouveau et non révélé. » [LU 99:1.1](/fr/The_Urantia_Book/99#p1_1)
+Sur <a id="a60_4"></a>[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3), le Livre déclare : « La société d’Urantia ne peut jamais espérer se poser pour un temps comme dans les âges passés. Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire.» Et au-dessus, il est écrit : « L’humanité est en marche vers un destin planétaire nouveau et non révélé. » <a id="a60_421"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1)
 
 Sur <a id="a62_4"></a>[LU 114:4.4](/fr/The_Urantia_Book/114#p4_4) nous lisons : « Un Très Haut observateur jouit du pouvoir discrétionnaire de prendre en mains le gouvernement de la planète en temps de crise planétaire grave, et les annales rapportent que ce fut trente-trois fois le cas dans l’histoire d’Urantia.» (Les pages <a id="a62_309"></a>[LU 43:5.17](/fr/The_Urantia_Book/43#p5_17) et <a id="a62_356"></a>[LU 175:1.8](/fr/The_Urantia_Book/175#p1_8) semblent nous raconter deux de ces moments.)
 

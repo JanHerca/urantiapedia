@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Meredith Sprunger<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les journaux de Sherman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="pr-2">Leadership pour les communautés spirituelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque le _Livre d'Urantia_ fut publié en 1955, de nombreuses personnes présentes au Forum s'attendaient à ce qu'il entraîne des événements dramatiques dans notre société. Après près d’un demi-siècle d’expérience, nous réalisons que la Cinquième Révélation d’Époque suivra la lente dynamique de changement évolutif très similaire à l’influence de la Vie et des Enseignements de Jésus. Rodney Stark dans _The Rise of Christianity_ observe qu'il y avait une très petite population chrétienne au cours des deux premiers siècles. Thomas Kuhn dans _The Structure of Scientific Revolutions_ documente ce même lent développement du changement scientifique.
@@ -27,8 +51,33 @@ Il a fallu près de 1 800 ans de développement évolutif pour précipiter un ju
 
 
 
-> _Dr. Meredith J. Sprunger est présidente de The Spiritual Fellowship et fondatrice et rédactrice émérite de _The Spiritual Fellowship Journal_. Il vit à Fort Wayne, Indiana avec sa femme, Irene. Le Dr Sprunger peut être contacté à :_
+> _Dr. Meredith J. Sprunger est présidente de The Spiritual Fellowship et fondatrice et rédactrice émérite de _Journal de la Fraternité Spirituelle_. Il vit à Fort Wayne, Indiana avec sa femme, Irene. Le Dr Sprunger peut être contacté à :_
 > 
 > mjsprunger@aol.com
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les journaux de Sherman</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="pr-2">Leadership pour les communautés spirituelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

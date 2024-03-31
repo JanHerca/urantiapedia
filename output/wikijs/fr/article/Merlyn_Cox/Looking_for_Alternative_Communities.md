@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, Automne-Hiver 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Religious_Pluralism">
+          <span class="pr-2">Pluralisme religieux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En tant que pasteur, maintenant à la retraite, et en tant que lecteur d'Urantia depuis une vingtaine d'années, j'aimerais voir une alternative à l'Église divisée et liée par la tradition, se débattant désespérément à la recherche d'une compréhension plus claire de son Seigneur et de sa mission dans notre monde. aujourd'hui. J'adorerais faire partie d'une fraternité dont le mandat comporte un correctif qui nous permettrait de contourner le pire des conflits et des luttes intestines de cette institution trop humaine. J'aimerais voir une alternative émerger de la communauté Urantia - ou du moins voir une église transformée par la Cinquième Révélation d'Époque, une église qui capture d'une manière ou d'une autre le meilleur de la communauté chrétienne, une qui nourrit une grande espérance et une grande joie, une communauté aimante. fondé sur un culte transcendant et un service oubliant de soi.
@@ -58,3 +82,28 @@ Nous n’en avons pas besoin, car même si nous croyons que le travail est le n�
 
 - Dans ma critique du livre de Rhawn Joseph, « Astrobiologie : L'origine de la vie et la mort du darwinisme », dans le dernier numéro, page 21, paragraphe 5 : « Au contraire, les antigènes de toutes les maladies possibles… » devrait lire : « Plutôt des lymphocytes pour toutes les maladies possibles… »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, Automne-Hiver 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Religious_Pluralism">
+          <span class="pr-2">Pluralisme religieux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

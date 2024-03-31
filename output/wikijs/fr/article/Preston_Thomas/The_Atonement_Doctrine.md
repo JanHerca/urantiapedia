@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Preston Thomas<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Semantics_and_the_Lords_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sémantique dans la Cène du Seigneur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Hall/Poor_in_Spirit">
+          <span class="pr-2">Pauvre en esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -64,3 +88,28 @@ B. J., dans cette lettre, j'ai tenté de reformuler et d'organiser ce que je vou
 
 > _Preston Thomas réside à Earlysville, en Virginie et est titulaire d'une maîtrise en philosophie de l'Université de Virginie. Pendant neuf ans, il a travaillé comme tuteur privé auprès d'enfants ayant des troubles d'apprentissage. En 1981, Preston a fondé l'école Einstein qui propose un enseignement individuel et met l'accent sur les enseignements de base de Jésus. Preston est un étudiant de longue date du Livre d'Urantia. _En 1992, il a publié_ La Vie et les Enseignements de Jésus, _qui organise et trie le matériel biblique traitant de Jésus en harmonie chronologique avec les Fascicules d'Urantia._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Semantics_and_the_Lords_Supper">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sémantique dans la Cène du Seigneur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Hall/Poor_in_Spirit">
+          <span class="pr-2">Pauvre en esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

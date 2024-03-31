@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « _Ganid, j’ai une confiance absolue dans la surveillance supérieure exercée par mon Père qui est aux cieux. Je suis consacré à faire la volonté de mon Père qui est dans les cieux. Je ne crois pas que l’on puisse *réellement* me nuire, ni que l’œuvre de ma vie puisse vraiment être mise en péril par un effort quelconque de mes ennemis contre moi, et par ailleurs nous n’avons certainement à craindre aucune violence de la part de nos amis. Je suis absolument convaincu que l’univers entier est amical à mon égard — et je persiste à croire à cette toute-puissante vérité avec une confiance totale, malgré toutes les apparences contraires._ » ([LU 133:1.4](/fr/The_Urantia_Book/133#p1_4))
+> « _Ganid, j’ai une confiance absolue dans la surveillance supérieure exercée par mon Père qui est aux cieux. Je suis consacré à faire la volonté de mon Père qui est dans les cieux. Je ne crois pas que l’on puisse *réellement* me nuire, ni que l’œuvre de ma vie puisse vraiment être mise en péril par un effort quelconque de mes ennemis contre moi, et par ailleurs nous n’avons certainement à craindre aucune violence de la part de nos amis. Je suis absolument convaincu que l’univers entier est amical à mon égard — et je persiste à croire à cette toute-puissante vérité avec une confiance totale, malgré toutes les apparences contraires._ » (<a id="a13_645"></a>[LU 133:1.4](/fr/The_Urantia_Book/133#p1_4))
 
 « L’univers est convivial » : quel étrange concept ! N'est-ce pas l'expérience de pratiquement chacun d'entre nous que l'univers est universellement hostile ? Demandez à un agriculteur et il vous racontera des histoires d'inondations, d'incendies, de famine et de sécheresse. Demandez à tous les services d’urgence qui font face aux conséquences des tremblements de terre, des raz-de-marée, des ouragans, des tornades et d’autres caprices de nature apparemment hostile. Bien sûr, il y a un autre aspect : ces événements anormaux ont toujours eu lieu et nous, les humains, avons construit nos maisons sur leur territoire.
 
@@ -31,9 +31,9 @@ Les Cahiers d'Urantia éliminent suffisamment de notre ignorance pour nous perme
 
 Pour expérimenter l’univers convivial comme Jésus l’a vécu, nous devons tourner notre esprit vers son Esprit de Vérité.
 
-> « _La vraie signification cosmique de cette règle de relations universelles ne se révèle que dans sa réalisation spirituelle, dans l’interprétation de la loi de conduite par l’esprit du Fils envers l’esprit du Père qui habite l’âme du mortel._ » ([LU 180:5.8](/fr/The_Urantia_Book/180#p5_8))
+> « _La vraie signification cosmique de cette règle de relations universelles ne se révèle que dans sa réalisation spirituelle, dans l’interprétation de la loi de conduite par l’esprit du Fils envers l’esprit du Père qui habite l’âme du mortel._ » (<a id="a33_249"></a>[LU 180:5.8](/fr/The_Urantia_Book/180#p5_8))
 
-> « _Quand les mortels ainsi dirigés par l’esprit réalisent la véritable signification de cette règle d’or, ils débordent de l’assurance qu’ils sont citoyens ***d’un univers amical***, et leurs idéaux de réalité d’esprit ne sont satisfaits que s’ils aiment leurs semblables comme Jésus nous a tous aimés. Telle est la réalité de la réalisation de l’amour de Dieu._ » ([LU 180:5.8](/fr/The_Urantia_Book/180#p5_8))
+> « _Quand les mortels ainsi dirigés par l’esprit réalisent la véritable signification de cette règle d’or, ils débordent de l’assurance qu’ils sont citoyens ***d’un univers amical***, et leurs idéaux de réalité d’esprit ne sont satisfaits que s’ils aiment leurs semblables comme Jésus nous a tous aimés. Telle est la réalité de la réalisation de l’amour de Dieu._ » (<a id="a35_368"></a>[LU 180:5.8](/fr/The_Urantia_Book/180#p5_8))
 
 Les attitudes font donc toute la différence. Jésus n’a jamais perçu l’hostilité apparente des autres comme étant véritablement hostile, mais plutôt comme étant mal informée et malavisée.
 

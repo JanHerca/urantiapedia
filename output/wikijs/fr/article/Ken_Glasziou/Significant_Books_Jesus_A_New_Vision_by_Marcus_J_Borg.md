@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ken Glasziou<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Les cinq évangiles de Robert W. Funk et al</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I">
+          <span class="pr-2">Un nouveau départ pour l'unité mondiale (partie I)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Marcus J. Borg, Harper Collins, 1989, 1991, p. 207
@@ -38,6 +62,31 @@ Ce livre contient une multitude de références qui indiquent qu’un nouveau mo
 > _Ken Glasziou est un chercheur scientifique à la retraite et actif dans le travail de l'Église en Australie. Il est l'auteur de_ Science et Religion : Le Nouvel Âge au-delà de l'an 2000 après J.-C. _et_ Christ ou Chaos : L'évolution d'une révélation.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Five_Gospels_by_Robert_W_Funk_et_al">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Les cinq évangiles de Robert W. Funk et al</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I">
+          <span class="pr-2">Un nouveau départ pour l'unité mondiale (partie I)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

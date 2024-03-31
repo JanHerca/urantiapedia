@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Nina Bravo<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Spiritual_Affirmations_to_Enhanced_Religious_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Affirmations spirituelles pour améliorer la vie religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/My_Introduction_to_Jesus">
+          <span class="pr-2">Mon introduction à Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Cet extrait de l'introduction du livre Human Values de Nina Bravo, édité pour l'espace, a été traduit par Susan Ransbottom et Rosey Lieske.
@@ -71,3 +95,28 @@ Choisir implique une compréhension profonde de la façon dont on pense, ressent
 > L'auteur, avec Oly Tartakowsky, a fondé et entretenu un mouvement Urantia dynamique au Chili, en Amérique du Sud.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Spiritual_Affirmations_to_Enhanced_Religious_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Affirmations spirituelles pour améliorer la vie religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/My_Introduction_to_Jesus">
+          <span class="pr-2">Mon introduction à Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

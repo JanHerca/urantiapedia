@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Jack Rogers<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chant du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Media_and_Values">
+          <span class="pr-2">Médias et valeurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Cette chronique aborde le souci des supports contemporains au culte. Nous acceptons les documents que vous pourriez être inspiré d'écrire et de partager._
@@ -31,3 +55,28 @@ Cette chronique cherchera à soutenir ce changement et à offrir des encourageme
 
 « _Est-ce vraiment un ‘New Age’ ?_ » L'hymnodie New Age apporte-t-elle une contribution significative au culte, ou devrions-nous l'ignorer ?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Chant du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Media_and_Values">
+          <span class="pr-2">Médias et valeurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -15,7 +15,7 @@ Cet évangile du royaume appartient à la fois aux Juifs et aux gentils, aux ric
 
 Comme le Père m'a envoyé dans ce monde, de même maintenant je vous envoie. Vous êtes tous appelés à apporter la bonne nouvelle à ceux qui sont assis dans les ténèbres. Cet évangile du royaume appartient à tous ceux qui y croient ; il ne sera pas confié à la garde de simples prêtres. Bientôt l’Esprit de Vérité viendra sur vous et il vous conduira dans toute la vérité. Allez donc dans le monde entier pour prêcher cet évangile, et voici, je serai avec vous toujours, même jusqu'à la fin des siècles.
 
-> « En vous rapprochant ainsi de vos contemporains par une sympathie compréhensive et par un dévouement désintéressé, vous les conduirez au salut par la connaissance de l’amour du Père. Les Juifs ont prôné la bonté, les Grecs ont exalté la beauté, les Hindous prêchent la dévotion ; les lointains ascètes enseignent le respect ; les Romains exigent la fidélité ; mais, moi, je demande que la vie de mes disciples soit même une vie de service aimant pour vos frères dans la chair. » » ([LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
+> « En vous rapprochant ainsi de vos contemporains par une sympathie compréhensive et par un dévouement désintéressé, vous les conduirez au salut par la connaissance de l’amour du Père. Les Juifs ont prôné la bonté, les Grecs ont exalté la beauté, les Hindous prêchent la dévotion ; les lointains ascètes enseignent le respect ; les Romains exigent la fidélité ; mais, moi, je demande que la vie de mes disciples soit même une vie de service aimant pour vos frères dans la chair. » » (<a id="a17_485"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
 Si vous donnez réellement votre vie à l’Évangile, vous vivrez selon l’Évangile.
 

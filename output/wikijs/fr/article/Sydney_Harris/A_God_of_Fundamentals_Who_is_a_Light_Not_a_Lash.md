@@ -29,7 +29,7 @@ Hélas, l'Église fondée au nom de Jésus (ce qui, je pense, l'aurait choqué e
 
 Dieu grandit à mesure que nous grandissons, car il reflète ce que nous devenons ; et lorsque nous grandirons pleinement, nous aurons le Dieu le plus complet – non pas un Dieu des fondamentalistes, mais un Dieu des fondamentaux, une lumière, pas un fouet.
 
-> En vivant sa vie humaine à son époque et *tel qu’il était,* il nous a donné à tous l’exemple nous permettant de vivre la nôtre à notre époque et *tels que nous sommes.* ([LU 129:4.7](/fr/The_Urantia_Book/129#p4_7))
+> En vivant sa vie humaine à son époque et *tel qu’il était,* il nous a donné à tous l’exemple nous permettant de vivre la nôtre à notre époque et *tels que nous sommes.* (<a id="a31_172"></a>[LU 129:4.7](/fr/The_Urantia_Book/129#p4_7))
 
 ## Liens externes
 

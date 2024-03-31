@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Merlyn Cox<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/On_Theological_Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les transitions théologiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="pr-2">Livres importants : « Le bon livre » de Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 C'est une chose curieuse. L’une des luttes permanentes auxquelles je suis confronté en tant que pasteur d’une église est d’amener les membres de sa communauté à croire en la Bonne Nouvelle. L’Église est souvent considérée comme une colonie de foi au milieu d’un océan de doute et de scepticisme. Mais je continue de me demander pourquoi est-il si difficile pour les membres de la communauté ecclésiale de croire vraiment à la grande Bonne Nouvelle que nous professons, que nous sommes les enfants d'un Père Créateur, d'un Parent Divin qui nous aime d'un amour infini, d'un amour qui chasse toute peur ?
@@ -23,3 +47,28 @@ Qu'est-ce que cela a à voir avec la communauté du Livre d'Urantia ? D’une pa
 
 D’ici là, nous nous retrouverons souvent à discuter avec Nicodème, quelqu’un qui connaît la langue, affirme les prémisses, mais passe complètement à côté des réalités fondamentales sous-jacentes. Pour lui, nous ne pouvons que témoigner de ces réalités et attendre patiemment. Nous pouvons cependant prendre courage à réaliser la manière dont le message a finalement porté ses fruits dans sa vie.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/On_Theological_Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les transitions théologiques</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="pr-2">Livres importants : « Le bon livre » de Peter J. Gomes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

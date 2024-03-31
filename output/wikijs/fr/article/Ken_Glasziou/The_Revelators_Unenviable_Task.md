@@ -11,9 +11,9 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « Toutefois, jamais aucune révélation ne peut être complète avant d’atteindre le Père Universel. **Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l’espace**. » ([LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
+> « Toutefois, jamais aucune révélation ne peut être complète avant d’atteindre le Père Universel. **Tous les autres ministères célestes ne sont que partiels, transitoires et pratiquement adaptés aux conditions locales dans le temps et l’espace**. » (<a id="a13_251"></a>[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9))
 
-«**La religion est la révélation à l'homme de sa destinée divine et éternelle.**» ([LU 195:5.3](/fr/The_Urantia_Book/195#p5_3)) Ainsi disent les révélateurs. L'une des tâches majeures des révélateurs des Cahiers d'Urantia était certainement d'informer les Urantiens de leur « destinée divine et éternelle » dans le contexte d'une cosmologie qui inclut le Paradis, Havona, les sept superunivers et la structure hiérarchique des « armées célestes ». »
+«**La religion est la révélation à l'homme de sa destinée divine et éternelle.**» (<a id="a15_83"></a>[LU 195:5.3](/fr/The_Urantia_Book/195#p5_3)) Ainsi disent les révélateurs. L'une des tâches majeures des révélateurs des Cahiers d'Urantia était certainement d'informer les Urantiens de leur « destinée divine et éternelle » dans le contexte d'une cosmologie qui inclut le Paradis, Havona, les sept superunivers et la structure hiérarchique des « armées célestes ». »
 
 > Si à chaque instant, présent et futur, il était éternellement certain que rien n'est arrivé ou ne peut arriver, pas même l'horreur la plus effrayante inventée par l'imagination la plus morbide et traduite dans les faits, qui puisse nous séparer de l'amour de Dieu, ce serait ici être un motif de joie.
 > &nbsp; &nbsp; &nbsp; _Soren Kierkegarde_
@@ -33,11 +33,11 @@ Un point à considérer est que nous pourrions être tenus responsables à un mo
 
 C’est une triste vérité que les Cahiers d’Urantia n’ont jamais eu besoin de la protection du droit d’auteur, ni qu’ils n’aient jamais eu besoin que le statut de « révélation divinement dictée » leur soit apposé. Les vérités contenues dans ces fascicules s’authentifient magnifiquement d’elles-mêmes pour ceux qui ont « des yeux pour voir et des oreilles pour entendre ». Ils peuvent voler de leurs propres ailes et grâce à leurs propres mérites. Combien de temps faudra-t-il pour que cette vérité soit comprise ?
 
-Les restrictions imposées aux révélateurs par les règles de la révélation incluent le fait qu'ils ne doivent pas nous fournir de connaissances non acquises, et qu'ils ne sont pas non plus autorisés à anticiper les découvertes scientifiques qu'ils s'attendent à ce que nous fassions au cours des 1000 prochaines années. ([LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)) À première vue, ces impositions ne semblent pas si intimidantes. Mais une réflexion réaliste sur le problème révélera bientôt la profondeur des difficultés ainsi créées.
+Les restrictions imposées aux révélateurs par les règles de la révélation incluent le fait qu'ils ne doivent pas nous fournir de connaissances non acquises, et qu'ils ne sont pas non plus autorisés à anticiper les découvertes scientifiques qu'ils s'attendent à ce que nous fassions au cours des 1000 prochaines années. (<a id="a35_320"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2)) À première vue, ces impositions ne semblent pas si intimidantes. Mais une réflexion réaliste sur le problème révélera bientôt la profondeur des difficultés ainsi créées.
 
-> « Ganid, j’ai une confiance absolue dans la surveillance supérieure exercée par mon Père qui est aux cieux. Je suis consacré à faire la volonté de mon Père qui est dans les cieux. Je ne crois pas que l’on puisse *réellement* me nuire, ni que l’œuvre de ma vie puisse vraiment être mise en péril par un effort quelconque de mes ennemis contre moi, et par ailleurs nous n’avons certainement à craindre aucune violence de la part de nos amis. Je suis absolument convaincu que l’univers entier est amical à mon égard — et je persiste à croire à cette toute-puissante vérité avec une confiance totale, malgré toutes les apparences contraires. » ([LU 133:1.4](/fr/The_Urantia_Book/133#p1_4))
+> « Ganid, j’ai une confiance absolue dans la surveillance supérieure exercée par mon Père qui est aux cieux. Je suis consacré à faire la volonté de mon Père qui est dans les cieux. Je ne crois pas que l’on puisse *réellement* me nuire, ni que l’œuvre de ma vie puisse vraiment être mise en péril par un effort quelconque de mes ennemis contre moi, et par ailleurs nous n’avons certainement à craindre aucune violence de la part de nos amis. Je suis absolument convaincu que l’univers entier est amical à mon égard — et je persiste à croire à cette toute-puissante vérité avec une confiance totale, malgré toutes les apparences contraires. » (<a id="a37_643"></a>[LU 133:1.4](/fr/The_Urantia_Book/133#p1_4))
 
-> Le mécanisme mental partiellement évolué de l’homme mortel n’est pas surdoué en sagesse et en logique. La vanité de l’homme dépasse souvent sa raison et échappe à sa logique. ([LU 195:7.7](/fr/The_Urantia_Book/195#p7_7))
+> Le mécanisme mental partiellement évolué de l’homme mortel n’est pas surdoué en sagesse et en logique. La vanité de l’homme dépasse souvent sa raison et échappe à sa logique. (<a id="a39_178"></a>[LU 195:7.7](/fr/The_Urantia_Book/195#p7_7))
 
 Imaginez que vous avez été placé dans une machine à voyager dans le temps et que la date remonte à la fin du 19e siècle. Vous devez donner une conférence à un groupe de citoyens érudits, votre sujet est « la nature mécanique de l'univers » et vous connaissez les récents progrès de la physique quantique du 20e siècle qui démontrent de manière concluante que l'univers n'est pas une horloge. comme une machine après tout, et que les principes fondamentaux de la réflexion sur les causes et les effets ont disparu à jamais.
 
@@ -51,13 +51,13 @@ Essayez-le et voyez par vous-même. Bill Sadler a utilisé une analogie pour exp
 
 L’indice pourrait être trouvé dans ce que dit le livre à propos de notre libre arbitre :
 
-> « Nul autre être, nulle force, nul créateur ou agent dans le vaste univers des univers ne peuvent interférer à un degré quelconque dans la souveraineté absolue du libre arbitre humain opérant dans les domaines d’option **concernant la destinée éternelle de la personnalité du mortel qui choisit**. Quant à la survie éternelle, **Dieu a décrété que la volonté matérielle et humaine était souveraine, et ce décret est absolu**. » ([LU 5:6.8](/fr/The_Urantia_Book/5#p6_8))
+> « Nul autre être, nulle force, nul créateur ou agent dans le vaste univers des univers ne peuvent interférer à un degré quelconque dans la souveraineté absolue du libre arbitre humain opérant dans les domaines d’option **concernant la destinée éternelle de la personnalité du mortel qui choisit**. Quant à la survie éternelle, **Dieu a décrété que la volonté matérielle et humaine était souveraine, et ce décret est absolu**. » (<a id="a53_431"></a>[LU 5:6.8](/fr/The_Urantia_Book/5#p6_8))
 
 Il existe plusieurs déclarations similaires sur la souveraineté absolue du libre arbitre humain. **Alors, qu'est-ce que le libre arbitre ?**
 
 _Le Livre d'Urantia_ nous dit que nos carrières dans l'univers seront finalement récompensées par notre obtention de la présence du Père Universel, puis par notre introduction dans le Corps de la Finalité—**à condition que nous prenions la décision de notre libre arbitre d'un engagement total à « faire le bien de Dieu ». volonté.**"
 
-Alternativement, si nous refusons finalement de prendre l’engagement de faire la volonté de Dieu, nous deviendrons **comme si nous ne l’avions jamais été**. ([LU 2:3.4](/fr/The_Urantia_Book/2#p3_4))
+Alternativement, si nous refusons finalement de prendre l’engagement de faire la volonté de Dieu, nous deviendrons **comme si nous ne l’avions jamais été**. (<a id="a59_158"></a>[LU 2:3.4](/fr/The_Urantia_Book/2#p3_4))
 
 Comment cette situation se compare-t-elle à la méthodologie de récompense et de punition que nous utilisons couramment pour dresser les animaux et même notre progéniture ? Y a-t-il une vraie différence ?
 
@@ -118,7 +118,7 @@ Si cette suggestion est correcte, alors les révélateurs ne pourraient pas nous
 
 Les citations du livre qui sont en accord avec ces pensées sont :
 
-> « « Mais, pour vous, mes enfants, et pour tous ceux qui voudront vous suivre dans ce royaume, une sévère épreuve est instaurée : la foi seule vous permettra de franchir ses portes ... » ([LU 140:1.4](/fr/The_Urantia_Book/140#p1_4))
+> « « Mais, pour vous, mes enfants, et pour tous ceux qui voudront vous suivre dans ce royaume, une sévère épreuve est instaurée : la foi seule vous permettra de franchir ses portes ... » (<a id="a120_189"></a>[LU 140:1.4](/fr/The_Urantia_Book/140#p1_4))
 
 Il convient ici de rappeler la remarque révélatrice de Brian Appleyard : « Si nous avions des raisons de croire, ce ne serait pas du tout la foi, ce serait la logique. La foi ne peut être que déraisonnable.
 
@@ -126,23 +126,23 @@ Ainsi, si les Fascicules d’Urantia étaient sans erreur et contenaient du mat�
 
 Ensuite nous avons:
 
-> « L’existence de Dieu ne pourra jamais être prouvée par des expériences scientifiques, ni par des déductions logiques de la raison pure. ... » ([LU 1:2.7](/fr/The_Urantia_Book/1#p2_7))
+> « L’existence de Dieu ne pourra jamais être prouvée par des expériences scientifiques, ni par des déductions logiques de la raison pure. ... » (<a id="a128_146"></a>[LU 1:2.7](/fr/The_Urantia_Book/1#p2_7))
 
-> « ...la révélation n’est validée que par l’*expérience* humaine. ... » ([LU 101:2.8](/fr/The_Urantia_Book/101#p2_8))
+> « ...la révélation n’est validée que par l’*expérience* humaine. ... » (<a id="a130_74"></a>[LU 101:2.8](/fr/The_Urantia_Book/101#p2_8))
 
-> « C’est ce même fait d’expérience humaine qui prouve que la révélation est révélation, ... » ([LU 101:2.1](/fr/The_Urantia_Book/101#p2_1))
+> « C’est ce même fait d’expérience humaine qui prouve que la révélation est révélation, ... » (<a id="a132_96"></a>[LU 101:2.1](/fr/The_Urantia_Book/101#p2_1))
 
-> « Le fait de la religion consiste entièrement dans l’expérience religieuse des êtres humains raisonnables et ordinaires. ... » ([LU 101:2.1](/fr/The_Urantia_Book/101#p2_1))
+> « Le fait de la religion consiste entièrement dans l’expérience religieuse des êtres humains raisonnables et ordinaires. ... » (<a id="a134_130"></a>[LU 101:2.1](/fr/The_Urantia_Book/101#p2_1))
 
 Ma dernière citation à l'appui dit :
 
-> Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » ([LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
+> Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » (<a id="a138_520"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
 Il semble certainement que la vie mortelle soit censée être chargée d’incertitude. Ainsi puis-je dire :
 
 « Merci Père, pour les erreurs et les trucs « drôles » dans _Le Livre d'Urantia_, merci pour ces passages hilarants sur Adamson et Ratta et leurs enfants invisibles ; merci pour ces oiseaux passagers incroyables, impossibles et à longue portée qui transportent deux personnes sur 500 milles sans escale et parlent ; merci pour l'énigme des quarante jours jusqu'à la Pentecôte ; et merci pour la beauté et la grandeur de ces Cahiers d'Urantia qui reflètent un niveau de génie qui est à des années-lumière au-delà des talents des simples hommes. Mais par-dessus tout, je te rends grâce, Père, pour la vie de Jésus telle qu'elle me révèle. Et enfin, je rends grâce pour ces précieuses paroles de Job disant : « Même si tu me tues, je te servirai pourtant », car c'est ma volonté, Père, que ta volonté soit faite en moi, quelles qu'en soient les conséquences. Mon Père, je t'aime sincèrement juste parce que tu es toi et parce que tu me permets d'être moi. Encore une fois, merci. Amen."
 
-> il faut avancer en partant du point où l’on se trouve. ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> il faut avancer en partant du point où l’on se trouve. (<a id="a144_58"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 > La raison pour laquelle les oiseaux peuvent voler et nous ne le pouvons pas, c'est simplement qu'ils ont une foi parfaite, car avoir la foi, c'est avoir des ailes.
 > &nbsp; &nbsp; &nbsp; J.M. Barrie, « Le petit oiseau blanc »

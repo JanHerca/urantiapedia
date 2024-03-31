@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Merlyn Cox<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Our_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre Père Universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/In_His_Presence">
+          <span class="pr-2">En sa présence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je chante la culture de la haute technologie. D’aussi loin que je me souvienne, j’ai attendu avec impatience l’arrivée de pratiquement toutes les nouvelles technologies. Quand j’étais enfant, je rêvais d’alunissage alors que les plus sages de nos scientifiques pensaient que cela n’était qu’une chimère. Je considérais le succès du télescope Hubble comme une question d’importance religieuse pour laquelle je priais. Ce sont des problèmes initiaux que je considérais comme semblables à la chute dans le jardin. J'attends avec impatience l'arrivée de la télévision haute définition depuis que j'en ai vu pour la première fois une démonstration il y a plus de 15 ans. Je suis sur le point de faire partie de ces accros de la haute technologie qui ne peuvent jamais se lasser des technologies les plus récentes et les plus performantes.
@@ -29,8 +53,33 @@ C'est pourquoi le témoignage personnel est toujours si important dans le partag
 
 Je célèbre toujours la haute technologie, le plus grand corps humain électrique (Internet, etc.) et son rôle dans le partage des nouvelles concernant le _Livre d'Urantia_ ; mais j’apprécie encore plus le domaine de la présence de l’Esprit, où deux ou plusieurs sont rassemblés, et où la bonne nouvelle dont elle témoigne devient la plus réelle.
 
-> _Le grand espoir d’Urantia réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles._ ([LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
+> _Le grand espoir d’Urantia réside dans la possibilité d’une nouvelle révélation de Jésus, avec une présentation nouvelle et élargie de son message sauveur, qui unirait spirituellement, dans un service aimant, les nombreuses familles de ceux qui se prétendent aujourd’hui ses fidèles._ (<a id="a55_288"></a>[LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Our_Universal_Father">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre Père Universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/In_His_Presence">
+          <span class="pr-2">En sa présence</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

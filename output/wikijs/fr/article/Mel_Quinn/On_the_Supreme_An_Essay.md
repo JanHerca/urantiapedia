@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Mel Quinn<br>© 2005 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Significant_Books_Astrobiology_by_Rhawn_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Astrobiologie : les origines de la vie et la mort du darwinisme, par Rhawn Joseph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En trente ans de connaissance du _Livre d'Urantia_, aucune partie de la révélation ne m'a plus inspiré que les articles sur le Suprême.
@@ -65,3 +86,25 @@ C’est pourquoi le Père envoie des fragments de lui-même dépourvus de person
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Significant_Books_Astrobiology_by_Rhawn_Joseph">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Astrobiologie : les origines de la vie et la mort du darwinisme, par Rhawn Joseph</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

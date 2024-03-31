@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Meredith J. Sprunger<br>© 2005 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_and_Joan_Mullins/Living_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre les enseignements</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stan_Hartman/Fusion_Power">
+          <span class="pr-2">Puissance de fusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je voudrais attirer votre attention sur une déclaration faite par le prophète de l’Ancien Testament Habacuc ([1:5](/fr/Bible/Habakkuk/1#v5)), « Regardez, il y a un travail qui se fait dans vos jours qui vous étonnera et que vous ne ferez pas. croyez quand cela vous est dit. Nous vivons à nouveau à une époque où des choses étonnantes sont accomplies par l’esprit de Dieu dans notre monde.
@@ -21,7 +45,7 @@ Les esprits les plus créatifs de notre génération se heurtent à la perplexit
 
 L’une des responsabilités et des opportunités les plus importantes de notre monde aujourd’hui est de transmettre cette nouvelle vision de la réalité aux peuples du monde. Chaque personne qui découvre _Le Livre d'Urantia_ et reconnaît sa signification doit décider quel devrait être son rôle dans cette mission d'évangélisation aux multiples facettes. La Cinquième Révélation d’Époque ne peut exercer son pouvoir de transformation dans notre monde que si nous sommes dévoués de tout cœur et avec compétence à ce ministère de sensibilisation.
 
-Paul dans sa lettre aux Colossiens dit ([3:23](/fr/Bible/Colossians/3#v23)), « Quoi que vous fassiez, mettez-y tout votre cœur, au service du Seigneur, et pas seulement de l'humanité. » Dans [LU 160:5.3](/fr/The_Urantia_Book/160#p5_3) du _Le Livre d'Urantia_, nous lisons : « Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle. » On nous dit sur [LU 25:4.12](/fr/The_Urantia_Book/25#p4_12) : « Dans le régime universel, on ne vous compte pas comme ayant acquis du savoir et possédant des vérités avant que vous n’ayez prouvé votre aptitude et votre bonne volonté à communiquer à d’autres ce savoir et ces vérités. » Sur [LU 48:7.13](/fr/The_Urantia_Book/48#p7_13), nous sommes avertis : « Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour — exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu. »
+Paul dans sa lettre aux Colossiens dit ([3:23](/fr/Bible/Colossians/3#v23)), « Quoi que vous fassiez, mettez-y tout votre cœur, au service du Seigneur, et pas seulement de l'humanité. » Dans <a id="a47_191"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3) du _Le Livre d'Urantia_, nous lisons : « Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle. » On nous dit sur <a id="a47_537"></a>[LU 25:4.12](/fr/The_Urantia_Book/25#p4_12) : « Dans le régime universel, on ne vous compte pas comme ayant acquis du savoir et possédant des vérités avant que vous n’ayez prouvé votre aptitude et votre bonne volonté à communiquer à d’autres ce savoir et ces vérités. » Sur <a id="a47_811"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13), nous sommes avertis : « Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour — exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu. »
 
 ## Vérité spirituelle vivante
 
@@ -41,19 +65,19 @@ Toute personne sérieuse et dévouée engagée dans le ministère de sensibilisa
 
 ## Institutions religieuses authentiques
 
-Cette progression de l’expérience de sensibilisation, ainsi que l’histoire religieuse planétaire, nous amènent à réaliser que ces cinq étapes fondamentales de l’activité missionnaire ne sont que des phases préliminaires et partielles menant à la seule forme durable de socialisation de la religion : la formation ou la réforme des institutions religieuses. C’est le paradoxe de l’histoire religieuse que l’institutionnalisation de la religion augmente le potentiel du mal et entrave la croissance, mais constitue une condition nécessaire à l’inculturation et à la survie religieuses. ([LU 98:6.1](/fr/The_Urantia_Book/98#p6_1))
+Cette progression de l’expérience de sensibilisation, ainsi que l’histoire religieuse planétaire, nous amènent à réaliser que ces cinq étapes fondamentales de l’activité missionnaire ne sont que des phases préliminaires et partielles menant à la seule forme durable de socialisation de la religion : la formation ou la réforme des institutions religieuses. C’est le paradoxe de l’histoire religieuse que l’institutionnalisation de la religion augmente le potentiel du mal et entrave la croissance, mais constitue une condition nécessaire à l’inculturation et à la survie religieuses. (<a id="a67_585"></a>[LU 98:6.1](/fr/The_Urantia_Book/98#p6_1))
 
-La solution à ce paradoxe, comme le soulignent les auteurs du _Livre d'Urantia_ ([LU 97:10.7](/fr/The_Urantia_Book/97#p10_7)), n'est pas l'éradication des institutions religieuses mais la création d'organisations religieuses plus parfaites et spirituellement adaptées. Toute activité de sensibilisation ayant une valeur de survie doit donc aboutir à une forme d’institutionnalisation. La religion doit avoir un symbolisme attrayant incorporé dans le rituel qui encourage et renforce le culte individuel et collectif, soutient les valeurs de la famille et fournit une communion fraternelle et des soins spirituels pour toute la vie, de la naissance à la mort. Les cinq premières étapes du ministère de sensibilisation sont des étapes bonnes et nécessaires vers le seul véhicule social et la seule méthodologie capable de transmettre la Cinquième Révélation d'Époque aux peuples du monde. Elle doit être intégrée aux institutions religieuses. Tout ministère de sensibilisation sincère et approfondi, fondé sur la sagesse révélatrice et historique, doit s’attaquer à ce fait élémentaire.
+La solution à ce paradoxe, comme le soulignent les auteurs du _Livre d'Urantia_ (<a id="a69_81"></a>[LU 97:10.7](/fr/The_Urantia_Book/97#p10_7)), n'est pas l'éradication des institutions religieuses mais la création d'organisations religieuses plus parfaites et spirituellement adaptées. Toute activité de sensibilisation ayant une valeur de survie doit donc aboutir à une forme d’institutionnalisation. La religion doit avoir un symbolisme attrayant incorporé dans le rituel qui encourage et renforce le culte individuel et collectif, soutient les valeurs de la famille et fournit une communion fraternelle et des soins spirituels pour toute la vie, de la naissance à la mort. Les cinq premières étapes du ministère de sensibilisation sont des étapes bonnes et nécessaires vers le seul véhicule social et la seule méthodologie capable de transmettre la Cinquième Révélation d'Époque aux peuples du monde. Elle doit être intégrée aux institutions religieuses. Tout ministère de sensibilisation sincère et approfondi, fondé sur la sagesse révélatrice et historique, doit s’attaquer à ce fait élémentaire.
 
 ## Faire lever les religions traditionnelles
 
-Il existe deux manières fondamentales de procéder. La première nous amène à la sixième étape : l'étude et l'incorporation des enseignements du _Livre d'Urantia_ dans les religions du monde. Ici, dans la civilisation occidentale, cela signifie créer une interface avec le christianisme. Le christianisme possède d’énormes potentiels latents. Les auteurs du _Le Livre d'Urantia_ le considèrent comme « la meilleure des religions du vingtième siècle » ([LU 195:9.8](/fr/The_Urantia_Book/195#p9_8)) mais ce n'est « que le stade larvaire du royaume spirituel déjoué ». ([LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
+Il existe deux manières fondamentales de procéder. La première nous amène à la sixième étape : l'étude et l'incorporation des enseignements du _Livre d'Urantia_ dans les religions du monde. Ici, dans la civilisation occidentale, cela signifie créer une interface avec le christianisme. Le christianisme possède d’énormes potentiels latents. Les auteurs du _Le Livre d'Urantia_ le considèrent comme « la meilleure des religions du vingtième siècle » (<a id="a73_450"></a>[LU 195:9.8](/fr/The_Urantia_Book/195#p9_8)) mais ce n'est « que le stade larvaire du royaume spirituel déjoué ». (<a id="a73_565"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
 
 L’Église chrétienne possède de grandes réserves de sagesse historique évolutionniste et a des racines organisationnelles dans le monde entier. Personne ne sait jusqu’où il pourra s’élever une fois réformé et transformé par la Cinquième Révélation d’Époque. Il est impératif que nous fassions preuve du courage et de la sagesse nécessaires pour construire une interface avec le christianisme ainsi qu’avec toutes les autres religions du monde.
 
 ## Un nouveau mouvement religieux
 
-Les auteurs du _Le Livre d'Urantia_ visualisent une étape de plus pour la mission d'évangélisation de la Cinquième Révélation d'Époque. Ils soulignent que chaque nouvelle révélation de la vérité a donné naissance à un nouveau mouvement religieux ([LU 67:7.6](/fr/The_Urantia_Book/67#p7_6)) et que la « reformulation élargie de la religion de Jésus doit développer un symbolisme nouveau et approprié ». Cette vision prophétique et cette proclamation nous amènent à la septième étape du ministère de sensibilisation : la formation d’une nouvelle expression sociale de la religion.
+Les auteurs du _Le Livre d'Urantia_ visualisent une étape de plus pour la mission d'évangélisation de la Cinquième Révélation d'Époque. Ils soulignent que chaque nouvelle révélation de la vérité a donné naissance à un nouveau mouvement religieux (<a id="a79_247"></a>[LU 67:7.6](/fr/The_Urantia_Book/67#p7_6)) et que la « reformulation élargie de la religion de Jésus doit développer un symbolisme nouveau et approprié ». Cette vision prophétique et cette proclamation nous amènent à la septième étape du ministère de sensibilisation : la formation d’une nouvelle expression sociale de la religion.
 
 De nombreuses suggestions sont données pour le développement de cette nouvelle communion religieuse fondée sur la paternité de Dieu et la fraternité de l'humanité. Une telle institution religieuse a besoin d’un symbolisme et d’un rituel attrayants qui promeuvent le culte individuel et collectif, incarnent un mystère magistral, s’appuient sur les valeurs du foyer, encouragent la diversité et la croissance, et assurent la communion fraternelle et le soin spirituel de l’humanité. C’est la structure de base qui stimule et soutient l’expérience spirituelle personnelle : la vraie religion.
 
@@ -63,12 +87,37 @@ Le travail missionnaire à ce septième niveau est, je crois, le plus prometteur
 
 Je voudrais lancer un défi et encourager ceux d’entre vous qui se sentent appelés à se consacrer au ministère de sensibilisation de la Cinquième Révélation d’Époque. C’est, je crois, l’objectif spirituel le plus important du XXIe siècle et cela pourrait être, en perspective, le projet le plus important actuellement en cours sur notre planète.
 
-Il s’agit d’un ministère aux multiples facettes et diversifié qui doit être exercé aux sept niveaux de service de proximité. Efforcez-vous de déterminer où vos capacités et votre appel vous dirigent vers le travail, puis servez de tout cœur et de manière dynamique dans le royaume spirituel de Christ Michel et du Père Universel. Ce ministère n’est pas et ne sera pas facile. « La religion de l’esprit signifie effort, lutte, conflit, foi, détermination, amour, loyauté et progrès. » ([LU 155:5.10](/fr/The_Urantia_Book/155#p5_10))
+Il s’agit d’un ministère aux multiples facettes et diversifié qui doit être exercé aux sept niveaux de service de proximité. Efforcez-vous de déterminer où vos capacités et votre appel vous dirigent vers le travail, puis servez de tout cœur et de manière dynamique dans le royaume spirituel de Christ Michel et du Père Universel. Ce ministère n’est pas et ne sera pas facile. « La religion de l’esprit signifie effort, lutte, conflit, foi, détermination, amour, loyauté et progrès. » (<a id="a89_485"></a>[LU 155:5.10](/fr/The_Urantia_Book/155#p5_10))
 
-Tout comme Jésus parlait à ses apôtres du premier siècle, il s’adresse à ses disciples contemporains : « Êtes-vous craintifs, mous et douillets ? Avez-vous peur de confier votre avenir aux mains du Dieu de vérité dont vous êtes les fils ?.... Allez-vous reprendre le sentier facile de la certitude et de la fixité intellectuelle de la religion d’autorité traditionnelle, ou allez-vous vous cuirasser pour avancer avec moi dans l’avenir incertain et trouble où nous proclamerons les vérités nouvelles de la religion de l’esprit, le royaume des cieux dans le cœur des hommes ? » ([LU 155:5.13](/fr/The_Urantia_Book/155#p5_13))
+Tout comme Jésus parlait à ses apôtres du premier siècle, il s’adresse à ses disciples contemporains : « Êtes-vous craintifs, mous et douillets ? Avez-vous peur de confier votre avenir aux mains du Dieu de vérité dont vous êtes les fils ?.... Allez-vous reprendre le sentier facile de la certitude et de la fixité intellectuelle de la religion d’autorité traditionnelle, ou allez-vous vous cuirasser pour avancer avec moi dans l’avenir incertain et trouble où nous proclamerons les vérités nouvelles de la religion de l’esprit, le royaume des cieux dans le cœur des hommes ? » (<a id="a91_578"></a>[LU 155:5.13](/fr/The_Urantia_Book/155#p5_13))
 
 Chacun de nous doit trouver la réponse à cette question dans le calme de son âme. Et puis nous devons agir selon ces conseils.
 
 > _Meredith Sprunger est un pasteur à la retraite de l'UCC et professeur d'université qui a travaillé pendant plus de cinquante ans pour interagir avec le clergé principal. Il est le fondateur et le premier rédacteur en chef du Spiritual Fellowship Journal, et actuellement rédacteur associé._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_and_Joan_Mullins/Living_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vivre les enseignements</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stan_Hartman/Fusion_Power">
+          <span class="pr-2">Puissance de fusion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

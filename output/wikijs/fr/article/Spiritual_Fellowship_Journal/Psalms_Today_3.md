@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La rencontre transformatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="pr-2">Le potentiel suprême de la famille</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Combien de temps, Seigneur, devons-nous attendre l’illumination de l’humanité ?
@@ -38,3 +62,28 @@ Au milieu des problèmes et des souffrances de ma vie, je vis dans les bénédic
 
 Je te louerai éternellement ! (13)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La rencontre transformatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="pr-2">Le potentiel suprême de la famille</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

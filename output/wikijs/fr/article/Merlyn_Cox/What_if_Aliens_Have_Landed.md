@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Merlyn Cox<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le paradis existe-t-il ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="pr-2">Les Psaumes aujourd’hui : conseils spirituels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Récemment, avec un peu plus de temps pendant les vacances, j'ai lu un autre livre sur les ovnis. C'est un sujet d'intérêt depuis un certain temps, comme c'est apparemment le cas pour la plupart des Américains, et il semble s'accroître. Je me considère comme un sceptique ouvert sur la question. Il y a eu suffisamment de rapports pour être intrigants, mais aucun n’est véritablement convaincant. C'est, je pense, ce que Carl Sagan voulait dire lorsqu'il a dit, en effet, qu'il n'y avait tout simplement pas la moindre preuve prouvant que les ovnis existent, ou que nous avons été visités. Je pense qu'il aurait été plus exact de dire qu'il existe une quantité énorme de preuves – des dizaines, voire des centaines de milliers d'observations provenant du monde entier – cependant, la plupart sont pauvres et certaines ridicules. Sagan a raison : vous ne pouvez pas pointer du doigt un seul élément de preuve, un artefact que toutes les personnes raisonnables peuvent examiner et affirmer qu'il n'est pas de ce monde. Je ne me souviens pas du nombre de documentaires télévisés et de reportages sur des OVNIS présumés que j'ai vus et qui commençaient par un commentaire du type : « Eh bien, j'ai vu cette lumière brillante dans le ciel et elle bougeait comme je n'avais jamais vu auparavant. » Je me retrouve souvent à dire à voix haute : « Donnez-moi une pause. »
@@ -35,6 +59,31 @@ Si de tels événements s’avèrent vrais – passés, présents ou futurs – 
 
 Ce que le Livre d'Urantia nous donne, en plus d'une cosmologie physique significative pour comprendre de tels événements, c'est une cosmologie spirituelle qui peut nous assurer que nous faisons toujours partie d'un univers qui est finalement amical et en accord avec les plans du Créateur. pour tous ses enfants. Une telle visite ne serait pas, comme on le prétend souvent, le plus grand événement de l’histoire de l’humanité. Cela pourrait cependant nous aider à comprendre ce qu’est, à savoir l’incarnation d’un Fils Créateur, le Christ Michel, en tant que Jésus de Nazareth.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le paradis existe-t-il ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="pr-2">Les Psaumes aujourd’hui : conseils spirituels</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

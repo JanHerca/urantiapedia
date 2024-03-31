@@ -13,7 +13,7 @@ dateCreated: 2022-09-26T18:03:19.267Z
 
 L’esprit représente tout ce que nous possédons de la réalité universelle qui est soumise à notre volonté – et notre âme reproduit et représente fidèlement la récolte des décisions temporelles prises par le moi mortel. Mais ce n’est pas tant ce que l’esprit comprend que ce que l’esprit désire comprendre qui assure la croissance de l’âme ; ce n'est pas tant à quoi ressemble l'esprit que ce à quoi l'esprit s'efforce d'être qui constitue l'identification spirituelle. Et ce n’est pas tant que nous sommes conscients de Dieu, mais plutôt que nous aspirons à Dieu, ce qui entraîne l’ascension de l’univers. Ce que nous sommes aujourd’hui n’est pas aussi important que ce que nous devenons de jour en jour et dans l’éternité.
 
-> Le mental est l’instrument cosmique sur lequel la volonté humaine peut jouer les dissonances de la destruction ou sur lequel cette même volonté humaine peut faire résonner les délicates mélodies de l’identification avec Dieu et de la survie éternelle qui en résulte. L’Ajusteur donné à l’homme est, en dernière analyse, imperméable au mal et incapable de pécher, ([LU 111:1.6](/fr/The_Urantia_Book/111#p1_6))
+> Le mental est l’instrument cosmique sur lequel la volonté humaine peut jouer les dissonances de la destruction ou sur lequel cette même volonté humaine peut faire résonner les délicates mélodies de l’identification avec Dieu et de la survie éternelle qui en résulte. L’Ajusteur donné à l’homme est, en dernière analyse, imperméable au mal et incapable de pécher, (<a id="a15_366"></a>[LU 111:1.6](/fr/The_Urantia_Book/111#p1_6))
 
 Mais nos esprits mortels peuvent être tordus, déformés et rendus mauvais et laids par les machinations pécheresses d’une volonté humaine perverse et égoïste. À l’inverse, ce même esprit peut être rendu noble, beau, vrai et bon – reflétant ainsi une volonté illuminée par l’esprit, à condition seulement que notre choix soit à la fois de chercher à connaître Dieu et de toujours tenter de faire la volonté de Dieu.
 
@@ -27,7 +27,7 @@ Le potentiel d’une telle évolution de l’âme est inhérent aux deux pulsion
 - l'impulsion de l'esprit fini de la créature à connaître Dieu et à atteindre la divinité du Créateur.
 - l'impulsion de l'esprit infini du Créateur à connaître l'homme et à atteindre l'expérience de la créature.
 
-> Cette opération céleste faisant apparaitre par évolution l’âme immortelle est rendue possible parce que le mental mortel est, en premier lieu, personnel et, en second lieu, en contact avec des réalités superanimales ; ([LU 111:2.9](/fr/The_Urantia_Book/111#p2_9))
+> Cette opération céleste faisant apparaitre par évolution l’âme immortelle est rendue possible parce que le mental mortel est, en premier lieu, personnel et, en second lieu, en contact avec des réalités superanimales ; (<a id="a29_221"></a>[LU 111:2.9](/fr/The_Urantia_Book/111#p2_9))
 
 Il possède donc un ministère divin qui assure l’évolution d’une nature morale capable de prendre des décisions morales. Ainsi, l’esprit mortel peut établir un véritable contact créatif avec les ministères spirituels et avec l’Esprit-Père qui l’habite – et une âme naît.
 
@@ -56,9 +56,9 @@ Il y a une bonne raison pour laquelle nous devrions chercher à connaître la pe
 
 Si nous interprétons la vie et les paroles de Jésus comme la base d’un ensemble de règles à suivre, alors nous savons que nous ne connaissons pas encore la pensée de Jésus – qui, après tout, est une révélation de la pensée de Dieu. Mais ne désespérez pas car l’Esprit de vérité de Jésus, agissant par l’intermédiaire de l’Esprit-Père, est disponible pour nous aider. Il suffit de demander.
 
-> « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a58_499"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
-> Même sur Urantia, ces séraphins enseignent cette vérité éternelle : si votre propre mental ne vous sert pas bien, vous pouvez l’échanger contre le mental de Jésus de Nazareth, lequel vous sert toujours bien. ([LU 48:6.26](/fr/The_Urantia_Book/48#p6_26))
+> Même sur Urantia, ces séraphins enseignent cette vérité éternelle : si votre propre mental ne vous sert pas bien, vous pouvez l’échanger contre le mental de Jésus de Nazareth, lequel vous sert toujours bien. (<a id="a60_211"></a>[LU 48:6.26](/fr/The_Urantia_Book/48#p6_26))
 
 ## Liens externes
 

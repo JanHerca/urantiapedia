@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Larry Mullins<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/An_Old_Fashioned_Conference_of_Urantia_Believers">
+          <span class="pr-2">Une conférence à l'ancienne de croyants d'Urantia à Unity Village</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'un des physiciens quantiques de renommée historique, Richard Feynman, a suggéré un jour que tous les physiciens devraient afficher dans leur bureau une pancarte portant un numéro à trois chiffres particulier qui leur rappellerait à quel point la science ne sait pas. Werner Heisenberg, du célèbre principe d'incertitude, a déclaré que tous les dilemmes de la physique quantique s'atténueraient si ce même nombre à trois chiffres était un jour expliqué ! Dans _The God Particle_ du physicien quantique lauréat du prix Nobel, Leon Lederman, le même nombre déroutant à trois chiffres est mentionné comme apparaissant : « . nu partout. Cela signifie qu'un scientifique sur Mars, ou sur la quatorzième planète de l'étoile Sirius, utilisant les horribles unités dont il dispose pour la charge, la vitesse et sa version de la constante de Plank, obtiendrait [le même nombre à trois chiffres]. C’est un nombre pur. Lederman va encore plus loin : « Les physiciens se sont tourmentés sur [ce nombre à trois chiffres] pendant cinquante ans... Je dis à mes étudiants de premier cycle que s’ils se trouvent un jour dans une grande ville du monde, ils devraient écrire [ce numéro à trois chiffres] sur une pancarte et l’afficher au coin d’une rue très fréquentée. Un physicien finira par constater leur détresse et viendra à leur secours.
@@ -27,3 +51,28 @@ Joan et moi avons visité un groupe d'étude Urantia en Californie il y a un ét
 
 Certains trouveront cet article un peu difficile, mais il en vaut la peine. Il est bien documenté et offre une multitude de pistes possibles qui pourraient être reprises et développées par certains de nos esprits scientifiques plus jeunes et créatifs. Et, en ce qui concerne la science, gardez à l’esprit que Richard Feynman a un jour noté que rien de ce que nous savons sur les particules et les forces élémentaires ne peut nous dire quoi que ce soit sur les reptiles verts qui coassent la nuit, ou sur la musique de Mozart, ou sur les Dix Commandements.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/An_Old_Fashioned_Conference_of_Urantia_Believers">
+          <span class="pr-2">Une conférence à l'ancienne de croyants d'Urantia à Unity Village</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

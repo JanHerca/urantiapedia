@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Larry Austin<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’interconfessionnel pourrait éclairer l’avenir de notre monde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
+          <span class="pr-2">Styles d'écriture des articles dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Presque tous ceux qui découvrent l'étonnante richesse de vérité dans _Le Livre d'Urantia_ sont très motivés à partager le livre avec les autres. Les membres de l'Église montrent fréquemment le livre à leur ministre dans l'espoir qu'il découvrira dans ses pages l'incroyable richesse de la vision spirituelle qui les a inspirés.
@@ -52,3 +76,28 @@ Une fois que nous nous consacrerons de tout cœur à évaluer le livre sur ses m
 >_Le révérend Dr Larry Austin est un pasteur presbytérien de la région de Détroit et fondateur de Day Spring Ministries, qui fournit des services de conseil à l'Église, de pastorale et d'éducation. _
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’interconfessionnel pourrait éclairer l’avenir de notre monde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
+          <span class="pr-2">Styles d'écriture des articles dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voici, je fais une chose nouvelle !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 1. Le Père/Maternité de Dieu et la fraternité de tous les hommes sont le principe directeur de la Communauté. Nous reconnaissons comme âmes sœurs tous les individus et toutes les traditions, passés et présents, qui reconnaissent ce principe. La reconnaissance de la religion de Jésus comme idéal ultime de vie est au cœur de notre enseignement, mais nous cherchons à éviter toute forme de littéralisme et de légalisme coercitif. Les écritures utilisées pour le culte et l'éducation dans la Communauté seront le _Livre d'Urantia_ et la Bible ainsi que des passages d'écritures provenant des diverses religions du monde qui dépeignent la sagesse spirituelle.
@@ -27,3 +48,25 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voici, je fais une chose nouvelle !</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

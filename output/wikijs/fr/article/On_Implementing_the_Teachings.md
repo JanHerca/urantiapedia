@@ -15,11 +15,11 @@ dateCreated: 2022-09-26T18:52:49.984Z
 
 Dans le deuxième des fascicules d’Urantia, « La nature de Dieu », les révélateurs suggèrent :
 
-> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. » (<a id="a17_508"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 L’expression « concepts modernes élargis et parfaitement intégrés de vérité cosmique, de beauté universelle et de bonté divine » est évidemment auto-référentielle car nulle part on ne trouve une déclaration plus exquise de telles vérités que celles présentées dans les Cahiers d’Urantia. L'auteur de cet article poursuit :
 
-> « La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l’expérience d’une personnalité, il en résulte une haute qualité d’amour, conditionnée par la sagesse et qualifiée par la loyauté. Le véritable but de toute éducation dans l’univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. » ([LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
+> « La vérité est cohérente, la beauté est attrayante, la bonté est stabilisante. Et, quand ces trois valeurs de la réalité sont coordonnées dans l’expérience d’une personnalité, il en résulte une haute qualité d’amour, conditionnée par la sagesse et qualifiée par la loyauté. Le véritable but de toute éducation dans l’univers est de mieux coordonner les enfants isolés des mondes avec les plus grandes réalités de leur expérience croissante. » (<a id="a21_447"></a>[LU 2:7.12](/fr/The_Urantia_Book/2#p7_12))
 
 Un autre objectif majeur de cette révélation est sûrement l’éducation – en diffusant son message sous des formes compréhensibles aux personnes de toutes races et religions et à tous les niveaux de capacité spirituelle et intellectuelle.
 
@@ -45,19 +45,19 @@ Si nous extrapolons cette conclusion à la population générale, nous pouvons c
 
 À plusieurs années-lumière, l’enseignement le plus éclairant du christianisme et de la révélation d’Urantia concerne la relation directe de l’individu avec l’Esprit de Dieu qui l’habite. Mais cela doit être soutenu par la connaissance de la vraie nature de Dieu et la démonstration de son efficacité dans la vie des individus. L’échec éventuel devient une certitude à moins que les croyants n’essaient sérieusement de vivre leur vie en accord avec l’enseignement de Jésus : « De Imitatione Christi ».
 
-> « En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. » ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> « En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. » (<a id="a47_298"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
-> « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » ([LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
+> « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » (<a id="a49_366"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
-> « Jésus vivant représente le seul espoir possible d’unifier le christianisme. La véritable Église — la fraternité de Jésus — est invisible, spirituelle ... » ([LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
+> « Jésus vivant représente le seul espoir possible d’unifier le christianisme. La véritable Église — la fraternité de Jésus — est invisible, spirituelle ... » (<a id="a51_161"></a>[LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
 
 Mais pourquoi la tâche des Urantiens devrait-elle être de se soucier des chrétiens et de l’Église chrétienne ? Eh bien, les révélateurs le disent :
 
-> « Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom ... » ([LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
+> « Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom ... » (<a id="a55_233"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
 
 Enfin, nous devons savoir ce que nous essayons de faire :
 
-> « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a59_499"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 ## Une route vers le futur
 

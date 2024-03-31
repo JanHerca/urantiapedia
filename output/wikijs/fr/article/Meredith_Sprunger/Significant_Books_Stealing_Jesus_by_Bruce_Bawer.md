@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : notre refuge et notre espoir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="pr-2">Bulletin Québec Réflectivité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bruce Bawer
@@ -31,3 +55,28 @@ Cet héritage est perpétué par Hal Lindsey dans _The Late Great Planet Earth_,
 
 _Voler Jésus_ s'enlise parfois dans les moindres détails, mais c'est une bonne étude de l'origine et du développement des différences entre les fondamentalistes, les évangéliques et les églises principales. Il pourrait être considéré comme une suite à Sauver la Bible du fondamentalisme de John Shelby Spong.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : notre refuge et notre espoir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="pr-2">Bulletin Québec Réflectivité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

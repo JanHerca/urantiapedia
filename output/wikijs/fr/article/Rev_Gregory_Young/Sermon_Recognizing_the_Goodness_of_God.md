@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Révérend Gregory Young<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Power_Behind_Positive_by_Eric_Fellman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : le pouvoir derrière la pensée positive</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Prayerful_Problem_Solving">
+          <span class="pr-2">Résolution de problèmes par la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -52,3 +76,28 @@ De la même manière, certains d’entre nous se sont habitués à l’étroites
 > _Greg Young est pasteur de l'église unie du Christ St. John à Germantown, Wisconsin ._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Power_Behind_Positive_by_Eric_Fellman">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : le pouvoir derrière la pensée positive</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Prayerful_Problem_Solving">
+          <span class="pr-2">Résolution de problèmes par la prière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

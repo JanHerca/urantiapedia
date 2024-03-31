@@ -9,13 +9,37 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Stan Hartman<br>© 2005 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pionniers du Nouvel Âge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Dan_McCauley/Sermon_Ye_Shall_Know_the_Truth">
+          <span class="pr-2">Vous connaîtrez la vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> « _Et jamais l’âme et le mental ne peuvent s’émanciper ainsi sans le moteur d’un enthousiasme intelligent frisant le zèle religieux._ » ([LU 160:1.8](/fr/The_Urantia_Book/160#p1_8))
 
-_Le Livre d'Urantia_ est notre « talent » et n'appartient à aucun être humain ou groupe d'êtres humains. Il nous a été confié d'enrichir toute notre planète. Tous ceux qui savent que c'est vrai sont ses administrateurs et ont la responsabilité d'en diffuser la nouvelle dans le monde, quels que soient les désaccords sur la manière de le faire. Le mieux que nous puissions raisonnablement demander à nous-mêmes et aux autres est la sincérité et une humilité appropriée, et non un jugement parfait. Lorsque nous nous trouvons en conflit, il est toujours bon de garder à l’esprit que le tact et la tolérance sont les marques d’une grande âme. Il est parfois nécessaire d’affronter les discordes de front, mais il existe une autre option progressiste. Nous pouvons transformer ces conflits en nous consacrant davantage aux valeurs et aux besoins qui sont plus profonds que ces frictions. La malhonnêteté, la manipulation et les tentatives de revendiquer une autorité arbitraire sur autrui doivent être vues et condamnées pour ce qu’elles sont, mais laisser de telles erreurs spirituelles nous détourner de choses plus importantes aggrave inutilement le mal qu’elles causent. La voie de Jésus était de fortifier le bien, et non de perdre du temps à essayer de détruire le mal. Nous avons la responsabilité de garder à l’esprit son avertissement à propos de la poutre et de la paille ([LU 140:3.17](/fr/The_Urantia_Book/140#p3_17)), et l’une des déclarations qui simule la mota : « La défense argumentative de toute proposition est inversement proportionnelle à la vérité contenue » ([UB 48:7.28](/en/The_Urantia_Book/48#p7_28)). La vérité ne réside pas dans nos jugements personnels sur les autres mais dans la qualité de notre fraternité, y compris notre parenté avec ceux qui ne sont pas d’accord avec nous – en particulier ceux que nous aimons le moins. « Dans la mesure où vous l'avez fait à l'un des plus petits de mes frères, c'est à moi que vous l'avez fait » ([LU 155:3.4](/fr/The_Urantia_Book/155#p3_4)).
+> « _Et jamais l’âme et le mental ne peuvent s’émanciper ainsi sans le moteur d’un enthousiasme intelligent frisant le zèle religieux._ » (<a id="a37_139"></a>[LU 160:1.8](/fr/The_Urantia_Book/160#p1_8))
 
-Le déni et l’évitement sont également des dangers, bien sûr, lorsque nous tentons d’adopter cette attitude plus élevée. Il est facile de penser que nous transformons quelque chose alors qu’en réalité nous l’évitons simplement. Un indice dans lequel nous sommes impliqués, dans la transformation ou dans l'évitement, est de savoir si nous sommes libérés ou non de la peur et de la défensive, et si l'énergie qui motive nos actions est ou non un enthousiasme spirituel. _Le Livre d'Urantia_ parle de Jésus « chargé d'enthousiasme divin » ([LU 100:7.4](/fr/The_Urantia_Book/100#p7_4)), qui n'avait tout simplement pas de temps pour les petits conflits dans la vie des mortels parmi lesquels il passait. Que cet enthousiasme puisse perdre son équilibre et se transformer en fanatisme ne doit pas nous laisser croire qu'il est un mal en soi, ni que l'on peut vraiment le suivre sans lui.
+_Le Livre d'Urantia_ est notre « talent » et n'appartient à aucun être humain ou groupe d'êtres humains. Il nous a été confié d'enrichir toute notre planète. Tous ceux qui savent que c'est vrai sont ses administrateurs et ont la responsabilité d'en diffuser la nouvelle dans le monde, quels que soient les désaccords sur la manière de le faire. Le mieux que nous puissions raisonnablement demander à nous-mêmes et aux autres est la sincérité et une humilité appropriée, et non un jugement parfait. Lorsque nous nous trouvons en conflit, il est toujours bon de garder à l’esprit que le tact et la tolérance sont les marques d’une grande âme. Il est parfois nécessaire d’affronter les discordes de front, mais il existe une autre option progressiste. Nous pouvons transformer ces conflits en nous consacrant davantage aux valeurs et aux besoins qui sont plus profonds que ces frictions. La malhonnêteté, la manipulation et les tentatives de revendiquer une autorité arbitraire sur autrui doivent être vues et condamnées pour ce qu’elles sont, mais laisser de telles erreurs spirituelles nous détourner de choses plus importantes aggrave inutilement le mal qu’elles causent. La voie de Jésus était de fortifier le bien, et non de perdre du temps à essayer de détruire le mal. Nous avons la responsabilité de garder à l’esprit son avertissement à propos de la poutre et de la paille (<a id="a39_1380"></a>[LU 140:3.17](/fr/The_Urantia_Book/140#p3_17)), et l’une des déclarations qui simule la mota : « La défense argumentative de toute proposition est inversement proportionnelle à la vérité contenue » ([UB 48:7.28](/en/The_Urantia_Book/48#p7_28)). La vérité ne réside pas dans nos jugements personnels sur les autres mais dans la qualité de notre fraternité, y compris notre parenté avec ceux qui ne sont pas d’accord avec nous – en particulier ceux que nous aimons le moins. « Dans la mesure où vous l'avez fait à l'un des plus petits de mes frères, c'est à moi que vous l'avez fait » (<a id="a39_1964"></a>[LU 155:3.4](/fr/The_Urantia_Book/155#p3_4)).
+
+Le déni et l’évitement sont également des dangers, bien sûr, lorsque nous tentons d’adopter cette attitude plus élevée. Il est facile de penser que nous transformons quelque chose alors qu’en réalité nous l’évitons simplement. Un indice dans lequel nous sommes impliqués, dans la transformation ou dans l'évitement, est de savoir si nous sommes libérés ou non de la peur et de la défensive, et si l'énergie qui motive nos actions est ou non un enthousiasme spirituel. _Le Livre d'Urantia_ parle de Jésus « chargé d'enthousiasme divin » (<a id="a41_537"></a>[LU 100:7.4](/fr/The_Urantia_Book/100#p7_4)), qui n'avait tout simplement pas de temps pour les petits conflits dans la vie des mortels parmi lesquels il passait. Que cet enthousiasme puisse perdre son équilibre et se transformer en fanatisme ne doit pas nous laisser croire qu'il est un mal en soi, ni que l'on peut vraiment le suivre sans lui.
 
 Bien sûr, nous ne sommes pas Jésus et nous devons nous garder de nous leurrer en pensant que nous sommes « au-dessus de tout ». Tous les conflits ne sont pas non plus mineurs. Néanmoins, comparées au potentiel d’une communauté Urantia véritablement dévouée, de telles frictions ont peu de pouvoir pour contrecarrer nos efforts positifs à moins que nous leur accordions une attention excessive. Notre maturité spirituelle est notre plus grande sauvegarde contre les menaces réelles qui pèsent sur notre mission sur terre – en gardant à l’esprit que notre mission est quelque chose que nous devons encore découvrir et définir clairement, et donc laisser définir clairement notre communauté. Des dangers bien plus graves pour « le mouvement Urantia » sont la peur et ses sous-produits, comme la suspicion, le doute, les préjugés, la myopie, l'impatience, l'ignorance du livre lui-même, l'ambition égoïste, la soif de pouvoir, l'esprit d'ennemi, la jalousie, et la soumission à l’autorité humaine arbitraire.
 
@@ -25,9 +49,9 @@ La peur et ses sous-produits auront peu de pouvoir dans une communauté Urantia 
 
 « Ô Urantia ! devrait être notre cri.
 
-Cette passion spirituelle est le prélude à l’extase éternelle de la fusion, et elle requiert notre loyauté et notre attention constantes. Nous devons également garder devant nous une vision de notre fusion _en tant que famille_, de l'unité de notre communauté dans le dessein de Dieu pour nous, et laisser cette vision nous guider vers l'avant. Nous ne pouvons pas faire la volonté de Dieu en reculant vers l’avenir, en gardant notre attention anxieuse sur la manière dont la communauté a pu échouer dans le passé, et nous ne pouvons pas aller de l’avant avec audace comme nous le devons si nous sommes trop concentrés sur la nécessité d’éviter les dangers. Comme le soulignent les auteurs du livre, « seules les attitudes tournées vers l’avenir et progressistes sont personnellement réelles ». ([LU 12:5.9](/fr/The_Urantia_Book/12#p5_9)) La seule menace sérieuse à notre mission sur terre est notre doute personnel et collectif.
+Cette passion spirituelle est le prélude à l’extase éternelle de la fusion, et elle requiert notre loyauté et notre attention constantes. Nous devons également garder devant nous une vision de notre fusion _en tant que famille_, de l'unité de notre communauté dans le dessein de Dieu pour nous, et laisser cette vision nous guider vers l'avant. Nous ne pouvons pas faire la volonté de Dieu en reculant vers l’avenir, en gardant notre attention anxieuse sur la manière dont la communauté a pu échouer dans le passé, et nous ne pouvons pas aller de l’avant avec audace comme nous le devons si nous sommes trop concentrés sur la nécessité d’éviter les dangers. Comme le soulignent les auteurs du livre, « seules les attitudes tournées vers l’avenir et progressistes sont personnellement réelles ». (<a id="a51_796"></a>[LU 12:5.9](/fr/The_Urantia_Book/12#p5_9)) La seule menace sérieuse à notre mission sur terre est notre doute personnel et collectif.
 
-_Passionné, extatique_ — ce sont des mots qui ne sont pas toujours associés à une communauté spirituelle saine. Mais lorsque notre foi est réelle et forte, en tant qu’individus et en tant que famille, de tels adjectifs sont appropriés – surtout si nous en ajoutons un autre – _paisible_. « La véritable extase spirituelle est généralement associée à un grand calme extérieur et à un contrôle émotionnel presque parfait » ([LU 91:7.3](/fr/The_Urantia_Book/91#p7_3)).
+_Passionné, extatique_ — ce sont des mots qui ne sont pas toujours associés à une communauté spirituelle saine. Mais lorsque notre foi est réelle et forte, en tant qu’individus et en tant que famille, de tels adjectifs sont appropriés – surtout si nous en ajoutons un autre – _paisible_. « La véritable extase spirituelle est généralement associée à un grand calme extérieur et à un contrôle émotionnel presque parfait » (<a id="a53_422"></a>[LU 91:7.3](/fr/The_Urantia_Book/91#p7_3)).
 
 Nos problèmes de vie et de relations sont réels, mais si nous acquérons cet enthousiasme calme mais débordant, « prenant le royaume d'assaut », nous verrons beaucoup de nos difficultés se dissoudre sans effort, sans aucun effort anxieux pour les résoudre. Contrairement à l'évitement et au conflit, qui tentent d'exclure des choses de nos vies, cette passion transforme les difficultés en les incluant dans une vision de choses plus grandes. Les crises deviennent des opportunités de croissance et de service.
 
@@ -80,3 +104,28 @@ Cette connaissance est notre pouvoir. Enfin et pour toujours, utilisons-le de la
 > _Stan Hartman est un étudiant du Livre d'Urantia depuis 35 ans. Il vit à Boulder, Colorado, et a déjà enseigné à l'École de Boulder pour les étudiants du Livre d'Urantia._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pionniers du Nouvel Âge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Dan_McCauley/Sermon_Ye_Shall_Know_the_Truth">
+          <span class="pr-2">Vous connaîtrez la vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

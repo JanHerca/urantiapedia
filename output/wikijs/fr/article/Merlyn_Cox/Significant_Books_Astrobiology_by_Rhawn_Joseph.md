@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un examen attentif des clauses de non-responsabilité « non inspirées » du Livre d'Urantia, partie 1</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mel_Quinn/On_the_Supreme_An_Essay">
+          <span class="pr-2">Sur le Suprême : un essai</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Remarque sur le titre [^1]
@@ -59,7 +83,7 @@ Au milieu du flux et de l’incertitude qui caractérisent souvent la science, l
 
 Pour les lecteurs du Livre d'Urantia, il deviendra évident que les conclusions de Joseph sont tout à fait en accord avec la compréhension de l'évolution donnée dans le livre, une compréhension qui jusqu'à présent était clairement en décalage avec la théorie scientifique actuelle. L'évolution, selon le Livre d'Urantia, n'est ni accidentelle ni aléatoire, mais reflète le développement progressif de la vie, selon un plan prédéterminé, et culmine dans une vie intelligente et consciente d'elle-même :
 
-> « _Les processus évolutionnaires prolongés des peuples, des planètes et des univers sont parfaitement contrôlés par les créateurs et administrateurs des univers. Ils se déroulent selon le dessein éternel du Père Universel, suivent leur cours en ordre et en harmonie, et se conforment au plan infiniment sage de Dieu._ » ([LU 3:2.2](/fr/The_Urantia_Book/3#p2_2))
+> « _Les processus évolutionnaires prolongés des peuples, des planètes et des univers sont parfaitement contrôlés par les créateurs et administrateurs des univers. Ils se déroulent selon le dessein éternel du Père Universel, suivent leur cours en ordre et en harmonie, et se conforment au plan infiniment sage de Dieu._ » (<a id="a85_323"></a>[LU 3:2.2](/fr/The_Urantia_Book/3#p2_2))
 
 Joseph l’a exprimé ainsi : « Il n’y a rien de aléatoire dans l’évolution des espèces, et il y a une progression évidente de la cellule unique vers la femme et l’homme. Seuls les nihilistes, ceux qui craignent la « main directrice de Dieu » et ceux qui prétendent que les bactéries et les humains ont une valeur égale, diraient le contraire. (p. 154)
 
@@ -69,10 +93,35 @@ Cependant, cela alimente le débat de longue date qui s’est malheureusement po
 
 Bien que la pensée et les traditions scientifiques changent lentement, les lecteurs du Livre d'Urantia pourraient bien découvrir dans un avenir pas trop lointain que sa science de l'évolution, soi-disant déconnectée de la réalité, devient lentement et sûrement courante.
 
-> Merlyn Cox est un pasteur méthodiste uni à la retraite, membre de la Société Urantia de Fort Wayne et rédacteur actuel du _The Spiritual Fellowship Journal_,
+> Merlyn Cox est un pasteur méthodiste uni à la retraite, membre de la Société Urantia de Fort Wayne et rédacteur actuel du _Journal de la Fraternité Spirituelle_,
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/A_Careful_Examination_of_Not_Inspired_UB_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un examen attentif des clauses de non-responsabilité « non inspirées » du Livre d'Urantia, partie 1</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mel_Quinn/On_the_Supreme_An_Essay">
+          <span class="pr-2">Sur le Suprême : un essai</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

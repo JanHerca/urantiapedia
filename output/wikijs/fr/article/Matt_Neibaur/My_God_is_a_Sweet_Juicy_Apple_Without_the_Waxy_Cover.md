@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Matt Neibaur<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un nouveau départ pour l'unité religieuse mondiale (partie II)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que j'étais en mission en Argentine pour l'Église mormone, j'ai fait un rêve. A cette époque, je travaillais dans un quartier de Buenos Aires appelé Mataderos. C'est le quartier où se trouvent les abattoirs. Les restes d'animaux abandonnés ont été brûlés, laissant une fumée noire sur le quartier. Le système d'égouts était en mauvais état et débordait souvent, laissant les caniveaux des rues pavées se remplir de sang. L'odeur de la mort était partout. J'ai pensé à Auchwitz en évitant les voitures sur mon vélo rouillé.
@@ -25,3 +46,25 @@ Environ douze ans plus tard, j'étais devenu insatisfait de mon église. Cela pa
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un nouveau départ pour l'unité religieuse mondiale (partie II)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

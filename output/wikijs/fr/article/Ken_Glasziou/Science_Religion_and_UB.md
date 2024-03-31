@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Kenneth T. Glasziou<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le clergé évalue le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Duane_L_Faw/UB_as_a_Sermon_Resource">
+          <span class="pr-2">Le Livre d'Urantia comme ressource pour le sermon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le matérialisme et l'athéisme sont des maladies modernes – ou des phénomènes, selon le point de vue – qui trouvent leurs racines chez les empiristes des XVIe, XVIIe et XVIIIe siècles. Les principaux membres de ce groupe étaient Francis Bacon, Thomas Hobbes, John Locke et David Hume. La déclaration la plus connue issue de leurs travaux est peut-être celle de Hume qui, dans son _Enquête sur la compréhension humaine_, a déclaré : « Lorsque nous fouillons dans nos bibliothèques, persuadés de ces principes, quels ravages nous devons faire. Si nous prenons par exemple en main n’importe quel volume de théologie ou de métaphysique scolaire, demandons-nous : contient-il un raisonnement abstrait concernant la quantité et le nombre ? Non. Contient-il un raisonnement expérimental concernant des questions de fait ou d’existence ? Non. Livrez-le donc aux flammes, car il ne peut contenir que sophisme et illusion. Vraisemblablement, l’art, la littérature, la poésie et la musique auraient également contribué au feu de joie de Hume.
@@ -78,5 +102,30 @@ Pour moi, l'acceptation de l'autorité révélatrice du _Livre d'Urantia_ a de n
 > _K. T. Glasziou, M. Sc., Ph. D., est un chercheur scientifique à la retraite qui est actif dans le travail de l'Église en Australie. Il est l'auteur de « Science et religion : le nouvel âge au-delà de l'an 2000 après J.-C. »_
 {.is-info}
 
-> « _L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. L’heure est venue de redécouvrir les vrais fondements originels du christianisme aujourd’hui déformé et plein de compromis — la vie et les enseignements réels de Jésus._ » ([LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
+> « _L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. L’heure est venue de redécouvrir les vrais fondements originels du christianisme aujourd’hui déformé et plein de compromis — la vie et les enseignements réels de Jésus._ » (<a id="a104_360"></a>[LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le clergé évalue le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Duane_L_Faw/UB_as_a_Sermon_Resource">
+          <span class="pr-2">Le Livre d'Urantia comme ressource pour le sermon</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

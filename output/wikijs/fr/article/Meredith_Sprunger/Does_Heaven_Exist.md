@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entre les temps La nécessité de l'intériorité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="pr-2">Interface : et si des extraterrestres avaient atterri ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'article du _Time_ du 24 mars 1997 « Le paradis existe-t-il ? a abordé un sujet sur lequel les ministres et les théologiens ont très peu à dire. David Wells, professeur de théologie au séminaire théologique Grodon-Conwell, observe : « Je ne pense pas que le paradis soit ne serait-ce qu'un simple éclair sur l'écran chrétien, d'un bout à l'autre du spectre confessionnel. La question la plus déroutante est : qu’est-ce qui explique cela ? » (p. 73)
@@ -19,7 +43,32 @@ Comme nous l'avons observé à plusieurs reprises dans ces colonnes, le _Livre d
 
 > La raison, la sagesse et la foi sont les accomplissements humains les plus élevés. La raison fait pénétrer l’homme dans le monde des faits, des choses ; la sagesse le fait pénétrer dans un monde de vérité, de relations ; la foi l’initie à un monde de divinité, d’expérience spirituelle.
 > 
-> La foi emmène bien volontiers la raison aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la sagesse jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la vérité. ([LU 103:9.6-7](/fr/The_Urantia_Book/103#p9_6))
+> La foi emmène bien volontiers la raison aussi loin que la raison peut aller ; la foi continue ensuite son chemin avec la sagesse jusqu’à sa pleine limite philosophique ; après cela, elle ose se lancer dans le voyage sans limites et sans fin de l’univers, en seule compagnie de la vérité. (<a id="a45_291"></a>[LU 103:9.6-7](/fr/The_Urantia_Book/103#p9_6))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Entre les temps La nécessité de l'intériorité spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="pr-2">Interface : et si des extraterrestres avaient atterri ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Gary Dangerfield<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mystères quantiques et fascicules Urantia : Partie II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="pr-2">Paix personnelle et globale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Gary Dangerfield est un lecteur depuis 20 ans à Eureka Springs Arkansas. Pendant de nombreuses années, il fut un ministre chrétien, mais il était hanté par l'idée qu'il devait y avoir quelque chose de plus, quelque chose qu'il n'avait pas encore trouvé. _Le Livre d'Urantia_ a satisfait cette faim chez Gary. Il dit qu'il continue de trouver dans les pages du _Livre d'Urantia_ l'inspiration époustouflante d'un « Dieu plus grand ». Avant même de trouver le livre, Gary avait l’habitude de dire à son public : « Peu importe à quel point vous pouvez concevoir Dieu comme étant grand, il restera toujours plus grand et plus grandiose que ce concept. » Gary est maintenant semi-retraité et possède un atelier de menuiserie saisonnier dans la belle et historique ville de montagne d'Ozark, à Eureka Springs, en Arkansas. Il satisfait son désir de sensibilisation avec un certain nombre de brochures conçues pour donner aux chrétiens traditionnels l'idée d'un « Dieu plus grand » telle que décrite dans les Cahiers d'Urantia. Nous reproduisons ci-dessous deux de ses nombreux titres._
@@ -135,3 +159,28 @@ Ce genre de perspective fera des merveilles pour vous aider à faire face aux ci
 > Eureka Springs, AR 72632
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mystères quantiques et fascicules Urantia : Partie II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="pr-2">Paix personnelle et globale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

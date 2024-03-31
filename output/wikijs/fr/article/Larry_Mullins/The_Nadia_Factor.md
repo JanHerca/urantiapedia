@@ -9,13 +9,37 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Larry Mullins<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume13_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/A_Transition_Period">
+          <span class="pr-2">Une période de transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***«J'ai les larmes aux yeux…»***
 
 _« Surtout, vous m'avez présenté, à moi, à ma famille, à mes cousins et à mes amis, le »Trésor de la vie« , le beau cadeau de la vie qui a changé nos vies et maintenant nous avons un but dans la vie, mais avant nous étions comme des cadavres, nous étions vides de l'intérieur, nous semblions vivants mais n'ayant rien qui attire les autres mais remercions Dieu maintenant, nous avons un but de vie spécial après avoir eu l'LU avec nous.  JJ, quand parfois je t'écris des e-mails ou que je lis l'LU, j'ai les larmes aux yeux à quel point j'ai de la chance d'avoir quelque chose de spécial avec moi et combien je te suis reconnaissant d'avoir partagé avec moi. »_
 
-Dans le dernier numéro de _The Spiritual Fellowship Journal_, nous avons imprimé plusieurs lettres de Nadia du Pakistan à JJ. Nadia avait de nombreux commentaires sur _Le Livre d'Urantia_ et sur ce qu'il signifiait pour elle. Qui ne pourrait pas être ému par des passages comme les deux extraits ci-dessus ?
+Dans le dernier numéro de _Journal de la Fraternité Spirituelle_, nous avons imprimé plusieurs lettres de Nadia du Pakistan à JJ. Nadia avait de nombreux commentaires sur _Le Livre d'Urantia_ et sur ce qu'il signifiait pour elle. Qui ne pourrait pas être ému par des passages comme les deux extraits ci-dessus ?
 
 De nombreux lecteurs ont été émus. Et certains lui ont écrit par l'intermédiaire de JJ. Et certains, comme Ken Raveill et plusieurs Urantiens à Kansas City, ont franchi le deuxième kilomètre. Vous trouverez ci-dessous une lettre de Ken faisant référence au travail de son groupe pour aider les âmes courageuses du Pakistan qui osent lire et défendre la cinquième révélation d'époque.
 
@@ -55,5 +79,30 @@ Ai-je dit _épisode historique ?_ Est-ce que cela pousse l'éloge un peu trop lo
 
 Je crois que non. Ces Urantiens « ordinaires » ont porté l’évangélisation et l’évangélisation urantiennes à un autre niveau. Nous devrions les admirer et les applaudir. Ils illustrent le génie du peuple.
 
-> « De même que le Père m’a envoyé dans ce monde, je vous y envoie aussi maintenant. Vous êtes tous appelés à porter la bonne nouvelle à ceux qui sont plongés dans les ténèbres. Cet évangile du royaume appartient à tous ceux qui y croient ; il ne sera pas remis à la garde des seuls prêtres. Bientôt l’Esprit de Vérité viendra sur vous et vous conduira dans toute la vérité. Donc, allez dans le monde entier prêcher cet évangile, et voyez, je suis avec vous toujours, même jusqu’à la fin des âges. » ([LU 191:6.3](/fr/The_Urantia_Book/191#p6_3))
+> « De même que le Père m’a envoyé dans ce monde, je vous y envoie aussi maintenant. Vous êtes tous appelés à porter la bonne nouvelle à ceux qui sont plongés dans les ténèbres. Cet évangile du royaume appartient à tous ceux qui y croient ; il ne sera pas remis à la garde des seuls prêtres. Bientôt l’Esprit de Vérité viendra sur vous et vous conduira dans toute la vérité. Donc, allez dans le monde entier prêcher cet évangile, et voyez, je suis avec vous toujours, même jusqu’à la fin des âges. » (<a id="a81_501"></a>[LU 191:6.3](/fr/The_Urantia_Book/191#p6_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume13_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/A_Transition_Period">
+          <span class="pr-2">Une période de transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

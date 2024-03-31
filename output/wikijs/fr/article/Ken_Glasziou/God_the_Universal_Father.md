@@ -193,7 +193,7 @@ Dieu, le Père, est le dispensateur et le conservateur de chaque personnalité. 
 
 Dieu est personnellement conscient et en contact personnel avec toutes les personnalités de tous les niveaux d'existence consciente de soi - et cette conscience est indépendante de la mission de l'Esprit-Dieu-intérieur.
 
-> « _Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. L’homme peut aussi mieux comprendre la nature divine s’il se considère comme un enfant de Dieu et s’il vénère le Créateur du Paradis comme un vrai Père spirituel._ » ([LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
+> « _Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. L’homme peut aussi mieux comprendre la nature divine s’il se considère comme un enfant de Dieu et s’il vénère le Créateur du Paradis comme un vrai Père spirituel._ » (<a id="a195_368"></a>[LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
 
 ## Liens externes
 

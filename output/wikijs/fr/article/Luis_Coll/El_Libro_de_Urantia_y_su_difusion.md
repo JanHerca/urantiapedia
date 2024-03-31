@@ -55,7 +55,7 @@ _Le Livre d'Urantia_ n'est pas lié aux modes du Nouvel Âge, au spiritualisme, 
 
 <ins>La mission du _Livre d'Urantia_ est unique et exclusive.</ins>
 
-Il n'est pas non plus lié aux OVNI, bien que _Le Livre d'Urantia_ puisse donner de nombreux indices sur le phénomène des « OVNI » « _transport séraphiques_ » (<a id="a57_159"></a>[LU 75:6.3](/fr/The_Urantia_Book/75#p6_3)) _anges, messagers, traverseurs de l'espace, etc._ ([LU 39:3.8](/fr/The_Urantia_Book/39#p3_8)) Cela appartient à un domaine dans lequel il existe déjà des chercheurs sérieux qui se consacrent à cette question.
+Il n'est pas non plus lié aux OVNI, bien que _Le Livre d'Urantia_ puisse donner de nombreux indices sur le phénomène des « OVNI » « _transport séraphiques_ » (<a id="a57_159"></a>[LU 75:6.3](/fr/The_Urantia_Book/75#p6_3)) _anges, messagers, traverseurs de l'espace, etc._ (<a id="a57_253"></a>[LU 39:3.8](/fr/The_Urantia_Book/39#p3_8)) Cela appartient à un domaine dans lequel il existe déjà des chercheurs sérieux qui se consacrent à cette question.
 
 ## Diffusion et méthodes
 

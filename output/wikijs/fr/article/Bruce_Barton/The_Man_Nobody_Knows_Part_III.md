@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Bruce Barton<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Thomas_Strawser/God_and_Lady">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu et Dame</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Il s'agit du dernier volet de « L'homme que personne ne connaît… une découverte du vrai Jésus », écrit par Bruce Barton, qui (je le découvrirai plusieurs années plus tard) était un célèbre publicitaire. Ce livre a fait une grande impression sur mon jeune esprit. D'une manière ou d'une autre, j'ai conservé ce livre au fil des années. En tant qu'Urantien, plusieurs années plus tard, je suis étonné de voir à quel point Bruce Barton a réussi, en 1924, à décrire ce que je crois être le vrai Jésus. Merci aux nombreux Urantiens qui ont manifesté leur intérêt pour ce travail._
@@ -167,3 +188,25 @@ Lisez cela, oh les hommes, et inclinez la tête. Toi qui t'es laissé imaginer f
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Thomas_Strawser/God_and_Lady">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu et Dame</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

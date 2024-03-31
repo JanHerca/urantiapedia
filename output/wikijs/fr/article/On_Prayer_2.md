@@ -25,9 +25,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 > 
 >  Nulle prière ne peut espérer une réponse à moins d’être née de l’esprit et nourrie par la foi.
 > 
-> N’hésitez pas à formuler les prières exprimant un désir spirituel ardent ; ne doutez pas qu’elles recevront une réponse. Demandez, et vous recevrez. (from <a id="a47_152"></a>[LU 168:4.1-13](/fr/The_Urantia_Book/168#p4_1))
+> N’hésitez pas à formuler les prières exprimant un désir spirituel ardent ; ne doutez pas qu’elles recevront une réponse. Demandez, et vous recevrez. (from <a id="a27_157"></a>[LU 168:4.1-13](/fr/The_Urantia_Book/168#p4_1))
 
-> Au long des siècles ultérieurs, on ne peut dire que les hommes aient été incapables de comprendre Jésus, mais ils en ont eu peur. ([LU 156:2.4](/fr/The_Urantia_Book/156#p2_4))
+> Au long des siècles ultérieurs, on ne peut dire que les hommes aient été incapables de comprendre Jésus, mais ils en ont eu peur. (<a id="a29_133"></a>[LU 156:2.4](/fr/The_Urantia_Book/156#p2_4))
 
 ## Liens externes
 

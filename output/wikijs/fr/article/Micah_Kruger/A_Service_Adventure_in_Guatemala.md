@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Micah Kruger<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mystères quantiques et Cahiers d'Urantia, Partie I de II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Raveill/Lets_Go_Public">
+          <span class="pr-2">Revenons publics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Micah Kruger représente une nouvelle génération audacieuse d'Urantiens qui ont grandi avec les Fascicules d'Urantia. Cette nouvelle génération n'hésite pas à s'identifier comme Urantiens. Ils ne portent pas le fardeau ni la culpabilité du dogme chrétien typique. Ces jeunes Urantiens constituent une ressource riche et inexploitée. Ils ont beaucoup à dire et nous devrions les écouter._
@@ -59,3 +83,28 @@ Cette autocritique me motive dans la lutte vers le commandement de Dieu : « soy
 > _Micah Kruger a 25 ans et vit à Boulder, Colorado. Il fait partie d'une nouvelle génération de lecteurs du Livre d'Urantia qui ont grandi avec le Livre. Micah ne l'a pas révélé dans son article, mais l'un des projets de service dans lequel il est actuellement engagé consiste à former un groupe de jeunes Urantia à Boulder. Micah peut être contacté à krugermquat@hotmail.com_
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mystères quantiques et Cahiers d'Urantia, Partie I de II</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Raveill/Lets_Go_Public">
+          <span class="pr-2">Revenons publics</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

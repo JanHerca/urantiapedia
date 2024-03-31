@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Lee Loots<br>© 2006 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/A_Tale_of_Two_Orvontons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un conte de deux Orvontons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2006-dernier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2006 — Dernier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _La Communauté du Livre d'Urantia exploite une liste de diffusion pour les administrateurs actuels et passés de la Société, ainsi que pour les dirigeants de la Communauté. Récemment, sur cette liste de diffusion, une enquête ouverte a été posée sur ce qu'un enseignant en herbe pourrait vouloir garder à l'esprit. La majorité des commentaires ci-dessous ont été proposés en réponse à cette discussion.._
@@ -87,3 +108,25 @@ Dans sa chronique [_Compare_ du 01/09/'05](/fr/article/Tom_and_Karen_Allen/Compa
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/A_Tale_of_Two_Orvontons">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un conte de deux Orvontons</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2006-dernier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2006 — Dernier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

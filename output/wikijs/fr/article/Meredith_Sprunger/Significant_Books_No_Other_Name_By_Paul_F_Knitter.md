@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Media_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Médias et valeurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="pr-2">Guidage intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Livres Orbis, 1985, 231 pages.
@@ -29,3 +53,28 @@ Paul Knitter soutient que Jésus était profondément théocentrique et cherche 
 
 Il s’agit d’un livre de théologie créative de premier ordre qui mettra le lecteur au défi de repenser les concepts chrétiens fondamentaux. Il devrait être une lecture obligatoire pour quiconque souhaite se tenir au courant de l'évolution croissante de la pensée théologique concernant la doctrine du salut et des attitudes chrétiennes à l'égard des autres religions. Le point de vue de Knitter est en harmonie avec la christologie du _Livre d'Urantia_ qui présente Jésus à la fois comme une personnalité universelle unique et comme un médiateur inclusif pour toutes les personnes qui recherchent Dieu.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Media_and_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Médias et valeurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="pr-2">Guidage intérieur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

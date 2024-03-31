@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Révérend Gregory Young<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Méta-valeurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="pr-2">Faire la volonté du Père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je voudrais poser une question rhétorique : « Pensez-vous que la seule vie qui vaille la peine d’être vécue est celle basée sur la vérité et consacrée à l’amour de Dieu et de l’humanité ? Beaucoup d’entre nous seraient probablement d’accord pour dire qu’il s’agit d’un noble idéal. À la lumière de cet idéal, regardez votre vie et rappelez-vous tout ce à quoi vous vous engagez de tout cœur. Pourquoi êtes-vous vraiment prêt à faire des sacrifices ?
@@ -46,3 +70,28 @@ Avançons donc en tant que pionniers spirituels ; apprendre à se repaître des 
 > _Gregory Young est pasteur de l'église unie du Christ St. John à Germantown, Wisconsin._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Méta-valeurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="pr-2">Faire la volonté du Père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

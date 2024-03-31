@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jack_Rogers/A_Mainline_Reaction_to_Apocalypticism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une réaction principale à l'apocalyptisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="pr-2">Le CyberChrist émergent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 \* _Un Psaume contemporain basé sur le Psaume 98. Voir aussi Psaumes aujourd'hui, p. 23._
@@ -43,3 +67,28 @@ Une renaissance de la beauté spirituelle et de l’harmonie divine inspire nos 
 
 De plus grandes aspirations à la droiture et à la justice éveillent nos esprits et nos cœurs.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jack_Rogers/A_Mainline_Reaction_to_Apocalypticism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une réaction principale à l'apocalyptisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="pr-2">Le CyberChrist émergent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

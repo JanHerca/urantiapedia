@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Ken Glasziou<br>© 1999 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> _C’est au cours du souper que Jésus eut avec Matthieu l’entretien où il lui expliqua que ***la moralité d’un acte quelconque est déterminée par le mobile de son auteur***. La moralité de Jésus était toujours positive. La règle d’or reformulée par Jésus exige des contacts sociaux actifs ; l’ancienne règle négative pouvait être suivie dans l’isolement. Jésus dépouilla la moralité de toutes les règles et cérémonies, et l’éleva aux hauteurs majestueuses de la pensée spirituelle et de la vie véritablement droite._ ([LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
+> _C’est au cours du souper que Jésus eut avec Matthieu l’entretien où il lui expliqua que ***la moralité d’un acte quelconque est déterminée par le mobile de son auteur***. La moralité de Jésus était toujours positive. La règle d’or reformulée par Jésus exige des contacts sociaux actifs ; l’ancienne règle négative pouvait être suivie dans l’isolement. Jésus dépouilla la moralité de toutes les règles et cérémonies, et l’éleva aux hauteurs majestueuses de la pensée spirituelle et de la vie véritablement droite._ (<a id="a13_518"></a>[LU 140:10.5](/fr/The_Urantia_Book/140#p10_5))
 
 En empruntant la voie pragmatique, certains Urantiens semblent avoir réduit cette déclaration de Jésus au niveau minimal de « _La moralité de tout acte est déterminée par le motif._ » Cette résultante est alors prise comme autorité divine pour une « **fin justifie les moyens** » qui sanctionne l’utilisation de moyens immoraux ou illégaux pour atteindre ce que l’on prétend être des fins morales.
 
@@ -29,11 +29,11 @@ Les citations qui me viennent à l’esprit sont : « Notre relation avec Jésus
 
 Si notre relation avec Jésus doit primer sur tout le reste, et si « ne pas demeurer » signifie « pas de fruits » et « pas de fruits » signifie « pas de croissance de l’âme », alors ne courons-nous pas le risque, peut-être avec certitude, de mort de l’âme ?
 
-Ou y a-t-il une « sortie » dans la déclaration selon laquelle le moindre éclair de foi nous donne toujours une autre chance ? Probablement pas, car si nous continuons à lire, nous arrivons à : « _Mais pour vous, qui avez été tirés des ténèbres et appelés dans la lumière, on s’attend que vous croyiez de tout cœur ; votre foi dominera les attitudes conjuguées du corps, du mental et de l’esprit._” ([LU 155:6.17](/fr/The_Urantia_Book/155#p6_17))
+Ou y a-t-il une « sortie » dans la déclaration selon laquelle le moindre éclair de foi nous donne toujours une autre chance ? Probablement pas, car si nous continuons à lire, nous arrivons à : « _Mais pour vous, qui avez été tirés des ténèbres et appelés dans la lumière, on s’attend que vous croyiez de tout cœur ; votre foi dominera les attitudes conjuguées du corps, du mental et de l’esprit._” (<a id="a31_399"></a>[LU 155:6.17](/fr/The_Urantia_Book/155#p6_17))
 
 Évidemment, Jésus n’a pas vécu dans un monde « réel » dans lequel, pour lui, la fin justifierait le recours à des moyens immoraux. C'est toujours la volonté du Père qui a eu la première priorité, avec pour résultat que Jésus semble toujours avoir été contraint de prendre le chemin difficile. Pas de miracles, pas de marche sur l'eau, pas de répit de la croix.
 
-Le chemin de Jésus était le chemin de la croix. Étonnamment, il est allé vers la mort avec une joie suprême dans son cœur, même s’il éprouvait une tristesse extérieure. ([LU 180:1.2](/fr/The_Urantia_Book/180#p1_2))
+Le chemin de Jésus était le chemin de la croix. Étonnamment, il est allé vers la mort avec une joie suprême dans son cœur, même s’il éprouvait une tristesse extérieure. (<a id="a35_170"></a>[LU 180:1.2](/fr/The_Urantia_Book/180#p1_2))
 
 Le cœur humain de Jésus avait aspiré à trouver une voie légitime pour échapper au terrible sort de souffrance et de chagrin auquel il était confronté. Il y avait mille et une façons par lesquelles Jésus aurait pu échapper à la croix, mais aucune ne répondait à l’exigence du Père selon laquelle la fin de son effusion sur cette planète devait se faire « dans le cours naturel des événements ».
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Richard Bain<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia : Vers un contexte pour l'évaluation théologique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Days_and_Dates_in_the_Urantia_Book">
+          <span class="pr-2">Jours et dates dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (_Note d'Urantiapedia : Cet article, avec des modifications mineures, a également été publié dans_ [Innerface International, Volume 1 No. 4](/fr/article/Dick_Bain/Jesus_Man_and_Myth))
@@ -55,7 +79,7 @@ Nous savons que les femmes ont joué un rôle important dans l’Église primiti
 
 ## Jésus comme héros
 
-Il existe un autre groupe qui pourrait profiter si notre culture avait une image moins déformée de l’humain Jésus. Il est triste que les héros de nombreux jeunes soient des rock stars et des personnages de télévision. Il est regrettable que la majesté du Christ glorifié et ressuscité ait obscurci l’héroïsme de l’humain Jésus dans l’enseignement chrétien, et qu’une si grande partie de sa vie sur Terre nous soit restée inconnue. Si les jeunes pouvaient seulement entendre l’histoire du jeune Jésus, soutenant courageusement sa famille après la mort prématurée de son père, n’admireraient-ils pas un tel courage et ne seraient-ils pas prêts à suivre un leader aussi admirable ? Les auteurs des articles sur Jésus du _Livre d'Urantia_ nous disent : « Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle... » ([LU 195:10.10](/fr/The_Urantia_Book/195#p10_10)) Comme ce serait excellent quand les enseignants religieux utiliseraient un jour les histoires du _Livre d'Urantia_ pour inspirer les jeunes à vivre leur vie dans l'esprit que Jésus a incarné dans sa vie.
+Il existe un autre groupe qui pourrait profiter si notre culture avait une image moins déformée de l’humain Jésus. Il est triste que les héros de nombreux jeunes soient des rock stars et des personnages de télévision. Il est regrettable que la majesté du Christ glorifié et ressuscité ait obscurci l’héroïsme de l’humain Jésus dans l’enseignement chrétien, et qu’une si grande partie de sa vie sur Terre nous soit restée inconnue. Si les jeunes pouvaient seulement entendre l’histoire du jeune Jésus, soutenant courageusement sa famille après la mort prématurée de son père, n’admireraient-ils pas un tel courage et ne seraient-ils pas prêts à suivre un leader aussi admirable ? Les auteurs des articles sur Jésus du _Livre d'Urantia_ nous disent : « Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle... » (<a id="a81_950"></a>[LU 195:10.10](/fr/The_Urantia_Book/195#p10_10)) Comme ce serait excellent quand les enseignants religieux utiliseraient un jour les histoires du _Livre d'Urantia_ pour inspirer les jeunes à vivre leur vie dans l'esprit que Jésus a incarné dans sa vie.
 
 > _Les auteurs des papiers de Jésus du_ Livre d'Urantia _nous disent : « Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle... » (LU 195:10.10)_
 
@@ -64,3 +88,28 @@ Quoi que nous pensions de Jésus, la plupart d’entre nous conviendraient qu’
 > _Dick Bain est ingénieur électricien et éditeur de Cosmic Reflections. Il étudie depuis longtemps le Livre d'Urantia.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia : Vers un contexte pour l'évaluation théologique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Days_and_Dates_in_the_Urantia_Book">
+          <span class="pr-2">Jours et dates dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

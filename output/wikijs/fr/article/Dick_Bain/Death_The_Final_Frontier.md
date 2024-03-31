@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Richard I. Bain<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paradis : le recentrage de la théologie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="pr-2">Mon odyssée des expériences de pointe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans la série originale Star Trek, le capitaine Kirk nous informait au début de chaque émission que l'espace était la dernière frontière. Cela est peut-être vrai pour notre civilisation, mais la mort n'est-elle pas la dernière frontière pour nous en tant qu'individus ? Même si nous avons une certaine idée de ce qu'est la mort et de ce qu'elle est au-delà, elle n'en demeure pas moins une barrière impénétrable et absolue pour les vivants. La mort est un saut dans une existence totalement inconnue, hors de ce monde familier de choses et de personnes. Mais est-ce le saut que l’on redoute tant ? Je pensais que la mort était fortement surestimée en tant qu'objet de peur, jusqu'à ce que je réalise que la mort est à la fois une destination et un processus. La destination peut susciter une certaine anxiété en raison des incertitudes qu'elle recèle, mais c'est l'anticipation de notre voyage vers cette destination qui suscite souvent le plus de peur.
@@ -51,7 +75,7 @@ L’attitude du Dr Leslie D. Weatherhead, un pasteur britannique à la retraite,
 
 ## Votre cahier de réponses ?
 
-J'avais un collègue qui se moquait de mon étude du _Livre d'Urantia_. Lorsqu’une question morale ou éthique difficile surgissait au cours d’une conversation, il demandait : « Que dit votre livre de réponses à ce sujet ? » Ne serait-il pas pratique pour les étudiants du _Livre d'Urantia_ de pouvoir ouvrir le livre et trouver des réponses à des questions telles que la moralité de l'euthanasie, énoncées en détail ? Mais, comme Jésus, les auteurs du livre s’abstiennent d’aborder de telles questions sociales. Le suicide est évoqué à quelques reprises, mais généralement uniquement comme un fait anthropologique concernant les cultures passées. Dans le cas du suicide de Judas, les auteurs disent : « ... ce mortel renégat... a commis l'acte final du drame consistant à fuir les réalités de l'existence mortelle : le suicide. » ([LU 139:12.13](/fr/The_Urantia_Book/139#p12_13)) Notez cependant , que Judas n'était pas un patient en phase terminale d'un cancer ou du SIDA essayant d'éviter une mort lente et douloureuse. Ils n’abordent pas vraiment le sujet du suicide dans ces circonstances, et leur retenue est compréhensible. Tout jugement de valeur émis peut être en harmonie avec les mœurs d’une époque ou d’une culture, mais pas avec les mœurs d’une autre.
+J'avais un collègue qui se moquait de mon étude du _Livre d'Urantia_. Lorsqu’une question morale ou éthique difficile surgissait au cours d’une conversation, il demandait : « Que dit votre livre de réponses à ce sujet ? » Ne serait-il pas pratique pour les étudiants du _Livre d'Urantia_ de pouvoir ouvrir le livre et trouver des réponses à des questions telles que la moralité de l'euthanasie, énoncées en détail ? Mais, comme Jésus, les auteurs du livre s’abstiennent d’aborder de telles questions sociales. Le suicide est évoqué à quelques reprises, mais généralement uniquement comme un fait anthropologique concernant les cultures passées. Dans le cas du suicide de Judas, les auteurs disent : « ... ce mortel renégat... a commis l'acte final du drame consistant à fuir les réalités de l'existence mortelle : le suicide. » (<a id="a77_829"></a>[LU 139:12.13](/fr/The_Urantia_Book/139#p12_13)) Notez cependant , que Judas n'était pas un patient en phase terminale d'un cancer ou du SIDA essayant d'éviter une mort lente et douloureuse. Ils n’abordent pas vraiment le sujet du suicide dans ces circonstances, et leur retenue est compréhensible. Tout jugement de valeur émis peut être en harmonie avec les mœurs d’une époque ou d’une culture, mais pas avec les mœurs d’une autre.
 
 > _Même si les auteurs du livre toléraient l'euthanasie comme un moyen miséricordieux de soulager la souffrance, cela ne nous aiderait peut-être pas à trancher les questions. C'est notre monde, et en fin de compte, notre décision personnelle quant à ce qui sera acceptable en portant ces jugements._
 
@@ -84,6 +108,31 @@ Lorsque je faisais partie d'un programme de visites d'églises, l'une des person
 > _Dick Bain est ingénieur électricien et rédacteur en chef de_ Interface International. _Il étudie depuis longtemps_ le Livre d'Urantia.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paradis : le recentrage de la théologie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="pr-2">Mon odyssée des expériences de pointe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

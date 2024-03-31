@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Are_You_an_Unused_Urantia_Resource">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Êtes-vous une ressource Urantia inutilisée ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/If_We_Build_It_Will_They_Come">
+          <span class="pr-2">Interface : si nous la construisons, viendront-ils ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > **(Interview originale par John Love)**
@@ -45,5 +69,30 @@ Je suis absolument convaincu que tout ce qui m'est arrivé depuis lors est dû �
 
 Plusieurs fois, je me suis dégonflé et, inévitablement, tout va mal. Mais ensuite, lorsque je reviens à mon engagement, ma vie fonctionne à nouveau. Il y a quelque chose de miraculeux là-dedans.
 
-> _La plupart des phénomènes spectaculaires associés aux conversions dites religieuses sont entièrement de nature psychologique, mais, de temps à autre, surviennent des expériences qui ont aussi une origine spirituelle. Quand la mobilisation mentale est absolument totale sur un niveau psychique quelconque de l’expansion vers l’aboutissement spirituel, quand les mobiles humains de loyauté à l’idée divine sont parfaits, il arrive très souvent que l’esprit intérieur s’abaisse pour saisir le dessein concentré et consacré du mental superconscient du mortel croyant pour se synchroniser avec lui. Ce sont ces expériences d’unification de phénomènes intellectuels et spirituels qui constituent la conversion, laquelle consiste en facteurs qui dépassent les implications purement psychologiques._ ([LU 100:5.4](/fr/The_Urantia_Book/100#p5_4))
+> _La plupart des phénomènes spectaculaires associés aux conversions dites religieuses sont entièrement de nature psychologique, mais, de temps à autre, surviennent des expériences qui ont aussi une origine spirituelle. Quand la mobilisation mentale est absolument totale sur un niveau psychique quelconque de l’expansion vers l’aboutissement spirituel, quand les mobiles humains de loyauté à l’idée divine sont parfaits, il arrive très souvent que l’esprit intérieur s’abaisse pour saisir le dessein concentré et consacré du mental superconscient du mortel croyant pour se synchroniser avec lui. Ce sont ces expériences d’unification de phénomènes intellectuels et spirituels qui constituent la conversion, laquelle consiste en facteurs qui dépassent les implications purement psychologiques._ (<a id="a71_796"></a>[LU 100:5.4](/fr/The_Urantia_Book/100#p5_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Are_You_an_Unused_Urantia_Resource">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Êtes-vous une ressource Urantia inutilisée ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/If_We_Build_It_Will_They_Come">
+          <span class="pr-2">Interface : si nous la construisons, viendront-ils ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

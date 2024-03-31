@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 William M. Kelly<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/When_Time_is_Not_of_Essence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Quand le temps ne compte pas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Barr/My_Spiritual_Pilgrimage">
+          <span class="pr-2">Mon pèlerinage spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans un monde dont le fait le plus immuable est peut-être celui du changement, nous sommes confrontés à la tâche de réévaluer la pertinence des vérités adoptées par les générations précédentes. Cela est nécessaire car chaque génération est confrontée à de nouvelles découvertes et à de nouvelles expériences personnelles et sociales. Les valeurs spirituelles historiques subissent de nouvelles interprétations et applications au fil du temps. L’une de ces valeurs traditionnelles aujourd’hui remise en question est le concept de « Fraternité des hommes ».
@@ -47,7 +71,7 @@ Les sceptiques laïcs parmi nous disent : « Eh bien, tous ces discours sur une 
 
 Regardez autour de vous ce qui se passe dans le monde – pas seulement l’attention des médias, qui est généralement négative, mais la situation globale. Rarement dans l’histoire nous avons connu une époque où la faim spirituelle était plus grande que celle de notre génération. Jetez un œil à la perspective historique présentée par les auteurs du _Le Livre d'Urantia_. Cette merveilleuse vision de la réalité spirituelle est découverte par des dizaines de milliers de personnes en quête de notre monde.
 
-> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. (<a id="a73_555"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
 Mais surtout, regardez à l’intérieur. Écoutez votre cœur, les intuitions de votre âme. Prenez le temps de méditer et d’écouter l’Esprit de Dieu qui vous habite. Rappelez-vous qu'Elie n'a pas entendu la voix de Dieu dans le tonnerre ou le feu, dans les bruits impressionnants de l'arène extérieure. Il entendit la « petite voix douce » qui le guidait. Ainsi pouvons-nous trouver cette direction de l’Esprit de Dieu qui demeure en nous.
 
@@ -78,3 +102,28 @@ Je crois que la _Famille de Dieu_ est un fait, pas seulement un idéal. J’ai �
 > _William M. Kelly est un psychologue scolaire et ancien pasteur presbytérien qui réside à Pocatello, Idaho._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/When_Time_is_Not_of_Essence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Quand le temps ne compte pas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Barr/My_Spiritual_Pilgrimage">
+          <span class="pr-2">Mon pèlerinage spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -19,9 +19,9 @@ Ce qui indique que même la génération spontanée de la forme de vie la plus p
 
 ## Contenu
 
-> « Le fait que nous soyons appelés Porteurs de Vie ne doit pas vous déconcerter. Nous pouvons apporter la vie aux planètes et nous le faisons, mais nous n’avons pas apporté la vie sur Urantia. La vie sur Urantia est unique et a son origine sur cette planète. Cette sphère est un monde modificateur de vie ; toute la vie qui y apparait a été élaborée par nous ici même sur cette planète ; il n’y a pas d’autre monde dans tout Satania, ni même dans tout Nébadon, où la vie existe de manière exactement semblable à celle d’Urantia. » ([LU 58:4.1](/fr/The_Urantia_Book/58#p4_1))
+> « Le fait que nous soyons appelés Porteurs de Vie ne doit pas vous déconcerter. Nous pouvons apporter la vie aux planètes et nous le faisons, mais nous n’avons pas apporté la vie sur Urantia. La vie sur Urantia est unique et a son origine sur cette planète. Cette sphère est un monde modificateur de vie ; toute la vie qui y apparait a été élaborée par nous ici même sur cette planète ; il n’y a pas d’autre monde dans tout Satania, ni même dans tout Nébadon, où la vie existe de manière exactement semblable à celle d’Urantia. » (<a id="a21_533"></a>[LU 58:4.1](/fr/The_Urantia_Book/58#p4_1))
 
-> « *Il y a 550 millions d’années,* le corps des Porteurs de Vie revint sur Urantia. En coopération avec des puissances spirituelles et avec des forces supraphysiques, nous organisâmes et inaugurâmes les modèles originels de vie de ce monde, et nous les implantâmes dans les eaux hospitalières du royaume. » ([LU 58:4.2](/fr/The_Urantia_Book/58#p4_2))
+> « *Il y a 550 millions d’années,* le corps des Porteurs de Vie revint sur Urantia. En coopération avec des puissances spirituelles et avec des forces supraphysiques, nous organisâmes et inaugurâmes les modèles originels de vie de ce monde, et nous les implantâmes dans les eaux hospitalières du royaume. » (<a id="a23_309"></a>[LU 58:4.2](/fr/The_Urantia_Book/58#p4_2))
 
 Le fait que ce que nous appelons la vie existe sur cette planète depuis des milliards d’années est largement connu. La déclaration ci-dessus doit donc paraître comme une énigme.
 
@@ -31,7 +31,7 @@ Au cours des années suivantes, le dépôt de roches sédimentaires rouges dont 
 
 Le seul processus connu permettant d’obtenir des niveaux aussi élevés d’oxygène atmosphérique est la photosynthèse réalisée par les organismes vivants. La plupart, voire la totalité, de ces dépôts datent d'il y a 550 millions d'années et présentent des preuves de l'apparition de formes de vie antérieures à l'introduction du plasma vital par les Porteurs de Vie. D'autres preuves proviennent de la présence de plusieurs types de microfossiles censés être la preuve de cellules bactériennes ou d'algues.
 
-Les Cahiers d'Urantia déclarent : « La vie ne naît pas spontanément mais est construite... il apparait sur les planètes habitées soit par importation directe, soit comme résultat des opérations des Porteurs de Vie._” ([LU 36:0.1](/fr/The_Urantia_Book/36#p0_1))
+Les Cahiers d'Urantia déclarent : « La vie ne naît pas spontanément mais est construite... il apparait sur les planètes habitées soit par importation directe, soit comme résultat des opérations des Porteurs de Vie._” (<a id="a33_218"></a>[LU 36:0.1](/fr/The_Urantia_Book/36#p0_1))
 
 Cette affirmation exclut la possibilité que certaines formes de vie primitives, originaires d’autres planètes habitées, soient capables de survivre dans l’espace et, après avoir flotté parmi les galaxies, elles ensemencent de nouvelles planètes lorsque les conditions deviennent favorables.
 
@@ -76,11 +76,11 @@ Initialement, ces Édiacariens étaient considérés comme un groupe d'organisme
 
 Comment alors expliquer l’affirmation du Livre d’Urantia selon laquelle les Porteurs de Vie ont apporté la vie sur cette planète il y a seulement 550 millions d’années ?
 
-Une possibilité est que cela faisait partie de la cosmologie des révélateurs déclarée « non inspirée » et qui pourrait consister en un « _cadre universel_ » par lequel nous aiderions à comprendre notre place dans l’ordre des choses de l’univers. ([LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+Une possibilité est que cela faisait partie de la cosmologie des révélateurs déclarée « non inspirée » et qui pourrait consister en un « _cadre universel_ » par lequel nous aiderions à comprendre notre place dans l’ordre des choses de l’univers. (<a id="a78_247"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
-Alternativement, cela peut être couvert par les déclarations suivantes : « _Le plasma vital originel d’un monde évolutionnaire contienne dans sa plénitude le potentiel nécessaire à toutes les variations de développement futures et à tous les changements et modifications évolutionnaires ultérieurs._ » ([LU 36:2.17](/fr/The_Urantia_Book/36#p2_17))
+Alternativement, cela peut être couvert par les déclarations suivantes : « _Le plasma vital originel d’un monde évolutionnaire contienne dans sa plénitude le potentiel nécessaire à toutes les variations de développement futures et à tous les changements et modifications évolutionnaires ultérieurs._ » (<a id="a80_303"></a>[LU 36:2.17](/fr/The_Urantia_Book/36#p2_17))
 
-> « Durant la vie physique, le moi matériel, l’égo-entité de l’identité humaine, dépend du fonctionnement continu du véhicule vital matériel, du maintien continu de l’équilibre instable des énergies et de l’intellect, auquel on a donné le nom de *vie* sur Urantia. » ([LU 112:2.20](/fr/The_Urantia_Book/112#p2_20))
+> « Durant la vie physique, le moi matériel, l’égo-entité de l’identité humaine, dépend du fonctionnement continu du véhicule vital matériel, du maintien continu de l’équilibre instable des énergies et de l’intellect, auquel on a donné le nom de *vie* sur Urantia. » (<a id="a82_268"></a>[LU 112:2.20](/fr/The_Urantia_Book/112#p2_20))
 
 Il est fort possible que le potentiel génétique des formes cellulaires antérieures au début de la période cambrienne était tout à fait incapable de générer à terme des organismes vivants « intelligents ». Et que seul un organisme possédant un génome ayant le potentiel d’évoluer pour finalement avoir un « intellect » entre dans la définition de ce que les Porteurs de Vie entendent par « vie ».
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="pr-2">En savoir plus sur Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'année dernière, Henry Grunwald, ancien ambassadeur des États-Unis en Autriche et ancien rédacteur en chef de _Time_, a écrit un article pour _Time_ intitulé « L'année 2000 : est-ce la fin ou juste le début ? Après la chute du communisme et les nouveaux arrangements internationaux, Grunwald déclare : « Nous assistons à la fin, ou du moins au déclin, d’une époque d’incrédulité et au début de ce qui pourrait être une nouvelle ère de foi. » Le gourou du management, Peter Drucker, affirme que le 21e siècle est déjà arrivé. C’est « totalement nouveau et dynamique – et nous n’y sommes absolument pas préparés ».
@@ -25,3 +49,28 @@ Qu’est-ce que cela signifie pour l’avenir de l’Église chrétienne ? Le ch
 
 L’évolution progressive de la religion sera-t-elle poursuivie par de nouvelles institutions religieuses encore à naître ? Un nombre croissant de personnes recherchent une identité et une communion fraternelle dans une Église ouverte où les nouvelles idées sont les bienvenues. Plus de 200 000 Livres d’Urantia circulent dans notre culture, et j’entends à plusieurs reprises ces lecteurs du livre dire qu’ils recherchent une église où ils se sentent à l’aise. La relative indifférence de la structure du pouvoir de l’Église chrétienne à l’égard de la vision spirituelle élargie de ce livre fondateur pourrait créer un vide spirituel qui entraînerait l’avènement de nouvelles institutions religieuses.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="pr-2">En savoir plus sur Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Ken Raveill<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une aventure de service au Guatemala par Micah Kruger</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="pr-2">Comparez : les concepts humains parallèles aux Fascicules d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ma femme et moi avons découvert _Le Livre d'Urantia_ en 1979 lors d'une visite chez des amis. Il était bien en vue sur la table basse du salon. Ma femme a commencé à lire le livre avec désinvolture et l'a ensuite attiré à mon attention. Nous avons été suffisamment intéressés pour noter le nom de l'éditeur et l'avons envoyé à Chicago pour en obtenir un exemplaire. Quelques jours plus tard, le Grand Livre Bleu est arrivé et presque immédiatement nous avons reçu un appel téléphonique amical d'Ila Hall, une parfaite inconnue, nous invitant à un groupe d'étude du Livre d'Urantia qui se réunissait chez elle le dimanche après-midi. Ila et Loren Hall vivaient dans le sud-ouest de Kansas City, dans le Missouri, à environ 35 miles de chez nous à Independence, mais nous avons décidé d'accepter l'invitation, au moins pour une fois. Nous avons participé au groupe d'étude d'Ila Hall pendant plus de 10 ans et avons appris à aimer Ila et Loren et à partager leur amour pour _Le Livre d'Urantia_.
@@ -41,3 +65,28 @@ Vous n'avez peut-être pas de librairie Barnes & Noble à proximité, mais il ex
 > « Toutes les grandes religions revendiquent la vérité dans leurs croyances, qu'elles nient l'existence de la vérité dans les autres religions ou qu'elles reconnaissent qu'il existe une certaine part de vérité dans certaines ou toutes les autres. Mais, tout en revendiquant... la vérité de leurs croyances, tous n'assument ni ne reconnaissent l'obligation de faire du prosélytisme, c'est-à-dire d'entreprendre des activités missionnaires à travers le monde visant à convertir autant d'individus que possible... Quelle est la signification du fait que, alors que chacune des grandes religions revendique la vérité pour ses croyances factuelles ou morales... seules certaines religions entreprennent des activités missionnaires et tentent de faire des convertis, tandis que d'autres ne font rien de tel, et certaines fonctionnent même sous l'obligation de ne pas faire de prosélytisme ou de conversion ? Si une religion revendique la vérité pour ses croyances, pourquoi ne cherche-t-elle pas à s’universaliser ? La vérité défendue par ceux qui la communiquent ne devrait-elle pas être partagée aussi largement que possible ? Mortimer Adler
 > _La vérité dans la religion... la pluralité des religions et l'unité de la vérité_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Micah_Kruger/A_Service_Adventure_in_Guatemala">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une aventure de service au Guatemala par Micah Kruger</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="pr-2">Comparez : les concepts humains parallèles aux Fascicules d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

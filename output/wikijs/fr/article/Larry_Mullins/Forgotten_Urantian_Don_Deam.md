@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Larry Mullins<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/A_New_Urgency">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : une nouvelle urgence ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="pr-2">Sensibilisation à la vraie vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours des années 1970 et 1980, Don Deam était souvent vu aux Conférences Urantia fumant tranquillement la pipe et observant ce qui se passait. Il a toujours été un urantien actif et a accueilli un groupe d'étude et sa propre conférence régionale à Topeka, Kansas avant de se retirer de sa pratique du droit et de déménager en Arkansas. Don m'a été particulièrement favorable et utile dans divers projets Urantia au fil des années. Mais je ne connaissais vraiment pas le parcours remarquable de Don et son service à son pays jusqu'à un après-midi tranquille dans son bureau. Là, à contrecœur – à ma demande – il a dévoilé les événements et raconté des histoires, et m'a montré des artefacts uniques et des coupures de ses aventures.
@@ -23,3 +47,28 @@ Au cours de cet après-midi doré, Donald Deam m'a raconté d'autres histoires, 
 
 Don vit désormais seul dans une maison de retraite à Topeka. Sa vue est défaillante, mais il parvient à lire grâce à la technologie moderne. Il aime entendre les Urantiens, jeunes et vieux. Envoyez-lui quelques mots d'encouragement à : _Donald L. Deam, 3515 SW 6th, Apt. 228, Topeka, Kansas. 66606. Ou décrochez le téléphone et appelez-le : (785) 235-5909. Don aime avoir des nouvelles des Urantiens._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/A_New_Urgency">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : une nouvelle urgence ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="pr-2">Sensibilisation à la vraie vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

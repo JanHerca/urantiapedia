@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Paul Herrick<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Just_Another_Source">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Juste une autre source ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Eastern_Orthodoxy_and_UB">
+          <span class="pr-2">L'Orthodoxie orientale et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quand j'ai considéré pour la première fois le titre de la colonne « _Le Livre d'Urantia_ et le renouveau spirituel », j'ai senti que je ne pouvais pas répondre directement à cela parce qu'il devait y avoir un « nouveau » avant qu'il puisse y avoir un « renouvellement ». Mais au fur et à mesure que j'y pensais davantage. J’ai réalisé qu’il y avait effectivement une « nouvelle ». Quand j’étais très jeune, j’avais en fait des tendances spirituelles. Le problème était que mon développement intellectuel les dépassait très rapidement. Ma fascination pour la science et l’aventure, combinée à une prise de conscience rapide des erreurs du « christianisme », avait tendance à saper ces tendances et à les reléguer au bas de ma liste de priorités. Quand je suis retourné à l'université en 1960, après trois ans dans l'armée, j'étais en bonne voie de transition de « croyant »... à agnostique... puis à athée.
@@ -31,5 +55,30 @@ Ma vie d'aventure a continué (je ne peux pas m'arrêter) et j'ai eu bien d'autr
 > _Paul Herrick est un ingénieur aéronautique et un étudiant de longue date du Livre d'Urantia._
 {.is-info}
 
-> N’essayez ni de satisfaire la curiosité ni de contenter tous les désirs latents d’aventure qui surgissent dans l’âme pendant la courte durée d’une vie dans la chair. Soyez patients ! Ne cédez pas à la tentation de vous plonger dans le dérèglement des aventures vulgaires et sordides. Domptez vos énergies et réfrénez vos passions. Soyez calmes en attendant le déroulement majestueux d’une carrière sans fin d’aventures progressives et de découvertes passionnantes. ([LU 195:5.10](/fr/The_Urantia_Book/195#p5_10))
+> N’essayez ni de satisfaire la curiosité ni de contenter tous les désirs latents d’aventure qui surgissent dans l’âme pendant la courte durée d’une vie dans la chair. Soyez patients ! Ne cédez pas à la tentation de vous plonger dans le dérèglement des aventures vulgaires et sordides. Domptez vos énergies et réfrénez vos passions. Soyez calmes en attendant le déroulement majestueux d’une carrière sans fin d’aventures progressives et de découvertes passionnantes. (<a id="a57_468"></a>[LU 195:5.10](/fr/The_Urantia_Book/195#p5_10))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Just_Another_Source">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Juste une autre source ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Eastern_Orthodoxy_and_UB">
+          <span class="pr-2">L'Orthodoxie orientale et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -78,9 +78,9 @@ Au début, il ressentit de la colère et de la jalousie à leur égard. En tant 
 11. Par la prière et la méditation, chercher à améliorer leur contact conscient avec Dieu tel qu'ils le comprennent, en priant uniquement pour connaître sa volonté pour eux et le pouvoir de la réaliser.
 12. Ayant eu un éveil spirituel à la suite de ces étapes, essayer de transmettre ce message aux alcooliques et de mettre en pratique ces principes dans toutes leurs affaires.
 
-> Jamais Jésus ne fit une prière à titre de devoir religieux. Pour lui, la prière était ...une reddition transcendantale de la volonté, ... ([LU 196:0.10](/fr/The_Urantia_Book/196#p0_10))
+> Jamais Jésus ne fit une prière à titre de devoir religieux. Pour lui, la prière était ...une reddition transcendantale de la volonté, ... (<a id="a80_141"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10))
 
-> « Quand la volonté de Dieu est votre loi, vous êtes de nobles sujets esclaves ; mais, quand vous croyez à ce nouvel évangile de filiation divine, la volonté de mon Père devient votre volonté, et vous êtes élevés à la haute position de libres enfants de Dieu, de fils affranchis du royaume. » ([LU 141:2.2](/fr/The_Urantia_Book/141#p2_2))
+> « Quand la volonté de Dieu est votre loi, vous êtes de nobles sujets esclaves ; mais, quand vous croyez à ce nouvel évangile de filiation divine, la volonté de mon Père devient votre volonté, et vous êtes élevés à la haute position de libres enfants de Dieu, de fils affranchis du royaume. » (<a id="a82_295"></a>[LU 141:2.2](/fr/The_Urantia_Book/141#p2_2))
 
 Jabay dit que ces mesures fonctionnent, non seulement avec les alcooliques, mais aussi avec les ministres confus. Dieu est devenu réel pour lui pour la première fois de sa vie et ainsi, dix ans après son ordination, il a quitté le trône et est entré par hasard dans le royaume.
 

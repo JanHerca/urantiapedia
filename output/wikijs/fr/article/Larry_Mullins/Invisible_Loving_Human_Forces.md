@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Larry Mullins<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Significant_Books_The_Art_of_Possibility_by_Kenneth_R_Miller">
+          <span class="pr-2">Livres importants : L'art des possibilités, Rosamund Stone Zander et Benjamin Zander</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 William James a écrit, vers le début du siècle dernier : « _J’en ai fini avec les grandes choses et les grands projets, les grandes institutions et les grands succès. Je suis pour ces forces humaines minuscules, invisibles et aimantes qui travaillent d'individu à individu, rampant à travers les recoins du monde comme autant de radicelles, ou comme le capillaire suintant de l'eau, mais qui, si on leur en donne le temps, déchireront les monuments les plus durs du monde. fierté humaine._”
@@ -21,7 +45,7 @@ Trop de grands Urantiens, ceux qui font partie du pouvoir rassembleur d'une gran
 
 En effet, ce ne sont pas les mortels, mais les anges qui dirigent la puissante entreprise spirituelle qui s’annonce. De leur point d’observation transcendantal, ils voient sûrement la magnifique tapisserie de lumière, les connexions ténues qui s’étendent d’Urantien à Urantien. Les Architectes Célestes s'efforcent d'établir et de renforcer ces liens entre les âmes sœurs qui effectuent le vrai travail. Il est certain que ces êtres angéliques ne s’efforcent pas de contribuer à la tromperie polie des grâces sociales, mais plutôt d’augmenter les énergies les plus puissantes de l’univers : le pouvoir spirituel et le service désintéressé.
 
-Après avoir lu ceci, on pourrait être amené à se demander : pourquoi alors avons-nous besoin d’une autre organisation humaine telle que The Spiritual Fellowship ? Parce que, c'est mon espoir le plus cher, la Communauté Spirituelle s'occupera de servir le peuple et d'aider le génie du peuple à fonctionner et à se connecter. Dans la même optique, j'espère que _The Spiritual Fellowship Journal_ continuera à être un journal d'action, enregistrant les activités et les triomphes de service et de sensibilisation, et pas simplement des théories, des exposés et une rhétorique sur un livre. J'espère que le Journal attirera l'attention des Urantiens dont on n'a pas entendu parler. Qui se sont malheureusement détournés de la controverse et de la politique, et qui forment la communauté invisible et croissante des croyants. J'espère que ces Urantiens silencieux seront incités à écrire des articles et à apporter des idées pour le Journal.
+Après avoir lu ceci, on pourrait être amené à se demander : pourquoi alors avons-nous besoin d’une autre organisation humaine telle que The Spiritual Fellowship ? Parce que, c'est mon espoir le plus cher, la Communauté Spirituelle s'occupera de servir le peuple et d'aider le génie du peuple à fonctionner et à se connecter. Dans la même optique, j'espère que _Journal de la Fraternité Spirituelle_ continuera à être un journal d'action, enregistrant les activités et les triomphes de service et de sensibilisation, et pas simplement des théories, des exposés et une rhétorique sur un livre. J'espère que le Journal attirera l'attention des Urantiens dont on n'a pas entendu parler. Qui se sont malheureusement détournés de la controverse et de la politique, et qui forment la communauté invisible et croissante des croyants. J'espère que ces Urantiens silencieux seront incités à écrire des articles et à apporter des idées pour le Journal.
 
 Je ne sous-estime pas les difficultés à venir. Beaucoup protesteront que le moment n’est pas venu de lancer un mouvement spirituel. En réponse, je propose l’histoire suivante.
 
@@ -41,5 +65,30 @@ Chers pèlerins, il n’y aura jamais d’intervalle plus fortuit où aucune tem
 
 Pour nous, ce sont maintenant les jours remarquables de la cinquième révélation d’époque, et c’est l’heure de la « religion nouvelle et éternelle de Jésus ». C'est le temps du _génie du peuple_, des gens ordinaires - des jeunes, des Urantiens silencieux et méconnus, de l'armée de laïcs qui rendront à nouveau Jésus visible à un monde assoiffé de vérité.
 
-> « ...ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. ... Il faut que la culture moderne soit spirituellement baptisée d’une nouvelle révélation de la vie de Jésus et illuminée par une nouvelle compréhension de son évangile de salut éternel. Et, quand Jésus sera ainsi élevé, il attirera tous les hommes à lui. Davantage encore que des conquérants, les disciples de Jésus devraient être pour l’humanité des sources débordantes d’inspiration et de vie rehaussée. La religion n’est qu’un humanisme exalté jusqu’à ce qu’elle soit rendue divine par la découverte de la réalité de la présence de Dieu dans l’expérience personnelle. » ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> « ...ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. ... Il faut que la culture moderne soit spirituellement baptisée d’une nouvelle révélation de la vie de Jésus et illuminée par une nouvelle compréhension de son évangile de salut éternel. Et, quand Jésus sera ainsi élevé, il attirera tous les hommes à lui. Davantage encore que des conquérants, les disciples de Jésus devraient être pour l’humanité des sources débordantes d’inspiration et de vie rehaussée. La religion n’est qu’un humanisme exalté jusqu’à ce qu’elle soit rendue divine par la découverte de la réalité de la présence de Dieu dans l’expérience personnelle. » (<a id="a67_792"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume11_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Significant_Books_The_Art_of_Possibility_by_Kenneth_R_Miller">
+          <span class="pr-2">Livres importants : L'art des possibilités, Rosamund Stone Zander et Benjamin Zander</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

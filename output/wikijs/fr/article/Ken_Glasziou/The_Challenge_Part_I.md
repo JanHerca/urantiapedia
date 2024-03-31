@@ -9,13 +9,37 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Kenneth Glasziou<br>© 2004 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La prière et l'adoration telles que nous devrions les comprendre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="pr-2">Jésus et la croix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (L'accent dans l'article est de l'auteur)
 
-> « L’univers des univers, considéré *comme un tout,* est conçu par le mental, construit par le mental et administré par le mental. » ([LU 42:11.2](/fr/The_Urantia_Book/42#p11_2))
+> « L’univers des univers, considéré *comme un tout,* est conçu par le mental, construit par le mental et administré par le mental. » (<a id="a39_135"></a>[LU 42:11.2](/fr/The_Urantia_Book/42#p11_2))
 
-> _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, ***qui oseront construire une nouvelle et attrayante philosophie*** de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. Vérité, beauté et bonté sont des réalités divines et, à mesure que l’homme monte la gamme de la vie spirituelle, ces qualités suprêmes de l’Éternel se coordonnent et s’unifient de plus en plus en Dieu, qui est amour._ ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, ***qui oseront construire une nouvelle et attrayante philosophie*** de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. Vérité, beauté et bonté sont des réalités divines et, à mesure que l’homme monte la gamme de la vie spirituelle, ces qualités suprêmes de l’Éternel se coordonnent et s’unifient de plus en plus en Dieu, qui est amour._ (<a id="a41_729"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 Les auteurs de la révélation Urantia ont présenté leurs propres qualifications dans ce qui doit sûrement être l'un des livres les plus remarquables jamais écrits – un travail qui serait encore plus remarquable s'il était effectivement écrit par des êtres humains.
 
@@ -191,17 +215,17 @@ Avec la science idéaliste, nous sommes parvenus à une science qui n’exclut n
 
 (Veuillez noter que les mots « conscience » et « esprit » ne sont définis avec précision ni dans la philosophie ni dans la révélation d'Urantia et ont tendance à être interchangeables.)
 
-> « _En évaluant et en reconnaissant le mental, il faut se rappeler que ***l’univers*** n’est ni machinal ni magique ;_ ***il est une création du mental*** » ([LU 42:11.1](/fr/The_Urantia_Book/42#p11_1))
+> « _En évaluant et en reconnaissant le mental, il faut se rappeler que ***l’univers*** n’est ni machinal ni magique ;_ ***il est une création du mental*** » (<a id="a217_159"></a>[LU 42:11.1](/fr/The_Urantia_Book/42#p11_1))
 
-> « _Les mécanismes ne dominent pas absolument toute la création. ***L’univers des univers, considéré comme un tout, est conçu par le mental, construit par le mental et administré par le mental***. Mais le mécanisme divin de l’univers des univers est beaucoup trop parfait pour que les méthodes scientifiques du mental humain fini puissent discerner même une trace de la domination du mental infini. Car ce mental créateur, contrôlant et sustentateur n’est ni un mental matériel ni un mental de créature ; il est le mental-esprit fonctionnant sur et depuis les niveaux créateurs de la réalité divine._ » ([LU 42:11.2](/fr/The_Urantia_Book/42#p11_2))
+> « _Les mécanismes ne dominent pas absolument toute la création. ***L’univers des univers, considéré comme un tout, est conçu par le mental, construit par le mental et administré par le mental***. Mais le mécanisme divin de l’univers des univers est beaucoup trop parfait pour que les méthodes scientifiques du mental humain fini puissent discerner même une trace de la domination du mental infini. Car ce mental créateur, contrôlant et sustentateur n’est ni un mental matériel ni un mental de créature ; il est le mental-esprit fonctionnant sur et depuis les niveaux créateurs de la réalité divine._ » (<a id="a219_605"></a>[LU 42:11.2](/fr/The_Urantia_Book/42#p11_2))
 
-> « _*Le mental cosmique.* C’est le septuple mental diversifié du temps et de l’espace, et, pour chacune de ses phases, l’un des Sept Maitres Esprits apporte son ministère à l’un des sept superunivers. Le mental cosmique englobe tous les niveaux de mental fini et se coordonne expérientiellement avec les niveaux de déité évolutionnaires du Mental Suprême, et transcendantalement avec les niveaux existentiels du mental absolu — les circuits directs de l’Acteur Conjoint._ » ([LU 42:10.6](/fr/The_Urantia_Book/42#p10_6))
+> « _*Le mental cosmique.* C’est le septuple mental diversifié du temps et de l’espace, et, pour chacune de ses phases, l’un des Sept Maitres Esprits apporte son ministère à l’un des sept superunivers. Le mental cosmique englobe tous les niveaux de mental fini et se coordonne expérientiellement avec les niveaux de déité évolutionnaires du Mental Suprême, et transcendantalement avec les niveaux existentiels du mental absolu — les circuits directs de l’Acteur Conjoint._ » (<a id="a221_476"></a>[LU 42:10.6](/fr/The_Urantia_Book/42#p10_6))
 
-> « _Le Père Universel est la seule personnalité dans tout l’univers qui connaisse effectivement le nombre des étoiles et des planètes de l’espace. Dieu a constamment dans sa ***conscience*** tous les mondes de chaque univers._ » ([LU 3:3.2](/fr/The_Urantia_Book/3#p3_2))
+> « _Le Père Universel est la seule personnalité dans tout l’univers qui connaisse effectivement le nombre des étoiles et des planètes de l’espace. Dieu a constamment dans sa ***conscience*** tous les mondes de chaque univers._ » (<a id="a223_231"></a>[LU 3:3.2](/fr/The_Urantia_Book/3#p3_2))
 
-> « _Dieu possède un pouvoir illimité de connaitre toutes choses. Sa ***conscience*** est universelle. Son circuit personnel embrasse toutes les personnalités, et sa connaissance des créatures, même inférieures, est complétée indirectement par la série descendante des Fils divins, et directement par les Ajusteurs de Pensée intérieurs. En outre, l’Esprit Infini est constamment présent partout._ » ([LU 3:3.3](/fr/The_Urantia_Book/3#p3_3))
+> « _Dieu possède un pouvoir illimité de connaitre toutes choses. Sa ***conscience*** est universelle. Son circuit personnel embrasse toutes les personnalités, et sa connaissance des créatures, même inférieures, est complétée indirectement par la série descendante des Fils divins, et directement par les Ajusteurs de Pensée intérieurs. En outre, l’Esprit Infini est constamment présent partout._ » (<a id="a225_400"></a>[LU 3:3.3](/fr/The_Urantia_Book/3#p3_3))
 
-> « _Le Père Universel réalise dans la plénitude de la **conscience** divine toute l’expérience individuelle gagnée au cours des luttes progressives soutenues par les forces mentales croissantes et les esprits ascendants de chaque entité, être et personnalité de l’ensemble de la création évolutionnaire du temps et de l’espace. Et tout ceci est littéralement vrai, car « ***en Lui nous vivons tous, nous nous mouvons et nous avons notre existence*** »._ » ([LU 1:5.16](/fr/The_Urantia_Book/1#p5_16))
+> « _Le Père Universel réalise dans la plénitude de la **conscience** divine toute l’expérience individuelle gagnée au cours des luttes progressives soutenues par les forces mentales croissantes et les esprits ascendants de chaque entité, être et personnalité de l’ensemble de la création évolutionnaire du temps et de l’espace. Et tout ceci est littéralement vrai, car « ***en Lui nous vivons tous, nous nous mouvons et nous avons notre existence*** »._ » (<a id="a227_458"></a>[LU 1:5.16](/fr/The_Urantia_Book/1#p5_16))
 
 ***(à suivre...)***
 
@@ -210,3 +234,28 @@ Avec la science idéaliste, nous sommes parvenus à une science qui n’exclut n
 > Il publie également [« Interface International »](/fr/index/articles_innerface) dont cet article est tiré, avec l'autorisation de l'auteur.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La prière et l'adoration telles que nous devrions les comprendre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="pr-2">Jésus et la croix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

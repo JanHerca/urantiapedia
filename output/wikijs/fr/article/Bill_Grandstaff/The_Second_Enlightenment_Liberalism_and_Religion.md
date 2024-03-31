@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Bill Granstaff<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Sharing_a_Gift_Beyond_Words">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partager un don au-delà des mots</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/The_Larger_View">
+          <span class="pr-2">La vue plus grande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les révélations d’époque sont frustrantes. Elles sont frustrantes car, contrairement aux révélations spirituelles personnelles, elles sont par définition des révélations destinées à transformer et à améliorer la vie spirituelle de chaque individu. Ainsi, ceux d’entre nous qui épousent cette révélation se retrouvent à vivre une existence très paradoxale. J'utilise le mot « paradoxal » parce que, tandis que nous nous émerveillons de la transformation de nos propres perspectives par le Livre d'Urantia, nous pouvons parfois nous trouver troublés par le grand nombre de nos frères préoccupés et désintéressés. En raison de l'orientation spirituelle immédiatement personnelle de cette révélation, ses conséquences macro-sociologiques pourraient se produire dans de nombreuses années. Par conséquent, beaucoup d’entre nous se retrouvent aux prises avec une sorte de démon. Bien sûr, ce n’est pas un de ces démons d’Halloween qui nous soulèvent au-dessus de nos lits, effraient nos mères ou font changer de couleur notre peau. Il s’agit plutôt d’un démon mental qui gémit et se moque. Il se plaint d'un événement mondial vraiment capital qui validerait indéniablement les vérités du _Livre d'Urantia_, tout en se moquant de la validation subjective que nous recevons de notre propre âme.
@@ -112,29 +136,29 @@ L’exemple précédent de libéralisme appliqué au médium spirituel devrait v
 
 > Principe Spirituel Libéral \#1/Complément Urantia :
 > 
-> C’est ce même fait d’expérience humaine qui prouve que la révélation est révélation, à savoir que la révélation synthétise les sciences de la nature et la théologie religieuse, apparemment divergentes, en une philosophie de l’univers cohérente et logique, en une explication coordonnée et sans hiatus aussi bien de la science que de la religion, créant ainsi une harmonie du mental et la satisfaction à l’esprit. Elle répond, dans l’expérience humaine, aux interrogations du mental avide de savoir *comment* l’Infini met sa volonté et ses plans à exécution dans la matière, avec le mental et sur l’esprit. (_Le Livre d'Urantia_ 1955, [LU 101:2.1](/fr/The_Urantia_Book/101#p2_1)).
+> C’est ce même fait d’expérience humaine qui prouve que la révélation est révélation, à savoir que la révélation synthétise les sciences de la nature et la théologie religieuse, apparemment divergentes, en une philosophie de l’univers cohérente et logique, en une explication coordonnée et sans hiatus aussi bien de la science que de la religion, créant ainsi une harmonie du mental et la satisfaction à l’esprit. Elle répond, dans l’expérience humaine, aux interrogations du mental avide de savoir *comment* l’Infini met sa volonté et ses plans à exécution dans la matière, avec le mental et sur l’esprit. (_Le Livre d'Urantia_ 1955, <a id="a138_636"></a>[LU 101:2.1](/fr/The_Urantia_Book/101#p2_1)).
 > 
-> La raison est la preuve de la science, la foi est la preuve de la religion, la logique est la preuve de la philosophie, mais la révélation n’est validée que par l’*expérience* humaine. ([LU 101:2.8](/fr/The_Urantia_Book/101#p2_8)).
+> La raison est la preuve de la science, la foi est la preuve de la religion, la logique est la preuve de la philosophie, mais la révélation n’est validée que par l’*expérience* humaine. (<a id="a140_188"></a>[LU 101:2.8](/fr/The_Urantia_Book/101#p2_8)).
 > 
 > Principe Spirituel Libéral \#2/Complément Urantia :
 > 
-> À partir de ce jour-là et pendant le reste de sa vie terrestre, Ganid continua à élaborer une religion à lui. Il était mentalement très impressionné par la largeur d’esprit, l’équité et la tolérance de Jésus. Dans toutes leurs discussions philosophiques et religieuses, jamais le jeune homme n’éprouva de ressentiments, ni de réactions d’antagonismes. ([LU 132:7.8](/fr/The_Urantia_Book/132#p7_8)).
+> À partir de ce jour-là et pendant le reste de sa vie terrestre, Ganid continua à élaborer une religion à lui. Il était mentalement très impressionné par la largeur d’esprit, l’équité et la tolérance de Jésus. Dans toutes leurs discussions philosophiques et religieuses, jamais le jeune homme n’éprouva de ressentiments, ni de réactions d’antagonismes. (<a id="a144_355"></a>[LU 132:7.8](/fr/The_Urantia_Book/132#p7_8)).
 > 
-> Nathanael révérait surtout Jésus pour sa tolérance. Il ne se lassa jamais d’observer la largeur d’esprit et la généreuse compassion du Fils de l’Homme. ([LU 139:6.8](/fr/The_Urantia_Book/139#p6_8)).
+> Nathanael révérait surtout Jésus pour sa tolérance. Il ne se lassa jamais d’observer la largeur d’esprit et la généreuse compassion du Fils de l’Homme. (<a id="a146_155"></a>[LU 139:6.8](/fr/The_Urantia_Book/139#p6_8)).
 > 
 > Principe Spirituel Libéral \#3/Complément Urantia :
 > 
-> « Moi, je suis venu parmi vous proclamer une vérité plus grande, une vérité que beaucoup des derniers prophètes avaient déjà saisie, la vérité que Dieu *vous* aime — chacun de vous — en tant qu’individus. » ([LU 145:2.4](/fr/The_Urantia_Book/145#p2_4)).
+> « Moi, je suis venu parmi vous proclamer une vérité plus grande, une vérité que beaucoup des derniers prophètes avaient déjà saisie, la vérité que Dieu *vous* aime — chacun de vous — en tant qu’individus. » (<a id="a150_210"></a>[LU 145:2.4](/fr/The_Urantia_Book/145#p2_4)).
 > 
-> La religion du royaume est personnelle, individuelle ; ses fruits, ses résultats, sont familiaux et sociaux. Jésus ne manquait jamais d’exalter le caractère sacré de l’individu par contraste avec la communauté. ([LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)).
+> La religion du royaume est personnelle, individuelle ; ses fruits, ses résultats, sont familiaux et sociaux. Jésus ne manquait jamais d’exalter le caractère sacré de l’individu par contraste avec la communauté. (<a id="a152_214"></a>[LU 170:3.10](/fr/The_Urantia_Book/170#p3_10)).
 > 
-> Jacques Zébédée avait demandé : « Maitre, comment apprendrons-nous à avoir le même point de vue et à jouir ainsi d’une plus grande harmonie entre nous ? » Lorsque Jésus entendit cette question, son esprit fut tellement ému qu’il répliqua : « Jacques, Jacques, quand t’ai-je enseigné que vous deviez tous avoir le même point de vue ? Je suis venu dans le monde pour proclamer la liberté spirituelle afin que les mortels aient le pouvoir de vivre des vies individuelles originales et libres devant Dieu. Je ne désire pas que l’harmonie sociale et la paix fraternelle soient achetées par le sacrifice de la libre personnalité et de l’originalité spirituelle. Ce que je vous demande, mes apôtres, c’est l’*unité spirituelle —* dont vous pouvez faire l’expérience dans la joie de l’union de votre consécration à faire, de tout cœur, la volonté de mon Père qui est aux cieux. » ([LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)).
+> Jacques Zébédée avait demandé : « Maitre, comment apprendrons-nous à avoir le même point de vue et à jouir ainsi d’une plus grande harmonie entre nous ? » Lorsque Jésus entendit cette question, son esprit fut tellement ému qu’il répliqua : « Jacques, Jacques, quand t’ai-je enseigné que vous deviez tous avoir le même point de vue ? Je suis venu dans le monde pour proclamer la liberté spirituelle afin que les mortels aient le pouvoir de vivre des vies individuelles originales et libres devant Dieu. Je ne désire pas que l’harmonie sociale et la paix fraternelle soient achetées par le sacrifice de la libre personnalité et de l’originalité spirituelle. Ce que je vous demande, mes apôtres, c’est l’*unité spirituelle —* dont vous pouvez faire l’expérience dans la joie de l’union de votre consécration à faire, de tout cœur, la volonté de mon Père qui est aux cieux. » (<a id="a154_875"></a>[LU 141:5.1](/fr/The_Urantia_Book/141#p5_1)).
 
 Et enfin, le passage qui assure la dignité libérale du _Le Livre d'Urantia_ lui-même :
 
 > Des intellects partiels, incomplets et évoluants seraient impuissants dans le maitre univers, incapables de former le moindre modèle rationnel de pensée, si tout mental, supérieur ou inférieur, n’avait pas l’aptitude innée à former un *cadre universel* dans lequel il peut penser. Si le mental ne peut aboutir aux véritables conclusions et pénétrer jusqu’aux véritables origines, il sera infailliblement amené à postuler des conclusions et à inventer des origines, afin d’avoir un moyen de penser logiquement dans le cadre de ces hypothèses mentalement créées. De tels cadres universels pour la pensée des créatures sont indispensables aux opérations intellectuelles rationnelles, mais, sans aucune exception, ils sont erronés à un plus ou moins haut degré.
 > 
-> Les cadres conceptuels de l’univers ne sont que relativement vrais. Ils sont d’utiles échafaudages qui doivent finalement céder la place devant l’expansion de la compréhension cosmique croissante. ([LU 115:1.1-2](/fr/The_Urantia_Book/115#p1_1))
+> Les cadres conceptuels de l’univers ne sont que relativement vrais. Ils sont d’utiles échafaudages qui doivent finalement céder la place devant l’expansion de la compréhension cosmique croissante. (<a id="a160_200"></a>[LU 115:1.1-2](/fr/The_Urantia_Book/115#p1_1))
 
 Les exemples précédents sont simplement représentatifs de l'esprit libéral global du _Livre d'Urantia_. Le concept central du livre, selon lequel chaque individu est habité par un fragment du Père, valide le principe le plus profond du libéralisme : l'importance de l'individu tout au long de l'éternité. Les enseignements du _Livre d'Urantia_ sont, en effet et en esprit, du libéralisme appliqué à la religion.
 
@@ -167,3 +191,28 @@ Le libéralisme s’infiltre lentement, qu’on le veuille ou non. Mais bon nomb
 > _Bill Grandstaff est doctorant en sciences politiques. Il a travaillé comme écrivain, producteur et interprète de musique contemporaine._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Sharing_a_Gift_Beyond_Words">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Partager un don au-delà des mots</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/The_Larger_View">
+          <span class="pr-2">La vue plus grande</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

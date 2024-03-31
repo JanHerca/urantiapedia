@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diffuser les enseignements</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="pr-2">La seule vie qui vaut la peine d'être vécue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Remarque : Le terme « méta-valeurs » a été inventé à l'origine par Abraham Maslow. Le Dr Maslow croyait qu'une « science des valeurs » devait être développée, une idée qui n'a pas encore été concrétisée. Les Urantiens peuvent facilement saisir le concept des MétaValeurs et l'utiliser pour améliorer leur capacité à vivre les enseignements des Cahiers d'Urantia.
@@ -68,7 +92,7 @@ Les Cahiers d'Urantia nous assurent que la perspicacité spirituelle apportera l
 - 2) _Prière régulière et méditative_. La perspicacité spirituelle peut également être facilitée ou augmentée par la relaxation et la réceptivité par la prière méditative. Nous pouvons également définir cette activité comme un effort conscient pour nous aligner sur les forces de réalité de l'univers, comme décrit en détail dans la section Rodan des Cahiers d'Urantia.
 - 3) _Frapper le fond_. Une expérience de pointe, dans un moment de désespoir total, a préparé le terrain pour une compréhension spirituelle qui peut conduire à une vie de dévouement à un projet ou à une cause plus importante que soi.
 
-Quelle que soit la manière dont une vision spirituelle se produit, nous savons que la volonté humaine est nécessaire pour capturer une vision spirituelle et l'amener à la manifestation ou à l'actualisation au niveau matériel au moyen de l'action. Jésus a enseigné que la volonté humaine de faire émerge du respect de soi et de la conviction que l'on peut faire et que nous avons quelque chose de valable à offrir. Nous pensons que notre action aura un sens. Lorsque la volonté de faire fusionne avec la conviction que l’on peut faire, le composite se manifeste comme une volonté affirmée d’être proactif et de faire bouger les choses. Pourtant, l’affirmation de soi pure, quelle que soit sa justification, pourrait impitoyablement envahir et exploiter les autres, s’absoluant en déclarant que « la fin justifie les moyens ». De toute évidence, l’affirmation de soi est une qualité nécessaire, mais quelque chose d’autre est nécessaire si nous voulons nous aligner sur les méta-valeurs. Jésus l’a clairement vu : « En initiant les hommes au royaume, ne diminuez ou ne détruisez pas leur respect d’eux-mêmes. Le respect de soi poussé à l’excès peut détruire l’humilité appropriée et se transformer en orgueil, en vanité et en arrogance ; mais la perte du respect de soi aboutit souvent à la paralysie de la volonté. Cet évangile a pour but de rétablir le respect de soi chez ceux qui l’ont perdu et de le réfréner chez ceux qui l’ont. Ne commettez pas l’erreur de simplement condamner ce qu’il y a de mauvais dans la vie de vos élèves ; n’omettez pas de reconnaitre libéralement, dans leur vie, les choses les plus dignes de louanges. N’oubliez pas que rien ne m’arrêtera pour rétablir le respect de soi chez ceux qui l’ont perdu et qui désirent réellement le regagner. » ([LU 159:3.3](/fr/The_Urantia_Book/159#p3_3))
+Quelle que soit la manière dont une vision spirituelle se produit, nous savons que la volonté humaine est nécessaire pour capturer une vision spirituelle et l'amener à la manifestation ou à l'actualisation au niveau matériel au moyen de l'action. Jésus a enseigné que la volonté humaine de faire émerge du respect de soi et de la conviction que l'on peut faire et que nous avons quelque chose de valable à offrir. Nous pensons que notre action aura un sens. Lorsque la volonté de faire fusionne avec la conviction que l’on peut faire, le composite se manifeste comme une volonté affirmée d’être proactif et de faire bouger les choses. Pourtant, l’affirmation de soi pure, quelle que soit sa justification, pourrait impitoyablement envahir et exploiter les autres, s’absoluant en déclarant que « la fin justifie les moyens ». De toute évidence, l’affirmation de soi est une qualité nécessaire, mais quelque chose d’autre est nécessaire si nous voulons nous aligner sur les méta-valeurs. Jésus l’a clairement vu : « En initiant les hommes au royaume, ne diminuez ou ne détruisez pas leur respect d’eux-mêmes. Le respect de soi poussé à l’excès peut détruire l’humilité appropriée et se transformer en orgueil, en vanité et en arrogance ; mais la perte du respect de soi aboutit souvent à la paralysie de la volonté. Cet évangile a pour but de rétablir le respect de soi chez ceux qui l’ont perdu et de le réfréner chez ceux qui l’ont. Ne commettez pas l’erreur de simplement condamner ce qu’il y a de mauvais dans la vie de vos élèves ; n’omettez pas de reconnaitre libéralement, dans leur vie, les choses les plus dignes de louanges. N’oubliez pas que rien ne m’arrêtera pour rétablir le respect de soi chez ceux qui l’ont perdu et qui désirent réellement le regagner. » (<a id="a94_1771"></a>[LU 159:3.3](/fr/The_Urantia_Book/159#p3_3))
 
 ## La volonté de faire plus la volonté de faire de bonnes choses
 
@@ -96,12 +120,37 @@ Les actions de foi sont des mouvements spectaculaires qui ne peuvent être préd
 
 Comment pouvons-nous, Urantiens, être sûrs que nos actions sont motivées par la foi ? Comment pouvons-nous être sûrs que nous opérons en synchronisation avec le flux des méta-valeurs ? Heureusement, nous avons reçu une jauge intérieure infaillible qui agit instantanément dans la vie intérieure. Lorsque le monde devient gris et « dangereux » et que nos énergies faiblissent, nous sortons de la zone. Lorsque nous sommes hystériquement énergiques et que le monde semble entraver et contrecarrer tout ce que nous essayons de faire, nous sommes trop loin dans l’agressivité et hors de la zone. Lorsque nous nous sentons exploités, épuisés et utilisés, lorsque nous permettons que nos droits soient bafoués, nous tombons dans un degré imprudent de « bonté ». Dans la mesure où nous faisons l’expérience de la légèreté, de l’oubli de soi, de l’intemporalité, d’une joie et d’une paix inexprimables, nous sommes dans la zone. Lorsque les portes s’ouvrent et que des « coïncidences » remarquables nous aident, et que le monde s’écarte pour que nous puissions offrir notre cadeau, nous sommes dans la zone. Rodan a exprimé ces concepts dans ces beaux mots :
 
-« Jésus nous a enseigné que Dieu vit dans l’homme ; alors, comment pouvons-nous amener l’homme à libérer les pouvoirs divins et infinis liés à son âme ? Comment pouvons-nous inciter les hommes à donner le champ libre à Dieu pour qu’il jaillisse de nous en rafraichissant notre âme au passage, et contribue ensuite à éclairer, élever et bénir d’innombrables autres âmes ? Quelle est la meilleure manière pour moi d’éveiller les pouvoirs bénéfiques latents qui dorment dans votre âme ? Il y a une chose dont je suis certain, c’est que l’excitation émotive n’est pas le stimulant spirituel idéal ; elle n’accroit pas l’énergie ; elle épuise plutôt les forces du mental et du corps. D’où vient, alors, l’énergie permettant d’accomplir ces grandes choses ? Observez votre Maitre. À cette heure même, il est dans les collines, récupérant de la puissance pendant qu’ici nous dépensons de l’énergie. Le secret de tout ce problème git dans la communion spirituelle, dans l’adoration. Du point de vue humain, il s’agit de conjuguer la méditation et la détente. La méditation établit le contact du mental avec l’esprit ; la détente détermine la capacité de la réceptivité spirituelle. Cette substitution de la force à la faiblesse, du courage à la peur, de la volonté de Dieu au mental du moi, constitue l’adoration. » ([LU 160:3.1](/fr/The_Urantia_Book/160#p3_1))
+« Jésus nous a enseigné que Dieu vit dans l’homme ; alors, comment pouvons-nous amener l’homme à libérer les pouvoirs divins et infinis liés à son âme ? Comment pouvons-nous inciter les hommes à donner le champ libre à Dieu pour qu’il jaillisse de nous en rafraichissant notre âme au passage, et contribue ensuite à éclairer, élever et bénir d’innombrables autres âmes ? Quelle est la meilleure manière pour moi d’éveiller les pouvoirs bénéfiques latents qui dorment dans votre âme ? Il y a une chose dont je suis certain, c’est que l’excitation émotive n’est pas le stimulant spirituel idéal ; elle n’accroit pas l’énergie ; elle épuise plutôt les forces du mental et du corps. D’où vient, alors, l’énergie permettant d’accomplir ces grandes choses ? Observez votre Maitre. À cette heure même, il est dans les collines, récupérant de la puissance pendant qu’ici nous dépensons de l’énergie. Le secret de tout ce problème git dans la communion spirituelle, dans l’adoration. Du point de vue humain, il s’agit de conjuguer la méditation et la détente. La méditation établit le contact du mental avec l’esprit ; la détente détermine la capacité de la réceptivité spirituelle. Cette substitution de la force à la faiblesse, du courage à la peur, de la volonté de Dieu au mental du moi, constitue l’adoration. » (<a id="a122_1309"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1))
 
 > _Ce matériel a été adapté du chapitre 17 d'un travail en cours de Larry Mullins, The Step Beyond. © Copyright 1998, Larry Mullins, Boulder, CO. La deuxième partie de Meta-Values, dans le numéro d'automne du Journal, proposera un système organisé qui pourrait être utile dans notre quête urantienne de la Vérité. Larry Mullins est consultant en publicité et marketing. Il est consultant éditorial auprès du Journal et auteur de_ Immature People with Power _and_ Jesus: God and Man.
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Diffuser les enseignements</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="pr-2">La seule vie qui vaut la peine d'être vécue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

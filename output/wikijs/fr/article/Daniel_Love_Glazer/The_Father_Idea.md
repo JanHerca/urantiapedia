@@ -9,13 +9,37 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Daniel Love Glazer<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Livre d'Urantia</i> </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Non_Historical_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Le Jésus non historique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Historicity_of_UB">
+          <span class="pr-2">L'historicité du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Une réponse à : « _Le Livre d'Urantia_ et le langage sexiste », par Judith L. Mace
 
 Judith Mace affirme que « Les révélations sans précédent du _Livre d'Urantia_ sont affligées de notre langage sexiste. L’acceptation de ces documents est sérieusement menacée par cette rhétorique offensante, inexacte et obsolète. Le langage du livre s'adresse clairement aux hommes et non aux femmes. Elle continue en préconisant un changement de langage religieux en utilisant, par exemple, _Primum_, _Secundum_ et _Tertium_ pour désigner les membres de la Trinité, et en utilisant te pour elle/il, ter pour le sien et tem pour elle/lui. Je soutiens que l'argument de Mme Mace est tout à fait erroné et représente une grave mauvaise lecture du _Le Livre d'Urantia_. Tenter de suivre sa proposition nuirait gravement à la Cinquième Révélation d’Époque.
 
-Les lecteurs du Spiritual Fellowship Journal sont sans aucun doute conscients que ces dernières années ont été marquées par des attaques contre le langage traditionnel utilisé à la fois pour l'homme et pour Dieu au motif qu'il est, pour reprendre la terminologie de Mme Mace, « sexiste, offensant, inexact et obsolète. » La critique désormais classique de Mary Daly soutient que « Puisque Dieu est mâle, le mâle est Dieu. »[^1] Mais, contrairement à Mace et à la teneur générale du numéro du _The Spiritual Fellowship Journal_ dans lequel paraît son article, il est Il n’est pas évident que ces attaques soient solidement fondées et qu’elles l’emporteront (ou devraient) l’emporter. Dans les églises chrétiennes, il y a des débats animés entre le langage traditionnel et le langage révisionniste (autoproclamé « inclusif ») pour la Divinité. Je recommande au lecteur intéressé deux anthologies récentes qui plaident en faveur du langage traditionnel :
+Les lecteurs du Journal de la Fraternité Spirituelle sont sans aucun doute conscients que ces dernières années ont été marquées par des attaques contre le langage traditionnel utilisé à la fois pour l'homme et pour Dieu au motif qu'il est, pour reprendre la terminologie de Mme Mace, « sexiste, offensant, inexact et obsolète. » La critique désormais classique de Mary Daly soutient que « Puisque Dieu est mâle, le mâle est Dieu. »[^1] Mais, contrairement à Mace et à la teneur générale du numéro du _Journal de la Fraternité Spirituelle_ dans lequel paraît son article, il est Il n’est pas évident que ces attaques soient solidement fondées et qu’elles l’emporteront (ou devraient) l’emporter. Dans les églises chrétiennes, il y a des débats animés entre le langage traditionnel et le langage révisionniste (autoproclamé « inclusif ») pour la Divinité. Je recommande au lecteur intéressé deux anthologies récentes qui plaident en faveur du langage traditionnel :
 
 Kimel, Alvin F., Jr., éd. La Sainte Trinité et le défi du féminisme. Grand Rapids : Eerdmans, 1992.
 
@@ -52,22 +76,22 @@ Les contributeurs à ces anthologies soulignent que Jésus, « l’auteur et le 
 
 Mais on peut dire que les auteurs représentés dans ces anthologies écrivent probablement tous sans aucune connaissance ni acceptation du _Livre d'Urantia_. Si nous acceptons la lecture de Judith Mace, _Le Livre d'Urantia_, bien qu'il soit « chargé de langage sexiste », contient les principes qui soutiennent le développement d'un nouveau langage « inclusif ».
 
-Mais la lecture de Mace est très biaisée. Par exemple, elle soutient que « les auteurs étaient probablement au courant de l’évolution sociale imminente, s’éloignant du langage patriarcal – ils l’espéraient sans aucun doute ». Il s’agit de pure spéculation et projection de sa part. Pour étayer son propos, elle cite la déclaration du livre selon laquelle il contient nécessairement des erreurs dans « les cosmologies associées qui y sont présentées » ([LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)) [souligné par nous], comme si les cosmologies faisaient référence à un « langage sexiste ».
+Mais la lecture de Mace est très biaisée. Par exemple, elle soutient que « les auteurs étaient probablement au courant de l’évolution sociale imminente, s’éloignant du langage patriarcal – ils l’espéraient sans aucun doute ». Il s’agit de pure spéculation et projection de sa part. Pour étayer son propos, elle cite la déclaration du livre selon laquelle il contient nécessairement des erreurs dans « les cosmologies associées qui y sont présentées » (<a id="a78_452"></a>[LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)) [souligné par nous], comme si les cosmologies faisaient référence à un « langage sexiste ».
 
-Plus tard, elle prétend citer _Le Livre d'Urantia_ lorsqu'elle dit : « Aucune langue ne peut être considérée comme universelle et utile à moins qu'elle ne soit inclusive ou sans genre. » Mais le passage référencé ne dit rien sur le genre ; il se réfère plutôt simplement à « la conquête des dialectes – le triomphe d’une langue universelle ». ([LU 71:8.12-14](/fr/The_Urantia_Book/71#p8_12))
+Plus tard, elle prétend citer _Le Livre d'Urantia_ lorsqu'elle dit : « Aucune langue ne peut être considérée comme universelle et utile à moins qu'elle ne soit inclusive ou sans genre. » Mais le passage référencé ne dit rien sur le genre ; il se réfère plutôt simplement à « la conquête des dialectes – le triomphe d’une langue universelle ». (<a id="a80_344"></a>[LU 71:8.12-14](/fr/The_Urantia_Book/71#p8_12))
 
 Mace note, avec approbation, la première section du premier article dans laquelle de nombreux noms sont donnés pour Dieu le Père et on nous dit que « la Première Source et Centre de l'Univers ne s'est jamais révélée par son nom, seulement par sa nature. » Mais elle passe sous silence d’autres déclarations dans la même section soutenant le nom « Père ». En voici deux :
 
 - « Si nous croyons que nous sommes les enfants de ce Créateur, il est tout à fait naturel que nous finissions par l'appeler Père. »
 - « Sur une planète de créatures sexuelles, dans un monde où les impulsions de l'émotion parentale sont inhérentes au cœur de son être intelligent, le terme Père devient un nom très expressif et approprié pour le Dieu éternel. »
 
-Mace semble heureux de mentionner que _Le Livre d'Urantia_ déclare que « Jésus a cherché à substituer de nombreux termes au royaume, mais toujours sans succès. » Sous l'impression apparente que cela l'aide, elle continue en citant ce paragraphe : « Il employa entre autres : la famille de Dieu, la volonté du Père, les amis de Dieu, la communauté des croyants, la fraternité des hommes, le bercail du Père, les enfants de Dieu, la communauté des fidèles, le service du Père et les fils de Dieu affranchis. » ([LU 170:2.24](/fr/The_Urantia_Book/170#p2_24)) Bien qu'elle cite ce passage dans son intégralité, elle ne parvient pas à remarquer l'importance du mot « royaume » que Jésus a cherché à remplacer. L’utilisation du Père et l’utilisation générique de la fraternité, de l’homme et des fils ne semblent pas poser de problème.
+Mace semble heureux de mentionner que _Le Livre d'Urantia_ déclare que « Jésus a cherché à substituer de nombreux termes au royaume, mais toujours sans succès. » Sous l'impression apparente que cela l'aide, elle continue en citant ce paragraphe : « Il employa entre autres : la famille de Dieu, la volonté du Père, les amis de Dieu, la communauté des croyants, la fraternité des hommes, le bercail du Père, les enfants de Dieu, la communauté des fidèles, le service du Père et les fils de Dieu affranchis. » (<a id="a87_509"></a>[LU 170:2.24](/fr/The_Urantia_Book/170#p2_24)) Bien qu'elle cite ce passage dans son intégralité, elle ne parvient pas à remarquer l'importance du mot « royaume » que Jésus a cherché à remplacer. L’utilisation du Père et l’utilisation générique de la fraternité, de l’homme et des fils ne semblent pas poser de problème.
 
-Mace fait alors une affirmation surprenante. « Dans la dernière phrase du _Livre d'Urantia_, les auteurs écrivent qu'à cette époque, le concept du Père était l'imagerie la plus élevée disponible pour nous décrire Dieu... Au cours des soixante années écoulées depuis la transmission du livre, des changements radicaux se sont produits dans notre culture et on peut à juste titre suggérer que les auteurs pourraient désormais choisir un autre concept. Waouh ! Que dit réellement la dernière phrase du _Livre d'Urantia_ ? «**Quand tout est dit et fait, l’idée de Père reste encore le concept humain le plus élevé de Dieu.**» ([LU 196:3.35](/fr/The_Urantia_Book/196#p3_35)) C'est très différent de ce que rapporte Mace. L’expression « Quand tout est dit et fait » signifie lorsque tout ce qui peut être dit a été dit, et pas simplement lorsque nous considérons ce qui est disponible à ce moment-là.
+Mace fait alors une affirmation surprenante. « Dans la dernière phrase du _Livre d'Urantia_, les auteurs écrivent qu'à cette époque, le concept du Père était l'imagerie la plus élevée disponible pour nous décrire Dieu... Au cours des soixante années écoulées depuis la transmission du livre, des changements radicaux se sont produits dans notre culture et on peut à juste titre suggérer que les auteurs pourraient désormais choisir un autre concept. Waouh ! Que dit réellement la dernière phrase du _Livre d'Urantia_ ? «**Quand tout est dit et fait, l’idée de Père reste encore le concept humain le plus élevé de Dieu.**» (<a id="a89_623"></a>[LU 196:3.35](/fr/The_Urantia_Book/196#p3_35)) C'est très différent de ce que rapporte Mace. L’expression « Quand tout est dit et fait » signifie lorsque tout ce qui peut être dit a été dit, et pas simplement lorsque nous considérons ce qui est disponible à ce moment-là.
 
-En fait, d'autres concepts humains étaient certainement à la disposition des auteurs du livre, dont le mandat est de « donner la préférence aux concepts humains existants les plus élevés relatifs aux sujets à présenter » et qui « ne peuvent recourir à la révélation pure que lorsque le concept de présentation a n’avait aucune expression préalable adéquate par l’esprit humain. ([LU 0:12.11](/fr/The_Urantia_Book/0#p12_11)) Au printemps 1993, numéro de _The Spiritual Fellowship Journal_, Matthew Block rapporte sa découverte d'un certain nombre d'ouvrages publiés qui ont évidemment servi de matériel source pour _Le Livre d'Urantia_. Block a observé que les auteurs du livre s'approprient magistralement le matériel de ces œuvres, en utilisant des idées et des expressions qui s'intègrent dans la structure et les concepts du livre, tout en éditant et en améliorant librement les passages qui ne sont pas conformes au message du livre.
+En fait, d'autres concepts humains étaient certainement à la disposition des auteurs du livre, dont le mandat est de « donner la préférence aux concepts humains existants les plus élevés relatifs aux sujets à présenter » et qui « ne peuvent recourir à la révélation pure que lorsque le concept de présentation a n’avait aucune expression préalable adéquate par l’esprit humain. (<a id="a91_379"></a>[LU 0:12.11](/fr/The_Urantia_Book/0#p12_11)) Au printemps 1993, numéro de _Journal de la Fraternité Spirituelle_, Matthew Block rapporte sa découverte d'un certain nombre d'ouvrages publiés qui ont évidemment servi de matériel source pour _Le Livre d'Urantia_. Block a observé que les auteurs du livre s'approprient magistralement le matériel de ces œuvres, en utilisant des idées et des expressions qui s'intègrent dans la structure et les concepts du livre, tout en éditant et en améliorant librement les passages qui ne sont pas conformes au message du livre.
 
-Block est récemment tombé sur le livre _The Enduring Quest : A Search for a Philosophy of Life_, de H. A. Overstreet (New York : W. W. Norton, 1931). Block a identifié de nombreux passages dans ce livre qui sont clairement mis en parallèle dans le langage et la pensée du _Livre d'Urantia_. Dans un chapitre intitulé « Dieu et l'homme moderne » se trouvent plusieurs passages qui semblent trouver des échos clairs dans les pages finales du _Livre d'Urantia_. Parmi celles-ci se trouvent les sources apparentes de « L'homme mortel a un noyau spirituel » ([LU 12:9.6](/fr/The_Urantia_Book/12#p9_6)) (Overstreet le dit : « Ce qui est le plus caractéristique de [l'homme] est qu'il est, pour ainsi dire, nucléé. [^5] ), et « Toutes les romances de l’univers humain ne sont peut-être pas des faits, mais une grande partie est vraie. » ([LU 196:3.31](/fr/The_Urantia_Book/196#p3_31)) (Cf. Overstreet sur « La vérité sur la romance de l'homme », p. 208).
+Block est récemment tombé sur le livre _The Enduring Quest : A Search for a Philosophy of Life_, de H. A. Overstreet (New York : W. W. Norton, 1931). Block a identifié de nombreux passages dans ce livre qui sont clairement mis en parallèle dans le langage et la pensée du _Livre d'Urantia_. Dans un chapitre intitulé « Dieu et l'homme moderne » se trouvent plusieurs passages qui semblent trouver des échos clairs dans les pages finales du _Livre d'Urantia_. Parmi celles-ci se trouvent les sources apparentes de « L'homme mortel a un noyau spirituel » (<a id="a93_554"></a>[LU 12:9.6](/fr/The_Urantia_Book/12#p9_6)) (Overstreet le dit : « Ce qui est le plus caractéristique de [l'homme] est qu'il est, pour ainsi dire, nucléé. [^5] ), et « Toutes les romances de l’univers humain ne sont peut-être pas des faits, mais une grande partie est vraie. » (<a id="a93_831"></a>[LU 196:3.31](/fr/The_Urantia_Book/196#p3_31)) (Cf. Overstreet sur « La vérité sur la romance de l'homme », p. 208).
 
 Dans un chapitre de _The Enduring Quest_ intitulé « Dieu et l'homme moderne » se trouvent plusieurs passages qui semblent trouver des échos clairs dans les pages finales du _Le Livre d'Urantia_. Parallèlement aux passages qui ont apparemment rencontré l'approbation des auteurs du _Livre d'Urantia_, nous trouvons ce qui suit :
 
@@ -81,14 +105,14 @@ Mace semble si déterminée à mettre à jour _Le Livre d'Urantia_ avec ses prop
 
 - Considérez cette caractérisation du Fils Éternel : « Dans le même sens que Dieu est le Père Universel, le Fils est la Mère Universelle. » (p. 79)
 - Et à la page 1289, on nous dit : « Tous les humains en évolution d'âme sont littéralement les fils évolutionnaires de Dieu le Père et de Dieu la Mère, l'Être Suprême. »
-- Ensuite, il y a « l’Esprit Mère de l’univers local ». ([LU 17:6.2](/fr/The_Urantia_Book/17#p6_2))
-- Enfin, l'une des « prières paraboliques » que Jésus a partagées avec ses apôtres contient la salutation « Père et Mère glorieux dans un seul parent réunis ». ([LU 144:5.55](/fr/The_Urantia_Book/144#p5_55))
+- Ensuite, il y a « l’Esprit Mère de l’univers local ». (<a id="a107_57"></a>[LU 17:6.2](/fr/The_Urantia_Book/17#p6_2))
+- Enfin, l'une des « prières paraboliques » que Jésus a partagées avec ses apôtres contient la salutation « Père et Mère glorieux dans un seul parent réunis ». (<a id="a108_161"></a>[LU 144:5.55](/fr/The_Urantia_Book/144#p5_55))
 
 Ces passages, et d'autres similaires, démontrent que _Le Livre d'Urantia_ indique effectivement que ce que nous pourrions appeler l'idée de « Dieu la Mère » a effectivement une place légitime. En même temps, le témoignage accablant de la révélation d’Urantia est que, en ce qui concerne la première Personne de la Trinité, « Père » est le nom le plus approprié dans le cadre de référence de notre univers mortel. Parmi les nombreux passages à l’appui que je pourrais citer, je me contenterai du suivant, écrit par un Divin Conseiller :
 
-> Chez Dieu le Père, les actes de libre arbitre ne sont ni gouvernés par son pouvoir ni guidés par le seul intellect. La divine personnalité se définit comme un esprit se manifestant aux univers en tant qu’amour. En conséquence, dans toutes ses relations personnelles avec les personnalités créées des univers, la Source-Centre Première est toujours et uniformément un Père aimant. Dieu est un Père au sens le plus élevé du terme. Il est éternellement motivé par l’idéalisme parfait de l’amour divin, et c’est dans le fait d’aimer et d’être aimé que cette tendre nature trouve sa plus forte expression et sa plus grande satisfaction. ([LU 4:4.6](/fr/The_Urantia_Book/4#p4_6))
+> Chez Dieu le Père, les actes de libre arbitre ne sont ni gouvernés par son pouvoir ni guidés par le seul intellect. La divine personnalité se définit comme un esprit se manifestant aux univers en tant qu’amour. En conséquence, dans toutes ses relations personnelles avec les personnalités créées des univers, la Source-Centre Première est toujours et uniformément un Père aimant. Dieu est un Père au sens le plus élevé du terme. Il est éternellement motivé par l’idéalisme parfait de l’amour divin, et c’est dans le fait d’aimer et d’être aimé que cette tendre nature trouve sa plus forte expression et sa plus grande satisfaction. (<a id="a112_635"></a>[LU 4:4.6](/fr/The_Urantia_Book/4#p4_6))
 
-Nous qui acceptons le Livre d'Urantia comme une révélation d'époque de la vérité divine devrions garder à l'esprit que les Conseillers Divins sont des êtres originaires de la Trinité qui « sont la perfection du conseil divin de la Trinité du Paradis ». Ils « représentent, en fait _sont_ le conseil de la perfection ». ([LU 19:3.6](/fr/The_Urantia_Book/19#p3_6)) [souligné dans l'original]
+Nous qui acceptons le Livre d'Urantia comme une révélation d'époque de la vérité divine devrions garder à l'esprit que les Conseillers Divins sont des êtres originaires de la Trinité qui « sont la perfection du conseil divin de la Trinité du Paradis ». Ils « représentent, en fait _sont_ le conseil de la perfection ». (<a id="a114_320"></a>[LU 19:3.6](/fr/The_Urantia_Book/19#p3_6)) [souligné dans l'original]
 
 ## Le conflit contemporain
 
@@ -130,6 +154,31 @@ Si l’on succombe à la pression d’une révision complète du langage traditi
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Non_Historical_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Le Jésus non historique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Historicity_of_UB">
+          <span class="pr-2">L'historicité du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

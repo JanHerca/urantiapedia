@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume7_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Confirming_and_Enlarging_the_Biblical_Message">
+          <span class="pr-2">Confirmer et élargir le message biblique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Notre culture laïque a été diversement étiquetée comme « l’ère postchrétienne », « l’ère postmoderne », « l’ère de la suspicion » et « l’ère du carnaval » où tout le monde essaie de vous attirer dans son spectacle, mais aucune attraction n’a d’importance. position privilégiée et tout est relativisé. C’est un monde très semblable à la civilisation gréco-romaine dans laquelle les apôtres de Jésus sont entrés avec leur message évangélique. Notre époque manque de fondements philosophico-religieux solides, un monde qui considère toutes les affirmations de vérité comme des questions d’opinion et les convictions morales comme des préférences personnelles.
@@ -20,6 +44,31 @@ Notre monde traverse clairement une époque de transition. Nous sommes en train 
 Il faudra peut-être des générations pour que cette nouvelle vision de la réalité spirituelle soit reconnue par les chefs religieux, et des siècles pour qu'elle transforme la culture à travers le monde. Mais la minorité créative parmi nous, tant à l’intérieur qu’à l’extérieur des institutions religieuses, découvre maintenant cette présentation élargie de la vérité à l’humanité et est les pionniers du nouvel âge de la foi évoluant dans les coulisses de l’histoire.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume7_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Confirming_and_Enlarging_the_Biblical_Message">
+          <span class="pr-2">Confirmer et élargir le message biblique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

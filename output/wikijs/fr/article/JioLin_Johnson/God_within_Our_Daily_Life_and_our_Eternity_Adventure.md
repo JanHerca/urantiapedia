@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 JoiLin Johnson<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Orchestre de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Barton/The_Man_Nobody_Knows_Part_II">
+          <span class="pr-2">L'homme que personne ne connaît. Partie II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Le 7 juin 2003, JoiLin Johnson s'est adressé à la communauté de Boulder Urantia. Ses paroles inspirées nous ont tous émus alors qu'elle racontait l'histoire de la lutte de son mari Eric pour survivre à une grave crise cardiaque. L'histoire de JoiLin est celle de la foi, de l'esprit communautaire et des voies miraculeuses de l'emprise de Dieu. Ci-dessous, nous imprimons les mots qu'elle a prononcés ce soir-là._
@@ -16,7 +40,7 @@ dateCreated: 2023-09-29T14:02:03.086Z
 > Larry Mullins
 {.is-info}
 
-> « _Le commandement efficace et sage. La civilisation dépend, dans une grande, une très grande mesure, de l’état d’esprit consistant à s’atteler à la besogne avec enthousiasme et efficacité. Dix hommes n’en valent pas beaucoup plus qu’un pour soulever un lourd fardeau, à moins qu’ils ne le soulèvent ensemble — tous en même temps. Ce travail d’équipe — la coopération sociale — dépend de la qualité des chefs. Les civilisations culturelles du passé et du présent ont été basées sur la coopération intelligente des citoyens avec des chefs sages et progressifs. Jusqu’à ce que les hommes aient atteint par évolution des niveaux plus élevés, la civilisation continuera à dépendre d’un commandement sage et vigoureux._ » ([LU 81:6.37](/fr/The_Urantia_Book/81#p6_37))
+> « _Le commandement efficace et sage. La civilisation dépend, dans une grande, une très grande mesure, de l’état d’esprit consistant à s’atteler à la besogne avec enthousiasme et efficacité. Dix hommes n’en valent pas beaucoup plus qu’un pour soulever un lourd fardeau, à moins qu’ils ne le soulèvent ensemble — tous en même temps. Ce travail d’équipe — la coopération sociale — dépend de la qualité des chefs. Les civilisations culturelles du passé et du présent ont été basées sur la coopération intelligente des citoyens avec des chefs sages et progressifs. Jusqu’à ce que les hommes aient atteint par évolution des niveaux plus élevés, la civilisation continuera à dépendre d’un commandement sage et vigoureux._ » (<a id="a42_720"></a>[LU 81:6.37](/fr/The_Urantia_Book/81#p6_37))
 
 Jusqu'à récemment, je n'avais jamais vraiment eu de raison de vraiment réfléchir au sens de la communauté et à ce qu'elle pouvait signifier pour moi : la communauté signifiait aller au culte, aux groupes d'étude et à diverses autres réunions tout au long de l'année. La plupart d'entre vous savent déjà ce que mon mari Eric a vécu au cours des 2 dernières années, mais pour ceux d'entre vous qui ne le savent pas, je vais récapituler brièvement.
 
@@ -49,3 +73,28 @@ Nous avons reçu tellement de bénédictions – tellement de miracles d’amour
 > _JoiLin lit Le Livre d'Urantia depuis 1983. Elle a été officier pour la Rocky Mountain Spiritual Fellowship et est active dans les groupes d'étude de Denver. JoiLin est un maître Reiki en travail de libération émotionnelle. JoiLin et Eric Johnson sont mariés depuis six ans et ont cinq enfants et six petits-enfants._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Saskia_Praamsma_Raevouri/Gods_Orchestra">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Orchestre de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Barton/The_Man_Nobody_Knows_Part_II">
+          <span class="pr-2">L'homme que personne ne connaît. Partie II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

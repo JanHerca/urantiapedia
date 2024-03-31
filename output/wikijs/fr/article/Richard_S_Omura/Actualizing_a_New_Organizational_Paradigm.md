@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Richard S. Omura<br>© 2004 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus et la croix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Poison_Parables_and_Paradise">
+          <span class="pr-2">Poison, paraboles et paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai exprimé mon point de vue selon lequel une organisation spirituelle basée sur les enseignements du _Livre d'Urantia_ est nécessaire pour faire progresser les vérités du livre dans la vie des hommes et des femmes de la planète, comme détaillé dans ma thèse, « Diffusion des enseignements du _Livre d'Urantia_. » Les points de discorde d'une telle organisation sont les pièges de la religion institutionnalisée dont parle le Livre d'Urantia :
@@ -32,7 +56,7 @@ J'ai exprimé mon point de vue selon lequel une organisation spirituelle basée 
 > 14. en outre, la religion formaliste crée la fâcheuse discrimination des castes religieuses, 
 > 15. elle devient un juge intolérant de l’orthodoxie, 
 > 16. elle ne réussit pas à retenir l’intérêt de la jeunesse aventureuse et elle perd graduellement le message sauveur de l’évangile de salut éternel.
-> 17. La religion officielle freine les hommes dans leurs activités spirituelles personnelles au lieu de les libérer pour un service plus élevé de bâtisseurs du royaume. <a id="a57_145"></a>[UB 99:6.3-4](/en/The_Urantia_Book/99#p6_3)
+> 17. La religion officielle freine les hommes dans leurs activités spirituelles personnelles au lieu de les libérer pour un service plus élevé de bâtisseurs du royaume. [UB 99:6.3-4](/en/The_Urantia_Book/99#p6_3)
 
 Même si les dangers sont nombreux, j’estime qu’il faudra tôt ou tard s’engager dans cette voie. Actuellement, la Fondation Urantia répond aux besoins matériels du livre, en le publiant et en le distribuant. La bourse rassemble les lecteurs dans un contexte social et crée un environnement où les idées contenues dans le livre sont discutées intellectuellement et philosophiquement. Mais, hélas, il n’existe aucune organisation pour promouvoir et développer les concepts spirituels qui font tant partie intégrante du livre.
 
@@ -77,3 +101,28 @@ Comme il est évident, ce n’est qu’une idée pour le moment et nécessite ce
 > _Richard Omura est un lecteur du _Le Livre d'Urantia_ depuis le début des années 70. Il a écrit deux livres basés sur ses concepts et organise souvent des ateliers lors des conférences de la Fellowship. Son site Web est : www.RichardOmura.com._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_and_the_Cross">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus et la croix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Poison_Parables_and_Paradise">
+          <span class="pr-2">Poison, paraboles et paradis</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

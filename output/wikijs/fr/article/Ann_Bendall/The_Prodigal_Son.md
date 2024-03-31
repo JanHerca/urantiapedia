@@ -19,11 +19,11 @@ Pas de chance ! Il y avait un frère toujours aussi sobre, égocentrique, hargne
 
 L'histoire se termine avec l'appel du père à son fils malheureux :
 
-> « Or, le père aimait sincèrement ses deux fils ; il essaya de raisonner l’ainé : ‘Mais, mon fils, tu as toujours été avec moi, et tout ce que j’ai est à toi. Tu aurais pu avoir un chevreau à tout moment si tu t’étais fait des amis pour partager ton allégresse. Il convient, aujourd’hui, que tu te joignes à moi pour être heureux et joyeux du retour de ton frère. Pense à cela, mon fils, ton frère était perdu et il est retrouvé ; il est revenu vivant auprès de nous !’ » ([LU 169:1.13](/fr/The_Urantia_Book/169#p1_13))
+> « Or, le père aimait sincèrement ses deux fils ; il essaya de raisonner l’ainé : ‘Mais, mon fils, tu as toujours été avec moi, et tout ce que j’ai est à toi. Tu aurais pu avoir un chevreau à tout moment si tu t’étais fait des amis pour partager ton allégresse. Il convient, aujourd’hui, que tu te joignes à moi pour être heureux et joyeux du retour de ton frère. Pense à cela, mon fils, ton frère était perdu et il est retrouvé ; il est revenu vivant auprès de nous !’ » (<a id="a21_474"></a>[LU 169:1.13](/fr/The_Urantia_Book/169#p1_13))
 
 J'aurais aimé que ce ne soit pas la fin de l'histoire ! Un autre court paragraphe dans lequel le fils aîné est entré et a fait un gros câlin au fils prodigue et a dit : « Eh bien, c'est bon de vous revoir à la maison ! Cela aurait été une très belle fin heureuse pour toujours. C’était une de ces histoires qui laissaient un sentiment de tristesse dans mon cœur.
 
-Maintenant, je sais que Jésus a raconté des paraboles afin que nous puissions tous obtenir ce que nous souhaitions de ce qu'elles symbolisaient. J'apprécie également qu'il ait de grands messages dans cette parabole du Fils Prodigue. Et on nous dit qu'il aimait raconter cette parabole du fils perdu, « _l’accueil du prodigue à son retour, pour montrer combien est complète la *réintégration* du fils perdu dans la maison et le cœur de son Père._ » [LU 169:1.15](/fr/The_Urantia_Book/169#p1_15)
+Maintenant, je sais que Jésus a raconté des paraboles afin que nous puissions tous obtenir ce que nous souhaitions de ce qu'elles symbolisaient. J'apprécie également qu'il ait de grands messages dans cette parabole du Fils Prodigue. Et on nous dit qu'il aimait raconter cette parabole du fils perdu, « _l’accueil du prodigue à son retour, pour montrer combien est complète la *réintégration* du fils perdu dans la maison et le cœur de son Père._ » <a id="a25_448"></a>[LU 169:1.15](/fr/The_Urantia_Book/169#p1_15)
 
 C’est pourquoi j’entreprends une version Cecilia Ann du Fils Prodigue.
 

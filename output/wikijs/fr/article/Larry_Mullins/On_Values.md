@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Larry Mullins<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plus de Psaumes aujourd'hui : Le Père Universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_7">
+          <span class="pr-2">Plus de Psaumes aujourd’hui : réalités spirituelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Platon a observé que des idées telles que la vérité, la beauté et la bonté sont plus « réelles » que le monde matériel dans lequel nous vivons. Les philosophes modernes ont généralement écarté ce concept. « Platonicien » est un terme qui signifie désormais irréaliste et idéaliste.
@@ -33,8 +57,33 @@ Les valeurs sont en effet plus réelles que la vie ordinaire, surtout plus réel
 
 > J'ai vécu près de cinquante ans et j'ai vu la vie telle qu'elle est. La misère, la douleur, la faim – une cruauté au-delà de toute croyance. J'ai entendu les chants des tavernes et les gémissements de la saleté dans les rues. J'ai été soldat et j'ai vu mes camarades tomber au combat ou mourir plus lentement sous les coups de fouet en Afrique. Je les ai tenus dans mes bras dans les derniers instants. C'étaient des hommes qui voyaient la vie telle qu'elle est, et pourtant ils sont morts désespérés. Pas de mots courageux, pas de paroles galantes. Seulement dans leurs yeux une confusion et une question gémissante : « Pourquoi ? Je ne pense pas qu'ils aient demandé pourquoi ils mouraient, mais pourquoi ils avaient vécu. Quand la vie elle-même semble folle, qui sait où réside la folie ? Trop de bon sens peut être de la folie ! Abandonner les rêves, cela peut être de la folie. Chercher un trésor là où il n'y a que des déchets. Mais le plus fou, c’est de voir la vie telle qu’elle est, et non telle qu’elle devrait être !
 
-Ainsi, nous pouvons comprendre la nouvelle vérité passionnante que Jésus a enseignée aux apôtres, et que seul Jacques a d'abord comprise : Ils devaient vivre leur vie comme s'ils étaient les ambassadeurs d'un glorieux royaume terrestre de lumière et de vie *** qui existe déjà *** _. ([LU 140:8.25](/fr/The_Urantia_Book/140#p8_25)) Tous les vrais membres du royaume de Dieu devraient vivre comme de tels nobles ambassadeurs, car l'Évangile de Jésus nous révèle que la famille spirituelle du Père se trouve dans l'éternel présent.
+Ainsi, nous pouvons comprendre la nouvelle vérité passionnante que Jésus a enseignée aux apôtres, et que seul Jacques a d'abord comprise : Ils devaient vivre leur vie comme s'ils étaient les ambassadeurs d'un glorieux royaume terrestre de lumière et de vie *** qui existe déjà *** _. (<a id="a59_285"></a>[LU 140:8.25](/fr/The_Urantia_Book/140#p8_25)) Tous les vrais membres du royaume de Dieu devraient vivre comme de tels nobles ambassadeurs, car l'Évangile de Jésus nous révèle que la famille spirituelle du Père se trouve dans l'éternel présent.
 
 > _Larry Mullins est consultant en publicité et marketing. Il est l'auteur de « Les gens immatures avec pouvoir » et « Jésus : Dieu et l'homme »._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_6">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plus de Psaumes aujourd'hui : Le Père Universel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_7">
+          <span class="pr-2">Plus de Psaumes aujourd’hui : réalités spirituelles</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

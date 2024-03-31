@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Earth_Currents_by_by_Howard_A_Snyder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Earth Currents de Howard A. Snyder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Les collaborateurs de Dieu
@@ -115,3 +136,25 @@ ascendant et suprématie de l'univers ! (131)
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Earth_Currents_by_by_Howard_A_Snyder">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Earth Currents de Howard A. Snyder</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

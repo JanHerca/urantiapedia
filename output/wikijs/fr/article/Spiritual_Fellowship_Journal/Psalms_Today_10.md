@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : et si des extraterrestres avaient atterri ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="pr-2">Un groupe de soutien spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Heureux ceux qui suivent les conseils de la sagesse,
@@ -33,3 +57,28 @@ au milieu de leur vie, ils sont épuisés et désolés.
 L’ordre cosmique éternel soutient les justes ;
 mais les égocentriques et les impies périront.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/What_if_Aliens_Have_Landed">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : et si des extraterrestres avaient atterri ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="pr-2">Un groupe de soutien spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

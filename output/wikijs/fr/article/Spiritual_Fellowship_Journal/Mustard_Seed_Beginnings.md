@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/How_is_Society_Enculturated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment la société est-elle inculturée ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="pr-2">Interface : Pouvons-nous, devrions-nous, nous organiser ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Père Universel, nous te remercions pour ton merveilleux
@@ -55,3 +79,28 @@ création finie. Nous sommes heureux d'être vos enfants
 dans le temps et dans l'éternité.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/How_is_Society_Enculturated">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment la société est-elle inculturée ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="pr-2">Interface : Pouvons-nous, devrions-nous, nous organiser ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

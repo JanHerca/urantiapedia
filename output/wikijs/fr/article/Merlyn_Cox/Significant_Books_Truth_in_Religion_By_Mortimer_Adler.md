@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Merlyn Cox<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques citations du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="pr-2">Livres importants : « Dieu et la religion dans le monde postmoderne » par David Ray Gritlin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Macmillan, 1990, 162 pages.
@@ -48,6 +72,31 @@ Une autre façon de le dire, je crois, est que même si toute compréhension hum
 J'attends avec impatience son prochain ouvrage dans lequel il partagera ses propres convictions personnelles en matière de foi et de vérité religieuse - le point culminant de l'œuvre de sa propre vie et, je suppose, de sa propre recherche de la vérité.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quelques citations du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="pr-2">Livres importants : « Dieu et la religion dans le monde postmoderne » par David Ray Gritlin</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

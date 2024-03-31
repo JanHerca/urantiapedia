@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="pr-2">Une ère de transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 7, numéro 1, printemps 1997
@@ -68,7 +89,7 @@ Nancy Long
 Marvel Zuercher
 Paul Zuercher
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of _The Urantia Book_ de Fort Wayne, Indiana.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of _The Urantia Book_ de Fort Wayne, Indiana.
 
 Les commandes d’abonnement, les changements d’adresse et la correspondance éditoriale doivent être envoyés à :
 
@@ -124,3 +145,25 @@ L'édition Uversa Press du _Le Livre d'Urantia_, l'édition Pathways de La vie e
 
 Une _Concordance du Livre d'Urantia_ exhaustive a été publiée par la Fondation Urantia en 1993. Si votre librairie locale ne propose pas _Le Livre d'Urantia_ ou _La Concordance du Livre d'Urantia_, ils peuvent être commandés auprès de la Fondation Urantia, 533 Diversey Parkway, Chicago, IL 60614 (1- 888-872-6842). La Fondation Urantia publie également des éditions française, espagnole et finlandaise du _Le Livre d'Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/An_Age_of_Transition">
+          <span class="pr-2">Une ère de transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

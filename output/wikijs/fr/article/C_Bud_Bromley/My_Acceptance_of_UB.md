@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Bud Bromley<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Ambiguities_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ambiguïtés du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="pr-2">Voici, je fais une chose nouvelle !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Une lecture chrétienne du _Livre d'Urantia_ se heurte à un certain nombre de façons par lesquelles il est entièrement en accord avec les enseignements de Jésus tels qu'ils sont consignés dans la Bible. Mais il est également en désaccord sur plusieurs points avec la théologie orthodoxe, notamment avec certains points de la théologie paulinienne. Puisque les chrétiens orthodoxes et les étudiants du _Livre d'Urantia_ soutiennent Jésus de Nazareth, le Fils de Dieu, comme le sauveur du monde, il semble raisonnable que nous essayions de comprendre les points de vue de chacun dans le but de travailler ensemble, autant que possible, contre le effondrement mondial de la moralité intelligente.
@@ -31,7 +55,7 @@ Renforçant davantage cette prémisse, Jésus nous dit ([Jean 15 :12](/fr/Bible/
 
 Quand j'ai découvert _Le Livre d'Urantia_ pour la première fois, j'étais extrêmement sceptique. Une nouvelle révélation ? J'avais étudié l'Islam. J'avais examiné les croyances bahaïes. J'avais enquêté sur le mormonisme. J'avais inspecté la Bible Oahspi. Même si chacun avait quelques points positifs, tous étaient, à mon avis, clairement inférieurs aux enseignements de Jésus trouvés dans la Bible. Voilà pour les nouvelles révélations ; ils viennent, ils partent ; et alors? Mais ensuite j'ai lu dans _Le Livre d'Urantia_ :
 
-> L’idée barbare d’apaiser un Dieu courroucé, de se rendre favorable un Seigneur offensé, de gagner les faveurs de la Déité par des sacrifices, des pénitences, et même en versant du sang, représente une religion totalement puérile et primitive, une philosophie indigne d’un âge éclairé par la science et la vérité. De telles croyances sont absolument répugnantes pour les êtres célestes et les chefs divins qui servent et règnent dans les univers. C’est un affront à Dieu de croire, de soutenir ou d’enseigner qu’il faut verser du sang innocent pour gagner ses faveurs ou détourner une colère divine fictive. ([LU 4:5.4](/fr/The_Urantia_Book/4#p5_4))
+> L’idée barbare d’apaiser un Dieu courroucé, de se rendre favorable un Seigneur offensé, de gagner les faveurs de la Déité par des sacrifices, des pénitences, et même en versant du sang, représente une religion totalement puérile et primitive, une philosophie indigne d’un âge éclairé par la science et la vérité. De telles croyances sont absolument répugnantes pour les êtres célestes et les chefs divins qui servent et règnent dans les univers. C’est un affront à Dieu de croire, de soutenir ou d’enseigner qu’il faut verser du sang innocent pour gagner ses faveurs ou détourner une colère divine fictive. (<a id="a57_610"></a>[LU 4:5.4](/fr/The_Urantia_Book/4#p5_4))
 
 J’étais profondément ému – j’avais envie que quelqu’un ose dire ça ! Ce livre ne parlait pas d’un petit Dieu ! Et depuis, je le lis avec une acceptation croissante. Je ne pense pas avoir jamais laissé _Le Livre d'Urantia_ contraindre ma pensée. Cependant, j'ai souvent été ravi de constater que les concepts qu'il contient sont soit parallèles aux idées que j'ai envisagées, soit, le plus souvent, sont meilleurs que ce que j'avais conçu, ce qui est à la fois passionnant et humiliant.
 
@@ -80,6 +104,31 @@ En conclusion, il me semble que l’unité dans le Christ devrait être plus imp
 >_C. Bud Bromley est programmeur informatique et professeur d'université, aujourd'hui à la retraite. Bud est un étudiant du Livre d'Urantia depuis de nombreuses années.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Ambiguities_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ambiguïtés du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_Behold_I_Am_Doing_a_New_Thing">
+          <span class="pr-2">Voici, je fais une chose nouvelle !</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

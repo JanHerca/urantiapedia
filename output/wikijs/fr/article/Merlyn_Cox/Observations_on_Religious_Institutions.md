@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Merlyn Cox<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/A_Transition_Period">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une période de transition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="pr-2">Mystères quantiques et fascicules Urantia : Partie II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Après ma récente retraite, je n'ai pas pu m'empêcher de réfléchir aux trente-cinq dernières années et aux joies et frustrations d'être impliqué dans l'Église institutionnelle. Au cours des premières années, j’ai abordé l’administration avec beaucoup d’enthousiasme et je me suis plongé dans les tâches à accomplir avec beaucoup d’enthousiasme. Une fois, j’ai assisté à au moins une réunion chaque soir pendant quarante jours consécutifs. Mon enthousiasme s’est un peu atténué et j’ai réalisé que je ne rendais probablement pas service à l’Église en m’épuisant. Néanmoins, j’ai pris l’administration au sérieux, comme l’implique son sens fondamental – exercer un ministère ou exercer un ministère – et j’ai ressenti le lien entre une planification sérieuse et la possibilité de partager l’amour de Dieu avec ses enfants.
@@ -24,3 +48,28 @@ Alors pourquoi est-ce que je partage cela à un moment où nous travaillons à l
 > _Merlyn Cox a récemment pris sa retraite de son poste de pasteur au sein de la Conférence du Nord de l'Indiana de l'Église Méthodiste Unie. Il est lecteur du Livre d'Urantia depuis 18 ans et a travaillé avec Meredith Sprunger pour lancer le Spiritual Fellowship Journal en 1991, et a servi pendant dix ans comme rédacteur associé. Il est membre du conseil d'administration et président de l'équipe éducative de The Spiritual Fellowship._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/A_Transition_Period">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une période de transition</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_II">
+          <span class="pr-2">Mystères quantiques et fascicules Urantia : Partie II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

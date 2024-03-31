@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Merlyn Cox<br>© 2006 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume16_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2006-dernier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2006 — Dernier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Christianity_in_Transition">
+          <span class="pr-2">Le christianisme en transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Communauté Urantia est une communauté diversifiée, riche en talents et complexe. À mesure qu’elle continue de croître, elle le deviendra sûrement encore davantage. Cela peut être à la fois une source de satisfaction et une certaine consternation, car même si je suis impressionné par les dons et les grâces des individus de la communauté, je suis parfois consterné par le manque d'unité et de vision commune. En réalité, cela ne devrait pas surprendre ; Idéalement, c’est décevant et même parfois décourageant.
@@ -50,3 +74,28 @@ Je crois cependant que nous pouvons, dans l’amour, grandir pour comprendre et 
 - Lee Loots examine le processus et « l'art de l'éducation », avec des suggestions pour les dirigeants des groupes d'éducation et d'étude d'Urantia.
 - Richard Bain explore les questions et les problèmes qui se posent lorsque les lecteurs cherchent à comprendre la cosmologie du _Le Livre d'Urantia_ — dans ce cas, la relation entre la Voie Lactée et le superunivers d'Orvonton.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume16_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2006-dernier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2006 — Dernier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Christianity_in_Transition">
+          <span class="pr-2">Le christianisme en transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

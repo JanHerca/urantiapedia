@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/On_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les valeurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bienheureux sont ceux qui atteignent la conscience de Dieu, car ils sont capables de voir la dimension spirituelle de la Réalité.
@@ -37,3 +58,25 @@ Une connaissance approfondie du Suprême nous donne une assurance inébranlable
 
 alors que les sécurités terrestres s’effondrent. (128)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/On_Values">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sur les valeurs</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

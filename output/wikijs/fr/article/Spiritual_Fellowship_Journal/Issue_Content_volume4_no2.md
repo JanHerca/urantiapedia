@@ -1,5 +1,5 @@
 ---
-title: "Spiritual Fellowship Journal — Contenu du numéro, automne 1994"
+title: "Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1994"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Renewal_of_Theology">
+          <span class="pr-2">Le renouveau de la théologie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 4, numéro 2, automne 1994
@@ -70,7 +91,7 @@ Everett Sloffer
 Marvel Zuercher
 Paul Zuercher
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of _The Urantia Book_ de Fort Wayne, Indiana.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of _The Urantia Book_ de Fort Wayne, Indiana.
 
 Les commandes d’abonnement, les changements d’adresse et la correspondance éditoriale doivent être envoyés à :
 
@@ -131,3 +152,25 @@ Dr. Duane L. Faw, professeur émérite de droit à la faculté de droit de l'Uni
 
 Une _Concordance du Livre d'Urantia_ exhaustive a été publiée par la Fondation Urantia en 1993. Si votre librairie locale ne propose pas le _Le Livre d'Urantia_ ou la _Concordance du Livre d'Urantia_, ils peuvent être commandés auprès de la Fondation Urantia, 533 Diversey Parkway, Chicago, IL 60614. L'Urantia La Fondation publie également des éditions française, espagnole et finlandaise du _Le Livre d'Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Renewal_of_Theology">
+          <span class="pr-2">Le renouveau de la théologie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

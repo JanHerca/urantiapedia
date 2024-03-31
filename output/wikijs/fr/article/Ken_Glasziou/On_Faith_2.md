@@ -43,7 +43,7 @@ Quand la théologie maîtrise la religion, la religion meurt ; cela devient une 
 
 Dans la philosophie supérieure de l’univers, la sagesse, comme la raison, s’allie à la foi. La raison, la sagesse et la foi sont les plus hautes réalisations humaines de l’homme. La raison introduit l'homme au monde des faits, aux choses ; la sagesse l'introduit dans un monde de vérité, dans des relations ; la foi l'initie à un monde de divinité, d'expérience spirituelle.
 
-> « Mais, pour vous, mes enfants, et pour tous ceux qui voudront vous suivre dans ce royaume, une sévère épreuve est instaurée : la foi seule vous permettra de franchir ses portes mais il vous faudra produire les fruits de l’esprit de mon Père si vous souhaitez poursuivre l’ascension dans la vie progressive de la communauté divine. ([LU 140:1.4](/fr/The_Urantia_Book/140#p1_4))
+> « Mais, pour vous, mes enfants, et pour tous ceux qui voudront vous suivre dans ce royaume, une sévère épreuve est instaurée : la foi seule vous permettra de franchir ses portes mais il vous faudra produire les fruits de l’esprit de mon Père si vous souhaitez poursuivre l’ascension dans la vie progressive de la communauté divine. (<a id="a45_335"></a>[LU 140:1.4](/fr/The_Urantia_Book/140#p1_4))
 
 Jésus a mis l'accent sur ce qu'il appelle les deux vérités de première importance dans les enseignements du royaume, à savoir : l'obtention du salut par la foi, et la foi seule, associée à l'enseignement révolutionnaire de l'acquisition de la liberté humaine par la foi sincère. reconnaissance de la vérité : « Vous connaîtrez la vérité, et la vérité vous affranchira ».
 

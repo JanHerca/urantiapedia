@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Helena E. Sprague<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Interface_A_New_Revelation_Who_needs_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : une nouvelle révélation ? Qui en a besoin ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="pr-2">Le clergé évalue le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Cette fonctionnalité est écrite par des laïcs actifs dans leur église-_
@@ -36,9 +60,9 @@ Le livre raconte l'expérience « ordinaire » des « années cachées » de Jé
 
 Herman Fiefel dans _New Meanings of Death_ remarque : « ...on se demande si, en dernière analyse, il ne s'agit que d'un message convaincant.
 
-La vision du _The Spiritual Fellowship Journal_ de l'homme et de son rôle dans l'univers qui peut nous préparer à faire face à la certitude de la mort et de ses séquelles, vision logique et convaincante de la mort comme une transition vers un autre niveau de réalité, une étape dans l'expérience d'une personnalité humaine durable trouvant Dieu. Nous choisissons ce voyage à travers nos choix de toute une vie, nos décisions de libre arbitre pour chercher à faire sa volonté ; nous emportent nos valeurs et nos relations. Dieu nous accompagne de son esprit et entoure chacun de nous de forces et de personnalités célestes pour enseigner, guider et réconforter. En tant que parent véritablement aimant, il ne se livre ni ne punit, mais nous enveloppe tous d'affection. à mesure que nous grandissons dans notre compréhension de ses enseignements et dans la force de notre foi.
+La vision du _Journal de la Fraternité Spirituelle_ de l'homme et de son rôle dans l'univers qui peut nous préparer à faire face à la certitude de la mort et de ses séquelles, vision logique et convaincante de la mort comme une transition vers un autre niveau de réalité, une étape dans l'expérience d'une personnalité humaine durable trouvant Dieu. Nous choisissons ce voyage à travers nos choix de toute une vie, nos décisions de libre arbitre pour chercher à faire sa volonté ; nous emportent nos valeurs et nos relations. Dieu nous accompagne de son esprit et entoure chacun de nous de forces et de personnalités célestes pour enseigner, guider et réconforter. En tant que parent véritablement aimant, il ne se livre ni ne punit, mais nous enveloppe tous d'affection. à mesure que nous grandissons dans notre compréhension de ses enseignements et dans la force de notre foi.
 
-Il est rappelé à l'Église que sa mission peut être paralysée par la rigidité et l'importance excessive accordée à l'organisation. Le royaume des cieux que Jésus a enseigné est la communion invisible, intérieure et sans frontières de _tous_ les croyants en la paternité de Dieu, la parenté de l'humanité et la survie de la personnalité dans un univers amical. Une organisation religieuse est une communauté sociale et visible de croyants. Dans ce document, Jésus « enseignant à perfectionner votre vie spirituelle intérieure de manière à vous rendre infiniment plus compétents pour attaquer la solution de vos problèmes purement humains ». ([LU 140:8.17](/fr/The_Urantia_Book/140#p8_17))
+Il est rappelé à l'Église que sa mission peut être paralysée par la rigidité et l'importance excessive accordée à l'organisation. Le royaume des cieux que Jésus a enseigné est la communion invisible, intérieure et sans frontières de _tous_ les croyants en la paternité de Dieu, la parenté de l'humanité et la survie de la personnalité dans un univers amical. Une organisation religieuse est une communauté sociale et visible de croyants. Dans ce document, Jésus « enseignant à perfectionner votre vie spirituelle intérieure de manière à vous rendre infiniment plus compétents pour attaquer la solution de vos problèmes purement humains ». (<a id="a64_640"></a>[LU 140:8.17](/fr/The_Urantia_Book/140#p8_17))
 
 _Le Livre d'Urantia_ démontre qu'une véritable révélation est possible en ces temps sans autorité ecclésiastique, sans ego, sans publicité, sans pouvoir, sans profit ou sans « preuve » dans les phénomènes. Cela rend compréhensible beaucoup de choses qui ont été abstraites, insaisissables et mystérieuses ; il comble les lacunes des documents et offre des motifs raisonnables pour réinterpréter ou éliminer certains d'entre eux. Il existe des conseils pratiques pour vivre avec les problèmes des riches et des pauvres, de l'autoglorification, de la famille et du rôle parental, de la violence personnelle et politique. Il existe des explications plausibles sur l'origine de l'humanité, le rôle de cette planète et notre destinée ultime, ainsi que sur le désordre et la confusion actuels du monde. L'incarnation d'un Fils de Dieu s'inscrit dans un contexte cosmique cohérent avec notre ère spatiale, réconfortant chaque personne en apportant une nouvelle intimité avec Jésus en tant qu'être divin ayant vécu une vie pleinement humaine.
 
@@ -46,3 +70,28 @@ La façon dont les ministres peuvent choisir d'ouvrir la voie à la contribution
 
 Tout en niant l'infaillibilité ou la finalité, _Le Livre d'Urantia_ présente une étape importante dans l'évolution intellectuelle et spirituelle de la planète. Cette ressource remarquable peut nous aider à approfondir notre foi personnelle dans la mesure où elle est tissée dans nos vies par une recherche solitaire, dans des groupes d'étude ou dans toute église qui s'engage avec sérieux et flexibilité à nourrir la foi comme une tâche de développement.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Interface_A_New_Revelation_Who_needs_it">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : une nouvelle révélation ? Qui en a besoin ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Clergy_Evaluate_the_Urantia_Book">
+          <span class="pr-2">Le clergé évalue le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

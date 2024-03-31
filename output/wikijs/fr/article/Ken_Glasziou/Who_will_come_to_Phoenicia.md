@@ -41,7 +41,7 @@ Pour les dieux des religions autoritaires, la nature de ces dieux est l’invent
 
 Mais la nature du Dieu de la religion de l’esprit ne peut être connue que par révélation.
 
-La révélation peut venir par de nombreuses voies différentes. Une caractéristique qu'il doit toujours avoir est qu'il est reconnaissable par la foi, et par la foi seule. La révélation n’est jamais autoritaire en soi. Comment est-ce possible ? Car « Dieu a décrété la souveraineté de la volonté matérielle et mortelle et ce décret est absolu ». ([LU 5:6.8](/fr/The_Urantia_Book/5#p6_8))
+La révélation peut venir par de nombreuses voies différentes. Une caractéristique qu'il doit toujours avoir est qu'il est reconnaissable par la foi, et par la foi seule. La révélation n’est jamais autoritaire en soi. Comment est-ce possible ? Car « Dieu a décrété la souveraineté de la volonté matérielle et mortelle et ce décret est absolu ». (<a id="a43_345"></a>[LU 5:6.8](/fr/The_Urantia_Book/5#p6_8))
 
 Ainsi, l’autorité de la véritable révélation, donc la religion de l’esprit, découle du libre choix de l’individu – et son acceptation se fait uniquement par la foi de cet individu.
 
@@ -51,7 +51,7 @@ L’un des critères d’une religion autoritaire est le fondamentalisme qui acc
 
 La religion autoritaire profite apparemment à deux grandes classes d’adhérents, l’une étant celle de ceux qui exercent le pouvoir et l’autorité, l’autre étant celle des individus pour qui elle constitue un refuge facile vers lequel « l’âme distraite et désemparée de l’homme peut fuir lorsqu’elle est harcelée par la peur et tourmentée ». par l’incertitude.
 
-> « L’acceptation des religions traditionnelles d’autorité offre un exutoire facile au besoin qu’ont les hommes de satisfaire les ardents désirs de leur nature spirituelle. Les religions d’autorité, bien assises, cristallisées et établies, fournissent un refuge tout prêt où l’âme humaine angoissée et bouleversée peut se réfugier quand elle est assaillie de craintes et tourmentée d’incertitudes. Comme prix à payer pour les satisfactions et les assurances qu’elle donne, une telle religion n’exige de ses dévots qu’un assentiment passif et purement intellectuel. » ([LU 155:5.9](/fr/The_Urantia_Book/155#p5_9))
+> « L’acceptation des religions traditionnelles d’autorité offre un exutoire facile au besoin qu’ont les hommes de satisfaire les ardents désirs de leur nature spirituelle. Les religions d’autorité, bien assises, cristallisées et établies, fournissent un refuge tout prêt où l’âme humaine angoissée et bouleversée peut se réfugier quand elle est assaillie de craintes et tourmentée d’incertitudes. Comme prix à payer pour les satisfactions et les assurances qu’elle donne, une telle religion n’exige de ses dévots qu’un assentiment passif et purement intellectuel. » (<a id="a53_568"></a>[LU 155:5.9](/fr/The_Urantia_Book/155#p5_9))
 
 Toute forme de fondamentalisme qui revendique l’autorité divine et/ou l’infaillibilité de son système de croyance ne peut être autre chose qu’une religion autoritaire, aussi bien déguisée soit-elle.
 

@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:12:18Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Ken Glasziou<br>© 1998 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-Puisque le mandat des révélateurs les empêchait de nous donner des connaissances non acquises, ([LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)) il s'ensuit que le niveau d'information scientifique dans les articles ne devrait pas inclure des informations encore non découvertes au milieu des années 1930. L’exception est que les « lacunes manquantes » pourraient être comblées ou les « connaissances perdues » essentielles restaurées.
+Puisque le mandat des révélateurs les empêchait de nous donner des connaissances non acquises, (<a id="a13_96"></a>[LU 101:4.1](/fr/The_Urantia_Book/101#p4_1)) il s'ensuit que le niveau d'information scientifique dans les articles ne devrait pas inclure des informations encore non découvertes au milieu des années 1930. L’exception est que les « lacunes manquantes » pourraient être comblées ou les « connaissances perdues » essentielles restaurées.
 
 En adoptant une vision large de ces exceptions, nos révélateurs surhumains auraient facilement pu démontrer que leur niveau de connaissance scientifique dépassait de loin celui des humains au milieu des années 1930. Ce faisant, ils auraient alors pu démontrer un statut révélateur pour les Papers.
 
@@ -25,7 +25,7 @@ Les auteurs des articles comprennent bien la nature humaine. Ils seraient consci
 
 Je crois que nous avons reçu des informations clés dans le but d’aider ceux qui recherchent le type de vérité des révélateurs. Mais ils fournissent cette information d’une manière qui permet également son rejet par ceux qui cherchent les moyens de le rejeter.
 
-La raison de cette approche bivalente peut être liée à la déclaration dans les Cahiers selon laquelle notre libre arbitre est pratiquement inviolable. Dieu nous a doté d’un libre arbitre relatif à un niveau fini, et même Dieu lui-même ne nous l’enlèvera pas. ([LU 118:6.4](/fr/The_Urantia_Book/118#p6_4)) De plus, c’est seulement par la foi que nous pouvons entrer dans le royaume de Dieu. ([LU 140:1.4](/fr/The_Urantia_Book/140#p1_4)) Et nous ne pouvons pas avoir la foi sans incertitude, car s'il y a certitude, il ne pourrait y avoir aucune raison d'avoir foi.
+La raison de cette approche bivalente peut être liée à la déclaration dans les Cahiers selon laquelle notre libre arbitre est pratiquement inviolable. Dieu nous a doté d’un libre arbitre relatif à un niveau fini, et même Dieu lui-même ne nous l’enlèvera pas. (<a id="a27_260"></a>[LU 118:6.4](/fr/The_Urantia_Book/118#p6_4)) De plus, c’est seulement par la foi que nous pouvons entrer dans le royaume de Dieu. (<a id="a27_391"></a>[LU 140:1.4](/fr/The_Urantia_Book/140#p1_4)) Et nous ne pouvons pas avoir la foi sans incertitude, car s'il y a certitude, il ne pourrait y avoir aucune raison d'avoir foi.
 
 Cet article est une mise à jour de deux publications antérieures et plus détaillées sur la science, l'anthropologie et l'archéologie des Articles.1, 2 En cela, je propose de décrire uniquement les éléments de connaissance qui, pour moi, vérifient que les Articles sont tous qu'ils prétendent l'être. J’ai également l’intention de souligner quelques-unes des voies de sortie possibles pour les rejeter.
 

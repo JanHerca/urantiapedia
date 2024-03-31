@@ -103,7 +103,7 @@ Tout comme les familles terrestres sont fondées sur la tolérance, la patience,
 
 Le Maître était un parfait spécimen de maîtrise de soi humaine. Lorsqu’il était injurié, il ne l’insultait pas ; quand il souffrait, il ne proférait aucune menace ; lorsqu'il a été dénoncé, il s'est simplement soumis au juste jugement du Père.
 
-> “Mais je viens avec un nouveau message d’oubli de soi et de maitrise de soi. Je vous montre le chemin de la vie tel que mon Père qui est aux cieux me l’a révélé. ... Par votre amour réciproque, vous allez convaincre le monde que vous êtes passés de l’esclavage à la liberté, de la mort à la vie éternelle.” (<a id="a122_255"></a>[LU 143:2.2-3](/fr/The_Urantia_Book/143#p2_2))
+> “Mais je viens avec un nouveau message d’oubli de soi et de maitrise de soi. Je vous montre le chemin de la vie tel que mon Père qui est aux cieux me l’a révélé. ... Par votre amour réciproque, vous allez convaincre le monde que vous êtes passés de l’esclavage à la liberté, de la mort à la vie éternelle.” (<a id="a105_310"></a>[LU 143:2.2-3](/fr/The_Urantia_Book/143#p2_2))
 
 ## Fonction de l'esprit intérieur
 

@@ -15,9 +15,9 @@ Si l’on dit qu’un être humain est bon, cela signifie qu’il possède certa
 
 Dans Euthyphron de Platon, Socrate est représenté en dialogue avec un jeune homme, Euthyphron, et la question est de savoir si les dieux veulent ce qui est bon indépendamment de leur volonté, ou si ce qu’ils veulent est bon simplement parce qu’ils le veulent.
 
-> Toute connaissance finie et toute compréhension par des créatures sont *relatives.* Toute information, tous renseignements, même glanés à des sources élevées, ne sont que relativement complets, localement exacts et personnellement vrais. ([LU 2:7.1](/fr/The_Urantia_Book/2#p7_1))
+> Toute connaissance finie et toute compréhension par des créatures sont *relatives.* Toute information, tous renseignements, même glanés à des sources élevées, ne sont que relativement complets, localement exacts et personnellement vrais. (<a id="a17_241"></a>[LU 2:7.1](/fr/The_Urantia_Book/2#p7_1))
 
-> La religion, dans sa véritable essence, est une foi faite de confiance dans la bonté de Dieu. ([LU 2:6.1](/fr/The_Urantia_Book/2#p6_1))
+> La religion, dans sa véritable essence, est une foi faite de confiance dans la bonté de Dieu. (<a id="a19_97"></a>[LU 2:6.1](/fr/The_Urantia_Book/2#p6_1))
 
 ## Le dilemme d'Euthyphro
 
@@ -81,9 +81,9 @@ Ce sont toutes des choses différentes. Une chose est bonne dans la mesure où e
 
 En dernière analyse, l’analogie permet d’appliquer un langage tiré de notre univers spatio-temporel à un Dieu intemporel et sans espace et de tenir pour vrai ce langage – mais le contenu de ce langage est extrêmement limité.
 
-> Le séjour des mortels sur terre acquit de nouvelles significations comme conséquences de la reconnaissance d’une noble destinée. ([LU 170:2.7](/fr/The_Urantia_Book/170#p2_7))
+> Le séjour des mortels sur terre acquit de nouvelles significations comme conséquences de la reconnaissance d’une noble destinée. (<a id="a83_132"></a>[LU 170:2.7](/fr/The_Urantia_Book/170#p2_7))
 
-> ... le royaume des cieux était leur expérience personnelle consistant à réaliser les qualités supérieures de la vie spirituelle, ([LU 170:2.16](/fr/The_Urantia_Book/170#p2_16))
+> ... le royaume des cieux était leur expérience personnelle consistant à réaliser les qualités supérieures de la vie spirituelle, (<a id="a85_132"></a>[LU 170:2.16](/fr/The_Urantia_Book/170#p2_16))
 
 ## Métaphore
 
@@ -117,13 +117,13 @@ Cela peut également conduire à une vision anthropomorphique de Dieu car, si Di
 
 [Cet article est paru dans le Catéchist Newsletter publié par Brisbane Catholic Education.]
 
-[Commentaires : Cahier d'Urantia #2 « La Nature de Dieu » nous informe que « la plus éclairante et spirituellement édifiante de toutes les révélations de la nature divine se trouve dans la compréhension de la vie religieuse de Jésus de Nazareth. » ([LU 2:0.2](/fr/The_Urantia_Book/2#p0_2)) Le livre dit également : « Bien que Jésus ait révélé la vraie nature du Père céleste dans sa vie terrestre, il a peu enseigné sur lui. En fait, il n’a enseigné que deux choses : que Dieu en lui-même est esprit et que, dans toutes les relations avec ses créatures, il est Père. »
+<a id="a119_0"></a>[Commentaires : Cahier d'Urantia #2 « La Nature de Dieu » nous informe que « la plus éclairante et spirituellement édifiante de toutes les révélations de la nature divine se trouve dans la compréhension de la vie religieuse de Jésus de Nazareth. » ([LU 2:0.2](/fr/The_Urantia_Book/2#p0_2)) Le livre dit également : « Bien que Jésus ait révélé la vraie nature du Père céleste dans sa vie terrestre, il a peu enseigné sur lui. En fait, il n’a enseigné que deux choses : que Dieu en lui-même est esprit et que, dans toutes les relations avec ses créatures, il est Père. »
 
 L'évangile de Jean ([14:9](/fr/Bible/John/14#v9)) rapporte que Jésus a prononcé des paroles telles que : « Celui qui m'a vu a vu le Père. » et dans [14:11](/fr/Bible/John/14#v11), « Je suis dans le Père et le Père est en moi. » Le christianisme a généralement une ferme croyance en la divinité de Jésus, donc combinée avec les preuves de l'évangile de Jean, il est difficile de concevoir comment la vie de Jésus peut être interprétée autrement que comme une révélation de la nature de Dieu - _ce qui signifie qu'il y a des choses que nous pouvons savoir sur Dieu_. »
 
 Il apparaît donc que la redécouverte de la logique aristotélicienne dans le monde occidental au XIIIe siècle, et son application ultérieure à la théologie chrétienne, ont pu avoir d'énormes effets délétères sur la spiritualisation progressive des chrétiens.]
 
-> De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. (<a id="a125_158"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 ## Liens externes
 

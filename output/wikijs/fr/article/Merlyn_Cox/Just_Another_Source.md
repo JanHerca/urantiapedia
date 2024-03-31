@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Merlyn Cox<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Lessons_of_History">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les leçons de l’histoire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Herrick/The_Adventure_Has_Begun">
+          <span class="pr-2">L'aventure a commencé</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai récemment parlé avec un ami qui était intéressé à obtenir une copie du _Le Livre d'Urantia_. Je lui avais déjà fait part de l'opinion selon laquelle beaucoup de gens ont du mal à aborder le livre avec un esprit critique mais ouvert. Sa réponse a été que « c’était juste une autre source ».
@@ -17,7 +41,7 @@ J'ai trouvé le commentaire rafraîchissant. De nombreuses personnes engagées d
 
 Une telle peur, je crois, a contribué à entretenir l’attitude idolâtre de nombreux chrétiens à l’égard des Écritures. Cependant, il existe également un danger que les lecteurs du Livre d'Urantia tombent dans le même genre d'idolâtrie. Aussi impressionné que nous puissions être par son contenu, aussi faisant autorité et convaincant que nous puissions le trouver, il n'y a aucune prétention à la perfection et aucun anathème ou avertissement adressé à ceux qui voudraient le critiquer. En effet, il invite à une réflexion critique et souligne que la vérité est là où elle se trouve.
 
-Tout au long du _Livre d'Urantia_, il y a de nombreux commentaires de la part des auteurs tels que « nous ne sommes pas sûrs, mais nous pensons... » ou « Nous ne savons tout simplement pas... ». Il prétend certainement provenir de sources élevées et que le contenu spirituel de son message résistera à l'épreuve du temps. Mais cela invite aussi clairement à une interaction réfléchie et à des critiques. Comme Jésus aurait dit à ses adversaires et à ses défenseurs : « La vérité ne souffre jamais d’un examen honnête. » ([LU 153:2.11](/fr/The_Urantia_Book/153#p2_11))
+Tout au long du _Livre d'Urantia_, il y a de nombreux commentaires de la part des auteurs tels que « nous ne sommes pas sûrs, mais nous pensons... » ou « Nous ne savons tout simplement pas... ». Il prétend certainement provenir de sources élevées et que le contenu spirituel de son message résistera à l'épreuve du temps. Mais cela invite aussi clairement à une interaction réfléchie et à des critiques. Comme Jésus aurait dit à ses adversaires et à ses défenseurs : « La vérité ne souffre jamais d’un examen honnête. » (<a id="a43_521"></a>[LU 153:2.11](/fr/The_Urantia_Book/153#p2_11))
 
 _Le Livre d'Urantia_, en effet, ne souffrira pas de critiques honnêtes. Une telle critique permettra finalement de distinguer l’essence de l’accessoire, la vérité de ses contenants conceptuels. Les premiers pères de l’Église se trompaient rarement en ce qui concerne les Écritures comme l’ont fait les fondamentalistes chrétiens des derniers jours. Ils croyaient que Dieu était condescendant et fournissait un contenant très humain à la Parole à travers les Écritures. Ils croyaient en une unité de but sous-jacente guidée et révélée par l’Esprit, mais que l’unité et la perfection du but ne reposaient pas sur la perfection de sa forme extérieure.
 
@@ -25,3 +49,28 @@ Les réformateurs prenaient presque plaisir à cataloguer les incohérences et l
 
 Nous ferions bien de considérer ainsi _Le Livre d'Urantia_. Le traiter comme « juste une autre source », loin de le rabaisser, est tout à fait conforme à son propre message et constitue un antidote sain à l’idolâtrie et au fétichisme. Nous devrions en toute confiance inviter les gens à l’évaluer selon ses propres mérites. En fin de compte, cela servira mieux l’objectif qu’il prétend servir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Lessons_of_History">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les leçons de l’histoire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Herrick/The_Adventure_Has_Begun">
+          <span class="pr-2">L'aventure a commencé</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

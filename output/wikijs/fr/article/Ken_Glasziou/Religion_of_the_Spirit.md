@@ -17,9 +17,9 @@ Inévitablement, une certaine forme de maintien de l’ordre s’ensuit pour gar
 
 La religion de l'esprit diffère. Premièrement, il ne s’agit pas d’une activité de groupe, même si elle n’interdit pas aux adhérents de se rassembler. Il s’agit d’une quête personnelle de la vérité et d’une expérience personnelle avec Dieu qui aboutit généralement à une interaction personnelle de l’individu avec l’esprit de Dieu qui l’habite.
 
-> Ce choix de la créature n’est pas un abandon de la volonté. Il est une consécration de la volonté, une expansion de la volonté, une glorification de la volonté, un perfectionnement de la volonté. ([LU 111:5.5](/fr/The_Urantia_Book/111#p5_5))
+> Ce choix de la créature n’est pas un abandon de la volonté. Il est une consécration de la volonté, une expansion de la volonté, une glorification de la volonté, un perfectionnement de la volonté. (<a id="a19_199"></a>[LU 111:5.5](/fr/The_Urantia_Book/111#p5_5))
 
-> La paix dans la vie présente, la survie dans la mort, la perfection dans la prochaine vie, le service dans l’éternité, tout cela est accompli (en esprit) *dès maintenant,* quand la personnalité créée consent à — choisit de — soumettre la volonté de la créature à la volonté du Père. ([LU 111:5.4](/fr/The_Urantia_Book/111#p5_4))
+> La paix dans la vie présente, la survie dans la mort, la perfection dans la prochaine vie, le service dans l’éternité, tout cela est accompli (en esprit) *dès maintenant,* quand la personnalité créée consent à — choisit de — soumettre la volonté de la créature à la volonté du Père. (<a id="a21_286"></a>[LU 111:5.4](/fr/The_Urantia_Book/111#p5_4))
 
 La conscience de Dieu et la conscience de Dieu accompagnent toujours la religion de l'esprit, mais pas exclusivement. De nombreux adeptes d’une religion autoritaire parviennent à la conscience de Dieu, à la conscience de Dieu, et même à une relation personnelle avec leur Dieu. La différence réside dans la source de l'autorité.
 

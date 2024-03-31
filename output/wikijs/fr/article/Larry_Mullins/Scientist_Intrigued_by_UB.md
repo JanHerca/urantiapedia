@@ -10,9 +10,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : au-delà de la tradition et de l'orthodoxie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="pr-2">Diffuser les enseignements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> « _Si quelque chose est devenu une religion dans votre expérience, il est évident que vous êtes déjà un évangéliste actif de cette religion, puisque vous estimez le concept suprême de votre religion comme digne du culte de toute l’humanité, de toutes les intelligences de l’univers. Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ » ([LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
+
+> « _Si quelque chose est devenu une religion dans votre expérience, il est évident que vous êtes déjà un évangéliste actif de cette religion, puisque vous estimez le concept suprême de votre religion comme digne du culte de toute l’humanité, de toutes les intelligences de l’univers. Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ » (<a id="a38_532"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
 
 Le Dr Sprunger a commencé il y a plusieurs décennies une campagne énergique et programmée auprès de ses collègues pasteurs chrétiens. Un tel appel à des personnes diplômées et compétentes professionnellement, pour la plupart d’entre nous, laïcs, est hors de question. Comment pouvons-nous espérer intéresser un professeur ou un religieux professionnel aux Cahiers d'Urantia ? Cependant, nous devons garder à l'esprit que les Cahiers d'Urantia se réfèrent à Jésus comme à un laïc et font le commentaire que « le plus grand enseignant religieux du monde était en effet un laïc ». (p.2091)
 
@@ -42,8 +66,33 @@ Il y a d'autres parties du livre du Dr McMenamin qui cherchent des réponses et 
 
 Il est malheureux que Martin Gardner n'ait pas eu une évaluation équilibrée de la science dans _Le Livre d'Urantia_ et ait complètement ignoré l'observation des auteurs selon laquelle la science des fascicules aurait bientôt besoin d'être révisée. Il existe maintenant une nouvelle opportunité d’atteindre les scientifiques, en particulier ceux qui aimeraient bénéficier de quelques « joyaux » perspicaces du Livre d’Urantia.
 
-> « _Le grand défi lancé à l’homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. La plus grande aventure de l’homme dans la chair est son effort sain et équilibré pour repousser les frontières de la conscience de soi à travers les domaines imprécis de la conscience embryonnaire de l’âme, dans un effort sincère pour atteindre la région frontière de la conscience de l’esprit — le contact avec la divine présence._ » ([LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
+> « _Le grand défi lancé à l’homme moderne consiste à établir de meilleures communications avec le divin Moniteur qui habite le mental humain. La plus grande aventure de l’homme dans la chair est son effort sain et équilibré pour repousser les frontières de la conscience de soi à travers les domaines imprécis de la conscience embryonnaire de l’âme, dans un effort sincère pour atteindre la région frontière de la conscience de l’esprit — le contact avec la divine présence._ » (<a id="a68_480"></a>[LU 196:3.34](/fr/The_Urantia_Book/196#p3_34))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : au-delà de la tradition et de l'orthodoxie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Disseminating_the_Teachings">
+          <span class="pr-2">Diffuser les enseignements</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

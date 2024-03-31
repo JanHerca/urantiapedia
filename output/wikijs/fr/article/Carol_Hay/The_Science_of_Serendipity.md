@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Carol Hay<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/A_Urantia_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Église Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Aphorism_on_Prayer_and_Worship">
+          <span class="pr-2">Aphorisme sur la prière et l'adoration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La science m'a toujours fasciné. J'ai été particulièrement intrigué par les récits racontant comment certaines des découvertes les plus importantes ont eu lieu par hasard, comme quelqu'un qui a accidentellement renversé une bouteille dans un laboratoire et trouvé la solution à un problème déroutant, ou comment un scientifique se promenait dans les rues du pays. au milieu de la nuit, incapable de dormir à cause d'un problème qu'elle ne parvenait pas à résoudre, et une activité totalement indépendante, comme s'asseoir sur un banc de parc, dissiperait soudainement sa confusion et lui apporterait une réponse claire au problème.
@@ -49,7 +73,7 @@ L’histoire de notre monde est l’histoire de structures dissipatives. La gran
 
 D’où vient cette conviction selon laquelle nous devons maintenir la cohésion du monde, et que les systèmes vivants sont si fragiles ? Selon Margaret Wheatley ; cela vient de la science du XVIIe siècle, du réductionnisme newtonien, dans lequel le monde était vu comme une incroyable machine mise en mouvement par Dieu, un système fermé comme une horloge gigantesque. Il était dangereux de modifier le mécanisme. Ses dirigeants ont dit à l’humanité qu’il s’agissait d’un univers auquel on ne pouvait pas faire confiance en matière de changement, de rajeunissement et de croissance. On nous avait prévenus que nous devions contrôler un système vivant car une fois perturbé, il s’effondrerait.
 
-Mais nous apprenons peu à peu que nous ne vivons pas dans un univers mécaniste : « L’univers ne ressemble pas aux lois, mécanismes et constantes que les savants découvrent et qu’ils finissent par considérer comme la science. Il ressemble plutôt au *savant* curieux, pensant, choisissant, créant, combinant et discriminant, qui observe ainsi les phénomènes de l’univers et classifie les faits mathématiques inhérents aux phases machinales de l’aspect matériel de la création. » ([LU 195:7.22](/fr/The_Urantia_Book/195#p7_22)) Changez et développez les éléments indigènes de l'univers. La fluctuation et la modification font partie du processus même par lequel l'ordre est créé. Au lieu de valoriser la stabilité, nous devrions valoriser la _résilience_.
+Mais nous apprenons peu à peu que nous ne vivons pas dans un univers mécaniste : « L’univers ne ressemble pas aux lois, mécanismes et constantes que les savants découvrent et qu’ils finissent par considérer comme la science. Il ressemble plutôt au *savant* curieux, pensant, choisissant, créant, combinant et discriminant, qui observe ainsi les phénomènes de l’univers et classifie les faits mathématiques inhérents aux phases machinales de l’aspect matériel de la création. » (<a id="a75_478"></a>[LU 195:7.22](/fr/The_Urantia_Book/195#p7_22)) Changez et développez les éléments indigènes de l'univers. La fluctuation et la modification font partie du processus même par lequel l'ordre est créé. Au lieu de valoriser la stabilité, nous devrions valoriser la _résilience_.
 
 Qu’est-ce qui rend un système capable d’être résilient et de se réorganiser ? Quelle est la caractéristique clé d’un système sain et auto-organisé ? La réponse est « l’auto-référence ». En réponse à des perturbations environnementales ou internes qui signalent la nécessité d’un changement, un système peut changer d’une manière qui reste cohérente avec sa nature essentielle. À mesure qu'il change, il le fait en se référant à lui-même, quels que soient les changements qu'il apporte, ils seront cohérents avec son identité déjà établie. L’autoréférence est ce qui facilite un changement ordonné. Lorsque vous vous coupez, par exemple, comment votre corps sait-il qu'il est censé faire pousser de la peau à cet endroit plutôt que des poils ? Parce que le corps se réfère à lui-même et trouve la réponse dans votre ADN. Le corps est un système auto-organisé qui fait partie d'un système beaucoup plus complexe d'un être humain holistique. La personnalité et l’Esprit de Dieu qui nous habite sont les noyaux qui sont nos points de référence immuables. Lorsque nous prions ou adorons, nous nous référons à nos sources ultimes d’être.
 
@@ -92,3 +116,28 @@ Grâce aux nouvelles sciences, j’ai appris que la vie est infiniment plus int�
 > _Carol Hay, étudiante de longue date du Lrantia Book, s'adresse longuement à des groupes religieux sur la croissance religieuse personnelle et est rédactrice en chef du magazine The Invisible Fellowship._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/A_Urantia_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une Église Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Aphorism_on_Prayer_and_Worship">
+          <span class="pr-2">Aphorisme sur la prière et l'adoration</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

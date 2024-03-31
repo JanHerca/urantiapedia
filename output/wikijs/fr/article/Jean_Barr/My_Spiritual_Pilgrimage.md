@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Jean Barr<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la Fraternité des Hommes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="pr-2">La religion de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -55,10 +79,35 @@ Ces changements ne peuvent être mis en œuvre que par l’individu, non par l�
 
 > _L'humanité dans son ensemble n'a pas d'objectifs spirituels pour aujourd'hui – et vraiment pas pour l'avenir. Les visions puériles volant sur un nuage avec une harpe, ou les vues tout aussi irréalistes du cosmos spirituel, ne plaisent pas à la personne intelligente. Les chercheurs du monde entier ont soif de la vision inspirante de la réalité infinie trouvée dans le Livre d'Urantia.
 
-_Le Livre d'Urantia_ dit que « les objectifs plutôt que les croyances devraient unifier les religieux » ([LU 99:5.7](/fr/The_Urantia_Book/99#p5_7)) et c'est ce que moi et mes étudiants enseignons — le but de la Conscience Cosmique ou de la Transcendance de Soi. Cela transcende toutes les doctrines et dogmes religieux. Toute religion basée sur la croyance en Dieu doit reconnaître que nous sommes censés créer un monde meilleur et qu’à moins que l’individu ne change radicalement, le monde ne changera pas pour le mieux.
+_Le Livre d'Urantia_ dit que « les objectifs plutôt que les croyances devraient unifier les religieux » (<a id="a81_105"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7)) et c'est ce que moi et mes étudiants enseignons — le but de la Conscience Cosmique ou de la Transcendance de Soi. Cela transcende toutes les doctrines et dogmes religieux. Toute religion basée sur la croyance en Dieu doit reconnaître que nous sommes censés créer un monde meilleur et qu’à moins que l’individu ne change radicalement, le monde ne changera pas pour le mieux.
 
-« Il y a dix-neuf-cents ans, des Galiléens sans instruction observèrent Jésus donnant sa vie comme contribution spirituelle à l’expérience intérieure de l’homme et ensuite ils sortirent de Galilée et mirent sens dessus dessous tout l’empire romain. » ([LU 195:6.9](/fr/The_Urantia_Book/195#p6_9)) Nous ne sommes pas des « Galiléens ignorants » ; c’est pourquoi nous devons enseigner au monde les objectifs qui sont réalisables ici – _dans cette vie_ – et pas seulement un vague « espoir du ciel ». Nous devons inspirer l'humanité avec : (1) la réalité de la transcendance de soi ou de la conscience cosmique, (2) la réalité d'une vie sans peur et d'une relation plus étroite avec Dieu, et (3) l'actualité de la modification de toute personne disposée à changez leurs habitudes et transformez leurs peurs en réactions positives d’une foi vivante. Et cette discipline seule, inspirée par l’Esprit de Dieu qui nous habite, produira le bonheur engendré par la fraternité des hommes et la paternité de Dieu sur cette planète !
+« Il y a dix-neuf-cents ans, des Galiléens sans instruction observèrent Jésus donnant sa vie comme contribution spirituelle à l’expérience intérieure de l’homme et ensuite ils sortirent de Galilée et mirent sens dessus dessous tout l’empire romain. » (<a id="a83_252"></a>[LU 195:6.9](/fr/The_Urantia_Book/195#p6_9)) Nous ne sommes pas des « Galiléens ignorants » ; c’est pourquoi nous devons enseigner au monde les objectifs qui sont réalisables ici – _dans cette vie_ – et pas seulement un vague « espoir du ciel ». Nous devons inspirer l'humanité avec : (1) la réalité de la transcendance de soi ou de la conscience cosmique, (2) la réalité d'une vie sans peur et d'une relation plus étroite avec Dieu, et (3) l'actualité de la modification de toute personne disposée à changez leurs habitudes et transformez leurs peurs en réactions positives d’une foi vivante. Et cette discipline seule, inspirée par l’Esprit de Dieu qui nous habite, produira le bonheur engendré par la fraternité des hommes et la paternité de Dieu sur cette planète !
 
 > _Jean Barr, en plus d'avoir une carrière commerciale réussie, est maintenant ministre, conférencier et enseignant des concepts du _Livre d'Urantia_. Elle est fondatrice et présidente de The Michaels Foundation, Inc._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Réflexions sur la Fraternité des Hommes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/The_Religion_of_Jesus">
+          <span class="pr-2">La religion de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

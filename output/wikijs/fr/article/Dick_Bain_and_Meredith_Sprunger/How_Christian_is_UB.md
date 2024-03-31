@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Richard I. Bain et Meredith J. Sprunger<br>© 1996 La Communauté chrétienne des étudiants de <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Hall/Poor_in_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pauvre en esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="pr-2">Rencontre avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _La grande majorité des enseignements du_ Livre d'Urantia _renforcent et améliorent les idées et les vérités de la théologie chrétienne traditionnelle, ainsi que les concepts les plus élevés de toutes les religions du monde. Cependant, il est parfois bon de souligner les aspects les plus controversés d'un nouveau paradigme pour affiner sa distinction avec un paradigme traditionnel et ainsi stimuler la pensée critique._
@@ -71,7 +95,7 @@ La théorie de l’expiation par le sang trouve son origine dans le langage conc
 
 Nous devons reconnaître que la plupart de ceux qui acceptent encore aujourd’hui une théorie littérale de l’expiation par le sang le font probablement par ignorance et par incompréhension et sans intention de nier la nature aimante de Dieu. _Le Livre d'Urantia_ observe :
 
-> « L’idée barbare d’apaiser un Dieu courroucé, de se rendre favorable un Seigneur offensé, de gagner les faveurs de la Déité par des sacrifices, des pénitences, et même en versant du sang, représente une religion totalement puérile et primitive, une philosophie indigne d’un âge éclairé par la science et la vérité. De telles croyances sont absolument répugnantes pour les êtres célestes et les chefs divins qui servent et règnent dans les univers. C’est un affront à Dieu de croire, de soutenir ou d’enseigner qu’il faut verser du sang innocent pour gagner ses faveurs ou détourner une colère divine fictive. » ([LU 4:5.4](/fr/The_Urantia_Book/4#p5_4))
+> « L’idée barbare d’apaiser un Dieu courroucé, de se rendre favorable un Seigneur offensé, de gagner les faveurs de la Déité par des sacrifices, des pénitences, et même en versant du sang, représente une religion totalement puérile et primitive, une philosophie indigne d’un âge éclairé par la science et la vérité. De telles croyances sont absolument répugnantes pour les êtres célestes et les chefs divins qui servent et règnent dans les univers. C’est un affront à Dieu de croire, de soutenir ou d’enseigner qu’il faut verser du sang innocent pour gagner ses faveurs ou détourner une colère divine fictive. » (<a id="a97_614"></a>[LU 4:5.4](/fr/The_Urantia_Book/4#p5_4))
 
 ## Doctrine de l'humanité
 
@@ -83,11 +107,11 @@ La vision chrétienne traditionnelle de la vie après la mort est simpliste et, 
 
 _Le Livre d'Urantia_ décrit une image éminemment raisonnable de la vie après la mort. Notre croissance spirituelle continue là où nous nous sommes arrêtés dans notre existence mortelle. Nous sommes ressuscités sur les « mondes des maisons » de notre système local avec un corps « morontiel », qui est en partie matériel et en partie spirituel, et acquérons progressivement une existence plus spirituelle. L’univers spirituel tout entier est une grande université éducative d’apprentissage et de réussite où nous sommes préparés pour le service futur. Au cours de notre voyage ascendant, tout comme sur Urantia, nous rencontrons de nombreuses épreuves et frustrations.
 
-> Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » ([LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
+> Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » (<a id="a109_520"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
 Nous progressons à travers l'univers local, le superunivers, l'univers central, et obtenons notre diplôme jusqu'à l'Île du Paradis où nous rencontrons le Père Universel et sommes conduits dans le Corps de la Finalité en préparation pour un plus grand service dans l'éternité.
 
-> Vous autres humains, vous avez commencé le déploiement sans fin d’un panorama à peu près infini, une expansion illimitée et perpétuelle dans des sphères toujours plus vastes, vous offrant des occasions de service réjouissant, d’aventures incomparables, d’incertitudes sublimes et d’accomplissements sans bornes. ([LU 108:6.8](/fr/The_Urantia_Book/108#p6_8))
+> Vous autres humains, vous avez commencé le déploiement sans fin d’un panorama à peu près infini, une expansion illimitée et perpétuelle dans des sphères toujours plus vastes, vous offrant des occasions de service réjouissant, d’aventures incomparables, d’incertitudes sublimes et d’accomplissements sans bornes. (<a id="a113_315"></a>[LU 108:6.8](/fr/The_Urantia_Book/108#p6_8))
 
 ## Réflexions
 
@@ -104,6 +128,31 @@ Notre opinion personnelle, après de nombreuses années d’étude et d’évalu
 3. Son aperçu d'un vaste éventail de personnalités spirituelles qui fonctionnent dans un système hiérarchique de capacités et de pouvoir, qui doit exister si nous voulons donner un sens au cosmos spirituel.
 4. Et enfin, sa présentation très élargie de la vie et des enseignements de Jésus, solidement enracinée dans les réalités du Nouveau Testament. Même si vous ne pensez pas que la cosmologie spirituelle élargie du _Livre d'Urantia_ est raisonnable, vous trouverez que la section de 700 pages sur la vie et les enseignements de Jésus, si seulement lue comme un roman historique, est le récit le plus inspirant et le plus spirituellement édifiant de La vie et les enseignements de Jésus imprimés.
 
-> _Meredith Sprunger est pasteur et professeur d'université à la retraite et rédactrice en chef de_ The Spiritual Fellowship Journal. _Richard Bain est ingénieur électricien et rédacteur en chef d'Innerface International._
+> _Meredith Sprunger est pasteur et professeur d'université à la retraite et rédactrice en chef de_ Journal de la Fraternité Spirituelle. _Richard Bain est ingénieur électricien et rédacteur en chef d'Innerface International._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Hall/Poor_in_Spirit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pauvre en esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="pr-2">Rencontre avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

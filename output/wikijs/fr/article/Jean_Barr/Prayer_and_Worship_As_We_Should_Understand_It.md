@@ -9,19 +9,43 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Jean Barr<br>© 2004 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Should_a_Urantia_Church_be_Formed">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faut-il former une Église sur Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Challenge_Part_I">
+          <span class="pr-2">Le défi : partie 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « _L’adoration se suffit à elle-même. La prière incorpore un élément d’intérêt pour soi ou pour une autre créature. Telle est la grande différence entre l’adoration et la prière. La vraie adoration ne comporte absolument aucune requête pour soi ni aucun autre élément d’intérêt personnel. Nous adorons Dieu simplement à cause de notre conception de ce qu’il est. L’adoration ne demande rien et n’espère rien pour l’adorateur. Nous n’adorons pas le Père parce que nous pouvons tirer quelque chose de cette vénération. Nous lui rendons cette dévotion et nous nous engageons dans cette adoration par une réaction naturelle et spontanée, en reconnaissant la personnalité incomparable du Père, et à cause de sa nature digne d’être aimée et de ses attributs adorables._ »
 > 
-> « À l’instant même où un élément d’intérêt personnel s’introduit dans l’adoration, la dévotion passe de l’adoration à la prière, et il serait alors plus approprié de s’adresser à la personne du Fils Éternel ou du Fils Créateur. » ([LU 5:3.3-4](/fr/The_Urantia_Book/5#p3_3))
+> « À l’instant même où un élément d’intérêt personnel s’introduit dans l’adoration, la dévotion passe de l’adoration à la prière, et il serait alors plus approprié de s’adresser à la personne du Fils Éternel ou du Fils Créateur. » (<a id="a39_233"></a>[LU 5:3.3-4](/fr/The_Urantia_Book/5#p3_3))
 
-> La religion grecque avait un mot de passe : « Connais-toi toi-même ». Les Hébreux centraient leur enseignement sur « Connaissez votre Dieu ». Les chrétiens prêchent un évangile visant à « la connaissance du Seigneur Jésus-Christ ». Jésus proclama la bonne nouvelle « _Connaissez Dieu et connaissez-vous vous-même comme fils de Dieu_ ». Ces concepts différents sur le but de la religion déterminent l’attitude d’un individu dans diverses situations de sa vie, et laissent _prévoir la profondeur de son adoration et la nature de ses habitudes personnelles de prière. On peut déterminer le statut spirituel de toute religion par ***la nature de ses prières***._ ([LU 5:4.8](/fr/The_Urantia_Book/5#p4_8))
+> La religion grecque avait un mot de passe : « Connais-toi toi-même ». Les Hébreux centraient leur enseignement sur « Connaissez votre Dieu ». Les chrétiens prêchent un évangile visant à « la connaissance du Seigneur Jésus-Christ ». Jésus proclama la bonne nouvelle « _Connaissez Dieu et connaissez-vous vous-même comme fils de Dieu_ ». Ces concepts différents sur le but de la religion déterminent l’attitude d’un individu dans diverses situations de sa vie, et laissent _prévoir la profondeur de son adoration et la nature de ses habitudes personnelles de prière. On peut déterminer le statut spirituel de toute religion par ***la nature de ses prières***._ (<a id="a41_662"></a>[LU 5:4.8](/fr/The_Urantia_Book/5#p4_8))
 
-> Les mots n’ont pas d’importance dans la prière ; ils sont simplement le chenal intellectuel dans lequel la rivière des supplications spirituelles se trouve couler par hasard. La valeur verbale d’une prière est purement autosuggestive dans les dévotions individuelles, et sociosuggestives dans les dévotions collectives. ***Dieu répond à l’attitude de l’âme et non aux paroles.*** ([LU 91:8.12](/fr/The_Urantia_Book/91#p8_12))
+> Les mots n’ont pas d’importance dans la prière ; ils sont simplement le chenal intellectuel dans lequel la rivière des supplications spirituelles se trouve couler par hasard. La valeur verbale d’une prière est purement autosuggestive dans les dévotions individuelles, et sociosuggestives dans les dévotions collectives. ***Dieu répond à l’attitude de l’âme et non aux paroles.*** (<a id="a43_383"></a>[LU 91:8.12](/fr/The_Urantia_Book/91#p8_12))
 
-> L’attitude la plus saine de méditation spirituelle se trouve dans _l’adoration réflexive_ et la prière d’actions de grâces. La communion directe avec l’Ajusteur de Pensée, telle qu’elle s’est produite dans les dernières années de la vie incarnée de Jésus, ne devrait pas être confondue avec les expériences dites mystiques. ([LU 100:5.10](/fr/The_Urantia_Book/100#p5_10)) (Veuillez noter que c’est dans les dernières années, après qu’Il eut réussi à achever la plupart ou la totalité des niveaux de croissance, que nous, en tant qu’humains, devons accomplir ici pour avoir cette communion directe.)
+> L’attitude la plus saine de méditation spirituelle se trouve dans _l’adoration réflexive_ et la prière d’actions de grâces. La communion directe avec l’Ajusteur de Pensée, telle qu’elle s’est produite dans les dernières années de la vie incarnée de Jésus, ne devrait pas être confondue avec les expériences dites mystiques. (<a id="a45_327"></a>[LU 100:5.10](/fr/The_Urantia_Book/100#p5_10)) (Veuillez noter que c’est dans les dernières années, après qu’Il eut réussi à achever la plupart ou la totalité des niveaux de croissance, que nous, en tant qu’humains, devons accomplir ici pour avoir cette communion directe.)
 
-> « « La prière est entièrement une expression personnelle et spontanée de l’attitude de l’âme envers l’esprit ; la prière devrait être la communion de filiation et l’expression de la fraternité. Quand elle est dictée par l’esprit, la prière mène au progrès spirituel coopératif. ***La prière idéale est une forme de communion spirituelle qui conduit à l’adoration intelligente. La vraie prière est l’attitude sincère d’un élan vers le ciel pour atteindre vos idéaux.*** » ([LU 144:2.2](/fr/The_Urantia_Book/144#p2_2))
+> « « La prière est entièrement une expression personnelle et spontanée de l’attitude de l’âme envers l’esprit ; la prière devrait être la communion de filiation et l’expression de la fraternité. Quand elle est dictée par l’esprit, la prière mène au progrès spirituel coopératif. ***La prière idéale est une forme de communion spirituelle qui conduit à l’adoration intelligente. La vraie prière est l’attitude sincère d’un élan vers le ciel pour atteindre vos idéaux.*** » (<a id="a47_474"></a>[LU 144:2.2](/fr/The_Urantia_Book/144#p2_2))
 
 > « En tant qu’homme du royaume, Jésus apporta à Dieu la plus grande de toutes les offrandes : il consacra et dédia sa propre volonté au majestueux service de faire la volonté divine. »
 > 
@@ -47,15 +71,15 @@ dateCreated: 2023-09-29T14:02:03.086Z
 > la proclamation d’une découverte, 
 > une confession de dévotion suprême, 
 > la confirmation d’une consécration, 
-> une technique pour aplanir les difficultés et la puissante mobilisation des pouvoirs conjugués de l’âme pour résister à toutes les tendances humaines à l’égoïsme, au mal et au péché. ([LU 196:0.10](/fr/The_Urantia_Book/196#p0_10))
+> une technique pour aplanir les difficultés et la puissante mobilisation des pouvoirs conjugués de l’âme pour résister à toutes les tendances humaines à l’égoïsme, au mal et au péché. (<a id="a73_186"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10))
 
-> Il vécut précisément cette vie de pieuse consécration à faire la volonté de son Père et la termina triomphalement par une prière de cet ordre. ***Le secret de son incomparable vie religieuse était cette conscience de la présence de Dieu ; il l’atteignit par des prières intelligentes et une adoration sincère — une communion ininterrompue avec Dieu — et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires.*** ([LU 196:0.10](/fr/The_Urantia_Book/196#p0_10))
+> Il vécut précisément cette vie de pieuse consécration à faire la volonté de son Père et la termina triomphalement par une prière de cet ordre. ***Le secret de son incomparable vie religieuse était cette conscience de la présence de Dieu ; il l’atteignit par des prières intelligentes et une adoration sincère — une communion ininterrompue avec Dieu — et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires.*** (<a id="a75_452"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10))
 
 Nous pouvons atteindre _presque_ (nous ne sommes pas Jésus) cette conscience de la présence de Dieu grâce à la réalisation diligente des cercles et des niveaux d'esprit dont nous sommes conscients quelque temps après l'équilibre et la transcendance. Finalement, un certain degré (en tant que créatures humaines) de conscience de Sa présence sera avec nous 24 heures sur 24 !
 
-> « _Dans la vie terrestre de Jésus, la religion fut une expérience vivante, un mouvement direct et personnel_ ***depuis la vénération spirituelle jusqu’à la droiture pratique***. La foi de Jésus porta les fruits transcendants de l’esprit divin. Sa foi n’était ni dépourvue de maturité ni crédule comme celle d’un enfant, mais, sous beaucoup de rapports, elle ressemblait à la _confiance_ candide du mental de l’enfant. La _confiance_ de Jésus en Dieu ressemblait beaucoup à celle d’un enfant en ses parents. Il avait une profonde _confiance_ dans l’univers, précisément ce genre de confiance que l’enfant porte à son environnement parental. La foi sincère de Jésus dans la bonté fondamentale de l’univers ressemblait beaucoup à celle d’un enfant dans la sécurité de son entourage terrestre. » ([LU 196:0.11](/fr/The_Urantia_Book/196#p0_11))
+> « _Dans la vie terrestre de Jésus, la religion fut une expérience vivante, un mouvement direct et personnel_ ***depuis la vénération spirituelle jusqu’à la droiture pratique***. La foi de Jésus porta les fruits transcendants de l’esprit divin. Sa foi n’était ni dépourvue de maturité ni crédule comme celle d’un enfant, mais, sous beaucoup de rapports, elle ressemblait à la _confiance_ candide du mental de l’enfant. La _confiance_ de Jésus en Dieu ressemblait beaucoup à celle d’un enfant en ses parents. Il avait une profonde _confiance_ dans l’univers, précisément ce genre de confiance que l’enfant porte à son environnement parental. La foi sincère de Jésus dans la bonté fondamentale de l’univers ressemblait beaucoup à celle d’un enfant dans la sécurité de son entourage terrestre. » (<a id="a79_795"></a>[LU 196:0.11](/fr/The_Urantia_Book/196#p0_11))
 
-> « Il n’est pas étonnant qu’il ait une fois dit : « À moins de devenir comme un petit enfant, vous n’entrerez pas dans le royaume. » Bien que la foi de Jésus fût *enfantine,* elle n’était en aucun cas *infantile.* » ([LU 196:0.12](/fr/The_Urantia_Book/196#p0_12))
+> « Il n’est pas étonnant qu’il ait une fois dit : « À moins de devenir comme un petit enfant, vous n’entrerez pas dans le royaume. » Bien que la foi de Jésus fût *enfantine,* elle n’était en aucun cas *infantile.* » (<a id="a81_218"></a>[LU 196:0.12](/fr/The_Urantia_Book/196#p0_12))
 
 Si nous vivons et modifions pratiquement nos vies, par les choses simples ci-dessous :
 
@@ -87,7 +111,7 @@ La confiance vient et se construit à mesure que nous décidons à plusieurs rep
 4. Vous devez faire un choix sans réserve de la volonté divine. Vous devez effacer le point mort de l’indécision. (Faites le plus grand bien, éliminez la procrastination et prenez la décision irrévocable de devenir son Fils.)
 5. Non seulement vous reconnaissez la volonté du Père et choisissez de la faire, mais vous avez effectué une consécration sans réserve et un dévouement dynamique à l'accomplissement réel de la volonté du Père. (Vous savez ce que c'est — voir \# 4. Il est tellement essentiel d'être répété avec des mots différents.)
 6. Votre prière sera dirigée exclusivement vers la sagesse divine afin de résoudre les problèmes humains spécifiques rencontrés lors de l'ascension au Paradis – l'atteinte de la perfection divine.
-7. Et vous devez avoir une foi vivante. (La confiance est indispensable.) ([LU 91:9.1-8](/fr/The_Urantia_Book/91#p9_1))
+7. Et vous devez avoir une foi vivante. (La confiance est indispensable.) (<a id="a113_75"></a>[LU 91:9.1-8](/fr/The_Urantia_Book/91#p9_1))
 
 _On nous dit de prier uniquement pour les valeurs, pas pour les choses._ Les choses que nous pouvons obtenir, les valeurs pour lesquelles nous devons nous aider et développer la croissance pour apprécier et reconnaître les valeurs.
 
@@ -111,3 +135,28 @@ _Et l'adoration est la gratitude pour tout ce que nous avons, savons et sommes._
 > _Jean Barr est un ministre ordonné, a occupé des postes de direction dans le secteur des assurances pendant plus de 30 ans et est maintenant président de la Michael's Foundation, Inc., de Dallas, et responsable du marketing dans une société de soins gérés. _
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Should_a_Urantia_Church_be_Formed">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faut-il former une Église sur Urantia ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/The_Challenge_Part_I">
+          <span class="pr-2">Le défi : partie 1</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

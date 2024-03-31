@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Larry Mullins<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/The_Quest_for_Spiritual_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La quête d'une culture spirituelle : vers un paradigme de spiritualité pour le XXIe siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Living_the_Family_of_God">
+          <span class="pr-2">Vivre la famille de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -57,7 +81,7 @@ Les observations de Viktor Frankl méritent un examen attentif de la part des Ur
 
 Aucun Urantien avisé ne manquera de noter le parallèle entre les idées de Frankl et la révélation des Cahiers d'Urantia :
 
-> « Puisque la vraie religion est une affaire d’expérience spirituelle personnelle, il est inévitable qu’individuellement, chaque religioniste ait sa propre interprétation personnelle de la manière de réaliser cette expérience spirituelle. Le mot « foi » devrait représenter la relation de l’individu avec Dieu, plutôt qu’une formule de crédo sur laquelle un groupe de mortels est parvenu à s’accorder en tant qu’attitude religieuse commune. « Avez-vous la foi ? Alors, ayez-la pour vous-même. » » ([LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
+> « Puisque la vraie religion est une affaire d’expérience spirituelle personnelle, il est inévitable qu’individuellement, chaque religioniste ait sa propre interprétation personnelle de la manière de réaliser cette expérience spirituelle. Le mot « foi » devrait représenter la relation de l’individu avec Dieu, plutôt qu’une formule de crédo sur laquelle un groupe de mortels est parvenu à s’accorder en tant qu’attitude religieuse commune. « Avez-vous la foi ? Alors, ayez-la pour vous-même. » » (<a id="a83_499"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
 
 Malheureusement, une grande partie du grand travail de Viktor Frankl n’a pas été pleinement reconnue en raison de l’influence de la vache sacrée du monomatérialisme « scientifique ». En effet, une grande partie de la science moderne a rompu avec la tyrannie du dogme religieux, pour ensuite se retrouver virtuellement enfermée dans la tyrannie du monomatérialisme. Ainsi, lorsque la plupart des scientifiques quantiques se heurtent aux mystères inexplicables, intemporels et sans espace du très petit, ils trouvent plus sûr de postuler une série absurde d’« univers parallèles infinis » plutôt que d’autoriser une Source et un Centre Premiers plus élégants et logiques.
 
@@ -155,9 +179,34 @@ Alors, si ces questions vous dérangent, je vous invite à les relire. Lisez-les
 > _Ce matériel a été adapté du chapitre 17 d'un travail en cours de Larry Mullins, The Step Beyond. © Copyright 1998, Larry Mullins, Boulder, CO. Larry Mullins est consultant en publicité et marketing. Il est consultant éditorial pour le Journal et auteur de Immature People with Power and Jesus: God and Man._
 {.is-info}
 
-> « Si quelque chose est devenu une religion dans votre expérience, il est évident que vous êtes déjà un évangéliste actif de cette religion, puisque vous estimez le concept suprême de votre religion comme digne du culte de toute l’humanité, de toutes les intelligences de l’univers. Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle. » ([LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
+> « Si quelque chose est devenu une religion dans votre expérience, il est évident que vous êtes déjà un évangéliste actif de cette religion, puisque vous estimez le concept suprême de votre religion comme digne du culte de toute l’humanité, de toutes les intelligences de l’univers. Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle. » (<a id="a181_530"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/The_Quest_for_Spiritual_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La quête d'une culture spirituelle : vers un paradigme de spiritualité pour le XXIe siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Living_the_Family_of_God">
+          <span class="pr-2">Vivre la famille de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

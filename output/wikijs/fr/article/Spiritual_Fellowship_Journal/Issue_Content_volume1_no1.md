@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/A_Faith_Adventure">
+          <span class="pr-2">Une aventure de foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 1, numéro 1, premier numéro, printemps 1991
@@ -70,7 +91,7 @@ Everett Sloffer
 Marvel Zuercher
 Paul Zuercher
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of The Urantia Book_ de Fort Wayne, Indiana, grâce à une subvention de la Jesusonian Foundation de Boulder, Colorado.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of The Urantia Book_ de Fort Wayne, Indiana, grâce à une subvention de la Jesusonian Foundation de Boulder, Colorado.
 
 Les commandes d’abonnement, les changements d’adresse et la correspondance éditoriale doivent être envoyés à :
 
@@ -138,3 +159,25 @@ Le lecteur du Livre d'Urantia découvre également des informations dans de nomb
 
 Si votre librairie locale ne propose pas le _Le Livre d'Urantia_, il peut être commandé auprès de la Fondation Urantia, 533 Diversey Parkway, Chicago, IL 60614. Le _Concordex_ et le _Paramony_ peuvent être achetés auprès de Good Cheer Press, 1790 30th. Rue, \#400, Boulder, CO 80301.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/A_Faith_Adventure">
+          <span class="pr-2">Une aventure de foi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

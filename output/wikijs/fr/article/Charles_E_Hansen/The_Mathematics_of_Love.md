@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1988 Charles E. Hansen<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/UB_and_Religious_Studies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et les études religieuses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="pr-2">Le Livre d'Urantia et la Science Moderne : Harmonie ou Discorde ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Cet article est un condensé d'un chapitre d'un ouvrage à paraître qui définira les références abrégées. Nous espérons revoir le livre après sa publication._
@@ -127,10 +151,35 @@ Comme l’observait Alfred North Whitehead en 1925 : « Nous entrons dans une è
 
 En conséquence, les mathématiques de l’amour mettent en place le fondement logique par lequel la construction d’une nouvelle ère peut commencer. L’amour, bien sûr, ne peut pas être compris comme une simple question de mathématiques, de vecteurs. Cela ne se comprend qu'en termes de personnalité entière — d'où émanent les vecteurs d'_attention, d'écoute, de remerciement, d'encouragement_ et tout le reste. La totalité de l’amour doit trouver sa compréhension dans le modèle des personnalités qui aiment. Et à l’insu de beaucoup d’entre nous, Einstein lui-même a évoqué Jésus et ses enseignements comme le modèle ultime à suivre pour les humains. (TWAISI, p. 111) Les plus grands philosophes scientifiques américains, Charles Peirce et Alfred North Whitehead, sont parvenus à la même conclusion. (ITPOCSP, p. 462) Il est reconnu depuis longtemps que les religions ont tendance à se concentrer sur la personnalité aimante et modèle de leurs fondateurs. En ajoutant le fondement scientifique à ce que ces personnalités ont démontré, on ne fait que clarifier leur essence. Mais cela signifie aussi que, du point de vue de la science, de la philosophie et de la religion, la pierre que les bâtisseurs ont rejetée sera bientôt reconnue comme la pierre angulaire, assistée par un langage que les bâtisseurs ne peuvent ignorer : le langage universel de la science — les mathématiques, les mathématiques de l'amour. $\square$
 
-> L'auteur note que l'invariant défini par les Mathématiques de l'Amour semble être celui spécifiquement défini sur ([LU 12:7.1](/fr/The_Urantia_Book/12#p7_1)) _Il existe une loi inexorable et impersonnelle qui opère dans la totalité du temps et de l’espace, et sur toute réalité de quelque nature qu’elle soit ; cette loi équivaut à la fonction d’une providence cosmique._
+> L'auteur note que l'invariant défini par les Mathématiques de l'Amour semble être celui spécifiquement défini sur (<a id="a153_117"></a>[LU 12:7.1](/fr/The_Urantia_Book/12#p7_1)) _Il existe une loi inexorable et impersonnelle qui opère dans la totalité du temps et de l’espace, et sur toute réalité de quelque nature qu’elle soit ; cette loi équivaut à la fonction d’une providence cosmique._
 
 Copyright © 1988, Charles E. Hansen. Tous droits réservés.
 
 > _Charles Hansen est un économiste et homme d'affaires qui s'intéresse particulièrement à la performance humaine, à la productivité, à la créativité et à l'innovation. En plus de publier divers articles dans ces domaines, il termine un livre intitulé <ins>The Technology of Love</ins>._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/UB_and_Religious_Studies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et les études religieuses</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="pr-2">Le Livre d'Urantia et la Science Moderne : Harmonie ou Discorde ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

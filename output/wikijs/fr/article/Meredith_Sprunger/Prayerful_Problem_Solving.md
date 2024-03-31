@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Série de sermons sur la croissance spirituelle : Partie 2, Reconnaître la bonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les êtres humains sont par nature des créatures qui résolvent des problèmes. Nos besoins et nos envies fondamentaux interagissent avec les stimuli environnementaux à la recherche de satisfaction et d’épanouissement biologique. Toute résolution de problèmes, de la naissance à la mort, s'inscrit dans le contexte de notre nature, de notre expérience et de notre apprentissage. La manière dont nous résolvons nos problèmes est fondamentalement déterminée par notre nature et nos ressources. Nous sommes des êtres matériels intégrés et contrôlés par un système neuronal dirigé par l'esprit et habité par l'esprit. Les êtres humains disposent donc de ressources physiques, mentales et spirituelles pour les aider à résoudre leurs problèmes. Toutes ces capacités et capacités interagissent et fonctionnent de manière holistique.
@@ -62,7 +83,7 @@ En concluant notre réflexion sur la résolution de problèmes par la prière, n
 
 La meilleure idée de l’utilisation efficace de la prière est d’observer la vie de prière de Jésus :
 
-> Jamais Jésus ne fit une prière à titre de devoir religieux. Pour lui, la prière était une expression sincère d’attitude spirituelle, une déclaration de loyauté d’âme, un exposé de dévotion personnelle, une expression d’actions de grâces, une manière d’échapper à la tension émotive, une prévention de conflit, une exaltation de l’intellect, un anoblissement des désirs, une justification de décisions morales, un enrichissement de la pensée, un renforcement des tendances supérieures, une consécration d’impulsion, une clarification de point de vue, une déclaration de foi, une reddition transcendantale de la volonté, une sublime affirmation de confiance, une révélation de courage, la proclamation d’une découverte, une confession de dévotion suprême, la confirmation d’une consécration, une technique pour aplanir les difficultés et la puissante mobilisation des pouvoirs conjugués de l’âme pour résister à toutes les tendances humaines à l’égoïsme, au mal et au péché. Il vécut précisément cette vie de pieuse consécration à faire la volonté de son Père et la termina triomphalement par une prière de cet ordre. Le secret de son incomparable vie religieuse était cette conscience de la présence de Dieu ; il l’atteignit par des prières intelligentes et une adoration sincère — une communion ininterrompue avec Dieu — et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires. ([LU 196:0.10](/fr/The_Urantia_Book/196#p0_10))
+> Jamais Jésus ne fit une prière à titre de devoir religieux. Pour lui, la prière était une expression sincère d’attitude spirituelle, une déclaration de loyauté d’âme, un exposé de dévotion personnelle, une expression d’actions de grâces, une manière d’échapper à la tension émotive, une prévention de conflit, une exaltation de l’intellect, un anoblissement des désirs, une justification de décisions morales, un enrichissement de la pensée, un renforcement des tendances supérieures, une consécration d’impulsion, une clarification de point de vue, une déclaration de foi, une reddition transcendantale de la volonté, une sublime affirmation de confiance, une révélation de courage, la proclamation d’une découverte, une confession de dévotion suprême, la confirmation d’une consécration, une technique pour aplanir les difficultés et la puissante mobilisation des pouvoirs conjugués de l’âme pour résister à toutes les tendances humaines à l’égoïsme, au mal et au péché. Il vécut précisément cette vie de pieuse consécration à faire la volonté de son Père et la termina triomphalement par une prière de cet ordre. Le secret de son incomparable vie religieuse était cette conscience de la présence de Dieu ; il l’atteignit par des prières intelligentes et une adoration sincère — une communion ininterrompue avec Dieu — et non par des directives, des voix, des visions ou des pratiques religieuses extraordinaires. (<a id="a85_1419"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10))
 
 > _Meredith Sprunger est pasteur et professeur d'université de l'Église Unie du Christ, à la retraite et rédactrice en chef de_ The Spiritual Fellowship Journal.
 {.is-info}
@@ -70,3 +91,25 @@ La meilleure idée de l’utilisation efficace de la prière est d’observer la
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Série de sermons sur la croissance spirituelle : Partie 2, Reconnaître la bonté de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

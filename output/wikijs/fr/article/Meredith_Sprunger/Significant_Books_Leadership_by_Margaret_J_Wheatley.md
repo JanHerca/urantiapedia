@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le miracle de la guérison</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation_2">
+          <span class="pr-2">Le but de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Margaret J. Wheatley
@@ -23,3 +47,28 @@ Les systèmes vivants démontrent que le déséquilibre est la condition nécess
 
 L'information est l'énergie créatrice de toutes les organisations. C’est l’ingrédient de base du renouvellement personnel. Souvent, l’information est gardée secrète et transmise uniquement à l’élite des institutions. Les principales églises chrétiennes sont un exemple d’organisations qui souffrent du manque d’informations. Leur nombre et leur vitalité sont en déclin constant depuis des décennies. La plupart des ministres, par exemple, n’ont pas partagé leurs connaissances troublantes sur l’origine et la nature de la Bible ou sur la doctrine de l’expiation par le sang qu’ils ont apprise au séminaire. Partager cette information choquerait en effet de nombreux fidèles. Mais cela poserait également les bases d’une restructuration de l’Église pour en faire une communauté spirituelle plus pertinente et plus vitale. Ces mêmes membres du clergé ont, dans l'ensemble, refusé d'examiner sérieusement le _Livre d'Urantia_. Même si le message du livre revitalisera un jour l'Église et transformera notre monde, les dirigeants de l'Église ont peur d'affronter cette possibilité. Les nouvelles informations sont l’élément vital de toutes nos institutions. Si nous voulons grandir, cela doit être partagé avec la base de la société.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jay_Newbern/The_Miracle_of_Recovery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le miracle de la guérison</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Purpose_of_Revelation_2">
+          <span class="pr-2">Le but de la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

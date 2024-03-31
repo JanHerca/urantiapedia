@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Denver Pearson<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/More_Lessons_from_the_Birds_and_Bees">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plus de leçons tirées des oiseaux et des abeilles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/The_Infinity_of_God_An_Astronomical_Approach">
+          <span class="pr-2">L'Infinité de Dieu, une approche astronomique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que les lecteurs à l'esprit scientifique parcourent pour la première fois _Le Livre d'Urantia_, il leur vient vite à l'esprit que nombre de ses déclarations sur les sciences naturelles entrent en conflit avec les données et théories actuellement détenues. Dans l’esprit de beaucoup, cela fait naître des doutes quant à la véracité de ces déclarations. La sagesse nous amènerait à réaliser que rien de moins que la perfection n’est parfait et que tout ce qui est touché par des mains humaines porte des empreintes digitales. Ceci devrait être nos pensées directrices alors que nous contemplons l’exactitude du contenu scientifique des Cahiers d’Urantia.
@@ -27,7 +51,7 @@ Mais nous ne parlons pas ici de fautes de frappe et de distorsions. Ce n’est p
 
 En prenant conscience des différences entre la science actuelle et la révélation, nous sommes obligés de conclure que les deux ne peuvent pas être justes et que, d'une manière ou d'une autre, nous devons prendre une décision entre elles. Nous sommes immédiatement aux prises avec l’idée d’être confrontés à la possibilité que quelque chose ne va pas quelque part. Comment pouvons-nous tester les deux sources ? Quel test serait adéquat pour résoudre ce problème horriblement ennuyeux ? Que diriez-vous d’utiliser notre bon sens et les antécédents des Cahiers d’Urantia et de la science.
 
-En tant qu’enfants crédules grandissant dans la nouvelle ère scientifique de la découverte, nous avons naturellement accepté l’autorité pragmatique de ce qu’on nous disait. Qui étions-nous pour interroger ces grands esprits qui sondaient tous les coins et recoins de la réalité connue ? Il a toujours été plus facile d’accepter leurs informations comme évangiles plutôt que de les chercher nous-mêmes. En général, je le fais toujours, mais avec un grain de sel. On nous dit dans _Le Livre d'Urantia_ « La foi n’entrave pas l’imagination créatrice, elle n’entretient pas non plus de préjugés irraisonnés contre les découvertes de la recherche scientifique. » [[LU 101:8.4](/fr/The_Urantia_Book/101#p8_4)] Alors soyons raisonnables.
+En tant qu’enfants crédules grandissant dans la nouvelle ère scientifique de la découverte, nous avons naturellement accepté l’autorité pragmatique de ce qu’on nous disait. Qui étions-nous pour interroger ces grands esprits qui sondaient tous les coins et recoins de la réalité connue ? Il a toujours été plus facile d’accepter leurs informations comme évangiles plutôt que de les chercher nous-mêmes. En général, je le fais toujours, mais avec un grain de sel. On nous dit dans _Le Livre d'Urantia_ « La foi n’entrave pas l’imagination créatrice, elle n’entretient pas non plus de préjugés irraisonnés contre les découvertes de la recherche scientifique. » <a id="a53_658"></a>[[LU 101:8.4](/fr/The_Urantia_Book/101#p8_4)] Alors soyons raisonnables.
 
 Ce n’est que récemment que j’ai pris conscience que cette chose appelée science est un processus extrêmement imparfait mené par des individus extrêmement imparfaits. Le mot « processus » est ici le mot clé. La réalité universelle est une constante, et la science est ce processus aléatoire par lequel nous essayons de comprendre cette réalité. Comment savoir si nous avons un succès ou un échec ? Seul le temps nous le dira, et l’art de la découverte scientifique est encore très jeune.
 
@@ -41,15 +65,15 @@ Maintenant, si les gens insistent sur le fait que l'opinion scientifique actuell
 
 Il est répété à maintes reprises que les révélateurs avaient pour mandat d'utiliser la science de l'époque, de donner la préférence aux concepts humains existants les plus élevés. Et maintenant que de nouvelles découvertes ont été faites, la révélation semble erronée. La mention au début du livre semble être l'une des sources de cette idée. Il dit que dans la coordination des connaissances essentielles, les auteurs doivent donner la préférence aux concepts les plus élevés relatifs aux sujets à présenter (p. 16). Quelle que soit la façon dont je lis cette ligne, je n’ai jamais l’impression que, dans la coordination des connaissances essentielles, il était nécessaire d’inclure délibérément les inexactitudes. (En lisant attentivement la reconnaissance, il semble qu’elle parle principalement de choses de valeur spirituelle.)
 
-Nous avons déjà déterminé qu'il existe une certaine distorsion dans les concepts spirituels élevés, mais lorsqu'on s'intéresse à la simplicité mécanique des sciences physiques, cela ne semble guère raisonnable. Il y a trop d’exemples dans le livre où la science de l’époque n’a pas été utilisée, ou a en fait été corrigée. La dérive des continents en est un exemple ([LU 58:4.3-4](/fr/The_Urantia_Book/58#p4_3)), et les calculs de la masse du soleil en sont un autre ([LU 41:4.1](/fr/The_Urantia_Book/41#p4_1)).
+Nous avons déjà déterminé qu'il existe une certaine distorsion dans les concepts spirituels élevés, mais lorsqu'on s'intéresse à la simplicité mécanique des sciences physiques, cela ne semble guère raisonnable. Il y a trop d’exemples dans le livre où la science de l’époque n’a pas été utilisée, ou a en fait été corrigée. La dérive des continents en est un exemple (<a id="a67_367"></a>[LU 58:4.3-4](/fr/The_Urantia_Book/58#p4_3)), et les calculs de la masse du soleil en sont un autre (<a id="a67_468"></a>[LU 41:4.1](/fr/The_Urantia_Book/41#p4_1)).
 
-Sur [LU 101:4.2](/fr/The_Urantia_Book/101#p4_2) , ce qu'on appelle « l'avertissement », les auteurs affirment également que leurs déclarations concernant les sciences physiques auront besoin d'être révisées en raison de nouvelles découvertes et développements, et qu'il leur a été interdit d'inclure ces faits non découverts dans ces enregistrements. Encore une fois, rien n’implique qu’ils aient dû utiliser de fausses déclarations. Limité, oui, mais pas faux. Parce que les hommes comme les anges doivent rechercher et découvrir la nature physique de l'univers (ce n'est pas inspiré), il serait injuste que les anges nous révèlent des informations que nous n'avons pas encore découvertes.
+Sur <a id="a69_4"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2) , ce qu'on appelle « l'avertissement », les auteurs affirment également que leurs déclarations concernant les sciences physiques auront besoin d'être révisées en raison de nouvelles découvertes et développements, et qu'il leur a été interdit d'inclure ces faits non découverts dans ces enregistrements. Encore une fois, rien n’implique qu’ils aient dû utiliser de fausses déclarations. Limité, oui, mais pas faux. Parce que les hommes comme les anges doivent rechercher et découvrir la nature physique de l'univers (ce n'est pas inspiré), il serait injuste que les anges nous révèlent des informations que nous n'avons pas encore découvertes.
 
 Ce qui retiendra l’attention des futurs étudiants de cette révélation, ce seront les omissions notables de données scientifiques. Ces erreurs d’omission rendront certaines déclarations obsolètes et devront être révisées à mesure que le processus scientifique avance. Cela signifie-t-il que nous allons réellement recevoir une révision à une date ultérieure ? Pas nécessairement. Lors de l’expansion des États-Unis, les cartes ne contenaient que les États appartenant à l’Union. Les premières cartes n'en comptaient que treize, et à mesure que de nouveaux États rejoignaient la Fédération, les cartes furent révisées pour inclure ces nouveaux États. Maintenant que nous avons des cartes avec cinquante États, est-ce que ces premières cartes sont fausses ? Non. Ils « ont besoin d’être révisés » et ne sont erronés que par rapport aux données actuelles en raison d’omissions, mais ils sont précis dans leur contexte.
 
 Comme indiqué précédemment, il a été suggéré que les Révélateurs ont délibérément inséré des informations erronées dans le livre, ce qu’on appelle les « bombes à retardement ». L’idée est que ces erreurs « exploseraient » un jour sur la page, altérant le contenu du livre, le rendant ainsi vicié et peu attrayant pour les lecteurs qui autrement pourraient en faire un fétiche. Au cours de toutes mes années d'études, je n'ai jamais rencontré quelqu'un ayant un fétichisme pour le _Livre d'Urantia_. En fait, c'est tout le contraire. Nous le marquons, renversons des objets dessus et le laissons traîner sur le sol. C'est comme dire qu'Adam et Ève ont volontairement trébuché et sont tombés constamment pour ne pas être adorés comme des dieux. C’est une insulte à l’intelligence des individus qui sont à un niveau capable d’accepter la haute vérité. Nous avons cependant un respect sain pour le livre, car c’est une belle œuvre d’art littéraire. Même les opposants au livre reconnaissent son utilisation dominante de la langue anglaise.
 
-Une de ces « bombes à retardement » aurait été découverte dans un paragraphe compliqué sur [LU 57:6.2](/fr/The_Urantia_Book/57#p6_2). Il est dit:
+Une de ces « bombes à retardement » aurait été découverte dans un paragraphe compliqué sur <a id="a75_91"></a>[LU 57:6.2](/fr/The_Urantia_Book/57#p6_2). Il est dit:
 
 « Les planètes les plus proches du soleil furent les premières à avoir leur rotation ralentie par les frictions dues aux effets de marée. Ces influences gravitationnelles contribuent également à stabiliser les orbites planétaires en freinant le rythme de rotation des planètes sur elles-mêmes ; de ce fait, les planètes tournent de plus en plus lentement jusqu’à ce que leur rotation axiale s’arrête. Cela laisse un hémisphère de la planète constamment tourné du côté du soleil ou du corps le plus grand, comme le montrent les exemples de la planète Mercure et de la Lune, cette dernière présentant toujours la même face à Urantia. » Au moment de la révélation, la communauté scientifique croyait que Mercure montrait la même face vers le soleil. En 1965, il fut prouvé le contraire. Une lecture occasionnelle donne l’impression que les écrivains exprimaient la science de l’époque. Il a été suggéré que parce que les Révélateurs savaient cela, ils ont dû utiliser des éléments erronés pour créer des défauts dans un livre par ailleurs presque parfait afin d'éviter le fétichisme.
 
@@ -59,9 +83,9 @@ J'aimerais aborder une autre « bombe à retardement » suggérée qui a été a
 
 Parce que certains lecteurs insistent pour interpréter « le troisième jour/période » comme signifiant uniquement une période de trois jours, comme celle qui s'est produite avec la résurrection de Jésus, ils sont confrontés au problème de savoir comment les séraphins, qui ne peuvent procéder qu'à une période de trois jours, trois fois la vitesse de la lumière, sont capables d'arriver sur les mondes des maisons à plusieurs années-lumière en trois jours. C’est un problème très déroutant, mais devons-nous recourir à une distorsion du temps et à une courbure de l’espace pour y parvenir ? À mon avis, la révélation montre clairement que le transport à travers l'espace est une procédure assez simple pour aller d'un endroit à un autre, à l'exception de certaines personnalités comme les Messagers de la Gravité qui semblent inconditionnés par le temps et l'espace. Certains lecteurs pensent qu'il pourrait y avoir un moyen de transport encore inconnu pour une raison quelconque qui expliquerait ce problème de voyage séraphique sur de grandes distances dans un laps de temps relativement court.
 
-La meilleure explication que j'ai entendue pour ce problème est que « le troisième jour/période » fait référence à une période indéfinie qui est d'une courte durée plutôt que d'une longue. Quelque chose de similaire à l'expression juive courante de l'époque de Jésus, « le troisième jour », qui signifiait « actuellement » ou « peu après » ([LU 171:4.8](/fr/The_Urantia_Book/171#p4_8)). Ceci est similaire à la façon dont nous utilisons « un saut, un saut et un saut » pour désigner une courte distance par opposition à une longue.
+La meilleure explication que j'ai entendue pour ce problème est que « le troisième jour/période » fait référence à une période indéfinie qui est d'une courte durée plutôt que d'une longue. Quelque chose de similaire à l'expression juive courante de l'époque de Jésus, « le troisième jour », qui signifiait « actuellement » ou « peu après » (<a id="a85_341"></a>[LU 171:4.8](/fr/The_Urantia_Book/171#p4_8)). Ceci est similaire à la façon dont nous utilisons « un saut, un saut et un saut » pour désigner une courte distance par opposition à une longue.
 
-Il ne va pas de soi que les mandats révélateurs aient encouragé l'insertion de données scientifiques et cosmologiques inexactes dans une révélation conçue pour « réduire la confusion en éliminant autoritairement les erreurs » ([LU 101:4.6](/fr/The_Urantia_Book/101#p4_6)). L’idée d’une tromperie divine est répugnante, et je ne pense pas que les Anciens des Jours autoriseraient de tels mandats.
+Il ne va pas de soi que les mandats révélateurs aient encouragé l'insertion de données scientifiques et cosmologiques inexactes dans une révélation conçue pour « réduire la confusion en éliminant autoritairement les erreurs » (<a id="a87_227"></a>[LU 101:4.6](/fr/The_Urantia_Book/101#p4_6)). L’idée d’une tromperie divine est répugnante, et je ne pense pas que les Anciens des Jours autoriseraient de tels mandats.
 
 Les mandats concernant les sciences physiques auraient pu être aussi simples que ceci : (1) Si un esprit humain a conçu quelque chose de vaguement lié au fait, alors les auteurs pourraient le reformuler avec plus de clarté. Il n’était pas nécessaire que ce soit une idée commune ou publiée. Cela pourrait donner lieu à de nombreuses déclarations apparemment prédictives ; (2) Si une certaine ligne de recherche scientifique se dirige vers une découverte définitive dans un avenir très proche, alors les auteurs pourraient révéler cette découverte avant l'heure, sachant que les scientifiques ne liraient pas la révélation, ne révélant ainsi pas de faits non découverts. Cela aussi produirait des déclarations prédictives ; (3) Si les données actuelles sont incorrectes dans une théorie connue, elles peuvent alors être corrigées en respectant les deux premiers mandats. Ceci n’est qu’une suggestion quant à ce qu’auraient pu être certains des mandats.
 
@@ -74,3 +98,28 @@ Afin d'avancer en toute sécurité vers la vérité de cette révélation et de 
 > _Denver Pearson est actif depuis longtemps dans le Mouvement Urantia. Il nous dit : « _Le Livre d'Urantia_ m'a trouvé en 1970. » Denver est devenu membre à part entière de la Fraternité Urantia en 1977. Il a organisé et participé à des groupes d'étude partout où il a vécu. Alors qu'il vivait à Denver, au Colorado, il est devenu membre de la Rocky Mountain Spiritual Fellowship. Denver a servi comme officier dans cette société. Denver est titulaire d'un baccalauréat en beaux-arts de l'Université du Nouveau-Mexique. De nombreux Urantiens connaissent Denver comme un musicien accompli, et il a publié une cassette musicale de chansons originales inspirées de l'LU. Il travaille actuellement sur un roman basé sur les Cahiers d'Urantia._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/More_Lessons_from_the_Birds_and_Bees">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Plus de leçons tirées des oiseaux et des abeilles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/The_Infinity_of_God_An_Astronomical_Approach">
+          <span class="pr-2">L'Infinité de Dieu, une approche astronomique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

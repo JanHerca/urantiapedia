@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Sue Tennant<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/The_Goddess">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Déesse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="pr-2">Pourquoi certains ministres ne lisent pas le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Récemment à Chicago, au _Parlement pour les religions du monde_ (une célébration historique du centenaire du mouvement interconfessionnel), j'ai vu la possibilité d'un avenir meilleur pour la religion, l'Église chrétienne et notre monde.
@@ -31,7 +55,7 @@ Malheureusement, je connais peu de lecteurs du Livre d'Urantia ou de membres de 
 
 > Les nombreuses religions d’Urantia sont toutes bonnes dans la mesure où elles amènent l’homme à Dieu et où elles apportent à l’homme la réalisation du Père. C’est une erreur, pour un groupe religieux quelconque, de s’imaginer que son crédo est *La Vérité ;* cette attitude dénote plus de morgue théologique que de certitude dans la foi. Toutes les religions d’Urantia sans exception auraient profit à étudier et assimiler le meilleur des vérités contenues dans toutes les autres, car elles contiennent toutes des vérités. Les religionistes feraient mieux d’emprunter ce qu’il y a de meilleur dans la foi spirituelle vivante de leurs voisins, que de dénoncer ce qu’il y a de pire dans leurs superstitions rémanentes et leurs rituels désuets.
 > 
-> Toutes ces religions sont nées comme conséquence de la réaction intellectuelle variable des hommes à des directives spirituelles identiques. Ils doivent abandonner tout espoir d’arriver à une uniformité de crédos, de dogmes et de rituels — car ceux-ci sont intellectuels ; mais ils peuvent, et ils y parviendront un jour, réaliser une unité dans l’adoration sincère du Père de tous, car celle-ci est spirituelle, et il est éternellement vrai qu’en esprit tous les hommes sont égaux. ([LU 92:7.3-4](/fr/The_Urantia_Book/92#p7_3))
+> Toutes ces religions sont nées comme conséquence de la réaction intellectuelle variable des hommes à des directives spirituelles identiques. Ils doivent abandonner tout espoir d’arriver à une uniformité de crédos, de dogmes et de rituels — car ceux-ci sont intellectuels ; mais ils peuvent, et ils y parviendront un jour, réaliser une unité dans l’adoration sincère du Père de tous, car celle-ci est spirituelle, et il est éternellement vrai qu’en esprit tous les hommes sont égaux. (<a id="a57_486"></a>[LU 92:7.3-4](/fr/The_Urantia_Book/92#p7_3))
 
 > _En raison des concepts et des faits élargis révélés dans_ Le Livre d'Urantia, _les étudiants ont reçu une éducation rare et passionnante, qui oblige les lecteurs à inclure toute l'humanité comme enfants de Dieu, et à accorder la plus haute priorité au commandement de Jésus de travailler pour le bien-être spirituel de la planète entière._
 
@@ -40,3 +64,28 @@ Les ressources multiconfessionnelles des grandes villes nord-américaines sont e
 > _Sue Tenant a fréquenté le Wycliffe College, Toronto School of Theology. Elle est une ancienne publiciste torontoise et auteure de Crossing Cultures in Business. Elle est actuellement directrice de la World Interfaith Education Association._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/The_Goddess">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Déesse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="pr-2">Pourquoi certains ministres ne lisent pas le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

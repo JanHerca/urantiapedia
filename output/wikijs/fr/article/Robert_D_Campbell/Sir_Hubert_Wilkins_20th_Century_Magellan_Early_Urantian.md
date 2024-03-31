@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Robert D. Campbell<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leadership pour les communautés spirituelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Eugenics_and_the_Urantia_Papers">
+          <span class="pr-2">L'Eugénisme et les Cahiers d'Urantia — Les Mines terrestres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous avons écouté dans un silence respectueux, complètement étonnés par l'histoire qui nous a été racontée lors de ce bel après-midi d'été au club de natation local. Alors que notre voisine Kris essuyait ses larmes et prenait parfois une pause pour se ressaisir, nous avons appris qu'elle n'avait jamais connu son père, car lui et son équipe de géologues avaient disparu il y a plus de quatre décennies alors qu'ils exploraient les régions arctiques. Aujourd'hui, chose incroyable, elle fait partie des nombreuses personnes que les autorités canadiennes ont retrouvées après avoir récemment localisé l'avion perdu depuis longtemps de cette mission malheureuse et trouvé des objets d'identification à l'intérieur, parmi lesquels le portefeuille du père de Kris. Dans quelques jours, elle se dirigerait vers le pôle Nord pour participer à une cérémonie destinée à mettre un terme aux familles de cette expédition qui a péri dans le désert gelé.
@@ -69,12 +93,37 @@ Comme « meilleure épitaphe » pour la vie extraordinaire de son mari, elle a o
 > _Pour que l'expérience de vivre me conduise, moi et mes semblables_
 > _Vers une plus grande réalité spirituelle._
 
-Il s'agit, bien sûr, de la doctrine pure du _Livre d'Urantia_, directement issue de [LU 48:7.8](/fr/The_Urantia_Book/48#p7_8) et trouvée parmi une foule d'autres déclarations de la philosophie humaine énumérées comme conditions préalables essentielles à notre croissance spirituelle continue.
+Il s'agit, bien sûr, de la doctrine pure du _Livre d'Urantia_, directement issue de <a id="a95_84"></a>[LU 48:7.8](/fr/The_Urantia_Book/48#p7_8) et trouvée parmi une foule d'autres déclarations de la philosophie humaine énumérées comme conditions préalables essentielles à notre croissance spirituelle continue.
 
-Quiconque ayant même une vague connaissance des exploits de Sir Hubert Wilkins, se retrouvant abandonné dans un coin reculé du monde, pourrait bien mourir en s'accrochant à l'espoir qu'un sauveteur de constitution égale passera des mois à rechercher son équipage. Dans l'isolement glacial qui a été le théâtre de la mort du père de Kris, cela lui a peut-être apporté un certain réconfort d'avoir entendu ou lu les mots que nous connaissons tous si bien, les mots que l'aventurier protéiforme Sir Hubert Wilkins avait trouvé « les plus réconfortant." Peut-être que ce simple passage de [LU 91:9.8](/fr/The_Urantia_Book/91#p9_8) du _Le Livre d'Urantia_ aurait aidé : « _Vous devez avoir la foi — une foi vivante._ »
+Quiconque ayant même une vague connaissance des exploits de Sir Hubert Wilkins, se retrouvant abandonné dans un coin reculé du monde, pourrait bien mourir en s'accrochant à l'espoir qu'un sauveteur de constitution égale passera des mois à rechercher son équipage. Dans l'isolement glacial qui a été le théâtre de la mort du père de Kris, cela lui a peut-être apporté un certain réconfort d'avoir entendu ou lu les mots que nous connaissons tous si bien, les mots que l'aventurier protéiforme Sir Hubert Wilkins avait trouvé « les plus réconfortant." Peut-être que ce simple passage de <a id="a97_585"></a>[LU 91:9.8](/fr/The_Urantia_Book/91#p9_8) du _Le Livre d'Urantia_ aurait aidé : « _Vous devez avoir la foi — une foi vivante._ »
 
 > _Robert D. Campbell lit les Fascicules d'Urantia depuis 33 ans. Il vit à Haddonfield, New Jersey._
 {.is-info}
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Leadership_for_Spiritual_Communities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Leadership pour les communautés spirituelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Eugenics_and_the_Urantia_Papers">
+          <span class="pr-2">L'Eugénisme et les Cahiers d'Urantia — Les Mines terrestres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

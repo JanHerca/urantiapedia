@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Bud Bromley<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'intégrité scientifique du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Norm_Duval/The_Real_Gospel_2">
+          <span class="pr-2">Le véritable Évangile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quelle est la taille de Dieu ? Une approche consiste à se demander : « Quelle est la taille de l’univers dans lequel Il imprègne ? Ou, du moins, quelle est l’ampleur de ce que nous en savons actuellement ?
@@ -37,3 +61,28 @@ Et le plus grand miracle est que ce Dieu inconcevable et infini invite avec amou
 > 
 > bbromley@comteck.com
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'intégrité scientifique du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Norm_Duval/The_Real_Gospel_2">
+          <span class="pr-2">Le véritable Évangile</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

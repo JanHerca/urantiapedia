@@ -27,7 +27,7 @@ Lors des conférences du soir sur le mont Garizim, Jésus a enseigné de nombreu
 > 
 > L’adoration est l’acte d’une fraction qui s’identifie avec le Tout ; le fini avec l’Infini ; le fils avec le Père ; le temps, dans l’action consistant à emboiter le pas à l’éternité. L’adoration est l’acte de communion personnelle du fils avec le Père divin, l’adoption, par l’âme-esprit de l’homme, de comportements reposants, créatifs, fraternels et romanesques.
 > 
-> Quoique les apôtres n’aient compris qu’une faible partie des enseignements du Maitre au camp, d’autres mondes les comprirent, et d’autres générations sur terre les comprendront. ([LU 143:7.2-9](/fr/The_Urantia_Book/143#p7_2))
+> Quoique les apôtres n’aient compris qu’une faible partie des enseignements du Maitre au camp, d’autres mondes les comprirent, et d’autres générations sur terre les comprendront. (<a id="a29_181"></a>[LU 143:7.2-9](/fr/The_Urantia_Book/143#p7_2))
 
 ## Liens externes
 

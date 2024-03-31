@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume9_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/No_Credible_Theology">
+          <span class="pr-2">Aucune théologie crédible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les religions évoluent généralement autour de personnalités charismatiques ou prophétiques. Lorsque les sentiments et les pratiques religieuses atteignent l’identité d’un groupe autochtone et s’institutionnalisent dans une société, ils deviennent une partie permanente de cette culture. La théologie, le régime politique et la pratique d'une religion peuvent subir des changements au fil des ans, mais ils conservent leur identité historique. Jamais un paradigme religieux nouveau et avancé n’a vaincu la structure de pouvoir des religions plus anciennes.
@@ -22,3 +46,28 @@ Jésus a essayé de faire progresser le judaïsme, et ses disciples ont commenc�
 
 Ce phénomène de résistance au changement s’applique aux révélations d’époque. Toutes les révélations d’époque se sont heurtées à des obstacles. La Cinquième Révélation d’Époque connaît certaines des mêmes difficultés. Les sponsors médians de _La vie et les enseignements de Jésus_ semblent tenter de surpasser le christianisme. Au cours des quarante dernières années, j'ai essayé d'amener les théologiens et les ministres chrétiens à examiner sérieusement le Livre d'Urantia, pratiquement sans succès. Même les ministres qui reconnaissent sa qualité et utilisent ses enseignements le font en secret. Il est clair que toute organisation religieuse issue de la Cinquième Révélation d’Époque sera une nouvelle organisation religieuse. De telles organisations seront évidemment nombreuses dans les siècles à venir. Espérons que de telles organisations et institutions, dans leur théologie, leur politique et leur pratique, bénéficieront de la sagesse spirituelle des Cahiers d'Urantia. Au cours de ces premières années de développement précédant l'avènement de nouvelles organisations religieuses, la mission de ce journal est de _Promouvoir les discussions théologiques, philosophiques et politiques allemandes vers un symbolisme approprié et une expression socioreligieuse de la cinquième révélation d'époque_. Espérons que ces discussions contribueront à la sagesse spirituelle qui sera disponible lorsque ces nouvelles organisations religieuses feront leur apparition.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume9_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/No_Credible_Theology">
+          <span class="pr-2">Aucune théologie crédible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

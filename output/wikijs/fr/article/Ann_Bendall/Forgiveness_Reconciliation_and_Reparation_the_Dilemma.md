@@ -37,7 +37,7 @@ Par conséquent, dans de telles circonstances, chaque partie doit s’efforcer d
 
 Les abus sexuels pendant l’enfance sont une autre affaire. En raison du différentiel de pouvoir et de la position de confiance, l’enfant est une victime et est violé par l’agresseur. L'auteur du mal est souvent une personne proche de l'enfant, et la victime a des souvenirs de moments d'amour mais aussi d'abus de confiance et de pouvoir.
 
-Si seulement les gens pouvaient être soit tous bons, soit tous mauvais, la vie serait bien moins compliquée. Mais la réalité est que les gens sont imparfaits, un mélange. Il est donc difficile de pardonner si nous nous efforçons de les comprendre en nous basant sur l’attente de cohérence. (« Mieux l’homme comprend son prochain, plus il lui est facile de lui pardonner et même de l’aimer. » [LU 2:4.2](/fr/The_Urantia_Book/2#p4_2))
+Si seulement les gens pouvaient être soit tous bons, soit tous mauvais, la vie serait bien moins compliquée. Mais la réalité est que les gens sont imparfaits, un mélange. Il est donc difficile de pardonner si nous nous efforçons de les comprendre en nous basant sur l’attente de cohérence. (« Mieux l’homme comprend son prochain, plus il lui est facile de lui pardonner et même de l’aimer. » <a id="a39_392"></a>[LU 2:4.2](/fr/The_Urantia_Book/2#p4_2))
 
 À un moment donné, à mesure que nous grandissons, nous réalisons que nous sommes coincés dans la transgression passée de l’agresseur, continuant à entretenir de la colère et de la douleur face à son méfait tout en luttant pour pardonner.
 
@@ -47,7 +47,7 @@ Malheureusement, le pardon a des connotations communes avec l'apologie de l'acte
 
 Pardonner, c’est d’abord se demander ce que l’on doit pardonner exactement. Et cela nécessite une exploration la plus objective possible de l’acte et de ses conséquences sur nous-mêmes. Cela a-t-il déformé notre image de nous-mêmes et de notre vie. Le processus de guérison après un méfait commis par un autre nous oblige à explorer son impact sur notre estime de soi et notre attitude envers la vie et envers les autres. C'est notre tâche.
 
-Vient ensuite l'approche de l'agresseur dans le but d'étendre notre pardon pour son acte mauvais (_Le Livre d'Urantia_ fournit des lignes directrices sur la façon d'approcher l'agresseur sur [LU 159:1.3](/fr/The_Urantia_Book/159#p1_3)). Cette étape nécessite que les victimes soient conscientes du fait qu'il existe généralement un écart important entre les auteurs et les victimes.
+Vient ensuite l'approche de l'agresseur dans le but d'étendre notre pardon pour son acte mauvais (_Le Livre d'Urantia_ fournit des lignes directrices sur la façon d'approcher l'agresseur sur <a id="a49_191"></a>[LU 159:1.3](/fr/The_Urantia_Book/159#p1_3)). Cette étape nécessite que les victimes soient conscientes du fait qu'il existe généralement un écart important entre les auteurs et les victimes.
 
 Les auteurs perçoivent les effets de leurs actes comme ayant une portée, une importance et une gravité moindres que celles des victimes. Un événement violent et répressif a tendance à retomber dans le passé beaucoup plus rapidement pour l’auteur que pour la victime. Pour l’agresseur, cela peut rapidement devenir une histoire ancienne alors que la victime peut y voir un élément crucial pour comprendre le présent.
 

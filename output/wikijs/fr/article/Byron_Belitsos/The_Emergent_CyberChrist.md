@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Byron Belitsos<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'aube d'un nouvel âge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jack_Rogers/The_Pageantry_of_Christmas">
+          <span class="pr-2">Le spectacle de Noël</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le Jésus de la Partie IV du _Livre d'Urantia_ inspirera de nombreuses nouvelles christologies au cours du prochain siècle. Dans une version, je crois, Christ Michael apparaîtra comme le « CyberChrist ». Le concept du CyberChrist est la forme de Jésus la plus présentable aux descendants directs de la révolution informatique – comme l’évangile est reformulé pour leur génération. Prophétiquement parlant, le CyberChrist est le Christ de la transfiguration personnelle telle qu'elle est induite par des médias informatiques avancés : le Jésus qui parraine les expériences religieuses cosmiques dans un monde post-moderne. Espérons que ce Jésus puisse rivaliser avec les dieux néo-païens qui comblent désormais le vide spirituel des enfants sophistiqués de l’ère informatique.
@@ -54,3 +78,28 @@ Tout en faisant l'éloge de la technologie et de son potentiel, _Lawnmower Man_ 
 > _Byron a été journaliste et producteur de télévision et est maintenant consultant dans l'industrie des télécommunications._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'aube d'un nouvel âge</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jack_Rogers/The_Pageantry_of_Christmas">
+          <span class="pr-2">Le spectacle de Noël</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

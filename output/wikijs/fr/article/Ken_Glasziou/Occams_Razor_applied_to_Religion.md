@@ -24,7 +24,7 @@ _Dieu est le seul fait auto-causé existant dans l'ensemble de la réalité, il 
 > La façon de faire avancer les choses ne consiste pas à se préoccuper de savoir à qui revient le mérite de les avoir accomplies.
 > &nbsp; &nbsp; &nbsp; Benjamin Jowett
 
-> Au stade mortel, rien ne peut être prouvé absolument ; la science et la religion sont toutes deux fondées sur des hypothèses. ([LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
+> Au stade mortel, rien ne peut être prouvé absolument ; la science et la religion sont toutes deux fondées sur des hypothèses. (<a id="a26_129"></a>[LU 103:7.10](/fr/The_Urantia_Book/103#p7_10))
 
 Évidemment, si ce Dieu est la source de tout ce qui existe, alors Dieu a précédé tout ce qui existe, y compris le temps. Cette conclusion nous donne une échappatoire à toutes ces questions temporelles désormais inapplicables comme « Qui a créé Dieu ? Car avant le temps, il n’existait que le « maintenant » infini et éternel – et de telles questions ne sont pas pertinentes.
 

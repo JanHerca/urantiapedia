@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Humble_Approach_by_John_M_Templeton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : L'approche humble de John M. Templeton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_4">
+          <span class="pr-2">Les Psaumes aujourd'hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Howard A. Snyder
@@ -20,7 +44,7 @@ Howard Snyder présente une analyse provocatrice de huit tendances mondiales : E
 
 La deuxième section du livre décrit six visions du monde globales : Global Economics – APragmatic Worldview ; Mystère quantique －Une nouvelle vision scientifique du monde ?; La vie sur un
 
-_The Spiritual Fellowship Journal_ Living Planet — La vision du monde Gaia ; Conception divine – Dieu dans l’ombre ?; La force du destin – Le déterminisme revisité ; et Postmodernisme – La mort des visions du monde ?.
+_Journal de la Fraternité Spirituelle_ Living Planet — La vision du monde Gaia ; Conception divine – Dieu dans l’ombre ?; La force du destin – Le déterminisme revisité ; et Postmodernisme – La mort des visions du monde ?.
 
 La troisième section de _EarthCurrents_ discute des forces et des faiblesses des visions du monde contemporaines et présente un argument en faveur d'une vision chrétienne du monde actualisée. Une vision du monde viable, observe Snyder, doit être cohérente – elle doit tenir compte de la connectivité de toutes choses et de tous les êtres. L'ordre (le but), la surprise (l'indéterminisme) et la beauté sont des marques indélébiles de l'univers et de la société humaine. Ils sont fondamentaux pour une vision ou une réalité cohérente.
 
@@ -30,5 +54,30 @@ Le centre et le sens de cette histoire sont Jésus-Christ. Les théologies chré
 
 
 
-> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. (<a id="a56_555"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Humble_Approach_by_John_M_Templeton">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : L'approche humble de John M. Templeton</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_4">
+          <span class="pr-2">Les Psaumes aujourd'hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

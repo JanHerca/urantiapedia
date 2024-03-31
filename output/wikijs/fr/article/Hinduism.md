@@ -11,9 +11,9 @@ dateCreated: 2022-9-9T8:13:38Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « Tout Urantia attend que l’on proclame le message ennoblissant de Micaël, débarrassé des dogmes et doctrines accumulés au cours de dix-neuf siècles de contact avec les religions d’origine évolutionnaire. L’heure a sonné de présenter au bouddhisme, au christianisme, à l’hindouisme et même aux peuples de toutes les religions, non pas l’évangile à propos de Jésus, mais la réalité vivante et spirituelle de l’évangile de Jésus. » ([LU 94:12.7](/fr/The_Urantia_Book/94#p12_7))
+> « Tout Urantia attend que l’on proclame le message ennoblissant de Micaël, débarrassé des dogmes et doctrines accumulés au cours de dix-neuf siècles de contact avec les religions d’origine évolutionnaire. L’heure a sonné de présenter au bouddhisme, au christianisme, à l’hindouisme et même aux peuples de toutes les religions, non pas l’évangile à propos de Jésus, mais la réalité vivante et spirituelle de l’évangile de Jésus. » (<a id="a13_433"></a>[LU 94:12.7](/fr/The_Urantia_Book/94#p12_7))
 
-Et à quel point serait-il difficile de présenter une telle réalité à l’hindouisme, une religion qui croit à la réincarnation et au karma ? Cela ne semble peut-être pas une tâche aussi formidable qu'il pourrait paraître à première vue pour l'hindouisme, « _est révélé comme la religion la plus flexible et la plus vague qui soit apparue sur Urantia. Il est capable de changements à peu près illimités et possède un champ inhabituel d’adaptations souples, depuis les spéculations élevées et semi-monothéistes du Brahman intellectuel jusqu’au fétichisme notoire et aux pratiques cultuelles primitives des classes avilies et déprimées de croyants ignorants._ » ([LU 94:4.8](/fr/The_Urantia_Book/94#p4_8))
+Et à quel point serait-il difficile de présenter une telle réalité à l’hindouisme, une religion qui croit à la réincarnation et au karma ? Cela ne semble peut-être pas une tâche aussi formidable qu'il pourrait paraître à première vue pour l'hindouisme, « _est révélé comme la religion la plus flexible et la plus vague qui soit apparue sur Urantia. Il est capable de changements à peu près illimités et possède un champ inhabituel d’adaptations souples, depuis les spéculations élevées et semi-monothéistes du Brahman intellectuel jusqu’au fétichisme notoire et aux pratiques cultuelles primitives des classes avilies et déprimées de croyants ignorants._ » (<a id="a15_658"></a>[LU 94:4.8](/fr/The_Urantia_Book/94#p4_8))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Shiva.jpg">
@@ -28,7 +28,7 @@ La théologie hindoue, à l’heure actuelle, décrit quatre niveaux descendants
 
 3. Divinités védiques et post-védiques. De nombreux anciens dieux des Aryens, tels qu'Agni, Indra et Soma, sont restés secondaires par rapport aux trois membres de la Trimurti. De nombreux autres dieux sont apparus depuis les débuts de l’Inde védique, et ont également été incorporés au panthéon hindou.
 
-4. Les demi-dieux : surhommes, semi-dieux, héros, démons, fantômes, mauvais esprits, sprites, monstres, gobelins et saints des cultes ultérieurs. ([LU 94:4.7](/fr/The_Urantia_Book/94#p4_7))
+4. Les demi-dieux : surhommes, semi-dieux, héros, démons, fantômes, mauvais esprits, sprites, monstres, gobelins et saints des cultes ultérieurs. (<a id="a30_147"></a>[LU 94:4.7](/fr/The_Urantia_Book/94#p4_7))
 
 Huston Smith (1965) dans « The Religions of Man » note que le fait que l'hindouisme ait partagé son territoire pendant des siècles avec les Parsis, les bouddhistes, les musulmans, les sikhs et les chrétiens peut aider à expliquer une idée qui ressort plus clairement à travers elle qu'à travers elle. toute autre religion contemporaine dominante ; à savoir, sa conviction que les différentes grandes religions sont des chemins alternatifs et relativement égaux vers le même Dieu. « Prétendre que le salut est le monopole d’une religion quelconque revient à prétendre que Dieu peut être trouvé dans cette pièce mais pas dans l’autre. Normalement, chaque individu emprunte le chemin qui mène à la montagne de la vie à partir de sa propre culture ; ceux qui font le tour de la montagne en essayant d’attirer les autres sur leur chemin ne grimpent pas. Dans la pratique, les sectes indiennes se sont souvent montrées fanatiquement intolérantes, mais en principe elles sont restées particulièrement ouvertes. Les Vedas annoncent très tôt l’affirmation classique de l’hindouisme : les différentes religions ne sont que les différentes langues par lesquelles Dieu a parlé au cœur humain. La vérité est une : les sages l’appellent sous des noms différents.
 
@@ -50,7 +50,7 @@ En réponse à la question « Quel genre de monde avons-nous ? » L'hindouisme r
 
 6. Un monde lila, le jeu du divin dans sa danse cosmique, infatigable, interminable, irrésistible mais finalement doux, avec une grâce née d'une vitalité infinie.
 
-La beauté et la vérité des enseignements de l’hindouisme ont été capturées par Jésus et Ganid dans leur choix de citations tirées de la littérature hindoue. (voir [LU 131:4.1](/fr/The_Urantia_Book/131#p4_1))
+La beauté et la vérité des enseignements de l’hindouisme ont été capturées par Jésus et Ganid dans leur choix de citations tirées de la littérature hindoue. (voir <a id="a52_163"></a>[LU 131:4.1](/fr/The_Urantia_Book/131#p4_1))
 
 
 ## Références

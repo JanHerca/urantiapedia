@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Meredith J. Sprunger<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/A_Question_of_Priorities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une question de priorités</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours des quarante-cinq premières années de son histoire, le mouvement Urantia a évolué d'une poignée de lecteurs à Chicago à des centaines de groupes d'étude et des dizaines de milliers de lecteurs à travers le monde. Sans publicité ou promotion de masse, environ 500 000 exemplaires du _Livre d'Urantia_ ont été vendus et des traductions sont disponibles dans de nombreuses langues du monde. Des versions audio et informatique du livre sont disponibles et de nombreux supports d'étude ont été publiés. Des conférences régionales et internationales se tiennent et les travaux secondaires se multiplient.
@@ -21,3 +42,25 @@ Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévou
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/A_Question_of_Priorities">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une question de priorités</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

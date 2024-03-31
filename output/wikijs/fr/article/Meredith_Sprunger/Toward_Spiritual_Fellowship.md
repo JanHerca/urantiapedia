@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Meredith J. Sprunger<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Mix_of_Joy_and_Discouragement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : le mélange de joie et de découragement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Living_the_Teachings_Groups">
+          <span class="pr-2">Vivre les enseignements des groupes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’évolution contemporaine la plus marquante de la religion dans notre monde est l’avènement du mouvement œcuménique et la recherche sans précédent d’une expérience spirituelle significative. Cette quête croissante d’orientation et de direction spirituelles a pris de nombreuses formes. Le théologien Ernst Troeltsch (1865-1923) a observé que toutes les religions sont relatives, c'est-à-dire limitées, partielles et incomplètes. L’historien Arnold Toynbee (1889-1975) a examiné toutes les religions du monde et a souligné qu’il existe un noyau et un objectif communs derrière toutes les religions. Le psychiatre Carl G. Jung (1875-1961), dans une étude approfondie des religions, a découvert qu'il existe une origine et une fonction psychiques communes entre les religions. Ces études, ainsi que d’autres, savantes sur la religion ont ouvert la voie au mouvement œcuménique contemporain.
@@ -33,10 +57,35 @@ La Cinquième Révélation d’Époque, à mon avis, est la seule ressource qui 
 
 La mission mondiale de The Spiritual Fellowship est d'enseigner, de motiver, d'autonomiser et de soutenir toutes les personnes dans leur relation croissante avec Dieu et d'encourager leur service aimant envers l'humanité. Nous croyons que toutes les religions de notre monde peuvent s'identifier à cette mission. À mesure que nous établissons des associations à la base de chaque nation et culture, progressivement la vision spirituelle de la Cinquième Révélation d’Époque deviendra connue et cette vision finira par transformer la société humaine.
 
-Ce ministère de sensibilisation ne sera pas facile. Ce n'est pas pour les âmes timides. Il est difficile pour des citoyens équilibrés et solides de risquer d’être considérés par leurs voisins et amis comme « différents » ou appartenant à une secte ou à un mouvement étrange. Les pionniers sont toujours confrontés à des difficultés et à des épreuves. Les présentations nouvelles et élargies de la vérité ont toujours été et seront toujours attaquées par les traditionalistes et les fondamentalistes religieux. L’histoire de la croissance spirituelle montre que ce n’est que lorsqu’une vision élargie de la vérité est attaquée et ses pionniers persécutés qu’elle attire l’attention et fait appel au nombre important de chercheurs créatifs de vérité spirituelle dans la société : « Heureux les persécutés à cause de leur droiture, car le royaume des cieux leur appartient. Soyez heureux quand les hommes vous insulteront et vous persécuteront et diront faussement toutes sortes de méchancetés contre vous. Réjouissez-vous et soyez dans un bonheur extrême, car votre récompense sera grande dans les cieux. » [[LU 140:3.11](/fr/The_Urantia_Book/140#p3_11)]
+Ce ministère de sensibilisation ne sera pas facile. Ce n'est pas pour les âmes timides. Il est difficile pour des citoyens équilibrés et solides de risquer d’être considérés par leurs voisins et amis comme « différents » ou appartenant à une secte ou à un mouvement étrange. Les pionniers sont toujours confrontés à des difficultés et à des épreuves. Les présentations nouvelles et élargies de la vérité ont toujours été et seront toujours attaquées par les traditionalistes et les fondamentalistes religieux. L’histoire de la croissance spirituelle montre que ce n’est que lorsqu’une vision élargie de la vérité est attaquée et ses pionniers persécutés qu’elle attire l’attention et fait appel au nombre important de chercheurs créatifs de vérité spirituelle dans la société : « Heureux les persécutés à cause de leur droiture, car le royaume des cieux leur appartient. Soyez heureux quand les hommes vous insulteront et vous persécuteront et diront faussement toutes sortes de méchancetés contre vous. Réjouissez-vous et soyez dans un bonheur extrême, car votre récompense sera grande dans les cieux. » <a id="a59_1105"></a>[[LU 140:3.11](/fr/The_Urantia_Book/140#p3_11)]
 
-Faisons partie de ces pèlerins qui « se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » » [[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3)]
+Faisons partie de ces pèlerins qui « se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » » <a id="a61_469"></a>[[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3)]
 
 > _Dr. Meredith J. Sprunger est la fondatrice de The Spiritual Fellowship, la première organisation religieuse basée sur la Cinquième Révélation d'Époque. Il est le fondateur et rédacteur émérite du Spiritual Fellowship Journal. Le 30 juin 2002, à Boulder Colorado, le Dr Sprunger a été ordonné premier ministre de la Spiritual Fellowship._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Mix_of_Joy_and_Discouragement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : le mélange de joie et de découragement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Living_the_Teachings_Groups">
+          <span class="pr-2">Vivre les enseignements des groupes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 David A. Kantor<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Church_in_the_Next_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : L’Église au siècle prochain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="pr-2">Jésus, homme et mythe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _« Si nous comprenions ainsi que nous n'avons plus besoin de chercher, ce ne serait pas le Dieu de la révélation que nous aurions trouvé. » -Avery Dulles_
@@ -190,6 +214,31 @@ Mon objectif était seulement de décrire un contexte dans lequel le _Livre d'Ur
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Church_in_the_Next_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : L’Église au siècle prochain</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="pr-2">Jésus, homme et mythe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
 [^1]: Karl Rahner, _Theological Investigations_, vol. XVI, New York : The Crossroad Publishing Company, 1983, 156.
@@ -228,15 +277,15 @@ Mon objectif était seulement de décrire un contexte dans lequel le _Livre d'Ur
 
 [^18]: Dulles, _Révélation Théologie_.
 
-[^19]: _Le Livre d'Urantia_, [LU 101:4.2](/fr/The_Urantia_Book/101#p4_2).
+[^19]: _Le Livre d'Urantia_, <a id="a279_29"></a>[LU 101:4.2](/fr/The_Urantia_Book/101#p4_2).
 
-[^20]: _Le Livre d'Urantia_, [LU 0:12.11](/fr/The_Urantia_Book/0#p12_11).
+[^20]: _Le Livre d'Urantia_, <a id="a281_29"></a>[LU 0:12.11](/fr/The_Urantia_Book/0#p12_11).
 
-[^21]: _Le Livre d'Urantia_, [LU 0:12.12](/fr/The_Urantia_Book/0#p12_12).
+[^21]: _Le Livre d'Urantia_, <a id="a283_29"></a>[LU 0:12.12](/fr/The_Urantia_Book/0#p12_12).
 
 [^22]: H. R. Niebuhr, _The Meaning of Revelation_, 68.
 
-[^23]: _Le Livre d'Urantia_, [LU 101:1.4](/fr/The_Urantia_Book/101#p1_4).
+[^23]: _Le Livre d'Urantia_, <a id="a287_29"></a>[LU 101:1.4](/fr/The_Urantia_Book/101#p1_4).
 
 [^24]: Michael J. Buckley, S. J., _At the Origins of Modern Atheism_ (Londres : Yale University Press, 1987), 35.
 
@@ -250,6 +299,6 @@ Mon objectif était seulement de décrire un contexte dans lequel le _Livre d'Ur
 
 [^29]: Ibid, 173.
 
-[^30]: Matthew Block, [« Quelques sources humaines du _Livre d'Urantia_ »,](/fr/article/Matthew_Block/Some_Human_Sources_of_LU) _The Spiritual Fellowship Journal_ (Printemps 1993) : 9-13. Des possibilités importantes d’analyse textuelle et littéraire critique existent pour les futurs étudiants.
+[^30]: Matthew Block, [« Quelques sources humaines du _Livre d'Urantia_ »,](/fr/article/Matthew_Block/Some_Human_Sources_of_LU) _Journal de la Fraternité Spirituelle_ (Printemps 1993) : 9-13. Des possibilités importantes d’analyse textuelle et littéraire critique existent pour les futurs étudiants.
 
-[^31]: _Le Livre d'Urantia_, [LU 195:10.21](/fr/The_Urantia_Book/195#p10_21).
+[^31]: _Le Livre d'Urantia_, <a id="a303_29"></a>[LU 195:10.21](/fr/The_Urantia_Book/195#p10_21).

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Theology_vs_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Théologie contre Spiritualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Worship_and_the_Urantia_Community">
+          <span class="pr-2">Interface : L'adoration et la communauté Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le thème central des articles du numéro d'octobre 1998 de _Theology Today_ est la relation de Dieu avec le temps et la création finie. La discussion théologique sur ce sujet est efficacement résumée par William R. Stoeger, S.J. dans « Dieu et le temps : l’action et la vie du Dieu trinitaire dans le monde ».
@@ -21,5 +45,30 @@ Ici, Stoeger exprime le besoin d'un cadre cosmologique et créationnel que nous 
 
 Si les théologiens étaient suffisamment ouverts pour examiner sérieusement un nouveau paradigme de réalité, _Le Livre d'Urantia_, ils pourraient bien trouver ce qu'ils recherchent avec tant de diligence ! Mais ils sont rebutés par son apparence ésotérique et encore plus aliénés par la prétention d’une « nouvelle révélation ». Un jour, la lumière se lèvera, même sur les théologiens !
 
-> « _Le christianisme souffre d’un grand handicap parce que, dans le mental de tous les hommes du monde, il a été identifié à une partie du système social, de la vie industrielle et des critères moraux de la civilisation occidentale ; et c’est ainsi que le christianisme a involontairement paru parrainer une société qui chancèle sous la culpabilité de tolérer la science sans idéalisme, la politique sans principes, la fortune sans travail, le plaisir sans restriction, la connaissance sans caractère, le pouvoir sans conscience et l’industrie sans moralité._ » ([LU 195:10.20](/fr/The_Urantia_Book/195#p10_20))
+> « _Le christianisme souffre d’un grand handicap parce que, dans le mental de tous les hommes du monde, il a été identifié à une partie du système social, de la vie industrielle et des critères moraux de la civilisation occidentale ; et c’est ainsi que le christianisme a involontairement paru parrainer une société qui chancèle sous la culpabilité de tolérer la science sans idéalisme, la politique sans principes, la fortune sans travail, le plaisir sans restriction, la connaissance sans caractère, le pouvoir sans conscience et l’industrie sans moralité._ » (<a id="a47_564"></a>[LU 195:10.20](/fr/The_Urantia_Book/195#p10_20))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Theology_vs_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Théologie contre Spiritualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Worship_and_the_Urantia_Community">
+          <span class="pr-2">Interface : L'adoration et la communauté Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

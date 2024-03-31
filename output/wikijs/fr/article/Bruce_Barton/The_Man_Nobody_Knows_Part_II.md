@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Bruce Barton<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/JioLin_Johnson/God_within_Our_Daily_Life_and_our_Eternity_Adventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu dans notre vie quotidienne et notre aventure éternelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _L'homme que personne ne connaît... une découverte du vrai Jésus" a été écrit par Bruce Barton, qui (je le découvrirai plusieurs années plus tard) était un célèbre publicitaire. Ce livre a fait une grande impression sur mon jeune esprit. D'une manière ou d'une autre, j'ai retenu ce livre au fil des années. En tant qu'Urantien, de nombreuses années plus tard, je suis étonné de voir à quel point Bruce Barton est parvenu en 1924 à décrire ce que je crois être le vrai Jésus. Merci aux nombreux Urantiens qui ont exprimé leur intérêt pour ce travail._
@@ -213,9 +234,31 @@ _Dans les Fascicules d'Urantia, le récit de Nalda est raconté avec une grande 
 > 
 > Jésus perçut la tentative de l’âme de la femme pour éviter un contact direct et scrutateur avec son Créateur, mais il vit aussi la présence, dans son âme, d’un désir de connaitre la meilleure manière de vivre. Après tout, il y avait, dans le cœur de Nalda, une véritable soif d’eau vive. Il la traita donc avec patience en disant : « Femme, laisse-moi te dire que le jour vient bientôt où tu n’adoreras le Père ni sur cette montagne ni à Jérusalem. ... Tu n’obtiendras pas le salut en connaissant simplement un lieu de culte ou la manière dont les autres devraient adorer. Ton salut viendra quand tu recevras, dans ton propre cœur, cette eau vivante que je t’offre à l’instant même. »
 > 
-> Mais Nalda devait tenter encore un effort pour éluder la discussion du problème embarrassant de sa propre vie sur terre et du statut de son âme devant Dieu. Une fois de plus, elle recourut à des questions générales sur la religion en disant : « Oui, je sais, Seigneur, que Jean a prêché au sujet de la venue du Convertisseur, celui que l’on appellera le Libérateur, et que, lors de sa venue, il nous annoncera toutes choses » — interrompant Nalda, Jésus lui dit avec une assurance impressionnante : « Moi, qui te parle, je suis celui-là. » <a id="a235_496"></a>[[LU 143:5.5-7](/fr/The_Urantia_Book/143#p5_5)]
+> Mais Nalda devait tenter encore un effort pour éluder la discussion du problème embarrassant de sa propre vie sur terre et du statut de son âme devant Dieu. Une fois de plus, elle recourut à des questions générales sur la religion en disant : « Oui, je sais, Seigneur, que Jean a prêché au sujet de la venue du Convertisseur, celui que l’on appellera le Libérateur, et que, lors de sa venue, il nous annoncera toutes choses » — interrompant Nalda, Jésus lui dit avec une assurance impressionnante : « Moi, qui te parle, je suis celui-là. » <a id="a236_542"></a>[[LU 143:5.5-7](/fr/The_Urantia_Book/143#p5_5)]
 
 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/JioLin_Johnson/God_within_Our_Daily_Life_and_our_Eternity_Adventure">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dieu dans notre vie quotidienne et notre aventure éternelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

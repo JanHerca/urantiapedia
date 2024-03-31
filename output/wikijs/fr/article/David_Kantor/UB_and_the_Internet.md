@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 David A. Kantor<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un groupe de soutien spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_11">
+          <span class="pr-2">Les Psaumes aujourd'hui : la voie du père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Internet fournit une plate-forme pour les activités missionnaires et le développement de réseaux sociaux de croyants uniques au moment de la Cinquième Révélation d'Époque. La Fellowship est en train d’établir discrètement une architecture de propagation des révélations adaptée à l’avenir immédiat de la révolution mondiale accélérée de l’information. Cette infrastructure coexistera avec et exploitera les potentiels missionnaires de plusieurs technologies de communication émergentes. L'utilisation internationale de l'infrastructure technologique de la Bourse a approché les 12 000 utilisateurs individuels en septembre. En incluant ceux qui sont revenus plusieurs fois, le total a dépassé 16 000 visites pour le mois. L'utilisation augmente actuellement à un taux mensuel de 20 %. Le succès ultime de cette expérience de diffusion des révélations dépendra de la qualité et de la quantité de la participation des lecteurs.
@@ -67,3 +91,28 @@ En fin de compte, l’efficacité de cette opportunité de diffusion unique dép
 
 David A. Kantor est un concepteur de logiciels informatiques utilisés pour gérer les réseaux de communication voix et données d'entreprise. Il est étudiant du _Livre d'Urantia_ depuis plus de trente ans et est le gestionnaire du site Web de la Fellowship.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/A_Spiritual_Support_Group">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un groupe de soutien spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_11">
+          <span class="pr-2">Les Psaumes aujourd'hui : la voie du père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

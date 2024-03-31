@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Jack Rogers<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : « Dieu et la religion dans le monde postmoderne » par David Ray Gritlin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="pr-2">L'aube d'un nouvel âge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Depuis plusieurs années, j'ai un intérêt particulier pour l'examen des messages de certains télévangélistes actuels. Parmi beaucoup de télévangélistes les plus fondamentalistes, il semble y avoir un thème commun dans leur prédication qui pourrait inquiéter à la fois le clergé principal et les lecteurs du _Livre d'Urantia_.
@@ -63,3 +87,28 @@ L’avenir de la destinée humaine est entre de bonnes mains. Même si nous n’
 
 Enfin, je suis convaincu que le retour du Christ sur notre planète dépassera nos plus hautes attentes humaines et sera bien plus glorieux qu’aucun d’entre nous ne l’imagine ! Nous n’avons pas besoin d’évoquer des scénarios de désastre pour gagner des âmes pour le royaume. Le programme du Maître mettant l’accent sur les priorités de la vérité, de la beauté et de la bonté actualisées par l’amour et le service est suffisant pour inspirer tous les hommes à entrer dans le royaume et à partager la joyeuse connaissance que la vie est progressivement enrichissante et éternelle.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_God_and_Religion_By_David_Ray_Gritlin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : « Dieu et la religion dans le monde postmoderne » par David Ray Gritlin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/The_Dawn_of_a_New_Age">
+          <span class="pr-2">L'aube d'un nouvel âge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

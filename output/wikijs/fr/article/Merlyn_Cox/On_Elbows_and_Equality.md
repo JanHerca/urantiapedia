@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Merlyn Cox<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Gender_Differentiation_in_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La différenciation des genres dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Sermon basé sur [Ephésiens 5:22-23](/fr/Bible/Ephesians/5#v22) : « Femmes, soyez soumises à votre mari comme vous l'êtes au Seigneur. Car le mari est le chef de la femme, tout comme Christ est le chef de l’Église. »_
@@ -119,3 +140,25 @@ L’homme doit-il toujours être le chef de famille ? À la lumière de cette co
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Gender_Differentiation_in_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La différenciation des genres dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

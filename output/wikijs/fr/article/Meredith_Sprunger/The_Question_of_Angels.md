@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume5_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Science_and_Religion">
+          <span class="pr-2">Science et religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans les temps modernes, les principaux théologiens chrétiens ont peu à dire sur les anges. L’atmosphère scientifique et rationnelle de notre culture a amené de nombreux fidèles à considérer les anges comme le produit de l’imagination religieuse. Comme le Père Noël et le lapin de Pâques, ils sont évoqués à Noël et à Pâques mais ne sont pas pris très au sérieux dans la vie de tous les jours.
@@ -19,3 +43,28 @@ La théologie chrétienne n'a pas de vision systématique de la cosmologie spiri
 
 Sans doute en raison de l'intérêt contemporain pour les anges, le numéro d'octobre 1994 de _Theology Today_ est consacré à l'étude des anges. La lecture de ces articles écrits par des théologiens traditionnels et leur comparaison avec l'image ordonnée et significative de la mission des anges dans le Livre d'Urantia les fait paraître élimés et presque enfantins. Les gens ont une grande soif de cette dimension spirituelle de la réalité et, comme nous l’avons vu, ils la créeront si elle n’est pas disponible dans les institutions religieuses. L'église a désespérément besoin de découvrir la vision spirituelle élargie présentée dans _Le Livre d'Urantia_. Lorsque cela se produira, il y aura une renaissance de la foi chrétienne qui sera le plus grand stimulant pour la croissance spirituelle depuis que l'Évangile de Jésus a précipité la civilisation occidentale.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume5_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Science_and_Religion">
+          <span class="pr-2">Science et religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

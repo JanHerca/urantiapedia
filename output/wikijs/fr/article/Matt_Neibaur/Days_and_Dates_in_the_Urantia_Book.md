@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Matt Neibaur<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus, homme et mythe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ben_LeMay/Meeting_UB">
+          <span class="pr-2">Rencontre avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En 1572, un ancien professeur de droit de Bologne nommé Ugo Buoncompagni devint pape Grégoire XIII ; dix ans plus tard, le calendrier grégorien fut introduit. Le calendrier julien, fondé seize siècles plus tôt par Jules César, était inexact et la nécessité d’une réforme était largement reconnue. Son principal échec était l'écart entre la durée moyenne de son année, 365,25 jours, et l'année tropicale, l'intervalle moyen entre les passages successifs du soleil apparent à l'équinoxe de printemps. Au moment de la réforme grégorienne, l’erreur était passée à onze jours. Naturellement, cela préoccupait le Pape ; si le calendrier était resté inchangé, Pâques aurait fini par être célébrée en été.
@@ -46,3 +70,28 @@ Bien que les archives du Livre d'Urantia soient antérieures à cette recherche 
 > _Dr Matthew Neibaur est un médecin de médecine interne et un étudiant de longue date du_ Livre d'Urantia.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Jesus_Man_and_Myth_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jésus, homme et mythe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ben_LeMay/Meeting_UB">
+          <span class="pr-2">Rencontre avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-« Le péché est la transgression délibérée de la volonté divine. » [LU 75:4.3](/fr/The_Urantia_Book/75#p4_3), [LU 148:4.4](/fr/The_Urantia_Book/148#p4_4)
+« Le péché est la transgression délibérée de la volonté divine. » <a id="a13_66"></a>[LU 75:4.3](/fr/The_Urantia_Book/75#p4_3), <a id="a13_109"></a>[LU 148:4.4](/fr/The_Urantia_Book/148#p4_4)
 
 Pendant des milliers et des milliers d’années, la « solution » pour avoir irrité les Dieux consistait à offrir un sacrifice – souvent le sang d’un pauvre animal. Cela se produit toujours, ce qui pourrait amener à s’interroger sur la nature des dieux qui échangeraient le pardon contre une dose de sang animal.
 

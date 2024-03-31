@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment le Livre d'Urantia peut contribuer à l'Église</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="pr-2">Le clergé évalue le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Beaucoup d’entre nous, en lisant les Évangiles, s’étonnent que les pharisiens et les sadducéens n’aient pas perçu la haute qualité spirituelle et la sagesse des enseignements de Jésus. Nous avons tendance à oublier la grande influence de la tradition et le pouvoir de l’autorité dans la religion institutionnelle. Les structures institutionnelles du pouvoir s’opposent généralement aux messages prophétiques pendant des décennies avant que la véracité de leurs idées ne soit généralement reconnue. C'est la nature de la croissance religieuse. Tout développement individuel et social a une composante évolutive fondamentale.
@@ -57,5 +81,30 @@ Qu’est-ce qui, dans ce livre, en fait, pour moi et pour tant d’autres person
 
 Ce professeur exprime la réaction que la plupart d'entre nous, « professionnels religieux », avons lorsque nous regardons pour la première fois le Livre d'Urantia : « gnostique », « ésotérique », « absurde ». Ensuite, ceux d’entre nous qui prennent le temps de lire réellement le livre découvrent quelque chose de très différent de ce à quoi nous nous attendions. Il a de la substance, de l’équilibre, une perspicacité spirituelle et une image universelle étonnamment cohérente de la réalité. En raison de son grand potentiel de contribution à l’amélioration spirituelle et au bien-être de l’humanité, nous pensons qu’il est important que les ministres, théologiens, philosophes et autres s’engagent dans une étude scientifique, une critique et une évaluation du livre.
 
-> « Les temps sont murs pour constater la résurrection symbolique du Jésus humain, sortant du tombeau des traditions théologiques et des dogmes religieux de dix-neuf siècles. Jésus de Nazareth ne doit plus être sacrifié, même au concept splendide du Christ glorifié. Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions ! » ([LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
+> « Les temps sont murs pour constater la résurrection symbolique du Jésus humain, sortant du tombeau des traditions théologiques et des dogmes religieux de dix-neuf siècles. Jésus de Nazareth ne doit plus être sacrifié, même au concept splendide du Christ glorifié. Quel service transcendant rendrait la présente révélation si, par elle, le Fils de l’Homme pouvait être retiré de la tombe de la théologie traditionnelle et présenté, en tant que Jésus vivant, à l’Église qui porte son nom et à toutes les autres religions ! » (<a id="a83_527"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comment le Livre d'Urantia peut contribuer à l'Église</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="pr-2">Le clergé évalue le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

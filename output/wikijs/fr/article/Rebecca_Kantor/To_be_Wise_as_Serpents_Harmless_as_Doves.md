@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Rebecca Kantor<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : « Reclaiming the Church » de John B. Cobb, Jr.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="pr-2">Notre responsabilité majeure : diffuser la cinquième révélation d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Session d'été de Vancouver, 1997
@@ -48,7 +72,7 @@ Toute comparaison entre la sagesse de la position de la Fraternité en 1976 et c
 
 Ce que nous **savons**, c'est que les bonnes décisions concernant la politique de la Fraternité nécessitent une abondance de _connaissances, une perspicacité expérientielle et un jugement avisé_.
 
-Les révélateurs nous disent qu’« à mesure que le soi mûrit, il remonte de plus en plus loin dans le passé pour en faire l’expérience, tandis que ses prévisions de sagesse cherchent à pénétrer de plus en plus profondément dans l’avenir inconnu. Et à mesure que le moi concevant étend cette portée toujours plus loin, à la fois dans le passé et dans le futur, le jugement devient de moins en moins dépendant du présent momentané. ([LU 118:1.5](/fr/The_Urantia_Book/118#p1_5))
+Les révélateurs nous disent qu’« à mesure que le soi mûrit, il remonte de plus en plus loin dans le passé pour en faire l’expérience, tandis que ses prévisions de sagesse cherchent à pénétrer de plus en plus profondément dans l’avenir inconnu. Et à mesure que le moi concevant étend cette portée toujours plus loin, à la fois dans le passé et dans le futur, le jugement devient de moins en moins dépendant du présent momentané. (<a id="a74_429"></a>[LU 118:1.5](/fr/The_Urantia_Book/118#p1_5))
 
 Nous pouvons également appliquer ce concept au processus de groupe. Parce que nous désirons prendre de bonnes décisions basées sur l'expérience du passé, une connaissance adéquate du présent et en nous souciant de l'avenir, il nous incombe d'examiner avec le plus grand soin les raisons sous-jacentes du revirement d'attitude des Frères musulmans en 1976, alors que nous envisageons tout changement. dans la politique de la Fraternité aujourd'hui.
 
@@ -84,18 +108,18 @@ L'article du Dr Sprunger de 1981 prévoit la situation actuelle lorsqu'il fait l
 > 2. **Nous pouvons réformer ou réviser les institutions religieuses existantes**. La plupart des religieux du monde, après avoir lu et reconnu les enseignements supérieurs du _Livre d'Urantia_, sont susceptibles de prendre cette voie, du moins au début.
 > 
 > **Dans la mesure du possible, il est généralement préférable de s'appuyer sur des fondations et des traditions historiques**. Les auteurs du _Livre d'Urantia_ semblent impliquer que la meilleure approche pour développer une religion pertinente sur notre planète en harmonie avec la Cinquième Révélation d'Époque est de travailler à une révision du christianisme. Les déclarations suivantes sont faites par les révélateurs :
-> - Le christianisme est la meilleure des religions du XXème siècle. ([LU 195:9.8](/fr/The_Urantia_Book/195#p9_8))
-> - Jésus a favorisé l'Église comme le meilleur représentant de son œuvre de vie sur terre. ([LU 195:10.9](/fr/The_Urantia_Book/195#p10_9))
-> - L'Église chrétienne est le stade larvaire du royaume spirituel, le cocon dans lequel sommeille désormais la conception de Jésus du royaume des cieux. ([LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
-> - L’heure sonne pour une redécouverte des fondements véritables et originaux du christianisme actuel, déformé et compromis – la vraie vie et les enseignements de Jésus. ([LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
-> - Le royaume des cieux que Jésus a enseigné sera un jour proclamé à l'Église chrétienne — et à toutes les autres religions. ([LU 170:5.8](/fr/The_Urantia_Book/170#p5_8))
-> - Dans l'article sur « La foi de Jésus », les auteurs expriment l'espoir qu'un jour une réforme de l'Église chrétienne la ramènera aux enseignements purs de Jésus. ([LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
-> - Nous sommes appelés à construire une société humaine nouvelle et transformée par la renaissance spirituelle de la fraternité du royaume de Jésus. ([LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
-> - _Le Livre d'Urantia_ passe plus de temps à commenter le christianisme et à faire des suggestions ou son amélioration que sur toute autre religion. C’est l’une des plus grandes puissances bénéfiques sur terre et nous devrions la prendre au sérieux. ([LU 195:10.12](/fr/The_Urantia_Book/195#p10_12))
-> - Il y a un grand espoir pour l'Église qui adore le Dieu vivant et ose supprimer toute conformité de croyance de ses membres. ([LU 103:5.12](/fr/The_Urantia_Book/103#p5_12))
-> - Le plus grand espoir de notre monde réside dans la possibilité d'une nouvelle révélation de Jésus qui unirait dans un service aimant les nombreuses familles de ses disciples actuels. ([LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
+> - Le christianisme est la meilleure des religions du XXème siècle. (<a id="a110_70"></a>[LU 195:9.8](/fr/The_Urantia_Book/195#p9_8))
+> - Jésus a favorisé l'Église comme le meilleur représentant de son œuvre de vie sur terre. (<a id="a111_93"></a>[LU 195:10.9](/fr/The_Urantia_Book/195#p10_9))
+> - L'Église chrétienne est le stade larvaire du royaume spirituel, le cocon dans lequel sommeille désormais la conception de Jésus du royaume des cieux. (<a id="a112_155"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
+> - L’heure sonne pour une redécouverte des fondements véritables et originaux du christianisme actuel, déformé et compromis – la vraie vie et les enseignements de Jésus. (<a id="a113_172"></a>[LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
+> - Le royaume des cieux que Jésus a enseigné sera un jour proclamé à l'Église chrétienne — et à toutes les autres religions. (<a id="a114_127"></a>[LU 170:5.8](/fr/The_Urantia_Book/170#p5_8))
+> - Dans l'article sur « La foi de Jésus », les auteurs expriment l'espoir qu'un jour une réforme de l'Église chrétienne la ramènera aux enseignements purs de Jésus. (<a id="a115_167"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
+> - Nous sommes appelés à construire une société humaine nouvelle et transformée par la renaissance spirituelle de la fraternité du royaume de Jésus. (<a id="a116_151"></a>[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
+> - _Le Livre d'Urantia_ passe plus de temps à commenter le christianisme et à faire des suggestions ou son amélioration que sur toute autre religion. C’est l’une des plus grandes puissances bénéfiques sur terre et nous devrions la prendre au sérieux. (<a id="a117_253"></a>[LU 195:10.12](/fr/The_Urantia_Book/195#p10_12))
+> - Il y a un grand espoir pour l'Église qui adore le Dieu vivant et ose supprimer toute conformité de croyance de ses membres. (<a id="a118_129"></a>[LU 103:5.12](/fr/The_Urantia_Book/103#p5_12))
+> - Le plus grand espoir de notre monde réside dans la possibilité d'une nouvelle révélation de Jésus qui unirait dans un service aimant les nombreuses familles de ses disciples actuels. (<a id="a119_188"></a>[LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
 
-Et j’ajouterais un commentaire supplémentaire, celui d’une Étoile Brillante du Soir de Nébadon : « Le culte chrétien primitif fut le plus efficace, le plus attirant et le plus durable de tous les rituels jamais conçus ou imaginés, mais une grande partie de sa valeur a été détruite dans le présent âge scientifique par la destruction de tant de ses principes originels sous-jacents. Le culte chrétien a été dévitalisé par la perte de beaucoup d’idées fondamentales. » ([LU 87:7.4](/fr/The_Urantia_Book/87#p7_4))
+Et j’ajouterais un commentaire supplémentaire, celui d’une Étoile Brillante du Soir de Nébadon : « Le culte chrétien primitif fut le plus efficace, le plus attirant et le plus durable de tous les rituels jamais conçus ou imaginés, mais une grande partie de sa valeur a été détruite dans le présent âge scientifique par la destruction de tant de ses principes originels sous-jacents. Le culte chrétien a été dévitalisé par la perte de beaucoup d’idées fondamentales. » (<a id="a121_469"></a>[LU 87:7.4](/fr/The_Urantia_Book/87#p7_4))
 
 Ainsi, les lecteurs du Livre d'Urantia ont au moins deux choix devant eux lorsqu'ils envisagent la formation d'une communauté religieuse : 1 . la création d'un culte entièrement nouveau, ou 2 . une révision de l'une des religions évolutionnistes, avec un parti pris révélateur vers le christianisme.
 
@@ -149,7 +173,7 @@ S’il n’est pas conscient de ce danger et s’il n’est pas équipé, grâce
 
 Mais comment une personne peut-elle acquérir les compétences nécessaires pour réussir dans un poste de direction religieuse rémunérée, compte tenu du nombre de rôles et de responsabilités qui lui sont confiés ? Qu'est-ce que la compétence ? La compétence émerge lorsque la _connaissance_ est tempérée par la sagesse et façonnée par la _perspicacité expérientielle_. Mais la compétence ministérielle professionnelle requiert tous ces facteurs ainsi qu'une vie spirituelle saine et active composée de prières privées et d'adoration du Dieu vivant.
 
-Rodan, le philosophe grec, a déclaré : « Même si l’on est bien armé pour affronter les situations difficiles de la vie, on ne peut guère espérer le succès si l’on n’est pas doté de cette sagesse du mental et de ce charme de personnalité qui vous permettent d’obtenir la coopération et le soutien cordiaux de votre entourage. Ni dans l’œuvre religieuse ni dans le travail laïque, vous ne pouvez espérer un franc succès à moins d’avoir appris à persuader vos compagnons, à convaincre les hommes. Il vous faut simplement avoir du tact et de la tolérance. » ([LU 160:1.9](/fr/The_Urantia_Book/160#p1_9))
+Rodan, le philosophe grec, a déclaré : « Même si l’on est bien armé pour affronter les situations difficiles de la vie, on ne peut guère espérer le succès si l’on n’est pas doté de cette sagesse du mental et de ce charme de personnalité qui vous permettent d’obtenir la coopération et le soutien cordiaux de votre entourage. Ni dans l’œuvre religieuse ni dans le travail laïque, vous ne pouvez espérer un franc succès à moins d’avoir appris à persuader vos compagnons, à convaincre les hommes. Il vous faut simplement avoir du tact et de la tolérance. » (<a id="a175_555"></a>[LU 160:1.9](/fr/The_Urantia_Book/160#p1_9))
 
 Qu'est-ce qui fournira la sagesse d'esprit et le charme de personnalité nécessaires qui permettront à votre leader de donner la priorité et de remplir avec succès les nombreux rôles qui lui sont délégués tout en gagnant le soutien et la coopération chaleureux de vos groupes religieux ?
 
@@ -184,7 +208,7 @@ Laisse-moi expliquer.
 
 Jésus a choisi six hommes pour faire partie de son équipe. Ils ont à leur tour choisi six coéquipiers supplémentaires. Plus tard, il élargit son groupe d’enseignement et de ministère pour inclure soixante-dix évangélistes supplémentaires et dix femmes, un acte scandaleux dans sa culture. En d’autres termes, Jésus, comme son Père céleste, était un _délégué_. Il a délégué tous les aspects imaginables de la gestion du groupe à ses douze apôtres. Et bien qu’au début ils manquaient de formation dans les méthodes particulières d’enseignement et de prédication de Jésus, ils étaient collectivement bien versés dans les connaissances de l’époque. Les médians nous disent :
 
-> Ne commettez pas l’erreur de considérer les apôtres comme complètement ignorants et dépourvus d’instruction. Tous, sauf les jumeaux Alphée, étaient diplômés des écoles des synagogues, ayant reçu une formation complète dans les Écritures hébraïques et la plupart des connaissances courantes de l’époque. Sept d’entre eux étaient diplômés des écoles de la synagogue de Capharnaüm, et il n’existait pas de meilleure école juive dans toute la Galilée. ([LU 139:0.3](/fr/The_Urantia_Book/139#p0_3))
+> Ne commettez pas l’erreur de considérer les apôtres comme complètement ignorants et dépourvus d’instruction. Tous, sauf les jumeaux Alphée, étaient diplômés des écoles des synagogues, ayant reçu une formation complète dans les Écritures hébraïques et la plupart des connaissances courantes de l’époque. Sept d’entre eux étaient diplômés des écoles de la synagogue de Capharnaüm, et il n’existait pas de meilleure école juive dans toute la Galilée. (<a id="a210_451"></a>[LU 139:0.3](/fr/The_Urantia_Book/139#p0_3))
 
 Regardons d'un peu plus près les rôles délégués aux apôtres, en gardant à l'esprit les neuf tâches du ministère que j'ai décrites plus tôt :
 
@@ -231,8 +255,33 @@ Il y a tellement plus à dire sur les défis et les opportunités de la religion
 > _Rebecca Kantor est titulaire d'une maîtrise ès arts en religion, avec un intérêt particulier pour la psychologie de la religion et la psychologie du ministère. Elle étudie le Livre d'Urantia depuis plus de 25 ans._
 {.is-info}
 
-> L’appel à l’aventure consistant à construire une société humaine nouvelle et transformée, par la renaissance spirituelle de la fraternité du royaume de Jésus, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair. ([LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
+> L’appel à l’aventure consistant à construire une société humaine nouvelle et transformée, par la renaissance spirituelle de la fraternité du royaume de Jésus, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair. (<a id="a257_384"></a>[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : « Reclaiming the Church » de John B. Cobb, Jr.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Our_Major_Responsibility_Disseminating_the_Fifth_Epochal_Revelation">
+          <span class="pr-2">Notre responsabilité majeure : diffuser la cinquième révélation d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

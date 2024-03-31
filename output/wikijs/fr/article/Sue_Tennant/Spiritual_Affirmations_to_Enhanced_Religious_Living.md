@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Sue Tennant<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Spirituality_Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualité entre les temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nina_Bravo/Human_Values">
+          <span class="pr-2">Valeurs humaines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La vie religieuse idéale est celle dans laquelle l'individu maintient une communion ininterrompue avec l'esprit intérieur de sorte que la vie intérieure de réflexion, de méditation et de prière transcende et transforme la vie extérieure par un service affectueux envers la fraternité de l'humanité. C'est ce qu'on appelle la religion de l'esprit et se distingue des autres pratiques religieuses en ce qu'elle est personnelle, originale, libératrice, spontanée et inclusive.
@@ -52,3 +76,28 @@ L'esprit vit en moi et, de toutes les manières, j'ai le pouvoir de faire la vol
 > _Sue Tennant est vice-présidente du North American Interfaith Network_
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rob_Crickett/Spirituality_Between_the_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Spiritualité entre les temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nina_Bravo/Human_Values">
+          <span class="pr-2">Valeurs humaines</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

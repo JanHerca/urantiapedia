@@ -21,7 +21,7 @@ La vertu de ce fait récemment découvert est que « ces hommes et femmes clairv
 
 Grâce à Internet et au Web, il est maintenant possible d'apporter le contenu des Cahiers d'Urantia directement au cœur du christianisme du futur – ces collèges universitaires, universités et institutions théologiques où le vrai sens de la révélation de Jésus du Père sera débattu, révisé et révélé à nouveau, tout comme cela est prédit dans les Fascicules :
 
-> « Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, **ne fera pas défaut**. » ([LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
+> « Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, **ne fera pas défaut**. » (<a id="a23_166"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
 
 Ce qui suit a été extrait d'articles de synthèse pour tenter de transmettre aux lecteurs les points communs de contact entre la Cinquième Révélation d'Époque et la théologie moderne du processus, avec l'espoir que certains pourront être inspirés à entreprendre les études approfondies nécessaires pour construire des ponts entre la Livre d'Urantia et la nouvelle théologie de l'Église chrétienne qui le sera.
 

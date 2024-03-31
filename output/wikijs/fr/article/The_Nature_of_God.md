@@ -19,15 +19,15 @@ Les révélateurs des Cahiers d'Urantia ne commettent pas une telle erreur. Ils 
 
 De toutes les créatures intelligentes possédant réellement la capacité innée, donnée par Dieu, d'atteindre la conscience divine, nous, les Urantiens, sommes aussi bas que possible. Laissons donc de côté l’arrogance des autres et abordons ce qui peut être connu de notre Créateur avec respect et humilité, reconnaissant que ce faisant, nous ne pouvons connaître que ce qui est révélé d’en haut.
 
-> « Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. » ([LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
+> « Le meilleur moyen de comprendre la nature de Dieu est la révélation du Père telle que Micaël de Nébadon l’a développée dans ses multiples enseignements et sa magnifique vie humaine dans la chair. » (<a id="a21_203"></a>[LU 2:0.1](/fr/The_Urantia_Book/2#p0_1))
 
-> « Bien que sa personnalité éternelle et universelle se manifeste par une infinité de prodiges, le Père est inconditionnellement conscient de sa propre infinité et de son éternité. De même, il connait pleinement sa perfection et son pouvoir. En dehors de ses divins coordonnés, il est le seul être dans l’univers qui s’évalue lui-même de façon parfaite, correcte et complète. » ([LU 2:1.3](/fr/The_Urantia_Book/2#p1_3))
+> « Bien que sa personnalité éternelle et universelle se manifeste par une infinité de prodiges, le Père est inconditionnellement conscient de sa propre infinité et de son éternité. De même, il connait pleinement sa perfection et son pouvoir. En dehors de ses divins coordonnés, il est le seul être dans l’univers qui s’évalue lui-même de façon parfaite, correcte et complète. » (<a id="a23_380"></a>[LU 2:1.3](/fr/The_Urantia_Book/2#p1_3))
 
-> « le Père Universel voit la fin depuis le commencement ; son plan divin et son dessein éternel embrassent et comprennent effectivement toutes les expériences et aventures de tous ses subordonnés dans tous les mondes, systèmes et constellations de chaque univers de ses vastes domaines. » ([LU 2:1.4](/fr/The_Urantia_Book/2#p1_4))
+> « le Père Universel voit la fin depuis le commencement ; son plan divin et son dessein éternel embrassent et comprennent effectivement toutes les expériences et aventures de tous ses subordonnés dans tous les mondes, systèmes et constellations de chaque univers de ses vastes domaines. » (<a id="a25_291"></a>[LU 2:1.4](/fr/The_Urantia_Book/2#p1_4))
 
 Rien n’est nouveau pour Dieu, et aucun événement cosmique ne surprend jamais ; il habite le cercle de l'éternité. Il est sans début ni fin de jours. Pour Dieu, il n’y a ni passé, ni présent, ni avenir ; tout le temps est présent à un moment donné. Il est le grand et le seul JE SUIS.
 
-> « Le Père Universel est infini dans tous ses attributs, d’une manière absolue et inconditionnelle. Ce fait en lui-même et de lui-même le coupe automatiquement de toute communication personnelle directe avec des êtres matériels finis et d’autres intelligences inférieures créées. » ([LU 2:1.6](/fr/The_Urantia_Book/2#p1_6))
+> « Le Père Universel est infini dans tous ses attributs, d’une manière absolue et inconditionnelle. Ce fait en lui-même et de lui-même le coupe automatiquement de toute communication personnelle directe avec des êtres matériels finis et d’autres intelligences inférieures créées. » (<a id="a29_284"></a>[LU 2:1.6](/fr/The_Urantia_Book/2#p1_6))
 
 La communication entre le Père Universel et ses créatures mortelles limitées se fait nécessairement par l'intermédiaire de ses associés.
 
@@ -63,7 +63,7 @@ Paul, Augustin, Thomas d’Aquin, Calvin – et bien d’autres – ont eu une �
 
 L'Étude d'Urantia N° 2 fait une déclaration extrêmement importante ayant le potentiel d'éliminer beaucoup de confusion dans le dogme chrétien – des doctrines telles que le péché originel, l'expiation et de nombreuses autres inventions humaines qui remontent à la logique erronée de Paul, Augustin et leurs successeurs. :
 
-> « Le Père céleste plein d’affection, dont l’esprit habite ses enfants sur terre, n’est pas une personnalité divisée — l’une de justice et l’autre de miséricorde. Il n’y a pas davantage besoin d’un médiateur pour obtenir la faveur ou le pardon du Père. La droiture divine n’est pas dominée par une stricte justice distributive. Dieu en tant que père transcende Dieu en tant que juge. » ([LU 2:6.6](/fr/The_Urantia_Book/2#p6_6))
+> « Le Père céleste plein d’affection, dont l’esprit habite ses enfants sur terre, n’est pas une personnalité divisée — l’une de justice et l’autre de miséricorde. Il n’y a pas davantage besoin d’un médiateur pour obtenir la faveur ou le pardon du Père. La droiture divine n’est pas dominée par une stricte justice distributive. Dieu en tant que père transcende Dieu en tant que juge. » (<a id="a65_388"></a>[LU 2:6.6](/fr/The_Urantia_Book/2#p6_6))
 
 En résumé : « L’amour et la miséricorde de Dieu en tant que notre Père transcendent la justice de Dieu en tant que notre Juge. »
 

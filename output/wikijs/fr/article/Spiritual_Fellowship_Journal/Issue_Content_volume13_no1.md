@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Nadia_Factor">
+          <span class="pr-2">Le facteur Nadia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***pour les étudiants et les croyants à la Révélation des Fascicules d'Urantia***
@@ -92,9 +113,9 @@ Victor McGonegal<br>
 Ángel F. Sánchez-Escobar<br>
 </p>
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par la Division des publications religieuses de Penumbra Press.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par la Division des publications religieuses de Penumbra Press.
 
-Sauf indication contraire, tout le matériel publié dans _The Spiritual Fellowship Journal_ est © Copyright 2003 par Penumbra Press, Boulder CO, et tous les droits sont réservés.
+Sauf indication contraire, tout le matériel publié dans _Journal de la Fraternité Spirituelle_ est © Copyright 2003 par Penumbra Press, Boulder CO, et tous les droits sont réservés.
 
 Les souscriptions, dons, changements d’adresse, articles et correspondance éditoriale doivent être adressés à :
 
@@ -138,5 +159,27 @@ Don annuel suggéré : \$10. Veuillez libeller votre chèque à l'ordre de Penum
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">
 </figure>
 
-> « Quand le vent souffle, tu entends le bruissement des feuilles, mais tu ne vois pas le vent — ni d’où il vient ni où il va — et il en est ainsi pour quiconque est né de l’esprit. Avec les yeux de la chair, on peut apercevoir les manifestations de l’esprit, mais on ne peut effectivement discerner l’esprit. » ([LU 142:6.5](/fr/The_Urantia_Book/142#p6_5))
+> « Quand le vent souffle, tu entends le bruissement des feuilles, mais tu ne vois pas le vent — ni d’où il vient ni où il va — et il en est ainsi pour quiconque est né de l’esprit. Avec les yeux de la chair, on peut apercevoir les manifestations de l’esprit, mais on ne peut effectivement discerner l’esprit. » (<a id="a161_313"></a>[LU 142:6.5](/fr/The_Urantia_Book/142#p6_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Nadia_Factor">
+          <span class="pr-2">Le facteur Nadia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « *Il y a 4 milliards et demi d’années,* l’énorme système d’Angona commença à s’approcher de ce soleil isolé. Le centre de ce grand système était un géant obscur de l’espace, solide, puissamment chargé, et possédant une prodigieuse force d’attraction gravitationnelle. » ([LU 57:5.4](/fr/The_Urantia_Book/57#p5_4))
+> « *Il y a 4 milliards et demi d’années,* l’énorme système d’Angona commença à s’approcher de ce soleil isolé. Le centre de ce grand système était un géant obscur de l’espace, solide, puissamment chargé, et possédant une prodigieuse force d’attraction gravitationnelle. » (<a id="a13_274"></a>[LU 57:5.4](/fr/The_Urantia_Book/57#p5_4))
 
 Dans son récit de la formation du système solaire, Le Livre d'Urantia attribue au système Angona le mérite d'être la source d'une énorme perturbation gravitationnelle qui a partiellement perturbé le soleil, créant ainsi le disque de matière qui, par accrétion, a finalement donné naissance aux planètes, comètes, météores, poussières, etc., de notre système solaire.
 
@@ -21,7 +21,7 @@ Les preuves de ces catastrophes apparaissent sur Terre il y a 12, 38, 65, 92 et 
 
 Cette étoile effondrée pourrait-elle être Angona, la coupable du Livre d’Urantia pour l’initiation du système solaire ? D’après le récit du livre, la visite d’Angona au voisinage du Soleil a duré environ 500 millions d’années, un temps suffisant pour environ vingt visites de l’Étoile de la Mort Némésis. À première vue, il semble peu probable qu’il s’agisse du même système.
 
-En raison des preuves scientifiques accumulées depuis la réception des articles en 1934, une révision de la cosmologie du livre sur les origines du système solaire est désormais nécessaire. Était-il censé être considéré comme un fait, ou s’agit-il d’un récit « suffisamment proche » pour servir de matériau de remplissage pour un « cadre universel dans lequel penser ? » (voir [LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+En raison des preuves scientifiques accumulées depuis la réception des articles en 1934, une révision de la cosmologie du livre sur les origines du système solaire est désormais nécessaire. Était-il censé être considéré comme un fait, ou s’agit-il d’un récit « suffisamment proche » pour servir de matériau de remplissage pour un « cadre universel dans lequel penser ? » (voir <a id="a23_377"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
 Les révélateurs déclarent implicitement que les règles de l’univers en matière de révélation interdisent la fourniture de connaissances non acquises – mais autorisent la fourniture d’informations pour combler les lacunes vitales manquantes dans la connaissance humaine.
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume4_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Search_for_Truth">
+          <span class="pr-2">La recherche de la vérité : l'importance des apports multiples et de l'équilibre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous vivons à une époque où l’intérêt et l’activité spirituels connaissent l’une des plus grandes poussées de l’histoire. Les gens recherchent l’authenticité spirituelle dans des sources nombreuses et diverses. Le _Manuel encyclopédique des cultes en Amérique_ de Melton ne fait qu'effleurer la surface de ce mouvement. Selon Wade C. Roof dans _A Generation of Seekers_ (Harper, San Francisco), une révolution tranquille est en train de se produire qui change les attitudes et les pratiques religieuses de millions d'Américains.
@@ -28,3 +52,28 @@ Après des années à essayer de comprendre pourquoi les théologiens sont si r�
 
 Malgré ces réserves compréhensibles, et en raison de l'énorme potentiel de bien dans l'Église – ainsi que sur la planète entière – je crois qu'une évaluation sérieuse du _Le Livre d'Urantia_ est le grand défi théologique de notre époque. L'article de David Kantor « _Le Livre d'Urantia_ : Vers un contexte pour l'évaluation théologique » dans ce numéro de la Revue décrit certains des paramètres d'un tel projet théologique.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume4_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Search_for_Truth">
+          <span class="pr-2">La recherche de la vérité : l'importance des apports multiples et de l'équilibre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

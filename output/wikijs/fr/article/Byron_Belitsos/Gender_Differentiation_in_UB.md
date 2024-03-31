@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Byron Belitsos<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/On_Elbows_and_Equality">
+          <span class="pr-2">Sur les coudes et l'égalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(Cette chronique est un extrait adopté d'un document de recherche qui sera publié par la Communauté des Étudiants du_ Livre d'Urantia.)
@@ -19,7 +43,7 @@ Bien que le _Livre d'Urantia_ contienne de nombreuses références aux différen
 > 
 > La civilisation ne pourra jamais supprimer l’abime des différences de comportement entre les sexes. Les mœurs changent d’âge en âge, mais jamais l’instinct. L’amour maternel inné ne permettra jamais aux femmes émancipées de rivaliser sérieusement avec les hommes dans l’industrie. Chaque sexe restera perpétuellement suprême dans son propre domaine déterminé par la différenciation biologique et la dissemblance mentale.
 > 
-> Les sphères spéciales à chaque sexe subsisteront toujours, en empiétant de temps en temps l’une sur l’autre. C’est seulement dans le domaine social que l’homme et la femme s’affronteront à égalité. ([LU 84:5.12-14](/fr/The_Urantia_Book/84#p5_12))
+> Les sphères spéciales à chaque sexe subsisteront toujours, en empiétant de temps en temps l’une sur l’autre. C’est seulement dans le domaine social que l’homme et la femme s’affronteront à égalité. (<a id="a45_201"></a>[LU 84:5.12-14](/fr/The_Urantia_Book/84#p5_12))
 
 Dans le document de recherche plus long, nous avons examiné les définitions possibles des « domaines déterminés par des différences biologiques… » et la question plus controversée des « domaines déterminés par… la dissemblance mentale ». Si nous continuons à suivre le fil de l'argumentation du livre sur les différences entre les sexes, nous arrivons maintenant à un concept de genre encore plus controversé : la notion de « sphères » complémentaires mais distinctes d'activité spécifique au genre, accompagnée d'un ensemble exclusif de droits non définis. appartenant à chaque sphère. Que vous soyez d'accord avec cela ou non, cela semble être le concept principal du genre du _Livre d'Urantia_.
 
@@ -46,7 +70,7 @@ En construisant le premier d’entre eux, il apparaît que les révélateurs ont
 
 Ces lignes semblent être traduites dans le passage suivant, l’un des plus frappants de tout le livre :
 
-> Les femmes semblent avoir plus d’intuition que les hommes, mais elles paraissent aussi un peu moins logiques. Toutefois, les femmes ont toujours été les porte-drapeaux de la morale et les directrices spirituelles de l’humanité. La main qui balance le berceau fraternise encore aujourd’hui avec la destinée. ([LU 84:6.4](/fr/The_Urantia_Book/84#p6_4))
+> Les femmes semblent avoir plus d’intuition que les hommes, mais elles paraissent aussi un peu moins logiques. Toutefois, les femmes ont toujours été les porte-drapeaux de la morale et les directrices spirituelles de l’humanité. La main qui balance le berceau fraternise encore aujourd’hui avec la destinée. (<a id="a72_310"></a>[LU 84:6.4](/fr/The_Urantia_Book/84#p6_4))
 
 Elle mène la spiritualité et le respect des normes morales. C'est le domaine dans lequel elle a régné en maître. Est-ce qu'elle l'est toujours ? Le prochain geste de la révélatrice est un saut vers le concept de son amour maternel instinctif. Oui, la mère de l'espèce accouche et « fraternise » avec le destin de l'enfant. Bien sûr, _fraterniser_ est un terme plus faible que la notion sentimentale de Wallace de « gouverner » le monde. Pourtant, ce passage présente une forte image de leadership.
 
@@ -88,7 +112,7 @@ C'était du moins le cas avant la révolution industrielle. Dans la section « L
 
 De plus, cette libération _matérielle_ a ouvert une autre qualité distinctive de sa sphère, selon le Livre :
 
-> Jadis, la valeur d’une femme consistait en son aptitude à procurer des aliments, mais les inventions et l’aisance lui ont permis de créer un nouveau monde dans lequel elle peut opérer — les sphères de grâce et de charme. L’industrie a ainsi gagné une bataille inconsciente et imprévue pour l’émancipation sociale et économique des femmes. ([LU 84:5.8](/fr/The_Urantia_Book/84#p5_8))
+> Jadis, la valeur d’une femme consistait en son aptitude à procurer des aliments, mais les inventions et l’aisance lui ont permis de créer un nouveau monde dans lequel elle peut opérer — les sphères de grâce et de charme. L’industrie a ainsi gagné une bataille inconsciente et imprévue pour l’émancipation sociale et économique des femmes. (<a id="a114_342"></a>[LU 84:5.8](/fr/The_Urantia_Book/84#p5_8))
 
 Voici un passage déroutant pour les féministes préoccupées par l’égalité de salaire pour un travail égal. L'« émancipation économique et sociale » de la femme, conquise par l'industrie, ne la conduit pas automatiquement vers l'industrie pour rivaliser sur un pied d'égalité avec les hommes en tant que femme émancipée. Au contraire, cela lui permet de créer un monde nouveau et tout à fait séparé, disons, d'enchantement et d'élégance. _C'est ce que visait inconsciemment l'industrie dans son « combat involontaire ». C’est le gain évolutif que « même la révélation n’a pas réussi à accomplir ».
 
@@ -101,7 +125,32 @@ Je laisserai à d’autres la définition plus approfondie des « sphères de ch
 > _Byron a été journaliste et producteur de télévision et est actuellement consultant dans l'industrie des télécommunications._
 {.is-}
 
-> « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a127_499"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
-> « Si la religion moderne trouve difficile d’adapter son attitude aux rapides changements sociaux, c’est seulement parce qu’elle s’est laissée aller à devenir complètement traditionnelle, dogmatique et institutionnelle. La religion de l’expérience vivante n’éprouve aucune difficulté à anticiper sur tous les développements sociaux et les bouleversements économiques ; elle opère toujours parmi eux comme stabilisateur moral, guide social et pilote spirituel. La vraie religion transporte d’un âge à l’autre la culture valable et la sagesse née de l’expérience consistant à connaitre Dieu et à s’efforcer de lui ressembler. » ([LU 99:2.6](/fr/The_Urantia_Book/99#p2_6))
+> « Si la religion moderne trouve difficile d’adapter son attitude aux rapides changements sociaux, c’est seulement parce qu’elle s’est laissée aller à devenir complètement traditionnelle, dogmatique et institutionnelle. La religion de l’expérience vivante n’éprouve aucune difficulté à anticiper sur tous les développements sociaux et les bouleversements économiques ; elle opère toujours parmi eux comme stabilisateur moral, guide social et pilote spirituel. La vraie religion transporte d’un âge à l’autre la culture valable et la sagesse née de l’expérience consistant à connaitre Dieu et à s’efforcer de lui ressembler. » (<a id="a129_628"></a>[LU 99:2.6](/fr/The_Urantia_Book/99#p2_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/On_Elbows_and_Equality">
+          <span class="pr-2">Sur les coudes et l'égalité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

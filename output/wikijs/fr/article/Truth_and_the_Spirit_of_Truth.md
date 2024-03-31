@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-à partir de [Urantia Paper 180, Sect. 5](/fr/The_Urantia_Book/180#p5).
+à partir de <a id="a13_12"></a>[Urantia Paper 180, Sect. 5](/fr/The_Urantia_Book/180#p5).
 
 ## Résumé
 
@@ -39,29 +39,29 @@ Dans au moins certains Cahiers d'Urantia, le mot « vérité » est utilisé ave
 
 Dans de rares moments de notre séjour sur les niveaux supramatériels, il nous est possible de faire l'expérience de la vérité divine ayant son origine immédiate dans notre Ajusteur de Pensée. Cette « vérité », ayant été activée en tant que vérité spirituelle, devient alors une partie permanente de notre âme en pleine croissance.
 
-L’« Esprit de Vérité » est fourni à notre demande personnelle pour nous aider dans le discernement de la vérité, en fonction des esprits combinés du Père et de notre Fils Créateur. ([LU 194:2.16](/fr/The_Urantia_Book/194#p2_16))
+L’« Esprit de Vérité » est fourni à notre demande personnelle pour nous aider dans le discernement de la vérité, en fonction des esprits combinés du Père et de notre Fils Créateur. (<a id="a41_182"></a>[LU 194:2.16](/fr/The_Urantia_Book/194#p2_16))
 
-> « Ce don divin n’est pas la lettre ou loi de la vérité ; il n’est pas non plus destiné à opérer en tant que forme ou expression de la vérité. » ([LU 180:5.1](/fr/The_Urantia_Book/180#p5_1))
+> « Ce don divin n’est pas la lettre ou loi de la vérité ; il n’est pas non plus destiné à opérer en tant que forme ou expression de la vérité. » (<a id="a43_147"></a>[LU 180:5.1](/fr/The_Urantia_Book/180#p5_1))
 
 Alors que l'Ajusteur de Pensée est le don du Père à tous les hommes et femmes d'Urantia, quelle que soit leur race ou leur religion, et qu'il est constitutif de chaque personne dès le moment de sa première décision morale dans l'enfance, l'Esprit de Vérité est disponible « sur demande ». »
 
-> « Le nouvel instructeur est la *conviction de la vérité,* la conscience et l’assurance des vraies significations sur les niveaux réellement spirituels. Il est l’esprit de la vérité vivante et croissante, de la vérité en voie d’expansion, de développement et d’adaptation. » ([LU 180:5.1](/fr/The_Urantia_Book/180#p5_1))
+> « Le nouvel instructeur est la *conviction de la vérité,* la conscience et l’assurance des vraies significations sur les niveaux réellement spirituels. Il est l’esprit de la vérité vivante et croissante, de la vérité en voie d’expansion, de développement et d’adaptation. » (<a id="a47_277"></a>[LU 180:5.1](/fr/The_Urantia_Book/180#p5_1))
 
-> « Le véritable enfant doué de clairvoyance universelle recherche le vivant Esprit de Vérité dans toute parole de sagesse. L’individu qui connait Dieu élève constamment la sagesse à des niveaux de vérité vivante d’aboutissement divin ; » ([LU 180:5.4](/fr/The_Urantia_Book/180#p5_4))
+> « Le véritable enfant doué de clairvoyance universelle recherche le vivant Esprit de Vérité dans toute parole de sagesse. L’individu qui connait Dieu élève constamment la sagesse à des niveaux de vérité vivante d’aboutissement divin ; » (<a id="a49_240"></a>[LU 180:5.4](/fr/The_Urantia_Book/180#p5_4))
 
 Des paroles sages ou d’autres expériences quotidiennes, une fois reconnues avec l’aide de l’Esprit de Vérité comme ayant une valeur de vérité, peuvent alors, grâce à l’action de notre Ajusteur de Pensée, devenir des éléments constitutifs de la croissance de notre âme.
 
-> L’intelligence est issue d’une existence matérielle illuminée par la présence du mental cosmique. La sagesse comporte la conscience de la connaissance, élevée à des niveaux nouveaux de signification et animée par la présence du don universel de l’adjuvat de sagesse. La vérité est une valeur de réalité spirituelle dont seuls font l’expérience les êtres dotés d’esprit qui fonctionnent sur des niveaux supramatériels de conscience de l’univers, et qui, après avoir réalisé la vérité, permettent à son esprit animateur de vivre et de régner dans leur âme. ([LU 180:5.3](/fr/The_Urantia_Book/180#p5_3))
+> L’intelligence est issue d’une existence matérielle illuminée par la présence du mental cosmique. La sagesse comporte la conscience de la connaissance, élevée à des niveaux nouveaux de signification et animée par la présence du don universel de l’adjuvat de sagesse. La vérité est une valeur de réalité spirituelle dont seuls font l’expérience les êtres dotés d’esprit qui fonctionnent sur des niveaux supramatériels de conscience de l’univers, et qui, après avoir réalisé la vérité, permettent à son esprit animateur de vivre et de régner dans leur âme. (<a id="a53_558"></a>[LU 180:5.3](/fr/The_Urantia_Book/180#p5_3))
 
 Il existe plusieurs niveaux de compréhension de la vérité que nous pouvons atteindre au cours de notre expérience urantienne.
 
-> « Ce nouvel instructeur est l’Esprit de Vérité qui vivra avec chacun de vous, dans votre cœur, et, ainsi, tous les enfants de lumière ne feront plus qu’un et seront attirés les uns vers les autres. C’est de cette manière que mon Père et moi, nous pourrons vivre **dans l’âme de chacun de vous**, et **aussi dans le cœur de tous les autres hommes** qui nous aiment et qui rendent cet amour réel dans leurs expériences en s’aimant les uns les autres comme je vous aime maintenant. » » ([LU 180:4.5](/fr/The_Urantia_Book/180#p4_5))
+> « Ce nouvel instructeur est l’Esprit de Vérité qui vivra avec chacun de vous, dans votre cœur, et, ainsi, tous les enfants de lumière ne feront plus qu’un et seront attirés les uns vers les autres. C’est de cette manière que mon Père et moi, nous pourrons vivre **dans l’âme de chacun de vous**, et **aussi dans le cœur de tous les autres hommes** qui nous aiment et qui rendent cet amour réel dans leurs expériences en s’aimant les uns les autres comme je vous aime maintenant. » » (<a id="a57_486"></a>[LU 180:4.5](/fr/The_Urantia_Book/180#p4_5))
 
-Pour développer ces niveaux de réalisation, Jésus a utilisé ce qu’on appelle la Règle d’Or. Les documents ([LU 74:7.5](/fr/The_Urantia_Book/74#p7_5)) nous disent qu'il a été enseigné dans le jardin d'Eden, ce qui peut également expliquer qu'il soit connu d'hommes tels que Platon, Aristote, Cyprien, Isocrate, Confucius en Chine, les érudits juifs du premier siècle avant JC, Hillel et Philon, et également cité dans les Apocryphes ([Tobias 4.15](/fr/Bible/Tobit/4#v15)). Confucius l'enseignait ainsi : « Faites aux autres ce que vous voudriez qu'ils vous fassent », mais le plus souvent, cela était exprimé sous une forme négative.
+Pour développer ces niveaux de réalisation, Jésus a utilisé ce qu’on appelle la Règle d’Or. Les documents (<a id="a59_107"></a>[LU 74:7.5](/fr/The_Urantia_Book/74#p7_5)) nous disent qu'il a été enseigné dans le jardin d'Eden, ce qui peut également expliquer qu'il soit connu d'hommes tels que Platon, Aristote, Cyprien, Isocrate, Confucius en Chine, les érudits juifs du premier siècle avant JC, Hillel et Philon, et également cité dans les Apocryphes ([Tobias 4.15](/fr/Bible/Tobit/4#v15)). Confucius l'enseignait ainsi : « Faites aux autres ce que vous voudriez qu'ils vous fassent », mais le plus souvent, cela était exprimé sous une forme négative.
 
 Les documents semblent distinguer quatre niveaux par lesquels la règle d'or progresse vers sa forme la plus élevée. Son niveau bas est :
 
-> « Quand la règle d’or est dépourvue de la clairvoyance suprahumaine de l’Esprit de Vérité, elle n’est rien de plus qu’une règle de conduite hautement éthique. » ([LU 180:5.5](/fr/The_Urantia_Book/180#p5_5))
+> « Quand la règle d’or est dépourvue de la clairvoyance suprahumaine de l’Esprit de Vérité, elle n’est rien de plus qu’une règle de conduite hautement éthique. » (<a id="a63_164"></a>[LU 180:5.5](/fr/The_Urantia_Book/180#p5_5))
 
 Elle est élevée à un niveau supérieur comme injonction positive d’un grand maître de morale qui l’a incarnée avec « le concept le plus élevé d’obligation morale en matière de relations fraternelles » où elle devient « le centre et la circonférence sage de toute leur philosophie ».
 
@@ -69,25 +69,25 @@ Il atteint un niveau d’interprétation plus élevé dans le royaume des amoure
 
 Cela semble être le niveau dans lequel l’Esprit de Vérité vit « avec chacun dans votre cœur ». Puis, à son niveau le plus élevé, un saut quantique est réalisé depuis le « bien le plus élevé possible » des destinataires vers leur « bien cosmique le plus élevé » par rapport à leurs futures carrières dans l’univers.
 
-> « La vraie signification cosmique de cette règle de relations universelles ne se révèle que dans sa réalisation spirituelle, dans l’interprétation de la loi de conduite par l’esprit du Fils envers l’esprit du Père qui habite l’âme du mortel. » ([LU 180:5.8](/fr/The_Urantia_Book/180#p5_8))
+> « La vraie signification cosmique de cette règle de relations universelles ne se révèle que dans sa réalisation spirituelle, dans l’interprétation de la loi de conduite par l’esprit du Fils envers l’esprit du Père qui habite l’âme du mortel. » (<a id="a71_247"></a>[LU 180:5.8](/fr/The_Urantia_Book/180#p5_8))
 
-> « L’amour, le désintéressement, doit constamment subir une vivante réadaptation interprétative des relations conforme aux directives de l’Esprit de Vérité. Il faut que l’amour saisisse ainsi les concepts toujours changeants et plus étendus du **bien cosmique le plus élevé** pour la personne qui est aimée. » ([LU 180:5.10](/fr/The_Urantia_Book/180#p5_10))
+> « L’amour, le désintéressement, doit constamment subir une vivante réadaptation interprétative des relations conforme aux directives de l’Esprit de Vérité. Il faut que l’amour saisisse ainsi les concepts toujours changeants et plus étendus du **bien cosmique le plus élevé** pour la personne qui est aimée. » (<a id="a73_312"></a>[LU 180:5.10](/fr/The_Urantia_Book/180#p5_10))
 
 C’est le niveau auquel « mon Père et moi pourrons vivre dans l’âme de chacun de vous ».
 
-> « Ensuite, l’amour continue en observant cette même attitude envers toutes les autres personnes susceptibles d’être influencées par les rapports vivants et croissants de l’amour d’un mortel dirigé par l’esprit pour d’autres citoyens de l’univers. » ([LU 180:5.10](/fr/The_Urantia_Book/180#p5_10))
+> « Ensuite, l’amour continue en observant cette même attitude envers toutes les autres personnes susceptibles d’être influencées par les rapports vivants et croissants de l’amour d’un mortel dirigé par l’esprit pour d’autres citoyens de l’univers. » (<a id="a77_252"></a>[LU 180:5.10](/fr/The_Urantia_Book/180#p5_10))
 
 Pour opérer à ce niveau, nous aurions besoin d'avoir atteint un niveau de communication avec l'Esprit de Vérité comparable à celui que l'humain Jésus a atteint avec son Ajusteur de Pensée :
 
-> « Un parfait synchronisme et une pleine communication s’étaient établis entre le mental humain de Jésus et son Ajusteur esprit intérieur, le don divin de son Père du Paradis. » ([LU 136:2.2](/fr/The_Urantia_Book/136#p2_2))
+> « Un parfait synchronisme et une pleine communication s’étaient établis entre le mental humain de Jésus et son Ajusteur esprit intérieur, le don divin de son Père du Paradis. » (<a id="a81_180"></a>[LU 136:2.2](/fr/The_Urantia_Book/136#p2_2))
 
 Les informations suivantes peuvent être utiles :
 
-> « Ne commettez pas l’erreur de compter acquérir la ferme conscience intellectuelle de l’Esprit de Vérité désormais répandu. L’esprit ne crée jamais une conscience de lui-même, mais seulement une conscience de Micaël, le Fils. Dès le commencement, Jésus enseigna que l’esprit ne parlerait pas de lui-même. La preuve de votre communion avec l’Esprit de Vérité ne se trouve donc pas dans votre conscience de cet esprit, mais plutôt dans votre expérience d’une communion accrue avec Micaël. » ([LU 194:2.4](/fr/The_Urantia_Book/194#p2_4))
+> « Ne commettez pas l’erreur de compter acquérir la ferme conscience intellectuelle de l’Esprit de Vérité désormais répandu. L’esprit ne crée jamais une conscience de lui-même, mais seulement une conscience de Micaël, le Fils. Dès le commencement, Jésus enseigna que l’esprit ne parlerait pas de lui-même. La preuve de votre communion avec l’Esprit de Vérité ne se trouve donc pas dans votre conscience de cet esprit, mais plutôt dans votre expérience d’une communion accrue avec Micaël. » (<a id="a85_492"></a>[LU 194:2.4](/fr/The_Urantia_Book/194#p2_4))
 
 Cela nous donne certainement quelque chose sur quoi travailler.
 
-> « Chacun des nombreux, des très nombreux postes dans la maison de mon Père est une halte, une vie destinée à vous préparer à la suivante. ([LU 181:1.2](/fr/The_Urantia_Book/181#p1_2))
+> « Chacun des nombreux, des très nombreux postes dans la maison de mon Père est une halte, une vie destinée à vous préparer à la suivante. (<a id="a89_141"></a>[LU 181:1.2](/fr/The_Urantia_Book/181#p1_2))
 
 ## Liens externes
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Duane L. Faw, JD<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia< /i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le clergé évalue le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Confirming_a_Spiritual_Pilgrimage">
+          <span class="pr-2">Le Livre d'Urantia et le renouveau spirituel : Confirmer un pèlerinage spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que j'enseignais le droit à Londres en 1982, j'ai appris que le Vicaire d'une église anglicane voisine était un « lecteur secret » du _Livre d'Urantia_. Il hésitait à me voir dans son bureau d'église ou dans son presbytère, alors nous avons convenu de nous rencontrer dans un pub de quartier pratique. Je lui ai expliqué que j'étais attiré par le livre car plus de 98 % de ses citations provenaient de la Bible, des Apocryphes et des Pseudépigraphes. En tant qu'enseignant de classe biblique pour adultes et conférencier laïc certifié, je voulais savoir ce que la Bible et le _Livre d'Urantia_ disaient à propos d'un texte ou d'un concept avant de l'utiliser. Les marges de mon _Livre d'Urantia_ contenaient toutes les références bibliques que je pouvais trouver pour chaque citation et concept, et je pouvais passer du _Le Livre d'Urantia_ à la Bible avec facilité ; mais sans notes marginales dans une Bible faisant référence à la page et à la ligne des passages pertinents du _Le Livre d'Urantia_, il était impossible de passer de la Bible au _Le Livre d'Urantia_ en utilisant cette même technique. Par conséquent, j’ai utilisé un programme informatique pour réorganiser mes notes marginales dans un format facilitant les allers-retours dans les deux sens. Je lui ai montré le dernier imprimé de ce matériel que j'avais apporté en Angleterre pour mon usage personnel.
@@ -44,3 +68,28 @@ Depuis la publication de la première édition cartonnée du _Paramony_ en 1986,
 > _Duane Faw est un ancien juge d'appel, général de brigade du Corps des Marines des États-Unis (à la retraite) et professeur de droit émérite à la faculté de droit de l'Université Pepperdine. Le Dr Faw enseigne des cours bibliques pour adultes depuis 40 ans et est conférencier laïc certifié dans l'Église Méthodiste Unie depuis 25 ans._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Science_Religion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le clergé évalue le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Confirming_a_Spiritual_Pilgrimage">
+          <span class="pr-2">Le Livre d'Urantia et le renouveau spirituel : Confirmer un pèlerinage spirituel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

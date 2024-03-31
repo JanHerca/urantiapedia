@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume10_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="pr-2">Un défi œcuménique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il existe une nette divergence d'opinions au sein du mouvement Urantia sur l'utilisation du droit d'auteur et des marques de service associées au _Livre d'Urantia_. Je me suis abstenu d'exprimer pleinement mon opinion sur ces questions parce que j'ai des amis proches des deux côtés de cette controverse et parce que je préfère éviter toute implication politique. Les activités de sensibilisation et le ministère spirituel, à mon avis, sont les activités les plus importantes dont notre société a besoin.
@@ -36,3 +60,28 @@ Je pense qu'il est bon que la Fondation ait des marques de service. Mais je trou
 
 J'espère et je prie pour que nous puissions avoir une unité d'objectif au milieu de la diversité des opinions et des activités. Nous devrions soutenir la Fondation dans sa publication des traductions et du matériel d'étude du _Livre d'Urantia_. J'ai la conviction que, malgré les erreurs et les controverses, la Cinquième Révélation d'Époque fera son chemin à travers le monde et le transformera au cours des 2000 prochaines années.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume10_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="pr-2">Un défi œcuménique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -11,11 +11,11 @@ dateCreated: 2022-9-9T8:13:39Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » ([LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
+> « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, sur la vérité que vous êtes les fils de Dieu ainsi que tous les autres hommes. Cette mission se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » (<a id="a13_366"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
 Jésus nous a donné le modèle. On nous dit : « suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maître au service désintéressé de l’homme. L’une des choses les plus importantes dans la vie humaine est de découvrir ce que Jésus croyait, de découvrir ses idéaux et de s’efforcer d’atteindre son objectif de vie exalté.
 
-> « De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> « De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a17_162"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
 Ensuite, après avoir acquis cette connaissance, il ne suffit pas de la transmettre : « **Vous pouvez prêcher une religion sur Jésus mais, forcément, vous devez vivre la religion de Jésus.** » Le recueil de déclarations qui suit peut nous aider à le premier pas. Le vivre dépend du lecteur, mais sinon, pourquoi auriez-vous le livre ?
 
@@ -76,7 +76,7 @@ Les trois paraboles préférées de Jésus étaient le fils prodigue, la pièce 
 
 Peu à peu, la plupart d’entre nous apprendront que la connaissance la plus importante contenue dans les Fascicules d’Urantia est réellement la vie religieuse de Jésus et la manière dont il l’a vécue.
 
-> La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. ... nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
+> La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. ... nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. (<a id="a78_287"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 
 ## Liens externes
 

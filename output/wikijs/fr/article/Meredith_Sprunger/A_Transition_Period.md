@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Meredith Sprunger<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Nadia_Factor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le facteur Nadia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Observations_on_Religious_Institutions">
+          <span class="pr-2">Interface : Observations sur les institutions religieuses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il semble que le mouvement Urantia émerge de sa lutte initiale pour l’identité et se trouve maintenant dans une position qui va se poursuivre pendant un certain temps. La vague de procès concernant le droit de contrôler l'utilisation et la publication du _Livre d'Urantia_ a pratiquement disparu, la Cour d'appel affirmant que le livre est désormais dans le domaine public (en attendant la tentative de la Fondation de faire entendre l'affaire devant la Cour suprême).
@@ -47,8 +71,33 @@ Certains signes montrent que nous allons dans cette direction. Les principaux ob
 
 Peu à peu, les peuples du monde apprendront à reconnaître et à rejeter ces formes de fondamentalisme. Les dirigeants perspicaces et équilibrés des religions du monde commencent à dialoguer entre eux. De plus en plus de théologiens s’intéressent aux fondements pluralistes de la religion. John Hick appelle à une révolution copernicienne dans la pensée théologique et développe une position théocentrique dans son livre _God Has Many Names_. Wilfred C. Smith dans _Toward a World Theology_ et Harvey Cox dans Many Mansions appellent à une approche œcuménique et pluraliste de la religion. Diana L. Eck, dans son livre _A New Religious America_, souligne que les États-Unis sont la nation la plus diversifiée sur le plan religieux au monde. Les débuts de ce mouvement vers une religion mondiale pourraient commencer ici, dans le « creuset » des peuples raciaux, ethniques et religieux du monde.
 
-> _Dr. Meredith J. Sprunger est présidente de The Spiritual Fellowship et est > fondatrice et rédactrice émérite de _The Spiritual Fellowship Journal_. Il vit à Fort Wayne, Indiana avec sa femme, Irene. Le Dr Sprunger peut être contacté > à :_
+> _Dr. Meredith J. Sprunger est présidente de The Spiritual Fellowship et est > fondatrice et rédactrice émérite de _Journal de la Fraternité Spirituelle_. Il vit à Fort Wayne, Indiana avec sa femme, Irene. Le Dr Sprunger peut être contacté > à :_
 > 
 > mjsprunger@aol.com
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Nadia_Factor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le facteur Nadia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Observations_on_Religious_Institutions">
+          <span class="pr-2">Interface : Observations sur les institutions religieuses</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

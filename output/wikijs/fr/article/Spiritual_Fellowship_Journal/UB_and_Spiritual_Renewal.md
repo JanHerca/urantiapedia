@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et la Science Moderne : Harmonie ou Discorde ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="pr-2">Chant du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Cette fonctionnalité est rédigée par des ministres. Puisque le Livre d'Urantia est actuellement potentiellement controversé, les noms sont parfois cachés afin de ne pas interférer avec leurs relations dans le ministère._
@@ -45,3 +69,28 @@ Il est difficile de condenser en une ou deux phrases concises l’essence des 2 
 
 Mais vous pourriez demander : « Le Livre d'Urantia est-il vrai ? Encore une fois, je ne sais pas quoi répondre. Cette question est devenue obsolète pour moi. Après avoir lu _Le Livre d'Urantia_, la question de sa « vérité » m'a semblé presque sans importance. Demander une vérification objective, c'est comme demander une preuve de la divinité de Jésus ! Son authenticité doit être vérifiée dans le cœur et l’esprit de l’individu. De telles questions ont tendance à détourner l’attention de l’utilité et de l’application du message. La meilleure question à poser (à Jésus ou au _Livre d'Urantia_) est : « Est-il utile pour la croissance et la maturation de votre vie spirituelle ? Ma réponse sur les deux comptes est un « Oui ! » retentissant.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/UB_and_Modern_Science_Harmony_or_Discord">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et la Science Moderne : Harmonie ou Discorde ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Troy_R_Bishop/Song_of_The_Urantia_Book">
+          <span class="pr-2">Chant du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

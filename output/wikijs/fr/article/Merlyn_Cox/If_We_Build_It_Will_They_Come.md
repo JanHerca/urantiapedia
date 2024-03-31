@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Merlyn Cox<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Love/Buckminster_Fullers_Life_Changing_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expérience qui a changé la vie de Buckminster Fuller</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="pr-2">Conscient d'un meilleur choix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -31,6 +55,31 @@ Cependant, nous devons être conscients du fait que ce processus sera long et le
 
 Nous devons préparer le terrain et fixer des objectifs concernant les choses sur lesquelles nous avons le contrôle, et être prêts à apprendre et à nous adapter au fur et à mesure. Mais le vrai travail ne nous appartient pas. Cela devrait nous libérer d'investir nos efforts avec joie et espérance, alors que nous prions pour que ceux qui se trouvent dans les royaumes supérieurs utilisent nos efforts pour le plus grand bien et la gloire de l'œuvre du Père.
 
-> _Merlyn Cox est pasteur au sein de la Conférence du Nord de l'Indiana de l'Église Méthodiste Unie. Il est un lecteur du _Livre d'Urantia_ depuis 18 ans et a travaillé avec Meredith Sprunger pour lancer le _The Spiritual Fellowship Journal_ en 1991, et a servi pendant dix ans comme rédacteur associé. Il est actuellement président de l'équipe éducative de The Spiritual Fellowship._
+> _Merlyn Cox est pasteur au sein de la Conférence du Nord de l'Indiana de l'Église Méthodiste Unie. Il est un lecteur du _Livre d'Urantia_ depuis 18 ans et a travaillé avec Meredith Sprunger pour lancer le _Journal de la Fraternité Spirituelle_ en 1991, et a servi pendant dix ans comme rédacteur associé. Il est actuellement président de l'équipe éducative de The Spiritual Fellowship._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Love/Buckminster_Fullers_Life_Changing_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'expérience qui a changé la vie de Buckminster Fuller</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="pr-2">Conscient d'un meilleur choix</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

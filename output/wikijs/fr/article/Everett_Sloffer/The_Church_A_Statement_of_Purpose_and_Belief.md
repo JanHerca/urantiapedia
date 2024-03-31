@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Everett Sloffer<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Latent_Mainline_Potential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Potentiel latent de la ligne principale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Interface_Does_it_Preach">
+          <span class="pr-2">Interface : est-ce qu'elle prêche ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Ceci est une déclaration d'un lecteur de longue date du _Livre d'Urantia_ qui a été mis au défi par ce pasteur d'écrire sa vision du but de l'église._
@@ -43,3 +67,28 @@ Cinquièmement, nous sommes unis dans la conviction que, dans son sens le plus p
 
 Peu importe à quelle hauteur nous élevons notre vision spirituelle, la traduction ultime de nos potentiels en réalisations réelles ne se réalisera pas dans l’abstrait. Nous devons agir; nous devons convertir nos aspirations en actions, nos idéaux en qualités d'être.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Latent_Mainline_Potential">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Potentiel latent de la ligne principale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Interface_Does_it_Preach">
+          <span class="pr-2">Interface : est-ce qu'elle prêche ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

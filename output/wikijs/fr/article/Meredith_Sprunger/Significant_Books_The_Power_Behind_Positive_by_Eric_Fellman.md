@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Real_Jesus_by_Luke_Timothy_Johnson">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Le vrai Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="pr-2">Série de sermons sur la croissance spirituelle : Partie 2, Reconnaître la bonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Éric Fellman
@@ -24,3 +48,28 @@ Fellman construit une pyramide de vie de base de valeurs spirituelles clés qui 
 
 J'ai trouvé la présentation d'Eric Fellman sur ces disciplines spirituelles classiques intéressante et perspicace, et les situations de vie qu'il utilise pour illustrer ces techniques de croissance spirituelle sont stimulantes et inspirantes.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Real_Jesus_by_Luke_Timothy_Johnson">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Le vrai Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_Recognizing_the_Goodness_of_God">
+          <span class="pr-2">Série de sermons sur la croissance spirituelle : Partie 2, Reconnaître la bonté de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

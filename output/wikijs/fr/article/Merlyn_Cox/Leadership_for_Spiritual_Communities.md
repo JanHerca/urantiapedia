@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Merlyn Cox<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Creative_Outreach_Adjusting_our_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ajuster notre perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="pr-2">Sir Hubert Wilkins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La Spiritual Fellowship s'efforce d'établir des communautés spirituelles appelées Fellowships où des personnes partageant les mêmes idées peuvent adorer et servir ensemble. Quand ces communautés ont-elles besoin de leadership, et si oui, de quel type de leadership ont-elles besoin ?
@@ -21,7 +45,7 @@ Il ne s’agit pas de dire aux gens quoi faire ; c'est qu'un groupe a besoin de 
 
 Dans le passé, l’ancien style de leadership pyramidal utilisé dans l’industrie était également le modèle utilisé par les dirigeants des organisations religieuses. Les informations circulaient principalement du haut vers le bas dans ces organisations. Ce modèle, probablement issu d’organisations militaires, a fonctionné dans le passé, mais il présente de nombreux problèmes. Il n’invite pas à la pleine participation et aux commentaires de ceux qui effectuent le travail pratique. Les nouveaux modèles de leadership tentent d’impliquer pleinement tous les membres d’une organisation dans la prise de décision afin qu’ils aient le sentiment de s’approprier le travail que l’organisation choisit d’entreprendre. Le modèle de leadership le plus radical est probablement celui suggéré par Jésus.
 
-Jésus a dit : « _Souvenez-vous de ce que je vous ai enseigné : celui qui veut être le plus grand parmi vous doit se faire le serviteur de tous._ » ([LU 175:1.10](/fr/The_Urantia_Book/175#p1_10)) Cela peut être une chose difficile à faire pour certains dirigeants. Beaucoup de personnes occupant des postes de direction semblent avoir un grand ego. Vous devez certainement avoir confiance pour être un leader efficace, mais néanmoins résister à vous placer au-dessus de ceux qui vous ont choisi comme leader.
+Jésus a dit : « _Souvenez-vous de ce que je vous ai enseigné : celui qui veut être le plus grand parmi vous doit se faire le serviteur de tous._ » (<a id="a47_148"></a>[LU 175:1.10](/fr/The_Urantia_Book/175#p1_10)) Cela peut être une chose difficile à faire pour certains dirigeants. Beaucoup de personnes occupant des postes de direction semblent avoir un grand ego. Vous devez certainement avoir confiance pour être un leader efficace, mais néanmoins résister à vous placer au-dessus de ceux qui vous ont choisi comme leader.
 
 ## Source de dirigeants
 
@@ -84,6 +108,31 @@ Le leadership n'est pas quelque chose qui s'apprend lors d'un séminaire d'un we
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Creative_Outreach_Adjusting_our_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ajuster notre perspective</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="pr-2">Sir Hubert Wilkins</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

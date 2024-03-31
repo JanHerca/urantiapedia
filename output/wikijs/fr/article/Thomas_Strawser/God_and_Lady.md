@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Thomas Strawser<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nancy_Long/Spiritual_Outreach_for_Spiritual_Fellowships">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sensibilisation spirituelle pour les bourses spirituelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Barton/The_Man_Nobody_Knows_Part_III">
+          <span class="pr-2">L'homme que personne ne connaît - Partie 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai réalisé il y a peu de temps que je faisais plus confiance à mon cheval qu'à Dieu pendant plusieurs années. Je déteste l'admettre et cela semble presque sacrilège quand je le vois écrit, mais c'est vrai.
@@ -42,5 +66,30 @@ La vie est merveilleuse et est un processus d'apprentissage continu. J'ai eu la 
 > _Thomas Strawser a découvert _Le Livre d'Urantia_ en 1983 et a trouvé des réponses aux questions de toute une vie. Lui et son épouse Barbara ont rejoint la 1ère Société Urantia d'Oklahoma en 1984. La vérité et la valeur de ces enseignements les ont soutenus et guidés à travers la mort d'une fille adolescente et la cécité totale de Tom en 1994. Un autre test des enseignements a eu lieu lorsque Barb est décédée en 1994. 2001. Tom croit qu'il a été vraiment béni par la révélation Urantia. God and Lady clôt son 4ème CD décrivant son application pratique des enseignements de l'LU. Ces CD sont disponibles sur www.mylivingsolutions.com_
 {.is-info}
 
-> « _Les fluctuations de la présence du Père ne sont pas dues à la variabilité de Dieu. Le Père ne se retire pas dans la solitude parce qu’il a été offensé. Son affection n’est pas aliénée du fait qu’une créature a mal agi. Ses enfants ont reçu le pouvoir de choisir en ce qui Le concerne. Ce sont donc ses enfants qui, dans l’exercice de ce choix, déterminent directement le degré et les limitations de l’influence divine du Père dans leur propre cœur et leur propre âme. Le Père s’est librement effusé lui-même sur nous sans limites et sans faveurs._ » (The Urantia Papers, [LU 3:1.12](/fr/The_Urantia_Book/3#p1_12))
+> « _Les fluctuations de la présence du Père ne sont pas dues à la variabilité de Dieu. Le Père ne se retire pas dans la solitude parce qu’il a été offensé. Son affection n’est pas aliénée du fait qu’une créature a mal agi. Ses enfants ont reçu le pouvoir de choisir en ce qui Le concerne. Ce sont donc ses enfants qui, dans l’exercice de ce choix, déterminent directement le degré et les limitations de l’influence divine du Père dans leur propre cœur et leur propre âme. Le Père s’est librement effusé lui-même sur nous sans limites et sans faveurs._ » (The Urantia Papers, <a id="a68_576"></a>[LU 3:1.12](/fr/The_Urantia_Book/3#p1_12))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nancy_Long/Spiritual_Outreach_for_Spiritual_Fellowships">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sensibilisation spirituelle pour les bourses spirituelles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Barton/The_Man_Nobody_Knows_Part_III">
+          <span class="pr-2">L'homme que personne ne connaît - Partie 3</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

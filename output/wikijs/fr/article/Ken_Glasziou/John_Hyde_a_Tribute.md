@@ -29,7 +29,7 @@ Je n'ai connu John que par correspondance et par sa contribution à Innerface In
 
 « Il n’y a aucun moyen d’avancer si les lecteurs du Livre d’Urantia ne peuvent pas reconnaître que ces deux activités ne s’excluent pas mutuellement, que toutes deux sont essentielles. »
 
-« Dans le Livre d'Urantia, il y a une citation qui déclare : « La vraie religion est l'acte d'une âme individuelle dans ses relations conscientes avec le Créateur ; la religion organisée est la tentative de l’homme de socialiser le culte de religieux individuels... ' ([LU 143:7.2](/fr/The_Urantia_Book/143#p7_2))"
+« Dans le Livre d'Urantia, il y a une citation qui déclare : « La vraie religion est l'acte d'une âme individuelle dans ses relations conscientes avec le Créateur ; la religion organisée est la tentative de l’homme de socialiser le culte de religieux individuels... ' (<a id="a31_269"></a>[LU 143:7.2](/fr/The_Urantia_Book/143#p7_2))"
 
 « L’alternative à une religion organisée est la rétention égoïste des messages du _Livre d’Urantia_ par l’individu pour l’individu – peut-être accompagnée de l’espoir désespéré et presque inévitablement déplacé que quelqu’un d’autre remarquera notre sainteté et en bénéficiera.
 

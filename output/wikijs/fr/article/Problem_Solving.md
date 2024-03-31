@@ -19,7 +19,7 @@ Rodan, Alexandrie
 > 
 > **« Que ta volonté soit faite, et non la mienne. »**
 >
-> ([LU 160:1.10](/fr/The_Urantia_Book/160#p1_10))
+> (<a id="a21_3"></a>[LU 160:1.10](/fr/The_Urantia_Book/160#p1_10))
 
 > Le test de la grandeur spirituelle est la qualité du dévouement manifesté dans le travail d'un individu pour le bien-être des autres.
 

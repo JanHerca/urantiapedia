@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Merlyn Cox<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Contemporary_Theology_Anticipates_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La théologie contemporaine anticipe le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="pr-2">Les Psaumes aujourd'hui : au-delà de la tradition et de l'orthodoxie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que de nombreux membres du mouvement Urantia envisagent et commencent à travailler vers de nouvelles formes de structure religieuse et de communauté, il y aura sans aucun doute de nombreuses approches différentes. En tant que pasteur dans une confession religieuse principale depuis plus de 30 ans, je me souviens constamment de la diversité des églises. Cela inclut le fait d’être gêné, et parfois honteux, par le manque d’unité dans les questions essentielles de l’Esprit, ainsi que par les conflits et la compétition qui s’insinuent souvent dans les relations entre les églises, même au sein d’une même dénomination.
@@ -25,6 +49,31 @@ Parce que c’est si important, nous ferions bien d’écouter les idées de la 
 C'est, à mon avis, le livre sur l'adoration le plus perspicace et le plus utile que j'ai jamais lu. La plupart de ses affirmations fondamentales reflètent celles du _Livre d'Urantia_. Je pense que c'est une ressource pour dialoguer avec les meilleures idées de la tradition chrétienne, une tradition dont les trésors ne doivent pas être ignorés. J'exhorte chaque lecteur du _Livre d'Urantia_ à entrer dans ce dialogue et à utiliser le livre de Marva Dawn comme l'une des ressources.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Contemporary_Theology_Anticipates_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La théologie contemporaine anticipe le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_13">
+          <span class="pr-2">Les Psaumes aujourd'hui : au-delà de la tradition et de l'orthodoxie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

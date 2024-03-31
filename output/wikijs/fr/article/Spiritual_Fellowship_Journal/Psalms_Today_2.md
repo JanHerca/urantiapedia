@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Styles d'écriture des articles dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Gender_Differentiation_in_UB">
+          <span class="pr-2">La différenciation des genres dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aide-moi, ô Dieu, à discerner ta volonté dans les alternatives qui se présentent à moi.
@@ -39,3 +63,28 @@ Je te remercie, Père céleste, pour tes conseils infaillibles.
 
 Votre amour est grand, au-delà de toute mesure ; grâce à ta présence intérieure, ma vie est remplie de but et de joie !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Writing_Styles_of_Papers_in_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Styles d'écriture des articles dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Gender_Differentiation_in_UB">
+          <span class="pr-2">La différenciation des genres dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

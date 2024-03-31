@@ -11,13 +11,13 @@ dateCreated: 2022-09-26T16:45:14.471Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-Tôt ou tard, les lecteurs du Livre d'Urantia devront tenir compte des appels lancés par ses révélateurs. L'un d'entre eux est sur [LU 2:7.10](/fr/The_Urantia_Book/2#p7_10) :
+Tôt ou tard, les lecteurs du Livre d'Urantia devront tenir compte des appels lancés par ses révélateurs. L'un d'entre eux est sur <a id="a13_130"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10) :
 
 > « Le défi religieux de cette époque s'adresse aux hommes et aux femmes clairvoyants et tournés vers l'avenir, dotés d'une perspicacité spirituelle, qui oseront construire une philosophie nouvelle et attrayante de vie à partir des concepts modernes élargis et parfaitement intégrés de vérité cosmique, de beauté de l'univers, et la bonté divine.
 
 Une priorité élevée est accordée au retour du christianisme de son statut actuel de religion autoritaire à ce qu’il a toujours été censé être : une religion de l’esprit centrée sur la relation entre l’individu, l’Esprit de Vérité et l’Esprit du Père intérieur. Cette priorité est soulignée dans au moins dix paragraphes des documents, tels que :
 
-> « En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. ... » ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> « En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. ... » (<a id="a19_302"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 Les lecteurs du Livre d'Urantia qui ont déjà pris cette tâche au sérieux ont beaucoup appris sur ce qui est peu susceptible d'apporter grand-chose en termes de succès à long terme.
 
@@ -29,15 +29,15 @@ Presque tous les chrétiens qui sont forts dans l’expiation ne font aucun lien
 
 Alors, que peuvent faire les lecteurs du Livre d’Urantia pour aider les chrétiens à retrouver une religion de l’esprit ? Un bon début est de prêter attention à ce que Jésus nous a dit :
 
-> Durant six mois, il passa une grande partie de ses loisirs en association étroite avec ces chefs religieux, et voici comment il les instruisit. Il ne s’attaqua pas une seule fois à leurs erreurs et **ne mentionna même jamais les défauts de leurs enseignements**. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. ([LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
+> Durant six mois, il passa une grande partie de ses loisirs en association étroite avec ces chefs religieux, et voici comment il les instruisit. Il ne s’attaqua pas une seule fois à leurs erreurs et **ne mentionna même jamais les défauts de leurs enseignements**. Dans chaque cas, il choisissait la part de vérité dans leurs leçons, et ensuite il entreprenait d’embellir et d’éclairer cette vérité dans leur mental de telle sorte qu’en très peu de temps, ce rehaussement de la vérité chassait efficacement l’erreur antérieure. (<a id="a31_529"></a>[LU 132:0.4](/fr/The_Urantia_Book/132#p0_4))
 
 Cette instruction fut ensuite répétée à l’apôtre Simon :
 
-> Jésus répondit : « Simon, Simon, combien de fois t’ai-je recommandé de t’abstenir de tout effort pour *retirer* quelque chose du cœur de ceux qui cherchent le salut ? Combien de fois je t’ai dit de ne travailler que pour faire *pénétrer* quelque chose dans ces âmes assoiffées. Conduis les hommes dans le royaume, et ensuite les grandes vérités vivantes du royaume ne tarderont pas à éliminer toute erreur sérieuse. » ([LU 141:6.2](/fr/The_Urantia_Book/141#p6_2))
+> Jésus répondit : « Simon, Simon, combien de fois t’ai-je recommandé de t’abstenir de tout effort pour *retirer* quelque chose du cœur de ceux qui cherchent le salut ? Combien de fois je t’ai dit de ne travailler que pour faire *pénétrer* quelque chose dans ces âmes assoiffées. Conduis les hommes dans le royaume, et ensuite les grandes vérités vivantes du royaume ne tarderont pas à éliminer toute erreur sérieuse. » (<a id="a35_421"></a>[LU 141:6.2](/fr/The_Urantia_Book/141#p6_2))
 
 Ainsi, dire aux chrétiens où ils ont tort ne semble pas trouver la faveur de Jésus et il vaut mieux les mettre au repos pour de bon.
 
-Jésus nous a proposé une alternative : « Laissons l’Esprit de vérité faire son propre travail ». ([LU 178:1.16](/fr/The_Urantia_Book/178#p1_16))
+Jésus nous a proposé une alternative : « Laissons l’Esprit de vérité faire son propre travail ». (<a id="a39_98"></a>[LU 178:1.16](/fr/The_Urantia_Book/178#p1_16))
 
 Un autre échec est d’approcher les chrétiens avec une nouvelle révélation. Même si cela peut fonctionner pour une infime minorité, l’expérience a montré que ce n’est pas la bonne solution. Il peut y avoir une multitude de raisons, la plus importante parmi elles étant que le christianisme a été rassasié de faux messies, prophètes, visionnaires et dirigeants charismatiques potentiels. Et il est certain que l’avertissement des sanctions sévères dans le Livre de l’Apocalypse en cas de modification d’un enseignement biblique engendre une certaine méfiance quant à l’adoption de nouvelles révélations. Alors, que pouvons-nous faire? Nous devons d’abord faire preuve de patience, de tolérance, d’humilité et être aussi sages que des serpents et aussi inoffensifs que des colombes – toutes ces recommandations viennent directement de Jésus.
 
@@ -61,15 +61,15 @@ Cela signifie que nous n'avons même pas besoin de mentionner le Livre d'Urantia
 
 À ce stade, il semblerait préférable de suivre Jésus :
 
-> « « Laissez-moi proclamer solennellement cette vérité éternelle : Si, en vous harmonisant avec la vérité, vous apprenez à donner, dans votre vie, l’exemple de cette magnifique intégralité de la droiture, vos semblables vous rechercheront pour obtenir ce que vous aurez ainsi acquis. La mesure dans laquelle les chercheurs de vérité seront attirés vers vous représente la mesure de votre dotation de vérité, de votre droiture. La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » » ([LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
+> « « Laissez-moi proclamer solennellement cette vérité éternelle : Si, en vous harmonisant avec la vérité, vous apprenez à donner, dans votre vie, l’exemple de cette magnifique intégralité de la droiture, vos semblables vous rechercheront pour obtenir ce que vous aurez ainsi acquis. La mesure dans laquelle les chercheurs de vérité seront attirés vers vous représente la mesure de votre dotation de vérité, de votre droiture. La mesure dans laquelle il faut que vous portiez votre message aux gens représente, en un certain sens, la mesure de votre inaptitude à vivre la vie saine et droite, la vie harmonisée avec la vérité. » » (<a id="a63_633"></a>[LU 155:1.5](/fr/The_Urantia_Book/155#p1_5))
 
-> « En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. » ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> « En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. » (<a id="a65_298"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 Notez que l’accent est mis sur le fait que nous vivons la vie semblable à celle de Dieu telle que révélée dans la vie de Jésus et peut-être sur la distribution d’un Livre d’Urantia après que les chercheurs de vérité soient attirés vers nous. À moins que nous n’essayions au moins de faire cela, nous nous moquons de la révélation si nous nous identifions comme lecteurs du Livre d’Urantia.
 
 La phase dans laquelle notre tâche principale est d'aider les chrétiens à prendre conscience de leur demeure peut durer des centaines d'années. Il n’y a donc aucune raison de s’inquiéter de la suite. Et en tout cas nous avons des conseils pertinents de Jésus :
 
-> « En tout cela, tu dois laisser faire le temps. Le temps seul fait murir le fruit vert sur l’arbre. Les saisons ne succèdent aux saisons et le coucher du soleil ne succède à son lever qu’avec l’écoulement du temps. Je suis maintenant sur le chemin ... et cela suffit pour aujourd’hui. Mon lendemain est entièrement entre les mains de mon Père céleste. » ([LU 130:5.3](/fr/The_Urantia_Book/130#p5_3))
+> « En tout cela, tu dois laisser faire le temps. Le temps seul fait murir le fruit vert sur l’arbre. Les saisons ne succèdent aux saisons et le coucher du soleil ne succède à son lever qu’avec l’écoulement du temps. Je suis maintenant sur le chemin ... et cela suffit pour aujourd’hui. Mon lendemain est entièrement entre les mains de mon Père céleste. » (<a id="a71_357"></a>[LU 130:5.3](/fr/The_Urantia_Book/130#p5_3))
 
 ## Liens externes
 

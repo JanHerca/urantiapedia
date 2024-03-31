@@ -23,15 +23,15 @@ Même une modeste connaissance de la théologie du processus telle que celle pr�
 
 Dans les Cahiers, nous apprenons que la créativité de nous, humains, se limite au tri des idées de base plutôt qu'à leur création. Cela confirme peut-être ce que beaucoup de nos plus grands mathématiciens ont toujours cru : ils ne « créent » pas de nouveaux théorèmes ou lois, mais plutôt les « découvrent ». Naturellement, cela soulève de nombreux débats sur la situation de ces théorèmes avant leur découverte, ainsi que sur celui qui les a créés.
 
-Les Cahiers nous informent que toutes les idées originales, concepts, etc. possibles, sont déjà présents en tant que potentiels et possibilités dans la conservation des Absolus de l'Infini. ([LU 115:2.1](/fr/The_Urantia_Book/115#p2_1), [LU 115:4.6](/fr/The_Urantia_Book/115#p4_6))
+Les Cahiers nous informent que toutes les idées originales, concepts, etc. possibles, sont déjà présents en tant que potentiels et possibilités dans la conservation des Absolus de l'Infini. (<a id="a25_191"></a>[LU 115:2.1](/fr/The_Urantia_Book/115#p2_1), <a id="a25_236"></a>[LU 115:4.6](/fr/The_Urantia_Book/115#p4_6))
 
-Ceux qui deviennent disponibles pour nous, les humains, le font apparemment parce qu’ils ont déjà été « traités » et qu’ils sont présents et disponibles dans l’Esprit Suprême désormais fonctionnel. ([LU 117:5.10](/fr/The_Urantia_Book/117#p5_10))
+Ceux qui deviennent disponibles pour nous, les humains, le font apparemment parce qu’ils ont déjà été « traités » et qu’ils sont présents et disponibles dans l’Esprit Suprême désormais fonctionnel. (<a id="a27_199"></a>[LU 117:5.10](/fr/The_Urantia_Book/117#p5_10))
 
-À travers l’esprit cosmique de l’Esprit Infini et les esprits mentaux adjudants de l’Esprit Mère de l’Univers, ces pensées préexistantes sont présentées pour notre sélection, notre tri, notre recombinaison et notre prise de décision. ([LU 117:4.8](/fr/The_Urantia_Book/117#p4_8), [LU 117:5.11](/fr/The_Urantia_Book/117#p5_11))
+À travers l’esprit cosmique de l’Esprit Infini et les esprits mentaux adjudants de l’Esprit Mère de l’Univers, ces pensées préexistantes sont présentées pour notre sélection, notre tri, notre recombinaison et notre prise de décision. (<a id="a29_235"></a>[LU 117:4.8](/fr/The_Urantia_Book/117#p4_8), <a id="a29_280"></a>[LU 117:5.11](/fr/The_Urantia_Book/117#p5_11))
 
 Du moins, c'est ainsi que cela semble être. Les tableaux qui suivent peuvent être utiles pour réaliser certains tris auto-effectués.
 
-> C’est en utilisant la réalité même du Suprême que l’Ajusteur, avec le consentement de la volonté humaine, tisse les modèles de la nature éternelle d’un fils ascendant de Dieu. ([LU 117:4.8](/fr/The_Urantia_Book/117#p4_8))
+> C’est en utilisant la réalité même du Suprême que l’Ajusteur, avec le consentement de la volonté humaine, tisse les modèles de la nature éternelle d’un fils ascendant de Dieu. (<a id="a33_179"></a>[LU 117:4.8](/fr/The_Urantia_Book/117#p4_8))
 
 ## La création des univers
 

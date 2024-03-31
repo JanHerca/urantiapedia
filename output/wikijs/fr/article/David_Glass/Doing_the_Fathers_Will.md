@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 David E. Glass<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La seule vie qui vaut la peine d'être vécue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Comprendre le mal dans l'expérience humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Faire la volonté du Père est une entreprise à multiples facettes. Faire la volonté de Dieu est un style de vie complet qui concerne non seulement ce que l'on fait pour accomplir la volonté du Père, mais aussi la manière dont on accomplit la volonté de Dieu - l'esprit avec lequel le fils ou la fille de Dieu s'approche, discerne et agit. concernant sa conception la plus élevée de la volonté du Père. Cependant, de nombreux mortels planétaires ne connaissent pas grand-chose de la volonté de Dieu. Même certains lecteurs du Livre d'Urantia ne sont pas toujours certains de ce que peut être la volonté du Père : premièrement, dans leur relation personnelle avec Dieu ; deuxièmement, dans leur service envers leurs frères et sœurs ; et troisièmement, en référence aux informations présentées dans la révélation nouvellement reçue. Dans la vie, nous remplissons tous de nombreuses fonctions : familiales, économiques, intellectuelles, sociales et spirituelles ; et ils sont chacun pertinents pour un ou plusieurs aspects de la volonté du Père.
@@ -37,13 +61,13 @@ Vu d’un point de vue révélé, la fraternité de l’humanité n’est pas se
 
 Tandis que la volonté du Père inclut un plan et une destinée pour notre planète et pour l'univers dans son ensemble, Dieu a également un plan et un dessein pour chaque mortel planétaire. De tels plans incluent, par exemple, l'expérience éclairante de la parentalité, et une telle exigence sera remplie dans la crèche probatoire sur le monde du finalitaire si elle n'est pas vécue pendant la vie mortelle.
 
-Le plan et le but uniques de chaque individu s'étendent au-delà de la vie planétaire pour inclure : la carrière morontielle de l'univers local, l'ascension spirituelle du superunivers, l'expérience de Havona, la citoyenneté au Paradis et, en tant que membres du Corps Mortel de la Finalité, les missions dans les six autres. des superunivers et, au-delà de la suprématie, des aventures administratives dans les zones spatiales du Maître Univers, puis des activités sans fin dans l'éternité insondable de nos carrières postulées dans le Cosmos Infini. De tels plans ne sont probablement connus, je dirais, que du Père, de l'Ajusteur de Pensée particulier et peut-être du Fils Éternel et de l'Esprit Infini. La volonté du Père pour l'individu est, comme nous le voyons, illimitée. Comme l’écrit un révélateur : « La quête de Dieu est sans fin ! » ([LU 106:7.5](/fr/The_Urantia_Book/106#p7_5)) Bien qu'il semble que ce soit la volonté du Père que ses enfants sur Urantia connaissent cette destinée éternelle future écrasante, un révélateur déclare également qu'à tout moment, le travail de sa vie présente et de sa sphère résidentielle actuelle est avant tout en importance.
+Le plan et le but uniques de chaque individu s'étendent au-delà de la vie planétaire pour inclure : la carrière morontielle de l'univers local, l'ascension spirituelle du superunivers, l'expérience de Havona, la citoyenneté au Paradis et, en tant que membres du Corps Mortel de la Finalité, les missions dans les six autres. des superunivers et, au-delà de la suprématie, des aventures administratives dans les zones spatiales du Maître Univers, puis des activités sans fin dans l'éternité insondable de nos carrières postulées dans le Cosmos Infini. De tels plans ne sont probablement connus, je dirais, que du Père, de l'Ajusteur de Pensée particulier et peut-être du Fils Éternel et de l'Esprit Infini. La volonté du Père pour l'individu est, comme nous le voyons, illimitée. Comme l’écrit un révélateur : « La quête de Dieu est sans fin ! » (<a id="a63_846"></a>[LU 106:7.5](/fr/The_Urantia_Book/106#p7_5)) Bien qu'il semble que ce soit la volonté du Père que ses enfants sur Urantia connaissent cette destinée éternelle future écrasante, un révélateur déclare également qu'à tout moment, le travail de sa vie présente et de sa sphère résidentielle actuelle est avant tout en importance.
 
-Cela fait partie de la volonté du Père que nous le connaissions – que nous devenions conscients de Dieu. « [Dieu] a mobilisé les ressources de la sagesse divine dans un effort sans fin pour se révéler aux enfants de ses domaines universels. » ([LU 5:1.2](/fr/The_Urantia_Book/5#p1_2)) Pour moi, cela est mieux réalisé grâce aux techniques de prière, de méditation et d'adoration. Je trouve que la lecture du _Livre d'Urantia_, le service bénéfique aux autres et la socialisation avec d'autres mortels connaissant Dieu sont particulièrement utiles. Et, comme Jésus l’a enseigné : «  Il est moins important pour vous de connaitre le fait de l’existence de Dieu que d’acquérir une aptitude croissante à sentir la présence de Dieu. Lorsque vous commencerez à trouver Dieu dans votre âme, vous commencerez bientôt à le découvrir dans l'âme des autres hommes et éventuellement dans toutes les créatures et créations d'un univers puissant. Une fois que vous aurez commencé à découvrir Dieu dans votre âme, vous ne tarderez pas à le découvrir dans l’âme des autres hommes, et finalement dans toutes les créatures et créations d’un puissant univers. » ([LU 155:6.12-13](/fr/The_Urantia_Book/155#p6_12))
+Cela fait partie de la volonté du Père que nous le connaissions – que nous devenions conscients de Dieu. « [Dieu] a mobilisé les ressources de la sagesse divine dans un effort sans fin pour se révéler aux enfants de ses domaines universels. » (<a id="a65_244"></a>[LU 5:1.2](/fr/The_Urantia_Book/5#p1_2)) Pour moi, cela est mieux réalisé grâce aux techniques de prière, de méditation et d'adoration. Je trouve que la lecture du _Livre d'Urantia_, le service bénéfique aux autres et la socialisation avec d'autres mortels connaissant Dieu sont particulièrement utiles. Et, comme Jésus l’a enseigné : «  Il est moins important pour vous de connaitre le fait de l’existence de Dieu que d’acquérir une aptitude croissante à sentir la présence de Dieu. Lorsque vous commencerez à trouver Dieu dans votre âme, vous commencerez bientôt à le découvrir dans l'âme des autres hommes et éventuellement dans toutes les créatures et créations d'un univers puissant. Une fois que vous aurez commencé à découvrir Dieu dans votre âme, vous ne tarderez pas à le découvrir dans l’âme des autres hommes, et finalement dans toutes les créatures et créations d’un puissant univers. » (<a id="a65_1144"></a>[LU 155:6.12-13](/fr/The_Urantia_Book/155#p6_12))
 
 > _Concernant la proclamation de l'évangile de filiation ou de filiation avec Dieu, Jésus a formé ses apôtres de manière expérientielle afin de les convaincre directement que des tactiques telles que l'appel émotionnel, l'accomplissement de miracles, la guérison physique ou simplement nourrir les gens ne créent pas nécessairement un dévouement spirituel. disciples et croyants humains_
 
-Au sujet de l'accomplissement de la volonté du Père, un divin conseiller écrit : « Le dévouement affectueux de la volonté humaine à l'accomplissement de la volonté du Père est le don le plus précieux que l'homme fasse à Dieu ; en fait, une telle consécration de la volonté de la créature constitue le seul don possible de l'homme ayant une véritable valeur au Père du Paradis. ([LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)) Et un Messager Solitaire témoigne également : « [L]'accomplissement de la volonté [de Dieu] est le secret de la survie et de la perfection dans la survie... [Lorsque] la personnalité de la créature consent — choisit — soumettre la volonté de la créature à la volonté du Père... [un tel] choix de la créature n'est pas un abandon de la volonté. C'est une consécration de la volonté, une expansion de la volonté, une glorification de la volonté, un perfectionnement de la volonté.... [Et] ce choix ne consiste pas tant dans la négation de la volonté de la créature : « Que ce ne soit pas ma volonté mais la tienne qui soit faite » — mais plutôt en une affirmation positive de la créature : « c’est *ma* volonté que *ta* volonté soit faite ». » ([LU 111:5.6](/fr/The_Urantia_Book/111#p5_6))
+Au sujet de l'accomplissement de la volonté du Père, un divin conseiller écrit : « Le dévouement affectueux de la volonté humaine à l'accomplissement de la volonté du Père est le don le plus précieux que l'homme fasse à Dieu ; en fait, une telle consécration de la volonté de la créature constitue le seul don possible de l'homme ayant une véritable valeur au Père du Paradis. (<a id="a69_378"></a>[LU 1:1.2](/fr/The_Urantia_Book/1#p1_2)) Et un Messager Solitaire témoigne également : « [L]'accomplissement de la volonté [de Dieu] est le secret de la survie et de la perfection dans la survie... [Lorsque] la personnalité de la créature consent — choisit — soumettre la volonté de la créature à la volonté du Père... [un tel] choix de la créature n'est pas un abandon de la volonté. C'est une consécration de la volonté, une expansion de la volonté, une glorification de la volonté, un perfectionnement de la volonté.... [Et] ce choix ne consiste pas tant dans la négation de la volonté de la créature : « Que ce ne soit pas ma volonté mais la tienne qui soit faite » — mais plutôt en une affirmation positive de la créature : « c’est *ma* volonté que *ta* volonté soit faite ». » (<a id="a69_1162"></a>[LU 111:5.6](/fr/The_Urantia_Book/111#p5_6))
 
 ## Relations amoureuses
 
@@ -51,7 +75,7 @@ C'est la volonté du Père (telle que révélée par Jésus) que tous ses enfant
 
 Maintenant, en raison de la portée de la révélation, nous savons également que l'enseignement de la vérité et l'encouragement de la camaraderie familiale entre les mortels ont commencé sur notre monde (bien avant la mission d'effusion de Michael) il y a environ 500 000 ans avec l'avènement de notre fidèle Prince Planétaire, Caligastia et son équipe serviable. Et, encore plus tôt, la promotion de relations de personnalité positives et équitables – comme la volonté du dieu du « Grand Au-delà » – a été évoquée et partiellement établie par Onagar, le premier enseignant de la vérité, il y a près d’un million d’années.
 
-Concernant la proclamation de l'évangile de filiation ou de filiation avec Dieu, Jésus a formé ses apôtres _expérientiellement_ afin de les convaincre directement que des tactiques telles que l'appel émotionnel, l'accomplissement de miracles, la guérison physique ou simplement nourrir les gens ne créent pas nécessairement des disciples humains spirituellement dévoués et croyants. Nous sommes infiniment bénis d’avoir le récit écrit de la manière dont Jésus a formé des dirigeants pour qu’ils soient efficaces en tant que bâtisseurs du royaume, car nous pouvons maintenant examiner et apprendre de leurs expériences avant de nous lancer dans la proclamation de l’Évangile planétaire. Nous disposons de nombreux matériaux pour formuler de sages manières d'annoncer l'Évangile conformément à la volonté du Père, mais il nous faut les adapter aux conditions des XXe et XXIe siècles. Répondons à l'exhortation de Jésus : « Comme le Père m'a envoyé dans ce monde, de même maintenant je vous envoie. » ([LU 191:6.3](/fr/The_Urantia_Book/191#p6_3))
+Concernant la proclamation de l'évangile de filiation ou de filiation avec Dieu, Jésus a formé ses apôtres _expérientiellement_ afin de les convaincre directement que des tactiques telles que l'appel émotionnel, l'accomplissement de miracles, la guérison physique ou simplement nourrir les gens ne créent pas nécessairement des disciples humains spirituellement dévoués et croyants. Nous sommes infiniment bénis d’avoir le récit écrit de la manière dont Jésus a formé des dirigeants pour qu’ils soient efficaces en tant que bâtisseurs du royaume, car nous pouvons maintenant examiner et apprendre de leurs expériences avant de nous lancer dans la proclamation de l’Évangile planétaire. Nous disposons de nombreux matériaux pour formuler de sages manières d'annoncer l'Évangile conformément à la volonté du Père, mais il nous faut les adapter aux conditions des XXe et XXIe siècles. Répondons à l'exhortation de Jésus : « Comme le Père m'a envoyé dans ce monde, de même maintenant je vous envoie. » (<a id="a77_999"></a>[LU 191:6.3](/fr/The_Urantia_Book/191#p6_3))
 
 > _Jésus a enseigné qu'en faisant la volonté du Père, nous attirerons les intérêts des autres et amènerons nos semblables à s'enquérir de nous quant à la source de notre optimisme, la raison de notre motivation au service et la raison de notre vie dévouée._
 
@@ -67,10 +91,35 @@ La volonté de Dieu inclut l'étude matérielle et scientifique du cosmos ainsi 
 
 ## Aimer Dieu
 
-Il est indiqué à la toute première page du texte (après l'avant-propos) que l'une des principales raisons pour lesquelles Dieu a peuplé les innombrables sphères de l'univers des univers avec des êtres expérimentés dans l'amour est que Dieu ait de plus en plus de personnalités intelligentes à aimer, « des êtres qui pourraient connaître Dieu, recevoir l’affection divine et l’aimer en retour ». ([LU 1:0.2](/fr/The_Urantia_Book/1#p0_2)) Ainsi, être aimé par Dieu et l'aimer en retour est l'une des formes les meilleures et les plus agréables de faire la volonté éternelle du Père tout en faisant l'expérience de son amour infini.
+Il est indiqué à la toute première page du texte (après l'avant-propos) que l'une des principales raisons pour lesquelles Dieu a peuplé les innombrables sphères de l'univers des univers avec des êtres expérimentés dans l'amour est que Dieu ait de plus en plus de personnalités intelligentes à aimer, « des êtres qui pourraient connaître Dieu, recevoir l’affection divine et l’aimer en retour ». (<a id="a93_396"></a>[LU 1:0.2](/fr/The_Urantia_Book/1#p0_2)) Ainsi, être aimé par Dieu et l'aimer en retour est l'une des formes les meilleures et les plus agréables de faire la volonté éternelle du Père tout en faisant l'expérience de son amour infini.
 
 Continuons tous à prier pour le progrès continu de toute notre communauté planétaire vers une meilleure éducation et une meilleure connaissance de la volonté de Dieu. Dieu aime chaque personnalité infiniment et inconditionnellement. Il est certain que nous voulons tous servir notre Père avec sagesse et bien, alors que nous cherchons à discerner les aspects généraux et spécifiques de sa volonté pour nous tous collectivement et pour nos vies individuelles. Notre Père donne à chaque mortel : un amour infini, une révélation étonnante, un Ajusteur de Pensée divin et la vie éternelle. Répondons tous en nous efforçant de discerner et de faire la volonté du Père. Comme un de mes chers amis aimait souvent le dire : « Que la volonté de Dieu soit faite — par _vous_ !
 
 > _David Glass est un écrivain et musicien et un étudiant de longue date du _Le Livre d'Urantia_ qui vit à Beaverton, OR._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_The_Only_Life_Worth_Living">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La seule vie qui vaut la peine d'être vécue</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="pr-2">Comprendre le mal dans l'expérience humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

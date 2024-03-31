@@ -13,13 +13,13 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Notre section « Lieux préférés » met l’accent sur le nouveau sens que la connaissance de notre destinée future dans le Royaume céleste de Dieu peut apporter à la façon dont nous concevons le déroulement de notre carrière terrestre.
 
-Il y a de nombreuses références au « royaume » dans les Cahiers d'Urantia – au point qu'il est possible d'avoir une vision erronée de la signification réelle. Dans [Paper 170](/fr/The_Urantia_Book/170#p1_13), nous trouvons le commentaire selon lequel, bien que Jésus, « _peut avoir présenté de nombreux concepts du royaume dans ses enseignements publics... à ses apôtres, il enseigna toujours le royaume comme embrassant l’expérience personnelle d’un homme par rapport à ses contemporains sur terre et au Père dans les cieux. Ses derniers mots, au sujet du royaume, étaient toujours : « Le royaume est en vous. » »
+Il y a de nombreuses références au « royaume » dans les Cahiers d'Urantia – au point qu'il est possible d'avoir une vision erronée de la signification réelle. Dans <a id="a15_164"></a>[Paper 170](/fr/The_Urantia_Book/170#p1_13), nous trouvons le commentaire selon lequel, bien que Jésus, « _peut avoir présenté de nombreux concepts du royaume dans ses enseignements publics... à ses apôtres, il enseigna toujours le royaume comme embrassant l’expérience personnelle d’un homme par rapport à ses contemporains sur terre et au Père dans les cieux. Ses derniers mots, au sujet du royaume, étaient toujours : « Le royaume est en vous. » »
 
 Pour les étudiants sérieux des Fascicules, ces commentaires doivent attirer l'attention sur leur relation, premièrement avec les forces spirituelles qui les habitent et, deuxièmement, vers le service affectueux de leurs semblables. Pour cette dernière tâche, la direction de l’Esprit de Vérité doit être recherchée :
 
-«_L'amour et le désintéressement doivent subir une interprétation réadaptative constante et vivante des relations conformément à la direction de l'Esprit de Vérité. L’amour doit ainsi saisir les concepts en constante évolution et en expansion du bien cosmique le plus élevé de l’individu aimé. Et puis l’amour continue à adopter cette même attitude envers tous les autres individus qui pourraient éventuellement être influencés par la relation croissante et vivante de l’amour d’un mortel dirigé par un esprit pour les autres citoyens de l’univers._” ([LU 180:5.10](/fr/The_Urantia_Book/180#p5_10))
+«_L'amour et le désintéressement doivent subir une interprétation réadaptative constante et vivante des relations conformément à la direction de l'Esprit de Vérité. L’amour doit ainsi saisir les concepts en constante évolution et en expansion du bien cosmique le plus élevé de l’individu aimé. Et puis l’amour continue à adopter cette même attitude envers tous les autres individus qui pourraient éventuellement être influencés par la relation croissante et vivante de l’amour d’un mortel dirigé par un esprit pour les autres citoyens de l’univers._” (<a id="a19_552"></a>[LU 180:5.10](/fr/The_Urantia_Book/180#p5_10))
 
-Pourquoi avons-nous besoin de la direction de l’Esprit de Vérité pour cette tâche de service ? On nous dit : « _Ne commettez pas l’erreur de compter acquérir la ferme conscience intellectuelle de l’Esprit de Vérité désormais répandu. L’esprit ne crée jamais une conscience de lui-même, mais seulement une conscience de Micaël, le Fils._” ([LU 194:2.4](/fr/The_Urantia_Book/194#p2_4))
+Pourquoi avons-nous besoin de la direction de l’Esprit de Vérité pour cette tâche de service ? On nous dit : « _Ne commettez pas l’erreur de compter acquérir la ferme conscience intellectuelle de l’Esprit de Vérité désormais répandu. L’esprit ne crée jamais une conscience de lui-même, mais seulement une conscience de Micaël, le Fils._” (<a id="a21_339"></a>[LU 194:2.4](/fr/The_Urantia_Book/194#p2_4))
 
 C’est à travers la vie révélatrice de Michel en tant que Jésus de Nazareth que nous obtenons une certaine compréhension du « bien cosmique le plus élevé » de ceux que nous sommes appelés à servir. Cependant, aucun être humain ne peut savoir ce qui constituerait le « bien cosmique le plus élevé » d’un autre être humain dans des circonstances particulières.
 
@@ -29,7 +29,7 @@ La vie « dans le royaume » est très différente de la vie ordinaire. Même si
 
 Lorsque cela se produit, nous devenons réellement tels que Jésus voudrait que nous soyons, ses disciples centrés sur l’esprit, servant « pendant que nous passons ».
 
-Cependant, nous avons tous besoin d’un « cadre de référence universel » dans lequel penser et raisonner. ([LU 115:1.1](/fr/The_Urantia_Book/115#p1_1)) Pour réussir en tant que foie du royaume, il est impératif que nous ajustions le cadre de notre univers à la perspective de notre future carrière dans l'univers.
+Cependant, nous avons tous besoin d’un « cadre de référence universel » dans lequel penser et raisonner. (<a id="a31_106"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1)) Pour réussir en tant que foie du royaume, il est impératif que nous ajustions le cadre de notre univers à la perspective de notre future carrière dans l'univers.
 
 Pratiquement rien de ce qui est normalement les acquis les plus précieux de notre existence matérielle ne nous accompagne dans la phase suivante de notre vie. La renommée, le succès, la fortune, l'adoration (ou l'envie) de nos pairs, nos possessions matérielles accumulées, rien de ce qui est matériel, ni rien qui soit entaché de cet égocentrisme dérivé de notre héritage animal, n'a aucune valeur spirituelle. Même leur souvenir ne survivra pas.
 
@@ -39,7 +39,7 @@ Notre entrée dans le « royaume » nécessite une réorientation totale de nos 
 
 Ce n’est qu’alors que la requête du Notre Père « que ton royaume vienne, que ta volonté soit faite » prenne un véritable sens. C'est de la nourriture pour la méditation.
 
-> il faut actuellement que tu marches par la foi et non par la vue. Ne doute pas que je sois capable d’achever l’œuvre que j’ai commencée ([LU 174:0.2](/fr/The_Urantia_Book/174#p0_2))
+> il faut actuellement que tu marches par la foi et non par la vue. Ne doute pas que je sois capable d’achever l’œuvre que j’ai commencée (<a id="a41_139"></a>[LU 174:0.2](/fr/The_Urantia_Book/174#p0_2))
 
 ## Liens externes
 

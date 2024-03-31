@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Merlyn Cox<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/A_Call_to_Revival">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un appel au renouveau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="pr-2">Réflexions sur la Fraternité des Hommes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En vieillissant, ma vision de l'histoire a changé – pas seulement ma compréhension, mais aussi ma perception de ce qui est vraiment ancien et de ce qui est récent. En tant que jeune enfant, j'avais tendance à considérer tout ce qui se prolongeait au-delà du présent comme une période lointaine ou lointaine dans le futur. Peu à peu, ma vision des choses s’est élargie, mais elle a eu tendance à s’imposer dans ma génération, ma vie, comme la mesure de tout ce qui est significatif. Ce n’est que ces dernières années qu’elle s’est développée bien au-delà de cela. Je compresse maintenant l’histoire dans des tranches plus grandes, où les événements d’il y a mille, voire dix mille ans, ne semblent pas si lointains.
@@ -25,7 +49,7 @@ Certains peuvent tomber dans la pensée millénariste, essayant de lier les év�
 
 Il existe une histoire apocryphe liée au _Le Livre d'Urantia_ que je pense à la fois intéressante et utile. Selon l'histoire, ceux qui étaient responsables du lancement du processus qui a conduit au _Livre d'Urantia_ ont d'abord adressé une pétition aux autorités supérieures pour qu'elles commencent ce projet vers la fin du XIIe siècle, estimant que le moment était venu pour une telle avancée dans la connaissance et la compréhension. Cela a été refusé. Le moment n’était pas le bon. Ce n’est qu’après 800 ans supplémentaires que la permission fut accordée. Rétrospectivement, nous pouvons voir combien de choses ont dû se produire, notamment la révolution scientifique et technologique, avant que nous soyons prêts à une telle révélation. On a dit aux personnes impliquées dans la réception des journaux que même à cette époque (années 1930-1950), c'était avant tout pour les générations à venir.
 
-Nous ne savons pas combien de générations viendront et partiront avant que le _Livre d'Urantia_ soit largement lu et reçu comme une révélation pour notre planète. Nous n’en avons pas besoin. En combinant notre envie de partager avec patience et sagesse, nous pouvons être assurés que même si « l’acte nous appartient, les conséquences [sont] celles de Dieu ». ([LU 117:5.5](/fr/The_Urantia_Book/117#p5_5))
+Nous ne savons pas combien de générations viendront et partiront avant que le _Livre d'Urantia_ soit largement lu et reçu comme une révélation pour notre planète. Nous n’en avons pas besoin. En combinant notre envie de partager avec patience et sagesse, nous pouvons être assurés que même si « l’acte nous appartient, les conséquences [sont] celles de Dieu ». (<a id="a51_361"></a>[LU 117:5.5](/fr/The_Urantia_Book/117#p5_5))
 
 > _Tout comme les premiers chrétiens étaient impatients de voir « la fin du monde » et tout s'accomplir de leur vivant, de même nous souhaitons voir des résultats à l'échelle mondiale à l'horizon humain immédiat. Nous avons besoin du point de vue de l’éternité dans lequel placer notre propre temps._
 
@@ -34,5 +58,30 @@ Je suis convaincu qu'un jour les gens regarderont avec tristesse et étonnement 
 Par-dessus tout, nous ne devrions jamais cesser de remercier parce que cette révélation est là maintenant, à nous de la connaître, de la célébrer et de la partager.
 
 
-> La véritable Église — la fraternité de Jésus — est invisible, spirituelle et caractérisée par l’*unité,* mais non nécessairement par l’*uniformité.* ... Cette fraternité est destinée à devenir un *organisme vivant,* contrastant avec une organisation sociale passée au rang d’institution. Les organisations sociales peuvent bien être utilisées par la fraternité, mais il ne faut pas qu’elles la supplantent. ([LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
+> La véritable Église — la fraternité de Jésus — est invisible, spirituelle et caractérisée par l’*unité,* mais non nécessairement par l’*uniformité.* ... Cette fraternité est destinée à devenir un *organisme vivant,* contrastant avec une organisation sociale passée au rang d’institution. Les organisations sociales peuvent bien être utilisées par la fraternité, mais il ne faut pas qu’elles la supplantent. (<a id="a60_410"></a>[LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/A_Call_to_Revival">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un appel au renouveau</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_M_Kelly/Thoughts_on_the_Brotherhood_of_Man">
+          <span class="pr-2">Réflexions sur la Fraternité des Hommes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

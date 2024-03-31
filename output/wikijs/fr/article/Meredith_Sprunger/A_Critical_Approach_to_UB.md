@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Parallels_in_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parallèles dans la révélation d'époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_Downs/Positive_Qualities">
+          <span class="pr-2">Qualités positives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La révélation a traditionnellement été associée à « la voix de Dieu », et cette autorité a eu une puissante influence dans l’établissement de ce qui est accepté comme vrai dans la société. La plupart des gens ont tendance à oublier le long processus expérientiel requis dans tout grand groupe social pour établir l’acceptation d’une source révélatrice. Toute prétention à une « nouvelle révélation » suscitera certainement un scepticisme généralisé et une forte opposition. La première chose qui est habituellement examinée et contestée est l’origine et la paternité de telles affirmations, puis le contenu de la nouvelle révélation.
@@ -28,5 +52,30 @@ Mon point de vue personnel, après quarante ans d’étude et d’évaluation, e
 4. Et enfin, une présentation très élargie de la vie et des enseignements de Jésus, solidement enracinée dans les réalités du Nouveau Testament.
 
 
-> « _Le monde a besoin de plus de religion de première main. Même le christianisme — la meilleure religion du vingtième siècle — n’est pas seulement une religion à propos de Jésus, mais il est largement une religion que les hommes expérimentent de seconde main. Ils prennent leur religion intégralement telle qu’elle leur est transmise par leurs instructeurs religieux reconnus. De quel réveil le monde ferait l’expérience si seulement il pouvait voir Jésus tel qu’il a réellement vécu sur terre et connaitre de première main ses enseignements donnant la vie ! Des mots décrivant de belles choses ne peuvent passionner autant que la vue de ces choses ; les mots d’un crédo ne peuvent pas non plus inspirer les âmes humaines comme l’expérience de connaitre la présence de Dieu._ » ([LU 195:9.8](/fr/The_Urantia_Book/195#p9_8))
+> « _Le monde a besoin de plus de religion de première main. Même le christianisme — la meilleure religion du vingtième siècle — n’est pas seulement une religion à propos de Jésus, mais il est largement une religion que les hommes expérimentent de seconde main. Ils prennent leur religion intégralement telle qu’elle leur est transmise par leurs instructeurs religieux reconnus. De quel réveil le monde ferait l’expérience si seulement il pouvait voir Jésus tel qu’il a réellement vécu sur terre et connaitre de première main ses enseignements donnant la vie ! Des mots décrivant de belles choses ne peuvent passionner autant que la vue de ces choses ; les mots d’un crédo ne peuvent pas non plus inspirer les âmes humaines comme l’expérience de connaitre la présence de Dieu._ » (<a id="a54_781"></a>[LU 195:9.8](/fr/The_Urantia_Book/195#p9_8))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Parallels_in_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Parallèles dans la révélation d'époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_Downs/Positive_Qualities">
+          <span class="pr-2">Qualités positives</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

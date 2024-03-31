@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Merlyn Cox<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Esperanza_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Espérance Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="pr-2">L'intégrité scientifique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Ô Seigneur, comme toutes tes œuvres sont multiples ! » dit le Psalmiste : « Tu les as tous créés avec sagesse. La terre est pleine de vos créatures. Là-bas est la mer, grande et large ; Il y a là des choses rampantes et innombrables, des êtres vivants, grands et petits. »
@@ -129,10 +153,35 @@ La nature a beaucoup à nous apprendre, et peut-être plus simplement et plus im
 
 Est-ce qu'on écoute ?
 
-> _Merlyn Cox est pasteur au sein de la Conférence du Nord de l'Indiana de l'Église Méthodiste Unie. Il est lecteur des Urantia Papers depuis 18 ans et a travaillé avec Meredith Sprunger pour lancer le _The Spiritual Fellowship Journal_ en 1991, et a servi pendant dix ans comme rédacteur associé. Il est actuellement président de l'équipe éducative de TSF._
+> _Merlyn Cox est pasteur au sein de la Conférence du Nord de l'Indiana de l'Église Méthodiste Unie. Il est lecteur des Urantia Papers depuis 18 ans et a travaillé avec Meredith Sprunger pour lancer le _Journal de la Fraternité Spirituelle_ en 1991, et a servi pendant dix ans comme rédacteur associé. Il est actuellement président de l'équipe éducative de TSF._
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Esperanza_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Espérance Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Denver_Pearson/The_Scientific_Integrity_of_UB">
+          <span class="pr-2">L'intégrité scientifique du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

@@ -23,7 +23,7 @@ Mais apprenez que même l’expression d’une bonne pensée peut devoir être m
 
 Cela conclut nos exemples de tentatives de remplir les édits de cette demande de la page 43 de produire une vision nouvelle et juste de la moralité. Le fondement d’une telle vision devrait sûrement être que nous aimons tous les hommes, quelle que soit leur apparence. Le secret pour y parvenir réside dans les mots :
 
-« _Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croitre en amitié et murir en amour._ » ([LU 100:4.4](/fr/The_Urantia_Book/100#p4_4))
+« _Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croitre en amitié et murir en amour._ » (<a id="a25_147"></a>[LU 100:4.4](/fr/The_Urantia_Book/100#p4_4))
 
 Il semble peu probable qu’un travail philosophique de style académique, aussi intense que la révélation d’Urantia, atteigne une popularité suffisante pour être efficace. Un roman sans connotation religieuse mais avec un personnage central qui fait exactement ce qui pourrait le faire.
 

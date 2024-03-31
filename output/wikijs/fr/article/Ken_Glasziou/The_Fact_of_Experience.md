@@ -21,7 +21,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > La prière fait assurément partie de l’expérience religieuse, mais les religions modernes ont mis à tort l’accent sur elle, au détriment de la communion d’adoration qui est plus essentielle. Les pouvoirs réflexifs du mental s’approfondissent et s’élargissent par l’adoration. La prière peut enrichir la vie, mais l’adoration illumine la destinée.
 > 
-> La religion révélée est l’élément unifiant de l’existence humaine. La révélation unifie l’histoire, coordonne la géologie, l’astronomie, la physique, la chimie, la biologie, la sociologie et la psychologie. L’expérience spirituelle est l’âme réelle du cosmos de l’homme. ([LU 102:4.1-6](/fr/The_Urantia_Book/102#p4_1))
+> La religion révélée est l’élément unifiant de l’existence humaine. La révélation unifie l’histoire, coordonne la géologie, l’astronomie, la physique, la chimie, la biologie, la sociologie et la psychologie. L’expérience spirituelle est l’âme réelle du cosmos de l’homme. (<a id="a23_274"></a>[LU 102:4.1-6](/fr/The_Urantia_Book/102#p4_1))
 
 > La révélation n'est validée que par l'expérience humaine.
 

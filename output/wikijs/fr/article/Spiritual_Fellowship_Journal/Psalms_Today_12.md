@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_There_is_Always_One_More_Move">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il y a toujours un mouvement de plus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Why_Christianity_by_John_Shelby_Spong">
+          <span class="pr-2">Livres importants : Pourquoi le christianisme doit changer ou mourir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le subconscient nous parle selon
@@ -66,3 +90,28 @@ destin!
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rev_Gregory_Young/Sermon_There_is_Always_One_More_Move">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il y a toujours un mouvement de plus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Why_Christianity_by_John_Shelby_Spong">
+          <span class="pr-2">Livres importants : Pourquoi le christianisme doit changer ou mourir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

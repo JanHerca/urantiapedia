@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume4_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Whatever_Happened_to_the_Soul">
+          <span class="pr-2">Qu'est-il arrivé à l'âme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 John B. Cobb, Jr., professeur de religion à la Claremont Graduate School, dans un article paru dans le numéro du 29 juin de _The Christian Century_ intitulé « Faith Seeking Understanding: The Renewal of Christian Thinking », affirme que la théologie ne joue plus un rôle important. rôle important dans la vie de l'Église et appelle à un renouveau de la pensée chrétienne. « La théologie, observe-t-il, a été reléguée aux mains des spécialistes et de plus en plus abandonnée par eux également ».
@@ -21,3 +45,28 @@ La base d’une théologie impérieuse et inspirante est une vision pertinente d
 
 Et il est ici sous la forme du _Le Livre d'Urantia_ ! L’expérience future sur notre planète découvrira ce nouveau paradigme spirituel de la réalité qui, avec le temps, transformera notre monde. Son élargissement des paramètres théologiques stupéfie l’imagination. Sa cosmologie spirituelle inspirante stimulera une fois de plus les masses humaines à s’absorber dans la quête spirituelle. Sa christologie est vaste et inclusive, sans susciter de rivalité interreligieuse, et pourtant elle est étonnamment « orthodoxe ». Le renouveau de la théologie attend sa découverte par l'Église. Mais pour chaque individu, cette découverte peut avoir lieu maintenant !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume4_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1994</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Whatever_Happened_to_the_Soul">
+          <span class="pr-2">Qu'est-il arrivé à l'âme ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

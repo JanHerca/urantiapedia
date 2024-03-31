@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vengeance de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg">
+          <span class="pr-2">Livres importants : Jésus – Une nouvelle vision de Marcus J. Borg</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Robert W. Funk, Roy W. Hoover et The Jesus Seminar, Macmillan, 1993, p. 553
@@ -37,5 +61,30 @@ Les raisons des décisions du boursier sont données dans le texte et des commen
 
 ---
 
-> En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. Il est futile de parler d’une renaissance du christianisme primitif ; il faut avancer en partant du point où l’on se trouve. Il faut que la culture moderne soit spirituellement baptisée d’une nouvelle révélation de la vie de Jésus et illuminée par une nouvelle compréhension de son évangile de salut éternel. ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. Il est futile de parler d’une renaissance du christianisme primitif ; il faut avancer en partant du point où l’on se trouve. Il faut que la culture moderne soit spirituellement baptisée d’une nouvelle révélation de la vie de Jésus et illuminée par une nouvelle compréhension de son évangile de salut éternel. (<a id="a63_603"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vengeance de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg">
+          <span class="pr-2">Livres importants : Jésus – Une nouvelle vision de Marcus J. Borg</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Merlyn Cox<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="pr-2">Mon expérience d'expansion mentale avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’une des idées que beaucoup de gens réfléchis trouvent comme une pierre d’achoppement lorsqu’ils commencent à lire le _Le Livre d’Urantia_ est la question de l’existence d’autres intelligences de l’univers. Non seulement le nombre et la nature de cette hiérarchie d’êtres mettent notre compréhension à rude épreuve, mais l’idée même semble à beaucoup plus qu’un peu improbable et ésotérique.
@@ -66,6 +90,31 @@ Je conclurais en demandant à nouveau : à la lumière de nos compréhensions re
 Je trouve la première tout à fait raisonnable et plausible ; Je trouve la seconde de plus en plus absurde. L'apparition du _Livre d'Urantia_ semble programmée pour traiter de la force inévitable de notre connaissance croissante et de la nécessité d'une vision plus grande du plan de Dieu pour toute la Création.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/More_About_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En savoir plus sur Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="pr-2">Mon expérience d'expansion mentale avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

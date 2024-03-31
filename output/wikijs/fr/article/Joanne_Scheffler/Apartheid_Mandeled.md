@@ -56,14 +56,14 @@ Merci, Nelson Mandela, de nous avoir montré, une fois de plus, ce qui peut êtr
 
 Remarque : Pour les similitudes avec Jésus, voir :
 
-[^1]: [LU 132:6.2](/fr/The_Urantia_Book/132#p6_2)
+[^1]: <a id="a58_6"></a>[LU 132:6.2](/fr/The_Urantia_Book/132#p6_2)
 
-[^2]: [LU 100:7.2](/fr/The_Urantia_Book/100#p7_2)
+[^2]: <a id="a60_6"></a>[LU 100:7.2](/fr/The_Urantia_Book/100#p7_2)
 
-[^3]: [LU 170:2.23](/fr/The_Urantia_Book/170#p2_23)
+[^3]: <a id="a62_6"></a>[LU 170:2.23](/fr/The_Urantia_Book/170#p2_23)
 
-[^4]: [LU 138:8.9](/fr/The_Urantia_Book/138#p8_9)
+[^4]: <a id="a64_6"></a>[LU 138:8.9](/fr/The_Urantia_Book/138#p8_9)
 
-[^5]: [LU 141:3.4](/fr/The_Urantia_Book/141#p3_4)
+[^5]: <a id="a66_6"></a>[LU 141:3.4](/fr/The_Urantia_Book/141#p3_4)
 
 

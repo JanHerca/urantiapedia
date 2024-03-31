@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Isabelle_Masel/Church_Members_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les membres de l'Église et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_E_Hansen/The_Mathematics_of_Love">
+          <span class="pr-2">Les mathématiques de l'amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Article présenté à la réunion de l'American Academy of Religion à Anaheim le 25/11/85._
@@ -59,7 +83,7 @@ Même s'il est solidement enraciné dans les réalités ontologiques et évoluti
 
 Les auteurs du _Livre d'Urantia_ soulignent l'importance des activités de réversion, du jeu, de l'humour, de la relaxation et de l'expression artistique créative, qui sont des cadres de référence communs avec les théologies contemporaines du jeu et de l'histoire. La qualité narrative de la vie et des enseignements de Jésus et les récits intéressants des héros du passé trouvés dans le Livre d'Urantia sont parmi les histoires les plus inspirantes de la littérature religieuse.
 
-Certains théologiens contemporains, cependant, seront perturbés par _Le Livre d'Urantia_ parce qu'il dépasse les dimensions horizontales de la réalité et l'analyse linguistique du sens _The Spiritual Fellowship Journal_. Même s’il affirme leur souci des aspects horizontaux de la vie, il réaffirme et élargit et améliore considérablement la conception métaphysique classique de la réalité. Il intègre une conception hiérarchique et transcendante de la Divinité et de la Réalité avec une immanence indigène et créatrice dans une image holistique nouvelle et inclusive. La dynamique de ce drame cosmique se rapproche de la visualisation de Teilhard de Chardin de la cosmogenèse et de la christogenèse se rencontrant en Dieu, où les deux trajectoires du temps et de l'éternité se fondent en une seule englobant l'Unité-Réalité.
+Certains théologiens contemporains, cependant, seront perturbés par _Le Livre d'Urantia_ parce qu'il dépasse les dimensions horizontales de la réalité et l'analyse linguistique du sens _Journal de la Fraternité Spirituelle_. Même s’il affirme leur souci des aspects horizontaux de la vie, il réaffirme et élargit et améliore considérablement la conception métaphysique classique de la réalité. Il intègre une conception hiérarchique et transcendante de la Divinité et de la Réalité avec une immanence indigène et créatrice dans une image holistique nouvelle et inclusive. La dynamique de ce drame cosmique se rapproche de la visualisation de Teilhard de Chardin de la cosmogenèse et de la christogenèse se rencontrant en Dieu, où les deux trajectoires du temps et de l'éternité se fondent en une seule englobant l'Unité-Réalité.
 
 > _Je réfléchis à cette question depuis plus de trente ans et j'arrive systématiquement à la conclusion que _Le Livre d'Urantia_ a le plus grand potentiel pour stimuler une nouvelle vitalité dans les études religieuses de n'importe quel livre ou événement religieux des temps récents._
 
@@ -97,3 +121,28 @@ _Le Livre d'Urantia_ Description de l'Être Suprême comparée au concept de Whi
 
 Ce ne sont là que quelques-uns parmi des dizaines de sujets inspirés par le matériel stimulant et innovant trouvé dans _Le Livre d'Urantia_. Lorsque les érudits en religion découvriront enfin la riche mine de matériel religieux contenu dans le Livre d'Urantia, les paramètres créatifs de la recherche seront considérablement élargis. Kenneth Boulding dans _The Meaning of the Twentieth Century_, Alvin Toffler dans _The Third Wave_, John Naisbitt dans _Megatrends_, Fritjof Capra dans _The Turning Point_, et de nombreuses autres voix prophétiques ont souligné que nous entrons dans un changement de transition majeur dans l'histoire de notre planète. Nous avons désespérément besoin de fondations spirituelles suffisamment vastes, suffisamment solides et dotées du potentiel visionnaire pour donner stabilité et orientation à la nouvelle ère qui peine à naître. Je crois que _Le Livre d'Urantia_ a le plus grand potentiel pour servir à ce titre parmi toutes les ressources philosophico-religieuses actuellement disponibles pour l'humanité. $\square$
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Isabelle_Masel/Church_Members_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les membres de l'Église et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_E_Hansen/The_Mathematics_of_Love">
+          <span class="pr-2">Les mathématiques de l'amour</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

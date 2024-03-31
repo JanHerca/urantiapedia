@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Byron Belitsos<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Herrick/The_Adventure_Has_Begun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'aventure a commencé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/A_Urantia_Church">
+          <span class="pr-2">Une Église Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lentement mais sûrement, le _Livre d'Urantia_ est de plus en plus largement diffusé au sein de la chrétienté. Alors que nous observons son accueil par les protestants libéraux et quelques catholiques, une question fascinante se pose concernant son impact futur sur les chrétiens orthodoxes orientaux.
@@ -33,7 +57,7 @@ Les érudits et les journalistes accordent également davantage d’attention à
 
 Lorsque la plupart des lecteurs-croyants du _Livre d'Urantia_ pensent à dialoguer avec les chrétiens, ils se tournent souvent vers les églises libérales ou protestantes. À première vue, cela semble tout à fait raisonnable, car il faut certainement un environnement exempt de dogmatisme pour pouvoir entendre parler d’une « nouvelle révélation ».
 
-Certains pourraient également affirmer que le Livre lui-même fait partie du courant de la pensée libérale protestante, ou du moins est en cohérence avec lui. Par exemple, il est généralement « fidéiste » tout comme la tradition protestante. Il attaque l'ecclésiastique et critique le cérémonialisme et le sacramentalisme, même s'il institue une nouvelle forme d'Eucharistie dans le « sacrement du souvenir ». ([LU 179:5.5](/fr/The_Urantia_Book/179#p5_5)) Et il semble faire l'éloge de la Réforme protestante en y faisant référence dans plusieurs passages. comme une « réhabilitation » et un « rajeunissement » et même une « résurrection » de l’Église. (Voir [Fascicule 195, « Après la Pentecôte ».](/fr/The_Urantia_Book/195))
+Certains pourraient également affirmer que le Livre lui-même fait partie du courant de la pensée libérale protestante, ou du moins est en cohérence avec lui. Par exemple, il est généralement « fidéiste » tout comme la tradition protestante. Il attaque l'ecclésiastique et critique le cérémonialisme et le sacramentalisme, même s'il institue une nouvelle forme d'Eucharistie dans le « sacrement du souvenir ». (<a id="a59_410"></a>[LU 179:5.5](/fr/The_Urantia_Book/179#p5_5)) Et il semble faire l'éloge de la Réforme protestante en y faisant référence dans plusieurs passages. comme une « réhabilitation » et un « rajeunissement » et même une « résurrection » de l’Église. (Voir [Fascicule 195, « Après la Pentecôte ».](/fr/The_Urantia_Book/195))
 
 Pourtant, de nombreux éléments importants dans les enseignements du Livre se prêtent à une interface avec l’Orthodoxie. La théologie orthodoxe orientale possède aujourd’hui des atouts là où la pensée protestante libérale présente des faiblesses. Par exemple, on constate une tendance croissante dans les séminaires à remettre en question la divinité de Jésus, à déconstruire la transcendance du divin, à abandonner la théologie trinitaire. En revanche, l’adhésion fidèle des orthodoxes aux traditions sacrées du christianisme historique peut ouvrir les portes au dialogue, car la révélation d’Urantia affirme fortement la foi chrétienne historique en l’Incarnation et la Trinité.
 
@@ -47,7 +71,7 @@ Un point de départ pour le dialogue serait la doctrine orthodoxe orientale. Cel
 
 > _Un point de départ pour le dialogue serait la doctrine orthodoxe orientale. Cela peut étonner de nombreux croyants orthodoxes de découvrir que les doctrines des « Pères » de l’Église (ou « Patristique ») qui ont nécessité des siècles pour évoluer sont affirmées comme étant généralement exactes par le Livre d’Urantia.
 
-Il existe peut-être trois éléments clés de la croyance orthodoxe : la théologie de la Trinité, la doctrine de l’Incarnation et la vénération adoratrice des icônes. Les deux premiers trouvent un écho fort et sont amplifiés dans les enseignements du _Livre d'Urantia_ ; et je trouve personnellement que l’usage dévotionnel des icônes qui imprègne les églises orientales fournit un « symbolisme satisfaisant » qui peut « symboliser ce qui est permanent en présence d’un changement incessant ». (Voir « La nature du culte », [LU 87:7](/fr/The_Urantia_Book/87#p7))
+Il existe peut-être trois éléments clés de la croyance orthodoxe : la théologie de la Trinité, la doctrine de l’Incarnation et la vénération adoratrice des icônes. Les deux premiers trouvent un écho fort et sont amplifiés dans les enseignements du _Livre d'Urantia_ ; et je trouve personnellement que l’usage dévotionnel des icônes qui imprègne les églises orientales fournit un « symbolisme satisfaisant » qui peut « symboliser ce qui est permanent en présence d’un changement incessant ». (Voir « La nature du culte », <a id="a73_521"></a>[LU 87:7](/fr/The_Urantia_Book/87#p7))
 
 Les croyances fondamentales de l'orthodoxie ont été énoncées dans les sept conciles œcuméniques des premiers siècles du christianisme, qui se sont réunis entre 325 et 787 après J.-C. [^4]. La grande époque patristique de la théologie mystique spéculative est révolue depuis longtemps, mais la « Sainte Tradition » recèle des images, des pratiques et des doctrines qui peuvent facilement se prêter à un développement créatif. Par exemple, un grand renouveau de l'orthodoxie russe au 19e siècle, induit (au moins en partie) par la traduction de _La Philocalie_ en russe, a rapidement atteint de nouveaux sommets de théologie innovante (telle que Soloviev, Boulgakov et Berdayev) et de religion. l'art (comme Dostoïevski). La théologie créatrice de cette période en Russie anticipait même des développements ultérieurs en Occident tels que la théologie du processus (qui a une forte affinité avec le concept de l'Être suprême du Livre d'Urantia) et la réintégration des images féminines de la divinité dans l'école de Soloviev. sophiologie » (qui fait écho à des thèmes importants dans _Le Livre d'Urantia_). Il est très possible qu’une renaissance mondiale de la vie et de la pensée orthodoxe aurait pu s’ensuivre au XXe siècle si cette renaissance n’avait pas été étouffée par Lénine et Staline.
 
@@ -55,13 +79,13 @@ Les croyances fondamentales de l'orthodoxie ont été énoncées dans les sept c
 
 Mais revenons à la période originelle de la théologie orthodoxe créatrice. Il semble que ce soit un miracle que les théologiens de l’Église primitive aient pu établir philosophiquement la vérité selon laquelle Jésus était « homoousius » (un en essence) avec le Père, tout en étant pleinement humain. On nous dit dans _Le Livre d'Urantia_ que sans les vaillants efforts de l'un de ces « Pères » grecs de l'Église, cette grande et salvatrice vérité aurait été perdue :
 
-> Le christianisme a une dette, une très grande dette envers les Grecs. Ce fut un Grec d’Égypte qui se dressa si courageusement à Nicée et mit l’assemblée au défi avec tant d’intrépidité que le concile n’osa pas obscurcir le concept de la nature de Jésus au point de risquer de faire perdre au monde la vérité concernant son effusion. Ce Grec s’appelait Athanase. Sans l’éloquence et la logique de ce croyant, les opinions persuasives d’Arius auraient triomphé. ([LU 195:0.18](/fr/The_Urantia_Book/195#p0_18))
+> Le christianisme a une dette, une très grande dette envers les Grecs. Ce fut un Grec d’Égypte qui se dressa si courageusement à Nicée et mit l’assemblée au défi avec tant d’intrépidité que le concile n’osa pas obscurcir le concept de la nature de Jésus au point de risquer de faire perdre au monde la vérité concernant son effusion. Ce Grec s’appelait Athanase. Sans l’éloquence et la logique de ce croyant, les opinions persuasives d’Arius auraient triomphé. (<a id="a81_463"></a>[LU 195:0.18](/fr/The_Urantia_Book/195#p0_18))
 
 Les archives historiques montrent qu'Athanase a conduit le Concile de Nicée (325) à répudier l'arianisme (la croyance que Dieu le Fils est fondamentalement inférieur à Dieu le Père) et à adopter l'idée que Jésus en tant que Fils était « la lumière issue de la lumière, le vrai Dieu de vrai Dieu », c’est-à-dire ontologiquement égal au Père.
 
 Étonnamment, les premiers chrétiens sont arrivés à une doctrine de la Trinité qui correspond également dans des points clés à celle du _Livre d'Urantia_. Encore une fois, cela n’a pas été réalisé par révélation directe mais par le même chemin détourné et évolutif que le dogme de l’Incarnation. Plusieurs siècles de débat doctrinal furent nécessaires parce que, selon le _Livre d'Urantia_, les enseignements de Jésus à ses Apôtres sur la vraie nature de la Trinité furent perdus.
 
-> Le concept chrétien de la Trinité, qui commença à être admis vers la fin du premier siècle après le Christ, comprenait le Père Universel, le Fils Créateur de Nébadon et la Divine Ministre de Salvington — Esprit-Mère de l’univers local et compagne créative du Fils Créateur. ([LU 104:1.12](/fr/The_Urantia_Book/104#p1_12))
+> Le concept chrétien de la Trinité, qui commença à être admis vers la fin du premier siècle après le Christ, comprenait le Père Universel, le Fils Créateur de Nébadon et la Divine Ministre de Salvington — Esprit-Mère de l’univers local et compagne créative du Fils Créateur. (<a id="a87_277"></a>[LU 104:1.12](/fr/The_Urantia_Book/104#p1_12))
 
 Bien entendu, tous ces concepts furent finalement codifiés dans le Credo de Nicée en 325.
 
@@ -73,7 +97,7 @@ En passant, il est regrettable que le concept de Sagesse ou de « Sophia » des 
 
 Quoi qu’il en soit, notre point clé ici est que le trinitarisme des Conciles Œcuméniques était, selon le _Livre d’Urantia_, « spirituellement » correct :
 
-> Bien que le concept chrétien de la Trinité fût erroné en fait, il était pratiquement vrai sous le rapport des relations spirituelles. ([LU 104:1.13](/fr/The_Urantia_Book/104#p1_13))
+> Bien que le concept chrétien de la Trinité fût erroné en fait, il était pratiquement vrai sous le rapport des relations spirituelles. (<a id="a99_137"></a>[LU 104:1.13](/fr/The_Urantia_Book/104#p1_13))
 
 La conception élevée de la Trinité des Pères de l'Église est restée intacte jusqu'à nos jours dans l'Église orientale, notamment dans son sens spirituel. Nulle part sur terre ce concept « pratiquement vrai » de la Trinité n’est vénéré, adoré, médité, symbolisé, perçu, célébré, chanté et chanté avec autant d’énergie et de foi que dans les églises orthodoxes du monde entier. « Gloire au Père, au Fils et au Saint-Esprit ! » » est un refrain constant dans la liturgie orthodoxe de Jean Chrysostome, la liturgie standard dans tout le monde orthodoxe.
 
@@ -89,17 +113,17 @@ La position orientale découle des enseignements très différents de saint Maxi
 
 > Un exemple du contraste est la formule de Maximus : « Notre salut dépend en fin de compte de notre propre volonté. » La dichotomie représentée par l'antithèse entre le pélagianisme [la doctrine latine rejetée du salut par la confiance dans la volonté humaine] et l'augustinisme ne faisait pas partie de Pensa Maximus. Au contraire, sa doctrine du salut repose sur l’idée de participation et de communion qui n’exclut ni la grâce ni la liberté, établies une fois pour toutes dans le Verbe incarné et ses « deux volontés » [^6].
 
-Ce qui est important pour nous ici, c'est que la position de saint Maxime sur le salut est remarquablement proche de celle de Jésus dans _Le Livre d'Urantia_. Jésus enseigne que le salut est un don gratuit de Dieu qui est reçu gratuitement. Mais notre libre arbitre n’est pas « déchu » ou « paralysé » selon la vision augustinienne ; la volonté humaine, dit Jésus, est un facteur essentiel dans le choix de recevoir une telle grâce : « Je déclare que le salut est d’abord une question de votre choix personnel. » ([LU 166:3.3](/fr/The_Urantia_Book/166#p3_3)) Ailleurs, il dit : « Les transformations de la grâce s'opèrent en réponse à la foi vivante de ceux qui en sont les bénéficiaires. » ([LU 150:9.2](/fr/The_Urantia_Book/150#p9_2)) De même, saint Maxime écrit :
+Ce qui est important pour nous ici, c'est que la position de saint Maxime sur le salut est remarquablement proche de celle de Jésus dans _Le Livre d'Urantia_. Jésus enseigne que le salut est un don gratuit de Dieu qui est reçu gratuitement. Mais notre libre arbitre n’est pas « déchu » ou « paralysé » selon la vision augustinienne ; la volonté humaine, dit Jésus, est un facteur essentiel dans le choix de recevoir une telle grâce : « Je déclare que le salut est d’abord une question de votre choix personnel. » (<a id="a115_514"></a>[LU 166:3.3](/fr/The_Urantia_Book/166#p3_3)) Ailleurs, il dit : « Les transformations de la grâce s'opèrent en réponse à la foi vivante de ceux qui en sont les bénéficiaires. » (<a id="a115_692"></a>[LU 150:9.2](/fr/The_Urantia_Book/150#p9_2)) De même, saint Maxime écrit :
 
 > L'Esprit n'engendre pas une volonté qui ne veut pas, mais il transforme en déification une volonté qui a le désir [de salut]. [^7]
 
 Selon Pelikan, l'héritage continu de Maximus en Orient sur le problème du salut était tel que «... l'antithèse entre la grâce divine et la liberté humaine, qui a tenace la théologie occidentale pendant de nombreux siècles, ne présentait pas de problème sous cette forme pour Pensée chrétienne orientale. »[^8]
 
-Il ne faut donc pas s’étonner que l’Église orientale rejette comme simplistes et erronées les implications juridiques de la doctrine de l’expiation à laquelle adhère l’Occident. Nous savons, bien sûr, que le Livre d'Urantia s'efforce de réfuter la doctrine de l'expiation, la qualifiant d'« idée barbare ». ([LU 4:5.4](/fr/The_Urantia_Book/4#p5_4)) De même, les premiers Pères _à l'exception d'Augustin_ n'ont pas insisté sur le point de vue paulinien selon lequel la « mort de Jésus était une « rançon ».
+Il ne faut donc pas s’étonner que l’Église orientale rejette comme simplistes et erronées les implications juridiques de la doctrine de l’expiation à laquelle adhère l’Occident. Nous savons, bien sûr, que le Livre d'Urantia s'efforce de réfuter la doctrine de l'expiation, la qualifiant d'« idée barbare ». (<a id="a121_308"></a>[LU 4:5.4](/fr/The_Urantia_Book/4#p5_4)) De même, les premiers Pères _à l'exception d'Augustin_ n'ont pas insisté sur le point de vue paulinien selon lequel la « mort de Jésus était une « rançon ».
 
 > _...il n'est pas surprenant que l'Église orientale rejette comme simplistes et erronées les implications juridiques de la doctrine de l'expiation à laquelle adhère l'Occident._
 
-Comme nous le verrons dans la section suivante, l'Église d'Orient voit le salut, tout comme le Livre d'Urantia, comme un processus continu de « progrès — de croissance dans la grâce ». (Voir [LU 150:5.2](/fr/The_Urantia_Book/150#p5_2)) Certes, les deux enseignements considéreraient comme une erreur tragique la formule évangélique protestante simpliste selon laquelle le salut dépend de la « naissance de nouveau » en vertu de la croyance que « Jésus est mort pour nos péchés ».
+Comme nous le verrons dans la section suivante, l'Église d'Orient voit le salut, tout comme le Livre d'Urantia, comme un processus continu de « progrès — de croissance dans la grâce ». (Voir <a id="a125_191"></a>[LU 150:5.2](/fr/The_Urantia_Book/150#p5_2)) Certes, les deux enseignements considéreraient comme une erreur tragique la formule évangélique protestante simpliste selon laquelle le salut dépend de la « naissance de nouveau » en vertu de la croyance que « Jésus est mort pour nos péchés ».
 
 ## « Théosis » dans l'Orthodoxie et _Le Livre d'Urantia_
 
@@ -109,7 +133,7 @@ Dans les années 60 et 70, la Croisade Campus pour le Christ a conduit des milli
 
 Le livre de Schaeffer est une polémique soutenue contre le rétrécissement de l'horizon théologique que représente le protestantisme moderne par rapport à l'orthodoxie.
 
-Le théologien russe moderne Georges Florovsky écrit : « Le but et le but ultimes de la vie humaine ont été définis dans la tradition patristique comme la théosis, la divinisation. » [^10] De même, le Jésus du _Livre d'Urantia_ a également exhorté les croyants à oser ressembler à Dieu, à aimer d'un amour _paternel_. Tout comme la doctrine orthodoxe centrale de la « déification » progressive, Jésus a enseigné à ses disciples à s'engager dans une « … progression glorieuse, pour devenir parfait, tout comme votre Père céleste est parfait ». ([LU 142:7.13](/fr/The_Urantia_Book/142#p7_13))
+Le théologien russe moderne Georges Florovsky écrit : « Le but et le but ultimes de la vie humaine ont été définis dans la tradition patristique comme la théosis, la divinisation. » [^10] De même, le Jésus du _Livre d'Urantia_ a également exhorté les croyants à oser ressembler à Dieu, à aimer d'un amour _paternel_. Tout comme la doctrine orthodoxe centrale de la « déification » progressive, Jésus a enseigné à ses disciples à s'engager dans une « … progression glorieuse, pour devenir parfait, tout comme votre Père céleste est parfait ». (<a id="a135_543"></a>[LU 142:7.13](/fr/The_Urantia_Book/142#p7_13))
 
 Comme les autres Pères de l’Église, Maxime considérait la pratique de la prière incessante (que nous examinerons bientôt) comme essentielle à la déification. Notamment, son enseignement sur la théose a également été incorporé dans la christologie qu'il a défendue avec succès au sixième concile œcuménique en 681. [^11]
 
@@ -129,7 +153,7 @@ John Meyendorff explique le véritable but de la prière à l'hésychaste :
 
 Il me semble que la pratique hésychastique de la conscience intérieure de la présence de Dieu fait fortement écho à Jésus dans son Deuxième Discours sur la Religion dans _Le Livre d'Urantia_ :
 
-> Beaucoup de vos frères acceptent mentalement la théorie de Dieu tout en ne parvenant pas spirituellement à réaliser sa présence. ... Il est moins important pour vous de connaitre le fait de l’existence de Dieu que d’acquérir une aptitude croissante à sentir la présence de Dieu. ([LU 155:6.12](/fr/The_Urantia_Book/155#p6_12))
+> Beaucoup de vos frères acceptent mentalement la théorie de Dieu tout en ne parvenant pas spirituellement à réaliser sa présence. ... Il est moins important pour vous de connaitre le fait de l’existence de Dieu que d’acquérir une aptitude croissante à sentir la présence de Dieu. (<a id="a155_282"></a>[LU 155:6.12](/fr/The_Urantia_Book/155#p6_12))
 
 L’hésychasme est directement issu de la tradition du « désert » des premiers anachorètes chrétiens du quatrième siècle en Égypte et en Syrie. La spiritualité du désert de ces innovateurs est considérée par la plupart des historiens comme la source historique du mysticisme expérientiel chrétien, tant en Occident qu’en Orient. Les mystiques occidentaux, de Meister Eckhart à Thomas Merton, se sont profondément inspirés de cette source.
 
@@ -149,7 +173,7 @@ Vlachos cite John Climacus dans son ouvrage classique _L'Échelle de l'Ascension
 
 S'il est vrai que de telles pratiques conduisent à une conscience de la présence de Dieu, comment Jésus, tel que décrit dans le Livre d'Urantia, considérerait-il l'hésychasme ?
 
-Le Livre d'Urantia révèle que Jésus a utilisé diverses techniques de méditation dans sa pratique de la présence de Dieu. Le philosophe grec alexandrin Rodan dépeint Jésus comme un homme entièrement dévoué à une « habitude » ou à une « technique » qu'il « pratique si systématiquement... l'isolement de la méditation d'adoration ». ([LU 160:1.10](/fr/The_Urantia_Book/160#p1_10))
+Le Livre d'Urantia révèle que Jésus a utilisé diverses techniques de méditation dans sa pratique de la présence de Dieu. Le philosophe grec alexandrin Rodan dépeint Jésus comme un homme entièrement dévoué à une « habitude » ou à une « technique » qu'il « pratique si systématiquement... l'isolement de la méditation d'adoration ». (<a id="a175_332"></a>[LU 160:1.10](/fr/The_Urantia_Book/160#p1_10))
 
 Plus loin dans le passage, nous voyons que cela implique peut-être une discipline physique et mentale, et cela implique certainement une forme de calme :
 
@@ -159,19 +183,19 @@ Un peu comme les hésychastes, nous pouvons voir dans cette citation l’accent 
 
 Rappelez-vous également que Rodan décrit la relaxation ou le calme comme une caractéristique essentielle de la communion adoratrice :
 
-> Du point de vue humain, il s’agit de conjuguer la méditation et la détente. La méditation établit le contact du mental avec l’esprit ; la détente détermine la capacité de la réceptivité spirituelle. Cette substitution de la force à la faiblesse, du courage à la peur, de la volonté de Dieu au mental du moi, constitue l’adoration. Du moins, telle est la façon dont le philosophe la considère. ([LU 160:3.1](/fr/The_Urantia_Book/160#p3_1))
+> Du point de vue humain, il s’agit de conjuguer la méditation et la détente. La méditation établit le contact du mental avec l’esprit ; la détente détermine la capacité de la réceptivité spirituelle. Cette substitution de la force à la faiblesse, du courage à la peur, de la volonté de Dieu au mental du moi, constitue l’adoration. Du moins, telle est la façon dont le philosophe la considère. (<a id="a185_396"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1))
 
-Nous lisons ailleurs dans le Livre que l’adoration est « une attention sans effort, un repos véritable et idéal de l’âme, une forme d’exercice spirituel réparateur ». ([LU 143:7.7](/fr/The_Urantia_Book/143#p7_7))
+Nous lisons ailleurs dans le Livre que l’adoration est « une attention sans effort, un repos véritable et idéal de l’âme, une forme d’exercice spirituel réparateur ». (<a id="a187_168"></a>[LU 143:7.7](/fr/The_Urantia_Book/143#p7_7))
 
 Ainsi, il semble y avoir de nombreux éléments d'enseignement dans le _Livre d'Urantia_ qui fournissent un pont vers la spiritualité hésychastique. Mais beaucoup plus de recherches sont nécessaires dans ce domaine. Il existe d'importantes similitudes théologiques entre l'Orthodoxie et le _Livre d'Urantia_ ; il n'est pas surprenant qu'ils enseignent des techniques comparables pour pratiquer la présence de Dieu.
 
-L'hésychasme est traité plus en profondeur dans ma chronique qui apparaît plus loin dans ce numéro de _The Spiritual Fellowship Journal_. Comme dernier point, il est important de noter que les hésychastes mettent l'accent sur (1) la repentance et (2) l'observance des commandements, comme éléments concomitants nécessaires à la pratique hésychastique du calme.
+L'hésychasme est traité plus en profondeur dans ma chronique qui apparaît plus loin dans ce numéro de _Journal de la Fraternité Spirituelle_. Comme dernier point, il est important de noter que les hésychastes mettent l'accent sur (1) la repentance et (2) l'observance des commandements, comme éléments concomitants nécessaires à la pratique hésychastique du calme.
 
 ## La synthèse orthodoxe du mysticisme et de la théologie
 
 Un examen plus attentif de la théologie mystique orthodoxe aidera à souligner ses dissemblances avec la théologie occidentale et ce que je crois être une _affinité_ théologique correspondante avec l'esprit du _Livre d'Urantia_.
 
-_Le Livre d'Urantia_ souligne fréquemment que la théologie doit être basée sur l'expérience. Il définit la théologie comme « ... l'étude des actions et des réactions de l'esprit humain ... La théologie est toujours l'étude de votre religion ; l’étude de la religion d’autrui est de la psychologie. » ([LU 103:6.1](/fr/The_Urantia_Book/103#p6_1))
+_Le Livre d'Urantia_ souligne fréquemment que la théologie doit être basée sur l'expérience. Il définit la théologie comme « ... l'étude des actions et des réactions de l'esprit humain ... La théologie est toujours l'étude de votre religion ; l’étude de la religion d’autrui est de la psychologie. » (<a id="a197_301"></a>[LU 103:6.1](/fr/The_Urantia_Book/103#p6_1))
 
 > Le Livre d'Urantia souligne fréquemment que la théologie doit être fondée sur l'expérience. Il définit la théologie comme « ... l'étude des actions et des réactions de l'esprit humain ... La théologie est toujours l'étude de votre religion ; l’étude de la religion d’autrui est de la psychologie. (LU 103:6.1)_
 
@@ -185,7 +209,7 @@ Il incombait à Grégoire Palamas, un brillant abbé de la « Sainte Montagne »
 
 Le résultat de ses travaux fut la synthèse doctrinale ultime du mysticisme hésychastique et de la théologie patristique. Palamas a montré comment les notions les plus sublimes de l'inconnaissabilité de Dieu _dans son essence_ (c'est-à-dire l'apophatisme) étaient pourtant cohérentes avec la doctrine de la théose et le mysticisme christique des hésychastes. Il a distingué l'essence inconnaissable de Dieu des « énergies » connaissables de Dieu telles qu'elles se manifestent dans ses révélations et telles qu'expérimentées par les saints hésychastiques ; pourtant il a prévu l'unité paradoxale de l'essence et des énergies de Dieu.
 
-Ceci est un résumé simpliste d’un grand penseur. Il suffit de dire que Palamas a sauvé le christianisme en Orient de ce qui est devenu son sort en Occident : _la séparation de la théologie et de l'expérience religieuse_. Cela a eu comme corollaire la séparation de la philosophie de la théologie, et plus tard de la science de la religion, qui est désormais une caractéristique de la pensée occidentale. L’éclatement de la synthèse médiévale occidentale a commencé à la Renaissance et s’est achevé au siècle des Lumières ; en fin de compte, cela a conduit à la sécularisation complète de l’esprit occidental des temps modernes. Même si nous bénéficions tous sans aucun doute des fruits de la science et de la philosophie libérale issus de la laïcité, le monde a en effet payé un lourd tribut à la « mort de Dieu » qui en était la conséquence inévitable. Ainsi, écrivant dans les années 1930, les auteurs du Livre d'Urantia avertissaient : « Le laïcisme du vingtième siècle tend à affirmer que l’homme n’a pas besoin de Dieu. Mais attention ! Cette philosophie athée de la société humaine ne conduira qu’à des troubles, à l’animosité, au malheur, à la guerre et à des désastres à l’échelle mondiale. »([LU 195:8.5](/fr/The_Urantia_Book/195#p8_5))
+Ceci est un résumé simpliste d’un grand penseur. Il suffit de dire que Palamas a sauvé le christianisme en Orient de ce qui est devenu son sort en Occident : _la séparation de la théologie et de l'expérience religieuse_. Cela a eu comme corollaire la séparation de la philosophie de la théologie, et plus tard de la science de la religion, qui est désormais une caractéristique de la pensée occidentale. L’éclatement de la synthèse médiévale occidentale a commencé à la Renaissance et s’est achevé au siècle des Lumières ; en fin de compte, cela a conduit à la sécularisation complète de l’esprit occidental des temps modernes. Même si nous bénéficions tous sans aucun doute des fruits de la science et de la philosophie libérale issus de la laïcité, le monde a en effet payé un lourd tribut à la « mort de Dieu » qui en était la conséquence inévitable. Ainsi, écrivant dans les années 1930, les auteurs du Livre d'Urantia avertissaient : « Le laïcisme du vingtième siècle tend à affirmer que l’homme n’a pas besoin de Dieu. Mais attention ! Cette philosophie athée de la société humaine ne conduira qu’à des troubles, à l’animosité, au malheur, à la guerre et à des désastres à l’échelle mondiale. »(<a id="a211_1201"></a>[LU 195:8.5](/fr/The_Urantia_Book/195#p8_5))
 
 > _L'éclatement de la synthèse médiévale occidentale a commencé à la Renaissance et s'est achevé au siècle des Lumières ; en fin de compte, cela a conduit à la sécularisation complète de l’esprit occidental des temps modernes. Même si nous bénéficions tous sans aucun doute des fruits de la science et de la philosophie libérale issus de la laïcité, le monde a en effet payé un lourd tribut à la « mort de Dieu » qui en était l’inévitable sous-produit._
 
@@ -197,7 +221,7 @@ Sans la synthèse palamite et son adoption ultérieure au Concile de 1351, il es
 
 Je voudrais terminer en changeant de sujet et en soulignant la contribution que pourrait apporter l’Église orientale à la réunification du christianisme. _Le Livre d'Urantia_ fustige le christianisme occidental pour sa désunion :
 
-> Le christianisme est sérieusement confronté à la condamnation incorporée dans un de ses propres slogans : « Une maison divisée contre elle-même ne peut subsister. » Le monde non chrétien n’acceptera pas de capituler devant une chrétienté divisée en sectes. ... mais une telle division de la chrétienté présente une sérieuse faiblesse ... ([LU 195:10.11-15](/fr/The_Urantia_Book/195#p10_15))
+> Le christianisme est sérieusement confronté à la condamnation incorporée dans un de ses propres slogans : « Une maison divisée contre elle-même ne peut subsister. » Le monde non chrétien n’acceptera pas de capituler devant une chrétienté divisée en sectes. ... mais une telle division de la chrétienté présente une sérieuse faiblesse ... (<a id="a223_341"></a>[LU 195:10.11-15](/fr/The_Urantia_Book/195#p10_15))
 
 Le protestantisme présente désormais au monde des milliers d’« églises » concurrentes parmi lesquelles choisir. On pourrait dire qu’il a sacrifié l’unité pour éviter les problèmes de la diversité.
 
@@ -209,12 +233,37 @@ En Occident, la tyrannie catholique a engendré la rébellion du protestantisme 
 
 Peut-être que si l'Église d'Orient pouvait être amenée à revoir Jésus alors qu'il vivait sa vie sur terre parmi les hommes — si elle pouvait contempler Jésus vivant tel que décrit dans _Le Livre d'Urantia_ — peut-être alors elle, l'Église historique de Jésus, le défenseur de les vérités sacrées de l'Incarnation et de la Trinité, conservatrices de la théologie chrétienne intégrale sur deux millénaires, pourraient être en mesure d'aider à conduire la chrétienté vers sa réunification éventuelle, comme le décrit ce passage crucial du _Livre d'Urantia_ :
 
-> Jésus vivant représente le seul espoir possible d’unifier le christianisme. La véritable Église — la fraternité de Jésus — est invisible, spirituelle et caractérisée par l’*unité,* mais non nécessairement par l’*uniformité.* L’uniformité est la marque distinctive du monde physique de nature mécaniste. L’unité spirituelle est le fruit de l’union par la foi avec Jésus vivant. L’Église visible devrait refuser de continuer à handicaper le progrès de la fraternité invisible et spirituelle du royaume de Dieu. Cette fraternité est destinée à devenir un *organisme vivant,* contrastant avec une organisation sociale passée au rang d’institution. Les organisations sociales peuvent bien être utilisées par la fraternité, mais il ne faut pas qu’elles la supplantent. ([LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
+> Jésus vivant représente le seul espoir possible d’unifier le christianisme. La véritable Église — la fraternité de Jésus — est invisible, spirituelle et caractérisée par l’*unité,* mais non nécessairement par l’*uniformité.* L’uniformité est la marque distinctive du monde physique de nature mécaniste. L’unité spirituelle est le fruit de l’union par la foi avec Jésus vivant. L’Église visible devrait refuser de continuer à handicaper le progrès de la fraternité invisible et spirituelle du royaume de Dieu. Cette fraternité est destinée à devenir un *organisme vivant,* contrastant avec une organisation sociale passée au rang d’institution. Les organisations sociales peuvent bien être utilisées par la fraternité, mais il ne faut pas qu’elles la supplantent. (<a id="a235_766"></a>[LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
 
 > _Byron a été journaliste et producteur de télévision et est actuellement consultant dans l'industrie des télécommunications. Il est un lecteur de longue date du Livre d'Urantia et membre de l'Église orthodoxe orientale._
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Herrick/The_Adventure_Has_Begun">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'aventure a commencé</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/A_Urantia_Church">
+          <span class="pr-2">Une Église Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques:
 
@@ -227,7 +276,7 @@ Peut-être que si l'Église d'Orient pouvait être amenée à revoir Jésus alor
 [^4]: L'Orthodoxie définit tout le flux des événements de la vie de l'Église primitive : la mort et la résurrection du Christ, la création des pratiques liturgiques et la gouvernance de l'Église, l'adoption du canon scripturaire (établi en 387 au Troisième Conseil de Carthage) et les sept grands conciles de l’Église – comme une « Sainte Tradition » unifiée guidée par le Saint-Esprit.
 
 [^5]: La personnalité et les attributs de la troisième personne de la Trinité du Paradis, l'Esprit Infini, sont présentés dans les [articles 8](/fr/The_Urantia_Book/8) et [9](/fr/The_Urantia_Book/9) du _Le Livre d'Urantia_. La focalisation de l'univers local de l'Esprit Infini est décrite dans [article 34, « L'Esprit Mère de l'Univers Local ».](/fr/The_Urantia_Book/34)
-	Il est à noter que la christologie proclamée à Nicée a été revisitée dans plusieurs autres conciles œcuméniques dans un langage parallèle à celui du Livre d'Urantia. Le Concile de Chalcédoine (451) affirmait que le Christ était « parfait en Dieu et parfait en humanité » et « nous est fait connaître dans deux natures ». La différence entre les deux natures n’est en aucun cas détruite par l’union. » Une autre controverse surgit concernant la nature de l'humanité du Christ en vue de cette union. Le sixième Concile œcuménique (681) attribuait au Christ « deux volontés naturelles ». Cette doctrine est comparable aux enseignements du _Le Livre d'Urantia_. (Voir [LU 120:4.2](/fr/The_Urantia_Book/120#p4_2) et [LU 136:1.6](/fr/The_Urantia_Book/136#p1_6).)
+	Il est à noter que la christologie proclamée à Nicée a été revisitée dans plusieurs autres conciles œcuméniques dans un langage parallèle à celui du Livre d'Urantia. Le Concile de Chalcédoine (451) affirmait que le Christ était « parfait en Dieu et parfait en humanité » et « nous est fait connaître dans deux natures ». La différence entre les deux natures n’est en aucun cas détruite par l’union. » Une autre controverse surgit concernant la nature de l'humanité du Christ en vue de cette union. Le sixième Concile œcuménique (681) attribuait au Christ « deux volontés naturelles ». Cette doctrine est comparable aux enseignements du _Le Livre d'Urantia_. (Voir <a id="a278_665"></a>[LU 120:4.2](/fr/The_Urantia_Book/120#p4_2) et <a id="a278_712"></a>[LU 136:1.6](/fr/The_Urantia_Book/136#p1_6).)
 
 [^6]: Jaroslav Pelikan, _L'esprit de la chrétienté orientale_, (Chicago : University of Chicago Press) pp. 181-2.
 

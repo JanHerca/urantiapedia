@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Arthur Nash<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Attitude spirituelle » sincère [LU 155 : 6.12] = « Action positive » [LU 159 : 5.1]</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Real_Life_Outreach">
+          <span class="pr-2">Sensibilisation à la vraie vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Extrait du livre « La règle d'or en affaires », copyright 1923, ce matériel a une signification pour les érudits urantiens pour trois raisons. Il fournit des informations de première source sur les croyances religieuses fondamentales du Dr William S. Sadler, qui, dans sa jeunesse, était un pasteur adventiste du septième jour ordonné et contemporain de Nash. De toute évidence, ces croyances sont très éloignées des Cahiers d'Urantia. Deuxièmement, la première partie de cet extrait raconte le dévouement de Nash envers son église et le fondamentalisme erroné de l'organisation qui a abouti à son expulsion. Il est inspirant de lire la naissance de la religion personnelle à Nash au moyen du service aimant – le grand évangile de Jésus de Nazareth. La troisième raison d'examiner le travail de Nash est qu'il pourrait bien avoir été une source humaine secondaire pour un concept clé des Cahiers d'Urantia, comme nous le verrons dans la Partie II._
@@ -77,6 +101,31 @@ Ainsi s’est terminé et commencé un autre chapitre de ma vie. Le « ministèr
 
 Certains de mes lecteurs se souviennent peut-être de l'histoire de l'ouvrier employé à la construction d'une des grandes cathédrales anglaises. Jour après jour, à l'heure du dîner, ses collègues le trouvaient assis près du bureau des travaux, regardant un dessin en couleur accroché sur un de ses murs. Lorsque certains d'entre eux lui reprochèrent de ne pas être sociable et de se mêler à la récréation de midi, le vieil homme, avec une curieuse lueur dans les yeux, répondit : « Non, les gars, vous vous trompez. Ce n’est pas la raison pour laquelle je suis assis ici jour après jour. Je ne suis qu'un vieux malaxeur à ce métier, comme vous le savez ; mais cela m'aide à mieux mélanger mon mortier quand _je vois sur quel beau bâtiment je travaille !_ » Cela devrait être l'esprit de tout homme engagé dans tout type de travail qui en vaut la peine.
 
-> _La deuxième partie de l'histoire d'Arthur Nash sera publiée dans l'édition printemps et été de _The Spiritual Fellowship Journal_. Dans cette partie, Nash démontre que le remplacement de la motivation du profit dans les affaires par la motivation du service, comme le prédisent les Cahiers d'Urantia, aura lieu un jour. De plus, Nash pourrait bien être la source humaine originale de la proclamation selon laquelle la religion de Jésus n’a pas échoué, elle n’a jamais été sérieusement essayée à grande échelle._
+> _La deuxième partie de l'histoire d'Arthur Nash sera publiée dans l'édition printemps et été de _Journal de la Fraternité Spirituelle_. Dans cette partie, Nash démontre que le remplacement de la motivation du profit dans les affaires par la motivation du service, comme le prédisent les Cahiers d'Urantia, aura lieu un jour. De plus, Nash pourrait bien être la source humaine originale de la proclamation selon laquelle la religion de Jésus n’a pas échoué, elle n’a jamais été sérieusement essayée à grande échelle._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Attitude spirituelle » sincère [LU 155 : 6.12] = « Action positive » [LU 159 : 5.1]</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Real_Life_Outreach">
+          <span class="pr-2">Sensibilisation à la vraie vie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

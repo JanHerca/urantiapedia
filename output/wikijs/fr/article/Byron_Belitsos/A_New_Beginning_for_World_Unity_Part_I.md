@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Jésus – Une nouvelle vision de Marcus J. Borg</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jack_Rogers/The_Obsolescence_of_Religious_Imperialism">
+          <span class="pr-2">L'obsolescence de l'impérialisme religieux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ceci est la première d'un rapport en deux parties sur le Parlement des religions mondiales tenu en 1993 à Chicago._
@@ -18,7 +42,7 @@ Pour quiconque s'intéresse à l'avenir de la religion, le Parlement des religio
 
 J'ai assisté au Parlement en tant que membre de la presse, mais j'ai été volontiers emporté par la ferveur religieuse spontanée de l'événement. Ce fut en effet un tournant dans ma propre croissance religieuse. Mes concepts d'unité étaient si approfondis, mon inspiration de l'événement était si puissante qu'à certains moments, le sol sur lequel nous nous trouvions devenait sacré, devenait pour moi un centre mondial mythique, un _axis mundi_. À travers ce lieu – le banal Palmer House Hotel au centre-ville de Chicago – s’est répandu un esprit unificateur se manifestant dans une gamme éblouissante de formes d’expression humaine du divin.
 
-La beauté est une question de « l'unification harmonieuse des contrastes » et « la variété est essentielle au concept de beauté » ([LU 56:10.3](/fr/The_Urantia_Book/56#p10_3)). Parce que 125 confessions y étaient réunies, le Parlement a été une révélation de la beauté de l’unité religieuse – même s’il s’agissait d’une brève expérience de partage s’étalant sur une semaine en septembre.
+La beauté est une question de « l'unification harmonieuse des contrastes » et « la variété est essentielle au concept de beauté » (<a id="a44_131"></a>[LU 56:10.3](/fr/The_Urantia_Book/56#p10_3)). Parce que 125 confessions y étaient réunies, le Parlement a été une révélation de la beauté de l’unité religieuse – même s’il s’agissait d’une brève expérience de partage s’étalant sur une semaine en septembre.
 
 En réalité, l’unité religieuse est un rêve lointain pour notre monde. Nous n’avons même pas atteint la paix et la non-violence entre les religions ; il est déprimant de réaliser que bon nombre des quelque 40 guerres et conflits que connaît aujourd’hui le monde sont motivés par la religion. La guerre en Bosnie, le conflit israélo-arabe et le conflit en Irlande du Nord sont de tristes exemples des ruptures qui se produisent lorsque les diverses religions ne dialoguent pas. Mais les huit jours du Parlement en septembre dernier ont été un modèle inspirant de la direction vers laquelle nous nous dirigeons. À quelques exceptions près, elle a été marquée par l’unité, la tolérance et le dialogue affectueux entre la myriade de confessions représentées.
 
@@ -34,8 +58,33 @@ Un « Concert pour le 21 ème siècle » a eu lieu à Grant Park le dernier jour
 
 Le PWR était plus qu’une opportunité de partage interreligieux. Elle a également produit des résultats concrets : le plus important a probablement été l'adoption par l'Assemblée d'une déclaration commune, la Déclaration d'une éthique mondiale. Cela a également produit un défi sans précédent pour les religieux du monde sous la forme du rapport au PWR de la part de la communauté laïque/scientifique, le _Rapport mondial 2000 revisité : Que devons-nous faire ?_ En outre, il a été le témoin d'une rencontre entre spécialistes et théologiens à la « Conférence sur le pluralisme ».
 
-Espérons que les nombreuses leçons du Parlement des religions du monde de 1993 prendront racine parmi les peuples du monde. Pouvons-nous imaginer un jour où les religieux progressistes du monde acquerront la compréhension interconfessionnelle qui inspirera l’unité spirituelle au milieu de nos diversités culturelles et théologiques ? Quand ce jour viendra, _Le Livre d'Urantia_ aidera sûrement à ouvrir la voie. Le livre est parsemé d'enseignements progressistes sur la nécessité de tolérance, d'unité religieuse et de dialogue interreligieux. À la page 1012, nous lisons : « Il n’existe pas de religion d’Urantia qui ne puisse étudier et assimiler avec profit les meilleures vérités de toutes les autres religions, car elles contiennent toutes la vérité... » Dans les conférences d’Urantia, Jésus lui-même préconise que toutes les religions « ... se dépouiller complètement de toute autorité ecclésiastique et renoncer pleinement à tout concept de souveraineté spirituelle. » ([LU 92:7.3](/fr/The_Urantia_Book/92#p7_3)) Le Parlement a constitué une étape historique dans cette direction.
+Espérons que les nombreuses leçons du Parlement des religions du monde de 1993 prendront racine parmi les peuples du monde. Pouvons-nous imaginer un jour où les religieux progressistes du monde acquerront la compréhension interconfessionnelle qui inspirera l’unité spirituelle au milieu de nos diversités culturelles et théologiques ? Quand ce jour viendra, _Le Livre d'Urantia_ aidera sûrement à ouvrir la voie. Le livre est parsemé d'enseignements progressistes sur la nécessité de tolérance, d'unité religieuse et de dialogue interreligieux. À la page 1012, nous lisons : « Il n’existe pas de religion d’Urantia qui ne puisse étudier et assimiler avec profit les meilleures vérités de toutes les autres religions, car elles contiennent toutes la vérité... » Dans les conférences d’Urantia, Jésus lui-même préconise que toutes les religions « ... se dépouiller complètement de toute autorité ecclésiastique et renoncer pleinement à tout concept de souveraineté spirituelle. » (<a id="a60_979"></a>[LU 92:7.3](/fr/The_Urantia_Book/92#p7_3)) Le Parlement a constitué une étape historique dans cette direction.
 
 > _Byron a été journaliste et producteur de télévision et est actuellement consultant dans l'industrie des télécommunications._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Significant_Books_Jesus_A_New_Vision_by_Marcus_J_Borg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Jésus – Une nouvelle vision de Marcus J. Borg</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jack_Rogers/The_Obsolescence_of_Religious_Imperialism">
+          <span class="pr-2">L'obsolescence de l'impérialisme religieux</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

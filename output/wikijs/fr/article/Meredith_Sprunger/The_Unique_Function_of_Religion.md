@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Meredith J. Sprunger<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume1_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Bible_Appreciation_Enhanced">
+          <span class="pr-2">Appréciation de la Bible améliorée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les églises traditionnelles ont perdu près de cinq millions de membres depuis 1965. Cette perte suscite une inquiétude généralisée et on reconnaît avec inquiétude que les églises traditionnelles ne parlent plus comme la « voix centrale » de notre culture. De nombreux individus et groupes au sein des églises ont recommandé des stratégies de renouveau spirituel. Dans le _Reader's Digest_ de décembre 1990 (« Regardez ce qu'ils ont fait avec mes chansons »), John S. Tompkins, un laïc presbytérien, suggère que les ministres-bureaucrates professionnels ont mis l'accent sur une théologie qui minimise le spirituel et lui substitue les aspects sociaux, économiques, et l'action politique pour la fonction réelle d'illumination et d'éducation religieuse et spirituelle.
@@ -27,3 +51,28 @@ L'Église doit développer des communautés créatives, réconfortantes et porte
 
 Mais puisque l’Église en tant qu’institution est si profondément impliquée dans des activités laïques, comment peut-elle trouver un renouveau spirituel et fonctionner comme une institution véritablement religieuse qui peut donner une direction et soutenir spirituellement notre société toute entière ? Je réfléchis à cette question depuis plus de trente ans et je suis convaincu que le _Livre d'Urantia_ a le plus grand potentiel de toutes les ressources contemporaines pour faciliter cette transition. Il a la profondeur et l’ampleur révélatrices nécessaires pour restructurer notre conception de la réalité, pour donner à l’Église une image claire de sa mission et pour apporter une inspiration spirituelle qui nous donne les moyens de transformer le ministère.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume1_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1991</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Bible_Appreciation_Enhanced">
+          <span class="pr-2">Appréciation de la Bible améliorée</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

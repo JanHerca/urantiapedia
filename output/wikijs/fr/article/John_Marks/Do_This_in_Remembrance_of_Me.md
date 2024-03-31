@@ -9,18 +9,42 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 John Marks<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Go_Into_All_the_World_to_Every_Race_Tribe_and_Nation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Allez dans le monde entier, dans chaque race, tribu et nation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="pr-2">Service de communion : Le Souper du Souvenir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
 > « _Tout idéal inspirant tend à saisir un symbolisme qui le perpétuera — il recherche une technique pour une manifestation culturelle qui assurera sa survivance et accroitra son épanouissement. Le culte parvient à cette fin en stimulant et en satisfaisant l’émotion._ »
 > 
-> « _Depuis l’aurore de la civilisation, tout mouvement attirant de culture sociale ou de progrès religieux, a donné naissance à un rituel, à un cérémonial symbolique._ » ([LU 87:7.1-2](/fr/The_Urantia_Book/87#p7_1))
+> « _Depuis l’aurore de la civilisation, tout mouvement attirant de culture sociale ou de progrès religieux, a donné naissance à un rituel, à un cérémonial symbolique._ » (<a id="a40_172"></a>[LU 87:7.1-2](/fr/The_Urantia_Book/87#p7_1))
 
 L’une des caractéristiques de la religion est l’accomplissement de rituels. Les rituels religieux sont généralement associés à une histoire ou à un mythe sacré, et ensemble, le rituel et l'histoire expriment symboliquement la tentative humaine d'interagir avec ce qui est perçu comme une réalité sacrée ou divine. Un vaste corpus d’études anthropologiques ainsi que les résultats des religions comparées documentent l’universalité du rituel en tant que composante indispensable de la religion. Bien qu'il existe de nombreuses théories sur ses origines, sa nature et ses fonctions, on peut affirmer sans se tromper que le rituel semble être la principale technique humaine pour mettre en scène ou dramatiser, et ainsi préserver par la répétition, des sentiments religieux considérés comme essentiels au bien-être d'un communauté particulière (donc sacrée). [^2]
 
 Jusqu’à présent, le mouvement Urantia a montré peu d’intérêt pour l’établissement d’un quelconque rituel formel. Le seul modèle de comportement perceptible parmi les lecteurs a été la formation cohérente de groupes d'étude et leur organisation lâche sous l'égide de la Fellowship et de la Fondation. _Le Livre d'Urantia_ lui-même ne préconise aucune forme spécifique de rituel, bien que, comme le montre la citation en tête de cet article, il souligne l'importance du rituel pour le développement de la religion. Cela implique que les formes spécifiques de culte devraient être développées par la communauté des croyants à travers un processus évolutif naturel.
 
-Le récent changement d'orientation du _The Spiritual Fellowship Journal_ peut indiquer que la communauté du _Le Livre d'Urantia_ est maintenant prête au moins à commencer à discuter de la manière de développer un symbolisme et des formes d'expression appropriés pour donner libre cours aux sentiments religieux suscités par le _Le Livre d'Urantia_. Avec ce nouveau but en tête, j'aimerais offrir quelques expériences personnelles pour illustrer la manière dont le rituel pourrait être utilisé dans un service d'adoration basé sur _Le Livre d'Urantia_.
+Le récent changement d'orientation du _Journal de la Fraternité Spirituelle_ peut indiquer que la communauté du _Le Livre d'Urantia_ est maintenant prête au moins à commencer à discuter de la manière de développer un symbolisme et des formes d'expression appropriés pour donner libre cours aux sentiments religieux suscités par le _Le Livre d'Urantia_. Avec ce nouveau but en tête, j'aimerais offrir quelques expériences personnelles pour illustrer la manière dont le rituel pourrait être utilisé dans un service d'adoration basé sur _Le Livre d'Urantia_.
 
 Deux expériences mémorables me viennent à l’esprit comme exemples de la manière dont les rituels peuvent inspirer le fidèle et structurer le culte communautaire sans restreindre la libre expression de la foi individuelle. Les deux « services » se déroulaient dans le cadre informel et familier du domicile de quelqu'un et étaient des affaires simples basées sur la prise d'un repas partagé. À mon avis, de tels rassemblements peu structurés d'amis et de connaissances représentent une manière pratique et attrayante d'introduire un élément formel dans le Do This dans les réunions des groupes d'étude locaux, ce qui pourrait éventuellement conduire à une base standard d'adoration dans une future « église » urantienne. »
 
@@ -67,14 +91,39 @@ Bien entendu, les vraies religions ne peuvent pas être simplement fabriquées. 
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Go_Into_All_the_World_to_Every_Race_Tribe_and_Nation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Allez dans le monde entier, dans chaque race, tribu et nation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="pr-2">Service de communion : Le Souper du Souvenir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
 [^1]: [Luc 22;19](/fr/Bible/Luke/22#v19)
 
 [^2]: Une excellente revue du rôle du rituel dans la religion est l'article d'Evan M. Zuesse « Ritual » dans _The Encyclopedia of Religion_, Mircea Eliade, rédacteur en chef (New York : Macmillan, 1987), vol. 12, p. 405-422
 
-[^3]: Par exemple, [Matt. 9:10-17](/fr/Bible/Matthew/9#v10); [12:1-14](/fr/Bible/12#v1) ; [Marc 2:15-28](/fr/Bible/Mark/2#v15) ; [3:1-6](/fr/Bible/3#v1) ; [Luc 5:29-39](/fr/Bible/Luke/5#v29) ; [6:1-11](/fr/Bible/Luke/6#v1). [LU 147:5.1](/fr/The_Urantia_Book/147#p5_1) - [LU 147:8.6](/fr/The_Urantia_Book/147#p8_6)
+[^3]: Par exemple, [Matt. 9:10-17](/fr/Bible/Matthew/9#v10); [12:1-14](/fr/Bible/12#v1) ; [Marc 2:15-28](/fr/Bible/Mark/2#v15) ; [3:1-6](/fr/Bible/3#v1) ; [Luc 5:29-39](/fr/Bible/Luke/5#v29) ; [6:1-11](/fr/Bible/Luke/6#v1). <a id="a124_224"></a>[LU 147:5.1](/fr/The_Urantia_Book/147#p5_1) - <a id="a124_270"></a>[LU 147:8.6](/fr/The_Urantia_Book/147#p8_6)
 
-[^4]: Voir [LU 120:3.6-7](/fr/The_Urantia_Book/120#p3_6), points 5 et 6 ; cf. [LU 151:3.2-16](/fr/The_Urantia_Book/151#p3_2).
+[^4]: Voir <a id="a126_11"></a>[LU 120:3.6-7](/fr/The_Urantia_Book/120#p3_6), points 5 et 6 ; cf. <a id="a126_78"></a>[LU 151:3.2-16](/fr/The_Urantia_Book/151#p3_2).
 
 [^5]: Dès le troisième millénaire avant notre ère, les prêtres sumériens servaient aux statues de leurs dieux un repas sacré, qu'ils consommaient ensuite. Voir également The Anchor Bible Dictionary, vol. 4 : 653-655 sur l'antiquité du repas sacré.

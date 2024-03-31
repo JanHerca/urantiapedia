@@ -139,7 +139,7 @@ Il a déjà été indiqué qu'il était peu probable que l'article hautement sp�
 
 ### Invoquer le rasoir d'Occam
 
-Le langage, le niveau de connaissance et la terminologie de la référence de l'article 41 ([LU 41:8.3](/fr/The_Urantia_Book/41#p8_3)), ainsi que les références à la liaison entre protons et neutrons dans le noyau atomique, aux deux types de mésotron et à l'implication de les petites particules non chargées en désintégration radioactive bêta telles que décrites sur [LU 42:8.5-7](/fr/The_Urantia_Book/42#p8_5), sont celles du début des années 1930, et non celles des années 40 et 50. C’est ce que l’on pourrait attendre de la part d’auteurs contraints par le mandat de ne pas révéler leurs connaissances non acquises, sauf dans des circonstances particulières. En appliquant le principe du rasoir d'Occam consistant à donner la préférence à l'explication la plus simple et cohérente avec les faits, nous devons conclure que l'explication la plus probable du matériel prophétique de [LU 41:8.3](/fr/The_Urantia_Book/41#p8_3) est qu'il est original des Cahiers d'Urantia tels que reçus en 1934 et donc entre dans la catégorie désignée dans le mandat révélateur comme information clé fournie pour combler les lacunes manquantes dans nos connaissances. À l’heure actuelle, je ne crois pas qu’il existe une explication satisfaisante pour cette déclaration du *Livre d’Urantia* en termes d’attribution à un auteur humain.
+Le langage, le niveau de connaissance et la terminologie de la référence de l'article 41 (<a id="a141_90"></a>[LU 41:8.3](/fr/The_Urantia_Book/41#p8_3)), ainsi que les références à la liaison entre protons et neutrons dans le noyau atomique, aux deux types de mésotron et à l'implication de les petites particules non chargées en désintégration radioactive bêta telles que décrites sur <a id="a141_366"></a>[LU 42:8.5-7](/fr/The_Urantia_Book/42#p8_5), sont celles du début des années 1930, et non celles des années 40 et 50. C’est ce que l’on pourrait attendre de la part d’auteurs contraints par le mandat de ne pas révéler leurs connaissances non acquises, sauf dans des circonstances particulières. En appliquant le principe du rasoir d'Occam consistant à donner la préférence à l'explication la plus simple et cohérente avec les faits, nous devons conclure que l'explication la plus probable du matériel prophétique de <a id="a141_882"></a>[LU 41:8.3](/fr/The_Urantia_Book/41#p8_3) est qu'il est original des Cahiers d'Urantia tels que reçus en 1934 et donc entre dans la catégorie désignée dans le mandat révélateur comme information clé fournie pour combler les lacunes manquantes dans nos connaissances. À l’heure actuelle, je ne crois pas qu’il existe une explication satisfaisante pour cette déclaration du *Livre d’Urantia* en termes d’attribution à un auteur humain.
 
 ## Liens
 
@@ -158,9 +158,9 @@ Le langage, le niveau de connaissance et la terminologie de la référence de l'
 
 Sutton, C. *Vaisseau spatial Neutrino*. (Cambridge University Press, Cambridge, 1992)
 
-[^1]: [LU 101:4](/fr/The_Urantia_Book/101#p4)
+[^1]: <a id="a160_6"></a>[LU 101:4](/fr/The_Urantia_Book/101#p4)
 
-[^2]: [LU 41:8.3](/fr/The_Urantia_Book/41#p8_3)
+[^2]: <a id="a162_6"></a>[LU 41:8.3](/fr/The_Urantia_Book/41#p8_3)
 
 [^3]: Wolfgang Ernst Pauli (1900-1958) était un physicien théoricien suisse, puis américain, qui compte parmi les pères fondateurs de la « mécanique quantique ». Il est célèbre pour son « principe d’exclusion ». https://en.wikipedia.org/wiki/Wolfgang_Pauli
 
@@ -182,7 +182,7 @@ Sutton, C. *Vaisseau spatial Neutrino*. (Cambridge University Press, Cambridge, 
 
 [^12]: William Samuel Sadler (1875-1969) était un chirurgien et psychanalyste américain qui a formé un groupe d'amis pour publier **Le Livre d'Urantia** une fois qu'ils ont reçu ces documents. De ce groupe d'amis est née la Fondation Urantia, chargée de traduire et de diffuser le livre. https://es.wikipedia.org/wiki/William_Samuel_Sadler
 
-[^13]: [LU 101:4.9](/fr/The_Urantia_Book/101#p4_9)
+[^13]: <a id="a184_7"></a>[LU 101:4.9](/fr/The_Urantia_Book/101#p4_9)
 
 [^14]: Phys. Commentaires. Vol. 45
 

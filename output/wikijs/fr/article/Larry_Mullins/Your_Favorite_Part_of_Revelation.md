@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Larry Mullins<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Pouvons-nous, devrions-nous, nous organiser ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="pr-2">L'état du mouvement Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le Jardin d'Eden fascine un grand nombre d'Urantiens. De mon point de vue, ayant beaucoup moins de formation religieuse dans ma jeunesse que la plupart des gens, l’histoire du Jardin était relativement inintéressante. Cela a changé ces derniers mois. Un ami et compagnon urantien, Behzad Sarmast, a commencé avec passion à parler à Joan et moi de ses recherches et découvertes sur les légendes et les mythes qui sont enracinés dans la véritable histoire urantienne du Jardin. Il a révélé des choses étonnantes. Pratiquement chaque civilisation a une version de l’histoire du Jardin, avec des fils qui remontent à un passé lointain et semblent ensuite s’effacer et disparaître. Les parallèles entre ces légendes sont étranges.
@@ -31,7 +55,32 @@ Pourtant, je n’ai pas réussi à utiliser une grande partie des informations c
 
 > _Les Cahiers d'Urantia portent le concept de valeurs au-delà des paramètres communs de la pensée philosophique. Il y a tellement d’informations là-bas, et elles sont si condensées, qu’une seule vie ne pourrait pas commencer à les explorer_
 
-Considérez que David Zebadee a été le premier Internet spirituel. Comment pouvons-nous développer son noble service en ces jours de troubles et de confusion ? La composante féminine de Dieu peut vous intéresser : comment ce facteur peut-il être présenté au bénéfice des jeunes femmes du Mouvement Urantia ? Imaginez quel service ce serait si vous pouviez traduire les Rodan Papers en une philosophie moderne de la vie pratique ! Quelles que soient les parties des communications qui vous intéressent particulièrement, réfléchissez aux moyens de les présenter dans un effort de sensibilisation original et créatif. « La religion de l’esprit vous laisse perpétuellement libres de suivre la vérité, où que vous emmènent les directives de l’esprit. Et qui peut juger — cet esprit pourrait peut-être communiquer à cette génération quelque chose que les précédentes ont refusé d’entendre ? » ([LU 155:6.5](/fr/The_Urantia_Book/155#p6_5))
+Considérez que David Zebadee a été le premier Internet spirituel. Comment pouvons-nous développer son noble service en ces jours de troubles et de confusion ? La composante féminine de Dieu peut vous intéresser : comment ce facteur peut-il être présenté au bénéfice des jeunes femmes du Mouvement Urantia ? Imaginez quel service ce serait si vous pouviez traduire les Rodan Papers en une philosophie moderne de la vie pratique ! Quelles que soient les parties des communications qui vous intéressent particulièrement, réfléchissez aux moyens de les présenter dans un effort de sensibilisation original et créatif. « La religion de l’esprit vous laisse perpétuellement libres de suivre la vérité, où que vous emmènent les directives de l’esprit. Et qui peut juger — cet esprit pourrait peut-être communiquer à cette génération quelque chose que les précédentes ont refusé d’entendre ? » (<a id="a57_887"></a>[LU 155:6.5](/fr/The_Urantia_Book/155#p6_5))
 
 De nombreux Urantiens pourraient répondre à cette question : « Qui, moi ? Abraham Maslow aimait remettre en question ses cours d'université en disant : « Qui dans cette salle sera le prochain grand leader, ou écrivain, ou scientifique, ou artiste, ou poète ? Après quelques instants de silence gêné, sans aucun son mais quelques rires étouffés, il demandait alors : « Si ce n'est pas vous, alors qui ?
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Can_We_Should_We_Get_Organized">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Pouvons-nous, devrions-nous, nous organiser ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Janet_Farrington/The_State_of_Urantia_Movement">
+          <span class="pr-2">L'état du mouvement Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

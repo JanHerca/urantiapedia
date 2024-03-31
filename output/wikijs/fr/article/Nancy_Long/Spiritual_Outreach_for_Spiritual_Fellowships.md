@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Nancy Long<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Eugénisme et les Fascicules d'Urantia — Un point de vue différent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Thomas_Strawser/God_and_Lady">
+          <span class="pr-2">Dieu et Dame</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous, de The Spiritual Fellowship, sommes reconnaissants de l’opportunité d’apporter les enseignements spirituels des Cahiers d’Urantia à tous à travers le développement d’une organisation religieuse. Durant ces premières années, notre accent est mis sur la création de petits groupes spirituels, des groupes de deux à vingt-cinq personnes environ. Bien que des groupes plus importants puissent émerger, nous prévoyons que les groupes plus petits seront plus courants pendant cette période de démarrage. Notre approche de l’organisation englobe à la fois l’ordre et le chaos, la créativité et les processus. Nous accordons une importance primordiale aux groupes de culte locaux plutôt qu'à une organisation nationale. Les petits groupes et les camaraderies sont l’essence même de la bourse spirituelle. Cet article aborde deux types de bourses : les bourses et les groupes Living-the-Teachings.
@@ -42,7 +66,7 @@ Les groupes L-T s'adressent aux individus qui ont soif de vérité, qui ne sont 
 - _La volonté comme facteur déterminant dans l'expérience de l'homme_
 - _Fraternité spirituelle avec Dieu le Père_
 - _Les satisfactions suprêmes du service aimant de l'homme_
-- _La transcendance du spirituel sur le matériel dans la personnalité humaine_ ([LU 170:4.9-13](/fr/The_Urantia_Book/170#p4_9))
+- _La transcendance du spirituel sur le matériel dans la personnalité humaine_ (<a id="a68_80"></a>[LU 170:4.9-13](/fr/The_Urantia_Book/170#p4_9))
 
 Les groupes L-T ne comptent généralement pas plus de huit personnes. Les groupes sont généralement fermés, bien que ce ne soit pas obligatoire. Les groupes sont invités à fermer leurs portes car un environnement de confiance et d'engagement total doit exister pour que le groupe puisse fonctionner. L'expérience a montré qu'il est perturbateur et difficile d'instaurer la confiance lorsque des membres viennent ponctuellement ou ne s'intègrent pas bien avec le reste du groupe. Il est donc préférable d’avoir un groupe fermé. Si quelqu'un souhaite se joindre au groupe et que tous les membres du groupe sont disposés à le faire, il peut être invité à assister à une séance ou deux pour voir s'il y a une bonne adéquation.
 
@@ -53,3 +77,28 @@ Il n’y a pas de « leader » dans un groupe L-T. Il s’agit d’un effort de 
 > _Nancy Long est une étudiante des Fascicules d'Urantia depuis 1985. Elle est actuellement secrétaire de The Spiritual Fellowship et peut être contactée à nlong@reliable-net.net._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Eugénisme et les Fascicules d'Urantia — Un point de vue différent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Thomas_Strawser/God_and_Lady">
+          <span class="pr-2">Dieu et Dame</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Merlyn Cox<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_New_Approach_to_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une nouvelle approche de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="pr-2">L'idée du père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans quelle mesure Jésus peut-il être connu ? Maintenant que nous avons atteint le crépuscule de la deuxième quête du Jésus historique, la réponse ressemble apparemment beaucoup à la première : très peu. En lisant « Les Cinq Évangiles », les résultats publiés d’un sondage réalisé par un groupe d’érudits connu sous le nom de Jesus Seminar, on se demande si le résultat de tous ces efforts intenses nous a rapprochés, ou plus éloignés, de celui qui a dit : « suivez-moi » et a commencé à transformer le monde.
@@ -30,5 +54,30 @@ Si nous avons besoin de plus de connaissances, c'est une connaissance _sur_ Jés
 La seule source qui offre cette possibilité est _Le Livre d'Urantia_, et il le fait de manière si complète et si convaincante que vous ne pouvez que vous interroger sur le scepticisme et la peur qui empêchent sa lecture par les érudits ainsi que par les profanes qui ont si soif de ce qu'il contient. 
 
 
-> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. (<a id="a56_555"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/A_New_Approach_to_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une nouvelle approche de la révélation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="pr-2">L'idée du père</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

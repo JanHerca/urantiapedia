@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Everett W. Sloffer<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jack_Rogers/Music_Missions_and_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Musique, Missions et Culture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > Celui qui est fidèle dans les moindres choses l'est aussi dans les grandes ; et celui qui est malhonnête dans peu de choses l'est aussi dans de grandes. ([Luc 16:10](/fr/Bible/Luke/16#v10))
@@ -74,3 +95,25 @@ Jésus recherchait la volonté du Père même dans son plus petit désir. Nous a
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jack_Rogers/Music_Missions_and_Culture">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Musique, Missions et Culture</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

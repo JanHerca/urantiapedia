@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 John Marks<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Great_Enterprise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Grande Entreprise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Mind_Mastery">
+          <span class="pr-2">Maîtrise de l'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Que signifient la foi et la spiritualité aujourd’hui ? Tous deux ont connu des moments difficiles. La première, même si elle fait l’objet de nombreuses paroles, en particulier parmi les chrétiens conservateurs, semble en fin de compte avoir peu d’effet durable sur notre culture moderne basée sur l’argent, orientée vers le consommateur et axée sur la technologie. Ce dernier, souvent associé au New Age, est devenu un terme fourre-tout pour désigner tous les désirs vagues de nombreuses personnes en quête d’un sens à leur vie au-delà de celui offert par les récits standards de la culture contemporaine. Alors que la foi est généralement considérée comme l'adhésion à certaines valeurs fondamentales incarnées dans les religions traditionnelles, la spiritualité, en revanche, est généralement interprétée comme un rejet des formules désuètes des systèmes de croyances religieuses traditionnelles et une recherche de quelque chose d'autre pour combler le vide que ni la religion ni les les activités matérielles de la vie moderne peuvent combler.
@@ -19,9 +43,9 @@ Ceux d'entre nous qui ont été exposés à l'illumination du _Livre d'Urantia_ 
 
 L'un des objectifs primordiaux du _Livre d'Urantia_ est de transmettre aux lecteurs la réalité de l'esprit, cette caractéristique la plus insaisissable et pourtant la plus importante de notre expérience mortelle. L'ensemble du livre est conçu pour nous révéler qu'il existe un univers spirituel complexe et aux multiples facettes, qui complète notre image scientifique actuelle de l'univers matériel. Comme défini dans _Le Livre d'Urantia_, la foi est l'attitude essentielle pour entrer en contact avec la dimension spirituelle invisible ; en effet, elle est définie comme la réponse mentale naturelle à notre expérience de la réalité spirituelle, tout comme la raison est la réponse naturelle à notre expérience du monde matériel :
 
-> « _La raison est issue de la conscience matérielle, et la foi provient de la conscience spirituelle. Mais, par l’entremise d’une philosophie renforcée par la révélation, la logique peut confirmer les points de vue tant extérieur qu’intérieur et stabiliser ainsi à la fois la science et la religion._ » ([LU 103:7.6](/fr/The_Urantia_Book/103#p7_6))
+> « _La raison est issue de la conscience matérielle, et la foi provient de la conscience spirituelle. Mais, par l’entremise d’une philosophie renforcée par la révélation, la logique peut confirmer les points de vue tant extérieur qu’intérieur et stabiliser ainsi à la fois la science et la religion._ » (<a id="a45_305"></a>[LU 103:7.6](/fr/The_Urantia_Book/103#p7_6))
 
-> « La science (la connaissance) est fondée sur l’hypothèse inhérente (l’esprit adjuvat) que la raison est valable, que l’univers est susceptible d’être compris. ... La religion (la vérité de l’expérience spirituelle personnelle) est basée sur l’hypothèse inhérente (l’Ajusteur de Pensée) que la foi est valable, que Dieu est susceptible d’être connu et atteint. » ([LU 103:9.8](/fr/The_Urantia_Book/103#p9_8))
+> « La science (la connaissance) est fondée sur l’hypothèse inhérente (l’esprit adjuvat) que la raison est valable, que l’univers est susceptible d’être compris. ... La religion (la vérité de l’expérience spirituelle personnelle) est basée sur l’hypothèse inhérente (l’Ajusteur de Pensée) que la foi est valable, que Dieu est susceptible d’être connu et atteint. » (<a id="a47_366"></a>[LU 103:9.8](/fr/The_Urantia_Book/103#p9_8))
 
 Dans notre société contemporaine fondée sur la science, nous avons cultivé la réponse rationnelle à la réalité matérielle dans des sciences et des technologies hautement sophistiquées, extrêmement habiles à étudier et à manipuler le monde naturel. Et les systèmes éducatifs, notamment occidentaux, mettent l'accent sur l'approche de la raison et forment de jeunes adultes prêts à poursuivre le développement de la raison à travers les sciences, la technologie et les affaires.
 
@@ -41,7 +65,7 @@ La foi, en revanche, selon les mots du _Le Livre d'Urantia_ :
 
 > « ... est une expérience vivante s’intéressant aux significations spirituelles, aux idéaux divins et aux valeurs suprêmes ; elle connait Dieu et sert les hommes. Les croyances peuvent devenir la propriété d’un groupe, mais la foi doit être personnelle. ... la foi ne peut surgir dans le cœur des personnes religieuses qu’individuellement. »
 > 
-> « La foi n’entrave pas l’imagination créatrice, elle n’entretient pas non plus de préjugés irraisonnés contre les découvertes de la recherche scientifique. La foi vivifie la religion et oblige le religioniste à vivre héroïquement la règle d’or. Le zèle de la foi est proportionné à la connaissance, et ses efforts sont le prélude d’une paix sublime. » ([LU 101:8.2](/fr/The_Urantia_Book/101#p8_2))
+> « La foi n’entrave pas l’imagination créatrice, elle n’entretient pas non plus de préjugés irraisonnés contre les découvertes de la recherche scientifique. La foi vivifie la religion et oblige le religioniste à vivre héroïquement la règle d’or. Le zèle de la foi est proportionné à la connaissance, et ses efforts sont le prélude d’une paix sublime. » (<a id="a67_355"></a>[LU 101:8.2](/fr/The_Urantia_Book/101#p8_2))
 
 Le fait que la foi soit personnelle contribue à expliquer pourquoi la religion organisée perd facilement de vue le véritable sens de la foi. Car dans ses efforts pour créer une structure de culte, il s’oriente naturellement vers des systèmes de croyance, qui peuvent servir de base à l’organisation. Mais lorsque les systèmes de croyance deviennent trop rigides et dogmatiques, ils ont tendance à étouffer la foi personnelle et ainsi à couper l’énergie spirituelle qui est l’élément vital de la religion. Dans ce processus, les gens deviennent mécontents, se sentent éloignés des principes de direction épousés, au fil du temps, les adhésions diminuent et de nouveaux groupes dissidents apparaissent. C'est l'histoire du christianisme à l'époque moderne. L’exercice d’équilibre de toute religion progressiste consiste à maintenir une organisation qui soit à la fois largement cohésive et suffisamment souple pour encourager la libre expression de la foi personnelle et individualisée. [^2]
 
@@ -53,11 +77,11 @@ En ce qui concerne la volonté individuelle, la foi est complètement subjective
 
 En répondant à l'esprit par la foi, nous dit le Livre d'Urantia, nous répondons à une réalité personnelle, et c'est la présence personnelle de Dieu :
 
-> « L’esprit est la réalité fondamentale de l’expérience de personnalité de toutes les créatures, parce que Dieu est esprit. ... » ([LU 12:8.14](/fr/The_Urantia_Book/12#p8_14))
+> « L’esprit est la réalité fondamentale de l’expérience de personnalité de toutes les créatures, parce que Dieu est esprit. ... » (<a id="a79_132"></a>[LU 12:8.14](/fr/The_Urantia_Book/12#p8_14))
 
-> « La plus haute réalité personnelle. » ([LU 12:8.12](/fr/The_Urantia_Book/12#p8_12))
+> « La plus haute réalité personnelle. » (<a id="a81_42"></a>[LU 12:8.12](/fr/The_Urantia_Book/12#p8_12))
 
-> « L’esprit est la réalité personnelle fondamentale dans les univers, et la personnalité est fondamentale pour toute expérience progressive avec la réalité spirituelle. » ([LU 12:9.1](/fr/The_Urantia_Book/12#p9_1))
+> « L’esprit est la réalité personnelle fondamentale dans les univers, et la personnalité est fondamentale pour toute expérience progressive avec la réalité spirituelle. » (<a id="a83_173"></a>[LU 12:9.1](/fr/The_Urantia_Book/12#p9_1))
 
 La réalité spirituelle est donc la présence perçue de la personnalité de Dieu, dont la reconnaissance ne peut passer que par la foi. Nous percevons la présence de Dieu de la même manière que nous percevons la présence de la personnalité des personnes que nous connaissons et aimons. Dieu dirige la présence personnelle de son esprit vers nous, et si nous répondons, nous pouvons alors diriger notre foi vers Lui et expérimenter cette présence encore et encore. Nous ressentons son amour et son amour en retour, tout comme dans les affaires humaines, nous avons tendance à aimer ceux qui nous aiment.
 
@@ -71,23 +95,23 @@ Tout cela peut paraître très abstrait, mais dans la vie de Jésus, la pratique
 
 Le célèbre incident au cours duquel Jésus, âgé de douze ans, s'éloigne de sa mère et de son père lors de leur visite de Pâque à Jérusalem est souvent cité comme une manifestation de l'intelligence précoce de Jésus. Cela semble être l'implication de l'histoire telle qu'elle est racontée dans l'évangile de Luc : « ...ils le trouvèrent dans le temple, assis au milieu des docteurs, les écoutant et les interrogeant. Et tous ceux qui l'entendaient étaient étonnés de sa compréhension et de ses réponses." ([Luc 2:46-47](/fr/Bible/Luke/2#v46)) Jésus a sans aucun doute fait preuve d'une intelligence précoce, mais ce que je trouve impressionnant dans cette histoire, c'est la réaction de l'enfant. à l'inquiétude de ses parents lorsqu'ils le retrouvent enfin après quatre jours de recherche anxiogènes :
 
-> « Pourquoi m’avez-vous cherché si longtemps ? Ne vous attendiez-vous pas à me trouver dans la maison de mon Père, puisque l’heure est venue pour moi de m’occuper des affaires de mon Père ? » ([LU 125:6.7](/fr/The_Urantia_Book/125#p6_7))
+> « Pourquoi m’avez-vous cherché si longtemps ? Ne vous attendiez-vous pas à me trouver dans la maison de mon Père, puisque l’heure est venue pour moi de m’occuper des affaires de mon Père ? » (<a id="a97_194"></a>[LU 125:6.7](/fr/The_Urantia_Book/125#p6_7))
 
-Avant cette rencontre, le livre souligne que « Jésus ne se souciait étrangement pas de ses parents terrestres ; ... Jésus ne semblait pas comprendre qu'ils seraient quelque peu inquiets de son retard.» ([LU 125:6.1](/fr/The_Urantia_Book/125#p6_1)) Déjà à douze ans, Jésus a développé une foi qui a tellement occupé son esprit qu'il ne parvient pas à prévoir ou à comprendre les inquiétudes banales que ses parents ressentaient naturellement en son absence. En fait, sa question semble impliquer : comment auriez-vous pu vous inquiéter ? C'est comme s'il supposait que leur foi devait être aussi grande que la sienne, de telle sorte qu'il ne devrait y avoir aucune place pour l'anxiété puisqu'il est clair (du moins pour lui) qu'il a fidèlement confié sa vie aux soins aimants du Père. Quand on fait pleinement confiance au Père en toutes choses, on ne peut jamais être vraiment perdu.
+Avant cette rencontre, le livre souligne que « Jésus ne se souciait étrangement pas de ses parents terrestres ; ... Jésus ne semblait pas comprendre qu'ils seraient quelque peu inquiets de son retard.» (<a id="a99_203"></a>[LU 125:6.1](/fr/The_Urantia_Book/125#p6_1)) Déjà à douze ans, Jésus a développé une foi qui a tellement occupé son esprit qu'il ne parvient pas à prévoir ou à comprendre les inquiétudes banales que ses parents ressentaient naturellement en son absence. En fait, sa question semble impliquer : comment auriez-vous pu vous inquiéter ? C'est comme s'il supposait que leur foi devait être aussi grande que la sienne, de telle sorte qu'il ne devrait y avoir aucune place pour l'anxiété puisqu'il est clair (du moins pour lui) qu'il a fidèlement confié sa vie aux soins aimants du Père. Quand on fait pleinement confiance au Père en toutes choses, on ne peut jamais être vraiment perdu.
 
 Pour moi, cette scène témoigne à la fois d'une foi précoce et de l'égocentrisme typique d'un jeune garçon lorsqu'il est fasciné par une activité ; le monde qui l'entoure disparaît pendant qu'il se concentre sur l'activité en cours et il oublie que d'autres peuvent avoir un agenda différent. Le Jésus plus tard mûr, le véritable maître de la psychologie humaine, n'aurait pas pu ignorer les craintes de ses parents, mais le jeune Jésus est encore en train d'apprendre à connaître la nature humaine. Pourtant, sur le plan spirituel, il a déjà des années-lumière d'avance sur tout le monde et poursuit activement la relation spirituelle personnelle qu'il a établie depuis longtemps avec son Père. Il connaît Dieu et Dieu le connaît ; tout le reste est secondaire et découle de cette relation suprême. Une telle foi le motive à accomplir des choses extraordinaires et à sortir du rôle attendu d'un garçon de douze ans.
 
 Mais sa foi lui a également permis plus tard dans sa vie de garder espoir face aux épreuves et aux tristes difficultés ordinaires de la vie quotidienne. Après la mort accidentelle de son père alors que Jésus n'avait que quatorze ans, un coup du sort apparemment cruel, il devint responsable, en tant qu'homme aîné, du bien-être de la famille. Ensemble, ils ont affronté de nombreuses années difficiles de pauvreté et de lutte, essayant de joindre les deux bouts pour garder de la nourriture sur la table pour une famille de dix personnes. L'enfant très prometteur a dû soudainement faire face à la réalité d'horizons très limités et d'un avenir prévisible de dur labeur dans l'atelier de menuiserie tout en aidant sa mère à élever un bébé et sept enfants âgés de un à dix ans.
 
-> « Nul adolescent, qui a vécu ou qui vivra sur ce monde ou sur n’importe quel autre monde, n’a eu ou n’aura jamais à résoudre des problèmes plus graves ou à démêler des difficultés plus complexes. Nul jeune d’Urantia ne sera jamais appelé à traverser plus de conflits éprouvants ou de situations pénibles que Jésus durant la période ardue allant de sa quinzième à sa vingtième année. » ([LU 127:0.2](/fr/The_Urantia_Book/127#p0_2))
+> « Nul adolescent, qui a vécu ou qui vivra sur ce monde ou sur n’importe quel autre monde, n’a eu ou n’aura jamais à résoudre des problèmes plus graves ou à démêler des difficultés plus complexes. Nul jeune d’Urantia ne sera jamais appelé à traverser plus de conflits éprouvants ou de situations pénibles que Jésus durant la période ardue allant de sa quinzième à sa vingtième année. » (<a id="a105_388"></a>[LU 127:0.2](/fr/The_Urantia_Book/127#p0_2))
 
-> « Sa mère se désolait de le voir tant peiner, jour après jour, à l’établi de charpentier pour gagner la vie de la famille, au lieu d’être à Jérusalem, en train d’étudier avec les rabbins, » ([LU 127:1.8](/fr/The_Urantia_Book/127#p1_8))
+> « Sa mère se désolait de le voir tant peiner, jour après jour, à l’établi de charpentier pour gagner la vie de la famille, au lieu d’être à Jérusalem, en train d’étudier avec les rabbins, » (<a id="a107_193"></a>[LU 127:1.8](/fr/The_Urantia_Book/127#p1_8))
 
-> « Tous les plans de Jésus pour sa carrière furent apparemment contrecarrés. À la façon dont les évènements se présentaient, l’avenir ne paraissait pas brillant. Pourtant Jésus ne vacilla pas et ne se découragea pas. Il continua à vivre au jour le jour, remplissant bien son devoir quotidien et s’acquittant fidèlement des responsabilités *immédiates* de sa position dans la société. La vie de Jésus est la consolation éternelle de tous les idéalistes déçus. » ([LU 126:5.4](/fr/The_Urantia_Book/126#p5_4))
+> « Tous les plans de Jésus pour sa carrière furent apparemment contrecarrés. À la façon dont les évènements se présentaient, l’avenir ne paraissait pas brillant. Pourtant Jésus ne vacilla pas et ne se découragea pas. Il continua à vivre au jour le jour, remplissant bien son devoir quotidien et s’acquittant fidèlement des responsabilités *immédiates* de sa position dans la société. La vie de Jésus est la consolation éternelle de tous les idéalistes déçus. » (<a id="a109_463"></a>[LU 126:5.4](/fr/The_Urantia_Book/126#p5_4))
 
 Le point le plus bas de cette période difficile a peut-être été lorsque son petit frère, Amos, est décédé après une semaine de maladie à cause d'une forte fièvre. A dix-huit ans, avec sa mère accablée de chagrin et sa famille poussée à la limite de ses maigres ressources par les frais funéraires, Jésus était le pilier de la force de la famille.
 
-> « Jésus possédait la faculté de mobiliser efficacement tous ses pouvoirs mentaux, psychiques et corporels pour la tâche à accomplir immédiatement. Il pouvait concentrer d’une manière profonde son mental sur le seul problème qu’il désirait résoudre. Jointe à sa *patience* inlassable, cette faculté le rendait capable de supporter sereinement les épreuves d’une existence mortelle difficile — de vivre comme s’il « voyait Celui qui est invisible ». » ([LU 127:3.15](/fr/The_Urantia_Book/127#p3_15))
+> « Jésus possédait la faculté de mobiliser efficacement tous ses pouvoirs mentaux, psychiques et corporels pour la tâche à accomplir immédiatement. Il pouvait concentrer d’une manière profonde son mental sur le seul problème qu’il désirait résoudre. Jointe à sa *patience* inlassable, cette faculté le rendait capable de supporter sereinement les épreuves d’une existence mortelle difficile — de vivre comme s’il « voyait Celui qui est invisible ». » (<a id="a113_453"></a>[LU 127:3.15](/fr/The_Urantia_Book/127#p3_15))
 
 C'était la puissance extraordinaire de sa foi. Cela lui a permis plus tard de formuler ces formulations exquises de foi dans le Sermon sur la montagne : « Heureux ceux qui pleurent, car ils seront consolés. » Jésus en savait beaucoup sur les expériences difficiles et les occasions de deuil. Bien qu'il soit souvent entouré de monde, il se sentait parfois très seul, car il n'existait aucun autre être humain avec qui il pourrait partager ses problèmes humains uniques. Il a dû parcourir seul un chemin très difficile et incertain, guidé uniquement par sa foi. Pourtant, on nous dit qu'il était toujours joyeux et une source d'encouragement pour tous. En fin de compte, il a volontairement accepté la plus grande épreuve de la foi – une mort horrible et humiliante en tant que criminel de droit commun et la désertion de la plupart de ses disciples, amis et membres de sa famille – pour souligner le pouvoir salvateur de la foi.
 
@@ -97,11 +121,11 @@ Mais les bienfaits de l’influence spirituelle peuvent difficilement être obte
 
 ## Cultiver des habitudes spirituelles
 
-Dans une section du _Livre d'Urantia_ intitulée « Les leurres de la maturité ». ([LU 160:3](/fr/The_Urantia_Book/160#p3)), le philosophe grec Rodan d'Alexandrie, souligne que la vie de foi et l'habitude de communier avec l'esprit de Dieu sont les secrets de la maîtrise par Jésus des problèmes de la vie :
+Dans une section du _Livre d'Urantia_ intitulée « Les leurres de la maturité ». (<a id="a123_81"></a>[LU 160:3](/fr/The_Urantia_Book/160#p3)), le philosophe grec Rodan d'Alexandrie, souligne que la vie de foi et l'habitude de communier avec l'esprit de Dieu sont les secrets de la maîtrise par Jésus des problèmes de la vie :
 
 > « Observez votre Maitre. À cette heure même, il est dans les collines, récupérant de la puissance pendant qu’ici nous dépensons de l’énergie. Le secret de tout ce problème git dans la communion spirituelle, dans l’adoration. Du point de vue humain, il s’agit de conjuguer la méditation et la détente. La méditation établit le contact du mental avec l’esprit ; la détente détermine la capacité de la réceptivité spirituelle. Cette substitution de la force à la faiblesse, du courage à la peur, de la volonté de Dieu au mental du moi, constitue l’adoration. ... »
 > 
-> « Quand ces expériences sont fréquemment répétées, elles se cristallisent en habitudes, des habitudes d’adoration qui donnent de la force ; ces habitudes se traduisent, en fin de compte, par la formation d’un caractère spirituel, et, finalement, ce caractère est reconnu par vos semblables comme une *personnalité mure.* Au début, ces pratiques sont difficiles et prennent beaucoup de temps, mais, quand elles deviennent habituelles, elles procurent immédiatement du repos et une économie de temps. Plus la société deviendra complexe et plus les attraits de la civilisation se multiplieront, plus la nécessité deviendra urgente pour les personnes connaissant Dieu de contracter ces habitudes protectrices destinées à conserver et à accroitre leurs énergies spirituelles. » ([LU 160:3.1-2](/fr/The_Urantia_Book/160#p3_1))
+> « Quand ces expériences sont fréquemment répétées, elles se cristallisent en habitudes, des habitudes d’adoration qui donnent de la force ; ces habitudes se traduisent, en fin de compte, par la formation d’un caractère spirituel, et, finalement, ce caractère est reconnu par vos semblables comme une *personnalité mure.* Au début, ces pratiques sont difficiles et prennent beaucoup de temps, mais, quand elles deviennent habituelles, elles procurent immédiatement du repos et une économie de temps. Plus la société deviendra complexe et plus les attraits de la civilisation se multiplieront, plus la nécessité deviendra urgente pour les personnes connaissant Dieu de contracter ces habitudes protectrices destinées à conserver et à accroitre leurs énergies spirituelles. » (<a id="a127_776"></a>[LU 160:3.1-2](/fr/The_Urantia_Book/160#p3_1))
 
 C’est ce qui manque cruellement aujourd’hui à notre système éducatif, à toute notre civilisation occidentale. La religion du futur devra se concentrer sur cette définition dynamique de la foi et de l’esprit et fournir des moyens pratiques permettant aux gens de cultiver l’habitude de la communion spirituelle. C’est la clé pour apprendre à connaître Dieu en nous et apprendre quelle est sa volonté pour nous. À cet égard, l’Occident peut tirer une leçon de l’Orient, où les traditions hindoue, bouddhiste et orthodoxe orientale ont inculqué une appréciation de la valeur de la méditation et de la retraite silencieuse. En Occident, nous sommes tellement habitués à raisonner, à argumenter, à formuler des concepts ou à poursuivre des programmes qu'il peut être difficile d'abandonner pendant un moment toutes nos constellations mentales et de simplement « écouter », en essayant d'être aussi réceptifs et à l'écoute que possible. message du silence. Mais c’est clairement ce que Jésus faisait souvent. Tout au long de sa vie, il a suivi une pratique constante de retraite solitaire pour rétablir son équilibre spirituel avant de s'attaquer aux défis pratiques du monde. Et sa vie très active et son engagement total auprès des gens montrent que de telles périodes de communion silencieuse ne transforment pas nécessairement l'homme en ermite.
 
@@ -109,8 +133,33 @@ En bref, cela signifie que nous devons redécouvrir le sens et la valeur du cult
 
 Lorsque la religion redécouvrira ce réseau vivant de relations, elle inspirera une nouvelle illumination de la conscience spirituelle, encore plus passionnante que l’illumination scientifique qui a créé notre monde moderne.
 
-> _C’est précisément parce que l’évangile de Jésus présentait tant d’aspects différents qu’en l’espace de quelques siècles, ceux qui étudièrent les récits de ses enseignements se divisèrent en tant de cultes et de sectes. Cette pitoyable subdivision des croyants chrétiens résulte de leur incapacité de discerner, dans les aspects multiples des enseignements du Maitre, la divine unité de sa vie incomparable. Mais il viendra un jour où les vrais croyants en Jésus ne seront pas spirituellement divisés de la sorte dans leur attitude devant les incroyants. Nous pouvons toujours avoir une diversité de compréhension et d’interprétation intellectuelles, et même divers degrés de socialisation, mais le défaut de fraternité spirituelle est à la fois inexcusable et répréhensible._ ([LU 170:5.20](/fr/The_Urantia_Book/170#p5_20))
+> _C’est précisément parce que l’évangile de Jésus présentait tant d’aspects différents qu’en l’espace de quelques siècles, ceux qui étudièrent les récits de ses enseignements se divisèrent en tant de cultes et de sectes. Cette pitoyable subdivision des croyants chrétiens résulte de leur incapacité de discerner, dans les aspects multiples des enseignements du Maitre, la divine unité de sa vie incomparable. Mais il viendra un jour où les vrais croyants en Jésus ne seront pas spirituellement divisés de la sorte dans leur attitude devant les incroyants. Nous pouvons toujours avoir une diversité de compréhension et d’interprétation intellectuelles, et même divers degrés de socialisation, mais le défaut de fraternité spirituelle est à la fois inexcusable et répréhensible._ (<a id="a135_780"></a>[LU 170:5.20](/fr/The_Urantia_Book/170#p5_20))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Great_Enterprise">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Grande Entreprise</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Mind_Mastery">
+          <span class="pr-2">Maîtrise de l'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

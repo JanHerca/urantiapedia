@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:12:17Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Matt Neibaur<br>© 1995 Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « _L’or fut le premier métal recherché par les hommes ; il était facile à travailler et fut d’abord employé uniquement comme parure. On se servit ensuite du cuivre, mais assez peu avant le moment où on le mélangea à l’étain pour faire du bronze plus dur. La découverte du mélange cuivre-étain fut faite par un Adamsonite du Turkestan, dont la mine de cuivre se trouvait être située dans les hautes terres au voisinage d’un gisement d’étain._ » ([LU 81:3.5](/fr/The_Urantia_Book/81#p3_5))
+> « _L’or fut le premier métal recherché par les hommes ; il était facile à travailler et fut d’abord employé uniquement comme parure. On se servit ensuite du cuivre, mais assez peu avant le moment où on le mélangea à l’étain pour faire du bronze plus dur. La découverte du mélange cuivre-étain fut faite par un Adamsonite du Turkestan, dont la mine de cuivre se trouvait être située dans les hautes terres au voisinage d’un gisement d’étain._ » (<a id="a13_447"></a>[LU 81:3.5](/fr/The_Urantia_Book/81#p3_5))
 
 Matt Neibaur a contribué à la revue suivante émanant de l'Université de Chicago.
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith Sprunger<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/Values_Learn_Them_or_Lose_Them">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Valeurs : apprenez-les ou perdez-les</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Earth_Currents_by_by_Howard_A_Snyder">
+          <span class="pr-2">Livres importants : Earth Currents de Howard A. Snyder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nouvelle édition révisée
@@ -33,3 +57,28 @@ Templeton propose que la théologie de l'humilité lance un nouveau programme de
 
 Il s’agit d’un livre stimulant qui recommande une attitude envers la recherche de la vérité que les théologiens pourraient bien adopter. Dans la mesure où cela devient une réalité, la découverte de la Cinquième Révélation d’Époque pourrait être l’événement le plus important du XXIe siècle.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/Values_Learn_Them_or_Lose_Them">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Valeurs : apprenez-les ou perdez-les</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Earth_Currents_by_by_Howard_A_Snyder">
+          <span class="pr-2">Livres importants : Earth Currents de Howard A. Snyder</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

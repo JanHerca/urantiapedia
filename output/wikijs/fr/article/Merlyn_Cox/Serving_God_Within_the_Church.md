@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Merlyn Cox<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : un nouveau chant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Science_by_Ken_T_Glasziou">
+          <span class="pr-2">Livres importants : science, anthropologie et archéologie dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pour ceux qui ont grandi dans l’Église, et même pour ceux qui identifient le Royaume de Dieu à l’Église, le titre doit paraître étrange. Pour la plupart, servir Dieu au sein de l’Église est la norme, sinon la définition, du discipulat. Bien que beaucoup puissent être appelés à la représenter à la périphérie de son influence, on suppose que même cela constitue le rayonnement de l'Église. Au moins, on peut toujours définir l'Église comme le corps mystique du Christ qui est présent par définition là où les croyants sont rassemblés et travaillent en son nom.
@@ -30,3 +54,28 @@ Pour ceux du Mouvement Urantia, cela peut aussi sembler ironique de souligner qu
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : un nouveau chant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Science_by_Ken_T_Glasziou">
+          <span class="pr-2">Livres importants : science, anthropologie et archéologie dans le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

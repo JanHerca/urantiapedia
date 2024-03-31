@@ -11,7 +11,7 @@ dateCreated: 2022-9-9T8:13:38Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-Les auditeurs de Jésus étaient à plusieurs reprises « _étonnés de sa parole, car il enseignait comme quelqu'un ayant autorité et non comme les scribes._ » ([Marc 1:22](fr/Bible/Marc/1#v22); [LU 145:2.11](/fr/The_Urantia_Book/145#p2_11))
+Les auditeurs de Jésus étaient à plusieurs reprises « _étonnés de sa parole, car il enseignait comme quelqu'un ayant autorité et non comme les scribes._ » ([Marc 1:22](fr/Bible/Marc/1#v22); <a id="a13_190"></a>[LU 145:2.11](/fr/The_Urantia_Book/145#p2_11))
 
 Pouvons-nous bien méditer avec étonnement sur les mots que nous pouvons découvrir dans _Le Livre d'Urantia_ car sûrement « aucun homme n'a jamais écrit ainsi ». La section du livre qui suit n’est qu’une parmi une multitude qui doit nous forcer à nous demander : « Quelqu’un pourrait-il jamais écrire ainsi. »
 
@@ -29,7 +29,7 @@ La force cosmique répond à l’esprit tout comme l’esprit cosmique répond �
 
 L'esprit transmue les valeurs de l'esprit en significations de l'intellect ; la volonté a le pouvoir de faire fructifier les significations de l’esprit dans les domaines matériel et spirituel. L'ascension du Paradis implique une croissance relative et différentielle de l'esprit, du mental et de l'énergie. La personnalité est l'unificateur de ces composantes de l'individualité expérientielle.
 
-> [Jésus] parlait tout à fait franchement avec eux, exposait ses idées et ses idéaux sur la politique, la sociologie, la science et la philosophie, mais jamais il ne prétendait parler avec une autorité finale, sauf quand il discutait de la religion — les rapports de l’homme avec Dieu. ([LU 129:1.10](/fr/The_Urantia_Book/129#p1_10))
+> [Jésus] parlait tout à fait franchement avec eux, exposait ses idées et ses idéaux sur la politique, la sociologie, la science et la philosophie, mais jamais il ne prétendait parler avec une autorité finale, sauf quand il discutait de la religion — les rapports de l’homme avec Dieu. (<a id="a31_287"></a>[LU 129:1.10](/fr/The_Urantia_Book/129#p1_10))
 
 ## Liens externes
 

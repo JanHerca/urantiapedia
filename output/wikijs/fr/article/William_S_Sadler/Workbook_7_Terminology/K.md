@@ -26,7 +26,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 
 ## Kilomètre
 
-> Le kilomètre standard de Jérusem équivaut à peu près à sept kilomètres d’Urantia. [LU 46:1.2](/fr/The_Urantia_Book/46#p1_2)
+> Le kilomètre standard de Jérusem équivaut à peu près à sept kilomètres d’Urantia. <a id="s28_84"></a>[LU 46:1.2](/fr/The_Urantia_Book/46#p1_2)
 
 
 <br>

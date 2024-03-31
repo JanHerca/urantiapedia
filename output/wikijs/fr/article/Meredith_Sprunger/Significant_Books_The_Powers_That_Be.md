@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith J. Sprunger<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Commission au Ministre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Galilée Doubleday, New York, 1998, 207 p.
@@ -23,3 +44,25 @@ Le professeur Wink a écrit un livre brillant et utile. Les limites du livre, à
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Commission_to_Minister">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Commission au Ministre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

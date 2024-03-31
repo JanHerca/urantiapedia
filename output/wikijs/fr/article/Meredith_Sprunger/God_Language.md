@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith J. Sprunger<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Judith_L_Mace/UB_and_Sexist_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et le langage sexiste</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/The_Goddess">
+          <span class="pr-2">La Déesse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le terme le plus généralement utilisé pour désigner la Réalité Ultime sur notre monde est « Dieu ». Le nom utilisé pour Dieu varie selon l'expérience et la culture. La Source Première et le Centre de toutes choses et de tous les êtres n'est pas révélé par son nom mais par sa nature. Le nom donné à cette Réalité Ultime n’a que peu d’importance spirituelle. Ce qui est important, c’est que nous devons connaître cette Présence Spirituelle à travers notre expérience personnelle et nous efforcer de reproduire cette réalité dans nos vies.
@@ -55,8 +79,33 @@ Il y a eu une expression récurrente de la nécessité d’un concept maternel d
 
 En résumé, nous observons que les noms que nous utilisons pour Dieu sont déterminés par nos connaissances, notre expérience et notre culture. Il semble y avoir un consensus sur le fait que les appellations parentales et familiales pour Dieu décrivent le mieux l'expérience et les préférences de la majorité des gens de notre culture. Il est regrettable que certains traditionalistes et certaines féministes tentent de contraindre les autres à utiliser le langage divin qu’ils préfèrent. Les deux côtés trouvent des raisons théologiques et religieuses à leurs préférences. Il est bien préférable de laisser à chaque personne la liberté spirituelle de choisir ses propres expressions analogiques et métaphoriques pour Dieu qui coïncident avec son expérience. En effet, nous devrions encourager l’imagination spirituelle créatrice pour enrichir notre langage divin.
 
-> La révérende Meredith J. Sprunger est une ministre de l'Église Unie du Christ, professeure et administratrice d'université, maintenant à la retraite. Il est l'auteur de Spiritual Psychology, A Primer, et est rédacteur en chef du _The Spiritual Fellowship Journal_.
+> La révérende Meredith J. Sprunger est une ministre de l'Église Unie du Christ, professeure et administratrice d'université, maintenant à la retraite. Il est l'auteur de Spiritual Psychology, A Primer, et est rédacteur en chef du _Journal de la Fraternité Spirituelle_.
 {.is-info}
 
-> « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
+> « « Suivre Jésus » signifie partager personnellement sa foi religieuse et entrer dans l’esprit de la vie du Maitre consacrée au service désintéressé des hommes. L’une des choses les plus importantes de la vie humaine consiste à découvrir ce que Jésus croyait, à découvrir ses idéaux et à s’efforcer d’accomplir le dessein élevé de sa vie. De toutes les connaissances humaines, celle qui présente la plus grande valeur est de connaitre la vie religieuse de Jésus et la manière dont il la vécut. » (<a id="a84_499"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Judith_L_Mace/UB_and_Sexist_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et le langage sexiste</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/The_Goddess">
+          <span class="pr-2">La Déesse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

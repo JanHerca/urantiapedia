@@ -25,9 +25,9 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > 6. Jésus enseigna que les réalités éternelles étaient le résultat (la récompense) de la droiture dans les efforts terrestres. Le séjour des mortels sur terre acquit de nouvelles significations comme conséquences de la reconnaissance d’une noble destinée.
 > 
-> 7. Le nouvel évangile affirmait que le salut humain est la révélation d’un dessein divin de grande envergure devant être accompli et réalisé dans la destinée future du service sans fin des fils de Dieu qui seraient sauvés. ([LU 170:2.1-8](/fr/The_Urantia_Book/170#p2_1))
+> 7. Le nouvel évangile affirmait que le salut humain est la révélation d’un dessein divin de grande envergure devant être accompli et réalisé dans la destinée future du service sans fin des fils de Dieu qui seraient sauvés. (<a id="a27_226"></a>[LU 170:2.1-8](/fr/The_Urantia_Book/170#p2_1))
 
-> Mais n’en doutez pas, ce même royaume des cieux, dont le Maitre enseigna l’existence dans le cœur des hommes, sera encore proclamé à cette Église chrétienne, ainsi qu’à toutes les autres religions, races et nations de la terre — et même à chaque individu. ([LU 170:5.8](/fr/The_Urantia_Book/170#p5_8))
+> Mais n’en doutez pas, ce même royaume des cieux, dont le Maitre enseigna l’existence dans le cœur des hommes, sera encore proclamé à cette Église chrétienne, ainsi qu’à toutes les autres religions, races et nations de la terre — et même à chaque individu. (<a id="a29_259"></a>[LU 170:5.8](/fr/The_Urantia_Book/170#p5_8))
 
 ## Liens externes
 

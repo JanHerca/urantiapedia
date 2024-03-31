@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Byron Belitsos<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Mind_of_God_by_Paul_Davies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : L'esprit de Dieu de Paul Davies</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jack_Rogers/The_Quest_for_Indigeneity_The_Missionary_Challenge">
+          <span class="pr-2">La quête de l'indigénéité : le défi missionnaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le terme « âme » dans la foi chrétienne est un concept quelque peu ambigu, mais il fait généralement référence au principe vital de la nature humaine qui a un potentiel immortel. Les auteurs du _Livre d'Urantia_ définissent l'âme comme une substance « morontielle », un état existant entre le matériel et le spirituel. L'âme évolue comme une création conjointe de l'Ajusteur de Pensée (esprit intérieur de Dieu) et de la volonté humaine, et est immortelle. Les propositions suivantes sont tirées de diverses sources et sont présentées pour stimuler la réflexion sur l'âme.
@@ -23,21 +47,21 @@ De fausses valeurs dans des costumes parfaitement coupés. De fausses personnali
 
 L'expansion de l'âme commence lorsque nous remettons en question le sens de ces impulsions étranges et auto-existantes de notre âme – ces envies troublantes et surprenantes de servir un Dieu inconnu, d'aimer ceux qui ne nous aiment pas, de comprendre ce qui semble incompréhensible, d'arrêter le routine quotidienne et apprécier la beauté infinie du monde. Nous naviguons sur ce terrain cosmique de l’âme en posant « des questions, encore des questions et, espérons-le, des questions profondes ». L'âme en quête est l'âme en questionnement, une âme activée par un besoin de connaître et motivée par le désir de servir.
 
-Rencontrer Dieu à mi-chemin. L'âme comme point de rencontre entre les deux volontés, humaine et divine. Une maison à mi-chemin, un lieu pour se remettre des vicissitudes de la lutte matérielle, un lieu pour rafraîchir et purifier la volonté humaine, et se tourner à nouveau vers la quête de la connaissance de la volonté du Père. Un lieu où le Créateur peut venir « connaître l’homme et atteindre l’_expérience_ de la créature ». ([LU 111:2.8](/fr/The_Urantia_Book/111#p2_8))
+Rencontrer Dieu à mi-chemin. L'âme comme point de rencontre entre les deux volontés, humaine et divine. Une maison à mi-chemin, un lieu pour se remettre des vicissitudes de la lutte matérielle, un lieu pour rafraîchir et purifier la volonté humaine, et se tourner à nouveau vers la quête de la connaissance de la volonté du Père. Un lieu où le Créateur peut venir « connaître l’homme et atteindre l’_expérience_ de la créature ». (<a id="a49_431"></a>[LU 111:2.8](/fr/The_Urantia_Book/111#p2_8))
 
 > _L'âme comme point de rencontre entre les deux volontés, humaine et divine. Une maison à mi-chemin, un lieu pour se remettre des vicissitudes de la lutte matérielle, un lieu pour rafraîchir et purifier la volonté humaine, et se tourner à nouveau vers la quête de la connaissance de la volonté du Père._
 
-L'âme en tant que _réactivité_ aux directives. À mesure que le Père descend, nous tendons de plus en plus la main en réponse. La conscience morale, les décisions de connaître la volonté du Père, créent l'âme. « Chaque fois qu’un homme fait un choix moral réfléchi, il fait immédiatement l’expérience d’une nouvelle invasion divine de son âme. » ([LU 196:3.20](/fr/The_Urantia_Book/196#p3_20))
+L'âme en tant que _réactivité_ aux directives. À mesure que le Père descend, nous tendons de plus en plus la main en réponse. La conscience morale, les décisions de connaître la volonté du Père, créent l'âme. « Chaque fois qu’un homme fait un choix moral réfléchi, il fait immédiatement l’expérience d’une nouvelle invasion divine de son âme. » (<a id="a53_346"></a>[LU 196:3.20](/fr/The_Urantia_Book/196#p3_20))
 
-L'âme comme mystère. Mais comment et pourquoi les décisions morales effectuent-elles le contact avec l’Ajusteur intérieur, donnant ainsi naissance à l’âme ? Comment l’âme grandit-elle réellement ? Comment et pourquoi en vient-il à devenir une « valeur universelle nouvelle, originale et unique » ([LU 111:2.3](/fr/The_Urantia_Book/111#p2_3)), totalement distincte de l'esprit et de l'esprit intérieur ? Qu’est-ce que la substance morontielle ? Quelles qualités l’âme tire-t-elle de l’esprit matériel ? Qu'est-ce qui vient de l'esprit intérieur ?
+L'âme comme mystère. Mais comment et pourquoi les décisions morales effectuent-elles le contact avec l’Ajusteur intérieur, donnant ainsi naissance à l’âme ? Comment l’âme grandit-elle réellement ? Comment et pourquoi en vient-il à devenir une « valeur universelle nouvelle, originale et unique » (<a id="a55_297"></a>[LU 111:2.3](/fr/The_Urantia_Book/111#p2_3)), totalement distincte de l'esprit et de l'esprit intérieur ? Qu’est-ce que la substance morontielle ? Quelles qualités l’âme tire-t-elle de l’esprit matériel ? Qu'est-ce qui vient de l'esprit intérieur ?
 
-> « *Les secrets d’Ascendington* comprennent le mystère de la construction graduelle et certaine, dans le mental matériel et mortel, d’une contrepartie spirituelle et potentiellement immortelle du caractère et de l’identité. Ce phénomène est un des plus troublants mystères des univers, ... » ([LU 13:1.22](/fr/The_Urantia_Book/13#p1_22))
+> « *Les secrets d’Ascendington* comprennent le mystère de la construction graduelle et certaine, dans le mental matériel et mortel, d’une contrepartie spirituelle et potentiellement immortelle du caractère et de l’identité. Ce phénomène est un des plus troublants mystères des univers, ... » (<a id="a57_294"></a>[LU 13:1.22](/fr/The_Urantia_Book/13#p1_22))
 
 « Nos distinctions sont cartésiennes : entre la réalité extérieure et tangible et les états d’esprit intérieurs, ou entre le corps et un conglomérat flou d’esprit, de psyché et d’esprit. Nous avons perdu la troisième position, la position médiane qui, plus tôt dans notre tradition, et dans d'autres aussi, était la place de l'âme : un monde d'imagination, de passion, de fantaisie, de réflexion, qui n'est ni physique et matériel d'une part, ni spirituel ou abstrait de l’autre, mais lié aux deux. (_De James Hillman, <ins>Revisioning Psychology</ins>, HarperCollins, 1975_)
 
-On nous dit que l’âme réside entre l’esprit intérieur et l’esprit humain, qu’elle agit comme un dépositaire des « contreparties spirituelles [de nos] carrières, des transcriptions morontielles de [notre] véritable progression… » Ces enregistrements sont produits sans cesse. par l’Ajusteur utilisant comme matériel de travail « chaque concept de l’intellect mortel ». Que se passe-t-il alors dans cette « position médiane », ce « milieu de l’esprit » ? L'âme est un stockage en ligne pour les doublons de concepts morontiels. L'Ajusteur en tant que transcripteur et éditeur, sélectionnant manuellement les concepts supérieurs de l'intellect mortel, les convertissant en substance morontielle, puis téléchargeant ces copies de concepts exaltés dans la base de données de significations et de valeurs de l'âme. Ici, les « dignes trésors de l’esprit mortel » deviennent une ressource éternelle, récupérable à l’infini par la personnalité survivante dans son ascension vers la fusion. (Cf. [LU 110:2.4-5](/fr/The_Urantia_Book/110#p2_4))
+On nous dit que l’âme réside entre l’esprit intérieur et l’esprit humain, qu’elle agit comme un dépositaire des « contreparties spirituelles [de nos] carrières, des transcriptions morontielles de [notre] véritable progression… » Ces enregistrements sont produits sans cesse. par l’Ajusteur utilisant comme matériel de travail « chaque concept de l’intellect mortel ». Que se passe-t-il alors dans cette « position médiane », ce « milieu de l’esprit » ? L'âme est un stockage en ligne pour les doublons de concepts morontiels. L'Ajusteur en tant que transcripteur et éditeur, sélectionnant manuellement les concepts supérieurs de l'intellect mortel, les convertissant en substance morontielle, puis téléchargeant ces copies de concepts exaltés dans la base de données de significations et de valeurs de l'âme. Ici, les « dignes trésors de l’esprit mortel » deviennent une ressource éternelle, récupérable à l’infini par la personnalité survivante dans son ascension vers la fusion. (Cf. <a id="a61_986"></a>[LU 110:2.4-5](/fr/The_Urantia_Book/110#p2_4))
 
-> « La valeur suprême de la vie humaine consiste dans la croissance des valeurs, dans le progrès des significations et dans la réalisation de la corrélation cosmique intime entre ces deux expériences. Et une telle expérience équivaut à avoir conscience de Dieu. Un tel mortel, bien que n’étant pas surnaturel, devient vraiment suprahumain ; une âme immortelle est en évolution. » ([LU 100:3.6](/fr/The_Urantia_Book/100#p3_6))
+> « La valeur suprême de la vie humaine consiste dans la croissance des valeurs, dans le progrès des significations et dans la réalisation de la corrélation cosmique intime entre ces deux expériences. Et une telle expérience équivaut à avoir conscience de Dieu. Un tel mortel, bien que n’étant pas surnaturel, devient vraiment suprahumain ; une âme immortelle est en évolution. » (<a id="a63_381"></a>[LU 100:3.6](/fr/The_Urantia_Book/100#p3_6))
 
 Les valeurs sont ressenties sans médiation mentale ; la perception de la valeur est _immédiate_ et existentielle. L'esprit ajoute du sens aux valeurs ressenties par l'âme.
 
@@ -47,7 +71,7 @@ Le lieu de l’identification des valeurs se trouve dans l’âme de celui qui e
 
 > La notion de Qualité désigne des réalités existentielles indépendantes de tout sujet ou objet particulier. Les valeurs sont découvertes dans et par l’âme, et non inventées et considérées comme un objet par l’esprit matériel.
 
-La notion de Qualité désigne des réalités existentielles indépendantes de tout sujet ou objet particulier. Les valeurs sont découvertes dans et par l'âme, non inventées et tenues comme un objet par l'esprit matériel. « En ce qui concerne... la reconnaissance des valeurs morales... tout ce que l'esprit humain peut faire, c'est découvrir, reconnaître, interpréter et _choisir_. » ([LU 196:3.10](/fr/The_Urantia_Book/196#p3_10)) La philosophie peut fournir une explication ininterrompue des choses, des significations et des valeurs, mais les valeurs lorsqu'elles sont appréhendées pour la première fois par l'âme ne supportent aucune explication, sont _antérieures_ à toute explication.
+La notion de Qualité désigne des réalités existentielles indépendantes de tout sujet ou objet particulier. Les valeurs sont découvertes dans et par l'âme, non inventées et tenues comme un objet par l'esprit matériel. « En ce qui concerne... la reconnaissance des valeurs morales... tout ce que l'esprit humain peut faire, c'est découvrir, reconnaître, interpréter et _choisir_. » (<a id="a73_381"></a>[LU 196:3.10](/fr/The_Urantia_Book/196#p3_10)) La philosophie peut fournir une explication ininterrompue des choses, des significations et des valeurs, mais les valeurs lorsqu'elles sont appréhendées pour la première fois par l'âme ne supportent aucune explication, sont _antérieures_ à toute explication.
 
 Si les rêves sont la voie royale vers l’inconscient, l’intuition est la voie royale vers l’âme. Bien que l’âme soit bien plus qu’un registre d’émotions, le sentiment est un guide des préoccupations de l’âme. Les sentiments et les intuitions – les échos lointains des pulsions de l'âme désormais reconnues par l'esprit – conduisent à des questions formulées par l'esprit, et les questions posées à l'âme conduisent à un progrès dans les significations.
 
@@ -55,12 +79,37 @@ Si les rêves sont la voie royale vers l’inconscient, l’intuition est la voi
 
 Grâce à une relation interrogative et dynamique avec l'Être, les sentiments et les orientations de l'âme, l'esprit matériel reconnaît les valeurs ressenties par l'âme. Grâce à l'interprétation et au choix, l'esprit atteint de nouveaux niveaux dans la compréhension de la signification de ces valeurs. La croissance quantitative de l’âme est impossible là où l’éventail des sentiments et intuitions humaines est ignoré, réprimé ou banalisé. Lorsque les significations facilement disponibles et réalisables de l’expérience sont perdues, l’âme languit et la portée des décisions et des actions est diminuée.
 
-Le développement de l'âme se produit dans deux dimensions : la conscience de Dieu et la conscience de la qualité suprême de réalisation des valeurs, et la quantité de relation avec la réalité cosmique. Mais cette croissance est toujours conditionnée par des décisions, par la volonté humaine de faire la volonté divine : la décision d’intuitionner, puis de penser, puis d’agir à la lumière de la foi. ([LU 110:6.17](/fr/The_Urantia_Book/110#p6_17))
+Le développement de l'âme se produit dans deux dimensions : la conscience de Dieu et la conscience de la qualité suprême de réalisation des valeurs, et la quantité de relation avec la réalité cosmique. Mais cette croissance est toujours conditionnée par des décisions, par la volonté humaine de faire la volonté divine : la décision d’intuitionner, puis de penser, puis d’agir à la lumière de la foi. (<a id="a81_402"></a>[LU 110:6.17](/fr/The_Urantia_Book/110#p6_17))
 
 > « Le cognomen commun de ce monde... est une « vallée de larmes »... Quelle petite notion circonscrite et redressée ! … Appelez le monde une « vallée de création d’âmes », alors vous découvrirez l’utilité du monde. (_John Keats, <ins>Lettre à son frère</ins>, 21 avril 1819._)
 
-« Jésus ne considérait guère ce monde comme une « vallée de larmes », mais plutôt comme la « vallée de création des âmes », la sphère natale des esprits éternels et immortels destinés à monter au Paradis. » ([LU 149:5.5](/fr/The_Urantia_Book/149#p5_5)) À mesure que l’âme évolue, nous développons un autre aspect de l’esprit, une conscience secondaire ou « intermédiaire », et notre identité passe progressivement de la conscience de soi matérielle à la conscience des valeurs, de l’âme ou de l’esprit. Nous vivons psychologiquement de plus en plus dans « le royaume de Dieu ».
+« Jésus ne considérait guère ce monde comme une « vallée de larmes », mais plutôt comme la « vallée de création des âmes », la sphère natale des esprits éternels et immortels destinés à monter au Paradis. » (<a id="a85_208"></a>[LU 149:5.5](/fr/The_Urantia_Book/149#p5_5)) À mesure que l’âme évolue, nous développons un autre aspect de l’esprit, une conscience secondaire ou « intermédiaire », et notre identité passe progressivement de la conscience de soi matérielle à la conscience des valeurs, de l’âme ou de l’esprit. Nous vivons psychologiquement de plus en plus dans « le royaume de Dieu ».
 
 > Byron a été journaliste et producteur de télévision et est actuellement consultant dans l'industrie des télécommunications.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Mind_of_God_by_Paul_Davies">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : L'esprit de Dieu de Paul Davies</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jack_Rogers/The_Quest_for_Indigeneity_The_Missionary_Challenge">
+          <span class="pr-2">La quête de l'indigénéité : le défi missionnaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

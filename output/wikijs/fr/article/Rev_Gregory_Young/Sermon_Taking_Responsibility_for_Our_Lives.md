@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Révérend Gregory Young<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre avec le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="pr-2">Les Psaumes aujourd'hui : un nouveau chant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'histoire de la Création dans [Genèse 1:26](/fr/Bible/Genesis/1#v26) dit : « Faisons l'homme à notre image et ressemblance... » Nous sommes créés à l'image de Dieu. Nos racines sont ancrées dans la Réalité Ultime. Il s’agit certes d’une déclaration étonnante et stimulante. Qu'est-ce que ça veut dire? Cela signifie qu’il y a bien plus pour vous que ce que vous voyez, et bien plus qui vous attend au cours de votre voyage à travers cette vie et au-delà que ce que vous pouvez imaginer dans vos rêves les plus fous et les plus pleins d’espoir. Une telle pensée n’est-elle pas excitante et intrigante ! Eh bien, c'est vrai, et dans cette série, je vais vous inviter à un voyage avec moi, alors qu'ensemble nous explorons comment nous pourrions grandir personnellement et en tant que communauté en termes de stature et de vision spirituelles.
@@ -54,3 +78,28 @@ Sachez que Dieu vous tient tendrement dans sa main et vous mènera dans une carr
 > _Gregory Young est pasteur de l'église unie du Christ St. John à Germantown, Wisconsin._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Irene_L_Sprunger/Encountering_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rencontre avec le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_5">
+          <span class="pr-2">Les Psaumes aujourd'hui : un nouveau chant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

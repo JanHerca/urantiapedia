@@ -13,9 +13,9 @@ dateCreated: 2023-01-21T14:02:03.086Z
 
 ## But
 
-> Le dessein de l’évolution cosmique est d’atteindre l’unité de la personnalité par une maitrise croissante de l’esprit, par une réponse volitive aux enseignements et aux directives de l’Ajusteur de Pensée. ([LU 112:2.15](/fr/The_Urantia_Book/112#p2_15))
+> Le dessein de l’évolution cosmique est d’atteindre l’unité de la personnalité par une maitrise croissante de l’esprit, par une réponse volitive aux enseignements et aux directives de l’Ajusteur de Pensée. (<a id="a15_208"></a>[LU 112:2.15](/fr/The_Urantia_Book/112#p2_15))
 
-> « Bien que cet évangile du royaume ne manque jamais d’apporter une grande paix dans l’âme des croyants individuels, il n’apportera pas la paix sur terre avant que les hommes ne soient disposés à croire de tout leur cœur à mes enseignements et à instaurer la pratique de **faire la volonté du Père** comme **but principal de leur vie** de mortels. » **Quand une personne trouve Dieu, elle a tout trouvé**. ([LU 180:6.1](/fr/The_Urantia_Book/180#p6_1))
+> « Bien que cet évangile du royaume ne manque jamais d’apporter une grande paix dans l’âme des croyants individuels, il n’apportera pas la paix sur terre avant que les hommes ne soient disposés à croire de tout leur cœur à mes enseignements et à instaurer la pratique de **faire la volonté du Père** comme **but principal de leur vie** de mortels. » **Quand une personne trouve Dieu, elle a tout trouvé**. (<a id="a17_408"></a>[LU 180:6.1](/fr/The_Urantia_Book/180#p6_1))
 
 ## Religion
 

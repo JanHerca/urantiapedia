@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Ken Glasziou<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi certains ministres ne lisent pas le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="pr-2">Les Psaumes aujourd'hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le Livre d'Urantia_ prétend être une révélation donnée aux mortels par des êtres célestes. Lorsque j’ai découvert le livre pour la première fois, j’ai supposé qu’il avait été écrit par un comité d’universitaires bien intentionnés ayant pour mission de sauver le monde. En me familiarisant davantage avec le contenu du livre, j'ai été impressionné non seulement par la qualité et la cohérence de son message, mais j'ai également remarqué des éléments de nature scientifique qui ne pouvaient être que des conjectures au moment où les articles ont été reçus. Il n’était pas logique qu’un groupe d’auteurs manifestement compétents et talentueux risquent de compromettre l’acceptation de leur travail en incluant du matériel prophétique controversé, d’autant plus que le livre aurait facilement pu être reconnu comme une œuvre philosophique et religieuse de grand mérite.
@@ -44,6 +68,31 @@ L'étude comparant la conférence du Dr Sadler, « L'évolution de l'âme », av
 > Ken Glasziou est un chercheur scientifique à la retraite qui est actif dans le travail de l'Église en Australie. Il est l'auteur de _Science and Religion: The New Age Beyond_ 2000 A..D. et _Christ ou Chaos : L'évolution d'une révélation_.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Austin/Why_Some_Ministers_Dont_Read_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pourquoi certains ministres ne lisent pas le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_2">
+          <span class="pr-2">Les Psaumes aujourd'hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

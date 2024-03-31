@@ -1,5 +1,5 @@
 ---
-title: "Spiritual Fellowship Journal — Contenu du numéro, automne 1996"
+title: "Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1996"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Spiritual_Decadence_and_Rebirth">
+          <span class="pr-2">Décadence spirituelle et renaissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 6, numéro 2, automne 1996
@@ -68,7 +89,7 @@ Nancy Long
 Marvel Zuercher
 Paul Zuercher
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of _The Urantia Book_ de Fort Wayne, Indiana.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of _The Urantia Book_ de Fort Wayne, Indiana.
 
 Les commandes d’abonnement, les changements d’adresse et la correspondance éditoriale doivent être envoyés à :
 
@@ -121,7 +142,7 @@ Copyright © 1996, Tous droits réservés.
 
 La Société new-yorkaise des étudiants du _Livre d'Urantia_ encourage les traductions du _Le Livre d'Urantia_ en russe et en coréen. La Société prévoit d'achever la première ébauche de la traduction russe d'ici la fin de 1998, et la première ébauche de la traduction coréenne de la Vie et des Enseignements de Jésus d'ici l'automne 1996. Des informations sur la traduction russe peuvent être obtenues auprès de Leela. Dogim, 201-886-2243 ; et un rapport concernant la traduction coréenne peut être obtenu auprès de Barry Clark, 201-438-3359. Des informations générales sur le projet de traduction peuvent être obtenues auprès d'Eileen Laurence, 914-273-8922.
 
-> Jésus dépeignit la sécurité profonde de l’homme connaissant Dieu en disant : « Pour celui qui connait Dieu et croit au royaume, qu’importe si toutes les choses terrestres s’effondrent ? » Les sécurités temporelles sont vulnérables, mais les sécurités spirituelles sont invulnérables. Quand les marées de l’adversité humaine, de l’égoïsme, de la cruauté, de la haine, de la méchanceté et de la jalousie viennent battre l’âme du mortel, on peut se reposer dans l’assurance qu’il existe un bastion intérieur, la citadelle de l’esprit, qui est absolument inexpugnable ; du moins est-ce vrai pour tout être humain qui a confié la garde de son âme à l’esprit intérieur du Dieu éternel. ([LU 100:2.7](/fr/The_Urantia_Book/100#p2_7))
+> Jésus dépeignit la sécurité profonde de l’homme connaissant Dieu en disant : « Pour celui qui connait Dieu et croit au royaume, qu’importe si toutes les choses terrestres s’effondrent ? » Les sécurités temporelles sont vulnérables, mais les sécurités spirituelles sont invulnérables. Quand les marées de l’adversité humaine, de l’égoïsme, de la cruauté, de la haine, de la méchanceté et de la jalousie viennent battre l’âme du mortel, on peut se reposer dans l’assurance qu’il existe un bastion intérieur, la citadelle de l’esprit, qui est absolument inexpugnable ; du moins est-ce vrai pour tout être humain qui a confié la garde de son âme à l’esprit intérieur du Dieu éternel. (<a id="a144_683"></a>[LU 100:2.7](/fr/The_Urantia_Book/100#p2_7))
 
 ## _Ressources du Livre d'Urantia_
 
@@ -131,3 +152,25 @@ Dr. Duane L. Faw, professeur émérite de droit à la faculté de droit de l'Uni
 
 Une _Concordance du Livre d'Urantia_ exhaustive a été publiée par la Fondation Urantia en 1993. Si votre librairie locale ne propose pas le _Le Livre d'Urantia_ ou la _Concordance du Livre d'Urantia_, ils peuvent être commandés auprès de la Fondation Urantia, 533 Diversey Parkway, Chicago, IL 60614. L'Urantia La Fondation publie également des éditions française, espagnole et finlandaise du _Le Livre d'Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Spiritual_Decadence_and_Rebirth">
+          <span class="pr-2">Décadence spirituelle et renaissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

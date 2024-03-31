@@ -11,11 +11,11 @@ dateCreated: 2022-09-26T04:27:09.642Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « _Il faut aussi vous rappeler que vous êtes mes messagers. Vous êtes tenus de vivre votre vie comme j’ai vécu la mienne en esprit._ » ([LU 140:6.8](/fr/The_Urantia_Book/140#p6_8))
+> « _Il faut aussi vous rappeler que vous êtes mes messagers. Vous êtes tenus de vivre votre vie comme j’ai vécu la mienne en esprit._ » (<a id="a13_138"></a>[LU 140:6.8](/fr/The_Urantia_Book/140#p6_8))
 
 On prétend souvent que vivre notre vie comme Jésus a vécu la sienne est une proposition tout à fait peu pratique. Ce serait le cas si nous essayions d’imiter Jésus, mais son exhortation n’était pas cela – il s’agissait plutôt de vivre notre vie comme lui en esprit vivait la sienne.
 
-Nous avons également : « _L'une des choses les plus importantes dans la vie humaine est de découvrir ce que Jésus croyait, de découvrir ses idéaux et de s'efforcer d'atteindre son objectif de vie exalté. De toutes les connaissances humaines, celle qui a la plus grande valeur est de connaître la vie religieuse de Jésus et comment il l'a vécue._ » ([LU 196:1.3](/fr/The_Urantia_Book/196#p1_3)) Certaines des exhortations de Jésus suivent :
+Nous avons également : « _L'une des choses les plus importantes dans la vie humaine est de découvrir ce que Jésus croyait, de découvrir ses idéaux et de s'efforcer d'atteindre son objectif de vie exalté. De toutes les connaissances humaines, celle qui a la plus grande valeur est de connaître la vie religieuse de Jésus et comment il l'a vécue._ » (<a id="a17_349"></a>[LU 196:1.3](/fr/The_Urantia_Book/196#p1_3)) Certaines des exhortations de Jésus suivent :
 
 - Être humble.
 - Ne résistez pas au mal. Si quelqu’un vous frappe sur la joue droite, tendez l’autre joue.

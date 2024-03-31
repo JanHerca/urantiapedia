@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume5_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology_2">
+          <span class="pr-2">Le scandale de la cosmologie spirituelle actuelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous vivons l’un des tournants majeurs de l’histoire. Notre époque a été diversement qualifiée d’ère post-industrielle, post-moderne et post-chrétienne. Les paradigmes traditionnels de la cosmologie, de la valeur et de la réalité ont perdu leur pertinence et leur autorité incontestées parmi les peuples contemporains. Les institutions sociales qui étaient structurées par ces concepts et valeurs traditionnels se détériorent en termes de vitalité et d'influence. Les infrastructures économiques et politiques de la société s’effondrent et perdent leur crédibilité et leur efficacité. Les mœurs qui constituent le fondement du comportement humain et des normes éthiques de la société s’effondrent et l’immoralité, le crime et la violence sont endémiques. Les institutions religieuses qui étaient autrefois les piliers centraux de la société sont désormais reléguées à une position périphérique.
@@ -23,3 +47,28 @@ La racine de l’effondrement des comportements individuels, de la détériorati
 
 L’ingrédient singulier qui apportera sens et unité à l’existence planétaire est un paradigme de réalité inspirant qui harmonisera la science, la philosophie et la religion et incitera l’humanité à lutter pour des buts et des objectifs communs. Seule une vision nouvelle et élargie, révélatrice de la réalité, a le potentiel d’y parvenir. Espérons que les chercheurs de notre monde découvriront la Cinquième Révélation d’Époque au XXIe siècle. _Le Livre d'Urantia_ est la seule source de réalité qui soit suffisamment grande et suffisamment puissante spirituellement pour unifier et dynamiser la planète entière. Enculturer le monde avec les enseignements inspirants et ennoblissants de la Cinquième Révélation d’Époque est le défi du XXIe siècle !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume5_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1995</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Scandal_of_Current_Spiritual_Cosmology_2">
+          <span class="pr-2">Le scandale de la cosmologie spirituelle actuelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

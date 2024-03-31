@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Dr. Bruce R. Jackson<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La famille – Berceau de la citoyenneté cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="pr-2">Attitude spirituelle » sincère [LU 155 : 6.12] = « Action positive » [LU 159 : 5.1]</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Vivons-nous dans une Renaissance ?
@@ -78,3 +102,28 @@ C’est en effet un défi de taille. Sommes-nous prêts à faire l’effort ? Le
 > _Bruce Jackson est professeur adjoint de sciences humaines à l'Université Lincoln du Missouri. Il joue et compose du jazz, de la musique populaire et religieuse pour son groupe familial avec ses trois fils (17, 15 et 12 ans). Ce natif de l'Arkansas vit actuellement à Columbia, MO._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La famille – Berceau de la citoyenneté cosmique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Nancy_Bigelow/A_Sincere_Spiritual_Attitude_Positive_Doing">
+          <span class="pr-2">Attitude spirituelle » sincère [LU 155 : 6.12] = « Action positive » [LU 159 : 5.1]</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

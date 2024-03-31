@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Bruce Barton<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Our_Urantian_in_Pakistan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre Urantien au Pakistan : Extraits des lettres de Nadia à J.J. Johnson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Je faisais partie de ceux que certains appellent : « les sans église ». En tant qu'Urantien, j'ai parfois senti que cela me donnait de grands avantages par rapport à beaucoup d'autres lecteurs. D’une part, je n’avais presque aucun bagage religieux – j’avais ma propre idée de ce qu’était vraiment Jésus. Je n’allais presque jamais à l’église et, même si la famille était techniquement catholique, je ne connaissais presque rien de cette religion. Un jour, vers l'âge de neuf ans, je suis tombé sur un vieux livre dans une boîte de notre sous-sol. Il s’intitulait : « L’homme que personne ne connaît… une découverte du vrai Jésus ». Il a été écrit par Bruce Barton, qui (je le découvrirai plusieurs années plus tard) était un célèbre publicitaire. Ce livre a fait une grande impression sur mon jeune esprit. D'une manière ou d'une autre, j'ai conservé ce livre au fil des années. En tant qu'Urantien, plusieurs années plus tard, je suis étonné de voir à quel point Bruce Barton a été proche, en 1924, de décrire ce que je crois être le vrai Jésus. J'espère que vous apprécierez ces extraits._
@@ -214,7 +235,29 @@ Même Pilate l’a ressenti. Les deux hommes offraient un étrange contraste : l
 
 _Les Cahiers d'Urantia — La Cinquième Révélation d'Époque — nous fournissent ces informations supplémentaires et révélatrices :_
 
-> « Pilate était plus proche de la vérité qu’il ne le croyait quand, après avoir fait flageller Jésus, il le présenta à la foule en s’écriant : « Voici l’homme ! » En vérité le gouverneur romain, transi de peur, n’imaginait guère qu’au même instant l’univers se tenait au garde-à-vous, contemplant le spectacle unique de son Souverain bienaimé ainsi humilié et subissant les sarcasmes et les coups de ses sujets mortels avilis et plongés dans l’ignorance. Pendant que Pilate parlait, la phrase « Voici Dieu et l’homme ! » retentissait dans tout Nébadon. Depuis lors, dans un univers entier, des myriades de créatures ont continué à contempler cet homme, tandis que le Dieu de Havona, chef suprême de l’univers des univers, accepte l’homme de Nazareth comme satisfaisant l’idéal des créatures mortelles de cet univers local du temps et de l’espace. Dans sa vie incomparable, Jésus ne manqua jamais de révéler Dieu à l’homme. Maintenant, au cours de ces derniers épisodes de sa carrière humaine et de sa mort subséquente, il faisait une nouvelle et émouvante révélation de l’homme à Dieu. » ([LU 186:2.11](/fr/The_Urantia_Book/186#p2_11))
+> « Pilate était plus proche de la vérité qu’il ne le croyait quand, après avoir fait flageller Jésus, il le présenta à la foule en s’écriant : « Voici l’homme ! » En vérité le gouverneur romain, transi de peur, n’imaginait guère qu’au même instant l’univers se tenait au garde-à-vous, contemplant le spectacle unique de son Souverain bienaimé ainsi humilié et subissant les sarcasmes et les coups de ses sujets mortels avilis et plongés dans l’ignorance. Pendant que Pilate parlait, la phrase « Voici Dieu et l’homme ! » retentissait dans tout Nébadon. Depuis lors, dans un univers entier, des myriades de créatures ont continué à contempler cet homme, tandis que le Dieu de Havona, chef suprême de l’univers des univers, accepte l’homme de Nazareth comme satisfaisant l’idéal des créatures mortelles de cet univers local du temps et de l’espace. Dans sa vie incomparable, Jésus ne manqua jamais de révéler Dieu à l’homme. Maintenant, au cours de ces derniers épisodes de sa carrière humaine et de sa mort subséquente, il faisait une nouvelle et émouvante révélation de l’homme à Dieu. » (<a id="a237_1090"></a>[LU 186:2.11](/fr/The_Urantia_Book/186#p2_11))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Our_Urantian_in_Pakistan">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre Urantien au Pakistan : Extraits des lettres de Nadia à J.J. Johnson</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

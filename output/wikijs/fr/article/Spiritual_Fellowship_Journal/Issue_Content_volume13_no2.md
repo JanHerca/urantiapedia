@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="pr-2">Les journaux de Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***pour les étudiants et les croyants à la Révélation des Fascicules d'Urantia***
@@ -30,7 +51,7 @@ Volume 13, numéro 2, automne et hiver, 2003-2004
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo2.jpg">
 </figure>
 
-> APRÈS PRES DE TROIS ANS, nous avons fait nos adieux en tant qu'éditeurs et producteurs exclusifs de _The Spiritual Fellowship Journal_, alors qu'une nouvelle équipe TSF assume ces responsabilités. Nous avons apprécié cette tâche, c'était un travail d'amour. Merci à tous ceux qui ont rédigé des articles et qui ont soutenu la Revue.
+> APRÈS PRES DE TROIS ANS, nous avons fait nos adieux en tant qu'éditeurs et producteurs exclusifs de _Journal de la Fraternité Spirituelle_, alors qu'une nouvelle équipe TSF assume ces responsabilités. Nous avons apprécié cette tâche, c'était un travail d'amour. Merci à tous ceux qui ont rédigé des articles et qui ont soutenu la Revue.
 > 
 > Larry et Joan Mullins
 
@@ -90,9 +111,9 @@ Merlyn Cox.<br>
 </p>
 
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an. La division des publications religieuses de Penumbra Press n'en sera plus l'éditeur. Le prochain numéro sera publié par The Spiritual Fellowship.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an. La division des publications religieuses de Penumbra Press n'en sera plus l'éditeur. Le prochain numéro sera publié par The Spiritual Fellowship.
 
-Sauf indication contraire, tout le matériel publié dans ce numéro de _The Spiritual Fellowship Journal_ est © Copyright 2004 par Penumbra Press, Boulder CO, et tous les droits sont réservés.
+Sauf indication contraire, tout le matériel publié dans ce numéro de _Journal de la Fraternité Spirituelle_ est © Copyright 2004 par Penumbra Press, Boulder CO, et tous les droits sont réservés.
 
 Les souscriptions, dons, changements d'adresse, articles et correspondance éditoriale doivent désormais être adressés à :
 
@@ -130,5 +151,27 @@ Don annuel suggéré : \$10. Veuillez libeller votre chèque à l'ordre de : The
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">
 </figure>
 
-> « Quand le vent souffle, tu entends le bruissement des feuilles, mais tu ne vois pas le vent — ni d’où il vient ni où il va — et il en est ainsi pour quiconque est né de l’esprit. Avec les yeux de la chair, on peut apercevoir les manifestations de l’esprit, mais on ne peut effectivement discerner l’esprit. » ([LU 142:6.5](/fr/The_Urantia_Book/142#p6_5))
+> « Quand le vent souffle, tu entends le bruissement des feuilles, mais tu ne vois pas le vent — ni d’où il vient ni où il va — et il en est ainsi pour quiconque est né de l’esprit. Avec les yeux de la chair, on peut apercevoir les manifestations de l’esprit, mais on ne peut effectivement discerner l’esprit. » (<a id="a153_313"></a>[LU 142:6.5](/fr/The_Urantia_Book/142#p6_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Sherman_Diaries">
+          <span class="pr-2">Les journaux de Sherman</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

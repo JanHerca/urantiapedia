@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Merlyn Cox<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Spiritual_Courage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Courage spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Sharing_a_Gift_Beyond_Words">
+          <span class="pr-2">Partager un don au-delà des mots</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Bien-aimés, l'Église est de Dieu et sera préservée jusqu'à la fin des temps... Tous, de tout âge et de toute condition, ont besoin des moyens de grâce qu'elle seule fournit. » Ainsi commence l'ordre de confirmation et de réception dans l'une de nos principales églises protestantes. Cela sonne avec autorité et fait écho à la conviction fondamentale que Dieu a appelé un peuple de l’alliance pour partager la Bonne Nouvelle avec toute la terre.
@@ -33,7 +57,32 @@ L'Église n'a pas besoin de se prendre au sérieux pour prendre son mandat au s�
 
 Il semble que nous n'apprécions pas l'affirmation de Karl Barth selon laquelle la foi « a à voir avec le Royaume et n'a rien à voir avec l'Église ». Jusqu’à ce que nous le fassions, notre posture défensive et d’autojustification ne fera qu’obscurcir la Bonne Nouvelle dont nous sommes appelés à témoigner.
 
-_Le Livre d'Urantia_ montre clairement que, bien que l'Église ait été le meilleur représentant de l'œuvre de la vie de Jésus sur terre, elle est loin d'être à la hauteur de la communion spirituelle vivante que Jésus envisageait pour ses disciples. En fait, « les Églises chrétiennes du vingtième siècle se dressent comme des obstacles immenses, mais d’une manière totalement inconsciente, devant le progrès immédiat du véritable évangile — les enseignements de Jésus de Nazareth ». ([LU 195:10.8](/fr/The_Urantia_Book/195#p10_8))
+_Le Livre d'Urantia_ montre clairement que, bien que l'Église ait été le meilleur représentant de l'œuvre de la vie de Jésus sur terre, elle est loin d'être à la hauteur de la communion spirituelle vivante que Jésus envisageait pour ses disciples. En fait, « les Églises chrétiennes du vingtième siècle se dressent comme des obstacles immenses, mais d’une manière totalement inconsciente, devant le progrès immédiat du véritable évangile — les enseignements de Jésus de Nazareth ». (<a id="a59_483"></a>[LU 195:10.8](/fr/The_Urantia_Book/195#p10_8))
 
 La survie de l’Église telle que nous la connaissons est une question secondaire par rapport au triomphe certain du Royaume de Dieu. Comme Jean le disait aux Israélites qui se vantaient de leur héritage : « N'ayez pas la prétention de vous dire : 'Nous avons Abraham pour ancêtres' ; car je vous le dis, de ces pierres Dieu peut susciter des enfants à Abraham. _Le Livre d'Urantia_ présente le grand espoir que l'Église sortira de son « stade larvaire » et sera transformée par, et proclamera plus clairement, le véritable Évangile à la terre entière : l'Évangile _de_ Jésus plutôt que l'Évangile de Jésus. S’il n’y parvient pas, Dieu suscitera sans aucun doute de nouveaux prophètes et un peuple qui le fera.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Spiritual_Courage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Courage spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Sharing_a_Gift_Beyond_Words">
+          <span class="pr-2">Partager un don au-delà des mots</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

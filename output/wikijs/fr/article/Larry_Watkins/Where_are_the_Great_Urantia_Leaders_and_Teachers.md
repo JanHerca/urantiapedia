@@ -9,9 +9,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Larry Watkins<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paix personnelle et globale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eric_Cosh/Is_this_a_Boring_Movement">
+          <span class="pr-2">Est-ce un mouvement ennuyeux ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Dans le numéro d'automne et d'hiver 2002-2003 du _The Spiritual Fellowship Journal_, un éditorial soulevait une fois de plus la question récurrente : « _Où sont les grands dirigeants et enseignants d'Urantia ?_ » C'est une question souvent exprimée parmi les Urantiens depuis les premiers jours. du mouvement, on pensait que le développement futur de la révélation devait passer par la création de milliers de groupes d'étude et par des enseignants urantiens formés instruisant le public dans la science, la religion, l'histoire et la philosophie urantiennes.
+
+Dans le numéro d'automne et d'hiver 2002-2003 du _Journal de la Fraternité Spirituelle_, un éditorial soulevait une fois de plus la question récurrente : « _Où sont les grands dirigeants et enseignants d'Urantia ?_ » C'est une question souvent exprimée parmi les Urantiens depuis les premiers jours. du mouvement, on pensait que le développement futur de la révélation devait passer par la création de milliers de groupes d'étude et par des enseignants urantiens formés instruisant le public dans la science, la religion, l'histoire et la philosophie urantiennes.
 
 Cinquante ans après la publication du livre, il se peut qu'il n'y ait qu'un millier de groupes d'étude dans le monde, mais pas plus de plusieurs centaines aux États-Unis. Les écoles d'Urantia se sont succédées et il n'y a aucun processus de formation formel en place. Il n’est pas étonnant que la question « _Où sont les grands dirigeants et enseignants d’Urantia_ » continue d’être posée.
 
@@ -50,3 +74,28 @@ Ceci et d'autres observations statistiques sur le texte du _Le Livre d'Urantia_ 
 
 http://www.ubook.org/lwatkins/LUStats/StatisticsIndex.htm
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Anton_Schmalz/Personal_and_Global_Peace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Paix personnelle et globale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Eric_Cosh/Is_this_a_Boring_Movement">
+          <span class="pr-2">Est-ce un mouvement ennuyeux ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_Twenty_First_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du XXIe siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Hidden_God">
+          <span class="pr-2">Interface : Le Dieu caché</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La cosmologie matérielle du monde biblique préscientifique était une vision simpliste d’une terre plate surmontée d’un firmament comportant des trous (étoiles) à travers lesquels la lumière du ciel apparaissait. Notre cosmologie matérielle scientifique quadridimensionnelle actuelle, dans laquelle les distances sont mesurées en années-lumière, indique à quel point l’astronomie biblique est obsolète. Même les fondamentalistes religieux d’aujourd’hui ont abandonné une cosmologie matérielle plate.
@@ -19,3 +43,28 @@ Ce qui est étonnant, c’est que les théologiens progressistes et libéraux du
 
 Ici, comme dans tant d'autres domaines de l'illumination spirituelle, le Livre d'Urantia présente une vision élargie de la réalité spirituelle. La cosmologie spirituelle de la Cinquième Révélation d’Époque éclipse même la gigantesque cosmologie matérielle de l’astronomie contemporaine. À mesure que la connaissance de la cosmologie spirituelle infinie du Livre d'Urantia s'infiltre dans notre monde, elle apportera un nouveau sens et un nouveau but à toute la vie. Les jeunes seront une fois de plus enthousiasmés par le défi de la croissance et de la réussite spirituelles, tandis que les plus âgés seront inspirés par le potentiel de l'aventure au-delà de la tombe.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Challenge_of_Twenty_First_Century">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le défi du XXIe siècle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Hidden_God">
+          <span class="pr-2">Interface : Le Dieu caché</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

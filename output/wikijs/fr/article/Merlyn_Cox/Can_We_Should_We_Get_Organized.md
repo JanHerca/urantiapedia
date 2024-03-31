@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Merlyn Cox<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les débuts des graines de moutarde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="pr-2">Votre partie préférée de l'Apocalypse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 J'ai récemment assisté à un atelier sur « Le leadership au 21e siècle ».[^1] Il était animé par des spécialistes de la croissance des églises qui étudient depuis de nombreuses années la façon dont fonctionnent les églises florissantes (environ 10 %) par rapport à celles qui ne le sont pas ( environ 90\%). Il s’agissait d’un événement provocateur et stimulant, rempli d’idées qui pourraient profiter à la plupart des organisations, en particulier les églises et autres organisations à but non lucratif. [^2]
@@ -23,8 +47,33 @@ Qu’est-ce que cela a à voir avec le mouvement Urantia ? Nous sommes clairemen
 
 Il ne faut pas nous rappeler ce que Jésus a déclaré si clairement : que nous n’atteindrons jamais l’uniformité de pensée ; nous ne pouvons que nous efforcer de parvenir à une unité d’esprit. Nous ne pourrons pas, et nous ne devrions pas essayer, de contrôler la portée du mouvement Urantia croissant à travers une organisation centrale et bureaucratique – la communauté Urantia est trop diversifiée, créative, « chaotique ». Nous devrions plutôt nous efforcer, je crois, de créer des structures flexibles, façonnées par un objectif clair, avec des frontières larges mais claires – des structures qui permettront et encourageront les individus et les groupes à trouver leur « vocation » au sein du mouvement. Nous pouvons reconnaître et nous réjouir que le Père a la capacité infinie de s’adapter aux besoins de chacune de ses créatures, en toute circonstance, et faire confiance à son Esprit pour faire son travail comme nous faisons le nôtre.
 
-> Jésus était vraiment un meneur d’hommes. Il exerçait une grande influence sur ses semblables à cause de la combinaison de charme et de force de sa personnalité. De sa rude vie de nomade sans foyer, il se dégageait une subtile influence de commandement. Il y avait une attirance intellectuelle et un pouvoir d’attraction spirituelle dans sa manière d’enseigner pleine d’autorité, dans sa logique lucide, dans sa force de raisonnement, dans sa clairvoyance sagace, dans la vivacité de son mental, dans son équilibre incomparable et dans sa sublime tolérance. Jésus était simple, viril, honnête et sans peur. Accompagnant toute l’influence physique et intellectuelle manifestée dans la présence du Maitre, il y avait aussi tous les charmes spirituels de l’être désormais attachés à sa personnalité — la patience, la tendresse, la mansuétude, la douceur et l’humilité. ([LU 141:3.4](/fr/The_Urantia_Book/141#p3_4))
+> Jésus était vraiment un meneur d’hommes. Il exerçait une grande influence sur ses semblables à cause de la combinaison de charme et de force de sa personnalité. De sa rude vie de nomade sans foyer, il se dégageait une subtile influence de commandement. Il y avait une attirance intellectuelle et un pouvoir d’attraction spirituelle dans sa manière d’enseigner pleine d’autorité, dans sa logique lucide, dans sa force de raisonnement, dans sa clairvoyance sagace, dans la vivacité de son mental, dans son équilibre incomparable et dans sa sublime tolérance. Jésus était simple, viril, honnête et sans peur. Accompagnant toute l’influence physique et intellectuelle manifestée dans la présence du Maitre, il y avait aussi tous les charmes spirituels de l’être désormais attachés à sa personnalité — la patience, la tendresse, la mansuétude, la douceur et l’humilité. (<a id="a49_868"></a>[LU 141:3.4](/fr/The_Urantia_Book/141#p3_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les débuts des graines de moutarde</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="pr-2">Votre partie préférée de l'Apocalypse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

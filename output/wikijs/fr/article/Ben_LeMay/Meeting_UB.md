@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Ben LeMay<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Days_and_Dates_in_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jours et dates dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="pr-2">La vengeance de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ma vie a été une merveilleuse séquence de rêves impossibles devenus réalité. Découvrir _Le Livre d'Urantia_ est l'un de ces rêves impossibles. Le livre est apparu dans ma vie à un moment où je cherchais désespérément des réponses satisfaisantes à des questions cruciales concernant ma foi chrétienne.
@@ -27,3 +51,28 @@ Mes chers amis, si vous n'avez pas encore lu ce livre unique, vous devriez tout 
 > _Ben LeMay est un catholique dont l'expérience de conversion l'a conduit à de nombreuses années de ministère évangélique bilingue au Québec. Il est maintenant à la retraite._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/Days_and_Dates_in_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jours et dates dans le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/The_Vengeance_of_God">
+          <span class="pr-2">La vengeance de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

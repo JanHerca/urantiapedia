@@ -33,11 +33,11 @@ D’une certaine manière, le fascicule 56 ressemble un peu à l’avant-propos 
 
 Dans la section 10, Vérité, Beauté et Bonté, nous trouvons la discussion sur l'art. Notre futur Prince Planétaire remplaçant, qui vivait autrefois (et il n'y a pas si longtemps) parmi nous, dit :
 
-> « la philosophie et vous comprenez la divinité dans l’adoration, le service social et l’expérience spirituelle personnelle, mais vous limitez trop souvent la recherche de la beauté — la cosmologie — à l’étude des grossières tentatives artistiques humaines. » ([LU 56:10.3](/fr/The_Urantia_Book/56#p10_3))
+> « la philosophie et vous comprenez la divinité dans l’adoration, le service social et l’expérience spirituelle personnelle, mais vous limitez trop souvent la recherche de la beauté — la cosmologie — à l’étude des grossières tentatives artistiques humaines. » (<a id="a35_262"></a>[LU 56:10.3](/fr/The_Urantia_Book/56#p10_3))
 
 Il continue ensuite en développant. Je pourrais occuper de nombreuses pages de texte développant cette élaboration, mais concentrons-nous plutôt sur un élément. Voici sa phrase suivante :
 
-> « **La beauté, l’art, est largement une affaire d’unification de contrastes.** » ([LU 56:10.3](/fr/The_Urantia_Book/56#p10_3))
+> « **La beauté, l’art, est largement une affaire d’unification de contrastes.** » (<a id="a39_84"></a>[LU 56:10.3](/fr/The_Urantia_Book/56#p10_3))
 
 Supposons que Jésus, qui a épuisé tous les potentiels d’expression finie de la beauté spirituelle dans l’univers local de Nébadon, incarne ce concept. Comment Jésus a-t-il exprimé la beauté (en tant qu’art) en unifiant les contrastes ?
 
@@ -49,13 +49,13 @@ Maintenant, mon ami Arley (pas celui qui lit _Le Livre d'Urantia_) était un bon
 
 Je soupçonne plutôt que beaucoup de personnes avec lesquelles Jésus a eu affaire à son époque étaient comme Arley. J'ai beaucoup lu Arley dans le personnage d'Anaxand, le jeune homme du chantier naval qui travaille au volant aux côtés de Jésus. Ici, nous voyons Jésus faire une sorte de série de commentaires qui amènent Anaxand à ridiculiser Jésus, mais avec une pointe de sincérité.
 
-Jésus connaissait le commentaire d’Anaxand : « Si les dieux sont si bons, alors comment se fait-il ? ... » ([LU 130:2.4](/fr/The_Urantia_Book/130#p2_4)) n'a pas pu recevoir de réponse directe. Une discussion sur le libre arbitre, véritable réponse à la question verbalisée de cet homme, aurait été totalement inappropriée. Jésus a, à juste titre, vu le commentaire de l’homme comme un défi aux affirmations qu’il avait faites au cours de la matinée – les affirmations de Jésus selon lesquelles Dieu est bon et que Dieu prend soin de nous. Jésus a également correctement établi qu’un tel défi ne pouvait être relevé que par un contre-défi, un défi qui « surpasserait » le défi initial lancé par le jeune homme Anaxand.
+Jésus connaissait le commentaire d’Anaxand : « Si les dieux sont si bons, alors comment se fait-il ? ... » (<a id="a51_108"></a>[LU 130:2.4](/fr/The_Urantia_Book/130#p2_4)) n'a pas pu recevoir de réponse directe. Une discussion sur le libre arbitre, véritable réponse à la question verbalisée de cet homme, aurait été totalement inappropriée. Jésus a, à juste titre, vu le commentaire de l’homme comme un défi aux affirmations qu’il avait faites au cours de la matinée – les affirmations de Jésus selon lesquelles Dieu est bon et que Dieu prend soin de nous. Jésus a également correctement établi qu’un tel défi ne pouvait être relevé que par un contre-défi, un défi qui « surpasserait » le défi initial lancé par le jeune homme Anaxand.
 
 J’imagine un groupe de motards assis, dont l’un se vante de son ami. Un autre motard en a assez de l'écouter et bluffe. Maintenant, le vantard doit se défendre, ou se ridiculiser. Imaginez si le motard n°1 parvient non seulement à défendre l’honneur de son ami, mais en même temps à traiter son adversaire de lâche, et de le faire de telle manière que le motard n°2 soit réellement d’accord ! C’est, je crois, ce qui s’est passé cet après-midi-là dans le chantier naval lorsque Jésus a défié Anaxand d’accepter sa vision supérieure (d’Anaxand) de la justice et d’agir en conséquence pour sauver le pauvre contremaître qui se noyait dans les ténèbres spirituelles. Jésus a même laissé entendre que si Anaxand ne le faisait pas, il serait un lâche spirituel !
 
-Si vous lisez le passage sur [LU 130:2.4](/fr/The_Urantia_Book/130#p2_4), vous remarquerez que Jésus « rabaisse » Anaxand au moins trois fois : deux fois au début de son bref discours, puis de nouveau à la fin, où il le défie avec la déclaration suivante : :
+Si vous lisez le passage sur <a id="a55_29"></a>[LU 130:2.4](/fr/The_Urantia_Book/130#p2_4), vous remarquerez que Jésus « rabaisse » Anaxand au moins trois fois : deux fois au début de son bref discours, puis de nouveau à la fin, où il le défie avec la déclaration suivante : :
 
-> « Tu n’es surement pas un lâche capable d’attendre au bord de la mer en regardant périr un compagnon qui ne sait pas nager. » ([LU 130:2.4](/fr/The_Urantia_Book/130#p2_4))
+> « Tu n’es surement pas un lâche capable d’attendre au bord de la mer en regardant périr un compagnon qui ne sait pas nager. » (<a id="a57_129"></a>[LU 130:2.4](/fr/The_Urantia_Book/130#p2_4))
 
 Ce sont des mots très forts à utiliser face à un jeune homme agressif, qui traîne dans les chantiers navals. Mais dans les circonstances, c’était exactement ce qu’il fallait dire.
 
@@ -67,7 +67,7 @@ En bref, je crois que l'un des messages cachés dans _Le Livre d'Urantia_ est l'
 
 Et cela, je le soumets, pourrait être décrit comme le message qui rend le _Livre d'Urantia_ unique parmi les religions. Car alors que toutes les autres religions s'appuient sur un certain type de code d'éthique et de morale (certains sont bons, d'autres moins bons, certains sont exceptionnellement bons), le Livre d'Urantia nous met au défi de concevoir un chemin nouveau et original, un chemin qui transcendera le l'éthique et la morale d'aujourd'hui, et constituera un témoignage vivant de la gloire de Dieu le Tout-Puissant.
 
-> « Seule une personne courageuse est prête à reconnaitre honnêtement ce que découvre un mental sincère et logique, et à y faire face avec intrépidité. » Rodan d'Alexandrie ([LU 160:1.7](/fr/The_Urantia_Book/160#p1_7))
+> « Seule une personne courageuse est prête à reconnaitre honnêtement ce que découvre un mental sincère et logique, et à y faire face avec intrépidité. » Rodan d'Alexandrie (<a id="a69_174"></a>[LU 160:1.7](/fr/The_Urantia_Book/160#p1_7))
 
 > L'amour ne domine pas ; il partage.
 

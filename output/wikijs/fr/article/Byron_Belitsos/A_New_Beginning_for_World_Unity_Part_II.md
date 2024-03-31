@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Byron Belitsos<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le potentiel suprême de la famille</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/My_God_is_a_Sweet_Juicy_Apple_Without_the_Waxy_Cover">
+          <span class="pr-2">Mon Dieu est une pomme sucrée et juteuse - sans la couverture cireuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ceci est la dernière section d'un rapport en deux parties sur le Parlement des religions du monde de 1993._ [Première partie](/fr/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_I)
@@ -34,7 +58,7 @@ C'était embarrassant pour moi de réaliser que mes deux affiliations religieuse
 
 D’autres, de la tendance exclusiviste, étaient plus pragmatiques. Les organisations prosélytes ne manquaient pas et utilisaient le Parlement comme plateforme pour promulguer la « vérité ». J'ai personnellement rencontré de nombreux participants qui affirmaient la supériorité de leur tradition sur les autres, ou qui avaient beaucoup de mal à me permettre de partager ma propre foi particulière.
 
-> _Je suppose que je suis un inclusiviste. Le Livre d'Urantia semble approuver cette position dans le « Deuxième Discours sur la religion_ » ([LU 155:6.9](/fr/The_Urantia_Book/155#p6_9)), où nous lisons que « _la religion de l'esprit n'exige que l'unité d'expérience... seulement l'unité de sentiment spirituel »._
+> _Je suppose que je suis un inclusiviste. Le Livre d'Urantia semble approuver cette position dans le « Deuxième Discours sur la religion_ » (<a id="a60_142"></a>[LU 155:6.9](/fr/The_Urantia_Book/155#p6_9)), où nous lisons que « _la religion de l'esprit n'exige que l'unité d'expérience... seulement l'unité de sentiment spirituel »._
 
 L’approche exclusiviste pourrait être qualifiée d’« ésotérique », par opposition aux tendances « exotériques » qui existent au sein de ces mêmes traditions. Généralement, les religieux ésotériques identifient comme « absolus » certaines caractéristiques de la forme extérieure de leur religion. Un texte révélé, une pratique rituelle ou une définition ou un symbole de Dieu est considéré comme supérieur, dans un certain sens, à tous les autres. Autoriser le relativisme entraînerait une insécurité inacceptable dans la foi.
 
@@ -44,7 +68,7 @@ Contrairement à l'ésotérisme, la foi de l'exotérique est basée sur une exp�
 
 Les croyants exotériques, quelle que soit leur tradition, disposent d’une base évidente de dialogue fondée sur leur expérience mystique commune. Cela impliquerait qu'il n'existe que deux types de religions : l'ésotérique et l'ésotérique, et ces approches divergentes se retrouvent dans chaque tradition. Schuon dit que les véritables divisions dans la religion mondiale ne se situent pas entre les nombreuses religions, mais entre ces deux types très différents de personnes religieuses.
 
-Je suppose que je suis un inclusiviste. _Le Livre d'Urantia_ semble approuver cette position dans le « Deuxième Discours sur la religion » ([LU 155:6.9](/fr/The_Urantia_Book/155#p6_9)), où nous lisons que « la religion de l'esprit n'exige que l'unité d'expérience... seulement l'unité de sentiment spirituel ».
+Je suppose que je suis un inclusiviste. _Le Livre d'Urantia_ semble approuver cette position dans le « Deuxième Discours sur la religion » (<a id="a70_140"></a>[LU 155:6.9](/fr/The_Urantia_Book/155#p6_9)), où nous lisons que « la religion de l'esprit n'exige que l'unité d'expérience... seulement l'unité de sentiment spirituel ».
 
 Pour moi, le sens ultime du Parlement résidait dans le sens croissant de l'unité de l'expérience religieuse comme _fond_ du dialogue interreligieux. Une unité de sentiment religieux était toujours palpable lors des séances de méditation interconfessionnelle organisées chaque matin et soir. Ce sentiment d'unité était particulièrement vrai lors des séances plénières – de grands événements réunissant souvent plusieurs milliers de personnes, certaines regardant la télévision en circuit fermé dans les salles de bal adjacentes.
 
@@ -60,9 +84,9 @@ Les universitaires se sont battus avec des modèles plus exigeants pour créer u
 
 ## Fonctionnaliste
 
-Je définis le modèle fonctionnaliste du dialogue interreligieux comme la recherche d’objectifs largement communs, en particulier celui d’unir toute l’humanité – même les non-croyants – pour le bien de la survie de la planète. Les fonctionnalistes sont pragmatiques. Ils réalisent combien il serait difficile d’unir « ... les adeptes des différentes théologies intellectuelles qui caractérisent tant Urantia ». ([LU 92:5.16](/fr/The_Urantia_Book/92#p5_16))
+Je définis le modèle fonctionnaliste du dialogue interreligieux comme la recherche d’objectifs largement communs, en particulier celui d’unir toute l’humanité – même les non-croyants – pour le bien de la survie de la planète. Les fonctionnalistes sont pragmatiques. Ils réalisent combien il serait difficile d’unir « ... les adeptes des différentes théologies intellectuelles qui caractérisent tant Urantia ». (<a id="a86_411"></a>[LU 92:5.16](/fr/The_Urantia_Book/92#p5_16))
 
-Les fonctionnalistes peuvent trouver un soutien considérable pour leur approche dans le Livre d'Urantia, qui prêche que « Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. » ([LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
+Les fonctionnalistes peuvent trouver un soutien considérable pour leur approche dans le Livre d'Urantia, qui prêche que « Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. » (<a id="a88_359"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
 
 ## Déclaration d'une éthique mondiale
 
@@ -70,7 +94,7 @@ Cette déclaration du _Livre d'Urantia_ est une description juste du Parlement !
 
 La Déclaration fonde l’unité sur des principes éthiques partagés, et non sur la théologie. Il affirme une compréhension large et commune du comportement éthique pour tous les peuples, des normes et standards décrivant ce qui est acceptable et inacceptable dans toutes les traditions religieuses et spirituelles. Cela inclut des engagements en faveur de la non-violence, d’une économie juste, de la tolérance, de l’égalité des droits et du respect de la vie. Il condamne également les inégalités dans l'économie mondiale, les abus environnementaux, la manipulation des médias, la discrimination sexuelle et la violence religieuse. L'Assemblée a également affirmé un processus par lequel la Déclaration pourrait s'enraciner dans la communauté mondiale, à travers un processus continu de débat et de discussion au sein de la communauté religieuse, aidé par l'apport et la critique des universitaires.
 
-La Déclaration a été rédigée par le célèbre théologien suisse Hans Kung, sur invitation du Conseil du Parlement. Un argument approfondi en faveur d'une telle éthique mondiale apparaît dans son livre le plus récent, _Global Responsibility: In Search of a New Ethic_, examiné dans un numéro récent de _The Spiritual Fellowship Journal_.
+La Déclaration a été rédigée par le célèbre théologien suisse Hans Kung, sur invitation du Conseil du Parlement. Un argument approfondi en faveur d'une telle éthique mondiale apparaît dans son livre le plus récent, _Global Responsibility: In Search of a New Ethic_, examiné dans un numéro récent de _Journal de la Fraternité Spirituelle_.
 
 Le Parlement des religions du monde de 1993 a marqué un nouveau départ pour l'unité religieuse mondiale. Espérons que le jour viendra où l’humanité atteindra cette maturité spirituelle où la tolérance religieuse et la compréhension interconfessionnelle nous permettront de réaliser l’unité religieuse au milieu de notre diversité théologique.
 
@@ -78,3 +102,28 @@ Le Parlement des religions du monde de 1993 a marqué un nouveau départ pour l'
 > _Byron a été journaliste et producteur de télévision et est actuellement consultant dans l'industrie des télécommunications._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Janet_Farrington/The_Supreme_Potential_of_Family">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le potentiel suprême de la famille</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matt_Neibaur/My_God_is_a_Sweet_Juicy_Apple_Without_the_Waxy_Cover">
+          <span class="pr-2">Mon Dieu est une pomme sucrée et juteuse - sans la couverture cireuse</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

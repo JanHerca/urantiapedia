@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : « Le bon livre » de Peter J. Gomes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="pr-2">Être sage comme des serpents, inoffensif comme des colombes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 John B. Cobb, Jr.
@@ -29,5 +53,30 @@ Il est possible que le renouveau de l’Église puisse se produire sans changeme
 Le plus grand problème du professeur Cobb est d'essayer d'expliquer comment on reconnaît « le Christ comme Seigneur » et en même temps considérer les autres religions comme d'authentiques voies menant à Dieu. La cosmologie du _Livre d'Urantia_ résout ce problème d'une manière unique et magnifique. Malheureusement, l’expérience des quarante dernières années suggère que même des théologiens aussi ouverts d’esprit que le professeur Cobb ne sont guère prêts à la transformation d’un nouveau paradigme spirituel, la Cinquième Révélation d’époque, qui apporterait une véritable renaissance dans l’Église chrétienne.
 
 
-> « La pierre de touche pour toute philosophie religieuse consiste à savoir si elle fait ou ne fait pas la distinction entre la réalité du monde matériel et celle du monde spirituel, tout en reconnaissant en même temps leur unification dans l’effort intellectuel et le service social. » ([LU 101:7.5](/fr/The_Urantia_Book/101#p7_5))
+> « La pierre de touche pour toute philosophie religieuse consiste à savoir si elle fait ou ne fait pas la distinction entre la réalité du monde matériel et celle du monde spirituel, tout en reconnaissant en même temps leur unification dans l’effort intellectuel et le service social. » (<a id="a55_288"></a>[LU 101:7.5](/fr/The_Urantia_Book/101#p7_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Good_Book_by_Peter_J_Gomes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : « Le bon livre » de Peter J. Gomes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="pr-2">Être sage comme des serpents, inoffensif comme des colombes</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

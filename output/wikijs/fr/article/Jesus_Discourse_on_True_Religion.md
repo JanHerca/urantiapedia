@@ -29,13 +29,13 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > Beaucoup de vos frères acceptent mentalement la théorie de Dieu tout en ne parvenant pas spirituellement à réaliser sa présence. C’est précisément pourquoi je vous ai si souvent enseigné que la meilleure manière de réaliser le royaume des cieux consiste à acquérir l’attitude spirituelle d’un enfant sincère. Ce n’est pas le manque de maturité mentale d’un enfant que je vous recommande, mais bien la simplicité spirituelle d’un petit qui croit facilement et qui a pleine confiance. Il est moins important pour vous de connaitre le fait de l’existence de Dieu que d’acquérir une aptitude croissante à sentir la présence de Dieu.
 > 
-> Une fois que vous aurez commencé à découvrir Dieu dans votre âme, vous ne tarderez pas à le découvrir dans l’âme des autres hommes, et finalement dans toutes les créatures et créations d’un puissant univers. Mais quelle chance a le Père d’apparaitre, en tant que Dieu des loyautés suprêmes et des idéaux divins, dans les âmes d’hommes qui ne consacrent que peu ou pas de temps à la contemplation réfléchie de ces réalités éternelles ? Bien que le mental ne soit pas le siège de la nature spirituelle, il est, en vérité, la porte qui y conduit. (<a id="a54_474"></a>[LU 155:6.2-13](/fr/The_Urantia_Book/155#p6_2))
+> Une fois que vous aurez commencé à découvrir Dieu dans votre âme, vous ne tarderez pas à le découvrir dans l’âme des autres hommes, et finalement dans toutes les créatures et créations d’un puissant univers. Mais quelle chance a le Père d’apparaitre, en tant que Dieu des loyautés suprêmes et des idéaux divins, dans les âmes d’hommes qui ne consacrent que peu ou pas de temps à la contemplation réfléchie de ces réalités éternelles ? Bien que le mental ne soit pas le siège de la nature spirituelle, il est, en vérité, la porte qui y conduit. (<a id="a31_547"></a>[LU 155:6.2-13](/fr/The_Urantia_Book/155#p6_2))
 
 > Vous êtes mes apôtres, et pour vous la religion ne deviendra pas un abri théologique où vous pourriez fuir dans la peur d’affronter les rudes réalités du progrès spirituel et de l’aventure idéaliste; mais votre religion deviendra plutôt le fait de l’expérience réelle témoignant que Dieu vous a trouvés, idéalisés, ennoblis et spiritualisés, et que vous vous êtes enrôlés dans l’aventure éternelle de trouver le Dieu qui vous a lui-même ainsi trouvés et pris pour fils.
 > 
-> Après avoir fini de parler, Jésus fit signe à André, montra du doigt l’occident en direction de la Phénicie et dit : « Mettons-nous en route. » ([LU 155:6.18-19](/fr/The_Urantia_Book/155#p6_18))
+> Après avoir fini de parler, Jésus fit signe à André, montra du doigt l’occident en direction de la Phénicie et dit : « Mettons-nous en route. » (<a id="a35_147"></a>[LU 155:6.18-19](/fr/The_Urantia_Book/155#p6_18))
 
-> Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. ([LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
+> Ne vous découragez pas ; l’évolution humaine est encore en cours de progrès, et la révélation de Dieu au monde, en Jésus et par Jésus, ne fera pas défaut. (<a id="a37_158"></a>[LU 196:3.33](/fr/The_Urantia_Book/196#p3_33))
 
 ## Liens externes
 

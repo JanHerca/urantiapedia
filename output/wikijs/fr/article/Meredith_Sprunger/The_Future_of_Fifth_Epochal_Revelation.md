@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith J. Sprunger<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin Québec Réflectivité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Outreach_to_Young_Urantians">
+          <span class="pr-2">Sensibilisation aux jeunes Urantiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En octobre 1955, _Le Livre d'Urantia_ fut publié avec un grand enthousiasme. La Fraternité Urantia nouvellement organisée envisageait d'organiser des milliers de groupes d'étude et de créer progressivement des sociétés bien ancrées. La nature spécifique de ces sociétés était ambiguë. La plupart des membres fondateurs considéraient la Fraternité Urantia comme une organisation religieuse ou quasi religieuse. Le Dr Sadler voyait clairement les sociétés se développer comme de véritables groupes religieux.
@@ -44,7 +68,7 @@ Nous devons développer des institutions religieuses qui apporteront une nourrit
 Il existe un certain nombre de principes inhérents au développement de nouvelles institutions religieuses que nous devons garder à l'esprit, tels que :
 
 1. L'idéaliste en beaucoup d'entre nous qui ont été inspirés par le _Livre d'Urantia_ a projeté une vision de la Cinquième Révélation d'Époque élevant toutes les religions du monde et unissant l'humanité dans une communion spirituelle commune. Nous sommes rebutés par l’esprit de clocher et la rigidité des institutions religieuses contemporaines et pensons que la dernière chose dont nous avons besoin est une autre institution religieuse. Mais les leçons de l'histoire et les enseignements du _Livre d'Urantia_ nous disent que les agents sociaux les plus efficaces du changement spirituel sont les nouvelles institutions religieuses incarnant des vérités spirituelles plus vastes. Le Suprême travaille à partir de la base et non de haut en bas. Cette approche n’est pas aussi romantique que notre vision idéaliste, mais c’est le seul processus réaliste qui jette les bases d’une croissance sociale et spirituelle dans la culture.
-2. Les nouvelles institutions religieuses ne sont pas « conçues » – elles évoluent. Les auteurs du _Livre d'Urantia_ nous rappellent : « L’homme ne peut provoquer la croissance, mais il peut lui fournir des conditions favorables. » ([LU 100:3.7](/fr/The_Urantia_Book/100#p3_7)) Nous devrions établir ce type de recherche « conditionnelle ». Il y aura de nombreux types de nouvelles organisations religieuses découlant de la Cinquième Révélation d'Époque. Nous devons préparer du matériel pour une utilisation éventuelle par ces nouvelles organisations religieuses. De nombreuses personnes m'ont demandé une telle aide au cours des dix dernières années ; ils peuvent ou non trouver cette recherche utile. L'hypothèse est que les ressources compilées sur une période de temps par des étudiants matures du _Le Livre d'Urantia_ fourniront des idées et une sagesse utiles qui autrement ne pourraient pas être utiles. être disponible.
+2. Les nouvelles institutions religieuses ne sont pas « conçues » – elles évoluent. Les auteurs du _Livre d'Urantia_ nous rappellent : « L’homme ne peut provoquer la croissance, mais il peut lui fournir des conditions favorables. » (<a id="a70_233"></a>[LU 100:3.7](/fr/The_Urantia_Book/100#p3_7)) Nous devrions établir ce type de recherche « conditionnelle ». Il y aura de nombreux types de nouvelles organisations religieuses découlant de la Cinquième Révélation d'Époque. Nous devons préparer du matériel pour une utilisation éventuelle par ces nouvelles organisations religieuses. De nombreuses personnes m'ont demandé une telle aide au cours des dix dernières années ; ils peuvent ou non trouver cette recherche utile. L'hypothèse est que les ressources compilées sur une période de temps par des étudiants matures du _Le Livre d'Urantia_ fourniront des idées et une sagesse utiles qui autrement ne pourraient pas être utiles. être disponible.
 3. Nous devons être conscients du contexte spirituel plus large dans lequel fonctionne une institution religieuse. La fraternité de tous les peuples, la parenté de toute l’humanité, a lieu dans le royaume du Suprême. Une véritable communion spirituelle, qui constitue la base d'une institution religieuse, prend naissance dans la conscience de l'âme. L'âme porte l'empreinte de sa création divine-humaine et donne naissance à une conscience mentale secondaire ou auxiliaire. À mesure que nous grandissons dans le Suprême, notre identité personnelle est de plus en plus transférée de l’esprit matériel à la conscience de l’âme. De plus en plus, nous opérons à partir de notre « âme-esprit ». Cette communion d’âmes est le fondement d’une véritable institution religieuse.
     Mais les êtres humains sont bien plus que des âmes désincarnées. Nous avons des corps matériels uniques et des esprits basés sur la matière. Nous intégrons nos vies avec des personnalités différentes et fonctionnons dans divers groupes sociaux. Une institution religieuse solide et utile doit donc avoir la profondeur spirituelle et la flexibilité théologique et sociale nécessaires pour servir une grande variété d’êtres humains. Son régime politique doit incarner la plus haute sagesse expérientielle.
 4. Personnellement, je ne pense pas que la Fellowship devrait être organiquement ou officiellement liée à cette recherche ou à toute institution religieuse qui en découle. De nombreux étudiants du _Livre d'Urantia_ sont encore mal à l'aise avec les activités religieuses institutionnelles. La Communauté a sa place dans la coordination de tous les types et niveaux d'activité associés au _Le Livre d'Urantia_. Il pourrait encourager ou même faciliter ces activités religieuses sans y être impliqué organiquement. Espérons que la Fellowship puisse établir des relations de coopération avec de nombreuses organisations diverses tout en restant indépendante d’elles sur le plan organisationnel.
@@ -53,7 +77,7 @@ Il existe un certain nombre de principes inhérents au développement de nouvell
 
 ## Une expression socioreligieuse de la cinquième révélation d'époque
 
-Plus de quarante ans d’expérience en interaction avec le segment le plus progressiste du christianisme principal m’ont appris que tout ce qui prétend être une nouvelle révélation n’entre pas dans les limites de la respectabilité théologique et institutionnelle actuelle. Dans l'ensemble, le clergé chrétien aura besoin d'un laps de temps plus long pour découvrir les enseignements divins du _Livre d'Urantia_. J’ai toujours supposé que le canal le plus important pour transmettre la Cinquième Révélation d’Époque à notre monde serait de nouvelles institutions religieuses. Il est maintenant temps de promouvoir la recherche pour découvrir un « symbolisme approprié et une expression socioreligieuse de la cinquième révélation d’époque ». La mission du _The Spiritual Fellowship Journal_ est de servir de plateforme pour cette discussion.
+Plus de quarante ans d’expérience en interaction avec le segment le plus progressiste du christianisme principal m’ont appris que tout ce qui prétend être une nouvelle révélation n’entre pas dans les limites de la respectabilité théologique et institutionnelle actuelle. Dans l'ensemble, le clergé chrétien aura besoin d'un laps de temps plus long pour découvrir les enseignements divins du _Livre d'Urantia_. J’ai toujours supposé que le canal le plus important pour transmettre la Cinquième Révélation d’Époque à notre monde serait de nouvelles institutions religieuses. Il est maintenant temps de promouvoir la recherche pour découvrir un « symbolisme approprié et une expression socioreligieuse de la cinquième révélation d’époque ». La mission du _Journal de la Fraternité Spirituelle_ est de servir de plateforme pour cette discussion.
 
 L'objectif central des personnes intéressées par la création d'une telle nouvelle organisation religieuse devrait être de créer un régime politique doté d'un maximum de flexibilité, qui fonctionnerait avec de petits groupes ou de grandes congrégations, utiliserait une direction laïque et/ou un ministère ordonné, aurait une adaptabilité interculturelle et une large l’inclusivité théologique. Robert Greenleaf, dans son livre _Servant Leadership_, a une vision d'une telle institution « comme un rassemblement de personnes qui ont accepté un objectif commun et une discipline commune pour guider la poursuite de cet objectif, dans le but que chaque personne impliquée atteigne un niveau plus élevé ». un épanouissement en tant que personne, en servant et en étant servi par l'entreprise commune, que celui qui serait obtenu seul ou dans une relation moins engagée. (p.237)
 
@@ -64,3 +88,28 @@ Notre intention est de préparer le terrain pour l’avènement d’institutions
 > _Meredith Sprunger est enseignante et ministre de l'Église Unie du Christ, aujourd'hui à la retraite, et rédactrice en chef du Spiritual Fellowship Journal._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Quebec_Newsletter_Reflectivite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Bulletin Québec Réflectivité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Outreach_to_Young_Urantians">
+          <span class="pr-2">Sensibilisation aux jeunes Urantiens</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

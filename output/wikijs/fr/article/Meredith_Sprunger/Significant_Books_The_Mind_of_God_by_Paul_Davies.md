@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Service_Motive_Emerging">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'émergence d'une motivation de service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Reflections_on_the_Soul">
+          <span class="pr-2">Réflexions sur l'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **« L'esprit de Dieu (la base scientifique d'un monde rationnel) » par Paul Davies**
@@ -25,3 +49,28 @@ Il existe de nombreuses sortes de réponses philosophiques à cette question. Da
 
 Le dernier chapitre de _The Mind of God_ commence ainsi : « L'essence de ce livre a été de retracer la logique de la rationalité scientifique aussi loin qu'elle ira dans la recherche de réponses ultimes au mystère de l'existence. » (p. 223) Davies observe que la réponse finale à ce mystère dépasse les limites de la science et de la logique. Il suggère que l’intuition mystique – une expérience directe de la Réalité – est le seul type de connaissance capable d’apporter ce type de compréhension significative.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/The_Service_Motive_Emerging">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'émergence d'une motivation de service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Reflections_on_the_Soul">
+          <span class="pr-2">Réflexions sur l'âme</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Arguing_With_Nicodemus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Discuter avec Nicodème</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="pr-2">Livres importants : « Reclaiming the Church » de John B. Cobb, Jr.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Peter J. Gomes
@@ -26,3 +50,28 @@ Dans la dernière section du livre, Gomes montre ce que son interprétation de l
 
 Notre société a un besoin crucial du pouvoir réorientant et rajeunissant de la Cinquième Révélation d’Époque. _Le Livre d'Urantia_ à notre époque est en relation avec la Bible tout comme le Nouveau Testament était en relation avec l'Ancien Testament au premier siècle après JC.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Arguing_With_Nicodemus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Discuter avec Nicodème</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Reclaiming_the_Church_by_John_B_Cobb_Jr">
+          <span class="pr-2">Livres importants : « Reclaiming the Church » de John B. Cobb, Jr.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Anton Schmalz<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gary_Dangerfield/Unique_Urantian_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un rayonnement urantien unique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="pr-2">Où sont les grands dirigeants et enseignants d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Pour la chenille, c'est la fin du monde — pour le reste d'entre nous, c'est un papillon._
@@ -71,7 +95,7 @@ Après tout, depuis très longtemps déjà, des profits, des emplois et d’autr
 
 Heureusement, l’idéal de paix a également « germé » dans la conscience humaine sous une forme ou une autre depuis nos tout débuts. Comment et que pouvons-nous faire pour rendre la paix suffisamment attrayante pour être _rentable_ — _plus rentable_ que nos méthodes actuelles ? Dans la série télévisée _The Power of Myth_, Joseph Campbell déclare que : « _Les mythes et légendes des cultures et traditions de toute l'humanité ont la même intention : aider chacun de nous à s'ouvrir, à être en contact avec le Divin intérieur._ »
 
-Dans _Le Livre d'Urantia_, il nous est rappelé que : « _La paix est l’étalon social mesurant le développement de la civilisation... La guerre devient rapidement une faillite culturelle... incapable de produire des dividendes de gain social d'une manière ou d'une autre proportionnés aux terribles pertes qui accompagnent son invocation..... Même si les antagonismes sont naturels, la paix n'est assurée que par une sorte de système de régulation sociale._" [[LU 70:1.1](/fr/The_Urantia_Book/70#p1_1)]
+Dans _Le Livre d'Urantia_, il nous est rappelé que : « _La paix est l’étalon social mesurant le développement de la civilisation... La guerre devient rapidement une faillite culturelle... incapable de produire des dividendes de gain social d'une manière ou d'une autre proportionnés aux terribles pertes qui accompagnent son invocation..... Même si les antagonismes sont naturels, la paix n'est assurée que par une sorte de système de régulation sociale._" <a id="a97_457"></a>[[LU 70:1.1](/fr/The_Urantia_Book/70#p1_1)]
 
 Poser ensuite des questions véritablement complètes, écouter sincèrement et considérer les réponses le plus tôt possible dans le processus de manifestation peut être décisif pour le résultat souhaité. Autrement, les questions non reconnues ou rejetées persistent dans leur purvage sans surveillance. Avez-vous remarqué que les problèmes non résolus ont tendance à persister jusqu’à ce qu’ils retiennent notre attention ?
 
@@ -144,3 +168,28 @@ Votre engagement est toujours le bienvenu dans le processus visant à faire évo
 > _Anton Schmalz est un étudiant du Livre d'Urantia depuis 1975. Il aime appliquer les idées du Livre d'Urantia aux questions de paix mondiale. Anton a été un écrivain professionnel dans tous les médias. Il a contribué à l’élaboration de stratégies majeures et préparé des déclarations politiques pour quatre présidents américains. Il peut être contacté à : 390 W. Calle de las Flores, Green Valley, AZ 85614_
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gary_Dangerfield/Unique_Urantian_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un rayonnement urantien unique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Watkins/Where_are_the_Great_Urantia_Leaders_and_Teachers">
+          <span class="pr-2">Où sont les grands dirigeants et enseignants d'Urantia ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title : « Interface : une nouvelle révélation ? Qui en a besoin ?
+title: "Interface : une nouvelle révélation ? Qui en a besoin ?"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Merlyn Cox<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Mainline_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Destin principal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="pr-2">Comment le Livre d'Urantia peut contribuer à l'Église</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'une des réactions initiales les plus répandues et les plus inhibantes au _Livre d'Urantia_, je crois, outre ses éléments apparemment gnostiques, vient de nos hypothèses sur la révélation elle-même, à savoir qu'une révélation véritablement contemporaine pour notre monde n'est ni attendue ni nécessaire.
@@ -35,3 +59,28 @@ Si Dieu s'est révélé si pleinement dans l'Incarnation que quiconque a vu le F
 
 Dieu n’est pas arbitrairement caché – il est intentionnellement révélé. Si nous parvenons enfin à un moment dans l’histoire du monde qui représente une volonté d’améliorer notre compréhension du plan éternel pour nous tous, qui voudrait dire : « Non merci, nous en avons assez. »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Mainline_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Destin principal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Helena_E_Sprague/How_UB_Can_Contribute_to_the_Church">
+          <span class="pr-2">Comment le Livre d'Urantia peut contribuer à l'Église</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -11,11 +11,11 @@ dateCreated: 2022-9-8T14:13:8Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Ken Glasziou<br>© 1996 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « _L’origine de la moralité se trouve dans la raison de la conscience de soi. La moralité est superanimale, mais entièrement évolutionnaire. L’évolution humaine embrasse dans son déroulement toutes les dotations qui ont précédé le don des Ajusteurs et l’effusion de l’Esprit de Vérité._ » ([LU 5:5.1](/fr/The_Urantia_Book/5#p5_1))
+> « _L’origine de la moralité se trouve dans la raison de la conscience de soi. La moralité est superanimale, mais entièrement évolutionnaire. L’évolution humaine embrasse dans son déroulement toutes les dotations qui ont précédé le don des Ajusteurs et l’effusion de l’Esprit de Vérité._ » (<a id="a13_292"></a>[LU 5:5.1](/fr/The_Urantia_Book/5#p5_1))
 
-> « _L’altruisme n’était pas encore né dans le cœur de l’homme, bien que toutes les émotions essentielles à la naissance de la religion fussent déjà présentes chez ces aborigènes d’Urantia._ » ([LU 63:4.3](/fr/The_Urantia_Book/63#p4_3))
+> « _L’altruisme n’était pas encore né dans le cœur de l’homme, bien que toutes les émotions essentielles à la naissance de la religion fussent déjà présentes chez ces aborigènes d’Urantia._ » (<a id="a15_194"></a>[LU 63:4.3](/fr/The_Urantia_Book/63#p4_3))
 
-> « _Bien que les Ajusteurs s’offrent volontairement à servir dès que les prévisions concernant une personnalité ont été transmises à Divinington, en fait ils ne reçoivent pas leur affectation avant que le sujet humain ait pris sa première décision de personnalité morale._ » ([LU 108:2.1](/fr/The_Urantia_Book/108#p2_1))
+> « _Bien que les Ajusteurs s’offrent volontairement à servir dès que les prévisions concernant une personnalité ont été transmises à Divinington, en fait ils ne reçoivent pas leur affectation avant que le sujet humain ait pris sa première décision de personnalité morale._ » (<a id="a17_277"></a>[LU 108:2.1](/fr/The_Urantia_Book/108#p2_1))
 
 Les générations qui ont grandi à l’ère des technologies de l’information électroniques couplées à l’ordinateur personnel (PC) doivent trouver presque impossible d’apprécier les difficultés rencontrées par leurs ancêtres lors de la récupération et de l’indexation des informations nécessaires à une tâche complexe.
 
@@ -33,7 +33,7 @@ La première référence nous informe que la moralité est à la fois évolutive
 
 À ces trois références cohérentes en interne, nous en ajoutons maintenant une quatrième, celle qui nous est venue à l’esprit seulement après avoir terminé la revue des autres. Tout à fait contrairement à la théorie darwinienne, il énonce un point de vue cohérent avec les nouvelles preuves ADN qui ne cessent d’apparaître :
 
-> « _Il faut que le plasma vital originel d’un monde évolutionnaire contienne dans sa plénitude le potentiel nécessaire à toutes les variations de développement futures et à tous les changements et modifications évolutionnaires ultérieurs._ » ([LU 36:2.17](/fr/The_Urantia_Book/36#p2_17))
+> « _Il faut que le plasma vital originel d’un monde évolutionnaire contienne dans sa plénitude le potentiel nécessaire à toutes les variations de développement futures et à tous les changements et modifications évolutionnaires ultérieurs._ » (<a id="a35_244"></a>[LU 36:2.17](/fr/The_Urantia_Book/36#p2_17))
 
 Grâce aux installations informatiques qui nous permettent de rechercher le texte du _Livre d'Urantia_ mot par mot ou phrase par phrase, l'opportunité existe maintenant de l'examiner de près pour en déterminer la cohérence interne. L'apparition dans le texte de termes obscurs comme « le Consommateur de la Destinée de l'Univers » peut être facilement localisée et examinée pour en vérifier la cohérence de l'utilisation et de la signification.
 

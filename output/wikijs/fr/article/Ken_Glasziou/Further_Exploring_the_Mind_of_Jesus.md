@@ -11,7 +11,7 @@ dateCreated: 2022-09-26T07:02:53.956Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Ken Glasziou<br>© 2003 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, ... se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » ([LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
+> « Votre mission dans le monde est basée sur le fait que j’ai vécu parmi vous une vie révélant Dieu, ... se concrétisera dans la vie que vous vivrez parmi les hommes — l’expérience effective et vivante d’aimer les hommes et de les servir, comme je vous ai aimés et servis. » (<a id="a13_277"></a>[LU 191:5.3](/fr/The_Urantia_Book/191#p5_3))
 
 À plusieurs reprises, dans les Cahiers d'Urantia, nous sommes exhortés à vivre comme Jésus a vécu.
 
@@ -20,13 +20,13 @@ dateCreated: 2022-09-26T07:02:53.956Z
 
 > « La vie que vous vivrez » est la seule que vous ayez.
 
-> On peut *prêcher* une religion *à propos* de Jésus, mais obligatoirement, on doit *vivre* la religion *de* Jésus. ([LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
+> On peut *prêcher* une religion *à propos* de Jésus, mais obligatoirement, on doit *vivre* la religion *de* Jésus. (<a id="a22_117"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
 
 Mais cela ne signifie en aucun cas que nous devons copier la vie matérielle de Jésus. C’est la vie spirituelle de Jésus que nous sommes exhortés à vivre – et pour ce faire, nous devons connaître la pensée de Jésus. Pourquoi? Afin que nous puissions « ressentir » comment un esprit parfaitement spiritualisé réagirait aux expériences quotidiennes ordinaires de la vie.
 
-Notre citation de [LU 196:2.1](/fr/The_Urantia_Book/196#p2_1) implique qu'à moins que nous puissions réellement vivre une vie spiritualisée, nous perdons notre temps à prêcher sur Jésus. Ce qui est nécessaire maintenant... 
+Notre citation de <a id="a26_18"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1) implique qu'à moins que nous puissions réellement vivre une vie spiritualisée, nous perdons notre temps à prêcher sur Jésus. Ce qui est nécessaire maintenant... 
 
-> En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. Il est futile de parler d’une renaissance du christianisme primitif ; il faut avancer en partant du point où l’on se trouve. ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. Il est futile de parler d’une renaissance du christianisme primitif ; il faut avancer en partant du point où l’on se trouve. (<a id="a28_419"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 Il y a eu de nombreuses vies merveilleuses vécues au cours des 2000 dernières années par des hommes et des femmes qui ont véritablement découvert le sens de « vivre comme Jésus a vécu ». Alors, qu’est-ce qu’ils ont découvert dans les Évangiles qui leur a servi de lumière directrice si unique ?
 

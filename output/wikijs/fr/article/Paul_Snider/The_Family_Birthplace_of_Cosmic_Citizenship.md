@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Paul Snider<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La communion spirituelle – Pourquoi maintenant ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/Identity_in_the_Modern_Renaissance">
+          <span class="pr-2">L'identité à la Renaissance moderne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous mettons un enfant au monde. Une chose simple et ordinaire, mais merveilleusement complexe. Que nous le sachions ou non, nous sommes désormais engagés dans la responsabilité suprême de l’existence humaine. [^1] Nous avons maintenant commencé le processus de formation et de formation d'un citoyen cosmique. Quelle foi le Père céleste a en nous pour nous accorder le privilège de faire cela. [^2] Pour confier ses enfants à nos soins. [^3] De tous les dépôts humains, c'est le plus sacré, [^4] notre devoir humain le plus élevé. [^5] Que nous le sachions ou non, ce sont les faits de la vie.
@@ -79,7 +103,7 @@ Cela signifie plutôt un partenariat intelligent, sachant toujours qui est l'ass
 
 Beaucoup de gens croient que la volonté du Père ne s'applique qu'aux grandes décisions et aux actions majeures. Ils pensent que Dieu est trop occupé pour s’impliquer dans les petits détails banals de la vie quotidienne. Ceux qui soutiennent ce point de vue ne comprennent tout simplement pas que Dieu est véritablement infini.
 
-Il y a une phrase, juste une partie d'une phrase dans _Le Livre d'Urantia_, qui enseigne clairement que la volonté de Dieu s'étend même dans les plus petits détails de la vie, qu'à chaque instant de notre être conscient, nous avons l'opportunité de choisir Sa volonté. La phrase est [LU 139:4.9](/fr/The_Urantia_Book/139#p4_9), dans une description de l'apôtre Jean.
+Il y a une phrase, juste une partie d'une phrase dans _Le Livre d'Urantia_, qui enseigne clairement que la volonté de Dieu s'étend même dans les plus petits détails de la vie, qu'à chaque instant de notre être conscient, nous avons l'opportunité de choisir Sa volonté. La phrase est <a id="a105_283"></a>[LU 139:4.9](/fr/The_Urantia_Book/139#p4_9), dans une description de l'apôtre Jean.
 
 Je pense que c'est la phrase la plus puissante du _Le Livre d'Urantia_. Il est dit que Jésus a toujours remis son moindre souhait à la volonté du Père céleste.
 
@@ -196,58 +220,83 @@ Que Dieu vous bénisse mes amis, mes frères et sœurs du destin, et vous garde 
 > _Paul Snider vit à Wilmete, dans l'Illinois, avec sa femme Mary. Tous deux ont servi la Révélation Urantia pendant de nombreuses années. Paul est un ancien président de la Fraternité Urantia. Entre autres activités, il assiste actuellement la Fondation Urantia dans le développement des traductions des Fascicules d'Urantia._
 {.is-info}
 
-> « Jésus promena son regard sur tous les apôtres, sourit et dit : « Mes petits enfants, je m’en vais, je retourne auprès de mon Père. D’ici peu, vous ne me verrez plus comme ici en chair et en os. Je vous enverrai très prochainement mon esprit, qui est exactement semblable à moi, à l’exception de ce corps matériel. Ce nouvel instructeur est l’Esprit de Vérité qui vivra avec chacun de vous, dans votre cœur, et, ainsi, tous les enfants de lumière ne feront plus qu’un et seront attirés les uns vers les autres. C’est de cette manière que mon Père et moi, nous pourrons vivre dans l’âme de chacun de vous, et aussi dans le cœur de tous les autres hommes qui nous aiment et qui rendent cet amour réel dans leurs expériences en s’aimant les uns les autres comme je vous aime maintenant. » » ([[LU 180:4.5](/fr/The_Urantia_Book/180#p4_5))
+> « Jésus promena son regard sur tous les apôtres, sourit et dit : « Mes petits enfants, je m’en vais, je retourne auprès de mon Père. D’ici peu, vous ne me verrez plus comme ici en chair et en os. Je vous enverrai très prochainement mon esprit, qui est exactement semblable à moi, à l’exception de ce corps matériel. Ce nouvel instructeur est l’Esprit de Vérité qui vivra avec chacun de vous, dans votre cœur, et, ainsi, tous les enfants de lumière ne feront plus qu’un et seront attirés les uns vers les autres. C’est de cette manière que mon Père et moi, nous pourrons vivre dans l’âme de chacun de vous, et aussi dans le cœur de tous les autres hommes qui nous aiment et qui rendent cet amour réel dans leurs expériences en s’aimant les uns les autres comme je vous aime maintenant. » » (<a id="a222_792"></a>[[LU 180:4.5](/fr/The_Urantia_Book/180#p4_5))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La communion spirituelle – Pourquoi maintenant ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/Identity_in_the_Modern_Renaissance">
+          <span class="pr-2">L'identité à la Renaissance moderne</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 
 Références (Sauf indication contraire, toutes les références proviennent du _Le Livre d'Urantia_.)
 
-[^1]: [LU 84:7.22](/fr/The_Urantia_Book/84#p7_22)
-[^2]: [LU 6:8.2](/fr/The_Urantia_Book/6#p8_2) ; [LU 84:7.3-4](/fr/The_Urantia_Book/84#p7_3)
-[^3]: [LU 194:4.7](/fr/The_Urantia_Book/194#p4_7)
-[^4]: [LU 127:5.4](/fr/The_Urantia_Book/127#p5_4)
-[^5]: [LU 126:2.6](/fr/The_Urantia_Book/126#p2_6)
-[^6]: [LU 68:2.8](/fr/The_Urantia_Book/68#p2_8)
-[^7]: [LU 84:8.7](/fr/The_Urantia_Book/84#p8_7)
-[^8]: [LU 140:8.14](/fr/The_Urantia_Book/140#p8_14)
-[^9]: [LU 82:0.2-3](/fr/The_Urantia_Book/82#p0_2)
-[^10]: [LU 84:7.30](/fr/The_Urantia_Book/84#p7_30)
-[^11]: [LU 6:3.5](/fr/The_Urantia_Book/6#p3_5)
-[^12]: [LU 84:7.23](/fr/The_Urantia_Book/84#p7_23)
-[^13]: [LU 81:6.24](/fr/The_Urantia_Book/81#p6_24)
-[^14]: [LU 84:7.25](/fr/The_Urantia_Book/84#p7_25)
-[^15]: [LU 54:6.4](/fr/The_Urantia_Book/54#p6_4)
+[^1]: <a id="a255_6"></a>[LU 84:7.22](/fr/The_Urantia_Book/84#p7_22)
+[^2]: <a id="a256_6"></a>[LU 6:8.2](/fr/The_Urantia_Book/6#p8_2) ; <a id="a256_48"></a>[LU 84:7.3-4](/fr/The_Urantia_Book/84#p7_3)
+[^3]: <a id="a257_6"></a>[LU 194:4.7](/fr/The_Urantia_Book/194#p4_7)
+[^4]: <a id="a258_6"></a>[LU 127:5.4](/fr/The_Urantia_Book/127#p5_4)
+[^5]: <a id="a259_6"></a>[LU 126:2.6](/fr/The_Urantia_Book/126#p2_6)
+[^6]: <a id="a260_6"></a>[LU 68:2.8](/fr/The_Urantia_Book/68#p2_8)
+[^7]: <a id="a261_6"></a>[LU 84:8.7](/fr/The_Urantia_Book/84#p8_7)
+[^8]: <a id="a262_6"></a>[LU 140:8.14](/fr/The_Urantia_Book/140#p8_14)
+[^9]: <a id="a263_6"></a>[LU 82:0.2-3](/fr/The_Urantia_Book/82#p0_2)
+[^10]: <a id="a264_7"></a>[LU 84:7.30](/fr/The_Urantia_Book/84#p7_30)
+[^11]: <a id="a265_7"></a>[LU 6:3.5](/fr/The_Urantia_Book/6#p3_5)
+[^12]: <a id="a266_7"></a>[LU 84:7.23](/fr/The_Urantia_Book/84#p7_23)
+[^13]: <a id="a267_7"></a>[LU 81:6.24](/fr/The_Urantia_Book/81#p6_24)
+[^14]: <a id="a268_7"></a>[LU 84:7.25](/fr/The_Urantia_Book/84#p7_25)
+[^15]: <a id="a269_7"></a>[LU 54:6.4](/fr/The_Urantia_Book/54#p6_4)
 [^16]: Un vieux dessin animé ? — Je ne peux pas m'en souvenir
 [^17]: Encyclopédie de la religion et de l'éthique, Vol. 23h. 808
-[^18]: [LU 101:10.8](/fr/The_Urantia_Book/101#p10_8)
-[^19]: [LU 117:2.5](/fr/The_Urantia_Book/117#p2_5) ; [LU 117:3.13](/fr/The_Urantia_Book/117#p3_13)
-[^20]: [LU 117:6.3](/fr/The_Urantia_Book/117#p6_3)
-[^21]: [LU 115:7.2](/fr/The_Urantia_Book/115#p7_2) ; [LU 117:4.2](/fr/The_Urantia_Book/117#p4_2)
-[^22]: [LU 115:7.5](/fr/The_Urantia_Book/115#p7_5) ; [LU 116:0.5](/fr/The_Urantia_Book/116#p0_5); [LU 117:2.1](/fr/The_Urantia_Book/117#p2_1) ; [LU 117:4.14](/fr/The_Urantia_Book/117#p4_14) ; [LU 118:2.4](/fr/The_Urantia_Book/118#p2_4)
-[^23]: [LU 118:10.3](/fr/The_Urantia_Book/118#p10_3)
-[^24]: [LU 117:6.12](/fr/The_Urantia_Book/117#p6_12)
-[^25]: [LU 115:0.1](/fr/The_Urantia_Book/115#p0_1)
-[^26]: [LU 117:4.10](/fr/The_Urantia_Book/117#p4_10)
-[^27]: [LU 115:1.4](/fr/The_Urantia_Book/115#p1_4) ; [LU 117:4.9](/fr/The_Urantia_Book/117#p4_9); [LU 118:7.5](/fr/The_Urantia_Book/118#p7_5)
-[^28]: [LU 116:3.5](/fr/The_Urantia_Book/116#p3_5) ; [LU 117:0.1](/fr/The_Urantia_Book/117#p0_1)
-[^29]: [LU 117:0.4](/fr/The_Urantia_Book/117#p0_4)
-[^30]: [LU 12:7.10](/fr/The_Urantia_Book/12#p7_10)
-[^31]: [LU 141:2.3](/fr/The_Urantia_Book/141#p2_3)
-[^32]: [LU 100:4.3](/fr/The_Urantia_Book/100#p4_3)
-[^33]: [LU 99:7.2](/fr/The_Urantia_Book/99#p7_2)
-[^34]: [LU 196:0.7](/fr/The_Urantia_Book/196#p0_7)
-[^35]: [LU 196:0.11](/fr/The_Urantia_Book/196#p0_11)
-[^36]: [LU 134:5.9](/fr/The_Urantia_Book/134#p5_9)
-[^37]: [LU 100:1.4](/fr/The_Urantia_Book/100#p1_4)
-[^38]: [LU 99:3.15](/fr/The_Urantia_Book/99#p3_15) ; [LU 117:1.8](/fr/The_Urantia_Book/117#p1_8)
-[^39]: [LU 160:2.9](/fr/The_Urantia_Book/160#p2_9)
-[^40]: [LU 176:3.1](/fr/The_Urantia_Book/176#p3_1)
+[^18]: <a id="a272_7"></a>[LU 101:10.8](/fr/The_Urantia_Book/101#p10_8)
+[^19]: <a id="a273_7"></a>[LU 117:2.5](/fr/The_Urantia_Book/117#p2_5) ; <a id="a273_53"></a>[LU 117:3.13](/fr/The_Urantia_Book/117#p3_13)
+[^20]: <a id="a274_7"></a>[LU 117:6.3](/fr/The_Urantia_Book/117#p6_3)
+[^21]: <a id="a275_7"></a>[LU 115:7.2](/fr/The_Urantia_Book/115#p7_2) ; <a id="a275_53"></a>[LU 117:4.2](/fr/The_Urantia_Book/117#p4_2)
+[^22]: <a id="a276_7"></a>[LU 115:7.5](/fr/The_Urantia_Book/115#p7_5) ; <a id="a276_53"></a>[LU 116:0.5](/fr/The_Urantia_Book/116#p0_5); <a id="a276_98"></a>[LU 117:2.1](/fr/The_Urantia_Book/117#p2_1) ; <a id="a276_144"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14) ; <a id="a276_192"></a>[LU 118:2.4](/fr/The_Urantia_Book/118#p2_4)
+[^23]: <a id="a277_7"></a>[LU 118:10.3](/fr/The_Urantia_Book/118#p10_3)
+[^24]: <a id="a278_7"></a>[LU 117:6.12](/fr/The_Urantia_Book/117#p6_12)
+[^25]: <a id="a279_7"></a>[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1)
+[^26]: <a id="a280_7"></a>[LU 117:4.10](/fr/The_Urantia_Book/117#p4_10)
+[^27]: <a id="a281_7"></a>[LU 115:1.4](/fr/The_Urantia_Book/115#p1_4) ; <a id="a281_53"></a>[LU 117:4.9](/fr/The_Urantia_Book/117#p4_9); <a id="a281_98"></a>[LU 118:7.5](/fr/The_Urantia_Book/118#p7_5)
+[^28]: <a id="a282_7"></a>[LU 116:3.5](/fr/The_Urantia_Book/116#p3_5) ; <a id="a282_53"></a>[LU 117:0.1](/fr/The_Urantia_Book/117#p0_1)
+[^29]: <a id="a283_7"></a>[LU 117:0.4](/fr/The_Urantia_Book/117#p0_4)
+[^30]: <a id="a284_7"></a>[LU 12:7.10](/fr/The_Urantia_Book/12#p7_10)
+[^31]: <a id="a285_7"></a>[LU 141:2.3](/fr/The_Urantia_Book/141#p2_3)
+[^32]: <a id="a286_7"></a>[LU 100:4.3](/fr/The_Urantia_Book/100#p4_3)
+[^33]: <a id="a287_7"></a>[LU 99:7.2](/fr/The_Urantia_Book/99#p7_2)
+[^34]: <a id="a288_7"></a>[LU 196:0.7](/fr/The_Urantia_Book/196#p0_7)
+[^35]: <a id="a289_7"></a>[LU 196:0.11](/fr/The_Urantia_Book/196#p0_11)
+[^36]: <a id="a290_7"></a>[LU 134:5.9](/fr/The_Urantia_Book/134#p5_9)
+[^37]: <a id="a291_7"></a>[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4)
+[^38]: <a id="a292_7"></a>[LU 99:3.15](/fr/The_Urantia_Book/99#p3_15) ; <a id="a292_53"></a>[LU 117:1.8](/fr/The_Urantia_Book/117#p1_8)
+[^39]: <a id="a293_7"></a>[LU 160:2.9](/fr/The_Urantia_Book/160#p2_9)
+[^40]: <a id="a294_7"></a>[LU 176:3.1](/fr/The_Urantia_Book/176#p3_1)
 [^41]: Les Vikings, par Howard La Fay, National Geographic Society, Washington, D.C., 1972 ; et Histoires étranges, faits étonnants. Association Reader's Digest, Pleasantville, New York, 1976
-[^42]: [LU 12:7.2](/fr/The_Urantia_Book/12#p7_2)
-[^43]: [LU 39:4.14](/fr/The_Urantia_Book/39#p4_14)
-[^44]: [LU 28:5.15](/fr/The_Urantia_Book/28#p5_15)
-[^45]: [LU 48:6.26](/fr/The_Urantia_Book/48#p6_26)
-[^46]: [LU 39:4.14](/fr/The_Urantia_Book/39#p4_14)
+[^42]: <a id="a296_7"></a>[LU 12:7.2](/fr/The_Urantia_Book/12#p7_2)
+[^43]: <a id="a297_7"></a>[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14)
+[^44]: <a id="a298_7"></a>[LU 28:5.15](/fr/The_Urantia_Book/28#p5_15)
+[^45]: <a id="a299_7"></a>[LU 48:6.26](/fr/The_Urantia_Book/48#p6_26)
+[^46]: <a id="a300_7"></a>[LU 39:4.14](/fr/The_Urantia_Book/39#p4_14)
 [^47]: Max Lerner, chroniqueur du New York Post, 6 juin 1961

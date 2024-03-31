@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Sue Tennant<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Mystery_of_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mystère de l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="pr-2">Paradis : le recentrage de la théologie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Adapté d'une conférence donnée lors de l'ouverture du premier temple taoïste autonome au Canada_
@@ -43,7 +67,7 @@ Beaucoup de gens perçoivent les différences religieuses comme un problème. Je
 
 Si les religions diffèrent autant, n’avons-nous rien en commun ? Après vingt ans d’études sur la religion et les gens, je pense que je commence à comprendre quelque chose de fondamental sur les personnes véritablement religieuses, malgré leurs croyances différentes. Ce sont des gens _dévoués_. Les religieux sont des gens de tout cœur, dévoués à ce qu'ils considèrent comme d'une valeur suprême. _Les religieux sont dévoués de tout cœur aux valeurs suprêmes_. D’après mon expérience, leur dévouement est fiable, fiable et le plus souvent aimant et compatissant. Leur dévouement s’oublie d’eux-mêmes. Même le dévouement de parents soi-disant irréligieux envers leurs enfants, ou d’un athée pour une cause sociale, confine au religieux. Lorsque cette dévotion est malavisée, elle produit du fanatisme et, bien sûr, c'est l'un des inconvénients malheureux de la religion. Mais après avoir découvert ce que je considère comme la qualité essentielle des personnes religieuses, il m’est facile de voir à quel point les religieux ont un impact profond sur le monde. Le pouvoir d’un leadership religieux efficace peut changer le cours de l’histoire. Et il m’est aussi facile de comprendre, lorsque les valeurs suprêmes se déforment, combien il est impossible pour certains religieux de s’entendre.
 
-> Les religions d’autorité ne peuvent que diviser les hommes et dresser les consciences les unes contre les autres. La religion de l’esprit attirera progressivement les hommes les uns vers les autres et provoquera une sympathie compréhensive entre eux. Les religions d’autorité exigent des hommes une croyance uniforme, chose impossible à réaliser dans le présent état du monde. La religion de l’esprit n’exige qu’une unité d’expérience — une destinée uniforme — tenant entièrement compte de la diversité des croyances. La religion de l’esprit ne demande que l’uniformité de clairvoyance, et non l’uniformité de point de vue et de conception. La religion de l’esprit ne requiert pas l’uniformité des vues intellectuelles, mais seulement l’unité de sentiment spirituel. Les religions d’autorité se cristallisent en crédos inertes. La religion de l’esprit devient la joie et la liberté croissantes dues à l’ennoblissement par des actes de service plein d’amour et des soins miséricordieux. ([LU 155:6.9](/fr/The_Urantia_Book/155#p6_9))
+> Les religions d’autorité ne peuvent que diviser les hommes et dresser les consciences les unes contre les autres. La religion de l’esprit attirera progressivement les hommes les uns vers les autres et provoquera une sympathie compréhensive entre eux. Les religions d’autorité exigent des hommes une croyance uniforme, chose impossible à réaliser dans le présent état du monde. La religion de l’esprit n’exige qu’une unité d’expérience — une destinée uniforme — tenant entièrement compte de la diversité des croyances. La religion de l’esprit ne demande que l’uniformité de clairvoyance, et non l’uniformité de point de vue et de conception. La religion de l’esprit ne requiert pas l’uniformité des vues intellectuelles, mais seulement l’unité de sentiment spirituel. Les religions d’autorité se cristallisent en crédos inertes. La religion de l’esprit devient la joie et la liberté croissantes dues à l’ennoblissement par des actes de service plein d’amour et des soins miséricordieux. (<a id="a69_989"></a>[LU 155:6.9](/fr/The_Urantia_Book/155#p6_9))
 
 Dans la nature, la diversité assure la polyvalence et la polyvalence assure la survie. Cela peut également être vrai pour la religion. De nombreux éléments de la société convergent pour accroître leur efficacité et leur efficience afin de survivre. Dans son livre _The Global Paradox_, le futuriste John Naisbatt parle de la convergence imminente des technologies de communication qui facilitera l'élaboration d'un nouveau code de conduite mondial visant à protéger les droits humains fondamentaux. Au fil du temps, dit-il, toutes les communautés seront tenues de respecter les mêmes normes de comportement. Ceux qui ne le feront pas devront rendre des comptes au reste de la communauté internationale. Lorsque le monde regarde, observe-t-il, le comportement d'une communauté est influencé par la réaction anticipée de ses alliés économiques. Si le pouvoir économique est le levier de l’action sociale, le pouvoir moral n’est-il pas le levier de l’œcuménisme religieux ? Et le monde ne semble-t-il pas réclamer un leadership moral et spirituel audacieux ?
 
@@ -65,13 +89,38 @@ Les religions promulguent. Les gens sont inspirés par un enseignement ou un lea
 
 Vivre avec la diversité n’est pas facile. Quitter le confort d'une communauté partageant les mêmes idées, avec ses valeurs et ses modes de vie prévisibles, et s'aventurer dans le monde multiculturel demande du courage, ou du moins un sens de l'aventure. Il faut une détermination et des efforts conscients pour apprendre et grandir au milieu des différences culturelles et religieuses. Mais si nous aimons Dieu et ce monde, nous découvrons bientôt une dimension nouvelle et passionnante de bonté et de vérité résidant dans le cœur des autres. Il ne faut pas longtemps avant que nous réalisions : « Qu’importe que les différences persistent, comme elles le feront, car nous sommes tous enfants de Dieu. »
 
-> Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes. » ([LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
+> Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes. » (<a id="a91_316"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
 
 D’après mon expérience, aucun enseignement ne résonne plus fortement dans l’âme humaine que celui selon lequel notre esprit est habité par l’esprit divin de Dieu. Cette lumière intérieure, reconnue par toutes les religions, élève notre réflexion et nous conduit vers de nouvelles voies de compassion et de service envers les autres. L'expérience spirituelle personnelle est le fait autour duquel les religions peuvent découvrir la parenté ; et les associations interconfessionnelles constituent le voyage expérientiel dans lequel se réalise une fraternité spirituelle croissante. Nous partageons le voyage avec tous les croyants et, à mesure que notre expérience se développe, le pouvoir de l'ouverture, de l'écoute, de la réflexion, de la communication, de l'ambiguïté, de la diversité, du travail d'équipe et des idéaux spirituels universels s'accroît également. Le chemin à parcourir est long et droit, et les progrès ne sont pas toujours faciles à percevoir. Mais à tous ceux qui feront un pas en avant, le voyage interconfessionnel promet un _espoir_ pour un avenir meilleur et des opportunités passionnantes pour créer un monde meilleur.
 
 > _Sue Tennant a fréquenté le Wycliffe College et la Toronto School of Theology, est une ancienne publiciste de Toronto et auteur de Crossing Cultures in Business. Elle est actuellement directrice de la World Interfaith Education Association et fondatrice de la section ontarienne de la World Interfaith Education Association._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Mystery_of_Mind">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mystère de l'esprit</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Paradise_The_Recentering_of_Theology">
+          <span class="pr-2">Paradis : le recentrage de la théologie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

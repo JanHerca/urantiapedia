@@ -67,7 +67,7 @@ De même, en ce qui concerne les détails de la transmutation des possibilités 
 
 En revanche, les Cahiers d'Urantia présentent un compte rendu détaillé de la voie par laquelle les potentiels existentiels mais statiques résidant dans l'Absolu Non Qualifié sont activés causalement de manière à être transformés et à devenir des réalités potentielles dans les mondes finis. Cependant, bien qu’un compte rendu détaillé du parcours soit fourni, aucune information sur la transformation physique de l’existentiel à l’expérientiel n’est fournie. ([La transmutation des potentialités et des réalités existentielles vers le niveau fini de réalité](/fr/article/The_Transmutation_of_Existential)).
 
-En ce qui concerne l'apparente créativité de l'esprit des êtres mortels, la réalité semble être qu'elle réside en fait dans la manière dont nous sélectionnons parmi les possibilités et les potentiels résidant déjà dans le Suprême. C’est la prise de décision considérée comme si importante pour notre progrès spirituel. ([LU 39:4.8](/fr/The_Urantia_Book/39#p4_8))
+En ce qui concerne l'apparente créativité de l'esprit des êtres mortels, la réalité semble être qu'elle réside en fait dans la manière dont nous sélectionnons parmi les possibilités et les potentiels résidant déjà dans le Suprême. C’est la prise de décision considérée comme si importante pour notre progrès spirituel. (<a id="a69_320"></a>[LU 39:4.8](/fr/The_Urantia_Book/39#p4_8))
 
 Il est intéressant de noter que parmi ceux qui étudient le sujet de la conscience et de la conscience de soi, il y a, d'un côté, ceux qui nient l'existence de l'une et de l'autre, et de l'autre extrême, ceux qui tentent d'associer les découvertes bizarres de la physique quantique. avec leurs travaux en neurophysiologie.
 

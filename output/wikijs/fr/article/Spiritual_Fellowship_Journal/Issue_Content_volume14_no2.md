@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Transitions">
+          <span class="pr-2">Transitions...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 14, Numéro 1, Automne-Hiver, 2004
@@ -91,7 +112,7 @@ Larry et Joan Mullins<br>
 Nancy Long
 </p>
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par The Spiritual Fellowship. Son but est de soutenir la Communauté Urantia dans son ensemble, particulièrement dans la mesure où elle cherche à établir une interface avec les cultures et les institutions religieuses de notre monde. Il cherche également à aborder des questions particulièrement préoccupantes dans l’établissement de nouvelles institutions religieuses ayant leurs racines dans la Cinquième Révélation d’Époque.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par The Spiritual Fellowship. Son but est de soutenir la Communauté Urantia dans son ensemble, particulièrement dans la mesure où elle cherche à établir une interface avec les cultures et les institutions religieuses de notre monde. Il cherche également à aborder des questions particulièrement préoccupantes dans l’établissement de nouvelles institutions religieuses ayant leurs racines dans la Cinquième Révélation d’Époque.
 
 Les dons d’abonnement, les changements d’adresse, les articles et la correspondance éditoriale doivent être envoyés à :
 
@@ -109,7 +130,7 @@ Don annuel suggéré : 10 $.
 ***Éditoriaux et commentaires***
 
 - **Transitions**
-	Un regard sur l'histoire du _The Spiritual Fellowship Journal_ et comment son objectif a évolué et continue d'évoluer.
+	Un regard sur l'histoire du _Journal de la Fraternité Spirituelle_ et comment son objectif a évolué et continue d'évoluer.
 - **Religion en transition**
 	D’éminents théologiens chrétiens, tels que l’évêque John Shelby Spong, reconnaissent la nécessité de reconstruire la pensée religieuse alors que nous continuons à sortir d’une ère pré-scientifique.
 - **La joie de vivre à la limite**
@@ -138,9 +159,31 @@ Don annuel suggéré : 10 $.
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Transitions">
+          <span class="pr-2">Transitions...</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
 
-[^1]: Voir [LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
+[^1]: Voir <a id="a186_11"></a>[LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
 
 [^2]: Robert K. Greenleaf, _Servant Leadership_, Paulist Press, New York, 1977, p. 237.

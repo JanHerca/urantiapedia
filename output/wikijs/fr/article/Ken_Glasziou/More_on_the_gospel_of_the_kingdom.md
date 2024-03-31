@@ -11,9 +11,9 @@ dateCreated: 2022-9-9T8:13:38Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Ken Glasziou<br>© 1997 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> C’est toujours la technique la plus efficace dans toutes les formes et phases de l’enseignement. Même des parents peuvent apprendre de Philippe la meilleure manière de *ne pas* dire à leurs enfants : « allez faire ceci et allez faire cela », mais plutôt : « Venez avec nous, nous allons vous montrer la meilleure route à suivre et y cheminer avec vous. » ([LU 139:5.8](/fr/The_Urantia_Book/139#p5_8))
+> C’est toujours la technique la plus efficace dans toutes les formes et phases de l’enseignement. Même des parents peuvent apprendre de Philippe la meilleure manière de *ne pas* dire à leurs enfants : « allez faire ceci et allez faire cela », mais plutôt : « Venez avec nous, nous allons vous montrer la meilleure route à suivre et y cheminer avec vous. » (<a id="a13_358"></a>[LU 139:5.8](/fr/The_Urantia_Book/139#p5_8))
 
-> « car le royaume que vous prêchez est Dieu en vous. ([LU 140:1.5](/fr/The_Urantia_Book/140#p1_5))
+> « car le royaume que vous prêchez est Dieu en vous. (<a id="a15_55"></a>[LU 140:1.5](/fr/The_Urantia_Book/140#p1_5))
 
 _Déclaré dans sa forme la plus simple, l'évangile du royaume est la reconnaissance que l'esprit de Dieu habite en nous pour nous amener à vouloir être comme lui._
 

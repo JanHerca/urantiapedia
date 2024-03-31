@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Jay Newbern<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Our_Subliminal_Mentor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre mentor subliminal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Marks/Do_This_in_Remembrance_of_Me">
+          <span class="pr-2">Faites ceci en souvenir de moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aujourd'hui sur Urantia, selon les Nations Unies, 5 milliards de personnes savent lire et écrire ; cela représente plus de 83% du total de 6 milliards. Il n’y a eu d’alphabétisation de masse qu’après le développement de l’imprimerie au milieu du XVe siècle. Il existe actuellement 31 langues principales dans le monde, chacune comptant au moins 36 millions de locuteurs. _Le Livre d'Urantia_ est maintenant publié dans cinq de ces langues – anglais, espagnol, russe, français et coréen – et est en cours de traduction dans sept autres langues principales : chinois mandarin, arabe, portugais, allemand, tamoul, italien et farsi.
@@ -54,9 +78,9 @@ Population de locuteurs en millions
 
 ## L'importance de la langue
 
-La langue écrite sur cette planète est apparue pour la première fois il y a 5 200 ans, lorsque les Sumériens ont inventé l’écriture initiale. À l'aide d'un stylet en roseau, ce peuple du Moyen-Orient a créé des images de jetons pour compter les marchandises sur des tablettes d'argile humides. « Aucune autre invention – peut-être seule la roue s’en rapproche – n’a eu un impact plus long et plus important. L'écriture a contribué à préserver les trois grandes religions monothéistes, dont le Coran appelle les croyants « le peuple du livre ».[^1] « La langue est l'outil de réflexion le plus grand et le plus utile de l'homme… » ([LU 81:6.17](/fr/The_Urantia_Book/81#p6_17))
+La langue écrite sur cette planète est apparue pour la première fois il y a 5 200 ans, lorsque les Sumériens ont inventé l’écriture initiale. À l'aide d'un stylet en roseau, ce peuple du Moyen-Orient a créé des images de jetons pour compter les marchandises sur des tablettes d'argile humides. « Aucune autre invention – peut-être seule la roue s’en rapproche – n’a eu un impact plus long et plus important. L'écriture a contribué à préserver les trois grandes religions monothéistes, dont le Coran appelle les croyants « le peuple du livre ».[^1] « La langue est l'outil de réflexion le plus grand et le plus utile de l'homme… » (<a id="a80_631"></a>[LU 81:6.17](/fr/The_Urantia_Book/81#p6_17))
 
-Les Sumériens ont vu le jour il y a 200 000 ans après la submersion de la Dalamatie (Première Révélation d'Époque) dont ils ont perdu l'alphabet ; ils ont adopté un système d'écriture particulier originaire de Dilmun. « La langage sumérien n’était pas sémitique ; il avait de nombreux éléments communs avec les langues dites aryennes. » ([LU 77:4.7](/fr/The_Urantia_Book/77#p4_7)) Leurs tablettes d'argile parlent du premier et du deuxième Edens mais ils étaient confus au sujet de la Dalamatie. Ils étaient principalement d'extraction andite, bien que leur culture ait un caractère plus nodite. « Vers l’an 5 000 av. J.-C., les trois lignées les plus pures des descendants d’Adam se trouvaient en Sumérie, en Europe du Nord et en Grèce. » ([LU 80:7.9](/fr/The_Urantia_Book/80#p7_9)) L'art de l'écriture et leur alphabet ont été importés des villes sumériennes du golfe Persique par les Dravidiens qui étaient marins et marchands.
+Les Sumériens ont vu le jour il y a 200 000 ans après la submersion de la Dalamatie (Première Révélation d'Époque) dont ils ont perdu l'alphabet ; ils ont adopté un système d'écriture particulier originaire de Dilmun. « La langage sumérien n’était pas sémitique ; il avait de nombreux éléments communs avec les langues dites aryennes. » (<a id="a82_338"></a>[LU 77:4.7](/fr/The_Urantia_Book/77#p4_7)) Leurs tablettes d'argile parlent du premier et du deuxième Edens mais ils étaient confus au sujet de la Dalamatie. Ils étaient principalement d'extraction andite, bien que leur culture ait un caractère plus nodite. « Vers l’an 5 000 av. J.-C., les trois lignées les plus pures des descendants d’Adam se trouvaient en Sumérie, en Europe du Nord et en Grèce. » (<a id="a82_741"></a>[LU 80:7.9](/fr/The_Urantia_Book/80#p7_9)) L'art de l'écriture et leur alphabet ont été importés des villes sumériennes du golfe Persique par les Dravidiens qui étaient marins et marchands.
 
 > _Actuellement, il existe 31 langues majeures dans le monde qui revendiquent chacune 36 millions de locuteurs ou plus._ Le Livre d'Urantia _est maintenant publié dans cinq de ces langues — anglais, espagnol, russe, français et coréen — et est en cours de traduction dans sept autres langues. Langues principales : chinois mandarin, arabe, portugais, allemand, tamoul, italien et farsi._
 
@@ -70,7 +94,7 @@ Notre langue anglaise, la plus complexe de la planète avec plus de 600 000 mots
 
 L'alphabet levantin original a été créé par les Phéniciens. Il a planté les racines d’autres systèmes d’écriture en Méditerranée orientale, notamment l’hébreu et l’arabe modernes. Par exemple, la lettre latine moderne « A » a évolué à partir du « aleph » phénicien et hébreu, de l’araméen « alaph », de l’arabe « alif » et du grec « alpha ». Dans l’histoire de l’humanité, plus de 10 000 langues ont été parlées, dont beaucoup ont aujourd’hui disparu. Quelque 6 000 d'entre eux sont actuellement parlés, mais il est peu probable que plus de la moitié d'entre eux survivent au 21 e siècle. La moitié compte moins de 10 000 locuteurs et un quart en compte moins de 1 000.
 
-L'anthropologue Luisa Moffi : « Dans la Bible, la multiplicité des langues peut être interprétée comme une malédiction. Au lieu de cela, il a été suggéré qu'il s'agit d'une protection contre les mêmes angles morts culturels. Les Acoma Pueblo disent que la déesse Iatiku a créé différentes langues pour qu'il ne soit pas facile pour les humains de se quereller. [^4] Les Cahiers d'Urantia ne sont pas d'accord. « Les différences linguistiques constituent depuis lors le grand obstacle à l’extension de la paix. La conquête des dialectes doit précéder la diffusion d'une culture à travers une race, sur un continent ou dans un monde entier. Une langue universelle favorise la paix, assure la culture et augmente le bonheur. ([LU 81:6.18](/fr/The_Urantia_Book/81#p6_18))
+L'anthropologue Luisa Moffi : « Dans la Bible, la multiplicité des langues peut être interprétée comme une malédiction. Au lieu de cela, il a été suggéré qu'il s'agit d'une protection contre les mêmes angles morts culturels. Les Acoma Pueblo disent que la déesse Iatiku a créé différentes langues pour qu'il ne soit pas facile pour les humains de se quereller. [^4] Les Cahiers d'Urantia ne sont pas d'accord. « Les différences linguistiques constituent depuis lors le grand obstacle à l’extension de la paix. La conquête des dialectes doit précéder la diffusion d'une culture à travers une race, sur un continent ou dans un monde entier. Une langue universelle favorise la paix, assure la culture et augmente le bonheur. (<a id="a96_723"></a>[LU 81:6.18](/fr/The_Urantia_Book/81#p6_18))
 
 ## Problèmes planétaires
 
@@ -90,6 +114,31 @@ Alors que nous parcourons le monde vers toutes les races, tribus et nations, peu
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Our_Subliminal_Mentor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Notre mentor subliminal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Marks/Do_This_in_Remembrance_of_Me">
+          <span class="pr-2">Faites ceci en souvenir de moi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

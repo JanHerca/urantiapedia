@@ -27,7 +27,7 @@ Dans un manuel publié dans une université américaine en 1934 et intitulé « 
 
 Les mots de Swann ont été reproduits dans le fascicule 42, section 6, mais avec la comparaison, ils ont évidemment délibérément changé de masse en volume. Ça lit:
 
-> « _Si l’on agrandissait la masse de la matière jusqu’à ce qu’un électron pèse un dixième d’once (2,83 grammes) et si ses dimensions étaient accrues dans la même proportion, le volume de cet électron deviendrait aussi grand que celui de la terre._ » ([LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
+> « _Si l’on agrandissait la masse de la matière jusqu’à ce qu’un électron pèse un dixième d’once (2,83 grammes) et si ses dimensions étaient accrues dans la même proportion, le volume de cet électron deviendrait aussi grand que celui de la terre._ » (<a id="a29_252"></a>[LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
 
 
 En prenant la masse au repos de l'électron à 9,1 x 10^-28^ g, 0,1 once à 2,8 g, le rayon de la terre à 6,4 x 10^6^ m et en mettant k comme constante de grossissement, alors : k x 9,1 x 10 ^-28^ = 2,8 (1), et donc
@@ -61,7 +61,7 @@ Il y avait une deuxième partie à la comparaison de Swann qui disait :
 
 L’auteur de l’Étude d’Urantia n’a pas utilisé cette équation, changeant la comparaison en :
 
-> « _Si le volume d’un proton — mille-huit-cents fois plus lourd qu’un électron — était grossi jusqu’à la taille d’une tête d’épingle, alors, en comparaison, une tête d’épingle aurait un diamètre égal à celui de l’orbite de la terre autour du Soleil._ » ([LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
+> « _Si le volume d’un proton — mille-huit-cents fois plus lourd qu’un électron — était grossi jusqu’à la taille d’une tête d’épingle, alors, en comparaison, une tête d’épingle aurait un diamètre égal à celui de l’orbite de la terre autour du Soleil._ » (<a id="a63_255"></a>[LU 42:6.8](/fr/The_Urantia_Book/42#p6_8))
 
 
 Stefan Talqvist était à nouveau chargé de faire les calculs et d'attirer l'attention sur ce remarquable morceau de matériel prophétique dans les Cahiers.

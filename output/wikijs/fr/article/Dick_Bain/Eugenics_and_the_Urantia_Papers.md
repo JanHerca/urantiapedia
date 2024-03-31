@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2003 Dick Bain<br>© 2003 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sir Hubert Wilkins</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="pr-2">L'Eugénisme et les Fascicules d'Urantia — Un point de vue différent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque nous tombons amoureux, beaucoup d’entre nous entrent dans un état de conscience (ou d’inconscience) altérée appelé engouement. Sous le charme de cette condition, nous sommes aveugles aux défauts de notre bien-aimé. Mais à mesure que le temps passe, l’enfer s’apaise et notre esprit rationnel recommence à fonctionner. On commence à prendre conscience des défauts et des petites habitudes agaçantes de notre proche. On commence à en vouloir à leur manque de ponctualité, à leur habitude de se ronger les ongles, à leurs chaussettes mal assorties, à leur avarice, etc. C'est peut-être la première épreuve de la relation. Si nous trouvons les défauts perçus vraiment ennuyeux, notre ardeur peut décliner et nous pourrions bientôt décider de passer à une autre relation. Ou bien nous pouvons décider qu’il ou elle est vraiment une personne intéressante, nous devons donc faire un peu de compromis et commencer à construire la relation. Et c'est ainsi que notre relation avec _Le Livre d'Urantia_ a évolué pour beaucoup d'entre nous.
@@ -35,19 +59,19 @@ Le Dr Meredith Sprunger raconte que le Dr Sadler a écrit un livre sur l'eugéni
 
 L'acceptation de l'eugénisme dans les années 1920 et 1930 a pour l'essentiel disparu, bien qu'il existe quelques sites pro-eugénistes sur Internet. Les abus ont été si flagrants qu’il est presque impossible d’avoir une discussion rationnelle sur le sujet de nos jours. Dans une atmosphère comme celle-ci, devrions-nous défendre l’eugénisme dans les Cahiers d’Urantia ? Je suis sûr que nous devrons faire face à de nombreuses critiques à l’encontre de la position eugéniste des auteurs. Malheureusement, les concepts eugénistes se retrouvent dans de nombreux articles. Voici quelques-unes des déclarations que je choisis de qualifier de mines terrestres eugéniques [^4]:
 
-> _Ces six races évolutionnaires sont destinées à être mélangées et élevées par amalgamation avec la progéniture des élévateurs adamiques. Mais, avant la fusion de ces peuples, les inférieurs et les inadaptés sont largement éliminés. Le Prince Planétaire et le Fils Matériel ainsi que d’autres autorités planétaires qualifiées jugent les aptitudes des lignées reproductrices. La difficulté pour exécuter un programme aussi radical sur Urantia vient de l’absence de juges compétents pour statuer sur l’aptitude ou l’inaptitude biologique des individus des races de votre monde. Malgré cet obstacle, il semble que vous devriez être capables de vous mettre d’accord sur la dissociation biologique d’avec les lignées les plus notoirement inaptes, défectueuses ou antisociales._ ([LU 51:4.8](/fr/The_Urantia_Book/51#p4_8))
+> _Ces six races évolutionnaires sont destinées à être mélangées et élevées par amalgamation avec la progéniture des élévateurs adamiques. Mais, avant la fusion de ces peuples, les inférieurs et les inadaptés sont largement éliminés. Le Prince Planétaire et le Fils Matériel ainsi que d’autres autorités planétaires qualifiées jugent les aptitudes des lignées reproductrices. La difficulté pour exécuter un programme aussi radical sur Urantia vient de l’absence de juges compétents pour statuer sur l’aptitude ou l’inaptitude biologique des individus des races de votre monde. Malgré cet obstacle, il semble que vous devriez être capables de vous mettre d’accord sur la dissociation biologique d’avec les lignées les plus notoirement inaptes, défectueuses ou antisociales._ (<a id="a61_775"></a>[LU 51:4.8](/fr/The_Urantia_Book/51#p4_8))
 
 [Extrait d'un dictionnaire en ligne : _Disfellowship : 1. Pour exclure de la bourse ; refuser des relations sexuelles avec, en tant qu'associé_. Aussi, excommunier. Qu’entendent réellement les auteurs par exclusion ? Stérilisation?]
 
-> _Les méthodes de ce peuple pour traiter les criminels, les fous et les dégénérés, bien qu’elles puissent plaire sous certains aspects, paraitront assurément choquantes sous d’autres aspects à la plupart des Urantiens. Les anormaux et les criminels ordinaires sont placés par sexes dans différentes colonies agricoles où ils font plus que de subvenir à leurs besoins. Les criminels les plus invétérés et les aliénés incurables sont condamnés par les tribunaux à mourir dans des chambres à gaz._ ([LU 72:10.1](/fr/The_Urantia_Book/72#p10_1))
+> _Les méthodes de ce peuple pour traiter les criminels, les fous et les dégénérés, bien qu’elles puissent plaire sous certains aspects, paraitront assurément choquantes sous d’autres aspects à la plupart des Urantiens. Les anormaux et les criminels ordinaires sont placés par sexes dans différentes colonies agricoles où ils font plus que de subvenir à leurs besoins. Les criminels les plus invétérés et les aliénés incurables sont condamnés par les tribunaux à mourir dans des chambres à gaz._ (<a id="a65_497"></a>[LU 72:10.1](/fr/The_Urantia_Book/72#p10_1))
 
 [Il me semble que les auteurs ont inclus l'article sur le gouvernement sur une planète voisine (article 72) pour nous donner une idée de la direction que nous devrions prendre dans notre développement. Notez cependant qu’ils se rendent compte que nous trouverons certaines de leurs idées « choquantes ».]
 
-> _La mission adamique sur Urantia, planète expérimentale, déchirée par la rébellion et isolée, était une entreprise formidable. Le Fils et la Fille Matériels ne tardèrent pas à se rendre compte de la difficulté et de la complexité de leur affectation planétaire. Néanmoins, ils se mirent courageusement à l’œuvre pour résoudre leurs nombreux problèmes, mais, quand ils s’attaquèrent au travail majeur d’éliminer les êtres dégénérés et défectueux des lignées humaines, ils furent tout à fait consternés. Ils ne voyaient aucun moyen de sortir du dilemme et ne pouvaient prendre conseil de leurs supérieurs ni sur Jérusem ni sur Édentia._ ([LU 75:1.1](/fr/The_Urantia_Book/75#p1_1))
+> _La mission adamique sur Urantia, planète expérimentale, déchirée par la rébellion et isolée, était une entreprise formidable. Le Fils et la Fille Matériels ne tardèrent pas à se rendre compte de la difficulté et de la complexité de leur affectation planétaire. Néanmoins, ils se mirent courageusement à l’œuvre pour résoudre leurs nombreux problèmes, mais, quand ils s’attaquèrent au travail majeur d’éliminer les êtres dégénérés et défectueux des lignées humaines, ils furent tout à fait consternés. Ils ne voyaient aucun moyen de sortir du dilemme et ne pouvaient prendre conseil de leurs supérieurs ni sur Jérusem ni sur Édentia._ (<a id="a69_638"></a>[LU 75:1.1](/fr/The_Urantia_Book/75#p1_1))
 
-> _Par suite d’un excès de fausse sentimentalité, l’Église a longtemps apporté son ministère aux défavorisés et aux malheureux, et ceci était tout à fait bien, mais cette même sentimentalité a conduit à perpétuer imprudemment des lignées racialement dégénérées qui ont formidablement retardé le progrès de la civilisation._ ([LU 99:3.5](/fr/The_Urantia_Book/99#p3_5))
+> _Par suite d’un excès de fausse sentimentalité, l’Église a longtemps apporté son ministère aux défavorisés et aux malheureux, et ceci était tout à fait bien, mais cette même sentimentalité a conduit à perpétuer imprudemment des lignées racialement dégénérées qui ont formidablement retardé le progrès de la civilisation._ (<a id="a71_325"></a>[LU 99:3.5](/fr/The_Urantia_Book/99#p3_5))
 
-> _La civilisation est en danger quand la jeunesse néglige de s’intéresser à l’éthique, à la sociologie, à l’eugénisme, à la philosophie, aux beaux-arts, à la religion et à la cosmologie._ ([LU 111:4.4](/fr/The_Urantia_Book/111#p4_4))
+> _La civilisation est en danger quand la jeunesse néglige de s’intéresser à l’éthique, à la sociologie, à l’eugénisme, à la philosophie, aux beaux-arts, à la religion et à la cosmologie._ (<a id="a73_190"></a>[LU 111:4.4](/fr/The_Urantia_Book/111#p4_4))
 
 Bien qu'il semble étrange de dire que les jeunes devraient s'intéresser à l'eugénisme, il est un fait que de nombreux manuels de biologie dans les lycées des années 1920 et 30 comportaient une section sur l'eugénisme et qu'un certain nombre d'universités prestigieuses proposaient des cours d'eugénisme. Peut-être que cela semble étrange à nos oreilles à cause des « sentiments trop faux » que nous avons appris à l’église. En fait, nous sommes allés si loin dans cette direction que certains font pression pour une déclaration limitée des droits des chimpanzés, car ils semblent confiner aux humains dans certaines de leurs caractéristiques sociales. Cela semble être un cas extrême de sensibilité aux inégalités sociales qui a commencé au siècle dernier. Sommes-nous trop sensibles ?
 
@@ -63,12 +87,37 @@ Une autre chose que j'ai conclue est qu'il est acceptable de dire aux personnes 
 
 Je crois que les auteurs avaient réellement l'intention que nous utilisions notre intelligence et notre bon sens pour propager les enseignements du livre. Je ne crois pas qu'ils voulaient que nous approuvions sans réfléchir des concepts contenus dans les fascicules qui ne sont pas en harmonie avec nos concepts de vérité tels que nous les comprenons ou que nous poursuivions des lignes d'action qui ne sont pas judicieuses dans notre culture actuelle. J'espère que nous ne les décevrons pas.
 
-> _On peut avoir techniquement raison sur les faits et éternellement tort sur la vérité._ ([LU 48:6.33](/fr/The_Urantia_Book/48#p6_33))
+> _On peut avoir techniquement raison sur les faits et éternellement tort sur la vérité._ (<a id="a89_91"></a>[LU 48:6.33](/fr/The_Urantia_Book/48#p6_33))
 
 > _Dick Bain est un lecteur de longue date des Cahiers d'Urantia et siège au conseil d'administration de The Spiritual Fellowship. L'adresse e-mail de Dick est N4RB@worldnet.att.net._
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_D_Campbell/Sir_Hubert_Wilkins_20th_Century_Magellan_Early_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sir Hubert Wilkins</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_and_Joan_Mullins/Eugenics_and_the_Urantia_Papers_A_Different_View">
+          <span class="pr-2">L'Eugénisme et les Fascicules d'Urantia — Un point de vue différent</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 
@@ -78,4 +127,4 @@ Je crois que les auteurs avaient réellement l'intention que nous utilisions not
 
 [^3]: Gould, Stephen Jay, 1985. _Eugénisme passé et présent, The Flamingo's Smile_, W.W. Norton et Cie.
 
-[^4]: D'autres références à l'eugénisme dans _Le Livre d'Urantia_ peuvent être trouvées aux endroits suivants dans le livre : [LU 52:2.9](/fr/The_Urantia_Book/52#p2_9), P.[LU 52:2.10](/fr/The_Urantia_Book/52#p2_10) , [LU 52:2.11](/fr/The_Urantia_Book/52#p2_11), [LU 52:3.4](/fr/The_Urantia_Book/52#p3_4), [LU 71:3.8](/fr/The_Urantia_Book/71#p3_8), [LU 72:9.8](/fr/The_Urantia_Book/72#p9_8), [LU 75:1.2](/fr/The_Urantia_Book/75#p1_2), [LU 82:6.4](/fr/The_Urantia_Book/82#p6_4), [LU 70:9.14](/fr/The_Urantia_Book/70#p9_14)
+[^4]: D'autres références à l'eugénisme dans _Le Livre d'Urantia_ peuvent être trouvées aux endroits suivants dans le livre : <a id="a129_126"></a>[LU 52:2.9](/fr/The_Urantia_Book/52#p2_9), P.<a id="a129_171"></a>[LU 52:2.10](/fr/The_Urantia_Book/52#p2_10) , <a id="a129_217"></a>[LU 52:2.11](/fr/The_Urantia_Book/52#p2_11), <a id="a129_262"></a>[LU 52:3.4](/fr/The_Urantia_Book/52#p3_4), <a id="a129_305"></a>[LU 71:3.8](/fr/The_Urantia_Book/71#p3_8), <a id="a129_348"></a>[LU 72:9.8](/fr/The_Urantia_Book/72#p9_8), <a id="a129_391"></a>[LU 75:1.2](/fr/The_Urantia_Book/75#p1_2), <a id="a129_434"></a>[LU 82:6.4](/fr/The_Urantia_Book/82#p6_4), <a id="a129_477"></a>[LU 70:9.14](/fr/The_Urantia_Book/70#p9_14)

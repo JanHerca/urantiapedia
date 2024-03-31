@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Lynn E. Rhoderick<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amour insondable de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Finding_Darwins_God_by_Kenneth_R_Miller">
+          <span class="pr-2">Livres importants : Trouver le Dieu de Darwin, par Kenneth R. Miller</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Lorsque j’ai été enrôlé dans l’armée pendant la guerre de Corée, j’ai essayé de respecter mon serment de boy-scout de faire de mon mieux pour servir Dieu et mon pays. J'ai vite appris que les Boy Scouts ne sont pas les bienvenus dans l'armée. En effet, la seule façon de garder la plupart des soldats satisfaits et leur moral élevé est de les laisser laisser leur moralité à la maison. J'en suis arrivé à la conclusion que la religion de type « Pollyanna » qu'on m'avait enseignée dans ma ville natale n'était pas très pratique dans l'armée.
@@ -24,7 +48,7 @@ Je crois que _Le Livre d'Urantia_ a fait s'effondrer les barrières de foi entre
 3. Je suis sûr que Dieu m'aime vraiment et qu'il m'a donné deux cadeaux spéciaux. Ces dons sont ma personnalité unique et mon « Ajusteur de Pensée » personnel.
 4. Je sais que cet Ajusteur de Pensée, mon assistant céleste, m'a amené à croire de tout cœur la promesse suivante que Jésus a faite à tous ceux qui croient en lui :
 
-> _Enseignez à tous les croyants que le fait d’entrer dans le royaume ne les immunise pas contre les accidents du temps ni contre les catastrophes ordinaires de la nature. La croyance à l’évangile n’empêchera pas d’avoir des ennuis, mais elle assurera que vous n’aurez *pas peur* quand les difficultés vous assailliront. Si vous osez croire en moi et si vous vous mettez à me suivre de tout cœur, vous vous engagerez en toute certitude sur le chemin qui mène aux difficultés. Je ne vous promets pas de vous délivrer des eaux de l’adversité, mais ce que je vous promets, c’est de les traverser toutes avec vous._ ([LU 159:3.13](/fr/The_Urantia_Book/159#p3_13))
+> _Enseignez à tous les croyants que le fait d’entrer dans le royaume ne les immunise pas contre les accidents du temps ni contre les catastrophes ordinaires de la nature. La croyance à l’évangile n’empêchera pas d’avoir des ennuis, mais elle assurera que vous n’aurez *pas peur* quand les difficultés vous assailliront. Si vous osez croire en moi et si vous vous mettez à me suivre de tout cœur, vous vous engagerez en toute certitude sur le chemin qui mène aux difficultés. Je ne vous promets pas de vous délivrer des eaux de l’adversité, mais ce que je vous promets, c’est de les traverser toutes avec vous._ (<a id="a50_613"></a>[LU 159:3.13](/fr/The_Urantia_Book/159#p3_13))
 
 Récemment, un ami m'a donné un exemplaire du livre du Dr James Dobson, _When God Doesn't Make Sense_. Je pense que cela pourrait jeter des bases importantes pour aider les chrétiens à découvrir la Cinquième Révélation d’Époque. Mon seul regret est que ce livre n'était pas disponible en 1955 lorsque je suis entré au Wayland Baptist College. Cela aurait pu m’aider à devenir un ministre à succès. La thèse du livre du Dr Dobson est que de nombreux chrétiens sincères sont induits en erreur et trompés par la « religion de la restauration rapide » conçue pour résoudre tous les problèmes humains. Le Dr Dobson croit au « principe de l’adversité ». Il proclame que tous les individus ne progressent spirituellement qu’en affrontant courageusement les épreuves de la vie.
 
@@ -35,3 +59,28 @@ Mes efforts m'ont-ils valu le droit de m'appeler un « enseignant ordonné du _L
 > _Lynn Rhoderick est une étudiante de longue date du_ Livre d'Urantia. _Lynn a pris sa retraite en 1994 après avoir enseigné trente-six ans dans des écoles publiques._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'amour insondable de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Finding_Darwins_God_by_Kenneth_R_Miller">
+          <span class="pr-2">Livres importants : Trouver le Dieu de Darwin, par Kenneth R. Miller</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

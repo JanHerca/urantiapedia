@@ -1,5 +1,5 @@
 ---
-title: "Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 1997"
+title: "Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1997"
 description: 
 published: true
 date: 2023-09-29T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Charting_a_New_Course">
+          <span class="pr-2">Tracer une nouvelle voie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 7, numéro 2, automne 1997
@@ -98,7 +119,7 @@ Nancy Long
 Marvel Zuercher
 Paul Zuercher
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of _The Urantia Book_ de Fort Wayne, Indiana.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par la Christian Fellowship of Students of _The Urantia Book_ de Fort Wayne, Indiana.
 
 Les commandes d’abonnement, les changements d’adresse et la correspondance éditoriale doivent être envoyés à :
 
@@ -143,8 +164,30 @@ Don annuel suggéré-\$10.
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Charting_a_New_Course">
+          <span class="pr-2">Tracer une nouvelle voie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
-[^1]: Voir [LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
+[^1]: Voir <a id="a190_11"></a>[LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
 
 [^2]: Robert K. Greenleaf, _Servant Leadership_, Paulist Press, New York, 1977, p. 237.

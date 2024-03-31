@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Meredith Sprunger<br>© 2004 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transitions...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Joy_of_Living_ina_New_Age">
+          <span class="pr-2">La joie de vivre à la limite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'évêque John Shelby Spong, dans son livre _Pourquoi le christianisme doit changer ou mourir_, cite des preuves selon lesquelles la religion, en particulier le christianisme, a cruellement besoin d'être restructurée. Il souligne que les concepts et expressions de la théologie chrétienne établis à l’époque préscientifique n’ont plus de sens. Spong croit que les premiers chrétiens étaient responsables de l'établissement du concept d'un Dieu personnel, le théisme, qu'il rejette et accepte à sa place le concept de Paul Tillich selon lequel Dieu est le fondement non personnel de l'être. Il redéfinit en profondeur Jésus, la transcendance, le sens de la prière, la base de l'éthique, l'avenir de l'Église et la vie éternelle. Sa compréhension de la conscience divine se rapproche des relations avec l'Ajusteur de Pensée prépersonnel.
@@ -19,3 +43,28 @@ De nombreux signes indiquent que les débuts de cette transition sont en cours. 
 
 Nous vivons une époque passionnante avec le privilège de vivre les débuts d’un nouveau paradigme spirituel dans notre monde, ainsi que l’opportunité d’influencer la forme de l’avenir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Transitions">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Transitions...</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Joy_of_Living_ina_New_Age">
+          <span class="pr-2">La joie de vivre à la limite</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

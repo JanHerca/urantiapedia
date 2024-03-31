@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Byron Belitsos<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Toward_a_Global_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vers une théologie globale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="pr-2">La mort, la dernière frontière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introduction
@@ -51,25 +75,25 @@ Dans sa clarté de substance sans profondeur
 J'ai vu la Grande Lumière briller en trois cercles
 En trois couleurs claires reliées dans un même espace. [^4]
 
-Dans un passage inhabituellement poétique, le Livre d'Urantia représente la Trinité d'une manière comparable, symbolisée par des sphères concentriques : « La présence personnelle du Père Universel réside au centre même de la surface supérieure de cette demeure presque circulaire, mais non sphérique, des Déités. Cette présence au Paradis du Père Universel est directement entourée par la présence personnelle du Fils Éternel, tandis que tous deux sont revêtus par la gloire indicible de l’Esprit Infini. » ([LU 11:1.1](/fr/The_Urantia_Book/11#p1_1))
+Dans un passage inhabituellement poétique, le Livre d'Urantia représente la Trinité d'une manière comparable, symbolisée par des sphères concentriques : « La présence personnelle du Père Universel réside au centre même de la surface supérieure de cette demeure presque circulaire, mais non sphérique, des Déités. Cette présence au Paradis du Père Universel est directement entourée par la présence personnelle du Fils Éternel, tandis que tous deux sont revêtus par la gloire indicible de l’Esprit Infini. » (<a id="a77_508"></a>[LU 11:1.1](/fr/The_Urantia_Book/11#p1_1))
 
 Dans _Le Livre d'Urantia_, Dieu en tant que Père est analogue à la « Grande Lumière qui brille en trois cercles » de Dante. Le Père est « logiquement » primal – et central – par rapport à la Mère-Fils et à l’Esprit Infini co-égaux. (_Le Livre d'Urantia_ présente même le symbole de la Trinité comme trois cercles concentriques, de couleur azur.)
 
 Le Père est primordial par rapport à la Trinité, et il est également la « Première Source et Centre » de toutes les autres choses et êtres, tandis que le Fils et l'Esprit sont désignés comme la « Deuxième Source et Centre » et la « Troisième Source et Centre ». " respectivement. Le Père Primordial a de nombreuses phases de manifestation. Dans une phase, le Père est la source et le centre du cosmos physique, en vertu du fait qu'il est la Cause Première de son centre gravitationnel et énergétique universel. Ce grand centre est appelé « Paradis » ; _Le Livre d'Urantia_ s'approprie le terme multivalent « paradis » des traditions scripturaires et artistiques du christianisme et lui donne une tournure moderne très différente.
 
-Dieu est la source du Paradis — ce que le Livre d'Urantia appelle l'« Île du Paradis » éternelle, centrale et immobile, ou « l'Île éternelle ». Le paradis est « de l’éternité » ; c'est en fait sans cause. Mais _Le Livre d'Urantia_ utilise le langage de la causalité comme une « concession philosophique... à l'esprit limité et limité dans le temps de l'homme, à l'impossibilité de la compréhension par les créatures des existences éternelles... » ([LU 0:3.23](/fr/The_Urantia_Book/0#p3_23))
+Dieu est la source du Paradis — ce que le Livre d'Urantia appelle l'« Île du Paradis » éternelle, centrale et immobile, ou « l'Île éternelle ». Le paradis est « de l’éternité » ; c'est en fait sans cause. Mais _Le Livre d'Urantia_ utilise le langage de la causalité comme une « concession philosophique... à l'esprit limité et limité dans le temps de l'homme, à l'impossibilité de la compréhension par les créatures des existences éternelles... » (<a id="a83_448"></a>[LU 0:3.23](/fr/The_Urantia_Book/0#p3_23))
 
-L'Île du Paradis est absolument unique dans le cosmos. C'est le véritable _centre sacré_ de l'univers des univers : « Le Paradis est le centre d’activation de l’énergie-force du cosmos — la position de la Source-Centre Première dans l’univers... » ([LU 104:4.26](/fr/The_Urantia_Book/104#p4_26)) Étonnamment, alors que il est à la fois « physique » – un « objet matériel central » – mais c’est aussi un corps transcendant l’espace-temps composé d’un matériau « absolu » que l’on ne trouve nulle part ailleurs :
+L'Île du Paradis est absolument unique dans le cosmos. C'est le véritable _centre sacré_ de l'univers des univers : « Le Paradis est le centre d’activation de l’énergie-force du cosmos — la position de la Source-Centre Première dans l’univers... » (<a id="a85_249"></a>[LU 104:4.26](/fr/The_Urantia_Book/104#p4_26)) Étonnamment, alors que il est à la fois « physique » – un « objet matériel central » – mais c’est aussi un corps transcendant l’espace-temps composé d’un matériau « absolu » que l’on ne trouve nulle part ailleurs :
 
 > L’Ile éternelle est composée d’une seule forme de matérialisation — de systèmes stationnaires de réalité. Cette substance physique du Paradis est une organisation homogène de puissance d’espace qu’on ne trouve nulle part ailleurs dans le vaste univers des univers. Elle a reçu beaucoup de noms dans différents univers, et depuis longtemps les Melchizédeks de Nébadon l’ont dénommée *absolutum.* Cette matière source du Paradis n’est ni morte ni vivante ; elle est l’expression originelle non spirituelle de la Source-Centre Première ; elle est le *Paradis,* et le Paradis n’a pas de copie.
 > 
-> Il nous semble que la Source-Centre Première a concentré dans le Paradis tout le potentiel absolu de réalité cosmique comme partie de sa technique pour se libérer des limitations de l’infinité, comme un moyen de rendre possible la création subinfinie et même celle de l’espace-temps. Mais, de ce que l’univers des univers est limité dans l’espace-temps, il ne s’ensuit pas qu’il en soit de même pour le Paradis. **Le Paradis existe sans le temps et n’a pas d’emplacement dans l’espace.** ([LU 11:2.9-10](/fr/The_Urantia_Book/11#p2_9)) [C'est nous qui soulignons]
+> Il nous semble que la Source-Centre Première a concentré dans le Paradis tout le potentiel absolu de réalité cosmique comme partie de sa technique pour se libérer des limitations de l’infinité, comme un moyen de rendre possible la création subinfinie et même celle de l’espace-temps. Mais, de ce que l’univers des univers est limité dans l’espace-temps, il ne s’ensuit pas qu’il en soit de même pour le Paradis. **Le Paradis existe sans le temps et n’a pas d’emplacement dans l’espace.** (<a id="a89_491"></a>[LU 11:2.9-10](/fr/The_Urantia_Book/11#p2_9)) [C'est nous qui soulignons]
 
-Intemporel et sans espace, le Paradis est aussi, nous dit-on, absolument au repos et immobile. _Le Livre d'Urantia_ a beaucoup à dire sur la nature de l'espace qui dépasse la portée de cet article. La notion d’espace est bien entendu primordiale dans toute cosmologie. Une affirmation étonnante après l'autre sur la cosmologie émane du _Livre d'Urantia_. Certaines d’entre elles sont de véritables prédictions dans le sens où elles sont vérifiables ou falsifiables par l’observation scientifique. Le principal d’entre eux est peut-être que toutes les galaxies existantes sont en réalité _en procession autour d’un centre de gravité absolu_. Nous avons vu que de récentes recherches astrophysiques sur le « mouvement particulier » des galaxies pourraient se prêter à une telle conclusion. Cette rotation universelle autour du Centre Saint du Paradis est due au fait que l’Île éternelle « est le centre et le point focal de la _gravité matérielle absolue_ ». ([LU 11:8.2](/fr/The_Urantia_Book/11#p8_2)) [C'est nous qui soulignons]
+Intemporel et sans espace, le Paradis est aussi, nous dit-on, absolument au repos et immobile. _Le Livre d'Urantia_ a beaucoup à dire sur la nature de l'espace qui dépasse la portée de cet article. La notion d’espace est bien entendu primordiale dans toute cosmologie. Une affirmation étonnante après l'autre sur la cosmologie émane du _Livre d'Urantia_. Certaines d’entre elles sont de véritables prédictions dans le sens où elles sont vérifiables ou falsifiables par l’observation scientifique. Le principal d’entre eux est peut-être que toutes les galaxies existantes sont en réalité _en procession autour d’un centre de gravité absolu_. Nous avons vu que de récentes recherches astrophysiques sur le « mouvement particulier » des galaxies pourraient se prêter à une telle conclusion. Cette rotation universelle autour du Centre Saint du Paradis est due au fait que l’Île éternelle « est le centre et le point focal de la _gravité matérielle absolue_ ». (<a id="a91_958"></a>[LU 11:8.2](/fr/The_Urantia_Book/11#p8_2)) [C'est nous qui soulignons]
 
 Intervenant entre les galaxies observables et le Centre du Paradis se trouve une création matérielle centrale, que le Livre d'Urantia appelle l'univers central, ou « Havona ». Au-delà de l'univers central se trouvent des galaxies qui tournent autour de l'univers central selon une ellipse dans le sens inverse des aiguilles d'une montre, qui à son tour tourne également autour du Paradis. Ceux-ci sont organisés en sept amas de galaxies massifs connus sous le nom de « sept superunivers ».
 
-> Votre système solaire et les autres mondes du temps ne se précipitent pas à l’aveuglette, sans carte ni compas, dans un espace inexploré. L’univers local auquel votre système appartient suit une trajectoire précise et bien comprise, en sens inverse des aiguilles d’une montre, autour du vaste tourbillon qui entoure l’univers central. Ce chemin cosmique est soigneusement repéré, et il est tout aussi complètement connu par les observateurs d’étoiles du superunivers que les orbites des planètes de votre système solaire le sont par les astronomes d’Urantia. ([LU 15:1.2](/fr/The_Urantia_Book/15#p1_2))
+> Votre système solaire et les autres mondes du temps ne se précipitent pas à l’aveuglette, sans carte ni compas, dans un espace inexploré. L’univers local auquel votre système appartient suit une trajectoire précise et bien comprise, en sens inverse des aiguilles d’une montre, autour du vaste tourbillon qui entoure l’univers central. Ce chemin cosmique est soigneusement repéré, et il est tout aussi complètement connu par les observateurs d’étoiles du superunivers que les orbites des planètes de votre système solaire le sont par les astronomes d’Urantia. (<a id="a95_562"></a>[LU 15:1.2](/fr/The_Urantia_Book/15#p1_2))
 
 Les scientifiques qui ont contemplé le Livre d'Urantia ont longtemps lutté contre sa prétention controversée d'un Centre universel autour duquel tourne toute la création matérielle. Cela va évidemment à l’encontre d’un principe clé de la relativité, l’affirmation selon laquelle il n’existe pas de cadre de référence physique unique dans l’univers, rien d’immobile par lequel mesurer d’autres mouvements.
 
@@ -79,19 +103,19 @@ Il existe pourtant de nombreux points de contact avec la cosmologie moderne. Par
 
 ## Le mystère paradoxal du paradis
 
-Dieu est dépeint dans _Le Livre d'Urantia_ comme la Source et le Centre à la fois de la _réalité spirituelle_ et de l'univers matériel. Dieu réside _factuellement_ au centre du cosmos : « La personnalité absolue de la Déité existe au... Paradis. » ([LU 0:3.13](/fr/The_Urantia_Book/0#p3_13)) « Le Père Universel est cosmiquement focalisé, spirituellement personnalisé et géographiquement résidant en ce centre de l’univers des univers. » ([LU 11:1.2](/fr/The_Urantia_Book/11#p1_2)) L'énergie et l'esprit, les faits et la vérité - toutes choses divergentes dans les univers spatio-temporels - ne font plus qu'un en présence du Père au Paradis.
+Dieu est dépeint dans _Le Livre d'Urantia_ comme la Source et le Centre à la fois de la _réalité spirituelle_ et de l'univers matériel. Dieu réside _factuellement_ au centre du cosmos : « La personnalité absolue de la Déité existe au... Paradis. » (<a id="a105_249"></a>[LU 0:3.13](/fr/The_Urantia_Book/0#p3_13)) « Le Père Universel est cosmiquement focalisé, spirituellement personnalisé et géographiquement résidant en ce centre de l’univers des univers. » (<a id="a105_439"></a>[LU 11:1.2](/fr/The_Urantia_Book/11#p1_2)) L'énergie et l'esprit, les faits et la vérité - toutes choses divergentes dans les univers spatio-temporels - ne font plus qu'un en présence du Père au Paradis.
 
 Comment le Paradis est-il « apparu » dans l’éternité ? Dans le « passé éternel », le _Livre d'Urantia_ révèle que la première transaction fut ce que les théologiens modernes pourraient appeler la _kénose_ de Dieu. L'activité kénotique dans ce sens signifie le choix de Dieu d'auto-limiter son infinité inconditionnelle. Il y parvient en « absolutisant » le Fils, l’Autre divin. Le Fils Éternel est l'_absolu de la personnalité_. Simultanément à cette transaction prodigieuse, Dieu est devenu la première cause de l'_absolu de son individu non spirituel_. En cet instant d'éternité : le Paradis jaillit du Père. Dans la transaction d'éternité finale, cette dualité se résout parfaitement dans « l'apparition d'éternité » de l'Esprit Infini, l'harmonisateur et l'unificateur des absolus de l'esprit (le Fils) et de la matière (le Paradis). Ainsi, la Trinité, dans la formulation du Livre d'Urantia, a une coordonnée non spirituelle absolue : le Paradis.
 
-Dans un sens très important, le Paradis est aussi le _paradoxe_ absolu. De plus en plus paradoxal, le Livre d'Urantia décrit le Paradis comme « le centre géographique de l'infini ». ([LU 11:9.2](/fr/The_Urantia_Book/11#p9_2)) Ailleurs, le texte dit : « L'île du Paradis a un emplacement dans l'univers mais aucune position dans l'espace. » ([LU 0:4.12](/fr/The_Urantia_Book/0#p4_12)) Dans un autre passage, le Paradis est décrit comme le plus grand corps matériel de l'univers, pourtant il se trouve _en dehors de l'espace et du temps_. Dans d’autres passages, on nous dit que le Paradis est le noyau à la fois de tout le cosmos physique et de chaque particule ultime du cosmos. Ainsi, le concept de « Paradis » représente une dynamique _radicale_ d'un à plusieurs, d'une partie entière dans le cosmos. Son dynamisme de paradoxe est digne de la célèbre dialectique de « l'un et du multiple » du dialogue _Parménide_ de Platon, ou de la méthode dialectique de Hegel dans sa _Logique_.
+Dans un sens très important, le Paradis est aussi le _paradoxe_ absolu. De plus en plus paradoxal, le Livre d'Urantia décrit le Paradis comme « le centre géographique de l'infini ». (<a id="a109_183"></a>[LU 11:9.2](/fr/The_Urantia_Book/11#p9_2)) Ailleurs, le texte dit : « L'île du Paradis a un emplacement dans l'univers mais aucune position dans l'espace. » (<a id="a109_341"></a>[LU 0:4.12](/fr/The_Urantia_Book/0#p4_12)) Dans un autre passage, le Paradis est décrit comme le plus grand corps matériel de l'univers, pourtant il se trouve _en dehors de l'espace et du temps_. Dans d’autres passages, on nous dit que le Paradis est le noyau à la fois de tout le cosmos physique et de chaque particule ultime du cosmos. Ainsi, le concept de « Paradis » représente une dynamique _radicale_ d'un à plusieurs, d'une partie entière dans le cosmos. Son dynamisme de paradoxe est digne de la célèbre dialectique de « l'un et du multiple » du dialogue _Parménide_ de Platon, ou de la méthode dialectique de Hegel dans sa _Logique_.
 
 > _Mais parmi les déclarations surprenantes sur le Paradis, la plus scandaleuse est peut-être celle-ci : Le Paradis est la Source et le Centre de tout le cosmos en vertu du fait qu'il est sa source d'énergie et son centre de gravité, mais il interpénétre également le cosmos à la plus petite échelle comme le noyau de chaque partie indivisible._
 
 Mais parmi les déclarations surprenantes sur le Paradis, la plus scandaleuse est peut-être celle-ci : Le Paradis est la Source et le Centre de tout le cosmos en raison de sa source d'énergie et de son centre de gravité, mais il pénètre également dans le cosmos à la plus petite échelle en tant que noyau. de chaque _part_ indivisible. En d’autres termes, l’affirmation est que le Paradis est à la fois _le noyau de chaque unité matérielle ultime_ du cosmos, et pourtant, il est également la source et le centre de l’Infini – la totalité du cosmos physique (et spirituel) ! Comment est-ce envisageable ? En dernière analyse, c’est humainement inconcevable et tout à fait paradoxal :
 
-> Il est presque impossible pour la logique humaine et la raison finie d'harmoniser le concept d'immanence divine, Dieu intérieur et partie de chaque individu, avec l'idée de la transcendance de Dieu, la domination divine de l'univers des univers. ([LU 5:5.6](/fr/The_Urantia_Book/5#p5_6)) Mais jamais une créature ne pourra comprendre comment cette unité devient dualité, triunité et diversité tout en restant une unité sans réserve. ([LU 115:3.3](/fr/The_Urantia_Book/115#p3_3))
+> Il est presque impossible pour la logique humaine et la raison finie d'harmoniser le concept d'immanence divine, Dieu intérieur et partie de chaque individu, avec l'idée de la transcendance de Dieu, la domination divine de l'univers des univers. (<a id="a115_249"></a>[LU 5:5.6](/fr/The_Urantia_Book/5#p5_6)) Mais jamais une créature ne pourra comprendre comment cette unité devient dualité, triunité et diversité tout en restant une unité sans réserve. (<a id="a115_436"></a>[LU 115:3.3](/fr/The_Urantia_Book/115#p3_3))
 
-Il s’avère que le Paradis est le paradigme d’une relation radicale et holographique qui imprègne tous les niveaux de réalité. Cette caractéristique du Paradis nous permet de concevoir une forme particulière de _panenthéisme_, que nous examinerons plus tard. La dynamique globale qui sous-tend la cosmologie du Livre d'Urantia est paradoxale et holographique, suivant les contours du concept du Paradis. Il n’est pas surprenant que sa théologie suive le même modèle complexe d’unité dualiste, et le résultat est un enseignement radicalement panenthéiste. De ce point de vue, la théologie du _Livre d'Urantia_ peut être reformulée ainsi : « Dieu est en chacun et chacun est en Dieu ». Dans une déclaration sommaire, on nous dit que « non seulement la créature existe en Dieu, mais que Dieu vit aussi dans la créature ». ([LU 3:1.4](/fr/The_Urantia_Book/3#p1_4)) Ceci est considéré comme l'un des secrets du mystère de la transcendance et de l'immanence divines, selon le _Livre d'Urantia_. C’est aussi un principe central du modèle cosmo-théocentrique de l’univers présenté ici.
+Il s’avère que le Paradis est le paradigme d’une relation radicale et holographique qui imprègne tous les niveaux de réalité. Cette caractéristique du Paradis nous permet de concevoir une forme particulière de _panenthéisme_, que nous examinerons plus tard. La dynamique globale qui sous-tend la cosmologie du Livre d'Urantia est paradoxale et holographique, suivant les contours du concept du Paradis. Il n’est pas surprenant que sa théologie suive le même modèle complexe d’unité dualiste, et le résultat est un enseignement radicalement panenthéiste. De ce point de vue, la théologie du _Livre d'Urantia_ peut être reformulée ainsi : « Dieu est en chacun et chacun est en Dieu ». Dans une déclaration sommaire, on nous dit que « non seulement la créature existe en Dieu, mais que Dieu vit aussi dans la créature ». (<a id="a117_819"></a>[LU 3:1.4](/fr/The_Urantia_Book/3#p1_4)) Ceci est considéré comme l'un des secrets du mystère de la transcendance et de l'immanence divines, selon le _Livre d'Urantia_. C’est aussi un principe central du modèle cosmo-théocentrique de l’univers présenté ici.
 
 La cosmologie théologique contemporaine ou la théologie naturelle ratifie-t-elle d’une manière ou d’une autre ces affirmations ? Afin d’aborder cette question, nous examinerons ensuite les théories existantes qui soutiennent la notion de l’univers comme étant « en » Dieu. Après cela, nous renverserons la situation cosmique et examinerons la manière dont le dialogue science-théologie d'aujourd'hui conçoit Dieu comme _dans_ chaque partie de l'univers.
 
@@ -135,9 +159,9 @@ Nous avons maintenant un lieu pour la _creatio continua_. Le résultat de l’an
 
 ## Le paradis et le cosmos
 
-Des formes comparables d'action divine descendante et ascendante sont intégrées dans le concept du Paradis du Livre d'Urantia. Premièrement, Dieu agit sur le cosmos physique à travers son Centre Universel Paradisiaque : « En tant que contrôleur physique dans l’univers matériel des univers, la Source et Centre Premier fonctionne selon les modèles de l’Île éternelle du Paradis, et à travers ce centre de gravité absolu, l’Éternel Dieu exerce un contrôle cosmique excessif sur le niveau physique… à travers l’univers des univers. ([LU 1:2.10](/fr/The_Urantia_Book/1#p2_10)) C'est le mode général de l'action descendante de Dieu dans le cosmos physique. Et il existe de nombreuses autres formes de causalité descendante émanant de l'action du Paradis via de nombreuses agences intermédiaires — présentées dans _Le Livre d'Urantia_.
+Des formes comparables d'action divine descendante et ascendante sont intégrées dans le concept du Paradis du Livre d'Urantia. Premièrement, Dieu agit sur le cosmos physique à travers son Centre Universel Paradisiaque : « En tant que contrôleur physique dans l’univers matériel des univers, la Source et Centre Premier fonctionne selon les modèles de l’Île éternelle du Paradis, et à travers ce centre de gravité absolu, l’Éternel Dieu exerce un contrôle cosmique excessif sur le niveau physique… à travers l’univers des univers. (<a id="a161_531"></a>[LU 1:2.10](/fr/The_Urantia_Book/1#p2_10)) C'est le mode général de l'action descendante de Dieu dans le cosmos physique. Et il existe de nombreuses autres formes de causalité descendante émanant de l'action du Paradis via de nombreuses agences intermédiaires — présentées dans _Le Livre d'Urantia_.
 
-Et deuxièmement, le Paradis agit de bas en haut à travers ses pièces _fractales_, les ultimatons. Nous avons vu précédemment que le Paradis est _non spatial_ et que « l'espace existe par rapport au Paradis... Le Paradis existe au foyer de l'espace ». ([LU 105:3.4](/fr/The_Urantia_Book/105#p3_4)) De plus, la présence physique du Paradis au foyer de l'espace se manifeste dans l'espace comme la saisie instantanée de la gravité _au niveau de l'ultimaton_. (Encore une fois, nous faisons référence ici à la forme de gravité appelée « gravité absolue ».) Cela signifie que le contrôle excessif universel de la Source et Centre Premier s'étend au niveau quantique de la matière. Et ce n’est là qu’une des implications de la révélation selon laquelle chaque ultimaton a le Centre de l’Univers comme noyau. Selon le mathématicien Philip Calabrese, l’affirmation selon laquelle chaque ultimaton est confirmé par la gravité paradisiaque signifie que « c’est probablement la véritable force forte ». À cet égard, le Dr Calabrese suggère également que le concept du Paradis pourrait être le secret du phénomène de non-localité :
+Et deuxièmement, le Paradis agit de bas en haut à travers ses pièces _fractales_, les ultimatons. Nous avons vu précédemment que le Paradis est _non spatial_ et que « l'espace existe par rapport au Paradis... Le Paradis existe au foyer de l'espace ». (<a id="a163_252"></a>[LU 105:3.4](/fr/The_Urantia_Book/105#p3_4)) De plus, la présence physique du Paradis au foyer de l'espace se manifeste dans l'espace comme la saisie instantanée de la gravité _au niveau de l'ultimaton_. (Encore une fois, nous faisons référence ici à la forme de gravité appelée « gravité absolue ».) Cela signifie que le contrôle excessif universel de la Source et Centre Premier s'étend au niveau quantique de la matière. Et ce n’est là qu’une des implications de la révélation selon laquelle chaque ultimaton a le Centre de l’Univers comme noyau. Selon le mathématicien Philip Calabrese, l’affirmation selon laquelle chaque ultimaton est confirmé par la gravité paradisiaque signifie que « c’est probablement la véritable force forte ». À cet égard, le Dr Calabrese suggère également que le concept du Paradis pourrait être le secret du phénomène de non-localité :
 
 > La mécanique quantique contemporaine... est aujourd'hui confrontée à des expériences décrites comme des phénomènes de « réalité non locale »... Peut-être que la réponse à cette énigme n'est pas la réalité « non locale », mais plutôt la réalité « omnilocale » , l'omniprésence du Paradis... dans et à proximité de l'espace. [^12]
 
@@ -161,6 +185,31 @@ En dernière analyse, la validation ultime de la vision stéréoscopique qui sou
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Toward_a_Global_Theology">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vers une théologie globale</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="pr-2">La mort, la dernière frontière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

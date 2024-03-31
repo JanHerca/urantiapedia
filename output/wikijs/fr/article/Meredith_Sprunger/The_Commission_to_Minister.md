@@ -9,11 +9,35 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith J. Sprunger<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Gods_Gender">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le genre de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Powers_That_Be">
+          <span class="pr-2">Livres importants : Les pouvoirs en place (Théologie pour un nouveau millénaire) par Walter Wink</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> _Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ ([LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
 
-> Service — plus de service, service accru, service difficile, service aventureux, et enfin service divin et parfait — tel est le but du temps et la destination de l’espace. ([LU 28:6.17](/fr/The_Urantia_Book/28#p6_17))
+> _Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ (<a id="a37_248"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
+
+> Service — plus de service, service accru, service difficile, service aventureux, et enfin service divin et parfait — tel est le but du temps et la destination de l’espace. (<a id="a39_175"></a>[LU 28:6.17](/fr/The_Urantia_Book/28#p6_17))
 
 La caractéristique distinctive de la religion de l’Esprit est la centralité du service et de l’évangélisation. Jésus et les auteurs du _Livre d'Urantia_ soulignent que ceux qui ont expérimenté une relation personnelle dynamique avec Dieu et se sont consacrés aux exigences de cette relation doivent faire quelque chose à ce sujet. La véritable religion motive toujours l’action et change la vie.
 
@@ -23,21 +47,21 @@ Beaucoup d’entre nous ont reçu juste assez d’inoculation de religion pour a
 
 Jésus a constamment souligné le caractère central du service et de la fructification dans notre relation avec le Père. Les religieux ont souvent contourné la discipline exigeante du ministère spirituel en s’engageant dans des substituts religieux tels que la théologisation, l’élaboration de règles au sein du groupe, le légalisme, les luttes de pouvoir défensives, la proclamation dogmatique et la contemplation mystique. L'enseignement de base de Jésus peut être résumé par trois mots : _attitude_, _action_ et _outreach_. Nous devons aimer Dieu de tout notre cœur, de toute notre âme et de tout notre esprit, et notre prochain comme nous-mêmes. Nous actualisons cet amour dans l'action concrète du service créatif ; et ce ministère doit être dirigé vers les extrémités de la terre.
 
-Rappelons plus en détail ce que Jésus a à dire sur cette vie au service de nos semblables. Dans la parabole du Semeur, il illustre l’importance de semer les graines de la vérité. Cette graine tombera évidemment sur différents types de sols. Les semailles relèvent de notre responsabilité, mais les résultats, dans une large mesure, sont entre de meilleures mains. On nous rappelle dans [LU 48:7.24](/fr/The_Urantia_Book/48#p7_24) du _Le Livre d'Urantia_ que « L'âme en évolution n'est pas rendue divine par ce qu'elle fait, mais par ce qu'elle s'efforce de faire. » Nous devons nous efforcer d’aiguiser l’appétit de vérité de nos associés, sans toutefois nous préoccuper outre mesure des résultats.
+Rappelons plus en détail ce que Jésus a à dire sur cette vie au service de nos semblables. Dans la parabole du Semeur, il illustre l’importance de semer les graines de la vérité. Cette graine tombera évidemment sur différents types de sols. Les semailles relèvent de notre responsabilité, mais les résultats, dans une large mesure, sont entre de meilleures mains. On nous rappelle dans <a id="a49_386"></a>[LU 48:7.24](/fr/The_Urantia_Book/48#p7_24) du _Le Livre d'Urantia_ que « L'âme en évolution n'est pas rendue divine par ce qu'elle fait, mais par ce qu'elle s'efforce de faire. » Nous devons nous efforcer d’aiguiser l’appétit de vérité de nos associés, sans toutefois nous préoccuper outre mesure des résultats.
 
-La parabole des Deux Fils souligne que les bonnes intentions ne suffisent pas ; en fait, faire la volonté du Père est exigé de tous les vrais fils et filles du Père céleste. Ou, comme le dit Matthieu : « Tous ceux qui me disent : « Seigneur, Seigneur » n’entreront pas dans le royaume des cieux, mais celui qui fait la volonté de mon Père qui est dans les cieux. » ([Matt. 7:21](/fr/Bible/Matthew/7#v21)) Il dit à Pierre : « Pais mes brebis. » ([LU 192:2.4](/fr/The_Urantia_Book/192#p2_4))
+La parabole des Deux Fils souligne que les bonnes intentions ne suffisent pas ; en fait, faire la volonté du Père est exigé de tous les vrais fils et filles du Père céleste. Ou, comme le dit Matthieu : « Tous ceux qui me disent : « Seigneur, Seigneur » n’entreront pas dans le royaume des cieux, mais celui qui fait la volonté de mon Père qui est dans les cieux. » ([Matt. 7:21](/fr/Bible/Matthew/7#v21)) Il dit à Pierre : « Pais mes brebis. » (<a id="a51_445"></a>[LU 192:2.4](/fr/The_Urantia_Book/192#p2_4))
 
 Les paraboles du Bon Samaritain, de la brebis perdue et de la pièce perdue soulignent toutes l’importance de tendre la main aux autres. Les sectes et les groupes d’étude ont tendance à être centripètes, introvertis ; leurs relations et leur concentration principales sont avec les initiés. Les connaissances sont partagées avec les membres du groupe et quelques privilégiés réclament souvent des conseils spéciaux. Une religion ou un religieux mature est ouvert et extraverti et cherche à apporter un ministère à toute l’humanité. Lorsque nous nous détournons de nos préoccupations au sein du groupe, nous constatons qu’en effet, « les champs sont blancs pour la moisson mais les ouvriers sont peu nombreux ». Le monde a soif d’une vision d’une compréhension plus large de l’univers et de Dieu. Notre monde a désespérément besoin du paradigme de réalité élargie de la Cinquième Révélation d’Époque.
 
-Jésus nous avertit que nous sommes responsables d’amplifier et de partager la vérité qui nous a été donnée. Sur [LU 176:3.7](/fr/The_Urantia_Book/176#p3_7), nous lisons : « La vérité est vivante. L’Esprit de Vérité conduit toujours les enfants de lumière dans de nouveaux domaines de réalité spirituelle et de service divin. La vérité ne vous est pas donnée pour que vous la cristallisiez dans des formes établies, sures et honorées. Elle se révèle à vous en passant par votre expérience personnelle. Il faut que ce passage la rehausse de manière à dévoiler une nouvelle beauté et de réels gains spirituels à tous ceux qui observent vos fruits spirituels, et que ces spectateurs soient ainsi amenés à glorifier le Père qui est aux cieux. Seuls ces fidèles serviteurs qui croissent dans la connaissance de la vérité, et qui développent ainsi leur capacité d’appréciation divine des réalités spirituelles, peuvent espérer jamais « entrer pleinement dans la joie de leur Seigneur ». Combien il est attristant de voir des générations successives de disciples avoués de Jésus dire au sujet de leur gestion de la vérité divine : « Maitre, voici la vérité que tu nous as confiée il y a cent ans ou mille ans. Nous n’en avons rien perdu ; nous avons fidèlement préservé tout ce que tu nous as donné. Nous n’avons admis aucun changement dans ce que tu nous as enseigné. Nous te restituons la vérité que tu nous as apportée. » Ce prétexte à indolence spirituelle ne justifiera pas aux yeux du Maitre le gestionnaire stérile de la vérité. Le Maitre de la vérité exigera une reddition de comptes conforme à la vérité confiée à vos soins. »
+Jésus nous avertit que nous sommes responsables d’amplifier et de partager la vérité qui nous a été donnée. Sur <a id="a55_112"></a>[LU 176:3.7](/fr/The_Urantia_Book/176#p3_7), nous lisons : « La vérité est vivante. L’Esprit de Vérité conduit toujours les enfants de lumière dans de nouveaux domaines de réalité spirituelle et de service divin. La vérité ne vous est pas donnée pour que vous la cristallisiez dans des formes établies, sures et honorées. Elle se révèle à vous en passant par votre expérience personnelle. Il faut que ce passage la rehausse de manière à dévoiler une nouvelle beauté et de réels gains spirituels à tous ceux qui observent vos fruits spirituels, et que ces spectateurs soient ainsi amenés à glorifier le Père qui est aux cieux. Seuls ces fidèles serviteurs qui croissent dans la connaissance de la vérité, et qui développent ainsi leur capacité d’appréciation divine des réalités spirituelles, peuvent espérer jamais « entrer pleinement dans la joie de leur Seigneur ». Combien il est attristant de voir des générations successives de disciples avoués de Jésus dire au sujet de leur gestion de la vérité divine : « Maitre, voici la vérité que tu nous as confiée il y a cent ans ou mille ans. Nous n’en avons rien perdu ; nous avons fidèlement préservé tout ce que tu nous as donné. Nous n’avons admis aucun changement dans ce que tu nous as enseigné. Nous te restituons la vérité que tu nous as apportée. » Ce prétexte à indolence spirituelle ne justifiera pas aux yeux du Maitre le gestionnaire stérile de la vérité. Le Maitre de la vérité exigera une reddition de comptes conforme à la vérité confiée à vos soins. »
 
 ## Un appel à l'action de Clarion
 
-Ces paroles retentissantes des auteurs du _Livre d'Urantia_ sont un appel à l'action et à la croissance ! Sommes-nous en train de devenir des évangélistes missionnaires ou des chercheurs de réconfort au sein d’un groupe ? On nous dit sur [LU 25:4.12](/fr/The_Urantia_Book/25#p4_12) : « Dans le régime universel, on ne vous compte pas comme ayant acquis du savoir et possédant des vérités avant que vous n’ayez prouvé votre aptitude et votre bonne volonté à communiquer à d’autres ce savoir et ces vérités. »
+Ces paroles retentissantes des auteurs du _Livre d'Urantia_ sont un appel à l'action et à la croissance ! Sommes-nous en train de devenir des évangélistes missionnaires ou des chercheurs de réconfort au sein d’un groupe ? On nous dit sur <a id="a59_238"></a>[LU 25:4.12](/fr/The_Urantia_Book/25#p4_12) : « Dans le régime universel, on ne vous compte pas comme ayant acquis du savoir et possédant des vérités avant que vous n’ayez prouvé votre aptitude et votre bonne volonté à communiquer à d’autres ce savoir et ces vérités. »
 
 La dernière et la plus grande vérité que le Maître a remise entre nos mains est la Cinquième Révélation d’Époque. Quels fruits de l’esprit montrent que vous avez fait quelque chose de créatif en diffusant cette vision élargie de la vérité dans votre communauté et dans le monde ? Où avez-vous semé cette graine améliorée de vérité ? Cultivez-vous votre sol personnel et social et plantez-vous des graines avec soin ? ou bien laissez-vous simplement la nature suivre son cours et vous occupez-vous d'autre chose tandis que les vents du hasard répandent les graines au hasard ? Êtes-vous content d’admirer ce beau trésor de sagesse, de vous imprégner de ses grandes vérités et de les partager avec circonspection avec quelques initiés de votre groupe, puis de remettre le trésor dans son placard ? Ou mettez-vous ce trésor à profit dans le monde où il peut enrichir tous les peuples de la terre ?
 
-Une simple poignée d’apôtres et de disciples de la quatrième révélation d’époque ont bouleversé le monde romain. Bien que des milliers de personnes soient des étudiants du _Livre d'Urantia_, la plupart d'entre eux sont des adeptes « secrets » de la Cinquième Révélation d'Époque. Après plus de quarante ans de préparation au moment où nous aurons un programme de sensibilisation intentionnel, le monde, en général, ignore son existence. Je pense que le moment est venu de lancer un ministère de sensibilisation sage mais ouvert au monde. Ce ne sera évidemment pas facile. « La religion de l’esprit signifie effort, lutte, conflit, foi, détermination, amour, loyauté et progrès. » ([LU 155:5.11](/fr/The_Urantia_Book/155#p5_11))
+Une simple poignée d’apôtres et de disciples de la quatrième révélation d’époque ont bouleversé le monde romain. Bien que des milliers de personnes soient des étudiants du _Livre d'Urantia_, la plupart d'entre eux sont des adeptes « secrets » de la Cinquième Révélation d'Époque. Après plus de quarante ans de préparation au moment où nous aurons un programme de sensibilisation intentionnel, le monde, en général, ignore son existence. Je pense que le moment est venu de lancer un ministère de sensibilisation sage mais ouvert au monde. Ce ne sera évidemment pas facile. « La religion de l’esprit signifie effort, lutte, conflit, foi, détermination, amour, loyauté et progrès. » (<a id="a63_681"></a>[LU 155:5.11](/fr/The_Urantia_Book/155#p5_11))
 
 ## La fonction clé des profanes
 
@@ -53,7 +77,7 @@ Il existe trois formes fondamentales de service auxquelles chacun de nous est mi
 
 Après plus de quarante ans d’expérimentation sur les moyens de « pirater » les enseignements de la Cinquième Révélation d’Époque, je suis convaincu que seul le paradigme unique de réalité cosmologique du _Livre d’Urantia_ a le potentiel d’apporter une renaissance spirituelle à notre planète. La plupart des concepts du _Livre d'Urantia_ sont déjà présents dans les schémas de pensée de la civilisation occidentale. C’est l’intégration unique de ces idées dans un nouveau cadre cosmologique présenté dans la Cinquième Révélation d’Époque qui les rend efficaces. De nombreux théologiens, ministres et éducateurs présentent actuellement les vérités essentielles du _Livre d'Urantia_ dans leur enseignement. Cela fait beaucoup de bien, mais il lui manque la vision spirituelle intégratrice et la puissance de la Cinquième Révélation d’Époque. Seul le message cohérent du _Livre d'Urantia_ lui-même a la dynamique nécessaire pour provoquer une transformation de la condition humaine contemporaine.
 
-Je reconnais qu’un ministère aussi ouvert n’est pas pour les âmes timides. Il est difficile pour des personnes qui sont des citoyens équilibrés et solides dans leur communauté de risquer d’être considérées comme « différentes » ou d’appartenir à une secte ou à un mouvement étrange. Les pionniers sont toujours confrontés à des difficultés et à des épreuves. Le pionnier spirituel est un chemin de service rigoureux et solitaire. N’imaginez pas que l’opposition et l’oppression ne soient que des aberrations du passé. Les présentations nouvelles et élargies de la vérité ont toujours été et seront toujours attaquées par les traditionalistes et les fondamentalistes religieux. Néanmoins, ceux qui ont le courage, guidés par la sagesse, d’apporter la connaissance de la Cinquième Révélation d’Époque aux individus et aux institutions de notre monde s’engagent dans l’un des ministères les plus importants de notre époque. De tels évangélistes missionnaires ouvriront la porte à une dynamique spirituelle qui transformera notre planète au cours des mille prochaines années. Un archange de Nébadon nous rappelle : « Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour — exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu. » ([LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
+Je reconnais qu’un ministère aussi ouvert n’est pas pour les âmes timides. Il est difficile pour des personnes qui sont des citoyens équilibrés et solides dans leur communauté de risquer d’être considérées comme « différentes » ou d’appartenir à une secte ou à un mouvement étrange. Les pionniers sont toujours confrontés à des difficultés et à des épreuves. Le pionnier spirituel est un chemin de service rigoureux et solitaire. N’imaginez pas que l’opposition et l’oppression ne soient que des aberrations du passé. Les présentations nouvelles et élargies de la vérité ont toujours été et seront toujours attaquées par les traditionalistes et les fondamentalistes religieux. Néanmoins, ceux qui ont le courage, guidés par la sagesse, d’apporter la connaissance de la Cinquième Révélation d’Époque aux individus et aux institutions de notre monde s’engagent dans l’un des ministères les plus importants de notre époque. De tels évangélistes missionnaires ouvriront la porte à une dynamique spirituelle qui transformera notre planète au cours des mille prochaines années. Un archange de Nébadon nous rappelle : « Les faibles se complaisent à des résolutions, mais les forts agissent. La vie n’est que le travail d’un jour — exécutez-le bien. L’acte est à nous, ses conséquences appartiennent à Dieu. » (<a id="a79_1303"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 
 ## Principes du ministère
 
@@ -82,3 +106,28 @@ Puisse maintenant la foi vivante, la seule exigence globale de la filiation, nou
 > _Meredith Sprunger est enseignante et ministre de l'Église Unie du Christ, aujourd'hui à la retraite, et rédactrice en chef du Spiritual Fellowship Journal_.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Gods_Gender">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le genre de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Powers_That_Be">
+          <span class="pr-2">Livres importants : Les pouvoirs en place (Théologie pour un nouveau millénaire) par Walter Wink</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

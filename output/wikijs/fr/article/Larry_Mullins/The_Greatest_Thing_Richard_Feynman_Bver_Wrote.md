@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Larry Mullins<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Ordination_at_Boulder">
+          <span class="pr-2">Ordination à Boulder... Une journée inoubliable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À moins que vous ne soyez un passionné de sciences, le nom de Richard Feynman (1918-1988) ne vous dit peut-être rien. Il fut l'un des plus grands physiciens de tous les temps. La passion de Feynman pour la physique était légendaire ; ses conférences enregistrées sont aujourd'hui vendues dans les chaînes de librairies populaires. Feynman était l'un des principaux scientifiques impliqués dans le projet Manhattan Atomic, et sa théorie de l'électrodynamique quantique (QED) est généralement considérée comme la théorie scientifique la plus réussie et la plus précise jamais développée.
@@ -19,7 +43,7 @@ John Gribbon raconte l'histoire dans son brillant livre, _Les chatons de Schröd
 
 Dans notre propre passion pour la défense des Cahiers d'Urantia, cette déclaration devrait être notre principe directeur. Lorsque nous pourrons dire : « les Fascicules d'Urantia ne sont pas importants, l'amour l'est », nous aurons atteint le niveau opérationnel de compréhension de l'Évangile de Jésus. Évidemment, les questions entourant les Cahiers d'Urantia ne sont pas importantes non plus (en termes relatifs), l'amour l'est. Car l’amour est la plus grande chose de l’univers.
 
-> « Pour l’homme fini, la vérité, la beauté et la bonté embrassent la pleine révélation de la réalité de divinité. À mesure que cet amour-compréhension de la Déité trouve son expression spirituelle dans la vie des mortels qui connaissent Dieu, les fruits de la divinité sont produits : paix intellectuelle, progrès social, satisfaction morale, joie spirituelle et sagesse cosmique. Les mortels avancés sur un monde au septième stade de lumière et de vie ont appris que l’amour est la plus grande chose de l’univers — et ils savent que Dieu est amour. » ([LU 56:10.20](/fr/The_Urantia_Book/56#p10_20))
+> « Pour l’homme fini, la vérité, la beauté et la bonté embrassent la pleine révélation de la réalité de divinité. À mesure que cet amour-compréhension de la Déité trouve son expression spirituelle dans la vie des mortels qui connaissent Dieu, les fruits de la divinité sont produits : paix intellectuelle, progrès social, satisfaction morale, joie spirituelle et sagesse cosmique. Les mortels avancés sur un monde au septième stade de lumière et de vie ont appris que l’amour est la plus grande chose de l’univers — et ils savent que Dieu est amour. » (<a id="a45_554"></a>[LU 56:10.20](/fr/The_Urantia_Book/56#p10_20))
 
 Je trouve que cette idée est un facteur de rappel pour m'aider à garder les choses proportionnées. De toutes les valeurs spirituelles, la Bonté est la seule qui ne peut être pratiquée en vase clos. On peut vivre l’intégrité et la Vérité en dehors du monde. On peut pratiquer l'excellence ou la beauté dans l'isolement... mais pas la Bonté ou l'Amour. Même si ce serait un oxymore de dire : « Jane (ou Bill, ou qui que ce soit) n’est pas importante – l’amour l’est, il est tout à fait correct de peser n’importe quel objet matériel, ou concept, ou préoccupation par rapport à l’Amour et de trouver qu’il est relativement sans importance.
 
@@ -35,3 +59,28 @@ J'ai vu un film il y a plusieurs années mettant en vedette une femme formidable
 
 La paix viendra sûrement dans le monde lorsqu’une masse critique de personnes s’efforcera d’honorer ces paroles.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume12_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Ordination_at_Boulder">
+          <span class="pr-2">Ordination à Boulder... Une journée inoubliable</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

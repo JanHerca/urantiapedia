@@ -11,7 +11,7 @@ dateCreated: 2022-09-26T19:14:54.696Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Ken Glasziou<br>© 2004 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-> Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. (<a id="a13_504"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 Où trouvons-nous ces « concepts modernes élargis et parfaitement intégrés de vérité cosmique, de beauté universelle et de bonté divine ? » Y a-t-il quelque chose de comparable à ce que nous avons déjà dans la révélation Urantia ? La réponse à cette question semble être un « Non ! » catégorique. Ce qui rend la déclaration auto-référentielle.
 

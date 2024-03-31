@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith J. Sprunger<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'idée du père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="pr-2">Le mystère de la Trinité : l'unité dans la pluralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le fait que le Livre d'Urantia ait gagné l'appréciation de milliers de personnes dotées d'esprits capables et de personnalités équilibrées au sein des traditions chrétienne et judaïque, et qu'il se soit vendu à plus de 250 000 exemplaires sans effort de promotion organisé, atteste de l'attrait de son message religieux. Des années d'expérience, cependant, ont démontré que la première chose que les gens souhaitent savoir sur le Livre d'Urantia est sa paternité et son origine. Il est difficile de répondre à cette question car le livre ne rentre pas dans les catégories conventionnelles. Il prétend être une nouvelle révélation et avoir été écrit par des personnalités supermortelles !
@@ -101,5 +125,30 @@ La Fondation Urantia et la Fellowship se sont abstenues d'utiliser les médias d
 
 _Le Livre d'Urantia_ est l'une des sources de pensée créatrice les plus prometteuses en philosophie, en religion et en culture dans notre monde contemporain. Ses ramifications sont extrêmement vastes. La compréhension globale des auteurs de la dynamique de la civilisation et de la culture apporte leur sagesse dans presque tous les domaines de l’activité humaine. Même si nous sommes convaincus que l'Église considérera un jour le Livre d'Urantia comme une source authentique et élargie de vérité spirituelle, elle ne gagnera une telle reconnaissance que grâce à une évaluation critique par des laïcs, des ministres et des théologiens.
 
-Le _The Spiritual Fellowship Journal_ est né du réseau du clergé de la communauté chrétienne des étudiants du _Livre d'Urantia_ organisé en 1979. Il est conçu pour interagir avec les ministres principaux qui ont à la fois la formation théorique et pratique nécessaire pour évaluer de manière critique le contenu du livre. La reconnaissance de concepts et de valeurs spirituelles élargies nécessite également du courage, de l’équilibre et de l’ouverture d’esprit. Nous vous invitons à vous joindre au nombre croissant de chefs religieux intéressés à lancer une période de test de cette vision nouvelle et fascinante de la réalité spirituelle.
+Le _Journal de la Fraternité Spirituelle_ est né du réseau du clergé de la communauté chrétienne des étudiants du _Livre d'Urantia_ organisé en 1979. Il est conçu pour interagir avec les ministres principaux qui ont à la fois la formation théorique et pratique nécessaire pour évaluer de manière critique le contenu du livre. La reconnaissance de concepts et de valeurs spirituelles élargies nécessite également du courage, de l’équilibre et de l’ouverture d’esprit. Nous vous invitons à vous joindre au nombre croissant de chefs religieux intéressés à lancer une période de test de cette vision nouvelle et fascinante de la réalité spirituelle.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Daniel_Love_Glazer/The_Father_Idea">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'idée du père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="pr-2">Le mystère de la Trinité : l'unité dans la pluralité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

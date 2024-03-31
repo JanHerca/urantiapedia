@@ -40,7 +40,7 @@ Pour étayer davantage notre point de vue selon lequel l’opposition à la thé
 
 À notre avis, si les Cahiers d'Urantia avaient effectivement été écrits par des auteurs humains, il aurait été tout à fait irrationnel pour eux d'aller à l'encontre de l'opinion professionnelle dominante en rendant leur histoire de la vie et de l'évolution de la terre si fortement dépendante de la vérité de l'histoire de la vie et de l'évolution de la terre. la théorie de la dérive des continents.
 
-Pour l’histoire de la dérive des continents des Cahiers d’Urantia, l’élément « prophétique » majeur est la date réelle du début de la dérive, donnée il y a 750 millions d’années. ([LU 57:8.23](/fr/The_Urantia_Book/57#p8_23))
+Pour l’histoire de la dérive des continents des Cahiers d’Urantia, l’élément « prophétique » majeur est la date réelle du début de la dérive, donnée il y a 750 millions d’années. (<a id="a42_180"></a>[LU 57:8.23](/fr/The_Urantia_Book/57#p8_23))
 
 Wegener avait suggéré comme date de début de la dérive 200 à 300 millions d'années, une hypothèse qui est restée dominante jusque dans les années 1980, lorsque la date de début a été repoussée à 500 millions d'années ou plus. Une estimation récente coïncide en fait exactement avec les 750 millions d'années données dans l'Étude d'Urantia [57](/fr/The_Urantia_Book/57).
 
@@ -50,7 +50,7 @@ Si les auteurs des Cahiers d'Urantia étaient humains, nous aurions besoin d'une
 
 Une chance chanceuse semble être la seule alternative. Mais les chances de ne pas deviner correctement sont énormes.
 
-> Toute connaissance finie et toute compréhension par des créatures sont *relatives.* Toute information, tous renseignements, même glanés à des sources élevées, ne sont que relativement complets, localement exacts et personnellement vrais. ([LU 2:7.1](/fr/The_Urantia_Book/2#p7_1))
+> Toute connaissance finie et toute compréhension par des créatures sont *relatives.* Toute information, tous renseignements, même glanés à des sources élevées, ne sont que relativement complets, localement exacts et personnellement vrais. (<a id="a52_241"></a>[LU 2:7.1](/fr/The_Urantia_Book/2#p7_1))
 
 ## Références
 

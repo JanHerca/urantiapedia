@@ -13,15 +13,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 À un moment donné de notre vie, pratiquement tout le monde vit une expérience particulière, une vision spirituelle que nous pourrions désirer partager avec nos compagnons de recherche. De telles expériences proviennent sûrement de l’esprit divin intérieur. Certains peuvent être trop personnels pour être partagés. D’autres peuvent avoir une valeur spirituelle que nous ne devrions pas garder pour nous.
 
-Everett Sloffer a eu une de ces idées qu'il a partagée dans son article « The Power of Spiritual Insight », publié dans le Spiritual Fellowship Journal 2 (2), 1992. Elle lui est venue en écoutant un ami s'adresser à un petit groupe et, pour lui, a ouvert une signification nouvelle et plus profonde du premier et plus grand commandement. (Tu devrais aimer le Seigneur ton Dieu de tout ton cœur....)
+Everett Sloffer a eu une de ces idées qu'il a partagée dans son article « The Power of Spiritual Insight », publié dans le Journal de la Fraternité Spirituelle 2 (2), 1992. Elle lui est venue en écoutant un ami s'adresser à un petit groupe et, pour lui, a ouvert une signification nouvelle et plus profonde du premier et plus grand commandement. (Tu devrais aimer le Seigneur ton Dieu de tout ton cœur....)
 
 Le commentaire qui a fait cela était « Jésus recherchait la volonté du Père même dans son plus petit désir ». Pour Everett, cette déclaration a ouvert de nouvelles portes vers la compréhension de la vie et de l’amour, du travail et des loisirs, et de chaque instant de l’être. Auparavant, Everett avait tendance à supposer, comme la plupart d’entre nous, que la volonté de Dieu ne s’applique qu’aux grandes décisions, aux actions qui orientent ou réorientent nos vies. Beaucoup de gens croient sincèrement que Dieu est trop occupé à diriger l’univers pour se soucier des moindres détails de nos activités quotidiennes.
 
 Le Livre d'Urantia nous dit que ce n'est pas vrai :
 
-> ... l’Esprit divin domine et contrôle toutes les phases de l’expérience humaine. ([LU 34:6.7](/fr/The_Urantia_Book/34#p6_7))
+> ... l’Esprit divin domine et contrôle toutes les phases de l’expérience humaine. (<a id="a21_84"></a>[LU 34:6.7](/fr/The_Urantia_Book/34#p6_7))
 
-> ...Jésus soumettre ses moindres désirs à la volonté de son Père céleste ... ([LU 139:4.9](/fr/The_Urantia_Book/139#p4_9))
+> ...Jésus soumettre ses moindres désirs à la volonté de son Père céleste ... (<a id="a23_79"></a>[LU 139:4.9](/fr/The_Urantia_Book/139#p4_9))
 
 Everett dit que ces déclarations impliquent trois choses :
 

@@ -10,6 +10,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Byron Belitsos<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Moravec/Spiritual_Perspectives_in_the_Workplace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectives spirituelles sur le lieu de travail</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -31,7 +52,7 @@ L’apocalyptisme contient une certaine fierté du savoir, ce que nous pourrions
 
 Selon moi, la foi dépend de notre espérance dans les promesses de Dieu. [^2] _Le Livre d'Urantia_ nous promet un JOUR de perfection personnelle, notre fusion avec notre Ajusteur de Pensée, et un « JOUR du Seigneur » (pour utiliser la phraséologie de la Bible, comme dans 1 Cor 1 : 8 ou Phil 1 : 10), le retour occasionnel de Michael sur sa planète natale. Ces promesses nous font toujours signe d'avancer avec espoir. C’est en ce sens que la foi et l’espérance sont interdépendantes. La foi véritable induit la croissance de l’âme alors que nous faisons face à un avenir inconnu, dynamisés par l’espoir dans les promesses de Dieu. Et quelles sont ces promesses ? Qu'un jour, toute la vérité sera dévoilée. Et qu'un jour lointain, à la fin littérale des temps, à la consommation de cet âge de l'univers, le Suprême _sortira_ triomphant, au grand jubilé de sa personnalisation du pouvoir, le JOUR de la **vraie** apocalypse de cet âge. 
 
-Mais la foi souffre lorsque notre espoir sublime dans l’accomplissement de ces promesses se transforme en une connaissance présomptueuse d’une « fin des temps » mythique – la fin des épreuves de l’évolution. L’interdépendance de la foi et de l’espérance est déchirée. Le défi du libre arbitre face à l'incertitude — ainsi que les autres _« inévitables_ de la vie des créatures évolutionnaires » évoquées dans le passage très apprécié sur [LU 3:5.5](/fr/The_Urantia_Book/3#p5_5) dans _Le Livre d'Urantia_ — nous a été volé. C’est là le danger de la pensée apocalyptique pour la croissance personnelle et le progrès ordonné de la communauté humaine.
+Mais la foi souffre lorsque notre espoir sublime dans l’accomplissement de ces promesses se transforme en une connaissance présomptueuse d’une « fin des temps » mythique – la fin des épreuves de l’évolution. L’interdépendance de la foi et de l’espérance est déchirée. Le défi du libre arbitre face à l'incertitude — ainsi que les autres _« inévitables_ de la vie des créatures évolutionnaires » évoquées dans le passage très apprécié sur <a id="a54_438"></a>[LU 3:5.5](/fr/The_Urantia_Book/3#p5_5) dans _Le Livre d'Urantia_ — nous a été volé. C’est là le danger de la pensée apocalyptique pour la croissance personnelle et le progrès ordonné de la communauté humaine.
 
 > _Mais la foi souffre lorsque notre sublime espérance dans l'accomplissement de ces promesses devient une connaissance présomptueuse d'une « fin des temps » mythique – la fin des épreuves de l'évolution. L’interdépendance de la foi et de l’espérance est déchirée._
 
@@ -47,7 +68,7 @@ En termes judéo-chrétiens, le rêve du millénaire est la réalisation la plus
 > 4. La perspective de l’accomplissement plus parfait de la volonté de Dieu, le progrès vers l’aurore d’un nouvel ordre social en liaison avec une vie spirituelle améliorée — le prochain âge de l’homme.
 > 5. Le royaume dans sa plénitude, l’âge spirituel futur de lumière et de vie sur terre.
 > 
-> C’est pourquoi il faut toujours analyser l’enseignement du Maitre pour savoir à laquelle de ces cinq phases il veut se référer quand il emploie l’expression « royaume des cieux ». Par ce processus de changement graduel de la volonté de l’homme et de modification corrélative des décisions humaines, Micaël et ses associés changent de même progressivement, mais avec certitude, tout le cours de l’évolution humaine sociale et autre. ([LU 170:4.1-7](/fr/The_Urantia_Book/170#p4_1))
+> C’est pourquoi il faut toujours analyser l’enseignement du Maitre pour savoir à laquelle de ces cinq phases il veut se référer quand il emploie l’expression « royaume des cieux ». Par ce processus de changement graduel de la volonté de l’homme et de modification corrélative des décisions humaines, Micaël et ses associés changent de même progressivement, mais avec certitude, tout le cours de l’évolution humaine sociale et autre. (<a id="a70_435"></a>[LU 170:4.1-7](/fr/The_Urantia_Book/170#p4_1))
 
 Ce que j’appelle le « New Ageism » met l’accent sur l’avènement soudain et impatient du royaume intérieur. L’enseignement selon lequel « le Royaume est en vous » est la première et la plus importante phase de l’enseignement du Royaume. Mais nous parlons ici d’une version apocalyptique, d’une interprétation étroite. Cela peut prendre la forme d’une annihilation bouddhique de l’ego, comme l’enseignent certains cultes et communautés d’Amérique du Nord ; ou, plus communément, à travers un spiritualisme « borgne » qui réduit ce puissant enseignement du royaume à l'extase de trouver « Dieu à l'intérieur » et de l'y garder ensuite. Le chrétien fondamentaliste renverse ce spiritualisme « à l’envers » du Nouvel Âge.
 
@@ -57,15 +78,37 @@ _Le Livre d'Urantia_ nous dit clairement que les premiers chrétiens, ayant perd
 
 > Quand les disciples immédiats de Jésus reconnurent leur échec partiel pour réaliser l’idéal consistant à établir le royaume dans le cœur des hommes par la domination et la gouverne de l’esprit chez les croyants individuels, ils cherchèrent à éviter que l’enseignement du Maitre ne fût entièrement perdu ; à cet effet, ils substituèrent à son idéal du royaume la création progressive d’une organisation sociale visible, l’Église chrétienne. Quand ils eurent accompli ce programme de substitution, ils se mirent à situer le royaume dans l’avenir, afin de maintenir la cohérence et d’assurer la récognition des enseignements du Maitre sur le fait du royaume. **Dès que l’Église fut solidement établie, elle commença à enseigner qu’en réalité le royaume devait apparaitre à l’apogée de l’ère chrétienne, à la seconde venue du Christ.**
 > 
-> De cette manière, le royaume devint le concept d’un âge, l’idée d’une visitation future, et l’idéal de la rédemption finale des saints du Très-Haut. ([LU 170:5.14-15](/fr/The_Urantia_Book/170#p5_14), nous qui soulignons)
+> De cette manière, le royaume devint le concept d’un âge, l’idée d’une visitation future, et l’idéal de la rédemption finale des saints du Très-Haut. (<a id="a80_152"></a>[LU 170:5.14-15](/fr/The_Urantia_Book/170#p5_14), nous qui soulignons)
 
 Le texte clé de l’apocalyptisme chrétien, le livre de l’Apocalypse, parle d’une « Nouvelle Jérusalem » miraculeusement délivrée de l’extérieur (et d’en haut) dans une séquence d’événements culminant avec la bataille d’Harmaguédon et le règne millénaire du Christ. Mais il ne fait presque aucune référence aux enseignements cruciaux de Jésus sur le « Royaume intérieur ».
 
 À mon avis, chacune de ces approches décrites ci-dessus sont des raccourcis impatients sur le chemin semé d’embûches de l’évolution. Le rythme de l’évolution exige que nous affrontions le mal du temps grâce aux techniques évolutives de la foi et de l’espérance. Pour maintenir la foi et l’espérance en équilibre, **chacune** des phases des enseignements du Royaume est nécessaire à la réalisation de **une** de ses phases. Nous ne devons ni surestimer le but (le « règne millénaire » de la Lumière et de la Vie) ni le point de départ (le « Royaume intérieur ») de ce long voyage. Et c’est une autre façon de dire que la paternité/maternité de Dieu et la fraternité de l’humanité sont des réalités interdépendantes.
 
-> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. » (<a id="a86_508"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/James_Moravec/Spiritual_Perspectives_in_the_Workplace">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Perspectives spirituelles sur le lieu de travail</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

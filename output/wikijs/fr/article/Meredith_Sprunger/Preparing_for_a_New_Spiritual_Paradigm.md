@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume9_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Creeping_Fundamentalism">
+          <span class="pr-2">Fondamentalisme rampant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Ellen T. Charry, rédactrice adjointe de _Theology Today_, observe dans le numéro d'avril 1999 que les librairies regorgent d'ouvrages sur la spiritualité. Une vision nouvelle et plus large de la spiritualité est en train de s’établir dans notre culture. « La vie chrétienne, dit-elle, ne peut plus être interprétée en termes exclusivement confessionnels ou confessionnels. » (p.2)
@@ -19,3 +43,28 @@ Marci McDonald, dans le numéro du 1er mai 1999 de _U.S. News and World Report_,
 
 Robert Wuthnow, dans _After Heaven: Spirituality in America Since the 1950's_ (Berkeley, University of California Press, 1998), souligne qu'au cours de la seconde moitié du XXe siècle en Amérique, il y a eu un changement détectable d'une église ou d'une synagogue spiritualité à celui qui est détaché de l’allégeance confessionnelle. Les gens développent une spiritualité adaptée à leurs propres besoins. La vision institutionnelle traditionnelle de Dieu et de la spiritualité n'est plus adaptée pour répondre aux besoins du 21 ème siècle. Un nombre croissant de personnes dans notre monde sont des chercheurs. Un jour, ils découvriront la Cinquième Révélation d’Époque !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume9_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Creeping_Fundamentalism">
+          <span class="pr-2">Fondamentalisme rampant</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

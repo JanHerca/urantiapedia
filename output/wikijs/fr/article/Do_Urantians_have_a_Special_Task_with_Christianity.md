@@ -13,20 +13,20 @@ dateCreated: 2022-9-9T8:13:39Z
 
 Il semblerait que ce soit le cas. Il y a tellement de déclarations dans les fascicules qui semblent exprimer l’espoir des révélateurs qu’une sorte de mouvement de renouveau ramènera les églises aux enseignements originaux de Jésus. La première ligne de certains d’entre eux suit :
 
-- Il doit y avoir un renouveau des enseignements réels de Jésus... ([LU 170:5.19](/fr/The_Urantia_Book/170#p5_19))
-- Tout Urantia attend la proclamation du message ennoblissant... ([LU 94:12.7](/fr/The_Urantia_Book/94#p12_7))
-- Le concept de Jésus est toujours vivant... ([LU 170:5.17](/fr/The_Urantia_Book/170#p5_17))
-- Ainsi la soi-disant église chrétienne devient le cocon... ([LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
-- Mais le christianisme paganisé et socialisé a besoin... ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
-- L'heure sonne pour une redécouverte des fondements véritables et originels... ([LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
-- Le christianisme a en effet rendu un grand service... mais ce qui est maintenant le plus nécessaire... ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
-- Le Jésus vivant est le seul espoir d'une possible unification du christianisme... ([LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
-- Le grand espoir d'Urantia réside dans la possibilité d'une nouvelle révélation... qui s'unira spirituellement... les nombreuses familles... ([LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
-- Si seulement le christianisme pouvait en saisir davantage... ([LU 195:10.19](/fr/The_Urantia_Book/195#p10_19))
-- L'espérance du christianisme moderne... apprendre à nouveau de Jésus... ([LU 195:10.21](/fr/The_Urantia_Book/195#p10_21))
-- Le moment est venu d'assister à la résurrection figurative de l'humain Jésus... ([LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
-- Un jour, une réforme dans l'Église chrétienne pourrait toucher suffisamment profondément... ([LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
-- Quel service transcendant si, par cette révélation, le Fils de l'Homme devait être récupéré du tombeau de la théologie traditionnelle et présenté comme Jésus vivant à l'Église qui porte son nom, et à toutes les autres religions ! ([LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
+- Il doit y avoir un renouveau des enseignements réels de Jésus... (<a id="a15_68"></a>[LU 170:5.19](/fr/The_Urantia_Book/170#p5_19))
+- Tout Urantia attend la proclamation du message ennoblissant... (<a id="a16_66"></a>[LU 94:12.7](/fr/The_Urantia_Book/94#p12_7))
+- Le concept de Jésus est toujours vivant... (<a id="a17_46"></a>[LU 170:5.17](/fr/The_Urantia_Book/170#p5_17))
+- Ainsi la soi-disant église chrétienne devient le cocon... (<a id="a18_61"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
+- Mais le christianisme paganisé et socialisé a besoin... (<a id="a19_59"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+- L'heure sonne pour une redécouverte des fondements véritables et originels... (<a id="a20_81"></a>[LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
+- Le christianisme a en effet rendu un grand service... mais ce qui est maintenant le plus nécessaire... (<a id="a21_106"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+- Le Jésus vivant est le seul espoir d'une possible unification du christianisme... (<a id="a22_85"></a>[LU 195:10.11](/fr/The_Urantia_Book/195#p10_11))
+- Le grand espoir d'Urantia réside dans la possibilité d'une nouvelle révélation... qui s'unira spirituellement... les nombreuses familles... (<a id="a23_143"></a>[LU 195:10.16](/fr/The_Urantia_Book/195#p10_16))
+- Si seulement le christianisme pouvait en saisir davantage... (<a id="a24_64"></a>[LU 195:10.19](/fr/The_Urantia_Book/195#p10_19))
+- L'espérance du christianisme moderne... apprendre à nouveau de Jésus... (<a id="a25_75"></a>[LU 195:10.21](/fr/The_Urantia_Book/195#p10_21))
+- Le moment est venu d'assister à la résurrection figurative de l'humain Jésus... (<a id="a26_83"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
+- Un jour, une réforme dans l'Église chrétienne pourrait toucher suffisamment profondément... (<a id="a27_95"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
+- Quel service transcendant si, par cette révélation, le Fils de l'Homme devait être récupéré du tombeau de la théologie traditionnelle et présenté comme Jésus vivant à l'Église qui porte son nom, et à toutes les autres religions ! (<a id="a28_233"></a>[LU 196:1.2](/fr/The_Urantia_Book/196#p1_2))
 
 > L'homme est complètement fou. Il ne saurait pas créer un asticot, et il crée des dieux par douzaines.
 > &nbsp; &nbsp; &nbsp; _Michel de Montaigne_
@@ -34,9 +34,9 @@ Il semblerait que ce soit le cas. Il y a tellement de déclarations dans les fas
 > Pendant que je pensais apprendre à vivre, j'ai appris à mourir.
 > &nbsp; &nbsp; &nbsp; _Léonard de Vinci_
 
-Une chose est sûre, c’est que nous n’obtiendrons rien de positif en critiquant les erreurs du christianisme et en vantant la supériorité des enseignements du Livre d’Urantia. Ceux qui pensent ainsi n'ont qu'à étudier l'incident de l'échec de Simon Zelotes avec Teherma, le Persan, ([LU 141:6.1](/fr/The_Urantia_Book/141#p6_1)) pour apprécier la supériorité de l'approche positive de Jésus consistant à laisser la vérité faire son propre travail plutôt que de critiquer les erreurs comme un moyens de procurer un avancement spirituel.
+Une chose est sûre, c’est que nous n’obtiendrons rien de positif en critiquant les erreurs du christianisme et en vantant la supériorité des enseignements du Livre d’Urantia. Ceux qui pensent ainsi n'ont qu'à étudier l'incident de l'échec de Simon Zelotes avec Teherma, le Persan, (<a id="a36_282"></a>[LU 141:6.1](/fr/The_Urantia_Book/141#p6_1)) pour apprécier la supériorité de l'approche positive de Jésus consistant à laisser la vérité faire son propre travail plutôt que de critiquer les erreurs comme un moyens de procurer un avancement spirituel.
 
-Nous pouvons peut-être apprendre ce que nous devons faire à partir d'une description sur [LU 144:6.3](/fr/The_Urantia_Book/144#p6_3) de la manière dont Jésus a géré les problèmes survenus entre ses apôtres et les disciples de Jean-Baptiste, dirigés par Abner.
+Nous pouvons peut-être apprendre ce que nous devons faire à partir d'une description sur <a id="a38_89"></a>[LU 144:6.3](/fr/The_Urantia_Book/144#p6_3) de la manière dont Jésus a géré les problèmes survenus entre ses apôtres et les disciples de Jean-Baptiste, dirigés par Abner.
 
 Des points de divergence sont apparus concernant de nombreuses questions, telles que la nature de la prière formelle, les rites de baptême, la repentance, etc., etc. Les deux parties ont essayé d'amener Jésus soit à prendre en charge les séances de débat, soit à décider qui avait raison. La réponse de Jésus à toutes ces tentatives était la suivante :
 
@@ -44,7 +44,7 @@ Des points de divergence sont apparus concernant de nombreuses questions, telles
 > 
 > Si vous êtes personnellement en difficulté dans vos relations avec Dieu, venez à moi ; je vous écouterai et vous conseillerai dans la solution de votre problème. »
 > 
-> « Mais, si vous entreprenez de coordonner des interprétations humaines divergentes relatives à des questions religieuses et à la socialisation de la religion, il vous faut résoudre tous ces problèmes **en prenant vos propres décisions**. » ([LU 144:6.3](/fr/The_Urantia_Book/144#p6_3))
+> « Mais, si vous entreprenez de coordonner des interprétations humaines divergentes relatives à des questions religieuses et à la socialisation de la religion, il vous faut résoudre tous ces problèmes **en prenant vos propres décisions**. » (<a id="a46_243"></a>[LU 144:6.3](/fr/The_Urantia_Book/144#p6_3))
 
 À plusieurs reprises, dans les Cahiers d'Urantia, nous sommes informés que nous avons une mission à accomplir, « qui consistera dans la vie que vous vivrez parmi les hommes ».
 

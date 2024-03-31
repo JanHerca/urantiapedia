@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Bud Bromley<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon odyssée des expériences de pointe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Humble_Approach_by_John_M_Templeton">
+          <span class="pr-2">Livres importants : L'approche humble de John M. Templeton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans certains journaux locaux, il y a quelque temps, un bref rapport intitulé « **Le comité rejette le projet d'enseigner les valeurs à l'école.** » Cette décision est, bien sûr, un jugement de valeur qui détermine lui-même la manière dont les valeurs sont enseignées dans nos écoles. Il est urgent de reconsidérer le manque de clairvoyance d’une telle décision. Notre système éducatif, consciemment ou inconsciemment, enseigne toujours une certaine sorte de valeurs. Nous devons être clairement intentionnels quant aux valeurs que nous enseignons réellement. Comment un groupe peut-il exister en tant que groupe cohésif s’il ne dispose pas d’un noyau de valeurs communes clairement compris ? Et comment de telles valeurs continueront-elles à être chéries si elles ne sont pas enseignées, d’abord à la maison et dans les groupes religieux de notre choix, mais aussi dans les écoles publiques ? Nous nous effondrerons en tant que pays si nous ne parvenons pas à nous mettre d’accord sur un noyau minimum de valeurs publiques essentielles et à enseigner vigoureusement ces valeurs dans nos écoles.
@@ -37,3 +61,28 @@ Pour ceux qui sont intéressés par une approche religieuse profondément réfl�
 >_C. Bud Bromley est programmeur informatique et professeur d'université, aujourd'hui à la retraite. Bud est un étudiant du _Livre d'Urantia_ depuis de nombreuses années._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/My_Odyssey_of_Peak_Experiences_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon odyssée des expériences de pointe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_The_Humble_Approach_by_John_M_Templeton">
+          <span class="pr-2">Livres importants : L'approche humble de John M. Templeton</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

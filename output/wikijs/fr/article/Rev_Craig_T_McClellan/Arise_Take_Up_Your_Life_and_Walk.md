@@ -9,13 +9,34 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Craig T. McClellan<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guidage intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sermon du **Rév. Craig T. McClellan**
 
 Écriture : [Marc 2:1-12](/fr/Bible/Mark/2#v1)
 
-Remarque : Je suis redevable d'une histoire du ministère de Jésus décrite dans _Le Livre d'Urantia_ ([LU 130:6.1](/fr/The_Urantia_Book/130#p6_1)) que j'ai reformulée et améliorée avec la leçon biblique.
+Remarque : Je suis redevable d'une histoire du ministère de Jésus décrite dans _Le Livre d'Urantia_ (<a id="a38_101"></a>[LU 130:6.1](/fr/The_Urantia_Book/130#p6_1)) que j'ai reformulée et améliorée avec la leçon biblique.
 
 Je vais présenter le sermon de ce matin sous la forme d'une méditation guidée. Je vous suggère donc de vous asseoir de manière détendue, selon ce qui vous convient au niveau de vos mains et de vos jambes. Si vous avez quelque chose entre les mains, je vous suggère de le mettre à côté de vous. [pause...] Je vous demanderais de fermer les yeux, de vous détendre en présence de Dieu, ... et concentrez-vous intérieurement sur cette histoire de notre Seigneur Jésus que je veux partager avec vous... Soyez conscient de votre respiration... alors que le souffle de la vie, physiquement et spirituellement,... se déplace en vous et à travers vous. Lorsque vous sentez le souffle tiré vers l’intérieur, centrez-vous. . Centrez-vous et écoutez cette histoire de Dieu...
 
@@ -45,3 +66,25 @@ Alors, au nom de Jésus-Christ, je vous dis : Lève-toi, prends ta vie et marche
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merritt_C_Horn/Inner_Guidance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Guidage intérieur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

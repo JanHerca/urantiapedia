@@ -29,11 +29,11 @@ Certains lecteurs qui n'ont pas encore formé une opinion sur la validité des C
 
 Le Dr Meredith Sprunger, universitaire à la retraite et ministre du culte, a souligné que l'origine et la paternité d'un ouvrage tel que les Cahiers d'Urantia ne constituent pas un critère philosophique de vérité. Les documents eux-mêmes nient que la science puisse valider la vérité religieuse.
 
-« L’existence de Dieu ne peut jamais être prouvée par une expérience scientifique ou par la pure raison de la déduction logique. Dieu ne peut être réalisé que dans le domaine de l’expérience humaine. ([LU 1:2.7](/fr/The_Urantia_Book/1#p2_7))
+« L’existence de Dieu ne peut jamais être prouvée par une expérience scientifique ou par la pure raison de la déduction logique. Dieu ne peut être réalisé que dans le domaine de l’expérience humaine. (<a id="a31_201"></a>[LU 1:2.7](/fr/The_Urantia_Book/1#p2_7))
 
 Et à la page 1106 :
 
-> « La raison est la preuve de la science, la foi est la preuve de la religion, la logique est la preuve de la philosophie, mais la révélation n’est validée que par l’*expérience* humaine. » ([LU 101:2.8](/fr/The_Urantia_Book/101#p2_8))
+> « La raison est la preuve de la science, la foi est la preuve de la religion, la logique est la preuve de la philosophie, mais la révélation n’est validée que par l’*expérience* humaine. » (<a id="a35_192"></a>[LU 101:2.8](/fr/The_Urantia_Book/101#p2_8))
 
 Ainsi, selon les Cahiers d'Urantia, l'existence de Dieu et la vérité de la révélation ne peuvent être validées que par notre propre expérience personnelle.
 

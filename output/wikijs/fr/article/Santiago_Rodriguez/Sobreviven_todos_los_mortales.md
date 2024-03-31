@@ -147,7 +147,7 @@ En insistant sur ce qui a été mentionné ci-dessus, la dotation d'esprit et de
 > 
 > 1. _La ***récognition mathématique*** ou..._
 > 2. _La récognition raisonnée de l’obligation de se ***conduire moralement***._ 
-> 3. ***-La compréhension, par la foi, de la communion avec la Déité, ....*** [LU 16:8.16-18](/fr/The_Urantia_Book/16#p8_16)
+> 3. ***-La compréhension, par la foi, de la communion avec la Déité, ....*** <a id="a149_78"></a>[LU 16:8.16-18](/fr/The_Urantia_Book/16#p8_16)
 
 Plus tard, il insiste sur le même fait :
 

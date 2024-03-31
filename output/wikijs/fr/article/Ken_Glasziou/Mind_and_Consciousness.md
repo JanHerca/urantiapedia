@@ -63,7 +63,7 @@ Le « Je » du neurophysiologiste quantique semble être sur le point d’être 
 
 Il semble peu probable qu’une méthodologie scientifique puisse jamais être développée pour vérifier ou même éclairer les révélations détaillées contenues dans les Articles concernant la personnalité et l’esprit. Les fascicules parlent peu de l’interaction esprit-cerveau, la chose la plus proche étant : « La conscience humaine repose doucement sur le mécanisme électrochimique situé en dessous et touche délicatement le système énergétique esprit-morontiel situé au-dessus. » Les fascicules déclarent que la personnalité est un mystère de l'univers, et que l'esprit est certainement un mystère pour nous, Urantiens. C’est l’objet de la révélation – et certaines choses doivent être acceptées avec foi.
 
-> Chaque impulsion de chaque électron, pensée ou esprit est une unité active dans tout l’univers. ... L’univers est un tout : nulle chose, nul être n’existent ni ne vivent dans l’isolement. » ([LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
+> Chaque impulsion de chaque électron, pensée ou esprit est une unité active dans tout l’univers. ... L’univers est un tout : nulle chose, nul être n’existent ni ne vivent dans l’isolement. » (<a id="a65_193"></a>[LU 56:10.14](/fr/The_Urantia_Book/56#p10_14))
 
 ## Liens externes
 

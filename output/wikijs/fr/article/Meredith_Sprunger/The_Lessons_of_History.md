@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Science_and_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science et religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Just_Another_Source">
+          <span class="pr-2">Interface : Juste une autre source ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’observation la plus répandue et la plus incontestée de notre époque est que nous vivons dans l’une des périodes de transition majeures de l’histoire. Des philosophes avisés de l’histoire comme Oswald Spengler, Albert Schweitzer, Pitirim A. Sorokin et Arnold Toynbee observent que nous assistons au déclin de la civilisation occidentale. Ils observent également que tous les cycles culturels sont renforcés par une grande vision spirituelle et que lorsque cette vision spirituelle de la réalité perd sa pertinence et sa centralité, la culture décline et se désintègre. Tous conviennent que seule une nouvelle vision de la réalité spirituelle peut renouveler et revitaliser notre civilisation.
@@ -17,3 +41,28 @@ Loren B. Mead, prêtre épiscopal fondateur et président de l'Institut Alban, d
 
 Notre monde a désespérément besoin d’une nouvelle vision de la réalité spirituelle basée sur les fondements de la connaissance contemporaine et d’une vision de l’univers qui ait du sens pour les gens d’aujourd’hui. _Le Livre d'Urantia_, qui prétend être une nouvelle révélation d'époque, a le potentiel, à mon avis, de servir de fondement spirituel à un nouveau cycle culturel et de dynamique spirituelle pour la transformation de l'Église chrétienne d'une institution sectaire en une institution sectaire. communion universelle. Il faut évidemment du temps pour tester et s’acclimater à un paradigme spirituel nouveau et inspirant. L’histoire des révolutions scientifiques et culturelles démontre que de nombreuses personnes ne font jamais la transition. Cela peut prendre des générations. Mais pour ceux qui ont soif d'une conceptualisation nouvelle et plus large de la réalité spirituelle, _Le Livre d'Urantia_ peut être une expérience libératrice et inspirante !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Science_and_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Science et religion</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Just_Another_Source">
+          <span class="pr-2">Interface : Juste une autre source ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

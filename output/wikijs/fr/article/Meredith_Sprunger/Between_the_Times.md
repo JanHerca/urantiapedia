@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Crisis_in_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crise du christianisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="pr-2">Le paradis existe-t-il ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Louis Dupré, professeur de philosophie de la religion à l'Université de Yale, présente une interview intrigante dans le _Christian Century_ du 16 au 23 juillet 1997 intitulée « À la recherche de l'intériorité chrétienne ». Dupré observe que la civilisation occidentale est devenue une culture laïque. Le christianisme a perdu sa puissance créatrice et ne peut plus intégrer notre culture. « Nous sommes tous devenus athées, non pas dans le sens hostile et antireligieux d’une époque antérieure, mais dans le sens où Dieu n’a plus absolument aucune importance dans notre monde fermé, si Dieu compte du tout. » (p.654)
@@ -19,7 +43,32 @@ La foi authentique doit intégrer tous les autres éléments d’une société s
 
 Peu à peu, de nouvelles institutions religieuses évolueront sur la base de la créativité de la Cinquième Révélation d’Époque qui, avec le temps, créera une nouvelle culture intégratrice à travers le monde. Les étudiants du _Livre d'Urantia_ ont l'opportunité unique de participer à la formation de ces nouvelles institutions religieuses et de vivre les débuts d'un nouvel âge sur Urantia !
 
-> « Un jour, une réforme dans l’Église chrétienne pourrait avoir un impact assez profond pour revenir aux purs enseignements religieux de Jésus, source et aboutissement de notre foi. On peut *prêcher* une religion *à propos* de Jésus, mais obligatoirement, on doit *vivre* la religion *de* Jésus. » ([LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
+> « Un jour, une réforme dans l’Église chrétienne pourrait avoir un impact assez profond pour revenir aux purs enseignements religieux de Jésus, source et aboutissement de notre foi. On peut *prêcher* une religion *à propos* de Jésus, mais obligatoirement, on doit *vivre* la religion *de* Jésus. » (<a id="a45_300"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Crisis_in_Christianity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Crise du christianisme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Does_Heaven_Exist">
+          <span class="pr-2">Le paradis existe-t-il ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

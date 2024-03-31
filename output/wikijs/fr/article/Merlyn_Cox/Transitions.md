@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Merlyn Cox<br>© 2004 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume14_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Religion_in_Transition">
+          <span class="pr-2">La religion en transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours de plusieurs années, Meredith Sprunger a envoyé des lettres au clergé principal cherchant à leur présenter _Le Livre d'Urantia_. J'ai répondu, après avoir reçu et accepté une invitation pour un exemplaire de prêt du livre. J’ai été étonné par la sagesse et le ton de vérité de ce que je lisais, et cela est rapidement devenu le centre et l’objectif de ma vie spirituelle. Je voulais le partager avec tout le monde, même si je n'étais pas naïf quant aux perspectives. Je me demandais même si je trouverais quelqu’un d’autre dans ma vie qui serait disposé à le « découvrir ».
@@ -50,3 +74,28 @@ S'il vous plaît rejoignez-nous!
 
 - Dans le dernier numéro du Journal, le bel article sur « Le leadership pour les communautés spirituelles » m'a été attribué à tort, plutôt qu'à son auteur légitime, Richard Bain.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume14_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Religion_in_Transition">
+          <span class="pr-2">La religion en transition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

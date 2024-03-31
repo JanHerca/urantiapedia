@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : la présence salvatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 John Shelby Éponge
@@ -26,10 +47,32 @@ La religion de Mgr Spong est centrée sur son expérience de la présence intér
 
 
 
-> « L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. L’heure est venue de redécouvrir les vrais fondements originels du christianisme aujourd’hui déformé et plein de compromis — la vie et les enseignements réels de Jésus. » ([LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
+> « L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. L’heure est venue de redécouvrir les vrais fondements originels du christianisme aujourd’hui déformé et plein de compromis — la vie et les enseignements réels de Jésus. » (<a id="a49_358"></a>[LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
 
 
 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : la présence salvatrice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

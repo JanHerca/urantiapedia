@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2006 Meredith J. Sprunger<br>© 2006 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Urantia_Brotherhood_Origin_History_and_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fraternité Urantia – Origine, Histoire et Destin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2006-dernier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2006 — Dernier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lynn_E_Rhoderick/Jesus_Confrontational_Technique">
+          <span class="pr-2">La technique d'enseignement conflictuelle de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quiconque a vécu une relation personnelle dynamique avec Dieu et s’est consacré aux exigences de cette relation doit faire quelque chose. La véritable religion motive toujours l’action et change la vie. Jésus souligne que le service est le véritable indicateur de notre relation avec le Père Universel. Les religieux ont souvent contourné la discipline exigeante du ministère spirituel en s'engageant dans des substituts religieux tels que la théologisation, la culture de cultes, l'administration organisationnelle et la contemplation mystique. Les sectes et les groupes sectaires ont tendance à être centripètes – introvertis – leur objectif et leurs principales relations se font avec les initiés. Une religion ou un religieux plus mature est ouvert et extraverti et cherche à apporter un ministère à toute l’humanité.
@@ -86,3 +110,28 @@ Nous vivons l’une des périodes de transition majeures de l’histoire de l’
 > _Meredith Sprunger est un pasteur à la retraite de l'UCC et professeur d'université qui a travaillé pendant plus de cinquante ans pour interagir avec le clergé principal. Il est le fondateur et le premier rédacteur en chef du Spritual Fellowship Journal, et est actuellement rédacteur associé._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Urantia_Brotherhood_Origin_History_and_Destiny">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fraternité Urantia – Origine, Histoire et Destin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2006-dernier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2006 — Dernier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lynn_E_Rhoderick/Jesus_Confrontational_Technique">
+          <span class="pr-2">La technique d'enseignement conflictuelle de Jésus</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

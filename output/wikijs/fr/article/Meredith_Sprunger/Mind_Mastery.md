@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Meredith J. Sprunger<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Marks/Faith_and_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foi et spiritualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="pr-2">Les Psaumes aujourd'hui : Service créatif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La réalisation la plus importante de l’expérience humaine est la maîtrise de notre esprit grâce à la direction de l’Esprit qui nous habite. Cette maîtrise est le facteur humain clé dans l’initiation et le développement de notre âme immortelle. Les Médians attirent l'attention sur l'importance de la maîtrise de l'esprit en mentionnant la maîtrise progressive de Jésus sur son esprit humain au cours de ses 24e, 26e, 29e et 30e années. C’est le bien le plus élevé et le point culminant de l’existence humaine.
@@ -27,7 +51,7 @@ Notre personnalité entière fonctionne comme une unité holistique. Le mental, 
 
 ## Maîtrise de l'Esprit
 
-L’objectif le plus créatif de l’expérience humaine est de maîtriser notre esprit sous la direction de l’Esprit qui nous habite. Les métaphores peuvent être utiles pour visualiser ce processus de transformation. L'Esprit est l'architecte, l'esprit est le constructeur, le caractère est l'édifice. En d'autres termes : « L'esprit est votre vaisseau, l'Ajusteur est votre pilote, la volonté humaine est votre capitaine. » ([LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)) Seul l'intellect spiritualisé peut discerner les vraies valeurs. À mesure que nous disciplineons notre esprit et contrôlons nos pensées sous la direction de l’Esprit, notre conscience s’accorde naturellement aux fruits de l’esprit. Cette maîtrise de soi nous délivre progressivement des luttes de contrôle négatif et de l’esclavage du renoncement à mesure que nous sommes spontanément motivés à actualiser les fruits de l’esprit : « service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. » ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+L’objectif le plus créatif de l’expérience humaine est de maîtriser notre esprit sous la direction de l’Esprit qui nous habite. Les métaphores peuvent être utiles pour visualiser ce processus de transformation. L'Esprit est l'architecte, l'esprit est le constructeur, le caractère est l'édifice. En d'autres termes : « L'esprit est votre vaisseau, l'Ajusteur est votre pilote, la volonté humaine est votre capitaine. » (<a id="a53_420"></a>[LU 111:1.9](/fr/The_Urantia_Book/111#p1_9)) Seul l'intellect spiritualisé peut discerner les vraies valeurs. À mesure que nous disciplineons notre esprit et contrôlons nos pensées sous la direction de l’Esprit, notre conscience s’accorde naturellement aux fruits de l’esprit. Cette maîtrise de soi nous délivre progressivement des luttes de contrôle négatif et de l’esclavage du renoncement à mesure que nous sommes spontanément motivés à actualiser les fruits de l’esprit : « service aimant, dévouement désintéressé, fidélité courageuse, équité sincère, honnêteté éclairée, espoir vivace, confiance sans soupçons, ministère miséricordieux, bonté inaltérable, tolérance indulgente et paix durable. » (<a id="a53_1122"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
 Cette croissance est en grande partie le résultat de la domination de l’âme. L'âme fonctionne en fait comme un intermédiaire entre le mental matériel inférieur et le mental cosmique supérieur, et apporte la paix intérieure, la joie et la liberté de l'esprit en tant qu'atmosphère dominante de notre conscience. À mesure que nous mûrissons spirituellement, nous vivons de plus en plus dans notre âme-esprit qui transcende la lutte entre « la chair et l’esprit ».
 
@@ -49,3 +73,28 @@ Le Dr Dan Berger était un hémophile grave qui avait contracté le SIDA à caus
 
 Le Dr Berger a déterminé que lui et son sens de la mission contrôleraient sa vie, et non sa maladie. Il a perdu sa bataille en 1996. Et le Dr Groopman a fait remarquer : « Son esprit, comme la lumière d’une étoile lointaine, continue d’illuminer ma vie, longtemps après que sa source s’est éteinte. » La communion avec Dieu et le dévouement au service sont des aides créatives qui nous aident à maîtriser notre esprit. À mesure que nous façonnons notre esprit et trouvons de plus en plus notre identité avec notre âme-esprit, nous façonnons notre destin spirituel.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/John_Marks/Faith_and_Spirituality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foi et spiritualité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="pr-2">Les Psaumes aujourd'hui : Service créatif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

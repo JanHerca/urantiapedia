@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Gard Jameson<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/God_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le langage de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="pr-2">L’interconfessionnel pourrait éclairer l’avenir de notre monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Cet article est tiré d'un discours prononcé devant un groupe d'universalistes unitariens._
@@ -42,5 +66,30 @@ Que la réalité holistique de ce Parent Divin en vous vous bénisse, vous souti
 > _Gard Jameson est expert-comptable et enseigne les religions comparées à l'Université du Nevada._
 {.is-info}
 
-> « L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. L’heure est venue de redécouvrir les vrais fondements originels du christianisme aujourd’hui déformé et plein de compromis — la vie et les enseignements réels de Jésus. » ([LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
+> « L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. L’heure est venue de redécouvrir les vrais fondements originels du christianisme aujourd’hui déformé et plein de compromis — la vie et les enseignements réels de Jésus. » (<a id="a68_358"></a>[LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/God_Language">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le langage de Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Tennant/Interfaith_Could_Brighten_Future_For_Our_World">
+          <span class="pr-2">L’interconfessionnel pourrait éclairer l’avenir de notre monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

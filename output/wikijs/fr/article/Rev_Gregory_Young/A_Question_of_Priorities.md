@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Révérend Gregory Young<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : Service créatif</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Ascendancy_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">L'Ascendance de la Cinquième Révélation d'Époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -31,3 +55,28 @@ Mark rentrait de l'école un jour lorsqu'il remarqua que le garçon devant lui a
 
 Il est intéressant que Jésus ait placé un enfant parmi eux pour aider ses disciples à modifier leurs priorités. Jésus savait que ce sont souvent les enfants qui nous rappellent que nos priorités sont toutes déséquilibrées. Et notre amour pour nos enfants peut nous aider à nous motiver pour remettre notre vie sur le bon chemin. Considérez un article paru récemment dans le magazine _People_ à propos d'un homme qui a retrouvé sa concentration grâce à son amour pour sa fille. Les chercheurs rapportent que parmi les rares personnes qui perdent une quantité substantielle de poids, la plupart reprennent du poids en quelques années. Il semble si difficile de trouver la motivation nécessaire pour perdre du poids et le maintenir. Mais Randy Leamer n’a pas eu de problème de motivation. Il savait que s'il ne perdait pas de poids, sa petite fille risquait de mourir. À seulement dix-huit mois, Meagan Leamer a reçu un diagnostic de grave maladie rénale. Quel que soit le traitement que les médecins lui ont administré, l’état de son enfant ne faisait qu’empirer. À l’âge de cinq ans, Meagan avait désespérément besoin d’une greffe de rein. Les parents de Meagen, Randy et Genie Leamer, étaient plus que disposés à faire don d'un organe à leur fille, et tous deux se sont révélés être de bons partenaires. Mais la famille de Genie avait une longue histoire de problèmes rénaux et d'hypertension artérielle, donc un don d'organes serait risqué de sa part. Cela laissait le père de Meagan, Randy, comme seul donneur possible. Il n'y avait qu'un seul problème; Randy Leamer pesait plus de 300 livres. Les médecins craignaient que, dans l'état de Randy, il ne survivrait pas à l'opération chirurgicale visant à prélever son rein. Randy a donc décidé de perdre plus de $100 lbs. in order to prepare for his daughter's surgery. He began exercising and eating a low-fat diet. Friends at work cheered him on and even brought in their old clothes for Randy when his clothes became too big for him. Within eight months, Randy Leaner had dropped to $194 livres. L'opération rénale de Meagan a eu lieu le 12 décembre 1997. Randy et Meagen se sont complètement remis de l'opération. En raison de son amour pour sa fille, Randy Leamer a pris une mesure nécessaire qui, à long terme, pourrait lui donner une vie plus longue. Nous voulons tous être le meilleur possible. Nous avons peut-être tous le sentiment que traverser la vie est un peu comme un acte de jonglerie. C'est une condition donnée, et nous pouvons vivre avec cela. Mais n’oubliez pas que certaines des balles avec lesquelles nous jonglons sont en caoutchouc et d’autres en verre précieux. Que Dieu donne à chacun de nous la sagesse et la foi nécessaires pour fixer des priorités qui ont une valeur spirituelle durable.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_15">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui : Service créatif</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Ascendancy_of_Fifth_Epochal_Revelation">
+          <span class="pr-2">L'Ascendance de la Cinquième Révélation d'Époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

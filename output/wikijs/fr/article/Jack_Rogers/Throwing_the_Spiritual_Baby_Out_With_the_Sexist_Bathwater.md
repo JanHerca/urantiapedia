@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Jack Rogers<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Tuning_the_Inner_and_Outer_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Régler la vie intérieure et extérieure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/A_Teacher_Sent_From_God">
+          <span class="pr-2">Un enseignant envoyé de Dieu »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **MUSIQUE DANS LE CULTE**
@@ -45,5 +69,30 @@ Mais la croissance évolutive se produit généralement lentement dans l’Égli
 
 En effet, une grande vérité réside dans les hymnes des générations précédentes. Ne perdons pas leur message dans notre empressement à adopter de nouvelles tendances. Il faut faire attention à ne pas jeter le bébé spirituel avec l’eau du bain sexiste !
 
-> La religion de Jésus est l’influence la plus dynamique qui ait jamais stimulé la race humaine. Jésus a mis en pièces les traditions, détruit les dogmes et appelé l’humanité à réaliser ses plus hauts idéaux dans le temps et dans l’éternité — être parfaite comme le Père qui est aux cieux est parfait. ([LU 99:5.3](/fr/The_Urantia_Book/99#p5_3))
+> La religion de Jésus est l’influence la plus dynamique qui ait jamais stimulé la race humaine. Jésus a mis en pièces les traditions, détruit les dogmes et appelé l’humanité à réaliser ses plus hauts idéaux dans le temps et dans l’éternité — être parfaite comme le Père qui est aux cieux est parfait. (<a id="a71_303"></a>[LU 99:5.3](/fr/The_Urantia_Book/99#p5_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Tuning_the_Inner_and_Outer_Life">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Régler la vie intérieure et extérieure</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/A_Teacher_Sent_From_God">
+          <span class="pr-2">Un enseignant envoyé de Dieu »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,11 +9,35 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Janet Farrington<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="pr-2">Un nouveau départ pour l'unité religieuse mondiale (partie II)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Introduction éditoriale
 
-_Pour la plupart d'entre nous qui avons grandi dans la civilisation occidentale, même si nous étions des membres d'église actifs et bien informés, la découverte du _Le Livre d'Urantia_ a ouvert une perspective nouvelle et passionnante de la Réalité. En plus de la centralité de la Trinité, le Livre d'Urantia décrit les Absolus de potentialité et un aspect évolutif de la Déité, appelé Dieu le Suprême. Le Suprême grandit à mesure que les personnalités des univers en évolution atteignent la ressemblance avec Dieu. Cette factualisation en développement de la Déité est très proche des concepts de Déité dans les écrits de Jung, Teilhard de Chardin et Whitehead. Le Suprême est cet aspect évolutif de la Divinité dans lequel nous « vivons, bougeons et avons notre être ». Dieu le Suprême est le ventre cosmique dans lequel grandit le potentiel fini, l’Univers Mère de la création finie en évolution. Le Suprême est le royaume de l'actuel et du potentiel : « La grande lutte de cet âge de l'univers se situe entre le potentiel et l'actuel – la recherche de l'actualisation par tout ce qui est encore inexprimé. »_ ([LU 117:4.11](/fr/The_Urantia_Book/117#p4_11))
+_Pour la plupart d'entre nous qui avons grandi dans la civilisation occidentale, même si nous étions des membres d'église actifs et bien informés, la découverte du _Le Livre d'Urantia_ a ouvert une perspective nouvelle et passionnante de la Réalité. En plus de la centralité de la Trinité, le Livre d'Urantia décrit les Absolus de potentialité et un aspect évolutif de la Déité, appelé Dieu le Suprême. Le Suprême grandit à mesure que les personnalités des univers en évolution atteignent la ressemblance avec Dieu. Cette factualisation en développement de la Déité est très proche des concepts de Déité dans les écrits de Jung, Teilhard de Chardin et Whitehead. Le Suprême est cet aspect évolutif de la Divinité dans lequel nous « vivons, bougeons et avons notre être ». Dieu le Suprême est le ventre cosmique dans lequel grandit le potentiel fini, l’Univers Mère de la création finie en évolution. Le Suprême est le royaume de l'actuel et du potentiel : « La grande lutte de cet âge de l'univers se situe entre le potentiel et l'actuel – la recherche de l'actualisation par tout ce qui est encore inexprimé. »_ (<a id="a39_1114"></a>[LU 117:4.11](/fr/The_Urantia_Book/117#p4_11))
 
 ## Le défi de la parentalité
 
@@ -31,7 +55,7 @@ Les parents humains ont l'entière responsabilité de ce rôle dans la vie de le
 
 Sans cette présence, sans une présence parentale constante et aimante, les enfants de Dieu ne développeront pas leur plein potentiel. Et pour cette raison, la vie de famille constitue le fondement le plus important sur lequel la destinée humaine est atteinte et la réalisation du Suprême par la Déité.
 
-> DANS LA mesure où nous faisons la volonté de Dieu, quel que soit le lieu de l’univers où nous ayons notre existence, le potentiel tout-puissant du Suprême devient d’autant plus actuel. ([LU 117:0.1](/fr/The_Urantia_Book/117#p0_1))
+> DANS LA mesure où nous faisons la volonté de Dieu, quel que soit le lieu de l’univers où nous ayons notre existence, le potentiel tout-puissant du Suprême devient d’autant plus actuel. (<a id="a57_188"></a>[LU 117:0.1](/fr/The_Urantia_Book/117#p0_1))
 
 ## La famille comme microcosme du Suprême
 
@@ -47,7 +71,7 @@ L’enfant réside simultanément au sein du Suprême, au sein de la famille de 
 
 L'enfant représente un potentiel de suprématie presque illimité. L’enfant qui grandit dans l’étreinte aimante d’une famille humaine élargie fait l’expérience de la parenté de l’humanité au cours des années critiques de sa formation. Le service devient une extension naturelle de l’amour pour les autres. L’enfant qui est élevé comme un enfant de Dieu par une famille aimante grandit en sécurité dans une foi expérientielle dans le Père/Maternité de Dieu. La sensibilisation devient une extension naturelle de l'amour de Dieu.
 
-> L’homme peut découvrir le Père dans son cœur, mais il lui faudra rechercher le Suprême dans le cœur de tous les autres hommes ; et quand toutes les créatures révèleront parfaitement l’amour du Suprême, il deviendra alors pour elles une actualité de l’univers. ([LU 117:6.23](/fr/The_Urantia_Book/117#p6_23))
+> L’homme peut découvrir le Père dans son cœur, mais il lui faudra rechercher le Suprême dans le cœur de tous les autres hommes ; et quand toutes les créatures révèleront parfaitement l’amour du Suprême, il deviendra alors pour elles une actualité de l’univers. (<a id="a73_263"></a>[LU 117:6.23](/fr/The_Urantia_Book/117#p6_23))
 
 ## Une philosophie de la famille
 
@@ -55,7 +79,7 @@ De nombreuses personnes dans notre société ont souligné la nécessité d’un
 
 Nous avons besoin que les aînés s’assoient à genoux avec des enfants attentifs et partagent des histoires pleines de sagesse et d’amour. Nous avons besoin de mentors pour accompagner les adolescents alors qu’ils se préparent à entrer dans le monde des adultes en définissant des valeurs et en découvrant des objectifs. Nous avons besoin d’amis pour soutenir les parents en cas de besoin, pour leur offrir soutien et subsistance alors que nous nous efforçons tous d’élever nos enfants avec gentillesse et amour. Nous avons besoin de sentir la présence de chacun ; pour toucher l'esprit intérieur de chacun.
 
-> Le Suprême est la beauté de l’harmonie physique, la vérité de la signification intellectuelle et la bonté de la valeur spirituelle. Il est la douceur du véritable succès et la joie de l’accomplissement perpétuel. ([LU 117:1.1](/fr/The_Urantia_Book/117#p1_1))
+> Le Suprême est la beauté de l’harmonie physique, la vérité de la signification intellectuelle et la bonté de la valeur spirituelle. Il est la douceur du véritable succès et la joie de l’accomplissement perpétuel. (<a id="a81_216"></a>[LU 117:1.1](/fr/The_Urantia_Book/117#p1_1))
 
 Une philosophie globale de la famille reconnaîtrait les réalités séparées, simultanées et suprêmes de la vie familiale. Nous appartenons chacun à une famille originelle, une famille primaire, une famille élargie, une famille mondiale et une famille divine. Chaque nouvelle expression de la famille s’appuie sur toutes les expressions précédentes et englobe tout ce qu’un enfant de Dieu a découvert sur les relations amoureuses.
 
@@ -69,13 +93,13 @@ Le pardon est la monnaie de l’évolution. Sans pardon, nos relations les uns a
 
 Nous devons pardonner les erreurs de nos parents, tout comme nous espérons être pardonnés par nos enfants. Cela ne veut pas dire oublier. Cela ne veut pas dire ignorer. Nous ne pouvons espérer progresser sans comprendre les forces qui nous ont amenés au carrefour de nos vies de parents et d’enfants. Dans ces moments où nous ressentons le besoin de répéter les erreurs que nous avons subies dans notre enfance, nous devons pardonner à nos parents, à nous-mêmes, à nos enfants. Et dans ce moment de pardon, le Suprême évolue, la famille évolue et la parenté de l’humanité progresse d’un cran au-delà de ce qu’elle était un instant auparavant. Dans ce moment de pardon, la réalité de Dieu se reflète dans la vie d’un enfant humain.
 
-Nous devons pardonner les erreurs de nos frères et sœurs, tout comme nous espérons être pardonnés par eux. Cela ne veut pas dire que nous devons ignorer le mal. Cela ne veut pas dire que nous devons ignorer l’injustice. Nous ne pouvons espérer progresser sans un examen judicieux des décisions et des actions qui façonnent notre monde, et nous ne pouvons espérer progresser sans une réponse douce. L’envie de critiquer les autres est souvent plus forte que le désir de pardonner et d’encourager la résolution ; Pourtant, un conflit continu ne fait pas grand-chose pour faire évoluer le Suprême. Le manque de pardon et de résolution retarde l’évolution tout autant que les formes les plus évidentes du mal et de l’injustice : « Les fruits de l’esprit sont la substance du Suprême tel qu’il est réalisable dans l’expérience humaine. » ([LU 117:6.17](/fr/The_Urantia_Book/117#p6_17))
+Nous devons pardonner les erreurs de nos frères et sœurs, tout comme nous espérons être pardonnés par eux. Cela ne veut pas dire que nous devons ignorer le mal. Cela ne veut pas dire que nous devons ignorer l’injustice. Nous ne pouvons espérer progresser sans un examen judicieux des décisions et des actions qui façonnent notre monde, et nous ne pouvons espérer progresser sans une réponse douce. L’envie de critiquer les autres est souvent plus forte que le désir de pardonner et d’encourager la résolution ; Pourtant, un conflit continu ne fait pas grand-chose pour faire évoluer le Suprême. Le manque de pardon et de résolution retarde l’évolution tout autant que les formes les plus évidentes du mal et de l’injustice : « Les fruits de l’esprit sont la substance du Suprême tel qu’il est réalisable dans l’expérience humaine. » (<a id="a95_834"></a>[LU 117:6.17](/fr/The_Urantia_Book/117#p6_17))
 
 Le Suprême n'évolue pas en fonction du succès, du pouvoir, du prestige ou de la position acquis par un individu. Le Suprême évolue à la suite des relations amoureuses actualisées entre les individus. Et ces relations dépendent du pardon, du tact, de la tolérance, de l’encouragement et de la gentillesse. Il n’y a pas de limite au pouvoir de l’amour ; si elle motive tous les comportements, elle peut supporter toutes les réponses. Cela est particulièrement vrai dans la famille. Il n’y a pas de meilleure façon d’enseigner le respect aux enfants que de les traiter avec respect. Il n’y a pas de meilleure façon de révéler l’existence de Dieu que de refléter son amour.
 
 Si le pardon est la monnaie de l’évolution, alors la famille est la banque du Suprême. L’intérêt accumulé grâce au pardon et à l’amour dans la famille croît de façon exponentielle tout au long de l’éternité. Les enfants à qui on pardonne leurs fautes dans leur famille d'origine apprennent à pardonner à leurs propres enfants dans leur famille primaire. Les personnes à qui on pardonne leurs erreurs au sein de la famille élargie apprennent à pardonner à tous leurs frères et sœurs de la famille mondiale. Ces investissements humains ont une valeur spirituelle. Ce sont les dividendes qui font évoluer le Suprême.
 
-> Quand vous trouverez le Père, vous découvrirez la grande cause de votre ascension spirituelle dans les univers. Quand vous trouverez le Suprême, vous découvrirez le grand résultat de votre carrière de progression vers le Paradis. ([LU 117:6.26](/fr/The_Urantia_Book/117#p6_26))
+> Quand vous trouverez le Père, vous découvrirez la grande cause de votre ascension spirituelle dans les univers. Quand vous trouverez le Suprême, vous découvrirez le grand résultat de votre carrière de progression vers le Paradis. (<a id="a101_233"></a>[LU 117:6.26](/fr/The_Urantia_Book/117#p6_26))
 
 Le Père est la cause, le Suprême est le résultat. Je crois que la famille est le chemin : Le chemin pour intégrer les valeurs spirituelles au progrès social ; la manière d'initier la paternité/maternité et d'investir dans la fraternité ; la manière de réaliser la valeur cosmique de l’expérience finie en tant qu’enfant de Dieu dans la famille de l’humanité. La famille peut offrir un refuge sûr, une étreinte aimante, un endroit vers lequel se tourner lorsque la vie devient difficile.
 
@@ -84,3 +108,28 @@ La famille des lecteurs du Livre d'Urantia est une famille élargie inspirée pa
 > _Janel Farrington, une étudiante de longue date du _Livre d'Urantia_, est vice-présidente de la Communauté pour les lecteurs du _Livre d'Urantia_. Elle est médiatrice familiale et dispense également des formations en gestion auprès d'organisations commerciales et scolaires._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd'hui</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/A_New_Beginning_for_World_Unity_Part_II">
+          <span class="pr-2">Un nouveau départ pour l'unité religieuse mondiale (partie II)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Révérend Gregory Young<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation et patience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="pr-2">L'amour insondable de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 C'était une belle journée d'été et Clarence aimait ramer le bateau avec sa charmante petite amie, anticipant le pique-nique qu'ils auraient en arrivant sur l'île au centre du lac. C’était l’époque où les jeunes hommes et les jeunes femmes portaient plus que des shorts et des t-shirts en public.
@@ -39,3 +63,28 @@ Une chose remarquable est arrivée à Byrun Janus. En sept mois, il a appris à 
 
 Grâce à la vie et à la créativité de Byrun Janus, nous avons une vision de ce que l’esprit humain peut accomplir lorsqu’il est renforcé par les ressources spirituelles mises à notre disposition par notre Père céleste. Le grand psychologue Eric Fromm a déploré un jour que de nombreux êtres humains soient morts avant d’être pleinement nés. Il existe une meilleure façon de prier pour que nous soyons ouverts et réceptifs à cette orientation et à cette transformation spirituelles.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Révélation et patience</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Gods_Unfathomable_Love">
+          <span class="pr-2">L'amour insondable de Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

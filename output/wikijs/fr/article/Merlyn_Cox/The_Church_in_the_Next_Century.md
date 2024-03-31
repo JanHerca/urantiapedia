@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Merlyn Cox<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Métamorphose de l'Église</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="pr-2">Le Livre d'Urantia : Vers un contexte pour l'évaluation théologique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Alors que nous approchons du début d’un autre siècle – ainsi que du prochain millénaire – de nombreuses confessions tentent de prévoir les changements qui pourraient survenir. Beaucoup recherchent une nouvelle direction, une nouvelle vision qui contribuera à rajeunir l’Église.
@@ -27,3 +51,28 @@ Je suis cependant convaincu que cette stagnation et ce malaise finiront par céd
 
 Une telle vision habilitante est maintenant disponible dans le _Le Livre d'Urantia_, et je ne peux m'empêcher de croire qu'au cours des prochaines générations, son levain fera de plus en plus son chemin dans la vie et la pensée de plus en plus de personnes, fournissant la base d'une véritable vision. nouveau monde et univers – compréhension.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Métamorphose de l'Église</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/UB_Toward_a_Context_for_Theological_Evaluation">
+          <span class="pr-2">Le Livre d'Urantia : Vers un contexte pour l'évaluation théologique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

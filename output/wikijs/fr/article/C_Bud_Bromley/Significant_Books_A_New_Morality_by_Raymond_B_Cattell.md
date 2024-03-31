@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Bud Bromley<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre le mal dans l'expérience humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JJ_Johnson/Sharing_the_Revelation">
+          <span class="pr-2">Partager la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Raymond B. Cattell
@@ -38,8 +62,33 @@ Le reste du livre cite plusieurs exemples de recherches qui semblent avoir des i
 
 Les étudiants du _Le Livre d'Urantia_ devraient être particulièrement intéressés par ce que le Dr Cattell a à dire, car le _Le Livre d'Urantia_, tout en donnant de hautes idées spirituelles, évite soigneusement de nous dire quelle morale spécifique nous devrions développer. [^1] « Jésus rendrait tous les hommes semblables à Dieu et resterait ensuite avec sympathie pendant que ces fils de Dieu résoudraient leurs propres problèmes politiques, sociaux et économiques. » (Pg. 1581) « Jésus n'a proposé aucune règle pour le progrès social… » (Pg. 2083) Mais c'est précisément la lacune à laquelle le Dr Cattell propose que nous devrions combler nous-mêmes par les méthodes de la science. Son livre est une lecture profondément stimulante pour tous ceux qui se demandent : « Que dois-je faire ? »
 
-> « _Ne vous y trompez pas ! Il y a, dans les enseignements de Jésus, une nature éternelle qui ne leur permettra pas de rester indéfiniment stériles dans le cœur des hommes réfléchis. Le royaume tel que Jésus le concevait a échoué dans une grande mesure sur terre ; pour l’instant, une Église extérieure a pris sa place ; mais vous devriez comprendre que cette Église est seulement l’état larvaire du royaume spirituel contrecarré ; ... Le royaume de la fraternité divine est toujours vivant ; il est sûr de sortir finalement et certainement de sa longue submersion, tout aussi surement que le papillon finit par émerger en tant que magnifique développement de sa chrysalide métamorphique moins attrayante._ » ([LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
+> « _Ne vous y trompez pas ! Il y a, dans les enseignements de Jésus, une nature éternelle qui ne leur permettra pas de rester indéfiniment stériles dans le cœur des hommes réfléchis. Le royaume tel que Jésus le concevait a échoué dans une grande mesure sur terre ; pour l’instant, une Église extérieure a pris sa place ; mais vous devriez comprendre que cette Église est seulement l’état larvaire du royaume spirituel contrecarré ; ... Le royaume de la fraternité divine est toujours vivant ; il est sûr de sortir finalement et certainement de sa longue submersion, tout aussi surement que le papillon finit par émerger en tant que magnifique développement de sa chrysalide métamorphique moins attrayante._ » (<a id="a64_711"></a>[LU 170:5.21](/fr/The_Urantia_Book/170#p5_21))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Understanding_Evil_in_Human_Experience">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comprendre le mal dans l'expérience humaine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/JJ_Johnson/Sharing_the_Revelation">
+          <span class="pr-2">Partager la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

@@ -91,9 +91,9 @@ L’hypothèse de l’origine catastrophique/la théorie d’Angona a peut-être
 
 *L'importance d'être Jupiter*, Science News.
 
-[^1]: [LU 41:10.1](/fr/The_Urantia_Book/41#p10_1)
+[^1]: <a id="a93_6"></a>[LU 41:10.1](/fr/The_Urantia_Book/41#p10_1)
 
-[^2]: [LU 57:5.4-14](/fr/The_Urantia_Book/57#p5_4)
+[^2]: <a id="a95_6"></a>[LU 57:5.4-14](/fr/The_Urantia_Book/57#p5_4)
 
 [^3]: La « théorie planétésimale de Chamberlin-Moulton » est une théorie *catastrophique*. Ces théories étaient basées sur l'idée principale selon laquelle le système solaire a été formé soit par la collision de deux étoiles, soit par l'approche du Soleil vers une autre étoile, par opposition aux théories *évolutives*, dans lesquelles le système solaire se forme indépendamment sans l'intervention de toute autre star. Bien que la théorie soit considérée comme catastrophique pour postuler une origine due en partie à une autre étoile, elle est dite « planétésimale » car elle postulait qu'une fois l'influence de l'autre étoile perdue, les planètes se formaient par accrétion de petits objets appelés « planétésimaux ». Cette partie de la théorie, contrairement aux autres, continue d’être considérée comme valable par la communauté scientifique actuelle. La théorie a été considérée favorablement pendant près d'un tiers de siècle, mais est tombée en disgrâce à la fin des années 1930, pour finalement être rejetée dans les années 1940 comme incompatible avec le moment cinétique de Jupiter. https://en.wikipedia.org/wiki/Chamberlin-Moulton_planetesimal_hypothesis
 
@@ -107,7 +107,7 @@ L’hypothèse de l’origine catastrophique/la théorie d’Angona a peut-être
 
 [^8]: Pour une liste complète de toutes les théories qui ont traité de l'origine du système solaire, voir : https://en.wikipedia.org/wiki/History_of_Solar_System_formation_and_evolution_hypotheses
 
-[^9]: [LU 41:10.2](/fr/The_Urantia_Book/41#p10_2)
+[^9]: <a id="a109_6"></a>[LU 41:10.2](/fr/The_Urantia_Book/41#p10_2)
 
 [^10]: Encyclopédie Britannica Macropedia, 1993
 
@@ -115,9 +115,9 @@ L’hypothèse de l’origine catastrophique/la théorie d’Angona a peut-être
 
 [^12]: La théorie de Laplace sur la formation du système solaire est connue sous le nom de théorie *nébulaire*, et c'est une théorie *évolutive* : https://en.wikipedia.org/wiki/Nebular_hypothesis
 
-[^13]: [LU 15:5.3](/fr/The_Urantia_Book/15#p5_3)
+[^13]: <a id="a117_7"></a>[LU 15:5.3](/fr/The_Urantia_Book/15#p5_3)
 
-[^14]: [LU 57:5.14](/fr/The_Urantia_Book/57#p5_14)
+[^14]: <a id="a119_7"></a>[LU 57:5.14](/fr/The_Urantia_Book/57#p5_14)
 
 [^15]: Une unité astronomique est la distance moyenne entre la Terre et le Soleil, 149 597 870,7 km. https://en.wikipedia.org/wiki/Astronomical_unit
 

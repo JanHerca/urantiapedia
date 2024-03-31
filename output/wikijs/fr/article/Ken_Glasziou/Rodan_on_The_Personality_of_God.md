@@ -23,9 +23,9 @@ dateCreated: 2022-9-9T8:13:39Z
 > 
 > 5. Dieu doit être une personnalité puisqu’il est le Créateur de toute personnalité et la destinée de toute personnalité. L’enseignement de Jésus : « Soyez donc parfaits, comme votre Père qui est aux cieux est parfait » avait prodigieusement influencé Rodan.
 > 
-> Après avoir entendu ces arguments, Rodan dit : « Je suis convaincu. Je professerai que Dieu est une personne si, en professant cette croyance, vous me permettez de nuancer ma profession d’une telle croyance en attachant au sens de personnalité un ensemble de valeurs plus larges, telles que suprahumaine, transcendante, suprême, infinie, éternelle, finale et universelle. Je suis désormais convaincu que Dieu doit être infiniment plus qu’une personnalité, mais qu’il ne peut rien être de moins. Je suis d’accord pour mettre fin à la discussion et pour accepter Jésus en tant que révélation personnelle du Père ; et en tant que celui qui comble toutes les lacunes de la logique, de la raison et de la philosophie. » ([LU 161:1.5-11](/fr/The_Urantia_Book/161#p1_5))
+> Après avoir entendu ces arguments, Rodan dit : « Je suis convaincu. Je professerai que Dieu est une personne si, en professant cette croyance, vous me permettez de nuancer ma profession d’une telle croyance en attachant au sens de personnalité un ensemble de valeurs plus larges, telles que suprahumaine, transcendante, suprême, infinie, éternelle, finale et universelle. Je suis désormais convaincu que Dieu doit être infiniment plus qu’une personnalité, mais qu’il ne peut rien être de moins. Je suis d’accord pour mettre fin à la discussion et pour accepter Jésus en tant que révélation personnelle du Père ; et en tant que celui qui comble toutes les lacunes de la logique, de la raison et de la philosophie. » (<a id="a25_718"></a>[LU 161:1.5-11](/fr/The_Urantia_Book/161#p1_5))
 
-> Seuls peuvent acquérir une personnalité stable ceux qui ont découvert et embrassé le Dieu vivant et l’ont pris pour but d’accomplissement infini. ([LU 160:1.14](/fr/The_Urantia_Book/160#p1_14))
+> Seuls peuvent acquérir une personnalité stable ceux qui ont découvert et embrassé le Dieu vivant et l’ont pris pour but d’accomplissement infini. (<a id="a27_149"></a>[LU 160:1.14](/fr/The_Urantia_Book/160#p1_14))
 
 ## Liens externes
 

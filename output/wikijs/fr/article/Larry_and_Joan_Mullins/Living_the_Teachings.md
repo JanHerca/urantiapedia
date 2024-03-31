@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Larry Mullins<br>© 2005 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Joy_At_Work">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : La joie au travail</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="pr-2">Pionniers du Nouvel Âge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Bonne soirée. Prenons un moment pour remercier Jésus d'être avec nous ce soir. Sentons sa présence et demandons sa grâce.
@@ -165,6 +189,31 @@ Fermons les yeux un instant et méditons sur la paix de Jésus. (méditation de 
 
 > _Larry et Joan Mullins vivent à Boulder, Colorado, où ils dirigent > des groupes « Vivre les enseignements » depuis de nombreuses années._
 > 
-> _Larry a été rédacteur en chef du _The Spiritual Fellowship Journal_ de 2002 à 2003._
+> _Larry a été rédacteur en chef du _Journal de la Fraternité Spirituelle_ de 2002 à 2003._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Joy_At_Work">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : La joie au travail</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Pioneers_in_the_New_Age">
+          <span class="pr-2">Pionniers du Nouvel Âge</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

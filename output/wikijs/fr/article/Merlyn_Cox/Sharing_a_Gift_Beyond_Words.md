@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Merlyn Cox<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Église et le Royaume</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion">
+          <span class="pr-2">La Seconde Lumière : libéralisme et religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***_Le Livre d'Urantia_ et le renouveau spirituel***
@@ -33,3 +57,28 @@ Alors, comment réagir face à une telle découverte ? J'avais prié et juré de
 
 Pour moi, le simple fait de l’accepter était le premier acte de remerciement et d’engagement. Les grandes déclarations et les gestes humains en réponse à un cadeau aussi étonnant semblaient en quelque sorte prétentieux et déplacés. Au-delà de cela, bien sûr, il y a le désir de vivre une vie digne de l’appel et de la destination magnifiques révélés dans cette révélation. Et enfin il y a l’envie de le partager avec les autres. Peu de choses pourraient être aussi satisfaisantes que de le partager avec ma famille, mes amis et ceux que j'aime. En même temps, je me suis demandé un jour si je pourrais le partager avec quelqu'un. J’étais bien conscient des soupçons et des hypothèses que notre époque laïque et nos religions liées à la tradition ont engendrées. J'ai décidé que je continuerais simplement à rendre grâce, à devenir un étudiant assidu et, lorsque l'occasion se présenterait, à chercher à partager cela avec les autres de la même manière que Philippe l'a fait avec Nathaniel concernant sa croyance en Jésus - en les invitant à venir voir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/The_Church_and_the_Kingdom">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'Église et le Royaume</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bill_Grandstaff/The_Second_Enlightenment_Liberalism_and_Religion">
+          <span class="pr-2">La Seconde Lumière : libéralisme et religion</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

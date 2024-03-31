@@ -57,9 +57,9 @@ Meredith Sprunger est de loin notre observatrice la plus qualifiée dans ce doma
 
 Penser même que les révélateurs ignoraient que tel serait le cas, c’est jeter des calomnies indiquant la naïveté de leur part. Pourtant, les articles ne laissent aucun doute sur le fait que leur contenu est destiné à améliorer toute la religion ! Nous sommes censés trouver un moyen.
 
-> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. » (<a id="a59_341"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
-> « « Le royaume de Dieu est en vous. » C’est probablement la plus grande proclamation que Jésus ait jamais faite, après la déclaration que son Père est un esprit vivant et aimant. » ([LU 195:10.4](/fr/The_Urantia_Book/195#p10_4))
+> « « Le royaume de Dieu est en vous. » C’est probablement la plus grande proclamation que Jésus ait jamais faite, après la déclaration que son Père est un esprit vivant et aimant. » (<a id="a61_184"></a>[LU 195:10.4](/fr/The_Urantia_Book/195#p10_4))
 
 Dans cette section, il nous est demandé de prendre le message des Fascicules et de le présenter d'une manière acceptable à toutes sortes d'hommes.
 

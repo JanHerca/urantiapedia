@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume10_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Is_it_Time_for_New_Religious_Organizations">
+          <span class="pr-2">Est-il temps de créer de nouvelles organisations religieuses ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La vision élargie du Livre d'Urantia sur la Déité et la Réalité, son image nouvelle et inspirante de la cosmologie spirituelle et la présentation élargie de la vie et des enseignements de Jésus, seront un jour un facteur majeur dans la transformation de notre monde.
@@ -18,7 +42,7 @@ Comment et quand cela aura-t-il lieu ? Le mouvement Urantia regorge de toutes so
 
 Alors que nous examinons l’état actuel de la Cinquième Révélation d’Époque, nous rencontrons de nombreuses ambiguïtés. Les Médians Unis, en présentant la vie et les enseignements de Jésus, tentent évidemment d'inspirer une transformation du christianisme et, secondairement, des autres religions du monde. Après presque cinquante ans d'exposition, la structure du pouvoir du christianisme ne montre que peu ou pas d'intérêt pour le _Livre d'Urantia_. Si je me souviens bien, le Dr Sadler a dit qu'on leur avait dit que pendant les cent premières années, les Cahiers d'Urantia seraient sous la supervision des anges des églises. Il sera intéressant d’observer tout changement dans l’intérêt des dirigeants chrétiens au cours des cinquante prochaines années.
 
-Le Dr Sadler et moi avions l'habitude de discuter du type d'organisations religieuses qui répondraient aux critères énumérés par le Brilliant Evening Star sur [LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6). Le Dr Sadler a avancé l’idée que l’origine mystérieuse de la Cinquième Révélation d’Époque et son tableau avancé de la croissance spirituelle fourniraient le « mystère magistral » et les aspects « dignes et inaccessibles » d’une telle institution religieuse. Il a jeté les bases du développement de telles organisations religieuses en précisant la formation des enseignants ordonnés dans la constitution des Frères musulmans. Mais les premiers membres des Frères musulmans, motivés par une aversion envers la religion institutionnelle, ont rapidement éliminé le mot « ordonné » de la constitution.
+Le Dr Sadler et moi avions l'habitude de discuter du type d'organisations religieuses qui répondraient aux critères énumérés par le Brilliant Evening Star sur <a id="a44_159"></a>[LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6). Le Dr Sadler a avancé l’idée que l’origine mystérieuse de la Cinquième Révélation d’Époque et son tableau avancé de la croissance spirituelle fourniraient le « mystère magistral » et les aspects « dignes et inaccessibles » d’une telle institution religieuse. Il a jeté les bases du développement de telles organisations religieuses en précisant la formation des enseignants ordonnés dans la constitution des Frères musulmans. Mais les premiers membres des Frères musulmans, motivés par une aversion envers la religion institutionnelle, ont rapidement éliminé le mot « ordonné » de la constitution.
 
 Les organisations éducatives et sociales du mouvement Urantia ont largement perdu leur leadership créatif et leur mission dynamique de sensibilisation dans des conflits internes compétitifs et la Fondation Urantia est toujours enlisée dans des poursuites judiciaires. Il semble y avoir un sentiment de stagnation dans le mouvement Urantia, alors qu’en même temps, il y a une recherche sans précédent de pertinence spirituelle dans notre société.
 
@@ -26,5 +50,30 @@ Les institutions religieuses sont les organisations sociales centrales nécessai
 
 Bien que nous soyons aux balbutiements du mouvement Urantia et que nous ayons perdu une partie de l'enthousiasme et de l'optimisme des membres du Forum lorsque le _Livre d'Urantia_ a été publié, je suis convaincu que la Cinquième Révélation d'Époque sera finalement une inspiration majeure dans la transformation de notre planète. ce sera probablement long et détourné
 
-> _Le mal de l’Église ne fut pas son existence, mais plutôt le fait qu’elle supplanta presque complètement le concept du royaume présenté par Jésus._ ([LU 170:5.7](/fr/The_Urantia_Book/170#p5_7))
+> _Le mal de l’Église ne fut pas son existence, mais plutôt le fait qu’elle supplanta presque complètement le concept du royaume présenté par Jésus._ (<a id="a52_151"></a>[LU 170:5.7](/fr/The_Urantia_Book/170#p5_7))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume10_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Is_it_Time_for_New_Religious_Organizations">
+          <span class="pr-2">Est-il temps de créer de nouvelles organisations religieuses ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -33,7 +33,7 @@ Dans ses 2097 pages, Le Livre d'Urantia nous encourage à faire de Dieu notre pr
 
 Le progrès de l’ensemble dépend du progrès de la partie. Urantia dépend du progrès de l’individu pour atteindre un jour le statut de perfection. Nous appartenons à un univers dans lequel nous sommes responsables. Notre contribution à l’évolution de cette planète est vitale. Le progrès a à voir avec le développement de notre potentiel personnel dans nos relations avec les autres à travers des attitudes de foi d'amour, de confiance et de miséricorde. Le livre nous dit :
 
-> La personnalité agit difficilement dans l’isolement. L’homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d’appartenance. Il est littéralement vrai « qu’aucun homme ne vit pour lui-même ». ([LU 112:1.16](/fr/The_Urantia_Book/112#p1_16))
+> La personnalité agit difficilement dans l’isolement. L’homme est, par naissance, une créature sociable ; il est dominé par un désir ardent d’appartenance. Il est littéralement vrai « qu’aucun homme ne vit pour lui-même ». (<a id="a35_225"></a>[LU 112:1.16](/fr/The_Urantia_Book/112#p1_16))
 
 De tous les besoins humains, aucun n'est plus impérieux que ce besoin d'**appartenance**. Car c'est dans l'appartenance que nous saisissons notre propre réalité et validons notre sentiment de valeur. Tout développement de la personnalité dépend d'un sentiment d'appartenance, d'un sentiment d'identité de soi par rapport aux autres, de la partie par rapport au tout. Les Cahiers d'Urantia sont très spécifiques sur notre identité en tant que citoyens cosmiques dans un univers aimant et amical.
 
@@ -53,7 +53,7 @@ Sans de nouvelles informations sur notre histoire, notre destin et l’aide invi
 
 Il n'existe aucune autorité humaine, religieuse ou autre, par laquelle la vérité des enseignements du _Livre d'Urantia_ peut être validée. Aucune voix faisant autorité n'existe pour garantir au nouveau lecteur la fiabilité de ses informations. Par conséquent, c’est le lecteur individuel qui doit résoudre ce problème et finalement prendre une décision : soit adhérer à ses enseignements, soit les ignorer ou les rejeter. Pour beaucoup, les vérités contenues dans le livre touchent une corde sensible et personnelle de vérité qui s’auto-authentifie. Pour d’autres, une voix intérieure leur fait signe : « c’est la voie ». En fin de compte, placer notre entière confiance en cette voix intérieure est la leçon la plus importante de notre vie spirituelle. Et c’est l’essence même de l’expérience religieuse personnelle.
 
-> En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. Il est futile de parler d’une renaissance du christianisme primitif ; il faut avancer en partant du point où l’on se trouve. ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> En vérité, le christianisme a rendu un grand service à ce monde, mais maintenant, ce dont le monde a le plus besoin, c’est de Jésus. Le monde a besoin de voir Jésus vivre de nouveau sur terre dans l’expérience des mortels nés d’esprit qui révèlent effectivement le Maitre à tous les hommes. Il est futile de parler d’une renaissance du christianisme primitif ; il faut avancer en partant du point où l’on se trouve. (<a id="a55_419"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 ## Liens externes
 

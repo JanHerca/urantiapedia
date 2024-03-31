@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Jay Newbern<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mythologie du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="pr-2">Révélation et patience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > « Dieu est Un et aime l'unité. » (Hadith, Est-)
@@ -67,13 +91,38 @@ Notre civilisation et ses cultures mondiales sont menacées, ainsi que les bases
 
 Ce qui semble impossible aux mortels est, bien sûr, possible à Dieu. Il nous envoie sa Parole de Vérité pour nous encourager dans notre grand combat. Deux exemples suivent, l’un tiré de la révélation divine, l’autre tiré des écritures sacrées islamiques :
 
-> « Les religions de désespoir pessimiste cherchent à se libérer des fardeaux de la vie ; elles souhaitent ardemment l’anéantissement dans un sommeil et un repos sans fin. Ce sont les religions de la peur et de la crainte primitives. La religion de Jésus est un nouvel évangile de foi à proclamer à l’humanité qui se débat. Cette religion nouvelle est fondée sur la foi, l’espérance et l’amour. » ([LU 194:3.2](/fr/The_Urantia_Book/194#p3_2))
+> « Les religions de désespoir pessimiste cherchent à se libérer des fardeaux de la vie ; elles souhaitent ardemment l’anéantissement dans un sommeil et un repos sans fin. Ce sont les religions de la peur et de la crainte primitives. La religion de Jésus est un nouvel évangile de foi à proclamer à l’humanité qui se débat. Cette religion nouvelle est fondée sur la foi, l’espérance et l’amour. » (<a id="a93_398"></a>[LU 194:3.2](/fr/The_Urantia_Book/194#p3_2))
 
 > « Tenez-vous tous fermement à la corde de Dieu. Ne vous divisez pas en divisions. Rappelez-vous la grâce de Dieu envers vous, combien vous étiez autrefois ennemis, et il a uni vos cœurs dans des liens mutuels, de sorte que par sa grâce, vous êtes devenus frères. (Coran 3:103)
 
 Amen. (Ainsi soit-il)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/The_Mythology_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mythologie du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steven_R_Johnson/Revelation_and_Patience">
+          <span class="pr-2">Révélation et patience</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

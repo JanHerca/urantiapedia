@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith Sprunger<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Creeping_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fondamentalisme rampant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Science_and_Theology">
+          <span class="pr-2">Science et Théologie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un livre très acclamé, _The Rise of Christianity_, de Rodney Stark (Princeton University Press, 1996) pourrait jeter une certaine lumière sur la croissance du mouvement Urantia. Rodney Stark, qui enseigne à l’Université de Washington, est considéré par de nombreux chercheurs comme la figure la plus importante de la sociologie de la religion d’aujourd’hui. À partir des meilleures données disponibles, le Dr Stark estime que le christianisme a connu une croissance de 40 % par décennie. Le professeur Stark a d'autres observations sur la montée du christianisme, dont certaines réfutent les opinions traditionnelles et peuvent donner un aperçu de la croissance du mouvement Urantia :
@@ -28,3 +52,28 @@ L’un des facteurs potentiellement paralysants du mouvement Urantia réside dan
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Creeping_Fundamentalism">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fondamentalisme rampant</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Science_and_Theology">
+          <span class="pr-2">Science et Théologie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

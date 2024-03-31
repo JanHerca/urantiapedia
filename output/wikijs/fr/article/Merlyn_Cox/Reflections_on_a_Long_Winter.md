@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Merlyn Cox<br>© 2005 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="pr-2">Vers la communion spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En regardant par la fenêtre de mon bureau au mois de mars, je me suis lassé de voir le même brun universel qui caractérise la fin de l'hiver. J'essaie toujours de me consoler à cette époque de l'année avec un compte à rebours avant le printemps, mais cette année, jusqu'au jour désigné et au-delà, le vent froid était implacable et les prévisions à long terme n'ont tout simplement pas bougé - des températures inférieures à la normale. continuait à venir comme un mantra, sans aucune interruption en vue.
@@ -40,3 +64,28 @@ Ce numéro est fortement chargé d'articles concernant la science et le _Livre d
 
 - Ceux qui ont une formation en science ou en analyse statistique ont peut-être remarqué que dans « Challenge: part 1 » de Ken Glasziou, un signe moins a été omis par inadvertance dans la désignation des pouvoirs à la page 12, dans la section « Au-delà de l'espace... »
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume15_no1">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, printemps 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Toward_Spiritual_Fellowship_2">
+          <span class="pr-2">Vers la communion spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

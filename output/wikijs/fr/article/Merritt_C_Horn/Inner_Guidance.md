@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Merritt C. Horn<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_No_Other_Name_By_Paul_F_Knitter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : pas d'autre nom ? Par Paul F. Knitter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Craig_T_McClellan/Arise_Take_Up_Your_Life_and_Walk">
+          <span class="pr-2">« Lève-toi, prends ta vie et marche »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Qui vous l'a dit <br>
@@ -89,3 +113,28 @@ Mon esprit ne change pas, <br>
 
 Extrait de L'Appel de l'Esprit, Copyright © 1984
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_No_Other_Name_By_Paul_F_Knitter">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : pas d'autre nom ? Par Paul F. Knitter</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1991-premier-numéro">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1991 — Premier numéro — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rev_Craig_T_McClellan/Arise_Take_Up_Your_Life_and_Walk">
+          <span class="pr-2">« Lève-toi, prends ta vie et marche »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Stephen Zendt<br>© 2004 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Actualizing_a_New_Organizational_Paradigm">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Actualiser un nouveau paradigme organisationnel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous aimons tous les histoires, sous une forme ou une autre. Notre culture occidentale a proposé de nombreuses formes divertissantes de narration. Les peuples européens, au Moyen Âge, écoutaient les Troubadours, des artistes errants qui apportaient la nouvelle et racontaient des contes accompagnés de musique. Ces ménestrels étaient souvent le seul moyen de communication à une époque de superstition et de guerre rampantes, où chaque fief était un monde en soi et où les déplacements étaient dangereux et limités. Presque personne ne savait ni lire ni écrire, sauf les scribes et ceux des monastères. Le conteur était un élément important de la vie médiévale.
@@ -39,9 +60,9 @@ Nous vivons dans un monde où les changements culturels s’accélèrent. Bon no
 
 Pire encore, nous constatons que les récompenses matérialistes de notre système capitaliste causent de graves dommages environnementaux à notre planète. Nous empoisonnons notre air, notre eau et notre terre. Il semblerait que nous ne puissions pas non plus éviter d’empoisonner notre pensée. Nous lisons, entendons, voyons et, pire encore, nous sommes parfois confrontés au comportement dysfonctionnel et colérique d’individus dont le niveau de maturité est pour le moins enfantin. Nous sommes exposés à des manifestations époustouflantes dans les films, à la télévision, dans les informations et dans les romans : de la rage au volant à l'indignation, de la jalousie à l'hostilité, de l'indifférence à l'intimidation agressive.
 
-Nous savons, grâce à notre lecture du _Livre d'Urantia_, que « l'impatience est un poison spirituel ». ([LU 48:7.20](/fr/The_Urantia_Book/48#p7_20)) Nous savons également que « la peur irraisonnée est une fraude intellectuelle majeure… » ([LU 48:7.4](/fr/The_Urantia_Book/48#p7_4)) et que « la colère est comme une pierre lancée dans un nid de frelons ». ([LU 48:7.20](/fr/The_Urantia_Book/48#p7_20)) Pourtant, nous nous retrouvons presque quotidiennement en proie à ces tourments émotionnels très contradictoires dans la vie urbaine. La tension des relations interpersonnelles est encore plus concentrée, tant sur le lieu de travail que, le plus souvent, à la maison.
+Nous savons, grâce à notre lecture du _Livre d'Urantia_, que « l'impatience est un poison spirituel ». (<a id="a62_104"></a>[LU 48:7.20](/fr/The_Urantia_Book/48#p7_20)) Nous savons également que « la peur irraisonnée est une fraude intellectuelle majeure… » (<a id="a62_239"></a>[LU 48:7.4](/fr/The_Urantia_Book/48#p7_4)) et que « la colère est comme une pierre lancée dans un nid de frelons ». (<a id="a62_356"></a>[LU 48:7.20](/fr/The_Urantia_Book/48#p7_20)) Pourtant, nous nous retrouvons presque quotidiennement en proie à ces tourments émotionnels très contradictoires dans la vie urbaine. La tension des relations interpersonnelles est encore plus concentrée, tant sur le lieu de travail que, le plus souvent, à la maison.
 
-Nos idéaux nous appellent à être charitables, éthiques, gentils et bons. Nous sommes conscients que ce que nous disons et la manière dont nous le disons peuvent apaiser et réconforter, et même donner de la joie à une âme troublée. Cependant, les rencontres instantanées du monde réel nous laissent si souvent regretter la manière dont nous avons traité les autres, la façon dont nous avons ignoré nos impulsions et nos idéaux spirituels. Nous vivons dans une civilisation polluée. Pour moi, la forme la plus pernicieuse de pollution interpersonnelle est le contexte omniprésent du mensonge ou de la fraude. Les individus honnêtes, les gens sincères, les amis authentiques sont de tels trésors que nous devons tout simplement faire tout notre possible pour renforcer et préserver nos relations. « L'amour est le désir de faire du bien aux autres. » ([LU 56:10.21](/fr/The_Urantia_Book/56#p10_21))
+Nos idéaux nous appellent à être charitables, éthiques, gentils et bons. Nous sommes conscients que ce que nous disons et la manière dont nous le disons peuvent apaiser et réconforter, et même donner de la joie à une âme troublée. Cependant, les rencontres instantanées du monde réel nous laissent si souvent regretter la manière dont nous avons traité les autres, la façon dont nous avons ignoré nos impulsions et nos idéaux spirituels. Nous vivons dans une civilisation polluée. Pour moi, la forme la plus pernicieuse de pollution interpersonnelle est le contexte omniprésent du mensonge ou de la fraude. Les individus honnêtes, les gens sincères, les amis authentiques sont de tels trésors que nous devons tout simplement faire tout notre possible pour renforcer et préserver nos relations. « L'amour est le désir de faire du bien aux autres. » (<a id="a64_849"></a>[LU 56:10.21](/fr/The_Urantia_Book/56#p10_21))
 
 La concentration de poisons spirituels que notre culture matérialiste laïque a permis de croître et de prospérer devrait nous alarmer tous et nous inciter à purifier l’air, à purifier l’eau et à rafraîchir nos vies spirituelles. Si nous avons caché notre lumière sous notre « confortable panier à boisseau », il est grand temps de réaliser que notre lumière est nécessaire et qu’elle ne peut pas être vue lorsque nous sommes cachés.
 
@@ -73,6 +94,28 @@ Le levain, la purification et la guérison sont des actions que ces paraboles de
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Actualizing_a_New_Organizational_Paradigm">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Actualiser un nouveau paradigme organisationnel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Richard Bain<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Truth_What_is_Truth_Who_Knows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vérité, qu'est-ce que la vérité – Qui sait ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Marks/Faith_and_Spirituality">
+          <span class="pr-2">Foi et spiritualité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -24,7 +48,7 @@ Quelles étaient les attentes des pionniers de notre mouvement ? On s'attendait 
 
 ## De la patience et encore de la patience
 
-Dans des articles datant des années 1930, les auteurs du _Livre d'Urantia_ nous disent que notre planète frémit au bord d'une grande renaissance spirituelle. (p. [LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)) Pour nous, simples mortels, six décennies, c'est une longue période pour frémir. Malheureusement, des déclarations comme celle-ci des auteurs pourraient amener certaines personnes dans un état d’attente considérable et anticipant qu’un grand événement spirituel se produirait bientôt ou du moins au cours de notre vie. Mais il ne faut pas oublier que les auteurs ont une perception du temps très différente de la nôtre. Même les Médians ont vécu des milliers d’années d’histoire d’Urantia ; Pour nos amis invisibles, une vie humaine n’est qu’un bref épisode de la saga de l’histoire humaine. Un antidote à notre impatience est de développer la clairvoyance de nos frères célestes. Même si nous ne vivrons peut-être pas assez longtemps pour voir nos efforts porter leurs fruits, nous ne devons pas nous décourager. Quelqu’un a dit un jour que lorsque vous achetez une maison et plantez un arbre, vous le plantez probablement pour que le prochain propriétaire ait de l’ombre. Si personne n’avait jamais planté d’arbre parce qu’il ne pouvait pas profiter de l’ombre, alors peu d’entre nous auraient des arbres ou de l’ombre.
+Dans des articles datant des années 1930, les auteurs du _Livre d'Urantia_ nous disent que notre planète frémit au bord d'une grande renaissance spirituelle. (p. <a id="a50_162"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4)) Pour nous, simples mortels, six décennies, c'est une longue période pour frémir. Malheureusement, des déclarations comme celle-ci des auteurs pourraient amener certaines personnes dans un état d’attente considérable et anticipant qu’un grand événement spirituel se produirait bientôt ou du moins au cours de notre vie. Mais il ne faut pas oublier que les auteurs ont une perception du temps très différente de la nôtre. Même les Médians ont vécu des milliers d’années d’histoire d’Urantia ; Pour nos amis invisibles, une vie humaine n’est qu’un bref épisode de la saga de l’histoire humaine. Un antidote à notre impatience est de développer la clairvoyance de nos frères célestes. Même si nous ne vivrons peut-être pas assez longtemps pour voir nos efforts porter leurs fruits, nous ne devons pas nous décourager. Quelqu’un a dit un jour que lorsque vous achetez une maison et plantez un arbre, vous le plantez probablement pour que le prochain propriétaire ait de l’ombre. Si personne n’avait jamais planté d’arbre parce qu’il ne pouvait pas profiter de l’ombre, alors peu d’entre nous auraient des arbres ou de l’ombre.
 
 Quand les gens regarderont en arrière dans cent ans, verront-ils la Cinquième Révélation d’Époque et notre communauté comme des échecs ? Je ne pense pas. Je pense qu'ils pourraient décider que nous manquions d'une vision clairement définie pour l'avenir de notre communauté. Il semble que nous construisions les fondations d’une sorte de structure. La structure sera-t-elle une église Urantia mondiale ? Quelle est notre vision ?
 
@@ -42,7 +66,7 @@ Est-ce le moment approprié ? Je ne sais pas, mais je sais qu'il serait sage de 
 
 ## Communiquer avec des âmes sœurs
 
-Il existe de nombreux Urantiens qui aimeraient adorer avec des âmes sœurs. Ils fréquentent peut-être maintenant une église chrétienne où ils pratiquent leur culte le dimanche matin. Bien qu'ils en retirent un bénéfice spirituel, ils regrettent sans aucun doute de ne pas pouvoir partager grand-chose avec leurs amis d'église au sujet du _Livre d'Urantia_. Et malheureusement, le culte dans certaines églises chrétiennes manque de créativité ; cela consiste trop souvent à réciter d’anciennes phrases théologiques et à chanter des chants dont certains d’entre nous n’acceptent peut-être pas les paroles. Ceux d'entre nous qui ont étudié _Le Livre d'Urantia_ sentent qu'il existe une profondeur d'adoration possible qui pourrait ravir l'âme et nous donner un sentiment de communion authentique avec Dieu. Nous aimerions y parvenir, mais nous nous sentons étouffés par le manque de spontanéité et de créativité de certains rituels chrétiens. Nous nous sentons plus comme des observateurs que comme des participants. Certains penseurs chrétiens ont déploré ce manque dans l’Église. Le philosophe existentialiste Kirkegaard était justement un de ces penseurs. Il a déploré que dans les églises d’aujourd’hui, Dieu soit le souffleur, le ministre soit l’acteur et la congrégation soit le public. La façon dont cela devrait se passer est que le ministre est le souffleur, les membres de la congrégation sont les acteurs et Dieu est le public. De plus, certaines théologies de l'Église chrétienne ne sont pas en harmonie avec les concepts élevés du _Livre d'Urantia_. Un exemple frappant de ceci est la Doctrine de l’Expiation. À propos de cette doctrine, les auteurs du Livre d'Urantia nous disent : « C’est un affront à Dieu de croire, de soutenir ou d’enseigner qu’il faut verser du sang innocent pour gagner ses faveurs ou détourner une colère divine fictive. » ([LU 4:5.4](/fr/The_Urantia_Book/4#p5_4)) Peut-être alors qu'une organisation spirituelle urantienne est à la fois nécessaire et souhaitable. Cette organisation peut-elle répondre aux besoins de tous ?
+Il existe de nombreux Urantiens qui aimeraient adorer avec des âmes sœurs. Ils fréquentent peut-être maintenant une église chrétienne où ils pratiquent leur culte le dimanche matin. Bien qu'ils en retirent un bénéfice spirituel, ils regrettent sans aucun doute de ne pas pouvoir partager grand-chose avec leurs amis d'église au sujet du _Livre d'Urantia_. Et malheureusement, le culte dans certaines églises chrétiennes manque de créativité ; cela consiste trop souvent à réciter d’anciennes phrases théologiques et à chanter des chants dont certains d’entre nous n’acceptent peut-être pas les paroles. Ceux d'entre nous qui ont étudié _Le Livre d'Urantia_ sentent qu'il existe une profondeur d'adoration possible qui pourrait ravir l'âme et nous donner un sentiment de communion authentique avec Dieu. Nous aimerions y parvenir, mais nous nous sentons étouffés par le manque de spontanéité et de créativité de certains rituels chrétiens. Nous nous sentons plus comme des observateurs que comme des participants. Certains penseurs chrétiens ont déploré ce manque dans l’Église. Le philosophe existentialiste Kirkegaard était justement un de ces penseurs. Il a déploré que dans les églises d’aujourd’hui, Dieu soit le souffleur, le ministre soit l’acteur et la congrégation soit le public. La façon dont cela devrait se passer est que le ministre est le souffleur, les membres de la congrégation sont les acteurs et Dieu est le public. De plus, certaines théologies de l'Église chrétienne ne sont pas en harmonie avec les concepts élevés du _Livre d'Urantia_. Un exemple frappant de ceci est la Doctrine de l’Expiation. À propos de cette doctrine, les auteurs du Livre d'Urantia nous disent : « C’est un affront à Dieu de croire, de soutenir ou d’enseigner qu’il faut verser du sang innocent pour gagner ses faveurs ou détourner une colère divine fictive. » (<a id="a68_1858"></a>[LU 4:5.4](/fr/The_Urantia_Book/4#p5_4)) Peut-être alors qu'une organisation spirituelle urantienne est à la fois nécessaire et souhaitable. Cette organisation peut-elle répondre aux besoins de tous ?
 
 ## Vue d'ensemble
 
@@ -58,9 +82,34 @@ Il y a des choses que nous pouvons faire. Premièrement, nous pouvons soutenir d
 
 > _Je crois qu'au lieu de comploter pour convertir le monde à l'urantisme, nous devrions chercher à établir des relations de travail avec tous les groupes religieux du monde. Mais pour ce faire, nous aurons besoin d’une organisation religieuse capable de représenter notre communauté dans le monde._
 
-Oui, nous nous retrouvons dans le trou en travaillant sur les fondations, et nous risquons de ne pas être reconnus pour notre travail. Néanmoins, en tant qu’agononteurs potentiels, avançons avec foi. Que l’importance du travail soit notre motivation. Alors que nous travaillons ensemble avec nos amis invisibles, une autre pièce du puzzle cosmique se met en place ; Dieu le Suprême émerge. « L'acte est le nôtre, les conséquences appartiennent à Dieu. » ([LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
+Oui, nous nous retrouvons dans le trou en travaillant sur les fondations, et nous risquons de ne pas être reconnus pour notre travail. Néanmoins, en tant qu’agononteurs potentiels, avançons avec foi. Que l’importance du travail soit notre motivation. Alors que nous travaillons ensemble avec nos amis invisibles, une autre pièce du puzzle cosmique se met en place ; Dieu le Suprême émerge. « L'acte est le nôtre, les conséquences appartiennent à Dieu. » (<a id="a84_455"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Truth_What_is_Truth_Who_Knows">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La vérité, qu'est-ce que la vérité – Qui sait ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Marks/Faith_and_Spirituality">
+          <span class="pr-2">Foi et spiritualité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

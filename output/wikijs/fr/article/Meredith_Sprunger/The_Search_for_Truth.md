@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith Sprunger<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Great_Theological_Challenge_of_our_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le grand défi théologique de notre époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="pr-2">La Métamorphose de l'Église</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L'automne dernier, le Dr Richard L. Hamm, le nouveau président des Disciples du Christ, a prononcé un sermon à la First Christian Church de Fort Wayne, où il était autrefois pasteur. J’aurais aimé que chaque membre d’église en Amérique puisse l’entendre. Le Dr Hamm a fait référence à un des premiers ministres disciples, Walter Scott, dont le sermon, « Un exercice à cinq doigts », a aidé à structurer le message de l'Église. Si je me souviens bien, les « cinq doigts » étaient : la foi, la Bible, la repentance, le baptême et le Saint-Esprit.
@@ -19,3 +43,28 @@ Nous avons besoin des conseils fondamentaux de la révélation à la base de nos
 
 Dans ce sermon spirituellement perspicace, le Dr Hamm a souligné dans une large mesure, sans le savoir sans aucun doute, le message philosophique et théologique fondamental du _Livre d'Urantia_. J’aimerais que tous les ministres disposent de cette source sans précédent de sagesse spirituelle comme ressource dans leur enseignement et leur prédication. Je crois qu'avec le temps, cela arrivera.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Great_Theological_Challenge_of_our_Day">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le grand défi théologique de notre époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Metamorphosis_of_Church">
+          <span class="pr-2">La Métamorphose de l'Église</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

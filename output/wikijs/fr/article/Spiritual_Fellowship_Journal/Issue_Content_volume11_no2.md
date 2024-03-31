@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Invisible_Loving_Human_Forces">
+          <span class="pr-2">« Forces humaines invisibles et aimantes »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 11, numéro 2, automne et hiver, 2001
@@ -31,7 +52,7 @@ Un journal créé pour promouvoir les discussions théologiques, philosophiques 
 
 ### Des principes directeurs
 
-(Voir [LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6) des Fascicules d'Urantia)
+(Voir <a id="a54_6"></a>[LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6) des Fascicules d'Urantia)
 
 Un symbolisme approprié et une expression socioreligieuse de la cinquième révélation d’époque devraient :
 
@@ -108,7 +129,7 @@ Victor McGonegal <br>
 Ángel F. Sánchez-Escobar
 </p>
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an par la Division des publications religieuses de Penumbra Press.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an par la Division des publications religieuses de Penumbra Press.
 
 La publication est apolitique et non affiliée à aucune autre organisation. Sauf indication contraire, tout le matériel publié dans le Fellowship Journal est © Copyright 2001 par Penumbra Press, Boulder Co., et tous les droits sont réservés.
 
@@ -162,9 +183,31 @@ Don annuel suggéré : $\$ 10$. Veuillez libeller votre chèque à l'ordre de Pe
 <img src="/image/article/Spiritual_Fellowship_Journal/Logo.jpg">
 </figure>
 
-> « Quand le vent souffle, tu entends le bruissement des feuilles, mais tu ne vois pas le vent — ni d’où il vient ni où il va — et il en est ainsi pour quiconque est né de l’esprit. Avec les yeux de la chair, on peut apercevoir les manifestations de l’esprit, mais on ne peut effectivement discerner l’esprit. » ([LU 142:6.5](/fr/The_Urantia_Book/142#p6_5))
+> « Quand le vent souffle, tu entends le bruissement des feuilles, mais tu ne vois pas le vent — ni d’où il vient ni où il va — et il en est ainsi pour quiconque est né de l’esprit. Avec les yeux de la chair, on peut apercevoir les manifestations de l’esprit, mais on ne peut effectivement discerner l’esprit. » (<a id="a185_313"></a>[LU 142:6.5](/fr/The_Urantia_Book/142#p6_5))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Invisible_Loving_Human_Forces">
+          <span class="pr-2">« Forces humaines invisibles et aimantes »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

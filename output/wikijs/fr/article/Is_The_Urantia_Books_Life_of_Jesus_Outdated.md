@@ -49,17 +49,17 @@ En raison de l’absence totale d’une histoire aussi sensationnelle dans le re
 
 Il est vrai que les journaux rejettent la plupart des histoires de miracles – et certainement celles où Jésus marche sur l’eau, etc. En outre, ils remarquent l’incapacité des guérisons miraculeuses du corps à apporter un avantage similaire au progrès spirituel de l’âme. Mais ils ont laissé beaucoup de choses qui semblent douteuses, comme l’eau transformée en vin et la nourriture des cinq mille personnes.
 
-> « Dieu est si complètement réel et absolu que l’on ne peut offrir, en témoignage de sa réalité, aucun signe matériel de preuve, aucune démonstration de prétendus miracles. » ([LU 102:1.5](/fr/The_Urantia_Book/102#p1_5))
+> « Dieu est si complètement réel et absolu que l’on ne peut offrir, en témoignage de sa réalité, aucun signe matériel de preuve, aucune démonstration de prétendus miracles. » (<a id="a51_177"></a>[LU 102:1.5](/fr/The_Urantia_Book/102#p1_5))
 
 Il est tout à fait merveilleux qu'il y ait maintenant un mouvement si puissant vers la réforme dans les Églises chrétiennes, dont pratiquement la totalité est conforme à l'enseignement du Livre d'Urantia. Cependant, il est également inquiétant que nous, dévots du Livre d'Urantia, ayons déjà pris du retard. Car le livre nous informe :
 
-> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> « Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. » (<a id="a55_341"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 Avons-nous échoué à relever ce défi en nous enlisant dans des choses laïques tout en nous réjouissant de nous considérer comme des leaders éclairés à l’avant-garde du progrès spirituel ?
 
-> Mais la religion n’est jamais rehaussée par un appel à de prétendus miracles. La recherche des miracles est un recul vers les religions primitives de magie. La vraie religion n’a rien à faire avec de prétendus miracles, et la religion révélée ne fait jamais appel à des miracles comme preuve de son autorité. ([LU 102:8.7](/fr/The_Urantia_Book/102#p8_7))
+> Mais la religion n’est jamais rehaussée par un appel à de prétendus miracles. La recherche des miracles est un recul vers les religions primitives de magie. La vraie religion n’a rien à faire avec de prétendus miracles, et la religion révélée ne fait jamais appel à des miracles comme preuve de son autorité. (<a id="a59_312"></a>[LU 102:8.7](/fr/The_Urantia_Book/102#p8_7))
 
-> Pour accomplir sa tâche, la révélation ne peut pas être trop éloignée des pensées et des réactions de l’époque à laquelle elle se présente. Elle doit être adaptée à la capacité de réceptivité de l'homme et tenir compte de l'énorme diversité des antécédents éducatifs et culturels de ceux qui peuvent en bénéficier. ([LU 92:4.1](/fr/The_Urantia_Book/92#p4_1))
+> Pour accomplir sa tâche, la révélation ne peut pas être trop éloignée des pensées et des réactions de l’époque à laquelle elle se présente. Elle doit être adaptée à la capacité de réceptivité de l'homme et tenir compte de l'énorme diversité des antécédents éducatifs et culturels de ceux qui peuvent en bénéficier. (<a id="a61_318"></a>[LU 92:4.1](/fr/The_Urantia_Book/92#p4_1))
 
 ## Liens externes
 

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lynn_E_Rhoderick/When_God_Doesnt_Make_Sense">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand Dieu n'a pas de sens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Kenneth R. Miller est professeur de biologie à l'Université Brown. _Finding Darwin's God_ est une réfutation définitive de la description créationniste de l'origine de l'humanité. Le Dr Miller est en désaccord avec les scientifiques qui prétendent que la science moderne exclut l'existence de Dieu. Il soutient de manière convaincante que la science et la religion offrent des manières différentes, mais compatibles, de voir le monde. Bien comprise, l’évolution ajoute de la profondeur et du sens non seulement à une vision scientifique du monde, mais aussi à une vision spirituelle.
@@ -24,3 +45,25 @@ Le matérialisme absolu est une position intenable, observe Miller, car la physi
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lynn_E_Rhoderick/When_God_Doesnt_Make_Sense">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Quand Dieu n'a pas de sens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

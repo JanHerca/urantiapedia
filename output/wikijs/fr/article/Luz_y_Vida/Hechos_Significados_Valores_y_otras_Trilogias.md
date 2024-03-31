@@ -198,7 +198,7 @@ Au cas où cela pourrait aider, voici ce texte du document 102, section 3 :
 > 
 > _Dans l’évolution, la religion amène souvent l’homme à créer ses concepts de Dieu. La révélation montre le phénomène de Dieu faisant évoluer l’homme lui-même, tandis que, dans la vie terrestre de Christ Micaël, nous voyons le phénomène de Dieu se révélant lui-même à l’homme. L’évolution tend à faire ressembler Dieu à l’homme ; la révélation tend à faire ressembler l’homme à Dieu._ 
 > 
-> _La science n’est satisfaite que par les causes premières, la religion, par la personnalité suprême et la philosophie, par l’unité. La révélation affirme que les trois sont un et que toutes sont bonnes. L’*éternel réel* est le bien de l’univers, et non les illusions temporelles du mal spatial. Dans l’expérience spirituelle de toutes les personnalités, il est toujours vrai que le réel est le bien et que le bien est le réel._ [LU 102:3.5-15](/fr/The_Urantia_Book/102#p3_5)
+> _La science n’est satisfaite que par les causes premières, la religion, par la personnalité suprême et la philosophie, par l’unité. La révélation affirme que les trois sont un et que toutes sont bonnes. L’*éternel réel* est le bien de l’univers, et non les illusions temporelles du mal spatial. Dans l’expérience spirituelle de toutes les personnalités, il est toujours vrai que le réel est le bien et que le bien est le réel._ <a id="a200_430"></a>[LU 102:3.5-15](/fr/The_Urantia_Book/102#p3_5)
 
 ## Références
 

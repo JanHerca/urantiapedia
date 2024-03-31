@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Balanced_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sensibilisation équilibrée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/What_is_God_consciousness">
+          <span class="pr-2">Qu'est-ce que la conscience de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 À l’approche du troisième millénaire, les visions pocalyptiques sont omniprésentes. Les prophéties de la « fin des temps » abondent à la fin de chaque siècle. Art Bell se joint à ce défilé dans son livre récent, _The Quickening_ (Paper Chase Press, Nouvelle-Orléans, 1997). Un titre plus précis pour le livre de Bell serait « Présages d'une catastrophe ». Son enquête encyclopédique sur les scénarios catastrophes possibles couvre le secteur riverain. Bell observe que nous vivons dans une économie mondiale et prédit qu’un gouvernement mondial est « au coin de la rue ». Il passe ensuite en revue la détérioration de notre tissu social, la confusion de nos aspirations religieuses et spirituelles, l'aggravation de nos problèmes environnementaux, la menace de maladie et de famine et la possibilité imminente de catastrophes naturelles.
@@ -19,3 +43,28 @@ Art Bell fait référence au livre de Hal Lindsey _The Final Battle_. Lindsey a 
 
 Nous vivons évidemment l’une des grandes périodes de transition de l’histoire. Au cours de ces périodes de transition, il y a toujours un effondrement de l’ancien paradigme de valeurs et beaucoup de confusion et de perturbations dans la société. À cette tourmente s’ajoute une recherche spirituelle généralisée. Les conditions de l’émergence d’un nouvel âge philosophique se réunissent dans notre société. Les Très Hauts, à mon avis, préparent notre planète pour la Cinquième Révélation d’Époque. Notre monde est, en effet, au « bord de l’une de ses époques les plus étonnantes et les plus passionnantes de réajustement social, d’accélération morale et d’illumination spirituelle ». cela prend sans doute beaucoup de temps.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Balanced_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sensibilisation équilibrée</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/What_is_God_consciousness">
+          <span class="pr-2">Qu'est-ce que la conscience de Dieu ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

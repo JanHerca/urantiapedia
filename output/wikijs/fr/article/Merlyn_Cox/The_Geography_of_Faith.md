@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Merlyn H. Cox<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="pr-2">Quelques citations du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La « Terre Sainte » a toujours suscité un intérêt particulier, voire une fascination, pour les chrétiens. Les pèlerins s'y rendent depuis longtemps pour se rapprocher des lieux où se sont déroulés les événements de l'Ancien et du Nouveau Testament. Il ne s’agit pas seulement de satisfaire la curiosité académique. Pour les chrétiens comme pour les juifs, voyager en Israël est une sorte de retour spirituel au pays. Les gens souhaitent « marcher là où Jésus a marché », visiter les villes et les régions où il a vécu et enseigné, contempler le paysage et voir les mêmes collines et vallées et les eaux scintillantes de la mer de Galilée.
@@ -52,15 +76,15 @@ Ce qu’était Nazareth à l’époque de Jésus reste également flou. Certains
 
 ## Nouveau Testament Palestine dans _Le Livre d'Urantia_
 
-Contrairement au manque de détails dans le Nouveau Testament concernant la géographie des événements de la vie de Jésus, le _Livre d'Urantia_ est riche de tels détails. Par exemple, le voyage de Jésus de Beer Sheva à Dan avant le début de son ministère public est décrit comme suit : « Au cours de ce voyage vers le nord, il s'arrêta à Hébron, Bethléem (où il vit son lieu de naissance), Jérusalem (il ne visita pas Béthanie), Beeroth, Lébona, Sychar, Schechem, Samarie, Guéba, En-Gannim, Endor, Madon ; en passant par Magdala et Capharnaüm, il se dirigea vers le nord ; et passant à l'est des eaux de Méron, il passa par Karahta jusqu'à Dan, ou Césarée-Philippi. ([LU 134:7.5](/fr/The_Urantia_Book/134#p7_5))
+Contrairement au manque de détails dans le Nouveau Testament concernant la géographie des événements de la vie de Jésus, le _Livre d'Urantia_ est riche de tels détails. Par exemple, le voyage de Jésus de Beer Sheva à Dan avant le début de son ministère public est décrit comme suit : « Au cours de ce voyage vers le nord, il s'arrêta à Hébron, Bethléem (où il vit son lieu de naissance), Jérusalem (il ne visita pas Béthanie), Beeroth, Lébona, Sychar, Schechem, Samarie, Guéba, En-Gannim, Endor, Madon ; en passant par Magdala et Capharnaüm, il se dirigea vers le nord ; et passant à l'est des eaux de Méron, il passa par Karahta jusqu'à Dan, ou Césarée-Philippi. (<a id="a78_665"></a>[LU 134:7.5](/fr/The_Urantia_Book/134#p7_5))
 
-Une autre fois, Jésus et ses disciples, voyageant de Césarée-Philippe jusqu'à la côte phénicienne, « contournèrent le pays des marais, en passant par Luz, jusqu'au point de jonction avec la route de Magdala-Mont-Liban, de là jusqu'au croisement avec le route menant à Sidon, pour y arriver vendredi après-midi. ([LU 155:4.1](/fr/The_Urantia_Book/155#p4_1))
+Une autre fois, Jésus et ses disciples, voyageant de Césarée-Philippe jusqu'à la côte phénicienne, « contournèrent le pays des marais, en passant par Luz, jusqu'au point de jonction avec la route de Magdala-Mont-Liban, de là jusqu'au croisement avec le route menant à Sidon, pour y arriver vendredi après-midi. (<a id="a80_312"></a>[LU 155:4.1](/fr/The_Urantia_Book/155#p4_1))
 
-Au cours de la mission peréenne, ils « travaillèrent dans les villes et villages suivants, ainsi qu'une cinquantaine de villages supplémentaires : Zaphon, Gadara, Macad, Arbela, Ramath, Edrei, Bosora, Caspin, Mispeh, Gerasa, Ragaba, Succoth, Amathus, Adam, Penuel, Capitolias, Dion, Hatita, Gadda, Philadephia, Jogbehah, Galaad, Beth-Nimrah, Tyrus, Elealah, Livias, Heshbon, Callirrhoe, Beth-Peor, Shittim, Sibmah, Medeba, Beth-Meon, Areopolis et Aroer. ([LU 165:0.1](/fr/The_Urantia_Book/165#p0_1))
+Au cours de la mission peréenne, ils « travaillèrent dans les villes et villages suivants, ainsi qu'une cinquantaine de villages supplémentaires : Zaphon, Gadara, Macad, Arbela, Ramath, Edrei, Bosora, Caspin, Mispeh, Gerasa, Ragaba, Succoth, Amathus, Adam, Penuel, Capitolias, Dion, Hatita, Gadda, Philadephia, Jogbehah, Galaad, Beth-Nimrah, Tyrus, Elealah, Livias, Heshbon, Callirrhoe, Beth-Peor, Shittim, Sibmah, Medeba, Beth-Meon, Areopolis et Aroer. (<a id="a82_455"></a>[LU 165:0.1](/fr/The_Urantia_Book/165#p0_1))
 
-Il y a des références à plus de cent vingt-cinq villes et villages dans ces récits. Il décrit la Galilée comme « une province de villages agricoles et de villes industrielles prospères, contenant plus de deux cents villes de plus de cinq mille habitants et trente de plus de quinze mille ». ([LU 124:2.9](/fr/The_Urantia_Book/124#p2_9))
+Il y a des références à plus de cent vingt-cinq villes et villages dans ces récits. Il décrit la Galilée comme « une province de villages agricoles et de villes industrielles prospères, contenant plus de deux cents villes de plus de cinq mille habitants et trente de plus de quinze mille ». (<a id="a84_292"></a>[LU 124:2.9](/fr/The_Urantia_Book/124#p2_9))
 
-En ce qui concerne la ville de Nazareth, «Depuis des temps immémoriaux, de nombreuses routes caravanières en provenance de l'Orient passaient par une partie de cette région jusqu'aux quelques bons ports maritimes de l'extrémité orientale de la Méditerranée, d'où les navires transportaient leurs cargaisons vers tout l'Occident maritime. Et plus de la moitié de ce trafic caravanier passait par ou à proximité de la petite ville de Nazareth en Galilée. ([LU 121:2.2](/fr/The_Urantia_Book/121#p2_2))
+En ce qui concerne la ville de Nazareth, «Depuis des temps immémoriaux, de nombreuses routes caravanières en provenance de l'Orient passaient par une partie de cette région jusqu'aux quelques bons ports maritimes de l'extrémité orientale de la Méditerranée, d'où les navires transportaient leurs cargaisons vers tout l'Occident maritime. Et plus de la moitié de ce trafic caravanier passait par ou à proximité de la petite ville de Nazareth en Galilée. (<a id="a86_454"></a>[LU 121:2.2](/fr/The_Urantia_Book/121#p2_2))
 
 Nazareth était une étape pour les caravanes et un carrefour de voyages. Le principal moyen de Joseph pour subvenir aux besoins de sa jeune famille était de gérer un petit atelier près du terrain de caravane. Ici, Jésus, jeune garçon, pouvait écouter les conversations des conducteurs et des passagers du monde entier.
 
@@ -98,9 +122,9 @@ Selon _Le Livre d'Urantia_, Bethsaïda était en effet la maison de Zébédée e
 
 Dans l’Évangile de Marc, Pierre aurait vécu à Capharnaüm, tandis que Jean dit que Bethsaïda était la « ville d’André et de Pierre ». Si Bethsaïda n'était pas seulement le lieu de naissance de Pierre, mais aussi sa maison en tant qu'adulte, et que ces villes étaient si proches les unes des autres, cela pourrait expliquer une certaine confusion dans les archives.
 
-Selon les récits du Livre d'Urantia, la maison de Zébédée est devenue le quartier général des disciples et la base de leur action missionnaire et évangélique. Le grand événement des guérisons multiples a eu lieu dans la cour de la maison de Zébédée le soir même du ministère de Jésus auprès de la belle-mère de Pierre. Et c’est à la maison de Zebedec que le paralytique, « transporté de Capharnaüm sur un petit lit par ses amis », fut descendu à l’intérieur depuis la racine. ([LU 148:9.2](/fr/The_Urantia_Book/148#p9_2)) À une certaine époque, Bethsaïda était l'emplacement d'une grande ville de tentes en bord de mer composée de divers chercheurs et adeptes, et comprenait une école de formation pour les nouveaux disciples, ainsi qu'un hôpital de grande taille.
+Selon les récits du Livre d'Urantia, la maison de Zébédée est devenue le quartier général des disciples et la base de leur action missionnaire et évangélique. Le grand événement des guérisons multiples a eu lieu dans la cour de la maison de Zébédée le soir même du ministère de Jésus auprès de la belle-mère de Pierre. Et c’est à la maison de Zebedec que le paralytique, « transporté de Capharnaüm sur un petit lit par ses amis », fut descendu à l’intérieur depuis la racine. (<a id="a124_477"></a>[LU 148:9.2](/fr/The_Urantia_Book/148#p9_2)) À une certaine époque, Bethsaïda était l'emplacement d'une grande ville de tentes en bord de mer composée de divers chercheurs et adeptes, et comprenait une école de formation pour les nouveaux disciples, ainsi qu'un hôpital de grande taille.
 
-Il est également intéressant de noter que, selon _Le Livre d'Urantia_, c'est Bethsaïda-Julias, et non Bethsaïda, qui figurait parmi ces villes si insensibles à la proclamation de la bonne nouvelle : « Mais malheur aux habitants de Chorazin, de Bethsaïde-Julias et de Capharnaüm, qui rejettent la lumière, ces cités qui n’ont pas bien accueilli ces messagers. Je proclame que, si les puissantes œuvres accomplies en ces lieux l’avaient été à Tyr et à Sidon, les habitants de ces villes dites païennes auraient depuis longtemps fait pénitence sous le sac et la cendre. » ([LU 163:6.5](/fr/The_Urantia_Book/163#p6_5))
+Il est également intéressant de noter que, selon _Le Livre d'Urantia_, c'est Bethsaïda-Julias, et non Bethsaïda, qui figurait parmi ces villes si insensibles à la proclamation de la bonne nouvelle : « Mais malheur aux habitants de Chorazin, de Bethsaïde-Julias et de Capharnaüm, qui rejettent la lumière, ces cités qui n’ont pas bien accueilli ces messagers. Je proclame que, si les puissantes œuvres accomplies en ces lieux l’avaient été à Tyr et à Sidon, les habitants de ces villes dites païennes auraient depuis longtemps fait pénitence sous le sac et la cendre. » (<a id="a126_570"></a>[LU 163:6.5](/fr/The_Urantia_Book/163#p6_5))
 
 Rétrospectivement, on pourrait remettre en question le récit des Évangiles pour cette raison : pourquoi Jésus aurait-il mentionné Bethsaïda, alors qu'en fait elle était si clairement productive de disciples et de disciples ?
 
@@ -114,6 +138,31 @@ Ceci n'est qu'un bref aperçu de la façon dont le _Livre d'Urantia_ peut être 
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Cultural_Impact_of_UB_in_the_Next_Fifty_Years">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'impact culturel du Livre d'Urantia dans les cinquante prochaines années</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Some_Quotations_of_UB">
+          <span class="pr-2">Quelques citations du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

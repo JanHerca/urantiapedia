@@ -10,9 +10,33 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1996 Meredith J. Sprunger<br>© 1996 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mort, la dernière frontière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/Values_Learn_Them_or_Lose_Them">
+          <span class="pr-2">Valeurs : apprenez-les ou perdez-les</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-Nos vies sont façonnées par nos expériences vécues. Ces épisodes de transcendance sont parfois difficiles à expliquer, mais la plupart des gens ont le sentiment du ministère d'une Réalité au-delà d'eux-mêmes qui donne un sens à leur vie : « ....à chaque carrefour de la lutte en avant, l'Esprit de La vérité parlera toujours en disant : « C'est ainsi que nous sommes ». ([LU 34:7.8](/fr/The_Urantia_Book/34#p7_8))
+
+Nos vies sont façonnées par nos expériences vécues. Ces épisodes de transcendance sont parfois difficiles à expliquer, mais la plupart des gens ont le sentiment du ministère d'une Réalité au-delà d'eux-mêmes qui donne un sens à leur vie : « ....à chaque carrefour de la lutte en avant, l'Esprit de La vérité parlera toujours en disant : « C'est ainsi que nous sommes ». (<a id="a38_371"></a>[LU 34:7.8](/fr/The_Urantia_Book/34#p7_8))
 
 Ma recherche de connaissance et de vérité a commencé dès mon plus jeune âge. J’ai un souvenir très vif, à l’âge de quatre ans, d’un besoin impérieux et d’une profonde faim d’en savoir plus sur la vie. Je me tenais dehors, du côté sud de notre maison, sous un soleil radieux. Je me souviens m'être dit : « Il y a quelque chose dans la vie que je ne comprends pas, mais je vais le découvrir. »
 
@@ -30,12 +54,37 @@ Mon pèlerinage de vie s'est déroulé à peu près normalement à travers le Mi
 
 Même si c’était la nuit noire de l’âme, ce fut aussi l’expérience ultime de transformation de ma vie. Dépouillé de toutes mes défenses de l'ego et de toutes mes rationalisations, j'ai été confronté soit à céder au désespoir, soit à abandonner mes défenses de l'ego et à me donner complètement à Dieu, quelles que soient les conséquences. Je voyais cela comme la seule option à laquelle je pouvais m'identifier. Ma vie avait été consacrée à Dieu auparavant, mais maintenant j'avais fait face à l'épreuve ultime. La restructuration de ma vie intérieure a été lente mais sûre. J’ai mieux compris ce que signifie naître de nouveau spirituellement. J'avais traversé le feu tempérant des épreuves et je connaissais l'invincibilité spirituelle d'être un fils de Dieu. Bien plus tard, mon expérience a résonné avec un passage que j'ai lu dans _Le Livre d'Urantia_ :
 
-> Tel est donc le cours primaire ou élémentaire que rencontrent les pèlerins de l’espace, grands voyageurs à la foi éprouvée. Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » ([LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
+> Tel est donc le cours primaire ou élémentaire que rencontrent les pèlerins de l’espace, grands voyageurs à la foi éprouvée. Mais, longtemps avant d’arriver à Havona, ces enfants ascendants du temps ont appris à se délecter d’incertitudes, à se nourrir de désappointements, à s’enthousiasmer sur des défaites apparentes, à se fortifier en présence de difficultés, à faire preuve d’un courage indomptable en face de l’immensité et à exercer une foi invincible quand ils font face au défi de l’inexplicable. Il y a longtemps que le cri de guerre de ces pèlerins est devenu : « En liaison avec Dieu, rien — absolument rien — n’est impossible. » (<a id="a56_644"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
 En 1952, nous avons pris le pastorat à Grace Church à Culver, Indiana. J'ai découvert que mes connaissances spirituelles et ma croissance prenaient une nouvelle dimension. Après plusieurs années passées à rédiger des sermons et des articles formulant ma propre expérience spirituelle et mettant l’accent sur la religion de Jésus plutôt que sur la religion de Jésus, j’ai réalisé qu’une nouvelle approche spirituelle était nécessaire dans la théologie chrétienne principale. J'ai provisoirement esquissé quelques livres qui devaient être écrits, mais j'ai évité la discipline requise pour écrire ces livres. Après avoir essayé pendant un certain temps d'éviter de m'engager dans ce projet, j'ai réalisé que par fidélité à cette direction intérieure, une décision devait être prise.
 
 Pour rechercher la volonté de Dieu en prenant cette décision, j'ai passé des heures sous les étoiles dans notre jardin à Culver. Il m’a semblé clair qu’une nouvelle orientation théologico-spirituelle était nécessaire pour comprendre notre foi chrétienne, et que Dieu me conduisait à aller dans cette direction. J'ai finalement exprimé ma volonté de prendre l'engagement d'entreprendre ce projet. Peu de temps après avoir pris cette décision, le _Livre d'Urantia_ a été placé entre mes mains. J'ai promis à l'ami qui me l'a donné, le juge Louis Hammerschmidt, que je l'évaluerais. Sa table des matières m'a rebuté ; Je pensais que ce serait une perte de temps de le lire. Après des mois de procrastination, j'ai commencé à lire sa Vie et Enseignements de Jésus. Je n'ai pas trouvé ce que j'espérais trouver. Cela a confirmé et grandement amélioré l’histoire du Nouveau Testament. Souvent, je lis avec les larmes coulant sur mes joues. Quand j'ai fini de lire le livre, j'ai réalisé que les idées de base sur lesquelles j'avais décidé d'écrire étaient ici présentées bien mieux que je ne pouvais les formuler. J'avais le sentiment omniprésent que toute ma vie avait été préparée pour cette nouvelle vision de la réalité spirituelle : la Cinquième Révélation d'Époque. Le reste de ma vie a été un post-scriptum et un postlude à cette expérience culminante de mon pèlerinage spirituel.
 
-> _Meredith est une ministre ordonnée de l'Église Unie du Christ, maintenant à la retraite, une lectrice du_ Livre d'Urantia _depuis près de quarante ans et rédactrice en chef de_ The Spiritual Fellowship Journal.
+> _Meredith est une ministre ordonnée de l'Église Unie du Christ, maintenant à la retraite, une lectrice du_ Livre d'Urantia _depuis près de quarante ans et rédactrice en chef de_ _Journal de la Fraternité Spirituelle_.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Death_The_Final_Frontier">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mort, la dernière frontière</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1996 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/Values_Learn_Them_or_Lose_Them">
+          <span class="pr-2">Valeurs : apprenez-les ou perdez-les</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

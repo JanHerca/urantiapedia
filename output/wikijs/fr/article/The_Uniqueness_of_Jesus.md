@@ -11,11 +11,11 @@ dateCreated: 2022-09-27T00:09:11.694Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 La Bibliothèque de la Confrérie des Hommes</p>
 
 
-Depuis le début de son ministère public jusqu'à sa crucifixion, la vie de Jésus a été vécue comme une révélation de la nature de Dieu et conformément aux contraintes imposées par le pacte avec Emmanuel énoncé dans le fascicule d'Urantia 120 ([LU 120:1.1](/fr/The_Urantia_Book/120#p1_1)) .
+Depuis le début de son ministère public jusqu'à sa crucifixion, la vie de Jésus a été vécue comme une révélation de la nature de Dieu et conformément aux contraintes imposées par le pacte avec Emmanuel énoncé dans le fascicule d'Urantia 120 (<a id="a13_242"></a>[LU 120:1.1](/fr/The_Urantia_Book/120#p1_1)) .
 
-Parmi ces engagements, nous trouvons les conseils d'Emmanuel : « *que vous assumiez, après avoir été suffisamment conscient de votre identité divine, la tâche supplémentaire de mettre fin techniquement à la rébellion de Lucifer... *” ([LU 120:2.2](/fr/The_Urantia_Book/120#p2_2))
+Parmi ces engagements, nous trouvons les conseils d'Emmanuel : « *que vous assumiez, après avoir été suffisamment conscient de votre identité divine, la tâche supplémentaire de mettre fin techniquement à la rébellion de Lucifer... *” (<a id="a15_235"></a>[LU 120:2.2](/fr/The_Urantia_Book/120#p2_2))
 
-Et : « *Proposez au cours de votre courte vie dans la chair, comme cela n’a jamais été vu auparavant dans tout Nébadon, les possibilités transcendantes **atteignables** par un humain connaissant Dieu au cours de la courte carrière de l’existence mortelle*. » ([LU 120:2.8](/fr/The_Urantia_Book/120#p2_8))
+Et : « *Proposez au cours de votre courte vie dans la chair, comme cela n’a jamais été vu auparavant dans tout Nébadon, les possibilités transcendantes **atteignables** par un humain connaissant Dieu au cours de la courte carrière de l’existence mortelle*. » (<a id="a17_260"></a>[LU 120:2.8](/fr/The_Urantia_Book/120#p2_8))
 
 Cette phase de la vie de Jésus sur Urantia a commencé seulement après son baptême par Jean. C’est donc à la structure sociale d’Israël pendant la période de son ministère public post-baptême que nous devons nous tourner afin de comprendre ce que Jésus cherchait à démontrer comme un ensemble de possibilités transcendantes accessibles à ses disciples.
 

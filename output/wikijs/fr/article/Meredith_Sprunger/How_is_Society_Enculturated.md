@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un défi œcuménique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="pr-2">Les débuts des graines de moutarde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La préoccupation majeure des étudiants dévoués des Cahiers d'Urantia est probablement de savoir comment partager efficacement l'illumination spirituelle et la sagesse divine de la Cinquième Révélation d'Époque avec les gens du monde. En bref, quelle est la méthode la plus efficace pour enculturer le monde avec la vision spirituelle élargie du _Livre d'Urantia_ ?
@@ -24,3 +48,28 @@ Au cours des dix ou vingt dernières années, de nombreux groupes d'étude et so
 
 La question fondamentale demeure : comment le paradigme de spiritualité des Cahiers d'Urantia va-t-il inculturer la société ? À mon avis, cela ne se produira que grâce à l’institutionnalisation de ses enseignements. Si cela est correct, nous devrions actuellement diffuser la vision du _Livre d'Urantia_ à travers divers moyens de communication, des discussions publiques et la formation de groupes d'étude. Et en même temps, nous devrions nous engager dans la préparation à la formation de groupes ou d’institutions religieuses en promouvant des discussions théologiques, philosophiques et politiques liées à un symbolisme approprié et à une expression socioreligieuse de la Cinquième Révélation d’Époque.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Ecumenically_Challenged">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un défi œcuménique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Mustard_Seed_Beginnings">
+          <span class="pr-2">Les débuts des graines de moutarde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Richard S. Omura<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un scientifique intrigué par le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="pr-2">Méta-valeurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -20,7 +44,7 @@ Le message saillant du _Le Livre d'Urantia_ est spirituel. Et pourtant, il n'exi
 
 > _L'histoire démontre que seules les organisations religieuses, la religion institutionnelle, sont efficaces pour insuffler des enseignements spirituels dans la civilisation et la culture._
 
-Diverses personnes dans le mouvement Urantia ont eu des visions de fonder une « Église Urantia », et la déclaration de mission du _The Spiritual Fellowship Journal_ est « Promouvoir les discussions théologiques, philosophiques et politiques liées à un symbolisme approprié et à une expression socioreligieuse de la cinquième révélation d'époque. », mais il nous manque encore une organisation spirituelle dédiée à la diffusion des enseignements du _Livre d'Urantia_ à travers le monde. Même si l’institutionnalisation de ces enseignements comporte des dangers substantiels, cela reste une force puissante qui doit être utilisée pour l’éveil spirituel et la mobilisation des peuples de notre monde.
+Diverses personnes dans le mouvement Urantia ont eu des visions de fonder une « Église Urantia », et la déclaration de mission du _Journal de la Fraternité Spirituelle_ est « Promouvoir les discussions théologiques, philosophiques et politiques liées à un symbolisme approprié et à une expression socioreligieuse de la cinquième révélation d'époque. », mais il nous manque encore une organisation spirituelle dédiée à la diffusion des enseignements du _Livre d'Urantia_ à travers le monde. Même si l’institutionnalisation de ces enseignements comporte des dangers substantiels, cela reste une force puissante qui doit être utilisée pour l’éveil spirituel et la mobilisation des peuples de notre monde.
 
 Comment ce vide spirituel dans le mouvement Urantia sera-t-il comblé ? Vaut-il mieux attendre que les organisations religieuses évoluent au hasard ou vaut-il mieux accumuler la sagesse de groupe et les connaissances expérientielles augmentées des informations qui nous sont fournies par la Cinquième Révélation d’Époque dans ce processus ? Nos organisations religieuses seront-elles créées comme les villes du vieux monde, avec une structure basée sur un ensemble de circonstances aléatoires, ou seront-elles comme certaines des villes des États-Unis qui ont été planifiées et aménagées avec soin ?
 
@@ -42,13 +66,13 @@ L'évolution spirituelle est une force suprême dans l'univers. Les attitudes n�
 
 ## Religion institutionnelle
 
-L’institutionnalisation de toute religion est absolument vitale pour sa survie. « Il est exact que, si l’on fait de la religion une institution, on porte généralement atteinte à sa qualité spirituelle, mais il faut bien constater aussi le fait que nulle religion n’a jusqu’ici réussi à survivre sans l’aide d’une organisation institutionnelle plus ou moins poussée. » ([LU 98:6.1](/fr/The_Urantia_Book/98#p6_1)) Il y a eu divers individus et groupes intéressés à former une Église Urantia. La crainte parmi certains étudiants du _Livre d'Urantia_ qu'une Église d'Urantia devienne une organisation dogmatique et cristallisée est hautement improbable si cela est fait selon les idées qui nous sont données à travers le _Livre d'Urantia_. _Le Livre d'Urantia_ à la page 1092 nous donne de merveilleuses directives sur ce qu'il faut rechercher et ce qu'il faut éviter dans la socialisation d'une religion. Je crois qu’une certaine dose d’imagination, d’inventivité et de détermination doit être nécessaire pour guider et nourrir la naissance naturelle de cette nouvelle religion socialisée.
+L’institutionnalisation de toute religion est absolument vitale pour sa survie. « Il est exact que, si l’on fait de la religion une institution, on porte généralement atteinte à sa qualité spirituelle, mais il faut bien constater aussi le fait que nulle religion n’a jusqu’ici réussi à survivre sans l’aide d’une organisation institutionnelle plus ou moins poussée. » (<a id="a68_369"></a>[LU 98:6.1](/fr/The_Urantia_Book/98#p6_1)) Il y a eu divers individus et groupes intéressés à former une Église Urantia. La crainte parmi certains étudiants du _Livre d'Urantia_ qu'une Église d'Urantia devienne une organisation dogmatique et cristallisée est hautement improbable si cela est fait selon les idées qui nous sont données à travers le _Livre d'Urantia_. _Le Livre d'Urantia_ à la page 1092 nous donne de merveilleuses directives sur ce qu'il faut rechercher et ce qu'il faut éviter dans la socialisation d'une religion. Je crois qu’une certaine dose d’imagination, d’inventivité et de détermination doit être nécessaire pour guider et nourrir la naissance naturelle de cette nouvelle religion socialisée.
 
 Créer des organisations religieuses dans le mouvement Urantia n’est pas la même chose que créer une nouvelle religion. Un nouveau paradigme de religion basé sur la Révélation de la Cinquième Époque a déjà évolué dans les cœurs et les esprits des étudiants du _Livre d'Urantia_. Elle doit être intégrée dans une religion socialisée viable. Cette nouvelle religion socialisée ne sera pas parfaite. Même avec toutes les garanties que nous pouvons créer pour le protéger des dangers de la religion institutionnelle, il peut se dégrader et se cristalliser avec le temps, mais, espérons-le, pas avant d'avoir transformé notre civilisation et notre culture.
 
 > _Un nouveau paradigme de religion basé sur la Révélation de la Cinquième Époque a déjà évolué dans les cœurs et les esprits des étudiants du_ Livre d'Urantia. _Il doit être intégré dans une religion socialisée viable._
 
-Cette nouvelle religion socialisée basée sur la Cinquième Révélation d'Époque va initier un nouveau mouvement religieux dans le monde. La Fondation Urantia aura autant de pouvoir sur elle que les éditeurs de la Bible sur les églises chrétiennes – aucun. La Fraternité cessera également d'avoir une fonction organique dans ce nouveau mouvement religieux, à moins qu'elle ne se transforme en une telle organisation spirituelle. Certaines sociétés de bourses s'orientent déjà dans cette direction. Il serait inspirant, à mon avis, de modifier l'énoncé de mission de la Fellowship pour refléter « le véritable objectif de la socialisation de la religion » énoncé sur [LU 99:6.2](/fr/The_Urantia_Book/99#p6_2).
+Cette nouvelle religion socialisée basée sur la Cinquième Révélation d'Époque va initier un nouveau mouvement religieux dans le monde. La Fondation Urantia aura autant de pouvoir sur elle que les éditeurs de la Bible sur les églises chrétiennes – aucun. La Fraternité cessera également d'avoir une fonction organique dans ce nouveau mouvement religieux, à moins qu'elle ne se transforme en une telle organisation spirituelle. Certaines sociétés de bourses s'orientent déjà dans cette direction. Il serait inspirant, à mon avis, de modifier l'énoncé de mission de la Fellowship pour refléter « le véritable objectif de la socialisation de la religion » énoncé sur <a id="a74_663"></a>[LU 99:6.2](/fr/The_Urantia_Book/99#p6_2).
 
 Lorsqu'une telle organisation spirituelle sera inaugurée, une nouvelle ère dans la diffusion des enseignements du _Livre d'Urantia_ aura commencé. Ce sera une époque où les concepts eux-mêmes passeront avant le livre. Et vivre les enseignements passera avant les concepts. Ce sera un moment où les messages spirituels du livre commenceront à régner sur les âmes des mortels d’Urantia.
 
@@ -56,8 +80,33 @@ Lorsqu'une telle organisation spirituelle sera inaugurée, une nouvelle ère dan
 
 Mais nous n’en sommes pas encore là. Beaucoup d’entre nous sont encore embourbés dans des pensées négatives – comment quelque chose ou quelqu’un essaie de bloquer nos voies d’évangélisation spirituelle. Cette idée est un mythe. Pure fantaisie ! L’évangélisation spirituelle ne peut pas être stoppée efficacement par l’opposition ou par les lois. La voie qui s’offre à nous est grande ouverte. Il est temps que nous utilisions notre intelligence, notre courage, notre amour, notre sagesse et toutes les ressources dont nous disposons pour cultiver une organisation spirituelle qui remplira les objectifs les plus élevés d’une religion socialisée sans succomber à ses dangers. La question à laquelle il faut répondre n’est pas : « Pouvons-nous le faire ? Cette planète connaîtra une croissance spirituelle avec ou sans nous. La question est : « Qui va aider ? »
 
-Si vous êtes prêt à nous aider, commençons à réfléchir à l'énoncé de mission du _The Spiritual Fellowship Journal_ : « Promouvoir les discussions théologiques, philosophiques et politiques liées à un symbolisme approprié et à une expression socioreligieuse de la cinquième révélation d'époque. » Comment pouvons-nous créer une structure organisationnelle qui intégrera « le véritable objectif de la socialisation de la religion » ainsi que des garde-fous qui préviennent « les dangers d’une religion formalisée ? » C’est le moment d’une discussion créative et perspicace. La graine a déjà été plantée. La pousse va bientôt briser le sol. Avec le temps, il aura besoin d’une nourriture et d’une direction appropriées. C’est le moment de planifier avec sagesse afin que, dans la « plénitude des temps », nous puissions agir avec courage et perspicacité spirituelle.
+Si vous êtes prêt à nous aider, commençons à réfléchir à l'énoncé de mission du _Journal de la Fraternité Spirituelle_ : « Promouvoir les discussions théologiques, philosophiques et politiques liées à un symbolisme approprié et à une expression socioreligieuse de la cinquième révélation d'époque. » Comment pouvons-nous créer une structure organisationnelle qui intégrera « le véritable objectif de la socialisation de la religion » ainsi que des garde-fous qui préviennent « les dangers d’une religion formalisée ? » C’est le moment d’une discussion créative et perspicace. La graine a déjà été plantée. La pousse va bientôt briser le sol. Avec le temps, il aura besoin d’une nourriture et d’une direction appropriées. C’est le moment de planifier avec sagesse afin que, dans la « plénitude des temps », nous puissions agir avec courage et perspicacité spirituelle.
 
 > _Richard S. Omura est un étudiant de longue date du _Livre d'Urantia_, actuellement président de la Première Société de Los Angeles, conseiller général et conseiller pour l'École des Significations et des Valeurs. Il est coordinateur de production pour la télévision japonaise et a travaillé comme photographe, disc-jockey, guide touristique et interprète. Richard travaille actuellement sur un roman basé sur le Livre d'Urantia.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Scientist_Intrigued_by_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un scientifique intrigué par le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Meta_Values_Part_I">
+          <span class="pr-2">Méta-valeurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

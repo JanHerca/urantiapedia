@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Meredith Sprunger<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume8_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Between_the_Times">
+          <span class="pr-2">Entre les temps La nécessité de l'intériorité spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Pendant des décennies, les Églises chrétiennes principales (anciennes lignes ? secondaires ?) ont perdu leur crédibilité et leur appartenance à notre culture. Comme Mark Noll le souligne dans _The Scandal of the Evangelical Mind_ (Eerdmans, 1994), il existe un manque de respectabilité scientifique dans les Églises chrétiennes conservatrices, ce qui fait qu'elles sont largement ignorées par notre société laïque ; et comme Bruce Bower le souligne dans _Stealing Jesus_ (Crown, 1997), ils déforment sérieusement la religion de Jésus. Thomas Reeves dans _The Empty Church: The Suicide of Liberal Christianity_ (New York, Free, 1996), déclare que les élites confessionnelles libérales, zélées et bien établies, se soucient davantage des dernières modes politiques et idéologiques que de l'évangile chrétien de base. L’atmosphère religieuse négative est devenue si critique que nous voyons des articles dans des revues théologiques comme « Nos Églises seront-elles encore des Églises au XXIe siècle ? par David R. Inglis (_Prism_, printemps 1997).
@@ -37,3 +61,28 @@ Les implications de ces douze thèses reflètent la crise de la théologie chré
 
 Les étudiants du _Livre d'Urantia_ reconnaîtront que Mgr Spong contourne les limites des enseignements de la Cinquième Révélation d'Époque. Comme je l'ai observé en examinant _Pourquoi le christianisme doit changer ou mourir_, sa vision religieuse s'envolerait vraiment si elle avait les ailes de la cosmologie spirituelle et la vision de la Déité et de la Réalité dans _Le Livre d'Urantia_. Espérons que nous nous rapprochons du jour où les théologiens chrétiens entreprendront une évaluation sérieuse de la Cinquième Révélation d’Époque.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume8_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Between_the_Times">
+          <span class="pr-2">Entre les temps La nécessité de l'intériorité spirituelle</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

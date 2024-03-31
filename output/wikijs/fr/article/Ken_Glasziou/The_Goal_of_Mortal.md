@@ -20,7 +20,7 @@ dateCreated: 2022-9-9T8:13:39Z
 > 1. En choisissant de répondre à l’appel de la gouverne divine, en basant sincèrement votre vie humaine sur votre plus haute conscience de la vérité, de la beauté et de la bonté, et ensuite en coordonnant ces qualités de divinité par la sagesse, l’adoration, la foi et l’amour.
 > 2. En aimant Dieu et en désirant lui ressembler — par la récognition sincère de la paternité divine et l’adoration aimante du Parent céleste.
 > 3. En aimant les hommes et en désirant sincèrement les servir — par la récognition de tout cœur de la fraternité humaine doublée d’une affection sage et intelligente pour chacun de vos compagnons mortels.
-> 4. En acceptant joyeusement la citoyenneté cosmique — en reconnaissant honnêtement vos obligations progressives envers l’Être Suprême, en ayant conscience de l’interdépendance entre l’homme évolutionnaire et la Déité évoluante. C’est la naissance de la moralité cosmique et l’éveil de la réalisation du devoir universel. ([LU 110:3.4-10](/fr/The_Urantia_Book/110#p3_4))
+> 4. En acceptant joyeusement la citoyenneté cosmique — en reconnaissant honnêtement vos obligations progressives envers l’Être Suprême, en ayant conscience de l’interdépendance entre l’homme évolutionnaire et la Déité évoluante. C’est la naissance de la moralité cosmique et l’éveil de la réalisation du devoir universel. (<a id="a22_324"></a>[LU 110:3.4-10](/fr/The_Urantia_Book/110#p3_4))
 
 ## Liens externes
 

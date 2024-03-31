@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1991 Byron Belitsos<br>© 1991 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres marquants : « Responsabilité mondiale : à la recherche d'une nouvelle éthique »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="pr-2">Jeter le bébé spirituel avec l'eau du bain sexiste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dans notre dernière rubrique Médias et Valeurs, j'ai défendu l'opinion plutôt inhabituelle selon laquelle la télévision et les nouvelles formes de médias électroniques peuvent et doivent avoir un impact positif sur la vie spirituelle intérieure de l'individu. Explorons comment cela pourrait se produire à mesure que se déroule la révolution médiatique des années 1990.
@@ -21,7 +45,7 @@ Dans la troisième partie du _Le Livre d'Urantia_, dans les fascicules 85-98, le
 
 Au début, la vérité divine était la province exclusive d'un individu charismatique désigné ou d'un groupe privilégié : dans les sociétés tribales, c'était le chaman ; en Egypte le Pharaon ; en Inde, le sacerdoce brahmanique. Ces auto-révélations (idées dérivées de l'association avec l'esprit intérieur de Dieu) sont finalement devenues des textes sacrés, à partir desquels des rituels et des mythes ont été dérivés, puis imposés à des populations passives.
 
-Un nouveau chapitre a été écrit en Israël. Nous assistons ici à une tension permanente entre les nouvelles voix des prophètes, dont les auto-révélations jaillissent de nouvelles sources, et la tradition pharisienne rigide des textes et des rituels. Jésus a été le premier prophète juif à enseigner l'amour du Père pour l'individu, que le Père est directement joignable dans des modes de pensée et d'attitude hautement personnels. La vision biblique de la vie intérieure de Jésus est belle et anecdotique, mais les auteurs du _Livre d'Urantia_ présentent la vie spirituelle intérieure de Jésus comme étonnamment riche et variée. « ... Pour lui, la prière était une expression sincère d’attitude spirituelle, une déclaration de loyauté d’âme, un exposé de dévotion personnelle, une expression d’actions de grâces, une manière d’échapper à la tension émotive, une prévention de conflit, une exaltation de l’intellect... » ([LU 196:0.10](/fr/The_Urantia_Book/196#p0_10)) plus une liste supplémentaire de 12 autres attitudes de vérité qui semblent épuiser toute la gamme des réponses intérieures à un éventuel stimulus spirituel.
+Un nouveau chapitre a été écrit en Israël. Nous assistons ici à une tension permanente entre les nouvelles voix des prophètes, dont les auto-révélations jaillissent de nouvelles sources, et la tradition pharisienne rigide des textes et des rituels. Jésus a été le premier prophète juif à enseigner l'amour du Père pour l'individu, que le Père est directement joignable dans des modes de pensée et d'attitude hautement personnels. La vision biblique de la vie intérieure de Jésus est belle et anecdotique, mais les auteurs du _Livre d'Urantia_ présentent la vie spirituelle intérieure de Jésus comme étonnamment riche et variée. « ... Pour lui, la prière était une expression sincère d’attitude spirituelle, une déclaration de loyauté d’âme, un exposé de dévotion personnelle, une expression d’actions de grâces, une manière d’échapper à la tension émotive, une prévention de conflit, une exaltation de l’intellect... » (<a id="a47_920"></a>[LU 196:0.10](/fr/The_Urantia_Book/196#p0_10)) plus une liste supplémentaire de 12 autres attitudes de vérité qui semblent épuiser toute la gamme des réponses intérieures à un éventuel stimulus spirituel.
 
 Jésus était spirituellement en harmonie avec son Père céleste. Son esprit était très raffiné et bien adapté pour recevoir les signaux intérieurs les plus spécifiques de son Ajusteur (esprit intérieur) pour gérer un ensemble très diversifié de situations en Palestine et autour de la Méditerranée.
 
@@ -57,7 +81,7 @@ Notre harmonisation est _interactive_ dans le sens où un moi qui s'interroge et
 
 La vie intérieure est plus réelle lorsqu'elle est _créative_. Les produits les plus élevés de l’âme/esprit sont des surprises pour l’esprit, transcendant souvent ce que l’éducation, la culture ou les mœurs auraient prédit. L'auto-révélation peut être contraire aux croyances actuelles du médium, comme ce fut le cas avec la personne qui a servi de canal pour le texte hautement créatif, _Le Cours des Miracles_. Cette personne était un agnostique déclaré.
 
-L'harmonisation spirituelle implique une mise à l'écoute des courants les plus insaisissables de l'esprit. Les directives de l'Ajusteur de Pensée ne sont jamais imposées, et ces impulsions se perdent facilement dans les courants matériels de l'esprit. Nos premiers contacts peuvent être des expériences sensationnelles, qui peuvent même «... aveugler la créature...» ([LU 110:4.5](/fr/The_Urantia_Book/110#p4_5)), mais ces courants sont toujours mélangés à des émotions inférieures et à des tendances intellectuelles, tout comme le contenu de l'Ajusteur du la vie onirique est contaminée par « ... la pression d'émotions inexprimées... » et « ... des désirs inexprimés ». ([LU 110:5.4](/fr/The_Urantia_Book/110#p5_4))
+L'harmonisation spirituelle implique une mise à l'écoute des courants les plus insaisissables de l'esprit. Les directives de l'Ajusteur de Pensée ne sont jamais imposées, et ces impulsions se perdent facilement dans les courants matériels de l'esprit. Nos premiers contacts peuvent être des expériences sensationnelles, qui peuvent même «... aveugler la créature...» (<a id="a83_368"></a>[LU 110:4.5](/fr/The_Urantia_Book/110#p4_5)), mais ces courants sont toujours mélangés à des émotions inférieures et à des tendances intellectuelles, tout comme le contenu de l'Ajusteur du la vie onirique est contaminée par « ... la pression d'émotions inexprimées... » et « ... des désirs inexprimés ». (<a id="a83_673"></a>[LU 110:5.4](/fr/The_Urantia_Book/110#p5_4))
 
 Enfin, la vie intérieure est _synergique_. L'imagination est essentielle au développement de la foi ; la foi déploie toutes les facultés et tous les sens. La foi est une condition de la personne entière.
 
@@ -84,3 +108,28 @@ Le plus encourageant est le fait que ces programmes éducatifs, informatifs et d
 > _Byron a été journaliste et producteur de télévision et est maintenant consultant dans l'industrie des télécommunications._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Laurence/Significant_Books_Global_Responsibility_By_Hans_Kung">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres marquants : « Responsabilité mondiale : à la recherche d'une nouvelle éthique »</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1991">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1991 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jack_Rogers/Throwing_the_Spiritual_Baby_Out_With_the_Sexist_Bathwater">
+          <span class="pr-2">Jeter le bébé spirituel avec l'eau du bain sexiste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

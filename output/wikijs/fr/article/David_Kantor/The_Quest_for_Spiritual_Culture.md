@@ -9,15 +9,39 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 David A. Kantor<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/In_Plain_Speech">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : en langage clair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Meta_Values_Part_II">
+          <span class="pr-2">Méta-Valeurs II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
 
 **Citations clés des Cahiers d'Urantia :**
 
-> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ ([LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
+> _La religion a besoin de nouveaux dirigeants, d’hommes et de femmes spirituels qui oseront dépendre uniquement de Jésus et de ses incomparables enseignements. Si le christianisme persiste à négliger sa mission spirituelle tout en continuant à s’occuper des problèmes sociaux et matériels, il faudra que la renaissance spirituelle attende la venue de ces nouveaux instructeurs de la religion de Jésus qui se consacreront exclusivement à la régénération spirituelle des hommes. Alors, ces âmes nées d’esprit fourniront rapidement les directives et l’inspiration nécessaires à la réorganisation sociale, morale, économique et politique du monde._ (<a id="a41_647"></a>[LU 195:9.4](/fr/The_Urantia_Book/195#p9_4))
 
-> _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. Vérité, beauté et bonté sont des réalités divines et, à mesure que l’homme monte la gamme de la vie spirituelle, ces qualités suprêmes de l’Éternel se coordonnent et s’unifient de plus en plus en Dieu, qui est amour._ ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
+> _Le défi religieux de l’âge présent est lancé aux hommes et aux femmes spirituellement clairvoyants, prévoyants et tournés vers l’avenir, qui oseront construire une nouvelle et attrayante philosophie de vie émanant des concepts modernes de vérité cosmique, de beauté de l’univers et de bonté divine, amplifiés et intégrés avec charme. Une telle vision nouvelle et droite de la moralité attirera tout ce qui est bon dans le mental des hommes et jettera un défi à ce qu’il y a de meilleur dans leur âme. Vérité, beauté et bonté sont des réalités divines et, à mesure que l’homme monte la gamme de la vie spirituelle, ces qualités suprêmes de l’Éternel se coordonnent et s’unifient de plus en plus en Dieu, qui est amour._ (<a id="a43_723"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10))
 
 ## Bienvenue et aperçu
 
@@ -51,7 +75,7 @@ Le consensus général parmi les individus qui tentent d'étudier ces tendances 
 
 La plupart d'entre nous conviendraient que le _Livre d'Urantia_ fournit une telle vision. Mais comment appliquer les idées de ce livre aux problèmes de notre monde ? Comment passer de l’encre et du papier à une civilisation en progrès régie par la sagesse spirituelle ? Alors que les révélateurs nous ont généreusement fourni un aperçu complet du contexte cosmique dans lequel se déroule la lutte planétaire actuelle, le défi de l’application efficace de ces informations nous attend aujourd’hui.
 
-_Le Livre d'Urantia_ décrit la religion comme « le puissant levier qui élève la civilisation du chaos ». ([LU 70:8.18](/fr/The_Urantia_Book/70#p8_18)) Mais on nous dit aussi que la religion _institutionnelle_ « ne peut pas se permettre d’inspirer et de diriger cette reconstruction sociale mondiale imminente ». ([LU 99:2.1](/fr/The_Urantia_Book/99#p2_1)) On nous dit que « Seule la véritable religion de l’expérience spirituelle personnelle peut fonctionner de manière utile et créative dans la crise actuelle de la civilisation. »
+_Le Livre d'Urantia_ décrit la religion comme « le puissant levier qui élève la civilisation du chaos ». (<a id="a77_106"></a>[LU 70:8.18](/fr/The_Urantia_Book/70#p8_18)) Mais on nous dit aussi que la religion _institutionnelle_ « ne peut pas se permettre d’inspirer et de diriger cette reconstruction sociale mondiale imminente ». (<a id="a77_313"></a>[LU 99:2.1](/fr/The_Urantia_Book/99#p2_1)) On nous dit que « Seule la véritable religion de l’expérience spirituelle personnelle peut fonctionner de manière utile et créative dans la crise actuelle de la civilisation. »
 
 Et c'est cette « véritable religion de l'expérience spirituelle personnelle » ainsi que la représentation des idéaux de citoyenneté cosmique par le Livre d'Urantia qui recèlent un si grand espoir de transformation des institutions humaines. Avec ces concepts, le Livre d'Urantia présente un paradigme de spiritualité différent de celui de toute religion ou philosophie existante dans le monde aujourd'hui. Il relie le développement spirituel personnel à une intégration significative de la personnalité aboutissant à la fraternité de l'homme.
 
@@ -63,7 +87,7 @@ Dans le [Fascicule 103](/fr/The_Urantia_Book/103), un Melchisédek nous exhorte 
 
 Dans un échange aimant, bienveillant et « authentique » avec une autre personnalité, les fonctions supraconscientes de l’esprit sont mobilisées dans un état de réceptivité dynamique, ouverte à la découverte des valeurs divines que l’instant immédiat détient comme potentiels. Imaginez un instant que vous êtes engagé avec une autre personne dans le but de résoudre un problème. Vous recherchez sincèrement le meilleur résultat possible. En vous engageant dans cette discussion, vous essayez de faire de votre mieux ; vous essayez simultanément d’être conscient des valeurs morales et éthiques de la situation. Vous essayez de formuler votre communication de manière bienveillante et aimante. L’interaction est libre de tout effort de manipulation psychologique ou émotionnelle de l’autre. Lorsque vous communiquez, vous essayez de rester « conscient de la conscience » – vous avez mobilisé vos meilleures ressources et, tout en les appliquant, vous continuez à évaluer activement – en cherchant à discerner des valeurs encore plus élevées. Vous pouvez même atteindre un niveau d'implication où vous cherchez activement à apporter une compréhension de la volonté du Père dans l'interaction – vous partagez la vie intérieure avec Dieu en participant à cette relation.
 
-Cette expérience, dans laquelle la personnalité s'engage dans une danse de choix avec les significations et les valeurs du cosmos, est le processus vivant par lequel nous nous ouvrons à la direction spirituelle. Les Médians commentent : « Chaque fois qu’un homme fait un choix moral réfléchi, il fait immédiatement l’expérience d’une nouvelle invasion divine de son âme. » ([LU 196:3.20](/fr/The_Urantia_Book/196#p3_20)) Les valeurs spirituelles n'existent pas indépendamment du processus d'interaction avec la personnalité. C’est dans ce processus vivant de relation que les fruits de l’esprit apparaissent. C’est là que nous appliquons les niveaux supérieurs de la règle d’or. C'est là que nous mettons en œuvre le grand commandement de Jésus. C'est là que la fraternité du royaume de Jésus est découverte de manière expérientielle. _C'est le paradigme de la spiritualité que les apôtres n'ont pas réussi à saisir_.
+Cette expérience, dans laquelle la personnalité s'engage dans une danse de choix avec les significations et les valeurs du cosmos, est le processus vivant par lequel nous nous ouvrons à la direction spirituelle. Les Médians commentent : « Chaque fois qu’un homme fait un choix moral réfléchi, il fait immédiatement l’expérience d’une nouvelle invasion divine de son âme. » (<a id="a89_374"></a>[LU 196:3.20](/fr/The_Urantia_Book/196#p3_20)) Les valeurs spirituelles n'existent pas indépendamment du processus d'interaction avec la personnalité. C’est dans ce processus vivant de relation que les fruits de l’esprit apparaissent. C’est là que nous appliquons les niveaux supérieurs de la règle d’or. C'est là que nous mettons en œuvre le grand commandement de Jésus. C'est là que la fraternité du royaume de Jésus est découverte de manière expérientielle. _C'est le paradigme de la spiritualité que les apôtres n'ont pas réussi à saisir_.
 
 Et je demande aujourd’hui : « Est-ce que nous comprenons ? Avons-nous vraiment acquis une meilleure compréhension que les apôtres des implications profondes des enseignements de Jésus sur le royaume des cieux ? Dans le [Fascicule 170](/fr/The_Urantia_Book/170), les Médians commentent que « à ses apôtres, Jésus a toujours enseigné le royaume comme englobant l'expérience personnelle de l'homme en relation avec ses semblables sur terre et avec le Père céleste. » « Le royaume des cieux, a déclaré Jésus, est une relation spirituelle entre Dieu et l’homme. »
 
@@ -71,7 +95,7 @@ Compte tenu de ce paradigme de spiritualité et de la difficulté de l’apôtre
 
 > _Les valeurs spirituelles n'existent pas indépendamment du processus d'interaction de la personnalité. C’est dans ce processus vivant de relation que les fruits de l’esprit apparaissent. C’est là que nous appliquons les niveaux supérieurs de la règle d’or. C'est là que nous mettons en œuvre le grand commandement de Jésus. C'est là que la fraternité du royaume de Jésus est découverte par l'expérience. C'est le paradigme de la spiritualité que les apôtres n'ont pas réussi à saisir._
 
-Le Maître a dit à l'occasion de ce premier souvenir : « Toute âme qui atteint la réalisation de cette nature unie de Dieu et de l'homme vivra éternellement. Et ce pain de vie que je donne à tous ceux qui le recevront est ma propre nature vivante et combinée. Le Père dans le Fils et le Fils un avec le Père : telle est ma révélation vivifiante au monde et mon don salvateur à toutes les nations. ([LU 153:2.12](/fr/The_Urantia_Book/153#p2_12)) Dans le contexte du souper du souvenir, nos âmes peuvent ressentir de manière expérientielle l'état spirituel d'intégration de la personnalité qui, selon le Livre d'Urantia, doit être actualisé en tant que réalité culturelle à grande échelle.
+Le Maître a dit à l'occasion de ce premier souvenir : « Toute âme qui atteint la réalisation de cette nature unie de Dieu et de l'homme vivra éternellement. Et ce pain de vie que je donne à tous ceux qui le recevront est ma propre nature vivante et combinée. Le Père dans le Fils et le Fils un avec le Père : telle est ma révélation vivifiante au monde et mon don salvateur à toutes les nations. (<a id="a97_397"></a>[LU 153:2.12](/fr/The_Urantia_Book/153#p2_12)) Dans le contexte du souper du souvenir, nos âmes peuvent ressentir de manière expérientielle l'état spirituel d'intégration de la personnalité qui, selon le Livre d'Urantia, doit être actualisé en tant que réalité culturelle à grande échelle.
 
 Un Melchisédek fait référence au souper du souvenir comme « la pratique de la présence de Dieu qui aboutit à l’émergence de la fraternité des hommes ». Les Médians commentent qu'en établissant ce sacrement, « le Maître a cherché à libérer l'âme renaissante de l'homme sur les ailes joyeuses d'une liberté spirituelle nouvelle et vivante ».
 
@@ -99,9 +123,9 @@ En essayant d'avoir une idée utile de ce qu'implique la coopération avec les r
 
 Alors, comment fonctionnent les séraphins ? Dans le [Fascicule 113](/fr/The_Urantia_Book/103), on nous dit qu'ils sont des « stimulateurs de l'esprit », cherchant continuellement à promouvoir la prise de décisions en cercle dans l'esprit mortel ; qu’ils « opèrent de l’extérieur vers l’intérieur, en travaillant à travers l’environnement social, éthique et moral des êtres humains ». Ce réseau de relations interpersonnelles spiritualisantes est réel. Il forme un environnement morontiel dans lequel les séraphins sont capables de s'occuper des esprits et des âmes participants.
 
-Dans le [Fascicule 196](/fr/The_Urantia_Book/196), on nous rappelle que « l'esprit humain ne crée pas de vraies valeurs ; l’expérience humaine ne donne pas un aperçu de l’univers. Concernant la perspicacité, la reconnaissance des valeurs morales et le discernement des significations spirituelles, tout ce que l’esprit humain peut faire est de découvrir, reconnaître, interpréter et choisir. ([LU 196:3.10](/fr/The_Urantia_Book/196#p3_10)) Ce sont les Séraphins qui rendent les valeurs spirituelles « visibles » au superconscient, telles qu'elles fonctionnent dans l'environnement social, éthique et moral de la communion interpersonnelle.
+Dans le [Fascicule 196](/fr/The_Urantia_Book/196), on nous rappelle que « l'esprit humain ne crée pas de vraies valeurs ; l’expérience humaine ne donne pas un aperçu de l’univers. Concernant la perspicacité, la reconnaissance des valeurs morales et le discernement des significations spirituelles, tout ce que l’esprit humain peut faire est de découvrir, reconnaître, interpréter et choisir. (<a id="a125_393"></a>[LU 196:3.10](/fr/The_Urantia_Book/196#p3_10)) Ce sont les Séraphins qui rendent les valeurs spirituelles « visibles » au superconscient, telles qu'elles fonctionnent dans l'environnement social, éthique et moral de la communion interpersonnelle.
 
-Dans _Le Livre d'Urantia_ nous sommes encouragés à prier pour les valeurs ; on nous dit que de telles prières indiquent que la religion a « évolué jusqu'à un niveau où l'esprit humain reconnaît la réalité de pouvoirs ou d'êtres bienfaisants qui sont capables de renforcer les valeurs sociales et d'augmenter les idéaux moraux... » ([LU 91:1.4](/fr/The_Urantia_Book/91#p1_4)) Du ministère des Puissants Supernaphim Primaires qui facilitent les relations entre les divers résidents du Paradis, aux Séconaphim Primaires, qui facilitent les relations entre les Anciens des Jours, la Trinité et les Fils Créateurs, jusqu'aux Séraphins de la Maison, qui fonctionnent au sein des relations entre les membres de votre famille, le ministère de l’Esprit Infini favorise continuellement les potentiels de valeur inhérents aux associations de personnalité.
+Dans _Le Livre d'Urantia_ nous sommes encouragés à prier pour les valeurs ; on nous dit que de telles prières indiquent que la religion a « évolué jusqu'à un niveau où l'esprit humain reconnaît la réalité de pouvoirs ou d'êtres bienfaisants qui sont capables de renforcer les valeurs sociales et d'augmenter les idéaux moraux... » (<a id="a127_332"></a>[LU 91:1.4](/fr/The_Urantia_Book/91#p1_4)) Du ministère des Puissants Supernaphim Primaires qui facilitent les relations entre les divers résidents du Paradis, aux Séconaphim Primaires, qui facilitent les relations entre les Anciens des Jours, la Trinité et les Fils Créateurs, jusqu'aux Séraphins de la Maison, qui fonctionnent au sein des relations entre les membres de votre famille, le ministère de l’Esprit Infini favorise continuellement les potentiels de valeur inhérents aux associations de personnalité.
 
 Ces relations – nos premières connexions vivantes avec le cosmos infini – sont des affaires fragiles et ténues qui oscillent de la réalité à l’irréalité en fonction de la qualité des valeurs mises en œuvre dans une interaction donnée. C’est l’arène dans laquelle les séraphins travaillent à renforcer les moindres étincelles de foi, à fortifier les âmes nouvellement émergentes et à commencer immédiatement à les intégrer à la culture du cosmos spirituel.
 
@@ -118,9 +142,9 @@ Comment soutenons-nous leur travail ? Six points d'action rapides :
 5. Nous jetons les bases d’une action séraphique renforcée lorsque nous fournissons des informations spirituellement utiles. Faites diffuser le _Livre d'Urantia_ sur toute la planète ! Souvenez-vous de la parabole du semeur dans le fascicule 151. Jésus a dit que cette parabole était une allusion à ce à quoi les messagers du royaume pouvaient s'attendre dans leur ministère de génération en génération au fil du temps. Maximisez toutes les opportunités et ressources disponibles pour la diffusion de la révélation. N'attendez pas que les choses arrivent, faites-les se produire.
 6. Impliquez-vous ; participer de manière créative aux associations humaines. Consacrez-vous à nouveau au service de votre mariage et de votre famille, de votre communauté de travail et de votre groupe d'étude. L’icône culturelle du saint monastique vivant dans un bonheur contemplatif, à l’écart des soucis des gens moins éclairés, n’est plus utile. Mère Theresa, Dag Hammersjold, Vaclav Havel, d'innombrables hommes et femmes aux idéaux élevés, travaillant dans les centres-villes, dans les salles de classe, dans les églises, luttant pour revitaliser nos institutions — tels sont les nouvelles icônes de la spiritualité appliquée de la cinquième époque. Le virus bénin de l’amour ne va pas envahir le flux d’émotions sentimentales de l’humanité à moins que nous ne soyons là pour aider à établir les liens de personnalité nécessaires à sa transmission.
 
-En nous consacrant à un tel programme, en choisissant les valeurs les plus élevées que nous pouvons reconnaître dans une situation donnée, nous pouvons servir de conduits par lesquels les valeurs supérieures du monde spirituel peuvent être transmises au monde des mortels et incorporées dans les institutions planétaires. « La vraie religion », nous dit un Melchisédek, « est le dévouement de soi au service de valeurs significatives et suprêmes ». ([LU 92:7.5](/fr/The_Urantia_Book/92#p7_5))
+En nous consacrant à un tel programme, en choisissant les valeurs les plus élevées que nous pouvons reconnaître dans une situation donnée, nous pouvons servir de conduits par lesquels les valeurs supérieures du monde spirituel peuvent être transmises au monde des mortels et incorporées dans les institutions planétaires. « La vraie religion », nous dit un Melchisédek, « est le dévouement de soi au service de valeurs significatives et suprêmes ». (<a id="a144_450"></a>[LU 92:7.5](/fr/The_Urantia_Book/92#p7_5))
 
-Cette vision est ennoblissante ; c’est responsabilisant. Votre famille, le conseil scolaire local dans lequel vous travaillez, l'équipe de football de vos enfants, le groupe de jeunes de votre église, le groupe de travail de votre bureau - lorsque vous réalisez que ce sont tous des domaines dans lesquels les séraphins travaillent pour réaliser une transformation spirituelle, les tâches les plus banales de la vie quotidienne prennent une signification cosmique et deviennent dignes de nos meilleurs efforts. C’est ainsi que la religion de l’expérience spirituelle personnelle peut devenir «  le puissant levier qui élève la civilisation au-dessus du chaos ». ([LU 70:8.18](/fr/The_Urantia_Book/70#p8_18))
+Cette vision est ennoblissante ; c’est responsabilisant. Votre famille, le conseil scolaire local dans lequel vous travaillez, l'équipe de football de vos enfants, le groupe de jeunes de votre église, le groupe de travail de votre bureau - lorsque vous réalisez que ce sont tous des domaines dans lesquels les séraphins travaillent pour réaliser une transformation spirituelle, les tâches les plus banales de la vie quotidienne prennent une signification cosmique et deviennent dignes de nos meilleurs efforts. C’est ainsi que la religion de l’expérience spirituelle personnelle peut devenir «  le puissant levier qui élève la civilisation au-dessus du chaos ». (<a id="a146_663"></a>[LU 70:8.18](/fr/The_Urantia_Book/70#p8_18))
 
 ## Conclusion
 
@@ -136,5 +160,30 @@ Puisse l'appel à la haute aventure contenu dans _Le Livre d'Urantia_, cet appel
 
 > _David Kantor est un concepteur de logiciels informatiques utilisés pour la gestion des réseaux de communication voix et données d'entreprise. Il est étudiant du_ Livre d'Urantia _depuis plus de trente ans et est le gestionnaire du site Web de la Fellowship._
 
-> _C’est précisément parce que l’évangile de Jésus présentait tant d’aspects différents qu’en l’espace de quelques siècles, ceux qui étudièrent les récits de ses enseignements se divisèrent en tant de cultes et de sectes. Cette pitoyable subdivision des croyants chrétiens résulte de leur incapacité de discerner, dans les aspects multiples des enseignements du Maitre, la divine unité de sa vie incomparable. Mais il viendra un jour où les vrais croyants en Jésus ne seront pas spirituellement divisés de la sorte dans leur attitude devant les incroyants. Nous pouvons toujours avoir une diversité de compréhension et d’interprétation intellectuelles, et même divers degrés de socialisation, mais le défaut de fraternité spirituelle est à la fois inexcusable et répréhensible._ ([LU 170:5.20](/fr/The_Urantia_Book/170#p5_20))
+> _C’est précisément parce que l’évangile de Jésus présentait tant d’aspects différents qu’en l’espace de quelques siècles, ceux qui étudièrent les récits de ses enseignements se divisèrent en tant de cultes et de sectes. Cette pitoyable subdivision des croyants chrétiens résulte de leur incapacité de discerner, dans les aspects multiples des enseignements du Maitre, la divine unité de sa vie incomparable. Mais il viendra un jour où les vrais croyants en Jésus ne seront pas spirituellement divisés de la sorte dans leur attitude devant les incroyants. Nous pouvons toujours avoir une diversité de compréhension et d’interprétation intellectuelles, et même divers degrés de socialisation, mais le défaut de fraternité spirituelle est à la fois inexcusable et répréhensible._ (<a id="a162_780"></a>[LU 170:5.20](/fr/The_Urantia_Book/170#p5_20))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/In_Plain_Speech">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : en langage clair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Meta_Values_Part_II">
+          <span class="pr-2">Méta-Valeurs II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

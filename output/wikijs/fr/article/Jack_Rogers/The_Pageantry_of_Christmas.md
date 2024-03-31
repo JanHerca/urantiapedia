@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1992 Jack Rogers<br>© 1992 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le CyberChrist émergent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today">
+          <span class="pr-2">Les Psaumes aujourd'hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **MUSIQUE DANS LE CULTE**
@@ -38,3 +62,28 @@ Tout d'abord, nous devons reconnaître qu'il est difficile de reconstituer l'his
 
 Heureusement, les informations contenues dans _Le Livre d'Urantia_ nous présentent la possibilité d'une alternative créative. Cela nous dit que Jésus est né le 21 août, la période de l’année selon laquelle certains érudits ont émis l’hypothèse que sa naissance a eu lieu. Cette date nous donne l'occasion de développer une célébration qui se concentrerait sur le sens spirituel de l'Incarnation : la paternité de Dieu et la fraternité des hommes. Quelle ouverture fortuite cela pourrait être pour mettre en lumière le message central de la mission de Jésus dans notre monde ! Voici le fondement du plus grand apparat possible de l'Avent : la présence de Dieu dans notre monde !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/The_Emergent_CyberChrist">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le CyberChrist émergent</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today">
+          <span class="pr-2">Les Psaumes aujourd'hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

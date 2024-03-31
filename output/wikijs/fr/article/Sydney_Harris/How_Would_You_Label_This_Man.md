@@ -1,5 +1,5 @@
 ---
-title : « Comment qualifieriez-vous cet homme ? »
+title: "« Comment qualifieriez-vous cet homme ? »"
 description: 
 published: true
 date: 2022-9-9T8:13:39Z

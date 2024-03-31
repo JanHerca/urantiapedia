@@ -9,14 +9,38 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Meredith Sprunger<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Être sage comme des serpents, inoffensif comme des colombes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Ambiguities_of_UB">
+          <span class="pr-2">Ambiguïtés du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Notre responsabilité majeure dans le mouvement Urantia, à mon avis, est de diffuser la Cinquième Révélation d’Époque à travers notre monde. Les auteurs du _Le Livre d'Urantia_ projettent deux lieux dans lesquels cela aura lieu :
 
-1. _En établissant de nouveaux groupes religieux_. « Quels que soient les inconvénients et les handicaps, chaque nouvelle révélation de la vérité a donné naissance à un nouveau culte, et même la réaffirmation de la religion de Jésus doit développer un symbolisme nouveau et approprié... Le nouveau culte doit résulter de la mise en œuvre de l’amour. Comme les anciens, il doit encourager les sentiments, satisfaire les émotions et promouvoir la fidélité, mais il doit faire davantage. Il faut qu’il facilite les progrès spirituels ; qu’il rehausse les significations cosmiques, augmente les valeurs morales, encourage le développement social et stimule un type élevé de vie religieuse personnelle. » ([LU 87:7.7](/fr/The_Urantia_Book/87#p7_7))
-2. _En faisant lever les religions traditionnelles, une attention particulière est dirigée vers le christianisme_. « Tout Urantia attend que l’on proclame le message ennoblissant de Micaël, débarrassé des dogmes et doctrines accumulés au cours de dix-neuf siècles de contact avec les religions d’origine évolutionnaire. L’heure a sonné de présenter au bouddhisme, au christianisme, à l’hindouisme et même aux peuples de toutes les religions, non pas l’évangile à propos de Jésus, mais la réalité vivante et spirituelle de l’évangile de Jésus. » ([LU 94:12.7](/fr/The_Urantia_Book/94#p12_7))
+1. _En établissant de nouveaux groupes religieux_. « Quels que soient les inconvénients et les handicaps, chaque nouvelle révélation de la vérité a donné naissance à un nouveau culte, et même la réaffirmation de la religion de Jésus doit développer un symbolisme nouveau et approprié... Le nouveau culte doit résulter de la mise en œuvre de l’amour. Comme les anciens, il doit encourager les sentiments, satisfaire les émotions et promouvoir la fidélité, mais il doit faire davantage. Il faut qu’il facilite les progrès spirituels ; qu’il rehausse les significations cosmiques, augmente les valeurs morales, encourage le développement social et stimule un type élevé de vie religieuse personnelle. » (<a id="a39_701"></a>[LU 87:7.7](/fr/The_Urantia_Book/87#p7_7))
+2. _En faisant lever les religions traditionnelles, une attention particulière est dirigée vers le christianisme_. « Tout Urantia attend que l’on proclame le message ennoblissant de Micaël, débarrassé des dogmes et doctrines accumulés au cours de dix-neuf siècles de contact avec les religions d’origine évolutionnaire. L’heure a sonné de présenter au bouddhisme, au christianisme, à l’hindouisme et même aux peuples de toutes les religions, non pas l’évangile à propos de Jésus, mais la réalité vivante et spirituelle de l’évangile de Jésus. » (<a id="a40_546"></a>[LU 94:12.7](/fr/The_Urantia_Book/94#p12_7))
 
-> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> Mais le christianisme paganisé et socialisé a besoin d’un nouveau contact avec les enseignements sans compromis de Jésus ; il languit faute d’une vision neuve de la vie du Maitre sur terre. Une révélation nouvelle et plus complète de la religion de Jésus est destinée à triompher d’un empire de laïcisme matérialiste et à renverser un courant mondial de naturalisme mécaniste. Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. (<a id="a42_555"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
 ## La résistance historique à la nouvelle révélation
 
@@ -26,7 +50,7 @@ Ma propre expérience confirme cette observation historique. Quand j'ai lu pour 
 
 J'ai intentionnellement suivi le modèle du ministère de Jésus. Au début de son ministère public, il s'est adressé au leader le plus éminent du judaïsme, Annas, dans l'espoir d'interagir avec les dirigeants du judaïsme. Même s’il rencontrait de la froideur, Jésus continuait son ministère, lorsque cela était possible, dans les synagogues du judaïsme. Le manque de réceptivité de la structure du pouvoir du Judaïsme a rendu nécessaire la conduite d’un ministère indépendant pour diffuser la Quatrième Révélation d’Époque.
 
-Depuis plus de quarante ans, j’ai mené un ministère d’interface avec les dirigeants du christianisme principal. Ce ministère est détaillé dans un article intitulé « Une histoire personnelle du ministère d'interface » qui comprend la prise de contact avec des professeurs de théologie dans 85 séminaires appartenant à l'Association américaine des écoles de théologie, l'envoi de 8 000 lettres personnelles aux ministres de l'Église Unie du Christ offrant un livre de prêt, contactant 5 000 membres de l'American Philosophical Association en les invitant à des recherches critiques sur _Le Livre d'Urantia_, présentant l'article « _Le Livre d'Urantia_ et les études religieuses » à la réunion nationale de l'Académie américaine des religions en 1985, publiant _The Spiritual Fellowship Journal_ pendant six ans qui a fait l'interface entre le _Le Livre d'Urantia_ et le clergé chrétien traditionnel et a été distribué à tous les ministres de l'Église Unie du Christ, aux Disciples du Christ, aux ministres de l'Unité et au clergé Méthodiste Uni de l'Indiana.
+Depuis plus de quarante ans, j’ai mené un ministère d’interface avec les dirigeants du christianisme principal. Ce ministère est détaillé dans un article intitulé « Une histoire personnelle du ministère d'interface » qui comprend la prise de contact avec des professeurs de théologie dans 85 séminaires appartenant à l'Association américaine des écoles de théologie, l'envoi de 8 000 lettres personnelles aux ministres de l'Église Unie du Christ offrant un livre de prêt, contactant 5 000 membres de l'American Philosophical Association en les invitant à des recherches critiques sur _Le Livre d'Urantia_, présentant l'article « _Le Livre d'Urantia_ et les études religieuses » à la réunion nationale de l'Académie américaine des religions en 1985, publiant _Journal de la Fraternité Spirituelle_ pendant six ans qui a fait l'interface entre le _Le Livre d'Urantia_ et le clergé chrétien traditionnel et a été distribué à tous les ministres de l'Église Unie du Christ, aux Disciples du Christ, aux ministres de l'Unité et au clergé Méthodiste Uni de l'Indiana.
 
 > _Même les dirigeants les plus progressistes de l'Église chrétienne ont trop d'enjeux pour envisager sérieusement de s'impliquer dans la Cinquième Révélation d'Époque. Il faudra probablement des générations avant que _Le Livre d'Urantia_ soit reconnu comme une ressource acceptable pour la prédication et l'enseignement dans l'Église chrétienne._
 
@@ -64,3 +88,28 @@ Tout comme il a fallu près de 1 800 ans de développement évolutif pour préci
 > _Meredith Sprunger est enseignante et ministre de l'Église Unie du Christ, aujourd'hui à la retraite, et rédactrice en chef du Spiritual Fellowship Journal_.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rebecca_Kantor/To_be_Wise_as_Serpents_Harmless_as_Doves">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Être sage comme des serpents, inoffensif comme des colombes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Ambiguities_of_UB">
+          <span class="pr-2">Ambiguïtés du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

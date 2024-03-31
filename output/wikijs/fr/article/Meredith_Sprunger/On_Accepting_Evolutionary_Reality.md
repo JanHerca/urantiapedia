@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Meredith Sprunger<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Gender_Problems">
+          <span class="pr-2">Problèmes de genre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 De notre point de vue de 2000 ans d'histoire, il nous est difficile de comprendre l'hostilité dont les pharisiens et les sadducéens ont fait preuve envers le message de Jésus. Nous avons tendance à oublier la force de la tradition et des structures institutionnelles du pouvoir. Si nous gardons à l’esprit ces dynamiques évolutives, il nous est plus facile de comprendre à la fois leur réaction et notre situation contemporaine.
@@ -28,3 +52,28 @@ Les pionniers, les 1 % qu'Abraham Maslow décrit comme les innovateurs, ouvrent 
 
 Tandis qu'un lent levain évolutif a lieu dans les anciennes institutions, de nouvelles institutions religieuses émergeront sans aucun doute pour apporter au monde les connaissances spirituelles améliorées et élargies du Livre d'Urantia. En tant que personnes qui aiment l'Église et aspirent à sa revitalisation, nous espérons que l'orientation progressive de nombreux membres du christianisme principal permettra à l'Église de découvrir le message éclairant et renouvelant du _Le Livre d'Urantia_ dans un temps beaucoup plus court que celui requis pour le rajeunissement spirituel. des institutions religieuses dans le passé.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Issue_Content_volume3_no2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Journal de la Fraternité Spirituelle — Contenu du numéro, automne 1993</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Gender_Problems">
+          <span class="pr-2">Problèmes de genre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

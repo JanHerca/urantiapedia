@@ -9,11 +9,32 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Larry Mullins<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'avenir de la cinquième révélation d'époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> « Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle et n’hésiteraient pas à aller jusqu’au bout dans cette grande aventure. » ([LU 195:10.10](/fr/The_Urantia_Book/195#p10_10))
 
-> « Seule la vraie religion d’expérience spirituelle personnelle peut fonctionner utilement et créativement dans la présente crise de la civilisation. » ([LU 99:2.1](/fr/The_Urantia_Book/99#p2_1))
+> « Si l’Église chrétienne osait seulement adopter le programme du Maitre, des milliers de jeunes, apparemment indifférents, se précipiteraient pour s’enrôler dans une telle entreprise spirituelle et n’hésiteraient pas à aller jusqu’au bout dans cette grande aventure. » (<a id="a34_272"></a>[LU 195:10.10](/fr/The_Urantia_Book/195#p10_10))
+
+> « Seule la vraie religion d’expérience spirituelle personnelle peut fonctionner utilement et créativement dans la présente crise de la civilisation. » (<a id="a36_154"></a>[LU 99:2.1](/fr/The_Urantia_Book/99#p2_1))
 
 Le potentiel religieux le plus puissant et le plus attrayant qui ait jamais existé sur cette planète, et le plus grand cadeau jamais fait aux hommes et aux femmes, a été très lent à se développer. On nous dit dans les Cahiers d'Urantia que le domaine le plus fertile pour l'évangélisation est celui des jeunes. Pour les Urantiens qui ne sont pas profondément expérimentés dans l’évangélisation personnelle (et j’en fais partie), ce type d’évangélisation offre une atmosphère amicale et douce.
 
@@ -27,3 +48,25 @@ Un ou plusieurs articles ou documents bien rédigés sur le thème de la créati
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/The_Future_of_Fifth_Epochal_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'avenir de la cinquième révélation d'époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

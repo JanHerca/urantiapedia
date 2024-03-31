@@ -33,7 +33,7 @@ Les actes moraux sont ces performances humaines caractérisées par la plus haut
 
 La vertu suprême est donc de choisir de tout cœur de faire la volonté du Père céleste. ([Document 16, Section 7](/fr/The_Urantia_Book/16#_par))
 
-> les hommes meurent en cherchant le Dieu qui habite pourtant en eux. ([LU 159:3.8](/fr/The_Urantia_Book/159#p3_8))
+> les hommes meurent en cherchant le Dieu qui habite pourtant en eux. (<a id="a35_71"></a>[LU 159:3.8](/fr/The_Urantia_Book/159#p3_8))
 
 ## Liens externes
 

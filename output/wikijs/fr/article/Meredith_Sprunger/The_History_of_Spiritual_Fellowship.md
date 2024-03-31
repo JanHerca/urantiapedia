@@ -9,29 +9,53 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Dr. Meredith J. Sprunger<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscient d'un meilleur choix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="pr-2">Mystères quantiques et Cahiers d'Urantia, Partie I de II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> « _Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ » ([LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
 
-> « _La religion de l’esprit signifie effort, lutte, conflit, foi, détermination, amour, loyauté et progrès._ » ([LU 155:5.11](/fr/The_Urantia_Book/155#p5_11))
+> « _Si vous n’êtes pas un évangéliste positif et missionnaire de votre religion, vous vous trompez vous-même en ce sens que ce que vous appelez religion est seulement une croyance traditionnelle ou un simple système de philosophie intellectuelle._ » (<a id="a37_252"></a>[LU 160:5.3](/fr/The_Urantia_Book/160#p5_3))
+
+> « _La religion de l’esprit signifie effort, lutte, conflit, foi, détermination, amour, loyauté et progrès._ » (<a id="a39_113"></a>[LU 155:5.11](/fr/The_Urantia_Book/155#p5_11))
 
 J'ai toujours su que _Le Livre d'Urantia_ inspirerait de nouvelles organisations religieuses. La Spiritual Fellowship semble être la première de ces nouvelles organisations religieuses qui cherche à fonder intentionnellement une communauté basée sur le culte, la croissance spirituelle personnelle, la sensibilisation et l'évangélisation, des choses que nous avons traditionnellement associées à une église, une synagogue ou une mosquée. Sa gestation a duré quarante-cinq ans. Le Dr Sadler et moi avions l'habitude de discuter de la nature probable des organisations religieuses inspirées par la Cinquième Révélation d'Époque. Nous avons observé que les auteurs des Cahiers d'Urantia parlaient de la nécessité d'une nouvelle organisation religieuse.
 
-> « _Bien que le culte ait toujours retardé le progrès social, il est regrettable que tant de contemporains, croyant aux critères moraux et aux idéaux spirituels, n’aient pas de symbolisme approprié — pas de culte pour se soutenir mutuellement — rien à quoi ils puissent appartenir._ » ([LU 87:7.3](/fr/The_Urantia_Book/87#p7_3))
+> « _Bien que le culte ait toujours retardé le progrès social, il est regrettable que tant de contemporains, croyant aux critères moraux et aux idéaux spirituels, n’aient pas de symbolisme approprié — pas de culte pour se soutenir mutuellement — rien à quoi ils puissent appartenir._ » (<a id="a43_287"></a>[LU 87:7.3](/fr/The_Urantia_Book/87#p7_3))
 
-> « _Il est difficile à une religion de survivre en tant que pratique personnelle d’individus isolés. Les chefs religieux ont toujours commis l’erreur suivante : apercevant les maux de la religion institutionnelle, ils cherchent à détruire la technique de fonctionnement collectif. Au lieu de détruire tout le rituel, ils feraient mieux de le réformer._ » ([LU 97:10.7](/fr/The_Urantia_Book/97#p10_7))
+> « _Il est difficile à une religion de survivre en tant que pratique personnelle d’individus isolés. Les chefs religieux ont toujours commis l’erreur suivante : apercevant les maux de la religion institutionnelle, ils cherchent à détruire la technique de fonctionnement collectif. Au lieu de détruire tout le rituel, ils feraient mieux de le réformer._ » (<a id="a45_357"></a>[LU 97:10.7](/fr/The_Urantia_Book/97#p10_7))
 
-> « _Il est exact que, si l’on fait de la religion une institution, on porte généralement atteinte à sa qualité spirituelle, mais il faut bien constater aussi le fait que nulle religion n’a jusqu’ici réussi à survivre sans l’aide d’une organisation institutionnelle plus ou moins poussée._ » ([LU 98:6.1](/fr/The_Urantia_Book/98#p6_1))
+> « _Il est exact que, si l’on fait de la religion une institution, on porte généralement atteinte à sa qualité spirituelle, mais il faut bien constater aussi le fait que nulle religion n’a jusqu’ici réussi à survivre sans l’aide d’une organisation institutionnelle plus ou moins poussée._ » (<a id="a47_293"></a>[LU 98:6.1](/fr/The_Urantia_Book/98#p6_1))
 
-> « _Quels que soient les inconvénients et les handicaps, chaque nouvelle révélation de la vérité a donné naissance à un nouveau culte, et même la reformulation de la religion de Jésus doit développer un nouveau symbolisme adéquat._ » ([LU 87:7.6](/fr/The_Urantia_Book/87#p7_6))
+> « _Quels que soient les inconvénients et les handicaps, chaque nouvelle révélation de la vérité a donné naissance à un nouveau culte, et même la reformulation de la religion de Jésus doit développer un nouveau symbolisme adéquat._ » (<a id="a49_236"></a>[LU 87:7.6](/fr/The_Urantia_Book/87#p7_6))
 
-> « _Il y a un but réel dans la socialisation de la religion. Les activités religieuses collectives ont pour but de mettre en scène la fidélité envers la religion ; de magnifier les attraits de la vérité, de la beauté et de la bonté ; d’entretenir l’attirance des valeurs suprêmes ; d’amplifier le service de fraternité désintéressé ; de glorifier les potentiels de la vie de famille ; de promouvoir l’éducation religieuse ; de fournir de sages conseils et des directives spirituelles et d’encourager le culte en commun. Toutes les religions vivantes encouragent l’amitié humaine, préservent la moralité, favorisent le bienêtre du voisinage et facilitent la diffusion de l’évangile essentiel de leurs messages respectifs de salut éternel._ » ([LU 99:6.2](/fr/The_Urantia_Book/99#p6_2))
+> « _Il y a un but réel dans la socialisation de la religion. Les activités religieuses collectives ont pour but de mettre en scène la fidélité envers la religion ; de magnifier les attraits de la vérité, de la beauté et de la bonté ; d’entretenir l’attirance des valeurs suprêmes ; d’amplifier le service de fraternité désintéressé ; de glorifier les potentiels de la vie de famille ; de promouvoir l’éducation religieuse ; de fournir de sages conseils et des directives spirituelles et d’encourager le culte en commun. Toutes les religions vivantes encouragent l’amitié humaine, préservent la moralité, favorisent le bienêtre du voisinage et facilitent la diffusion de l’évangile essentiel de leurs messages respectifs de salut éternel._ » (<a id="a51_743"></a>[LU 99:6.2](/fr/The_Urantia_Book/99#p6_2))
 
 ## Événements en arrière-plan
 
 Quand j'ai fini de lire _Le Livre d'Urantia_ en 1956, j'ai reconnu que ses enseignements supérieurs étaient très proches des positions théologiques des principaux penseurs à la pointe du christianisme. J'ai vu la Cinquième Révélation d'époque comme le grand espoir d'une revitalisation de la foi chrétienne. Il semble que les médians dans la _Vie et les Enseignements de Jésus_ tentent de surpasser le christianisme.
 
-J'ai donc cherché à suivre le modèle du ministère de Jésus. Au début de son ministère public, Jésus se rendit auprès d’Anne, le dirigeant le plus éminent du judaïsme, dans l’espoir de communiquer avec les dirigeants du judaïsme. Il a continué son ministère dans les synagogues du judaïsme chaque fois que cela était possible. De la même manière, j'ai contacté de nombreux théologiens éminents dans 85 séminaires appartenant à l'_American Association of Theological Schools_. Entre 10 000 et 15 000 lettres personnelles proposant des livres de prêt ont été envoyées aux ministres de l'_Église Unie du Christ_, de l'_Église Méthodiste Unie_, des _Disciples du Christ_ et des ministres de l'_Unité_, et 5 000 lettres ont été envoyées aux membres de l'_American Philosophical Association_. Nous avons présenté l'article « _Le Livre d'Urantia et les études religieuses_ » à la réunion nationale de l'_American Academy of Religion_ et publié _The Spiritual Fellowship Journal_ en interface avec les principaux ministres chrétiens. Nous avons fait des présentations du _Livre d'Urantia_ à des groupes ministériels, à des classes universitaires et à des groupes d'églises individuels. Après plus de quarante ans d’interaction avec les dirigeants chrétiens et les laïcs, il est évident qu’il faudra beaucoup de temps avant que les dirigeants du christianisme n’examinent sérieusement les Cahiers d’Urantia.
+J'ai donc cherché à suivre le modèle du ministère de Jésus. Au début de son ministère public, Jésus se rendit auprès d’Anne, le dirigeant le plus éminent du judaïsme, dans l’espoir de communiquer avec les dirigeants du judaïsme. Il a continué son ministère dans les synagogues du judaïsme chaque fois que cela était possible. De la même manière, j'ai contacté de nombreux théologiens éminents dans 85 séminaires appartenant à l'_American Association of Theological Schools_. Entre 10 000 et 15 000 lettres personnelles proposant des livres de prêt ont été envoyées aux ministres de l'_Église Unie du Christ_, de l'_Église Méthodiste Unie_, des _Disciples du Christ_ et des ministres de l'_Unité_, et 5 000 lettres ont été envoyées aux membres de l'_American Philosophical Association_. Nous avons présenté l'article « _Le Livre d'Urantia et les études religieuses_ » à la réunion nationale de l'_American Academy of Religion_ et publié _Journal de la Fraternité Spirituelle_ en interface avec les principaux ministres chrétiens. Nous avons fait des présentations du _Livre d'Urantia_ à des groupes ministériels, à des classes universitaires et à des groupes d'églises individuels. Après plus de quarante ans d’interaction avec les dirigeants chrétiens et les laïcs, il est évident qu’il faudra beaucoup de temps avant que les dirigeants du christianisme n’examinent sérieusement les Cahiers d’Urantia.
 
 Il faut observer que cela est cohérent avec l’histoire des religions. Chaque fois qu’un paradigme avancé de religion est apparu dans notre monde, il n’a jamais réussi à vaincre la structure de pouvoir des anciennes religions. Habituellement, le nouveau paradigme spirituel est porté dans le monde par des gens ordinaires en quête de vérité spirituelle.
 
@@ -147,12 +171,37 @@ La Communauté Spirituelle s'engage à motiver, responsabiliser et soutenir tout
 
 _Le Livre d'Urantia_, à mon avis, a le plus grand potentiel d'avancement spirituel de notre monde depuis la venue de Jésus il y a plus de 2000 ans. L’histoire de la religion montre que les systèmes de valeurs spirituelles sont toujours établis et promus par une sorte d’organisation religieuse. La Communauté Spirituelle cherche à établir des fondations religieuses de base basées sur les enseignements des Cahiers d'Urantia qui transmettront leur message transformateur aux peuples spirituellement affamés du monde. Je crois que nous sommes au début d'une nouvelle ère de religion dans notre monde. Nous vous invitons à nous rejoindre dans cette mission de sensibilisation.
 
-Ce ministère de sensibilisation ne sera pas facile. Ce n'est pas pour les âmes timides. Il est difficile pour des personnes qui sont des citoyens équilibrés et solides dans leur communauté de risquer d’être considérées comme « différentes » ou comme appartenant à une secte ou à un mouvement étrange. Les pionniers sont toujours confrontés à des difficultés et à des épreuves. Les présentations nouvelles et élargies de la vérité ont toujours été et seront toujours attaquées par les traditionalistes et les fondamentalistes religieux. L’histoire de la croissance spirituelle montre que ce n’est que lorsqu’une vision élargie de la vérité est attaquée et ses pionniers persécutés qu’elle attire l’attention et fait appel à un nombre important de chercheurs créatifs de vérité spirituelle dans la société : « _Heureux ceux qui sont persécutés. pour l'amour de la justice, car le royaume des cieux est à eux._” [[LU 140:3.11](/fr/The_Urantia_Book/140#p3_11)]
+Ce ministère de sensibilisation ne sera pas facile. Ce n'est pas pour les âmes timides. Il est difficile pour des personnes qui sont des citoyens équilibrés et solides dans leur communauté de risquer d’être considérées comme « différentes » ou comme appartenant à une secte ou à un mouvement étrange. Les pionniers sont toujours confrontés à des difficultés et à des épreuves. Les présentations nouvelles et élargies de la vérité ont toujours été et seront toujours attaquées par les traditionalistes et les fondamentalistes religieux. L’histoire de la croissance spirituelle montre que ce n’est que lorsqu’une vision élargie de la vérité est attaquée et ses pionniers persécutés qu’elle attire l’attention et fait appel à un nombre important de chercheurs créatifs de vérité spirituelle dans la société : « _Heureux ceux qui sont persécutés. pour l'amour de la justice, car le royaume des cieux est à eux._” <a id="a173_909"></a>[[LU 140:3.11](/fr/The_Urantia_Book/140#p3_11)]
 
-Néanmoins, ceux qui ont le courage et la sagesse d’apporter la connaissance de la Cinquième Révélation d’Époque aux individus et aux institutions de notre monde s’engagent dans l’un des ministères les plus importants de notre époque. De tels évangélistes missionnaires ouvriront la porte à une dynamique spirituelle qui transformera sans aucun doute notre planète au cours des mille prochaines années. Un archange de Nébadon nous rappelle : « _Les faibles prennent des résolutions, mais les forts agissent. La vie n'est qu'une journée de travail : faites-la bien. L'acte nous appartient; les conséquences appartiennent à Dieu._” [[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)] Le moment est venu d'agir courageusement et sagement !
+Néanmoins, ceux qui ont le courage et la sagesse d’apporter la connaissance de la Cinquième Révélation d’Époque aux individus et aux institutions de notre monde s’engagent dans l’un des ministères les plus importants de notre époque. De tels évangélistes missionnaires ouvriront la porte à une dynamique spirituelle qui transformera sans aucun doute notre planète au cours des mille prochaines années. Un archange de Nébadon nous rappelle : « _Les faibles prennent des résolutions, mais les forts agissent. La vie n'est qu'une journée de travail : faites-la bien. L'acte nous appartient; les conséquences appartiennent à Dieu._” <a id="a175_629"></a>[[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)] Le moment est venu d'agir courageusement et sagement !
 
-> _Dr. Meredith J. Sprunger est présidente de The Spiritual Fellowship et fondatrice et rédactrice émérite de _The Spiritual Fellowship Journal_. Il vit à Fort Wayne, Indiana avec sa femme, Irene. Le Dr Sprunger peut être contacté à :_
+> _Dr. Meredith J. Sprunger est présidente de The Spiritual Fellowship et fondatrice et rédactrice émérite de _Journal de la Fraternité Spirituelle_. Il vit à Fort Wayne, Indiana avec sa femme, Irene. Le Dr Sprunger peut être contacté à :_
 >
 > mjsprunger@aol.com
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Aware_of_a_Better_Choice">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conscient d'un meilleur choix</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Donald_Briglia/Quantum_Mysteries_and_The_Urantia_Papers_Part_I">
+          <span class="pr-2">Mystères quantiques et Cahiers d'Urantia, Partie I de II</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

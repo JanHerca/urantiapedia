@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Carol Hay<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Meeting_Jesus_by_Marcus_J_Borg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Rencontrer Jésus pour la première fois par Marcus J. Borg</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="pr-2">Les Psaumes aujourd'hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quand j'étais une jeune femme, je me suis retrouvée confrontée à une insatisfaction spirituelle croissante que je ne parvenais pas à résoudre. Même si j’avais une solide formation chrétienne, j’avais faim de plus. J'avais besoin de quelque chose qui comblerait les lacunes de mon expérience religieuse personnelle et qui m'aiderait de manière réaliste à transférer mes croyances religieuses dans la vie religieuse.
@@ -28,3 +52,28 @@ _Le Livre d'Urantia_ présente l'opportunité d'élargir notre perspective sur l
 > _Carol Hay, une étudiante de longue date du _Livre d'Urantia_, parle longuement aux groupes d'église sur la croissance religieuse personnelle. Elle est également rédactrice en chef du Invisible Fellowship Magazine._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Meeting_Jesus_by_Marcus_J_Borg">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Rencontrer Jésus pour la première fois par Marcus J. Borg</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_3">
+          <span class="pr-2">Les Psaumes aujourd'hui</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

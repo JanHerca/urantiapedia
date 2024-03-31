@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Janet Farrington Graham<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Livre d'Urantia</i> </p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Votre partie préférée de l'Apocalypse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="pr-2">Des objectifs, pas des croyances : culte et service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -28,13 +52,13 @@ Sommes-nous prêts ? Je pense que l’escalade du conflit, la lutte pour le cont
 
 Il n’existe pas de solutions toutes faites. Dans nos meilleurs moments, nous rêvons d’une communauté unifiée, libre de la lutte pour le contrôle du texte, partageant les fruits de l’esprit avec un monde en difficulté. Dans nos moments les plus perspicaces, nous envisageons un partenariat actif avec le gouvernement planétaire, fournissant un soutien administratif en vue de la préparation du prochain âge spirituel. Dans nos moments les plus privés, chacun de nous recherche sincèrement un plus grand service envers notre Fils Créateur et envers le Suprême.
 
-Il ne fait aucun doute dans mon esprit que notre communauté a soif de fraternité. Même si nous savons que la fraternité sociale est une évolution née de la lutte, la fraternité spirituelle peut être atteinte dès maintenant. « Nous pouvons toujours avoir une diversité de compréhension et d’interprétation intellectuelles, et même divers degrés de socialisation, mais le défaut de fraternité spirituelle est à la fois inexcusable et répréhensible. » ([LU 170:5.20](/fr/The_Urantia_Book/170#p5_20))
+Il ne fait aucun doute dans mon esprit que notre communauté a soif de fraternité. Même si nous savons que la fraternité sociale est une évolution née de la lutte, la fraternité spirituelle peut être atteinte dès maintenant. « Nous pouvons toujours avoir une diversité de compréhension et d’interprétation intellectuelles, et même divers degrés de socialisation, mais le défaut de fraternité spirituelle est à la fois inexcusable et répréhensible. » (<a id="a54_450"></a>[LU 170:5.20](/fr/The_Urantia_Book/170#p5_20))
 
-Cela aiderait peut-être à détourner notre attention des objectifs profanes vers les moyens spirituels. Le conflit est inévitable, résultat de la diversité des esprits humains et des volontés engagées ; le conflit met en lumière le potentiel de croissance personnelle. La résolution est créatrice, le résultat d'esprits spiritualisés découvrant la volonté du Père ; la résolution indique la réalisation de la croissance spirituelle. « La compréhension mutuelle et l’amour fraternel sont des civilisateurs transcendants et de puissants facteurs pour la réalisation mondiale de la fraternité des hommes. » ([LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
+Cela aiderait peut-être à détourner notre attention des objectifs profanes vers les moyens spirituels. Le conflit est inévitable, résultat de la diversité des esprits humains et des volontés engagées ; le conflit met en lumière le potentiel de croissance personnelle. La résolution est créatrice, le résultat d'esprits spiritualisés découvrant la volonté du Père ; la résolution indique la réalisation de la croissance spirituelle. « La compréhension mutuelle et l’amour fraternel sont des civilisateurs transcendants et de puissants facteurs pour la réalisation mondiale de la fraternité des hommes. » (<a id="a56_604"></a>[LU 52:6.7](/fr/The_Urantia_Book/52#p6_7))
 
 > _Il ne fait aucun doute dans mon esprit que notre communauté a soif de fraternité. Même si nous savons que la fraternité sociale est une évolution née de la lutte, la fraternité spirituelle peut être atteinte dès maintenant. « Nous pouvons toujours avoir une diversité de compréhension et d’interprétation intellectuelles, et même divers degrés de socialisation, mais le défaut de fraternité spirituelle est à la fois inexcusable et répréhensible. » (LU 170:5.20)_
 
-Et peut-être serait-il utile de déplacer notre attention vers une perspective universelle. « Urantia est le sanctuaire sentimental de tout Nébadon ; la plus importante de dix-millions de planètes habitées, la demeure humaine de Christ Micaël, souverain de tout Nébadon, ministre Melchizédek auprès des royaumes, sauveur systémique, rédempteur adamique, compagnon séraphique, associé des esprits ascendants, progresseur morontiel, Fils de l’Homme dans la similitude de la chair mortelle et Prince Planétaire d’Urantia. Et vos Écritures disent la vérité en affirmant que ce même Jésus a promis de revenir, un jour, sur le monde de son effusion terminale, le Monde de la Croix. » ([LU 119:8.8](/fr/The_Urantia_Book/119#p8_8))
+Et peut-être serait-il utile de déplacer notre attention vers une perspective universelle. « Urantia est le sanctuaire sentimental de tout Nébadon ; la plus importante de dix-millions de planètes habitées, la demeure humaine de Christ Micaël, souverain de tout Nébadon, ministre Melchizédek auprès des royaumes, sauveur systémique, rédempteur adamique, compagnon séraphique, associé des esprits ascendants, progresseur morontiel, Fils de l’Homme dans la similitude de la chair mortelle et Prince Planétaire d’Urantia. Et vos Écritures disent la vérité en affirmant que ce même Jésus a promis de revenir, un jour, sur le monde de son effusion terminale, le Monde de la Croix. » (<a id="a60_678"></a>[LU 119:8.8](/fr/The_Urantia_Book/119#p8_8))
 
 > _Ce dont nous avons besoin, c'est du courage pour résoudre nos inévitables conflits, pour réformer nos organisations dépassées, pour revitaliser notre communauté spirituelle._
 
@@ -42,3 +66,28 @@ Les yeux de l'univers sont tournés vers nous. Le gouvernement planétaire se co
 
 Je me retire du service organisationnel pendant un certain temps, pour adopter plus pleinement une perspective communautaire et explorer les potentiels du service de révélation. Je suis reconnaissant pour ces trois années en tant que président du Fellowship et pour mes neuf années en tant que Conseiller Général. Et je suis convaincu que le prochain président et le prochain Conseil général serviront les membres au mieux de leurs capacités.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/Your_Favorite_Part_of_Revelation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Votre partie préférée de l'Apocalypse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="pr-2">Des objectifs, pas des croyances : culte et service</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

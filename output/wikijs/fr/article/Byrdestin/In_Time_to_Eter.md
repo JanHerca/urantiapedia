@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Byrdestin<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></ p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon expérience d'expansion mentale avec le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="pr-2">Quelques sources humaines du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 C'est le jour que le Seigneur a créé et nous nous en réjouissons.
@@ -50,3 +74,28 @@ Quel miracle! Quel miracle!
 En effet, c'est le jour que le Seigneur a créé.
 Réjouissons-nous et soyons heureux – pour toujours et à jamais ! Amen!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Sue_Tennant/My_Mind_Expanding_Experience_with_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon expérience d'expansion mentale avec le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Matthew_Block/Some_Human_Sources_of_UB">
+          <span class="pr-2">Quelques sources humaines du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

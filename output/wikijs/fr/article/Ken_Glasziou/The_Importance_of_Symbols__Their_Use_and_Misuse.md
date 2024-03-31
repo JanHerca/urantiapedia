@@ -25,7 +25,7 @@ Nous, les humains, avons deux « façons » extrêmes de proclamer ou de démont
 > Le but de lutter pour une cause est d'éviter de simplement servir une cause.
 > _(un autre sceptique)_
 
-> Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu’il *a,* alors Dieu fait de cet homme plus qu’il n’est. ([LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
+> Quand un homme consacre sa volonté à faire la volonté du Père, quand un homme donne à Dieu tout ce qu’il *a,* alors Dieu fait de cet homme plus qu’il n’est. (<a id="a27_160"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
 
 Il en résulte automatiquement que nous nous retrouvons contre tous ceux dont l’opinion, relative à « la cause », diffère de la nôtre.
 

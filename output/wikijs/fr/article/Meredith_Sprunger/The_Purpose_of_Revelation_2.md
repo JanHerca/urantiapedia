@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1995 Meredith Sprunger<br>© 1995 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Leadership_by_Margaret_J_Wheatley">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Leadership et nouvelle science par Margaret J. Wheatley</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="pr-2">La question de l'infaillibilité révélatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Le but de la révélation est de révéler et d'élargir la vérité spirituelle. Toutes les présentations de la révélation sont communiquées dans les cadres de référence intellectuels et culturels de l'époque où elles sont données. Ces concepts humains porteurs de révélation sont éphémères, mais la vérité qu'ils proclament est éternelle. Par exemple, le récit biblique de la création sur sept jours, que les théologiens qualifient désormais de « mythe », avait un sens dans la cosmologie simpliste des temps préscientifiques et transmettait efficacement la vérité spirituelle selon laquelle Dieu est la source de toute création.
@@ -28,7 +52,7 @@ Les étudiants de la Cinquième Révélation d’Époque font maintenant l’exp
 
 La chose centrale à retenir à propos de la révélation, comme nous l’avons mentionné, est que son but est de révéler et d’élargir la vérité spirituelle. Les faits scientifiques et les traditions culturelles qui les accompagnent et qui sont utilisés pour véhiculer et présenter ces vérités spirituelles sont transitoires. C'est le génie de la révélation que de pouvoir présenter des vérités spirituelles éternelles en utilisant des faits temporels et des coutumes culturelles changeantes. Les concepts cosmologiques et métaphysiques de la révélation sont importants car ils constituent les cadres de référence qui rendent son message pertinent au moment où la révélation est donnée. La cosmologie spirituelle élargie de la Cinquième Révélation d’Époque est d’une importance cruciale pour le christianisme libéral principal – ainsi que pour toutes les religions traditionnelles. Puisque la christologie contemporaine est enracinée dans une cosmologie matérielle préscientifique et une cosmologie spirituelle extrêmement simpliste, les théologiens considèrent la doctrine du salut exclusif par la foi en Jésus après la résurrection comme de plus en plus incroyable. Ils ne sont plus capables d’affirmer ce qu’on a appelé le « scandale de la particularité ».
 
-La théologie chrétienne a désespérément besoin de la cosmologie spirituelle présentée dans le Livre d'Urantia pour envisager une conception métaphysique de la réalité qui permettra aux théologiens de comprendre la « gloire de la particularité » dans la personnalité de Jésus après la résurrection. La Cinquième Révélation d'époque « synthétise les sciences de la nature et la théologie religieuse, apparemment divergentes, en une philosophie de l’univers cohérente et logique, en une explication coordonnée et sans hiatus aussi bien de la science que de la religion, créant ainsi une harmonie du mental et la satisfaction à l’esprit. Elle répond, dans l’expérience humaine, aux interrogations du mental avide de savoir *comment* l’Infini met sa volonté et ses plans à exécution dans la matière, avec le mental et sur l’esprit. » ([LU 101:2.1](/fr/The_Urantia_Book/101#p2_1))
+La théologie chrétienne a désespérément besoin de la cosmologie spirituelle présentée dans le Livre d'Urantia pour envisager une conception métaphysique de la réalité qui permettra aux théologiens de comprendre la « gloire de la particularité » dans la personnalité de Jésus après la résurrection. La Cinquième Révélation d'époque « synthétise les sciences de la nature et la théologie religieuse, apparemment divergentes, en une philosophie de l’univers cohérente et logique, en une explication coordonnée et sans hiatus aussi bien de la science que de la religion, créant ainsi une harmonie du mental et la satisfaction à l’esprit. Elle répond, dans l’expérience humaine, aux interrogations du mental avide de savoir *comment* l’Infini met sa volonté et ses plans à exécution dans la matière, avec le mental et sur l’esprit. » (<a id="a54_830"></a>[LU 101:2.1](/fr/The_Urantia_Book/101#p2_1))
 
 Les auteurs du _Le Livre d'Urantia_ aux pages 1109-10 donnent une excellente description de l'utilisation de la connaissance transitoire et de la vérité éternelle dans la révélation. « La vérité ne peut être que relativement inspirée, même si la révélation est invariablement un phénomène spirituel. Bien que les déclarations faisant référence à la cosmologie ne soient jamais inspirées, de telles révélations sont d'une immense valeur dans la mesure où elles clarifient au moins de manière transitoire la connaissance en :
 
@@ -105,5 +129,30 @@ Peu après la tenue des conférences régionales et nationales, les étudiants d
 
 Nous entrons maintenant dans la lutte intellectuelle et spirituelle qui a pris des siècles au christianisme principal pour être en grande partie résolue : faire la distinction entre les concepts porteurs humains contemporains et faillibles utilisés dans la révélation de ses vérités spirituelles éternelles. Le livre de Martin Gardner, _Urantia : Le Grand Mystère du Culte_, peut aider à raccourcir cette période dans le mouvement Urantia. Cela peut également aider à se prémunir contre les attitudes sectaires parmi ceux qui ont une foi vivante dans les vérités spirituelles élargies de la Cinquième Révélation d’Époque.
 
-Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévouement et un équilibre renouvelés. Nous sommes devenus majeurs. La liberté spirituelle et la démocratie participative nous ont appris qu’il peut y avoir une unité d’objectif au milieu de la diversité intellectuelle et politique. La révélation de la Cinquième Époque fera son chemin et surmontera toutes les barrières placées sur son chemin. Nous nous trouvons au seuil de « l’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)) sur notre planète. Les développements de croissance préliminaires et orientateurs du mouvement Urantia sont en grande partie derrière nous. Le potentiel d’une passionnante mission de sensibilisation de la Cinquième Révélation d’Époque nous attend. Les Très Hauts nous ont préparés, nous et notre planète, à la vision la plus passionnante de la réalité spirituelle depuis que Jésus de Nazareth a marché sur notre monde. Cette mission de sensibilisation sera multiple, pluraliste et victorieuse !
+Le noyau solide du mouvement Urantia a traversé ces tribulations avec un dévouement et un équilibre renouvelés. Nous sommes devenus majeurs. La liberté spirituelle et la démocratie participative nous ont appris qu’il peut y avoir une unité d’objectif au milieu de la diversité intellectuelle et politique. La révélation de la Cinquième Époque fera son chemin et surmontera toutes les barrières placées sur son chemin. Nous nous trouvons au seuil de « l’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » (<a id="a131_590"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)) sur notre planète. Les développements de croissance préliminaires et orientateurs du mouvement Urantia sont en grande partie derrière nous. Le potentiel d’une passionnante mission de sensibilisation de la Cinquième Révélation d’Époque nous attend. Les Très Hauts nous ont préparés, nous et notre planète, à la vision la plus passionnante de la réalité spirituelle depuis que Jésus de Nazareth a marché sur notre monde. Cette mission de sensibilisation sera multiple, pluraliste et victorieuse !
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Significant_Books_Leadership_by_Margaret_J_Wheatley">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Livres importants : Leadership et nouvelle science par Margaret J. Wheatley</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1995">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1995 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ken_Glasziou/Is_the_Science_of_UB_Revelatory">
+          <span class="pr-2">La question de l'infaillibilité révélatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

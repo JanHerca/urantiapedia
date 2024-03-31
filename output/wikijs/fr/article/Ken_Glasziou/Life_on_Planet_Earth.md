@@ -57,11 +57,11 @@ Initialement, ces Édiacariens étaient considérés comme un groupe d'organisme
 
 Comment alors expliquer l’affirmation du Livre d’Urantia selon laquelle les Porteurs de Vie ont apporté la vie sur cette planète il y a seulement 550 millions d’années ?
 
-Une possibilité est que cela faisait partie de la cosmologie des révélateurs déclarée « non inspirée » et qui pourrait consister en un « cadre universel » par lequel nous aiderions à comprendre notre place dans l’ordre des choses de l’univers. ([LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+Une possibilité est que cela faisait partie de la cosmologie des révélateurs déclarée « non inspirée » et qui pourrait consister en un « cadre universel » par lequel nous aiderions à comprendre notre place dans l’ordre des choses de l’univers. (<a id="a59_245"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
-Alternativement, cela peut être couvert par les déclarations suivantes : « Le plasma vital original d’un monde évolutif doit contenir tout le potentiel de toutes les variations de développement futures et de tous les changements et modifications évolutifs ultérieurs. » ([LU 36:2.17](/fr/The_Urantia_Book/36#p2_17))
+Alternativement, cela peut être couvert par les déclarations suivantes : « Le plasma vital original d’un monde évolutif doit contenir tout le potentiel de toutes les variations de développement futures et de tous les changements et modifications évolutifs ultérieurs. » (<a id="a61_271"></a>[LU 36:2.17](/fr/The_Urantia_Book/36#p2_17))
 
-> « Durant la vie physique, le moi matériel, l’égo-entité de l’identité humaine, dépend du fonctionnement continu du véhicule vital matériel, du maintien continu de l’équilibre instable des énergies et de **l’intellect**, auquel on a donné le nom de *vie* sur Urantia. » ([LU 112:2.20](/fr/The_Urantia_Book/112#p2_20))
+> « Durant la vie physique, le moi matériel, l’égo-entité de l’identité humaine, dépend du fonctionnement continu du véhicule vital matériel, du maintien continu de l’équilibre instable des énergies et de **l’intellect**, auquel on a donné le nom de *vie* sur Urantia. » (<a id="a63_272"></a>[LU 112:2.20](/fr/The_Urantia_Book/112#p2_20))
 
 Il est fort possible que le potentiel génétique des formes cellulaires antérieures au début de la période cambrienne était tout à fait incapable de générer à terme des organismes vivants « intelligents ». Et que seul un organisme possédant un génome ayant le potentiel d’évoluer pour finalement avoir un « intellect » entre dans la définition de ce que les Porteurs de Vie entendent par « vie ».
 

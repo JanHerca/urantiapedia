@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/In_His_Presence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En sa présence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Go_Into_All_the_World_to_Every_Race_Tribe_and_Nation">
+          <span class="pr-2">Allez dans le monde entier, dans chaque race, tribu et nation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sensibilise-nous, Père Universel, à ton subliminal
@@ -37,3 +61,28 @@ les événements planétaires ou les rigueurs de la souffrance humaine.
 Nous te remercions, ô Mentor Céleste, pour ton salut et
 présence transformatrice dans nos vies!
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Mullins/In_His_Presence">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En sa présence</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Go_Into_All_the_World_to_Every_Race_Tribe_and_Nation">
+          <span class="pr-2">Allez dans le monde entier, dans chaque race, tribu et nation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

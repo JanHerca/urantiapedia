@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2004 Sue Tennant<br>© 2004 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Are_We_Starting_a_New_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commençons-nous une nouvelle religion ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="pr-2">La prière et l'adoration telles que nous devrions les comprendre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Avec tout le respect que je dois à certaines belles églises et à des Urantiens bien intentionnés, comment une « Église urantienne », établie à Boulder ou dans n'importe quelle ville n'importe où dans le monde, pourrait-elle être suffisamment universelle pour attirer toutes les races, religions et cultures, reflétant l'universel mondial. et les paradigmes cosmiques des Fascicules d'Urantia ?
@@ -31,3 +55,28 @@ Et je vois les SETS maintenir un réseau mondial de coopération et de partage m
 > _Sue Tennant est l'auteur de « Crossing Cultures in Business », fondatrice de la section ontarienne de la World Interfaith Education Association et, avec son mari Derek, propriétaire du centre de retraite de Silver Springs._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/Are_We_Starting_a_New_Religion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Commençons-nous une nouvelle religion ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2004 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jean_Barr/Prayer_and_Worship_As_We_Should_Understand_It">
+          <span class="pr-2">La prière et l'adoration telles que nous devrions les comprendre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

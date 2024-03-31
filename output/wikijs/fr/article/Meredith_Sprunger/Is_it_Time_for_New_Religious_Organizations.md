@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Meredith Sprunger<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Historys_Unpredictability">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'imprévisibilité de l'histoire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Aspects_of_Prophetic_Leadership">
+          <span class="pr-2">Aspects du leadership prophétique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les trois organisations centrales du mouvement Urantia – la Fondation Urantia, la Communauté du Livre d'Urantia et l'Association Internationale Urantia – ont déclaré à plusieurs reprises qu'elles ne sont pas des organisations religieuses. Avec l'implication continue de la Fondation dans les procès contre les étudiants du _Livre d'Urantia_ et leur récente menace contre la _Fambourg du Livre d'Urantia_, on se demande si ces organisations laïques sont l'égide appropriée pour la diffusion des enseignements de la Cinquième Révélation d'Époque ?
@@ -33,3 +57,28 @@ Il y a de nombreuses années, en prévision du moment où la Cinquième Révéla
 11. La Communauté reconnaît qu'à mesure que les cérémonies, les rituels et le symbolisme spirituel évoluent, ils doivent être relativement simples, remplis de beauté et de sens. Nous cherchons à créer une structure dans laquelle ce symbolisme et les cérémonies associées peuvent évoluer.
 12. La Fellowship recommande que chaque congrégation fournisse dans son programme local, dans la mesure du possible, des opportunités d'éducation religieuse, de conseils personnels, d'orientation spirituelle et de culte de groupe. Ces ministères religieux devraient dramatiser les loyautés spirituelles, magnifier les attraits de la vérité, de la beauté et de la bonté, glorifier les potentiels de la vie familiale, stimuler le service désintéressé et l'amitié chaleureuse, conserver une moralité éclairée, soutenir le bien-être humain et promouvoir un sage ministère de sensibilisation auprès du monde. 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Historys_Unpredictability">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'imprévisibilité de l'histoire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Aspects_of_Prophetic_Leadership">
+          <span class="pr-2">Aspects du leadership prophétique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

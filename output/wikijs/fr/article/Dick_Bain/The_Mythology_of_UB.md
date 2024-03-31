@@ -9,14 +9,38 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Richard Bain<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des objectifs, pas des croyances : culte et service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Planetary_Ecumenism">
+          <span class="pr-2">Œcuménisme planétaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> _Jésus se leva et dit : « Soyons patients ; la vérité n’a rien à craindre d’un examen honnête._ ([LU 153:2.11](/fr/The_Urantia_Book/153#p2_11))
+
+> _Jésus se leva et dit : « Soyons patients ; la vérité n’a rien à craindre d’un examen honnête._ (<a id="a37_99"></a>[LU 153:2.11](/fr/The_Urantia_Book/153#p2_11))
 
 
 Oui, c'est un titre provocateur. Parfois, lorsque les gens pensent à la mythologie, ils pensent aux histoires des dieux grecs et aux récits épiques d'Homère, et ils peuvent assimiler ces mythes à des fables. Mais ce n'est pas nécessairement le cas. Nous savons que la fable est une histoire fictive ; un mythe peut être factuel ou non. Une fable peut avoir une morale, mais un mythe est plus inclusif et a une portée plus large. Pour reprendre les mots de Rollo May : « Un mythe est une manière de donner un sens dans un monde insensé. Les mythes sont des schémas narratifs qui donnent une signification à notre existence... les mythes nous donnent notre sentiment d'identité personnelle... rendent possible notre sentiment de communauté... sous-tendent nos valeurs morales... la mythologie est notre façon de gérer l'impénétrable. mystère de la création... » [^1] Par conséquent, le but du mythe n'est pas de donner un ensemble de faits, mais plutôt d'expliquer les phénomènes de nos vies et de notre monde. Dans la mesure où le mythe dérive des faits, il est factuel ; mais la valeur du mythe ne réside pas dans son caractère factuel, mais plutôt dans son utilité pour donner un sens à nos vies. Comment fait-il cela ?
 
-Un mythe bien connu est l’histoire de Job dans la Bible. Nous pourrions discuter sans fin pour savoir s’il existait réellement un Job et sur l’idée que Dieu affligeait volontairement Job pour prouver quelque chose. Le point important de l’histoire est que la foi de Job ne dépendait pas des circonstances de sa vie. C’était un aperçu précieux pour le peuple juif, qui était souvent conquis et souvent opprimé. Les mythes sont une caractéristique de la plupart des cultures. Par exemple, presque toutes les cultures ont une sorte de mythe de la création. Mais ne pensons pas que les mythes sont l’apanage exclusif de peuples peu avertis et préscientifiques, considérons la théorie du Big Bang. Les anciens observaient un volcan en éruption et essayaient de comprendre pourquoi ; ils ont proposé une explication anthropomorphique. Lorsqu’une personne se met en colère, elle peut exploser dans un accès de colère. Par conséquent, quelqu’un ou quelque chose dans ce volcan est en colère. Comment arrêter le volcan ? Donnez au dieu du volcan quelque chose de très précieux, comme l'enfant de quelqu'un. Tout comme les anciens observaient le volcan et formaient une hypothèse, les astronomes observaient le ciel et formaient un mythe basé sur leurs observations. De leurs observations, les astronomes ont conclu que l’univers est en expansion. Si l’on parcourt le film d’expansion cosmique à l’envers, le Big Bang semble commencer comme un point dans l’espace. Ainsi, aux yeux des astronomes, il y a eu un « Big Bang » au début des temps qui a déclenché l’expansion du temps et de l’espace. Les astronomes croient tellement à ce scénario que quiconque tente de mettre en doute cette théorie risque d'avoir du mal à trouver un emploi en astronomie ou à trouver un financement pour des projets de recherche ; ils sont sacrifiés au dieu du Big Bang. Que ce soit vrai ou non, le mythe du Big Bang fournit une explication à l'univers et à son expansion. Il fournit le cadre que _Le Livre d'Urantia_ nous dit dont nous avons besoin pour expliquer l'univers. ([LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
+Un mythe bien connu est l’histoire de Job dans la Bible. Nous pourrions discuter sans fin pour savoir s’il existait réellement un Job et sur l’idée que Dieu affligeait volontairement Job pour prouver quelque chose. Le point important de l’histoire est que la foi de Job ne dépendait pas des circonstances de sa vie. C’était un aperçu précieux pour le peuple juif, qui était souvent conquis et souvent opprimé. Les mythes sont une caractéristique de la plupart des cultures. Par exemple, presque toutes les cultures ont une sorte de mythe de la création. Mais ne pensons pas que les mythes sont l’apanage exclusif de peuples peu avertis et préscientifiques, considérons la théorie du Big Bang. Les anciens observaient un volcan en éruption et essayaient de comprendre pourquoi ; ils ont proposé une explication anthropomorphique. Lorsqu’une personne se met en colère, elle peut exploser dans un accès de colère. Par conséquent, quelqu’un ou quelque chose dans ce volcan est en colère. Comment arrêter le volcan ? Donnez au dieu du volcan quelque chose de très précieux, comme l'enfant de quelqu'un. Tout comme les anciens observaient le volcan et formaient une hypothèse, les astronomes observaient le ciel et formaient un mythe basé sur leurs observations. De leurs observations, les astronomes ont conclu que l’univers est en expansion. Si l’on parcourt le film d’expansion cosmique à l’envers, le Big Bang semble commencer comme un point dans l’espace. Ainsi, aux yeux des astronomes, il y a eu un « Big Bang » au début des temps qui a déclenché l’expansion du temps et de l’espace. Les astronomes croient tellement à ce scénario que quiconque tente de mettre en doute cette théorie risque d'avoir du mal à trouver un emploi en astronomie ou à trouver un financement pour des projets de recherche ; ils sont sacrifiés au dieu du Big Bang. Que ce soit vrai ou non, le mythe du Big Bang fournit une explication à l'univers et à son expansion. Il fournit le cadre que _Le Livre d'Urantia_ nous dit dont nous avons besoin pour expliquer l'univers. (<a id="a42_2047"></a>[LU 115:1.1](/fr/The_Urantia_Book/115#p1_1))
 
 Apparemment, la méthode scientifique a été utilisée pour générer la théorie du Big Bang, mais il est presque impossible d’éliminer les préjugés d’une telle entreprise. Le scientifique est censé être un observateur impartial, mais trop souvent l’implication émotionnelle fait obstacle à son objectivité. Je suis sûr que lorsque les gens de notre communauté Urantia essaient d'être des observateurs impartiaux de notre communauté et de notre mythologie, nous souffrons du même problème. Comment un observateur impartial pourrait-il voir notre mythologie et nous-mêmes ?
 
@@ -30,7 +54,7 @@ Une métaphore que j'ai utilisée précédemment pour décrire notre relation av
 
 ## Qu'est-ce que la Vérité ?
 
-Lorsque Jésus dit à Ponce Pilate : « … quiconque aime la vérité entend ma voix », Pilate répondit : « La vérité, qu'est-ce que la vérité, qui sait ? » ([LU 185:3.5](/fr/The_Urantia_Book/185#p3_5)) Alors que nous examinons les domaines du _Livre d'Urantia_ qui posent problème pour nous, nous pourrions très bien poser la même question : « Qu'est-ce que la vérité ? Lorsque Jésus a raconté l’histoire du Bon Samaritain, racontait-il une histoire « vraie » ? Est-ce un incident qui s'est réellement produit ? Beaucoup protesteront en disant que tout le monde savait que les histoires de Jésus étaient des paraboles, et que tout le monde acceptait que les histoires aient été inventées pour illustrer un point, et non pour raconter les faits d'un incident.
+Lorsque Jésus dit à Ponce Pilate : « … quiconque aime la vérité entend ma voix », Pilate répondit : « La vérité, qu'est-ce que la vérité, qui sait ? » (<a id="a56_152"></a>[LU 185:3.5](/fr/The_Urantia_Book/185#p3_5)) Alors que nous examinons les domaines du _Livre d'Urantia_ qui posent problème pour nous, nous pourrions très bien poser la même question : « Qu'est-ce que la vérité ? Lorsque Jésus a raconté l’histoire du Bon Samaritain, racontait-il une histoire « vraie » ? Est-ce un incident qui s'est réellement produit ? Beaucoup protesteront en disant que tout le monde savait que les histoires de Jésus étaient des paraboles, et que tout le monde acceptait que les histoires aient été inventées pour illustrer un point, et non pour raconter les faits d'un incident.
 
 Que l’histoire se soit réellement produite ou non n’a pas d’importance. La parabole n’est qu’un véhicule pour transmettre une certaine vérité même si l’histoire n’est peut-être pas vraie au sens littéral. On pourrait en dire autant des métaphores ou des fables d'Ésope. Mais qu’en est-il des histoires de l’Ancien Testament ? Beaucoup sont racontés comme s’il s’agissait du récit d’un incident réel, mais ils mettent à rude épreuve notre crédulité. Considérez l'histoire de Jonas et de la baleine. Certains chrétiens acceptent qu’un gros poisson ait en fait avalé Jonas et l’ait recraché sur la terre ferme ; d’autres chrétiens qualifient cette histoire d’envolée de fantaisie. Mais ceux qui discutent de la réalité de l’histoire passent à côté de l’essentiel, à savoir que Dieu a pardonné aux habitants de Ninive et les a épargnés parce qu’ils ont répondu à l’appel de Jonas à se repentir. C'était la vérité de l'histoire. Dans de tels cas, nous devrions peut-être nous demander : « Qu’est-ce qui est le plus important, la vérité ou le fait ?
 
@@ -50,7 +74,7 @@ Je me souviens d'une conversation avec un chrétien fondamentaliste sur la factu
 
 Alors, pourquoi les auteurs ont-ils inclus les articles de Rodan ? Je soupçonne qu'il y avait certaines idées contenues dans le travail source utilisé dans les articles de Rodan qui, selon les auteurs, n'étaient pas couvertes ailleurs dans les articles de Jésus, ils ont donc inséré cette information sous forme d'histoire. Et après tout, il y avait des Grecs qui venaient voir Jésus, et ils connaissaient certainement la philosophie grecque. Peut-être que les journaux de Rodan racontent l'histoire de la lutte philosophique que ces Grecs ont menée pour réconcilier la philosophie grecque avec les enseignements de Jésus. Devons-nous nous sentir ennuyés que les auteurs ne nous aient pas laissé entendre que Rodan pourrait être un personnage fictif ? Est-ce encore une autre « bombe à retardement » ?[^2]
 
-Les auteurs savaient sûrement qu’un jour, quelqu’un ferait des recherches sur le sujet et trouverait la véritable source des idées contenues dans les articles de Rodan. Considérant qu’il s’agit d’un incident non rapporté dans la Bible, il mérite une enquête. De plus, où ailleurs dans les Jesus Papers y a-t-il un tel dialogue entre les apôtres et un individu ? Mais tout cela ne détruit pas la vérité véhiculée par les journaux Rodan. Les concepts sont tout aussi vrais, que Rodan ait existé ou non. Et les concepts sont ceux d’un de nos semblables mortels. Il y a plusieurs milliers de telles inclusions dans les papiers de Jésus, selon la reconnaissance sur [LU 121:8.12](/fr/The_Urantia_Book/121#p8_12) du _Le Livre d'Urantia_. Nous pouvons désormais lire les articles sans nous demander qui les a réellement rédigés ; nous connaissons la source humaine d’une grande partie du contenu du livre. Peut-être devrions-nous être reconnaissants envers les auteurs d’avoir sorti ces pensées de la poubelle du temps et de nous les avoir restituées.
+Les auteurs savaient sûrement qu’un jour, quelqu’un ferait des recherches sur le sujet et trouverait la véritable source des idées contenues dans les articles de Rodan. Considérant qu’il s’agit d’un incident non rapporté dans la Bible, il mérite une enquête. De plus, où ailleurs dans les Jesus Papers y a-t-il un tel dialogue entre les apôtres et un individu ? Mais tout cela ne détruit pas la vérité véhiculée par les journaux Rodan. Les concepts sont tout aussi vrais, que Rodan ait existé ou non. Et les concepts sont ceux d’un de nos semblables mortels. Il y a plusieurs milliers de telles inclusions dans les papiers de Jésus, selon la reconnaissance sur <a id="a76_661"></a>[LU 121:8.12](/fr/The_Urantia_Book/121#p8_12) du _Le Livre d'Urantia_. Nous pouvons désormais lire les articles sans nous demander qui les a réellement rédigés ; nous connaissons la source humaine d’une grande partie du contenu du livre. Peut-être devrions-nous être reconnaissants envers les auteurs d’avoir sorti ces pensées de la poubelle du temps et de nous les avoir restituées.
 
 ## Les fruits de l'étude
 
@@ -60,9 +84,34 @@ _Le Livre d'Urantia_ nous fournit une mythologie selon laquelle vivre ; une myth
 
 Les chrétiens libéraux ont depuis longtemps cessé de considérer la Bible comme un livre d’histoire ou de science. Peut-être que nous, dans la communauté Urantia, devons adopter le même point de vue à propos du _Livre d'Urantia_. Les chrétiens libéraux ont appris il y a longtemps à trier le bon grain de l’ivraie en étudiant la Bible ; avons-nous des choses qui appartiennent à l'aire de battage plutôt qu'aux silos à grains ? Je crois qu'il est temps de considérer la Cinquième Révélation d'Époque comme un outil utile, comme une série de repères sur le chemin éternel plutôt que comme un document infaillible.
 
-Parce que le _Livre d'Urantia_ a des réponses si complètes aux questions sur la vie et la mort, c'est une mythologie puissante. Même si nous pouvons être fascinés par ses vérités puissantes, son pouvoir ne devrait pas être de séduire notre esprit mais de nous conduire à une relation plus étroite avec Dieu. Nous devons nous rappeler que _Le Livre d'Urantia_ n'est pas une fin en soi. C’est plutôt la porte vers une réalité plus vaste : « l’aventure éternelle ». ([LU 1:0.3](/fr/The_Urantia_Book/1#p0_3))
+Parce que le _Livre d'Urantia_ a des réponses si complètes aux questions sur la vie et la mort, c'est une mythologie puissante. Même si nous pouvons être fascinés par ses vérités puissantes, son pouvoir ne devrait pas être de séduire notre esprit mais de nous conduire à une relation plus étroite avec Dieu. Nous devons nous rappeler que _Le Livre d'Urantia_ n'est pas une fin en soi. C’est plutôt la porte vers une réalité plus vaste : « l’aventure éternelle ». (<a id="a86_464"></a>[LU 1:0.3](/fr/The_Urantia_Book/1#p0_3))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Rosey_Lieske/Goals_Not_Creeds_Worship_and_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Des objectifs, pas des croyances : culte et service</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Planetary_Ecumenism">
+          <span class="pr-2">Œcuménisme planétaire</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

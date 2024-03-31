@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Révérend Gregory Young<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Religion_and_the_Religious_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religion et l'organisation religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="pr-2">Les Psaumes aujourd'hui : la présence salvatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Un petit garçon est allé à l’épicerie et a demandé au vendeur une boîte de détergent Duz. L'employé a dit : « Fils, pourquoi as-tu besoin de détergent ? Le petit garçon a dit : « Je veux laver mon chien. » L'employé a dit: « Eh bien, mon fils, ce détergent Duz est assez puissant pour laver un petit chien. » Le petit garçon dit : « C'est ce que je veux. » L'employé a dit : « Très bien », et il lui a vendu le Duz, mais il lui a conseillé : « Maintenant, soyez prudent lorsque vous lavez votre chien. Ce détergent est très fort ; cela pourrait le tuer. Le petit garçon a dit : « Je ferai attention. » Il a ramené la boîte de détergent chez lui.
@@ -48,3 +72,28 @@ Mes amis, quelle que soit la douleur ou la souffrance que vous endurez, quelles 
 > _Gregory Young est pasteur de l'église unie du Christ St. John à Germantown, Wisconsin._
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/Religion_and_the_Religious_Organization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La religion et l'organisation religieuse</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_12">
+          <span class="pr-2">Les Psaumes aujourd'hui : la présence salvatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

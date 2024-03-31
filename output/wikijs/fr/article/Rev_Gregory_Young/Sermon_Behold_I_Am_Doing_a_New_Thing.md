@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1997 Révérend Gregory Young<br>© 1997 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/My_Acceptance_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et le renouveau spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Constitution_of_a_Religious_Organization">
+          <span class="pr-2">Préambule suggestif pour la constitution d'une organisation religieuse basée sur la cinquième révélation d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a quelques années, alors que le zoo de Denver subissait une rénovation majeure, un ours polaire était arrivé au zoo avant qu'un grand environnement naturaliste en construction ne soit prêt pour lui. La cage dans laquelle l'ours a été placé temporairement était juste assez grande pour que l'ours polaire puisse faire trois jolis pas dans une direction, tourbillonner et faire trois pas dans l'autre direction, d'avant en arrière. L’ours polaire a passé plusieurs mois dans cette cage particulière qui limitait son comportement. Finalement, l'environnement naturaliste a été complété et l'ours a été libéré de sa cage... et devinez quoi ? L'ours polaire faisait toujours les cent pas comme si la cage était toujours là.
@@ -83,5 +107,30 @@ Par le contact de la main du Maître.
 {.is-info}
 
 
-> « La société d’Urantia ne peut jamais espérer se poser pour un temps comme dans les âges passés. Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire. Plus que jamais dans l’histoire du monde, l’âme de l’homme a besoin de scruter soigneusement ses cartes de moralité et d’observer minutieusement la boussole de la gouverne religieuse. La suprême mission de la religion, en tant qu’influence sociale, consiste à stabiliser les idéaux de l’humanité durant ces dangereuses périodes de transition d’une phase de civilisation à une autre, d’un niveau de culture à un autre. » ([LU 99:1.3](/fr/The_Urantia_Book/99#p1_3))
+> « La société d’Urantia ne peut jamais espérer se poser pour un temps comme dans les âges passés. Le navire social est sorti des havres abrités de la tradition établie ; il a commencé sa croisière sur les hautes mers de la destinée évolutionnaire. Plus que jamais dans l’histoire du monde, l’âme de l’homme a besoin de scruter soigneusement ses cartes de moralité et d’observer minutieusement la boussole de la gouverne religieuse. La suprême mission de la religion, en tant qu’influence sociale, consiste à stabiliser les idéaux de l’humanité durant ces dangereuses périodes de transition d’une phase de civilisation à une autre, d’un niveau de culture à un autre. » (<a id="a109_670"></a>[LU 99:1.3](/fr/The_Urantia_Book/99#p1_3))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/My_Acceptance_of_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia et le renouveau spirituel</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Constitution_of_a_Religious_Organization">
+          <span class="pr-2">Préambule suggestif pour la constitution d'une organisation religieuse basée sur la cinquième révélation d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

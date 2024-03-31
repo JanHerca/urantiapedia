@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Larry Mullins<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd’hui : conseils spirituels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/UB_and_the_Internet">
+          <span class="pr-2">Le Livre d'Urantia et Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les esprits apparentés peuvent aider à rendre le voyage plus facile
@@ -19,9 +43,9 @@ Après réflexion, j’en suis venu à croire que le prix ultime se trouve d’u
 
 L’amour inconditionnel est quelque chose que nous expérimentons personnellement (si nous avons de la chance) dans la façon dont nous aimons nos parents. Ensuite, nous apprenons que l’amour pour une autre personne, en dehors de notre famille, est une expérience amoureuse plus grande. Plus tard, même cette expérience amoureuse disparaîtra lorsque nous apprendrons à aimer nos enfants. Pourtant, comme le promettent les Cahiers d'Urantia, la plus grande de toutes les expériences d'amour inconditionnel se produit lorsque l'amour de Dieu coule à travers nous librement et inconditionnellement pour toucher d'autres enfants de la Puissance la plus élevée. C’est un amour qui, en effet, est trop profond pour être décrit.
 
-J'ai appris que, pendant les intervalles les plus brefs, la paix nous procure une aisance et un repos merveilleux. Alors, comme de la source même de la paix, surgira l’esprit de la Puissance la plus élevée. Comme Rodan l'a observé ([LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)), cet esprit circule à travers nos âmes et nous rafraîchit, il cherche également à transiter vers l'extérieur de nous, pour éclairer, élever et bénir avec grâce et grâce ceux qui nous entourent. Nous expérimentons ainsi la vérité selon laquelle l’Amour du Père Universel ne doit pas être contenu. Cet amour non gouverné devient actualisé ou réel pour nous dans la mesure où nous coopérons avec son flux extérieur et proportionnellement à notre capacité à le partager avec les autres. « Et voici un mystère : Plus un homme approche Dieu de près par l’amour, plus la réalité — l’actualité — de cet homme est grande. Plus un homme se retire de Dieu, plus il approche de près la non-réalité — la cessation d’existence. » ([LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
+J'ai appris que, pendant les intervalles les plus brefs, la paix nous procure une aisance et un repos merveilleux. Alors, comme de la source même de la paix, surgira l’esprit de la Puissance la plus élevée. Comme Rodan l'a observé (<a id="a45_232"></a>[LU 160:3.1](/fr/The_Urantia_Book/160#p3_1)), cet esprit circule à travers nos âmes et nous rafraîchit, il cherche également à transiter vers l'extérieur de nous, pour éclairer, élever et bénir avec grâce et grâce ceux qui nous entourent. Nous expérimentons ainsi la vérité selon laquelle l’Amour du Père Universel ne doit pas être contenu. Cet amour non gouverné devient actualisé ou réel pour nous dans la mesure où nous coopérons avec son flux extérieur et proportionnellement à notre capacité à le partager avec les autres. « Et voici un mystère : Plus un homme approche Dieu de près par l’amour, plus la réalité — l’actualité — de cet homme est grande. Plus un homme se retire de Dieu, plus il approche de près la non-réalité — la cessation d’existence. » (<a id="a45_994"></a>[LU 117:4.14](/fr/The_Urantia_Book/117#p4_14))
 
-Je me suis retrouvé confronté dans mes dernières années au commandement suprême de Jésus, selon lequel nous devons nous aimer les uns les autres comme Jésus nous a aimés. J'ai compris que si je voulais progresser spirituellement, je devais progressivement apprendre à vivre ces paroles : « Quand les mortels ainsi dirigés par l’esprit réalisent la véritable signification de cette règle d’or, ils débordent de l’assurance qu’ils sont citoyens d’un univers amical, et leurs idéaux de réalité d’esprit ne sont satisfaits que s’ils aiment leurs semblables comme Jésus nous a tous aimés. Telle est la réalité de la réalisation de l’amour de Dieu. » ([LU 180:5.8](/fr/The_Urantia_Book/180#p5_8)) De plus en plus d'Urantiens vétérans semblent désirer une actualisation de cet idéal. Mes études sur les théories psychologiques d'Abraham Maslow et d'autres ont également indiqué que le processus de réalisation de soi lui-même ne peut pas se dérouler en vase clos.
+Je me suis retrouvé confronté dans mes dernières années au commandement suprême de Jésus, selon lequel nous devons nous aimer les uns les autres comme Jésus nous a aimés. J'ai compris que si je voulais progresser spirituellement, je devais progressivement apprendre à vivre ces paroles : « Quand les mortels ainsi dirigés par l’esprit réalisent la véritable signification de cette règle d’or, ils débordent de l’assurance qu’ils sont citoyens d’un univers amical, et leurs idéaux de réalité d’esprit ne sont satisfaits que s’ils aiment leurs semblables comme Jésus nous a tous aimés. Telle est la réalité de la réalisation de l’amour de Dieu. » (<a id="a47_646"></a>[LU 180:5.8](/fr/The_Urantia_Book/180#p5_8)) De plus en plus d'Urantiens vétérans semblent désirer une actualisation de cet idéal. Mes études sur les théories psychologiques d'Abraham Maslow et d'autres ont également indiqué que le processus de réalisation de soi lui-même ne peut pas se dérouler en vase clos.
 
 ## Un nouveau type de rencontre sur Urantia qui change des vies
 
@@ -47,7 +71,7 @@ Le principe est que nous sommes chacun experts dans la vie intérieure, mais seu
 
 Avant d'expliquer la dynamique d'un tel groupe, passons en revue très brièvement les prémisses et les objectifs qui sous-tendent ce type d'association spirituelle.
 
-[1]. DÉVELOPPEMENT PERSONNEL. En énonçant les « cinq caractéristiques cardinales du royaume des cieux » (p. 1863), Jésus a énoncé les deux premiers comme suit : 1. La prééminence de l'individu et 2. La volonté comme facteur déterminant dans l'expérience de l'homme. _The Spiritual Fellowship Journal_ Les membres d'un groupe Living the Teachings recherchent donc la culture du moi intérieur, vers la pleine utilisation de ses pouvoirs spirituels dans le sens de l'excellence. Dans la poursuite du processus spirituel d’auto-actualisation, la prière méditative régulière et quotidienne n’est pas seulement d’une immense valeur pour les croyants dans les enseignements, c’est une condition nécessaire. De plus, nous estimons que l'expérience intérieure est quelque chose à laquelle nous sommes des participants créatifs. Dans la vie intérieure, la volonté humaine est totalement souveraine sur toutes les questions de moralité, et lorsqu'elle obéit à l'attrait spirituel de l'Ajusteur de Pensée, l'humain la volonté est conforme à la volonté de Dieu. Tout cela nous amène à valider la vérité selon laquelle la vie intérieure est éternellement créatrice et nous créons notre propre expérience intérieure.
+[1]. DÉVELOPPEMENT PERSONNEL. En énonçant les « cinq caractéristiques cardinales du royaume des cieux » (p. 1863), Jésus a énoncé les deux premiers comme suit : 1. La prééminence de l'individu et 2. La volonté comme facteur déterminant dans l'expérience de l'homme. _Journal de la Fraternité Spirituelle_ Les membres d'un groupe Living the Teachings recherchent donc la culture du moi intérieur, vers la pleine utilisation de ses pouvoirs spirituels dans le sens de l'excellence. Dans la poursuite du processus spirituel d’auto-actualisation, la prière méditative régulière et quotidienne n’est pas seulement d’une immense valeur pour les croyants dans les enseignements, c’est une condition nécessaire. De plus, nous estimons que l'expérience intérieure est quelque chose à laquelle nous sommes des participants créatifs. Dans la vie intérieure, la volonté humaine est totalement souveraine sur toutes les questions de moralité, et lorsqu'elle obéit à l'attrait spirituel de l'Ajusteur de Pensée, l'humain la volonté est conforme à la volonté de Dieu. Tout cela nous amène à valider la vérité selon laquelle la vie intérieure est éternellement créatrice et nous créons notre propre expérience intérieure.
 
 Au fur et à mesure que nous intégrons avec succès nos personnalités humaines et que nous assumons progressivement la responsabilité de notre vie intérieure, le désir d’établir ou de découvrir quelque chose de plus grand et de plus important que nous-mêmes apparaît progressivement chez un chercheur spirituel auquel consacrer ses énergies. Cela pourrait être une bonne cause, nos enfants, une carrière ou toute activité précieuse que nous aimons faire et que nous sommes capables de réaliser de manière créative, passionnée et énergique. Ainsi, nous sommes conduits à la prochaine condition requise de la réalisation de soi spirituelle : nos dons au Suprême.
 
@@ -97,7 +121,7 @@ Il faut faire très attention à la constitution du groupe initial, car une pers
 
 ## Apprendre à s'aimer
 
-Les méta-valeurs émergent comme jamais auparavant dans un groupe intime, bienveillant et solidaire. Dans notre vie physique, nos sens nous informent de l'existence des choses ; notre esprit découvre la réalité des significations, mais l'expérience spirituelle nous révèle les vraies valeurs de la vie. Des niveaux de vie élevés sont atteints comme un sous-produit de l’amour pour la Puissance la plus élevée – le Dieu d’amour. Le chemin le plus facile pour aimer Dieu consiste à aimer ses frères et sœurs cosmiques : « Dans la vie physique, les sens révèlent l’existence des choses et le mental découvre la réalité des significations ; mais c’est l’expérience spirituelle qui révèle aux individus les vraies valeurs de la vie. On atteint ces niveaux supérieurs de vie dans l’amour suprême de Dieu et dans l’amour désintéressé des hommes. Si vous aimez vos compagnons, c’est que vous avez découvert leur valeur. ... C’est en découvrant les mobiles de vos associés que vous découvrez le mieux leur valeur. ... Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croitre en amitié et murir en amour. » ([LU 100:4.4](/fr/The_Urantia_Book/100#p4_4))
+Les méta-valeurs émergent comme jamais auparavant dans un groupe intime, bienveillant et solidaire. Dans notre vie physique, nos sens nous informent de l'existence des choses ; notre esprit découvre la réalité des significations, mais l'expérience spirituelle nous révèle les vraies valeurs de la vie. Des niveaux de vie élevés sont atteints comme un sous-produit de l’amour pour la Puissance la plus élevée – le Dieu d’amour. Le chemin le plus facile pour aimer Dieu consiste à aimer ses frères et sœurs cosmiques : « Dans la vie physique, les sens révèlent l’existence des choses et le mental découvre la réalité des significations ; mais c’est l’expérience spirituelle qui révèle aux individus les vraies valeurs de la vie. On atteint ces niveaux supérieurs de vie dans l’amour suprême de Dieu et dans l’amour désintéressé des hommes. Si vous aimez vos compagnons, c’est que vous avez découvert leur valeur. ... C’est en découvrant les mobiles de vos associés que vous découvrez le mieux leur valeur. ... Dès lors que vous comprenez votre voisin, vous devenez tolérant, et cette tolérance va se transformer, croitre en amitié et murir en amour. » (<a id="a123_1151"></a>[LU 100:4.4](/fr/The_Urantia_Book/100#p4_4))
 
 Même si j'avais compris cela d'une manière intellectuelle, avant notre processus de groupe, je n'en avais pas fait l'expérience – du moins pas au niveau qu'encourageait une participation sociale limitée. La dynamique de groupe est une socialisation du concept d'expérience religieuse personnelle. La dynamique de groupe fonctionne, à condition que les individus qui y participent soient des âmes sœurs, c'est-à-dire qu'ils partagent les mêmes valeurs. Il faut répéter qu’il ne doit y avoir aucune théorie personnelle intrusive qui pourrait mettre les autres membres du groupe mal à l’aise.
 
@@ -125,3 +149,28 @@ Cependant, la dernière chose qu’un groupe comme celui-ci souhaite encourager 
 
 Si d'autres personnes que vous connaissez souhaitent faire l'expérience de ce type de groupe et que vous êtes « rassasié » ou que vous avez des doutes quant à la pertinence de cette personne dans le vôtre, encouragez-les à former le leur. Quelle que soit l'interprétation générale des Cahiers d'Urantia par un groupe, un programme Vivre les Enseignements peut aider les membres individuels à faire des progrès extraordinaires s'il est composé d'esprits apparentés avec des objectifs éclairés.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_10">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les Psaumes aujourd’hui : conseils spirituels</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Kantor/UB_and_the_Internet">
+          <span class="pr-2">Le Livre d'Urantia et Internet</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

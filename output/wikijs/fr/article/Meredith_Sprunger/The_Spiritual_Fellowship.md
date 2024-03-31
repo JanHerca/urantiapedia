@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 Dr Meredith Sprunger<br>© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sensibilisation à la vraie vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="pr-2">La communion spirituelle – Pourquoi maintenant ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au cours des 45 dernières années, il y a eu des divergences d'opinions concernant la nature du mouvement Urantia. Certains l'ont considéré comme un mouvement religieux ; d'autres l'ont considéré comme un mouvement éducatif à vocation religieuse. Les organisations officielles – la Fondation Urantia, la Bourse du Livre d'Urantia et l'Association Urantia Internationale – ont toutes nié être des organisations religieuses. Ils ont perdu une grande partie de la dynamique du ministère de proximité et sont plutôt engagés dans des luttes de pouvoir politique.
@@ -35,15 +59,15 @@ Notre préambule met en évidence les sept concepts les plus importants que la S
 
 L’ère industrielle était avant tout une extension de la puissance musculaire. L’ère de l’information est une extension du pouvoir mental. L’Âge Chaordique[^1] promet d’être une extension de l’influence spirituelle, de la perspicacité et de la transformation. Nous espérons que la Communauté Spirituelle est le début d'une institution religieuse qui portera la religion de Jésus et la Cinquième Révélation d'Époque à travers le monde.
 
-> « Il est difficile à une religion de survivre en tant que pratique personnelle d’individus isolés. Les chefs religieux ont toujours commis l’erreur suivante : apercevant les maux de la religion institutionnelle, ils cherchent à détruire la technique de fonctionnement collectif. Au lieu de détruire tout le rituel, ils feraient mieux de le réformer. » ([LU 97:10.7](/fr/The_Urantia_Book/97#p10_7))
+> « Il est difficile à une religion de survivre en tant que pratique personnelle d’individus isolés. Les chefs religieux ont toujours commis l’erreur suivante : apercevant les maux de la religion institutionnelle, ils cherchent à détruire la technique de fonctionnement collectif. Au lieu de détruire tout le rituel, ils feraient mieux de le réformer. » (<a id="a61_355"></a>[LU 97:10.7](/fr/The_Urantia_Book/97#p10_7))
 
-> « Il est exact que, si l’on fait de la religion une institution, on porte généralement atteinte à sa qualité spirituelle, mais il faut bien constater aussi le fait que nulle religion n’a jusqu’ici réussi à survivre sans l’aide d’une organisation institutionnelle plus ou moins poussée. » ([LU 98:6.1](/fr/The_Urantia_Book/98#p6_1))
+> « Il est exact que, si l’on fait de la religion une institution, on porte généralement atteinte à sa qualité spirituelle, mais il faut bien constater aussi le fait que nulle religion n’a jusqu’ici réussi à survivre sans l’aide d’une organisation institutionnelle plus ou moins poussée. » (<a id="a63_291"></a>[LU 98:6.1](/fr/The_Urantia_Book/98#p6_1))
 
-> « Quels que soient les inconvénients et les handicaps, chaque nouvelle révélation de la vérité a donné naissance à un nouveau culte, et même la reformulation de la religion de Jésus doit développer un nouveau symbolisme adéquat. » ([LU 87:7.6](/fr/The_Urantia_Book/87#p7_6))
+> « Quels que soient les inconvénients et les handicaps, chaque nouvelle révélation de la vérité a donné naissance à un nouveau culte, et même la reformulation de la religion de Jésus doit développer un nouveau symbolisme adéquat. » (<a id="a65_234"></a>[LU 87:7.6](/fr/The_Urantia_Book/87#p7_6))
 
-> « Bien que le culte ait toujours retardé le progrès social, il est regrettable que tant de contemporains, croyant aux critères moraux et aux idéaux spirituels, n’aient pas de symbolisme approprié — pas de culte pour se soutenir mutuellement — rien à quoi ils puissent *appartenir.* » ([LU 87:7.3](/fr/The_Urantia_Book/87#p7_3))
+> « Bien que le culte ait toujours retardé le progrès social, il est regrettable que tant de contemporains, croyant aux critères moraux et aux idéaux spirituels, n’aient pas de symbolisme approprié — pas de culte pour se soutenir mutuellement — rien à quoi ils puissent *appartenir.* » (<a id="a67_287"></a>[LU 87:7.3](/fr/The_Urantia_Book/87#p7_3))
 
-> « Il y a un but réel dans la socialisation de la religion. Les activités religieuses collectives ont pour but de mettre en scène la fidélité envers la religion ; de magnifier les attraits de la vérité, de la beauté et de la bonté ; d’entretenir l’attirance des valeurs suprêmes ; d’amplifier le service de fraternité désintéressé ; de glorifier les potentiels de la vie de famille ; de promouvoir l’éducation religieuse ; de fournir de sages conseils et des directives spirituelles et d’encourager le culte en commun. » ([LU 99:6.2](/fr/The_Urantia_Book/99#p6_2))
+> « Il y a un but réel dans la socialisation de la religion. Les activités religieuses collectives ont pour but de mettre en scène la fidélité envers la religion ; de magnifier les attraits de la vérité, de la beauté et de la bonté ; d’entretenir l’attirance des valeurs suprêmes ; d’amplifier le service de fraternité désintéressé ; de glorifier les potentiels de la vie de famille ; de promouvoir l’éducation religieuse ; de fournir de sages conseils et des directives spirituelles et d’encourager le culte en commun. » (<a id="a69_523"></a>[LU 99:6.2](/fr/The_Urantia_Book/99#p6_2))
 
 La Communauté Spirituelle est une vision spirituelle centrée sur Dieu qui s’efforce de développer un symbolisme approprié et une expression socioreligieuse de la Cinquième Révélation d’Époque. Nous vous invitons à participer à cette nouvelle aventure spirituelle de différentes manières qui vous semblent appropriées, telles que :
 
@@ -54,10 +78,35 @@ La Communauté Spirituelle est une vision spirituelle centrée sur Dieu qui s’
 
 Nous croyons que la Communauté Spirituelle portera la religion de Jésus et la Cinquième Révélation d’Époque à travers le monde. Nous vous invitons à rejoindre cette aventure spirituelle vers le futur.
 
-> _Dr. Meredith Sprunger est fondatrice et rédactrice émérite du _The Spiritual Fellowship Journal_. Il est un Urantien actif et dévoué depuis plus de quatre décennies, occupant de nombreuses fonctions. Il est l'auteur de « Spiritual Psychology » (Jemenon, 1992), co-auteur de « A History of the Urantia Papers » (Penumbra Press, 2000) et d'innombrables aides à l'étude et articles relatifs aux Urantia Papers._
+> _Dr. Meredith Sprunger est fondatrice et rédactrice émérite du _Journal de la Fraternité Spirituelle_. Il est un Urantien actif et dévoué depuis plus de quatre décennies, occupant de nombreuses fonctions. Il est l'auteur de « Spiritual Psychology » (Jemenon, 1992), co-auteur de « A History of the Urantia Papers » (Penumbra Press, 2000) et d'innombrables aides à l'étude et articles relatifs aux Urantia Papers._
 {.is-info}
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Real_Life_Outreach">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sensibilisation à la vraie vie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sherilyn_Henry/The_Spiritual_Fellowship_Why_Now">
+          <span class="pr-2">La communion spirituelle – Pourquoi maintenant ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Remarques
 

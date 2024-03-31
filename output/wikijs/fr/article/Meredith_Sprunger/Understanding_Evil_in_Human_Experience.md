@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1999 Meredith J. Sprunger<br>© 1999 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la volonté du Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/Significant_Books_A_New_Morality_by_Raymond_B_Cattell">
+          <span class="pr-2">Livres importants : une nouvelle morale issue de la science : le dépassement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -17,7 +41,7 @@ Le problème ultime du théisme est l’énigme du mal. Comment concilier la cro
 
 L’histoire de la religion regorge de tentatives pour répondre à cette question. Toutes ces théodicées ont plus ou moins échoué à apporter une réponse satisfaisante à ces incongruités divino-humaines. Les réponses théologiques traditionnelles au problème du mal sont enracinées dans une compréhension géocentrique et préscientifique de la nature de l’univers. Les ambiguïtés centrales et la nature incompréhensible du problème du mal dans l'expérience humaine se concentrent sur notre compréhension immature et simpliste de la réalité et de la relation de Dieu avec l'univers fini. Les découvertes scientifiques ont considérablement élargi notre connaissance de la taille et de la complexité de l’univers matériel. _Le Livre d'Urantia_, de la même manière, a élargi notre conceptualisation de la cosmologie spirituelle et a ouvert une vue sur l'étonnante complexité et variation des formes de la réalité.
 
-> L’homme peut trouver l’amour de Dieu sans les faits et découvrir les lois de Dieu sans l’amour, mais jamais il ne peut commencer à apprécier la symétrie infinie, l’harmonie céleste et l’exquise plénitude de la nature inclusive de tout de la Source-Centre Première avant d’avoir trouvé la loi divine et l’amour divin, et de les avoir unifiés expérientiellement dans sa propre philosophie cosmique en évolution. ([LU 111:6.6](/fr/The_Urantia_Book/111#p6_6))
+> L’homme peut trouver l’amour de Dieu sans les faits et découvrir les lois de Dieu sans l’amour, mais jamais il ne peut commencer à apprécier la symétrie infinie, l’harmonie céleste et l’exquise plénitude de la nature inclusive de tout de la Source-Centre Première avant d’avoir trouvé la loi divine et l’amour divin, et de les avoir unifiés expérientiellement dans sa propre philosophie cosmique en évolution. (<a id="a43_413"></a>[LU 111:6.6](/fr/The_Urantia_Book/111#p6_6))
 
 ## L'univers fini
 
@@ -29,7 +53,7 @@ Le processus évolutif comporte des stimuli mentaux, appelés « esprits mentaux
 
 Lorsque des êtres finis et imparfaits disposent du libre arbitre, les erreurs, la violation des lois universelles (le mal) et la transgression délibérée de la vérité spirituelle (le péché) sont pratiquement inévitables. Si les êtres humains veulent progresser vers la sagesse et la perfection spirituelle, certaines conditions environnementales sont nécessaires. L’expérience est le moyen de base de l’apprentissage et de l’éducation. La croissance spirituelle nécessite certaines expériences d'apprentissage qui servent de guides vers la réalité spirituelle. Pour développer notre courage, nous devons vivre dans un environnement qui nécessite de lutter contre les difficultés et les dangers. Si l’espoir veut évoluer, il faut alors être constamment confronté à l’insécurité et aux incertitudes. Afin d’établir l’amour de la vérité dans le cœur humain, il faut vivre dans un monde où l’erreur est présente et où les maux du mensonge sont confrontés. Le altruisme s'acquiert lorsque nous découvrons à plusieurs reprises le malheur provoqué par un ego réclamant continuellement du plaisir, de l'honneur et de la reconnaissance. Les êtres évolutionnaires doivent vivre dans un environnement de mal relatif et potentiel afin d'expérimenter et d'apprendre la validité des réalités spirituelles supérieures de l'univers. Dans l’univers fini et évolutif, une certaine quantité de mal et de souffrance est nécessaire pour guider les êtres intelligents et libres vers la croissance spirituelle.
 
-> La confusion et le tumulte sur Urantia ne signifient pas que les Chefs du Paradis manquent d’intérêt ou d’aptitude à diriger différemment les affaires. Les Créateurs possèdent les pleins pouvoirs pour faire d’Urantia un véritable paradis, mais un tel Éden ne contribuerait pas à développer les caractères vigoureux, nobles et expérimentés que les Dieux sont en train de forger avec tant de certitude sur votre monde, entre les enclumes de la nécessité et les marteaux de l’angoisse. Vos anxiétés et vos tristesses, vos épreuves et vos désappointements, font tout aussi bien partie du plan divin sur votre sphère que la perfection exquise et l’adaptation infinie de toutes choses à leur but suprême sur les mondes de l’univers central et parfait. ([LU 23:2.12](/fr/The_Urantia_Book/23#p2_12))
+> La confusion et le tumulte sur Urantia ne signifient pas que les Chefs du Paradis manquent d’intérêt ou d’aptitude à diriger différemment les affaires. Les Créateurs possèdent les pleins pouvoirs pour faire d’Urantia un véritable paradis, mais un tel Éden ne contribuerait pas à développer les caractères vigoureux, nobles et expérimentés que les Dieux sont en train de forger avec tant de certitude sur votre monde, entre les enclumes de la nécessité et les marteaux de l’angoisse. Vos anxiétés et vos tristesses, vos épreuves et vos désappointements, font tout aussi bien partie du plan divin sur votre sphère que la perfection exquise et l’adaptation infinie de toutes choses à leur but suprême sur les mondes de l’univers central et parfait. (<a id="a55_749"></a>[LU 23:2.12](/fr/The_Urantia_Book/23#p2_12))
 
 ## La relation de Dieu avec l'univers fini
 
@@ -45,7 +69,7 @@ Le plan divin pour l'univers fini était de faire évoluer une création imparfa
 
 > Toutes les choses divines que le mental humain saisit et que l’âme humaine acquiert sont des aboutissements d’expérience. Ce sont des *réalités* d’expérience personnelle, donc des possessions uniques, contrairement à la bonté et à la droiture inhérentes aux personnalités infaillibles de Havona.
 > 
-> Les créatures de Havona sont naturellement braves, mais ne sont pas courageuses au sens humain. Elles sont nées aimables et pleines d’égards, mais ne sont guère altruistes à la manière humaine. Elles s’attendent à un avenir agréable, mais ne sont pas pleines d’espoir à la manière exquise des mortels confiants sur les sphères évolutionnaires incertaines. Elles ont foi dans la stabilité de l’univers, mais sont totalement étrangères à la foi salvatrice par laquelle un mortel s’élève du statut d’animal jusqu’aux portes du Paradis. Elles aiment la vérité, mais ne connaissent rien de sa qualité qui sauve les âmes. Elles sont idéalistes, mais sont nées ainsi ; elles ignorent totalement l’extase de devenir telles par des choix exaltants. ([LU 3:5.16-17](/fr/The_Urantia_Book/3#p5_16))
+> Les créatures de Havona sont naturellement braves, mais ne sont pas courageuses au sens humain. Elles sont nées aimables et pleines d’égards, mais ne sont guère altruistes à la manière humaine. Elles s’attendent à un avenir agréable, mais ne sont pas pleines d’espoir à la manière exquise des mortels confiants sur les sphères évolutionnaires incertaines. Elles ont foi dans la stabilité de l’univers, mais sont totalement étrangères à la foi salvatrice par laquelle un mortel s’élève du statut d’animal jusqu’aux portes du Paradis. Elles aiment la vérité, mais ne connaissent rien de sa qualité qui sauve les âmes. Elles sont idéalistes, mais sont nées ainsi ; elles ignorent totalement l’extase de devenir telles par des choix exaltants. (<a id="a71_743"></a>[LU 3:5.16-17](/fr/The_Urantia_Book/3#p5_16))
 
 ## Aspects irrationnels du mal
 
@@ -65,8 +89,33 @@ Nous avons observé que le plan divin pour l’univers fini est de créer des ê
 
 Le caractère éducatif inégalé de ce type d'expérience, ainsi que la présence intérieure de l'Esprit de Dieu, sont la raison pour laquelle, même face à des souffrances intenses et irrationnelles, la grande majorité de l'humanité reste courageuse dans sa capacité d'adaptation et ferme dans sa capacité à faire face. leur foi dans le triomphe ultime du bien. Le dessein sage, aimant et clairvoyant de Dieu pour l’univers fini n’échouera pas. Le Père Universel n’intervient donc pas arbitrairement avec un pouvoir transcendant pour modifier la méthodologie évolutionniste divine pour vaincre le mal et le péché. En effet, l’erreur et la rébellion spirituelle sont plus clairement perçues pour ce qu’elles sont si on les laisse suivre leur cours évolutif. Au fil des siècles, ce processus expérientiel générera plus de bien dans la vie des individus et dans la société que n’en produiraient des solutions forcées, arbitraires ou révolutionnaires.
 
-La réponse finale au problème du mal pour chaque personne réside dans la communion avec l'Esprit de Dieu qui habite l'esprit humain. Bien que nous vivions dans un monde et un univers où l’intelligence immanente est détectée par inférence, où la connaissance de Dieu passe par toute la réalité, nous ne connaissons Dieu personnellement que par l’expérience intérieure. Par la foi et la communion spirituelle, nous établissons une conscience divine et un partenariat vivant avec le Père Universel. Alors que nous faisons face aux problèmes et aux perplexités de la vie, nous sommes aidés par la sagesse divine. Lorsque la souffrance et la tragédie entrent dans notre expérience et que nous avons épuisé notre propre capacité à y faire face, une paix intérieure accrue, une nouvelle compréhension, une nouvelle combinaison de ressources soutiennent notre vie. Celui qui établit cette relation intérieure avec le Père est invulnérable aux coups les plus dévastateurs de la vie. Ces enfants de l’univers fini apprennent « à se repaître de l’incertitude, à s’engraisser de la déception, à s’enthousiasmer face à une défaite apparente, à se revigorer face aux difficultés, à faire preuve d’un courage indomptable face à l’immensité et à exercer une foi invincible face à l’immensité ». avec le défi de l’inexplicable. Ils découvrent qu’« en liaison avec Dieu, rien – absolument rien – n’est impossible ». ([LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
+La réponse finale au problème du mal pour chaque personne réside dans la communion avec l'Esprit de Dieu qui habite l'esprit humain. Bien que nous vivions dans un monde et un univers où l’intelligence immanente est détectée par inférence, où la connaissance de Dieu passe par toute la réalité, nous ne connaissons Dieu personnellement que par l’expérience intérieure. Par la foi et la communion spirituelle, nous établissons une conscience divine et un partenariat vivant avec le Père Universel. Alors que nous faisons face aux problèmes et aux perplexités de la vie, nous sommes aidés par la sagesse divine. Lorsque la souffrance et la tragédie entrent dans notre expérience et que nous avons épuisé notre propre capacité à y faire face, une paix intérieure accrue, une nouvelle compréhension, une nouvelle combinaison de ressources soutiennent notre vie. Celui qui établit cette relation intérieure avec le Père est invulnérable aux coups les plus dévastateurs de la vie. Ces enfants de l’univers fini apprennent « à se repaître de l’incertitude, à s’engraisser de la déception, à s’enthousiasmer face à une défaite apparente, à se revigorer face aux difficultés, à faire preuve d’un courage indomptable face à l’immensité et à exercer une foi invincible face à l’immensité ». avec le défi de l’inexplicable. Ils découvrent qu’« en liaison avec Dieu, rien – absolument rien – n’est impossible ». (<a id="a91_1399"></a>[LU 26:5.3](/fr/The_Urantia_Book/26#p5_3))
 
 > _Meredith Sprunger est enseignante et ministre de l'Église Unie du Christ, aujourd'hui à la retraite, et rédactrice en chef de_ The Spiritual Fellowship Journal.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/Doing_the_Fathers_Will">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Faire la volonté du Père</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1999 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/C_Bud_Bromley/Significant_Books_A_New_Morality_by_Raymond_B_Cattell">
+          <span class="pr-2">Livres importants : une nouvelle morale issue de la science : le dépassement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

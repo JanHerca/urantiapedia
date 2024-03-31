@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1993 Sue Tennant<br>© 1993 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/On_Possible_and_impossible_Thoughts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Sur les pensées possibles et impossibles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byrdestin/In_Time_to_Eter">
+          <span class="pr-2">Dans le temps jusqu'à l'éternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ***_Le Livre d'Urantia_ et le renouveau spirituel***
@@ -28,3 +52,28 @@ Avec le temps, des liens ont été établis avec d'autres lecteurs et groupes d'
 > _Sue Tennant a fréquenté le Wycliffe College de la Toronto School of Theology et termine actuellement sa dernière année au New Seminary de New York. Elle est une ancienne publiciste de Toronto et auteur de « Crossing_
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Merlyn_Cox/On_Possible_and_impossible_Thoughts">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Interface : Sur les pensées possibles et impossibles</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1993">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1993 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byrdestin/In_Time_to_Eter">
+          <span class="pr-2">Dans le temps jusqu'à l'éternité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

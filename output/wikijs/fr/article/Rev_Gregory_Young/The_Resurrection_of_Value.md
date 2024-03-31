@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2000 Révérend Gregory Young<br>© 2000 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Service de communion : Le Souper du Souvenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/God_the_Supreme">
+          <span class="pr-2">Dieu le Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il y a une histoire intéressante sur un événement inhabituel qui s'est produit dans un théâtre de Broadway. C'était un vendredi soir et le théâtre était plein à craquer pour une représentation de _La Nuit de l'iguane_ de Tennessee Williams, mettant en vedette la célèbre actrice Dorothy McGuire. Juste avant que le rideau ne soit sur le point de se lever, une femme dans le public – une femme d'âge moyen en surpoids vêtue d'une robe imprimée bleue – a surpris le public en criant soudainement : « Commencez le spectacle ! Commencez le spectacle ! Je veux voir Dorothy McGuire. J'adore Dorothy McGuire ! Les huissiers et le gérant de la maison sont descendus pour essayer de raisonner la femme. Ils l'ont contactée, mais elle s'est reculée et a continué à crier : "Je veux voir Dorothy McGuire ! Commencez le spectacle !
@@ -82,3 +106,28 @@ Je ne peux jamais vraiment comprendre
 La valeur d'une âme et le changement qui s'opère
 Par le contact de la main du Maître.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/A_Communion_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Service de communion : Le Souper du Souvenir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2000 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/God_the_Supreme">
+          <span class="pr-2">Dieu le Suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

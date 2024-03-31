@@ -27,7 +27,7 @@ Mais si votre réponse est non (parce que cela ne servirait à rien), alors il d
 
 Quelle que soit votre réponse, n’oubliez jamais que vous êtes réellement habité par votre Esprit-Dieu qui est toujours prêt à vous aider à vous débrouiller.
 
-> N’oubliez pas que vous êtes uniquement mandatés pour aller prêcher la bonne nouvelle. Il ne faut pas attaquer les anciens modes de vie ; il faut introduire habilement le levain de la nouvelle vérité au milieu des anciennes croyances. Laissez l’Esprit de Vérité accomplir son propre travail. ([LU 178:1.16](/fr/The_Urantia_Book/178#p1_16))
+> N’oubliez pas que vous êtes uniquement mandatés pour aller prêcher la bonne nouvelle. Il ne faut pas attaquer les anciens modes de vie ; il faut introduire habilement le levain de la nouvelle vérité au milieu des anciennes croyances. Laissez l’Esprit de Vérité accomplir son propre travail. (<a id="a29_294"></a>[LU 178:1.16](/fr/The_Urantia_Book/178#p1_16))
 
 ## Liens externes
 

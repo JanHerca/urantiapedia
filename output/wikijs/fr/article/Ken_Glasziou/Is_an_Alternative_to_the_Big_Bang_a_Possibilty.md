@@ -73,7 +73,7 @@ Il suffit de dire qu’il s’agit d’une équipe merveilleusement douée et no
 
 ## La relativité et les papiers
 
-> « Ne laissez pas les quelques notions que vous avez au sujet des découvertes faiblement entrevues de la « relativité » troubler vos concepts de l’éternité et de l’infinité de Dieu. » ([LU 195:7.5](/fr/The_Urantia_Book/195#p7_5))
+> « Ne laissez pas les quelques notions que vous avez au sujet des découvertes faiblement entrevues de la « relativité » troubler vos concepts de l’éternité et de l’infinité de Dieu. » (<a id="a75_186"></a>[LU 195:7.5](/fr/The_Urantia_Book/195#p7_5))
 
 De nombreux lecteurs du Livre d’Urantia croient que certaines des remarques contenues dans les fascicules qui utilisent le terme « relativité » font référence à la Relativité Générale d’Einstein. Cette croyance est peut-être déplacée. Cependant, ceux qui le font peuvent être soulagés de savoir que le modèle de création d’Arp supprime le besoin de courbure de l’espace-temps qui est fondamental dans la relativité générale d’Einstein.
 

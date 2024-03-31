@@ -31,11 +31,11 @@ Ce dévouement à l'amour était contagieux dans tout un vaste univers ; les dis
 
 La croix lance un appel suprême au meilleur de l'homme car elle révèle celui qui était prêt à donner sa vie au service de ses semblables.
 
-> Nul ne peut avoir de plus grand amour que d’être disposé à donner sa vie pour ses amis — et Jésus avait un tel amour qu’il était prêt à donner sa vie pour ses ennemis, un amour plus grand que tout ce que l’on avait connu jusque-là sur terre. ([LU 188:5.7](/fr/The_Urantia_Book/188#p5_7))
+> Nul ne peut avoir de plus grand amour que d’être disposé à donner sa vie pour ses amis — et Jésus avait un tel amour qu’il était prêt à donner sa vie pour ses ennemis, un amour plus grand que tout ce que l’on avait connu jusque-là sur terre. (<a id="a33_245"></a>[LU 188:5.7](/fr/The_Urantia_Book/188#p5_7))
 
 > Vous prêchez un sermon plus vrai avec votre vie qu'avec vos lèvres.
 
-> Quand les hommes et les femmes réfléchis considèrent Jésus offrant sa vie sur la croix, ils ne peuvent plus guère se permettre de se plaindre, même des plus rudes épreuves de la vie, et encore bien moins des petites vexations et des nombreux griefs purement fictifs qui en découlent. ([LU 188:5.10](/fr/The_Urantia_Book/188#p5_10))
+> Quand les hommes et les femmes réfléchis considèrent Jésus offrant sa vie sur la croix, ils ne peuvent plus guère se permettre de se plaindre, même des plus rudes épreuves de la vie, et encore bien moins des petites vexations et des nombreux griefs purement fictifs qui en découlent. (<a id="a37_287"></a>[LU 188:5.10](/fr/The_Urantia_Book/188#p5_10))
 
 ## Liens externes
 

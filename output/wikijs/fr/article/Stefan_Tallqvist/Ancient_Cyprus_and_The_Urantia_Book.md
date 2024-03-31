@@ -13,11 +13,11 @@ dateCreated: 2022-9-9T8:13:38Z
 
 Stefan écrit : Chers amis,
 
-Lors de ma deuxième visite à Chypre le mois dernier, je voulais écrire sur une corrélation archéologique qui pourrait être digne de mention et dans laquelle la description du Livre d'Urantia et les preuves archéologiques s'accordent assez bien. Il y a une corrélation claire dans le texte du _Livre d'Urantia_, [LU 80:7.9](/fr/The_Urantia_Book/80#p7_9), et les informations du Musée de Chypre. Le livre déclare :
+Lors de ma deuxième visite à Chypre le mois dernier, je voulais écrire sur une corrélation archéologique qui pourrait être digne de mention et dans laquelle la description du Livre d'Urantia et les preuves archéologiques s'accordent assez bien. Il y a une corrélation claire dans le texte du _Livre d'Urantia_, <a id="a15_311"></a>[LU 80:7.9](/fr/The_Urantia_Book/80#p7_9), et les informations du Musée de Chypre. Le livre déclare :
 
 > _Partant de tout le croissant fertile, les populations les plus aventureuses allèrent vers l’ouest et affluèrent dans les iles. Ces émigrants cultivaient des céréales et des légumes, et amenèrent avec eux des animaux domestiques._
 > 
-> _Vers l’an 5 000 av. J.-C., un puissant contingent de Mésopotamiens progressistes sortit de la vallée de l’Euphrate et s’installa dans l’ile de Chypre ; cette civilisation fut balayée quelque deux-mille ans plus tard par les hordes barbares venues du nord._ ([LU 80:7.9-10](/fr/The_Urantia_Book/80#p7_9))
+> _Vers l’an 5 000 av. J.-C., un puissant contingent de Mésopotamiens progressistes sortit de la vallée de l’Euphrate et s’installa dans l’ile de Chypre ; cette civilisation fut balayée quelque deux-mille ans plus tard par les hordes barbares venues du nord._ (<a id="a19_261"></a>[LU 80:7.9-10](/fr/The_Urantia_Book/80#p7_9))
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Stefan_Tallqvist/2848-0-medium.jpg">
@@ -48,9 +48,9 @@ En avril de cette année (1996), j'ai visité le site archéologique de Khirokit
 
 Stefan conclut qu'il trouve que toutes les informations archéologiques sont en bon accord avec les Cahiers d'Urantia.
 
-> La religion de Jésus *est* le salut qui sauve du moi, ([LU 5:4.5](/fr/The_Urantia_Book/5#p4_5))
+> La religion de Jésus *est* le salut qui sauve du moi, (<a id="a50_57"></a>[LU 5:4.5](/fr/The_Urantia_Book/5#p4_5))
 
-> Les individus vraiment religieux cherchent à identifier leur moi avec l’univers, et à dédier ensuite les activités de ce moi unifié au service de la famille universelle de leurs compagnons, humains et suprahumains. ([LU 5:4.3](/fr/The_Urantia_Book/5#p4_3))
+> Les individus vraiment religieux cherchent à identifier leur moi avec l’univers, et à dédier ensuite les activités de ce moi unifié au service de la famille universelle de leurs compagnons, humains et suprahumains. (<a id="a52_218"></a>[LU 5:4.3](/fr/The_Urantia_Book/5#p4_3))
 
 ## Liens externes
 

@@ -157,13 +157,13 @@ Un autre aspect de l’esprit est l’esprit mécanique ou non enseignable. C'es
 
 Lorsque les articles furent reçus dans la période 1920-1935, seule une poignée de physiciens avaient une réelle connaissance du conflit entre la vision matérialiste-déterministe classique de la réalité et la vision probabiliste défendue, puis confirmée expérimentalement, par les théoriciens quantiques. Alors que disent les journaux ?
 
-> Ces Absolus doivent être les présences non pleinement révélées qui, répandues dans les univers, agissent sur les phénomènes de puissance d’espace et les fonctions d’autres superultimes, rendant ainsi impossible aux physiciens, aux philosophes et même aux personnes religieuses de prédire avec certitude comment les sources primordiales de force, ([LU 4:1.9](/fr/The_Urantia_Book/4#p1_9))
+> Ces Absolus doivent être les présences non pleinement révélées qui, répandues dans les univers, agissent sur les phénomènes de puissance d’espace et les fonctions d’autres superultimes, rendant ainsi impossible aux physiciens, aux philosophes et même aux personnes religieuses de prédire avec certitude comment les sources primordiales de force, (<a id="a159_349"></a>[LU 4:1.9](/fr/The_Urantia_Book/4#p1_9))
 
-> Le Paradis est l’archétype de l’infinité ; le Dieu d’Action est l’animateur de cet archétype. Le Paradis est le point d’appui matériel de l’infinité ; les agents de la Source-Centre Troisième sont les leviers d’intelligence qui motivent le niveau matériel et infusent la spontanéité dans les mécanismes de la création physique. ([LU 9:3.8](/fr/The_Urantia_Book/9#p3_8))
+> Le Paradis est l’archétype de l’infinité ; le Dieu d’Action est l’animateur de cet archétype. Le Paradis est le point d’appui matériel de l’infinité ; les agents de la Source-Centre Troisième sont les leviers d’intelligence qui motivent le niveau matériel et infusent la spontanéité dans les mécanismes de la création physique. (<a id="a161_331"></a>[LU 9:3.8](/fr/The_Urantia_Book/9#p3_8))
 
-> Puisque le mental coordonne l’univers, la fixité des mécanismes n’existe pas. L’évolution progressive associée à l’entretien cosmique autonome est un phénomène universel. La capacité de l’univers à évoluer est inépuisable dans l’infini de la spontanéité. ([LU 42:11.7](/fr/The_Urantia_Book/42#p11_7))
+> Puisque le mental coordonne l’univers, la fixité des mécanismes n’existe pas. L’évolution progressive associée à l’entretien cosmique autonome est un phénomène universel. La capacité de l’univers à évoluer est inépuisable dans l’infini de la spontanéité. (<a id="a163_258"></a>[LU 42:11.7](/fr/The_Urantia_Book/42#p11_7))
 
-> L’univers fini de la matière deviendrait finalement uniforme et déterministe s’il n’y avait pas la présence conjuguée du mental et de l’esprit. L’influence du mental cosmique injecte constamment de la spontanéité, même dans les mondes matériels. ([LU 195:6.15](/fr/The_Urantia_Book/195#p6_15))
+> L’univers fini de la matière deviendrait finalement uniforme et déterministe s’il n’y avait pas la présence conjuguée du mental et de l’esprit. L’influence du mental cosmique injecte constamment de la spontanéité, même dans les mondes matériels. (<a id="a165_249"></a>[LU 195:6.15](/fr/The_Urantia_Book/195#p6_15))
 
 D'où l'on peut discerner que celui qui a écrit les Cahiers d'Urantia était pleinement conscient de ces principes fondamentaux bien avant que la science et ses preuves empiriques ne commencent à révéler des faits démontrables expérimentalement.
 

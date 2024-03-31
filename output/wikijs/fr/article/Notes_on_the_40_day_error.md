@@ -19,7 +19,7 @@ Un examen approfondi et détaillé des preuves indique que cela ne peut pas êtr
 
 La réunion mentionnée dans les deux documents eut lieu entre les apôtres et les cent vingt disciples les plus éminents de Jérusalem. Sont inclus la mère de Jésus et les membres de sa famille.
 
-L'explication proposée par le Dr Sadler échoue dans le tout premier paragraphe de [Paper 194, Section 1, « The Pentecost Sermon »](/fr/The_Urantia_Book/194#p1) qui dit : « _Les apôtres s’étaient cachés pendant quarante jours._ » Lu dans son contexte, cela signifie ce qu'il dit et non cela, « _Jusqu'à dix jours auparavant, les apôtres se cachaient depuis quarante jours_ » — ce à quoi on pourrait s'attendre si la réunion avait lieu cinquante et non quarante jours après la crucifixion de Jésus (l'attente si les réunions ne sont pas la même).
+L'explication proposée par le Dr Sadler échoue dans le tout premier paragraphe de <a id="a21_82"></a>[Paper 194, Section 1, « The Pentecost Sermon »](/fr/The_Urantia_Book/194#p1) qui dit : « _Les apôtres s’étaient cachés pendant quarante jours._ » Lu dans son contexte, cela signifie ce qu'il dit et non cela, « _Jusqu'à dix jours auparavant, les apôtres se cachaient depuis quarante jours_ » — ce à quoi on pourrait s'attendre si la réunion avait lieu cinquante et non quarante jours après la crucifixion de Jésus (l'attente si les réunions ne sont pas la même).
 
 Plus loin dans ce même paragraphe, « _les apôtres effrayés sortirent de leurs semaines de réclusion pour apparaître hardiment dans le temple...._ » D’après l’explication du Dr Sadler, ils auraient dû sortir de leur cachette dix jours plus tôt ! Alors pourquoi ont-ils encore peur et ne se cachent-ils plus ?
 
@@ -37,7 +37,7 @@ Plus nous examinons le problème en détail, plus il semble que les « quarante 
 
 Curieusement, il est resté en sommeil pendant toutes ces années, mais apparaît désormais indépendamment à plusieurs endroits. L’un est un article récent de Seppo Kanerva dans le Journal de l’IUA, un autre concerne des discussions par courrier électronique entre divers lecteurs fondamentalistes et nos rédacteurs – et il y en a probablement d’autres. Est-ce un signal que le temps d’un changement radical dans le mouvement Urantia est maintenant arrivé ?
 
-En conclusion, et au cas où un fondamentaliste parviendrait à trouver un moyen d’appeler les noirs blancs, nous leur laisserons une autre tâche. Montez au sommet de la colline de Nazareth, face à l’est, et voyez si vous pouvez voir les collines rocheuses de Moab, loin à l’est, au-delà de la vallée du Jourdain. ([LU 123:5.12](/fr/The_Urantia_Book/123#p5_12))
+En conclusion, et au cas où un fondamentaliste parviendrait à trouver un moyen d’appeler les noirs blancs, nous leur laisserons une autre tâche. Montez au sommet de la colline de Nazareth, face à l’est, et voyez si vous pouvez voir les collines rocheuses de Moab, loin à l’est, au-delà de la vallée du Jourdain. (<a id="a39_313"></a>[LU 123:5.12](/fr/The_Urantia_Book/123#p5_12))
 
 > Un mythe n'est bien sûr pas un conte de fées. C'est la présentation de faits appartenant à une catégorie dans les idiomes appropriés à une autre. Faire exploser un mythe, ce n’est donc pas nier les faits mais les réattribuer.
 > &nbsp; &nbsp; &nbsp; _Gilbert Ryle_

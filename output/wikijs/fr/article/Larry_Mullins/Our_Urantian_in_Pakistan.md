@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comparez : les concepts humains parallèles aux Fascicules d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Barton/The_Man_Nobody_Knows_Part_I">
+          <span class="pr-2">L'homme que personne ne connaît. Une découverte du vrai Jésus. Partie 1 sur 3 parties</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _« JJ » Johnson sert notre pays en tant que civil dans un endroit très dangereux, Islamabad, au Pakistan. Ce Marine (il n'existe pas d'ex-Marine) est « Semper Fi » pour les Cahiers d'Urantia, comme toujours. JJ aide certaines personnes affamées de vérité à consulter les Cahiers d'Urantia... en particulier la Vie et les Enseignements de Jésus. Voici quelques communications de l'une des jeunes femmes les plus courageuses et les plus merveilleuses qui aient eu accès à l'Apocalypse._
@@ -113,3 +137,28 @@ Nadia
 > jj606joh@isb.paknet.com.pk
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Tom_and_Karen_Allen/Compare_Human_Concepts_Paralleled_with_The_Urantia_Papers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comparez : les concepts humains parallèles aux Fascicules d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Barton/The_Man_Nobody_Knows_Part_I">
+          <span class="pr-2">L'homme que personne ne connaît. Une découverte du vrai Jésus. Partie 1 sur 3 parties</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

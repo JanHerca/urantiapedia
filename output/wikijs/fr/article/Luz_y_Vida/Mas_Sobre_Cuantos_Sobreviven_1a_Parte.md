@@ -195,7 +195,7 @@ Regardez aussi la progression de soi. Dans la vie matérielle, elle est affaire 
 > 
 > ***Le plan divin avait prévu*** que les races de mortels d’Urantia auraient ***une nature physique plus spontanément sensible à l’esprit***._
 > 
-> _Nonobstant ce ***double désastre pour la nature des hommes et leur entourage***..._ ([LU 34:7.4-6](/fr/The_Urantia_Book/34#p7_4))
+> _Nonobstant ce ***double désastre pour la nature des hommes et leur entourage***..._ (<a id="a197_88"></a>[LU 34:7.4-6](/fr/The_Urantia_Book/34#p7_4))
 
 Nous subissons d'abord, du seul fait de notre naissance ici, un double désastre : une société MAL ordonnée (grâce à Caligastia) et une nature physique PAS du tout sensible à l'esprit (grâce à Adam). d'une nature semblable, que veulent-ils, que font ces malheureux ? En plus de cela, ils ne survivront pas, parce qu’ils sont mauvais, ou inconscients, ou consuméristes ?
 

@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2001 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Transition_and_Transformation">
+          <span class="pr-2">Transition et transformation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Volume 11, numéro 1, printemps 2001
@@ -100,7 +121,7 @@ David et Rebecca Kantor
 Rosey Lieske
 Victor McGonnegal
 
-_The Spiritual Fellowship Journal_ est une publication œcuménique publiée deux fois par an conjointement par la Communauté chrétienne des étudiants du _Livre d'Urantia_ à Fort Wayne, Indiana et le Christ Michael Corps for Publishing and Outreach à Boulder, Colorado.
+_Journal de la Fraternité Spirituelle_ est une publication œcuménique publiée deux fois par an conjointement par la Communauté chrétienne des étudiants du _Livre d'Urantia_ à Fort Wayne, Indiana et le Christ Michael Corps for Publishing and Outreach à Boulder, Colorado.
 
 Les dons d'abonnement, les changements d'adresse, les articles et la correspondance éditoriale doivent être envoyés à :
 
@@ -146,9 +167,31 @@ Don annuel suggéré : 10 $.
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Meredith_Sprunger/Transition_and_Transformation">
+          <span class="pr-2">Transition et transformation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
 
-[^1]: voir [LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
+[^1]: voir <a id="a194_11"></a>[LU 87:7.6-10](/fr/The_Urantia_Book/87#p7_6)
 
 [^2]: Robert K. Greenleaf, _Servant Leadership_, Paulist Press, New York, 1977, p. 237.

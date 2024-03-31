@@ -10,6 +10,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1994 Meredith J. Sprunger<br>© 1994 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mystère de la Trinité : l'unité dans la pluralité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="pr-2">La rencontre transformatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Marcus J. Borg
@@ -31,3 +55,28 @@ Au cours des deux dernières décennies, un mouvement connu sous le nom de « th
 
 La force de l'honnêteté intellectuelle de l'érudition biblique contemporaine ainsi que son manque de preuves dans la compréhension de la divinité de Jésus, soulignent le grand besoin, dans le christianisme principal, des idées inspirantes du _Livre d'Urantia_. _Livre d'Urantia_ La christologie renforce à la fois la foi chrétienne historique en la divinité de Jésus et de nombreuses idées de l'érudition moderne. Cela nous libère de la religion qui divise à propos de Jésus et souligne et magnifie à nouveau la religion de Jésus.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stuart_R_Kerr_III/The_Mystery_of_Trinity_Unity_in_Plurality">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le mystère de la Trinité : l'unité dans la pluralité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#automne-1994">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Transforming_Encounter">
+          <span class="pr-2">La rencontre transformatrice</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

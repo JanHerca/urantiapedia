@@ -9,6 +9,30 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 1998 Révérend Gregory Young<br>© 1998 La Communauté Chrétienne des Étudiants du <i>Le Livre d'Urantia</i ></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/My_Introduction_to_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon introduction à Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="pr-2">Les Psaumes aujourd'hui : notre refuge et notre espoir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¡Tôt un matin récemment, alors que je faisais du jogging, j'étais impatient de voir les premiers merles de la saison. Puis, en me rendant au bureau de l'église, j'ai aperçu un certain nombre de carouges à épaulettes dans la zone humide du côté nord de la route de la baie de Donges. Génial, ai-je pensé, ce sont les signes avant-coureurs du printemps. Il est temps de se préparer à planter notre jardin !
@@ -40,5 +64,30 @@ En tant que disciples de Jésus, nous appartenons tous à la fraternité de l'hu
 > _Gregory Young est pasteur de l'église unie St. John du Christ à Germantown, Wisconsin._
 {.is-info}
 
-> « _L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. L’heure est venue de redécouvrir les vrais fondements originels du christianisme aujourd’hui déformé et plein de compromis — la vie et les enseignements réels de Jésus._ » ([LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
+> « _L’âge moderne refusera d’accepter une religion incompatible avec les faits et qui ne s’harmonise pas avec ses conceptions les plus élevées de la vérité, de la beauté et de la bonté. L’heure est venue de redécouvrir les vrais fondements originels du christianisme aujourd’hui déformé et plein de compromis — la vie et les enseignements réels de Jésus._ » (<a id="a66_360"></a>[LU 195:9.5](/fr/The_Urantia_Book/195#p9_5))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dick_Bain/My_Introduction_to_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mon introduction à Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Spiritual_Fellowship_Journal/Psalms_Today_9">
+          <span class="pr-2">Les Psaumes aujourd'hui : notre refuge et notre espoir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

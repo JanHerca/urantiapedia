@@ -9,6 +9,27 @@ dateCreated: 2023-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2002 Arthur Nash<br>© 2002 La Communauté Chrétienne des Étudiants du <i>Livre d'Urantia</i></p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Norm_Duval/The_Real_Gospel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le véritable Évangile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 > _Extrait du livre « La règle d'or en affaires », copyright 1923, ce matériel a une signification pour les érudits urantiens pour trois raisons. La première partie de cet extrait raconte le dévouement de Nash envers son église et le fondamentalisme erroné de l'organisation qui a abouti à son expulsion. Dans la deuxième partie, il raconte sa renaissance spirituelle. Dans l’un des témoignages les plus remarquables sur les valeurs pratiques de la Règle d’Or, Nash décrit comment il l’a appliquée à une entreprise en faillite et l’a vue prospérer et se développer. Il est inspirant de lire la naissance de la religion personnelle à Nash au moyen d’un service aimant – le grand évangile de Jésus de Nazareth. Le travail de Nash pourrait bien avoir été une source humaine secondaire pour un concept clé des Cahiers d'Urantia, comme nous le verrons._
@@ -140,13 +161,35 @@ Eh bien, c’est ce que j’ai découvert au cours des semaines d’études les 
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Norm_Duval/The_Real_Gospel_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le véritable Évangile</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_spiritual_fellowship_journal#printemps-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Printemps 2002 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
-[^1]: « On parlait beaucoup [dans la synagogue] des doctrines de la prédication de Jésus qui bouleversaient les gens ordinaires ; ses ennemis soutenaient que ses enseignements n'étaient pas pratiques et que tout s'effondrerait si tout le monde faisait un effort honnête pour vivre conformément à ses idées. Et les hommes des générations suivantes ont dit les mêmes choses. De nombreux hommes intelligents et bien intentionnés, même à l’époque plus éclairée de ces révélations, soutiennent que la civilisation moderne n’aurait pas pu être construite sur les enseignements de Jésus – et ils ont en partie raison. Mais tous ces sceptiques oublient qu’une bien meilleure civilisation aurait pu être construite sur la base de ses enseignements, et qu’elle le sera un jour. Ce monde n’a jamais essayé sérieusement de mettre en œuvre les enseignements de Jésus à grande échelle, même si des tentatives timides ont souvent été faites pour suivre les doctrines du soi-disant christianisme. [[LU 154:4.6](/fr/The_Urantia_Book/154#p4_6)]
-	« Ce monde n’a jamais sérieusement, sincèrement, ni honnêtement mis à l’épreuve ces idées dynamiques et ces idéaux divins de la doctrine du royaume des cieux exposée par Jésus. » [[LU 170:4.14](/fr/The_Urantia_Book/170#p4_14)]
+[^1]: « On parlait beaucoup [dans la synagogue] des doctrines de la prédication de Jésus qui bouleversaient les gens ordinaires ; ses ennemis soutenaient que ses enseignements n'étaient pas pratiques et que tout s'effondrerait si tout le monde faisait un effort honnête pour vivre conformément à ses idées. Et les hommes des générations suivantes ont dit les mêmes choses. De nombreux hommes intelligents et bien intentionnés, même à l’époque plus éclairée de ces révélations, soutiennent que la civilisation moderne n’aurait pas pu être construite sur les enseignements de Jésus – et ils ont en partie raison. Mais tous ces sceptiques oublient qu’une bien meilleure civilisation aurait pu être construite sur la base de ses enseignements, et qu’elle le sera un jour. Ce monde n’a jamais essayé sérieusement de mettre en œuvre les enseignements de Jésus à grande échelle, même si des tentatives timides ont souvent été faites pour suivre les doctrines du soi-disant christianisme. <a id="a187_981"></a>[[LU 154:4.6](/fr/The_Urantia_Book/154#p4_6)]
+	« Ce monde n’a jamais sérieusement, sincèrement, ni honnêtement mis à l’épreuve ces idées dynamiques et ces idéaux divins de la doctrine du royaume des cieux exposée par Jésus. » <a id="a188_180"></a>[[LU 170:4.14](/fr/The_Urantia_Book/170#p4_14)]
 	« L’économie d’aujourd’hui, motivée par la recherche du profit, est condamnée, à moins que les mobiles de service ne puissent s’ajouter aux mobiles de profit. La concurrence impitoyable, basée sur l’intérêt égoïste à vues étroites, finit par détruire les choses mêmes qu’elle cherche à maintenir. L’intention de rechercher exclusivement un profit pour soi-même est incompatible avec les idéaux chrétiens — et bien plus encore avec les enseignements de Jésus. »
 	« Dans l’économie, la recherche du profit se situe, par rapport à la recherche du service, à la même place relative que la peur par rapport à l’amour dans la religion. Mais il ne faudrait pas détruire ou supprimer brusquement la recherche du profit. Elle maintient assidument au travail bien des mortels qui autrement seraient indolents. Elle stimule l’énergie sociale, mais il n’est pas nécessaire que ses objectifs restent perpétuellement égoïstes. »
-	« La recherche du profit dans les activités économiques est entièrement vile et totalement indigne d’un ordre social avancé ; elle est néanmoins un facteur indispensable dans les phases initiales de la civilisation. Il ne faut pas enlever aux hommes le mobile du profit avant qu’ils aient fermement incorporé des types supérieurs de buts non lucratifs dans leurs efforts économiques et leurs services sociaux — le besoin transcendant d’une sagesse superlative, d’une fraternité fascinante et d’une excellence dans l’accomplissement spirituel. »[[LU 71:6.1-3](/fr/The_Urantia_Book/71#p6_1)]
+	« La recherche du profit dans les activités économiques est entièrement vile et totalement indigne d’un ordre social avancé ; elle est néanmoins un facteur indispensable dans les phases initiales de la civilisation. Il ne faut pas enlever aux hommes le mobile du profit avant qu’ils aient fermement incorporé des types supérieurs de buts non lucratifs dans leurs efforts économiques et leurs services sociaux — le besoin transcendant d’une sagesse superlative, d’une fraternité fascinante et d’une excellence dans l’accomplissement spirituel. »<a id="a191_545"></a>[[LU 71:6.1-3](/fr/The_Urantia_Book/71#p6_1)]
 
 
 
